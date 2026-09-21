@@ -1,0 +1,93 @@
+{
+  "day": "2026-09-21",
+  "tracks": [
+    {
+      "id": "a669cd99443b",
+      "title": "Hati Yang Tetap Menunggu",
+      "title_source": "ollama",
+      "genre": "bossa nova",
+      "language": "id",
+      "language_name": "Indonesian",
+      "mood": "wistful and nocturnal",
+      "persona": "a vocalist backed by a small horn section",
+      "subject": "a long-distance call",
+      "caption": "A smooth, melancholic Indonesian pop track with strong bossa nova and light jazz influences. The arrangement is built around a gentle, programmed drum beat, a smooth bassline, and clean electric guitar chords. A prominent, breathy flute carries the main melodic hook in the intro and interludes, lending a nostalgic, lounge-like atmosphere. The lead male vocal is soft and emotive, delivering a heartfelt performance. A contrasting bridge section introduces a whispered, processed vocal layer, creating an intimate, spoken-word feel before the song returns to its main theme and fades out with the flute melody.",
+      "lyrics": "[Intro - Flute Melody]\n\n[Verse 1]\nKucoba lupakan semua\nMasa-masa kita bersama\nNamun tak kuasa\nMengusir bayang-bayang cinta\nYang dulu pernah ada\n\n[Verse 2]\nKukira takkan terulang lagi\nKisah cinta yang seperti ini\nNamun setelah kau pergi\nMasih saja di hati\nMembayangi\n\n[Chorus]\nRasa rindu yang kurasa\nTak pernah bisa kulupakan\nMeskipun kau telah jauh\nHatiku tetap menunggu\n\n[Instrumental Break - Flute Melody]\n\n[Chorus]\nRasa rindu yang kurasa\nTak pernah bisa kulupakan\nMeskipun kau telah jauh\nHatiku tetap menunggu\n\n[Bridge - Whispered]\nRasa rindu yang kurasa\nTak pernah bisa kulupakan\nMeskipun kau telah jauh\nHatiku tetap menunggu\n\n[Chorus]\nRasa rindu yang kurasa\nTak pernah bisa kulupakan\nMeskipun kau telah jauh\nHatiku tetap menunggu\n\n[Outro - Instrumental with Flute Melody]",
+      "metas": {
+        "bpm": 88,
+        "duration": 202.0,
+        "genres": "N/A",
+        "keyscale": "D major",
+        "timesignature": "4",
+        "prompt": "",
+        "lyrics": ""
+      },
+      "seed": "1557377955",
+      "dit_model": "acestep-v15-turbo",
+      "generation_info": "**🎵 Total generation time (1 song): 202.27s**\n- 202.27s per song\n- LM phase (1 song): 87.24s\n- DiT phase (1 song): 115.03s",
+      "task_id": "f514e341-f09d-4fe6-9029-d340acd0c3a8",
+      "elapsed_s": 292.0,
+      "generated_at": "2026-09-21T14:01:42.244211+08:00",
+      "audio": "a669cd99443b.mp3"
+    },
+    {
+      "id": "3787c0f73784",
+      "title": "Xuân Đến Xuân Ơi",
+      "title_source": "ollama",
+      "genre": "samba",
+      "language": "vi",
+      "language_name": "Vietnamese",
+      "mood": "defiant and loud",
+      "persona": "a duo trading verses",
+      "subject": "swimming at night",
+      "caption": "'A spirited Vietnamese folk song driven by a lively, virtuosic accordion that plays both the main melody and intricate, fast-paced solos. The arrangement features a clear female lead vocal with a classic, melodic delivery, later joined by a male vocalist for duet sections and harmonies. The rhythm section consists of a steady acoustic bass and light, brushed percussion, creating a waltz-like, swaying feel. The song''s structure alternates between vocal verses and expressive accordion-led instrumental passages. The track concludes with an unexpected and dramatic shift: the folk ensemble fades into a brief, atmospheric piano and vocal section, which is then abruptly cut off by a chaotic, distorted noise swell that ends the piece.'",
+      "lyrics": "[Accordion Intro]\n\n[Verse 1]\nDưới<|audio_code_11597|> tìm khu ấm\nNghiêng mình gió đung đưa nhành mai\nXuân về rộn rã muôn hoa\nNghe cây khẽ hát cùng ta lời yêu thương\n\n[Verse 2]\nNắng xuân về trên đất\nXua tan kia lạnh băng\nMai vàng tỏa ngát hương\nNhân cây trong một sương dạt dào\n\n[Accordion Interlude]\n\n[Verse 3]\nTrời đất người hòa bình\nĐất trời kết thân chung\nHòa bình gieo xuống khắp\nơi\nĐể cùng chung sức dựng xây ngày mai tươi sáng\nĐón xuân về cùng vui Tết\n\n[Accordion Solo]\n\n[Verse 4]\nNgàn hoa đua sắc lung linh\nSắc xuân tươi thắm màu\nMai vàng rực rỡ bên thềm\nXuân yêu thương ngập tràn trong tim\n\n[Outro]\nXuân đến, xuân ơi\n\n[Accordion Outro]\n\n[Sound of a train passing on tracks]",
+      "metas": {
+        "bpm": 94,
+        "duration": 190.0,
+        "genres": "N/A",
+        "keyscale": "A minor",
+        "timesignature": "2",
+        "prompt": "",
+        "lyrics": ""
+      },
+      "seed": "411731093",
+      "dit_model": "acestep-v15-turbo",
+      "generation_info": "**🎵 Total generation time (1 song): 167.86s**\n- 167.86s per song\n- LM phase (1 song): 81.49s\n- DiT phase (1 song): 86.37s",
+      "task_id": "6f72fe59-695f-42a7-9051-ae2c028015bb",
+      "elapsed_s": 250.4,
+      "generated_at": "2026-09-21T14:05:57.375420+08:00",
+      "audio": "3787c0f73784.mp3"
+    },
+    {
+      "id": "ce38cfced8ce",
+      "title": "บลูแห่งการรอคอย",
+      "title_source": "ollama",
+      "genre": "bossa nova",
+      "language": "th",
+      "language_name": "Thai",
+      "mood": "warm and intimate",
+      "persona": "a producer-vocalist working alone in a bedroom studio",
+      "subject": "swimming at night",
+      "caption": "An intimate acoustic arrangement led by an intricately fingerpicked nylon-string guitar with clear hammer-ons and pull-offs creating melodic fills between chords. A gentle female vocal delivers a heartfelt melody, seamlessly switching between Thai and English lyrics that tell a story of perseverance and hope. The song maintains a soft dynamic throughout its verse-chorus structure, feeling like a supportive musical piece about resilience and perseverance under a blue sky.",
+      "lyrics": "[Intro - Acoustic Guitar]\n\n[Verse 1]\nวันนี้เธอคงเหนื่อยล้า\nถามว่าชีวิตจะไปถึงไหน\nตอบใจดวงเดาๆ ยังไม่รู้\nว่าเริ่มจากที่ไหน ยังไม่แน่ใจ\nเธอเคยรู้สึกเหมือนเวลาหยุดเดิน\nปัญหาซ่อนไว้มากมายให้เธอ\nพยายามเท่าไหร่ก็ไม่เห็น\nแต่เธอยังยืนอยู่ตรงนี้\n\n[Chorus]\nalande blueที่นี่มองพายุ\nลมนี้จะหายไปตามกาลเวลา\nแม่น้ำคือเพื่อนที่พาเธอก้าวผ่านเรื่องราว\nที่เจ็บจนได้เจอ\nเธอจะไม่หนีไปไหนอีกเลย\nแม้คลื่นยังซัดมาอย่างหมื่นเมา\n\n[Verse 2]\nกลั้นน้ำขึ้นดูซ<|audio_code_8470|>สลาย\nเธอยืนรับมันทุกอย่าง\nความฝันที่ล้มแล้วค่อยๆ กลับมา\nจะเดินใหม่ในแสงของเช้า\nไม่ต้องรีบแก้ปัญหาอีกแล้ว\nให้ลึกสิ่งที่ใจเธอ\nเพื่อนที่เข้าใจเธอจริงๆ ให้ได้รับฟังสิ่งที่ไม่พูดออกมา\nเพื่อนสักคนที่พร้อมจะสู้ไปด้วยเธอในวันที่เธอไม่มีใคร\n\n[Chorus]\nalande blue ไม่ใช่แค่ฝัน\nบ่มเป็นแค่เรื่องที่แสงจะพาเธอไป\nแต่ทุกคนจะยืนข้างเธอ\nแม้วันเวลาไม่ให้โอกาส\nและเธอจะเจอกับตัวเองในวันที่ลืมไป\nน้ำลมนี้จะเจ็บช้ำยาวนาน\n\n[Guitar Solo]\n\n[Chorus]\nlande blue ไม่ใช่แค่ฝัน\nบ่มเป็นแค่เรื่องที่แสงจะพาเธอไป\nแต่ทุกคนจะยืนข้างเธอ\nแม้วันเวลาไม่ให้โอกาส\nและเธอจะเจอกับตัวเองในวันที่ลืมไป\nน้ำลมนี้จะเจ็บช้ำยาวนาน\n\n[Outro - Acoustic Guitar]",
+      "metas": {
+        "bpm": 91,
+        "duration": 217.0,
+        "genres": "N/A",
+        "keyscale": "A major",
+        "timesignature": "4",
+        "prompt": "",
+        "lyrics": ""
+      },
+      "seed": "3534765866",
+      "dit_model": "acestep-v15-turbo",
+      "generation_info": "**🎵 Total generation time (1 song): 211.02s**\n- 211.02s per song\n- LM phase (1 song): 101.64s\n- DiT phase (1 song): 109.38s",
+      "task_id": "a8d6dc26-7d6f-4f9c-85f3-a6da430006e6",
+      "elapsed_s": 312.1,
+      "generated_at": "2026-09-21T14:11:15.250918+08:00",
+      "audio": "ce38cfced8ce.mp3"
+    }
+  ],
+  "failed": []
+}

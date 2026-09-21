@@ -1,0 +1,33 @@
+{
+  "id": "3787c0f73784",
+  "title": "Xuân Đến Xuân Ơi",
+  "title_source": "ollama",
+  "genre": "samba",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "defiant and loud",
+  "persona": "a duo trading verses",
+  "subject": "swimming at night",
+  "caption": "'A spirited Vietnamese folk song driven by a lively, virtuosic accordion that plays both the main melody and intricate, fast-paced solos. The arrangement features a clear female lead vocal with a classic, melodic delivery, later joined by a male vocalist for duet sections and harmonies. The rhythm section consists of a steady acoustic bass and light, brushed percussion, creating a waltz-like, swaying feel. The song''s structure alternates between vocal verses and expressive accordion-led instrumental passages. The track concludes with an unexpected and dramatic shift: the folk ensemble fades into a brief, atmospheric piano and vocal section, which is then abruptly cut off by a chaotic, distorted noise swell that ends the piece.'",
+  "lyrics": "[Accordion Intro]\n\n[Verse 1]\nDưới tìm khu ấm\nNghiêng mình gió đung đưa nhành mai\nXuân về rộn rã muôn hoa\nNghe cây khẽ hát cùng ta lời yêu thương\n\n[Verse 2]\nNắng xuân về trên đất\nXua tan kia lạnh băng\nMai vàng tỏa ngát hương\nNhân cây trong một sương dạt dào\n\n[Accordion Interlude]\n\n[Verse 3]\nTrời đất người hòa bình\nĐất trời kết thân chung\nHòa bình gieo xuống khắp\nơi\nĐể cùng chung sức dựng xây ngày mai tươi sáng\nĐón xuân về cùng vui Tết\n\n[Accordion Solo]\n\n[Verse 4]\nNgàn hoa đua sắc lung linh\nSắc xuân tươi thắm màu\nMai vàng rực rỡ bên thềm\nXuân yêu thương ngập tràn trong tim\n\n[Outro]\nXuân đến, xuân ơi\n\n[Accordion Outro]\n\n[Sound of a train passing on tracks]",
+  "metas": {
+    "bpm": 94,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "2",
+    "prompt": "",
+    "lyrics": ""
+  },
+  "seed": "411731093",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 167.86s**\n- 167.86s per song\n- LM phase (1 song): 81.49s\n- DiT phase (1 song): 86.37s",
+  "task_id": "6f72fe59-695f-42a7-9051-ae2c028015bb",
+  "elapsed_s": 250.4,
+  "generated_at": "2026-09-21T14:05:57.375420+08:00",
+  "audio": "3787c0f73784.mp3",
+  "lyrics_leaked_tokens": [
+    "<|audio_code_11597|>"
+  ],
+  "lyrics_looks_romanized": false
+}
