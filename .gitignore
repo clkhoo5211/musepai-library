@@ -1,0 +1,27 @@
+# This repository holds metadata only. Media is published separately —
+# rsync to the server, or object storage — because it is written once and
+# never edited, while git keeps every version of everything forever.
+#
+# One MV is larger than a decade of metadata here, so these patterns are a
+# backstop against a stray `git add .`, not a preference.
+
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.opus
+*.ogg
+
+*.mp4
+*.mov
+*.webm
+*.mkv
+
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.avif
+*.gif
+
+.DS_Store
