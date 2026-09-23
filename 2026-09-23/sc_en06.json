@@ -1,0 +1,149 @@
+{
+  "id": "sc_en06",
+  "title": "Rearview Saint",
+  "title_source": "scripted",
+  "genre": "phonk",
+  "language": "en",
+  "language_name": "English",
+  "mood": "restless and urgent",
+  "persona": "",
+  "subject": "driving too fast at night",
+  "caption": "Phonk with darker cinematic textures. A distorted 808 sub bass sliding between notes, the signature cowbell melody, chopped and pitched vocal samples, a filtered string swell under the second half, no live drums. A low male voice half-speaks the lines, heavily doubled and slightly distorted, with reversed ad-libs in the gaps. Dusty vinyl texture over a punchy modern low end. 150 BPM, G minor. Fast, dark, propulsive.",
+  "lyrics": "[Intro - Cowbell]\n\n[Verse 1]\nNinety on a road built for fifty\nSaint on the dash that I don't believe in\nHe's been facing backwards seven years\nWatching where I've already been\n\n[Hook]\nRearview saint, rearview saint\nWon't you look the other way\nEverything ahead of me\nIs nothing I can pray about\n\n[Verse 2]\nCity's just a smear of orange\nRadio's a language I don't speak\nEvery exit's got my name on it\nI take none of them\n\n[Hook]\nRearview saint, rearview saint\nWon't you look the other way\nEverything ahead of me\nIs nothing I can pray about\n\n[Outro - reversed]\nLook the other way",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 130.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Phonk with darker cinematic textures. A distorted 808 sub bass sliding between notes, the signature cowbell melody, chopped and pitched vocal samples, a filtered string swell under the second half, no live drums. A low male voice half-speaks the lines, heavily doubled and slightly distorted, with reversed ad-libs in the gaps. Dusty vinyl texture over a punchy modern low end. 150 BPM, G minor. Fast, dark, propulsive.",
+    "lyrics": "[Intro - Cowbell]\n\n[Verse 1]\nNinety on a road built for fifty\nSaint on the dash that I don't believe in\nHe's been facing backwards seven years\nWatching where I've already been\n\n[Hook]\nRearview saint, rearview saint\nWon't you look the other way\nEverything ahead of me\nIs nothing I can pray about\n\n[Verse 2]\nCity's just a smear of orange\nRadio's a language I don't speak\nEvery exit's got my name on it\nI take none of them\n\n[Hook]\nRearview saint, rearview saint\nWon't you look the other way\nEverything ahead of me\nIs nothing I can pray about\n\n[Outro - reversed]\nLook the other way"
+  },
+  "seed": "2473791560",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 96.14s**\n- 96.14s per song\n- LM phase (1 song): 26.09s\n- DiT phase (1 song): 70.05s",
+  "task_id": "0b91fd55-ba96-42b8-996c-ae1b324b71ab",
+  "elapsed_s": 121.4,
+  "generated_at": "2026-09-23T21:48:42.855084+08:00",
+  "audio": "sc_en06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.2,
+      "end": 26.2,
+      "text": "[Intro - Cowbell]"
+    },
+    {
+      "t": 26.2,
+      "end": 26.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.2,
+      "end": 32.57,
+      "text": "Ninety on a road built for fifty"
+    },
+    {
+      "t": 32.57,
+      "end": 35.01,
+      "text": "Saint on the dash that I don't believe in"
+    },
+    {
+      "t": 36.63,
+      "end": 39.17,
+      "text": "He's been facing backwards seven years"
+    },
+    {
+      "t": 39.17,
+      "end": 40.73,
+      "text": "Watching where I've already been"
+    },
+    {
+      "t": 40.75,
+      "end": 40.75,
+      "text": "[Hook]"
+    },
+    {
+      "t": 40.75,
+      "end": 41.47,
+      "text": "Rearview saint, rearview saint"
+    },
+    {
+      "t": 41.47,
+      "end": 42.51,
+      "text": "Won't you look the other way"
+    },
+    {
+      "t": 42.51,
+      "end": 43.03,
+      "text": "Everything ahead of me"
+    },
+    {
+      "t": 43.09,
+      "end": 61.99,
+      "text": "Is nothing I can pray about"
+    },
+    {
+      "t": 62.25,
+      "end": 62.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.25,
+      "end": 64.83,
+      "text": "City's just a smear of orange"
+    },
+    {
+      "t": 64.93,
+      "end": 68.29,
+      "text": "Radio's a language I don't speak"
+    },
+    {
+      "t": 68.37,
+      "end": 70.43,
+      "text": "Every exit's got my name on it"
+    },
+    {
+      "t": 70.43,
+      "end": 71.05,
+      "text": "I take none of them"
+    },
+    {
+      "t": 71.11,
+      "end": 71.11,
+      "text": "[Hook]"
+    },
+    {
+      "t": 71.11,
+      "end": 72.83,
+      "text": "Rearview saint, rearview saint"
+    },
+    {
+      "t": 72.83,
+      "end": 103.18,
+      "text": "Won't you look the other way"
+    },
+    {
+      "t": 103.28,
+      "end": 105.52,
+      "text": "Everything ahead of me"
+    },
+    {
+      "t": 105.52,
+      "end": 122.42,
+      "text": "Is nothing I can pray about"
+    },
+    {
+      "t": 122.42,
+      "end": 122.42,
+      "text": "[Outro - reversed]"
+    },
+    {
+      "t": 122.42,
+      "end": 123.66,
+      "text": "Look the other way"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

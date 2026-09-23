@@ -1,0 +1,189 @@
+{
+  "id": "sc_ms07",
+  "title": "Joget Pantai Timur",
+  "title_source": "scripted",
+  "genre": "joget",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "bright and hopeful",
+  "persona": "",
+  "subject": "a coastal festival",
+  "caption": "Joget — the fast Malay 6/8 dance rhythm. Rebana and gendang drive the lilting six-eight feel, a small brass section punctuates, violin and accordion trade the melody, no drum kit. A male and female voice trade verses in call and response with ornamented Malay phrasing and sing the chorus together in harmony. Wide stereo image, warm analog saturation, festive and bright. 132 BPM, F major. Celebratory, fast, seaside.",
+  "lyrics": "[Intro - Brass & Rebana]\n\n[Verse 1 - male]\nAngin pantai timur bawa garam\nLayang-layang naik tinggi\nOrang kampung dah kumpul semua\nSejak matahari belum panas\n\n[Verse 1 - female]\nAku pakai baju yang mak jahit\nTiga tahun tak muat lagi\nTapi hari ni aku pakai juga\nBiar mak nampak dari sana\n\n[Chorus - both]\nJoget, joget, sampai penat\nPasir masuk dalam kasut pun tak apa\nSetahun sekali kita begini\nSetahun sekali sudah cukup\n\n[Verse 2 - male]\nAbang jual satay tepi jalan\nDia menari sambil mengipas\n\n[Verse 2 - female]\nAsapnya masuk mata semua orang\nTak ada siapa marah\n\n[Accordion Solo]\n\n[Chorus - both]\nJoget, joget, sampai penat\nPasir masuk dalam kasut pun tak apa\nSetahun sekali kita begini\nSetahun sekali sudah cukup\n\n[Outro]\nSampai penat\nSampai penat",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Joget — the fast Malay 6/8 dance rhythm. Rebana and gendang drive the lilting six-eight feel, a small brass section punctuates, violin and accordion trade the melody, no drum kit. A male and female voice trade verses in call and response with ornamented Malay phrasing and sing the chorus together in harmony. Wide stereo image, warm analog saturation, festive and bright. 132 BPM, F major. Celebratory, fast, seaside.",
+    "lyrics": "[Intro - Brass & Rebana]\n\n[Verse 1 - male]\nAngin pantai timur bawa garam\nLayang-layang naik tinggi\nOrang kampung dah kumpul semua\nSejak matahari belum panas\n\n[Verse 1 - female]\nAku pakai baju yang mak jahit\nTiga tahun tak muat lagi\nTapi hari ni aku pakai juga\nBiar mak nampak dari sana\n\n[Chorus - both]\nJoget, joget, sampai penat\nPasir masuk dalam kasut pun tak apa\nSetahun sekali kita begini\nSetahun sekali sudah cukup\n\n[Verse 2 - male]\nAbang jual satay tepi jalan\nDia menari sambil mengipas\n\n[Verse 2 - female]\nAsapnya masuk mata semua orang\nTak ada siapa marah\n\n[Accordion Solo]\n\n[Chorus - both]\nJoget, joget, sampai penat\nPasir masuk dalam kasut pun tak apa\nSetahun sekali kita begini\nSetahun sekali sudah cukup\n\n[Outro]\nSampai penat\nSampai penat"
+  },
+  "seed": "4086965782",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 106.56s**\n- 106.56s per song\n- LM phase (1 song): 23.33s\n- DiT phase (1 song): 83.23s",
+  "task_id": "38439754-5cae-4442-9c35-a01de589eaa7",
+  "elapsed_s": 130.4,
+  "generated_at": "2026-09-23T22:16:15.983825+08:00",
+  "audio": "sc_ms07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.44,
+      "end": 16.44,
+      "text": "[Intro - Brass & Rebana]"
+    },
+    {
+      "t": 16.44,
+      "end": 16.44,
+      "text": "[Verse 1 - male]"
+    },
+    {
+      "t": 16.44,
+      "end": 20.72,
+      "text": "Angin pantai timur bawa garam"
+    },
+    {
+      "t": 23.18,
+      "end": 27.86,
+      "text": "Layang-layang naik tinggi"
+    },
+    {
+      "t": 30.34,
+      "end": 33.64,
+      "text": "Orang kampung dah kumpul semua"
+    },
+    {
+      "t": 33.66,
+      "end": 36.18,
+      "text": "Sejak matahari belum panas"
+    },
+    {
+      "t": 36.26,
+      "end": 36.26,
+      "text": "[Verse 1 - female]"
+    },
+    {
+      "t": 36.26,
+      "end": 42.03,
+      "text": "Aku pakai baju yang mak jahit"
+    },
+    {
+      "t": 42.07,
+      "end": 42.59,
+      "text": "Tiga tahun tak muat lagi"
+    },
+    {
+      "t": 42.59,
+      "end": 43.19,
+      "text": "Tapi hari ni aku pakai juga"
+    },
+    {
+      "t": 43.21,
+      "end": 44.09,
+      "text": "Biar mak nampak dari sana"
+    },
+    {
+      "t": 44.09,
+      "end": 44.09,
+      "text": "[Chorus - both]"
+    },
+    {
+      "t": 44.09,
+      "end": 48.87,
+      "text": "Joget, joget, sampai penat"
+    },
+    {
+      "t": 48.89,
+      "end": 51.83,
+      "text": "Pasir masuk dalam kasut pun tak apa"
+    },
+    {
+      "t": 51.83,
+      "end": 54.91,
+      "text": "Setahun sekali kita begini"
+    },
+    {
+      "t": 56.15,
+      "end": 64.73,
+      "text": "Setahun sekali sudah cukup"
+    },
+    {
+      "t": 64.81,
+      "end": 64.81,
+      "text": "[Verse 2 - male]"
+    },
+    {
+      "t": 64.81,
+      "end": 67.51,
+      "text": "Abang jual satay tepi jalan"
+    },
+    {
+      "t": 69.81,
+      "end": 73.91,
+      "text": "Dia menari sambil mengipas"
+    },
+    {
+      "t": 77.05,
+      "end": 77.05,
+      "text": "[Verse 2 - female]"
+    },
+    {
+      "t": 77.05,
+      "end": 79.13,
+      "text": "Asapnya masuk mata semua orang"
+    },
+    {
+      "t": 79.13,
+      "end": 80.03,
+      "text": "Tak ada siapa marah"
+    },
+    {
+      "t": 96.13,
+      "end": 96.13,
+      "text": "[Accordion Solo]"
+    },
+    {
+      "t": 96.13,
+      "end": 96.13,
+      "text": "[Chorus - both]"
+    },
+    {
+      "t": 96.13,
+      "end": 99.07,
+      "text": "Joget, joget, sampai penat"
+    },
+    {
+      "t": 99.35,
+      "end": 102.65,
+      "text": "Pasir masuk dalam kasut pun tak apa"
+    },
+    {
+      "t": 103.17,
+      "end": 106.53,
+      "text": "Setahun sekali kita begini"
+    },
+    {
+      "t": 107.49,
+      "end": 115.04,
+      "text": "Setahun sekali sudah cukup"
+    },
+    {
+      "t": 128.8,
+      "end": 128.8,
+      "text": "[Outro]"
+    },
+    {
+      "t": 128.8,
+      "end": 133.16,
+      "text": "Sampai penat"
+    },
+    {
+      "t": 136.02,
+      "end": 137.2,
+      "text": "Sampai penat"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

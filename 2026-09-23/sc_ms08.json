@@ -1,0 +1,174 @@
+{
+  "id": "sc_ms08",
+  "title": "Bilik Sewa",
+  "title_source": "scripted",
+  "genre": "indie melayu",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "hazy and sunlit",
+  "persona": "",
+  "subject": "a rented room shared with three other people",
+  "caption": "Indie Malay, bedroom-pop leaning. Two jangly clean electric guitars with chorus, a soft bass, brushed kit, a single analog synth pad. A young male tenor sings conversationally and slightly unpolished, close-miked, doubling himself loosely on the chorus. Dusty vinyl texture, lo-fi intimacy, no vocal tuning, warm and small. 110 BPM, A major. Hazy, affectionate, a bit resigned.",
+  "lyrics": "[Intro - Guitars]\n\n[Verse 1]\nEmpat orang satu bilik\nSatu kipas yang berbunyi\nAzim tidur paling dekat tingkap\nSebab dia yang paling awal sampai\n\n[Pre-Chorus]\nKita semua kata ni sementara\nDah masuk tahun ketiga\n\n[Chorus]\nBilik sewa, bilik sewa\nTempat aku belajar jadi orang\nNanti bila aku dah ada rumah\nAku rindu benda ni juga\n\n[Verse 2]\nKami kongsi nasi bungkus\nBila hujung bulan datang\nTak ada siapa kira siapa bayar\nSebab semua sama-sama tak ada\n\n[Guitar Solo]\n\n[Chorus]\nBilik sewa, bilik sewa\nTempat aku belajar jadi orang\nNanti bila aku dah ada rumah\nAku rindu benda ni juga\n\n[Outro]\nSementara\nSementara",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 110,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Indie Malay, bedroom-pop leaning. Two jangly clean electric guitars with chorus, a soft bass, brushed kit, a single analog synth pad. A young male tenor sings conversationally and slightly unpolished, close-miked, doubling himself loosely on the chorus. Dusty vinyl texture, lo-fi intimacy, no vocal tuning, warm and small. 110 BPM, A major. Hazy, affectionate, a bit resigned.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\nEmpat orang satu bilik\nSatu kipas yang berbunyi\nAzim tidur paling dekat tingkap\nSebab dia yang paling awal sampai\n\n[Pre-Chorus]\nKita semua kata ni sementara\nDah masuk tahun ketiga\n\n[Chorus]\nBilik sewa, bilik sewa\nTempat aku belajar jadi orang\nNanti bila aku dah ada rumah\nAku rindu benda ni juga\n\n[Verse 2]\nKami kongsi nasi bungkus\nBila hujung bulan datang\nTak ada siapa kira siapa bayar\nSebab semua sama-sama tak ada\n\n[Guitar Solo]\n\n[Chorus]\nBilik sewa, bilik sewa\nTempat aku belajar jadi orang\nNanti bila aku dah ada rumah\nAku rindu benda ni juga\n\n[Outro]\nSementara\nSementara"
+  },
+  "seed": "818930630",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 97.44s**\n- 97.44s per song\n- LM phase (1 song): 26.30s\n- DiT phase (1 song): 71.14s",
+  "task_id": "28ecd7f9-a92e-4dae-b375-2dbd7408940a",
+  "elapsed_s": 130.2,
+  "generated_at": "2026-09-23T22:18:26.167602+08:00",
+  "audio": "sc_ms08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.12,
+      "end": 19.12,
+      "text": "[Intro - Guitars]"
+    },
+    {
+      "t": 19.12,
+      "end": 19.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.12,
+      "end": 22.54,
+      "text": "Empat orang satu bilik"
+    },
+    {
+      "t": 23.6,
+      "end": 26.68,
+      "text": "Satu kipas yang berbunyi"
+    },
+    {
+      "t": 27.74,
+      "end": 31.2,
+      "text": "Azim tidur paling dekat tingkap"
+    },
+    {
+      "t": 34.04,
+      "end": 39.91,
+      "text": "Sebab dia yang paling awal sampai"
+    },
+    {
+      "t": 43.17,
+      "end": 43.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.17,
+      "end": 47.89,
+      "text": "Kita semua kata ni sementara"
+    },
+    {
+      "t": 48.81,
+      "end": 51.63,
+      "text": "Dah masuk tahun ketiga"
+    },
+    {
+      "t": 51.63,
+      "end": 51.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.63,
+      "end": 55.23,
+      "text": "Bilik sewa, bilik sewa"
+    },
+    {
+      "t": 55.23,
+      "end": 59.01,
+      "text": "Tempat aku belajar jadi orang"
+    },
+    {
+      "t": 59.01,
+      "end": 64.61,
+      "text": "Nanti bila aku dah ada rumah"
+    },
+    {
+      "t": 64.95,
+      "end": 68.77,
+      "text": "Aku rindu benda ni juga"
+    },
+    {
+      "t": 68.99,
+      "end": 68.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.99,
+      "end": 84.11,
+      "text": "Kami kongsi nasi bungkus"
+    },
+    {
+      "t": 84.21,
+      "end": 85.15,
+      "text": "Bila hujung bulan datang"
+    },
+    {
+      "t": 85.15,
+      "end": 88.81,
+      "text": "Tak ada siapa kira siapa bayar"
+    },
+    {
+      "t": 89.47,
+      "end": 101.79,
+      "text": "Sebab semua sama-sama tak ada"
+    },
+    {
+      "t": 101.79,
+      "end": 101.79,
+      "text": "[Guitar Solo]"
+    },
+    {
+      "t": 101.79,
+      "end": 101.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.79,
+      "end": 106.61,
+      "text": "Bilik sewa, bilik sewa"
+    },
+    {
+      "t": 106.61,
+      "end": 110.39,
+      "text": "Tempat aku belajar jadi orang"
+    },
+    {
+      "t": 110.39,
+      "end": 116.1,
+      "text": "Nanti bila aku dah ada rumah"
+    },
+    {
+      "t": 119.8,
+      "end": 133.46,
+      "text": "Aku rindu benda ni juga"
+    },
+    {
+      "t": 136.26,
+      "end": 136.26,
+      "text": "[Outro]"
+    },
+    {
+      "t": 136.26,
+      "end": 137.26,
+      "text": "Sementara"
+    },
+    {
+      "t": 141.22,
+      "end": 142.26,
+      "text": "Sementara"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

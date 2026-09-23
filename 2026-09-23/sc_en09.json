@@ -1,0 +1,179 @@
+{
+  "id": "sc_en09",
+  "title": "Late Set At The Blue Room",
+  "title_source": "scripted",
+  "genre": "jazz fusion",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm and intimate",
+  "persona": "",
+  "subject": "the last set of the night at a jazz club",
+  "caption": "Jazz fusion with a big band. Full brass section with tight stabs and a shout chorus, Rhodes electric piano comping extended chords, upright bass walking, drums riding on the hi-hat with brushes switching to sticks. A soulful male baritone sings the head, scats through the solo section and runs melismas on the way out. Warm analog saturation, plate reverb, the room audible behind the horns. 112 BPM, B-flat major. Warm, loose, after-hours.",
+  "lyrics": "[Intro - Brass]\n\n[Verse 1]\nThe kitchen closed an hour ago\nThe waiters are doing the sums\nEleven people and a bartender\nAnd the band plays like it's a thousand\n\n[Pre-Chorus]\nThis is the set we actually came for\n\n[Chorus]\nLate set at the Blue Room\nNobody's watching the clock\nThe drummer's smiling at something\nThat happened four bars ago\n\n[Scat Solo]\nDoo-ba-dee, ba-doo-dat\nSha-ba-doo-wah\n\n[Verse 2]\nThe trumpet player's wife came down\nShe sits where she always sits\nHe plays the ballad slightly differently\nAnd everybody notices\n\n[Brass Solo]\n\n[Chorus]\nLate set at the Blue Room\nNobody's watching the clock\nThe drummer's smiling at something\nThat happened four bars ago\n\n[Outro - Scat]\nBa-doo-dat, doo-ba-dee",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 165.0,
+    "genres": "N/A",
+    "keyscale": "B flat major",
+    "timesignature": "4",
+    "prompt": "Jazz fusion with a big band. Full brass section with tight stabs and a shout chorus, Rhodes electric piano comping extended chords, upright bass walking, drums riding on the hi-hat with brushes switching to sticks. A soulful male baritone sings the head, scats through the solo section and runs melismas on the way out. Warm analog saturation, plate reverb, the room audible behind the horns. 112 BPM, B-flat major. Warm, loose, after-hours.",
+    "lyrics": "[Intro - Brass]\n\n[Verse 1]\nThe kitchen closed an hour ago\nThe waiters are doing the sums\nEleven people and a bartender\nAnd the band plays like it's a thousand\n\n[Pre-Chorus]\nThis is the set we actually came for\n\n[Chorus]\nLate set at the Blue Room\nNobody's watching the clock\nThe drummer's smiling at something\nThat happened four bars ago\n\n[Scat Solo]\nDoo-ba-dee, ba-doo-dat\nSha-ba-doo-wah\n\n[Verse 2]\nThe trumpet player's wife came down\nShe sits where she always sits\nHe plays the ballad slightly differently\nAnd everybody notices\n\n[Brass Solo]\n\n[Chorus]\nLate set at the Blue Room\nNobody's watching the clock\nThe drummer's smiling at something\nThat happened four bars ago\n\n[Outro - Scat]\nBa-doo-dat, doo-ba-dee"
+  },
+  "seed": "874907484",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 90.42s**\n- 90.42s per song\n- LM phase (1 song): 26.30s\n- DiT phase (1 song): 64.12s",
+  "task_id": "9462b92a-fc3b-488c-ae92-aa0f6efa94a9",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-09-23T21:54:53.287569+08:00",
+  "audio": "sc_en09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Intro - Brass]"
+    },
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.44,
+      "end": 29.24,
+      "text": "The kitchen closed an hour ago"
+    },
+    {
+      "t": 29.24,
+      "end": 30.24,
+      "text": "The waiters are doing the sums"
+    },
+    {
+      "t": 35.54,
+      "end": 38.88,
+      "text": "Eleven people and a bartender"
+    },
+    {
+      "t": 39.44,
+      "end": 42.69,
+      "text": "And the band plays like it's a thousand"
+    },
+    {
+      "t": 44.45,
+      "end": 44.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.45,
+      "end": 47.03,
+      "text": "This is the set we actually came for"
+    },
+    {
+      "t": 47.03,
+      "end": 47.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.03,
+      "end": 48.19,
+      "text": "Late set at the Blue Room"
+    },
+    {
+      "t": 48.69,
+      "end": 50.85,
+      "text": "Nobody's watching the clock"
+    },
+    {
+      "t": 52.57,
+      "end": 55.39,
+      "text": "The drummer's smiling at something"
+    },
+    {
+      "t": 56.77,
+      "end": 59.19,
+      "text": "That happened four bars ago"
+    },
+    {
+      "t": 62.23,
+      "end": 62.23,
+      "text": "[Scat Solo]"
+    },
+    {
+      "t": 62.23,
+      "end": 72.89,
+      "text": "Doo-ba-dee, ba-doo-dat"
+    },
+    {
+      "t": 74.83,
+      "end": 75.95,
+      "text": "Sha-ba-doo-wah"
+    },
+    {
+      "t": 78.91,
+      "end": 78.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.91,
+      "end": 85.55,
+      "text": "The trumpet player's wife came down"
+    },
+    {
+      "t": 87.27,
+      "end": 89.37,
+      "text": "She sits where she always sits"
+    },
+    {
+      "t": 91.35,
+      "end": 94.19,
+      "text": "He plays the ballad slightly differently"
+    },
+    {
+      "t": 96.11,
+      "end": 114.55,
+      "text": "And everybody notices"
+    },
+    {
+      "t": 115.41,
+      "end": 115.41,
+      "text": "[Brass Solo]"
+    },
+    {
+      "t": 115.41,
+      "end": 115.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.41,
+      "end": 117.45,
+      "text": "Late set at the Blue Room"
+    },
+    {
+      "t": 118.17,
+      "end": 120.71,
+      "text": "Nobody's watching the clock"
+    },
+    {
+      "t": 123.98,
+      "end": 126.5,
+      "text": "The drummer's smiling at something"
+    },
+    {
+      "t": 130.9,
+      "end": 154.16,
+      "text": "That happened four bars ago"
+    },
+    {
+      "t": 154.22,
+      "end": 154.22,
+      "text": "[Outro - Scat]"
+    },
+    {
+      "t": 154.22,
+      "end": 163.5,
+      "text": "Ba-doo-dat, doo-ba-dee"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

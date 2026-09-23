@@ -1,0 +1,174 @@
+{
+  "id": "sc_ms04",
+  "title": "Goyang Sikit",
+  "title_source": "scripted",
+  "genre": "dangdut koplo",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "defiant and loud",
+  "persona": "",
+  "subject": "a wedding reception that refuses to end",
+  "caption": "Dangdut koplo. A driving kendang koplo groove with the signature sliding drum fills, suling bamboo flute answering every vocal phrase, electric organ stabs, tabla and a walking bass. A female lead sings with heavy cengkok ornamentation, nasal and forward, wailing melismatic runs at the ends of lines. Crisp modern mixing, punchy low end, loud and danceable. 128 BPM, G minor. Relentless, joyous.",
+  "lyrics": "[Intro - Suling]\n\n[Verse 1]\nPukul dua belas dah lama lepas\nPengantin dah masuk bilik\nTapi orang tua-tua ni\nTak nak balik lagi\n\n[Pre-Chorus]\nDJ cakap lagu last\nDia dah cakap tujuh kali\n\n[Chorus]\nGoyang sikit, goyang sikit\nKaki sakit pun goyang juga\nEsok kerja, esok fikir\nMalam ni kita menang dulu\n\n[Verse 2]\nPak Cik tu tak kenal siapa pengantin\nDia lalu, dia dengar, dia masuk\nSekarang dia depan sekali\nTak ada orang nak halau\n\n[Suling Solo]\n\n[Chorus]\nGoyang sikit, goyang sikit\nKaki sakit pun goyang juga\nEsok kerja, esok fikir\nMalam ni kita menang dulu\n\n[Outro]\nSatu lagu lagi!\nSatu lagu lagi!",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Dangdut koplo. A driving kendang koplo groove with the signature sliding drum fills, suling bamboo flute answering every vocal phrase, electric organ stabs, tabla and a walking bass. A female lead sings with heavy cengkok ornamentation, nasal and forward, wailing melismatic runs at the ends of lines. Crisp modern mixing, punchy low end, loud and danceable. 128 BPM, G minor. Relentless, joyous.",
+    "lyrics": "[Intro - Suling]\n\n[Verse 1]\nPukul dua belas dah lama lepas\nPengantin dah masuk bilik\nTapi orang tua-tua ni\nTak nak balik lagi\n\n[Pre-Chorus]\nDJ cakap lagu last\nDia dah cakap tujuh kali\n\n[Chorus]\nGoyang sikit, goyang sikit\nKaki sakit pun goyang juga\nEsok kerja, esok fikir\nMalam ni kita menang dulu\n\n[Verse 2]\nPak Cik tu tak kenal siapa pengantin\nDia lalu, dia dengar, dia masuk\nSekarang dia depan sekali\nTak ada orang nak halau\n\n[Suling Solo]\n\n[Chorus]\nGoyang sikit, goyang sikit\nKaki sakit pun goyang juga\nEsok kerja, esok fikir\nMalam ni kita menang dulu\n\n[Outro]\nSatu lagu lagi!\nSatu lagu lagi!"
+  },
+  "seed": "2474003424",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 99.31s**\n- 99.31s per song\n- LM phase (1 song): 23.95s\n- DiT phase (1 song): 75.36s",
+  "task_id": "793e0b77-bc61-4bba-a24c-9b3a3ede9ef5",
+  "elapsed_s": 120.1,
+  "generated_at": "2026-09-23T22:09:55.244765+08:00",
+  "audio": "sc_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.84,
+      "end": 21.84,
+      "text": "[Intro - Suling]"
+    },
+    {
+      "t": 21.84,
+      "end": 21.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.84,
+      "end": 24.68,
+      "text": "Pukul dua belas dah lama lepas"
+    },
+    {
+      "t": 29.34,
+      "end": 32.02,
+      "text": "Pengantin dah masuk bilik"
+    },
+    {
+      "t": 35.9,
+      "end": 38.38,
+      "text": "Tapi orang tua-tua ni"
+    },
+    {
+      "t": 38.7,
+      "end": 40.97,
+      "text": "Tak nak balik lagi"
+    },
+    {
+      "t": 42.97,
+      "end": 42.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.97,
+      "end": 45.87,
+      "text": "DJ cakap lagu last"
+    },
+    {
+      "t": 46.27,
+      "end": 49.19,
+      "text": "Dia dah cakap tujuh kali"
+    },
+    {
+      "t": 49.99,
+      "end": 49.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.99,
+      "end": 53.01,
+      "text": "Goyang sikit, goyang sikit"
+    },
+    {
+      "t": 53.73,
+      "end": 56.67,
+      "text": "Kaki sakit pun goyang juga"
+    },
+    {
+      "t": 57.53,
+      "end": 60.51,
+      "text": "Esok kerja, esok fikir"
+    },
+    {
+      "t": 60.99,
+      "end": 64.15,
+      "text": "Malam ni kita menang dulu"
+    },
+    {
+      "t": 64.75,
+      "end": 64.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.75,
+      "end": 67.97,
+      "text": "Pak Cik tu tak kenal siapa pengantin"
+    },
+    {
+      "t": 68.27,
+      "end": 71.73,
+      "text": "Dia lalu, dia dengar, dia masuk"
+    },
+    {
+      "t": 71.91,
+      "end": 75.21,
+      "text": "Sekarang dia depan sekali"
+    },
+    {
+      "t": 75.51,
+      "end": 79.07,
+      "text": "Tak ada orang nak halau"
+    },
+    {
+      "t": 108.29,
+      "end": 108.29,
+      "text": "[Suling Solo]"
+    },
+    {
+      "t": 108.29,
+      "end": 108.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.29,
+      "end": 111.07,
+      "text": "Goyang sikit, goyang sikit"
+    },
+    {
+      "t": 111.53,
+      "end": 114.21,
+      "text": "Kaki sakit pun goyang juga"
+    },
+    {
+      "t": 115.03,
+      "end": 118.04,
+      "text": "Esok kerja, esok fikir"
+    },
+    {
+      "t": 118.52,
+      "end": 124.64,
+      "text": "Malam ni kita menang dulu"
+    },
+    {
+      "t": 127.52,
+      "end": 127.52,
+      "text": "[Outro]"
+    },
+    {
+      "t": 127.52,
+      "end": 128.82,
+      "text": "Satu lagu lagi!"
+    },
+    {
+      "t": 135.0,
+      "end": 136.28,
+      "text": "Satu lagu lagi!"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

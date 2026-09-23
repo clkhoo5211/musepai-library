@@ -1,0 +1,174 @@
+{
+  "id": "sc_en08",
+  "title": "The Weight Of Small Hours",
+  "title_source": "scripted",
+  "genre": "folk",
+  "language": "en",
+  "language_name": "English",
+  "mood": "quiet and reflective",
+  "persona": "",
+  "subject": "sitting up with someone who is ill",
+  "caption": "Contemporary folk, almost entirely acoustic. Fingerpicked steel-string guitar in an open tuning, upright bass entering in the second verse, brushed percussion, a single cello line under the bridge. A soft male tenor sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless female harmony joining the last chorus. Tape saturation, no reverb on the lead vocal, room tone left in. 74 BPM, C major. Tender, still, unsentimental.",
+  "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\nThe machine counts something out loud\nEvery four seconds, all night\nI've started breathing along with it\nWhich I know is not useful\n\n[Pre-Chorus]\nYou asked me once to stop fussing\nSo I'll just sit\n\n[Chorus]\nThis is the weight of small hours\nIt isn't heavy, it's just long\nI'd carry something heavier gladly\nIf anybody offered me the choice\n\n[Verse 2]\nThe nurse has a good laugh\nShe uses it on purpose\nShe knows exactly what it's for\nAnd it works, it works on me\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\nThis is the weight of small hours\nIt isn't heavy, it's just long\nI'd carry something heavier gladly\nIf anybody offered me the choice\n\n[Outro]\nJust long\nJust long",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 74,
+    "duration": 165.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "2",
+    "prompt": "Contemporary folk, almost entirely acoustic. Fingerpicked steel-string guitar in an open tuning, upright bass entering in the second verse, brushed percussion, a single cello line under the bridge. A soft male tenor sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless female harmony joining the last chorus. Tape saturation, no reverb on the lead vocal, room tone left in. 74 BPM, C major. Tender, still, unsentimental.",
+    "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\nThe machine counts something out loud\nEvery four seconds, all night\nI've started breathing along with it\nWhich I know is not useful\n\n[Pre-Chorus]\nYou asked me once to stop fussing\nSo I'll just sit\n\n[Chorus]\nThis is the weight of small hours\nIt isn't heavy, it's just long\nI'd carry something heavier gladly\nIf anybody offered me the choice\n\n[Verse 2]\nThe nurse has a good laugh\nShe uses it on purpose\nShe knows exactly what it's for\nAnd it works, it works on me\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\nThis is the weight of small hours\nIt isn't heavy, it's just long\nI'd carry something heavier gladly\nIf anybody offered me the choice\n\n[Outro]\nJust long\nJust long"
+  },
+  "seed": "1825849517",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 88.01s**\n- 88.01s per song\n- LM phase (1 song): 23.03s\n- DiT phase (1 song): 64.98s",
+  "task_id": "8a61e4d0-e776-4c49-8896-150a3d5dd4a3",
+  "elapsed_s": 120.1,
+  "generated_at": "2026-09-23T21:52:53.109236+08:00",
+  "audio": "sc_en08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 8.38,
+      "end": 8.38,
+      "text": "[Intro - Fingerpicked Guitar]"
+    },
+    {
+      "t": 8.38,
+      "end": 8.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.38,
+      "end": 29.32,
+      "text": "The machine counts something out loud"
+    },
+    {
+      "t": 31.76,
+      "end": 34.84,
+      "text": "Every four seconds, all night"
+    },
+    {
+      "t": 38.24,
+      "end": 39.48,
+      "text": "I've started breathing along with it"
+    },
+    {
+      "t": 39.48,
+      "end": 40.04,
+      "text": "Which I know is not useful"
+    },
+    {
+      "t": 40.04,
+      "end": 40.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.04,
+      "end": 42.61,
+      "text": "You asked me once to stop fussing"
+    },
+    {
+      "t": 44.11,
+      "end": 47.33,
+      "text": "So I'll just sit"
+    },
+    {
+      "t": 55.25,
+      "end": 55.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.25,
+      "end": 58.73,
+      "text": "This is the weight of small hours"
+    },
+    {
+      "t": 61.81,
+      "end": 64.63,
+      "text": "It isn't heavy, it's just long"
+    },
+    {
+      "t": 68.13,
+      "end": 71.73,
+      "text": "I'd carry something heavier gladly"
+    },
+    {
+      "t": 73.43,
+      "end": 78.21,
+      "text": "If anybody offered me the choice"
+    },
+    {
+      "t": 78.29,
+      "end": 78.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.29,
+      "end": 79.85,
+      "text": "The nurse has a good laugh"
+    },
+    {
+      "t": 79.85,
+      "end": 82.73,
+      "text": "She uses it on purpose"
+    },
+    {
+      "t": 82.73,
+      "end": 85.41,
+      "text": "She knows exactly what it's for"
+    },
+    {
+      "t": 89.13,
+      "end": 93.35,
+      "text": "And it works, it works on me"
+    },
+    {
+      "t": 110.31,
+      "end": 110.31,
+      "text": "[Cello - Bridge]"
+    },
+    {
+      "t": 110.31,
+      "end": 110.31,
+      "text": "[Chorus - with harmony]"
+    },
+    {
+      "t": 110.31,
+      "end": 113.17,
+      "text": "This is the weight of small hours"
+    },
+    {
+      "t": 116.39,
+      "end": 122.83,
+      "text": "It isn't heavy, it's just long"
+    },
+    {
+      "t": 122.93,
+      "end": 126.94,
+      "text": "I'd carry something heavier gladly"
+    },
+    {
+      "t": 127.86,
+      "end": 134.62,
+      "text": "If anybody offered me the choice"
+    },
+    {
+      "t": 139.94,
+      "end": 139.94,
+      "text": "[Outro]"
+    },
+    {
+      "t": 139.94,
+      "end": 140.9,
+      "text": "Just long"
+    },
+    {
+      "t": 146.54,
+      "end": 150.12,
+      "text": "Just long"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

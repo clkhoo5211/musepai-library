@@ -1,0 +1,174 @@
+{
+  "id": "sc_en07",
+  "title": "Smoke Without A Room",
+  "title_source": "scripted",
+  "genre": "trip hop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wistful and nocturnal",
+  "persona": "",
+  "subject": "an apartment emptied of furniture",
+  "caption": "Trip hop in the Bristol tradition, with a modern revival edge. A dusty swung breakbeat sampled from vinyl, upright bass, a muted trumpet answering the vocal, a Rhodes playing two chords, continuous crackle. A smoky female alto sings very close to the mic, breathy and understated, never raising her voice, with a whispered double an octave down. Lo-fi intimacy, no bright highs, tape hiss throughout. 86 BPM, A minor. Late, hollow, beautiful.",
+  "lyrics": "[Intro - Breakbeat]\n\n[Verse 1]\nThe sofa left a rectangle\nCleaner than the rest of the floor\nEight years of not moving anything\nPrinted on the carpet\n\n[Pre-Chorus]\nI keep walking into rooms\nTo look at nothing\n\n[Chorus]\nIt's smoke without a room now\nIt's a shape where a thing used to be\nI could paint over all of it\nBut then I'd have to pick a colour\n\n[Verse 2]\nYour key still opens the door\nI checked, I don't know why\nThe lock doesn't know anything's changed\nLucky lock\n\n[Trumpet Solo]\n\n[Chorus]\nIt's smoke without a room now\nIt's a shape where a thing used to be\nI could paint over all of it\nBut then I'd have to pick a colour\n\n[Outro]\nLucky lock\nLucky lock",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Trip hop in the Bristol tradition, with a modern revival edge. A dusty swung breakbeat sampled from vinyl, upright bass, a muted trumpet answering the vocal, a Rhodes playing two chords, continuous crackle. A smoky female alto sings very close to the mic, breathy and understated, never raising her voice, with a whispered double an octave down. Lo-fi intimacy, no bright highs, tape hiss throughout. 86 BPM, A minor. Late, hollow, beautiful.",
+    "lyrics": "[Intro - Breakbeat]\n\n[Verse 1]\nThe sofa left a rectangle\nCleaner than the rest of the floor\nEight years of not moving anything\nPrinted on the carpet\n\n[Pre-Chorus]\nI keep walking into rooms\nTo look at nothing\n\n[Chorus]\nIt's smoke without a room now\nIt's a shape where a thing used to be\nI could paint over all of it\nBut then I'd have to pick a colour\n\n[Verse 2]\nYour key still opens the door\nI checked, I don't know why\nThe lock doesn't know anything's changed\nLucky lock\n\n[Trumpet Solo]\n\n[Chorus]\nIt's smoke without a room now\nIt's a shape where a thing used to be\nI could paint over all of it\nBut then I'd have to pick a colour\n\n[Outro]\nLucky lock\nLucky lock"
+  },
+  "seed": "1960893610",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 98.86s**\n- 98.86s per song\n- LM phase (1 song): 26.79s\n- DiT phase (1 song): 72.07s",
+  "task_id": "267d6431-4ae4-42f8-bb34-c2666cdad111",
+  "elapsed_s": 130.1,
+  "generated_at": "2026-09-23T21:50:52.997786+08:00",
+  "audio": "sc_en07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.4,
+      "end": 26.4,
+      "text": "[Intro - Breakbeat]"
+    },
+    {
+      "t": 26.4,
+      "end": 26.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.4,
+      "end": 29.1,
+      "text": "The sofa left a rectangle"
+    },
+    {
+      "t": 30.9,
+      "end": 33.78,
+      "text": "Cleaner than the rest of the floor"
+    },
+    {
+      "t": 37.34,
+      "end": 40.27,
+      "text": "Eight years of not moving anything"
+    },
+    {
+      "t": 42.19,
+      "end": 48.99,
+      "text": "Printed on the carpet"
+    },
+    {
+      "t": 48.99,
+      "end": 48.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.99,
+      "end": 51.95,
+      "text": "I keep walking into rooms"
+    },
+    {
+      "t": 53.27,
+      "end": 56.03,
+      "text": "To look at nothing"
+    },
+    {
+      "t": 58.95,
+      "end": 58.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.95,
+      "end": 61.25,
+      "text": "It's smoke without a room now"
+    },
+    {
+      "t": 64.37,
+      "end": 66.43,
+      "text": "It's a shape where a thing used to be"
+    },
+    {
+      "t": 70.13,
+      "end": 72.09,
+      "text": "I could paint over all of it"
+    },
+    {
+      "t": 75.81,
+      "end": 87.99,
+      "text": "But then I'd have to pick a colour"
+    },
+    {
+      "t": 87.99,
+      "end": 87.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.99,
+      "end": 91.07,
+      "text": "Your key still opens the door"
+    },
+    {
+      "t": 91.11,
+      "end": 110.09,
+      "text": "I checked, I don't know why"
+    },
+    {
+      "t": 110.31,
+      "end": 122.7,
+      "text": "The lock doesn't know anything's changed"
+    },
+    {
+      "t": 122.92,
+      "end": 126.28,
+      "text": "Lucky lock"
+    },
+    {
+      "t": 126.32,
+      "end": 126.32,
+      "text": "[Trumpet Solo]"
+    },
+    {
+      "t": 126.32,
+      "end": 126.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.32,
+      "end": 128.56,
+      "text": "It's smoke without a room now"
+    },
+    {
+      "t": 131.72,
+      "end": 133.52,
+      "text": "It's a shape where a thing used to be"
+    },
+    {
+      "t": 137.36,
+      "end": 139.4,
+      "text": "I could paint over all of it"
+    },
+    {
+      "t": 140.4,
+      "end": 142.36,
+      "text": "But then I'd have to pick a colour"
+    },
+    {
+      "t": 143.96,
+      "end": 143.96,
+      "text": "[Outro]"
+    },
+    {
+      "t": 143.96,
+      "end": 144.88,
+      "text": "Lucky lock"
+    },
+    {
+      "t": 149.56,
+      "end": 153.26,
+      "text": "Lucky lock"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

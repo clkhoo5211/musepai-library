@@ -1,0 +1,179 @@
+{
+  "id": "sc_en10",
+  "title": "Generator Song",
+  "title_source": "scripted",
+  "genre": "afrobeats",
+  "language": "en",
+  "language_name": "English",
+  "mood": "hazy and sunlit",
+  "persona": "",
+  "subject": "a neighbourhood when the power comes back",
+  "caption": "Afrobeats. A log drum carrying the bass melody, shakers and congas driving the groove, a clean highlife-style guitar figure repeating, warm synth pads, no rock kit. A smooth male voice sings laid-back behind the beat with light autotune and layered ad-libs answering himself, plus a group vocal on the hook. Warm analog saturation, wide stereo image, danceable and unhurried. 108 BPM, F major. Sunlit, easy, communal.",
+  "lyrics": "[Intro - Log Drum]\n\n[Verse 1]\nThe fridge came back on at half past nine\nAnd the whole street heard it happen\nSomebody's speaker found its voice again\nSomebody's mother shouted hallelujah\n\n[Pre-Chorus]\nThree days is a long time in the dark\n\n[Chorus]\nLight is back, light is back\n(Everybody outside)\nThe generator can rest now\nWe'll dance until it goes again\n\n[Verse 2]\nMama Ngozi's freezer is a graveyard\nShe's giving it all away tonight\nNobody's going to let good meat\nGo down twice\n\n[Chorus]\nLight is back, light is back\n(Everybody outside)\nThe generator can rest now\nWe'll dance until it goes again\n\n[Bridge - adlibs]\n(Ehh) (ehh)\n(Make we dance)\n\n[Outro]\nUntil it goes again\nUntil it goes again",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Afrobeats. A log drum carrying the bass melody, shakers and congas driving the groove, a clean highlife-style guitar figure repeating, warm synth pads, no rock kit. A smooth male voice sings laid-back behind the beat with light autotune and layered ad-libs answering himself, plus a group vocal on the hook. Warm analog saturation, wide stereo image, danceable and unhurried. 108 BPM, F major. Sunlit, easy, communal.",
+    "lyrics": "[Intro - Log Drum]\n\n[Verse 1]\nThe fridge came back on at half past nine\nAnd the whole street heard it happen\nSomebody's speaker found its voice again\nSomebody's mother shouted hallelujah\n\n[Pre-Chorus]\nThree days is a long time in the dark\n\n[Chorus]\nLight is back, light is back\n(Everybody outside)\nThe generator can rest now\nWe'll dance until it goes again\n\n[Verse 2]\nMama Ngozi's freezer is a graveyard\nShe's giving it all away tonight\nNobody's going to let good meat\nGo down twice\n\n[Chorus]\nLight is back, light is back\n(Everybody outside)\nThe generator can rest now\nWe'll dance until it goes again\n\n[Bridge - adlibs]\n(Ehh) (ehh)\n(Make we dance) \n\n[Outro]\nUntil it goes again\nUntil it goes again"
+  },
+  "seed": "1311198069",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 81.81s**\n- 81.81s per song\n- LM phase (1 song): 22.25s\n- DiT phase (1 song): 59.56s",
+  "task_id": "e524df8b-f56e-40ba-bc4f-24fc5527f387",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-09-23T21:56:43.406425+08:00",
+  "audio": "sc_en10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.38,
+      "end": 17.38,
+      "text": "[Intro - Log Drum]"
+    },
+    {
+      "t": 17.38,
+      "end": 17.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.38,
+      "end": 20.82,
+      "text": "The fridge came back on at half past nine"
+    },
+    {
+      "t": 22.44,
+      "end": 25.06,
+      "text": "And the whole street heard it happen"
+    },
+    {
+      "t": 26.52,
+      "end": 29.64,
+      "text": "Somebody's speaker found its voice again"
+    },
+    {
+      "t": 31.26,
+      "end": 34.32,
+      "text": "Somebody's mother shouted hallelujah"
+    },
+    {
+      "t": 35.64,
+      "end": 35.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.64,
+      "end": 40.03,
+      "text": "Three days is a long time in the dark"
+    },
+    {
+      "t": 40.05,
+      "end": 40.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.05,
+      "end": 42.63,
+      "text": "Light is back, light is back"
+    },
+    {
+      "t": 43.65,
+      "end": 47.35,
+      "text": "(Everybody outside)"
+    },
+    {
+      "t": 48.85,
+      "end": 51.77,
+      "text": "The generator can rest now"
+    },
+    {
+      "t": 52.31,
+      "end": 53.81,
+      "text": "We'll dance until it goes again"
+    },
+    {
+      "t": 66.77,
+      "end": 66.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.77,
+      "end": 69.99,
+      "text": "Mama Ngozi's freezer is a graveyard"
+    },
+    {
+      "t": 70.97,
+      "end": 73.79,
+      "text": "She's giving it all away tonight"
+    },
+    {
+      "t": 75.77,
+      "end": 79.57,
+      "text": "Nobody's going to let good meat"
+    },
+    {
+      "t": 81.13,
+      "end": 85.23,
+      "text": "Go down twice"
+    },
+    {
+      "t": 85.29,
+      "end": 85.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.29,
+      "end": 87.21,
+      "text": "Light is back, light is back"
+    },
+    {
+      "t": 88.17,
+      "end": 91.91,
+      "text": "(Everybody outside)"
+    },
+    {
+      "t": 93.43,
+      "end": 96.37,
+      "text": "The generator can rest now"
+    },
+    {
+      "t": 96.89,
+      "end": 98.41,
+      "text": "We'll dance until it goes again"
+    },
+    {
+      "t": 98.69,
+      "end": 98.69,
+      "text": "[Bridge - adlibs]"
+    },
+    {
+      "t": 98.69,
+      "end": 107.45,
+      "text": "(Ehh) (ehh)"
+    },
+    {
+      "t": 114.67,
+      "end": 127.46,
+      "text": "(Make we dance)"
+    },
+    {
+      "t": 127.92,
+      "end": 127.92,
+      "text": "[Outro]"
+    },
+    {
+      "t": 127.92,
+      "end": 135.12,
+      "text": "Until it goes again"
+    },
+    {
+      "t": 140.76,
+      "end": 144.0,
+      "text": "Until it goes again"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "sc_ms09",
+  "title": "Tangan Yang Menadah",
+  "title_source": "scripted",
+  "genre": "nasyid-influenced pop",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "bright and hopeful",
+  "persona": "",
+  "subject": "hands raised in prayer at dawn",
+  "caption": "Nasyid-influenced Malay pop. Almost entirely voices and percussion: frame drums and hand claps keep the pulse, with a soft bass entering only in the final section and no melodic instruments elsewhere. A male solo lead is answered by a group singing in close four-part harmony, building to a full stacked chorus. Wide stereo image, long cavernous reverb tails as if in a hall. 80 BPM, D major. Devotional, rising, calm.",
+  "lyrics": "[Intro - Frame Drums]\n\n[Verse 1 - solo]\nSubuh ni sejuk lagi\nJalan masih gelap sikit\nAku jalan sendiri\nTapi aku tak rasa sendiri\n\n[Pre-Chorus - group]\n(Menadah) menadah\n(Menadah) menadah\n\n[Chorus - group harmony]\nTangan yang menadah\nTak pernah balik kosong\nWalaupun yang datang\nBukan yang aku minta\n\n[Verse 2 - solo]\nAku pernah minta banyak\nAku pernah dapat sikit\nSekarang aku baru faham\nSikit tu pun jawapan\n\n[Bridge - group]\n(Alhamdulillah) alhamdulillah\n(Alhamdulillah) alhamdulillah\n\n[Chorus - full stacked]\nTangan yang menadah\nTak pernah balik kosong\nWalaupun yang datang\nBukan yang aku minta\n\n[Outro]\nMenadah\nMenadah",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 80,
+    "duration": 165.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Nasyid-influenced Malay pop. Almost entirely voices and percussion: frame drums and hand claps keep the pulse, with a soft bass entering only in the final section and no melodic instruments elsewhere. A male solo lead is answered by a group singing in close four-part harmony, building to a full stacked chorus. Wide stereo image, long cavernous reverb tails as if in a hall. 80 BPM, D major. Devotional, rising, calm.",
+    "lyrics": "[Intro - Frame Drums]\n\n[Verse 1 - solo]\nSubuh ni sejuk lagi\nJalan masih gelap sikit\nAku jalan sendiri\nTapi aku tak rasa sendiri\n\n[Pre-Chorus - group]\n(Menadah) menadah\n(Menadah) menadah\n\n[Chorus - group harmony]\nTangan yang menadah\nTak pernah balik kosong\nWalaupun yang datang\nBukan yang aku minta\n\n[Verse 2 - solo]\nAku pernah minta banyak\nAku pernah dapat sikit\nSekarang aku baru faham\nSikit tu pun jawapan\n\n[Bridge - group]\n(Alhamdulillah) alhamdulillah\n(Alhamdulillah) alhamdulillah\n\n[Chorus - full stacked]\nTangan yang menadah\nTak pernah balik kosong\nWalaupun yang datang\nBukan yang aku minta\n\n[Outro]\nMenadah\nMenadah"
+  },
+  "seed": "2470770156",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 114.98s**\n- 114.98s per song\n- LM phase (1 song): 31.12s\n- DiT phase (1 song): 83.86s",
+  "task_id": "acc7e370-2979-4824-91f9-081d6b01845a",
+  "elapsed_s": 140.3,
+  "generated_at": "2026-09-23T22:20:46.465288+08:00",
+  "audio": "sc_ms09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.66,
+      "end": 21.66,
+      "text": "[Intro - Frame Drums]"
+    },
+    {
+      "t": 21.66,
+      "end": 21.66,
+      "text": "[Verse 1 - solo]"
+    },
+    {
+      "t": 21.66,
+      "end": 25.22,
+      "text": "Subuh ni sejuk lagi"
+    },
+    {
+      "t": 27.66,
+      "end": 31.7,
+      "text": "Jalan masih gelap sikit"
+    },
+    {
+      "t": 33.78,
+      "end": 37.24,
+      "text": "Aku jalan sendiri"
+    },
+    {
+      "t": 39.28,
+      "end": 43.27,
+      "text": "Tapi aku tak rasa sendiri"
+    },
+    {
+      "t": 45.67,
+      "end": 45.67,
+      "text": "[Pre-Chorus - group]"
+    },
+    {
+      "t": 45.67,
+      "end": 47.53,
+      "text": "(Menadah) menadah"
+    },
+    {
+      "t": 47.95,
+      "end": 52.83,
+      "text": "(Menadah) menadah"
+    },
+    {
+      "t": 52.83,
+      "end": 52.83,
+      "text": "[Chorus - group harmony]"
+    },
+    {
+      "t": 52.83,
+      "end": 55.25,
+      "text": "Tangan yang menadah"
+    },
+    {
+      "t": 57.05,
+      "end": 59.19,
+      "text": "Tak pernah balik kosong"
+    },
+    {
+      "t": 59.21,
+      "end": 61.65,
+      "text": "Walaupun yang datang"
+    },
+    {
+      "t": 61.65,
+      "end": 63.49,
+      "text": "Bukan yang aku minta"
+    },
+    {
+      "t": 63.79,
+      "end": 63.79,
+      "text": "[Verse 2 - solo]"
+    },
+    {
+      "t": 63.79,
+      "end": 88.71,
+      "text": "Aku pernah minta banyak"
+    },
+    {
+      "t": 88.75,
+      "end": 93.59,
+      "text": "Aku pernah dapat sikit"
+    },
+    {
+      "t": 93.59,
+      "end": 96.13,
+      "text": "Sekarang aku baru faham"
+    },
+    {
+      "t": 96.13,
+      "end": 96.89,
+      "text": "Sikit tu pun jawapan"
+    },
+    {
+      "t": 96.89,
+      "end": 96.89,
+      "text": "[Bridge - group]"
+    },
+    {
+      "t": 96.89,
+      "end": 101.09,
+      "text": "(Alhamdulillah) alhamdulillah"
+    },
+    {
+      "t": 101.13,
+      "end": 112.71,
+      "text": "(Alhamdulillah) alhamdulillah"
+    },
+    {
+      "t": 112.77,
+      "end": 112.77,
+      "text": "[Chorus - full stacked]"
+    },
+    {
+      "t": 112.77,
+      "end": 114.95,
+      "text": "Tangan yang menadah"
+    },
+    {
+      "t": 115.01,
+      "end": 122.99,
+      "text": "Tak pernah balik kosong"
+    },
+    {
+      "t": 126.64,
+      "end": 135.26,
+      "text": "Walaupun yang datang"
+    },
+    {
+      "t": 135.8,
+      "end": 145.02,
+      "text": "Bukan yang aku minta"
+    },
+    {
+      "t": 145.02,
+      "end": 145.02,
+      "text": "[Outro]"
+    },
+    {
+      "t": 145.02,
+      "end": 146.08,
+      "text": "Menadah"
+    },
+    {
+      "t": 151.02,
+      "end": 152.04,
+      "text": "Menadah"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

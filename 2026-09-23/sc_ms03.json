@@ -1,0 +1,174 @@
+{
+  "id": "sc_ms03",
+  "title": "Selamat Malam, Kuala Lumpur",
+  "title_source": "scripted",
+  "genre": "pop melayu ballad",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "wistful and nocturnal",
+  "persona": "",
+  "subject": "leaving the city for good",
+  "caption": "Malay pop ballad in the 90s tradition. Grand piano alone in the first verse, a full string section entering at the pre-chorus, bass and soft kit from the second verse, a saxophone line under the bridge. A high female soprano sings airy and controlled, running melismas at the ends of phrases and belting the final chorus after a key change. Studio-polished, wide stereo image, lush reverb. 72 BPM, B-flat major. Grand, tearful, cinematic.",
+  "lyrics": "[Intro - Piano]\n\n[Verse 1]\nLampu jalan Jalan Ampang\nMasih sama macam sepuluh tahun lalu\nAku yang dah tak sama\nBeg di tangan, tiket di poket\n\n[Pre-Chorus]\nAku sayang kau, Kuala Lumpur\nTapi kau tak pernah tanya nama aku\n\n[Chorus]\nSelamat malam, Kuala Lumpur\nTerima kasih untuk semua yang kau ambil\nDan untuk sedikit yang kau bagi\nAku bawa dua-dua sekali\n\n[Verse 2]\nBilik sewa tingkat empat belas\nTingkap yang tak pernah boleh dibuka\nAku pernah menangis di situ\nSampai jiran ketuk dinding\n\n[Saxophone - Bridge]\n\n[Chorus - key change]\nSelamat malam, Kuala Lumpur\nTerima kasih untuk semua yang kau ambil\nDan untuk sedikit yang kau bagi\nAku bawa dua-dua sekali\n\n[Outro]\nSelamat malam\nSelamat malam",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "B flat major",
+    "timesignature": "4",
+    "prompt": "Malay pop ballad in the 90s tradition. Grand piano alone in the first verse, a full string section entering at the pre-chorus, bass and soft kit from the second verse, a saxophone line under the bridge. A high female soprano sings airy and controlled, running melismas at the ends of phrases and belting the final chorus after a key change. Studio-polished, wide stereo image, lush reverb. 72 BPM, B-flat major. Grand, tearful, cinematic.",
+    "lyrics": "[Intro - Piano]\n\n[Verse 1]\nLampu jalan Jalan Ampang\nMasih sama macam sepuluh tahun lalu\nAku yang dah tak sama\nBeg di tangan, tiket di poket\n\n[Pre-Chorus]\nAku sayang kau, Kuala Lumpur\nTapi kau tak pernah tanya nama aku\n\n[Chorus]\nSelamat malam, Kuala Lumpur\nTerima kasih untuk semua yang kau ambil\nDan untuk sedikit yang kau bagi\nAku bawa dua-dua sekali\n\n[Verse 2]\nBilik sewa tingkat empat belas\nTingkap yang tak pernah boleh dibuka\nAku pernah menangis di situ\nSampai jiran ketuk dinding\n\n[Saxophone - Bridge]\n\n[Chorus - key change]\nSelamat malam, Kuala Lumpur\nTerima kasih untuk semua yang kau ambil\nDan untuk sedikit yang kau bagi\nAku bawa dua-dua sekali\n\n[Outro]\nSelamat malam\nSelamat malam"
+  },
+  "seed": "4217974400",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 107.59s**\n- 107.59s per song\n- LM phase (1 song): 22.84s\n- DiT phase (1 song): 84.75s",
+  "task_id": "190eda30-f420-4a17-a72f-ec741b849a1f",
+  "elapsed_s": 130.6,
+  "generated_at": "2026-09-23T22:07:55.107329+08:00",
+  "audio": "sc_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.5,
+      "end": 7.5,
+      "text": "[Intro - Piano]"
+    },
+    {
+      "t": 7.5,
+      "end": 7.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.5,
+      "end": 8.32,
+      "text": "Lampu jalan Jalan Ampang"
+    },
+    {
+      "t": 8.34,
+      "end": 14.38,
+      "text": "Masih sama macam sepuluh tahun lalu"
+    },
+    {
+      "t": 14.38,
+      "end": 19.94,
+      "text": "Aku yang dah tak sama"
+    },
+    {
+      "t": 20.08,
+      "end": 23.76,
+      "text": "Beg di tangan, tiket di poket"
+    },
+    {
+      "t": 23.82,
+      "end": 23.82,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 23.82,
+      "end": 34.44,
+      "text": "Aku sayang kau, Kuala Lumpur"
+    },
+    {
+      "t": 36.46,
+      "end": 40.76,
+      "text": "Tapi kau tak pernah tanya nama aku"
+    },
+    {
+      "t": 46.31,
+      "end": 46.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.31,
+      "end": 51.03,
+      "text": "Selamat malam, Kuala Lumpur"
+    },
+    {
+      "t": 52.63,
+      "end": 55.77,
+      "text": "Terima kasih untuk semua yang kau ambil"
+    },
+    {
+      "t": 55.81,
+      "end": 60.49,
+      "text": "Dan untuk sedikit yang kau bagi"
+    },
+    {
+      "t": 62.27,
+      "end": 67.07,
+      "text": "Aku bawa dua-dua sekali"
+    },
+    {
+      "t": 72.85,
+      "end": 72.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.85,
+      "end": 77.49,
+      "text": "Bilik sewa tingkat empat belas"
+    },
+    {
+      "t": 78.99,
+      "end": 83.29,
+      "text": "Tingkap yang tak pernah boleh dibuka"
+    },
+    {
+      "t": 85.69,
+      "end": 88.79,
+      "text": "Aku pernah menangis di situ"
+    },
+    {
+      "t": 89.25,
+      "end": 94.67,
+      "text": "Sampai jiran ketuk dinding"
+    },
+    {
+      "t": 94.89,
+      "end": 94.89,
+      "text": "[Saxophone - Bridge]"
+    },
+    {
+      "t": 94.89,
+      "end": 94.89,
+      "text": "[Chorus - key change]"
+    },
+    {
+      "t": 94.89,
+      "end": 106.77,
+      "text": "Selamat malam, Kuala Lumpur"
+    },
+    {
+      "t": 108.13,
+      "end": 113.13,
+      "text": "Terima kasih untuk semua yang kau ambil"
+    },
+    {
+      "t": 114.57,
+      "end": 119.03,
+      "text": "Dan untuk sedikit yang kau bagi"
+    },
+    {
+      "t": 119.61,
+      "end": 124.55,
+      "text": "Aku bawa dua-dua sekali"
+    },
+    {
+      "t": 131.8,
+      "end": 131.8,
+      "text": "[Outro]"
+    },
+    {
+      "t": 131.8,
+      "end": 136.54,
+      "text": "Selamat malam"
+    },
+    {
+      "t": 138.4,
+      "end": 165.76,
+      "text": "Selamat malam"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

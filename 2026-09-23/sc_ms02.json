@@ -1,0 +1,174 @@
+{
+  "id": "sc_ms02",
+  "title": "Rebana Petang",
+  "title_source": "scripted",
+  "genre": "irama Malaysia",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "warm and intimate",
+  "persona": "",
+  "subject": "an evening gathering in a village compound",
+  "caption": "Irama Malaysia — traditional Malay pop. Rebana and gendang hand drums carry an asli rhythm, an accordion plays the main melody with a violin answering in the gaps, a gambus adds plucked ornaments, no drum kit. A female lead sings with the ornamented phrasing of Malay traditional singing, sliding into notes with gentle vibrato at the ends of lines. Warm analog saturation, plate reverb, close and unhurried. 96 BPM, D minor. Communal, dusk-lit.",
+  "lyrics": "[Intro - Accordion]\n\n[Verse 1]\nSelepas asar orang mula keluar\nTikar dibentang di bawah rambutan\nAtuk bawa rebana yang lama\nKulitnya sudah kuning macam dia\n\n[Pre-Chorus]\nBudak-budak duduk keliling\nTak faham lagu, tapi diam\n\n[Chorus]\nPetang ini kita ada semua\nEsok siapa tahu ke mana\nJangan cepat balik dulu\nBiar habis satu lagu lagi\n\n[Verse 2]\nMak Cik Ramlah tak nak menyanyi\nTapi bibirnya bergerak juga\nDia ingat suaminya\nYang dulu pukul rebana ini\n\n[Violin Solo]\n\n[Chorus]\nPetang ini kita ada semua\nEsok siapa tahu ke mana\nJangan cepat balik dulu\nBiar habis satu lagu lagi\n\n[Outro]\nSatu lagu lagi\nSatu lagu lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Irama Malaysia — traditional Malay pop. Rebana and gendang hand drums carry an asli rhythm, an accordion plays the main melody with a violin answering in the gaps, a gambus adds plucked ornaments, no drum kit. A female lead sings with the ornamented phrasing of Malay traditional singing, sliding into notes with gentle vibrato at the ends of lines. Warm analog saturation, plate reverb, close and unhurried. 96 BPM, D minor. Communal, dusk-lit.",
+    "lyrics": "[Intro - Accordion]\n\n[Verse 1]\nSelepas asar orang mula keluar\nTikar dibentang di bawah rambutan\nAtuk bawa rebana yang lama\nKulitnya sudah kuning macam dia\n\n[Pre-Chorus]\nBudak-budak duduk keliling\nTak faham lagu, tapi diam\n\n[Chorus]\nPetang ini kita ada semua\nEsok siapa tahu ke mana\nJangan cepat balik dulu\nBiar habis satu lagu lagi\n\n[Verse 2]\nMak Cik Ramlah tak nak menyanyi\nTapi bibirnya bergerak juga\nDia ingat suaminya\nYang dulu pukul rebana ini\n\n[Violin Solo]\n\n[Chorus]\nPetang ini kita ada semua\nEsok siapa tahu ke mana\nJangan cepat balik dulu\nBiar habis satu lagu lagi\n\n[Outro]\nSatu lagu lagi\nSatu lagu lagi"
+  },
+  "seed": "2508852541",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 103.88s**\n- 103.88s per song\n- LM phase (1 song): 16.47s\n- DiT phase (1 song): 87.41s",
+  "task_id": "b2b3fff9-5030-44d7-8901-5af96ce64bb5",
+  "elapsed_s": 160.6,
+  "generated_at": "2026-09-23T22:05:44.459938+08:00",
+  "audio": "sc_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Intro - Accordion]"
+    },
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.36,
+      "end": 26.16,
+      "text": "Selepas asar orang mula keluar"
+    },
+    {
+      "t": 26.24,
+      "end": 30.5,
+      "text": "Tikar dibentang di bawah rambutan"
+    },
+    {
+      "t": 30.86,
+      "end": 33.38,
+      "text": "Atuk bawa rebana yang lama"
+    },
+    {
+      "t": 33.38,
+      "end": 37.62,
+      "text": "Kulitnya sudah kuning macam dia"
+    },
+    {
+      "t": 38.04,
+      "end": 38.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.04,
+      "end": 44.23,
+      "text": "Budak-budak duduk keliling"
+    },
+    {
+      "t": 44.23,
+      "end": 50.45,
+      "text": "Tak faham lagu, tapi diam"
+    },
+    {
+      "t": 50.57,
+      "end": 50.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.57,
+      "end": 54.15,
+      "text": "Petang ini kita ada semua"
+    },
+    {
+      "t": 54.55,
+      "end": 58.37,
+      "text": "Esok siapa tahu ke mana"
+    },
+    {
+      "t": 58.39,
+      "end": 60.37,
+      "text": "Jangan cepat balik dulu"
+    },
+    {
+      "t": 61.19,
+      "end": 64.15,
+      "text": "Biar habis satu lagu lagi"
+    },
+    {
+      "t": 68.65,
+      "end": 68.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.65,
+      "end": 71.93,
+      "text": "Mak Cik Ramlah tak nak menyanyi"
+    },
+    {
+      "t": 73.67,
+      "end": 76.91,
+      "text": "Tapi bibirnya bergerak juga"
+    },
+    {
+      "t": 78.67,
+      "end": 80.65,
+      "text": "Dia ingat suaminya"
+    },
+    {
+      "t": 80.85,
+      "end": 84.09,
+      "text": "Yang dulu pukul rebana ini"
+    },
+    {
+      "t": 115.49,
+      "end": 115.49,
+      "text": "[Violin Solo]"
+    },
+    {
+      "t": 115.49,
+      "end": 115.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.49,
+      "end": 119.31,
+      "text": "Petang ini kita ada semua"
+    },
+    {
+      "t": 121.48,
+      "end": 124.04,
+      "text": "Esok siapa tahu ke mana"
+    },
+    {
+      "t": 126.7,
+      "end": 129.02,
+      "text": "Jangan cepat balik dulu"
+    },
+    {
+      "t": 131.1,
+      "end": 134.66,
+      "text": "Biar habis satu lagu lagi"
+    },
+    {
+      "t": 137.3,
+      "end": 137.3,
+      "text": "[Outro]"
+    },
+    {
+      "t": 137.3,
+      "end": 139.62,
+      "text": "Satu lagu lagi"
+    },
+    {
+      "t": 142.28,
+      "end": 144.64,
+      "text": "Satu lagu lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

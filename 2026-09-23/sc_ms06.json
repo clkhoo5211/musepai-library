@@ -1,0 +1,174 @@
+{
+  "id": "sc_ms06",
+  "title": "Teh Tarik Pukul Tiga",
+  "title_source": "scripted",
+  "genre": "malay r&b",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "warm and intimate",
+  "persona": "",
+  "subject": "a mamak stall at three in the morning",
+  "caption": "Malay R&B, neo-soul leaning. Rhodes electric piano with extended chords, brushed drums, upright bass walking loosely, a muted trumpet in the second verse. A husky female lead sings conversationally with melismatic runs and opens from a near-whisper into a full belt on the last chorus. Warm analog saturation, plate reverb, close and late-night. 90 BPM, E-flat major. Intimate, unhurried.",
+  "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\nPukul tiga pagi mamak masih buka\nAbang tu dah kenal muka aku\nTak payah cakap, dia dah tahu\nTeh tarik kurang manis\n\n[Pre-Chorus]\nAku tak lapar\nAku cuma tak nak balik\n\n[Chorus]\nDuduk sini dulu sekejap\nBiar kerusi plastik ni jadi rumah\nTiga ringgit boleh beli\nSatu jam yang aku tak perlu fikir\n\n[Verse 2]\nMeja sebelah ada budak uni\nBergaduh pasal benda kecil\nAku senyum sikit\nSebab aku pun pernah begitu\n\n[Trumpet Solo]\n\n[Chorus]\nDuduk sini dulu sekejap\nBiar kerusi plastik ni jadi rumah\nTiga ringgit boleh beli\nSatu jam yang aku tak perlu fikir\n\n[Outro]\nSatu lagi, abang\nSatu lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 90,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "E flat major",
+    "timesignature": "4",
+    "prompt": "Malay R&B, neo-soul leaning. Rhodes electric piano with extended chords, brushed drums, upright bass walking loosely, a muted trumpet in the second verse. A husky female lead sings conversationally with melismatic runs and opens from a near-whisper into a full belt on the last chorus. Warm analog saturation, plate reverb, close and late-night. 90 BPM, E-flat major. Intimate, unhurried.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\nPukul tiga pagi mamak masih buka\nAbang tu dah kenal muka aku\nTak payah cakap, dia dah tahu\nTeh tarik kurang manis\n\n[Pre-Chorus]\nAku tak lapar\nAku cuma tak nak balik\n\n[Chorus]\nDuduk sini dulu sekejap\nBiar kerusi plastik ni jadi rumah\nTiga ringgit boleh beli\nSatu jam yang aku tak perlu fikir\n\n[Verse 2]\nMeja sebelah ada budak uni\nBergaduh pasal benda kecil\nAku senyum sikit\nSebab aku pun pernah begitu\n\n[Trumpet Solo]\n\n[Chorus]\nDuduk sini dulu sekejap\nBiar kerusi plastik ni jadi rumah\nTiga ringgit boleh beli\nSatu jam yang aku tak perlu fikir\n\n[Outro]\nSatu lagi, abang\nSatu lagi"
+  },
+  "seed": "2230408494",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 93.59s**\n- 93.59s per song\n- LM phase (1 song): 23.78s\n- DiT phase (1 song): 69.81s",
+  "task_id": "2ba7b97c-5e00-40d1-9ed7-da9b3ccca868",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-09-23T22:14:05.538011+08:00",
+  "audio": "sc_ms06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.82,
+      "end": 22.82,
+      "text": "[Intro - Rhodes]"
+    },
+    {
+      "t": 22.82,
+      "end": 22.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.82,
+      "end": 26.24,
+      "text": "Pukul tiga pagi mamak masih buka"
+    },
+    {
+      "t": 28.14,
+      "end": 31.4,
+      "text": "Abang tu dah kenal muka aku"
+    },
+    {
+      "t": 33.42,
+      "end": 36.8,
+      "text": "Tak payah cakap, dia dah tahu"
+    },
+    {
+      "t": 39.47,
+      "end": 44.23,
+      "text": "Teh tarik kurang manis"
+    },
+    {
+      "t": 44.29,
+      "end": 44.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.29,
+      "end": 44.95,
+      "text": "Aku tak lapar"
+    },
+    {
+      "t": 45.05,
+      "end": 47.61,
+      "text": "Aku cuma tak nak balik"
+    },
+    {
+      "t": 50.97,
+      "end": 50.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.97,
+      "end": 53.35,
+      "text": "Duduk sini dulu sekejap"
+    },
+    {
+      "t": 55.71,
+      "end": 60.83,
+      "text": "Biar kerusi plastik ni jadi rumah"
+    },
+    {
+      "t": 61.47,
+      "end": 63.65,
+      "text": "Tiga ringgit boleh beli"
+    },
+    {
+      "t": 64.19,
+      "end": 67.53,
+      "text": "Satu jam yang aku tak perlu fikir"
+    },
+    {
+      "t": 68.25,
+      "end": 68.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.25,
+      "end": 72.89,
+      "text": "Meja sebelah ada budak uni"
+    },
+    {
+      "t": 72.89,
+      "end": 75.47,
+      "text": "Bergaduh pasal benda kecil"
+    },
+    {
+      "t": 75.47,
+      "end": 77.05,
+      "text": "Aku senyum sikit"
+    },
+    {
+      "t": 77.09,
+      "end": 95.13,
+      "text": "Sebab aku pun pernah begitu"
+    },
+    {
+      "t": 95.21,
+      "end": 95.21,
+      "text": "[Trumpet Solo]"
+    },
+    {
+      "t": 95.21,
+      "end": 95.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.21,
+      "end": 98.55,
+      "text": "Duduk sini dulu sekejap"
+    },
+    {
+      "t": 98.55,
+      "end": 104.07,
+      "text": "Biar kerusi plastik ni jadi rumah"
+    },
+    {
+      "t": 104.15,
+      "end": 106.27,
+      "text": "Tiga ringgit boleh beli"
+    },
+    {
+      "t": 106.45,
+      "end": 116.96,
+      "text": "Satu jam yang aku tak perlu fikir"
+    },
+    {
+      "t": 117.72,
+      "end": 117.72,
+      "text": "[Outro]"
+    },
+    {
+      "t": 117.72,
+      "end": 136.64,
+      "text": "Satu lagi, abang"
+    },
+    {
+      "t": 144.36,
+      "end": 145.62,
+      "text": "Satu lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

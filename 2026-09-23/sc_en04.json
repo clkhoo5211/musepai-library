@@ -1,0 +1,169 @@
+{
+  "id": "sc_en04",
+  "title": "Everybody's Fine Down Here",
+  "title_source": "scripted",
+  "genre": "britpop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "defiant and loud",
+  "persona": "",
+  "subject": "a pub on the last night before it closes",
+  "caption": "Britpop, 90s UK guitar swagger. Two jangly electric guitars with chorus pedals, a driving eighth-note bass, live drums with a big open snare, tambourine doubling the backbeat. A nasal British male voice drawls the verses behind the beat and the chorus is an anthemic singalong with a whole room shouting the second half. Raw live-room bleed, tape saturation, no vocal tuning. 128 BPM, A major. Cocky, warm, a bit sad underneath.",
+  "lyrics": "[Intro - Guitars]\n\n[Verse 1]\nThey're selling off the optics Sunday\nThe dartboard's going to Dave\nForty years of somebody's grandad\nIn the carpet, in the wallpaper\n\n[Pre-Chorus]\nLast orders means it this time\n\n[Chorus]\nEverybody's fine down here\nEverybody's absolutely fine\nWe'll drink the place completely dry\nAnd pretend we've all got somewhere else to go\n\n[Verse 2]\nThe landlord's crying in the cellar\nHe thinks that nobody knows\nWe all know, we just let him\nIt's the decent thing to do\n\n[Guitar Solo]\n\n[Chorus]\nEverybody's fine down here\nEverybody's absolutely fine\nWe'll drink the place completely dry\nAnd pretend we've all got somewhere else to go\n\n[Outro - crowd]\nFine down here\nFine down here",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Britpop, 90s UK guitar swagger. Two jangly electric guitars with chorus pedals, a driving eighth-note bass, live drums with a big open snare, tambourine doubling the backbeat. A nasal British male voice drawls the verses behind the beat and the chorus is an anthemic singalong with a whole room shouting the second half. Raw live-room bleed, tape saturation, no vocal tuning. 128 BPM, A major. Cocky, warm, a bit sad underneath.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\nThey're selling off the optics Sunday\nThe dartboard's going to Dave\nForty years of somebody's grandad\nIn the carpet, in the wallpaper\n\n[Pre-Chorus]\nLast orders means it this time\n\n[Chorus]\nEverybody's fine down here\nEverybody's absolutely fine\nWe'll drink the place completely dry\nAnd pretend we've all got somewhere else to go\n\n[Verse 2]\nThe landlord's crying in the cellar\nHe thinks that nobody knows\nWe all know, we just let him\nIt's the decent thing to do\n\n[Guitar Solo]\n\n[Chorus]\nEverybody's fine down here\nEverybody's absolutely fine\nWe'll drink the place completely dry\nAnd pretend we've all got somewhere else to go\n\n[Outro - crowd]\nFine down here\nFine down here"
+  },
+  "seed": "164334057",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 92.00s**\n- 92.00s per song\n- LM phase (1 song): 25.49s\n- DiT phase (1 song): 66.51s",
+  "task_id": "3379b996-19ed-4105-9803-32f9d31d8a1d",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-09-23T21:44:30.966522+08:00",
+  "audio": "sc_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.9,
+      "end": 16.9,
+      "text": "[Intro - Guitars]"
+    },
+    {
+      "t": 16.9,
+      "end": 16.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.9,
+      "end": 21.88,
+      "text": "They're selling off the optics Sunday"
+    },
+    {
+      "t": 24.74,
+      "end": 26.24,
+      "text": "The dartboard's going to Dave"
+    },
+    {
+      "t": 26.24,
+      "end": 32.16,
+      "text": "Forty years of somebody's grandad"
+    },
+    {
+      "t": 32.22,
+      "end": 35.68,
+      "text": "In the carpet, in the wallpaper"
+    },
+    {
+      "t": 35.92,
+      "end": 35.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.92,
+      "end": 37.22,
+      "text": "Last orders means it this time"
+    },
+    {
+      "t": 46.95,
+      "end": 46.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.95,
+      "end": 48.21,
+      "text": "Everybody's fine down here"
+    },
+    {
+      "t": 48.23,
+      "end": 49.95,
+      "text": "Everybody's absolutely fine"
+    },
+    {
+      "t": 49.95,
+      "end": 57.25,
+      "text": "We'll drink the place completely dry"
+    },
+    {
+      "t": 57.29,
+      "end": 61.65,
+      "text": "And pretend we've all got somewhere else to go"
+    },
+    {
+      "t": 66.95,
+      "end": 66.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.95,
+      "end": 69.77,
+      "text": "The landlord's crying in the cellar"
+    },
+    {
+      "t": 70.47,
+      "end": 73.61,
+      "text": "He thinks that nobody knows"
+    },
+    {
+      "t": 74.47,
+      "end": 77.57,
+      "text": "We all know, we just let him"
+    },
+    {
+      "t": 78.51,
+      "end": 81.85,
+      "text": "It's the decent thing to do"
+    },
+    {
+      "t": 88.15,
+      "end": 88.15,
+      "text": "[Guitar Solo]"
+    },
+    {
+      "t": 88.15,
+      "end": 88.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.15,
+      "end": 92.13,
+      "text": "Everybody's fine down here"
+    },
+    {
+      "t": 95.65,
+      "end": 98.31,
+      "text": "Everybody's absolutely fine"
+    },
+    {
+      "t": 98.31,
+      "end": 106.21,
+      "text": "We'll drink the place completely dry"
+    },
+    {
+      "t": 106.21,
+      "end": 110.23,
+      "text": "And pretend we've all got somewhere else to go"
+    },
+    {
+      "t": 129.08,
+      "end": 129.08,
+      "text": "[Outro - crowd]"
+    },
+    {
+      "t": 129.08,
+      "end": 131.46,
+      "text": "Fine down here"
+    },
+    {
+      "t": 136.58,
+      "end": 150.3,
+      "text": "Fine down here"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

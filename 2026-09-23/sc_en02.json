@@ -1,0 +1,184 @@
+{
+  "id": "sc_en02",
+  "title": "Somebody Left The Porch Light",
+  "title_source": "scripted",
+  "genre": "gospel soul",
+  "language": "en",
+  "language_name": "English",
+  "mood": "bright and hopeful",
+  "persona": "",
+  "subject": "coming home after a long absence",
+  "caption": "Gospel soul. Hammond organ through a rotating speaker, upright piano, bass, live kit, tambourine on two and four, hand claps. A powerful female lead sings with heavy melisma and full-chest belting; a choir answers every line in call and response and stacks harmonies under the final chorus, which modulates up a semitone. Recorded live in a room with natural bleed and long gospel-room reverb. 92 BPM, E-flat major. Rising, communal, grateful.",
+  "lyrics": "[Intro - Organ]\n\n[Verse 1]\nSeven years is a long walk back\nI counted every mile in my chest\nThe mailbox leans the way it always leaned\nAnd somebody left the porch light on\n\n[Pre-Chorus]\n(Still burning) still burning\n(Still waiting) still waiting\n\n[Chorus]\nSomebody left the porch light on\nAfter everything I said\nI don't deserve that yellow square of glass\nBut Lord, I'm walking to it anyway\n\n[Verse 2]\nMy mother's hands are smaller now\nShe don't ask me where I've been\nShe just puts another plate down\nLike I never left the room\n\n[Bridge - Choir]\n(Come on home) come on home\n(Come on home) I'm coming\n\n[Chorus - key change]\nSomebody left the porch light on\nAfter everything I said\nI don't deserve that yellow square of glass\nBut Lord, I'm walking to it anyway\n\n[Outro]\nStill burning\nStill burning",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "E flat major",
+    "timesignature": "3",
+    "prompt": "Gospel soul. Hammond organ through a rotating speaker, upright piano, bass, live kit, tambourine on two and four, hand claps. A powerful female lead sings with heavy melisma and full-chest belting; a choir answers every line in call and response and stacks harmonies under the final chorus, which modulates up a semitone. Recorded live in a room with natural bleed and long gospel-room reverb. 92 BPM, E-flat major. Rising, communal, grateful.",
+    "lyrics": "[Intro - Organ]\n\n[Verse 1]\nSeven years is a long walk back\nI counted every mile in my chest\nThe mailbox leans the way it always leaned\nAnd somebody left the porch light on\n\n[Pre-Chorus]\n(Still burning) still burning\n(Still waiting) still waiting\n\n[Chorus]\nSomebody left the porch light on\nAfter everything I said\nI don't deserve that yellow square of glass\nBut Lord, I'm walking to it anyway\n\n[Verse 2]\nMy mother's hands are smaller now\nShe don't ask me where I've been\nShe just puts another plate down\nLike I never left the room\n\n[Bridge - Choir]\n(Come on home) come on home\n(Come on home) I'm coming\n\n[Chorus - key change]\nSomebody left the porch light on\nAfter everything I said\nI don't deserve that yellow square of glass\nBut Lord, I'm walking to it anyway\n\n[Outro]\nStill burning\nStill burning"
+  },
+  "seed": "2815030775",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 124.52s**\n- 124.52s per song\n- LM phase (1 song): 26.83s\n- DiT phase (1 song): 97.69s",
+  "task_id": "100b2204-cb68-4047-a8a2-ddab22c49f10",
+  "elapsed_s": 150.4,
+  "generated_at": "2026-09-23T21:40:30.735911+08:00",
+  "audio": "sc_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.86,
+      "end": 19.86,
+      "text": "[Intro - Organ]"
+    },
+    {
+      "t": 19.86,
+      "end": 19.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.86,
+      "end": 23.92,
+      "text": "Seven years is a long walk back"
+    },
+    {
+      "t": 27.1,
+      "end": 32.36,
+      "text": "I counted every mile in my chest"
+    },
+    {
+      "t": 34.96,
+      "end": 39.58,
+      "text": "The mailbox leans the way it always leaned"
+    },
+    {
+      "t": 39.58,
+      "end": 41.66,
+      "text": "And somebody left the porch light on"
+    },
+    {
+      "t": 41.68,
+      "end": 41.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.68,
+      "end": 44.09,
+      "text": "(Still burning) still burning"
+    },
+    {
+      "t": 46.83,
+      "end": 53.51,
+      "text": "(Still waiting) still waiting"
+    },
+    {
+      "t": 53.51,
+      "end": 53.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.51,
+      "end": 56.15,
+      "text": "Somebody left the porch light on"
+    },
+    {
+      "t": 56.15,
+      "end": 62.79,
+      "text": "After everything I said"
+    },
+    {
+      "t": 62.79,
+      "end": 68.49,
+      "text": "I don't deserve that yellow square of glass"
+    },
+    {
+      "t": 70.53,
+      "end": 73.97,
+      "text": "But Lord, I'm walking to it anyway"
+    },
+    {
+      "t": 74.03,
+      "end": 74.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.03,
+      "end": 76.49,
+      "text": "My mother's hands are smaller now"
+    },
+    {
+      "t": 78.79,
+      "end": 82.57,
+      "text": "She don't ask me where I've been"
+    },
+    {
+      "t": 87.11,
+      "end": 91.99,
+      "text": "She just puts another plate down"
+    },
+    {
+      "t": 91.99,
+      "end": 95.73,
+      "text": "Like I never left the room"
+    },
+    {
+      "t": 95.73,
+      "end": 95.73,
+      "text": "[Bridge - Choir]"
+    },
+    {
+      "t": 95.73,
+      "end": 98.81,
+      "text": "(Come on home) come on home"
+    },
+    {
+      "t": 98.81,
+      "end": 101.07,
+      "text": "(Come on home) I'm coming"
+    },
+    {
+      "t": 101.07,
+      "end": 101.07,
+      "text": "[Chorus - key change]"
+    },
+    {
+      "t": 101.07,
+      "end": 103.39,
+      "text": "Somebody left the porch light on"
+    },
+    {
+      "t": 103.41,
+      "end": 118.15,
+      "text": "After everything I said"
+    },
+    {
+      "t": 118.15,
+      "end": 123.95,
+      "text": "I don't deserve that yellow square of glass"
+    },
+    {
+      "t": 125.37,
+      "end": 131.08,
+      "text": "But Lord, I'm walking to it anyway"
+    },
+    {
+      "t": 134.04,
+      "end": 134.04,
+      "text": "[Outro]"
+    },
+    {
+      "t": 134.04,
+      "end": 138.76,
+      "text": "Still burning"
+    },
+    {
+      "t": 152.58,
+      "end": 154.08,
+      "text": "Still burning"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

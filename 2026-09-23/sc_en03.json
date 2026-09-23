@@ -1,0 +1,169 @@
+{
+  "id": "sc_en03",
+  "title": "Two Lanes Out Of Tulsa",
+  "title_source": "scripted",
+  "genre": "country",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wistful and nocturnal",
+  "persona": "",
+  "subject": "a two-lane road out of town",
+  "caption": "Country rock in the Nashville tradition. Acoustic guitar and a Telecaster trading fills, pedal steel sustaining under every vocal line, fiddle taking the solo, Hammond organ pad, bass and a relaxed shuffle on the kit. A male baritone sings with a pronounced twang and southern drawl, conversational and unhurried, with a low harmony on the choruses. Warm analog saturation, plate reverb, slapback on the vocal. 98 BPM, G major. Nostalgic, dusty, unhurried.",
+  "lyrics": "[Intro - Pedal Steel]\n\n[Verse 1]\nTwo lanes out of Tulsa and a radio\nPlaying something my father would've known\nThe girl at the Conoco called me honey\nAnd I about came apart\n\n[Pre-Chorus]\nIt don't take much these days\n\n[Chorus]\nI ain't running, I'm just driving\nThere's a difference if you've done both\nOne of them's got somewhere to be\nAnd one of them just needs the road\n\n[Verse 2]\nThere's a church sign outside Sapulpa\nSays the Lord ain't finished with you yet\nWell I hope He's got some patience left\nBecause I'm slower than most\n\n[Fiddle Solo]\n\n[Chorus]\nI ain't running, I'm just driving\nThere's a difference if you've done both\nOne of them's got somewhere to be\nAnd one of them just needs the road\n\n[Outro]\nJust needs the road\nJust needs the road",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Country rock in the Nashville tradition. Acoustic guitar and a Telecaster trading fills, pedal steel sustaining under every vocal line, fiddle taking the solo, Hammond organ pad, bass and a relaxed shuffle on the kit. A male baritone sings with a pronounced twang and southern drawl, conversational and unhurried, with a low harmony on the choruses. Warm analog saturation, plate reverb, slapback on the vocal. 98 BPM, G major. Nostalgic, dusty, unhurried.",
+    "lyrics": "[Intro - Pedal Steel]\n\n[Verse 1]\nTwo lanes out of Tulsa and a radio\nPlaying something my father would've known\nThe girl at the Conoco called me honey\nAnd I about came apart\n\n[Pre-Chorus]\nIt don't take much these days\n\n[Chorus]\nI ain't running, I'm just driving\nThere's a difference if you've done both\nOne of them's got somewhere to be\nAnd one of them just needs the road\n\n[Verse 2]\nThere's a church sign outside Sapulpa\nSays the Lord ain't finished with you yet\nWell I hope He's got some patience left\nBecause I'm slower than most\n\n[Fiddle Solo]\n\n[Chorus]\nI ain't running, I'm just driving\nThere's a difference if you've done both\nOne of them's got somewhere to be\nAnd one of them just needs the road\n\n[Outro]\nJust needs the road\nJust needs the road"
+  },
+  "seed": "1342258097",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 100.58s**\n- 100.58s per song\n- LM phase (1 song): 24.24s\n- DiT phase (1 song): 76.35s",
+  "task_id": "f9f766f7-b61c-4e9b-a3a5-c747dbf56742",
+  "elapsed_s": 130.1,
+  "generated_at": "2026-09-23T21:42:40.869924+08:00",
+  "audio": "sc_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.76,
+      "end": 21.76,
+      "text": "[Intro - Pedal Steel]"
+    },
+    {
+      "t": 21.76,
+      "end": 21.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.76,
+      "end": 23.74,
+      "text": "Two lanes out of Tulsa and a radio"
+    },
+    {
+      "t": 24.46,
+      "end": 31.66,
+      "text": "Playing something my father would've known"
+    },
+    {
+      "t": 31.66,
+      "end": 35.38,
+      "text": "The girl at the Conoco called me honey"
+    },
+    {
+      "t": 36.62,
+      "end": 38.84,
+      "text": "And I about came apart"
+    },
+    {
+      "t": 42.23,
+      "end": 42.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.23,
+      "end": 52.37,
+      "text": "It don't take much these days"
+    },
+    {
+      "t": 52.71,
+      "end": 52.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.71,
+      "end": 57.23,
+      "text": "I ain't running, I'm just driving"
+    },
+    {
+      "t": 58.53,
+      "end": 61.09,
+      "text": "There's a difference if you've done both"
+    },
+    {
+      "t": 62.31,
+      "end": 65.39,
+      "text": "One of them's got somewhere to be"
+    },
+    {
+      "t": 66.71,
+      "end": 69.53,
+      "text": "And one of them just needs the road"
+    },
+    {
+      "t": 72.35,
+      "end": 72.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.35,
+      "end": 75.83,
+      "text": "There's a church sign outside Sapulpa"
+    },
+    {
+      "t": 77.53,
+      "end": 80.79,
+      "text": "Says the Lord ain't finished with you yet"
+    },
+    {
+      "t": 93.63,
+      "end": 100.27,
+      "text": "Well I hope He's got some patience left"
+    },
+    {
+      "t": 100.53,
+      "end": 102.77,
+      "text": "Because I'm slower than most"
+    },
+    {
+      "t": 103.15,
+      "end": 103.15,
+      "text": "[Fiddle Solo]"
+    },
+    {
+      "t": 103.15,
+      "end": 103.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.15,
+      "end": 105.21,
+      "text": "I ain't running, I'm just driving"
+    },
+    {
+      "t": 106.49,
+      "end": 109.77,
+      "text": "There's a difference if you've done both"
+    },
+    {
+      "t": 112.11,
+      "end": 114.61,
+      "text": "One of them's got somewhere to be"
+    },
+    {
+      "t": 117.17,
+      "end": 119.71,
+      "text": "And one of them just needs the road"
+    },
+    {
+      "t": 128.14,
+      "end": 128.14,
+      "text": "[Outro]"
+    },
+    {
+      "t": 128.14,
+      "end": 129.78,
+      "text": "Just needs the road"
+    },
+    {
+      "t": 138.1,
+      "end": 150.2,
+      "text": "Just needs the road"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

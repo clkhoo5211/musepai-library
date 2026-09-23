@@ -1,0 +1,104 @@
+{
+  "id": "sc_en05",
+  "title": "Held Note",
+  "title_source": "scripted",
+  "genre": "melodic techno",
+  "language": "en",
+  "language_name": "English",
+  "mood": "quiet and reflective",
+  "persona": "",
+  "subject": "a long train tunnel",
+  "caption": "Melodic techno. A four-on-the-floor drum machine with a tight closed hat and a long sidechained pad, rolling sub bass, an arpeggiated analog synth that slowly opens its filter across the track, one detuned lead that arrives at the halfway point. An ethereal female soprano sings wordless vowels through the verses and a single repeated line on the drop, drenched in cavernous reverb. Wide stereo image, granular textures in the breakdown. 122 BPM, D minor. Hypnotic, weightless.",
+  "lyrics": "[Intro - Pad]\n\n[Wordless Vocals]\nAh————\nOoh————\n\n[Build]\n\n[Drop]\nHold the note until the tunnel ends\n\n[Breakdown]\n\n[Wordless Vocals]\nAh————\n\n[Drop]\nHold the note until the tunnel ends\nHold it, hold it\n\n[Outro - Pad]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "2",
+    "prompt": "Melodic techno. A four-on-the-floor drum machine with a tight closed hat and a long sidechained pad, rolling sub bass, an arpeggiated analog synth that slowly opens its filter across the track, one detuned lead that arrives at the halfway point. An ethereal female soprano sings wordless vowels through the verses and a single repeated line on the drop, drenched in cavernous reverb. Wide stereo image, granular textures in the breakdown. 122 BPM, D minor. Hypnotic, weightless.",
+    "lyrics": "[Intro - Pad]\n\n[Wordless Vocals]\nAh————\nOoh————\n\n[Build]\n\n[Drop]\nHold the note until the tunnel ends\n\n[Breakdown]\n\n[Wordless Vocals]\nAh————\n\n[Drop]\nHold the note until the tunnel ends\nHold it, hold it\n\n[Outro - Pad]"
+  },
+  "seed": "449238318",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 98.78s**\n- 98.78s per song\n- LM phase (1 song): 24.78s\n- DiT phase (1 song): 74.00s",
+  "task_id": "5494d200-a5c5-4dc2-a9ef-f5e09c5bb151",
+  "elapsed_s": 130.5,
+  "generated_at": "2026-09-23T21:46:41.467412+08:00",
+  "audio": "sc_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.08,
+      "end": 33.08,
+      "text": "[Intro - Pad]"
+    },
+    {
+      "t": 33.08,
+      "end": 33.08,
+      "text": "[Wordless Vocals]"
+    },
+    {
+      "t": 33.08,
+      "end": 48.71,
+      "text": "Ah————"
+    },
+    {
+      "t": 64.77,
+      "end": 65.65,
+      "text": "Ooh————"
+    },
+    {
+      "t": 66.11,
+      "end": 66.11,
+      "text": "[Build]"
+    },
+    {
+      "t": 66.11,
+      "end": 66.11,
+      "text": "[Drop]"
+    },
+    {
+      "t": 66.11,
+      "end": 74.77,
+      "text": "Hold the note until the tunnel ends"
+    },
+    {
+      "t": 74.89,
+      "end": 74.89,
+      "text": "[Breakdown]"
+    },
+    {
+      "t": 74.89,
+      "end": 74.89,
+      "text": "[Wordless Vocals]"
+    },
+    {
+      "t": 74.89,
+      "end": 75.29,
+      "text": "Ah————"
+    },
+    {
+      "t": 75.83,
+      "end": 75.83,
+      "text": "[Drop]"
+    },
+    {
+      "t": 75.83,
+      "end": 92.75,
+      "text": "Hold the note until the tunnel ends"
+    },
+    {
+      "t": 93.21,
+      "end": 116.43,
+      "text": "Hold it, hold it"
+    },
+    {
+      "t": 116.43,
+      "end": 116.43,
+      "text": "[Outro - Pad]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

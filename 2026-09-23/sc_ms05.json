@@ -1,0 +1,174 @@
+{
+  "id": "sc_ms05",
+  "title": "Perahu Kertas",
+  "title_source": "scripted",
+  "genre": "keroncong",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "quiet and reflective",
+  "persona": "",
+  "subject": "a paper boat in a monsoon drain",
+  "caption": "Keroncong. The cak and cuk ukuleles play the interlocking off-beat pattern that defines the form, a cello plucked pizzicato on the downbeats, upright bass, flute taking the melody between vocal lines, and a guitar filling. A soft female alto sings breathy and restrained with the gentle portamento of keroncong, never loud. Tape saturation, close-miked, small room. 84 BPM, C major. Gentle, old-fashioned, patient.",
+  "lyrics": "[Intro - Cak & Cuk]\n\n[Verse 1]\nHujan berhenti pukul lima\nAir longkang jalan laju\nAku lipat kertas jadi perahu\nMacam ayah ajar dulu\n\n[Pre-Chorus]\nDia kata perahu kertas\nTak perlu sampai mana-mana\n\n[Chorus]\nPerahu kertas, pergi dulu\nAku tengok sampai kau hilang\nAku tak tahu kau ke mana\nItu pun sudah cukup\n\n[Verse 2]\nAyah dah lama tak ada\nLipatan aku masih sama\nTangan aku dah besar\nKertas tetap kecil\n\n[Flute Solo]\n\n[Chorus]\nPerahu kertas, pergi dulu\nAku tengok sampai kau hilang\nAku tak tahu kau ke mana\nItu pun sudah cukup\n\n[Outro]\nPergi dulu\nPergi dulu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Keroncong. The cak and cuk ukuleles play the interlocking off-beat pattern that defines the form, a cello plucked pizzicato on the downbeats, upright bass, flute taking the melody between vocal lines, and a guitar filling. A soft female alto sings breathy and restrained with the gentle portamento of keroncong, never loud. Tape saturation, close-miked, small room. 84 BPM, C major. Gentle, old-fashioned, patient.",
+    "lyrics": "[Intro - Cak & Cuk]\n\n[Verse 1]\nHujan berhenti pukul lima\nAir longkang jalan laju\nAku lipat kertas jadi perahu\nMacam ayah ajar dulu\n\n[Pre-Chorus]\nDia kata perahu kertas\nTak perlu sampai mana-mana\n\n[Chorus]\nPerahu kertas, pergi dulu\nAku tengok sampai kau hilang\nAku tak tahu kau ke mana\nItu pun sudah cukup\n\n[Verse 2]\nAyah dah lama tak ada\nLipatan aku masih sama\nTangan aku dah besar\nKertas tetap kecil\n\n[Flute Solo]\n\n[Chorus]\nPerahu kertas, pergi dulu\nAku tengok sampai kau hilang\nAku tak tahu kau ke mana\nItu pun sudah cukup\n\n[Outro]\nPergi dulu\nPergi dulu"
+  },
+  "seed": "3761057530",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 104.68s**\n- 104.68s per song\n- LM phase (1 song): 28.29s\n- DiT phase (1 song): 76.39s",
+  "task_id": "85c18aaf-6b4c-4eaf-809e-71d52a9c5e67",
+  "elapsed_s": 130.1,
+  "generated_at": "2026-09-23T22:12:05.375488+08:00",
+  "audio": "sc_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.68,
+      "end": 4.68,
+      "text": "[Intro - Cak & Cuk]"
+    },
+    {
+      "t": 4.68,
+      "end": 4.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.68,
+      "end": 10.84,
+      "text": "Hujan berhenti pukul lima"
+    },
+    {
+      "t": 11.5,
+      "end": 19.28,
+      "text": "Air longkang jalan laju"
+    },
+    {
+      "t": 19.28,
+      "end": 37.56,
+      "text": "Aku lipat kertas jadi perahu"
+    },
+    {
+      "t": 40.59,
+      "end": 41.41,
+      "text": "Macam ayah ajar dulu"
+    },
+    {
+      "t": 41.41,
+      "end": 41.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.41,
+      "end": 43.49,
+      "text": "Dia kata perahu kertas"
+    },
+    {
+      "t": 46.05,
+      "end": 49.11,
+      "text": "Tak perlu sampai mana-mana"
+    },
+    {
+      "t": 53.25,
+      "end": 53.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.25,
+      "end": 57.69,
+      "text": "Perahu kertas, pergi dulu"
+    },
+    {
+      "t": 57.87,
+      "end": 62.25,
+      "text": "Aku tengok sampai kau hilang"
+    },
+    {
+      "t": 64.29,
+      "end": 70.39,
+      "text": "Aku tak tahu kau ke mana"
+    },
+    {
+      "t": 71.41,
+      "end": 76.13,
+      "text": "Itu pun sudah cukup"
+    },
+    {
+      "t": 76.27,
+      "end": 76.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.27,
+      "end": 78.07,
+      "text": "Ayah dah lama tak ada"
+    },
+    {
+      "t": 78.27,
+      "end": 87.43,
+      "text": "Lipatan aku masih sama"
+    },
+    {
+      "t": 87.59,
+      "end": 90.73,
+      "text": "Tangan aku dah besar"
+    },
+    {
+      "t": 90.79,
+      "end": 94.31,
+      "text": "Kertas tetap kecil"
+    },
+    {
+      "t": 94.31,
+      "end": 94.31,
+      "text": "[Flute Solo]"
+    },
+    {
+      "t": 94.31,
+      "end": 94.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.31,
+      "end": 103.91,
+      "text": "Perahu kertas, pergi dulu"
+    },
+    {
+      "t": 104.27,
+      "end": 119.37,
+      "text": "Aku tengok sampai kau hilang"
+    },
+    {
+      "t": 119.45,
+      "end": 123.78,
+      "text": "Aku tak tahu kau ke mana"
+    },
+    {
+      "t": 125.12,
+      "end": 131.0,
+      "text": "Itu pun sudah cukup"
+    },
+    {
+      "t": 131.02,
+      "end": 131.02,
+      "text": "[Outro]"
+    },
+    {
+      "t": 131.02,
+      "end": 132.64,
+      "text": "Pergi dulu"
+    },
+    {
+      "t": 136.7,
+      "end": 142.8,
+      "text": "Pergi dulu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}
