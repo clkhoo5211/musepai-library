@@ -1,0 +1,31 @@
+{
+  "id": "sc_zh01",
+  "title": "末班車還有人",
+  "title_source": "scripted",
+  "genre": "mandopop ballad",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "wistful and nocturnal",
+  "persona": "",
+  "subject": "the last train",
+  "caption": "A Mandarin pop ballad. Grand piano carries the verses alone, a string section enters at the pre-chorus and swells under the chorus. A male baritone sings restrained and close-miked in the verses, then opens up with full chest voice on the chorus. Warm analog saturation, plate reverb on the vocal, no drums until the second verse where brushed kit enters softly. Slow, 68 BPM, F major. Melancholy but warm, not bleak.",
+  "lyrics": "[Intro - Piano]\n\n[Verse 1]\n月台的燈比人還多\n最後一班車慢慢靠站\n你說再等等\n等到什麼我沒有問\n\n[Pre-Chorus]\n廣播念完最後一站\n風從隧道那頭吹過來\n\n[Chorus]\n末班車還有人\n只是不再有你\n我把座位空著\n像留一個從不會來的約\n\n[Verse 2]\n手機亮了又暗了\n是廣告不是你\n窗外的城市倒著走\n我也想跟著退回去\n\n[Bridge - strings]\n如果那年我留下\n如果那晚我說出口\n這班車會不會\n就不用開這麼久\n\n[Chorus]\n末班車還有人\n只是不再有你\n我把座位空著\n像留一個從不會來的約\n\n[Outro]\n門要關了\n我還坐著",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 68,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "A Mandarin pop ballad. Grand piano carries the verses alone, a string section enters at the pre-chorus and swells under the chorus. A male baritone sings restrained and close-miked in the verses, then opens up with full chest voice on the chorus. Warm analog saturation, plate reverb on the vocal, no drums until the second verse where brushed kit enters softly. Slow, 68 BPM, F major. Melancholy but warm, not bleak.",
+    "lyrics": "[Intro - Piano]\n\n[Verse 1]\n月台的燈比人還多\n最後一班車慢慢靠站\n你說再等等\n等到什麼我沒有問\n\n[Pre-Chorus]\n廣播念完最後一站\n風從隧道那頭吹過來\n\n[Chorus]\n末班車還有人\n只是不再有你\n我把座位空著\n像留一個從不會來的約\n\n[Verse 2]\n手機亮了又暗了\n是廣告不是你\n窗外的城市倒著走\n我也想跟著退回去\n\n[Bridge - strings]\n如果那年我留下\n如果那晚我說出口\n這班車會不會\n就不用開這麼久\n\n[Chorus]\n末班車還有人\n只是不再有你\n我把座位空著\n像留一個從不會來的約\n\n[Outro]\n門要關了\n我還坐著"
+  },
+  "seed": "2646144386",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 86.10s**\n- 86.10s per song\n- LM phase (1 song): 21.61s\n- DiT phase (1 song): 64.49s",
+  "task_id": "91127846-c4ed-4e72-b0a3-dbd582c691cd",
+  "elapsed_s": 252.0,
+  "generated_at": "2026-09-23T20:34:44.105838+08:00",
+  "audio": "sc_zh01.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sc_en01",
+  "title": "Hold The Line Open",
+  "title_source": "scripted",
+  "genre": "indie rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "restless and urgent",
+  "persona": "",
+  "subject": "a long-distance call",
+  "caption": "An indie rock band recorded live in one room — drums, bass and two electric guitars, one clean and arpeggiated, one with light overdrive. A raspy male voice sings close-miked and conversational in the verses and pushes into a shout on the chorus. Bone-dry drums with audible room bleed, no reverb on the vocal, tape saturation on the bus. Driving, 132 BPM, E minor. Urgent, unresolved.",
+  "lyrics": "[Intro - Guitars]\n\n[Verse 1]\nEight hours and a bad connection\nYou say my name and then it cuts\nI hold the phone against the window\nLike the glass could help somehow\n\n[Pre-Chorus]\nDon't hang up yet\nDon't hang up yet\n\n[Chorus]\nHold the line open\nEven if there's nothing on it\nI'd rather hear you breathing wrong\nThan hear the room without you in it\n\n[Verse 2]\nYou're asleep before my morning\nI'm asleep before your night\nWe trade the same four hours over\nLike they're all we're allowed\n\n[Guitar Solo]\n\n[Bridge]\nI counted every time it dropped\nI stopped at forty-one\nI kept redialing anyway\n\n[Chorus]\nHold the line open\nEven if there's nothing on it\nI'd rather hear you breathing wrong\nThan hear the room without you in it\n\n[Outro]\nStill here\nStill here",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "An indie rock band recorded live in one room — drums, bass and two electric guitars, one clean and arpeggiated, one with light overdrive. A raspy male voice sings close-miked and conversational in the verses and pushes into a shout on the chorus. Bone-dry drums with audible room bleed, no reverb on the vocal, tape saturation on the bus. Driving, 132 BPM, E minor. Urgent, unresolved.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\nEight hours and a bad connection\nYou say my name and then it cuts\nI hold the phone against the window\nLike the glass could help somehow\n\n[Pre-Chorus]\nDon't hang up yet\nDon't hang up yet\n\n[Chorus]\nHold the line open\nEven if there's nothing on it\nI'd rather hear you breathing wrong\nThan hear the room without you in it\n\n[Verse 2]\nYou're asleep before my morning\nI'm asleep before your night\nWe trade the same four hours over\nLike they're all we're allowed\n\n[Guitar Solo]\n\n[Bridge]\nI counted every time it dropped\nI stopped at forty-one\nI kept redialing anyway\n\n[Chorus]\nHold the line open\nEven if there's nothing on it\nI'd rather hear you breathing wrong\nThan hear the room without you in it\n\n[Outro]\nStill here\nStill here"
+  },
+  "seed": "2930583115",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 94.90s**\n- 94.90s per song\n- LM phase (1 song): 23.81s\n- DiT phase (1 song): 71.09s",
+  "task_id": "1b56291a-dcfa-41af-9a6d-80e720b627b2",
+  "elapsed_s": 120.1,
+  "generated_at": "2026-09-23T20:36:44.242295+08:00",
+  "audio": "sc_en01.mp3"
+}
