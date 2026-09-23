@@ -1,0 +1,349 @@
+{
+ "day": "2026-09-24",
+ "tracks": [
+  {
+   "id": "sc_ja01",
+   "title": "始発を待つ",
+   "title_source": "scripted",
+   "genre": "j-pop",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "bright and hopeful",
+   "persona": "",
+   "subject": "waiting for the first train of the morning",
+   "caption": "J-pop. Bright electric guitars with a fast strummed pattern, piano doubling the melody, a string section entering on the chorus, driving bass and a tight kit. A bright female voice sings high and clean with the precise syllable-to-note diction of Japanese pop, stacked harmonies on the hook and an anime-opening lift into the last chorus. Crisp modern mixing, wide stereo image. 138 BPM, D major. Energetic, hopeful, cinematic. no EDM drop.",
+   "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n終電を逃したのは わざとだよ\n言えないまま 改札の前\nきみの靴の先だけ 見ていた\n始発まで あと四時間\n\n[Pre-Chorus]\n寒いね って言えば\n近づける気がした\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\n何も終わらない場所\n\n[Verse 2]\n自販機のあたたかい缶を\n二本買って 一本渡す\nありがとう の言い方が\n少しだけ ちがった\n\n[Guitar Solo]\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\nもう 終わってた場所\n\n[Outro]\nもうすぐ 朝だ\nもうすぐ 朝だ",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 138,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "J-pop. Bright electric guitars with a fast strummed pattern, piano doubling the melody, a string section entering on the chorus, driving bass and a tight kit. A bright female voice sings high and clean with the precise syllable-to-note diction of Japanese pop, stacked harmonies on the hook and an anime-opening lift into the last chorus. Crisp modern mixing, wide stereo image. 138 BPM, D major. Energetic, hopeful, cinematic. no EDM drop.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n終電を逃したのは わざとだよ\n言えないまま 改札の前\nきみの靴の先だけ 見ていた\n始発まで あと四時間\n\n[Pre-Chorus]\n寒いね って言えば\n近づける気がした\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\n何も終わらない場所\n\n[Verse 2]\n自販機のあたたかい缶を\n二本買って 一本渡す\nありがとう の言い方が\n少しだけ ちがった\n\n[Guitar Solo]\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\nもう 終わってた場所\n\n[Outro]\nもうすぐ 朝だ\nもうすぐ 朝だ"
+   },
+   "seed": "3371615771",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 48.65s**\n- 48.65s per song\n- LM phase (1 song): 8.88s\n- DiT phase (1 song): 39.77s",
+   "task_id": "1b10e3c0-b316-48e9-b82b-9e892de61b5f",
+   "elapsed_s": 100.4,
+   "generated_at": "2026-09-24T07:53:06.065240+08:00",
+   "audio": "sc_ja01.mp3",
+   "lyrics_timed": [
+    {
+     "t": 4.24,
+     "end": 4.24,
+     "text": "[Intro - Guitars]"
+    },
+    {
+     "t": 4.24,
+     "end": 4.24,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 4.24,
+     "end": 26.34,
+     "text": "終電を逃したのは わざとだよ"
+    },
+    {
+     "t": 26.48,
+     "end": 29.9,
+     "text": "言えないまま 改札の前"
+    },
+    {
+     "t": 30.2,
+     "end": 33.96,
+     "text": "きみの靴の先だけ 見ていた"
+    },
+    {
+     "t": 34.9,
+     "end": 41.33,
+     "text": "始発まで あと四時間"
+    },
+    {
+     "t": 41.85,
+     "end": 41.85,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 41.85,
+     "end": 45.01,
+     "text": "寒いね って言えば"
+    },
+    {
+     "t": 45.97,
+     "end": 48.49,
+     "text": "近づける気がした"
+    },
+    {
+     "t": 49.03,
+     "end": 49.03,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 49.03,
+     "end": 51.79,
+     "text": "始発を待つ この時間が"
+    },
+    {
+     "t": 52.95,
+     "end": 61.99,
+     "text": "いちばん 好きだった"
+    },
+    {
+     "t": 62.05,
+     "end": 67.63,
+     "text": "何も始まらないまま"
+    },
+    {
+     "t": 67.67,
+     "end": 70.73,
+     "text": "何も終わらない場所"
+    },
+    {
+     "t": 70.73,
+     "end": 70.73,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 70.73,
+     "end": 92.11,
+     "text": "自販機のあたたかい缶を"
+    },
+    {
+     "t": 92.11,
+     "end": 97.63,
+     "text": "二本買って 一本渡す"
+    },
+    {
+     "t": 98.05,
+     "end": 105.67,
+     "text": "ありがとう の言い方が"
+    },
+    {
+     "t": 106.25,
+     "end": 110.59,
+     "text": "少しだけ ちがった"
+    },
+    {
+     "t": 110.59,
+     "end": 110.59,
+     "text": "[Guitar Solo]"
+    },
+    {
+     "t": 110.59,
+     "end": 110.59,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 110.59,
+     "end": 114.41,
+     "text": "始発を待つ この時間が"
+    },
+    {
+     "t": 115.39,
+     "end": 118.52,
+     "text": "いちばん 好きだった"
+    },
+    {
+     "t": 118.56,
+     "end": 121.38,
+     "text": "何も始まらないまま"
+    },
+    {
+     "t": 122.78,
+     "end": 124.84,
+     "text": "もう 終わってた場所"
+    },
+    {
+     "t": 128.18,
+     "end": 128.18,
+     "text": "[Outro]"
+    },
+    {
+     "t": 128.18,
+     "end": 132.08,
+     "text": "もうすぐ 朝だ"
+    },
+    {
+     "t": 134.98,
+     "end": 139.02,
+     "text": "もうすぐ 朝だ"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko01",
+   "title": "네 번째 정거장",
+   "title_source": "scripted",
+   "genre": "k-pop",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "restless and urgent",
+   "persona": "",
+   "subject": "the fourth stop on a bus route",
+   "caption": "K-pop. Highly polished production: synth bass, layered electric guitars, brass stabs on the pre-chorus, a hard-hitting kit with trap hats in the bridge. A powerful female lead belts the chorus with thick stacked harmonies behind her, and a second voice takes a rapped verse before the last chorus. Crisp modern mixing, wide stereo image, everything tight. 130 BPM, G minor. Driving, confident. no EDM drop.",
+   "lyrics": "[Intro]\n\n[Verse 1]\n버스 네 번째 정거장\n매일 지나치던 그 자리\n오늘은 그냥 내렸어\n이유는 나중에 만들자\n\n[Pre-Chorus]\n계획대로 산 적 없어\n계획을 세운 적도 없고\n\n[Chorus]\n여기서 내릴게\n어디로 가는지는 몰라도\n적어도 이 버스는\n내가 고른 게 아니었으니까\n\n[Rap Verse]\n남들 속도에 맞춰 뛰다 발목 나갔고\n쉬라는 말은 많았지만 방법은 안 알려줬고\n그래서 내가 정했어 오늘부터 여기가 시작\n늦었다는 말은 늦게 온 사람이 하는 거 아니야\n\n[Chorus]\n여기서 내릴게\n어디로 가는지는 몰라도\n적어도 이 버스는\n이제는 내가 고르니까\n\n[Outro]\n여기서 내릴게\n여기서 내릴게",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 130,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "K-pop. Highly polished production: synth bass, layered electric guitars, brass stabs on the pre-chorus, a hard-hitting kit with trap hats in the bridge. A powerful female lead belts the chorus with thick stacked harmonies behind her, and a second voice takes a rapped verse before the last chorus. Crisp modern mixing, wide stereo image, everything tight. 130 BPM, G minor. Driving, confident. no EDM drop.",
+    "lyrics": "[Intro]\n\n[Verse 1]\n버스 네 번째 정거장\n매일 지나치던 그 자리\n오늘은 그냥 내렸어\n이유는 나중에 만들자\n\n[Pre-Chorus]\n계획대로 산 적 없어\n계획을 세운 적도 없고\n\n[Chorus]\n여기서 내릴게\n어디로 가는지는 몰라도\n적어도 이 버스는\n내가 고른 게 아니었으니까\n\n[Rap Verse]\n남들 속도에 맞춰 뛰다 발목 나갔고\n쉬라는 말은 많았지만 방법은 안 알려줬고\n그래서 내가 정했어 오늘부터 여기가 시작\n늦었다는 말은 늦게 온 사람이 하는 거 아니야\n\n[Chorus]\n여기서 내릴게\n어디로 가는지는 몰라도\n적어도 이 버스는\n이제는 내가 고르니까\n\n[Outro]\n여기서 내릴게\n여기서 내릴게"
+   },
+   "seed": "3335971987",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 56.13s**\n- 56.13s per song\n- LM phase (1 song): 14.24s\n- DiT phase (1 song): 41.89s",
+   "task_id": "f8696489-6785-4dcb-bd51-522be203d58e",
+   "elapsed_s": 80.4,
+   "generated_at": "2026-09-24T07:54:26.647739+08:00",
+   "audio": "sc_ko01.mp3",
+   "lyrics_timed": [
+    {
+     "t": 22.66,
+     "end": 22.66,
+     "text": "[Intro]"
+    },
+    {
+     "t": 22.66,
+     "end": 22.66,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 22.66,
+     "end": 25.26,
+     "text": "버스 네 번째 정거장"
+    },
+    {
+     "t": 26.14,
+     "end": 28.78,
+     "text": "매일 지나치던 그 자리"
+    },
+    {
+     "t": 30.14,
+     "end": 32.46,
+     "text": "오늘은 그냥 내렸어"
+    },
+    {
+     "t": 33.58,
+     "end": 36.16,
+     "text": "이유는 나중에 만들자"
+    },
+    {
+     "t": 37.18,
+     "end": 37.18,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 37.18,
+     "end": 39.89,
+     "text": "계획대로 산 적 없어"
+    },
+    {
+     "t": 40.91,
+     "end": 43.57,
+     "text": "계획을 세운 적도 없고"
+    },
+    {
+     "t": 44.37,
+     "end": 44.37,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 44.37,
+     "end": 47.03,
+     "text": "여기서 내릴게"
+    },
+    {
+     "t": 48.59,
+     "end": 50.95,
+     "text": "어디로 가는지는 몰라도"
+    },
+    {
+     "t": 52.19,
+     "end": 54.67,
+     "text": "적어도 이 버스는"
+    },
+    {
+     "t": 55.91,
+     "end": 60.19,
+     "text": "내가 고른 게 아니었으니까"
+    },
+    {
+     "t": 78.77,
+     "end": 78.77,
+     "text": "[Rap Verse]"
+    },
+    {
+     "t": 78.77,
+     "end": 82.09,
+     "text": "남들 속도에 맞춰 뛰다 발목 나갔고"
+    },
+    {
+     "t": 82.23,
+     "end": 85.79,
+     "text": "쉬라는 말은 많았지만 방법은 안 알려줬고"
+    },
+    {
+     "t": 85.93,
+     "end": 89.63,
+     "text": "그래서 내가 정했어 오늘부터 여기가 시작"
+    },
+    {
+     "t": 89.85,
+     "end": 92.07,
+     "text": "늦었다는 말은 늦게 온 사람이 하는 거 아니야"
+    },
+    {
+     "t": 92.83,
+     "end": 92.83,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 92.83,
+     "end": 95.03,
+     "text": "여기서 내릴게"
+    },
+    {
+     "t": 97.01,
+     "end": 99.41,
+     "text": "어디로 가는지는 몰라도"
+    },
+    {
+     "t": 100.69,
+     "end": 122.5,
+     "text": "적어도 이 버스는"
+    },
+    {
+     "t": 122.58,
+     "end": 134.02,
+     "text": "이제는 내가 고르니까"
+    },
+    {
+     "t": 137.34,
+     "end": 137.34,
+     "text": "[Outro]"
+    },
+    {
+     "t": 137.34,
+     "end": 142.14,
+     "text": "여기서 내릴게"
+    },
+    {
+     "t": 148.26,
+     "end": 150.24,
+     "text": "여기서 내릴게"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  }
+ ],
+ "failed": []
+}

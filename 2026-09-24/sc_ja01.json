@@ -1,0 +1,174 @@
+{
+  "id": "sc_ja01",
+  "title": "始発を待つ",
+  "title_source": "scripted",
+  "genre": "j-pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bright and hopeful",
+  "persona": "",
+  "subject": "waiting for the first train of the morning",
+  "caption": "J-pop. Bright electric guitars with a fast strummed pattern, piano doubling the melody, a string section entering on the chorus, driving bass and a tight kit. A bright female voice sings high and clean with the precise syllable-to-note diction of Japanese pop, stacked harmonies on the hook and an anime-opening lift into the last chorus. Crisp modern mixing, wide stereo image. 138 BPM, D major. Energetic, hopeful, cinematic. no EDM drop.",
+  "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n終電を逃したのは わざとだよ\n言えないまま 改札の前\nきみの靴の先だけ 見ていた\n始発まで あと四時間\n\n[Pre-Chorus]\n寒いね って言えば\n近づける気がした\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\n何も終わらない場所\n\n[Verse 2]\n自販機のあたたかい缶を\n二本買って 一本渡す\nありがとう の言い方が\n少しだけ ちがった\n\n[Guitar Solo]\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\nもう 終わってた場所\n\n[Outro]\nもうすぐ 朝だ\nもうすぐ 朝だ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "J-pop. Bright electric guitars with a fast strummed pattern, piano doubling the melody, a string section entering on the chorus, driving bass and a tight kit. A bright female voice sings high and clean with the precise syllable-to-note diction of Japanese pop, stacked harmonies on the hook and an anime-opening lift into the last chorus. Crisp modern mixing, wide stereo image. 138 BPM, D major. Energetic, hopeful, cinematic. no EDM drop.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n終電を逃したのは わざとだよ\n言えないまま 改札の前\nきみの靴の先だけ 見ていた\n始発まで あと四時間\n\n[Pre-Chorus]\n寒いね って言えば\n近づける気がした\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\n何も終わらない場所\n\n[Verse 2]\n自販機のあたたかい缶を\n二本買って 一本渡す\nありがとう の言い方が\n少しだけ ちがった\n\n[Guitar Solo]\n\n[Chorus]\n始発を待つ この時間が\nいちばん 好きだった\n何も始まらないまま\nもう 終わってた場所\n\n[Outro]\nもうすぐ 朝だ\nもうすぐ 朝だ"
+  },
+  "seed": "3371615771",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 48.65s**\n- 48.65s per song\n- LM phase (1 song): 8.88s\n- DiT phase (1 song): 39.77s",
+  "task_id": "1b10e3c0-b316-48e9-b82b-9e892de61b5f",
+  "elapsed_s": 100.4,
+  "generated_at": "2026-09-24T07:53:06.065240+08:00",
+  "audio": "sc_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.24,
+      "end": 4.24,
+      "text": "[Intro - Guitars]"
+    },
+    {
+      "t": 4.24,
+      "end": 4.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.24,
+      "end": 26.34,
+      "text": "終電を逃したのは わざとだよ"
+    },
+    {
+      "t": 26.48,
+      "end": 29.9,
+      "text": "言えないまま 改札の前"
+    },
+    {
+      "t": 30.2,
+      "end": 33.96,
+      "text": "きみの靴の先だけ 見ていた"
+    },
+    {
+      "t": 34.9,
+      "end": 41.33,
+      "text": "始発まで あと四時間"
+    },
+    {
+      "t": 41.85,
+      "end": 41.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.85,
+      "end": 45.01,
+      "text": "寒いね って言えば"
+    },
+    {
+      "t": 45.97,
+      "end": 48.49,
+      "text": "近づける気がした"
+    },
+    {
+      "t": 49.03,
+      "end": 49.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.03,
+      "end": 51.79,
+      "text": "始発を待つ この時間が"
+    },
+    {
+      "t": 52.95,
+      "end": 61.99,
+      "text": "いちばん 好きだった"
+    },
+    {
+      "t": 62.05,
+      "end": 67.63,
+      "text": "何も始まらないまま"
+    },
+    {
+      "t": 67.67,
+      "end": 70.73,
+      "text": "何も終わらない場所"
+    },
+    {
+      "t": 70.73,
+      "end": 70.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.73,
+      "end": 92.11,
+      "text": "自販機のあたたかい缶を"
+    },
+    {
+      "t": 92.11,
+      "end": 97.63,
+      "text": "二本買って 一本渡す"
+    },
+    {
+      "t": 98.05,
+      "end": 105.67,
+      "text": "ありがとう の言い方が"
+    },
+    {
+      "t": 106.25,
+      "end": 110.59,
+      "text": "少しだけ ちがった"
+    },
+    {
+      "t": 110.59,
+      "end": 110.59,
+      "text": "[Guitar Solo]"
+    },
+    {
+      "t": 110.59,
+      "end": 110.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.59,
+      "end": 114.41,
+      "text": "始発を待つ この時間が"
+    },
+    {
+      "t": 115.39,
+      "end": 118.52,
+      "text": "いちばん 好きだった"
+    },
+    {
+      "t": 118.56,
+      "end": 121.38,
+      "text": "何も始まらないまま"
+    },
+    {
+      "t": 122.78,
+      "end": 124.84,
+      "text": "もう 終わってた場所"
+    },
+    {
+      "t": 128.18,
+      "end": 128.18,
+      "text": "[Outro]"
+    },
+    {
+      "t": 128.18,
+      "end": 132.08,
+      "text": "もうすぐ 朝だ"
+    },
+    {
+      "t": 134.98,
+      "end": 139.02,
+      "text": "もうすぐ 朝だ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}
