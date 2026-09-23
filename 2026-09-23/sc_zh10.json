@@ -1,0 +1,31 @@
+{
+  "id": "sc_zh10",
+  "title": "電波裡的你",
+  "title_source": "scripted",
+  "genre": "synthpop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "hazy and sunlit",
+  "persona": "",
+  "subject": "a radio station that went off air",
+  "caption": "Synthpop in Mandarin. Analog synth bass, a bright arpeggiator running through the verses, warm pad chords, a drum machine with a gated snare and no live drums. A young male tenor sings clean and polished, lifting into an airy falsetto on the hook, with a vocoder doubling the last line. Crisp modern mixing, wide stereo image, shimmering highs. 118 BPM, D major. Bright, slightly melancholy, retro-futurist.",
+  "lyrics": "[Intro - Arpeggiator]\n\n[Verse 1]\n那個頻率現在只剩雜訊\n我還是每天轉到那裡\n你說過的晚安在某個地方\n應該還在往外走\n\n[Pre-Chorus]\n光走了那麼遠都還在\n聲音應該也可以\n\n[Chorus]\n電波裡的你\n沒有變老也沒有離開\n只是走得比較遠\n遠到我這裡收不到\n\n[Verse 2]\n電台頂樓的天線鏽了\n他們說沒有人聽了\n可是我聽\n我一直都在聽\n\n[Synth Solo]\n\n[Chorus - falsetto]\n電波裡的你\n沒有變老也沒有離開\n只是走得比較遠\n遠到我這裡收不到\n\n[Outro - vocoder]\n晚安\n晚安",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Synthpop in Mandarin. Analog synth bass, a bright arpeggiator running through the verses, warm pad chords, a drum machine with a gated snare and no live drums. A young male tenor sings clean and polished, lifting into an airy falsetto on the hook, with a vocoder doubling the last line. Crisp modern mixing, wide stereo image, shimmering highs. 118 BPM, D major. Bright, slightly melancholy, retro-futurist.",
+    "lyrics": "[Intro - Arpeggiator]\n\n[Verse 1]\n那個頻率現在只剩雜訊\n我還是每天轉到那裡\n你說過的晚安在某個地方\n應該還在往外走\n\n[Pre-Chorus]\n光走了那麼遠都還在\n聲音應該也可以\n\n[Chorus]\n電波裡的你\n沒有變老也沒有離開\n只是走得比較遠\n遠到我這裡收不到\n\n[Verse 2]\n電台頂樓的天線鏽了\n他們說沒有人聽了\n可是我聽\n我一直都在聽\n\n[Synth Solo]\n\n[Chorus - falsetto]\n電波裡的你\n沒有變老也沒有離開\n只是走得比較遠\n遠到我這裡收不到\n\n[Outro - vocoder]\n晚安\n晚安"
+  },
+  "seed": "926412998",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 80.20s**\n- 80.20s per song\n- LM phase (1 song): 15.67s\n- DiT phase (1 song): 64.53s",
+  "task_id": "569d300a-0d73-46d7-8507-915acc39b0da",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-09-23T21:34:15.765813+08:00",
+  "audio": "sc_zh10.mp3"
+}
