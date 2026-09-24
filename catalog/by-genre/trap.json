@@ -1,7 +1,37 @@
 {
  "genre": "trap",
- "count": 1,
+ "count": 3,
  "tracks": [
+  {
+   "id": "sc_ja09",
+   "title": "終電まで",
+   "genre": "trap",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "restless and urgent",
+   "persona": "",
+   "subject": "a convenience store night shift",
+   "audio": "sc_ja09.mp3",
+   "generated_at": "2026-09-24T10:00:59.691787+08:00",
+   "day": "2026-09-24",
+   "bpm": 142,
+   "duration": 135.0
+  },
+  {
+   "id": "sc_ko06",
+   "title": "반지하",
+   "genre": "trap",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "restless and urgent",
+   "persona": "",
+   "subject": "a semi-basement flat",
+   "audio": "sc_ko06.mp3",
+   "generated_at": "2026-09-24T10:10:34.574524+08:00",
+   "day": "2026-09-24",
+   "bpm": 138,
+   "duration": 135.0
+  },
   {
    "id": "sc_zh06",
    "title": "夜班",

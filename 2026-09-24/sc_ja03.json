@@ -1,0 +1,174 @@
+{
+  "id": "sc_ja03",
+  "title": "北の宿",
+  "title_source": "scripted",
+  "genre": "enka",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "quiet and reflective",
+  "persona": "",
+  "subject": "an inn in the snow country",
+  "caption": "Enka. Shakuhachi flute opens alone, koto answers, a string section swells under the chorus, slow brushed drums and upright bass. A female lead sings with the deep vibrato and kobushi ornamental turns of enka — the voice bends and trembles into the top of each phrase — strongly projected and sorrowful. Warm analog saturation, plate reverb, spacious. 64 BPM, A minor. Melancholy, formal, weathered. no western pop, no synth.",
+  "lyrics": "[Intro - Shakuhachi]\n\n[Verse 1]\n雪が降る 北の宿\n障子の向こう 白い息\nあなたが座っていた場所に\n座布団だけ 置いてある\n\n[Pre-Chorus]\n女将さんは 何も聞かない\nそれが やさしさ\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\n遠くなる人\n\n[Verse 2]\n囲炉裏の火が 小さくなる\n継ぎ足す薪は まだある\n朝まで 燃やしておきます\nあなたが 来なくても\n\n[Koto Interlude]\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\nもう 待ってない人\n\n[Outro]\n雪が降る\n雪が降る",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 64,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "2",
+    "prompt": "Enka. Shakuhachi flute opens alone, koto answers, a string section swells under the chorus, slow brushed drums and upright bass. A female lead sings with the deep vibrato and kobushi ornamental turns of enka — the voice bends and trembles into the top of each phrase — strongly projected and sorrowful. Warm analog saturation, plate reverb, spacious. 64 BPM, A minor. Melancholy, formal, weathered. no western pop, no synth.",
+    "lyrics": "[Intro - Shakuhachi]\n\n[Verse 1]\n雪が降る 北の宿\n障子の向こう 白い息\nあなたが座っていた場所に\n座布団だけ 置いてある\n\n[Pre-Chorus]\n女将さんは 何も聞かない\nそれが やさしさ\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\n遠くなる人\n\n[Verse 2]\n囲炉裏の火が 小さくなる\n継ぎ足す薪は まだある\n朝まで 燃やしておきます\nあなたが 来なくても\n\n[Koto Interlude]\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\nもう 待ってない人\n\n[Outro]\n雪が降る\n雪が降る"
+  },
+  "seed": "1945829523",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.07s**\n- 64.07s per song\n- LM phase (1 song): 16.06s\n- DiT phase (1 song): 48.00s",
+  "task_id": "fe2e1b00-a842-43e6-9922-d9d27641f145",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-24T09:52:58.339076+08:00",
+  "audio": "sc_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 8.86,
+      "end": 8.86,
+      "text": "[Intro - Shakuhachi]"
+    },
+    {
+      "t": 8.86,
+      "end": 8.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.86,
+      "end": 22.14,
+      "text": "雪が降る 北の宿"
+    },
+    {
+      "t": 22.52,
+      "end": 27.36,
+      "text": "障子の向こう 白い息"
+    },
+    {
+      "t": 27.6,
+      "end": 31.18,
+      "text": "あなたが座っていた場所に"
+    },
+    {
+      "t": 31.28,
+      "end": 34.68,
+      "text": "座布団だけ 置いてある"
+    },
+    {
+      "t": 34.98,
+      "end": 34.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.98,
+      "end": 39.28,
+      "text": "女将さんは 何も聞かない"
+    },
+    {
+      "t": 39.34,
+      "end": 41.04,
+      "text": "それが やさしさ"
+    },
+    {
+      "t": 41.04,
+      "end": 41.04,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 41.04,
+      "end": 44.95,
+      "text": "待つのが 女の仕事なら"
+    },
+    {
+      "t": 45.13,
+      "end": 49.79,
+      "text": "私は 上手になりました"
+    },
+    {
+      "t": 50.13,
+      "end": 52.17,
+      "text": "上手になるほど"
+    },
+    {
+      "t": 52.37,
+      "end": 54.71,
+      "text": "遠くなる人"
+    },
+    {
+      "t": 54.71,
+      "end": 54.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 54.71,
+      "end": 64.27,
+      "text": "囲炉裏の火が 小さくなる"
+    },
+    {
+      "t": 64.43,
+      "end": 76.91,
+      "text": "継ぎ足す薪は まだある"
+    },
+    {
+      "t": 76.93,
+      "end": 88.73,
+      "text": "朝まで 燃やしておきます"
+    },
+    {
+      "t": 91.67,
+      "end": 98.01,
+      "text": "あなたが 来なくても"
+    },
+    {
+      "t": 101.75,
+      "end": 101.75,
+      "text": "[Koto Interlude]"
+    },
+    {
+      "t": 101.75,
+      "end": 101.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.75,
+      "end": 108.87,
+      "text": "待つのが 女の仕事なら"
+    },
+    {
+      "t": 109.03,
+      "end": 113.07,
+      "text": "私は 上手になりました"
+    },
+    {
+      "t": 114.75,
+      "end": 117.87,
+      "text": "上手になるほど"
+    },
+    {
+      "t": 120.87,
+      "end": 127.73,
+      "text": "もう 待ってない人"
+    },
+    {
+      "t": 127.79,
+      "end": 127.79,
+      "text": "[Outro]"
+    },
+    {
+      "t": 127.79,
+      "end": 130.81,
+      "text": "雪が降る"
+    },
+    {
+      "t": 140.68,
+      "end": 150.12,
+      "text": "雪が降る"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

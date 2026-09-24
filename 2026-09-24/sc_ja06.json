@@ -1,0 +1,179 @@
+{
+  "id": "sc_ja06",
+  "title": "最終便",
+  "title_source": "scripted",
+  "genre": "jazz fusion",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "warm and intimate",
+  "persona": "",
+  "subject": "the last flight of the night",
+  "caption": "Japanese jazz fusion with a big band. Full brass section with tight stabs and a shout chorus, Rhodes comping extended chords, upright bass walking, drums riding brushes then sticks. A soulful male baritone sings the head, scats through the solo section and runs melismas out of it. Warm analog saturation, plate reverb, the room audible behind the horns. 118 BPM, B-flat major. Warm, loose, late. no pop, no electronic drums.",
+  "lyrics": "[Intro - Brass]\n\n[Verse 1]\n最終便の待合室は\n静かすぎて 音楽が要る\n売店はもう 閉まってる\n自販機だけが 光ってる\n\n[Pre-Chorus]\n遅れても 誰も怒らない時間\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに したいから\n\n[Scat Solo]\nドゥバディ バドゥダッ\nシャバドゥワ\n\n[Verse 2]\n隣の席の人が 眠ってる\n知らない人の 寝顔を見る\n同じ場所へ 行く人\nそれだけで 少し安心する\n\n[Brass Solo]\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに するから\n\n[Outro - Scat]\nバドゥダッ ドゥバディ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 165.0,
+    "genres": "N/A",
+    "keyscale": "B flat major",
+    "timesignature": "4",
+    "prompt": "Japanese jazz fusion with a big band. Full brass section with tight stabs and a shout chorus, Rhodes comping extended chords, upright bass walking, drums riding brushes then sticks. A soulful male baritone sings the head, scats through the solo section and runs melismas out of it. Warm analog saturation, plate reverb, the room audible behind the horns. 118 BPM, B-flat major. Warm, loose, late. no pop, no electronic drums.",
+    "lyrics": "[Intro - Brass]\n\n[Verse 1]\n最終便の待合室は\n静かすぎて 音楽が要る\n売店はもう 閉まってる\n自販機だけが 光ってる\n\n[Pre-Chorus]\n遅れても 誰も怒らない時間\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに したいから\n\n[Scat Solo]\nドゥバディ バドゥダッ\nシャバドゥワ\n\n[Verse 2]\n隣の席の人が 眠ってる\n知らない人の 寝顔を見る\n同じ場所へ 行く人\nそれだけで 少し安心する\n\n[Brass Solo]\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに するから\n\n[Outro - Scat]\nバドゥダッ ドゥバディ"
+  },
+  "seed": "3812758746",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.41s**\n- 58.41s per song\n- LM phase (1 song): 12.09s\n- DiT phase (1 song): 46.32s",
+  "task_id": "998f2c0f-41b4-4560-a26f-6bef7dcb96bb",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-24T09:56:59.033413+08:00",
+  "audio": "sc_ja06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.78,
+      "end": 19.78,
+      "text": "[Intro - Brass]"
+    },
+    {
+      "t": 19.78,
+      "end": 19.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.78,
+      "end": 22.74,
+      "text": "最終便の待合室は"
+    },
+    {
+      "t": 23.14,
+      "end": 26.38,
+      "text": "静かすぎて 音楽が要る"
+    },
+    {
+      "t": 28.3,
+      "end": 30.9,
+      "text": "売店はもう 閉まってる"
+    },
+    {
+      "t": 31.3,
+      "end": 34.68,
+      "text": "自販機だけが 光ってる"
+    },
+    {
+      "t": 36.4,
+      "end": 36.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.4,
+      "end": 42.67,
+      "text": "遅れても 誰も怒らない時間"
+    },
+    {
+      "t": 42.93,
+      "end": 42.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.93,
+      "end": 47.17,
+      "text": "最終便 最終便"
+    },
+    {
+      "t": 47.21,
+      "end": 52.07,
+      "text": "乗ってしまえば もう戻れない"
+    },
+    {
+      "t": 52.57,
+      "end": 53.75,
+      "text": "それが いいんだ"
+    },
+    {
+      "t": 54.17,
+      "end": 57.51,
+      "text": "選んだことに したいから"
+    },
+    {
+      "t": 60.45,
+      "end": 60.45,
+      "text": "[Scat Solo]"
+    },
+    {
+      "t": 60.45,
+      "end": 62.65,
+      "text": "ドゥバディ バドゥダッ"
+    },
+    {
+      "t": 64.29,
+      "end": 69.19,
+      "text": "シャバドゥワ"
+    },
+    {
+      "t": 69.41,
+      "end": 69.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.41,
+      "end": 73.35,
+      "text": "隣の席の人が 眠ってる"
+    },
+    {
+      "t": 76.67,
+      "end": 83.47,
+      "text": "知らない人の 寝顔を見る"
+    },
+    {
+      "t": 85.15,
+      "end": 88.33,
+      "text": "同じ場所へ 行く人"
+    },
+    {
+      "t": 88.67,
+      "end": 97.45,
+      "text": "それだけで 少し安心する"
+    },
+    {
+      "t": 97.49,
+      "end": 97.49,
+      "text": "[Brass Solo]"
+    },
+    {
+      "t": 97.49,
+      "end": 97.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.49,
+      "end": 100.37,
+      "text": "最終便 最終便"
+    },
+    {
+      "t": 100.89,
+      "end": 106.27,
+      "text": "乗ってしまえば もう戻れない"
+    },
+    {
+      "t": 106.99,
+      "end": 108.33,
+      "text": "それが いいんだ"
+    },
+    {
+      "t": 108.55,
+      "end": 111.93,
+      "text": "選んだことに するから"
+    },
+    {
+      "t": 112.11,
+      "end": 112.11,
+      "text": "[Outro - Scat]"
+    },
+    {
+      "t": 112.11,
+      "end": 162.3,
+      "text": "バドゥダッ ドゥバディ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

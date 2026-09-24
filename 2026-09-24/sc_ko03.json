@@ -1,0 +1,174 @@
+{
+  "id": "sc_ko03",
+  "title": "막걸리 한 잔",
+  "title_source": "scripted",
+  "genre": "trot",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "defiant and loud",
+  "persona": "",
+  "subject": "drinking with old friends",
+  "caption": "Korean trot. Electric organ carrying the melody, a saxophone answering every line, a shuffling drum machine with the characteristic bouncing bass, tambourine. A male lead sings with the wide vibrato and bent-note ornamentation of trot, projecting hard, playful and a little theatrical. Retro nightclub keyboard sheen, warm analog saturation. 120 BPM, D minor. Bouncy, boisterous, sentimental underneath. no western pop, no EDM.",
+  "lyrics": "[Intro - Organ & Sax]\n\n[Verse 1]\n막걸리 한 잔에 사십 년이\n주르륵 쏟아져 나온다\n너는 그때 축구를 잘했고\n나는 그때 공부를 못했지\n\n[Pre-Chorus]\n지금은 둘 다\n똑같이 무릎이 아프다\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기까지 온 게 대단한 거지\n\n[Verse 2]\n사장님이 문 닫는다고 하네\n우리가 마지막 손님이래\n삼십 년 단골한테\n그런 말을 하면 어떡해\n\n[Sax Solo]\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기 같이 있는 게 대단한 거지\n\n[Outro]\n한 잔 더\n한 잔 더",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Korean trot. Electric organ carrying the melody, a saxophone answering every line, a shuffling drum machine with the characteristic bouncing bass, tambourine. A male lead sings with the wide vibrato and bent-note ornamentation of trot, projecting hard, playful and a little theatrical. Retro nightclub keyboard sheen, warm analog saturation. 120 BPM, D minor. Bouncy, boisterous, sentimental underneath. no western pop, no EDM.",
+    "lyrics": "[Intro - Organ & Sax]\n\n[Verse 1]\n막걸리 한 잔에 사십 년이\n주르륵 쏟아져 나온다\n너는 그때 축구를 잘했고\n나는 그때 공부를 못했지\n\n[Pre-Chorus]\n지금은 둘 다\n똑같이 무릎이 아프다\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기까지 온 게 대단한 거지\n\n[Verse 2]\n사장님이 문 닫는다고 하네\n우리가 마지막 손님이래\n삼십 년 단골한테\n그런 말을 하면 어떡해\n\n[Sax Solo]\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기 같이 있는 게 대단한 거지\n\n[Outro]\n한 잔 더\n한 잔 더"
+  },
+  "seed": "3590900894",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.26s**\n- 71.26s per song\n- LM phase (1 song): 12.28s\n- DiT phase (1 song): 58.98s",
+  "task_id": "70006366-da98-4019-b07a-aabc1179ae4e",
+  "elapsed_s": 90.4,
+  "generated_at": "2026-09-24T10:05:50.497697+08:00",
+  "audio": "sc_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.48,
+      "end": 28.48,
+      "text": "[Intro - Organ & Sax]"
+    },
+    {
+      "t": 28.48,
+      "end": 28.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.48,
+      "end": 31.44,
+      "text": "막걸리 한 잔에 사십 년이"
+    },
+    {
+      "t": 36.56,
+      "end": 38.99,
+      "text": "주르륵 쏟아져 나온다"
+    },
+    {
+      "t": 39.01,
+      "end": 40.13,
+      "text": "너는 그때 축구를 잘했고"
+    },
+    {
+      "t": 40.13,
+      "end": 44.31,
+      "text": "나는 그때 공부를 못했지"
+    },
+    {
+      "t": 44.45,
+      "end": 44.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.45,
+      "end": 46.05,
+      "text": "지금은 둘 다"
+    },
+    {
+      "t": 48.11,
+      "end": 50.85,
+      "text": "똑같이 무릎이 아프다"
+    },
+    {
+      "t": 50.95,
+      "end": 50.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.95,
+      "end": 51.37,
+      "text": "한 잔 더 한 잔 더"
+    },
+    {
+      "t": 51.39,
+      "end": 54.63,
+      "text": "내일 일은 내일 걱정하고"
+    },
+    {
+      "t": 58.37,
+      "end": 61.89,
+      "text": "우리가 뭐 대단한 거 했나"
+    },
+    {
+      "t": 62.59,
+      "end": 66.25,
+      "text": "여기까지 온 게 대단한 거지"
+    },
+    {
+      "t": 70.35,
+      "end": 70.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.35,
+      "end": 74.07,
+      "text": "사장님이 문 닫는다고 하네"
+    },
+    {
+      "t": 74.81,
+      "end": 77.57,
+      "text": "우리가 마지막 손님이래"
+    },
+    {
+      "t": 77.83,
+      "end": 92.91,
+      "text": "삼십 년 단골한테"
+    },
+    {
+      "t": 93.09,
+      "end": 107.41,
+      "text": "그런 말을 하면 어떡해"
+    },
+    {
+      "t": 107.41,
+      "end": 107.41,
+      "text": "[Sax Solo]"
+    },
+    {
+      "t": 107.41,
+      "end": 107.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.41,
+      "end": 110.05,
+      "text": "한 잔 더 한 잔 더"
+    },
+    {
+      "t": 110.15,
+      "end": 111.29,
+      "text": "내일 일은 내일 걱정하고"
+    },
+    {
+      "t": 111.41,
+      "end": 114.59,
+      "text": "우리가 뭐 대단한 거 했나"
+    },
+    {
+      "t": 115.49,
+      "end": 120.2,
+      "text": "여기 같이 있는 게 대단한 거지"
+    },
+    {
+      "t": 124.88,
+      "end": 124.88,
+      "text": "[Outro]"
+    },
+    {
+      "t": 124.88,
+      "end": 128.98,
+      "text": "한 잔 더"
+    },
+    {
+      "t": 132.12,
+      "end": 136.3,
+      "text": "한 잔 더"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "sc_ja07",
+  "title": "アーケード",
+  "title_source": "scripted",
+  "genre": "synthpop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bright and hopeful",
+  "persona": "",
+  "subject": "a covered shopping arcade",
+  "caption": "Shibuya-kei leaning synthpop. Analog synth bass, a bright arpeggiator running through the verses, glossy pad chords, a drum machine with a gated snare, hand claps, no live drums. A bright female voice sings clean and polished with a vocoder doubling the hook and a short spoken aside in the bridge. Crisp modern mixing, wide stereo image, shimmering. 124 BPM, A major. Cheerful, retro-futurist, slightly wistful.",
+  "lyrics": "[Intro - Arpeggiator]\n\n[Verse 1]\nアーケードの屋根に 雨の音\n中は いつでも晴れ\n閉めたお店が 三軒増えた\n看板だけ 残ってる\n\n[Pre-Chorus]\n子どものころは ここが\n世界の全部だった\n\n[Chorus]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから ゆっくり歩く\n\n[Verse 2]\nくじ引きの機械は まだある\n一回 二百円\n当たったことは 一度もない\nそれでも 毎回やる\n\n[Bridge - spoken]\nまた来るね\nって 誰に言ってるんだろう\n\n[Chorus - vocoder]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから 立ち止まる\n\n[Outro]\nゆっくり\nゆっくり",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Shibuya-kei leaning synthpop. Analog synth bass, a bright arpeggiator running through the verses, glossy pad chords, a drum machine with a gated snare, hand claps, no live drums. A bright female voice sings clean and polished with a vocoder doubling the hook and a short spoken aside in the bridge. Crisp modern mixing, wide stereo image, shimmering. 124 BPM, A major. Cheerful, retro-futurist, slightly wistful.",
+    "lyrics": "[Intro - Arpeggiator]\n\n[Verse 1]\nアーケードの屋根に 雨の音\n中は いつでも晴れ\n閉めたお店が 三軒増えた\n看板だけ 残ってる\n\n[Pre-Chorus]\n子どものころは ここが\n世界の全部だった\n\n[Chorus]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから ゆっくり歩く\n\n[Verse 2]\nくじ引きの機械は まだある\n一回 二百円\n当たったことは 一度もない\nそれでも 毎回やる\n\n[Bridge - spoken]\nまた来るね\nって 誰に言ってるんだろう\n\n[Chorus - vocoder]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから 立ち止まる\n\n[Outro]\nゆっくり\nゆっくり"
+  },
+  "seed": "2883780512",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.81s**\n- 55.81s per song\n- LM phase (1 song): 12.00s\n- DiT phase (1 song): 43.81s",
+  "task_id": "eeedfad4-081c-447b-b1dc-0ddc88e92d1b",
+  "elapsed_s": 70.4,
+  "generated_at": "2026-09-24T09:58:09.438635+08:00",
+  "audio": "sc_ja07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 8.5,
+      "end": 8.5,
+      "text": "[Intro - Arpeggiator]"
+    },
+    {
+      "t": 8.5,
+      "end": 8.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.5,
+      "end": 21.64,
+      "text": "アーケードの屋根に 雨の音"
+    },
+    {
+      "t": 21.96,
+      "end": 26.52,
+      "text": "中は いつでも晴れ"
+    },
+    {
+      "t": 27.24,
+      "end": 28.66,
+      "text": "閉めたお店が 三軒増えた"
+    },
+    {
+      "t": 28.7,
+      "end": 29.9,
+      "text": "看板だけ 残ってる"
+    },
+    {
+      "t": 31.6,
+      "end": 31.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 31.6,
+      "end": 35.66,
+      "text": "子どものころは ここが"
+    },
+    {
+      "t": 39.41,
+      "end": 42.99,
+      "text": "世界の全部だった"
+    },
+    {
+      "t": 43.19,
+      "end": 43.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 43.19,
+      "end": 44.85,
+      "text": "アーケード アーケード"
+    },
+    {
+      "t": 44.85,
+      "end": 47.01,
+      "text": "雨に濡れない道"
+    },
+    {
+      "t": 47.01,
+      "end": 52.25,
+      "text": "まっすぐ歩けば 終わってしまう"
+    },
+    {
+      "t": 55.81,
+      "end": 59.81,
+      "text": "だから ゆっくり歩く"
+    },
+    {
+      "t": 63.33,
+      "end": 63.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.33,
+      "end": 66.63,
+      "text": "くじ引きの機械は まだある"
+    },
+    {
+      "t": 67.47,
+      "end": 68.59,
+      "text": "一回 二百円"
+    },
+    {
+      "t": 68.63,
+      "end": 74.65,
+      "text": "当たったことは 一度もない"
+    },
+    {
+      "t": 74.99,
+      "end": 78.07,
+      "text": "それでも 毎回やる"
+    },
+    {
+      "t": 80.29,
+      "end": 80.29,
+      "text": "[Bridge - spoken]"
+    },
+    {
+      "t": 80.29,
+      "end": 80.99,
+      "text": "また来るね"
+    },
+    {
+      "t": 84.71,
+      "end": 86.39,
+      "text": "って 誰に言ってるんだろう"
+    },
+    {
+      "t": 86.83,
+      "end": 86.83,
+      "text": "[Chorus - vocoder]"
+    },
+    {
+      "t": 86.83,
+      "end": 88.59,
+      "text": "アーケード アーケード"
+    },
+    {
+      "t": 89.69,
+      "end": 92.49,
+      "text": "雨に濡れない道"
+    },
+    {
+      "t": 93.83,
+      "end": 98.59,
+      "text": "まっすぐ歩けば 終わってしまう"
+    },
+    {
+      "t": 102.33,
+      "end": 105.87,
+      "text": "だから 立ち止まる"
+    },
+    {
+      "t": 109.69,
+      "end": 109.69,
+      "text": "[Outro]"
+    },
+    {
+      "t": 109.69,
+      "end": 110.23,
+      "text": "ゆっくり"
+    },
+    {
+      "t": 117.44,
+      "end": 140.92,
+      "text": "ゆっくり"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "sc_ja04",
+  "title": "工場の煙突",
+  "title_source": "scripted",
+  "genre": "indie rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "restless and urgent",
+  "persona": "",
+  "subject": "a factory town",
+  "caption": "Japanese indie rock, recorded live in one room. Two electric guitars — one clean and angular, one overdriven — driving eighth-note bass, dry drums with audible room bleed. A raspy male voice half-speaks the verses close to the mic and shouts the chorus without tuning. Raw live-room bleed, bone-dry drums, tape saturation on the bus. 146 BPM, E minor. Fast, frustrated, alive. no pop, no synth.",
+  "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n煙突の煙が まっすぐ上がる日は\n風がない いい天気らしい\n父はそう言って 毎朝出ていった\n三十八年 同じ時間に\n\n[Pre-Chorus]\n煙突は去年 止まった\n風は まだ吹いてる\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n出る理由を 探してるだけ\n\n[Verse 2]\n同級生の半分は もういない\n残った半分で 飲む\n誰も 東京の話をしない\nそういうルールになってる\n\n[Guitar Solo]\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n探すのを やめただけ\n\n[Outro]\nまだ ここにいる\nまだ ここにいる",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 146,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Japanese indie rock, recorded live in one room. Two electric guitars — one clean and angular, one overdriven — driving eighth-note bass, dry drums with audible room bleed. A raspy male voice half-speaks the verses close to the mic and shouts the chorus without tuning. Raw live-room bleed, bone-dry drums, tape saturation on the bus. 146 BPM, E minor. Fast, frustrated, alive. no pop, no synth.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n煙突の煙が まっすぐ上がる日は\n風がない いい天気らしい\n父はそう言って 毎朝出ていった\n三十八年 同じ時間に\n\n[Pre-Chorus]\n煙突は去年 止まった\n風は まだ吹いてる\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n出る理由を 探してるだけ\n\n[Verse 2]\n同級生の半分は もういない\n残った半分で 飲む\n誰も 東京の話をしない\nそういうルールになってる\n\n[Guitar Solo]\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n探すのを やめただけ\n\n[Outro]\nまだ ここにいる\nまだ ここにいる"
+  },
+  "seed": "2147142402",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.92s**\n- 58.92s per song\n- LM phase (1 song): 11.10s\n- DiT phase (1 song): 47.82s",
+  "task_id": "3916a6b5-1a28-441f-81cc-d45c4406e0a6",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-24T09:54:18.469354+08:00",
+  "audio": "sc_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 13.56,
+      "end": 13.56,
+      "text": "[Intro - Guitars]"
+    },
+    {
+      "t": 13.56,
+      "end": 13.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 13.56,
+      "end": 18.76,
+      "text": "煙突の煙が まっすぐ上がる日は"
+    },
+    {
+      "t": 20.0,
+      "end": 26.8,
+      "text": "風がない いい天気らしい"
+    },
+    {
+      "t": 26.88,
+      "end": 33.54,
+      "text": "父はそう言って 毎朝出ていった"
+    },
+    {
+      "t": 33.84,
+      "end": 39.03,
+      "text": "三十八年 同じ時間に"
+    },
+    {
+      "t": 40.13,
+      "end": 40.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.13,
+      "end": 43.09,
+      "text": "煙突は去年 止まった"
+    },
+    {
+      "t": 43.55,
+      "end": 45.71,
+      "text": "風は まだ吹いてる"
+    },
+    {
+      "t": 46.99,
+      "end": 46.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.99,
+      "end": 56.53,
+      "text": "ここを出るって 言い続けて"
+    },
+    {
+      "t": 56.53,
+      "end": 59.05,
+      "text": "結局 まだここにいる"
+    },
+    {
+      "t": 59.17,
+      "end": 59.97,
+      "text": "出られないんじゃない"
+    },
+    {
+      "t": 59.97,
+      "end": 62.19,
+      "text": "出る理由を 探してるだけ"
+    },
+    {
+      "t": 64.23,
+      "end": 64.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.23,
+      "end": 68.19,
+      "text": "同級生の半分は もういない"
+    },
+    {
+      "t": 68.49,
+      "end": 71.67,
+      "text": "残った半分で 飲む"
+    },
+    {
+      "t": 71.89,
+      "end": 75.81,
+      "text": "誰も 東京の話をしない"
+    },
+    {
+      "t": 77.15,
+      "end": 81.77,
+      "text": "そういうルールになってる"
+    },
+    {
+      "t": 98.87,
+      "end": 98.87,
+      "text": "[Guitar Solo]"
+    },
+    {
+      "t": 98.87,
+      "end": 98.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.87,
+      "end": 102.25,
+      "text": "ここを出るって 言い続けて"
+    },
+    {
+      "t": 102.71,
+      "end": 105.49,
+      "text": "結局 まだここにいる"
+    },
+    {
+      "t": 106.99,
+      "end": 109.57,
+      "text": "出られないんじゃない"
+    },
+    {
+      "t": 111.61,
+      "end": 115.44,
+      "text": "探すのを やめただけ"
+    },
+    {
+      "t": 118.54,
+      "end": 118.54,
+      "text": "[Outro]"
+    },
+    {
+      "t": 118.54,
+      "end": 122.14,
+      "text": "まだ ここにいる"
+    },
+    {
+      "t": 125.02,
+      "end": 135.16,
+      "text": "まだ ここにいる"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

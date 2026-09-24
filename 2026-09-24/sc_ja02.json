@@ -1,0 +1,174 @@
+{
+  "id": "sc_ja02",
+  "title": "海岸通り",
+  "title_source": "scripted",
+  "genre": "city pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "wistful and nocturnal",
+  "persona": "",
+  "subject": "a coastal road at night",
+  "caption": "80s Japanese city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano with jazzy voicings, slap bass, warm analog synth pads and a synth-brass stab on the chorus, gated reverb on the snare. A husky female lead sings smoky and relaxed, sitting behind the beat, with light stacked harmonies. Warm analog saturation, wide stereo image. 106 BPM, F major. Nostalgic, urban, night-drive. no modern EDM, no trap hats.",
+  "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n海岸通りを 窓開けて走る\n潮の匂いが 髪にからむ\nラジオはずっと 同じ曲\n誰も 変えようとしない\n\n[Pre-Chorus]\nこのまま どこにも\n着かなければいい\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言わずに済む速度で\n\n[Verse 2]\nガソリンのランプが ついた\nきみは気づいて 黙ってる\nあと少し あと少しって\nふたりとも 思ってる\n\n[Synth Solo]\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言えなくなる速度で\n\n[Outro]\nもう少しだけ\nもう少しだけ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 106,
+    "duration": 165.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "80s Japanese city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano with jazzy voicings, slap bass, warm analog synth pads and a synth-brass stab on the chorus, gated reverb on the snare. A husky female lead sings smoky and relaxed, sitting behind the beat, with light stacked harmonies. Warm analog saturation, wide stereo image. 106 BPM, F major. Nostalgic, urban, night-drive. no modern EDM, no trap hats.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n海岸通りを 窓開けて走る\n潮の匂いが 髪にからむ\nラジオはずっと 同じ曲\n誰も 変えようとしない\n\n[Pre-Chorus]\nこのまま どこにも\n着かなければいい\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言わずに済む速度で\n\n[Verse 2]\nガソリンのランプが ついた\nきみは気づいて 黙ってる\nあと少し あと少しって\nふたりとも 思ってる\n\n[Synth Solo]\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言えなくなる速度で\n\n[Outro]\nもう少しだけ\nもう少しだけ"
+  },
+  "seed": "626909936",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.36s**\n- 56.36s per song\n- LM phase (1 song): 8.78s\n- DiT phase (1 song): 47.59s",
+  "task_id": "35275351-e30b-4b5c-b255-d358e5a2be8c",
+  "elapsed_s": 101.2,
+  "generated_at": "2026-09-24T09:51:38.268482+08:00",
+  "audio": "sc_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.06,
+      "end": 10.06,
+      "text": "[Intro - Rhodes]"
+    },
+    {
+      "t": 10.06,
+      "end": 10.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.06,
+      "end": 15.18,
+      "text": "海岸通りを 窓開けて走る"
+    },
+    {
+      "t": 18.94,
+      "end": 24.06,
+      "text": "潮の匂いが 髪にからむ"
+    },
+    {
+      "t": 27.84,
+      "end": 31.58,
+      "text": "ラジオはずっと 同じ曲"
+    },
+    {
+      "t": 31.74,
+      "end": 36.84,
+      "text": "誰も 変えようとしない"
+    },
+    {
+      "t": 37.02,
+      "end": 37.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.02,
+      "end": 40.62,
+      "text": "このまま どこにも"
+    },
+    {
+      "t": 41.45,
+      "end": 45.95,
+      "text": "着かなければいい"
+    },
+    {
+      "t": 46.03,
+      "end": 46.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.03,
+      "end": 49.49,
+      "text": "夜の海は 何も映さない"
+    },
+    {
+      "t": 50.45,
+      "end": 54.67,
+      "text": "だから 安心して隣にいる"
+    },
+    {
+      "t": 54.97,
+      "end": 59.07,
+      "text": "言わなくていいことを"
+    },
+    {
+      "t": 59.45,
+      "end": 64.61,
+      "text": "言わずに済む速度で"
+    },
+    {
+      "t": 68.11,
+      "end": 68.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.11,
+      "end": 72.01,
+      "text": "ガソリンのランプが ついた"
+    },
+    {
+      "t": 72.89,
+      "end": 77.33,
+      "text": "きみは気づいて 黙ってる"
+    },
+    {
+      "t": 77.47,
+      "end": 80.89,
+      "text": "あと少し あと少しって"
+    },
+    {
+      "t": 81.31,
+      "end": 83.21,
+      "text": "ふたりとも 思ってる"
+    },
+    {
+      "t": 83.89,
+      "end": 83.89,
+      "text": "[Synth Solo]"
+    },
+    {
+      "t": 83.89,
+      "end": 83.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 83.89,
+      "end": 96.17,
+      "text": "夜の海は 何も映さない"
+    },
+    {
+      "t": 99.19,
+      "end": 122.23,
+      "text": "だから 安心して隣にいる"
+    },
+    {
+      "t": 126.92,
+      "end": 139.0,
+      "text": "言わなくていいことを"
+    },
+    {
+      "t": 140.5,
+      "end": 145.5,
+      "text": "言えなくなる速度で"
+    },
+    {
+      "t": 146.34,
+      "end": 146.34,
+      "text": "[Outro]"
+    },
+    {
+      "t": 146.34,
+      "end": 148.18,
+      "text": "もう少しだけ"
+    },
+    {
+      "t": 148.32,
+      "end": 159.9,
+      "text": "もう少しだけ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,7 +1,37 @@
 {
  "genre": "folk",
- "count": 1,
+ "count": 3,
  "tracks": [
+  {
+   "id": "sc_ja08",
+   "title": "祖母の手",
+   "genre": "folk",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "quiet and reflective",
+   "persona": "",
+   "subject": "a grandmother's hands",
+   "audio": "sc_ja08.mp3",
+   "generated_at": "2026-09-24T09:59:19.573665+08:00",
+   "day": "2026-09-24",
+   "bpm": 72,
+   "duration": 160.0
+  },
+  {
+   "id": "sc_ko09",
+   "title": "우산 두 개",
+   "genre": "folk",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "quiet and reflective",
+   "persona": "",
+   "subject": "two umbrellas by the door",
+   "audio": "sc_ko09.mp3",
+   "generated_at": "2026-09-24T10:14:56.447949+08:00",
+   "day": "2026-09-24",
+   "bpm": 76,
+   "duration": 155.0
+  },
   {
    "id": "sc_en08",
    "title": "The Weight Of Small Hours",

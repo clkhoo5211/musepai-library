@@ -1,0 +1,174 @@
+{
+  "id": "sc_ko07",
+  "title": "한강의 밤",
+  "title_source": "scripted",
+  "genre": "city pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wistful and nocturnal",
+  "persona": "",
+  "subject": "the river at night",
+  "caption": "Korean city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano, slap bass, warm analog synth pads and a synth-brass hit on the chorus, gated snare. A smooth male tenor sings laid-back behind the beat and lifts into falsetto on the hook, with light stacked harmonies. Warm analog saturation, wide stereo image. 102 BPM, E-flat major. Nostalgic, breezy, night-lit. no modern EDM, no trap hats.",
+  "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n한강에 앉으면\n서울이 조용해져\n뒤에서는 차가 달리는데\n앞에서는 물만 흘러\n\n[Pre-Chorus]\n여기만 시간이\n다르게 가는 것 같아\n\n[Chorus]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자인 채로 같이 있어\n\n[Verse 2]\n치킨 상자를 들고\n한 무리가 지나가\n웃음소리가 물 위로\n오래 남아\n\n[Synth Solo]\n\n[Chorus - falsetto]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자가 아닌 척 앉아 있어\n\n[Outro]\n조금만 더\n조금만 더",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 102,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "E flat major",
+    "timesignature": "4",
+    "prompt": "Korean city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano, slap bass, warm analog synth pads and a synth-brass hit on the chorus, gated snare. A smooth male tenor sings laid-back behind the beat and lifts into falsetto on the hook, with light stacked harmonies. Warm analog saturation, wide stereo image. 102 BPM, E-flat major. Nostalgic, breezy, night-lit. no modern EDM, no trap hats.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n한강에 앉으면\n서울이 조용해져\n뒤에서는 차가 달리는데\n앞에서는 물만 흘러\n\n[Pre-Chorus]\n여기만 시간이\n다르게 가는 것 같아\n\n[Chorus]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자인 채로 같이 있어\n\n[Verse 2]\n치킨 상자를 들고\n한 무리가 지나가\n웃음소리가 물 위로\n오래 남아\n\n[Synth Solo]\n\n[Chorus - falsetto]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자가 아닌 척 앉아 있어\n\n[Outro]\n조금만 더\n조금만 더"
+  },
+  "seed": "1999423795",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.44s**\n- 74.44s per song\n- LM phase (1 song): 13.78s\n- DiT phase (1 song): 60.66s",
+  "task_id": "219c63e6-7a90-4b52-91a5-05901a905e71",
+  "elapsed_s": 91.6,
+  "generated_at": "2026-09-24T10:12:06.193579+08:00",
+  "audio": "sc_ko07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.28,
+      "end": 7.28,
+      "text": "[Intro - Rhodes]"
+    },
+    {
+      "t": 7.28,
+      "end": 7.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.28,
+      "end": 26.9,
+      "text": "한강에 앉으면"
+    },
+    {
+      "t": 31.08,
+      "end": 36.3,
+      "text": "서울이 조용해져"
+    },
+    {
+      "t": 36.36,
+      "end": 38.92,
+      "text": "뒤에서는 차가 달리는데"
+    },
+    {
+      "t": 39.04,
+      "end": 40.93,
+      "text": "앞에서는 물만 흘러"
+    },
+    {
+      "t": 41.09,
+      "end": 41.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.09,
+      "end": 46.91,
+      "text": "여기만 시간이"
+    },
+    {
+      "t": 48.43,
+      "end": 50.67,
+      "text": "다르게 가는 것 같아"
+    },
+    {
+      "t": 54.61,
+      "end": 54.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.61,
+      "end": 56.13,
+      "text": "한강의 밤은"
+    },
+    {
+      "t": 57.95,
+      "end": 60.21,
+      "text": "아무것도 묻지 않아"
+    },
+    {
+      "t": 61.67,
+      "end": 65.05,
+      "text": "그래서 다들 여기 앉아"
+    },
+    {
+      "t": 66.97,
+      "end": 73.25,
+      "text": "혼자인 채로 같이 있어"
+    },
+    {
+      "t": 73.39,
+      "end": 73.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.39,
+      "end": 105.93,
+      "text": "치킨 상자를 들고"
+    },
+    {
+      "t": 106.11,
+      "end": 111.23,
+      "text": "한 무리가 지나가"
+    },
+    {
+      "t": 111.29,
+      "end": 114.63,
+      "text": "웃음소리가 물 위로"
+    },
+    {
+      "t": 114.65,
+      "end": 115.65,
+      "text": "오래 남아"
+    },
+    {
+      "t": 115.85,
+      "end": 115.85,
+      "text": "[Synth Solo]"
+    },
+    {
+      "t": 115.85,
+      "end": 115.85,
+      "text": "[Chorus - falsetto]"
+    },
+    {
+      "t": 115.85,
+      "end": 123.2,
+      "text": "한강의 밤은"
+    },
+    {
+      "t": 123.32,
+      "end": 125.36,
+      "text": "아무것도 묻지 않아"
+    },
+    {
+      "t": 125.4,
+      "end": 132.42,
+      "text": "그래서 다들 여기 앉아"
+    },
+    {
+      "t": 132.88,
+      "end": 137.08,
+      "text": "혼자가 아닌 척 앉아 있어"
+    },
+    {
+      "t": 138.96,
+      "end": 138.96,
+      "text": "[Outro]"
+    },
+    {
+      "t": 138.96,
+      "end": 139.84,
+      "text": "조금만 더"
+    },
+    {
+      "t": 145.4,
+      "end": 147.6,
+      "text": "조금만 더"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,7 +1,37 @@
 {
  "mood": "hazy and sunlit",
- "count": 3,
+ "count": 5,
  "tracks": [
+  {
+   "id": "sc_ja05",
+   "title": "六畳",
+   "genre": "bedroom pop",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "hazy and sunlit",
+   "persona": "",
+   "subject": "a six-mat room",
+   "audio": "sc_ja05.mp3",
+   "generated_at": "2026-09-24T09:55:38.965887+08:00",
+   "day": "2026-09-24",
+   "bpm": 92,
+   "duration": 150.0
+  },
+  {
+   "id": "sc_ko04",
+   "title": "옥탑방",
+   "genre": "indie rock",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "hazy and sunlit",
+   "persona": "",
+   "subject": "a rooftop room",
+   "audio": "sc_ko04.mp3",
+   "generated_at": "2026-09-24T10:07:44.280813+08:00",
+   "day": "2026-09-24",
+   "bpm": 112,
+   "duration": 150.0
+  },
   {
    "id": "sc_en10",
    "title": "Generator Song",

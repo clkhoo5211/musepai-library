@@ -1,0 +1,174 @@
+{
+  "id": "sc_ko08",
+  "title": "장독대",
+  "title_source": "scripted",
+  "genre": "gugak fusion",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "quiet and reflective",
+  "persona": "",
+  "subject": "the row of jars behind a house",
+  "caption": "Korean gugak fusion. Gayageum zither opens alone with its characteristic bending of pitch after the pluck, daegeum bamboo flute answers, janggu hourglass drum marks the chorus, all over a modern string arrangement. A female voice sings with the wide vibrato and bent phrasing of Korean folk singing, ornamenting the ends of lines. Wide stereo image, cavernous reverb tails. 74 BPM, A minor pentatonic. Grave, rooted. no western pop, no synth.",
+  "lyrics": "[Intro - Gayageum]\n\n[Verse 1]\n장독대에 항아리가 일곱\n할머니가 여섯 개까지 셌어\n일곱 번째는 안 세\n그건 어머니 거니까\n\n[Pre-Chorus]\n뚜껑을 열면\n삼 년 전 여름 냄새\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람은 그냥 멀어지더라\n\n[Verse 2]\n비 오면 뚜껑을 덮고\n해 나면 다시 열고\n그게 다인 일을\n평생 하신 분이 있었어\n\n[Daegeum Solo]\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람도 그런 건지도 몰라\n\n[Outro]\n일곱 개\n일곱 개",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 74,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "A minor pentatonic",
+    "timesignature": "4",
+    "prompt": "Korean gugak fusion. Gayageum zither opens alone with its characteristic bending of pitch after the pluck, daegeum bamboo flute answers, janggu hourglass drum marks the chorus, all over a modern string arrangement. A female voice sings with the wide vibrato and bent phrasing of Korean folk singing, ornamenting the ends of lines. Wide stereo image, cavernous reverb tails. 74 BPM, A minor pentatonic. Grave, rooted. no western pop, no synth.",
+    "lyrics": "[Intro - Gayageum]\n\n[Verse 1]\n장독대에 항아리가 일곱\n할머니가 여섯 개까지 셌어\n일곱 번째는 안 세\n그건 어머니 거니까\n\n[Pre-Chorus]\n뚜껑을 열면\n삼 년 전 여름 냄새\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람은 그냥 멀어지더라\n\n[Verse 2]\n비 오면 뚜껑을 덮고\n해 나면 다시 열고\n그게 다인 일을\n평생 하신 분이 있었어\n\n[Daegeum Solo]\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람도 그런 건지도 몰라\n\n[Outro]\n일곱 개\n일곱 개"
+  },
+  "seed": "697313547",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.73s**\n- 68.73s per song\n- LM phase (1 song): 14.15s\n- DiT phase (1 song): 54.58s",
+  "task_id": "c1897ca6-d6fe-43da-a1f7-184eaad65c4b",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-09-24T10:13:36.275876+08:00",
+  "audio": "sc_ko08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 9.2,
+      "end": 9.2,
+      "text": "[Intro - Gayageum]"
+    },
+    {
+      "t": 9.2,
+      "end": 9.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 9.2,
+      "end": 13.56,
+      "text": "장독대에 항아리가 일곱"
+    },
+    {
+      "t": 15.56,
+      "end": 32.08,
+      "text": "할머니가 여섯 개까지 셌어"
+    },
+    {
+      "t": 36.86,
+      "end": 40.08,
+      "text": "일곱 번째는 안 세"
+    },
+    {
+      "t": 43.01,
+      "end": 46.03,
+      "text": "그건 어머니 거니까"
+    },
+    {
+      "t": 47.09,
+      "end": 47.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.09,
+      "end": 52.17,
+      "text": "뚜껑을 열면"
+    },
+    {
+      "t": 52.63,
+      "end": 56.11,
+      "text": "삼 년 전 여름 냄새"
+    },
+    {
+      "t": 59.49,
+      "end": 59.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.49,
+      "end": 62.13,
+      "text": "담가둔 것들은"
+    },
+    {
+      "t": 62.15,
+      "end": 63.71,
+      "text": "기다릴수록 깊어진대"
+    },
+    {
+      "t": 63.71,
+      "end": 66.81,
+      "text": "사람도 그러면 좋을 텐데"
+    },
+    {
+      "t": 68.99,
+      "end": 73.07,
+      "text": "사람은 그냥 멀어지더라"
+    },
+    {
+      "t": 77.05,
+      "end": 77.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.05,
+      "end": 79.37,
+      "text": "비 오면 뚜껑을 덮고"
+    },
+    {
+      "t": 80.41,
+      "end": 82.55,
+      "text": "해 나면 다시 열고"
+    },
+    {
+      "t": 84.71,
+      "end": 86.57,
+      "text": "그게 다인 일을"
+    },
+    {
+      "t": 87.07,
+      "end": 89.43,
+      "text": "평생 하신 분이 있었어"
+    },
+    {
+      "t": 123.59,
+      "end": 123.59,
+      "text": "[Daegeum Solo]"
+    },
+    {
+      "t": 123.59,
+      "end": 123.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.59,
+      "end": 125.87,
+      "text": "담가둔 것들은"
+    },
+    {
+      "t": 126.77,
+      "end": 129.68,
+      "text": "기다릴수록 깊어진대"
+    },
+    {
+      "t": 129.92,
+      "end": 132.9,
+      "text": "사람도 그러면 좋을 텐데"
+    },
+    {
+      "t": 133.86,
+      "end": 137.64,
+      "text": "사람도 그런 건지도 몰라"
+    },
+    {
+      "t": 141.92,
+      "end": 141.92,
+      "text": "[Outro]"
+    },
+    {
+      "t": 141.92,
+      "end": 149.92,
+      "text": "일곱 개"
+    },
+    {
+      "t": 152.28,
+      "end": 153.98,
+      "text": "일곱 개"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "sc_ja08",
+  "title": "祖母の手",
+  "title_source": "scripted",
+  "genre": "folk",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "quiet and reflective",
+  "persona": "",
+  "subject": "a grandmother's hands",
+  "caption": "Japanese folk, almost entirely acoustic. Fingerpicked steel-string guitar in open tuning, upright bass entering in the second verse, brushed percussion, a single cello line in the bridge. A soft female alto sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless harmony joining the last chorus. Tape saturation, no reverb on the lead vocal, room tone left in. 72 BPM, G major. Tender, still.",
+  "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n祖母の手は 小さくて硬い\n畑の土が 爪のあいだに\n何度洗っても 落ちないのを\n恥ずかしいと 言っていた\n\n[Pre-Chorus]\n私は その手が\nいちばん きれいだと思っていた\n\n[Chorus]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離すときの ためらいも\n\n[Verse 2]\n最後に会ったとき\nもう 握る力はなかった\nかわりに 私が握った\n初めて 私のほうが強かった\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離したのは 私だった\n\n[Outro]\n覚えている\n覚えている",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese folk, almost entirely acoustic. Fingerpicked steel-string guitar in open tuning, upright bass entering in the second verse, brushed percussion, a single cello line in the bridge. A soft female alto sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless harmony joining the last chorus. Tape saturation, no reverb on the lead vocal, room tone left in. 72 BPM, G major. Tender, still.",
+    "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n祖母の手は 小さくて硬い\n畑の土が 爪のあいだに\n何度洗っても 落ちないのを\n恥ずかしいと 言っていた\n\n[Pre-Chorus]\n私は その手が\nいちばん きれいだと思っていた\n\n[Chorus]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離すときの ためらいも\n\n[Verse 2]\n最後に会ったとき\nもう 握る力はなかった\nかわりに 私が握った\n初めて 私のほうが強かった\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離したのは 私だった\n\n[Outro]\n覚えている\n覚えている"
+  },
+  "seed": "2081662160",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.92s**\n- 61.92s per song\n- LM phase (1 song): 11.67s\n- DiT phase (1 song): 50.25s",
+  "task_id": "b5a8a910-5153-4f0a-ad4a-c3b124617294",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-24T09:59:19.573665+08:00",
+  "audio": "sc_ja08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.18,
+      "end": 22.18,
+      "text": "[Intro - Fingerpicked Guitar]"
+    },
+    {
+      "t": 22.18,
+      "end": 22.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.18,
+      "end": 25.3,
+      "text": "祖母の手は 小さくて硬い"
+    },
+    {
+      "t": 25.42,
+      "end": 31.64,
+      "text": "畑の土が 爪のあいだに"
+    },
+    {
+      "t": 34.68,
+      "end": 38.52,
+      "text": "何度洗っても 落ちないのを"
+    },
+    {
+      "t": 39.6,
+      "end": 45.01,
+      "text": "恥ずかしいと 言っていた"
+    },
+    {
+      "t": 48.85,
+      "end": 48.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.85,
+      "end": 51.61,
+      "text": "私は その手が"
+    },
+    {
+      "t": 54.23,
+      "end": 58.13,
+      "text": "いちばん きれいだと思っていた"
+    },
+    {
+      "t": 58.35,
+      "end": 58.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.35,
+      "end": 62.97,
+      "text": "祖母の手を 覚えている"
+    },
+    {
+      "t": 63.09,
+      "end": 65.51,
+      "text": "顔より 先に思い出す"
+    },
+    {
+      "t": 65.69,
+      "end": 68.59,
+      "text": "握られたときの 力の強さ"
+    },
+    {
+      "t": 69.05,
+      "end": 75.07,
+      "text": "離すときの ためらいも"
+    },
+    {
+      "t": 76.83,
+      "end": 76.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.83,
+      "end": 79.21,
+      "text": "最後に会ったとき"
+    },
+    {
+      "t": 81.17,
+      "end": 83.67,
+      "text": "もう 握る力はなかった"
+    },
+    {
+      "t": 83.87,
+      "end": 86.73,
+      "text": "かわりに 私が握った"
+    },
+    {
+      "t": 88.81,
+      "end": 93.67,
+      "text": "初めて 私のほうが強かった"
+    },
+    {
+      "t": 93.67,
+      "end": 93.67,
+      "text": "[Cello - Bridge]"
+    },
+    {
+      "t": 93.67,
+      "end": 93.67,
+      "text": "[Chorus - with harmony]"
+    },
+    {
+      "t": 93.67,
+      "end": 103.81,
+      "text": "祖母の手を 覚えている"
+    },
+    {
+      "t": 104.19,
+      "end": 108.31,
+      "text": "顔より 先に思い出す"
+    },
+    {
+      "t": 108.31,
+      "end": 123.52,
+      "text": "握られたときの 力の強さ"
+    },
+    {
+      "t": 123.56,
+      "end": 127.32,
+      "text": "離したのは 私だった"
+    },
+    {
+      "t": 132.22,
+      "end": 132.22,
+      "text": "[Outro]"
+    },
+    {
+      "t": 132.22,
+      "end": 133.82,
+      "text": "覚えている"
+    },
+    {
+      "t": 136.52,
+      "end": 148.96,
+      "text": "覚えている"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

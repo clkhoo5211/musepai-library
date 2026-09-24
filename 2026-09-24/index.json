@@ -176,6 +176,1497 @@
    "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
   },
   {
+   "id": "sc_ja02",
+   "title": "海岸通り",
+   "title_source": "scripted",
+   "genre": "city pop",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "wistful and nocturnal",
+   "persona": "",
+   "subject": "a coastal road at night",
+   "caption": "80s Japanese city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano with jazzy voicings, slap bass, warm analog synth pads and a synth-brass stab on the chorus, gated reverb on the snare. A husky female lead sings smoky and relaxed, sitting behind the beat, with light stacked harmonies. Warm analog saturation, wide stereo image. 106 BPM, F major. Nostalgic, urban, night-drive. no modern EDM, no trap hats.",
+   "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n海岸通りを 窓開けて走る\n潮の匂いが 髪にからむ\nラジオはずっと 同じ曲\n誰も 変えようとしない\n\n[Pre-Chorus]\nこのまま どこにも\n着かなければいい\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言わずに済む速度で\n\n[Verse 2]\nガソリンのランプが ついた\nきみは気づいて 黙ってる\nあと少し あと少しって\nふたりとも 思ってる\n\n[Synth Solo]\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言えなくなる速度で\n\n[Outro]\nもう少しだけ\nもう少しだけ",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 106,
+    "duration": 165.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "80s Japanese city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano with jazzy voicings, slap bass, warm analog synth pads and a synth-brass stab on the chorus, gated reverb on the snare. A husky female lead sings smoky and relaxed, sitting behind the beat, with light stacked harmonies. Warm analog saturation, wide stereo image. 106 BPM, F major. Nostalgic, urban, night-drive. no modern EDM, no trap hats.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n海岸通りを 窓開けて走る\n潮の匂いが 髪にからむ\nラジオはずっと 同じ曲\n誰も 変えようとしない\n\n[Pre-Chorus]\nこのまま どこにも\n着かなければいい\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言わずに済む速度で\n\n[Verse 2]\nガソリンのランプが ついた\nきみは気づいて 黙ってる\nあと少し あと少しって\nふたりとも 思ってる\n\n[Synth Solo]\n\n[Chorus]\n夜の海は 何も映さない\nだから 安心して隣にいる\n言わなくていいことを\n言えなくなる速度で\n\n[Outro]\nもう少しだけ\nもう少しだけ"
+   },
+   "seed": "626909936",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 56.36s**\n- 56.36s per song\n- LM phase (1 song): 8.78s\n- DiT phase (1 song): 47.59s",
+   "task_id": "35275351-e30b-4b5c-b255-d358e5a2be8c",
+   "elapsed_s": 101.2,
+   "generated_at": "2026-09-24T09:51:38.268482+08:00",
+   "audio": "sc_ja02.mp3",
+   "lyrics_timed": [
+    {
+     "t": 10.06,
+     "end": 10.06,
+     "text": "[Intro - Rhodes]"
+    },
+    {
+     "t": 10.06,
+     "end": 10.06,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 10.06,
+     "end": 15.18,
+     "text": "海岸通りを 窓開けて走る"
+    },
+    {
+     "t": 18.94,
+     "end": 24.06,
+     "text": "潮の匂いが 髪にからむ"
+    },
+    {
+     "t": 27.84,
+     "end": 31.58,
+     "text": "ラジオはずっと 同じ曲"
+    },
+    {
+     "t": 31.74,
+     "end": 36.84,
+     "text": "誰も 変えようとしない"
+    },
+    {
+     "t": 37.02,
+     "end": 37.02,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 37.02,
+     "end": 40.62,
+     "text": "このまま どこにも"
+    },
+    {
+     "t": 41.45,
+     "end": 45.95,
+     "text": "着かなければいい"
+    },
+    {
+     "t": 46.03,
+     "end": 46.03,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 46.03,
+     "end": 49.49,
+     "text": "夜の海は 何も映さない"
+    },
+    {
+     "t": 50.45,
+     "end": 54.67,
+     "text": "だから 安心して隣にいる"
+    },
+    {
+     "t": 54.97,
+     "end": 59.07,
+     "text": "言わなくていいことを"
+    },
+    {
+     "t": 59.45,
+     "end": 64.61,
+     "text": "言わずに済む速度で"
+    },
+    {
+     "t": 68.11,
+     "end": 68.11,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 68.11,
+     "end": 72.01,
+     "text": "ガソリンのランプが ついた"
+    },
+    {
+     "t": 72.89,
+     "end": 77.33,
+     "text": "きみは気づいて 黙ってる"
+    },
+    {
+     "t": 77.47,
+     "end": 80.89,
+     "text": "あと少し あと少しって"
+    },
+    {
+     "t": 81.31,
+     "end": 83.21,
+     "text": "ふたりとも 思ってる"
+    },
+    {
+     "t": 83.89,
+     "end": 83.89,
+     "text": "[Synth Solo]"
+    },
+    {
+     "t": 83.89,
+     "end": 83.89,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 83.89,
+     "end": 96.17,
+     "text": "夜の海は 何も映さない"
+    },
+    {
+     "t": 99.19,
+     "end": 122.23,
+     "text": "だから 安心して隣にいる"
+    },
+    {
+     "t": 126.92,
+     "end": 139.0,
+     "text": "言わなくていいことを"
+    },
+    {
+     "t": 140.5,
+     "end": 145.5,
+     "text": "言えなくなる速度で"
+    },
+    {
+     "t": 146.34,
+     "end": 146.34,
+     "text": "[Outro]"
+    },
+    {
+     "t": 146.34,
+     "end": 148.18,
+     "text": "もう少しだけ"
+    },
+    {
+     "t": 148.32,
+     "end": 159.9,
+     "text": "もう少しだけ"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja03",
+   "title": "北の宿",
+   "title_source": "scripted",
+   "genre": "enka",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "quiet and reflective",
+   "persona": "",
+   "subject": "an inn in the snow country",
+   "caption": "Enka. Shakuhachi flute opens alone, koto answers, a string section swells under the chorus, slow brushed drums and upright bass. A female lead sings with the deep vibrato and kobushi ornamental turns of enka — the voice bends and trembles into the top of each phrase — strongly projected and sorrowful. Warm analog saturation, plate reverb, spacious. 64 BPM, A minor. Melancholy, formal, weathered. no western pop, no synth.",
+   "lyrics": "[Intro - Shakuhachi]\n\n[Verse 1]\n雪が降る 北の宿\n障子の向こう 白い息\nあなたが座っていた場所に\n座布団だけ 置いてある\n\n[Pre-Chorus]\n女将さんは 何も聞かない\nそれが やさしさ\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\n遠くなる人\n\n[Verse 2]\n囲炉裏の火が 小さくなる\n継ぎ足す薪は まだある\n朝まで 燃やしておきます\nあなたが 来なくても\n\n[Koto Interlude]\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\nもう 待ってない人\n\n[Outro]\n雪が降る\n雪が降る",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 64,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "2",
+    "prompt": "Enka. Shakuhachi flute opens alone, koto answers, a string section swells under the chorus, slow brushed drums and upright bass. A female lead sings with the deep vibrato and kobushi ornamental turns of enka — the voice bends and trembles into the top of each phrase — strongly projected and sorrowful. Warm analog saturation, plate reverb, spacious. 64 BPM, A minor. Melancholy, formal, weathered. no western pop, no synth.",
+    "lyrics": "[Intro - Shakuhachi]\n\n[Verse 1]\n雪が降る 北の宿\n障子の向こう 白い息\nあなたが座っていた場所に\n座布団だけ 置いてある\n\n[Pre-Chorus]\n女将さんは 何も聞かない\nそれが やさしさ\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\n遠くなる人\n\n[Verse 2]\n囲炉裏の火が 小さくなる\n継ぎ足す薪は まだある\n朝まで 燃やしておきます\nあなたが 来なくても\n\n[Koto Interlude]\n\n[Chorus]\n待つのが 女の仕事なら\n私は 上手になりました\n上手になるほど\nもう 待ってない人\n\n[Outro]\n雪が降る\n雪が降る"
+   },
+   "seed": "1945829523",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 64.07s**\n- 64.07s per song\n- LM phase (1 song): 16.06s\n- DiT phase (1 song): 48.00s",
+   "task_id": "fe2e1b00-a842-43e6-9922-d9d27641f145",
+   "elapsed_s": 80.1,
+   "generated_at": "2026-09-24T09:52:58.339076+08:00",
+   "audio": "sc_ja03.mp3",
+   "lyrics_timed": [
+    {
+     "t": 8.86,
+     "end": 8.86,
+     "text": "[Intro - Shakuhachi]"
+    },
+    {
+     "t": 8.86,
+     "end": 8.86,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 8.86,
+     "end": 22.14,
+     "text": "雪が降る 北の宿"
+    },
+    {
+     "t": 22.52,
+     "end": 27.36,
+     "text": "障子の向こう 白い息"
+    },
+    {
+     "t": 27.6,
+     "end": 31.18,
+     "text": "あなたが座っていた場所に"
+    },
+    {
+     "t": 31.28,
+     "end": 34.68,
+     "text": "座布団だけ 置いてある"
+    },
+    {
+     "t": 34.98,
+     "end": 34.98,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 34.98,
+     "end": 39.28,
+     "text": "女将さんは 何も聞かない"
+    },
+    {
+     "t": 39.34,
+     "end": 41.04,
+     "text": "それが やさしさ"
+    },
+    {
+     "t": 41.04,
+     "end": 41.04,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 41.04,
+     "end": 44.95,
+     "text": "待つのが 女の仕事なら"
+    },
+    {
+     "t": 45.13,
+     "end": 49.79,
+     "text": "私は 上手になりました"
+    },
+    {
+     "t": 50.13,
+     "end": 52.17,
+     "text": "上手になるほど"
+    },
+    {
+     "t": 52.37,
+     "end": 54.71,
+     "text": "遠くなる人"
+    },
+    {
+     "t": 54.71,
+     "end": 54.71,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 54.71,
+     "end": 64.27,
+     "text": "囲炉裏の火が 小さくなる"
+    },
+    {
+     "t": 64.43,
+     "end": 76.91,
+     "text": "継ぎ足す薪は まだある"
+    },
+    {
+     "t": 76.93,
+     "end": 88.73,
+     "text": "朝まで 燃やしておきます"
+    },
+    {
+     "t": 91.67,
+     "end": 98.01,
+     "text": "あなたが 来なくても"
+    },
+    {
+     "t": 101.75,
+     "end": 101.75,
+     "text": "[Koto Interlude]"
+    },
+    {
+     "t": 101.75,
+     "end": 101.75,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 101.75,
+     "end": 108.87,
+     "text": "待つのが 女の仕事なら"
+    },
+    {
+     "t": 109.03,
+     "end": 113.07,
+     "text": "私は 上手になりました"
+    },
+    {
+     "t": 114.75,
+     "end": 117.87,
+     "text": "上手になるほど"
+    },
+    {
+     "t": 120.87,
+     "end": 127.73,
+     "text": "もう 待ってない人"
+    },
+    {
+     "t": 127.79,
+     "end": 127.79,
+     "text": "[Outro]"
+    },
+    {
+     "t": 127.79,
+     "end": 130.81,
+     "text": "雪が降る"
+    },
+    {
+     "t": 140.68,
+     "end": 150.12,
+     "text": "雪が降る"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja04",
+   "title": "工場の煙突",
+   "title_source": "scripted",
+   "genre": "indie rock",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "restless and urgent",
+   "persona": "",
+   "subject": "a factory town",
+   "caption": "Japanese indie rock, recorded live in one room. Two electric guitars — one clean and angular, one overdriven — driving eighth-note bass, dry drums with audible room bleed. A raspy male voice half-speaks the verses close to the mic and shouts the chorus without tuning. Raw live-room bleed, bone-dry drums, tape saturation on the bus. 146 BPM, E minor. Fast, frustrated, alive. no pop, no synth.",
+   "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n煙突の煙が まっすぐ上がる日は\n風がない いい天気らしい\n父はそう言って 毎朝出ていった\n三十八年 同じ時間に\n\n[Pre-Chorus]\n煙突は去年 止まった\n風は まだ吹いてる\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n出る理由を 探してるだけ\n\n[Verse 2]\n同級生の半分は もういない\n残った半分で 飲む\n誰も 東京の話をしない\nそういうルールになってる\n\n[Guitar Solo]\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n探すのを やめただけ\n\n[Outro]\nまだ ここにいる\nまだ ここにいる",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 146,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Japanese indie rock, recorded live in one room. Two electric guitars — one clean and angular, one overdriven — driving eighth-note bass, dry drums with audible room bleed. A raspy male voice half-speaks the verses close to the mic and shouts the chorus without tuning. Raw live-room bleed, bone-dry drums, tape saturation on the bus. 146 BPM, E minor. Fast, frustrated, alive. no pop, no synth.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n煙突の煙が まっすぐ上がる日は\n風がない いい天気らしい\n父はそう言って 毎朝出ていった\n三十八年 同じ時間に\n\n[Pre-Chorus]\n煙突は去年 止まった\n風は まだ吹いてる\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n出る理由を 探してるだけ\n\n[Verse 2]\n同級生の半分は もういない\n残った半分で 飲む\n誰も 東京の話をしない\nそういうルールになってる\n\n[Guitar Solo]\n\n[Chorus]\nここを出るって 言い続けて\n結局 まだここにいる\n出られないんじゃない\n探すのを やめただけ\n\n[Outro]\nまだ ここにいる\nまだ ここにいる"
+   },
+   "seed": "2147142402",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 58.92s**\n- 58.92s per song\n- LM phase (1 song): 11.10s\n- DiT phase (1 song): 47.82s",
+   "task_id": "3916a6b5-1a28-441f-81cc-d45c4406e0a6",
+   "elapsed_s": 80.1,
+   "generated_at": "2026-09-24T09:54:18.469354+08:00",
+   "audio": "sc_ja04.mp3",
+   "lyrics_timed": [
+    {
+     "t": 13.56,
+     "end": 13.56,
+     "text": "[Intro - Guitars]"
+    },
+    {
+     "t": 13.56,
+     "end": 13.56,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 13.56,
+     "end": 18.76,
+     "text": "煙突の煙が まっすぐ上がる日は"
+    },
+    {
+     "t": 20.0,
+     "end": 26.8,
+     "text": "風がない いい天気らしい"
+    },
+    {
+     "t": 26.88,
+     "end": 33.54,
+     "text": "父はそう言って 毎朝出ていった"
+    },
+    {
+     "t": 33.84,
+     "end": 39.03,
+     "text": "三十八年 同じ時間に"
+    },
+    {
+     "t": 40.13,
+     "end": 40.13,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 40.13,
+     "end": 43.09,
+     "text": "煙突は去年 止まった"
+    },
+    {
+     "t": 43.55,
+     "end": 45.71,
+     "text": "風は まだ吹いてる"
+    },
+    {
+     "t": 46.99,
+     "end": 46.99,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 46.99,
+     "end": 56.53,
+     "text": "ここを出るって 言い続けて"
+    },
+    {
+     "t": 56.53,
+     "end": 59.05,
+     "text": "結局 まだここにいる"
+    },
+    {
+     "t": 59.17,
+     "end": 59.97,
+     "text": "出られないんじゃない"
+    },
+    {
+     "t": 59.97,
+     "end": 62.19,
+     "text": "出る理由を 探してるだけ"
+    },
+    {
+     "t": 64.23,
+     "end": 64.23,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 64.23,
+     "end": 68.19,
+     "text": "同級生の半分は もういない"
+    },
+    {
+     "t": 68.49,
+     "end": 71.67,
+     "text": "残った半分で 飲む"
+    },
+    {
+     "t": 71.89,
+     "end": 75.81,
+     "text": "誰も 東京の話をしない"
+    },
+    {
+     "t": 77.15,
+     "end": 81.77,
+     "text": "そういうルールになってる"
+    },
+    {
+     "t": 98.87,
+     "end": 98.87,
+     "text": "[Guitar Solo]"
+    },
+    {
+     "t": 98.87,
+     "end": 98.87,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 98.87,
+     "end": 102.25,
+     "text": "ここを出るって 言い続けて"
+    },
+    {
+     "t": 102.71,
+     "end": 105.49,
+     "text": "結局 まだここにいる"
+    },
+    {
+     "t": 106.99,
+     "end": 109.57,
+     "text": "出られないんじゃない"
+    },
+    {
+     "t": 111.61,
+     "end": 115.44,
+     "text": "探すのを やめただけ"
+    },
+    {
+     "t": 118.54,
+     "end": 118.54,
+     "text": "[Outro]"
+    },
+    {
+     "t": 118.54,
+     "end": 122.14,
+     "text": "まだ ここにいる"
+    },
+    {
+     "t": 125.02,
+     "end": 135.16,
+     "text": "まだ ここにいる"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja05",
+   "title": "六畳",
+   "title_source": "scripted",
+   "genre": "bedroom pop",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "hazy and sunlit",
+   "persona": "",
+   "subject": "a six-mat room",
+   "caption": "Japanese bedroom pop. A soft drum machine, muted electric guitar playing a looping figure, Rhodes chords, warm synth bass, continuous tape hiss. A soft male tenor sings breathy and very close to the mic, doubling himself loosely so the two takes drift slightly apart. Dusty vinyl texture, lo-fi intimacy, nothing bright. 92 BPM, C major. Small, warm, unhurried. no stadium reverb, no EDM.",
+   "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n六畳の部屋に 全部ある\n服も 本も 人生も\n狭いって言われるけど\n手を伸ばせば 届くのがいい\n\n[Pre-Chorus]\n窓のむこうに 隣の壁\nそれしか見えない\n\n[Chorus]\nここで 十分だ\nって言えるまで 五年かかった\n何も増やしてないけど\n何も減らしてもいない\n\n[Verse 2]\n洗濯物が 乾かない季節\n部屋に干して 部屋が湿る\nそれでも ここが\nいちばん 眠れる\n\n[Chorus]\nここで 十分だ\nって言えるまで 五年かかった\n何も増やしてないけど\n減らせたのかも しれない\n\n[Outro]\n十分だ\n十分だ",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 92,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Japanese bedroom pop. A soft drum machine, muted electric guitar playing a looping figure, Rhodes chords, warm synth bass, continuous tape hiss. A soft male tenor sings breathy and very close to the mic, doubling himself loosely so the two takes drift slightly apart. Dusty vinyl texture, lo-fi intimacy, nothing bright. 92 BPM, C major. Small, warm, unhurried. no stadium reverb, no EDM.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n六畳の部屋に 全部ある\n服も 本も 人生も\n狭いって言われるけど\n手を伸ばせば 届くのがいい\n\n[Pre-Chorus]\n窓のむこうに 隣の壁\nそれしか見えない\n\n[Chorus]\nここで 十分だ\nって言えるまで 五年かかった\n何も増やしてないけど\n何も減らしてもいない\n\n[Verse 2]\n洗濯物が 乾かない季節\n部屋に干して 部屋が湿る\nそれでも ここが\nいちばん 眠れる\n\n[Chorus]\nここで 十分だ\nって言えるまで 五年かかった\n何も増やしてないけど\n減らせたのかも しれない\n\n[Outro]\n十分だ\n十分だ"
+   },
+   "seed": "110789489",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 58.50s**\n- 58.50s per song\n- LM phase (1 song): 12.48s\n- DiT phase (1 song): 46.02s",
+   "task_id": "c12f98b9-2327-41ba-8a2e-6da1d8e464de",
+   "elapsed_s": 80.5,
+   "generated_at": "2026-09-24T09:55:38.965887+08:00",
+   "audio": "sc_ja05.mp3",
+   "lyrics_timed": [
+    {
+     "t": 21.68,
+     "end": 21.68,
+     "text": "[Intro - Rhodes]"
+    },
+    {
+     "t": 21.68,
+     "end": 21.68,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 21.68,
+     "end": 22.74,
+     "text": "六畳の部屋に 全部ある"
+    },
+    {
+     "t": 23.0,
+     "end": 24.08,
+     "text": "服も 本も 人生も"
+    },
+    {
+     "t": 24.12,
+     "end": 31.38,
+     "text": "狭いって言われるけど"
+    },
+    {
+     "t": 31.48,
+     "end": 35.32,
+     "text": "手を伸ばせば 届くのがいい"
+    },
+    {
+     "t": 38.77,
+     "end": 38.77,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 38.77,
+     "end": 42.43,
+     "text": "窓のむこうに 隣の壁"
+    },
+    {
+     "t": 42.75,
+     "end": 45.79,
+     "text": "それしか見えない"
+    },
+    {
+     "t": 47.79,
+     "end": 47.79,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 47.79,
+     "end": 49.95,
+     "text": "ここで 十分だ"
+    },
+    {
+     "t": 50.45,
+     "end": 53.21,
+     "text": "って言えるまで 五年かかった"
+    },
+    {
+     "t": 53.33,
+     "end": 65.83,
+     "text": "何も増やしてないけど"
+    },
+    {
+     "t": 65.83,
+     "end": 67.29,
+     "text": "何も減らしてもいない"
+    },
+    {
+     "t": 67.29,
+     "end": 67.29,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 67.29,
+     "end": 70.55,
+     "text": "洗濯物が 乾かない季節"
+    },
+    {
+     "t": 70.73,
+     "end": 76.55,
+     "text": "部屋に干して 部屋が湿る"
+    },
+    {
+     "t": 77.05,
+     "end": 79.89,
+     "text": "それでも ここが"
+    },
+    {
+     "t": 81.15,
+     "end": 82.91,
+     "text": "いちばん 眠れる"
+    },
+    {
+     "t": 87.41,
+     "end": 87.41,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 87.41,
+     "end": 89.85,
+     "text": "ここで 十分だ"
+    },
+    {
+     "t": 90.19,
+     "end": 92.53,
+     "text": "って言えるまで 五年かかった"
+    },
+    {
+     "t": 92.59,
+     "end": 95.99,
+     "text": "何も増やしてないけど"
+    },
+    {
+     "t": 96.07,
+     "end": 101.67,
+     "text": "減らせたのかも しれない"
+    },
+    {
+     "t": 119.48,
+     "end": 119.48,
+     "text": "[Outro]"
+    },
+    {
+     "t": 119.48,
+     "end": 125.48,
+     "text": "十分だ"
+    },
+    {
+     "t": 130.26,
+     "end": 136.28,
+     "text": "十分だ"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja06",
+   "title": "最終便",
+   "title_source": "scripted",
+   "genre": "jazz fusion",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "warm and intimate",
+   "persona": "",
+   "subject": "the last flight of the night",
+   "caption": "Japanese jazz fusion with a big band. Full brass section with tight stabs and a shout chorus, Rhodes comping extended chords, upright bass walking, drums riding brushes then sticks. A soulful male baritone sings the head, scats through the solo section and runs melismas out of it. Warm analog saturation, plate reverb, the room audible behind the horns. 118 BPM, B-flat major. Warm, loose, late. no pop, no electronic drums.",
+   "lyrics": "[Intro - Brass]\n\n[Verse 1]\n最終便の待合室は\n静かすぎて 音楽が要る\n売店はもう 閉まってる\n自販機だけが 光ってる\n\n[Pre-Chorus]\n遅れても 誰も怒らない時間\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに したいから\n\n[Scat Solo]\nドゥバディ バドゥダッ\nシャバドゥワ\n\n[Verse 2]\n隣の席の人が 眠ってる\n知らない人の 寝顔を見る\n同じ場所へ 行く人\nそれだけで 少し安心する\n\n[Brass Solo]\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに するから\n\n[Outro - Scat]\nバドゥダッ ドゥバディ",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 118,
+    "duration": 165.0,
+    "genres": "N/A",
+    "keyscale": "B flat major",
+    "timesignature": "4",
+    "prompt": "Japanese jazz fusion with a big band. Full brass section with tight stabs and a shout chorus, Rhodes comping extended chords, upright bass walking, drums riding brushes then sticks. A soulful male baritone sings the head, scats through the solo section and runs melismas out of it. Warm analog saturation, plate reverb, the room audible behind the horns. 118 BPM, B-flat major. Warm, loose, late. no pop, no electronic drums.",
+    "lyrics": "[Intro - Brass]\n\n[Verse 1]\n最終便の待合室は\n静かすぎて 音楽が要る\n売店はもう 閉まってる\n自販機だけが 光ってる\n\n[Pre-Chorus]\n遅れても 誰も怒らない時間\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに したいから\n\n[Scat Solo]\nドゥバディ バドゥダッ\nシャバドゥワ\n\n[Verse 2]\n隣の席の人が 眠ってる\n知らない人の 寝顔を見る\n同じ場所へ 行く人\nそれだけで 少し安心する\n\n[Brass Solo]\n\n[Chorus]\n最終便 最終便\n乗ってしまえば もう戻れない\nそれが いいんだ\n選んだことに するから\n\n[Outro - Scat]\nバドゥダッ ドゥバディ"
+   },
+   "seed": "3812758746",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 58.41s**\n- 58.41s per song\n- LM phase (1 song): 12.09s\n- DiT phase (1 song): 46.32s",
+   "task_id": "998f2c0f-41b4-4560-a26f-6bef7dcb96bb",
+   "elapsed_s": 80.1,
+   "generated_at": "2026-09-24T09:56:59.033413+08:00",
+   "audio": "sc_ja06.mp3",
+   "lyrics_timed": [
+    {
+     "t": 19.78,
+     "end": 19.78,
+     "text": "[Intro - Brass]"
+    },
+    {
+     "t": 19.78,
+     "end": 19.78,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 19.78,
+     "end": 22.74,
+     "text": "最終便の待合室は"
+    },
+    {
+     "t": 23.14,
+     "end": 26.38,
+     "text": "静かすぎて 音楽が要る"
+    },
+    {
+     "t": 28.3,
+     "end": 30.9,
+     "text": "売店はもう 閉まってる"
+    },
+    {
+     "t": 31.3,
+     "end": 34.68,
+     "text": "自販機だけが 光ってる"
+    },
+    {
+     "t": 36.4,
+     "end": 36.4,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 36.4,
+     "end": 42.67,
+     "text": "遅れても 誰も怒らない時間"
+    },
+    {
+     "t": 42.93,
+     "end": 42.93,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 42.93,
+     "end": 47.17,
+     "text": "最終便 最終便"
+    },
+    {
+     "t": 47.21,
+     "end": 52.07,
+     "text": "乗ってしまえば もう戻れない"
+    },
+    {
+     "t": 52.57,
+     "end": 53.75,
+     "text": "それが いいんだ"
+    },
+    {
+     "t": 54.17,
+     "end": 57.51,
+     "text": "選んだことに したいから"
+    },
+    {
+     "t": 60.45,
+     "end": 60.45,
+     "text": "[Scat Solo]"
+    },
+    {
+     "t": 60.45,
+     "end": 62.65,
+     "text": "ドゥバディ バドゥダッ"
+    },
+    {
+     "t": 64.29,
+     "end": 69.19,
+     "text": "シャバドゥワ"
+    },
+    {
+     "t": 69.41,
+     "end": 69.41,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 69.41,
+     "end": 73.35,
+     "text": "隣の席の人が 眠ってる"
+    },
+    {
+     "t": 76.67,
+     "end": 83.47,
+     "text": "知らない人の 寝顔を見る"
+    },
+    {
+     "t": 85.15,
+     "end": 88.33,
+     "text": "同じ場所へ 行く人"
+    },
+    {
+     "t": 88.67,
+     "end": 97.45,
+     "text": "それだけで 少し安心する"
+    },
+    {
+     "t": 97.49,
+     "end": 97.49,
+     "text": "[Brass Solo]"
+    },
+    {
+     "t": 97.49,
+     "end": 97.49,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 97.49,
+     "end": 100.37,
+     "text": "最終便 最終便"
+    },
+    {
+     "t": 100.89,
+     "end": 106.27,
+     "text": "乗ってしまえば もう戻れない"
+    },
+    {
+     "t": 106.99,
+     "end": 108.33,
+     "text": "それが いいんだ"
+    },
+    {
+     "t": 108.55,
+     "end": 111.93,
+     "text": "選んだことに するから"
+    },
+    {
+     "t": 112.11,
+     "end": 112.11,
+     "text": "[Outro - Scat]"
+    },
+    {
+     "t": 112.11,
+     "end": 162.3,
+     "text": "バドゥダッ ドゥバディ"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja07",
+   "title": "アーケード",
+   "title_source": "scripted",
+   "genre": "synthpop",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "bright and hopeful",
+   "persona": "",
+   "subject": "a covered shopping arcade",
+   "caption": "Shibuya-kei leaning synthpop. Analog synth bass, a bright arpeggiator running through the verses, glossy pad chords, a drum machine with a gated snare, hand claps, no live drums. A bright female voice sings clean and polished with a vocoder doubling the hook and a short spoken aside in the bridge. Crisp modern mixing, wide stereo image, shimmering. 124 BPM, A major. Cheerful, retro-futurist, slightly wistful.",
+   "lyrics": "[Intro - Arpeggiator]\n\n[Verse 1]\nアーケードの屋根に 雨の音\n中は いつでも晴れ\n閉めたお店が 三軒増えた\n看板だけ 残ってる\n\n[Pre-Chorus]\n子どものころは ここが\n世界の全部だった\n\n[Chorus]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから ゆっくり歩く\n\n[Verse 2]\nくじ引きの機械は まだある\n一回 二百円\n当たったことは 一度もない\nそれでも 毎回やる\n\n[Bridge - spoken]\nまた来るね\nって 誰に言ってるんだろう\n\n[Chorus - vocoder]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから 立ち止まる\n\n[Outro]\nゆっくり\nゆっくり",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 124,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Shibuya-kei leaning synthpop. Analog synth bass, a bright arpeggiator running through the verses, glossy pad chords, a drum machine with a gated snare, hand claps, no live drums. A bright female voice sings clean and polished with a vocoder doubling the hook and a short spoken aside in the bridge. Crisp modern mixing, wide stereo image, shimmering. 124 BPM, A major. Cheerful, retro-futurist, slightly wistful.",
+    "lyrics": "[Intro - Arpeggiator]\n\n[Verse 1]\nアーケードの屋根に 雨の音\n中は いつでも晴れ\n閉めたお店が 三軒増えた\n看板だけ 残ってる\n\n[Pre-Chorus]\n子どものころは ここが\n世界の全部だった\n\n[Chorus]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから ゆっくり歩く\n\n[Verse 2]\nくじ引きの機械は まだある\n一回 二百円\n当たったことは 一度もない\nそれでも 毎回やる\n\n[Bridge - spoken]\nまた来るね\nって 誰に言ってるんだろう\n\n[Chorus - vocoder]\nアーケード アーケード\n雨に濡れない道\nまっすぐ歩けば 終わってしまう\nだから 立ち止まる\n\n[Outro]\nゆっくり\nゆっくり"
+   },
+   "seed": "2883780512",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 55.81s**\n- 55.81s per song\n- LM phase (1 song): 12.00s\n- DiT phase (1 song): 43.81s",
+   "task_id": "eeedfad4-081c-447b-b1dc-0ddc88e92d1b",
+   "elapsed_s": 70.4,
+   "generated_at": "2026-09-24T09:58:09.438635+08:00",
+   "audio": "sc_ja07.mp3",
+   "lyrics_timed": [
+    {
+     "t": 8.5,
+     "end": 8.5,
+     "text": "[Intro - Arpeggiator]"
+    },
+    {
+     "t": 8.5,
+     "end": 8.5,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 8.5,
+     "end": 21.64,
+     "text": "アーケードの屋根に 雨の音"
+    },
+    {
+     "t": 21.96,
+     "end": 26.52,
+     "text": "中は いつでも晴れ"
+    },
+    {
+     "t": 27.24,
+     "end": 28.66,
+     "text": "閉めたお店が 三軒増えた"
+    },
+    {
+     "t": 28.7,
+     "end": 29.9,
+     "text": "看板だけ 残ってる"
+    },
+    {
+     "t": 31.6,
+     "end": 31.6,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 31.6,
+     "end": 35.66,
+     "text": "子どものころは ここが"
+    },
+    {
+     "t": 39.41,
+     "end": 42.99,
+     "text": "世界の全部だった"
+    },
+    {
+     "t": 43.19,
+     "end": 43.19,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 43.19,
+     "end": 44.85,
+     "text": "アーケード アーケード"
+    },
+    {
+     "t": 44.85,
+     "end": 47.01,
+     "text": "雨に濡れない道"
+    },
+    {
+     "t": 47.01,
+     "end": 52.25,
+     "text": "まっすぐ歩けば 終わってしまう"
+    },
+    {
+     "t": 55.81,
+     "end": 59.81,
+     "text": "だから ゆっくり歩く"
+    },
+    {
+     "t": 63.33,
+     "end": 63.33,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 63.33,
+     "end": 66.63,
+     "text": "くじ引きの機械は まだある"
+    },
+    {
+     "t": 67.47,
+     "end": 68.59,
+     "text": "一回 二百円"
+    },
+    {
+     "t": 68.63,
+     "end": 74.65,
+     "text": "当たったことは 一度もない"
+    },
+    {
+     "t": 74.99,
+     "end": 78.07,
+     "text": "それでも 毎回やる"
+    },
+    {
+     "t": 80.29,
+     "end": 80.29,
+     "text": "[Bridge - spoken]"
+    },
+    {
+     "t": 80.29,
+     "end": 80.99,
+     "text": "また来るね"
+    },
+    {
+     "t": 84.71,
+     "end": 86.39,
+     "text": "って 誰に言ってるんだろう"
+    },
+    {
+     "t": 86.83,
+     "end": 86.83,
+     "text": "[Chorus - vocoder]"
+    },
+    {
+     "t": 86.83,
+     "end": 88.59,
+     "text": "アーケード アーケード"
+    },
+    {
+     "t": 89.69,
+     "end": 92.49,
+     "text": "雨に濡れない道"
+    },
+    {
+     "t": 93.83,
+     "end": 98.59,
+     "text": "まっすぐ歩けば 終わってしまう"
+    },
+    {
+     "t": 102.33,
+     "end": 105.87,
+     "text": "だから 立ち止まる"
+    },
+    {
+     "t": 109.69,
+     "end": 109.69,
+     "text": "[Outro]"
+    },
+    {
+     "t": 109.69,
+     "end": 110.23,
+     "text": "ゆっくり"
+    },
+    {
+     "t": 117.44,
+     "end": 140.92,
+     "text": "ゆっくり"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja08",
+   "title": "祖母の手",
+   "title_source": "scripted",
+   "genre": "folk",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "quiet and reflective",
+   "persona": "",
+   "subject": "a grandmother's hands",
+   "caption": "Japanese folk, almost entirely acoustic. Fingerpicked steel-string guitar in open tuning, upright bass entering in the second verse, brushed percussion, a single cello line in the bridge. A soft female alto sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless harmony joining the last chorus. Tape saturation, no reverb on the lead vocal, room tone left in. 72 BPM, G major. Tender, still.",
+   "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n祖母の手は 小さくて硬い\n畑の土が 爪のあいだに\n何度洗っても 落ちないのを\n恥ずかしいと 言っていた\n\n[Pre-Chorus]\n私は その手が\nいちばん きれいだと思っていた\n\n[Chorus]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離すときの ためらいも\n\n[Verse 2]\n最後に会ったとき\nもう 握る力はなかった\nかわりに 私が握った\n初めて 私のほうが強かった\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離したのは 私だった\n\n[Outro]\n覚えている\n覚えている",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 72,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese folk, almost entirely acoustic. Fingerpicked steel-string guitar in open tuning, upright bass entering in the second verse, brushed percussion, a single cello line in the bridge. A soft female alto sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless harmony joining the last chorus. Tape saturation, no reverb on the lead vocal, room tone left in. 72 BPM, G major. Tender, still.",
+    "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n祖母の手は 小さくて硬い\n畑の土が 爪のあいだに\n何度洗っても 落ちないのを\n恥ずかしいと 言っていた\n\n[Pre-Chorus]\n私は その手が\nいちばん きれいだと思っていた\n\n[Chorus]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離すときの ためらいも\n\n[Verse 2]\n最後に会ったとき\nもう 握る力はなかった\nかわりに 私が握った\n初めて 私のほうが強かった\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n祖母の手を 覚えている\n顔より 先に思い出す\n握られたときの 力の強さ\n離したのは 私だった\n\n[Outro]\n覚えている\n覚えている"
+   },
+   "seed": "2081662160",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 61.92s**\n- 61.92s per song\n- LM phase (1 song): 11.67s\n- DiT phase (1 song): 50.25s",
+   "task_id": "b5a8a910-5153-4f0a-ad4a-c3b124617294",
+   "elapsed_s": 70.1,
+   "generated_at": "2026-09-24T09:59:19.573665+08:00",
+   "audio": "sc_ja08.mp3",
+   "lyrics_timed": [
+    {
+     "t": 22.18,
+     "end": 22.18,
+     "text": "[Intro - Fingerpicked Guitar]"
+    },
+    {
+     "t": 22.18,
+     "end": 22.18,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 22.18,
+     "end": 25.3,
+     "text": "祖母の手は 小さくて硬い"
+    },
+    {
+     "t": 25.42,
+     "end": 31.64,
+     "text": "畑の土が 爪のあいだに"
+    },
+    {
+     "t": 34.68,
+     "end": 38.52,
+     "text": "何度洗っても 落ちないのを"
+    },
+    {
+     "t": 39.6,
+     "end": 45.01,
+     "text": "恥ずかしいと 言っていた"
+    },
+    {
+     "t": 48.85,
+     "end": 48.85,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 48.85,
+     "end": 51.61,
+     "text": "私は その手が"
+    },
+    {
+     "t": 54.23,
+     "end": 58.13,
+     "text": "いちばん きれいだと思っていた"
+    },
+    {
+     "t": 58.35,
+     "end": 58.35,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 58.35,
+     "end": 62.97,
+     "text": "祖母の手を 覚えている"
+    },
+    {
+     "t": 63.09,
+     "end": 65.51,
+     "text": "顔より 先に思い出す"
+    },
+    {
+     "t": 65.69,
+     "end": 68.59,
+     "text": "握られたときの 力の強さ"
+    },
+    {
+     "t": 69.05,
+     "end": 75.07,
+     "text": "離すときの ためらいも"
+    },
+    {
+     "t": 76.83,
+     "end": 76.83,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 76.83,
+     "end": 79.21,
+     "text": "最後に会ったとき"
+    },
+    {
+     "t": 81.17,
+     "end": 83.67,
+     "text": "もう 握る力はなかった"
+    },
+    {
+     "t": 83.87,
+     "end": 86.73,
+     "text": "かわりに 私が握った"
+    },
+    {
+     "t": 88.81,
+     "end": 93.67,
+     "text": "初めて 私のほうが強かった"
+    },
+    {
+     "t": 93.67,
+     "end": 93.67,
+     "text": "[Cello - Bridge]"
+    },
+    {
+     "t": 93.67,
+     "end": 93.67,
+     "text": "[Chorus - with harmony]"
+    },
+    {
+     "t": 93.67,
+     "end": 103.81,
+     "text": "祖母の手を 覚えている"
+    },
+    {
+     "t": 104.19,
+     "end": 108.31,
+     "text": "顔より 先に思い出す"
+    },
+    {
+     "t": 108.31,
+     "end": 123.52,
+     "text": "握られたときの 力の強さ"
+    },
+    {
+     "t": 123.56,
+     "end": 127.32,
+     "text": "離したのは 私だった"
+    },
+    {
+     "t": 132.22,
+     "end": 132.22,
+     "text": "[Outro]"
+    },
+    {
+     "t": 132.22,
+     "end": 133.82,
+     "text": "覚えている"
+    },
+    {
+     "t": 136.52,
+     "end": 148.96,
+     "text": "覚えている"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja09",
+   "title": "終電まで",
+   "title_source": "scripted",
+   "genre": "trap",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "restless and urgent",
+   "persona": "",
+   "subject": "a convenience store night shift",
+   "caption": "Japanese hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched koto sample looping under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Japanese with doubled ad-libs answering each line and a sung hook. Clean modern mixing, punchy low end, tight and dry. 142 BPM, F-sharp minor. Sharp, nocturnal.",
+   "lyrics": "[Intro]\n(終電まで)\n\n[Verse 1]\n二十二時 レジに立つ\n客はまばら 棚は乱れてる\n面接で 言われたことを思い出す\n「夢とかは ありますか」\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Verse 2]\n廃棄の弁当 持って帰れない\nルールだから しょうがない\n捨てるとき ちょっと謝る\n誰にかは わからない\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Bridge - spoken]\nいらっしゃいませ\nありがとうございました\n\n[Outro]\n(終電まで)\n(終電まで)",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 142,
+    "duration": 135.0,
+    "genres": "N/A",
+    "keyscale": "F sharp minor",
+    "timesignature": "4",
+    "prompt": "Japanese hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched koto sample looping under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Japanese with doubled ad-libs answering each line and a sung hook. Clean modern mixing, punchy low end, tight and dry. 142 BPM, F-sharp minor. Sharp, nocturnal.",
+    "lyrics": "[Intro]\n(終電まで)\n\n[Verse 1]\n二十二時 レジに立つ\n客はまばら 棚は乱れてる\n面接で 言われたことを思い出す\n「夢とかは ありますか」\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Verse 2]\n廃棄の弁当 持って帰れない\nルールだから しょうがない\n捨てるとき ちょっと謝る\n誰にかは わからない\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Bridge - spoken]\nいらっしゃいませ\nありがとうございました\n\n[Outro]\n(終電まで)\n(終電まで)"
+   },
+   "seed": "3281082986",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 81.01s**\n- 81.01s per song\n- LM phase (1 song): 16.42s\n- DiT phase (1 song): 64.59s",
+   "task_id": "2eb51e8e-4197-4844-9291-12bc1cee203f",
+   "elapsed_s": 100.1,
+   "generated_at": "2026-09-24T10:00:59.691787+08:00",
+   "audio": "sc_ja09.mp3",
+   "lyrics_timed": [
+    {
+     "t": 27.7,
+     "end": 27.7,
+     "text": "[Intro]"
+    },
+    {
+     "t": 27.7,
+     "end": 28.88,
+     "text": "(終電まで)"
+    },
+    {
+     "t": 29.24,
+     "end": 29.24,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 29.24,
+     "end": 34.41,
+     "text": "二十二時 レジに立つ"
+    },
+    {
+     "t": 34.71,
+     "end": 41.99,
+     "text": "客はまばら 棚は乱れてる"
+    },
+    {
+     "t": 42.11,
+     "end": 50.47,
+     "text": "面接で 言われたことを思い出す"
+    },
+    {
+     "t": 53.73,
+     "end": 54.81,
+     "text": "「夢とかは ありますか」"
+    },
+    {
+     "t": 54.81,
+     "end": 54.81,
+     "text": "[Hook]"
+    },
+    {
+     "t": 54.81,
+     "end": 57.89,
+     "text": "終電まで あと二時間"
+    },
+    {
+     "t": 57.93,
+     "end": 60.67,
+     "text": "終電のあとは 始発まで"
+    },
+    {
+     "t": 60.69,
+     "end": 62.11,
+     "text": "数えてるのは 時間じゃない"
+    },
+    {
+     "t": 62.15,
+     "end": 63.41,
+     "text": "何回 これを繰り返すか"
+    },
+    {
+     "t": 63.41,
+     "end": 63.41,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 63.41,
+     "end": 64.43,
+     "text": "廃棄の弁当 持って帰れない"
+    },
+    {
+     "t": 64.45,
+     "end": 65.81,
+     "text": "ルールだから しょうがない"
+    },
+    {
+     "t": 67.61,
+     "end": 69.93,
+     "text": "捨てるとき ちょっと謝る"
+    },
+    {
+     "t": 69.95,
+     "end": 70.93,
+     "text": "誰にかは わからない"
+    },
+    {
+     "t": 70.93,
+     "end": 70.93,
+     "text": "[Hook]"
+    },
+    {
+     "t": 70.93,
+     "end": 71.97,
+     "text": "終電まで あと二時間"
+    },
+    {
+     "t": 72.01,
+     "end": 73.83,
+     "text": "終電のあとは 始発まで"
+    },
+    {
+     "t": 74.57,
+     "end": 77.37,
+     "text": "数えてるのは 時間じゃない"
+    },
+    {
+     "t": 77.79,
+     "end": 80.79,
+     "text": "何回 これを繰り返すか"
+    },
+    {
+     "t": 86.09,
+     "end": 86.09,
+     "text": "[Bridge - spoken]"
+    },
+    {
+     "t": 86.09,
+     "end": 93.09,
+     "text": "いらっしゃいませ"
+    },
+    {
+     "t": 93.87,
+     "end": 100.65,
+     "text": "ありがとうございました"
+    },
+    {
+     "t": 106.08,
+     "end": 106.08,
+     "text": "[Outro]"
+    },
+    {
+     "t": 106.08,
+     "end": 114.68,
+     "text": "(終電まで)"
+    },
+    {
+     "t": 119.62,
+     "end": 128.64,
+     "text": "(終電まで)"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ja10",
+   "title": "波が戻る",
+   "title_source": "scripted",
+   "genre": "post-rock",
+   "language": "ja",
+   "language_name": "Japanese",
+   "mood": "bright and hopeful",
+   "persona": "",
+   "subject": "a tide returning",
+   "caption": "Post-rock, largely instrumental. Two tremolo-picked electric guitars build from a single clean arpeggio to a wall of delayed and overdriven sound, bass swelling underneath, drums entering with mallets and finishing on full crashes. Wordless layered humming floats over the middle; one sung line arrives only at the end. Cavernous reverb tails, very wide stereo image. 70 BPM, D major. Patient, building, finally bright. no pop, no vocal-led chorus.",
+   "lyrics": "[Intro - Clean Guitar]\n\n[Instrumental - Building]\n\n[Wordless Vocals]\nああ————\nんん————\n\n[Build]\n\n[Instrumental - Full Band]\n\n[Chorus]\n波は 引いたぶんだけ 戻ってくる\n\n[Outro - Wordless Vocals]\nああ————",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 70,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Post-rock, largely instrumental. Two tremolo-picked electric guitars build from a single clean arpeggio to a wall of delayed and overdriven sound, bass swelling underneath, drums entering with mallets and finishing on full crashes. Wordless layered humming floats over the middle; one sung line arrives only at the end. Cavernous reverb tails, very wide stereo image. 70 BPM, D major. Patient, building, finally bright. no pop, no vocal-led chorus.",
+    "lyrics": "[Intro - Clean Guitar]\n\n[Instrumental - Building]\n\n[Wordless Vocals]\nああ————\nんん————\n\n[Build]\n\n[Instrumental - Full Band]\n\n[Chorus]\n波は 引いたぶんだけ 戻ってくる\n\n[Outro - Wordless Vocals]\nああ————"
+   },
+   "seed": "3767756580",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 79.43s**\n- 79.43s per song\n- LM phase (1 song): 17.57s\n- DiT phase (1 song): 61.85s",
+   "task_id": "887736cd-ace4-4630-8ba3-b87472ec0827",
+   "elapsed_s": 110.1,
+   "generated_at": "2026-09-24T10:02:49.822087+08:00",
+   "audio": "sc_ja10.mp3",
+   "lyrics_timed": [
+    {
+     "t": 10.6,
+     "end": 10.6,
+     "text": "[Intro - Clean Guitar]"
+    },
+    {
+     "t": 10.6,
+     "end": 10.6,
+     "text": "[Instrumental - Building]"
+    },
+    {
+     "t": 10.6,
+     "end": 10.6,
+     "text": "[Wordless Vocals]"
+    },
+    {
+     "t": 10.6,
+     "end": 33.82,
+     "text": "ああ————"
+    },
+    {
+     "t": 33.94,
+     "end": 60.51,
+     "text": "んん————"
+    },
+    {
+     "t": 65.85,
+     "end": 65.85,
+     "text": "[Build]"
+    },
+    {
+     "t": 65.85,
+     "end": 65.85,
+     "text": "[Instrumental - Full Band]"
+    },
+    {
+     "t": 65.85,
+     "end": 65.85,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 65.85,
+     "end": 161.7,
+     "text": "波は 引いたぶんだけ 戻ってくる"
+    },
+    {
+     "t": 163.36,
+     "end": 163.36,
+     "text": "[Outro - Wordless Vocals]"
+    },
+    {
+     "t": 163.36,
+     "end": 164.04,
+     "text": "ああ————"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
    "id": "sc_ko01",
    "title": "네 번째 정거장",
    "title_source": "scripted",
@@ -340,6 +1831,1582 @@
      "t": 148.26,
      "end": 150.24,
      "text": "여기서 내릴게"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko02",
+   "title": "겨울의 반",
+   "title_source": "scripted",
+   "genre": "k-ballad",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "wistful and nocturnal",
+   "persona": "",
+   "subject": "the halfway point of winter",
+   "caption": "Korean ballad. Grand piano alone through the first verse, a full string section entering at the pre-chorus, bass and a soft kit only from the second verse, orchestral swells under the bridge. A male tenor sings restrained and breathy at first and builds to a powerful belt on the final chorus after a key change. Studio-polished, wide stereo image, lush reverb. 68 BPM, C minor. Slow-building, cathartic. no synth, no trap hats.",
+   "lyrics": "[Intro - Piano]\n\n[Verse 1]\n겨울의 반이 지났대\n뉴스에서 그러더라\n반이 지났다는 건\n반이 남았다는 뜻인데\n\n[Pre-Chorus]\n사람들은 왜\n지난 쪽만 말할까\n\n[Chorus]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n다른 말은 필요 없으니까\n\n[Verse 2]\n네가 두고 간 목도리\n버리지도 쓰지도 못하고\n서랍에 접어뒀어\n봄이 오면 어떻게든 되겠지\n\n[Strings - Bridge]\n\n[Chorus - key change]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n그 말도 이제 안 해도 돼\n\n[Outro]\n아직 반이\n아직 반이",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 68,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Korean ballad. Grand piano alone through the first verse, a full string section entering at the pre-chorus, bass and a soft kit only from the second verse, orchestral swells under the bridge. A male tenor sings restrained and breathy at first and builds to a powerful belt on the final chorus after a key change. Studio-polished, wide stereo image, lush reverb. 68 BPM, C minor. Slow-building, cathartic. no synth, no trap hats.",
+    "lyrics": "[Intro - Piano]\n\n[Verse 1]\n겨울의 반이 지났대\n뉴스에서 그러더라\n반이 지났다는 건\n반이 남았다는 뜻인데\n\n[Pre-Chorus]\n사람들은 왜\n지난 쪽만 말할까\n\n[Chorus]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n다른 말은 필요 없으니까\n\n[Verse 2]\n네가 두고 간 목도리\n버리지도 쓰지도 못하고\n서랍에 접어뒀어\n봄이 오면 어떻게든 되겠지\n\n[Strings - Bridge]\n\n[Chorus - key change]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n그 말도 이제 안 해도 돼\n\n[Outro]\n아직 반이\n아직 반이"
+   },
+   "seed": "4204130384",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 69.42s**\n- 69.42s per song\n- LM phase (1 song): 16.40s\n- DiT phase (1 song): 53.02s",
+   "task_id": "553c7311-ef2a-4915-a142-7062c7299bbb",
+   "elapsed_s": 90.1,
+   "generated_at": "2026-09-24T10:04:20.132677+08:00",
+   "audio": "sc_ko02.mp3",
+   "lyrics_timed": [
+    {
+     "t": 29.24,
+     "end": 29.24,
+     "text": "[Intro - Piano]"
+    },
+    {
+     "t": 29.24,
+     "end": 29.24,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 29.24,
+     "end": 32.84,
+     "text": "겨울의 반이 지났대"
+    },
+    {
+     "t": 32.84,
+     "end": 35.5,
+     "text": "뉴스에서 그러더라"
+    },
+    {
+     "t": 35.52,
+     "end": 39.94,
+     "text": "반이 지났다는 건"
+    },
+    {
+     "t": 40.0,
+     "end": 43.54,
+     "text": "반이 남았다는 뜻인데"
+    },
+    {
+     "t": 48.95,
+     "end": 48.95,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 48.95,
+     "end": 50.51,
+     "text": "사람들은 왜"
+    },
+    {
+     "t": 51.11,
+     "end": 54.65,
+     "text": "지난 쪽만 말할까"
+    },
+    {
+     "t": 54.83,
+     "end": 54.83,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 54.83,
+     "end": 56.77,
+     "text": "아직 반이 남았어"
+    },
+    {
+     "t": 57.53,
+     "end": 61.23,
+     "text": "그 말이 위로가 안 되는 날도 있어"
+    },
+    {
+     "t": 61.27,
+     "end": 61.81,
+     "text": "그래도 말해줘"
+    },
+    {
+     "t": 61.81,
+     "end": 65.43,
+     "text": "다른 말은 필요 없으니까"
+    },
+    {
+     "t": 68.17,
+     "end": 68.17,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 68.17,
+     "end": 70.97,
+     "text": "네가 두고 간 목도리"
+    },
+    {
+     "t": 70.97,
+     "end": 72.49,
+     "text": "버리지도 쓰지도 못하고"
+    },
+    {
+     "t": 75.17,
+     "end": 77.79,
+     "text": "서랍에 접어뒀어"
+    },
+    {
+     "t": 81.37,
+     "end": 86.37,
+     "text": "봄이 오면 어떻게든 되겠지"
+    },
+    {
+     "t": 86.37,
+     "end": 86.37,
+     "text": "[Strings - Bridge]"
+    },
+    {
+     "t": 86.37,
+     "end": 86.37,
+     "text": "[Chorus - key change]"
+    },
+    {
+     "t": 86.37,
+     "end": 93.67,
+     "text": "아직 반이 남았어"
+    },
+    {
+     "t": 96.61,
+     "end": 122.17,
+     "text": "그 말이 위로가 안 되는 날도 있어"
+    },
+    {
+     "t": 124.85,
+     "end": 128.95,
+     "text": "그래도 말해줘"
+    },
+    {
+     "t": 132.54,
+     "end": 148.5,
+     "text": "그 말도 이제 안 해도 돼"
+    },
+    {
+     "t": 148.76,
+     "end": 148.76,
+     "text": "[Outro]"
+    },
+    {
+     "t": 148.76,
+     "end": 150.32,
+     "text": "아직 반이"
+    },
+    {
+     "t": 155.82,
+     "end": 157.36,
+     "text": "아직 반이"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko03",
+   "title": "막걸리 한 잔",
+   "title_source": "scripted",
+   "genre": "trot",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "defiant and loud",
+   "persona": "",
+   "subject": "drinking with old friends",
+   "caption": "Korean trot. Electric organ carrying the melody, a saxophone answering every line, a shuffling drum machine with the characteristic bouncing bass, tambourine. A male lead sings with the wide vibrato and bent-note ornamentation of trot, projecting hard, playful and a little theatrical. Retro nightclub keyboard sheen, warm analog saturation. 120 BPM, D minor. Bouncy, boisterous, sentimental underneath. no western pop, no EDM.",
+   "lyrics": "[Intro - Organ & Sax]\n\n[Verse 1]\n막걸리 한 잔에 사십 년이\n주르륵 쏟아져 나온다\n너는 그때 축구를 잘했고\n나는 그때 공부를 못했지\n\n[Pre-Chorus]\n지금은 둘 다\n똑같이 무릎이 아프다\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기까지 온 게 대단한 거지\n\n[Verse 2]\n사장님이 문 닫는다고 하네\n우리가 마지막 손님이래\n삼십 년 단골한테\n그런 말을 하면 어떡해\n\n[Sax Solo]\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기 같이 있는 게 대단한 거지\n\n[Outro]\n한 잔 더\n한 잔 더",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 120,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Korean trot. Electric organ carrying the melody, a saxophone answering every line, a shuffling drum machine with the characteristic bouncing bass, tambourine. A male lead sings with the wide vibrato and bent-note ornamentation of trot, projecting hard, playful and a little theatrical. Retro nightclub keyboard sheen, warm analog saturation. 120 BPM, D minor. Bouncy, boisterous, sentimental underneath. no western pop, no EDM.",
+    "lyrics": "[Intro - Organ & Sax]\n\n[Verse 1]\n막걸리 한 잔에 사십 년이\n주르륵 쏟아져 나온다\n너는 그때 축구를 잘했고\n나는 그때 공부를 못했지\n\n[Pre-Chorus]\n지금은 둘 다\n똑같이 무릎이 아프다\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기까지 온 게 대단한 거지\n\n[Verse 2]\n사장님이 문 닫는다고 하네\n우리가 마지막 손님이래\n삼십 년 단골한테\n그런 말을 하면 어떡해\n\n[Sax Solo]\n\n[Chorus]\n한 잔 더 한 잔 더\n내일 일은 내일 걱정하고\n우리가 뭐 대단한 거 했나\n여기 같이 있는 게 대단한 거지\n\n[Outro]\n한 잔 더\n한 잔 더"
+   },
+   "seed": "3590900894",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 71.26s**\n- 71.26s per song\n- LM phase (1 song): 12.28s\n- DiT phase (1 song): 58.98s",
+   "task_id": "70006366-da98-4019-b07a-aabc1179ae4e",
+   "elapsed_s": 90.4,
+   "generated_at": "2026-09-24T10:05:50.497697+08:00",
+   "audio": "sc_ko03.mp3",
+   "lyrics_timed": [
+    {
+     "t": 28.48,
+     "end": 28.48,
+     "text": "[Intro - Organ & Sax]"
+    },
+    {
+     "t": 28.48,
+     "end": 28.48,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 28.48,
+     "end": 31.44,
+     "text": "막걸리 한 잔에 사십 년이"
+    },
+    {
+     "t": 36.56,
+     "end": 38.99,
+     "text": "주르륵 쏟아져 나온다"
+    },
+    {
+     "t": 39.01,
+     "end": 40.13,
+     "text": "너는 그때 축구를 잘했고"
+    },
+    {
+     "t": 40.13,
+     "end": 44.31,
+     "text": "나는 그때 공부를 못했지"
+    },
+    {
+     "t": 44.45,
+     "end": 44.45,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 44.45,
+     "end": 46.05,
+     "text": "지금은 둘 다"
+    },
+    {
+     "t": 48.11,
+     "end": 50.85,
+     "text": "똑같이 무릎이 아프다"
+    },
+    {
+     "t": 50.95,
+     "end": 50.95,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 50.95,
+     "end": 51.37,
+     "text": "한 잔 더 한 잔 더"
+    },
+    {
+     "t": 51.39,
+     "end": 54.63,
+     "text": "내일 일은 내일 걱정하고"
+    },
+    {
+     "t": 58.37,
+     "end": 61.89,
+     "text": "우리가 뭐 대단한 거 했나"
+    },
+    {
+     "t": 62.59,
+     "end": 66.25,
+     "text": "여기까지 온 게 대단한 거지"
+    },
+    {
+     "t": 70.35,
+     "end": 70.35,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 70.35,
+     "end": 74.07,
+     "text": "사장님이 문 닫는다고 하네"
+    },
+    {
+     "t": 74.81,
+     "end": 77.57,
+     "text": "우리가 마지막 손님이래"
+    },
+    {
+     "t": 77.83,
+     "end": 92.91,
+     "text": "삼십 년 단골한테"
+    },
+    {
+     "t": 93.09,
+     "end": 107.41,
+     "text": "그런 말을 하면 어떡해"
+    },
+    {
+     "t": 107.41,
+     "end": 107.41,
+     "text": "[Sax Solo]"
+    },
+    {
+     "t": 107.41,
+     "end": 107.41,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 107.41,
+     "end": 110.05,
+     "text": "한 잔 더 한 잔 더"
+    },
+    {
+     "t": 110.15,
+     "end": 111.29,
+     "text": "내일 일은 내일 걱정하고"
+    },
+    {
+     "t": 111.41,
+     "end": 114.59,
+     "text": "우리가 뭐 대단한 거 했나"
+    },
+    {
+     "t": 115.49,
+     "end": 120.2,
+     "text": "여기 같이 있는 게 대단한 거지"
+    },
+    {
+     "t": 124.88,
+     "end": 124.88,
+     "text": "[Outro]"
+    },
+    {
+     "t": 124.88,
+     "end": 128.98,
+     "text": "한 잔 더"
+    },
+    {
+     "t": 132.12,
+     "end": 136.3,
+     "text": "한 잔 더"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko04",
+   "title": "옥탑방",
+   "title_source": "scripted",
+   "genre": "indie rock",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "hazy and sunlit",
+   "persona": "",
+   "subject": "a rooftop room",
+   "caption": "Korean indie rock, bedroom-leaning. Two jangly clean electric guitars with chorus pedals, soft bass, brushed kit, one analog synth pad. A young male tenor sings conversationally and unpolished, close-miked, doubling himself loosely on the chorus with no tuning. Dusty vinyl texture, lo-fi intimacy, warm and small. 112 BPM, A major. Hazy, fond, a little resigned.",
+   "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n옥탑방은 여름에 덥고\n겨울에는 더 춥고\n대신 하늘이 통째로\n내 거야\n\n[Pre-Chorus]\n계단 오십 개가\n집세를 깎아줬어\n\n[Chorus]\n옥탑방 옥탑방\n여기서 이십 대를 다 썼네\n나중에 좋은 집에 살아도\n이 옥상은 없을 거야\n\n[Verse 2]\n빨래가 한 시간이면 마르고\n여름엔 여기서 밥을 먹어\n앞집 아저씨가 인사를 해\n이름은 아직도 몰라\n\n[Guitar Solo]\n\n[Chorus]\n옥탑방 옥탑방\n여기서 이십 대를 다 썼네\n나중에 좋은 집에 살아도\n이 하늘은 없을 거야\n\n[Outro]\n없을 거야\n없을 거야",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 112,
+    "duration": 150.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Korean indie rock, bedroom-leaning. Two jangly clean electric guitars with chorus pedals, soft bass, brushed kit, one analog synth pad. A young male tenor sings conversationally and unpolished, close-miked, doubling himself loosely on the chorus with no tuning. Dusty vinyl texture, lo-fi intimacy, warm and small. 112 BPM, A major. Hazy, fond, a little resigned.",
+    "lyrics": "[Intro - Guitars]\n\n[Verse 1]\n옥탑방은 여름에 덥고\n겨울에는 더 춥고\n대신 하늘이 통째로\n내 거야\n\n[Pre-Chorus]\n계단 오십 개가\n집세를 깎아줬어\n\n[Chorus]\n옥탑방 옥탑방\n여기서 이십 대를 다 썼네\n나중에 좋은 집에 살아도\n이 옥상은 없을 거야\n\n[Verse 2]\n빨래가 한 시간이면 마르고\n여름엔 여기서 밥을 먹어\n앞집 아저씨가 인사를 해\n이름은 아직도 몰라\n\n[Guitar Solo]\n\n[Chorus]\n옥탑방 옥탑방\n여기서 이십 대를 다 썼네\n나중에 좋은 집에 살아도\n이 하늘은 없을 거야\n\n[Outro]\n없을 거야\n없을 거야"
+   },
+   "seed": "3945578311",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 89.75s**\n- 89.75s per song\n- LM phase (1 song): 16.08s\n- DiT phase (1 song): 73.67s",
+   "task_id": "5530f07c-9a1d-4925-bdcb-0fa767702c8d",
+   "elapsed_s": 113.8,
+   "generated_at": "2026-09-24T10:07:44.280813+08:00",
+   "audio": "sc_ko04.mp3",
+   "lyrics_timed": [
+    {
+     "t": 18.9,
+     "end": 18.9,
+     "text": "[Intro - Guitars]"
+    },
+    {
+     "t": 18.9,
+     "end": 18.9,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 18.9,
+     "end": 22.06,
+     "text": "옥탑방은 여름에 덥고"
+    },
+    {
+     "t": 23.76,
+     "end": 26.26,
+     "text": "겨울에는 더 춥고"
+    },
+    {
+     "t": 26.32,
+     "end": 28.32,
+     "text": "대신 하늘이 통째로"
+    },
+    {
+     "t": 28.38,
+     "end": 28.62,
+     "text": "내 거야"
+    },
+    {
+     "t": 28.78,
+     "end": 28.78,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 28.78,
+     "end": 30.48,
+     "text": "계단 오십 개가"
+    },
+    {
+     "t": 32.14,
+     "end": 35.3,
+     "text": "집세를 깎아줬어"
+    },
+    {
+     "t": 36.52,
+     "end": 36.52,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 36.52,
+     "end": 39.71,
+     "text": "옥탑방 옥탑방"
+    },
+    {
+     "t": 41.17,
+     "end": 44.17,
+     "text": "여기서 이십 대를 다 썼네"
+    },
+    {
+     "t": 45.09,
+     "end": 47.99,
+     "text": "나중에 좋은 집에 살아도"
+    },
+    {
+     "t": 49.91,
+     "end": 52.57,
+     "text": "이 옥상은 없을 거야"
+    },
+    {
+     "t": 56.31,
+     "end": 56.31,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 56.31,
+     "end": 59.65,
+     "text": "빨래가 한 시간이면 마르고"
+    },
+    {
+     "t": 60.63,
+     "end": 63.61,
+     "text": "여름엔 여기서 밥을 먹어"
+    },
+    {
+     "t": 65.39,
+     "end": 68.11,
+     "text": "앞집 아저씨가 인사를 해"
+    },
+    {
+     "t": 69.37,
+     "end": 72.29,
+     "text": "이름은 아직도 몰라"
+    },
+    {
+     "t": 74.63,
+     "end": 74.63,
+     "text": "[Guitar Solo]"
+    },
+    {
+     "t": 74.63,
+     "end": 74.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 74.63,
+     "end": 93.65,
+     "text": "옥탑방 옥탑방"
+    },
+    {
+     "t": 94.83,
+     "end": 98.15,
+     "text": "여기서 이십 대를 다 썼네"
+    },
+    {
+     "t": 99.07,
+     "end": 101.97,
+     "text": "나중에 좋은 집에 살아도"
+    },
+    {
+     "t": 103.63,
+     "end": 106.27,
+     "text": "이 하늘은 없을 거야"
+    },
+    {
+     "t": 109.29,
+     "end": 109.29,
+     "text": "[Outro]"
+    },
+    {
+     "t": 109.29,
+     "end": 110.49,
+     "text": "없을 거야"
+    },
+    {
+     "t": 124.42,
+     "end": 133.98,
+     "text": "없을 거야"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko05",
+   "title": "세 시의 너",
+   "title_source": "scripted",
+   "genre": "neo-soul",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "warm and intimate",
+   "persona": "",
+   "subject": "a phone call at three in the morning",
+   "caption": "Korean R&B, neo-soul leaning. Rhodes electric piano with extended voicings, brushed drums, upright double bass walking loosely, a muted trumpet in the second verse. A husky female lead sings conversationally with melismatic runs and opens from a near-whisper into a full belt on the last chorus. Warm analog saturation, plate reverb, close and unhurried. 86 BPM, E-flat major. Intimate, late, generous. no pop, no EDM.",
+   "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n새벽 세 시에 전화가 와\n네 번호인 걸 알면서도\n한참 보다가 받았어\n받을 줄 알았으면서\n\n[Pre-Chorus]\n용건은 없다고 했지\n나도 없었어\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간이 무서워\n\n[Verse 2]\n숨소리만 들리는 시간이\n말보다 길었는데\n어색하지 않았어\n그게 제일 무서웠어\n\n[Trumpet Solo]\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간을 기다려\n\n[Outro]\n끊지 마\n끊지 마",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 86,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "E flat major",
+    "timesignature": "4",
+    "prompt": "Korean R&B, neo-soul leaning. Rhodes electric piano with extended voicings, brushed drums, upright double bass walking loosely, a muted trumpet in the second verse. A husky female lead sings conversationally with melismatic runs and opens from a near-whisper into a full belt on the last chorus. Warm analog saturation, plate reverb, close and unhurried. 86 BPM, E-flat major. Intimate, late, generous. no pop, no EDM.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n새벽 세 시에 전화가 와\n네 번호인 걸 알면서도\n한참 보다가 받았어\n받을 줄 알았으면서\n\n[Pre-Chorus]\n용건은 없다고 했지\n나도 없었어\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간이 무서워\n\n[Verse 2]\n숨소리만 들리는 시간이\n말보다 길었는데\n어색하지 않았어\n그게 제일 무서웠어\n\n[Trumpet Solo]\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간을 기다려\n\n[Outro]\n끊지 마\n끊지 마"
+   },
+   "seed": "3528919189",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 68.40s**\n- 68.40s per song\n- LM phase (1 song): 17.66s\n- DiT phase (1 song): 50.74s",
+   "task_id": "3a50cb50-243a-4971-8f09-9da8299d6f29",
+   "elapsed_s": 90.1,
+   "generated_at": "2026-09-24T10:09:14.382090+08:00",
+   "audio": "sc_ko05.mp3",
+   "lyrics_timed": [
+    {
+     "t": 11.84,
+     "end": 11.84,
+     "text": "[Intro - Rhodes]"
+    },
+    {
+     "t": 11.84,
+     "end": 11.84,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 11.84,
+     "end": 21.44,
+     "text": "새벽 세 시에 전화가 와"
+    },
+    {
+     "t": 22.0,
+     "end": 37.76,
+     "text": "네 번호인 걸 알면서도"
+    },
+    {
+     "t": 37.76,
+     "end": 38.46,
+     "text": "한참 보다가 받았어"
+    },
+    {
+     "t": 38.46,
+     "end": 41.45,
+     "text": "받을 줄 알았으면서"
+    },
+    {
+     "t": 41.45,
+     "end": 41.45,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 41.45,
+     "end": 44.07,
+     "text": "용건은 없다고 했지"
+    },
+    {
+     "t": 44.45,
+     "end": 46.33,
+     "text": "나도 없었어"
+    },
+    {
+     "t": 47.87,
+     "end": 47.87,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 47.87,
+     "end": 49.57,
+     "text": "세 시의 너는"
+    },
+    {
+     "t": 53.15,
+     "end": 57.21,
+     "text": "낮의 너보다 솔직해"
+    },
+    {
+     "t": 57.23,
+     "end": 57.83,
+     "text": "나도 그래"
+    },
+    {
+     "t": 58.79,
+     "end": 63.15,
+     "text": "그래서 이 시간이 무서워"
+    },
+    {
+     "t": 74.99,
+     "end": 74.99,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 74.99,
+     "end": 77.37,
+     "text": "숨소리만 들리는 시간이"
+    },
+    {
+     "t": 78.59,
+     "end": 80.51,
+     "text": "말보다 길었는데"
+    },
+    {
+     "t": 85.75,
+     "end": 88.35,
+     "text": "어색하지 않았어"
+    },
+    {
+     "t": 88.39,
+     "end": 122.2,
+     "text": "그게 제일 무서웠어"
+    },
+    {
+     "t": 122.42,
+     "end": 122.42,
+     "text": "[Trumpet Solo]"
+    },
+    {
+     "t": 122.42,
+     "end": 122.42,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 122.42,
+     "end": 130.24,
+     "text": "세 시의 너는"
+    },
+    {
+     "t": 130.34,
+     "end": 136.16,
+     "text": "낮의 너보다 솔직해"
+    },
+    {
+     "t": 136.18,
+     "end": 141.18,
+     "text": "나도 그래"
+    },
+    {
+     "t": 141.28,
+     "end": 145.34,
+     "text": "그래서 이 시간을 기다려"
+    },
+    {
+     "t": 146.6,
+     "end": 146.6,
+     "text": "[Outro]"
+    },
+    {
+     "t": 146.6,
+     "end": 147.32,
+     "text": "끊지 마"
+    },
+    {
+     "t": 152.22,
+     "end": 152.98,
+     "text": "끊지 마"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko06",
+   "title": "반지하",
+   "title_source": "scripted",
+   "genre": "trap",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "restless and urgent",
+   "persona": "",
+   "subject": "a semi-basement flat",
+   "caption": "Korean hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched gayageum sample under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Korean with doubled ad-libs and a sung hook. Clean modern mixing, punchy low end, tight and dry. 138 BPM, B minor. Sharp, unsentimental.",
+   "lyrics": "[Intro]\n(반지하)\n\n[Verse 1]\n창문이 천장 높이에 있어\n사람 발만 보이는 방\n비 오는 날은 기도를 해\n신은 안 믿지만 물은 믿어\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Verse 2]\n엄마는 여기 와본 적 없어\n사진도 안 보내\n잘 지낸다고만 해\n거짓말은 아니야 진짜로\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Bridge - spoken]\n곧 올라갈 거야\n곧\n\n[Outro]\n(반지하)\n(반지하)",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 138,
+    "duration": 135.0,
+    "genres": "N/A",
+    "keyscale": "B minor",
+    "timesignature": "4",
+    "prompt": "Korean hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched gayageum sample under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Korean with doubled ad-libs and a sung hook. Clean modern mixing, punchy low end, tight and dry. 138 BPM, B minor. Sharp, unsentimental.",
+    "lyrics": "[Intro]\n(반지하)\n\n[Verse 1]\n창문이 천장 높이에 있어\n사람 발만 보이는 방\n비 오는 날은 기도를 해\n신은 안 믿지만 물은 믿어\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Verse 2]\n엄마는 여기 와본 적 없어\n사진도 안 보내\n잘 지낸다고만 해\n거짓말은 아니야 진짜로\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Bridge - spoken]\n곧 올라갈 거야\n곧\n\n[Outro]\n(반지하)\n(반지하)"
+   },
+   "seed": "1486235453",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 62.42s**\n- 62.42s per song\n- LM phase (1 song): 16.38s\n- DiT phase (1 song): 46.04s",
+   "task_id": "57790c62-8251-489e-9a41-6eeef36907a7",
+   "elapsed_s": 80.2,
+   "generated_at": "2026-09-24T10:10:34.574524+08:00",
+   "audio": "sc_ko06.mp3",
+   "lyrics_timed": [
+    {
+     "t": 14.84,
+     "end": 14.84,
+     "text": "[Intro]"
+    },
+    {
+     "t": 14.84,
+     "end": 15.38,
+     "text": "(반지하)"
+    },
+    {
+     "t": 28.5,
+     "end": 28.5,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 28.5,
+     "end": 31.1,
+     "text": "창문이 천장 높이에 있어"
+    },
+    {
+     "t": 31.6,
+     "end": 33.77,
+     "text": "사람 발만 보이는 방"
+    },
+    {
+     "t": 35.61,
+     "end": 38.15,
+     "text": "비 오는 날은 기도를 해"
+    },
+    {
+     "t": 38.21,
+     "end": 42.77,
+     "text": "신은 안 믿지만 물은 믿어"
+    },
+    {
+     "t": 43.07,
+     "end": 43.07,
+     "text": "[Hook]"
+    },
+    {
+     "t": 43.07,
+     "end": 44.49,
+     "text": "반지하 반지하"
+    },
+    {
+     "t": 46.17,
+     "end": 48.97,
+     "text": "반은 땅 위 반은 아래"
+    },
+    {
+     "t": 49.69,
+     "end": 50.93,
+     "text": "나도 그래 반은 여기"
+    },
+    {
+     "t": 51.89,
+     "end": 54.65,
+     "text": "나머지 반은 아직 안 왔어"
+    },
+    {
+     "t": 55.27,
+     "end": 55.27,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 55.27,
+     "end": 59.75,
+     "text": "엄마는 여기 와본 적 없어"
+    },
+    {
+     "t": 62.49,
+     "end": 64.79,
+     "text": "사진도 안 보내"
+    },
+    {
+     "t": 66.01,
+     "end": 68.13,
+     "text": "잘 지낸다고만 해"
+    },
+    {
+     "t": 69.55,
+     "end": 71.39,
+     "text": "거짓말은 아니야 진짜로"
+    },
+    {
+     "t": 71.41,
+     "end": 71.41,
+     "text": "[Hook]"
+    },
+    {
+     "t": 71.41,
+     "end": 72.11,
+     "text": "반지하 반지하"
+    },
+    {
+     "t": 72.25,
+     "end": 90.99,
+     "text": "반은 땅 위 반은 아래"
+    },
+    {
+     "t": 90.99,
+     "end": 96.67,
+     "text": "나도 그래 반은 여기"
+    },
+    {
+     "t": 100.71,
+     "end": 123.46,
+     "text": "나머지 반은 아직 안 왔어"
+    },
+    {
+     "t": 123.84,
+     "end": 123.84,
+     "text": "[Bridge - spoken]"
+    },
+    {
+     "t": 123.84,
+     "end": 126.18,
+     "text": "곧 올라갈 거야"
+    },
+    {
+     "t": 126.44,
+     "end": 126.5,
+     "text": "곧"
+    },
+    {
+     "t": 126.5,
+     "end": 126.5,
+     "text": "[Outro]"
+    },
+    {
+     "t": 126.5,
+     "end": 127.46,
+     "text": "(반지하)"
+    },
+    {
+     "t": 128.24,
+     "end": 129.22,
+     "text": "(반지하)"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko07",
+   "title": "한강의 밤",
+   "title_source": "scripted",
+   "genre": "city pop",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "wistful and nocturnal",
+   "persona": "",
+   "subject": "the river at night",
+   "caption": "Korean city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano, slap bass, warm analog synth pads and a synth-brass hit on the chorus, gated snare. A smooth male tenor sings laid-back behind the beat and lifts into falsetto on the hook, with light stacked harmonies. Warm analog saturation, wide stereo image. 102 BPM, E-flat major. Nostalgic, breezy, night-lit. no modern EDM, no trap hats.",
+   "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n한강에 앉으면\n서울이 조용해져\n뒤에서는 차가 달리는데\n앞에서는 물만 흘러\n\n[Pre-Chorus]\n여기만 시간이\n다르게 가는 것 같아\n\n[Chorus]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자인 채로 같이 있어\n\n[Verse 2]\n치킨 상자를 들고\n한 무리가 지나가\n웃음소리가 물 위로\n오래 남아\n\n[Synth Solo]\n\n[Chorus - falsetto]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자가 아닌 척 앉아 있어\n\n[Outro]\n조금만 더\n조금만 더",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 102,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "E flat major",
+    "timesignature": "4",
+    "prompt": "Korean city pop. Funky sixteenth-note rhythm guitar, Rhodes electric piano, slap bass, warm analog synth pads and a synth-brass hit on the chorus, gated snare. A smooth male tenor sings laid-back behind the beat and lifts into falsetto on the hook, with light stacked harmonies. Warm analog saturation, wide stereo image. 102 BPM, E-flat major. Nostalgic, breezy, night-lit. no modern EDM, no trap hats.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n한강에 앉으면\n서울이 조용해져\n뒤에서는 차가 달리는데\n앞에서는 물만 흘러\n\n[Pre-Chorus]\n여기만 시간이\n다르게 가는 것 같아\n\n[Chorus]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자인 채로 같이 있어\n\n[Verse 2]\n치킨 상자를 들고\n한 무리가 지나가\n웃음소리가 물 위로\n오래 남아\n\n[Synth Solo]\n\n[Chorus - falsetto]\n한강의 밤은\n아무것도 묻지 않아\n그래서 다들 여기 앉아\n혼자가 아닌 척 앉아 있어\n\n[Outro]\n조금만 더\n조금만 더"
+   },
+   "seed": "1999423795",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 74.44s**\n- 74.44s per song\n- LM phase (1 song): 13.78s\n- DiT phase (1 song): 60.66s",
+   "task_id": "219c63e6-7a90-4b52-91a5-05901a905e71",
+   "elapsed_s": 91.6,
+   "generated_at": "2026-09-24T10:12:06.193579+08:00",
+   "audio": "sc_ko07.mp3",
+   "lyrics_timed": [
+    {
+     "t": 7.28,
+     "end": 7.28,
+     "text": "[Intro - Rhodes]"
+    },
+    {
+     "t": 7.28,
+     "end": 7.28,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 7.28,
+     "end": 26.9,
+     "text": "한강에 앉으면"
+    },
+    {
+     "t": 31.08,
+     "end": 36.3,
+     "text": "서울이 조용해져"
+    },
+    {
+     "t": 36.36,
+     "end": 38.92,
+     "text": "뒤에서는 차가 달리는데"
+    },
+    {
+     "t": 39.04,
+     "end": 40.93,
+     "text": "앞에서는 물만 흘러"
+    },
+    {
+     "t": 41.09,
+     "end": 41.09,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 41.09,
+     "end": 46.91,
+     "text": "여기만 시간이"
+    },
+    {
+     "t": 48.43,
+     "end": 50.67,
+     "text": "다르게 가는 것 같아"
+    },
+    {
+     "t": 54.61,
+     "end": 54.61,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 54.61,
+     "end": 56.13,
+     "text": "한강의 밤은"
+    },
+    {
+     "t": 57.95,
+     "end": 60.21,
+     "text": "아무것도 묻지 않아"
+    },
+    {
+     "t": 61.67,
+     "end": 65.05,
+     "text": "그래서 다들 여기 앉아"
+    },
+    {
+     "t": 66.97,
+     "end": 73.25,
+     "text": "혼자인 채로 같이 있어"
+    },
+    {
+     "t": 73.39,
+     "end": 73.39,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 73.39,
+     "end": 105.93,
+     "text": "치킨 상자를 들고"
+    },
+    {
+     "t": 106.11,
+     "end": 111.23,
+     "text": "한 무리가 지나가"
+    },
+    {
+     "t": 111.29,
+     "end": 114.63,
+     "text": "웃음소리가 물 위로"
+    },
+    {
+     "t": 114.65,
+     "end": 115.65,
+     "text": "오래 남아"
+    },
+    {
+     "t": 115.85,
+     "end": 115.85,
+     "text": "[Synth Solo]"
+    },
+    {
+     "t": 115.85,
+     "end": 115.85,
+     "text": "[Chorus - falsetto]"
+    },
+    {
+     "t": 115.85,
+     "end": 123.2,
+     "text": "한강의 밤은"
+    },
+    {
+     "t": 123.32,
+     "end": 125.36,
+     "text": "아무것도 묻지 않아"
+    },
+    {
+     "t": 125.4,
+     "end": 132.42,
+     "text": "그래서 다들 여기 앉아"
+    },
+    {
+     "t": 132.88,
+     "end": 137.08,
+     "text": "혼자가 아닌 척 앉아 있어"
+    },
+    {
+     "t": 138.96,
+     "end": 138.96,
+     "text": "[Outro]"
+    },
+    {
+     "t": 138.96,
+     "end": 139.84,
+     "text": "조금만 더"
+    },
+    {
+     "t": 145.4,
+     "end": 147.6,
+     "text": "조금만 더"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko08",
+   "title": "장독대",
+   "title_source": "scripted",
+   "genre": "gugak fusion",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "quiet and reflective",
+   "persona": "",
+   "subject": "the row of jars behind a house",
+   "caption": "Korean gugak fusion. Gayageum zither opens alone with its characteristic bending of pitch after the pluck, daegeum bamboo flute answers, janggu hourglass drum marks the chorus, all over a modern string arrangement. A female voice sings with the wide vibrato and bent phrasing of Korean folk singing, ornamenting the ends of lines. Wide stereo image, cavernous reverb tails. 74 BPM, A minor pentatonic. Grave, rooted. no western pop, no synth.",
+   "lyrics": "[Intro - Gayageum]\n\n[Verse 1]\n장독대에 항아리가 일곱\n할머니가 여섯 개까지 셌어\n일곱 번째는 안 세\n그건 어머니 거니까\n\n[Pre-Chorus]\n뚜껑을 열면\n삼 년 전 여름 냄새\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람은 그냥 멀어지더라\n\n[Verse 2]\n비 오면 뚜껑을 덮고\n해 나면 다시 열고\n그게 다인 일을\n평생 하신 분이 있었어\n\n[Daegeum Solo]\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람도 그런 건지도 몰라\n\n[Outro]\n일곱 개\n일곱 개",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 74,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "A minor pentatonic",
+    "timesignature": "4",
+    "prompt": "Korean gugak fusion. Gayageum zither opens alone with its characteristic bending of pitch after the pluck, daegeum bamboo flute answers, janggu hourglass drum marks the chorus, all over a modern string arrangement. A female voice sings with the wide vibrato and bent phrasing of Korean folk singing, ornamenting the ends of lines. Wide stereo image, cavernous reverb tails. 74 BPM, A minor pentatonic. Grave, rooted. no western pop, no synth.",
+    "lyrics": "[Intro - Gayageum]\n\n[Verse 1]\n장독대에 항아리가 일곱\n할머니가 여섯 개까지 셌어\n일곱 번째는 안 세\n그건 어머니 거니까\n\n[Pre-Chorus]\n뚜껑을 열면\n삼 년 전 여름 냄새\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람은 그냥 멀어지더라\n\n[Verse 2]\n비 오면 뚜껑을 덮고\n해 나면 다시 열고\n그게 다인 일을\n평생 하신 분이 있었어\n\n[Daegeum Solo]\n\n[Chorus]\n담가둔 것들은\n기다릴수록 깊어진대\n사람도 그러면 좋을 텐데\n사람도 그런 건지도 몰라\n\n[Outro]\n일곱 개\n일곱 개"
+   },
+   "seed": "697313547",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 68.73s**\n- 68.73s per song\n- LM phase (1 song): 14.15s\n- DiT phase (1 song): 54.58s",
+   "task_id": "c1897ca6-d6fe-43da-a1f7-184eaad65c4b",
+   "elapsed_s": 90.1,
+   "generated_at": "2026-09-24T10:13:36.275876+08:00",
+   "audio": "sc_ko08.mp3",
+   "lyrics_timed": [
+    {
+     "t": 9.2,
+     "end": 9.2,
+     "text": "[Intro - Gayageum]"
+    },
+    {
+     "t": 9.2,
+     "end": 9.2,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 9.2,
+     "end": 13.56,
+     "text": "장독대에 항아리가 일곱"
+    },
+    {
+     "t": 15.56,
+     "end": 32.08,
+     "text": "할머니가 여섯 개까지 셌어"
+    },
+    {
+     "t": 36.86,
+     "end": 40.08,
+     "text": "일곱 번째는 안 세"
+    },
+    {
+     "t": 43.01,
+     "end": 46.03,
+     "text": "그건 어머니 거니까"
+    },
+    {
+     "t": 47.09,
+     "end": 47.09,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 47.09,
+     "end": 52.17,
+     "text": "뚜껑을 열면"
+    },
+    {
+     "t": 52.63,
+     "end": 56.11,
+     "text": "삼 년 전 여름 냄새"
+    },
+    {
+     "t": 59.49,
+     "end": 59.49,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 59.49,
+     "end": 62.13,
+     "text": "담가둔 것들은"
+    },
+    {
+     "t": 62.15,
+     "end": 63.71,
+     "text": "기다릴수록 깊어진대"
+    },
+    {
+     "t": 63.71,
+     "end": 66.81,
+     "text": "사람도 그러면 좋을 텐데"
+    },
+    {
+     "t": 68.99,
+     "end": 73.07,
+     "text": "사람은 그냥 멀어지더라"
+    },
+    {
+     "t": 77.05,
+     "end": 77.05,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 77.05,
+     "end": 79.37,
+     "text": "비 오면 뚜껑을 덮고"
+    },
+    {
+     "t": 80.41,
+     "end": 82.55,
+     "text": "해 나면 다시 열고"
+    },
+    {
+     "t": 84.71,
+     "end": 86.57,
+     "text": "그게 다인 일을"
+    },
+    {
+     "t": 87.07,
+     "end": 89.43,
+     "text": "평생 하신 분이 있었어"
+    },
+    {
+     "t": 123.59,
+     "end": 123.59,
+     "text": "[Daegeum Solo]"
+    },
+    {
+     "t": 123.59,
+     "end": 123.59,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 123.59,
+     "end": 125.87,
+     "text": "담가둔 것들은"
+    },
+    {
+     "t": 126.77,
+     "end": 129.68,
+     "text": "기다릴수록 깊어진대"
+    },
+    {
+     "t": 129.92,
+     "end": 132.9,
+     "text": "사람도 그러면 좋을 텐데"
+    },
+    {
+     "t": 133.86,
+     "end": 137.64,
+     "text": "사람도 그런 건지도 몰라"
+    },
+    {
+     "t": 141.92,
+     "end": 141.92,
+     "text": "[Outro]"
+    },
+    {
+     "t": 141.92,
+     "end": 149.92,
+     "text": "일곱 개"
+    },
+    {
+     "t": 152.28,
+     "end": 153.98,
+     "text": "일곱 개"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko09",
+   "title": "우산 두 개",
+   "title_source": "scripted",
+   "genre": "folk",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "quiet and reflective",
+   "persona": "",
+   "subject": "two umbrellas by the door",
+   "caption": "Korean folk, almost entirely acoustic. Fingerpicked steel-string guitar, upright bass entering in the second verse, brushed percussion, a single cello line under the bridge. A soft male tenor sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless female harmony joining the final chorus. Tape saturation, no reverb on the lead vocal. 76 BPM, D major. Tender, plain, unsentimental.",
+   "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n현관에 우산이 두 개\n하나는 내 거\n하나는 삼 년째 그대로\n비 오는 날마다 본다\n\n[Pre-Chorus]\n버리면 되는데\n버리면 되는데\n\n[Chorus]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n집을 지키는 것 같아서\n\n[Verse 2]\n손잡이에 네 손 모양이\n아직 남아 있는 것 같아\n그럴 리 없는데\n그렇게 보여\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n나를 지키는 것 같아서\n\n[Outro]\n그대로 둘게\n그대로 둘게",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 76,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean folk, almost entirely acoustic. Fingerpicked steel-string guitar, upright bass entering in the second verse, brushed percussion, a single cello line under the bridge. A soft male tenor sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless female harmony joining the final chorus. Tape saturation, no reverb on the lead vocal. 76 BPM, D major. Tender, plain, unsentimental.",
+    "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n현관에 우산이 두 개\n하나는 내 거\n하나는 삼 년째 그대로\n비 오는 날마다 본다\n\n[Pre-Chorus]\n버리면 되는데\n버리면 되는데\n\n[Chorus]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n집을 지키는 것 같아서\n\n[Verse 2]\n손잡이에 네 손 모양이\n아직 남아 있는 것 같아\n그럴 리 없는데\n그렇게 보여\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n나를 지키는 것 같아서\n\n[Outro]\n그대로 둘게\n그대로 둘게"
+   },
+   "seed": "2732399867",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 61.93s**\n- 61.93s per song\n- LM phase (1 song): 11.15s\n- DiT phase (1 song): 50.78s",
+   "task_id": "40399bf2-3103-4b33-8d86-ff59a01ed1a7",
+   "elapsed_s": 80.2,
+   "generated_at": "2026-09-24T10:14:56.447949+08:00",
+   "audio": "sc_ko09.mp3",
+   "lyrics_timed": [
+    {
+     "t": 2.24,
+     "end": 2.24,
+     "text": "[Intro - Fingerpicked Guitar]"
+    },
+    {
+     "t": 2.24,
+     "end": 2.24,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 2.24,
+     "end": 14.02,
+     "text": "현관에 우산이 두 개"
+    },
+    {
+     "t": 16.26,
+     "end": 29.28,
+     "text": "하나는 내 거"
+    },
+    {
+     "t": 29.4,
+     "end": 31.0,
+     "text": "하나는 삼 년째 그대로"
+    },
+    {
+     "t": 31.0,
+     "end": 32.64,
+     "text": "비 오는 날마다 본다"
+    },
+    {
+     "t": 34.26,
+     "end": 34.26,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 34.26,
+     "end": 37.34,
+     "text": "버리면 되는데"
+    },
+    {
+     "t": 37.34,
+     "end": 40.59,
+     "text": "버리면 되는데"
+    },
+    {
+     "t": 40.59,
+     "end": 40.59,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 40.59,
+     "end": 43.03,
+     "text": "우산 두 개"
+    },
+    {
+     "t": 43.21,
+     "end": 44.03,
+     "text": "하나만 쓰고 나가"
+    },
+    {
+     "t": 44.05,
+     "end": 45.45,
+     "text": "남은 하나가"
+    },
+    {
+     "t": 45.45,
+     "end": 49.51,
+     "text": "집을 지키는 것 같아서"
+    },
+    {
+     "t": 56.33,
+     "end": 56.33,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 56.33,
+     "end": 61.83,
+     "text": "손잡이에 네 손 모양이"
+    },
+    {
+     "t": 63.55,
+     "end": 67.87,
+     "text": "아직 남아 있는 것 같아"
+    },
+    {
+     "t": 69.63,
+     "end": 71.77,
+     "text": "그럴 리 없는데"
+    },
+    {
+     "t": 73.19,
+     "end": 74.27,
+     "text": "그렇게 보여"
+    },
+    {
+     "t": 74.33,
+     "end": 74.33,
+     "text": "[Cello - Bridge]"
+    },
+    {
+     "t": 74.33,
+     "end": 74.33,
+     "text": "[Chorus - with harmony]"
+    },
+    {
+     "t": 74.33,
+     "end": 76.41,
+     "text": "우산 두 개"
+    },
+    {
+     "t": 76.65,
+     "end": 96.07,
+     "text": "하나만 쓰고 나가"
+    },
+    {
+     "t": 96.23,
+     "end": 102.31,
+     "text": "남은 하나가"
+    },
+    {
+     "t": 102.45,
+     "end": 124.96,
+     "text": "나를 지키는 것 같아서"
+    },
+    {
+     "t": 127.68,
+     "end": 127.68,
+     "text": "[Outro]"
+    },
+    {
+     "t": 127.68,
+     "end": 129.86,
+     "text": "그대로 둘게"
+    },
+    {
+     "t": 134.68,
+     "end": 136.42,
+     "text": "그대로 둘게"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "sc_ko10",
+   "title": "첫차",
+   "title_source": "scripted",
+   "genre": "gospel soul",
+   "language": "ko",
+   "language_name": "Korean",
+   "mood": "bright and hopeful",
+   "persona": "",
+   "subject": "the first bus of the morning",
+   "caption": "Gospel soul sung in Korean. Hammond organ through a rotating speaker, upright piano, bass, live kit, tambourine on the backbeat, hand claps. A powerful female lead sings with heavy melisma and full belting; a choir answers each line in call and response and stacks harmonies under the final chorus, which modulates up a semitone. Live-room bleed, gospel-room reverb. 94 BPM, A-flat major. Rising, communal. no pop, no EDM.",
+   "lyrics": "[Intro - Organ]\n\n[Verse 1]\n첫차에는 다 아는 얼굴들\n이름은 아무도 모르고\n같은 시간에 같은 자리\n십 년째 그렇게\n\n[Pre-Chorus]\n(아직) 아직\n(아직) 가는 중\n\n[Chorus]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 열심히 사는 사람들\n\n[Verse 2]\n기사님이 오늘도 인사해\n오늘은 춥네요 하고\n그 한 마디가\n하루를 견디게 해\n\n[Bridge - Choir]\n(같이 가) 같이 가\n(같이 가) 같이 가\n\n[Chorus - key change]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 먼저 웃는 사람들\n\n[Outro]\n같이 가\n같이 가",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "bpm": 94,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "A flat major",
+    "timesignature": "4",
+    "prompt": "Gospel soul sung in Korean. Hammond organ through a rotating speaker, upright piano, bass, live kit, tambourine on the backbeat, hand claps. A powerful female lead sings with heavy melisma and full belting; a choir answers each line in call and response and stacks harmonies under the final chorus, which modulates up a semitone. Live-room bleed, gospel-room reverb. 94 BPM, A-flat major. Rising, communal. no pop, no EDM.",
+    "lyrics": "[Intro - Organ]\n\n[Verse 1]\n첫차에는 다 아는 얼굴들\n이름은 아무도 모르고\n같은 시간에 같은 자리\n십 년째 그렇게\n\n[Pre-Chorus]\n(아직) 아직\n(아직) 가는 중\n\n[Chorus]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 열심히 사는 사람들\n\n[Verse 2]\n기사님이 오늘도 인사해\n오늘은 춥네요 하고\n그 한 마디가\n하루를 견디게 해\n\n[Bridge - Choir]\n(같이 가) 같이 가\n(같이 가) 같이 가\n\n[Chorus - key change]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 먼저 웃는 사람들\n\n[Outro]\n같이 가\n같이 가"
+   },
+   "seed": "3290191755",
+   "dit_model": "acestep-v15-turbo",
+   "generation_info": "**🎵 Total generation time (1 song): 71.12s**\n- 71.12s per song\n- LM phase (1 song): 15.43s\n- DiT phase (1 song): 55.69s",
+   "task_id": "e6413521-c2ce-42ab-b78e-0835a7b0e0f6",
+   "elapsed_s": 90.2,
+   "generated_at": "2026-09-24T10:16:26.617922+08:00",
+   "audio": "sc_ko10.mp3",
+   "lyrics_timed": [
+    {
+     "t": 25.78,
+     "end": 25.78,
+     "text": "[Intro - Organ]"
+    },
+    {
+     "t": 25.78,
+     "end": 25.78,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 25.78,
+     "end": 30.02,
+     "text": "첫차에는 다 아는 얼굴들"
+    },
+    {
+     "t": 31.48,
+     "end": 35.38,
+     "text": "이름은 아무도 모르고"
+    },
+    {
+     "t": 36.86,
+     "end": 40.46,
+     "text": "같은 시간에 같은 자리"
+    },
+    {
+     "t": 42.32,
+     "end": 43.73,
+     "text": "십 년째 그렇게"
+    },
+    {
+     "t": 43.73,
+     "end": 43.73,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 43.73,
+     "end": 44.55,
+     "text": "(아직) 아직"
+    },
+    {
+     "t": 44.55,
+     "end": 46.09,
+     "text": "(아직) 가는 중"
+    },
+    {
+     "t": 49.61,
+     "end": 49.61,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 49.61,
+     "end": 53.47,
+     "text": "첫차를 타는 사람들은"
+    },
+    {
+     "t": 54.83,
+     "end": 60.33,
+     "text": "하루를 두 번 사는 사람들"
+    },
+    {
+     "t": 60.41,
+     "end": 63.65,
+     "text": "아무도 안 보는 시간에"
+    },
+    {
+     "t": 65.11,
+     "end": 74.19,
+     "text": "제일 열심히 사는 사람들"
+    },
+    {
+     "t": 74.49,
+     "end": 74.49,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 74.49,
+     "end": 77.87,
+     "text": "기사님이 오늘도 인사해"
+    },
+    {
+     "t": 80.05,
+     "end": 82.07,
+     "text": "오늘은 춥네요 하고"
+    },
+    {
+     "t": 82.91,
+     "end": 84.29,
+     "text": "그 한 마디가"
+    },
+    {
+     "t": 84.81,
+     "end": 87.05,
+     "text": "하루를 견디게 해"
+    },
+    {
+     "t": 89.89,
+     "end": 89.89,
+     "text": "[Bridge - Choir]"
+    },
+    {
+     "t": 89.89,
+     "end": 93.25,
+     "text": "(같이 가) 같이 가"
+    },
+    {
+     "t": 95.97,
+     "end": 103.53,
+     "text": "(같이 가) 같이 가"
+    },
+    {
+     "t": 103.99,
+     "end": 103.99,
+     "text": "[Chorus - key change]"
+    },
+    {
+     "t": 103.99,
+     "end": 128.12,
+     "text": "첫차를 타는 사람들은"
+    },
+    {
+     "t": 128.44,
+     "end": 137.42,
+     "text": "하루를 두 번 사는 사람들"
+    },
+    {
+     "t": 137.52,
+     "end": 142.52,
+     "text": "아무도 안 보는 시간에"
+    },
+    {
+     "t": 142.52,
+     "end": 153.5,
+     "text": "제일 먼저 웃는 사람들"
+    },
+    {
+     "t": 153.58,
+     "end": 153.58,
+     "text": "[Outro]"
+    },
+    {
+     "t": 153.58,
+     "end": 157.68,
+     "text": "같이 가"
+    },
+    {
+     "t": 158.24,
+     "end": 166.5,
+     "text": "같이 가"
     }
    ],
    "lyrics_timed_by": "torchaudio MMS_FA forced alignment"

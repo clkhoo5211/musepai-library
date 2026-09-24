@@ -1,0 +1,174 @@
+{
+  "id": "sc_ko05",
+  "title": "세 시의 너",
+  "title_source": "scripted",
+  "genre": "neo-soul",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm and intimate",
+  "persona": "",
+  "subject": "a phone call at three in the morning",
+  "caption": "Korean R&B, neo-soul leaning. Rhodes electric piano with extended voicings, brushed drums, upright double bass walking loosely, a muted trumpet in the second verse. A husky female lead sings conversationally with melismatic runs and opens from a near-whisper into a full belt on the last chorus. Warm analog saturation, plate reverb, close and unhurried. 86 BPM, E-flat major. Intimate, late, generous. no pop, no EDM.",
+  "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n새벽 세 시에 전화가 와\n네 번호인 걸 알면서도\n한참 보다가 받았어\n받을 줄 알았으면서\n\n[Pre-Chorus]\n용건은 없다고 했지\n나도 없었어\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간이 무서워\n\n[Verse 2]\n숨소리만 들리는 시간이\n말보다 길었는데\n어색하지 않았어\n그게 제일 무서웠어\n\n[Trumpet Solo]\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간을 기다려\n\n[Outro]\n끊지 마\n끊지 마",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "E flat major",
+    "timesignature": "4",
+    "prompt": "Korean R&B, neo-soul leaning. Rhodes electric piano with extended voicings, brushed drums, upright double bass walking loosely, a muted trumpet in the second verse. A husky female lead sings conversationally with melismatic runs and opens from a near-whisper into a full belt on the last chorus. Warm analog saturation, plate reverb, close and unhurried. 86 BPM, E-flat major. Intimate, late, generous. no pop, no EDM.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n새벽 세 시에 전화가 와\n네 번호인 걸 알면서도\n한참 보다가 받았어\n받을 줄 알았으면서\n\n[Pre-Chorus]\n용건은 없다고 했지\n나도 없었어\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간이 무서워\n\n[Verse 2]\n숨소리만 들리는 시간이\n말보다 길었는데\n어색하지 않았어\n그게 제일 무서웠어\n\n[Trumpet Solo]\n\n[Chorus]\n세 시의 너는\n낮의 너보다 솔직해\n나도 그래\n그래서 이 시간을 기다려\n\n[Outro]\n끊지 마\n끊지 마"
+  },
+  "seed": "3528919189",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.40s**\n- 68.40s per song\n- LM phase (1 song): 17.66s\n- DiT phase (1 song): 50.74s",
+  "task_id": "3a50cb50-243a-4971-8f09-9da8299d6f29",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-09-24T10:09:14.382090+08:00",
+  "audio": "sc_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 11.84,
+      "end": 11.84,
+      "text": "[Intro - Rhodes]"
+    },
+    {
+      "t": 11.84,
+      "end": 11.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.84,
+      "end": 21.44,
+      "text": "새벽 세 시에 전화가 와"
+    },
+    {
+      "t": 22.0,
+      "end": 37.76,
+      "text": "네 번호인 걸 알면서도"
+    },
+    {
+      "t": 37.76,
+      "end": 38.46,
+      "text": "한참 보다가 받았어"
+    },
+    {
+      "t": 38.46,
+      "end": 41.45,
+      "text": "받을 줄 알았으면서"
+    },
+    {
+      "t": 41.45,
+      "end": 41.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.45,
+      "end": 44.07,
+      "text": "용건은 없다고 했지"
+    },
+    {
+      "t": 44.45,
+      "end": 46.33,
+      "text": "나도 없었어"
+    },
+    {
+      "t": 47.87,
+      "end": 47.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.87,
+      "end": 49.57,
+      "text": "세 시의 너는"
+    },
+    {
+      "t": 53.15,
+      "end": 57.21,
+      "text": "낮의 너보다 솔직해"
+    },
+    {
+      "t": 57.23,
+      "end": 57.83,
+      "text": "나도 그래"
+    },
+    {
+      "t": 58.79,
+      "end": 63.15,
+      "text": "그래서 이 시간이 무서워"
+    },
+    {
+      "t": 74.99,
+      "end": 74.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.99,
+      "end": 77.37,
+      "text": "숨소리만 들리는 시간이"
+    },
+    {
+      "t": 78.59,
+      "end": 80.51,
+      "text": "말보다 길었는데"
+    },
+    {
+      "t": 85.75,
+      "end": 88.35,
+      "text": "어색하지 않았어"
+    },
+    {
+      "t": 88.39,
+      "end": 122.2,
+      "text": "그게 제일 무서웠어"
+    },
+    {
+      "t": 122.42,
+      "end": 122.42,
+      "text": "[Trumpet Solo]"
+    },
+    {
+      "t": 122.42,
+      "end": 122.42,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.42,
+      "end": 130.24,
+      "text": "세 시의 너는"
+    },
+    {
+      "t": 130.34,
+      "end": 136.16,
+      "text": "낮의 너보다 솔직해"
+    },
+    {
+      "t": 136.18,
+      "end": 141.18,
+      "text": "나도 그래"
+    },
+    {
+      "t": 141.28,
+      "end": 145.34,
+      "text": "그래서 이 시간을 기다려"
+    },
+    {
+      "t": 146.6,
+      "end": 146.6,
+      "text": "[Outro]"
+    },
+    {
+      "t": 146.6,
+      "end": 147.32,
+      "text": "끊지 마"
+    },
+    {
+      "t": 152.22,
+      "end": 152.98,
+      "text": "끊지 마"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "sc_ko02",
+  "title": "겨울의 반",
+  "title_source": "scripted",
+  "genre": "k-ballad",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wistful and nocturnal",
+  "persona": "",
+  "subject": "the halfway point of winter",
+  "caption": "Korean ballad. Grand piano alone through the first verse, a full string section entering at the pre-chorus, bass and a soft kit only from the second verse, orchestral swells under the bridge. A male tenor sings restrained and breathy at first and builds to a powerful belt on the final chorus after a key change. Studio-polished, wide stereo image, lush reverb. 68 BPM, C minor. Slow-building, cathartic. no synth, no trap hats.",
+  "lyrics": "[Intro - Piano]\n\n[Verse 1]\n겨울의 반이 지났대\n뉴스에서 그러더라\n반이 지났다는 건\n반이 남았다는 뜻인데\n\n[Pre-Chorus]\n사람들은 왜\n지난 쪽만 말할까\n\n[Chorus]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n다른 말은 필요 없으니까\n\n[Verse 2]\n네가 두고 간 목도리\n버리지도 쓰지도 못하고\n서랍에 접어뒀어\n봄이 오면 어떻게든 되겠지\n\n[Strings - Bridge]\n\n[Chorus - key change]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n그 말도 이제 안 해도 돼\n\n[Outro]\n아직 반이\n아직 반이",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 68,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Korean ballad. Grand piano alone through the first verse, a full string section entering at the pre-chorus, bass and a soft kit only from the second verse, orchestral swells under the bridge. A male tenor sings restrained and breathy at first and builds to a powerful belt on the final chorus after a key change. Studio-polished, wide stereo image, lush reverb. 68 BPM, C minor. Slow-building, cathartic. no synth, no trap hats.",
+    "lyrics": "[Intro - Piano]\n\n[Verse 1]\n겨울의 반이 지났대\n뉴스에서 그러더라\n반이 지났다는 건\n반이 남았다는 뜻인데\n\n[Pre-Chorus]\n사람들은 왜\n지난 쪽만 말할까\n\n[Chorus]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n다른 말은 필요 없으니까\n\n[Verse 2]\n네가 두고 간 목도리\n버리지도 쓰지도 못하고\n서랍에 접어뒀어\n봄이 오면 어떻게든 되겠지\n\n[Strings - Bridge]\n\n[Chorus - key change]\n아직 반이 남았어\n그 말이 위로가 안 되는 날도 있어\n그래도 말해줘\n그 말도 이제 안 해도 돼\n\n[Outro]\n아직 반이\n아직 반이"
+  },
+  "seed": "4204130384",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.42s**\n- 69.42s per song\n- LM phase (1 song): 16.40s\n- DiT phase (1 song): 53.02s",
+  "task_id": "553c7311-ef2a-4915-a142-7062c7299bbb",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-09-24T10:04:20.132677+08:00",
+  "audio": "sc_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.24,
+      "end": 29.24,
+      "text": "[Intro - Piano]"
+    },
+    {
+      "t": 29.24,
+      "end": 29.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.24,
+      "end": 32.84,
+      "text": "겨울의 반이 지났대"
+    },
+    {
+      "t": 32.84,
+      "end": 35.5,
+      "text": "뉴스에서 그러더라"
+    },
+    {
+      "t": 35.52,
+      "end": 39.94,
+      "text": "반이 지났다는 건"
+    },
+    {
+      "t": 40.0,
+      "end": 43.54,
+      "text": "반이 남았다는 뜻인데"
+    },
+    {
+      "t": 48.95,
+      "end": 48.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.95,
+      "end": 50.51,
+      "text": "사람들은 왜"
+    },
+    {
+      "t": 51.11,
+      "end": 54.65,
+      "text": "지난 쪽만 말할까"
+    },
+    {
+      "t": 54.83,
+      "end": 54.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.83,
+      "end": 56.77,
+      "text": "아직 반이 남았어"
+    },
+    {
+      "t": 57.53,
+      "end": 61.23,
+      "text": "그 말이 위로가 안 되는 날도 있어"
+    },
+    {
+      "t": 61.27,
+      "end": 61.81,
+      "text": "그래도 말해줘"
+    },
+    {
+      "t": 61.81,
+      "end": 65.43,
+      "text": "다른 말은 필요 없으니까"
+    },
+    {
+      "t": 68.17,
+      "end": 68.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.17,
+      "end": 70.97,
+      "text": "네가 두고 간 목도리"
+    },
+    {
+      "t": 70.97,
+      "end": 72.49,
+      "text": "버리지도 쓰지도 못하고"
+    },
+    {
+      "t": 75.17,
+      "end": 77.79,
+      "text": "서랍에 접어뒀어"
+    },
+    {
+      "t": 81.37,
+      "end": 86.37,
+      "text": "봄이 오면 어떻게든 되겠지"
+    },
+    {
+      "t": 86.37,
+      "end": 86.37,
+      "text": "[Strings - Bridge]"
+    },
+    {
+      "t": 86.37,
+      "end": 86.37,
+      "text": "[Chorus - key change]"
+    },
+    {
+      "t": 86.37,
+      "end": 93.67,
+      "text": "아직 반이 남았어"
+    },
+    {
+      "t": 96.61,
+      "end": 122.17,
+      "text": "그 말이 위로가 안 되는 날도 있어"
+    },
+    {
+      "t": 124.85,
+      "end": 128.95,
+      "text": "그래도 말해줘"
+    },
+    {
+      "t": 132.54,
+      "end": 148.5,
+      "text": "그 말도 이제 안 해도 돼"
+    },
+    {
+      "t": 148.76,
+      "end": 148.76,
+      "text": "[Outro]"
+    },
+    {
+      "t": 148.76,
+      "end": 150.32,
+      "text": "아직 반이"
+    },
+    {
+      "t": 155.82,
+      "end": 157.36,
+      "text": "아직 반이"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

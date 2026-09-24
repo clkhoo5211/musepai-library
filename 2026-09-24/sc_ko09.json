@@ -1,0 +1,174 @@
+{
+  "id": "sc_ko09",
+  "title": "우산 두 개",
+  "title_source": "scripted",
+  "genre": "folk",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "quiet and reflective",
+  "persona": "",
+  "subject": "two umbrellas by the door",
+  "caption": "Korean folk, almost entirely acoustic. Fingerpicked steel-string guitar, upright bass entering in the second verse, brushed percussion, a single cello line under the bridge. A soft male tenor sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless female harmony joining the final chorus. Tape saturation, no reverb on the lead vocal. 76 BPM, D major. Tender, plain, unsentimental.",
+  "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n현관에 우산이 두 개\n하나는 내 거\n하나는 삼 년째 그대로\n비 오는 날마다 본다\n\n[Pre-Chorus]\n버리면 되는데\n버리면 되는데\n\n[Chorus]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n집을 지키는 것 같아서\n\n[Verse 2]\n손잡이에 네 손 모양이\n아직 남아 있는 것 같아\n그럴 리 없는데\n그렇게 보여\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n나를 지키는 것 같아서\n\n[Outro]\n그대로 둘게\n그대로 둘게",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 155.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean folk, almost entirely acoustic. Fingerpicked steel-string guitar, upright bass entering in the second verse, brushed percussion, a single cello line under the bridge. A soft male tenor sings barely above a whisper, extremely close-miked so the breath is audible, with a wordless female harmony joining the final chorus. Tape saturation, no reverb on the lead vocal. 76 BPM, D major. Tender, plain, unsentimental.",
+    "lyrics": "[Intro - Fingerpicked Guitar]\n\n[Verse 1]\n현관에 우산이 두 개\n하나는 내 거\n하나는 삼 년째 그대로\n비 오는 날마다 본다\n\n[Pre-Chorus]\n버리면 되는데\n버리면 되는데\n\n[Chorus]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n집을 지키는 것 같아서\n\n[Verse 2]\n손잡이에 네 손 모양이\n아직 남아 있는 것 같아\n그럴 리 없는데\n그렇게 보여\n\n[Cello - Bridge]\n\n[Chorus - with harmony]\n우산 두 개\n하나만 쓰고 나가\n남은 하나가\n나를 지키는 것 같아서\n\n[Outro]\n그대로 둘게\n그대로 둘게"
+  },
+  "seed": "2732399867",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.93s**\n- 61.93s per song\n- LM phase (1 song): 11.15s\n- DiT phase (1 song): 50.78s",
+  "task_id": "40399bf2-3103-4b33-8d86-ff59a01ed1a7",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-09-24T10:14:56.447949+08:00",
+  "audio": "sc_ko09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 2.24,
+      "end": 2.24,
+      "text": "[Intro - Fingerpicked Guitar]"
+    },
+    {
+      "t": 2.24,
+      "end": 2.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.24,
+      "end": 14.02,
+      "text": "현관에 우산이 두 개"
+    },
+    {
+      "t": 16.26,
+      "end": 29.28,
+      "text": "하나는 내 거"
+    },
+    {
+      "t": 29.4,
+      "end": 31.0,
+      "text": "하나는 삼 년째 그대로"
+    },
+    {
+      "t": 31.0,
+      "end": 32.64,
+      "text": "비 오는 날마다 본다"
+    },
+    {
+      "t": 34.26,
+      "end": 34.26,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.26,
+      "end": 37.34,
+      "text": "버리면 되는데"
+    },
+    {
+      "t": 37.34,
+      "end": 40.59,
+      "text": "버리면 되는데"
+    },
+    {
+      "t": 40.59,
+      "end": 40.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.59,
+      "end": 43.03,
+      "text": "우산 두 개"
+    },
+    {
+      "t": 43.21,
+      "end": 44.03,
+      "text": "하나만 쓰고 나가"
+    },
+    {
+      "t": 44.05,
+      "end": 45.45,
+      "text": "남은 하나가"
+    },
+    {
+      "t": 45.45,
+      "end": 49.51,
+      "text": "집을 지키는 것 같아서"
+    },
+    {
+      "t": 56.33,
+      "end": 56.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 56.33,
+      "end": 61.83,
+      "text": "손잡이에 네 손 모양이"
+    },
+    {
+      "t": 63.55,
+      "end": 67.87,
+      "text": "아직 남아 있는 것 같아"
+    },
+    {
+      "t": 69.63,
+      "end": 71.77,
+      "text": "그럴 리 없는데"
+    },
+    {
+      "t": 73.19,
+      "end": 74.27,
+      "text": "그렇게 보여"
+    },
+    {
+      "t": 74.33,
+      "end": 74.33,
+      "text": "[Cello - Bridge]"
+    },
+    {
+      "t": 74.33,
+      "end": 74.33,
+      "text": "[Chorus - with harmony]"
+    },
+    {
+      "t": 74.33,
+      "end": 76.41,
+      "text": "우산 두 개"
+    },
+    {
+      "t": 76.65,
+      "end": 96.07,
+      "text": "하나만 쓰고 나가"
+    },
+    {
+      "t": 96.23,
+      "end": 102.31,
+      "text": "남은 하나가"
+    },
+    {
+      "t": 102.45,
+      "end": 124.96,
+      "text": "나를 지키는 것 같아서"
+    },
+    {
+      "t": 127.68,
+      "end": 127.68,
+      "text": "[Outro]"
+    },
+    {
+      "t": 127.68,
+      "end": 129.86,
+      "text": "그대로 둘게"
+    },
+    {
+      "t": 134.68,
+      "end": 136.42,
+      "text": "그대로 둘게"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

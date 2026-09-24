@@ -1,0 +1,174 @@
+{
+  "id": "sc_ja09",
+  "title": "終電まで",
+  "title_source": "scripted",
+  "genre": "trap",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "restless and urgent",
+  "persona": "",
+  "subject": "a convenience store night shift",
+  "caption": "Japanese hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched koto sample looping under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Japanese with doubled ad-libs answering each line and a sung hook. Clean modern mixing, punchy low end, tight and dry. 142 BPM, F-sharp minor. Sharp, nocturnal.",
+  "lyrics": "[Intro]\n(終電まで)\n\n[Verse 1]\n二十二時 レジに立つ\n客はまばら 棚は乱れてる\n面接で 言われたことを思い出す\n「夢とかは ありますか」\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Verse 2]\n廃棄の弁当 持って帰れない\nルールだから しょうがない\n捨てるとき ちょっと謝る\n誰にかは わからない\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Bridge - spoken]\nいらっしゃいませ\nありがとうございました\n\n[Outro]\n(終電まで)\n(終電まで)",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 142,
+    "duration": 135.0,
+    "genres": "N/A",
+    "keyscale": "F sharp minor",
+    "timesignature": "4",
+    "prompt": "Japanese hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched koto sample looping under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Japanese with doubled ad-libs answering each line and a sung hook. Clean modern mixing, punchy low end, tight and dry. 142 BPM, F-sharp minor. Sharp, nocturnal.",
+    "lyrics": "[Intro]\n(終電まで)\n\n[Verse 1]\n二十二時 レジに立つ\n客はまばら 棚は乱れてる\n面接で 言われたことを思い出す\n「夢とかは ありますか」\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Verse 2]\n廃棄の弁当 持って帰れない\nルールだから しょうがない\n捨てるとき ちょっと謝る\n誰にかは わからない\n\n[Hook]\n終電まで あと二時間\n終電のあとは 始発まで\n数えてるのは 時間じゃない\n何回 これを繰り返すか\n\n[Bridge - spoken]\nいらっしゃいませ\nありがとうございました\n\n[Outro]\n(終電まで)\n(終電まで)"
+  },
+  "seed": "3281082986",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 81.01s**\n- 81.01s per song\n- LM phase (1 song): 16.42s\n- DiT phase (1 song): 64.59s",
+  "task_id": "2eb51e8e-4197-4844-9291-12bc1cee203f",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-09-24T10:00:59.691787+08:00",
+  "audio": "sc_ja09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.7,
+      "end": 27.7,
+      "text": "[Intro]"
+    },
+    {
+      "t": 27.7,
+      "end": 28.88,
+      "text": "(終電まで)"
+    },
+    {
+      "t": 29.24,
+      "end": 29.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.24,
+      "end": 34.41,
+      "text": "二十二時 レジに立つ"
+    },
+    {
+      "t": 34.71,
+      "end": 41.99,
+      "text": "客はまばら 棚は乱れてる"
+    },
+    {
+      "t": 42.11,
+      "end": 50.47,
+      "text": "面接で 言われたことを思い出す"
+    },
+    {
+      "t": 53.73,
+      "end": 54.81,
+      "text": "「夢とかは ありますか」"
+    },
+    {
+      "t": 54.81,
+      "end": 54.81,
+      "text": "[Hook]"
+    },
+    {
+      "t": 54.81,
+      "end": 57.89,
+      "text": "終電まで あと二時間"
+    },
+    {
+      "t": 57.93,
+      "end": 60.67,
+      "text": "終電のあとは 始発まで"
+    },
+    {
+      "t": 60.69,
+      "end": 62.11,
+      "text": "数えてるのは 時間じゃない"
+    },
+    {
+      "t": 62.15,
+      "end": 63.41,
+      "text": "何回 これを繰り返すか"
+    },
+    {
+      "t": 63.41,
+      "end": 63.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.41,
+      "end": 64.43,
+      "text": "廃棄の弁当 持って帰れない"
+    },
+    {
+      "t": 64.45,
+      "end": 65.81,
+      "text": "ルールだから しょうがない"
+    },
+    {
+      "t": 67.61,
+      "end": 69.93,
+      "text": "捨てるとき ちょっと謝る"
+    },
+    {
+      "t": 69.95,
+      "end": 70.93,
+      "text": "誰にかは わからない"
+    },
+    {
+      "t": 70.93,
+      "end": 70.93,
+      "text": "[Hook]"
+    },
+    {
+      "t": 70.93,
+      "end": 71.97,
+      "text": "終電まで あと二時間"
+    },
+    {
+      "t": 72.01,
+      "end": 73.83,
+      "text": "終電のあとは 始発まで"
+    },
+    {
+      "t": 74.57,
+      "end": 77.37,
+      "text": "数えてるのは 時間じゃない"
+    },
+    {
+      "t": 77.79,
+      "end": 80.79,
+      "text": "何回 これを繰り返すか"
+    },
+    {
+      "t": 86.09,
+      "end": 86.09,
+      "text": "[Bridge - spoken]"
+    },
+    {
+      "t": 86.09,
+      "end": 93.09,
+      "text": "いらっしゃいませ"
+    },
+    {
+      "t": 93.87,
+      "end": 100.65,
+      "text": "ありがとうございました"
+    },
+    {
+      "t": 106.08,
+      "end": 106.08,
+      "text": "[Outro]"
+    },
+    {
+      "t": 106.08,
+      "end": 114.68,
+      "text": "(終電まで)"
+    },
+    {
+      "t": 119.62,
+      "end": 128.64,
+      "text": "(終電まで)"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "sc_ko06",
+  "title": "반지하",
+  "title_source": "scripted",
+  "genre": "trap",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "restless and urgent",
+  "persona": "",
+  "subject": "a semi-basement flat",
+  "caption": "Korean hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched gayageum sample under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Korean with doubled ad-libs and a sung hook. Clean modern mixing, punchy low end, tight and dry. 138 BPM, B minor. Sharp, unsentimental.",
+  "lyrics": "[Intro]\n(반지하)\n\n[Verse 1]\n창문이 천장 높이에 있어\n사람 발만 보이는 방\n비 오는 날은 기도를 해\n신은 안 믿지만 물은 믿어\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Verse 2]\n엄마는 여기 와본 적 없어\n사진도 안 보내\n잘 지낸다고만 해\n거짓말은 아니야 진짜로\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Bridge - spoken]\n곧 올라갈 거야\n곧\n\n[Outro]\n(반지하)\n(반지하)",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 135.0,
+    "genres": "N/A",
+    "keyscale": "B minor",
+    "timesignature": "4",
+    "prompt": "Korean hip-hop, trap-leaning. Deep 808 sub bass with slides, fast rolling triplet hi-hats, a chopped and pitched gayageum sample under the hook, sparse dark piano, no live drums. A male voice raps laid-back behind the beat in Korean with doubled ad-libs and a sung hook. Clean modern mixing, punchy low end, tight and dry. 138 BPM, B minor. Sharp, unsentimental.",
+    "lyrics": "[Intro]\n(반지하)\n\n[Verse 1]\n창문이 천장 높이에 있어\n사람 발만 보이는 방\n비 오는 날은 기도를 해\n신은 안 믿지만 물은 믿어\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Verse 2]\n엄마는 여기 와본 적 없어\n사진도 안 보내\n잘 지낸다고만 해\n거짓말은 아니야 진짜로\n\n[Hook]\n반지하 반지하\n반은 땅 위 반은 아래\n나도 그래 반은 여기\n나머지 반은 아직 안 왔어\n\n[Bridge - spoken]\n곧 올라갈 거야\n곧\n\n[Outro]\n(반지하)\n(반지하)"
+  },
+  "seed": "1486235453",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.42s**\n- 62.42s per song\n- LM phase (1 song): 16.38s\n- DiT phase (1 song): 46.04s",
+  "task_id": "57790c62-8251-489e-9a41-6eeef36907a7",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-09-24T10:10:34.574524+08:00",
+  "audio": "sc_ko06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 14.84,
+      "end": 14.84,
+      "text": "[Intro]"
+    },
+    {
+      "t": 14.84,
+      "end": 15.38,
+      "text": "(반지하)"
+    },
+    {
+      "t": 28.5,
+      "end": 28.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.5,
+      "end": 31.1,
+      "text": "창문이 천장 높이에 있어"
+    },
+    {
+      "t": 31.6,
+      "end": 33.77,
+      "text": "사람 발만 보이는 방"
+    },
+    {
+      "t": 35.61,
+      "end": 38.15,
+      "text": "비 오는 날은 기도를 해"
+    },
+    {
+      "t": 38.21,
+      "end": 42.77,
+      "text": "신은 안 믿지만 물은 믿어"
+    },
+    {
+      "t": 43.07,
+      "end": 43.07,
+      "text": "[Hook]"
+    },
+    {
+      "t": 43.07,
+      "end": 44.49,
+      "text": "반지하 반지하"
+    },
+    {
+      "t": 46.17,
+      "end": 48.97,
+      "text": "반은 땅 위 반은 아래"
+    },
+    {
+      "t": 49.69,
+      "end": 50.93,
+      "text": "나도 그래 반은 여기"
+    },
+    {
+      "t": 51.89,
+      "end": 54.65,
+      "text": "나머지 반은 아직 안 왔어"
+    },
+    {
+      "t": 55.27,
+      "end": 55.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 55.27,
+      "end": 59.75,
+      "text": "엄마는 여기 와본 적 없어"
+    },
+    {
+      "t": 62.49,
+      "end": 64.79,
+      "text": "사진도 안 보내"
+    },
+    {
+      "t": 66.01,
+      "end": 68.13,
+      "text": "잘 지낸다고만 해"
+    },
+    {
+      "t": 69.55,
+      "end": 71.39,
+      "text": "거짓말은 아니야 진짜로"
+    },
+    {
+      "t": 71.41,
+      "end": 71.41,
+      "text": "[Hook]"
+    },
+    {
+      "t": 71.41,
+      "end": 72.11,
+      "text": "반지하 반지하"
+    },
+    {
+      "t": 72.25,
+      "end": 90.99,
+      "text": "반은 땅 위 반은 아래"
+    },
+    {
+      "t": 90.99,
+      "end": 96.67,
+      "text": "나도 그래 반은 여기"
+    },
+    {
+      "t": 100.71,
+      "end": 123.46,
+      "text": "나머지 반은 아직 안 왔어"
+    },
+    {
+      "t": 123.84,
+      "end": 123.84,
+      "text": "[Bridge - spoken]"
+    },
+    {
+      "t": 123.84,
+      "end": 126.18,
+      "text": "곧 올라갈 거야"
+    },
+    {
+      "t": 126.44,
+      "end": 126.5,
+      "text": "곧"
+    },
+    {
+      "t": 126.5,
+      "end": 126.5,
+      "text": "[Outro]"
+    },
+    {
+      "t": 126.5,
+      "end": 127.46,
+      "text": "(반지하)"
+    },
+    {
+      "t": 128.24,
+      "end": 129.22,
+      "text": "(반지하)"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

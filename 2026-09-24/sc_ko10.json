@@ -1,0 +1,184 @@
+{
+  "id": "sc_ko10",
+  "title": "첫차",
+  "title_source": "scripted",
+  "genre": "gospel soul",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "bright and hopeful",
+  "persona": "",
+  "subject": "the first bus of the morning",
+  "caption": "Gospel soul sung in Korean. Hammond organ through a rotating speaker, upright piano, bass, live kit, tambourine on the backbeat, hand claps. A powerful female lead sings with heavy melisma and full belting; a choir answers each line in call and response and stacks harmonies under the final chorus, which modulates up a semitone. Live-room bleed, gospel-room reverb. 94 BPM, A-flat major. Rising, communal. no pop, no EDM.",
+  "lyrics": "[Intro - Organ]\n\n[Verse 1]\n첫차에는 다 아는 얼굴들\n이름은 아무도 모르고\n같은 시간에 같은 자리\n십 년째 그렇게\n\n[Pre-Chorus]\n(아직) 아직\n(아직) 가는 중\n\n[Chorus]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 열심히 사는 사람들\n\n[Verse 2]\n기사님이 오늘도 인사해\n오늘은 춥네요 하고\n그 한 마디가\n하루를 견디게 해\n\n[Bridge - Choir]\n(같이 가) 같이 가\n(같이 가) 같이 가\n\n[Chorus - key change]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 먼저 웃는 사람들\n\n[Outro]\n같이 가\n같이 가",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 94,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "A flat major",
+    "timesignature": "4",
+    "prompt": "Gospel soul sung in Korean. Hammond organ through a rotating speaker, upright piano, bass, live kit, tambourine on the backbeat, hand claps. A powerful female lead sings with heavy melisma and full belting; a choir answers each line in call and response and stacks harmonies under the final chorus, which modulates up a semitone. Live-room bleed, gospel-room reverb. 94 BPM, A-flat major. Rising, communal. no pop, no EDM.",
+    "lyrics": "[Intro - Organ]\n\n[Verse 1]\n첫차에는 다 아는 얼굴들\n이름은 아무도 모르고\n같은 시간에 같은 자리\n십 년째 그렇게\n\n[Pre-Chorus]\n(아직) 아직\n(아직) 가는 중\n\n[Chorus]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 열심히 사는 사람들\n\n[Verse 2]\n기사님이 오늘도 인사해\n오늘은 춥네요 하고\n그 한 마디가\n하루를 견디게 해\n\n[Bridge - Choir]\n(같이 가) 같이 가\n(같이 가) 같이 가\n\n[Chorus - key change]\n첫차를 타는 사람들은\n하루를 두 번 사는 사람들\n아무도 안 보는 시간에\n제일 먼저 웃는 사람들\n\n[Outro]\n같이 가\n같이 가"
+  },
+  "seed": "3290191755",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.12s**\n- 71.12s per song\n- LM phase (1 song): 15.43s\n- DiT phase (1 song): 55.69s",
+  "task_id": "e6413521-c2ce-42ab-b78e-0835a7b0e0f6",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-09-24T10:16:26.617922+08:00",
+  "audio": "sc_ko10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.78,
+      "end": 25.78,
+      "text": "[Intro - Organ]"
+    },
+    {
+      "t": 25.78,
+      "end": 25.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.78,
+      "end": 30.02,
+      "text": "첫차에는 다 아는 얼굴들"
+    },
+    {
+      "t": 31.48,
+      "end": 35.38,
+      "text": "이름은 아무도 모르고"
+    },
+    {
+      "t": 36.86,
+      "end": 40.46,
+      "text": "같은 시간에 같은 자리"
+    },
+    {
+      "t": 42.32,
+      "end": 43.73,
+      "text": "십 년째 그렇게"
+    },
+    {
+      "t": 43.73,
+      "end": 43.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.73,
+      "end": 44.55,
+      "text": "(아직) 아직"
+    },
+    {
+      "t": 44.55,
+      "end": 46.09,
+      "text": "(아직) 가는 중"
+    },
+    {
+      "t": 49.61,
+      "end": 49.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.61,
+      "end": 53.47,
+      "text": "첫차를 타는 사람들은"
+    },
+    {
+      "t": 54.83,
+      "end": 60.33,
+      "text": "하루를 두 번 사는 사람들"
+    },
+    {
+      "t": 60.41,
+      "end": 63.65,
+      "text": "아무도 안 보는 시간에"
+    },
+    {
+      "t": 65.11,
+      "end": 74.19,
+      "text": "제일 열심히 사는 사람들"
+    },
+    {
+      "t": 74.49,
+      "end": 74.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.49,
+      "end": 77.87,
+      "text": "기사님이 오늘도 인사해"
+    },
+    {
+      "t": 80.05,
+      "end": 82.07,
+      "text": "오늘은 춥네요 하고"
+    },
+    {
+      "t": 82.91,
+      "end": 84.29,
+      "text": "그 한 마디가"
+    },
+    {
+      "t": 84.81,
+      "end": 87.05,
+      "text": "하루를 견디게 해"
+    },
+    {
+      "t": 89.89,
+      "end": 89.89,
+      "text": "[Bridge - Choir]"
+    },
+    {
+      "t": 89.89,
+      "end": 93.25,
+      "text": "(같이 가) 같이 가"
+    },
+    {
+      "t": 95.97,
+      "end": 103.53,
+      "text": "(같이 가) 같이 가"
+    },
+    {
+      "t": 103.99,
+      "end": 103.99,
+      "text": "[Chorus - key change]"
+    },
+    {
+      "t": 103.99,
+      "end": 128.12,
+      "text": "첫차를 타는 사람들은"
+    },
+    {
+      "t": 128.44,
+      "end": 137.42,
+      "text": "하루를 두 번 사는 사람들"
+    },
+    {
+      "t": 137.52,
+      "end": 142.52,
+      "text": "아무도 안 보는 시간에"
+    },
+    {
+      "t": 142.52,
+      "end": 153.5,
+      "text": "제일 먼저 웃는 사람들"
+    },
+    {
+      "t": 153.58,
+      "end": 153.58,
+      "text": "[Outro]"
+    },
+    {
+      "t": 153.58,
+      "end": 157.68,
+      "text": "같이 가"
+    },
+    {
+      "t": 158.24,
+      "end": 166.5,
+      "text": "같이 가"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

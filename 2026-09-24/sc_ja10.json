@@ -1,0 +1,89 @@
+{
+  "id": "sc_ja10",
+  "title": "波が戻る",
+  "title_source": "scripted",
+  "genre": "post-rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bright and hopeful",
+  "persona": "",
+  "subject": "a tide returning",
+  "caption": "Post-rock, largely instrumental. Two tremolo-picked electric guitars build from a single clean arpeggio to a wall of delayed and overdriven sound, bass swelling underneath, drums entering with mallets and finishing on full crashes. Wordless layered humming floats over the middle; one sung line arrives only at the end. Cavernous reverb tails, very wide stereo image. 70 BPM, D major. Patient, building, finally bright. no pop, no vocal-led chorus.",
+  "lyrics": "[Intro - Clean Guitar]\n\n[Instrumental - Building]\n\n[Wordless Vocals]\nああ————\nんん————\n\n[Build]\n\n[Instrumental - Full Band]\n\n[Chorus]\n波は 引いたぶんだけ 戻ってくる\n\n[Outro - Wordless Vocals]\nああ————",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 70,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Post-rock, largely instrumental. Two tremolo-picked electric guitars build from a single clean arpeggio to a wall of delayed and overdriven sound, bass swelling underneath, drums entering with mallets and finishing on full crashes. Wordless layered humming floats over the middle; one sung line arrives only at the end. Cavernous reverb tails, very wide stereo image. 70 BPM, D major. Patient, building, finally bright. no pop, no vocal-led chorus.",
+    "lyrics": "[Intro - Clean Guitar]\n\n[Instrumental - Building]\n\n[Wordless Vocals]\nああ————\nんん————\n\n[Build]\n\n[Instrumental - Full Band]\n\n[Chorus]\n波は 引いたぶんだけ 戻ってくる\n\n[Outro - Wordless Vocals]\nああ————"
+  },
+  "seed": "3767756580",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 79.43s**\n- 79.43s per song\n- LM phase (1 song): 17.57s\n- DiT phase (1 song): 61.85s",
+  "task_id": "887736cd-ace4-4630-8ba3-b87472ec0827",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-09-24T10:02:49.822087+08:00",
+  "audio": "sc_ja10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.6,
+      "end": 10.6,
+      "text": "[Intro - Clean Guitar]"
+    },
+    {
+      "t": 10.6,
+      "end": 10.6,
+      "text": "[Instrumental - Building]"
+    },
+    {
+      "t": 10.6,
+      "end": 10.6,
+      "text": "[Wordless Vocals]"
+    },
+    {
+      "t": 10.6,
+      "end": 33.82,
+      "text": "ああ————"
+    },
+    {
+      "t": 33.94,
+      "end": 60.51,
+      "text": "んん————"
+    },
+    {
+      "t": 65.85,
+      "end": 65.85,
+      "text": "[Build]"
+    },
+    {
+      "t": 65.85,
+      "end": 65.85,
+      "text": "[Instrumental - Full Band]"
+    },
+    {
+      "t": 65.85,
+      "end": 65.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.85,
+      "end": 161.7,
+      "text": "波は 引いたぶんだけ 戻ってくる"
+    },
+    {
+      "t": 163.36,
+      "end": 163.36,
+      "text": "[Outro - Wordless Vocals]"
+    },
+    {
+      "t": 163.36,
+      "end": 164.04,
+      "text": "ああ————"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}
