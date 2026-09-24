@@ -2,6 +2,796 @@
  "day": "2026-09-24",
  "tracks": [
   {
+   "id": "nan01",
+   "title": "夜市收攤",
+   "title_source": "scripted",
+   "genre": "Taiwanese Hokkien ballad",
+   "language": "nan",
+   "language_name": "Taiwanese Hokkien",
+   "mood": "quiet and reflective",
+   "persona": "",
+   "subject": "closing the night market stall",
+   "caption": "Taiwanese Hokkien ballad, nakasi style, enka-influenced sorrowful vocal, late 80s feel, retro nightclub electric keyboard and saxophone, a husky female lead with crying vibrato and smoky whisper-to-belt dynamics, dusty vinyl texture and lo-fi intimacy, no western pop, no synth",
+   "lyrics": "[Verse]\n路燈一盞一盞熄\n攤車推轉去\n today 的湯頭賰一半\n無人客來啉\n\n[Pre-Chorus]\n風透過來 講伊會轉\n我毋敢聽\n\n[Chorus]\n收攤的時陣上寂寞\n街仔路賰我一个\n你講會轉來食一碗\n我逐暗攏咧等\n\n[Verse]\n阮的手已經無咧疼\n是心肝咧疼\n鼎仔洗甲金金金\n照著我的面\n\n[Saxophone Solo]\n\n[Chorus]\n收攤的時陣上寂寞\n街仔路賰我一个\n你講會轉來食一碗\n我今仔日無欲等矣\n\n[Outro]\n明仔載閣開\n明仔載閣等",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "duration": 164.0
+   },
+   "generated_at": "2026-09-24T02:54:59.140Z",
+   "audio": "nan01.mp3",
+   "engine": "mlx-Yue",
+   "lyrics_timed": [
+    {
+     "t": 22.84,
+     "end": 22.84,
+     "text": "[Verse]"
+    },
+    {
+     "t": 22.84,
+     "end": 25.34,
+     "text": "路燈一盞一盞熄"
+    },
+    {
+     "t": 28.44,
+     "end": 30.76,
+     "text": "攤車推轉去"
+    },
+    {
+     "t": 33.88,
+     "end": 39.66,
+     "text": "today 的湯頭賰一半"
+    },
+    {
+     "t": 39.72,
+     "end": 42.08,
+     "text": "無人客來啉"
+    },
+    {
+     "t": 45.25,
+     "end": 45.25,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 45.25,
+     "end": 50.53,
+     "text": "風透過來 講伊會轉"
+    },
+    {
+     "t": 51.29,
+     "end": 53.59,
+     "text": "我毋敢聽"
+    },
+    {
+     "t": 56.83,
+     "end": 56.83,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 56.83,
+     "end": 60.87,
+     "text": "收攤的時陣上寂寞"
+    },
+    {
+     "t": 61.41,
+     "end": 64.07,
+     "text": "街仔路賰我一个"
+    },
+    {
+     "t": 64.25,
+     "end": 72.93,
+     "text": "你講會轉來食一碗"
+    },
+    {
+     "t": 72.97,
+     "end": 75.79,
+     "text": "我逐暗攏咧等"
+    },
+    {
+     "t": 81.33,
+     "end": 81.33,
+     "text": "[Verse]"
+    },
+    {
+     "t": 81.33,
+     "end": 83.67,
+     "text": "阮的手已經無咧疼"
+    },
+    {
+     "t": 84.19,
+     "end": 86.39,
+     "text": "是心肝咧疼"
+    },
+    {
+     "t": 86.95,
+     "end": 89.29,
+     "text": "鼎仔洗甲金金金"
+    },
+    {
+     "t": 90.11,
+     "end": 109.27,
+     "text": "照著我的面"
+    },
+    {
+     "t": 118.43,
+     "end": 118.43,
+     "text": "[Saxophone Solo]"
+    },
+    {
+     "t": 118.43,
+     "end": 118.43,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 118.43,
+     "end": 123.13,
+     "text": "收攤的時陣上寂寞"
+    },
+    {
+     "t": 124.05,
+     "end": 125.67,
+     "text": "街仔路賰我一个"
+    },
+    {
+     "t": 125.83,
+     "end": 131.07,
+     "text": "你講會轉來食一碗"
+    },
+    {
+     "t": 134.58,
+     "end": 137.86,
+     "text": "我今仔日無欲等矣"
+    },
+    {
+     "t": 142.96,
+     "end": 142.96,
+     "text": "[Outro]"
+    },
+    {
+     "t": 142.96,
+     "end": 144.42,
+     "text": "明仔載閣開"
+    },
+    {
+     "t": 145.78,
+     "end": 147.36,
+     "text": "明仔載閣等"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "nan02",
+   "title": "海口的風",
+   "title_source": "scripted",
+   "genre": "Taiwanese Hokkien rock",
+   "language": "nan",
+   "language_name": "Taiwanese Hokkien",
+   "mood": "defiant and loud",
+   "persona": "",
+   "subject": "the wind at the harbour",
+   "caption": "Taiwanese Hokkien rock, modern 2020s, defiant and loud, a four-piece band with organ and pedal steel, a commanding male baritone, gravelly, restrained verse and explosive chorus, tape saturation and close-miked vocals, no pop, no synth",
+   "lyrics": "[Verse]\n海口的風透規暝\n吹甲窗仔咧哭\n阿爸講討海人\n無咧驚風\n\n[Pre-Chorus]\n船仔佇岸邊搖\n像咧共我招手\n\n[Chorus]\n風愈透 我愈行\n路愈歹 我愈拚\n這條命是海予我的\n我就還伊一條路\n\n[Verse]\n庄跤的囝仔攏走了了\n賰廟口的老人咧開講\n我嘛想走\n毋過我袂當\n\n[Bridge]\n若是有一工我轉來\n希望你猶原佇遮\n\n[Chorus]\n風愈透 我愈行\n路愈歹 我愈拚\n這條命是海予我的\n我就還伊一條命\n\n[Outro]\n透啦 透啦\n我毋驚",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "duration": 167.4
+   },
+   "generated_at": "2026-09-24T03:03:59.776Z",
+   "audio": "nan02.mp3",
+   "engine": "mlx-Yue",
+   "lyrics_timed": [
+    {
+     "t": 27.48,
+     "end": 27.48,
+     "text": "[Verse]"
+    },
+    {
+     "t": 27.48,
+     "end": 30.48,
+     "text": "海口的風透規暝"
+    },
+    {
+     "t": 32.9,
+     "end": 37.14,
+     "text": "吹甲窗仔咧哭"
+    },
+    {
+     "t": 41.32,
+     "end": 44.12,
+     "text": "阿爸講討海人"
+    },
+    {
+     "t": 46.23,
+     "end": 48.07,
+     "text": "無咧驚風"
+    },
+    {
+     "t": 51.25,
+     "end": 51.25,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 51.25,
+     "end": 53.07,
+     "text": "船仔佇岸邊搖"
+    },
+    {
+     "t": 54.55,
+     "end": 57.03,
+     "text": "像咧共我招手"
+    },
+    {
+     "t": 60.41,
+     "end": 60.41,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 60.41,
+     "end": 63.69,
+     "text": "風愈透 我愈行"
+    },
+    {
+     "t": 63.77,
+     "end": 66.55,
+     "text": "路愈歹 我愈拚"
+    },
+    {
+     "t": 67.07,
+     "end": 70.13,
+     "text": "這條命是海予我的"
+    },
+    {
+     "t": 70.43,
+     "end": 73.95,
+     "text": "我就還伊一條路"
+    },
+    {
+     "t": 77.47,
+     "end": 77.47,
+     "text": "[Verse]"
+    },
+    {
+     "t": 77.47,
+     "end": 80.39,
+     "text": "庄跤的囝仔攏走了了"
+    },
+    {
+     "t": 83.31,
+     "end": 87.13,
+     "text": "賰廟口的老人咧開講"
+    },
+    {
+     "t": 89.57,
+     "end": 90.93,
+     "text": "我嘛想走"
+    },
+    {
+     "t": 94.59,
+     "end": 96.97,
+     "text": "毋過我袂當"
+    },
+    {
+     "t": 101.25,
+     "end": 101.25,
+     "text": "[Bridge]"
+    },
+    {
+     "t": 101.25,
+     "end": 103.95,
+     "text": "若是有一工我轉來"
+    },
+    {
+     "t": 107.87,
+     "end": 110.13,
+     "text": "希望你猶原佇遮"
+    },
+    {
+     "t": 113.75,
+     "end": 113.75,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 113.75,
+     "end": 116.97,
+     "text": "風愈透 我愈行"
+    },
+    {
+     "t": 117.09,
+     "end": 119.93,
+     "text": "路愈歹 我愈拚"
+    },
+    {
+     "t": 120.39,
+     "end": 123.49,
+     "text": "這條命是海予我的"
+    },
+    {
+     "t": 123.75,
+     "end": 127.49,
+     "text": "我就還伊一條命"
+    },
+    {
+     "t": 130.41,
+     "end": 130.41,
+     "text": "[Outro]"
+    },
+    {
+     "t": 130.41,
+     "end": 134.68,
+     "text": "透啦 透啦"
+    },
+    {
+     "t": 137.08,
+     "end": 145.46,
+     "text": "我毋驚"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "nan03",
+   "title": "廟埕的戲棚",
+   "title_source": "scripted",
+   "genre": "taiwanese folk",
+   "language": "nan",
+   "language_name": "Taiwanese Hokkien",
+   "mood": "warm and intimate",
+   "persona": "",
+   "subject": "an opera stage behind a temple",
+   "caption": "Taiwanese Hokkien, taiwanese folk, warm and intimate, suona and moon guitar over hand percussion with a small brass band, a male lead with ornamented folk phrasing and a wide vibrato, tape saturation and close-miked vocals, no pop, no synth, no electronic drums",
+   "lyrics": "[Verse]\n廟埕的戲棚搭三工\n看戲的人賰十外个\n攏是佮阮仝款年歲的\n囡仔攏佇厝內看手機\n\n[Pre-Chorus]\n戲猶原是彼齣戲\n看的人無仝矣\n\n[Chorus]\n戲棚跤徛久人的\n阮阿公講的\n伊徛規世人\n今仔日換阮徛\n\n[Verse]\n頭手鼓拍甲汗流\n伊嘛知影無人看\n毋過伊講\n神明咧看就好\n\n[Chorus]\n戲棚跤徛久人的\n阮阿公講的\n伊徛規世人\n後一代嘛會徛\n\n[Outro]\n閣搬一齣\n閣搬一齣",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "duration": 127.0
+   },
+   "generated_at": "2026-09-24T03:10:46.488Z",
+   "audio": "nan03.mp3",
+   "engine": "mlx-Yue",
+   "lyrics_timed": [
+    {
+     "t": 26.48,
+     "end": 26.48,
+     "text": "[Verse]"
+    },
+    {
+     "t": 26.48,
+     "end": 29.48,
+     "text": "廟埕的戲棚搭三工"
+    },
+    {
+     "t": 29.66,
+     "end": 31.96,
+     "text": "看戲的人賰十外个"
+    },
+    {
+     "t": 33.38,
+     "end": 41.35,
+     "text": "攏是佮阮仝款年歲的"
+    },
+    {
+     "t": 41.41,
+     "end": 43.91,
+     "text": "囡仔攏佇厝內看手機"
+    },
+    {
+     "t": 44.93,
+     "end": 44.93,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 44.93,
+     "end": 46.93,
+     "text": "戲猶原是彼齣戲"
+    },
+    {
+     "t": 48.55,
+     "end": 52.49,
+     "text": "看的人無仝矣"
+    },
+    {
+     "t": 55.99,
+     "end": 55.99,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 55.99,
+     "end": 58.47,
+     "text": "戲棚跤徛久人的"
+    },
+    {
+     "t": 59.71,
+     "end": 61.73,
+     "text": "阮阿公講的"
+    },
+    {
+     "t": 62.95,
+     "end": 64.67,
+     "text": "伊徛規世人"
+    },
+    {
+     "t": 65.25,
+     "end": 66.79,
+     "text": "今仔日換阮徛"
+    },
+    {
+     "t": 70.77,
+     "end": 70.77,
+     "text": "[Verse]"
+    },
+    {
+     "t": 70.77,
+     "end": 73.73,
+     "text": "頭手鼓拍甲汗流"
+    },
+    {
+     "t": 74.01,
+     "end": 76.67,
+     "text": "伊嘛知影無人看"
+    },
+    {
+     "t": 78.19,
+     "end": 79.83,
+     "text": "毋過伊講"
+    },
+    {
+     "t": 79.97,
+     "end": 82.01,
+     "text": "神明咧看就好"
+    },
+    {
+     "t": 85.55,
+     "end": 85.55,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 85.55,
+     "end": 88.01,
+     "text": "戲棚跤徛久人的"
+    },
+    {
+     "t": 89.23,
+     "end": 91.23,
+     "text": "阮阿公講的"
+    },
+    {
+     "t": 92.51,
+     "end": 94.19,
+     "text": "伊徛規世人"
+    },
+    {
+     "t": 94.81,
+     "end": 96.71,
+     "text": "後一代嘛會徛"
+    },
+    {
+     "t": 100.09,
+     "end": 100.09,
+     "text": "[Outro]"
+    },
+    {
+     "t": 100.09,
+     "end": 101.45,
+     "text": "閣搬一齣"
+    },
+    {
+     "t": 104.94,
+     "end": 107.82,
+     "text": "閣搬一齣"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "nan04",
+   "title": "落雨的月台",
+   "title_source": "scripted",
+   "genre": "Taiwanese Hokkien ballad",
+   "language": "nan",
+   "language_name": "Taiwanese Hokkien",
+   "mood": "wistful and nocturnal",
+   "persona": "",
+   "subject": "a platform in the rain",
+   "caption": "Taiwanese Hokkien ballad, enka-influenced sorrowful vocal, wistful and nocturnal, grand piano with a string section and a lone saxophone, a husky female lead with crying vibrato and whisper-to-belt dynamics, warm analog saturation and plate reverb, no western pop, no EDM",
+   "lyrics": "[Verse]\n火車欲來的時陣\n雨拍佇月台的塗跤\n你的手佇阮的手裡\n愈來愈冷\n\n[Pre-Chorus]\n你講你會轉來\n阮無問你當時\n\n[Chorus]\n落雨的月台\n阮徛甲雨停\n火車走三點鐘矣\n阮猶原徛佇遮\n\n[Verse]\n三十年後阮閣來\n月台翻修過矣\n連彼支柱仔\n嘛無仝矣\n\n[Chorus]\n落雨的月台\n阮徛甲雨停\n火車走三點鐘矣\n阮才知影雨無欲停\n\n[Outro]\n猶原徛佇遮\n猶原徛佇遮",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "duration": 181.1
+   },
+   "generated_at": "2026-09-24T03:20:28.221Z",
+   "audio": "nan04.mp3",
+   "engine": "mlx-Yue",
+   "lyrics_timed": [
+    {
+     "t": 6.26,
+     "end": 6.26,
+     "text": "[Verse]"
+    },
+    {
+     "t": 6.26,
+     "end": 32.3,
+     "text": "火車欲來的時陣"
+    },
+    {
+     "t": 32.34,
+     "end": 39.16,
+     "text": "雨拍佇月台的塗跤"
+    },
+    {
+     "t": 42.24,
+     "end": 45.82,
+     "text": "你的手佇阮的手裡"
+    },
+    {
+     "t": 47.84,
+     "end": 49.47,
+     "text": "愈來愈冷"
+    },
+    {
+     "t": 50.39,
+     "end": 50.39,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 50.39,
+     "end": 53.83,
+     "text": "你講你會轉來"
+    },
+    {
+     "t": 55.55,
+     "end": 59.59,
+     "text": "阮無問你當時"
+    },
+    {
+     "t": 62.81,
+     "end": 62.81,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 62.81,
+     "end": 67.25,
+     "text": "落雨的月台"
+    },
+    {
+     "t": 69.69,
+     "end": 76.49,
+     "text": "阮徛甲雨停"
+    },
+    {
+     "t": 76.49,
+     "end": 81.81,
+     "text": "火車走三點鐘矣"
+    },
+    {
+     "t": 83.39,
+     "end": 97.19,
+     "text": "阮猶原徛佇遮"
+    },
+    {
+     "t": 97.33,
+     "end": 97.33,
+     "text": "[Verse]"
+    },
+    {
+     "t": 97.33,
+     "end": 101.63,
+     "text": "三十年後阮閣來"
+    },
+    {
+     "t": 103.99,
+     "end": 108.79,
+     "text": "月台翻修過矣"
+    },
+    {
+     "t": 110.81,
+     "end": 114.37,
+     "text": "連彼支柱仔"
+    },
+    {
+     "t": 117.25,
+     "end": 121.23,
+     "text": "嘛無仝矣"
+    },
+    {
+     "t": 124.53,
+     "end": 124.53,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 124.53,
+     "end": 130.13,
+     "text": "落雨的月台"
+    },
+    {
+     "t": 131.39,
+     "end": 138.19,
+     "text": "阮徛甲雨停"
+    },
+    {
+     "t": 138.19,
+     "end": 142.37,
+     "text": "火車走三點鐘矣"
+    },
+    {
+     "t": 142.51,
+     "end": 148.86,
+     "text": "阮才知影雨無欲停"
+    },
+    {
+     "t": 148.86,
+     "end": 148.86,
+     "text": "[Outro]"
+    },
+    {
+     "t": 148.86,
+     "end": 155.5,
+     "text": "猶原徛佇遮"
+    },
+    {
+     "t": 158.84,
+     "end": 162.36,
+     "text": "猶原徛佇遮"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "nan05",
+   "title": "鐵工廠的歌",
+   "title_source": "scripted",
+   "genre": "taiwanese rock",
+   "language": "nan",
+   "language_name": "Taiwanese Hokkien",
+   "mood": "defiant and loud",
+   "persona": "",
+   "subject": "an iron works closing down",
+   "caption": "Taiwanese Hokkien, taiwanese rock, defiant and loud, a four-piece band with organ and slide guitar live in one room, a raspy male voice half-spoken in the verses and shouted on the chorus, raw live-room bleed and bone-dry drums, no pop, no synth",
+   "lyrics": "[Verse]\n電銲的光比日頭較炎\n阮的目睭已經袂驚\n三十年佇這間工廠\n連手指頭嘛學會曉閃\n\n[Pre-Chorus]\n頭家講欲收起來\n講了就走\n\n[Chorus]\n阮無欲哭\n哭嘛袂當共機器留落來\n這雙手會記得\n就好\n\n[Verse]\n少年的攏去南部\n賰阮這幾个老的\n食飯的時陣無人講話\n攏知影咧想仝款的代誌\n\n[Chorus]\n阮無欲哭\n哭嘛袂當共機器留落來\n這雙手會記得\n就夠矣\n\n[Outro]\n會記得\n會記得",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "duration": 129.8
+   },
+   "generated_at": "2026-09-24T03:27:08.321Z",
+   "audio": "nan05.mp3",
+   "engine": "mlx-Yue",
+   "lyrics_timed": [
+    {
+     "t": 13.7,
+     "end": 13.7,
+     "text": "[Verse]"
+    },
+    {
+     "t": 13.7,
+     "end": 18.62,
+     "text": "電銲的光比日頭較炎"
+    },
+    {
+     "t": 21.18,
+     "end": 24.14,
+     "text": "阮的目睭已經袂驚"
+    },
+    {
+     "t": 27.16,
+     "end": 29.38,
+     "text": "三十年佇這間工廠"
+    },
+    {
+     "t": 29.96,
+     "end": 32.66,
+     "text": "連手指頭嘛學會曉閃"
+    },
+    {
+     "t": 34.5,
+     "end": 34.5,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 34.5,
+     "end": 36.37,
+     "text": "頭家講欲收起來"
+    },
+    {
+     "t": 37.07,
+     "end": 40.67,
+     "text": "講了就走"
+    },
+    {
+     "t": 45.77,
+     "end": 45.77,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 45.77,
+     "end": 47.49,
+     "text": "阮無欲哭"
+    },
+    {
+     "t": 48.69,
+     "end": 52.25,
+     "text": "哭嘛袂當共機器留落來"
+    },
+    {
+     "t": 53.25,
+     "end": 57.15,
+     "text": "這雙手會記得"
+    },
+    {
+     "t": 59.51,
+     "end": 60.37,
+     "text": "就好"
+    },
+    {
+     "t": 66.95,
+     "end": 66.95,
+     "text": "[Verse]"
+    },
+    {
+     "t": 66.95,
+     "end": 69.01,
+     "text": "少年的攏去南部"
+    },
+    {
+     "t": 70.31,
+     "end": 72.59,
+     "text": "賰阮這幾个老的"
+    },
+    {
+     "t": 73.65,
+     "end": 76.75,
+     "text": "食飯的時陣無人講話"
+    },
+    {
+     "t": 79.93,
+     "end": 87.17,
+     "text": "攏知影咧想仝款的代誌"
+    },
+    {
+     "t": 92.43,
+     "end": 92.43,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 92.43,
+     "end": 94.15,
+     "text": "阮無欲哭"
+    },
+    {
+     "t": 95.37,
+     "end": 98.95,
+     "text": "哭嘛袂當共機器留落來"
+    },
+    {
+     "t": 99.91,
+     "end": 103.81,
+     "text": "這雙手會記得"
+    },
+    {
+     "t": 106.16,
+     "end": 107.04,
+     "text": "就夠矣"
+    },
+    {
+     "t": 107.04,
+     "end": 107.04,
+     "text": "[Outro]"
+    },
+    {
+     "t": 107.04,
+     "end": 113.76,
+     "text": "會記得"
+    },
+    {
+     "t": 113.76,
+     "end": 120.5,
+     "text": "會記得"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
    "id": "sc_ja01",
    "title": "始発を待つ",
    "title_source": "scripted",
@@ -3407,6 +4197,349 @@
      "t": 158.24,
      "end": 166.5,
      "text": "같이 가"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "yue01",
+   "title": "未寄的信",
+   "title_source": "scripted",
+   "genre": "cantopop ballad",
+   "language": "yue",
+   "language_name": "Cantonese",
+   "mood": "wistful and nocturnal",
+   "persona": "",
+   "subject": "a letter never posted",
+   "caption": "Cantonese, cantopop ballad, 90s Hong Kong pop production, wistful and nocturnal, grand piano and string section, a commanding male baritone with restrained verses and an explosive chorus, warm analog saturation and plate reverb, no EDM, no trap hats",
+   "lyrics": "[Verse]\n信封擺喺抽屜入面\n郵票貼咗好多年\n你個地址我仲記得\n只係唔記得點開口\n\n[Pre-Chorus]\n窗外霓虹又轉色\n我杯茶已經凍\n\n[Chorus]\n未寄嘅信最長命\n一寫低就永遠喺度\n講唔出嘅嗰句對唔住\n留喺紙上就唔會舊\n\n[Verse]\n街口嗰間茶餐廳執咗\n我哋坐開嗰張枱\n畀人搬去邊度我唔知\n就好似我哋咁\n\n[Bridge]\n如果今晚我寄出去\n聽日你會唔會覆我\n定係好似當年咁\n畀沉默食咗\n\n[Chorus]\n未寄嘅信最長命\n一寫低就永遠喺度\n講唔出嘅嗰句對唔住\n擺喺心入面就會舊\n\n[Outro]\n貼返落去 擺返入去\n聽日再算",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "duration": 157.2
+   },
+   "generated_at": "2026-09-24T02:31:12.629Z",
+   "audio": "yue01.mp3",
+   "engine": "mlx-Yue",
+   "lyrics_timed": [
+    {
+     "t": 17.32,
+     "end": 17.32,
+     "text": "[Verse]"
+    },
+    {
+     "t": 17.32,
+     "end": 20.66,
+     "text": "信封擺喺抽屜入面"
+    },
+    {
+     "t": 24.22,
+     "end": 28.4,
+     "text": "郵票貼咗好多年"
+    },
+    {
+     "t": 31.52,
+     "end": 34.18,
+     "text": "你個地址我仲記得"
+    },
+    {
+     "t": 34.92,
+     "end": 38.32,
+     "text": "只係唔記得點開口"
+    },
+    {
+     "t": 40.9,
+     "end": 40.9,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 40.9,
+     "end": 43.09,
+     "text": "窗外霓虹又轉色"
+    },
+    {
+     "t": 44.57,
+     "end": 47.07,
+     "text": "我杯茶已經凍"
+    },
+    {
+     "t": 50.37,
+     "end": 50.37,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 50.37,
+     "end": 53.67,
+     "text": "未寄嘅信最長命"
+    },
+    {
+     "t": 54.85,
+     "end": 57.09,
+     "text": "一寫低就永遠喺度"
+    },
+    {
+     "t": 58.11,
+     "end": 61.03,
+     "text": "講唔出嘅嗰句對唔住"
+    },
+    {
+     "t": 61.51,
+     "end": 64.15,
+     "text": "留喺紙上就唔會舊"
+    },
+    {
+     "t": 68.81,
+     "end": 68.81,
+     "text": "[Verse]"
+    },
+    {
+     "t": 68.81,
+     "end": 72.17,
+     "text": "街口嗰間茶餐廳執咗"
+    },
+    {
+     "t": 75.25,
+     "end": 79.77,
+     "text": "我哋坐開嗰張枱"
+    },
+    {
+     "t": 82.11,
+     "end": 85.05,
+     "text": "畀人搬去邊度我唔知"
+    },
+    {
+     "t": 85.71,
+     "end": 87.71,
+     "text": "就好似我哋咁"
+    },
+    {
+     "t": 88.95,
+     "end": 88.95,
+     "text": "[Bridge]"
+    },
+    {
+     "t": 88.95,
+     "end": 91.39,
+     "text": "如果今晚我寄出去"
+    },
+    {
+     "t": 92.37,
+     "end": 94.85,
+     "text": "聽日你會唔會覆我"
+    },
+    {
+     "t": 95.81,
+     "end": 98.61,
+     "text": "定係好似當年咁"
+    },
+    {
+     "t": 99.21,
+     "end": 101.29,
+     "text": "畀沉默食咗"
+    },
+    {
+     "t": 105.23,
+     "end": 105.23,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 105.23,
+     "end": 108.53,
+     "text": "未寄嘅信最長命"
+    },
+    {
+     "t": 109.69,
+     "end": 111.95,
+     "text": "一寫低就永遠喺度"
+    },
+    {
+     "t": 112.95,
+     "end": 115.87,
+     "text": "講唔出嘅嗰句對唔住"
+    },
+    {
+     "t": 116.39,
+     "end": 119.07,
+     "text": "擺喺心入面就會舊"
+    },
+    {
+     "t": 124.07,
+     "end": 124.07,
+     "text": "[Outro]"
+    },
+    {
+     "t": 124.07,
+     "end": 127.1,
+     "text": "貼返落去 擺返入去"
+    },
+    {
+     "t": 129.6,
+     "end": 139.32,
+     "text": "聽日再算"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  },
+  {
+   "id": "yue02",
+   "title": "橋底風大",
+   "title_source": "scripted",
+   "genre": "canto rock",
+   "language": "yue",
+   "language_name": "Cantonese",
+   "mood": "restless and urgent",
+   "persona": "",
+   "subject": "standing under a flyover in Mong Kok",
+   "caption": "Cantonese, canto rock, modern 2020s, restless and urgent, a four-piece band — drums, bass, two guitars, live in one room, a raspy male voice, close-miked and conversational, half-spoken verses into a shouted chorus, raw live-room bleed and bone-dry drums, no pop, no synth",
+   "lyrics": "[Verse]\n旺角橋底風好大\n個個都趕住過\n冇人抬頭望下天\n天都唔知幾時黑\n\n[Pre-Chorus]\n我企喺度食支煙\n諗住聽日辭工\n諗咗三年\n\n[Chorus]\n風大就大 我企硬\n跌低就跌 我唔驚\n呢個城市推我走\n我偏要企返喺度\n\n[Verse]\n地鐵尾班車又走咗\n的士司機話唔過海\n咁我行路囉\n行到天光都仲係呢度\n\n[Guitar Solo]\n\n[Chorus]\n風大就大 我企硬\n跌低就跌 我唔驚\n呢個城市推我走\n我今日先識得走\n\n[Outro]\n企返喺度\n企返喺度",
+   "lyrics_leaked_tokens": [],
+   "lyrics_looks_romanized": false,
+   "metas": {
+    "duration": 213.4
+   },
+   "generated_at": "2026-09-24T02:45:45.886Z",
+   "audio": "yue02.mp3",
+   "engine": "mlx-Yue",
+   "lyrics_timed": [
+    {
+     "t": 29.48,
+     "end": 29.48,
+     "text": "[Verse]"
+    },
+    {
+     "t": 29.48,
+     "end": 32.58,
+     "text": "旺角橋底風好大"
+    },
+    {
+     "t": 37.2,
+     "end": 39.8,
+     "text": "個個都趕住過"
+    },
+    {
+     "t": 43.94,
+     "end": 47.32,
+     "text": "冇人抬頭望下天"
+    },
+    {
+     "t": 48.46,
+     "end": 50.86,
+     "text": "天都唔知幾時黑"
+    },
+    {
+     "t": 58.37,
+     "end": 58.37,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 58.37,
+     "end": 61.85,
+     "text": "我企喺度食支煙"
+    },
+    {
+     "t": 66.09,
+     "end": 68.99,
+     "text": "諗住聽日辭工"
+    },
+    {
+     "t": 71.49,
+     "end": 73.01,
+     "text": "諗咗三年"
+    },
+    {
+     "t": 76.03,
+     "end": 76.03,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 76.03,
+     "end": 79.99,
+     "text": "風大就大 我企硬"
+    },
+    {
+     "t": 83.29,
+     "end": 87.15,
+     "text": "跌低就跌 我唔驚"
+    },
+    {
+     "t": 90.95,
+     "end": 94.43,
+     "text": "呢個城市推我走"
+    },
+    {
+     "t": 98.19,
+     "end": 101.47,
+     "text": "我偏要企返喺度"
+    },
+    {
+     "t": 105.41,
+     "end": 105.41,
+     "text": "[Verse]"
+    },
+    {
+     "t": 105.41,
+     "end": 108.01,
+     "text": "地鐵尾班車又走咗"
+    },
+    {
+     "t": 109.03,
+     "end": 112.49,
+     "text": "的士司機話唔過海"
+    },
+    {
+     "t": 116.25,
+     "end": 119.73,
+     "text": "咁我行路囉"
+    },
+    {
+     "t": 123.41,
+     "end": 126.97,
+     "text": "行到天光都仲係呢度"
+    },
+    {
+     "t": 159.19,
+     "end": 159.19,
+     "text": "[Guitar Solo]"
+    },
+    {
+     "t": 159.19,
+     "end": 159.19,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 159.19,
+     "end": 163.13,
+     "text": "風大就大 我企硬"
+    },
+    {
+     "t": 166.39,
+     "end": 170.27,
+     "text": "跌低就跌 我唔驚"
+    },
+    {
+     "t": 174.08,
+     "end": 177.56,
+     "text": "呢個城市推我走"
+    },
+    {
+     "t": 181.3,
+     "end": 184.56,
+     "text": "我今日先識得走"
+    },
+    {
+     "t": 190.32,
+     "end": 190.32,
+     "text": "[Outro]"
+    },
+    {
+     "t": 190.32,
+     "end": 191.78,
+     "text": "企返喺度"
+    },
+    {
+     "t": 197.56,
+     "end": 198.98,
+     "text": "企返喺度"
     }
    ],
    "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
