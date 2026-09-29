@@ -6694,127 +6694,127 @@
     "prompt": "Chinese city folk. Nylon-string guitar fingerpicked close to the bridge, brushed drum kit with the snare wires loose, upright bass played soft, one Rhodes chord held under the chorus. Mixed dry and close with almost no reverb on the lead. Warm male vocal, half-spoken, conversational, breath and consonants left in. 84 BPM, G major. Tired but not self-pitying. No pop, no synth pad, no strings, no key change.",
     "lyrics": "[Intro - nylon guitar alone]\n\n[Verse 1]\n三點半 便利店的燈比外面亮\n關東煮的湯滾了一整天 已經有點鹹\n我夾了一個蘿蔔 又放回去\n換成便宜兩塊的那個\n\n[Chorus]\n不想回去 也不想待著\n只是這張塑膠椅 剛好是涼的\n我把袖子拉下來蓋住手\n再坐一首歌\n\n[Verse 2]\n值班的小孩在補貨 條碼槍響一次 他喊一次「歡迎光臨」\n喊給沒有人聽\n他昨天也在 前天也在\n我們誰都沒問對方為什麼\n\n[Chorus]\n不想回去 也不想待著\n只是這張塑膠椅 已經是溫的\n我把袖子拉下來蓋住手\n再坐半首歌\n\n[Outro - guitar, fading]\n再坐半首歌"
    },
-   "seed": "1923789591",
+   "seed": "1023220962",
    "dit_model": "acestep-v15-turbo",
-   "generation_info": "**🎵 Total generation time (1 song): 82.20s**\n- 82.20s per song\n- LM phase (1 song): 8.83s\n- DiT phase (1 song): 73.37s",
-   "task_id": "b5a1e741-b1a3-4787-a227-876c5ce57c4b",
-   "elapsed_s": 141.8,
-   "generated_at": "2026-09-29T17:00:44.784746+08:00",
+   "generation_info": "**🎵 Total generation time (1 song): 47.08s**\n- 47.08s per song\n- LM phase (1 song): 6.46s\n- DiT phase (1 song): 40.61s",
+   "task_id": "cac4c3f0-d860-4d49-8018-eb1aed4c297d",
+   "elapsed_s": 100.6,
+   "generated_at": "2026-09-29T18:42:31.539923+08:00",
    "audio": "b2_zh01.mp3",
    "lyrics_timed": [
     {
-     "t": 0.0,
-     "end": 0.0,
+     "t": 13.16,
+     "end": 13.16,
      "text": "[Intro - nylon guitar alone]"
     },
     {
-     "t": 0.0,
-     "end": 0.0,
+     "t": 13.16,
+     "end": 13.16,
      "text": "[Verse 1]"
     },
     {
-     "t": 0.0,
-     "end": 46.45,
+     "t": 13.16,
+     "end": 28.92,
      "text": "三點半 便利店的燈比外面亮"
     },
     {
-     "t": 46.47,
-     "end": 48.97,
+     "t": 28.98,
+     "end": 35.42,
      "text": "關東煮的湯滾了一整天 已經有點鹹"
     },
     {
-     "t": 49.07,
-     "end": 49.91,
+     "t": 35.48,
+     "end": 37.32,
      "text": "我夾了一個蘿蔔 又放回去"
     },
     {
-     "t": 49.91,
-     "end": 52.19,
+     "t": 38.48,
+     "end": 42.22,
      "text": "換成便宜兩塊的那個"
     },
     {
-     "t": 52.19,
-     "end": 52.19,
+     "t": 44.27,
+     "end": 44.27,
      "text": "[Chorus]"
     },
     {
-     "t": 52.19,
-     "end": 52.79,
+     "t": 44.27,
+     "end": 47.83,
      "text": "不想回去 也不想待著"
     },
     {
-     "t": 52.79,
-     "end": 59.79,
+     "t": 49.27,
+     "end": 53.73,
      "text": "只是這張塑膠椅 剛好是涼的"
     },
     {
-     "t": 59.79,
-     "end": 61.01,
+     "t": 55.05,
+     "end": 62.05,
      "text": "我把袖子拉下來蓋住手"
     },
     {
-     "t": 61.01,
-     "end": 62.43,
+     "t": 71.01,
+     "end": 73.87,
      "text": "再坐一首歌"
     },
     {
-     "t": 62.45,
-     "end": 62.45,
+     "t": 77.13,
+     "end": 77.13,
      "text": "[Verse 2]"
     },
     {
-     "t": 62.45,
-     "end": 65.25,
+     "t": 77.13,
+     "end": 85.51,
      "text": "值班的小孩在補貨 條碼槍響一次 他喊一次「歡迎光臨」"
     },
     {
-     "t": 65.33,
-     "end": 70.09,
+     "t": 88.21,
+     "end": 92.47,
      "text": "喊給沒有人聽"
     },
     {
-     "t": 70.09,
-     "end": 71.61,
+     "t": 94.29,
+     "end": 98.35,
      "text": "他昨天也在 前天也在"
     },
     {
-     "t": 71.81,
-     "end": 75.51,
+     "t": 100.01,
+     "end": 103.87,
      "text": "我們誰都沒問對方為什麼"
     },
     {
-     "t": 80.09,
-     "end": 80.09,
+     "t": 105.71,
+     "end": 105.71,
      "text": "[Chorus]"
     },
     {
-     "t": 80.09,
-     "end": 84.03,
+     "t": 105.71,
+     "end": 117.23,
      "text": "不想回去 也不想待著"
     },
     {
-     "t": 84.79,
-     "end": 89.61,
+     "t": 118.11,
+     "end": 124.19,
      "text": "只是這張塑膠椅 已經是溫的"
     },
     {
-     "t": 91.93,
-     "end": 94.97,
+     "t": 128.53,
+     "end": 133.22,
      "text": "我把袖子拉下來蓋住手"
     },
     {
-     "t": 96.93,
-     "end": 98.55,
+     "t": 133.3,
+     "end": 135.76,
      "text": "再坐半首歌"
     },
     {
-     "t": 163.44,
-     "end": 163.44,
+     "t": 165.22,
+     "end": 165.22,
      "text": "[Outro - guitar, fading]"
     },
     {
-     "t": 163.44,
-     "end": 165.04,
+     "t": 165.22,
+     "end": 168.4,
      "text": "再坐半首歌"
     }
    ],
