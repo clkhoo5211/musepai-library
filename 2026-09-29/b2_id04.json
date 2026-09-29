@@ -1,0 +1,149 @@
+{
+  "id": "b2_id04",
+  "title": "Ngomong Jowo Neng Kene",
+  "title_source": "scripted",
+  "genre": "indie Jawa",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "bangga yang pelan",
+  "persona": "",
+  "subject": "bicara bahasa daerah di Jakarta",
+  "caption": "Javanese-inflected Indonesian indie. Clean guitar arpeggios, brushed kit, a siter zither played as a rhythm part woven through the arrangement rather than dropped in as an intro ornament, warm bass. Male lead switching between Indonesian and Javanese mid-line the way people actually do. 108 BPM, A minor. Slow pride. No gamelan as decoration, no EDM, no orchestral strings, no exotic four-bar intro.",
+  "lyrics": "[Intro - siter and guitar together]\n\n[Verse 1]\nDi kantor aku ngomong Indonesia, rapi, lengkap\nDi telpon sama ibu aku ganti, otomatis, nggak mikir\nTemen sebelah meja denger, dia nanya itu bahasa apa\nAku bilang Jawa, dia bilang lucu\n\n[Chorus]\nLucu piye?\nIki basaku, wis ket cilik\nAku ora lucu\nAku mung adoh omah\n\n[Verse 2]\nAdikku wis ora iso, umure rolas\nBapak nesu, ibu meneng\nAku sing ngajari, lewat video call, seminggu pisan\nRa cukup, aku ngerti ra cukup\n\n[Chorus]\nLucu piye?\nIki basaku, wis ket cilik\nAku ora lucu\nAdikku sing arep lali\n\n[Outro - siter alone]\nAdikku sing arep lali",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 188.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Javanese-inflected Indonesian indie. Clean guitar arpeggios, brushed kit, a siter zither played as a rhythm part woven through the arrangement rather than dropped in as an intro ornament, warm bass. Male lead switching between Indonesian and Javanese mid-line the way people actually do. 108 BPM, A minor. Slow pride. No gamelan as decoration, no EDM, no orchestral strings, no exotic four-bar intro.",
+    "lyrics": "[Intro - siter and guitar together]\n\n[Verse 1]\nDi kantor aku ngomong Indonesia, rapi, lengkap\nDi telpon sama ibu aku ganti, otomatis, nggak mikir\nTemen sebelah meja denger, dia nanya itu bahasa apa\nAku bilang Jawa, dia bilang lucu\n\n[Chorus]\nLucu piye?\nIki basaku, wis ket cilik\nAku ora lucu\nAku mung adoh omah\n\n[Verse 2]\nAdikku wis ora iso, umure rolas\nBapak nesu, ibu meneng\nAku sing ngajari, lewat video call, seminggu pisan\nRa cukup, aku ngerti ra cukup\n\n[Chorus]\nLucu piye?\nIki basaku, wis ket cilik\nAku ora lucu\nAdikku sing arep lali\n\n[Outro - siter alone]\nAdikku sing arep lali"
+  },
+  "seed": "525944575",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.34s**\n- 50.34s per song\n- LM phase (1 song): 9.71s\n- DiT phase (1 song): 40.63s",
+  "task_id": "7057379e-84ea-42ab-8d7e-024307e26e9b",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:42:34.737163+08:00",
+  "audio": "b2_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.18,
+      "end": 36.18,
+      "text": "[Intro - siter and guitar together]"
+    },
+    {
+      "t": 36.18,
+      "end": 36.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.18,
+      "end": 40.9,
+      "text": "Di kantor aku ngomong Indonesia, rapi, lengkap"
+    },
+    {
+      "t": 44.76,
+      "end": 54.49,
+      "text": "Di telpon sama ibu aku ganti, otomatis, nggak mikir"
+    },
+    {
+      "t": 54.53,
+      "end": 64.75,
+      "text": "Temen sebelah meja denger, dia nanya itu bahasa apa"
+    },
+    {
+      "t": 65.51,
+      "end": 72.37,
+      "text": "Aku bilang Jawa, dia bilang lucu"
+    },
+    {
+      "t": 72.55,
+      "end": 72.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.55,
+      "end": 73.11,
+      "text": "Lucu piye?"
+    },
+    {
+      "t": 73.11,
+      "end": 78.93,
+      "text": "Iki basaku, wis ket cilik"
+    },
+    {
+      "t": 78.99,
+      "end": 81.33,
+      "text": "Aku ora lucu"
+    },
+    {
+      "t": 81.53,
+      "end": 97.17,
+      "text": "Aku mung adoh omah"
+    },
+    {
+      "t": 98.61,
+      "end": 98.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.61,
+      "end": 103.55,
+      "text": "Adikku wis ora iso, umure rolas"
+    },
+    {
+      "t": 103.55,
+      "end": 108.25,
+      "text": "Bapak nesu, ibu meneng"
+    },
+    {
+      "t": 108.33,
+      "end": 118.03,
+      "text": "Aku sing ngajari, lewat video call, seminggu pisan"
+    },
+    {
+      "t": 119.07,
+      "end": 126.33,
+      "text": "Ra cukup, aku ngerti ra cukup"
+    },
+    {
+      "t": 126.33,
+      "end": 126.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.33,
+      "end": 130.85,
+      "text": "Lucu piye?"
+    },
+    {
+      "t": 131.67,
+      "end": 139.69,
+      "text": "Iki basaku, wis ket cilik"
+    },
+    {
+      "t": 141.12,
+      "end": 146.12,
+      "text": "Aku ora lucu"
+    },
+    {
+      "t": 150.28,
+      "end": 153.14,
+      "text": "Adikku sing arep lali"
+    },
+    {
+      "t": 157.54,
+      "end": 157.54,
+      "text": "[Outro - siter alone]"
+    },
+    {
+      "t": 157.54,
+      "end": 159.78,
+      "text": "Adikku sing arep lali"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

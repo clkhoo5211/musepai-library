@@ -1,0 +1,149 @@
+{
+  "id": "b2_ms01",
+  "title": "Bilik Kedua Dari Tangga",
+  "title_source": "scripted",
+  "genre": "KL indie rock",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "letih tapi tak mengeluh",
+  "persona": "",
+  "subject": "sewa bilik di KL, jauh dari kampung",
+  "caption": "Kuala Lumpur indie rock. Two clean electric guitars through a chorus pedal, no distortion anywhere until the final chorus, drums recorded in a live room with the cymbals open, melodic bass that moves against the vocal. Conversational Malay male lead, spoken-close, no belting, no melisma. 124 BPM, A major. Tired but not complaining. No EDM, no orchestral strings, no key change, no big hall reverb, no saxophone.",
+  "lyrics": "[Intro - clean guitars]\n\n[Verse 1]\nBilik kedua dari tangga, tingkap menghadap dinding\nLampu kena pasang siang hari pun\nEnam ratus sebulan, air api dikira lain\nAku dah kira tiga kali, sama je jawapannya\n\n[Chorus]\nMak tanya bila balik\nAku cakap raya\nRaya tu lapan bulan lagi\nDia kata okay, macam biasa\n\n[Verse 2]\nHousemate aku kerja shift malam, kami jarang jumpa\nDapur ada dua periuk, satu dia satu aku\nDia tinggalkan nasi lebih kadang-kadang\nAku tak pernah cakap terima kasih, dia tak pernah tanya\n\n[Chorus - distortion enters]\nMak tanya bila balik\nAku cakap raya\nRaya tu tujuh bulan lagi\nDia kata okay, macam biasa\n\n[Outro - guitars ring out]\nDia kata okay",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Kuala Lumpur indie rock. Two clean electric guitars through a chorus pedal, no distortion anywhere until the final chorus, drums recorded in a live room with the cymbals open, melodic bass that moves against the vocal. Conversational Malay male lead, spoken-close, no belting, no melisma. 124 BPM, A major. Tired but not complaining. No EDM, no orchestral strings, no key change, no big hall reverb, no saxophone.",
+    "lyrics": "[Intro - clean guitars]\n\n[Verse 1]\nBilik kedua dari tangga, tingkap menghadap dinding\nLampu kena pasang siang hari pun\nEnam ratus sebulan, air api dikira lain\nAku dah kira tiga kali, sama je jawapannya\n\n[Chorus]\nMak tanya bila balik\nAku cakap raya\nRaya tu lapan bulan lagi\nDia kata okay, macam biasa\n\n[Verse 2]\nHousemate aku kerja shift malam, kami jarang jumpa\nDapur ada dua periuk, satu dia satu aku\nDia tinggalkan nasi lebih kadang-kadang\nAku tak pernah cakap terima kasih, dia tak pernah tanya\n\n[Chorus - distortion enters]\nMak tanya bila balik\nAku cakap raya\nRaya tu tujuh bulan lagi\nDia kata okay, macam biasa\n\n[Outro - guitars ring out]\nDia kata okay"
+  },
+  "seed": "396117260",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 51.24s**\n- 51.24s per song\n- LM phase (1 song): 9.99s\n- DiT phase (1 song): 41.25s",
+  "task_id": "ac2274a3-47b9-4bb8-846b-70cbb9aeb1af",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:14:50.284734+08:00",
+  "audio": "b2_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 51.81,
+      "end": 51.81,
+      "text": "[Intro - clean guitars]"
+    },
+    {
+      "t": 51.81,
+      "end": 51.81,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 51.81,
+      "end": 56.21,
+      "text": "Bilik kedua dari tangga, tingkap menghadap dinding"
+    },
+    {
+      "t": 56.27,
+      "end": 57.69,
+      "text": "Lampu kena pasang siang hari pun"
+    },
+    {
+      "t": 57.69,
+      "end": 60.89,
+      "text": "Enam ratus sebulan, air api dikira lain"
+    },
+    {
+      "t": 60.95,
+      "end": 63.71,
+      "text": "Aku dah kira tiga kali, sama je jawapannya"
+    },
+    {
+      "t": 63.83,
+      "end": 63.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.83,
+      "end": 64.51,
+      "text": "Mak tanya bila balik"
+    },
+    {
+      "t": 64.55,
+      "end": 64.89,
+      "text": "Aku cakap raya"
+    },
+    {
+      "t": 65.17,
+      "end": 68.43,
+      "text": "Raya tu lapan bulan lagi"
+    },
+    {
+      "t": 68.43,
+      "end": 70.25,
+      "text": "Dia kata okay, macam biasa"
+    },
+    {
+      "t": 70.35,
+      "end": 70.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.35,
+      "end": 75.41,
+      "text": "Housemate aku kerja shift malam, kami jarang jumpa"
+    },
+    {
+      "t": 75.41,
+      "end": 82.81,
+      "text": "Dapur ada dua periuk, satu dia satu aku"
+    },
+    {
+      "t": 85.87,
+      "end": 92.03,
+      "text": "Dia tinggalkan nasi lebih kadang-kadang"
+    },
+    {
+      "t": 92.93,
+      "end": 101.23,
+      "text": "Aku tak pernah cakap terima kasih, dia tak pernah tanya"
+    },
+    {
+      "t": 104.93,
+      "end": 104.93,
+      "text": "[Chorus - distortion enters]"
+    },
+    {
+      "t": 104.93,
+      "end": 107.07,
+      "text": "Mak tanya bila balik"
+    },
+    {
+      "t": 107.09,
+      "end": 112.51,
+      "text": "Aku cakap raya"
+    },
+    {
+      "t": 112.57,
+      "end": 115.65,
+      "text": "Raya tu tujuh bulan lagi"
+    },
+    {
+      "t": 116.01,
+      "end": 124.53,
+      "text": "Dia kata okay, macam biasa"
+    },
+    {
+      "t": 179.36,
+      "end": 179.36,
+      "text": "[Outro - guitars ring out]"
+    },
+    {
+      "t": 179.36,
+      "end": 182.48,
+      "text": "Dia kata okay"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

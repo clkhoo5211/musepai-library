@@ -1,0 +1,149 @@
+{
+  "id": "b2_id03",
+  "title": "Maaf Yang Keberapa",
+  "title_source": "scripted",
+  "genre": "diary-register sad pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "capek tapi masih sayang",
+  "persona": "",
+  "subject": "minta maaf yang kesekian kali",
+  "caption": "Indonesian sad pop in the current diary register. Sparse upright piano, drums kept small and dry, a tape noise floor left audible, one nylon guitar doubling the piano late. Close-miked conversational female vocal placed far forward with everything else small behind it, no strings, no pad. 88 BPM, C major. Exhausted and still in love. No EDM, no orchestral build, no key change, no big reverb, no belted climax.",
+  "lyrics": "[Intro - piano, tape noise]\n\n[Verse 1]\nIni maaf yang keberapa, aku beneran nggak inget\nDulu aku inget, nomor satu sampai lima aku inget semua\nSekarang enggak\nItu yang bikin aku diem lama tadi\n\n[Chorus]\nAku maafin\nBukan karena kamu pantes\nTapi karena aku belum siap nggak maafin\nDua hal itu beda, aku baru tau\n\n[Verse 2]\nKamu bawain martabak, yang manis, yang aku suka\nAku makan, aku bilang enak\nAku emang suka martabak\nItu bagian yang paling jujur malam ini\n\n[Chorus]\nAku maafin\nBukan karena kamu pantes\nTapi karena aku belum siap nggak maafin\nDua hal itu beda, kamu juga harus tau\n\n[Outro - piano alone]\nKamu juga harus tau",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 174.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Indonesian sad pop in the current diary register. Sparse upright piano, drums kept small and dry, a tape noise floor left audible, one nylon guitar doubling the piano late. Close-miked conversational female vocal placed far forward with everything else small behind it, no strings, no pad. 88 BPM, C major. Exhausted and still in love. No EDM, no orchestral build, no key change, no big reverb, no belted climax.",
+    "lyrics": "[Intro - piano, tape noise]\n\n[Verse 1]\nIni maaf yang keberapa, aku beneran nggak inget\nDulu aku inget, nomor satu sampai lima aku inget semua\nSekarang enggak\nItu yang bikin aku diem lama tadi\n\n[Chorus]\nAku maafin\nBukan karena kamu pantes\nTapi karena aku belum siap nggak maafin\nDua hal itu beda, aku baru tau\n\n[Verse 2]\nKamu bawain martabak, yang manis, yang aku suka\nAku makan, aku bilang enak\nAku emang suka martabak\nItu bagian yang paling jujur malam ini\n\n[Chorus]\nAku maafin\nBukan karena kamu pantes\nTapi karena aku belum siap nggak maafin\nDua hal itu beda, kamu juga harus tau\n\n[Outro - piano alone]\nKamu juga harus tau"
+  },
+  "seed": "3033482981",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.13s**\n- 50.13s per song\n- LM phase (1 song): 9.11s\n- DiT phase (1 song): 41.02s",
+  "task_id": "9860b655-59bc-45b5-8bb9-a9e240a3ef77",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-09-29T17:41:24.586870+08:00",
+  "audio": "b2_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.48,
+      "end": 21.48,
+      "text": "[Intro - piano, tape noise]"
+    },
+    {
+      "t": 21.48,
+      "end": 21.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.48,
+      "end": 27.12,
+      "text": "Ini maaf yang keberapa, aku beneran nggak inget"
+    },
+    {
+      "t": 30.22,
+      "end": 41.42,
+      "text": "Dulu aku inget, nomor satu sampai lima aku inget semua"
+    },
+    {
+      "t": 41.44,
+      "end": 46.47,
+      "text": "Sekarang enggak"
+    },
+    {
+      "t": 46.51,
+      "end": 52.17,
+      "text": "Itu yang bikin aku diem lama tadi"
+    },
+    {
+      "t": 53.45,
+      "end": 53.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.45,
+      "end": 55.03,
+      "text": "Aku maafin"
+    },
+    {
+      "t": 57.13,
+      "end": 60.17,
+      "text": "Bukan karena kamu pantes"
+    },
+    {
+      "t": 63.97,
+      "end": 71.23,
+      "text": "Tapi karena aku belum siap nggak maafin"
+    },
+    {
+      "t": 73.37,
+      "end": 76.49,
+      "text": "Dua hal itu beda, aku baru tau"
+    },
+    {
+      "t": 76.51,
+      "end": 76.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.51,
+      "end": 80.71,
+      "text": "Kamu bawain martabak, yang manis, yang aku suka"
+    },
+    {
+      "t": 80.87,
+      "end": 84.61,
+      "text": "Aku makan, aku bilang enak"
+    },
+    {
+      "t": 84.67,
+      "end": 86.91,
+      "text": "Aku emang suka martabak"
+    },
+    {
+      "t": 87.63,
+      "end": 90.05,
+      "text": "Itu bagian yang paling jujur malam ini"
+    },
+    {
+      "t": 90.19,
+      "end": 90.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.19,
+      "end": 103.57,
+      "text": "Aku maafin"
+    },
+    {
+      "t": 103.57,
+      "end": 112.95,
+      "text": "Bukan karena kamu pantes"
+    },
+    {
+      "t": 113.65,
+      "end": 145.06,
+      "text": "Tapi karena aku belum siap nggak maafin"
+    },
+    {
+      "t": 145.8,
+      "end": 153.76,
+      "text": "Dua hal itu beda, kamu juga harus tau"
+    },
+    {
+      "t": 165.48,
+      "end": 165.48,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 165.48,
+      "end": 168.42,
+      "text": "Kamu juga harus tau"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

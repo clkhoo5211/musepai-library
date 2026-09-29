@@ -1,0 +1,159 @@
+{
+  "id": "b2_en01",
+  "title": "Two Exits Past Ardmore",
+  "title_source": "scripted",
+  "genre": "stadium country",
+  "language": "en",
+  "language_name": "English",
+  "mood": "patient and stubborn",
+  "persona": "",
+  "subject": "waiting in a truck outside a diner on I-35",
+  "caption": "Stadium country with a modern pop mix. Pedal steel used as a held texture rather than a solo, clean Telecaster on muted downstrokes, upright-feeling bass with a tight modern sub, real drum kit close-miked with room on the snare only. Dry conversational female lead, doubled only on the hook, no reverb wash. 88 BPM, D major. Patient, stubborn, unsentimental. No pop, no synth, no gang vocals, no key change.",
+  "lyrics": "[Intro - pedal steel, one held note]\n\n[Chorus]\nTwo exits past Ardmore I keep the truck running\nHeater on, radio down, nobody coming\nYou said you'd be out by ten, it's a quarter to one\nI'll give it one more song\n\n[Verse 1]\nLaminated menu, corner curled up from the steam\nIce machine drops a load every twenty minutes like it's keeping time\nDwayne left a twenty and a name that isn't his\nTulsa's three hours if I don't stop\n\n[Chorus]\nTwo exits past Ardmore I keep the truck running\nHeater on, radio down, nobody coming\nYou said you'd be out by ten, it's a quarter to two\nI'll give it one more song\n\n[Instrumental Break - pedal steel]\n\n[Verse 2]\nMama kept her apron folded in the glovebox\nSaid a woman ought to have somewhere to put her hands\nI've been wiping down a counter that I do not own\nIn a town that spells my last name wrong\n\n[Outro - drums drop out, slide only]\nI'll give it one more song\nI'll give it one more song",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 168.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "2",
+    "prompt": "Stadium country with a modern pop mix. Pedal steel used as a held texture rather than a solo, clean Telecaster on muted downstrokes, upright-feeling bass with a tight modern sub, real drum kit close-miked with room on the snare only. Dry conversational female lead, doubled only on the hook, no reverb wash. 88 BPM, D major. Patient, stubborn, unsentimental. No pop, no synth, no gang vocals, no key change.",
+    "lyrics": "[Intro - pedal steel, one held note]\n\n[Chorus]\nTwo exits past Ardmore I keep the truck running\nHeater on, radio down, nobody coming\nYou said you'd be out by ten, it's a quarter to one\nI'll give it one more song\n\n[Verse 1]\nLaminated menu, corner curled up from the steam\nIce machine drops a load every twenty minutes like it's keeping time\nDwayne left a twenty and a name that isn't his\nTulsa's three hours if I don't stop\n\n[Chorus]\nTwo exits past Ardmore I keep the truck running\nHeater on, radio down, nobody coming\nYou said you'd be out by ten, it's a quarter to two\nI'll give it one more song\n\n[Instrumental Break - pedal steel]\n\n[Verse 2]\nMama kept her apron folded in the glovebox\nSaid a woman ought to have somewhere to put her hands\nI've been wiping down a counter that I do not own\nIn a town that spells my last name wrong\n\n[Outro - drums drop out, slide only]\nI'll give it one more song\nI'll give it one more song"
+  },
+  "seed": "594267049",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 47.73s**\n- 47.73s per song\n- LM phase (1 song): 6.00s\n- DiT phase (1 song): 41.73s",
+  "task_id": "6db0d87e-dd41-4f99-a81a-e7fed33375e2",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-29T17:08:49.446350+08:00",
+  "audio": "b2_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.52,
+      "end": 24.52,
+      "text": "[Intro - pedal steel, one held note]"
+    },
+    {
+      "t": 24.52,
+      "end": 24.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 24.52,
+      "end": 28.2,
+      "text": "Two exits past Ardmore I keep the truck running"
+    },
+    {
+      "t": 30.32,
+      "end": 33.58,
+      "text": "Heater on, radio down, nobody coming"
+    },
+    {
+      "t": 34.98,
+      "end": 41.3,
+      "text": "You said you'd be out by ten, it's a quarter to one"
+    },
+    {
+      "t": 41.38,
+      "end": 42.15,
+      "text": "I'll give it one more song"
+    },
+    {
+      "t": 42.17,
+      "end": 42.17,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 42.17,
+      "end": 50.87,
+      "text": "Laminated menu, corner curled up from the steam"
+    },
+    {
+      "t": 50.89,
+      "end": 54.45,
+      "text": "Ice machine drops a load every twenty minutes like it's keeping time"
+    },
+    {
+      "t": 56.17,
+      "end": 59.99,
+      "text": "Dwayne left a twenty and a name that isn't his"
+    },
+    {
+      "t": 61.77,
+      "end": 64.81,
+      "text": "Tulsa's three hours if I don't stop"
+    },
+    {
+      "t": 66.93,
+      "end": 66.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.93,
+      "end": 70.59,
+      "text": "Two exits past Ardmore I keep the truck running"
+    },
+    {
+      "t": 72.61,
+      "end": 73.37,
+      "text": "Heater on, radio down, nobody coming"
+    },
+    {
+      "t": 73.37,
+      "end": 76.15,
+      "text": "You said you'd be out by ten, it's a quarter to two"
+    },
+    {
+      "t": 76.15,
+      "end": 81.45,
+      "text": "I'll give it one more song"
+    },
+    {
+      "t": 108.13,
+      "end": 108.13,
+      "text": "[Instrumental Break - pedal steel]"
+    },
+    {
+      "t": 108.13,
+      "end": 108.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 108.13,
+      "end": 111.53,
+      "text": "Mama kept her apron folded in the glovebox"
+    },
+    {
+      "t": 113.27,
+      "end": 117.27,
+      "text": "Said a woman ought to have somewhere to put her hands"
+    },
+    {
+      "t": 118.65,
+      "end": 122.49,
+      "text": "I've been wiping down a counter that I do not own"
+    },
+    {
+      "t": 124.29,
+      "end": 130.78,
+      "text": "In a town that spells my last name wrong"
+    },
+    {
+      "t": 130.82,
+      "end": 130.82,
+      "text": "[Outro - drums drop out, slide only]"
+    },
+    {
+      "t": 130.82,
+      "end": 141.78,
+      "text": "I'll give it one more song"
+    },
+    {
+      "t": 142.0,
+      "end": 160.34,
+      "text": "I'll give it one more song"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

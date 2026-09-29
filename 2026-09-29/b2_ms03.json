@@ -1,0 +1,154 @@
+{
+  "id": "b2_ms03",
+  "title": "Hantaran Dah Bayar",
+  "title_source": "scripted",
+  "genre": "irama Malaysia joget",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "riang di luar, kosong di dalam",
+  "persona": "",
+  "subject": "pertunangan yang dibatalkan",
+  "caption": "Irama Malaysia, joget rhythm carried into a modern pop arrangement. Rebana and kompang playing the joget pattern up front, accordion and violin trading the melody, modern bass and a dry kit underneath rather than a traditional gendang only. Bright female lead singing on top of the beat, light ornamentation, no heavy melisma. 132 BPM, D major. Cheerful on the surface, hollow underneath. No EDM, no gamelan sample as decoration, no ballad section, no key change.",
+  "lyrics": "[Intro - rebana and kompang]\n\n[Chorus]\nHantaran dah bayar, pelamin dah tempah\nKad dah cetak lima ratus keping\nSemua orang tanya bila\nAku senyum, aku senyum\n\n[Verse 1]\nEmak dia telefon emak aku dulu\nBukan dia telefon aku\nTiga hari lepas tu baru dia mesej\nMesej tu pendek, aku baca dua puluh kali\n\n[Chorus]\nHantaran dah bayar, pelamin dah tempah\nKad dah cetak lima ratus keping\nSemua orang tanya bila\nAku senyum, aku senyum lagi\n\n[Instrumental Break - accordion and violin]\n\n[Verse 2]\nKad tu aku simpan, tak buang\nNanti kalau ada orang nak buat kad\nBoleh tengok contoh\nAku cakap benda ni kuat-kuat supaya bunyi macam munasabah\n\n[Outro - rebana slowing]\nAku senyum lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 178.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Irama Malaysia, joget rhythm carried into a modern pop arrangement. Rebana and kompang playing the joget pattern up front, accordion and violin trading the melody, modern bass and a dry kit underneath rather than a traditional gendang only. Bright female lead singing on top of the beat, light ornamentation, no heavy melisma. 132 BPM, D major. Cheerful on the surface, hollow underneath. No EDM, no gamelan sample as decoration, no ballad section, no key change.",
+    "lyrics": "[Intro - rebana and kompang]\n\n[Chorus]\nHantaran dah bayar, pelamin dah tempah\nKad dah cetak lima ratus keping\nSemua orang tanya bila\nAku senyum, aku senyum\n\n[Verse 1]\nEmak dia telefon emak aku dulu\nBukan dia telefon aku\nTiga hari lepas tu baru dia mesej\nMesej tu pendek, aku baca dua puluh kali\n\n[Chorus]\nHantaran dah bayar, pelamin dah tempah\nKad dah cetak lima ratus keping\nSemua orang tanya bila\nAku senyum, aku senyum lagi\n\n[Instrumental Break - accordion and violin]\n\n[Verse 2]\nKad tu aku simpan, tak buang\nNanti kalau ada orang nak buat kad\nBoleh tengok contoh\nAku cakap benda ni kuat-kuat supaya bunyi macam munasabah\n\n[Outro - rebana slowing]\nAku senyum lagi"
+  },
+  "seed": "803261575",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.19s**\n- 50.19s per song\n- LM phase (1 song): 11.50s\n- DiT phase (1 song): 38.70s",
+  "task_id": "0d7b3215-c1f2-43b7-bc98-cf431346cdf7",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-09-29T17:17:10.556306+08:00",
+  "audio": "b2_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.68,
+      "end": 0.68,
+      "text": "[Intro - rebana and kompang]"
+    },
+    {
+      "t": 0.68,
+      "end": 0.68,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 0.68,
+      "end": 14.34,
+      "text": "Hantaran dah bayar, pelamin dah tempah"
+    },
+    {
+      "t": 14.34,
+      "end": 28.12,
+      "text": "Kad dah cetak lima ratus keping"
+    },
+    {
+      "t": 28.18,
+      "end": 30.34,
+      "text": "Semua orang tanya bila"
+    },
+    {
+      "t": 32.16,
+      "end": 36.16,
+      "text": "Aku senyum, aku senyum"
+    },
+    {
+      "t": 41.22,
+      "end": 41.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.22,
+      "end": 47.89,
+      "text": "Emak dia telefon emak aku dulu"
+    },
+    {
+      "t": 47.99,
+      "end": 51.97,
+      "text": "Bukan dia telefon aku"
+    },
+    {
+      "t": 57.07,
+      "end": 61.29,
+      "text": "Tiga hari lepas tu baru dia mesej"
+    },
+    {
+      "t": 62.75,
+      "end": 68.39,
+      "text": "Mesej tu pendek, aku baca dua puluh kali"
+    },
+    {
+      "t": 70.23,
+      "end": 70.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.23,
+      "end": 75.89,
+      "text": "Hantaran dah bayar, pelamin dah tempah"
+    },
+    {
+      "t": 77.05,
+      "end": 81.61,
+      "text": "Kad dah cetak lima ratus keping"
+    },
+    {
+      "t": 84.55,
+      "end": 88.31,
+      "text": "Semua orang tanya bila"
+    },
+    {
+      "t": 89.67,
+      "end": 95.83,
+      "text": "Aku senyum, aku senyum lagi"
+    },
+    {
+      "t": 100.73,
+      "end": 100.73,
+      "text": "[Instrumental Break - accordion and violin]"
+    },
+    {
+      "t": 100.73,
+      "end": 100.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.73,
+      "end": 115.31,
+      "text": "Kad tu aku simpan, tak buang"
+    },
+    {
+      "t": 124.79,
+      "end": 129.09,
+      "text": "Nanti kalau ada orang nak buat kad"
+    },
+    {
+      "t": 129.21,
+      "end": 132.11,
+      "text": "Boleh tengok contoh"
+    },
+    {
+      "t": 132.17,
+      "end": 154.0,
+      "text": "Aku cakap benda ni kuat-kuat supaya bunyi macam munasabah"
+    },
+    {
+      "t": 157.22,
+      "end": 157.22,
+      "text": "[Outro - rebana slowing]"
+    },
+    {
+      "t": 157.22,
+      "end": 173.46,
+      "text": "Aku senyum lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

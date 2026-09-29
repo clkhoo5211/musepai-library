@@ -1,0 +1,149 @@
+{
+  "id": "b2_ko03",
+  "title": "누가 도장 찍어줘",
+  "title_source": "scripted",
+  "genre": "hyperpop rap",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "날 선 자조",
+  "persona": "",
+  "subject": "누가 래퍼를 인정해 주는가",
+  "caption": "Korean hyperpop rap crossed with dubstep. Wobbling bass in the drop, Jersey club bounce kick pattern in the verses, glitched and pitch-shifted vocal chops as the melodic layer, snare pitched high and dry. Male rap landing hard on Korean final consonants like rimshots, word order inverted so the rhyme does not fall on grammar endings, register dropping to informal speech as aggression. 150 BPM, F sharp minor. Sharp self-mockery. No boom bap, no trap hi-hat rolls, no sung autotune hook, no US drill.",
+  "lyrics": "[Intro - glitched vocal chop]\n\n[Verse 1 - rapped]\n방송국이 도장 찍어주던 시절은 끝났고\n이제 누가 찍어주냐고 물으면 다들 딴 데 봐\n조회수? 그건 숫자지 인정이 아니잖아\n나도 알아 근데 그거밖에 없잖아\n\n[Hook]\n누가 도장 찍어줘\n아무도 안 찍어줘\n그럼 내가 찍어\n종이는 내가 준비했어\n\n[Verse 2 - rapped]\n형들은 크루 만들고 나는 아직 혼자고\n혼자가 멋있다는 말 나도 해봤는데 거짓말이야\n같이 할 사람 구한다고 쓰면 없어 보일까 봐\n안 쓰고 이 벌스에 숨겨놨어\n\n[Hook]\n누가 도장 찍어줘\n아무도 안 찍어줘\n그럼 내가 찍어\n잉크는 아직 안 샀어\n\n[Outro - wobble cut]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 148.0,
+    "genres": "N/A",
+    "keyscale": "F sharp minor",
+    "timesignature": "4",
+    "prompt": "Korean hyperpop rap crossed with dubstep. Wobbling bass in the drop, Jersey club bounce kick pattern in the verses, glitched and pitch-shifted vocal chops as the melodic layer, snare pitched high and dry. Male rap landing hard on Korean final consonants like rimshots, word order inverted so the rhyme does not fall on grammar endings, register dropping to informal speech as aggression. 150 BPM, F sharp minor. Sharp self-mockery. No boom bap, no trap hi-hat rolls, no sung autotune hook, no US drill.",
+    "lyrics": "[Intro - glitched vocal chop]\n\n[Verse 1 - rapped]\n방송국이 도장 찍어주던 시절은 끝났고\n이제 누가 찍어주냐고 물으면 다들 딴 데 봐\n조회수? 그건 숫자지 인정이 아니잖아\n나도 알아 근데 그거밖에 없잖아\n\n[Hook]\n누가 도장 찍어줘\n아무도 안 찍어줘\n그럼 내가 찍어\n종이는 내가 준비했어\n\n[Verse 2 - rapped]\n형들은 크루 만들고 나는 아직 혼자고\n혼자가 멋있다는 말 나도 해봤는데 거짓말이야\n같이 할 사람 구한다고 쓰면 없어 보일까 봐\n안 쓰고 이 벌스에 숨겨놨어\n\n[Hook]\n누가 도장 찍어줘\n아무도 안 찍어줘\n그럼 내가 찍어\n잉크는 아직 안 샀어\n\n[Outro - wobble cut]\n[Song ends abruptly]"
+  },
+  "seed": "1942997631",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 46.46s**\n- 46.46s per song\n- LM phase (1 song): 12.62s\n- DiT phase (1 song): 33.84s",
+  "task_id": "156e3a48-65de-49e0-9132-233f73e22901",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-09-29T17:29:21.902148+08:00",
+  "audio": "b2_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.22,
+      "end": 1.22,
+      "text": "[Intro - glitched vocal chop]"
+    },
+    {
+      "t": 1.22,
+      "end": 1.22,
+      "text": "[Verse 1 - rapped]"
+    },
+    {
+      "t": 1.22,
+      "end": 26.36,
+      "text": "방송국이 도장 찍어주던 시절은 끝났고"
+    },
+    {
+      "t": 26.5,
+      "end": 31.84,
+      "text": "이제 누가 찍어주냐고 물으면 다들 딴 데 봐"
+    },
+    {
+      "t": 32.14,
+      "end": 37.03,
+      "text": "조회수? 그건 숫자지 인정이 아니잖아"
+    },
+    {
+      "t": 38.45,
+      "end": 44.37,
+      "text": "나도 알아 근데 그거밖에 없잖아"
+    },
+    {
+      "t": 45.05,
+      "end": 45.05,
+      "text": "[Hook]"
+    },
+    {
+      "t": 45.05,
+      "end": 46.73,
+      "text": "누가 도장 찍어줘"
+    },
+    {
+      "t": 47.87,
+      "end": 55.75,
+      "text": "아무도 안 찍어줘"
+    },
+    {
+      "t": 57.57,
+      "end": 58.87,
+      "text": "그럼 내가 찍어"
+    },
+    {
+      "t": 59.87,
+      "end": 62.35,
+      "text": "종이는 내가 준비했어"
+    },
+    {
+      "t": 64.39,
+      "end": 64.39,
+      "text": "[Verse 2 - rapped]"
+    },
+    {
+      "t": 64.39,
+      "end": 68.05,
+      "text": "형들은 크루 만들고 나는 아직 혼자고"
+    },
+    {
+      "t": 70.67,
+      "end": 74.51,
+      "text": "혼자가 멋있다는 말 나도 해봤는데 거짓말이야"
+    },
+    {
+      "t": 76.79,
+      "end": 84.23,
+      "text": "같이 할 사람 구한다고 쓰면 없어 보일까 봐"
+    },
+    {
+      "t": 84.73,
+      "end": 96.77,
+      "text": "안 쓰고 이 벌스에 숨겨놨어"
+    },
+    {
+      "t": 99.31,
+      "end": 99.31,
+      "text": "[Hook]"
+    },
+    {
+      "t": 99.31,
+      "end": 101.27,
+      "text": "누가 도장 찍어줘"
+    },
+    {
+      "t": 102.39,
+      "end": 104.43,
+      "text": "아무도 안 찍어줘"
+    },
+    {
+      "t": 105.87,
+      "end": 107.57,
+      "text": "그럼 내가 찍어"
+    },
+    {
+      "t": 109.11,
+      "end": 124.96,
+      "text": "잉크는 아직 안 샀어"
+    },
+    {
+      "t": 124.96,
+      "end": 124.96,
+      "text": "[Outro - wobble cut]"
+    },
+    {
+      "t": 124.96,
+      "end": 124.96,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "b2_zh03",
+  "title": "六號線往北",
+  "title_source": "scripted",
+  "genre": "regional drill rap",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "硬但不兇",
+  "persona": "",
+  "subject": "從縣城到省會的最後一班地鐵",
+  "caption": "Mandarin regional rap over a Jersey-drill hybrid beat. Sliding 808 tuned to the bassline, skippy drill hi-hats with a Jersey bed-squeak kick triplet, one pitched erhu phrase looped as the hook melody, sparse arrangement with long gaps. Dense male rap, multisyllabic rhyme chains that land mid-bar, no sung hook, ad-libs low in the mix. 142 BPM, B minor. Hard but not threatening. No trap hi-hat rolls, no autotune croon, no boom bap, no guns, no drugs.",
+  "lyrics": "[Intro - erhu loop, no drums]\n\n[Verse 1 - rapped]\n六號線往北 最後一班 車廂裡四個人\n一個睡 一個吃 一個在跟誰吵 一個是我\n我來的時候帶兩個箱子 一個裝書 一個裝鍋\n書沒翻過 鍋每天用\n\n[Hook]\n往北 往北 再往北就沒站了\n我爸說到終點就下車\n他不知道終點也是別人的起點\n往北 往北\n\n[Verse 2 - rapped]\n老家的表格填「省會」兩個字 他們就不再問了\n可是省會有二十三個區 我只認識三個\n房東姓王 快遞小哥姓王 樓下賣菜的也姓王\n我在這兒認識最多的姓 是王\n\n[Hook]\n往北 往北 再往北就沒站了\n我爸說到終點就下車\n我到了終點 沒下車 坐回去了\n往北 往北\n\n[Outro - erhu, cut]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 142,
+    "duration": 154.0,
+    "genres": "N/A",
+    "keyscale": "B minor",
+    "timesignature": "4",
+    "prompt": "Mandarin regional rap over a Jersey-drill hybrid beat. Sliding 808 tuned to the bassline, skippy drill hi-hats with a Jersey bed-squeak kick triplet, one pitched erhu phrase looped as the hook melody, sparse arrangement with long gaps. Dense male rap, multisyllabic rhyme chains that land mid-bar, no sung hook, ad-libs low in the mix. 142 BPM, B minor. Hard but not threatening. No trap hi-hat rolls, no autotune croon, no boom bap, no guns, no drugs.",
+    "lyrics": "[Intro - erhu loop, no drums]\n\n[Verse 1 - rapped]\n六號線往北 最後一班 車廂裡四個人\n一個睡 一個吃 一個在跟誰吵 一個是我\n我來的時候帶兩個箱子 一個裝書 一個裝鍋\n書沒翻過 鍋每天用\n\n[Hook]\n往北 往北 再往北就沒站了\n我爸說到終點就下車\n他不知道終點也是別人的起點\n往北 往北\n\n[Verse 2 - rapped]\n老家的表格填「省會」兩個字 他們就不再問了\n可是省會有二十三個區 我只認識三個\n房東姓王 快遞小哥姓王 樓下賣菜的也姓王\n我在這兒認識最多的姓 是王\n\n[Hook]\n往北 往北 再往北就沒站了\n我爸說到終點就下車\n我到了終點 沒下車 坐回去了\n往北 往北\n\n[Outro - erhu, cut]\n[Song ends abruptly]"
+  },
+  "seed": "90875763",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.99s**\n- 67.99s per song\n- LM phase (1 song): 14.93s\n- DiT phase (1 song): 53.06s",
+  "task_id": "daf5ae0a-5973-42dc-aaf0-f85e6cd5e89f",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-09-29T17:04:15.384318+08:00",
+  "audio": "b2_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Intro - erhu loop, no drums]"
+    },
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Verse 1 - rapped]"
+    },
+    {
+      "t": 20.48,
+      "end": 24.54,
+      "text": "六號線往北 最後一班 車廂裡四個人"
+    },
+    {
+      "t": 27.14,
+      "end": 31.4,
+      "text": "一個睡 一個吃 一個在跟誰吵 一個是我"
+    },
+    {
+      "t": 32.34,
+      "end": 35.2,
+      "text": "我來的時候帶兩個箱子 一個裝書 一個裝鍋"
+    },
+    {
+      "t": 36.98,
+      "end": 38.48,
+      "text": "書沒翻過 鍋每天用"
+    },
+    {
+      "t": 41.13,
+      "end": 41.13,
+      "text": "[Hook]"
+    },
+    {
+      "t": 41.13,
+      "end": 44.27,
+      "text": "往北 往北 再往北就沒站了"
+    },
+    {
+      "t": 44.63,
+      "end": 47.67,
+      "text": "我爸說到終點就下車"
+    },
+    {
+      "t": 47.97,
+      "end": 51.15,
+      "text": "他不知道終點也是別人的起點"
+    },
+    {
+      "t": 51.39,
+      "end": 52.97,
+      "text": "往北 往北"
+    },
+    {
+      "t": 54.99,
+      "end": 54.99,
+      "text": "[Verse 2 - rapped]"
+    },
+    {
+      "t": 54.99,
+      "end": 59.13,
+      "text": "老家的表格填「省會」兩個字 他們就不再問了"
+    },
+    {
+      "t": 61.35,
+      "end": 66.13,
+      "text": "可是省會有二十三個區 我只認識三個"
+    },
+    {
+      "t": 66.43,
+      "end": 70.29,
+      "text": "房東姓王 快遞小哥姓王 樓下賣菜的也姓王"
+    },
+    {
+      "t": 70.29,
+      "end": 72.79,
+      "text": "我在這兒認識最多的姓 是王"
+    },
+    {
+      "t": 73.33,
+      "end": 73.33,
+      "text": "[Hook]"
+    },
+    {
+      "t": 73.33,
+      "end": 76.21,
+      "text": "往北 往北 再往北就沒站了"
+    },
+    {
+      "t": 77.15,
+      "end": 79.37,
+      "text": "我爸說到終點就下車"
+    },
+    {
+      "t": 82.01,
+      "end": 99.95,
+      "text": "我到了終點 沒下車 坐回去了"
+    },
+    {
+      "t": 105.83,
+      "end": 106.63,
+      "text": "往北 往北"
+    },
+    {
+      "t": 106.63,
+      "end": 106.63,
+      "text": "[Outro - erhu, cut]"
+    },
+    {
+      "t": 106.63,
+      "end": 106.63,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

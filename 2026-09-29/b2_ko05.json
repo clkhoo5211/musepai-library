@@ -1,0 +1,149 @@
+{
+  "id": "b2_ko05",
+  "title": "보증금",
+  "title_source": "scripted",
+  "genre": "K-R&B",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "담담한 계산",
+  "persona": "",
+  "subject": "전세 보증금을 세는 밤",
+  "caption": "Korean R&B in the post-alt lane. Wurlitzer electric piano moving through two-five motion the US lane dropped, dusty programmed drums sitting behind the beat, round sub bass, lush harmony stacks panned narrow rather than wide. Close-miked breathy male lead, restrained, no runs. 74 BPM, B flat minor. Flat-voiced arithmetic. No trap production, no big reverb, no belted climax, no idol pop structure.",
+  "lyrics": "[Intro - Wurlitzer]\n\n[Verse 1]\n계산기 앱을 열어놓고 아무것도 안 눌렀어\n누르면 답이 나오고 답은 이미 알아\n오천 부족해\n작년에도 오천 부족했어\n\n[Chorus]\n보증금이라는 말\n보증이 안 되는데 보증금이래\n누구를 보증하는 건지\n아직도 모르겠어\n\n[Verse 2]\n집주인은 좋은 사람이야 진짜로\n좋은 사람인데 돈 얘기는 정확해\n그게 나쁜 게 아니라는 걸 알면서도\n전화 끊고 십 분은 앉아 있었어\n\n[Chorus]\n보증금이라는 말\n보증이 안 되는데 보증금이래\n누구를 보증하는 건지\n이제 좀 알 것 같기도 해\n\n[Outro - Wurlitzer, fading]\n이제 좀 알 것 같기도 해",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 74,
+    "duration": 194.0,
+    "genres": "N/A",
+    "keyscale": "B flat minor",
+    "timesignature": "4",
+    "prompt": "Korean R&B in the post-alt lane. Wurlitzer electric piano moving through two-five motion the US lane dropped, dusty programmed drums sitting behind the beat, round sub bass, lush harmony stacks panned narrow rather than wide. Close-miked breathy male lead, restrained, no runs. 74 BPM, B flat minor. Flat-voiced arithmetic. No trap production, no big reverb, no belted climax, no idol pop structure.",
+    "lyrics": "[Intro - Wurlitzer]\n\n[Verse 1]\n계산기 앱을 열어놓고 아무것도 안 눌렀어\n누르면 답이 나오고 답은 이미 알아\n오천 부족해\n작년에도 오천 부족했어\n\n[Chorus]\n보증금이라는 말\n보증이 안 되는데 보증금이래\n누구를 보증하는 건지\n아직도 모르겠어\n\n[Verse 2]\n집주인은 좋은 사람이야 진짜로\n좋은 사람인데 돈 얘기는 정확해\n그게 나쁜 게 아니라는 걸 알면서도\n전화 끊고 십 분은 앉아 있었어\n\n[Chorus]\n보증금이라는 말\n보증이 안 되는데 보증금이래\n누구를 보증하는 건지\n이제 좀 알 것 같기도 해\n\n[Outro - Wurlitzer, fading]\n이제 좀 알 것 같기도 해"
+  },
+  "seed": "2991044710",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 54.55s**\n- 54.55s per song\n- LM phase (1 song): 9.12s\n- DiT phase (1 song): 45.43s",
+  "task_id": "18241741-8970-4dfb-9801-7f0627ef6b1e",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-29T17:31:52.099071+08:00",
+  "audio": "b2_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.9,
+      "end": 26.9,
+      "text": "[Intro - Wurlitzer]"
+    },
+    {
+      "t": 26.9,
+      "end": 26.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.9,
+      "end": 32.44,
+      "text": "계산기 앱을 열어놓고 아무것도 안 눌렀어"
+    },
+    {
+      "t": 33.54,
+      "end": 38.82,
+      "text": "누르면 답이 나오고 답은 이미 알아"
+    },
+    {
+      "t": 40.16,
+      "end": 41.64,
+      "text": "오천 부족해"
+    },
+    {
+      "t": 42.48,
+      "end": 46.0,
+      "text": "작년에도 오천 부족했어"
+    },
+    {
+      "t": 51.93,
+      "end": 51.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.93,
+      "end": 54.13,
+      "text": "보증금이라는 말"
+    },
+    {
+      "t": 55.03,
+      "end": 57.73,
+      "text": "보증이 안 되는데 보증금이래"
+    },
+    {
+      "t": 58.37,
+      "end": 60.97,
+      "text": "누구를 보증하는 건지"
+    },
+    {
+      "t": 61.33,
+      "end": 64.55,
+      "text": "아직도 모르겠어"
+    },
+    {
+      "t": 78.97,
+      "end": 78.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.97,
+      "end": 82.95,
+      "text": "집주인은 좋은 사람이야 진짜로"
+    },
+    {
+      "t": 87.23,
+      "end": 91.83,
+      "text": "좋은 사람인데 돈 얘기는 정확해"
+    },
+    {
+      "t": 93.27,
+      "end": 98.15,
+      "text": "그게 나쁜 게 아니라는 걸 알면서도"
+    },
+    {
+      "t": 98.27,
+      "end": 103.37,
+      "text": "전화 끊고 십 분은 앉아 있었어"
+    },
+    {
+      "t": 105.03,
+      "end": 105.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.03,
+      "end": 143.19,
+      "text": "보증금이라는 말"
+    },
+    {
+      "t": 143.19,
+      "end": 157.94,
+      "text": "보증이 안 되는데 보증금이래"
+    },
+    {
+      "t": 157.96,
+      "end": 167.7,
+      "text": "누구를 보증하는 건지"
+    },
+    {
+      "t": 169.24,
+      "end": 173.04,
+      "text": "이제 좀 알 것 같기도 해"
+    },
+    {
+      "t": 182.24,
+      "end": 182.24,
+      "text": "[Outro - Wurlitzer, fading]"
+    },
+    {
+      "t": 182.24,
+      "end": 186.02,
+      "text": "이제 좀 알 것 같기도 해"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

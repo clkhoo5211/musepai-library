@@ -1,0 +1,149 @@
+{
+  "id": "b2_vi05",
+  "title": "Bàn Thứ Ba Dãy Cuối",
+  "title_source": "scripted",
+  "genre": "bolero revival",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "trang trọng mà đau",
+  "persona": "",
+  "subject": "mối tình đầu thời đi học",
+  "caption": "Vietnamese bolero, played straight as a prestige form rather than as nostalgia kitsch. Rumba-bolero guitar with the scooped-fret bends that give the style its cry, light hand percussion, upright bass, one accordion line entering in the second half. Male lead with restrained classic phrasing, no belting, vibrato only at phrase ends. 68 BPM, A minor. Formal and sore. No modern trap drums, no EDM, no synth pad, no traditional zither, no autotune.",
+  "lyrics": "[Intro - bolero guitar]\n\n[Verse 1]\nBàn thứ ba dãy cuối, cửa sổ bên trái, lớp mười một\nTôi ngồi đó hai năm, cạnh một người tôi không dám nhìn lâu\nCó lần cô ấy mượn bút, tôi đưa cây tốt nhất\nCô ấy trả lại, tôi giữ cây đó đến khi hết mực\n\n[Chorus]\nKhông có gì xảy ra cả\nĐó mới là chuyện\nCái gì xảy ra thì còn quên được\nCái không xảy ra thì ở lại\n\n[Verse 2]\nHọp lớp năm ngoái, cô ấy đến, có chồng, có con gái\nCô ấy nhớ tên tôi, nói đúng, không cần ai nhắc\nTôi mừng, thật sự mừng, và thấy hơi trống\nHai cái đó ngồi chung một chỗ được, tôi mới biết\n\n[Chorus - accordion enters]\nKhông có gì xảy ra cả\nĐó mới là chuyện\nCái gì xảy ra thì còn quên được\nCái không xảy ra thì tôi giữ\n\n[Outro - guitar, long]\nCái không xảy ra thì tôi giữ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 68,
+    "duration": 212.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese bolero, played straight as a prestige form rather than as nostalgia kitsch. Rumba-bolero guitar with the scooped-fret bends that give the style its cry, light hand percussion, upright bass, one accordion line entering in the second half. Male lead with restrained classic phrasing, no belting, vibrato only at phrase ends. 68 BPM, A minor. Formal and sore. No modern trap drums, no EDM, no synth pad, no traditional zither, no autotune.",
+    "lyrics": "[Intro - bolero guitar]\n\n[Verse 1]\nBàn thứ ba dãy cuối, cửa sổ bên trái, lớp mười một\nTôi ngồi đó hai năm, cạnh một người tôi không dám nhìn lâu\nCó lần cô ấy mượn bút, tôi đưa cây tốt nhất\nCô ấy trả lại, tôi giữ cây đó đến khi hết mực\n\n[Chorus]\nKhông có gì xảy ra cả\nĐó mới là chuyện\nCái gì xảy ra thì còn quên được\nCái không xảy ra thì ở lại\n\n[Verse 2]\nHọp lớp năm ngoái, cô ấy đến, có chồng, có con gái\nCô ấy nhớ tên tôi, nói đúng, không cần ai nhắc\nTôi mừng, thật sự mừng, và thấy hơi trống\nHai cái đó ngồi chung một chỗ được, tôi mới biết\n\n[Chorus - accordion enters]\nKhông có gì xảy ra cả\nĐó mới là chuyện\nCái gì xảy ra thì còn quên được\nCái không xảy ra thì tôi giữ\n\n[Outro - guitar, long]\nCái không xảy ra thì tôi giữ"
+  },
+  "seed": "1683126522",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.72s**\n- 66.72s per song\n- LM phase (1 song): 12.22s\n- DiT phase (1 song): 54.50s",
+  "task_id": "54890861-709c-4171-854f-399a37022265",
+  "elapsed_s": 90.5,
+  "generated_at": "2026-09-29T17:37:53.890709+08:00",
+  "audio": "b2_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 8.14,
+      "end": 8.14,
+      "text": "[Intro - bolero guitar]"
+    },
+    {
+      "t": 8.14,
+      "end": 8.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.14,
+      "end": 43.92,
+      "text": "Bàn thứ ba dãy cuối, cửa sổ bên trái, lớp mười một"
+    },
+    {
+      "t": 46.54,
+      "end": 51.28,
+      "text": "Tôi ngồi đó hai năm, cạnh một người tôi không dám nhìn lâu"
+    },
+    {
+      "t": 54.27,
+      "end": 58.29,
+      "text": "Có lần cô ấy mượn bút, tôi đưa cây tốt nhất"
+    },
+    {
+      "t": 61.07,
+      "end": 65.75,
+      "text": "Cô ấy trả lại, tôi giữ cây đó đến khi hết mực"
+    },
+    {
+      "t": 67.49,
+      "end": 67.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.49,
+      "end": 69.83,
+      "text": "Không có gì xảy ra cả"
+    },
+    {
+      "t": 69.95,
+      "end": 71.75,
+      "text": "Đó mới là chuyện"
+    },
+    {
+      "t": 76.31,
+      "end": 80.15,
+      "text": "Cái gì xảy ra thì còn quên được"
+    },
+    {
+      "t": 83.99,
+      "end": 87.05,
+      "text": "Cái không xảy ra thì ở lại"
+    },
+    {
+      "t": 99.65,
+      "end": 99.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.65,
+      "end": 107.05,
+      "text": "Họp lớp năm ngoái, cô ấy đến, có chồng, có con gái"
+    },
+    {
+      "t": 107.07,
+      "end": 109.41,
+      "text": "Cô ấy nhớ tên tôi, nói đúng, không cần ai nhắc"
+    },
+    {
+      "t": 112.23,
+      "end": 116.57,
+      "text": "Tôi mừng, thật sự mừng, và thấy hơi trống"
+    },
+    {
+      "t": 119.73,
+      "end": 123.95,
+      "text": "Hai cái đó ngồi chung một chỗ được, tôi mới biết"
+    },
+    {
+      "t": 123.99,
+      "end": 123.99,
+      "text": "[Chorus - accordion enters]"
+    },
+    {
+      "t": 123.99,
+      "end": 145.43,
+      "text": "Không có gì xảy ra cả"
+    },
+    {
+      "t": 145.43,
+      "end": 164.58,
+      "text": "Đó mới là chuyện"
+    },
+    {
+      "t": 165.84,
+      "end": 172.74,
+      "text": "Cái gì xảy ra thì còn quên được"
+    },
+    {
+      "t": 175.32,
+      "end": 178.56,
+      "text": "Cái không xảy ra thì tôi giữ"
+    },
+    {
+      "t": 192.32,
+      "end": 192.32,
+      "text": "[Outro - guitar, long]"
+    },
+    {
+      "t": 192.32,
+      "end": 196.08,
+      "text": "Cái không xảy ra thì tôi giữ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

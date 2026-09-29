@@ -1,0 +1,154 @@
+{
+  "id": "b2_en05",
+  "title": "Ring Light, Four Dollars",
+  "title_source": "scripted",
+  "genre": "post-hyperpop indie",
+  "language": "en",
+  "language_name": "English",
+  "mood": "bright and panicked",
+  "persona": "",
+  "subject": "filming a sponsored post while broke",
+  "caption": "Post-hyperpop indie, digital maximalism. Clipped drums with the transients squared off, pitched vocal stacks used as pads, granular chops of the lead vocal as a melodic instrument, bass distorted until it reads as a guitar, deliberate mp3 artifacting left audible on the pre-chorus. Pitched-up layered female lead answered by one completely dry unprocessed take. 145 BPM, E minor. Bright, panicked, forced cheerfulness. No clean mastering, no tropical house, no sad-girl piano, no four on the floor.",
+  "lyrics": "[Intro - clipped drums, pitched vocal stack]\n\n[Chorus]\nRing light on, four dollars in\nRing light on, four dollars in\nTell them how I did it, I'll tell them how I did it\nRing light on, four dollars in\n\n[Verse 1]\nShot the protein one in the stairwell cause the kitchen's got my roommate\nCaption says consistency, my hands are shaking from the coffee\nBrand paid in product, product is a tub\nTub is on the shelf behind me in every single video\n\n[Chorus]\nRing light on, four dollars in\nRing light on, four dollars in\nTell them how I did it, I'll tell them how I did it\nRing light on, three dollars in\n\n[Instrumental Break - granular vocal chop]\n\n[Verse 2]\nBank app opens with my face, which feels like a joke somebody wrote\nSixty thousand people watched me say I'm doing great\nOne of them was my landlord\nHe hearted it\n\n[Outro - artifacts, cut]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 145,
+    "duration": 142.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Post-hyperpop indie, digital maximalism. Clipped drums with the transients squared off, pitched vocal stacks used as pads, granular chops of the lead vocal as a melodic instrument, bass distorted until it reads as a guitar, deliberate mp3 artifacting left audible on the pre-chorus. Pitched-up layered female lead answered by one completely dry unprocessed take. 145 BPM, E minor. Bright, panicked, forced cheerfulness. No clean mastering, no tropical house, no sad-girl piano, no four on the floor.",
+    "lyrics": "[Intro - clipped drums, pitched vocal stack]\n\n[Chorus]\nRing light on, four dollars in\nRing light on, four dollars in\nTell them how I did it, I'll tell them how I did it\nRing light on, four dollars in\n\n[Verse 1]\nShot the protein one in the stairwell cause the kitchen's got my roommate\nCaption says consistency, my hands are shaking from the coffee\nBrand paid in product, product is a tub\nTub is on the shelf behind me in every single video\n\n[Chorus]\nRing light on, four dollars in\nRing light on, four dollars in\nTell them how I did it, I'll tell them how I did it\nRing light on, three dollars in\n\n[Instrumental Break - granular vocal chop]\n\n[Verse 2]\nBank app opens with my face, which feels like a joke somebody wrote\nSixty thousand people watched me say I'm doing great\nOne of them was my landlord\nHe hearted it\n\n[Outro - artifacts, cut]\n[Song ends abruptly]"
+  },
+  "seed": "3210126128",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 42.58s**\n- 42.58s per song\n- LM phase (1 song): 9.92s\n- DiT phase (1 song): 32.66s",
+  "task_id": "0525d469-3809-4158-a741-2abf77b5cd46",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-09-29T17:13:40.064121+08:00",
+  "audio": "b2_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.26,
+      "end": 22.26,
+      "text": "[Intro - clipped drums, pitched vocal stack]"
+    },
+    {
+      "t": 22.26,
+      "end": 22.26,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 22.26,
+      "end": 25.04,
+      "text": "Ring light on, four dollars in"
+    },
+    {
+      "t": 25.58,
+      "end": 28.32,
+      "text": "Ring light on, four dollars in"
+    },
+    {
+      "t": 28.44,
+      "end": 31.4,
+      "text": "Tell them how I did it, I'll tell them how I did it"
+    },
+    {
+      "t": 31.78,
+      "end": 34.96,
+      "text": "Ring light on, four dollars in"
+    },
+    {
+      "t": 38.17,
+      "end": 38.17,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.17,
+      "end": 43.79,
+      "text": "Shot the protein one in the stairwell cause the kitchen's got my roommate"
+    },
+    {
+      "t": 44.81,
+      "end": 46.99,
+      "text": "Caption says consistency, my hands are shaking from the coffee"
+    },
+    {
+      "t": 46.99,
+      "end": 47.67,
+      "text": "Brand paid in product, product is a tub"
+    },
+    {
+      "t": 47.67,
+      "end": 50.29,
+      "text": "Tub is on the shelf behind me in every single video"
+    },
+    {
+      "t": 56.27,
+      "end": 56.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.27,
+      "end": 59.09,
+      "text": "Ring light on, four dollars in"
+    },
+    {
+      "t": 59.61,
+      "end": 62.35,
+      "text": "Ring light on, four dollars in"
+    },
+    {
+      "t": 62.89,
+      "end": 65.77,
+      "text": "Tell them how I did it, I'll tell them how I did it"
+    },
+    {
+      "t": 65.87,
+      "end": 69.15,
+      "text": "Ring light on, three dollars in"
+    },
+    {
+      "t": 91.59,
+      "end": 91.59,
+      "text": "[Instrumental Break - granular vocal chop]"
+    },
+    {
+      "t": 91.59,
+      "end": 91.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.59,
+      "end": 96.99,
+      "text": "Bank app opens with my face, which feels like a joke somebody wrote"
+    },
+    {
+      "t": 96.99,
+      "end": 101.59,
+      "text": "Sixty thousand people watched me say I'm doing great"
+    },
+    {
+      "t": 101.59,
+      "end": 104.19,
+      "text": "One of them was my landlord"
+    },
+    {
+      "t": 105.77,
+      "end": 121.24,
+      "text": "He hearted it"
+    },
+    {
+      "t": 121.24,
+      "end": 121.24,
+      "text": "[Outro - artifacts, cut]"
+    },
+    {
+      "t": 121.24,
+      "end": 121.24,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

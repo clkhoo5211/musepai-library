@@ -1,0 +1,149 @@
+{
+  "id": "b2_ko01",
+  "title": "서로의 현관 비밀번호",
+  "title_source": "scripted",
+  "genre": "no-drop soft pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "편안한 신뢰",
+  "persona": "",
+  "subject": "친구 집 비밀번호를 외우고 있다는 것",
+  "caption": "Korean easy-listening pop with no drop. Light UK garage shuffle on a kit that sounds played rather than programmed, clean guitar arpeggios, warm electric bass, a single soft synth pad. Two unbelted mid-register vocals trading lines, no rap break, no belt. 104 BPM, G major. Comfortable, trusting, deliberately low-intensity. No EDM drop, no trap hats, no chanted three-syllable hook, no key change.",
+  "lyrics": "[Intro - shuffle and clean guitar]\n\n[Chorus]\n너희 집 비밀번호 아직 외워\n바뀌었으면 말해줘\n안 바뀌었으면 말 안 해도 돼\n그게 대답이니까\n\n[Verse 1]\n작년 겨울에 네가 열쇠를 잃어버려서\n내가 대신 기억해 준 여섯 자리\n네 생일도 아니고 네 강아지 생일\n그런 걸 정하는 사람이라 좋았어\n\n[Chorus]\n너희 집 비밀번호 아직 외워\n바뀌었으면 말해줘\n안 바뀌었으면 그냥 두자\n그게 대답이니까\n\n[Verse 2]\n연애 얘기는 이제 잘 안 해\n서로 재미없어졌다는 게 아니라\n안 해도 되는 사이가 된 거야\n그게 더 오래 가더라\n\n[Outro - guitar, fading]\n그게 더 오래 가더라",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 158.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Korean easy-listening pop with no drop. Light UK garage shuffle on a kit that sounds played rather than programmed, clean guitar arpeggios, warm electric bass, a single soft synth pad. Two unbelted mid-register vocals trading lines, no rap break, no belt. 104 BPM, G major. Comfortable, trusting, deliberately low-intensity. No EDM drop, no trap hats, no chanted three-syllable hook, no key change.",
+    "lyrics": "[Intro - shuffle and clean guitar]\n\n[Chorus]\n너희 집 비밀번호 아직 외워\n바뀌었으면 말해줘\n안 바뀌었으면 말 안 해도 돼\n그게 대답이니까\n\n[Verse 1]\n작년 겨울에 네가 열쇠를 잃어버려서\n내가 대신 기억해 준 여섯 자리\n네 생일도 아니고 네 강아지 생일\n그런 걸 정하는 사람이라 좋았어\n\n[Chorus]\n너희 집 비밀번호 아직 외워\n바뀌었으면 말해줘\n안 바뀌었으면 그냥 두자\n그게 대답이니까\n\n[Verse 2]\n연애 얘기는 이제 잘 안 해\n서로 재미없어졌다는 게 아니라\n안 해도 되는 사이가 된 거야\n그게 더 오래 가더라\n\n[Outro - guitar, fading]\n그게 더 오래 가더라"
+  },
+  "seed": "3051680029",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 47.09s**\n- 47.09s per song\n- LM phase (1 song): 12.53s\n- DiT phase (1 song): 34.56s",
+  "task_id": "3845a6b7-2235-437d-abfc-43b30db513b2",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:27:11.690511+08:00",
+  "audio": "b2_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.14,
+      "end": 1.14,
+      "text": "[Intro - shuffle and clean guitar]"
+    },
+    {
+      "t": 1.14,
+      "end": 1.14,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 1.14,
+      "end": 9.26,
+      "text": "너희 집 비밀번호 아직 외워"
+    },
+    {
+      "t": 10.58,
+      "end": 45.33,
+      "text": "바뀌었으면 말해줘"
+    },
+    {
+      "t": 46.41,
+      "end": 50.97,
+      "text": "안 바뀌었으면 말 안 해도 돼"
+    },
+    {
+      "t": 51.55,
+      "end": 53.97,
+      "text": "그게 대답이니까"
+    },
+    {
+      "t": 56.43,
+      "end": 56.43,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 56.43,
+      "end": 59.75,
+      "text": "작년 겨울에 네가 열쇠를 잃어버려서"
+    },
+    {
+      "t": 61.09,
+      "end": 64.39,
+      "text": "내가 대신 기억해 준 여섯 자리"
+    },
+    {
+      "t": 65.71,
+      "end": 68.53,
+      "text": "네 생일도 아니고 네 강아지 생일"
+    },
+    {
+      "t": 68.57,
+      "end": 73.29,
+      "text": "그런 걸 정하는 사람이라 좋았어"
+    },
+    {
+      "t": 74.93,
+      "end": 74.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 74.93,
+      "end": 79.25,
+      "text": "너희 집 비밀번호 아직 외워"
+    },
+    {
+      "t": 79.25,
+      "end": 84.21,
+      "text": "바뀌었으면 말해줘"
+    },
+    {
+      "t": 84.21,
+      "end": 87.17,
+      "text": "안 바뀌었으면 그냥 두자"
+    },
+    {
+      "t": 88.19,
+      "end": 89.75,
+      "text": "그게 대답이니까"
+    },
+    {
+      "t": 94.83,
+      "end": 94.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.83,
+      "end": 106.79,
+      "text": "연애 얘기는 이제 잘 안 해"
+    },
+    {
+      "t": 107.49,
+      "end": 110.39,
+      "text": "서로 재미없어졌다는 게 아니라"
+    },
+    {
+      "t": 113.35,
+      "end": 117.15,
+      "text": "안 해도 되는 사이가 된 거야"
+    },
+    {
+      "t": 121.92,
+      "end": 126.42,
+      "text": "그게 더 오래 가더라"
+    },
+    {
+      "t": 131.12,
+      "end": 131.12,
+      "text": "[Outro - guitar, fading]"
+    },
+    {
+      "t": 131.12,
+      "end": 135.62,
+      "text": "그게 더 오래 가더라"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

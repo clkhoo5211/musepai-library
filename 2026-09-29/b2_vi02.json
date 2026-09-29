@@ -1,0 +1,149 @@
+{
+  "id": "b2_vi02",
+  "title": "Dự Báo Sai",
+  "title_source": "scripted",
+  "genre": "Vietnamese neo-soul",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "ẩm và ấm",
+  "persona": "",
+  "subject": "chờ mưa mà trời không mưa",
+  "caption": "Vietnamese neo-soul. Rhodes playing sevenths and ninths, hi-hats swung hard, bass recorded direct and saturated until it distorts slightly, brushed snare, muted guitar on the offbeat. Breathy double-tracked female lead with no big reverb, harmonies kept close. 90 BPM, B flat major. Humid, warm, waiting. No EDM, no trap, no orchestral strings, no tropical house pluck, no hard autotune.",
+  "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\nỨng dụng báo chiều nay mưa, tám mươi phần trăm\nEm mang áo mưa đi làm, cả ngày nó nằm trong cặp\nSáu giờ, trời khô, nắng còn hơi vàng\nEm đứng ở cổng công ty, không biết nên vui hay không\n\n[Chorus]\nDự báo sai\nMà em vẫn tin cái ứng dụng đó\nNgày mai em lại mang áo mưa\nCó gì đâu, nặng có mấy\n\n[Verse 2]\nAnh từng nói em chuẩn bị quá nhiều\nAnh nói nhẹ thôi, không phải chê\nNhưng em nhớ, em nhớ mấy câu nhẹ như thế lâu hơn mấy câu nặng\nChắc tại nhẹ thì mình không kịp phòng\n\n[Chorus]\nDự báo sai\nMà em vẫn tin cái ứng dụng đó\nNgày mai em lại mang áo mưa\nMang cả cái của anh để quên\n\n[Outro - Rhodes, fading]\nMang cả cái của anh để quên",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 90,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "B flat major",
+    "timesignature": "4",
+    "prompt": "Vietnamese neo-soul. Rhodes playing sevenths and ninths, hi-hats swung hard, bass recorded direct and saturated until it distorts slightly, brushed snare, muted guitar on the offbeat. Breathy double-tracked female lead with no big reverb, harmonies kept close. 90 BPM, B flat major. Humid, warm, waiting. No EDM, no trap, no orchestral strings, no tropical house pluck, no hard autotune.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\nỨng dụng báo chiều nay mưa, tám mươi phần trăm\nEm mang áo mưa đi làm, cả ngày nó nằm trong cặp\nSáu giờ, trời khô, nắng còn hơi vàng\nEm đứng ở cổng công ty, không biết nên vui hay không\n\n[Chorus]\nDự báo sai\nMà em vẫn tin cái ứng dụng đó\nNgày mai em lại mang áo mưa\nCó gì đâu, nặng có mấy\n\n[Verse 2]\nAnh từng nói em chuẩn bị quá nhiều\nAnh nói nhẹ thôi, không phải chê\nNhưng em nhớ, em nhớ mấy câu nhẹ như thế lâu hơn mấy câu nặng\nChắc tại nhẹ thì mình không kịp phòng\n\n[Chorus]\nDự báo sai\nMà em vẫn tin cái ứng dụng đó\nNgày mai em lại mang áo mưa\nMang cả cái của anh để quên\n\n[Outro - Rhodes, fading]\nMang cả cái của anh để quên"
+  },
+  "seed": "830358248",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.35s**\n- 55.35s per song\n- LM phase (1 song): 11.76s\n- DiT phase (1 song): 43.59s",
+  "task_id": "dc0e994a-9487-4cfa-8b6e-a6b73f5226fa",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:34:12.414291+08:00",
+  "audio": "b2_vi02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.82,
+      "end": 21.82,
+      "text": "[Intro - Rhodes]"
+    },
+    {
+      "t": 21.82,
+      "end": 21.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.82,
+      "end": 32.98,
+      "text": "Ứng dụng báo chiều nay mưa, tám mươi phần trăm"
+    },
+    {
+      "t": 33.04,
+      "end": 35.76,
+      "text": "Em mang áo mưa đi làm, cả ngày nó nằm trong cặp"
+    },
+    {
+      "t": 35.86,
+      "end": 37.62,
+      "text": "Sáu giờ, trời khô, nắng còn hơi vàng"
+    },
+    {
+      "t": 39.34,
+      "end": 47.37,
+      "text": "Em đứng ở cổng công ty, không biết nên vui hay không"
+    },
+    {
+      "t": 47.37,
+      "end": 47.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.37,
+      "end": 48.51,
+      "text": "Dự báo sai"
+    },
+    {
+      "t": 50.19,
+      "end": 53.69,
+      "text": "Mà em vẫn tin cái ứng dụng đó"
+    },
+    {
+      "t": 56.09,
+      "end": 59.47,
+      "text": "Ngày mai em lại mang áo mưa"
+    },
+    {
+      "t": 60.85,
+      "end": 64.63,
+      "text": "Có gì đâu, nặng có mấy"
+    },
+    {
+      "t": 66.03,
+      "end": 66.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.03,
+      "end": 69.97,
+      "text": "Anh từng nói em chuẩn bị quá nhiều"
+    },
+    {
+      "t": 71.67,
+      "end": 74.97,
+      "text": "Anh nói nhẹ thôi, không phải chê"
+    },
+    {
+      "t": 75.19,
+      "end": 97.09,
+      "text": "Nhưng em nhớ, em nhớ mấy câu nhẹ như thế lâu hơn mấy câu nặng"
+    },
+    {
+      "t": 98.79,
+      "end": 102.57,
+      "text": "Chắc tại nhẹ thì mình không kịp phòng"
+    },
+    {
+      "t": 125.17,
+      "end": 125.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.17,
+      "end": 126.77,
+      "text": "Dự báo sai"
+    },
+    {
+      "t": 127.91,
+      "end": 131.87,
+      "text": "Mà em vẫn tin cái ứng dụng đó"
+    },
+    {
+      "t": 135.11,
+      "end": 137.51,
+      "text": "Ngày mai em lại mang áo mưa"
+    },
+    {
+      "t": 138.23,
+      "end": 149.6,
+      "text": "Mang cả cái của anh để quên"
+    },
+    {
+      "t": 160.58,
+      "end": 160.58,
+      "text": "[Outro - Rhodes, fading]"
+    },
+    {
+      "t": 160.58,
+      "end": 171.68,
+      "text": "Mang cả cái của anh để quên"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

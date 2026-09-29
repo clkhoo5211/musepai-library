@@ -1,0 +1,149 @@
+{
+  "id": "b2_ja05",
+  "title": "指が痛い",
+  "title_source": "scripted",
+  "genre": "shoegaze rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "汗と確信",
+  "persona": "",
+  "subject": "ライブハウスで弾き続ける手",
+  "caption": "Japanese shoegaze rock. Guitars drowned in reverb and modulation until the chords blur, bass carrying the actual melody, drums recorded live and left loose, the whole band shouting the hook in unison an octave below the lead. Female lead buried in the wash on the verses and surfacing only on the chorus. 136 BPM, A major. Sweat and conviction. No clean pop production, no synth, no programmed drums, no key change, no polished master.",
+  "lyrics": "[Intro - guitar wash, no drums]\n\n[Verse 1]\n三十人 そのうち八人は身内\n チケット代 二千円 ドリンク別\n赤字は毎回 計算してない\nしたら続けられないから\n\n[Chorus - whole band shouting]\n指が痛い\n痛いのが証拠だ\n機械は痛くならない\n指が痛い\n\n[Verse 2]\nベースの子が就職して 三月で辞める\n最後の日 一番大きい音出してた\n誰も何も言わなかった\n打ち上げで一人だけ先に帰った\n\n[Chorus - whole band shouting]\n指が痛い\n痛いのが証拠だ\n機械は痛くならない\n明日も痛い\n\n[Outro - feedback, long]\n明日も痛い",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 136,
+    "duration": 206.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Japanese shoegaze rock. Guitars drowned in reverb and modulation until the chords blur, bass carrying the actual melody, drums recorded live and left loose, the whole band shouting the hook in unison an octave below the lead. Female lead buried in the wash on the verses and surfacing only on the chorus. 136 BPM, A major. Sweat and conviction. No clean pop production, no synth, no programmed drums, no key change, no polished master.",
+    "lyrics": "[Intro - guitar wash, no drums]\n\n[Verse 1]\n三十人 そのうち八人は身内\n チケット代 二千円 ドリンク別\n赤字は毎回 計算してない\nしたら続けられないから\n\n[Chorus - whole band shouting]\n指が痛い\n痛いのが証拠だ\n機械は痛くならない\n指が痛い\n\n[Verse 2]\nベースの子が就職して 三月で辞める\n最後の日 一番大きい音出してた\n誰も何も言わなかった\n打ち上げで一人だけ先に帰った\n\n[Chorus - whole band shouting]\n指が痛い\n痛いのが証拠だ\n機械は痛くならない\n明日も痛い\n\n[Outro - feedback, long]\n明日も痛い"
+  },
+  "seed": "653848215",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.22s**\n- 61.22s per song\n- LM phase (1 song): 12.22s\n- DiT phase (1 song): 49.00s",
+  "task_id": "2c0ee091-de4c-4cc4-a8d6-57cd84dfd367",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-29T17:26:01.498029+08:00",
+  "audio": "b2_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.96,
+      "end": 35.96,
+      "text": "[Intro - guitar wash, no drums]"
+    },
+    {
+      "t": 35.96,
+      "end": 35.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.96,
+      "end": 51.12,
+      "text": "三十人 そのうち八人は身内"
+    },
+    {
+      "t": 51.12,
+      "end": 55.11,
+      "text": "チケット代 二千円 ドリンク別"
+    },
+    {
+      "t": 55.11,
+      "end": 56.69,
+      "text": "赤字は毎回 計算してない"
+    },
+    {
+      "t": 56.69,
+      "end": 59.27,
+      "text": "したら続けられないから"
+    },
+    {
+      "t": 61.91,
+      "end": 61.91,
+      "text": "[Chorus - whole band shouting]"
+    },
+    {
+      "t": 61.91,
+      "end": 63.85,
+      "text": "指が痛い"
+    },
+    {
+      "t": 64.63,
+      "end": 68.91,
+      "text": "痛いのが証拠だ"
+    },
+    {
+      "t": 69.05,
+      "end": 74.45,
+      "text": "機械は痛くならない"
+    },
+    {
+      "t": 74.79,
+      "end": 75.57,
+      "text": "指が痛い"
+    },
+    {
+      "t": 76.99,
+      "end": 76.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.99,
+      "end": 83.91,
+      "text": "ベースの子が就職して 三月で辞める"
+    },
+    {
+      "t": 84.01,
+      "end": 91.03,
+      "text": "最後の日 一番大きい音出してた"
+    },
+    {
+      "t": 94.43,
+      "end": 98.11,
+      "text": "誰も何も言わなかった"
+    },
+    {
+      "t": 101.05,
+      "end": 106.91,
+      "text": "打ち上げで一人だけ先に帰った"
+    },
+    {
+      "t": 111.87,
+      "end": 111.87,
+      "text": "[Chorus - whole band shouting]"
+    },
+    {
+      "t": 111.87,
+      "end": 119.27,
+      "text": "指が痛い"
+    },
+    {
+      "t": 119.37,
+      "end": 121.53,
+      "text": "痛いのが証拠だ"
+    },
+    {
+      "t": 125.79,
+      "end": 129.03,
+      "text": "機械は痛くならない"
+    },
+    {
+      "t": 134.45,
+      "end": 142.29,
+      "text": "明日も痛い"
+    },
+    {
+      "t": 142.39,
+      "end": 142.39,
+      "text": "[Outro - feedback, long]"
+    },
+    {
+      "t": 142.39,
+      "end": 167.54,
+      "text": "明日も痛い"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "b2_en04",
+  "title": "Whose Name Is On The Gas",
+  "title_source": "scripted",
+  "genre": "three-step",
+  "language": "en",
+  "language_name": "English",
+  "mood": "numb and practical",
+  "persona": "",
+  "subject": "sorting out a utility bill after someone moves out",
+  "caption": "Three-step, the spacious swung successor to 2-step. Shuffled kick with a wide swing, dubby minor chord stabs left to decay into silence, deep round sub, one closed hat and nothing else, deliberate negative space where a fill would be. Half-spoken male lead recorded close and left unprocessed, one whispered double on the hook. 132 BPM, C minor. Numb, practical, quietly funny. No 2-step garage skippers, no vocal chops, no build, no drop.",
+  "lyrics": "[Intro - shuffled kick and one chord stab]\n\n[Chorus]\nWhose name is on the gas\nWhose name is on the gas\nYou took the router and you left the bill\nWhose name is on the gas\n\n[Verse 1]\nTaped a key to a note that said sorry about the couch\nCouch is fine, the couch was always fine\nLandlord wants one signature, doesn't care which\nI've been reading the same paragraph since Thursday\n\n[Chorus]\nWhose name is on the gas\nWhose name is on the gas\nYou took the router and you left the bill\nWhose name is still on the gas\n\n[Instrumental Break - stabs and silence]\n\n[Verse 2]\nYour mother texts me happy birthday two days early, every year\nI don't correct her\nHalf the mugs, all the forks\nSomebody has to call about the forks\n\n[Outro - filter closing]\nWhose name is on the gas",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 182.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Three-step, the spacious swung successor to 2-step. Shuffled kick with a wide swing, dubby minor chord stabs left to decay into silence, deep round sub, one closed hat and nothing else, deliberate negative space where a fill would be. Half-spoken male lead recorded close and left unprocessed, one whispered double on the hook. 132 BPM, C minor. Numb, practical, quietly funny. No 2-step garage skippers, no vocal chops, no build, no drop.",
+    "lyrics": "[Intro - shuffled kick and one chord stab]\n\n[Chorus]\nWhose name is on the gas\nWhose name is on the gas\nYou took the router and you left the bill\nWhose name is on the gas\n\n[Verse 1]\nTaped a key to a note that said sorry about the couch\nCouch is fine, the couch was always fine\nLandlord wants one signature, doesn't care which\nI've been reading the same paragraph since Thursday\n\n[Chorus]\nWhose name is on the gas\nWhose name is on the gas\nYou took the router and you left the bill\nWhose name is still on the gas\n\n[Instrumental Break - stabs and silence]\n\n[Verse 2]\nYour mother texts me happy birthday two days early, every year\nI don't correct her\nHalf the mugs, all the forks\nSomebody has to call about the forks\n\n[Outro - filter closing]\nWhose name is on the gas"
+  },
+  "seed": "39691725",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.21s**\n- 52.21s per song\n- LM phase (1 song): 12.91s\n- DiT phase (1 song): 39.31s",
+  "task_id": "ef57a947-df4b-4c6a-9571-3cc47b6c6ceb",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-29T17:12:39.971945+08:00",
+  "audio": "b2_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.22,
+      "end": 0.22,
+      "text": "[Intro - shuffled kick and one chord stab]"
+    },
+    {
+      "t": 0.22,
+      "end": 0.22,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 0.22,
+      "end": 4.5,
+      "text": "Whose name is on the gas"
+    },
+    {
+      "t": 27.5,
+      "end": 30.58,
+      "text": "Whose name is on the gas"
+    },
+    {
+      "t": 32.54,
+      "end": 36.04,
+      "text": "You took the router and you left the bill"
+    },
+    {
+      "t": 39.32,
+      "end": 41.44,
+      "text": "Whose name is on the gas"
+    },
+    {
+      "t": 44.04,
+      "end": 44.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.04,
+      "end": 48.51,
+      "text": "Taped a key to a note that said sorry about the couch"
+    },
+    {
+      "t": 49.79,
+      "end": 53.55,
+      "text": "Couch is fine, the couch was always fine"
+    },
+    {
+      "t": 58.61,
+      "end": 62.57,
+      "text": "Landlord wants one signature, doesn't care which"
+    },
+    {
+      "t": 65.39,
+      "end": 76.93,
+      "text": "I've been reading the same paragraph since Thursday"
+    },
+    {
+      "t": 79.41,
+      "end": 79.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.41,
+      "end": 80.83,
+      "text": "Whose name is on the gas"
+    },
+    {
+      "t": 80.83,
+      "end": 83.57,
+      "text": "Whose name is on the gas"
+    },
+    {
+      "t": 83.57,
+      "end": 87.01,
+      "text": "You took the router and you left the bill"
+    },
+    {
+      "t": 87.85,
+      "end": 90.81,
+      "text": "Whose name is still on the gas"
+    },
+    {
+      "t": 114.17,
+      "end": 114.17,
+      "text": "[Instrumental Break - stabs and silence]"
+    },
+    {
+      "t": 114.17,
+      "end": 114.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 114.17,
+      "end": 118.09,
+      "text": "Your mother texts me happy birthday two days early, every year"
+    },
+    {
+      "t": 121.59,
+      "end": 122.55,
+      "text": "I don't correct her"
+    },
+    {
+      "t": 122.95,
+      "end": 125.73,
+      "text": "Half the mugs, all the forks"
+    },
+    {
+      "t": 128.85,
+      "end": 143.8,
+      "text": "Somebody has to call about the forks"
+    },
+    {
+      "t": 147.06,
+      "end": 147.06,
+      "text": "[Outro - filter closing]"
+    },
+    {
+      "t": 147.06,
+      "end": 149.92,
+      "text": "Whose name is on the gas"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

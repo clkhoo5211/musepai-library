@@ -1,0 +1,149 @@
+{
+  "id": "b2_vi03",
+  "title": "Chuyến Xe Bốn Giờ Sáng",
+  "title_source": "scripted",
+  "genre": "bedroom acoustic pop",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "lặng lẽ rời đi",
+  "persona": "",
+  "subject": "rời tỉnh lên thành phố trên chuyến xe sớm",
+  "caption": "Vietnamese bedroom acoustic pop. Clean single-coil electric guitar played softly, drums recorded in a room with no close mics, upright bass, a field recording of an engine idling under the intro. Soft male lead placed forward with the lyric doing the work, minimal processing. 96 BPM, D major. Quietly leaving. No EDM, no trap, no orchestral strings, no traditional instruments, no big reverb.",
+  "lyrics": "[Intro - engine idling, guitar]\n\n[Verse 1]\nBốn giờ sáng, xe đỗ ở đầu chợ, chợ chưa mở\nMẹ dậy từ ba giờ, nấu cơm, gói vào hộp nhựa\nCon nói con ăn trên xe, con không ăn trên xe\nCon để nguyên, đến nơi mới mở, để lâu hơn một chút\n\n[Chorus]\nXe chạy rồi\nCon không quay lại nhìn\nKhông phải vì mạnh mẽ\nMà vì quay lại thì khó xuống\n\n[Verse 2]\nGhế số mười hai, cạnh cửa sổ, con chọn từ hôm kia\nCon tính sẵn là sẽ ngủ, con không ngủ được\nBốn tiếng con nhìn cột điện, đếm đến hai trăm rồi thôi\nTrời sáng ở đoạn nào con cũng không để ý\n\n[Chorus]\nXe chạy rồi\nCon không quay lại nhìn\nKhông phải vì mạnh mẽ\nMà vì con biết mẹ vẫn đứng đó\n\n[Outro - guitar and engine]\nMẹ vẫn đứng đó",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Vietnamese bedroom acoustic pop. Clean single-coil electric guitar played softly, drums recorded in a room with no close mics, upright bass, a field recording of an engine idling under the intro. Soft male lead placed forward with the lyric doing the work, minimal processing. 96 BPM, D major. Quietly leaving. No EDM, no trap, no orchestral strings, no traditional instruments, no big reverb.",
+    "lyrics": "[Intro - engine idling, guitar]\n\n[Verse 1]\nBốn giờ sáng, xe đỗ ở đầu chợ, chợ chưa mở\nMẹ dậy từ ba giờ, nấu cơm, gói vào hộp nhựa\nCon nói con ăn trên xe, con không ăn trên xe\nCon để nguyên, đến nơi mới mở, để lâu hơn một chút\n\n[Chorus]\nXe chạy rồi\nCon không quay lại nhìn\nKhông phải vì mạnh mẽ\nMà vì quay lại thì khó xuống\n\n[Verse 2]\nGhế số mười hai, cạnh cửa sổ, con chọn từ hôm kia\nCon tính sẵn là sẽ ngủ, con không ngủ được\nBốn tiếng con nhìn cột điện, đếm đến hai trăm rồi thôi\nTrời sáng ở đoạn nào con cũng không để ý\n\n[Chorus]\nXe chạy rồi\nCon không quay lại nhìn\nKhông phải vì mạnh mẽ\nMà vì con biết mẹ vẫn đứng đó\n\n[Outro - guitar and engine]\nMẹ vẫn đứng đó"
+  },
+  "seed": "2661864906",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 46.83s**\n- 46.83s per song\n- LM phase (1 song): 4.52s\n- DiT phase (1 song): 42.30s",
+  "task_id": "5f613157-bb71-4057-ac85-3da8dad22b36",
+  "elapsed_s": 70.9,
+  "generated_at": "2026-09-29T17:35:23.274934+08:00",
+  "audio": "b2_vi03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 44.96,
+      "end": 44.96,
+      "text": "[Intro - engine idling, guitar]"
+    },
+    {
+      "t": 44.96,
+      "end": 44.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.96,
+      "end": 50.43,
+      "text": "Bốn giờ sáng, xe đỗ ở đầu chợ, chợ chưa mở"
+    },
+    {
+      "t": 50.63,
+      "end": 53.97,
+      "text": "Mẹ dậy từ ba giờ, nấu cơm, gói vào hộp nhựa"
+    },
+    {
+      "t": 55.27,
+      "end": 59.49,
+      "text": "Con nói con ăn trên xe, con không ăn trên xe"
+    },
+    {
+      "t": 60.31,
+      "end": 65.01,
+      "text": "Con để nguyên, đến nơi mới mở, để lâu hơn một chút"
+    },
+    {
+      "t": 65.89,
+      "end": 65.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.89,
+      "end": 67.39,
+      "text": "Xe chạy rồi"
+    },
+    {
+      "t": 68.11,
+      "end": 69.87,
+      "text": "Con không quay lại nhìn"
+    },
+    {
+      "t": 70.27,
+      "end": 71.99,
+      "text": "Không phải vì mạnh mẽ"
+    },
+    {
+      "t": 72.49,
+      "end": 76.07,
+      "text": "Mà vì quay lại thì khó xuống"
+    },
+    {
+      "t": 76.87,
+      "end": 76.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.87,
+      "end": 81.91,
+      "text": "Ghế số mười hai, cạnh cửa sổ, con chọn từ hôm kia"
+    },
+    {
+      "t": 81.91,
+      "end": 84.77,
+      "text": "Con tính sẵn là sẽ ngủ, con không ngủ được"
+    },
+    {
+      "t": 86.31,
+      "end": 90.41,
+      "text": "Bốn tiếng con nhìn cột điện, đếm đến hai trăm rồi thôi"
+    },
+    {
+      "t": 90.69,
+      "end": 94.63,
+      "text": "Trời sáng ở đoạn nào con cũng không để ý"
+    },
+    {
+      "t": 103.27,
+      "end": 103.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.27,
+      "end": 104.81,
+      "text": "Xe chạy rồi"
+    },
+    {
+      "t": 105.79,
+      "end": 118.55,
+      "text": "Con không quay lại nhìn"
+    },
+    {
+      "t": 133.29,
+      "end": 134.67,
+      "text": "Không phải vì mạnh mẽ"
+    },
+    {
+      "t": 137.53,
+      "end": 139.67,
+      "text": "Mà vì con biết mẹ vẫn đứng đó"
+    },
+    {
+      "t": 157.84,
+      "end": 157.84,
+      "text": "[Outro - guitar and engine]"
+    },
+    {
+      "t": 157.84,
+      "end": 159.56,
+      "text": "Mẹ vẫn đứng đó"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

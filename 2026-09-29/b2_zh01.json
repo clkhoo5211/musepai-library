@@ -1,0 +1,149 @@
+{
+  "id": "b2_zh01",
+  "title": "三点半的關東煮",
+  "title_source": "scripted",
+  "genre": "city folk",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "疲惫但不自怜",
+  "persona": "",
+  "subject": "下夜班在便利店吃關東煮",
+  "caption": "Chinese city folk. Nylon-string guitar fingerpicked close to the bridge, brushed drum kit with the snare wires loose, upright bass played soft, one Rhodes chord held under the chorus. Mixed dry and close with almost no reverb on the lead. Warm male vocal, half-spoken, conversational, breath and consonants left in. 84 BPM, G major. Tired but not self-pitying. No pop, no synth pad, no strings, no key change.",
+  "lyrics": "[Intro - nylon guitar alone]\n\n[Verse 1]\n三點半 便利店的燈比外面亮\n關東煮的湯滾了一整天 已經有點鹹\n我夾了一個蘿蔔 又放回去\n換成便宜兩塊的那個\n\n[Chorus]\n不想回去 也不想待著\n只是這張塑膠椅 剛好是涼的\n我把袖子拉下來蓋住手\n再坐一首歌\n\n[Verse 2]\n值班的小孩在補貨 條碼槍響一次 他喊一次「歡迎光臨」\n喊給沒有人聽\n他昨天也在 前天也在\n我們誰都沒問對方為什麼\n\n[Chorus]\n不想回去 也不想待著\n只是這張塑膠椅 已經是溫的\n我把袖子拉下來蓋住手\n再坐半首歌\n\n[Outro - guitar, fading]\n再坐半首歌",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 176.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Chinese city folk. Nylon-string guitar fingerpicked close to the bridge, brushed drum kit with the snare wires loose, upright bass played soft, one Rhodes chord held under the chorus. Mixed dry and close with almost no reverb on the lead. Warm male vocal, half-spoken, conversational, breath and consonants left in. 84 BPM, G major. Tired but not self-pitying. No pop, no synth pad, no strings, no key change.",
+    "lyrics": "[Intro - nylon guitar alone]\n\n[Verse 1]\n三點半 便利店的燈比外面亮\n關東煮的湯滾了一整天 已經有點鹹\n我夾了一個蘿蔔 又放回去\n換成便宜兩塊的那個\n\n[Chorus]\n不想回去 也不想待著\n只是這張塑膠椅 剛好是涼的\n我把袖子拉下來蓋住手\n再坐一首歌\n\n[Verse 2]\n值班的小孩在補貨 條碼槍響一次 他喊一次「歡迎光臨」\n喊給沒有人聽\n他昨天也在 前天也在\n我們誰都沒問對方為什麼\n\n[Chorus]\n不想回去 也不想待著\n只是這張塑膠椅 已經是溫的\n我把袖子拉下來蓋住手\n再坐半首歌\n\n[Outro - guitar, fading]\n再坐半首歌"
+  },
+  "seed": "1923789591",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 82.20s**\n- 82.20s per song\n- LM phase (1 song): 8.83s\n- DiT phase (1 song): 73.37s",
+  "task_id": "b5a1e741-b1a3-4787-a227-876c5ce57c4b",
+  "elapsed_s": 141.8,
+  "generated_at": "2026-09-29T17:00:44.784746+08:00",
+  "audio": "b2_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - nylon guitar alone]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 46.45,
+      "text": "三點半 便利店的燈比外面亮"
+    },
+    {
+      "t": 46.47,
+      "end": 48.97,
+      "text": "關東煮的湯滾了一整天 已經有點鹹"
+    },
+    {
+      "t": 49.07,
+      "end": 49.91,
+      "text": "我夾了一個蘿蔔 又放回去"
+    },
+    {
+      "t": 49.91,
+      "end": 52.19,
+      "text": "換成便宜兩塊的那個"
+    },
+    {
+      "t": 52.19,
+      "end": 52.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.19,
+      "end": 52.79,
+      "text": "不想回去 也不想待著"
+    },
+    {
+      "t": 52.79,
+      "end": 59.79,
+      "text": "只是這張塑膠椅 剛好是涼的"
+    },
+    {
+      "t": 59.79,
+      "end": 61.01,
+      "text": "我把袖子拉下來蓋住手"
+    },
+    {
+      "t": 61.01,
+      "end": 62.43,
+      "text": "再坐一首歌"
+    },
+    {
+      "t": 62.45,
+      "end": 62.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.45,
+      "end": 65.25,
+      "text": "值班的小孩在補貨 條碼槍響一次 他喊一次「歡迎光臨」"
+    },
+    {
+      "t": 65.33,
+      "end": 70.09,
+      "text": "喊給沒有人聽"
+    },
+    {
+      "t": 70.09,
+      "end": 71.61,
+      "text": "他昨天也在 前天也在"
+    },
+    {
+      "t": 71.81,
+      "end": 75.51,
+      "text": "我們誰都沒問對方為什麼"
+    },
+    {
+      "t": 80.09,
+      "end": 80.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 80.09,
+      "end": 84.03,
+      "text": "不想回去 也不想待著"
+    },
+    {
+      "t": 84.79,
+      "end": 89.61,
+      "text": "只是這張塑膠椅 已經是溫的"
+    },
+    {
+      "t": 91.93,
+      "end": 94.97,
+      "text": "我把袖子拉下來蓋住手"
+    },
+    {
+      "t": 96.93,
+      "end": 98.55,
+      "text": "再坐半首歌"
+    },
+    {
+      "t": 163.44,
+      "end": 163.44,
+      "text": "[Outro - guitar, fading]"
+    },
+    {
+      "t": 163.44,
+      "end": 165.04,
+      "text": "再坐半首歌"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

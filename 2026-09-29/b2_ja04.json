@@ -1,0 +1,149 @@
+{
+  "id": "b2_ja04",
+  "title": "まだ直さない",
+  "title_source": "scripted",
+  "genre": "modal art pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "解決しない自己嫌悪",
+  "persona": "",
+  "subject": "壊れたまま置いてある物",
+  "caption": "Japanese modal art pop. Hand drums and found-object percussion instead of a kit, two-note horn stabs punctuating the line, upright bass, a detuned toy piano appearing twice. The arrangement drops to nothing without warning and returns. Male lead with sudden register jumps, no pre-chorus lift anywhere. 104 BPM, D dorian. Self-disgust that refuses to resolve. No uplifting modulation, no string swell, no four on the floor, no resolution in the final chorus.",
+  "lyrics": "[Intro - hand drums and found objects]\n\n[Verse 1]\n洗面所の電球が切れて二ヶ月\n買ってある 袋も開けてない\n暗くても顔は洗える\n洗える ということにしている\n\n[Chorus]\nまだ直さない\n直せないんじゃない 直さない\nこの差が自分でも嫌になる\nでも まだ直さない\n\n[Verse 2]\n友達が来る日は直す\n来ない日は直さない\n誰のために生きてるかが はっきりしすぎてる\nはっきりしてるのに 直さない\n\n[Chorus - arrangement drops out]\nまだ直さない\n直せないんじゃない 直さない\nこの差が自分でも嫌になる\n今日も まだ直さない\n\n[Outro - silence then one horn]\nまだ直さない",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "D dorian",
+    "timesignature": "4",
+    "prompt": "Japanese modal art pop. Hand drums and found-object percussion instead of a kit, two-note horn stabs punctuating the line, upright bass, a detuned toy piano appearing twice. The arrangement drops to nothing without warning and returns. Male lead with sudden register jumps, no pre-chorus lift anywhere. 104 BPM, D dorian. Self-disgust that refuses to resolve. No uplifting modulation, no string swell, no four on the floor, no resolution in the final chorus.",
+    "lyrics": "[Intro - hand drums and found objects]\n\n[Verse 1]\n洗面所の電球が切れて二ヶ月\n買ってある 袋も開けてない\n暗くても顔は洗える\n洗える ということにしている\n\n[Chorus]\nまだ直さない\n直せないんじゃない 直さない\nこの差が自分でも嫌になる\nでも まだ直さない\n\n[Verse 2]\n友達が来る日は直す\n来ない日は直さない\n誰のために生きてるかが はっきりしすぎてる\nはっきりしてるのに 直さない\n\n[Chorus - arrangement drops out]\nまだ直さない\n直せないんじゃない 直さない\nこの差が自分でも嫌になる\n今日も まだ直さない\n\n[Outro - silence then one horn]\nまだ直さない"
+  },
+  "seed": "1097000946",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.07s**\n- 52.07s per song\n- LM phase (1 song): 11.15s\n- DiT phase (1 song): 40.92s",
+  "task_id": "bf648a3b-ec0f-4fd1-93c9-812311cd8827",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-29T17:24:41.399979+08:00",
+  "audio": "b2_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.76,
+      "end": 36.76,
+      "text": "[Intro - hand drums and found objects]"
+    },
+    {
+      "t": 36.76,
+      "end": 36.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.76,
+      "end": 42.06,
+      "text": "洗面所の電球が切れて二ヶ月"
+    },
+    {
+      "t": 42.26,
+      "end": 49.73,
+      "text": "買ってある 袋も開けてない"
+    },
+    {
+      "t": 50.35,
+      "end": 55.97,
+      "text": "暗くても顔は洗える"
+    },
+    {
+      "t": 56.01,
+      "end": 60.67,
+      "text": "洗える ということにしている"
+    },
+    {
+      "t": 73.09,
+      "end": 73.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.09,
+      "end": 92.03,
+      "text": "まだ直さない"
+    },
+    {
+      "t": 94.81,
+      "end": 100.03,
+      "text": "直せないんじゃない 直さない"
+    },
+    {
+      "t": 104.53,
+      "end": 121.19,
+      "text": "この差が自分でも嫌になる"
+    },
+    {
+      "t": 121.41,
+      "end": 124.31,
+      "text": "でも まだ直さない"
+    },
+    {
+      "t": 124.53,
+      "end": 124.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 124.53,
+      "end": 136.09,
+      "text": "友達が来る日は直す"
+    },
+    {
+      "t": 136.27,
+      "end": 143.97,
+      "text": "来ない日は直さない"
+    },
+    {
+      "t": 144.18,
+      "end": 156.14,
+      "text": "誰のために生きてるかが はっきりしすぎてる"
+    },
+    {
+      "t": 156.16,
+      "end": 160.36,
+      "text": "はっきりしてるのに 直さない"
+    },
+    {
+      "t": 160.54,
+      "end": 160.54,
+      "text": "[Chorus - arrangement drops out]"
+    },
+    {
+      "t": 160.54,
+      "end": 162.66,
+      "text": "まだ直さない"
+    },
+    {
+      "t": 163.0,
+      "end": 166.94,
+      "text": "直せないんじゃない 直さない"
+    },
+    {
+      "t": 167.14,
+      "end": 172.94,
+      "text": "この差が自分でも嫌になる"
+    },
+    {
+      "t": 173.7,
+      "end": 177.52,
+      "text": "今日も まだ直さない"
+    },
+    {
+      "t": 179.68,
+      "end": 179.68,
+      "text": "[Outro - silence then one horn]"
+    },
+    {
+      "t": 179.68,
+      "end": 181.38,
+      "text": "まだ直さない"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

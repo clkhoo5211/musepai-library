@@ -1,0 +1,149 @@
+{
+  "id": "b2_th01",
+  "title": "กลัวว่าจะไม่เศร้า",
+  "title_source": "scripted",
+  "genre": "Thai sad indie pop",
+  "language": "th",
+  "language_name": "Thai",
+  "mood": "ชาแบบที่กลัวตัวเอง",
+  "persona": "",
+  "subject": "กลัวว่าวันหนึ่งจะไม่รู้สึกอะไรอีก",
+  "caption": "Thai sad indie pop. Clean electric guitar through a chorus pedal carrying the whole song, halftime kick and snare with a very long live snare tail, one soft synth pad, suspended chords looping without resolving. Breathy soft male lead with a narrow vibrato, whisper in the verses and only a small lift in the final chorus. 84 BPM, F sharp minor. Numb and frightened of the numbness. No traditional Thai instruments, no EDM drop, no brickwall master, no string machine, no key change.",
+  "lyrics": "[Intro - chorused guitar]\n\n[Verse 1]\nวันนี้ได้ข่าวว่าเขาแต่งงานแล้ว\nเราอ่านจบ แล้วก็ไปล้างจาน\nจานมีสี่ใบ ล้างเสร็จในสามนาที\nไม่มีอะไรเกิดขึ้นเลย นั่นแหละที่แปลก\n\n[Chorus]\nเรากลัวว่าจะไม่เศร้า\nเศร้ายังแปลว่ายังอยู่\nถ้าไม่เศร้าแล้วเราเหลืออะไร\nคำถามนี้ไม่มีใครถามเราเลย\n\n[Verse 2]\nเพื่อนโทรมาถามว่าโอเคไหม\nเราบอกโอเค แล้วเราก็โอเคจริง ๆ\nวางสายแล้วเรานั่งอยู่ตรงนั้นสิบห้านาที\nไม่ได้คิดอะไร แค่นั่ง\n\n[Chorus - full band lift]\nเรากลัวว่าจะไม่เศร้า\nเศร้ายังแปลว่ายังอยู่\nถ้าไม่เศร้าแล้วเราเหลืออะไร\nวันนี้ยังไม่มีคำตอบ\n\n[Outro - guitar, long fade]\nวันนี้ยังไม่มีคำตอบ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "F sharp minor",
+    "timesignature": "4",
+    "prompt": "Thai sad indie pop. Clean electric guitar through a chorus pedal carrying the whole song, halftime kick and snare with a very long live snare tail, one soft synth pad, suspended chords looping without resolving. Breathy soft male lead with a narrow vibrato, whisper in the verses and only a small lift in the final chorus. 84 BPM, F sharp minor. Numb and frightened of the numbness. No traditional Thai instruments, no EDM drop, no brickwall master, no string machine, no key change.",
+    "lyrics": "[Intro - chorused guitar]\n\n[Verse 1]\nวันนี้ได้ข่าวว่าเขาแต่งงานแล้ว\nเราอ่านจบ แล้วก็ไปล้างจาน\nจานมีสี่ใบ ล้างเสร็จในสามนาที\nไม่มีอะไรเกิดขึ้นเลย นั่นแหละที่แปลก\n\n[Chorus]\nเรากลัวว่าจะไม่เศร้า\nเศร้ายังแปลว่ายังอยู่\nถ้าไม่เศร้าแล้วเราเหลืออะไร\nคำถามนี้ไม่มีใครถามเราเลย\n\n[Verse 2]\nเพื่อนโทรมาถามว่าโอเคไหม\nเราบอกโอเค แล้วเราก็โอเคจริง ๆ\nวางสายแล้วเรานั่งอยู่ตรงนั้นสิบห้านาที\nไม่ได้คิดอะไร แค่นั่ง\n\n[Chorus - full band lift]\nเรากลัวว่าจะไม่เศร้า\nเศร้ายังแปลว่ายังอยู่\nถ้าไม่เศร้าแล้วเราเหลืออะไร\nวันนี้ยังไม่มีคำตอบ\n\n[Outro - guitar, long fade]\nวันนี้ยังไม่มีคำตอบ"
+  },
+  "seed": "3930775393",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.13s**\n- 59.13s per song\n- LM phase (1 song): 11.91s\n- DiT phase (1 song): 47.22s",
+  "task_id": "f0bf6e6d-7ca9-4901-bf11-05cd2fa2a174",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-29T17:45:05.046868+08:00",
+  "audio": "b2_th01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.12,
+      "end": 1.12,
+      "text": "[Intro - chorused guitar]"
+    },
+    {
+      "t": 1.12,
+      "end": 1.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.12,
+      "end": 35.78,
+      "text": "วันนี้ได้ข่าวว่าเขาแต่งงานแล้ว"
+    },
+    {
+      "t": 35.8,
+      "end": 38.46,
+      "text": "เราอ่านจบ แล้วก็ไปล้างจาน"
+    },
+    {
+      "t": 38.6,
+      "end": 41.58,
+      "text": "จานมีสี่ใบ ล้างเสร็จในสามนาที"
+    },
+    {
+      "t": 41.58,
+      "end": 73.53,
+      "text": "ไม่มีอะไรเกิดขึ้นเลย นั่นแหละที่แปลก"
+    },
+    {
+      "t": 73.53,
+      "end": 73.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.53,
+      "end": 75.81,
+      "text": "เรากลัวว่าจะไม่เศร้า"
+    },
+    {
+      "t": 75.81,
+      "end": 83.15,
+      "text": "เศร้ายังแปลว่ายังอยู่"
+    },
+    {
+      "t": 83.15,
+      "end": 86.33,
+      "text": "ถ้าไม่เศร้าแล้วเราเหลืออะไร"
+    },
+    {
+      "t": 86.61,
+      "end": 91.75,
+      "text": "คำถามนี้ไม่มีใครถามเราเลย"
+    },
+    {
+      "t": 92.69,
+      "end": 92.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.69,
+      "end": 95.05,
+      "text": "เพื่อนโทรมาถามว่าโอเคไหม"
+    },
+    {
+      "t": 95.05,
+      "end": 106.77,
+      "text": "เราบอกโอเค แล้วเราก็โอเคจริง ๆ"
+    },
+    {
+      "t": 106.77,
+      "end": 113.07,
+      "text": "วางสายแล้วเรานั่งอยู่ตรงนั้นสิบห้านาที"
+    },
+    {
+      "t": 114.55,
+      "end": 118.21,
+      "text": "ไม่ได้คิดอะไร แค่นั่ง"
+    },
+    {
+      "t": 123.67,
+      "end": 123.67,
+      "text": "[Chorus - full band lift]"
+    },
+    {
+      "t": 123.67,
+      "end": 134.99,
+      "text": "เรากลัวว่าจะไม่เศร้า"
+    },
+    {
+      "t": 135.03,
+      "end": 137.93,
+      "text": "เศร้ายังแปลว่ายังอยู่"
+    },
+    {
+      "t": 140.03,
+      "end": 182.16,
+      "text": "ถ้าไม่เศร้าแล้วเราเหลืออะไร"
+    },
+    {
+      "t": 187.36,
+      "end": 193.5,
+      "text": "วันนี้ยังไม่มีคำตอบ"
+    },
+    {
+      "t": 198.14,
+      "end": 198.14,
+      "text": "[Outro - guitar, long fade]"
+    },
+    {
+      "t": 198.14,
+      "end": 208.32,
+      "text": "วันนี้ยังไม่มีคำตอบ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

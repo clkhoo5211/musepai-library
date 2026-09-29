@@ -1,0 +1,149 @@
+{
+  "id": "b2_zh05",
+  "title": "把力氣留給明天",
+  "title_source": "scripted",
+  "genre": "southwest modal pop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "開闊的認輸",
+  "persona": "",
+  "subject": "放棄一個追了八年的目標",
+  "caption": "Southwestern Chinese modal pop. Wide open-air drum sound recorded in a large room, modal minor guitar figure with no chord changes for long stretches, a low male choir humming a drone under the chorus, sparse hand percussion. Plain big male lead with dialect-inflected vowels, no vibrato, no belting. 72 BPM, A minor. Spacious, conceding, not defeated. No pop production, no synth, no strings, no key change, no build.",
+  "lyrics": "[Intro - drone and hand percussion]\n\n[Verse 1]\n第八年我把那本證書收進抽屜\n不是撕掉 是收進去\n撕掉的話 我媽會問\n收進去她就當我還在考\n\n[Chorus]\n把力氣留給明天\n明天沒有要幹嘛\n就是留著\n留著也算數\n\n[Verse 2]\n以前我說等我怎樣怎樣 就回去\n現在我說 我這個月回去\n沒有怎樣 就回去\n班車還是那班 司機換了個年輕的\n\n[Chorus - choir enters]\n把力氣留給明天\n明天沒有要幹嘛\n就是留著\n留著也算一工\n\n[Outro - drone only]\n留著也算數",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "2",
+    "prompt": "Southwestern Chinese modal pop. Wide open-air drum sound recorded in a large room, modal minor guitar figure with no chord changes for long stretches, a low male choir humming a drone under the chorus, sparse hand percussion. Plain big male lead with dialect-inflected vowels, no vibrato, no belting. 72 BPM, A minor. Spacious, conceding, not defeated. No pop production, no synth, no strings, no key change, no build.",
+    "lyrics": "[Intro - drone and hand percussion]\n\n[Verse 1]\n第八年我把那本證書收進抽屜\n不是撕掉 是收進去\n撕掉的話 我媽會問\n收進去她就當我還在考\n\n[Chorus]\n把力氣留給明天\n明天沒有要幹嘛\n就是留著\n留著也算數\n\n[Verse 2]\n以前我說等我怎樣怎樣 就回去\n現在我說 我這個月回去\n沒有怎樣 就回去\n班車還是那班 司機換了個年輕的\n\n[Chorus - choir enters]\n把力氣留給明天\n明天沒有要幹嘛\n就是留著\n留著也算一工\n\n[Outro - drone only]\n留著也算數"
+  },
+  "seed": "2532208392",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.49s**\n- 66.49s per song\n- LM phase (1 song): 13.65s\n- DiT phase (1 song): 52.84s",
+  "task_id": "a39bb86e-bc81-4476-a88a-7a89eebe00e9",
+  "elapsed_s": 80.7,
+  "generated_at": "2026-09-29T17:07:16.244798+08:00",
+  "audio": "b2_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 49.73,
+      "end": 49.73,
+      "text": "[Intro - drone and hand percussion]"
+    },
+    {
+      "t": 49.73,
+      "end": 49.73,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 49.73,
+      "end": 54.87,
+      "text": "第八年我把那本證書收進抽屜"
+    },
+    {
+      "t": 56.53,
+      "end": 59.97,
+      "text": "不是撕掉 是收進去"
+    },
+    {
+      "t": 60.07,
+      "end": 62.51,
+      "text": "撕掉的話 我媽會問"
+    },
+    {
+      "t": 62.71,
+      "end": 67.61,
+      "text": "收進去她就當我還在考"
+    },
+    {
+      "t": 68.35,
+      "end": 68.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.35,
+      "end": 79.27,
+      "text": "把力氣留給明天"
+    },
+    {
+      "t": 79.27,
+      "end": 94.05,
+      "text": "明天沒有要幹嘛"
+    },
+    {
+      "t": 94.75,
+      "end": 99.75,
+      "text": "就是留著"
+    },
+    {
+      "t": 99.75,
+      "end": 101.01,
+      "text": "留著也算數"
+    },
+    {
+      "t": 101.01,
+      "end": 101.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.01,
+      "end": 111.17,
+      "text": "以前我說等我怎樣怎樣 就回去"
+    },
+    {
+      "t": 111.73,
+      "end": 117.83,
+      "text": "現在我說 我這個月回去"
+    },
+    {
+      "t": 119.99,
+      "end": 122.59,
+      "text": "沒有怎樣 就回去"
+    },
+    {
+      "t": 122.59,
+      "end": 146.69,
+      "text": "班車還是那班 司機換了個年輕的"
+    },
+    {
+      "t": 149.58,
+      "end": 149.58,
+      "text": "[Chorus - choir enters]"
+    },
+    {
+      "t": 149.58,
+      "end": 152.36,
+      "text": "把力氣留給明天"
+    },
+    {
+      "t": 152.92,
+      "end": 154.66,
+      "text": "明天沒有要幹嘛"
+    },
+    {
+      "t": 156.18,
+      "end": 157.62,
+      "text": "就是留著"
+    },
+    {
+      "t": 160.94,
+      "end": 168.84,
+      "text": "留著也算一工"
+    },
+    {
+      "t": 174.02,
+      "end": 174.02,
+      "text": "[Outro - drone only]"
+    },
+    {
+      "t": 174.02,
+      "end": 176.38,
+      "text": "留著也算數"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

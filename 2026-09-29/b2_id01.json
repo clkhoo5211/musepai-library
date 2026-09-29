@@ -1,0 +1,154 @@
+{
+  "id": "b2_id01",
+  "title": "Gajian Hari Jumat",
+  "title_source": "scripted",
+  "genre": "dangdut koplo",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "senang yang dipaksa",
+  "persona": "",
+  "subject": "gajian dipakai habis dalam semalam",
+  "caption": "Modern dangdut koplo. Live kendang played with audible ghost notes and a proper kendang break filling into every chorus, bamboo suling weaving a counter-melody rather than soloing, synth brass stabs, sub-bass under the traditional pattern. Female lead with short crunchy autotune and real koplo vocal ornamentation. 148 BPM, G minor. Forced happiness. No quantised MIDI kendang, no EDM drop, no gamelan decoration, no orchestral strings.",
+  "lyrics": "[Intro - kendang break]\n\n[Chorus]\nGajian hari Jumat, Senin udah abis\nGue nggak nanya kemana, gue tau kemana\nGoyang dulu, mikirnya Senin\nSenin masih jauh, empat puluh jam lagi\n\n[Verse 1]\nLima ratus buat kosan, dua ratus buat motor\nSisanya buat malam ini, itu hitungannya\nTemen gue bilang jangan\nTemen gue juga ikut\n\n[Chorus]\nGajian hari Jumat, Senin udah abis\nGue nggak nanya kemana, gue tau kemana\nGoyang dulu, mikirnya Senin\nSenin makin deket, dua puluh jam lagi\n\n[Instrumental Break - kendang and suling]\n\n[Verse 2]\nBapak gue kerja tiga puluh tahun di pabrik yang sama\nDia nggak pernah goyang, dia nggak pernah gajian besar juga\nGue nggak mau jadi dia\nTapi gue juga nggak jadi siapa-siapa\n\n[Outro - kendang slowing]\nSenin masih jauh",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 148,
+    "duration": 196.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Modern dangdut koplo. Live kendang played with audible ghost notes and a proper kendang break filling into every chorus, bamboo suling weaving a counter-melody rather than soloing, synth brass stabs, sub-bass under the traditional pattern. Female lead with short crunchy autotune and real koplo vocal ornamentation. 148 BPM, G minor. Forced happiness. No quantised MIDI kendang, no EDM drop, no gamelan decoration, no orchestral strings.",
+    "lyrics": "[Intro - kendang break]\n\n[Chorus]\nGajian hari Jumat, Senin udah abis\nGue nggak nanya kemana, gue tau kemana\nGoyang dulu, mikirnya Senin\nSenin masih jauh, empat puluh jam lagi\n\n[Verse 1]\nLima ratus buat kosan, dua ratus buat motor\nSisanya buat malam ini, itu hitungannya\nTemen gue bilang jangan\nTemen gue juga ikut\n\n[Chorus]\nGajian hari Jumat, Senin udah abis\nGue nggak nanya kemana, gue tau kemana\nGoyang dulu, mikirnya Senin\nSenin makin deket, dua puluh jam lagi\n\n[Instrumental Break - kendang and suling]\n\n[Verse 2]\nBapak gue kerja tiga puluh tahun di pabrik yang sama\nDia nggak pernah goyang, dia nggak pernah gajian besar juga\nGue nggak mau jadi dia\nTapi gue juga nggak jadi siapa-siapa\n\n[Outro - kendang slowing]\nSenin masih jauh"
+  },
+  "seed": "1885651356",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.71s**\n- 58.71s per song\n- LM phase (1 song): 10.17s\n- DiT phase (1 song): 48.54s",
+  "task_id": "1b5fe792-eb51-4e45-a246-3cc329a49657",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-09-29T17:39:04.295418+08:00",
+  "audio": "b2_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.64,
+      "end": 21.64,
+      "text": "[Intro - kendang break]"
+    },
+    {
+      "t": 21.64,
+      "end": 21.64,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 21.64,
+      "end": 26.76,
+      "text": "Gajian hari Jumat, Senin udah abis"
+    },
+    {
+      "t": 28.02,
+      "end": 37.36,
+      "text": "Gue nggak nanya kemana, gue tau kemana"
+    },
+    {
+      "t": 37.8,
+      "end": 42.0,
+      "text": "Goyang dulu, mikirnya Senin"
+    },
+    {
+      "t": 43.18,
+      "end": 48.38,
+      "text": "Senin masih jauh, empat puluh jam lagi"
+    },
+    {
+      "t": 51.43,
+      "end": 51.43,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 51.43,
+      "end": 56.99,
+      "text": "Lima ratus buat kosan, dua ratus buat motor"
+    },
+    {
+      "t": 57.81,
+      "end": 63.37,
+      "text": "Sisanya buat malam ini, itu hitungannya"
+    },
+    {
+      "t": 64.81,
+      "end": 68.11,
+      "text": "Temen gue bilang jangan"
+    },
+    {
+      "t": 68.43,
+      "end": 71.21,
+      "text": "Temen gue juga ikut"
+    },
+    {
+      "t": 76.41,
+      "end": 76.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 76.41,
+      "end": 85.43,
+      "text": "Gajian hari Jumat, Senin udah abis"
+    },
+    {
+      "t": 85.63,
+      "end": 92.39,
+      "text": "Gue nggak nanya kemana, gue tau kemana"
+    },
+    {
+      "t": 92.45,
+      "end": 97.19,
+      "text": "Goyang dulu, mikirnya Senin"
+    },
+    {
+      "t": 98.79,
+      "end": 103.17,
+      "text": "Senin makin deket, dua puluh jam lagi"
+    },
+    {
+      "t": 109.65,
+      "end": 109.65,
+      "text": "[Instrumental Break - kendang and suling]"
+    },
+    {
+      "t": 109.65,
+      "end": 109.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 109.65,
+      "end": 114.85,
+      "text": "Bapak gue kerja tiga puluh tahun di pabrik yang sama"
+    },
+    {
+      "t": 114.85,
+      "end": 119.17,
+      "text": "Dia nggak pernah goyang, dia nggak pernah gajian besar juga"
+    },
+    {
+      "t": 121.23,
+      "end": 123.95,
+      "text": "Gue nggak mau jadi dia"
+    },
+    {
+      "t": 124.43,
+      "end": 130.57,
+      "text": "Tapi gue juga nggak jadi siapa-siapa"
+    },
+    {
+      "t": 135.21,
+      "end": 135.21,
+      "text": "[Outro - kendang slowing]"
+    },
+    {
+      "t": 135.21,
+      "end": 163.88,
+      "text": "Senin masih jauh"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

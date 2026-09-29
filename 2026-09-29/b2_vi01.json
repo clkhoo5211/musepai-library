@@ -1,0 +1,149 @@
+{
+  "id": "b2_vi01",
+  "title": "Mình Nói Chuyện Tử Tế",
+  "title_source": "scripted",
+  "genre": "chill rap Viet",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "bình tĩnh mà mệt",
+  "persona": "",
+  "subject": "chia tay trong một quán cà phê",
+  "caption": "Vietnamese chill rap ballad. Nylon-string guitar loop with finger noise left in, clean 808 sub with no distortion, straight sixteenth hats with one triplet roll per section, short plate reverb over an audible tape hiss bed. Male voice half-sung half-spoken, sitting behind the beat, drifting into melody mid-bar, ad-libs low. 84 BPM, E minor. Calm and tired. No EDM, no tropical house, no hard autotune, no big hall reverb, no saxophone.",
+  "lyrics": "[Intro - nylon guitar and tape hiss]\n\n[Verse 1 - half spoken]\nQuán này mình đến lần đầu, cũng là lần cuối, tiện thế\nEm chọn chỗ ngồi gần cửa, anh hiểu vì sao\nHai ly, một nóng một đá, người ta mang ra cùng lúc\nCả hai đều nguội trước khi ai nói gì\n\n[Chorus]\nMình nói chuyện tử tế\nKhông ai to tiếng, không ai khóc\nCái đó mới khó\nGiận thì dễ hơn nhiều\n\n[Verse 2 - rapped]\nEm trả lại chìa khoá, anh không nhớ là đã đưa\nAnh nhận, bỏ túi, sờ thấy nó suốt buổi chiều\nVề nhà mới lấy ra, để lên bàn\nBa ngày rồi nó vẫn nằm đó, anh vẫn đi vòng qua\n\n[Chorus]\nMình nói chuyện tử tế\nKhông ai to tiếng, không ai khóc\nCái đó mới khó\nNhưng mình làm được, lạ thật\n\n[Outro - guitar, fading]\nNhưng mình làm được",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 178.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese chill rap ballad. Nylon-string guitar loop with finger noise left in, clean 808 sub with no distortion, straight sixteenth hats with one triplet roll per section, short plate reverb over an audible tape hiss bed. Male voice half-sung half-spoken, sitting behind the beat, drifting into melody mid-bar, ad-libs low. 84 BPM, E minor. Calm and tired. No EDM, no tropical house, no hard autotune, no big hall reverb, no saxophone.",
+    "lyrics": "[Intro - nylon guitar and tape hiss]\n\n[Verse 1 - half spoken]\nQuán này mình đến lần đầu, cũng là lần cuối, tiện thế\nEm chọn chỗ ngồi gần cửa, anh hiểu vì sao\nHai ly, một nóng một đá, người ta mang ra cùng lúc\nCả hai đều nguội trước khi ai nói gì\n\n[Chorus]\nMình nói chuyện tử tế\nKhông ai to tiếng, không ai khóc\nCái đó mới khó\nGiận thì dễ hơn nhiều\n\n[Verse 2 - rapped]\nEm trả lại chìa khoá, anh không nhớ là đã đưa\nAnh nhận, bỏ túi, sờ thấy nó suốt buổi chiều\nVề nhà mới lấy ra, để lên bàn\nBa ngày rồi nó vẫn nằm đó, anh vẫn đi vòng qua\n\n[Chorus]\nMình nói chuyện tử tế\nKhông ai to tiếng, không ai khóc\nCái đó mới khó\nNhưng mình làm được, lạ thật\n\n[Outro - guitar, fading]\nNhưng mình làm được"
+  },
+  "seed": "1902288721",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 54.63s**\n- 54.63s per song\n- LM phase (1 song): 10.84s\n- DiT phase (1 song): 43.79s",
+  "task_id": "8e58bde2-45a4-45a4-b92e-088485c95ffb",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:33:02.311913+08:00",
+  "audio": "b2_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.28,
+      "end": 24.28,
+      "text": "[Intro - nylon guitar and tape hiss]"
+    },
+    {
+      "t": 24.28,
+      "end": 24.28,
+      "text": "[Verse 1 - half spoken]"
+    },
+    {
+      "t": 24.28,
+      "end": 35.58,
+      "text": "Quán này mình đến lần đầu, cũng là lần cuối, tiện thế"
+    },
+    {
+      "t": 35.6,
+      "end": 38.88,
+      "text": "Em chọn chỗ ngồi gần cửa, anh hiểu vì sao"
+    },
+    {
+      "t": 41.02,
+      "end": 46.29,
+      "text": "Hai ly, một nóng một đá, người ta mang ra cùng lúc"
+    },
+    {
+      "t": 46.79,
+      "end": 50.15,
+      "text": "Cả hai đều nguội trước khi ai nói gì"
+    },
+    {
+      "t": 62.67,
+      "end": 62.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.67,
+      "end": 67.15,
+      "text": "Mình nói chuyện tử tế"
+    },
+    {
+      "t": 67.49,
+      "end": 69.93,
+      "text": "Không ai to tiếng, không ai khóc"
+    },
+    {
+      "t": 71.43,
+      "end": 72.65,
+      "text": "Cái đó mới khó"
+    },
+    {
+      "t": 74.25,
+      "end": 75.59,
+      "text": "Giận thì dễ hơn nhiều"
+    },
+    {
+      "t": 82.17,
+      "end": 82.17,
+      "text": "[Verse 2 - rapped]"
+    },
+    {
+      "t": 82.17,
+      "end": 89.35,
+      "text": "Em trả lại chìa khoá, anh không nhớ là đã đưa"
+    },
+    {
+      "t": 89.67,
+      "end": 96.55,
+      "text": "Anh nhận, bỏ túi, sờ thấy nó suốt buổi chiều"
+    },
+    {
+      "t": 96.71,
+      "end": 99.45,
+      "text": "Về nhà mới lấy ra, để lên bàn"
+    },
+    {
+      "t": 99.55,
+      "end": 105.83,
+      "text": "Ba ngày rồi nó vẫn nằm đó, anh vẫn đi vòng qua"
+    },
+    {
+      "t": 105.89,
+      "end": 105.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.89,
+      "end": 111.89,
+      "text": "Mình nói chuyện tử tế"
+    },
+    {
+      "t": 111.95,
+      "end": 146.76,
+      "text": "Không ai to tiếng, không ai khóc"
+    },
+    {
+      "t": 150.98,
+      "end": 156.72,
+      "text": "Cái đó mới khó"
+    },
+    {
+      "t": 166.16,
+      "end": 171.68,
+      "text": "Nhưng mình làm được, lạ thật"
+    },
+    {
+      "t": 171.84,
+      "end": 171.84,
+      "text": "[Outro - guitar, fading]"
+    },
+    {
+      "t": 171.84,
+      "end": 173.16,
+      "text": "Nhưng mình làm được"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

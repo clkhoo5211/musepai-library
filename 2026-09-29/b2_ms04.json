@@ -1,0 +1,149 @@
+{
+  "id": "b2_ms04",
+  "title": "Aku Tak Marah",
+  "title_source": "scripted",
+  "genre": "slow ballad",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "tuduhan yang tenang",
+  "persona": "",
+  "subject": "kawan yang ambil kredit kerja kita",
+  "caption": "Malay slow ballad in the current viral shape but written around one concrete object. Nylon-string guitar fingerpicked, felt piano, a single wide reverbed snare entering only on the chorus, sub bass under the last chorus. Breathy controlled female lead, no belting, no melisma runs. 70 BPM, E minor. An accusation delivered calmly. No key change, no string swell, no saxophone, no gated reverb, no big ballad climax.",
+  "lyrics": "[Intro - nylon guitar]\n\n[Verse 1]\nSlide nombor tujuh tu aku yang buat\nMalam Khamis, pukul dua pagi, aku hantar dalam grup\nKau balas satu emoji\nEsoknya kau present, kau tak sebut nama aku\n\n[Chorus]\nAku tak marah\nAku cuma ingat\nOrang yang tak marah tu selalunya yang ingat lama\nAku tak marah\n\n[Verse 2]\nBos puji kau depan semua orang\nAku tepuk tangan, tangan aku sendiri\nLepas tu aku balik, aku masak maggi\nAku makan, aku tidur, aku datang kerja esoknya\n\n[Chorus]\nAku tak marah\nAku cuma ingat\nOrang yang tak marah tu selalunya yang ingat lama\nAku masih tak marah\n\n[Outro - piano alone]\nAku masih tak marah",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 70,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Malay slow ballad in the current viral shape but written around one concrete object. Nylon-string guitar fingerpicked, felt piano, a single wide reverbed snare entering only on the chorus, sub bass under the last chorus. Breathy controlled female lead, no belting, no melisma runs. 70 BPM, E minor. An accusation delivered calmly. No key change, no string swell, no saxophone, no gated reverb, no big ballad climax.",
+    "lyrics": "[Intro - nylon guitar]\n\n[Verse 1]\nSlide nombor tujuh tu aku yang buat\nMalam Khamis, pukul dua pagi, aku hantar dalam grup\nKau balas satu emoji\nEsoknya kau present, kau tak sebut nama aku\n\n[Chorus]\nAku tak marah\nAku cuma ingat\nOrang yang tak marah tu selalunya yang ingat lama\nAku tak marah\n\n[Verse 2]\nBos puji kau depan semua orang\nAku tepuk tangan, tangan aku sendiri\nLepas tu aku balik, aku masak maggi\nAku makan, aku tidur, aku datang kerja esoknya\n\n[Chorus]\nAku tak marah\nAku cuma ingat\nOrang yang tak marah tu selalunya yang ingat lama\nAku masih tak marah\n\n[Outro - piano alone]\nAku masih tak marah"
+  },
+  "seed": "1294473266",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.50s**\n- 53.50s per song\n- LM phase (1 song): 11.04s\n- DiT phase (1 song): 42.45s",
+  "task_id": "bdd0e14f-1a0c-4f06-94c7-216a4169c754",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:18:20.647241+08:00",
+  "audio": "b2_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.18,
+      "end": 20.18,
+      "text": "[Intro - nylon guitar]"
+    },
+    {
+      "t": 20.18,
+      "end": 20.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.18,
+      "end": 41.44,
+      "text": "Slide nombor tujuh tu aku yang buat"
+    },
+    {
+      "t": 47.1,
+      "end": 53.73,
+      "text": "Malam Khamis, pukul dua pagi, aku hantar dalam grup"
+    },
+    {
+      "t": 54.83,
+      "end": 57.73,
+      "text": "Kau balas satu emoji"
+    },
+    {
+      "t": 61.15,
+      "end": 67.23,
+      "text": "Esoknya kau present, kau tak sebut nama aku"
+    },
+    {
+      "t": 67.27,
+      "end": 67.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.27,
+      "end": 70.19,
+      "text": "Aku tak marah"
+    },
+    {
+      "t": 70.19,
+      "end": 72.99,
+      "text": "Aku cuma ingat"
+    },
+    {
+      "t": 75.39,
+      "end": 82.51,
+      "text": "Orang yang tak marah tu selalunya yang ingat lama"
+    },
+    {
+      "t": 82.73,
+      "end": 83.63,
+      "text": "Aku tak marah"
+    },
+    {
+      "t": 92.25,
+      "end": 92.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.25,
+      "end": 96.71,
+      "text": "Bos puji kau depan semua orang"
+    },
+    {
+      "t": 96.71,
+      "end": 104.33,
+      "text": "Aku tepuk tangan, tangan aku sendiri"
+    },
+    {
+      "t": 104.43,
+      "end": 108.45,
+      "text": "Lepas tu aku balik, aku masak maggi"
+    },
+    {
+      "t": 108.65,
+      "end": 128.33,
+      "text": "Aku makan, aku tidur, aku datang kerja esoknya"
+    },
+    {
+      "t": 128.49,
+      "end": 128.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.49,
+      "end": 132.39,
+      "text": "Aku tak marah"
+    },
+    {
+      "t": 132.45,
+      "end": 133.65,
+      "text": "Aku cuma ingat"
+    },
+    {
+      "t": 133.79,
+      "end": 164.16,
+      "text": "Orang yang tak marah tu selalunya yang ingat lama"
+    },
+    {
+      "t": 167.12,
+      "end": 181.12,
+      "text": "Aku masih tak marah"
+    },
+    {
+      "t": 181.28,
+      "end": 181.28,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 181.28,
+      "end": 188.08,
+      "text": "Aku masih tak marah"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

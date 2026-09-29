@@ -1,0 +1,154 @@
+{
+  "id": "b2_zh04",
+  "title": "麵攤收得比誰都晚",
+  "title_source": "scripted",
+  "genre": "guofeng fusion pop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "熱氣騰騰的鈍感",
+  "persona": "",
+  "subject": "巷口麵攤的最後一碗",
+  "caption": "Guofeng fusion mid-tempo pop. Pipa played inside the arrangement as a rhythm instrument rather than an exotic lead, modern tight drum kit with a dry clap layered on the snare, warm round electric bass, one sustained erhu line entering only on the last chorus. Mid-range male vocal, unforced, no melisma. 96 BPM, D minor. Steamy, blunted, ordinary warmth. No EDM drop, no supersaw, no gated reverb, no choir.",
+  "lyrics": "[Intro - pipa, rhythmic]\n\n[Chorus]\n麵攤收得比誰都晚\n他不等客人 他等鍋涼\n涼了才好刷\n刷完才好回家\n\n[Verse 1]\n塑膠凳疊起來的高度 就是今天的生意\n今天疊到第七個\n他老婆在後面剝蒜 剝了二十年\n手指甲縫裡是洗不掉的白\n\n[Chorus]\n麵攤收得比誰都晚\n他不等客人 他等鍋涼\n涼了才好刷\n刷完 天也快亮\n\n[Instrumental Break - pipa and kit]\n\n[Verse 2]\n有人來問他加不加盟\n他說我這口鍋跟我一樣老\n搬到商場裡 湯的味道會變\n那人沒聽懂 他也沒再解釋\n\n[Outro - erhu enters, fades]\n涼了才好刷",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 182.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Guofeng fusion mid-tempo pop. Pipa played inside the arrangement as a rhythm instrument rather than an exotic lead, modern tight drum kit with a dry clap layered on the snare, warm round electric bass, one sustained erhu line entering only on the last chorus. Mid-range male vocal, unforced, no melisma. 96 BPM, D minor. Steamy, blunted, ordinary warmth. No EDM drop, no supersaw, no gated reverb, no choir.",
+    "lyrics": "[Intro - pipa, rhythmic]\n\n[Chorus]\n麵攤收得比誰都晚\n他不等客人 他等鍋涼\n涼了才好刷\n刷完才好回家\n\n[Verse 1]\n塑膠凳疊起來的高度 就是今天的生意\n今天疊到第七個\n他老婆在後面剝蒜 剝了二十年\n手指甲縫裡是洗不掉的白\n\n[Chorus]\n麵攤收得比誰都晚\n他不等客人 他等鍋涼\n涼了才好刷\n刷完 天也快亮\n\n[Instrumental Break - pipa and kit]\n\n[Verse 2]\n有人來問他加不加盟\n他說我這口鍋跟我一樣老\n搬到商場裡 湯的味道會變\n那人沒聽懂 他也沒再解釋\n\n[Outro - erhu enters, fades]\n涼了才好刷"
+  },
+  "seed": "2938223312",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.88s**\n- 71.88s per song\n- LM phase (1 song): 12.46s\n- DiT phase (1 song): 59.42s",
+  "task_id": "1b701fa8-a02d-4183-b25e-a76dbe8398f8",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-09-29T17:05:55.498702+08:00",
+  "audio": "b2_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.28,
+      "end": 10.28,
+      "text": "[Intro - pipa, rhythmic]"
+    },
+    {
+      "t": 10.28,
+      "end": 10.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 10.28,
+      "end": 33.46,
+      "text": "麵攤收得比誰都晚"
+    },
+    {
+      "t": 33.46,
+      "end": 34.64,
+      "text": "他不等客人 他等鍋涼"
+    },
+    {
+      "t": 34.68,
+      "end": 37.3,
+      "text": "涼了才好刷"
+    },
+    {
+      "t": 38.44,
+      "end": 52.03,
+      "text": "刷完才好回家"
+    },
+    {
+      "t": 52.03,
+      "end": 52.03,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 52.03,
+      "end": 56.19,
+      "text": "塑膠凳疊起來的高度 就是今天的生意"
+    },
+    {
+      "t": 56.71,
+      "end": 58.73,
+      "text": "今天疊到第七個"
+    },
+    {
+      "t": 59.25,
+      "end": 63.77,
+      "text": "他老婆在後面剝蒜 剝了二十年"
+    },
+    {
+      "t": 64.19,
+      "end": 65.97,
+      "text": "手指甲縫裡是洗不掉的白"
+    },
+    {
+      "t": 65.97,
+      "end": 65.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.97,
+      "end": 67.81,
+      "text": "麵攤收得比誰都晚"
+    },
+    {
+      "t": 67.81,
+      "end": 69.53,
+      "text": "他不等客人 他等鍋涼"
+    },
+    {
+      "t": 69.57,
+      "end": 94.45,
+      "text": "涼了才好刷"
+    },
+    {
+      "t": 94.59,
+      "end": 106.47,
+      "text": "刷完 天也快亮"
+    },
+    {
+      "t": 106.51,
+      "end": 106.51,
+      "text": "[Instrumental Break - pipa and kit]"
+    },
+    {
+      "t": 106.51,
+      "end": 106.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 106.51,
+      "end": 109.81,
+      "text": "有人來問他加不加盟"
+    },
+    {
+      "t": 115.05,
+      "end": 119.05,
+      "text": "他說我這口鍋跟我一樣老"
+    },
+    {
+      "t": 120.35,
+      "end": 124.43,
+      "text": "搬到商場裡 湯的味道會變"
+    },
+    {
+      "t": 125.65,
+      "end": 128.41,
+      "text": "那人沒聽懂 他也沒再解釋"
+    },
+    {
+      "t": 135.77,
+      "end": 135.77,
+      "text": "[Outro - erhu enters, fades]"
+    },
+    {
+      "t": 135.77,
+      "end": 160.92,
+      "text": "涼了才好刷"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

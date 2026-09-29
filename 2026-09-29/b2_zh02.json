@@ -1,0 +1,154 @@
+{
+  "id": "b2_zh02",
+  "title": "已讀不回的第十四天",
+  "title_source": "scripted",
+  "genre": "bedroom R&B",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "克制的酸",
+  "persona": "",
+  "subject": "十四天沒有回覆的訊息",
+  "caption": "Bedroom R&B with jazz voicings. Rhodes playing ninths and elevenths, drums programmed loose and behind the grid like an MPC, round sub bass, one muted guitar skank on the offbeat. Breathy female lead doubled by a whisper layer panned narrow, light autotune used as texture not correction. 78 BPM, E flat major. Restrained, sour, unresolved. No trap hats, no big reverb, no orchestral strings, no drop.",
+  "lyrics": "[Intro - Rhodes, no drums]\n\n[Chorus]\n第十四天\n我還是把手機翻過來放\n翻過來就看不見了\n道理是這樣\n\n[Verse 1]\n那天你說在忙 我說好\n這兩個字我改了三次\n打了「嗯」又刪掉 太冷\n打了「好的」又刪掉 太客氣\n\n[Chorus]\n第十四天\n我還是把手機翻過來放\n翻過來還是看得見\n道理不是這樣\n\n[Instrumental Break - Rhodes and sub]\n\n[Verse 2]\n我媽問我最近在跟誰吃飯\n我說同事\n她說喔\n她那個喔 比你這十四天還長\n\n[Outro - Rhodes, dissolving]\n道理不是這樣",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 188.0,
+    "genres": "N/A",
+    "keyscale": "E flat major",
+    "timesignature": "4",
+    "prompt": "Bedroom R&B with jazz voicings. Rhodes playing ninths and elevenths, drums programmed loose and behind the grid like an MPC, round sub bass, one muted guitar skank on the offbeat. Breathy female lead doubled by a whisper layer panned narrow, light autotune used as texture not correction. 78 BPM, E flat major. Restrained, sour, unresolved. No trap hats, no big reverb, no orchestral strings, no drop.",
+    "lyrics": "[Intro - Rhodes, no drums]\n\n[Chorus]\n第十四天\n我還是把手機翻過來放\n翻過來就看不見了\n道理是這樣\n\n[Verse 1]\n那天你說在忙 我說好\n這兩個字我改了三次\n打了「嗯」又刪掉 太冷\n打了「好的」又刪掉 太客氣\n\n[Chorus]\n第十四天\n我還是把手機翻過來放\n翻過來還是看得見\n道理不是這樣\n\n[Instrumental Break - Rhodes and sub]\n\n[Verse 2]\n我媽問我最近在跟誰吃飯\n我說同事\n她說喔\n她那個喔 比你這十四天還長\n\n[Outro - Rhodes, dissolving]\n道理不是這樣"
+  },
+  "seed": "63093253",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 94.73s**\n- 94.73s per song\n- LM phase (1 song): 17.82s\n- DiT phase (1 song): 76.91s",
+  "task_id": "189d7bbb-8cf7-4c7c-ae4b-636b7a95434e",
+  "elapsed_s": 120.5,
+  "generated_at": "2026-09-29T17:02:45.290566+08:00",
+  "audio": "b2_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.5,
+      "end": 35.5,
+      "text": "[Intro - Rhodes, no drums]"
+    },
+    {
+      "t": 35.5,
+      "end": 35.5,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 35.5,
+      "end": 36.9,
+      "text": "第十四天"
+    },
+    {
+      "t": 37.04,
+      "end": 40.48,
+      "text": "我還是把手機翻過來放"
+    },
+    {
+      "t": 40.5,
+      "end": 42.94,
+      "text": "翻過來就看不見了"
+    },
+    {
+      "t": 42.94,
+      "end": 45.76,
+      "text": "道理是這樣"
+    },
+    {
+      "t": 59.23,
+      "end": 59.23,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 59.23,
+      "end": 60.99,
+      "text": "那天你說在忙 我說好"
+    },
+    {
+      "t": 61.03,
+      "end": 62.03,
+      "text": "這兩個字我改了三次"
+    },
+    {
+      "t": 62.03,
+      "end": 62.83,
+      "text": "打了「嗯」又刪掉 太冷"
+    },
+    {
+      "t": 62.83,
+      "end": 69.73,
+      "text": "打了「好的」又刪掉 太客氣"
+    },
+    {
+      "t": 69.73,
+      "end": 69.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.73,
+      "end": 70.13,
+      "text": "第十四天"
+    },
+    {
+      "t": 70.27,
+      "end": 73.31,
+      "text": "我還是把手機翻過來放"
+    },
+    {
+      "t": 74.79,
+      "end": 78.29,
+      "text": "翻過來還是看得見"
+    },
+    {
+      "t": 80.49,
+      "end": 114.47,
+      "text": "道理不是這樣"
+    },
+    {
+      "t": 114.49,
+      "end": 114.49,
+      "text": "[Instrumental Break - Rhodes and sub]"
+    },
+    {
+      "t": 114.49,
+      "end": 114.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 114.49,
+      "end": 117.91,
+      "text": "我媽問我最近在跟誰吃飯"
+    },
+    {
+      "t": 120.45,
+      "end": 121.49,
+      "text": "我說同事"
+    },
+    {
+      "t": 121.49,
+      "end": 122.33,
+      "text": "她說喔"
+    },
+    {
+      "t": 126.65,
+      "end": 163.84,
+      "text": "她那個喔 比你這十四天還長"
+    },
+    {
+      "t": 174.22,
+      "end": 174.22,
+      "text": "[Outro - Rhodes, dissolving]"
+    },
+    {
+      "t": 174.22,
+      "end": 176.84,
+      "text": "道理不是這樣"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

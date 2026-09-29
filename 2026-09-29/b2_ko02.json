@@ -1,0 +1,149 @@
+{
+  "id": "b2_ko02",
+  "title": "막차는 합정에서",
+  "title_source": "scripted",
+  "genre": "bedroom jazz pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "조용한 체념",
+  "persona": "",
+  "subject": "합정역 막차를 놓친 밤",
+  "caption": "Korean bedroom pop with jazz chords. Rhodes playing seventh and ninth voicings, a dusty brushed drum loop kept quiet, upright bass, nylon guitar doubling the bass line an octave up. Close-miked breathy female lead with a narrow-panned harmony stack, almost no reverb, tape saturation across the mix. 86 BPM, F major. Quiet resignation, no self-pity. No idol production, no EDM, no belted chorus, no string pad.",
+  "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n합정역 육번 출구 계단 위에서\n막차 지나가는 거 그냥 봤어\n뛰면 탈 수 있었는데\n뛰기 싫은 날이 있잖아\n\n[Chorus]\n첫차까지 네 시간\n편의점은 두 개 있고\n둘 다 가봤어\n이제 어디 갈지 정해야 돼\n\n[Verse 2]\n택시비는 있어\n근데 택시를 타면 오늘이 끝나\n오늘이 끝나면 내일 출근이고\n그래서 계단에 앉아 있는 거야\n\n[Chorus]\n첫차까지 세 시간\n편의점은 두 개 있고\n둘 다 가봤어\n이제 아무 데도 안 갈래\n\n[Outro - Rhodes, dissolving]\n이제 아무 데도 안 갈래",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 176.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Korean bedroom pop with jazz chords. Rhodes playing seventh and ninth voicings, a dusty brushed drum loop kept quiet, upright bass, nylon guitar doubling the bass line an octave up. Close-miked breathy female lead with a narrow-panned harmony stack, almost no reverb, tape saturation across the mix. 86 BPM, F major. Quiet resignation, no self-pity. No idol production, no EDM, no belted chorus, no string pad.",
+    "lyrics": "[Intro - Rhodes]\n\n[Verse 1]\n합정역 육번 출구 계단 위에서\n막차 지나가는 거 그냥 봤어\n뛰면 탈 수 있었는데\n뛰기 싫은 날이 있잖아\n\n[Chorus]\n첫차까지 네 시간\n편의점은 두 개 있고\n둘 다 가봤어\n이제 어디 갈지 정해야 돼\n\n[Verse 2]\n택시비는 있어\n근데 택시를 타면 오늘이 끝나\n오늘이 끝나면 내일 출근이고\n그래서 계단에 앉아 있는 거야\n\n[Chorus]\n첫차까지 세 시간\n편의점은 두 개 있고\n둘 다 가봤어\n이제 아무 데도 안 갈래\n\n[Outro - Rhodes, dissolving]\n이제 아무 데도 안 갈래"
+  },
+  "seed": "2860815030",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.79s**\n- 56.79s per song\n- LM phase (1 song): 13.62s\n- DiT phase (1 song): 43.17s",
+  "task_id": "29a88dd0-0d22-43a6-a53e-8188071a5f9f",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:28:21.792149+08:00",
+  "audio": "b2_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.56,
+      "end": 30.56,
+      "text": "[Intro - Rhodes]"
+    },
+    {
+      "t": 30.56,
+      "end": 30.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.56,
+      "end": 31.72,
+      "text": "합정역 육번 출구 계단 위에서"
+    },
+    {
+      "t": 31.76,
+      "end": 33.56,
+      "text": "막차 지나가는 거 그냥 봤어"
+    },
+    {
+      "t": 33.64,
+      "end": 35.36,
+      "text": "뛰면 탈 수 있었는데"
+    },
+    {
+      "t": 35.42,
+      "end": 38.16,
+      "text": "뛰기 싫은 날이 있잖아"
+    },
+    {
+      "t": 42.92,
+      "end": 42.92,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.92,
+      "end": 46.77,
+      "text": "첫차까지 네 시간"
+    },
+    {
+      "t": 47.17,
+      "end": 49.27,
+      "text": "편의점은 두 개 있고"
+    },
+    {
+      "t": 50.71,
+      "end": 52.13,
+      "text": "둘 다 가봤어"
+    },
+    {
+      "t": 54.33,
+      "end": 57.81,
+      "text": "이제 어디 갈지 정해야 돼"
+    },
+    {
+      "t": 62.37,
+      "end": 62.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.37,
+      "end": 67.79,
+      "text": "택시비는 있어"
+    },
+    {
+      "t": 67.99,
+      "end": 79.55,
+      "text": "근데 택시를 타면 오늘이 끝나"
+    },
+    {
+      "t": 79.55,
+      "end": 83.27,
+      "text": "오늘이 끝나면 내일 출근이고"
+    },
+    {
+      "t": 85.25,
+      "end": 89.25,
+      "text": "그래서 계단에 앉아 있는 거야"
+    },
+    {
+      "t": 96.11,
+      "end": 96.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.11,
+      "end": 99.39,
+      "text": "첫차까지 세 시간"
+    },
+    {
+      "t": 99.39,
+      "end": 102.49,
+      "text": "편의점은 두 개 있고"
+    },
+    {
+      "t": 103.89,
+      "end": 105.31,
+      "text": "둘 다 가봤어"
+    },
+    {
+      "t": 124.09,
+      "end": 128.47,
+      "text": "이제 아무 데도 안 갈래"
+    },
+    {
+      "t": 160.5,
+      "end": 160.5,
+      "text": "[Outro - Rhodes, dissolving]"
+    },
+    {
+      "t": 160.5,
+      "end": 163.98,
+      "text": "이제 아무 데도 안 갈래"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

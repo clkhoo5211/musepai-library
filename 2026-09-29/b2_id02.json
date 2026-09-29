@@ -1,0 +1,149 @@
+{
+  "id": "b2_id02",
+  "title": "Lembur Lagi",
+  "title_source": "scripted",
+  "genre": "hip-dut",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "marah yang sopan",
+  "persona": "",
+  "subject": "lembur tanpa dibayar",
+  "caption": "Hip-dut, the 2026 Indonesian hybrid. Trap 808 sitting underneath a live kendang koplo pattern rather than replacing it, hi-hat rolls, suling answering the rap line, one bright synth pluck. Dense Indonesian rap with syllables packed and internal rhyme running past the barline, sung hook carrying dangdut vocal ornamentation. 96 BPM, D minor. Politely furious. No quantised MIDI kendang, no US drill, no clean trap with no local element, no autotune croon.",
+  "lyrics": "[Intro - kendang and 808 together]\n\n[Verse 1 - rapped]\nJam enam kelar, jam enam gue masih di meja\nBos lewat, ngangguk, senyum, jalan terus\nItu artinya lanjut, semua orang di sini ngerti bahasa itu\nNggak ada yang nulis, semua orang ngerti\n\n[Hook - sung with ornament]\nLembur lagi, lembur lagi\nBesok libur katanya, katanya\nKatanya itu kata yang paling mahal di kantor ini\nLembur lagi\n\n[Verse 2 - rapped]\nGue hitung sendiri, delapan puluh jam bulan ini di luar kontrak\nGue simpen di notes, bukan buat nuntut, buat inget\nKalau gue lupa, gue bakal kira ini normal\nGue takut kira ini normal\n\n[Hook - sung with ornament]\nLembur lagi, lembur lagi\nBesok libur katanya, katanya\nKatanya itu kata yang paling mahal di kantor ini\nGue catet lagi\n\n[Outro - kendang break, cut]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Hip-dut, the 2026 Indonesian hybrid. Trap 808 sitting underneath a live kendang koplo pattern rather than replacing it, hi-hat rolls, suling answering the rap line, one bright synth pluck. Dense Indonesian rap with syllables packed and internal rhyme running past the barline, sung hook carrying dangdut vocal ornamentation. 96 BPM, D minor. Politely furious. No quantised MIDI kendang, no US drill, no clean trap with no local element, no autotune croon.",
+    "lyrics": "[Intro - kendang and 808 together]\n\n[Verse 1 - rapped]\nJam enam kelar, jam enam gue masih di meja\nBos lewat, ngangguk, senyum, jalan terus\nItu artinya lanjut, semua orang di sini ngerti bahasa itu\nNggak ada yang nulis, semua orang ngerti\n\n[Hook - sung with ornament]\nLembur lagi, lembur lagi\nBesok libur katanya, katanya\nKatanya itu kata yang paling mahal di kantor ini\nLembur lagi\n\n[Verse 2 - rapped]\nGue hitung sendiri, delapan puluh jam bulan ini di luar kontrak\nGue simpen di notes, bukan buat nuntut, buat inget\nKalau gue lupa, gue bakal kira ini normal\nGue takut kira ini normal\n\n[Hook - sung with ornament]\nLembur lagi, lembur lagi\nBesok libur katanya, katanya\nKatanya itu kata yang paling mahal di kantor ini\nGue catet lagi\n\n[Outro - kendang break, cut]\n[Song ends abruptly]"
+  },
+  "seed": "4052126946",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 51.95s**\n- 51.95s per song\n- LM phase (1 song): 11.40s\n- DiT phase (1 song): 40.54s",
+  "task_id": "88aeac90-70cd-442f-b1d1-1c0d6cb9c1fa",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:40:14.383290+08:00",
+  "audio": "b2_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.42,
+      "end": 0.42,
+      "text": "[Intro - kendang and 808 together]"
+    },
+    {
+      "t": 0.42,
+      "end": 0.42,
+      "text": "[Verse 1 - rapped]"
+    },
+    {
+      "t": 0.42,
+      "end": 46.89,
+      "text": "Jam enam kelar, jam enam gue masih di meja"
+    },
+    {
+      "t": 46.99,
+      "end": 52.61,
+      "text": "Bos lewat, ngangguk, senyum, jalan terus"
+    },
+    {
+      "t": 53.03,
+      "end": 56.45,
+      "text": "Itu artinya lanjut, semua orang di sini ngerti bahasa itu"
+    },
+    {
+      "t": 56.53,
+      "end": 58.35,
+      "text": "Nggak ada yang nulis, semua orang ngerti"
+    },
+    {
+      "t": 61.61,
+      "end": 61.61,
+      "text": "[Hook - sung with ornament]"
+    },
+    {
+      "t": 61.61,
+      "end": 67.99,
+      "text": "Lembur lagi, lembur lagi"
+    },
+    {
+      "t": 68.25,
+      "end": 70.13,
+      "text": "Besok libur katanya, katanya"
+    },
+    {
+      "t": 70.13,
+      "end": 72.35,
+      "text": "Katanya itu kata yang paling mahal di kantor ini"
+    },
+    {
+      "t": 73.19,
+      "end": 73.81,
+      "text": "Lembur lagi"
+    },
+    {
+      "t": 73.81,
+      "end": 73.81,
+      "text": "[Verse 2 - rapped]"
+    },
+    {
+      "t": 73.81,
+      "end": 77.25,
+      "text": "Gue hitung sendiri, delapan puluh jam bulan ini di luar kontrak"
+    },
+    {
+      "t": 77.39,
+      "end": 81.19,
+      "text": "Gue simpen di notes, bukan buat nuntut, buat inget"
+    },
+    {
+      "t": 82.53,
+      "end": 86.23,
+      "text": "Kalau gue lupa, gue bakal kira ini normal"
+    },
+    {
+      "t": 87.25,
+      "end": 91.15,
+      "text": "Gue takut kira ini normal"
+    },
+    {
+      "t": 91.87,
+      "end": 91.87,
+      "text": "[Hook - sung with ornament]"
+    },
+    {
+      "t": 91.87,
+      "end": 114.53,
+      "text": "Lembur lagi, lembur lagi"
+    },
+    {
+      "t": 117.23,
+      "end": 120.45,
+      "text": "Besok libur katanya, katanya"
+    },
+    {
+      "t": 120.81,
+      "end": 157.26,
+      "text": "Katanya itu kata yang paling mahal di kantor ini"
+    },
+    {
+      "t": 157.46,
+      "end": 163.3,
+      "text": "Gue catet lagi"
+    },
+    {
+      "t": 163.3,
+      "end": 163.3,
+      "text": "[Outro - kendang break, cut]"
+    },
+    {
+      "t": 163.3,
+      "end": 163.3,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

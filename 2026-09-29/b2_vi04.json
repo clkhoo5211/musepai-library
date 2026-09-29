@@ -1,0 +1,149 @@
+{
+  "id": "b2_vi04",
+  "title": "Anh Hề Lắm",
+  "title_source": "scripted",
+  "genre": "melodic street trap",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "tự giễu",
+  "persona": "",
+  "subject": "tự cười mình sau khi thất bại",
+  "caption": "Vietnamese melodic street trap. Hard gliding 808 with audible distortion, dark Rhodes chords in a minor key, phonk-adjacent detuned bell, sparse hats. Male rap with a comic conversational delivery, meme-fluent slang, code-switching single English words as punchlines, sung tag on the hook. 130 BPM, C sharp minor. Self-mocking, not self-pitying. No US drill, no gun content, no clean pop production, no tropical house.",
+  "lyrics": "[Intro - detuned bell]\n\n[Verse 1 - rapped]\nAnh đi phỏng vấn mặc cái áo mượn của thằng bạn, rộng hai số\nNgười ta hỏi anh điểm mạnh, anh nói anh chăm\nChăm là cái điểm mạnh mà ai cũng nói, anh biết\nAnh vẫn nói, tại anh không nghĩ ra cái khác\n\n[Hook]\nAnh hề lắm\nEm đừng thương, em cười đi\nCười thì anh đỡ phải giải thích\nAnh hề lắm\n\n[Verse 2 - rapped]\nMẹ hỏi sao dạo này gầy, anh nói tại tập gym\nAnh có tập gym, một buổi, tháng trước, hết hạn thẻ luôn\nAnh nói dối những cái nhỏ nhỏ để khỏi nói thật cái to\nAi cũng làm vậy, chắc vậy, anh mong là vậy\n\n[Hook]\nAnh hề lắm\nEm đừng thương, em cười đi\nCười thì anh đỡ phải giải thích\nAnh hề thật đấy\n\n[Outro - bell, cut]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 162.0,
+    "genres": "N/A",
+    "keyscale": "C sharp minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese melodic street trap. Hard gliding 808 with audible distortion, dark Rhodes chords in a minor key, phonk-adjacent detuned bell, sparse hats. Male rap with a comic conversational delivery, meme-fluent slang, code-switching single English words as punchlines, sung tag on the hook. 130 BPM, C sharp minor. Self-mocking, not self-pitying. No US drill, no gun content, no clean pop production, no tropical house.",
+    "lyrics": "[Intro - detuned bell]\n\n[Verse 1 - rapped]\nAnh đi phỏng vấn mặc cái áo mượn của thằng bạn, rộng hai số\nNgười ta hỏi anh điểm mạnh, anh nói anh chăm\nChăm là cái điểm mạnh mà ai cũng nói, anh biết\nAnh vẫn nói, tại anh không nghĩ ra cái khác\n\n[Hook]\nAnh hề lắm\nEm đừng thương, em cười đi\nCười thì anh đỡ phải giải thích\nAnh hề lắm\n\n[Verse 2 - rapped]\nMẹ hỏi sao dạo này gầy, anh nói tại tập gym\nAnh có tập gym, một buổi, tháng trước, hết hạn thẻ luôn\nAnh nói dối những cái nhỏ nhỏ để khỏi nói thật cái to\nAi cũng làm vậy, chắc vậy, anh mong là vậy\n\n[Hook]\nAnh hề lắm\nEm đừng thương, em cười đi\nCười thì anh đỡ phải giải thích\nAnh hề thật đấy\n\n[Outro - bell, cut]\n[Song ends abruptly]"
+  },
+  "seed": "2744990686",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 47.43s**\n- 47.43s per song\n- LM phase (1 song): 8.18s\n- DiT phase (1 song): 39.25s",
+  "task_id": "f9ee8d3c-faf4-4564-a431-55fc3cf7cc0e",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-09-29T17:36:23.421206+08:00",
+  "audio": "b2_vi04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.52,
+      "end": 30.52,
+      "text": "[Intro - detuned bell]"
+    },
+    {
+      "t": 30.52,
+      "end": 30.52,
+      "text": "[Verse 1 - rapped]"
+    },
+    {
+      "t": 30.52,
+      "end": 34.46,
+      "text": "Anh đi phỏng vấn mặc cái áo mượn của thằng bạn, rộng hai số"
+    },
+    {
+      "t": 37.08,
+      "end": 41.51,
+      "text": "Người ta hỏi anh điểm mạnh, anh nói anh chăm"
+    },
+    {
+      "t": 44.89,
+      "end": 48.87,
+      "text": "Chăm là cái điểm mạnh mà ai cũng nói, anh biết"
+    },
+    {
+      "t": 52.33,
+      "end": 58.43,
+      "text": "Anh vẫn nói, tại anh không nghĩ ra cái khác"
+    },
+    {
+      "t": 59.87,
+      "end": 59.87,
+      "text": "[Hook]"
+    },
+    {
+      "t": 59.87,
+      "end": 60.95,
+      "text": "Anh hề lắm"
+    },
+    {
+      "t": 61.71,
+      "end": 64.05,
+      "text": "Em đừng thương, em cười đi"
+    },
+    {
+      "t": 67.11,
+      "end": 70.11,
+      "text": "Cười thì anh đỡ phải giải thích"
+    },
+    {
+      "t": 70.85,
+      "end": 71.77,
+      "text": "Anh hề lắm"
+    },
+    {
+      "t": 71.79,
+      "end": 71.79,
+      "text": "[Verse 2 - rapped]"
+    },
+    {
+      "t": 71.79,
+      "end": 112.01,
+      "text": "Mẹ hỏi sao dạo này gầy, anh nói tại tập gym"
+    },
+    {
+      "t": 112.07,
+      "end": 118.11,
+      "text": "Anh có tập gym, một buổi, tháng trước, hết hạn thẻ luôn"
+    },
+    {
+      "t": 118.23,
+      "end": 123.98,
+      "text": "Anh nói dối những cái nhỏ nhỏ để khỏi nói thật cái to"
+    },
+    {
+      "t": 123.98,
+      "end": 125.5,
+      "text": "Ai cũng làm vậy, chắc vậy, anh mong là vậy"
+    },
+    {
+      "t": 126.26,
+      "end": 126.26,
+      "text": "[Hook]"
+    },
+    {
+      "t": 126.26,
+      "end": 127.34,
+      "text": "Anh hề lắm"
+    },
+    {
+      "t": 128.12,
+      "end": 130.44,
+      "text": "Em đừng thương, em cười đi"
+    },
+    {
+      "t": 133.5,
+      "end": 136.56,
+      "text": "Cười thì anh đỡ phải giải thích"
+    },
+    {
+      "t": 140.94,
+      "end": 141.86,
+      "text": "Anh hề thật đấy"
+    },
+    {
+      "t": 141.86,
+      "end": 141.86,
+      "text": "[Outro - bell, cut]"
+    },
+    {
+      "t": 141.86,
+      "end": 141.86,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

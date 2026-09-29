@@ -1,0 +1,149 @@
+{
+  "id": "b2_ko04",
+  "title": "덜 하기로 했어",
+  "title_source": "scripted",
+  "genre": "indie pop rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "밝은 화음에 어두운 가사",
+  "persona": "",
+  "subject": "일부러 덜 열심히 하기로 한 결정",
+  "caption": "Korean indie pop rock with an R&B-inflected lead vocal. Clean-tone guitar arpeggios over bright major chords, drums recorded roomy and left under-compressed, melodic bass, a Wurlitzer entering in the second half. Male lead phrasing like R&B over a rock band, no belting. Bright chords carrying a dark lyric. 112 BPM, D major. Deliberate, unheroic. No EDM, no key change, no whisper-to-belt dynamic, no sidechain.",
+  "lyrics": "[Intro - guitar arpeggio]\n\n[Verse 1]\n올해는 덜 하기로 했어\n못 하는 게 아니라 덜 하는 거야\n이 문장 만드는 데 삼 년 걸렸어\n삼 년 동안은 그냥 못 했었고\n\n[Chorus]\n덜 해도 되더라\n아무도 안 물어보더라\n물어볼 줄 알았는데\n그게 제일 이상했어\n\n[Verse 2]\n부모님한테는 아직 말 안 했어\n말하면 걱정하실까 봐가 아니라\n안 걱정하실까 봐\n그게 더 무서운 쪽이야\n\n[Chorus - Wurlitzer enters]\n덜 해도 되더라\n아무도 안 물어보더라\n물어봐 주면 좋겠는데\n그것도 좀 이상한 마음이지\n\n[Outro - guitar alone]\n그것도 좀 이상한 마음이지",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 182.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean indie pop rock with an R&B-inflected lead vocal. Clean-tone guitar arpeggios over bright major chords, drums recorded roomy and left under-compressed, melodic bass, a Wurlitzer entering in the second half. Male lead phrasing like R&B over a rock band, no belting. Bright chords carrying a dark lyric. 112 BPM, D major. Deliberate, unheroic. No EDM, no key change, no whisper-to-belt dynamic, no sidechain.",
+    "lyrics": "[Intro - guitar arpeggio]\n\n[Verse 1]\n올해는 덜 하기로 했어\n못 하는 게 아니라 덜 하는 거야\n이 문장 만드는 데 삼 년 걸렸어\n삼 년 동안은 그냥 못 했었고\n\n[Chorus]\n덜 해도 되더라\n아무도 안 물어보더라\n물어볼 줄 알았는데\n그게 제일 이상했어\n\n[Verse 2]\n부모님한테는 아직 말 안 했어\n말하면 걱정하실까 봐가 아니라\n안 걱정하실까 봐\n그게 더 무서운 쪽이야\n\n[Chorus - Wurlitzer enters]\n덜 해도 되더라\n아무도 안 물어보더라\n물어봐 주면 좋겠는데\n그것도 좀 이상한 마음이지\n\n[Outro - guitar alone]\n그것도 좀 이상한 마음이지"
+  },
+  "seed": "987837855",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 48.46s**\n- 48.46s per song\n- LM phase (1 song): 10.21s\n- DiT phase (1 song): 38.25s",
+  "task_id": "2df26a24-d8e6-43b2-a5aa-c5f5bf431af4",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:30:31.990450+08:00",
+  "audio": "b2_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.4,
+      "end": 23.4,
+      "text": "[Intro - guitar arpeggio]"
+    },
+    {
+      "t": 23.4,
+      "end": 23.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.4,
+      "end": 24.1,
+      "text": "올해는 덜 하기로 했어"
+    },
+    {
+      "t": 24.1,
+      "end": 26.52,
+      "text": "못 하는 게 아니라 덜 하는 거야"
+    },
+    {
+      "t": 26.52,
+      "end": 30.32,
+      "text": "이 문장 만드는 데 삼 년 걸렸어"
+    },
+    {
+      "t": 30.72,
+      "end": 36.2,
+      "text": "삼 년 동안은 그냥 못 했었고"
+    },
+    {
+      "t": 36.8,
+      "end": 36.8,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 36.8,
+      "end": 41.8,
+      "text": "덜 해도 되더라"
+    },
+    {
+      "t": 41.88,
+      "end": 43.72,
+      "text": "아무도 안 물어보더라"
+    },
+    {
+      "t": 47.61,
+      "end": 51.75,
+      "text": "물어볼 줄 알았는데"
+    },
+    {
+      "t": 56.41,
+      "end": 60.85,
+      "text": "그게 제일 이상했어"
+    },
+    {
+      "t": 65.27,
+      "end": 65.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.27,
+      "end": 69.15,
+      "text": "부모님한테는 아직 말 안 했어"
+    },
+    {
+      "t": 73.57,
+      "end": 77.49,
+      "text": "말하면 걱정하실까 봐가 아니라"
+    },
+    {
+      "t": 77.83,
+      "end": 78.89,
+      "text": "안 걱정하실까 봐"
+    },
+    {
+      "t": 82.11,
+      "end": 87.11,
+      "text": "그게 더 무서운 쪽이야"
+    },
+    {
+      "t": 87.29,
+      "end": 87.29,
+      "text": "[Chorus - Wurlitzer enters]"
+    },
+    {
+      "t": 87.29,
+      "end": 88.21,
+      "text": "덜 해도 되더라"
+    },
+    {
+      "t": 88.39,
+      "end": 140.62,
+      "text": "아무도 안 물어보더라"
+    },
+    {
+      "t": 141.32,
+      "end": 147.56,
+      "text": "물어봐 주면 좋겠는데"
+    },
+    {
+      "t": 152.26,
+      "end": 155.64,
+      "text": "그것도 좀 이상한 마음이지"
+    },
+    {
+      "t": 155.7,
+      "end": 155.7,
+      "text": "[Outro - guitar alone]"
+    },
+    {
+      "t": 155.7,
+      "end": 172.22,
+      "text": "그것도 좀 이상한 마음이지"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

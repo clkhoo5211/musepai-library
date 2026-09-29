@@ -1,0 +1,149 @@
+{
+  "id": "b2_ja03",
+  "title": "県道沿い",
+  "title_source": "scripted",
+  "genre": "J-drill rap",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "乾いた誇り",
+  "persona": "",
+  "subject": "東京から戻った男の話",
+  "caption": "Japanese drill. Sliding sub-bass kept dry and quiet rather than booming, skippy drill hi-hats with triplet flourishes, a muted piano loop in a minor key, almost no reverb anywhere. Male rap with an even-mora flow locked to sixteenths, rhymes built on two-to-four mora vowel runs placed mid-bar rather than at bar end, sentence-final particles clipped short. 144 BPM, G minor. Dry pride, no boasting. No trap hi-hat rolls, no autotune hook, no jazz sample, no boom bap.",
+  "lyrics": "[Intro - muted piano loop]\n\n[Verse 1 - rapped]\n県道沿いのコンビニ 駐車場が異様に広い\n高校ん時から変わってない 店員だけ変わった\n東京で四年 何も持って帰ってない\n持って帰る物があると思ってたのが間違い\n\n[Hook]\n戻ったんじゃない 寄っただけ\n寄っただけ 寄っただけ\n三年寄ってる\n戻ったんじゃない\n\n[Verse 2 - rapped]\n友達は皆んな車持ってる 俺だけ持ってない\n必要ないと言ったら 笑われた 正しく笑われた\nここは歩く場所じゃない ずっと知ってた\n知ってて歩いてる\n\n[Hook]\n戻ったんじゃない 寄っただけ\n寄っただけ 寄っただけ\n四年目に入った\n戻ったんじゃない\n\n[Outro - piano, cut]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 144,
+    "duration": 160.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Japanese drill. Sliding sub-bass kept dry and quiet rather than booming, skippy drill hi-hats with triplet flourishes, a muted piano loop in a minor key, almost no reverb anywhere. Male rap with an even-mora flow locked to sixteenths, rhymes built on two-to-four mora vowel runs placed mid-bar rather than at bar end, sentence-final particles clipped short. 144 BPM, G minor. Dry pride, no boasting. No trap hi-hat rolls, no autotune hook, no jazz sample, no boom bap.",
+    "lyrics": "[Intro - muted piano loop]\n\n[Verse 1 - rapped]\n県道沿いのコンビニ 駐車場が異様に広い\n高校ん時から変わってない 店員だけ変わった\n東京で四年 何も持って帰ってない\n持って帰る物があると思ってたのが間違い\n\n[Hook]\n戻ったんじゃない 寄っただけ\n寄っただけ 寄っただけ\n三年寄ってる\n戻ったんじゃない\n\n[Verse 2 - rapped]\n友達は皆んな車持ってる 俺だけ持ってない\n必要ないと言ったら 笑われた 正しく笑われた\nここは歩く場所じゃない ずっと知ってた\n知ってて歩いてる\n\n[Hook]\n戻ったんじゃない 寄っただけ\n寄っただけ 寄っただけ\n四年目に入った\n戻ったんじゃない\n\n[Outro - piano, cut]\n[Song ends abruptly]"
+  },
+  "seed": "2995856562",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.76s**\n- 52.76s per song\n- LM phase (1 song): 13.43s\n- DiT phase (1 song): 39.33s",
+  "task_id": "e6467877-8951-4096-9116-fa7bba1c57af",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-09-29T17:23:21.299248+08:00",
+  "audio": "b2_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 13.96,
+      "end": 13.96,
+      "text": "[Intro - muted piano loop]"
+    },
+    {
+      "t": 13.96,
+      "end": 13.96,
+      "text": "[Verse 1 - rapped]"
+    },
+    {
+      "t": 13.96,
+      "end": 37.56,
+      "text": "県道沿いのコンビニ 駐車場が異様に広い"
+    },
+    {
+      "t": 37.66,
+      "end": 45.39,
+      "text": "高校ん時から変わってない 店員だけ変わった"
+    },
+    {
+      "t": 45.41,
+      "end": 56.25,
+      "text": "東京で四年 何も持って帰ってない"
+    },
+    {
+      "t": 56.25,
+      "end": 61.69,
+      "text": "持って帰る物があると思ってたのが間違い"
+    },
+    {
+      "t": 61.75,
+      "end": 61.75,
+      "text": "[Hook]"
+    },
+    {
+      "t": 61.75,
+      "end": 62.75,
+      "text": "戻ったんじゃない 寄っただけ"
+    },
+    {
+      "t": 62.85,
+      "end": 64.03,
+      "text": "寄っただけ 寄っただけ"
+    },
+    {
+      "t": 68.51,
+      "end": 70.33,
+      "text": "三年寄ってる"
+    },
+    {
+      "t": 71.31,
+      "end": 72.63,
+      "text": "戻ったんじゃない"
+    },
+    {
+      "t": 72.63,
+      "end": 72.63,
+      "text": "[Verse 2 - rapped]"
+    },
+    {
+      "t": 72.63,
+      "end": 87.49,
+      "text": "友達は皆んな車持ってる 俺だけ持ってない"
+    },
+    {
+      "t": 87.49,
+      "end": 92.31,
+      "text": "必要ないと言ったら 笑われた 正しく笑われた"
+    },
+    {
+      "t": 93.45,
+      "end": 96.75,
+      "text": "ここは歩く場所じゃない ずっと知ってた"
+    },
+    {
+      "t": 97.65,
+      "end": 104.55,
+      "text": "知ってて歩いてる"
+    },
+    {
+      "t": 104.87,
+      "end": 104.87,
+      "text": "[Hook]"
+    },
+    {
+      "t": 104.87,
+      "end": 114.63,
+      "text": "戻ったんじゃない 寄っただけ"
+    },
+    {
+      "t": 116.91,
+      "end": 121.06,
+      "text": "寄っただけ 寄っただけ"
+    },
+    {
+      "t": 122.86,
+      "end": 126.38,
+      "text": "四年目に入った"
+    },
+    {
+      "t": 126.5,
+      "end": 128.06,
+      "text": "戻ったんじゃない"
+    },
+    {
+      "t": 128.06,
+      "end": 128.06,
+      "text": "[Outro - piano, cut]"
+    },
+    {
+      "t": 128.06,
+      "end": 128.06,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

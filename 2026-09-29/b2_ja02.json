@@ -1,0 +1,154 @@
+{
+  "id": "b2_ja02",
+  "title": "七時十二分の各停",
+  "title_source": "scripted",
+  "genre": "post-Vocaloid band pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "淡々とした限界",
+  "persona": "",
+  "subject": "毎朝同じ各停に乗る",
+  "caption": "Post-Vocaloid Japanese band pop. Tightly quantised sixteenth-note hi-hats, synth bass doubling a picked electric bass exactly, staccato piano stabs, pitched-up backing vocal stacks used as a pad. Female lead singing at Vocaloid syllable density, breath taken in obvious places because a human has to. 158 BPM, E minor. Flat, at capacity, not complaining. No orchestral strings, no EDM drop, no ballad section, no gated reverb.",
+  "lyrics": "[Intro - hats and synth bass]\n\n[Chorus]\n七時十二分の各停 三両目\n扉の横が空いてる確率 だいたい四割\n今日は空いてた\n それだけ\n\n[Verse 1]\n家賃を上げると言われたのが先月\n断る理由を三つ考えて 二つは嘘だった\n残った一つも 言えなかった\n更新の紙は冷蔵庫に貼ってある\n\n[Chorus]\n七時十二分の各停 三両目\n扉の横が空いてる確率 だいたい四割\n今日は空いてなかった\n それだけ\n\n[Instrumental Break - synth arpeggio]\n\n[Verse 2]\n同じ車両に同じ人が四人いる\n名前は知らない 降りる駅は知ってる\n一人が先週から来ない\n心配ではない ただ 覚えてる\n\n[Outro - hats stop first]\n それだけ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 158,
+    "duration": 184.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Post-Vocaloid Japanese band pop. Tightly quantised sixteenth-note hi-hats, synth bass doubling a picked electric bass exactly, staccato piano stabs, pitched-up backing vocal stacks used as a pad. Female lead singing at Vocaloid syllable density, breath taken in obvious places because a human has to. 158 BPM, E minor. Flat, at capacity, not complaining. No orchestral strings, no EDM drop, no ballad section, no gated reverb.",
+    "lyrics": "[Intro - hats and synth bass]\n\n[Chorus]\n七時十二分の各停 三両目\n扉の横が空いてる確率 だいたい四割\n今日は空いてた\n それだけ\n\n[Verse 1]\n家賃を上げると言われたのが先月\n断る理由を三つ考えて 二つは嘘だった\n残った一つも 言えなかった\n更新の紙は冷蔵庫に貼ってある\n\n[Chorus]\n七時十二分の各停 三両目\n扉の横が空いてる確率 だいたい四割\n今日は空いてなかった\n それだけ\n\n[Instrumental Break - synth arpeggio]\n\n[Verse 2]\n同じ車両に同じ人が四人いる\n名前は知らない 降りる駅は知ってる\n一人が先週から来ない\n心配ではない ただ 覚えてる\n\n[Outro - hats stop first]\n それだけ"
+  },
+  "seed": "3243106127",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.45s**\n- 55.45s per song\n- LM phase (1 song): 12.67s\n- DiT phase (1 song): 42.78s",
+  "task_id": "39679070-e13e-4eb4-abbd-ef2efa5d27fe",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:22:11.097969+08:00",
+  "audio": "b2_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 12.78,
+      "end": 12.78,
+      "text": "[Intro - hats and synth bass]"
+    },
+    {
+      "t": 12.78,
+      "end": 12.78,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 12.78,
+      "end": 20.56,
+      "text": "七時十二分の各停 三両目"
+    },
+    {
+      "t": 20.64,
+      "end": 44.14,
+      "text": "扉の横が空いてる確率 だいたい四割"
+    },
+    {
+      "t": 44.98,
+      "end": 48.83,
+      "text": "今日は空いてた"
+    },
+    {
+      "t": 49.45,
+      "end": 50.35,
+      "text": "それだけ"
+    },
+    {
+      "t": 50.61,
+      "end": 50.61,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 50.61,
+      "end": 55.93,
+      "text": "家賃を上げると言われたのが先月"
+    },
+    {
+      "t": 56.03,
+      "end": 61.75,
+      "text": "断る理由を三つ考えて 二つは嘘だった"
+    },
+    {
+      "t": 64.43,
+      "end": 67.73,
+      "text": "残った一つも 言えなかった"
+    },
+    {
+      "t": 69.11,
+      "end": 73.71,
+      "text": "更新の紙は冷蔵庫に貼ってある"
+    },
+    {
+      "t": 75.67,
+      "end": 75.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.67,
+      "end": 89.81,
+      "text": "七時十二分の各停 三両目"
+    },
+    {
+      "t": 92.71,
+      "end": 124.05,
+      "text": "扉の横が空いてる確率 だいたい四割"
+    },
+    {
+      "t": 124.89,
+      "end": 131.37,
+      "text": "今日は空いてなかった"
+    },
+    {
+      "t": 131.47,
+      "end": 137.35,
+      "text": "それだけ"
+    },
+    {
+      "t": 137.63,
+      "end": 137.63,
+      "text": "[Instrumental Break - synth arpeggio]"
+    },
+    {
+      "t": 137.63,
+      "end": 137.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 137.63,
+      "end": 150.68,
+      "text": "同じ車両に同じ人が四人いる"
+    },
+    {
+      "t": 150.76,
+      "end": 170.32,
+      "text": "名前は知らない 降りる駅は知ってる"
+    },
+    {
+      "t": 170.44,
+      "end": 172.26,
+      "text": "一人が先週から来ない"
+    },
+    {
+      "t": 172.3,
+      "end": 176.88,
+      "text": "心配ではない ただ 覚えてる"
+    },
+    {
+      "t": 177.34,
+      "end": 177.34,
+      "text": "[Outro - hats stop first]"
+    },
+    {
+      "t": 177.34,
+      "end": 179.3,
+      "text": "それだけ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

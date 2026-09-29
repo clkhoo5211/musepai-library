@@ -1,0 +1,169 @@
+{
+  "id": "b2_ja01",
+  "title": "シャッターの鍵",
+  "title_source": "scripted",
+  "genre": "anime-OP J-rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "覚悟した重さ",
+  "persona": "",
+  "subject": "畳んだ父の店の鍵を受け取る",
+  "caption": "Anime opening style Japanese rock, maximalist. Four layers of mid-scooped electric guitar, live-feel drums bussed through heavy parallel compression, piano doubling the vocal melody an octave up, bass playing sixteenths under the chorus, a displaced downbeat in the intro. Male lead in pushed chest voice, doubled on the chorus only. 172 BPM, B minor. Heavy with a decision already made. No orchestral ballad build, no gated 80s snare, no four on the floor chorus, no English tag lines.",
+  "lyrics": "[Intro - displaced downbeat, guitars]\n\n[Verse 1]\n閉めたシャッターの鍵を渡された\n父は説明もせずに背を向けた\n重い 錆びてる 回らない\n三回目でやっと回った\n\n[Pre-Chorus]\n継ぐとは言ってない\n捨てるとも言ってない\n\n[Chorus]\n開ける方法は知ってる\n開けてどうするかを知らない\nそれでも今日は開ける\n電気のブレーカーから\n\n[Instrumental Break - guitar]\n\n[Verse 2]\n伝票の字が父の字じゃない日がある\n母が書いてた 二十年分\n誰も言わなかった\n聞かなかった僕もいる\n\n[Chorus]\n開ける方法は知ってる\n開けてどうするかを知らない\nそれでも今日は開ける\n看板の電球から\n\n[Outro - guitars cut]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "B minor",
+    "timesignature": "4",
+    "prompt": "Anime opening style Japanese rock, maximalist. Four layers of mid-scooped electric guitar, live-feel drums bussed through heavy parallel compression, piano doubling the vocal melody an octave up, bass playing sixteenths under the chorus, a displaced downbeat in the intro. Male lead in pushed chest voice, doubled on the chorus only. 172 BPM, B minor. Heavy with a decision already made. No orchestral ballad build, no gated 80s snare, no four on the floor chorus, no English tag lines.",
+    "lyrics": "[Intro - displaced downbeat, guitars]\n\n[Verse 1]\n閉めたシャッターの鍵を渡された\n父は説明もせずに背を向けた\n重い 錆びてる 回らない\n三回目でやっと回った\n\n[Pre-Chorus]\n継ぐとは言ってない\n捨てるとも言ってない\n\n[Chorus]\n開ける方法は知ってる\n開けてどうするかを知らない\nそれでも今日は開ける\n電気のブレーカーから\n\n[Instrumental Break - guitar]\n\n[Verse 2]\n伝票の字が父の字じゃない日がある\n母が書いてた 二十年分\n誰も言わなかった\n聞かなかった僕もいる\n\n[Chorus]\n開ける方法は知ってる\n開けてどうするかを知らない\nそれでも今日は開ける\n看板の電球から\n\n[Outro - guitars cut]\n[Song ends abruptly]"
+  },
+  "seed": "1119882334",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 51.75s**\n- 51.75s per song\n- LM phase (1 song): 9.40s\n- DiT phase (1 song): 42.35s",
+  "task_id": "d678ebd7-c782-44d3-b9c5-9bd6cf65f196",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-09-29T17:21:00.986124+08:00",
+  "audio": "b2_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 15.7,
+      "end": 15.7,
+      "text": "[Intro - displaced downbeat, guitars]"
+    },
+    {
+      "t": 15.7,
+      "end": 15.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.7,
+      "end": 54.79,
+      "text": "閉めたシャッターの鍵を渡された"
+    },
+    {
+      "t": 54.83,
+      "end": 57.07,
+      "text": "父は説明もせずに背を向けた"
+    },
+    {
+      "t": 57.11,
+      "end": 61.33,
+      "text": "重い 錆びてる 回らない"
+    },
+    {
+      "t": 61.33,
+      "end": 63.21,
+      "text": "三回目でやっと回った"
+    },
+    {
+      "t": 64.31,
+      "end": 64.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 64.31,
+      "end": 66.37,
+      "text": "継ぐとは言ってない"
+    },
+    {
+      "t": 66.93,
+      "end": 69.21,
+      "text": "捨てるとも言ってない"
+    },
+    {
+      "t": 69.75,
+      "end": 69.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.75,
+      "end": 72.01,
+      "text": "開ける方法は知ってる"
+    },
+    {
+      "t": 72.59,
+      "end": 75.39,
+      "text": "開けてどうするかを知らない"
+    },
+    {
+      "t": 75.55,
+      "end": 78.17,
+      "text": "それでも今日は開ける"
+    },
+    {
+      "t": 78.61,
+      "end": 81.33,
+      "text": "電気のブレーカーから"
+    },
+    {
+      "t": 83.13,
+      "end": 83.13,
+      "text": "[Instrumental Break - guitar]"
+    },
+    {
+      "t": 83.13,
+      "end": 83.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.13,
+      "end": 86.65,
+      "text": "伝票の字が父の字じゃない日がある"
+    },
+    {
+      "t": 87.41,
+      "end": 94.75,
+      "text": "母が書いてた 二十年分"
+    },
+    {
+      "t": 94.79,
+      "end": 97.79,
+      "text": "誰も言わなかった"
+    },
+    {
+      "t": 98.69,
+      "end": 99.63,
+      "text": "聞かなかった僕もいる"
+    },
+    {
+      "t": 99.93,
+      "end": 99.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.93,
+      "end": 136.05,
+      "text": "開ける方法は知ってる"
+    },
+    {
+      "t": 142.03,
+      "end": 153.04,
+      "text": "開けてどうするかを知らない"
+    },
+    {
+      "t": 153.14,
+      "end": 175.52,
+      "text": "それでも今日は開ける"
+    },
+    {
+      "t": 176.08,
+      "end": 178.34,
+      "text": "看板の電球から"
+    },
+    {
+      "t": 178.34,
+      "end": 178.34,
+      "text": "[Outro - guitars cut]"
+    },
+    {
+      "t": 178.34,
+      "end": 178.34,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "b2_en03",
+  "title": "Dead Mall Security",
+  "title_source": "scripted",
+  "genre": "rage rap",
+  "language": "en",
+  "language_name": "English",
+  "mood": "flat and dissociated",
+  "persona": "",
+  "subject": "a night security guard in a mall with no tenants",
+  "caption": "Rage rap. Bitcrushed detuned lead synth carrying the whole melody, 808 driven into clipping on purpose, sparse hi-hats with long gaps, no snare fills, deliberate mp3 artifacting on the tails. Fast deadpan male rap, flat affect, screamed ad-libs mixed as loud as the lead vocal, hard autotune used texturally on the hook only. 162 BPM, F sharp minor. Flat, dissociated, bored rather than angry. No trap hi-hat rolls, no clean 808 slides, no boom bap, no melodic trap.",
+  "lyrics": "[Intro - bitcrushed synth stab]\n\n[Verse 1 - rapped, fast]\nGuard booth light on, nobody guarding nothing\nSears been gone six years, they still wax the floor\nPush the cart out front for the cameras, cart got no wheels\nI clock in at nine, I dissolve at ten\n\n[Hook - screamed ad-libs layered]\nNothing in the bag, nothing in the bag\nWalk it to the car like it's heavy\nNothing in the bag\n\n[Verse 2 - rapped]\nMom calls, I let it ring, call her back from the same chair\nFountain's dry, they filled it with those white rocks\nKid on a scooter doing laps around the pretzel place\nI'd tell him to slow down but I'd have to stand up\n\n[Hook - screamed ad-libs layered]\nNothing in the bag, nothing in the bag\nWalk it to the car like it's expensive\nNothing in the bag\n\n[Outro - 808 clipping]\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 162,
+    "duration": 131.0,
+    "genres": "N/A",
+    "keyscale": "F sharp minor",
+    "timesignature": "4",
+    "prompt": "Rage rap. Bitcrushed detuned lead synth carrying the whole melody, 808 driven into clipping on purpose, sparse hi-hats with long gaps, no snare fills, deliberate mp3 artifacting on the tails. Fast deadpan male rap, flat affect, screamed ad-libs mixed as loud as the lead vocal, hard autotune used texturally on the hook only. 162 BPM, F sharp minor. Flat, dissociated, bored rather than angry. No trap hi-hat rolls, no clean 808 slides, no boom bap, no melodic trap.",
+    "lyrics": "[Intro - bitcrushed synth stab]\n\n[Verse 1 - rapped, fast]\nGuard booth light on, nobody guarding nothing\nSears been gone six years, they still wax the floor\nPush the cart out front for the cameras, cart got no wheels\nI clock in at nine, I dissolve at ten\n\n[Hook - screamed ad-libs layered]\nNothing in the bag, nothing in the bag\nWalk it to the car like it's heavy\nNothing in the bag\n\n[Verse 2 - rapped]\nMom calls, I let it ring, call her back from the same chair\nFountain's dry, they filled it with those white rocks\nKid on a scooter doing laps around the pretzel place\nI'd tell him to slow down but I'd have to stand up\n\n[Hook - screamed ad-libs layered]\nNothing in the bag, nothing in the bag\nWalk it to the car like it's expensive\nNothing in the bag\n\n[Outro - 808 clipping]\n[Song ends abruptly]"
+  },
+  "seed": "2939354240",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.74s**\n- 50.74s per song\n- LM phase (1 song): 13.11s\n- DiT phase (1 song): 37.62s",
+  "task_id": "5fb4de85-e36b-4260-ade8-3d6ed3158ba6",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-09-29T17:11:19.848800+08:00",
+  "audio": "b2_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.34,
+      "end": 25.34,
+      "text": "[Intro - bitcrushed synth stab]"
+    },
+    {
+      "t": 25.34,
+      "end": 25.34,
+      "text": "[Verse 1 - rapped, fast]"
+    },
+    {
+      "t": 25.34,
+      "end": 30.0,
+      "text": "Guard booth light on, nobody guarding nothing"
+    },
+    {
+      "t": 31.78,
+      "end": 35.17,
+      "text": "Sears been gone six years, they still wax the floor"
+    },
+    {
+      "t": 36.43,
+      "end": 41.67,
+      "text": "Push the cart out front for the cameras, cart got no wheels"
+    },
+    {
+      "t": 42.73,
+      "end": 47.39,
+      "text": "I clock in at nine, I dissolve at ten"
+    },
+    {
+      "t": 48.11,
+      "end": 48.11,
+      "text": "[Hook - screamed ad-libs layered]"
+    },
+    {
+      "t": 48.11,
+      "end": 50.49,
+      "text": "Nothing in the bag, nothing in the bag"
+    },
+    {
+      "t": 50.49,
+      "end": 52.01,
+      "text": "Walk it to the car like it's heavy"
+    },
+    {
+      "t": 52.11,
+      "end": 53.99,
+      "text": "Nothing in the bag"
+    },
+    {
+      "t": 55.15,
+      "end": 55.15,
+      "text": "[Verse 2 - rapped]"
+    },
+    {
+      "t": 55.15,
+      "end": 58.39,
+      "text": "Mom calls, I let it ring, call her back from the same chair"
+    },
+    {
+      "t": 58.45,
+      "end": 60.47,
+      "text": "Fountain's dry, they filled it with those white rocks"
+    },
+    {
+      "t": 60.89,
+      "end": 64.57,
+      "text": "Kid on a scooter doing laps around the pretzel place"
+    },
+    {
+      "t": 64.67,
+      "end": 70.05,
+      "text": "I'd tell him to slow down but I'd have to stand up"
+    },
+    {
+      "t": 72.01,
+      "end": 72.01,
+      "text": "[Hook - screamed ad-libs layered]"
+    },
+    {
+      "t": 72.01,
+      "end": 92.27,
+      "text": "Nothing in the bag, nothing in the bag"
+    },
+    {
+      "t": 94.21,
+      "end": 101.2,
+      "text": "Walk it to the car like it's expensive"
+    },
+    {
+      "t": 101.2,
+      "end": 125.72,
+      "text": "Nothing in the bag"
+    },
+    {
+      "t": 125.72,
+      "end": 125.72,
+      "text": "[Outro - 808 clipping]"
+    },
+    {
+      "t": 125.72,
+      "end": 125.72,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}
