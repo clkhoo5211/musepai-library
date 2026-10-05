@@ -1,0 +1,184 @@
+{
+  "id": "b3_ms03",
+  "title": "Meja Lapan",
+  "title_source": "scripted",
+  "genre": "Malay alternative rock",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "clenched, performing fine",
+  "persona": "",
+  "subject": "being a guest at the wedding of someone you loved",
+  "caption": "Malay alternative rock, heavy and modern. Drop-tuned electric guitars with thick palm-muted chugs doubled hard left and right, a dry punchy drum kit with the snare tuned high, sub bass tracking the guitar root, one clean guitar arpeggio exposed in the bridge. Mixed loud and compressed, guitars wide, drums forward. Strained male baritone, conversational in the verses and shouted raw in the chorus, cracking on purpose. 146 BPM, C sharp minor. Clenched, performing fine in public. No pop gloss, no synth, no rapping, no ballad section, no orchestral strings.",
+  "lyrics": "[Intro - drop-tuned guitar and drums]\n\n[Verse 1]\nMeja lapan, sebelah speaker\nAku dapat ayam, orang sebelah dapat ayam\nKau cantik. Aku dah agak kau akan cantik.\nAku datang sebab kalau tak datang, lagi pelik\n\n[Pre-Chorus]\nTiga tahun aku latih muka ni\nHari ni je aku guna\n\n[Chorus]\nAku tepuk tangan kuat\nAku tepuk paling kuat kat meja ni\nJangan pandang sini, jangan pandang sini\nAku okey bila kau tak pandang\n\n[Verse 2]\nMak kau kenal aku, dia peluk aku lama sikit\nDia tak cakap apa-apa. Itu yang paling sakit.\nPengantin lalu, kain dia sentuh kaki kerusi\nAku tarik kaki aku. Refleks.\n\n[Chorus]\nAku tepuk tangan kuat\nAku tepuk paling lama kat meja ni\nJangan pandang sini, jangan pandang sini\nAku okey selagi kau tak pandang\n\n[Bridge - clean guitar alone]\nBunga telur aku bawa balik\nLetak atas dashboard. Sampai cair.\n\n[Outro - full band, cut]\nMeja lapan dah kosong\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 146,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "C# minor",
+    "timesignature": "4",
+    "prompt": "Malay alternative rock, heavy and modern. Drop-tuned electric guitars with thick palm-muted chugs doubled hard left and right, a dry punchy drum kit with the snare tuned high, sub bass tracking the guitar root, one clean guitar arpeggio exposed in the bridge. Mixed loud and compressed, guitars wide, drums forward. Strained male baritone, conversational in the verses and shouted raw in the chorus, cracking on purpose. 146 BPM, C sharp minor. Clenched, performing fine in public. No pop gloss, no synth, no rapping, no ballad section, no orchestral strings.",
+    "lyrics": "[Intro - drop-tuned guitar and drums]\n\n[Verse 1]\nMeja lapan, sebelah speaker\nAku dapat ayam, orang sebelah dapat ayam\nKau cantik. Aku dah agak kau akan cantik.\nAku datang sebab kalau tak datang, lagi pelik\n\n[Pre-Chorus]\nTiga tahun aku latih muka ni\nHari ni je aku guna\n\n[Chorus]\nAku tepuk tangan kuat\nAku tepuk paling kuat kat meja ni\nJangan pandang sini, jangan pandang sini\nAku okey bila kau tak pandang\n\n[Verse 2]\nMak kau kenal aku, dia peluk aku lama sikit\nDia tak cakap apa-apa. Itu yang paling sakit.\nPengantin lalu, kain dia sentuh kaki kerusi\nAku tarik kaki aku. Refleks.\n\n[Chorus]\nAku tepuk tangan kuat\nAku tepuk paling lama kat meja ni\nJangan pandang sini, jangan pandang sini\nAku okey selagi kau tak pandang\n\n[Bridge - clean guitar alone]\nBunga telur aku bawa balik\nLetak atas dashboard. Sampai cair.\n\n[Outro - full band, cut]\nMeja lapan dah kosong\n[Song ends abruptly]"
+  },
+  "seed": "3627011913",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.80s**\n- 56.80s per song\n- LM phase (1 song): 11.47s\n- DiT phase (1 song): 45.33s",
+  "task_id": "cf06fb98-e3a8-4532-8599-047efa7aa423",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-05T15:16:11.914069+08:00",
+  "audio": "b3_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 44.5,
+      "end": 44.5,
+      "text": "[Intro - drop-tuned guitar and drums]"
+    },
+    {
+      "t": 44.5,
+      "end": 44.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.5,
+      "end": 51.45,
+      "text": "Meja lapan, sebelah speaker"
+    },
+    {
+      "t": 51.53,
+      "end": 55.87,
+      "text": "Aku dapat ayam, orang sebelah dapat ayam"
+    },
+    {
+      "t": 56.75,
+      "end": 61.87,
+      "text": "Kau cantik. Aku dah agak kau akan cantik."
+    },
+    {
+      "t": 62.41,
+      "end": 69.11,
+      "text": "Aku datang sebab kalau tak datang, lagi pelik"
+    },
+    {
+      "t": 69.11,
+      "end": 69.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 69.11,
+      "end": 69.97,
+      "text": "Tiga tahun aku latih muka ni"
+    },
+    {
+      "t": 69.97,
+      "end": 70.75,
+      "text": "Hari ni je aku guna"
+    },
+    {
+      "t": 70.77,
+      "end": 70.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.77,
+      "end": 72.87,
+      "text": "Aku tepuk tangan kuat"
+    },
+    {
+      "t": 72.87,
+      "end": 74.77,
+      "text": "Aku tepuk paling kuat kat meja ni"
+    },
+    {
+      "t": 74.77,
+      "end": 77.97,
+      "text": "Jangan pandang sini, jangan pandang sini"
+    },
+    {
+      "t": 80.13,
+      "end": 86.27,
+      "text": "Aku okey bila kau tak pandang"
+    },
+    {
+      "t": 86.27,
+      "end": 86.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.27,
+      "end": 94.69,
+      "text": "Mak kau kenal aku, dia peluk aku lama sikit"
+    },
+    {
+      "t": 94.79,
+      "end": 97.41,
+      "text": "Dia tak cakap apa-apa. Itu yang paling sakit."
+    },
+    {
+      "t": 97.41,
+      "end": 111.51,
+      "text": "Pengantin lalu, kain dia sentuh kaki kerusi"
+    },
+    {
+      "t": 111.51,
+      "end": 121.59,
+      "text": "Aku tarik kaki aku. Refleks."
+    },
+    {
+      "t": 121.59,
+      "end": 121.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.59,
+      "end": 122.71,
+      "text": "Aku tepuk tangan kuat"
+    },
+    {
+      "t": 122.71,
+      "end": 125.73,
+      "text": "Aku tepuk paling lama kat meja ni"
+    },
+    {
+      "t": 127.19,
+      "end": 132.23,
+      "text": "Jangan pandang sini, jangan pandang sini"
+    },
+    {
+      "t": 135.95,
+      "end": 141.51,
+      "text": "Aku okey selagi kau tak pandang"
+    },
+    {
+      "t": 149.06,
+      "end": 149.06,
+      "text": "[Bridge - clean guitar alone]"
+    },
+    {
+      "t": 149.06,
+      "end": 155.14,
+      "text": "Bunga telur aku bawa balik"
+    },
+    {
+      "t": 155.26,
+      "end": 160.56,
+      "text": "Letak atas dashboard. Sampai cair."
+    },
+    {
+      "t": 184.56,
+      "end": 184.56,
+      "text": "[Outro - full band, cut]"
+    },
+    {
+      "t": 184.56,
+      "end": 187.56,
+      "text": "Meja lapan dah kosong"
+    },
+    {
+      "t": 187.56,
+      "end": 187.56,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

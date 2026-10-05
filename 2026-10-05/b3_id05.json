@@ -1,0 +1,169 @@
+{
+  "id": "b3_id05",
+  "title": "Kulkas Naik Tangga",
+  "title_source": "scripted",
+  "genre": "Jakarta melodic rap",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "matter-of-fact, no complaint",
+  "persona": "",
+  "subject": "a flood morning, carrying the refrigerator up seventeen steps",
+  "caption": "Indonesian melodic rap, Jakarta street register. Round sustained 808 bass, beat built on a dry rimshot and sparse claps rather than busy hats, a single sampled metallic gamelan bell figure looping high, one wide synth pad entering only under the hook. Clean controlled low end with a deliberately sparse top, lots of space around the voice. Mid-range male rap, conversational and unhurried in the verses, half-sung on the hook with light doubling and no heavy autotune. 130 BPM, F minor. Matter-of-fact, refusing to complain. No dangdut rhythm, no koplo kendang, no aggressive hi-hat rolls, no sung pop chorus.",
+  "lyrics": "[Intro - 808 and rimshot]\n\n[Verse 1]\nAir masuk jam empat, bukan lewat pintu, lewat lantai\nBapak bilang \"kulkas dulu\", bukan \"kamu dulu\"\nKami angkat empat orang, tangga tujuh belas\nYang paling berat itu bukan kulkasnya. Itu tangganya.\n\n[Hook]\nNaik, naik, jangan lihat ke bawah\n\"Barang bisa diganti\" — itu kata orang yang barangnya pernah ada\nKami tidak ngomong begitu di sini\nKami cuma naik\n\n[Verse 2]\nTetangga kirim foto ke grup, airnya lebih tinggi dari punya kami\nKami balas emoji. Itu bahasa kami sekarang.\nPagi-pagi air turun, meninggalkan garis di dinding\nTiap tahun garisnya naik sedikit. Kami tidak hapus. Kami ukur.\n\n[Hook]\nNaik, naik, jangan lihat ke bawah\n\"Barang bisa diganti\" — itu kata orang yang barangnya pernah ada\nKami tidak ngomong begitu di sini\nKami masih naik\n\n[Bridge - beat drops out]\nKulkasnya hidup. Lampunya nyala.\nKami tepuk tangan. Serius, kami tepuk tangan.\n\n[Outro - 808 stops]\nGaris di dinding\nTahun ini sampai sini",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 174.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Indonesian melodic rap, Jakarta street register. Round sustained 808 bass, beat built on a dry rimshot and sparse claps rather than busy hats, a single sampled metallic gamelan bell figure looping high, one wide synth pad entering only under the hook. Clean controlled low end with a deliberately sparse top, lots of space around the voice. Mid-range male rap, conversational and unhurried in the verses, half-sung on the hook with light doubling and no heavy autotune. 130 BPM, F minor. Matter-of-fact, refusing to complain. No dangdut rhythm, no koplo kendang, no aggressive hi-hat rolls, no sung pop chorus.",
+    "lyrics": "[Intro - 808 and rimshot]\n\n[Verse 1]\nAir masuk jam empat, bukan lewat pintu, lewat lantai\nBapak bilang \"kulkas dulu\", bukan \"kamu dulu\"\nKami angkat empat orang, tangga tujuh belas\nYang paling berat itu bukan kulkasnya. Itu tangganya.\n\n[Hook]\nNaik, naik, jangan lihat ke bawah\n\"Barang bisa diganti\" — itu kata orang yang barangnya pernah ada\nKami tidak ngomong begitu di sini\nKami cuma naik\n\n[Verse 2]\nTetangga kirim foto ke grup, airnya lebih tinggi dari punya kami\nKami balas emoji. Itu bahasa kami sekarang.\nPagi-pagi air turun, meninggalkan garis di dinding\nTiap tahun garisnya naik sedikit. Kami tidak hapus. Kami ukur.\n\n[Hook]\nNaik, naik, jangan lihat ke bawah\n\"Barang bisa diganti\" — itu kata orang yang barangnya pernah ada\nKami tidak ngomong begitu di sini\nKami masih naik\n\n[Bridge - beat drops out]\nKulkasnya hidup. Lampunya nyala.\nKami tepuk tangan. Serius, kami tepuk tangan.\n\n[Outro - 808 stops]\nGaris di dinding\nTahun ini sampai sini"
+  },
+  "seed": "1102433565",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 86.31s**\n- 86.31s per song\n- LM phase (1 song): 18.53s\n- DiT phase (1 song): 67.78s",
+  "task_id": "36218a46-3851-4667-87d2-98f771cdbda3",
+  "elapsed_s": 120.6,
+  "generated_at": "2026-10-05T15:27:08.032011+08:00",
+  "audio": "b3_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.62,
+      "end": 17.62,
+      "text": "[Intro - 808 and rimshot]"
+    },
+    {
+      "t": 17.62,
+      "end": 17.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.62,
+      "end": 22.28,
+      "text": "Air masuk jam empat, bukan lewat pintu, lewat lantai"
+    },
+    {
+      "t": 25.16,
+      "end": 29.2,
+      "text": "Bapak bilang \"kulkas dulu\", bukan \"kamu dulu\""
+    },
+    {
+      "t": 29.28,
+      "end": 31.18,
+      "text": "Kami angkat empat orang, tangga tujuh belas"
+    },
+    {
+      "t": 31.62,
+      "end": 40.34,
+      "text": "Yang paling berat itu bukan kulkasnya. Itu tangganya."
+    },
+    {
+      "t": 40.42,
+      "end": 40.42,
+      "text": "[Hook]"
+    },
+    {
+      "t": 40.42,
+      "end": 43.14,
+      "text": "Naik, naik, jangan lihat ke bawah"
+    },
+    {
+      "t": 43.24,
+      "end": 49.39,
+      "text": "\"Barang bisa diganti\" — itu kata orang yang barangnya pernah ada"
+    },
+    {
+      "t": 49.93,
+      "end": 54.93,
+      "text": "Kami tidak ngomong begitu di sini"
+    },
+    {
+      "t": 56.21,
+      "end": 59.93,
+      "text": "Kami cuma naik"
+    },
+    {
+      "t": 65.53,
+      "end": 65.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.53,
+      "end": 71.19,
+      "text": "Tetangga kirim foto ke grup, airnya lebih tinggi dari punya kami"
+    },
+    {
+      "t": 72.65,
+      "end": 78.75,
+      "text": "Kami balas emoji. Itu bahasa kami sekarang."
+    },
+    {
+      "t": 79.87,
+      "end": 86.11,
+      "text": "Pagi-pagi air turun, meninggalkan garis di dinding"
+    },
+    {
+      "t": 87.41,
+      "end": 94.81,
+      "text": "Tiap tahun garisnya naik sedikit. Kami tidak hapus. Kami ukur."
+    },
+    {
+      "t": 94.81,
+      "end": 94.81,
+      "text": "[Hook]"
+    },
+    {
+      "t": 94.81,
+      "end": 97.33,
+      "text": "Naik, naik, jangan lihat ke bawah"
+    },
+    {
+      "t": 97.59,
+      "end": 104.39,
+      "text": "\"Barang bisa diganti\" — itu kata orang yang barangnya pernah ada"
+    },
+    {
+      "t": 104.95,
+      "end": 109.95,
+      "text": "Kami tidak ngomong begitu di sini"
+    },
+    {
+      "t": 111.43,
+      "end": 115.35,
+      "text": "Kami masih naik"
+    },
+    {
+      "t": 138.36,
+      "end": 138.36,
+      "text": "[Bridge - beat drops out]"
+    },
+    {
+      "t": 138.36,
+      "end": 143.12,
+      "text": "Kulkasnya hidup. Lampunya nyala."
+    },
+    {
+      "t": 144.4,
+      "end": 149.74,
+      "text": "Kami tepuk tangan. Serius, kami tepuk tangan."
+    },
+    {
+      "t": 149.94,
+      "end": 149.94,
+      "text": "[Outro - 808 stops]"
+    },
+    {
+      "t": 149.94,
+      "end": 153.22,
+      "text": "Garis di dinding"
+    },
+    {
+      "t": 164.5,
+      "end": 167.32,
+      "text": "Tahun ini sampai sini"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

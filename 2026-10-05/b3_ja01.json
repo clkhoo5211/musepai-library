@@ -1,0 +1,169 @@
+{
+  "id": "b3_ja01",
+  "title": "二次会は行かない",
+  "title_source": "scripted",
+  "genre": "genre-switch maximalist rap-pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "socially cornered then free",
+  "persona": "",
+  "subject": "getting out of the second round of a work drinking party",
+  "caption": "Japanese maximalist rap-pop built on abrupt genre switching rather than one held groove. The verse runs on a distorted synth bass stab and dry programmed drums, the chorus switches to a four-on-the-floor disco kick with bright brass stabs, and the second verse switches again to a live-sounding drum kit with funk guitar. Each section is mixed as if it were a different record, cutting hard between them with no transitions. Male voice rapping tight and clipped in the verses, switching to a half-sung melodic chorus with layered harmonies. 128 BPM, F minor. Socially cornered, then free. No ballad section, no autotune melisma, no gradual build, no key change.",
+  "lyrics": "[Intro - distorted synth bass stab]\n\n[Verse 1 - Rap]\n一次会の終わり 誰かが「二次会どうする?」って言う\n全員が全員の顔を見る 誰も決めない\n俺は靴紐を結び直してる 結び直す必要はない\n時間を稼いでるだけ\n\n[Pre-Chorus]\n「先に帰ります」の七文字\n練習したのに 声が小さい\n\n[Chorus - genre switch to four-on-the-floor]\n二次会は行かない\n悪い人じゃない 嫌いな人もいない\nただ 明日の自分に貸しを作りたくない\n駅までの六分が 今日いちばん自由\n\n[Verse 2 - Rap, beat switch to live drums]\n部長が「お前は真面目だな」って言った 褒めてない\n三人が俺の肩を叩いて 二人が止めて\n結局 みんな手を振った 普通に やさしく\n俺が思ってたほど 俺は重要じゃなかった\n\n[Chorus]\n二次会は行かない\n悪い人じゃない 嫌いな人もいない\nただ 明日の自分に貸しを作りたくない\n駅までの六分が 今日いちばん自由だった\n\n[Outro - synth stab, cut]\nホームで ネクタイを緩める\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 162.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Japanese maximalist rap-pop built on abrupt genre switching rather than one held groove. The verse runs on a distorted synth bass stab and dry programmed drums, the chorus switches to a four-on-the-floor disco kick with bright brass stabs, and the second verse switches again to a live-sounding drum kit with funk guitar. Each section is mixed as if it were a different record, cutting hard between them with no transitions. Male voice rapping tight and clipped in the verses, switching to a half-sung melodic chorus with layered harmonies. 128 BPM, F minor. Socially cornered, then free. No ballad section, no autotune melisma, no gradual build, no key change.",
+    "lyrics": "[Intro - distorted synth bass stab]\n\n[Verse 1 - Rap]\n一次会の終わり 誰かが「二次会どうする?」って言う\n全員が全員の顔を見る 誰も決めない\n俺は靴紐を結び直してる 結び直す必要はない\n時間を稼いでるだけ\n\n[Pre-Chorus]\n「先に帰ります」の七文字\n練習したのに 声が小さい\n\n[Chorus - genre switch to four-on-the-floor]\n二次会は行かない\n悪い人じゃない 嫌いな人もいない\nただ 明日の自分に貸しを作りたくない\n駅までの六分が 今日いちばん自由\n\n[Verse 2 - Rap, beat switch to live drums]\n部長が「お前は真面目だな」って言った 褒めてない\n三人が俺の肩を叩いて 二人が止めて\n結局 みんな手を振った 普通に やさしく\n俺が思ってたほど 俺は重要じゃなかった\n\n[Chorus]\n二次会は行かない\n悪い人じゃない 嫌いな人もいない\nただ 明日の自分に貸しを作りたくない\n駅までの六分が 今日いちばん自由だった\n\n[Outro - synth stab, cut]\nホームで ネクタイを緩める\n[Song ends abruptly]"
+  },
+  "seed": "3268633364",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.45s**\n- 53.45s per song\n- LM phase (1 song): 7.95s\n- DiT phase (1 song): 45.50s",
+  "task_id": "b15ee642-12c6-4871-abac-d5465f2db5b6",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-10-05T14:50:02.469108+08:00",
+  "audio": "b3_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.34,
+      "end": 7.34,
+      "text": "[Intro - distorted synth bass stab]"
+    },
+    {
+      "t": 7.34,
+      "end": 7.34,
+      "text": "[Verse 1 - Rap]"
+    },
+    {
+      "t": 7.34,
+      "end": 22.84,
+      "text": "一次会の終わり 誰かが「二次会どうする?」って言う"
+    },
+    {
+      "t": 22.86,
+      "end": 28.7,
+      "text": "全員が全員の顔を見る 誰も決めない"
+    },
+    {
+      "t": 28.8,
+      "end": 34.08,
+      "text": "俺は靴紐を結び直してる 結び直す必要はない"
+    },
+    {
+      "t": 34.08,
+      "end": 39.98,
+      "text": "時間を稼いでるだけ"
+    },
+    {
+      "t": 39.98,
+      "end": 39.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.98,
+      "end": 43.63,
+      "text": "「先に帰ります」の七文字"
+    },
+    {
+      "t": 45.13,
+      "end": 53.17,
+      "text": "練習したのに 声が小さい"
+    },
+    {
+      "t": 53.25,
+      "end": 53.25,
+      "text": "[Chorus - genre switch to four-on-the-floor]"
+    },
+    {
+      "t": 53.25,
+      "end": 54.97,
+      "text": "二次会は行かない"
+    },
+    {
+      "t": 55.39,
+      "end": 59.85,
+      "text": "悪い人じゃない 嫌いな人もいない"
+    },
+    {
+      "t": 60.27,
+      "end": 64.19,
+      "text": "ただ 明日の自分に貸しを作りたくない"
+    },
+    {
+      "t": 65.31,
+      "end": 71.71,
+      "text": "駅までの六分が 今日いちばん自由"
+    },
+    {
+      "t": 71.81,
+      "end": 71.81,
+      "text": "[Verse 2 - Rap, beat switch to live drums]"
+    },
+    {
+      "t": 71.81,
+      "end": 85.77,
+      "text": "部長が「お前は真面目だな」って言った 褒めてない"
+    },
+    {
+      "t": 85.97,
+      "end": 114.03,
+      "text": "三人が俺の肩を叩いて 二人が止めて"
+    },
+    {
+      "t": 114.13,
+      "end": 121.86,
+      "text": "結局 みんな手を振った 普通に やさしく"
+    },
+    {
+      "t": 122.18,
+      "end": 126.7,
+      "text": "俺が思ってたほど 俺は重要じゃなかった"
+    },
+    {
+      "t": 126.82,
+      "end": 126.82,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.82,
+      "end": 128.32,
+      "text": "二次会は行かない"
+    },
+    {
+      "t": 128.32,
+      "end": 131.76,
+      "text": "悪い人じゃない 嫌いな人もいない"
+    },
+    {
+      "t": 131.94,
+      "end": 138.5,
+      "text": "ただ 明日の自分に貸しを作りたくない"
+    },
+    {
+      "t": 138.72,
+      "end": 150.74,
+      "text": "駅までの六分が 今日いちばん自由だった"
+    },
+    {
+      "t": 151.8,
+      "end": 151.8,
+      "text": "[Outro - synth stab, cut]"
+    },
+    {
+      "t": 151.8,
+      "end": 154.52,
+      "text": "ホームで ネクタイを緩める"
+    },
+    {
+      "t": 154.52,
+      "end": 154.52,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

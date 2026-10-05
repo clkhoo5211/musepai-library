@@ -1,0 +1,174 @@
+{
+  "id": "b3_en02",
+  "title": "Thirty Years On Wednesday",
+  "title_source": "scripted",
+  "genre": "retro soul with live band",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm, quietly astonished",
+  "persona": "",
+  "subject": "the hairdresser who has kept a standing hour for your mother for thirty years",
+  "caption": "Retro soul cut live with a band. Hammond organ with the rotary speaker audible, a three-piece horn section playing tight punchy figures, bass guitar played with a dead flatwound tone sitting almost like an upright, drum kit recorded with a narrow room mic so it reads nearly mono, tambourine on the backbeat. Warm, narrow, mono-leaning mix with tape saturation and almost no vocal grid-editing. Rich female voice in a full chest register, delivered as a live take with slight pitch drift kept in, backing vocals in a loose trio. 98 BPM, E flat major. Warm and quietly astonished. No modern pop production, no autotune, no programmed drums, no synth, no key change.",
+  "lyrics": "[Intro - organ swell and horns]\n\n[Verse 1]\nThirty years on Wednesday, ten o'clock, the same chair by the window\nDonna knows my mother's head better than I know my own name\nShe knows which year was the hard one. She was there for it, with a comb.\nShe has never once asked about it. That's the whole gift.\n\n[Chorus]\nThirty years on Wednesday\nA woman who keeps a standing hour for my mother\nNo contract, no kin, no reason she has to\nThat's a kind of love nobody ever wrote a word for\n\n[Verse 2]\nMama goes in tired and comes out taller\nDoesn't matter what Donna did. Might be nothing. Might be everything.\nLast month Donna's knees went bad, so Mama brings the chair now\nThirty years in, and the appointment just turned itself around\n\n[Chorus]\nThirty years on Wednesday\nA woman who keeps a standing hour for my mother\nNo contract, no kin, no reason she has to\nThat's a kind of love nobody ever found a word for\n\n[Bridge - horns only]\nI don't go to church\nI drive my mother on Wednesdays\nClose enough for me\n\n[Outro - organ, fading]\nTen o'clock\nSame chair by the window",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 202.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Retro soul cut live with a band. Hammond organ with the rotary speaker audible, a three-piece horn section playing tight punchy figures, bass guitar played with a dead flatwound tone sitting almost like an upright, drum kit recorded with a narrow room mic so it reads nearly mono, tambourine on the backbeat. Warm, narrow, mono-leaning mix with tape saturation and almost no vocal grid-editing. Rich female voice in a full chest register, delivered as a live take with slight pitch drift kept in, backing vocals in a loose trio. 98 BPM, E flat major. Warm and quietly astonished. No modern pop production, no autotune, no programmed drums, no synth, no key change.",
+    "lyrics": "[Intro - organ swell and horns]\n\n[Verse 1]\nThirty years on Wednesday, ten o'clock, the same chair by the window\nDonna knows my mother's head better than I know my own name\nShe knows which year was the hard one. She was there for it, with a comb.\nShe has never once asked about it. That's the whole gift.\n\n[Chorus]\nThirty years on Wednesday\nA woman who keeps a standing hour for my mother\nNo contract, no kin, no reason she has to\nThat's a kind of love nobody ever wrote a word for\n\n[Verse 2]\nMama goes in tired and comes out taller\nDoesn't matter what Donna did. Might be nothing. Might be everything.\nLast month Donna's knees went bad, so Mama brings the chair now\nThirty years in, and the appointment just turned itself around\n\n[Chorus]\nThirty years on Wednesday\nA woman who keeps a standing hour for my mother\nNo contract, no kin, no reason she has to\nThat's a kind of love nobody ever found a word for\n\n[Bridge - horns only]\nI don't go to church\nI drive my mother on Wednesdays\nClose enough for me\n\n[Outro - organ, fading]\nTen o'clock\nSame chair by the window"
+  },
+  "seed": "2854923408",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 79.52s**\n- 79.52s per song\n- LM phase (1 song): 17.45s\n- DiT phase (1 song): 62.07s",
+  "task_id": "f2cbbbd4-d01f-4253-a82c-56e1b3854499",
+  "elapsed_s": 110.6,
+  "generated_at": "2026-10-05T17:06:06.131868+08:00",
+  "audio": "b3_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.74,
+      "end": 28.74,
+      "text": "[Intro - organ swell and horns]"
+    },
+    {
+      "t": 28.74,
+      "end": 28.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.74,
+      "end": 36.1,
+      "text": "Thirty years on Wednesday, ten o'clock, the same chair by the window"
+    },
+    {
+      "t": 38.68,
+      "end": 45.68,
+      "text": "Donna knows my mother's head better than I know my own name"
+    },
+    {
+      "t": 47.62,
+      "end": 55.81,
+      "text": "She knows which year was the hard one. She was there for it, with a comb."
+    },
+    {
+      "t": 60.93,
+      "end": 68.21,
+      "text": "She has never once asked about it. That's the whole gift."
+    },
+    {
+      "t": 72.13,
+      "end": 72.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.13,
+      "end": 74.83,
+      "text": "Thirty years on Wednesday"
+    },
+    {
+      "t": 76.59,
+      "end": 81.79,
+      "text": "A woman who keeps a standing hour for my mother"
+    },
+    {
+      "t": 81.79,
+      "end": 88.55,
+      "text": "No contract, no kin, no reason she has to"
+    },
+    {
+      "t": 91.53,
+      "end": 97.33,
+      "text": "That's a kind of love nobody ever wrote a word for"
+    },
+    {
+      "t": 97.35,
+      "end": 97.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.35,
+      "end": 99.55,
+      "text": "Mama goes in tired and comes out taller"
+    },
+    {
+      "t": 99.55,
+      "end": 103.55,
+      "text": "Doesn't matter what Donna did. Might be nothing. Might be everything."
+    },
+    {
+      "t": 103.55,
+      "end": 109.55,
+      "text": "Last month Donna's knees went bad, so Mama brings the chair now"
+    },
+    {
+      "t": 112.09,
+      "end": 119.79,
+      "text": "Thirty years in, and the appointment just turned itself around"
+    },
+    {
+      "t": 120.51,
+      "end": 120.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.51,
+      "end": 122.89,
+      "text": "Thirty years on Wednesday"
+    },
+    {
+      "t": 124.63,
+      "end": 127.09,
+      "text": "A woman who keeps a standing hour for my mother"
+    },
+    {
+      "t": 127.09,
+      "end": 131.35,
+      "text": "No contract, no kin, no reason she has to"
+    },
+    {
+      "t": 134.79,
+      "end": 142.21,
+      "text": "That's a kind of love nobody ever found a word for"
+    },
+    {
+      "t": 145.33,
+      "end": 145.33,
+      "text": "[Bridge - horns only]"
+    },
+    {
+      "t": 145.33,
+      "end": 147.37,
+      "text": "I don't go to church"
+    },
+    {
+      "t": 150.43,
+      "end": 154.18,
+      "text": "I drive my mother on Wednesdays"
+    },
+    {
+      "t": 158.02,
+      "end": 159.42,
+      "text": "Close enough for me"
+    },
+    {
+      "t": 178.86,
+      "end": 178.86,
+      "text": "[Outro - organ, fading]"
+    },
+    {
+      "t": 178.86,
+      "end": 179.88,
+      "text": "Ten o'clock"
+    },
+    {
+      "t": 183.7,
+      "end": 198.24,
+      "text": "Same chair by the window"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

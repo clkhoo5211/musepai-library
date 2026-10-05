@@ -1,0 +1,164 @@
+{
+  "id": "b3_ko04",
+  "title": "치과",
+  "title_source": "scripted",
+  "genre": "rap over live band",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "self-mocking, then honest",
+  "persona": "",
+  "subject": "three years of avoiding the dentist and chewing only on the left",
+  "caption": "Korean rap over live band instrumentation rather than a programmed beat. Real drum kit playing a loose pocket with the ride cymbal open, electric bass with a fat round tone sitting slightly ahead, Rhodes electric piano holding sevenths, wah-pedal electric guitar scratching on the offbeats, a short organ swell in the bridge. Live and loose with the room mics open and no sample replacement. Male rap voice, relaxed and behind the beat, self-mocking in tone, no doubling and no autotune. 96 BPM, E minor. Self-mocking, then honest. No 808, no trap hats, no sung pop chorus, no strings, no key change.",
+  "lyrics": "[Intro - live bass and ride cymbal]\n\n[Verse 1]\n삼 년을 미뤘다, 삼 년 동안 왼쪽으로만 씹었다\n그게 습관이 되니까 아픈 줄도 몰랐다, 몸은 적응을 너무 잘한다\n접수하고 앉아서, 나보다 어린 애가 안 울고 들어가는 걸 봤다\n나는 서른둘이고, 손에 땀이 났다\n\n[Hook]\n\"조금 시릴 거예요\" — 조금이 아니었다\n천장에 포스터, 웃고 있는 치아 캐릭터, 나는 눈을 피했다\n내가 삼 년 동안 안 한 건 치료가 아니고\n괜찮지 않다는 걸 인정하는 거였다\n\n[Verse 2]\n넷을 때워야 한다고 했다, 넷\n삼 년 전에 왔으면 하나였다고, 선생님이 나를 안 혼냈다\n안 혼내서 더 그랬다\n계산할 때 숫자 보고 웃었다, 웃을 데가 아닌데\n\n[Hook]\n\"조금 시릴 거예요\" — 조금이 아니었다\n천장에 포스터, 웃고 있는 치아 캐릭터, 이번엔 똑바로 봤다\n내가 삼 년 동안 안 한 건 치료가 아니고\n괜찮지 않다는 걸 인정하는 거였다\n\n[Bridge - bass only]\n다음 예약 잡았다, 삼 주 뒤\n수첩에 적었다, 올해 처음으로 미래를 적었다\n\n[Outro - band stops]\n오늘 저녁은 오른쪽으로 씹어봤다, 됐다",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 208.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Korean rap over live band instrumentation rather than a programmed beat. Real drum kit playing a loose pocket with the ride cymbal open, electric bass with a fat round tone sitting slightly ahead, Rhodes electric piano holding sevenths, wah-pedal electric guitar scratching on the offbeats, a short organ swell in the bridge. Live and loose with the room mics open and no sample replacement. Male rap voice, relaxed and behind the beat, self-mocking in tone, no doubling and no autotune. 96 BPM, E minor. Self-mocking, then honest. No 808, no trap hats, no sung pop chorus, no strings, no key change.",
+    "lyrics": "[Intro - live bass and ride cymbal]\n\n[Verse 1]\n삼 년을 미뤘다, 삼 년 동안 왼쪽으로만 씹었다\n그게 습관이 되니까 아픈 줄도 몰랐다, 몸은 적응을 너무 잘한다\n접수하고 앉아서, 나보다 어린 애가 안 울고 들어가는 걸 봤다\n나는 서른둘이고, 손에 땀이 났다\n\n[Hook]\n\"조금 시릴 거예요\" — 조금이 아니었다\n천장에 포스터, 웃고 있는 치아 캐릭터, 나는 눈을 피했다\n내가 삼 년 동안 안 한 건 치료가 아니고\n괜찮지 않다는 걸 인정하는 거였다\n\n[Verse 2]\n넷을 때워야 한다고 했다, 넷\n삼 년 전에 왔으면 하나였다고, 선생님이 나를 안 혼냈다\n안 혼내서 더 그랬다\n계산할 때 숫자 보고 웃었다, 웃을 데가 아닌데\n\n[Hook]\n\"조금 시릴 거예요\" — 조금이 아니었다\n천장에 포스터, 웃고 있는 치아 캐릭터, 이번엔 똑바로 봤다\n내가 삼 년 동안 안 한 건 치료가 아니고\n괜찮지 않다는 걸 인정하는 거였다\n\n[Bridge - bass only]\n다음 예약 잡았다, 삼 주 뒤\n수첩에 적었다, 올해 처음으로 미래를 적었다\n\n[Outro - band stops]\n오늘 저녁은 오른쪽으로 씹어봤다, 됐다"
+  },
+  "seed": "2269253530",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.22s**\n- 56.22s per song\n- LM phase (1 song): 14.05s\n- DiT phase (1 song): 42.17s",
+  "task_id": "b7c7f210-8705-403f-b207-27c92d824d22",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-05T15:10:51.397680+08:00",
+  "audio": "b3_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Intro - live bass and ride cymbal]"
+    },
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.42,
+      "end": 37.0,
+      "text": "삼 년을 미뤘다, 삼 년 동안 왼쪽으로만 씹었다"
+    },
+    {
+      "t": 37.96,
+      "end": 44.24,
+      "text": "그게 습관이 되니까 아픈 줄도 몰랐다, 몸은 적응을 너무 잘한다"
+    },
+    {
+      "t": 44.24,
+      "end": 47.06,
+      "text": "접수하고 앉아서, 나보다 어린 애가 안 울고 들어가는 걸 봤다"
+    },
+    {
+      "t": 48.08,
+      "end": 51.32,
+      "text": "나는 서른둘이고, 손에 땀이 났다"
+    },
+    {
+      "t": 53.05,
+      "end": 53.05,
+      "text": "[Hook]"
+    },
+    {
+      "t": 53.05,
+      "end": 60.97,
+      "text": "\"조금 시릴 거예요\" — 조금이 아니었다"
+    },
+    {
+      "t": 61.07,
+      "end": 103.39,
+      "text": "천장에 포스터, 웃고 있는 치아 캐릭터, 나는 눈을 피했다"
+    },
+    {
+      "t": 104.69,
+      "end": 108.39,
+      "text": "내가 삼 년 동안 안 한 건 치료가 아니고"
+    },
+    {
+      "t": 109.41,
+      "end": 112.81,
+      "text": "괜찮지 않다는 걸 인정하는 거였다"
+    },
+    {
+      "t": 126.31,
+      "end": 126.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 126.31,
+      "end": 131.59,
+      "text": "넷을 때워야 한다고 했다, 넷"
+    },
+    {
+      "t": 131.63,
+      "end": 140.09,
+      "text": "삼 년 전에 왔으면 하나였다고, 선생님이 나를 안 혼냈다"
+    },
+    {
+      "t": 140.19,
+      "end": 141.41,
+      "text": "안 혼내서 더 그랬다"
+    },
+    {
+      "t": 141.47,
+      "end": 153.41,
+      "text": "계산할 때 숫자 보고 웃었다, 웃을 데가 아닌데"
+    },
+    {
+      "t": 153.55,
+      "end": 153.55,
+      "text": "[Hook]"
+    },
+    {
+      "t": 153.55,
+      "end": 160.9,
+      "text": "\"조금 시릴 거예요\" — 조금이 아니었다"
+    },
+    {
+      "t": 162.04,
+      "end": 173.6,
+      "text": "천장에 포스터, 웃고 있는 치아 캐릭터, 이번엔 똑바로 봤다"
+    },
+    {
+      "t": 173.6,
+      "end": 177.3,
+      "text": "내가 삼 년 동안 안 한 건 치료가 아니고"
+    },
+    {
+      "t": 178.28,
+      "end": 182.32,
+      "text": "괜찮지 않다는 걸 인정하는 거였다"
+    },
+    {
+      "t": 182.66,
+      "end": 182.66,
+      "text": "[Bridge - bass only]"
+    },
+    {
+      "t": 182.66,
+      "end": 192.12,
+      "text": "다음 예약 잡았다, 삼 주 뒤"
+    },
+    {
+      "t": 192.26,
+      "end": 198.02,
+      "text": "수첩에 적었다, 올해 처음으로 미래를 적었다"
+    },
+    {
+      "t": 198.02,
+      "end": 198.02,
+      "text": "[Outro - band stops]"
+    },
+    {
+      "t": 198.02,
+      "end": 203.36,
+      "text": "오늘 저녁은 오른쪽으로 씹어봤다, 됐다"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "b3_ja05",
+  "title": "古本屋に自分の本を売る",
+  "title_source": "scripted",
+  "genre": "veteran literary guitar pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "wry, lightly melancholy",
+  "persona": "",
+  "subject": "selling seventy-two of your own books and keeping the one with pencil notes in it",
+  "caption": "Japanese literary guitar pop in the veteran band idiom. Jangly clean electric guitars with chorus pedal chiming through arpeggios, soft drum kit played lightly with the hi-hat open, round warm bass, glockenspiel doubling the melody in the last chorus, one short clean guitar solo. Clean and airy mix with plenty of top end and moderate plate reverb. Light male voice, plain and unforced, slightly nasal, no pushing. 126 BPM, G major. Wry and lightly melancholy. No distortion, no synth, no rap, no big climax, no key change.",
+  "lyrics": "[Intro - jangly clean guitar]\n\n[Verse 1]\n段ボール二箱 自転車の前に積んで 三回落とした\n七十二冊 一冊ずつ 自分で選んで買ったやつ\n店主がパラパラめくる 速い 迷わない\n値段がつかないのが 二十二冊\n\n[Pre-Chorus]\n「こちらは無料で引き取りになります」\nはい って言うしかない 言った\n\n[Chorus]\n全部で千四百円\n中身は全部まだ 俺の中にある ってことにしたい\nでも正直 ほとんど忘れてる\n忘れたやつを千四百円で売った 今日はそういう日\n\n[Verse 2]\n一冊だけ 鞄に戻した 書き込みがあるやつ\n十九の俺が 鉛筆で「ここ大事」って書いてる\nどこが大事だったのか もう分からない\n分からないから 持って帰る\n\n[Chorus]\n全部で千四百円\n中身は全部まだ 俺の中にある ってことにしたい\nでも正直 ほとんど忘れてる\n忘れたやつを千四百円で売った 悪くない日\n\n[Instrumental Break - clean guitar solo]\n\n[Outro - guitar and glockenspiel, fading]\n帰り道 自転車が軽い 軽すぎる",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese literary guitar pop in the veteran band idiom. Jangly clean electric guitars with chorus pedal chiming through arpeggios, soft drum kit played lightly with the hi-hat open, round warm bass, glockenspiel doubling the melody in the last chorus, one short clean guitar solo. Clean and airy mix with plenty of top end and moderate plate reverb. Light male voice, plain and unforced, slightly nasal, no pushing. 126 BPM, G major. Wry and lightly melancholy. No distortion, no synth, no rap, no big climax, no key change.",
+    "lyrics": "[Intro - jangly clean guitar]\n\n[Verse 1]\n段ボール二箱 自転車の前に積んで 三回落とした\n七十二冊 一冊ずつ 自分で選んで買ったやつ\n店主がパラパラめくる 速い 迷わない\n値段がつかないのが 二十二冊\n\n[Pre-Chorus]\n「こちらは無料で引き取りになります」\nはい って言うしかない 言った\n\n[Chorus]\n全部で千四百円\n中身は全部まだ 俺の中にある ってことにしたい\nでも正直 ほとんど忘れてる\n忘れたやつを千四百円で売った 今日はそういう日\n\n[Verse 2]\n一冊だけ 鞄に戻した 書き込みがあるやつ\n十九の俺が 鉛筆で「ここ大事」って書いてる\nどこが大事だったのか もう分からない\n分からないから 持って帰る\n\n[Chorus]\n全部で千四百円\n中身は全部まだ 俺の中にある ってことにしたい\nでも正直 ほとんど忘れてる\n忘れたやつを千四百円で売った 悪くない日\n\n[Instrumental Break - clean guitar solo]\n\n[Outro - guitar and glockenspiel, fading]\n帰り道 自転車が軽い 軽すぎる"
+  },
+  "seed": "3164362411",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.45s**\n- 65.45s per song\n- LM phase (1 song): 12.54s\n- DiT phase (1 song): 52.91s",
+  "task_id": "62e99990-3228-4f2c-93b3-a75955d3c958",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-05T17:15:07.016811+08:00",
+  "audio": "b3_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.02,
+      "end": 23.02,
+      "text": "[Intro - jangly clean guitar]"
+    },
+    {
+      "t": 23.02,
+      "end": 23.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.02,
+      "end": 29.72,
+      "text": "段ボール二箱 自転車の前に積んで 三回落とした"
+    },
+    {
+      "t": 30.24,
+      "end": 36.24,
+      "text": "七十二冊 一冊ずつ 自分で選んで買ったやつ"
+    },
+    {
+      "t": 38.48,
+      "end": 43.1,
+      "text": "店主がパラパラめくる 速い 迷わない"
+    },
+    {
+      "t": 46.1,
+      "end": 50.56,
+      "text": "値段がつかないのが 二十二冊"
+    },
+    {
+      "t": 53.73,
+      "end": 53.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.73,
+      "end": 58.99,
+      "text": "「こちらは無料で引き取りになります」"
+    },
+    {
+      "t": 61.07,
+      "end": 65.79,
+      "text": "はい って言うしかない 言った"
+    },
+    {
+      "t": 69.65,
+      "end": 69.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.65,
+      "end": 70.65,
+      "text": "全部で千四百円"
+    },
+    {
+      "t": 70.65,
+      "end": 78.59,
+      "text": "中身は全部まだ 俺の中にある ってことにしたい"
+    },
+    {
+      "t": 79.51,
+      "end": 82.55,
+      "text": "でも正直 ほとんど忘れてる"
+    },
+    {
+      "t": 84.81,
+      "end": 89.11,
+      "text": "忘れたやつを千四百円で売った 今日はそういう日"
+    },
+    {
+      "t": 89.11,
+      "end": 89.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.11,
+      "end": 92.35,
+      "text": "一冊だけ 鞄に戻した 書き込みがあるやつ"
+    },
+    {
+      "t": 92.77,
+      "end": 138.21,
+      "text": "十九の俺が 鉛筆で「ここ大事」って書いてる"
+    },
+    {
+      "t": 138.31,
+      "end": 141.19,
+      "text": "どこが大事だったのか もう分からない"
+    },
+    {
+      "t": 141.19,
+      "end": 159.16,
+      "text": "分からないから 持って帰る"
+    },
+    {
+      "t": 159.16,
+      "end": 159.16,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 159.16,
+      "end": 159.68,
+      "text": "全部で千四百円"
+    },
+    {
+      "t": 159.84,
+      "end": 188.22,
+      "text": "中身は全部まだ 俺の中にある ってことにしたい"
+    },
+    {
+      "t": 188.22,
+      "end": 190.14,
+      "text": "でも正直 ほとんど忘れてる"
+    },
+    {
+      "t": 190.14,
+      "end": 192.06,
+      "text": "忘れたやつを千四百円で売った 悪くない日"
+    },
+    {
+      "t": 192.06,
+      "end": 192.06,
+      "text": "[Instrumental Break - clean guitar solo]"
+    },
+    {
+      "t": 192.06,
+      "end": 192.06,
+      "text": "[Outro - guitar and glockenspiel, fading]"
+    },
+    {
+      "t": 192.06,
+      "end": 202.0,
+      "text": "帰り道 自転車が軽い 軽すぎる"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

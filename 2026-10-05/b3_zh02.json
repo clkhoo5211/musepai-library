@@ -1,0 +1,174 @@
+{
+  "id": "b3_zh02",
+  "title": "最後一班的我",
+  "title_source": "scripted",
+  "genre": "narrative rap over live band",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "steady, dignified, no complaint",
+  "persona": "",
+  "subject": "a bus driver's last night shift after nineteen years on the same route",
+  "caption": "Mandarin narrative rap backed by a live band rather than a programmed beat. Real drum kit played with a loose brushed shuffle, electric bass with a warm flatwound tone, clean electric guitar comping on the offbeats, Wurlitzer electric piano holding chords, one trumpet line in the bridge. Recorded like a band in a room with natural drum decay and no sample replacement. Mid-range male voice rapping with spoken weight, unhurried storytelling flow, no doubling, no shouting. 92 BPM, D minor. Steady and dignified, refusing to complain. No 808, no trap hi-hats, no autotune, no sung pop chorus, no orchestral strings.",
+  "lyrics": "[Intro - live drums and bass]\n\n[Verse 1]\n我開這條線十九年 站牌背得比我家地址熟\n末班有時候一個人都沒有 我還是整條開完\n有人說你空車跑什麼 我說那是班表\n其實是因為有一次 最後一站真的有人在等\n\n[Hook]\n最後一班的我\n不是在載人 是在把這條路關好\n就像總要有人去把店門拉下來\n總要有人最後走\n\n[Verse 2]\n今天這班有三個 一個睡著 一個在哭 一個在講電話\n我把冷氣調小 把廣播關掉\n哭的那個下車的時候 跟我說了謝謝\n十九年 我記得的謝謝沒有很多 但都還在\n\n[Hook]\n最後一班的我\n不是在載人 是在把這條路關好\n就像總要有人去把店門拉下來\n總要有人最後走 今天也還是我\n\n[Bridge - bass and drums only]\n下個月換我退休\n他們問我要不要搭最後一班\n我說我要開\n\n[Outro - band stops]\n終點站 熄火\n燈一排一排關掉",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 218.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Mandarin narrative rap backed by a live band rather than a programmed beat. Real drum kit played with a loose brushed shuffle, electric bass with a warm flatwound tone, clean electric guitar comping on the offbeats, Wurlitzer electric piano holding chords, one trumpet line in the bridge. Recorded like a band in a room with natural drum decay and no sample replacement. Mid-range male voice rapping with spoken weight, unhurried storytelling flow, no doubling, no shouting. 92 BPM, D minor. Steady and dignified, refusing to complain. No 808, no trap hi-hats, no autotune, no sung pop chorus, no orchestral strings.",
+    "lyrics": "[Intro - live drums and bass]\n\n[Verse 1]\n我開這條線十九年 站牌背得比我家地址熟\n末班有時候一個人都沒有 我還是整條開完\n有人說你空車跑什麼 我說那是班表\n其實是因為有一次 最後一站真的有人在等\n\n[Hook]\n最後一班的我\n不是在載人 是在把這條路關好\n就像總要有人去把店門拉下來\n總要有人最後走\n\n[Verse 2]\n今天這班有三個 一個睡著 一個在哭 一個在講電話\n我把冷氣調小 把廣播關掉\n哭的那個下車的時候 跟我說了謝謝\n十九年 我記得的謝謝沒有很多 但都還在\n\n[Hook]\n最後一班的我\n不是在載人 是在把這條路關好\n就像總要有人去把店門拉下來\n總要有人最後走 今天也還是我\n\n[Bridge - bass and drums only]\n下個月換我退休\n他們問我要不要搭最後一班\n我說我要開\n\n[Outro - band stops]\n終點站 熄火\n燈一排一排關掉"
+  },
+  "seed": "3215433536",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.73s**\n- 64.73s per song\n- LM phase (1 song): 10.87s\n- DiT phase (1 song): 53.86s",
+  "task_id": "29ab94f9-a455-4ed5-ba24-b6959b2b6845",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-05T17:09:36.456853+08:00",
+  "audio": "b3_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - live drums and bass]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 62.97,
+      "text": "我開這條線十九年 站牌背得比我家地址熟"
+    },
+    {
+      "t": 62.97,
+      "end": 66.09,
+      "text": "末班有時候一個人都沒有 我還是整條開完"
+    },
+    {
+      "t": 72.43,
+      "end": 75.23,
+      "text": "有人說你空車跑什麼 我說那是班表"
+    },
+    {
+      "t": 75.31,
+      "end": 85.43,
+      "text": "其實是因為有一次 最後一站真的有人在等"
+    },
+    {
+      "t": 85.43,
+      "end": 85.43,
+      "text": "[Hook]"
+    },
+    {
+      "t": 85.43,
+      "end": 86.85,
+      "text": "最後一班的我"
+    },
+    {
+      "t": 86.85,
+      "end": 91.61,
+      "text": "不是在載人 是在把這條路關好"
+    },
+    {
+      "t": 94.27,
+      "end": 97.03,
+      "text": "就像總要有人去把店門拉下來"
+    },
+    {
+      "t": 97.51,
+      "end": 98.59,
+      "text": "總要有人最後走"
+    },
+    {
+      "t": 98.67,
+      "end": 98.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.67,
+      "end": 99.97,
+      "text": "今天這班有三個 一個睡著 一個在哭 一個在講電話"
+    },
+    {
+      "t": 99.97,
+      "end": 100.71,
+      "text": "我把冷氣調小 把廣播關掉"
+    },
+    {
+      "t": 100.79,
+      "end": 102.27,
+      "text": "哭的那個下車的時候 跟我說了謝謝"
+    },
+    {
+      "t": 102.27,
+      "end": 123.19,
+      "text": "十九年 我記得的謝謝沒有很多 但都還在"
+    },
+    {
+      "t": 123.19,
+      "end": 123.19,
+      "text": "[Hook]"
+    },
+    {
+      "t": 123.19,
+      "end": 123.95,
+      "text": "最後一班的我"
+    },
+    {
+      "t": 123.95,
+      "end": 126.39,
+      "text": "不是在載人 是在把這條路關好"
+    },
+    {
+      "t": 126.51,
+      "end": 129.39,
+      "text": "就像總要有人去把店門拉下來"
+    },
+    {
+      "t": 129.79,
+      "end": 133.53,
+      "text": "總要有人最後走 今天也還是我"
+    },
+    {
+      "t": 141.85,
+      "end": 141.85,
+      "text": "[Bridge - bass and drums only]"
+    },
+    {
+      "t": 141.85,
+      "end": 143.65,
+      "text": "下個月換我退休"
+    },
+    {
+      "t": 144.49,
+      "end": 147.27,
+      "text": "他們問我要不要搭最後一班"
+    },
+    {
+      "t": 147.45,
+      "end": 160.05,
+      "text": "我說我要開"
+    },
+    {
+      "t": 160.05,
+      "end": 160.05,
+      "text": "[Outro - band stops]"
+    },
+    {
+      "t": 160.05,
+      "end": 167.0,
+      "text": "終點站 熄火"
+    },
+    {
+      "t": 200.38,
+      "end": 202.8,
+      "text": "燈一排一排關掉"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

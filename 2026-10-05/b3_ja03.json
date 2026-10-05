@@ -1,0 +1,164 @@
+{
+  "id": "b3_ja03",
+  "title": "弟の運動会",
+  "title_source": "scripted",
+  "genre": "live-band stadium pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "proud, standing in for someone",
+  "persona": "",
+  "subject": "being the youngest person in the parents' seats at a twelve-years-younger brother's sports day",
+  "caption": "Japanese live-band stadium pop. Bright piano playing driving eighth-note chords, a full live drum kit recorded in a big natural room with the cymbals open, electric guitar doubling the piano line with light overdrive, a real string pad rising under the final chorus, handclaps in the last eight bars. Big roomy mix with real drums forward and generous natural reverb. Male tenor, clear and open, pushing into the top of his range on the chorus without straining. 134 BPM, C major. Proud, standing in for someone who isn't there. No programmed drums, no autotune, no rap verse, no drop, no key change.",
+  "lyrics": "[Intro - piano and live drums]\n\n[Verse 1]\n十二歳差の弟 保護者席に座ってるのは俺\n周りはみんな親で 俺が一番若い「保護者」\n母さんは仕事 父さんのことは知らない\n弟はそれを一回も聞いてこない それがいちばん効く\n\n[Pre-Chorus]\n徒競走 四人中四位\n走り方が俺と同じで 笑った\n\n[Chorus - full band]\nビデオ撮ってる手が震えてる\n転んでも 最後まで走った それでいい それで十分だ\n弟がこっちを見た 一回だけ 見た\n俺はちゃんと そこにいた\n\n[Verse 2]\n弁当は買ったやつ 詰め替えた 詰め替えたのが分かるやつ\n弟は何も言わずに 卵のとこから食べた\n「兄ちゃん 来年も来る?」\n俺は「行く」って言った 来年の予定も分からんのに\n\n[Chorus - full band and strings]\nビデオ撮ってる手が震えてる\n転んでも 最後まで走った それでいい それで十分だ\n弟がこっちを見た 二回 見た\n俺はちゃんと そこにいた\n\n[Outro - piano, fading]\n運動会のプログラム 畳んで 財布に入れた",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 134,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Japanese live-band stadium pop. Bright piano playing driving eighth-note chords, a full live drum kit recorded in a big natural room with the cymbals open, electric guitar doubling the piano line with light overdrive, a real string pad rising under the final chorus, handclaps in the last eight bars. Big roomy mix with real drums forward and generous natural reverb. Male tenor, clear and open, pushing into the top of his range on the chorus without straining. 134 BPM, C major. Proud, standing in for someone who isn't there. No programmed drums, no autotune, no rap verse, no drop, no key change.",
+    "lyrics": "[Intro - piano and live drums]\n\n[Verse 1]\n十二歳差の弟 保護者席に座ってるのは俺\n周りはみんな親で 俺が一番若い「保護者」\n母さんは仕事 父さんのことは知らない\n弟はそれを一回も聞いてこない それがいちばん効く\n\n[Pre-Chorus]\n徒競走 四人中四位\n走り方が俺と同じで 笑った\n\n[Chorus - full band]\nビデオ撮ってる手が震えてる\n転んでも 最後まで走った それでいい それで十分だ\n弟がこっちを見た 一回だけ 見た\n俺はちゃんと そこにいた\n\n[Verse 2]\n弁当は買ったやつ 詰め替えた 詰め替えたのが分かるやつ\n弟は何も言わずに 卵のとこから食べた\n「兄ちゃん 来年も来る?」\n俺は「行く」って言った 来年の予定も分からんのに\n\n[Chorus - full band and strings]\nビデオ撮ってる手が震えてる\n転んでも 最後まで走った それでいい それで十分だ\n弟がこっちを見た 二回 見た\n俺はちゃんと そこにいた\n\n[Outro - piano, fading]\n運動会のプログラム 畳んで 財布に入れた"
+  },
+  "seed": "1551617360",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.28s**\n- 64.28s per song\n- LM phase (1 song): 14.20s\n- DiT phase (1 song): 50.08s",
+  "task_id": "d7ee880d-b149-46c4-b951-66630bf55497",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-05T17:13:46.880728+08:00",
+  "audio": "b3_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.96,
+      "end": 27.96,
+      "text": "[Intro - piano and live drums]"
+    },
+    {
+      "t": 27.96,
+      "end": 27.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.96,
+      "end": 32.16,
+      "text": "十二歳差の弟 保護者席に座ってるのは俺"
+    },
+    {
+      "t": 32.16,
+      "end": 33.8,
+      "text": "周りはみんな親で 俺が一番若い「保護者」"
+    },
+    {
+      "t": 33.82,
+      "end": 36.68,
+      "text": "母さんは仕事 父さんのことは知らない"
+    },
+    {
+      "t": 36.68,
+      "end": 40.32,
+      "text": "弟はそれを一回も聞いてこない それがいちばん効く"
+    },
+    {
+      "t": 40.32,
+      "end": 40.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.32,
+      "end": 41.36,
+      "text": "徒競走 四人中四位"
+    },
+    {
+      "t": 41.36,
+      "end": 43.92,
+      "text": "走り方が俺と同じで 笑った"
+    },
+    {
+      "t": 43.94,
+      "end": 43.94,
+      "text": "[Chorus - full band]"
+    },
+    {
+      "t": 43.94,
+      "end": 46.2,
+      "text": "ビデオ撮ってる手が震えてる"
+    },
+    {
+      "t": 46.48,
+      "end": 52.64,
+      "text": "転んでも 最後まで走った それでいい それで十分だ"
+    },
+    {
+      "t": 52.78,
+      "end": 61.17,
+      "text": "弟がこっちを見た 一回だけ 見た"
+    },
+    {
+      "t": 61.39,
+      "end": 66.31,
+      "text": "俺はちゃんと そこにいた"
+    },
+    {
+      "t": 66.65,
+      "end": 66.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.65,
+      "end": 94.33,
+      "text": "弁当は買ったやつ 詰め替えた 詰め替えたのが分かるやつ"
+    },
+    {
+      "t": 94.39,
+      "end": 96.57,
+      "text": "弟は何も言わずに 卵のとこから食べた"
+    },
+    {
+      "t": 96.57,
+      "end": 98.73,
+      "text": "「兄ちゃん 来年も来る?」"
+    },
+    {
+      "t": 98.79,
+      "end": 106.43,
+      "text": "俺は「行く」って言った 来年の予定も分からんのに"
+    },
+    {
+      "t": 108.77,
+      "end": 108.77,
+      "text": "[Chorus - full band and strings]"
+    },
+    {
+      "t": 108.77,
+      "end": 112.73,
+      "text": "ビデオ撮ってる手が震えてる"
+    },
+    {
+      "t": 116.15,
+      "end": 131.11,
+      "text": "転んでも 最後まで走った それでいい それで十分だ"
+    },
+    {
+      "t": 135.59,
+      "end": 161.4,
+      "text": "弟がこっちを見た 二回 見た"
+    },
+    {
+      "t": 161.42,
+      "end": 167.46,
+      "text": "俺はちゃんと そこにいた"
+    },
+    {
+      "t": 170.2,
+      "end": 170.2,
+      "text": "[Outro - piano, fading]"
+    },
+    {
+      "t": 170.2,
+      "end": 174.72,
+      "text": "運動会のプログラム 畳んで 財布に入れた"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

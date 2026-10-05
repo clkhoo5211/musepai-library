@@ -1,0 +1,164 @@
+{
+  "id": "b3_vi01",
+  "title": "hát sai bài quan họ",
+  "title_source": "scripted",
+  "genre": "quan ho folk fusion electronic",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "embarrassed turning tender",
+  "persona": "",
+  "subject": "being made to sing the old duet at a cousin's wedding and forgetting the middle",
+  "caption": "Vietnamese folk fusion with electronic production. Opens on dan nguyet moon lute plucked close and a bamboo flute played with audible breath, then a four-on-the-floor kick and deep sub bass enter underneath while the lute keeps its original figure, wooden hand percussion through the chorus. The intro is dry and acoustic, the chorus opens wide with a long low end, the folk instruments stay unprocessed throughout. Male lead voice, conversational and slightly embarrassed, answered by a female voice singing in a traditional ornamented northern folk style. 124 BPM, E minor. Embarrassed turning tender. No trap hats, no autotune, no supersaw lead, no EDM riser into a drop.",
+  "lyrics": "[Intro - dan nguyet and breath]\n\n[Verse 1]\nCô dâu là em họ tôi, hồi bé nó sợ gà\nGiờ nó đứng đó, áo the, tay nắm chặt tay người ta\nBà bắt tôi hát bài hồi xưa hai đứa hát\nTôi quên mất đoạn giữa. Thật sự quên.\n\n[Pre-Chorus]\nMic kêu một tiếng, cả sân im\nTôi hát. Sai nhịp. Không ai sửa.\n\n[Chorus - beat enters]\nHát sai thì hát sai\nBà vẫn vỗ tay, vỗ to nhất bàn\nNgười đúng nhịp thì nhiều rồi\nHôm nay chỉ cần có người chịu hát\n\n[Verse 2]\nNó khóc, không phải vì bài hát\nNó khóc vì tôi hát xong rồi ngồi xuống đúng cái ghế hồi xưa\nHai đứa từng giành nhau cái ghế đó\nHôm nay nó nhường. Tôi không muốn được nhường.\n\n[Chorus]\nHát sai thì hát sai\nBà vẫn vỗ tay, vỗ lâu nhất bàn\nNgười đúng nhịp thì nhiều rồi\nHôm nay chỉ cần có người chịu hát\n\n[Outro - dan nguyet alone]\nĐoạn giữa, về tới nhà tôi mới nhớ ra",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese folk fusion with electronic production. Opens on dan nguyet moon lute plucked close and a bamboo flute played with audible breath, then a four-on-the-floor kick and deep sub bass enter underneath while the lute keeps its original figure, wooden hand percussion through the chorus. The intro is dry and acoustic, the chorus opens wide with a long low end, the folk instruments stay unprocessed throughout. Male lead voice, conversational and slightly embarrassed, answered by a female voice singing in a traditional ornamented northern folk style. 124 BPM, E minor. Embarrassed turning tender. No trap hats, no autotune, no supersaw lead, no EDM riser into a drop.",
+    "lyrics": "[Intro - dan nguyet and breath]\n\n[Verse 1]\nCô dâu là em họ tôi, hồi bé nó sợ gà\nGiờ nó đứng đó, áo the, tay nắm chặt tay người ta\nBà bắt tôi hát bài hồi xưa hai đứa hát\nTôi quên mất đoạn giữa. Thật sự quên.\n\n[Pre-Chorus]\nMic kêu một tiếng, cả sân im\nTôi hát. Sai nhịp. Không ai sửa.\n\n[Chorus - beat enters]\nHát sai thì hát sai\nBà vẫn vỗ tay, vỗ to nhất bàn\nNgười đúng nhịp thì nhiều rồi\nHôm nay chỉ cần có người chịu hát\n\n[Verse 2]\nNó khóc, không phải vì bài hát\nNó khóc vì tôi hát xong rồi ngồi xuống đúng cái ghế hồi xưa\nHai đứa từng giành nhau cái ghế đó\nHôm nay nó nhường. Tôi không muốn được nhường.\n\n[Chorus]\nHát sai thì hát sai\nBà vẫn vỗ tay, vỗ lâu nhất bàn\nNgười đúng nhịp thì nhiều rồi\nHôm nay chỉ cần có người chịu hát\n\n[Outro - dan nguyet alone]\nĐoạn giữa, về tới nhà tôi mới nhớ ra"
+  },
+  "seed": "4248162820",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.03s**\n- 69.03s per song\n- LM phase (1 song): 22.36s\n- DiT phase (1 song): 46.67s",
+  "task_id": "1d75b789-2853-415c-835c-afc840c2154c",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-05T15:28:48.148746+08:00",
+  "audio": "b3_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.38,
+      "end": 21.38,
+      "text": "[Intro - dan nguyet and breath]"
+    },
+    {
+      "t": 21.38,
+      "end": 21.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.38,
+      "end": 44.56,
+      "text": "Cô dâu là em họ tôi, hồi bé nó sợ gà"
+    },
+    {
+      "t": 44.6,
+      "end": 46.88,
+      "text": "Giờ nó đứng đó, áo the, tay nắm chặt tay người ta"
+    },
+    {
+      "t": 47.02,
+      "end": 69.73,
+      "text": "Bà bắt tôi hát bài hồi xưa hai đứa hát"
+    },
+    {
+      "t": 71.03,
+      "end": 72.93,
+      "text": "Tôi quên mất đoạn giữa. Thật sự quên."
+    },
+    {
+      "t": 73.13,
+      "end": 73.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 73.13,
+      "end": 78.67,
+      "text": "Mic kêu một tiếng, cả sân im"
+    },
+    {
+      "t": 79.89,
+      "end": 83.77,
+      "text": "Tôi hát. Sai nhịp. Không ai sửa."
+    },
+    {
+      "t": 84.75,
+      "end": 84.75,
+      "text": "[Chorus - beat enters]"
+    },
+    {
+      "t": 84.75,
+      "end": 87.03,
+      "text": "Hát sai thì hát sai"
+    },
+    {
+      "t": 87.69,
+      "end": 91.17,
+      "text": "Bà vẫn vỗ tay, vỗ to nhất bàn"
+    },
+    {
+      "t": 92.23,
+      "end": 94.77,
+      "text": "Người đúng nhịp thì nhiều rồi"
+    },
+    {
+      "t": 95.17,
+      "end": 108.49,
+      "text": "Hôm nay chỉ cần có người chịu hát"
+    },
+    {
+      "t": 115.51,
+      "end": 115.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 115.51,
+      "end": 135.61,
+      "text": "Nó khóc, không phải vì bài hát"
+    },
+    {
+      "t": 135.83,
+      "end": 139.15,
+      "text": "Nó khóc vì tôi hát xong rồi ngồi xuống đúng cái ghế hồi xưa"
+    },
+    {
+      "t": 139.45,
+      "end": 142.45,
+      "text": "Hai đứa từng giành nhau cái ghế đó"
+    },
+    {
+      "t": 142.55,
+      "end": 145.59,
+      "text": "Hôm nay nó nhường. Tôi không muốn được nhường."
+    },
+    {
+      "t": 145.59,
+      "end": 145.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.59,
+      "end": 146.13,
+      "text": "Hát sai thì hát sai"
+    },
+    {
+      "t": 146.13,
+      "end": 157.92,
+      "text": "Bà vẫn vỗ tay, vỗ lâu nhất bàn"
+    },
+    {
+      "t": 158.0,
+      "end": 170.24,
+      "text": "Người đúng nhịp thì nhiều rồi"
+    },
+    {
+      "t": 172.82,
+      "end": 182.06,
+      "text": "Hôm nay chỉ cần có người chịu hát"
+    },
+    {
+      "t": 182.12,
+      "end": 182.12,
+      "text": "[Outro - dan nguyet alone]"
+    },
+    {
+      "t": 182.12,
+      "end": 186.36,
+      "text": "Đoạn giữa, về tới nhà tôi mới nhớ ra"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

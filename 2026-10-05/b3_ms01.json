@@ -1,0 +1,179 @@
+{
+  "id": "b3_ms01",
+  "title": "Kali Ketiga Di JPJ",
+  "title_source": "scripted",
+  "genre": "Sarawakian sape folk pop",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "nervous, self-deprecating, tender toward a father",
+  "persona": "",
+  "subject": "third attempt at the driving test",
+  "caption": "Sarawakian folk pop built on sape. Plucked sape lute carrying the main figure with its natural woody buzz left in, nylon-string guitar strummed lightly behind it, soft hand percussion on a shallow frame drum, upright bass played with fingers not pick, one sustained bowed cello note under the chorus. Recorded dry and close with almost no reverb, sape panned slightly left of the voice. Warm close male tenor, conversational and slightly nervous, breath left in, no vibrato. 88 BPM, D major. Anxious but affectionate. No pop production, no synth, no drum machine, no gamelan, no key change.",
+  "lyrics": "[Intro - sape alone]\n\n[Verse 1]\nPukul lapan pagi, baju kemeja yang sama\nNombor dua belas, aku dah hafal dinding ni\nPakcik penguji tak pandang muka aku\nDia pandang tangan aku kat stereng\n\n[Pre-Chorus]\nBukit tiga penjuru dah kutawan dalam mimpi\nTapi kaki aku sendiri yang menipu aku\n\n[Chorus]\nKali ketiga, bah\nAku bukan takut gagal\nAku takut balik rumah dan ayah tanya \"macam mana?\"\ndengan suara yang terlalu lembut\n\n[Verse 2]\nKereta sekolah memandu, bau pewangi murah\nCermin belakang longgar sikit, aku pegang dengan jari\nKawan aku dah lulus, dia hantar gambar lesen\nAku bagi satu emoji. Cukup.\n\n[Chorus]\nKali ketiga, bah\nAku bukan takut gagal\nAku takut balik rumah dan ayah tanya \"macam mana?\"\ndengan suara yang terlalu sabar\n\n[Bridge - sape and voice only]\nKalau lulus pun, aku nak pandu ke mana?\nJalan ni aku dah hafal sampai tak perlu lesen\n\n[Outro - sape, stopping]\nNombor dua belas. Masuk.",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 182.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Sarawakian folk pop built on sape. Plucked sape lute carrying the main figure with its natural woody buzz left in, nylon-string guitar strummed lightly behind it, soft hand percussion on a shallow frame drum, upright bass played with fingers not pick, one sustained bowed cello note under the chorus. Recorded dry and close with almost no reverb, sape panned slightly left of the voice. Warm close male tenor, conversational and slightly nervous, breath left in, no vibrato. 88 BPM, D major. Anxious but affectionate. No pop production, no synth, no drum machine, no gamelan, no key change.",
+    "lyrics": "[Intro - sape alone]\n\n[Verse 1]\nPukul lapan pagi, baju kemeja yang sama\nNombor dua belas, aku dah hafal dinding ni\nPakcik penguji tak pandang muka aku\nDia pandang tangan aku kat stereng\n\n[Pre-Chorus]\nBukit tiga penjuru dah kutawan dalam mimpi\nTapi kaki aku sendiri yang menipu aku\n\n[Chorus]\nKali ketiga, bah\nAku bukan takut gagal\nAku takut balik rumah dan ayah tanya \"macam mana?\"\ndengan suara yang terlalu lembut\n\n[Verse 2]\nKereta sekolah memandu, bau pewangi murah\nCermin belakang longgar sikit, aku pegang dengan jari\nKawan aku dah lulus, dia hantar gambar lesen\nAku bagi satu emoji. Cukup.\n\n[Chorus]\nKali ketiga, bah\nAku bukan takut gagal\nAku takut balik rumah dan ayah tanya \"macam mana?\"\ndengan suara yang terlalu sabar\n\n[Bridge - sape and voice only]\nKalau lulus pun, aku nak pandu ke mana?\nJalan ni aku dah hafal sampai tak perlu lesen\n\n[Outro - sape, stopping]\nNombor dua belas. Masuk."
+  },
+  "seed": "3602632567",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.94s**\n- 50.94s per song\n- LM phase (1 song): 4.04s\n- DiT phase (1 song): 46.90s",
+  "task_id": "bc97b749-818d-4125-9403-0be4555316bf",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-05T15:13:31.605378+08:00",
+  "audio": "b3_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.26,
+      "end": 34.26,
+      "text": "[Intro - sape alone]"
+    },
+    {
+      "t": 34.26,
+      "end": 34.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.26,
+      "end": 38.04,
+      "text": "Pukul lapan pagi, baju kemeja yang sama"
+    },
+    {
+      "t": 39.76,
+      "end": 43.86,
+      "text": "Nombor dua belas, aku dah hafal dinding ni"
+    },
+    {
+      "t": 45.63,
+      "end": 49.01,
+      "text": "Pakcik penguji tak pandang muka aku"
+    },
+    {
+      "t": 51.49,
+      "end": 54.93,
+      "text": "Dia pandang tangan aku kat stereng"
+    },
+    {
+      "t": 57.33,
+      "end": 57.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.33,
+      "end": 62.13,
+      "text": "Bukit tiga penjuru dah kutawan dalam mimpi"
+    },
+    {
+      "t": 62.51,
+      "end": 65.99,
+      "text": "Tapi kaki aku sendiri yang menipu aku"
+    },
+    {
+      "t": 65.99,
+      "end": 65.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.99,
+      "end": 66.57,
+      "text": "Kali ketiga, bah"
+    },
+    {
+      "t": 66.63,
+      "end": 69.07,
+      "text": "Aku bukan takut gagal"
+    },
+    {
+      "t": 69.07,
+      "end": 74.57,
+      "text": "Aku takut balik rumah dan ayah tanya \"macam mana?\""
+    },
+    {
+      "t": 74.59,
+      "end": 76.31,
+      "text": "dengan suara yang terlalu lembut"
+    },
+    {
+      "t": 76.31,
+      "end": 76.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.31,
+      "end": 79.19,
+      "text": "Kereta sekolah memandu, bau pewangi murah"
+    },
+    {
+      "t": 79.25,
+      "end": 80.35,
+      "text": "Cermin belakang longgar sikit, aku pegang dengan jari"
+    },
+    {
+      "t": 80.35,
+      "end": 81.85,
+      "text": "Kawan aku dah lulus, dia hantar gambar lesen"
+    },
+    {
+      "t": 81.85,
+      "end": 82.87,
+      "text": "Aku bagi satu emoji. Cukup."
+    },
+    {
+      "t": 82.87,
+      "end": 82.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.87,
+      "end": 83.73,
+      "text": "Kali ketiga, bah"
+    },
+    {
+      "t": 83.77,
+      "end": 84.37,
+      "text": "Aku bukan takut gagal"
+    },
+    {
+      "t": 84.39,
+      "end": 88.15,
+      "text": "Aku takut balik rumah dan ayah tanya \"macam mana?\""
+    },
+    {
+      "t": 89.41,
+      "end": 123.67,
+      "text": "dengan suara yang terlalu sabar"
+    },
+    {
+      "t": 132.79,
+      "end": 132.79,
+      "text": "[Bridge - sape and voice only]"
+    },
+    {
+      "t": 132.79,
+      "end": 137.88,
+      "text": "Kalau lulus pun, aku nak pandu ke mana?"
+    },
+    {
+      "t": 137.98,
+      "end": 161.02,
+      "text": "Jalan ni aku dah hafal sampai tak perlu lesen"
+    },
+    {
+      "t": 167.94,
+      "end": 167.94,
+      "text": "[Outro - sape, stopping]"
+    },
+    {
+      "t": 167.94,
+      "end": 171.42,
+      "text": "Nombor dua belas. Masuk."
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

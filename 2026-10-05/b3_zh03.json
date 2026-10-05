@@ -1,0 +1,169 @@
+{
+  "id": "b3_zh03",
+  "title": "魚缸",
+  "title_source": "scripted",
+  "genre": "cinematic electronic with guzheng",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "guilt arriving slowly",
+  "persona": "",
+  "subject": "giving away four years of fish on moving day because the tank is not insured",
+  "caption": "Mandarin cinematic electronic with a traditional instrument used as the lead voice. Guzheng plucked dry and close with its natural attack and string buzz, a huge low analog synth pad underneath, slow sub-bass pulse instead of drums, processed breath samples as rhythm, one filtered string swell in the final chorus. Wide and cold, the guzheng kept completely dry against an enormous reverberant pad. Female alto, close-mic'd and restrained, almost speaking in the verses. 86 BPM, E minor. Guilt arriving slowly. No drum kit, no four-on-the-floor, no EDM drop, no guzheng pentatonic cliche runs, no key change.",
+  "lyrics": "[Intro - guzheng and low synth]\n\n[Verse 1]\n搬家公司說魚缸不保 要我自己抱\n八十公分 我一個人 從六樓\n我站在客廳算了十分鐘\n算的不是重量 是我憑什麼\n\n[Chorus]\n牠們活了四年 我換了三次水管\n我餵的 我撈的 我半夜起來看的\n今天我要決定把牠們怎麼辦\n這不是搬家 這是我第一次當那種人\n\n[Verse 2]\n樓下賣水族的阿伯收了\n他說「放我這 你要看隨時來」\n我知道我不會來 他也知道\n我還是點頭 我們都讓這句話留在那裡\n\n[Chorus]\n牠們活了四年 我換了三次水管\n我餵的 我撈的 我半夜起來看的\n今天我已經決定把牠們怎麼辦\n這不是搬家 這是我第一次當了那種人\n\n[Bridge - breath and sub only]\n空的魚缸 最後是我拿來裝書搬下去的\n裝得滿滿的 比有水的時候重\n\n[Outro - guzheng alone]\n新家的窗邊 空了一塊\n我沒有擺東西上去",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 224.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Mandarin cinematic electronic with a traditional instrument used as the lead voice. Guzheng plucked dry and close with its natural attack and string buzz, a huge low analog synth pad underneath, slow sub-bass pulse instead of drums, processed breath samples as rhythm, one filtered string swell in the final chorus. Wide and cold, the guzheng kept completely dry against an enormous reverberant pad. Female alto, close-mic'd and restrained, almost speaking in the verses. 86 BPM, E minor. Guilt arriving slowly. No drum kit, no four-on-the-floor, no EDM drop, no guzheng pentatonic cliche runs, no key change.",
+    "lyrics": "[Intro - guzheng and low synth]\n\n[Verse 1]\n搬家公司說魚缸不保 要我自己抱\n八十公分 我一個人 從六樓\n我站在客廳算了十分鐘\n算的不是重量 是我憑什麼\n\n[Chorus]\n牠們活了四年 我換了三次水管\n我餵的 我撈的 我半夜起來看的\n今天我要決定把牠們怎麼辦\n這不是搬家 這是我第一次當那種人\n\n[Verse 2]\n樓下賣水族的阿伯收了\n他說「放我這 你要看隨時來」\n我知道我不會來 他也知道\n我還是點頭 我們都讓這句話留在那裡\n\n[Chorus]\n牠們活了四年 我換了三次水管\n我餵的 我撈的 我半夜起來看的\n今天我已經決定把牠們怎麼辦\n這不是搬家 這是我第一次當了那種人\n\n[Bridge - breath and sub only]\n空的魚缸 最後是我拿來裝書搬下去的\n裝得滿滿的 比有水的時候重\n\n[Outro - guzheng alone]\n新家的窗邊 空了一塊\n我沒有擺東西上去"
+  },
+  "seed": "3383955604",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 127.28s**\n- 127.28s per song\n- LM phase (1 song): 21.06s\n- DiT phase (1 song): 106.23s",
+  "task_id": "70e78583-0e3f-45c5-a862-5bd24a02500c",
+  "elapsed_s": 155.8,
+  "generated_at": "2026-10-05T14:32:32.929424+08:00",
+  "audio": "b3_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 49.18,
+      "end": 49.18,
+      "text": "[Intro - guzheng and low synth]"
+    },
+    {
+      "t": 49.18,
+      "end": 49.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 49.18,
+      "end": 56.89,
+      "text": "搬家公司說魚缸不保 要我自己抱"
+    },
+    {
+      "t": 57.01,
+      "end": 61.35,
+      "text": "八十公分 我一個人 從六樓"
+    },
+    {
+      "t": 61.77,
+      "end": 65.75,
+      "text": "我站在客廳算了十分鐘"
+    },
+    {
+      "t": 65.85,
+      "end": 80.35,
+      "text": "算的不是重量 是我憑什麼"
+    },
+    {
+      "t": 80.35,
+      "end": 80.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 80.35,
+      "end": 81.85,
+      "text": "牠們活了四年 我換了三次水管"
+    },
+    {
+      "t": 82.11,
+      "end": 85.33,
+      "text": "我餵的 我撈的 我半夜起來看的"
+    },
+    {
+      "t": 88.43,
+      "end": 107.73,
+      "text": "今天我要決定把牠們怎麼辦"
+    },
+    {
+      "t": 108.01,
+      "end": 116.85,
+      "text": "這不是搬家 這是我第一次當那種人"
+    },
+    {
+      "t": 117.23,
+      "end": 117.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 117.23,
+      "end": 128.61,
+      "text": "樓下賣水族的阿伯收了"
+    },
+    {
+      "t": 129.01,
+      "end": 156.73,
+      "text": "他說「放我這 你要看隨時來」"
+    },
+    {
+      "t": 156.73,
+      "end": 158.83,
+      "text": "我知道我不會來 他也知道"
+    },
+    {
+      "t": 158.85,
+      "end": 160.37,
+      "text": "我還是點頭 我們都讓這句話留在那裡"
+    },
+    {
+      "t": 160.37,
+      "end": 160.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 160.37,
+      "end": 162.45,
+      "text": "牠們活了四年 我換了三次水管"
+    },
+    {
+      "t": 162.71,
+      "end": 168.64,
+      "text": "我餵的 我撈的 我半夜起來看的"
+    },
+    {
+      "t": 169.08,
+      "end": 173.2,
+      "text": "今天我已經決定把牠們怎麼辦"
+    },
+    {
+      "t": 173.34,
+      "end": 177.2,
+      "text": "這不是搬家 這是我第一次當了那種人"
+    },
+    {
+      "t": 181.44,
+      "end": 181.44,
+      "text": "[Bridge - breath and sub only]"
+    },
+    {
+      "t": 181.44,
+      "end": 194.26,
+      "text": "空的魚缸 最後是我拿來裝書搬下去的"
+    },
+    {
+      "t": 195.56,
+      "end": 200.42,
+      "text": "裝得滿滿的 比有水的時候重"
+    },
+    {
+      "t": 200.5,
+      "end": 200.5,
+      "text": "[Outro - guzheng alone]"
+    },
+    {
+      "t": 200.5,
+      "end": 206.1,
+      "text": "新家的窗邊 空了一塊"
+    },
+    {
+      "t": 206.22,
+      "end": 209.44,
+      "text": "我沒有擺東西上去"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

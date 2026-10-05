@@ -1,0 +1,159 @@
+{
+  "id": "b3_en05",
+  "title": "Sleep Study",
+  "title_source": "scripted",
+  "genre": "psychedelic synth pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "detached, curious, slightly unnerved",
+  "persona": "",
+  "subject": "a night wired up in a sleep clinic, meeting the part of yourself you have never met",
+  "caption": "Psychedelic synth pop. Layered analog synthesizers run through a phaser so the whole bed sweeps slowly, drums printed to tape with audible flutter and pitch drift, fuzz bass holding single long notes, a wobbling detuned organ underneath, backwards cymbal swells between sections. Swimming and phase-shifted throughout, deliberately unstable, wide stereo. Male voice drenched in plate reverb and doubled an octave up, delivered flat and detached, never rising in volume or urgency. 104 BPM, F sharp minor. Detached, curious, slightly unnerved. No acoustic guitar, no live-sounding kit, no rap, no big chorus lift, no clean modern mix.",
+  "lyrics": "[Intro - phasing synth and tape flutter]\n\n[Verse 1]\nTwenty-two wires and a chin strap, in a room shaped like a hotel that gave up\nThe guy behind the glass says \"just sleep normally\"\nNobody has ever slept normally while a stranger wrote it down\nSo I lay there performing sleep, an actor with no lines\n\n[Chorus]\nSleep study, room four\nThey're going to find out what I do when I'm not deciding anything\nI have been awake for every thought I have ever had\nTonight somebody else is holding the pen\n\n[Verse 2]\nI must have gone under, because there's a gap\nFour hours I don't own, and a printout that says what happened inside them\nDoctor shows me a graph with a red band straight across the middle\nThat's me. That's the part of me I've never met.\n\n[Chorus]\nSleep study, room four\nThey found out what I do when I'm not deciding anything\nI have been awake for every thought I have ever had\nTonight somebody else was holding the pen\n\n[Instrumental Break - phasing synths and backwards cymbals]\n\n[Outro - tape stop]\nTook the wires off myself\nHair stayed up all day",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 226.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Psychedelic synth pop. Layered analog synthesizers run through a phaser so the whole bed sweeps slowly, drums printed to tape with audible flutter and pitch drift, fuzz bass holding single long notes, a wobbling detuned organ underneath, backwards cymbal swells between sections. Swimming and phase-shifted throughout, deliberately unstable, wide stereo. Male voice drenched in plate reverb and doubled an octave up, delivered flat and detached, never rising in volume or urgency. 104 BPM, F sharp minor. Detached, curious, slightly unnerved. No acoustic guitar, no live-sounding kit, no rap, no big chorus lift, no clean modern mix.",
+    "lyrics": "[Intro - phasing synth and tape flutter]\n\n[Verse 1]\nTwenty-two wires and a chin strap, in a room shaped like a hotel that gave up\nThe guy behind the glass says \"just sleep normally\"\nNobody has ever slept normally while a stranger wrote it down\nSo I lay there performing sleep, an actor with no lines\n\n[Chorus]\nSleep study, room four\nThey're going to find out what I do when I'm not deciding anything\nI have been awake for every thought I have ever had\nTonight somebody else is holding the pen\n\n[Verse 2]\nI must have gone under, because there's a gap\nFour hours I don't own, and a printout that says what happened inside them\nDoctor shows me a graph with a red band straight across the middle\nThat's me. That's the part of me I've never met.\n\n[Chorus]\nSleep study, room four\nThey found out what I do when I'm not deciding anything\nI have been awake for every thought I have ever had\nTonight somebody else was holding the pen\n\n[Instrumental Break - phasing synths and backwards cymbals]\n\n[Outro - tape stop]\nTook the wires off myself\nHair stayed up all day"
+  },
+  "seed": "703491613",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.07s**\n- 70.07s per song\n- LM phase (1 song): 17.29s\n- DiT phase (1 song): 52.78s",
+  "task_id": "e5cbdb75-1089-4a6b-b5c4-2389dcb28ea7",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-05T14:26:26.789103+08:00",
+  "audio": "b3_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 3.7,
+      "end": 3.7,
+      "text": "[Intro - phasing synth and tape flutter]"
+    },
+    {
+      "t": 3.7,
+      "end": 3.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.7,
+      "end": 8.26,
+      "text": "Twenty-two wires and a chin strap, in a room shaped like a hotel that gave up"
+    },
+    {
+      "t": 8.26,
+      "end": 32.42,
+      "text": "The guy behind the glass says \"just sleep normally\""
+    },
+    {
+      "t": 36.24,
+      "end": 41.94,
+      "text": "Nobody has ever slept normally while a stranger wrote it down"
+    },
+    {
+      "t": 45.64,
+      "end": 51.54,
+      "text": "So I lay there performing sleep, an actor with no lines"
+    },
+    {
+      "t": 51.56,
+      "end": 51.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.56,
+      "end": 55.86,
+      "text": "Sleep study, room four"
+    },
+    {
+      "t": 56.83,
+      "end": 63.39,
+      "text": "They're going to find out what I do when I'm not deciding anything"
+    },
+    {
+      "t": 63.63,
+      "end": 69.17,
+      "text": "I have been awake for every thought I have ever had"
+    },
+    {
+      "t": 69.67,
+      "end": 74.89,
+      "text": "Tonight somebody else is holding the pen"
+    },
+    {
+      "t": 90.75,
+      "end": 90.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.75,
+      "end": 94.59,
+      "text": "I must have gone under, because there's a gap"
+    },
+    {
+      "t": 99.67,
+      "end": 106.15,
+      "text": "Four hours I don't own, and a printout that says what happened inside them"
+    },
+    {
+      "t": 109.11,
+      "end": 124.25,
+      "text": "Doctor shows me a graph with a red band straight across the middle"
+    },
+    {
+      "t": 126.97,
+      "end": 133.01,
+      "text": "That's me. That's the part of me I've never met."
+    },
+    {
+      "t": 133.01,
+      "end": 133.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.01,
+      "end": 155.41,
+      "text": "Sleep study, room four"
+    },
+    {
+      "t": 156.23,
+      "end": 162.83,
+      "text": "They found out what I do when I'm not deciding anything"
+    },
+    {
+      "t": 163.27,
+      "end": 167.43,
+      "text": "I have been awake for every thought I have ever had"
+    },
+    {
+      "t": 167.93,
+      "end": 171.98,
+      "text": "Tonight somebody else was holding the pen"
+    },
+    {
+      "t": 211.34,
+      "end": 211.34,
+      "text": "[Instrumental Break - phasing synths and backwards cymbals]"
+    },
+    {
+      "t": 211.34,
+      "end": 211.34,
+      "text": "[Outro - tape stop]"
+    },
+    {
+      "t": 211.34,
+      "end": 213.98,
+      "text": "Took the wires off myself"
+    },
+    {
+      "t": 214.5,
+      "end": 217.08,
+      "text": "Hair stayed up all day"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

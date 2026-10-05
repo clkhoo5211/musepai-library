@@ -1,0 +1,164 @@
+{
+  "id": "b3_id02",
+  "title": "mama belum hafal sandinya",
+  "title_source": "scripted",
+  "genre": "acoustic singer-songwriter pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "patient, affectionate, a little ashamed",
+  "persona": "",
+  "subject": "teaching your mother to use the mobile banking app",
+  "caption": "Indonesian acoustic singer-songwriter pop. Steel-string acoustic guitar fingerpicked with the string squeak and fret noise deliberately kept, upright bass very soft underneath, a light shaker instead of drums, one sustained harmonium note entering in the last chorus. Recorded extremely dry and close, almost no reverb, voice right at the microphone. Soft male tenor, breathy and conversational, almost spoken on the verse endings. 78 BPM, C major. Patient and affectionate. No drum kit, no synth, no strings section, no belted chorus, no key change.",
+  "lyrics": "[Intro - fingerpicked acoustic guitar]\n\n[Verse 1]\nEnam angka, Ma, bukan enam huruf\nJangan pakai tanggal lahirku, nanti gampang ketahuan\nMama ketawa, Mama bilang \"siapa yang mau tahu?\"\nAku tidak jawab. Aku ulang dari awal.\n\n[Pre-Chorus]\nTiga kali salah, aplikasinya marah\nMama langsung letakkan hp seperti barang yang mau pecah\n\n[Chorus]\nMama, pelan-pelan saja\nYang lambat di sini bukan Mama\nYang lambat itu aku, dulu\nwaktu Mama ajari aku mengikat sepatu\n\n[Verse 2]\nSekarang Mama bisa kirim. Mama kirim ke aku.\nSeratus ribu, keterangannya: \"buat makan\"\nAku tidak butuh. Aku terima.\nAku balas \"sudah masuk, Ma\". Mama screenshot.\n\n[Chorus]\nMama, pelan-pelan saja\nYang lambat di sini bukan Mama\nYang lambat itu aku, dulu\nwaktu Mama ajari aku mengikat sepatu dua kali\n\n[Outro - guitar, fading]\nEnam angka. Mama hafal sekarang.",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 188.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Indonesian acoustic singer-songwriter pop. Steel-string acoustic guitar fingerpicked with the string squeak and fret noise deliberately kept, upright bass very soft underneath, a light shaker instead of drums, one sustained harmonium note entering in the last chorus. Recorded extremely dry and close, almost no reverb, voice right at the microphone. Soft male tenor, breathy and conversational, almost spoken on the verse endings. 78 BPM, C major. Patient and affectionate. No drum kit, no synth, no strings section, no belted chorus, no key change.",
+    "lyrics": "[Intro - fingerpicked acoustic guitar]\n\n[Verse 1]\nEnam angka, Ma, bukan enam huruf\nJangan pakai tanggal lahirku, nanti gampang ketahuan\nMama ketawa, Mama bilang \"siapa yang mau tahu?\"\nAku tidak jawab. Aku ulang dari awal.\n\n[Pre-Chorus]\nTiga kali salah, aplikasinya marah\nMama langsung letakkan hp seperti barang yang mau pecah\n\n[Chorus]\nMama, pelan-pelan saja\nYang lambat di sini bukan Mama\nYang lambat itu aku, dulu\nwaktu Mama ajari aku mengikat sepatu\n\n[Verse 2]\nSekarang Mama bisa kirim. Mama kirim ke aku.\nSeratus ribu, keterangannya: \"buat makan\"\nAku tidak butuh. Aku terima.\nAku balas \"sudah masuk, Ma\". Mama screenshot.\n\n[Chorus]\nMama, pelan-pelan saja\nYang lambat di sini bukan Mama\nYang lambat itu aku, dulu\nwaktu Mama ajari aku mengikat sepatu dua kali\n\n[Outro - guitar, fading]\nEnam angka. Mama hafal sekarang."
+  },
+  "seed": "657014704",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.06s**\n- 65.06s per song\n- LM phase (1 song): 11.69s\n- DiT phase (1 song): 53.37s",
+  "task_id": "39b0e108-d9c0-4c97-af4c-daccd6397f95",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-05T15:21:57.173340+08:00",
+  "audio": "b3_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 3.04,
+      "end": 3.04,
+      "text": "[Intro - fingerpicked acoustic guitar]"
+    },
+    {
+      "t": 3.04,
+      "end": 3.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.04,
+      "end": 19.48,
+      "text": "Enam angka, Ma, bukan enam huruf"
+    },
+    {
+      "t": 24.6,
+      "end": 39.28,
+      "text": "Jangan pakai tanggal lahirku, nanti gampang ketahuan"
+    },
+    {
+      "t": 39.28,
+      "end": 42.38,
+      "text": "Mama ketawa, Mama bilang \"siapa yang mau tahu?\""
+    },
+    {
+      "t": 42.42,
+      "end": 44.2,
+      "text": "Aku tidak jawab. Aku ulang dari awal."
+    },
+    {
+      "t": 49.23,
+      "end": 49.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.23,
+      "end": 54.37,
+      "text": "Tiga kali salah, aplikasinya marah"
+    },
+    {
+      "t": 55.01,
+      "end": 60.03,
+      "text": "Mama langsung letakkan hp seperti barang yang mau pecah"
+    },
+    {
+      "t": 62.27,
+      "end": 62.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.27,
+      "end": 65.21,
+      "text": "Mama, pelan-pelan saja"
+    },
+    {
+      "t": 65.21,
+      "end": 68.05,
+      "text": "Yang lambat di sini bukan Mama"
+    },
+    {
+      "t": 68.05,
+      "end": 74.57,
+      "text": "Yang lambat itu aku, dulu"
+    },
+    {
+      "t": 74.57,
+      "end": 84.33,
+      "text": "waktu Mama ajari aku mengikat sepatu"
+    },
+    {
+      "t": 88.73,
+      "end": 88.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.73,
+      "end": 94.15,
+      "text": "Sekarang Mama bisa kirim. Mama kirim ke aku."
+    },
+    {
+      "t": 98.79,
+      "end": 103.09,
+      "text": "Seratus ribu, keterangannya: \"buat makan\""
+    },
+    {
+      "t": 105.43,
+      "end": 109.17,
+      "text": "Aku tidak butuh. Aku terima."
+    },
+    {
+      "t": 111.57,
+      "end": 120.03,
+      "text": "Aku balas \"sudah masuk, Ma\". Mama screenshot."
+    },
+    {
+      "t": 120.37,
+      "end": 120.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.37,
+      "end": 121.53,
+      "text": "Mama, pelan-pelan saja"
+    },
+    {
+      "t": 121.53,
+      "end": 131.41,
+      "text": "Yang lambat di sini bukan Mama"
+    },
+    {
+      "t": 131.71,
+      "end": 136.09,
+      "text": "Yang lambat itu aku, dulu"
+    },
+    {
+      "t": 136.09,
+      "end": 143.02,
+      "text": "waktu Mama ajari aku mengikat sepatu dua kali"
+    },
+    {
+      "t": 162.36,
+      "end": 162.36,
+      "text": "[Outro - guitar, fading]"
+    },
+    {
+      "t": 162.36,
+      "end": 167.78,
+      "text": "Enam angka. Mama hafal sekarang."
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

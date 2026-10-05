@@ -1,0 +1,169 @@
+{
+  "id": "b3_zh04",
+  "title": "妳的第一天",
+  "title_source": "scripted",
+  "genre": "adult contemporary piano ballad",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "restraint as an act of love",
+  "persona": "",
+  "subject": "a mother pretending to be asleep on her daughter's first day of work",
+  "caption": "Mandarin adult contemporary ballad. Grand piano recorded close with the pedal and hammers audible as the core, a real string quartet entering only from the first chorus and kept wide, fretless bass sliding between notes, brushed drums very soft and late, no cymbal crashes. Classic ballad staging with the piano intimate and forward and the strings wide and distant. Mature female voice, understated and conversational, no runs and no belting, the final line almost whispered. 66 BPM, B flat major. Restraint held as an act of love. No programmed drums, no synth, no modulation, no big climax, no choir.",
+  "lyrics": "[Intro - grand piano]\n\n[Verse 1]\n妳五點半就起來 我聽到的\n妳燙那件襯衫燙了三次 第三次是因為手在抖\n我在廚房裝睡 我沒有出去\n因為妳如果看到我 妳就會問我「這樣可以嗎」\n\n[Pre-Chorus]\n我二十二歲的第一天 是我媽送我到巷口\n她也沒有進去 她也就站在那邊\n\n[Chorus - strings enter]\n妳的第一天\n我不會打電話 我不會傳訊息\n我會把手機放在桌上 螢幕朝上\n等妳想起來 要跟誰說\n\n[Verse 2]\n中午妳傳了一張照片 公司樓下的便當\n我看了四十秒才回 回了一句「好吃嗎」\n妳說「普通」 後面加了一個笑臉\n那個笑臉 我看了很久\n\n[Chorus]\n妳的第一天\n我沒有打電話 我沒有傳訊息\n我把手機放在桌上 螢幕朝上\n等到妳想起來 要跟誰說\n\n[Outro - piano and strings, fading]\n那件襯衫 晚上妳自己掛好了\n我沒有去幫妳",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 232.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "2",
+    "prompt": "Mandarin adult contemporary ballad. Grand piano recorded close with the pedal and hammers audible as the core, a real string quartet entering only from the first chorus and kept wide, fretless bass sliding between notes, brushed drums very soft and late, no cymbal crashes. Classic ballad staging with the piano intimate and forward and the strings wide and distant. Mature female voice, understated and conversational, no runs and no belting, the final line almost whispered. 66 BPM, B flat major. Restraint held as an act of love. No programmed drums, no synth, no modulation, no big climax, no choir.",
+    "lyrics": "[Intro - grand piano]\n\n[Verse 1]\n妳五點半就起來 我聽到的\n妳燙那件襯衫燙了三次 第三次是因為手在抖\n我在廚房裝睡 我沒有出去\n因為妳如果看到我 妳就會問我「這樣可以嗎」\n\n[Pre-Chorus]\n我二十二歲的第一天 是我媽送我到巷口\n她也沒有進去 她也就站在那邊\n\n[Chorus - strings enter]\n妳的第一天\n我不會打電話 我不會傳訊息\n我會把手機放在桌上 螢幕朝上\n等妳想起來 要跟誰說\n\n[Verse 2]\n中午妳傳了一張照片 公司樓下的便當\n我看了四十秒才回 回了一句「好吃嗎」\n妳說「普通」 後面加了一個笑臉\n那個笑臉 我看了很久\n\n[Chorus]\n妳的第一天\n我沒有打電話 我沒有傳訊息\n我把手機放在桌上 螢幕朝上\n等到妳想起來 要跟誰說\n\n[Outro - piano and strings, fading]\n那件襯衫 晚上妳自己掛好了\n我沒有去幫妳"
+  },
+  "seed": "1463913794",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.67s**\n- 63.67s per song\n- LM phase (1 song): 16.41s\n- DiT phase (1 song): 47.26s",
+  "task_id": "71f485a2-0737-407d-a0ed-9ae231f7d951",
+  "elapsed_s": 90.5,
+  "generated_at": "2026-10-05T14:34:03.420819+08:00",
+  "audio": "b3_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.5,
+      "end": 38.5,
+      "text": "[Intro - grand piano]"
+    },
+    {
+      "t": 38.5,
+      "end": 38.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.5,
+      "end": 42.52,
+      "text": "妳五點半就起來 我聽到的"
+    },
+    {
+      "t": 46.2,
+      "end": 54.78,
+      "text": "妳燙那件襯衫燙了三次 第三次是因為手在抖"
+    },
+    {
+      "t": 55.06,
+      "end": 57.42,
+      "text": "我在廚房裝睡 我沒有出去"
+    },
+    {
+      "t": 57.42,
+      "end": 63.63,
+      "text": "因為妳如果看到我 妳就會問我「這樣可以嗎」"
+    },
+    {
+      "t": 67.13,
+      "end": 67.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 67.13,
+      "end": 73.37,
+      "text": "我二十二歲的第一天 是我媽送我到巷口"
+    },
+    {
+      "t": 74.13,
+      "end": 78.55,
+      "text": "她也沒有進去 她也就站在那邊"
+    },
+    {
+      "t": 80.55,
+      "end": 80.55,
+      "text": "[Chorus - strings enter]"
+    },
+    {
+      "t": 80.55,
+      "end": 81.33,
+      "text": "妳的第一天"
+    },
+    {
+      "t": 81.55,
+      "end": 85.55,
+      "text": "我不會打電話 我不會傳訊息"
+    },
+    {
+      "t": 89.29,
+      "end": 93.97,
+      "text": "我會把手機放在桌上 螢幕朝上"
+    },
+    {
+      "t": 95.41,
+      "end": 99.25,
+      "text": "等妳想起來 要跟誰說"
+    },
+    {
+      "t": 103.95,
+      "end": 103.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.95,
+      "end": 108.39,
+      "text": "中午妳傳了一張照片 公司樓下的便當"
+    },
+    {
+      "t": 111.27,
+      "end": 113.89,
+      "text": "我看了四十秒才回 回了一句「好吃嗎」"
+    },
+    {
+      "t": 113.99,
+      "end": 117.17,
+      "text": "妳說「普通」 後面加了一個笑臉"
+    },
+    {
+      "t": 118.79,
+      "end": 122.77,
+      "text": "那個笑臉 我看了很久"
+    },
+    {
+      "t": 124.95,
+      "end": 124.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.95,
+      "end": 126.89,
+      "text": "妳的第一天"
+    },
+    {
+      "t": 128.87,
+      "end": 134.71,
+      "text": "我沒有打電話 我沒有傳訊息"
+    },
+    {
+      "t": 135.03,
+      "end": 145.75,
+      "text": "我把手機放在桌上 螢幕朝上"
+    },
+    {
+      "t": 147.57,
+      "end": 206.4,
+      "text": "等到妳想起來 要跟誰說"
+    },
+    {
+      "t": 206.4,
+      "end": 206.4,
+      "text": "[Outro - piano and strings, fading]"
+    },
+    {
+      "t": 206.4,
+      "end": 212.62,
+      "text": "那件襯衫 晚上妳自己掛好了"
+    },
+    {
+      "t": 212.68,
+      "end": 220.22,
+      "text": "我沒有去幫妳"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

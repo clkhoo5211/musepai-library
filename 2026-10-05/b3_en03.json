@@ -1,0 +1,184 @@
+{
+  "id": "b3_en03",
+  "title": "Vows On A Napkin",
+  "title_source": "scripted",
+  "genre": "hybrid-acoustic folk pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "nervous, honoured, slightly funny",
+  "persona": "",
+  "subject": "being asked to officiate a friend's wedding and having an empty document called VOWS",
+  "caption": "Hybrid-acoustic folk pop: an organic topline instrument sitting over a programmed low end. A solo fiddle riff in a Celtic modal shape as the main hook, played dry and raw, against a programmed sub kick and tight electronic percussion, muted electric guitar on the offbeats, layered handclaps, a brief fiddle-and-voice-only bridge. The acoustic elements are close and unprocessed while the low end is clean and modern. Male voice with clipped staccato phrasing over the beat, conversational, lightly doubled on hook lines. 116 BPM, D major. Nervous and honoured and a little funny. No drop, no supersaw synth, no autotune, no belted climax, no key change.",
+  "lyrics": "[Intro - solo fiddle riff]\n\n[Verse 1]\nYou called me first, before your sister, before your mother\nSaid \"you talk fine, and you've known the both of us the longest\"\nI said yes before I thought about standing up in front of people\nNow there's a folder on my laptop called VOWS and it is empty\n\n[Pre-Chorus]\nI typed \"love is\" and deleted it\nI typed your two names and left them there\n\n[Chorus]\nI've got vows on a napkin from the diner out on Route 9\nTwo hundred people and a man who's never done this\nI'll get the ring part right, I'll get your names right\nThe rest is me telling the truth about you two, out loud\n\n[Verse 2]\nI know about the bad year. I know who slept on my couch and which month.\nI'm not putting that in. But I'll be the only one standing up there who knows.\nThat's why you asked me. I worked that out in the parking lot.\nTook me three weeks to work out a compliment.\n\n[Chorus]\nI've got vows on a napkin from the diner out on Route 9\nTwo hundred people and a man who's never done this\nI'll get the ring part right, I'll get your names right\nThe rest is me telling the truth about you two, out loud, once\n\n[Bridge - fiddle and voice only]\nI am going to cry in the first thirty seconds\nI've decided to let that happen\n\n[Outro - fiddle and kick]\nNapkin's in my jacket, second pocket\nChecked it four times",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Hybrid-acoustic folk pop: an organic topline instrument sitting over a programmed low end. A solo fiddle riff in a Celtic modal shape as the main hook, played dry and raw, against a programmed sub kick and tight electronic percussion, muted electric guitar on the offbeats, layered handclaps, a brief fiddle-and-voice-only bridge. The acoustic elements are close and unprocessed while the low end is clean and modern. Male voice with clipped staccato phrasing over the beat, conversational, lightly doubled on hook lines. 116 BPM, D major. Nervous and honoured and a little funny. No drop, no supersaw synth, no autotune, no belted climax, no key change.",
+    "lyrics": "[Intro - solo fiddle riff]\n\n[Verse 1]\nYou called me first, before your sister, before your mother\nSaid \"you talk fine, and you've known the both of us the longest\"\nI said yes before I thought about standing up in front of people\nNow there's a folder on my laptop called VOWS and it is empty\n\n[Pre-Chorus]\nI typed \"love is\" and deleted it\nI typed your two names and left them there\n\n[Chorus]\nI've got vows on a napkin from the diner out on Route 9\nTwo hundred people and a man who's never done this\nI'll get the ring part right, I'll get your names right\nThe rest is me telling the truth about you two, out loud\n\n[Verse 2]\nI know about the bad year. I know who slept on my couch and which month.\nI'm not putting that in. But I'll be the only one standing up there who knows.\nThat's why you asked me. I worked that out in the parking lot.\nTook me three weeks to work out a compliment.\n\n[Chorus]\nI've got vows on a napkin from the diner out on Route 9\nTwo hundred people and a man who's never done this\nI'll get the ring part right, I'll get your names right\nThe rest is me telling the truth about you two, out loud, once\n\n[Bridge - fiddle and voice only]\nI am going to cry in the first thirty seconds\nI've decided to let that happen\n\n[Outro - fiddle and kick]\nNapkin's in my jacket, second pocket\nChecked it four times"
+  },
+  "seed": "1058567325",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.11s**\n- 66.11s per song\n- LM phase (1 song): 15.99s\n- DiT phase (1 song): 50.12s",
+  "task_id": "d7579273-ea5f-4953-8da0-aa41e26abf7d",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-05T14:23:26.307218+08:00",
+  "audio": "b3_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.44,
+      "end": 25.44,
+      "text": "[Intro - solo fiddle riff]"
+    },
+    {
+      "t": 25.44,
+      "end": 25.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.44,
+      "end": 32.3,
+      "text": "You called me first, before your sister, before your mother"
+    },
+    {
+      "t": 33.64,
+      "end": 42.64,
+      "text": "Said \"you talk fine, and you've known the both of us the longest\""
+    },
+    {
+      "t": 42.64,
+      "end": 47.14,
+      "text": "I said yes before I thought about standing up in front of people"
+    },
+    {
+      "t": 50.34,
+      "end": 57.45,
+      "text": "Now there's a folder on my laptop called VOWS and it is empty"
+    },
+    {
+      "t": 57.77,
+      "end": 57.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.77,
+      "end": 62.15,
+      "text": "I typed \"love is\" and deleted it"
+    },
+    {
+      "t": 62.21,
+      "end": 66.49,
+      "text": "I typed your two names and left them there"
+    },
+    {
+      "t": 66.49,
+      "end": 66.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.49,
+      "end": 74.87,
+      "text": "I've got vows on a napkin from the diner out on Route 9"
+    },
+    {
+      "t": 75.03,
+      "end": 78.67,
+      "text": "Two hundred people and a man who's never done this"
+    },
+    {
+      "t": 78.85,
+      "end": 82.77,
+      "text": "I'll get the ring part right, I'll get your names right"
+    },
+    {
+      "t": 82.91,
+      "end": 87.97,
+      "text": "The rest is me telling the truth about you two, out loud"
+    },
+    {
+      "t": 88.29,
+      "end": 88.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.29,
+      "end": 94.69,
+      "text": "I know about the bad year. I know who slept on my couch and which month."
+    },
+    {
+      "t": 94.69,
+      "end": 105.27,
+      "text": "I'm not putting that in. But I'll be the only one standing up there who knows."
+    },
+    {
+      "t": 105.27,
+      "end": 112.15,
+      "text": "That's why you asked me. I worked that out in the parking lot."
+    },
+    {
+      "t": 112.17,
+      "end": 127.01,
+      "text": "Took me three weeks to work out a compliment."
+    },
+    {
+      "t": 127.01,
+      "end": 127.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.01,
+      "end": 132.67,
+      "text": "I've got vows on a napkin from the diner out on Route 9"
+    },
+    {
+      "t": 143.79,
+      "end": 148.15,
+      "text": "Two hundred people and a man who's never done this"
+    },
+    {
+      "t": 148.33,
+      "end": 156.27,
+      "text": "I'll get the ring part right, I'll get your names right"
+    },
+    {
+      "t": 156.29,
+      "end": 160.22,
+      "text": "The rest is me telling the truth about you two, out loud, once"
+    },
+    {
+      "t": 160.22,
+      "end": 160.22,
+      "text": "[Bridge - fiddle and voice only]"
+    },
+    {
+      "t": 160.22,
+      "end": 161.16,
+      "text": "I am going to cry in the first thirty seconds"
+    },
+    {
+      "t": 161.16,
+      "end": 197.8,
+      "text": "I've decided to let that happen"
+    },
+    {
+      "t": 197.82,
+      "end": 197.82,
+      "text": "[Outro - fiddle and kick]"
+    },
+    {
+      "t": 197.82,
+      "end": 205.46,
+      "text": "Napkin's in my jacket, second pocket"
+    },
+    {
+      "t": 205.46,
+      "end": 206.82,
+      "text": "Checked it four times"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

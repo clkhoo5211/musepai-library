@@ -1,0 +1,169 @@
+{
+  "id": "b3_id03",
+  "title": "Lakban Jam Satu",
+  "title_source": "scripted",
+  "genre": "Indonesian indie rock",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "wired, stubborn, oddly proud",
+  "persona": "",
+  "subject": "packing eighty-three parcels alone at one in the morning",
+  "caption": "Indonesian indie rock. Two jangly electric guitars with light overdrive playing against each other, one chiming high and one chugging, drums played hard and fast with an open roomy snare, bass played with a pick riding eighth notes. Mixed mid-forward and slightly lo-fi, drums roomy, guitars crunchy rather than polished. Flat male voice pushed until it goes slightly hoarse, half-shouted, no vibrato. 158 BPM, A minor. Wired and stubborn. No pop sheen, no synth, no autotune, no breakdown, no gang vocals.",
+  "lyrics": "[Intro - jangly guitars and drums]\n\n[Verse 1]\nDelapan puluh tiga pesanan, aku hitung dua kali\nBunyi lakban itu sekarang ada di kepalaku walau sudah selesai\nKardus bekas dari warung depan, masih bau mi instan\nPembeli minta bubble wrap. Aku kasih dua lapis. Dia tidak akan tahu.\n\n[Pre-Chorus]\nResi, nama, alamat, ulangi\nJangan salah, karena yang salah itu aku yang bayar\n\n[Chorus]\nJam satu, lantai dingin, kakiku di atas kardus\nAku bukan sedang mengejar sesuatu yang besar\nAku cuma mau besok pagi tidak ada yang komplain\nItu sudah cukup jadi alasan untuk bangun\n\n[Verse 2]\nAda satu alamat yang sama dengan rumah mantan\nAku tulis rapi. Aku tulis paling rapi hari ini.\nLalu aku taruh di tumpukan, sama seperti yang lain\nTidak ada yang istimewa. Aku sendiri yang bikin istimewa.\n\n[Chorus]\nJam satu, lantai dingin, kakiku di atas kardus\nAku bukan sedang mengejar sesuatu yang besar\nAku cuma mau besok pagi tidak ada yang komplain\nItu masih cukup jadi alasan untuk bangun\n\n[Outro - guitars cut]\nLakban habis. Besok beli lagi.\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 158,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Indonesian indie rock. Two jangly electric guitars with light overdrive playing against each other, one chiming high and one chugging, drums played hard and fast with an open roomy snare, bass played with a pick riding eighth notes. Mixed mid-forward and slightly lo-fi, drums roomy, guitars crunchy rather than polished. Flat male voice pushed until it goes slightly hoarse, half-shouted, no vibrato. 158 BPM, A minor. Wired and stubborn. No pop sheen, no synth, no autotune, no breakdown, no gang vocals.",
+    "lyrics": "[Intro - jangly guitars and drums]\n\n[Verse 1]\nDelapan puluh tiga pesanan, aku hitung dua kali\nBunyi lakban itu sekarang ada di kepalaku walau sudah selesai\nKardus bekas dari warung depan, masih bau mi instan\nPembeli minta bubble wrap. Aku kasih dua lapis. Dia tidak akan tahu.\n\n[Pre-Chorus]\nResi, nama, alamat, ulangi\nJangan salah, karena yang salah itu aku yang bayar\n\n[Chorus]\nJam satu, lantai dingin, kakiku di atas kardus\nAku bukan sedang mengejar sesuatu yang besar\nAku cuma mau besok pagi tidak ada yang komplain\nItu sudah cukup jadi alasan untuk bangun\n\n[Verse 2]\nAda satu alamat yang sama dengan rumah mantan\nAku tulis rapi. Aku tulis paling rapi hari ini.\nLalu aku taruh di tumpukan, sama seperti yang lain\nTidak ada yang istimewa. Aku sendiri yang bikin istimewa.\n\n[Chorus]\nJam satu, lantai dingin, kakiku di atas kardus\nAku bukan sedang mengejar sesuatu yang besar\nAku cuma mau besok pagi tidak ada yang komplain\nItu masih cukup jadi alasan untuk bangun\n\n[Outro - guitars cut]\nLakban habis. Besok beli lagi.\n[Song ends abruptly]"
+  },
+  "seed": "199158683",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.24s**\n- 63.24s per song\n- LM phase (1 song): 9.81s\n- DiT phase (1 song): 53.43s",
+  "task_id": "f7466f50-019b-44e5-8021-4928421867d7",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-05T15:23:27.355037+08:00",
+  "audio": "b3_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Intro - jangly guitars and drums]"
+    },
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.38,
+      "end": 40.94,
+      "text": "Delapan puluh tiga pesanan, aku hitung dua kali"
+    },
+    {
+      "t": 41.36,
+      "end": 47.25,
+      "text": "Bunyi lakban itu sekarang ada di kepalaku walau sudah selesai"
+    },
+    {
+      "t": 47.37,
+      "end": 53.03,
+      "text": "Kardus bekas dari warung depan, masih bau mi instan"
+    },
+    {
+      "t": 53.19,
+      "end": 58.97,
+      "text": "Pembeli minta bubble wrap. Aku kasih dua lapis. Dia tidak akan tahu."
+    },
+    {
+      "t": 59.39,
+      "end": 59.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.39,
+      "end": 64.37,
+      "text": "Resi, nama, alamat, ulangi"
+    },
+    {
+      "t": 65.33,
+      "end": 71.39,
+      "text": "Jangan salah, karena yang salah itu aku yang bayar"
+    },
+    {
+      "t": 71.41,
+      "end": 71.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.41,
+      "end": 73.35,
+      "text": "Jam satu, lantai dingin, kakiku di atas kardus"
+    },
+    {
+      "t": 73.35,
+      "end": 76.57,
+      "text": "Aku bukan sedang mengejar sesuatu yang besar"
+    },
+    {
+      "t": 77.07,
+      "end": 82.85,
+      "text": "Aku cuma mau besok pagi tidak ada yang komplain"
+    },
+    {
+      "t": 83.45,
+      "end": 89.29,
+      "text": "Itu sudah cukup jadi alasan untuk bangun"
+    },
+    {
+      "t": 91.65,
+      "end": 91.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.65,
+      "end": 95.55,
+      "text": "Ada satu alamat yang sama dengan rumah mantan"
+    },
+    {
+      "t": 97.63,
+      "end": 101.29,
+      "text": "Aku tulis rapi. Aku tulis paling rapi hari ini."
+    },
+    {
+      "t": 101.45,
+      "end": 103.77,
+      "text": "Lalu aku taruh di tumpukan, sama seperti yang lain"
+    },
+    {
+      "t": 103.77,
+      "end": 110.57,
+      "text": "Tidak ada yang istimewa. Aku sendiri yang bikin istimewa."
+    },
+    {
+      "t": 116.15,
+      "end": 116.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.15,
+      "end": 119.87,
+      "text": "Jam satu, lantai dingin, kakiku di atas kardus"
+    },
+    {
+      "t": 119.87,
+      "end": 124.79,
+      "text": "Aku bukan sedang mengejar sesuatu yang besar"
+    },
+    {
+      "t": 124.83,
+      "end": 130.99,
+      "text": "Aku cuma mau besok pagi tidak ada yang komplain"
+    },
+    {
+      "t": 131.23,
+      "end": 137.4,
+      "text": "Itu masih cukup jadi alasan untuk bangun"
+    },
+    {
+      "t": 139.38,
+      "end": 139.38,
+      "text": "[Outro - guitars cut]"
+    },
+    {
+      "t": 139.38,
+      "end": 169.0,
+      "text": "Lakban habis. Besok beli lagi."
+    },
+    {
+      "t": 169.0,
+      "end": 169.0,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}
