@@ -1,0 +1,169 @@
+{
+  "id": "b4_en03",
+  "title": "Mall Walkers",
+  "title_source": "scripted",
+  "genre": "downtempo synth R&B",
+  "language": "en",
+  "language_name": "English",
+  "mood": "unexpectedly held",
+  "persona": "",
+  "subject": "walking laps of a shopping mall at seven in the morning with retirees",
+  "caption": "Downtempo synth R&B. Deep sustained sub bass, a wide shimmering pad from a vintage-style polysynth with two slightly detuned sawtooth oscillators through a key-tracked low-pass filter, finger snaps and soft rimshots instead of a kit, muted electric piano chords, one filtered vocal sample looping. Wide and hazy with a heavy low end under a bright airy top, long reverb on the pads and a dry close lead. Breathy male voice with wide stacked harmony on the chorus, relaxed and behind the beat. 74 BPM, D flat major. Unexpectedly held by strangers. No trap hi-hat rolls, no rap verse, no live drum kit, no key change.",
+  "lyrics": "[Intro - sub bass and shimmer pad]\n\n[Verse 1]\nSeven in the morning, doors open before the stores do\nTerrazzo floor, one lap is a quarter mile, there's a sign that says so\nNine of them in windbreakers, same loop, same order every day\nAnd me, thirty-one, in last night's shirt\n\n[Chorus]\nMall walkers\nThey have been doing this since before I could drive\nGloria has had two knees replaced and she laps me\nNobody here asks what I do for a living\n\n[Verse 2]\nFrank brings the coffee. Bad coffee. Everybody takes it.\nThey have opinions about the fountain. Strong ones.\nI came because my gym closed and I didn't want to go home\nI stayed because somebody said \"you're back\" on the fourth day\n\n[Chorus]\nMall walkers\nThey have been doing this since before I could drive\nGloria has had two knees replaced and she still laps me\nNobody here has ever once asked what I do for a living\n\n[Bridge - pad only]\nThe stores open at ten and we scatter\nLike we weren't anything\n\n[Outro - sub bass, fading]\nQuarter mile. Sign says so.\nTomorrow, seven.",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 74,
+    "duration": 216.0,
+    "genres": "N/A",
+    "keyscale": "Db major",
+    "timesignature": "4",
+    "prompt": "Downtempo synth R&B. Deep sustained sub bass, a wide shimmering pad from a vintage-style polysynth with two slightly detuned sawtooth oscillators through a key-tracked low-pass filter, finger snaps and soft rimshots instead of a kit, muted electric piano chords, one filtered vocal sample looping. Wide and hazy with a heavy low end under a bright airy top, long reverb on the pads and a dry close lead. Breathy male voice with wide stacked harmony on the chorus, relaxed and behind the beat. 74 BPM, D flat major. Unexpectedly held by strangers. No trap hi-hat rolls, no rap verse, no live drum kit, no key change.",
+    "lyrics": "[Intro - sub bass and shimmer pad]\n\n[Verse 1]\nSeven in the morning, doors open before the stores do\nTerrazzo floor, one lap is a quarter mile, there's a sign that says so\nNine of them in windbreakers, same loop, same order every day\nAnd me, thirty-one, in last night's shirt\n\n[Chorus]\nMall walkers\nThey have been doing this since before I could drive\nGloria has had two knees replaced and she laps me\nNobody here asks what I do for a living\n\n[Verse 2]\nFrank brings the coffee. Bad coffee. Everybody takes it.\nThey have opinions about the fountain. Strong ones.\nI came because my gym closed and I didn't want to go home\nI stayed because somebody said \"you're back\" on the fourth day\n\n[Chorus]\nMall walkers\nThey have been doing this since before I could drive\nGloria has had two knees replaced and she still laps me\nNobody here has ever once asked what I do for a living\n\n[Bridge - pad only]\nThe stores open at ten and we scatter\nLike we weren't anything\n\n[Outro - sub bass, fading]\nQuarter mile. Sign says so.\nTomorrow, seven."
+  },
+  "seed": "171619486",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.86s**\n- 61.86s per song\n- LM phase (1 song): 11.74s\n- DiT phase (1 song): 50.12s",
+  "task_id": "b8626db1-c78b-4315-800e-67a6420c86d8",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-06T11:34:38.405968+08:00",
+  "audio": "b4_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.56,
+      "end": 20.56,
+      "text": "[Intro - sub bass and shimmer pad]"
+    },
+    {
+      "t": 20.56,
+      "end": 20.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.56,
+      "end": 24.1,
+      "text": "Seven in the morning, doors open before the stores do"
+    },
+    {
+      "t": 25.9,
+      "end": 33.52,
+      "text": "Terrazzo floor, one lap is a quarter mile, there's a sign that says so"
+    },
+    {
+      "t": 38.74,
+      "end": 45.54,
+      "text": "Nine of them in windbreakers, same loop, same order every day"
+    },
+    {
+      "t": 49.46,
+      "end": 53.6,
+      "text": "And me, thirty-one, in last night's shirt"
+    },
+    {
+      "t": 53.76,
+      "end": 53.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.76,
+      "end": 63.57,
+      "text": "Mall walkers"
+    },
+    {
+      "t": 63.99,
+      "end": 72.63,
+      "text": "They have been doing this since before I could drive"
+    },
+    {
+      "t": 75.83,
+      "end": 80.87,
+      "text": "Gloria has had two knees replaced and she laps me"
+    },
+    {
+      "t": 82.15,
+      "end": 86.35,
+      "text": "Nobody here asks what I do for a living"
+    },
+    {
+      "t": 99.43,
+      "end": 99.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.43,
+      "end": 102.55,
+      "text": "Frank brings the coffee. Bad coffee. Everybody takes it."
+    },
+    {
+      "t": 102.59,
+      "end": 105.69,
+      "text": "They have opinions about the fountain. Strong ones."
+    },
+    {
+      "t": 105.69,
+      "end": 112.25,
+      "text": "I came because my gym closed and I didn't want to go home"
+    },
+    {
+      "t": 112.25,
+      "end": 119.07,
+      "text": "I stayed because somebody said \"you're back\" on the fourth day"
+    },
+    {
+      "t": 121.55,
+      "end": 121.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.55,
+      "end": 122.97,
+      "text": "Mall walkers"
+    },
+    {
+      "t": 127.47,
+      "end": 129.37,
+      "text": "They have been doing this since before I could drive"
+    },
+    {
+      "t": 129.37,
+      "end": 133.79,
+      "text": "Gloria has had two knees replaced and she still laps me"
+    },
+    {
+      "t": 133.79,
+      "end": 141.09,
+      "text": "Nobody here has ever once asked what I do for a living"
+    },
+    {
+      "t": 141.09,
+      "end": 141.09,
+      "text": "[Bridge - pad only]"
+    },
+    {
+      "t": 141.09,
+      "end": 172.12,
+      "text": "The stores open at ten and we scatter"
+    },
+    {
+      "t": 172.2,
+      "end": 175.14,
+      "text": "Like we weren't anything"
+    },
+    {
+      "t": 198.46,
+      "end": 198.46,
+      "text": "[Outro - sub bass, fading]"
+    },
+    {
+      "t": 198.46,
+      "end": 201.76,
+      "text": "Quarter mile. Sign says so."
+    },
+    {
+      "t": 206.04,
+      "end": 207.6,
+      "text": "Tomorrow, seven."
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,159 @@
+{
+  "id": "b4_id04",
+  "title": "Mudik",
+  "title_source": "scripted",
+  "genre": "Indonesian city pop revival",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "the cheapest trade you ever make",
+  "persona": "",
+  "subject": "fourteen hours on the road once a year to become somebody's child again",
+  "caption": "Indonesian city pop revival. Electric piano drenched in chorus playing extended seventh and ninth voicings, slap electric bass popping on the offbeats, bright drum kit with a gated snare, a tenor saxophone taking the solo and the outro line, clean electric guitar with light chorus comping. Glossy and wide with chorus on nearly everything and a bright 1980s-leaning top end. Male voice, smooth and controlled with falsetto lifts at the ends of chorus lines. 116 BPM, E major. The cheapest trade you ever make. No kendang, no trap drums, no autotune, no acoustic ballad section, no key change.",
+  "lyrics": "[Intro - chorused electric piano and slap bass]\n\n[Verse 1]\nEmpat belas jam kalau lancar, dan tidak pernah lancar\nBagasi penuh, setengahnya bukan punyaku, semua titipan\nIbu sudah telepon tiga kali hari ini, cuma tanya sudah sampai mana\nJawabannya selalu \"sebentar lagi\". Tiga kali. Semuanya bohong.\n\n[Chorus]\nMudik\nSetahun sekali aku jadi anak lagi\nEmpat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa\nItu harga yang murah sekali\n\n[Verse 2]\nDi rest area jam dua pagi, semua orang di sana sedang pulang\nPlat nomor dari mana-mana, semuanya menghadap arah yang sama\nAku beli kopi, aku lihat satu bapak tidur di setir, anaknya yang selimutin\nAku foto. Aku hapus. Itu bukan punyaku.\n\n[Chorus]\nMudik\nSetahun sekali aku jadi anak lagi\nEmpat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa\nItu masih harga yang murah sekali\n\n[Instrumental Break - saxophone solo]\n\n[Outro - electric piano, fading]\nLampu teras masih nyala\nJam lima pagi, masih nyala",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 212.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Indonesian city pop revival. Electric piano drenched in chorus playing extended seventh and ninth voicings, slap electric bass popping on the offbeats, bright drum kit with a gated snare, a tenor saxophone taking the solo and the outro line, clean electric guitar with light chorus comping. Glossy and wide with chorus on nearly everything and a bright 1980s-leaning top end. Male voice, smooth and controlled with falsetto lifts at the ends of chorus lines. 116 BPM, E major. The cheapest trade you ever make. No kendang, no trap drums, no autotune, no acoustic ballad section, no key change.",
+    "lyrics": "[Intro - chorused electric piano and slap bass]\n\n[Verse 1]\nEmpat belas jam kalau lancar, dan tidak pernah lancar\nBagasi penuh, setengahnya bukan punyaku, semua titipan\nIbu sudah telepon tiga kali hari ini, cuma tanya sudah sampai mana\nJawabannya selalu \"sebentar lagi\". Tiga kali. Semuanya bohong.\n\n[Chorus]\nMudik\nSetahun sekali aku jadi anak lagi\nEmpat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa\nItu harga yang murah sekali\n\n[Verse 2]\nDi rest area jam dua pagi, semua orang di sana sedang pulang\nPlat nomor dari mana-mana, semuanya menghadap arah yang sama\nAku beli kopi, aku lihat satu bapak tidur di setir, anaknya yang selimutin\nAku foto. Aku hapus. Itu bukan punyaku.\n\n[Chorus]\nMudik\nSetahun sekali aku jadi anak lagi\nEmpat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa\nItu masih harga yang murah sekali\n\n[Instrumental Break - saxophone solo]\n\n[Outro - electric piano, fading]\nLampu teras masih nyala\nJam lima pagi, masih nyala"
+  },
+  "seed": "2060532921",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.64s**\n- 58.64s per song\n- LM phase (1 song): 8.79s\n- DiT phase (1 song): 49.85s",
+  "task_id": "57146ab8-cb18-4662-b3a7-69ea63e48e13",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-06T13:23:48.608665+08:00",
+  "audio": "b4_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.76,
+      "end": 29.76,
+      "text": "[Intro - chorused electric piano and slap bass]"
+    },
+    {
+      "t": 29.76,
+      "end": 29.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.76,
+      "end": 35.76,
+      "text": "Empat belas jam kalau lancar, dan tidak pernah lancar"
+    },
+    {
+      "t": 37.72,
+      "end": 47.4,
+      "text": "Bagasi penuh, setengahnya bukan punyaku, semua titipan"
+    },
+    {
+      "t": 50.98,
+      "end": 56.77,
+      "text": "Ibu sudah telepon tiga kali hari ini, cuma tanya sudah sampai mana"
+    },
+    {
+      "t": 56.77,
+      "end": 63.23,
+      "text": "Jawabannya selalu \"sebentar lagi\". Tiga kali. Semuanya bohong."
+    },
+    {
+      "t": 63.65,
+      "end": 63.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.65,
+      "end": 64.19,
+      "text": "Mudik"
+    },
+    {
+      "t": 64.91,
+      "end": 68.67,
+      "text": "Setahun sekali aku jadi anak lagi"
+    },
+    {
+      "t": 71.47,
+      "end": 81.29,
+      "text": "Empat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa"
+    },
+    {
+      "t": 88.53,
+      "end": 93.51,
+      "text": "Itu harga yang murah sekali"
+    },
+    {
+      "t": 96.75,
+      "end": 96.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.75,
+      "end": 104.23,
+      "text": "Di rest area jam dua pagi, semua orang di sana sedang pulang"
+    },
+    {
+      "t": 105.49,
+      "end": 112.11,
+      "text": "Plat nomor dari mana-mana, semuanya menghadap arah yang sama"
+    },
+    {
+      "t": 113.11,
+      "end": 121.53,
+      "text": "Aku beli kopi, aku lihat satu bapak tidur di setir, anaknya yang selimutin"
+    },
+    {
+      "t": 121.89,
+      "end": 128.87,
+      "text": "Aku foto. Aku hapus. Itu bukan punyaku."
+    },
+    {
+      "t": 129.07,
+      "end": 129.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.07,
+      "end": 130.03,
+      "text": "Mudik"
+    },
+    {
+      "t": 132.31,
+      "end": 137.89,
+      "text": "Setahun sekali aku jadi anak lagi"
+    },
+    {
+      "t": 140.61,
+      "end": 146.07,
+      "text": "Empat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa"
+    },
+    {
+      "t": 148.63,
+      "end": 153.05,
+      "text": "Itu masih harga yang murah sekali"
+    },
+    {
+      "t": 188.72,
+      "end": 188.72,
+      "text": "[Instrumental Break - saxophone solo]"
+    },
+    {
+      "t": 188.72,
+      "end": 188.72,
+      "text": "[Outro - electric piano, fading]"
+    },
+    {
+      "t": 188.72,
+      "end": 191.7,
+      "text": "Lampu teras masih nyala"
+    },
+    {
+      "t": 193.58,
+      "end": 205.94,
+      "text": "Jam lima pagi, masih nyala"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

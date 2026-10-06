@@ -1,0 +1,169 @@
+{
+  "id": "b4_zh01",
+  "title": "幫隔壁收衣服",
+  "title_source": "scripted",
+  "genre": "piano bass and brushes jazz trio pop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "small kindness, deliberately unacknowledged",
+  "persona": "",
+  "subject": "taking in a neighbour's laundry before the rain and leaving no note",
+  "caption": "Mandarin pop arranged as a jazz piano trio and nothing else. Grand piano recorded close with the pedal and hammer noise audible, upright double bass played with fingers, jazz drum kit played entirely with brushes on the snare, one muted trumpet entering in the final section. Clean and spacious with very wide dynamics and no low-end reinforcement at all, the quiet parts allowed to be genuinely quiet. Soft male voice, close and unpushed, conversational, no vibrato. 80 BPM, E flat major. A small kindness that neither party will mention. No synth bed, no programmed drums, no string section, no belted chorus, no key change.",
+  "lyrics": "[Intro - piano and brushed drums]\n\n[Verse 1]\n下午三點 天色不太對\n我家的收好了 隔壁那戶的還在外面\n那件白襯衫 我看他穿了三年\n每個禮拜一 都在那個位置\n\n[Pre-Chorus]\n我站在陽台想了四十秒\n那四十秒 我在想別人會怎麼想\n\n[Chorus]\n我還是收了\n一件一件 疊得比我自己的整齊\n放在他門口 用一個塑膠袋罩著\n沒有留紙條 留了就變成一件事\n\n[Verse 2]\n隔天早上 我門口有一袋橘子\n也沒有紙條\n我們在電梯遇到 他說「今天會下雨」\n我說「對啊」 就這樣 我們很有默契地不提\n\n[Chorus]\n我還是收了\n一件一件 疊得比我自己的整齊\n放在他門口 用一個塑膠袋罩著\n沒有留紙條 留了就變成一件虧欠\n\n[Outro - piano and trumpet, fading]\n那件白襯衫\n這個禮拜一 還是在那個位置",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 80,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Mandarin pop arranged as a jazz piano trio and nothing else. Grand piano recorded close with the pedal and hammer noise audible, upright double bass played with fingers, jazz drum kit played entirely with brushes on the snare, one muted trumpet entering in the final section. Clean and spacious with very wide dynamics and no low-end reinforcement at all, the quiet parts allowed to be genuinely quiet. Soft male voice, close and unpushed, conversational, no vibrato. 80 BPM, E flat major. A small kindness that neither party will mention. No synth bed, no programmed drums, no string section, no belted chorus, no key change.",
+    "lyrics": "[Intro - piano and brushed drums]\n\n[Verse 1]\n下午三點 天色不太對\n我家的收好了 隔壁那戶的還在外面\n那件白襯衫 我看他穿了三年\n每個禮拜一 都在那個位置\n\n[Pre-Chorus]\n我站在陽台想了四十秒\n那四十秒 我在想別人會怎麼想\n\n[Chorus]\n我還是收了\n一件一件 疊得比我自己的整齊\n放在他門口 用一個塑膠袋罩著\n沒有留紙條 留了就變成一件事\n\n[Verse 2]\n隔天早上 我門口有一袋橘子\n也沒有紙條\n我們在電梯遇到 他說「今天會下雨」\n我說「對啊」 就這樣 我們很有默契地不提\n\n[Chorus]\n我還是收了\n一件一件 疊得比我自己的整齊\n放在他門口 用一個塑膠袋罩著\n沒有留紙條 留了就變成一件虧欠\n\n[Outro - piano and trumpet, fading]\n那件白襯衫\n這個禮拜一 還是在那個位置"
+  },
+  "seed": "1349712508",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.52s**\n- 62.52s per song\n- LM phase (1 song): 8.82s\n- DiT phase (1 song): 53.70s",
+  "task_id": "a97d76a6-a50b-46af-a5a6-40a2fed6ffe9",
+  "elapsed_s": 90.7,
+  "generated_at": "2026-10-06T13:29:49.738971+08:00",
+  "audio": "b4_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 40.2,
+      "end": 40.2,
+      "text": "[Intro - piano and brushed drums]"
+    },
+    {
+      "t": 40.2,
+      "end": 40.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.2,
+      "end": 56.99,
+      "text": "下午三點 天色不太對"
+    },
+    {
+      "t": 57.07,
+      "end": 59.53,
+      "text": "我家的收好了 隔壁那戶的還在外面"
+    },
+    {
+      "t": 59.55,
+      "end": 63.09,
+      "text": "那件白襯衫 我看他穿了三年"
+    },
+    {
+      "t": 63.09,
+      "end": 64.37,
+      "text": "每個禮拜一 都在那個位置"
+    },
+    {
+      "t": 64.47,
+      "end": 64.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 64.47,
+      "end": 68.43,
+      "text": "我站在陽台想了四十秒"
+    },
+    {
+      "t": 68.43,
+      "end": 73.37,
+      "text": "那四十秒 我在想別人會怎麼想"
+    },
+    {
+      "t": 75.13,
+      "end": 75.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.13,
+      "end": 76.73,
+      "text": "我還是收了"
+    },
+    {
+      "t": 81.07,
+      "end": 84.59,
+      "text": "一件一件 疊得比我自己的整齊"
+    },
+    {
+      "t": 84.59,
+      "end": 93.49,
+      "text": "放在他門口 用一個塑膠袋罩著"
+    },
+    {
+      "t": 93.49,
+      "end": 96.41,
+      "text": "沒有留紙條 留了就變成一件事"
+    },
+    {
+      "t": 96.55,
+      "end": 96.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.55,
+      "end": 103.71,
+      "text": "隔天早上 我門口有一袋橘子"
+    },
+    {
+      "t": 103.77,
+      "end": 105.67,
+      "text": "也沒有紙條"
+    },
+    {
+      "t": 105.67,
+      "end": 108.23,
+      "text": "我們在電梯遇到 他說「今天會下雨」"
+    },
+    {
+      "t": 108.23,
+      "end": 152.93,
+      "text": "我說「對啊」 就這樣 我們很有默契地不提"
+    },
+    {
+      "t": 152.95,
+      "end": 152.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 152.95,
+      "end": 167.22,
+      "text": "我還是收了"
+    },
+    {
+      "t": 167.22,
+      "end": 168.44,
+      "text": "一件一件 疊得比我自己的整齊"
+    },
+    {
+      "t": 168.44,
+      "end": 189.3,
+      "text": "放在他門口 用一個塑膠袋罩著"
+    },
+    {
+      "t": 190.66,
+      "end": 195.14,
+      "text": "沒有留紙條 留了就變成一件虧欠"
+    },
+    {
+      "t": 195.16,
+      "end": 195.16,
+      "text": "[Outro - piano and trumpet, fading]"
+    },
+    {
+      "t": 195.16,
+      "end": 196.26,
+      "text": "那件白襯衫"
+    },
+    {
+      "t": 196.66,
+      "end": 200.58,
+      "text": "這個禮拜一 還是在那個位置"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

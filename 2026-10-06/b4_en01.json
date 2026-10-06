@@ -1,0 +1,169 @@
+{
+  "id": "b4_en01",
+  "title": "Wind Chime",
+  "title_source": "scripted",
+  "genre": "slowcore with pedal steel",
+  "language": "en",
+  "language_name": "English",
+  "mood": "a grief you have no standing to feel",
+  "persona": "",
+  "subject": "the neighbour's wind chime you resented for fourteen years and now miss",
+  "caption": "American slowcore built around pedal steel. Pedal steel playing long weeping swells with audible bar movement, baritone electric guitar striking single clean notes and letting them ring out fully, brushed snare keeping a bare pulse, upright bass played soft and slow, one tremolo guitar note under the final chorus. Extremely sparse and slow with long decays and deliberate silence between phrases, nothing filling the gaps. Low male voice, almost spoken, recorded very close with breath left in, no vibrato and no belting. 62 BPM, C major. A grief you have no standing to feel. No drum kit fills, no synth, no strings section, no chorus lift, no key change.",
+  "lyrics": "[Intro - pedal steel and brushed snare]\n\n[Verse 1]\nFourteen years that thing hung on her porch\nCheap aluminum, four tubes, one of them too short\nI counted every night I couldn't sleep through it\nI had a whole speech ready. Never gave it.\n\n[Chorus]\nNow the hook is still there and nothing's on it\nAnd I stand at my window like an idiot, waiting\nI didn't know I had memorized it\nI didn't know it was the sound of somebody being home\n\n[Verse 2]\nHer son came with a truck on a Tuesday\nTook the chairs, the pots, the chime. The hook stayed.\nHe waved at me. I waved back. That's the most we ever did.\nFourteen years of a sound and I never learned her last name\n\n[Chorus]\nNow the hook is still there and nothing's on it\nAnd I stand at my window like an idiot, listening\nI didn't know I had memorized it\nI didn't know it was the sound of somebody being home\n\n[Bridge - pedal steel alone]\nI bought one. Hung it on my own porch.\nWrong pitch. Course it is.\n\n[Outro - pedal steel, fading]\nFour tubes, one of them too short\nI'll leave it up",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 62,
+    "duration": 228.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "2",
+    "prompt": "American slowcore built around pedal steel. Pedal steel playing long weeping swells with audible bar movement, baritone electric guitar striking single clean notes and letting them ring out fully, brushed snare keeping a bare pulse, upright bass played soft and slow, one tremolo guitar note under the final chorus. Extremely sparse and slow with long decays and deliberate silence between phrases, nothing filling the gaps. Low male voice, almost spoken, recorded very close with breath left in, no vibrato and no belting. 62 BPM, C major. A grief you have no standing to feel. No drum kit fills, no synth, no strings section, no chorus lift, no key change.",
+    "lyrics": "[Intro - pedal steel and brushed snare]\n\n[Verse 1]\nFourteen years that thing hung on her porch\nCheap aluminum, four tubes, one of them too short\nI counted every night I couldn't sleep through it\nI had a whole speech ready. Never gave it.\n\n[Chorus]\nNow the hook is still there and nothing's on it\nAnd I stand at my window like an idiot, waiting\nI didn't know I had memorized it\nI didn't know it was the sound of somebody being home\n\n[Verse 2]\nHer son came with a truck on a Tuesday\nTook the chairs, the pots, the chime. The hook stayed.\nHe waved at me. I waved back. That's the most we ever did.\nFourteen years of a sound and I never learned her last name\n\n[Chorus]\nNow the hook is still there and nothing's on it\nAnd I stand at my window like an idiot, listening\nI didn't know I had memorized it\nI didn't know it was the sound of somebody being home\n\n[Bridge - pedal steel alone]\nI bought one. Hung it on my own porch.\nWrong pitch. Course it is.\n\n[Outro - pedal steel, fading]\nFour tubes, one of them too short\nI'll leave it up"
+  },
+  "seed": "682586311",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.74s**\n- 72.74s per song\n- LM phase (1 song): 13.89s\n- DiT phase (1 song): 58.84s",
+  "task_id": "da2114c5-aeb1-4f05-9dbd-f33bfc6b4d0a",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-06T13:28:18.991940+08:00",
+  "audio": "b4_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 9.4,
+      "end": 9.4,
+      "text": "[Intro - pedal steel and brushed snare]"
+    },
+    {
+      "t": 9.4,
+      "end": 9.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 9.4,
+      "end": 29.94,
+      "text": "Fourteen years that thing hung on her porch"
+    },
+    {
+      "t": 29.94,
+      "end": 43.22,
+      "text": "Cheap aluminum, four tubes, one of them too short"
+    },
+    {
+      "t": 46.14,
+      "end": 51.02,
+      "text": "I counted every night I couldn't sleep through it"
+    },
+    {
+      "t": 54.42,
+      "end": 58.33,
+      "text": "I had a whole speech ready. Never gave it."
+    },
+    {
+      "t": 62.21,
+      "end": 62.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.21,
+      "end": 65.01,
+      "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+      "t": 66.79,
+      "end": 69.27,
+      "text": "And I stand at my window like an idiot, waiting"
+    },
+    {
+      "t": 69.27,
+      "end": 70.25,
+      "text": "I didn't know I had memorized it"
+    },
+    {
+      "t": 70.27,
+      "end": 76.95,
+      "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+      "t": 76.95,
+      "end": 76.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.95,
+      "end": 83.49,
+      "text": "Her son came with a truck on a Tuesday"
+    },
+    {
+      "t": 83.55,
+      "end": 88.05,
+      "text": "Took the chairs, the pots, the chime. The hook stayed."
+    },
+    {
+      "t": 88.05,
+      "end": 93.17,
+      "text": "He waved at me. I waved back. That's the most we ever did."
+    },
+    {
+      "t": 93.25,
+      "end": 116.37,
+      "text": "Fourteen years of a sound and I never learned her last name"
+    },
+    {
+      "t": 116.39,
+      "end": 116.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.39,
+      "end": 121.49,
+      "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+      "t": 121.49,
+      "end": 125.29,
+      "text": "And I stand at my window like an idiot, listening"
+    },
+    {
+      "t": 125.29,
+      "end": 133.43,
+      "text": "I didn't know I had memorized it"
+    },
+    {
+      "t": 133.47,
+      "end": 152.01,
+      "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+      "t": 158.97,
+      "end": 158.97,
+      "text": "[Bridge - pedal steel alone]"
+    },
+    {
+      "t": 158.97,
+      "end": 163.71,
+      "text": "I bought one. Hung it on my own porch."
+    },
+    {
+      "t": 164.27,
+      "end": 165.65,
+      "text": "Wrong pitch. Course it is."
+    },
+    {
+      "t": 165.67,
+      "end": 165.67,
+      "text": "[Outro - pedal steel, fading]"
+    },
+    {
+      "t": 165.67,
+      "end": 185.86,
+      "text": "Four tubes, one of them too short"
+    },
+    {
+      "t": 185.86,
+      "end": 186.58,
+      "text": "I'll leave it up"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

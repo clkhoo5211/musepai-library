@@ -1,0 +1,169 @@
+{
+  "id": "b4_id01",
+  "title": "Setrika Seragam",
+  "title_source": "scripted",
+  "genre": "Indonesian soft rock ballad",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "doing the one thing you can actually fix",
+  "persona": "",
+  "subject": "ironing a child's school uniform at nine every night",
+  "caption": "Indonesian soft rock ballad. Clean electric guitar with long chorused sustain playing arpeggios and one melodic solo, grand piano underneath, fretless bass sliding between notes, drum kit played softly with the ride cymbal open, a string pad entering only in the last chorus. Polished and wide with generous reverb on the guitar and a close dry vocal. Male voice, warm and restrained, staying in a comfortable register and lifting only on the final line. 82 BPM, B flat major. Doing the one thing you can actually fix. No programmed drums, no kendang, no autotune, no rap, no key change.",
+  "lyrics": "[Intro - clean electric guitar and piano]\n\n[Verse 1]\nJam sembilan malam, anaknya sudah tidur\nSeragam putih, kerahnya agak kuning, aku setrika pelan di bagian itu\nNamanya dijahit di dada, benang merah, jahitan aku sendiri\nJelek. Tapi dia belum pernah komplain.\n\n[Pre-Chorus]\nBesok dia pakai, besoknya kotor lagi\nSetiap malam aku mulai dari awal lagi\n\n[Chorus]\nAku setrika seragam\nBukan karena harus rapi\nTapi karena besok pagi ada satu hal di hidup dia yang pasti beres\nDan malam ini, itu yang bisa aku kasih\n\n[Verse 2]\nDia pernah bilang temannya ketawa karena sepatunya\nAku diam, aku cuma bilang \"besok kita lihat\"\nSepatunya belum ganti, tapi seragamnya paling rapi di kelas\nAku tahu itu bukan jawabannya. Aku tetap setrika.\n\n[Chorus]\nAku setrika seragam\nBukan karena harus rapi\nTapi karena besok pagi ada satu hal di hidup dia yang pasti beres\nDan malam ini, itu masih yang bisa aku kasih\n\n[Outro - guitar, fading]\nGantung di pintu\nJam enam dia bangun",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 82,
+    "duration": 218.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Indonesian soft rock ballad. Clean electric guitar with long chorused sustain playing arpeggios and one melodic solo, grand piano underneath, fretless bass sliding between notes, drum kit played softly with the ride cymbal open, a string pad entering only in the last chorus. Polished and wide with generous reverb on the guitar and a close dry vocal. Male voice, warm and restrained, staying in a comfortable register and lifting only on the final line. 82 BPM, B flat major. Doing the one thing you can actually fix. No programmed drums, no kendang, no autotune, no rap, no key change.",
+    "lyrics": "[Intro - clean electric guitar and piano]\n\n[Verse 1]\nJam sembilan malam, anaknya sudah tidur\nSeragam putih, kerahnya agak kuning, aku setrika pelan di bagian itu\nNamanya dijahit di dada, benang merah, jahitan aku sendiri\nJelek. Tapi dia belum pernah komplain.\n\n[Pre-Chorus]\nBesok dia pakai, besoknya kotor lagi\nSetiap malam aku mulai dari awal lagi\n\n[Chorus]\nAku setrika seragam\nBukan karena harus rapi\nTapi karena besok pagi ada satu hal di hidup dia yang pasti beres\nDan malam ini, itu yang bisa aku kasih\n\n[Verse 2]\nDia pernah bilang temannya ketawa karena sepatunya\nAku diam, aku cuma bilang \"besok kita lihat\"\nSepatunya belum ganti, tapi seragamnya paling rapi di kelas\nAku tahu itu bukan jawabannya. Aku tetap setrika.\n\n[Chorus]\nAku setrika seragam\nBukan karena harus rapi\nTapi karena besok pagi ada satu hal di hidup dia yang pasti beres\nDan malam ini, itu masih yang bisa aku kasih\n\n[Outro - guitar, fading]\nGantung di pintu\nJam enam dia bangun"
+  },
+  "seed": "1077792363",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.27s**\n- 60.27s per song\n- LM phase (1 song): 10.96s\n- DiT phase (1 song): 49.31s",
+  "task_id": "a487b829-1237-4232-a7fa-463f0366049b",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-06T11:11:48.991989+08:00",
+  "audio": "b4_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.82,
+      "end": 34.82,
+      "text": "[Intro - clean electric guitar and piano]"
+    },
+    {
+      "t": 34.82,
+      "end": 34.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.82,
+      "end": 39.34,
+      "text": "Jam sembilan malam, anaknya sudah tidur"
+    },
+    {
+      "t": 40.6,
+      "end": 50.14,
+      "text": "Seragam putih, kerahnya agak kuning, aku setrika pelan di bagian itu"
+    },
+    {
+      "t": 50.34,
+      "end": 58.29,
+      "text": "Namanya dijahit di dada, benang merah, jahitan aku sendiri"
+    },
+    {
+      "t": 60.09,
+      "end": 65.25,
+      "text": "Jelek. Tapi dia belum pernah komplain."
+    },
+    {
+      "t": 67.35,
+      "end": 67.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 67.35,
+      "end": 72.01,
+      "text": "Besok dia pakai, besoknya kotor lagi"
+    },
+    {
+      "t": 72.95,
+      "end": 77.43,
+      "text": "Setiap malam aku mulai dari awal lagi"
+    },
+    {
+      "t": 78.83,
+      "end": 78.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.83,
+      "end": 80.55,
+      "text": "Aku setrika seragam"
+    },
+    {
+      "t": 81.45,
+      "end": 83.53,
+      "text": "Bukan karena harus rapi"
+    },
+    {
+      "t": 84.51,
+      "end": 89.19,
+      "text": "Tapi karena besok pagi ada satu hal di hidup dia yang pasti beres"
+    },
+    {
+      "t": 90.47,
+      "end": 97.45,
+      "text": "Dan malam ini, itu yang bisa aku kasih"
+    },
+    {
+      "t": 103.51,
+      "end": 103.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.51,
+      "end": 108.81,
+      "text": "Dia pernah bilang temannya ketawa karena sepatunya"
+    },
+    {
+      "t": 108.83,
+      "end": 112.49,
+      "text": "Aku diam, aku cuma bilang \"besok kita lihat\""
+    },
+    {
+      "t": 112.49,
+      "end": 118.11,
+      "text": "Sepatunya belum ganti, tapi seragamnya paling rapi di kelas"
+    },
+    {
+      "t": 118.19,
+      "end": 127.47,
+      "text": "Aku tahu itu bukan jawabannya. Aku tetap setrika."
+    },
+    {
+      "t": 129.71,
+      "end": 129.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.71,
+      "end": 134.67,
+      "text": "Aku setrika seragam"
+    },
+    {
+      "t": 134.73,
+      "end": 136.77,
+      "text": "Bukan karena harus rapi"
+    },
+    {
+      "t": 137.57,
+      "end": 142.41,
+      "text": "Tapi karena besok pagi ada satu hal di hidup dia yang pasti beres"
+    },
+    {
+      "t": 143.01,
+      "end": 149.01,
+      "text": "Dan malam ini, itu masih yang bisa aku kasih"
+    },
+    {
+      "t": 172.2,
+      "end": 172.2,
+      "text": "[Outro - guitar, fading]"
+    },
+    {
+      "t": 172.2,
+      "end": 174.0,
+      "text": "Gantung di pintu"
+    },
+    {
+      "t": 177.72,
+      "end": 180.32,
+      "text": "Jam enam dia bangun"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

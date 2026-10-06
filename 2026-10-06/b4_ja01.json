@@ -1,0 +1,169 @@
+{
+  "id": "b4_ja01",
+  "title": "回覧板",
+  "title_source": "scripted",
+  "genre": "matsuri ondo hip-hop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "belonging you only notice when you break it",
+  "persona": "",
+  "subject": "the neighbourhood circular notice board that is passed house to house",
+  "caption": "Japanese hip-hop built on festival ondo material. Taiko drums played with the full open tone and mixed forward as the primary percussion, shinobue bamboo flute carrying the melodic hook with audible breath, shamisen plucked with hard bachi attack on the offbeats, a tight 808 that stays short and controlled rather than booming, layered handclaps in the chorus. Dry and punchy with the taiko forward and the low end kept deliberately tight. Male rap voice, conversational, with short shouted ondo-style call phrases answering him. 96 BPM, A minor pentatonic. Belonging you only notice when you break it. No trap hi-hat rolls, no autotune, no orchestral strings, no sung pop chorus, no key change.",
+  "lyrics": "[Intro - taiko and shinobue]\n\n[Verse 1]\n木の板にヒモ 中に印刷したA4が三枚\n回覧板 隣の佐藤さんから うちへ 次は田中さん\n中身は 公園の草刈りと 不審者情報と 盆踊りの日程\n誰も読んでない 判子だけ押す\n\n[Hook]\n回してる 回ってる\n百年前からこの町は これを回してる\n俺の判子が 隣の判子の 隣にある\nそれだけのことで 俺はここの人間\n\n[Verse 2]\n佐藤さんが入院して 二週間 板が止まった\nうちで止まってた 俺が気づかなかった\n田中さんが来て 怒らずに 「体調どう?」って聞いた\n俺のことじゃなくて 佐藤さんのことだった\n\n[Hook]\n回してる 回ってる\n百年前からこの町は これを回してる\n俺の判子が 隣の判子の 隣にある\nそれだけのことで 俺はまだここの人間\n\n[Bridge - taiko only]\n草刈り 行った 初めて\n誰も驚かなかった それが一番こたえた\n\n[Outro - shinobue, fading]\n次は田中さん\n今日のうちに 持っていく",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "A minor pentatonic",
+    "timesignature": "4",
+    "prompt": "Japanese hip-hop built on festival ondo material. Taiko drums played with the full open tone and mixed forward as the primary percussion, shinobue bamboo flute carrying the melodic hook with audible breath, shamisen plucked with hard bachi attack on the offbeats, a tight 808 that stays short and controlled rather than booming, layered handclaps in the chorus. Dry and punchy with the taiko forward and the low end kept deliberately tight. Male rap voice, conversational, with short shouted ondo-style call phrases answering him. 96 BPM, A minor pentatonic. Belonging you only notice when you break it. No trap hi-hat rolls, no autotune, no orchestral strings, no sung pop chorus, no key change.",
+    "lyrics": "[Intro - taiko and shinobue]\n\n[Verse 1]\n木の板にヒモ 中に印刷したA4が三枚\n回覧板 隣の佐藤さんから うちへ 次は田中さん\n中身は 公園の草刈りと 不審者情報と 盆踊りの日程\n誰も読んでない 判子だけ押す\n\n[Hook]\n回してる 回ってる\n百年前からこの町は これを回してる\n俺の判子が 隣の判子の 隣にある\nそれだけのことで 俺はここの人間\n\n[Verse 2]\n佐藤さんが入院して 二週間 板が止まった\nうちで止まってた 俺が気づかなかった\n田中さんが来て 怒らずに 「体調どう?」って聞いた\n俺のことじゃなくて 佐藤さんのことだった\n\n[Hook]\n回してる 回ってる\n百年前からこの町は これを回してる\n俺の判子が 隣の判子の 隣にある\nそれだけのことで 俺はまだここの人間\n\n[Bridge - taiko only]\n草刈り 行った 初めて\n誰も驚かなかった それが一番こたえた\n\n[Outro - shinobue, fading]\n次は田中さん\n今日のうちに 持っていく"
+  },
+  "seed": "611418214",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.74s**\n- 55.74s per song\n- LM phase (1 song): 11.01s\n- DiT phase (1 song): 44.73s",
+  "task_id": "d6ee62cc-d61a-4203-8d78-d5e30ba329f0",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-06T11:45:47.230525+08:00",
+  "audio": "b4_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.0,
+      "end": 33.0,
+      "text": "[Intro - taiko and shinobue]"
+    },
+    {
+      "t": 33.0,
+      "end": 33.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.0,
+      "end": 33.88,
+      "text": "木の板にヒモ 中に印刷したA4が三枚"
+    },
+    {
+      "t": 33.98,
+      "end": 39.32,
+      "text": "回覧板 隣の佐藤さんから うちへ 次は田中さん"
+    },
+    {
+      "t": 39.52,
+      "end": 58.93,
+      "text": "中身は 公園の草刈りと 不審者情報と 盆踊りの日程"
+    },
+    {
+      "t": 58.93,
+      "end": 61.15,
+      "text": "誰も読んでない 判子だけ押す"
+    },
+    {
+      "t": 61.15,
+      "end": 61.15,
+      "text": "[Hook]"
+    },
+    {
+      "t": 61.15,
+      "end": 64.03,
+      "text": "回してる 回ってる"
+    },
+    {
+      "t": 64.09,
+      "end": 69.15,
+      "text": "百年前からこの町は これを回してる"
+    },
+    {
+      "t": 69.17,
+      "end": 71.71,
+      "text": "俺の判子が 隣の判子の 隣にある"
+    },
+    {
+      "t": 73.91,
+      "end": 77.87,
+      "text": "それだけのことで 俺はここの人間"
+    },
+    {
+      "t": 77.89,
+      "end": 77.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.89,
+      "end": 81.19,
+      "text": "佐藤さんが入院して 二週間 板が止まった"
+    },
+    {
+      "t": 81.23,
+      "end": 83.11,
+      "text": "うちで止まってた 俺が気づかなかった"
+    },
+    {
+      "t": 83.11,
+      "end": 85.29,
+      "text": "田中さんが来て 怒らずに 「体調どう?」って聞いた"
+    },
+    {
+      "t": 85.31,
+      "end": 87.97,
+      "text": "俺のことじゃなくて 佐藤さんのことだった"
+    },
+    {
+      "t": 87.97,
+      "end": 87.97,
+      "text": "[Hook]"
+    },
+    {
+      "t": 87.97,
+      "end": 88.47,
+      "text": "回してる 回ってる"
+    },
+    {
+      "t": 88.47,
+      "end": 92.23,
+      "text": "百年前からこの町は これを回してる"
+    },
+    {
+      "t": 92.27,
+      "end": 95.27,
+      "text": "俺の判子が 隣の判子の 隣にある"
+    },
+    {
+      "t": 96.25,
+      "end": 101.87,
+      "text": "それだけのことで 俺はまだここの人間"
+    },
+    {
+      "t": 109.47,
+      "end": 109.47,
+      "text": "[Bridge - taiko only]"
+    },
+    {
+      "t": 109.47,
+      "end": 127.47,
+      "text": "草刈り 行った 初めて"
+    },
+    {
+      "t": 127.57,
+      "end": 136.87,
+      "text": "誰も驚かなかった それが一番こたえた"
+    },
+    {
+      "t": 137.03,
+      "end": 137.03,
+      "text": "[Outro - shinobue, fading]"
+    },
+    {
+      "t": 137.03,
+      "end": 141.67,
+      "text": "次は田中さん"
+    },
+    {
+      "t": 141.81,
+      "end": 160.08,
+      "text": "今日のうちに 持っていく"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

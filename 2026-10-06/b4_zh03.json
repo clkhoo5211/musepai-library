@@ -1,0 +1,169 @@
+{
+  "id": "b4_zh03",
+  "title": "三千張",
+  "title_source": "scripted",
+  "genre": "drama soundtrack orchestral pop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "sorting through love after the fact",
+  "persona": "",
+  "subject": "exporting three thousand photos off an old phone and stopping at the four hundredth",
+  "caption": "Mandarin orchestral pop in the television-drama theme idiom. Full string orchestra with a prominent cello counter-melody, grand piano playing sparse arpeggios, harp glissandi between sections, a single timpani roll before the last chorus, no drum kit at all. Wide cinematic hall sound with long reverb tails and a lot of air around the voice. Female voice, cinematic and restrained, singing in a mid register without melisma and without belting until the final line. 70 BPM, A flat major. Sorting through love after the fact. No programmed drums, no synth, no guitar, no rapping, no key change.",
+  "lyrics": "[Intro - strings and piano]\n\n[Verse 1]\n舊手機找出來 充了四個小時才開機\n開機那一下 跳出二零一九年的電量百分之八\n三千兩百張照片\n有兩千張 是同一個人\n\n[Pre-Chorus]\n我本來只是要導出來 當作備份\n導到第四百張 我就不動了\n\n[Chorus]\n原來我拍過她那麼多次\n吃飯的 走路的 睡著的 背對我的\n每一張都沒有特別\n特別的是我那時候覺得 這種東西拍不完\n\n[Verse 2]\n有一張她在笑 但不是對我笑\n我放大看了很久 想認出來那天旁邊是誰\n認不出來 那也好\n我把那張留下來 其他的 我一張都沒刪\n\n[Chorus]\n原來我拍過她那麼多次\n吃飯的 走路的 睡著的 背對我的\n每一張都沒有特別\n特別的是我那時候以為 這種東西拍不完\n\n[Outro - strings, fading]\n舊手機 我沒有關\n讓它自己沒電",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 70,
+    "duration": 238.0,
+    "genres": "N/A",
+    "keyscale": "Ab major",
+    "timesignature": "4",
+    "prompt": "Mandarin orchestral pop in the television-drama theme idiom. Full string orchestra with a prominent cello counter-melody, grand piano playing sparse arpeggios, harp glissandi between sections, a single timpani roll before the last chorus, no drum kit at all. Wide cinematic hall sound with long reverb tails and a lot of air around the voice. Female voice, cinematic and restrained, singing in a mid register without melisma and without belting until the final line. 70 BPM, A flat major. Sorting through love after the fact. No programmed drums, no synth, no guitar, no rapping, no key change.",
+    "lyrics": "[Intro - strings and piano]\n\n[Verse 1]\n舊手機找出來 充了四個小時才開機\n開機那一下 跳出二零一九年的電量百分之八\n三千兩百張照片\n有兩千張 是同一個人\n\n[Pre-Chorus]\n我本來只是要導出來 當作備份\n導到第四百張 我就不動了\n\n[Chorus]\n原來我拍過她那麼多次\n吃飯的 走路的 睡著的 背對我的\n每一張都沒有特別\n特別的是我那時候覺得 這種東西拍不完\n\n[Verse 2]\n有一張她在笑 但不是對我笑\n我放大看了很久 想認出來那天旁邊是誰\n認不出來 那也好\n我把那張留下來 其他的 我一張都沒刪\n\n[Chorus]\n原來我拍過她那麼多次\n吃飯的 走路的 睡著的 背對我的\n每一張都沒有特別\n特別的是我那時候以為 這種東西拍不完\n\n[Outro - strings, fading]\n舊手機 我沒有關\n讓它自己沒電"
+  },
+  "seed": "2120126772",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.99s**\n- 63.99s per song\n- LM phase (1 song): 10.67s\n- DiT phase (1 song): 53.31s",
+  "task_id": "44cdcaa4-3216-4009-aa0d-f825198a5787",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-06T11:41:42.958873+08:00",
+  "audio": "b4_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.88,
+      "end": 35.88,
+      "text": "[Intro - strings and piano]"
+    },
+    {
+      "t": 35.88,
+      "end": 35.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.88,
+      "end": 42.02,
+      "text": "舊手機找出來 充了四個小時才開機"
+    },
+    {
+      "t": 43.18,
+      "end": 46.64,
+      "text": "開機那一下 跳出二零一九年的電量百分之八"
+    },
+    {
+      "t": 46.64,
+      "end": 47.8,
+      "text": "三千兩百張照片"
+    },
+    {
+      "t": 48.12,
+      "end": 49.74,
+      "text": "有兩千張 是同一個人"
+    },
+    {
+      "t": 49.74,
+      "end": 49.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.74,
+      "end": 54.78,
+      "text": "我本來只是要導出來 當作備份"
+    },
+    {
+      "t": 54.78,
+      "end": 66.21,
+      "text": "導到第四百張 我就不動了"
+    },
+    {
+      "t": 66.21,
+      "end": 66.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.21,
+      "end": 67.55,
+      "text": "原來我拍過她那麼多次"
+    },
+    {
+      "t": 68.03,
+      "end": 72.73,
+      "text": "吃飯的 走路的 睡著的 背對我的"
+    },
+    {
+      "t": 77.05,
+      "end": 79.57,
+      "text": "每一張都沒有特別"
+    },
+    {
+      "t": 79.63,
+      "end": 87.11,
+      "text": "特別的是我那時候覺得 這種東西拍不完"
+    },
+    {
+      "t": 87.11,
+      "end": 87.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.11,
+      "end": 90.15,
+      "text": "有一張她在笑 但不是對我笑"
+    },
+    {
+      "t": 90.17,
+      "end": 96.31,
+      "text": "我放大看了很久 想認出來那天旁邊是誰"
+    },
+    {
+      "t": 96.35,
+      "end": 99.67,
+      "text": "認不出來 那也好"
+    },
+    {
+      "t": 99.87,
+      "end": 158.21,
+      "text": "我把那張留下來 其他的 我一張都沒刪"
+    },
+    {
+      "t": 158.35,
+      "end": 158.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.35,
+      "end": 173.07,
+      "text": "原來我拍過她那麼多次"
+    },
+    {
+      "t": 173.07,
+      "end": 176.15,
+      "text": "吃飯的 走路的 睡著的 背對我的"
+    },
+    {
+      "t": 176.15,
+      "end": 183.02,
+      "text": "每一張都沒有特別"
+    },
+    {
+      "t": 183.02,
+      "end": 200.68,
+      "text": "特別的是我那時候以為 這種東西拍不完"
+    },
+    {
+      "t": 201.16,
+      "end": 201.16,
+      "text": "[Outro - strings, fading]"
+    },
+    {
+      "t": 201.16,
+      "end": 213.8,
+      "text": "舊手機 我沒有關"
+    },
+    {
+      "t": 213.8,
+      "end": 223.42,
+      "text": "讓它自己沒電"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

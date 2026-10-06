@@ -1,0 +1,169 @@
+{
+  "id": "b4_ms02",
+  "title": "Basuh Kereta Ayah",
+  "title_source": "scripted",
+  "genre": "ghazal Johor pop",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "inheritance happening quietly",
+  "persona": "",
+  "subject": "washing your father's car every Saturday while he watches from a plastic chair",
+  "caption": "Malaysian ghazal Johor adapted to pop. Harmonium holding a continuous reedy drone and chords underneath everything, gambus lute playing the melodic answers with its woody plucked attack, tabla providing the rhythmic cycle with finger and palm strokes, violin doubling the vocal line an octave up with slides, maracas keeping time. Warm and close with the harmonium drone present throughout and a natural small-room decay. Male voice with light ghazal ornamentation on the line endings, warm and unhurried. 88 BPM, G major. Inheritance happening quietly, in the wrong direction. No drum kit, no electric guitar, no synth, no belted chorus, no key change.",
+  "lyrics": "[Intro - harmonium and gambus]\n\n[Verse 1]\nSetiap Sabtu pagi, baldi biru, span yang sama\nAyah tak pernah suruh, aku pun tak pernah tanya\nKereta tu lebih tua daripada adik aku\nAyah cakap \"cukup lagi\" sejak sepuluh tahun lepas\n\n[Pre-Chorus]\nAku basuh bumbung dulu, baru tingkap\nDia yang ajar macam tu, aku tak pernah ubah\n\n[Chorus]\nAku basuh kereta ayah\nBukan sebab kotor, memang tak kotor sangat\nTapi kalau aku tak buat, siapa nak buat\nDan kalau tak ada sebab untuk balik, aku akan cari satu\n\n[Verse 2]\nTahun ni dia duduk tengok je, kerusi plastik, kopi\nDulu dia yang basuh, aku yang pegang hos\nKami tak cakap pasal pertukaran tu\nKami cakap pasal enjin, pasal tayar, pasal hujan\n\n[Chorus]\nAku basuh kereta ayah\nBukan sebab kotor, memang tak kotor sangat\nTapi kalau aku tak buat, siapa nak buat\nDan kalau tak ada sebab untuk balik, aku dah jumpa satu\n\n[Outro - gambus and violin, fading]\nBaldi biru tu, aku simpan dalam stor\nSabtu depan",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "3",
+    "prompt": "Malaysian ghazal Johor adapted to pop. Harmonium holding a continuous reedy drone and chords underneath everything, gambus lute playing the melodic answers with its woody plucked attack, tabla providing the rhythmic cycle with finger and palm strokes, violin doubling the vocal line an octave up with slides, maracas keeping time. Warm and close with the harmonium drone present throughout and a natural small-room decay. Male voice with light ghazal ornamentation on the line endings, warm and unhurried. 88 BPM, G major. Inheritance happening quietly, in the wrong direction. No drum kit, no electric guitar, no synth, no belted chorus, no key change.",
+    "lyrics": "[Intro - harmonium and gambus]\n\n[Verse 1]\nSetiap Sabtu pagi, baldi biru, span yang sama\nAyah tak pernah suruh, aku pun tak pernah tanya\nKereta tu lebih tua daripada adik aku\nAyah cakap \"cukup lagi\" sejak sepuluh tahun lepas\n\n[Pre-Chorus]\nAku basuh bumbung dulu, baru tingkap\nDia yang ajar macam tu, aku tak pernah ubah\n\n[Chorus]\nAku basuh kereta ayah\nBukan sebab kotor, memang tak kotor sangat\nTapi kalau aku tak buat, siapa nak buat\nDan kalau tak ada sebab untuk balik, aku akan cari satu\n\n[Verse 2]\nTahun ni dia duduk tengok je, kerusi plastik, kopi\nDulu dia yang basuh, aku yang pegang hos\nKami tak cakap pasal pertukaran tu\nKami cakap pasal enjin, pasal tayar, pasal hujan\n\n[Chorus]\nAku basuh kereta ayah\nBukan sebab kotor, memang tak kotor sangat\nTapi kalau aku tak buat, siapa nak buat\nDan kalau tak ada sebab untuk balik, aku dah jumpa satu\n\n[Outro - gambus and violin, fading]\nBaldi biru tu, aku simpan dalam stor\nSabtu depan"
+  },
+  "seed": "500272718",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.43s**\n- 69.43s per song\n- LM phase (1 song): 14.13s\n- DiT phase (1 song): 55.29s",
+  "task_id": "2133d719-c966-4c89-aa02-6615d5b48680",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-10-06T13:22:28.459712+08:00",
+  "audio": "b4_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.7,
+      "end": 26.7,
+      "text": "[Intro - harmonium and gambus]"
+    },
+    {
+      "t": 26.7,
+      "end": 26.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.7,
+      "end": 31.7,
+      "text": "Setiap Sabtu pagi, baldi biru, span yang sama"
+    },
+    {
+      "t": 35.04,
+      "end": 41.38,
+      "text": "Ayah tak pernah suruh, aku pun tak pernah tanya"
+    },
+    {
+      "t": 43.64,
+      "end": 53.75,
+      "text": "Kereta tu lebih tua daripada adik aku"
+    },
+    {
+      "t": 54.13,
+      "end": 62.47,
+      "text": "Ayah cakap \"cukup lagi\" sejak sepuluh tahun lepas"
+    },
+    {
+      "t": 63.09,
+      "end": 63.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.09,
+      "end": 66.57,
+      "text": "Aku basuh bumbung dulu, baru tingkap"
+    },
+    {
+      "t": 68.57,
+      "end": 75.63,
+      "text": "Dia yang ajar macam tu, aku tak pernah ubah"
+    },
+    {
+      "t": 77.59,
+      "end": 77.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.59,
+      "end": 81.35,
+      "text": "Aku basuh kereta ayah"
+    },
+    {
+      "t": 81.59,
+      "end": 87.05,
+      "text": "Bukan sebab kotor, memang tak kotor sangat"
+    },
+    {
+      "t": 88.35,
+      "end": 92.99,
+      "text": "Tapi kalau aku tak buat, siapa nak buat"
+    },
+    {
+      "t": 94.13,
+      "end": 99.33,
+      "text": "Dan kalau tak ada sebab untuk balik, aku akan cari satu"
+    },
+    {
+      "t": 102.25,
+      "end": 102.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 102.25,
+      "end": 106.75,
+      "text": "Tahun ni dia duduk tengok je, kerusi plastik, kopi"
+    },
+    {
+      "t": 106.75,
+      "end": 108.37,
+      "text": "Dulu dia yang basuh, aku yang pegang hos"
+    },
+    {
+      "t": 108.37,
+      "end": 110.87,
+      "text": "Kami tak cakap pasal pertukaran tu"
+    },
+    {
+      "t": 110.87,
+      "end": 116.03,
+      "text": "Kami cakap pasal enjin, pasal tayar, pasal hujan"
+    },
+    {
+      "t": 116.13,
+      "end": 116.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.13,
+      "end": 125.29,
+      "text": "Aku basuh kereta ayah"
+    },
+    {
+      "t": 126.93,
+      "end": 133.01,
+      "text": "Bukan sebab kotor, memang tak kotor sangat"
+    },
+    {
+      "t": 134.07,
+      "end": 141.55,
+      "text": "Tapi kalau aku tak buat, siapa nak buat"
+    },
+    {
+      "t": 143.97,
+      "end": 149.53,
+      "text": "Dan kalau tak ada sebab untuk balik, aku dah jumpa satu"
+    },
+    {
+      "t": 154.17,
+      "end": 154.17,
+      "text": "[Outro - gambus and violin, fading]"
+    },
+    {
+      "t": 154.17,
+      "end": 201.92,
+      "text": "Baldi biru tu, aku simpan dalam stor"
+    },
+    {
+      "t": 205.22,
+      "end": 207.74,
+      "text": "Sabtu depan"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "b4_ko03",
+  "title": "김장",
+  "title_source": "scripted",
+  "genre": "Korean chamber pop with string quartet",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "being the youngest and most useless, happily",
+  "persona": "",
+  "subject": "forty heads of cabbage in the big house yard with four older women",
+  "caption": "Korean chamber pop with a real string quartet. Quartet recorded close in a small room so the bow noise and breathing are audible, upright piano with felt dampening, steel-string acoustic guitar fingerpicked quietly, light hand percussion entering only in the last third, no drum kit. Chamber-close and dry rather than cinematic, instruments in the same space as the voice. Female voice, close and plain, conversational and unornamented. 76 BPM, D major. Being the youngest and most useless person present, happily. No synth, no programmed drums, no belted climax, no gugak instruments, no key change.",
+  "lyrics": "[Intro - string quartet]\n\n[Verse 1]\n배추 마흔 포기, 고무장갑 다섯 켤레, 큰집 마당\n엄마랑 이모 둘이랑 외숙모, 그리고 나\n나는 스물아홉이고 여기서 제일 어리고 제일 쓸모없다\n속을 넣는 손이 다 다른데, 나만 틀렸다\n\n[Pre-Chorus]\n\"더 꾹꾹 눌러\" 소리를 네 번 들었다\n네 번 다 다른 사람한테서\n\n[Chorus]\n김장\n일 년에 하루, 이 사람들이 한자리에 모이는 이유\n김치가 필요해서가 아니라\n모일 이유가 하나는 있어야 해서\n\n[Verse 2]\n이모가 내 입에 하나 넣어줬다, 겉절이\n맛있다고 했더니 \"너는 다 맛있대\" 하고 웃었다\n사실 진짜 맛있었다\n근데 내가 뭐라고 했어도 저 웃음은 나왔을 거다\n\n[Chorus]\n김장\n일 년에 하루, 이 사람들이 한자리에 모이는 이유\n김치가 필요해서가 아니라\n모일 이유가 하나는 있어야 해서, 아직은 있어서\n\n[Outro - quartet, fading]\n통 세 개, 내 몫\n들고 오는데 무거웠다, 무거운 게 좋았다",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 222.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean chamber pop with a real string quartet. Quartet recorded close in a small room so the bow noise and breathing are audible, upright piano with felt dampening, steel-string acoustic guitar fingerpicked quietly, light hand percussion entering only in the last third, no drum kit. Chamber-close and dry rather than cinematic, instruments in the same space as the voice. Female voice, close and plain, conversational and unornamented. 76 BPM, D major. Being the youngest and most useless person present, happily. No synth, no programmed drums, no belted climax, no gugak instruments, no key change.",
+    "lyrics": "[Intro - string quartet]\n\n[Verse 1]\n배추 마흔 포기, 고무장갑 다섯 켤레, 큰집 마당\n엄마랑 이모 둘이랑 외숙모, 그리고 나\n나는 스물아홉이고 여기서 제일 어리고 제일 쓸모없다\n속을 넣는 손이 다 다른데, 나만 틀렸다\n\n[Pre-Chorus]\n\"더 꾹꾹 눌러\" 소리를 네 번 들었다\n네 번 다 다른 사람한테서\n\n[Chorus]\n김장\n일 년에 하루, 이 사람들이 한자리에 모이는 이유\n김치가 필요해서가 아니라\n모일 이유가 하나는 있어야 해서\n\n[Verse 2]\n이모가 내 입에 하나 넣어줬다, 겉절이\n맛있다고 했더니 \"너는 다 맛있대\" 하고 웃었다\n사실 진짜 맛있었다\n근데 내가 뭐라고 했어도 저 웃음은 나왔을 거다\n\n[Chorus]\n김장\n일 년에 하루, 이 사람들이 한자리에 모이는 이유\n김치가 필요해서가 아니라\n모일 이유가 하나는 있어야 해서, 아직은 있어서\n\n[Outro - quartet, fading]\n통 세 개, 내 몫\n들고 오는데 무거웠다, 무거운 게 좋았다"
+  },
+  "seed": "3711924395",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.43s**\n- 60.43s per song\n- LM phase (1 song): 8.97s\n- DiT phase (1 song): 51.46s",
+  "task_id": "6cb1cc11-a5e1-41ee-b1d6-8c8f1e1ec973",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-06T11:01:13.485194+08:00",
+  "audio": "b4_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 2.48,
+      "end": 2.48,
+      "text": "[Intro - string quartet]"
+    },
+    {
+      "t": 2.48,
+      "end": 2.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.48,
+      "end": 49.56,
+      "text": "배추 마흔 포기, 고무장갑 다섯 켤레, 큰집 마당"
+    },
+    {
+      "t": 49.64,
+      "end": 60.69,
+      "text": "엄마랑 이모 둘이랑 외숙모, 그리고 나"
+    },
+    {
+      "t": 60.69,
+      "end": 66.59,
+      "text": "나는 스물아홉이고 여기서 제일 어리고 제일 쓸모없다"
+    },
+    {
+      "t": 66.69,
+      "end": 72.67,
+      "text": "속을 넣는 손이 다 다른데, 나만 틀렸다"
+    },
+    {
+      "t": 72.99,
+      "end": 72.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.99,
+      "end": 79.55,
+      "text": "\"더 꾹꾹 눌러\" 소리를 네 번 들었다"
+    },
+    {
+      "t": 79.55,
+      "end": 82.83,
+      "text": "네 번 다 다른 사람한테서"
+    },
+    {
+      "t": 82.91,
+      "end": 82.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.91,
+      "end": 84.11,
+      "text": "김장"
+    },
+    {
+      "t": 84.17,
+      "end": 89.03,
+      "text": "일 년에 하루, 이 사람들이 한자리에 모이는 이유"
+    },
+    {
+      "t": 89.09,
+      "end": 91.59,
+      "text": "김치가 필요해서가 아니라"
+    },
+    {
+      "t": 91.67,
+      "end": 93.89,
+      "text": "모일 이유가 하나는 있어야 해서"
+    },
+    {
+      "t": 96.45,
+      "end": 96.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.45,
+      "end": 129.75,
+      "text": "이모가 내 입에 하나 넣어줬다, 겉절이"
+    },
+    {
+      "t": 129.81,
+      "end": 133.09,
+      "text": "맛있다고 했더니 \"너는 다 맛있대\" 하고 웃었다"
+    },
+    {
+      "t": 135.69,
+      "end": 137.35,
+      "text": "사실 진짜 맛있었다"
+    },
+    {
+      "t": 137.41,
+      "end": 144.01,
+      "text": "근데 내가 뭐라고 했어도 저 웃음은 나왔을 거다"
+    },
+    {
+      "t": 144.69,
+      "end": 144.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.69,
+      "end": 145.57,
+      "text": "김장"
+    },
+    {
+      "t": 145.63,
+      "end": 151.17,
+      "text": "일 년에 하루, 이 사람들이 한자리에 모이는 이유"
+    },
+    {
+      "t": 151.17,
+      "end": 153.73,
+      "text": "김치가 필요해서가 아니라"
+    },
+    {
+      "t": 153.73,
+      "end": 170.48,
+      "text": "모일 이유가 하나는 있어야 해서, 아직은 있어서"
+    },
+    {
+      "t": 175.88,
+      "end": 175.88,
+      "text": "[Outro - quartet, fading]"
+    },
+    {
+      "t": 175.88,
+      "end": 179.32,
+      "text": "통 세 개, 내 몫"
+    },
+    {
+      "t": 179.32,
+      "end": 189.22,
+      "text": "들고 오는데 무거웠다, 무거운 게 좋았다"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

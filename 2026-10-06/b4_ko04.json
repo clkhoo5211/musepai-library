@@ -1,0 +1,174 @@
+{
+  "id": "b4_ko04",
+  "title": "택배 기사님께",
+  "title_source": "scripted",
+  "genre": "Korean post-punk",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wanting fairness with someone you will never meet",
+  "persona": "",
+  "subject": "a sticky note left on the door for a delivery driver, and the one that came back",
+  "caption": "Korean post-punk. Angular bass guitar carrying the main melodic line high on the neck, thin trebly electric guitar playing sharp chordal stabs with no distortion, drum kit recorded dry and narrow with a tight snare and a driving eighth-note hi-hat, no synth anywhere. Narrow and trebly with the bass forward and the guitars deliberately thin, almost no reverb. Male voice, clipped and tense, speaking more than singing in the verses. 150 BPM, E minor. Wanting to be fair to someone you will never meet. No synth, no autotune, no big chorus, no ballad section, no key change.",
+  "lyrics": "[Intro - angular bass and dry drums]\n\n[Verse 1]\n포스트잇 한 장, 현관문에 붙였다\n\"문 앞에 두고 가세요, 벨 안 눌러도 됩니다, 감사합니다\"\n세 줄 쓰는 데 십 분 걸렸다\n마지막 줄을 쓸까 말까 두 번 고민했다\n\n[Pre-Chorus]\n얼굴을 본 적이 없다\n근데 매주 두 번은 온다\n\n[Chorus]\n택배 기사님께\n나는 당신 이름을 모르고 당신도 내 이름을 모르고\n근데 당신은 내가 뭘 사는지 다 안다\n그게 이상하게 공평하지가 않아서, 쪽지를 썼다\n\n[Verse 2]\n다음 날 상자 위에 포스트잇이 하나 더 있었다\n\"네, 감사합니다\" 끝, 다섯 글자\n나는 그걸 떼서 냉장고에 붙였다\n삼 주째 거기 있다\n\n[Chorus]\n택배 기사님께\n나는 당신 이름을 모르고 당신도 내 이름을 모르고\n근데 당신은 내가 뭘 사는지 다 안다\n그게 이상하게 공평하지가 않아서, 아직도 쪽지를 쓴다\n\n[Outro - band cuts]\n오늘도 문 앞\n벨은 안 울렸다\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Korean post-punk. Angular bass guitar carrying the main melodic line high on the neck, thin trebly electric guitar playing sharp chordal stabs with no distortion, drum kit recorded dry and narrow with a tight snare and a driving eighth-note hi-hat, no synth anywhere. Narrow and trebly with the bass forward and the guitars deliberately thin, almost no reverb. Male voice, clipped and tense, speaking more than singing in the verses. 150 BPM, E minor. Wanting to be fair to someone you will never meet. No synth, no autotune, no big chorus, no ballad section, no key change.",
+    "lyrics": "[Intro - angular bass and dry drums]\n\n[Verse 1]\n포스트잇 한 장, 현관문에 붙였다\n\"문 앞에 두고 가세요, 벨 안 눌러도 됩니다, 감사합니다\"\n세 줄 쓰는 데 십 분 걸렸다\n마지막 줄을 쓸까 말까 두 번 고민했다\n\n[Pre-Chorus]\n얼굴을 본 적이 없다\n근데 매주 두 번은 온다\n\n[Chorus]\n택배 기사님께\n나는 당신 이름을 모르고 당신도 내 이름을 모르고\n근데 당신은 내가 뭘 사는지 다 안다\n그게 이상하게 공평하지가 않아서, 쪽지를 썼다\n\n[Verse 2]\n다음 날 상자 위에 포스트잇이 하나 더 있었다\n\"네, 감사합니다\" 끝, 다섯 글자\n나는 그걸 떼서 냉장고에 붙였다\n삼 주째 거기 있다\n\n[Chorus]\n택배 기사님께\n나는 당신 이름을 모르고 당신도 내 이름을 모르고\n근데 당신은 내가 뭘 사는지 다 안다\n그게 이상하게 공평하지가 않아서, 아직도 쪽지를 쓴다\n\n[Outro - band cuts]\n오늘도 문 앞\n벨은 안 울렸다\n[Song ends abruptly]"
+  },
+  "seed": "3130741196",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.84s**\n- 50.84s per song\n- LM phase (1 song): 10.16s\n- DiT phase (1 song): 40.68s",
+  "task_id": "32703338-2b22-4da7-86c2-aa7c00a6652d",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-10-06T11:02:23.572019+08:00",
+  "audio": "b4_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 12.28,
+      "end": 12.28,
+      "text": "[Intro - angular bass and dry drums]"
+    },
+    {
+      "t": 12.28,
+      "end": 12.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 12.28,
+      "end": 16.74,
+      "text": "포스트잇 한 장, 현관문에 붙였다"
+    },
+    {
+      "t": 18.4,
+      "end": 24.68,
+      "text": "\"문 앞에 두고 가세요, 벨 안 눌러도 됩니다, 감사합니다\""
+    },
+    {
+      "t": 25.92,
+      "end": 29.5,
+      "text": "세 줄 쓰는 데 십 분 걸렸다"
+    },
+    {
+      "t": 30.36,
+      "end": 36.24,
+      "text": "마지막 줄을 쓸까 말까 두 번 고민했다"
+    },
+    {
+      "t": 39.54,
+      "end": 39.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.54,
+      "end": 42.54,
+      "text": "얼굴을 본 적이 없다"
+    },
+    {
+      "t": 45.72,
+      "end": 48.89,
+      "text": "근데 매주 두 번은 온다"
+    },
+    {
+      "t": 51.69,
+      "end": 51.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.69,
+      "end": 53.23,
+      "text": "택배 기사님께"
+    },
+    {
+      "t": 53.47,
+      "end": 61.33,
+      "text": "나는 당신 이름을 모르고 당신도 내 이름을 모르고"
+    },
+    {
+      "t": 64.33,
+      "end": 67.83,
+      "text": "근데 당신은 내가 뭘 사는지 다 안다"
+    },
+    {
+      "t": 69.47,
+      "end": 74.71,
+      "text": "그게 이상하게 공평하지가 않아서, 쪽지를 썼다"
+    },
+    {
+      "t": 77.33,
+      "end": 77.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.33,
+      "end": 94.99,
+      "text": "다음 날 상자 위에 포스트잇이 하나 더 있었다"
+    },
+    {
+      "t": 95.45,
+      "end": 97.77,
+      "text": "\"네, 감사합니다\" 끝, 다섯 글자"
+    },
+    {
+      "t": 97.85,
+      "end": 100.99,
+      "text": "나는 그걸 떼서 냉장고에 붙였다"
+    },
+    {
+      "t": 102.59,
+      "end": 104.35,
+      "text": "삼 주째 거기 있다"
+    },
+    {
+      "t": 109.83,
+      "end": 109.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.83,
+      "end": 119.69,
+      "text": "택배 기사님께"
+    },
+    {
+      "t": 119.71,
+      "end": 139.07,
+      "text": "나는 당신 이름을 모르고 당신도 내 이름을 모르고"
+    },
+    {
+      "t": 143.68,
+      "end": 152.1,
+      "text": "근데 당신은 내가 뭘 사는지 다 안다"
+    },
+    {
+      "t": 152.28,
+      "end": 172.22,
+      "text": "그게 이상하게 공평하지가 않아서, 아직도 쪽지를 쓴다"
+    },
+    {
+      "t": 172.22,
+      "end": 172.22,
+      "text": "[Outro - band cuts]"
+    },
+    {
+      "t": 172.22,
+      "end": 175.32,
+      "text": "오늘도 문 앞"
+    },
+    {
+      "t": 178.44,
+      "end": 183.04,
+      "text": "벨은 안 울렸다"
+    },
+    {
+      "t": 183.04,
+      "end": 183.04,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "b4_ms04",
+  "title": "Duit Raya",
+  "title_source": "scripted",
+  "genre": "Malay funk with horns",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "promoted without a raise",
+  "persona": "",
+  "subject": "the year you start handing out the green envelopes instead of receiving them",
+  "caption": "Malay funk cut with a live band. Three-piece horn section playing tight stabs and sitting slightly behind the beat, clavinet comping through a phaser, fat round electric bass carrying the groove with a percussive attack, drum kit played loose with the hi-hat half open, electric guitar scratching sixteenths. Warm analogue funk with tape saturation, horns a touch dark, nothing bright or clinical. Male voice, wry and conversational with light grit, backing vocals answering on the chorus. 104 BPM, E flat major. Promoted without a raise. No synth pad, no programmed drums, no autotune, no ballad section, no key change.",
+  "lyrics": "[Intro - horn section and clavinet]\n\n[Verse 1]\nSampul hijau, tiga puluh keping, aku kira dalam bilik\nTahun ni aku yang bagi, bukan aku yang terima\nTak ada orang umumkan pertukaran ni\nSatu tahun kau budak, tahun depan kau \"abang\"\n\n[Chorus]\nDuit raya\nLima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah\nMereka ambil, cakap terima kasih, terus lari\nDan aku berdiri kat situ macam orang baru naik pangkat tapi tak naik gaji\n\n[Verse 2]\nSepupu aku yang paling kecil tanya \"abang kerja apa?\"\nAku jawab panjang, dia dah lari separuh jalan\nBetul juga dia. Jawapan tu memang tak penting.\nYang penting sampul tu, dan dia dah dapat\n\n[Chorus]\nDuit raya\nLima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah\nMereka ambil, cakap terima kasih, terus lari\nDan aku berdiri kat situ, senyum, macam orang tua yang aku dulu gelakkan\n\n[Bridge - bass and horns]\nMak aku masih bagi aku sampul\nAku dah tiga puluh dua\nAku ambil. Aku ambil tiap-tiap tahun.\n\n[Outro - horns, cut]\nSampul tu aku simpan\nTak buka pun",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Malay funk cut with a live band. Three-piece horn section playing tight stabs and sitting slightly behind the beat, clavinet comping through a phaser, fat round electric bass carrying the groove with a percussive attack, drum kit played loose with the hi-hat half open, electric guitar scratching sixteenths. Warm analogue funk with tape saturation, horns a touch dark, nothing bright or clinical. Male voice, wry and conversational with light grit, backing vocals answering on the chorus. 104 BPM, E flat major. Promoted without a raise. No synth pad, no programmed drums, no autotune, no ballad section, no key change.",
+    "lyrics": "[Intro - horn section and clavinet]\n\n[Verse 1]\nSampul hijau, tiga puluh keping, aku kira dalam bilik\nTahun ni aku yang bagi, bukan aku yang terima\nTak ada orang umumkan pertukaran ni\nSatu tahun kau budak, tahun depan kau \"abang\"\n\n[Chorus]\nDuit raya\nLima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah\nMereka ambil, cakap terima kasih, terus lari\nDan aku berdiri kat situ macam orang baru naik pangkat tapi tak naik gaji\n\n[Verse 2]\nSepupu aku yang paling kecil tanya \"abang kerja apa?\"\nAku jawab panjang, dia dah lari separuh jalan\nBetul juga dia. Jawapan tu memang tak penting.\nYang penting sampul tu, dan dia dah dapat\n\n[Chorus]\nDuit raya\nLima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah\nMereka ambil, cakap terima kasih, terus lari\nDan aku berdiri kat situ, senyum, macam orang tua yang aku dulu gelakkan\n\n[Bridge - bass and horns]\nMak aku masih bagi aku sampul\nAku dah tiga puluh dua\nAku ambil. Aku ambil tiap-tiap tahun.\n\n[Outro - horns, cut]\nSampul tu aku simpan\nTak buka pun"
+  },
+  "seed": "2112168337",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.99s**\n- 56.99s per song\n- LM phase (1 song): 9.70s\n- DiT phase (1 song): 47.29s",
+  "task_id": "18451eac-0cfe-4af8-bd27-d988b2e3cc8c",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-06T11:09:08.657866+08:00",
+  "audio": "b4_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.84,
+      "end": 24.84,
+      "text": "[Intro - horn section and clavinet]"
+    },
+    {
+      "t": 24.84,
+      "end": 24.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.84,
+      "end": 33.78,
+      "text": "Sampul hijau, tiga puluh keping, aku kira dalam bilik"
+    },
+    {
+      "t": 34.12,
+      "end": 41.18,
+      "text": "Tahun ni aku yang bagi, bukan aku yang terima"
+    },
+    {
+      "t": 43.04,
+      "end": 50.13,
+      "text": "Tak ada orang umumkan pertukaran ni"
+    },
+    {
+      "t": 52.27,
+      "end": 59.79,
+      "text": "Satu tahun kau budak, tahun depan kau \"abang\""
+    },
+    {
+      "t": 60.97,
+      "end": 60.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.97,
+      "end": 61.99,
+      "text": "Duit raya"
+    },
+    {
+      "t": 63.17,
+      "end": 69.39,
+      "text": "Lima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah"
+    },
+    {
+      "t": 70.21,
+      "end": 74.13,
+      "text": "Mereka ambil, cakap terima kasih, terus lari"
+    },
+    {
+      "t": 74.83,
+      "end": 83.15,
+      "text": "Dan aku berdiri kat situ macam orang baru naik pangkat tapi tak naik gaji"
+    },
+    {
+      "t": 84.01,
+      "end": 84.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.01,
+      "end": 90.09,
+      "text": "Sepupu aku yang paling kecil tanya \"abang kerja apa?\""
+    },
+    {
+      "t": 91.51,
+      "end": 97.23,
+      "text": "Aku jawab panjang, dia dah lari separuh jalan"
+    },
+    {
+      "t": 100.49,
+      "end": 106.87,
+      "text": "Betul juga dia. Jawapan tu memang tak penting."
+    },
+    {
+      "t": 109.69,
+      "end": 115.87,
+      "text": "Yang penting sampul tu, dan dia dah dapat"
+    },
+    {
+      "t": 115.87,
+      "end": 115.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.87,
+      "end": 117.41,
+      "text": "Duit raya"
+    },
+    {
+      "t": 117.41,
+      "end": 122.57,
+      "text": "Lima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah"
+    },
+    {
+      "t": 122.95,
+      "end": 125.63,
+      "text": "Mereka ambil, cakap terima kasih, terus lari"
+    },
+    {
+      "t": 128.15,
+      "end": 137.51,
+      "text": "Dan aku berdiri kat situ, senyum, macam orang tua yang aku dulu gelakkan"
+    },
+    {
+      "t": 148.05,
+      "end": 148.05,
+      "text": "[Bridge - bass and horns]"
+    },
+    {
+      "t": 148.05,
+      "end": 151.66,
+      "text": "Mak aku masih bagi aku sampul"
+    },
+    {
+      "t": 151.76,
+      "end": 155.4,
+      "text": "Aku dah tiga puluh dua"
+    },
+    {
+      "t": 156.24,
+      "end": 164.44,
+      "text": "Aku ambil. Aku ambil tiap-tiap tahun."
+    },
+    {
+      "t": 166.02,
+      "end": 166.02,
+      "text": "[Outro - horns, cut]"
+    },
+    {
+      "t": 166.02,
+      "end": 170.6,
+      "text": "Sampul tu aku simpan"
+    },
+    {
+      "t": 171.22,
+      "end": 173.4,
+      "text": "Tak buka pun"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}
