@@ -30,6 +30,252 @@
   "audio": "b5_ms02.mp3",
   "lyrics_timed": [
     {
+      "t": 32.48,
+      "end": 32.48,
+      "text": "[Intro - organ and fuzz guitar]"
+    },
+    {
+      "t": 32.48,
+      "end": 32.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.48,
+      "end": 43.92,
+      "text": "Gambar studio, tahun tujuh puluh lapan, latar langsir biru"
+    },
+    {
+      "t": 46.26,
+      "end": 54.17,
+      "text": "Mak pakai kebaya, ayah pakai kemeja, rambut ayah masih penuh"
+    },
+    {
+      "t": 56.95,
+      "end": 67.87,
+      "text": "Dua-dua tak senyum, sebab jurugambar suruh diam"
+    },
+    {
+      "t": 69.63,
+      "end": 77.63,
+      "text": "Diam lama sangat, sampai gambar tu jadi muka mereka untuk aku"
+    },
+    {
+      "t": 79.83,
+      "end": 79.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.83,
+      "end": 84.29,
+      "text": "Aku cari diri aku dalam gambar tu"
+    },
+    {
+      "t": 86.13,
+      "end": 89.11,
+      "text": "Aku belum ada lagi, aku cuma satu rancangan"
+    },
+    {
+      "t": 89.11,
+      "end": 90.51,
+      "text": "Mak dah tahu nama aku masa tu"
+    },
+    {
+      "t": 91.09,
+      "end": 99.73,
+      "text": "Dia cerita lepas tu, dia simpan dalam kepala"
+    },
+    {
+      "t": 99.91,
+      "end": 99.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.91,
+      "end": 115.79,
+      "text": "Bingkai tu dah retak, kaca dia dah kuning"
+    },
+    {
+      "t": 115.81,
+      "end": 121.51,
+      "text": "Aku bawa ke kedai, orang tu kata boleh baiki"
+    },
+    {
+      "t": 121.51,
+      "end": 126.85,
+      "text": "Aku tak baiki, aku beli bingkai lain"
+    },
+    {
+      "t": 129.61,
+      "end": 155.75,
+      "text": "Retak tu aku nak simpan, tu pun sejarah"
+    },
+    {
+      "t": 155.77,
+      "end": 155.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 155.77,
+      "end": 160.94,
+      "text": "Aku cari diri aku dalam gambar tu"
+    },
+    {
+      "t": 160.94,
+      "end": 174.42,
+      "text": "Aku belum ada lagi, aku cuma satu rancangan"
+    },
+    {
+      "t": 174.42,
+      "end": 177.18,
+      "text": "Mak dah tahu nama aku masa tu"
+    },
+    {
+      "t": 182.34,
+      "end": 194.58,
+      "text": "Dan sekarang aku tahu kenapa ayah tak senyum, dia takut"
+    },
+    {
+      "t": 194.68,
+      "end": 194.68,
+      "text": "[Outro - organ, fading]"
+    },
+    {
+      "t": 194.68,
+      "end": 197.02,
+      "text": "Langsir biru tu"
+    },
+    {
+      "t": 199.72,
+      "end": 202.82,
+      "text": "Mak masih simpan"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.48,
+      "end": 32.48,
+      "text": "[Intro - organ and fuzz guitar]"
+    },
+    {
+      "t": 32.48,
+      "end": 32.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.48,
+      "end": 43.92,
+      "text": "Gambar studio, tahun tujuh puluh lapan, latar langsir biru"
+    },
+    {
+      "t": 46.26,
+      "end": 54.17,
+      "text": "Mak pakai kebaya, ayah pakai kemeja, rambut ayah masih penuh"
+    },
+    {
+      "t": 56.95,
+      "end": 67.87,
+      "text": "Dua-dua tak senyum, sebab jurugambar suruh diam"
+    },
+    {
+      "t": 69.63,
+      "end": 77.63,
+      "text": "Diam lama sangat, sampai gambar tu jadi muka mereka untuk aku"
+    },
+    {
+      "t": 79.83,
+      "end": 79.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.83,
+      "end": 84.29,
+      "text": "Aku cari diri aku dalam gambar tu"
+    },
+    {
+      "t": 86.13,
+      "end": 89.11,
+      "text": "Aku belum ada lagi, aku cuma satu rancangan"
+    },
+    {
+      "t": 89.11,
+      "end": 90.51,
+      "text": "Mak dah tahu nama aku masa tu"
+    },
+    {
+      "t": 91.09,
+      "end": 99.73,
+      "text": "Dia cerita lepas tu, dia simpan dalam kepala"
+    },
+    {
+      "t": 99.91,
+      "end": 99.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.91,
+      "end": 115.79,
+      "text": "Bingkai tu dah retak, kaca dia dah kuning"
+    },
+    {
+      "t": 115.81,
+      "end": 121.51,
+      "text": "Aku bawa ke kedai, orang tu kata boleh baiki"
+    },
+    {
+      "t": 121.51,
+      "end": 126.85,
+      "text": "Aku tak baiki, aku beli bingkai lain"
+    },
+    {
+      "t": 129.61,
+      "end": 155.75,
+      "text": "Retak tu aku nak simpan, tu pun sejarah"
+    },
+    {
+      "t": 155.77,
+      "end": 155.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 155.77,
+      "end": 160.94,
+      "text": "Aku cari diri aku dalam gambar tu"
+    },
+    {
+      "t": 160.94,
+      "end": 174.42,
+      "text": "Aku belum ada lagi, aku cuma satu rancangan"
+    },
+    {
+      "t": 174.42,
+      "end": 177.18,
+      "text": "Mak dah tahu nama aku masa tu"
+    },
+    {
+      "t": 182.34,
+      "end": 194.58,
+      "text": "Dan sekarang aku tahu kenapa ayah tak senyum, dia takut"
+    },
+    {
+      "t": 194.68,
+      "end": 194.68,
+      "text": "[Outro - organ, fading]"
+    },
+    {
+      "t": 194.68,
+      "end": 197.02,
+      "text": "Langsir biru tu"
+    },
+    {
+      "t": 199.72,
+      "end": 202.82,
+      "text": "Mak masih simpan"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
       "t": 32.5,
       "end": 32.5,
       "text": "[Intro - organ and fuzz guitar]"
@@ -149,6 +395,5 @@
       "end": 202.88,
       "text": "Mak masih simpan"
     }
-  ],
-  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  ]
 }

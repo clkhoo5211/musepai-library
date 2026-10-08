@@ -30,6 +30,252 @@
   "audio": "b5_vi05.mp3",
   "lyrics_timed": [
     {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Intro - reverse-reverb guitar wall]"
+    },
+    {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.24,
+      "end": 42.52,
+      "text": "Tháng hai Hà Nội, sàn nhà đổ mồ hôi, tường đổ mồ hôi"
+    },
+    {
+      "t": 48.04,
+      "end": 55.7,
+      "text": "Quần áo phơi ba ngày, vẫn ẩm, vẫn có mùi"
+    },
+    {
+      "t": 55.78,
+      "end": 63.51,
+      "text": "Mẹ bật quạt, bật máy sấy, mẹ ủi từng cái áo cho khô"
+    },
+    {
+      "t": 64.53,
+      "end": 69.13,
+      "text": "Cả nhà mặc đồ ấm hơi, như vừa ra khỏi lò"
+    },
+    {
+      "t": 73.83,
+      "end": 73.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.83,
+      "end": 74.57,
+      "text": "Mùa nồm"
+    },
+    {
+      "t": 75.79,
+      "end": 79.95,
+      "text": "Không có gì khô, kể cả nước mắt"
+    },
+    {
+      "t": 84.01,
+      "end": 86.67,
+      "text": "Tôi nằm trên giường, chăn ẩm, tôi không ngủ được"
+    },
+    {
+      "t": 86.75,
+      "end": 90.97,
+      "text": "Tôi nhớ một người, và cái nhớ đó cũng không khô"
+    },
+    {
+      "t": 95.59,
+      "end": 95.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.59,
+      "end": 101.53,
+      "text": "Cửa sổ mờ, tôi lấy ngón tay viết một chữ"
+    },
+    {
+      "t": 106.15,
+      "end": 109.05,
+      "text": "Viết xong tôi xóa, nó lại mờ, nó lại hiện"
+    },
+    {
+      "t": 109.05,
+      "end": 111.77,
+      "text": "Tôi viết lại, xóa lại, ba lần"
+    },
+    {
+      "t": 111.97,
+      "end": 116.73,
+      "text": "Cái chữ đó cứng đầu hơn tôi"
+    },
+    {
+      "t": 117.77,
+      "end": 117.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.77,
+      "end": 118.71,
+      "text": "Mùa nồm"
+    },
+    {
+      "t": 119.77,
+      "end": 123.91,
+      "text": "Không có gì khô, kể cả nước mắt"
+    },
+    {
+      "t": 127.97,
+      "end": 135.85,
+      "text": "Tôi nằm trên giường, chăn ẩm, tôi không ngủ được"
+    },
+    {
+      "t": 171.18,
+      "end": 197.0,
+      "text": "Tôi chờ nắng, nắng chưa về, người cũng chưa"
+    },
+    {
+      "t": 199.68,
+      "end": 199.68,
+      "text": "[Outro - guitar wall, fading]"
+    },
+    {
+      "t": 199.68,
+      "end": 213.64,
+      "text": "Tuần sau trời hanh"
+    },
+    {
+      "t": 213.64,
+      "end": 215.88,
+      "text": "Tôi sẽ phơi hết"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Intro - reverse-reverb guitar wall]"
+    },
+    {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.24,
+      "end": 42.52,
+      "text": "Tháng hai Hà Nội, sàn nhà đổ mồ hôi, tường đổ mồ hôi"
+    },
+    {
+      "t": 48.04,
+      "end": 55.7,
+      "text": "Quần áo phơi ba ngày, vẫn ẩm, vẫn có mùi"
+    },
+    {
+      "t": 55.78,
+      "end": 63.51,
+      "text": "Mẹ bật quạt, bật máy sấy, mẹ ủi từng cái áo cho khô"
+    },
+    {
+      "t": 64.53,
+      "end": 69.13,
+      "text": "Cả nhà mặc đồ ấm hơi, như vừa ra khỏi lò"
+    },
+    {
+      "t": 73.83,
+      "end": 73.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.83,
+      "end": 74.57,
+      "text": "Mùa nồm"
+    },
+    {
+      "t": 75.79,
+      "end": 79.95,
+      "text": "Không có gì khô, kể cả nước mắt"
+    },
+    {
+      "t": 84.01,
+      "end": 86.67,
+      "text": "Tôi nằm trên giường, chăn ẩm, tôi không ngủ được"
+    },
+    {
+      "t": 86.75,
+      "end": 90.97,
+      "text": "Tôi nhớ một người, và cái nhớ đó cũng không khô"
+    },
+    {
+      "t": 95.59,
+      "end": 95.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.59,
+      "end": 101.53,
+      "text": "Cửa sổ mờ, tôi lấy ngón tay viết một chữ"
+    },
+    {
+      "t": 106.15,
+      "end": 109.05,
+      "text": "Viết xong tôi xóa, nó lại mờ, nó lại hiện"
+    },
+    {
+      "t": 109.05,
+      "end": 111.77,
+      "text": "Tôi viết lại, xóa lại, ba lần"
+    },
+    {
+      "t": 111.97,
+      "end": 116.73,
+      "text": "Cái chữ đó cứng đầu hơn tôi"
+    },
+    {
+      "t": 117.77,
+      "end": 117.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.77,
+      "end": 118.71,
+      "text": "Mùa nồm"
+    },
+    {
+      "t": 119.77,
+      "end": 123.91,
+      "text": "Không có gì khô, kể cả nước mắt"
+    },
+    {
+      "t": 127.97,
+      "end": 135.85,
+      "text": "Tôi nằm trên giường, chăn ẩm, tôi không ngủ được"
+    },
+    {
+      "t": 171.18,
+      "end": 197.0,
+      "text": "Tôi chờ nắng, nắng chưa về, người cũng chưa"
+    },
+    {
+      "t": 199.68,
+      "end": 199.68,
+      "text": "[Outro - guitar wall, fading]"
+    },
+    {
+      "t": 199.68,
+      "end": 213.64,
+      "text": "Tuần sau trời hanh"
+    },
+    {
+      "t": 213.64,
+      "end": 215.88,
+      "text": "Tôi sẽ phơi hết"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
       "t": 37.26,
       "end": 37.26,
       "text": "[Intro - reverse-reverb guitar wall]"
@@ -149,6 +395,5 @@
       "end": 203.76,
       "text": "Tôi sẽ phơi hết"
     }
-  ],
-  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  ]
 }
