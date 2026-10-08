@@ -33,6 +33,282 @@
    "audio": "b4_en01.mp3",
    "lyrics_timed": [
     {
+     "t": 38.5,
+     "end": 38.5,
+     "text": "[Intro - pedal steel and brushed snare]"
+    },
+    {
+     "t": 38.5,
+     "end": 38.5,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 38.5,
+     "end": 42.88,
+     "text": "Fourteen years that thing hung on her porch"
+    },
+    {
+     "t": 42.88,
+     "end": 47.04,
+     "text": "Cheap aluminum, four tubes, one of them too short"
+    },
+    {
+     "t": 47.04,
+     "end": 51.0,
+     "text": "I counted every night I couldn't sleep through it"
+    },
+    {
+     "t": 54.4,
+     "end": 58.31,
+     "text": "I had a whole speech ready. Never gave it."
+    },
+    {
+     "t": 62.19,
+     "end": 62.19,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 62.19,
+     "end": 66.81,
+     "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+     "t": 66.87,
+     "end": 69.27,
+     "text": "And I stand at my window like an idiot, waiting"
+    },
+    {
+     "t": 69.27,
+     "end": 70.25,
+     "text": "I didn't know I had memorized it"
+    },
+    {
+     "t": 70.27,
+     "end": 77.59,
+     "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+     "t": 77.73,
+     "end": 77.73,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 77.73,
+     "end": 83.49,
+     "text": "Her son came with a truck on a Tuesday"
+    },
+    {
+     "t": 83.83,
+     "end": 88.03,
+     "text": "Took the chairs, the pots, the chime. The hook stayed."
+    },
+    {
+     "t": 88.03,
+     "end": 93.15,
+     "text": "He waved at me. I waved back. That's the most we ever did."
+    },
+    {
+     "t": 93.25,
+     "end": 116.33,
+     "text": "Fourteen years of a sound and I never learned her last name"
+    },
+    {
+     "t": 116.33,
+     "end": 116.33,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 116.33,
+     "end": 121.81,
+     "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+     "t": 121.83,
+     "end": 129.89,
+     "text": "And I stand at my window like an idiot, listening"
+    },
+    {
+     "t": 129.97,
+     "end": 134.33,
+     "text": "I didn't know I had memorized it"
+    },
+    {
+     "t": 134.35,
+     "end": 156.79,
+     "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+     "t": 158.97,
+     "end": 158.97,
+     "text": "[Bridge - pedal steel alone]"
+    },
+    {
+     "t": 158.97,
+     "end": 163.71,
+     "text": "I bought one. Hung it on my own porch."
+    },
+    {
+     "t": 164.25,
+     "end": 165.87,
+     "text": "Wrong pitch. Course it is."
+    },
+    {
+     "t": 165.87,
+     "end": 165.87,
+     "text": "[Outro - pedal steel, fading]"
+    },
+    {
+     "t": 165.87,
+     "end": 201.74,
+     "text": "Four tubes, one of them too short"
+    },
+    {
+     "t": 201.84,
+     "end": 213.18,
+     "text": "I'll leave it up"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 38.5,
+     "end": 38.5,
+     "text": "[Intro - pedal steel and brushed snare]"
+    },
+    {
+     "t": 38.5,
+     "end": 38.5,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 38.5,
+     "end": 42.88,
+     "text": "Fourteen years that thing hung on her porch"
+    },
+    {
+     "t": 42.88,
+     "end": 47.04,
+     "text": "Cheap aluminum, four tubes, one of them too short"
+    },
+    {
+     "t": 47.04,
+     "end": 51.0,
+     "text": "I counted every night I couldn't sleep through it"
+    },
+    {
+     "t": 54.4,
+     "end": 58.31,
+     "text": "I had a whole speech ready. Never gave it."
+    },
+    {
+     "t": 62.19,
+     "end": 62.19,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 62.19,
+     "end": 66.81,
+     "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+     "t": 66.87,
+     "end": 69.27,
+     "text": "And I stand at my window like an idiot, waiting"
+    },
+    {
+     "t": 69.27,
+     "end": 70.25,
+     "text": "I didn't know I had memorized it"
+    },
+    {
+     "t": 70.27,
+     "end": 77.59,
+     "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+     "t": 77.73,
+     "end": 77.73,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 77.73,
+     "end": 83.49,
+     "text": "Her son came with a truck on a Tuesday"
+    },
+    {
+     "t": 83.83,
+     "end": 88.03,
+     "text": "Took the chairs, the pots, the chime. The hook stayed."
+    },
+    {
+     "t": 88.03,
+     "end": 93.15,
+     "text": "He waved at me. I waved back. That's the most we ever did."
+    },
+    {
+     "t": 93.25,
+     "end": 116.33,
+     "text": "Fourteen years of a sound and I never learned her last name"
+    },
+    {
+     "t": 116.33,
+     "end": 116.33,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 116.33,
+     "end": 121.81,
+     "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+     "t": 121.83,
+     "end": 129.89,
+     "text": "And I stand at my window like an idiot, listening"
+    },
+    {
+     "t": 129.97,
+     "end": 134.33,
+     "text": "I didn't know I had memorized it"
+    },
+    {
+     "t": 134.35,
+     "end": 156.79,
+     "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+     "t": 158.97,
+     "end": 158.97,
+     "text": "[Bridge - pedal steel alone]"
+    },
+    {
+     "t": 158.97,
+     "end": 163.71,
+     "text": "I bought one. Hung it on my own porch."
+    },
+    {
+     "t": 164.25,
+     "end": 165.87,
+     "text": "Wrong pitch. Course it is."
+    },
+    {
+     "t": 165.87,
+     "end": 165.87,
+     "text": "[Outro - pedal steel, fading]"
+    },
+    {
+     "t": 165.87,
+     "end": 201.74,
+     "text": "Four tubes, one of them too short"
+    },
+    {
+     "t": 201.84,
+     "end": 213.18,
+     "text": "I'll leave it up"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
+    {
      "t": 9.4,
      "end": 9.4,
      "text": "[Intro - pedal steel and brushed snare]"
@@ -167,8 +443,7 @@
      "end": 186.58,
      "text": "I'll leave it up"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_en02",
@@ -201,6 +476,282 @@
    "generated_at": "2026-10-06T11:33:18.277124+08:00",
    "audio": "b4_en02.mp3",
    "lyrics_timed": [
+    {
+     "t": 28.66,
+     "end": 28.66,
+     "text": "[Intro - Wurlitzer and upright piano]"
+    },
+    {
+     "t": 28.66,
+     "end": 28.66,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 28.66,
+     "end": 34.44,
+     "text": "Index card, grease spot on the corner, blue ink gone brown"
+    },
+    {
+     "t": 37.66,
+     "end": 41.22,
+     "text": "\"Oven hot. Don't open it. You'll know.\""
+    },
+    {
+     "t": 44.44,
+     "end": 48.28,
+     "text": "That is the whole instruction. That is the whole recipe."
+    },
+    {
+     "t": 48.28,
+     "end": 56.87,
+     "text": "She wrote it for herself. She never wrote it for me."
+    },
+    {
+     "t": 57.85,
+     "end": 57.85,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 57.85,
+     "end": 61.63,
+     "text": "Her sevens have a line through them"
+    },
+    {
+     "t": 61.63,
+     "end": 62.57,
+     "text": "Her g's don't close"
+    },
+    {
+     "t": 62.63,
+     "end": 62.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 62.63,
+     "end": 66.51,
+     "text": "I'm learning my mother's handwriting at thirty-eight"
+    },
+    {
+     "t": 66.63,
+     "end": 75.31,
+     "text": "Like a language I heard my whole life and never spoke"
+    },
+    {
+     "t": 76.81,
+     "end": 83.71,
+     "text": "Every card is a sentence she only had to half-finish"
+    },
+    {
+     "t": 85.11,
+     "end": 90.65,
+     "text": "Because she was always going to be there to say the rest"
+    },
+    {
+     "t": 93.17,
+     "end": 93.17,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 93.17,
+     "end": 97.83,
+     "text": "There's one that just says \"the good pan\""
+    },
+    {
+     "t": 97.93,
+     "end": 100.25,
+     "text": "I do not know which one is the good pan"
+    },
+    {
+     "t": 101.19,
+     "end": 105.67,
+     "text": "I have eleven pans and I have tried nine of them"
+    },
+    {
+     "t": 105.67,
+     "end": 126.73,
+     "text": "I am not going to find it, and I am going to keep trying"
+    },
+    {
+     "t": 127.59,
+     "end": 127.59,
+     "text": "[Chorus - strings enter]"
+    },
+    {
+     "t": 127.59,
+     "end": 134.91,
+     "text": "I'm learning my mother's handwriting at thirty-eight"
+    },
+    {
+     "t": 134.95,
+     "end": 141.77,
+     "text": "Like a language I heard my whole life and never spoke"
+    },
+    {
+     "t": 175.5,
+     "end": 184.9,
+     "text": "Every card is a sentence she only had to half-finish"
+    },
+    {
+     "t": 185.5,
+     "end": 192.5,
+     "text": "Because she was always going to be there to say the rest to me"
+    },
+    {
+     "t": 197.74,
+     "end": 197.74,
+     "text": "[Outro - Wurlitzer, fading]"
+    },
+    {
+     "t": 197.74,
+     "end": 203.22,
+     "text": "Oven hot. Don't open it."
+    },
+    {
+     "t": 203.28,
+     "end": 203.76,
+     "text": "I'll know."
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 28.66,
+     "end": 28.66,
+     "text": "[Intro - Wurlitzer and upright piano]"
+    },
+    {
+     "t": 28.66,
+     "end": 28.66,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 28.66,
+     "end": 34.44,
+     "text": "Index card, grease spot on the corner, blue ink gone brown"
+    },
+    {
+     "t": 37.66,
+     "end": 41.22,
+     "text": "\"Oven hot. Don't open it. You'll know.\""
+    },
+    {
+     "t": 44.44,
+     "end": 48.28,
+     "text": "That is the whole instruction. That is the whole recipe."
+    },
+    {
+     "t": 48.28,
+     "end": 56.87,
+     "text": "She wrote it for herself. She never wrote it for me."
+    },
+    {
+     "t": 57.85,
+     "end": 57.85,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 57.85,
+     "end": 61.63,
+     "text": "Her sevens have a line through them"
+    },
+    {
+     "t": 61.63,
+     "end": 62.57,
+     "text": "Her g's don't close"
+    },
+    {
+     "t": 62.63,
+     "end": 62.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 62.63,
+     "end": 66.51,
+     "text": "I'm learning my mother's handwriting at thirty-eight"
+    },
+    {
+     "t": 66.63,
+     "end": 75.31,
+     "text": "Like a language I heard my whole life and never spoke"
+    },
+    {
+     "t": 76.81,
+     "end": 83.71,
+     "text": "Every card is a sentence she only had to half-finish"
+    },
+    {
+     "t": 85.11,
+     "end": 90.65,
+     "text": "Because she was always going to be there to say the rest"
+    },
+    {
+     "t": 93.17,
+     "end": 93.17,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 93.17,
+     "end": 97.83,
+     "text": "There's one that just says \"the good pan\""
+    },
+    {
+     "t": 97.93,
+     "end": 100.25,
+     "text": "I do not know which one is the good pan"
+    },
+    {
+     "t": 101.19,
+     "end": 105.67,
+     "text": "I have eleven pans and I have tried nine of them"
+    },
+    {
+     "t": 105.67,
+     "end": 126.73,
+     "text": "I am not going to find it, and I am going to keep trying"
+    },
+    {
+     "t": 127.59,
+     "end": 127.59,
+     "text": "[Chorus - strings enter]"
+    },
+    {
+     "t": 127.59,
+     "end": 134.91,
+     "text": "I'm learning my mother's handwriting at thirty-eight"
+    },
+    {
+     "t": 134.95,
+     "end": 141.77,
+     "text": "Like a language I heard my whole life and never spoke"
+    },
+    {
+     "t": 175.5,
+     "end": 184.9,
+     "text": "Every card is a sentence she only had to half-finish"
+    },
+    {
+     "t": 185.5,
+     "end": 192.5,
+     "text": "Because she was always going to be there to say the rest to me"
+    },
+    {
+     "t": 197.74,
+     "end": 197.74,
+     "text": "[Outro - Wurlitzer, fading]"
+    },
+    {
+     "t": 197.74,
+     "end": 203.22,
+     "text": "Oven hot. Don't open it."
+    },
+    {
+     "t": 203.28,
+     "end": 203.76,
+     "text": "I'll know."
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 28.66,
      "end": 28.66,
@@ -336,8 +887,7 @@
      "end": 203.76,
      "text": "I'll know."
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_en03",
@@ -370,6 +920,282 @@
    "generated_at": "2026-10-06T11:34:38.405968+08:00",
    "audio": "b4_en03.mp3",
    "lyrics_timed": [
+    {
+     "t": 20.56,
+     "end": 20.56,
+     "text": "[Intro - sub bass and shimmer pad]"
+    },
+    {
+     "t": 20.56,
+     "end": 20.56,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 20.56,
+     "end": 24.1,
+     "text": "Seven in the morning, doors open before the stores do"
+    },
+    {
+     "t": 25.9,
+     "end": 38.86,
+     "text": "Terrazzo floor, one lap is a quarter mile, there's a sign that says so"
+    },
+    {
+     "t": 38.9,
+     "end": 45.52,
+     "text": "Nine of them in windbreakers, same loop, same order every day"
+    },
+    {
+     "t": 49.46,
+     "end": 53.6,
+     "text": "And me, thirty-one, in last night's shirt"
+    },
+    {
+     "t": 53.6,
+     "end": 53.6,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 53.6,
+     "end": 63.57,
+     "text": "Mall walkers"
+    },
+    {
+     "t": 63.97,
+     "end": 72.63,
+     "text": "They have been doing this since before I could drive"
+    },
+    {
+     "t": 75.85,
+     "end": 80.87,
+     "text": "Gloria has had two knees replaced and she laps me"
+    },
+    {
+     "t": 82.15,
+     "end": 86.37,
+     "text": "Nobody here asks what I do for a living"
+    },
+    {
+     "t": 99.43,
+     "end": 99.43,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 99.43,
+     "end": 103.15,
+     "text": "Frank brings the coffee. Bad coffee. Everybody takes it."
+    },
+    {
+     "t": 103.17,
+     "end": 107.31,
+     "text": "They have opinions about the fountain. Strong ones."
+    },
+    {
+     "t": 107.41,
+     "end": 112.33,
+     "text": "I came because my gym closed and I didn't want to go home"
+    },
+    {
+     "t": 112.35,
+     "end": 119.07,
+     "text": "I stayed because somebody said \"you're back\" on the fourth day"
+    },
+    {
+     "t": 121.55,
+     "end": 121.55,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 121.55,
+     "end": 122.05,
+     "text": "Mall walkers"
+    },
+    {
+     "t": 122.05,
+     "end": 128.25,
+     "text": "They have been doing this since before I could drive"
+    },
+    {
+     "t": 128.27,
+     "end": 133.79,
+     "text": "Gloria has had two knees replaced and she still laps me"
+    },
+    {
+     "t": 133.79,
+     "end": 141.49,
+     "text": "Nobody here has ever once asked what I do for a living"
+    },
+    {
+     "t": 164.48,
+     "end": 164.48,
+     "text": "[Bridge - pad only]"
+    },
+    {
+     "t": 164.48,
+     "end": 172.7,
+     "text": "The stores open at ten and we scatter"
+    },
+    {
+     "t": 172.7,
+     "end": 198.48,
+     "text": "Like we weren't anything"
+    },
+    {
+     "t": 198.48,
+     "end": 198.48,
+     "text": "[Outro - sub bass, fading]"
+    },
+    {
+     "t": 198.48,
+     "end": 201.74,
+     "text": "Quarter mile. Sign says so."
+    },
+    {
+     "t": 206.04,
+     "end": 207.6,
+     "text": "Tomorrow, seven."
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 20.56,
+     "end": 20.56,
+     "text": "[Intro - sub bass and shimmer pad]"
+    },
+    {
+     "t": 20.56,
+     "end": 20.56,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 20.56,
+     "end": 24.1,
+     "text": "Seven in the morning, doors open before the stores do"
+    },
+    {
+     "t": 25.9,
+     "end": 38.86,
+     "text": "Terrazzo floor, one lap is a quarter mile, there's a sign that says so"
+    },
+    {
+     "t": 38.9,
+     "end": 45.52,
+     "text": "Nine of them in windbreakers, same loop, same order every day"
+    },
+    {
+     "t": 49.46,
+     "end": 53.6,
+     "text": "And me, thirty-one, in last night's shirt"
+    },
+    {
+     "t": 53.6,
+     "end": 53.6,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 53.6,
+     "end": 63.57,
+     "text": "Mall walkers"
+    },
+    {
+     "t": 63.97,
+     "end": 72.63,
+     "text": "They have been doing this since before I could drive"
+    },
+    {
+     "t": 75.85,
+     "end": 80.87,
+     "text": "Gloria has had two knees replaced and she laps me"
+    },
+    {
+     "t": 82.15,
+     "end": 86.37,
+     "text": "Nobody here asks what I do for a living"
+    },
+    {
+     "t": 99.43,
+     "end": 99.43,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 99.43,
+     "end": 103.15,
+     "text": "Frank brings the coffee. Bad coffee. Everybody takes it."
+    },
+    {
+     "t": 103.17,
+     "end": 107.31,
+     "text": "They have opinions about the fountain. Strong ones."
+    },
+    {
+     "t": 107.41,
+     "end": 112.33,
+     "text": "I came because my gym closed and I didn't want to go home"
+    },
+    {
+     "t": 112.35,
+     "end": 119.07,
+     "text": "I stayed because somebody said \"you're back\" on the fourth day"
+    },
+    {
+     "t": 121.55,
+     "end": 121.55,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 121.55,
+     "end": 122.05,
+     "text": "Mall walkers"
+    },
+    {
+     "t": 122.05,
+     "end": 128.25,
+     "text": "They have been doing this since before I could drive"
+    },
+    {
+     "t": 128.27,
+     "end": 133.79,
+     "text": "Gloria has had two knees replaced and she still laps me"
+    },
+    {
+     "t": 133.79,
+     "end": 141.49,
+     "text": "Nobody here has ever once asked what I do for a living"
+    },
+    {
+     "t": 164.48,
+     "end": 164.48,
+     "text": "[Bridge - pad only]"
+    },
+    {
+     "t": 164.48,
+     "end": 172.7,
+     "text": "The stores open at ten and we scatter"
+    },
+    {
+     "t": 172.7,
+     "end": 198.48,
+     "text": "Like we weren't anything"
+    },
+    {
+     "t": 198.48,
+     "end": 198.48,
+     "text": "[Outro - sub bass, fading]"
+    },
+    {
+     "t": 198.48,
+     "end": 201.74,
+     "text": "Quarter mile. Sign says so."
+    },
+    {
+     "t": 206.04,
+     "end": 207.6,
+     "text": "Tomorrow, seven."
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 20.56,
      "end": 20.56,
@@ -505,8 +1331,7 @@
      "end": 207.6,
      "text": "Tomorrow, seven."
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_en04",
@@ -680,7 +1505,150 @@
      "text": "[Song ends abruptly]"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 23.28,
+     "end": 23.28,
+     "text": "[Intro - distorted arpeggio and four-on-the-floor]"
+    },
+    {
+     "t": 23.28,
+     "end": 23.28,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 23.28,
+     "end": 26.54,
+     "text": "Ten years of cups with somebody else's name on them"
+    },
+    {
+     "t": 26.54,
+     "end": 29.76,
+     "text": "Close enough that I never said anything"
+    },
+    {
+     "t": 29.76,
+     "end": 30.78,
+     "text": "I take the cup, I say thanks, I drink it"
+    },
+    {
+     "t": 30.78,
+     "end": 44.9,
+     "text": "I have built an entire adult life on not correcting people"
+    },
+    {
+     "t": 44.9,
+     "end": 44.9,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 44.9,
+     "end": 48.96,
+     "text": "It's four letters. It is four letters."
+    },
+    {
+     "t": 48.96,
+     "end": 53.93,
+     "text": "I could fix it in one second and I never do"
+    },
+    {
+     "t": 55.69,
+     "end": 55.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 55.69,
+     "end": 56.91,
+     "text": "They spell it with a C"
+    },
+    {
+     "t": 57.05,
+     "end": 62.95,
+     "text": "And I answer to it, I turn around, I smile"
+    },
+    {
+     "t": 63.61,
+     "end": 69.67,
+     "text": "Somewhere there's a version of me who said it the first time"
+    },
+    {
+     "t": 71.45,
+     "end": 76.55,
+     "text": "I would like to meet her. I think she's taller."
+    },
+    {
+     "t": 78.93,
+     "end": 78.93,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 78.93,
+     "end": 84.35,
+     "text": "New girl at the counter asked me twice, actually asked"
+    },
+    {
+     "t": 84.35,
+     "end": 85.13,
+     "text": "She said \"how do you really spell that\""
+    },
+    {
+     "t": 85.17,
+     "end": 87.79,
+     "text": "I told her. She wrote it right. She said it back right."
+    },
+    {
+     "t": 87.79,
+     "end": 94.25,
+     "text": "I sat in my car for a minute. Thirty-four years old."
+    },
+    {
+     "t": 94.25,
+     "end": 94.25,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 94.25,
+     "end": 97.39,
+     "text": "They spell it with a C"
+    },
+    {
+     "t": 100.13,
+     "end": 103.85,
+     "text": "And I answer to it, I turn around, I smile"
+    },
+    {
+     "t": 103.85,
+     "end": 110.99,
+     "text": "Somewhere there's a version of me who said it the first time"
+    },
+    {
+     "t": 111.07,
+     "end": 116.37,
+     "text": "I would like to meet her. I think she's louder."
+    },
+    {
+     "t": 126.55,
+     "end": 126.55,
+     "text": "[Outro - synths cut]"
+    },
+    {
+     "t": 126.55,
+     "end": 129.01,
+     "text": "Cup says the right thing today"
+    },
+    {
+     "t": 129.01,
+     "end": 148.05,
+     "text": "I'm keeping it. That's insane. I'm keeping it."
+    },
+    {
+     "t": 148.05,
+     "end": 148.05,
+     "text": "[Song ends abruptly]"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_en05",
@@ -854,7 +1822,150 @@
      "text": "Do not discard"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 21.26,
+     "end": 21.26,
+     "text": "[Intro - detuned bells and pad]"
+    },
+    {
+     "t": 21.26,
+     "end": 21.26,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 21.26,
+     "end": 28.76,
+     "text": "Envelope says \"official business, do not discard\""
+    },
+    {
+     "t": 29.9,
+     "end": 37.76,
+     "text": "I discarded two before this one, that's a crime I think"
+    },
+    {
+     "t": 38.98,
+     "end": 43.08,
+     "text": "Room four-oh-two, hard chair, no outlets, they take your phone"
+    },
+    {
+     "t": 44.6,
+     "end": 50.53,
+     "text": "A hundred and nine strangers learning each other's coughs"
+    },
+    {
+     "t": 50.53,
+     "end": 50.53,
+     "text": "[Hook]"
+    },
+    {
+     "t": 50.53,
+     "end": 53.79,
+     "text": "Jury summons"
+    },
+    {
+     "t": 53.79,
+     "end": 55.77,
+     "text": "First time in my life the government wanted me specifically"
+    },
+    {
+     "t": 58.35,
+     "end": 61.95,
+     "text": "Thirty dollars a day and a sandwich"
+    },
+    {
+     "t": 64.17,
+     "end": 67.69,
+     "text": "And I sat up straighter than I have all year"
+    },
+    {
+     "t": 73.11,
+     "end": 73.11,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 73.11,
+     "end": 76.61,
+     "text": "Lawyer asked me do I believe people can change"
+    },
+    {
+     "t": 78.63,
+     "end": 81.07,
+     "text": "I said yes before I thought about it"
+    },
+    {
+     "t": 84.69,
+     "end": 88.71,
+     "text": "Then I thought about it for the next six hours"
+    },
+    {
+     "t": 91.03,
+     "end": 97.63,
+     "text": "They didn't pick me. I wanted to be picked. Didn't know that till they didn't."
+    },
+    {
+     "t": 101.09,
+     "end": 101.09,
+     "text": "[Hook]"
+    },
+    {
+     "t": 101.09,
+     "end": 101.35,
+     "text": "Jury summons"
+    },
+    {
+     "t": 101.35,
+     "end": 104.19,
+     "text": "First time in my life the government wanted me specifically"
+    },
+    {
+     "t": 104.19,
+     "end": 107.29,
+     "text": "Thirty dollars a day and a sandwich"
+    },
+    {
+     "t": 109.57,
+     "end": 112.47,
+     "text": "And I sat up straighter than I had all year"
+    },
+    {
+     "t": 114.43,
+     "end": 114.43,
+     "text": "[Bridge - bells only]"
+    },
+    {
+     "t": 114.43,
+     "end": 131.69,
+     "text": "Walked out at four and everybody scattered"
+    },
+    {
+     "t": 131.71,
+     "end": 142.66,
+     "text": "Hundred and nine people I will never see again"
+    },
+    {
+     "t": 146.92,
+     "end": 151.36,
+     "text": "Knew their coughs though"
+    },
+    {
+     "t": 151.4,
+     "end": 151.4,
+     "text": "[Outro - pad fades]"
+    },
+    {
+     "t": 151.4,
+     "end": 165.98,
+     "text": "Envelope's on my fridge"
+    },
+    {
+     "t": 166.82,
+     "end": 169.32,
+     "text": "Do not discard"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_id01",
@@ -1023,7 +2134,145 @@
      "text": "Jam enam dia bangun"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 34.82,
+     "end": 34.82,
+     "text": "[Intro - clean electric guitar and piano]"
+    },
+    {
+     "t": 34.82,
+     "end": 34.82,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 34.82,
+     "end": 39.28,
+     "text": "Jam sembilan malam, anaknya sudah tidur"
+    },
+    {
+     "t": 40.6,
+     "end": 50.14,
+     "text": "Seragam putih, kerahnya agak kuning, aku setrika pelan di bagian itu"
+    },
+    {
+     "t": 50.34,
+     "end": 58.29,
+     "text": "Namanya dijahit di dada, benang merah, jahitan aku sendiri"
+    },
+    {
+     "t": 60.09,
+     "end": 65.25,
+     "text": "Jelek. Tapi dia belum pernah komplain."
+    },
+    {
+     "t": 67.35,
+     "end": 67.35,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 67.35,
+     "end": 72.01,
+     "text": "Besok dia pakai, besoknya kotor lagi"
+    },
+    {
+     "t": 72.95,
+     "end": 77.43,
+     "text": "Setiap malam aku mulai dari awal lagi"
+    },
+    {
+     "t": 78.83,
+     "end": 78.83,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 78.83,
+     "end": 80.61,
+     "text": "Aku setrika seragam"
+    },
+    {
+     "t": 81.45,
+     "end": 83.53,
+     "text": "Bukan karena harus rapi"
+    },
+    {
+     "t": 84.51,
+     "end": 89.53,
+     "text": "Tapi karena besok pagi ada satu hal di hidup dia yang pasti beres"
+    },
+    {
+     "t": 90.45,
+     "end": 97.45,
+     "text": "Dan malam ini, itu yang bisa aku kasih"
+    },
+    {
+     "t": 103.49,
+     "end": 103.49,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 103.49,
+     "end": 107.03,
+     "text": "Dia pernah bilang temannya ketawa karena sepatunya"
+    },
+    {
+     "t": 107.05,
+     "end": 108.43,
+     "text": "Aku diam, aku cuma bilang \"besok kita lihat\""
+    },
+    {
+     "t": 112.49,
+     "end": 118.11,
+     "text": "Sepatunya belum ganti, tapi seragamnya paling rapi di kelas"
+    },
+    {
+     "t": 118.19,
+     "end": 127.47,
+     "text": "Aku tahu itu bukan jawabannya. Aku tetap setrika."
+    },
+    {
+     "t": 129.71,
+     "end": 129.71,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 129.71,
+     "end": 133.71,
+     "text": "Aku setrika seragam"
+    },
+    {
+     "t": 134.71,
+     "end": 136.79,
+     "text": "Bukan karena harus rapi"
+    },
+    {
+     "t": 137.55,
+     "end": 142.47,
+     "text": "Tapi karena besok pagi ada satu hal di hidup dia yang pasti beres"
+    },
+    {
+     "t": 143.01,
+     "end": 148.99,
+     "text": "Dan malam ini, itu masih yang bisa aku kasih"
+    },
+    {
+     "t": 172.2,
+     "end": 172.2,
+     "text": "[Outro - guitar, fading]"
+    },
+    {
+     "t": 172.2,
+     "end": 174.0,
+     "text": "Gantung di pintu"
+    },
+    {
+     "t": 177.72,
+     "end": 185.46,
+     "text": "Jam enam dia bangun"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_id02",
@@ -1056,6 +2305,292 @@
    "generated_at": "2026-10-06T11:13:09.095085+08:00",
    "audio": "b4_id02.mp3",
    "lyrics_timed": [
+    {
+     "t": 21.34,
+     "end": 21.34,
+     "text": "[Intro - kendang roll and electric guitar]"
+    },
+    {
+     "t": 21.34,
+     "end": 21.34,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 21.34,
+     "end": 27.92,
+     "text": "Jam setengah delapan, bunyi mangkok dipukul, tiga kali"
+    },
+    {
+     "t": 27.92,
+     "end": 33.96,
+     "text": "Tiga belas tahun aku dengar bunyi itu dari kamar yang sama"
+    },
+    {
+     "t": 34.92,
+     "end": 44.12,
+     "text": "Dulu aku lari keluar bawa uang receh ibu"
+    },
+    {
+     "t": 47.7,
+     "end": 53.47,
+     "text": "Sekarang aku yang punya uang dan aku tidak keluar"
+    },
+    {
+     "t": 54.37,
+     "end": 54.37,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 54.37,
+     "end": 56.13,
+     "text": "Tukang bakso lewat"
+    },
+    {
+     "t": 57.81,
+     "end": 61.11,
+     "text": "Aku tahu jam berapa tanpa lihat jam"
+    },
+    {
+     "t": 61.35,
+     "end": 64.63,
+     "text": "Dia tidak pernah tahu dia itu jam dinding rumah ini"
+    },
+    {
+     "t": 65.99,
+     "end": 71.71,
+     "text": "Tiga belas tahun, tepat waktu, tiap malam"
+    },
+    {
+     "t": 72.95,
+     "end": 72.95,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 72.95,
+     "end": 77.93,
+     "text": "Dua bulan dia tidak lewat, aku tidak tanya siapa-siapa"
+    },
+    {
+     "t": 79.37,
+     "end": 84.43,
+     "text": "Aku cuma tidur lebih cepat dan bangun lebih capek"
+    },
+    {
+     "t": 86.27,
+     "end": 91.23,
+     "text": "Kemarin bunyinya balik, anaknya yang dorong gerobak"
+    },
+    {
+     "t": 92.45,
+     "end": 102.05,
+     "text": "Aku keluar. Aku beli dua. Aku tidak tanya bapaknya ke mana."
+    },
+    {
+     "t": 103.05,
+     "end": 103.05,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 103.05,
+     "end": 118.47,
+     "text": "Tukang bakso lewat"
+    },
+    {
+     "t": 118.53,
+     "end": 125.17,
+     "text": "Aku tahu jam berapa tanpa lihat jam"
+    },
+    {
+     "t": 125.57,
+     "end": 138.47,
+     "text": "Dia tidak pernah tahu dia itu jam dinding rumah ini"
+    },
+    {
+     "t": 138.47,
+     "end": 147.36,
+     "text": "Tiga belas tahun, tepat waktu, dan sekarang anaknya"
+    },
+    {
+     "t": 149.58,
+     "end": 149.58,
+     "text": "[Bridge - kendang break]"
+    },
+    {
+     "t": 149.58,
+     "end": 152.8,
+     "text": "Anaknya pukul mangkoknya beda"
+    },
+    {
+     "t": 155.82,
+     "end": 159.54,
+     "text": "Dua kali, bukan tiga"
+    },
+    {
+     "t": 159.92,
+     "end": 161.58,
+     "text": "Nanti juga aku hafal"
+    },
+    {
+     "t": 163.24,
+     "end": 163.24,
+     "text": "[Outro - kendang and guitar, cut]"
+    },
+    {
+     "t": 163.24,
+     "end": 166.88,
+     "text": "Jam setengah delapan"
+    },
+    {
+     "t": 169.7,
+     "end": 173.5,
+     "text": "Aku tunggu di depan"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 21.34,
+     "end": 21.34,
+     "text": "[Intro - kendang roll and electric guitar]"
+    },
+    {
+     "t": 21.34,
+     "end": 21.34,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 21.34,
+     "end": 27.92,
+     "text": "Jam setengah delapan, bunyi mangkok dipukul, tiga kali"
+    },
+    {
+     "t": 27.92,
+     "end": 33.96,
+     "text": "Tiga belas tahun aku dengar bunyi itu dari kamar yang sama"
+    },
+    {
+     "t": 34.92,
+     "end": 44.12,
+     "text": "Dulu aku lari keluar bawa uang receh ibu"
+    },
+    {
+     "t": 47.7,
+     "end": 53.47,
+     "text": "Sekarang aku yang punya uang dan aku tidak keluar"
+    },
+    {
+     "t": 54.37,
+     "end": 54.37,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 54.37,
+     "end": 56.13,
+     "text": "Tukang bakso lewat"
+    },
+    {
+     "t": 57.81,
+     "end": 61.11,
+     "text": "Aku tahu jam berapa tanpa lihat jam"
+    },
+    {
+     "t": 61.35,
+     "end": 64.63,
+     "text": "Dia tidak pernah tahu dia itu jam dinding rumah ini"
+    },
+    {
+     "t": 65.99,
+     "end": 71.71,
+     "text": "Tiga belas tahun, tepat waktu, tiap malam"
+    },
+    {
+     "t": 72.95,
+     "end": 72.95,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 72.95,
+     "end": 77.93,
+     "text": "Dua bulan dia tidak lewat, aku tidak tanya siapa-siapa"
+    },
+    {
+     "t": 79.37,
+     "end": 84.43,
+     "text": "Aku cuma tidur lebih cepat dan bangun lebih capek"
+    },
+    {
+     "t": 86.27,
+     "end": 91.23,
+     "text": "Kemarin bunyinya balik, anaknya yang dorong gerobak"
+    },
+    {
+     "t": 92.45,
+     "end": 102.05,
+     "text": "Aku keluar. Aku beli dua. Aku tidak tanya bapaknya ke mana."
+    },
+    {
+     "t": 103.05,
+     "end": 103.05,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 103.05,
+     "end": 118.47,
+     "text": "Tukang bakso lewat"
+    },
+    {
+     "t": 118.53,
+     "end": 125.17,
+     "text": "Aku tahu jam berapa tanpa lihat jam"
+    },
+    {
+     "t": 125.57,
+     "end": 138.47,
+     "text": "Dia tidak pernah tahu dia itu jam dinding rumah ini"
+    },
+    {
+     "t": 138.47,
+     "end": 147.36,
+     "text": "Tiga belas tahun, tepat waktu, dan sekarang anaknya"
+    },
+    {
+     "t": 149.58,
+     "end": 149.58,
+     "text": "[Bridge - kendang break]"
+    },
+    {
+     "t": 149.58,
+     "end": 152.8,
+     "text": "Anaknya pukul mangkoknya beda"
+    },
+    {
+     "t": 155.82,
+     "end": 159.54,
+     "text": "Dua kali, bukan tiga"
+    },
+    {
+     "t": 159.92,
+     "end": 161.58,
+     "text": "Nanti juga aku hafal"
+    },
+    {
+     "t": 163.24,
+     "end": 163.24,
+     "text": "[Outro - kendang and guitar, cut]"
+    },
+    {
+     "t": 163.24,
+     "end": 166.88,
+     "text": "Jam setengah delapan"
+    },
+    {
+     "t": 169.7,
+     "end": 173.5,
+     "text": "Aku tunggu di depan"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 21.34,
      "end": 21.34,
@@ -1196,8 +2731,7 @@
      "end": 173.48,
      "text": "Aku tunggu di depan"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_id03",
@@ -1230,6 +2764,282 @@
    "generated_at": "2026-10-06T11:14:29.197786+08:00",
    "audio": "b4_id03.mp3",
    "lyrics_timed": [
+    {
+     "t": 30.28,
+     "end": 30.28,
+     "text": "[Intro - kacapi and suling]"
+    },
+    {
+     "t": 30.28,
+     "end": 30.28,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 30.28,
+     "end": 40.5,
+     "text": "Rumah Bu Yanti, kursi plastik dipinjam dari masjid"
+    },
+    {
+     "t": 40.52,
+     "end": 44.78,
+     "text": "Dua belas ibu, satu toples, satu gulungan kertas"
+    },
+    {
+     "t": 45.98,
+     "end": 54.21,
+     "text": "Yang menang bulan ini Bu Narti, dia langsung nangis"
+    },
+    {
+     "t": 55.33,
+     "end": 62.59,
+     "text": "Bukan karena uangnya. Semua orang di ruangan itu tahu kenapa."
+    },
+    {
+     "t": 65.61,
+     "end": 65.61,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 65.61,
+     "end": 72.55,
+     "text": "Tidak ada yang tanya. Semua orang kasih tisu."
+    },
+    {
+     "t": 75.67,
+     "end": 80.57,
+     "text": "Lalu langsung lanjut bahas resep."
+    },
+    {
+     "t": 80.63,
+     "end": 80.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 80.63,
+     "end": 81.83,
+     "text": "Arisan"
+    },
+    {
+     "t": 81.87,
+     "end": 92.11,
+     "text": "Dua jam sekali sebulan, kami pura-pura ini soal uang"
+    },
+    {
+     "t": 93.23,
+     "end": 100.49,
+     "text": "Padahal ini satu-satunya waktu dua belas perempuan di kampung ini"
+    },
+    {
+     "t": 101.33,
+     "end": 105.59,
+     "text": "Boleh duduk tanpa ada yang nyuruh berdiri"
+    },
+    {
+     "t": 106.61,
+     "end": 106.61,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 106.61,
+     "end": 111.11,
+     "text": "Aku yang paling muda, jadi aku yang catat"
+    },
+    {
+     "t": 111.11,
+     "end": 114.09,
+     "text": "Mereka panggil aku \"sekretaris\", mereka ketawa tiap kali bilang itu"
+    },
+    {
+     "t": 114.15,
+     "end": 116.35,
+     "text": "Aku ikut ketawa. Aku catat angkanya."
+    },
+    {
+     "t": 120.85,
+     "end": 129.63,
+     "text": "Aku juga catat siapa yang bulan ini diam lebih lama dari biasanya."
+    },
+    {
+     "t": 141.05,
+     "end": 141.05,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 141.05,
+     "end": 142.35,
+     "text": "Arisan"
+    },
+    {
+     "t": 145.11,
+     "end": 152.95,
+     "text": "Dua jam sekali sebulan, kami pura-pura ini soal uang"
+    },
+    {
+     "t": 156.98,
+     "end": 175.06,
+     "text": "Padahal ini satu-satunya waktu dua belas perempuan di kampung ini"
+    },
+    {
+     "t": 177.8,
+     "end": 183.94,
+     "text": "Boleh duduk tanpa ada yang nyuruh berdiri lagi"
+    },
+    {
+     "t": 185.42,
+     "end": 185.42,
+     "text": "[Outro - kacapi, fading]"
+    },
+    {
+     "t": 185.42,
+     "end": 189.1,
+     "text": "Bulan depan di rumah aku"
+    },
+    {
+     "t": 190.52,
+     "end": 194.22,
+     "text": "Kursinya aku pinjam juga"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 30.28,
+     "end": 30.28,
+     "text": "[Intro - kacapi and suling]"
+    },
+    {
+     "t": 30.28,
+     "end": 30.28,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 30.28,
+     "end": 40.5,
+     "text": "Rumah Bu Yanti, kursi plastik dipinjam dari masjid"
+    },
+    {
+     "t": 40.52,
+     "end": 44.78,
+     "text": "Dua belas ibu, satu toples, satu gulungan kertas"
+    },
+    {
+     "t": 45.98,
+     "end": 54.21,
+     "text": "Yang menang bulan ini Bu Narti, dia langsung nangis"
+    },
+    {
+     "t": 55.33,
+     "end": 62.59,
+     "text": "Bukan karena uangnya. Semua orang di ruangan itu tahu kenapa."
+    },
+    {
+     "t": 65.61,
+     "end": 65.61,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 65.61,
+     "end": 72.55,
+     "text": "Tidak ada yang tanya. Semua orang kasih tisu."
+    },
+    {
+     "t": 75.67,
+     "end": 80.57,
+     "text": "Lalu langsung lanjut bahas resep."
+    },
+    {
+     "t": 80.63,
+     "end": 80.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 80.63,
+     "end": 81.83,
+     "text": "Arisan"
+    },
+    {
+     "t": 81.87,
+     "end": 92.11,
+     "text": "Dua jam sekali sebulan, kami pura-pura ini soal uang"
+    },
+    {
+     "t": 93.23,
+     "end": 100.49,
+     "text": "Padahal ini satu-satunya waktu dua belas perempuan di kampung ini"
+    },
+    {
+     "t": 101.33,
+     "end": 105.59,
+     "text": "Boleh duduk tanpa ada yang nyuruh berdiri"
+    },
+    {
+     "t": 106.61,
+     "end": 106.61,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 106.61,
+     "end": 111.11,
+     "text": "Aku yang paling muda, jadi aku yang catat"
+    },
+    {
+     "t": 111.11,
+     "end": 114.09,
+     "text": "Mereka panggil aku \"sekretaris\", mereka ketawa tiap kali bilang itu"
+    },
+    {
+     "t": 114.15,
+     "end": 116.35,
+     "text": "Aku ikut ketawa. Aku catat angkanya."
+    },
+    {
+     "t": 120.85,
+     "end": 129.63,
+     "text": "Aku juga catat siapa yang bulan ini diam lebih lama dari biasanya."
+    },
+    {
+     "t": 141.05,
+     "end": 141.05,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 141.05,
+     "end": 142.35,
+     "text": "Arisan"
+    },
+    {
+     "t": 145.11,
+     "end": 152.95,
+     "text": "Dua jam sekali sebulan, kami pura-pura ini soal uang"
+    },
+    {
+     "t": 156.98,
+     "end": 175.06,
+     "text": "Padahal ini satu-satunya waktu dua belas perempuan di kampung ini"
+    },
+    {
+     "t": 177.8,
+     "end": 183.94,
+     "text": "Boleh duduk tanpa ada yang nyuruh berdiri lagi"
+    },
+    {
+     "t": 185.42,
+     "end": 185.42,
+     "text": "[Outro - kacapi, fading]"
+    },
+    {
+     "t": 185.42,
+     "end": 189.1,
+     "text": "Bulan depan di rumah aku"
+    },
+    {
+     "t": 190.52,
+     "end": 194.22,
+     "text": "Kursinya aku pinjam juga"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 30.3,
      "end": 30.3,
@@ -1365,8 +3175,7 @@
      "end": 194.22,
      "text": "Kursinya aku pinjam juga"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_id04",
@@ -1525,7 +3334,135 @@
      "text": "Jam lima pagi, masih nyala"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 8.32,
+     "end": 8.32,
+     "text": "[Intro - chorused electric piano and slap bass]"
+    },
+    {
+     "t": 8.32,
+     "end": 8.32,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 8.32,
+     "end": 32.84,
+     "text": "Empat belas jam kalau lancar, dan tidak pernah lancar"
+    },
+    {
+     "t": 37.72,
+     "end": 47.38,
+     "text": "Bagasi penuh, setengahnya bukan punyaku, semua titipan"
+    },
+    {
+     "t": 50.98,
+     "end": 57.77,
+     "text": "Ibu sudah telepon tiga kali hari ini, cuma tanya sudah sampai mana"
+    },
+    {
+     "t": 57.77,
+     "end": 63.25,
+     "text": "Jawabannya selalu \"sebentar lagi\". Tiga kali. Semuanya bohong."
+    },
+    {
+     "t": 63.63,
+     "end": 63.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 63.63,
+     "end": 64.19,
+     "text": "Mudik"
+    },
+    {
+     "t": 64.91,
+     "end": 68.67,
+     "text": "Setahun sekali aku jadi anak lagi"
+    },
+    {
+     "t": 71.47,
+     "end": 88.53,
+     "text": "Empat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa"
+    },
+    {
+     "t": 88.53,
+     "end": 93.51,
+     "text": "Itu harga yang murah sekali"
+    },
+    {
+     "t": 96.73,
+     "end": 96.73,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 96.73,
+     "end": 104.23,
+     "text": "Di rest area jam dua pagi, semua orang di sana sedang pulang"
+    },
+    {
+     "t": 105.49,
+     "end": 112.11,
+     "text": "Plat nomor dari mana-mana, semuanya menghadap arah yang sama"
+    },
+    {
+     "t": 113.11,
+     "end": 120.31,
+     "text": "Aku beli kopi, aku lihat satu bapak tidur di setir, anaknya yang selimutin"
+    },
+    {
+     "t": 121.89,
+     "end": 128.87,
+     "text": "Aku foto. Aku hapus. Itu bukan punyaku."
+    },
+    {
+     "t": 129.05,
+     "end": 129.05,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 129.05,
+     "end": 131.97,
+     "text": "Mudik"
+    },
+    {
+     "t": 132.31,
+     "end": 137.87,
+     "text": "Setahun sekali aku jadi anak lagi"
+    },
+    {
+     "t": 140.59,
+     "end": 146.07,
+     "text": "Empat belas jam untuk jadi orang yang tidak perlu memutuskan apa-apa"
+    },
+    {
+     "t": 148.61,
+     "end": 153.05,
+     "text": "Itu masih harga yang murah sekali"
+    },
+    {
+     "t": 164.26,
+     "end": 164.26,
+     "text": "[Instrumental Break - saxophone solo]"
+    },
+    {
+     "t": 164.26,
+     "end": 164.26,
+     "text": "[Outro - electric piano, fading]"
+    },
+    {
+     "t": 164.26,
+     "end": 191.72,
+     "text": "Lampu teras masih nyala"
+    },
+    {
+     "t": 193.58,
+     "end": 205.94,
+     "text": "Jam lima pagi, masih nyala"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_id05",
@@ -1679,7 +3616,130 @@
      "text": "Aku ganti. Aku set telat lima menit."
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 27.78,
+     "end": 27.78,
+     "text": "[Intro - fingerpicked nylon guitar and room tone]"
+    },
+    {
+     "t": 27.78,
+     "end": 27.78,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 27.78,
+     "end": 33.08,
+     "text": "Jam dinding di ruang tengah telat lima menit"
+    },
+    {
+     "t": 35.2,
+     "end": 41.84,
+     "text": "Sudah telat lima menit sejak aku SD"
+    },
+    {
+     "t": 41.94,
+     "end": 47.36,
+     "text": "Bapak tidak pernah benerin, dan kami semua sudah hitung sendiri"
+    },
+    {
+     "t": 47.36,
+     "end": 61.15,
+     "text": "Semua orang di rumah ini tahu cara membaca jam yang salah"
+    },
+    {
+     "t": 63.01,
+     "end": 63.01,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 63.01,
+     "end": 66.75,
+     "text": "Telat lima menit"
+    },
+    {
+     "t": 66.83,
+     "end": 72.37,
+     "text": "Itu bukan rusak, itu sudah jadi aturan"
+    },
+    {
+     "t": 73.67,
+     "end": 80.13,
+     "text": "Tamu yang datang yang salah, kami yang benar"
+    },
+    {
+     "t": 80.15,
+     "end": 85.25,
+     "text": "Rumah ini punya waktunya sendiri dan kami semua ikut"
+    },
+    {
+     "t": 87.31,
+     "end": 87.31,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 87.31,
+     "end": 91.93,
+     "text": "Bapak meninggal bulan empat"
+    },
+    {
+     "t": 91.93,
+     "end": 99.85,
+     "text": "Hal pertama yang mau aku lakukan adalah benerin jam itu"
+    },
+    {
+     "t": 99.95,
+     "end": 120.55,
+     "text": "Aku berdiri di bawahnya sepuluh menit, sudah bawa kursi"
+    },
+    {
+     "t": 124.01,
+     "end": 131.39,
+     "text": "Aku turun. Aku tidak sentuh."
+    },
+    {
+     "t": 131.43,
+     "end": 131.43,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 131.43,
+     "end": 134.31,
+     "text": "Telat lima menit"
+    },
+    {
+     "t": 134.41,
+     "end": 141.35,
+     "text": "Itu bukan rusak, itu sudah jadi aturan"
+    },
+    {
+     "t": 146.47,
+     "end": 159.47,
+     "text": "Tamu yang datang yang salah, kami yang benar"
+    },
+    {
+     "t": 160.85,
+     "end": 171.36,
+     "text": "Rumah ini punya waktunya sendiri dan aku masih ikut"
+    },
+    {
+     "t": 172.0,
+     "end": 172.0,
+     "text": "[Outro - guitar and room tone]"
+    },
+    {
+     "t": 172.0,
+     "end": 190.62,
+     "text": "Baterainya habis bulan lalu"
+    },
+    {
+     "t": 190.62,
+     "end": 209.52,
+     "text": "Aku ganti. Aku set telat lima menit."
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ja01",
@@ -1848,7 +3908,145 @@
      "text": "今日のうちに 持っていく"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 32.92,
+     "end": 32.92,
+     "text": "[Intro - taiko and shinobue]"
+    },
+    {
+     "t": 32.92,
+     "end": 32.92,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.92,
+     "end": 34.74,
+     "text": "木の板にヒモ 中に印刷したA4が三枚"
+    },
+    {
+     "t": 34.86,
+     "end": 57.37,
+     "text": "回覧板 隣の佐藤さんから うちへ 次は田中さん"
+    },
+    {
+     "t": 57.45,
+     "end": 70.27,
+     "text": "中身は 公園の草刈りと 不審者情報と 盆踊りの日程"
+    },
+    {
+     "t": 70.33,
+     "end": 71.73,
+     "text": "誰も読んでない 判子だけ押す"
+    },
+    {
+     "t": 72.11,
+     "end": 72.11,
+     "text": "[Hook]"
+    },
+    {
+     "t": 72.11,
+     "end": 79.11,
+     "text": "回してる 回ってる"
+    },
+    {
+     "t": 79.11,
+     "end": 80.21,
+     "text": "百年前からこの町は これを回してる"
+    },
+    {
+     "t": 80.29,
+     "end": 81.07,
+     "text": "俺の判子が 隣の判子の 隣にある"
+    },
+    {
+     "t": 81.07,
+     "end": 81.89,
+     "text": "それだけのことで 俺はここの人間"
+    },
+    {
+     "t": 81.89,
+     "end": 81.89,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 81.89,
+     "end": 83.31,
+     "text": "佐藤さんが入院して 二週間 板が止まった"
+    },
+    {
+     "t": 83.31,
+     "end": 84.63,
+     "text": "うちで止まってた 俺が気づかなかった"
+    },
+    {
+     "t": 84.63,
+     "end": 86.63,
+     "text": "田中さんが来て 怒らずに 「体調どう?」って聞いた"
+    },
+    {
+     "t": 86.97,
+     "end": 91.71,
+     "text": "俺のことじゃなくて 佐藤さんのことだった"
+    },
+    {
+     "t": 91.71,
+     "end": 91.71,
+     "text": "[Hook]"
+    },
+    {
+     "t": 91.71,
+     "end": 92.23,
+     "text": "回してる 回ってる"
+    },
+    {
+     "t": 92.23,
+     "end": 93.71,
+     "text": "百年前からこの町は これを回してる"
+    },
+    {
+     "t": 93.71,
+     "end": 95.29,
+     "text": "俺の判子が 隣の判子の 隣にある"
+    },
+    {
+     "t": 96.25,
+     "end": 98.59,
+     "text": "それだけのことで 俺はまだここの人間"
+    },
+    {
+     "t": 98.59,
+     "end": 98.59,
+     "text": "[Bridge - taiko only]"
+    },
+    {
+     "t": 98.59,
+     "end": 99.35,
+     "text": "草刈り 行った 初めて"
+    },
+    {
+     "t": 99.41,
+     "end": 125.25,
+     "text": "誰も驚かなかった それが一番こたえた"
+    },
+    {
+     "t": 125.33,
+     "end": 125.33,
+     "text": "[Outro - shinobue, fading]"
+    },
+    {
+     "t": 125.33,
+     "end": 140.87,
+     "text": "次は田中さん"
+    },
+    {
+     "t": 158.06,
+     "end": 160.1,
+     "text": "今日のうちに 持っていく"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ja02",
@@ -2022,7 +4220,150 @@
      "text": "また使う"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 11.16,
+     "end": 11.16,
+     "text": "[Intro - slap bass and electronic percussion]"
+    },
+    {
+     "t": 11.16,
+     "end": 11.16,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 11.16,
+     "end": 28.86,
+     "text": "定規を持ってきた 本気で 定規を"
+    },
+    {
+     "t": 28.86,
+     "end": 29.82,
+     "text": "自販機の下 十円 五円 たぶん百円も一枚"
+    },
+    {
+     "t": 29.86,
+     "end": 31.84,
+     "text": "小学生の時からの技術 大人になっても使える技術"
+    },
+    {
+     "t": 31.86,
+     "end": 32.8,
+     "text": "誰も見てないか 二回確認した"
+    },
+    {
+     "t": 32.8,
+     "end": 32.8,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 32.8,
+     "end": 33.14,
+     "text": "自販機の下"
+    },
+    {
+     "t": 33.16,
+     "end": 36.88,
+     "text": "俺の人生でいちばん再現性のある喜び"
+    },
+    {
+     "t": 36.88,
+     "end": 45.1,
+     "text": "三十四歳 年収そこそこ 何も上手くいってない"
+    },
+    {
+     "t": 45.1,
+     "end": 46.14,
+     "text": "でも百円は 百円だ 今日も出てきた"
+    },
+    {
+     "t": 46.14,
+     "end": 46.14,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 46.14,
+     "end": 48.37,
+     "text": "隣に小学生が来た 俺を見た"
+    },
+    {
+     "t": 48.47,
+     "end": 50.03,
+     "text": "バレた と思ったら あいつも定規を出した"
+    },
+    {
+     "t": 50.03,
+     "end": 50.47,
+     "text": "二人で無言で やった"
+    },
+    {
+     "t": 52.63,
+     "end": 53.89,
+     "text": "あいつは五十円 俺は十円 あいつの勝ち"
+    },
+    {
+     "t": 53.91,
+     "end": 53.91,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 53.91,
+     "end": 54.63,
+     "text": "自販機の下"
+    },
+    {
+     "t": 54.65,
+     "end": 63.53,
+     "text": "俺の人生でいちばん再現性のある喜び"
+    },
+    {
+     "t": 63.59,
+     "end": 82.81,
+     "text": "三十四歳 年収そこそこ 何も上手くいってない"
+    },
+    {
+     "t": 82.81,
+     "end": 93.23,
+     "text": "でも百円は 百円だ 今日も出てきた 二枚"
+    },
+    {
+     "t": 93.31,
+     "end": 93.31,
+     "text": "[Bridge - slap bass only]"
+    },
+    {
+     "t": 93.31,
+     "end": 151.26,
+     "text": "その金で あいつにジュース買った"
+    },
+    {
+     "t": 151.28,
+     "end": 160.02,
+     "text": "あいつ 何も言わずに 行った"
+    },
+    {
+     "t": 160.18,
+     "end": 160.58,
+     "text": "正解"
+    },
+    {
+     "t": 160.74,
+     "end": 160.74,
+     "text": "[Outro - synth stab, cut]"
+    },
+    {
+     "t": 160.74,
+     "end": 164.34,
+     "text": "定規 車に戻した"
+    },
+    {
+     "t": 164.36,
+     "end": 165.34,
+     "text": "また使う"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ja03",
@@ -2191,7 +4532,145 @@
      "text": "今日も 言えた"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 22.34,
+     "end": 22.34,
+     "text": "[Intro - motorik drums and clean guitar]"
+    },
+    {
+     "t": 22.34,
+     "end": 22.34,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 22.34,
+     "end": 41.4,
+     "text": "「いつもの」で通じる店が 世界に一軒ある"
+    },
+    {
+     "t": 41.4,
+     "end": 42.84,
+     "text": "二十年 同じ椅子 同じ角度 同じ長さ"
+    },
+    {
+     "t": 42.86,
+     "end": 45.7,
+     "text": "マスターは何も聞かない 聞かないのが仕事だと思ってる"
+    },
+    {
+     "t": 46.82,
+     "end": 53.19,
+     "text": "俺も何も言わない 言わないのが礼儀だと思ってる"
+    },
+    {
+     "t": 55.61,
+     "end": 55.61,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 55.61,
+     "end": 61.43,
+     "text": "途中で一回だけ 変えようとした"
+    },
+    {
+     "t": 63.13,
+     "end": 68.91,
+     "text": "鏡の前で 言えなかった"
+    },
+    {
+     "t": 71.11,
+     "end": 71.11,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 71.11,
+     "end": 73.23,
+     "text": "二十年 同じ髪型"
+    },
+    {
+     "t": 73.47,
+     "end": 77.57,
+     "text": "飽きたんじゃない 選び続けてるんだ"
+    },
+    {
+     "t": 78.33,
+     "end": 81.35,
+     "text": "って言いたいけど たぶん違う"
+    },
+    {
+     "t": 81.47,
+     "end": 86.77,
+     "text": "選んでないだけ それでも 悪くなかった"
+    },
+    {
+     "t": 88.09,
+     "end": 88.09,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 88.09,
+     "end": 91.29,
+     "text": "去年から 息子さんが入った"
+    },
+    {
+     "t": 91.65,
+     "end": 95.59,
+     "text": "手が速い 上手い たぶんマスターより上手い"
+    },
+    {
+     "t": 95.91,
+     "end": 99.33,
+     "text": "でも俺は マスターの日に行く"
+    },
+    {
+     "t": 100.25,
+     "end": 112.53,
+     "text": "あと何回 行けるか 数えてしまう自分が嫌だ"
+    },
+    {
+     "t": 112.69,
+     "end": 112.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 112.69,
+     "end": 117.29,
+     "text": "二十年 同じ髪型"
+    },
+    {
+     "t": 117.29,
+     "end": 121.67,
+     "text": "飽きたんじゃない 選び続けてるんだ"
+    },
+    {
+     "t": 122.41,
+     "end": 128.01,
+     "text": "って言いたいけど たぶん違う"
+    },
+    {
+     "t": 128.57,
+     "end": 138.09,
+     "text": "選んでないだけ それでも 悪くない"
+    },
+    {
+     "t": 165.56,
+     "end": 165.56,
+     "text": "[Outro - drums stop]"
+    },
+    {
+     "t": 165.56,
+     "end": 166.8,
+     "text": "「いつもので」"
+    },
+    {
+     "t": 167.82,
+     "end": 184.8,
+     "text": "今日も 言えた"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ja04",
@@ -2360,7 +4839,145 @@
      "text": "十分も 弾く人はいない"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 24.02,
+     "end": 24.02,
+     "text": "[Intro - solo piano]"
+    },
+    {
+     "t": 24.02,
+     "end": 24.02,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 24.02,
+     "end": 33.4,
+     "text": "改札の外 誰でも弾いていいピアノ"
+    },
+    {
+     "t": 35.58,
+     "end": 39.78,
+     "text": "貼り紙に「お一人十分まで」"
+    },
+    {
+     "t": 43.34,
+     "end": 48.58,
+     "text": "夕方 サラリーマンが鞄を置いて 座った"
+    },
+    {
+     "t": 49.9,
+     "end": 53.16,
+     "text": "ネクタイ 緩めもせずに 弾き始めた"
+    },
+    {
+     "t": 53.16,
+     "end": 53.16,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 53.16,
+     "end": 54.68,
+     "text": "上手くはない 途中で止まる"
+    },
+    {
+     "t": 58.41,
+     "end": 60.69,
+     "text": "止まって もう一回 同じところから"
+    },
+    {
+     "t": 60.69,
+     "end": 60.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 60.69,
+     "end": 62.35,
+     "text": "誰も拍手しない 誰も見ない"
+    },
+    {
+     "t": 63.83,
+     "end": 67.55,
+     "text": "みんな ちょっとだけ 歩くのが遅くなる"
+    },
+    {
+     "t": 69.85,
+     "end": 73.43,
+     "text": "それが この街の拍手なんだ"
+    },
+    {
+     "t": 75.33,
+     "end": 78.41,
+     "text": "俺も 少し 遅くした"
+    },
+    {
+     "t": 81.71,
+     "end": 81.71,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 81.71,
+     "end": 95.59,
+     "text": "弾き終わって 彼は鞄を持って 普通に帰った"
+    },
+    {
+     "t": 98.03,
+     "end": 105.31,
+     "text": "次は 高校生が座った 全然違う曲"
+    },
+    {
+     "t": 105.31,
+     "end": 121.97,
+     "text": "ピアノは何も覚えてない 覚えてるのは床のキズだけ"
+    },
+    {
+     "t": 121.97,
+     "end": 124.47,
+     "text": "十年分の キズ"
+    },
+    {
+     "t": 129.11,
+     "end": 129.11,
+     "text": "[Chorus - strings enter]"
+    },
+    {
+     "t": 129.11,
+     "end": 132.65,
+     "text": "誰も拍手しない 誰も見ない"
+    },
+    {
+     "t": 134.49,
+     "end": 138.21,
+     "text": "みんな ちょっとだけ 歩くのが遅くなる"
+    },
+    {
+     "t": 140.53,
+     "end": 143.81,
+     "text": "それが この街の拍手なんだ"
+    },
+    {
+     "t": 145.85,
+     "end": 166.86,
+     "text": "今日も 誰かが 遅くしてる"
+    },
+    {
+     "t": 180.24,
+     "end": 180.24,
+     "text": "[Outro - piano and strings, fading]"
+    },
+    {
+     "t": 180.24,
+     "end": 182.8,
+     "text": "「お一人十分まで」"
+    },
+    {
+     "t": 183.84,
+     "end": 189.68,
+     "text": "十分も 弾く人はいない"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ja05",
@@ -2529,7 +5146,145 @@
      "text": "六人に"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 20.76,
+     "end": 20.76,
+     "text": "[Intro - nylon guitar and vibraphone]"
+    },
+    {
+     "t": 20.76,
+     "end": 20.76,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 20.76,
+     "end": 31.0,
+     "text": "今年で最後にします と 一行だけ足した"
+    },
+    {
+     "t": 31.34,
+     "end": 39.92,
+     "text": "三十八枚 全部に 同じ一行"
+    },
+    {
+     "t": 39.92,
+     "end": 46.82,
+     "text": "書きながら 顔が浮かんだのは 六人だけ"
+    },
+    {
+     "t": 48.48,
+     "end": 60.61,
+     "text": "残りの三十二人は 名前と住所だけの人"
+    },
+    {
+     "t": 60.73,
+     "end": 60.73,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 60.73,
+     "end": 61.47,
+     "text": "失礼じゃないか 二日迷った"
+    },
+    {
+     "t": 61.47,
+     "end": 66.43,
+     "text": "迷った時点で たぶん もう"
+    },
+    {
+     "t": 66.43,
+     "end": 66.43,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 66.43,
+     "end": 71.51,
+     "text": "年賀状をやめます"
+    },
+    {
+     "t": 71.61,
+     "end": 79.07,
+     "text": "縁を切るんじゃない 嘘をやめるんだ"
+    },
+    {
+     "t": 79.09,
+     "end": 99.57,
+     "text": "三十八枚の「今年もよろしく」のうち"
+    },
+    {
+     "t": 101.97,
+     "end": 114.21,
+     "text": "本当だったのは 六枚"
+    },
+    {
+     "t": 114.23,
+     "end": 114.23,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 114.23,
+     "end": 116.59,
+     "text": "一月 六枚だけ 届いた"
+    },
+    {
+     "t": 116.59,
+     "end": 121.87,
+     "text": "そのうち一枚に 手書きで「こっちもやめた」"
+    },
+    {
+     "t": 122.09,
+     "end": 124.01,
+     "text": "笑った 声を出して笑った"
+    },
+    {
+     "t": 124.03,
+     "end": 129.57,
+     "text": "あいつも 二日迷ったんだろうな"
+    },
+    {
+     "t": 129.57,
+     "end": 129.57,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 129.57,
+     "end": 141.85,
+     "text": "年賀状をやめます"
+    },
+    {
+     "t": 143.89,
+     "end": 149.99,
+     "text": "縁を切るんじゃない 嘘をやめたんだ"
+    },
+    {
+     "t": 149.99,
+     "end": 151.87,
+     "text": "三十八枚の「今年もよろしく」のうち"
+    },
+    {
+     "t": 151.87,
+     "end": 166.76,
+     "text": "本当だったのは 六枚 いや 七枚"
+    },
+    {
+     "t": 166.76,
+     "end": 166.76,
+     "text": "[Outro - vibraphone, fading]"
+    },
+    {
+     "t": 166.76,
+     "end": 174.96,
+     "text": "来年は 電話しよう"
+    },
+    {
+     "t": 174.98,
+     "end": 175.38,
+     "text": "六人に"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ko01",
@@ -2562,6 +5317,312 @@
    "generated_at": "2026-10-06T10:58:23.218606+08:00",
    "audio": "b4_ko01.mp3",
    "lyrics_timed": [
+    {
+     "t": 32.7,
+     "end": 32.7,
+     "text": "[Intro - distorted synth and sub bass]"
+    },
+    {
+     "t": 32.7,
+     "end": 32.7,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.7,
+     "end": 37.62,
+     "text": "밤 열한 시 사십 분, 위에서 뭔가 떨어졌다"
+    },
+    {
+     "t": 39.94,
+     "end": 41.66,
+     "text": "공 같기도 하고 사람 같기도 하고"
+    },
+    {
+     "t": 41.7,
+     "end": 44.84,
+     "text": "나는 천장을 봤다, 천장은 아무 말도 안 했다"
+    },
+    {
+     "t": 47.16,
+     "end": 52.19,
+     "text": "삼 개월째 나는 천장이랑 대화하고 있다"
+    },
+    {
+     "t": 52.25,
+     "end": 52.25,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 52.25,
+     "end": 53.27,
+     "text": "관리실에 말할까"
+    },
+    {
+     "t": 53.27,
+     "end": 58.11,
+     "text": "말하면 내가 그런 사람이 되는 건가"
+    },
+    {
+     "t": 58.11,
+     "end": 58.11,
+     "text": "[Chorus - drop]"
+    },
+    {
+     "t": 58.11,
+     "end": 58.51,
+     "text": "층간소음"
+    },
+    {
+     "t": 58.51,
+     "end": 62.29,
+     "text": "나는 아직 한 번도 안 올라가 봤다"
+    },
+    {
+     "t": 62.37,
+     "end": 63.79,
+     "text": "올라가면 사람이 되니까"
+    },
+    {
+     "t": 63.85,
+     "end": 67.71,
+     "text": "지금은 그냥 소리니까, 소리는 미워하기 쉬우니까"
+    },
+    {
+     "t": 68.09,
+     "end": 68.09,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 68.09,
+     "end": 102.99,
+     "text": "어느 날 엘리베이터에서 유모차를 봤다"
+    },
+    {
+     "t": 102.99,
+     "end": 103.59,
+     "text": "칠 층, 내 바로 위"
+    },
+    {
+     "t": 103.59,
+     "end": 105.03,
+     "text": "애기가 나를 보고 웃었다, 나는 안 웃었다, 못 웃었다"
+    },
+    {
+     "t": 105.03,
+     "end": 107.25,
+     "text": "그날 밤에도 소리가 났고 나는 처음으로 화가 안 났다"
+    },
+    {
+     "t": 107.39,
+     "end": 107.39,
+     "text": "[Chorus - drop]"
+    },
+    {
+     "t": 107.39,
+     "end": 108.05,
+     "text": "층간소음"
+    },
+    {
+     "t": 108.05,
+     "end": 109.45,
+     "text": "나는 아직 한 번도 안 올라가 봤다"
+    },
+    {
+     "t": 109.45,
+     "end": 112.37,
+     "text": "올라가면 사람이 되니까"
+    },
+    {
+     "t": 112.39,
+     "end": 119.51,
+     "text": "이제는 사람이니까, 사람은 미워하기 어려우니까"
+    },
+    {
+     "t": 126.13,
+     "end": 126.13,
+     "text": "[Bridge - synth only]"
+    },
+    {
+     "t": 126.13,
+     "end": 127.83,
+     "text": "귀마개를 샀다"
+    },
+    {
+     "t": 131.01,
+     "end": 135.99,
+     "text": "삼천 원, 효과 없음, 그래도 끼고 잔다"
+    },
+    {
+     "t": 138.75,
+     "end": 138.75,
+     "text": "[Outro - cut]"
+    },
+    {
+     "t": 138.75,
+     "end": 140.63,
+     "text": "오늘은 조용하다"
+    },
+    {
+     "t": 142.55,
+     "end": 173.14,
+     "text": "조용하면 또 걱정된다"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 32.7,
+     "end": 32.7,
+     "text": "[Intro - distorted synth and sub bass]"
+    },
+    {
+     "t": 32.7,
+     "end": 32.7,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.7,
+     "end": 37.62,
+     "text": "밤 열한 시 사십 분, 위에서 뭔가 떨어졌다"
+    },
+    {
+     "t": 39.94,
+     "end": 41.66,
+     "text": "공 같기도 하고 사람 같기도 하고"
+    },
+    {
+     "t": 41.7,
+     "end": 44.84,
+     "text": "나는 천장을 봤다, 천장은 아무 말도 안 했다"
+    },
+    {
+     "t": 47.16,
+     "end": 52.19,
+     "text": "삼 개월째 나는 천장이랑 대화하고 있다"
+    },
+    {
+     "t": 52.25,
+     "end": 52.25,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 52.25,
+     "end": 53.27,
+     "text": "관리실에 말할까"
+    },
+    {
+     "t": 53.27,
+     "end": 58.11,
+     "text": "말하면 내가 그런 사람이 되는 건가"
+    },
+    {
+     "t": 58.11,
+     "end": 58.11,
+     "text": "[Chorus - drop]"
+    },
+    {
+     "t": 58.11,
+     "end": 58.51,
+     "text": "층간소음"
+    },
+    {
+     "t": 58.51,
+     "end": 62.29,
+     "text": "나는 아직 한 번도 안 올라가 봤다"
+    },
+    {
+     "t": 62.37,
+     "end": 63.79,
+     "text": "올라가면 사람이 되니까"
+    },
+    {
+     "t": 63.85,
+     "end": 67.71,
+     "text": "지금은 그냥 소리니까, 소리는 미워하기 쉬우니까"
+    },
+    {
+     "t": 68.09,
+     "end": 68.09,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 68.09,
+     "end": 102.99,
+     "text": "어느 날 엘리베이터에서 유모차를 봤다"
+    },
+    {
+     "t": 102.99,
+     "end": 103.59,
+     "text": "칠 층, 내 바로 위"
+    },
+    {
+     "t": 103.59,
+     "end": 105.03,
+     "text": "애기가 나를 보고 웃었다, 나는 안 웃었다, 못 웃었다"
+    },
+    {
+     "t": 105.03,
+     "end": 107.25,
+     "text": "그날 밤에도 소리가 났고 나는 처음으로 화가 안 났다"
+    },
+    {
+     "t": 107.39,
+     "end": 107.39,
+     "text": "[Chorus - drop]"
+    },
+    {
+     "t": 107.39,
+     "end": 108.05,
+     "text": "층간소음"
+    },
+    {
+     "t": 108.05,
+     "end": 109.45,
+     "text": "나는 아직 한 번도 안 올라가 봤다"
+    },
+    {
+     "t": 109.45,
+     "end": 112.37,
+     "text": "올라가면 사람이 되니까"
+    },
+    {
+     "t": 112.39,
+     "end": 119.51,
+     "text": "이제는 사람이니까, 사람은 미워하기 어려우니까"
+    },
+    {
+     "t": 126.13,
+     "end": 126.13,
+     "text": "[Bridge - synth only]"
+    },
+    {
+     "t": 126.13,
+     "end": 127.83,
+     "text": "귀마개를 샀다"
+    },
+    {
+     "t": 131.01,
+     "end": 135.99,
+     "text": "삼천 원, 효과 없음, 그래도 끼고 잔다"
+    },
+    {
+     "t": 138.75,
+     "end": 138.75,
+     "text": "[Outro - cut]"
+    },
+    {
+     "t": 138.75,
+     "end": 140.63,
+     "text": "오늘은 조용하다"
+    },
+    {
+     "t": 142.55,
+     "end": 173.14,
+     "text": "조용하면 또 걱정된다"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 32.7,
      "end": 32.7,
@@ -2712,8 +5773,7 @@
      "end": 161.94,
      "text": "조용하면 또 걱정된다"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_ko02",
@@ -2746,6 +5806,282 @@
    "generated_at": "2026-10-06T13:20:58.158839+08:00",
    "audio": "b4_ko02.mp3",
    "lyrics_timed": [
+    {
+     "t": 36.2,
+     "end": 36.2,
+     "text": "[Intro - clavinet and tight drums]"
+    },
+    {
+     "t": 36.2,
+     "end": 36.2,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 36.2,
+     "end": 44.62,
+     "text": "지하철 역 삼 번 출구, 저녁 일곱 시, 검은 패딩"
+    },
+    {
+     "t": 44.64,
+     "end": 48.78,
+     "text": "\"혹시 거래하실 분이세요?\" 세상에서 제일 어색한 문장"
+    },
+    {
+     "t": 49.38,
+     "end": 53.01,
+     "text": "내가 파는 건 삼 년 쓴 전기포트, 만 이천 원"
+    },
+    {
+     "t": 53.85,
+     "end": 58.11,
+     "text": "사는 사람은 스무 살쯤, 자취 시작했다고 했다"
+    },
+    {
+     "t": 58.11,
+     "end": 58.11,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 58.11,
+     "end": 60.11,
+     "text": "설명 안 해도 되는데 나는 설명했다"
+    },
+    {
+     "t": 62.55,
+     "end": 65.49,
+     "text": "\"물때는 식초로 닦으면 돼요\""
+    },
+    {
+     "t": 71.29,
+     "end": 71.29,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 71.29,
+     "end": 72.29,
+     "text": "중고거래"
+    },
+    {
+     "t": 73.33,
+     "end": 78.97,
+     "text": "우리는 삼 분 만나고 평생 안 만난다"
+    },
+    {
+     "t": 80.27,
+     "end": 83.71,
+     "text": "근데 나는 그 포트를 삼 년 썼고"
+    },
+    {
+     "t": 84.79,
+     "end": 93.77,
+     "text": "이제 쟤가 쓴다, 그게 왜 이렇게 괜찮지"
+    },
+    {
+     "t": 93.85,
+     "end": 93.85,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 93.85,
+     "end": 97.27,
+     "text": "걔가 \"감사합니다\" 하고 두 번 인사했다"
+    },
+    {
+     "t": 98.11,
+     "end": 101.55,
+     "text": "두 번째는 돌아서다가 다시 돌아서서"
+    },
+    {
+     "t": 101.55,
+     "end": 125.29,
+     "text": "나는 손을 들었다, 어정쩡하게"
+    },
+    {
+     "t": 125.79,
+     "end": 129.57,
+     "text": "집에 오는 길에 주방이 조금 넓어 보였다"
+    },
+    {
+     "t": 129.63,
+     "end": 129.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 129.63,
+     "end": 130.73,
+     "text": "중고거래"
+    },
+    {
+     "t": 130.85,
+     "end": 133.87,
+     "text": "우리는 삼 분 만나고 평생 안 만난다"
+    },
+    {
+     "t": 133.87,
+     "end": 136.69,
+     "text": "근데 나는 그 포트를 삼 년 썼고"
+    },
+    {
+     "t": 137.73,
+     "end": 141.45,
+     "text": "이제 쟤가 쓴다, 그게 아직도 이렇게 괜찮다"
+    },
+    {
+     "t": 141.79,
+     "end": 141.79,
+     "text": "[Outro - clavinet, fading]"
+    },
+    {
+     "t": 141.79,
+     "end": 177.2,
+     "text": "다음은 선풍기"
+    },
+    {
+     "t": 178.5,
+     "end": 181.14,
+     "text": "겨울에 팔면 싸게 가는데, 그래도 보낸다"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 36.2,
+     "end": 36.2,
+     "text": "[Intro - clavinet and tight drums]"
+    },
+    {
+     "t": 36.2,
+     "end": 36.2,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 36.2,
+     "end": 44.62,
+     "text": "지하철 역 삼 번 출구, 저녁 일곱 시, 검은 패딩"
+    },
+    {
+     "t": 44.64,
+     "end": 48.78,
+     "text": "\"혹시 거래하실 분이세요?\" 세상에서 제일 어색한 문장"
+    },
+    {
+     "t": 49.38,
+     "end": 53.01,
+     "text": "내가 파는 건 삼 년 쓴 전기포트, 만 이천 원"
+    },
+    {
+     "t": 53.85,
+     "end": 58.11,
+     "text": "사는 사람은 스무 살쯤, 자취 시작했다고 했다"
+    },
+    {
+     "t": 58.11,
+     "end": 58.11,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 58.11,
+     "end": 60.11,
+     "text": "설명 안 해도 되는데 나는 설명했다"
+    },
+    {
+     "t": 62.55,
+     "end": 65.49,
+     "text": "\"물때는 식초로 닦으면 돼요\""
+    },
+    {
+     "t": 71.29,
+     "end": 71.29,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 71.29,
+     "end": 72.29,
+     "text": "중고거래"
+    },
+    {
+     "t": 73.33,
+     "end": 78.97,
+     "text": "우리는 삼 분 만나고 평생 안 만난다"
+    },
+    {
+     "t": 80.27,
+     "end": 83.71,
+     "text": "근데 나는 그 포트를 삼 년 썼고"
+    },
+    {
+     "t": 84.79,
+     "end": 93.77,
+     "text": "이제 쟤가 쓴다, 그게 왜 이렇게 괜찮지"
+    },
+    {
+     "t": 93.85,
+     "end": 93.85,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 93.85,
+     "end": 97.27,
+     "text": "걔가 \"감사합니다\" 하고 두 번 인사했다"
+    },
+    {
+     "t": 98.11,
+     "end": 101.55,
+     "text": "두 번째는 돌아서다가 다시 돌아서서"
+    },
+    {
+     "t": 101.55,
+     "end": 125.29,
+     "text": "나는 손을 들었다, 어정쩡하게"
+    },
+    {
+     "t": 125.79,
+     "end": 129.57,
+     "text": "집에 오는 길에 주방이 조금 넓어 보였다"
+    },
+    {
+     "t": 129.63,
+     "end": 129.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 129.63,
+     "end": 130.73,
+     "text": "중고거래"
+    },
+    {
+     "t": 130.85,
+     "end": 133.87,
+     "text": "우리는 삼 분 만나고 평생 안 만난다"
+    },
+    {
+     "t": 133.87,
+     "end": 136.69,
+     "text": "근데 나는 그 포트를 삼 년 썼고"
+    },
+    {
+     "t": 137.73,
+     "end": 141.45,
+     "text": "이제 쟤가 쓴다, 그게 아직도 이렇게 괜찮다"
+    },
+    {
+     "t": 141.79,
+     "end": 141.79,
+     "text": "[Outro - clavinet, fading]"
+    },
+    {
+     "t": 141.79,
+     "end": 177.2,
+     "text": "다음은 선풍기"
+    },
+    {
+     "t": 178.5,
+     "end": 181.14,
+     "text": "겨울에 팔면 싸게 가는데, 그래도 보낸다"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 36.22,
      "end": 36.22,
@@ -2881,8 +6217,7 @@
      "end": 181.12,
      "text": "겨울에 팔면 싸게 가는데, 그래도 보낸다"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_ko03",
@@ -2915,6 +6250,282 @@
    "generated_at": "2026-10-06T11:01:13.485194+08:00",
    "audio": "b4_ko03.mp3",
    "lyrics_timed": [
+    {
+     "t": 49.2,
+     "end": 49.2,
+     "text": "[Intro - string quartet]"
+    },
+    {
+     "t": 49.2,
+     "end": 49.2,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 49.2,
+     "end": 61.75,
+     "text": "배추 마흔 포기, 고무장갑 다섯 켤레, 큰집 마당"
+    },
+    {
+     "t": 61.79,
+     "end": 65.55,
+     "text": "엄마랑 이모 둘이랑 외숙모, 그리고 나"
+    },
+    {
+     "t": 65.57,
+     "end": 72.99,
+     "text": "나는 스물아홉이고 여기서 제일 어리고 제일 쓸모없다"
+    },
+    {
+     "t": 72.99,
+     "end": 76.25,
+     "text": "속을 넣는 손이 다 다른데, 나만 틀렸다"
+    },
+    {
+     "t": 76.27,
+     "end": 76.27,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 76.27,
+     "end": 79.33,
+     "text": "\"더 꾹꾹 눌러\" 소리를 네 번 들었다"
+    },
+    {
+     "t": 79.33,
+     "end": 82.23,
+     "text": "네 번 다 다른 사람한테서"
+    },
+    {
+     "t": 82.33,
+     "end": 82.33,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 82.33,
+     "end": 84.11,
+     "text": "김장"
+    },
+    {
+     "t": 84.17,
+     "end": 89.03,
+     "text": "일 년에 하루, 이 사람들이 한자리에 모이는 이유"
+    },
+    {
+     "t": 89.11,
+     "end": 91.41,
+     "text": "김치가 필요해서가 아니라"
+    },
+    {
+     "t": 91.41,
+     "end": 93.89,
+     "text": "모일 이유가 하나는 있어야 해서"
+    },
+    {
+     "t": 97.69,
+     "end": 97.69,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 97.69,
+     "end": 129.71,
+     "text": "이모가 내 입에 하나 넣어줬다, 겉절이"
+    },
+    {
+     "t": 129.81,
+     "end": 133.09,
+     "text": "맛있다고 했더니 \"너는 다 맛있대\" 하고 웃었다"
+    },
+    {
+     "t": 135.69,
+     "end": 137.33,
+     "text": "사실 진짜 맛있었다"
+    },
+    {
+     "t": 137.37,
+     "end": 144.03,
+     "text": "근데 내가 뭐라고 했어도 저 웃음은 나왔을 거다"
+    },
+    {
+     "t": 144.69,
+     "end": 144.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 144.69,
+     "end": 145.57,
+     "text": "김장"
+    },
+    {
+     "t": 145.63,
+     "end": 151.19,
+     "text": "일 년에 하루, 이 사람들이 한자리에 모이는 이유"
+    },
+    {
+     "t": 151.19,
+     "end": 153.73,
+     "text": "김치가 필요해서가 아니라"
+    },
+    {
+     "t": 153.73,
+     "end": 170.46,
+     "text": "모일 이유가 하나는 있어야 해서, 아직은 있어서"
+    },
+    {
+     "t": 175.88,
+     "end": 175.88,
+     "text": "[Outro - quartet, fading]"
+    },
+    {
+     "t": 175.88,
+     "end": 179.34,
+     "text": "통 세 개, 내 몫"
+    },
+    {
+     "t": 179.34,
+     "end": 189.22,
+     "text": "들고 오는데 무거웠다, 무거운 게 좋았다"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 49.2,
+     "end": 49.2,
+     "text": "[Intro - string quartet]"
+    },
+    {
+     "t": 49.2,
+     "end": 49.2,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 49.2,
+     "end": 61.75,
+     "text": "배추 마흔 포기, 고무장갑 다섯 켤레, 큰집 마당"
+    },
+    {
+     "t": 61.79,
+     "end": 65.55,
+     "text": "엄마랑 이모 둘이랑 외숙모, 그리고 나"
+    },
+    {
+     "t": 65.57,
+     "end": 72.99,
+     "text": "나는 스물아홉이고 여기서 제일 어리고 제일 쓸모없다"
+    },
+    {
+     "t": 72.99,
+     "end": 76.25,
+     "text": "속을 넣는 손이 다 다른데, 나만 틀렸다"
+    },
+    {
+     "t": 76.27,
+     "end": 76.27,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 76.27,
+     "end": 79.33,
+     "text": "\"더 꾹꾹 눌러\" 소리를 네 번 들었다"
+    },
+    {
+     "t": 79.33,
+     "end": 82.23,
+     "text": "네 번 다 다른 사람한테서"
+    },
+    {
+     "t": 82.33,
+     "end": 82.33,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 82.33,
+     "end": 84.11,
+     "text": "김장"
+    },
+    {
+     "t": 84.17,
+     "end": 89.03,
+     "text": "일 년에 하루, 이 사람들이 한자리에 모이는 이유"
+    },
+    {
+     "t": 89.11,
+     "end": 91.41,
+     "text": "김치가 필요해서가 아니라"
+    },
+    {
+     "t": 91.41,
+     "end": 93.89,
+     "text": "모일 이유가 하나는 있어야 해서"
+    },
+    {
+     "t": 97.69,
+     "end": 97.69,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 97.69,
+     "end": 129.71,
+     "text": "이모가 내 입에 하나 넣어줬다, 겉절이"
+    },
+    {
+     "t": 129.81,
+     "end": 133.09,
+     "text": "맛있다고 했더니 \"너는 다 맛있대\" 하고 웃었다"
+    },
+    {
+     "t": 135.69,
+     "end": 137.33,
+     "text": "사실 진짜 맛있었다"
+    },
+    {
+     "t": 137.37,
+     "end": 144.03,
+     "text": "근데 내가 뭐라고 했어도 저 웃음은 나왔을 거다"
+    },
+    {
+     "t": 144.69,
+     "end": 144.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 144.69,
+     "end": 145.57,
+     "text": "김장"
+    },
+    {
+     "t": 145.63,
+     "end": 151.19,
+     "text": "일 년에 하루, 이 사람들이 한자리에 모이는 이유"
+    },
+    {
+     "t": 151.19,
+     "end": 153.73,
+     "text": "김치가 필요해서가 아니라"
+    },
+    {
+     "t": 153.73,
+     "end": 170.46,
+     "text": "모일 이유가 하나는 있어야 해서, 아직은 있어서"
+    },
+    {
+     "t": 175.88,
+     "end": 175.88,
+     "text": "[Outro - quartet, fading]"
+    },
+    {
+     "t": 175.88,
+     "end": 179.34,
+     "text": "통 세 개, 내 몫"
+    },
+    {
+     "t": 179.34,
+     "end": 189.22,
+     "text": "들고 오는데 무거웠다, 무거운 게 좋았다"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 2.48,
      "end": 2.48,
@@ -3050,8 +6661,7 @@
      "end": 189.22,
      "text": "들고 오는데 무거웠다, 무거운 게 좋았다"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_ko04",
@@ -3084,6 +6694,292 @@
    "generated_at": "2026-10-06T11:02:23.572019+08:00",
    "audio": "b4_ko04.mp3",
    "lyrics_timed": [
+    {
+     "t": 12.26,
+     "end": 12.26,
+     "text": "[Intro - angular bass and dry drums]"
+    },
+    {
+     "t": 12.26,
+     "end": 12.26,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 12.26,
+     "end": 16.74,
+     "text": "포스트잇 한 장, 현관문에 붙였다"
+    },
+    {
+     "t": 18.4,
+     "end": 24.68,
+     "text": "\"문 앞에 두고 가세요, 벨 안 눌러도 됩니다, 감사합니다\""
+    },
+    {
+     "t": 25.92,
+     "end": 29.5,
+     "text": "세 줄 쓰는 데 십 분 걸렸다"
+    },
+    {
+     "t": 30.36,
+     "end": 36.26,
+     "text": "마지막 줄을 쓸까 말까 두 번 고민했다"
+    },
+    {
+     "t": 39.52,
+     "end": 39.52,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 39.52,
+     "end": 42.54,
+     "text": "얼굴을 본 적이 없다"
+    },
+    {
+     "t": 45.72,
+     "end": 48.89,
+     "text": "근데 매주 두 번은 온다"
+    },
+    {
+     "t": 49.01,
+     "end": 49.01,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 49.01,
+     "end": 53.25,
+     "text": "택배 기사님께"
+    },
+    {
+     "t": 53.49,
+     "end": 61.33,
+     "text": "나는 당신 이름을 모르고 당신도 내 이름을 모르고"
+    },
+    {
+     "t": 64.33,
+     "end": 67.83,
+     "text": "근데 당신은 내가 뭘 사는지 다 안다"
+    },
+    {
+     "t": 69.47,
+     "end": 74.71,
+     "text": "그게 이상하게 공평하지가 않아서, 쪽지를 썼다"
+    },
+    {
+     "t": 92.65,
+     "end": 92.65,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 92.65,
+     "end": 94.99,
+     "text": "다음 날 상자 위에 포스트잇이 하나 더 있었다"
+    },
+    {
+     "t": 95.43,
+     "end": 97.77,
+     "text": "\"네, 감사합니다\" 끝, 다섯 글자"
+    },
+    {
+     "t": 97.85,
+     "end": 100.99,
+     "text": "나는 그걸 떼서 냉장고에 붙였다"
+    },
+    {
+     "t": 102.59,
+     "end": 104.35,
+     "text": "삼 주째 거기 있다"
+    },
+    {
+     "t": 104.85,
+     "end": 104.85,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 104.85,
+     "end": 116.95,
+     "text": "택배 기사님께"
+    },
+    {
+     "t": 117.11,
+     "end": 145.4,
+     "text": "나는 당신 이름을 모르고 당신도 내 이름을 모르고"
+    },
+    {
+     "t": 145.54,
+     "end": 153.1,
+     "text": "근데 당신은 내가 뭘 사는지 다 안다"
+    },
+    {
+     "t": 153.94,
+     "end": 175.4,
+     "text": "그게 이상하게 공평하지가 않아서, 아직도 쪽지를 쓴다"
+    },
+    {
+     "t": 175.4,
+     "end": 175.4,
+     "text": "[Outro - band cuts]"
+    },
+    {
+     "t": 175.4,
+     "end": 178.68,
+     "text": "오늘도 문 앞"
+    },
+    {
+     "t": 179.3,
+     "end": 182.88,
+     "text": "벨은 안 울렸다"
+    },
+    {
+     "t": 182.88,
+     "end": 182.88,
+     "text": "[Song ends abruptly]"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 12.26,
+     "end": 12.26,
+     "text": "[Intro - angular bass and dry drums]"
+    },
+    {
+     "t": 12.26,
+     "end": 12.26,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 12.26,
+     "end": 16.74,
+     "text": "포스트잇 한 장, 현관문에 붙였다"
+    },
+    {
+     "t": 18.4,
+     "end": 24.68,
+     "text": "\"문 앞에 두고 가세요, 벨 안 눌러도 됩니다, 감사합니다\""
+    },
+    {
+     "t": 25.92,
+     "end": 29.5,
+     "text": "세 줄 쓰는 데 십 분 걸렸다"
+    },
+    {
+     "t": 30.36,
+     "end": 36.26,
+     "text": "마지막 줄을 쓸까 말까 두 번 고민했다"
+    },
+    {
+     "t": 39.52,
+     "end": 39.52,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 39.52,
+     "end": 42.54,
+     "text": "얼굴을 본 적이 없다"
+    },
+    {
+     "t": 45.72,
+     "end": 48.89,
+     "text": "근데 매주 두 번은 온다"
+    },
+    {
+     "t": 49.01,
+     "end": 49.01,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 49.01,
+     "end": 53.25,
+     "text": "택배 기사님께"
+    },
+    {
+     "t": 53.49,
+     "end": 61.33,
+     "text": "나는 당신 이름을 모르고 당신도 내 이름을 모르고"
+    },
+    {
+     "t": 64.33,
+     "end": 67.83,
+     "text": "근데 당신은 내가 뭘 사는지 다 안다"
+    },
+    {
+     "t": 69.47,
+     "end": 74.71,
+     "text": "그게 이상하게 공평하지가 않아서, 쪽지를 썼다"
+    },
+    {
+     "t": 92.65,
+     "end": 92.65,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 92.65,
+     "end": 94.99,
+     "text": "다음 날 상자 위에 포스트잇이 하나 더 있었다"
+    },
+    {
+     "t": 95.43,
+     "end": 97.77,
+     "text": "\"네, 감사합니다\" 끝, 다섯 글자"
+    },
+    {
+     "t": 97.85,
+     "end": 100.99,
+     "text": "나는 그걸 떼서 냉장고에 붙였다"
+    },
+    {
+     "t": 102.59,
+     "end": 104.35,
+     "text": "삼 주째 거기 있다"
+    },
+    {
+     "t": 104.85,
+     "end": 104.85,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 104.85,
+     "end": 116.95,
+     "text": "택배 기사님께"
+    },
+    {
+     "t": 117.11,
+     "end": 145.4,
+     "text": "나는 당신 이름을 모르고 당신도 내 이름을 모르고"
+    },
+    {
+     "t": 145.54,
+     "end": 153.1,
+     "text": "근데 당신은 내가 뭘 사는지 다 안다"
+    },
+    {
+     "t": 153.94,
+     "end": 175.4,
+     "text": "그게 이상하게 공평하지가 않아서, 아직도 쪽지를 쓴다"
+    },
+    {
+     "t": 175.4,
+     "end": 175.4,
+     "text": "[Outro - band cuts]"
+    },
+    {
+     "t": 175.4,
+     "end": 178.68,
+     "text": "오늘도 문 앞"
+    },
+    {
+     "t": 179.3,
+     "end": 182.88,
+     "text": "벨은 안 울렸다"
+    },
+    {
+     "t": 182.88,
+     "end": 182.88,
+     "text": "[Song ends abruptly]"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 12.28,
      "end": 12.28,
@@ -3224,8 +7120,7 @@
      "end": 183.04,
      "text": "[Song ends abruptly]"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_ko05",
@@ -3399,7 +7294,150 @@
      "text": "접는 소리, 일정하다"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 1.44,
+     "end": 1.44,
+     "text": "[Intro - filtered jazz piano and soft snare]"
+    },
+    {
+     "t": 1.44,
+     "end": 1.44,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 1.44,
+     "end": 34.0,
+     "text": "새벽 다섯 시, 우리 건물 앞, 리어카"
+    },
+    {
+     "t": 34.0,
+     "end": 40.38,
+     "text": "할머니가 박스를 접는다, 접는 소리가 일정하다"
+    },
+    {
+     "t": 40.5,
+     "end": 89.51,
+     "text": "나는 야근하고 들어오는 길, 할머니는 일 나가는 길"
+    },
+    {
+     "t": 90.05,
+     "end": 132.83,
+     "text": "우리 둘만 깨어 있다, 방향만 반대다"
+    },
+    {
+     "t": 132.85,
+     "end": 132.85,
+     "text": "[Hook]"
+    },
+    {
+     "t": 132.85,
+     "end": 133.71,
+     "text": "일 킬로에 백 원이라고 들었다"
+    },
+    {
+     "t": 133.71,
+     "end": 137.93,
+     "text": "저 리어카 하나가 얼마인지 나는 계산해 봤다"
+    },
+    {
+     "t": 137.93,
+     "end": 138.67,
+     "text": "계산하고 나서 더 미안해졌다"
+    },
+    {
+     "t": 138.67,
+     "end": 140.25,
+     "text": "그래서 나는 박스를 접어서 내놓기 시작했다"
+    },
+    {
+     "t": 140.25,
+     "end": 140.25,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 140.25,
+     "end": 145.69,
+     "text": "테이프를 떼고 접어서 끈으로 묶어서"
+    },
+    {
+     "t": 145.69,
+     "end": 148.19,
+     "text": "그게 더 쳐준다고 어디서 봤다, 맞는지는 모른다"
+    },
+    {
+     "t": 148.19,
+     "end": 149.23,
+     "text": "한 번도 말을 걸지 않았다, 인사도 안 했다"
+    },
+    {
+     "t": 149.23,
+     "end": 157.51,
+     "text": "말을 걸면 내가 뭘 해준 사람이 되니까, 그건 아니니까"
+    },
+    {
+     "t": 157.51,
+     "end": 157.51,
+     "text": "[Hook]"
+    },
+    {
+     "t": 157.51,
+     "end": 159.3,
+     "text": "일 킬로에 백 원이라고 들었다"
+    },
+    {
+     "t": 159.34,
+     "end": 165.0,
+     "text": "저 리어카 하나가 얼마인지 나는 계산해 봤다"
+    },
+    {
+     "t": 165.04,
+     "end": 167.7,
+     "text": "계산하고 나서 더 미안해졌다"
+    },
+    {
+     "t": 167.82,
+     "end": 171.22,
+     "text": "그래도 나는 박스를 접어서 내놓는다"
+    },
+    {
+     "t": 171.22,
+     "end": 171.22,
+     "text": "[Bridge - sample and trumpet only]"
+    },
+    {
+     "t": 171.22,
+     "end": 172.0,
+     "text": "어제 할머니가 안 왔다"
+    },
+    {
+     "t": 172.04,
+     "end": 176.74,
+     "text": "나는 박스를 하루 더 뒀다"
+    },
+    {
+     "t": 176.74,
+     "end": 183.06,
+     "text": "오늘 왔다, 가져갔다, 나는 안 봤다, 보면 안 될 것 같아서"
+    },
+    {
+     "t": 183.08,
+     "end": 183.08,
+     "text": "[Outro - sample fades]"
+    },
+    {
+     "t": 183.08,
+     "end": 189.56,
+     "text": "새벽 다섯 시"
+    },
+    {
+     "t": 199.36,
+     "end": 201.88,
+     "text": "접는 소리, 일정하다"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ms01",
@@ -3568,7 +7606,145 @@
      "text": "Jumpa lagi, orang yang aku tak kenal"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 21.94,
+     "end": 21.94,
+     "text": "[Intro - rebana and group handclaps]"
+    },
+    {
+     "t": 21.94,
+     "end": 21.94,
+     "text": "[Verse 1 - Lead Caller]"
+    },
+    {
+     "t": 21.94,
+     "end": 29.16,
+     "text": "Hujan turun pukul lima, semua berhenti serentak"
+    },
+    {
+     "t": 30.42,
+     "end": 37.36,
+     "text": "Dua puluh motosikal bawah jejambat, tak kenal sesiapa"
+    },
+    {
+     "t": 38.58,
+     "end": 42.42,
+     "text": "Bahu dengan bahu, enjin panas, bau asap"
+    },
+    {
+     "t": 42.5,
+     "end": 51.19,
+     "text": "Tiada siapa bercakap, tapi kami semua satu pasukan"
+    },
+    {
+     "t": 51.21,
+     "end": 51.21,
+     "text": "[Chorus - Group Response]"
+    },
+    {
+     "t": 51.21,
+     "end": 54.59,
+     "text": "Bawah jejambat, kami tunggu"
+    },
+    {
+     "t": 55.15,
+     "end": 62.63,
+     "text": "Bukan kawan, bukan saudara, tapi kami tunggu sama"
+    },
+    {
+     "t": 63.61,
+     "end": 75.81,
+     "text": "Hujan tak tanya kau kerja apa"
+    },
+    {
+     "t": 79.87,
+     "end": 84.47,
+     "text": "Hujan tak tanya kau nak ke mana"
+    },
+    {
+     "t": 84.49,
+     "end": 84.49,
+     "text": "[Verse 2 - Lead Caller]"
+    },
+    {
+     "t": 84.49,
+     "end": 96.35,
+     "text": "Ada abang bagi plastik pada budak depan dia"
+    },
+    {
+     "t": 96.39,
+     "end": 117.37,
+     "text": "Budak tu cakap terima kasih, abang tu angguk, habis cerita"
+    },
+    {
+     "t": 117.85,
+     "end": 120.91,
+     "text": "Ada makcik jual pisang goreng, hari ini dia untung"
+    },
+    {
+     "t": 120.91,
+     "end": 124.45,
+     "text": "Hujan ni rezeki dia, dan dia tak sembunyikan senyum tu"
+    },
+    {
+     "t": 124.61,
+     "end": 124.61,
+     "text": "[Chorus - Group Response]"
+    },
+    {
+     "t": 124.61,
+     "end": 126.47,
+     "text": "Bawah jejambat, kami tunggu"
+    },
+    {
+     "t": 126.47,
+     "end": 129.83,
+     "text": "Bukan kawan, bukan saudara, tapi kami tunggu sama"
+    },
+    {
+     "t": 129.93,
+     "end": 131.07,
+     "text": "Hujan tak tanya kau kerja apa"
+    },
+    {
+     "t": 131.07,
+     "end": 131.69,
+     "text": "Hujan tak kisah kau nak ke mana"
+    },
+    {
+     "t": 131.69,
+     "end": 131.69,
+     "text": "[Bridge - handclaps and voices only]"
+    },
+    {
+     "t": 131.69,
+     "end": 137.63,
+     "text": "Hujan reda. Semua hidupkan enjin serentak."
+    },
+    {
+     "t": 138.35,
+     "end": 146.31,
+     "text": "Macam ada orang bagi isyarat. Tak ada orang bagi isyarat."
+    },
+    {
+     "t": 158.44,
+     "end": 158.44,
+     "text": "[Outro - rebana slowing]"
+    },
+    {
+     "t": 158.44,
+     "end": 168.34,
+     "text": "Esok hujan lagi"
+    },
+    {
+     "t": 168.36,
+     "end": 180.3,
+     "text": "Jumpa lagi, orang yang aku tak kenal"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ms02",
@@ -3737,7 +7913,145 @@
      "text": "Sabtu depan"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 26.7,
+     "end": 26.7,
+     "text": "[Intro - harmonium and gambus]"
+    },
+    {
+     "t": 26.7,
+     "end": 26.7,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 26.7,
+     "end": 31.68,
+     "text": "Setiap Sabtu pagi, baldi biru, span yang sama"
+    },
+    {
+     "t": 35.04,
+     "end": 41.36,
+     "text": "Ayah tak pernah suruh, aku pun tak pernah tanya"
+    },
+    {
+     "t": 43.64,
+     "end": 53.75,
+     "text": "Kereta tu lebih tua daripada adik aku"
+    },
+    {
+     "t": 54.13,
+     "end": 62.49,
+     "text": "Ayah cakap \"cukup lagi\" sejak sepuluh tahun lepas"
+    },
+    {
+     "t": 63.09,
+     "end": 63.09,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 63.09,
+     "end": 66.57,
+     "text": "Aku basuh bumbung dulu, baru tingkap"
+    },
+    {
+     "t": 68.55,
+     "end": 75.63,
+     "text": "Dia yang ajar macam tu, aku tak pernah ubah"
+    },
+    {
+     "t": 77.59,
+     "end": 77.59,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 77.59,
+     "end": 81.39,
+     "text": "Aku basuh kereta ayah"
+    },
+    {
+     "t": 81.59,
+     "end": 87.07,
+     "text": "Bukan sebab kotor, memang tak kotor sangat"
+    },
+    {
+     "t": 88.35,
+     "end": 92.87,
+     "text": "Tapi kalau aku tak buat, siapa nak buat"
+    },
+    {
+     "t": 94.13,
+     "end": 99.33,
+     "text": "Dan kalau tak ada sebab untuk balik, aku akan cari satu"
+    },
+    {
+     "t": 102.25,
+     "end": 102.25,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 102.25,
+     "end": 106.61,
+     "text": "Tahun ni dia duduk tengok je, kerusi plastik, kopi"
+    },
+    {
+     "t": 106.71,
+     "end": 108.97,
+     "text": "Dulu dia yang basuh, aku yang pegang hos"
+    },
+    {
+     "t": 108.97,
+     "end": 110.87,
+     "text": "Kami tak cakap pasal pertukaran tu"
+    },
+    {
+     "t": 110.87,
+     "end": 116.05,
+     "text": "Kami cakap pasal enjin, pasal tayar, pasal hujan"
+    },
+    {
+     "t": 118.23,
+     "end": 118.23,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 118.23,
+     "end": 125.29,
+     "text": "Aku basuh kereta ayah"
+    },
+    {
+     "t": 126.93,
+     "end": 132.97,
+     "text": "Bukan sebab kotor, memang tak kotor sangat"
+    },
+    {
+     "t": 134.07,
+     "end": 141.65,
+     "text": "Tapi kalau aku tak buat, siapa nak buat"
+    },
+    {
+     "t": 143.95,
+     "end": 149.53,
+     "text": "Dan kalau tak ada sebab untuk balik, aku dah jumpa satu"
+    },
+    {
+     "t": 154.17,
+     "end": 154.17,
+     "text": "[Outro - gambus and violin, fading]"
+    },
+    {
+     "t": 154.17,
+     "end": 201.92,
+     "text": "Baldi biru tu, aku simpan dalam stor"
+    },
+    {
+     "t": 205.22,
+     "end": 207.74,
+     "text": "Sabtu depan"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ms03",
@@ -3770,6 +8084,292 @@
    "generated_at": "2026-10-06T11:07:48.578259+08:00",
    "audio": "b4_ms03.mp3",
    "lyrics_timed": [
+    {
+     "t": 25.86,
+     "end": 25.86,
+     "text": "[Intro - gambus riff and marwas]"
+    },
+    {
+     "t": 25.86,
+     "end": 25.86,
+     "text": "[Verse 1 - Male Vocal]"
+    },
+    {
+     "t": 25.86,
+     "end": 39.2,
+     "text": "Dua minggu sebelum raya, mak putuskan dinding ruang tamu kena tukar warna"
+    },
+    {
+     "t": 42.34,
+     "end": 47.88,
+     "text": "Warna apa? \"Warna putih.\" Dinding tu memang dah putih."
+    },
+    {
+     "t": 50.51,
+     "end": 53.43,
+     "text": "Putih yang lain, kata mak. Putih yang baru."
+    },
+    {
+     "t": 54.67,
+     "end": 59.55,
+     "text": "Aku tak faham, tapi aku pergi beli"
+    },
+    {
+     "t": 65.75,
+     "end": 65.75,
+     "text": "[Chorus - Duet]"
+    },
+    {
+     "t": 65.75,
+     "end": 67.51,
+     "text": "Cat rumah sebelum raya"
+    },
+    {
+     "t": 67.81,
+     "end": 70.01,
+     "text": "Bukan sebab dinding tu buruk"
+    },
+    {
+     "t": 73.35,
+     "end": 78.09,
+     "text": "Sebab mak nak ada satu benda dalam rumah ni yang baru"
+    },
+    {
+     "t": 81.27,
+     "end": 85.81,
+     "text": "Dan tahun ni, cuma dinding yang dia mampu tukar"
+    },
+    {
+     "t": 85.81,
+     "end": 85.81,
+     "text": "[Verse 2 - Female Vocal]"
+    },
+    {
+     "t": 85.81,
+     "end": 99.11,
+     "text": "Abang pegang tangga, aku pegang berus, adik pegang telefon"
+    },
+    {
+     "t": 99.11,
+     "end": 105.47,
+     "text": "Tiga beradik, satu dinding, tiga pendapat"
+    },
+    {
+     "t": 105.47,
+     "end": 107.91,
+     "text": "Habis empat jam, dinding tu siap, dan ia memang nampak lain"
+    },
+    {
+     "t": 107.93,
+     "end": 113.45,
+     "text": "Aku tak nak mengaku pada mak yang dia betul"
+    },
+    {
+     "t": 113.51,
+     "end": 113.51,
+     "text": "[Chorus - Duet]"
+    },
+    {
+     "t": 113.51,
+     "end": 115.01,
+     "text": "Cat rumah sebelum raya"
+    },
+    {
+     "t": 115.01,
+     "end": 117.83,
+     "text": "Bukan sebab dinding tu buruk"
+    },
+    {
+     "t": 117.83,
+     "end": 120.91,
+     "text": "Sebab mak nak ada satu benda dalam rumah ni yang baru"
+    },
+    {
+     "t": 120.91,
+     "end": 150.51,
+     "text": "Dan tahun ni, dinding tu cukup untuk buat dia senyum"
+    },
+    {
+     "t": 150.53,
+     "end": 150.53,
+     "text": "[Bridge - gambus alone]"
+    },
+    {
+     "t": 150.53,
+     "end": 152.44,
+     "text": "Bau cat sampai hari raya"
+    },
+    {
+     "t": 154.44,
+     "end": 156.72,
+     "text": "Tetamu cakap \"wangi rumah ni\""
+    },
+    {
+     "t": 156.72,
+     "end": 168.2,
+     "text": "Mak tak betulkan dia orang"
+    },
+    {
+     "t": 168.42,
+     "end": 168.42,
+     "text": "[Outro - marwas stops]"
+    },
+    {
+     "t": 168.42,
+     "end": 174.08,
+     "text": "Tahun depan, dapur pula"
+    },
+    {
+     "t": 197.42,
+     "end": 198.48,
+     "text": "Mak dah cakap"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 25.86,
+     "end": 25.86,
+     "text": "[Intro - gambus riff and marwas]"
+    },
+    {
+     "t": 25.86,
+     "end": 25.86,
+     "text": "[Verse 1 - Male Vocal]"
+    },
+    {
+     "t": 25.86,
+     "end": 39.2,
+     "text": "Dua minggu sebelum raya, mak putuskan dinding ruang tamu kena tukar warna"
+    },
+    {
+     "t": 42.34,
+     "end": 47.88,
+     "text": "Warna apa? \"Warna putih.\" Dinding tu memang dah putih."
+    },
+    {
+     "t": 50.51,
+     "end": 53.43,
+     "text": "Putih yang lain, kata mak. Putih yang baru."
+    },
+    {
+     "t": 54.67,
+     "end": 59.55,
+     "text": "Aku tak faham, tapi aku pergi beli"
+    },
+    {
+     "t": 65.75,
+     "end": 65.75,
+     "text": "[Chorus - Duet]"
+    },
+    {
+     "t": 65.75,
+     "end": 67.51,
+     "text": "Cat rumah sebelum raya"
+    },
+    {
+     "t": 67.81,
+     "end": 70.01,
+     "text": "Bukan sebab dinding tu buruk"
+    },
+    {
+     "t": 73.35,
+     "end": 78.09,
+     "text": "Sebab mak nak ada satu benda dalam rumah ni yang baru"
+    },
+    {
+     "t": 81.27,
+     "end": 85.81,
+     "text": "Dan tahun ni, cuma dinding yang dia mampu tukar"
+    },
+    {
+     "t": 85.81,
+     "end": 85.81,
+     "text": "[Verse 2 - Female Vocal]"
+    },
+    {
+     "t": 85.81,
+     "end": 99.11,
+     "text": "Abang pegang tangga, aku pegang berus, adik pegang telefon"
+    },
+    {
+     "t": 99.11,
+     "end": 105.47,
+     "text": "Tiga beradik, satu dinding, tiga pendapat"
+    },
+    {
+     "t": 105.47,
+     "end": 107.91,
+     "text": "Habis empat jam, dinding tu siap, dan ia memang nampak lain"
+    },
+    {
+     "t": 107.93,
+     "end": 113.45,
+     "text": "Aku tak nak mengaku pada mak yang dia betul"
+    },
+    {
+     "t": 113.51,
+     "end": 113.51,
+     "text": "[Chorus - Duet]"
+    },
+    {
+     "t": 113.51,
+     "end": 115.01,
+     "text": "Cat rumah sebelum raya"
+    },
+    {
+     "t": 115.01,
+     "end": 117.83,
+     "text": "Bukan sebab dinding tu buruk"
+    },
+    {
+     "t": 117.83,
+     "end": 120.91,
+     "text": "Sebab mak nak ada satu benda dalam rumah ni yang baru"
+    },
+    {
+     "t": 120.91,
+     "end": 150.51,
+     "text": "Dan tahun ni, dinding tu cukup untuk buat dia senyum"
+    },
+    {
+     "t": 150.53,
+     "end": 150.53,
+     "text": "[Bridge - gambus alone]"
+    },
+    {
+     "t": 150.53,
+     "end": 152.44,
+     "text": "Bau cat sampai hari raya"
+    },
+    {
+     "t": 154.44,
+     "end": 156.72,
+     "text": "Tetamu cakap \"wangi rumah ni\""
+    },
+    {
+     "t": 156.72,
+     "end": 168.2,
+     "text": "Mak tak betulkan dia orang"
+    },
+    {
+     "t": 168.42,
+     "end": 168.42,
+     "text": "[Outro - marwas stops]"
+    },
+    {
+     "t": 168.42,
+     "end": 174.08,
+     "text": "Tahun depan, dapur pula"
+    },
+    {
+     "t": 197.42,
+     "end": 198.48,
+     "text": "Mak dah cakap"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 25.86,
      "end": 25.86,
@@ -3910,8 +8510,7 @@
      "end": 198.5,
      "text": "Mak dah cakap"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_ms04",
@@ -4085,7 +8684,150 @@
      "text": "Tak buka pun"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 24.82,
+     "end": 24.82,
+     "text": "[Intro - horn section and clavinet]"
+    },
+    {
+     "t": 24.82,
+     "end": 24.82,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 24.82,
+     "end": 32.0,
+     "text": "Sampul hijau, tiga puluh keping, aku kira dalam bilik"
+    },
+    {
+     "t": 34.1,
+     "end": 41.18,
+     "text": "Tahun ni aku yang bagi, bukan aku yang terima"
+    },
+    {
+     "t": 43.04,
+     "end": 50.13,
+     "text": "Tak ada orang umumkan pertukaran ni"
+    },
+    {
+     "t": 52.27,
+     "end": 59.75,
+     "text": "Satu tahun kau budak, tahun depan kau \"abang\""
+    },
+    {
+     "t": 60.97,
+     "end": 60.97,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 60.97,
+     "end": 62.01,
+     "text": "Duit raya"
+    },
+    {
+     "t": 63.15,
+     "end": 69.45,
+     "text": "Lima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah"
+    },
+    {
+     "t": 70.21,
+     "end": 74.13,
+     "text": "Mereka ambil, cakap terima kasih, terus lari"
+    },
+    {
+     "t": 74.83,
+     "end": 83.15,
+     "text": "Dan aku berdiri kat situ macam orang baru naik pangkat tapi tak naik gaji"
+    },
+    {
+     "t": 84.01,
+     "end": 84.01,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 84.01,
+     "end": 87.83,
+     "text": "Sepupu aku yang paling kecil tanya \"abang kerja apa?\""
+    },
+    {
+     "t": 91.51,
+     "end": 99.65,
+     "text": "Aku jawab panjang, dia dah lari separuh jalan"
+    },
+    {
+     "t": 100.49,
+     "end": 106.89,
+     "text": "Betul juga dia. Jawapan tu memang tak penting."
+    },
+    {
+     "t": 109.71,
+     "end": 115.87,
+     "text": "Yang penting sampul tu, dan dia dah dapat"
+    },
+    {
+     "t": 116.53,
+     "end": 116.53,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 116.53,
+     "end": 116.73,
+     "text": "Duit raya"
+    },
+    {
+     "t": 116.73,
+     "end": 119.73,
+     "text": "Lima ringgit untuk yang kecil, sepuluh untuk yang dah sekolah"
+    },
+    {
+     "t": 119.79,
+     "end": 128.15,
+     "text": "Mereka ambil, cakap terima kasih, terus lari"
+    },
+    {
+     "t": 128.15,
+     "end": 137.49,
+     "text": "Dan aku berdiri kat situ, senyum, macam orang tua yang aku dulu gelakkan"
+    },
+    {
+     "t": 148.05,
+     "end": 148.05,
+     "text": "[Bridge - bass and horns]"
+    },
+    {
+     "t": 148.05,
+     "end": 151.84,
+     "text": "Mak aku masih bagi aku sampul"
+    },
+    {
+     "t": 154.2,
+     "end": 155.88,
+     "text": "Aku dah tiga puluh dua"
+    },
+    {
+     "t": 156.26,
+     "end": 164.42,
+     "text": "Aku ambil. Aku ambil tiap-tiap tahun."
+    },
+    {
+     "t": 166.0,
+     "end": 166.0,
+     "text": "[Outro - horns, cut]"
+    },
+    {
+     "t": 166.0,
+     "end": 170.6,
+     "text": "Sampul tu aku simpan"
+    },
+    {
+     "t": 171.22,
+     "end": 173.32,
+     "text": "Tak buka pun"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_ms05",
@@ -4118,6 +8860,282 @@
    "generated_at": "2026-10-06T11:10:28.767399+08:00",
    "audio": "b4_ms05.mp3",
    "lyrics_timed": [
+    {
+     "t": 32.3,
+     "end": 32.3,
+     "text": "[Intro - bright synth hook]"
+    },
+    {
+     "t": 32.3,
+     "end": 32.3,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.3,
+     "end": 39.1,
+     "text": "Dia hantar gambar pertama: pas kerja, muka tak senyum"
+    },
+    {
+     "t": 40.02,
+     "end": 46.42,
+     "text": "Aku reply \"congrats bro\" dengan lima emoji"
+    },
+    {
+     "t": 50.33,
+     "end": 56.17,
+     "text": "Lepas tu kami chat tiap hari, lepas tu tiga hari sekali"
+    },
+    {
+     "t": 57.65,
+     "end": 61.77,
+     "text": "Lepas tu bila ada benda penting je"
+    },
+    {
+     "t": 61.77,
+     "end": 61.77,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 61.77,
+     "end": 65.95,
+     "text": "Dia balik raya, kami lepak sampai pukul tiga"
+    },
+    {
+     "t": 65.95,
+     "end": 74.37,
+     "text": "Dua jam pertama macam dulu, dua jam lepas tu kami cerita pasal kerja"
+    },
+    {
+     "t": 74.47,
+     "end": 74.47,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 74.47,
+     "end": 77.39,
+     "text": "Kawan aku pindah Singapura"
+    },
+    {
+     "t": 77.53,
+     "end": 82.21,
+     "text": "Dia tak berubah, aku pun tak berubah"
+    },
+    {
+     "t": 84.61,
+     "end": 88.85,
+     "text": "Yang berubah cuma jarak antara dua benda yang tak berubah"
+    },
+    {
+     "t": 88.85,
+     "end": 89.67,
+     "text": "Dan rupanya itu dah cukup"
+    },
+    {
+     "t": 89.85,
+     "end": 89.85,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 89.85,
+     "end": 90.99,
+     "text": "Dia cakap \"kau datang la, aku bagi tempat tidur\""
+    },
+    {
+     "t": 91.09,
+     "end": 92.43,
+     "text": "Aku cakap \"boleh boleh\", dua tahun aku tak pergi"
+    },
+    {
+     "t": 92.47,
+     "end": 107.71,
+     "text": "Bukan sebab tak nak, sebab tiket, sebab cuti, sebab semua benda yang bunyi macam alasan"
+    },
+    {
+     "t": 107.71,
+     "end": 108.21,
+     "text": "Sebab memang alasan"
+    },
+    {
+     "t": 108.21,
+     "end": 108.21,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 108.21,
+     "end": 111.91,
+     "text": "Kawan aku pindah Singapura"
+    },
+    {
+     "t": 115.09,
+     "end": 118.91,
+     "text": "Dia tak berubah, aku pun tak berubah"
+    },
+    {
+     "t": 118.93,
+     "end": 123.67,
+     "text": "Yang berubah cuma jarak antara dua benda yang tak berubah"
+    },
+    {
+     "t": 123.81,
+     "end": 127.81,
+     "text": "Dan rupanya itu dah lebih dari cukup"
+    },
+    {
+     "t": 135.67,
+     "end": 135.67,
+     "text": "[Outro - synth, fading]"
+    },
+    {
+     "t": 135.67,
+     "end": 136.83,
+     "text": "Aku dah beli tiket"
+    },
+    {
+     "t": 136.83,
+     "end": 185.94,
+     "text": "Bulan depan. Aku belum bagitau dia."
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 32.3,
+     "end": 32.3,
+     "text": "[Intro - bright synth hook]"
+    },
+    {
+     "t": 32.3,
+     "end": 32.3,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.3,
+     "end": 39.1,
+     "text": "Dia hantar gambar pertama: pas kerja, muka tak senyum"
+    },
+    {
+     "t": 40.02,
+     "end": 46.42,
+     "text": "Aku reply \"congrats bro\" dengan lima emoji"
+    },
+    {
+     "t": 50.33,
+     "end": 56.17,
+     "text": "Lepas tu kami chat tiap hari, lepas tu tiga hari sekali"
+    },
+    {
+     "t": 57.65,
+     "end": 61.77,
+     "text": "Lepas tu bila ada benda penting je"
+    },
+    {
+     "t": 61.77,
+     "end": 61.77,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 61.77,
+     "end": 65.95,
+     "text": "Dia balik raya, kami lepak sampai pukul tiga"
+    },
+    {
+     "t": 65.95,
+     "end": 74.37,
+     "text": "Dua jam pertama macam dulu, dua jam lepas tu kami cerita pasal kerja"
+    },
+    {
+     "t": 74.47,
+     "end": 74.47,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 74.47,
+     "end": 77.39,
+     "text": "Kawan aku pindah Singapura"
+    },
+    {
+     "t": 77.53,
+     "end": 82.21,
+     "text": "Dia tak berubah, aku pun tak berubah"
+    },
+    {
+     "t": 84.61,
+     "end": 88.85,
+     "text": "Yang berubah cuma jarak antara dua benda yang tak berubah"
+    },
+    {
+     "t": 88.85,
+     "end": 89.67,
+     "text": "Dan rupanya itu dah cukup"
+    },
+    {
+     "t": 89.85,
+     "end": 89.85,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 89.85,
+     "end": 90.99,
+     "text": "Dia cakap \"kau datang la, aku bagi tempat tidur\""
+    },
+    {
+     "t": 91.09,
+     "end": 92.43,
+     "text": "Aku cakap \"boleh boleh\", dua tahun aku tak pergi"
+    },
+    {
+     "t": 92.47,
+     "end": 107.71,
+     "text": "Bukan sebab tak nak, sebab tiket, sebab cuti, sebab semua benda yang bunyi macam alasan"
+    },
+    {
+     "t": 107.71,
+     "end": 108.21,
+     "text": "Sebab memang alasan"
+    },
+    {
+     "t": 108.21,
+     "end": 108.21,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 108.21,
+     "end": 111.91,
+     "text": "Kawan aku pindah Singapura"
+    },
+    {
+     "t": 115.09,
+     "end": 118.91,
+     "text": "Dia tak berubah, aku pun tak berubah"
+    },
+    {
+     "t": 118.93,
+     "end": 123.67,
+     "text": "Yang berubah cuma jarak antara dua benda yang tak berubah"
+    },
+    {
+     "t": 123.81,
+     "end": 127.81,
+     "text": "Dan rupanya itu dah lebih dari cukup"
+    },
+    {
+     "t": 135.67,
+     "end": 135.67,
+     "text": "[Outro - synth, fading]"
+    },
+    {
+     "t": 135.67,
+     "end": 136.83,
+     "text": "Aku dah beli tiket"
+    },
+    {
+     "t": 136.83,
+     "end": 185.94,
+     "text": "Bulan depan. Aku belum bagitau dia."
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 32.3,
      "end": 32.3,
@@ -4253,8 +9271,7 @@
      "end": 185.94,
      "text": "Bulan depan. Aku belum bagitau dia."
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_nan01",
@@ -4393,7 +9410,125 @@
      "text": "草人 阮欲共伊搬轉去"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 21.34,
+     "end": 21.34,
+     "text": "[Verse]"
+    },
+    {
+     "t": 21.34,
+     "end": 26.58,
+     "text": "阿公的草人 徛佇田中央 三十冬"
+    },
+    {
+     "t": 27.68,
+     "end": 35.98,
+     "text": "衫是阿公的 帽仔是阿公的 連彼个徛法攏是阿公的"
+    },
+    {
+     "t": 37.56,
+     "end": 46.0,
+     "text": "鳥仔頭一冬會驚 第二冬就無驚矣"
+    },
+    {
+     "t": 48.14,
+     "end": 53.95,
+     "text": "阿公講「毋是欲驚鳥仔 是欲予我看著田裡有人」"
+    },
+    {
+     "t": 57.29,
+     "end": 57.29,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 57.29,
+     "end": 60.27,
+     "text": "稻草人 無跤 袂走"
+    },
+    {
+     "t": 60.39,
+     "end": 62.53,
+     "text": "伊徛佇遐 替阿公徛"
+    },
+    {
+     "t": 64.23,
+     "end": 66.59,
+     "text": "阿公無佇咧 伊猶原徛"
+    },
+    {
+     "t": 67.15,
+     "end": 74.51,
+     "text": "規个田攏無人 伊猶原徛"
+    },
+    {
+     "t": 91.59,
+     "end": 91.59,
+     "text": "[Verse]"
+    },
+    {
+     "t": 91.59,
+     "end": 94.71,
+     "text": "今年風透 共伊吹倒"
+    },
+    {
+     "t": 95.07,
+     "end": 102.79,
+     "text": "阮共伊插轉去 阮無共伊換衫"
+    },
+    {
+     "t": 105.29,
+     "end": 111.75,
+     "text": "彼領衫已經破甲欲無形"
+    },
+    {
+     "t": 111.75,
+     "end": 115.73,
+     "text": "阮猶是無換 換咧就毋是伊矣"
+    },
+    {
+     "t": 119.03,
+     "end": 119.03,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 119.03,
+     "end": 121.99,
+     "text": "稻草人 無跤 袂走"
+    },
+    {
+     "t": 122.09,
+     "end": 124.25,
+     "text": "伊徛佇遐 替阿公徛"
+    },
+    {
+     "t": 125.93,
+     "end": 128.31,
+     "text": "阿公無佇咧 伊猶原徛"
+    },
+    {
+     "t": 128.87,
+     "end": 146.19,
+     "text": "規个田攏無人 伊猶原替阮徛"
+    },
+    {
+     "t": 146.25,
+     "end": 146.25,
+     "text": "[Outro]"
+    },
+    {
+     "t": 146.25,
+     "end": 156.06,
+     "text": "田賣掉矣 下個月"
+    },
+    {
+     "t": 156.66,
+     "end": 160.82,
+     "text": "草人 阮欲共伊搬轉去"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_nan02",
@@ -4547,7 +9682,140 @@
      "text": "阮閣來曝"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 11.78,
+     "end": 11.78,
+     "text": "[Verse]"
+    },
+    {
+     "t": 11.78,
+     "end": 20.14,
+     "text": "透早日頭好 阿母就講「今仔日通曝棉被」"
+    },
+    {
+     "t": 23.28,
+     "end": 27.78,
+     "text": "伊講甲像是一个真重要的消息"
+    },
+    {
+     "t": 28.2,
+     "end": 32.18,
+     "text": "阮講「好」 阮共棉被搬去頂樓"
+    },
+    {
+     "t": 34.84,
+     "end": 36.68,
+     "text": "六領 阮搬三逝"
+    },
+    {
+     "t": 37.22,
+     "end": 37.22,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 37.22,
+     "end": 42.93,
+     "text": "下晡三點 阿母去翻面"
+    },
+    {
+     "t": 44.93,
+     "end": 49.73,
+     "text": "伊講「一面曝兩點鐘 袂當偏心」"
+    },
+    {
+     "t": 50.23,
+     "end": 50.23,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 50.23,
+     "end": 54.23,
+     "text": "曝棉被"
+    },
+    {
+     "t": 56.15,
+     "end": 58.35,
+     "text": "暗時棉被有日頭的味"
+    },
+    {
+     "t": 58.45,
+     "end": 64.49,
+     "text": "彼个味 無法度買 嘛無法度囥"
+    },
+    {
+     "t": 64.83,
+     "end": 69.15,
+     "text": "一冬才幾擺 阮攏記會牢"
+    },
+    {
+     "t": 70.05,
+     "end": 70.05,
+     "text": "[Verse]"
+    },
+    {
+     "t": 70.05,
+     "end": 73.71,
+     "text": "今年阿母無爬頂樓矣 跤無力"
+    },
+    {
+     "t": 79.15,
+     "end": 84.97,
+     "text": "阮家己搬 阮家己翻面"
+    },
+    {
+     "t": 85.09,
+     "end": 90.07,
+     "text": "阮翻了無伊遐爾好勢"
+    },
+    {
+     "t": 90.07,
+     "end": 98.55,
+     "text": "阮下暗睏的時 鼻看覓 有 猶原有"
+    },
+    {
+     "t": 100.05,
+     "end": 100.05,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 100.05,
+     "end": 101.65,
+     "text": "曝棉被"
+    },
+    {
+     "t": 103.59,
+     "end": 105.87,
+     "text": "暗時棉被有日頭的味"
+    },
+    {
+     "t": 105.89,
+     "end": 111.95,
+     "text": "彼个味 無法度買 嘛無法度囥"
+    },
+    {
+     "t": 112.25,
+     "end": 118.69,
+     "text": "一冬才幾擺 阮欲共伊全部記會牢"
+    },
+    {
+     "t": 118.69,
+     "end": 118.69,
+     "text": "[Outro]"
+    },
+    {
+     "t": 118.69,
+     "end": 125.72,
+     "text": "後擺好天"
+    },
+    {
+     "t": 125.74,
+     "end": 126.36,
+     "text": "阮閣來曝"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_nan03",
@@ -4686,7 +9954,125 @@
      "text": "阮毋甘開"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 19.5,
+     "end": 19.5,
+     "text": "[Verse]"
+    },
+    {
+     "t": 19.5,
+     "end": 22.98,
+     "text": "巷仔底彼間 做豆油做六十冬"
+    },
+    {
+     "t": 23.02,
+     "end": 27.88,
+     "text": "一百二十甕 排佇後壁埕 曝日頭"
+    },
+    {
+     "t": 28.6,
+     "end": 34.98,
+     "text": "頭家七十八歲 伊逐工去共甕掀開 閣崁轉去"
+    },
+    {
+     "t": 35.42,
+     "end": 40.31,
+     "text": "掀開 崁轉去 一工兩擺 六十冬"
+    },
+    {
+     "t": 43.93,
+     "end": 43.93,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 43.93,
+     "end": 44.67,
+     "text": "豆油間"
+    },
+    {
+     "t": 45.89,
+     "end": 49.13,
+     "text": "時間佇遮 毋是用鐘量的"
+    },
+    {
+     "t": 50.67,
+     "end": 57.91,
+     "text": "是用甕 是用日頭 是用一个人的手"
+    },
+    {
+     "t": 58.07,
+     "end": 65.21,
+     "text": "六十冬 一个人 一百二十甕"
+    },
+    {
+     "t": 69.37,
+     "end": 69.37,
+     "text": "[Verse]"
+    },
+    {
+     "t": 69.37,
+     "end": 76.47,
+     "text": "囝孫無人欲接 頭家家己講的 伊無怨"
+    },
+    {
+     "t": 77.95,
+     "end": 82.69,
+     "text": "伊講「做這个 愛等 這馬無人欲等」"
+    },
+    {
+     "t": 83.29,
+     "end": 87.23,
+     "text": "伊講了閣笑 笑了閣去掀甕"
+    },
+    {
+     "t": 87.85,
+     "end": 91.61,
+     "text": "伊的手 比伊的話較誠實"
+    },
+    {
+     "t": 96.01,
+     "end": 96.01,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 96.01,
+     "end": 96.79,
+     "text": "豆油間"
+    },
+    {
+     "t": 97.97,
+     "end": 102.47,
+     "text": "時間佇遮 毋是用鐘量的"
+    },
+    {
+     "t": 102.75,
+     "end": 109.98,
+     "text": "是用甕 是用日頭 是用一个人的手"
+    },
+    {
+     "t": 110.16,
+     "end": 117.22,
+     "text": "六十冬 一个人 一百二十甕 猶咧算"
+    },
+    {
+     "t": 121.76,
+     "end": 121.76,
+     "text": "[Outro]"
+    },
+    {
+     "t": 121.76,
+     "end": 123.9,
+     "text": "阮買一矸轉去"
+    },
+    {
+     "t": 126.58,
+     "end": 128.64,
+     "text": "阮毋甘開"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_nan04",
@@ -4709,6 +10095,272 @@
    "audio": "b4_nan04.mp3",
    "engine": "mlx-Yue",
    "lyrics_timed": [
+    {
+     "t": 21.5,
+     "end": 21.5,
+     "text": "[Verse]"
+    },
+    {
+     "t": 21.5,
+     "end": 24.56,
+     "text": "囡仔十四個月 攏猶未講話"
+    },
+    {
+     "t": 25.68,
+     "end": 29.62,
+     "text": "規家伙仔逐工咧教 教「爸爸」 教「媽媽」"
+    },
+    {
+     "t": 30.74,
+     "end": 34.84,
+     "text": "阮阿母無教 伊干焦共伊抱 共伊唱歌"
+    },
+    {
+     "t": 35.14,
+     "end": 40.16,
+     "text": "唱的是伊細漢時 阮阿嬤唱予伊聽的彼條"
+    },
+    {
+     "t": 41.5,
+     "end": 41.5,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 41.5,
+     "end": 44.2,
+     "text": "彼工下晡 無人咧注意"
+    },
+    {
+     "t": 44.26,
+     "end": 50.27,
+     "text": "囡仔忽然間出聲"
+    },
+    {
+     "t": 50.95,
+     "end": 50.95,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 50.95,
+     "end": 52.85,
+     "text": "頭一聲 伊叫「阿嬤」"
+    },
+    {
+     "t": 53.51,
+     "end": 55.37,
+     "text": "毋是爸爸 毋是媽媽"
+    },
+    {
+     "t": 56.03,
+     "end": 59.01,
+     "text": "阮阿母彼下 攏無講話"
+    },
+    {
+     "t": 60.81,
+     "end": 69.35,
+     "text": "伊共囡仔攬牢牢 共面囥佇囡仔的頭毛內底"
+    },
+    {
+     "t": 90.77,
+     "end": 90.77,
+     "text": "[Verse]"
+    },
+    {
+     "t": 90.77,
+     "end": 95.33,
+     "text": "後來阮問伊 「你是按怎教的」"
+    },
+    {
+     "t": 96.33,
+     "end": 99.53,
+     "text": "伊講伊無教 伊干焦一直唱"
+    },
+    {
+     "t": 101.37,
+     "end": 106.05,
+     "text": "伊講「伊聽著的聲 上濟的是我」"
+    },
+    {
+     "t": 107.13,
+     "end": 110.47,
+     "text": "這句話 阮想甲今仔日"
+    },
+    {
+     "t": 111.59,
+     "end": 111.59,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 111.59,
+     "end": 113.49,
+     "text": "頭一聲 伊叫「阿嬤」"
+    },
+    {
+     "t": 114.11,
+     "end": 116.01,
+     "text": "毋是爸爸 毋是媽媽"
+    },
+    {
+     "t": 116.65,
+     "end": 119.67,
+     "text": "阮阿母彼下 攏無講話"
+    },
+    {
+     "t": 121.45,
+     "end": 128.63,
+     "text": "伊共囡仔攬牢牢 攬甲阮袂記得伊捌遐爾歹"
+    },
+    {
+     "t": 132.41,
+     "end": 132.41,
+     "text": "[Outro]"
+    },
+    {
+     "t": 132.41,
+     "end": 134.61,
+     "text": "這馬囡仔會曉講真濟話矣"
+    },
+    {
+     "t": 137.51,
+     "end": 161.02,
+     "text": "伊上愛講的 猶原是彼兩字"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 21.5,
+     "end": 21.5,
+     "text": "[Verse]"
+    },
+    {
+     "t": 21.5,
+     "end": 24.56,
+     "text": "囡仔十四個月 攏猶未講話"
+    },
+    {
+     "t": 25.68,
+     "end": 29.62,
+     "text": "規家伙仔逐工咧教 教「爸爸」 教「媽媽」"
+    },
+    {
+     "t": 30.74,
+     "end": 34.84,
+     "text": "阮阿母無教 伊干焦共伊抱 共伊唱歌"
+    },
+    {
+     "t": 35.14,
+     "end": 40.16,
+     "text": "唱的是伊細漢時 阮阿嬤唱予伊聽的彼條"
+    },
+    {
+     "t": 41.5,
+     "end": 41.5,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 41.5,
+     "end": 44.2,
+     "text": "彼工下晡 無人咧注意"
+    },
+    {
+     "t": 44.26,
+     "end": 50.27,
+     "text": "囡仔忽然間出聲"
+    },
+    {
+     "t": 50.95,
+     "end": 50.95,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 50.95,
+     "end": 52.85,
+     "text": "頭一聲 伊叫「阿嬤」"
+    },
+    {
+     "t": 53.51,
+     "end": 55.37,
+     "text": "毋是爸爸 毋是媽媽"
+    },
+    {
+     "t": 56.03,
+     "end": 59.01,
+     "text": "阮阿母彼下 攏無講話"
+    },
+    {
+     "t": 60.81,
+     "end": 69.35,
+     "text": "伊共囡仔攬牢牢 共面囥佇囡仔的頭毛內底"
+    },
+    {
+     "t": 90.77,
+     "end": 90.77,
+     "text": "[Verse]"
+    },
+    {
+     "t": 90.77,
+     "end": 95.33,
+     "text": "後來阮問伊 「你是按怎教的」"
+    },
+    {
+     "t": 96.33,
+     "end": 99.53,
+     "text": "伊講伊無教 伊干焦一直唱"
+    },
+    {
+     "t": 101.37,
+     "end": 106.05,
+     "text": "伊講「伊聽著的聲 上濟的是我」"
+    },
+    {
+     "t": 107.13,
+     "end": 110.47,
+     "text": "這句話 阮想甲今仔日"
+    },
+    {
+     "t": 111.59,
+     "end": 111.59,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 111.59,
+     "end": 113.49,
+     "text": "頭一聲 伊叫「阿嬤」"
+    },
+    {
+     "t": 114.11,
+     "end": 116.01,
+     "text": "毋是爸爸 毋是媽媽"
+    },
+    {
+     "t": 116.65,
+     "end": 119.67,
+     "text": "阮阿母彼下 攏無講話"
+    },
+    {
+     "t": 121.45,
+     "end": 128.63,
+     "text": "伊共囡仔攬牢牢 攬甲阮袂記得伊捌遐爾歹"
+    },
+    {
+     "t": 132.41,
+     "end": 132.41,
+     "text": "[Outro]"
+    },
+    {
+     "t": 132.41,
+     "end": 134.61,
+     "text": "這馬囡仔會曉講真濟話矣"
+    },
+    {
+     "t": 137.51,
+     "end": 161.02,
+     "text": "伊上愛講的 猶原是彼兩字"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 21.5,
      "end": 21.5,
@@ -4839,8 +10491,7 @@
      "end": 140.77,
      "text": "伊上愛講的 猶原是彼兩字"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_nan05",
@@ -4989,7 +10640,135 @@
      "text": "「你按怎知我愛這條」"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 20.56,
+     "end": 20.56,
+     "text": "[Verse]"
+    },
+    {
+     "t": 20.56,
+     "end": 26.48,
+     "text": "半暝十二點 電台有一个點歌的節目"
+    },
+    {
+     "t": 28.04,
+     "end": 31.46,
+     "text": "阮阿爸逐暗聽 聽三十冬"
+    },
+    {
+     "t": 31.9,
+     "end": 38.78,
+     "text": "伊毋捌點過 伊講「聽別人點就好」"
+    },
+    {
+     "t": 38.9,
+     "end": 40.16,
+     "text": "三十冬 攏毋捌點"
+    },
+    {
+     "t": 43.27,
+     "end": 43.27,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 43.27,
+     "end": 43.89,
+     "text": "點歌"
+    },
+    {
+     "t": 44.75,
+     "end": 49.45,
+     "text": "彼个節目逐暗攏有人咧講家己的代誌"
+    },
+    {
+     "t": 49.55,
+     "end": 54.75,
+     "text": "講予一个毋捌面的主持人聽"
+    },
+    {
+     "t": 54.91,
+     "end": 58.83,
+     "text": "講予規个暗暝攏睏袂去的人聽"
+    },
+    {
+     "t": 61.69,
+     "end": 69.59,
+     "text": "阮阿爸毋捌講 伊干焦聽"
+    },
+    {
+     "t": 72.85,
+     "end": 72.85,
+     "text": "[Verse]"
+    },
+    {
+     "t": 72.85,
+     "end": 78.75,
+     "text": "阿爸七十歲生日 阮家己打電話入去"
+    },
+    {
+     "t": 80.05,
+     "end": 86.19,
+     "text": "阮講「我欲點予阮阿爸」 主持人問「伊叫啥物名」"
+    },
+    {
+     "t": 86.33,
+     "end": 94.21,
+     "text": "阮講出來 阮聽著家己的聲佇收音機內底"
+    },
+    {
+     "t": 95.79,
+     "end": 102.15,
+     "text": "阮越頭看 阿爸無講話 伊共音量轉大"
+    },
+    {
+     "t": 105.21,
+     "end": 105.21,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 105.21,
+     "end": 105.71,
+     "text": "點歌"
+    },
+    {
+     "t": 105.73,
+     "end": 111.65,
+     "text": "彼个節目逐暗攏有人咧講家己的代誌"
+    },
+    {
+     "t": 112.95,
+     "end": 116.67,
+     "text": "講予一个毋捌面的主持人聽"
+    },
+    {
+     "t": 116.85,
+     "end": 120.83,
+     "text": "講予規个暗暝攏睏袂去的人聽"
+    },
+    {
+     "t": 128.24,
+     "end": 131.18,
+     "text": "彼暗 阮阿爸是彼个予人點的人"
+    },
+    {
+     "t": 131.2,
+     "end": 131.2,
+     "text": "[Outro]"
+    },
+    {
+     "t": 131.2,
+     "end": 134.52,
+     "text": "歌煞 伊才講一句"
+    },
+    {
+     "t": 134.62,
+     "end": 138.66,
+     "text": "「你按怎知我愛這條」"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_th01",
@@ -5022,6 +10801,292 @@
    "generated_at": "2026-10-06T11:25:03.875478+08:00",
    "audio": "b4_th01.mp3",
    "lyrics_timed": [
+    {
+     "t": 32.52,
+     "end": 32.52,
+     "text": "[Intro - angular bass and dry drums]"
+    },
+    {
+     "t": 32.52,
+     "end": 32.52,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.52,
+     "end": 38.08,
+     "text": "ตู้เย็นบ้านฉันดังมาก ดังตั้งแต่ปีที่แล้ว"
+    },
+    {
+     "t": 38.78,
+     "end": 47.03,
+     "text": "ดังเป็นช่วง ๆ ไม่ใช่ดังตลอด ซึ่งแย่กว่าดังตลอด"
+    },
+    {
+     "t": 48.11,
+     "end": 50.35,
+     "text": "เพราะฉันต้องรอ ฉันนอนรอว่ามันจะดังตอนไหน"
+    },
+    {
+     "t": 50.37,
+     "end": 57.09,
+     "text": "สิ่งที่ทำให้ฉันไม่หลับ ไม่ใช่เสียง แต่คือการรอเสียง"
+    },
+    {
+     "t": 59.23,
+     "end": 59.23,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 59.23,
+     "end": 62.11,
+     "text": "ช่างบอกว่าซ่อมได้ สองพัน"
+    },
+    {
+     "t": 63.75,
+     "end": 69.03,
+     "text": "ตู้ใหม่หกพัน ฉันคิดเลขอยู่สามเดือน"
+    },
+    {
+     "t": 70.37,
+     "end": 70.37,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 70.37,
+     "end": 71.89,
+     "text": "ตู้เย็นเสียงดัง"
+    },
+    {
+     "t": 72.97,
+     "end": 77.35,
+     "text": "ฉันอยู่กับมันมาปีนึงแล้ว"
+    },
+    {
+     "t": 77.35,
+     "end": 79.17,
+     "text": "คนที่มาบ้านฉันถามทุกคน ฉันตอบว่า \"เดี๋ยวมันก็หยุด\""
+    },
+    {
+     "t": 79.21,
+     "end": 95.41,
+     "text": "มันไม่เคยหยุด ฉันต่างหากที่หยุดได้ยิน"
+    },
+    {
+     "t": 100.35,
+     "end": 100.35,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 100.35,
+     "end": 104.91,
+     "text": "แม่มาอยู่สามคืน คืนแรกแม่ไม่พูดอะไร"
+    },
+    {
+     "t": 106.01,
+     "end": 111.51,
+     "text": "คืนที่สองแม่ถาม คืนที่สามแม่โทรเรียกช่างเอง"
+    },
+    {
+     "t": 112.23,
+     "end": 113.75,
+     "text": "จ่ายเอง ไม่บอกฉัน"
+    },
+    {
+     "t": 114.59,
+     "end": 122.53,
+     "text": "ฉันโกรธอยู่ห้านาที แล้วฉันก็ร้องไห้ ซึ่งไม่เกี่ยวกับตู้เย็นเลย"
+    },
+    {
+     "t": 136.79,
+     "end": 136.79,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 136.79,
+     "end": 138.35,
+     "text": "ตู้เย็นเสียงดัง"
+    },
+    {
+     "t": 138.35,
+     "end": 143.0,
+     "text": "ฉันอยู่กับมันมาปีนึงแล้ว"
+    },
+    {
+     "t": 143.0,
+     "end": 150.04,
+     "text": "คนที่มาบ้านฉันถามทุกคน ฉันตอบว่า \"เดี๋ยวมันก็หยุด\""
+    },
+    {
+     "t": 150.04,
+     "end": 157.02,
+     "text": "มันหยุดแล้ว และห้องนี้เงียบจนฉันนอนไม่หลับอยู่ดี"
+    },
+    {
+     "t": 163.04,
+     "end": 163.04,
+     "text": "[Outro - band cuts]"
+    },
+    {
+     "t": 163.04,
+     "end": 168.64,
+     "text": "เงียบ"
+    },
+    {
+     "t": 168.7,
+     "end": 178.0,
+     "text": "เงียบมาก"
+    },
+    {
+     "t": 178.0,
+     "end": 178.0,
+     "text": "[Song ends abruptly]"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 32.52,
+     "end": 32.52,
+     "text": "[Intro - angular bass and dry drums]"
+    },
+    {
+     "t": 32.52,
+     "end": 32.52,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.52,
+     "end": 38.08,
+     "text": "ตู้เย็นบ้านฉันดังมาก ดังตั้งแต่ปีที่แล้ว"
+    },
+    {
+     "t": 38.78,
+     "end": 47.03,
+     "text": "ดังเป็นช่วง ๆ ไม่ใช่ดังตลอด ซึ่งแย่กว่าดังตลอด"
+    },
+    {
+     "t": 48.11,
+     "end": 50.35,
+     "text": "เพราะฉันต้องรอ ฉันนอนรอว่ามันจะดังตอนไหน"
+    },
+    {
+     "t": 50.37,
+     "end": 57.09,
+     "text": "สิ่งที่ทำให้ฉันไม่หลับ ไม่ใช่เสียง แต่คือการรอเสียง"
+    },
+    {
+     "t": 59.23,
+     "end": 59.23,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 59.23,
+     "end": 62.11,
+     "text": "ช่างบอกว่าซ่อมได้ สองพัน"
+    },
+    {
+     "t": 63.75,
+     "end": 69.03,
+     "text": "ตู้ใหม่หกพัน ฉันคิดเลขอยู่สามเดือน"
+    },
+    {
+     "t": 70.37,
+     "end": 70.37,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 70.37,
+     "end": 71.89,
+     "text": "ตู้เย็นเสียงดัง"
+    },
+    {
+     "t": 72.97,
+     "end": 77.35,
+     "text": "ฉันอยู่กับมันมาปีนึงแล้ว"
+    },
+    {
+     "t": 77.35,
+     "end": 79.17,
+     "text": "คนที่มาบ้านฉันถามทุกคน ฉันตอบว่า \"เดี๋ยวมันก็หยุด\""
+    },
+    {
+     "t": 79.21,
+     "end": 95.41,
+     "text": "มันไม่เคยหยุด ฉันต่างหากที่หยุดได้ยิน"
+    },
+    {
+     "t": 100.35,
+     "end": 100.35,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 100.35,
+     "end": 104.91,
+     "text": "แม่มาอยู่สามคืน คืนแรกแม่ไม่พูดอะไร"
+    },
+    {
+     "t": 106.01,
+     "end": 111.51,
+     "text": "คืนที่สองแม่ถาม คืนที่สามแม่โทรเรียกช่างเอง"
+    },
+    {
+     "t": 112.23,
+     "end": 113.75,
+     "text": "จ่ายเอง ไม่บอกฉัน"
+    },
+    {
+     "t": 114.59,
+     "end": 122.53,
+     "text": "ฉันโกรธอยู่ห้านาที แล้วฉันก็ร้องไห้ ซึ่งไม่เกี่ยวกับตู้เย็นเลย"
+    },
+    {
+     "t": 136.79,
+     "end": 136.79,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 136.79,
+     "end": 138.35,
+     "text": "ตู้เย็นเสียงดัง"
+    },
+    {
+     "t": 138.35,
+     "end": 143.0,
+     "text": "ฉันอยู่กับมันมาปีนึงแล้ว"
+    },
+    {
+     "t": 143.0,
+     "end": 150.04,
+     "text": "คนที่มาบ้านฉันถามทุกคน ฉันตอบว่า \"เดี๋ยวมันก็หยุด\""
+    },
+    {
+     "t": 150.04,
+     "end": 157.02,
+     "text": "มันหยุดแล้ว และห้องนี้เงียบจนฉันนอนไม่หลับอยู่ดี"
+    },
+    {
+     "t": 163.04,
+     "end": 163.04,
+     "text": "[Outro - band cuts]"
+    },
+    {
+     "t": 163.04,
+     "end": 168.64,
+     "text": "เงียบ"
+    },
+    {
+     "t": 168.7,
+     "end": 178.0,
+     "text": "เงียบมาก"
+    },
+    {
+     "t": 178.0,
+     "end": 178.0,
+     "text": "[Song ends abruptly]"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 1.1,
      "end": 1.1,
@@ -5162,8 +11227,7 @@
      "end": 161.94,
      "text": "[Song ends abruptly]"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_th02",
@@ -5332,7 +11396,145 @@
      "text": "พรุ่งนี้ฉันหุงอีก"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 27.76,
+     "end": 27.76,
+     "text": "[Intro - saw duang and clean guitar]"
+    },
+    {
+     "t": 27.76,
+     "end": 27.76,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 27.76,
+     "end": 33.98,
+     "text": "หกโมงเช้า ยายตื่นตีห้า หุงข้าวใหม่ทุกวัน"
+    },
+    {
+     "t": 37.4,
+     "end": 51.98,
+     "text": "ข้าวถุงเก่าก็มี แต่ยายไม่ใส่ ยายบอกว่า \"ของใส่บาตรต้องใหม่\""
+    },
+    {
+     "t": 53.04,
+     "end": 58.33,
+     "text": "ฉันเคยเถียง ฉันเคยบอกว่าพระท่านไม่รู้หรอก"
+    },
+    {
+     "t": 58.45,
+     "end": 62.51,
+     "text": "ยายบอกว่า \"ยายรู้\""
+    },
+    {
+     "t": 63.05,
+     "end": 63.05,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 63.05,
+     "end": 71.47,
+     "text": "สองคำนั้น ฉันเถียงไม่ออกอยู่สิบปี"
+    },
+    {
+     "t": 71.49,
+     "end": 76.09,
+     "text": "และฉันก็ไม่เคยเถียงอีกเลย"
+    },
+    {
+     "t": 77.45,
+     "end": 77.45,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 77.45,
+     "end": 78.37,
+     "text": "ใส่บาตร"
+    },
+    {
+     "t": 78.49,
+     "end": 83.11,
+     "text": "ยายไม่ได้ทำให้พระ ยายทำให้ตัวยายเอง"
+    },
+    {
+     "t": 83.13,
+     "end": 87.73,
+     "text": "ทุกเช้ายายได้เป็นคนที่ให้ ก่อนที่ใครจะมาเอาอะไรจากยาย"
+    },
+    {
+     "t": 87.73,
+     "end": 93.39,
+     "text": "หกโมงเช้า ยายเป็นคนรวยที่สุดในซอยนี้"
+    },
+    {
+     "t": 93.57,
+     "end": 93.57,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 93.57,
+     "end": 105.01,
+     "text": "ยายไปแล้วปีนึง หม้อข้าวยังอยู่ ฉันไม่ได้ใช้"
+    },
+    {
+     "t": 105.09,
+     "end": 120.59,
+     "text": "เช้าวันหนึ่งฉันตื่นตีห้า ฉันไม่รู้ว่าทำไม"
+    },
+    {
+     "t": 120.79,
+     "end": 131.07,
+     "text": "ฉันหุงข้าวใหม่ ฉันออกไปยืนหน้าบ้าน"
+    },
+    {
+     "t": 131.09,
+     "end": 154.53,
+     "text": "ฉันไม่ได้ทำให้พระ ตอนนี้ฉันเข้าใจแล้ว"
+    },
+    {
+     "t": 155.19,
+     "end": 155.19,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 155.19,
+     "end": 160.09,
+     "text": "ใส่บาตร"
+    },
+    {
+     "t": 160.09,
+     "end": 165.18,
+     "text": "ยายไม่ได้ทำให้พระ ยายทำให้ตัวยายเอง"
+    },
+    {
+     "t": 165.18,
+     "end": 184.94,
+     "text": "ทุกเช้ายายได้เป็นคนที่ให้ ก่อนที่ใครจะมาเอาอะไรจากยาย"
+    },
+    {
+     "t": 184.94,
+     "end": 193.72,
+     "text": "หกโมงเช้า ตอนนี้ฉันเป็นคนรวยที่สุดในซอยนี้"
+    },
+    {
+     "t": 193.9,
+     "end": 193.9,
+     "text": "[Outro - saw duang alone]"
+    },
+    {
+     "t": 193.9,
+     "end": 200.88,
+     "text": "หม้อข้าวใบนั้น"
+    },
+    {
+     "t": 203.6,
+     "end": 208.74,
+     "text": "พรุ่งนี้ฉันหุงอีก"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_th03",
@@ -5486,7 +11688,130 @@
      "text": "ฉันวางสายก่อน แม่บอกว่า \"ขับดี ๆ\""
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 25.44,
+     "end": 25.44,
+     "text": "[Intro - jangly guitars and organ]"
+    },
+    {
+     "t": 25.44,
+     "end": 25.44,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 25.44,
+     "end": 32.22,
+     "text": "หกโมงเย็น ทางด่วน ไม่ขยับมาสี่สิบนาที"
+    },
+    {
+     "t": 34.08,
+     "end": 43.58,
+     "text": "ข้างซ้ายมีครอบครัวกินข้าวในรถ ข้างขวามีผู้ชายร้องเพลงคนเดียว"
+    },
+    {
+     "t": 44.64,
+     "end": 49.32,
+     "text": "ฉันเห็นเขาร้องท่อนฮุก ฉันเดาเพลงออก"
+    },
+    {
+     "t": 49.4,
+     "end": 54.53,
+     "text": "ฉันก็ร้องตาม ในรถฉันเอง เขาไม่รู้"
+    },
+    {
+     "t": 58.83,
+     "end": 58.83,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 58.83,
+     "end": 63.49,
+     "text": "รถติดบนทางด่วน"
+    },
+    {
+     "t": 63.59,
+     "end": 83.09,
+     "text": "ไม่มีใครไปไหนได้ ก็เลยไม่มีใครต้องรีบเป็นใคร"
+    },
+    {
+     "t": 84.09,
+     "end": 89.15,
+     "text": "สี่สิบนาทีนี้ ไม่มีใครรอฉันอยู่ได้จริง ๆ"
+    },
+    {
+     "t": 89.35,
+     "end": 94.93,
+     "text": "มันเป็นเวลาเดียวในวันที่ฉันสายได้อย่างถูกต้อง"
+    },
+    {
+     "t": 96.25,
+     "end": 96.25,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 96.25,
+     "end": 122.45,
+     "text": "ฉันเคยโกรธรถติด ฉันเคยบีบแตร ฉันเคยสลับเลน"
+    },
+    {
+     "t": 122.45,
+     "end": 125.95,
+     "text": "ตอนนี้ฉันเปิดแอร์ ฉันเอนเบาะ ฉันโทรหาแม่"
+    },
+    {
+     "t": 126.05,
+     "end": 131.77,
+     "text": "คุยสิบนาที ซึ่งทั้งเดือนฉันหาไม่ได้สิบนาที"
+    },
+    {
+     "t": 131.77,
+     "end": 134.23,
+     "text": "รถติดหามาให้ฉัน"
+    },
+    {
+     "t": 134.23,
+     "end": 134.23,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 134.23,
+     "end": 135.65,
+     "text": "รถติดบนทางด่วน"
+    },
+    {
+     "t": 135.77,
+     "end": 162.44,
+     "text": "ไม่มีใครไปไหนได้ ก็เลยไม่มีใครต้องรีบเป็นใคร"
+    },
+    {
+     "t": 162.46,
+     "end": 177.98,
+     "text": "สี่สิบนาทีนี้ ไม่มีใครรอฉันอยู่ได้จริง ๆ"
+    },
+    {
+     "t": 178.04,
+     "end": 184.56,
+     "text": "มันเป็นเวลาเดียวในวันที่ฉันหยุดได้โดยไม่ต้องขอใคร"
+    },
+    {
+     "t": 184.64,
+     "end": 184.64,
+     "text": "[Outro - guitars, fading]"
+    },
+    {
+     "t": 184.64,
+     "end": 187.32,
+     "text": "ไฟเขียว รถเคลื่อน"
+    },
+    {
+     "t": 187.32,
+     "end": 207.36,
+     "text": "ฉันวางสายก่อน แม่บอกว่า \"ขับดี ๆ\""
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_th04",
@@ -5519,6 +11844,252 @@
    "generated_at": "2026-10-06T11:29:07.908395+08:00",
    "audio": "b4_th04.mp3",
    "lyrics_timed": [
+    {
+     "t": 29.92,
+     "end": 29.92,
+     "text": "[Intro - brass and swing drums]"
+    },
+    {
+     "t": 29.92,
+     "end": 29.92,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 29.92,
+     "end": 36.38,
+     "text": "สี่ทุ่มครึ่ง ร้านซักผ้าหยอดเหรียญ มีฉันกับอีกสองคน"
+    },
+    {
+     "t": 38.42,
+     "end": 48.38,
+     "text": "ไม่มีใครคุยกัน ทุกคนดูเครื่องของตัวเอง หมุนเหมือนกันหมด"
+    },
+    {
+     "t": 48.82,
+     "end": 56.09,
+     "text": "ผู้ชายคนนึงพับผ้าเก่งมาก เก่งจนฉันแอบดู"
+    },
+    {
+     "t": 57.95,
+     "end": 62.55,
+     "text": "เขาพับเสื้อเด็ก ทีละตัว ช้ามาก"
+    },
+    {
+     "t": 63.85,
+     "end": 63.85,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 63.85,
+     "end": 66.25,
+     "text": "ร้านซักผ้าหยอดเหรียญ"
+    },
+    {
+     "t": 67.11,
+     "end": 71.49,
+     "text": "สี่สิบนาที ไม่มีใครที่นี่ต้องเป็นใคร"
+    },
+    {
+     "t": 74.29,
+     "end": 79.45,
+     "text": "เราแค่คนสามคนที่รอของตัวเองแห้ง"
+    },
+    {
+     "t": 80.27,
+     "end": 89.63,
+     "text": "และนั่นคือสิ่งเดียวที่เราต้องทำในโลกนี้ตอนนี้"
+    },
+    {
+     "t": 109.91,
+     "end": 109.91,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 109.91,
+     "end": 117.59,
+     "text": "เครื่องฉันหยุดก่อน ฉันเก็บผ้า ฉันพับแบบลวก ๆ"
+    },
+    {
+     "t": 117.59,
+     "end": 126.13,
+     "text": "ผู้ชายคนนั้นมองมา ไม่ได้ว่าอะไร แค่มอง"
+    },
+    {
+     "t": 126.29,
+     "end": 133.55,
+     "text": "ฉันพับใหม่ ฉันพับช้าลง ฉันไม่รู้ว่าทำไม"
+    },
+    {
+     "t": 133.55,
+     "end": 142.09,
+     "text": "ออกจากร้าน ผ้าฉันเรียบที่สุดในปีนี้"
+    },
+    {
+     "t": 142.09,
+     "end": 142.09,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 142.09,
+     "end": 144.23,
+     "text": "ร้านซักผ้าหยอดเหรียญ"
+    },
+    {
+     "t": 144.25,
+     "end": 164.82,
+     "text": "สี่สิบนาที ไม่มีใครที่นี่ต้องเป็นใคร"
+    },
+    {
+     "t": 164.82,
+     "end": 170.04,
+     "text": "เราแค่คนสามคนที่รอของตัวเองแห้ง"
+    },
+    {
+     "t": 170.04,
+     "end": 175.66,
+     "text": "และคืนนี้ แค่นั้นก็พอแล้วจริง ๆ"
+    },
+    {
+     "t": 175.76,
+     "end": 175.76,
+     "text": "[Outro - brass, fading]"
+    },
+    {
+     "t": 175.76,
+     "end": 182.98,
+     "text": "เหรียญสิบ สี่เหรียญ"
+    },
+    {
+     "t": 184.5,
+     "end": 188.94,
+     "text": "พรุ่งนี้ฉันเตรียมไว้แล้ว"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 29.92,
+     "end": 29.92,
+     "text": "[Intro - brass and swing drums]"
+    },
+    {
+     "t": 29.92,
+     "end": 29.92,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 29.92,
+     "end": 36.38,
+     "text": "สี่ทุ่มครึ่ง ร้านซักผ้าหยอดเหรียญ มีฉันกับอีกสองคน"
+    },
+    {
+     "t": 38.42,
+     "end": 48.38,
+     "text": "ไม่มีใครคุยกัน ทุกคนดูเครื่องของตัวเอง หมุนเหมือนกันหมด"
+    },
+    {
+     "t": 48.82,
+     "end": 56.09,
+     "text": "ผู้ชายคนนึงพับผ้าเก่งมาก เก่งจนฉันแอบดู"
+    },
+    {
+     "t": 57.95,
+     "end": 62.55,
+     "text": "เขาพับเสื้อเด็ก ทีละตัว ช้ามาก"
+    },
+    {
+     "t": 63.85,
+     "end": 63.85,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 63.85,
+     "end": 66.25,
+     "text": "ร้านซักผ้าหยอดเหรียญ"
+    },
+    {
+     "t": 67.11,
+     "end": 71.49,
+     "text": "สี่สิบนาที ไม่มีใครที่นี่ต้องเป็นใคร"
+    },
+    {
+     "t": 74.29,
+     "end": 79.45,
+     "text": "เราแค่คนสามคนที่รอของตัวเองแห้ง"
+    },
+    {
+     "t": 80.27,
+     "end": 89.63,
+     "text": "และนั่นคือสิ่งเดียวที่เราต้องทำในโลกนี้ตอนนี้"
+    },
+    {
+     "t": 109.91,
+     "end": 109.91,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 109.91,
+     "end": 117.59,
+     "text": "เครื่องฉันหยุดก่อน ฉันเก็บผ้า ฉันพับแบบลวก ๆ"
+    },
+    {
+     "t": 117.59,
+     "end": 126.13,
+     "text": "ผู้ชายคนนั้นมองมา ไม่ได้ว่าอะไร แค่มอง"
+    },
+    {
+     "t": 126.29,
+     "end": 133.55,
+     "text": "ฉันพับใหม่ ฉันพับช้าลง ฉันไม่รู้ว่าทำไม"
+    },
+    {
+     "t": 133.55,
+     "end": 142.09,
+     "text": "ออกจากร้าน ผ้าฉันเรียบที่สุดในปีนี้"
+    },
+    {
+     "t": 142.09,
+     "end": 142.09,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 142.09,
+     "end": 144.23,
+     "text": "ร้านซักผ้าหยอดเหรียญ"
+    },
+    {
+     "t": 144.25,
+     "end": 164.82,
+     "text": "สี่สิบนาที ไม่มีใครที่นี่ต้องเป็นใคร"
+    },
+    {
+     "t": 164.82,
+     "end": 170.04,
+     "text": "เราแค่คนสามคนที่รอของตัวเองแห้ง"
+    },
+    {
+     "t": 170.04,
+     "end": 175.66,
+     "text": "และคืนนี้ แค่นั้นก็พอแล้วจริง ๆ"
+    },
+    {
+     "t": 175.76,
+     "end": 175.76,
+     "text": "[Outro - brass, fading]"
+    },
+    {
+     "t": 175.76,
+     "end": 182.98,
+     "text": "เหรียญสิบ สี่เหรียญ"
+    },
+    {
+     "t": 184.5,
+     "end": 188.94,
+     "text": "พรุ่งนี้ฉันเตรียมไว้แล้ว"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 29.94,
      "end": 29.94,
@@ -5639,8 +12210,7 @@
      "end": 201.92,
      "text": "พรุ่งนี้ฉันเตรียมไว้แล้ว"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_th05",
@@ -5794,7 +12364,130 @@
      "text": "ฉันยังมองออกไปที่ประตู"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 32.74,
+     "end": 32.74,
+     "text": "[Intro - harmonica and acoustic guitar]"
+    },
+    {
+     "t": 32.74,
+     "end": 32.74,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 32.74,
+     "end": 40.04,
+     "text": "ครูมาทุกวันอังคาร หกโมง ขี่มอเตอร์ไซค์ ถือถุงหนังสือ"
+    },
+    {
+     "t": 42.38,
+     "end": 54.78,
+     "text": "ครูอายุยี่สิบสาม ครูยังเรียนอยู่ ครูสอนเพื่อจ่ายค่าเทอมตัวเอง"
+    },
+    {
+     "t": 57.27,
+     "end": 63.63,
+     "text": "แม่ฉันเลี้ยงข้าวครูทุกครั้ง ครูปฏิเสธทุกครั้ง แล้วก็กินทุกครั้ง"
+    },
+    {
+     "t": 64.47,
+     "end": 68.09,
+     "text": "สองคนนี้เล่นบทเดิมมาสองปี"
+    },
+    {
+     "t": 71.69,
+     "end": 71.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 71.69,
+     "end": 74.29,
+     "text": "ครูสอนพิเศษ"
+    },
+    {
+     "t": 76.09,
+     "end": 84.93,
+     "text": "ครูไม่ได้สอนฉันแค่เลข ครูสอนฉันว่าคนเหนื่อยหน้าตาเป็นยังไง"
+    },
+    {
+     "t": 85.81,
+     "end": 90.61,
+     "text": "ครูง่วงจนตาแดง แต่ครูอธิบายซ้ำได้สี่รอบ"
+    },
+    {
+     "t": 90.63,
+     "end": 96.81,
+     "text": "ฉันจำเลขไม่ได้ แต่ฉันจำสี่รอบนั้นได้"
+    },
+    {
+     "t": 100.27,
+     "end": 100.27,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 100.27,
+     "end": 106.61,
+     "text": "ปีนี้ครูเรียนจบ ครูไม่มาแล้ว ครูไปทำงานที่อื่น"
+    },
+    {
+     "t": 109.19,
+     "end": 115.77,
+     "text": "ครูมาบอกเอง ครูไม่ส่งข้อความ ครูขี่รถมาบอก"
+    },
+    {
+     "t": 115.77,
+     "end": 123.27,
+     "text": "แม่ฉันห่อข้าวให้ ครูรับ ครั้งนี้ครูไม่ปฏิเสธ"
+    },
+    {
+     "t": 125.83,
+     "end": 134.49,
+     "text": "ฉันยืนที่ประตู ฉันโบกมือ ฉันไม่ได้พูดขอบคุณ ฉันลืม"
+    },
+    {
+     "t": 137.03,
+     "end": 137.03,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 137.03,
+     "end": 141.69,
+     "text": "ครูสอนพิเศษ"
+    },
+    {
+     "t": 141.69,
+     "end": 164.45,
+     "text": "ครูไม่ได้สอนฉันแค่เลข ครูสอนฉันว่าคนเหนื่อยหน้าตาเป็นยังไง"
+    },
+    {
+     "t": 168.51,
+     "end": 175.02,
+     "text": "ครูง่วงจนตาแดง แต่ครูอธิบายซ้ำได้สี่รอบ"
+    },
+    {
+     "t": 178.16,
+     "end": 184.6,
+     "text": "ฉันจำเลขไม่ได้ แต่ฉันจำได้ว่าฉันลืมพูดอะไร"
+    },
+    {
+     "t": 198.76,
+     "end": 198.76,
+     "text": "[Outro - harmonica, fading]"
+    },
+    {
+     "t": 198.76,
+     "end": 211.18,
+     "text": "วันอังคาร หกโมง"
+    },
+    {
+     "t": 212.4,
+     "end": 217.74,
+     "text": "ฉันยังมองออกไปที่ประตู"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_vi01",
@@ -5963,7 +12656,145 @@
      "text": "Ra khỏi cổng cùng một lúc"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 39.14,
+     "end": 39.14,
+     "text": "[Intro - tapped clean guitars]"
+    },
+    {
+     "t": 39.14,
+     "end": 39.14,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 39.14,
+     "end": 43.46,
+     "text": "Bảy giờ tối, lớp học thêm trên tầng ba, quạt trần quay chậm"
+    },
+    {
+     "t": 43.62,
+     "end": 48.43,
+     "text": "Ba mươi đứa, ba mươi cái lưng cong, không đứa nào muốn ở đây"
+    },
+    {
+     "t": 48.53,
+     "end": 50.95,
+     "text": "Thầy giảng bài, giọng thầy khàn, đây là ca thứ tư trong ngày của thầy"
+    },
+    {
+     "t": 51.07,
+     "end": 55.47,
+     "text": "Thầy cũng không muốn ở đây, nhưng thầy giảng hay hơn ban sáng"
+    },
+    {
+     "t": 55.47,
+     "end": 55.47,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 55.47,
+     "end": 59.97,
+     "text": "Tôi ngồi bàn cuối, tôi chép bài"
+    },
+    {
+     "t": 59.97,
+     "end": 62.65,
+     "text": "Chép xong tôi không nhớ gì, nhưng tay tôi có chép"
+    },
+    {
+     "t": 62.65,
+     "end": 62.65,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 62.65,
+     "end": 63.23,
+     "text": "Lớp học thêm buổi tối"
+    },
+    {
+     "t": 63.23,
+     "end": 64.31,
+     "text": "Không ai học, nhưng ai cũng có mặt"
+    },
+    {
+     "t": 64.33,
+     "end": 66.77,
+     "text": "Tụi tôi đang trả tiền để được ngồi cạnh nhau thêm hai tiếng"
+    },
+    {
+     "t": 66.77,
+     "end": 72.35,
+     "text": "Và không đứa nào dám nói ra điều đó"
+    },
+    {
+     "t": 72.35,
+     "end": 72.35,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 72.35,
+     "end": 76.67,
+     "text": "Tám rưỡi nghỉ giữa giờ, cả lớp xuống dưới mua bánh tráng"
+    },
+    {
+     "t": 77.33,
+     "end": 86.29,
+     "text": "Mười lăm phút đó là phần duy nhất tôi nhớ của năm lớp mười một"
+    },
+    {
+     "t": 87.07,
+     "end": 92.61,
+     "text": "Không phải vì vui, mà vì lúc đó không ai kiểm tra tôi"
+    },
+    {
+     "t": 93.45,
+     "end": 99.13,
+     "text": "Mười lăm phút không bị ai hỏi \"con làm bài chưa\""
+    },
+    {
+     "t": 102.21,
+     "end": 102.21,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 102.21,
+     "end": 104.23,
+     "text": "Lớp học thêm buổi tối"
+    },
+    {
+     "t": 104.23,
+     "end": 107.71,
+     "text": "Không ai học, nhưng ai cũng có mặt"
+    },
+    {
+     "t": 109.03,
+     "end": 114.11,
+     "text": "Tụi tôi đang trả tiền để được ngồi cạnh nhau thêm hai tiếng"
+    },
+    {
+     "t": 114.87,
+     "end": 119.37,
+     "text": "Và bây giờ tôi mới dám nói ra điều đó"
+    },
+    {
+     "t": 163.04,
+     "end": 163.04,
+     "text": "[Outro - guitars stop]"
+    },
+    {
+     "t": 163.04,
+     "end": 169.5,
+     "text": "Chín giờ rưỡi, ba mươi chiếc xe đạp"
+    },
+    {
+     "t": 180.56,
+     "end": 183.86,
+     "text": "Ra khỏi cổng cùng một lúc"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_vi02",
@@ -5996,6 +12827,292 @@
    "generated_at": "2026-10-06T13:25:18.793099+08:00",
    "audio": "b4_vi02.mp3",
    "lyrics_timed": [
+    {
+     "t": 0.66,
+     "end": 0.66,
+     "text": "[Intro - clavinet and tight drums]"
+    },
+    {
+     "t": 0.66,
+     "end": 0.66,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 0.66,
+     "end": 42.1,
+     "text": "Cái quạt trần nhà tôi kêu, kêu từ năm hai nghìn mười tám"
+    },
+    {
+     "t": 42.26,
+     "end": 44.98,
+     "text": "Cứ số ba thì kêu, số hai thì không"
+    },
+    {
+     "t": 44.98,
+     "end": 47.24,
+     "text": "Nên cả nhà tôi bật số hai, suốt bảy năm"
+    },
+    {
+     "t": 47.24,
+     "end": 49.36,
+     "text": "Nóng hơn một chút, nhưng không ai nói gì"
+    },
+    {
+     "t": 49.36,
+     "end": 49.36,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 49.36,
+     "end": 49.79,
+     "text": "Cái quạt trần kêu"
+    },
+    {
+     "t": 49.79,
+     "end": 51.25,
+     "text": "Ba tiếng kêu một vòng, tôi đếm được"
+    },
+    {
+     "t": 51.25,
+     "end": 54.61,
+     "text": "Tôi ngủ được là nhờ nó, chứ không phải mặc kệ nó"
+    },
+    {
+     "t": 55.35,
+     "end": 75.09,
+     "text": "Nhà này có một cái nhịp, và đó là nhịp"
+    },
+    {
+     "t": 75.09,
+     "end": 75.09,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 75.09,
+     "end": 77.33,
+     "text": "Thợ tới một lần, ổng nói \"thay cái này là hết\""
+    },
+    {
+     "t": 81.13,
+     "end": 83.87,
+     "text": "Hai trăm ngàn. Ba có tiền. Ba nói để coi."
+    },
+    {
+     "t": 83.87,
+     "end": 85.97,
+     "text": "Ba nói \"để coi\" đã bảy năm"
+    },
+    {
+     "t": 85.97,
+     "end": 93.39,
+     "text": "Giờ tôi hiểu, ba không tiếc tiền, ba tiếc cái tiếng kêu đó"
+    },
+    {
+     "t": 94.69,
+     "end": 94.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 94.69,
+     "end": 95.99,
+     "text": "Cái quạt trần kêu"
+    },
+    {
+     "t": 96.67,
+     "end": 100.47,
+     "text": "Ba tiếng kêu một vòng, tôi vẫn đếm được"
+    },
+    {
+     "t": 101.05,
+     "end": 104.93,
+     "text": "Tôi ngủ được là nhờ nó, chứ không phải mặc kệ nó"
+    },
+    {
+     "t": 105.91,
+     "end": 124.69,
+     "text": "Nhà này có một cái nhịp, và đó vẫn là nhịp"
+    },
+    {
+     "t": 133.89,
+     "end": 133.89,
+     "text": "[Bridge - bass only]"
+    },
+    {
+     "t": 133.89,
+     "end": 137.15,
+     "text": "Tôi dọn ra riêng, phòng tôi im lắm"
+    },
+    {
+     "t": 138.57,
+     "end": 142.63,
+     "text": "Im quá, tôi phải bật quạt số ba"
+    },
+    {
+     "t": 145.13,
+     "end": 149.02,
+     "text": "Quạt mới. Không kêu. Tôi vẫn nằm nghe."
+    },
+    {
+     "t": 151.14,
+     "end": 151.14,
+     "text": "[Outro - clavinet, fading]"
+    },
+    {
+     "t": 151.14,
+     "end": 178.56,
+     "text": "Về nhà cuối tuần"
+    },
+    {
+     "t": 178.9,
+     "end": 193.48,
+     "text": "Số hai. Vẫn số hai."
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 0.66,
+     "end": 0.66,
+     "text": "[Intro - clavinet and tight drums]"
+    },
+    {
+     "t": 0.66,
+     "end": 0.66,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 0.66,
+     "end": 42.1,
+     "text": "Cái quạt trần nhà tôi kêu, kêu từ năm hai nghìn mười tám"
+    },
+    {
+     "t": 42.26,
+     "end": 44.98,
+     "text": "Cứ số ba thì kêu, số hai thì không"
+    },
+    {
+     "t": 44.98,
+     "end": 47.24,
+     "text": "Nên cả nhà tôi bật số hai, suốt bảy năm"
+    },
+    {
+     "t": 47.24,
+     "end": 49.36,
+     "text": "Nóng hơn một chút, nhưng không ai nói gì"
+    },
+    {
+     "t": 49.36,
+     "end": 49.36,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 49.36,
+     "end": 49.79,
+     "text": "Cái quạt trần kêu"
+    },
+    {
+     "t": 49.79,
+     "end": 51.25,
+     "text": "Ba tiếng kêu một vòng, tôi đếm được"
+    },
+    {
+     "t": 51.25,
+     "end": 54.61,
+     "text": "Tôi ngủ được là nhờ nó, chứ không phải mặc kệ nó"
+    },
+    {
+     "t": 55.35,
+     "end": 75.09,
+     "text": "Nhà này có một cái nhịp, và đó là nhịp"
+    },
+    {
+     "t": 75.09,
+     "end": 75.09,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 75.09,
+     "end": 77.33,
+     "text": "Thợ tới một lần, ổng nói \"thay cái này là hết\""
+    },
+    {
+     "t": 81.13,
+     "end": 83.87,
+     "text": "Hai trăm ngàn. Ba có tiền. Ba nói để coi."
+    },
+    {
+     "t": 83.87,
+     "end": 85.97,
+     "text": "Ba nói \"để coi\" đã bảy năm"
+    },
+    {
+     "t": 85.97,
+     "end": 93.39,
+     "text": "Giờ tôi hiểu, ba không tiếc tiền, ba tiếc cái tiếng kêu đó"
+    },
+    {
+     "t": 94.69,
+     "end": 94.69,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 94.69,
+     "end": 95.99,
+     "text": "Cái quạt trần kêu"
+    },
+    {
+     "t": 96.67,
+     "end": 100.47,
+     "text": "Ba tiếng kêu một vòng, tôi vẫn đếm được"
+    },
+    {
+     "t": 101.05,
+     "end": 104.93,
+     "text": "Tôi ngủ được là nhờ nó, chứ không phải mặc kệ nó"
+    },
+    {
+     "t": 105.91,
+     "end": 124.69,
+     "text": "Nhà này có một cái nhịp, và đó vẫn là nhịp"
+    },
+    {
+     "t": 133.89,
+     "end": 133.89,
+     "text": "[Bridge - bass only]"
+    },
+    {
+     "t": 133.89,
+     "end": 137.15,
+     "text": "Tôi dọn ra riêng, phòng tôi im lắm"
+    },
+    {
+     "t": 138.57,
+     "end": 142.63,
+     "text": "Im quá, tôi phải bật quạt số ba"
+    },
+    {
+     "t": 145.13,
+     "end": 149.02,
+     "text": "Quạt mới. Không kêu. Tôi vẫn nằm nghe."
+    },
+    {
+     "t": 151.14,
+     "end": 151.14,
+     "text": "[Outro - clavinet, fading]"
+    },
+    {
+     "t": 151.14,
+     "end": 178.56,
+     "text": "Về nhà cuối tuần"
+    },
+    {
+     "t": 178.9,
+     "end": 193.48,
+     "text": "Số hai. Vẫn số hai."
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 0.44,
      "end": 0.44,
@@ -6136,8 +13253,7 @@
      "end": 180.56,
      "text": "Số hai. Vẫn số hai."
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_vi03",
@@ -6306,7 +13422,145 @@
      "text": "Mai con lại ra."
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 37.4,
+     "end": 37.4,
+     "text": "[Intro - dan bau and sao truc]"
+    },
+    {
+     "t": 37.4,
+     "end": 37.4,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 37.4,
+     "end": 42.66,
+     "text": "Năm giờ sáng, góc hẻm, cái mẹt, lá chuối, nồi xôi còn bốc khói"
+    },
+    {
+     "t": 43.78,
+     "end": 48.3,
+     "text": "Bà ngồi đó từ trước khi tôi biết đi học"
+    },
+    {
+     "t": 49.48,
+     "end": 54.41,
+     "text": "Hai mươi năm tôi mua, hai mươi năm bà không hỏi tên tôi"
+    },
+    {
+     "t": 54.79,
+     "end": 59.07,
+     "text": "Bà chỉ nói \"con ăn gì\" — hai mươi năm, đúng ba chữ đó"
+    },
+    {
+     "t": 59.07,
+     "end": 59.07,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 59.07,
+     "end": 61.17,
+     "text": "Nhưng bà nhớ tôi ăn xôi gấc"
+    },
+    {
+     "t": 70.11,
+     "end": 73.87,
+     "text": "Và bà nhớ tôi không ăn hành"
+    },
+    {
+     "t": 75.65,
+     "end": 75.65,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 75.65,
+     "end": 76.35,
+     "text": "Bà bán xôi đầu hẻm"
+    },
+    {
+     "t": 76.35,
+     "end": 79.47,
+     "text": "Không biết tên tôi, nhưng biết tôi"
+    },
+    {
+     "t": 81.25,
+     "end": 85.21,
+     "text": "Có một kiểu quen thuộc không cần tên"
+    },
+    {
+     "t": 86.47,
+     "end": 90.69,
+     "text": "Và tôi sợ cái ngày tôi phải tự giới thiệu lại từ đầu"
+    },
+    {
+     "t": 92.81,
+     "end": 92.81,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 92.81,
+     "end": 100.59,
+     "text": "Tháng trước bà nghỉ ba ngày, cái góc đó trống, tôi thấy nó rộng ra"
+    },
+    {
+     "t": 100.67,
+     "end": 127.81,
+     "text": "Tôi không biết hỏi ai, tôi không biết bà tên gì mà hỏi"
+    },
+    {
+     "t": 128.35,
+     "end": 139.83,
+     "text": "Ngày thứ tư bà ra lại, chống gậy"
+    },
+    {
+     "t": 140.01,
+     "end": 145.55,
+     "text": "Tôi mua hai gói. Bà nói \"con ăn gì\". Tôi mừng muốn khóc vì ba chữ đó."
+    },
+    {
+     "t": 146.67,
+     "end": 146.67,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 146.67,
+     "end": 148.69,
+     "text": "Bà bán xôi đầu hẻm"
+    },
+    {
+     "t": 151.89,
+     "end": 156.03,
+     "text": "Không biết tên tôi, nhưng biết tôi"
+    },
+    {
+     "t": 156.11,
+     "end": 172.92,
+     "text": "Có một kiểu quen thuộc không cần tên"
+    },
+    {
+     "t": 172.92,
+     "end": 192.62,
+     "text": "Và tôi vẫn sợ cái ngày đó, nhưng hôm nay thì chưa"
+    },
+    {
+     "t": 197.52,
+     "end": 197.52,
+     "text": "[Outro - dan bau alone]"
+    },
+    {
+     "t": 197.52,
+     "end": 201.02,
+     "text": "Xôi gấc. Không hành."
+    },
+    {
+     "t": 205.38,
+     "end": 206.58,
+     "text": "Mai con lại ra."
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_vi04",
@@ -6465,7 +13719,135 @@
      "text": "Còn trong cốp."
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 14.52,
+     "end": 14.52,
+     "text": "[Intro - chorused electric piano and slap bass]"
+    },
+    {
+     "t": 14.52,
+     "end": 14.52,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 14.52,
+     "end": 17.8,
+     "text": "Áo mưa hai người, màu xanh lá, mua ở chợ, ba chục"
+    },
+    {
+     "t": 17.8,
+     "end": 26.64,
+     "text": "Người ngồi sau phải chui vào, phải ôm, không có cách nào khác"
+    },
+    {
+     "t": 26.66,
+     "end": 42.72,
+     "text": "Cái áo đó quyết định luôn chuyện mình phải gần nhau"
+    },
+    {
+     "t": 43.68,
+     "end": 50.82,
+     "text": "Mình cảm ơn trời mưa, nhưng mình không nói ra"
+    },
+    {
+     "t": 50.9,
+     "end": 50.9,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 50.9,
+     "end": 52.19,
+     "text": "Áo mưa hai người"
+    },
+    {
+     "t": 53.19,
+     "end": 58.05,
+     "text": "Nhựa dính vào tay, mùi nhựa, nóng, ngộp"
+    },
+    {
+     "t": 60.81,
+     "end": 72.05,
+     "text": "Và đó là ba cây số đẹp nhất tuổi hai mươi của tôi"
+    },
+    {
+     "t": 79.49,
+     "end": 84.51,
+     "text": "Tôi không dám chạy nhanh, tôi sợ hết đường"
+    },
+    {
+     "t": 87.29,
+     "end": 87.29,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 87.29,
+     "end": 91.43,
+     "text": "Bây giờ ai cũng có xe riêng, áo riêng, đường riêng"
+    },
+    {
+     "t": 91.43,
+     "end": 94.49,
+     "text": "Hợp lý hơn, khô hơn, tiện hơn"
+    },
+    {
+     "t": 95.71,
+     "end": 99.09,
+     "text": "Cái áo cũ tôi vẫn để trong cốp, nó mục rồi"
+    },
+    {
+     "t": 99.97,
+     "end": 102.45,
+     "text": "Tôi biết nó mục. Tôi không bỏ."
+    },
+    {
+     "t": 103.63,
+     "end": 103.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 103.63,
+     "end": 105.37,
+     "text": "Áo mưa hai người"
+    },
+    {
+     "t": 106.35,
+     "end": 109.67,
+     "text": "Nhựa dính vào tay, mùi nhựa, nóng, ngộp"
+    },
+    {
+     "t": 109.73,
+     "end": 111.79,
+     "text": "Và đó vẫn là ba cây số đẹp nhất tuổi hai mươi của tôi"
+    },
+    {
+     "t": 111.91,
+     "end": 118.11,
+     "text": "Tôi vẫn không dám chạy nhanh, dù giờ chẳng còn ai sau lưng"
+    },
+    {
+     "t": 177.38,
+     "end": 177.38,
+     "text": "[Instrumental Break - saxophone solo]"
+    },
+    {
+     "t": 177.38,
+     "end": 177.38,
+     "text": "[Outro - electric piano, fading]"
+    },
+    {
+     "t": 177.38,
+     "end": 182.64,
+     "text": "Màu xanh lá. Ba chục."
+    },
+    {
+     "t": 185.48,
+     "end": 186.6,
+     "text": "Còn trong cốp."
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_vi05",
@@ -6498,6 +13880,292 @@
    "generated_at": "2026-10-06T13:26:48.908952+08:00",
    "audio": "b4_vi05.mp3",
    "lyrics_timed": [
+    {
+     "t": 42.7,
+     "end": 42.7,
+     "text": "[Intro - drum break and muted trumpet]"
+    },
+    {
+     "t": 42.7,
+     "end": 42.7,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 42.7,
+     "end": 49.42,
+     "text": "Mười hai năm sau, có đứa lập nhóm, đặt tên y như tên lớp"
+    },
+    {
+     "t": 53.37,
+     "end": 57.93,
+     "text": "Rồi nó điểm danh. Thiệt. Nó điểm danh theo thứ tự sổ đầu bài."
+    },
+    {
+     "t": 59.01,
+     "end": 61.69,
+     "text": "\"Số một, có mặt\" — tự nhiên ai cũng làm theo"
+    },
+    {
+     "t": 61.73,
+     "end": 65.59,
+     "text": "Bốn mươi hai cái tin nhắn, trong một tiếng"
+    },
+    {
+     "t": 65.63,
+     "end": 65.63,
+     "text": "[Hook]"
+    },
+    {
+     "t": 65.63,
+     "end": 66.05,
+     "text": "Điểm danh lớp cũ"
+    },
+    {
+     "t": 66.05,
+     "end": 70.05,
+     "text": "Số ba mươi bảy, là tôi, tôi gõ \"có mặt\""
+    },
+    {
+     "t": 70.05,
+     "end": 84.95,
+     "text": "Gõ xong tôi ngồi im, tôi không biết tôi vừa xác nhận cái gì"
+    },
+    {
+     "t": 84.99,
+     "end": 87.83,
+     "text": "Có mặt ở đâu? Ở một chỗ không còn tồn tại"
+    },
+    {
+     "t": 87.97,
+     "end": 87.97,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 87.97,
+     "end": 93.45,
+     "text": "Có bốn số không ai trả lời"
+    },
+    {
+     "t": 94.17,
+     "end": 102.17,
+     "text": "Nhóm im mười phút, rồi có đứa nói \"chắc đổi số rồi\""
+    },
+    {
+     "t": 102.19,
+     "end": 105.77,
+     "text": "Mọi người đồng ý nhanh quá, nhanh như sợ phải nghĩ tiếp"
+    },
+    {
+     "t": 105.77,
+     "end": 107.11,
+     "text": "Rồi tụi tôi đổi chủ đề. Tụi tôi giỏi cái đó lắm."
+    },
+    {
+     "t": 107.11,
+     "end": 107.11,
+     "text": "[Hook]"
+    },
+    {
+     "t": 107.11,
+     "end": 114.81,
+     "text": "Điểm danh lớp cũ"
+    },
+    {
+     "t": 114.93,
+     "end": 122.77,
+     "text": "Số ba mươi bảy, là tôi, tôi gõ \"có mặt\""
+    },
+    {
+     "t": 122.77,
+     "end": 127.85,
+     "text": "Gõ xong tôi ngồi im, tôi không biết tôi vừa xác nhận cái gì"
+    },
+    {
+     "t": 128.09,
+     "end": 137.77,
+     "text": "Có mặt ở đâu? Ở một chỗ chỉ còn trong bốn mươi hai cái điện thoại"
+    },
+    {
+     "t": 137.77,
+     "end": 137.77,
+     "text": "[Bridge - horns only]"
+    },
+    {
+     "t": 137.77,
+     "end": 139.11,
+     "text": "Nhóm đó giờ im rồi"
+    },
+    {
+     "t": 142.75,
+     "end": 144.41,
+     "text": "Nhưng không ai rời"
+    },
+    {
+     "t": 149.09,
+     "end": 155.18,
+     "text": "Bốn mươi hai người, không ai rời"
+    },
+    {
+     "t": 155.26,
+     "end": 155.26,
+     "text": "[Outro - break stops]"
+    },
+    {
+     "t": 155.26,
+     "end": 156.8,
+     "text": "Số ba mươi bảy"
+    },
+    {
+     "t": 157.08,
+     "end": 194.44,
+     "text": "Vẫn có mặt"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 42.7,
+     "end": 42.7,
+     "text": "[Intro - drum break and muted trumpet]"
+    },
+    {
+     "t": 42.7,
+     "end": 42.7,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 42.7,
+     "end": 49.42,
+     "text": "Mười hai năm sau, có đứa lập nhóm, đặt tên y như tên lớp"
+    },
+    {
+     "t": 53.37,
+     "end": 57.93,
+     "text": "Rồi nó điểm danh. Thiệt. Nó điểm danh theo thứ tự sổ đầu bài."
+    },
+    {
+     "t": 59.01,
+     "end": 61.69,
+     "text": "\"Số một, có mặt\" — tự nhiên ai cũng làm theo"
+    },
+    {
+     "t": 61.73,
+     "end": 65.59,
+     "text": "Bốn mươi hai cái tin nhắn, trong một tiếng"
+    },
+    {
+     "t": 65.63,
+     "end": 65.63,
+     "text": "[Hook]"
+    },
+    {
+     "t": 65.63,
+     "end": 66.05,
+     "text": "Điểm danh lớp cũ"
+    },
+    {
+     "t": 66.05,
+     "end": 70.05,
+     "text": "Số ba mươi bảy, là tôi, tôi gõ \"có mặt\""
+    },
+    {
+     "t": 70.05,
+     "end": 84.95,
+     "text": "Gõ xong tôi ngồi im, tôi không biết tôi vừa xác nhận cái gì"
+    },
+    {
+     "t": 84.99,
+     "end": 87.83,
+     "text": "Có mặt ở đâu? Ở một chỗ không còn tồn tại"
+    },
+    {
+     "t": 87.97,
+     "end": 87.97,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 87.97,
+     "end": 93.45,
+     "text": "Có bốn số không ai trả lời"
+    },
+    {
+     "t": 94.17,
+     "end": 102.17,
+     "text": "Nhóm im mười phút, rồi có đứa nói \"chắc đổi số rồi\""
+    },
+    {
+     "t": 102.19,
+     "end": 105.77,
+     "text": "Mọi người đồng ý nhanh quá, nhanh như sợ phải nghĩ tiếp"
+    },
+    {
+     "t": 105.77,
+     "end": 107.11,
+     "text": "Rồi tụi tôi đổi chủ đề. Tụi tôi giỏi cái đó lắm."
+    },
+    {
+     "t": 107.11,
+     "end": 107.11,
+     "text": "[Hook]"
+    },
+    {
+     "t": 107.11,
+     "end": 114.81,
+     "text": "Điểm danh lớp cũ"
+    },
+    {
+     "t": 114.93,
+     "end": 122.77,
+     "text": "Số ba mươi bảy, là tôi, tôi gõ \"có mặt\""
+    },
+    {
+     "t": 122.77,
+     "end": 127.85,
+     "text": "Gõ xong tôi ngồi im, tôi không biết tôi vừa xác nhận cái gì"
+    },
+    {
+     "t": 128.09,
+     "end": 137.77,
+     "text": "Có mặt ở đâu? Ở một chỗ chỉ còn trong bốn mươi hai cái điện thoại"
+    },
+    {
+     "t": 137.77,
+     "end": 137.77,
+     "text": "[Bridge - horns only]"
+    },
+    {
+     "t": 137.77,
+     "end": 139.11,
+     "text": "Nhóm đó giờ im rồi"
+    },
+    {
+     "t": 142.75,
+     "end": 144.41,
+     "text": "Nhưng không ai rời"
+    },
+    {
+     "t": 149.09,
+     "end": 155.18,
+     "text": "Bốn mươi hai người, không ai rời"
+    },
+    {
+     "t": 155.26,
+     "end": 155.26,
+     "text": "[Outro - break stops]"
+    },
+    {
+     "t": 155.26,
+     "end": 156.8,
+     "text": "Số ba mươi bảy"
+    },
+    {
+     "t": 157.08,
+     "end": 194.44,
+     "text": "Vẫn có mặt"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 42.7,
      "end": 42.7,
@@ -6638,8 +14306,7 @@
      "end": 194.44,
      "text": "Vẫn có mặt"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_yue01",
@@ -6793,7 +14460,140 @@
      "text": "佢已經放咗喺抽屜"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 13.84,
+     "end": 13.84,
+     "text": "[Verse]"
+    },
+    {
+     "t": 13.84,
+     "end": 17.58,
+     "text": "今朝六點 我阿媽已經換咗衫"
+    },
+    {
+     "t": 19.5,
+     "end": 23.82,
+     "text": "佢話「唔使咁早」 但佢自己五點就起身"
+    },
+    {
+     "t": 26.24,
+     "end": 30.16,
+     "text": "抽居屋 第四次 佢填咗十二年表格"
+    },
+    {
+     "t": 31.5,
+     "end": 39.49,
+     "text": "每次佢都話「今次唔會中㗎啦」 然後每次都起得咁早"
+    },
+    {
+     "t": 42.31,
+     "end": 42.31,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 42.31,
+     "end": 44.33,
+     "text": "個號碼喺電腦度跳"
+    },
+    {
+     "t": 45.51,
+     "end": 49.37,
+     "text": "跳咗三秒 三秒好長"
+    },
+    {
+     "t": 51.71,
+     "end": 51.71,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 51.71,
+     "end": 52.39,
+     "text": "冇中"
+    },
+    {
+     "t": 52.81,
+     "end": 56.75,
+     "text": "阿媽即刻話「好啦 咁又慳返一筆」"
+    },
+    {
+     "t": 58.09,
+     "end": 61.27,
+     "text": "佢講得好快 快過佢平時講嘢"
+    },
+    {
+     "t": 62.89,
+     "end": 65.31,
+     "text": "我知 佢練過呢句"
+    },
+    {
+     "t": 71.11,
+     "end": 71.11,
+     "text": "[Verse]"
+    },
+    {
+     "t": 71.11,
+     "end": 75.31,
+     "text": "食晏嗰陣佢好正常 仲叫我食多啲餸"
+    },
+    {
+     "t": 77.29,
+     "end": 82.07,
+     "text": "我洗碗嗰陣 聽到佢喺房入面同人講電話"
+    },
+    {
+     "t": 83.71,
+     "end": 88.85,
+     "text": "佢同人講「唔緊要啦 下次囉」"
+    },
+    {
+     "t": 90.09,
+     "end": 95.43,
+     "text": "佢講咗三次 「下次囉」"
+    },
+    {
+     "t": 96.49,
+     "end": 96.49,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 96.49,
+     "end": 97.43,
+     "text": "冇中"
+    },
+    {
+     "t": 97.61,
+     "end": 101.25,
+     "text": "阿媽即刻話「好啦 咁又慳返一筆」"
+    },
+    {
+     "t": 102.91,
+     "end": 106.07,
+     "text": "佢講得好快 快過佢平時講嘢"
+    },
+    {
+     "t": 107.53,
+     "end": 110.43,
+     "text": "我而家知 佢練咗十二年"
+    },
+    {
+     "t": 115.88,
+     "end": 115.88,
+     "text": "[Outro]"
+    },
+    {
+     "t": 115.88,
+     "end": 119.14,
+     "text": "下年嗰張表"
+    },
+    {
+     "t": 122.1,
+     "end": 126.1,
+     "text": "佢已經放咗喺抽屜"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_yue02",
@@ -6952,7 +14752,145 @@
      "text": "我食快咗兩成"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 25.3,
+     "end": 25.3,
+     "text": "[Verse]"
+    },
+    {
+     "t": 25.3,
+     "end": 30.04,
+     "text": "一點半 茶餐廳 冇位 伙記叫我「搭枱啦」"
+    },
+    {
+     "t": 33.44,
+     "end": 38.32,
+     "text": "對面個阿叔已經食到一半 佢推一推啲嘢"
+    },
+    {
+     "t": 41.84,
+     "end": 47.08,
+     "text": "冇出聲 冇望我 淨係推一推"
+    },
+    {
+     "t": 48.76,
+     "end": 50.55,
+     "text": "咁就算打過招呼"
+    },
+    {
+     "t": 51.09,
+     "end": 51.09,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 51.09,
+     "end": 51.97,
+     "text": "搭枱"
+    },
+    {
+     "t": 52.15,
+     "end": 55.45,
+     "text": "兩個陌生人 四十五厘米"
+    },
+    {
+     "t": 58.71,
+     "end": 64.19,
+     "text": "我哋唔會講嘢 但我哋會幫對方睇住個袋"
+    },
+    {
+     "t": 67.13,
+     "end": 72.27,
+     "text": "香港人嘅禮貌 全部喺呢四十五厘米入面"
+    },
+    {
+     "t": 75.57,
+     "end": 75.57,
+     "text": "[Verse]"
+    },
+    {
+     "t": 75.57,
+     "end": 80.37,
+     "text": "佢個電話響 佢聽 佢大聲鬧人"
+    },
+    {
+     "t": 83.97,
+     "end": 88.61,
+     "text": "鬧完佢望我一眼 有啲唔好意思"
+    },
+    {
+     "t": 92.41,
+     "end": 96.89,
+     "text": "我扮睇餐牌 我其實早就睇完"
+    },
+    {
+     "t": 97.15,
+     "end": 101.45,
+     "text": "我哋都知大家做緊咩 大家都冇拆穿"
+    },
+    {
+     "t": 101.61,
+     "end": 101.61,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 101.61,
+     "end": 102.59,
+     "text": "搭枱"
+    },
+    {
+     "t": 102.69,
+     "end": 105.81,
+     "text": "兩個陌生人 四十五厘米"
+    },
+    {
+     "t": 109.25,
+     "end": 114.69,
+     "text": "我哋唔會講嘢 但我哋會幫對方睇住個袋"
+    },
+    {
+     "t": 117.65,
+     "end": 122.89,
+     "text": "香港人嘅禮貌 原來全部喺呢四十五厘米入面"
+    },
+    {
+     "t": 147.96,
+     "end": 147.96,
+     "text": "[Bridge]"
+    },
+    {
+     "t": 147.96,
+     "end": 154.56,
+     "text": "佢走嗰陣 佢同我講「慢慢食」"
+    },
+    {
+     "t": 154.8,
+     "end": 155.46,
+     "text": "三個字"
+    },
+    {
+     "t": 156.34,
+     "end": 158.04,
+     "text": "我記咗成日"
+    },
+    {
+     "t": 158.2,
+     "end": 158.2,
+     "text": "[Outro]"
+    },
+    {
+     "t": 158.2,
+     "end": 162.2,
+     "text": "出面仲有人排緊隊"
+    },
+    {
+     "t": 162.2,
+     "end": 164.1,
+     "text": "我食快咗兩成"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_yue03",
@@ -7091,7 +15029,125 @@
      "text": "我一定去"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 11.98,
+     "end": 11.98,
+     "text": "[Verse]"
+    },
+    {
+     "t": 11.98,
+     "end": 14.82,
+     "text": "我行咗三年 每個禮拜六 同一條路"
+    },
+    {
+     "t": 17.04,
+     "end": 20.84,
+     "text": "每次都遇到同一個阿伯 佢行落 我行上"
+    },
+    {
+     "t": 22.86,
+     "end": 28.08,
+     "text": "佢永遠著返件藍色背心 永遠拎支膠樽"
+    },
+    {
+     "t": 28.66,
+     "end": 33.94,
+     "text": "佢永遠同我講「早晨」 我永遠都答「早晨」"
+    },
+    {
+     "t": 36.79,
+     "end": 36.79,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 36.79,
+     "end": 39.75,
+     "text": "三年 一百五十次「早晨」"
+    },
+    {
+     "t": 41.45,
+     "end": 45.37,
+     "text": "我唔知佢姓咩 佢唔知我姓咩"
+    },
+    {
+     "t": 47.07,
+     "end": 51.71,
+     "text": "但如果有一日我冇出現 佢會知"
+    },
+    {
+     "t": 53.23,
+     "end": 57.01,
+     "text": "呢個世界上知我唔見咗嘅人 冇幾個"
+    },
+    {
+     "t": 59.75,
+     "end": 59.75,
+     "text": "[Verse]"
+    },
+    {
+     "t": 59.75,
+     "end": 62.59,
+     "text": "上個月我拗柴 兩個禮拜冇行"
+    },
+    {
+     "t": 62.67,
+     "end": 64.63,
+     "text": "返嚟嗰日 佢停低咗"
+    },
+    {
+     "t": 65.25,
+     "end": 67.21,
+     "text": "佢話「你去咗邊」 四個字"
+    },
+    {
+     "t": 67.99,
+     "end": 71.29,
+     "text": "我答唔出 我企喺度 好似等咗好耐先等到"
+    },
+    {
+     "t": 86.25,
+     "end": 86.25,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 86.25,
+     "end": 89.19,
+     "text": "三年 一百五十次「早晨」"
+    },
+    {
+     "t": 90.89,
+     "end": 94.85,
+     "text": "我唔知佢姓咩 佢唔知我姓咩"
+    },
+    {
+     "t": 96.51,
+     "end": 101.17,
+     "text": "但如果有一日我冇出現 佢會知"
+    },
+    {
+     "t": 102.69,
+     "end": 107.37,
+     "text": "呢個世界上會發現我唔見咗嘅人 原來多咗一個"
+    },
+    {
+     "t": 107.75,
+     "end": 107.75,
+     "text": "[Outro]"
+    },
+    {
+     "t": 107.75,
+     "end": 108.35,
+     "text": "下個禮拜六"
+    },
+    {
+     "t": 110.08,
+     "end": 133.46,
+     "text": "我一定去"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_yue04",
@@ -7230,7 +15286,125 @@
      "text": "仲有位"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 10.5,
+     "end": 10.5,
+     "text": "[Verse]"
+    },
+    {
+     "t": 10.5,
+     "end": 13.1,
+     "text": "雪櫃門 貼咗十九塊磁石"
+    },
+    {
+     "t": 15.46,
+     "end": 18.04,
+     "text": "冇一塊係我自己買嘅"
+    },
+    {
+     "t": 20.68,
+     "end": 24.7,
+     "text": "全部都係人哋去完旅行 順手買返嚟畀我"
+    },
+    {
+     "t": 25.82,
+     "end": 31.56,
+     "text": "大阪 清邁 台中 首爾 有塊寫住「蘇梅島」 我唔記得邊個"
+    },
+    {
+     "t": 33.49,
+     "end": 33.49,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 33.49,
+     "end": 36.17,
+     "text": "雪櫃上面嘅磁石"
+    },
+    {
+     "t": 38.29,
+     "end": 40.73,
+     "text": "十九個人 唔同時間 唔同地方"
+    },
+    {
+     "t": 41.17,
+     "end": 43.21,
+     "text": "諗起過我一次"
+    },
+    {
+     "t": 43.97,
+     "end": 49.21,
+     "text": "一次就夠 一次已經貼咗喺度好多年"
+    },
+    {
+     "t": 51.37,
+     "end": 51.37,
+     "text": "[Verse]"
+    },
+    {
+     "t": 51.37,
+     "end": 54.37,
+     "text": "搬屋嗰陣 搬運師傅問我「呢啲要唔要」"
+    },
+    {
+     "t": 56.49,
+     "end": 59.39,
+     "text": "我話要 佢望我 我都知自己好煩"
+    },
+    {
+     "t": 61.63,
+     "end": 65.41,
+     "text": "我逐塊撕落嚟 用報紙包住"
+    },
+    {
+     "t": 66.69,
+     "end": 89.93,
+     "text": "包一塊磁石 我自己都覺得自己癲"
+    },
+    {
+     "t": 90.27,
+     "end": 90.27,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 90.27,
+     "end": 97.47,
+     "text": "雪櫃上面嘅磁石"
+    },
+    {
+     "t": 99.57,
+     "end": 102.08,
+     "text": "十九個人 唔同時間 唔同地方"
+    },
+    {
+     "t": 102.46,
+     "end": 104.5,
+     "text": "諗起過我一次"
+    },
+    {
+     "t": 105.28,
+     "end": 108.98,
+     "text": "一次就夠 而家佢哋貼咗喺新屋"
+    },
+    {
+     "t": 117.1,
+     "end": 117.1,
+     "text": "[Outro]"
+    },
+    {
+     "t": 117.1,
+     "end": 121.96,
+     "text": "新雪櫃大啲"
+    },
+    {
+     "t": 122.42,
+     "end": 122.92,
+     "text": "仲有位"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_yue05",
@@ -7389,7 +15563,145 @@
      "text": "喺個鐵盒入面"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 16.42,
+     "end": 16.42,
+     "text": "[Verse]"
+    },
+    {
+     "t": 16.42,
+     "end": 22.32,
+     "text": "阿姐去睇醫生 叫我幫佢睇兩個鐘"
+    },
+    {
+     "t": 22.94,
+     "end": 28.42,
+     "text": "佢間舖頭賣鈕扣 真係淨係賣鈕扣"
+    },
+    {
+     "t": 30.88,
+     "end": 35.24,
+     "text": "佢教咗我三分鐘 教完就走咗"
+    },
+    {
+     "t": 37.66,
+     "end": 42.47,
+     "text": "剩返我 同三千款鈕扣"
+    },
+    {
+     "t": 46.15,
+     "end": 46.15,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 46.15,
+     "end": 47.65,
+     "text": "幫人睇舖"
+    },
+    {
+     "t": 48.01,
+     "end": 50.09,
+     "text": "兩個鐘 我賣咗十四蚊"
+    },
+    {
+     "t": 50.61,
+     "end": 53.97,
+     "text": "一個婆婆買咗六粒 佢揀咗廿分鐘"
+    },
+    {
+     "t": 54.15,
+     "end": 59.55,
+     "text": "我冇催佢 我企喺度 我覺得自己好有用"
+    },
+    {
+     "t": 61.63,
+     "end": 61.63,
+     "text": "[Verse]"
+    },
+    {
+     "t": 61.63,
+     "end": 64.55,
+     "text": "有個阿姨入嚟問一款 我搵唔到 我打畀阿姐"
+    },
+    {
+     "t": 65.21,
+     "end": 68.49,
+     "text": "阿姐喺醫院 佢即刻答「第三格 右邊 藍色盒」"
+    },
+    {
+     "t": 68.87,
+     "end": 72.19,
+     "text": "佢背得出 佢全部背得出"
+    },
+    {
+     "t": 72.19,
+     "end": 75.81,
+     "text": "我嗰下先知 呢間舖頭係一個人成世嘅記憶"
+    },
+    {
+     "t": 76.13,
+     "end": 76.13,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 76.13,
+     "end": 77.79,
+     "text": "幫人睇舖"
+    },
+    {
+     "t": 78.01,
+     "end": 80.11,
+     "text": "兩個鐘 我賣咗十四蚊"
+    },
+    {
+     "t": 80.61,
+     "end": 83.99,
+     "text": "一個婆婆買咗六粒 佢揀咗廿分鐘"
+    },
+    {
+     "t": 84.17,
+     "end": 91.75,
+     "text": "我冇催佢 我企喺度 我覺得自己好有用 真係"
+    },
+    {
+     "t": 91.77,
+     "end": 91.77,
+     "text": "[Bridge]"
+    },
+    {
+     "t": 91.77,
+     "end": 94.17,
+     "text": "阿姐返嚟 我交返啲錢畀佢"
+    },
+    {
+     "t": 95.77,
+     "end": 96.63,
+     "text": "佢數都冇數"
+    },
+    {
+     "t": 97.75,
+     "end": 102.65,
+     "text": "佢淨係問我「你食咗飯未」"
+    },
+    {
+     "t": 102.79,
+     "end": 102.79,
+     "text": "[Outro]"
+    },
+    {
+     "t": 102.79,
+     "end": 102.97,
+     "text": "十四蚊"
+    },
+    {
+     "t": 104.11,
+     "end": 105.21,
+     "text": "喺個鐵盒入面"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_zh01",
@@ -7558,7 +15870,145 @@
      "text": "這個禮拜一 還是在那個位置"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 53.93,
+     "end": 53.93,
+     "text": "[Intro - piano and brushed drums]"
+    },
+    {
+     "t": 53.93,
+     "end": 53.93,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 53.93,
+     "end": 56.99,
+     "text": "下午三點 天色不太對"
+    },
+    {
+     "t": 57.15,
+     "end": 63.25,
+     "text": "我家的收好了 隔壁那戶的還在外面"
+    },
+    {
+     "t": 63.27,
+     "end": 68.45,
+     "text": "那件白襯衫 我看他穿了三年"
+    },
+    {
+     "t": 68.45,
+     "end": 69.57,
+     "text": "每個禮拜一 都在那個位置"
+    },
+    {
+     "t": 69.59,
+     "end": 69.59,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 69.59,
+     "end": 70.53,
+     "text": "我站在陽台想了四十秒"
+    },
+    {
+     "t": 70.53,
+     "end": 73.39,
+     "text": "那四十秒 我在想別人會怎麼想"
+    },
+    {
+     "t": 75.13,
+     "end": 75.13,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 75.13,
+     "end": 76.73,
+     "text": "我還是收了"
+    },
+    {
+     "t": 76.87,
+     "end": 83.99,
+     "text": "一件一件 疊得比我自己的整齊"
+    },
+    {
+     "t": 83.99,
+     "end": 93.49,
+     "text": "放在他門口 用一個塑膠袋罩著"
+    },
+    {
+     "t": 93.49,
+     "end": 97.33,
+     "text": "沒有留紙條 留了就變成一件事"
+    },
+    {
+     "t": 102.81,
+     "end": 102.81,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 102.81,
+     "end": 103.71,
+     "text": "隔天早上 我門口有一袋橘子"
+    },
+    {
+     "t": 103.77,
+     "end": 105.65,
+     "text": "也沒有紙條"
+    },
+    {
+     "t": 105.65,
+     "end": 152.95,
+     "text": "我們在電梯遇到 他說「今天會下雨」"
+    },
+    {
+     "t": 152.95,
+     "end": 168.08,
+     "text": "我說「對啊」 就這樣 我們很有默契地不提"
+    },
+    {
+     "t": 168.08,
+     "end": 168.08,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 168.08,
+     "end": 168.54,
+     "text": "我還是收了"
+    },
+    {
+     "t": 168.54,
+     "end": 195.26,
+     "text": "一件一件 疊得比我自己的整齊"
+    },
+    {
+     "t": 195.26,
+     "end": 197.24,
+     "text": "放在他門口 用一個塑膠袋罩著"
+    },
+    {
+     "t": 197.24,
+     "end": 199.24,
+     "text": "沒有留紙條 留了就變成一件虧欠"
+    },
+    {
+     "t": 199.26,
+     "end": 199.26,
+     "text": "[Outro - piano and trumpet, fading]"
+    },
+    {
+     "t": 199.26,
+     "end": 199.84,
+     "text": "那件白襯衫"
+    },
+    {
+     "t": 199.84,
+     "end": 203.6,
+     "text": "這個禮拜一 還是在那個位置"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_zh02",
@@ -7732,7 +16182,150 @@
      "text": "不是提醒 是收據"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 0.0,
+     "end": 0.0,
+     "text": "[Intro - erhu and distorted guitar]"
+    },
+    {
+     "t": 0.0,
+     "end": 0.0,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 0.0,
+     "end": 41.24,
+     "text": "健檢報告寄到公司 行政小姐一張一張發"
+    },
+    {
+     "t": 41.24,
+     "end": 42.4,
+     "text": "我的那張 有兩個紅字"
+    },
+    {
+     "t": 42.42,
+     "end": 43.48,
+     "text": "我笑著收起來 跟她說謝謝"
+    },
+    {
+     "t": 43.48,
+     "end": 44.72,
+     "text": "回到位子上 我把那張紙翻過來放"
+    },
+    {
+     "t": 44.74,
+     "end": 44.74,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 44.74,
+     "end": 46.84,
+     "text": "紅字不大 比我的名字還小"
+    },
+    {
+     "t": 46.84,
+     "end": 47.86,
+     "text": "但我整個下午 只看得到它"
+    },
+    {
+     "t": 47.92,
+     "end": 47.92,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 47.92,
+     "end": 48.92,
+     "text": "三十五歲 第一次我的身體有話要跟我說"
+    },
+    {
+     "t": 48.92,
+     "end": 51.86,
+     "text": "它不吵 它只是在紙上畫了兩條線"
+    },
+    {
+     "t": 53.78,
+     "end": 57.77,
+     "text": "我一直以為我會先聽到警報"
+    },
+    {
+     "t": 58.21,
+     "end": 60.81,
+     "text": "原來它是用這麼安靜的方式"
+    },
+    {
+     "t": 60.81,
+     "end": 60.81,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 60.81,
+     "end": 84.23,
+     "text": "晚上我查那兩個英文縮寫 查到凌晨"
+    },
+    {
+     "t": 84.23,
+     "end": 90.13,
+     "text": "網路上什麼都有 最嚴重的最好看"
+    },
+    {
+     "t": 93.41,
+     "end": 97.77,
+     "text": "我關掉手機 去廚房倒了一杯水"
+    },
+    {
+     "t": 100.03,
+     "end": 106.17,
+     "text": "站在冰箱前面把它喝完 這是今天我唯一做對的事"
+    },
+    {
+     "t": 110.55,
+     "end": 110.55,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 110.55,
+     "end": 114.53,
+     "text": "三十五歲 第一次我的身體有話要跟我說"
+    },
+    {
+     "t": 116.95,
+     "end": 121.89,
+     "text": "它不吵 它只是在紙上畫了兩條線"
+    },
+    {
+     "t": 123.81,
+     "end": 128.23,
+     "text": "我一直以為我會先聽到警報"
+    },
+    {
+     "t": 130.87,
+     "end": 135.07,
+     "text": "原來它一直都在用這麼安靜的方式"
+    },
+    {
+     "t": 167.84,
+     "end": 167.84,
+     "text": "[Instrumental Break - erhu solo over guitars]"
+    },
+    {
+     "t": 167.84,
+     "end": 167.84,
+     "text": "[Outro - band cuts]"
+    },
+    {
+     "t": 167.84,
+     "end": 173.84,
+     "text": "那張紙 我放在皮夾裡"
+    },
+    {
+     "t": 178.1,
+     "end": 184.44,
+     "text": "不是提醒 是收據"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_zh03",
@@ -7901,7 +16494,145 @@
      "text": "讓它自己沒電"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 35.88,
+     "end": 35.88,
+     "text": "[Intro - strings and piano]"
+    },
+    {
+     "t": 35.88,
+     "end": 35.88,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 35.88,
+     "end": 41.38,
+     "text": "舊手機找出來 充了四個小時才開機"
+    },
+    {
+     "t": 41.38,
+     "end": 43.62,
+     "text": "開機那一下 跳出二零一九年的電量百分之八"
+    },
+    {
+     "t": 43.62,
+     "end": 44.54,
+     "text": "三千兩百張照片"
+    },
+    {
+     "t": 44.54,
+     "end": 46.8,
+     "text": "有兩千張 是同一個人"
+    },
+    {
+     "t": 46.92,
+     "end": 46.92,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 46.92,
+     "end": 53.74,
+     "text": "我本來只是要導出來 當作備份"
+    },
+    {
+     "t": 53.76,
+     "end": 55.06,
+     "text": "導到第四百張 我就不動了"
+    },
+    {
+     "t": 64.43,
+     "end": 64.43,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 64.43,
+     "end": 67.55,
+     "text": "原來我拍過她那麼多次"
+    },
+    {
+     "t": 68.05,
+     "end": 72.73,
+     "text": "吃飯的 走路的 睡著的 背對我的"
+    },
+    {
+     "t": 77.07,
+     "end": 79.35,
+     "text": "每一張都沒有特別"
+    },
+    {
+     "t": 79.41,
+     "end": 85.79,
+     "text": "特別的是我那時候覺得 這種東西拍不完"
+    },
+    {
+     "t": 85.79,
+     "end": 85.79,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 85.79,
+     "end": 87.83,
+     "text": "有一張她在笑 但不是對我笑"
+    },
+    {
+     "t": 87.85,
+     "end": 92.57,
+     "text": "我放大看了很久 想認出來那天旁邊是誰"
+    },
+    {
+     "t": 92.57,
+     "end": 93.47,
+     "text": "認不出來 那也好"
+    },
+    {
+     "t": 93.53,
+     "end": 98.09,
+     "text": "我把那張留下來 其他的 我一張都沒刪"
+    },
+    {
+     "t": 98.63,
+     "end": 98.63,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 98.63,
+     "end": 108.09,
+     "text": "原來我拍過她那麼多次"
+    },
+    {
+     "t": 108.71,
+     "end": 175.23,
+     "text": "吃飯的 走路的 睡著的 背對我的"
+    },
+    {
+     "t": 175.25,
+     "end": 180.94,
+     "text": "每一張都沒有特別"
+    },
+    {
+     "t": 181.0,
+     "end": 185.04,
+     "text": "特別的是我那時候以為 這種東西拍不完"
+    },
+    {
+     "t": 185.04,
+     "end": 185.04,
+     "text": "[Outro - strings, fading]"
+    },
+    {
+     "t": 185.04,
+     "end": 187.5,
+     "text": "舊手機 我沒有關"
+    },
+    {
+     "t": 188.58,
+     "end": 214.34,
+     "text": "讓它自己沒電"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   },
   {
    "id": "b4_zh04",
@@ -7934,6 +16665,292 @@
    "generated_at": "2026-10-06T13:32:40.124098+08:00",
    "audio": "b4_zh04.mp3",
    "lyrics_timed": [
+    {
+     "t": 35.7,
+     "end": 35.7,
+     "text": "[Intro - tapped clean guitar in odd meter]"
+    },
+    {
+     "t": 35.7,
+     "end": 35.7,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 35.7,
+     "end": 39.4,
+     "text": "鴛鴦鍋 已經滾了十七分鐘"
+    },
+    {
+     "t": 41.5,
+     "end": 45.32,
+     "text": "我點了兩人份 服務生問我「還有一位嗎」"
+    },
+    {
+     "t": 45.32,
+     "end": 48.59,
+     "text": "我說「馬上到」 說得很自然"
+    },
+    {
+     "t": 48.61,
+     "end": 51.59,
+     "text": "自然到我自己都信了一下"
+    },
+    {
+     "t": 53.97,
+     "end": 53.97,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 53.97,
+     "end": 55.93,
+     "text": "手機朝下放著"
+    },
+    {
+     "t": 57.15,
+     "end": 60.97,
+     "text": "朝下放著 就不算在等"
+    },
+    {
+     "t": 60.97,
+     "end": 60.97,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 60.97,
+     "end": 63.21,
+     "text": "湯一直滾 料一直沒下"
+    },
+    {
+     "t": 63.21,
+     "end": 66.99,
+     "text": "我把筷子擺正 再擺正 再擺正"
+    },
+    {
+     "t": 66.99,
+     "end": 72.07,
+     "text": "這張桌子四個位置 我佔了一個 守了三個"
+    },
+    {
+     "t": 79.01,
+     "end": 83.69,
+     "text": "守到我自己都覺得 這個畫面很好笑"
+    },
+    {
+     "t": 104.47,
+     "end": 104.47,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 104.47,
+     "end": 109.37,
+     "text": "隔壁桌一群人在鬧 其中一個人看了我一眼"
+    },
+    {
+     "t": 110.67,
+     "end": 114.35,
+     "text": "那一眼不是同情 是「喔 有人在等人」"
+    },
+    {
+     "t": 114.35,
+     "end": 115.73,
+     "text": "我寧願他同情我"
+    },
+    {
+     "t": 117.01,
+     "end": 122.09,
+     "text": "至少那樣 我還可以生氣"
+    },
+    {
+     "t": 127.51,
+     "end": 127.51,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 127.51,
+     "end": 130.65,
+     "text": "湯還在滾 料還是沒下"
+    },
+    {
+     "t": 131.15,
+     "end": 134.83,
+     "text": "我把筷子擺正 再擺正 最後一次"
+    },
+    {
+     "t": 136.27,
+     "end": 141.37,
+     "text": "這張桌子四個位置 我佔了一個 守了三個"
+    },
+    {
+     "t": 142.6,
+     "end": 150.32,
+     "text": "守到服務生來問我「要不要先幫您關小一點」"
+    },
+    {
+     "t": 154.6,
+     "end": 154.6,
+     "text": "[Outro - guitars stop]"
+    },
+    {
+     "t": 154.6,
+     "end": 155.32,
+     "text": "我說好"
+    },
+    {
+     "t": 165.28,
+     "end": 179.02,
+     "text": "然後我把兩人份 一個人吃完"
+    },
+    {
+     "t": 179.02,
+     "end": 179.02,
+     "text": "[Song ends abruptly]"
+    }
+   ],
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_vocals": [
+    {
+     "t": 35.7,
+     "end": 35.7,
+     "text": "[Intro - tapped clean guitar in odd meter]"
+    },
+    {
+     "t": 35.7,
+     "end": 35.7,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 35.7,
+     "end": 39.4,
+     "text": "鴛鴦鍋 已經滾了十七分鐘"
+    },
+    {
+     "t": 41.5,
+     "end": 45.32,
+     "text": "我點了兩人份 服務生問我「還有一位嗎」"
+    },
+    {
+     "t": 45.32,
+     "end": 48.59,
+     "text": "我說「馬上到」 說得很自然"
+    },
+    {
+     "t": 48.61,
+     "end": 51.59,
+     "text": "自然到我自己都信了一下"
+    },
+    {
+     "t": 53.97,
+     "end": 53.97,
+     "text": "[Pre-Chorus]"
+    },
+    {
+     "t": 53.97,
+     "end": 55.93,
+     "text": "手機朝下放著"
+    },
+    {
+     "t": 57.15,
+     "end": 60.97,
+     "text": "朝下放著 就不算在等"
+    },
+    {
+     "t": 60.97,
+     "end": 60.97,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 60.97,
+     "end": 63.21,
+     "text": "湯一直滾 料一直沒下"
+    },
+    {
+     "t": 63.21,
+     "end": 66.99,
+     "text": "我把筷子擺正 再擺正 再擺正"
+    },
+    {
+     "t": 66.99,
+     "end": 72.07,
+     "text": "這張桌子四個位置 我佔了一個 守了三個"
+    },
+    {
+     "t": 79.01,
+     "end": 83.69,
+     "text": "守到我自己都覺得 這個畫面很好笑"
+    },
+    {
+     "t": 104.47,
+     "end": 104.47,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 104.47,
+     "end": 109.37,
+     "text": "隔壁桌一群人在鬧 其中一個人看了我一眼"
+    },
+    {
+     "t": 110.67,
+     "end": 114.35,
+     "text": "那一眼不是同情 是「喔 有人在等人」"
+    },
+    {
+     "t": 114.35,
+     "end": 115.73,
+     "text": "我寧願他同情我"
+    },
+    {
+     "t": 117.01,
+     "end": 122.09,
+     "text": "至少那樣 我還可以生氣"
+    },
+    {
+     "t": 127.51,
+     "end": 127.51,
+     "text": "[Chorus]"
+    },
+    {
+     "t": 127.51,
+     "end": 130.65,
+     "text": "湯還在滾 料還是沒下"
+    },
+    {
+     "t": 131.15,
+     "end": 134.83,
+     "text": "我把筷子擺正 再擺正 最後一次"
+    },
+    {
+     "t": 136.27,
+     "end": 141.37,
+     "text": "這張桌子四個位置 我佔了一個 守了三個"
+    },
+    {
+     "t": 142.6,
+     "end": 150.32,
+     "text": "守到服務生來問我「要不要先幫您關小一點」"
+    },
+    {
+     "t": 154.6,
+     "end": 154.6,
+     "text": "[Outro - guitars stop]"
+    },
+    {
+     "t": 154.6,
+     "end": 155.32,
+     "text": "我說好"
+    },
+    {
+     "t": 165.28,
+     "end": 179.02,
+     "text": "然後我把兩人份 一個人吃完"
+    },
+    {
+     "t": 179.02,
+     "end": 179.02,
+     "text": "[Song ends abruptly]"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_mix": [
     {
      "t": 35.7,
      "end": 35.7,
@@ -8074,8 +17091,7 @@
      "end": 180.4,
      "text": "[Song ends abruptly]"
     }
-   ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   ]
   },
   {
    "id": "b4_zh05",
@@ -8249,7 +17265,150 @@
      "text": "我設了鬧鐘"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+   "lyrics_timed_vocals": [
+    {
+     "t": 59.95,
+     "end": 59.95,
+     "text": "[Intro - drum break and vinyl noise]"
+    },
+    {
+     "t": 59.95,
+     "end": 59.95,
+     "text": "[Verse 1]"
+    },
+    {
+     "t": 59.95,
+     "end": 63.87,
+     "text": "早上六點半 我站在一間我不想吃的店門口"
+    },
+    {
+     "t": 63.87,
+     "end": 65.47,
+     "text": "第十四個 前面十三個都比我年輕"
+    },
+    {
+     "t": 65.49,
+     "end": 66.97,
+     "text": "我幫一個不認識的人排隊 一小時兩百塊"
+    },
+    {
+     "t": 67.29,
+     "end": 69.31,
+     "text": "接單的備註寫「限量 務必買到」"
+    },
+    {
+     "t": 69.31,
+     "end": 69.31,
+     "text": "[Hook]"
+    },
+    {
+     "t": 69.31,
+     "end": 69.81,
+     "text": "我幫你排隊"
+    },
+    {
+     "t": 69.81,
+     "end": 71.03,
+     "text": "你睡到十點 我站到十點"
+    },
+    {
+     "t": 71.19,
+     "end": 73.33,
+     "text": "這不丟臉 我真的不覺得丟臉"
+    },
+    {
+     "t": 73.35,
+     "end": 75.95,
+     "text": "我只是第一次知道 原來時間可以這樣賣"
+    },
+    {
+     "t": 75.95,
+     "end": 75.95,
+     "text": "[Verse 2]"
+    },
+    {
+     "t": 75.95,
+     "end": 87.25,
+     "text": "排到的時候剩最後六份 我拿到了"
+    },
+    {
+     "t": 87.33,
+     "end": 88.97,
+     "text": "我傳照片給他 他回一個讚"
+    },
+    {
+     "t": 88.97,
+     "end": 90.05,
+     "text": "沒有說謝謝 也不用說"
+    },
+    {
+     "t": 90.05,
+     "end": 94.01,
+     "text": "這是交易 我提醒我自己 這是一筆乾淨的交易"
+    },
+    {
+     "t": 94.03,
+     "end": 94.03,
+     "text": "[Hook]"
+    },
+    {
+     "t": 94.03,
+     "end": 94.67,
+     "text": "我幫你排隊"
+    },
+    {
+     "t": 94.67,
+     "end": 110.65,
+     "text": "你睡到十點 我站到十點"
+    },
+    {
+     "t": 110.71,
+     "end": 132.27,
+     "text": "這不丟臉 我真的不覺得丟臉"
+    },
+    {
+     "t": 132.31,
+     "end": 161.34,
+     "text": "我只是第一次知道 原來時間可以這樣賣 而且賣得很便宜"
+    },
+    {
+     "t": 161.34,
+     "end": 161.34,
+     "text": "[Bridge - bass and scratches only]"
+    },
+    {
+     "t": 161.34,
+     "end": 181.54,
+     "text": "回家的公車上 我聞到袋子裡的味道"
+    },
+    {
+     "t": 181.54,
+     "end": 182.5,
+     "text": "我沒有打開"
+    },
+    {
+     "t": 182.5,
+     "end": 183.9,
+     "text": "那不是我的"
+    },
+    {
+     "t": 183.9,
+     "end": 183.9,
+     "text": "[Outro - break stops]"
+    },
+    {
+     "t": 183.9,
+     "end": 186.3,
+     "text": "明天七點 另外一家"
+    },
+    {
+     "t": 186.3,
+     "end": 187.22,
+     "text": "我設了鬧鐘"
+    }
+   ],
+   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
   }
  ],
  "failed": []

@@ -30,6 +30,272 @@
   "audio": "b3_vi01.mp3",
   "lyrics_timed": [
     {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - dan nguyet and breath]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 35.46,
+      "text": "Cô dâu là em họ tôi, hồi bé nó sợ gà"
+    },
+    {
+      "t": 63.91,
+      "end": 64.87,
+      "text": "Giờ nó đứng đó, áo the, tay nắm chặt tay người ta"
+    },
+    {
+      "t": 64.87,
+      "end": 71.39,
+      "text": "Bà bắt tôi hát bài hồi xưa hai đứa hát"
+    },
+    {
+      "t": 71.41,
+      "end": 72.29,
+      "text": "Tôi quên mất đoạn giữa. Thật sự quên."
+    },
+    {
+      "t": 72.29,
+      "end": 72.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.29,
+      "end": 76.41,
+      "text": "Mic kêu một tiếng, cả sân im"
+    },
+    {
+      "t": 79.89,
+      "end": 83.77,
+      "text": "Tôi hát. Sai nhịp. Không ai sửa."
+    },
+    {
+      "t": 84.75,
+      "end": 84.75,
+      "text": "[Chorus - beat enters]"
+    },
+    {
+      "t": 84.75,
+      "end": 87.05,
+      "text": "Hát sai thì hát sai"
+    },
+    {
+      "t": 87.69,
+      "end": 91.19,
+      "text": "Bà vẫn vỗ tay, vỗ to nhất bàn"
+    },
+    {
+      "t": 92.25,
+      "end": 94.51,
+      "text": "Người đúng nhịp thì nhiều rồi"
+    },
+    {
+      "t": 94.51,
+      "end": 96.37,
+      "text": "Hôm nay chỉ cần có người chịu hát"
+    },
+    {
+      "t": 96.41,
+      "end": 96.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.41,
+      "end": 98.97,
+      "text": "Nó khóc, không phải vì bài hát"
+    },
+    {
+      "t": 98.97,
+      "end": 127.37,
+      "text": "Nó khóc vì tôi hát xong rồi ngồi xuống đúng cái ghế hồi xưa"
+    },
+    {
+      "t": 127.37,
+      "end": 128.81,
+      "text": "Hai đứa từng giành nhau cái ghế đó"
+    },
+    {
+      "t": 129.21,
+      "end": 157.94,
+      "text": "Hôm nay nó nhường. Tôi không muốn được nhường."
+    },
+    {
+      "t": 157.94,
+      "end": 157.94,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 157.94,
+      "end": 160.4,
+      "text": "Hát sai thì hát sai"
+    },
+    {
+      "t": 160.4,
+      "end": 162.18,
+      "text": "Bà vẫn vỗ tay, vỗ lâu nhất bàn"
+    },
+    {
+      "t": 162.2,
+      "end": 174.44,
+      "text": "Người đúng nhịp thì nhiều rồi"
+    },
+    {
+      "t": 174.44,
+      "end": 182.06,
+      "text": "Hôm nay chỉ cần có người chịu hát"
+    },
+    {
+      "t": 182.12,
+      "end": 182.12,
+      "text": "[Outro - dan nguyet alone]"
+    },
+    {
+      "t": 182.12,
+      "end": 186.4,
+      "text": "Đoạn giữa, về tới nhà tôi mới nhớ ra"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - dan nguyet and breath]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 35.46,
+      "text": "Cô dâu là em họ tôi, hồi bé nó sợ gà"
+    },
+    {
+      "t": 63.91,
+      "end": 64.87,
+      "text": "Giờ nó đứng đó, áo the, tay nắm chặt tay người ta"
+    },
+    {
+      "t": 64.87,
+      "end": 71.39,
+      "text": "Bà bắt tôi hát bài hồi xưa hai đứa hát"
+    },
+    {
+      "t": 71.41,
+      "end": 72.29,
+      "text": "Tôi quên mất đoạn giữa. Thật sự quên."
+    },
+    {
+      "t": 72.29,
+      "end": 72.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.29,
+      "end": 76.41,
+      "text": "Mic kêu một tiếng, cả sân im"
+    },
+    {
+      "t": 79.89,
+      "end": 83.77,
+      "text": "Tôi hát. Sai nhịp. Không ai sửa."
+    },
+    {
+      "t": 84.75,
+      "end": 84.75,
+      "text": "[Chorus - beat enters]"
+    },
+    {
+      "t": 84.75,
+      "end": 87.05,
+      "text": "Hát sai thì hát sai"
+    },
+    {
+      "t": 87.69,
+      "end": 91.19,
+      "text": "Bà vẫn vỗ tay, vỗ to nhất bàn"
+    },
+    {
+      "t": 92.25,
+      "end": 94.51,
+      "text": "Người đúng nhịp thì nhiều rồi"
+    },
+    {
+      "t": 94.51,
+      "end": 96.37,
+      "text": "Hôm nay chỉ cần có người chịu hát"
+    },
+    {
+      "t": 96.41,
+      "end": 96.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.41,
+      "end": 98.97,
+      "text": "Nó khóc, không phải vì bài hát"
+    },
+    {
+      "t": 98.97,
+      "end": 127.37,
+      "text": "Nó khóc vì tôi hát xong rồi ngồi xuống đúng cái ghế hồi xưa"
+    },
+    {
+      "t": 127.37,
+      "end": 128.81,
+      "text": "Hai đứa từng giành nhau cái ghế đó"
+    },
+    {
+      "t": 129.21,
+      "end": 157.94,
+      "text": "Hôm nay nó nhường. Tôi không muốn được nhường."
+    },
+    {
+      "t": 157.94,
+      "end": 157.94,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 157.94,
+      "end": 160.4,
+      "text": "Hát sai thì hát sai"
+    },
+    {
+      "t": 160.4,
+      "end": 162.18,
+      "text": "Bà vẫn vỗ tay, vỗ lâu nhất bàn"
+    },
+    {
+      "t": 162.2,
+      "end": 174.44,
+      "text": "Người đúng nhịp thì nhiều rồi"
+    },
+    {
+      "t": 174.44,
+      "end": 182.06,
+      "text": "Hôm nay chỉ cần có người chịu hát"
+    },
+    {
+      "t": 182.12,
+      "end": 182.12,
+      "text": "[Outro - dan nguyet alone]"
+    },
+    {
+      "t": 182.12,
+      "end": 186.4,
+      "text": "Đoạn giữa, về tới nhà tôi mới nhớ ra"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
       "t": 21.38,
       "end": 21.38,
       "text": "[Intro - dan nguyet and breath]"
@@ -159,6 +425,5 @@
       "end": 186.36,
       "text": "Đoạn giữa, về tới nhà tôi mới nhớ ra"
     }
-  ],
-  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  ]
 }

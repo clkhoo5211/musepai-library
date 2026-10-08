@@ -30,6 +30,282 @@
   "audio": "b4_en01.mp3",
   "lyrics_timed": [
     {
+      "t": 38.5,
+      "end": 38.5,
+      "text": "[Intro - pedal steel and brushed snare]"
+    },
+    {
+      "t": 38.5,
+      "end": 38.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.5,
+      "end": 42.88,
+      "text": "Fourteen years that thing hung on her porch"
+    },
+    {
+      "t": 42.88,
+      "end": 47.04,
+      "text": "Cheap aluminum, four tubes, one of them too short"
+    },
+    {
+      "t": 47.04,
+      "end": 51.0,
+      "text": "I counted every night I couldn't sleep through it"
+    },
+    {
+      "t": 54.4,
+      "end": 58.31,
+      "text": "I had a whole speech ready. Never gave it."
+    },
+    {
+      "t": 62.19,
+      "end": 62.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.19,
+      "end": 66.81,
+      "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+      "t": 66.87,
+      "end": 69.27,
+      "text": "And I stand at my window like an idiot, waiting"
+    },
+    {
+      "t": 69.27,
+      "end": 70.25,
+      "text": "I didn't know I had memorized it"
+    },
+    {
+      "t": 70.27,
+      "end": 77.59,
+      "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+      "t": 77.73,
+      "end": 77.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.73,
+      "end": 83.49,
+      "text": "Her son came with a truck on a Tuesday"
+    },
+    {
+      "t": 83.83,
+      "end": 88.03,
+      "text": "Took the chairs, the pots, the chime. The hook stayed."
+    },
+    {
+      "t": 88.03,
+      "end": 93.15,
+      "text": "He waved at me. I waved back. That's the most we ever did."
+    },
+    {
+      "t": 93.25,
+      "end": 116.33,
+      "text": "Fourteen years of a sound and I never learned her last name"
+    },
+    {
+      "t": 116.33,
+      "end": 116.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.33,
+      "end": 121.81,
+      "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+      "t": 121.83,
+      "end": 129.89,
+      "text": "And I stand at my window like an idiot, listening"
+    },
+    {
+      "t": 129.97,
+      "end": 134.33,
+      "text": "I didn't know I had memorized it"
+    },
+    {
+      "t": 134.35,
+      "end": 156.79,
+      "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+      "t": 158.97,
+      "end": 158.97,
+      "text": "[Bridge - pedal steel alone]"
+    },
+    {
+      "t": 158.97,
+      "end": 163.71,
+      "text": "I bought one. Hung it on my own porch."
+    },
+    {
+      "t": 164.25,
+      "end": 165.87,
+      "text": "Wrong pitch. Course it is."
+    },
+    {
+      "t": 165.87,
+      "end": 165.87,
+      "text": "[Outro - pedal steel, fading]"
+    },
+    {
+      "t": 165.87,
+      "end": 201.74,
+      "text": "Four tubes, one of them too short"
+    },
+    {
+      "t": 201.84,
+      "end": 213.18,
+      "text": "I'll leave it up"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.5,
+      "end": 38.5,
+      "text": "[Intro - pedal steel and brushed snare]"
+    },
+    {
+      "t": 38.5,
+      "end": 38.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.5,
+      "end": 42.88,
+      "text": "Fourteen years that thing hung on her porch"
+    },
+    {
+      "t": 42.88,
+      "end": 47.04,
+      "text": "Cheap aluminum, four tubes, one of them too short"
+    },
+    {
+      "t": 47.04,
+      "end": 51.0,
+      "text": "I counted every night I couldn't sleep through it"
+    },
+    {
+      "t": 54.4,
+      "end": 58.31,
+      "text": "I had a whole speech ready. Never gave it."
+    },
+    {
+      "t": 62.19,
+      "end": 62.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.19,
+      "end": 66.81,
+      "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+      "t": 66.87,
+      "end": 69.27,
+      "text": "And I stand at my window like an idiot, waiting"
+    },
+    {
+      "t": 69.27,
+      "end": 70.25,
+      "text": "I didn't know I had memorized it"
+    },
+    {
+      "t": 70.27,
+      "end": 77.59,
+      "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+      "t": 77.73,
+      "end": 77.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.73,
+      "end": 83.49,
+      "text": "Her son came with a truck on a Tuesday"
+    },
+    {
+      "t": 83.83,
+      "end": 88.03,
+      "text": "Took the chairs, the pots, the chime. The hook stayed."
+    },
+    {
+      "t": 88.03,
+      "end": 93.15,
+      "text": "He waved at me. I waved back. That's the most we ever did."
+    },
+    {
+      "t": 93.25,
+      "end": 116.33,
+      "text": "Fourteen years of a sound and I never learned her last name"
+    },
+    {
+      "t": 116.33,
+      "end": 116.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.33,
+      "end": 121.81,
+      "text": "Now the hook is still there and nothing's on it"
+    },
+    {
+      "t": 121.83,
+      "end": 129.89,
+      "text": "And I stand at my window like an idiot, listening"
+    },
+    {
+      "t": 129.97,
+      "end": 134.33,
+      "text": "I didn't know I had memorized it"
+    },
+    {
+      "t": 134.35,
+      "end": 156.79,
+      "text": "I didn't know it was the sound of somebody being home"
+    },
+    {
+      "t": 158.97,
+      "end": 158.97,
+      "text": "[Bridge - pedal steel alone]"
+    },
+    {
+      "t": 158.97,
+      "end": 163.71,
+      "text": "I bought one. Hung it on my own porch."
+    },
+    {
+      "t": 164.25,
+      "end": 165.87,
+      "text": "Wrong pitch. Course it is."
+    },
+    {
+      "t": 165.87,
+      "end": 165.87,
+      "text": "[Outro - pedal steel, fading]"
+    },
+    {
+      "t": 165.87,
+      "end": 201.74,
+      "text": "Four tubes, one of them too short"
+    },
+    {
+      "t": 201.84,
+      "end": 213.18,
+      "text": "I'll leave it up"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
       "t": 9.4,
       "end": 9.4,
       "text": "[Intro - pedal steel and brushed snare]"
@@ -164,6 +440,5 @@
       "end": 186.58,
       "text": "I'll leave it up"
     }
-  ],
-  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  ]
 }
