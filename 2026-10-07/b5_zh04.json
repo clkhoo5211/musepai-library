@@ -1,0 +1,154 @@
+{
+  "id": "b5_zh04",
+  "title": "下班吃早餐",
+  "title_source": "scripted",
+  "genre": "Mandarin jazz house",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "the world waking as you shut down",
+  "persona": "",
+  "subject": "a night-shift nurse eating breakfast at seven thirty while everyone else goes to work",
+  "caption": "Mandarin jazz house. Live Rhodes electric piano playing ninth and eleventh chord voicings, a steady four-on-the-floor kick with a live ride cymbal on top, a warm upright-style bass line walking around the root, soft hand percussion, a short scat vocal fragment looped as texture. Warm club groove with the Rhodes forward and the live cymbals bright, never harsh. Female voice, soft and soulful, conversational in the verses with gentle melisma only at line endings. 122 BPM, A flat major. The world waking up just as you shut down. No trap drums, no rap, no distorted synth, no ballad section, no key change.",
+  "lyrics": "[Intro - Rhodes ninth chords and four-on-the-floor]\n\n[Verse 1]\n早上七點半 我下班 別人上班\n早餐店的阿姨 已經記得我要什麼\n蛋餅 不加蔥 大冰奶\n我坐在門口 看所有人往我剛離開的方向走\n\n[Chorus]\n下班吃早餐\n我的晚上 是你們的早上\n我把一整夜的累 配一杯冰奶吞下去\n世界剛醒 我準備去睡了\n\n[Verse 2]\n隔壁桌的學生在抄作業 抄得很快\n我想跟他說 慢慢抄 沒關係\n但我只是看著 他抄完 跑走 忘了拿傘\n我幫他收著 明天他會再來\n\n[Chorus]\n下班吃早餐\n我的晚上 是你們的早上\n我把一整夜的累 配一杯冰奶吞下去\n世界剛醒 我準備去睡了 帶著一把別人的傘\n\n[Outro - Rhodes, fading]\n阿姨說「辛苦了」\n今天第一個 跟我說這句的人",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 218.0,
+    "genres": "N/A",
+    "keyscale": "Ab major",
+    "timesignature": "4",
+    "prompt": "Mandarin jazz house. Live Rhodes electric piano playing ninth and eleventh chord voicings, a steady four-on-the-floor kick with a live ride cymbal on top, a warm upright-style bass line walking around the root, soft hand percussion, a short scat vocal fragment looped as texture. Warm club groove with the Rhodes forward and the live cymbals bright, never harsh. Female voice, soft and soulful, conversational in the verses with gentle melisma only at line endings. 122 BPM, A flat major. The world waking up just as you shut down. No trap drums, no rap, no distorted synth, no ballad section, no key change.",
+    "lyrics": "[Intro - Rhodes ninth chords and four-on-the-floor]\n\n[Verse 1]\n早上七點半 我下班 別人上班\n早餐店的阿姨 已經記得我要什麼\n蛋餅 不加蔥 大冰奶\n我坐在門口 看所有人往我剛離開的方向走\n\n[Chorus]\n下班吃早餐\n我的晚上 是你們的早上\n我把一整夜的累 配一杯冰奶吞下去\n世界剛醒 我準備去睡了\n\n[Verse 2]\n隔壁桌的學生在抄作業 抄得很快\n我想跟他說 慢慢抄 沒關係\n但我只是看著 他抄完 跑走 忘了拿傘\n我幫他收著 明天他會再來\n\n[Chorus]\n下班吃早餐\n我的晚上 是你們的早上\n我把一整夜的累 配一杯冰奶吞下去\n世界剛醒 我準備去睡了 帶著一把別人的傘\n\n[Outro - Rhodes, fading]\n阿姨說「辛苦了」\n今天第一個 跟我說這句的人"
+  },
+  "seed": "2034485652",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 548.01s**\n- 548.01s per song\n- LM phase (1 song): 36.34s\n- DiT phase (1 song): 511.67s",
+  "task_id": "f899a91f-d1a2-4a6a-b14d-e33c3769b0ea",
+  "elapsed_s": 582.1,
+  "generated_at": "2026-10-08T02:45:06.902980+08:00",
+  "audio": "b5_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 44.2,
+      "end": 44.2,
+      "text": "[Intro - Rhodes ninth chords and four-on-the-floor]"
+    },
+    {
+      "t": 44.2,
+      "end": 44.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.2,
+      "end": 49.52,
+      "text": "早上七點半 我下班 別人上班"
+    },
+    {
+      "t": 52.36,
+      "end": 57.01,
+      "text": "早餐店的阿姨 已經記得我要什麼"
+    },
+    {
+      "t": 57.01,
+      "end": 57.83,
+      "text": "蛋餅 不加蔥 大冰奶"
+    },
+    {
+      "t": 57.83,
+      "end": 62.89,
+      "text": "我坐在門口 看所有人往我剛離開的方向走"
+    },
+    {
+      "t": 64.45,
+      "end": 64.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.45,
+      "end": 68.67,
+      "text": "下班吃早餐"
+    },
+    {
+      "t": 68.85,
+      "end": 71.93,
+      "text": "我的晚上 是你們的早上"
+    },
+    {
+      "t": 72.13,
+      "end": 76.21,
+      "text": "我把一整夜的累 配一杯冰奶吞下去"
+    },
+    {
+      "t": 76.85,
+      "end": 84.15,
+      "text": "世界剛醒 我準備去睡了"
+    },
+    {
+      "t": 115.79,
+      "end": 115.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 115.79,
+      "end": 123.11,
+      "text": "隔壁桌的學生在抄作業 抄得很快"
+    },
+    {
+      "t": 123.21,
+      "end": 126.61,
+      "text": "我想跟他說 慢慢抄 沒關係"
+    },
+    {
+      "t": 126.69,
+      "end": 128.35,
+      "text": "但我只是看著 他抄完 跑走 忘了拿傘"
+    },
+    {
+      "t": 128.41,
+      "end": 142.15,
+      "text": "我幫他收著 明天他會再來"
+    },
+    {
+      "t": 142.27,
+      "end": 142.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.27,
+      "end": 144.77,
+      "text": "下班吃早餐"
+    },
+    {
+      "t": 144.77,
+      "end": 150.21,
+      "text": "我的晚上 是你們的早上"
+    },
+    {
+      "t": 150.21,
+      "end": 154.79,
+      "text": "我把一整夜的累 配一杯冰奶吞下去"
+    },
+    {
+      "t": 155.01,
+      "end": 174.56,
+      "text": "世界剛醒 我準備去睡了 帶著一把別人的傘"
+    },
+    {
+      "t": 179.72,
+      "end": 179.72,
+      "text": "[Outro - Rhodes, fading]"
+    },
+    {
+      "t": 179.72,
+      "end": 182.04,
+      "text": "阿姨說「辛苦了」"
+    },
+    {
+      "t": 184.98,
+      "end": 191.32,
+      "text": "今天第一個 跟我說這句的人"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

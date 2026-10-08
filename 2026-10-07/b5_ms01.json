@@ -1,0 +1,159 @@
+{
+  "id": "b5_ms01",
+  "title": "Mamak Dua Pagi",
+  "title_source": "scripted",
+  "genre": "pop yeh-yeh revival",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "belonging to a crowd by accident",
+  "persona": "",
+  "subject": "watching football on a big screen at a mamak stall at two in the morning",
+  "caption": "Malaysian pop yeh-yeh in the 1960s kugiran beat-band style. Clean twangy lead electric guitar drenched in spring reverb playing the melody, rhythm guitar strumming straight eighths, a simple walking electric bass, a busy snare-driven drum kit in a twist and beat feel, a cheap combo organ in the chorus. Recorded like a live 1960s four-piece in one room, roomy and mono-leaning. Bright youthful male lead with no melisma, answered by a group of backing singers shouting yeh-yeh responses. 148 BPM, G major. Belonging to a crowd by accident. No modern production, no synth, no programmed drums, no ballad section, no key change.",
+  "lyrics": "[Intro - spring-reverb lead guitar and busy snare]\n\n[Verse 1]\nPukul dua pagi, kedai mamak, skrin besar depan longkang\nLiverpool main, separuh kedai sokong, separuh lagi cuma nak teh\nAku tak minat bola, aku datang sebab semua orang datang\nAku jerit bila mereka jerit, aku tak tahu siapa jaring\n\n[Chorus - with group backing]\nMamak dua pagi, yeh yeh\nRoti canai kosong, teh o ais limau\nTak ada siapa tanya aku kerja apa\nSemua orang cuma tanya \"skor berapa?\"\n\n[Verse 2]\nPakcik meja sebelah peluk aku bila gol masuk\nKami tak kenal, dia peluk kuat-kuat\nLepas tu dia duduk balik, macam tak ada apa berlaku\nEsok kalau jumpa kat pasar, dia takkan ingat aku\n\n[Chorus - with group backing]\nMamak dua pagi, yeh yeh\nRoti canai kosong, teh o ais limau\nTak ada siapa tanya aku kerja apa\nSemua orang cuma tanya \"skor berapa?\", dan aku dah tahu jawab\n\n[Outro - guitar twang, cut]\nDua satu\nAku pun bersorak\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 148,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Malaysian pop yeh-yeh in the 1960s kugiran beat-band style. Clean twangy lead electric guitar drenched in spring reverb playing the melody, rhythm guitar strumming straight eighths, a simple walking electric bass, a busy snare-driven drum kit in a twist and beat feel, a cheap combo organ in the chorus. Recorded like a live 1960s four-piece in one room, roomy and mono-leaning. Bright youthful male lead with no melisma, answered by a group of backing singers shouting yeh-yeh responses. 148 BPM, G major. Belonging to a crowd by accident. No modern production, no synth, no programmed drums, no ballad section, no key change.",
+    "lyrics": "[Intro - spring-reverb lead guitar and busy snare]\n\n[Verse 1]\nPukul dua pagi, kedai mamak, skrin besar depan longkang\nLiverpool main, separuh kedai sokong, separuh lagi cuma nak teh\nAku tak minat bola, aku datang sebab semua orang datang\nAku jerit bila mereka jerit, aku tak tahu siapa jaring\n\n[Chorus - with group backing]\nMamak dua pagi, yeh yeh\nRoti canai kosong, teh o ais limau\nTak ada siapa tanya aku kerja apa\nSemua orang cuma tanya \"skor berapa?\"\n\n[Verse 2]\nPakcik meja sebelah peluk aku bila gol masuk\nKami tak kenal, dia peluk kuat-kuat\nLepas tu dia duduk balik, macam tak ada apa berlaku\nEsok kalau jumpa kat pasar, dia takkan ingat aku\n\n[Chorus - with group backing]\nMamak dua pagi, yeh yeh\nRoti canai kosong, teh o ais limau\nTak ada siapa tanya aku kerja apa\nSemua orang cuma tanya \"skor berapa?\", dan aku dah tahu jawab\n\n[Outro - guitar twang, cut]\nDua satu\nAku pun bersorak\n[Song ends abruptly]"
+  },
+  "seed": "4035520457",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.61s**\n- 67.61s per song\n- LM phase (1 song): 16.16s\n- DiT phase (1 song): 51.45s",
+  "task_id": "e55e088a-f42f-4a32-95a2-c441d8d0e74b",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-07T23:59:47.009365+08:00",
+  "audio": "b5_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.88,
+      "end": 0.88,
+      "text": "[Intro - spring-reverb lead guitar and busy snare]"
+    },
+    {
+      "t": 0.88,
+      "end": 0.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.88,
+      "end": 22.14,
+      "text": "Pukul dua pagi, kedai mamak, skrin besar depan longkang"
+    },
+    {
+      "t": 22.32,
+      "end": 41.94,
+      "text": "Liverpool main, separuh kedai sokong, separuh lagi cuma nak teh"
+    },
+    {
+      "t": 42.34,
+      "end": 48.13,
+      "text": "Aku tak minat bola, aku datang sebab semua orang datang"
+    },
+    {
+      "t": 49.43,
+      "end": 58.25,
+      "text": "Aku jerit bila mereka jerit, aku tak tahu siapa jaring"
+    },
+    {
+      "t": 62.31,
+      "end": 62.31,
+      "text": "[Chorus - with group backing]"
+    },
+    {
+      "t": 62.31,
+      "end": 65.57,
+      "text": "Mamak dua pagi, yeh yeh"
+    },
+    {
+      "t": 66.35,
+      "end": 70.71,
+      "text": "Roti canai kosong, teh o ais limau"
+    },
+    {
+      "t": 70.89,
+      "end": 73.01,
+      "text": "Tak ada siapa tanya aku kerja apa"
+    },
+    {
+      "t": 73.01,
+      "end": 76.99,
+      "text": "Semua orang cuma tanya \"skor berapa?\""
+    },
+    {
+      "t": 79.51,
+      "end": 79.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.51,
+      "end": 84.29,
+      "text": "Pakcik meja sebelah peluk aku bila gol masuk"
+    },
+    {
+      "t": 85.93,
+      "end": 89.71,
+      "text": "Kami tak kenal, dia peluk kuat-kuat"
+    },
+    {
+      "t": 89.73,
+      "end": 95.47,
+      "text": "Lepas tu dia duduk balik, macam tak ada apa berlaku"
+    },
+    {
+      "t": 96.85,
+      "end": 104.49,
+      "text": "Esok kalau jumpa kat pasar, dia takkan ingat aku"
+    },
+    {
+      "t": 105.35,
+      "end": 105.35,
+      "text": "[Chorus - with group backing]"
+    },
+    {
+      "t": 105.35,
+      "end": 107.83,
+      "text": "Mamak dua pagi, yeh yeh"
+    },
+    {
+      "t": 108.61,
+      "end": 116.43,
+      "text": "Roti canai kosong, teh o ais limau"
+    },
+    {
+      "t": 117.09,
+      "end": 126.17,
+      "text": "Tak ada siapa tanya aku kerja apa"
+    },
+    {
+      "t": 128.43,
+      "end": 158.68,
+      "text": "Semua orang cuma tanya \"skor berapa?\", dan aku dah tahu jawab"
+    },
+    {
+      "t": 158.86,
+      "end": 158.86,
+      "text": "[Outro - guitar twang, cut]"
+    },
+    {
+      "t": 158.86,
+      "end": 165.64,
+      "text": "Dua satu"
+    },
+    {
+      "t": 166.22,
+      "end": 174.94,
+      "text": "Aku pun bersorak"
+    },
+    {
+      "t": 174.94,
+      "end": 174.94,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

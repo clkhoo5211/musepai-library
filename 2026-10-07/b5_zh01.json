@@ -1,0 +1,159 @@
+{
+  "id": "b5_zh01",
+  "title": "洗車",
+  "title_source": "scripted",
+  "genre": "psychedelic soft rock revival",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "forty minutes of legal idleness",
+  "persona": "",
+  "subject": "forty minutes on a plastic chair at a car wash",
+  "caption": "Mandarin psychedelic soft rock in the current Taiwanese band-revival style. Clean electric guitar through a lush chorus pedal playing jazzy seventh chords, Rhodes electric piano with gentle tremolo, a tenor saxophone answering the vocal and taking a solo, drums played laid-back in the pocket with a dry snare, round warm bass. Dry and smoky rather than bright, warm tape tone, nothing glossy. Breathy male voice slipping into falsetto at line ends, relaxed and slightly sleepy. 92 BPM, D flat major. Forty minutes of legal idleness. No bright city-pop gloss, no synth lead, no programmed drums, no belted chorus, no key change.",
+  "lyrics": "[Intro - chorused guitar and Rhodes]\n\n[Verse 1]\n洗車場 等四十分鐘 塑膠椅 自動販賣機\n電視在播 沒有人看 一個阿伯在睡\n我本來帶了筆電 想把報告做完\n結果我在看那台刷子 轉了十分鐘\n\n[Chorus]\n四十分鐘 沒有人可以叫我\n我的車在被洗 我只是在等\n這是一個禮拜裡 唯一一段合法的發呆\n我很認真地 什麼都不做\n\n[Verse 2]\n那個阿伯醒了 問我現在幾點\n我告訴他 他說「還早」 又睡回去\n我不知道他在等哪一台\n他好像也沒有很在乎\n\n[Chorus]\n四十分鐘 沒有人可以叫我\n我的車在被洗 我只是在等\n這是一個禮拜裡 唯一一段合法的發呆\n我很認真地 什麼都沒做完\n\n[Instrumental Break - saxophone solo]\n\n[Outro - Rhodes, fading]\n車洗好了 我又坐了五分鐘\n阿伯還在睡",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 216.0,
+    "genres": "N/A",
+    "keyscale": "Db major",
+    "timesignature": "4",
+    "prompt": "Mandarin psychedelic soft rock in the current Taiwanese band-revival style. Clean electric guitar through a lush chorus pedal playing jazzy seventh chords, Rhodes electric piano with gentle tremolo, a tenor saxophone answering the vocal and taking a solo, drums played laid-back in the pocket with a dry snare, round warm bass. Dry and smoky rather than bright, warm tape tone, nothing glossy. Breathy male voice slipping into falsetto at line ends, relaxed and slightly sleepy. 92 BPM, D flat major. Forty minutes of legal idleness. No bright city-pop gloss, no synth lead, no programmed drums, no belted chorus, no key change.",
+    "lyrics": "[Intro - chorused guitar and Rhodes]\n\n[Verse 1]\n洗車場 等四十分鐘 塑膠椅 自動販賣機\n電視在播 沒有人看 一個阿伯在睡\n我本來帶了筆電 想把報告做完\n結果我在看那台刷子 轉了十分鐘\n\n[Chorus]\n四十分鐘 沒有人可以叫我\n我的車在被洗 我只是在等\n這是一個禮拜裡 唯一一段合法的發呆\n我很認真地 什麼都不做\n\n[Verse 2]\n那個阿伯醒了 問我現在幾點\n我告訴他 他說「還早」 又睡回去\n我不知道他在等哪一台\n他好像也沒有很在乎\n\n[Chorus]\n四十分鐘 沒有人可以叫我\n我的車在被洗 我只是在等\n這是一個禮拜裡 唯一一段合法的發呆\n我很認真地 什麼都沒做完\n\n[Instrumental Break - saxophone solo]\n\n[Outro - Rhodes, fading]\n車洗好了 我又坐了五分鐘\n阿伯還在睡"
+  },
+  "seed": "3753055444",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.09s**\n- 66.09s per song\n- LM phase (1 song): 11.22s\n- DiT phase (1 song): 54.87s",
+  "task_id": "5451abcd-0d59-4e44-b050-326f6413b887",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-08T00:33:46.080822+08:00",
+  "audio": "b5_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 55.09,
+      "end": 55.09,
+      "text": "[Intro - chorused guitar and Rhodes]"
+    },
+    {
+      "t": 55.09,
+      "end": 55.09,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 55.09,
+      "end": 59.45,
+      "text": "洗車場 等四十分鐘 塑膠椅 自動販賣機"
+    },
+    {
+      "t": 59.45,
+      "end": 62.07,
+      "text": "電視在播 沒有人看 一個阿伯在睡"
+    },
+    {
+      "t": 62.07,
+      "end": 63.87,
+      "text": "我本來帶了筆電 想把報告做完"
+    },
+    {
+      "t": 63.87,
+      "end": 65.29,
+      "text": "結果我在看那台刷子 轉了十分鐘"
+    },
+    {
+      "t": 65.29,
+      "end": 65.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.29,
+      "end": 66.55,
+      "text": "四十分鐘 沒有人可以叫我"
+    },
+    {
+      "t": 66.55,
+      "end": 67.57,
+      "text": "我的車在被洗 我只是在等"
+    },
+    {
+      "t": 67.59,
+      "end": 69.83,
+      "text": "這是一個禮拜裡 唯一一段合法的發呆"
+    },
+    {
+      "t": 69.83,
+      "end": 72.73,
+      "text": "我很認真地 什麼都不做"
+    },
+    {
+      "t": 76.53,
+      "end": 76.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.53,
+      "end": 78.47,
+      "text": "那個阿伯醒了 問我現在幾點"
+    },
+    {
+      "t": 78.53,
+      "end": 97.87,
+      "text": "我告訴他 他說「還早」 又睡回去"
+    },
+    {
+      "t": 97.95,
+      "end": 100.41,
+      "text": "我不知道他在等哪一台"
+    },
+    {
+      "t": 100.75,
+      "end": 105.47,
+      "text": "他好像也沒有很在乎"
+    },
+    {
+      "t": 109.33,
+      "end": 109.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.33,
+      "end": 110.73,
+      "text": "四十分鐘 沒有人可以叫我"
+    },
+    {
+      "t": 111.97,
+      "end": 115.87,
+      "text": "我的車在被洗 我只是在等"
+    },
+    {
+      "t": 117.23,
+      "end": 120.87,
+      "text": "這是一個禮拜裡 唯一一段合法的發呆"
+    },
+    {
+      "t": 122.55,
+      "end": 127.41,
+      "text": "我很認真地 什麼都沒做完"
+    },
+    {
+      "t": 130.15,
+      "end": 130.15,
+      "text": "[Instrumental Break - saxophone solo]"
+    },
+    {
+      "t": 130.15,
+      "end": 130.15,
+      "text": "[Outro - Rhodes, fading]"
+    },
+    {
+      "t": 130.15,
+      "end": 202.4,
+      "text": "車洗好了 我又坐了五分鐘"
+    },
+    {
+      "t": 202.48,
+      "end": 204.42,
+      "text": "阿伯還在睡"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

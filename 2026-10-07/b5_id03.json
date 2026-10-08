@@ -1,0 +1,154 @@
+{
+  "id": "b5_id03",
+  "title": "Marga",
+  "title_source": "scripted",
+  "genre": "pop Batak trio harmony",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "instant family in a city of strangers",
+  "persona": "",
+  "subject": "finding your own clan name on a stranger's business card in Jakarta",
+  "caption": "Batak pop in the classic trio style. Three male voices singing in close three-part harmony carrying almost the entire song, sulim bamboo flute playing the melodic introductions and answers, taganing tuned drums keeping a soft pattern, a steel-string acoustic guitar strumming gently underneath. Warm and close with the three voices forward and the instruments sparse and supportive. Male trio in tight, resonant three-part harmony, the lead taking the verses alone and the other two joining on every chorus. 78 BPM, G major. Instant family in a city full of strangers. No drum kit, no synth, no autotune, no rap, no key change.",
+  "lyrics": "[Intro - three-voice hum and sulim]\n\n[Verse 1]\nRapat kantor di Jakarta, orang baru, kartu nama\nDi bawah namanya, marga yang sama dengan aku\nKami belum bicara soal kerja, kami sudah hitung silsilah\nLima menit, ternyata aku harus panggil dia tulang\n\n[Chorus - trio harmony]\nSatu marga, satu kampung yang belum pernah kami datangi berdua\nDi kota sebesar ini, tiba-tiba ada saudara\nKami tidak saling kenal, tapi kami tahu harus duduk di mana\nItu sudah cukup untuk jadi keluarga\n\n[Verse 2]\nDia traktir aku makan, aku tidak boleh menolak\nItu adat, katanya, dan dia senyum waktu bilang itu\nKami bicara soal opung, soal danau, soal lagu\nKami bernyanyi pelan di warung, tiga suara jadi dua\n\n[Chorus - trio harmony]\nSatu marga, satu kampung yang belum pernah kami datangi berdua\nDi kota sebesar ini, tiba-tiba ada saudara\nKami tidak saling kenal, tapi kami tahu harus duduk di mana\nDan malam ini, itu sudah cukup\n\n[Outro - harmony and sulim, fading]\nKartu namanya\nAku simpan di dompet, bukan di laci",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 220.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "3",
+    "prompt": "Batak pop in the classic trio style. Three male voices singing in close three-part harmony carrying almost the entire song, sulim bamboo flute playing the melodic introductions and answers, taganing tuned drums keeping a soft pattern, a steel-string acoustic guitar strumming gently underneath. Warm and close with the three voices forward and the instruments sparse and supportive. Male trio in tight, resonant three-part harmony, the lead taking the verses alone and the other two joining on every chorus. 78 BPM, G major. Instant family in a city full of strangers. No drum kit, no synth, no autotune, no rap, no key change.",
+    "lyrics": "[Intro - three-voice hum and sulim]\n\n[Verse 1]\nRapat kantor di Jakarta, orang baru, kartu nama\nDi bawah namanya, marga yang sama dengan aku\nKami belum bicara soal kerja, kami sudah hitung silsilah\nLima menit, ternyata aku harus panggil dia tulang\n\n[Chorus - trio harmony]\nSatu marga, satu kampung yang belum pernah kami datangi berdua\nDi kota sebesar ini, tiba-tiba ada saudara\nKami tidak saling kenal, tapi kami tahu harus duduk di mana\nItu sudah cukup untuk jadi keluarga\n\n[Verse 2]\nDia traktir aku makan, aku tidak boleh menolak\nItu adat, katanya, dan dia senyum waktu bilang itu\nKami bicara soal opung, soal danau, soal lagu\nKami bernyanyi pelan di warung, tiga suara jadi dua\n\n[Chorus - trio harmony]\nSatu marga, satu kampung yang belum pernah kami datangi berdua\nDi kota sebesar ini, tiba-tiba ada saudara\nKami tidak saling kenal, tapi kami tahu harus duduk di mana\nDan malam ini, itu sudah cukup\n\n[Outro - harmony and sulim, fading]\nKartu namanya\nAku simpan di dompet, bukan di laci"
+  },
+  "seed": "3025742146",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.63s**\n- 62.63s per song\n- LM phase (1 song): 7.81s\n- DiT phase (1 song): 54.82s",
+  "task_id": "f6c7320b-e670-433b-a0e6-2dd6082c09bd",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-08T00:09:21.275834+08:00",
+  "audio": "b5_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.3,
+      "end": 19.3,
+      "text": "[Intro - three-voice hum and sulim]"
+    },
+    {
+      "t": 19.3,
+      "end": 19.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.3,
+      "end": 25.76,
+      "text": "Rapat kantor di Jakarta, orang baru, kartu nama"
+    },
+    {
+      "t": 27.92,
+      "end": 34.8,
+      "text": "Di bawah namanya, marga yang sama dengan aku"
+    },
+    {
+      "t": 38.24,
+      "end": 45.86,
+      "text": "Kami belum bicara soal kerja, kami sudah hitung silsilah"
+    },
+    {
+      "t": 47.54,
+      "end": 54.78,
+      "text": "Lima menit, ternyata aku harus panggil dia tulang"
+    },
+    {
+      "t": 56.61,
+      "end": 56.61,
+      "text": "[Chorus - trio harmony]"
+    },
+    {
+      "t": 56.61,
+      "end": 63.55,
+      "text": "Satu marga, satu kampung yang belum pernah kami datangi berdua"
+    },
+    {
+      "t": 64.25,
+      "end": 70.77,
+      "text": "Di kota sebesar ini, tiba-tiba ada saudara"
+    },
+    {
+      "t": 73.27,
+      "end": 80.23,
+      "text": "Kami tidak saling kenal, tapi kami tahu harus duduk di mana"
+    },
+    {
+      "t": 87.67,
+      "end": 93.43,
+      "text": "Itu sudah cukup untuk jadi keluarga"
+    },
+    {
+      "t": 97.05,
+      "end": 97.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.05,
+      "end": 102.27,
+      "text": "Dia traktir aku makan, aku tidak boleh menolak"
+    },
+    {
+      "t": 102.83,
+      "end": 111.15,
+      "text": "Itu adat, katanya, dan dia senyum waktu bilang itu"
+    },
+    {
+      "t": 111.79,
+      "end": 116.67,
+      "text": "Kami bicara soal opung, soal danau, soal lagu"
+    },
+    {
+      "t": 117.47,
+      "end": 124.41,
+      "text": "Kami bernyanyi pelan di warung, tiga suara jadi dua"
+    },
+    {
+      "t": 128.01,
+      "end": 128.01,
+      "text": "[Chorus - trio harmony]"
+    },
+    {
+      "t": 128.01,
+      "end": 140.47,
+      "text": "Satu marga, satu kampung yang belum pernah kami datangi berdua"
+    },
+    {
+      "t": 140.47,
+      "end": 146.63,
+      "text": "Di kota sebesar ini, tiba-tiba ada saudara"
+    },
+    {
+      "t": 149.45,
+      "end": 156.83,
+      "text": "Kami tidak saling kenal, tapi kami tahu harus duduk di mana"
+    },
+    {
+      "t": 159.31,
+      "end": 166.52,
+      "text": "Dan malam ini, itu sudah cukup"
+    },
+    {
+      "t": 167.58,
+      "end": 167.58,
+      "text": "[Outro - harmony and sulim, fading]"
+    },
+    {
+      "t": 167.58,
+      "end": 169.66,
+      "text": "Kartu namanya"
+    },
+    {
+      "t": 176.9,
+      "end": 207.82,
+      "text": "Aku simpan di dompet, bukan di laci"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

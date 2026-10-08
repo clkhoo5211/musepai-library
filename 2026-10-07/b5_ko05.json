@@ -1,0 +1,154 @@
+{
+  "id": "b5_ko05",
+  "title": "한쪽 이어폰",
+  "title_source": "scripted",
+  "genre": "lo-fi bedroom emo",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "remembering the same song differently",
+  "persona": "",
+  "subject": "an earbud whose left side broke, the side someone else used to wear",
+  "caption": "Korean lo-fi bedroom emo. Tapped electric guitar figures recorded cheaply and slightly out of tune, a distorted shoegaze-like pad swelling underneath, drums buried and compressed as if recorded in a small room, cassette hiss and tape wobble throughout, emo dynamics jumping between quiet and loud. Lo-fi and hissy with everything slightly blown out and the voice sunk into the mix. Male voice, close and buried, recorded at home with no polish, cracking at the peaks. 116 BPM, E major. Remembering the same song differently. No clean studio sound, no synth lead, no autotune, no programmed trap drums, no key change.",
+  "lyrics": "[Intro - tapped lo-fi guitar and distorted pad]\n\n[Verse 1]\n왼쪽 이어폰이 고장 났다, 오른쪽만 나온다\n반쪽짜리 노래, 베이스가 없다, 드럼도 반만\n새로 살 돈은 있다, 근데 안 샀다\n반쪽으로 들으니까 가사가 더 잘 들린다\n\n[Chorus]\n한쪽 이어폰\n원래 이걸 너랑 나눠 끼웠었다\n너는 왼쪽, 나는 오른쪽\n그래서 왼쪽이 먼저 망가진 건가 봐\n\n[Verse 2]\n같은 노래를 반씩 듣던 버스\n너는 베이스만 들었고 나는 멜로디만 들었다\n우리는 같은 노래를 다르게 기억한다\n그게 우리 얘기 전부다\n\n[Chorus]\n한쪽 이어폰\n원래 이걸 너랑 나눠 끼웠었다\n너는 왼쪽, 나는 오른쪽\n이제 새로 사야겠다, 이번엔 왼쪽도 들어 보게\n\n[Outro - pad, fading]\n양쪽 다 나오는 노래\n처음 들어 보는 것 같다",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 202.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Korean lo-fi bedroom emo. Tapped electric guitar figures recorded cheaply and slightly out of tune, a distorted shoegaze-like pad swelling underneath, drums buried and compressed as if recorded in a small room, cassette hiss and tape wobble throughout, emo dynamics jumping between quiet and loud. Lo-fi and hissy with everything slightly blown out and the voice sunk into the mix. Male voice, close and buried, recorded at home with no polish, cracking at the peaks. 116 BPM, E major. Remembering the same song differently. No clean studio sound, no synth lead, no autotune, no programmed trap drums, no key change.",
+    "lyrics": "[Intro - tapped lo-fi guitar and distorted pad]\n\n[Verse 1]\n왼쪽 이어폰이 고장 났다, 오른쪽만 나온다\n반쪽짜리 노래, 베이스가 없다, 드럼도 반만\n새로 살 돈은 있다, 근데 안 샀다\n반쪽으로 들으니까 가사가 더 잘 들린다\n\n[Chorus]\n한쪽 이어폰\n원래 이걸 너랑 나눠 끼웠었다\n너는 왼쪽, 나는 오른쪽\n그래서 왼쪽이 먼저 망가진 건가 봐\n\n[Verse 2]\n같은 노래를 반씩 듣던 버스\n너는 베이스만 들었고 나는 멜로디만 들었다\n우리는 같은 노래를 다르게 기억한다\n그게 우리 얘기 전부다\n\n[Chorus]\n한쪽 이어폰\n원래 이걸 너랑 나눠 끼웠었다\n너는 왼쪽, 나는 오른쪽\n이제 새로 사야겠다, 이번엔 왼쪽도 들어 보게\n\n[Outro - pad, fading]\n양쪽 다 나오는 노래\n처음 들어 보는 것 같다"
+  },
+  "seed": "2139722800",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.93s**\n- 63.93s per song\n- LM phase (1 song): 6.08s\n- DiT phase (1 song): 57.85s",
+  "task_id": "d24caf3e-7d6c-4d2b-80d0-669d2c0e18b0",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-07T23:58:16.905391+08:00",
+  "audio": "b5_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.7,
+      "end": 4.7,
+      "text": "[Intro - tapped lo-fi guitar and distorted pad]"
+    },
+    {
+      "t": 4.7,
+      "end": 4.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.7,
+      "end": 38.0,
+      "text": "왼쪽 이어폰이 고장 났다, 오른쪽만 나온다"
+    },
+    {
+      "t": 43.42,
+      "end": 49.46,
+      "text": "반쪽짜리 노래, 베이스가 없다, 드럼도 반만"
+    },
+    {
+      "t": 51.67,
+      "end": 57.23,
+      "text": "새로 살 돈은 있다, 근데 안 샀다"
+    },
+    {
+      "t": 59.95,
+      "end": 67.59,
+      "text": "반쪽으로 들으니까 가사가 더 잘 들린다"
+    },
+    {
+      "t": 69.19,
+      "end": 69.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.19,
+      "end": 70.91,
+      "text": "한쪽 이어폰"
+    },
+    {
+      "t": 71.77,
+      "end": 76.33,
+      "text": "원래 이걸 너랑 나눠 끼웠었다"
+    },
+    {
+      "t": 77.05,
+      "end": 80.35,
+      "text": "너는 왼쪽, 나는 오른쪽"
+    },
+    {
+      "t": 80.49,
+      "end": 84.31,
+      "text": "그래서 왼쪽이 먼저 망가진 건가 봐"
+    },
+    {
+      "t": 84.43,
+      "end": 84.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.43,
+      "end": 96.63,
+      "text": "같은 노래를 반씩 듣던 버스"
+    },
+    {
+      "t": 97.09,
+      "end": 106.37,
+      "text": "너는 베이스만 들었고 나는 멜로디만 들었다"
+    },
+    {
+      "t": 110.67,
+      "end": 114.93,
+      "text": "우리는 같은 노래를 다르게 기억한다"
+    },
+    {
+      "t": 130.05,
+      "end": 131.95,
+      "text": "그게 우리 얘기 전부다"
+    },
+    {
+      "t": 133.89,
+      "end": 133.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.89,
+      "end": 138.39,
+      "text": "한쪽 이어폰"
+    },
+    {
+      "t": 138.41,
+      "end": 151.66,
+      "text": "원래 이걸 너랑 나눠 끼웠었다"
+    },
+    {
+      "t": 151.66,
+      "end": 157.94,
+      "text": "너는 왼쪽, 나는 오른쪽"
+    },
+    {
+      "t": 158.0,
+      "end": 184.14,
+      "text": "이제 새로 사야겠다, 이번엔 왼쪽도 들어 보게"
+    },
+    {
+      "t": 184.14,
+      "end": 184.14,
+      "text": "[Outro - pad, fading]"
+    },
+    {
+      "t": 184.14,
+      "end": 185.74,
+      "text": "양쪽 다 나오는 노래"
+    },
+    {
+      "t": 188.16,
+      "end": 190.64,
+      "text": "처음 들어 보는 것 같다"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

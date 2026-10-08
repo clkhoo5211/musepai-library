@@ -1,0 +1,174 @@
+{
+  "id": "b5_en05",
+  "title": "They Put A Rowing Machine Where My Bed Was",
+  "title_source": "scripted",
+  "genre": "midwest emo twinkle",
+  "language": "en",
+  "language_name": "English",
+  "mood": "happy for her and lost at the same time",
+  "persona": "",
+  "subject": "coming home to find your childhood bedroom turned into your mother's home gym",
+  "caption": "Midwest emo in the twinkle style. Two clean electric guitars in an open alternate tuning playing interlocking tapped arpeggios, splashy drums with lots of crash and ride, a melodic bass moving under the guitars, bars that shift meter between sections, a trumpet line in the bridge. Bright and intricate with big dynamic swings between quiet tapped passages and loud full-band sections. Male voice, earnest and strained, half-shouted in the choruses and cracking on purpose. 140 BPM with shifting meters, F major. Happy for her and lost at the same time. No distortion wall, no synth, no autotune, no programmed drums, no key change.",
+  "lyrics": "[Intro - tapped clean guitars]\n\n[Verse 1]\nCame home for Christmas, opened my old door\nMum's turned it into a gym, there's a rowing machine\nExactly where my bed was, the dent's still in the carpet\nShe's very proud of it. She rows at six a.m.\n\n[Pre-Chorus]\nI said \"that's great, Mum\" and I meant it\nI also sat on the rowing machine for an hour\n\n[Chorus]\nThey put a rowing machine where my bed was\nAnd I'm happy for her, I swear I'm happy for her\nIt's just strange to find out you were a room\nAnd the room moved on before you did\n\n[Verse 2]\nThe glow stars are still up on the ceiling\nShe couldn't reach them, so they stayed\nI lay on the floor where the bed used to be\nFourteen stars, I counted, same as when I was eight\n\n[Chorus]\nThey put a rowing machine where my bed was\nAnd I'm happy for her, I swear I'm happy for her\nIt's just strange to find out you were a room\nAnd the room moved on, and kept the stars for me\n\n[Outro - guitars cut]\nI rowed two thousand metres\nTerrible time. She beat it.\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 140,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Midwest emo in the twinkle style. Two clean electric guitars in an open alternate tuning playing interlocking tapped arpeggios, splashy drums with lots of crash and ride, a melodic bass moving under the guitars, bars that shift meter between sections, a trumpet line in the bridge. Bright and intricate with big dynamic swings between quiet tapped passages and loud full-band sections. Male voice, earnest and strained, half-shouted in the choruses and cracking on purpose. 140 BPM with shifting meters, F major. Happy for her and lost at the same time. No distortion wall, no synth, no autotune, no programmed drums, no key change.",
+    "lyrics": "[Intro - tapped clean guitars]\n\n[Verse 1]\nCame home for Christmas, opened my old door\nMum's turned it into a gym, there's a rowing machine\nExactly where my bed was, the dent's still in the carpet\nShe's very proud of it. She rows at six a.m.\n\n[Pre-Chorus]\nI said \"that's great, Mum\" and I meant it\nI also sat on the rowing machine for an hour\n\n[Chorus]\nThey put a rowing machine where my bed was\nAnd I'm happy for her, I swear I'm happy for her\nIt's just strange to find out you were a room\nAnd the room moved on before you did\n\n[Verse 2]\nThe glow stars are still up on the ceiling\nShe couldn't reach them, so they stayed\nI lay on the floor where the bed used to be\nFourteen stars, I counted, same as when I was eight\n\n[Chorus]\nThey put a rowing machine where my bed was\nAnd I'm happy for her, I swear I'm happy for her\nIt's just strange to find out you were a room\nAnd the room moved on, and kept the stars for me\n\n[Outro - guitars cut]\nI rowed two thousand metres\nTerrible time. She beat it.\n[Song ends abruptly]"
+  },
+  "seed": "572043318",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.34s**\n- 58.34s per song\n- LM phase (1 song): 12.29s\n- DiT phase (1 song): 46.04s",
+  "task_id": "9a948ed3-9810-40ed-9ec2-ed3fc365e736",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-08T00:32:15.880786+08:00",
+  "audio": "b5_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.74,
+      "end": 21.74,
+      "text": "[Intro - tapped clean guitars]"
+    },
+    {
+      "t": 21.74,
+      "end": 21.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.74,
+      "end": 24.72,
+      "text": "Came home for Christmas, opened my old door"
+    },
+    {
+      "t": 26.9,
+      "end": 31.76,
+      "text": "Mum's turned it into a gym, there's a rowing machine"
+    },
+    {
+      "t": 33.78,
+      "end": 38.72,
+      "text": "Exactly where my bed was, the dent's still in the carpet"
+    },
+    {
+      "t": 40.58,
+      "end": 45.66,
+      "text": "She's very proud of it. She rows at six a.m."
+    },
+    {
+      "t": 47.48,
+      "end": 47.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.48,
+      "end": 52.46,
+      "text": "I said \"that's great, Mum\" and I meant it"
+    },
+    {
+      "t": 54.51,
+      "end": 59.37,
+      "text": "I also sat on the rowing machine for an hour"
+    },
+    {
+      "t": 61.63,
+      "end": 61.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.63,
+      "end": 66.45,
+      "text": "They put a rowing machine where my bed was"
+    },
+    {
+      "t": 67.69,
+      "end": 71.69,
+      "text": "And I'm happy for her, I swear I'm happy for her"
+    },
+    {
+      "t": 71.71,
+      "end": 79.41,
+      "text": "It's just strange to find out you were a room"
+    },
+    {
+      "t": 81.25,
+      "end": 86.21,
+      "text": "And the room moved on before you did"
+    },
+    {
+      "t": 89.75,
+      "end": 89.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.75,
+      "end": 92.99,
+      "text": "The glow stars are still up on the ceiling"
+    },
+    {
+      "t": 94.81,
+      "end": 102.19,
+      "text": "She couldn't reach them, so they stayed"
+    },
+    {
+      "t": 102.19,
+      "end": 106.47,
+      "text": "I lay on the floor where the bed used to be"
+    },
+    {
+      "t": 108.89,
+      "end": 117.77,
+      "text": "Fourteen stars, I counted, same as when I was eight"
+    },
+    {
+      "t": 117.91,
+      "end": 117.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.91,
+      "end": 123.59,
+      "text": "They put a rowing machine where my bed was"
+    },
+    {
+      "t": 124.87,
+      "end": 128.95,
+      "text": "And I'm happy for her, I swear I'm happy for her"
+    },
+    {
+      "t": 132.29,
+      "end": 135.81,
+      "text": "It's just strange to find out you were a room"
+    },
+    {
+      "t": 136.83,
+      "end": 143.31,
+      "text": "And the room moved on, and kept the stars for me"
+    },
+    {
+      "t": 149.27,
+      "end": 149.27,
+      "text": "[Outro - guitars cut]"
+    },
+    {
+      "t": 149.27,
+      "end": 151.61,
+      "text": "I rowed two thousand metres"
+    },
+    {
+      "t": 156.23,
+      "end": 197.86,
+      "text": "Terrible time. She beat it."
+    },
+    {
+      "t": 197.86,
+      "end": 197.86,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

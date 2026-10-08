@@ -1,0 +1,154 @@
+{
+  "id": "b5_id05",
+  "title": "Merantau",
+  "title_source": "scripted",
+  "genre": "pop Minang with saluang and talempong",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "the custom that never says how to wave",
+  "persona": "",
+  "subject": "a son leaving Bukittinggi to merantau and his father checking the motorbike tyres three times",
+  "caption": "Minangkabau pop. Saluang end-blown bamboo flute carrying the lead melody with its breathy circular-breathing tone, talempong small gong-chimes playing interlocking figures, rabab fiddle answering the voice, a soft frame drum keeping the pulse, a steel-string acoustic guitar strumming quietly underneath. Airy and melancholic with the saluang's breath fully audible and plenty of space. Male voice with Minang vocal ornament on held notes, warm and restrained. 88 BPM, E minor. The custom that never tells you how to wave goodbye. No drum kit, no synth, no DJ remix beat, no autotune, no key change.",
+  "lyrics": "[Intro - saluang and talempong]\n\n[Verse 1]\nSubuh di Bukittinggi, tas satu, kardus dua\nAmak bungkus rendang, cukup untuk sebulan katanya\nAbak tidak bicara, dia cek ban motor tiga kali\nBan motor itu tidak apa-apa, dia cuma perlu memegang sesuatu\n\n[Chorus]\nMerantau, anak bujang harus pergi\nItu kata adat, itu kata semua orang\nTapi tidak ada adat yang bilang\nBagaimana cara melambai tanpa menoleh\n\n[Verse 2]\nDi terminal Amak tidak menangis, dia sibuk merapikan kerahku\nKerahnya sudah rapi, dia rapikan lagi\nBis berangkat, aku lihat dari jendela belakang\nAbak masih berdiri, Amak sudah masuk mobil, Abak yang menangis\n\n[Chorus]\nMerantau, anak bujang harus pergi\nItu kata adat, itu kata semua orang\nTapi tidak ada adat yang bilang\nBagaimana cara pulang nanti tanpa merasa jadi tamu\n\n[Outro - saluang alone]\nRendangnya habis dalam dua minggu\nAku tidak bilang ke Amak",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 222.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Minangkabau pop. Saluang end-blown bamboo flute carrying the lead melody with its breathy circular-breathing tone, talempong small gong-chimes playing interlocking figures, rabab fiddle answering the voice, a soft frame drum keeping the pulse, a steel-string acoustic guitar strumming quietly underneath. Airy and melancholic with the saluang's breath fully audible and plenty of space. Male voice with Minang vocal ornament on held notes, warm and restrained. 88 BPM, E minor. The custom that never tells you how to wave goodbye. No drum kit, no synth, no DJ remix beat, no autotune, no key change.",
+    "lyrics": "[Intro - saluang and talempong]\n\n[Verse 1]\nSubuh di Bukittinggi, tas satu, kardus dua\nAmak bungkus rendang, cukup untuk sebulan katanya\nAbak tidak bicara, dia cek ban motor tiga kali\nBan motor itu tidak apa-apa, dia cuma perlu memegang sesuatu\n\n[Chorus]\nMerantau, anak bujang harus pergi\nItu kata adat, itu kata semua orang\nTapi tidak ada adat yang bilang\nBagaimana cara melambai tanpa menoleh\n\n[Verse 2]\nDi terminal Amak tidak menangis, dia sibuk merapikan kerahku\nKerahnya sudah rapi, dia rapikan lagi\nBis berangkat, aku lihat dari jendela belakang\nAbak masih berdiri, Amak sudah masuk mobil, Abak yang menangis\n\n[Chorus]\nMerantau, anak bujang harus pergi\nItu kata adat, itu kata semua orang\nTapi tidak ada adat yang bilang\nBagaimana cara pulang nanti tanpa merasa jadi tamu\n\n[Outro - saluang alone]\nRendangnya habis dalam dua minggu\nAku tidak bilang ke Amak"
+  },
+  "seed": "1119256714",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.05s**\n- 65.05s per song\n- LM phase (1 song): 9.89s\n- DiT phase (1 song): 55.15s",
+  "task_id": "b8dc6beb-dd15-49f6-ad76-409bd63e1838",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-10-08T00:12:16.806717+08:00",
+  "audio": "b5_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 48.34,
+      "end": 48.34,
+      "text": "[Intro - saluang and talempong]"
+    },
+    {
+      "t": 48.34,
+      "end": 48.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.34,
+      "end": 53.9,
+      "text": "Subuh di Bukittinggi, tas satu, kardus dua"
+    },
+    {
+      "t": 53.98,
+      "end": 61.45,
+      "text": "Amak bungkus rendang, cukup untuk sebulan katanya"
+    },
+    {
+      "t": 68.17,
+      "end": 75.15,
+      "text": "Abak tidak bicara, dia cek ban motor tiga kali"
+    },
+    {
+      "t": 79.41,
+      "end": 86.05,
+      "text": "Ban motor itu tidak apa-apa, dia cuma perlu memegang sesuatu"
+    },
+    {
+      "t": 90.37,
+      "end": 90.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.37,
+      "end": 96.63,
+      "text": "Merantau, anak bujang harus pergi"
+    },
+    {
+      "t": 96.69,
+      "end": 102.45,
+      "text": "Itu kata adat, itu kata semua orang"
+    },
+    {
+      "t": 110.19,
+      "end": 113.79,
+      "text": "Tapi tidak ada adat yang bilang"
+    },
+    {
+      "t": 115.87,
+      "end": 119.11,
+      "text": "Bagaimana cara melambai tanpa menoleh"
+    },
+    {
+      "t": 120.67,
+      "end": 120.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 120.67,
+      "end": 123.77,
+      "text": "Di terminal Amak tidak menangis, dia sibuk merapikan kerahku"
+    },
+    {
+      "t": 123.77,
+      "end": 142.29,
+      "text": "Kerahnya sudah rapi, dia rapikan lagi"
+    },
+    {
+      "t": 146.85,
+      "end": 160.87,
+      "text": "Bis berangkat, aku lihat dari jendela belakang"
+    },
+    {
+      "t": 160.91,
+      "end": 172.02,
+      "text": "Abak masih berdiri, Amak sudah masuk mobil, Abak yang menangis"
+    },
+    {
+      "t": 172.02,
+      "end": 172.02,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 172.02,
+      "end": 175.96,
+      "text": "Merantau, anak bujang harus pergi"
+    },
+    {
+      "t": 177.78,
+      "end": 186.94,
+      "text": "Itu kata adat, itu kata semua orang"
+    },
+    {
+      "t": 188.28,
+      "end": 192.0,
+      "text": "Tapi tidak ada adat yang bilang"
+    },
+    {
+      "t": 194.08,
+      "end": 198.7,
+      "text": "Bagaimana cara pulang nanti tanpa merasa jadi tamu"
+    },
+    {
+      "t": 201.26,
+      "end": 201.26,
+      "text": "[Outro - saluang alone]"
+    },
+    {
+      "t": 201.26,
+      "end": 212.82,
+      "text": "Rendangnya habis dalam dua minggu"
+    },
+    {
+      "t": 212.82,
+      "end": 218.52,
+      "text": "Aku tidak bilang ke Amak"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "b5_vi05",
+  "title": "mùa nồm",
+  "title_source": "scripted",
+  "genre": "Vietnamese shoegaze",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "nothing dries, including this",
+  "persona": "",
+  "subject": "Hanoi's humid season, damp walls, and a word written on a fogged window three times",
+  "caption": "Vietnamese shoegaze. A wall of electric guitars run through reverse reverb and heavy fuzz until the chords blur into one wash, a bass buried inside the guitars, slow heavy drums with a washy crash, a distant organ drone underneath. Washed-out and saturated with the voice half-submerged rather than on top. Breathy female voice, soft and buried in the guitars, words partly smeared. 88 BPM, D flat major. Nothing dries, including this. No clean acoustic section, no synth lead, no autotune, no programmed drums, no key change.",
+  "lyrics": "[Intro - reverse-reverb guitar wall]\n\n[Verse 1]\nTháng hai Hà Nội, sàn nhà đổ mồ hôi, tường đổ mồ hôi\nQuần áo phơi ba ngày, vẫn ẩm, vẫn có mùi\nMẹ bật quạt, bật máy sấy, mẹ ủi từng cái áo cho khô\nCả nhà mặc đồ ấm hơi, như vừa ra khỏi lò\n\n[Chorus]\nMùa nồm\nKhông có gì khô, kể cả nước mắt\nTôi nằm trên giường, chăn ẩm, tôi không ngủ được\nTôi nhớ một người, và cái nhớ đó cũng không khô\n\n[Verse 2]\nCửa sổ mờ, tôi lấy ngón tay viết một chữ\nViết xong tôi xóa, nó lại mờ, nó lại hiện\nTôi viết lại, xóa lại, ba lần\nCái chữ đó cứng đầu hơn tôi\n\n[Chorus]\nMùa nồm\nKhông có gì khô, kể cả nước mắt\nTôi nằm trên giường, chăn ẩm, tôi không ngủ được\nTôi chờ nắng, nắng chưa về, người cũng chưa\n\n[Outro - guitar wall, fading]\nTuần sau trời hanh\nTôi sẽ phơi hết",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 224.0,
+    "genres": "N/A",
+    "keyscale": "Db major",
+    "timesignature": "4",
+    "prompt": "Vietnamese shoegaze. A wall of electric guitars run through reverse reverb and heavy fuzz until the chords blur into one wash, a bass buried inside the guitars, slow heavy drums with a washy crash, a distant organ drone underneath. Washed-out and saturated with the voice half-submerged rather than on top. Breathy female voice, soft and buried in the guitars, words partly smeared. 88 BPM, D flat major. Nothing dries, including this. No clean acoustic section, no synth lead, no autotune, no programmed drums, no key change.",
+    "lyrics": "[Intro - reverse-reverb guitar wall]\n\n[Verse 1]\nTháng hai Hà Nội, sàn nhà đổ mồ hôi, tường đổ mồ hôi\nQuần áo phơi ba ngày, vẫn ẩm, vẫn có mùi\nMẹ bật quạt, bật máy sấy, mẹ ủi từng cái áo cho khô\nCả nhà mặc đồ ấm hơi, như vừa ra khỏi lò\n\n[Chorus]\nMùa nồm\nKhông có gì khô, kể cả nước mắt\nTôi nằm trên giường, chăn ẩm, tôi không ngủ được\nTôi nhớ một người, và cái nhớ đó cũng không khô\n\n[Verse 2]\nCửa sổ mờ, tôi lấy ngón tay viết một chữ\nViết xong tôi xóa, nó lại mờ, nó lại hiện\nTôi viết lại, xóa lại, ba lần\nCái chữ đó cứng đầu hơn tôi\n\n[Chorus]\nMùa nồm\nKhông có gì khô, kể cả nước mắt\nTôi nằm trên giường, chăn ẩm, tôi không ngủ được\nTôi chờ nắng, nắng chưa về, người cũng chưa\n\n[Outro - guitar wall, fading]\nTuần sau trời hanh\nTôi sẽ phơi hết"
+  },
+  "seed": "201832133",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.16s**\n- 58.16s per song\n- LM phase (1 song): 12.11s\n- DiT phase (1 song): 46.05s",
+  "task_id": "7b0b6877-bb0d-4978-b863-e105be606ded",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-08T00:18:57.445142+08:00",
+  "audio": "b5_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.26,
+      "end": 37.26,
+      "text": "[Intro - reverse-reverb guitar wall]"
+    },
+    {
+      "t": 37.26,
+      "end": 37.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.26,
+      "end": 42.52,
+      "text": "Tháng hai Hà Nội, sàn nhà đổ mồ hôi, tường đổ mồ hôi"
+    },
+    {
+      "t": 48.06,
+      "end": 55.7,
+      "text": "Quần áo phơi ba ngày, vẫn ẩm, vẫn có mùi"
+    },
+    {
+      "t": 55.78,
+      "end": 63.49,
+      "text": "Mẹ bật quạt, bật máy sấy, mẹ ủi từng cái áo cho khô"
+    },
+    {
+      "t": 64.53,
+      "end": 69.13,
+      "text": "Cả nhà mặc đồ ấm hơi, như vừa ra khỏi lò"
+    },
+    {
+      "t": 73.81,
+      "end": 73.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.81,
+      "end": 74.55,
+      "text": "Mùa nồm"
+    },
+    {
+      "t": 75.79,
+      "end": 79.45,
+      "text": "Không có gì khô, kể cả nước mắt"
+    },
+    {
+      "t": 79.47,
+      "end": 85.77,
+      "text": "Tôi nằm trên giường, chăn ẩm, tôi không ngủ được"
+    },
+    {
+      "t": 86.75,
+      "end": 90.95,
+      "text": "Tôi nhớ một người, và cái nhớ đó cũng không khô"
+    },
+    {
+      "t": 95.59,
+      "end": 95.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.59,
+      "end": 101.53,
+      "text": "Cửa sổ mờ, tôi lấy ngón tay viết một chữ"
+    },
+    {
+      "t": 106.13,
+      "end": 109.03,
+      "text": "Viết xong tôi xóa, nó lại mờ, nó lại hiện"
+    },
+    {
+      "t": 109.03,
+      "end": 111.77,
+      "text": "Tôi viết lại, xóa lại, ba lần"
+    },
+    {
+      "t": 111.97,
+      "end": 116.67,
+      "text": "Cái chữ đó cứng đầu hơn tôi"
+    },
+    {
+      "t": 117.73,
+      "end": 117.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.73,
+      "end": 118.69,
+      "text": "Mùa nồm"
+    },
+    {
+      "t": 119.75,
+      "end": 123.91,
+      "text": "Không có gì khô, kể cả nước mắt"
+    },
+    {
+      "t": 127.97,
+      "end": 146.53,
+      "text": "Tôi nằm trên giường, chăn ẩm, tôi không ngủ được"
+    },
+    {
+      "t": 146.53,
+      "end": 155.99,
+      "text": "Tôi chờ nắng, nắng chưa về, người cũng chưa"
+    },
+    {
+      "t": 156.55,
+      "end": 156.55,
+      "text": "[Outro - guitar wall, fading]"
+    },
+    {
+      "t": 156.55,
+      "end": 164.37,
+      "text": "Tuần sau trời hanh"
+    },
+    {
+      "t": 171.18,
+      "end": 203.76,
+      "text": "Tôi sẽ phơi hết"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

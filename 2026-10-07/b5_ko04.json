@@ -1,0 +1,159 @@
+{
+  "id": "b5_ko04",
+  "title": "재개발",
+  "title_source": "scripted",
+  "genre": "wall-of-guitar alternative rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "losing the place you learned to fall in",
+  "persona": "",
+  "subject": "a red circle painted on your house before the redevelopment",
+  "caption": "Korean alternative rock built on a wall of guitars. Several heavily fuzzed electric guitars stacked into one dense wall of sound, driving drums with an open crashing ride, overdriven bass, controlled feedback swelling at the ends of sections. Dense and loud with the guitars mixed as a single wall rather than separate parts, and the voice sitting partly inside it. Male voice, strained and earnest, partly buried in the guitars. 132 BPM, D major. Losing the place where you learned to fall down and get up. No clean pop production, no synth, no autotune, no acoustic ballad section, no key change.",
+  "lyrics": "[Intro - fuzzed guitar wall and driving drums]\n\n[Verse 1]\n담벼락에 빨간 페인트로 큰 동그라미\n철거 예정, 우리 집에도 있다, 옆집에도 있다\n골목 끝 슈퍼 간판이 떼어졌다\n할아버지가 그 자리에 의자를 놓고 계속 앉아 있다\n\n[Chorus]\n재개발\n여기 서른 층이 올라간다고 한다\n그 서른 층 어디에도 내 방 창문은 없다\n나는 이 골목에서 자전거를 배웠다\n\n[Verse 2]\n이사 업체가 견적을 내러 왔다\n\"짐이 별로 없네요\" 그 사람이 말했다\n맞다, 짐은 별로 없다\n짐이 아닌 것들이 너무 많다\n\n[Chorus]\n재개발\n여기 서른 층이 올라간다고 한다\n그 서른 층 어디에도 내 방 창문은 없다\n나는 이 골목에서 자전거를 배웠고, 넘어졌고, 일어났다\n\n[Outro - guitar feedback, cut]\n빨간 동그라미\n사진 한 장 찍었다\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean alternative rock built on a wall of guitars. Several heavily fuzzed electric guitars stacked into one dense wall of sound, driving drums with an open crashing ride, overdriven bass, controlled feedback swelling at the ends of sections. Dense and loud with the guitars mixed as a single wall rather than separate parts, and the voice sitting partly inside it. Male voice, strained and earnest, partly buried in the guitars. 132 BPM, D major. Losing the place where you learned to fall down and get up. No clean pop production, no synth, no autotune, no acoustic ballad section, no key change.",
+    "lyrics": "[Intro - fuzzed guitar wall and driving drums]\n\n[Verse 1]\n담벼락에 빨간 페인트로 큰 동그라미\n철거 예정, 우리 집에도 있다, 옆집에도 있다\n골목 끝 슈퍼 간판이 떼어졌다\n할아버지가 그 자리에 의자를 놓고 계속 앉아 있다\n\n[Chorus]\n재개발\n여기 서른 층이 올라간다고 한다\n그 서른 층 어디에도 내 방 창문은 없다\n나는 이 골목에서 자전거를 배웠다\n\n[Verse 2]\n이사 업체가 견적을 내러 왔다\n\"짐이 별로 없네요\" 그 사람이 말했다\n맞다, 짐은 별로 없다\n짐이 아닌 것들이 너무 많다\n\n[Chorus]\n재개발\n여기 서른 층이 올라간다고 한다\n그 서른 층 어디에도 내 방 창문은 없다\n나는 이 골목에서 자전거를 배웠고, 넘어졌고, 일어났다\n\n[Outro - guitar feedback, cut]\n빨간 동그라미\n사진 한 장 찍었다\n[Song ends abruptly]"
+  },
+  "seed": "1859733025",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 82.34s**\n- 82.34s per song\n- LM phase (1 song): 12.85s\n- DiT phase (1 song): 69.49s",
+  "task_id": "948886c4-a736-4062-a057-44b9c2ac45fc",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-07T23:56:56.820211+08:00",
+  "audio": "b5_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 39.18,
+      "end": 39.18,
+      "text": "[Intro - fuzzed guitar wall and driving drums]"
+    },
+    {
+      "t": 39.18,
+      "end": 39.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.18,
+      "end": 43.36,
+      "text": "담벼락에 빨간 페인트로 큰 동그라미"
+    },
+    {
+      "t": 46.26,
+      "end": 50.54,
+      "text": "철거 예정, 우리 집에도 있다, 옆집에도 있다"
+    },
+    {
+      "t": 54.01,
+      "end": 57.83,
+      "text": "골목 끝 슈퍼 간판이 떼어졌다"
+    },
+    {
+      "t": 60.59,
+      "end": 65.07,
+      "text": "할아버지가 그 자리에 의자를 놓고 계속 앉아 있다"
+    },
+    {
+      "t": 68.07,
+      "end": 68.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.07,
+      "end": 69.17,
+      "text": "재개발"
+    },
+    {
+      "t": 69.17,
+      "end": 73.25,
+      "text": "여기 서른 층이 올라간다고 한다"
+    },
+    {
+      "t": 75.39,
+      "end": 80.11,
+      "text": "그 서른 층 어디에도 내 방 창문은 없다"
+    },
+    {
+      "t": 80.11,
+      "end": 83.03,
+      "text": "나는 이 골목에서 자전거를 배웠다"
+    },
+    {
+      "t": 83.31,
+      "end": 83.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.31,
+      "end": 90.17,
+      "text": "이사 업체가 견적을 내러 왔다"
+    },
+    {
+      "t": 90.17,
+      "end": 93.53,
+      "text": "\"짐이 별로 없네요\" 그 사람이 말했다"
+    },
+    {
+      "t": 97.27,
+      "end": 100.27,
+      "text": "맞다, 짐은 별로 없다"
+    },
+    {
+      "t": 100.29,
+      "end": 110.35,
+      "text": "짐이 아닌 것들이 너무 많다"
+    },
+    {
+      "t": 111.51,
+      "end": 111.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.51,
+      "end": 112.65,
+      "text": "재개발"
+    },
+    {
+      "t": 112.65,
+      "end": 116.71,
+      "text": "여기 서른 층이 올라간다고 한다"
+    },
+    {
+      "t": 118.85,
+      "end": 123.07,
+      "text": "그 서른 층 어디에도 내 방 창문은 없다"
+    },
+    {
+      "t": 123.17,
+      "end": 146.75,
+      "text": "나는 이 골목에서 자전거를 배웠고, 넘어졌고, 일어났다"
+    },
+    {
+      "t": 167.3,
+      "end": 167.3,
+      "text": "[Outro - guitar feedback, cut]"
+    },
+    {
+      "t": 167.3,
+      "end": 170.06,
+      "text": "빨간 동그라미"
+    },
+    {
+      "t": 172.86,
+      "end": 180.86,
+      "text": "사진 한 장 찍었다"
+    },
+    {
+      "t": 180.86,
+      "end": 180.86,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

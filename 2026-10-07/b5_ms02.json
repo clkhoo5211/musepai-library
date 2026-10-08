@@ -1,0 +1,154 @@
+{
+  "id": "b5_ms02",
+  "title": "Gambar Studio Mak Ayah",
+  "title_source": "scripted",
+  "genre": "retro Malay psych croon",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "understanding your father's face forty years late",
+  "persona": "",
+  "subject": "a 1978 studio portrait of your parents in front of a blue curtain",
+  "caption": "Malay psychedelic pop in the late-1960s to 1970s croon style. Combo organ holding swirling chords, electric guitar with a light fuzz tone playing melodic fills through tape echo, warm round bass, a drum kit played with brushes and light sticks, occasional vibraphone accents. Warm tape-saturated sound, slightly woozy and wide, deliberately vintage rather than clean. Crooned male baritone, smooth and unhurried, with a gentle vibrato on line endings. 96 BPM, E flat major. Understanding your father's face forty years too late. No modern drums, no synth pad, no autotune, no power-ballad climax, no key change.",
+  "lyrics": "[Intro - organ and fuzz guitar]\n\n[Verse 1]\nGambar studio, tahun tujuh puluh lapan, latar langsir biru\nMak pakai kebaya, ayah pakai kemeja, rambut ayah masih penuh\nDua-dua tak senyum, sebab jurugambar suruh diam\nDiam lama sangat, sampai gambar tu jadi muka mereka untuk aku\n\n[Chorus]\nAku cari diri aku dalam gambar tu\nAku belum ada lagi, aku cuma satu rancangan\nMak dah tahu nama aku masa tu\nDia cerita lepas tu, dia simpan dalam kepala\n\n[Verse 2]\nBingkai tu dah retak, kaca dia dah kuning\nAku bawa ke kedai, orang tu kata boleh baiki\nAku tak baiki, aku beli bingkai lain\nRetak tu aku nak simpan, tu pun sejarah\n\n[Chorus]\nAku cari diri aku dalam gambar tu\nAku belum ada lagi, aku cuma satu rancangan\nMak dah tahu nama aku masa tu\nDan sekarang aku tahu kenapa ayah tak senyum, dia takut\n\n[Outro - organ, fading]\nLangsir biru tu\nMak masih simpan",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Malay psychedelic pop in the late-1960s to 1970s croon style. Combo organ holding swirling chords, electric guitar with a light fuzz tone playing melodic fills through tape echo, warm round bass, a drum kit played with brushes and light sticks, occasional vibraphone accents. Warm tape-saturated sound, slightly woozy and wide, deliberately vintage rather than clean. Crooned male baritone, smooth and unhurried, with a gentle vibrato on line endings. 96 BPM, E flat major. Understanding your father's face forty years too late. No modern drums, no synth pad, no autotune, no power-ballad climax, no key change.",
+    "lyrics": "[Intro - organ and fuzz guitar]\n\n[Verse 1]\nGambar studio, tahun tujuh puluh lapan, latar langsir biru\nMak pakai kebaya, ayah pakai kemeja, rambut ayah masih penuh\nDua-dua tak senyum, sebab jurugambar suruh diam\nDiam lama sangat, sampai gambar tu jadi muka mereka untuk aku\n\n[Chorus]\nAku cari diri aku dalam gambar tu\nAku belum ada lagi, aku cuma satu rancangan\nMak dah tahu nama aku masa tu\nDia cerita lepas tu, dia simpan dalam kepala\n\n[Verse 2]\nBingkai tu dah retak, kaca dia dah kuning\nAku bawa ke kedai, orang tu kata boleh baiki\nAku tak baiki, aku beli bingkai lain\nRetak tu aku nak simpan, tu pun sejarah\n\n[Chorus]\nAku cari diri aku dalam gambar tu\nAku belum ada lagi, aku cuma satu rancangan\nMak dah tahu nama aku masa tu\nDan sekarang aku tahu kenapa ayah tak senyum, dia takut\n\n[Outro - organ, fading]\nLangsir biru tu\nMak masih simpan"
+  },
+  "seed": "2376228361",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.57s**\n- 67.57s per song\n- LM phase (1 song): 9.45s\n- DiT phase (1 song): 58.12s",
+  "task_id": "9f411e6f-ddd7-479a-b9cf-9dcb1668509a",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-08T00:01:07.100466+08:00",
+  "audio": "b5_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.5,
+      "end": 32.5,
+      "text": "[Intro - organ and fuzz guitar]"
+    },
+    {
+      "t": 32.5,
+      "end": 32.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.5,
+      "end": 43.9,
+      "text": "Gambar studio, tahun tujuh puluh lapan, latar langsir biru"
+    },
+    {
+      "t": 46.26,
+      "end": 54.13,
+      "text": "Mak pakai kebaya, ayah pakai kemeja, rambut ayah masih penuh"
+    },
+    {
+      "t": 56.97,
+      "end": 67.89,
+      "text": "Dua-dua tak senyum, sebab jurugambar suruh diam"
+    },
+    {
+      "t": 69.63,
+      "end": 77.65,
+      "text": "Diam lama sangat, sampai gambar tu jadi muka mereka untuk aku"
+    },
+    {
+      "t": 79.83,
+      "end": 79.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.83,
+      "end": 84.29,
+      "text": "Aku cari diri aku dalam gambar tu"
+    },
+    {
+      "t": 86.13,
+      "end": 89.13,
+      "text": "Aku belum ada lagi, aku cuma satu rancangan"
+    },
+    {
+      "t": 89.13,
+      "end": 91.01,
+      "text": "Mak dah tahu nama aku masa tu"
+    },
+    {
+      "t": 91.09,
+      "end": 99.73,
+      "text": "Dia cerita lepas tu, dia simpan dalam kepala"
+    },
+    {
+      "t": 99.91,
+      "end": 99.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.91,
+      "end": 119.33,
+      "text": "Bingkai tu dah retak, kaca dia dah kuning"
+    },
+    {
+      "t": 120.49,
+      "end": 145.87,
+      "text": "Aku bawa ke kedai, orang tu kata boleh baiki"
+    },
+    {
+      "t": 147.11,
+      "end": 151.99,
+      "text": "Aku tak baiki, aku beli bingkai lain"
+    },
+    {
+      "t": 151.99,
+      "end": 156.07,
+      "text": "Retak tu aku nak simpan, tu pun sejarah"
+    },
+    {
+      "t": 156.07,
+      "end": 156.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 156.07,
+      "end": 157.85,
+      "text": "Aku cari diri aku dalam gambar tu"
+    },
+    {
+      "t": 158.47,
+      "end": 170.14,
+      "text": "Aku belum ada lagi, aku cuma satu rancangan"
+    },
+    {
+      "t": 170.6,
+      "end": 171.64,
+      "text": "Mak dah tahu nama aku masa tu"
+    },
+    {
+      "t": 171.64,
+      "end": 176.98,
+      "text": "Dan sekarang aku tahu kenapa ayah tak senyum, dia takut"
+    },
+    {
+      "t": 182.34,
+      "end": 182.34,
+      "text": "[Outro - organ, fading]"
+    },
+    {
+      "t": 182.34,
+      "end": 184.38,
+      "text": "Langsir biru tu"
+    },
+    {
+      "t": 199.72,
+      "end": 202.88,
+      "text": "Mak masih simpan"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

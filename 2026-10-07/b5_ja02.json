@@ -1,0 +1,154 @@
+{
+  "id": "b5_ja02",
+  "title": "湯上がり",
+  "title_source": "scripted",
+  "genre": "J-amapiano",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "the emptiest your head gets all day",
+  "persona": "",
+  "subject": "a four-hundred-and-fifty-yen public bath and a bottle of milk afterwards",
+  "caption": "Japanese amapiano. The characteristic pitched log drum bass carrying the low end in syncopated slides, layered shakers keeping a constant sixteenth-note shuffle, a sparse soft kick, airy sustained pads, a soft jazzy piano playing light chords, a few hand-clap accents. Airy and spacious with the log drum carrying the low end and lots of room around everything. Breathy male voice, chanted and relaxed, almost murmured, with soft group echoes on the chorus. 112 BPM, B flat minor. The emptiest your head gets all day. No trap drums, no hard four-on-the-floor, no distorted synth, no rap verse, no key change.",
+  "lyrics": "[Intro - log drum and shakers]\n\n[Verse 1]\n銭湯 四百五十円 番台のおばあちゃん\n湯船の向こうに 富士山のペンキ絵 ちょっと剥げてる\n隣のおじいさんが 熱いって言いながら 動かない\n俺も動かない 二人で 我慢比べ\n\n[Chorus]\n湯上がり\n瓶の牛乳 腰に手 誰も見てないのにやる\n体から湯気 頭から何も出てない\n今日一番 何も考えてない時間\n\n[Verse 2]\n脱衣所の扇風機 首振りが壊れてる\nみんな順番に その前に立つ 誰も決めてないのに\nおじいさんが 俺に場所を譲った\n何も言わずに 番台に 小銭を置いて 帰った\n\n[Chorus]\n湯上がり\n瓶の牛乳 腰に手 誰も見てないのにやる\n体から湯気 頭から何も出てない\n今日一番 何も持ってない時間\n\n[Outro - log drum, fading]\n四百五十円\nまた明日",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "Bb minor",
+    "timesignature": "4",
+    "prompt": "Japanese amapiano. The characteristic pitched log drum bass carrying the low end in syncopated slides, layered shakers keeping a constant sixteenth-note shuffle, a sparse soft kick, airy sustained pads, a soft jazzy piano playing light chords, a few hand-clap accents. Airy and spacious with the log drum carrying the low end and lots of room around everything. Breathy male voice, chanted and relaxed, almost murmured, with soft group echoes on the chorus. 112 BPM, B flat minor. The emptiest your head gets all day. No trap drums, no hard four-on-the-floor, no distorted synth, no rap verse, no key change.",
+    "lyrics": "[Intro - log drum and shakers]\n\n[Verse 1]\n銭湯 四百五十円 番台のおばあちゃん\n湯船の向こうに 富士山のペンキ絵 ちょっと剥げてる\n隣のおじいさんが 熱いって言いながら 動かない\n俺も動かない 二人で 我慢比べ\n\n[Chorus]\n湯上がり\n瓶の牛乳 腰に手 誰も見てないのにやる\n体から湯気 頭から何も出てない\n今日一番 何も考えてない時間\n\n[Verse 2]\n脱衣所の扇風機 首振りが壊れてる\nみんな順番に その前に立つ 誰も決めてないのに\nおじいさんが 俺に場所を譲った\n何も言わずに 番台に 小銭を置いて 帰った\n\n[Chorus]\n湯上がり\n瓶の牛乳 腰に手 誰も見てないのにやる\n体から湯気 頭から何も出てない\n今日一番 何も持ってない時間\n\n[Outro - log drum, fading]\n四百五十円\nまた明日"
+  },
+  "seed": "3060023512",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.15s**\n- 62.15s per song\n- LM phase (1 song): 11.06s\n- DiT phase (1 song): 51.09s",
+  "task_id": "dc30e3f8-7ff1-4f0c-ac74-b34698598859",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-10-08T00:41:30.980766+08:00",
+  "audio": "b5_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.1,
+      "end": 1.1,
+      "text": "[Intro - log drum and shakers]"
+    },
+    {
+      "t": 1.1,
+      "end": 1.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.1,
+      "end": 9.82,
+      "text": "銭湯 四百五十円 番台のおばあちゃん"
+    },
+    {
+      "t": 10.96,
+      "end": 20.56,
+      "text": "湯船の向こうに 富士山のペンキ絵 ちょっと剥げてる"
+    },
+    {
+      "t": 21.72,
+      "end": 51.96,
+      "text": "隣のおじいさんが 熱いって言いながら 動かない"
+    },
+    {
+      "t": 52.06,
+      "end": 58.47,
+      "text": "俺も動かない 二人で 我慢比べ"
+    },
+    {
+      "t": 58.67,
+      "end": 58.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.67,
+      "end": 62.33,
+      "text": "湯上がり"
+    },
+    {
+      "t": 62.41,
+      "end": 80.69,
+      "text": "瓶の牛乳 腰に手 誰も見てないのにやる"
+    },
+    {
+      "t": 81.11,
+      "end": 92.79,
+      "text": "体から湯気 頭から何も出てない"
+    },
+    {
+      "t": 95.81,
+      "end": 98.93,
+      "text": "今日一番 何も考えてない時間"
+    },
+    {
+      "t": 99.01,
+      "end": 99.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.01,
+      "end": 131.79,
+      "text": "脱衣所の扇風機 首振りが壊れてる"
+    },
+    {
+      "t": 132.09,
+      "end": 141.75,
+      "text": "みんな順番に その前に立つ 誰も決めてないのに"
+    },
+    {
+      "t": 142.01,
+      "end": 149.61,
+      "text": "おじいさんが 俺に場所を譲った"
+    },
+    {
+      "t": 150.17,
+      "end": 174.74,
+      "text": "何も言わずに 番台に 小銭を置いて 帰った"
+    },
+    {
+      "t": 174.86,
+      "end": 174.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 174.86,
+      "end": 177.62,
+      "text": "湯上がり"
+    },
+    {
+      "t": 177.82,
+      "end": 187.7,
+      "text": "瓶の牛乳 腰に手 誰も見てないのにやる"
+    },
+    {
+      "t": 188.62,
+      "end": 195.04,
+      "text": "体から湯気 頭から何も出てない"
+    },
+    {
+      "t": 195.28,
+      "end": 200.14,
+      "text": "今日一番 何も持ってない時間"
+    },
+    {
+      "t": 200.14,
+      "end": 200.14,
+      "text": "[Outro - log drum, fading]"
+    },
+    {
+      "t": 200.14,
+      "end": 200.9,
+      "text": "四百五十円"
+    },
+    {
+      "t": 200.92,
+      "end": 202.04,
+      "text": "また明日"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "b5_ms03",
+  "title": "Balik Gawai",
+  "title_source": "scripted",
+  "genre": "Bornean gong ethno-rock",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "everyone counted home",
+  "persona": "",
+  "subject": "a grandmother at the longhouse stairs counting every returning grandchild for Gawai",
+  "caption": "Bornean ethno-rock driven by a gong ensemble, sung in Malay. Interlocking agung, tawak and bebandil gongs and gendang drums leading the rhythm, with a rock drum kit, distorted electric guitar and electric bass supporting underneath rather than leading, sape appearing only briefly as colour. Big festival-stage sound with the gongs forward and resonant and a wide crowd-like reverb. Male lead voice, open and projecting, answered by group festival chants and shouts on the chorus. 124 BPM, A minor pentatonic. Everyone counted home. No synth, no programmed drums, no sape-led folk arrangement, no ballad section, no key change.",
+  "lyrics": "[Intro - interlocking gongs, drum kit enters]\n\n[Verse 1]\nEnam jam jalan, dua jam bot, rumah panjang hujung sungai\nTiga puluh pintu, satu ruai, semua orang balik serentak\nNenek tunggu di tangga, dia kira kami seorang-seorang\nDia kira sampai habis, baru dia masuk ke dalam\n\n[Chorus - festival chant]\nBalik Gawai, ha\nGong berbunyi, semua pintu terbuka\nKau kerja di bandar, kau kerja di laut, tak penting\nMalam ni kau anak rumah panjang lagi\n\n[Verse 2]\nSepupu aku dah jadi doktor, sepupu aku dah jadi bapa\nKami duduk atas tikar yang sama macam masa kecil\nNenek hulur tuak, aku tolak, dia ketawa\nDia hulur lagi, aku ambil, sebab ni Gawai\n\n[Chorus - festival chant]\nBalik Gawai, ha\nGong berbunyi, semua pintu terbuka\nKau kerja di bandar, kau kerja di laut, tak penting\nMalam ni dan esok, kau anak rumah panjang lagi\n\n[Outro - gongs alone]\nBot pagi Isnin\nNenek kira lagi, kali ni kami pergi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 212.0,
+    "genres": "N/A",
+    "keyscale": "A minor pentatonic",
+    "timesignature": "4",
+    "prompt": "Bornean ethno-rock driven by a gong ensemble, sung in Malay. Interlocking agung, tawak and bebandil gongs and gendang drums leading the rhythm, with a rock drum kit, distorted electric guitar and electric bass supporting underneath rather than leading, sape appearing only briefly as colour. Big festival-stage sound with the gongs forward and resonant and a wide crowd-like reverb. Male lead voice, open and projecting, answered by group festival chants and shouts on the chorus. 124 BPM, A minor pentatonic. Everyone counted home. No synth, no programmed drums, no sape-led folk arrangement, no ballad section, no key change.",
+    "lyrics": "[Intro - interlocking gongs, drum kit enters]\n\n[Verse 1]\nEnam jam jalan, dua jam bot, rumah panjang hujung sungai\nTiga puluh pintu, satu ruai, semua orang balik serentak\nNenek tunggu di tangga, dia kira kami seorang-seorang\nDia kira sampai habis, baru dia masuk ke dalam\n\n[Chorus - festival chant]\nBalik Gawai, ha\nGong berbunyi, semua pintu terbuka\nKau kerja di bandar, kau kerja di laut, tak penting\nMalam ni kau anak rumah panjang lagi\n\n[Verse 2]\nSepupu aku dah jadi doktor, sepupu aku dah jadi bapa\nKami duduk atas tikar yang sama macam masa kecil\nNenek hulur tuak, aku tolak, dia ketawa\nDia hulur lagi, aku ambil, sebab ni Gawai\n\n[Chorus - festival chant]\nBalik Gawai, ha\nGong berbunyi, semua pintu terbuka\nKau kerja di bandar, kau kerja di laut, tak penting\nMalam ni dan esok, kau anak rumah panjang lagi\n\n[Outro - gongs alone]\nBot pagi Isnin\nNenek kira lagi, kali ni kami pergi"
+  },
+  "seed": "742582188",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.29s**\n- 66.29s per song\n- LM phase (1 song): 9.12s\n- DiT phase (1 song): 57.17s",
+  "task_id": "a6d01135-8e20-4bfa-86d2-d5970165441d",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-08T00:02:40.642839+08:00",
+  "audio": "b5_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.52,
+      "end": 0.52,
+      "text": "[Intro - interlocking gongs, drum kit enters]"
+    },
+    {
+      "t": 0.52,
+      "end": 0.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.52,
+      "end": 73.89,
+      "text": "Enam jam jalan, dua jam bot, rumah panjang hujung sungai"
+    },
+    {
+      "t": 73.93,
+      "end": 80.65,
+      "text": "Tiga puluh pintu, satu ruai, semua orang balik serentak"
+    },
+    {
+      "t": 81.05,
+      "end": 89.99,
+      "text": "Nenek tunggu di tangga, dia kira kami seorang-seorang"
+    },
+    {
+      "t": 90.21,
+      "end": 105.71,
+      "text": "Dia kira sampai habis, baru dia masuk ke dalam"
+    },
+    {
+      "t": 105.75,
+      "end": 105.75,
+      "text": "[Chorus - festival chant]"
+    },
+    {
+      "t": 105.75,
+      "end": 107.27,
+      "text": "Balik Gawai, ha"
+    },
+    {
+      "t": 107.69,
+      "end": 110.65,
+      "text": "Gong berbunyi, semua pintu terbuka"
+    },
+    {
+      "t": 111.51,
+      "end": 114.63,
+      "text": "Kau kerja di bandar, kau kerja di laut, tak penting"
+    },
+    {
+      "t": 115.33,
+      "end": 118.31,
+      "text": "Malam ni kau anak rumah panjang lagi"
+    },
+    {
+      "t": 118.67,
+      "end": 118.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 118.67,
+      "end": 124.29,
+      "text": "Sepupu aku dah jadi doktor, sepupu aku dah jadi bapa"
+    },
+    {
+      "t": 124.41,
+      "end": 129.77,
+      "text": "Kami duduk atas tikar yang sama macam masa kecil"
+    },
+    {
+      "t": 129.83,
+      "end": 132.61,
+      "text": "Nenek hulur tuak, aku tolak, dia ketawa"
+    },
+    {
+      "t": 132.73,
+      "end": 139.33,
+      "text": "Dia hulur lagi, aku ambil, sebab ni Gawai"
+    },
+    {
+      "t": 141.11,
+      "end": 141.11,
+      "text": "[Chorus - festival chant]"
+    },
+    {
+      "t": 141.11,
+      "end": 146.77,
+      "text": "Balik Gawai, ha"
+    },
+    {
+      "t": 146.93,
+      "end": 153.37,
+      "text": "Gong berbunyi, semua pintu terbuka"
+    },
+    {
+      "t": 153.57,
+      "end": 178.46,
+      "text": "Kau kerja di bandar, kau kerja di laut, tak penting"
+    },
+    {
+      "t": 178.46,
+      "end": 184.14,
+      "text": "Malam ni dan esok, kau anak rumah panjang lagi"
+    },
+    {
+      "t": 186.24,
+      "end": 186.24,
+      "text": "[Outro - gongs alone]"
+    },
+    {
+      "t": 186.24,
+      "end": 194.4,
+      "text": "Bot pagi Isnin"
+    },
+    {
+      "t": 199.84,
+      "end": 207.6,
+      "text": "Nenek kira lagi, kali ni kami pergi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

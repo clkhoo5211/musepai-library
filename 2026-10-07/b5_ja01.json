@@ -1,0 +1,159 @@
+{
+  "id": "b5_ja01",
+  "title": "階段ダッシュ",
+  "title_source": "scripted",
+  "genre": "Tokyo juke footwork",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "a daily race with a stranger you never speak to",
+  "persona": "",
+  "subject": "running up forty-three station stairs every morning beside the same stranger",
+  "caption": "Tokyo juke and footwork. 808 kick drums firing in triplet clusters against the beat, 808 toms rolling in polyrhythmic patterns, a short vocal fragment chopped and looped in sixteenth-note stutters as the main hook, a sparse dark synth stab every few bars, almost no harmonic bed. Fast, polyrhythmic and dry with the kicks forward and very little reverb. Male voice delivering short rhythmic phrases over the stuttering vocal loop, half-spoken and breathless. 160 BPM, C minor. A daily race beside a stranger you never speak to. No four-on-the-floor, no trap hi-hat rolls, no acoustic instruments, no sung pop chorus, no key change.",
+  "lyrics": "[Intro - triplet 808 kicks and chopped vocal]\n\n[Verse 1]\n毎朝 七時四十二分 駅の階段 四十三段\n電車のドアが閉まる音が 上から聞こえる\n走る 走る 走る 毎日 同じ階段で\n間に合う日と 間に合わない日 半々\n\n[Chorus]\n階段ダッシュ\n四十三段に 俺の一日がかかってる\n間に合ったら 今日はいい日\n間に合わなくても 次は三分後 それも知ってる\n\n[Verse 2]\n隣で同じように走る人がいる 毎朝いる\n話したことはない でも 目が合う\n一緒に間に合った日は ちょっと笑う\n一緒に乗り遅れた日も ちょっと笑う\n\n[Chorus]\n階段ダッシュ\n四十三段に 俺の一日がかかってる\n間に合ったら 今日はいい日\n間に合わなくても 隣にあいつがいる それも知ってる\n\n[Outro - vocal chop loop, cut]\n四十三段\n明日も\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 160,
+    "duration": 176.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Tokyo juke and footwork. 808 kick drums firing in triplet clusters against the beat, 808 toms rolling in polyrhythmic patterns, a short vocal fragment chopped and looped in sixteenth-note stutters as the main hook, a sparse dark synth stab every few bars, almost no harmonic bed. Fast, polyrhythmic and dry with the kicks forward and very little reverb. Male voice delivering short rhythmic phrases over the stuttering vocal loop, half-spoken and breathless. 160 BPM, C minor. A daily race beside a stranger you never speak to. No four-on-the-floor, no trap hi-hat rolls, no acoustic instruments, no sung pop chorus, no key change.",
+    "lyrics": "[Intro - triplet 808 kicks and chopped vocal]\n\n[Verse 1]\n毎朝 七時四十二分 駅の階段 四十三段\n電車のドアが閉まる音が 上から聞こえる\n走る 走る 走る 毎日 同じ階段で\n間に合う日と 間に合わない日 半々\n\n[Chorus]\n階段ダッシュ\n四十三段に 俺の一日がかかってる\n間に合ったら 今日はいい日\n間に合わなくても 次は三分後 それも知ってる\n\n[Verse 2]\n隣で同じように走る人がいる 毎朝いる\n話したことはない でも 目が合う\n一緒に間に合った日は ちょっと笑う\n一緒に乗り遅れた日も ちょっと笑う\n\n[Chorus]\n階段ダッシュ\n四十三段に 俺の一日がかかってる\n間に合ったら 今日はいい日\n間に合わなくても 隣にあいつがいる それも知ってる\n\n[Outro - vocal chop loop, cut]\n四十三段\n明日も\n[Song ends abruptly]"
+  },
+  "seed": "3376064036",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 436.73s**\n- 436.73s per song\n- LM phase (1 song): 34.76s\n- DiT phase (1 song): 401.97s",
+  "task_id": "b0b8f1e4-98cc-41a9-b3fb-d336a3bf7b0f",
+  "elapsed_s": 472.6,
+  "generated_at": "2026-10-08T02:52:59.467049+08:00",
+  "audio": "b5_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.84,
+      "end": 23.84,
+      "text": "[Intro - triplet 808 kicks and chopped vocal]"
+    },
+    {
+      "t": 23.84,
+      "end": 23.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.84,
+      "end": 28.96,
+      "text": "毎朝 七時四十二分 駅の階段 四十三段"
+    },
+    {
+      "t": 29.06,
+      "end": 34.84,
+      "text": "電車のドアが閉まる音が 上から聞こえる"
+    },
+    {
+      "t": 34.9,
+      "end": 40.4,
+      "text": "走る 走る 走る 毎日 同じ階段で"
+    },
+    {
+      "t": 40.42,
+      "end": 49.79,
+      "text": "間に合う日と 間に合わない日 半々"
+    },
+    {
+      "t": 49.81,
+      "end": 49.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.81,
+      "end": 54.67,
+      "text": "階段ダッシュ"
+    },
+    {
+      "t": 54.67,
+      "end": 58.07,
+      "text": "四十三段に 俺の一日がかかってる"
+    },
+    {
+      "t": 58.51,
+      "end": 61.23,
+      "text": "間に合ったら 今日はいい日"
+    },
+    {
+      "t": 61.33,
+      "end": 64.07,
+      "text": "間に合わなくても 次は三分後 それも知ってる"
+    },
+    {
+      "t": 65.45,
+      "end": 65.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.45,
+      "end": 69.49,
+      "text": "隣で同じように走る人がいる 毎朝いる"
+    },
+    {
+      "t": 74.47,
+      "end": 78.33,
+      "text": "話したことはない でも 目が合う"
+    },
+    {
+      "t": 78.43,
+      "end": 81.69,
+      "text": "一緒に間に合った日は ちょっと笑う"
+    },
+    {
+      "t": 82.15,
+      "end": 86.05,
+      "text": "一緒に乗り遅れた日も ちょっと笑う"
+    },
+    {
+      "t": 91.13,
+      "end": 91.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.13,
+      "end": 97.25,
+      "text": "階段ダッシュ"
+    },
+    {
+      "t": 97.51,
+      "end": 104.01,
+      "text": "四十三段に 俺の一日がかかってる"
+    },
+    {
+      "t": 105.39,
+      "end": 108.73,
+      "text": "間に合ったら 今日はいい日"
+    },
+    {
+      "t": 108.93,
+      "end": 115.65,
+      "text": "間に合わなくても 隣にあいつがいる それも知ってる"
+    },
+    {
+      "t": 118.33,
+      "end": 118.33,
+      "text": "[Outro - vocal chop loop, cut]"
+    },
+    {
+      "t": 118.33,
+      "end": 118.45,
+      "text": "四十三段"
+    },
+    {
+      "t": 118.51,
+      "end": 155.92,
+      "text": "明日も"
+    },
+    {
+      "t": 155.92,
+      "end": 155.92,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

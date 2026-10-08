@@ -1,0 +1,154 @@
+{
+  "id": "b5_ko03",
+  "title": "새벽반",
+  "title_source": "scripted",
+  "genre": "Korean breakbeat IDM",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "the quietest forty-five minutes of the day",
+  "persona": "",
+  "subject": "being the slowest swimmer in a six a.m. class, behind two grandmothers",
+  "caption": "Korean breakbeat and IDM. Distorted chopped breakbeats rearranged constantly and driven into crunch, granular ambient pads holding still underneath, a deep sustained sub bass, small glitch percussion clicks and water-like textures between phrases. Busy, distorted drums sitting under a calm, motionless pad, like noise above and stillness below. Male voice, soft and very close, half-spoken and unhurried. 138 BPM, F major. The quietest forty-five minutes of the day. No four-on-the-floor kick, no trap drums, no guitar, no big chorus lift, no key change.",
+  "lyrics": "[Intro - distorted chopped breaks]\n\n[Verse 1]\n여섯 시 수영 강습, 새벽반, 레인 세 번째\n나는 여기서 제일 느리다, 할머니 두 분보다 느리다\n강사님이 \"괜찮아요\" 를 하루에 다섯 번 한다\n다섯 번 다 나한테\n\n[Chorus]\n새벽반\n물속에서는 아무도 내 얼굴을 못 본다\n숨을 참는 동안은 아무 생각을 안 해도 된다\n이 사십오 분이 내 하루에서 제일 조용하다\n\n[Verse 2]\n할머니 한 분이 끝나고 나한테 말을 걸었다\n\"처음엔 다 그래, 나는 칠십에 시작했어\"\n나는 서른넷이다\n그 말이 이번 달에 들은 말 중에 제일 좋았다\n\n[Chorus]\n새벽반\n물속에서는 아무도 내 얼굴을 못 본다\n숨을 참는 동안은 아무 생각을 안 해도 된다\n이 사십오 분이 내 하루에서 아직도 제일 조용하다\n\n[Outro - breaks stop]\n내일 여섯 시\n레인 세 번째",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Korean breakbeat and IDM. Distorted chopped breakbeats rearranged constantly and driven into crunch, granular ambient pads holding still underneath, a deep sustained sub bass, small glitch percussion clicks and water-like textures between phrases. Busy, distorted drums sitting under a calm, motionless pad, like noise above and stillness below. Male voice, soft and very close, half-spoken and unhurried. 138 BPM, F major. The quietest forty-five minutes of the day. No four-on-the-floor kick, no trap drums, no guitar, no big chorus lift, no key change.",
+    "lyrics": "[Intro - distorted chopped breaks]\n\n[Verse 1]\n여섯 시 수영 강습, 새벽반, 레인 세 번째\n나는 여기서 제일 느리다, 할머니 두 분보다 느리다\n강사님이 \"괜찮아요\" 를 하루에 다섯 번 한다\n다섯 번 다 나한테\n\n[Chorus]\n새벽반\n물속에서는 아무도 내 얼굴을 못 본다\n숨을 참는 동안은 아무 생각을 안 해도 된다\n이 사십오 분이 내 하루에서 제일 조용하다\n\n[Verse 2]\n할머니 한 분이 끝나고 나한테 말을 걸었다\n\"처음엔 다 그래, 나는 칠십에 시작했어\"\n나는 서른넷이다\n그 말이 이번 달에 들은 말 중에 제일 좋았다\n\n[Chorus]\n새벽반\n물속에서는 아무도 내 얼굴을 못 본다\n숨을 참는 동안은 아무 생각을 안 해도 된다\n이 사십오 분이 내 하루에서 아직도 제일 조용하다\n\n[Outro - breaks stop]\n내일 여섯 시\n레인 세 번째"
+  },
+  "seed": "3167669482",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 130.47s**\n- 130.47s per song\n- LM phase (1 song): 8.56s\n- DiT phase (1 song): 121.91s",
+  "task_id": "1064e185-e5db-466b-b2bf-6663064274b1",
+  "elapsed_s": 150.2,
+  "generated_at": "2026-10-07T23:55:16.731403+08:00",
+  "audio": "b5_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.2,
+      "end": 20.2,
+      "text": "[Intro - distorted chopped breaks]"
+    },
+    {
+      "t": 20.2,
+      "end": 20.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.2,
+      "end": 25.7,
+      "text": "여섯 시 수영 강습, 새벽반, 레인 세 번째"
+    },
+    {
+      "t": 25.78,
+      "end": 28.9,
+      "text": "나는 여기서 제일 느리다, 할머니 두 분보다 느리다"
+    },
+    {
+      "t": 28.9,
+      "end": 31.72,
+      "text": "강사님이 \"괜찮아요\" 를 하루에 다섯 번 한다"
+    },
+    {
+      "t": 31.76,
+      "end": 32.52,
+      "text": "다섯 번 다 나한테"
+    },
+    {
+      "t": 32.52,
+      "end": 32.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 32.52,
+      "end": 33.24,
+      "text": "새벽반"
+    },
+    {
+      "t": 33.3,
+      "end": 39.68,
+      "text": "물속에서는 아무도 내 얼굴을 못 본다"
+    },
+    {
+      "t": 42.4,
+      "end": 55.51,
+      "text": "숨을 참는 동안은 아무 생각을 안 해도 된다"
+    },
+    {
+      "t": 56.37,
+      "end": 78.27,
+      "text": "이 사십오 분이 내 하루에서 제일 조용하다"
+    },
+    {
+      "t": 78.35,
+      "end": 78.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.35,
+      "end": 83.37,
+      "text": "할머니 한 분이 끝나고 나한테 말을 걸었다"
+    },
+    {
+      "t": 84.73,
+      "end": 88.13,
+      "text": "\"처음엔 다 그래, 나는 칠십에 시작했어\""
+    },
+    {
+      "t": 88.67,
+      "end": 89.87,
+      "text": "나는 서른넷이다"
+    },
+    {
+      "t": 90.87,
+      "end": 95.35,
+      "text": "그 말이 이번 달에 들은 말 중에 제일 좋았다"
+    },
+    {
+      "t": 99.61,
+      "end": 99.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.61,
+      "end": 100.31,
+      "text": "새벽반"
+    },
+    {
+      "t": 103.59,
+      "end": 107.51,
+      "text": "물속에서는 아무도 내 얼굴을 못 본다"
+    },
+    {
+      "t": 110.61,
+      "end": 114.41,
+      "text": "숨을 참는 동안은 아무 생각을 안 해도 된다"
+    },
+    {
+      "t": 117.41,
+      "end": 129.39,
+      "text": "이 사십오 분이 내 하루에서 아직도 제일 조용하다"
+    },
+    {
+      "t": 148.87,
+      "end": 148.87,
+      "text": "[Outro - breaks stop]"
+    },
+    {
+      "t": 148.87,
+      "end": 167.62,
+      "text": "내일 여섯 시"
+    },
+    {
+      "t": 171.3,
+      "end": 201.22,
+      "text": "레인 세 번째"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

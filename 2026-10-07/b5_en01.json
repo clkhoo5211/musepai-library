@@ -1,0 +1,169 @@
+{
+  "id": "b5_en01",
+  "title": "Thirty-Three In The Queue",
+  "title_source": "scripted",
+  "genre": "UK garage two-step",
+  "language": "en",
+  "language_name": "English",
+  "mood": "too old for it and glad to be there",
+  "persona": "",
+  "subject": "queueing for a club where everyone else is twenty",
+  "caption": "UK garage in the two-step style. Shuffled two-step drum pattern with skipped kicks and swung sixteenth hi-hats, short organ chord stabs on the offbeats, a wobbling sub bass, pitched-up and chopped R&B vocal samples answering the lead, a filtered string pad on the chorus. Swung and skippy with a heavy sub and a crisp bright top, mixed for a club system. Male voice, conversational in the verses with a light melodic lift on the hook, no autotune. 132 BPM, F minor. Too old for it and glad to be there. No four-on-the-floor house kick, no trap hi-hat rolls, no rap verse, no acoustic instruments, no key change.",
+  "lyrics": "[Intro - two-step drums and organ stab]\n\n[Verse 1]\nQueue goes round the corner and everybody's twenty\nI'm thirty-three in a jacket I bought for a wedding\nBouncer looks at my ID longer than he looks at theirs\nThen he laughs, and he lets me in, and he says \"big man\"\n\n[Pre-Chorus]\nI came here for one song\nI don't even know if they still play it\n\n[Chorus]\nThirty-three in the queue\nAnd the bass still finds my ribs the same way it used to\nNobody in here knows what I do on a Monday\nFor two hours I'm not anybody's anything\n\n[Verse 2]\nGirl next to me asks if I'm somebody's dad\nI say no, I'm somebody's ex and somebody's tenant\nShe laughs and hands me her water without asking\nThat's the most looked-after I have felt all year\n\n[Chorus]\nThirty-three in the queue\nAnd the bass still finds my ribs the same way it used to\nNobody in here knows what I do on a Monday\nFor two hours I'm not anybody's anything, and they played it\n\n[Outro - vocal chop and sub]\nTaxi? No. I'm walking.\nForty minutes. I'll feel it Tuesday.",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "UK garage in the two-step style. Shuffled two-step drum pattern with skipped kicks and swung sixteenth hi-hats, short organ chord stabs on the offbeats, a wobbling sub bass, pitched-up and chopped R&B vocal samples answering the lead, a filtered string pad on the chorus. Swung and skippy with a heavy sub and a crisp bright top, mixed for a club system. Male voice, conversational in the verses with a light melodic lift on the hook, no autotune. 132 BPM, F minor. Too old for it and glad to be there. No four-on-the-floor house kick, no trap hi-hat rolls, no rap verse, no acoustic instruments, no key change.",
+    "lyrics": "[Intro - two-step drums and organ stab]\n\n[Verse 1]\nQueue goes round the corner and everybody's twenty\nI'm thirty-three in a jacket I bought for a wedding\nBouncer looks at my ID longer than he looks at theirs\nThen he laughs, and he lets me in, and he says \"big man\"\n\n[Pre-Chorus]\nI came here for one song\nI don't even know if they still play it\n\n[Chorus]\nThirty-three in the queue\nAnd the bass still finds my ribs the same way it used to\nNobody in here knows what I do on a Monday\nFor two hours I'm not anybody's anything\n\n[Verse 2]\nGirl next to me asks if I'm somebody's dad\nI say no, I'm somebody's ex and somebody's tenant\nShe laughs and hands me her water without asking\nThat's the most looked-after I have felt all year\n\n[Chorus]\nThirty-three in the queue\nAnd the bass still finds my ribs the same way it used to\nNobody in here knows what I do on a Monday\nFor two hours I'm not anybody's anything, and they played it\n\n[Outro - vocal chop and sub]\nTaxi? No. I'm walking.\nForty minutes. I'll feel it Tuesday."
+  },
+  "seed": "3743742951",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.76s**\n- 59.76s per song\n- LM phase (1 song): 8.39s\n- DiT phase (1 song): 51.36s",
+  "task_id": "bf6890f5-747a-432c-834b-a8c002f4a247",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-08T02:25:40.486793+08:00",
+  "audio": "b5_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.7,
+      "end": 37.7,
+      "text": "[Intro - two-step drums and organ stab]"
+    },
+    {
+      "t": 37.7,
+      "end": 37.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.7,
+      "end": 41.96,
+      "text": "Queue goes round the corner and everybody's twenty"
+    },
+    {
+      "t": 41.96,
+      "end": 49.46,
+      "text": "I'm thirty-three in a jacket I bought for a wedding"
+    },
+    {
+      "t": 53.41,
+      "end": 58.39,
+      "text": "Bouncer looks at my ID longer than he looks at theirs"
+    },
+    {
+      "t": 59.31,
+      "end": 65.35,
+      "text": "Then he laughs, and he lets me in, and he says \"big man\""
+    },
+    {
+      "t": 65.35,
+      "end": 65.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 65.35,
+      "end": 65.73,
+      "text": "I came here for one song"
+    },
+    {
+      "t": 65.73,
+      "end": 66.55,
+      "text": "I don't even know if they still play it"
+    },
+    {
+      "t": 66.63,
+      "end": 66.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.63,
+      "end": 68.77,
+      "text": "Thirty-three in the queue"
+    },
+    {
+      "t": 70.31,
+      "end": 75.29,
+      "text": "And the bass still finds my ribs the same way it used to"
+    },
+    {
+      "t": 78.81,
+      "end": 82.33,
+      "text": "Nobody in here knows what I do on a Monday"
+    },
+    {
+      "t": 86.51,
+      "end": 89.97,
+      "text": "For two hours I'm not anybody's anything"
+    },
+    {
+      "t": 89.99,
+      "end": 89.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.99,
+      "end": 95.89,
+      "text": "Girl next to me asks if I'm somebody's dad"
+    },
+    {
+      "t": 95.91,
+      "end": 102.41,
+      "text": "I say no, I'm somebody's ex and somebody's tenant"
+    },
+    {
+      "t": 102.41,
+      "end": 104.41,
+      "text": "She laughs and hands me her water without asking"
+    },
+    {
+      "t": 106.63,
+      "end": 110.99,
+      "text": "That's the most looked-after I have felt all year"
+    },
+    {
+      "t": 112.99,
+      "end": 112.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.99,
+      "end": 114.67,
+      "text": "Thirty-three in the queue"
+    },
+    {
+      "t": 115.85,
+      "end": 120.81,
+      "text": "And the bass still finds my ribs the same way it used to"
+    },
+    {
+      "t": 122.53,
+      "end": 135.21,
+      "text": "Nobody in here knows what I do on a Monday"
+    },
+    {
+      "t": 136.75,
+      "end": 142.05,
+      "text": "For two hours I'm not anybody's anything, and they played it"
+    },
+    {
+      "t": 145.39,
+      "end": 145.39,
+      "text": "[Outro - vocal chop and sub]"
+    },
+    {
+      "t": 145.39,
+      "end": 156.3,
+      "text": "Taxi? No. I'm walking."
+    },
+    {
+      "t": 161.08,
+      "end": 167.88,
+      "text": "Forty minutes. I'll feel it Tuesday."
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

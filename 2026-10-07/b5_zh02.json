@@ -1,0 +1,154 @@
+{
+  "id": "b5_zh02",
+  "title": "他說過的那片草",
+  "title_source": "scripted",
+  "genre": "morin khuur horse-gallop folk rock",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "fifty years folded into one word",
+  "persona": "",
+  "subject": "taking a herder's son back to the grassland he left fifty years ago",
+  "caption": "Mandarin folk rock built on Mongolian instrumentation and the galloping horse rhythm. Morin khuur horsehead fiddle carrying the lead melody with its rough bowed tone and slides, tovshuur lute strumming the gallop pattern, drums playing a driving 6/8 horse-gallop figure on toms and kick, distorted rhythm guitar doubling the root underneath, a low throat-sung drone hum entering in the final chorus. Wide and open with the fiddle forward and the gallop driving everything. Male voice, weathered and low, singing plainly with a drone-like hum beneath the chorus. 116 BPM in a 6/8 gallop, D minor pentatonic. Fifty years folded into one word. No erhu, no guzheng, no synth pad, no trap drums, no key change.",
+  "lyrics": "[Intro - morin khuur and galloping drums]\n\n[Verse 1]\n父親是牧民的兒子 五十年沒回去\n他說草原上的風 會把你的名字吹走\n我買了兩張車票 他說「太遠了」\n他上車的時候 換了一件我沒看過的襯衫\n\n[Chorus]\n帶他回到他說過的那片草\n草還在 帳篷沒了 路多了一條\n他下車沒說話 他蹲下來\n摸了一把地 像在確認那是不是真的\n\n[Verse 2]\n遠處有人騎馬 他看了很久\n我問他會不會騎 他說「以前會」\n那個「以前」 他說得很輕\n輕得像他把五十年都放在那兩個字裡\n\n[Chorus]\n帶他回到他說過的那片草\n草還在 帳篷沒了 路多了一條\n他下車沒說話 他蹲下來\n摸了一把地 然後他念了一個我不會念的地名\n\n[Outro - morin khuur alone]\n回程他睡了一路\n襯衫上 有草",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 228.0,
+    "genres": "N/A",
+    "keyscale": "D minor pentatonic",
+    "timesignature": "4",
+    "prompt": "Mandarin folk rock built on Mongolian instrumentation and the galloping horse rhythm. Morin khuur horsehead fiddle carrying the lead melody with its rough bowed tone and slides, tovshuur lute strumming the gallop pattern, drums playing a driving 6/8 horse-gallop figure on toms and kick, distorted rhythm guitar doubling the root underneath, a low throat-sung drone hum entering in the final chorus. Wide and open with the fiddle forward and the gallop driving everything. Male voice, weathered and low, singing plainly with a drone-like hum beneath the chorus. 116 BPM in a 6/8 gallop, D minor pentatonic. Fifty years folded into one word. No erhu, no guzheng, no synth pad, no trap drums, no key change.",
+    "lyrics": "[Intro - morin khuur and galloping drums]\n\n[Verse 1]\n父親是牧民的兒子 五十年沒回去\n他說草原上的風 會把你的名字吹走\n我買了兩張車票 他說「太遠了」\n他上車的時候 換了一件我沒看過的襯衫\n\n[Chorus]\n帶他回到他說過的那片草\n草還在 帳篷沒了 路多了一條\n他下車沒說話 他蹲下來\n摸了一把地 像在確認那是不是真的\n\n[Verse 2]\n遠處有人騎馬 他看了很久\n我問他會不會騎 他說「以前會」\n那個「以前」 他說得很輕\n輕得像他把五十年都放在那兩個字裡\n\n[Chorus]\n帶他回到他說過的那片草\n草還在 帳篷沒了 路多了一條\n他下車沒說話 他蹲下來\n摸了一把地 然後他念了一個我不會念的地名\n\n[Outro - morin khuur alone]\n回程他睡了一路\n襯衫上 有草"
+  },
+  "seed": "707339144",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.64s**\n- 63.64s per song\n- LM phase (1 song): 11.94s\n- DiT phase (1 song): 51.70s",
+  "task_id": "22ebdec7-995a-4983-a4d5-2cbd1679f0d7",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-08T00:35:06.191186+08:00",
+  "audio": "b5_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 58.93,
+      "end": 58.93,
+      "text": "[Intro - morin khuur and galloping drums]"
+    },
+    {
+      "t": 58.93,
+      "end": 58.93,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 58.93,
+      "end": 65.03,
+      "text": "父親是牧民的兒子 五十年沒回去"
+    },
+    {
+      "t": 67.19,
+      "end": 74.09,
+      "text": "他說草原上的風 會把你的名字吹走"
+    },
+    {
+      "t": 74.19,
+      "end": 97.51,
+      "text": "我買了兩張車票 他說「太遠了」"
+    },
+    {
+      "t": 97.71,
+      "end": 116.75,
+      "text": "他上車的時候 換了一件我沒看過的襯衫"
+    },
+    {
+      "t": 118.51,
+      "end": 118.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.51,
+      "end": 122.03,
+      "text": "帶他回到他說過的那片草"
+    },
+    {
+      "t": 122.15,
+      "end": 124.67,
+      "text": "草還在 帳篷沒了 路多了一條"
+    },
+    {
+      "t": 125.99,
+      "end": 131.39,
+      "text": "他下車沒說話 他蹲下來"
+    },
+    {
+      "t": 131.39,
+      "end": 136.93,
+      "text": "摸了一把地 像在確認那是不是真的"
+    },
+    {
+      "t": 136.93,
+      "end": 136.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 136.93,
+      "end": 142.29,
+      "text": "遠處有人騎馬 他看了很久"
+    },
+    {
+      "t": 142.29,
+      "end": 144.45,
+      "text": "我問他會不會騎 他說「以前會」"
+    },
+    {
+      "t": 144.63,
+      "end": 145.81,
+      "text": "那個「以前」 他說得很輕"
+    },
+    {
+      "t": 145.87,
+      "end": 149.01,
+      "text": "輕得像他把五十年都放在那兩個字裡"
+    },
+    {
+      "t": 149.05,
+      "end": 149.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.05,
+      "end": 163.81,
+      "text": "帶他回到他說過的那片草"
+    },
+    {
+      "t": 163.85,
+      "end": 174.26,
+      "text": "草還在 帳篷沒了 路多了一條"
+    },
+    {
+      "t": 174.32,
+      "end": 183.92,
+      "text": "他下車沒說話 他蹲下來"
+    },
+    {
+      "t": 185.54,
+      "end": 194.04,
+      "text": "摸了一把地 然後他念了一個我不會念的地名"
+    },
+    {
+      "t": 195.8,
+      "end": 195.8,
+      "text": "[Outro - morin khuur alone]"
+    },
+    {
+      "t": 195.8,
+      "end": 202.66,
+      "text": "回程他睡了一路"
+    },
+    {
+      "t": 204.04,
+      "end": 212.68,
+      "text": "襯衫上 有草"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

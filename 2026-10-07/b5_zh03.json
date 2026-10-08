@@ -1,0 +1,159 @@
+{
+  "id": "b5_zh03",
+  "title": "管委會",
+  "title_source": "scripted",
+  "genre": "Mandarin hardcore punk",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "furious about something tiny and knowing it",
+  "persona": "",
+  "subject": "two hours of a residents' committee arguing over parking space thirty-seven",
+  "caption": "Mandarin hardcore punk. Fast D-beat drumming with the snare on every offbeat, two power-chord guitars played hard and doubled, overdriven bass locked to the guitars, short stop-start breaks before each chorus, gang shout-along vocals on the hook. Fast, raw and loud with a one-take energy and no polish. Shouted male lead voice, hoarse and urgent, with a crowd of voices shouting the chorus back. 184 BPM, E minor. Furious about something tiny and fully aware of it. No melodic singing, no synth, no autotune, no slow section, no key change.",
+  "lyrics": "[Intro - D-beat drums and power chords]\n\n[Verse 1]\n晚上八點 社區活動中心 四十張摺疊椅\n今天的議題 地下室二樓 第三十七號車位\n吵了兩個小時 我舉手三次 沒有人看到我\n主委在念上次的會議紀錄 念錯了 沒有人糾正\n\n[Chorus - gang vocals]\n管委會 管委會\n我們用兩個小時 吵一格兩公尺乘五公尺\n這是我這個禮拜 最熱血的兩個小時\n我恨我自己 我明天還會來\n\n[Verse 2]\n十樓的伯伯拍桌子 拍到杯子翻了\n沒有人去扶 大家都在看\n那攤水流到我腳邊 我也沒動\n我們都是這樣活著 看著東西流到腳邊\n\n[Chorus - gang vocals]\n管委會 管委會\n我們用兩個小時 吵一格兩公尺乘五公尺\n這是我這個禮拜 最熱血的兩個小時\n我恨我自己 我已經報名下一次\n\n[Outro - band cuts]\n散會\n三十七號 下次再議\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 184,
+    "duration": 168.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Mandarin hardcore punk. Fast D-beat drumming with the snare on every offbeat, two power-chord guitars played hard and doubled, overdriven bass locked to the guitars, short stop-start breaks before each chorus, gang shout-along vocals on the hook. Fast, raw and loud with a one-take energy and no polish. Shouted male lead voice, hoarse and urgent, with a crowd of voices shouting the chorus back. 184 BPM, E minor. Furious about something tiny and fully aware of it. No melodic singing, no synth, no autotune, no slow section, no key change.",
+    "lyrics": "[Intro - D-beat drums and power chords]\n\n[Verse 1]\n晚上八點 社區活動中心 四十張摺疊椅\n今天的議題 地下室二樓 第三十七號車位\n吵了兩個小時 我舉手三次 沒有人看到我\n主委在念上次的會議紀錄 念錯了 沒有人糾正\n\n[Chorus - gang vocals]\n管委會 管委會\n我們用兩個小時 吵一格兩公尺乘五公尺\n這是我這個禮拜 最熱血的兩個小時\n我恨我自己 我明天還會來\n\n[Verse 2]\n十樓的伯伯拍桌子 拍到杯子翻了\n沒有人去扶 大家都在看\n那攤水流到我腳邊 我也沒動\n我們都是這樣活著 看著東西流到腳邊\n\n[Chorus - gang vocals]\n管委會 管委會\n我們用兩個小時 吵一格兩公尺乘五公尺\n這是我這個禮拜 最熱血的兩個小時\n我恨我自己 我已經報名下一次\n\n[Outro - band cuts]\n散會\n三十七號 下次再議\n[Song ends abruptly]"
+  },
+  "seed": "3130568984",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 406.68s**\n- 406.68s per song\n- LM phase (1 song): 36.49s\n- DiT phase (1 song): 370.19s",
+  "task_id": "c28d5768-b3be-4014-adbd-878f4e3d88fb",
+  "elapsed_s": 443.9,
+  "generated_at": "2026-10-08T02:35:24.783658+08:00",
+  "audio": "b5_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.68,
+      "end": 26.68,
+      "text": "[Intro - D-beat drums and power chords]"
+    },
+    {
+      "t": 26.68,
+      "end": 26.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.68,
+      "end": 31.62,
+      "text": "晚上八點 社區活動中心 四十張摺疊椅"
+    },
+    {
+      "t": 31.98,
+      "end": 37.04,
+      "text": "今天的議題 地下室二樓 第三十七號車位"
+    },
+    {
+      "t": 37.16,
+      "end": 39.36,
+      "text": "吵了兩個小時 我舉手三次 沒有人看到我"
+    },
+    {
+      "t": 39.36,
+      "end": 42.21,
+      "text": "主委在念上次的會議紀錄 念錯了 沒有人糾正"
+    },
+    {
+      "t": 42.23,
+      "end": 42.23,
+      "text": "[Chorus - gang vocals]"
+    },
+    {
+      "t": 42.23,
+      "end": 43.59,
+      "text": "管委會 管委會"
+    },
+    {
+      "t": 43.69,
+      "end": 53.29,
+      "text": "我們用兩個小時 吵一格兩公尺乘五公尺"
+    },
+    {
+      "t": 54.17,
+      "end": 62.43,
+      "text": "這是我這個禮拜 最熱血的兩個小時"
+    },
+    {
+      "t": 63.17,
+      "end": 68.75,
+      "text": "我恨我自己 我明天還會來"
+    },
+    {
+      "t": 68.85,
+      "end": 68.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.85,
+      "end": 71.91,
+      "text": "十樓的伯伯拍桌子 拍到杯子翻了"
+    },
+    {
+      "t": 74.13,
+      "end": 77.35,
+      "text": "沒有人去扶 大家都在看"
+    },
+    {
+      "t": 78.97,
+      "end": 82.99,
+      "text": "那攤水流到我腳邊 我也沒動"
+    },
+    {
+      "t": 84.31,
+      "end": 88.47,
+      "text": "我們都是這樣活著 看著東西流到腳邊"
+    },
+    {
+      "t": 100.59,
+      "end": 100.59,
+      "text": "[Chorus - gang vocals]"
+    },
+    {
+      "t": 100.59,
+      "end": 102.03,
+      "text": "管委會 管委會"
+    },
+    {
+      "t": 102.05,
+      "end": 106.65,
+      "text": "我們用兩個小時 吵一格兩公尺乘五公尺"
+    },
+    {
+      "t": 108.47,
+      "end": 112.93,
+      "text": "這是我這個禮拜 最熱血的兩個小時"
+    },
+    {
+      "t": 113.63,
+      "end": 126.5,
+      "text": "我恨我自己 我已經報名下一次"
+    },
+    {
+      "t": 128.38,
+      "end": 128.38,
+      "text": "[Outro - band cuts]"
+    },
+    {
+      "t": 128.38,
+      "end": 129.16,
+      "text": "散會"
+    },
+    {
+      "t": 129.58,
+      "end": 131.16,
+      "text": "三十七號 下次再議"
+    },
+    {
+      "t": 131.16,
+      "end": 131.16,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

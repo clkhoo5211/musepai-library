@@ -1,0 +1,154 @@
+{
+  "id": "b5_ko01",
+  "title": "고사",
+  "title_source": "scripted",
+  "genre": "psychedelic shamanic funk",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "a mother who knows how to pray and a child who doesn't",
+  "persona": "",
+  "subject": "a mother holding a gosa ritual with a pig's head the night before her shop opens",
+  "caption": "Korean psychedelic shamanic funk. Janggu hourglass drum driving the rhythm with its two-headed slap, wah-pedal electric guitar scratching a hypnotic figure, slap bass locked to the janggu, a reggae offbeat guitar skank, ritual hand bells shaken between phrases, a fuzzy organ drone underneath. Hypnotic and raw with the chant forward and the groove looping rather than building to a chorus. Female voice delivering a trance-like incantation in the style of mudang ritual chant, repetitive and insistent, with no pop polish. 104 BPM, A minor. A mother who knows how to pray and a child who does not. No polished court gugak, no synth pad, no trap drums, no ballad section, no key change.",
+  "lyrics": "[Intro - janggu and wah guitar]\n\n[Verse 1]\n가게 오픈 전날 밤, 엄마가 돼지머리를 사 왔다\n나는 \"요즘 누가 이런 걸 해\" 했다\n엄마는 대답 안 하고 시루떡을 썰었다\n막걸리를 따르고 절을 했다, 세 번\n\n[Chorus]\n고사 지낸다, 잘 되라고\n누구한테 비는 건지 엄마도 모른다\n근데 엄마는 비는 법을 안다\n나는 그게 없다\n\n[Verse 2]\n돼지 입에 만 원짜리를 꽂으라고 했다\n나는 오천 원을 꽂았다, 엄마가 봤다\n엄마가 다시 만 원으로 바꿨다, 말없이\n그게 엄마가 나한테 건 판돈이었다\n\n[Chorus]\n고사 지낸다, 잘 되라고\n누구한테 비는 건지 엄마도 모른다\n근데 엄마는 비는 법을 안다\n오늘 나는 옆에서 따라 했다\n\n[Outro - janggu and bells, fading]\n다음 날 첫 손님\n엄마가 문 앞에서 기다렸다",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 222.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Korean psychedelic shamanic funk. Janggu hourglass drum driving the rhythm with its two-headed slap, wah-pedal electric guitar scratching a hypnotic figure, slap bass locked to the janggu, a reggae offbeat guitar skank, ritual hand bells shaken between phrases, a fuzzy organ drone underneath. Hypnotic and raw with the chant forward and the groove looping rather than building to a chorus. Female voice delivering a trance-like incantation in the style of mudang ritual chant, repetitive and insistent, with no pop polish. 104 BPM, A minor. A mother who knows how to pray and a child who does not. No polished court gugak, no synth pad, no trap drums, no ballad section, no key change.",
+    "lyrics": "[Intro - janggu and wah guitar]\n\n[Verse 1]\n가게 오픈 전날 밤, 엄마가 돼지머리를 사 왔다\n나는 \"요즘 누가 이런 걸 해\" 했다\n엄마는 대답 안 하고 시루떡을 썰었다\n막걸리를 따르고 절을 했다, 세 번\n\n[Chorus]\n고사 지낸다, 잘 되라고\n누구한테 비는 건지 엄마도 모른다\n근데 엄마는 비는 법을 안다\n나는 그게 없다\n\n[Verse 2]\n돼지 입에 만 원짜리를 꽂으라고 했다\n나는 오천 원을 꽂았다, 엄마가 봤다\n엄마가 다시 만 원으로 바꿨다, 말없이\n그게 엄마가 나한테 건 판돈이었다\n\n[Chorus]\n고사 지낸다, 잘 되라고\n누구한테 비는 건지 엄마도 모른다\n근데 엄마는 비는 법을 안다\n오늘 나는 옆에서 따라 했다\n\n[Outro - janggu and bells, fading]\n다음 날 첫 손님\n엄마가 문 앞에서 기다렸다"
+  },
+  "seed": "245902798",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 79.59s**\n- 79.59s per song\n- LM phase (1 song): 7.27s\n- DiT phase (1 song): 72.31s",
+  "task_id": "e4fa51b9-58ac-4235-b982-a2c335e623b5",
+  "elapsed_s": 130.4,
+  "generated_at": "2026-10-07T23:51:26.484859+08:00",
+  "audio": "b5_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.96,
+      "end": 36.96,
+      "text": "[Intro - janggu and wah guitar]"
+    },
+    {
+      "t": 36.96,
+      "end": 36.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.96,
+      "end": 41.98,
+      "text": "가게 오픈 전날 밤, 엄마가 돼지머리를 사 왔다"
+    },
+    {
+      "t": 45.54,
+      "end": 57.61,
+      "text": "나는 \"요즘 누가 이런 걸 해\" 했다"
+    },
+    {
+      "t": 57.85,
+      "end": 67.59,
+      "text": "엄마는 대답 안 하고 시루떡을 썰었다"
+    },
+    {
+      "t": 71.49,
+      "end": 92.69,
+      "text": "막걸리를 따르고 절을 했다, 세 번"
+    },
+    {
+      "t": 94.41,
+      "end": 94.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.41,
+      "end": 97.97,
+      "text": "고사 지낸다, 잘 되라고"
+    },
+    {
+      "t": 99.01,
+      "end": 102.85,
+      "text": "누구한테 비는 건지 엄마도 모른다"
+    },
+    {
+      "t": 103.59,
+      "end": 107.13,
+      "text": "근데 엄마는 비는 법을 안다"
+    },
+    {
+      "t": 107.13,
+      "end": 108.55,
+      "text": "나는 그게 없다"
+    },
+    {
+      "t": 108.73,
+      "end": 108.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 108.73,
+      "end": 112.59,
+      "text": "돼지 입에 만 원짜리를 꽂으라고 했다"
+    },
+    {
+      "t": 113.11,
+      "end": 124.03,
+      "text": "나는 오천 원을 꽂았다, 엄마가 봤다"
+    },
+    {
+      "t": 124.43,
+      "end": 150.93,
+      "text": "엄마가 다시 만 원으로 바꿨다, 말없이"
+    },
+    {
+      "t": 151.55,
+      "end": 162.45,
+      "text": "그게 엄마가 나한테 건 판돈이었다"
+    },
+    {
+      "t": 162.47,
+      "end": 162.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 162.47,
+      "end": 163.99,
+      "text": "고사 지낸다, 잘 되라고"
+    },
+    {
+      "t": 164.13,
+      "end": 172.4,
+      "text": "누구한테 비는 건지 엄마도 모른다"
+    },
+    {
+      "t": 172.6,
+      "end": 176.14,
+      "text": "근데 엄마는 비는 법을 안다"
+    },
+    {
+      "t": 176.4,
+      "end": 187.56,
+      "text": "오늘 나는 옆에서 따라 했다"
+    },
+    {
+      "t": 188.02,
+      "end": 188.02,
+      "text": "[Outro - janggu and bells, fading]"
+    },
+    {
+      "t": 188.02,
+      "end": 203.5,
+      "text": "다음 날 첫 손님"
+    },
+    {
+      "t": 203.54,
+      "end": 218.72,
+      "text": "엄마가 문 앞에서 기다렸다"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

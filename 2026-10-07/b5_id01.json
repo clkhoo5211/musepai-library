@@ -1,0 +1,154 @@
+{
+  "id": "b5_id01",
+  "title": "Bakar Ikan",
+  "title_source": "scripted",
+  "genre": "Lagu Timur party pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "a family with only one question",
+  "persona": "",
+  "subject": "grilling skipjack on an Ambon beach with every cousin who came home",
+  "caption": "Eastern Indonesian party pop in the Lagu Timur style. A rubbery, bouncy synth bass carrying a syncopated tropical groove, light Latin-leaning percussion with shakers and congas, a clean electric guitar picking short melodic hooks, hand claps on the chorus, no kendang and no suling. Warm, swinging and light, built for dancing rather than loudness. Relaxed male voice singing in Ambon Malay dialect with light autotune, answered by a group in call-and-response on the chorus. 98 BPM, A major. A family that asks only one question. No dangdut koplo rhythm, no kendang, no trap drums, no ballad section, no key change.",
+  "lyrics": "[Intro - synth bass and tropical percussion]\n\n[Verse 1]\nSore di pantai Ambon, sepupu semua datang\nIkan cakalang di atas bara, sambal colo-colo dalam toples\nOm Yopi pegang kipas, dia bilang \"jang ganggu\"\nDari kecil dia yang bakar, sampai sekarang dia yang bakar\n\n[Chorus - call and response]\nBakar ikan, bakar ikan, dong samua datang\nSeng ada yang tanya kerja apa, seng ada yang tanya kapan kawin\nCuma satu yang ditanya: \"su makan?\"\nKalau balom, dudu, ambil piring\n\n[Verse 2]\nSepupu dari Jakarta su lupa logat\nDua jam di sini, logatnya pulang sendiri\nKami tertawa, dia tertawa paling keras\nDia bilang dia rindu, dia bilang itu waktu matahari su turun\n\n[Chorus - call and response]\nBakar ikan, bakar ikan, dong samua datang\nSeng ada yang tanya kerja apa, seng ada yang tanya kapan kawin\nCuma satu yang ditanya: \"su makan?\"\nKalau balom, dudu, ambil piring, ambil dua\n\n[Outro - percussion fades]\nMatahari turun\nOm Yopi masih bakar",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 196.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Eastern Indonesian party pop in the Lagu Timur style. A rubbery, bouncy synth bass carrying a syncopated tropical groove, light Latin-leaning percussion with shakers and congas, a clean electric guitar picking short melodic hooks, hand claps on the chorus, no kendang and no suling. Warm, swinging and light, built for dancing rather than loudness. Relaxed male voice singing in Ambon Malay dialect with light autotune, answered by a group in call-and-response on the chorus. 98 BPM, A major. A family that asks only one question. No dangdut koplo rhythm, no kendang, no trap drums, no ballad section, no key change.",
+    "lyrics": "[Intro - synth bass and tropical percussion]\n\n[Verse 1]\nSore di pantai Ambon, sepupu semua datang\nIkan cakalang di atas bara, sambal colo-colo dalam toples\nOm Yopi pegang kipas, dia bilang \"jang ganggu\"\nDari kecil dia yang bakar, sampai sekarang dia yang bakar\n\n[Chorus - call and response]\nBakar ikan, bakar ikan, dong samua datang\nSeng ada yang tanya kerja apa, seng ada yang tanya kapan kawin\nCuma satu yang ditanya: \"su makan?\"\nKalau balom, dudu, ambil piring\n\n[Verse 2]\nSepupu dari Jakarta su lupa logat\nDua jam di sini, logatnya pulang sendiri\nKami tertawa, dia tertawa paling keras\nDia bilang dia rindu, dia bilang itu waktu matahari su turun\n\n[Chorus - call and response]\nBakar ikan, bakar ikan, dong samua datang\nSeng ada yang tanya kerja apa, seng ada yang tanya kapan kawin\nCuma satu yang ditanya: \"su makan?\"\nKalau balom, dudu, ambil piring, ambil dua\n\n[Outro - percussion fades]\nMatahari turun\nOm Yopi masih bakar"
+  },
+  "seed": "379926307",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 54.91s**\n- 54.91s per song\n- LM phase (1 song): 8.68s\n- DiT phase (1 song): 46.23s",
+  "task_id": "bba1ea01-b41a-49dc-a1a5-98d2673f2cd3",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-08T00:06:40.943547+08:00",
+  "audio": "b5_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.52,
+      "end": 16.52,
+      "text": "[Intro - synth bass and tropical percussion]"
+    },
+    {
+      "t": 16.52,
+      "end": 16.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.52,
+      "end": 37.22,
+      "text": "Sore di pantai Ambon, sepupu semua datang"
+    },
+    {
+      "t": 37.22,
+      "end": 42.08,
+      "text": "Ikan cakalang di atas bara, sambal colo-colo dalam toples"
+    },
+    {
+      "t": 43.72,
+      "end": 51.45,
+      "text": "Om Yopi pegang kipas, dia bilang \"jang ganggu\""
+    },
+    {
+      "t": 53.47,
+      "end": 58.63,
+      "text": "Dari kecil dia yang bakar, sampai sekarang dia yang bakar"
+    },
+    {
+      "t": 58.63,
+      "end": 58.63,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 58.63,
+      "end": 61.73,
+      "text": "Bakar ikan, bakar ikan, dong samua datang"
+    },
+    {
+      "t": 63.29,
+      "end": 68.19,
+      "text": "Seng ada yang tanya kerja apa, seng ada yang tanya kapan kawin"
+    },
+    {
+      "t": 68.19,
+      "end": 71.33,
+      "text": "Cuma satu yang ditanya: \"su makan?\""
+    },
+    {
+      "t": 72.81,
+      "end": 76.49,
+      "text": "Kalau balom, dudu, ambil piring"
+    },
+    {
+      "t": 80.31,
+      "end": 80.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.31,
+      "end": 83.15,
+      "text": "Sepupu dari Jakarta su lupa logat"
+    },
+    {
+      "t": 83.85,
+      "end": 87.67,
+      "text": "Dua jam di sini, logatnya pulang sendiri"
+    },
+    {
+      "t": 89.07,
+      "end": 92.87,
+      "text": "Kami tertawa, dia tertawa paling keras"
+    },
+    {
+      "t": 93.41,
+      "end": 100.41,
+      "text": "Dia bilang dia rindu, dia bilang itu waktu matahari su turun"
+    },
+    {
+      "t": 102.09,
+      "end": 102.09,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 102.09,
+      "end": 107.27,
+      "text": "Bakar ikan, bakar ikan, dong samua datang"
+    },
+    {
+      "t": 108.87,
+      "end": 117.33,
+      "text": "Seng ada yang tanya kerja apa, seng ada yang tanya kapan kawin"
+    },
+    {
+      "t": 118.43,
+      "end": 122.05,
+      "text": "Cuma satu yang ditanya: \"su makan?\""
+    },
+    {
+      "t": 123.25,
+      "end": 148.86,
+      "text": "Kalau balom, dudu, ambil piring, ambil dua"
+    },
+    {
+      "t": 150.54,
+      "end": 150.54,
+      "text": "[Outro - percussion fades]"
+    },
+    {
+      "t": 150.54,
+      "end": 152.5,
+      "text": "Matahari turun"
+    },
+    {
+      "t": 154.24,
+      "end": 191.74,
+      "text": "Om Yopi masih bakar"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

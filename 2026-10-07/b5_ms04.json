@@ -1,0 +1,154 @@
+{
+  "id": "b5_ms04",
+  "title": "Pasar Tani Pagi Ahad",
+  "title_source": "scripted",
+  "genre": "Malay ska",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "a town becoming one room once a week",
+  "persona": "",
+  "subject": "a Sunday farmers market where the cake man still calls you adik at thirty",
+  "caption": "Malay ska. Electric guitar playing the upstroke skank on every offbeat, a three-piece horn section playing bright unison lines and stabs, a walking electric bass running up and down, an organ bubble pattern underneath, a drum kit with a driving hi-hat and rimshots. Bright and bouncy with the horns forward and a slightly raw live sound. Male voice, cheerful and quick, conversational, with gang shouts on the chorus. 152 BPM, C major. A town becoming one room once a week. No synth, no programmed drums, no autotune, no ballad section, no key change.",
+  "lyrics": "[Intro - skank guitar and horn section]\n\n[Verse 1]\nPagi Ahad, pasar tani, tujuh pagi dah sesak\nMak bawa troli, aku bawa beg, ayah bawa dompet je\nMakcik sayur tawar-menawar dengan mak lima minit\nUntuk lima puluh sen, dua-dua menang, dua-dua puas\n\n[Chorus]\nPasar tani pagi Ahad\nBukan sebab murah, sebab semua orang kenal\nPakcik ikan tahu mak nak ikan kembung, tak payah cakap\nSeminggu sekali, kampung ni jadi satu bilik\n\n[Verse 2]\nAbang kuih bagi aku satu lebih, setiap minggu\nAku tak tahu nama dia, dia panggil aku \"adik\"\nAku dah tiga puluh, dia masih panggil \"adik\"\nAku tak betulkan, aku suka jadi adik sekejap\n\n[Chorus]\nPasar tani pagi Ahad\nBukan sebab murah, sebab semua orang kenal\nPakcik ikan tahu mak nak ikan kembung, tak payah cakap\nSeminggu sekali, kampung ni jadi satu rumah\n\n[Outro - horns, cut]\nTroli penuh\nMinggu depan lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Malay ska. Electric guitar playing the upstroke skank on every offbeat, a three-piece horn section playing bright unison lines and stabs, a walking electric bass running up and down, an organ bubble pattern underneath, a drum kit with a driving hi-hat and rimshots. Bright and bouncy with the horns forward and a slightly raw live sound. Male voice, cheerful and quick, conversational, with gang shouts on the chorus. 152 BPM, C major. A town becoming one room once a week. No synth, no programmed drums, no autotune, no ballad section, no key change.",
+    "lyrics": "[Intro - skank guitar and horn section]\n\n[Verse 1]\nPagi Ahad, pasar tani, tujuh pagi dah sesak\nMak bawa troli, aku bawa beg, ayah bawa dompet je\nMakcik sayur tawar-menawar dengan mak lima minit\nUntuk lima puluh sen, dua-dua menang, dua-dua puas\n\n[Chorus]\nPasar tani pagi Ahad\nBukan sebab murah, sebab semua orang kenal\nPakcik ikan tahu mak nak ikan kembung, tak payah cakap\nSeminggu sekali, kampung ni jadi satu bilik\n\n[Verse 2]\nAbang kuih bagi aku satu lebih, setiap minggu\nAku tak tahu nama dia, dia panggil aku \"adik\"\nAku dah tiga puluh, dia masih panggil \"adik\"\nAku tak betulkan, aku suka jadi adik sekejap\n\n[Chorus]\nPasar tani pagi Ahad\nBukan sebab murah, sebab semua orang kenal\nPakcik ikan tahu mak nak ikan kembung, tak payah cakap\nSeminggu sekali, kampung ni jadi satu rumah\n\n[Outro - horns, cut]\nTroli penuh\nMinggu depan lagi"
+  },
+  "seed": "741273426",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.56s**\n- 62.56s per song\n- LM phase (1 song): 10.58s\n- DiT phase (1 song): 51.98s",
+  "task_id": "d966e3cb-a376-465b-a708-a6eaf8501539",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-08T00:04:00.731834+08:00",
+  "audio": "b5_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.6,
+      "end": 28.6,
+      "text": "[Intro - skank guitar and horn section]"
+    },
+    {
+      "t": 28.6,
+      "end": 28.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.6,
+      "end": 33.14,
+      "text": "Pagi Ahad, pasar tani, tujuh pagi dah sesak"
+    },
+    {
+      "t": 34.44,
+      "end": 38.7,
+      "text": "Mak bawa troli, aku bawa beg, ayah bawa dompet je"
+    },
+    {
+      "t": 39.88,
+      "end": 44.62,
+      "text": "Makcik sayur tawar-menawar dengan mak lima minit"
+    },
+    {
+      "t": 46.22,
+      "end": 51.37,
+      "text": "Untuk lima puluh sen, dua-dua menang, dua-dua puas"
+    },
+    {
+      "t": 51.45,
+      "end": 51.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.45,
+      "end": 52.03,
+      "text": "Pasar tani pagi Ahad"
+    },
+    {
+      "t": 52.03,
+      "end": 60.95,
+      "text": "Bukan sebab murah, sebab semua orang kenal"
+    },
+    {
+      "t": 60.97,
+      "end": 63.15,
+      "text": "Pakcik ikan tahu mak nak ikan kembung, tak payah cakap"
+    },
+    {
+      "t": 63.87,
+      "end": 68.21,
+      "text": "Seminggu sekali, kampung ni jadi satu bilik"
+    },
+    {
+      "t": 70.11,
+      "end": 70.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.11,
+      "end": 74.27,
+      "text": "Abang kuih bagi aku satu lebih, setiap minggu"
+    },
+    {
+      "t": 76.31,
+      "end": 83.07,
+      "text": "Aku tak tahu nama dia, dia panggil aku \"adik\""
+    },
+    {
+      "t": 92.13,
+      "end": 96.77,
+      "text": "Aku dah tiga puluh, dia masih panggil \"adik\""
+    },
+    {
+      "t": 98.35,
+      "end": 103.11,
+      "text": "Aku tak betulkan, aku suka jadi adik sekejap"
+    },
+    {
+      "t": 104.95,
+      "end": 104.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.95,
+      "end": 107.93,
+      "text": "Pasar tani pagi Ahad"
+    },
+    {
+      "t": 109.87,
+      "end": 114.27,
+      "text": "Bukan sebab murah, sebab semua orang kenal"
+    },
+    {
+      "t": 116.87,
+      "end": 123.09,
+      "text": "Pakcik ikan tahu mak nak ikan kembung, tak payah cakap"
+    },
+    {
+      "t": 123.85,
+      "end": 145.26,
+      "text": "Seminggu sekali, kampung ni jadi satu rumah"
+    },
+    {
+      "t": 145.26,
+      "end": 145.26,
+      "text": "[Outro - horns, cut]"
+    },
+    {
+      "t": 145.26,
+      "end": 151.08,
+      "text": "Troli penuh"
+    },
+    {
+      "t": 151.08,
+      "end": 169.98,
+      "text": "Minggu depan lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

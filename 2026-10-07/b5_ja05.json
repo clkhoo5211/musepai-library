@@ -1,0 +1,154 @@
+{
+  "id": "b5_ja05",
+  "title": "朝セリ",
+  "title_source": "scripted",
+  "genre": "minyo funk",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "inheriting a voice you are not big enough for yet",
+  "persona": "",
+  "subject": "a son standing where his father called fish auctions for fifty years",
+  "caption": "Japanese minyo funk played by a live band. Shamisen with a sharp bachi attack playing the folk melody, taiko drums reinforcing the downbeats, a deep funk bass line with a cumbia-like syncopation, a live drum kit holding a tight groove, wah guitar scratching on the offbeats. Live band groove with the shamisen and taiko forward and the bass fat underneath. Male voice singing with traditional minyo vocal ornament and throat inflection, answered by shouted kakegoe calls from the band. 112 BPM, D minor pentatonic. Inheriting a voice you are not yet big enough for. No synth, no programmed drums, no trap elements, no ballad section, no key change.",
+  "lyrics": "[Intro - shamisen and taiko over funk bass]\n\n[Verse 1]\n朝四時 漁港 長靴の音 氷の音\nセリ人の声が 歌みたいに 上がって 下がる\n何言ってるか 二十年 分からない\nでも 値段が 決まる瞬間だけは 分かる\n\n[Chorus]\n朝セリ ハッ\n手が上がる ソレ\n誰が買ったか 一秒で 決まる\nこの港は 毎朝 一回 歌ってる\n\n[Verse 2]\n親父は セリに 五十年 出た 声が 一番 通った\n今は 俺が 立ってる 声が まだ 小さい\n隣の爺さんが 「腹から出せ」って 背中 叩いた\n親父と同じこと 言いやがる\n\n[Chorus]\n朝セリ ハッ\n手が上がる ソレ\n誰が買ったか 一秒で 決まる\nこの港は 毎朝 一回 歌ってる 俺の声も 入れて\n\n[Outro - shamisen, fading]\n朝六時 終わり\n氷 溶けてく",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 208.0,
+    "genres": "N/A",
+    "keyscale": "D minor pentatonic",
+    "timesignature": "4",
+    "prompt": "Japanese minyo funk played by a live band. Shamisen with a sharp bachi attack playing the folk melody, taiko drums reinforcing the downbeats, a deep funk bass line with a cumbia-like syncopation, a live drum kit holding a tight groove, wah guitar scratching on the offbeats. Live band groove with the shamisen and taiko forward and the bass fat underneath. Male voice singing with traditional minyo vocal ornament and throat inflection, answered by shouted kakegoe calls from the band. 112 BPM, D minor pentatonic. Inheriting a voice you are not yet big enough for. No synth, no programmed drums, no trap elements, no ballad section, no key change.",
+    "lyrics": "[Intro - shamisen and taiko over funk bass]\n\n[Verse 1]\n朝四時 漁港 長靴の音 氷の音\nセリ人の声が 歌みたいに 上がって 下がる\n何言ってるか 二十年 分からない\nでも 値段が 決まる瞬間だけは 分かる\n\n[Chorus]\n朝セリ ハッ\n手が上がる ソレ\n誰が買ったか 一秒で 決まる\nこの港は 毎朝 一回 歌ってる\n\n[Verse 2]\n親父は セリに 五十年 出た 声が 一番 通った\n今は 俺が 立ってる 声が まだ 小さい\n隣の爺さんが 「腹から出せ」って 背中 叩いた\n親父と同じこと 言いやがる\n\n[Chorus]\n朝セリ ハッ\n手が上がる ソレ\n誰が買ったか 一秒で 決まる\nこの港は 毎朝 一回 歌ってる 俺の声も 入れて\n\n[Outro - shamisen, fading]\n朝六時 終わり\n氷 溶けてく"
+  },
+  "seed": "2670047193",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.38s**\n- 65.38s per song\n- LM phase (1 song): 12.29s\n- DiT phase (1 song): 53.09s",
+  "task_id": "3f5359a8-7c5c-4803-abf7-8c6f484d176a",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-08T00:45:31.243411+08:00",
+  "audio": "b5_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 41.44,
+      "end": 41.44,
+      "text": "[Intro - shamisen and taiko over funk bass]"
+    },
+    {
+      "t": 41.44,
+      "end": 41.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.44,
+      "end": 48.24,
+      "text": "朝四時 漁港 長靴の音 氷の音"
+    },
+    {
+      "t": 48.32,
+      "end": 53.25,
+      "text": "セリ人の声が 歌みたいに 上がって 下がる"
+    },
+    {
+      "t": 53.31,
+      "end": 62.99,
+      "text": "何言ってるか 二十年 分からない"
+    },
+    {
+      "t": 63.07,
+      "end": 66.29,
+      "text": "でも 値段が 決まる瞬間だけは 分かる"
+    },
+    {
+      "t": 66.41,
+      "end": 66.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.41,
+      "end": 67.11,
+      "text": "朝セリ ハッ"
+    },
+    {
+      "t": 67.15,
+      "end": 72.39,
+      "text": "手が上がる ソレ"
+    },
+    {
+      "t": 72.41,
+      "end": 73.95,
+      "text": "誰が買ったか 一秒で 決まる"
+    },
+    {
+      "t": 74.11,
+      "end": 76.43,
+      "text": "この港は 毎朝 一回 歌ってる"
+    },
+    {
+      "t": 76.59,
+      "end": 76.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.59,
+      "end": 80.57,
+      "text": "親父は セリに 五十年 出た 声が 一番 通った"
+    },
+    {
+      "t": 81.01,
+      "end": 82.79,
+      "text": "今は 俺が 立ってる 声が まだ 小さい"
+    },
+    {
+      "t": 82.79,
+      "end": 85.43,
+      "text": "隣の爺さんが 「腹から出せ」って 背中 叩いた"
+    },
+    {
+      "t": 85.51,
+      "end": 89.03,
+      "text": "親父と同じこと 言いやがる"
+    },
+    {
+      "t": 95.71,
+      "end": 95.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.71,
+      "end": 97.03,
+      "text": "朝セリ ハッ"
+    },
+    {
+      "t": 97.03,
+      "end": 98.61,
+      "text": "手が上がる ソレ"
+    },
+    {
+      "t": 99.15,
+      "end": 102.81,
+      "text": "誰が買ったか 一秒で 決まる"
+    },
+    {
+      "t": 103.35,
+      "end": 162.96,
+      "text": "この港は 毎朝 一回 歌ってる 俺の声も 入れて"
+    },
+    {
+      "t": 165.96,
+      "end": 165.96,
+      "text": "[Outro - shamisen, fading]"
+    },
+    {
+      "t": 165.96,
+      "end": 168.48,
+      "text": "朝六時 終わり"
+    },
+    {
+      "t": 168.84,
+      "end": 171.3,
+      "text": "氷 溶けてく"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}
