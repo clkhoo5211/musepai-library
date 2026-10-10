@@ -1,0 +1,357 @@
+{
+  "id": "b6_ms08",
+  "title": "Gula Melaka",
+  "title_source": "scripted",
+  "genre": "Dondang sayang (Melaka pantun duet)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "a long marriage, bickering sweetly",
+  "persona": "",
+  "subject": "an old Melaka couple trading pantun over who forgot to buy gula melaka for the kenduri cendol",
+  "caption": "Dondang sayang, the traditional Melaka pantun duet, in an acoustic stage style. A solo violin opening with a short ornamented melody and answering every sung line, rebana frame drums keeping a slow swaying 4/4, a soft gong marking the end of each pantun, and an accordion holding quiet sustained chords underneath. Sparse and acoustic, a roomy wooden-hall sound, the violin and both voices forward, percussion light and behind. Male and female duet trading four-line pantun, gentle and ornamented with cengkok turns, teasing and conversational, older voices with warmth. 68 BPM, D minor. A long marriage, bickering sweetly. No drum kit, no electric guitar, no harmonium or tabla, no keroncong ukulele, no pop chorus build, no autotune.",
+  "lyrics": "[Intro - solo violin, short ornamented phrase]\n\n[Verse 1 - Female]\nPergi ke Jonker membeli tembikar\nSinggah sebentar di Bukit Cina\nSantan dah perah, api dah besar\nGula Melaka, abang, mana?\n\n[Verse 2 - Male]\nAnak ikan di Sungai Melaka\nBerenang jauh ke Pulau Besar\nAbang terlupa, bukan sengaja\nTerleka berbual di tepi pasar\n\n[Chorus - Duet]\nGula Melaka, oh gula Melaka\nTiga puluh tahun, masih juga terlupa\nSudip di tangan, Jah tunggu di tangga\nAbang balik bawa cucur, bukan gula\n\n[Verse 3 - Male]\nPokok kelapa di Tanjung Kling\nDaunnya melambai ditiup bayu\nAbang ke kedai, motor dah pusing\nBawa gula, bawa bunga, Jah tersipu malu\n\n[Bridge - violin alone, then the female voice, softer]\nBunga melur di dalam pasu\nDisiram pagi, harum ke senja\nTiga puluh tahun Jah dah tahu\nAbang lupa memang sengaja\n\n[Chorus - Duet]\nGula Melaka, oh gula Melaka\nTiga puluh tahun, masih juga terlupa\nSudip di tangan, Jah tunggu di tangga\nEsok abang lupa lagi, Jah ikut sama\n\n[Outro - violin and gong, slow ending]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 68,
+    "duration": 240.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Dondang sayang, the traditional Melaka pantun duet, in an acoustic stage style. A solo violin opening with a short ornamented melody and answering every sung line, rebana frame drums keeping a slow swaying 4/4, a soft gong marking the end of each pantun, and an accordion holding quiet sustained chords underneath. Sparse and acoustic, a roomy wooden-hall sound, the violin and both voices forward, percussion light and behind. Male and female duet trading four-line pantun, gentle and ornamented with cengkok turns, teasing and conversational, older voices with warmth. 68 BPM, D minor. A long marriage, bickering sweetly. No drum kit, no electric guitar, no harmonium or tabla, no keroncong ukulele, no pop chorus build, no autotune.",
+    "lyrics": "[Intro - solo violin, short ornamented phrase]\n\n[Verse 1 - Female]\nPergi ke Jonker membeli tembikar\nSinggah sebentar di Bukit Cina\nSantan dah perah, api dah besar\nGula Melaka, abang, mana?\n\n[Verse 2 - Male]\nAnak ikan di Sungai Melaka\nBerenang jauh ke Pulau Besar\nAbang terlupa, bukan sengaja\nTerleka berbual di tepi pasar\n\n[Chorus - Duet]\nGula Melaka, oh gula Melaka\nTiga puluh tahun, masih juga terlupa\nSudip di tangan, Jah tunggu di tangga\nAbang balik bawa cucur, bukan gula\n\n[Verse 3 - Male]\nPokok kelapa di Tanjung Kling\nDaunnya melambai ditiup bayu\nAbang ke kedai, motor dah pusing\nBawa gula, bawa bunga, Jah tersipu malu\n\n[Bridge - violin alone, then the female voice, softer]\nBunga melur di dalam pasu\nDisiram pagi, harum ke senja\nTiga puluh tahun Jah dah tahu\nAbang lupa memang sengaja\n\n[Chorus - Duet]\nGula Melaka, oh gula Melaka\nTiga puluh tahun, masih juga terlupa\nSudip di tangan, Jah tunggu di tangga\nEsok abang lupa lagi, Jah ikut sama\n\n[Outro - violin and gong, slow ending]"
+  },
+  "seed": "885969637",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.35s**\n- 59.35s per song\n- LM phase (1 song): 9.23s\n- DiT phase (1 song): 50.12s",
+  "task_id": "615619d0-bdda-473a-aed4-a50dde143c2f",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-09T21:22:10.162731+08:00",
+  "audio": "b6_ms08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 41.02,
+      "end": 41.02,
+      "text": "[Intro - solo violin, short ornamented phrase]"
+    },
+    {
+      "t": 41.02,
+      "end": 41.02,
+      "text": "[Verse 1 - Female]"
+    },
+    {
+      "t": 41.02,
+      "end": 46.16,
+      "text": "Pergi ke Jonker membeli tembikar"
+    },
+    {
+      "t": 47.84,
+      "end": 52.7,
+      "text": "Singgah sebentar di Bukit Cina"
+    },
+    {
+      "t": 55.1,
+      "end": 59.04,
+      "text": "Santan dah perah, api dah besar"
+    },
+    {
+      "t": 59.12,
+      "end": 63.47,
+      "text": "Gula Melaka, abang, mana?"
+    },
+    {
+      "t": 68.67,
+      "end": 68.67,
+      "text": "[Verse 2 - Male]"
+    },
+    {
+      "t": 68.67,
+      "end": 72.91,
+      "text": "Anak ikan di Sungai Melaka"
+    },
+    {
+      "t": 74.55,
+      "end": 80.39,
+      "text": "Berenang jauh ke Pulau Besar"
+    },
+    {
+      "t": 83.87,
+      "end": 87.25,
+      "text": "Abang terlupa, bukan sengaja"
+    },
+    {
+      "t": 87.35,
+      "end": 95.91,
+      "text": "Terleka berbual di tepi pasar"
+    },
+    {
+      "t": 96.07,
+      "end": 96.07,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 96.07,
+      "end": 109.49,
+      "text": "Gula Melaka, oh gula Melaka"
+    },
+    {
+      "t": 109.89,
+      "end": 123.15,
+      "text": "Tiga puluh tahun, masih juga terlupa"
+    },
+    {
+      "t": 123.15,
+      "end": 126.43,
+      "text": "Sudip di tangan, Jah tunggu di tangga"
+    },
+    {
+      "t": 126.49,
+      "end": 137.57,
+      "text": "Abang balik bawa cucur, bukan gula"
+    },
+    {
+      "t": 137.73,
+      "end": 137.73,
+      "text": "[Verse 3 - Male]"
+    },
+    {
+      "t": 137.73,
+      "end": 141.95,
+      "text": "Pokok kelapa di Tanjung Kling"
+    },
+    {
+      "t": 143.81,
+      "end": 147.41,
+      "text": "Daunnya melambai ditiup bayu"
+    },
+    {
+      "t": 147.41,
+      "end": 151.07,
+      "text": "Abang ke kedai, motor dah pusing"
+    },
+    {
+      "t": 151.17,
+      "end": 157.49,
+      "text": "Bawa gula, bawa bunga, Jah tersipu malu"
+    },
+    {
+      "t": 157.49,
+      "end": 157.49,
+      "text": "[Bridge - violin alone, then the female voice, softer]"
+    },
+    {
+      "t": 157.49,
+      "end": 160.35,
+      "text": "Bunga melur di dalam pasu"
+    },
+    {
+      "t": 160.35,
+      "end": 165.13,
+      "text": "Disiram pagi, harum ke senja"
+    },
+    {
+      "t": 165.13,
+      "end": 169.75,
+      "text": "Tiga puluh tahun Jah dah tahu"
+    },
+    {
+      "t": 169.75,
+      "end": 174.19,
+      "text": "Abang lupa memang sengaja"
+    },
+    {
+      "t": 176.23,
+      "end": 176.23,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 176.23,
+      "end": 181.48,
+      "text": "Gula Melaka, oh gula Melaka"
+    },
+    {
+      "t": 183.12,
+      "end": 187.94,
+      "text": "Tiga puluh tahun, masih juga terlupa"
+    },
+    {
+      "t": 193.96,
+      "end": 199.24,
+      "text": "Sudip di tangan, Jah tunggu di tangga"
+    },
+    {
+      "t": 201.62,
+      "end": 206.36,
+      "text": "Esok abang lupa lagi, Jah ikut sama"
+    },
+    {
+      "t": 206.36,
+      "end": 206.36,
+      "text": "[Outro - violin and gong, slow ending]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 41.02,
+      "end": 41.02,
+      "text": "[Intro - solo violin, short ornamented phrase]"
+    },
+    {
+      "t": 41.02,
+      "end": 41.02,
+      "text": "[Verse 1 - Female]"
+    },
+    {
+      "t": 41.02,
+      "end": 46.18,
+      "text": "Pergi ke Jonker membeli tembikar"
+    },
+    {
+      "t": 47.86,
+      "end": 52.7,
+      "text": "Singgah sebentar di Bukit Cina"
+    },
+    {
+      "t": 55.12,
+      "end": 59.04,
+      "text": "Santan dah perah, api dah besar"
+    },
+    {
+      "t": 59.12,
+      "end": 63.47,
+      "text": "Gula Melaka, abang, mana?"
+    },
+    {
+      "t": 68.67,
+      "end": 68.67,
+      "text": "[Verse 2 - Male]"
+    },
+    {
+      "t": 68.67,
+      "end": 72.91,
+      "text": "Anak ikan di Sungai Melaka"
+    },
+    {
+      "t": 74.55,
+      "end": 80.37,
+      "text": "Berenang jauh ke Pulau Besar"
+    },
+    {
+      "t": 83.95,
+      "end": 87.23,
+      "text": "Abang terlupa, bukan sengaja"
+    },
+    {
+      "t": 87.25,
+      "end": 95.97,
+      "text": "Terleka berbual di tepi pasar"
+    },
+    {
+      "t": 95.99,
+      "end": 95.99,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 95.99,
+      "end": 103.77,
+      "text": "Gula Melaka, oh gula Melaka"
+    },
+    {
+      "t": 105.21,
+      "end": 122.93,
+      "text": "Tiga puluh tahun, masih juga terlupa"
+    },
+    {
+      "t": 122.99,
+      "end": 129.35,
+      "text": "Sudip di tangan, Jah tunggu di tangga"
+    },
+    {
+      "t": 129.37,
+      "end": 137.59,
+      "text": "Abang balik bawa cucur, bukan gula"
+    },
+    {
+      "t": 137.75,
+      "end": 137.75,
+      "text": "[Verse 3 - Male]"
+    },
+    {
+      "t": 137.75,
+      "end": 141.47,
+      "text": "Pokok kelapa di Tanjung Kling"
+    },
+    {
+      "t": 141.57,
+      "end": 147.41,
+      "text": "Daunnya melambai ditiup bayu"
+    },
+    {
+      "t": 147.41,
+      "end": 151.07,
+      "text": "Abang ke kedai, motor dah pusing"
+    },
+    {
+      "t": 151.17,
+      "end": 157.47,
+      "text": "Bawa gula, bawa bunga, Jah tersipu malu"
+    },
+    {
+      "t": 157.47,
+      "end": 157.47,
+      "text": "[Bridge - violin alone, then the female voice, softer]"
+    },
+    {
+      "t": 157.47,
+      "end": 160.35,
+      "text": "Bunga melur di dalam pasu"
+    },
+    {
+      "t": 160.35,
+      "end": 161.33,
+      "text": "Disiram pagi, harum ke senja"
+    },
+    {
+      "t": 165.13,
+      "end": 169.75,
+      "text": "Tiga puluh tahun Jah dah tahu"
+    },
+    {
+      "t": 169.75,
+      "end": 174.21,
+      "text": "Abang lupa memang sengaja"
+    },
+    {
+      "t": 176.23,
+      "end": 176.23,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 176.23,
+      "end": 181.48,
+      "text": "Gula Melaka, oh gula Melaka"
+    },
+    {
+      "t": 183.12,
+      "end": 187.92,
+      "text": "Tiga puluh tahun, masih juga terlupa"
+    },
+    {
+      "t": 193.96,
+      "end": 199.24,
+      "text": "Sudip di tangan, Jah tunggu di tangga"
+    },
+    {
+      "t": 201.62,
+      "end": 216.32,
+      "text": "Esok abang lupa lagi, Jah ikut sama"
+    },
+    {
+      "t": 216.32,
+      "end": 216.32,
+      "text": "[Outro - violin and gong, slow ending]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

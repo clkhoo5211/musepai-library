@@ -1,0 +1,489 @@
+{
+  "id": "b6_ja09",
+  "title": "透明な傘",
+  "title_source": "scripted",
+  "genre": "visual kei",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "melodramatically betrayed over something small",
+  "persona": "",
+  "subject": "someone taking your clear plastic umbrella from the stand outside a convenience store on a rainy night",
+  "caption": "Japanese visual kei rock, gothic rock with a speed-metal drive, theatrical. A short harpsichord intro, drop-tuned twin electric guitars switching between chorus-drenched clean arpeggios and fast tremolo-picked heavy riffs, a driving eighth-note bass, double-kick drums with hard unison stops, gothic synth pads under the chorus. Dark and dense but clear, the guitars wide, the voice forward with a long hall reverb only on the held notes. Male lead voice, theatrical, moving from a low dark croon in the verses to a high falsetto in the chorus with heavy vibrato, with one short harsh scream in the bridge. 168 BPM, B minor. Melodramatically betrayed over something small. No rapping, no autotune, no pop-punk chorus, no acoustic guitar, no EDM drop, no djent chugs, no blast beats, no choir.",
+  "lyrics": "[Intro - harpsichord, then guitars crash in]\n\n[Verse 1]\n午後十一時 雨 コンビニの前\n傘立てに置いた 透明な 私の傘\n取っ手に貼った 小さな 薔薇のシール\nレジで 肉まんを待つ 四十秒\n\n[Pre-Chorus]\n自動ドアが 開いた その時\n残っていたのは 知らない傘 三本\n\n[Chorus]\nああ 誰が 連れ去った\n五百円の 透明な 恋人\n同じ顔した 傘なら そこに三本\nなぜ 薔薇の付いた 私のを\n\n[Verse 2]\n濡れて歩く 肉まんを 胸に抱いて\n信号の赤が 血の色に見える\n他人の傘は 取らない それが私の美学\nたとえ 三本 余っていても\n\n[Chorus]\nああ 誰が 連れ去った\n五百円の 透明な 恋人\n同じ顔した 傘なら そこに三本\n罪を知れ 薔薇は あなたを 覚えてる\n\n[Bridge - one scream, then clean arpeggio]\n返せ!\n明日 また 五百円で 買う\n\n[Outro - harpsichord alone]\n次は 名前を書く\n油性ペンで",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "B minor",
+    "timesignature": "4",
+    "prompt": "Japanese visual kei rock, gothic rock with a speed-metal drive, theatrical. A short harpsichord intro, drop-tuned twin electric guitars switching between chorus-drenched clean arpeggios and fast tremolo-picked heavy riffs, a driving eighth-note bass, double-kick drums with hard unison stops, gothic synth pads under the chorus. Dark and dense but clear, the guitars wide, the voice forward with a long hall reverb only on the held notes. Male lead voice, theatrical, moving from a low dark croon in the verses to a high falsetto in the chorus with heavy vibrato, with one short harsh scream in the bridge. 168 BPM, B minor. Melodramatically betrayed over something small. No rapping, no autotune, no pop-punk chorus, no acoustic guitar, no EDM drop, no djent chugs, no blast beats, no choir.",
+    "lyrics": "[Intro - harpsichord, then guitars crash in]\n\n[Verse 1]\n午後十一時 雨 コンビニの前\n傘立てに置いた 透明な 私の傘\n取っ手に貼った 小さな 薔薇のシール\nレジで 肉まんを待つ 四十秒\n\n[Pre-Chorus]\n自動ドアが 開いた その時\n残っていたのは 知らない傘 三本\n\n[Chorus]\nああ 誰が 連れ去った\n五百円の 透明な 恋人\n同じ顔した 傘なら そこに三本\nなぜ 薔薇の付いた 私のを\n\n[Verse 2]\n濡れて歩く 肉まんを 胸に抱いて\n信号の赤が 血の色に見える\n他人の傘は 取らない それが私の美学\nたとえ 三本 余っていても\n\n[Chorus]\nああ 誰が 連れ去った\n五百円の 透明な 恋人\n同じ顔した 傘なら そこに三本\n罪を知れ 薔薇は あなたを 覚えてる\n\n[Bridge - one scream, then clean arpeggio]\n返せ!\n明日 また 五百円で 買う\n\n[Outro - harpsichord alone]\n次は 名前を書く\n油性ペンで"
+  },
+  "seed": "542686562",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 121.42s**\n- 121.42s per song\n- LM phase (1 song): 21.70s\n- DiT phase (1 song): 99.72s",
+  "task_id": "1c0ab703-c5db-4c08-9b90-1b36fecfe9f4",
+  "elapsed_s": 160.6,
+  "generated_at": "2026-10-09T23:25:17.046366+08:00",
+  "audio": "b6_ja09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.26,
+      "end": 30.26,
+      "text": "[Intro - harpsichord, then guitars crash in]"
+    },
+    {
+      "t": 30.26,
+      "end": 30.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.26,
+      "end": 49.78,
+      "text": "午後十一時 雨 コンビニの前"
+    },
+    {
+      "t": 50.02,
+      "end": 52.02,
+      "text": "傘立てに置いた 透明な 私の傘"
+    },
+    {
+      "t": 54.51,
+      "end": 57.91,
+      "text": "取っ手に貼った 小さな 薔薇のシール"
+    },
+    {
+      "t": 58.01,
+      "end": 60.53,
+      "text": "レジで 肉まんを待つ 四十秒"
+    },
+    {
+      "t": 60.67,
+      "end": 60.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.67,
+      "end": 62.49,
+      "text": "自動ドアが 開いた その時"
+    },
+    {
+      "t": 62.59,
+      "end": 66.31,
+      "text": "残っていたのは 知らない傘 三本"
+    },
+    {
+      "t": 66.33,
+      "end": 66.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.33,
+      "end": 67.71,
+      "text": "ああ 誰が 連れ去った"
+    },
+    {
+      "t": 68.09,
+      "end": 77.51,
+      "text": "五百円の 透明な 恋人"
+    },
+    {
+      "t": 77.57,
+      "end": 80.67,
+      "text": "同じ顔した 傘なら そこに三本"
+    },
+    {
+      "t": 80.77,
+      "end": 84.93,
+      "text": "なぜ 薔薇の付いた 私のを"
+    },
+    {
+      "t": 85.07,
+      "end": 85.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.07,
+      "end": 93.23,
+      "text": "濡れて歩く 肉まんを 胸に抱いて"
+    },
+    {
+      "t": 93.31,
+      "end": 96.07,
+      "text": "信号の赤が 血の色に見える"
+    },
+    {
+      "t": 96.11,
+      "end": 105.85,
+      "text": "他人の傘は 取らない それが私の美学"
+    },
+    {
+      "t": 106.31,
+      "end": 109.99,
+      "text": "たとえ 三本 余っていても"
+    },
+    {
+      "t": 110.15,
+      "end": 110.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.15,
+      "end": 113.73,
+      "text": "ああ 誰が 連れ去った"
+    },
+    {
+      "t": 113.97,
+      "end": 116.65,
+      "text": "五百円の 透明な 恋人"
+    },
+    {
+      "t": 117.03,
+      "end": 124.93,
+      "text": "同じ顔した 傘なら そこに三本"
+    },
+    {
+      "t": 125.19,
+      "end": 136.87,
+      "text": "罪を知れ 薔薇は あなたを 覚えてる"
+    },
+    {
+      "t": 141.65,
+      "end": 141.65,
+      "text": "[Bridge - one scream, then clean arpeggio]"
+    },
+    {
+      "t": 141.65,
+      "end": 142.51,
+      "text": "返せ!"
+    },
+    {
+      "t": 147.19,
+      "end": 165.02,
+      "text": "明日 また 五百円で 買う"
+    },
+    {
+      "t": 165.08,
+      "end": 165.08,
+      "text": "[Outro - harpsichord alone]"
+    },
+    {
+      "t": 165.08,
+      "end": 169.32,
+      "text": "次は 名前を書く"
+    },
+    {
+      "t": 175.76,
+      "end": 191.24,
+      "text": "油性ペンで"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.26,
+      "end": 30.26,
+      "text": "[Intro - harpsichord, then guitars crash in]"
+    },
+    {
+      "t": 30.26,
+      "end": 30.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.26,
+      "end": 49.78,
+      "text": "午後十一時 雨 コンビニの前"
+    },
+    {
+      "t": 50.02,
+      "end": 52.02,
+      "text": "傘立てに置いた 透明な 私の傘"
+    },
+    {
+      "t": 54.51,
+      "end": 57.91,
+      "text": "取っ手に貼った 小さな 薔薇のシール"
+    },
+    {
+      "t": 58.01,
+      "end": 60.53,
+      "text": "レジで 肉まんを待つ 四十秒"
+    },
+    {
+      "t": 60.67,
+      "end": 60.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.67,
+      "end": 62.49,
+      "text": "自動ドアが 開いた その時"
+    },
+    {
+      "t": 62.59,
+      "end": 66.31,
+      "text": "残っていたのは 知らない傘 三本"
+    },
+    {
+      "t": 66.33,
+      "end": 66.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.33,
+      "end": 67.71,
+      "text": "ああ 誰が 連れ去った"
+    },
+    {
+      "t": 68.09,
+      "end": 77.51,
+      "text": "五百円の 透明な 恋人"
+    },
+    {
+      "t": 77.57,
+      "end": 80.67,
+      "text": "同じ顔した 傘なら そこに三本"
+    },
+    {
+      "t": 80.77,
+      "end": 84.93,
+      "text": "なぜ 薔薇の付いた 私のを"
+    },
+    {
+      "t": 85.07,
+      "end": 85.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.07,
+      "end": 93.23,
+      "text": "濡れて歩く 肉まんを 胸に抱いて"
+    },
+    {
+      "t": 93.31,
+      "end": 96.07,
+      "text": "信号の赤が 血の色に見える"
+    },
+    {
+      "t": 96.11,
+      "end": 105.85,
+      "text": "他人の傘は 取らない それが私の美学"
+    },
+    {
+      "t": 106.31,
+      "end": 109.99,
+      "text": "たとえ 三本 余っていても"
+    },
+    {
+      "t": 110.15,
+      "end": 110.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.15,
+      "end": 113.73,
+      "text": "ああ 誰が 連れ去った"
+    },
+    {
+      "t": 113.97,
+      "end": 116.65,
+      "text": "五百円の 透明な 恋人"
+    },
+    {
+      "t": 117.03,
+      "end": 124.93,
+      "text": "同じ顔した 傘なら そこに三本"
+    },
+    {
+      "t": 125.19,
+      "end": 136.87,
+      "text": "罪を知れ 薔薇は あなたを 覚えてる"
+    },
+    {
+      "t": 141.65,
+      "end": 141.65,
+      "text": "[Bridge - one scream, then clean arpeggio]"
+    },
+    {
+      "t": 141.65,
+      "end": 142.51,
+      "text": "返せ!"
+    },
+    {
+      "t": 147.19,
+      "end": 165.02,
+      "text": "明日 また 五百円で 買う"
+    },
+    {
+      "t": 165.08,
+      "end": 165.08,
+      "text": "[Outro - harpsichord alone]"
+    },
+    {
+      "t": 165.08,
+      "end": 169.32,
+      "text": "次は 名前を書く"
+    },
+    {
+      "t": 175.76,
+      "end": 191.24,
+      "text": "油性ペンで"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.16,
+      "end": 29.16,
+      "text": "[Intro - harpsichord, then guitars crash in]"
+    },
+    {
+      "t": 29.16,
+      "end": 29.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.16,
+      "end": 49.72,
+      "text": "午後十一時 雨 コンビニの前"
+    },
+    {
+      "t": 50.02,
+      "end": 52.02,
+      "text": "傘立てに置いた 透明な 私の傘"
+    },
+    {
+      "t": 54.53,
+      "end": 57.75,
+      "text": "取っ手に貼った 小さな 薔薇のシール"
+    },
+    {
+      "t": 57.79,
+      "end": 61.61,
+      "text": "レジで 肉まんを待つ 四十秒"
+    },
+    {
+      "t": 61.81,
+      "end": 61.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.81,
+      "end": 64.69,
+      "text": "自動ドアが 開いた その時"
+    },
+    {
+      "t": 64.91,
+      "end": 68.65,
+      "text": "残っていたのは 知らない傘 三本"
+    },
+    {
+      "t": 68.73,
+      "end": 68.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.73,
+      "end": 79.31,
+      "text": "ああ 誰が 連れ去った"
+    },
+    {
+      "t": 79.69,
+      "end": 84.73,
+      "text": "五百円の 透明な 恋人"
+    },
+    {
+      "t": 85.07,
+      "end": 92.33,
+      "text": "同じ顔した 傘なら そこに三本"
+    },
+    {
+      "t": 92.35,
+      "end": 95.99,
+      "text": "なぜ 薔薇の付いた 私のを"
+    },
+    {
+      "t": 95.99,
+      "end": 95.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.99,
+      "end": 105.87,
+      "text": "濡れて歩く 肉まんを 胸に抱いて"
+    },
+    {
+      "t": 105.93,
+      "end": 109.75,
+      "text": "信号の赤が 血の色に見える"
+    },
+    {
+      "t": 110.07,
+      "end": 114.13,
+      "text": "他人の傘は 取らない それが私の美学"
+    },
+    {
+      "t": 114.51,
+      "end": 117.13,
+      "text": "たとえ 三本 余っていても"
+    },
+    {
+      "t": 117.83,
+      "end": 117.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.83,
+      "end": 132.53,
+      "text": "ああ 誰が 連れ去った"
+    },
+    {
+      "t": 133.47,
+      "end": 136.17,
+      "text": "五百円の 透明な 恋人"
+    },
+    {
+      "t": 136.33,
+      "end": 148.25,
+      "text": "同じ顔した 傘なら そこに三本"
+    },
+    {
+      "t": 151.89,
+      "end": 169.32,
+      "text": "罪を知れ 薔薇は あなたを 覚えてる"
+    },
+    {
+      "t": 173.6,
+      "end": 173.6,
+      "text": "[Bridge - one scream, then clean arpeggio]"
+    },
+    {
+      "t": 173.6,
+      "end": 173.88,
+      "text": "返せ!"
+    },
+    {
+      "t": 173.98,
+      "end": 175.48,
+      "text": "明日 また 五百円で 買う"
+    },
+    {
+      "t": 175.74,
+      "end": 175.74,
+      "text": "[Outro - harpsichord alone]"
+    },
+    {
+      "t": 175.74,
+      "end": 183.72,
+      "text": "次は 名前を書く"
+    },
+    {
+      "t": 184.18,
+      "end": 207.62,
+      "text": "油性ペンで"
+    }
+  ]
+}

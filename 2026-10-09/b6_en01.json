@@ -1,0 +1,337 @@
+{
+  "id": "b6_en01",
+  "title": "It's Green, It's Got A Hood",
+  "title_source": "scripted",
+  "genre": "tech house",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tipsy and dead serious about a coat",
+  "persona": "",
+  "subject": "describing your lost coat to the cloakroom attendant at four in the morning without your ticket",
+  "caption": "Tech house in the current US club style. A dry punchy 909 kick on every beat, sidechained against a mono sub; a dry 909 clap on two and four; a rubbery filter-envelope synth bassline that bends up at the end of each bar and carries the hook; rolling off-beat open hi-hats with swung sixteenth shakers and rimshot ticks; one short minor chord stab every two bars; a snare roll and white-noise riser into a filtered breakdown before the last hook. Dry and tight, narrow low end with the kick and bass forward, hats wide, almost no reverb. Male voice, low and deadpan, half-spoken in the verses and repeating one short half-sung line as the hook, a single live singer with no effects. 126 BPM, G minor. Tipsy and dead serious about a coat. No big sung pop chorus, no trance supersaw, no trap hi-hats, no autotune, no afro percussion.",
+  "lyrics": "[Intro - short, 909 kick and rubbery bassline]\n\n[Verse 1]\nFour a.m. at the cloakroom and I've got no ticket\nI had it in my hand, and then I had a mojito\nThe man behind the counter has a thousand coats\nHe says \"describe it\", so I lean in close\n\n[Pre-Chorus]\nI say listen, listen\nIt's not complicated\n\n[Chorus]\nIt's green, it's got a hood\nIt's green, it's got a hood\nLeft pocket, half a Twix and a dry-cleaning tag\nIt's green, it's got a hood\n\n[Verse 2]\nHe holds up something green, I say no, that's moss\nHe holds up something with a hood, I say that's beige\nThere's a queue behind me now and they're getting into it\nA girl in silver shouts \"is the hood fur, though?\"\n\n[Pre-Chorus]\nThe hood is not fur\nThe hood is the hood\n\n[Chorus]\nIt's green, it's got a hood\nIt's green, it's got a hood\nHe's gone into the back with a torch for me\nThat's it, that's my coat, it's green, it's got a hood\n\n[Outro - bassline alone, kick drops out]\nTicket was in the hood the whole time\nDon't tell him",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Tech house in the current US club style. A dry punchy 909 kick on every beat, sidechained against a mono sub; a dry 909 clap on two and four; a rubbery filter-envelope synth bassline that bends up at the end of each bar and carries the hook; rolling off-beat open hi-hats with swung sixteenth shakers and rimshot ticks; one short minor chord stab every two bars; a snare roll and white-noise riser into a filtered breakdown before the last hook. Dry and tight, narrow low end with the kick and bass forward, hats wide, almost no reverb. Male voice, low and deadpan, half-spoken in the verses and repeating one short half-sung line as the hook, a single live singer with no effects. 126 BPM, G minor. Tipsy and dead serious about a coat. No big sung pop chorus, no trance supersaw, no trap hi-hats, no autotune, no afro percussion.",
+    "lyrics": "[Intro - short, 909 kick and rubbery bassline]\n\n[Verse 1]\nFour a.m. at the cloakroom and I've got no ticket\nI had it in my hand, and then I had a mojito\nThe man behind the counter has a thousand coats\nHe says \"describe it\", so I lean in close\n\n[Pre-Chorus]\nI say listen, listen\nIt's not complicated\n\n[Chorus]\nIt's green, it's got a hood\nIt's green, it's got a hood\nLeft pocket, half a Twix and a dry-cleaning tag\nIt's green, it's got a hood\n\n[Verse 2]\nHe holds up something green, I say no, that's moss\nHe holds up something with a hood, I say that's beige\nThere's a queue behind me now and they're getting into it\nA girl in silver shouts \"is the hood fur, though?\"\n\n[Pre-Chorus]\nThe hood is not fur\nThe hood is the hood\n\n[Chorus]\nIt's green, it's got a hood\nIt's green, it's got a hood\nHe's gone into the back with a torch for me\nThat's it, that's my coat, it's green, it's got a hood\n\n[Outro - bassline alone, kick drops out]\nTicket was in the hood the whole time\nDon't tell him"
+  },
+  "seed": "3876662874",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 103.30s**\n- 103.30s per song\n- LM phase (1 song): 23.83s\n- DiT phase (1 song): 79.47s",
+  "task_id": "737ce8b2-8994-4366-b56c-3baaa548eecf",
+  "elapsed_s": 140.6,
+  "generated_at": "2026-10-09T22:19:22.162576+08:00",
+  "audio": "b6_en01.mp3",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.8,
+      "end": 31.8,
+      "text": "[Intro - short, 909 kick and rubbery bassline]"
+    },
+    {
+      "t": 31.8,
+      "end": 31.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.8,
+      "end": 37.6,
+      "text": "Four a.m. at the cloakroom and I've got no ticket"
+    },
+    {
+      "t": 38.84,
+      "end": 44.14,
+      "text": "I had it in my hand, and then I had a mojito"
+    },
+    {
+      "t": 46.38,
+      "end": 52.05,
+      "text": "The man behind the counter has a thousand coats"
+    },
+    {
+      "t": 53.95,
+      "end": 57.85,
+      "text": "He says \"describe it\", so I lean in close"
+    },
+    {
+      "t": 57.93,
+      "end": 57.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.93,
+      "end": 58.73,
+      "text": "I say listen, listen"
+    },
+    {
+      "t": 58.73,
+      "end": 62.05,
+      "text": "It's not complicated"
+    },
+    {
+      "t": 62.07,
+      "end": 62.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.07,
+      "end": 62.91,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 62.91,
+      "end": 83.85,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 83.87,
+      "end": 86.55,
+      "text": "Left pocket, half a Twix and a dry-cleaning tag"
+    },
+    {
+      "t": 86.55,
+      "end": 87.49,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 87.49,
+      "end": 87.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.49,
+      "end": 90.51,
+      "text": "He holds up something green, I say no, that's moss"
+    },
+    {
+      "t": 90.51,
+      "end": 97.87,
+      "text": "He holds up something with a hood, I say that's beige"
+    },
+    {
+      "t": 97.87,
+      "end": 103.07,
+      "text": "There's a queue behind me now and they're getting into it"
+    },
+    {
+      "t": 105.51,
+      "end": 110.27,
+      "text": "A girl in silver shouts \"is the hood fur, though?\""
+    },
+    {
+      "t": 110.27,
+      "end": 110.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.27,
+      "end": 114.89,
+      "text": "The hood is not fur"
+    },
+    {
+      "t": 114.89,
+      "end": 117.13,
+      "text": "The hood is the hood"
+    },
+    {
+      "t": 117.17,
+      "end": 117.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.17,
+      "end": 124.69,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 124.73,
+      "end": 127.13,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 127.15,
+      "end": 144.75,
+      "text": "He's gone into the back with a torch for me"
+    },
+    {
+      "t": 144.83,
+      "end": 152.98,
+      "text": "That's it, that's my coat, it's green, it's got a hood"
+    },
+    {
+      "t": 152.98,
+      "end": 152.98,
+      "text": "[Outro - bassline alone, kick drops out]"
+    },
+    {
+      "t": 152.98,
+      "end": 179.74,
+      "text": "Ticket was in the hood the whole time"
+    },
+    {
+      "t": 179.76,
+      "end": 189.46,
+      "text": "Don't tell him"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed": [
+    {
+      "t": 4.6,
+      "end": 4.6,
+      "text": "[Intro - short, 909 kick and rubbery bassline]"
+    },
+    {
+      "t": 4.6,
+      "end": 4.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.6,
+      "end": 37.54,
+      "text": "Four a.m. at the cloakroom and I've got no ticket"
+    },
+    {
+      "t": 38.82,
+      "end": 44.14,
+      "text": "I had it in my hand, and then I had a mojito"
+    },
+    {
+      "t": 46.38,
+      "end": 52.07,
+      "text": "The man behind the counter has a thousand coats"
+    },
+    {
+      "t": 53.97,
+      "end": 57.11,
+      "text": "He says \"describe it\", so I lean in close"
+    },
+    {
+      "t": 57.19,
+      "end": 57.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.19,
+      "end": 58.65,
+      "text": "I say listen, listen"
+    },
+    {
+      "t": 58.67,
+      "end": 62.61,
+      "text": "It's not complicated"
+    },
+    {
+      "t": 62.67,
+      "end": 62.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.67,
+      "end": 66.47,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 66.47,
+      "end": 70.57,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 70.57,
+      "end": 78.19,
+      "text": "Left pocket, half a Twix and a dry-cleaning tag"
+    },
+    {
+      "t": 80.51,
+      "end": 84.39,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 84.39,
+      "end": 84.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.39,
+      "end": 87.53,
+      "text": "He holds up something green, I say no, that's moss"
+    },
+    {
+      "t": 87.53,
+      "end": 91.45,
+      "text": "He holds up something with a hood, I say that's beige"
+    },
+    {
+      "t": 97.59,
+      "end": 105.47,
+      "text": "There's a queue behind me now and they're getting into it"
+    },
+    {
+      "t": 105.51,
+      "end": 110.17,
+      "text": "A girl in silver shouts \"is the hood fur, though?\""
+    },
+    {
+      "t": 110.23,
+      "end": 110.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.23,
+      "end": 114.57,
+      "text": "The hood is not fur"
+    },
+    {
+      "t": 115.45,
+      "end": 118.29,
+      "text": "The hood is the hood"
+    },
+    {
+      "t": 120.73,
+      "end": 120.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.73,
+      "end": 123.43,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 123.59,
+      "end": 126.41,
+      "text": "It's green, it's got a hood"
+    },
+    {
+      "t": 126.43,
+      "end": 147.63,
+      "text": "He's gone into the back with a torch for me"
+    },
+    {
+      "t": 150.14,
+      "end": 175.46,
+      "text": "That's it, that's my coat, it's green, it's got a hood"
+    },
+    {
+      "t": 175.7,
+      "end": 175.7,
+      "text": "[Outro - bassline alone, kick drops out]"
+    },
+    {
+      "t": 175.7,
+      "end": 187.72,
+      "text": "Ticket was in the hood the whole time"
+    },
+    {
+      "t": 190.46,
+      "end": 194.98,
+      "text": "Don't tell him"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

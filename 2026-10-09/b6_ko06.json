@@ -1,0 +1,307 @@
+{
+  "id": "b6_ko06",
+  "title": "대타 염봉구",
+  "title_source": "scripted",
+  "genre": "KBO stadium cheer song",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "a whole stand refusing to give up on one man",
+  "persona": "",
+  "subject": "a whole stand chanting for a pinch hitter who is nought for seventeen this season",
+  "caption": "Korean professional baseball (KBO) stadium cheer song. A stadium brass section of trumpets and trombones plays the fanfare riff in unison. A drum-corps marching snare and big bass drum hit the clap pattern, a driving rock kit plays straight eighths under the chant, and thundersticks and hand claps land on the off-beats, with gaps left for the crowd's answers. Huge open-air stadium sound, brass and drums forward, crowd gang vocals spread wide behind the leader. A male cheerleader shouts the calls in rhythm and a massed crowd answers with the parenthesised lines. 132 BPM, D major. Stubborn, rowdy pride. No ballad section, no solo pop-singer melody, no trap drums, no EDM drop, no autotune.",
+  "lyrics": "[Intro - stadium brass fanfare and marching snare]\n\n[Verse 1]\n팔 회 말 투 아웃, 주자는 이루\n감독이 손짓한다, 대타 나간다\n열일곱 타수 무안타, 타율은 영 할\n그래도 우리는 이름부터 부른다\n\n[Chorus]\n염! 봉! 구! (염봉구!)\n넘겨라 넘겨라 염봉구!\n담장 너머로 넘겨라\n오늘이 그날이다 염봉구!\n\n[Verse 2]\n초구는 헛스윙, 관중석이 조용해\n이구는 볼, 응원단장이 북을 쳐\n삼구째 방망이 중심에서 딱 소리가 나\n외야수가 뒤로 뒤로 계속 뛰어가\n\n[Bridge - drums only, crowd clap pattern]\n짝짝 짝짝짝 (봉구!)\n짝짝 짝짝짝 (봉구!)\n\n[Chorus]\n염! 봉! 구! (염봉구!)\n넘겼다 넘겼다 염봉구!\n담장 너머로 넘겼다\n열여덟 번째에 터졌다 염봉구!\n\n[Outro - brass fanfare]\n홈까지 천천히 걸어 들어와\n오늘은 네 이름 다 같이 부른다",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean professional baseball (KBO) stadium cheer song. A stadium brass section of trumpets and trombones plays the fanfare riff in unison. A drum-corps marching snare and big bass drum hit the clap pattern, a driving rock kit plays straight eighths under the chant, and thundersticks and hand claps land on the off-beats, with gaps left for the crowd's answers. Huge open-air stadium sound, brass and drums forward, crowd gang vocals spread wide behind the leader. A male cheerleader shouts the calls in rhythm and a massed crowd answers with the parenthesised lines. 132 BPM, D major. Stubborn, rowdy pride. No ballad section, no solo pop-singer melody, no trap drums, no EDM drop, no autotune.",
+    "lyrics": "[Intro - stadium brass fanfare and marching snare]\n\n[Verse 1]\n팔 회 말 투 아웃, 주자는 이루\n감독이 손짓한다, 대타 나간다\n열일곱 타수 무안타, 타율은 영 할\n그래도 우리는 이름부터 부른다\n\n[Chorus]\n염! 봉! 구! (염봉구!)\n넘겨라 넘겨라 염봉구!\n담장 너머로 넘겨라\n오늘이 그날이다 염봉구!\n\n[Verse 2]\n초구는 헛스윙, 관중석이 조용해\n이구는 볼, 응원단장이 북을 쳐\n삼구째 방망이 중심에서 딱 소리가 나\n외야수가 뒤로 뒤로 계속 뛰어가\n\n[Bridge - drums only, crowd clap pattern]\n짝짝 짝짝짝 (봉구!)\n짝짝 짝짝짝 (봉구!)\n\n[Chorus]\n염! 봉! 구! (염봉구!)\n넘겼다 넘겼다 염봉구!\n담장 너머로 넘겼다\n열여덟 번째에 터졌다 염봉구!\n\n[Outro - brass fanfare]\n홈까지 천천히 걸어 들어와\n오늘은 네 이름 다 같이 부른다"
+  },
+  "seed": "776882254",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.65s**\n- 56.65s per song\n- LM phase (1 song): 8.50s\n- DiT phase (1 song): 48.15s",
+  "task_id": "d7d3ce9e-56db-43ab-8910-15d26db9ba1d",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-09T21:05:48.086157+08:00",
+  "audio": "b6_ko06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 6.52,
+      "end": 6.52,
+      "text": "[Intro - stadium brass fanfare and marching snare]"
+    },
+    {
+      "t": 6.52,
+      "end": 6.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.52,
+      "end": 46.36,
+      "text": "팔 회 말 투 아웃, 주자는 이루"
+    },
+    {
+      "t": 47.49,
+      "end": 53.93,
+      "text": "감독이 손짓한다, 대타 나간다"
+    },
+    {
+      "t": 58.11,
+      "end": 61.29,
+      "text": "열일곱 타수 무안타, 타율은 영 할"
+    },
+    {
+      "t": 61.89,
+      "end": 68.41,
+      "text": "그래도 우리는 이름부터 부른다"
+    },
+    {
+      "t": 69.17,
+      "end": 69.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.17,
+      "end": 72.01,
+      "text": "염! 봉! 구! (염봉구!)"
+    },
+    {
+      "t": 72.81,
+      "end": 75.63,
+      "text": "넘겨라 넘겨라 염봉구!"
+    },
+    {
+      "t": 76.39,
+      "end": 79.25,
+      "text": "담장 너머로 넘겨라"
+    },
+    {
+      "t": 79.73,
+      "end": 82.43,
+      "text": "오늘이 그날이다 염봉구!"
+    },
+    {
+      "t": 82.53,
+      "end": 82.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.53,
+      "end": 93.07,
+      "text": "초구는 헛스윙, 관중석이 조용해"
+    },
+    {
+      "t": 93.07,
+      "end": 113.37,
+      "text": "이구는 볼, 응원단장이 북을 쳐"
+    },
+    {
+      "t": 113.37,
+      "end": 121.57,
+      "text": "삼구째 방망이 중심에서 딱 소리가 나"
+    },
+    {
+      "t": 121.61,
+      "end": 136.43,
+      "text": "외야수가 뒤로 뒤로 계속 뛰어가"
+    },
+    {
+      "t": 136.55,
+      "end": 136.55,
+      "text": "[Bridge - drums only, crowd clap pattern]"
+    },
+    {
+      "t": 136.55,
+      "end": 140.04,
+      "text": "짝짝 짝짝짝 (봉구!)"
+    },
+    {
+      "t": 141.26,
+      "end": 143.62,
+      "text": "짝짝 짝짝짝 (봉구!)"
+    },
+    {
+      "t": 144.02,
+      "end": 144.02,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.02,
+      "end": 145.22,
+      "text": "염! 봉! 구! (염봉구!)"
+    },
+    {
+      "t": 145.22,
+      "end": 147.66,
+      "text": "넘겼다 넘겼다 염봉구!"
+    },
+    {
+      "t": 147.98,
+      "end": 150.36,
+      "text": "담장 너머로 넘겼다"
+    },
+    {
+      "t": 151.6,
+      "end": 156.64,
+      "text": "열여덟 번째에 터졌다 염봉구!"
+    },
+    {
+      "t": 159.64,
+      "end": 159.64,
+      "text": "[Outro - brass fanfare]"
+    },
+    {
+      "t": 159.64,
+      "end": 162.46,
+      "text": "홈까지 천천히 걸어 들어와"
+    },
+    {
+      "t": 162.86,
+      "end": 166.94,
+      "text": "오늘은 네 이름 다 같이 부른다"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 5.62,
+      "end": 5.62,
+      "text": "[Intro - stadium brass fanfare and marching snare]"
+    },
+    {
+      "t": 5.62,
+      "end": 5.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.62,
+      "end": 46.36,
+      "text": "팔 회 말 투 아웃, 주자는 이루"
+    },
+    {
+      "t": 47.49,
+      "end": 53.93,
+      "text": "감독이 손짓한다, 대타 나간다"
+    },
+    {
+      "t": 58.11,
+      "end": 61.27,
+      "text": "열일곱 타수 무안타, 타율은 영 할"
+    },
+    {
+      "t": 61.87,
+      "end": 68.43,
+      "text": "그래도 우리는 이름부터 부른다"
+    },
+    {
+      "t": 69.17,
+      "end": 69.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.17,
+      "end": 72.01,
+      "text": "염! 봉! 구! (염봉구!)"
+    },
+    {
+      "t": 72.81,
+      "end": 75.61,
+      "text": "넘겨라 넘겨라 염봉구!"
+    },
+    {
+      "t": 76.39,
+      "end": 79.25,
+      "text": "담장 너머로 넘겨라"
+    },
+    {
+      "t": 80.13,
+      "end": 85.15,
+      "text": "오늘이 그날이다 염봉구!"
+    },
+    {
+      "t": 85.69,
+      "end": 85.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.69,
+      "end": 93.07,
+      "text": "초구는 헛스윙, 관중석이 조용해"
+    },
+    {
+      "t": 93.07,
+      "end": 96.65,
+      "text": "이구는 볼, 응원단장이 북을 쳐"
+    },
+    {
+      "t": 97.35,
+      "end": 120.87,
+      "text": "삼구째 방망이 중심에서 딱 소리가 나"
+    },
+    {
+      "t": 120.87,
+      "end": 128.35,
+      "text": "외야수가 뒤로 뒤로 계속 뛰어가"
+    },
+    {
+      "t": 137.65,
+      "end": 137.65,
+      "text": "[Bridge - drums only, crowd clap pattern]"
+    },
+    {
+      "t": 137.65,
+      "end": 140.04,
+      "text": "짝짝 짝짝짝 (봉구!)"
+    },
+    {
+      "t": 140.2,
+      "end": 144.86,
+      "text": "짝짝 짝짝짝 (봉구!)"
+    },
+    {
+      "t": 144.86,
+      "end": 144.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.86,
+      "end": 145.68,
+      "text": "염! 봉! 구! (염봉구!)"
+    },
+    {
+      "t": 145.68,
+      "end": 147.64,
+      "text": "넘겼다 넘겼다 염봉구!"
+    },
+    {
+      "t": 147.98,
+      "end": 150.36,
+      "text": "담장 너머로 넘겼다"
+    },
+    {
+      "t": 151.56,
+      "end": 156.64,
+      "text": "열여덟 번째에 터졌다 염봉구!"
+    },
+    {
+      "t": 159.62,
+      "end": 159.62,
+      "text": "[Outro - brass fanfare]"
+    },
+    {
+      "t": 159.62,
+      "end": 162.46,
+      "text": "홈까지 천천히 걸어 들어와"
+    },
+    {
+      "t": 162.86,
+      "end": 166.96,
+      "text": "오늘은 네 이름 다 같이 부른다"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

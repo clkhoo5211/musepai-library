@@ -1,0 +1,287 @@
+{
+  "id": "b6_id08",
+  "title": "Foto KTP",
+  "title_source": "scripted",
+  "genre": "retro swing jazz-pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "playful outrage",
+  "persona": "",
+  "subject": "begging the clerk at the subdistrict office to retake an ID card photo snapped mid-sneeze",
+  "caption": "Retro swing jazz-pop in the style of 1950s Indonesian radio bands. Upright bass walking quarter notes, brushes on the snare with a swung ride cymbal, piano comping with a stride left hand, a muted trumpet obbligato answering the vocal, and a clarinet doubling the melody on the last chorus. Dry room sound with a small band playing close together; the first bars are band-limited like an old radio before the full band opens up. Crisp, playful female lead with witty, slightly old-fashioned phrasing, and close-harmony female backing singing the answers on the chorus. 168 BPM, F major. Playful outrage. No modern pop drums, no synths, no autotune, no bossa nova groove, no rock guitar.",
+  "lyrics": "[Intro - radio-filtered piano and brushes, then the full band]\n\n[Verse 1]\nKantor kecamatan, nomor antrean seratus tiga\nAku datang pakai bedak dan lipstik paling merah\nPak petugas bilang, \"Lihat ke kamera, Bu\"\nLalu dia jepret pas aku sedang bersin\n\n[Chorus - backing answers]\nFoto KTP, oh, foto KTP (Foto KTP!)\nMataku terpejam, mulutku entah ke mana\nSeumur hidup aku bawa muka ini\nTolong, Pak, sekali lagi saja (Sekali lagi!)\n\n[Verse 2]\nKatanya sistemnya sudah terkunci\nAku bilang biasanya wajahku lebih rapi\nDia keluarkan dompet, tunjukkan KTP-nya sendiri\nRupanya dia difoto waktu menguap\n\n[Instrumental Break - muted trumpet solo over walking bass]\n\n[Chorus - backing answers, clarinet doubles]\nFoto KTP, oh, foto KTP (Foto KTP!)\nMatanya setengah terpejam, mataku juga\nSeumur hidup kami bawa muka begini\nYa sudah, Pak, cetak saja (Cetak saja!)\n\n[Outro - stride piano tag]\nKalau ada yang tanya, itu bukan aku\nItu aku, hari Selasa, waktu bersin",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Retro swing jazz-pop in the style of 1950s Indonesian radio bands. Upright bass walking quarter notes, brushes on the snare with a swung ride cymbal, piano comping with a stride left hand, a muted trumpet obbligato answering the vocal, and a clarinet doubling the melody on the last chorus. Dry room sound with a small band playing close together; the first bars are band-limited like an old radio before the full band opens up. Crisp, playful female lead with witty, slightly old-fashioned phrasing, and close-harmony female backing singing the answers on the chorus. 168 BPM, F major. Playful outrage. No modern pop drums, no synths, no autotune, no bossa nova groove, no rock guitar.",
+    "lyrics": "[Intro - radio-filtered piano and brushes, then the full band]\n\n[Verse 1]\nKantor kecamatan, nomor antrean seratus tiga\nAku datang pakai bedak dan lipstik paling merah\nPak petugas bilang, \"Lihat ke kamera, Bu\"\nLalu dia jepret pas aku sedang bersin\n\n[Chorus - backing answers]\nFoto KTP, oh, foto KTP (Foto KTP!)\nMataku terpejam, mulutku entah ke mana\nSeumur hidup aku bawa muka ini\nTolong, Pak, sekali lagi saja (Sekali lagi!)\n\n[Verse 2]\nKatanya sistemnya sudah terkunci\nAku bilang biasanya wajahku lebih rapi\nDia keluarkan dompet, tunjukkan KTP-nya sendiri\nRupanya dia difoto waktu menguap\n\n[Instrumental Break - muted trumpet solo over walking bass]\n\n[Chorus - backing answers, clarinet doubles]\nFoto KTP, oh, foto KTP (Foto KTP!)\nMatanya setengah terpejam, mataku juga\nSeumur hidup kami bawa muka begini\nYa sudah, Pak, cetak saja (Cetak saja!)\n\n[Outro - stride piano tag]\nKalau ada yang tanya, itu bukan aku\nItu aku, hari Selasa, waktu bersin"
+  },
+  "seed": "968483649",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.60s**\n- 60.60s per song\n- LM phase (1 song): 12.66s\n- DiT phase (1 song): 47.95s",
+  "task_id": "b65baee3-ac43-4a30-bebc-61a878e63899",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-09T21:37:52.356619+08:00",
+  "audio": "b6_id08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.28,
+      "end": 25.28,
+      "text": "[Intro - radio-filtered piano and brushes, then the full band]"
+    },
+    {
+      "t": 25.28,
+      "end": 25.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.28,
+      "end": 29.74,
+      "text": "Kantor kecamatan, nomor antrean seratus tiga"
+    },
+    {
+      "t": 31.04,
+      "end": 35.52,
+      "text": "Aku datang pakai bedak dan lipstik paling merah"
+    },
+    {
+      "t": 36.66,
+      "end": 40.86,
+      "text": "Pak petugas bilang, \"Lihat ke kamera, Bu\""
+    },
+    {
+      "t": 42.32,
+      "end": 49.11,
+      "text": "Lalu dia jepret pas aku sedang bersin"
+    },
+    {
+      "t": 52.87,
+      "end": 52.87,
+      "text": "[Chorus - backing answers]"
+    },
+    {
+      "t": 52.87,
+      "end": 56.43,
+      "text": "Foto KTP, oh, foto KTP (Foto KTP!)"
+    },
+    {
+      "t": 56.47,
+      "end": 59.53,
+      "text": "Mataku terpejam, mulutku entah ke mana"
+    },
+    {
+      "t": 60.27,
+      "end": 63.11,
+      "text": "Seumur hidup aku bawa muka ini"
+    },
+    {
+      "t": 66.29,
+      "end": 75.57,
+      "text": "Tolong, Pak, sekali lagi saja (Sekali lagi!)"
+    },
+    {
+      "t": 76.17,
+      "end": 76.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.17,
+      "end": 79.89,
+      "text": "Katanya sistemnya sudah terkunci"
+    },
+    {
+      "t": 81.61,
+      "end": 85.61,
+      "text": "Aku bilang biasanya wajahku lebih rapi"
+    },
+    {
+      "t": 87.27,
+      "end": 91.17,
+      "text": "Dia keluarkan dompet, tunjukkan KTP-nya sendiri"
+    },
+    {
+      "t": 91.55,
+      "end": 97.15,
+      "text": "Rupanya dia difoto waktu menguap"
+    },
+    {
+      "t": 97.21,
+      "end": 97.21,
+      "text": "[Instrumental Break - muted trumpet solo over walking bass]"
+    },
+    {
+      "t": 97.21,
+      "end": 97.21,
+      "text": "[Chorus - backing answers, clarinet doubles]"
+    },
+    {
+      "t": 97.21,
+      "end": 145.16,
+      "text": "Foto KTP, oh, foto KTP (Foto KTP!)"
+    },
+    {
+      "t": 145.16,
+      "end": 148.84,
+      "text": "Matanya setengah terpejam, mataku juga"
+    },
+    {
+      "t": 150.94,
+      "end": 154.64,
+      "text": "Seumur hidup kami bawa muka begini"
+    },
+    {
+      "t": 156.62,
+      "end": 162.8,
+      "text": "Ya sudah, Pak, cetak saja (Cetak saja!)"
+    },
+    {
+      "t": 165.16,
+      "end": 165.16,
+      "text": "[Outro - stride piano tag]"
+    },
+    {
+      "t": 165.16,
+      "end": 169.4,
+      "text": "Kalau ada yang tanya, itu bukan aku"
+    },
+    {
+      "t": 173.8,
+      "end": 181.58,
+      "text": "Itu aku, hari Selasa, waktu bersin"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.28,
+      "end": 25.28,
+      "text": "[Intro - radio-filtered piano and brushes, then the full band]"
+    },
+    {
+      "t": 25.28,
+      "end": 25.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.28,
+      "end": 29.72,
+      "text": "Kantor kecamatan, nomor antrean seratus tiga"
+    },
+    {
+      "t": 31.04,
+      "end": 35.56,
+      "text": "Aku datang pakai bedak dan lipstik paling merah"
+    },
+    {
+      "t": 36.66,
+      "end": 40.86,
+      "text": "Pak petugas bilang, \"Lihat ke kamera, Bu\""
+    },
+    {
+      "t": 42.3,
+      "end": 51.89,
+      "text": "Lalu dia jepret pas aku sedang bersin"
+    },
+    {
+      "t": 52.87,
+      "end": 52.87,
+      "text": "[Chorus - backing answers]"
+    },
+    {
+      "t": 52.87,
+      "end": 56.43,
+      "text": "Foto KTP, oh, foto KTP (Foto KTP!)"
+    },
+    {
+      "t": 56.47,
+      "end": 59.85,
+      "text": "Mataku terpejam, mulutku entah ke mana"
+    },
+    {
+      "t": 60.27,
+      "end": 63.09,
+      "text": "Seumur hidup aku bawa muka ini"
+    },
+    {
+      "t": 66.27,
+      "end": 75.55,
+      "text": "Tolong, Pak, sekali lagi saja (Sekali lagi!)"
+    },
+    {
+      "t": 76.15,
+      "end": 76.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.15,
+      "end": 79.89,
+      "text": "Katanya sistemnya sudah terkunci"
+    },
+    {
+      "t": 81.61,
+      "end": 85.61,
+      "text": "Aku bilang biasanya wajahku lebih rapi"
+    },
+    {
+      "t": 87.27,
+      "end": 91.17,
+      "text": "Dia keluarkan dompet, tunjukkan KTP-nya sendiri"
+    },
+    {
+      "t": 91.53,
+      "end": 97.17,
+      "text": "Rupanya dia difoto waktu menguap"
+    },
+    {
+      "t": 141.78,
+      "end": 141.78,
+      "text": "[Instrumental Break - muted trumpet solo over walking bass]"
+    },
+    {
+      "t": 141.78,
+      "end": 141.78,
+      "text": "[Chorus - backing answers, clarinet doubles]"
+    },
+    {
+      "t": 141.78,
+      "end": 145.18,
+      "text": "Foto KTP, oh, foto KTP (Foto KTP!)"
+    },
+    {
+      "t": 145.26,
+      "end": 148.84,
+      "text": "Matanya setengah terpejam, mataku juga"
+    },
+    {
+      "t": 150.94,
+      "end": 154.66,
+      "text": "Seumur hidup kami bawa muka begini"
+    },
+    {
+      "t": 156.62,
+      "end": 162.84,
+      "text": "Ya sudah, Pak, cetak saja (Cetak saja!)"
+    },
+    {
+      "t": 165.16,
+      "end": 165.16,
+      "text": "[Outro - stride piano tag]"
+    },
+    {
+      "t": 165.16,
+      "end": 169.42,
+      "text": "Kalau ada yang tanya, itu bukan aku"
+    },
+    {
+      "t": 173.58,
+      "end": 181.58,
+      "text": "Itu aku, hari Selasa, waktu bersin"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

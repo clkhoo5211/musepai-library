@@ -1,0 +1,297 @@
+{
+  "id": "b6_zh10",
+  "title": "對面阿姨在跳舞",
+  "title_source": "scripted",
+  "genre": "fairy-tale chamber-pop waltz",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "nosy, whimsical delight",
+  "persona": "",
+  "subject": "the woman across the courtyard who waltzes with her mop at nine every night",
+  "caption": "Mandarin fairy-tale chamber-pop waltz in three-four time. A celesta playing a music-box melody, a fingerpicked acoustic guitar, a harpsichord, a pizzicato string quartet, and a clarinet answering the voice, over an oom-pah-pah waltz bass from a pizzicato double bass on beat one, with a lightly brushed snare. Small and close like a room, intimate and narrow, the celesta and the voice forward. Intimate close-miked female storyteller voice with light vibrato and a whispered spoken aside. 138 BPM, B flat major. Watching a stranger's happiness from a window and joining in. No four-four beat, no big orchestral string swells, no full drum kit, no synth, no autotune.",
+  "lyrics": "[Intro - celesta music-box melody and pizzicato strings in three]\n\n[Verse 1]\n晚上九點 對面四樓的燈準時亮起來\n那個阿姨 穿著紅色的拖鞋\n她拿起拖把 好像在牽一個人的手\n一 二 三 一 二 三 在客廳轉圈\n\n[Pre-Chorus]\n我的泡麵泡到一半 就站到窗戶旁邊\n我發誓 我沒有在偷看\n\n[Chorus]\n對面那個阿姨在跳舞\n地板擦得發亮 音樂我聽不到\n她轉到窗邊 拖把也跟著彎腰\n我在這邊 也偷偷轉了一圈\n\n[Verse 2]\n有一個禮拜 九點了 燈都沒有亮\n我開始擔心 是拖把壞了 還是她生病了\n星期天晚上 那盞燈終於亮了\n她牽著的 是一個穿西裝的阿伯\n\n[Chorus]\n對面那個阿姨在跳舞\n地板擦得發亮 音樂我聽不到\n拖把靠在牆角 好像也在看\n我在這邊 輕輕拍了三下手\n\n[Outro - music box winding down, whispered]\n拖把 你也辛苦了",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "3",
+    "prompt": "Mandarin fairy-tale chamber-pop waltz in three-four time. A celesta playing a music-box melody, a fingerpicked acoustic guitar, a harpsichord, a pizzicato string quartet, and a clarinet answering the voice, over an oom-pah-pah waltz bass from a pizzicato double bass on beat one, with a lightly brushed snare. Small and close like a room, intimate and narrow, the celesta and the voice forward. Intimate close-miked female storyteller voice with light vibrato and a whispered spoken aside. 138 BPM, B flat major. Watching a stranger's happiness from a window and joining in. No four-four beat, no big orchestral string swells, no full drum kit, no synth, no autotune.",
+    "lyrics": "[Intro - celesta music-box melody and pizzicato strings in three]\n\n[Verse 1]\n晚上九點 對面四樓的燈準時亮起來\n那個阿姨 穿著紅色的拖鞋\n她拿起拖把 好像在牽一個人的手\n一 二 三 一 二 三 在客廳轉圈\n\n[Pre-Chorus]\n我的泡麵泡到一半 就站到窗戶旁邊\n我發誓 我沒有在偷看\n\n[Chorus]\n對面那個阿姨在跳舞\n地板擦得發亮 音樂我聽不到\n她轉到窗邊 拖把也跟著彎腰\n我在這邊 也偷偷轉了一圈\n\n[Verse 2]\n有一個禮拜 九點了 燈都沒有亮\n我開始擔心 是拖把壞了 還是她生病了\n星期天晚上 那盞燈終於亮了\n她牽著的 是一個穿西裝的阿伯\n\n[Chorus]\n對面那個阿姨在跳舞\n地板擦得發亮 音樂我聽不到\n拖把靠在牆角 好像也在看\n我在這邊 輕輕拍了三下手\n\n[Outro - music box winding down, whispered]\n拖把 你也辛苦了"
+  },
+  "seed": "965238744",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 105.24s**\n- 105.24s per song\n- LM phase (1 song): 20.25s\n- DiT phase (1 song): 84.99s",
+  "task_id": "8a9c8daf-5995-407d-adf1-e20e72ab6f06",
+  "elapsed_s": 150.3,
+  "generated_at": "2026-10-09T23:01:30.902485+08:00",
+  "audio": "b6_zh10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.52,
+      "end": 0.52,
+      "text": "[Intro - celesta music-box melody and pizzicato strings in three]"
+    },
+    {
+      "t": 0.52,
+      "end": 0.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.52,
+      "end": 29.94,
+      "text": "晚上九點 對面四樓的燈準時亮起來"
+    },
+    {
+      "t": 29.98,
+      "end": 33.62,
+      "text": "那個阿姨 穿著紅色的拖鞋"
+    },
+    {
+      "t": 33.96,
+      "end": 52.95,
+      "text": "她拿起拖把 好像在牽一個人的手"
+    },
+    {
+      "t": 53.07,
+      "end": 54.13,
+      "text": "一 二 三 一 二 三 在客廳轉圈"
+    },
+    {
+      "t": 54.19,
+      "end": 54.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.19,
+      "end": 61.21,
+      "text": "我的泡麵泡到一半 就站到窗戶旁邊"
+    },
+    {
+      "t": 61.91,
+      "end": 67.11,
+      "text": "我發誓 我沒有在偷看"
+    },
+    {
+      "t": 70.57,
+      "end": 70.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.57,
+      "end": 74.43,
+      "text": "對面那個阿姨在跳舞"
+    },
+    {
+      "t": 74.45,
+      "end": 78.61,
+      "text": "地板擦得發亮 音樂我聽不到"
+    },
+    {
+      "t": 78.65,
+      "end": 81.23,
+      "text": "她轉到窗邊 拖把也跟著彎腰"
+    },
+    {
+      "t": 81.29,
+      "end": 84.39,
+      "text": "我在這邊 也偷偷轉了一圈"
+    },
+    {
+      "t": 84.39,
+      "end": 84.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.39,
+      "end": 98.59,
+      "text": "有一個禮拜 九點了 燈都沒有亮"
+    },
+    {
+      "t": 98.59,
+      "end": 107.33,
+      "text": "我開始擔心 是拖把壞了 還是她生病了"
+    },
+    {
+      "t": 107.41,
+      "end": 124.15,
+      "text": "星期天晚上 那盞燈終於亮了"
+    },
+    {
+      "t": 124.43,
+      "end": 136.11,
+      "text": "她牽著的 是一個穿西裝的阿伯"
+    },
+    {
+      "t": 136.13,
+      "end": 136.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.13,
+      "end": 137.23,
+      "text": "對面那個阿姨在跳舞"
+    },
+    {
+      "t": 137.29,
+      "end": 139.72,
+      "text": "地板擦得發亮 音樂我聽不到"
+    },
+    {
+      "t": 139.72,
+      "end": 153.94,
+      "text": "拖把靠在牆角 好像也在看"
+    },
+    {
+      "t": 153.94,
+      "end": 167.3,
+      "text": "我在這邊 輕輕拍了三下手"
+    },
+    {
+      "t": 167.3,
+      "end": 167.3,
+      "text": "[Outro - music box winding down, whispered]"
+    },
+    {
+      "t": 167.3,
+      "end": 170.12,
+      "text": "拖把 你也辛苦了"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Intro - celesta music-box melody and pizzicato strings in three]"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.72,
+      "end": 34.54,
+      "text": "晚上九點 對面四樓的燈準時亮起來"
+    },
+    {
+      "t": 34.72,
+      "end": 51.47,
+      "text": "那個阿姨 穿著紅色的拖鞋"
+    },
+    {
+      "t": 51.47,
+      "end": 54.11,
+      "text": "她拿起拖把 好像在牽一個人的手"
+    },
+    {
+      "t": 54.13,
+      "end": 56.01,
+      "text": "一 二 三 一 二 三 在客廳轉圈"
+    },
+    {
+      "t": 56.15,
+      "end": 56.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.15,
+      "end": 61.19,
+      "text": "我的泡麵泡到一半 就站到窗戶旁邊"
+    },
+    {
+      "t": 61.89,
+      "end": 67.11,
+      "text": "我發誓 我沒有在偷看"
+    },
+    {
+      "t": 70.57,
+      "end": 70.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.57,
+      "end": 73.65,
+      "text": "對面那個阿姨在跳舞"
+    },
+    {
+      "t": 73.65,
+      "end": 75.25,
+      "text": "地板擦得發亮 音樂我聽不到"
+    },
+    {
+      "t": 75.25,
+      "end": 76.63,
+      "text": "她轉到窗邊 拖把也跟著彎腰"
+    },
+    {
+      "t": 76.63,
+      "end": 79.79,
+      "text": "我在這邊 也偷偷轉了一圈"
+    },
+    {
+      "t": 79.95,
+      "end": 79.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.95,
+      "end": 81.27,
+      "text": "有一個禮拜 九點了 燈都沒有亮"
+    },
+    {
+      "t": 81.29,
+      "end": 83.69,
+      "text": "我開始擔心 是拖把壞了 還是她生病了"
+    },
+    {
+      "t": 84.39,
+      "end": 99.25,
+      "text": "星期天晚上 那盞燈終於亮了"
+    },
+    {
+      "t": 99.39,
+      "end": 107.41,
+      "text": "她牽著的 是一個穿西裝的阿伯"
+    },
+    {
+      "t": 107.41,
+      "end": 107.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.41,
+      "end": 108.17,
+      "text": "對面那個阿姨在跳舞"
+    },
+    {
+      "t": 108.27,
+      "end": 136.97,
+      "text": "地板擦得發亮 音樂我聽不到"
+    },
+    {
+      "t": 136.97,
+      "end": 150.6,
+      "text": "拖把靠在牆角 好像也在看"
+    },
+    {
+      "t": 150.64,
+      "end": 167.42,
+      "text": "我在這邊 輕輕拍了三下手"
+    },
+    {
+      "t": 167.42,
+      "end": 167.42,
+      "text": "[Outro - music box winding down, whispered]"
+    },
+    {
+      "t": 167.42,
+      "end": 170.12,
+      "text": "拖把 你也辛苦了"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

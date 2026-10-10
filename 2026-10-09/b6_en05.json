@@ -1,0 +1,327 @@
+{
+  "id": "b6_en05",
+  "title": "The Answer Was Canberra",
+  "title_source": "scripted",
+  "genre": "bossa jazz-pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wry, smitten, losing on purpose",
+  "persona": "",
+  "subject": "falling for the captain of the rival team at a Tuesday pub quiz",
+  "caption": "Jazz-pop in the bossa nova songbook style. Nylon-string guitar playing bossa nova comping on major sevenths and ninths; an upright bass playing the bossa two-feel on root and fifth; a jazz kit playing the bossa pattern, cross-stick clicks on the rim and soft brushed eighths on the snare; celesta doubling the vocal melody in the choruses; a small string section with a solo cello answering each line in the second verse. Warm, close and acoustic, the voice and guitar forward with gentle room ambience. Female voice, a low velvety alto with Great American Songbook phrasing and light vibrato, wry and unhurried. 128 BPM, B-flat major. Wry, smitten, losing on purpose. No electric guitar, no programmed drums, no swing ride pattern, no pop belting, no autotune, no fusion soloing.",
+  "lyrics": "[Intro - nylon guitar and brushes]\n\n[Verse 1]\nTuesdays at the Fox and Anchor, round four is geography\nMy team is three librarians and Dave, who knows the flags\nTheir captain wears a cardigan and writes the answers in pencil\nAnd he looks up from the sheet each time I laugh too loud\n\n[Chorus]\nThe answer was Canberra\nI wrote down Sydney, I was watching his hands\nWe lost by a single point to a man in a cardigan\nAnd I would lose that point again\n\n[Verse 2]\nDave says I've gone soft, I say Dave, you do the flags\nI can't help it if the man knows every river in Peru\nAt the break he brings our table a bowl of chips we didn't order\nAnd mouths \"Sydney?\" across the room, and I have to look away\n\n[Chorus]\nThe answer was Canberra\nI wrote down Sydney, I was watching his hands\nNext Tuesday Dave is making me sit facing the wall\nI'll turn around by round two\n\n[Bridge - strings swell, solo cello answers each line]\nI know the Danube runs through four capitals\nI know the deepest lake is in Siberia\nAsk me where he's sitting and I'll get it every time\nAsk me anything else and I'm gone\n\n[Outro - cello and celesta, brushes stop]\nHe left his pencil on our table\nI'm giving it back in round four",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 194.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Jazz-pop in the bossa nova songbook style. Nylon-string guitar playing bossa nova comping on major sevenths and ninths; an upright bass playing the bossa two-feel on root and fifth; a jazz kit playing the bossa pattern, cross-stick clicks on the rim and soft brushed eighths on the snare; celesta doubling the vocal melody in the choruses; a small string section with a solo cello answering each line in the second verse. Warm, close and acoustic, the voice and guitar forward with gentle room ambience. Female voice, a low velvety alto with Great American Songbook phrasing and light vibrato, wry and unhurried. 128 BPM, B-flat major. Wry, smitten, losing on purpose. No electric guitar, no programmed drums, no swing ride pattern, no pop belting, no autotune, no fusion soloing.",
+    "lyrics": "[Intro - nylon guitar and brushes]\n\n[Verse 1]\nTuesdays at the Fox and Anchor, round four is geography\nMy team is three librarians and Dave, who knows the flags\nTheir captain wears a cardigan and writes the answers in pencil\nAnd he looks up from the sheet each time I laugh too loud\n\n[Chorus]\nThe answer was Canberra\nI wrote down Sydney, I was watching his hands\nWe lost by a single point to a man in a cardigan\nAnd I would lose that point again\n\n[Verse 2]\nDave says I've gone soft, I say Dave, you do the flags\nI can't help it if the man knows every river in Peru\nAt the break he brings our table a bowl of chips we didn't order\nAnd mouths \"Sydney?\" across the room, and I have to look away\n\n[Chorus]\nThe answer was Canberra\nI wrote down Sydney, I was watching his hands\nNext Tuesday Dave is making me sit facing the wall\nI'll turn around by round two\n\n[Bridge - strings swell, solo cello answers each line]\nI know the Danube runs through four capitals\nI know the deepest lake is in Siberia\nAsk me where he's sitting and I'll get it every time\nAsk me anything else and I'm gone\n\n[Outro - cello and celesta, brushes stop]\nHe left his pencil on our table\nI'm giving it back in round four"
+  },
+  "seed": "305134978",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 108.25s**\n- 108.25s per song\n- LM phase (1 song): 20.16s\n- DiT phase (1 song): 88.08s",
+  "task_id": "b0a3ead5-cf58-4bdb-af53-88ae1304067f",
+  "elapsed_s": 151.0,
+  "generated_at": "2026-10-09T22:29:04.056365+08:00",
+  "audio": "b6_en05.mp3",
+  "lyrics_timed_vocals": [
+    {
+      "t": 1.22,
+      "end": 1.22,
+      "text": "[Intro - nylon guitar and brushes]"
+    },
+    {
+      "t": 1.22,
+      "end": 1.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.22,
+      "end": 31.7,
+      "text": "Tuesdays at the Fox and Anchor, round four is geography"
+    },
+    {
+      "t": 31.7,
+      "end": 32.9,
+      "text": "My team is three librarians and Dave, who knows the flags"
+    },
+    {
+      "t": 32.9,
+      "end": 37.52,
+      "text": "Their captain wears a cardigan and writes the answers in pencil"
+    },
+    {
+      "t": 38.34,
+      "end": 46.22,
+      "text": "And he looks up from the sheet each time I laugh too loud"
+    },
+    {
+      "t": 46.32,
+      "end": 46.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.32,
+      "end": 47.48,
+      "text": "The answer was Canberra"
+    },
+    {
+      "t": 47.56,
+      "end": 50.91,
+      "text": "I wrote down Sydney, I was watching his hands"
+    },
+    {
+      "t": 50.99,
+      "end": 56.01,
+      "text": "We lost by a single point to a man in a cardigan"
+    },
+    {
+      "t": 57.35,
+      "end": 60.03,
+      "text": "And I would lose that point again"
+    },
+    {
+      "t": 62.45,
+      "end": 62.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.45,
+      "end": 70.99,
+      "text": "Dave says I've gone soft, I say Dave, you do the flags"
+    },
+    {
+      "t": 73.11,
+      "end": 77.59,
+      "text": "I can't help it if the man knows every river in Peru"
+    },
+    {
+      "t": 80.55,
+      "end": 87.19,
+      "text": "At the break he brings our table a bowl of chips we didn't order"
+    },
+    {
+      "t": 87.57,
+      "end": 93.25,
+      "text": "And mouths \"Sydney?\" across the room, and I have to look away"
+    },
+    {
+      "t": 95.69,
+      "end": 95.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.69,
+      "end": 99.31,
+      "text": "The answer was Canberra"
+    },
+    {
+      "t": 99.35,
+      "end": 107.97,
+      "text": "I wrote down Sydney, I was watching his hands"
+    },
+    {
+      "t": 110.45,
+      "end": 115.51,
+      "text": "Next Tuesday Dave is making me sit facing the wall"
+    },
+    {
+      "t": 118.25,
+      "end": 121.03,
+      "text": "I'll turn around by round two"
+    },
+    {
+      "t": 125.49,
+      "end": 125.49,
+      "text": "[Bridge - strings swell, solo cello answers each line]"
+    },
+    {
+      "t": 125.49,
+      "end": 129.97,
+      "text": "I know the Danube runs through four capitals"
+    },
+    {
+      "t": 133.01,
+      "end": 136.85,
+      "text": "I know the deepest lake is in Siberia"
+    },
+    {
+      "t": 136.97,
+      "end": 149.9,
+      "text": "Ask me where he's sitting and I'll get it every time"
+    },
+    {
+      "t": 149.9,
+      "end": 166.6,
+      "text": "Ask me anything else and I'm gone"
+    },
+    {
+      "t": 170.22,
+      "end": 170.22,
+      "text": "[Outro - cello and celesta, brushes stop]"
+    },
+    {
+      "t": 170.22,
+      "end": 173.98,
+      "text": "He left his pencil on our table"
+    },
+    {
+      "t": 178.6,
+      "end": 182.42,
+      "text": "I'm giving it back in round four"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed": [
+    {
+      "t": 5.54,
+      "end": 5.54,
+      "text": "[Intro - nylon guitar and brushes]"
+    },
+    {
+      "t": 5.54,
+      "end": 5.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.54,
+      "end": 23.76,
+      "text": "Tuesdays at the Fox and Anchor, round four is geography"
+    },
+    {
+      "t": 23.8,
+      "end": 31.36,
+      "text": "My team is three librarians and Dave, who knows the flags"
+    },
+    {
+      "t": 31.36,
+      "end": 37.56,
+      "text": "Their captain wears a cardigan and writes the answers in pencil"
+    },
+    {
+      "t": 38.34,
+      "end": 46.36,
+      "text": "And he looks up from the sheet each time I laugh too loud"
+    },
+    {
+      "t": 46.44,
+      "end": 46.44,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.44,
+      "end": 47.48,
+      "text": "The answer was Canberra"
+    },
+    {
+      "t": 47.54,
+      "end": 50.91,
+      "text": "I wrote down Sydney, I was watching his hands"
+    },
+    {
+      "t": 50.99,
+      "end": 55.97,
+      "text": "We lost by a single point to a man in a cardigan"
+    },
+    {
+      "t": 57.35,
+      "end": 60.01,
+      "text": "And I would lose that point again"
+    },
+    {
+      "t": 62.45,
+      "end": 62.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.45,
+      "end": 71.01,
+      "text": "Dave says I've gone soft, I say Dave, you do the flags"
+    },
+    {
+      "t": 73.11,
+      "end": 77.55,
+      "text": "I can't help it if the man knows every river in Peru"
+    },
+    {
+      "t": 80.55,
+      "end": 87.19,
+      "text": "At the break he brings our table a bowl of chips we didn't order"
+    },
+    {
+      "t": 87.57,
+      "end": 93.23,
+      "text": "And mouths \"Sydney?\" across the room, and I have to look away"
+    },
+    {
+      "t": 95.67,
+      "end": 95.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.67,
+      "end": 99.31,
+      "text": "The answer was Canberra"
+    },
+    {
+      "t": 99.35,
+      "end": 107.91,
+      "text": "I wrote down Sydney, I was watching his hands"
+    },
+    {
+      "t": 110.47,
+      "end": 115.27,
+      "text": "Next Tuesday Dave is making me sit facing the wall"
+    },
+    {
+      "t": 118.25,
+      "end": 121.03,
+      "text": "I'll turn around by round two"
+    },
+    {
+      "t": 125.49,
+      "end": 125.49,
+      "text": "[Bridge - strings swell, solo cello answers each line]"
+    },
+    {
+      "t": 125.49,
+      "end": 129.99,
+      "text": "I know the Danube runs through four capitals"
+    },
+    {
+      "t": 133.01,
+      "end": 136.85,
+      "text": "I know the deepest lake is in Siberia"
+    },
+    {
+      "t": 140.33,
+      "end": 149.9,
+      "text": "Ask me where he's sitting and I'll get it every time"
+    },
+    {
+      "t": 149.9,
+      "end": 163.0,
+      "text": "Ask me anything else and I'm gone"
+    },
+    {
+      "t": 170.22,
+      "end": 170.22,
+      "text": "[Outro - cello and celesta, brushes stop]"
+    },
+    {
+      "t": 170.22,
+      "end": 173.98,
+      "text": "He left his pencil on our table"
+    },
+    {
+      "t": 178.6,
+      "end": 182.38,
+      "text": "I'm giving it back in round four"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

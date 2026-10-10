@@ -1,0 +1,307 @@
+{
+  "id": "b6_en07",
+  "title": "Miss Gloria's Extension Cord",
+  "title_source": "scripted",
+  "genre": "New Orleans bounce",
+  "language": "en",
+  "language_name": "English",
+  "mood": "rowdy, bossy and laughing",
+  "persona": "",
+  "subject": "a block party whose DJ keeps losing power because the extension cord runs through Miss Gloria's kitchen",
+  "caption": "New Orleans bounce on the Triggerman beat. Booming 808 kicks; rapid TR-808 handclap rolls; the Triggerman bell riff looping every bar; a short stabbed synth bass on the one; a crowd of shouting voices answering the lead lines. Heavy and dry, the low end huge and forward, almost no harmony, the arrangement repeating hard. Female voice, a commanding block-party MC, shouting and chanting with high energy in call-and-response with the crowd. 102 BPM, G minor. Rowdy, bossy and laughing. No trap hi-hat rolls, no sung pop chorus, no Baltimore club breakbeat, no autotune, no smooth R&B.",
+  "lyrics": "[Intro - Triggerman bell riff and 808 clap roll]\n\n[Verse 1]\nSt. Claude and Music, Saturday, tables in the street\nDJ Trey got the speakers stacked up six high\nAll the power coming down one orange cord\nThrough Miss Gloria's window, past her stove, to the plug by her fridge\n\n[Hook]\nWho got the power? (Miss Gloria!)\nWho got the power? (Miss Gloria!)\nShe's cooking gumbo and she needs that outlet\nWho got the power? (Miss Gloria!)\n\n[Verse 2]\nEvery time she plugs the rice cooker in, the whole block goes dark\nThirty people freeze in the middle of a bounce\nDJ Trey on his knees at her screen door, begging\nShe say \"baby, you can have it when the rice is done\"\n\n[Bridge - claps only, crowd answers]\nRice is done! (Rice is done!)\nNow take it to the ground! (To the ground!)\n\n[Hook]\nWho got the power? (Miss Gloria!)\nWho got the power? (Miss Gloria!)\nShe's on the porch with a ladle and a cash box\nFirst bowl five, and the plug's included! (Miss Gloria!)\n\n[Outro - bell riff, kick drops out]\nSecond bowl, two dollars\nAnd the plug stay hers",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 102,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "New Orleans bounce on the Triggerman beat. Booming 808 kicks; rapid TR-808 handclap rolls; the Triggerman bell riff looping every bar; a short stabbed synth bass on the one; a crowd of shouting voices answering the lead lines. Heavy and dry, the low end huge and forward, almost no harmony, the arrangement repeating hard. Female voice, a commanding block-party MC, shouting and chanting with high energy in call-and-response with the crowd. 102 BPM, G minor. Rowdy, bossy and laughing. No trap hi-hat rolls, no sung pop chorus, no Baltimore club breakbeat, no autotune, no smooth R&B.",
+    "lyrics": "[Intro - Triggerman bell riff and 808 clap roll]\n\n[Verse 1]\nSt. Claude and Music, Saturday, tables in the street\nDJ Trey got the speakers stacked up six high\nAll the power coming down one orange cord\nThrough Miss Gloria's window, past her stove, to the plug by her fridge\n\n[Hook]\nWho got the power? (Miss Gloria!)\nWho got the power? (Miss Gloria!)\nShe's cooking gumbo and she needs that outlet\nWho got the power? (Miss Gloria!)\n\n[Verse 2]\nEvery time she plugs the rice cooker in, the whole block goes dark\nThirty people freeze in the middle of a bounce\nDJ Trey on his knees at her screen door, begging\nShe say \"baby, you can have it when the rice is done\"\n\n[Bridge - claps only, crowd answers]\nRice is done! (Rice is done!)\nNow take it to the ground! (To the ground!)\n\n[Hook]\nWho got the power? (Miss Gloria!)\nWho got the power? (Miss Gloria!)\nShe's on the porch with a ladle and a cash box\nFirst bowl five, and the plug's included! (Miss Gloria!)\n\n[Outro - bell riff, kick drops out]\nSecond bowl, two dollars\nAnd the plug stay hers"
+  },
+  "seed": "3928910725",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.79s**\n- 71.79s per song\n- LM phase (1 song): 18.26s\n- DiT phase (1 song): 53.54s",
+  "task_id": "e4fb8dca-1689-4f6b-8b89-996f48747311",
+  "elapsed_s": 110.4,
+  "generated_at": "2026-10-09T22:33:16.178716+08:00",
+  "audio": "b6_en07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.36,
+      "end": 37.36,
+      "text": "[Intro - Triggerman bell riff and 808 clap roll]"
+    },
+    {
+      "t": 37.36,
+      "end": 37.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.36,
+      "end": 40.84,
+      "text": "St. Claude and Music, Saturday, tables in the street"
+    },
+    {
+      "t": 42.06,
+      "end": 46.75,
+      "text": "DJ Trey got the speakers stacked up six high"
+    },
+    {
+      "t": 46.87,
+      "end": 51.17,
+      "text": "All the power coming down one orange cord"
+    },
+    {
+      "t": 51.47,
+      "end": 55.37,
+      "text": "Through Miss Gloria's window, past her stove, to the plug by her fridge"
+    },
+    {
+      "t": 55.45,
+      "end": 55.45,
+      "text": "[Hook]"
+    },
+    {
+      "t": 55.45,
+      "end": 64.75,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 65.23,
+      "end": 75.11,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 75.17,
+      "end": 79.47,
+      "text": "She's cooking gumbo and she needs that outlet"
+    },
+    {
+      "t": 79.61,
+      "end": 83.43,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 83.99,
+      "end": 83.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.99,
+      "end": 91.23,
+      "text": "Every time she plugs the rice cooker in, the whole block goes dark"
+    },
+    {
+      "t": 91.25,
+      "end": 95.71,
+      "text": "Thirty people freeze in the middle of a bounce"
+    },
+    {
+      "t": 95.75,
+      "end": 101.11,
+      "text": "DJ Trey on his knees at her screen door, begging"
+    },
+    {
+      "t": 101.23,
+      "end": 106.15,
+      "text": "She say \"baby, you can have it when the rice is done\""
+    },
+    {
+      "t": 106.15,
+      "end": 106.15,
+      "text": "[Bridge - claps only, crowd answers]"
+    },
+    {
+      "t": 106.15,
+      "end": 108.25,
+      "text": "Rice is done! (Rice is done!)"
+    },
+    {
+      "t": 108.47,
+      "end": 117.51,
+      "text": "Now take it to the ground! (To the ground!)"
+    },
+    {
+      "t": 117.51,
+      "end": 117.51,
+      "text": "[Hook]"
+    },
+    {
+      "t": 117.51,
+      "end": 134.19,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 134.25,
+      "end": 139.3,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 139.8,
+      "end": 146.38,
+      "text": "She's on the porch with a ladle and a cash box"
+    },
+    {
+      "t": 146.54,
+      "end": 153.88,
+      "text": "First bowl five, and the plug's included! (Miss Gloria!)"
+    },
+    {
+      "t": 154.34,
+      "end": 154.34,
+      "text": "[Outro - bell riff, kick drops out]"
+    },
+    {
+      "t": 154.34,
+      "end": 158.02,
+      "text": "Second bowl, two dollars"
+    },
+    {
+      "t": 158.02,
+      "end": 174.7,
+      "text": "And the plug stay hers"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 3.24,
+      "end": 3.24,
+      "text": "[Intro - Triggerman bell riff and 808 clap roll]"
+    },
+    {
+      "t": 3.24,
+      "end": 3.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.24,
+      "end": 40.84,
+      "text": "St. Claude and Music, Saturday, tables in the street"
+    },
+    {
+      "t": 42.08,
+      "end": 46.49,
+      "text": "DJ Trey got the speakers stacked up six high"
+    },
+    {
+      "t": 46.87,
+      "end": 50.05,
+      "text": "All the power coming down one orange cord"
+    },
+    {
+      "t": 51.47,
+      "end": 54.33,
+      "text": "Through Miss Gloria's window, past her stove, to the plug by her fridge"
+    },
+    {
+      "t": 54.39,
+      "end": 54.39,
+      "text": "[Hook]"
+    },
+    {
+      "t": 54.39,
+      "end": 69.43,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 69.65,
+      "end": 75.35,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 75.37,
+      "end": 77.55,
+      "text": "She's cooking gumbo and she needs that outlet"
+    },
+    {
+      "t": 77.59,
+      "end": 87.55,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 89.01,
+      "end": 89.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.01,
+      "end": 103.23,
+      "text": "Every time she plugs the rice cooker in, the whole block goes dark"
+    },
+    {
+      "t": 103.43,
+      "end": 113.39,
+      "text": "Thirty people freeze in the middle of a bounce"
+    },
+    {
+      "t": 113.55,
+      "end": 134.25,
+      "text": "DJ Trey on his knees at her screen door, begging"
+    },
+    {
+      "t": 134.25,
+      "end": 144.1,
+      "text": "She say \"baby, you can have it when the rice is done\""
+    },
+    {
+      "t": 144.44,
+      "end": 144.44,
+      "text": "[Bridge - claps only, crowd answers]"
+    },
+    {
+      "t": 144.44,
+      "end": 146.88,
+      "text": "Rice is done! (Rice is done!)"
+    },
+    {
+      "t": 147.0,
+      "end": 152.32,
+      "text": "Now take it to the ground! (To the ground!)"
+    },
+    {
+      "t": 152.6,
+      "end": 152.6,
+      "text": "[Hook]"
+    },
+    {
+      "t": 152.6,
+      "end": 158.8,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 159.02,
+      "end": 161.32,
+      "text": "Who got the power? (Miss Gloria!)"
+    },
+    {
+      "t": 161.36,
+      "end": 165.04,
+      "text": "She's on the porch with a ladle and a cash box"
+    },
+    {
+      "t": 165.16,
+      "end": 170.82,
+      "text": "First bowl five, and the plug's included! (Miss Gloria!)"
+    },
+    {
+      "t": 171.04,
+      "end": 171.04,
+      "text": "[Outro - bell riff, kick drops out]"
+    },
+    {
+      "t": 171.04,
+      "end": 174.2,
+      "text": "Second bowl, two dollars"
+    },
+    {
+      "t": 174.26,
+      "end": 176.76,
+      "text": "And the plug stay hers"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

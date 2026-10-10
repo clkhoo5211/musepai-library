@@ -1,0 +1,337 @@
+{
+  "id": "b6_en03",
+  "title": "Nine-Volt",
+  "title_source": "scripted",
+  "genre": "atmospheric alt-metal",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sleep-deprived rage, played completely straight",
+  "persona": "",
+  "subject": "a smoke alarm chirping for a new battery at three in the morning on a ceiling you cannot reach",
+  "caption": "Atmospheric alt-metal with metalcore breakdowns. A soft felt-piano intro under a clean male voice; drop-tuned seven-string guitars in drop A playing palm-muted djent chugs locked to the kick; live acoustic drums with a triggered kick, moving between half-time breakdowns and double-kick runs; an 808 sub drop under each breakdown; a low choir pad behind the choruses. Close and dry in the piano sections, wide and roomy in the choruses, guitars and kick forward. Male voice, a clean high tenor that reaches into falsetto, switching to screamed harsh vocals in the second verse and the breakdown. 140 BPM with half-time breakdowns, C-sharp minor. Sleep-deprived rage, played completely straight. No pop-punk skate beat, no rap verse, no autotune, no standard-tuned indie guitars, no trap hi-hats.",
+  "lyrics": "[Intro - soft felt piano, one high electronic chirp every few bars]\n\n[Verse 1 - clean, close]\nThree-oh-eight and the hallway chirps again\nOne short note, then forty seconds of nothing\nI stand in the dark in my socks and I wait for it\nIt waits for me. It's better at waiting.\n\n[Pre-Chorus]\nThe ceiling's eleven feet\nThe ladder's at my brother's\n\n[Chorus - full band, half-time]\nNine-volt, nine-volt\nYou want a battery, I want my life back\nI'm on a kitchen chair on top of the dining table\nAnd I still can't reach you\n\n[Verse 2 - screamed]\nI took a broom to it at four\nNow it's not chirping, it's screaming\nEvery light on the street comes on\nMrs Patel's at her gate in a dressing gown\n\n[Chorus - full band, half-time]\nNine-volt, nine-volt\nYou want a battery, I want my life back\nTwo firemen in my hallway at half past four\nAnd the tall one just reaches up\n\n[Bridge - half-time breakdown, 808 drop, screamed]\nHe didn't even stand on his toes\nHe didn't even stand on his toes\n\n[Outro - piano alone, no chirp]\nFive-oh-two. It's quiet.\nNow I can't sleep without it.",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 140,
+    "duration": 222.0,
+    "genres": "N/A",
+    "keyscale": "C-sharp minor",
+    "timesignature": "4",
+    "prompt": "Atmospheric alt-metal with metalcore breakdowns. A soft felt-piano intro under a clean male voice; drop-tuned seven-string guitars in drop A playing palm-muted djent chugs locked to the kick; live acoustic drums with a triggered kick, moving between half-time breakdowns and double-kick runs; an 808 sub drop under each breakdown; a low choir pad behind the choruses. Close and dry in the piano sections, wide and roomy in the choruses, guitars and kick forward. Male voice, a clean high tenor that reaches into falsetto, switching to screamed harsh vocals in the second verse and the breakdown. 140 BPM with half-time breakdowns, C-sharp minor. Sleep-deprived rage, played completely straight. No pop-punk skate beat, no rap verse, no autotune, no standard-tuned indie guitars, no trap hi-hats.",
+    "lyrics": "[Intro - soft felt piano, one high electronic chirp every few bars]\n\n[Verse 1 - clean, close]\nThree-oh-eight and the hallway chirps again\nOne short note, then forty seconds of nothing\nI stand in the dark in my socks and I wait for it\nIt waits for me. It's better at waiting.\n\n[Pre-Chorus]\nThe ceiling's eleven feet\nThe ladder's at my brother's\n\n[Chorus - full band, half-time]\nNine-volt, nine-volt\nYou want a battery, I want my life back\nI'm on a kitchen chair on top of the dining table\nAnd I still can't reach you\n\n[Verse 2 - screamed]\nI took a broom to it at four\nNow it's not chirping, it's screaming\nEvery light on the street comes on\nMrs Patel's at her gate in a dressing gown\n\n[Chorus - full band, half-time]\nNine-volt, nine-volt\nYou want a battery, I want my life back\nTwo firemen in my hallway at half past four\nAnd the tall one just reaches up\n\n[Bridge - half-time breakdown, 808 drop, screamed]\nHe didn't even stand on his toes\nHe didn't even stand on his toes\n\n[Outro - piano alone, no chirp]\nFive-oh-two. It's quiet.\nNow I can't sleep without it."
+  },
+  "seed": "639109044",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 100.94s**\n- 100.94s per song\n- LM phase (1 song): 20.76s\n- DiT phase (1 song): 80.18s",
+  "task_id": "e8044774-b9ef-4186-9192-c66c561d3fbd",
+  "elapsed_s": 150.3,
+  "generated_at": "2026-10-09T22:23:52.673313+08:00",
+  "audio": "b6_en03.mp3",
+  "lyrics_timed_vocals": [
+    {
+      "t": 44.62,
+      "end": 44.62,
+      "text": "[Intro - soft felt piano, one high electronic chirp every few bars]"
+    },
+    {
+      "t": 44.62,
+      "end": 44.62,
+      "text": "[Verse 1 - clean, close]"
+    },
+    {
+      "t": 44.62,
+      "end": 49.1,
+      "text": "Three-oh-eight and the hallway chirps again"
+    },
+    {
+      "t": 51.52,
+      "end": 56.49,
+      "text": "One short note, then forty seconds of nothing"
+    },
+    {
+      "t": 58.25,
+      "end": 62.85,
+      "text": "I stand in the dark in my socks and I wait for it"
+    },
+    {
+      "t": 65.15,
+      "end": 69.79,
+      "text": "It waits for me. It's better at waiting."
+    },
+    {
+      "t": 71.89,
+      "end": 71.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.89,
+      "end": 76.31,
+      "text": "The ceiling's eleven feet"
+    },
+    {
+      "t": 78.81,
+      "end": 88.45,
+      "text": "The ladder's at my brother's"
+    },
+    {
+      "t": 88.45,
+      "end": 88.45,
+      "text": "[Chorus - full band, half-time]"
+    },
+    {
+      "t": 88.45,
+      "end": 89.33,
+      "text": "Nine-volt, nine-volt"
+    },
+    {
+      "t": 89.37,
+      "end": 91.75,
+      "text": "You want a battery, I want my life back"
+    },
+    {
+      "t": 91.75,
+      "end": 93.41,
+      "text": "I'm on a kitchen chair on top of the dining table"
+    },
+    {
+      "t": 93.41,
+      "end": 105.73,
+      "text": "And I still can't reach you"
+    },
+    {
+      "t": 105.83,
+      "end": 105.83,
+      "text": "[Verse 2 - screamed]"
+    },
+    {
+      "t": 105.83,
+      "end": 109.75,
+      "text": "I took a broom to it at four"
+    },
+    {
+      "t": 112.01,
+      "end": 115.95,
+      "text": "Now it's not chirping, it's screaming"
+    },
+    {
+      "t": 119.37,
+      "end": 122.93,
+      "text": "Every light on the street comes on"
+    },
+    {
+      "t": 122.93,
+      "end": 128.07,
+      "text": "Mrs Patel's at her gate in a dressing gown"
+    },
+    {
+      "t": 129.39,
+      "end": 129.39,
+      "text": "[Chorus - full band, half-time]"
+    },
+    {
+      "t": 129.39,
+      "end": 130.87,
+      "text": "Nine-volt, nine-volt"
+    },
+    {
+      "t": 130.89,
+      "end": 138.75,
+      "text": "You want a battery, I want my life back"
+    },
+    {
+      "t": 138.83,
+      "end": 148.55,
+      "text": "Two firemen in my hallway at half past four"
+    },
+    {
+      "t": 149.03,
+      "end": 159.13,
+      "text": "And the tall one just reaches up"
+    },
+    {
+      "t": 161.97,
+      "end": 161.97,
+      "text": "[Bridge - half-time breakdown, 808 drop, screamed]"
+    },
+    {
+      "t": 161.97,
+      "end": 165.23,
+      "text": "He didn't even stand on his toes"
+    },
+    {
+      "t": 174.84,
+      "end": 181.04,
+      "text": "He didn't even stand on his toes"
+    },
+    {
+      "t": 193.88,
+      "end": 193.88,
+      "text": "[Outro - piano alone, no chirp]"
+    },
+    {
+      "t": 193.88,
+      "end": 196.06,
+      "text": "Five-oh-two. It's quiet."
+    },
+    {
+      "t": 199.46,
+      "end": 204.02,
+      "text": "Now I can't sleep without it."
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed": [
+    {
+      "t": 44.62,
+      "end": 44.62,
+      "text": "[Intro - soft felt piano, one high electronic chirp every few bars]"
+    },
+    {
+      "t": 44.62,
+      "end": 44.62,
+      "text": "[Verse 1 - clean, close]"
+    },
+    {
+      "t": 44.62,
+      "end": 49.1,
+      "text": "Three-oh-eight and the hallway chirps again"
+    },
+    {
+      "t": 51.52,
+      "end": 56.47,
+      "text": "One short note, then forty seconds of nothing"
+    },
+    {
+      "t": 58.25,
+      "end": 62.81,
+      "text": "I stand in the dark in my socks and I wait for it"
+    },
+    {
+      "t": 65.15,
+      "end": 69.73,
+      "text": "It waits for me. It's better at waiting."
+    },
+    {
+      "t": 71.93,
+      "end": 71.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.93,
+      "end": 76.39,
+      "text": "The ceiling's eleven feet"
+    },
+    {
+      "t": 78.81,
+      "end": 83.41,
+      "text": "The ladder's at my brother's"
+    },
+    {
+      "t": 83.41,
+      "end": 83.41,
+      "text": "[Chorus - full band, half-time]"
+    },
+    {
+      "t": 83.41,
+      "end": 88.73,
+      "text": "Nine-volt, nine-volt"
+    },
+    {
+      "t": 88.73,
+      "end": 90.27,
+      "text": "You want a battery, I want my life back"
+    },
+    {
+      "t": 90.27,
+      "end": 100.45,
+      "text": "I'm on a kitchen chair on top of the dining table"
+    },
+    {
+      "t": 100.45,
+      "end": 106.01,
+      "text": "And I still can't reach you"
+    },
+    {
+      "t": 106.07,
+      "end": 106.07,
+      "text": "[Verse 2 - screamed]"
+    },
+    {
+      "t": 106.07,
+      "end": 109.77,
+      "text": "I took a broom to it at four"
+    },
+    {
+      "t": 111.99,
+      "end": 115.37,
+      "text": "Now it's not chirping, it's screaming"
+    },
+    {
+      "t": 115.41,
+      "end": 121.15,
+      "text": "Every light on the street comes on"
+    },
+    {
+      "t": 121.15,
+      "end": 124.43,
+      "text": "Mrs Patel's at her gate in a dressing gown"
+    },
+    {
+      "t": 124.45,
+      "end": 124.45,
+      "text": "[Chorus - full band, half-time]"
+    },
+    {
+      "t": 124.45,
+      "end": 126.57,
+      "text": "Nine-volt, nine-volt"
+    },
+    {
+      "t": 126.61,
+      "end": 129.89,
+      "text": "You want a battery, I want my life back"
+    },
+    {
+      "t": 129.89,
+      "end": 139.83,
+      "text": "Two firemen in my hallway at half past four"
+    },
+    {
+      "t": 139.89,
+      "end": 155.37,
+      "text": "And the tall one just reaches up"
+    },
+    {
+      "t": 155.97,
+      "end": 155.97,
+      "text": "[Bridge - half-time breakdown, 808 drop, screamed]"
+    },
+    {
+      "t": 155.97,
+      "end": 161.99,
+      "text": "He didn't even stand on his toes"
+    },
+    {
+      "t": 161.99,
+      "end": 165.25,
+      "text": "He didn't even stand on his toes"
+    },
+    {
+      "t": 174.82,
+      "end": 174.82,
+      "text": "[Outro - piano alone, no chirp]"
+    },
+    {
+      "t": 174.82,
+      "end": 196.04,
+      "text": "Five-oh-two. It's quiet."
+    },
+    {
+      "t": 199.46,
+      "end": 204.02,
+      "text": "Now I can't sleep without it."
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+}

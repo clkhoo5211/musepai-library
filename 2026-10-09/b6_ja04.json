@@ -1,0 +1,504 @@
+{
+  "id": "b6_ja04",
+  "title": "保管所まで二駅",
+  "title_source": "scripted",
+  "genre": "melodic punk (melocore)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "furious, then laughing at it",
+  "persona": "",
+  "subject": "taking the train two stops to pay 2,500 yen and get your bicycle back from the city impound lot",
+  "caption": "Japanese melodic punk in the melocore style. Two electric guitars playing downstroked power chords, palm-muted in the verses and opening into ringing chords in the chorus, fast two-beat punk drums with kick and snare alternating eighth notes and a crash on every bar, a pick-played bass doubling the root notes. Dry, tight and loud, the guitars wide left and right, the voice forward with no reverb tail. Male voice, a high clear tenor singing bright melodies, with gang shouts from the band on the answer lines. 196 BPM, D major. Furious, then laughing at it. No orchestral layers, no synths, no key change, no screamed lead vocal, no ballad breakdown, no autotune.",
+  "lyrics": "[Intro - palm-muted guitars and two-beat drums]\n\n[Verse 1]\n駅前の柵の横に 五分だけ停めた\nほんとに五分 パン買っただけ\n戻ったら ない 黄色い紙が一枚\n「撤去しました」 やけに丁寧な字で\n\n[Pre-Chorus]\n保管所は 二駅先の 川の向こう\n自転車を取りに 電車で行く\n\n[Chorus - gang shouts]\n二千五百円!\n五分で 二千五百円!\nパンは百八十円 ふざけんな\n今から取り返しに行く\n\n[Verse 2]\n保管所のおじさん 優しいのがむかつく\n「みんなそうなんですよ」って 判子押す\n千台並んだ中から 自分のを探す\nサドルに貼った ガムテ 見つけた瞬間 ちょっと泣いた\n\n[Chorus - gang shouts]\n二千五百円!\n五分で 二千五百円!\nパンは百八十円 ふざけんな\n帰りは川沿い 全力で漕ぐ\n\n[Bridge - gang shouts]\nオイ オイ\n次は駐輪場\n一日百円 払ってやるよ\n\n[Outro - last chord rings, cut]\nパン 潰れてた\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 196,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Japanese melodic punk in the melocore style. Two electric guitars playing downstroked power chords, palm-muted in the verses and opening into ringing chords in the chorus, fast two-beat punk drums with kick and snare alternating eighth notes and a crash on every bar, a pick-played bass doubling the root notes. Dry, tight and loud, the guitars wide left and right, the voice forward with no reverb tail. Male voice, a high clear tenor singing bright melodies, with gang shouts from the band on the answer lines. 196 BPM, D major. Furious, then laughing at it. No orchestral layers, no synths, no key change, no screamed lead vocal, no ballad breakdown, no autotune.",
+    "lyrics": "[Intro - palm-muted guitars and two-beat drums]\n\n[Verse 1]\n駅前の柵の横に 五分だけ停めた\nほんとに五分 パン買っただけ\n戻ったら ない 黄色い紙が一枚\n「撤去しました」 やけに丁寧な字で\n\n[Pre-Chorus]\n保管所は 二駅先の 川の向こう\n自転車を取りに 電車で行く\n\n[Chorus - gang shouts]\n二千五百円!\n五分で 二千五百円!\nパンは百八十円 ふざけんな\n今から取り返しに行く\n\n[Verse 2]\n保管所のおじさん 優しいのがむかつく\n「みんなそうなんですよ」って 判子押す\n千台並んだ中から 自分のを探す\nサドルに貼った ガムテ 見つけた瞬間 ちょっと泣いた\n\n[Chorus - gang shouts]\n二千五百円!\n五分で 二千五百円!\nパンは百八十円 ふざけんな\n帰りは川沿い 全力で漕ぐ\n\n[Bridge - gang shouts]\nオイ オイ\n次は駐輪場\n一日百円 払ってやるよ\n\n[Outro - last chord rings, cut]\nパン 潰れてた\n[Song ends abruptly]"
+  },
+  "seed": "2941251188",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 114.20s**\n- 114.20s per song\n- LM phase (1 song): 21.61s\n- DiT phase (1 song): 92.59s",
+  "task_id": "47f66b38-f3d4-4ec5-8b10-0fb546af0816",
+  "elapsed_s": 161.0,
+  "generated_at": "2026-10-09T23:12:24.423630+08:00",
+  "audio": "b6_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Intro - palm-muted guitars and two-beat drums]"
+    },
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.94,
+      "end": 35.88,
+      "text": "駅前の柵の横に 五分だけ停めた"
+    },
+    {
+      "t": 35.92,
+      "end": 38.54,
+      "text": "ほんとに五分 パン買っただけ"
+    },
+    {
+      "t": 38.6,
+      "end": 41.48,
+      "text": "戻ったら ない 黄色い紙が一枚"
+    },
+    {
+      "t": 41.48,
+      "end": 44.83,
+      "text": "「撤去しました」 やけに丁寧な字で"
+    },
+    {
+      "t": 44.83,
+      "end": 44.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.83,
+      "end": 46.65,
+      "text": "保管所は 二駅先の 川の向こう"
+    },
+    {
+      "t": 46.95,
+      "end": 50.83,
+      "text": "自転車を取りに 電車で行く"
+    },
+    {
+      "t": 51.99,
+      "end": 51.99,
+      "text": "[Chorus - gang shouts]"
+    },
+    {
+      "t": 51.99,
+      "end": 54.49,
+      "text": "二千五百円!"
+    },
+    {
+      "t": 54.75,
+      "end": 55.61,
+      "text": "五分で 二千五百円!"
+    },
+    {
+      "t": 55.69,
+      "end": 57.57,
+      "text": "パンは百八十円 ふざけんな"
+    },
+    {
+      "t": 57.57,
+      "end": 59.87,
+      "text": "今から取り返しに行く"
+    },
+    {
+      "t": 62.29,
+      "end": 62.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.29,
+      "end": 66.91,
+      "text": "保管所のおじさん 優しいのがむかつく"
+    },
+    {
+      "t": 67.13,
+      "end": 70.09,
+      "text": "「みんなそうなんですよ」って 判子押す"
+    },
+    {
+      "t": 72.29,
+      "end": 77.39,
+      "text": "千台並んだ中から 自分のを探す"
+    },
+    {
+      "t": 79.41,
+      "end": 85.17,
+      "text": "サドルに貼った ガムテ 見つけた瞬間 ちょっと泣いた"
+    },
+    {
+      "t": 98.77,
+      "end": 98.77,
+      "text": "[Chorus - gang shouts]"
+    },
+    {
+      "t": 98.77,
+      "end": 99.25,
+      "text": "二千五百円!"
+    },
+    {
+      "t": 99.41,
+      "end": 101.67,
+      "text": "五分で 二千五百円!"
+    },
+    {
+      "t": 101.91,
+      "end": 105.73,
+      "text": "パンは百八十円 ふざけんな"
+    },
+    {
+      "t": 105.85,
+      "end": 123.27,
+      "text": "帰りは川沿い 全力で漕ぐ"
+    },
+    {
+      "t": 123.87,
+      "end": 123.87,
+      "text": "[Bridge - gang shouts]"
+    },
+    {
+      "t": 123.87,
+      "end": 146.9,
+      "text": "オイ オイ"
+    },
+    {
+      "t": 147.42,
+      "end": 150.7,
+      "text": "次は駐輪場"
+    },
+    {
+      "t": 150.72,
+      "end": 152.86,
+      "text": "一日百円 払ってやるよ"
+    },
+    {
+      "t": 154.12,
+      "end": 154.12,
+      "text": "[Outro - last chord rings, cut]"
+    },
+    {
+      "t": 154.12,
+      "end": 155.48,
+      "text": "パン 潰れてた"
+    },
+    {
+      "t": 155.48,
+      "end": 155.48,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Intro - palm-muted guitars and two-beat drums]"
+    },
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.94,
+      "end": 35.88,
+      "text": "駅前の柵の横に 五分だけ停めた"
+    },
+    {
+      "t": 35.92,
+      "end": 38.54,
+      "text": "ほんとに五分 パン買っただけ"
+    },
+    {
+      "t": 38.6,
+      "end": 41.48,
+      "text": "戻ったら ない 黄色い紙が一枚"
+    },
+    {
+      "t": 41.48,
+      "end": 44.83,
+      "text": "「撤去しました」 やけに丁寧な字で"
+    },
+    {
+      "t": 44.83,
+      "end": 44.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.83,
+      "end": 46.65,
+      "text": "保管所は 二駅先の 川の向こう"
+    },
+    {
+      "t": 46.95,
+      "end": 50.83,
+      "text": "自転車を取りに 電車で行く"
+    },
+    {
+      "t": 51.99,
+      "end": 51.99,
+      "text": "[Chorus - gang shouts]"
+    },
+    {
+      "t": 51.99,
+      "end": 54.49,
+      "text": "二千五百円!"
+    },
+    {
+      "t": 54.75,
+      "end": 55.61,
+      "text": "五分で 二千五百円!"
+    },
+    {
+      "t": 55.69,
+      "end": 57.57,
+      "text": "パンは百八十円 ふざけんな"
+    },
+    {
+      "t": 57.57,
+      "end": 59.87,
+      "text": "今から取り返しに行く"
+    },
+    {
+      "t": 62.29,
+      "end": 62.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.29,
+      "end": 66.91,
+      "text": "保管所のおじさん 優しいのがむかつく"
+    },
+    {
+      "t": 67.13,
+      "end": 70.09,
+      "text": "「みんなそうなんですよ」って 判子押す"
+    },
+    {
+      "t": 72.29,
+      "end": 77.39,
+      "text": "千台並んだ中から 自分のを探す"
+    },
+    {
+      "t": 79.41,
+      "end": 85.17,
+      "text": "サドルに貼った ガムテ 見つけた瞬間 ちょっと泣いた"
+    },
+    {
+      "t": 98.77,
+      "end": 98.77,
+      "text": "[Chorus - gang shouts]"
+    },
+    {
+      "t": 98.77,
+      "end": 99.25,
+      "text": "二千五百円!"
+    },
+    {
+      "t": 99.41,
+      "end": 101.67,
+      "text": "五分で 二千五百円!"
+    },
+    {
+      "t": 101.91,
+      "end": 105.73,
+      "text": "パンは百八十円 ふざけんな"
+    },
+    {
+      "t": 105.85,
+      "end": 123.27,
+      "text": "帰りは川沿い 全力で漕ぐ"
+    },
+    {
+      "t": 123.87,
+      "end": 123.87,
+      "text": "[Bridge - gang shouts]"
+    },
+    {
+      "t": 123.87,
+      "end": 146.9,
+      "text": "オイ オイ"
+    },
+    {
+      "t": 147.42,
+      "end": 150.7,
+      "text": "次は駐輪場"
+    },
+    {
+      "t": 150.72,
+      "end": 152.86,
+      "text": "一日百円 払ってやるよ"
+    },
+    {
+      "t": 154.12,
+      "end": 154.12,
+      "text": "[Outro - last chord rings, cut]"
+    },
+    {
+      "t": 154.12,
+      "end": 155.48,
+      "text": "パン 潰れてた"
+    },
+    {
+      "t": 155.48,
+      "end": 155.48,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Intro - palm-muted guitars and two-beat drums]"
+    },
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.94,
+      "end": 37.04,
+      "text": "駅前の柵の横に 五分だけ停めた"
+    },
+    {
+      "t": 37.04,
+      "end": 38.98,
+      "text": "ほんとに五分 パン買っただけ"
+    },
+    {
+      "t": 39.04,
+      "end": 41.38,
+      "text": "戻ったら ない 黄色い紙が一枚"
+    },
+    {
+      "t": 41.44,
+      "end": 44.81,
+      "text": "「撤去しました」 やけに丁寧な字で"
+    },
+    {
+      "t": 44.83,
+      "end": 44.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.83,
+      "end": 46.81,
+      "text": "保管所は 二駅先の 川の向こう"
+    },
+    {
+      "t": 46.95,
+      "end": 50.43,
+      "text": "自転車を取りに 電車で行く"
+    },
+    {
+      "t": 50.43,
+      "end": 50.43,
+      "text": "[Chorus - gang shouts]"
+    },
+    {
+      "t": 50.43,
+      "end": 51.97,
+      "text": "二千五百円!"
+    },
+    {
+      "t": 52.25,
+      "end": 57.19,
+      "text": "五分で 二千五百円!"
+    },
+    {
+      "t": 57.21,
+      "end": 58.19,
+      "text": "パンは百八十円 ふざけんな"
+    },
+    {
+      "t": 58.25,
+      "end": 59.87,
+      "text": "今から取り返しに行く"
+    },
+    {
+      "t": 62.29,
+      "end": 62.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.29,
+      "end": 66.91,
+      "text": "保管所のおじさん 優しいのがむかつく"
+    },
+    {
+      "t": 67.13,
+      "end": 70.11,
+      "text": "「みんなそうなんですよ」って 判子押す"
+    },
+    {
+      "t": 72.29,
+      "end": 77.37,
+      "text": "千台並んだ中から 自分のを探す"
+    },
+    {
+      "t": 79.41,
+      "end": 85.19,
+      "text": "サドルに貼った ガムテ 見つけた瞬間 ちょっと泣いた"
+    },
+    {
+      "t": 98.77,
+      "end": 98.77,
+      "text": "[Chorus - gang shouts]"
+    },
+    {
+      "t": 98.77,
+      "end": 99.25,
+      "text": "二千五百円!"
+    },
+    {
+      "t": 99.41,
+      "end": 101.83,
+      "text": "五分で 二千五百円!"
+    },
+    {
+      "t": 101.91,
+      "end": 105.73,
+      "text": "パンは百八十円 ふざけんな"
+    },
+    {
+      "t": 105.87,
+      "end": 133.24,
+      "text": "帰りは川沿い 全力で漕ぐ"
+    },
+    {
+      "t": 133.72,
+      "end": 133.72,
+      "text": "[Bridge - gang shouts]"
+    },
+    {
+      "t": 133.72,
+      "end": 147.58,
+      "text": "オイ オイ"
+    },
+    {
+      "t": 147.6,
+      "end": 150.7,
+      "text": "次は駐輪場"
+    },
+    {
+      "t": 150.72,
+      "end": 152.86,
+      "text": "一日百円 払ってやるよ"
+    },
+    {
+      "t": 154.12,
+      "end": 154.12,
+      "text": "[Outro - last chord rings, cut]"
+    },
+    {
+      "t": 154.12,
+      "end": 155.48,
+      "text": "パン 潰れてた"
+    },
+    {
+      "t": 155.48,
+      "end": 155.48,
+      "text": "[Song ends abruptly]"
+    }
+  ]
+}

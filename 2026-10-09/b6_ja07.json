@@ -1,0 +1,444 @@
+{
+  "id": "b6_ja07",
+  "title": "かき氷四杯目",
+  "title_source": "scripted",
+  "genre": "Shonan-style J-reggae",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "lovesick and brain-frozen",
+  "persona": "",
+  "subject": "ordering a fourth shaved ice at a beach hut just to talk to the girl behind the counter",
+  "caption": "Japanese reggae in the Shonan sing-along style. One-drop drums with a cross-stick snare and the kick on beat three, an offbeat guitar skank and an organ bubble, a deep round dub bass, short brass stabs in the chorus, dub delay throws on the ends of vocal phrases. Warm and sunny with a deep low end, the bass and voices forward, the skank tight and the delays spreading wide. Two male voices trading parts: one toasting rhythmically in the verses like a deejay, one singing the hook, joined by a crowd sing-along in the last chorus. 88 BPM, G major. Lovesick and brain-frozen. No trap drums, no autotune, no four-on-the-floor, no rock guitar solo, no key change.",
+  "lyrics": "[Intro - organ bubble and one-drop]\n\n[Verse 1 - toasting]\n海の家 午後二時 店のねえちゃん\nタオル巻いて 氷 削ってる\n「何味?」って聞かれて 声 裏返った\nいちごって言った ほんとはメロン派\n\n[Pre-Chorus - sung]\n食べ終わったら 話す理由がなくなる\nだから もう一回 並ぶ\n\n[Chorus - sung]\nかき氷 四杯目\n頭キーンってして 顔は笑ってる\n名前 まだ聞けてない\n次は レモンにしとく\n\n[Verse 2 - toasting]\n三杯目で 「好きだね」って笑われた\n好きなのは 氷じゃないけど 黙ってた\n腹は冷えて 唇 たぶん 青い\n連れのやつらは 砂に埋まって 寝てる\n\n[Chorus - crowd sing-along]\nかき氷 四杯目\n頭キーンってして 顔は笑ってる\n「明日も来る?」って 向こうから\n明日は メロンにする\n\n[Outro - dub delay on the voice]\n明日も来る\n五杯目で 名前 聞く",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese reggae in the Shonan sing-along style. One-drop drums with a cross-stick snare and the kick on beat three, an offbeat guitar skank and an organ bubble, a deep round dub bass, short brass stabs in the chorus, dub delay throws on the ends of vocal phrases. Warm and sunny with a deep low end, the bass and voices forward, the skank tight and the delays spreading wide. Two male voices trading parts: one toasting rhythmically in the verses like a deejay, one singing the hook, joined by a crowd sing-along in the last chorus. 88 BPM, G major. Lovesick and brain-frozen. No trap drums, no autotune, no four-on-the-floor, no rock guitar solo, no key change.",
+    "lyrics": "[Intro - organ bubble and one-drop]\n\n[Verse 1 - toasting]\n海の家 午後二時 店のねえちゃん\nタオル巻いて 氷 削ってる\n「何味?」って聞かれて 声 裏返った\nいちごって言った ほんとはメロン派\n\n[Pre-Chorus - sung]\n食べ終わったら 話す理由がなくなる\nだから もう一回 並ぶ\n\n[Chorus - sung]\nかき氷 四杯目\n頭キーンってして 顔は笑ってる\n名前 まだ聞けてない\n次は レモンにしとく\n\n[Verse 2 - toasting]\n三杯目で 「好きだね」って笑われた\n好きなのは 氷じゃないけど 黙ってた\n腹は冷えて 唇 たぶん 青い\n連れのやつらは 砂に埋まって 寝てる\n\n[Chorus - crowd sing-along]\nかき氷 四杯目\n頭キーンってして 顔は笑ってる\n「明日も来る?」って 向こうから\n明日は メロンにする\n\n[Outro - dub delay on the voice]\n明日も来る\n五杯目で 名前 聞く"
+  },
+  "seed": "1810413257",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 112.11s**\n- 112.11s per song\n- LM phase (1 song): 22.48s\n- DiT phase (1 song): 89.63s",
+  "task_id": "1949115b-04fb-4667-85f1-536d20544f0a",
+  "elapsed_s": 150.3,
+  "generated_at": "2026-10-09T23:20:16.010597+08:00",
+  "audio": "b6_ja07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Intro - organ bubble and one-drop]"
+    },
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Verse 1 - toasting]"
+    },
+    {
+      "t": 0.48,
+      "end": 32.34,
+      "text": "海の家 午後二時 店のねえちゃん"
+    },
+    {
+      "t": 34.66,
+      "end": 36.5,
+      "text": "タオル巻いて 氷 削ってる"
+    },
+    {
+      "t": 36.62,
+      "end": 39.74,
+      "text": "「何味?」って聞かれて 声 裏返った"
+    },
+    {
+      "t": 39.74,
+      "end": 44.44,
+      "text": "いちごって言った ほんとはメロン派"
+    },
+    {
+      "t": 45.72,
+      "end": 45.72,
+      "text": "[Pre-Chorus - sung]"
+    },
+    {
+      "t": 45.72,
+      "end": 49.88,
+      "text": "食べ終わったら 話す理由がなくなる"
+    },
+    {
+      "t": 50.58,
+      "end": 53.95,
+      "text": "だから もう一回 並ぶ"
+    },
+    {
+      "t": 54.73,
+      "end": 54.73,
+      "text": "[Chorus - sung]"
+    },
+    {
+      "t": 54.73,
+      "end": 60.01,
+      "text": "かき氷 四杯目"
+    },
+    {
+      "t": 60.27,
+      "end": 66.29,
+      "text": "頭キーンってして 顔は笑ってる"
+    },
+    {
+      "t": 66.39,
+      "end": 69.13,
+      "text": "名前 まだ聞けてない"
+    },
+    {
+      "t": 71.77,
+      "end": 74.67,
+      "text": "次は レモンにしとく"
+    },
+    {
+      "t": 77.59,
+      "end": 77.59,
+      "text": "[Verse 2 - toasting]"
+    },
+    {
+      "t": 77.59,
+      "end": 79.99,
+      "text": "三杯目で 「好きだね」って笑われた"
+    },
+    {
+      "t": 80.09,
+      "end": 86.03,
+      "text": "好きなのは 氷じゃないけど 黙ってた"
+    },
+    {
+      "t": 86.13,
+      "end": 91.23,
+      "text": "腹は冷えて 唇 たぶん 青い"
+    },
+    {
+      "t": 91.83,
+      "end": 96.55,
+      "text": "連れのやつらは 砂に埋まって 寝てる"
+    },
+    {
+      "t": 96.63,
+      "end": 96.63,
+      "text": "[Chorus - crowd sing-along]"
+    },
+    {
+      "t": 96.63,
+      "end": 101.47,
+      "text": "かき氷 四杯目"
+    },
+    {
+      "t": 101.83,
+      "end": 107.01,
+      "text": "頭キーンってして 顔は笑ってる"
+    },
+    {
+      "t": 107.01,
+      "end": 120.01,
+      "text": "「明日も来る?」って 向こうから"
+    },
+    {
+      "t": 121.81,
+      "end": 126.73,
+      "text": "明日は メロンにする"
+    },
+    {
+      "t": 126.85,
+      "end": 126.85,
+      "text": "[Outro - dub delay on the voice]"
+    },
+    {
+      "t": 126.85,
+      "end": 164.02,
+      "text": "明日も来る"
+    },
+    {
+      "t": 164.08,
+      "end": 192.14,
+      "text": "五杯目で 名前 聞く"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Intro - organ bubble and one-drop]"
+    },
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Verse 1 - toasting]"
+    },
+    {
+      "t": 0.48,
+      "end": 32.34,
+      "text": "海の家 午後二時 店のねえちゃん"
+    },
+    {
+      "t": 34.66,
+      "end": 36.5,
+      "text": "タオル巻いて 氷 削ってる"
+    },
+    {
+      "t": 36.62,
+      "end": 39.74,
+      "text": "「何味?」って聞かれて 声 裏返った"
+    },
+    {
+      "t": 39.74,
+      "end": 44.44,
+      "text": "いちごって言った ほんとはメロン派"
+    },
+    {
+      "t": 45.72,
+      "end": 45.72,
+      "text": "[Pre-Chorus - sung]"
+    },
+    {
+      "t": 45.72,
+      "end": 49.88,
+      "text": "食べ終わったら 話す理由がなくなる"
+    },
+    {
+      "t": 50.58,
+      "end": 53.95,
+      "text": "だから もう一回 並ぶ"
+    },
+    {
+      "t": 54.73,
+      "end": 54.73,
+      "text": "[Chorus - sung]"
+    },
+    {
+      "t": 54.73,
+      "end": 60.01,
+      "text": "かき氷 四杯目"
+    },
+    {
+      "t": 60.27,
+      "end": 66.29,
+      "text": "頭キーンってして 顔は笑ってる"
+    },
+    {
+      "t": 66.39,
+      "end": 69.13,
+      "text": "名前 まだ聞けてない"
+    },
+    {
+      "t": 71.77,
+      "end": 74.67,
+      "text": "次は レモンにしとく"
+    },
+    {
+      "t": 77.59,
+      "end": 77.59,
+      "text": "[Verse 2 - toasting]"
+    },
+    {
+      "t": 77.59,
+      "end": 79.99,
+      "text": "三杯目で 「好きだね」って笑われた"
+    },
+    {
+      "t": 80.09,
+      "end": 86.03,
+      "text": "好きなのは 氷じゃないけど 黙ってた"
+    },
+    {
+      "t": 86.13,
+      "end": 91.23,
+      "text": "腹は冷えて 唇 たぶん 青い"
+    },
+    {
+      "t": 91.83,
+      "end": 96.55,
+      "text": "連れのやつらは 砂に埋まって 寝てる"
+    },
+    {
+      "t": 96.63,
+      "end": 96.63,
+      "text": "[Chorus - crowd sing-along]"
+    },
+    {
+      "t": 96.63,
+      "end": 101.47,
+      "text": "かき氷 四杯目"
+    },
+    {
+      "t": 101.83,
+      "end": 107.01,
+      "text": "頭キーンってして 顔は笑ってる"
+    },
+    {
+      "t": 107.01,
+      "end": 120.01,
+      "text": "「明日も来る?」って 向こうから"
+    },
+    {
+      "t": 121.81,
+      "end": 126.73,
+      "text": "明日は メロンにする"
+    },
+    {
+      "t": 126.85,
+      "end": 126.85,
+      "text": "[Outro - dub delay on the voice]"
+    },
+    {
+      "t": 126.85,
+      "end": 164.02,
+      "text": "明日も来る"
+    },
+    {
+      "t": 164.08,
+      "end": 192.14,
+      "text": "五杯目で 名前 聞く"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.46,
+      "end": 0.46,
+      "text": "[Intro - organ bubble and one-drop]"
+    },
+    {
+      "t": 0.46,
+      "end": 0.46,
+      "text": "[Verse 1 - toasting]"
+    },
+    {
+      "t": 0.46,
+      "end": 32.32,
+      "text": "海の家 午後二時 店のねえちゃん"
+    },
+    {
+      "t": 34.66,
+      "end": 37.02,
+      "text": "タオル巻いて 氷 削ってる"
+    },
+    {
+      "t": 37.02,
+      "end": 38.98,
+      "text": "「何味?」って聞かれて 声 裏返った"
+    },
+    {
+      "t": 39.76,
+      "end": 45.14,
+      "text": "いちごって言った ほんとはメロン派"
+    },
+    {
+      "t": 45.72,
+      "end": 45.72,
+      "text": "[Pre-Chorus - sung]"
+    },
+    {
+      "t": 45.72,
+      "end": 49.88,
+      "text": "食べ終わったら 話す理由がなくなる"
+    },
+    {
+      "t": 50.58,
+      "end": 53.97,
+      "text": "だから もう一回 並ぶ"
+    },
+    {
+      "t": 54.73,
+      "end": 54.73,
+      "text": "[Chorus - sung]"
+    },
+    {
+      "t": 54.73,
+      "end": 57.99,
+      "text": "かき氷 四杯目"
+    },
+    {
+      "t": 60.29,
+      "end": 66.29,
+      "text": "頭キーンってして 顔は笑ってる"
+    },
+    {
+      "t": 66.39,
+      "end": 69.15,
+      "text": "名前 まだ聞けてない"
+    },
+    {
+      "t": 71.57,
+      "end": 74.67,
+      "text": "次は レモンにしとく"
+    },
+    {
+      "t": 77.59,
+      "end": 77.59,
+      "text": "[Verse 2 - toasting]"
+    },
+    {
+      "t": 77.59,
+      "end": 79.99,
+      "text": "三杯目で 「好きだね」って笑われた"
+    },
+    {
+      "t": 80.09,
+      "end": 86.01,
+      "text": "好きなのは 氷じゃないけど 黙ってた"
+    },
+    {
+      "t": 86.41,
+      "end": 91.01,
+      "text": "腹は冷えて 唇 たぶん 青い"
+    },
+    {
+      "t": 91.17,
+      "end": 96.55,
+      "text": "連れのやつらは 砂に埋まって 寝てる"
+    },
+    {
+      "t": 100.63,
+      "end": 100.63,
+      "text": "[Chorus - crowd sing-along]"
+    },
+    {
+      "t": 100.63,
+      "end": 103.69,
+      "text": "かき氷 四杯目"
+    },
+    {
+      "t": 103.77,
+      "end": 107.01,
+      "text": "頭キーンってして 顔は笑ってる"
+    },
+    {
+      "t": 107.01,
+      "end": 124.69,
+      "text": "「明日も来る?」って 向こうから"
+    },
+    {
+      "t": 124.69,
+      "end": 126.73,
+      "text": "明日は メロンにする"
+    },
+    {
+      "t": 134.25,
+      "end": 134.25,
+      "text": "[Outro - dub delay on the voice]"
+    },
+    {
+      "t": 134.25,
+      "end": 164.36,
+      "text": "明日も来る"
+    },
+    {
+      "t": 172.84,
+      "end": 192.16,
+      "text": "五杯目で 名前 聞く"
+    }
+  ]
+}

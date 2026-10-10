@@ -1,0 +1,287 @@
+{
+  "id": "b6_en08",
+  "title": "Lionel Says Don't Look Down",
+  "title_source": "scripted",
+  "genre": "zydeco",
+  "language": "en",
+  "language_name": "English",
+  "mood": "clumsy, sweaty and delighted",
+  "persona": "",
+  "subject": "being taught the zydeco two-step at a Sunday afternoon dance in Opelousas by a seventy-three-year-old retired mailman",
+  "caption": "Zydeco in the Louisiana Creole dance-hall style. A piano accordion playing bright bluesy lead riffs and answering the singer; a frottoir rubboard scraped with spoons in steady sixteenths; a syncopated electric bass line; a drum kit playing the two-step shuffle with the double-clutch kick; a choppy blues rhythm electric guitar. Live and roomy like a packed dance hall, the accordion and rubboard forward and the bass warm underneath. Male voice, a bluesy and soulful baritone, with dance-hall call-outs sung back by the band. 132 BPM, G major. Clumsy, sweaty and delighted. No banjo, no fiddle, no country twang, no autotune, no rock drums, no synths.",
+  "lyrics": "[Intro - accordion riff and rubboard]\n\n[Verse 1]\nSunday at the Y-Ki-Ki, four o'clock in Opelousas\nI came for the boudin, I did not come to dance\nThen a man in a pressed white shirt held his hand out\nSeventy-three, retired mailman, name of Lionel\n\n[Chorus]\nLionel says don't look down (don't look down!)\nYour feet know more than you do\nSlow, then quick-quick, let the rubboard count it\nLionel says don't look down\n\n[Instrumental Break - accordion solo over rubboard]\n\n[Verse 2]\nI stepped on him twice in the two-step, three times in the waltz\nHe said \"I walked a mail route forty years, these feet have seen worse\"\nThe accordion man is grinning, he slows it down for me\nHalf the floor is watching, half the floor is worse than me\n\n[Chorus]\nLionel says don't look down (don't look down!)\nYour feet know more than you do\nI'm looking at the ceiling fan and I haven't missed a step\nLionel says now you're dancing (now you're dancing!)\n\n[Outro - accordion and rubboard trade fours]\nSame time next Sunday\nBring cracklins for Lionel",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Zydeco in the Louisiana Creole dance-hall style. A piano accordion playing bright bluesy lead riffs and answering the singer; a frottoir rubboard scraped with spoons in steady sixteenths; a syncopated electric bass line; a drum kit playing the two-step shuffle with the double-clutch kick; a choppy blues rhythm electric guitar. Live and roomy like a packed dance hall, the accordion and rubboard forward and the bass warm underneath. Male voice, a bluesy and soulful baritone, with dance-hall call-outs sung back by the band. 132 BPM, G major. Clumsy, sweaty and delighted. No banjo, no fiddle, no country twang, no autotune, no rock drums, no synths.",
+    "lyrics": "[Intro - accordion riff and rubboard]\n\n[Verse 1]\nSunday at the Y-Ki-Ki, four o'clock in Opelousas\nI came for the boudin, I did not come to dance\nThen a man in a pressed white shirt held his hand out\nSeventy-three, retired mailman, name of Lionel\n\n[Chorus]\nLionel says don't look down (don't look down!)\nYour feet know more than you do\nSlow, then quick-quick, let the rubboard count it\nLionel says don't look down\n\n[Instrumental Break - accordion solo over rubboard]\n\n[Verse 2]\nI stepped on him twice in the two-step, three times in the waltz\nHe said \"I walked a mail route forty years, these feet have seen worse\"\nThe accordion man is grinning, he slows it down for me\nHalf the floor is watching, half the floor is worse than me\n\n[Chorus]\nLionel says don't look down (don't look down!)\nYour feet know more than you do\nI'm looking at the ceiling fan and I haven't missed a step\nLionel says now you're dancing (now you're dancing!)\n\n[Outro - accordion and rubboard trade fours]\nSame time next Sunday\nBring cracklins for Lionel"
+  },
+  "seed": "1994793315",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 92.49s**\n- 92.49s per song\n- LM phase (1 song): 18.36s\n- DiT phase (1 song): 74.13s",
+  "task_id": "0024d8ed-5c93-4358-9a21-2f9b3be9be7c",
+  "elapsed_s": 120.1,
+  "generated_at": "2026-10-09T22:35:16.301545+08:00",
+  "audio": "b6_en08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - accordion riff and rubboard]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 31.38,
+      "text": "Sunday at the Y-Ki-Ki, four o'clock in Opelousas"
+    },
+    {
+      "t": 32.22,
+      "end": 34.68,
+      "text": "I came for the boudin, I did not come to dance"
+    },
+    {
+      "t": 35.5,
+      "end": 39.34,
+      "text": "Then a man in a pressed white shirt held his hand out"
+    },
+    {
+      "t": 40.78,
+      "end": 45.86,
+      "text": "Seventy-three, retired mailman, name of Lionel"
+    },
+    {
+      "t": 46.5,
+      "end": 46.5,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.5,
+      "end": 52.15,
+      "text": "Lionel says don't look down (don't look down!)"
+    },
+    {
+      "t": 52.21,
+      "end": 56.19,
+      "text": "Your feet know more than you do"
+    },
+    {
+      "t": 57.11,
+      "end": 60.47,
+      "text": "Slow, then quick-quick, let the rubboard count it"
+    },
+    {
+      "t": 60.87,
+      "end": 67.45,
+      "text": "Lionel says don't look down"
+    },
+    {
+      "t": 83.95,
+      "end": 83.95,
+      "text": "[Instrumental Break - accordion solo over rubboard]"
+    },
+    {
+      "t": 83.95,
+      "end": 83.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.95,
+      "end": 89.15,
+      "text": "I stepped on him twice in the two-step, three times in the waltz"
+    },
+    {
+      "t": 89.15,
+      "end": 92.47,
+      "text": "He said \"I walked a mail route forty years, these feet have seen worse\""
+    },
+    {
+      "t": 92.47,
+      "end": 96.11,
+      "text": "The accordion man is grinning, he slows it down for me"
+    },
+    {
+      "t": 98.27,
+      "end": 103.61,
+      "text": "Half the floor is watching, half the floor is worse than me"
+    },
+    {
+      "t": 105.59,
+      "end": 105.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.59,
+      "end": 112.93,
+      "text": "Lionel says don't look down (don't look down!)"
+    },
+    {
+      "t": 113.07,
+      "end": 116.15,
+      "text": "Your feet know more than you do"
+    },
+    {
+      "t": 117.05,
+      "end": 122.83,
+      "text": "I'm looking at the ceiling fan and I haven't missed a step"
+    },
+    {
+      "t": 123.53,
+      "end": 153.72,
+      "text": "Lionel says now you're dancing (now you're dancing!)"
+    },
+    {
+      "t": 155.7,
+      "end": 155.7,
+      "text": "[Outro - accordion and rubboard trade fours]"
+    },
+    {
+      "t": 155.7,
+      "end": 157.68,
+      "text": "Same time next Sunday"
+    },
+    {
+      "t": 172.98,
+      "end": 175.1,
+      "text": "Bring cracklins for Lionel"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.12,
+      "end": 29.12,
+      "text": "[Intro - accordion riff and rubboard]"
+    },
+    {
+      "t": 29.12,
+      "end": 29.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.12,
+      "end": 31.34,
+      "text": "Sunday at the Y-Ki-Ki, four o'clock in Opelousas"
+    },
+    {
+      "t": 32.22,
+      "end": 34.48,
+      "text": "I came for the boudin, I did not come to dance"
+    },
+    {
+      "t": 35.5,
+      "end": 39.3,
+      "text": "Then a man in a pressed white shirt held his hand out"
+    },
+    {
+      "t": 40.78,
+      "end": 45.78,
+      "text": "Seventy-three, retired mailman, name of Lionel"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 52.15,
+      "text": "Lionel says don't look down (don't look down!)"
+    },
+    {
+      "t": 52.21,
+      "end": 56.19,
+      "text": "Your feet know more than you do"
+    },
+    {
+      "t": 57.11,
+      "end": 60.49,
+      "text": "Slow, then quick-quick, let the rubboard count it"
+    },
+    {
+      "t": 60.87,
+      "end": 67.49,
+      "text": "Lionel says don't look down"
+    },
+    {
+      "t": 83.97,
+      "end": 83.97,
+      "text": "[Instrumental Break - accordion solo over rubboard]"
+    },
+    {
+      "t": 83.97,
+      "end": 83.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.97,
+      "end": 88.37,
+      "text": "I stepped on him twice in the two-step, three times in the waltz"
+    },
+    {
+      "t": 88.37,
+      "end": 92.37,
+      "text": "He said \"I walked a mail route forty years, these feet have seen worse\""
+    },
+    {
+      "t": 92.37,
+      "end": 96.11,
+      "text": "The accordion man is grinning, he slows it down for me"
+    },
+    {
+      "t": 98.27,
+      "end": 103.61,
+      "text": "Half the floor is watching, half the floor is worse than me"
+    },
+    {
+      "t": 105.59,
+      "end": 105.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.59,
+      "end": 112.95,
+      "text": "Lionel says don't look down (don't look down!)"
+    },
+    {
+      "t": 113.07,
+      "end": 116.15,
+      "text": "Your feet know more than you do"
+    },
+    {
+      "t": 117.01,
+      "end": 121.01,
+      "text": "I'm looking at the ceiling fan and I haven't missed a step"
+    },
+    {
+      "t": 121.49,
+      "end": 125.89,
+      "text": "Lionel says now you're dancing (now you're dancing!)"
+    },
+    {
+      "t": 155.7,
+      "end": 155.7,
+      "text": "[Outro - accordion and rubboard trade fours]"
+    },
+    {
+      "t": 155.7,
+      "end": 157.72,
+      "text": "Same time next Sunday"
+    },
+    {
+      "t": 172.98,
+      "end": 175.28,
+      "text": "Bring cracklins for Lionel"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

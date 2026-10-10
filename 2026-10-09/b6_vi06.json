@@ -1,0 +1,317 @@
+{
+  "id": "b6_vi06",
+  "title": "chốt đơn lúc mười một giờ",
+  "title_source": "scripted",
+  "genre": "xam pop",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "sleepless and amused",
+  "persona": "",
+  "subject": "a neighbour who livestreams face cream through the wall every night at eleven, and the mother who goes over to complain",
+  "caption": "Vietnamese xam pop, a modern revival of northern street-busker xam singing. A dan nhi two-string fiddle sliding through the melody and answering each line, a phach bamboo clapper and a senh tien coin clapper clicking on the offbeats, trong manh small hand-drum patterns locked to a programmed pop kick and claps, a dan bau monochord bending between phrases, a round electric bass under the chorus only. Dry and close like a street corner, fiddle and clapper forward, the modern kick tucked underneath, the 2/4 market-song pulse kept throughout. Female lead in a nasal, heavily ornamented xam storytelling voice with luyen lay turns, singing six-eight verses and breaking into spoken busker banter. 104 BPM, D minor. Sleepless and amused, a neighbour roasted from the other side of the wall. No trap hi-hats, no 808, no autotune, no EDM drop, no Western ballad chords, no rap verse.",
+  "lyrics": "[Intro - dan nhi slide, phach clicks, kick enters]\n\n[Verse 1]\nNhà bên có cái chị Hoa\nMười một giờ tối mở loa lên đèn\nBa mươi hũ kem xếp chen\nChị cười với máy như quen lâu rồi\nTường nhà mỏng tựa giấy thôi\nChị hô một tiếng, tôi ngồi bật dậy\n\n[Chorus]\n“Chốt đơn! Chốt đơn!” chị hô xuyên tường\n“Bảy ngày trắng da, không trắng hoàn tiền”\nBên này tôi nằm đếm cừu không nổi\nĐếm luôn đơn chị: ba trăm lẻ hai\n\n[Verse 2]\nMẹ tôi sang mắng chị Hoa\nMười phút sau về, đã là khách quen\nTay cầm hai hũ, còn khen\nBảo tôi học chị, đừng ghen, mà làm\n\n[Chorus]\n“Chốt đơn! Chốt đơn!” giờ hai giọng xuyên tường\nChị hô một tiếng, mẹ tôi hô theo\nBên này tôi nằm đếm cừu không nổi\nĐếm luôn đơn mẹ: mười hai, toàn họ hàng\n\n[Bridge - spoken busker banter over dan nhi]\nThưa các cô các bác đi qua\nAi bán cho tôi một đêm ngủ yên, tôi chốt liền tay\n\n[Outro - phach alone]\nMột đêm ngủ yên, còn hàng không chị?",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese xam pop, a modern revival of northern street-busker xam singing. A dan nhi two-string fiddle sliding through the melody and answering each line, a phach bamboo clapper and a senh tien coin clapper clicking on the offbeats, trong manh small hand-drum patterns locked to a programmed pop kick and claps, a dan bau monochord bending between phrases, a round electric bass under the chorus only. Dry and close like a street corner, fiddle and clapper forward, the modern kick tucked underneath, the 2/4 market-song pulse kept throughout. Female lead in a nasal, heavily ornamented xam storytelling voice with luyen lay turns, singing six-eight verses and breaking into spoken busker banter. 104 BPM, D minor. Sleepless and amused, a neighbour roasted from the other side of the wall. No trap hi-hats, no 808, no autotune, no EDM drop, no Western ballad chords, no rap verse.",
+    "lyrics": "[Intro - dan nhi slide, phach clicks, kick enters]\n\n[Verse 1]\nNhà bên có cái chị Hoa\nMười một giờ tối mở loa lên đèn\nBa mươi hũ kem xếp chen\nChị cười với máy như quen lâu rồi\nTường nhà mỏng tựa giấy thôi\nChị hô một tiếng, tôi ngồi bật dậy\n\n[Chorus]\n“Chốt đơn! Chốt đơn!” chị hô xuyên tường\n“Bảy ngày trắng da, không trắng hoàn tiền”\nBên này tôi nằm đếm cừu không nổi\nĐếm luôn đơn chị: ba trăm lẻ hai\n\n[Verse 2]\nMẹ tôi sang mắng chị Hoa\nMười phút sau về, đã là khách quen\nTay cầm hai hũ, còn khen\nBảo tôi học chị, đừng ghen, mà làm\n\n[Chorus]\n“Chốt đơn! Chốt đơn!” giờ hai giọng xuyên tường\nChị hô một tiếng, mẹ tôi hô theo\nBên này tôi nằm đếm cừu không nổi\nĐếm luôn đơn mẹ: mười hai, toàn họ hàng\n\n[Bridge - spoken busker banter over dan nhi]\nThưa các cô các bác đi qua\nAi bán cho tôi một đêm ngủ yên, tôi chốt liền tay\n\n[Outro - phach alone]\nMột đêm ngủ yên, còn hàng không chị?"
+  },
+  "seed": "2716758043",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.37s**\n- 59.37s per song\n- LM phase (1 song): 15.74s\n- DiT phase (1 song): 43.63s",
+  "task_id": "0f8c8ff7-5f71-4f68-9e69-95af0e83dae0",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-09T21:50:15.278162+08:00",
+  "audio": "b6_vi06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.46,
+      "end": 0.46,
+      "text": "[Intro - dan nhi slide, phach clicks, kick enters]"
+    },
+    {
+      "t": 0.46,
+      "end": 0.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.46,
+      "end": 21.6,
+      "text": "Nhà bên có cái chị Hoa"
+    },
+    {
+      "t": 21.78,
+      "end": 23.92,
+      "text": "Mười một giờ tối mở loa lên đèn"
+    },
+    {
+      "t": 26.08,
+      "end": 28.46,
+      "text": "Ba mươi hũ kem xếp chen"
+    },
+    {
+      "t": 30.36,
+      "end": 33.06,
+      "text": "Chị cười với máy như quen lâu rồi"
+    },
+    {
+      "t": 34.98,
+      "end": 37.94,
+      "text": "Tường nhà mỏng tựa giấy thôi"
+    },
+    {
+      "t": 39.06,
+      "end": 42.26,
+      "text": "Chị hô một tiếng, tôi ngồi bật dậy"
+    },
+    {
+      "t": 45.66,
+      "end": 45.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.66,
+      "end": 48.7,
+      "text": "“Chốt đơn! Chốt đơn!” chị hô xuyên tường"
+    },
+    {
+      "t": 49.74,
+      "end": 53.05,
+      "text": "“Bảy ngày trắng da, không trắng hoàn tiền”"
+    },
+    {
+      "t": 54.67,
+      "end": 57.87,
+      "text": "Bên này tôi nằm đếm cừu không nổi"
+    },
+    {
+      "t": 57.93,
+      "end": 61.15,
+      "text": "Đếm luôn đơn chị: ba trăm lẻ hai"
+    },
+    {
+      "t": 72.41,
+      "end": 72.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.41,
+      "end": 74.61,
+      "text": "Mẹ tôi sang mắng chị Hoa"
+    },
+    {
+      "t": 75.55,
+      "end": 79.27,
+      "text": "Mười phút sau về, đã là khách quen"
+    },
+    {
+      "t": 80.67,
+      "end": 83.41,
+      "text": "Tay cầm hai hũ, còn khen"
+    },
+    {
+      "t": 84.93,
+      "end": 88.37,
+      "text": "Bảo tôi học chị, đừng ghen, mà làm"
+    },
+    {
+      "t": 90.03,
+      "end": 90.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.03,
+      "end": 92.83,
+      "text": "“Chốt đơn! Chốt đơn!” giờ hai giọng xuyên tường"
+    },
+    {
+      "t": 95.49,
+      "end": 100.83,
+      "text": "Chị hô một tiếng, mẹ tôi hô theo"
+    },
+    {
+      "t": 105.15,
+      "end": 113.69,
+      "text": "Bên này tôi nằm đếm cừu không nổi"
+    },
+    {
+      "t": 113.71,
+      "end": 119.01,
+      "text": "Đếm luôn đơn mẹ: mười hai, toàn họ hàng"
+    },
+    {
+      "t": 119.01,
+      "end": 119.01,
+      "text": "[Bridge - spoken busker banter over dan nhi]"
+    },
+    {
+      "t": 119.01,
+      "end": 127.63,
+      "text": "Thưa các cô các bác đi qua"
+    },
+    {
+      "t": 127.67,
+      "end": 156.62,
+      "text": "Ai bán cho tôi một đêm ngủ yên, tôi chốt liền tay"
+    },
+    {
+      "t": 165.54,
+      "end": 165.54,
+      "text": "[Outro - phach alone]"
+    },
+    {
+      "t": 165.54,
+      "end": 170.42,
+      "text": "Một đêm ngủ yên, còn hàng không chị?"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Intro - dan nhi slide, phach clicks, kick enters]"
+    },
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.48,
+      "end": 21.6,
+      "text": "Nhà bên có cái chị Hoa"
+    },
+    {
+      "t": 21.78,
+      "end": 23.9,
+      "text": "Mười một giờ tối mở loa lên đèn"
+    },
+    {
+      "t": 26.06,
+      "end": 28.46,
+      "text": "Ba mươi hũ kem xếp chen"
+    },
+    {
+      "t": 30.36,
+      "end": 33.0,
+      "text": "Chị cười với máy như quen lâu rồi"
+    },
+    {
+      "t": 34.98,
+      "end": 37.96,
+      "text": "Tường nhà mỏng tựa giấy thôi"
+    },
+    {
+      "t": 39.06,
+      "end": 42.26,
+      "text": "Chị hô một tiếng, tôi ngồi bật dậy"
+    },
+    {
+      "t": 45.64,
+      "end": 45.64,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.64,
+      "end": 48.68,
+      "text": "“Chốt đơn! Chốt đơn!” chị hô xuyên tường"
+    },
+    {
+      "t": 49.74,
+      "end": 53.05,
+      "text": "“Bảy ngày trắng da, không trắng hoàn tiền”"
+    },
+    {
+      "t": 54.67,
+      "end": 57.87,
+      "text": "Bên này tôi nằm đếm cừu không nổi"
+    },
+    {
+      "t": 57.93,
+      "end": 61.17,
+      "text": "Đếm luôn đơn chị: ba trăm lẻ hai"
+    },
+    {
+      "t": 72.39,
+      "end": 72.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.39,
+      "end": 74.59,
+      "text": "Mẹ tôi sang mắng chị Hoa"
+    },
+    {
+      "t": 75.55,
+      "end": 79.29,
+      "text": "Mười phút sau về, đã là khách quen"
+    },
+    {
+      "t": 80.67,
+      "end": 83.85,
+      "text": "Tay cầm hai hũ, còn khen"
+    },
+    {
+      "t": 84.93,
+      "end": 88.37,
+      "text": "Bảo tôi học chị, đừng ghen, mà làm"
+    },
+    {
+      "t": 90.03,
+      "end": 90.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.03,
+      "end": 92.83,
+      "text": "“Chốt đơn! Chốt đơn!” giờ hai giọng xuyên tường"
+    },
+    {
+      "t": 95.49,
+      "end": 100.89,
+      "text": "Chị hô một tiếng, mẹ tôi hô theo"
+    },
+    {
+      "t": 105.15,
+      "end": 109.61,
+      "text": "Bên này tôi nằm đếm cừu không nổi"
+    },
+    {
+      "t": 109.79,
+      "end": 119.05,
+      "text": "Đếm luôn đơn mẹ: mười hai, toàn họ hàng"
+    },
+    {
+      "t": 127.13,
+      "end": 127.13,
+      "text": "[Bridge - spoken busker banter over dan nhi]"
+    },
+    {
+      "t": 127.13,
+      "end": 127.73,
+      "text": "Thưa các cô các bác đi qua"
+    },
+    {
+      "t": 127.75,
+      "end": 156.62,
+      "text": "Ai bán cho tôi một đêm ngủ yên, tôi chốt liền tay"
+    },
+    {
+      "t": 165.54,
+      "end": 165.54,
+      "text": "[Outro - phach alone]"
+    },
+    {
+      "t": 165.54,
+      "end": 170.4,
+      "text": "Một đêm ngủ yên, còn hàng không chị?"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

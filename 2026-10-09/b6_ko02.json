@@ -1,0 +1,489 @@
+{
+  "id": "b6_ko02",
+  "title": "커플 타임",
+  "title_source": "scripted",
+  "genre": "new jack swing revival",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "flirting on rental skates",
+  "persona": "",
+  "subject": "the couples-only song at a retro roller rink, and the boyfriend who said he could skate",
+  "caption": "New jack swing revival in the early-90s Korean dance-pop style. A swung sixteenth-note drum-machine groove with a hard gated, reverbed snare on two and four and busy syncopated kicks. Synth-brass and orchestra-hit stabs land on the off-beats. A Rhodes-style electric piano plays ninth chords, and a funky programmed synth bass moves in sixteenths. Fully programmed and tight, punchy drums forward, brass stabs spread wide, vocals stacked in the center, no live-band feel. Smooth, light female lead, breathy in the verses, with stacked group harmonies on the chorus and a short half-spoken bridge. 108 BPM, C minor. Flirting while holding each other up. No trap hi-hats, no live slap bass, no slow R&B ballad tempo, no autotune, no EDM drop.",
+  "lyrics": "[Intro - swung drum machine, gated snare and a synth-brass stab]\n\n[Verse 1]\n토요일 밤 롤러장, 천장엔 미러볼\n대여 스케이트 이백사십, 끈은 네가 묶어 줬지\n\"나 잘 타\" 하던 너는 벽만 잡고 돌아\n나는 웃다가 네 소매 잡고 같이 돌아\n\n[Pre-Chorus]\nDJ가 마이크 잡고 말해\n지금부터 커플 타임\n\n[Chorus]\n커플 타임, 손 놓지 마\n넘어져도 둘이 같이 넘어지면 돼\n한 바퀴만 더, 노래 끝나기 전에\n네 손에 땀 난 거 나 다 알아\n\n[Verse 2]\n중학생들이 우릴 휙휙 앞질러 가\n넌 괜히 허리 펴고 뒷짐까지 져\n그러다 쿵, 엉덩이부터 바닥에\n일으켜 주는 척 나도 옆에 앉아\n\n[Bridge - half-spoken over brass stabs]\n있잖아, 사실 나 스케이트 잘 타\n네 손 잡으려고 일부러 넘어졌어\n\n[Chorus]\n커플 타임, 손 놓지 마\n넘어져도 둘이 같이 넘어지면 돼\n한 바퀴만 더, 불 꺼지기 전에\n이제는 네가 내 손 놓지 마\n\n[Outro - drum machine and Rhodes, fading]\n스케이트 반납은 열 시까지\n우리는 아홉 시 오십구 분",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "New jack swing revival in the early-90s Korean dance-pop style. A swung sixteenth-note drum-machine groove with a hard gated, reverbed snare on two and four and busy syncopated kicks. Synth-brass and orchestra-hit stabs land on the off-beats. A Rhodes-style electric piano plays ninth chords, and a funky programmed synth bass moves in sixteenths. Fully programmed and tight, punchy drums forward, brass stabs spread wide, vocals stacked in the center, no live-band feel. Smooth, light female lead, breathy in the verses, with stacked group harmonies on the chorus and a short half-spoken bridge. 108 BPM, C minor. Flirting while holding each other up. No trap hi-hats, no live slap bass, no slow R&B ballad tempo, no autotune, no EDM drop.",
+    "lyrics": "[Intro - swung drum machine, gated snare and a synth-brass stab]\n\n[Verse 1]\n토요일 밤 롤러장, 천장엔 미러볼\n대여 스케이트 이백사십, 끈은 네가 묶어 줬지\n\"나 잘 타\" 하던 너는 벽만 잡고 돌아\n나는 웃다가 네 소매 잡고 같이 돌아\n\n[Pre-Chorus]\nDJ가 마이크 잡고 말해\n지금부터 커플 타임\n\n[Chorus]\n커플 타임, 손 놓지 마\n넘어져도 둘이 같이 넘어지면 돼\n한 바퀴만 더, 노래 끝나기 전에\n네 손에 땀 난 거 나 다 알아\n\n[Verse 2]\n중학생들이 우릴 휙휙 앞질러 가\n넌 괜히 허리 펴고 뒷짐까지 져\n그러다 쿵, 엉덩이부터 바닥에\n일으켜 주는 척 나도 옆에 앉아\n\n[Bridge - half-spoken over brass stabs]\n있잖아, 사실 나 스케이트 잘 타\n네 손 잡으려고 일부러 넘어졌어\n\n[Chorus]\n커플 타임, 손 놓지 마\n넘어져도 둘이 같이 넘어지면 돼\n한 바퀴만 더, 불 꺼지기 전에\n이제는 네가 내 손 놓지 마\n\n[Outro - drum machine and Rhodes, fading]\n스케이트 반납은 열 시까지\n우리는 아홉 시 오십구 분"
+  },
+  "seed": "2111399757",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.90s**\n- 61.90s per song\n- LM phase (1 song): 9.07s\n- DiT phase (1 song): 52.83s",
+  "task_id": "230e59f0-3c8b-441f-8e10-1949dada9258",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-09T21:00:17.111145+08:00",
+  "audio": "b6_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.32,
+      "end": 36.32,
+      "text": "[Intro - swung drum machine, gated snare and a synth-brass stab]"
+    },
+    {
+      "t": 36.32,
+      "end": 36.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.32,
+      "end": 39.78,
+      "text": "토요일 밤 롤러장, 천장엔 미러볼"
+    },
+    {
+      "t": 40.48,
+      "end": 43.2,
+      "text": "대여 스케이트 이백사십, 끈은 네가 묶어 줬지"
+    },
+    {
+      "t": 44.94,
+      "end": 49.08,
+      "text": "\"나 잘 타\" 하던 너는 벽만 잡고 돌아"
+    },
+    {
+      "t": 49.08,
+      "end": 50.86,
+      "text": "나는 웃다가 네 소매 잡고 같이 돌아"
+    },
+    {
+      "t": 50.92,
+      "end": 50.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.92,
+      "end": 52.4,
+      "text": "DJ가 마이크 잡고 말해"
+    },
+    {
+      "t": 52.42,
+      "end": 54.27,
+      "text": "지금부터 커플 타임"
+    },
+    {
+      "t": 54.37,
+      "end": 54.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.37,
+      "end": 55.65,
+      "text": "커플 타임, 손 놓지 마"
+    },
+    {
+      "t": 55.65,
+      "end": 66.81,
+      "text": "넘어져도 둘이 같이 넘어지면 돼"
+    },
+    {
+      "t": 71.31,
+      "end": 74.93,
+      "text": "한 바퀴만 더, 노래 끝나기 전에"
+    },
+    {
+      "t": 74.93,
+      "end": 79.55,
+      "text": "네 손에 땀 난 거 나 다 알아"
+    },
+    {
+      "t": 81.29,
+      "end": 81.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.29,
+      "end": 84.79,
+      "text": "중학생들이 우릴 휙휙 앞질러 가"
+    },
+    {
+      "t": 85.19,
+      "end": 91.47,
+      "text": "넌 괜히 허리 펴고 뒷짐까지 져"
+    },
+    {
+      "t": 92.43,
+      "end": 96.19,
+      "text": "그러다 쿵, 엉덩이부터 바닥에"
+    },
+    {
+      "t": 96.71,
+      "end": 100.35,
+      "text": "일으켜 주는 척 나도 옆에 앉아"
+    },
+    {
+      "t": 103.31,
+      "end": 103.31,
+      "text": "[Bridge - half-spoken over brass stabs]"
+    },
+    {
+      "t": 103.31,
+      "end": 106.45,
+      "text": "있잖아, 사실 나 스케이트 잘 타"
+    },
+    {
+      "t": 107.17,
+      "end": 110.89,
+      "text": "네 손 잡으려고 일부러 넘어졌어"
+    },
+    {
+      "t": 112.13,
+      "end": 112.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.13,
+      "end": 115.33,
+      "text": "커플 타임, 손 놓지 마"
+    },
+    {
+      "t": 116.59,
+      "end": 119.87,
+      "text": "넘어져도 둘이 같이 넘어지면 돼"
+    },
+    {
+      "t": 120.77,
+      "end": 124.55,
+      "text": "한 바퀴만 더, 불 꺼지기 전에"
+    },
+    {
+      "t": 125.85,
+      "end": 170.28,
+      "text": "이제는 네가 내 손 놓지 마"
+    },
+    {
+      "t": 172.08,
+      "end": 172.08,
+      "text": "[Outro - drum machine and Rhodes, fading]"
+    },
+    {
+      "t": 172.08,
+      "end": 187.5,
+      "text": "스케이트 반납은 열 시까지"
+    },
+    {
+      "t": 188.0,
+      "end": 198.48,
+      "text": "우리는 아홉 시 오십구 분"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.32,
+      "end": 36.32,
+      "text": "[Intro - swung drum machine, gated snare and a synth-brass stab]"
+    },
+    {
+      "t": 36.32,
+      "end": 36.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.32,
+      "end": 39.78,
+      "text": "토요일 밤 롤러장, 천장엔 미러볼"
+    },
+    {
+      "t": 40.48,
+      "end": 43.2,
+      "text": "대여 스케이트 이백사십, 끈은 네가 묶어 줬지"
+    },
+    {
+      "t": 44.94,
+      "end": 49.08,
+      "text": "\"나 잘 타\" 하던 너는 벽만 잡고 돌아"
+    },
+    {
+      "t": 49.08,
+      "end": 50.86,
+      "text": "나는 웃다가 네 소매 잡고 같이 돌아"
+    },
+    {
+      "t": 50.92,
+      "end": 50.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.92,
+      "end": 52.4,
+      "text": "DJ가 마이크 잡고 말해"
+    },
+    {
+      "t": 52.42,
+      "end": 54.27,
+      "text": "지금부터 커플 타임"
+    },
+    {
+      "t": 54.37,
+      "end": 54.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.37,
+      "end": 55.65,
+      "text": "커플 타임, 손 놓지 마"
+    },
+    {
+      "t": 55.65,
+      "end": 66.81,
+      "text": "넘어져도 둘이 같이 넘어지면 돼"
+    },
+    {
+      "t": 71.31,
+      "end": 74.93,
+      "text": "한 바퀴만 더, 노래 끝나기 전에"
+    },
+    {
+      "t": 74.93,
+      "end": 79.55,
+      "text": "네 손에 땀 난 거 나 다 알아"
+    },
+    {
+      "t": 81.29,
+      "end": 81.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.29,
+      "end": 84.79,
+      "text": "중학생들이 우릴 휙휙 앞질러 가"
+    },
+    {
+      "t": 85.19,
+      "end": 91.47,
+      "text": "넌 괜히 허리 펴고 뒷짐까지 져"
+    },
+    {
+      "t": 92.43,
+      "end": 96.19,
+      "text": "그러다 쿵, 엉덩이부터 바닥에"
+    },
+    {
+      "t": 96.71,
+      "end": 100.35,
+      "text": "일으켜 주는 척 나도 옆에 앉아"
+    },
+    {
+      "t": 103.31,
+      "end": 103.31,
+      "text": "[Bridge - half-spoken over brass stabs]"
+    },
+    {
+      "t": 103.31,
+      "end": 106.45,
+      "text": "있잖아, 사실 나 스케이트 잘 타"
+    },
+    {
+      "t": 107.17,
+      "end": 110.89,
+      "text": "네 손 잡으려고 일부러 넘어졌어"
+    },
+    {
+      "t": 112.13,
+      "end": 112.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.13,
+      "end": 115.33,
+      "text": "커플 타임, 손 놓지 마"
+    },
+    {
+      "t": 116.59,
+      "end": 119.87,
+      "text": "넘어져도 둘이 같이 넘어지면 돼"
+    },
+    {
+      "t": 120.77,
+      "end": 124.55,
+      "text": "한 바퀴만 더, 불 꺼지기 전에"
+    },
+    {
+      "t": 125.85,
+      "end": 170.28,
+      "text": "이제는 네가 내 손 놓지 마"
+    },
+    {
+      "t": 172.08,
+      "end": 172.08,
+      "text": "[Outro - drum machine and Rhodes, fading]"
+    },
+    {
+      "t": 172.08,
+      "end": 187.5,
+      "text": "스케이트 반납은 열 시까지"
+    },
+    {
+      "t": 188.0,
+      "end": 198.48,
+      "text": "우리는 아홉 시 오십구 분"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 32.44,
+      "end": 32.44,
+      "text": "[Intro - swung drum machine, gated snare and a synth-brass stab]"
+    },
+    {
+      "t": 32.44,
+      "end": 32.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.44,
+      "end": 39.82,
+      "text": "토요일 밤 롤러장, 천장엔 미러볼"
+    },
+    {
+      "t": 40.48,
+      "end": 44.62,
+      "text": "대여 스케이트 이백사십, 끈은 네가 묶어 줬지"
+    },
+    {
+      "t": 44.92,
+      "end": 49.1,
+      "text": "\"나 잘 타\" 하던 너는 벽만 잡고 돌아"
+    },
+    {
+      "t": 49.22,
+      "end": 51.86,
+      "text": "나는 웃다가 네 소매 잡고 같이 돌아"
+    },
+    {
+      "t": 51.86,
+      "end": 51.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.86,
+      "end": 53.4,
+      "text": "DJ가 마이크 잡고 말해"
+    },
+    {
+      "t": 54.09,
+      "end": 55.43,
+      "text": "지금부터 커플 타임"
+    },
+    {
+      "t": 55.43,
+      "end": 55.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.43,
+      "end": 56.45,
+      "text": "커플 타임, 손 놓지 마"
+    },
+    {
+      "t": 56.45,
+      "end": 70.31,
+      "text": "넘어져도 둘이 같이 넘어지면 돼"
+    },
+    {
+      "t": 71.31,
+      "end": 74.93,
+      "text": "한 바퀴만 더, 노래 끝나기 전에"
+    },
+    {
+      "t": 74.93,
+      "end": 81.29,
+      "text": "네 손에 땀 난 거 나 다 알아"
+    },
+    {
+      "t": 81.29,
+      "end": 81.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.29,
+      "end": 84.79,
+      "text": "중학생들이 우릴 휙휙 앞질러 가"
+    },
+    {
+      "t": 85.19,
+      "end": 89.23,
+      "text": "넌 괜히 허리 펴고 뒷짐까지 져"
+    },
+    {
+      "t": 90.79,
+      "end": 96.19,
+      "text": "그러다 쿵, 엉덩이부터 바닥에"
+    },
+    {
+      "t": 96.71,
+      "end": 100.35,
+      "text": "일으켜 주는 척 나도 옆에 앉아"
+    },
+    {
+      "t": 103.31,
+      "end": 103.31,
+      "text": "[Bridge - half-spoken over brass stabs]"
+    },
+    {
+      "t": 103.31,
+      "end": 106.43,
+      "text": "있잖아, 사실 나 스케이트 잘 타"
+    },
+    {
+      "t": 107.17,
+      "end": 110.89,
+      "text": "네 손 잡으려고 일부러 넘어졌어"
+    },
+    {
+      "t": 112.15,
+      "end": 112.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.15,
+      "end": 115.33,
+      "text": "커플 타임, 손 놓지 마"
+    },
+    {
+      "t": 116.61,
+      "end": 119.83,
+      "text": "넘어져도 둘이 같이 넘어지면 돼"
+    },
+    {
+      "t": 120.77,
+      "end": 124.51,
+      "text": "한 바퀴만 더, 불 꺼지기 전에"
+    },
+    {
+      "t": 125.85,
+      "end": 128.67,
+      "text": "이제는 네가 내 손 놓지 마"
+    },
+    {
+      "t": 128.89,
+      "end": 128.89,
+      "text": "[Outro - drum machine and Rhodes, fading]"
+    },
+    {
+      "t": 128.89,
+      "end": 150.41,
+      "text": "스케이트 반납은 열 시까지"
+    },
+    {
+      "t": 150.55,
+      "end": 189.88,
+      "text": "우리는 아홉 시 오십구 분"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "b6_ja10",
+  "title": "また同じ歌",
+  "title_source": "scripted",
+  "genre": "Amami shima-uta",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "teasing tenderness after forty years",
+  "persona": "",
+  "subject": "an old wife on Amami teasing her husband for playing the same sanshin song every evening for forty years",
+  "caption": "Amami island shima-uta folk with a light modern frame. An Amami sanshin tuned high and played with a thin bamboo pick, picking a bright repeating melody with small slides, a chijin hand drum giving sparse accents, hand claps from the backing singers in the chorus, a soft brushed drum kit and a low ambient pad entering only in the second half. Intimate and roomy like a porch at night, sanshin and voice forward, everything else low and far back. Female lead voice, high, with long drawn-out vowels and sudden flips into falsetto in the Amami guin style, answered by an older male voice in call-and-response. 84 BPM, A minor pentatonic. Teasing tenderness after forty years. No Okinawan Ryukyu-scale melody, no eisa taiko, no Okinawan pop band arrangement, no enka vibrato or orchestra, no autotune, no electric guitar, no four-on-the-floor.",
+  "lyrics": "[Intro - short free-time sanshin]\n\n[Verse 1 - female]\n晩ごはん片付けて 縁側に出ると\nあんたは もう 三線 抱えてる\n四十年 毎晩 同じ一曲\n蚊取り線香と 同じくらい 決まってる\n\n[Pre-Chorus - female]\nたまには 違うの 弾いたらって\n言うと 黙って 糸を締め直す\n\n[Chorus - female]\nまた 同じ歌 また 同じ歌\nあんたが 十九の 夏に\nうちの垣根の外で 弾いた歌\n[Chorus - male answer]\n同じでいい 同じでいい\n\n[Verse 2 - female]\n初めて聴いたのは 夜の九時ごろ\n下手くそで 三回 間違えて\n父ちゃんが 石を投げに 出ていった\nあんたは逃げて 次の晩も来た\n\n[Chorus - female]\nまた 同じ歌 また 同じ歌\n今でも ちょっと 下手くそで\n続きは 私が 歌ってやる\n[Chorus - male answer]\n同じでいい 同じでいい\n\n[Outro - sanshin and claps, fading]\nもう一回 弾きな\n蚊が来る前に",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 220.0,
+    "genres": "N/A",
+    "keyscale": "A minor pentatonic",
+    "timesignature": "4",
+    "prompt": "Amami island shima-uta folk with a light modern frame. An Amami sanshin tuned high and played with a thin bamboo pick, picking a bright repeating melody with small slides, a chijin hand drum giving sparse accents, hand claps from the backing singers in the chorus, a soft brushed drum kit and a low ambient pad entering only in the second half. Intimate and roomy like a porch at night, sanshin and voice forward, everything else low and far back. Female lead voice, high, with long drawn-out vowels and sudden flips into falsetto in the Amami guin style, answered by an older male voice in call-and-response. 84 BPM, A minor pentatonic. Teasing tenderness after forty years. No Okinawan Ryukyu-scale melody, no eisa taiko, no Okinawan pop band arrangement, no enka vibrato or orchestra, no autotune, no electric guitar, no four-on-the-floor.",
+    "lyrics": "[Intro - short free-time sanshin]\n\n[Verse 1 - female]\n晩ごはん片付けて 縁側に出ると\nあんたは もう 三線 抱えてる\n四十年 毎晩 同じ一曲\n蚊取り線香と 同じくらい 決まってる\n\n[Pre-Chorus - female]\nたまには 違うの 弾いたらって\n言うと 黙って 糸を締め直す\n\n[Chorus - female]\nまた 同じ歌 また 同じ歌\nあんたが 十九の 夏に\nうちの垣根の外で 弾いた歌\n[Chorus - male answer]\n同じでいい 同じでいい\n\n[Verse 2 - female]\n初めて聴いたのは 夜の九時ごろ\n下手くそで 三回 間違えて\n父ちゃんが 石を投げに 出ていった\nあんたは逃げて 次の晩も来た\n\n[Chorus - female]\nまた 同じ歌 また 同じ歌\n今でも ちょっと 下手くそで\n続きは 私が 歌ってやる\n[Chorus - male answer]\n同じでいい 同じでいい\n\n[Outro - sanshin and claps, fading]\nもう一回 弾きな\n蚊が来る前に"
+  },
+  "seed": "3935493534",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 141.86s**\n- 141.86s per song\n- LM phase (1 song): 25.46s\n- DiT phase (1 song): 116.40s",
+  "task_id": "21ec5dfe-35a2-4bab-a047-b2b488dd2bfc",
+  "elapsed_s": 190.6,
+  "generated_at": "2026-10-09T23:28:27.707261+08:00",
+  "audio": "b6_ja10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 39.82,
+      "end": 39.82,
+      "text": "[Intro - short free-time sanshin]"
+    },
+    {
+      "t": 39.82,
+      "end": 39.82,
+      "text": "[Verse 1 - female]"
+    },
+    {
+      "t": 39.82,
+      "end": 43.0,
+      "text": "晩ごはん片付けて 縁側に出ると"
+    },
+    {
+      "t": 45.62,
+      "end": 51.6,
+      "text": "あんたは もう 三線 抱えてる"
+    },
+    {
+      "t": 51.62,
+      "end": 53.1,
+      "text": "四十年 毎晩 同じ一曲"
+    },
+    {
+      "t": 53.1,
+      "end": 56.53,
+      "text": "蚊取り線香と 同じくらい 決まってる"
+    },
+    {
+      "t": 56.55,
+      "end": 56.55,
+      "text": "[Pre-Chorus - female]"
+    },
+    {
+      "t": 56.55,
+      "end": 58.19,
+      "text": "たまには 違うの 弾いたらって"
+    },
+    {
+      "t": 58.25,
+      "end": 59.41,
+      "text": "言うと 黙って 糸を締め直す"
+    },
+    {
+      "t": 59.41,
+      "end": 59.41,
+      "text": "[Chorus - female]"
+    },
+    {
+      "t": 59.41,
+      "end": 60.27,
+      "text": "また 同じ歌 また 同じ歌"
+    },
+    {
+      "t": 60.33,
+      "end": 61.53,
+      "text": "あんたが 十九の 夏に"
+    },
+    {
+      "t": 61.53,
+      "end": 77.95,
+      "text": "うちの垣根の外で 弾いた歌"
+    },
+    {
+      "t": 77.95,
+      "end": 77.95,
+      "text": "[Chorus - male answer]"
+    },
+    {
+      "t": 77.95,
+      "end": 83.63,
+      "text": "同じでいい 同じでいい"
+    },
+    {
+      "t": 83.63,
+      "end": 83.63,
+      "text": "[Verse 2 - female]"
+    },
+    {
+      "t": 83.63,
+      "end": 87.49,
+      "text": "初めて聴いたのは 夜の九時ごろ"
+    },
+    {
+      "t": 88.61,
+      "end": 94.63,
+      "text": "下手くそで 三回 間違えて"
+    },
+    {
+      "t": 99.83,
+      "end": 103.57,
+      "text": "父ちゃんが 石を投げに 出ていった"
+    },
+    {
+      "t": 103.75,
+      "end": 106.43,
+      "text": "あんたは逃げて 次の晩も来た"
+    },
+    {
+      "t": 106.43,
+      "end": 106.43,
+      "text": "[Chorus - female]"
+    },
+    {
+      "t": 106.43,
+      "end": 113.79,
+      "text": "また 同じ歌 また 同じ歌"
+    },
+    {
+      "t": 114.01,
+      "end": 119.65,
+      "text": "今でも ちょっと 下手くそで"
+    },
+    {
+      "t": 119.75,
+      "end": 123.95,
+      "text": "続きは 私が 歌ってやる"
+    },
+    {
+      "t": 128.37,
+      "end": 128.37,
+      "text": "[Chorus - male answer]"
+    },
+    {
+      "t": 128.37,
+      "end": 179.66,
+      "text": "同じでいい 同じでいい"
+    },
+    {
+      "t": 179.96,
+      "end": 179.96,
+      "text": "[Outro - sanshin and claps, fading]"
+    },
+    {
+      "t": 179.96,
+      "end": 183.4,
+      "text": "もう一回 弾きな"
+    },
+    {
+      "t": 186.2,
+      "end": 189.48,
+      "text": "蚊が来る前に"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 39.82,
+      "end": 39.82,
+      "text": "[Intro - short free-time sanshin]"
+    },
+    {
+      "t": 39.82,
+      "end": 39.82,
+      "text": "[Verse 1 - female]"
+    },
+    {
+      "t": 39.82,
+      "end": 43.0,
+      "text": "晩ごはん片付けて 縁側に出ると"
+    },
+    {
+      "t": 45.62,
+      "end": 51.6,
+      "text": "あんたは もう 三線 抱えてる"
+    },
+    {
+      "t": 51.62,
+      "end": 53.1,
+      "text": "四十年 毎晩 同じ一曲"
+    },
+    {
+      "t": 53.1,
+      "end": 56.53,
+      "text": "蚊取り線香と 同じくらい 決まってる"
+    },
+    {
+      "t": 56.55,
+      "end": 56.55,
+      "text": "[Pre-Chorus - female]"
+    },
+    {
+      "t": 56.55,
+      "end": 58.19,
+      "text": "たまには 違うの 弾いたらって"
+    },
+    {
+      "t": 58.25,
+      "end": 59.41,
+      "text": "言うと 黙って 糸を締め直す"
+    },
+    {
+      "t": 59.41,
+      "end": 59.41,
+      "text": "[Chorus - female]"
+    },
+    {
+      "t": 59.41,
+      "end": 60.27,
+      "text": "また 同じ歌 また 同じ歌"
+    },
+    {
+      "t": 60.33,
+      "end": 61.53,
+      "text": "あんたが 十九の 夏に"
+    },
+    {
+      "t": 61.53,
+      "end": 77.95,
+      "text": "うちの垣根の外で 弾いた歌"
+    },
+    {
+      "t": 77.95,
+      "end": 77.95,
+      "text": "[Chorus - male answer]"
+    },
+    {
+      "t": 77.95,
+      "end": 83.63,
+      "text": "同じでいい 同じでいい"
+    },
+    {
+      "t": 83.63,
+      "end": 83.63,
+      "text": "[Verse 2 - female]"
+    },
+    {
+      "t": 83.63,
+      "end": 87.49,
+      "text": "初めて聴いたのは 夜の九時ごろ"
+    },
+    {
+      "t": 88.61,
+      "end": 94.63,
+      "text": "下手くそで 三回 間違えて"
+    },
+    {
+      "t": 99.83,
+      "end": 103.57,
+      "text": "父ちゃんが 石を投げに 出ていった"
+    },
+    {
+      "t": 103.75,
+      "end": 106.43,
+      "text": "あんたは逃げて 次の晩も来た"
+    },
+    {
+      "t": 106.43,
+      "end": 106.43,
+      "text": "[Chorus - female]"
+    },
+    {
+      "t": 106.43,
+      "end": 113.79,
+      "text": "また 同じ歌 また 同じ歌"
+    },
+    {
+      "t": 114.01,
+      "end": 119.65,
+      "text": "今でも ちょっと 下手くそで"
+    },
+    {
+      "t": 119.75,
+      "end": 123.95,
+      "text": "続きは 私が 歌ってやる"
+    },
+    {
+      "t": 128.37,
+      "end": 128.37,
+      "text": "[Chorus - male answer]"
+    },
+    {
+      "t": 128.37,
+      "end": 179.66,
+      "text": "同じでいい 同じでいい"
+    },
+    {
+      "t": 179.96,
+      "end": 179.96,
+      "text": "[Outro - sanshin and claps, fading]"
+    },
+    {
+      "t": 179.96,
+      "end": 183.4,
+      "text": "もう一回 弾きな"
+    },
+    {
+      "t": 186.2,
+      "end": 189.48,
+      "text": "蚊が来る前に"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.5,
+      "end": 0.5,
+      "text": "[Intro - short free-time sanshin]"
+    },
+    {
+      "t": 0.5,
+      "end": 0.5,
+      "text": "[Verse 1 - female]"
+    },
+    {
+      "t": 0.5,
+      "end": 12.76,
+      "text": "晩ごはん片付けて 縁側に出ると"
+    },
+    {
+      "t": 13.26,
+      "end": 28.12,
+      "text": "あんたは もう 三線 抱えてる"
+    },
+    {
+      "t": 29.8,
+      "end": 36.68,
+      "text": "四十年 毎晩 同じ一曲"
+    },
+    {
+      "t": 36.8,
+      "end": 42.76,
+      "text": "蚊取り線香と 同じくらい 決まってる"
+    },
+    {
+      "t": 42.86,
+      "end": 42.86,
+      "text": "[Pre-Chorus - female]"
+    },
+    {
+      "t": 42.86,
+      "end": 48.16,
+      "text": "たまには 違うの 弾いたらって"
+    },
+    {
+      "t": 48.26,
+      "end": 53.14,
+      "text": "言うと 黙って 糸を締め直す"
+    },
+    {
+      "t": 53.22,
+      "end": 53.22,
+      "text": "[Chorus - female]"
+    },
+    {
+      "t": 53.22,
+      "end": 57.37,
+      "text": "また 同じ歌 また 同じ歌"
+    },
+    {
+      "t": 57.45,
+      "end": 59.23,
+      "text": "あんたが 十九の 夏に"
+    },
+    {
+      "t": 59.37,
+      "end": 74.67,
+      "text": "うちの垣根の外で 弾いた歌"
+    },
+    {
+      "t": 74.71,
+      "end": 74.71,
+      "text": "[Chorus - male answer]"
+    },
+    {
+      "t": 74.71,
+      "end": 83.53,
+      "text": "同じでいい 同じでいい"
+    },
+    {
+      "t": 83.61,
+      "end": 83.61,
+      "text": "[Verse 2 - female]"
+    },
+    {
+      "t": 83.61,
+      "end": 87.51,
+      "text": "初めて聴いたのは 夜の九時ごろ"
+    },
+    {
+      "t": 88.61,
+      "end": 94.63,
+      "text": "下手くそで 三回 間違えて"
+    },
+    {
+      "t": 95.57,
+      "end": 104.09,
+      "text": "父ちゃんが 石を投げに 出ていった"
+    },
+    {
+      "t": 105.87,
+      "end": 120.69,
+      "text": "あんたは逃げて 次の晩も来た"
+    },
+    {
+      "t": 122.35,
+      "end": 122.35,
+      "text": "[Chorus - female]"
+    },
+    {
+      "t": 122.35,
+      "end": 129.43,
+      "text": "また 同じ歌 また 同じ歌"
+    },
+    {
+      "t": 129.59,
+      "end": 170.28,
+      "text": "今でも ちょっと 下手くそで"
+    },
+    {
+      "t": 170.9,
+      "end": 179.94,
+      "text": "続きは 私が 歌ってやる"
+    },
+    {
+      "t": 179.96,
+      "end": 179.96,
+      "text": "[Chorus - male answer]"
+    },
+    {
+      "t": 179.96,
+      "end": 187.08,
+      "text": "同じでいい 同じでいい"
+    },
+    {
+      "t": 188.4,
+      "end": 188.4,
+      "text": "[Outro - sanshin and claps, fading]"
+    },
+    {
+      "t": 188.4,
+      "end": 192.64,
+      "text": "もう一回 弾きな"
+    },
+    {
+      "t": 193.76,
+      "end": 212.0,
+      "text": "蚊が来る前に"
+    }
+  ]
+}

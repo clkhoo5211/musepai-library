@@ -1,0 +1,337 @@
+{
+  "id": "b6_zh06",
+  "title": "請簡短描述您的問題",
+  "title_source": "scripted",
+  "genre": "Mandarin post-punk",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "fifty-two minutes of polite fury",
+  "persona": "",
+  "subject": "fifty-two minutes pressing zero on a telecom hotline's voice bot to reach a human",
+  "caption": "Mandarin post-punk in the cold Beijing underground style. A melodic bass played high on the neck carrying the main riff, tight dry drums in motorik eighth notes with floor-tom accents, scratchy flanged guitar stabs, a cold synth drone underneath, and a saxophone that squalls at the climaxes. Spacious and cold, the bass and the voice forward, the vocal in a long dark reverb. Deadpan low male voice, declamatory and half-spoken, flat and patient, rising to hoarse shouts at the end of each chorus. 138 BPM, B minor. Fifty-two minutes of polite fury at a machine. No pop chorus melody, no trap drums, no autotune, no fast hardcore tempo, no warm major-key resolution.",
+  "lyrics": "[Intro - high melodic bass riff over motorik drums]\n\n[Verse 1]\n我家的網路斷了三天 我打給客服\n一個很溫柔的聲音說 您好\n請簡短描述您的問題\n我說 網路斷了\n她說 不好意思 我沒有聽懂\n您是要申辦新的門號嗎\n\n[Chorus]\n請簡短描述您的問題\n我的問題 就是你\n我按零 我按零 我按了十四次零\n真人客服 到底在哪裡\n\n[Verse 2]\n第三十一分鐘 她開始放音樂\n同一段鋼琴 我現在已經會哼了\n第四十分鐘 我對著手機大喊 真人\n她說 好的 為您轉接 然後就掛了\n\n[Bridge - saxophone squall, shouted]\n網路 斷了\n網路 斷了\n\n[Chorus]\n請簡短描述您的問題\n我的問題 還是你\n我按零 我按零 我按了二十二次零\n第五十二分鐘 有一個人說 喂\n\n[Outro - bass riff alone, deadpan]\n她說 先生 您的網路剛剛已經恢復了\n我說 謝謝 我竟然還說了謝謝\n\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "B minor",
+    "timesignature": "4",
+    "prompt": "Mandarin post-punk in the cold Beijing underground style. A melodic bass played high on the neck carrying the main riff, tight dry drums in motorik eighth notes with floor-tom accents, scratchy flanged guitar stabs, a cold synth drone underneath, and a saxophone that squalls at the climaxes. Spacious and cold, the bass and the voice forward, the vocal in a long dark reverb. Deadpan low male voice, declamatory and half-spoken, flat and patient, rising to hoarse shouts at the end of each chorus. 138 BPM, B minor. Fifty-two minutes of polite fury at a machine. No pop chorus melody, no trap drums, no autotune, no fast hardcore tempo, no warm major-key resolution.",
+    "lyrics": "[Intro - high melodic bass riff over motorik drums]\n\n[Verse 1]\n我家的網路斷了三天 我打給客服\n一個很溫柔的聲音說 您好\n請簡短描述您的問題\n我說 網路斷了\n她說 不好意思 我沒有聽懂\n您是要申辦新的門號嗎\n\n[Chorus]\n請簡短描述您的問題\n我的問題 就是你\n我按零 我按零 我按了十四次零\n真人客服 到底在哪裡\n\n[Verse 2]\n第三十一分鐘 她開始放音樂\n同一段鋼琴 我現在已經會哼了\n第四十分鐘 我對著手機大喊 真人\n她說 好的 為您轉接 然後就掛了\n\n[Bridge - saxophone squall, shouted]\n網路 斷了\n網路 斷了\n\n[Chorus]\n請簡短描述您的問題\n我的問題 還是你\n我按零 我按零 我按了二十二次零\n第五十二分鐘 有一個人說 喂\n\n[Outro - bass riff alone, deadpan]\n她說 先生 您的網路剛剛已經恢復了\n我說 謝謝 我竟然還說了謝謝\n\n[Song ends abruptly]"
+  },
+  "seed": "2766491821",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.02s**\n- 73.02s per song\n- LM phase (1 song): 20.95s\n- DiT phase (1 song): 52.07s",
+  "task_id": "3a1a8f6b-b883-4eec-b6e1-d7c72c48fee1",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-10-09T22:52:39.549277+08:00",
+  "audio": "b6_zh06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.48,
+      "end": 29.48,
+      "text": "[Intro - high melodic bass riff over motorik drums]"
+    },
+    {
+      "t": 29.48,
+      "end": 29.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.48,
+      "end": 33.98,
+      "text": "我家的網路斷了三天 我打給客服"
+    },
+    {
+      "t": 36.5,
+      "end": 40.72,
+      "text": "一個很溫柔的聲音說 您好"
+    },
+    {
+      "t": 54.57,
+      "end": 57.35,
+      "text": "請簡短描述您的問題"
+    },
+    {
+      "t": 57.89,
+      "end": 59.59,
+      "text": "我說 網路斷了"
+    },
+    {
+      "t": 61.41,
+      "end": 65.89,
+      "text": "她說 不好意思 我沒有聽懂"
+    },
+    {
+      "t": 66.23,
+      "end": 69.69,
+      "text": "您是要申辦新的門號嗎"
+    },
+    {
+      "t": 71.73,
+      "end": 71.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.73,
+      "end": 74.55,
+      "text": "請簡短描述您的問題"
+    },
+    {
+      "t": 75.51,
+      "end": 78.05,
+      "text": "我的問題 就是你"
+    },
+    {
+      "t": 78.85,
+      "end": 83.61,
+      "text": "我按零 我按零 我按了十四次零"
+    },
+    {
+      "t": 89.57,
+      "end": 91.97,
+      "text": "真人客服 到底在哪裡"
+    },
+    {
+      "t": 93.15,
+      "end": 93.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.15,
+      "end": 96.35,
+      "text": "第三十一分鐘 她開始放音樂"
+    },
+    {
+      "t": 96.47,
+      "end": 99.65,
+      "text": "同一段鋼琴 我現在已經會哼了"
+    },
+    {
+      "t": 100.19,
+      "end": 104.23,
+      "text": "第四十分鐘 我對著手機大喊 真人"
+    },
+    {
+      "t": 106.79,
+      "end": 111.09,
+      "text": "她說 好的 為您轉接 然後就掛了"
+    },
+    {
+      "t": 120.89,
+      "end": 120.89,
+      "text": "[Bridge - saxophone squall, shouted]"
+    },
+    {
+      "t": 120.89,
+      "end": 122.77,
+      "text": "網路 斷了"
+    },
+    {
+      "t": 122.93,
+      "end": 124.55,
+      "text": "網路 斷了"
+    },
+    {
+      "t": 124.65,
+      "end": 124.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.65,
+      "end": 129.63,
+      "text": "請簡短描述您的問題"
+    },
+    {
+      "t": 129.95,
+      "end": 131.83,
+      "text": "我的問題 還是你"
+    },
+    {
+      "t": 134.81,
+      "end": 139.57,
+      "text": "我按零 我按零 我按了二十二次零"
+    },
+    {
+      "t": 142.07,
+      "end": 146.49,
+      "text": "第五十二分鐘 有一個人說 喂"
+    },
+    {
+      "t": 150.85,
+      "end": 150.85,
+      "text": "[Outro - bass riff alone, deadpan]"
+    },
+    {
+      "t": 150.85,
+      "end": 155.2,
+      "text": "她說 先生 您的網路剛剛已經恢復了"
+    },
+    {
+      "t": 157.74,
+      "end": 201.36,
+      "text": "我說 謝謝 我竟然還說了謝謝"
+    },
+    {
+      "t": 201.36,
+      "end": 201.36,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.48,
+      "end": 29.48,
+      "text": "[Intro - high melodic bass riff over motorik drums]"
+    },
+    {
+      "t": 29.48,
+      "end": 29.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.48,
+      "end": 33.98,
+      "text": "我家的網路斷了三天 我打給客服"
+    },
+    {
+      "t": 36.5,
+      "end": 40.76,
+      "text": "一個很溫柔的聲音說 您好"
+    },
+    {
+      "t": 54.55,
+      "end": 57.35,
+      "text": "請簡短描述您的問題"
+    },
+    {
+      "t": 57.91,
+      "end": 59.57,
+      "text": "我說 網路斷了"
+    },
+    {
+      "t": 61.41,
+      "end": 65.89,
+      "text": "她說 不好意思 我沒有聽懂"
+    },
+    {
+      "t": 66.23,
+      "end": 69.69,
+      "text": "您是要申辦新的門號嗎"
+    },
+    {
+      "t": 71.73,
+      "end": 71.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.73,
+      "end": 74.55,
+      "text": "請簡短描述您的問題"
+    },
+    {
+      "t": 75.53,
+      "end": 78.05,
+      "text": "我的問題 就是你"
+    },
+    {
+      "t": 78.87,
+      "end": 83.61,
+      "text": "我按零 我按零 我按了十四次零"
+    },
+    {
+      "t": 89.57,
+      "end": 91.97,
+      "text": "真人客服 到底在哪裡"
+    },
+    {
+      "t": 93.17,
+      "end": 93.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.17,
+      "end": 96.35,
+      "text": "第三十一分鐘 她開始放音樂"
+    },
+    {
+      "t": 96.45,
+      "end": 99.63,
+      "text": "同一段鋼琴 我現在已經會哼了"
+    },
+    {
+      "t": 100.19,
+      "end": 104.25,
+      "text": "第四十分鐘 我對著手機大喊 真人"
+    },
+    {
+      "t": 106.79,
+      "end": 111.07,
+      "text": "她說 好的 為您轉接 然後就掛了"
+    },
+    {
+      "t": 120.71,
+      "end": 120.71,
+      "text": "[Bridge - saxophone squall, shouted]"
+    },
+    {
+      "t": 120.71,
+      "end": 121.21,
+      "text": "網路 斷了"
+    },
+    {
+      "t": 121.31,
+      "end": 122.79,
+      "text": "網路 斷了"
+    },
+    {
+      "t": 122.93,
+      "end": 122.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.93,
+      "end": 129.63,
+      "text": "請簡短描述您的問題"
+    },
+    {
+      "t": 129.95,
+      "end": 131.85,
+      "text": "我的問題 還是你"
+    },
+    {
+      "t": 134.81,
+      "end": 139.57,
+      "text": "我按零 我按零 我按了二十二次零"
+    },
+    {
+      "t": 142.07,
+      "end": 146.47,
+      "text": "第五十二分鐘 有一個人說 喂"
+    },
+    {
+      "t": 150.85,
+      "end": 150.85,
+      "text": "[Outro - bass riff alone, deadpan]"
+    },
+    {
+      "t": 150.85,
+      "end": 155.2,
+      "text": "她說 先生 您的網路剛剛已經恢復了"
+    },
+    {
+      "t": 157.74,
+      "end": 200.96,
+      "text": "我說 謝謝 我竟然還說了謝謝"
+    },
+    {
+      "t": 200.96,
+      "end": 200.96,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

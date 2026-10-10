@@ -1,0 +1,459 @@
+{
+  "id": "b6_zh05",
+  "title": "手滑按到讚",
+  "title_source": "scripted",
+  "genre": "Y2K bubblegum dance-pop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "giddy sugar-high crush",
+  "persona": "",
+  "subject": "accidentally liking a crush's four-year-old photo at two in the morning",
+  "caption": "Y2K bubblegum dance-pop in the early-2000s Taiwanese teen-idol style. A bright square-wave synth lead playing the hook, a glockenspiel doubling the vocal melody, handclaps on every backbeat, a bouncy four-on-the-floor pop beat and palm-muted clean electric guitar; a cheerleader gang chant shouting hey in answer, and a key change up a whole step to E major for the last chorus. Bright, tight and candy-coloured, the glockenspiel and the lead vocal forward. Sweet, light female head voice with cute spoken asides and group hey chants. 130 BPM, D major. A giddy two a.m. crush and one slipped thumb. No dark minor chords, no trap drums, no heavy bass drop, no 80s synthpop gated drums, no autotune, no breathy R&B runs.",
+  "lyrics": "[Intro - square-wave lead hook, glockenspiel and handclaps]\n\n[Verse 1]\n凌晨兩點 棉被裡 手機亮度調到最暗\n我在看他的照片 只是看看而已\n往下滑 往下滑 滑到四年前\n他在海邊 頭髮還是黃的\n\n[Pre-Chorus]\n大拇指一抖 一顆愛心跳出來\n四年前的照片 被我按了讚\n\n[Chorus]\n手滑了 手滑了 (Hey!)\n四年前的海邊 有一顆我的愛心\n現在收回來 他會不會看到\n我把手機丟到床底下 (Hey! Hey!)\n\n[Verse 2]\n室友被我吵醒 她說 妳完了\n我說 他在睡覺 他一定沒看到\n兩點零四分 床底下震了一下\n他也按了 我三年前的那張\n\n[Bridge - cheerleader chant and handclaps]\n他按回來了 他按回來了 他真的按回來了\n\n[Chorus - key change up, full chant]\n手滑了 手滑了 (Hey!)\n三年前的我 多了一顆他的愛心\n他傳來一句 妳也還沒睡喔\n我在棉被裡 尖叫到沒聲音 (Hey! Hey!)\n\n[Outro - glockenspiel alone, spoken]\n欸 他是不是也手滑",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Y2K bubblegum dance-pop in the early-2000s Taiwanese teen-idol style. A bright square-wave synth lead playing the hook, a glockenspiel doubling the vocal melody, handclaps on every backbeat, a bouncy four-on-the-floor pop beat and palm-muted clean electric guitar; a cheerleader gang chant shouting hey in answer, and a key change up a whole step to E major for the last chorus. Bright, tight and candy-coloured, the glockenspiel and the lead vocal forward. Sweet, light female head voice with cute spoken asides and group hey chants. 130 BPM, D major. A giddy two a.m. crush and one slipped thumb. No dark minor chords, no trap drums, no heavy bass drop, no 80s synthpop gated drums, no autotune, no breathy R&B runs.",
+    "lyrics": "[Intro - square-wave lead hook, glockenspiel and handclaps]\n\n[Verse 1]\n凌晨兩點 棉被裡 手機亮度調到最暗\n我在看他的照片 只是看看而已\n往下滑 往下滑 滑到四年前\n他在海邊 頭髮還是黃的\n\n[Pre-Chorus]\n大拇指一抖 一顆愛心跳出來\n四年前的照片 被我按了讚\n\n[Chorus]\n手滑了 手滑了 (Hey!)\n四年前的海邊 有一顆我的愛心\n現在收回來 他會不會看到\n我把手機丟到床底下 (Hey! Hey!)\n\n[Verse 2]\n室友被我吵醒 她說 妳完了\n我說 他在睡覺 他一定沒看到\n兩點零四分 床底下震了一下\n他也按了 我三年前的那張\n\n[Bridge - cheerleader chant and handclaps]\n他按回來了 他按回來了 他真的按回來了\n\n[Chorus - key change up, full chant]\n手滑了 手滑了 (Hey!)\n三年前的我 多了一顆他的愛心\n他傳來一句 妳也還沒睡喔\n我在棉被裡 尖叫到沒聲音 (Hey! Hey!)\n\n[Outro - glockenspiel alone, spoken]\n欸 他是不是也手滑"
+  },
+  "seed": "3985584867",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.46s**\n- 74.46s per song\n- LM phase (1 song): 19.66s\n- DiT phase (1 song): 54.80s",
+  "task_id": "ee81dba5-328e-466b-a211-0a2eacdcc53c",
+  "elapsed_s": 120.3,
+  "generated_at": "2026-10-09T22:50:49.336112+08:00",
+  "audio": "b6_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 2.74,
+      "end": 2.74,
+      "text": "[Intro - square-wave lead hook, glockenspiel and handclaps]"
+    },
+    {
+      "t": 2.74,
+      "end": 2.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.74,
+      "end": 66.01,
+      "text": "凌晨兩點 棉被裡 手機亮度調到最暗"
+    },
+    {
+      "t": 66.05,
+      "end": 68.35,
+      "text": "我在看他的照片 只是看看而已"
+    },
+    {
+      "t": 68.35,
+      "end": 70.07,
+      "text": "往下滑 往下滑 滑到四年前"
+    },
+    {
+      "t": 70.09,
+      "end": 71.37,
+      "text": "他在海邊 頭髮還是黃的"
+    },
+    {
+      "t": 71.51,
+      "end": 71.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.51,
+      "end": 77.19,
+      "text": "大拇指一抖 一顆愛心跳出來"
+    },
+    {
+      "t": 77.31,
+      "end": 93.67,
+      "text": "四年前的照片 被我按了讚"
+    },
+    {
+      "t": 94.13,
+      "end": 94.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.13,
+      "end": 97.33,
+      "text": "手滑了 手滑了 (Hey!)"
+    },
+    {
+      "t": 97.33,
+      "end": 98.23,
+      "text": "四年前的海邊 有一顆我的愛心"
+    },
+    {
+      "t": 98.29,
+      "end": 99.33,
+      "text": "現在收回來 他會不會看到"
+    },
+    {
+      "t": 99.37,
+      "end": 100.51,
+      "text": "我把手機丟到床底下 (Hey! Hey!)"
+    },
+    {
+      "t": 100.57,
+      "end": 100.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.57,
+      "end": 102.37,
+      "text": "室友被我吵醒 她說 妳完了"
+    },
+    {
+      "t": 102.37,
+      "end": 104.07,
+      "text": "我說 他在睡覺 他一定沒看到"
+    },
+    {
+      "t": 104.11,
+      "end": 105.85,
+      "text": "兩點零四分 床底下震了一下"
+    },
+    {
+      "t": 105.95,
+      "end": 107.03,
+      "text": "他也按了 我三年前的那張"
+    },
+    {
+      "t": 107.07,
+      "end": 107.07,
+      "text": "[Bridge - cheerleader chant and handclaps]"
+    },
+    {
+      "t": 107.07,
+      "end": 111.79,
+      "text": "他按回來了 他按回來了 他真的按回來了"
+    },
+    {
+      "t": 112.11,
+      "end": 112.11,
+      "text": "[Chorus - key change up, full chant]"
+    },
+    {
+      "t": 112.11,
+      "end": 116.85,
+      "text": "手滑了 手滑了 (Hey!)"
+    },
+    {
+      "t": 116.91,
+      "end": 131.01,
+      "text": "三年前的我 多了一顆他的愛心"
+    },
+    {
+      "t": 131.01,
+      "end": 136.53,
+      "text": "他傳來一句 妳也還沒睡喔"
+    },
+    {
+      "t": 138.29,
+      "end": 177.38,
+      "text": "我在棉被裡 尖叫到沒聲音 (Hey! Hey!)"
+    },
+    {
+      "t": 177.46,
+      "end": 177.46,
+      "text": "[Outro - glockenspiel alone, spoken]"
+    },
+    {
+      "t": 177.46,
+      "end": 181.42,
+      "text": "欸 他是不是也手滑"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 2.74,
+      "end": 2.74,
+      "text": "[Intro - square-wave lead hook, glockenspiel and handclaps]"
+    },
+    {
+      "t": 2.74,
+      "end": 2.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.74,
+      "end": 66.01,
+      "text": "凌晨兩點 棉被裡 手機亮度調到最暗"
+    },
+    {
+      "t": 66.05,
+      "end": 68.35,
+      "text": "我在看他的照片 只是看看而已"
+    },
+    {
+      "t": 68.35,
+      "end": 70.07,
+      "text": "往下滑 往下滑 滑到四年前"
+    },
+    {
+      "t": 70.09,
+      "end": 71.37,
+      "text": "他在海邊 頭髮還是黃的"
+    },
+    {
+      "t": 71.51,
+      "end": 71.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.51,
+      "end": 77.19,
+      "text": "大拇指一抖 一顆愛心跳出來"
+    },
+    {
+      "t": 77.31,
+      "end": 93.67,
+      "text": "四年前的照片 被我按了讚"
+    },
+    {
+      "t": 94.13,
+      "end": 94.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.13,
+      "end": 97.33,
+      "text": "手滑了 手滑了 (Hey!)"
+    },
+    {
+      "t": 97.33,
+      "end": 98.23,
+      "text": "四年前的海邊 有一顆我的愛心"
+    },
+    {
+      "t": 98.29,
+      "end": 99.33,
+      "text": "現在收回來 他會不會看到"
+    },
+    {
+      "t": 99.37,
+      "end": 100.51,
+      "text": "我把手機丟到床底下 (Hey! Hey!)"
+    },
+    {
+      "t": 100.57,
+      "end": 100.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.57,
+      "end": 102.37,
+      "text": "室友被我吵醒 她說 妳完了"
+    },
+    {
+      "t": 102.37,
+      "end": 104.07,
+      "text": "我說 他在睡覺 他一定沒看到"
+    },
+    {
+      "t": 104.11,
+      "end": 105.85,
+      "text": "兩點零四分 床底下震了一下"
+    },
+    {
+      "t": 105.95,
+      "end": 107.03,
+      "text": "他也按了 我三年前的那張"
+    },
+    {
+      "t": 107.07,
+      "end": 107.07,
+      "text": "[Bridge - cheerleader chant and handclaps]"
+    },
+    {
+      "t": 107.07,
+      "end": 111.79,
+      "text": "他按回來了 他按回來了 他真的按回來了"
+    },
+    {
+      "t": 112.11,
+      "end": 112.11,
+      "text": "[Chorus - key change up, full chant]"
+    },
+    {
+      "t": 112.11,
+      "end": 116.85,
+      "text": "手滑了 手滑了 (Hey!)"
+    },
+    {
+      "t": 116.91,
+      "end": 131.01,
+      "text": "三年前的我 多了一顆他的愛心"
+    },
+    {
+      "t": 131.01,
+      "end": 136.53,
+      "text": "他傳來一句 妳也還沒睡喔"
+    },
+    {
+      "t": 138.29,
+      "end": 177.38,
+      "text": "我在棉被裡 尖叫到沒聲音 (Hey! Hey!)"
+    },
+    {
+      "t": 177.46,
+      "end": 177.46,
+      "text": "[Outro - glockenspiel alone, spoken]"
+    },
+    {
+      "t": 177.46,
+      "end": 181.42,
+      "text": "欸 他是不是也手滑"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Intro - square-wave lead hook, glockenspiel and handclaps]"
+    },
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.44,
+      "end": 17.24,
+      "text": "凌晨兩點 棉被裡 手機亮度調到最暗"
+    },
+    {
+      "t": 17.3,
+      "end": 23.38,
+      "text": "我在看他的照片 只是看看而已"
+    },
+    {
+      "t": 23.78,
+      "end": 28.54,
+      "text": "往下滑 往下滑 滑到四年前"
+    },
+    {
+      "t": 28.62,
+      "end": 37.02,
+      "text": "他在海邊 頭髮還是黃的"
+    },
+    {
+      "t": 37.16,
+      "end": 37.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.16,
+      "end": 52.93,
+      "text": "大拇指一抖 一顆愛心跳出來"
+    },
+    {
+      "t": 53.03,
+      "end": 61.07,
+      "text": "四年前的照片 被我按了讚"
+    },
+    {
+      "t": 61.13,
+      "end": 61.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.13,
+      "end": 62.65,
+      "text": "手滑了 手滑了 (Hey!)"
+    },
+    {
+      "t": 62.77,
+      "end": 64.97,
+      "text": "四年前的海邊 有一顆我的愛心"
+    },
+    {
+      "t": 64.97,
+      "end": 67.71,
+      "text": "現在收回來 他會不會看到"
+    },
+    {
+      "t": 68.35,
+      "end": 72.05,
+      "text": "我把手機丟到床底下 (Hey! Hey!)"
+    },
+    {
+      "t": 75.67,
+      "end": 75.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.67,
+      "end": 78.57,
+      "text": "室友被我吵醒 她說 妳完了"
+    },
+    {
+      "t": 78.79,
+      "end": 82.37,
+      "text": "我說 他在睡覺 他一定沒看到"
+    },
+    {
+      "t": 82.61,
+      "end": 85.73,
+      "text": "兩點零四分 床底下震了一下"
+    },
+    {
+      "t": 86.29,
+      "end": 89.87,
+      "text": "他也按了 我三年前的那張"
+    },
+    {
+      "t": 89.99,
+      "end": 89.99,
+      "text": "[Bridge - cheerleader chant and handclaps]"
+    },
+    {
+      "t": 89.99,
+      "end": 103.27,
+      "text": "他按回來了 他按回來了 他真的按回來了"
+    },
+    {
+      "t": 103.39,
+      "end": 103.39,
+      "text": "[Chorus - key change up, full chant]"
+    },
+    {
+      "t": 103.39,
+      "end": 105.63,
+      "text": "手滑了 手滑了 (Hey!)"
+    },
+    {
+      "t": 105.69,
+      "end": 107.91,
+      "text": "三年前的我 多了一顆他的愛心"
+    },
+    {
+      "t": 107.99,
+      "end": 112.49,
+      "text": "他傳來一句 妳也還沒睡喔"
+    },
+    {
+      "t": 113.09,
+      "end": 151.18,
+      "text": "我在棉被裡 尖叫到沒聲音 (Hey! Hey!)"
+    },
+    {
+      "t": 151.48,
+      "end": 151.48,
+      "text": "[Outro - glockenspiel alone, spoken]"
+    },
+    {
+      "t": 151.48,
+      "end": 181.4,
+      "text": "欸 他是不是也手滑"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "b6_en10",
+  "title": "Lake Effect",
+  "title_source": "scripted",
+  "genre": "Buffalo grimy boom bap",
+  "language": "en",
+  "language_name": "English",
+  "mood": "proud, cold and unbothered",
+  "persona": "",
+  "subject": "an overnight snowplough driver in Buffalo during a lake-effect storm who raps about his truck like it is a luxury car",
+  "caption": "Buffalo grimy boom bap in the Griselda style. A dusty low-passed loop of old Italian film-score strings and harpsichord, instrumental only, with vinyl crackle and SP-1200 grit; a muffled kick and a dull snare with no hi-hats; a deep upright-bass note doubled under each turn of the loop. Dark, dry and mono-leaning, the loop and the voice forward and everything else buried. Male rap voice, gritty, deadpan and dense, long bars delivered flat and certain, with short gruff ad-libs between lines. 86 BPM, E minor. Proud, cold and unbothered. No trap drums, no 808s, no hi-hat rolls, no sung chorus, no choir or soprano in the loop, no autotune.",
+  "lyrics": "[Intro - film-score loop with vinyl crackle, no drums]\n\n[Verse 1]\nEleven p.m., Cheektowaga yard, the International warming up, orange lights spinning on the roof\nTen tons, heated seat, heated mirrors, thermos of Tim Hortons, warmest man in Erie County (salt)\nSeven feet of lake effect, Thruway shut since Tuesday, I'm the only thing on the map that's moving\nWhole city tucked in under blankets, I lay rock salt down like marble in a hotel lobby (salt)\n\n[Hook]\nLake effect, lake effect\nY'all stuck at home and I'm the one with the keys\nLake effect, lake effect\nDelaware Avenue, four in the morning, all of it belong to me\n\n[Verse 2]\nDarlene on the radio, been calling routes since the Blizzard of '77\nSays \"Route 14, stuck Camry, a lady and a baby\", say less, I'm there in six\nHooked the chain, pulled her out, she's pushing a twenty through the window at me\nTold her keep it, buy milk, the bars come free with the plow (salt)\n\n[Hook]\nLake effect, lake effect\nY'all stuck at home and I'm the one with the keys\nLake effect, lake effect\nSun come up on Delaware and I'm the reason you can leave\n\n[Outro - loop alone, needle runs out]\nSix a.m., keys to Marcus\nI sleep through the part on the news where they thank the plows",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Buffalo grimy boom bap in the Griselda style. A dusty low-passed loop of old Italian film-score strings and harpsichord, instrumental only, with vinyl crackle and SP-1200 grit; a muffled kick and a dull snare with no hi-hats; a deep upright-bass note doubled under each turn of the loop. Dark, dry and mono-leaning, the loop and the voice forward and everything else buried. Male rap voice, gritty, deadpan and dense, long bars delivered flat and certain, with short gruff ad-libs between lines. 86 BPM, E minor. Proud, cold and unbothered. No trap drums, no 808s, no hi-hat rolls, no sung chorus, no choir or soprano in the loop, no autotune.",
+    "lyrics": "[Intro - film-score loop with vinyl crackle, no drums]\n\n[Verse 1]\nEleven p.m., Cheektowaga yard, the International warming up, orange lights spinning on the roof\nTen tons, heated seat, heated mirrors, thermos of Tim Hortons, warmest man in Erie County (salt)\nSeven feet of lake effect, Thruway shut since Tuesday, I'm the only thing on the map that's moving\nWhole city tucked in under blankets, I lay rock salt down like marble in a hotel lobby (salt)\n\n[Hook]\nLake effect, lake effect\nY'all stuck at home and I'm the one with the keys\nLake effect, lake effect\nDelaware Avenue, four in the morning, all of it belong to me\n\n[Verse 2]\nDarlene on the radio, been calling routes since the Blizzard of '77\nSays \"Route 14, stuck Camry, a lady and a baby\", say less, I'm there in six\nHooked the chain, pulled her out, she's pushing a twenty through the window at me\nTold her keep it, buy milk, the bars come free with the plow (salt)\n\n[Hook]\nLake effect, lake effect\nY'all stuck at home and I'm the one with the keys\nLake effect, lake effect\nSun come up on Delaware and I'm the reason you can leave\n\n[Outro - loop alone, needle runs out]\nSix a.m., keys to Marcus\nI sleep through the part on the news where they thank the plows"
+  },
+  "seed": "3037640274",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 110.91s**\n- 110.91s per song\n- LM phase (1 song): 19.45s\n- DiT phase (1 song): 91.46s",
+  "task_id": "96f4195b-7541-4eb4-bd79-3cfd75a97805",
+  "elapsed_s": 140.4,
+  "generated_at": "2026-10-09T22:39:36.940628+08:00",
+  "audio": "b6_en10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.02,
+      "end": 34.02,
+      "text": "[Intro - film-score loop with vinyl crackle, no drums]"
+    },
+    {
+      "t": 34.02,
+      "end": 34.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.02,
+      "end": 39.82,
+      "text": "Eleven p.m., Cheektowaga yard, the International warming up, orange lights spinning on the roof"
+    },
+    {
+      "t": 40.62,
+      "end": 46.48,
+      "text": "Ten tons, heated seat, heated mirrors, thermos of Tim Hortons, warmest man in Erie County (salt)"
+    },
+    {
+      "t": 47.08,
+      "end": 51.08,
+      "text": "Seven feet of lake effect, Thruway shut since Tuesday, I'm the only thing on the map that's moving"
+    },
+    {
+      "t": 51.49,
+      "end": 57.97,
+      "text": "Whole city tucked in under blankets, I lay rock salt down like marble in a hotel lobby (salt)"
+    },
+    {
+      "t": 57.97,
+      "end": 57.97,
+      "text": "[Hook]"
+    },
+    {
+      "t": 57.97,
+      "end": 71.01,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 71.25,
+      "end": 73.55,
+      "text": "Y'all stuck at home and I'm the one with the keys"
+    },
+    {
+      "t": 74.57,
+      "end": 76.55,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 76.89,
+      "end": 79.97,
+      "text": "Delaware Avenue, four in the morning, all of it belong to me"
+    },
+    {
+      "t": 103.29,
+      "end": 103.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.29,
+      "end": 107.35,
+      "text": "Darlene on the radio, been calling routes since the Blizzard of '77"
+    },
+    {
+      "t": 108.53,
+      "end": 114.11,
+      "text": "Says \"Route 14, stuck Camry, a lady and a baby\", say less, I'm there in six"
+    },
+    {
+      "t": 114.47,
+      "end": 118.63,
+      "text": "Hooked the chain, pulled her out, she's pushing a twenty through the window at me"
+    },
+    {
+      "t": 119.73,
+      "end": 125.53,
+      "text": "Told her keep it, buy milk, the bars come free with the plow (salt)"
+    },
+    {
+      "t": 125.53,
+      "end": 125.53,
+      "text": "[Hook]"
+    },
+    {
+      "t": 125.53,
+      "end": 128.53,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 128.53,
+      "end": 130.87,
+      "text": "Y'all stuck at home and I'm the one with the keys"
+    },
+    {
+      "t": 130.87,
+      "end": 133.73,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 133.75,
+      "end": 136.59,
+      "text": "Sun come up on Delaware and I'm the reason you can leave"
+    },
+    {
+      "t": 136.91,
+      "end": 136.91,
+      "text": "[Outro - loop alone, needle runs out]"
+    },
+    {
+      "t": 136.91,
+      "end": 154.52,
+      "text": "Six a.m., keys to Marcus"
+    },
+    {
+      "t": 154.56,
+      "end": 181.42,
+      "text": "I sleep through the part on the news where they thank the plows"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.08,
+      "end": 24.08,
+      "text": "[Intro - film-score loop with vinyl crackle, no drums]"
+    },
+    {
+      "t": 24.08,
+      "end": 24.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.08,
+      "end": 39.82,
+      "text": "Eleven p.m., Cheektowaga yard, the International warming up, orange lights spinning on the roof"
+    },
+    {
+      "t": 40.62,
+      "end": 46.44,
+      "text": "Ten tons, heated seat, heated mirrors, thermos of Tim Hortons, warmest man in Erie County (salt)"
+    },
+    {
+      "t": 47.08,
+      "end": 51.49,
+      "text": "Seven feet of lake effect, Thruway shut since Tuesday, I'm the only thing on the map that's moving"
+    },
+    {
+      "t": 51.49,
+      "end": 67.27,
+      "text": "Whole city tucked in under blankets, I lay rock salt down like marble in a hotel lobby (salt)"
+    },
+    {
+      "t": 68.99,
+      "end": 68.99,
+      "text": "[Hook]"
+    },
+    {
+      "t": 68.99,
+      "end": 70.99,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 71.23,
+      "end": 73.57,
+      "text": "Y'all stuck at home and I'm the one with the keys"
+    },
+    {
+      "t": 74.57,
+      "end": 76.55,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 76.89,
+      "end": 100.95,
+      "text": "Delaware Avenue, four in the morning, all of it belong to me"
+    },
+    {
+      "t": 103.29,
+      "end": 103.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.29,
+      "end": 107.35,
+      "text": "Darlene on the radio, been calling routes since the Blizzard of '77"
+    },
+    {
+      "t": 107.49,
+      "end": 114.49,
+      "text": "Says \"Route 14, stuck Camry, a lady and a baby\", say less, I'm there in six"
+    },
+    {
+      "t": 114.49,
+      "end": 118.65,
+      "text": "Hooked the chain, pulled her out, she's pushing a twenty through the window at me"
+    },
+    {
+      "t": 119.73,
+      "end": 125.61,
+      "text": "Told her keep it, buy milk, the bars come free with the plow (salt)"
+    },
+    {
+      "t": 125.61,
+      "end": 125.61,
+      "text": "[Hook]"
+    },
+    {
+      "t": 125.61,
+      "end": 128.53,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 128.53,
+      "end": 130.27,
+      "text": "Y'all stuck at home and I'm the one with the keys"
+    },
+    {
+      "t": 130.27,
+      "end": 131.73,
+      "text": "Lake effect, lake effect"
+    },
+    {
+      "t": 133.75,
+      "end": 147.23,
+      "text": "Sun come up on Delaware and I'm the reason you can leave"
+    },
+    {
+      "t": 152.75,
+      "end": 152.75,
+      "text": "[Outro - loop alone, needle runs out]"
+    },
+    {
+      "t": 152.75,
+      "end": 153.55,
+      "text": "Six a.m., keys to Marcus"
+    },
+    {
+      "t": 153.61,
+      "end": 181.16,
+      "text": "I sleep through the part on the news where they thank the plows"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,327 @@
+{
+  "id": "b6_zh03",
+  "title": "向左轉是另一邊",
+  "title_source": "scripted",
+  "genre": "Mandarin idol performance dance-pop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "taking drill far too seriously and still getting it wrong",
+  "persona": "",
+  "subject": "a freshman squad at August military training that cannot turn left in unison, and the instructor who finally laughs on the last day",
+  "caption": "Mandarin idol performance dance-pop in the boy-group choreography style. A punchy 808 kick with a clap-stacked snare, trap hi-hat rolls only in the pre-chorus, a plucky synth bass, bright brass stabs and white-noise risers; a beat switch into an instrumental dance break, and a stripped chorus where the beat drops to kick and brass under the chant. Tight, dry and loud, wide stereo synths, the kick and the unison chant forward. Several young male voices split by line: a rhythmic rap verse, a high tenor pre-chorus, a unison shouted chant on the chorus, and spoken drill commands. 120 BPM, F sharp minor. A freshman squad at military training that cannot turn left in unison. No ballad section, no acoustic guitar, no heavy autotune, no EDM supersaw drop, no rock drums, no half-time trap groove, no mumble rap.",
+  "lyrics": "[Intro - 808 kick and brass stab, spoken drill commands]\n立正 稍息 一 二 一\n\n[Verse 1 - Rap]\n八月的操場 太陽曬到鞋底發燙\n迷彩服發下來 每一件都大兩號\n我們這一排十二個 七個戴眼鏡\n教官喊向左轉 三個轉到右邊\n\n[Pre-Chorus - high tenor, hi-hat rolls]\n向左 向右 向後 停\n教官說 你們是我帶過最慘的一屆\n\n[Chorus - group unison chant, beat drops to kick and brass]\n向左轉是另一邊 向左轉是另一邊\n他喊一次 我們就錯一次\n防曬擦到第三層 臉還是紅的\n先把這個向左轉 練到不丟臉\n\n[Verse 2 - Rap]\n小胖踢正步 同手同腳 自己都不知道\n阿凱站軍姿 站到一半 睡著了\n晚上拉歌 隔壁連唱得比我們大聲\n我們十二個人 用吼的 吼贏他們\n\n[Dance Break - beat switch, brass stabs and 808 slides]\n\n[Chorus - group unison chant]\n向左轉是另一邊 向左轉是另一邊\n他喊一次 我們就錯一次\n會操那天 主席台前 全部轉對了\n教官轉過身去 偷偷笑了\n\n[Outro - beat cuts, spoken]\n解散\n欸 解散是往哪邊",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Mandarin idol performance dance-pop in the boy-group choreography style. A punchy 808 kick with a clap-stacked snare, trap hi-hat rolls only in the pre-chorus, a plucky synth bass, bright brass stabs and white-noise risers; a beat switch into an instrumental dance break, and a stripped chorus where the beat drops to kick and brass under the chant. Tight, dry and loud, wide stereo synths, the kick and the unison chant forward. Several young male voices split by line: a rhythmic rap verse, a high tenor pre-chorus, a unison shouted chant on the chorus, and spoken drill commands. 120 BPM, F sharp minor. A freshman squad at military training that cannot turn left in unison. No ballad section, no acoustic guitar, no heavy autotune, no EDM supersaw drop, no rock drums, no half-time trap groove, no mumble rap.",
+    "lyrics": "[Intro - 808 kick and brass stab, spoken drill commands]\n立正 稍息 一 二 一\n\n[Verse 1 - Rap]\n八月的操場 太陽曬到鞋底發燙\n迷彩服發下來 每一件都大兩號\n我們這一排十二個 七個戴眼鏡\n教官喊向左轉 三個轉到右邊\n\n[Pre-Chorus - high tenor, hi-hat rolls]\n向左 向右 向後 停\n教官說 你們是我帶過最慘的一屆\n\n[Chorus - group unison chant, beat drops to kick and brass]\n向左轉是另一邊 向左轉是另一邊\n他喊一次 我們就錯一次\n防曬擦到第三層 臉還是紅的\n先把這個向左轉 練到不丟臉\n\n[Verse 2 - Rap]\n小胖踢正步 同手同腳 自己都不知道\n阿凱站軍姿 站到一半 睡著了\n晚上拉歌 隔壁連唱得比我們大聲\n我們十二個人 用吼的 吼贏他們\n\n[Dance Break - beat switch, brass stabs and 808 slides]\n\n[Chorus - group unison chant]\n向左轉是另一邊 向左轉是另一邊\n他喊一次 我們就錯一次\n會操那天 主席台前 全部轉對了\n教官轉過身去 偷偷笑了\n\n[Outro - beat cuts, spoken]\n解散\n欸 解散是往哪邊"
+  },
+  "seed": "3181167163",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 83.46s**\n- 83.46s per song\n- LM phase (1 song): 21.38s\n- DiT phase (1 song): 62.07s",
+  "task_id": "4a19863b-79ee-4960-a2ed-2eab32e44427",
+  "elapsed_s": 120.3,
+  "generated_at": "2026-10-09T22:46:48.818727+08:00",
+  "audio": "b6_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.54,
+      "end": 4.54,
+      "text": "[Intro - 808 kick and brass stab, spoken drill commands]"
+    },
+    {
+      "t": 4.54,
+      "end": 5.48,
+      "text": "立正 稍息 一 二 一"
+    },
+    {
+      "t": 8.52,
+      "end": 8.52,
+      "text": "[Verse 1 - Rap]"
+    },
+    {
+      "t": 8.52,
+      "end": 29.84,
+      "text": "八月的操場 太陽曬到鞋底發燙"
+    },
+    {
+      "t": 29.94,
+      "end": 33.44,
+      "text": "迷彩服發下來 每一件都大兩號"
+    },
+    {
+      "t": 33.82,
+      "end": 37.36,
+      "text": "我們這一排十二個 七個戴眼鏡"
+    },
+    {
+      "t": 38.04,
+      "end": 41.5,
+      "text": "教官喊向左轉 三個轉到右邊"
+    },
+    {
+      "t": 42.58,
+      "end": 42.58,
+      "text": "[Pre-Chorus - high tenor, hi-hat rolls]"
+    },
+    {
+      "t": 42.58,
+      "end": 45.06,
+      "text": "向左 向右 向後 停"
+    },
+    {
+      "t": 45.58,
+      "end": 67.85,
+      "text": "教官說 你們是我帶過最慘的一屆"
+    },
+    {
+      "t": 68.63,
+      "end": 68.63,
+      "text": "[Chorus - group unison chant, beat drops to kick and brass]"
+    },
+    {
+      "t": 68.63,
+      "end": 71.97,
+      "text": "向左轉是另一邊 向左轉是另一邊"
+    },
+    {
+      "t": 72.65,
+      "end": 75.77,
+      "text": "他喊一次 我們就錯一次"
+    },
+    {
+      "t": 76.17,
+      "end": 79.79,
+      "text": "防曬擦到第三層 臉還是紅的"
+    },
+    {
+      "t": 80.41,
+      "end": 83.85,
+      "text": "先把這個向左轉 練到不丟臉"
+    },
+    {
+      "t": 84.91,
+      "end": 84.91,
+      "text": "[Verse 2 - Rap]"
+    },
+    {
+      "t": 84.91,
+      "end": 111.11,
+      "text": "小胖踢正步 同手同腳 自己都不知道"
+    },
+    {
+      "t": 113.27,
+      "end": 116.41,
+      "text": "阿凱站軍姿 站到一半 睡著了"
+    },
+    {
+      "t": 116.97,
+      "end": 121.19,
+      "text": "晚上拉歌 隔壁連唱得比我們大聲"
+    },
+    {
+      "t": 121.99,
+      "end": 125.17,
+      "text": "我們十二個人 用吼的 吼贏他們"
+    },
+    {
+      "t": 126.41,
+      "end": 126.41,
+      "text": "[Dance Break - beat switch, brass stabs and 808 slides]"
+    },
+    {
+      "t": 126.41,
+      "end": 126.41,
+      "text": "[Chorus - group unison chant]"
+    },
+    {
+      "t": 126.41,
+      "end": 129.87,
+      "text": "向左轉是另一邊 向左轉是另一邊"
+    },
+    {
+      "t": 129.95,
+      "end": 133.55,
+      "text": "他喊一次 我們就錯一次"
+    },
+    {
+      "t": 133.95,
+      "end": 154.02,
+      "text": "會操那天 主席台前 全部轉對了"
+    },
+    {
+      "t": 154.4,
+      "end": 157.52,
+      "text": "教官轉過身去 偷偷笑了"
+    },
+    {
+      "t": 190.64,
+      "end": 190.64,
+      "text": "[Outro - beat cuts, spoken]"
+    },
+    {
+      "t": 190.64,
+      "end": 191.16,
+      "text": "解散"
+    },
+    {
+      "t": 192.96,
+      "end": 195.4,
+      "text": "欸 解散是往哪邊"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Intro - 808 kick and brass stab, spoken drill commands]"
+    },
+    {
+      "t": 0.54,
+      "end": 1.46,
+      "text": "立正 稍息 一 二 一"
+    },
+    {
+      "t": 1.62,
+      "end": 1.62,
+      "text": "[Verse 1 - Rap]"
+    },
+    {
+      "t": 1.62,
+      "end": 29.0,
+      "text": "八月的操場 太陽曬到鞋底發燙"
+    },
+    {
+      "t": 29.92,
+      "end": 33.44,
+      "text": "迷彩服發下來 每一件都大兩號"
+    },
+    {
+      "t": 33.82,
+      "end": 37.38,
+      "text": "我們這一排十二個 七個戴眼鏡"
+    },
+    {
+      "t": 38.04,
+      "end": 41.5,
+      "text": "教官喊向左轉 三個轉到右邊"
+    },
+    {
+      "t": 42.58,
+      "end": 42.58,
+      "text": "[Pre-Chorus - high tenor, hi-hat rolls]"
+    },
+    {
+      "t": 42.58,
+      "end": 45.06,
+      "text": "向左 向右 向後 停"
+    },
+    {
+      "t": 45.58,
+      "end": 67.81,
+      "text": "教官說 你們是我帶過最慘的一屆"
+    },
+    {
+      "t": 68.63,
+      "end": 68.63,
+      "text": "[Chorus - group unison chant, beat drops to kick and brass]"
+    },
+    {
+      "t": 68.63,
+      "end": 71.95,
+      "text": "向左轉是另一邊 向左轉是另一邊"
+    },
+    {
+      "t": 72.65,
+      "end": 75.77,
+      "text": "他喊一次 我們就錯一次"
+    },
+    {
+      "t": 76.17,
+      "end": 79.77,
+      "text": "防曬擦到第三層 臉還是紅的"
+    },
+    {
+      "t": 80.41,
+      "end": 83.87,
+      "text": "先把這個向左轉 練到不丟臉"
+    },
+    {
+      "t": 84.91,
+      "end": 84.91,
+      "text": "[Verse 2 - Rap]"
+    },
+    {
+      "t": 84.91,
+      "end": 88.69,
+      "text": "小胖踢正步 同手同腳 自己都不知道"
+    },
+    {
+      "t": 88.99,
+      "end": 95.29,
+      "text": "阿凱站軍姿 站到一半 睡著了"
+    },
+    {
+      "t": 95.71,
+      "end": 121.19,
+      "text": "晚上拉歌 隔壁連唱得比我們大聲"
+    },
+    {
+      "t": 121.97,
+      "end": 125.17,
+      "text": "我們十二個人 用吼的 吼贏他們"
+    },
+    {
+      "t": 126.41,
+      "end": 126.41,
+      "text": "[Dance Break - beat switch, brass stabs and 808 slides]"
+    },
+    {
+      "t": 126.41,
+      "end": 126.41,
+      "text": "[Chorus - group unison chant]"
+    },
+    {
+      "t": 126.41,
+      "end": 129.87,
+      "text": "向左轉是另一邊 向左轉是另一邊"
+    },
+    {
+      "t": 129.95,
+      "end": 133.55,
+      "text": "他喊一次 我們就錯一次"
+    },
+    {
+      "t": 133.97,
+      "end": 137.81,
+      "text": "會操那天 主席台前 全部轉對了"
+    },
+    {
+      "t": 138.41,
+      "end": 141.57,
+      "text": "教官轉過身去 偷偷笑了"
+    },
+    {
+      "t": 156.12,
+      "end": 156.12,
+      "text": "[Outro - beat cuts, spoken]"
+    },
+    {
+      "t": 156.12,
+      "end": 191.12,
+      "text": "解散"
+    },
+    {
+      "t": 192.96,
+      "end": 195.4,
+      "text": "欸 解散是往哪邊"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b6_en04",
+  "title": "Fourth Floor Walk-Up",
+  "title_source": "scripted",
+  "genre": "arena piano power ballad",
+  "language": "en",
+  "language_name": "English",
+  "mood": "earnest, out of breath, falling hard",
+  "persona": "",
+  "subject": "carrying a friend's sofa up four flights of a walk-up and realising on the third landing that you are in love with her",
+  "caption": "Arena piano pop-rock power ballad. Solo grand piano under a close-miked raspy male vocal for the first verse; floor-tom pulses entering at the pre-chorus; a big reverb-heavy snare on two and four from the first chorus; distorted power-chord guitars and a string section arriving at the bridge, with stacked gang vocals and a lift up a whole step for the last chorus. Starts dry and intimate and builds wide and roomy, the voice always forward. Male voice, a raspy tenor, intimate and nearly spoken in the verses, belting with falsetto cracks at the climax. 74 BPM, D major. Earnest, out of breath, falling hard. No trap drums, no EDM drop, no autotune, no country twang, no gospel organ.",
+  "lyrics": "[Intro - solo grand piano]\n\n[Verse 1]\nYou said it's just a couch, it'll take ten minutes\nIt's a green velvet sleeper and it weighs about a ton\nFourth floor walk-up on Delancey, no elevator\nYou took the top end, so I've got all the weight\n\n[Pre-Chorus - floor toms enter]\nSecond landing, it gets stuck on the rail\nYou start laughing and you can't stop\n\n[Chorus - full drums]\nI fell for you on the third floor landing\nHolding half a sofa with my knees and my chin\nYou laughed so hard you had to sit down on it\nAnd I didn't want it to fit\n\n[Verse 2]\nWe took the legs off with a butter knife\nTipped it on its end and it slid around the turn\nMr. Ocampo from 3B held the door with his slipper\nSaid \"you two been married long?\" And neither of us said no\n\n[Bridge - strings and power chords build]\nTen years I've known you, I've moved you four times\nFirst time I ever wished there were more stairs to climb\n\n[Chorus - lifted a whole step, gang vocals]\nI fell for you on the third floor landing\nHolding half a sofa with my knees and my chin\nThe legs are still in my jacket pocket\nSo I'll have to come back and screw them in\n\n[Outro - solo piano]\nFour floors down and still out of breath\nYou said bring the legs back Saturday",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 74,
+    "duration": 236.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Arena piano pop-rock power ballad. Solo grand piano under a close-miked raspy male vocal for the first verse; floor-tom pulses entering at the pre-chorus; a big reverb-heavy snare on two and four from the first chorus; distorted power-chord guitars and a string section arriving at the bridge, with stacked gang vocals and a lift up a whole step for the last chorus. Starts dry and intimate and builds wide and roomy, the voice always forward. Male voice, a raspy tenor, intimate and nearly spoken in the verses, belting with falsetto cracks at the climax. 74 BPM, D major. Earnest, out of breath, falling hard. No trap drums, no EDM drop, no autotune, no country twang, no gospel organ.",
+    "lyrics": "[Intro - solo grand piano]\n\n[Verse 1]\nYou said it's just a couch, it'll take ten minutes\nIt's a green velvet sleeper and it weighs about a ton\nFourth floor walk-up on Delancey, no elevator\nYou took the top end, so I've got all the weight\n\n[Pre-Chorus - floor toms enter]\nSecond landing, it gets stuck on the rail\nYou start laughing and you can't stop\n\n[Chorus - full drums]\nI fell for you on the third floor landing\nHolding half a sofa with my knees and my chin\nYou laughed so hard you had to sit down on it\nAnd I didn't want it to fit\n\n[Verse 2]\nWe took the legs off with a butter knife\nTipped it on its end and it slid around the turn\nMr. Ocampo from 3B held the door with his slipper\nSaid \"you two been married long?\" And neither of us said no\n\n[Bridge - strings and power chords build]\nTen years I've known you, I've moved you four times\nFirst time I ever wished there were more stairs to climb\n\n[Chorus - lifted a whole step, gang vocals]\nI fell for you on the third floor landing\nHolding half a sofa with my knees and my chin\nThe legs are still in my jacket pocket\nSo I'll have to come back and screw them in\n\n[Outro - solo piano]\nFour floors down and still out of breath\nYou said bring the legs back Saturday"
+  },
+  "seed": "1988979319",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 108.97s**\n- 108.97s per song\n- LM phase (1 song): 21.04s\n- DiT phase (1 song): 87.93s",
+  "task_id": "b2c6a73b-43ee-48df-82d9-0e4a289ccac7",
+  "elapsed_s": 160.4,
+  "generated_at": "2026-10-09T22:26:33.077888+08:00",
+  "audio": "b6_en04.mp3",
+  "lyrics_timed_vocals": [
+    {
+      "t": 11.38,
+      "end": 11.38,
+      "text": "[Intro - solo grand piano]"
+    },
+    {
+      "t": 11.38,
+      "end": 11.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.38,
+      "end": 26.98,
+      "text": "You said it's just a couch, it'll take ten minutes"
+    },
+    {
+      "t": 27.24,
+      "end": 36.54,
+      "text": "It's a green velvet sleeper and it weighs about a ton"
+    },
+    {
+      "t": 36.54,
+      "end": 52.48,
+      "text": "Fourth floor walk-up on Delancey, no elevator"
+    },
+    {
+      "t": 52.48,
+      "end": 57.3,
+      "text": "You took the top end, so I've got all the weight"
+    },
+    {
+      "t": 58.52,
+      "end": 58.52,
+      "text": "[Pre-Chorus - floor toms enter]"
+    },
+    {
+      "t": 58.52,
+      "end": 64.09,
+      "text": "Second landing, it gets stuck on the rail"
+    },
+    {
+      "t": 65.09,
+      "end": 70.01,
+      "text": "You start laughing and you can't stop"
+    },
+    {
+      "t": 71.35,
+      "end": 71.35,
+      "text": "[Chorus - full drums]"
+    },
+    {
+      "t": 71.35,
+      "end": 75.65,
+      "text": "I fell for you on the third floor landing"
+    },
+    {
+      "t": 77.49,
+      "end": 82.31,
+      "text": "Holding half a sofa with my knees and my chin"
+    },
+    {
+      "t": 83.83,
+      "end": 87.83,
+      "text": "You laughed so hard you had to sit down on it"
+    },
+    {
+      "t": 90.35,
+      "end": 94.01,
+      "text": "And I didn't want it to fit"
+    },
+    {
+      "t": 97.41,
+      "end": 97.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.41,
+      "end": 103.05,
+      "text": "We took the legs off with a butter knife"
+    },
+    {
+      "t": 103.93,
+      "end": 107.63,
+      "text": "Tipped it on its end and it slid around the turn"
+    },
+    {
+      "t": 109.09,
+      "end": 113.71,
+      "text": "Mr. Ocampo from 3B held the door with his slipper"
+    },
+    {
+      "t": 115.75,
+      "end": 122.63,
+      "text": "Said \"you two been married long?\" And neither of us said no"
+    },
+    {
+      "t": 125.97,
+      "end": 125.97,
+      "text": "[Bridge - strings and power chords build]"
+    },
+    {
+      "t": 125.97,
+      "end": 130.55,
+      "text": "Ten years I've known you, I've moved you four times"
+    },
+    {
+      "t": 131.15,
+      "end": 143.39,
+      "text": "First time I ever wished there were more stairs to climb"
+    },
+    {
+      "t": 143.51,
+      "end": 143.51,
+      "text": "[Chorus - lifted a whole step, gang vocals]"
+    },
+    {
+      "t": 143.51,
+      "end": 149.69,
+      "text": "I fell for you on the third floor landing"
+    },
+    {
+      "t": 149.69,
+      "end": 153.53,
+      "text": "Holding half a sofa with my knees and my chin"
+    },
+    {
+      "t": 153.53,
+      "end": 156.01,
+      "text": "The legs are still in my jacket pocket"
+    },
+    {
+      "t": 156.25,
+      "end": 163.19,
+      "text": "So I'll have to come back and screw them in"
+    },
+    {
+      "t": 163.25,
+      "end": 163.25,
+      "text": "[Outro - solo piano]"
+    },
+    {
+      "t": 163.25,
+      "end": 220.36,
+      "text": "Four floors down and still out of breath"
+    },
+    {
+      "t": 222.32,
+      "end": 227.86,
+      "text": "You said bring the legs back Saturday"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed": [
+    {
+      "t": 11.38,
+      "end": 11.38,
+      "text": "[Intro - solo grand piano]"
+    },
+    {
+      "t": 11.38,
+      "end": 11.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.38,
+      "end": 26.98,
+      "text": "You said it's just a couch, it'll take ten minutes"
+    },
+    {
+      "t": 27.24,
+      "end": 36.54,
+      "text": "It's a green velvet sleeper and it weighs about a ton"
+    },
+    {
+      "t": 36.54,
+      "end": 52.48,
+      "text": "Fourth floor walk-up on Delancey, no elevator"
+    },
+    {
+      "t": 52.48,
+      "end": 57.3,
+      "text": "You took the top end, so I've got all the weight"
+    },
+    {
+      "t": 58.52,
+      "end": 58.52,
+      "text": "[Pre-Chorus - floor toms enter]"
+    },
+    {
+      "t": 58.52,
+      "end": 64.09,
+      "text": "Second landing, it gets stuck on the rail"
+    },
+    {
+      "t": 65.09,
+      "end": 70.01,
+      "text": "You start laughing and you can't stop"
+    },
+    {
+      "t": 71.35,
+      "end": 71.35,
+      "text": "[Chorus - full drums]"
+    },
+    {
+      "t": 71.35,
+      "end": 75.65,
+      "text": "I fell for you on the third floor landing"
+    },
+    {
+      "t": 77.49,
+      "end": 82.31,
+      "text": "Holding half a sofa with my knees and my chin"
+    },
+    {
+      "t": 83.83,
+      "end": 87.83,
+      "text": "You laughed so hard you had to sit down on it"
+    },
+    {
+      "t": 90.35,
+      "end": 94.01,
+      "text": "And I didn't want it to fit"
+    },
+    {
+      "t": 97.41,
+      "end": 97.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.41,
+      "end": 103.05,
+      "text": "We took the legs off with a butter knife"
+    },
+    {
+      "t": 103.93,
+      "end": 107.63,
+      "text": "Tipped it on its end and it slid around the turn"
+    },
+    {
+      "t": 109.09,
+      "end": 113.71,
+      "text": "Mr. Ocampo from 3B held the door with his slipper"
+    },
+    {
+      "t": 115.75,
+      "end": 122.63,
+      "text": "Said \"you two been married long?\" And neither of us said no"
+    },
+    {
+      "t": 125.97,
+      "end": 125.97,
+      "text": "[Bridge - strings and power chords build]"
+    },
+    {
+      "t": 125.97,
+      "end": 130.55,
+      "text": "Ten years I've known you, I've moved you four times"
+    },
+    {
+      "t": 131.15,
+      "end": 143.39,
+      "text": "First time I ever wished there were more stairs to climb"
+    },
+    {
+      "t": 143.51,
+      "end": 143.51,
+      "text": "[Chorus - lifted a whole step, gang vocals]"
+    },
+    {
+      "t": 143.51,
+      "end": 149.69,
+      "text": "I fell for you on the third floor landing"
+    },
+    {
+      "t": 149.69,
+      "end": 153.53,
+      "text": "Holding half a sofa with my knees and my chin"
+    },
+    {
+      "t": 153.53,
+      "end": 156.01,
+      "text": "The legs are still in my jacket pocket"
+    },
+    {
+      "t": 156.25,
+      "end": 163.19,
+      "text": "So I'll have to come back and screw them in"
+    },
+    {
+      "t": 163.25,
+      "end": 163.25,
+      "text": "[Outro - solo piano]"
+    },
+    {
+      "t": 163.25,
+      "end": 220.36,
+      "text": "Four floors down and still out of breath"
+    },
+    {
+      "t": 222.32,
+      "end": 227.86,
+      "text": "You said bring the legs back Saturday"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Intro - solo grand piano]"
+    },
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.54,
+      "end": 34.98,
+      "text": "You said it's just a couch, it'll take ten minutes"
+    },
+    {
+      "t": 35.0,
+      "end": 36.94,
+      "text": "It's a green velvet sleeper and it weighs about a ton"
+    },
+    {
+      "t": 36.98,
+      "end": 39.48,
+      "text": "Fourth floor walk-up on Delancey, no elevator"
+    },
+    {
+      "t": 52.48,
+      "end": 58.08,
+      "text": "You took the top end, so I've got all the weight"
+    },
+    {
+      "t": 58.52,
+      "end": 58.52,
+      "text": "[Pre-Chorus - floor toms enter]"
+    },
+    {
+      "t": 58.52,
+      "end": 64.09,
+      "text": "Second landing, it gets stuck on the rail"
+    },
+    {
+      "t": 65.09,
+      "end": 70.01,
+      "text": "You start laughing and you can't stop"
+    },
+    {
+      "t": 71.35,
+      "end": 71.35,
+      "text": "[Chorus - full drums]"
+    },
+    {
+      "t": 71.35,
+      "end": 75.63,
+      "text": "I fell for you on the third floor landing"
+    },
+    {
+      "t": 77.47,
+      "end": 83.03,
+      "text": "Holding half a sofa with my knees and my chin"
+    },
+    {
+      "t": 83.83,
+      "end": 87.83,
+      "text": "You laughed so hard you had to sit down on it"
+    },
+    {
+      "t": 90.35,
+      "end": 94.01,
+      "text": "And I didn't want it to fit"
+    },
+    {
+      "t": 97.41,
+      "end": 97.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.41,
+      "end": 103.07,
+      "text": "We took the legs off with a butter knife"
+    },
+    {
+      "t": 103.93,
+      "end": 107.67,
+      "text": "Tipped it on its end and it slid around the turn"
+    },
+    {
+      "t": 109.07,
+      "end": 113.71,
+      "text": "Mr. Ocampo from 3B held the door with his slipper"
+    },
+    {
+      "t": 115.75,
+      "end": 122.61,
+      "text": "Said \"you two been married long?\" And neither of us said no"
+    },
+    {
+      "t": 125.99,
+      "end": 125.99,
+      "text": "[Bridge - strings and power chords build]"
+    },
+    {
+      "t": 125.99,
+      "end": 130.55,
+      "text": "Ten years I've known you, I've moved you four times"
+    },
+    {
+      "t": 131.17,
+      "end": 143.37,
+      "text": "First time I ever wished there were more stairs to climb"
+    },
+    {
+      "t": 143.51,
+      "end": 143.51,
+      "text": "[Chorus - lifted a whole step, gang vocals]"
+    },
+    {
+      "t": 143.51,
+      "end": 147.83,
+      "text": "I fell for you on the third floor landing"
+    },
+    {
+      "t": 149.69,
+      "end": 153.53,
+      "text": "Holding half a sofa with my knees and my chin"
+    },
+    {
+      "t": 153.53,
+      "end": 156.05,
+      "text": "The legs are still in my jacket pocket"
+    },
+    {
+      "t": 156.25,
+      "end": 160.37,
+      "text": "So I'll have to come back and screw them in"
+    },
+    {
+      "t": 160.77,
+      "end": 160.77,
+      "text": "[Outro - solo piano]"
+    },
+    {
+      "t": 160.77,
+      "end": 220.38,
+      "text": "Four floors down and still out of breath"
+    },
+    {
+      "t": 222.32,
+      "end": 228.28,
+      "text": "You said bring the legs back Saturday"
+    }
+  ]
+}

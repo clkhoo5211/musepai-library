@@ -1,0 +1,519 @@
+{
+  "id": "b6_ja06",
+  "title": "場所取り",
+  "title_source": "scripted",
+  "genre": "kawaii metal",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "heroic and absurd",
+  "persona": "",
+  "subject": "the newest employee guarding the company's cherry-blossom picnic spot on a blue tarp from six in the morning",
+  "caption": "Japanese kawaii metal in the idol-metal style. Down-tuned seven-string guitars playing tight djent chugs and fast thrash riffs, double-kick drum runs and short blast-beat bursts, symphonic synth strings and a choir pad behind the chorus, a bright synth lead answering the voice in the bridge, half-time breakdowns. Heavy, compressed and wide, with the guitars as a wall and the clear lead voice cutting through on top. Female lead voice, high, clear and melodic like a pop idol singing a power-metal chorus, with chanted and shouted answer lines from two backing girls. 180 BPM, C# minor. Heroic and absurd. No rapping, no growled lead vocal, no autotune, no ballad section, no trap drums.",
+  "lyrics": "[Intro - choir pad, then djent chugs]\n\n[Verse 1]\n朝六時 公園 ブルーシート 四畳半\n新人だから 私が守る\n部長は 十二時に来るって言った\n今 六時 あと六時間\n\n[Pre-Chorus - backing chant]\n守れ! 守れ!\n四隅に 石を置け!\n\n[Chorus]\nここは 渡さない\n隣の大学生にも 犬にも 風にも\n桜の下の 四畳半\n今日だけ 私は ここの女王\n\n[Verse 2]\n十時 シートが 風でめくれる\n靴を脱いで 角に置く\nトイレに行きたい 行けない\n隣のおばちゃんが 唐揚げくれた 同盟成立\n\n[Chorus]\nここは 渡さない\n隣の大学生にも 犬にも 風にも\n桜の下の 四畳半\nトイレの五分だけ おばちゃんに預ける\n\n[Bridge - half-time breakdown]\n十二時\n部長から LINE\n「やっぱ 居酒屋にしよう」\n\n[Outro - blast beat, then silence]\nシート たたむ\n石 四つ 持って帰る\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 180,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "C# minor",
+    "timesignature": "4",
+    "prompt": "Japanese kawaii metal in the idol-metal style. Down-tuned seven-string guitars playing tight djent chugs and fast thrash riffs, double-kick drum runs and short blast-beat bursts, symphonic synth strings and a choir pad behind the chorus, a bright synth lead answering the voice in the bridge, half-time breakdowns. Heavy, compressed and wide, with the guitars as a wall and the clear lead voice cutting through on top. Female lead voice, high, clear and melodic like a pop idol singing a power-metal chorus, with chanted and shouted answer lines from two backing girls. 180 BPM, C# minor. Heroic and absurd. No rapping, no growled lead vocal, no autotune, no ballad section, no trap drums.",
+    "lyrics": "[Intro - choir pad, then djent chugs]\n\n[Verse 1]\n朝六時 公園 ブルーシート 四畳半\n新人だから 私が守る\n部長は 十二時に来るって言った\n今 六時 あと六時間\n\n[Pre-Chorus - backing chant]\n守れ! 守れ!\n四隅に 石を置け!\n\n[Chorus]\nここは 渡さない\n隣の大学生にも 犬にも 風にも\n桜の下の 四畳半\n今日だけ 私は ここの女王\n\n[Verse 2]\n十時 シートが 風でめくれる\n靴を脱いで 角に置く\nトイレに行きたい 行けない\n隣のおばちゃんが 唐揚げくれた 同盟成立\n\n[Chorus]\nここは 渡さない\n隣の大学生にも 犬にも 風にも\n桜の下の 四畳半\nトイレの五分だけ おばちゃんに預ける\n\n[Bridge - half-time breakdown]\n十二時\n部長から LINE\n「やっぱ 居酒屋にしよう」\n\n[Outro - blast beat, then silence]\nシート たたむ\n石 四つ 持って帰る\n[Song ends abruptly]"
+  },
+  "seed": "2112894318",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 124.68s**\n- 124.68s per song\n- LM phase (1 song): 22.77s\n- DiT phase (1 song): 101.91s",
+  "task_id": "63028141-4b46-466f-8024-9345bd592f22",
+  "elapsed_s": 160.3,
+  "generated_at": "2026-10-09T23:17:45.719989+08:00",
+  "audio": "b6_ja06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 44.46,
+      "end": 44.46,
+      "text": "[Intro - choir pad, then djent chugs]"
+    },
+    {
+      "t": 44.46,
+      "end": 44.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.46,
+      "end": 48.98,
+      "text": "朝六時 公園 ブルーシート 四畳半"
+    },
+    {
+      "t": 49.3,
+      "end": 53.79,
+      "text": "新人だから 私が守る"
+    },
+    {
+      "t": 55.01,
+      "end": 59.53,
+      "text": "部長は 十二時に来るって言った"
+    },
+    {
+      "t": 60.49,
+      "end": 62.81,
+      "text": "今 六時 あと六時間"
+    },
+    {
+      "t": 62.95,
+      "end": 62.95,
+      "text": "[Pre-Chorus - backing chant]"
+    },
+    {
+      "t": 62.95,
+      "end": 63.91,
+      "text": "守れ! 守れ!"
+    },
+    {
+      "t": 63.91,
+      "end": 65.27,
+      "text": "四隅に 石を置け!"
+    },
+    {
+      "t": 77.81,
+      "end": 77.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.81,
+      "end": 79.99,
+      "text": "ここは 渡さない"
+    },
+    {
+      "t": 80.03,
+      "end": 82.61,
+      "text": "隣の大学生にも 犬にも 風にも"
+    },
+    {
+      "t": 82.61,
+      "end": 84.45,
+      "text": "桜の下の 四畳半"
+    },
+    {
+      "t": 84.51,
+      "end": 87.67,
+      "text": "今日だけ 私は ここの女王"
+    },
+    {
+      "t": 87.67,
+      "end": 87.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.67,
+      "end": 90.97,
+      "text": "十時 シートが 風でめくれる"
+    },
+    {
+      "t": 90.97,
+      "end": 91.45,
+      "text": "靴を脱いで 角に置く"
+    },
+    {
+      "t": 91.53,
+      "end": 93.67,
+      "text": "トイレに行きたい 行けない"
+    },
+    {
+      "t": 93.69,
+      "end": 115.09,
+      "text": "隣のおばちゃんが 唐揚げくれた 同盟成立"
+    },
+    {
+      "t": 115.09,
+      "end": 115.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.09,
+      "end": 115.89,
+      "text": "ここは 渡さない"
+    },
+    {
+      "t": 115.89,
+      "end": 122.01,
+      "text": "隣の大学生にも 犬にも 風にも"
+    },
+    {
+      "t": 122.03,
+      "end": 125.01,
+      "text": "桜の下の 四畳半"
+    },
+    {
+      "t": 125.11,
+      "end": 126.75,
+      "text": "トイレの五分だけ おばちゃんに預ける"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Bridge - half-time breakdown]"
+    },
+    {
+      "t": 126.75,
+      "end": 126.83,
+      "text": "十二時"
+    },
+    {
+      "t": 126.83,
+      "end": 129.63,
+      "text": "部長から LINE"
+    },
+    {
+      "t": 129.63,
+      "end": 133.25,
+      "text": "「やっぱ 居酒屋にしよう」"
+    },
+    {
+      "t": 138.79,
+      "end": 138.79,
+      "text": "[Outro - blast beat, then silence]"
+    },
+    {
+      "t": 138.79,
+      "end": 141.45,
+      "text": "シート たたむ"
+    },
+    {
+      "t": 142.95,
+      "end": 184.7,
+      "text": "石 四つ 持って帰る"
+    },
+    {
+      "t": 184.7,
+      "end": 184.7,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 44.46,
+      "end": 44.46,
+      "text": "[Intro - choir pad, then djent chugs]"
+    },
+    {
+      "t": 44.46,
+      "end": 44.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.46,
+      "end": 48.98,
+      "text": "朝六時 公園 ブルーシート 四畳半"
+    },
+    {
+      "t": 49.3,
+      "end": 53.79,
+      "text": "新人だから 私が守る"
+    },
+    {
+      "t": 55.01,
+      "end": 59.53,
+      "text": "部長は 十二時に来るって言った"
+    },
+    {
+      "t": 60.49,
+      "end": 62.81,
+      "text": "今 六時 あと六時間"
+    },
+    {
+      "t": 62.95,
+      "end": 62.95,
+      "text": "[Pre-Chorus - backing chant]"
+    },
+    {
+      "t": 62.95,
+      "end": 63.91,
+      "text": "守れ! 守れ!"
+    },
+    {
+      "t": 63.91,
+      "end": 65.27,
+      "text": "四隅に 石を置け!"
+    },
+    {
+      "t": 77.81,
+      "end": 77.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.81,
+      "end": 79.99,
+      "text": "ここは 渡さない"
+    },
+    {
+      "t": 80.03,
+      "end": 82.61,
+      "text": "隣の大学生にも 犬にも 風にも"
+    },
+    {
+      "t": 82.61,
+      "end": 84.45,
+      "text": "桜の下の 四畳半"
+    },
+    {
+      "t": 84.51,
+      "end": 87.67,
+      "text": "今日だけ 私は ここの女王"
+    },
+    {
+      "t": 87.67,
+      "end": 87.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.67,
+      "end": 90.97,
+      "text": "十時 シートが 風でめくれる"
+    },
+    {
+      "t": 90.97,
+      "end": 91.45,
+      "text": "靴を脱いで 角に置く"
+    },
+    {
+      "t": 91.53,
+      "end": 93.67,
+      "text": "トイレに行きたい 行けない"
+    },
+    {
+      "t": 93.69,
+      "end": 115.09,
+      "text": "隣のおばちゃんが 唐揚げくれた 同盟成立"
+    },
+    {
+      "t": 115.09,
+      "end": 115.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.09,
+      "end": 115.89,
+      "text": "ここは 渡さない"
+    },
+    {
+      "t": 115.89,
+      "end": 122.01,
+      "text": "隣の大学生にも 犬にも 風にも"
+    },
+    {
+      "t": 122.03,
+      "end": 125.01,
+      "text": "桜の下の 四畳半"
+    },
+    {
+      "t": 125.11,
+      "end": 126.75,
+      "text": "トイレの五分だけ おばちゃんに預ける"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Bridge - half-time breakdown]"
+    },
+    {
+      "t": 126.75,
+      "end": 126.83,
+      "text": "十二時"
+    },
+    {
+      "t": 126.83,
+      "end": 129.63,
+      "text": "部長から LINE"
+    },
+    {
+      "t": 129.63,
+      "end": 133.25,
+      "text": "「やっぱ 居酒屋にしよう」"
+    },
+    {
+      "t": 138.79,
+      "end": 138.79,
+      "text": "[Outro - blast beat, then silence]"
+    },
+    {
+      "t": 138.79,
+      "end": 141.45,
+      "text": "シート たたむ"
+    },
+    {
+      "t": 142.95,
+      "end": 184.7,
+      "text": "石 四つ 持って帰る"
+    },
+    {
+      "t": 184.7,
+      "end": 184.7,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 34.5,
+      "end": 34.5,
+      "text": "[Intro - choir pad, then djent chugs]"
+    },
+    {
+      "t": 34.5,
+      "end": 34.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.5,
+      "end": 40.04,
+      "text": "朝六時 公園 ブルーシート 四畳半"
+    },
+    {
+      "t": 40.18,
+      "end": 46.8,
+      "text": "新人だから 私が守る"
+    },
+    {
+      "t": 47.16,
+      "end": 58.79,
+      "text": "部長は 十二時に来るって言った"
+    },
+    {
+      "t": 59.03,
+      "end": 62.55,
+      "text": "今 六時 あと六時間"
+    },
+    {
+      "t": 62.67,
+      "end": 62.67,
+      "text": "[Pre-Chorus - backing chant]"
+    },
+    {
+      "t": 62.67,
+      "end": 63.95,
+      "text": "守れ! 守れ!"
+    },
+    {
+      "t": 64.39,
+      "end": 69.59,
+      "text": "四隅に 石を置け!"
+    },
+    {
+      "t": 77.65,
+      "end": 77.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.65,
+      "end": 79.99,
+      "text": "ここは 渡さない"
+    },
+    {
+      "t": 80.51,
+      "end": 85.11,
+      "text": "隣の大学生にも 犬にも 風にも"
+    },
+    {
+      "t": 85.97,
+      "end": 87.39,
+      "text": "桜の下の 四畳半"
+    },
+    {
+      "t": 87.39,
+      "end": 90.21,
+      "text": "今日だけ 私は ここの女王"
+    },
+    {
+      "t": 90.21,
+      "end": 90.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.21,
+      "end": 95.47,
+      "text": "十時 シートが 風でめくれる"
+    },
+    {
+      "t": 95.67,
+      "end": 114.95,
+      "text": "靴を脱いで 角に置く"
+    },
+    {
+      "t": 115.13,
+      "end": 121.77,
+      "text": "トイレに行きたい 行けない"
+    },
+    {
+      "t": 121.95,
+      "end": 132.81,
+      "text": "隣のおばちゃんが 唐揚げくれた 同盟成立"
+    },
+    {
+      "t": 138.79,
+      "end": 138.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.79,
+      "end": 143.79,
+      "text": "ここは 渡さない"
+    },
+    {
+      "t": 143.97,
+      "end": 152.88,
+      "text": "隣の大学生にも 犬にも 風にも"
+    },
+    {
+      "t": 153.02,
+      "end": 154.92,
+      "text": "桜の下の 四畳半"
+    },
+    {
+      "t": 154.98,
+      "end": 159.46,
+      "text": "トイレの五分だけ おばちゃんに預ける"
+    },
+    {
+      "t": 159.46,
+      "end": 159.46,
+      "text": "[Bridge - half-time breakdown]"
+    },
+    {
+      "t": 159.46,
+      "end": 159.6,
+      "text": "十二時"
+    },
+    {
+      "t": 160.0,
+      "end": 161.76,
+      "text": "部長から LINE"
+    },
+    {
+      "t": 162.08,
+      "end": 174.18,
+      "text": "「やっぱ 居酒屋にしよう」"
+    },
+    {
+      "t": 174.2,
+      "end": 174.2,
+      "text": "[Outro - blast beat, then silence]"
+    },
+    {
+      "t": 174.2,
+      "end": 176.1,
+      "text": "シート たたむ"
+    },
+    {
+      "t": 176.64,
+      "end": 189.78,
+      "text": "石 四つ 持って帰る"
+    },
+    {
+      "t": 189.78,
+      "end": 189.78,
+      "text": "[Song ends abruptly]"
+    }
+  ]
+}

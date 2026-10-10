@@ -1,0 +1,307 @@
+{
+  "id": "b6_ms09",
+  "title": "Tampal Lagi",
+  "title_source": "scripted",
+  "genre": "Boria (Penang satirical chorus song)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "deadpan satire, marching and grinning",
+  "persona": "",
+  "subject": "a pothole outside the market patched three times in one month, each time the night before an official visit",
+  "caption": "Boria, the Penang satirical chorus song, in a brisk stage-show style. A violin playing a bright march-like melody and answering the lead, an accordion pumping chords on the offbeats, gendang drums driving a 2/4 march pulse, and tambourine and maracas shaking on every beat. Bright and brisk, an open-air stage sound, the chorus wide and loud, the lead vocal forward and dry. Male lead with northern Penang Malay colour, comic and topical, half-sung and half-declaimed, and a uniformed male chorus answering in tight unison. 126 BPM, G major. Deadpan satire, marching and grinning. No drum kit, no electric guitar, no synths, no autotune, no slow ballad section, no dikir barat seated clapping.",
+  "lyrics": "[Intro - violin march melody and gendang roll]\n\n[Verse 1]\nDepan pasar ikan ada satu lubang besar\nHujan sikit jadi kolam, ikan keli pun boleh mandi\nIsnin malam lori mai, tampal, siap pasang kon\nSelasa pagi YB mai, gunting reben, ambik gambar\n\n[Chorus]\nTampal lagi! (Tampal lagi!)\nYB mai, jalan licin, YB balik, lubang mai\nTampal lagi! (Tampal lagi!)\nLubang ni lagi setia dari kucing aku\n\n[Verse 2]\nRabu hujan turun, tar tu terkopek habis\nMak Cik Kiah naik motor, terhenjut, kangkung bertabur\nKhamis malam lori mai, tampal lagi, lagi tebal\nJumaat pagi menteri mai - hang tak payah habaq, kami tau dah\n\n[Bridge - chorus in unison with hand claps, violin stops]\nSatu, dua, tiga kali dah! (Tiga kali!)\nLain kali bawa menteri tiap-tiap minggu! (Tiap-tiap minggu!)\n\n[Chorus]\nTampal lagi! (Tampal lagi!)\nYB mai, jalan licin, YB balik, lubang mai\nTampal lagi! (Tampal lagi!)\nLubang ni dah ada pangkat, kami panggil dia Datuk\n\n[Outro - violin march to a stop, chorus shout]\nHidup lubang! (Hidup!)\nJumpa minggu depan!",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Boria, the Penang satirical chorus song, in a brisk stage-show style. A violin playing a bright march-like melody and answering the lead, an accordion pumping chords on the offbeats, gendang drums driving a 2/4 march pulse, and tambourine and maracas shaking on every beat. Bright and brisk, an open-air stage sound, the chorus wide and loud, the lead vocal forward and dry. Male lead with northern Penang Malay colour, comic and topical, half-sung and half-declaimed, and a uniformed male chorus answering in tight unison. 126 BPM, G major. Deadpan satire, marching and grinning. No drum kit, no electric guitar, no synths, no autotune, no slow ballad section, no dikir barat seated clapping.",
+    "lyrics": "[Intro - violin march melody and gendang roll]\n\n[Verse 1]\nDepan pasar ikan ada satu lubang besar\nHujan sikit jadi kolam, ikan keli pun boleh mandi\nIsnin malam lori mai, tampal, siap pasang kon\nSelasa pagi YB mai, gunting reben, ambik gambar\n\n[Chorus]\nTampal lagi! (Tampal lagi!)\nYB mai, jalan licin, YB balik, lubang mai\nTampal lagi! (Tampal lagi!)\nLubang ni lagi setia dari kucing aku\n\n[Verse 2]\nRabu hujan turun, tar tu terkopek habis\nMak Cik Kiah naik motor, terhenjut, kangkung bertabur\nKhamis malam lori mai, tampal lagi, lagi tebal\nJumaat pagi menteri mai - hang tak payah habaq, kami tau dah\n\n[Bridge - chorus in unison with hand claps, violin stops]\nSatu, dua, tiga kali dah! (Tiga kali!)\nLain kali bawa menteri tiap-tiap minggu! (Tiap-tiap minggu!)\n\n[Chorus]\nTampal lagi! (Tampal lagi!)\nYB mai, jalan licin, YB balik, lubang mai\nTampal lagi! (Tampal lagi!)\nLubang ni dah ada pangkat, kami panggil dia Datuk\n\n[Outro - violin march to a stop, chorus shout]\nHidup lubang! (Hidup!)\nJumpa minggu depan!"
+  },
+  "seed": "2158340451",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.10s**\n- 58.10s per song\n- LM phase (1 song): 10.72s\n- DiT phase (1 song): 47.39s",
+  "task_id": "46ec6e02-b5f8-47c7-a7b2-3d1697f073ac",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-09T21:23:30.283314+08:00",
+  "audio": "b6_ms09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 40.02,
+      "end": 40.02,
+      "text": "[Intro - violin march melody and gendang roll]"
+    },
+    {
+      "t": 40.02,
+      "end": 40.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.02,
+      "end": 45.72,
+      "text": "Depan pasar ikan ada satu lubang besar"
+    },
+    {
+      "t": 47.75,
+      "end": 53.35,
+      "text": "Hujan sikit jadi kolam, ikan keli pun boleh mandi"
+    },
+    {
+      "t": 53.41,
+      "end": 56.57,
+      "text": "Isnin malam lori mai, tampal, siap pasang kon"
+    },
+    {
+      "t": 56.57,
+      "end": 61.25,
+      "text": "Selasa pagi YB mai, gunting reben, ambik gambar"
+    },
+    {
+      "t": 61.27,
+      "end": 61.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.27,
+      "end": 63.57,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 63.73,
+      "end": 66.59,
+      "text": "YB mai, jalan licin, YB balik, lubang mai"
+    },
+    {
+      "t": 66.59,
+      "end": 68.71,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 70.19,
+      "end": 76.99,
+      "text": "Lubang ni lagi setia dari kucing aku"
+    },
+    {
+      "t": 78.61,
+      "end": 78.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.61,
+      "end": 82.83,
+      "text": "Rabu hujan turun, tar tu terkopek habis"
+    },
+    {
+      "t": 84.35,
+      "end": 90.45,
+      "text": "Mak Cik Kiah naik motor, terhenjut, kangkung bertabur"
+    },
+    {
+      "t": 93.19,
+      "end": 98.15,
+      "text": "Khamis malam lori mai, tampal lagi, lagi tebal"
+    },
+    {
+      "t": 99.99,
+      "end": 108.17,
+      "text": "Jumaat pagi menteri mai - hang tak payah habaq, kami tau dah"
+    },
+    {
+      "t": 112.29,
+      "end": 112.29,
+      "text": "[Bridge - chorus in unison with hand claps, violin stops]"
+    },
+    {
+      "t": 112.29,
+      "end": 116.05,
+      "text": "Satu, dua, tiga kali dah! (Tiga kali!)"
+    },
+    {
+      "t": 116.21,
+      "end": 122.81,
+      "text": "Lain kali bawa menteri tiap-tiap minggu! (Tiap-tiap minggu!)"
+    },
+    {
+      "t": 124.17,
+      "end": 124.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.17,
+      "end": 127.67,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 128.15,
+      "end": 131.67,
+      "text": "YB mai, jalan licin, YB balik, lubang mai"
+    },
+    {
+      "t": 131.91,
+      "end": 135.39,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 135.77,
+      "end": 139.65,
+      "text": "Lubang ni dah ada pangkat, kami panggil dia Datuk"
+    },
+    {
+      "t": 143.96,
+      "end": 143.96,
+      "text": "[Outro - violin march to a stop, chorus shout]"
+    },
+    {
+      "t": 143.96,
+      "end": 174.12,
+      "text": "Hidup lubang! (Hidup!)"
+    },
+    {
+      "t": 175.84,
+      "end": 179.1,
+      "text": "Jumpa minggu depan!"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 40.02,
+      "end": 40.02,
+      "text": "[Intro - violin march melody and gendang roll]"
+    },
+    {
+      "t": 40.02,
+      "end": 40.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.02,
+      "end": 45.72,
+      "text": "Depan pasar ikan ada satu lubang besar"
+    },
+    {
+      "t": 47.75,
+      "end": 52.99,
+      "text": "Hujan sikit jadi kolam, ikan keli pun boleh mandi"
+    },
+    {
+      "t": 53.01,
+      "end": 56.57,
+      "text": "Isnin malam lori mai, tampal, siap pasang kon"
+    },
+    {
+      "t": 56.57,
+      "end": 60.79,
+      "text": "Selasa pagi YB mai, gunting reben, ambik gambar"
+    },
+    {
+      "t": 60.79,
+      "end": 60.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.79,
+      "end": 61.59,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 61.59,
+      "end": 62.45,
+      "text": "YB mai, jalan licin, YB balik, lubang mai"
+    },
+    {
+      "t": 62.45,
+      "end": 65.81,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 70.19,
+      "end": 77.01,
+      "text": "Lubang ni lagi setia dari kucing aku"
+    },
+    {
+      "t": 78.61,
+      "end": 78.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.61,
+      "end": 82.85,
+      "text": "Rabu hujan turun, tar tu terkopek habis"
+    },
+    {
+      "t": 84.35,
+      "end": 90.43,
+      "text": "Mak Cik Kiah naik motor, terhenjut, kangkung bertabur"
+    },
+    {
+      "t": 93.21,
+      "end": 98.15,
+      "text": "Khamis malam lori mai, tampal lagi, lagi tebal"
+    },
+    {
+      "t": 99.97,
+      "end": 108.19,
+      "text": "Jumaat pagi menteri mai - hang tak payah habaq, kami tau dah"
+    },
+    {
+      "t": 112.29,
+      "end": 112.29,
+      "text": "[Bridge - chorus in unison with hand claps, violin stops]"
+    },
+    {
+      "t": 112.29,
+      "end": 116.03,
+      "text": "Satu, dua, tiga kali dah! (Tiga kali!)"
+    },
+    {
+      "t": 116.21,
+      "end": 122.83,
+      "text": "Lain kali bawa menteri tiap-tiap minggu! (Tiap-tiap minggu!)"
+    },
+    {
+      "t": 124.17,
+      "end": 124.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.17,
+      "end": 127.69,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 128.15,
+      "end": 131.69,
+      "text": "YB mai, jalan licin, YB balik, lubang mai"
+    },
+    {
+      "t": 131.91,
+      "end": 135.41,
+      "text": "Tampal lagi! (Tampal lagi!)"
+    },
+    {
+      "t": 135.79,
+      "end": 139.67,
+      "text": "Lubang ni dah ada pangkat, kami panggil dia Datuk"
+    },
+    {
+      "t": 151.48,
+      "end": 151.48,
+      "text": "[Outro - violin march to a stop, chorus shout]"
+    },
+    {
+      "t": 151.48,
+      "end": 174.12,
+      "text": "Hidup lubang! (Hidup!)"
+    },
+    {
+      "t": 175.84,
+      "end": 179.1,
+      "text": "Jumpa minggu depan!"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

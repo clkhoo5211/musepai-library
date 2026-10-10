@@ -1,0 +1,474 @@
+{
+  "id": "b6_ja05",
+  "title": "じいちゃん、うるせえ",
+  "title_source": "scripted",
+  "genre": "Japanese ska-punk",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "rowdy, sore-shouldered pride",
+  "persona": "",
+  "subject": "a first-timer carrying the neighbourhood mikoshi at the summer matsuri in a borrowed happi coat while an old barber shouts corrections from the roadside",
+  "caption": "Japanese ska-punk. A horn section of trumpet, trombone, tenor and baritone saxophones playing unison riffs and short stabs, an upstroke guitar skank on every offbeat in the verses, a bouncing pick-played bass, backbeat drums with rimshots and fast hi-hats that switch to a punk two-beat with distorted guitars under the horns in the chorus. Loud, live and a little roomy like a small club, the horns forward and bright, guitars and bass tight underneath. Male lead voice shouting the lines with a rough edge, with the band answering in gang choruses. 168 BPM, Bb major. Rowdy, sore-shouldered pride. No reggae one-drop, no synths, no autotune, no slow ballad section, no key change.",
+  "lyrics": "[Intro - horn riff and offbeat guitar skank]\n\n[Verse 1]\n法被は 酒屋の兄ちゃんに借りた\n袖が長くて 樟脳くさい\n初めて入る 神輿の棒の下\n右肩に 木がゴツンと乗っかる\n\n[Pre-Chorus - band answers]\n「肩 入れろ!」\n床屋のじいちゃんが 沿道から叫ぶ\n入れてるって!\n\n[Chorus - lead calls, band answers]\nわっしょい! わっしょい!\n肩が痛え でも声は出す\nわっしょい! わっしょい!\nじいちゃん うるせえ 今やってる\n\n[Verse 2]\n鳥居の前で 一回下ろして 麦茶を飲む\n肩は紫 タオル畳んで 挟み直す\n「代わるか?」って聞かれて 首を振った\nいつの間にか 前の人と 足が揃ってる\n\n[Chorus - lead calls, band answers]\nわっしょい! わっしょい!\n肩が痛え でも声は出す\nわっしょい! わっしょい!\nじいちゃん 黙った 腕組んで 笑ってる\n\n[Outro - horn stabs, cut]\n法被を返しに行ったら じいちゃんが一言\n「来年は 先棒な」\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Japanese ska-punk. A horn section of trumpet, trombone, tenor and baritone saxophones playing unison riffs and short stabs, an upstroke guitar skank on every offbeat in the verses, a bouncing pick-played bass, backbeat drums with rimshots and fast hi-hats that switch to a punk two-beat with distorted guitars under the horns in the chorus. Loud, live and a little roomy like a small club, the horns forward and bright, guitars and bass tight underneath. Male lead voice shouting the lines with a rough edge, with the band answering in gang choruses. 168 BPM, Bb major. Rowdy, sore-shouldered pride. No reggae one-drop, no synths, no autotune, no slow ballad section, no key change.",
+    "lyrics": "[Intro - horn riff and offbeat guitar skank]\n\n[Verse 1]\n法被は 酒屋の兄ちゃんに借りた\n袖が長くて 樟脳くさい\n初めて入る 神輿の棒の下\n右肩に 木がゴツンと乗っかる\n\n[Pre-Chorus - band answers]\n「肩 入れろ!」\n床屋のじいちゃんが 沿道から叫ぶ\n入れてるって!\n\n[Chorus - lead calls, band answers]\nわっしょい! わっしょい!\n肩が痛え でも声は出す\nわっしょい! わっしょい!\nじいちゃん うるせえ 今やってる\n\n[Verse 2]\n鳥居の前で 一回下ろして 麦茶を飲む\n肩は紫 タオル畳んで 挟み直す\n「代わるか?」って聞かれて 首を振った\nいつの間にか 前の人と 足が揃ってる\n\n[Chorus - lead calls, band answers]\nわっしょい! わっしょい!\n肩が痛え でも声は出す\nわっしょい! わっしょい!\nじいちゃん 黙った 腕組んで 笑ってる\n\n[Outro - horn stabs, cut]\n法被を返しに行ったら じいちゃんが一言\n「来年は 先棒な」\n[Song ends abruptly]"
+  },
+  "seed": "4073811215",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 128.40s**\n- 128.40s per song\n- LM phase (1 song): 25.37s\n- DiT phase (1 song): 103.04s",
+  "task_id": "2e8ed8bb-0d9c-492a-9d21-a682f53a6239",
+  "elapsed_s": 160.9,
+  "generated_at": "2026-10-09T23:15:05.387682+08:00",
+  "audio": "b6_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.6,
+      "end": 36.6,
+      "text": "[Intro - horn riff and offbeat guitar skank]"
+    },
+    {
+      "t": 36.6,
+      "end": 36.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.6,
+      "end": 40.3,
+      "text": "法被は 酒屋の兄ちゃんに借りた"
+    },
+    {
+      "t": 41.9,
+      "end": 46.3,
+      "text": "袖が長くて 樟脳くさい"
+    },
+    {
+      "t": 47.79,
+      "end": 48.99,
+      "text": "初めて入る 神輿の棒の下"
+    },
+    {
+      "t": 48.99,
+      "end": 50.63,
+      "text": "右肩に 木がゴツンと乗っかる"
+    },
+    {
+      "t": 52.39,
+      "end": 52.39,
+      "text": "[Pre-Chorus - band answers]"
+    },
+    {
+      "t": 52.39,
+      "end": 52.73,
+      "text": "「肩 入れろ!」"
+    },
+    {
+      "t": 52.73,
+      "end": 55.69,
+      "text": "床屋のじいちゃんが 沿道から叫ぶ"
+    },
+    {
+      "t": 55.93,
+      "end": 58.69,
+      "text": "入れてるって!"
+    },
+    {
+      "t": 61.79,
+      "end": 61.79,
+      "text": "[Chorus - lead calls, band answers]"
+    },
+    {
+      "t": 61.79,
+      "end": 64.67,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 64.67,
+      "end": 66.85,
+      "text": "肩が痛え でも声は出す"
+    },
+    {
+      "t": 67.45,
+      "end": 69.53,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 69.59,
+      "end": 70.97,
+      "text": "じいちゃん うるせえ 今やってる"
+    },
+    {
+      "t": 70.99,
+      "end": 70.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.99,
+      "end": 114.15,
+      "text": "鳥居の前で 一回下ろして 麦茶を飲む"
+    },
+    {
+      "t": 114.45,
+      "end": 120.17,
+      "text": "肩は紫 タオル畳んで 挟み直す"
+    },
+    {
+      "t": 120.19,
+      "end": 122.27,
+      "text": "「代わるか?」って聞かれて 首を振った"
+    },
+    {
+      "t": 122.47,
+      "end": 124.43,
+      "text": "いつの間にか 前の人と 足が揃ってる"
+    },
+    {
+      "t": 124.69,
+      "end": 124.69,
+      "text": "[Chorus - lead calls, band answers]"
+    },
+    {
+      "t": 124.69,
+      "end": 133.47,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 133.55,
+      "end": 135.93,
+      "text": "肩が痛え でも声は出す"
+    },
+    {
+      "t": 135.95,
+      "end": 138.15,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 138.17,
+      "end": 139.62,
+      "text": "じいちゃん 黙った 腕組んで 笑ってる"
+    },
+    {
+      "t": 139.64,
+      "end": 139.64,
+      "text": "[Outro - horn stabs, cut]"
+    },
+    {
+      "t": 139.64,
+      "end": 146.68,
+      "text": "法被を返しに行ったら じいちゃんが一言"
+    },
+    {
+      "t": 173.08,
+      "end": 177.12,
+      "text": "「来年は 先棒な」"
+    },
+    {
+      "t": 177.12,
+      "end": 177.12,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.6,
+      "end": 36.6,
+      "text": "[Intro - horn riff and offbeat guitar skank]"
+    },
+    {
+      "t": 36.6,
+      "end": 36.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.6,
+      "end": 40.3,
+      "text": "法被は 酒屋の兄ちゃんに借りた"
+    },
+    {
+      "t": 41.9,
+      "end": 46.3,
+      "text": "袖が長くて 樟脳くさい"
+    },
+    {
+      "t": 47.79,
+      "end": 48.99,
+      "text": "初めて入る 神輿の棒の下"
+    },
+    {
+      "t": 48.99,
+      "end": 50.63,
+      "text": "右肩に 木がゴツンと乗っかる"
+    },
+    {
+      "t": 52.39,
+      "end": 52.39,
+      "text": "[Pre-Chorus - band answers]"
+    },
+    {
+      "t": 52.39,
+      "end": 52.73,
+      "text": "「肩 入れろ!」"
+    },
+    {
+      "t": 52.73,
+      "end": 55.69,
+      "text": "床屋のじいちゃんが 沿道から叫ぶ"
+    },
+    {
+      "t": 55.93,
+      "end": 58.69,
+      "text": "入れてるって!"
+    },
+    {
+      "t": 61.79,
+      "end": 61.79,
+      "text": "[Chorus - lead calls, band answers]"
+    },
+    {
+      "t": 61.79,
+      "end": 64.67,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 64.67,
+      "end": 66.85,
+      "text": "肩が痛え でも声は出す"
+    },
+    {
+      "t": 67.45,
+      "end": 69.53,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 69.59,
+      "end": 70.97,
+      "text": "じいちゃん うるせえ 今やってる"
+    },
+    {
+      "t": 70.99,
+      "end": 70.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.99,
+      "end": 114.15,
+      "text": "鳥居の前で 一回下ろして 麦茶を飲む"
+    },
+    {
+      "t": 114.45,
+      "end": 120.17,
+      "text": "肩は紫 タオル畳んで 挟み直す"
+    },
+    {
+      "t": 120.19,
+      "end": 122.27,
+      "text": "「代わるか?」って聞かれて 首を振った"
+    },
+    {
+      "t": 122.47,
+      "end": 124.43,
+      "text": "いつの間にか 前の人と 足が揃ってる"
+    },
+    {
+      "t": 124.69,
+      "end": 124.69,
+      "text": "[Chorus - lead calls, band answers]"
+    },
+    {
+      "t": 124.69,
+      "end": 133.47,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 133.55,
+      "end": 135.93,
+      "text": "肩が痛え でも声は出す"
+    },
+    {
+      "t": 135.95,
+      "end": 138.15,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 138.17,
+      "end": 139.62,
+      "text": "じいちゃん 黙った 腕組んで 笑ってる"
+    },
+    {
+      "t": 139.64,
+      "end": 139.64,
+      "text": "[Outro - horn stabs, cut]"
+    },
+    {
+      "t": 139.64,
+      "end": 146.68,
+      "text": "法被を返しに行ったら じいちゃんが一言"
+    },
+    {
+      "t": 173.08,
+      "end": 177.12,
+      "text": "「来年は 先棒な」"
+    },
+    {
+      "t": 177.12,
+      "end": 177.12,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 34.46,
+      "end": 34.46,
+      "text": "[Intro - horn riff and offbeat guitar skank]"
+    },
+    {
+      "t": 34.46,
+      "end": 34.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.46,
+      "end": 40.3,
+      "text": "法被は 酒屋の兄ちゃんに借りた"
+    },
+    {
+      "t": 41.9,
+      "end": 46.3,
+      "text": "袖が長くて 樟脳くさい"
+    },
+    {
+      "t": 47.79,
+      "end": 49.11,
+      "text": "初めて入る 神輿の棒の下"
+    },
+    {
+      "t": 49.21,
+      "end": 52.91,
+      "text": "右肩に 木がゴツンと乗っかる"
+    },
+    {
+      "t": 52.91,
+      "end": 52.91,
+      "text": "[Pre-Chorus - band answers]"
+    },
+    {
+      "t": 52.91,
+      "end": 54.49,
+      "text": "「肩 入れろ!」"
+    },
+    {
+      "t": 54.53,
+      "end": 57.41,
+      "text": "床屋のじいちゃんが 沿道から叫ぶ"
+    },
+    {
+      "t": 57.51,
+      "end": 58.67,
+      "text": "入れてるって!"
+    },
+    {
+      "t": 61.77,
+      "end": 61.77,
+      "text": "[Chorus - lead calls, band answers]"
+    },
+    {
+      "t": 61.77,
+      "end": 63.87,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 64.11,
+      "end": 66.85,
+      "text": "肩が痛え でも声は出す"
+    },
+    {
+      "t": 67.45,
+      "end": 69.53,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 69.59,
+      "end": 72.11,
+      "text": "じいちゃん うるせえ 今やってる"
+    },
+    {
+      "t": 72.15,
+      "end": 72.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.15,
+      "end": 93.09,
+      "text": "鳥居の前で 一回下ろして 麦茶を飲む"
+    },
+    {
+      "t": 93.17,
+      "end": 96.67,
+      "text": "肩は紫 タオル畳んで 挟み直す"
+    },
+    {
+      "t": 96.77,
+      "end": 121.37,
+      "text": "「代わるか?」って聞かれて 首を振った"
+    },
+    {
+      "t": 121.57,
+      "end": 124.43,
+      "text": "いつの間にか 前の人と 足が揃ってる"
+    },
+    {
+      "t": 129.23,
+      "end": 129.23,
+      "text": "[Chorus - lead calls, band answers]"
+    },
+    {
+      "t": 129.23,
+      "end": 133.65,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 134.91,
+      "end": 144.32,
+      "text": "肩が痛え でも声は出す"
+    },
+    {
+      "t": 144.32,
+      "end": 163.64,
+      "text": "わっしょい! わっしょい!"
+    },
+    {
+      "t": 163.72,
+      "end": 167.88,
+      "text": "じいちゃん 黙った 腕組んで 笑ってる"
+    },
+    {
+      "t": 168.14,
+      "end": 168.14,
+      "text": "[Outro - horn stabs, cut]"
+    },
+    {
+      "t": 168.14,
+      "end": 171.74,
+      "text": "法被を返しに行ったら じいちゃんが一言"
+    },
+    {
+      "t": 173.1,
+      "end": 180.9,
+      "text": "「来年は 先棒な」"
+    },
+    {
+      "t": 180.9,
+      "end": 180.9,
+      "text": "[Song ends abruptly]"
+    }
+  ]
+}

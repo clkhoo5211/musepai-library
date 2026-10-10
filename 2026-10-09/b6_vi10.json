@@ -1,0 +1,444 @@
+{
+  "id": "b6_vi10",
+  "title": "chờ một tiếng trống chầu",
+  "title_source": "scripted",
+  "genre": "ca tru world music",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "nervous, then quietly proud",
+  "persona": "",
+  "subject": "a twenty-two-year-old's first ca trù performance and the single stroke of the praise drum she waits for",
+  "caption": "Ca tru world music, northern Vietnamese chamber art song with a light modern layer. A dan day long-neck three-string lute plucked in sparse bending phrases, the singer's phach bamboo block struck with two sticks in syncopated patterns, a trong chau praise drum giving single sharp strokes on the good lines, a cello holding long low notes and a soft frame drum, faint ambient pads underneath. Intimate and roomy like a wooden communal house, lute and clapper forward, the cello far behind. Young female ca nuong in a nasal head voice with the throat-pulsed do hot vibrato, slow and elegant hat noi delivery. 66 BPM in loose rubato, D minor. Nervous, then quietly proud, one drum stroke earned. No drum kit, no pop chords, no autotune, no Western classical soprano, no EDM pulse.",
+  "lyrics": "[Intro - short dan day phrase, two phach strokes]\n\n[Verse 1]\nTối thứ năm, đình Kim Ngân phố Hàng Bạc\nMười hai người khách ngồi chiếu, tôi ngồi giữa\nHai dùi phách trong tay, tay tôi lạnh ngắt\nCụ Khang tám mốt tuổi cầm dùi trống, nhắm mắt\n\n[Pre-Chorus]\nBa năm tập đổ hột trong phòng trọ\nHàng xóm cứ tưởng tôi bị nấc cụt\n\n[Chorus]\nTôi chờ một tiếng trống chầu\nKhông cần cả đình vỗ tay\nChỉ cần dùi cụ gõ một tiếng “chát”\nLà câu ấy tôi hát đúng rồi\n\n[Verse 2]\nCâu đầu tôi run, giọng vấp vào nhịp phách\nCụ Khang vẫn nhắm mắt, dùi trống nằm yên\nTới câu thứ năm, tôi quên mất mình đang sợ\nGiọng tự rung lên, chẳng còn giống tiếng nấc\n\n[Chorus]\nRồi tôi nghe một tiếng trống chầu\nKhông cần cả đình vỗ tay\nDùi cụ gõ một tiếng “chát”, mắt cụ vẫn nhắm\nCả đình im, chỉ còn tay tôi gõ phách\n\n[Outro - dan day and phach, slowing to silence]\nVề phòng trọ, chị hàng xóm hỏi “hết nấc chưa em”\n“Hết rồi chị ạ, tối nay em được thưởng trống”",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 240.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Ca tru world music, northern Vietnamese chamber art song with a light modern layer. A dan day long-neck three-string lute plucked in sparse bending phrases, the singer's phach bamboo block struck with two sticks in syncopated patterns, a trong chau praise drum giving single sharp strokes on the good lines, a cello holding long low notes and a soft frame drum, faint ambient pads underneath. Intimate and roomy like a wooden communal house, lute and clapper forward, the cello far behind. Young female ca nuong in a nasal head voice with the throat-pulsed do hot vibrato, slow and elegant hat noi delivery. 66 BPM in loose rubato, D minor. Nervous, then quietly proud, one drum stroke earned. No drum kit, no pop chords, no autotune, no Western classical soprano, no EDM pulse.",
+    "lyrics": "[Intro - short dan day phrase, two phach strokes]\n\n[Verse 1]\nTối thứ năm, đình Kim Ngân phố Hàng Bạc\nMười hai người khách ngồi chiếu, tôi ngồi giữa\nHai dùi phách trong tay, tay tôi lạnh ngắt\nCụ Khang tám mốt tuổi cầm dùi trống, nhắm mắt\n\n[Pre-Chorus]\nBa năm tập đổ hột trong phòng trọ\nHàng xóm cứ tưởng tôi bị nấc cụt\n\n[Chorus]\nTôi chờ một tiếng trống chầu\nKhông cần cả đình vỗ tay\nChỉ cần dùi cụ gõ một tiếng “chát”\nLà câu ấy tôi hát đúng rồi\n\n[Verse 2]\nCâu đầu tôi run, giọng vấp vào nhịp phách\nCụ Khang vẫn nhắm mắt, dùi trống nằm yên\nTới câu thứ năm, tôi quên mất mình đang sợ\nGiọng tự rung lên, chẳng còn giống tiếng nấc\n\n[Chorus]\nRồi tôi nghe một tiếng trống chầu\nKhông cần cả đình vỗ tay\nDùi cụ gõ một tiếng “chát”, mắt cụ vẫn nhắm\nCả đình im, chỉ còn tay tôi gõ phách\n\n[Outro - dan day and phach, slowing to silence]\nVề phòng trọ, chị hàng xóm hỏi “hết nấc chưa em”\n“Hết rồi chị ạ, tối nay em được thưởng trống”"
+  },
+  "seed": "58220992",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.82s**\n- 73.82s per song\n- LM phase (1 song): 8.21s\n- DiT phase (1 song): 65.61s",
+  "task_id": "b9158f88-1d1f-4d1d-bb63-f9092095b8b5",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-10-09T21:56:06.036092+08:00",
+  "audio": "b6_vi10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 42.64,
+      "end": 42.64,
+      "text": "[Intro - short dan day phrase, two phach strokes]"
+    },
+    {
+      "t": 42.64,
+      "end": 42.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 42.64,
+      "end": 47.56,
+      "text": "Tối thứ năm, đình Kim Ngân phố Hàng Bạc"
+    },
+    {
+      "t": 49.66,
+      "end": 53.6,
+      "text": "Mười hai người khách ngồi chiếu, tôi ngồi giữa"
+    },
+    {
+      "t": 53.6,
+      "end": 54.56,
+      "text": "Hai dùi phách trong tay, tay tôi lạnh ngắt"
+    },
+    {
+      "t": 56.5,
+      "end": 62.59,
+      "text": "Cụ Khang tám mốt tuổi cầm dùi trống, nhắm mắt"
+    },
+    {
+      "t": 65.19,
+      "end": 65.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 65.19,
+      "end": 70.45,
+      "text": "Ba năm tập đổ hột trong phòng trọ"
+    },
+    {
+      "t": 73.43,
+      "end": 84.55,
+      "text": "Hàng xóm cứ tưởng tôi bị nấc cụt"
+    },
+    {
+      "t": 84.67,
+      "end": 84.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 84.67,
+      "end": 88.83,
+      "text": "Tôi chờ một tiếng trống chầu"
+    },
+    {
+      "t": 94.93,
+      "end": 96.91,
+      "text": "Không cần cả đình vỗ tay"
+    },
+    {
+      "t": 96.91,
+      "end": 105.17,
+      "text": "Chỉ cần dùi cụ gõ một tiếng “chát”"
+    },
+    {
+      "t": 105.17,
+      "end": 113.67,
+      "text": "Là câu ấy tôi hát đúng rồi"
+    },
+    {
+      "t": 113.85,
+      "end": 113.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 113.85,
+      "end": 122.39,
+      "text": "Câu đầu tôi run, giọng vấp vào nhịp phách"
+    },
+    {
+      "t": 133.61,
+      "end": 137.97,
+      "text": "Cụ Khang vẫn nhắm mắt, dùi trống nằm yên"
+    },
+    {
+      "t": 137.99,
+      "end": 141.89,
+      "text": "Tới câu thứ năm, tôi quên mất mình đang sợ"
+    },
+    {
+      "t": 141.91,
+      "end": 146.29,
+      "text": "Giọng tự rung lên, chẳng còn giống tiếng nấc"
+    },
+    {
+      "t": 149.55,
+      "end": 149.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.55,
+      "end": 152.15,
+      "text": "Rồi tôi nghe một tiếng trống chầu"
+    },
+    {
+      "t": 152.35,
+      "end": 154.77,
+      "text": "Không cần cả đình vỗ tay"
+    },
+    {
+      "t": 155.05,
+      "end": 158.85,
+      "text": "Dùi cụ gõ một tiếng “chát”, mắt cụ vẫn nhắm"
+    },
+    {
+      "t": 158.87,
+      "end": 173.93,
+      "text": "Cả đình im, chỉ còn tay tôi gõ phách"
+    },
+    {
+      "t": 192.22,
+      "end": 192.22,
+      "text": "[Outro - dan day and phach, slowing to silence]"
+    },
+    {
+      "t": 192.22,
+      "end": 197.2,
+      "text": "Về phòng trọ, chị hàng xóm hỏi “hết nấc chưa em”"
+    },
+    {
+      "t": 198.6,
+      "end": 222.14,
+      "text": "“Hết rồi chị ạ, tối nay em được thưởng trống”"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 42.64,
+      "end": 42.64,
+      "text": "[Intro - short dan day phrase, two phach strokes]"
+    },
+    {
+      "t": 42.64,
+      "end": 42.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 42.64,
+      "end": 47.56,
+      "text": "Tối thứ năm, đình Kim Ngân phố Hàng Bạc"
+    },
+    {
+      "t": 49.66,
+      "end": 53.6,
+      "text": "Mười hai người khách ngồi chiếu, tôi ngồi giữa"
+    },
+    {
+      "t": 53.6,
+      "end": 54.56,
+      "text": "Hai dùi phách trong tay, tay tôi lạnh ngắt"
+    },
+    {
+      "t": 56.5,
+      "end": 62.59,
+      "text": "Cụ Khang tám mốt tuổi cầm dùi trống, nhắm mắt"
+    },
+    {
+      "t": 65.19,
+      "end": 65.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 65.19,
+      "end": 70.45,
+      "text": "Ba năm tập đổ hột trong phòng trọ"
+    },
+    {
+      "t": 73.43,
+      "end": 84.55,
+      "text": "Hàng xóm cứ tưởng tôi bị nấc cụt"
+    },
+    {
+      "t": 84.67,
+      "end": 84.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 84.67,
+      "end": 88.83,
+      "text": "Tôi chờ một tiếng trống chầu"
+    },
+    {
+      "t": 94.93,
+      "end": 96.91,
+      "text": "Không cần cả đình vỗ tay"
+    },
+    {
+      "t": 96.91,
+      "end": 105.17,
+      "text": "Chỉ cần dùi cụ gõ một tiếng “chát”"
+    },
+    {
+      "t": 105.17,
+      "end": 113.67,
+      "text": "Là câu ấy tôi hát đúng rồi"
+    },
+    {
+      "t": 113.85,
+      "end": 113.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 113.85,
+      "end": 122.39,
+      "text": "Câu đầu tôi run, giọng vấp vào nhịp phách"
+    },
+    {
+      "t": 133.61,
+      "end": 137.97,
+      "text": "Cụ Khang vẫn nhắm mắt, dùi trống nằm yên"
+    },
+    {
+      "t": 137.99,
+      "end": 141.89,
+      "text": "Tới câu thứ năm, tôi quên mất mình đang sợ"
+    },
+    {
+      "t": 141.91,
+      "end": 146.29,
+      "text": "Giọng tự rung lên, chẳng còn giống tiếng nấc"
+    },
+    {
+      "t": 149.55,
+      "end": 149.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.55,
+      "end": 152.15,
+      "text": "Rồi tôi nghe một tiếng trống chầu"
+    },
+    {
+      "t": 152.35,
+      "end": 154.77,
+      "text": "Không cần cả đình vỗ tay"
+    },
+    {
+      "t": 155.05,
+      "end": 158.85,
+      "text": "Dùi cụ gõ một tiếng “chát”, mắt cụ vẫn nhắm"
+    },
+    {
+      "t": 158.87,
+      "end": 173.93,
+      "text": "Cả đình im, chỉ còn tay tôi gõ phách"
+    },
+    {
+      "t": 192.22,
+      "end": 192.22,
+      "text": "[Outro - dan day and phach, slowing to silence]"
+    },
+    {
+      "t": 192.22,
+      "end": 197.2,
+      "text": "Về phòng trọ, chị hàng xóm hỏi “hết nấc chưa em”"
+    },
+    {
+      "t": 198.6,
+      "end": 222.14,
+      "text": "“Hết rồi chị ạ, tối nay em được thưởng trống”"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 42.64,
+      "end": 42.64,
+      "text": "[Intro - short dan day phrase, two phach strokes]"
+    },
+    {
+      "t": 42.64,
+      "end": 42.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 42.64,
+      "end": 47.54,
+      "text": "Tối thứ năm, đình Kim Ngân phố Hàng Bạc"
+    },
+    {
+      "t": 49.66,
+      "end": 54.04,
+      "text": "Mười hai người khách ngồi chiếu, tôi ngồi giữa"
+    },
+    {
+      "t": 54.1,
+      "end": 55.52,
+      "text": "Hai dùi phách trong tay, tay tôi lạnh ngắt"
+    },
+    {
+      "t": 56.52,
+      "end": 62.59,
+      "text": "Cụ Khang tám mốt tuổi cầm dùi trống, nhắm mắt"
+    },
+    {
+      "t": 65.19,
+      "end": 65.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 65.19,
+      "end": 70.43,
+      "text": "Ba năm tập đổ hột trong phòng trọ"
+    },
+    {
+      "t": 73.43,
+      "end": 84.57,
+      "text": "Hàng xóm cứ tưởng tôi bị nấc cụt"
+    },
+    {
+      "t": 84.67,
+      "end": 84.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 84.67,
+      "end": 92.97,
+      "text": "Tôi chờ một tiếng trống chầu"
+    },
+    {
+      "t": 94.93,
+      "end": 96.93,
+      "text": "Không cần cả đình vỗ tay"
+    },
+    {
+      "t": 99.97,
+      "end": 105.17,
+      "text": "Chỉ cần dùi cụ gõ một tiếng “chát”"
+    },
+    {
+      "t": 105.17,
+      "end": 107.71,
+      "text": "Là câu ấy tôi hát đúng rồi"
+    },
+    {
+      "t": 107.71,
+      "end": 107.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 107.71,
+      "end": 122.37,
+      "text": "Câu đầu tôi run, giọng vấp vào nhịp phách"
+    },
+    {
+      "t": 133.61,
+      "end": 137.97,
+      "text": "Cụ Khang vẫn nhắm mắt, dùi trống nằm yên"
+    },
+    {
+      "t": 138.05,
+      "end": 141.87,
+      "text": "Tới câu thứ năm, tôi quên mất mình đang sợ"
+    },
+    {
+      "t": 141.91,
+      "end": 146.27,
+      "text": "Giọng tự rung lên, chẳng còn giống tiếng nấc"
+    },
+    {
+      "t": 149.55,
+      "end": 149.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.55,
+      "end": 152.15,
+      "text": "Rồi tôi nghe một tiếng trống chầu"
+    },
+    {
+      "t": 152.33,
+      "end": 153.75,
+      "text": "Không cần cả đình vỗ tay"
+    },
+    {
+      "t": 155.05,
+      "end": 158.85,
+      "text": "Dùi cụ gõ một tiếng “chát”, mắt cụ vẫn nhắm"
+    },
+    {
+      "t": 158.87,
+      "end": 187.62,
+      "text": "Cả đình im, chỉ còn tay tôi gõ phách"
+    },
+    {
+      "t": 192.22,
+      "end": 192.22,
+      "text": "[Outro - dan day and phach, slowing to silence]"
+    },
+    {
+      "t": 192.22,
+      "end": 197.18,
+      "text": "Về phòng trọ, chị hàng xóm hỏi “hết nấc chưa em”"
+    },
+    {
+      "t": 198.62,
+      "end": 204.04,
+      "text": "“Hết rồi chị ạ, tối nay em được thưởng trống”"
+    }
+  ]
+}

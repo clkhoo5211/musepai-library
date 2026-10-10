@@ -1,0 +1,444 @@
+{
+  "id": "b6_ja03",
+  "title": "ミルクは二秒",
+  "title_source": "scripted",
+  "genre": "J-R&B neo-soul",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "happily in love on a slow morning",
+  "persona": "",
+  "subject": "knowing exactly how long to pour the milk into your girlfriend's Sunday coffee",
+  "caption": "Japanese R&B with a neo-soul feel. A Rhodes electric piano playing soft ninth and thirteenth chords, a round fingerstyle electric bass sliding between notes, laid-back drums sitting behind the beat with a soft side-stick, ghost notes and swung hi-hats, a muted electric guitar comping in short offbeat stabs. Warm and close, with tape saturation and a gentle low-pass on the drums, the voice and the Rhodes forward and the room small. Male voice, breathy and smooth in the chest, sliding up into falsetto on the hook, with short melismatic runs and stacked self-harmonies. 84 BPM, Eb major. Happily in love on a slow morning. No trap hi-hats, no autotune, no four-on-the-floor, no big reverb, no string section, no city-pop slap bass or synth brass, no lo-fi drum machine or vinyl hiss.",
+  "lyrics": "[Intro - Rhodes chords and side-stick]\n\n[Verse 1]\n日曜の九時 君はまだ布団の中\nお湯が沸く音で 片目だけ開ける\nマグは君の 青いやつ\n取っ手が欠けてる それがいいらしい\n\n[Pre-Chorus]\n砂糖はいらない\nミルクは 数えなくても わかる\n\n[Chorus]\nミルクは二秒\n注いで 止めて ちょうどいい茶色\n誰に教わったわけじゃない\n半年 君の顔見てたら 覚えた\n\n[Verse 2]\n「なんでわかるの」って 寝ぐせのまま聞くから\n「さあね」って言って 自分のを淹れる\n俺のはブラック ほんとは苦手\n君が「大人だね」って言ったから やめられない\n\n[Chorus]\nミルクは二秒\n注いで 止めて ちょうどいい茶色\n誰に教わったわけじゃない\nほんとは 俺のにも 二秒ほしい\n\n[Outro - Rhodes alone, falsetto hum]\n冷めないうちに\n起きてきて",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Japanese R&B with a neo-soul feel. A Rhodes electric piano playing soft ninth and thirteenth chords, a round fingerstyle electric bass sliding between notes, laid-back drums sitting behind the beat with a soft side-stick, ghost notes and swung hi-hats, a muted electric guitar comping in short offbeat stabs. Warm and close, with tape saturation and a gentle low-pass on the drums, the voice and the Rhodes forward and the room small. Male voice, breathy and smooth in the chest, sliding up into falsetto on the hook, with short melismatic runs and stacked self-harmonies. 84 BPM, Eb major. Happily in love on a slow morning. No trap hi-hats, no autotune, no four-on-the-floor, no big reverb, no string section, no city-pop slap bass or synth brass, no lo-fi drum machine or vinyl hiss.",
+    "lyrics": "[Intro - Rhodes chords and side-stick]\n\n[Verse 1]\n日曜の九時 君はまだ布団の中\nお湯が沸く音で 片目だけ開ける\nマグは君の 青いやつ\n取っ手が欠けてる それがいいらしい\n\n[Pre-Chorus]\n砂糖はいらない\nミルクは 数えなくても わかる\n\n[Chorus]\nミルクは二秒\n注いで 止めて ちょうどいい茶色\n誰に教わったわけじゃない\n半年 君の顔見てたら 覚えた\n\n[Verse 2]\n「なんでわかるの」って 寝ぐせのまま聞くから\n「さあね」って言って 自分のを淹れる\n俺のはブラック ほんとは苦手\n君が「大人だね」って言ったから やめられない\n\n[Chorus]\nミルクは二秒\n注いで 止めて ちょうどいい茶色\n誰に教わったわけじゃない\nほんとは 俺のにも 二秒ほしい\n\n[Outro - Rhodes alone, falsetto hum]\n冷めないうちに\n起きてきて"
+  },
+  "seed": "2029979753",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 143.75s**\n- 143.75s per song\n- LM phase (1 song): 22.00s\n- DiT phase (1 song): 121.75s",
+  "task_id": "96e3d501-e5fe-4b6d-a2d5-eca1e9ecdeb8",
+  "elapsed_s": 181.3,
+  "generated_at": "2026-10-09T23:09:43.414361+08:00",
+  "audio": "b6_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 11.14,
+      "end": 11.14,
+      "text": "[Intro - Rhodes chords and side-stick]"
+    },
+    {
+      "t": 11.14,
+      "end": 11.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.14,
+      "end": 26.38,
+      "text": "日曜の九時 君はまだ布団の中"
+    },
+    {
+      "t": 26.42,
+      "end": 34.5,
+      "text": "お湯が沸く音で 片目だけ開ける"
+    },
+    {
+      "t": 36.86,
+      "end": 39.48,
+      "text": "マグは君の 青いやつ"
+    },
+    {
+      "t": 39.5,
+      "end": 53.21,
+      "text": "取っ手が欠けてる それがいいらしい"
+    },
+    {
+      "t": 53.25,
+      "end": 53.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.25,
+      "end": 55.49,
+      "text": "砂糖はいらない"
+    },
+    {
+      "t": 58.23,
+      "end": 62.67,
+      "text": "ミルクは 数えなくても わかる"
+    },
+    {
+      "t": 78.39,
+      "end": 78.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.39,
+      "end": 79.67,
+      "text": "ミルクは二秒"
+    },
+    {
+      "t": 81.07,
+      "end": 86.87,
+      "text": "注いで 止めて ちょうどいい茶色"
+    },
+    {
+      "t": 86.97,
+      "end": 92.61,
+      "text": "誰に教わったわけじゃない"
+    },
+    {
+      "t": 92.61,
+      "end": 97.05,
+      "text": "半年 君の顔見てたら 覚えた"
+    },
+    {
+      "t": 97.31,
+      "end": 97.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.31,
+      "end": 107.21,
+      "text": "「なんでわかるの」って 寝ぐせのまま聞くから"
+    },
+    {
+      "t": 107.29,
+      "end": 108.41,
+      "text": "「さあね」って言って 自分のを淹れる"
+    },
+    {
+      "t": 108.45,
+      "end": 110.57,
+      "text": "俺のはブラック ほんとは苦手"
+    },
+    {
+      "t": 110.57,
+      "end": 136.47,
+      "text": "君が「大人だね」って言ったから やめられない"
+    },
+    {
+      "t": 136.47,
+      "end": 136.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.47,
+      "end": 147.07,
+      "text": "ミルクは二秒"
+    },
+    {
+      "t": 147.21,
+      "end": 159.18,
+      "text": "注いで 止めて ちょうどいい茶色"
+    },
+    {
+      "t": 159.8,
+      "end": 167.7,
+      "text": "誰に教わったわけじゃない"
+    },
+    {
+      "t": 168.68,
+      "end": 181.08,
+      "text": "ほんとは 俺のにも 二秒ほしい"
+    },
+    {
+      "t": 181.18,
+      "end": 181.18,
+      "text": "[Outro - Rhodes alone, falsetto hum]"
+    },
+    {
+      "t": 181.18,
+      "end": 185.74,
+      "text": "冷めないうちに"
+    },
+    {
+      "t": 185.74,
+      "end": 201.44,
+      "text": "起きてきて"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 11.14,
+      "end": 11.14,
+      "text": "[Intro - Rhodes chords and side-stick]"
+    },
+    {
+      "t": 11.14,
+      "end": 11.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.14,
+      "end": 26.38,
+      "text": "日曜の九時 君はまだ布団の中"
+    },
+    {
+      "t": 26.42,
+      "end": 34.5,
+      "text": "お湯が沸く音で 片目だけ開ける"
+    },
+    {
+      "t": 36.86,
+      "end": 39.48,
+      "text": "マグは君の 青いやつ"
+    },
+    {
+      "t": 39.5,
+      "end": 53.21,
+      "text": "取っ手が欠けてる それがいいらしい"
+    },
+    {
+      "t": 53.25,
+      "end": 53.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.25,
+      "end": 55.49,
+      "text": "砂糖はいらない"
+    },
+    {
+      "t": 58.23,
+      "end": 62.67,
+      "text": "ミルクは 数えなくても わかる"
+    },
+    {
+      "t": 78.39,
+      "end": 78.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.39,
+      "end": 79.67,
+      "text": "ミルクは二秒"
+    },
+    {
+      "t": 81.07,
+      "end": 86.87,
+      "text": "注いで 止めて ちょうどいい茶色"
+    },
+    {
+      "t": 86.97,
+      "end": 92.61,
+      "text": "誰に教わったわけじゃない"
+    },
+    {
+      "t": 92.61,
+      "end": 97.05,
+      "text": "半年 君の顔見てたら 覚えた"
+    },
+    {
+      "t": 97.31,
+      "end": 97.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.31,
+      "end": 107.21,
+      "text": "「なんでわかるの」って 寝ぐせのまま聞くから"
+    },
+    {
+      "t": 107.29,
+      "end": 108.41,
+      "text": "「さあね」って言って 自分のを淹れる"
+    },
+    {
+      "t": 108.45,
+      "end": 110.57,
+      "text": "俺のはブラック ほんとは苦手"
+    },
+    {
+      "t": 110.57,
+      "end": 136.47,
+      "text": "君が「大人だね」って言ったから やめられない"
+    },
+    {
+      "t": 136.47,
+      "end": 136.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.47,
+      "end": 147.07,
+      "text": "ミルクは二秒"
+    },
+    {
+      "t": 147.21,
+      "end": 159.18,
+      "text": "注いで 止めて ちょうどいい茶色"
+    },
+    {
+      "t": 159.8,
+      "end": 167.7,
+      "text": "誰に教わったわけじゃない"
+    },
+    {
+      "t": 168.68,
+      "end": 181.08,
+      "text": "ほんとは 俺のにも 二秒ほしい"
+    },
+    {
+      "t": 181.18,
+      "end": 181.18,
+      "text": "[Outro - Rhodes alone, falsetto hum]"
+    },
+    {
+      "t": 181.18,
+      "end": 185.74,
+      "text": "冷めないうちに"
+    },
+    {
+      "t": 185.74,
+      "end": 201.44,
+      "text": "起きてきて"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 12.4,
+      "end": 12.4,
+      "text": "[Intro - Rhodes chords and side-stick]"
+    },
+    {
+      "t": 12.4,
+      "end": 12.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 12.4,
+      "end": 26.74,
+      "text": "日曜の九時 君はまだ布団の中"
+    },
+    {
+      "t": 26.8,
+      "end": 35.04,
+      "text": "お湯が沸く音で 片目だけ開ける"
+    },
+    {
+      "t": 36.86,
+      "end": 40.04,
+      "text": "マグは君の 青いやつ"
+    },
+    {
+      "t": 40.04,
+      "end": 48.72,
+      "text": "取っ手が欠けてる それがいいらしい"
+    },
+    {
+      "t": 53.25,
+      "end": 53.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.25,
+      "end": 55.49,
+      "text": "砂糖はいらない"
+    },
+    {
+      "t": 58.23,
+      "end": 62.67,
+      "text": "ミルクは 数えなくても わかる"
+    },
+    {
+      "t": 78.39,
+      "end": 78.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.39,
+      "end": 79.67,
+      "text": "ミルクは二秒"
+    },
+    {
+      "t": 81.07,
+      "end": 86.87,
+      "text": "注いで 止めて ちょうどいい茶色"
+    },
+    {
+      "t": 86.97,
+      "end": 89.51,
+      "text": "誰に教わったわけじゃない"
+    },
+    {
+      "t": 89.81,
+      "end": 93.45,
+      "text": "半年 君の顔見てたら 覚えた"
+    },
+    {
+      "t": 93.45,
+      "end": 93.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.45,
+      "end": 100.93,
+      "text": "「なんでわかるの」って 寝ぐせのまま聞くから"
+    },
+    {
+      "t": 101.17,
+      "end": 102.99,
+      "text": "「さあね」って言って 自分のを淹れる"
+    },
+    {
+      "t": 102.99,
+      "end": 106.15,
+      "text": "俺のはブラック ほんとは苦手"
+    },
+    {
+      "t": 106.31,
+      "end": 109.21,
+      "text": "君が「大人だね」って言ったから やめられない"
+    },
+    {
+      "t": 109.21,
+      "end": 109.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.21,
+      "end": 110.37,
+      "text": "ミルクは二秒"
+    },
+    {
+      "t": 110.49,
+      "end": 126.71,
+      "text": "注いで 止めて ちょうどいい茶色"
+    },
+    {
+      "t": 126.71,
+      "end": 136.51,
+      "text": "誰に教わったわけじゃない"
+    },
+    {
+      "t": 136.53,
+      "end": 179.72,
+      "text": "ほんとは 俺のにも 二秒ほしい"
+    },
+    {
+      "t": 179.72,
+      "end": 179.72,
+      "text": "[Outro - Rhodes alone, falsetto hum]"
+    },
+    {
+      "t": 179.72,
+      "end": 181.08,
+      "text": "冷めないうちに"
+    },
+    {
+      "t": 181.66,
+      "end": 186.4,
+      "text": "起きてきて"
+    }
+  ]
+}

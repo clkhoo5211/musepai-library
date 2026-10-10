@@ -1,0 +1,489 @@
+{
+  "id": "b6_ko04",
+  "title": "수요일 분리수거",
+  "title_source": "scripted",
+  "genre": "Korean original musical theatre duet",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "two neighbours slowly admitting why they come downstairs",
+  "persona": "",
+  "subject": "two neighbours from the seventh and twelfth floors who only ever meet at the recycling bins on Wednesday night",
+  "caption": "Korean original musical theatre number, a two-character book-song duet in the Daehangno small-theatre style. A piano-led pit band that opens with rubato solo piano. A violin and a cello swell under the bridge, an upright bass walks softly, a light brushed drum kit enters at the first chorus, and a clarinet answers the vocal lines. Intimate, roomy small-theatre sound with natural hall reverb, piano and voices forward, strings behind. Two voices in sung dialogue, a clear female mixed belt and a warm male baritone with crisp diction, trading lines and joining in harmony on the chorus; the strings lift into a key change for the final chorus. 96 BPM, F major. Shy neighbours who both know why they keep coming downstairs. No K-ballad or drama-OST power build, no pop drum loop, no synths, no rock guitar, no trap, no autotune.",
+  "lyrics": "[Intro - solo piano, rubato]\n\n[Verse 1 - Female]\n수요일 밤 아홉 시 반, 또 만났네요\n오늘은 우유팩 하나 들고 오셨네요\n그거 하나 버리러 십이 층에서 내려오셨어요?\n아니에요, 그냥 궁금해서 물어본 거예요\n\n[Pre-Chorus - Male]\n그쪽은 페트병 라벨을 하나하나 떼네요\n뚜껑까지 따로 모으는 사람 처음 봐요\n\n[Chorus - Duet]\n수요일은 분리수거 하는 날\n플라스틱, 캔, 종이, 그리고 우리\n버릴 게 없어도 뭔가 들고 내려와요\n열 시에 불 꺼지기 전에\n\n[Verse 2 - Male]\n사실 우유 안 마셔요, 월요일에 샀어요\n수요일에 들고 내려오려고 샀어요\n경비 아저씨가 오늘 웃으시더라고요\n다 아시나 봐요, 잘 숨긴 줄 알았는데\n\n[Bridge - Female, strings rise into a key change]\n그럼 다음 주엔 빈손으로 와요\n버릴 거 없어도 그냥 내려와요\n\n[Chorus - Duet]\n수요일은 분리수거 하는 날\n플라스틱, 캔, 종이, 그리고 우리\n다음엔 아무것도 안 들고 내려와요\n열 시에 불 꺼져도 괜찮아요\n\n[Outro - piano alone, both voices]\n다음 주 수요일 아홉 시 반\n빈손으로요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 228.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "3",
+    "prompt": "Korean original musical theatre number, a two-character book-song duet in the Daehangno small-theatre style. A piano-led pit band that opens with rubato solo piano. A violin and a cello swell under the bridge, an upright bass walks softly, a light brushed drum kit enters at the first chorus, and a clarinet answers the vocal lines. Intimate, roomy small-theatre sound with natural hall reverb, piano and voices forward, strings behind. Two voices in sung dialogue, a clear female mixed belt and a warm male baritone with crisp diction, trading lines and joining in harmony on the chorus; the strings lift into a key change for the final chorus. 96 BPM, F major. Shy neighbours who both know why they keep coming downstairs. No K-ballad or drama-OST power build, no pop drum loop, no synths, no rock guitar, no trap, no autotune.",
+    "lyrics": "[Intro - solo piano, rubato]\n\n[Verse 1 - Female]\n수요일 밤 아홉 시 반, 또 만났네요\n오늘은 우유팩 하나 들고 오셨네요\n그거 하나 버리러 십이 층에서 내려오셨어요?\n아니에요, 그냥 궁금해서 물어본 거예요\n\n[Pre-Chorus - Male]\n그쪽은 페트병 라벨을 하나하나 떼네요\n뚜껑까지 따로 모으는 사람 처음 봐요\n\n[Chorus - Duet]\n수요일은 분리수거 하는 날\n플라스틱, 캔, 종이, 그리고 우리\n버릴 게 없어도 뭔가 들고 내려와요\n열 시에 불 꺼지기 전에\n\n[Verse 2 - Male]\n사실 우유 안 마셔요, 월요일에 샀어요\n수요일에 들고 내려오려고 샀어요\n경비 아저씨가 오늘 웃으시더라고요\n다 아시나 봐요, 잘 숨긴 줄 알았는데\n\n[Bridge - Female, strings rise into a key change]\n그럼 다음 주엔 빈손으로 와요\n버릴 거 없어도 그냥 내려와요\n\n[Chorus - Duet]\n수요일은 분리수거 하는 날\n플라스틱, 캔, 종이, 그리고 우리\n다음엔 아무것도 안 들고 내려와요\n열 시에 불 꺼져도 괜찮아요\n\n[Outro - piano alone, both voices]\n다음 주 수요일 아홉 시 반\n빈손으로요"
+  },
+  "seed": "2694072982",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.29s**\n- 61.29s per song\n- LM phase (1 song): 8.61s\n- DiT phase (1 song): 52.68s",
+  "task_id": "43ce4c31-374e-436b-9901-322755ec6e26",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-09T21:03:07.704193+08:00",
+  "audio": "b6_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.58,
+      "end": 17.58,
+      "text": "[Intro - solo piano, rubato]"
+    },
+    {
+      "t": 17.58,
+      "end": 17.58,
+      "text": "[Verse 1 - Female]"
+    },
+    {
+      "t": 17.58,
+      "end": 21.54,
+      "text": "수요일 밤 아홉 시 반, 또 만났네요"
+    },
+    {
+      "t": 21.64,
+      "end": 25.64,
+      "text": "오늘은 우유팩 하나 들고 오셨네요"
+    },
+    {
+      "t": 25.8,
+      "end": 31.06,
+      "text": "그거 하나 버리러 십이 층에서 내려오셨어요?"
+    },
+    {
+      "t": 31.12,
+      "end": 37.58,
+      "text": "아니에요, 그냥 궁금해서 물어본 거예요"
+    },
+    {
+      "t": 41.24,
+      "end": 41.24,
+      "text": "[Pre-Chorus - Male]"
+    },
+    {
+      "t": 41.24,
+      "end": 46.96,
+      "text": "그쪽은 페트병 라벨을 하나하나 떼네요"
+    },
+    {
+      "t": 48.36,
+      "end": 52.96,
+      "text": "뚜껑까지 따로 모으는 사람 처음 봐요"
+    },
+    {
+      "t": 56.6,
+      "end": 56.6,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 56.6,
+      "end": 60.41,
+      "text": "수요일은 분리수거 하는 날"
+    },
+    {
+      "t": 63.47,
+      "end": 67.53,
+      "text": "플라스틱, 캔, 종이, 그리고 우리"
+    },
+    {
+      "t": 69.81,
+      "end": 74.99,
+      "text": "버릴 게 없어도 뭔가 들고 내려와요"
+    },
+    {
+      "t": 78.69,
+      "end": 81.91,
+      "text": "열 시에 불 꺼지기 전에"
+    },
+    {
+      "t": 81.91,
+      "end": 81.91,
+      "text": "[Verse 2 - Male]"
+    },
+    {
+      "t": 81.91,
+      "end": 89.53,
+      "text": "사실 우유 안 마셔요, 월요일에 샀어요"
+    },
+    {
+      "t": 89.55,
+      "end": 93.29,
+      "text": "수요일에 들고 내려오려고 샀어요"
+    },
+    {
+      "t": 93.37,
+      "end": 103.39,
+      "text": "경비 아저씨가 오늘 웃으시더라고요"
+    },
+    {
+      "t": 103.95,
+      "end": 108.05,
+      "text": "다 아시나 봐요, 잘 숨긴 줄 알았는데"
+    },
+    {
+      "t": 108.55,
+      "end": 108.55,
+      "text": "[Bridge - Female, strings rise into a key change]"
+    },
+    {
+      "t": 108.55,
+      "end": 110.95,
+      "text": "그럼 다음 주엔 빈손으로 와요"
+    },
+    {
+      "t": 111.25,
+      "end": 155.71,
+      "text": "버릴 거 없어도 그냥 내려와요"
+    },
+    {
+      "t": 169.43,
+      "end": 169.43,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 169.43,
+      "end": 174.52,
+      "text": "수요일은 분리수거 하는 날"
+    },
+    {
+      "t": 174.52,
+      "end": 177.48,
+      "text": "플라스틱, 캔, 종이, 그리고 우리"
+    },
+    {
+      "t": 180.28,
+      "end": 185.3,
+      "text": "다음엔 아무것도 안 들고 내려와요"
+    },
+    {
+      "t": 185.3,
+      "end": 197.58,
+      "text": "열 시에 불 꺼져도 괜찮아요"
+    },
+    {
+      "t": 197.6,
+      "end": 197.6,
+      "text": "[Outro - piano alone, both voices]"
+    },
+    {
+      "t": 197.6,
+      "end": 202.88,
+      "text": "다음 주 수요일 아홉 시 반"
+    },
+    {
+      "t": 204.46,
+      "end": 212.38,
+      "text": "빈손으로요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.58,
+      "end": 17.58,
+      "text": "[Intro - solo piano, rubato]"
+    },
+    {
+      "t": 17.58,
+      "end": 17.58,
+      "text": "[Verse 1 - Female]"
+    },
+    {
+      "t": 17.58,
+      "end": 21.54,
+      "text": "수요일 밤 아홉 시 반, 또 만났네요"
+    },
+    {
+      "t": 21.64,
+      "end": 25.64,
+      "text": "오늘은 우유팩 하나 들고 오셨네요"
+    },
+    {
+      "t": 25.8,
+      "end": 31.06,
+      "text": "그거 하나 버리러 십이 층에서 내려오셨어요?"
+    },
+    {
+      "t": 31.12,
+      "end": 37.58,
+      "text": "아니에요, 그냥 궁금해서 물어본 거예요"
+    },
+    {
+      "t": 41.24,
+      "end": 41.24,
+      "text": "[Pre-Chorus - Male]"
+    },
+    {
+      "t": 41.24,
+      "end": 46.96,
+      "text": "그쪽은 페트병 라벨을 하나하나 떼네요"
+    },
+    {
+      "t": 48.36,
+      "end": 52.96,
+      "text": "뚜껑까지 따로 모으는 사람 처음 봐요"
+    },
+    {
+      "t": 56.6,
+      "end": 56.6,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 56.6,
+      "end": 60.41,
+      "text": "수요일은 분리수거 하는 날"
+    },
+    {
+      "t": 63.47,
+      "end": 67.53,
+      "text": "플라스틱, 캔, 종이, 그리고 우리"
+    },
+    {
+      "t": 69.81,
+      "end": 74.99,
+      "text": "버릴 게 없어도 뭔가 들고 내려와요"
+    },
+    {
+      "t": 78.69,
+      "end": 81.91,
+      "text": "열 시에 불 꺼지기 전에"
+    },
+    {
+      "t": 81.91,
+      "end": 81.91,
+      "text": "[Verse 2 - Male]"
+    },
+    {
+      "t": 81.91,
+      "end": 89.53,
+      "text": "사실 우유 안 마셔요, 월요일에 샀어요"
+    },
+    {
+      "t": 89.55,
+      "end": 93.29,
+      "text": "수요일에 들고 내려오려고 샀어요"
+    },
+    {
+      "t": 93.37,
+      "end": 103.39,
+      "text": "경비 아저씨가 오늘 웃으시더라고요"
+    },
+    {
+      "t": 103.95,
+      "end": 108.05,
+      "text": "다 아시나 봐요, 잘 숨긴 줄 알았는데"
+    },
+    {
+      "t": 108.55,
+      "end": 108.55,
+      "text": "[Bridge - Female, strings rise into a key change]"
+    },
+    {
+      "t": 108.55,
+      "end": 110.95,
+      "text": "그럼 다음 주엔 빈손으로 와요"
+    },
+    {
+      "t": 111.25,
+      "end": 155.71,
+      "text": "버릴 거 없어도 그냥 내려와요"
+    },
+    {
+      "t": 169.43,
+      "end": 169.43,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 169.43,
+      "end": 174.52,
+      "text": "수요일은 분리수거 하는 날"
+    },
+    {
+      "t": 174.52,
+      "end": 177.48,
+      "text": "플라스틱, 캔, 종이, 그리고 우리"
+    },
+    {
+      "t": 180.28,
+      "end": 185.3,
+      "text": "다음엔 아무것도 안 들고 내려와요"
+    },
+    {
+      "t": 185.3,
+      "end": 197.58,
+      "text": "열 시에 불 꺼져도 괜찮아요"
+    },
+    {
+      "t": 197.6,
+      "end": 197.6,
+      "text": "[Outro - piano alone, both voices]"
+    },
+    {
+      "t": 197.6,
+      "end": 202.88,
+      "text": "다음 주 수요일 아홉 시 반"
+    },
+    {
+      "t": 204.46,
+      "end": 212.38,
+      "text": "빈손으로요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 17.6,
+      "end": 17.6,
+      "text": "[Intro - solo piano, rubato]"
+    },
+    {
+      "t": 17.6,
+      "end": 17.6,
+      "text": "[Verse 1 - Female]"
+    },
+    {
+      "t": 17.6,
+      "end": 22.48,
+      "text": "수요일 밤 아홉 시 반, 또 만났네요"
+    },
+    {
+      "t": 25.26,
+      "end": 29.34,
+      "text": "오늘은 우유팩 하나 들고 오셨네요"
+    },
+    {
+      "t": 29.34,
+      "end": 33.3,
+      "text": "그거 하나 버리러 십이 층에서 내려오셨어요?"
+    },
+    {
+      "t": 33.3,
+      "end": 37.6,
+      "text": "아니에요, 그냥 궁금해서 물어본 거예요"
+    },
+    {
+      "t": 41.24,
+      "end": 41.24,
+      "text": "[Pre-Chorus - Male]"
+    },
+    {
+      "t": 41.24,
+      "end": 46.96,
+      "text": "그쪽은 페트병 라벨을 하나하나 떼네요"
+    },
+    {
+      "t": 48.34,
+      "end": 52.98,
+      "text": "뚜껑까지 따로 모으는 사람 처음 봐요"
+    },
+    {
+      "t": 56.58,
+      "end": 56.58,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 56.58,
+      "end": 60.41,
+      "text": "수요일은 분리수거 하는 날"
+    },
+    {
+      "t": 63.45,
+      "end": 67.51,
+      "text": "플라스틱, 캔, 종이, 그리고 우리"
+    },
+    {
+      "t": 69.81,
+      "end": 75.01,
+      "text": "버릴 게 없어도 뭔가 들고 내려와요"
+    },
+    {
+      "t": 78.67,
+      "end": 81.93,
+      "text": "열 시에 불 꺼지기 전에"
+    },
+    {
+      "t": 81.93,
+      "end": 81.93,
+      "text": "[Verse 2 - Male]"
+    },
+    {
+      "t": 81.93,
+      "end": 89.55,
+      "text": "사실 우유 안 마셔요, 월요일에 샀어요"
+    },
+    {
+      "t": 89.55,
+      "end": 93.31,
+      "text": "수요일에 들고 내려오려고 샀어요"
+    },
+    {
+      "t": 93.35,
+      "end": 103.37,
+      "text": "경비 아저씨가 오늘 웃으시더라고요"
+    },
+    {
+      "t": 103.89,
+      "end": 108.03,
+      "text": "다 아시나 봐요, 잘 숨긴 줄 알았는데"
+    },
+    {
+      "t": 108.55,
+      "end": 108.55,
+      "text": "[Bridge - Female, strings rise into a key change]"
+    },
+    {
+      "t": 108.55,
+      "end": 110.93,
+      "text": "그럼 다음 주엔 빈손으로 와요"
+    },
+    {
+      "t": 119.19,
+      "end": 155.69,
+      "text": "버릴 거 없어도 그냥 내려와요"
+    },
+    {
+      "t": 169.43,
+      "end": 169.43,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 169.43,
+      "end": 174.52,
+      "text": "수요일은 분리수거 하는 날"
+    },
+    {
+      "t": 174.52,
+      "end": 177.46,
+      "text": "플라스틱, 캔, 종이, 그리고 우리"
+    },
+    {
+      "t": 180.28,
+      "end": 185.28,
+      "text": "다음엔 아무것도 안 들고 내려와요"
+    },
+    {
+      "t": 185.28,
+      "end": 198.22,
+      "text": "열 시에 불 꺼져도 괜찮아요"
+    },
+    {
+      "t": 198.22,
+      "end": 198.22,
+      "text": "[Outro - piano alone, both voices]"
+    },
+    {
+      "t": 198.22,
+      "end": 202.88,
+      "text": "다음 주 수요일 아홉 시 반"
+    },
+    {
+      "t": 204.46,
+      "end": 212.38,
+      "text": "빈손으로요"
+    }
+  ]
+}

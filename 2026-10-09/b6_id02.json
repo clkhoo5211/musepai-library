@@ -1,0 +1,307 @@
+{
+  "id": "b6_id02",
+  "title": "Oleng",
+  "title_source": "scripted",
+  "genre": "Indonesian pop R&B",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "flirty and teasing, a settled couple showing off for each other",
+  "persona": "",
+  "subject": "a couple on a rented tandem bike at Jakarta's Sunday car-free day on Sudirman, she pedalling hard from the back, he steering badly from the front, stopping for ketoprak by the roundabout",
+  "caption": "Indonesian pop R&B with a soul-pop lean. Rhodes electric piano voicing ninth and thirteenth chords with a soft tremolo, a muted single-note funk guitar answering the vocal in short licks, warm finger bass sliding into the downbeats, and laid-back drums with swung sixteenth hi-hats, a late rimshot and finger snaps on two and four, plus stacked background harmonies on the chorus. Warm, close and dry, the Rhodes and lead vocal forward, the low end soft and round. Smooth male lead moving between chest voice and falsetto, with short R&B runs at the ends of phrases and a few spoken asides. 86 BPM, E-flat major. Flirty and teasing, an easy Sunday-morning love song for a settled couple. No trap hi-hats, no rap verse, no autotune, no EDM drop, no acoustic guitar.",
+  "lyrics": "[Intro - Rhodes chords and finger snaps]\n\n[Verse 1]\nMinggu pagi, jam enam, Sudirman tanpa mobil\nSewa sepeda tandem, tiga puluh ribu sejam\nKamu bilang, \"Kamu yang setir, aku yang kuat\"\nBaru lima meter, kita hampir nabrak ondel-ondel\n\n[Pre-Chorus]\nSetangnya goyang, kamu ketawa di belakang\n\"Sayang, kiri dong! Kiri! Itu kiri yang lain!\"\n\n[Chorus]\nKamu yang gowes, aku yang oleng\nKakimu yang kerja, aku cuma pegang setang\nSatu sepeda, dua orang, beda maunya\nTapi kalau jatuh, kita jatuhnya bareng\n\n[Verse 2]\nBundaran HI, air mancurnya nyala\nKita minggir ke gerobak ketoprak biru\nKamu pesan cabe lima, aku cabe satu aja\nBumbu kacang nempel di dagumu, aku lap pakai jempol\n\n[Chorus]\nKamu yang gowes, aku yang oleng\nKakimu yang kerja, aku cuma pegang setang\nSatu sepeda, dua orang, beda maunya\nLima tahun kita begini, belum pernah jatuh juga\n\n[Outro - Rhodes and falsetto ad-libs]\nJam sebelas, mobil udah mulai lewat lagi\nKiri, Sayang. Bukan, kiri yang lain.",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Indonesian pop R&B with a soul-pop lean. Rhodes electric piano voicing ninth and thirteenth chords with a soft tremolo, a muted single-note funk guitar answering the vocal in short licks, warm finger bass sliding into the downbeats, and laid-back drums with swung sixteenth hi-hats, a late rimshot and finger snaps on two and four, plus stacked background harmonies on the chorus. Warm, close and dry, the Rhodes and lead vocal forward, the low end soft and round. Smooth male lead moving between chest voice and falsetto, with short R&B runs at the ends of phrases and a few spoken asides. 86 BPM, E-flat major. Flirty and teasing, an easy Sunday-morning love song for a settled couple. No trap hi-hats, no rap verse, no autotune, no EDM drop, no acoustic guitar.",
+    "lyrics": "[Intro - Rhodes chords and finger snaps]\n\n[Verse 1]\nMinggu pagi, jam enam, Sudirman tanpa mobil\nSewa sepeda tandem, tiga puluh ribu sejam\nKamu bilang, \"Kamu yang setir, aku yang kuat\"\nBaru lima meter, kita hampir nabrak ondel-ondel\n\n[Pre-Chorus]\nSetangnya goyang, kamu ketawa di belakang\n\"Sayang, kiri dong! Kiri! Itu kiri yang lain!\"\n\n[Chorus]\nKamu yang gowes, aku yang oleng\nKakimu yang kerja, aku cuma pegang setang\nSatu sepeda, dua orang, beda maunya\nTapi kalau jatuh, kita jatuhnya bareng\n\n[Verse 2]\nBundaran HI, air mancurnya nyala\nKita minggir ke gerobak ketoprak biru\nKamu pesan cabe lima, aku cabe satu aja\nBumbu kacang nempel di dagumu, aku lap pakai jempol\n\n[Chorus]\nKamu yang gowes, aku yang oleng\nKakimu yang kerja, aku cuma pegang setang\nSatu sepeda, dua orang, beda maunya\nLima tahun kita begini, belum pernah jatuh juga\n\n[Outro - Rhodes and falsetto ad-libs]\nJam sebelas, mobil udah mulai lewat lagi\nKiri, Sayang. Bukan, kiri yang lain."
+  },
+  "seed": "756033696",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.54s**\n- 66.54s per song\n- LM phase (1 song): 18.77s\n- DiT phase (1 song): 47.78s",
+  "task_id": "50e75715-ca05-45f2-af06-cc2cb3bb35b3",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-09T21:28:20.739198+08:00",
+  "audio": "b6_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.96,
+      "end": 31.96,
+      "text": "[Intro - Rhodes chords and finger snaps]"
+    },
+    {
+      "t": 31.96,
+      "end": 31.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.96,
+      "end": 37.2,
+      "text": "Minggu pagi, jam enam, Sudirman tanpa mobil"
+    },
+    {
+      "t": 37.58,
+      "end": 42.06,
+      "text": "Sewa sepeda tandem, tiga puluh ribu sejam"
+    },
+    {
+      "t": 42.56,
+      "end": 47.86,
+      "text": "Kamu bilang, \"Kamu yang setir, aku yang kuat\""
+    },
+    {
+      "t": 48.22,
+      "end": 52.45,
+      "text": "Baru lima meter, kita hampir nabrak ondel-ondel"
+    },
+    {
+      "t": 53.83,
+      "end": 53.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.83,
+      "end": 59.05,
+      "text": "Setangnya goyang, kamu ketawa di belakang"
+    },
+    {
+      "t": 59.45,
+      "end": 65.23,
+      "text": "\"Sayang, kiri dong! Kiri! Itu kiri yang lain!\""
+    },
+    {
+      "t": 65.47,
+      "end": 65.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.47,
+      "end": 69.67,
+      "text": "Kamu yang gowes, aku yang oleng"
+    },
+    {
+      "t": 70.41,
+      "end": 74.17,
+      "text": "Kakimu yang kerja, aku cuma pegang setang"
+    },
+    {
+      "t": 74.17,
+      "end": 75.81,
+      "text": "Satu sepeda, dua orang, beda maunya"
+    },
+    {
+      "t": 76.41,
+      "end": 82.43,
+      "text": "Tapi kalau jatuh, kita jatuhnya bareng"
+    },
+    {
+      "t": 85.15,
+      "end": 85.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.15,
+      "end": 89.87,
+      "text": "Bundaran HI, air mancurnya nyala"
+    },
+    {
+      "t": 90.77,
+      "end": 94.81,
+      "text": "Kita minggir ke gerobak ketoprak biru"
+    },
+    {
+      "t": 96.07,
+      "end": 106.29,
+      "text": "Kamu pesan cabe lima, aku cabe satu aja"
+    },
+    {
+      "t": 107.39,
+      "end": 113.07,
+      "text": "Bumbu kacang nempel di dagumu, aku lap pakai jempol"
+    },
+    {
+      "t": 113.37,
+      "end": 113.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.37,
+      "end": 117.59,
+      "text": "Kamu yang gowes, aku yang oleng"
+    },
+    {
+      "t": 118.35,
+      "end": 121.03,
+      "text": "Kakimu yang kerja, aku cuma pegang setang"
+    },
+    {
+      "t": 121.05,
+      "end": 124.01,
+      "text": "Satu sepeda, dua orang, beda maunya"
+    },
+    {
+      "t": 124.01,
+      "end": 130.15,
+      "text": "Lima tahun kita begini, belum pernah jatuh juga"
+    },
+    {
+      "t": 147.61,
+      "end": 147.61,
+      "text": "[Outro - Rhodes and falsetto ad-libs]"
+    },
+    {
+      "t": 147.61,
+      "end": 152.68,
+      "text": "Jam sebelas, mobil udah mulai lewat lagi"
+    },
+    {
+      "t": 156.14,
+      "end": 174.54,
+      "text": "Kiri, Sayang. Bukan, kiri yang lain."
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.96,
+      "end": 31.96,
+      "text": "[Intro - Rhodes chords and finger snaps]"
+    },
+    {
+      "t": 31.96,
+      "end": 31.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.96,
+      "end": 37.16,
+      "text": "Minggu pagi, jam enam, Sudirman tanpa mobil"
+    },
+    {
+      "t": 37.6,
+      "end": 42.08,
+      "text": "Sewa sepeda tandem, tiga puluh ribu sejam"
+    },
+    {
+      "t": 42.54,
+      "end": 47.86,
+      "text": "Kamu bilang, \"Kamu yang setir, aku yang kuat\""
+    },
+    {
+      "t": 48.22,
+      "end": 52.47,
+      "text": "Baru lima meter, kita hampir nabrak ondel-ondel"
+    },
+    {
+      "t": 53.83,
+      "end": 53.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.83,
+      "end": 59.07,
+      "text": "Setangnya goyang, kamu ketawa di belakang"
+    },
+    {
+      "t": 59.45,
+      "end": 65.21,
+      "text": "\"Sayang, kiri dong! Kiri! Itu kiri yang lain!\""
+    },
+    {
+      "t": 65.47,
+      "end": 65.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.47,
+      "end": 69.69,
+      "text": "Kamu yang gowes, aku yang oleng"
+    },
+    {
+      "t": 70.41,
+      "end": 74.15,
+      "text": "Kakimu yang kerja, aku cuma pegang setang"
+    },
+    {
+      "t": 74.15,
+      "end": 76.41,
+      "text": "Satu sepeda, dua orang, beda maunya"
+    },
+    {
+      "t": 76.41,
+      "end": 82.47,
+      "text": "Tapi kalau jatuh, kita jatuhnya bareng"
+    },
+    {
+      "t": 85.13,
+      "end": 85.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.13,
+      "end": 89.87,
+      "text": "Bundaran HI, air mancurnya nyala"
+    },
+    {
+      "t": 90.77,
+      "end": 98.69,
+      "text": "Kita minggir ke gerobak ketoprak biru"
+    },
+    {
+      "t": 99.07,
+      "end": 106.29,
+      "text": "Kamu pesan cabe lima, aku cabe satu aja"
+    },
+    {
+      "t": 107.39,
+      "end": 113.09,
+      "text": "Bumbu kacang nempel di dagumu, aku lap pakai jempol"
+    },
+    {
+      "t": 113.37,
+      "end": 113.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.37,
+      "end": 117.57,
+      "text": "Kamu yang gowes, aku yang oleng"
+    },
+    {
+      "t": 118.33,
+      "end": 121.51,
+      "text": "Kakimu yang kerja, aku cuma pegang setang"
+    },
+    {
+      "t": 121.53,
+      "end": 124.01,
+      "text": "Satu sepeda, dua orang, beda maunya"
+    },
+    {
+      "t": 124.01,
+      "end": 130.15,
+      "text": "Lima tahun kita begini, belum pernah jatuh juga"
+    },
+    {
+      "t": 147.61,
+      "end": 147.61,
+      "text": "[Outro - Rhodes and falsetto ad-libs]"
+    },
+    {
+      "t": 147.61,
+      "end": 152.68,
+      "text": "Jam sebelas, mobil udah mulai lewat lagi"
+    },
+    {
+      "t": 156.14,
+      "end": 174.54,
+      "text": "Kiri, Sayang. Bukan, kiri yang lain."
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

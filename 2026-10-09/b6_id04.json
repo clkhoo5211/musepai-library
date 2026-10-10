@@ -1,0 +1,307 @@
+{
+  "id": "b6_id04",
+  "title": "Helm Pink",
+  "title_source": "scripted",
+  "genre": "pop Melayu band",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "wounded and pleading, with a sting at the end",
+  "persona": "",
+  "subject": "seeing his girlfriend at a red light on the back of another man's motorbike, wearing the pink helmet he bought her",
+  "caption": "Pop Melayu band in the late-2000s Indonesian style. A clean-to-crunch electric lead guitar playing Melayu-ornamented fills with grace-note turns and slides between vocal lines, acoustic guitar strumming steady eighths underneath, a keyboard string pad, a bamboo suling answering the chorus, a plain rock bass, and a simple four-four pop-rock kit with tom fills. Late-2000s radio band sound in a medium room, the lead guitar and voice forward, the suling slightly back. Male nasal high tenor with Melayu cengkok: ornamented turns and vibrato on held vowel endings, plaintive and pleading. 84 BPM, A minor. Wounded and pleading, with a sting at the end. No dangdut koplo kendang, no EDM, no autotune, no rap, no trap drums.",
+  "lyrics": "[Intro - suling melody over acoustic strum, lead guitar turn]\n\n[Verse 1]\nLampu merah perempatan dekat pasar\nMotor hitam berhenti tepat di sebelahku\nYang dibonceng pakai helm warna pink\nHelm yang aku beli waktu kamu ulang tahun\n\n[Pre-Chorus]\nKamu bilang malam ini di rumah aja\nKamu bilang kepalamu pusing\n\n[Chorus]\nHelm pink itu dari aku\nMasih ada stiker namamu di belakangnya\nKamu peluk dia erat-erat\nKayak dulu kamu peluk aku\n\n[Verse 2]\nLampu hijau, kalian jalan duluan\nAku diam, klakson di belakang ramai\nHP-ku bunyi, pesan dari kamu\n\"Sayang, aku udah mau tidur, ya\"\n\n[Chorus]\nHelm pink itu dari aku\nMasih ada stiker namamu di belakangnya\nKamu bohong sambil dibonceng dia\nDan aku yang bayar helmnya\n\n[Outro - lead guitar Melayu turn, suling fades]\nBesok helmnya balikin, ya\nDia bisa beli sendiri",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 222.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Pop Melayu band in the late-2000s Indonesian style. A clean-to-crunch electric lead guitar playing Melayu-ornamented fills with grace-note turns and slides between vocal lines, acoustic guitar strumming steady eighths underneath, a keyboard string pad, a bamboo suling answering the chorus, a plain rock bass, and a simple four-four pop-rock kit with tom fills. Late-2000s radio band sound in a medium room, the lead guitar and voice forward, the suling slightly back. Male nasal high tenor with Melayu cengkok: ornamented turns and vibrato on held vowel endings, plaintive and pleading. 84 BPM, A minor. Wounded and pleading, with a sting at the end. No dangdut koplo kendang, no EDM, no autotune, no rap, no trap drums.",
+    "lyrics": "[Intro - suling melody over acoustic strum, lead guitar turn]\n\n[Verse 1]\nLampu merah perempatan dekat pasar\nMotor hitam berhenti tepat di sebelahku\nYang dibonceng pakai helm warna pink\nHelm yang aku beli waktu kamu ulang tahun\n\n[Pre-Chorus]\nKamu bilang malam ini di rumah aja\nKamu bilang kepalamu pusing\n\n[Chorus]\nHelm pink itu dari aku\nMasih ada stiker namamu di belakangnya\nKamu peluk dia erat-erat\nKayak dulu kamu peluk aku\n\n[Verse 2]\nLampu hijau, kalian jalan duluan\nAku diam, klakson di belakang ramai\nHP-ku bunyi, pesan dari kamu\n\"Sayang, aku udah mau tidur, ya\"\n\n[Chorus]\nHelm pink itu dari aku\nMasih ada stiker namamu di belakangnya\nKamu bohong sambil dibonceng dia\nDan aku yang bayar helmnya\n\n[Outro - lead guitar Melayu turn, suling fades]\nBesok helmnya balikin, ya\nDia bisa beli sendiri"
+  },
+  "seed": "3148493194",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.97s**\n- 67.97s per song\n- LM phase (1 song): 11.20s\n- DiT phase (1 song): 56.77s",
+  "task_id": "801c65ab-eafa-4623-8f3b-62ac4e00277b",
+  "elapsed_s": 90.5,
+  "generated_at": "2026-10-09T21:31:31.402335+08:00",
+  "audio": "b6_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.9,
+      "end": 23.9,
+      "text": "[Intro - suling melody over acoustic strum, lead guitar turn]"
+    },
+    {
+      "t": 23.9,
+      "end": 23.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.9,
+      "end": 27.94,
+      "text": "Lampu merah perempatan dekat pasar"
+    },
+    {
+      "t": 29.3,
+      "end": 33.56,
+      "text": "Motor hitam berhenti tepat di sebelahku"
+    },
+    {
+      "t": 40.8,
+      "end": 44.3,
+      "text": "Yang dibonceng pakai helm warna pink"
+    },
+    {
+      "t": 46.66,
+      "end": 50.1,
+      "text": "Helm yang aku beli waktu kamu ulang tahun"
+    },
+    {
+      "t": 52.56,
+      "end": 52.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.56,
+      "end": 55.26,
+      "text": "Kamu bilang malam ini di rumah aja"
+    },
+    {
+      "t": 58.29,
+      "end": 61.37,
+      "text": "Kamu bilang kepalamu pusing"
+    },
+    {
+      "t": 64.05,
+      "end": 64.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.05,
+      "end": 66.93,
+      "text": "Helm pink itu dari aku"
+    },
+    {
+      "t": 69.71,
+      "end": 72.93,
+      "text": "Masih ada stiker namamu di belakangnya"
+    },
+    {
+      "t": 75.63,
+      "end": 78.45,
+      "text": "Kamu peluk dia erat-erat"
+    },
+    {
+      "t": 78.45,
+      "end": 84.25,
+      "text": "Kayak dulu kamu peluk aku"
+    },
+    {
+      "t": 85.01,
+      "end": 85.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.01,
+      "end": 92.85,
+      "text": "Lampu hijau, kalian jalan duluan"
+    },
+    {
+      "t": 95.31,
+      "end": 98.59,
+      "text": "Aku diam, klakson di belakang ramai"
+    },
+    {
+      "t": 104.47,
+      "end": 108.71,
+      "text": "HP-ku bunyi, pesan dari kamu"
+    },
+    {
+      "t": 109.31,
+      "end": 113.63,
+      "text": "\"Sayang, aku udah mau tidur, ya\""
+    },
+    {
+      "t": 123.07,
+      "end": 123.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.07,
+      "end": 126.65,
+      "text": "Helm pink itu dari aku"
+    },
+    {
+      "t": 128.85,
+      "end": 132.41,
+      "text": "Masih ada stiker namamu di belakangnya"
+    },
+    {
+      "t": 134.21,
+      "end": 179.84,
+      "text": "Kamu bohong sambil dibonceng dia"
+    },
+    {
+      "t": 182.9,
+      "end": 185.18,
+      "text": "Dan aku yang bayar helmnya"
+    },
+    {
+      "t": 191.34,
+      "end": 191.34,
+      "text": "[Outro - lead guitar Melayu turn, suling fades]"
+    },
+    {
+      "t": 191.34,
+      "end": 194.44,
+      "text": "Besok helmnya balikin, ya"
+    },
+    {
+      "t": 195.96,
+      "end": 199.74,
+      "text": "Dia bisa beli sendiri"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.9,
+      "end": 23.9,
+      "text": "[Intro - suling melody over acoustic strum, lead guitar turn]"
+    },
+    {
+      "t": 23.9,
+      "end": 23.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.9,
+      "end": 27.94,
+      "text": "Lampu merah perempatan dekat pasar"
+    },
+    {
+      "t": 29.28,
+      "end": 33.56,
+      "text": "Motor hitam berhenti tepat di sebelahku"
+    },
+    {
+      "t": 40.8,
+      "end": 44.28,
+      "text": "Yang dibonceng pakai helm warna pink"
+    },
+    {
+      "t": 46.66,
+      "end": 50.12,
+      "text": "Helm yang aku beli waktu kamu ulang tahun"
+    },
+    {
+      "t": 52.56,
+      "end": 52.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.56,
+      "end": 55.26,
+      "text": "Kamu bilang malam ini di rumah aja"
+    },
+    {
+      "t": 58.29,
+      "end": 61.37,
+      "text": "Kamu bilang kepalamu pusing"
+    },
+    {
+      "t": 64.05,
+      "end": 64.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.05,
+      "end": 66.93,
+      "text": "Helm pink itu dari aku"
+    },
+    {
+      "t": 69.71,
+      "end": 72.93,
+      "text": "Masih ada stiker namamu di belakangnya"
+    },
+    {
+      "t": 75.63,
+      "end": 77.91,
+      "text": "Kamu peluk dia erat-erat"
+    },
+    {
+      "t": 77.97,
+      "end": 84.25,
+      "text": "Kayak dulu kamu peluk aku"
+    },
+    {
+      "t": 84.97,
+      "end": 84.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.97,
+      "end": 92.85,
+      "text": "Lampu hijau, kalian jalan duluan"
+    },
+    {
+      "t": 95.33,
+      "end": 98.59,
+      "text": "Aku diam, klakson di belakang ramai"
+    },
+    {
+      "t": 104.47,
+      "end": 108.71,
+      "text": "HP-ku bunyi, pesan dari kamu"
+    },
+    {
+      "t": 109.31,
+      "end": 113.63,
+      "text": "\"Sayang, aku udah mau tidur, ya\""
+    },
+    {
+      "t": 123.05,
+      "end": 123.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.05,
+      "end": 126.65,
+      "text": "Helm pink itu dari aku"
+    },
+    {
+      "t": 128.85,
+      "end": 132.39,
+      "text": "Masih ada stiker namamu di belakangnya"
+    },
+    {
+      "t": 134.21,
+      "end": 138.11,
+      "text": "Kamu bohong sambil dibonceng dia"
+    },
+    {
+      "t": 140.15,
+      "end": 183.72,
+      "text": "Dan aku yang bayar helmnya"
+    },
+    {
+      "t": 183.98,
+      "end": 183.98,
+      "text": "[Outro - lead guitar Melayu turn, suling fades]"
+    },
+    {
+      "t": 183.98,
+      "end": 194.44,
+      "text": "Besok helmnya balikin, ya"
+    },
+    {
+      "t": 195.96,
+      "end": 199.74,
+      "text": "Dia bisa beli sendiri"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
