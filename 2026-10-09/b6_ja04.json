@@ -66,27 +66,27 @@
     },
     {
       "t": 44.83,
-      "end": 46.65,
+      "end": 46.81,
       "text": "保管所は 二駅先の 川の向こう"
     },
     {
       "t": 46.95,
-      "end": 50.83,
+      "end": 50.43,
       "text": "自転車を取りに 電車で行く"
     },
     {
-      "t": 51.99,
-      "end": 51.99,
+      "t": 50.43,
+      "end": 50.43,
       "text": "[Chorus - gang shouts]"
     },
     {
-      "t": 51.99,
-      "end": 54.49,
+      "t": 50.43,
+      "end": 51.97,
       "text": "二千五百円!"
     },
     {
-      "t": 54.75,
-      "end": 55.61,
+      "t": 52.25,
+      "end": 57.19,
       "text": "五分で 二千五百円!"
     },
     {
@@ -185,7 +185,7 @@
       "text": "[Song ends abruptly]"
     }
   ],
-  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
   "lyrics_timed_vocals": [
     {
       "t": 32.94,

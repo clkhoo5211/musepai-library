@@ -243,8 +243,8 @@
       "text": "You want a battery, I want my life back"
     },
     {
-      "t": 90.27,
-      "end": 100.45,
+      "t": 91.75,
+      "end": 93.41,
       "text": "I'm on a kitchen chair on top of the dining table"
     },
     {
@@ -333,5 +333,5 @@
       "text": "Now I can't sleep without it."
     }
   ],
-  "lyrics_timed_by": "torchaudio MMS_FA forced alignment"
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset"
 }

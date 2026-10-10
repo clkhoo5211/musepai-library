@@ -30,18 +30,18 @@
   "audio": "b6_zh05.mp3",
   "lyrics_timed": [
     {
-      "t": 2.74,
-      "end": 2.74,
+      "t": 0.44,
+      "end": 0.44,
       "text": "[Intro - square-wave lead hook, glockenspiel and handclaps]"
     },
     {
-      "t": 2.74,
-      "end": 2.74,
+      "t": 0.44,
+      "end": 0.44,
       "text": "[Verse 1]"
     },
     {
-      "t": 2.74,
-      "end": 66.01,
+      "t": 0.44,
+      "end": 17.24,
       "text": "凌晨兩點 棉被裡 手機亮度調到最暗"
     },
     {
@@ -170,7 +170,7 @@
       "text": "欸 他是不是也手滑"
     }
   ],
-  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
   "lyrics_timed_vocals": [
     {
       "t": 2.74,
