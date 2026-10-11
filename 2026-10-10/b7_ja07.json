@@ -1,0 +1,504 @@
+{
+  "id": "b7_ja07",
+  "title": "最終のあとで",
+  "title_source": "scripted",
+  "genre": "Japanese melodic power metal",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "proud, tireless and heroic",
+  "persona": "",
+  "subject": "the overnight track-maintenance crew who check and grind the rails between the last train at midnight and the first train at six",
+  "caption": "Japanese melodic power metal, neoclassical speed metal. Neoclassical shred guitar with harmonic-minor sweep arpeggios and twin harmonised leads; a Hammond organ trading solos with the guitar; galloping palm-muted rhythm guitar; double-kick sixteenths under a snare on two and four; orchestral strings and a choir pad behind the chorus; a key change up a semitone into the last chorus. Big, wide and clean, the voice and the lead guitar forward, organ and strings filling the sides. Powerful high male tenor, clean and belted, with long sustained high notes and wide vibrato. 176 BPM, D minor. Proud, tireless and heroic. No harsh screams, no breakdowns, no rap, no idol vocals, no autotune, no nu-metal downtuning.",
+  "lyrics": "[Intro - short twin harmonised guitar lead over a double-kick gallop]\n\n[Verse 1]\n午前零時 最終が消えて\n架線の電気が 落とされる\n保線車両の ヘッドライトが\n二本のレールを 白く照らす\n\n[Pre-Chorus]\n六時間で 四キロ先まで\n五時半には 確認車が来る\n\n[Chorus]\n最終のあとで 俺たちが行く\n誰も乗らない 線路を行く\nハンマーで ボルトを 叩いて\n六時までに 線路を 返す\n\n[Verse 2]\n削正車の 火花が 散る\n一ミリの 歪みを 削り取る\n弁当は 三時に 立ったまま\nヘルメットの下で 湯気が上がる\n\n[Pre-Chorus]\n東の空が 少し 青い\n最後のボルトに 白いしるし\n\n[Instrumental Break - neoclassical guitar and Hammond organ duel]\n\n[Chorus - key change up a semitone]\n最終のあとで 俺たちが行く\n誰も見てない 線路を行く\nハンマーで ボルトを 叩いて\n始発に 線路を 返す\n\n[Outro - strings and choir pad, one long held note]\n線路脇で 始発を見送る\n誰も 俺たちを 知らなくていい",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 176,
+    "duration": 230.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Japanese melodic power metal, neoclassical speed metal. Neoclassical shred guitar with harmonic-minor sweep arpeggios and twin harmonised leads; a Hammond organ trading solos with the guitar; galloping palm-muted rhythm guitar; double-kick sixteenths under a snare on two and four; orchestral strings and a choir pad behind the chorus; a key change up a semitone into the last chorus. Big, wide and clean, the voice and the lead guitar forward, organ and strings filling the sides. Powerful high male tenor, clean and belted, with long sustained high notes and wide vibrato. 176 BPM, D minor. Proud, tireless and heroic. No harsh screams, no breakdowns, no rap, no idol vocals, no autotune, no nu-metal downtuning.",
+    "lyrics": "[Intro - short twin harmonised guitar lead over a double-kick gallop]\n\n[Verse 1]\n午前零時 最終が消えて\n架線の電気が 落とされる\n保線車両の ヘッドライトが\n二本のレールを 白く照らす\n\n[Pre-Chorus]\n六時間で 四キロ先まで\n五時半には 確認車が来る\n\n[Chorus]\n最終のあとで 俺たちが行く\n誰も乗らない 線路を行く\nハンマーで ボルトを 叩いて\n六時までに 線路を 返す\n\n[Verse 2]\n削正車の 火花が 散る\n一ミリの 歪みを 削り取る\n弁当は 三時に 立ったまま\nヘルメットの下で 湯気が上がる\n\n[Pre-Chorus]\n東の空が 少し 青い\n最後のボルトに 白いしるし\n\n[Instrumental Break - neoclassical guitar and Hammond organ duel]\n\n[Chorus - key change up a semitone]\n最終のあとで 俺たちが行く\n誰も見てない 線路を行く\nハンマーで ボルトを 叩いて\n始発に 線路を 返す\n\n[Outro - strings and choir pad, one long held note]\n線路脇で 始発を見送る\n誰も 俺たちを 知らなくていい"
+  },
+  "seed": "1881082820",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.73s**\n- 71.73s per song\n- LM phase (1 song): 14.04s\n- DiT phase (1 song): 57.69s",
+  "task_id": "19aa0dc5-dbe8-4367-a145-61aaf4a383a7",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-10T20:59:25.641951+08:00",
+  "audio": "b7_ja07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Intro - short twin harmonised guitar lead over a double-kick gallop]"
+    },
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.88,
+      "end": 48.8,
+      "text": "午前零時 最終が消えて"
+    },
+    {
+      "t": 48.8,
+      "end": 50.54,
+      "text": "架線の電気が 落とされる"
+    },
+    {
+      "t": 58.99,
+      "end": 64.89,
+      "text": "保線車両の ヘッドライトが"
+    },
+    {
+      "t": 65.27,
+      "end": 68.01,
+      "text": "二本のレールを 白く照らす"
+    },
+    {
+      "t": 68.01,
+      "end": 68.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.01,
+      "end": 78.85,
+      "text": "六時間で 四キロ先まで"
+    },
+    {
+      "t": 81.43,
+      "end": 100.31,
+      "text": "五時半には 確認車が来る"
+    },
+    {
+      "t": 100.63,
+      "end": 100.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.63,
+      "end": 109.51,
+      "text": "最終のあとで 俺たちが行く"
+    },
+    {
+      "t": 109.71,
+      "end": 157.63,
+      "text": "誰も乗らない 線路を行く"
+    },
+    {
+      "t": 157.63,
+      "end": 158.81,
+      "text": "ハンマーで ボルトを 叩いて"
+    },
+    {
+      "t": 158.81,
+      "end": 160.21,
+      "text": "六時までに 線路を 返す"
+    },
+    {
+      "t": 160.25,
+      "end": 160.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 160.25,
+      "end": 161.09,
+      "text": "削正車の 火花が 散る"
+    },
+    {
+      "t": 161.09,
+      "end": 161.97,
+      "text": "一ミリの 歪みを 削り取る"
+    },
+    {
+      "t": 162.39,
+      "end": 163.83,
+      "text": "弁当は 三時に 立ったまま"
+    },
+    {
+      "t": 163.83,
+      "end": 165.87,
+      "text": "ヘルメットの下で 湯気が上がる"
+    },
+    {
+      "t": 165.87,
+      "end": 165.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 165.87,
+      "end": 167.29,
+      "text": "東の空が 少し 青い"
+    },
+    {
+      "t": 167.35,
+      "end": 173.72,
+      "text": "最後のボルトに 白いしるし"
+    },
+    {
+      "t": 173.72,
+      "end": 173.72,
+      "text": "[Instrumental Break - neoclassical guitar and Hammond organ duel]"
+    },
+    {
+      "t": 173.72,
+      "end": 173.72,
+      "text": "[Chorus - key change up a semitone]"
+    },
+    {
+      "t": 173.72,
+      "end": 175.68,
+      "text": "最終のあとで 俺たちが行く"
+    },
+    {
+      "t": 175.7,
+      "end": 181.94,
+      "text": "誰も見てない 線路を行く"
+    },
+    {
+      "t": 182.02,
+      "end": 183.58,
+      "text": "ハンマーで ボルトを 叩いて"
+    },
+    {
+      "t": 183.58,
+      "end": 185.38,
+      "text": "始発に 線路を 返す"
+    },
+    {
+      "t": 185.78,
+      "end": 185.78,
+      "text": "[Outro - strings and choir pad, one long held note]"
+    },
+    {
+      "t": 185.78,
+      "end": 187.54,
+      "text": "線路脇で 始発を見送る"
+    },
+    {
+      "t": 187.62,
+      "end": 204.7,
+      "text": "誰も 俺たちを 知らなくていい"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Intro - short twin harmonised guitar lead over a double-kick gallop]"
+    },
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.88,
+      "end": 48.8,
+      "text": "午前零時 最終が消えて"
+    },
+    {
+      "t": 48.8,
+      "end": 50.54,
+      "text": "架線の電気が 落とされる"
+    },
+    {
+      "t": 58.99,
+      "end": 64.89,
+      "text": "保線車両の ヘッドライトが"
+    },
+    {
+      "t": 65.27,
+      "end": 68.01,
+      "text": "二本のレールを 白く照らす"
+    },
+    {
+      "t": 68.01,
+      "end": 68.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.01,
+      "end": 78.85,
+      "text": "六時間で 四キロ先まで"
+    },
+    {
+      "t": 81.43,
+      "end": 100.31,
+      "text": "五時半には 確認車が来る"
+    },
+    {
+      "t": 100.63,
+      "end": 100.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.63,
+      "end": 109.51,
+      "text": "最終のあとで 俺たちが行く"
+    },
+    {
+      "t": 109.71,
+      "end": 157.63,
+      "text": "誰も乗らない 線路を行く"
+    },
+    {
+      "t": 157.63,
+      "end": 158.81,
+      "text": "ハンマーで ボルトを 叩いて"
+    },
+    {
+      "t": 158.81,
+      "end": 160.21,
+      "text": "六時までに 線路を 返す"
+    },
+    {
+      "t": 160.25,
+      "end": 160.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 160.25,
+      "end": 161.09,
+      "text": "削正車の 火花が 散る"
+    },
+    {
+      "t": 161.09,
+      "end": 161.97,
+      "text": "一ミリの 歪みを 削り取る"
+    },
+    {
+      "t": 162.39,
+      "end": 163.83,
+      "text": "弁当は 三時に 立ったまま"
+    },
+    {
+      "t": 163.83,
+      "end": 165.87,
+      "text": "ヘルメットの下で 湯気が上がる"
+    },
+    {
+      "t": 165.87,
+      "end": 165.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 165.87,
+      "end": 167.29,
+      "text": "東の空が 少し 青い"
+    },
+    {
+      "t": 167.35,
+      "end": 173.72,
+      "text": "最後のボルトに 白いしるし"
+    },
+    {
+      "t": 173.72,
+      "end": 173.72,
+      "text": "[Instrumental Break - neoclassical guitar and Hammond organ duel]"
+    },
+    {
+      "t": 173.72,
+      "end": 173.72,
+      "text": "[Chorus - key change up a semitone]"
+    },
+    {
+      "t": 173.72,
+      "end": 175.68,
+      "text": "最終のあとで 俺たちが行く"
+    },
+    {
+      "t": 175.7,
+      "end": 181.94,
+      "text": "誰も見てない 線路を行く"
+    },
+    {
+      "t": 182.02,
+      "end": 183.58,
+      "text": "ハンマーで ボルトを 叩いて"
+    },
+    {
+      "t": 183.58,
+      "end": 185.38,
+      "text": "始発に 線路を 返す"
+    },
+    {
+      "t": 185.78,
+      "end": 185.78,
+      "text": "[Outro - strings and choir pad, one long held note]"
+    },
+    {
+      "t": 185.78,
+      "end": 187.54,
+      "text": "線路脇で 始発を見送る"
+    },
+    {
+      "t": 187.62,
+      "end": 204.7,
+      "text": "誰も 俺たちを 知らなくていい"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 37.28,
+      "end": 37.28,
+      "text": "[Intro - short twin harmonised guitar lead over a double-kick gallop]"
+    },
+    {
+      "t": 37.28,
+      "end": 37.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.28,
+      "end": 42.06,
+      "text": "午前零時 最終が消えて"
+    },
+    {
+      "t": 42.6,
+      "end": 58.91,
+      "text": "架線の電気が 落とされる"
+    },
+    {
+      "t": 58.99,
+      "end": 65.39,
+      "text": "保線車両の ヘッドライトが"
+    },
+    {
+      "t": 65.79,
+      "end": 67.93,
+      "text": "二本のレールを 白く照らす"
+    },
+    {
+      "t": 68.01,
+      "end": 68.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.01,
+      "end": 71.55,
+      "text": "六時間で 四キロ先まで"
+    },
+    {
+      "t": 72.23,
+      "end": 104.87,
+      "text": "五時半には 確認車が来る"
+    },
+    {
+      "t": 105.07,
+      "end": 105.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.07,
+      "end": 110.55,
+      "text": "最終のあとで 俺たちが行く"
+    },
+    {
+      "t": 112.61,
+      "end": 115.53,
+      "text": "誰も乗らない 線路を行く"
+    },
+    {
+      "t": 115.53,
+      "end": 153.63,
+      "text": "ハンマーで ボルトを 叩いて"
+    },
+    {
+      "t": 157.57,
+      "end": 158.93,
+      "text": "六時までに 線路を 返す"
+    },
+    {
+      "t": 159.33,
+      "end": 159.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 159.33,
+      "end": 163.07,
+      "text": "削正車の 火花が 散る"
+    },
+    {
+      "t": 163.07,
+      "end": 164.21,
+      "text": "一ミリの 歪みを 削り取る"
+    },
+    {
+      "t": 164.21,
+      "end": 169.47,
+      "text": "弁当は 三時に 立ったまま"
+    },
+    {
+      "t": 169.59,
+      "end": 173.78,
+      "text": "ヘルメットの下で 湯気が上がる"
+    },
+    {
+      "t": 173.84,
+      "end": 173.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 173.84,
+      "end": 175.7,
+      "text": "東の空が 少し 青い"
+    },
+    {
+      "t": 175.7,
+      "end": 181.46,
+      "text": "最後のボルトに 白いしるし"
+    },
+    {
+      "t": 181.84,
+      "end": 181.84,
+      "text": "[Instrumental Break - neoclassical guitar and Hammond organ duel]"
+    },
+    {
+      "t": 181.84,
+      "end": 181.84,
+      "text": "[Chorus - key change up a semitone]"
+    },
+    {
+      "t": 181.84,
+      "end": 183.16,
+      "text": "最終のあとで 俺たちが行く"
+    },
+    {
+      "t": 183.24,
+      "end": 185.12,
+      "text": "誰も見てない 線路を行く"
+    },
+    {
+      "t": 185.12,
+      "end": 187.54,
+      "text": "ハンマーで ボルトを 叩いて"
+    },
+    {
+      "t": 187.62,
+      "end": 196.42,
+      "text": "始発に 線路を 返す"
+    },
+    {
+      "t": 199.1,
+      "end": 199.1,
+      "text": "[Outro - strings and choir pad, one long held note]"
+    },
+    {
+      "t": 199.1,
+      "end": 215.68,
+      "text": "線路脇で 始発を見送る"
+    },
+    {
+      "t": 219.72,
+      "end": 225.56,
+      "text": "誰も 俺たちを 知らなくていい"
+    }
+  ]
+}

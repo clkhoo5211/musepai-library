@@ -1,0 +1,317 @@
+{
+  "id": "b7_en10",
+  "title": "Pocket Dial",
+  "title_source": "scripted",
+  "genre": "shoegaze revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender and blurred, holding on to something ordinary",
+  "persona": "",
+  "subject": "a four-minute pocket-dial voicemail of your father washing up and whistling",
+  "caption": "Shoegaze revival in the current nu-gaze style. Walls of fuzz guitar through a heavy fuzz pedal, with glide-guitar whammy bends and reverse-reverb swells, drop-tuned so the low chords feel heavy; a bass guitar doubling the root notes underneath; drums washed in constant ride and crash with the snare half-buried; a single quiet clean guitar playing alone in the intro. Loud, blurred and wide, the guitars dominant, the voice sitting just inside the guitars and slightly clearer in the verses. Female voice, breathy and airy in a soft high register, sitting just inside the guitars with every word still audible. 84 BPM, D major. Tender and blurred, holding on to something ordinary. No clean pop vocal on top, no trap drums, no autotune, no metal growls, no acoustic folk strumming, no pedal steel or slowcore.",
+  "lyrics": "[Intro - one clean guitar, then a fuzz swell, short]\n\n[Verse 1]\nTuesday, six-fourteen, a missed call from Dad\nFour minutes twelve seconds and nobody talking\nJust the tap running and the radio on low\nAnd him whistling the same three notes\n\n[Chorus]\nPocket dial, pocket dial\nYou don't know I'm listening\nPlates in the rack and the kettle starting\nPocket dial\n\n[Verse 2]\nI can hear the dog's tags on her bowl\nI can hear you tell her not yet\nYou say right then to nobody at all\nYou've said that every evening I can remember\n\n[Chorus]\nPocket dial, pocket dial\nYou don't know I'm listening\nI won't call back, you'd only say hello\nPocket dial\n\n[Instrumental Break - fuzz guitar wall with glide bends]\n\n[Bridge - guitars swell and blur]\nI saved it to the cloud, I saved it twice\nFour minutes twelve seconds of you washing up\n\n[Outro - fuzz falls away, clean guitar alone]\nI play it on the train when it's dark out\nIt ends when you sit down on the phone",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 226.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Shoegaze revival in the current nu-gaze style. Walls of fuzz guitar through a heavy fuzz pedal, with glide-guitar whammy bends and reverse-reverb swells, drop-tuned so the low chords feel heavy; a bass guitar doubling the root notes underneath; drums washed in constant ride and crash with the snare half-buried; a single quiet clean guitar playing alone in the intro. Loud, blurred and wide, the guitars dominant, the voice sitting just inside the guitars and slightly clearer in the verses. Female voice, breathy and airy in a soft high register, sitting just inside the guitars with every word still audible. 84 BPM, D major. Tender and blurred, holding on to something ordinary. No clean pop vocal on top, no trap drums, no autotune, no metal growls, no acoustic folk strumming, no pedal steel or slowcore.",
+    "lyrics": "[Intro - one clean guitar, then a fuzz swell, short]\n\n[Verse 1]\nTuesday, six-fourteen, a missed call from Dad\nFour minutes twelve seconds and nobody talking\nJust the tap running and the radio on low\nAnd him whistling the same three notes\n\n[Chorus]\nPocket dial, pocket dial\nYou don't know I'm listening\nPlates in the rack and the kettle starting\nPocket dial\n\n[Verse 2]\nI can hear the dog's tags on her bowl\nI can hear you tell her not yet\nYou say right then to nobody at all\nYou've said that every evening I can remember\n\n[Chorus]\nPocket dial, pocket dial\nYou don't know I'm listening\nI won't call back, you'd only say hello\nPocket dial\n\n[Instrumental Break - fuzz guitar wall with glide bends]\n\n[Bridge - guitars swell and blur]\nI saved it to the cloud, I saved it twice\nFour minutes twelve seconds of you washing up\n\n[Outro - fuzz falls away, clean guitar alone]\nI play it on the train when it's dark out\nIt ends when you sit down on the phone"
+  },
+  "seed": "373898016",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.93s**\n- 72.93s per song\n- LM phase (1 song): 14.74s\n- DiT phase (1 song): 58.20s",
+  "task_id": "aced4c4f-f4a9-4146-92e5-884c1d317184",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-10T20:34:41.591643+08:00",
+  "audio": "b7_en10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.6,
+      "end": 19.6,
+      "text": "[Intro - one clean guitar, then a fuzz swell, short]"
+    },
+    {
+      "t": 19.6,
+      "end": 19.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.6,
+      "end": 38.98,
+      "text": "Tuesday, six-fourteen, a missed call from Dad"
+    },
+    {
+      "t": 38.98,
+      "end": 41.88,
+      "text": "Four minutes twelve seconds and nobody talking"
+    },
+    {
+      "t": 43.84,
+      "end": 48.56,
+      "text": "Just the tap running and the radio on low"
+    },
+    {
+      "t": 49.46,
+      "end": 53.52,
+      "text": "And him whistling the same three notes"
+    },
+    {
+      "t": 54.96,
+      "end": 54.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.96,
+      "end": 58.91,
+      "text": "Pocket dial, pocket dial"
+    },
+    {
+      "t": 58.93,
+      "end": 61.03,
+      "text": "You don't know I'm listening"
+    },
+    {
+      "t": 61.73,
+      "end": 65.31,
+      "text": "Plates in the rack and the kettle starting"
+    },
+    {
+      "t": 66.73,
+      "end": 75.73,
+      "text": "Pocket dial"
+    },
+    {
+      "t": 75.85,
+      "end": 75.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.85,
+      "end": 78.41,
+      "text": "I can hear the dog's tags on her bowl"
+    },
+    {
+      "t": 78.45,
+      "end": 79.71,
+      "text": "I can hear you tell her not yet"
+    },
+    {
+      "t": 81.47,
+      "end": 85.05,
+      "text": "You say right then to nobody at all"
+    },
+    {
+      "t": 86.49,
+      "end": 90.89,
+      "text": "You've said that every evening I can remember"
+    },
+    {
+      "t": 95.25,
+      "end": 95.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.25,
+      "end": 99.57,
+      "text": "Pocket dial, pocket dial"
+    },
+    {
+      "t": 99.57,
+      "end": 101.75,
+      "text": "You don't know I'm listening"
+    },
+    {
+      "t": 101.75,
+      "end": 103.03,
+      "text": "I won't call back, you'd only say hello"
+    },
+    {
+      "t": 103.03,
+      "end": 103.49,
+      "text": "Pocket dial"
+    },
+    {
+      "t": 103.49,
+      "end": 103.49,
+      "text": "[Instrumental Break - fuzz guitar wall with glide bends]"
+    },
+    {
+      "t": 103.49,
+      "end": 103.49,
+      "text": "[Bridge - guitars swell and blur]"
+    },
+    {
+      "t": 103.49,
+      "end": 104.75,
+      "text": "I saved it to the cloud, I saved it twice"
+    },
+    {
+      "t": 104.75,
+      "end": 107.79,
+      "text": "Four minutes twelve seconds of you washing up"
+    },
+    {
+      "t": 107.81,
+      "end": 107.81,
+      "text": "[Outro - fuzz falls away, clean guitar alone]"
+    },
+    {
+      "t": 107.81,
+      "end": 130.35,
+      "text": "I play it on the train when it's dark out"
+    },
+    {
+      "t": 130.39,
+      "end": 185.46,
+      "text": "It ends when you sit down on the phone"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - one clean guitar, then a fuzz swell, short]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 41.02,
+      "text": "Tuesday, six-fourteen, a missed call from Dad"
+    },
+    {
+      "t": 41.18,
+      "end": 44.58,
+      "text": "Four minutes twelve seconds and nobody talking"
+    },
+    {
+      "t": 44.58,
+      "end": 48.7,
+      "text": "Just the tap running and the radio on low"
+    },
+    {
+      "t": 49.46,
+      "end": 53.54,
+      "text": "And him whistling the same three notes"
+    },
+    {
+      "t": 54.96,
+      "end": 54.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.96,
+      "end": 58.81,
+      "text": "Pocket dial, pocket dial"
+    },
+    {
+      "t": 58.91,
+      "end": 61.01,
+      "text": "You don't know I'm listening"
+    },
+    {
+      "t": 61.73,
+      "end": 65.29,
+      "text": "Plates in the rack and the kettle starting"
+    },
+    {
+      "t": 66.73,
+      "end": 67.97,
+      "text": "Pocket dial"
+    },
+    {
+      "t": 75.85,
+      "end": 75.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.85,
+      "end": 78.49,
+      "text": "I can hear the dog's tags on her bowl"
+    },
+    {
+      "t": 78.49,
+      "end": 79.75,
+      "text": "I can hear you tell her not yet"
+    },
+    {
+      "t": 81.47,
+      "end": 86.49,
+      "text": "You say right then to nobody at all"
+    },
+    {
+      "t": 86.49,
+      "end": 90.89,
+      "text": "You've said that every evening I can remember"
+    },
+    {
+      "t": 95.23,
+      "end": 95.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.23,
+      "end": 99.57,
+      "text": "Pocket dial, pocket dial"
+    },
+    {
+      "t": 99.57,
+      "end": 101.43,
+      "text": "You don't know I'm listening"
+    },
+    {
+      "t": 101.49,
+      "end": 102.55,
+      "text": "I won't call back, you'd only say hello"
+    },
+    {
+      "t": 102.55,
+      "end": 103.01,
+      "text": "Pocket dial"
+    },
+    {
+      "t": 103.01,
+      "end": 103.01,
+      "text": "[Instrumental Break - fuzz guitar wall with glide bends]"
+    },
+    {
+      "t": 103.01,
+      "end": 103.01,
+      "text": "[Bridge - guitars swell and blur]"
+    },
+    {
+      "t": 103.01,
+      "end": 104.75,
+      "text": "I saved it to the cloud, I saved it twice"
+    },
+    {
+      "t": 104.75,
+      "end": 105.81,
+      "text": "Four minutes twelve seconds of you washing up"
+    },
+    {
+      "t": 105.81,
+      "end": 105.81,
+      "text": "[Outro - fuzz falls away, clean guitar alone]"
+    },
+    {
+      "t": 105.81,
+      "end": 108.65,
+      "text": "I play it on the train when it's dark out"
+    },
+    {
+      "t": 108.65,
+      "end": 187.98,
+      "text": "It ends when you sit down on the phone"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

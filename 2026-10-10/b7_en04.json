@@ -1,0 +1,397 @@
+{
+  "id": "b7_en04",
+  "title": "Name On The Lid",
+  "title_source": "scripted",
+  "genre": "global girl-group pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sassy, accusatory and danceable",
+  "persona": "",
+  "subject": "four flatmates interrogating each other over a strawberry yoghurt with a name written on the lid",
+  "caption": "Global girl-group pop in the current K-pop-system style, sung in English. A punchy 808 kick with tight hi-hat rolls only under the rap verse; Latin-pop nylon-string guitar flourishes between the lines; stacked synth-brass stabs announcing each chorus; a dance break with a hard beat switch to half-time; the last chorus lifting up a key. Glossy and wide, the drums and stacked voices forward, the nylon guitar close and dry. Four young female voices trading lines: a bright lead soprano, a cool low alto, a quick spoken-rap verse, unison group chants on the hook, and one belted high note in the bridge. 118 BPM, C-sharp minor. Sassy, accusatory and danceable. No autotune, no EDM supersaw drop, no ballad piano, no male voices, no sampled voice hooks.",
+  "lyrics": "[Intro - synth brass stab and nylon guitar flourish]\n\n[Verse 1 - lead soprano]\nStrawberry yoghurt, top shelf, at the front\nMy name on the lid in black Sharpie\nSeven in the morning, I open the fridge\nAnd there's nothing on the shelf but a spoon\n\n[Pre-Chorus - low alto]\nSomebody in this flat\nHas got some explaining to do\n\n[Chorus - group chant]\nName on the lid! (Name on the lid!)\nWho ate it? Who ate it?\nName on the lid! (Name on the lid!)\nI wrote it big and I underlined it\n\n[Verse 2 - spoken rap]\nJess is vegan, okay, that's a solid alibi\nPriya slept at her boyfriend's, she's got the bus ticket\nLeah's very quiet, Leah's very quiet\nLeah, why is there pink on your chin?\n\n[Chorus - group chant]\nName on the lid! (Name on the lid!)\nLeah ate it! Leah ate it!\nName on the lid! (Name on the lid!)\nShe says she thought Maya was the brand\n\n[Bridge - belted high note]\nIt's my name, Leah, it's my name\nI've lived here for two years\n\n[Dance Break - half-time beat switch, synth brass and claps]\n\n[Chorus - group chant, key change up]\nName on the lid! (Name on the lid!)\nLeah, that's mine! Leah, that's mine!\nName on the lid! (Name on the lid!)\nNext time I'm writing it on the spoon\n\n[Outro - nylon guitar and claps]\nNew rule on the fridge door\nLeah buys the four-pack every Friday",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "C-sharp minor",
+    "timesignature": "4",
+    "prompt": "Global girl-group pop in the current K-pop-system style, sung in English. A punchy 808 kick with tight hi-hat rolls only under the rap verse; Latin-pop nylon-string guitar flourishes between the lines; stacked synth-brass stabs announcing each chorus; a dance break with a hard beat switch to half-time; the last chorus lifting up a key. Glossy and wide, the drums and stacked voices forward, the nylon guitar close and dry. Four young female voices trading lines: a bright lead soprano, a cool low alto, a quick spoken-rap verse, unison group chants on the hook, and one belted high note in the bridge. 118 BPM, C-sharp minor. Sassy, accusatory and danceable. No autotune, no EDM supersaw drop, no ballad piano, no male voices, no sampled voice hooks.",
+    "lyrics": "[Intro - synth brass stab and nylon guitar flourish]\n\n[Verse 1 - lead soprano]\nStrawberry yoghurt, top shelf, at the front\nMy name on the lid in black Sharpie\nSeven in the morning, I open the fridge\nAnd there's nothing on the shelf but a spoon\n\n[Pre-Chorus - low alto]\nSomebody in this flat\nHas got some explaining to do\n\n[Chorus - group chant]\nName on the lid! (Name on the lid!)\nWho ate it? Who ate it?\nName on the lid! (Name on the lid!)\nI wrote it big and I underlined it\n\n[Verse 2 - spoken rap]\nJess is vegan, okay, that's a solid alibi\nPriya slept at her boyfriend's, she's got the bus ticket\nLeah's very quiet, Leah's very quiet\nLeah, why is there pink on your chin?\n\n[Chorus - group chant]\nName on the lid! (Name on the lid!)\nLeah ate it! Leah ate it!\nName on the lid! (Name on the lid!)\nShe says she thought Maya was the brand\n\n[Bridge - belted high note]\nIt's my name, Leah, it's my name\nI've lived here for two years\n\n[Dance Break - half-time beat switch, synth brass and claps]\n\n[Chorus - group chant, key change up]\nName on the lid! (Name on the lid!)\nLeah, that's mine! Leah, that's mine!\nName on the lid! (Name on the lid!)\nNext time I'm writing it on the spoon\n\n[Outro - nylon guitar and claps]\nNew rule on the fridge door\nLeah buys the four-pack every Friday"
+  },
+  "seed": "3987921616",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.25s**\n- 57.25s per song\n- LM phase (1 song): 11.95s\n- DiT phase (1 song): 45.31s",
+  "task_id": "95f8ba47-f7c2-4bf6-9c4a-7a4c5012240f",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-10T20:26:10.353627+08:00",
+  "audio": "b7_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 56.87,
+      "end": 56.87,
+      "text": "[Intro - synth brass stab and nylon guitar flourish]"
+    },
+    {
+      "t": 56.87,
+      "end": 56.87,
+      "text": "[Verse 1 - lead soprano]"
+    },
+    {
+      "t": 56.87,
+      "end": 60.05,
+      "text": "Strawberry yoghurt, top shelf, at the front"
+    },
+    {
+      "t": 60.53,
+      "end": 63.81,
+      "text": "My name on the lid in black Sharpie"
+    },
+    {
+      "t": 65.07,
+      "end": 68.43,
+      "text": "Seven in the morning, I open the fridge"
+    },
+    {
+      "t": 68.49,
+      "end": 71.45,
+      "text": "And there's nothing on the shelf but a spoon"
+    },
+    {
+      "t": 71.73,
+      "end": 71.73,
+      "text": "[Pre-Chorus - low alto]"
+    },
+    {
+      "t": 71.73,
+      "end": 77.63,
+      "text": "Somebody in this flat"
+    },
+    {
+      "t": 77.63,
+      "end": 79.17,
+      "text": "Has got some explaining to do"
+    },
+    {
+      "t": 81.63,
+      "end": 81.63,
+      "text": "[Chorus - group chant]"
+    },
+    {
+      "t": 81.63,
+      "end": 84.41,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 84.41,
+      "end": 88.97,
+      "text": "Who ate it? Who ate it?"
+    },
+    {
+      "t": 89.77,
+      "end": 92.83,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 92.87,
+      "end": 94.19,
+      "text": "I wrote it big and I underlined it"
+    },
+    {
+      "t": 94.19,
+      "end": 94.19,
+      "text": "[Verse 2 - spoken rap]"
+    },
+    {
+      "t": 94.19,
+      "end": 96.01,
+      "text": "Jess is vegan, okay, that's a solid alibi"
+    },
+    {
+      "t": 96.01,
+      "end": 98.17,
+      "text": "Priya slept at her boyfriend's, she's got the bus ticket"
+    },
+    {
+      "t": 100.1,
+      "end": 101.77,
+      "text": "Leah's very quiet, Leah's very quiet"
+    },
+    {
+      "t": 101.93,
+      "end": 108.09,
+      "text": "Leah, why is there pink on your chin?"
+    },
+    {
+      "t": 108.99,
+      "end": 108.99,
+      "text": "[Chorus - group chant]"
+    },
+    {
+      "t": 108.99,
+      "end": 117.75,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 127.17,
+      "end": 128.71,
+      "text": "Leah ate it! Leah ate it!"
+    },
+    {
+      "t": 133.49,
+      "end": 136.79,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 137.55,
+      "end": 140.11,
+      "text": "She says she thought Maya was the brand"
+    },
+    {
+      "t": 140.19,
+      "end": 140.19,
+      "text": "[Bridge - belted high note]"
+    },
+    {
+      "t": 140.19,
+      "end": 143.99,
+      "text": "It's my name, Leah, it's my name"
+    },
+    {
+      "t": 144.17,
+      "end": 149.27,
+      "text": "I've lived here for two years"
+    },
+    {
+      "t": 154.56,
+      "end": 154.56,
+      "text": "[Dance Break - half-time beat switch, synth brass and claps]"
+    },
+    {
+      "t": 154.56,
+      "end": 154.56,
+      "text": "[Chorus - group chant, key change up]"
+    },
+    {
+      "t": 154.56,
+      "end": 158.9,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 158.9,
+      "end": 162.08,
+      "text": "Leah, that's mine! Leah, that's mine!"
+    },
+    {
+      "t": 162.74,
+      "end": 164.66,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 164.76,
+      "end": 169.48,
+      "text": "Next time I'm writing it on the spoon"
+    },
+    {
+      "t": 172.9,
+      "end": 172.9,
+      "text": "[Outro - nylon guitar and claps]"
+    },
+    {
+      "t": 172.9,
+      "end": 183.16,
+      "text": "New rule on the fridge door"
+    },
+    {
+      "t": 183.16,
+      "end": 194.28,
+      "text": "Leah buys the four-pack every Friday"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.6,
+      "end": 30.6,
+      "text": "[Intro - synth brass stab and nylon guitar flourish]"
+    },
+    {
+      "t": 30.6,
+      "end": 30.6,
+      "text": "[Verse 1 - lead soprano]"
+    },
+    {
+      "t": 30.6,
+      "end": 60.07,
+      "text": "Strawberry yoghurt, top shelf, at the front"
+    },
+    {
+      "t": 60.53,
+      "end": 63.51,
+      "text": "My name on the lid in black Sharpie"
+    },
+    {
+      "t": 65.07,
+      "end": 68.43,
+      "text": "Seven in the morning, I open the fridge"
+    },
+    {
+      "t": 68.49,
+      "end": 71.49,
+      "text": "And there's nothing on the shelf but a spoon"
+    },
+    {
+      "t": 71.51,
+      "end": 71.51,
+      "text": "[Pre-Chorus - low alto]"
+    },
+    {
+      "t": 71.51,
+      "end": 75.31,
+      "text": "Somebody in this flat"
+    },
+    {
+      "t": 75.33,
+      "end": 81.67,
+      "text": "Has got some explaining to do"
+    },
+    {
+      "t": 81.69,
+      "end": 81.69,
+      "text": "[Chorus - group chant]"
+    },
+    {
+      "t": 81.69,
+      "end": 91.33,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 92.29,
+      "end": 93.31,
+      "text": "Who ate it? Who ate it?"
+    },
+    {
+      "t": 93.39,
+      "end": 95.55,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 95.59,
+      "end": 97.87,
+      "text": "I wrote it big and I underlined it"
+    },
+    {
+      "t": 97.87,
+      "end": 97.87,
+      "text": "[Verse 2 - spoken rap]"
+    },
+    {
+      "t": 97.87,
+      "end": 100.91,
+      "text": "Jess is vegan, okay, that's a solid alibi"
+    },
+    {
+      "t": 100.91,
+      "end": 105.33,
+      "text": "Priya slept at her boyfriend's, she's got the bus ticket"
+    },
+    {
+      "t": 105.33,
+      "end": 111.09,
+      "text": "Leah's very quiet, Leah's very quiet"
+    },
+    {
+      "t": 111.09,
+      "end": 117.75,
+      "text": "Leah, why is there pink on your chin?"
+    },
+    {
+      "t": 133.49,
+      "end": 133.49,
+      "text": "[Chorus - group chant]"
+    },
+    {
+      "t": 133.49,
+      "end": 136.81,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 137.53,
+      "end": 142.45,
+      "text": "Leah ate it! Leah ate it!"
+    },
+    {
+      "t": 143.63,
+      "end": 155.9,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 158.5,
+      "end": 159.32,
+      "text": "She says she thought Maya was the brand"
+    },
+    {
+      "t": 159.4,
+      "end": 159.4,
+      "text": "[Bridge - belted high note]"
+    },
+    {
+      "t": 159.4,
+      "end": 163.26,
+      "text": "It's my name, Leah, it's my name"
+    },
+    {
+      "t": 163.26,
+      "end": 165.12,
+      "text": "I've lived here for two years"
+    },
+    {
+      "t": 165.24,
+      "end": 165.24,
+      "text": "[Dance Break - half-time beat switch, synth brass and claps]"
+    },
+    {
+      "t": 165.24,
+      "end": 165.24,
+      "text": "[Chorus - group chant, key change up]"
+    },
+    {
+      "t": 165.24,
+      "end": 166.68,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 166.68,
+      "end": 175.54,
+      "text": "Leah, that's mine! Leah, that's mine!"
+    },
+    {
+      "t": 176.98,
+      "end": 179.76,
+      "text": "Name on the lid! (Name on the lid!)"
+    },
+    {
+      "t": 181.56,
+      "end": 184.9,
+      "text": "Next time I'm writing it on the spoon"
+    },
+    {
+      "t": 184.92,
+      "end": 184.92,
+      "text": "[Outro - nylon guitar and claps]"
+    },
+    {
+      "t": 184.92,
+      "end": 185.92,
+      "text": "New rule on the fridge door"
+    },
+    {
+      "t": 185.92,
+      "end": 194.3,
+      "text": "Leah buys the four-pack every Friday"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

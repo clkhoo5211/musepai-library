@@ -1,0 +1,307 @@
+{
+  "id": "b7_ko10",
+  "title": "다음 주에",
+  "title_source": "scripted",
+  "genre": "blues power trio",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "angry, cold and grinning through gritted teeth",
+  "persona": "",
+  "subject": "a landlord who answers 'next week' for nineteen days in January while the boiler stays broken",
+  "caption": "Blues power trio playing a heavy twelve-bar shuffle, guitar, bass and drums. An overdriven Stratocaster through a cranked tube amp, answering every vocal line with pentatonic string bends and taking a stinging solo; a bass guitar locked to the kick, walking the shuffle; drums playing a swung shuffle with ghost notes on the snare and a heavy backbeat. Live and loud in a small room, the guitar and voice forward, bass and kick tight together, short room reverb. A gritty, chesty male lead that leans hard on the last word of each line and leaves space for the guitar to answer. 116 BPM, E major. Angry, cold and grinning through gritted teeth. No fuzz-wall alternative rock, no metal riffing, no organ or horns, no pop chorus, no slow ballad, no autotune.",
+  "lyrics": "[Intro - overdriven guitar shuffle riff, then the trio for four bars]\n\n[Verse 1]\n일월 삼일 아침, 보일러가 멈췄어\n일월 삼일 아침, 보일러가 딱 멈췄어\n주인집에 전화했지, \"다음 주에 고쳐 줄게\"\n\n[Verse 2]\n양말 두 켤레 신고 패딩 입고 잤어\n양말 두 켤레 신고 패딩 입은 채 잤어\n샤워는 동네 목욕탕, 라면 물은 전기포트로\n\n[Chorus]\n다음 주에, 다음 주에\n십구 일째 다음 주야\n월세는 오 일에 꼬박꼬박 나갔는데\n다음 주에, 그놈의 다음 주에\n\n[Verse 3]\n방 안에서도 입김이 하얗게 나와\n방 안에서도 입김이 하얗게 나와\n금붕어 어항에 살얼음이 얼었어\n\n[Chorus]\n다음 주에, 다음 주에\n십구 일째 다음 주야\n월세는 오 일에 꼬박꼬박 보냈는데\n답장은 또 \"다음 주에\"\n\n[Bridge - stinging guitar solo with string bends]\n\n[Outro - band stops, the guitar answers alone]\n월세 낼 날 문자 한 통 보낼게\n\"사장님, 다음 주에\"",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Blues power trio playing a heavy twelve-bar shuffle, guitar, bass and drums. An overdriven Stratocaster through a cranked tube amp, answering every vocal line with pentatonic string bends and taking a stinging solo; a bass guitar locked to the kick, walking the shuffle; drums playing a swung shuffle with ghost notes on the snare and a heavy backbeat. Live and loud in a small room, the guitar and voice forward, bass and kick tight together, short room reverb. A gritty, chesty male lead that leans hard on the last word of each line and leaves space for the guitar to answer. 116 BPM, E major. Angry, cold and grinning through gritted teeth. No fuzz-wall alternative rock, no metal riffing, no organ or horns, no pop chorus, no slow ballad, no autotune.",
+    "lyrics": "[Intro - overdriven guitar shuffle riff, then the trio for four bars]\n\n[Verse 1]\n일월 삼일 아침, 보일러가 멈췄어\n일월 삼일 아침, 보일러가 딱 멈췄어\n주인집에 전화했지, \"다음 주에 고쳐 줄게\"\n\n[Verse 2]\n양말 두 켤레 신고 패딩 입고 잤어\n양말 두 켤레 신고 패딩 입은 채 잤어\n샤워는 동네 목욕탕, 라면 물은 전기포트로\n\n[Chorus]\n다음 주에, 다음 주에\n십구 일째 다음 주야\n월세는 오 일에 꼬박꼬박 나갔는데\n다음 주에, 그놈의 다음 주에\n\n[Verse 3]\n방 안에서도 입김이 하얗게 나와\n방 안에서도 입김이 하얗게 나와\n금붕어 어항에 살얼음이 얼었어\n\n[Chorus]\n다음 주에, 다음 주에\n십구 일째 다음 주야\n월세는 오 일에 꼬박꼬박 보냈는데\n답장은 또 \"다음 주에\"\n\n[Bridge - stinging guitar solo with string bends]\n\n[Outro - band stops, the guitar answers alone]\n월세 낼 날 문자 한 통 보낼게\n\"사장님, 다음 주에\""
+  },
+  "seed": "3599756900",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.02s**\n- 60.02s per song\n- LM phase (1 song): 10.70s\n- DiT phase (1 song): 49.32s",
+  "task_id": "4e0a9d7f-811e-49d5-8808-b16500067a62",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T19:23:10.866875+08:00",
+  "audio": "b7_ko10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Intro - overdriven guitar shuffle riff, then the trio for four bars]"
+    },
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.8,
+      "end": 34.16,
+      "text": "일월 삼일 아침, 보일러가 멈췄어"
+    },
+    {
+      "t": 34.82,
+      "end": 39.4,
+      "text": "일월 삼일 아침, 보일러가 딱 멈췄어"
+    },
+    {
+      "t": 43.0,
+      "end": 47.83,
+      "text": "주인집에 전화했지, \"다음 주에 고쳐 줄게\""
+    },
+    {
+      "t": 48.05,
+      "end": 48.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 48.05,
+      "end": 51.33,
+      "text": "양말 두 켤레 신고 패딩 입고 잤어"
+    },
+    {
+      "t": 51.33,
+      "end": 56.55,
+      "text": "양말 두 켤레 신고 패딩 입은 채 잤어"
+    },
+    {
+      "t": 59.73,
+      "end": 64.55,
+      "text": "샤워는 동네 목욕탕, 라면 물은 전기포트로"
+    },
+    {
+      "t": 64.67,
+      "end": 64.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.67,
+      "end": 71.63,
+      "text": "다음 주에, 다음 주에"
+    },
+    {
+      "t": 72.75,
+      "end": 75.79,
+      "text": "십구 일째 다음 주야"
+    },
+    {
+      "t": 77.43,
+      "end": 82.95,
+      "text": "월세는 오 일에 꼬박꼬박 나갔는데"
+    },
+    {
+      "t": 86.41,
+      "end": 91.25,
+      "text": "다음 주에, 그놈의 다음 주에"
+    },
+    {
+      "t": 96.03,
+      "end": 96.03,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 96.03,
+      "end": 99.63,
+      "text": "방 안에서도 입김이 하얗게 나와"
+    },
+    {
+      "t": 104.37,
+      "end": 107.93,
+      "text": "방 안에서도 입김이 하얗게 나와"
+    },
+    {
+      "t": 109.07,
+      "end": 112.31,
+      "text": "금붕어 어항에 살얼음이 얼었어"
+    },
+    {
+      "t": 112.69,
+      "end": 112.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.69,
+      "end": 119.41,
+      "text": "다음 주에, 다음 주에"
+    },
+    {
+      "t": 120.51,
+      "end": 123.55,
+      "text": "십구 일째 다음 주야"
+    },
+    {
+      "t": 125.73,
+      "end": 130.83,
+      "text": "월세는 오 일에 꼬박꼬박 보냈는데"
+    },
+    {
+      "t": 130.93,
+      "end": 142.47,
+      "text": "답장은 또 \"다음 주에\""
+    },
+    {
+      "t": 153.76,
+      "end": 153.76,
+      "text": "[Bridge - stinging guitar solo with string bends]"
+    },
+    {
+      "t": 153.76,
+      "end": 153.76,
+      "text": "[Outro - band stops, the guitar answers alone]"
+    },
+    {
+      "t": 153.76,
+      "end": 165.06,
+      "text": "월세 낼 날 문자 한 통 보낼게"
+    },
+    {
+      "t": 170.1,
+      "end": 173.66,
+      "text": "\"사장님, 다음 주에\""
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Intro - overdriven guitar shuffle riff, then the trio for four bars]"
+    },
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.82,
+      "end": 30.58,
+      "text": "일월 삼일 아침, 보일러가 멈췄어"
+    },
+    {
+      "t": 34.76,
+      "end": 39.38,
+      "text": "일월 삼일 아침, 보일러가 딱 멈췄어"
+    },
+    {
+      "t": 43.0,
+      "end": 47.83,
+      "text": "주인집에 전화했지, \"다음 주에 고쳐 줄게\""
+    },
+    {
+      "t": 51.25,
+      "end": 51.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 51.25,
+      "end": 55.19,
+      "text": "양말 두 켤레 신고 패딩 입고 잤어"
+    },
+    {
+      "t": 55.19,
+      "end": 59.73,
+      "text": "양말 두 켤레 신고 패딩 입은 채 잤어"
+    },
+    {
+      "t": 59.73,
+      "end": 64.55,
+      "text": "샤워는 동네 목욕탕, 라면 물은 전기포트로"
+    },
+    {
+      "t": 64.65,
+      "end": 64.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.65,
+      "end": 71.65,
+      "text": "다음 주에, 다음 주에"
+    },
+    {
+      "t": 72.75,
+      "end": 75.79,
+      "text": "십구 일째 다음 주야"
+    },
+    {
+      "t": 77.41,
+      "end": 82.95,
+      "text": "월세는 오 일에 꼬박꼬박 나갔는데"
+    },
+    {
+      "t": 86.41,
+      "end": 91.25,
+      "text": "다음 주에, 그놈의 다음 주에"
+    },
+    {
+      "t": 96.01,
+      "end": 96.01,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 96.01,
+      "end": 99.63,
+      "text": "방 안에서도 입김이 하얗게 나와"
+    },
+    {
+      "t": 104.37,
+      "end": 107.91,
+      "text": "방 안에서도 입김이 하얗게 나와"
+    },
+    {
+      "t": 109.07,
+      "end": 112.31,
+      "text": "금붕어 어항에 살얼음이 얼었어"
+    },
+    {
+      "t": 116.85,
+      "end": 116.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.85,
+      "end": 119.41,
+      "text": "다음 주에, 다음 주에"
+    },
+    {
+      "t": 120.51,
+      "end": 123.55,
+      "text": "십구 일째 다음 주야"
+    },
+    {
+      "t": 125.71,
+      "end": 130.83,
+      "text": "월세는 오 일에 꼬박꼬박 보냈는데"
+    },
+    {
+      "t": 130.95,
+      "end": 160.06,
+      "text": "답장은 또 \"다음 주에\""
+    },
+    {
+      "t": 161.8,
+      "end": 161.8,
+      "text": "[Bridge - stinging guitar solo with string bends]"
+    },
+    {
+      "t": 161.8,
+      "end": 161.8,
+      "text": "[Outro - band stops, the guitar answers alone]"
+    },
+    {
+      "t": 161.8,
+      "end": 165.06,
+      "text": "월세 낼 날 문자 한 통 보낼게"
+    },
+    {
+      "t": 170.1,
+      "end": 173.66,
+      "text": "\"사장님, 다음 주에\""
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

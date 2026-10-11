@@ -1,0 +1,549 @@
+{
+  "id": "b7_ko02",
+  "title": "수건 치워",
+  "title_source": "scripted",
+  "genre": "Brazilian funk idol pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "petty, loud and ready to fight over a squat rack",
+  "persona": "",
+  "subject": "a towel left on the gym squat rack for forty minutes while its owner sits in the sauna",
+  "caption": "Brazilian funk idol pop, the funk carioca beat inside a K-pop boy-group track. A programmed tamborzao drum pattern: a booming 808 kick with syncopated tom and conga hits in a three-three-two feel and a dry clap; a heavily saturated 808 sub bass that distorts on every hit; a stabby detuned square-synth riff of three notes looping through the whole song; a dry cowbell on the off-beats in the chorus. A sparse arrangement that adds one layer at a time and peaks in the last chorus. Dry, loud and narrow, the kick and sub forward, the lead voice centred and close. Male group vocals in punchy chanted talk-singing and rap, an MC-style lead with the whole group shouting the written answers on the hook. 130 BPM, G minor. Petty, loud and ready to fight over a squat rack. No trap hi-hat rolls, no Jersey club kicks, no reggaeton dembow, no live slap bass or horns, no sung ballad chorus, no autotune, no EDM drop.",
+  "lyrics": "[Intro - tamborzao drums and a three-note synth stab]\n\n[Verse 1]\n저녁 일곱 시, 하체 하는 날\n스쿼트 랙 위에 하얀 수건 한 장\n물병도 없고 사람도 없어\n주인은 사우나에 들어간 지 사십 분\n\n[Pre-Chorus]\n기다렸어, 참았어\n레그 익스텐션만 세 세트째\n\n[Chorus]\n수건 치워 (치워!)\n자리 맡기 금지 (금지!)\n랙 전세 냈어?\n수건 치워 (치워! 치워!)\n\n[Verse 2]\n드디어 나온다, 얼굴이 빨개\n머리에 수건 하나 더 두르고\n\"아 저 쓰는 중인데요?\"\n형, 그건 쓰는 게 아니라 찜질이야\n\n[Pre-Chorus]\n카운터 누나도 보고 있어\n안내문 붙은 지 벌써 한 달\n\n[Chorus]\n수건 치워 (치워!)\n자리 맡기 금지 (금지!)\n땀은 사우나에서 다 뺐잖아\n수건 치워 (치워! 치워!)\n\n[Bridge - kick and toms only, group counting]\n하나, 둘, 셋, 들어 올려\n넷, 다섯, 여섯, 잘 봐 둬\n\n[Outro - full beat, then a dead stop]\n수건은 접어서 네 사물함에\n랙은 이제 내 거야\n\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 176.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Brazilian funk idol pop, the funk carioca beat inside a K-pop boy-group track. A programmed tamborzao drum pattern: a booming 808 kick with syncopated tom and conga hits in a three-three-two feel and a dry clap; a heavily saturated 808 sub bass that distorts on every hit; a stabby detuned square-synth riff of three notes looping through the whole song; a dry cowbell on the off-beats in the chorus. A sparse arrangement that adds one layer at a time and peaks in the last chorus. Dry, loud and narrow, the kick and sub forward, the lead voice centred and close. Male group vocals in punchy chanted talk-singing and rap, an MC-style lead with the whole group shouting the written answers on the hook. 130 BPM, G minor. Petty, loud and ready to fight over a squat rack. No trap hi-hat rolls, no Jersey club kicks, no reggaeton dembow, no live slap bass or horns, no sung ballad chorus, no autotune, no EDM drop.",
+    "lyrics": "[Intro - tamborzao drums and a three-note synth stab]\n\n[Verse 1]\n저녁 일곱 시, 하체 하는 날\n스쿼트 랙 위에 하얀 수건 한 장\n물병도 없고 사람도 없어\n주인은 사우나에 들어간 지 사십 분\n\n[Pre-Chorus]\n기다렸어, 참았어\n레그 익스텐션만 세 세트째\n\n[Chorus]\n수건 치워 (치워!)\n자리 맡기 금지 (금지!)\n랙 전세 냈어?\n수건 치워 (치워! 치워!)\n\n[Verse 2]\n드디어 나온다, 얼굴이 빨개\n머리에 수건 하나 더 두르고\n\"아 저 쓰는 중인데요?\"\n형, 그건 쓰는 게 아니라 찜질이야\n\n[Pre-Chorus]\n카운터 누나도 보고 있어\n안내문 붙은 지 벌써 한 달\n\n[Chorus]\n수건 치워 (치워!)\n자리 맡기 금지 (금지!)\n땀은 사우나에서 다 뺐잖아\n수건 치워 (치워! 치워!)\n\n[Bridge - kick and toms only, group counting]\n하나, 둘, 셋, 들어 올려\n넷, 다섯, 여섯, 잘 봐 둬\n\n[Outro - full beat, then a dead stop]\n수건은 접어서 네 사물함에\n랙은 이제 내 거야\n\n[Song ends abruptly]"
+  },
+  "seed": "2511066855",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.32s**\n- 52.32s per song\n- LM phase (1 song): 13.37s\n- DiT phase (1 song): 38.95s",
+  "task_id": "eec5f442-e23f-44e7-a8e0-80097947e894",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-10-10T19:12:59.861955+08:00",
+  "audio": "b7_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.88,
+      "end": 29.88,
+      "text": "[Intro - tamborzao drums and a three-note synth stab]"
+    },
+    {
+      "t": 29.88,
+      "end": 29.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.88,
+      "end": 32.24,
+      "text": "저녁 일곱 시, 하체 하는 날"
+    },
+    {
+      "t": 32.24,
+      "end": 34.26,
+      "text": "스쿼트 랙 위에 하얀 수건 한 장"
+    },
+    {
+      "t": 34.26,
+      "end": 37.16,
+      "text": "물병도 없고 사람도 없어"
+    },
+    {
+      "t": 37.28,
+      "end": 51.91,
+      "text": "주인은 사우나에 들어간 지 사십 분"
+    },
+    {
+      "t": 51.91,
+      "end": 51.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.91,
+      "end": 54.03,
+      "text": "기다렸어, 참았어"
+    },
+    {
+      "t": 54.19,
+      "end": 55.41,
+      "text": "레그 익스텐션만 세 세트째"
+    },
+    {
+      "t": 55.51,
+      "end": 55.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.51,
+      "end": 55.97,
+      "text": "수건 치워 (치워!)"
+    },
+    {
+      "t": 55.97,
+      "end": 56.69,
+      "text": "자리 맡기 금지 (금지!)"
+    },
+    {
+      "t": 56.69,
+      "end": 57.73,
+      "text": "랙 전세 냈어?"
+    },
+    {
+      "t": 57.75,
+      "end": 58.87,
+      "text": "수건 치워 (치워! 치워!)"
+    },
+    {
+      "t": 58.95,
+      "end": 58.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.95,
+      "end": 60.05,
+      "text": "드디어 나온다, 얼굴이 빨개"
+    },
+    {
+      "t": 60.35,
+      "end": 62.07,
+      "text": "머리에 수건 하나 더 두르고"
+    },
+    {
+      "t": 62.07,
+      "end": 63.41,
+      "text": "\"아 저 쓰는 중인데요?\""
+    },
+    {
+      "t": 63.41,
+      "end": 66.43,
+      "text": "형, 그건 쓰는 게 아니라 찜질이야"
+    },
+    {
+      "t": 66.53,
+      "end": 66.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 66.53,
+      "end": 77.91,
+      "text": "카운터 누나도 보고 있어"
+    },
+    {
+      "t": 78.01,
+      "end": 81.07,
+      "text": "안내문 붙은 지 벌써 한 달"
+    },
+    {
+      "t": 81.59,
+      "end": 81.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.59,
+      "end": 84.27,
+      "text": "수건 치워 (치워!)"
+    },
+    {
+      "t": 85.75,
+      "end": 93.27,
+      "text": "자리 맡기 금지 (금지!)"
+    },
+    {
+      "t": 99.25,
+      "end": 121.63,
+      "text": "땀은 사우나에서 다 뺐잖아"
+    },
+    {
+      "t": 121.75,
+      "end": 126.65,
+      "text": "수건 치워 (치워! 치워!)"
+    },
+    {
+      "t": 130.53,
+      "end": 130.53,
+      "text": "[Bridge - kick and toms only, group counting]"
+    },
+    {
+      "t": 130.53,
+      "end": 133.02,
+      "text": "하나, 둘, 셋, 들어 올려"
+    },
+    {
+      "t": 133.78,
+      "end": 136.68,
+      "text": "넷, 다섯, 여섯, 잘 봐 둬"
+    },
+    {
+      "t": 137.92,
+      "end": 137.92,
+      "text": "[Outro - full beat, then a dead stop]"
+    },
+    {
+      "t": 137.92,
+      "end": 140.64,
+      "text": "수건은 접어서 네 사물함에"
+    },
+    {
+      "t": 141.16,
+      "end": 144.1,
+      "text": "랙은 이제 내 거야"
+    },
+    {
+      "t": 144.1,
+      "end": 144.1,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.88,
+      "end": 29.88,
+      "text": "[Intro - tamborzao drums and a three-note synth stab]"
+    },
+    {
+      "t": 29.88,
+      "end": 29.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.88,
+      "end": 32.24,
+      "text": "저녁 일곱 시, 하체 하는 날"
+    },
+    {
+      "t": 32.24,
+      "end": 34.26,
+      "text": "스쿼트 랙 위에 하얀 수건 한 장"
+    },
+    {
+      "t": 34.26,
+      "end": 37.16,
+      "text": "물병도 없고 사람도 없어"
+    },
+    {
+      "t": 37.28,
+      "end": 51.91,
+      "text": "주인은 사우나에 들어간 지 사십 분"
+    },
+    {
+      "t": 51.91,
+      "end": 51.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.91,
+      "end": 54.03,
+      "text": "기다렸어, 참았어"
+    },
+    {
+      "t": 54.19,
+      "end": 55.41,
+      "text": "레그 익스텐션만 세 세트째"
+    },
+    {
+      "t": 55.51,
+      "end": 55.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.51,
+      "end": 55.97,
+      "text": "수건 치워 (치워!)"
+    },
+    {
+      "t": 55.97,
+      "end": 56.69,
+      "text": "자리 맡기 금지 (금지!)"
+    },
+    {
+      "t": 56.69,
+      "end": 57.73,
+      "text": "랙 전세 냈어?"
+    },
+    {
+      "t": 57.75,
+      "end": 58.87,
+      "text": "수건 치워 (치워! 치워!)"
+    },
+    {
+      "t": 58.95,
+      "end": 58.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.95,
+      "end": 60.05,
+      "text": "드디어 나온다, 얼굴이 빨개"
+    },
+    {
+      "t": 60.35,
+      "end": 62.07,
+      "text": "머리에 수건 하나 더 두르고"
+    },
+    {
+      "t": 62.07,
+      "end": 63.41,
+      "text": "\"아 저 쓰는 중인데요?\""
+    },
+    {
+      "t": 63.41,
+      "end": 66.43,
+      "text": "형, 그건 쓰는 게 아니라 찜질이야"
+    },
+    {
+      "t": 66.53,
+      "end": 66.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 66.53,
+      "end": 77.91,
+      "text": "카운터 누나도 보고 있어"
+    },
+    {
+      "t": 78.01,
+      "end": 81.07,
+      "text": "안내문 붙은 지 벌써 한 달"
+    },
+    {
+      "t": 81.59,
+      "end": 81.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.59,
+      "end": 84.27,
+      "text": "수건 치워 (치워!)"
+    },
+    {
+      "t": 85.75,
+      "end": 93.27,
+      "text": "자리 맡기 금지 (금지!)"
+    },
+    {
+      "t": 99.25,
+      "end": 121.63,
+      "text": "땀은 사우나에서 다 뺐잖아"
+    },
+    {
+      "t": 121.75,
+      "end": 126.65,
+      "text": "수건 치워 (치워! 치워!)"
+    },
+    {
+      "t": 130.53,
+      "end": 130.53,
+      "text": "[Bridge - kick and toms only, group counting]"
+    },
+    {
+      "t": 130.53,
+      "end": 133.02,
+      "text": "하나, 둘, 셋, 들어 올려"
+    },
+    {
+      "t": 133.78,
+      "end": 136.68,
+      "text": "넷, 다섯, 여섯, 잘 봐 둬"
+    },
+    {
+      "t": 137.92,
+      "end": 137.92,
+      "text": "[Outro - full beat, then a dead stop]"
+    },
+    {
+      "t": 137.92,
+      "end": 140.64,
+      "text": "수건은 접어서 네 사물함에"
+    },
+    {
+      "t": 141.16,
+      "end": 144.1,
+      "text": "랙은 이제 내 거야"
+    },
+    {
+      "t": 144.1,
+      "end": 144.1,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.38,
+      "end": 0.38,
+      "text": "[Intro - tamborzao drums and a three-note synth stab]"
+    },
+    {
+      "t": 0.38,
+      "end": 0.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.38,
+      "end": 25.76,
+      "text": "저녁 일곱 시, 하체 하는 날"
+    },
+    {
+      "t": 25.78,
+      "end": 30.16,
+      "text": "스쿼트 랙 위에 하얀 수건 한 장"
+    },
+    {
+      "t": 30.16,
+      "end": 33.68,
+      "text": "물병도 없고 사람도 없어"
+    },
+    {
+      "t": 33.82,
+      "end": 52.05,
+      "text": "주인은 사우나에 들어간 지 사십 분"
+    },
+    {
+      "t": 52.05,
+      "end": 52.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.05,
+      "end": 55.85,
+      "text": "기다렸어, 참았어"
+    },
+    {
+      "t": 56.01,
+      "end": 58.87,
+      "text": "레그 익스텐션만 세 세트째"
+    },
+    {
+      "t": 58.93,
+      "end": 58.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.93,
+      "end": 60.23,
+      "text": "수건 치워 (치워!)"
+    },
+    {
+      "t": 61.07,
+      "end": 63.15,
+      "text": "자리 맡기 금지 (금지!)"
+    },
+    {
+      "t": 63.19,
+      "end": 65.57,
+      "text": "랙 전세 냈어?"
+    },
+    {
+      "t": 65.61,
+      "end": 91.65,
+      "text": "수건 치워 (치워! 치워!)"
+    },
+    {
+      "t": 101.25,
+      "end": 101.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.25,
+      "end": 104.05,
+      "text": "드디어 나온다, 얼굴이 빨개"
+    },
+    {
+      "t": 104.07,
+      "end": 106.61,
+      "text": "머리에 수건 하나 더 두르고"
+    },
+    {
+      "t": 106.61,
+      "end": 108.83,
+      "text": "\"아 저 쓰는 중인데요?\""
+    },
+    {
+      "t": 108.91,
+      "end": 112.93,
+      "text": "형, 그건 쓰는 게 아니라 찜질이야"
+    },
+    {
+      "t": 113.03,
+      "end": 113.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.03,
+      "end": 114.83,
+      "text": "카운터 누나도 보고 있어"
+    },
+    {
+      "t": 114.95,
+      "end": 118.79,
+      "text": "안내문 붙은 지 벌써 한 달"
+    },
+    {
+      "t": 119.45,
+      "end": 119.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.45,
+      "end": 121.03,
+      "text": "수건 치워 (치워!)"
+    },
+    {
+      "t": 121.09,
+      "end": 122.25,
+      "text": "자리 맡기 금지 (금지!)"
+    },
+    {
+      "t": 122.25,
+      "end": 127.89,
+      "text": "땀은 사우나에서 다 뺐잖아"
+    },
+    {
+      "t": 127.99,
+      "end": 129.89,
+      "text": "수건 치워 (치워! 치워!)"
+    },
+    {
+      "t": 130.53,
+      "end": 130.53,
+      "text": "[Bridge - kick and toms only, group counting]"
+    },
+    {
+      "t": 130.53,
+      "end": 133.02,
+      "text": "하나, 둘, 셋, 들어 올려"
+    },
+    {
+      "t": 133.78,
+      "end": 136.68,
+      "text": "넷, 다섯, 여섯, 잘 봐 둬"
+    },
+    {
+      "t": 137.92,
+      "end": 137.92,
+      "text": "[Outro - full beat, then a dead stop]"
+    },
+    {
+      "t": 137.92,
+      "end": 140.64,
+      "text": "수건은 접어서 네 사물함에"
+    },
+    {
+      "t": 141.16,
+      "end": 144.1,
+      "text": "랙은 이제 내 거야"
+    },
+    {
+      "t": 144.1,
+      "end": 144.1,
+      "text": "[Song ends abruptly]"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "b7_ja03",
+  "title": "あぶら少なめ",
+  "title_source": "scripted",
+  "genre": "guitarless piano-trio band pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "flustered, determined, then quietly proud",
+  "persona": "",
+  "subject": "a ramen shop's new part-timer on her first Saturday lunch rush, learning the 36-button meal-ticket machine and the regulars' 'katame, koime, abura-sukuname' orders, and getting the last one right",
+  "caption": "Japanese piano-trio band pop with no guitar at all, in the style of a drama-theme single. An acoustic piano playing the riff and the rhythmic comping in syncopated chords, a Rhodes taking over in the verses; a fingered electric bass doubling and answering the piano's left hand; live drums with tight sixteenth-note hi-hats and a ghost-noted snare; a light synth pad behind the chorus. Tight and clean with a live room feel, the piano and the voice forward, bass and kick locked in the centre. High male tenor, soulful but restrained with light melisma, flipping into falsetto on the chorus peaks. 118 BPM, Db major. Flustered, determined, then quietly proud. No electric guitar, no acoustic guitar, no EDM drop, no trap hi-hats, no autotune, no string orchestra.",
+  "lyrics": "[Intro - short piano riff with the bass doubling the left hand]\n\n[Verse 1]\n土曜の十一時 シャッターが上がる\nもう列は 角の薬局まで\n券売機には ボタンが三十六個\n「味玉どこ?」って 聞かれても わからない\n\n[Pre-Chorus]\nカウンター越しに 食券を受け取って\n「お好みは?」って 声が裏返る\n\n[Chorus]\nかため こいめ あぶら少なめ\n早口すぎて 聞き取れない\nメモの字が 湯気でにじむ\n「すみません もう一回」\n\n[Verse 2]\n作業着の 常連さんに\nあぶらだけ 普通で 出しちゃった\nなんにも言わずに すすって\nスープまで 飲んで 帰ってった\n\n[Pre-Chorus]\n一時五十八分 最後のひとり\n食券置いて 小声で 早口\n\n[Chorus]\nかため こいめ あぶら少なめ\n今度は 一回で 聞き取れた\nメモの字が 湯気でにじむ\n「かため こいめ すくなめ 入ります!」\n\n[Bridge - piano and bass break, falsetto]\n三十六個の ボタンより\n三つの言葉が むずかしかった\n\n[Outro - piano riff, band stops together]\nのれんをしまって 店長が\n「来週の土曜も 入れる?」",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "Db major",
+    "timesignature": "4",
+    "prompt": "Japanese piano-trio band pop with no guitar at all, in the style of a drama-theme single. An acoustic piano playing the riff and the rhythmic comping in syncopated chords, a Rhodes taking over in the verses; a fingered electric bass doubling and answering the piano's left hand; live drums with tight sixteenth-note hi-hats and a ghost-noted snare; a light synth pad behind the chorus. Tight and clean with a live room feel, the piano and the voice forward, bass and kick locked in the centre. High male tenor, soulful but restrained with light melisma, flipping into falsetto on the chorus peaks. 118 BPM, Db major. Flustered, determined, then quietly proud. No electric guitar, no acoustic guitar, no EDM drop, no trap hi-hats, no autotune, no string orchestra.",
+    "lyrics": "[Intro - short piano riff with the bass doubling the left hand]\n\n[Verse 1]\n土曜の十一時 シャッターが上がる\nもう列は 角の薬局まで\n券売機には ボタンが三十六個\n「味玉どこ?」って 聞かれても わからない\n\n[Pre-Chorus]\nカウンター越しに 食券を受け取って\n「お好みは?」って 声が裏返る\n\n[Chorus]\nかため こいめ あぶら少なめ\n早口すぎて 聞き取れない\nメモの字が 湯気でにじむ\n「すみません もう一回」\n\n[Verse 2]\n作業着の 常連さんに\nあぶらだけ 普通で 出しちゃった\nなんにも言わずに すすって\nスープまで 飲んで 帰ってった\n\n[Pre-Chorus]\n一時五十八分 最後のひとり\n食券置いて 小声で 早口\n\n[Chorus]\nかため こいめ あぶら少なめ\n今度は 一回で 聞き取れた\nメモの字が 湯気でにじむ\n「かため こいめ すくなめ 入ります!」\n\n[Bridge - piano and bass break, falsetto]\n三十六個の ボタンより\n三つの言葉が むずかしかった\n\n[Outro - piano riff, band stops together]\nのれんをしまって 店長が\n「来週の土曜も 入れる?」"
+  },
+  "seed": "1429209885",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.84s**\n- 57.84s per song\n- LM phase (1 song): 13.76s\n- DiT phase (1 song): 44.08s",
+  "task_id": "2fcca155-65e6-4363-a159-d15cd74e9643",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-10T20:53:34.523288+08:00",
+  "audio": "b7_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 3.1,
+      "end": 3.1,
+      "text": "[Intro - short piano riff with the bass doubling the left hand]"
+    },
+    {
+      "t": 3.1,
+      "end": 3.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.1,
+      "end": 18.24,
+      "text": "土曜の十一時 シャッターが上がる"
+    },
+    {
+      "t": 18.38,
+      "end": 26.36,
+      "text": "もう列は 角の薬局まで"
+    },
+    {
+      "t": 26.52,
+      "end": 30.46,
+      "text": "券売機には ボタンが三十六個"
+    },
+    {
+      "t": 36.44,
+      "end": 42.22,
+      "text": "「味玉どこ?」って 聞かれても わからない"
+    },
+    {
+      "t": 44.56,
+      "end": 44.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.56,
+      "end": 49.76,
+      "text": "カウンター越しに 食券を受け取って"
+    },
+    {
+      "t": 49.24,
+      "end": 52.08,
+      "text": "「お好みは?」って 声が裏返る"
+    },
+    {
+      "t": 55.33,
+      "end": 55.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.33,
+      "end": 62.35,
+      "text": "かため こいめ あぶら少なめ"
+    },
+    {
+      "t": 62.43,
+      "end": 68.25,
+      "text": "早口すぎて 聞き取れない"
+    },
+    {
+      "t": 70.39,
+      "end": 73.95,
+      "text": "メモの字が 湯気でにじむ"
+    },
+    {
+      "t": 74.91,
+      "end": 78.09,
+      "text": "「すみません もう一回」"
+    },
+    {
+      "t": 78.45,
+      "end": 78.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.45,
+      "end": 84.21,
+      "text": "作業着の 常連さんに"
+    },
+    {
+      "t": 84.65,
+      "end": 88.03,
+      "text": "あぶらだけ 普通で 出しちゃった"
+    },
+    {
+      "t": 88.95,
+      "end": 92.89,
+      "text": "なんにも言わずに すすって"
+    },
+    {
+      "t": 95.29,
+      "end": 98.73,
+      "text": "スープまで 飲んで 帰ってった"
+    },
+    {
+      "t": 99.37,
+      "end": 99.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.37,
+      "end": 104.93,
+      "text": "一時五十八分 最後のひとり"
+    },
+    {
+      "t": 104.95,
+      "end": 108.93,
+      "text": "食券置いて 小声で 早口"
+    },
+    {
+      "t": 108.93,
+      "end": 108.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.93,
+      "end": 111.59,
+      "text": "かため こいめ あぶら少なめ"
+    },
+    {
+      "t": 112.49,
+      "end": 115.67,
+      "text": "今度は 一回で 聞き取れた"
+    },
+    {
+      "t": 116.85,
+      "end": 119.75,
+      "text": "メモの字が 湯気でにじむ"
+    },
+    {
+      "t": 120.91,
+      "end": 125.77,
+      "text": "「かため こいめ すくなめ 入ります!」"
+    },
+    {
+      "t": 125.81,
+      "end": 125.81,
+      "text": "[Bridge - piano and bass break, falsetto]"
+    },
+    {
+      "t": 125.81,
+      "end": 135.03,
+      "text": "三十六個の ボタンより"
+    },
+    {
+      "t": 135.39,
+      "end": 171.6,
+      "text": "三つの言葉が むずかしかった"
+    },
+    {
+      "t": 188.06,
+      "end": 188.06,
+      "text": "[Outro - piano riff, band stops together]"
+    },
+    {
+      "t": 188.06,
+      "end": 191.24,
+      "text": "のれんをしまって 店長が"
+    },
+    {
+      "t": 192.38,
+      "end": 205.08,
+      "text": "「来週の土曜も 入れる?」"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 6.94,
+      "end": 6.94,
+      "text": "[Intro - short piano riff with the bass doubling the left hand]"
+    },
+    {
+      "t": 6.94,
+      "end": 6.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.94,
+      "end": 22.3,
+      "text": "土曜の十一時 シャッターが上がる"
+    },
+    {
+      "t": 22.46,
+      "end": 26.84,
+      "text": "もう列は 角の薬局まで"
+    },
+    {
+      "t": 26.84,
+      "end": 29.68,
+      "text": "券売機には ボタンが三十六個"
+    },
+    {
+      "t": 36.44,
+      "end": 43.38,
+      "text": "「味玉どこ?」って 聞かれても わからない"
+    },
+    {
+      "t": 44.56,
+      "end": 44.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.56,
+      "end": 49.24,
+      "text": "カウンター越しに 食券を受け取って"
+    },
+    {
+      "t": 49.24,
+      "end": 52.08,
+      "text": "「お好みは?」って 声が裏返る"
+    },
+    {
+      "t": 55.33,
+      "end": 55.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.33,
+      "end": 62.35,
+      "text": "かため こいめ あぶら少なめ"
+    },
+    {
+      "t": 62.61,
+      "end": 68.25,
+      "text": "早口すぎて 聞き取れない"
+    },
+    {
+      "t": 70.39,
+      "end": 73.95,
+      "text": "メモの字が 湯気でにじむ"
+    },
+    {
+      "t": 74.93,
+      "end": 77.43,
+      "text": "「すみません もう一回」"
+    },
+    {
+      "t": 77.45,
+      "end": 77.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.45,
+      "end": 82.09,
+      "text": "作業着の 常連さんに"
+    },
+    {
+      "t": 82.09,
+      "end": 83.57,
+      "text": "あぶらだけ 普通で 出しちゃった"
+    },
+    {
+      "t": 83.57,
+      "end": 92.63,
+      "text": "なんにも言わずに すすって"
+    },
+    {
+      "t": 95.29,
+      "end": 100.23,
+      "text": "スープまで 飲んで 帰ってった"
+    },
+    {
+      "t": 104.57,
+      "end": 104.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.57,
+      "end": 108.17,
+      "text": "一時五十八分 最後のひとり"
+    },
+    {
+      "t": 108.17,
+      "end": 109.21,
+      "text": "食券置いて 小声で 早口"
+    },
+    {
+      "t": 109.21,
+      "end": 109.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.21,
+      "end": 111.59,
+      "text": "かため こいめ あぶら少なめ"
+    },
+    {
+      "t": 112.49,
+      "end": 115.67,
+      "text": "今度は 一回で 聞き取れた"
+    },
+    {
+      "t": 116.85,
+      "end": 119.75,
+      "text": "メモの字が 湯気でにじむ"
+    },
+    {
+      "t": 120.91,
+      "end": 125.79,
+      "text": "「かため こいめ すくなめ 入ります!」"
+    },
+    {
+      "t": 125.83,
+      "end": 125.83,
+      "text": "[Bridge - piano and bass break, falsetto]"
+    },
+    {
+      "t": 125.83,
+      "end": 189.16,
+      "text": "三十六個の ボタンより"
+    },
+    {
+      "t": 189.82,
+      "end": 194.28,
+      "text": "三つの言葉が むずかしかった"
+    },
+    {
+      "t": 194.44,
+      "end": 194.44,
+      "text": "[Outro - piano riff, band stops together]"
+    },
+    {
+      "t": 194.44,
+      "end": 203.28,
+      "text": "のれんをしまって 店長が"
+    },
+    {
+      "t": 203.34,
+      "end": 205.02,
+      "text": "「来週の土曜も 入れる?」"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

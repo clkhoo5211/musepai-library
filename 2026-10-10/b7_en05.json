@@ -1,0 +1,504 @@
+{
+  "id": "b7_en05",
+  "title": "Thirty-First Of January",
+  "title_source": "scripted",
+  "genre": "hard techno",
+  "language": "en",
+  "language_name": "English",
+  "mood": "frantic and deadpan, a deadline closing in",
+  "persona": "",
+  "subject": "filing your tax return online at twenty to midnight on deadline night",
+  "caption": "Hard techno in the current festival style. A distorted rumble kick on every beat with a continuous saturated sub-rumble filling the space between hits; off-beat open hi-hats; metallic industrial percussion clanking on sixteenths; a squelching acid 303 line opening up through a slow filter sweep; a hoover rave stab and snare-roll builds before each drop. Dark, loud and pressurised, a narrow mono low end, the kick and voice forward, percussion wide. Male voice, low and dry, close to the mic, chanting short repeated phrases in time and half-whispering the countdown, almost no melody. 150 BPM, F minor. Frantic and deadpan, a deadline closing in. No melodic arpeggios, no sung pop chorus, no trance pads, no hardstyle reverse-bass kick, no gabber, no autotune, no breakbeats, no sampled voices.",
+  "lyrics": "[Intro - rumble kick and off-beat hats, short]\n\n[Verse 1 - chanted]\nEleven forty, thirty-first of January\nGateway password, wrong again\nReset link, check your inbox\nReset link, check your spam\n\n[Pre-Chorus - half-whispered over a snare-roll build]\nTwenty minutes\nFind the receipts\n\n[Chorus - chanted]\nBox eleven, box eleven\nWhat goes in box eleven\nHundred pound fine at midnight\nBox eleven\n\n[Drop - rumble kick, acid line and hoover stab, no vocals]\n\n[Verse 2 - chanted]\nShoebox on the kitchen floor\nTrain ticket, train ticket, sausage roll\nMileage on a napkin\nDid I go to Swindon? Did I go to Swindon?\n\n[Pre-Chorus - half-whispered over a snare-roll build]\nEleven fifty-eight\nSubmit\n\n[Chorus - chanted]\nBox eleven, box eleven\nSpinning wheel, don't refresh\nEleven fifty-nine and fifty seconds\nSubmitted\n\n[Outro - kick drops out, acid line alone]\nReference number, write it down\nSee you next January",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 212.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Hard techno in the current festival style. A distorted rumble kick on every beat with a continuous saturated sub-rumble filling the space between hits; off-beat open hi-hats; metallic industrial percussion clanking on sixteenths; a squelching acid 303 line opening up through a slow filter sweep; a hoover rave stab and snare-roll builds before each drop. Dark, loud and pressurised, a narrow mono low end, the kick and voice forward, percussion wide. Male voice, low and dry, close to the mic, chanting short repeated phrases in time and half-whispering the countdown, almost no melody. 150 BPM, F minor. Frantic and deadpan, a deadline closing in. No melodic arpeggios, no sung pop chorus, no trance pads, no hardstyle reverse-bass kick, no gabber, no autotune, no breakbeats, no sampled voices.",
+    "lyrics": "[Intro - rumble kick and off-beat hats, short]\n\n[Verse 1 - chanted]\nEleven forty, thirty-first of January\nGateway password, wrong again\nReset link, check your inbox\nReset link, check your spam\n\n[Pre-Chorus - half-whispered over a snare-roll build]\nTwenty minutes\nFind the receipts\n\n[Chorus - chanted]\nBox eleven, box eleven\nWhat goes in box eleven\nHundred pound fine at midnight\nBox eleven\n\n[Drop - rumble kick, acid line and hoover stab, no vocals]\n\n[Verse 2 - chanted]\nShoebox on the kitchen floor\nTrain ticket, train ticket, sausage roll\nMileage on a napkin\nDid I go to Swindon? Did I go to Swindon?\n\n[Pre-Chorus - half-whispered over a snare-roll build]\nEleven fifty-eight\nSubmit\n\n[Chorus - chanted]\nBox eleven, box eleven\nSpinning wheel, don't refresh\nEleven fifty-nine and fifty seconds\nSubmitted\n\n[Outro - kick drops out, acid line alone]\nReference number, write it down\nSee you next January"
+  },
+  "seed": "182166956",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.00s**\n- 62.00s per song\n- LM phase (1 song): 13.73s\n- DiT phase (1 song): 48.27s",
+  "task_id": "2c975398-8190-405e-85e0-bc209f706577",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T20:27:30.482011+08:00",
+  "audio": "b7_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 3.42,
+      "end": 3.42,
+      "text": "[Intro - rumble kick and off-beat hats, short]"
+    },
+    {
+      "t": 3.42,
+      "end": 3.42,
+      "text": "[Verse 1 - chanted]"
+    },
+    {
+      "t": 3.42,
+      "end": 18.92,
+      "text": "Eleven forty, thirty-first of January"
+    },
+    {
+      "t": 19.68,
+      "end": 50.1,
+      "text": "Gateway password, wrong again"
+    },
+    {
+      "t": 50.12,
+      "end": 53.39,
+      "text": "Reset link, check your inbox"
+    },
+    {
+      "t": 53.39,
+      "end": 54.15,
+      "text": "Reset link, check your spam"
+    },
+    {
+      "t": 56.93,
+      "end": 56.93,
+      "text": "[Pre-Chorus - half-whispered over a snare-roll build]"
+    },
+    {
+      "t": 56.93,
+      "end": 57.91,
+      "text": "Twenty minutes"
+    },
+    {
+      "t": 58.77,
+      "end": 59.37,
+      "text": "Find the receipts"
+    },
+    {
+      "t": 59.37,
+      "end": 59.37,
+      "text": "[Chorus - chanted]"
+    },
+    {
+      "t": 59.37,
+      "end": 60.05,
+      "text": "Box eleven, box eleven"
+    },
+    {
+      "t": 60.05,
+      "end": 63.51,
+      "text": "What goes in box eleven"
+    },
+    {
+      "t": 63.51,
+      "end": 64.59,
+      "text": "Hundred pound fine at midnight"
+    },
+    {
+      "t": 65.71,
+      "end": 66.67,
+      "text": "Box eleven"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Drop - rumble kick, acid line and hoover stab, no vocals]"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Verse 2 - chanted]"
+    },
+    {
+      "t": 69.71,
+      "end": 70.37,
+      "text": "Shoebox on the kitchen floor"
+    },
+    {
+      "t": 70.37,
+      "end": 71.37,
+      "text": "Train ticket, train ticket, sausage roll"
+    },
+    {
+      "t": 71.39,
+      "end": 72.53,
+      "text": "Mileage on a napkin"
+    },
+    {
+      "t": 72.63,
+      "end": 88.97,
+      "text": "Did I go to Swindon? Did I go to Swindon?"
+    },
+    {
+      "t": 130.71,
+      "end": 130.71,
+      "text": "[Pre-Chorus - half-whispered over a snare-roll build]"
+    },
+    {
+      "t": 130.71,
+      "end": 132.19,
+      "text": "Eleven fifty-eight"
+    },
+    {
+      "t": 134.09,
+      "end": 134.67,
+      "text": "Submit"
+    },
+    {
+      "t": 137.11,
+      "end": 137.11,
+      "text": "[Chorus - chanted]"
+    },
+    {
+      "t": 137.11,
+      "end": 140.27,
+      "text": "Box eleven, box eleven"
+    },
+    {
+      "t": 143.25,
+      "end": 147.13,
+      "text": "Spinning wheel, don't refresh"
+    },
+    {
+      "t": 147.15,
+      "end": 149.67,
+      "text": "Eleven fifty-nine and fifty seconds"
+    },
+    {
+      "t": 149.79,
+      "end": 181.08,
+      "text": "Submitted"
+    },
+    {
+      "t": 181.08,
+      "end": 181.08,
+      "text": "[Outro - kick drops out, acid line alone]"
+    },
+    {
+      "t": 181.08,
+      "end": 183.48,
+      "text": "Reference number, write it down"
+    },
+    {
+      "t": 184.08,
+      "end": 185.76,
+      "text": "See you next January"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 3.42,
+      "end": 3.42,
+      "text": "[Intro - rumble kick and off-beat hats, short]"
+    },
+    {
+      "t": 3.42,
+      "end": 3.42,
+      "text": "[Verse 1 - chanted]"
+    },
+    {
+      "t": 3.42,
+      "end": 18.92,
+      "text": "Eleven forty, thirty-first of January"
+    },
+    {
+      "t": 19.68,
+      "end": 50.1,
+      "text": "Gateway password, wrong again"
+    },
+    {
+      "t": 50.12,
+      "end": 53.39,
+      "text": "Reset link, check your inbox"
+    },
+    {
+      "t": 53.39,
+      "end": 54.15,
+      "text": "Reset link, check your spam"
+    },
+    {
+      "t": 56.93,
+      "end": 56.93,
+      "text": "[Pre-Chorus - half-whispered over a snare-roll build]"
+    },
+    {
+      "t": 56.93,
+      "end": 57.91,
+      "text": "Twenty minutes"
+    },
+    {
+      "t": 58.77,
+      "end": 59.37,
+      "text": "Find the receipts"
+    },
+    {
+      "t": 59.37,
+      "end": 59.37,
+      "text": "[Chorus - chanted]"
+    },
+    {
+      "t": 59.37,
+      "end": 60.05,
+      "text": "Box eleven, box eleven"
+    },
+    {
+      "t": 60.05,
+      "end": 63.51,
+      "text": "What goes in box eleven"
+    },
+    {
+      "t": 63.51,
+      "end": 64.59,
+      "text": "Hundred pound fine at midnight"
+    },
+    {
+      "t": 65.71,
+      "end": 66.67,
+      "text": "Box eleven"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Drop - rumble kick, acid line and hoover stab, no vocals]"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Verse 2 - chanted]"
+    },
+    {
+      "t": 69.71,
+      "end": 70.37,
+      "text": "Shoebox on the kitchen floor"
+    },
+    {
+      "t": 70.37,
+      "end": 71.37,
+      "text": "Train ticket, train ticket, sausage roll"
+    },
+    {
+      "t": 71.39,
+      "end": 72.53,
+      "text": "Mileage on a napkin"
+    },
+    {
+      "t": 72.63,
+      "end": 88.97,
+      "text": "Did I go to Swindon? Did I go to Swindon?"
+    },
+    {
+      "t": 130.71,
+      "end": 130.71,
+      "text": "[Pre-Chorus - half-whispered over a snare-roll build]"
+    },
+    {
+      "t": 130.71,
+      "end": 132.19,
+      "text": "Eleven fifty-eight"
+    },
+    {
+      "t": 134.09,
+      "end": 134.67,
+      "text": "Submit"
+    },
+    {
+      "t": 137.11,
+      "end": 137.11,
+      "text": "[Chorus - chanted]"
+    },
+    {
+      "t": 137.11,
+      "end": 140.27,
+      "text": "Box eleven, box eleven"
+    },
+    {
+      "t": 143.25,
+      "end": 147.13,
+      "text": "Spinning wheel, don't refresh"
+    },
+    {
+      "t": 147.15,
+      "end": 149.67,
+      "text": "Eleven fifty-nine and fifty seconds"
+    },
+    {
+      "t": 149.79,
+      "end": 181.08,
+      "text": "Submitted"
+    },
+    {
+      "t": 181.08,
+      "end": 181.08,
+      "text": "[Outro - kick drops out, acid line alone]"
+    },
+    {
+      "t": 181.08,
+      "end": 183.48,
+      "text": "Reference number, write it down"
+    },
+    {
+      "t": 184.08,
+      "end": 185.76,
+      "text": "See you next January"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.7,
+      "end": 25.7,
+      "text": "[Intro - rumble kick and off-beat hats, short]"
+    },
+    {
+      "t": 25.7,
+      "end": 25.7,
+      "text": "[Verse 1 - chanted]"
+    },
+    {
+      "t": 25.7,
+      "end": 33.06,
+      "text": "Eleven forty, thirty-first of January"
+    },
+    {
+      "t": 33.14,
+      "end": 42.82,
+      "text": "Gateway password, wrong again"
+    },
+    {
+      "t": 43.0,
+      "end": 49.34,
+      "text": "Reset link, check your inbox"
+    },
+    {
+      "t": 50.12,
+      "end": 53.87,
+      "text": "Reset link, check your spam"
+    },
+    {
+      "t": 56.95,
+      "end": 56.95,
+      "text": "[Pre-Chorus - half-whispered over a snare-roll build]"
+    },
+    {
+      "t": 56.95,
+      "end": 57.91,
+      "text": "Twenty minutes"
+    },
+    {
+      "t": 58.77,
+      "end": 60.27,
+      "text": "Find the receipts"
+    },
+    {
+      "t": 63.51,
+      "end": 63.51,
+      "text": "[Chorus - chanted]"
+    },
+    {
+      "t": 63.51,
+      "end": 66.67,
+      "text": "Box eleven, box eleven"
+    },
+    {
+      "t": 69.83,
+      "end": 88.97,
+      "text": "What goes in box eleven"
+    },
+    {
+      "t": 96.13,
+      "end": 106.19,
+      "text": "Hundred pound fine at midnight"
+    },
+    {
+      "t": 106.35,
+      "end": 132.05,
+      "text": "Box eleven"
+    },
+    {
+      "t": 134.09,
+      "end": 134.09,
+      "text": "[Drop - rumble kick, acid line and hoover stab, no vocals]"
+    },
+    {
+      "t": 134.09,
+      "end": 134.09,
+      "text": "[Verse 2 - chanted]"
+    },
+    {
+      "t": 134.09,
+      "end": 148.89,
+      "text": "Shoebox on the kitchen floor"
+    },
+    {
+      "t": 148.95,
+      "end": 155.89,
+      "text": "Train ticket, train ticket, sausage roll"
+    },
+    {
+      "t": 155.89,
+      "end": 161.64,
+      "text": "Mileage on a napkin"
+    },
+    {
+      "t": 161.78,
+      "end": 183.48,
+      "text": "Did I go to Swindon? Did I go to Swindon?"
+    },
+    {
+      "t": 184.24,
+      "end": 184.24,
+      "text": "[Pre-Chorus - half-whispered over a snare-roll build]"
+    },
+    {
+      "t": 184.24,
+      "end": 189.86,
+      "text": "Eleven fifty-eight"
+    },
+    {
+      "t": 189.86,
+      "end": 190.52,
+      "text": "Submit"
+    },
+    {
+      "t": 190.6,
+      "end": 190.6,
+      "text": "[Chorus - chanted]"
+    },
+    {
+      "t": 190.6,
+      "end": 193.06,
+      "text": "Box eleven, box eleven"
+    },
+    {
+      "t": 193.14,
+      "end": 196.14,
+      "text": "Spinning wheel, don't refresh"
+    },
+    {
+      "t": 196.18,
+      "end": 199.96,
+      "text": "Eleven fifty-nine and fifty seconds"
+    },
+    {
+      "t": 199.98,
+      "end": 200.7,
+      "text": "Submitted"
+    },
+    {
+      "t": 201.36,
+      "end": 201.36,
+      "text": "[Outro - kick drops out, acid line alone]"
+    },
+    {
+      "t": 201.36,
+      "end": 205.54,
+      "text": "Reference number, write it down"
+    },
+    {
+      "t": 205.56,
+      "end": 207.42,
+      "text": "See you next January"
+    }
+  ]
+}

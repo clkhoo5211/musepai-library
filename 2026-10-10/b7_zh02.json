@@ -1,0 +1,489 @@
+{
+  "id": "b7_zh02",
+  "title": "三二七號是我",
+  "title_source": "scripted",
+  "genre": "1980s mainland disco revival",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "seven unlucky years, one loud night",
+  "persona": "",
+  "subject": "a customer-service rep who finally wins the top prize at her company's eighties-themed annual-party lucky draw after seven years of 'thanks for taking part'",
+  "caption": "1980s mainland Chinese disco revival in the Zhang Qiang dance-hall style. An octave-jumping slap electric bass on every eighth note; DX7-style FM brass stabs and a bell-toned FM electric piano; a bright string pad sweeping up into each chorus; a chicken-scratch clean guitar on the sixteenths; syndrum and tom fills at the ends of phrases; drums with a four-on-the-floor kick, an open hi-hat on every offbeat and handclaps on two and four. Bright, slightly thin 1980s cassette sound, mid-range forward, the bass and the voice up front with a light plate reverb. Female voice, bright, sweet and a little nasal, with a quick vibrato and a teasing, playful delivery; a group of mixed office voices shouting the short answers. 122 BPM, D major. Seven unlucky years, one loud night. No Y2K eurodance, no Japanese city pop chords, no trap drums, no modern EDM drop, no autotune.",
+  "lyrics": "[Intro - short, slap bass octaves, FM brass stab, handclaps]\n\n[Verse 1]\n公司年會 今年主題是八〇年代\n經理穿了喇叭褲 前台戴著一副大眼鏡\n我坐最後一桌 離廁所最近那一桌\n七年了 我抽到的 都是謝謝參與\n\n[Pre-Chorus]\n一等獎 是一台雙開門的大冰箱\n老闆把手伸進紅箱子 攪了好久好久\n\n[Chorus]\n三二七號 是我 (嘿!)\n三二七號 是我是我\n我踩著高跟鞋 從廁所旁邊衝上台\n整個宴會廳都在喊 (三二七!)\n\n[Verse 2]\n老闆說 得獎的人要陪他跳一支舞\n燈球開始轉 DJ放了一首迪斯科\n我拉著老闆轉了三圈 他的假髮歪到一邊\n台下的同事 全部舉著手機在拍\n\n[Pre-Chorus]\n冰箱太大 我家根本放不下\n我說沒關係 先搬到我們客服部\n\n[Chorus]\n三二七號 是我 (嘿!)\n三二七號 是我是我\n七年的謝謝參與 今天一次還給我\n明年年會 我要坐第一桌 (第一桌!)\n\n[Outro - FM brass and string pad, handclaps fading]\n冰箱放在客服部 門上貼了我的名字\n誰要喝冰可樂 先叫我一聲姐 (姐!)",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "1980s mainland Chinese disco revival in the Zhang Qiang dance-hall style. An octave-jumping slap electric bass on every eighth note; DX7-style FM brass stabs and a bell-toned FM electric piano; a bright string pad sweeping up into each chorus; a chicken-scratch clean guitar on the sixteenths; syndrum and tom fills at the ends of phrases; drums with a four-on-the-floor kick, an open hi-hat on every offbeat and handclaps on two and four. Bright, slightly thin 1980s cassette sound, mid-range forward, the bass and the voice up front with a light plate reverb. Female voice, bright, sweet and a little nasal, with a quick vibrato and a teasing, playful delivery; a group of mixed office voices shouting the short answers. 122 BPM, D major. Seven unlucky years, one loud night. No Y2K eurodance, no Japanese city pop chords, no trap drums, no modern EDM drop, no autotune.",
+    "lyrics": "[Intro - short, slap bass octaves, FM brass stab, handclaps]\n\n[Verse 1]\n公司年會 今年主題是八〇年代\n經理穿了喇叭褲 前台戴著一副大眼鏡\n我坐最後一桌 離廁所最近那一桌\n七年了 我抽到的 都是謝謝參與\n\n[Pre-Chorus]\n一等獎 是一台雙開門的大冰箱\n老闆把手伸進紅箱子 攪了好久好久\n\n[Chorus]\n三二七號 是我 (嘿!)\n三二七號 是我是我\n我踩著高跟鞋 從廁所旁邊衝上台\n整個宴會廳都在喊 (三二七!)\n\n[Verse 2]\n老闆說 得獎的人要陪他跳一支舞\n燈球開始轉 DJ放了一首迪斯科\n我拉著老闆轉了三圈 他的假髮歪到一邊\n台下的同事 全部舉著手機在拍\n\n[Pre-Chorus]\n冰箱太大 我家根本放不下\n我說沒關係 先搬到我們客服部\n\n[Chorus]\n三二七號 是我 (嘿!)\n三二七號 是我是我\n七年的謝謝參與 今天一次還給我\n明年年會 我要坐第一桌 (第一桌!)\n\n[Outro - FM brass and string pad, handclaps fading]\n冰箱放在客服部 門上貼了我的名字\n誰要喝冰可樂 先叫我一聲姐 (姐!)"
+  },
+  "seed": "3259886734",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.33s**\n- 59.33s per song\n- LM phase (1 song): 15.56s\n- DiT phase (1 song): 43.77s",
+  "task_id": "31e43501-7ce6-4ca4-b677-edb2ef1796bf",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-10T20:37:41.801988+08:00",
+  "audio": "b7_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.12,
+      "end": 33.12,
+      "text": "[Intro - short, slap bass octaves, FM brass stab, handclaps]"
+    },
+    {
+      "t": 33.12,
+      "end": 33.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.12,
+      "end": 35.24,
+      "text": "公司年會 今年主題是八〇年代"
+    },
+    {
+      "t": 35.24,
+      "end": 36.96,
+      "text": "經理穿了喇叭褲 前台戴著一副大眼鏡"
+    },
+    {
+      "t": 39.84,
+      "end": 44.66,
+      "text": "我坐最後一桌 離廁所最近那一桌"
+    },
+    {
+      "t": 48.28,
+      "end": 51.69,
+      "text": "七年了 我抽到的 都是謝謝參與"
+    },
+    {
+      "t": 51.69,
+      "end": 51.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.69,
+      "end": 56.39,
+      "text": "一等獎 是一台雙開門的大冰箱"
+    },
+    {
+      "t": 56.39,
+      "end": 61.07,
+      "text": "老闆把手伸進紅箱子 攪了好久好久"
+    },
+    {
+      "t": 65.61,
+      "end": 65.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.61,
+      "end": 69.17,
+      "text": "三二七號 是我 (嘿!)"
+    },
+    {
+      "t": 69.29,
+      "end": 71.43,
+      "text": "三二七號 是我是我"
+    },
+    {
+      "t": 72.07,
+      "end": 76.77,
+      "text": "我踩著高跟鞋 從廁所旁邊衝上台"
+    },
+    {
+      "t": 77.47,
+      "end": 97.79,
+      "text": "整個宴會廳都在喊 (三二七!)"
+    },
+    {
+      "t": 97.87,
+      "end": 97.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.87,
+      "end": 102.25,
+      "text": "老闆說 得獎的人要陪他跳一支舞"
+    },
+    {
+      "t": 102.25,
+      "end": 103.27,
+      "text": "燈球開始轉 DJ放了一首迪斯科"
+    },
+    {
+      "t": 103.41,
+      "end": 107.61,
+      "text": "我拉著老闆轉了三圈 他的假髮歪到一邊"
+    },
+    {
+      "t": 107.87,
+      "end": 113.81,
+      "text": "台下的同事 全部舉著手機在拍"
+    },
+    {
+      "t": 113.89,
+      "end": 113.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.89,
+      "end": 117.21,
+      "text": "冰箱太大 我家根本放不下"
+    },
+    {
+      "t": 117.21,
+      "end": 124.89,
+      "text": "我說沒關係 先搬到我們客服部"
+    },
+    {
+      "t": 125.09,
+      "end": 125.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.09,
+      "end": 127.61,
+      "text": "三二七號 是我 (嘿!)"
+    },
+    {
+      "t": 127.61,
+      "end": 128.89,
+      "text": "三二七號 是我是我"
+    },
+    {
+      "t": 128.93,
+      "end": 134.59,
+      "text": "七年的謝謝參與 今天一次還給我"
+    },
+    {
+      "t": 134.75,
+      "end": 179.16,
+      "text": "明年年會 我要坐第一桌 (第一桌!)"
+    },
+    {
+      "t": 181.2,
+      "end": 181.2,
+      "text": "[Outro - FM brass and string pad, handclaps fading]"
+    },
+    {
+      "t": 181.2,
+      "end": 185.06,
+      "text": "冰箱放在客服部 門上貼了我的名字"
+    },
+    {
+      "t": 185.68,
+      "end": 188.78,
+      "text": "誰要喝冰可樂 先叫我一聲姐 (姐!)"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.12,
+      "end": 33.12,
+      "text": "[Intro - short, slap bass octaves, FM brass stab, handclaps]"
+    },
+    {
+      "t": 33.12,
+      "end": 33.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.12,
+      "end": 35.24,
+      "text": "公司年會 今年主題是八〇年代"
+    },
+    {
+      "t": 35.24,
+      "end": 36.96,
+      "text": "經理穿了喇叭褲 前台戴著一副大眼鏡"
+    },
+    {
+      "t": 39.84,
+      "end": 44.66,
+      "text": "我坐最後一桌 離廁所最近那一桌"
+    },
+    {
+      "t": 48.28,
+      "end": 51.69,
+      "text": "七年了 我抽到的 都是謝謝參與"
+    },
+    {
+      "t": 51.69,
+      "end": 51.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.69,
+      "end": 56.39,
+      "text": "一等獎 是一台雙開門的大冰箱"
+    },
+    {
+      "t": 56.39,
+      "end": 61.07,
+      "text": "老闆把手伸進紅箱子 攪了好久好久"
+    },
+    {
+      "t": 65.61,
+      "end": 65.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.61,
+      "end": 69.17,
+      "text": "三二七號 是我 (嘿!)"
+    },
+    {
+      "t": 69.29,
+      "end": 71.43,
+      "text": "三二七號 是我是我"
+    },
+    {
+      "t": 72.07,
+      "end": 76.77,
+      "text": "我踩著高跟鞋 從廁所旁邊衝上台"
+    },
+    {
+      "t": 77.47,
+      "end": 97.79,
+      "text": "整個宴會廳都在喊 (三二七!)"
+    },
+    {
+      "t": 97.87,
+      "end": 97.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.87,
+      "end": 102.25,
+      "text": "老闆說 得獎的人要陪他跳一支舞"
+    },
+    {
+      "t": 102.25,
+      "end": 103.27,
+      "text": "燈球開始轉 DJ放了一首迪斯科"
+    },
+    {
+      "t": 103.41,
+      "end": 107.61,
+      "text": "我拉著老闆轉了三圈 他的假髮歪到一邊"
+    },
+    {
+      "t": 107.87,
+      "end": 113.81,
+      "text": "台下的同事 全部舉著手機在拍"
+    },
+    {
+      "t": 113.89,
+      "end": 113.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.89,
+      "end": 117.21,
+      "text": "冰箱太大 我家根本放不下"
+    },
+    {
+      "t": 117.21,
+      "end": 124.89,
+      "text": "我說沒關係 先搬到我們客服部"
+    },
+    {
+      "t": 125.09,
+      "end": 125.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.09,
+      "end": 127.61,
+      "text": "三二七號 是我 (嘿!)"
+    },
+    {
+      "t": 127.61,
+      "end": 128.89,
+      "text": "三二七號 是我是我"
+    },
+    {
+      "t": 128.93,
+      "end": 134.59,
+      "text": "七年的謝謝參與 今天一次還給我"
+    },
+    {
+      "t": 134.75,
+      "end": 179.16,
+      "text": "明年年會 我要坐第一桌 (第一桌!)"
+    },
+    {
+      "t": 181.2,
+      "end": 181.2,
+      "text": "[Outro - FM brass and string pad, handclaps fading]"
+    },
+    {
+      "t": 181.2,
+      "end": 185.06,
+      "text": "冰箱放在客服部 門上貼了我的名字"
+    },
+    {
+      "t": 185.68,
+      "end": 188.78,
+      "text": "誰要喝冰可樂 先叫我一聲姐 (姐!)"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 33.14,
+      "end": 33.14,
+      "text": "[Intro - short, slap bass octaves, FM brass stab, handclaps]"
+    },
+    {
+      "t": 33.14,
+      "end": 33.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.14,
+      "end": 35.24,
+      "text": "公司年會 今年主題是八〇年代"
+    },
+    {
+      "t": 35.3,
+      "end": 39.86,
+      "text": "經理穿了喇叭褲 前台戴著一副大眼鏡"
+    },
+    {
+      "t": 39.86,
+      "end": 44.66,
+      "text": "我坐最後一桌 離廁所最近那一桌"
+    },
+    {
+      "t": 48.28,
+      "end": 51.69,
+      "text": "七年了 我抽到的 都是謝謝參與"
+    },
+    {
+      "t": 51.69,
+      "end": 51.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.69,
+      "end": 56.13,
+      "text": "一等獎 是一台雙開門的大冰箱"
+    },
+    {
+      "t": 56.13,
+      "end": 60.91,
+      "text": "老闆把手伸進紅箱子 攪了好久好久"
+    },
+    {
+      "t": 65.59,
+      "end": 65.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.59,
+      "end": 69.17,
+      "text": "三二七號 是我 (嘿!)"
+    },
+    {
+      "t": 69.31,
+      "end": 71.43,
+      "text": "三二七號 是我是我"
+    },
+    {
+      "t": 72.07,
+      "end": 76.79,
+      "text": "我踩著高跟鞋 從廁所旁邊衝上台"
+    },
+    {
+      "t": 77.47,
+      "end": 79.85,
+      "text": "整個宴會廳都在喊 (三二七!)"
+    },
+    {
+      "t": 79.85,
+      "end": 79.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.85,
+      "end": 95.17,
+      "text": "老闆說 得獎的人要陪他跳一支舞"
+    },
+    {
+      "t": 95.17,
+      "end": 95.83,
+      "text": "燈球開始轉 DJ放了一首迪斯科"
+    },
+    {
+      "t": 95.83,
+      "end": 97.55,
+      "text": "我拉著老闆轉了三圈 他的假髮歪到一邊"
+    },
+    {
+      "t": 97.57,
+      "end": 98.47,
+      "text": "台下的同事 全部舉著手機在拍"
+    },
+    {
+      "t": 98.47,
+      "end": 98.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.47,
+      "end": 101.27,
+      "text": "冰箱太大 我家根本放不下"
+    },
+    {
+      "t": 101.91,
+      "end": 104.27,
+      "text": "我說沒關係 先搬到我們客服部"
+    },
+    {
+      "t": 105.67,
+      "end": 105.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.67,
+      "end": 108.25,
+      "text": "三二七號 是我 (嘿!)"
+    },
+    {
+      "t": 108.37,
+      "end": 110.23,
+      "text": "三二七號 是我是我"
+    },
+    {
+      "t": 111.61,
+      "end": 114.95,
+      "text": "七年的謝謝參與 今天一次還給我"
+    },
+    {
+      "t": 115.35,
+      "end": 131.93,
+      "text": "明年年會 我要坐第一桌 (第一桌!)"
+    },
+    {
+      "t": 132.49,
+      "end": 132.49,
+      "text": "[Outro - FM brass and string pad, handclaps fading]"
+    },
+    {
+      "t": 132.49,
+      "end": 185.06,
+      "text": "冰箱放在客服部 門上貼了我的名字"
+    },
+    {
+      "t": 185.68,
+      "end": 188.7,
+      "text": "誰要喝冰可樂 先叫我一聲姐 (姐!)"
+    }
+  ]
+}

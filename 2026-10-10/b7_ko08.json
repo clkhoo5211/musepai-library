@@ -1,0 +1,347 @@
+{
+  "id": "b7_ko08",
+  "title": "줄다리기",
+  "title_source": "scripted",
+  "genre": "horn-section ska",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "rowdy, sweaty and far too competitive",
+  "persona": "",
+  "subject": "a company sports day where the sales department head takes the tug-of-war far too seriously for a prize of one pack of toilet paper",
+  "caption": "Traditional Korean ska with a full horn section, upbeat and fast. An upstroke guitar skank on every off-beat; a Hammond organ doubling the off-beat skank in short percussive chops; a melodic electric bass walking under the verses; a four-piece horn section of trumpet, trombone, tenor sax and baritone sax playing unison riffs between the lines and a short trumpet solo; drums with rimshots on the backbeat, the hi-hat on the upbeats and a snare roll into each chorus. Roomy and live like a band on a club stage, horns wide, the voice and skank guitar forward. An easygoing male lead croon with a grin, and the band shouting the written group answers. 152 BPM, B-flat major. Rowdy, sweaty and far too competitive. No distorted punk guitars, no reggae one-drop slowdown, no pop drum machine, no rap, no autotune.",
+  "lyrics": "[Intro - horn riff over the offbeat guitar skank]\n\n[Verse 1]\n토요일 아침 아홉 시 운동장\n조끼 색깔은 영업팀 빨강\n부장님 머리에 띠를 둘렀어\n\"이번엔 회계팀 꼭 이긴다\"\n\n[Pre-Chorus]\n장갑 끼고 줄 잡아 (잡아!)\n허리 낮춰 발 박아 (박아!)\n\n[Chorus]\n영차, 영차, 줄다리기\n부장님 혼자 진심이야\n상품은 휴지 한 묶음인데\n얼굴이 벌써 빨개 (영차!)\n\n[Verse 2]\n첫 판은 졌어, 줄이 쭉 넘어가\n부장님 운동화가 벗겨졌어\n작전 타임에 화이트보드까지\n\"신입은 맨 뒤에서 버텨\"\n\n[Pre-Chorus]\n줄을 감아 허리에 (허리에!)\n하나 둘에 당겨 (당겨!)\n\n[Chorus]\n영차, 영차, 줄다리기\n이젠 나도 진심이야\n상품은 휴지 한 묶음인데\n손바닥이 다 까졌어 (영차!)\n\n[Bridge - trumpet solo over the skank]\n\n[Outro - horns hit three times, then stop]\n이겼다! 휴지는 부장님 차에\n월요일엔 다들 허리 아파",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Traditional Korean ska with a full horn section, upbeat and fast. An upstroke guitar skank on every off-beat; a Hammond organ doubling the off-beat skank in short percussive chops; a melodic electric bass walking under the verses; a four-piece horn section of trumpet, trombone, tenor sax and baritone sax playing unison riffs between the lines and a short trumpet solo; drums with rimshots on the backbeat, the hi-hat on the upbeats and a snare roll into each chorus. Roomy and live like a band on a club stage, horns wide, the voice and skank guitar forward. An easygoing male lead croon with a grin, and the band shouting the written group answers. 152 BPM, B-flat major. Rowdy, sweaty and far too competitive. No distorted punk guitars, no reggae one-drop slowdown, no pop drum machine, no rap, no autotune.",
+    "lyrics": "[Intro - horn riff over the offbeat guitar skank]\n\n[Verse 1]\n토요일 아침 아홉 시 운동장\n조끼 색깔은 영업팀 빨강\n부장님 머리에 띠를 둘렀어\n\"이번엔 회계팀 꼭 이긴다\"\n\n[Pre-Chorus]\n장갑 끼고 줄 잡아 (잡아!)\n허리 낮춰 발 박아 (박아!)\n\n[Chorus]\n영차, 영차, 줄다리기\n부장님 혼자 진심이야\n상품은 휴지 한 묶음인데\n얼굴이 벌써 빨개 (영차!)\n\n[Verse 2]\n첫 판은 졌어, 줄이 쭉 넘어가\n부장님 운동화가 벗겨졌어\n작전 타임에 화이트보드까지\n\"신입은 맨 뒤에서 버텨\"\n\n[Pre-Chorus]\n줄을 감아 허리에 (허리에!)\n하나 둘에 당겨 (당겨!)\n\n[Chorus]\n영차, 영차, 줄다리기\n이젠 나도 진심이야\n상품은 휴지 한 묶음인데\n손바닥이 다 까졌어 (영차!)\n\n[Bridge - trumpet solo over the skank]\n\n[Outro - horns hit three times, then stop]\n이겼다! 휴지는 부장님 차에\n월요일엔 다들 허리 아파"
+  },
+  "seed": "2635833671",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.09s**\n- 55.09s per song\n- LM phase (1 song): 7.17s\n- DiT phase (1 song): 47.92s",
+  "task_id": "b7619199-9561-4637-a6ac-d85293dcda1c",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-10-10T19:20:30.698709+08:00",
+  "audio": "b7_ko08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.06,
+      "end": 32.06,
+      "text": "[Intro - horn riff over the offbeat guitar skank]"
+    },
+    {
+      "t": 32.06,
+      "end": 32.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.06,
+      "end": 35.54,
+      "text": "토요일 아침 아홉 시 운동장"
+    },
+    {
+      "t": 37.82,
+      "end": 40.68,
+      "text": "조끼 색깔은 영업팀 빨강"
+    },
+    {
+      "t": 40.88,
+      "end": 43.5,
+      "text": "부장님 머리에 띠를 둘렀어"
+    },
+    {
+      "t": 43.84,
+      "end": 46.53,
+      "text": "\"이번엔 회계팀 꼭 이긴다\""
+    },
+    {
+      "t": 47.35,
+      "end": 47.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.35,
+      "end": 49.59,
+      "text": "장갑 끼고 줄 잡아 (잡아!)"
+    },
+    {
+      "t": 50.05,
+      "end": 53.45,
+      "text": "허리 낮춰 발 박아 (박아!)"
+    },
+    {
+      "t": 57.05,
+      "end": 57.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.05,
+      "end": 59.71,
+      "text": "영차, 영차, 줄다리기"
+    },
+    {
+      "t": 60.17,
+      "end": 62.59,
+      "text": "부장님 혼자 진심이야"
+    },
+    {
+      "t": 64.01,
+      "end": 66.25,
+      "text": "상품은 휴지 한 묶음인데"
+    },
+    {
+      "t": 67.19,
+      "end": 69.93,
+      "text": "얼굴이 벌써 빨개 (영차!)"
+    },
+    {
+      "t": 70.39,
+      "end": 70.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.39,
+      "end": 72.85,
+      "text": "첫 판은 졌어, 줄이 쭉 넘어가"
+    },
+    {
+      "t": 73.31,
+      "end": 75.95,
+      "text": "부장님 운동화가 벗겨졌어"
+    },
+    {
+      "t": 76.59,
+      "end": 79.41,
+      "text": "작전 타임에 화이트보드까지"
+    },
+    {
+      "t": 79.67,
+      "end": 81.21,
+      "text": "\"신입은 맨 뒤에서 버텨\""
+    },
+    {
+      "t": 81.23,
+      "end": 81.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 81.23,
+      "end": 82.57,
+      "text": "줄을 감아 허리에 (허리에!)"
+    },
+    {
+      "t": 82.77,
+      "end": 85.95,
+      "text": "하나 둘에 당겨 (당겨!)"
+    },
+    {
+      "t": 86.65,
+      "end": 86.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.65,
+      "end": 90.07,
+      "text": "영차, 영차, 줄다리기"
+    },
+    {
+      "t": 90.23,
+      "end": 92.23,
+      "text": "이젠 나도 진심이야"
+    },
+    {
+      "t": 92.81,
+      "end": 96.25,
+      "text": "상품은 휴지 한 묶음인데"
+    },
+    {
+      "t": 96.71,
+      "end": 129.15,
+      "text": "손바닥이 다 까졌어 (영차!)"
+    },
+    {
+      "t": 129.15,
+      "end": 129.15,
+      "text": "[Bridge - trumpet solo over the skank]"
+    },
+    {
+      "t": 129.15,
+      "end": 129.15,
+      "text": "[Outro - horns hit three times, then stop]"
+    },
+    {
+      "t": 129.15,
+      "end": 131.55,
+      "text": "이겼다! 휴지는 부장님 차에"
+    },
+    {
+      "t": 132.17,
+      "end": 134.59,
+      "text": "월요일엔 다들 허리 아파"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.06,
+      "end": 32.06,
+      "text": "[Intro - horn riff over the offbeat guitar skank]"
+    },
+    {
+      "t": 32.06,
+      "end": 32.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.06,
+      "end": 35.56,
+      "text": "토요일 아침 아홉 시 운동장"
+    },
+    {
+      "t": 37.8,
+      "end": 40.66,
+      "text": "조끼 색깔은 영업팀 빨강"
+    },
+    {
+      "t": 40.9,
+      "end": 43.5,
+      "text": "부장님 머리에 띠를 둘렀어"
+    },
+    {
+      "t": 43.84,
+      "end": 46.55,
+      "text": "\"이번엔 회계팀 꼭 이긴다\""
+    },
+    {
+      "t": 47.35,
+      "end": 47.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.35,
+      "end": 49.59,
+      "text": "장갑 끼고 줄 잡아 (잡아!)"
+    },
+    {
+      "t": 50.05,
+      "end": 53.47,
+      "text": "허리 낮춰 발 박아 (박아!)"
+    },
+    {
+      "t": 57.09,
+      "end": 57.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.09,
+      "end": 59.71,
+      "text": "영차, 영차, 줄다리기"
+    },
+    {
+      "t": 60.15,
+      "end": 62.61,
+      "text": "부장님 혼자 진심이야"
+    },
+    {
+      "t": 63.99,
+      "end": 66.27,
+      "text": "상품은 휴지 한 묶음인데"
+    },
+    {
+      "t": 67.19,
+      "end": 69.93,
+      "text": "얼굴이 벌써 빨개 (영차!)"
+    },
+    {
+      "t": 70.39,
+      "end": 70.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.39,
+      "end": 72.85,
+      "text": "첫 판은 졌어, 줄이 쭉 넘어가"
+    },
+    {
+      "t": 73.31,
+      "end": 75.95,
+      "text": "부장님 운동화가 벗겨졌어"
+    },
+    {
+      "t": 76.59,
+      "end": 79.41,
+      "text": "작전 타임에 화이트보드까지"
+    },
+    {
+      "t": 79.67,
+      "end": 82.75,
+      "text": "\"신입은 맨 뒤에서 버텨\""
+    },
+    {
+      "t": 82.77,
+      "end": 82.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.77,
+      "end": 84.21,
+      "text": "줄을 감아 허리에 (허리에!)"
+    },
+    {
+      "t": 84.21,
+      "end": 87.45,
+      "text": "하나 둘에 당겨 (당겨!)"
+    },
+    {
+      "t": 87.45,
+      "end": 87.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.45,
+      "end": 90.09,
+      "text": "영차, 영차, 줄다리기"
+    },
+    {
+      "t": 90.25,
+      "end": 92.25,
+      "text": "이젠 나도 진심이야"
+    },
+    {
+      "t": 92.81,
+      "end": 96.25,
+      "text": "상품은 휴지 한 묶음인데"
+    },
+    {
+      "t": 96.69,
+      "end": 129.11,
+      "text": "손바닥이 다 까졌어 (영차!)"
+    },
+    {
+      "t": 129.13,
+      "end": 129.13,
+      "text": "[Bridge - trumpet solo over the skank]"
+    },
+    {
+      "t": 129.13,
+      "end": 129.13,
+      "text": "[Outro - horns hit three times, then stop]"
+    },
+    {
+      "t": 129.13,
+      "end": 131.55,
+      "text": "이겼다! 휴지는 부장님 차에"
+    },
+    {
+      "t": 132.15,
+      "end": 147.32,
+      "text": "월요일엔 다들 허리 아파"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

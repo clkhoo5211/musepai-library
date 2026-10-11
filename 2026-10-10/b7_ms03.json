@@ -1,0 +1,504 @@
+{
+  "id": "b7_ms03",
+  "title": "Kasut Kiri, Kasut Kanan",
+  "title_source": "scripted",
+  "genre": "Malay children's sing-along (lagu kanak-kanak)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "bouncy, patient and silly",
+  "persona": "",
+  "subject": "a four-year-old who puts his tadika shoes on the wrong feet every morning until his mother sticks a cat on the left shoe and a fish on the right",
+  "caption": "Malaysian children's sing-along in the lagu kanak-kanak style of preschool TV songs. A bright ukulele strumming steady eighth notes; a glockenspiel doubling the vocal melody note for note; short bright synth-brass stabs at the end of each line; hand claps and a shaker; a simple soft pop kit with a gentle kick and no heavy bass. Bright, clean and dry, ukulele and glockenspiel forward, every word clear and easy to follow. A friendly female adult lead, clearly enunciated and smiling, answered by a children's chorus singing the written replies. 116 BPM, G major. Bouncy, patient and silly. No sub-bass, no EDM drop, no trap hi-hats, no autotune, no club beat.",
+  "lyrics": "[Intro - ukulele strum and glockenspiel]\n\n[Verse 1]\nPagi-pagi Adik bangun, nak pergi tadika\nBeg dah siap, botol air dah isi\nDuduk tepi pintu, sarung kasut sendiri\nEh, eh, kenapa jalan macam itik?\n\n[Pre-Chorus]\nJom tengok kaki, jom kita kira\n(Satu, dua!)\n\n[Chorus]\nKasut kiri, kaki kiri\n(Kiri! Kiri!)\nKasut kanan, kaki kanan\n(Kanan! Kanan!)\nTepuk tangan, tukar balik\nBaru boleh jalan laju\n\n[Verse 2]\nMalam tu Mak tampal sticker\nKasut kiri gambar kucing\nKasut kanan gambar ikan\nKucing pandang ikan, maknanya betul!\n\n[Chorus]\nKasut kiri, kaki kiri\n(Kiri! Kiri!)\nKasut kanan, kaki kanan\n(Kanan! Kanan!)\nTepuk tangan, Adik pandai\nHari ni tak payah tukar\n\n[Outro - glockenspiel and claps]\nSatu, dua, tiga, jom pergi!\n(Jom pergi!)",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Malaysian children's sing-along in the lagu kanak-kanak style of preschool TV songs. A bright ukulele strumming steady eighth notes; a glockenspiel doubling the vocal melody note for note; short bright synth-brass stabs at the end of each line; hand claps and a shaker; a simple soft pop kit with a gentle kick and no heavy bass. Bright, clean and dry, ukulele and glockenspiel forward, every word clear and easy to follow. A friendly female adult lead, clearly enunciated and smiling, answered by a children's chorus singing the written replies. 116 BPM, G major. Bouncy, patient and silly. No sub-bass, no EDM drop, no trap hi-hats, no autotune, no club beat.",
+    "lyrics": "[Intro - ukulele strum and glockenspiel]\n\n[Verse 1]\nPagi-pagi Adik bangun, nak pergi tadika\nBeg dah siap, botol air dah isi\nDuduk tepi pintu, sarung kasut sendiri\nEh, eh, kenapa jalan macam itik?\n\n[Pre-Chorus]\nJom tengok kaki, jom kita kira\n(Satu, dua!)\n\n[Chorus]\nKasut kiri, kaki kiri\n(Kiri! Kiri!)\nKasut kanan, kaki kanan\n(Kanan! Kanan!)\nTepuk tangan, tukar balik\nBaru boleh jalan laju\n\n[Verse 2]\nMalam tu Mak tampal sticker\nKasut kiri gambar kucing\nKasut kanan gambar ikan\nKucing pandang ikan, maknanya betul!\n\n[Chorus]\nKasut kiri, kaki kiri\n(Kiri! Kiri!)\nKasut kanan, kaki kanan\n(Kanan! Kanan!)\nTepuk tangan, Adik pandai\nHari ni tak payah tukar\n\n[Outro - glockenspiel and claps]\nSatu, dua, tiga, jom pergi!\n(Jom pergi!)"
+  },
+  "seed": "2060037990",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.76s**\n- 52.76s per song\n- LM phase (1 song): 6.99s\n- DiT phase (1 song): 45.77s",
+  "task_id": "cc2bfe19-08ed-4891-aa5b-680bc1e7f2c2",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-10-10T19:27:01.242229+08:00",
+  "audio": "b7_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Intro - ukulele strum and glockenspiel]"
+    },
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.36,
+      "end": 27.58,
+      "text": "Pagi-pagi Adik bangun, nak pergi tadika"
+    },
+    {
+      "t": 30.04,
+      "end": 35.16,
+      "text": "Beg dah siap, botol air dah isi"
+    },
+    {
+      "t": 35.16,
+      "end": 44.05,
+      "text": "Duduk tepi pintu, sarung kasut sendiri"
+    },
+    {
+      "t": 45.53,
+      "end": 48.27,
+      "text": "Eh, eh, kenapa jalan macam itik?"
+    },
+    {
+      "t": 50.01,
+      "end": 50.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.01,
+      "end": 52.75,
+      "text": "Jom tengok kaki, jom kita kira"
+    },
+    {
+      "t": 54.11,
+      "end": 55.75,
+      "text": "(Satu, dua!)"
+    },
+    {
+      "t": 58.43,
+      "end": 58.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.43,
+      "end": 60.67,
+      "text": "Kasut kiri, kaki kiri"
+    },
+    {
+      "t": 61.31,
+      "end": 62.29,
+      "text": "(Kiri! Kiri!)"
+    },
+    {
+      "t": 62.53,
+      "end": 65.95,
+      "text": "Kasut kanan, kaki kanan"
+    },
+    {
+      "t": 67.31,
+      "end": 70.05,
+      "text": "(Kanan! Kanan!)"
+    },
+    {
+      "t": 70.77,
+      "end": 73.45,
+      "text": "Tepuk tangan, tukar balik"
+    },
+    {
+      "t": 74.89,
+      "end": 78.11,
+      "text": "Baru boleh jalan laju"
+    },
+    {
+      "t": 78.57,
+      "end": 78.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.57,
+      "end": 104.61,
+      "text": "Malam tu Mak tampal sticker"
+    },
+    {
+      "t": 105.59,
+      "end": 108.47,
+      "text": "Kasut kiri gambar kucing"
+    },
+    {
+      "t": 108.69,
+      "end": 110.97,
+      "text": "Kasut kanan gambar ikan"
+    },
+    {
+      "t": 111.07,
+      "end": 114.49,
+      "text": "Kucing pandang ikan, maknanya betul!"
+    },
+    {
+      "t": 117.23,
+      "end": 117.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.23,
+      "end": 119.83,
+      "text": "Kasut kiri, kaki kiri"
+    },
+    {
+      "t": 119.89,
+      "end": 120.49,
+      "text": "(Kiri! Kiri!)"
+    },
+    {
+      "t": 121.37,
+      "end": 124.77,
+      "text": "Kasut kanan, kaki kanan"
+    },
+    {
+      "t": 126.19,
+      "end": 130.22,
+      "text": "(Kanan! Kanan!)"
+    },
+    {
+      "t": 130.68,
+      "end": 149.24,
+      "text": "Tepuk tangan, Adik pandai"
+    },
+    {
+      "t": 149.82,
+      "end": 153.38,
+      "text": "Hari ni tak payah tukar"
+    },
+    {
+      "t": 154.94,
+      "end": 154.94,
+      "text": "[Outro - glockenspiel and claps]"
+    },
+    {
+      "t": 154.94,
+      "end": 157.68,
+      "text": "Satu, dua, tiga, jom pergi!"
+    },
+    {
+      "t": 159.58,
+      "end": 160.78,
+      "text": "(Jom pergi!)"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Intro - ukulele strum and glockenspiel]"
+    },
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.36,
+      "end": 27.58,
+      "text": "Pagi-pagi Adik bangun, nak pergi tadika"
+    },
+    {
+      "t": 30.04,
+      "end": 35.16,
+      "text": "Beg dah siap, botol air dah isi"
+    },
+    {
+      "t": 35.16,
+      "end": 44.05,
+      "text": "Duduk tepi pintu, sarung kasut sendiri"
+    },
+    {
+      "t": 45.53,
+      "end": 48.27,
+      "text": "Eh, eh, kenapa jalan macam itik?"
+    },
+    {
+      "t": 50.01,
+      "end": 50.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.01,
+      "end": 52.75,
+      "text": "Jom tengok kaki, jom kita kira"
+    },
+    {
+      "t": 54.11,
+      "end": 55.75,
+      "text": "(Satu, dua!)"
+    },
+    {
+      "t": 58.43,
+      "end": 58.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.43,
+      "end": 60.67,
+      "text": "Kasut kiri, kaki kiri"
+    },
+    {
+      "t": 61.31,
+      "end": 62.29,
+      "text": "(Kiri! Kiri!)"
+    },
+    {
+      "t": 62.53,
+      "end": 65.95,
+      "text": "Kasut kanan, kaki kanan"
+    },
+    {
+      "t": 67.31,
+      "end": 70.05,
+      "text": "(Kanan! Kanan!)"
+    },
+    {
+      "t": 70.77,
+      "end": 73.45,
+      "text": "Tepuk tangan, tukar balik"
+    },
+    {
+      "t": 74.89,
+      "end": 78.11,
+      "text": "Baru boleh jalan laju"
+    },
+    {
+      "t": 78.57,
+      "end": 78.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.57,
+      "end": 104.61,
+      "text": "Malam tu Mak tampal sticker"
+    },
+    {
+      "t": 105.59,
+      "end": 108.47,
+      "text": "Kasut kiri gambar kucing"
+    },
+    {
+      "t": 108.69,
+      "end": 110.97,
+      "text": "Kasut kanan gambar ikan"
+    },
+    {
+      "t": 111.07,
+      "end": 114.49,
+      "text": "Kucing pandang ikan, maknanya betul!"
+    },
+    {
+      "t": 117.23,
+      "end": 117.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.23,
+      "end": 119.83,
+      "text": "Kasut kiri, kaki kiri"
+    },
+    {
+      "t": 119.89,
+      "end": 120.49,
+      "text": "(Kiri! Kiri!)"
+    },
+    {
+      "t": 121.37,
+      "end": 124.77,
+      "text": "Kasut kanan, kaki kanan"
+    },
+    {
+      "t": 126.19,
+      "end": 130.22,
+      "text": "(Kanan! Kanan!)"
+    },
+    {
+      "t": 130.68,
+      "end": 149.24,
+      "text": "Tepuk tangan, Adik pandai"
+    },
+    {
+      "t": 149.82,
+      "end": 153.38,
+      "text": "Hari ni tak payah tukar"
+    },
+    {
+      "t": 154.94,
+      "end": 154.94,
+      "text": "[Outro - glockenspiel and claps]"
+    },
+    {
+      "t": 154.94,
+      "end": 157.68,
+      "text": "Satu, dua, tiga, jom pergi!"
+    },
+    {
+      "t": 159.58,
+      "end": 160.78,
+      "text": "(Jom pergi!)"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Intro - ukulele strum and glockenspiel]"
+    },
+    {
+      "t": 23.36,
+      "end": 23.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.36,
+      "end": 27.58,
+      "text": "Pagi-pagi Adik bangun, nak pergi tadika"
+    },
+    {
+      "t": 30.04,
+      "end": 35.78,
+      "text": "Beg dah siap, botol air dah isi"
+    },
+    {
+      "t": 35.94,
+      "end": 44.05,
+      "text": "Duduk tepi pintu, sarung kasut sendiri"
+    },
+    {
+      "t": 45.53,
+      "end": 48.27,
+      "text": "Eh, eh, kenapa jalan macam itik?"
+    },
+    {
+      "t": 50.03,
+      "end": 50.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.03,
+      "end": 52.75,
+      "text": "Jom tengok kaki, jom kita kira"
+    },
+    {
+      "t": 54.09,
+      "end": 55.77,
+      "text": "(Satu, dua!)"
+    },
+    {
+      "t": 58.43,
+      "end": 58.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.43,
+      "end": 60.67,
+      "text": "Kasut kiri, kaki kiri"
+    },
+    {
+      "t": 61.31,
+      "end": 62.11,
+      "text": "(Kiri! Kiri!)"
+    },
+    {
+      "t": 62.53,
+      "end": 65.95,
+      "text": "Kasut kanan, kaki kanan"
+    },
+    {
+      "t": 67.33,
+      "end": 70.05,
+      "text": "(Kanan! Kanan!)"
+    },
+    {
+      "t": 70.77,
+      "end": 73.51,
+      "text": "Tepuk tangan, tukar balik"
+    },
+    {
+      "t": 74.89,
+      "end": 78.13,
+      "text": "Baru boleh jalan laju"
+    },
+    {
+      "t": 79.01,
+      "end": 79.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.01,
+      "end": 89.59,
+      "text": "Malam tu Mak tampal sticker"
+    },
+    {
+      "t": 90.29,
+      "end": 97.23,
+      "text": "Kasut kiri gambar kucing"
+    },
+    {
+      "t": 105.59,
+      "end": 109.73,
+      "text": "Kasut kanan gambar ikan"
+    },
+    {
+      "t": 109.75,
+      "end": 114.49,
+      "text": "Kucing pandang ikan, maknanya betul!"
+    },
+    {
+      "t": 117.23,
+      "end": 117.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.23,
+      "end": 119.73,
+      "text": "Kasut kiri, kaki kiri"
+    },
+    {
+      "t": 120.07,
+      "end": 121.39,
+      "text": "(Kiri! Kiri!)"
+    },
+    {
+      "t": 121.39,
+      "end": 124.79,
+      "text": "Kasut kanan, kaki kanan"
+    },
+    {
+      "t": 126.17,
+      "end": 130.22,
+      "text": "(Kanan! Kanan!)"
+    },
+    {
+      "t": 130.68,
+      "end": 149.24,
+      "text": "Tepuk tangan, Adik pandai"
+    },
+    {
+      "t": 149.84,
+      "end": 153.38,
+      "text": "Hari ni tak payah tukar"
+    },
+    {
+      "t": 154.96,
+      "end": 154.96,
+      "text": "[Outro - glockenspiel and claps]"
+    },
+    {
+      "t": 154.96,
+      "end": 157.68,
+      "text": "Satu, dua, tiga, jom pergi!"
+    },
+    {
+      "t": 159.62,
+      "end": 160.78,
+      "text": "(Jom pergi!)"
+    }
+  ]
+}

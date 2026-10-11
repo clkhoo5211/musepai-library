@@ -1,0 +1,317 @@
+{
+  "id": "b7_en06",
+  "title": "Bijou",
+  "title_source": "scripted",
+  "genre": "Irish post-punk",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sardonic, tight-jawed fury",
+  "persona": "",
+  "subject": "a rental viewing in Rathmines with forty other people where the agent calls a cupboard the second bedroom",
+  "caption": "Irish post-punk in the current Dublin style. A melodic bass guitar picked high on the neck carrying the main riff; an angular clean guitar soaked in chorus playing clipped stabs, switching to blown-out fuzz in the choruses; tight motorik drums with a dry snare and loud floor toms; a droning organ note under the last chorus. Dry and close with little reverb, the bass and drums forward, the guitars lower in the mix. Male voice, a flat Dublin baritone in deadpan half-spoken Sprechgesang, chanting the chorus rather than belting it. 146 BPM, E minor. Sardonic, tight-jawed fury. No jangly indie-pop guitars, no big singalong chorus, no britpop swagger, no autotune, no synth pads, no American pop-punk.",
+  "lyrics": "[Intro - high melodic bass riff and dry drums]\n\n[Verse 1]\nSaturday viewing, Rathmines, half ten\nForty of us on the stairs, a queue out past the Spar\nAgent in a gilet with a clipboard and a grin\nSays have your references ready, it's very competitive\n\n[Chorus]\nBijou, he says, bijou\nThe second bedroom is a press with a door\nBijou, he says, bijou\nTwo thousand one hundred a month\n\n[Verse 2]\nThe shower's in the kitchen, he calls it open plan\nThere's a futon on the boiler, he calls it flexible\nA lad behind me's offering six months up front\nA girl is crying quietly in the hot press\n\n[Chorus]\nBijou, he says, bijou\nThe second bedroom is a press with a door\nBijou, I say, bijou\nAnd I hand him my references anyway\n\n[Bridge - fuzz guitar and floor toms]\nBank statements, payslips, a letter from my mam\nA letter from my mam to say I'm very tidy\n\n[Outro - bass alone, then cut]\nHe'll be in touch\nHe won't be in touch\n\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 146,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Irish post-punk in the current Dublin style. A melodic bass guitar picked high on the neck carrying the main riff; an angular clean guitar soaked in chorus playing clipped stabs, switching to blown-out fuzz in the choruses; tight motorik drums with a dry snare and loud floor toms; a droning organ note under the last chorus. Dry and close with little reverb, the bass and drums forward, the guitars lower in the mix. Male voice, a flat Dublin baritone in deadpan half-spoken Sprechgesang, chanting the chorus rather than belting it. 146 BPM, E minor. Sardonic, tight-jawed fury. No jangly indie-pop guitars, no big singalong chorus, no britpop swagger, no autotune, no synth pads, no American pop-punk.",
+    "lyrics": "[Intro - high melodic bass riff and dry drums]\n\n[Verse 1]\nSaturday viewing, Rathmines, half ten\nForty of us on the stairs, a queue out past the Spar\nAgent in a gilet with a clipboard and a grin\nSays have your references ready, it's very competitive\n\n[Chorus]\nBijou, he says, bijou\nThe second bedroom is a press with a door\nBijou, he says, bijou\nTwo thousand one hundred a month\n\n[Verse 2]\nThe shower's in the kitchen, he calls it open plan\nThere's a futon on the boiler, he calls it flexible\nA lad behind me's offering six months up front\nA girl is crying quietly in the hot press\n\n[Chorus]\nBijou, he says, bijou\nThe second bedroom is a press with a door\nBijou, I say, bijou\nAnd I hand him my references anyway\n\n[Bridge - fuzz guitar and floor toms]\nBank statements, payslips, a letter from my mam\nA letter from my mam to say I'm very tidy\n\n[Outro - bass alone, then cut]\nHe'll be in touch\nHe won't be in touch\n\n[Song ends abruptly]"
+  },
+  "seed": "3644446177",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.61s**\n- 56.61s per song\n- LM phase (1 song): 9.86s\n- DiT phase (1 song): 46.75s",
+  "task_id": "f1e8d6ea-b8f7-4f74-8fb9-bbb2c201a8c7",
+  "elapsed_s": 80.4,
+  "generated_at": "2026-10-10T20:28:50.861163+08:00",
+  "audio": "b7_en06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.98,
+      "end": 26.98,
+      "text": "[Intro - high melodic bass riff and dry drums]"
+    },
+    {
+      "t": 26.98,
+      "end": 26.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.98,
+      "end": 31.54,
+      "text": "Saturday viewing, Rathmines, half ten"
+    },
+    {
+      "t": 33.24,
+      "end": 39.28,
+      "text": "Forty of us on the stairs, a queue out past the Spar"
+    },
+    {
+      "t": 39.28,
+      "end": 41.32,
+      "text": "Agent in a gilet with a clipboard and a grin"
+    },
+    {
+      "t": 41.32,
+      "end": 42.98,
+      "text": "Says have your references ready, it's very competitive"
+    },
+    {
+      "t": 42.98,
+      "end": 42.98,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.98,
+      "end": 44.22,
+      "text": "Bijou, he says, bijou"
+    },
+    {
+      "t": 44.22,
+      "end": 46.6,
+      "text": "The second bedroom is a press with a door"
+    },
+    {
+      "t": 46.62,
+      "end": 50.51,
+      "text": "Bijou, he says, bijou"
+    },
+    {
+      "t": 50.51,
+      "end": 55.31,
+      "text": "Two thousand one hundred a month"
+    },
+    {
+      "t": 59.43,
+      "end": 59.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 59.43,
+      "end": 64.69,
+      "text": "The shower's in the kitchen, he calls it open plan"
+    },
+    {
+      "t": 65.73,
+      "end": 71.25,
+      "text": "There's a futon on the boiler, he calls it flexible"
+    },
+    {
+      "t": 72.45,
+      "end": 77.69,
+      "text": "A lad behind me's offering six months up front"
+    },
+    {
+      "t": 78.93,
+      "end": 83.17,
+      "text": "A girl is crying quietly in the hot press"
+    },
+    {
+      "t": 87.19,
+      "end": 87.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.19,
+      "end": 90.83,
+      "text": "Bijou, he says, bijou"
+    },
+    {
+      "t": 96.73,
+      "end": 99.63,
+      "text": "The second bedroom is a press with a door"
+    },
+    {
+      "t": 100.17,
+      "end": 102.93,
+      "text": "Bijou, I say, bijou"
+    },
+    {
+      "t": 103.51,
+      "end": 107.21,
+      "text": "And I hand him my references anyway"
+    },
+    {
+      "t": 110.29,
+      "end": 110.29,
+      "text": "[Bridge - fuzz guitar and floor toms]"
+    },
+    {
+      "t": 110.29,
+      "end": 118.83,
+      "text": "Bank statements, payslips, a letter from my mam"
+    },
+    {
+      "t": 118.93,
+      "end": 124.63,
+      "text": "A letter from my mam to say I'm very tidy"
+    },
+    {
+      "t": 141.07,
+      "end": 141.07,
+      "text": "[Outro - bass alone, then cut]"
+    },
+    {
+      "t": 141.07,
+      "end": 144.38,
+      "text": "He'll be in touch"
+    },
+    {
+      "t": 147.6,
+      "end": 184.74,
+      "text": "He won't be in touch"
+    },
+    {
+      "t": 184.74,
+      "end": 184.74,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.96,
+      "end": 26.96,
+      "text": "[Intro - high melodic bass riff and dry drums]"
+    },
+    {
+      "t": 26.96,
+      "end": 26.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.96,
+      "end": 31.56,
+      "text": "Saturday viewing, Rathmines, half ten"
+    },
+    {
+      "t": 33.26,
+      "end": 39.1,
+      "text": "Forty of us on the stairs, a queue out past the Spar"
+    },
+    {
+      "t": 39.1,
+      "end": 40.58,
+      "text": "Agent in a gilet with a clipboard and a grin"
+    },
+    {
+      "t": 40.58,
+      "end": 42.7,
+      "text": "Says have your references ready, it's very competitive"
+    },
+    {
+      "t": 42.7,
+      "end": 42.7,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.7,
+      "end": 43.16,
+      "text": "Bijou, he says, bijou"
+    },
+    {
+      "t": 44.22,
+      "end": 46.62,
+      "text": "The second bedroom is a press with a door"
+    },
+    {
+      "t": 46.62,
+      "end": 50.51,
+      "text": "Bijou, he says, bijou"
+    },
+    {
+      "t": 50.51,
+      "end": 59.43,
+      "text": "Two thousand one hundred a month"
+    },
+    {
+      "t": 59.43,
+      "end": 59.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 59.43,
+      "end": 64.85,
+      "text": "The shower's in the kitchen, he calls it open plan"
+    },
+    {
+      "t": 65.73,
+      "end": 71.27,
+      "text": "There's a futon on the boiler, he calls it flexible"
+    },
+    {
+      "t": 72.45,
+      "end": 77.71,
+      "text": "A lad behind me's offering six months up front"
+    },
+    {
+      "t": 78.93,
+      "end": 83.17,
+      "text": "A girl is crying quietly in the hot press"
+    },
+    {
+      "t": 87.19,
+      "end": 87.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.19,
+      "end": 90.83,
+      "text": "Bijou, he says, bijou"
+    },
+    {
+      "t": 96.73,
+      "end": 99.53,
+      "text": "The second bedroom is a press with a door"
+    },
+    {
+      "t": 100.17,
+      "end": 102.93,
+      "text": "Bijou, I say, bijou"
+    },
+    {
+      "t": 103.53,
+      "end": 107.21,
+      "text": "And I hand him my references anyway"
+    },
+    {
+      "t": 110.31,
+      "end": 110.31,
+      "text": "[Bridge - fuzz guitar and floor toms]"
+    },
+    {
+      "t": 110.31,
+      "end": 118.33,
+      "text": "Bank statements, payslips, a letter from my mam"
+    },
+    {
+      "t": 118.39,
+      "end": 124.63,
+      "text": "A letter from my mam to say I'm very tidy"
+    },
+    {
+      "t": 141.09,
+      "end": 141.09,
+      "text": "[Outro - bass alone, then cut]"
+    },
+    {
+      "t": 141.09,
+      "end": 143.02,
+      "text": "He'll be in touch"
+    },
+    {
+      "t": 144.36,
+      "end": 149.4,
+      "text": "He won't be in touch"
+    },
+    {
+      "t": 149.4,
+      "end": 149.4,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

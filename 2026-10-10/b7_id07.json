@@ -1,0 +1,387 @@
+{
+  "id": "b7_id07",
+  "title": "Antre Bimbingan",
+  "title_source": "scripted",
+  "genre": "Jogja jangle guitar-pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "bright, shy and hopeful",
+  "persona": "",
+  "subject": "falling for the girl who waits in the same thesis-supervision queue outside a lecturer's office every Tuesday",
+  "caption": "Indonesian guitar pop in the 2000s Jogja band style. Chiming clean electric guitars on the edge of breakup playing arpeggiated open chords; an acoustic guitar doubling the strum; a melodic electric bass moving between chord tones; drums playing a straight-eighth rock beat with open hi-hat and a tambourine on two and four; a few piano chords under the last chorus. Clean, bright and band-in-a-room, the guitars forward and wide, the voice in the middle, no heavy distortion. Warm, slightly nasal light-baritone male voice, plain and conversational, with an 'oh-oh' singalong hook the band sings along to. 128 BPM, G major. Bright, shy and hopeful. No synths, no power-ballad build, no Malay melisma, no autotune, no electronic drums.",
+  "lyrics": "[Intro - jangling guitar arpeggio, then the band]\n\n[Verse 1]\nSelasa pagi di lantai tiga\nKursi plastik depan ruangan Bu Ratna\nKamu bab dua, aku bab empat\nKertas kita sama-sama penuh coretan merah\n\n[Pre-Chorus]\nKamu pinjam stabilo, aku pinjam stapler\nKita sama-sama pura-pura nggak gugup\n\n[Chorus - the band sings the oh-oh]\nOh-oh, antre bimbingan\nKamu nomor tujuh, aku delapan\nBu Ratna, tolong datang telat lagi\nAku belum berani minta nomormu\n\n[Verse 2]\nMinggu ketiga aku bawa dua gorengan\nSatu buat aku, satu \"kebetulan lebih\"\nKamu bilang revisimu disuruh ulang\nAku bilang punyaku juga, padahal nggak\n\n[Chorus - the band sings the oh-oh]\nOh-oh, antre bimbingan\nKamu nomor tujuh, aku delapan\nBu Ratna, lama banget di dalam\nGorengan kita udah dingin\n\n[Bridge - guitars drop to one arpeggio, tambourine keeps time]\nKalau nanti kita sama-sama lulus\nSelasa pagi aku ke mana?\nAku tulis nomorku pelan-pelan\nDi pojok kertas revisimu\n\n[Chorus - full band, everyone on the oh-oh]\nOh-oh, antre bimbingan\nKamu nomor tujuh, aku delapan\nKamu masuk duluan, kamu senyum\nKertasnya kamu bawa, nomorku juga\n\n[Outro - guitar arpeggio rings out, one last tambourine hit]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Indonesian guitar pop in the 2000s Jogja band style. Chiming clean electric guitars on the edge of breakup playing arpeggiated open chords; an acoustic guitar doubling the strum; a melodic electric bass moving between chord tones; drums playing a straight-eighth rock beat with open hi-hat and a tambourine on two and four; a few piano chords under the last chorus. Clean, bright and band-in-a-room, the guitars forward and wide, the voice in the middle, no heavy distortion. Warm, slightly nasal light-baritone male voice, plain and conversational, with an 'oh-oh' singalong hook the band sings along to. 128 BPM, G major. Bright, shy and hopeful. No synths, no power-ballad build, no Malay melisma, no autotune, no electronic drums.",
+    "lyrics": "[Intro - jangling guitar arpeggio, then the band]\n\n[Verse 1]\nSelasa pagi di lantai tiga\nKursi plastik depan ruangan Bu Ratna\nKamu bab dua, aku bab empat\nKertas kita sama-sama penuh coretan merah\n\n[Pre-Chorus]\nKamu pinjam stabilo, aku pinjam stapler\nKita sama-sama pura-pura nggak gugup\n\n[Chorus - the band sings the oh-oh]\nOh-oh, antre bimbingan\nKamu nomor tujuh, aku delapan\nBu Ratna, tolong datang telat lagi\nAku belum berani minta nomormu\n\n[Verse 2]\nMinggu ketiga aku bawa dua gorengan\nSatu buat aku, satu \"kebetulan lebih\"\nKamu bilang revisimu disuruh ulang\nAku bilang punyaku juga, padahal nggak\n\n[Chorus - the band sings the oh-oh]\nOh-oh, antre bimbingan\nKamu nomor tujuh, aku delapan\nBu Ratna, lama banget di dalam\nGorengan kita udah dingin\n\n[Bridge - guitars drop to one arpeggio, tambourine keeps time]\nKalau nanti kita sama-sama lulus\nSelasa pagi aku ke mana?\nAku tulis nomorku pelan-pelan\nDi pojok kertas revisimu\n\n[Chorus - full band, everyone on the oh-oh]\nOh-oh, antre bimbingan\nKamu nomor tujuh, aku delapan\nKamu masuk duluan, kamu senyum\nKertasnya kamu bawa, nomorku juga\n\n[Outro - guitar arpeggio rings out, one last tambourine hit]"
+  },
+  "seed": "2334418927",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 90.59s**\n- 90.59s per song\n- LM phase (1 song): 11.91s\n- DiT phase (1 song): 78.68s",
+  "task_id": "bf26ed7a-9557-46ce-811d-9d75e78ef2b0",
+  "elapsed_s": 120.1,
+  "generated_at": "2026-10-10T19:47:23.889839+08:00",
+  "audio": "b7_id07.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.6,
+      "end": 22.6,
+      "text": "[Intro - jangling guitar arpeggio, then the band]"
+    },
+    {
+      "t": 22.6,
+      "end": 22.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.6,
+      "end": 26.78,
+      "text": "Selasa pagi di lantai tiga"
+    },
+    {
+      "t": 29.88,
+      "end": 34.26,
+      "text": "Kursi plastik depan ruangan Bu Ratna"
+    },
+    {
+      "t": 34.36,
+      "end": 39.74,
+      "text": "Kamu bab dua, aku bab empat"
+    },
+    {
+      "t": 40.22,
+      "end": 46.56,
+      "text": "Kertas kita sama-sama penuh coretan merah"
+    },
+    {
+      "t": 49.32,
+      "end": 49.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.32,
+      "end": 54.53,
+      "text": "Kamu pinjam stabilo, aku pinjam stapler"
+    },
+    {
+      "t": 56.83,
+      "end": 61.93,
+      "text": "Kita sama-sama pura-pura nggak gugup"
+    },
+    {
+      "t": 62.07,
+      "end": 62.07,
+      "text": "[Chorus - the band sings the oh-oh]"
+    },
+    {
+      "t": 62.07,
+      "end": 64.85,
+      "text": "Oh-oh, antre bimbingan"
+    },
+    {
+      "t": 65.05,
+      "end": 68.27,
+      "text": "Kamu nomor tujuh, aku delapan"
+    },
+    {
+      "t": 68.33,
+      "end": 73.33,
+      "text": "Bu Ratna, tolong datang telat lagi"
+    },
+    {
+      "t": 73.37,
+      "end": 76.03,
+      "text": "Aku belum berani minta nomormu"
+    },
+    {
+      "t": 76.03,
+      "end": 76.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.03,
+      "end": 80.97,
+      "text": "Minggu ketiga aku bawa dua gorengan"
+    },
+    {
+      "t": 80.97,
+      "end": 83.73,
+      "text": "Satu buat aku, satu \"kebetulan lebih\""
+    },
+    {
+      "t": 83.73,
+      "end": 87.77,
+      "text": "Kamu bilang revisimu disuruh ulang"
+    },
+    {
+      "t": 87.77,
+      "end": 91.05,
+      "text": "Aku bilang punyaku juga, padahal nggak"
+    },
+    {
+      "t": 91.13,
+      "end": 91.13,
+      "text": "[Chorus - the band sings the oh-oh]"
+    },
+    {
+      "t": 91.13,
+      "end": 92.59,
+      "text": "Oh-oh, antre bimbingan"
+    },
+    {
+      "t": 92.59,
+      "end": 94.45,
+      "text": "Kamu nomor tujuh, aku delapan"
+    },
+    {
+      "t": 95.27,
+      "end": 100.19,
+      "text": "Bu Ratna, lama banget di dalam"
+    },
+    {
+      "t": 102.47,
+      "end": 108.21,
+      "text": "Gorengan kita udah dingin"
+    },
+    {
+      "t": 110.23,
+      "end": 110.23,
+      "text": "[Bridge - guitars drop to one arpeggio, tambourine keeps time]"
+    },
+    {
+      "t": 110.23,
+      "end": 115.37,
+      "text": "Kalau nanti kita sama-sama lulus"
+    },
+    {
+      "t": 117.97,
+      "end": 122.11,
+      "text": "Selasa pagi aku ke mana?"
+    },
+    {
+      "t": 125.33,
+      "end": 131.03,
+      "text": "Aku tulis nomorku pelan-pelan"
+    },
+    {
+      "t": 132.73,
+      "end": 137.77,
+      "text": "Di pojok kertas revisimu"
+    },
+    {
+      "t": 137.77,
+      "end": 137.77,
+      "text": "[Chorus - full band, everyone on the oh-oh]"
+    },
+    {
+      "t": 137.77,
+      "end": 151.33,
+      "text": "Oh-oh, antre bimbingan"
+    },
+    {
+      "t": 152.17,
+      "end": 157.18,
+      "text": "Kamu nomor tujuh, aku delapan"
+    },
+    {
+      "t": 157.34,
+      "end": 170.48,
+      "text": "Kamu masuk duluan, kamu senyum"
+    },
+    {
+      "t": 171.16,
+      "end": 178.3,
+      "text": "Kertasnya kamu bawa, nomorku juga"
+    },
+    {
+      "t": 178.3,
+      "end": 178.3,
+      "text": "[Outro - guitar arpeggio rings out, one last tambourine hit]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.62,
+      "end": 22.62,
+      "text": "[Intro - jangling guitar arpeggio, then the band]"
+    },
+    {
+      "t": 22.62,
+      "end": 22.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.62,
+      "end": 26.78,
+      "text": "Selasa pagi di lantai tiga"
+    },
+    {
+      "t": 29.88,
+      "end": 34.26,
+      "text": "Kursi plastik depan ruangan Bu Ratna"
+    },
+    {
+      "t": 37.4,
+      "end": 39.56,
+      "text": "Kamu bab dua, aku bab empat"
+    },
+    {
+      "t": 39.56,
+      "end": 46.62,
+      "text": "Kertas kita sama-sama penuh coretan merah"
+    },
+    {
+      "t": 49.32,
+      "end": 49.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.32,
+      "end": 54.55,
+      "text": "Kamu pinjam stabilo, aku pinjam stapler"
+    },
+    {
+      "t": 56.85,
+      "end": 60.21,
+      "text": "Kita sama-sama pura-pura nggak gugup"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Chorus - the band sings the oh-oh]"
+    },
+    {
+      "t": 60.21,
+      "end": 60.63,
+      "text": "Oh-oh, antre bimbingan"
+    },
+    {
+      "t": 60.63,
+      "end": 64.03,
+      "text": "Kamu nomor tujuh, aku delapan"
+    },
+    {
+      "t": 64.15,
+      "end": 65.33,
+      "text": "Bu Ratna, tolong datang telat lagi"
+    },
+    {
+      "t": 65.33,
+      "end": 66.25,
+      "text": "Aku belum berani minta nomormu"
+    },
+    {
+      "t": 66.25,
+      "end": 66.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.25,
+      "end": 68.59,
+      "text": "Minggu ketiga aku bawa dua gorengan"
+    },
+    {
+      "t": 68.73,
+      "end": 72.35,
+      "text": "Satu buat aku, satu \"kebetulan lebih\""
+    },
+    {
+      "t": 72.35,
+      "end": 75.01,
+      "text": "Kamu bilang revisimu disuruh ulang"
+    },
+    {
+      "t": 75.09,
+      "end": 83.73,
+      "text": "Aku bilang punyaku juga, padahal nggak"
+    },
+    {
+      "t": 83.73,
+      "end": 83.73,
+      "text": "[Chorus - the band sings the oh-oh]"
+    },
+    {
+      "t": 83.73,
+      "end": 85.89,
+      "text": "Oh-oh, antre bimbingan"
+    },
+    {
+      "t": 87.49,
+      "end": 92.29,
+      "text": "Kamu nomor tujuh, aku delapan"
+    },
+    {
+      "t": 95.25,
+      "end": 100.23,
+      "text": "Bu Ratna, lama banget di dalam"
+    },
+    {
+      "t": 102.49,
+      "end": 108.23,
+      "text": "Gorengan kita udah dingin"
+    },
+    {
+      "t": 110.23,
+      "end": 110.23,
+      "text": "[Bridge - guitars drop to one arpeggio, tambourine keeps time]"
+    },
+    {
+      "t": 110.23,
+      "end": 115.41,
+      "text": "Kalau nanti kita sama-sama lulus"
+    },
+    {
+      "t": 117.97,
+      "end": 122.11,
+      "text": "Selasa pagi aku ke mana?"
+    },
+    {
+      "t": 125.33,
+      "end": 131.03,
+      "text": "Aku tulis nomorku pelan-pelan"
+    },
+    {
+      "t": 132.73,
+      "end": 137.81,
+      "text": "Di pojok kertas revisimu"
+    },
+    {
+      "t": 141.77,
+      "end": 141.77,
+      "text": "[Chorus - full band, everyone on the oh-oh]"
+    },
+    {
+      "t": 141.77,
+      "end": 146.57,
+      "text": "Oh-oh, antre bimbingan"
+    },
+    {
+      "t": 149.35,
+      "end": 156.9,
+      "text": "Kamu nomor tujuh, aku delapan"
+    },
+    {
+      "t": 157.34,
+      "end": 170.48,
+      "text": "Kamu masuk duluan, kamu senyum"
+    },
+    {
+      "t": 171.18,
+      "end": 178.3,
+      "text": "Kertasnya kamu bawa, nomorku juga"
+    },
+    {
+      "t": 178.3,
+      "end": 178.3,
+      "text": "[Outro - guitar arpeggio rings out, one last tambourine hit]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

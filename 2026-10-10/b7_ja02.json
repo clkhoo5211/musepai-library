@@ -1,0 +1,357 @@
+{
+  "id": "b7_ja02",
+  "title": "まだ蓋は開けない",
+  "title_source": "scripted",
+  "genre": "Japanese hiki-gatari acoustic ballad",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "patient, wry and quietly content on her own",
+  "persona": "",
+  "subject": "learning to cook rice in a clay donabe after the rice cooker dies, three burnt bottoms before one pot comes out right, eaten alone at the low table with a raw egg",
+  "caption": "Japanese singer-songwriter acoustic ballad in the hiki-gatari guitar-and-voice style that grew on TikTok. A steel-string acoustic guitar strummed close to the mic, with beat two left empty in the verse pattern; a soft upright piano entering at the pre-chorus; a quiet string pad under the second chorus; a full drum kit coming in only for the last chorus, brushes first and then sticks. Dry and intimate, the voice upfront and close, the guitar centred, building from almost bare to a full band at the end. Young female voice, slightly breathy and conversational in the verses, opening into a clear belt in the last chorus, with no showy runs. 78 BPM, G major. Patient, wry and quietly content. No programmed drums, no trap beat, no autotune, no orchestra in the first half, no lo-fi tape hiss.",
+  "lyrics": "[Intro - steel-string acoustic guitar alone, beat two left empty]\n\n[Verse 1]\n十年使った 炊飯器が\n日曜の朝 ランプが点かない\n棚の奥から 出してきたのは\n冬に一回 鍋をした 土鍋\n\n[Pre-Chorus - piano enters]\n三十分 お米を 水につけて\n強火で ぐつぐつ 言うまで待つ\n\n[Chorus]\nまだ 蓋は開けない\n弱火で 十三分\nぱちぱち鳴ったら 火を止めて\nあと十分 まだ開けない\n\n[Verse 2]\n一回目は 底が真っ黒\n二回目は スマホ見てて 焦がした\n三回目は 火が強すぎた\n重曹入れて 一晩つけた\n\n[Pre-Chorus]\n四回目は 土曜の夜七時\nコンロの前から 一歩も動かない\n\n[Chorus - full band, brushes then sticks, voice opens up]\nもう 蓋を開けていい\n弱火で 十三分\nぱちぱち鳴って 火を止めて\n十分待った もういいよ\n\n[Outro - acoustic guitar alone]\nちゃぶ台に 茶碗ひとつ\n生卵割って しょうゆ少し\nおこげは 最後にとっておく\n炊飯器 もう買わなくていいか",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese singer-songwriter acoustic ballad in the hiki-gatari guitar-and-voice style that grew on TikTok. A steel-string acoustic guitar strummed close to the mic, with beat two left empty in the verse pattern; a soft upright piano entering at the pre-chorus; a quiet string pad under the second chorus; a full drum kit coming in only for the last chorus, brushes first and then sticks. Dry and intimate, the voice upfront and close, the guitar centred, building from almost bare to a full band at the end. Young female voice, slightly breathy and conversational in the verses, opening into a clear belt in the last chorus, with no showy runs. 78 BPM, G major. Patient, wry and quietly content. No programmed drums, no trap beat, no autotune, no orchestra in the first half, no lo-fi tape hiss.",
+    "lyrics": "[Intro - steel-string acoustic guitar alone, beat two left empty]\n\n[Verse 1]\n十年使った 炊飯器が\n日曜の朝 ランプが点かない\n棚の奥から 出してきたのは\n冬に一回 鍋をした 土鍋\n\n[Pre-Chorus - piano enters]\n三十分 お米を 水につけて\n強火で ぐつぐつ 言うまで待つ\n\n[Chorus]\nまだ 蓋は開けない\n弱火で 十三分\nぱちぱち鳴ったら 火を止めて\nあと十分 まだ開けない\n\n[Verse 2]\n一回目は 底が真っ黒\n二回目は スマホ見てて 焦がした\n三回目は 火が強すぎた\n重曹入れて 一晩つけた\n\n[Pre-Chorus]\n四回目は 土曜の夜七時\nコンロの前から 一歩も動かない\n\n[Chorus - full band, brushes then sticks, voice opens up]\nもう 蓋を開けていい\n弱火で 十三分\nぱちぱち鳴って 火を止めて\n十分待った もういいよ\n\n[Outro - acoustic guitar alone]\nちゃぶ台に 茶碗ひとつ\n生卵割って しょうゆ少し\nおこげは 最後にとっておく\n炊飯器 もう買わなくていいか"
+  },
+  "seed": "3169462450",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.15s**\n- 69.15s per song\n- LM phase (1 song): 14.36s\n- DiT phase (1 song): 54.78s",
+  "task_id": "f1a4c6ee-b521-4c4e-8c7b-42521b65e99e",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-10T20:52:14.282339+08:00",
+  "audio": "b7_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.14,
+      "end": 27.14,
+      "text": "[Intro - steel-string acoustic guitar alone, beat two left empty]"
+    },
+    {
+      "t": 27.14,
+      "end": 27.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.14,
+      "end": 32.44,
+      "text": "十年使った 炊飯器が"
+    },
+    {
+      "t": 32.44,
+      "end": 36.5,
+      "text": "日曜の朝 ランプが点かない"
+    },
+    {
+      "t": 39.32,
+      "end": 42.5,
+      "text": "棚の奥から 出してきたのは"
+    },
+    {
+      "t": 45.8,
+      "end": 53.59,
+      "text": "冬に一回 鍋をした 土鍋"
+    },
+    {
+      "t": 53.83,
+      "end": 53.83,
+      "text": "[Pre-Chorus - piano enters]"
+    },
+    {
+      "t": 53.83,
+      "end": 56.83,
+      "text": "三十分 お米を 水につけて"
+    },
+    {
+      "t": 59.15,
+      "end": 62.81,
+      "text": "強火で ぐつぐつ 言うまで待つ"
+    },
+    {
+      "t": 62.91,
+      "end": 62.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.91,
+      "end": 64.25,
+      "text": "まだ 蓋は開けない"
+    },
+    {
+      "t": 64.25,
+      "end": 64.69,
+      "text": "弱火で 十三分"
+    },
+    {
+      "t": 65.81,
+      "end": 68.91,
+      "text": "ぱちぱち鳴ったら 火を止めて"
+    },
+    {
+      "t": 71.53,
+      "end": 76.71,
+      "text": "あと十分 まだ開けない"
+    },
+    {
+      "t": 76.79,
+      "end": 76.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.79,
+      "end": 80.49,
+      "text": "一回目は 底が真っ黒"
+    },
+    {
+      "t": 80.49,
+      "end": 99.85,
+      "text": "二回目は スマホ見てて 焦がした"
+    },
+    {
+      "t": 99.89,
+      "end": 100.91,
+      "text": "三回目は 火が強すぎた"
+    },
+    {
+      "t": 100.91,
+      "end": 102.17,
+      "text": "重曹入れて 一晩つけた"
+    },
+    {
+      "t": 102.29,
+      "end": 102.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.29,
+      "end": 105.33,
+      "text": "四回目は 土曜の夜七時"
+    },
+    {
+      "t": 105.69,
+      "end": 110.17,
+      "text": "コンロの前から 一歩も動かない"
+    },
+    {
+      "t": 112.71,
+      "end": 112.71,
+      "text": "[Chorus - full band, brushes then sticks, voice opens up]"
+    },
+    {
+      "t": 112.71,
+      "end": 117.73,
+      "text": "もう 蓋を開けていい"
+    },
+    {
+      "t": 117.73,
+      "end": 119.29,
+      "text": "弱火で 十三分"
+    },
+    {
+      "t": 119.33,
+      "end": 122.25,
+      "text": "ぱちぱち鳴って 火を止めて"
+    },
+    {
+      "t": 124.29,
+      "end": 127.63,
+      "text": "十分待った もういいよ"
+    },
+    {
+      "t": 127.91,
+      "end": 127.91,
+      "text": "[Outro - acoustic guitar alone]"
+    },
+    {
+      "t": 127.91,
+      "end": 140.85,
+      "text": "ちゃぶ台に 茶碗ひとつ"
+    },
+    {
+      "t": 143.45,
+      "end": 146.85,
+      "text": "生卵割って しょうゆ少し"
+    },
+    {
+      "t": 149.59,
+      "end": 153.12,
+      "text": "おこげは 最後にとっておく"
+    },
+    {
+      "t": 155.28,
+      "end": 184.5,
+      "text": "炊飯器 もう買わなくていいか"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.14,
+      "end": 27.14,
+      "text": "[Intro - steel-string acoustic guitar alone, beat two left empty]"
+    },
+    {
+      "t": 27.14,
+      "end": 27.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.14,
+      "end": 32.48,
+      "text": "十年使った 炊飯器が"
+    },
+    {
+      "t": 32.48,
+      "end": 36.5,
+      "text": "日曜の朝 ランプが点かない"
+    },
+    {
+      "t": 39.32,
+      "end": 42.48,
+      "text": "棚の奥から 出してきたのは"
+    },
+    {
+      "t": 45.78,
+      "end": 53.57,
+      "text": "冬に一回 鍋をした 土鍋"
+    },
+    {
+      "t": 53.83,
+      "end": 53.83,
+      "text": "[Pre-Chorus - piano enters]"
+    },
+    {
+      "t": 53.83,
+      "end": 56.83,
+      "text": "三十分 お米を 水につけて"
+    },
+    {
+      "t": 59.13,
+      "end": 62.81,
+      "text": "強火で ぐつぐつ 言うまで待つ"
+    },
+    {
+      "t": 64.47,
+      "end": 64.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.47,
+      "end": 65.19,
+      "text": "まだ 蓋は開けない"
+    },
+    {
+      "t": 65.19,
+      "end": 65.73,
+      "text": "弱火で 十三分"
+    },
+    {
+      "t": 65.81,
+      "end": 68.91,
+      "text": "ぱちぱち鳴ったら 火を止めて"
+    },
+    {
+      "t": 71.53,
+      "end": 76.31,
+      "text": "あと十分 まだ開けない"
+    },
+    {
+      "t": 76.31,
+      "end": 76.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.31,
+      "end": 99.87,
+      "text": "一回目は 底が真っ黒"
+    },
+    {
+      "t": 99.89,
+      "end": 101.15,
+      "text": "二回目は スマホ見てて 焦がした"
+    },
+    {
+      "t": 101.15,
+      "end": 102.17,
+      "text": "三回目は 火が強すぎた"
+    },
+    {
+      "t": 102.27,
+      "end": 107.39,
+      "text": "重曹入れて 一晩つけた"
+    },
+    {
+      "t": 107.49,
+      "end": 107.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.49,
+      "end": 108.95,
+      "text": "四回目は 土曜の夜七時"
+    },
+    {
+      "t": 109.17,
+      "end": 114.87,
+      "text": "コンロの前から 一歩も動かない"
+    },
+    {
+      "t": 114.87,
+      "end": 114.87,
+      "text": "[Chorus - full band, brushes then sticks, voice opens up]"
+    },
+    {
+      "t": 114.87,
+      "end": 117.73,
+      "text": "もう 蓋を開けていい"
+    },
+    {
+      "t": 117.73,
+      "end": 119.29,
+      "text": "弱火で 十三分"
+    },
+    {
+      "t": 119.33,
+      "end": 122.25,
+      "text": "ぱちぱち鳴って 火を止めて"
+    },
+    {
+      "t": 124.29,
+      "end": 127.65,
+      "text": "十分待った もういいよ"
+    },
+    {
+      "t": 129.99,
+      "end": 129.99,
+      "text": "[Outro - acoustic guitar alone]"
+    },
+    {
+      "t": 129.99,
+      "end": 140.85,
+      "text": "ちゃぶ台に 茶碗ひとつ"
+    },
+    {
+      "t": 143.45,
+      "end": 146.85,
+      "text": "生卵割って しょうゆ少し"
+    },
+    {
+      "t": 149.61,
+      "end": 153.12,
+      "text": "おこげは 最後にとっておく"
+    },
+    {
+      "t": 155.28,
+      "end": 184.5,
+      "text": "炊飯器 もう買わなくていいか"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

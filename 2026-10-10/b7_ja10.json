@@ -1,0 +1,307 @@
+{
+  "id": "b7_ja10",
+  "title": "二百十七番",
+  "title_source": "scripted",
+  "genre": "Japanese sludge/drone doom",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "crushed, deadpan and bored out of its mind",
+  "persona": "",
+  "subject": "four hours on a ward office bench holding number ticket 217",
+  "caption": "Japanese sludge and drone doom. Downtuned, fuzz-saturated guitar and bass through stacked amps, chords left to ring out into feedback; slow, heavy live drums with huge crash swells and long gaps between hits; a feedback drone section with no fixed meter; one sudden burst into a fast hardcore-punk tempo in the bridge before collapsing back to the crawl. Massive, loud and murky, guitars wall-to-wall, the voice distant and drenched in reverb. Male voice, low monotone chanting of short phrases, breaking into shouts in the fast burst. 60 BPM, C minor. Crushed, deadpan and bored out of its mind. No clean melodic chorus, no growled death-metal vocals, no shoegaze shimmer, no blast beats, no autotune.",
+  "lyrics": "[Intro - short, one downtuned fuzz chord left to ring into feedback]\n\n[Verse 1]\n区役所 二階\n番号札 二百十七番\n画面は 百五十二\nあと 六十五人\n\n[Chorus]\n呼ばれない\n呼ばれない\n長椅子に 背中が 沈む\n\n[Verse 2]\n窓の外が 昼になる\n自販機が 低く 唸る\n百八十 百八十一\n隣の人は 寝た\n\n[Chorus]\n呼ばれない\n呼ばれない\n蛍光灯が 一本 点滅してる\n\n[Bridge - sudden burst into fast hardcore-punk tempo, shouted]\n二百十七番の方\n三番窓口へ\n印鑑 お持ちですか\n持ってない\n\n[Outro - back to the slow crawl, feedback drone, last chord rings out]\n明日の朝\n八時半に 並ぶ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 60,
+    "duration": 235.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "2",
+    "prompt": "Japanese sludge and drone doom. Downtuned, fuzz-saturated guitar and bass through stacked amps, chords left to ring out into feedback; slow, heavy live drums with huge crash swells and long gaps between hits; a feedback drone section with no fixed meter; one sudden burst into a fast hardcore-punk tempo in the bridge before collapsing back to the crawl. Massive, loud and murky, guitars wall-to-wall, the voice distant and drenched in reverb. Male voice, low monotone chanting of short phrases, breaking into shouts in the fast burst. 60 BPM, C minor. Crushed, deadpan and bored out of its mind. No clean melodic chorus, no growled death-metal vocals, no shoegaze shimmer, no blast beats, no autotune.",
+    "lyrics": "[Intro - short, one downtuned fuzz chord left to ring into feedback]\n\n[Verse 1]\n区役所 二階\n番号札 二百十七番\n画面は 百五十二\nあと 六十五人\n\n[Chorus]\n呼ばれない\n呼ばれない\n長椅子に 背中が 沈む\n\n[Verse 2]\n窓の外が 昼になる\n自販機が 低く 唸る\n百八十 百八十一\n隣の人は 寝た\n\n[Chorus]\n呼ばれない\n呼ばれない\n蛍光灯が 一本 点滅してる\n\n[Bridge - sudden burst into fast hardcore-punk tempo, shouted]\n二百十七番の方\n三番窓口へ\n印鑑 お持ちですか\n持ってない\n\n[Outro - back to the slow crawl, feedback drone, last chord rings out]\n明日の朝\n八時半に 並ぶ"
+  },
+  "seed": "3572086571",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.56s**\n- 66.56s per song\n- LM phase (1 song): 14.65s\n- DiT phase (1 song): 51.91s",
+  "task_id": "051efaf2-a128-4b22-a54e-b718adf18c39",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-10T21:03:56.349331+08:00",
+  "audio": "b7_ja10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.3,
+      "end": 32.3,
+      "text": "[Intro - short, one downtuned fuzz chord left to ring into feedback]"
+    },
+    {
+      "t": 32.3,
+      "end": 32.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.3,
+      "end": 34.86,
+      "text": "区役所 二階"
+    },
+    {
+      "t": 37.38,
+      "end": 40.34,
+      "text": "番号札 二百十七番"
+    },
+    {
+      "t": 40.36,
+      "end": 42.96,
+      "text": "画面は 百五十二"
+    },
+    {
+      "t": 43.06,
+      "end": 43.66,
+      "text": "あと 六十五人"
+    },
+    {
+      "t": 43.9,
+      "end": 43.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 43.9,
+      "end": 56.1,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 71.99,
+      "end": 73.37,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 74.91,
+      "end": 82.83,
+      "text": "長椅子に 背中が 沈む"
+    },
+    {
+      "t": 82.97,
+      "end": 82.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.97,
+      "end": 91.11,
+      "text": "窓の外が 昼になる"
+    },
+    {
+      "t": 91.43,
+      "end": 99.37,
+      "text": "自販機が 低く 唸る"
+    },
+    {
+      "t": 99.71,
+      "end": 99.71,
+      "text": "百八十 百八十一"
+    },
+    {
+      "t": 99.71,
+      "end": 123.63,
+      "text": "隣の人は 寝た"
+    },
+    {
+      "t": 124.27,
+      "end": 124.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.27,
+      "end": 127.15,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 127.47,
+      "end": 137.75,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 137.87,
+      "end": 142.69,
+      "text": "蛍光灯が 一本 点滅してる"
+    },
+    {
+      "t": 145.85,
+      "end": 145.85,
+      "text": "[Bridge - sudden burst into fast hardcore-punk tempo, shouted]"
+    },
+    {
+      "t": 145.85,
+      "end": 146.47,
+      "text": "二百十七番の方"
+    },
+    {
+      "t": 146.51,
+      "end": 149.97,
+      "text": "三番窓口へ"
+    },
+    {
+      "t": 150.29,
+      "end": 158.43,
+      "text": "印鑑 お持ちですか"
+    },
+    {
+      "t": 159.97,
+      "end": 161.79,
+      "text": "持ってない"
+    },
+    {
+      "t": 211.56,
+      "end": 211.56,
+      "text": "[Outro - back to the slow crawl, feedback drone, last chord rings out]"
+    },
+    {
+      "t": 211.56,
+      "end": 219.64,
+      "text": "明日の朝"
+    },
+    {
+      "t": 219.8,
+      "end": 227.64,
+      "text": "八時半に 並ぶ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.3,
+      "end": 32.3,
+      "text": "[Intro - short, one downtuned fuzz chord left to ring into feedback]"
+    },
+    {
+      "t": 32.3,
+      "end": 32.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.3,
+      "end": 34.54,
+      "text": "区役所 二階"
+    },
+    {
+      "t": 37.38,
+      "end": 40.06,
+      "text": "番号札 二百十七番"
+    },
+    {
+      "t": 40.36,
+      "end": 42.96,
+      "text": "画面は 百五十二"
+    },
+    {
+      "t": 43.48,
+      "end": 44.18,
+      "text": "あと 六十五人"
+    },
+    {
+      "t": 44.42,
+      "end": 44.42,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.42,
+      "end": 49.24,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 50.72,
+      "end": 52.1,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 55.76,
+      "end": 80.63,
+      "text": "長椅子に 背中が 沈む"
+    },
+    {
+      "t": 80.95,
+      "end": 80.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.95,
+      "end": 91.11,
+      "text": "窓の外が 昼になる"
+    },
+    {
+      "t": 91.45,
+      "end": 100.11,
+      "text": "自販機が 低く 唸る"
+    },
+    {
+      "t": 100.25,
+      "end": 100.25,
+      "text": "百八十 百八十一"
+    },
+    {
+      "t": 100.25,
+      "end": 125.29,
+      "text": "隣の人は 寝た"
+    },
+    {
+      "t": 125.29,
+      "end": 125.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.29,
+      "end": 127.15,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 127.47,
+      "end": 137.99,
+      "text": "呼ばれない"
+    },
+    {
+      "t": 138.27,
+      "end": 142.69,
+      "text": "蛍光灯が 一本 点滅してる"
+    },
+    {
+      "t": 145.87,
+      "end": 145.87,
+      "text": "[Bridge - sudden burst into fast hardcore-punk tempo, shouted]"
+    },
+    {
+      "t": 145.87,
+      "end": 146.45,
+      "text": "二百十七番の方"
+    },
+    {
+      "t": 146.51,
+      "end": 149.99,
+      "text": "三番窓口へ"
+    },
+    {
+      "t": 150.29,
+      "end": 158.43,
+      "text": "印鑑 お持ちですか"
+    },
+    {
+      "t": 159.97,
+      "end": 161.59,
+      "text": "持ってない"
+    },
+    {
+      "t": 161.67,
+      "end": 161.67,
+      "text": "[Outro - back to the slow crawl, feedback drone, last chord rings out]"
+    },
+    {
+      "t": 161.67,
+      "end": 219.7,
+      "text": "明日の朝"
+    },
+    {
+      "t": 221.3,
+      "end": 226.68,
+      "text": "八時半に 並ぶ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

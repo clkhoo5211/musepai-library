@@ -1,0 +1,307 @@
+{
+  "id": "b7_ms06",
+  "title": "Jaga Durian",
+  "title_source": "scripted",
+  "genre": "Caklempong (Negeri Sembilan Minang gong-chime folk)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "rowdy, proud and half asleep",
+  "persona": "",
+  "subject": "three cousins on the night shift in a durian orchard hut in Kuala Pilah, racing each other in the dark to every thud",
+  "caption": "Negeri Sembilan caklempong folk song in the Minangkabau gong-chime tradition. Rows of small bossed kettle-gongs, the handheld caklempong pacik and the rack-mounted caklempong duduk, playing bright interlocking melodic patterns; a double-headed gendang driving a quick dance rhythm; a low hanging gong struck at the end of each phrase; a bansi bamboo flute answering the vocal lines. Open-air and lively, the gong-chimes forward and ringing, the gendang punchy, voices dry. A bright male folk lead singing short lines with a grin in his voice, the ensemble shouting the written sorak replies. 128 BPM, G major. Rowdy, proud and half asleep. No drum kit, no electric guitar, no rock band, no synths, no accordion, no joget violin or 6/8 lilt, no dangdut beat, no autotune.",
+  "lyrics": "[Intro - caklempong interlocking pattern and gendang]\n\n[Verse 1]\nMusim durian, Kuala Pilah, malam Sabtu\nPondok buluh, lampu suluh, ubat nyamuk dua gelung\nDen dengan Pian, dengan Adik Kecik\nTiga sepupu, satu termos kopi o\n\n[Pre-Chorus]\nAngin bertiup, dahan bergoyang\nSemua diam, telinga panjang\n\n[Chorus]\nGedebuk! Siapa dulu?\n(Den dulu! Den dulu!)\nLari dalam gelap, tersadung akar\nDurian jatuh, tiga orang jatuh\n\n[Verse 2]\nPukul dua, Pian dah berdengkur\nAdik Kecik lari, balik bawa kelapa\nPukul tiga, bunyi kuat kat belakang\nEkau tahu siapa? Pian, tergolek dari pondok\n\n[Chorus]\nGedebuk! Siapa dulu?\n(Den dulu! Den dulu!)\nSubuh nanti kira, tiga puluh dua biji\nSatu kelapa, satu Pian, semua masuk bakul\n\n[Outro - caklempong and sorak, one low gong]\nMusim depan, den jaga sorang!\n(Hoi! Hoi!)",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Negeri Sembilan caklempong folk song in the Minangkabau gong-chime tradition. Rows of small bossed kettle-gongs, the handheld caklempong pacik and the rack-mounted caklempong duduk, playing bright interlocking melodic patterns; a double-headed gendang driving a quick dance rhythm; a low hanging gong struck at the end of each phrase; a bansi bamboo flute answering the vocal lines. Open-air and lively, the gong-chimes forward and ringing, the gendang punchy, voices dry. A bright male folk lead singing short lines with a grin in his voice, the ensemble shouting the written sorak replies. 128 BPM, G major. Rowdy, proud and half asleep. No drum kit, no electric guitar, no rock band, no synths, no accordion, no joget violin or 6/8 lilt, no dangdut beat, no autotune.",
+    "lyrics": "[Intro - caklempong interlocking pattern and gendang]\n\n[Verse 1]\nMusim durian, Kuala Pilah, malam Sabtu\nPondok buluh, lampu suluh, ubat nyamuk dua gelung\nDen dengan Pian, dengan Adik Kecik\nTiga sepupu, satu termos kopi o\n\n[Pre-Chorus]\nAngin bertiup, dahan bergoyang\nSemua diam, telinga panjang\n\n[Chorus]\nGedebuk! Siapa dulu?\n(Den dulu! Den dulu!)\nLari dalam gelap, tersadung akar\nDurian jatuh, tiga orang jatuh\n\n[Verse 2]\nPukul dua, Pian dah berdengkur\nAdik Kecik lari, balik bawa kelapa\nPukul tiga, bunyi kuat kat belakang\nEkau tahu siapa? Pian, tergolek dari pondok\n\n[Chorus]\nGedebuk! Siapa dulu?\n(Den dulu! Den dulu!)\nSubuh nanti kira, tiga puluh dua biji\nSatu kelapa, satu Pian, semua masuk bakul\n\n[Outro - caklempong and sorak, one low gong]\nMusim depan, den jaga sorang!\n(Hoi! Hoi!)"
+  },
+  "seed": "2035705639",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.01s**\n- 59.01s per song\n- LM phase (1 song): 7.94s\n- DiT phase (1 song): 51.07s",
+  "task_id": "e0c8100b-13ba-490e-8f7b-34590d3755b5",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T19:30:51.629018+08:00",
+  "audio": "b7_ms06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.98,
+      "end": 34.98,
+      "text": "[Intro - caklempong interlocking pattern and gendang]"
+    },
+    {
+      "t": 34.98,
+      "end": 34.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.98,
+      "end": 39.08,
+      "text": "Musim durian, Kuala Pilah, malam Sabtu"
+    },
+    {
+      "t": 40.36,
+      "end": 46.88,
+      "text": "Pondok buluh, lampu suluh, ubat nyamuk dua gelung"
+    },
+    {
+      "t": 47.14,
+      "end": 52.29,
+      "text": "Den dengan Pian, dengan Adik Kecik"
+    },
+    {
+      "t": 53.67,
+      "end": 59.85,
+      "text": "Tiga sepupu, satu termos kopi o"
+    },
+    {
+      "t": 61.47,
+      "end": 61.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.47,
+      "end": 63.67,
+      "text": "Angin bertiup, dahan bergoyang"
+    },
+    {
+      "t": 63.89,
+      "end": 67.61,
+      "text": "Semua diam, telinga panjang"
+    },
+    {
+      "t": 68.19,
+      "end": 68.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.19,
+      "end": 70.89,
+      "text": "Gedebuk! Siapa dulu?"
+    },
+    {
+      "t": 71.93,
+      "end": 74.61,
+      "text": "(Den dulu! Den dulu!)"
+    },
+    {
+      "t": 75.67,
+      "end": 80.97,
+      "text": "Lari dalam gelap, tersadung akar"
+    },
+    {
+      "t": 82.01,
+      "end": 94.23,
+      "text": "Durian jatuh, tiga orang jatuh"
+    },
+    {
+      "t": 94.43,
+      "end": 94.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.43,
+      "end": 98.89,
+      "text": "Pukul dua, Pian dah berdengkur"
+    },
+    {
+      "t": 101.31,
+      "end": 105.83,
+      "text": "Adik Kecik lari, balik bawa kelapa"
+    },
+    {
+      "t": 108.71,
+      "end": 111.67,
+      "text": "Pukul tiga, bunyi kuat kat belakang"
+    },
+    {
+      "t": 111.67,
+      "end": 118.23,
+      "text": "Ekau tahu siapa? Pian, tergolek dari pondok"
+    },
+    {
+      "t": 118.65,
+      "end": 118.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.65,
+      "end": 121.35,
+      "text": "Gedebuk! Siapa dulu?"
+    },
+    {
+      "t": 122.39,
+      "end": 125.07,
+      "text": "(Den dulu! Den dulu!)"
+    },
+    {
+      "t": 125.63,
+      "end": 129.27,
+      "text": "Subuh nanti kira, tiga puluh dua biji"
+    },
+    {
+      "t": 129.81,
+      "end": 148.48,
+      "text": "Satu kelapa, satu Pian, semua masuk bakul"
+    },
+    {
+      "t": 152.0,
+      "end": 152.0,
+      "text": "[Outro - caklempong and sorak, one low gong]"
+    },
+    {
+      "t": 152.0,
+      "end": 157.6,
+      "text": "Musim depan, den jaga sorang!"
+    },
+    {
+      "t": 159.06,
+      "end": 168.9,
+      "text": "(Hoi! Hoi!)"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.98,
+      "end": 34.98,
+      "text": "[Intro - caklempong interlocking pattern and gendang]"
+    },
+    {
+      "t": 34.98,
+      "end": 34.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.98,
+      "end": 39.08,
+      "text": "Musim durian, Kuala Pilah, malam Sabtu"
+    },
+    {
+      "t": 40.34,
+      "end": 46.88,
+      "text": "Pondok buluh, lampu suluh, ubat nyamuk dua gelung"
+    },
+    {
+      "t": 47.14,
+      "end": 52.31,
+      "text": "Den dengan Pian, dengan Adik Kecik"
+    },
+    {
+      "t": 53.67,
+      "end": 59.81,
+      "text": "Tiga sepupu, satu termos kopi o"
+    },
+    {
+      "t": 61.45,
+      "end": 61.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.45,
+      "end": 63.69,
+      "text": "Angin bertiup, dahan bergoyang"
+    },
+    {
+      "t": 63.87,
+      "end": 67.61,
+      "text": "Semua diam, telinga panjang"
+    },
+    {
+      "t": 68.19,
+      "end": 68.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.19,
+      "end": 70.89,
+      "text": "Gedebuk! Siapa dulu?"
+    },
+    {
+      "t": 71.93,
+      "end": 74.61,
+      "text": "(Den dulu! Den dulu!)"
+    },
+    {
+      "t": 75.67,
+      "end": 81.13,
+      "text": "Lari dalam gelap, tersadung akar"
+    },
+    {
+      "t": 82.01,
+      "end": 91.47,
+      "text": "Durian jatuh, tiga orang jatuh"
+    },
+    {
+      "t": 94.41,
+      "end": 94.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.41,
+      "end": 98.93,
+      "text": "Pukul dua, Pian dah berdengkur"
+    },
+    {
+      "t": 101.31,
+      "end": 105.83,
+      "text": "Adik Kecik lari, balik bawa kelapa"
+    },
+    {
+      "t": 108.71,
+      "end": 111.75,
+      "text": "Pukul tiga, bunyi kuat kat belakang"
+    },
+    {
+      "t": 111.75,
+      "end": 118.23,
+      "text": "Ekau tahu siapa? Pian, tergolek dari pondok"
+    },
+    {
+      "t": 118.65,
+      "end": 118.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.65,
+      "end": 121.35,
+      "text": "Gedebuk! Siapa dulu?"
+    },
+    {
+      "t": 122.39,
+      "end": 125.09,
+      "text": "(Den dulu! Den dulu!)"
+    },
+    {
+      "t": 125.65,
+      "end": 129.29,
+      "text": "Subuh nanti kira, tiga puluh dua biji"
+    },
+    {
+      "t": 129.83,
+      "end": 148.48,
+      "text": "Satu kelapa, satu Pian, semua masuk bakul"
+    },
+    {
+      "t": 152.0,
+      "end": 152.0,
+      "text": "[Outro - caklempong and sorak, one low gong]"
+    },
+    {
+      "t": 152.0,
+      "end": 162.34,
+      "text": "Musim depan, den jaga sorang!"
+    },
+    {
+      "t": 162.7,
+      "end": 168.92,
+      "text": "(Hoi! Hoi!)"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

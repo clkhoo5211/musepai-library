@@ -1,0 +1,357 @@
+{
+  "id": "b7_ms05",
+  "title": "Tunggu Kamek Kat Tangga",
+  "title_source": "scripted",
+  "genre": "Gendang Melayu Sarawak (bermukun pantun-drum)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "teasing, flirty and quick on its feet",
+  "persona": "",
+  "subject": "the drummer-singer behind the batik curtain teasing, in pantun, the young man from the next kampung who turns up every gendang night in his cousin's oversized shoes",
+  "caption": "Sarawak Malay gendang music in the bermukun pantun-exchange style. The seh gendang, a seated female singer behind a batik curtain, plays the gendang hand drums herself, dry slaps and open booming strokes in a quick interlocking dance rhythm that drives every section; a biola violin opens with a short free-time phrase before the drums enter, then answers the voice between pantun lines; no chordal instrument at all, the drums and voices carry the song. Live and roomy like a village hall at night, the hand drums and voices forward, the violin a step behind. A bright, quick-witted female singer trading teasing pantun quatrains with a playful male voice, both conversational with laughter in the delivery, and a small group shouting the written replies. 112 BPM, G minor. Teasing, flirty and quick on its feet. No accordion, no drum kit, no electric bass, no joget or ronggeng lilt, no slow dondang sayang sway, no pop synths, no autotune.",
+  "lyrics": "[Intro - short free-time biola phrase, then the gendang enters]\n\n[Verse 1 - Female drummer-singer]\nPergi ke pekan membeli tali,\nTali diikat di pokok nangka;\nKasut abang besar sekali,\nPinjam sepupu dari Mukah?\n\n[Verse 2 - Male dancer answers]\nBuah rambai di tepi titi,\nDimakan tupai dua biji;\nKasut longgar abang ikat mati,\nAsal dapat dengar adik menyanyi.\n\n[Chorus - Female, group answers]\nMenandak, abang, menandak\n(Menandak lagi!)\nKalau kasut tercabut, jangan lari balik\nGendang ni tak tunggu sesiapa\n\n[Verse 3 - Female drummer-singer]\nKain batik digantung tinggi,\nTirai dipasang di tengah dewan;\nKasut abang tercampak ke kiri,\nJatuh ke dalam pinggan hidangan.\n\n[Bridge - drums drop out, biola and voice]\nTirai ni nipis, abang, kamek nampak semua\nAbang datang bukan sebab nak menandak pun\n\n[Chorus - Female, group answers]\nMenandak, abang, menandak\n(Menandak lagi!)\nKasut sebelah pun tak apa\nLepas gendang, tunggu kamek kat tangga\n\n[Outro - gendang alone, sudden stop]\nPulangkan kasut sepupu tu esok pagi!\n\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Sarawak Malay gendang music in the bermukun pantun-exchange style. The seh gendang, a seated female singer behind a batik curtain, plays the gendang hand drums herself, dry slaps and open booming strokes in a quick interlocking dance rhythm that drives every section; a biola violin opens with a short free-time phrase before the drums enter, then answers the voice between pantun lines; no chordal instrument at all, the drums and voices carry the song. Live and roomy like a village hall at night, the hand drums and voices forward, the violin a step behind. A bright, quick-witted female singer trading teasing pantun quatrains with a playful male voice, both conversational with laughter in the delivery, and a small group shouting the written replies. 112 BPM, G minor. Teasing, flirty and quick on its feet. No accordion, no drum kit, no electric bass, no joget or ronggeng lilt, no slow dondang sayang sway, no pop synths, no autotune.",
+    "lyrics": "[Intro - short free-time biola phrase, then the gendang enters]\n\n[Verse 1 - Female drummer-singer]\nPergi ke pekan membeli tali,\nTali diikat di pokok nangka;\nKasut abang besar sekali,\nPinjam sepupu dari Mukah?\n\n[Verse 2 - Male dancer answers]\nBuah rambai di tepi titi,\nDimakan tupai dua biji;\nKasut longgar abang ikat mati,\nAsal dapat dengar adik menyanyi.\n\n[Chorus - Female, group answers]\nMenandak, abang, menandak\n(Menandak lagi!)\nKalau kasut tercabut, jangan lari balik\nGendang ni tak tunggu sesiapa\n\n[Verse 3 - Female drummer-singer]\nKain batik digantung tinggi,\nTirai dipasang di tengah dewan;\nKasut abang tercampak ke kiri,\nJatuh ke dalam pinggan hidangan.\n\n[Bridge - drums drop out, biola and voice]\nTirai ni nipis, abang, kamek nampak semua\nAbang datang bukan sebab nak menandak pun\n\n[Chorus - Female, group answers]\nMenandak, abang, menandak\n(Menandak lagi!)\nKasut sebelah pun tak apa\nLepas gendang, tunggu kamek kat tangga\n\n[Outro - gendang alone, sudden stop]\nPulangkan kasut sepupu tu esok pagi!\n\n[Song ends abruptly]"
+  },
+  "seed": "3857131248",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 54.25s**\n- 54.25s per song\n- LM phase (1 song): 2.41s\n- DiT phase (1 song): 51.84s",
+  "task_id": "718b41cb-4f90-4e1f-8a60-8dccded0064c",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-10-10T19:29:31.532185+08:00",
+  "audio": "b7_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.02,
+      "end": 18.02,
+      "text": "[Intro - short free-time biola phrase, then the gendang enters]"
+    },
+    {
+      "t": 18.02,
+      "end": 18.02,
+      "text": "[Verse 1 - Female drummer-singer]"
+    },
+    {
+      "t": 18.02,
+      "end": 21.6,
+      "text": "Pergi ke pekan membeli tali,"
+    },
+    {
+      "t": 26.64,
+      "end": 30.26,
+      "text": "Tali diikat di pokok nangka;"
+    },
+    {
+      "t": 34.84,
+      "end": 42.36,
+      "text": "Kasut abang besar sekali,"
+    },
+    {
+      "t": 43.78,
+      "end": 47.28,
+      "text": "Pinjam sepupu dari Mukah?"
+    },
+    {
+      "t": 49.36,
+      "end": 49.36,
+      "text": "[Verse 2 - Male dancer answers]"
+    },
+    {
+      "t": 49.36,
+      "end": 51.67,
+      "text": "Buah rambai di tepi titi,"
+    },
+    {
+      "t": 52.77,
+      "end": 55.81,
+      "text": "Dimakan tupai dua biji;"
+    },
+    {
+      "t": 56.71,
+      "end": 60.07,
+      "text": "Kasut longgar abang ikat mati,"
+    },
+    {
+      "t": 61.25,
+      "end": 64.29,
+      "text": "Asal dapat dengar adik menyanyi."
+    },
+    {
+      "t": 65.43,
+      "end": 65.43,
+      "text": "[Chorus - Female, group answers]"
+    },
+    {
+      "t": 65.43,
+      "end": 68.21,
+      "text": "Menandak, abang, menandak"
+    },
+    {
+      "t": 68.21,
+      "end": 68.85,
+      "text": "(Menandak lagi!)"
+    },
+    {
+      "t": 69.37,
+      "end": 75.67,
+      "text": "Kalau kasut tercabut, jangan lari balik"
+    },
+    {
+      "t": 78.31,
+      "end": 81.09,
+      "text": "Gendang ni tak tunggu sesiapa"
+    },
+    {
+      "t": 83.53,
+      "end": 83.53,
+      "text": "[Verse 3 - Female drummer-singer]"
+    },
+    {
+      "t": 83.53,
+      "end": 90.21,
+      "text": "Kain batik digantung tinggi,"
+    },
+    {
+      "t": 90.89,
+      "end": 93.99,
+      "text": "Tirai dipasang di tengah dewan;"
+    },
+    {
+      "t": 93.99,
+      "end": 97.19,
+      "text": "Kasut abang tercampak ke kiri,"
+    },
+    {
+      "t": 97.19,
+      "end": 101.71,
+      "text": "Jatuh ke dalam pinggan hidangan."
+    },
+    {
+      "t": 101.97,
+      "end": 101.97,
+      "text": "[Bridge - drums drop out, biola and voice]"
+    },
+    {
+      "t": 101.97,
+      "end": 105.81,
+      "text": "Tirai ni nipis, abang, kamek nampak semua"
+    },
+    {
+      "t": 106.23,
+      "end": 110.51,
+      "text": "Abang datang bukan sebab nak menandak pun"
+    },
+    {
+      "t": 110.59,
+      "end": 110.59,
+      "text": "[Chorus - Female, group answers]"
+    },
+    {
+      "t": 110.59,
+      "end": 113.85,
+      "text": "Menandak, abang, menandak"
+    },
+    {
+      "t": 113.97,
+      "end": 115.95,
+      "text": "(Menandak lagi!)"
+    },
+    {
+      "t": 117.41,
+      "end": 142.17,
+      "text": "Kasut sebelah pun tak apa"
+    },
+    {
+      "t": 143.13,
+      "end": 152.0,
+      "text": "Lepas gendang, tunggu kamek kat tangga"
+    },
+    {
+      "t": 153.72,
+      "end": 153.72,
+      "text": "[Outro - gendang alone, sudden stop]"
+    },
+    {
+      "t": 153.72,
+      "end": 176.8,
+      "text": "Pulangkan kasut sepupu tu esok pagi!"
+    },
+    {
+      "t": 176.8,
+      "end": 176.8,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.0,
+      "end": 18.0,
+      "text": "[Intro - short free-time biola phrase, then the gendang enters]"
+    },
+    {
+      "t": 18.0,
+      "end": 18.0,
+      "text": "[Verse 1 - Female drummer-singer]"
+    },
+    {
+      "t": 18.0,
+      "end": 21.6,
+      "text": "Pergi ke pekan membeli tali,"
+    },
+    {
+      "t": 26.64,
+      "end": 30.26,
+      "text": "Tali diikat di pokok nangka;"
+    },
+    {
+      "t": 34.84,
+      "end": 42.36,
+      "text": "Kasut abang besar sekali,"
+    },
+    {
+      "t": 43.78,
+      "end": 47.3,
+      "text": "Pinjam sepupu dari Mukah?"
+    },
+    {
+      "t": 49.36,
+      "end": 49.36,
+      "text": "[Verse 2 - Male dancer answers]"
+    },
+    {
+      "t": 49.36,
+      "end": 51.65,
+      "text": "Buah rambai di tepi titi,"
+    },
+    {
+      "t": 52.77,
+      "end": 55.81,
+      "text": "Dimakan tupai dua biji;"
+    },
+    {
+      "t": 56.69,
+      "end": 60.05,
+      "text": "Kasut longgar abang ikat mati,"
+    },
+    {
+      "t": 61.25,
+      "end": 64.29,
+      "text": "Asal dapat dengar adik menyanyi."
+    },
+    {
+      "t": 65.43,
+      "end": 65.43,
+      "text": "[Chorus - Female, group answers]"
+    },
+    {
+      "t": 65.43,
+      "end": 68.21,
+      "text": "Menandak, abang, menandak"
+    },
+    {
+      "t": 68.21,
+      "end": 69.37,
+      "text": "(Menandak lagi!)"
+    },
+    {
+      "t": 69.37,
+      "end": 76.27,
+      "text": "Kalau kasut tercabut, jangan lari balik"
+    },
+    {
+      "t": 78.31,
+      "end": 81.09,
+      "text": "Gendang ni tak tunggu sesiapa"
+    },
+    {
+      "t": 83.53,
+      "end": 83.53,
+      "text": "[Verse 3 - Female drummer-singer]"
+    },
+    {
+      "t": 83.53,
+      "end": 90.21,
+      "text": "Kain batik digantung tinggi,"
+    },
+    {
+      "t": 90.89,
+      "end": 94.01,
+      "text": "Tirai dipasang di tengah dewan;"
+    },
+    {
+      "t": 94.01,
+      "end": 97.19,
+      "text": "Kasut abang tercampak ke kiri,"
+    },
+    {
+      "t": 97.19,
+      "end": 101.71,
+      "text": "Jatuh ke dalam pinggan hidangan."
+    },
+    {
+      "t": 101.97,
+      "end": 101.97,
+      "text": "[Bridge - drums drop out, biola and voice]"
+    },
+    {
+      "t": 101.97,
+      "end": 105.83,
+      "text": "Tirai ni nipis, abang, kamek nampak semua"
+    },
+    {
+      "t": 106.23,
+      "end": 110.49,
+      "text": "Abang datang bukan sebab nak menandak pun"
+    },
+    {
+      "t": 110.59,
+      "end": 110.59,
+      "text": "[Chorus - Female, group answers]"
+    },
+    {
+      "t": 110.59,
+      "end": 119.55,
+      "text": "Menandak, abang, menandak"
+    },
+    {
+      "t": 134.97,
+      "end": 137.59,
+      "text": "(Menandak lagi!)"
+    },
+    {
+      "t": 137.59,
+      "end": 142.19,
+      "text": "Kasut sebelah pun tak apa"
+    },
+    {
+      "t": 143.13,
+      "end": 147.75,
+      "text": "Lepas gendang, tunggu kamek kat tangga"
+    },
+    {
+      "t": 150.82,
+      "end": 150.82,
+      "text": "[Outro - gendang alone, sudden stop]"
+    },
+    {
+      "t": 150.82,
+      "end": 156.5,
+      "text": "Pulangkan kasut sepupu tu esok pagi!"
+    },
+    {
+      "t": 156.5,
+      "end": 156.5,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "b7_ms10",
+  "title": "Musim Tengkujuh",
+  "title_source": "scripted",
+  "genre": "Gamelan Melayu (Terengganu court gamelan) song",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "tender, unhurried and content",
+  "persona": "",
+  "subject": "a Terengganu fisherman's wife weaving songket at her loom through the monsoon while her husband, boat beached, mends the same net beside her",
+  "caption": "Malay court gamelan song in the Terengganu gamelan Melayu tradition, adapted for voice. A keromong of small kettle-gongs playing a steady interlocking melody in a five-note gamelan tuning; a wooden gambang running soft quick patterns; saron kecil and saron besar metallophones carrying the main melody in slow even strokes; a gendang hand drum leading every change of tempo; kenong and a pair of large hanging gongs marking the end of each cycle. Warm and roomy like a wooden palace hall, the metallophones forward and ringing, the gongs deep and long, the voice close and plain. A soft, restrained female voice in a low-middle register, unornamented and unhurried, placed over the gong cycles. 72 BPM, D minor. Tender, unhurried and content. No drum kit, no electric bass, no piano, no pop strings or ballad chords, no Balinese gong kebyar shimmer, no autotune, no melismatic runs.",
+  "lyrics": "[Intro - saron melody and one gong stroke]\n\n[Verse 1]\nBulan dua belas, laut dah tutup\nPerahu abang naik atas pasir, berselimut kanvas\nAbang duduk kat beranda, jala atas riba\nAku duduk depan kek tenun, benang emas satu-satu\n\n[Chorus]\nHujan atas atap zink\nAbang sirat, aku tenun\nTak siapa bercakap\nTapi dua-dua tak nak bangun\n\n[Verse 2]\nJala tu dah elok, abang tampal lagi\nLubang kecik sebesar jari, abang kata bahaya\nAku tahu abang cuma nak duduk sebelah aku\nTiga puluh tahun, laut ambil abang separuh tahun\n\n[Bridge - gamelan thins to gambang and voice]\nBila angin berubah, abang turun ke laut\nAku simpan bunyi jala ni dalam kepala\n\n[Chorus]\nHujan atas atap zink\nAbang sirat, aku tenun\nSongket ni siap bulan tiga\nAbang pun naik perahu bulan tiga\n\n[Outro - the gong cycle closes]\nHujan lagi, abang\nDuduk lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 220.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Malay court gamelan song in the Terengganu gamelan Melayu tradition, adapted for voice. A keromong of small kettle-gongs playing a steady interlocking melody in a five-note gamelan tuning; a wooden gambang running soft quick patterns; saron kecil and saron besar metallophones carrying the main melody in slow even strokes; a gendang hand drum leading every change of tempo; kenong and a pair of large hanging gongs marking the end of each cycle. Warm and roomy like a wooden palace hall, the metallophones forward and ringing, the gongs deep and long, the voice close and plain. A soft, restrained female voice in a low-middle register, unornamented and unhurried, placed over the gong cycles. 72 BPM, D minor. Tender, unhurried and content. No drum kit, no electric bass, no piano, no pop strings or ballad chords, no Balinese gong kebyar shimmer, no autotune, no melismatic runs.",
+    "lyrics": "[Intro - saron melody and one gong stroke]\n\n[Verse 1]\nBulan dua belas, laut dah tutup\nPerahu abang naik atas pasir, berselimut kanvas\nAbang duduk kat beranda, jala atas riba\nAku duduk depan kek tenun, benang emas satu-satu\n\n[Chorus]\nHujan atas atap zink\nAbang sirat, aku tenun\nTak siapa bercakap\nTapi dua-dua tak nak bangun\n\n[Verse 2]\nJala tu dah elok, abang tampal lagi\nLubang kecik sebesar jari, abang kata bahaya\nAku tahu abang cuma nak duduk sebelah aku\nTiga puluh tahun, laut ambil abang separuh tahun\n\n[Bridge - gamelan thins to gambang and voice]\nBila angin berubah, abang turun ke laut\nAku simpan bunyi jala ni dalam kepala\n\n[Chorus]\nHujan atas atap zink\nAbang sirat, aku tenun\nSongket ni siap bulan tiga\nAbang pun naik perahu bulan tiga\n\n[Outro - the gong cycle closes]\nHujan lagi, abang\nDuduk lagi"
+  },
+  "seed": "3290341317",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.41s**\n- 60.41s per song\n- LM phase (1 song): 7.11s\n- DiT phase (1 song): 53.29s",
+  "task_id": "8c3d07f2-62e7-4b60-b13a-383155448e7e",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T19:36:12.351410+08:00",
+  "audio": "b7_ms10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Intro - saron melody and one gong stroke]"
+    },
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.54,
+      "end": 32.58,
+      "text": "Bulan dua belas, laut dah tutup"
+    },
+    {
+      "t": 32.62,
+      "end": 45.72,
+      "text": "Perahu abang naik atas pasir, berselimut kanvas"
+    },
+    {
+      "t": 45.76,
+      "end": 50.8,
+      "text": "Abang duduk kat beranda, jala atas riba"
+    },
+    {
+      "t": 52.38,
+      "end": 58.73,
+      "text": "Aku duduk depan kek tenun, benang emas satu-satu"
+    },
+    {
+      "t": 59.01,
+      "end": 59.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.01,
+      "end": 62.19,
+      "text": "Hujan atas atap zink"
+    },
+    {
+      "t": 62.21,
+      "end": 64.39,
+      "text": "Abang sirat, aku tenun"
+    },
+    {
+      "t": 64.41,
+      "end": 67.25,
+      "text": "Tak siapa bercakap"
+    },
+    {
+      "t": 67.25,
+      "end": 72.85,
+      "text": "Tapi dua-dua tak nak bangun"
+    },
+    {
+      "t": 73.15,
+      "end": 73.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.15,
+      "end": 78.35,
+      "text": "Jala tu dah elok, abang tampal lagi"
+    },
+    {
+      "t": 79.89,
+      "end": 86.27,
+      "text": "Lubang kecik sebesar jari, abang kata bahaya"
+    },
+    {
+      "t": 86.63,
+      "end": 91.49,
+      "text": "Aku tahu abang cuma nak duduk sebelah aku"
+    },
+    {
+      "t": 92.37,
+      "end": 98.35,
+      "text": "Tiga puluh tahun, laut ambil abang separuh tahun"
+    },
+    {
+      "t": 100.73,
+      "end": 100.73,
+      "text": "[Bridge - gamelan thins to gambang and voice]"
+    },
+    {
+      "t": 100.73,
+      "end": 111.33,
+      "text": "Bila angin berubah, abang turun ke laut"
+    },
+    {
+      "t": 112.49,
+      "end": 116.89,
+      "text": "Aku simpan bunyi jala ni dalam kepala"
+    },
+    {
+      "t": 116.89,
+      "end": 116.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.89,
+      "end": 117.81,
+      "text": "Hujan atas atap zink"
+    },
+    {
+      "t": 117.89,
+      "end": 120.11,
+      "text": "Abang sirat, aku tenun"
+    },
+    {
+      "t": 121.49,
+      "end": 125.85,
+      "text": "Songket ni siap bulan tiga"
+    },
+    {
+      "t": 128.05,
+      "end": 132.47,
+      "text": "Abang pun naik perahu bulan tiga"
+    },
+    {
+      "t": 137.33,
+      "end": 137.33,
+      "text": "[Outro - the gong cycle closes]"
+    },
+    {
+      "t": 137.33,
+      "end": 182.58,
+      "text": "Hujan lagi, abang"
+    },
+    {
+      "t": 194.88,
+      "end": 196.26,
+      "text": "Duduk lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 5.56,
+      "end": 5.56,
+      "text": "[Intro - saron melody and one gong stroke]"
+    },
+    {
+      "t": 5.56,
+      "end": 5.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.56,
+      "end": 12.32,
+      "text": "Bulan dua belas, laut dah tutup"
+    },
+    {
+      "t": 13.42,
+      "end": 45.82,
+      "text": "Perahu abang naik atas pasir, berselimut kanvas"
+    },
+    {
+      "t": 45.86,
+      "end": 50.8,
+      "text": "Abang duduk kat beranda, jala atas riba"
+    },
+    {
+      "t": 52.42,
+      "end": 58.73,
+      "text": "Aku duduk depan kek tenun, benang emas satu-satu"
+    },
+    {
+      "t": 61.43,
+      "end": 61.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.43,
+      "end": 62.09,
+      "text": "Hujan atas atap zink"
+    },
+    {
+      "t": 62.09,
+      "end": 62.83,
+      "text": "Abang sirat, aku tenun"
+    },
+    {
+      "t": 62.83,
+      "end": 66.53,
+      "text": "Tak siapa bercakap"
+    },
+    {
+      "t": 66.91,
+      "end": 72.85,
+      "text": "Tapi dua-dua tak nak bangun"
+    },
+    {
+      "t": 73.13,
+      "end": 73.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.13,
+      "end": 78.35,
+      "text": "Jala tu dah elok, abang tampal lagi"
+    },
+    {
+      "t": 79.89,
+      "end": 86.27,
+      "text": "Lubang kecik sebesar jari, abang kata bahaya"
+    },
+    {
+      "t": 86.63,
+      "end": 91.51,
+      "text": "Aku tahu abang cuma nak duduk sebelah aku"
+    },
+    {
+      "t": 92.37,
+      "end": 98.35,
+      "text": "Tiga puluh tahun, laut ambil abang separuh tahun"
+    },
+    {
+      "t": 98.35,
+      "end": 98.35,
+      "text": "[Bridge - gamelan thins to gambang and voice]"
+    },
+    {
+      "t": 98.35,
+      "end": 103.59,
+      "text": "Bila angin berubah, abang turun ke laut"
+    },
+    {
+      "t": 103.61,
+      "end": 116.87,
+      "text": "Aku simpan bunyi jala ni dalam kepala"
+    },
+    {
+      "t": 116.87,
+      "end": 116.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.87,
+      "end": 117.81,
+      "text": "Hujan atas atap zink"
+    },
+    {
+      "t": 117.89,
+      "end": 120.13,
+      "text": "Abang sirat, aku tenun"
+    },
+    {
+      "t": 121.49,
+      "end": 125.85,
+      "text": "Songket ni siap bulan tiga"
+    },
+    {
+      "t": 128.05,
+      "end": 132.49,
+      "text": "Abang pun naik perahu bulan tiga"
+    },
+    {
+      "t": 137.31,
+      "end": 137.31,
+      "text": "[Outro - the gong cycle closes]"
+    },
+    {
+      "t": 137.31,
+      "end": 182.58,
+      "text": "Hujan lagi, abang"
+    },
+    {
+      "t": 188.18,
+      "end": 196.28,
+      "text": "Duduk lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

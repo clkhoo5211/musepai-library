@@ -1,0 +1,489 @@
+{
+  "id": "b7_ja06",
+  "title": "スヌーズ九回目",
+  "title_source": "scripted",
+  "genre": "J-core rhythm-game hardcore",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "frantic, silly and wide awake",
+  "persona": "",
+  "subject": "the ninth press of the snooze button and a ten-minute sprint for the 7:02 train",
+  "caption": "J-core, Japanese rhythm-game hardcore techno. A distorted gabber kick on every beat with its tail tuned to the key; happy-hardcore piano stabs on the offbeats; a wide supersaw chord stack in the chorus; a squelching 303-style acid line in the verses; a breakdown of piano and supersaw with no kick, then a reverse-cymbal re-entry. Loud, bright and compressed, the kick and the voice forward, supersaws wide. High, bright young female voice, sung live and clearly in a cute anime register, short fast hook lines repeated. 190 BPM, F# minor. Frantic, silly and wide awake. No chopped voice samples, no sped-up nightcore voice, no dubstep wobble, no trap, no autotune, no slow ballad section.",
+  "lyrics": "[Intro - short supersaw stab and distorted kick roll]\n\n[Verse 1]\n六時ちょうどに 鳴ったはず\n五分ごとに ボタン押して\n気づけば 六時四十五分\nこれが 九回目の スヌーズ\n\n[Pre-Chorus]\n起きて 起きて 起きて 起きて\n靴下 左右 ちがっても\n\n[Chorus]\nスヌーズ九回目 走れ 走れ\n眉毛は 片方だけ 描いた\n七時二分の 電車まで\nあと十分 あと十分\n\n[Breakdown - piano and supersaw, no kick]\nほんとは 一回目で 起きてた\n目だけ 閉じて 聞いてた\n\n[Verse 2]\nトースト くわえて 鍵かけて\n戻って ガスを 確かめて\n階段 二段飛ばしで 下りて\n定期は 部屋に 置いてきた\n\n[Chorus]\nスヌーズ九回目 走れ 走れ\n改札 ピンポーン 残高不足\n七時二分の 電車が行く\nあと一本 あと一本\n\n[Outro - kick drops out, alarm-like synth bleeps]\n明日は 目覚まし 三個にする\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 190,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "J-core, Japanese rhythm-game hardcore techno. A distorted gabber kick on every beat with its tail tuned to the key; happy-hardcore piano stabs on the offbeats; a wide supersaw chord stack in the chorus; a squelching 303-style acid line in the verses; a breakdown of piano and supersaw with no kick, then a reverse-cymbal re-entry. Loud, bright and compressed, the kick and the voice forward, supersaws wide. High, bright young female voice, sung live and clearly in a cute anime register, short fast hook lines repeated. 190 BPM, F# minor. Frantic, silly and wide awake. No chopped voice samples, no sped-up nightcore voice, no dubstep wobble, no trap, no autotune, no slow ballad section.",
+    "lyrics": "[Intro - short supersaw stab and distorted kick roll]\n\n[Verse 1]\n六時ちょうどに 鳴ったはず\n五分ごとに ボタン押して\n気づけば 六時四十五分\nこれが 九回目の スヌーズ\n\n[Pre-Chorus]\n起きて 起きて 起きて 起きて\n靴下 左右 ちがっても\n\n[Chorus]\nスヌーズ九回目 走れ 走れ\n眉毛は 片方だけ 描いた\n七時二分の 電車まで\nあと十分 あと十分\n\n[Breakdown - piano and supersaw, no kick]\nほんとは 一回目で 起きてた\n目だけ 閉じて 聞いてた\n\n[Verse 2]\nトースト くわえて 鍵かけて\n戻って ガスを 確かめて\n階段 二段飛ばしで 下りて\n定期は 部屋に 置いてきた\n\n[Chorus]\nスヌーズ九回目 走れ 走れ\n改札 ピンポーン 残高不足\n七時二分の 電車が行く\nあと一本 あと一本\n\n[Outro - kick drops out, alarm-like synth bleeps]\n明日は 目覚まし 三個にする\n[Song ends abruptly]"
+  },
+  "seed": "3432234599",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.83s**\n- 59.83s per song\n- LM phase (1 song): 16.23s\n- DiT phase (1 song): 43.59s",
+  "task_id": "426c91a9-c569-4381-bd7c-6515dd2cb0c6",
+  "elapsed_s": 80.7,
+  "generated_at": "2026-10-10T20:57:45.485306+08:00",
+  "audio": "b7_ja06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.28,
+      "end": 16.28,
+      "text": "[Intro - short supersaw stab and distorted kick roll]"
+    },
+    {
+      "t": 16.28,
+      "end": 16.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.28,
+      "end": 20.98,
+      "text": "六時ちょうどに 鳴ったはず"
+    },
+    {
+      "t": 21.06,
+      "end": 23.72,
+      "text": "五分ごとに ボタン押して"
+    },
+    {
+      "t": 25.64,
+      "end": 27.14,
+      "text": "気づけば 六時四十五分"
+    },
+    {
+      "t": 27.26,
+      "end": 32.02,
+      "text": "これが 九回目の スヌーズ"
+    },
+    {
+      "t": 32.12,
+      "end": 32.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.12,
+      "end": 35.58,
+      "text": "起きて 起きて 起きて 起きて"
+    },
+    {
+      "t": 35.12,
+      "end": 39.66,
+      "text": "靴下 左右 ちがっても"
+    },
+    {
+      "t": 39.86,
+      "end": 39.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.86,
+      "end": 44.28,
+      "text": "スヌーズ九回目 走れ 走れ"
+    },
+    {
+      "t": 41.76,
+      "end": 43.94,
+      "text": "眉毛は 片方だけ 描いた"
+    },
+    {
+      "t": 43.96,
+      "end": 45.69,
+      "text": "七時二分の 電車まで"
+    },
+    {
+      "t": 45.73,
+      "end": 46.93,
+      "text": "あと十分 あと十分"
+    },
+    {
+      "t": 46.97,
+      "end": 46.97,
+      "text": "[Breakdown - piano and supersaw, no kick]"
+    },
+    {
+      "t": 46.97,
+      "end": 48.69,
+      "text": "ほんとは 一回目で 起きてた"
+    },
+    {
+      "t": 48.95,
+      "end": 56.57,
+      "text": "目だけ 閉じて 聞いてた"
+    },
+    {
+      "t": 56.75,
+      "end": 56.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 56.75,
+      "end": 74.41,
+      "text": "トースト くわえて 鍵かけて"
+    },
+    {
+      "t": 74.41,
+      "end": 77.83,
+      "text": "戻って ガスを 確かめて"
+    },
+    {
+      "t": 82.63,
+      "end": 85.95,
+      "text": "階段 二段飛ばしで 下りて"
+    },
+    {
+      "t": 86.11,
+      "end": 88.69,
+      "text": "定期は 部屋に 置いてきた"
+    },
+    {
+      "t": 104.41,
+      "end": 104.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.41,
+      "end": 108.63,
+      "text": "スヌーズ九回目 走れ 走れ"
+    },
+    {
+      "t": 109.43,
+      "end": 114.11,
+      "text": "改札 ピンポーン 残高不足"
+    },
+    {
+      "t": 115.25,
+      "end": 121.13,
+      "text": "七時二分の 電車が行く"
+    },
+    {
+      "t": 121.33,
+      "end": 126.37,
+      "text": "あと一本 あと一本"
+    },
+    {
+      "t": 126.41,
+      "end": 126.41,
+      "text": "[Outro - kick drops out, alarm-like synth bleeps]"
+    },
+    {
+      "t": 126.41,
+      "end": 161.12,
+      "text": "明日は 目覚まし 三個にする"
+    },
+    {
+      "t": 161.12,
+      "end": 161.12,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.28,
+      "end": 16.28,
+      "text": "[Intro - short supersaw stab and distorted kick roll]"
+    },
+    {
+      "t": 16.28,
+      "end": 16.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.28,
+      "end": 20.98,
+      "text": "六時ちょうどに 鳴ったはず"
+    },
+    {
+      "t": 21.06,
+      "end": 23.72,
+      "text": "五分ごとに ボタン押して"
+    },
+    {
+      "t": 25.64,
+      "end": 27.14,
+      "text": "気づけば 六時四十五分"
+    },
+    {
+      "t": 27.26,
+      "end": 32.02,
+      "text": "これが 九回目の スヌーズ"
+    },
+    {
+      "t": 32.12,
+      "end": 32.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.12,
+      "end": 35.58,
+      "text": "起きて 起きて 起きて 起きて"
+    },
+    {
+      "t": 35.92,
+      "end": 39.68,
+      "text": "靴下 左右 ちがっても"
+    },
+    {
+      "t": 40.4,
+      "end": 40.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.4,
+      "end": 41.66,
+      "text": "スヌーズ九回目 走れ 走れ"
+    },
+    {
+      "t": 41.76,
+      "end": 43.94,
+      "text": "眉毛は 片方だけ 描いた"
+    },
+    {
+      "t": 43.96,
+      "end": 45.69,
+      "text": "七時二分の 電車まで"
+    },
+    {
+      "t": 45.73,
+      "end": 46.93,
+      "text": "あと十分 あと十分"
+    },
+    {
+      "t": 46.97,
+      "end": 46.97,
+      "text": "[Breakdown - piano and supersaw, no kick]"
+    },
+    {
+      "t": 46.97,
+      "end": 48.69,
+      "text": "ほんとは 一回目で 起きてた"
+    },
+    {
+      "t": 48.95,
+      "end": 56.57,
+      "text": "目だけ 閉じて 聞いてた"
+    },
+    {
+      "t": 56.75,
+      "end": 56.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 56.75,
+      "end": 74.41,
+      "text": "トースト くわえて 鍵かけて"
+    },
+    {
+      "t": 74.41,
+      "end": 77.83,
+      "text": "戻って ガスを 確かめて"
+    },
+    {
+      "t": 82.63,
+      "end": 85.95,
+      "text": "階段 二段飛ばしで 下りて"
+    },
+    {
+      "t": 86.11,
+      "end": 88.69,
+      "text": "定期は 部屋に 置いてきた"
+    },
+    {
+      "t": 104.41,
+      "end": 104.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.41,
+      "end": 108.63,
+      "text": "スヌーズ九回目 走れ 走れ"
+    },
+    {
+      "t": 109.43,
+      "end": 114.11,
+      "text": "改札 ピンポーン 残高不足"
+    },
+    {
+      "t": 115.25,
+      "end": 121.13,
+      "text": "七時二分の 電車が行く"
+    },
+    {
+      "t": 121.33,
+      "end": 126.37,
+      "text": "あと一本 あと一本"
+    },
+    {
+      "t": 126.41,
+      "end": 126.41,
+      "text": "[Outro - kick drops out, alarm-like synth bleeps]"
+    },
+    {
+      "t": 126.41,
+      "end": 161.12,
+      "text": "明日は 目覚まし 三個にする"
+    },
+    {
+      "t": 161.12,
+      "end": 161.12,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.62,
+      "end": 0.62,
+      "text": "[Intro - short supersaw stab and distorted kick roll]"
+    },
+    {
+      "t": 0.62,
+      "end": 0.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.62,
+      "end": 20.98,
+      "text": "六時ちょうどに 鳴ったはず"
+    },
+    {
+      "t": 21.06,
+      "end": 23.7,
+      "text": "五分ごとに ボタン押して"
+    },
+    {
+      "t": 25.66,
+      "end": 27.18,
+      "text": "気づけば 六時四十五分"
+    },
+    {
+      "t": 27.26,
+      "end": 28.5,
+      "text": "これが 九回目の スヌーズ"
+    },
+    {
+      "t": 28.66,
+      "end": 28.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 28.66,
+      "end": 33.02,
+      "text": "起きて 起きて 起きて 起きて"
+    },
+    {
+      "t": 35.12,
+      "end": 39.66,
+      "text": "靴下 左右 ちがっても"
+    },
+    {
+      "t": 39.86,
+      "end": 39.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.86,
+      "end": 44.28,
+      "text": "スヌーズ九回目 走れ 走れ"
+    },
+    {
+      "t": 44.96,
+      "end": 49.93,
+      "text": "眉毛は 片方だけ 描いた"
+    },
+    {
+      "t": 50.11,
+      "end": 53.29,
+      "text": "七時二分の 電車まで"
+    },
+    {
+      "t": 54.63,
+      "end": 58.89,
+      "text": "あと十分 あと十分"
+    },
+    {
+      "t": 72.69,
+      "end": 72.69,
+      "text": "[Breakdown - piano and supersaw, no kick]"
+    },
+    {
+      "t": 72.69,
+      "end": 75.21,
+      "text": "ほんとは 一回目で 起きてた"
+    },
+    {
+      "t": 77.19,
+      "end": 88.69,
+      "text": "目だけ 閉じて 聞いてた"
+    },
+    {
+      "t": 98.31,
+      "end": 98.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.31,
+      "end": 110.19,
+      "text": "トースト くわえて 鍵かけて"
+    },
+    {
+      "t": 110.39,
+      "end": 116.63,
+      "text": "戻って ガスを 確かめて"
+    },
+    {
+      "t": 116.85,
+      "end": 129.33,
+      "text": "階段 二段飛ばしで 下りて"
+    },
+    {
+      "t": 135.18,
+      "end": 144.3,
+      "text": "定期は 部屋に 置いてきた"
+    },
+    {
+      "t": 144.48,
+      "end": 144.48,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.48,
+      "end": 153.62,
+      "text": "スヌーズ九回目 走れ 走れ"
+    },
+    {
+      "t": 153.8,
+      "end": 162.88,
+      "text": "改札 ピンポーン 残高不足"
+    },
+    {
+      "t": 163.08,
+      "end": 166.94,
+      "text": "七時二分の 電車が行く"
+    },
+    {
+      "t": 166.98,
+      "end": 168.7,
+      "text": "あと一本 あと一本"
+    },
+    {
+      "t": 168.76,
+      "end": 168.76,
+      "text": "[Outro - kick drops out, alarm-like synth bleeps]"
+    },
+    {
+      "t": 168.76,
+      "end": 175.2,
+      "text": "明日は 目覚まし 三個にする"
+    },
+    {
+      "t": 175.2,
+      "end": 175.2,
+      "text": "[Song ends abruptly]"
+    }
+  ]
+}

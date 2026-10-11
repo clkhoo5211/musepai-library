@@ -1,0 +1,519 @@
+{
+  "id": "b7_ko09",
+  "title": "이름 없는 통",
+  "title_source": "scripted",
+  "genre": "Korean vocal jazz piano-trio swing",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "tender and laughing",
+  "persona": "",
+  "subject": "unpacking a mother's courier box of side dishes, every lid labelled in marker except one, and phoning her to ask what it is",
+  "caption": "Korean vocal jazz with an acoustic piano trio, a light medium swing. A walking upright bass in steady quarter notes; brushes on the snare with a swung ride cymbal and the hi-hat closing on two and four; an acoustic piano comping in rootless voicings with short answering fills after each line, and a sixteen-bar solo in the middle. Intimate and close like a small club, a dry room sound, the voice and piano forward, the bass warm and centred. A warm female voice with behind-the-beat phrasing, controlled vibrato on held notes and one short scat break. A short piano intro, then the trio swings. 126 BPM, F major. Tender and laughing. No programmed beats, no lo-fi hip-hop drums, no pop ballad strings, no horns, no R&B runs, no autotune.",
+  "lyrics": "[Intro - solo piano, four bars]\n\n[Verse 1]\n아이스박스 테이프를 뜯으니\n뚜껑마다 엄마 글씨가 있어\n멸치볶음, 장조림, 깻잎\n매직으로 꾹꾹 눌러 썼네\n\n[Chorus]\n근데 이건 뭐예요, 엄마\n이름 없는 통 하나\n빨갛지도 하얗지도 않은\n이건 대체 뭐예요\n\n[Verse 2]\n전화했더니 엄마도 한참 생각해\n\"그게 뭐였더라, 맛을 봐 봐\"\n젓가락 끝으로 조금 먹어 보니\n짭짤하고 달고 조금 새콤해\n\n[Chorus]\n근데 이건 뭐예요, 엄마\n이름 없는 통 하나\n엄마도 모르는 엄마 반찬\n그래도 밥 한 그릇 다 비웠어요\n\n[Bridge - piano solo, then a short scat break]\n두비 두와, 연근인가\n두비 두와, 우엉인가\n\n[Chorus]\n이제 알았어요, 엄마\n이름 없는 통 하나\n어릴 때 내가 제일 좋아한 거\n\"그건 니가 알 줄 알았지\"\n\n[Outro - piano and brushes, a quiet ending]\n빈 통은 깨끗이 씻어 둘게요\n다음에도 이름 없이 보내 줘요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Korean vocal jazz with an acoustic piano trio, a light medium swing. A walking upright bass in steady quarter notes; brushes on the snare with a swung ride cymbal and the hi-hat closing on two and four; an acoustic piano comping in rootless voicings with short answering fills after each line, and a sixteen-bar solo in the middle. Intimate and close like a small club, a dry room sound, the voice and piano forward, the bass warm and centred. A warm female voice with behind-the-beat phrasing, controlled vibrato on held notes and one short scat break. A short piano intro, then the trio swings. 126 BPM, F major. Tender and laughing. No programmed beats, no lo-fi hip-hop drums, no pop ballad strings, no horns, no R&B runs, no autotune.",
+    "lyrics": "[Intro - solo piano, four bars]\n\n[Verse 1]\n아이스박스 테이프를 뜯으니\n뚜껑마다 엄마 글씨가 있어\n멸치볶음, 장조림, 깻잎\n매직으로 꾹꾹 눌러 썼네\n\n[Chorus]\n근데 이건 뭐예요, 엄마\n이름 없는 통 하나\n빨갛지도 하얗지도 않은\n이건 대체 뭐예요\n\n[Verse 2]\n전화했더니 엄마도 한참 생각해\n\"그게 뭐였더라, 맛을 봐 봐\"\n젓가락 끝으로 조금 먹어 보니\n짭짤하고 달고 조금 새콤해\n\n[Chorus]\n근데 이건 뭐예요, 엄마\n이름 없는 통 하나\n엄마도 모르는 엄마 반찬\n그래도 밥 한 그릇 다 비웠어요\n\n[Bridge - piano solo, then a short scat break]\n두비 두와, 연근인가\n두비 두와, 우엉인가\n\n[Chorus]\n이제 알았어요, 엄마\n이름 없는 통 하나\n어릴 때 내가 제일 좋아한 거\n\"그건 니가 알 줄 알았지\"\n\n[Outro - piano and brushes, a quiet ending]\n빈 통은 깨끗이 씻어 둘게요\n다음에도 이름 없이 보내 줘요"
+  },
+  "seed": "3535892385",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.80s**\n- 55.80s per song\n- LM phase (1 song): 10.17s\n- DiT phase (1 song): 45.63s",
+  "task_id": "3ecc47e4-7f55-4812-9c23-844fb779a653",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T19:21:50.761608+08:00",
+  "audio": "b7_ko09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 41.98,
+      "end": 41.98,
+      "text": "[Intro - solo piano, four bars]"
+    },
+    {
+      "t": 41.98,
+      "end": 41.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.98,
+      "end": 45.22,
+      "text": "아이스박스 테이프를 뜯으니"
+    },
+    {
+      "t": 45.22,
+      "end": 51.09,
+      "text": "뚜껑마다 엄마 글씨가 있어"
+    },
+    {
+      "t": 51.15,
+      "end": 53.77,
+      "text": "멸치볶음, 장조림, 깻잎"
+    },
+    {
+      "t": 54.17,
+      "end": 58.11,
+      "text": "매직으로 꾹꾹 눌러 썼네"
+    },
+    {
+      "t": 58.11,
+      "end": 58.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.11,
+      "end": 58.97,
+      "text": "근데 이건 뭐예요, 엄마"
+    },
+    {
+      "t": 58.97,
+      "end": 64.99,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 64.99,
+      "end": 66.65,
+      "text": "빨갛지도 하얗지도 않은"
+    },
+    {
+      "t": 66.71,
+      "end": 69.27,
+      "text": "이건 대체 뭐예요"
+    },
+    {
+      "t": 69.33,
+      "end": 69.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.33,
+      "end": 72.55,
+      "text": "전화했더니 엄마도 한참 생각해"
+    },
+    {
+      "t": 72.57,
+      "end": 74.11,
+      "text": "\"그게 뭐였더라, 맛을 봐 봐\""
+    },
+    {
+      "t": 74.13,
+      "end": 78.01,
+      "text": "젓가락 끝으로 조금 먹어 보니"
+    },
+    {
+      "t": 78.01,
+      "end": 79.39,
+      "text": "짭짤하고 달고 조금 새콤해"
+    },
+    {
+      "t": 79.41,
+      "end": 79.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.41,
+      "end": 81.31,
+      "text": "근데 이건 뭐예요, 엄마"
+    },
+    {
+      "t": 81.55,
+      "end": 82.49,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 82.49,
+      "end": 84.51,
+      "text": "엄마도 모르는 엄마 반찬"
+    },
+    {
+      "t": 84.53,
+      "end": 89.37,
+      "text": "그래도 밥 한 그릇 다 비웠어요"
+    },
+    {
+      "t": 102.79,
+      "end": 102.79,
+      "text": "[Bridge - piano solo, then a short scat break]"
+    },
+    {
+      "t": 102.79,
+      "end": 107.59,
+      "text": "두비 두와, 연근인가"
+    },
+    {
+      "t": 109.49,
+      "end": 113.09,
+      "text": "두비 두와, 우엉인가"
+    },
+    {
+      "t": 113.19,
+      "end": 113.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.19,
+      "end": 115.23,
+      "text": "이제 알았어요, 엄마"
+    },
+    {
+      "t": 148.67,
+      "end": 153.96,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 153.96,
+      "end": 156.0,
+      "text": "어릴 때 내가 제일 좋아한 거"
+    },
+    {
+      "t": 156.02,
+      "end": 163.64,
+      "text": "\"그건 니가 알 줄 알았지\""
+    },
+    {
+      "t": 163.8,
+      "end": 163.8,
+      "text": "[Outro - piano and brushes, a quiet ending]"
+    },
+    {
+      "t": 163.8,
+      "end": 175.86,
+      "text": "빈 통은 깨끗이 씻어 둘게요"
+    },
+    {
+      "t": 178.72,
+      "end": 183.48,
+      "text": "다음에도 이름 없이 보내 줘요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 41.98,
+      "end": 41.98,
+      "text": "[Intro - solo piano, four bars]"
+    },
+    {
+      "t": 41.98,
+      "end": 41.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.98,
+      "end": 45.22,
+      "text": "아이스박스 테이프를 뜯으니"
+    },
+    {
+      "t": 45.22,
+      "end": 51.09,
+      "text": "뚜껑마다 엄마 글씨가 있어"
+    },
+    {
+      "t": 51.15,
+      "end": 53.77,
+      "text": "멸치볶음, 장조림, 깻잎"
+    },
+    {
+      "t": 54.17,
+      "end": 58.11,
+      "text": "매직으로 꾹꾹 눌러 썼네"
+    },
+    {
+      "t": 58.11,
+      "end": 58.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.11,
+      "end": 58.97,
+      "text": "근데 이건 뭐예요, 엄마"
+    },
+    {
+      "t": 58.97,
+      "end": 64.99,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 64.99,
+      "end": 66.65,
+      "text": "빨갛지도 하얗지도 않은"
+    },
+    {
+      "t": 66.71,
+      "end": 69.27,
+      "text": "이건 대체 뭐예요"
+    },
+    {
+      "t": 69.33,
+      "end": 69.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.33,
+      "end": 72.55,
+      "text": "전화했더니 엄마도 한참 생각해"
+    },
+    {
+      "t": 72.57,
+      "end": 74.11,
+      "text": "\"그게 뭐였더라, 맛을 봐 봐\""
+    },
+    {
+      "t": 74.13,
+      "end": 78.01,
+      "text": "젓가락 끝으로 조금 먹어 보니"
+    },
+    {
+      "t": 78.01,
+      "end": 79.39,
+      "text": "짭짤하고 달고 조금 새콤해"
+    },
+    {
+      "t": 79.41,
+      "end": 79.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.41,
+      "end": 81.31,
+      "text": "근데 이건 뭐예요, 엄마"
+    },
+    {
+      "t": 81.55,
+      "end": 82.49,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 82.49,
+      "end": 84.51,
+      "text": "엄마도 모르는 엄마 반찬"
+    },
+    {
+      "t": 84.53,
+      "end": 89.37,
+      "text": "그래도 밥 한 그릇 다 비웠어요"
+    },
+    {
+      "t": 102.79,
+      "end": 102.79,
+      "text": "[Bridge - piano solo, then a short scat break]"
+    },
+    {
+      "t": 102.79,
+      "end": 107.59,
+      "text": "두비 두와, 연근인가"
+    },
+    {
+      "t": 109.49,
+      "end": 113.09,
+      "text": "두비 두와, 우엉인가"
+    },
+    {
+      "t": 113.19,
+      "end": 113.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.19,
+      "end": 115.23,
+      "text": "이제 알았어요, 엄마"
+    },
+    {
+      "t": 148.67,
+      "end": 153.96,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 153.96,
+      "end": 156.0,
+      "text": "어릴 때 내가 제일 좋아한 거"
+    },
+    {
+      "t": 156.02,
+      "end": 163.64,
+      "text": "\"그건 니가 알 줄 알았지\""
+    },
+    {
+      "t": 163.8,
+      "end": 163.8,
+      "text": "[Outro - piano and brushes, a quiet ending]"
+    },
+    {
+      "t": 163.8,
+      "end": 175.86,
+      "text": "빈 통은 깨끗이 씻어 둘게요"
+    },
+    {
+      "t": 178.72,
+      "end": 183.48,
+      "text": "다음에도 이름 없이 보내 줘요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 14.84,
+      "end": 14.84,
+      "text": "[Intro - solo piano, four bars]"
+    },
+    {
+      "t": 14.84,
+      "end": 14.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 14.84,
+      "end": 22.74,
+      "text": "아이스박스 테이프를 뜯으니"
+    },
+    {
+      "t": 22.76,
+      "end": 39.62,
+      "text": "뚜껑마다 엄마 글씨가 있어"
+    },
+    {
+      "t": 39.62,
+      "end": 42.88,
+      "text": "멸치볶음, 장조림, 깻잎"
+    },
+    {
+      "t": 42.92,
+      "end": 45.22,
+      "text": "매직으로 꾹꾹 눌러 썼네"
+    },
+    {
+      "t": 45.26,
+      "end": 45.26,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.26,
+      "end": 47.82,
+      "text": "근데 이건 뭐예요, 엄마"
+    },
+    {
+      "t": 47.82,
+      "end": 50.43,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 50.43,
+      "end": 52.13,
+      "text": "빨갛지도 하얗지도 않은"
+    },
+    {
+      "t": 52.19,
+      "end": 55.01,
+      "text": "이건 대체 뭐예요"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 55.05,
+      "end": 58.99,
+      "text": "전화했더니 엄마도 한참 생각해"
+    },
+    {
+      "t": 59.01,
+      "end": 65.43,
+      "text": "\"그게 뭐였더라, 맛을 봐 봐\""
+    },
+    {
+      "t": 65.45,
+      "end": 69.09,
+      "text": "젓가락 끝으로 조금 먹어 보니"
+    },
+    {
+      "t": 69.17,
+      "end": 73.13,
+      "text": "짭짤하고 달고 조금 새콤해"
+    },
+    {
+      "t": 73.19,
+      "end": 73.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.19,
+      "end": 74.41,
+      "text": "근데 이건 뭐예요, 엄마"
+    },
+    {
+      "t": 74.57,
+      "end": 77.63,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 77.65,
+      "end": 82.43,
+      "text": "엄마도 모르는 엄마 반찬"
+    },
+    {
+      "t": 84.53,
+      "end": 89.37,
+      "text": "그래도 밥 한 그릇 다 비웠어요"
+    },
+    {
+      "t": 102.79,
+      "end": 102.79,
+      "text": "[Bridge - piano solo, then a short scat break]"
+    },
+    {
+      "t": 102.79,
+      "end": 107.57,
+      "text": "두비 두와, 연근인가"
+    },
+    {
+      "t": 109.49,
+      "end": 113.33,
+      "text": "두비 두와, 우엉인가"
+    },
+    {
+      "t": 114.11,
+      "end": 114.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.11,
+      "end": 148.83,
+      "text": "이제 알았어요, 엄마"
+    },
+    {
+      "t": 148.97,
+      "end": 153.74,
+      "text": "이름 없는 통 하나"
+    },
+    {
+      "t": 153.82,
+      "end": 156.0,
+      "text": "어릴 때 내가 제일 좋아한 거"
+    },
+    {
+      "t": 156.02,
+      "end": 163.64,
+      "text": "\"그건 니가 알 줄 알았지\""
+    },
+    {
+      "t": 163.8,
+      "end": 163.8,
+      "text": "[Outro - piano and brushes, a quiet ending]"
+    },
+    {
+      "t": 163.8,
+      "end": 175.86,
+      "text": "빈 통은 깨끗이 씻어 둘게요"
+    },
+    {
+      "t": 178.72,
+      "end": 183.48,
+      "text": "다음에도 이름 없이 보내 줘요"
+    }
+  ]
+}

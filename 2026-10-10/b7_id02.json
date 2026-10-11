@@ -1,0 +1,564 @@
+{
+  "id": "b7_id02",
+  "title": "Tiga Ratus Petir",
+  "title_source": "scripted",
+  "genre": "Indonesian festival future bass",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "giddy and breathless, a festival-night rush",
+  "persona": "",
+  "subject": "the girl at a festival's glitter face-paint booth who paints the same lightning bolt on three hundred faces before the headliner, then paints one on herself and runs for the main stage",
+  "caption": "Indonesian festival EDM in the future-bass style, with a traditional string hook. A plucked Sumba jungga, a bright two-string lute, playing a short pentatonic riff over sustained pads in the intro and returning between vocal lines; stacked supersaw chords sidechained hard to the kick; LFO-wobbled future-bass chords in the drops, felt in half-time; a deep 808 sub under the drops; snare rolls and white-noise risers into each drop, with fast hi-hat rolls only in the breakdown. Glossy and wide, the jungga and the lead vocal forward in the verses, the chords huge and pumping in the drops. Bright, clear female pop voice, light and conversational in the verses and belting the hook, mixing Indonesian lines with short English phrases, one live singer throughout. 144 BPM, F major. Giddy and breathless, a festival-night rush. No sampled voice hooks, no formant-shifted ad-libs, no dubstep growl bass, no trap beat under the verses, no big-room house drop, no autotune, no rap verse.",
+  "lyrics": "[Intro - plucked jungga riff over a soft pad]\n\n[Verse 1]\nJam tiga sore aku buka meja lipat\nGlitter emas, kuas kecil, cermin retak\nYang antre pertama minta petir di pipi\nYang kedua juga, yang ketiga juga\n\n[Pre-Chorus - snare roll rising]\nJam delapan tanganku udah hafal\nGaris, belok, garis, tutup pakai glitter\n\n[Chorus]\nOne more bolt, satu lagi\nPipi kiri, tahan, jangan senyum dulu\nTiga ratus petir lewat mejaku\nSemua lari ke depan, aku masih di sini\n\n[Drop - supersaw chords and wobbling bass, jungga riff on top]\n\n[Verse 2]\nCowok berkumis minta petir di jidat\nSatpam diam-diam minta satu juga\nDari jauh soundcheck headliner mulai\nKuasku gemetar, glitternya tinggal dikit\n\n[Chorus]\nOne more bolt, satu lagi\nPipi kiri, tahan, jangan senyum dulu\nTiga ratus satu, tiga ratus dua\nLampu panggung utama udah nyala\n\n[Bridge - breakdown, half-time hi-hats, then a long riser]\nTerus antreannya habis\nAku lihat cermin retak itu\nSatu petir terakhir, buat aku sendiri\n\n[Chorus]\nOne more bolt, buat aku\nPipi kiri, glitter sisa terakhir\nMeja kulipat, aku lari ke depan\nLagu pertama, aku sampai juga\n\n[Outro - jungga riff alone over the last pad]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 144,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Indonesian festival EDM in the future-bass style, with a traditional string hook. A plucked Sumba jungga, a bright two-string lute, playing a short pentatonic riff over sustained pads in the intro and returning between vocal lines; stacked supersaw chords sidechained hard to the kick; LFO-wobbled future-bass chords in the drops, felt in half-time; a deep 808 sub under the drops; snare rolls and white-noise risers into each drop, with fast hi-hat rolls only in the breakdown. Glossy and wide, the jungga and the lead vocal forward in the verses, the chords huge and pumping in the drops. Bright, clear female pop voice, light and conversational in the verses and belting the hook, mixing Indonesian lines with short English phrases, one live singer throughout. 144 BPM, F major. Giddy and breathless, a festival-night rush. No sampled voice hooks, no formant-shifted ad-libs, no dubstep growl bass, no trap beat under the verses, no big-room house drop, no autotune, no rap verse.",
+    "lyrics": "[Intro - plucked jungga riff over a soft pad]\n\n[Verse 1]\nJam tiga sore aku buka meja lipat\nGlitter emas, kuas kecil, cermin retak\nYang antre pertama minta petir di pipi\nYang kedua juga, yang ketiga juga\n\n[Pre-Chorus - snare roll rising]\nJam delapan tanganku udah hafal\nGaris, belok, garis, tutup pakai glitter\n\n[Chorus]\nOne more bolt, satu lagi\nPipi kiri, tahan, jangan senyum dulu\nTiga ratus petir lewat mejaku\nSemua lari ke depan, aku masih di sini\n\n[Drop - supersaw chords and wobbling bass, jungga riff on top]\n\n[Verse 2]\nCowok berkumis minta petir di jidat\nSatpam diam-diam minta satu juga\nDari jauh soundcheck headliner mulai\nKuasku gemetar, glitternya tinggal dikit\n\n[Chorus]\nOne more bolt, satu lagi\nPipi kiri, tahan, jangan senyum dulu\nTiga ratus satu, tiga ratus dua\nLampu panggung utama udah nyala\n\n[Bridge - breakdown, half-time hi-hats, then a long riser]\nTerus antreannya habis\nAku lihat cermin retak itu\nSatu petir terakhir, buat aku sendiri\n\n[Chorus]\nOne more bolt, buat aku\nPipi kiri, glitter sisa terakhir\nMeja kulipat, aku lari ke depan\nLagu pertama, aku sampai juga\n\n[Outro - jungga riff alone over the last pad]"
+  },
+  "seed": "2672893244",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.27s**\n- 53.27s per song\n- LM phase (1 song): 6.85s\n- DiT phase (1 song): 46.42s",
+  "task_id": "116ce9a7-28be-40b6-8a9e-ee6fbca98606",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T19:38:52.577968+08:00",
+  "audio": "b7_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.84,
+      "end": 26.84,
+      "text": "[Intro - plucked jungga riff over a soft pad]"
+    },
+    {
+      "t": 26.84,
+      "end": 26.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.84,
+      "end": 31.52,
+      "text": "Jam tiga sore aku buka meja lipat"
+    },
+    {
+      "t": 33.14,
+      "end": 37.9,
+      "text": "Glitter emas, kuas kecil, cermin retak"
+    },
+    {
+      "t": 40.02,
+      "end": 44.24,
+      "text": "Yang antre pertama minta petir di pipi"
+    },
+    {
+      "t": 46.76,
+      "end": 51.17,
+      "text": "Yang kedua juga, yang ketiga juga"
+    },
+    {
+      "t": 53.47,
+      "end": 53.47,
+      "text": "[Pre-Chorus - snare roll rising]"
+    },
+    {
+      "t": 53.47,
+      "end": 58.17,
+      "text": "Jam delapan tanganku udah hafal"
+    },
+    {
+      "t": 60.31,
+      "end": 65.83,
+      "text": "Garis, belok, garis, tutup pakai glitter"
+    },
+    {
+      "t": 66.89,
+      "end": 66.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.89,
+      "end": 69.23,
+      "text": "One more bolt, satu lagi"
+    },
+    {
+      "t": 69.51,
+      "end": 72.53,
+      "text": "Pipi kiri, tahan, jangan senyum dulu"
+    },
+    {
+      "t": 73.03,
+      "end": 75.89,
+      "text": "Tiga ratus petir lewat mejaku"
+    },
+    {
+      "t": 76.17,
+      "end": 80.29,
+      "text": "Semua lari ke depan, aku masih di sini"
+    },
+    {
+      "t": 80.29,
+      "end": 80.29,
+      "text": "[Drop - supersaw chords and wobbling bass, jungga riff on top]"
+    },
+    {
+      "t": 80.29,
+      "end": 80.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.29,
+      "end": 83.11,
+      "text": "Cowok berkumis minta petir di jidat"
+    },
+    {
+      "t": 83.13,
+      "end": 86.83,
+      "text": "Satpam diam-diam minta satu juga"
+    },
+    {
+      "t": 87.21,
+      "end": 90.35,
+      "text": "Dari jauh soundcheck headliner mulai"
+    },
+    {
+      "t": 90.35,
+      "end": 94.01,
+      "text": "Kuasku gemetar, glitternya tinggal dikit"
+    },
+    {
+      "t": 94.01,
+      "end": 94.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.01,
+      "end": 95.37,
+      "text": "One more bolt, satu lagi"
+    },
+    {
+      "t": 95.37,
+      "end": 101.29,
+      "text": "Pipi kiri, tahan, jangan senyum dulu"
+    },
+    {
+      "t": 102.83,
+      "end": 105.85,
+      "text": "Tiga ratus satu, tiga ratus dua"
+    },
+    {
+      "t": 105.89,
+      "end": 108.19,
+      "text": "Lampu panggung utama udah nyala"
+    },
+    {
+      "t": 111.39,
+      "end": 111.39,
+      "text": "[Bridge - breakdown, half-time hi-hats, then a long riser]"
+    },
+    {
+      "t": 111.39,
+      "end": 115.69,
+      "text": "Terus antreannya habis"
+    },
+    {
+      "t": 118.27,
+      "end": 121.47,
+      "text": "Aku lihat cermin retak itu"
+    },
+    {
+      "t": 124.83,
+      "end": 134.83,
+      "text": "Satu petir terakhir, buat aku sendiri"
+    },
+    {
+      "t": 137.29,
+      "end": 137.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 137.29,
+      "end": 139.83,
+      "text": "One more bolt, buat aku"
+    },
+    {
+      "t": 140.57,
+      "end": 150.48,
+      "text": "Pipi kiri, glitter sisa terakhir"
+    },
+    {
+      "t": 161.52,
+      "end": 166.84,
+      "text": "Meja kulipat, aku lari ke depan"
+    },
+    {
+      "t": 168.2,
+      "end": 174.9,
+      "text": "Lagu pertama, aku sampai juga"
+    },
+    {
+      "t": 174.9,
+      "end": 174.9,
+      "text": "[Outro - jungga riff alone over the last pad]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.84,
+      "end": 26.84,
+      "text": "[Intro - plucked jungga riff over a soft pad]"
+    },
+    {
+      "t": 26.84,
+      "end": 26.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.84,
+      "end": 31.52,
+      "text": "Jam tiga sore aku buka meja lipat"
+    },
+    {
+      "t": 33.14,
+      "end": 37.9,
+      "text": "Glitter emas, kuas kecil, cermin retak"
+    },
+    {
+      "t": 40.02,
+      "end": 44.24,
+      "text": "Yang antre pertama minta petir di pipi"
+    },
+    {
+      "t": 46.76,
+      "end": 51.17,
+      "text": "Yang kedua juga, yang ketiga juga"
+    },
+    {
+      "t": 53.47,
+      "end": 53.47,
+      "text": "[Pre-Chorus - snare roll rising]"
+    },
+    {
+      "t": 53.47,
+      "end": 58.17,
+      "text": "Jam delapan tanganku udah hafal"
+    },
+    {
+      "t": 60.31,
+      "end": 65.83,
+      "text": "Garis, belok, garis, tutup pakai glitter"
+    },
+    {
+      "t": 66.89,
+      "end": 66.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.89,
+      "end": 69.23,
+      "text": "One more bolt, satu lagi"
+    },
+    {
+      "t": 69.51,
+      "end": 72.53,
+      "text": "Pipi kiri, tahan, jangan senyum dulu"
+    },
+    {
+      "t": 73.03,
+      "end": 75.89,
+      "text": "Tiga ratus petir lewat mejaku"
+    },
+    {
+      "t": 76.17,
+      "end": 80.29,
+      "text": "Semua lari ke depan, aku masih di sini"
+    },
+    {
+      "t": 80.29,
+      "end": 80.29,
+      "text": "[Drop - supersaw chords and wobbling bass, jungga riff on top]"
+    },
+    {
+      "t": 80.29,
+      "end": 80.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.29,
+      "end": 83.11,
+      "text": "Cowok berkumis minta petir di jidat"
+    },
+    {
+      "t": 83.13,
+      "end": 86.83,
+      "text": "Satpam diam-diam minta satu juga"
+    },
+    {
+      "t": 87.21,
+      "end": 90.35,
+      "text": "Dari jauh soundcheck headliner mulai"
+    },
+    {
+      "t": 90.35,
+      "end": 94.01,
+      "text": "Kuasku gemetar, glitternya tinggal dikit"
+    },
+    {
+      "t": 94.01,
+      "end": 94.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.01,
+      "end": 95.37,
+      "text": "One more bolt, satu lagi"
+    },
+    {
+      "t": 95.37,
+      "end": 101.29,
+      "text": "Pipi kiri, tahan, jangan senyum dulu"
+    },
+    {
+      "t": 102.83,
+      "end": 105.85,
+      "text": "Tiga ratus satu, tiga ratus dua"
+    },
+    {
+      "t": 105.89,
+      "end": 108.19,
+      "text": "Lampu panggung utama udah nyala"
+    },
+    {
+      "t": 111.39,
+      "end": 111.39,
+      "text": "[Bridge - breakdown, half-time hi-hats, then a long riser]"
+    },
+    {
+      "t": 111.39,
+      "end": 115.69,
+      "text": "Terus antreannya habis"
+    },
+    {
+      "t": 118.27,
+      "end": 121.47,
+      "text": "Aku lihat cermin retak itu"
+    },
+    {
+      "t": 124.83,
+      "end": 134.83,
+      "text": "Satu petir terakhir, buat aku sendiri"
+    },
+    {
+      "t": 137.29,
+      "end": 137.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 137.29,
+      "end": 139.83,
+      "text": "One more bolt, buat aku"
+    },
+    {
+      "t": 140.57,
+      "end": 150.48,
+      "text": "Pipi kiri, glitter sisa terakhir"
+    },
+    {
+      "t": 161.52,
+      "end": 166.84,
+      "text": "Meja kulipat, aku lari ke depan"
+    },
+    {
+      "t": 168.2,
+      "end": 174.9,
+      "text": "Lagu pertama, aku sampai juga"
+    },
+    {
+      "t": 174.9,
+      "end": 174.9,
+      "text": "[Outro - jungga riff alone over the last pad]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 26.84,
+      "end": 26.84,
+      "text": "[Intro - plucked jungga riff over a soft pad]"
+    },
+    {
+      "t": 26.84,
+      "end": 26.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.84,
+      "end": 31.5,
+      "text": "Jam tiga sore aku buka meja lipat"
+    },
+    {
+      "t": 33.14,
+      "end": 37.88,
+      "text": "Glitter emas, kuas kecil, cermin retak"
+    },
+    {
+      "t": 40.02,
+      "end": 44.22,
+      "text": "Yang antre pertama minta petir di pipi"
+    },
+    {
+      "t": 46.72,
+      "end": 51.15,
+      "text": "Yang kedua juga, yang ketiga juga"
+    },
+    {
+      "t": 53.49,
+      "end": 53.49,
+      "text": "[Pre-Chorus - snare roll rising]"
+    },
+    {
+      "t": 53.49,
+      "end": 58.15,
+      "text": "Jam delapan tanganku udah hafal"
+    },
+    {
+      "t": 60.31,
+      "end": 65.89,
+      "text": "Garis, belok, garis, tutup pakai glitter"
+    },
+    {
+      "t": 66.89,
+      "end": 66.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.89,
+      "end": 69.21,
+      "text": "One more bolt, satu lagi"
+    },
+    {
+      "t": 69.51,
+      "end": 72.53,
+      "text": "Pipi kiri, tahan, jangan senyum dulu"
+    },
+    {
+      "t": 73.05,
+      "end": 75.87,
+      "text": "Tiga ratus petir lewat mejaku"
+    },
+    {
+      "t": 76.15,
+      "end": 81.09,
+      "text": "Semua lari ke depan, aku masih di sini"
+    },
+    {
+      "t": 82.79,
+      "end": 82.79,
+      "text": "[Drop - supersaw chords and wobbling bass, jungga riff on top]"
+    },
+    {
+      "t": 82.79,
+      "end": 82.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.79,
+      "end": 83.57,
+      "text": "Cowok berkumis minta petir di jidat"
+    },
+    {
+      "t": 83.59,
+      "end": 84.43,
+      "text": "Satpam diam-diam minta satu juga"
+    },
+    {
+      "t": 84.45,
+      "end": 89.47,
+      "text": "Dari jauh soundcheck headliner mulai"
+    },
+    {
+      "t": 89.47,
+      "end": 95.67,
+      "text": "Kuasku gemetar, glitternya tinggal dikit"
+    },
+    {
+      "t": 96.21,
+      "end": 96.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.21,
+      "end": 97.21,
+      "text": "One more bolt, satu lagi"
+    },
+    {
+      "t": 97.21,
+      "end": 101.31,
+      "text": "Pipi kiri, tahan, jangan senyum dulu"
+    },
+    {
+      "t": 102.83,
+      "end": 105.85,
+      "text": "Tiga ratus satu, tiga ratus dua"
+    },
+    {
+      "t": 105.91,
+      "end": 108.19,
+      "text": "Lampu panggung utama udah nyala"
+    },
+    {
+      "t": 111.37,
+      "end": 111.37,
+      "text": "[Bridge - breakdown, half-time hi-hats, then a long riser]"
+    },
+    {
+      "t": 111.37,
+      "end": 115.65,
+      "text": "Terus antreannya habis"
+    },
+    {
+      "t": 118.27,
+      "end": 121.49,
+      "text": "Aku lihat cermin retak itu"
+    },
+    {
+      "t": 124.83,
+      "end": 136.91,
+      "text": "Satu petir terakhir, buat aku sendiri"
+    },
+    {
+      "t": 137.29,
+      "end": 137.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 137.29,
+      "end": 139.81,
+      "text": "One more bolt, buat aku"
+    },
+    {
+      "t": 140.59,
+      "end": 150.48,
+      "text": "Pipi kiri, glitter sisa terakhir"
+    },
+    {
+      "t": 161.52,
+      "end": 166.84,
+      "text": "Meja kulipat, aku lari ke depan"
+    },
+    {
+      "t": 168.22,
+      "end": 174.9,
+      "text": "Lagu pertama, aku sampai juga"
+    },
+    {
+      "t": 174.9,
+      "end": 174.9,
+      "text": "[Outro - jungga riff alone over the last pad]"
+    }
+  ]
+}

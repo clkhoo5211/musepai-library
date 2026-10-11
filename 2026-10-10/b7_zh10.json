@@ -1,0 +1,414 @@
+{
+  "id": "b7_zh10",
+  "title": "坡上有一格",
+  "title_source": "scripted",
+  "genre": "solo nylon-string steppe folk",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "tender, cold and happily married",
+  "persona": "",
+  "subject": "a Kazakh herder at the winter pasture who climbs the slope behind the house at nine every night for one bar of signal to call his wife in town",
+  "caption": "Solo nylon-string steppe folk in the Kazakh style of Mamer's solo recordings, sung in Mandarin. One fingerpicked nylon-string guitar, played loosely and often rubato, with the open low strings droning under the melody; dombra-style strummed triplet figures on the same guitar between sung lines; knuckle taps on the guitar body as the only percussion; wordless humming over the strums in the interlude. Close, dry and intimate like one man in a small room, the guitar and the voice forward, breaths audible. Male voice, low, gentle and contemplative, with small steppe-style ornaments on held notes. 76 BPM, E minor. Tender, cold and happily married. No drums, no full band, no strummed steel-string city folk, no morin khuur, no gallop rhythm, no autotune.",
+  "lyrics": "[Intro - four bars, fingerpicked nylon guitar over an open low drone, knuckle taps]\n\n[Verse 1]\n晚上九點 我把爐子裡的火捅旺一點\n披上那件羊皮大衣 往屋後的坡上走\n狗跟在後面 雪埋到膝蓋\n走到那塊黑石頭 手機才有一格\n\n[Chorus]\n喂 我在坡上 有一格\n妳先說 妳先說 我這邊風大\n說兒子考了第幾名 說縣城下雪沒有\n說什麼都好 我在聽\n\n[Interlude - wordless humming over dombra-style strummed triplets]\n\n[Verse 2]\n我說今天又生了兩隻小羊 一黑一白\n黑的那隻站不起來 我抱進屋裡 放在爐子邊\n妳笑我 說我對羊比對妳還好\n風把妳的笑 吹斷了一半\n\n[Chorus]\n喂 我在坡上 還有一格\n妳再說一次 妳再說一次 我這邊風大\n妳說等開春 帶兒子上山來看我\n我說好 黑的那隻 我留給他\n\n[Outro - guitar alone, rubato, one knuckle tap]\n下坡的時候 訊號沒了\n我還是對著手機 把那句話說完了",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Solo nylon-string steppe folk in the Kazakh style of Mamer's solo recordings, sung in Mandarin. One fingerpicked nylon-string guitar, played loosely and often rubato, with the open low strings droning under the melody; dombra-style strummed triplet figures on the same guitar between sung lines; knuckle taps on the guitar body as the only percussion; wordless humming over the strums in the interlude. Close, dry and intimate like one man in a small room, the guitar and the voice forward, breaths audible. Male voice, low, gentle and contemplative, with small steppe-style ornaments on held notes. 76 BPM, E minor. Tender, cold and happily married. No drums, no full band, no strummed steel-string city folk, no morin khuur, no gallop rhythm, no autotune.",
+    "lyrics": "[Intro - four bars, fingerpicked nylon guitar over an open low drone, knuckle taps]\n\n[Verse 1]\n晚上九點 我把爐子裡的火捅旺一點\n披上那件羊皮大衣 往屋後的坡上走\n狗跟在後面 雪埋到膝蓋\n走到那塊黑石頭 手機才有一格\n\n[Chorus]\n喂 我在坡上 有一格\n妳先說 妳先說 我這邊風大\n說兒子考了第幾名 說縣城下雪沒有\n說什麼都好 我在聽\n\n[Interlude - wordless humming over dombra-style strummed triplets]\n\n[Verse 2]\n我說今天又生了兩隻小羊 一黑一白\n黑的那隻站不起來 我抱進屋裡 放在爐子邊\n妳笑我 說我對羊比對妳還好\n風把妳的笑 吹斷了一半\n\n[Chorus]\n喂 我在坡上 還有一格\n妳再說一次 妳再說一次 我這邊風大\n妳說等開春 帶兒子上山來看我\n我說好 黑的那隻 我留給他\n\n[Outro - guitar alone, rubato, one knuckle tap]\n下坡的時候 訊號沒了\n我還是對著手機 把那句話說完了"
+  },
+  "seed": "3729069340",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.30s**\n- 64.30s per song\n- LM phase (1 song): 15.20s\n- DiT phase (1 song): 49.10s",
+  "task_id": "bda0f1a3-f7a0-4ac2-8b89-08e8c9073daf",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-10T20:49:13.597200+08:00",
+  "audio": "b7_zh10.mp3",
+  "lyrics_timed": [
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Intro - four bars, fingerpicked nylon guitar over an open low drone, knuckle taps]"
+    },
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.38,
+      "end": 44.74,
+      "text": "晚上九點 我把爐子裡的火捅旺一點"
+    },
+    {
+      "t": 44.74,
+      "end": 46.56,
+      "text": "披上那件羊皮大衣 往屋後的坡上走"
+    },
+    {
+      "t": 46.62,
+      "end": 48.16,
+      "text": "狗跟在後面 雪埋到膝蓋"
+    },
+    {
+      "t": 48.3,
+      "end": 50.99,
+      "text": "走到那塊黑石頭 手機才有一格"
+    },
+    {
+      "t": 51.09,
+      "end": 51.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.09,
+      "end": 51.81,
+      "text": "喂 我在坡上 有一格"
+    },
+    {
+      "t": 51.81,
+      "end": 54.45,
+      "text": "妳先說 妳先說 我這邊風大"
+    },
+    {
+      "t": 54.45,
+      "end": 59.55,
+      "text": "說兒子考了第幾名 說縣城下雪沒有"
+    },
+    {
+      "t": 61.91,
+      "end": 64.97,
+      "text": "說什麼都好 我在聽"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Interlude - wordless humming over dombra-style strummed triplets]"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.47,
+      "end": 86.67,
+      "text": "我說今天又生了兩隻小羊 一黑一白"
+    },
+    {
+      "t": 88.61,
+      "end": 94.17,
+      "text": "黑的那隻站不起來 我抱進屋裡 放在爐子邊"
+    },
+    {
+      "t": 95.45,
+      "end": 99.81,
+      "text": "妳笑我 說我對羊比對妳還好"
+    },
+    {
+      "t": 101.85,
+      "end": 105.45,
+      "text": "風把妳的笑 吹斷了一半"
+    },
+    {
+      "t": 105.49,
+      "end": 105.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.49,
+      "end": 111.97,
+      "text": "喂 我在坡上 還有一格"
+    },
+    {
+      "t": 114.17,
+      "end": 117.87,
+      "text": "妳再說一次 妳再說一次 我這邊風大"
+    },
+    {
+      "t": 121.25,
+      "end": 125.73,
+      "text": "妳說等開春 帶兒子上山來看我"
+    },
+    {
+      "t": 127.55,
+      "end": 138.29,
+      "text": "我說好 黑的那隻 我留給他"
+    },
+    {
+      "t": 155.38,
+      "end": 155.38,
+      "text": "[Outro - guitar alone, rubato, one knuckle tap]"
+    },
+    {
+      "t": 155.38,
+      "end": 159.82,
+      "text": "下坡的時候 訊號沒了"
+    },
+    {
+      "t": 171.12,
+      "end": 179.12,
+      "text": "我還是對著手機 把那句話說完了"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Intro - four bars, fingerpicked nylon guitar over an open low drone, knuckle taps]"
+    },
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.38,
+      "end": 44.74,
+      "text": "晚上九點 我把爐子裡的火捅旺一點"
+    },
+    {
+      "t": 44.74,
+      "end": 46.56,
+      "text": "披上那件羊皮大衣 往屋後的坡上走"
+    },
+    {
+      "t": 46.62,
+      "end": 48.16,
+      "text": "狗跟在後面 雪埋到膝蓋"
+    },
+    {
+      "t": 48.3,
+      "end": 50.99,
+      "text": "走到那塊黑石頭 手機才有一格"
+    },
+    {
+      "t": 51.09,
+      "end": 51.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.09,
+      "end": 51.81,
+      "text": "喂 我在坡上 有一格"
+    },
+    {
+      "t": 51.81,
+      "end": 54.45,
+      "text": "妳先說 妳先說 我這邊風大"
+    },
+    {
+      "t": 54.45,
+      "end": 59.55,
+      "text": "說兒子考了第幾名 說縣城下雪沒有"
+    },
+    {
+      "t": 61.91,
+      "end": 64.97,
+      "text": "說什麼都好 我在聽"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Interlude - wordless humming over dombra-style strummed triplets]"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.47,
+      "end": 86.67,
+      "text": "我說今天又生了兩隻小羊 一黑一白"
+    },
+    {
+      "t": 88.61,
+      "end": 94.17,
+      "text": "黑的那隻站不起來 我抱進屋裡 放在爐子邊"
+    },
+    {
+      "t": 95.45,
+      "end": 99.81,
+      "text": "妳笑我 說我對羊比對妳還好"
+    },
+    {
+      "t": 101.85,
+      "end": 105.45,
+      "text": "風把妳的笑 吹斷了一半"
+    },
+    {
+      "t": 105.49,
+      "end": 105.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.49,
+      "end": 111.97,
+      "text": "喂 我在坡上 還有一格"
+    },
+    {
+      "t": 114.17,
+      "end": 117.87,
+      "text": "妳再說一次 妳再說一次 我這邊風大"
+    },
+    {
+      "t": 121.25,
+      "end": 125.73,
+      "text": "妳說等開春 帶兒子上山來看我"
+    },
+    {
+      "t": 127.55,
+      "end": 138.29,
+      "text": "我說好 黑的那隻 我留給他"
+    },
+    {
+      "t": 155.38,
+      "end": 155.38,
+      "text": "[Outro - guitar alone, rubato, one knuckle tap]"
+    },
+    {
+      "t": 155.38,
+      "end": 159.82,
+      "text": "下坡的時候 訊號沒了"
+    },
+    {
+      "t": 171.12,
+      "end": 179.12,
+      "text": "我還是對著手機 把那句話說完了"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 1.4,
+      "end": 1.4,
+      "text": "[Intro - four bars, fingerpicked nylon guitar over an open low drone, knuckle taps]"
+    },
+    {
+      "t": 1.4,
+      "end": 1.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.4,
+      "end": 21.72,
+      "text": "晚上九點 我把爐子裡的火捅旺一點"
+    },
+    {
+      "t": 23.06,
+      "end": 45.16,
+      "text": "披上那件羊皮大衣 往屋後的坡上走"
+    },
+    {
+      "t": 45.16,
+      "end": 46.12,
+      "text": "狗跟在後面 雪埋到膝蓋"
+    },
+    {
+      "t": 46.12,
+      "end": 47.1,
+      "text": "走到那塊黑石頭 手機才有一格"
+    },
+    {
+      "t": 47.1,
+      "end": 47.1,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.1,
+      "end": 47.78,
+      "text": "喂 我在坡上 有一格"
+    },
+    {
+      "t": 47.78,
+      "end": 51.99,
+      "text": "妳先說 妳先說 我這邊風大"
+    },
+    {
+      "t": 53.77,
+      "end": 59.55,
+      "text": "說兒子考了第幾名 說縣城下雪沒有"
+    },
+    {
+      "t": 61.93,
+      "end": 64.97,
+      "text": "說什麼都好 我在聽"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Interlude - wordless humming over dombra-style strummed triplets]"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.47,
+      "end": 86.65,
+      "text": "我說今天又生了兩隻小羊 一黑一白"
+    },
+    {
+      "t": 88.61,
+      "end": 94.15,
+      "text": "黑的那隻站不起來 我抱進屋裡 放在爐子邊"
+    },
+    {
+      "t": 95.45,
+      "end": 99.79,
+      "text": "妳笑我 說我對羊比對妳還好"
+    },
+    {
+      "t": 101.85,
+      "end": 105.43,
+      "text": "風把妳的笑 吹斷了一半"
+    },
+    {
+      "t": 105.99,
+      "end": 105.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.99,
+      "end": 111.97,
+      "text": "喂 我在坡上 還有一格"
+    },
+    {
+      "t": 114.17,
+      "end": 117.87,
+      "text": "妳再說一次 妳再說一次 我這邊風大"
+    },
+    {
+      "t": 121.25,
+      "end": 125.73,
+      "text": "妳說等開春 帶兒子上山來看我"
+    },
+    {
+      "t": 127.55,
+      "end": 138.27,
+      "text": "我說好 黑的那隻 我留給他"
+    },
+    {
+      "t": 155.38,
+      "end": 155.38,
+      "text": "[Outro - guitar alone, rubato, one knuckle tap]"
+    },
+    {
+      "t": 155.38,
+      "end": 166.14,
+      "text": "下坡的時候 訊號沒了"
+    },
+    {
+      "t": 171.12,
+      "end": 179.12,
+      "text": "我還是對著手機 把那句話說完了"
+    }
+  ]
+}

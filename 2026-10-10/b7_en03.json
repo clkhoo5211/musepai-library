@@ -1,0 +1,519 @@
+{
+  "id": "b7_en03",
+  "title": "Spare Key",
+  "title_source": "scripted",
+  "genre": "UK pop drum and bass",
+  "language": "en",
+  "language_name": "English",
+  "mood": "giddy, out of breath, happily in love",
+  "persona": "",
+  "subject": "getting a spare key cut for your partner at the key kiosk under the stairs at Waterloo station",
+  "caption": "UK pop drum and bass in the current festival style. A clean, tightly quantized two-step drum and bass beat with a kick on one and on the and of three, a sharp layered snare on two and four, and ghost-note hi-hats; a rolling sub bass in the verses that turns into a growling detuned Reese bass for the drop; euphoric piano stabs on the off-beats; wide supersaw chords building through a riser and a white-noise sweep into the drop. Clean and wide, the sub and snare forward, the piano bright and close. Female voice, a clear pop soprano, close and conversational in the verses, open and full in the chorus. 174 BPM, E minor. Giddy, out of breath, happily in love. No chopped Amen breaks, no ragga voice, no trap hi-hats, no autotune, no dubstep wobble, no sampled voice hooks.",
+  "lyrics": "[Intro - piano stabs and rolling sub, short]\n\n[Verse 1]\nKey kiosk under the stairs at Waterloo\nMan with a grinder and a radio on\nI hand him mine and he says just the one?\nI say just the one, and I go red\n\n[Pre-Chorus]\nSparks off the wheel and my heart's going\nEight pound fifty, I tap my card twice\n\n[Chorus]\nIt's a spare key, it's a spare key\nBrass and still warm in my hand\nSecond on the left when you get to the top\nYou don't have to knock again\n\n[Drop - growling Reese bass and full drums, no vocals]\n\n[Verse 2]\nI put it on a ring with a plastic lemon\nSo you'll find it at the bottom of your bag\nPractised what to say on the Northern line\nThen I just said here, and you just said oh\n\n[Pre-Chorus]\nYou tried it in the door that night\nJiggle it left, it sticks a bit\n\n[Chorus]\nIt's a spare key, it's a spare key\nBrass and still warm in your hand\nSecond on the left when you get to the top\nYou don't ever have to knock again\n\n[Drop - growling Reese bass and full drums, no vocals]\n\n[Outro - piano alone after the drop, then the sub cuts out]\nCame home Thursday and the lights were on\nYou'd let yourself in",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 174,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "UK pop drum and bass in the current festival style. A clean, tightly quantized two-step drum and bass beat with a kick on one and on the and of three, a sharp layered snare on two and four, and ghost-note hi-hats; a rolling sub bass in the verses that turns into a growling detuned Reese bass for the drop; euphoric piano stabs on the off-beats; wide supersaw chords building through a riser and a white-noise sweep into the drop. Clean and wide, the sub and snare forward, the piano bright and close. Female voice, a clear pop soprano, close and conversational in the verses, open and full in the chorus. 174 BPM, E minor. Giddy, out of breath, happily in love. No chopped Amen breaks, no ragga voice, no trap hi-hats, no autotune, no dubstep wobble, no sampled voice hooks.",
+    "lyrics": "[Intro - piano stabs and rolling sub, short]\n\n[Verse 1]\nKey kiosk under the stairs at Waterloo\nMan with a grinder and a radio on\nI hand him mine and he says just the one?\nI say just the one, and I go red\n\n[Pre-Chorus]\nSparks off the wheel and my heart's going\nEight pound fifty, I tap my card twice\n\n[Chorus]\nIt's a spare key, it's a spare key\nBrass and still warm in my hand\nSecond on the left when you get to the top\nYou don't have to knock again\n\n[Drop - growling Reese bass and full drums, no vocals]\n\n[Verse 2]\nI put it on a ring with a plastic lemon\nSo you'll find it at the bottom of your bag\nPractised what to say on the Northern line\nThen I just said here, and you just said oh\n\n[Pre-Chorus]\nYou tried it in the door that night\nJiggle it left, it sticks a bit\n\n[Chorus]\nIt's a spare key, it's a spare key\nBrass and still warm in your hand\nSecond on the left when you get to the top\nYou don't ever have to knock again\n\n[Drop - growling Reese bass and full drums, no vocals]\n\n[Outro - piano alone after the drop, then the sub cuts out]\nCame home Thursday and the lights were on\nYou'd let yourself in"
+  },
+  "seed": "567974437",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.14s**\n- 61.14s per song\n- LM phase (1 song): 10.46s\n- DiT phase (1 song): 50.68s",
+  "task_id": "a24b5922-0700-4df0-8177-c88da4047f33",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T20:24:50.157524+08:00",
+  "audio": "b7_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 5.52,
+      "end": 5.52,
+      "text": "[Intro - piano stabs and rolling sub, short]"
+    },
+    {
+      "t": 5.52,
+      "end": 5.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.52,
+      "end": 36.84,
+      "text": "Key kiosk under the stairs at Waterloo"
+    },
+    {
+      "t": 36.84,
+      "end": 39.36,
+      "text": "Man with a grinder and a radio on"
+    },
+    {
+      "t": 39.36,
+      "end": 43.26,
+      "text": "I hand him mine and he says just the one?"
+    },
+    {
+      "t": 43.44,
+      "end": 45.62,
+      "text": "I say just the one, and I go red"
+    },
+    {
+      "t": 48.02,
+      "end": 48.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.02,
+      "end": 50.59,
+      "text": "Sparks off the wheel and my heart's going"
+    },
+    {
+      "t": 50.69,
+      "end": 57.19,
+      "text": "Eight pound fifty, I tap my card twice"
+    },
+    {
+      "t": 58.93,
+      "end": 58.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.93,
+      "end": 60.39,
+      "text": "It's a spare key, it's a spare key"
+    },
+    {
+      "t": 60.63,
+      "end": 62.89,
+      "text": "Brass and still warm in my hand"
+    },
+    {
+      "t": 64.85,
+      "end": 67.05,
+      "text": "Second on the left when you get to the top"
+    },
+    {
+      "t": 67.05,
+      "end": 68.53,
+      "text": "You don't have to knock again"
+    },
+    {
+      "t": 83.85,
+      "end": 83.85,
+      "text": "[Drop - growling Reese bass and full drums, no vocals]"
+    },
+    {
+      "t": 83.85,
+      "end": 83.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.85,
+      "end": 86.43,
+      "text": "I put it on a ring with a plastic lemon"
+    },
+    {
+      "t": 89.21,
+      "end": 91.71,
+      "text": "So you'll find it at the bottom of your bag"
+    },
+    {
+      "t": 92.39,
+      "end": 95.87,
+      "text": "Practised what to say on the Northern line"
+    },
+    {
+      "t": 97.35,
+      "end": 106.89,
+      "text": "Then I just said here, and you just said oh"
+    },
+    {
+      "t": 106.89,
+      "end": 106.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.89,
+      "end": 109.53,
+      "text": "You tried it in the door that night"
+    },
+    {
+      "t": 111.99,
+      "end": 114.65,
+      "text": "Jiggle it left, it sticks a bit"
+    },
+    {
+      "t": 116.43,
+      "end": 116.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.43,
+      "end": 120.17,
+      "text": "It's a spare key, it's a spare key"
+    },
+    {
+      "t": 120.29,
+      "end": 123.13,
+      "text": "Brass and still warm in your hand"
+    },
+    {
+      "t": 123.43,
+      "end": 125.97,
+      "text": "Second on the left when you get to the top"
+    },
+    {
+      "t": 125.99,
+      "end": 128.79,
+      "text": "You don't ever have to knock again"
+    },
+    {
+      "t": 154.4,
+      "end": 154.4,
+      "text": "[Drop - growling Reese bass and full drums, no vocals]"
+    },
+    {
+      "t": 154.4,
+      "end": 154.4,
+      "text": "[Outro - piano alone after the drop, then the sub cuts out]"
+    },
+    {
+      "t": 154.4,
+      "end": 189.04,
+      "text": "Came home Thursday and the lights were on"
+    },
+    {
+      "t": 192.66,
+      "end": 194.98,
+      "text": "You'd let yourself in"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 5.52,
+      "end": 5.52,
+      "text": "[Intro - piano stabs and rolling sub, short]"
+    },
+    {
+      "t": 5.52,
+      "end": 5.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.52,
+      "end": 36.84,
+      "text": "Key kiosk under the stairs at Waterloo"
+    },
+    {
+      "t": 36.84,
+      "end": 39.36,
+      "text": "Man with a grinder and a radio on"
+    },
+    {
+      "t": 39.36,
+      "end": 43.26,
+      "text": "I hand him mine and he says just the one?"
+    },
+    {
+      "t": 43.44,
+      "end": 45.62,
+      "text": "I say just the one, and I go red"
+    },
+    {
+      "t": 48.02,
+      "end": 48.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.02,
+      "end": 50.59,
+      "text": "Sparks off the wheel and my heart's going"
+    },
+    {
+      "t": 50.69,
+      "end": 57.19,
+      "text": "Eight pound fifty, I tap my card twice"
+    },
+    {
+      "t": 58.93,
+      "end": 58.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.93,
+      "end": 60.39,
+      "text": "It's a spare key, it's a spare key"
+    },
+    {
+      "t": 60.63,
+      "end": 62.89,
+      "text": "Brass and still warm in my hand"
+    },
+    {
+      "t": 64.85,
+      "end": 67.05,
+      "text": "Second on the left when you get to the top"
+    },
+    {
+      "t": 67.05,
+      "end": 68.53,
+      "text": "You don't have to knock again"
+    },
+    {
+      "t": 83.85,
+      "end": 83.85,
+      "text": "[Drop - growling Reese bass and full drums, no vocals]"
+    },
+    {
+      "t": 83.85,
+      "end": 83.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.85,
+      "end": 86.43,
+      "text": "I put it on a ring with a plastic lemon"
+    },
+    {
+      "t": 89.21,
+      "end": 91.71,
+      "text": "So you'll find it at the bottom of your bag"
+    },
+    {
+      "t": 92.39,
+      "end": 95.87,
+      "text": "Practised what to say on the Northern line"
+    },
+    {
+      "t": 97.35,
+      "end": 106.89,
+      "text": "Then I just said here, and you just said oh"
+    },
+    {
+      "t": 106.89,
+      "end": 106.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.89,
+      "end": 109.53,
+      "text": "You tried it in the door that night"
+    },
+    {
+      "t": 111.99,
+      "end": 114.65,
+      "text": "Jiggle it left, it sticks a bit"
+    },
+    {
+      "t": 116.43,
+      "end": 116.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.43,
+      "end": 120.17,
+      "text": "It's a spare key, it's a spare key"
+    },
+    {
+      "t": 120.29,
+      "end": 123.13,
+      "text": "Brass and still warm in your hand"
+    },
+    {
+      "t": 123.43,
+      "end": 125.97,
+      "text": "Second on the left when you get to the top"
+    },
+    {
+      "t": 125.99,
+      "end": 128.79,
+      "text": "You don't ever have to knock again"
+    },
+    {
+      "t": 154.4,
+      "end": 154.4,
+      "text": "[Drop - growling Reese bass and full drums, no vocals]"
+    },
+    {
+      "t": 154.4,
+      "end": 154.4,
+      "text": "[Outro - piano alone after the drop, then the sub cuts out]"
+    },
+    {
+      "t": 154.4,
+      "end": 189.04,
+      "text": "Came home Thursday and the lights were on"
+    },
+    {
+      "t": 192.66,
+      "end": 194.98,
+      "text": "You'd let yourself in"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 11.28,
+      "end": 11.28,
+      "text": "[Intro - piano stabs and rolling sub, short]"
+    },
+    {
+      "t": 11.28,
+      "end": 11.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.28,
+      "end": 36.84,
+      "text": "Key kiosk under the stairs at Waterloo"
+    },
+    {
+      "t": 36.84,
+      "end": 39.34,
+      "text": "Man with a grinder and a radio on"
+    },
+    {
+      "t": 39.34,
+      "end": 43.24,
+      "text": "I hand him mine and he says just the one?"
+    },
+    {
+      "t": 43.44,
+      "end": 45.62,
+      "text": "I say just the one, and I go red"
+    },
+    {
+      "t": 48.02,
+      "end": 48.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.02,
+      "end": 50.59,
+      "text": "Sparks off the wheel and my heart's going"
+    },
+    {
+      "t": 50.69,
+      "end": 57.19,
+      "text": "Eight pound fifty, I tap my card twice"
+    },
+    {
+      "t": 58.93,
+      "end": 58.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.93,
+      "end": 60.63,
+      "text": "It's a spare key, it's a spare key"
+    },
+    {
+      "t": 60.63,
+      "end": 62.87,
+      "text": "Brass and still warm in my hand"
+    },
+    {
+      "t": 64.85,
+      "end": 67.05,
+      "text": "Second on the left when you get to the top"
+    },
+    {
+      "t": 67.05,
+      "end": 68.53,
+      "text": "You don't have to knock again"
+    },
+    {
+      "t": 83.83,
+      "end": 83.83,
+      "text": "[Drop - growling Reese bass and full drums, no vocals]"
+    },
+    {
+      "t": 83.83,
+      "end": 83.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.83,
+      "end": 86.43,
+      "text": "I put it on a ring with a plastic lemon"
+    },
+    {
+      "t": 89.21,
+      "end": 92.41,
+      "text": "So you'll find it at the bottom of your bag"
+    },
+    {
+      "t": 92.43,
+      "end": 95.85,
+      "text": "Practised what to say on the Northern line"
+    },
+    {
+      "t": 97.35,
+      "end": 103.85,
+      "text": "Then I just said here, and you just said oh"
+    },
+    {
+      "t": 106.91,
+      "end": 106.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.91,
+      "end": 109.65,
+      "text": "You tried it in the door that night"
+    },
+    {
+      "t": 111.99,
+      "end": 114.65,
+      "text": "Jiggle it left, it sticks a bit"
+    },
+    {
+      "t": 116.45,
+      "end": 116.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.45,
+      "end": 134.57,
+      "text": "It's a spare key, it's a spare key"
+    },
+    {
+      "t": 134.73,
+      "end": 140.33,
+      "text": "Brass and still warm in your hand"
+    },
+    {
+      "t": 140.57,
+      "end": 172.2,
+      "text": "Second on the left when you get to the top"
+    },
+    {
+      "t": 172.28,
+      "end": 182.58,
+      "text": "You don't ever have to knock again"
+    },
+    {
+      "t": 182.96,
+      "end": 182.96,
+      "text": "[Drop - growling Reese bass and full drums, no vocals]"
+    },
+    {
+      "t": 182.96,
+      "end": 182.96,
+      "text": "[Outro - piano alone after the drop, then the sub cuts out]"
+    },
+    {
+      "t": 182.96,
+      "end": 189.04,
+      "text": "Came home Thursday and the lights were on"
+    },
+    {
+      "t": 192.66,
+      "end": 194.96,
+      "text": "You'd let yourself in"
+    }
+  ]
+}

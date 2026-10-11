@@ -1,0 +1,317 @@
+{
+  "id": "b7_zh09",
+  "title": "翻個面",
+  "title_source": "scripted",
+  "genre": "Northeastern folk-tune storytelling pop",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "sly, steamy and satirical",
+  "persona": "",
+  "subject": "a Harbin bathhouse scrubber who has scrubbed the factory director and the factory gatekeeper for thirty years and says their backs look exactly the same",
+  "caption": "Northeastern Chinese folk-tune storytelling pop. A bright, nasal banhu fiddle playing the lead tune and answering each line; suona fills at the end of each verse; bamboo clappers clacking on every beat; a cheap electronic stage keyboard pumping the chords like a village folk-opera troupe; an electric bass bouncing on one and three; a dry pop kit with handclaps and call-and-response stops. Dry and close like the back room of an old bathhouse, the banhu and the voice forward, a small group chorus behind. Male voice, a gravelly, nasal baritone, half-sung and half-recited in a sly, satirical storyteller delivery with Northeastern speech rhythm, and a small group chorus shouting the answers. 120 BPM, G major. Sly, steamy and satirical. No guzheng, no Peking opera falsetto, no free-rhythm hua'er calls, no accordion, no frame drum, no dutar, no trap drums, no autotune.",
+  "lyrics": "[Intro - short, banhu tune over bamboo clappers]\n\n[Verse 1]\n哈爾濱道外 老澡堂子 熱氣冒到大馬路上\n搓澡的老孫 一條搓澡巾 搓了三十年\n進門的人 有的坐小轎車 有的騎二八大槓\n衣服一脫 鑰匙往手腕上一套 誰也不認識誰\n\n[Chorus - group answers]\n來 翻個面 (翻個面!)\n廠長的後背 跟看大門的老王 一個樣\n來 翻個面 (翻個面!)\n搓下來的泥 也沒比誰多一兩\n\n[Verse 2]\n有一回廠長來了 倆秘書在門口等著\n他說老孫 你給我好好搓 明天我要上台講話\n老孫說 你趴好 你這肚子 比你們廠的庫存還多\n廠長嘿嘿一笑 說你這張嘴 比你那毛巾還狠\n\n[Chorus - group answers]\n來 翻個面 (翻個面!)\n廠長的後背 跟看大門的老王 一個樣\n來 翻個面 (翻個面!)\n出了這個門 你再接著當你的廠長\n\n[Bridge - clappers and handclaps only, call and response]\n水熱不熱 (熱!)\n勁大不大 (大!)\n二十塊錢 (值!)\n\n[Outro - suona fill, banhu closes the tune]\n老孫說 我這輩子沒記住誰的臉\n後背倒是 一個都沒忘",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 212.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Northeastern Chinese folk-tune storytelling pop. A bright, nasal banhu fiddle playing the lead tune and answering each line; suona fills at the end of each verse; bamboo clappers clacking on every beat; a cheap electronic stage keyboard pumping the chords like a village folk-opera troupe; an electric bass bouncing on one and three; a dry pop kit with handclaps and call-and-response stops. Dry and close like the back room of an old bathhouse, the banhu and the voice forward, a small group chorus behind. Male voice, a gravelly, nasal baritone, half-sung and half-recited in a sly, satirical storyteller delivery with Northeastern speech rhythm, and a small group chorus shouting the answers. 120 BPM, G major. Sly, steamy and satirical. No guzheng, no Peking opera falsetto, no free-rhythm hua'er calls, no accordion, no frame drum, no dutar, no trap drums, no autotune.",
+    "lyrics": "[Intro - short, banhu tune over bamboo clappers]\n\n[Verse 1]\n哈爾濱道外 老澡堂子 熱氣冒到大馬路上\n搓澡的老孫 一條搓澡巾 搓了三十年\n進門的人 有的坐小轎車 有的騎二八大槓\n衣服一脫 鑰匙往手腕上一套 誰也不認識誰\n\n[Chorus - group answers]\n來 翻個面 (翻個面!)\n廠長的後背 跟看大門的老王 一個樣\n來 翻個面 (翻個面!)\n搓下來的泥 也沒比誰多一兩\n\n[Verse 2]\n有一回廠長來了 倆秘書在門口等著\n他說老孫 你給我好好搓 明天我要上台講話\n老孫說 你趴好 你這肚子 比你們廠的庫存還多\n廠長嘿嘿一笑 說你這張嘴 比你那毛巾還狠\n\n[Chorus - group answers]\n來 翻個面 (翻個面!)\n廠長的後背 跟看大門的老王 一個樣\n來 翻個面 (翻個面!)\n出了這個門 你再接著當你的廠長\n\n[Bridge - clappers and handclaps only, call and response]\n水熱不熱 (熱!)\n勁大不大 (大!)\n二十塊錢 (值!)\n\n[Outro - suona fill, banhu closes the tune]\n老孫說 我這輩子沒記住誰的臉\n後背倒是 一個都沒忘"
+  },
+  "seed": "3746742391",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.35s**\n- 60.35s per song\n- LM phase (1 song): 10.48s\n- DiT phase (1 song): 49.87s",
+  "task_id": "14fc2250-b6ab-4869-b1e0-b5f7ae13f8be",
+  "elapsed_s": 80.5,
+  "generated_at": "2026-10-10T20:47:43.430609+08:00",
+  "audio": "b7_zh09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.58,
+      "end": 4.58,
+      "text": "[Intro - short, banhu tune over bamboo clappers]"
+    },
+    {
+      "t": 4.58,
+      "end": 4.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.58,
+      "end": 37.98,
+      "text": "哈爾濱道外 老澡堂子 熱氣冒到大馬路上"
+    },
+    {
+      "t": 40.66,
+      "end": 43.1,
+      "text": "搓澡的老孫 一條搓澡巾 搓了三十年"
+    },
+    {
+      "t": 43.1,
+      "end": 45.76,
+      "text": "進門的人 有的坐小轎車 有的騎二八大槓"
+    },
+    {
+      "t": 45.76,
+      "end": 52.16,
+      "text": "衣服一脫 鑰匙往手腕上一套 誰也不認識誰"
+    },
+    {
+      "t": 52.16,
+      "end": 52.16,
+      "text": "[Chorus - group answers]"
+    },
+    {
+      "t": 52.16,
+      "end": 53.09,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 53.09,
+      "end": 57.77,
+      "text": "廠長的後背 跟看大門的老王 一個樣"
+    },
+    {
+      "t": 57.91,
+      "end": 59.59,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 59.65,
+      "end": 61.57,
+      "text": "搓下來的泥 也沒比誰多一兩"
+    },
+    {
+      "t": 61.57,
+      "end": 61.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.57,
+      "end": 65.49,
+      "text": "有一回廠長來了 倆秘書在門口等著"
+    },
+    {
+      "t": 65.53,
+      "end": 72.03,
+      "text": "他說老孫 你給我好好搓 明天我要上台講話"
+    },
+    {
+      "t": 73.39,
+      "end": 79.51,
+      "text": "老孫說 你趴好 你這肚子 比你們廠的庫存還多"
+    },
+    {
+      "t": 81.35,
+      "end": 87.63,
+      "text": "廠長嘿嘿一笑 說你這張嘴 比你那毛巾還狠"
+    },
+    {
+      "t": 89.63,
+      "end": 89.63,
+      "text": "[Chorus - group answers]"
+    },
+    {
+      "t": 89.63,
+      "end": 92.81,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 92.91,
+      "end": 107.95,
+      "text": "廠長的後背 跟看大門的老王 一個樣"
+    },
+    {
+      "t": 109.55,
+      "end": 114.39,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 117.35,
+      "end": 122.45,
+      "text": "出了這個門 你再接著當你的廠長"
+    },
+    {
+      "t": 150.55,
+      "end": 150.55,
+      "text": "[Bridge - clappers and handclaps only, call and response]"
+    },
+    {
+      "t": 150.55,
+      "end": 161.2,
+      "text": "水熱不熱 (熱!)"
+    },
+    {
+      "t": 165.82,
+      "end": 172.16,
+      "text": "勁大不大 (大!)"
+    },
+    {
+      "t": 172.34,
+      "end": 177.96,
+      "text": "二十塊錢 (值!)"
+    },
+    {
+      "t": 178.34,
+      "end": 178.34,
+      "text": "[Outro - suona fill, banhu closes the tune]"
+    },
+    {
+      "t": 178.34,
+      "end": 186.64,
+      "text": "老孫說 我這輩子沒記住誰的臉"
+    },
+    {
+      "t": 190.82,
+      "end": 194.62,
+      "text": "後背倒是 一個都沒忘"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 1.06,
+      "end": 1.06,
+      "text": "[Intro - short, banhu tune over bamboo clappers]"
+    },
+    {
+      "t": 1.06,
+      "end": 1.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.06,
+      "end": 37.98,
+      "text": "哈爾濱道外 老澡堂子 熱氣冒到大馬路上"
+    },
+    {
+      "t": 37.98,
+      "end": 41.32,
+      "text": "搓澡的老孫 一條搓澡巾 搓了三十年"
+    },
+    {
+      "t": 41.32,
+      "end": 44.2,
+      "text": "進門的人 有的坐小轎車 有的騎二八大槓"
+    },
+    {
+      "t": 44.22,
+      "end": 51.36,
+      "text": "衣服一脫 鑰匙往手腕上一套 誰也不認識誰"
+    },
+    {
+      "t": 51.36,
+      "end": 51.36,
+      "text": "[Chorus - group answers]"
+    },
+    {
+      "t": 51.36,
+      "end": 52.58,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 52.9,
+      "end": 57.77,
+      "text": "廠長的後背 跟看大門的老王 一個樣"
+    },
+    {
+      "t": 57.91,
+      "end": 59.59,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 59.65,
+      "end": 61.57,
+      "text": "搓下來的泥 也沒比誰多一兩"
+    },
+    {
+      "t": 61.57,
+      "end": 61.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.57,
+      "end": 65.47,
+      "text": "有一回廠長來了 倆秘書在門口等著"
+    },
+    {
+      "t": 65.47,
+      "end": 72.01,
+      "text": "他說老孫 你給我好好搓 明天我要上台講話"
+    },
+    {
+      "t": 73.39,
+      "end": 79.51,
+      "text": "老孫說 你趴好 你這肚子 比你們廠的庫存還多"
+    },
+    {
+      "t": 81.35,
+      "end": 87.65,
+      "text": "廠長嘿嘿一笑 說你這張嘴 比你那毛巾還狠"
+    },
+    {
+      "t": 89.63,
+      "end": 89.63,
+      "text": "[Chorus - group answers]"
+    },
+    {
+      "t": 89.63,
+      "end": 92.57,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 92.67,
+      "end": 105.97,
+      "text": "廠長的後背 跟看大門的老王 一個樣"
+    },
+    {
+      "t": 109.55,
+      "end": 114.41,
+      "text": "來 翻個面 (翻個面!)"
+    },
+    {
+      "t": 117.35,
+      "end": 122.47,
+      "text": "出了這個門 你再接著當你的廠長"
+    },
+    {
+      "t": 124.67,
+      "end": 124.67,
+      "text": "[Bridge - clappers and handclaps only, call and response]"
+    },
+    {
+      "t": 124.67,
+      "end": 152.47,
+      "text": "水熱不熱 (熱!)"
+    },
+    {
+      "t": 153.07,
+      "end": 161.2,
+      "text": "勁大不大 (大!)"
+    },
+    {
+      "t": 161.54,
+      "end": 178.4,
+      "text": "二十塊錢 (值!)"
+    },
+    {
+      "t": 181.3,
+      "end": 181.3,
+      "text": "[Outro - suona fill, banhu closes the tune]"
+    },
+    {
+      "t": 181.3,
+      "end": 186.7,
+      "text": "老孫說 我這輩子沒記住誰的臉"
+    },
+    {
+      "t": 190.82,
+      "end": 194.64,
+      "text": "後背倒是 一個都沒忘"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

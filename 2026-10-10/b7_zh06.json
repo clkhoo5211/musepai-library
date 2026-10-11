@@ -1,0 +1,367 @@
+{
+  "id": "b7_zh06",
+  "title": "到底是誰先說的",
+  "title_source": "scripted",
+  "genre": "Mandarin original musical theatre show tune",
+  "language": "zh",
+  "language_name": "Mandarin",
+  "mood": "bickering and completely in love",
+  "persona": "",
+  "subject": "a couple holding ticket 147 in the marriage registry queue, still arguing over which of them said 'I like you' first",
+  "caption": "Chinese-language original musical theatre show tune, a comic duet in the Shanghai small-theatre style. A pit orchestra led by piano; a string section underscoring the recitative; clarinet and flute trading quick answering figures between the two singers; a French horn swelling under the last chorus and timpani hits on each dramatic turn; a light kit played with brushes that drops out for the recitative and for the slower final chorus. Clear and theatrical, roomy like a small playhouse, both voices forward with crisp diction. A male baritone and a female mezzo-soprano with legit theatre tone opening into belt, arguing in sung recitative, trading lines, and ending together on one long held note. 108 BPM, E-flat major. Bickering and completely in love. No pop ballad, no drum machine, no rap, no TV-drama string pad, no autotune.",
+  "lyrics": "[Intro - short, piano vamp, pizzicato strings ticking like a queue display]\n\n[Verse 1 - Female, sung recitative]\n一百四十七號 前面還有十二對\n說好穿白襯衫 你怎麼穿了格子的\n戶口本 身份證 三張兩吋的合照\n你把袋子抱在胸口 好像抱著一隻貓\n\n[Pre-Chorus - Male, strings rise]\n妳還記得嗎 那年在公司樓下\n是妳先跑來問我 要不要一起拼外賣\n\n[Chorus - Duet, brushes enter]\n到底是誰先說的\n是你 (是妳) 是你 (是妳)\n那天停電 我們卡在電梯裡\n黑暗裡有一個人 小聲說了喜歡\n\n[Verse 2 - Male, Female, Male, trading lines]\n是妳 那時候妳的聲音在發抖\n是你 你抖到整台電梯都在晃\n那是電梯 它自己在晃\n\n[Chorus - Duet]\n到底是誰先說的\n是你 (是妳) 是你 (是妳)\n吵了三年 誰也不認輸\n今天就去問 那個蓋章的人\n\n[Bridge - both voices half-spoken over timpani, then the horn swells]\n三號窗口的阿姨抬頭問 你們是自願的嗎\n\n[Chorus - Duet, full strings and horn, slower, ending on one long held note]\n到底是誰先說的\n這一次 我們同時說了 是\n蓋章的阿姨笑了 好 那就不用吵了\n是——\n\n[Outro - piano alone, one last pizzicato tick; Male, then Female]\n剛剛那一聲 是我先說的\n才怪",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 228.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Chinese-language original musical theatre show tune, a comic duet in the Shanghai small-theatre style. A pit orchestra led by piano; a string section underscoring the recitative; clarinet and flute trading quick answering figures between the two singers; a French horn swelling under the last chorus and timpani hits on each dramatic turn; a light kit played with brushes that drops out for the recitative and for the slower final chorus. Clear and theatrical, roomy like a small playhouse, both voices forward with crisp diction. A male baritone and a female mezzo-soprano with legit theatre tone opening into belt, arguing in sung recitative, trading lines, and ending together on one long held note. 108 BPM, E-flat major. Bickering and completely in love. No pop ballad, no drum machine, no rap, no TV-drama string pad, no autotune.",
+    "lyrics": "[Intro - short, piano vamp, pizzicato strings ticking like a queue display]\n\n[Verse 1 - Female, sung recitative]\n一百四十七號 前面還有十二對\n說好穿白襯衫 你怎麼穿了格子的\n戶口本 身份證 三張兩吋的合照\n你把袋子抱在胸口 好像抱著一隻貓\n\n[Pre-Chorus - Male, strings rise]\n妳還記得嗎 那年在公司樓下\n是妳先跑來問我 要不要一起拼外賣\n\n[Chorus - Duet, brushes enter]\n到底是誰先說的\n是你 (是妳) 是你 (是妳)\n那天停電 我們卡在電梯裡\n黑暗裡有一個人 小聲說了喜歡\n\n[Verse 2 - Male, Female, Male, trading lines]\n是妳 那時候妳的聲音在發抖\n是你 你抖到整台電梯都在晃\n那是電梯 它自己在晃\n\n[Chorus - Duet]\n到底是誰先說的\n是你 (是妳) 是你 (是妳)\n吵了三年 誰也不認輸\n今天就去問 那個蓋章的人\n\n[Bridge - both voices half-spoken over timpani, then the horn swells]\n三號窗口的阿姨抬頭問 你們是自願的嗎\n\n[Chorus - Duet, full strings and horn, slower, ending on one long held note]\n到底是誰先說的\n這一次 我們同時說了 是\n蓋章的阿姨笑了 好 那就不用吵了\n是——\n\n[Outro - piano alone, one last pizzicato tick; Male, then Female]\n剛剛那一聲 是我先說的\n才怪"
+  },
+  "seed": "2751159261",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.98s**\n- 61.98s per song\n- LM phase (1 song): 9.05s\n- DiT phase (1 song): 52.93s",
+  "task_id": "09ad9c43-b3d2-4e74-937f-b5a004083989",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-10T20:43:42.758028+08:00",
+  "audio": "b7_zh06.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.88,
+      "end": 29.88,
+      "text": "[Intro - short, piano vamp, pizzicato strings ticking like a queue display]"
+    },
+    {
+      "t": 29.88,
+      "end": 29.88,
+      "text": "[Verse 1 - Female, sung recitative]"
+    },
+    {
+      "t": 29.88,
+      "end": 39.44,
+      "text": "一百四十七號 前面還有十二對"
+    },
+    {
+      "t": 39.6,
+      "end": 74.77,
+      "text": "說好穿白襯衫 你怎麼穿了格子的"
+    },
+    {
+      "t": 74.91,
+      "end": 84.85,
+      "text": "戶口本 身份證 三張兩吋的合照"
+    },
+    {
+      "t": 84.85,
+      "end": 90.11,
+      "text": "你把袋子抱在胸口 好像抱著一隻貓"
+    },
+    {
+      "t": 91.13,
+      "end": 91.13,
+      "text": "[Pre-Chorus - Male, strings rise]"
+    },
+    {
+      "t": 91.13,
+      "end": 93.95,
+      "text": "妳還記得嗎 那年在公司樓下"
+    },
+    {
+      "t": 93.95,
+      "end": 98.65,
+      "text": "是妳先跑來問我 要不要一起拼外賣"
+    },
+    {
+      "t": 99.13,
+      "end": 99.13,
+      "text": "[Chorus - Duet, brushes enter]"
+    },
+    {
+      "t": 99.13,
+      "end": 101.75,
+      "text": "到底是誰先說的"
+    },
+    {
+      "t": 103.25,
+      "end": 108.45,
+      "text": "是你 (是妳) 是你 (是妳)"
+    },
+    {
+      "t": 108.55,
+      "end": 111.49,
+      "text": "那天停電 我們卡在電梯裡"
+    },
+    {
+      "t": 111.49,
+      "end": 117.89,
+      "text": "黑暗裡有一個人 小聲說了喜歡"
+    },
+    {
+      "t": 117.91,
+      "end": 117.91,
+      "text": "[Verse 2 - Male, Female, Male, trading lines]"
+    },
+    {
+      "t": 117.91,
+      "end": 135.67,
+      "text": "是妳 那時候妳的聲音在發抖"
+    },
+    {
+      "t": 135.77,
+      "end": 139.19,
+      "text": "是你 你抖到整台電梯都在晃"
+    },
+    {
+      "t": 139.25,
+      "end": 149.75,
+      "text": "那是電梯 它自己在晃"
+    },
+    {
+      "t": 149.75,
+      "end": 149.75,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 149.75,
+      "end": 151.59,
+      "text": "到底是誰先說的"
+    },
+    {
+      "t": 152.85,
+      "end": 154.79,
+      "text": "是你 (是妳) 是你 (是妳)"
+    },
+    {
+      "t": 154.79,
+      "end": 157.03,
+      "text": "吵了三年 誰也不認輸"
+    },
+    {
+      "t": 157.03,
+      "end": 160.59,
+      "text": "今天就去問 那個蓋章的人"
+    },
+    {
+      "t": 160.61,
+      "end": 160.61,
+      "text": "[Bridge - both voices half-spoken over timpani, then the horn swells]"
+    },
+    {
+      "t": 160.61,
+      "end": 173.88,
+      "text": "三號窗口的阿姨抬頭問 你們是自願的嗎"
+    },
+    {
+      "t": 173.88,
+      "end": 173.88,
+      "text": "[Chorus - Duet, full strings and horn, slower, ending on one long held note]"
+    },
+    {
+      "t": 173.88,
+      "end": 178.34,
+      "text": "到底是誰先說的"
+    },
+    {
+      "t": 182.0,
+      "end": 190.3,
+      "text": "這一次 我們同時說了 是"
+    },
+    {
+      "t": 190.42,
+      "end": 206.5,
+      "text": "蓋章的阿姨笑了 好 那就不用吵了"
+    },
+    {
+      "t": 208.04,
+      "end": 208.1,
+      "text": "是——"
+    },
+    {
+      "t": 219.58,
+      "end": 219.58,
+      "text": "[Outro - piano alone, one last pizzicato tick; Male, then Female]"
+    },
+    {
+      "t": 219.58,
+      "end": 223.28,
+      "text": "剛剛那一聲 是我先說的"
+    },
+    {
+      "t": 225.34,
+      "end": 226.2,
+      "text": "才怪"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.9,
+      "end": 29.9,
+      "text": "[Intro - short, piano vamp, pizzicato strings ticking like a queue display]"
+    },
+    {
+      "t": 29.9,
+      "end": 29.9,
+      "text": "[Verse 1 - Female, sung recitative]"
+    },
+    {
+      "t": 29.9,
+      "end": 68.33,
+      "text": "一百四十七號 前面還有十二對"
+    },
+    {
+      "t": 68.45,
+      "end": 84.71,
+      "text": "說好穿白襯衫 你怎麼穿了格子的"
+    },
+    {
+      "t": 84.71,
+      "end": 90.09,
+      "text": "戶口本 身份證 三張兩吋的合照"
+    },
+    {
+      "t": 91.21,
+      "end": 95.59,
+      "text": "你把袋子抱在胸口 好像抱著一隻貓"
+    },
+    {
+      "t": 95.61,
+      "end": 95.61,
+      "text": "[Pre-Chorus - Male, strings rise]"
+    },
+    {
+      "t": 95.61,
+      "end": 96.29,
+      "text": "妳還記得嗎 那年在公司樓下"
+    },
+    {
+      "t": 96.29,
+      "end": 99.13,
+      "text": "是妳先跑來問我 要不要一起拼外賣"
+    },
+    {
+      "t": 99.13,
+      "end": 99.13,
+      "text": "[Chorus - Duet, brushes enter]"
+    },
+    {
+      "t": 99.13,
+      "end": 101.75,
+      "text": "到底是誰先說的"
+    },
+    {
+      "t": 103.23,
+      "end": 108.45,
+      "text": "是你 (是妳) 是你 (是妳)"
+    },
+    {
+      "t": 108.45,
+      "end": 111.49,
+      "text": "那天停電 我們卡在電梯裡"
+    },
+    {
+      "t": 111.49,
+      "end": 118.49,
+      "text": "黑暗裡有一個人 小聲說了喜歡"
+    },
+    {
+      "t": 118.59,
+      "end": 118.59,
+      "text": "[Verse 2 - Male, Female, Male, trading lines]"
+    },
+    {
+      "t": 118.59,
+      "end": 135.67,
+      "text": "是妳 那時候妳的聲音在發抖"
+    },
+    {
+      "t": 135.77,
+      "end": 139.17,
+      "text": "是你 你抖到整台電梯都在晃"
+    },
+    {
+      "t": 139.17,
+      "end": 150.05,
+      "text": "那是電梯 它自己在晃"
+    },
+    {
+      "t": 150.05,
+      "end": 150.05,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 150.05,
+      "end": 151.59,
+      "text": "到底是誰先說的"
+    },
+    {
+      "t": 151.59,
+      "end": 154.79,
+      "text": "是你 (是妳) 是你 (是妳)"
+    },
+    {
+      "t": 154.79,
+      "end": 157.07,
+      "text": "吵了三年 誰也不認輸"
+    },
+    {
+      "t": 157.19,
+      "end": 160.51,
+      "text": "今天就去問 那個蓋章的人"
+    },
+    {
+      "t": 160.61,
+      "end": 160.61,
+      "text": "[Bridge - both voices half-spoken over timpani, then the horn swells]"
+    },
+    {
+      "t": 160.61,
+      "end": 173.84,
+      "text": "三號窗口的阿姨抬頭問 你們是自願的嗎"
+    },
+    {
+      "t": 173.88,
+      "end": 173.88,
+      "text": "[Chorus - Duet, full strings and horn, slower, ending on one long held note]"
+    },
+    {
+      "t": 173.88,
+      "end": 178.34,
+      "text": "到底是誰先說的"
+    },
+    {
+      "t": 181.98,
+      "end": 190.3,
+      "text": "這一次 我們同時說了 是"
+    },
+    {
+      "t": 190.42,
+      "end": 201.86,
+      "text": "蓋章的阿姨笑了 好 那就不用吵了"
+    },
+    {
+      "t": 202.74,
+      "end": 209.0,
+      "text": "是——"
+    },
+    {
+      "t": 219.58,
+      "end": 219.58,
+      "text": "[Outro - piano alone, one last pizzicato tick; Male, then Female]"
+    },
+    {
+      "t": 219.58,
+      "end": 223.28,
+      "text": "剛剛那一聲 是我先說的"
+    },
+    {
+      "t": 225.32,
+      "end": 226.22,
+      "text": "才怪"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

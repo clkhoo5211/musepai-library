@@ -1,0 +1,377 @@
+{
+  "id": "b7_ja04",
+  "title": "火曜は燃える",
+  "title_source": "scripted",
+  "genre": "Japanese funk/R&B mixture band",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sly, funky and put-upon",
+  "persona": "",
+  "subject": "a newcomer's rubbish bag left behind with a yellow sticker, and the woman across the street who comes down to teach him the sorting rules",
+  "caption": "Japanese funk-rock mixture band, live five-piece funk with rap-flow verses. Slap and fingered electric bass playing syncopated sixteenths; a choppy wah guitar and muted single-note funk guitar lines; clavinet comping with Rhodes and short organ swells; live drums in a hip-hop pocket with a dry snare, a laid-back kick and tight hi-hats; short clavinet-and-organ stabs at the ends of phrases. Dry and punchy, like a band playing together in one studio room, bass and voice forward, clav and guitar panned apart. Male lead half-rapping the verses in rhythmic Japanese wordplay and switching to a falsetto soul hook, with short ad-libs. 108 BPM, G minor. Sly, funky and put-upon. No programmed beat, no four-on-the-floor, no trap hi-hats, no autotune, no city-pop synth brass, no ballad section.",
+  "lyrics": "[Intro - slap bass riff, clavinet and dry snare]\n\n[Verse 1]\n引っ越し三日目 ポストに冊子\n分別ガイドは 十二ページ\nラベル剥がして キャップは別\n洗って 潰して 出すのは 第二木曜\n\n[Pre-Chorus]\n朝の集積所 向かいの二階\nカーテンの隙間から 視線が刺さる\n\n[Chorus]\n火曜は燃える\n燃えるゴミの日\n黄色いシール 貼られて\n俺の袋だけ 置いてかれた\n\n[Verse 2]\n傘は何ゴミ? フライパンは?\nアプリに聞いても 「お問い合わせください」\n向かいのおばちゃん 降りてきて\n「あんた 新しい人?」って 袋を開けた\n\n[Pre-Chorus]\n十分間の 説教 最後にひとこと\n「わかんなかったら うちに聞きな」\n\n[Chorus]\n火曜は燃える\n燃えるゴミの日\n今朝は シールなしで 持ってかれた\n俺も ちょっと 燃えてきた\n\n[Bridge - clavinet and slap bass break, ad-libs]\n燃える 燃えない びん 缶 ペット\n全部言えたら 手を叩け\n\n[Outro - band stops dead on one hit]\n来週は 粗大ゴミ\n電話予約 何番だっけ\n[Song ends abruptly]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Japanese funk-rock mixture band, live five-piece funk with rap-flow verses. Slap and fingered electric bass playing syncopated sixteenths; a choppy wah guitar and muted single-note funk guitar lines; clavinet comping with Rhodes and short organ swells; live drums in a hip-hop pocket with a dry snare, a laid-back kick and tight hi-hats; short clavinet-and-organ stabs at the ends of phrases. Dry and punchy, like a band playing together in one studio room, bass and voice forward, clav and guitar panned apart. Male lead half-rapping the verses in rhythmic Japanese wordplay and switching to a falsetto soul hook, with short ad-libs. 108 BPM, G minor. Sly, funky and put-upon. No programmed beat, no four-on-the-floor, no trap hi-hats, no autotune, no city-pop synth brass, no ballad section.",
+    "lyrics": "[Intro - slap bass riff, clavinet and dry snare]\n\n[Verse 1]\n引っ越し三日目 ポストに冊子\n分別ガイドは 十二ページ\nラベル剥がして キャップは別\n洗って 潰して 出すのは 第二木曜\n\n[Pre-Chorus]\n朝の集積所 向かいの二階\nカーテンの隙間から 視線が刺さる\n\n[Chorus]\n火曜は燃える\n燃えるゴミの日\n黄色いシール 貼られて\n俺の袋だけ 置いてかれた\n\n[Verse 2]\n傘は何ゴミ? フライパンは?\nアプリに聞いても 「お問い合わせください」\n向かいのおばちゃん 降りてきて\n「あんた 新しい人?」って 袋を開けた\n\n[Pre-Chorus]\n十分間の 説教 最後にひとこと\n「わかんなかったら うちに聞きな」\n\n[Chorus]\n火曜は燃える\n燃えるゴミの日\n今朝は シールなしで 持ってかれた\n俺も ちょっと 燃えてきた\n\n[Bridge - clavinet and slap bass break, ad-libs]\n燃える 燃えない びん 缶 ペット\n全部言えたら 手を叩け\n\n[Outro - band stops dead on one hit]\n来週は 粗大ゴミ\n電話予約 何番だっけ\n[Song ends abruptly]"
+  },
+  "seed": "1088833330",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.97s**\n- 58.97s per song\n- LM phase (1 song): 12.10s\n- DiT phase (1 song): 46.88s",
+  "task_id": "1166985f-214a-4aa0-acd6-48fed6576d82",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-10T20:55:04.708109+08:00",
+  "audio": "b7_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Intro - slap bass riff, clavinet and dry snare]"
+    },
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.96,
+      "end": 52.89,
+      "text": "引っ越し三日目 ポストに冊子"
+    },
+    {
+      "t": 52.97,
+      "end": 53.95,
+      "text": "分別ガイドは 十二ページ"
+    },
+    {
+      "t": 53.95,
+      "end": 55.13,
+      "text": "ラベル剥がして キャップは別"
+    },
+    {
+      "t": 55.13,
+      "end": 57.87,
+      "text": "洗って 潰して 出すのは 第二木曜"
+    },
+    {
+      "t": 57.87,
+      "end": 57.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.87,
+      "end": 58.51,
+      "text": "朝の集積所 向かいの二階"
+    },
+    {
+      "t": 58.65,
+      "end": 62.53,
+      "text": "カーテンの隙間から 視線が刺さる"
+    },
+    {
+      "t": 62.63,
+      "end": 62.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.63,
+      "end": 64.79,
+      "text": "火曜は燃える"
+    },
+    {
+      "t": 64.79,
+      "end": 65.63,
+      "text": "燃えるゴミの日"
+    },
+    {
+      "t": 65.71,
+      "end": 66.95,
+      "text": "黄色いシール 貼られて"
+    },
+    {
+      "t": 66.97,
+      "end": 69.25,
+      "text": "俺の袋だけ 置いてかれた"
+    },
+    {
+      "t": 69.31,
+      "end": 69.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.31,
+      "end": 71.13,
+      "text": "傘は何ゴミ? フライパンは?"
+    },
+    {
+      "t": 71.17,
+      "end": 73.07,
+      "text": "アプリに聞いても 「お問い合わせください」"
+    },
+    {
+      "t": 73.09,
+      "end": 76.29,
+      "text": "向かいのおばちゃん 降りてきて"
+    },
+    {
+      "t": 76.29,
+      "end": 78.43,
+      "text": "「あんた 新しい人?」って 袋を開けた"
+    },
+    {
+      "t": 78.99,
+      "end": 78.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.99,
+      "end": 81.75,
+      "text": "十分間の 説教 最後にひとこと"
+    },
+    {
+      "t": 82.63,
+      "end": 86.63,
+      "text": "「わかんなかったら うちに聞きな」"
+    },
+    {
+      "t": 87.35,
+      "end": 87.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.35,
+      "end": 89.99,
+      "text": "火曜は燃える"
+    },
+    {
+      "t": 90.57,
+      "end": 95.65,
+      "text": "燃えるゴミの日"
+    },
+    {
+      "t": 95.99,
+      "end": 100.23,
+      "text": "今朝は シールなしで 持ってかれた"
+    },
+    {
+      "t": 100.79,
+      "end": 103.03,
+      "text": "俺も ちょっと 燃えてきた"
+    },
+    {
+      "t": 109.59,
+      "end": 109.59,
+      "text": "[Bridge - clavinet and slap bass break, ad-libs]"
+    },
+    {
+      "t": 109.59,
+      "end": 111.91,
+      "text": "燃える 燃えない びん 缶 ペット"
+    },
+    {
+      "t": 112.09,
+      "end": 126.61,
+      "text": "全部言えたら 手を叩け"
+    },
+    {
+      "t": 140.73,
+      "end": 140.73,
+      "text": "[Outro - band stops dead on one hit]"
+    },
+    {
+      "t": 140.73,
+      "end": 143.09,
+      "text": "来週は 粗大ゴミ"
+    },
+    {
+      "t": 144.03,
+      "end": 147.81,
+      "text": "電話予約 何番だっけ"
+    },
+    {
+      "t": 147.81,
+      "end": 147.81,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 47.4,
+      "end": 47.4,
+      "text": "[Intro - slap bass riff, clavinet and dry snare]"
+    },
+    {
+      "t": 47.4,
+      "end": 47.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 47.4,
+      "end": 61.57,
+      "text": "引っ越し三日目 ポストに冊子"
+    },
+    {
+      "t": 61.61,
+      "end": 62.47,
+      "text": "分別ガイドは 十二ページ"
+    },
+    {
+      "t": 62.49,
+      "end": 65.55,
+      "text": "ラベル剥がして キャップは別"
+    },
+    {
+      "t": 65.55,
+      "end": 76.03,
+      "text": "洗って 潰して 出すのは 第二木曜"
+    },
+    {
+      "t": 76.21,
+      "end": 76.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 76.21,
+      "end": 77.15,
+      "text": "朝の集積所 向かいの二階"
+    },
+    {
+      "t": 77.25,
+      "end": 82.65,
+      "text": "カーテンの隙間から 視線が刺さる"
+    },
+    {
+      "t": 82.91,
+      "end": 82.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.91,
+      "end": 84.53,
+      "text": "火曜は燃える"
+    },
+    {
+      "t": 84.53,
+      "end": 85.53,
+      "text": "燃えるゴミの日"
+    },
+    {
+      "t": 85.61,
+      "end": 87.43,
+      "text": "黄色いシール 貼られて"
+    },
+    {
+      "t": 87.43,
+      "end": 89.01,
+      "text": "俺の袋だけ 置いてかれた"
+    },
+    {
+      "t": 89.53,
+      "end": 89.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.53,
+      "end": 92.17,
+      "text": "傘は何ゴミ? フライパンは?"
+    },
+    {
+      "t": 92.31,
+      "end": 95.65,
+      "text": "アプリに聞いても 「お問い合わせください」"
+    },
+    {
+      "t": 95.95,
+      "end": 97.59,
+      "text": "向かいのおばちゃん 降りてきて"
+    },
+    {
+      "t": 97.59,
+      "end": 100.25,
+      "text": "「あんた 新しい人?」って 袋を開けた"
+    },
+    {
+      "t": 100.97,
+      "end": 100.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.97,
+      "end": 116.35,
+      "text": "十分間の 説教 最後にひとこと"
+    },
+    {
+      "t": 116.55,
+      "end": 141.95,
+      "text": "「わかんなかったら うちに聞きな」"
+    },
+    {
+      "t": 142.11,
+      "end": 142.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.11,
+      "end": 142.63,
+      "text": "火曜は燃える"
+    },
+    {
+      "t": 142.63,
+      "end": 143.33,
+      "text": "燃えるゴミの日"
+    },
+    {
+      "t": 143.33,
+      "end": 153.4,
+      "text": "今朝は シールなしで 持ってかれた"
+    },
+    {
+      "t": 153.62,
+      "end": 155.5,
+      "text": "俺も ちょっと 燃えてきた"
+    },
+    {
+      "t": 155.58,
+      "end": 155.58,
+      "text": "[Bridge - clavinet and slap bass break, ad-libs]"
+    },
+    {
+      "t": 155.58,
+      "end": 158.18,
+      "text": "燃える 燃えない びん 缶 ペット"
+    },
+    {
+      "t": 158.32,
+      "end": 159.16,
+      "text": "全部言えたら 手を叩け"
+    },
+    {
+      "t": 159.18,
+      "end": 159.18,
+      "text": "[Outro - band stops dead on one hit]"
+    },
+    {
+      "t": 159.18,
+      "end": 160.18,
+      "text": "来週は 粗大ゴミ"
+    },
+    {
+      "t": 160.3,
+      "end": 161.8,
+      "text": "電話予約 何番だっけ"
+    },
+    {
+      "t": 161.8,
+      "end": 161.8,
+      "text": "[Song ends abruptly]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

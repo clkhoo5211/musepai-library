@@ -1,0 +1,337 @@
+{
+  "id": "b7_ms08",
+  "title": "Tilam Angin",
+  "title_source": "scripted",
+  "genre": "Malaysian shoegaze (Malay-language)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "drowsy, lonely and oddly calm",
+  "persona": "",
+  "subject": "sleeping on a friend's living-room floor on an air mattress that goes a little flatter every night, in the month between losing one rented room and finding the next",
+  "caption": "Malaysian shoegaze in the Kuala Lumpur scene style, sung in Malay. Walls of fuzz guitar run into long reverb, with reverse-reverb swells and tremolo-arm glide bends that pull each chord slightly out of tune; a droning root-note bass holding every chord for a full bar; steady mid-tempo drums with a washy ride and crash, buried low under the guitars. Washed out and very wide, the guitar wash forward, the vocal low and blurred inside it, nothing dry. A breathy female voice, soft and sighing, singing short simple lines just under the guitars. 96 BPM, D major. Drowsy, lonely and oddly calm. No crisp pop vocal on top, no synth arpeggios, no trap drums, no autotune, no dry indie riffing.",
+  "lyrics": "[Intro - fuzz guitar swell with reverse reverb]\n\n[Verse 1]\nRuang tamu kawan\nCahaya peti ais\nTilam angin biru\nSaya pam lagi\n\n[Pre-Chorus]\nPukul tiga pagi\nBahu cecah lantai\n\n[Chorus]\nPerlahan-lahan turun\nSetiap malam sikit\nSaya tak bangun pam\nLantai pun tak apa\n\n[Verse 2]\nKawan dah tidur\nPintu bilik dia tutup\nBeg saya dua\nTepi rak kasut\n\n[Bridge - guitars swell, drums drop out]\nBilik sewa baru\nBelum ada lagi\n\n[Chorus]\nPerlahan-lahan turun\nSetiap malam sikit\nSaya tak bangun pam\nLantai pun dah biasa\n\n[Outro - one fuzz chord ringing out]\nTilam angin biru\nDah rata",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Malaysian shoegaze in the Kuala Lumpur scene style, sung in Malay. Walls of fuzz guitar run into long reverb, with reverse-reverb swells and tremolo-arm glide bends that pull each chord slightly out of tune; a droning root-note bass holding every chord for a full bar; steady mid-tempo drums with a washy ride and crash, buried low under the guitars. Washed out and very wide, the guitar wash forward, the vocal low and blurred inside it, nothing dry. A breathy female voice, soft and sighing, singing short simple lines just under the guitars. 96 BPM, D major. Drowsy, lonely and oddly calm. No crisp pop vocal on top, no synth arpeggios, no trap drums, no autotune, no dry indie riffing.",
+    "lyrics": "[Intro - fuzz guitar swell with reverse reverb]\n\n[Verse 1]\nRuang tamu kawan\nCahaya peti ais\nTilam angin biru\nSaya pam lagi\n\n[Pre-Chorus]\nPukul tiga pagi\nBahu cecah lantai\n\n[Chorus]\nPerlahan-lahan turun\nSetiap malam sikit\nSaya tak bangun pam\nLantai pun tak apa\n\n[Verse 2]\nKawan dah tidur\nPintu bilik dia tutup\nBeg saya dua\nTepi rak kasut\n\n[Bridge - guitars swell, drums drop out]\nBilik sewa baru\nBelum ada lagi\n\n[Chorus]\nPerlahan-lahan turun\nSetiap malam sikit\nSaya tak bangun pam\nLantai pun dah biasa\n\n[Outro - one fuzz chord ringing out]\nTilam angin biru\nDah rata"
+  },
+  "seed": "2396791980",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.73s**\n- 71.73s per song\n- LM phase (1 song): 16.14s\n- DiT phase (1 song): 55.59s",
+  "task_id": "c4367600-e132-415a-9e28-a93d588c3b14",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-10T19:33:31.868310+08:00",
+  "audio": "b7_ms08.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.0,
+      "end": 25.0,
+      "text": "[Intro - fuzz guitar swell with reverse reverb]"
+    },
+    {
+      "t": 25.0,
+      "end": 25.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.0,
+      "end": 27.22,
+      "text": "Ruang tamu kawan"
+    },
+    {
+      "t": 30.2,
+      "end": 33.14,
+      "text": "Cahaya peti ais"
+    },
+    {
+      "t": 35.0,
+      "end": 37.62,
+      "text": "Tilam angin biru"
+    },
+    {
+      "t": 39.96,
+      "end": 42.04,
+      "text": "Saya pam lagi"
+    },
+    {
+      "t": 44.98,
+      "end": 44.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.98,
+      "end": 47.66,
+      "text": "Pukul tiga pagi"
+    },
+    {
+      "t": 50.0,
+      "end": 53.15,
+      "text": "Bahu cecah lantai"
+    },
+    {
+      "t": 56.85,
+      "end": 56.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.85,
+      "end": 58.97,
+      "text": "Perlahan-lahan turun"
+    },
+    {
+      "t": 58.97,
+      "end": 63.07,
+      "text": "Setiap malam sikit"
+    },
+    {
+      "t": 63.07,
+      "end": 75.05,
+      "text": "Saya tak bangun pam"
+    },
+    {
+      "t": 75.07,
+      "end": 87.13,
+      "text": "Lantai pun tak apa"
+    },
+    {
+      "t": 87.13,
+      "end": 87.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.13,
+      "end": 88.51,
+      "text": "Kawan dah tidur"
+    },
+    {
+      "t": 91.15,
+      "end": 94.45,
+      "text": "Pintu bilik dia tutup"
+    },
+    {
+      "t": 94.45,
+      "end": 98.01,
+      "text": "Beg saya dua"
+    },
+    {
+      "t": 98.03,
+      "end": 107.75,
+      "text": "Tepi rak kasut"
+    },
+    {
+      "t": 108.05,
+      "end": 108.05,
+      "text": "[Bridge - guitars swell, drums drop out]"
+    },
+    {
+      "t": 108.05,
+      "end": 110.07,
+      "text": "Bilik sewa baru"
+    },
+    {
+      "t": 113.05,
+      "end": 115.05,
+      "text": "Belum ada lagi"
+    },
+    {
+      "t": 118.37,
+      "end": 118.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.37,
+      "end": 121.95,
+      "text": "Perlahan-lahan turun"
+    },
+    {
+      "t": 123.33,
+      "end": 128.31,
+      "text": "Setiap malam sikit"
+    },
+    {
+      "t": 128.31,
+      "end": 132.23,
+      "text": "Saya tak bangun pam"
+    },
+    {
+      "t": 134.23,
+      "end": 137.57,
+      "text": "Lantai pun dah biasa"
+    },
+    {
+      "t": 160.18,
+      "end": 160.18,
+      "text": "[Outro - one fuzz chord ringing out]"
+    },
+    {
+      "t": 160.18,
+      "end": 162.88,
+      "text": "Tilam angin biru"
+    },
+    {
+      "t": 181.92,
+      "end": 192.06,
+      "text": "Dah rata"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.0,
+      "end": 25.0,
+      "text": "[Intro - fuzz guitar swell with reverse reverb]"
+    },
+    {
+      "t": 25.0,
+      "end": 25.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.0,
+      "end": 27.34,
+      "text": "Ruang tamu kawan"
+    },
+    {
+      "t": 30.24,
+      "end": 32.4,
+      "text": "Cahaya peti ais"
+    },
+    {
+      "t": 35.0,
+      "end": 37.62,
+      "text": "Tilam angin biru"
+    },
+    {
+      "t": 39.96,
+      "end": 42.04,
+      "text": "Saya pam lagi"
+    },
+    {
+      "t": 44.98,
+      "end": 44.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.98,
+      "end": 47.68,
+      "text": "Pukul tiga pagi"
+    },
+    {
+      "t": 50.0,
+      "end": 53.15,
+      "text": "Bahu cecah lantai"
+    },
+    {
+      "t": 56.85,
+      "end": 56.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.85,
+      "end": 59.29,
+      "text": "Perlahan-lahan turun"
+    },
+    {
+      "t": 59.31,
+      "end": 62.13,
+      "text": "Setiap malam sikit"
+    },
+    {
+      "t": 62.13,
+      "end": 65.23,
+      "text": "Saya tak bangun pam"
+    },
+    {
+      "t": 65.23,
+      "end": 76.01,
+      "text": "Lantai pun tak apa"
+    },
+    {
+      "t": 86.15,
+      "end": 86.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.15,
+      "end": 88.45,
+      "text": "Kawan dah tidur"
+    },
+    {
+      "t": 91.15,
+      "end": 94.71,
+      "text": "Pintu bilik dia tutup"
+    },
+    {
+      "t": 94.93,
+      "end": 98.03,
+      "text": "Beg saya dua"
+    },
+    {
+      "t": 98.03,
+      "end": 100.93,
+      "text": "Tepi rak kasut"
+    },
+    {
+      "t": 108.05,
+      "end": 108.05,
+      "text": "[Bridge - guitars swell, drums drop out]"
+    },
+    {
+      "t": 108.05,
+      "end": 110.09,
+      "text": "Bilik sewa baru"
+    },
+    {
+      "t": 113.05,
+      "end": 115.07,
+      "text": "Belum ada lagi"
+    },
+    {
+      "t": 118.37,
+      "end": 118.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.37,
+      "end": 121.93,
+      "text": "Perlahan-lahan turun"
+    },
+    {
+      "t": 123.35,
+      "end": 128.31,
+      "text": "Setiap malam sikit"
+    },
+    {
+      "t": 128.33,
+      "end": 132.27,
+      "text": "Saya tak bangun pam"
+    },
+    {
+      "t": 134.21,
+      "end": 137.59,
+      "text": "Lantai pun dah biasa"
+    },
+    {
+      "t": 160.16,
+      "end": 160.16,
+      "text": "[Outro - one fuzz chord ringing out]"
+    },
+    {
+      "t": 160.16,
+      "end": 162.9,
+      "text": "Tilam angin biru"
+    },
+    {
+      "t": 181.92,
+      "end": 192.08,
+      "text": "Dah rata"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

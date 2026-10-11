@@ -1,0 +1,534 @@
+{
+  "id": "b7_en09",
+  "title": "Still Blue On Tuesday",
+  "title_source": "scripted",
+  "genre": "power soca",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wild, giddy and still covered in paint",
+  "persona": "",
+  "subject": "turning up to the office on Tuesday still blue from J'ouvert paint after Labor Day in Brooklyn",
+  "caption": "Power soca in the Brooklyn Labor Day carnival style. A driving four-on-the-floor kick with syncopated snare and tom fills; iron brake-drum percussion ringing on steady eighths; a steelpan playing the main riff over a punchy brass-section line; a bright sawtooth synth lead doubling the brass on the drop; a crowd breakdown where everything stops except the iron. Loud, bright and wide, the kick and iron forward, the brass high in the mix. Male voice, a Trinidadian-English road-march chanter, shouting commands and singing the hook while a crowd answers every line. 156 BPM, G major. Wild, giddy and still covered in paint. No reggaeton dembow, no afrobeats guitar, no dancehall one-drop, no trap hi-hats, no autotune.",
+  "lyrics": "[Intro - iron and steelpan riff, kick enters]\n\n[Verse 1]\nMonday morning, six o'clock on Flatbush Avenue\nJ'ouvert, somebody throw a bucket of blue\nIn my ears, in my teeth, in my good white sneakers\nI was jumping on the road till the sun come through\n\n[Pre-Chorus]\nWave! (Wave!)\nJump! (Jump!)\n\n[Chorus]\nStill blue on Tuesday (Blue!)\nBoss in the meeting looking at my ears (Blue!)\nScrubbed it three times and it won't come off\nStill blue on Tuesday\n\n[Verse 2]\nRode the 2 train blue and everybody knew\nLady from Grenada say you play mas, you?\nLaptop open on the spreadsheet, I'm a professional\nBlue fingerprints on every key\n\n[Pre-Chorus]\nWave! (Wave!)\nWine! (Wine!)\n\n[Chorus]\nStill blue on Tuesday (Blue!)\nHR send a email, subject paint (Blue!)\nScrubbed it four times and it won't come off\nStill blue on Wednesday\n\n[Breakdown - everything stops except the iron]\nEverybody who still blue, put your hand up!\n(Hand up!)\n\n[Outro - full band, then iron alone]\nStill blue, still blue\nNext year I'm going green",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 156,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Power soca in the Brooklyn Labor Day carnival style. A driving four-on-the-floor kick with syncopated snare and tom fills; iron brake-drum percussion ringing on steady eighths; a steelpan playing the main riff over a punchy brass-section line; a bright sawtooth synth lead doubling the brass on the drop; a crowd breakdown where everything stops except the iron. Loud, bright and wide, the kick and iron forward, the brass high in the mix. Male voice, a Trinidadian-English road-march chanter, shouting commands and singing the hook while a crowd answers every line. 156 BPM, G major. Wild, giddy and still covered in paint. No reggaeton dembow, no afrobeats guitar, no dancehall one-drop, no trap hi-hats, no autotune.",
+    "lyrics": "[Intro - iron and steelpan riff, kick enters]\n\n[Verse 1]\nMonday morning, six o'clock on Flatbush Avenue\nJ'ouvert, somebody throw a bucket of blue\nIn my ears, in my teeth, in my good white sneakers\nI was jumping on the road till the sun come through\n\n[Pre-Chorus]\nWave! (Wave!)\nJump! (Jump!)\n\n[Chorus]\nStill blue on Tuesday (Blue!)\nBoss in the meeting looking at my ears (Blue!)\nScrubbed it three times and it won't come off\nStill blue on Tuesday\n\n[Verse 2]\nRode the 2 train blue and everybody knew\nLady from Grenada say you play mas, you?\nLaptop open on the spreadsheet, I'm a professional\nBlue fingerprints on every key\n\n[Pre-Chorus]\nWave! (Wave!)\nWine! (Wine!)\n\n[Chorus]\nStill blue on Tuesday (Blue!)\nHR send a email, subject paint (Blue!)\nScrubbed it four times and it won't come off\nStill blue on Wednesday\n\n[Breakdown - everything stops except the iron]\nEverybody who still blue, put your hand up!\n(Hand up!)\n\n[Outro - full band, then iron alone]\nStill blue, still blue\nNext year I'm going green"
+  },
+  "seed": "3352725040",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.81s**\n- 59.81s per song\n- LM phase (1 song): 16.64s\n- DiT phase (1 song): 43.16s",
+  "task_id": "cc3911df-5b02-4eb3-bdc5-3c5cf70e0400",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T20:33:01.442887+08:00",
+  "audio": "b7_en09.mp3",
+  "lyrics_timed": [
+    {
+      "t": 6.26,
+      "end": 6.26,
+      "text": "[Intro - iron and steelpan riff, kick enters]"
+    },
+    {
+      "t": 6.26,
+      "end": 6.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.26,
+      "end": 29.08,
+      "text": "Monday morning, six o'clock on Flatbush Avenue"
+    },
+    {
+      "t": 31.9,
+      "end": 35.24,
+      "text": "J'ouvert, somebody throw a bucket of blue"
+    },
+    {
+      "t": 37.9,
+      "end": 44.1,
+      "text": "In my ears, in my teeth, in my good white sneakers"
+    },
+    {
+      "t": 44.1,
+      "end": 47.76,
+      "text": "I was jumping on the road till the sun come through"
+    },
+    {
+      "t": 49.1,
+      "end": 49.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.1,
+      "end": 50.23,
+      "text": "Wave! (Wave!)"
+    },
+    {
+      "t": 50.23,
+      "end": 63.19,
+      "text": "Jump! (Jump!)"
+    },
+    {
+      "t": 67.01,
+      "end": 67.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.01,
+      "end": 67.89,
+      "text": "Still blue on Tuesday (Blue!)"
+    },
+    {
+      "t": 67.89,
+      "end": 71.37,
+      "text": "Boss in the meeting looking at my ears (Blue!)"
+    },
+    {
+      "t": 71.93,
+      "end": 75.35,
+      "text": "Scrubbed it three times and it won't come off"
+    },
+    {
+      "t": 77.29,
+      "end": 79.97,
+      "text": "Still blue on Tuesday"
+    },
+    {
+      "t": 83.41,
+      "end": 83.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.41,
+      "end": 86.07,
+      "text": "Rode the 2 train blue and everybody knew"
+    },
+    {
+      "t": 89.13,
+      "end": 92.15,
+      "text": "Lady from Grenada say you play mas, you?"
+    },
+    {
+      "t": 95.43,
+      "end": 98.69,
+      "text": "Laptop open on the spreadsheet, I'm a professional"
+    },
+    {
+      "t": 98.69,
+      "end": 103.21,
+      "text": "Blue fingerprints on every key"
+    },
+    {
+      "t": 103.21,
+      "end": 103.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.21,
+      "end": 104.21,
+      "text": "Wave! (Wave!)"
+    },
+    {
+      "t": 104.21,
+      "end": 104.37,
+      "text": "Wine! (Wine!)"
+    },
+    {
+      "t": 105.79,
+      "end": 105.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.79,
+      "end": 108.57,
+      "text": "Still blue on Tuesday (Blue!)"
+    },
+    {
+      "t": 108.71,
+      "end": 111.65,
+      "text": "HR send a email, subject paint (Blue!)"
+    },
+    {
+      "t": 112.21,
+      "end": 115.13,
+      "text": "Scrubbed it four times and it won't come off"
+    },
+    {
+      "t": 115.27,
+      "end": 117.95,
+      "text": "Still blue on Wednesday"
+    },
+    {
+      "t": 144.63,
+      "end": 144.63,
+      "text": "[Breakdown - everything stops except the iron]"
+    },
+    {
+      "t": 144.63,
+      "end": 147.31,
+      "text": "Everybody who still blue, put your hand up!"
+    },
+    {
+      "t": 147.61,
+      "end": 148.49,
+      "text": "(Hand up!)"
+    },
+    {
+      "t": 148.49,
+      "end": 148.49,
+      "text": "[Outro - full band, then iron alone]"
+    },
+    {
+      "t": 148.49,
+      "end": 157.9,
+      "text": "Still blue, still blue"
+    },
+    {
+      "t": 157.9,
+      "end": 159.92,
+      "text": "Next year I'm going green"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 6.26,
+      "end": 6.26,
+      "text": "[Intro - iron and steelpan riff, kick enters]"
+    },
+    {
+      "t": 6.26,
+      "end": 6.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.26,
+      "end": 29.08,
+      "text": "Monday morning, six o'clock on Flatbush Avenue"
+    },
+    {
+      "t": 31.9,
+      "end": 35.24,
+      "text": "J'ouvert, somebody throw a bucket of blue"
+    },
+    {
+      "t": 37.9,
+      "end": 44.1,
+      "text": "In my ears, in my teeth, in my good white sneakers"
+    },
+    {
+      "t": 44.1,
+      "end": 47.76,
+      "text": "I was jumping on the road till the sun come through"
+    },
+    {
+      "t": 49.1,
+      "end": 49.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.1,
+      "end": 50.23,
+      "text": "Wave! (Wave!)"
+    },
+    {
+      "t": 50.23,
+      "end": 63.19,
+      "text": "Jump! (Jump!)"
+    },
+    {
+      "t": 67.01,
+      "end": 67.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.01,
+      "end": 67.89,
+      "text": "Still blue on Tuesday (Blue!)"
+    },
+    {
+      "t": 67.89,
+      "end": 71.37,
+      "text": "Boss in the meeting looking at my ears (Blue!)"
+    },
+    {
+      "t": 71.93,
+      "end": 75.35,
+      "text": "Scrubbed it three times and it won't come off"
+    },
+    {
+      "t": 77.29,
+      "end": 79.97,
+      "text": "Still blue on Tuesday"
+    },
+    {
+      "t": 83.41,
+      "end": 83.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.41,
+      "end": 86.07,
+      "text": "Rode the 2 train blue and everybody knew"
+    },
+    {
+      "t": 89.13,
+      "end": 92.15,
+      "text": "Lady from Grenada say you play mas, you?"
+    },
+    {
+      "t": 95.43,
+      "end": 98.69,
+      "text": "Laptop open on the spreadsheet, I'm a professional"
+    },
+    {
+      "t": 98.69,
+      "end": 103.21,
+      "text": "Blue fingerprints on every key"
+    },
+    {
+      "t": 103.21,
+      "end": 103.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.21,
+      "end": 104.21,
+      "text": "Wave! (Wave!)"
+    },
+    {
+      "t": 104.21,
+      "end": 104.37,
+      "text": "Wine! (Wine!)"
+    },
+    {
+      "t": 105.79,
+      "end": 105.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.79,
+      "end": 108.57,
+      "text": "Still blue on Tuesday (Blue!)"
+    },
+    {
+      "t": 108.71,
+      "end": 111.65,
+      "text": "HR send a email, subject paint (Blue!)"
+    },
+    {
+      "t": 112.21,
+      "end": 115.13,
+      "text": "Scrubbed it four times and it won't come off"
+    },
+    {
+      "t": 115.27,
+      "end": 117.95,
+      "text": "Still blue on Wednesday"
+    },
+    {
+      "t": 144.63,
+      "end": 144.63,
+      "text": "[Breakdown - everything stops except the iron]"
+    },
+    {
+      "t": 144.63,
+      "end": 147.31,
+      "text": "Everybody who still blue, put your hand up!"
+    },
+    {
+      "t": 147.61,
+      "end": 148.49,
+      "text": "(Hand up!)"
+    },
+    {
+      "t": 148.49,
+      "end": 148.49,
+      "text": "[Outro - full band, then iron alone]"
+    },
+    {
+      "t": 148.49,
+      "end": 157.9,
+      "text": "Still blue, still blue"
+    },
+    {
+      "t": 157.9,
+      "end": 159.92,
+      "text": "Next year I'm going green"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Intro - iron and steelpan riff, kick enters]"
+    },
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.8,
+      "end": 29.08,
+      "text": "Monday morning, six o'clock on Flatbush Avenue"
+    },
+    {
+      "t": 31.92,
+      "end": 35.26,
+      "text": "J'ouvert, somebody throw a bucket of blue"
+    },
+    {
+      "t": 37.9,
+      "end": 41.58,
+      "text": "In my ears, in my teeth, in my good white sneakers"
+    },
+    {
+      "t": 44.1,
+      "end": 47.78,
+      "text": "I was jumping on the road till the sun come through"
+    },
+    {
+      "t": 49.1,
+      "end": 49.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.1,
+      "end": 63.27,
+      "text": "Wave! (Wave!)"
+    },
+    {
+      "t": 64.61,
+      "end": 67.01,
+      "text": "Jump! (Jump!)"
+    },
+    {
+      "t": 67.01,
+      "end": 67.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.01,
+      "end": 67.89,
+      "text": "Still blue on Tuesday (Blue!)"
+    },
+    {
+      "t": 67.89,
+      "end": 71.49,
+      "text": "Boss in the meeting looking at my ears (Blue!)"
+    },
+    {
+      "t": 71.93,
+      "end": 75.33,
+      "text": "Scrubbed it three times and it won't come off"
+    },
+    {
+      "t": 77.27,
+      "end": 79.95,
+      "text": "Still blue on Tuesday"
+    },
+    {
+      "t": 83.45,
+      "end": 83.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.45,
+      "end": 86.13,
+      "text": "Rode the 2 train blue and everybody knew"
+    },
+    {
+      "t": 89.13,
+      "end": 92.17,
+      "text": "Lady from Grenada say you play mas, you?"
+    },
+    {
+      "t": 95.43,
+      "end": 98.67,
+      "text": "Laptop open on the spreadsheet, I'm a professional"
+    },
+    {
+      "t": 98.67,
+      "end": 102.45,
+      "text": "Blue fingerprints on every key"
+    },
+    {
+      "t": 102.45,
+      "end": 102.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.45,
+      "end": 103.47,
+      "text": "Wave! (Wave!)"
+    },
+    {
+      "t": 103.47,
+      "end": 105.77,
+      "text": "Wine! (Wine!)"
+    },
+    {
+      "t": 105.77,
+      "end": 105.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.77,
+      "end": 108.59,
+      "text": "Still blue on Tuesday (Blue!)"
+    },
+    {
+      "t": 108.71,
+      "end": 111.79,
+      "text": "HR send a email, subject paint (Blue!)"
+    },
+    {
+      "t": 112.19,
+      "end": 115.09,
+      "text": "Scrubbed it four times and it won't come off"
+    },
+    {
+      "t": 115.25,
+      "end": 135.89,
+      "text": "Still blue on Wednesday"
+    },
+    {
+      "t": 136.13,
+      "end": 136.13,
+      "text": "[Breakdown - everything stops except the iron]"
+    },
+    {
+      "t": 136.13,
+      "end": 147.35,
+      "text": "Everybody who still blue, put your hand up!"
+    },
+    {
+      "t": 147.59,
+      "end": 148.69,
+      "text": "(Hand up!)"
+    },
+    {
+      "t": 153.2,
+      "end": 153.2,
+      "text": "[Outro - full band, then iron alone]"
+    },
+    {
+      "t": 153.2,
+      "end": 156.42,
+      "text": "Still blue, still blue"
+    },
+    {
+      "t": 157.9,
+      "end": 160.02,
+      "text": "Next year I'm going green"
+    }
+  ]
+}

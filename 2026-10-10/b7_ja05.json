@@ -1,0 +1,489 @@
+{
+  "id": "b7_ja05",
+  "title": "最後はカチャーシー",
+  "title_source": "scripted",
+  "genre": "Okinawan sanshin pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "rowdy, proud and joyful",
+  "persona": "",
+  "subject": "a Tokyo friend of the groom pulled up by the bride's grandmother to dance kachashi at the end of a three-hundred-guest Okinawan wedding reception",
+  "caption": "Okinawan sanshin pop in the shima-uta band style, an up-tempo kachashi dance song. An Okinawan sanshin plucked with a horn plectrum, playing a bright melody on the Ryukyu scale; an acoustic guitar strumming underneath; a piano adding chords; a shimedaiko and paranku eisa-drum pattern driving the dance rhythm; finger whistles in the chorus. Warm, open and live, like a band on a wedding-hall stage, the sanshin and the voice forward, drums and whistles wide. Warm, plain male lead with a light Okinawan vowel colour, a crowd answering with the hayashi shouts written into the chorus. 138 BPM, C major. Rowdy, proud and joyful. No enka vibrato, no Amami falsetto flips, no reggae offbeat, no electronic drums, no autotune.",
+  "lyrics": "[Intro - short sanshin phrase on the Ryukyu scale over acoustic guitar]\n\n[Verse 1]\n披露宴は 三百人\n親戚だけで 二十卓\n東京から来た 俺の席は\nいちばん後ろの 出口の横\n\n[Pre-Chorus]\n新郎の挨拶 終わったはずが\n三線が鳴って 全員立った\n\n[Chorus]\n最後はカチャーシー\n手のひら 上に 下に\nイーヤーサーサー\nハイヤ 俺だけ 逆回り\n\n[Verse 2]\n花嫁のおばぁが 袖を引く\n「手だけ 回しとけば いいさ」\nネクタイ緩めて 見よう見まね\n足は 勝手に ついてきた\n\n[Pre-Chorus]\n指笛が 天井まで\n新郎は もう 泣いている\n\n[Chorus]\n最後はカチャーシー\n手のひら 上に 下に\nイーヤーサーサー\nおばぁより 先には 座れない\n\n[Outro - eisa drums and finger whistles, sanshin plays the last phrase]\nハイヤ ハイヤ\n東京に帰っても 手が回る",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Okinawan sanshin pop in the shima-uta band style, an up-tempo kachashi dance song. An Okinawan sanshin plucked with a horn plectrum, playing a bright melody on the Ryukyu scale; an acoustic guitar strumming underneath; a piano adding chords; a shimedaiko and paranku eisa-drum pattern driving the dance rhythm; finger whistles in the chorus. Warm, open and live, like a band on a wedding-hall stage, the sanshin and the voice forward, drums and whistles wide. Warm, plain male lead with a light Okinawan vowel colour, a crowd answering with the hayashi shouts written into the chorus. 138 BPM, C major. Rowdy, proud and joyful. No enka vibrato, no Amami falsetto flips, no reggae offbeat, no electronic drums, no autotune.",
+    "lyrics": "[Intro - short sanshin phrase on the Ryukyu scale over acoustic guitar]\n\n[Verse 1]\n披露宴は 三百人\n親戚だけで 二十卓\n東京から来た 俺の席は\nいちばん後ろの 出口の横\n\n[Pre-Chorus]\n新郎の挨拶 終わったはずが\n三線が鳴って 全員立った\n\n[Chorus]\n最後はカチャーシー\n手のひら 上に 下に\nイーヤーサーサー\nハイヤ 俺だけ 逆回り\n\n[Verse 2]\n花嫁のおばぁが 袖を引く\n「手だけ 回しとけば いいさ」\nネクタイ緩めて 見よう見まね\n足は 勝手に ついてきた\n\n[Pre-Chorus]\n指笛が 天井まで\n新郎は もう 泣いている\n\n[Chorus]\n最後はカチャーシー\n手のひら 上に 下に\nイーヤーサーサー\nおばぁより 先には 座れない\n\n[Outro - eisa drums and finger whistles, sanshin plays the last phrase]\nハイヤ ハイヤ\n東京に帰っても 手が回る"
+  },
+  "seed": "4131430345",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.02s**\n- 53.02s per song\n- LM phase (1 song): 11.74s\n- DiT phase (1 song): 41.28s",
+  "task_id": "e317bc47-75d8-49e0-bade-e3f5c9377ffa",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-10T20:56:24.814488+08:00",
+  "audio": "b7_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.26,
+      "end": 29.26,
+      "text": "[Intro - short sanshin phrase on the Ryukyu scale over acoustic guitar]"
+    },
+    {
+      "t": 29.26,
+      "end": 29.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.26,
+      "end": 30.78,
+      "text": "披露宴は 三百人"
+    },
+    {
+      "t": 30.88,
+      "end": 31.66,
+      "text": "親戚だけで 二十卓"
+    },
+    {
+      "t": 33.26,
+      "end": 34.5,
+      "text": "東京から来た 俺の席は"
+    },
+    {
+      "t": 35.56,
+      "end": 37.44,
+      "text": "いちばん後ろの 出口の横"
+    },
+    {
+      "t": 37.44,
+      "end": 37.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.44,
+      "end": 41.3,
+      "text": "新郎の挨拶 終わったはずが"
+    },
+    {
+      "t": 41.62,
+      "end": 44.84,
+      "text": "三線が鳴って 全員立った"
+    },
+    {
+      "t": 48.56,
+      "end": 48.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.56,
+      "end": 50.31,
+      "text": "最後はカチャーシー"
+    },
+    {
+      "t": 50.31,
+      "end": 51.99,
+      "text": "手のひら 上に 下に"
+    },
+    {
+      "t": 52.61,
+      "end": 54.77,
+      "text": "イーヤーサーサー"
+    },
+    {
+      "t": 56.39,
+      "end": 60.69,
+      "text": "ハイヤ 俺だけ 逆回り"
+    },
+    {
+      "t": 63.27,
+      "end": 63.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.27,
+      "end": 67.99,
+      "text": "花嫁のおばぁが 袖を引く"
+    },
+    {
+      "t": 70.23,
+      "end": 75.03,
+      "text": "「手だけ 回しとけば いいさ」"
+    },
+    {
+      "t": 78.07,
+      "end": 84.69,
+      "text": "ネクタイ緩めて 見よう見まね"
+    },
+    {
+      "t": 85.77,
+      "end": 89.61,
+      "text": "足は 勝手に ついてきた"
+    },
+    {
+      "t": 95.89,
+      "end": 95.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.89,
+      "end": 98.89,
+      "text": "指笛が 天井まで"
+    },
+    {
+      "t": 103.17,
+      "end": 106.53,
+      "text": "新郎は もう 泣いている"
+    },
+    {
+      "t": 109.61,
+      "end": 109.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.61,
+      "end": 112.81,
+      "text": "最後はカチャーシー"
+    },
+    {
+      "t": 112.81,
+      "end": 115.55,
+      "text": "手のひら 上に 下に"
+    },
+    {
+      "t": 119.47,
+      "end": 124.31,
+      "text": "イーヤーサーサー"
+    },
+    {
+      "t": 126.63,
+      "end": 131.25,
+      "text": "おばぁより 先には 座れない"
+    },
+    {
+      "t": 144.95,
+      "end": 144.95,
+      "text": "[Outro - eisa drums and finger whistles, sanshin plays the last phrase]"
+    },
+    {
+      "t": 144.95,
+      "end": 147.67,
+      "text": "ハイヤ ハイヤ"
+    },
+    {
+      "t": 148.85,
+      "end": 162.52,
+      "text": "東京に帰っても 手が回る"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.26,
+      "end": 29.26,
+      "text": "[Intro - short sanshin phrase on the Ryukyu scale over acoustic guitar]"
+    },
+    {
+      "t": 29.26,
+      "end": 29.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.26,
+      "end": 30.78,
+      "text": "披露宴は 三百人"
+    },
+    {
+      "t": 30.88,
+      "end": 31.66,
+      "text": "親戚だけで 二十卓"
+    },
+    {
+      "t": 33.26,
+      "end": 34.5,
+      "text": "東京から来た 俺の席は"
+    },
+    {
+      "t": 35.56,
+      "end": 37.44,
+      "text": "いちばん後ろの 出口の横"
+    },
+    {
+      "t": 37.44,
+      "end": 37.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.44,
+      "end": 41.3,
+      "text": "新郎の挨拶 終わったはずが"
+    },
+    {
+      "t": 41.62,
+      "end": 44.84,
+      "text": "三線が鳴って 全員立った"
+    },
+    {
+      "t": 48.56,
+      "end": 48.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.56,
+      "end": 50.31,
+      "text": "最後はカチャーシー"
+    },
+    {
+      "t": 50.31,
+      "end": 51.99,
+      "text": "手のひら 上に 下に"
+    },
+    {
+      "t": 52.61,
+      "end": 54.77,
+      "text": "イーヤーサーサー"
+    },
+    {
+      "t": 56.39,
+      "end": 60.69,
+      "text": "ハイヤ 俺だけ 逆回り"
+    },
+    {
+      "t": 63.27,
+      "end": 63.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.27,
+      "end": 67.99,
+      "text": "花嫁のおばぁが 袖を引く"
+    },
+    {
+      "t": 70.23,
+      "end": 75.03,
+      "text": "「手だけ 回しとけば いいさ」"
+    },
+    {
+      "t": 78.07,
+      "end": 84.69,
+      "text": "ネクタイ緩めて 見よう見まね"
+    },
+    {
+      "t": 85.77,
+      "end": 89.61,
+      "text": "足は 勝手に ついてきた"
+    },
+    {
+      "t": 95.89,
+      "end": 95.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.89,
+      "end": 98.89,
+      "text": "指笛が 天井まで"
+    },
+    {
+      "t": 103.17,
+      "end": 106.53,
+      "text": "新郎は もう 泣いている"
+    },
+    {
+      "t": 109.61,
+      "end": 109.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.61,
+      "end": 112.81,
+      "text": "最後はカチャーシー"
+    },
+    {
+      "t": 112.81,
+      "end": 115.55,
+      "text": "手のひら 上に 下に"
+    },
+    {
+      "t": 119.47,
+      "end": 124.31,
+      "text": "イーヤーサーサー"
+    },
+    {
+      "t": 126.63,
+      "end": 131.25,
+      "text": "おばぁより 先には 座れない"
+    },
+    {
+      "t": 144.95,
+      "end": 144.95,
+      "text": "[Outro - eisa drums and finger whistles, sanshin plays the last phrase]"
+    },
+    {
+      "t": 144.95,
+      "end": 147.67,
+      "text": "ハイヤ ハイヤ"
+    },
+    {
+      "t": 148.85,
+      "end": 162.52,
+      "text": "東京に帰っても 手が回る"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.28,
+      "end": 29.28,
+      "text": "[Intro - short sanshin phrase on the Ryukyu scale over acoustic guitar]"
+    },
+    {
+      "t": 29.28,
+      "end": 29.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.28,
+      "end": 30.76,
+      "text": "披露宴は 三百人"
+    },
+    {
+      "t": 30.88,
+      "end": 31.66,
+      "text": "親戚だけで 二十卓"
+    },
+    {
+      "t": 31.76,
+      "end": 34.0,
+      "text": "東京から来た 俺の席は"
+    },
+    {
+      "t": 34.1,
+      "end": 37.26,
+      "text": "いちばん後ろの 出口の横"
+    },
+    {
+      "t": 37.36,
+      "end": 37.36,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.36,
+      "end": 41.62,
+      "text": "新郎の挨拶 終わったはずが"
+    },
+    {
+      "t": 41.62,
+      "end": 44.82,
+      "text": "三線が鳴って 全員立った"
+    },
+    {
+      "t": 48.56,
+      "end": 48.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.56,
+      "end": 50.31,
+      "text": "最後はカチャーシー"
+    },
+    {
+      "t": 50.31,
+      "end": 52.83,
+      "text": "手のひら 上に 下に"
+    },
+    {
+      "t": 52.85,
+      "end": 54.13,
+      "text": "イーヤーサーサー"
+    },
+    {
+      "t": 56.37,
+      "end": 60.69,
+      "text": "ハイヤ 俺だけ 逆回り"
+    },
+    {
+      "t": 63.29,
+      "end": 63.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.29,
+      "end": 67.99,
+      "text": "花嫁のおばぁが 袖を引く"
+    },
+    {
+      "t": 70.23,
+      "end": 75.03,
+      "text": "「手だけ 回しとけば いいさ」"
+    },
+    {
+      "t": 78.07,
+      "end": 84.69,
+      "text": "ネクタイ緩めて 見よう見まね"
+    },
+    {
+      "t": 85.77,
+      "end": 89.61,
+      "text": "足は 勝手に ついてきた"
+    },
+    {
+      "t": 95.91,
+      "end": 95.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.91,
+      "end": 98.87,
+      "text": "指笛が 天井まで"
+    },
+    {
+      "t": 103.17,
+      "end": 106.51,
+      "text": "新郎は もう 泣いている"
+    },
+    {
+      "t": 109.61,
+      "end": 109.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.61,
+      "end": 111.89,
+      "text": "最後はカチャーシー"
+    },
+    {
+      "t": 112.83,
+      "end": 115.55,
+      "text": "手のひら 上に 下に"
+    },
+    {
+      "t": 119.47,
+      "end": 124.63,
+      "text": "イーヤーサーサー"
+    },
+    {
+      "t": 126.63,
+      "end": 131.27,
+      "text": "おばぁより 先には 座れない"
+    },
+    {
+      "t": 144.95,
+      "end": 144.95,
+      "text": "[Outro - eisa drums and finger whistles, sanshin plays the last phrase]"
+    },
+    {
+      "t": 144.95,
+      "end": 147.67,
+      "text": "ハイヤ ハイヤ"
+    },
+    {
+      "t": 148.85,
+      "end": 162.5,
+      "text": "東京に帰っても 手が回る"
+    }
+  ]
+}
