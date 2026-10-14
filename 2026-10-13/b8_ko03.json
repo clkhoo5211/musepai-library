@@ -1,0 +1,327 @@
+{
+  "id": "b8_ko03",
+  "title": "떡 개수",
+  "title_source": "scripted",
+  "genre": "boyhood pop with retro electric guitar",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "giddy, bickering, sunny",
+  "persona": "",
+  "subject": "five high-school friends splitting one plate of tteokbokki at the snack shop after the last exam, counting every rice cake so it comes out fair",
+  "caption": "Boyhood pop in the 2025 Korean boy-group style with retro electric guitar. Bright clean electric guitar riffs with a slight spring-reverb twang, bouncy live-sounding drums with tambourine on every beat, a melodic picked electric bass, glockenspiel accents on the chorus hook, boy-group gang shouts answering the lead. Clean and sunny, guitars forward in the mids, dry vocals, a small room on the shouts. Male group voices, light airy tenors trading lines quickly, shouted group responses. 136 BPM, A major. Giddy, bickering and sunny. No trap beats, no EDM drop, no rap verse, no autotune, no heavy distortion.",
+  "lyrics": "[Intro - clean guitar riff and tambourine]\n\n[Verse 1]\n마지막 시험 끝나는 종소리\n다섯이서 뛰어간 학교 앞 분식집\n돈 모아 보니 딱 한 접시\n이모 떡볶이 하나 주세요\n\n[Pre-Chorus]\n포크는 다섯 개 떡은 몇 개야\n민수가 손가락으로 세기 시작해\n\n[Chorus]\n하나 둘 셋 넷 떡 개수\n스물세 개 다섯으로 안 나눠져\n하나 둘 셋 넷 떡 개수\n남은 세 개는 가위바위보\n\n[Verse 2]\n어묵은 반으로 잘라야 하고\n계란은 하나라 노른자 싸움\n준호는 국물만 떠먹는 척\n몰래 떡 하나 더 집어 갔어\n\n[Pre-Chorus]\n들켰다 다 같이 소리를 질러\n이모가 웃으면서 떡을 더 줘\n\n[Chorus]\n하나 둘 셋 넷 떡 개수\n이제 서른 개 딱 여섯 개씩\n하나 둘 셋 넷 떡 개수\n방학엔 두 접시 시키자\n\n[Outro - glockenspiel and gang shouts]\n이모 감사합니다 또 올게요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 136,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Boyhood pop in the 2025 Korean boy-group style with retro electric guitar. Bright clean electric guitar riffs with a slight spring-reverb twang, bouncy live-sounding drums with tambourine on every beat, a melodic picked electric bass, glockenspiel accents on the chorus hook, boy-group gang shouts answering the lead. Clean and sunny, guitars forward in the mids, dry vocals, a small room on the shouts. Male group voices, light airy tenors trading lines quickly, shouted group responses. 136 BPM, A major. Giddy, bickering and sunny. No trap beats, no EDM drop, no rap verse, no autotune, no heavy distortion.",
+    "lyrics": "[Intro - clean guitar riff and tambourine]\n\n[Verse 1]\n마지막 시험 끝나는 종소리\n다섯이서 뛰어간 학교 앞 분식집\n돈 모아 보니 딱 한 접시\n이모 떡볶이 하나 주세요\n\n[Pre-Chorus]\n포크는 다섯 개 떡은 몇 개야\n민수가 손가락으로 세기 시작해\n\n[Chorus]\n하나 둘 셋 넷 떡 개수\n스물세 개 다섯으로 안 나눠져\n하나 둘 셋 넷 떡 개수\n남은 세 개는 가위바위보\n\n[Verse 2]\n어묵은 반으로 잘라야 하고\n계란은 하나라 노른자 싸움\n준호는 국물만 떠먹는 척\n몰래 떡 하나 더 집어 갔어\n\n[Pre-Chorus]\n들켰다 다 같이 소리를 질러\n이모가 웃으면서 떡을 더 줘\n\n[Chorus]\n하나 둘 셋 넷 떡 개수\n이제 서른 개 딱 여섯 개씩\n하나 둘 셋 넷 떡 개수\n방학엔 두 접시 시키자\n\n[Outro - glockenspiel and gang shouts]\n이모 감사합니다 또 올게요"
+  },
+  "seed": "2698901030",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 78.59s**\n- 78.59s per song\n- LM phase (1 song): 12.33s\n- DiT phase (1 song): 66.26s",
+  "task_id": "d54929b8-ecdd-4b7d-a5f6-796016b34f07",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-10-13T22:09:02.402201+08:00",
+  "audio": "b8_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.3,
+      "end": 21.3,
+      "text": "[Intro - clean guitar riff and tambourine]"
+    },
+    {
+      "t": 21.3,
+      "end": 21.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.3,
+      "end": 25.44,
+      "text": "마지막 시험 끝나는 종소리"
+    },
+    {
+      "t": 29.52,
+      "end": 34.9,
+      "text": "다섯이서 뛰어간 학교 앞 분식집"
+    },
+    {
+      "t": 36.4,
+      "end": 38.72,
+      "text": "돈 모아 보니 딱 한 접시"
+    },
+    {
+      "t": 38.76,
+      "end": 41.6,
+      "text": "이모 떡볶이 하나 주세요"
+    },
+    {
+      "t": 43.9,
+      "end": 43.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.9,
+      "end": 48.91,
+      "text": "포크는 다섯 개 떡은 몇 개야"
+    },
+    {
+      "t": 50.73,
+      "end": 55.91,
+      "text": "민수가 손가락으로 세기 시작해"
+    },
+    {
+      "t": 59.49,
+      "end": 59.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.49,
+      "end": 62.45,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 62.57,
+      "end": 66.05,
+      "text": "스물세 개 다섯으로 안 나눠져"
+    },
+    {
+      "t": 66.55,
+      "end": 69.59,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 69.87,
+      "end": 73.17,
+      "text": "남은 세 개는 가위바위보"
+    },
+    {
+      "t": 77.03,
+      "end": 77.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.03,
+      "end": 79.75,
+      "text": "어묵은 반으로 잘라야 하고"
+    },
+    {
+      "t": 80.51,
+      "end": 84.15,
+      "text": "계란은 하나라 노른자 싸움"
+    },
+    {
+      "t": 87.47,
+      "end": 91.05,
+      "text": "준호는 국물만 떠먹는 척"
+    },
+    {
+      "t": 94.21,
+      "end": 99.47,
+      "text": "몰래 떡 하나 더 집어 갔어"
+    },
+    {
+      "t": 101.23,
+      "end": 101.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 101.23,
+      "end": 104.45,
+      "text": "들켰다 다 같이 소리를 질러"
+    },
+    {
+      "t": 107.69,
+      "end": 125.19,
+      "text": "이모가 웃으면서 떡을 더 줘"
+    },
+    {
+      "t": 130.99,
+      "end": 130.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.99,
+      "end": 134.19,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 138.11,
+      "end": 145.06,
+      "text": "이제 서른 개 딱 여섯 개씩"
+    },
+    {
+      "t": 145.06,
+      "end": 156.82,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 157.4,
+      "end": 166.3,
+      "text": "방학엔 두 접시 시키자"
+    },
+    {
+      "t": 171.74,
+      "end": 171.74,
+      "text": "[Outro - glockenspiel and gang shouts]"
+    },
+    {
+      "t": 171.74,
+      "end": 174.88,
+      "text": "이모 감사합니다 또 올게요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.3,
+      "end": 21.3,
+      "text": "[Intro - clean guitar riff and tambourine]"
+    },
+    {
+      "t": 21.3,
+      "end": 21.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.3,
+      "end": 25.46,
+      "text": "마지막 시험 끝나는 종소리"
+    },
+    {
+      "t": 29.52,
+      "end": 34.9,
+      "text": "다섯이서 뛰어간 학교 앞 분식집"
+    },
+    {
+      "t": 36.38,
+      "end": 38.72,
+      "text": "돈 모아 보니 딱 한 접시"
+    },
+    {
+      "t": 38.8,
+      "end": 41.6,
+      "text": "이모 떡볶이 하나 주세요"
+    },
+    {
+      "t": 43.9,
+      "end": 43.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.9,
+      "end": 48.91,
+      "text": "포크는 다섯 개 떡은 몇 개야"
+    },
+    {
+      "t": 50.73,
+      "end": 55.91,
+      "text": "민수가 손가락으로 세기 시작해"
+    },
+    {
+      "t": 59.47,
+      "end": 59.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.47,
+      "end": 62.45,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 62.57,
+      "end": 66.05,
+      "text": "스물세 개 다섯으로 안 나눠져"
+    },
+    {
+      "t": 66.55,
+      "end": 69.59,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 69.87,
+      "end": 73.17,
+      "text": "남은 세 개는 가위바위보"
+    },
+    {
+      "t": 77.03,
+      "end": 77.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.03,
+      "end": 79.75,
+      "text": "어묵은 반으로 잘라야 하고"
+    },
+    {
+      "t": 80.51,
+      "end": 83.95,
+      "text": "계란은 하나라 노른자 싸움"
+    },
+    {
+      "t": 87.47,
+      "end": 91.07,
+      "text": "준호는 국물만 떠먹는 척"
+    },
+    {
+      "t": 94.19,
+      "end": 99.47,
+      "text": "몰래 떡 하나 더 집어 갔어"
+    },
+    {
+      "t": 101.23,
+      "end": 101.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 101.23,
+      "end": 104.43,
+      "text": "들켰다 다 같이 소리를 질러"
+    },
+    {
+      "t": 107.67,
+      "end": 111.57,
+      "text": "이모가 웃으면서 떡을 더 줘"
+    },
+    {
+      "t": 130.97,
+      "end": 130.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.97,
+      "end": 134.21,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 138.07,
+      "end": 147.98,
+      "text": "이제 서른 개 딱 여섯 개씩"
+    },
+    {
+      "t": 148.08,
+      "end": 163.22,
+      "text": "하나 둘 셋 넷 떡 개수"
+    },
+    {
+      "t": 163.54,
+      "end": 167.5,
+      "text": "방학엔 두 접시 시키자"
+    },
+    {
+      "t": 171.74,
+      "end": 171.74,
+      "text": "[Outro - glockenspiel and gang shouts]"
+    },
+    {
+      "t": 171.74,
+      "end": 174.88,
+      "text": "이모 감사합니다 또 올게요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

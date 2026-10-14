@@ -1,0 +1,459 @@
+{
+  "id": "b8_en01",
+  "title": "Eggshell, Not Satin",
+  "title_source": "scripted",
+  "genre": "retro disco-pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "flirty, giddy and a little shameless",
+  "persona": "",
+  "subject": "inventing a new paint project every Saturday to flirt with the man at the hardware store mixing counter",
+  "caption": "Retro disco-pop in the polished 2025 Hollywood-studio style. Live four-on-the-floor drums with an open hi-hat on every off-beat; an octave-jumping slap bass locked to the kick; a scratchy sixteenth-note funk rhythm guitar; a string section playing short rising stabs and long sweeps into each chorus; a clavinet comping between vocal lines. Polished and roomy, wide strings, bass and kick forward, a light plate reverb on the voice. Female voice, a breathy, wry light soprano, talking her way through the verses and opening into a bright stacked chorus. 116 BPM, A minor. Flirty, giddy and a little shameless. No trap hi-hats, no autotune, no EDM build or drop, no synthwave arpeggios, no house piano.",
+  "lyrics": "[Intro - slap bass and string stabs]\n\n[Verse 1]\nSaturday at ten, I'm at the counter again\nLast week the kitchen, now the hallway needs a lift\nHe shakes the can like he's playing maracas\nAsks me what the room is for, I say I haven't decided\n\n[Pre-Chorus]\nI don't own a roller, Frank, I own a lot of samples\n\n[Chorus]\nEggshell, not satin, I say it slow\nHold the chip to the window, let the colour show\nEvery wall in my flat is a shade of hello\nEggshell, not satin, mix me another, go\n\n[Verse 2]\nNow the bathroom's sage and the bedroom's something called Oat\nMy landlord left a voicemail, he says please stop painting\nFrank writes my name on the lid with a marker\nSpells it wrong on purpose so I'll come back and correct it\n\n[Pre-Chorus]\nI don't need a roller, Frank, I need a Saturday\n\n[Chorus]\nEggshell, not satin, I say it slow\nHold the chip to the window, let the colour show\nThere's one wall left and you already know\nEggshell, not satin, come and help it go\n\n[Outro - strings and clavinet fade]\nBring a brush on Sunday, Frank\nI'll pick the colour, you pick the takeaway",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Retro disco-pop in the polished 2025 Hollywood-studio style. Live four-on-the-floor drums with an open hi-hat on every off-beat; an octave-jumping slap bass locked to the kick; a scratchy sixteenth-note funk rhythm guitar; a string section playing short rising stabs and long sweeps into each chorus; a clavinet comping between vocal lines. Polished and roomy, wide strings, bass and kick forward, a light plate reverb on the voice. Female voice, a breathy, wry light soprano, talking her way through the verses and opening into a bright stacked chorus. 116 BPM, A minor. Flirty, giddy and a little shameless. No trap hi-hats, no autotune, no EDM build or drop, no synthwave arpeggios, no house piano.",
+    "lyrics": "[Intro - slap bass and string stabs]\n\n[Verse 1]\nSaturday at ten, I'm at the counter again\nLast week the kitchen, now the hallway needs a lift\nHe shakes the can like he's playing maracas\nAsks me what the room is for, I say I haven't decided\n\n[Pre-Chorus]\nI don't own a roller, Frank, I own a lot of samples\n\n[Chorus]\nEggshell, not satin, I say it slow\nHold the chip to the window, let the colour show\nEvery wall in my flat is a shade of hello\nEggshell, not satin, mix me another, go\n\n[Verse 2]\nNow the bathroom's sage and the bedroom's something called Oat\nMy landlord left a voicemail, he says please stop painting\nFrank writes my name on the lid with a marker\nSpells it wrong on purpose so I'll come back and correct it\n\n[Pre-Chorus]\nI don't need a roller, Frank, I need a Saturday\n\n[Chorus]\nEggshell, not satin, I say it slow\nHold the chip to the window, let the colour show\nThere's one wall left and you already know\nEggshell, not satin, come and help it go\n\n[Outro - strings and clavinet fade]\nBring a brush on Sunday, Frank\nI'll pick the colour, you pick the takeaway"
+  },
+  "seed": "1389378205",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.69s**\n- 58.69s per song\n- LM phase (1 song): 11.54s\n- DiT phase (1 song): 47.15s",
+  "task_id": "7598d29c-85c1-49af-a46e-5ee1fa8ad25d",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-13T22:45:16.300827+08:00",
+  "audio": "b8_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Intro - slap bass and string stabs]"
+    },
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.48,
+      "end": 23.66,
+      "text": "Saturday at ten, I'm at the counter again"
+    },
+    {
+      "t": 28.96,
+      "end": 36.14,
+      "text": "Last week the kitchen, now the hallway needs a lift"
+    },
+    {
+      "t": 36.14,
+      "end": 39.48,
+      "text": "He shakes the can like he's playing maracas"
+    },
+    {
+      "t": 42.86,
+      "end": 48.44,
+      "text": "Asks me what the room is for, I say I haven't decided"
+    },
+    {
+      "t": 52.47,
+      "end": 52.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.47,
+      "end": 56.65,
+      "text": "I don't own a roller, Frank, I own a lot of samples"
+    },
+    {
+      "t": 56.73,
+      "end": 56.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.73,
+      "end": 59.95,
+      "text": "Eggshell, not satin, I say it slow"
+    },
+    {
+      "t": 59.95,
+      "end": 64.85,
+      "text": "Hold the chip to the window, let the colour show"
+    },
+    {
+      "t": 68.45,
+      "end": 72.19,
+      "text": "Every wall in my flat is a shade of hello"
+    },
+    {
+      "t": 72.79,
+      "end": 84.45,
+      "text": "Eggshell, not satin, mix me another, go"
+    },
+    {
+      "t": 94.85,
+      "end": 94.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.85,
+      "end": 97.57,
+      "text": "Now the bathroom's sage and the bedroom's something called Oat"
+    },
+    {
+      "t": 97.57,
+      "end": 102.45,
+      "text": "My landlord left a voicemail, he says please stop painting"
+    },
+    {
+      "t": 102.45,
+      "end": 103.85,
+      "text": "Frank writes my name on the lid with a marker"
+    },
+    {
+      "t": 103.85,
+      "end": 107.43,
+      "text": "Spells it wrong on purpose so I'll come back and correct it"
+    },
+    {
+      "t": 107.53,
+      "end": 107.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.53,
+      "end": 124.35,
+      "text": "I don't need a roller, Frank, I need a Saturday"
+    },
+    {
+      "t": 124.35,
+      "end": 124.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.35,
+      "end": 125.37,
+      "text": "Eggshell, not satin, I say it slow"
+    },
+    {
+      "t": 125.39,
+      "end": 130.43,
+      "text": "Hold the chip to the window, let the colour show"
+    },
+    {
+      "t": 130.43,
+      "end": 133.69,
+      "text": "There's one wall left and you already know"
+    },
+    {
+      "t": 140.91,
+      "end": 171.06,
+      "text": "Eggshell, not satin, come and help it go"
+    },
+    {
+      "t": 177.32,
+      "end": 177.32,
+      "text": "[Outro - strings and clavinet fade]"
+    },
+    {
+      "t": 177.32,
+      "end": 179.18,
+      "text": "Bring a brush on Sunday, Frank"
+    },
+    {
+      "t": 182.02,
+      "end": 187.86,
+      "text": "I'll pick the colour, you pick the takeaway"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Intro - slap bass and string stabs]"
+    },
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.48,
+      "end": 23.66,
+      "text": "Saturday at ten, I'm at the counter again"
+    },
+    {
+      "t": 28.96,
+      "end": 36.14,
+      "text": "Last week the kitchen, now the hallway needs a lift"
+    },
+    {
+      "t": 36.14,
+      "end": 39.48,
+      "text": "He shakes the can like he's playing maracas"
+    },
+    {
+      "t": 42.86,
+      "end": 48.44,
+      "text": "Asks me what the room is for, I say I haven't decided"
+    },
+    {
+      "t": 52.47,
+      "end": 52.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.47,
+      "end": 56.65,
+      "text": "I don't own a roller, Frank, I own a lot of samples"
+    },
+    {
+      "t": 56.73,
+      "end": 56.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.73,
+      "end": 59.95,
+      "text": "Eggshell, not satin, I say it slow"
+    },
+    {
+      "t": 59.95,
+      "end": 64.85,
+      "text": "Hold the chip to the window, let the colour show"
+    },
+    {
+      "t": 68.45,
+      "end": 72.19,
+      "text": "Every wall in my flat is a shade of hello"
+    },
+    {
+      "t": 72.79,
+      "end": 84.45,
+      "text": "Eggshell, not satin, mix me another, go"
+    },
+    {
+      "t": 94.85,
+      "end": 94.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.85,
+      "end": 97.57,
+      "text": "Now the bathroom's sage and the bedroom's something called Oat"
+    },
+    {
+      "t": 97.57,
+      "end": 102.45,
+      "text": "My landlord left a voicemail, he says please stop painting"
+    },
+    {
+      "t": 102.45,
+      "end": 103.85,
+      "text": "Frank writes my name on the lid with a marker"
+    },
+    {
+      "t": 103.85,
+      "end": 107.43,
+      "text": "Spells it wrong on purpose so I'll come back and correct it"
+    },
+    {
+      "t": 107.53,
+      "end": 107.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.53,
+      "end": 124.35,
+      "text": "I don't need a roller, Frank, I need a Saturday"
+    },
+    {
+      "t": 124.35,
+      "end": 124.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.35,
+      "end": 125.37,
+      "text": "Eggshell, not satin, I say it slow"
+    },
+    {
+      "t": 125.39,
+      "end": 130.43,
+      "text": "Hold the chip to the window, let the colour show"
+    },
+    {
+      "t": 130.43,
+      "end": 133.69,
+      "text": "There's one wall left and you already know"
+    },
+    {
+      "t": 140.91,
+      "end": 171.06,
+      "text": "Eggshell, not satin, come and help it go"
+    },
+    {
+      "t": 177.32,
+      "end": 177.32,
+      "text": "[Outro - strings and clavinet fade]"
+    },
+    {
+      "t": 177.32,
+      "end": 179.18,
+      "text": "Bring a brush on Sunday, Frank"
+    },
+    {
+      "t": 182.02,
+      "end": 187.86,
+      "text": "I'll pick the colour, you pick the takeaway"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Intro - slap bass and string stabs]"
+    },
+    {
+      "t": 20.48,
+      "end": 20.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.48,
+      "end": 23.72,
+      "text": "Saturday at ten, I'm at the counter again"
+    },
+    {
+      "t": 28.96,
+      "end": 32.1,
+      "text": "Last week the kitchen, now the hallway needs a lift"
+    },
+    {
+      "t": 36.12,
+      "end": 39.48,
+      "text": "He shakes the can like he's playing maracas"
+    },
+    {
+      "t": 42.86,
+      "end": 51.53,
+      "text": "Asks me what the room is for, I say I haven't decided"
+    },
+    {
+      "t": 51.57,
+      "end": 51.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.57,
+      "end": 56.69,
+      "text": "I don't own a roller, Frank, I own a lot of samples"
+    },
+    {
+      "t": 56.71,
+      "end": 56.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.71,
+      "end": 60.07,
+      "text": "Eggshell, not satin, I say it slow"
+    },
+    {
+      "t": 60.11,
+      "end": 64.83,
+      "text": "Hold the chip to the window, let the colour show"
+    },
+    {
+      "t": 68.45,
+      "end": 72.19,
+      "text": "Every wall in my flat is a shade of hello"
+    },
+    {
+      "t": 76.11,
+      "end": 84.45,
+      "text": "Eggshell, not satin, mix me another, go"
+    },
+    {
+      "t": 94.83,
+      "end": 94.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.83,
+      "end": 97.63,
+      "text": "Now the bathroom's sage and the bedroom's something called Oat"
+    },
+    {
+      "t": 97.63,
+      "end": 102.41,
+      "text": "My landlord left a voicemail, he says please stop painting"
+    },
+    {
+      "t": 102.41,
+      "end": 103.39,
+      "text": "Frank writes my name on the lid with a marker"
+    },
+    {
+      "t": 103.39,
+      "end": 107.69,
+      "text": "Spells it wrong on purpose so I'll come back and correct it"
+    },
+    {
+      "t": 108.17,
+      "end": 108.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.17,
+      "end": 114.11,
+      "text": "I don't need a roller, Frank, I need a Saturday"
+    },
+    {
+      "t": 114.11,
+      "end": 114.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.11,
+      "end": 119.93,
+      "text": "Eggshell, not satin, I say it slow"
+    },
+    {
+      "t": 119.93,
+      "end": 127.39,
+      "text": "Hold the chip to the window, let the colour show"
+    },
+    {
+      "t": 129.01,
+      "end": 133.69,
+      "text": "There's one wall left and you already know"
+    },
+    {
+      "t": 138.91,
+      "end": 171.06,
+      "text": "Eggshell, not satin, come and help it go"
+    },
+    {
+      "t": 177.32,
+      "end": 177.32,
+      "text": "[Outro - strings and clavinet fade]"
+    },
+    {
+      "t": 177.32,
+      "end": 179.18,
+      "text": "Bring a brush on Sunday, Frank"
+    },
+    {
+      "t": 182.04,
+      "end": 187.86,
+      "text": "I'll pick the colour, you pick the takeaway"
+    }
+  ]
+}

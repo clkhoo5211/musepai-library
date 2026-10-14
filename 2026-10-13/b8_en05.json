@@ -1,0 +1,307 @@
+{
+  "id": "b8_en05",
+  "title": "Tombola In The Rain",
+  "title_source": "scripted",
+  "genre": "two-tone ska revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cheeky, soaked and refusing to go home",
+  "persona": "",
+  "subject": "a village fete that gets rained off while everyone keeps going under the tea tent",
+  "caption": "Two-tone ska revival in the 2025 UK grassroots style. A choppy off-beat electric guitar skank; a bouncing walking bass; tight snare-heavy drums with rimshots; a Farfisa organ bubbling on the off-beats; trombone and tenor sax playing unison riffs between lines. Raw and punchy, dry room sound, horns and organ wide, the voice upfront. Male voice, a cheeky half-shouted tenor with a flat Midlands accent, group backing shouts on the chorus. 150 BPM, G major. Cheeky, soaked and refusing to go home. No reggaeton, no pop-punk power chords, no autotune, no trap drums, no synthesizers.",
+  "lyrics": "[Intro - guitar skank and horns]\n\n[Verse 1]\nTwo o'clock in Little Hadley and the sky came down\nThe coconut shy floated off across the green\nMrs Patel's Victoria sponge is under a bin bag\nThe vicar's on the tombola with his trousers rolled\n\n[Pre-Chorus]\nNobody's going, nobody's going home\n\n[Chorus]\nTombola in the rain, ticket number nine\nWon a bottle of shampoo and a tin of pineapple rings\nForty of us squashed in the tea tent\nTombola in the rain and we're having a time\n\n[Verse 2]\nBrass band's playing the same three songs louder every round\nDog show judge has given every dog a rosette\nSomebody's uncle dancing with the raffle table\nTea's gone cold and the tent's starting to lean\n\n[Pre-Chorus]\nNobody's going, the pole's going instead\n\n[Chorus]\nTombola in the rain, ticket number ten\nWon the shampoo back and I gave it away again\nTent comes down and we're still stood there\nTombola in the rain, same time next year\n\n[Outro - horns and organ]\nLittle Hadley, drying out by Tuesday",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 182.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Two-tone ska revival in the 2025 UK grassroots style. A choppy off-beat electric guitar skank; a bouncing walking bass; tight snare-heavy drums with rimshots; a Farfisa organ bubbling on the off-beats; trombone and tenor sax playing unison riffs between lines. Raw and punchy, dry room sound, horns and organ wide, the voice upfront. Male voice, a cheeky half-shouted tenor with a flat Midlands accent, group backing shouts on the chorus. 150 BPM, G major. Cheeky, soaked and refusing to go home. No reggaeton, no pop-punk power chords, no autotune, no trap drums, no synthesizers.",
+    "lyrics": "[Intro - guitar skank and horns]\n\n[Verse 1]\nTwo o'clock in Little Hadley and the sky came down\nThe coconut shy floated off across the green\nMrs Patel's Victoria sponge is under a bin bag\nThe vicar's on the tombola with his trousers rolled\n\n[Pre-Chorus]\nNobody's going, nobody's going home\n\n[Chorus]\nTombola in the rain, ticket number nine\nWon a bottle of shampoo and a tin of pineapple rings\nForty of us squashed in the tea tent\nTombola in the rain and we're having a time\n\n[Verse 2]\nBrass band's playing the same three songs louder every round\nDog show judge has given every dog a rosette\nSomebody's uncle dancing with the raffle table\nTea's gone cold and the tent's starting to lean\n\n[Pre-Chorus]\nNobody's going, the pole's going instead\n\n[Chorus]\nTombola in the rain, ticket number ten\nWon the shampoo back and I gave it away again\nTent comes down and we're still stood there\nTombola in the rain, same time next year\n\n[Outro - horns and organ]\nLittle Hadley, drying out by Tuesday"
+  },
+  "seed": "2430370115",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.25s**\n- 58.25s per song\n- LM phase (1 song): 14.92s\n- DiT phase (1 song): 43.33s",
+  "task_id": "01d471aa-f914-45c2-b02a-bcdc73926d7d",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-13T22:51:07.088522+08:00",
+  "audio": "b8_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.24,
+      "end": 27.24,
+      "text": "[Intro - guitar skank and horns]"
+    },
+    {
+      "t": 27.24,
+      "end": 27.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.24,
+      "end": 31.64,
+      "text": "Two o'clock in Little Hadley and the sky came down"
+    },
+    {
+      "t": 32.86,
+      "end": 37.36,
+      "text": "The coconut shy floated off across the green"
+    },
+    {
+      "t": 39.82,
+      "end": 44.8,
+      "text": "Mrs Patel's Victoria sponge is under a bin bag"
+    },
+    {
+      "t": 46.17,
+      "end": 51.03,
+      "text": "The vicar's on the tombola with his trousers rolled"
+    },
+    {
+      "t": 51.03,
+      "end": 51.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.03,
+      "end": 54.21,
+      "text": "Nobody's going, nobody's going home"
+    },
+    {
+      "t": 56.05,
+      "end": 56.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.05,
+      "end": 60.57,
+      "text": "Tombola in the rain, ticket number nine"
+    },
+    {
+      "t": 62.03,
+      "end": 66.37,
+      "text": "Won a bottle of shampoo and a tin of pineapple rings"
+    },
+    {
+      "t": 68.75,
+      "end": 72.05,
+      "text": "Forty of us squashed in the tea tent"
+    },
+    {
+      "t": 74.89,
+      "end": 78.63,
+      "text": "Tombola in the rain and we're having a time"
+    },
+    {
+      "t": 81.23,
+      "end": 81.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.23,
+      "end": 85.57,
+      "text": "Brass band's playing the same three songs louder every round"
+    },
+    {
+      "t": 87.15,
+      "end": 91.97,
+      "text": "Dog show judge has given every dog a rosette"
+    },
+    {
+      "t": 93.59,
+      "end": 97.91,
+      "text": "Somebody's uncle dancing with the raffle table"
+    },
+    {
+      "t": 99.69,
+      "end": 103.19,
+      "text": "Tea's gone cold and the tent's starting to lean"
+    },
+    {
+      "t": 117.63,
+      "end": 117.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 117.63,
+      "end": 122.23,
+      "text": "Nobody's going, the pole's going instead"
+    },
+    {
+      "t": 123.89,
+      "end": 123.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.89,
+      "end": 130.05,
+      "text": "Tombola in the rain, ticket number ten"
+    },
+    {
+      "t": 131.33,
+      "end": 138.98,
+      "text": "Won the shampoo back and I gave it away again"
+    },
+    {
+      "t": 139.16,
+      "end": 145.8,
+      "text": "Tent comes down and we're still stood there"
+    },
+    {
+      "t": 148.6,
+      "end": 152.42,
+      "text": "Tombola in the rain, same time next year"
+    },
+    {
+      "t": 152.42,
+      "end": 152.42,
+      "text": "[Outro - horns and organ]"
+    },
+    {
+      "t": 152.42,
+      "end": 166.58,
+      "text": "Little Hadley, drying out by Tuesday"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.24,
+      "end": 27.24,
+      "text": "[Intro - guitar skank and horns]"
+    },
+    {
+      "t": 27.24,
+      "end": 27.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.24,
+      "end": 31.68,
+      "text": "Two o'clock in Little Hadley and the sky came down"
+    },
+    {
+      "t": 32.84,
+      "end": 37.36,
+      "text": "The coconut shy floated off across the green"
+    },
+    {
+      "t": 39.8,
+      "end": 44.78,
+      "text": "Mrs Patel's Victoria sponge is under a bin bag"
+    },
+    {
+      "t": 46.17,
+      "end": 50.93,
+      "text": "The vicar's on the tombola with his trousers rolled"
+    },
+    {
+      "t": 52.87,
+      "end": 52.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.87,
+      "end": 56.05,
+      "text": "Nobody's going, nobody's going home"
+    },
+    {
+      "t": 56.05,
+      "end": 56.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.05,
+      "end": 60.57,
+      "text": "Tombola in the rain, ticket number nine"
+    },
+    {
+      "t": 62.05,
+      "end": 66.33,
+      "text": "Won a bottle of shampoo and a tin of pineapple rings"
+    },
+    {
+      "t": 68.73,
+      "end": 72.03,
+      "text": "Forty of us squashed in the tea tent"
+    },
+    {
+      "t": 74.89,
+      "end": 78.65,
+      "text": "Tombola in the rain and we're having a time"
+    },
+    {
+      "t": 81.23,
+      "end": 81.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.23,
+      "end": 85.59,
+      "text": "Brass band's playing the same three songs louder every round"
+    },
+    {
+      "t": 87.15,
+      "end": 91.97,
+      "text": "Dog show judge has given every dog a rosette"
+    },
+    {
+      "t": 93.57,
+      "end": 97.89,
+      "text": "Somebody's uncle dancing with the raffle table"
+    },
+    {
+      "t": 99.67,
+      "end": 103.13,
+      "text": "Tea's gone cold and the tent's starting to lean"
+    },
+    {
+      "t": 117.61,
+      "end": 117.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 117.61,
+      "end": 122.23,
+      "text": "Nobody's going, the pole's going instead"
+    },
+    {
+      "t": 123.89,
+      "end": 123.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.89,
+      "end": 125.87,
+      "text": "Tombola in the rain, ticket number ten"
+    },
+    {
+      "t": 125.91,
+      "end": 128.21,
+      "text": "Won the shampoo back and I gave it away again"
+    },
+    {
+      "t": 129.81,
+      "end": 134.51,
+      "text": "Tent comes down and we're still stood there"
+    },
+    {
+      "t": 136.13,
+      "end": 139.66,
+      "text": "Tombola in the rain, same time next year"
+    },
+    {
+      "t": 144.28,
+      "end": 144.28,
+      "text": "[Outro - horns and organ]"
+    },
+    {
+      "t": 144.28,
+      "end": 152.06,
+      "text": "Little Hadley, drying out by Tuesday"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

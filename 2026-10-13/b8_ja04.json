@@ -1,0 +1,489 @@
+{
+  "id": "b8_ja04",
+  "title": "片耳ずつ",
+  "title_source": "scripted",
+  "genre": "Japanese liquid drum and bass pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "tender, sleepy, content",
+  "persona": "",
+  "subject": "an overnight highway bus from Osaka to Tokyo, sharing one pair of earbuds with your boyfriend while he falls asleep on your shoulder",
+  "caption": "Japanese liquid drum and bass pop. A rolling liquid breakbeat with soft ghost snares and a light shuffling ride, warm Rhodes electric piano holding major-seventh chords, a deep round sub bass moving in half time, airy acoustic guitar harmonics answering the vocal, and a quiet rain-on-glass field recording at the start. Smooth and warm, drums crisp but never harsh, Rhodes and voice centred, gentle stereo width. Female mezzo, soft and close, breathy but in tune, singing in long relaxed phrases over the fast drums. 172 BPM, E-flat major. Tender, sleepy and content. No neurofunk or reese bass, no EDM drop, no trap hi-hats, no autotune, no rap verse.",
+  "lyrics": "[Intro - rain on glass, Rhodes, breakbeat fades in]\n\n[Verse 1]\n二十三時 梅田のバス乗り場\nカーテン閉めた 四列シート\nイヤホンの右を あなたに渡して\n左を私が つけた\n\n[Pre-Chorus]\n同じ曲が 半分ずつ\n聞こえてる\n\n[Chorus]\n片耳ずつで ちょうどいい\nあなたの寝息が 左から\n名古屋を過ぎても 起こさない\n肩が少し しびれてても\n\n[Verse 2]\nサービスエリアの 灯りが過ぎる\n毛布の下で 手を探す\n寝ぼけた声で 今どこって\nまだ静岡 寝てていいよ\n\n[Pre-Chorus]\nあなたの耳に 何が鳴ってるか\nわかってる\n\n[Chorus]\n片耳ずつで ちょうどいい\nあなたの寝息が 左から\n新宿に着いても 降りるまで\nこのままで いさせてね\n\n[Outro - Rhodes and rain]\n朝の六時 バスタ新宿\nイヤホン 返してくれない",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 218.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Japanese liquid drum and bass pop. A rolling liquid breakbeat with soft ghost snares and a light shuffling ride, warm Rhodes electric piano holding major-seventh chords, a deep round sub bass moving in half time, airy acoustic guitar harmonics answering the vocal, and a quiet rain-on-glass field recording at the start. Smooth and warm, drums crisp but never harsh, Rhodes and voice centred, gentle stereo width. Female mezzo, soft and close, breathy but in tune, singing in long relaxed phrases over the fast drums. 172 BPM, E-flat major. Tender, sleepy and content. No neurofunk or reese bass, no EDM drop, no trap hi-hats, no autotune, no rap verse.",
+    "lyrics": "[Intro - rain on glass, Rhodes, breakbeat fades in]\n\n[Verse 1]\n二十三時 梅田のバス乗り場\nカーテン閉めた 四列シート\nイヤホンの右を あなたに渡して\n左を私が つけた\n\n[Pre-Chorus]\n同じ曲が 半分ずつ\n聞こえてる\n\n[Chorus]\n片耳ずつで ちょうどいい\nあなたの寝息が 左から\n名古屋を過ぎても 起こさない\n肩が少し しびれてても\n\n[Verse 2]\nサービスエリアの 灯りが過ぎる\n毛布の下で 手を探す\n寝ぼけた声で 今どこって\nまだ静岡 寝てていいよ\n\n[Pre-Chorus]\nあなたの耳に 何が鳴ってるか\nわかってる\n\n[Chorus]\n片耳ずつで ちょうどいい\nあなたの寝息が 左から\n新宿に着いても 降りるまで\nこのままで いさせてね\n\n[Outro - Rhodes and rain]\n朝の六時 バスタ新宿\nイヤホン 返してくれない"
+  },
+  "seed": "3282694614",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.78s**\n- 69.78s per song\n- LM phase (1 song): 7.63s\n- DiT phase (1 song): 62.15s",
+  "task_id": "1aea3d76-9cd8-4e2b-a998-b448a8a29c8b",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-13T23:03:59.526399+08:00",
+  "audio": "b8_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.36,
+      "end": 38.36,
+      "text": "[Intro - rain on glass, Rhodes, breakbeat fades in]"
+    },
+    {
+      "t": 38.36,
+      "end": 38.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.36,
+      "end": 41.54,
+      "text": "二十三時 梅田のバス乗り場"
+    },
+    {
+      "t": 43.78,
+      "end": 46.94,
+      "text": "カーテン閉めた 四列シート"
+    },
+    {
+      "t": 49.32,
+      "end": 52.52,
+      "text": "イヤホンの右を あなたに渡して"
+    },
+    {
+      "t": 54.51,
+      "end": 56.03,
+      "text": "左を私が つけた"
+    },
+    {
+      "t": 56.09,
+      "end": 56.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.09,
+      "end": 61.57,
+      "text": "同じ曲が 半分ずつ"
+    },
+    {
+      "t": 61.61,
+      "end": 62.49,
+      "text": "聞こえてる"
+    },
+    {
+      "t": 62.49,
+      "end": 62.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.49,
+      "end": 68.49,
+      "text": "片耳ずつで ちょうどいい"
+    },
+    {
+      "t": 68.49,
+      "end": 86.23,
+      "text": "あなたの寝息が 左から"
+    },
+    {
+      "t": 87.79,
+      "end": 90.81,
+      "text": "名古屋を過ぎても 起こさない"
+    },
+    {
+      "t": 90.81,
+      "end": 94.75,
+      "text": "肩が少し しびれてても"
+    },
+    {
+      "t": 98.97,
+      "end": 98.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.97,
+      "end": 101.93,
+      "text": "サービスエリアの 灯りが過ぎる"
+    },
+    {
+      "t": 104.59,
+      "end": 107.21,
+      "text": "毛布の下で 手を探す"
+    },
+    {
+      "t": 110.05,
+      "end": 112.99,
+      "text": "寝ぼけた声で 今どこって"
+    },
+    {
+      "t": 115.45,
+      "end": 118.61,
+      "text": "まだ静岡 寝てていいよ"
+    },
+    {
+      "t": 121.49,
+      "end": 121.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.49,
+      "end": 126.35,
+      "text": "あなたの耳に 何が鳴ってるか"
+    },
+    {
+      "t": 127.07,
+      "end": 128.85,
+      "text": "わかってる"
+    },
+    {
+      "t": 135.11,
+      "end": 135.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.11,
+      "end": 140.99,
+      "text": "片耳ずつで ちょうどいい"
+    },
+    {
+      "t": 140.99,
+      "end": 146.61,
+      "text": "あなたの寝息が 左から"
+    },
+    {
+      "t": 146.67,
+      "end": 152.07,
+      "text": "新宿に着いても 降りるまで"
+    },
+    {
+      "t": 152.07,
+      "end": 156.47,
+      "text": "このままで いさせてね"
+    },
+    {
+      "t": 156.69,
+      "end": 156.69,
+      "text": "[Outro - Rhodes and rain]"
+    },
+    {
+      "t": 156.69,
+      "end": 157.83,
+      "text": "朝の六時 バスタ新宿"
+    },
+    {
+      "t": 158.79,
+      "end": 173.04,
+      "text": "イヤホン 返してくれない"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.36,
+      "end": 38.36,
+      "text": "[Intro - rain on glass, Rhodes, breakbeat fades in]"
+    },
+    {
+      "t": 38.36,
+      "end": 38.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.36,
+      "end": 41.54,
+      "text": "二十三時 梅田のバス乗り場"
+    },
+    {
+      "t": 43.78,
+      "end": 46.94,
+      "text": "カーテン閉めた 四列シート"
+    },
+    {
+      "t": 49.32,
+      "end": 52.52,
+      "text": "イヤホンの右を あなたに渡して"
+    },
+    {
+      "t": 54.51,
+      "end": 56.03,
+      "text": "左を私が つけた"
+    },
+    {
+      "t": 56.09,
+      "end": 56.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.09,
+      "end": 61.57,
+      "text": "同じ曲が 半分ずつ"
+    },
+    {
+      "t": 61.61,
+      "end": 62.49,
+      "text": "聞こえてる"
+    },
+    {
+      "t": 62.49,
+      "end": 62.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.49,
+      "end": 68.49,
+      "text": "片耳ずつで ちょうどいい"
+    },
+    {
+      "t": 68.49,
+      "end": 86.23,
+      "text": "あなたの寝息が 左から"
+    },
+    {
+      "t": 87.79,
+      "end": 90.81,
+      "text": "名古屋を過ぎても 起こさない"
+    },
+    {
+      "t": 90.81,
+      "end": 94.75,
+      "text": "肩が少し しびれてても"
+    },
+    {
+      "t": 98.97,
+      "end": 98.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.97,
+      "end": 101.93,
+      "text": "サービスエリアの 灯りが過ぎる"
+    },
+    {
+      "t": 104.59,
+      "end": 107.21,
+      "text": "毛布の下で 手を探す"
+    },
+    {
+      "t": 110.05,
+      "end": 112.99,
+      "text": "寝ぼけた声で 今どこって"
+    },
+    {
+      "t": 115.45,
+      "end": 118.61,
+      "text": "まだ静岡 寝てていいよ"
+    },
+    {
+      "t": 121.49,
+      "end": 121.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.49,
+      "end": 126.35,
+      "text": "あなたの耳に 何が鳴ってるか"
+    },
+    {
+      "t": 127.07,
+      "end": 128.85,
+      "text": "わかってる"
+    },
+    {
+      "t": 135.11,
+      "end": 135.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.11,
+      "end": 140.99,
+      "text": "片耳ずつで ちょうどいい"
+    },
+    {
+      "t": 140.99,
+      "end": 146.61,
+      "text": "あなたの寝息が 左から"
+    },
+    {
+      "t": 146.67,
+      "end": 152.07,
+      "text": "新宿に着いても 降りるまで"
+    },
+    {
+      "t": 152.07,
+      "end": 156.47,
+      "text": "このままで いさせてね"
+    },
+    {
+      "t": 156.69,
+      "end": 156.69,
+      "text": "[Outro - Rhodes and rain]"
+    },
+    {
+      "t": 156.69,
+      "end": 157.83,
+      "text": "朝の六時 バスタ新宿"
+    },
+    {
+      "t": 158.79,
+      "end": 173.04,
+      "text": "イヤホン 返してくれない"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 38.36,
+      "end": 38.36,
+      "text": "[Intro - rain on glass, Rhodes, breakbeat fades in]"
+    },
+    {
+      "t": 38.36,
+      "end": 38.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.36,
+      "end": 41.52,
+      "text": "二十三時 梅田のバス乗り場"
+    },
+    {
+      "t": 43.8,
+      "end": 46.94,
+      "text": "カーテン閉めた 四列シート"
+    },
+    {
+      "t": 49.32,
+      "end": 52.52,
+      "text": "イヤホンの右を あなたに渡して"
+    },
+    {
+      "t": 54.51,
+      "end": 57.47,
+      "text": "左を私が つけた"
+    },
+    {
+      "t": 57.47,
+      "end": 57.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.47,
+      "end": 61.55,
+      "text": "同じ曲が 半分ずつ"
+    },
+    {
+      "t": 61.55,
+      "end": 62.33,
+      "text": "聞こえてる"
+    },
+    {
+      "t": 62.43,
+      "end": 62.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.43,
+      "end": 68.61,
+      "text": "片耳ずつで ちょうどいい"
+    },
+    {
+      "t": 68.61,
+      "end": 85.87,
+      "text": "あなたの寝息が 左から"
+    },
+    {
+      "t": 86.09,
+      "end": 90.79,
+      "text": "名古屋を過ぎても 起こさない"
+    },
+    {
+      "t": 90.81,
+      "end": 94.75,
+      "text": "肩が少し しびれてても"
+    },
+    {
+      "t": 98.97,
+      "end": 98.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.97,
+      "end": 101.91,
+      "text": "サービスエリアの 灯りが過ぎる"
+    },
+    {
+      "t": 104.59,
+      "end": 107.21,
+      "text": "毛布の下で 手を探す"
+    },
+    {
+      "t": 110.07,
+      "end": 112.99,
+      "text": "寝ぼけた声で 今どこって"
+    },
+    {
+      "t": 115.45,
+      "end": 118.59,
+      "text": "まだ静岡 寝てていいよ"
+    },
+    {
+      "t": 121.49,
+      "end": 121.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.49,
+      "end": 126.35,
+      "text": "あなたの耳に 何が鳴ってるか"
+    },
+    {
+      "t": 127.07,
+      "end": 128.85,
+      "text": "わかってる"
+    },
+    {
+      "t": 131.83,
+      "end": 131.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.83,
+      "end": 135.37,
+      "text": "片耳ずつで ちょうどいい"
+    },
+    {
+      "t": 135.37,
+      "end": 140.75,
+      "text": "あなたの寝息が 左から"
+    },
+    {
+      "t": 140.79,
+      "end": 147.01,
+      "text": "新宿に着いても 降りるまで"
+    },
+    {
+      "t": 151.55,
+      "end": 157.75,
+      "text": "このままで いさせてね"
+    },
+    {
+      "t": 158.83,
+      "end": 158.83,
+      "text": "[Outro - Rhodes and rain]"
+    },
+    {
+      "t": 158.83,
+      "end": 176.82,
+      "text": "朝の六時 バスタ新宿"
+    },
+    {
+      "t": 177.12,
+      "end": 201.52,
+      "text": "イヤホン 返してくれない"
+    }
+  ]
+}

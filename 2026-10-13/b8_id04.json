@@ -1,0 +1,474 @@
+{
+  "id": "b8_id04",
+  "title": "Lagu Buat Eyang",
+  "title_source": "scripted",
+  "genre": "Indonesian 90s jazz-pop vocal group",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "warm, smitten, gently teasing",
+  "persona": "",
+  "subject": "a man learning an old keroncong song on a borrowed ukulele for six weeks to sing at his girlfriend's grandmother's eightieth birthday, so the family will take him seriously",
+  "caption": "Indonesian 90s jazz-pop vocal group in the Kahitna revival style. A Fender Rhodes playing lush ninth and eleventh chords; a smooth fretless electric bass sliding between roots; a brushed jazz drum kit with soft rimshots and a light swing; muted trumpet fills between vocal phrases; stacked four-part male close-harmony backing vocals. Polished 1990s studio sheen, warm and round, harmonies spread wide, gentle plate reverb. Male voice, a smooth light tenor with relaxed jazzy phrasing, the group answering in close harmony. 96 BPM, E-flat major. Warm, smitten, gently teasing. No trap drums, no autotune, no rock guitar, no EDM synths, no rap verse.",
+  "lyrics": "[Intro - Rhodes chords and muted trumpet]\n\n[Verse 1]\nEnam minggu lalu kamu bilang\nEyang ulang tahun yang kedelapan puluh\nBeliau suka lagu keroncong lama\nAku pinjam ukulele tetangga kos\n\n[Pre-Chorus]\nTiap malam aku latihan\nSampai jari merah dan tetangga protes\n\n[Chorus]\nLagu buat Eyang, aku nyanyi pelan\nBiar kunci salah, yang penting sungguhan\nLagu buat Eyang, buat kamu juga\nDi depan keluargamu aku nggak lari\n\n[Verse 2]\nMalam itu rumah penuh sepupu\nOm-om duduk sambil melirik tajam\nSuaraku gemetar di baris pertama\nEyang pelan-pelan ikut bersenandung\n\n[Pre-Chorus]\nDi bait kedua satu ruangan nyanyi\nKamu senyum sambil tutup muka\n\n[Chorus]\nLagu buat Eyang, aku nyanyi pelan\nEyang tepuk tanganku, bilang lumayan\nLagu buat Eyang, buat kamu juga\nMinggu depan Om ajak aku mancing\n\n[Outro - Rhodes and close harmony]\nUkulele tetangga, belum kubalikin",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 226.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Indonesian 90s jazz-pop vocal group in the Kahitna revival style. A Fender Rhodes playing lush ninth and eleventh chords; a smooth fretless electric bass sliding between roots; a brushed jazz drum kit with soft rimshots and a light swing; muted trumpet fills between vocal phrases; stacked four-part male close-harmony backing vocals. Polished 1990s studio sheen, warm and round, harmonies spread wide, gentle plate reverb. Male voice, a smooth light tenor with relaxed jazzy phrasing, the group answering in close harmony. 96 BPM, E-flat major. Warm, smitten, gently teasing. No trap drums, no autotune, no rock guitar, no EDM synths, no rap verse.",
+    "lyrics": "[Intro - Rhodes chords and muted trumpet]\n\n[Verse 1]\nEnam minggu lalu kamu bilang\nEyang ulang tahun yang kedelapan puluh\nBeliau suka lagu keroncong lama\nAku pinjam ukulele tetangga kos\n\n[Pre-Chorus]\nTiap malam aku latihan\nSampai jari merah dan tetangga protes\n\n[Chorus]\nLagu buat Eyang, aku nyanyi pelan\nBiar kunci salah, yang penting sungguhan\nLagu buat Eyang, buat kamu juga\nDi depan keluargamu aku nggak lari\n\n[Verse 2]\nMalam itu rumah penuh sepupu\nOm-om duduk sambil melirik tajam\nSuaraku gemetar di baris pertama\nEyang pelan-pelan ikut bersenandung\n\n[Pre-Chorus]\nDi bait kedua satu ruangan nyanyi\nKamu senyum sambil tutup muka\n\n[Chorus]\nLagu buat Eyang, aku nyanyi pelan\nEyang tepuk tanganku, bilang lumayan\nLagu buat Eyang, buat kamu juga\nMinggu depan Om ajak aku mancing\n\n[Outro - Rhodes and close harmony]\nUkulele tetangga, belum kubalikin"
+  },
+  "seed": "3474555068",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 76.22s**\n- 76.22s per song\n- LM phase (1 song): 14.04s\n- DiT phase (1 song): 62.18s",
+  "task_id": "dd1dc9eb-0e30-4ced-a602-c97bcef44588",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-13T22:28:24.331548+08:00",
+  "audio": "b8_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.2,
+      "end": 26.2,
+      "text": "[Intro - Rhodes chords and muted trumpet]"
+    },
+    {
+      "t": 26.2,
+      "end": 26.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.2,
+      "end": 32.7,
+      "text": "Enam minggu lalu kamu bilang"
+    },
+    {
+      "t": 35.86,
+      "end": 40.74,
+      "text": "Eyang ulang tahun yang kedelapan puluh"
+    },
+    {
+      "t": 41.48,
+      "end": 45.88,
+      "text": "Beliau suka lagu keroncong lama"
+    },
+    {
+      "t": 46.58,
+      "end": 52.36,
+      "text": "Aku pinjam ukulele tetangga kos"
+    },
+    {
+      "t": 52.6,
+      "end": 52.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.6,
+      "end": 57.85,
+      "text": "Tiap malam aku latihan"
+    },
+    {
+      "t": 57.85,
+      "end": 64.57,
+      "text": "Sampai jari merah dan tetangga protes"
+    },
+    {
+      "t": 64.57,
+      "end": 64.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.57,
+      "end": 70.49,
+      "text": "Lagu buat Eyang, aku nyanyi pelan"
+    },
+    {
+      "t": 73.05,
+      "end": 81.49,
+      "text": "Biar kunci salah, yang penting sungguhan"
+    },
+    {
+      "t": 87.51,
+      "end": 94.01,
+      "text": "Lagu buat Eyang, buat kamu juga"
+    },
+    {
+      "t": 97.01,
+      "end": 104.77,
+      "text": "Di depan keluargamu aku nggak lari"
+    },
+    {
+      "t": 107.43,
+      "end": 107.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 107.43,
+      "end": 111.97,
+      "text": "Malam itu rumah penuh sepupu"
+    },
+    {
+      "t": 112.57,
+      "end": 115.57,
+      "text": "Om-om duduk sambil melirik tajam"
+    },
+    {
+      "t": 117.45,
+      "end": 120.67,
+      "text": "Suaraku gemetar di baris pertama"
+    },
+    {
+      "t": 122.67,
+      "end": 128.35,
+      "text": "Eyang pelan-pelan ikut bersenandung"
+    },
+    {
+      "t": 130.73,
+      "end": 130.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 130.73,
+      "end": 136.51,
+      "text": "Di bait kedua satu ruangan nyanyi"
+    },
+    {
+      "t": 140.39,
+      "end": 144.61,
+      "text": "Kamu senyum sambil tutup muka"
+    },
+    {
+      "t": 150.07,
+      "end": 150.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.07,
+      "end": 161.59,
+      "text": "Lagu buat Eyang, aku nyanyi pelan"
+    },
+    {
+      "t": 161.79,
+      "end": 167.19,
+      "text": "Eyang tepuk tanganku, bilang lumayan"
+    },
+    {
+      "t": 168.19,
+      "end": 180.76,
+      "text": "Lagu buat Eyang, buat kamu juga"
+    },
+    {
+      "t": 183.76,
+      "end": 190.2,
+      "text": "Minggu depan Om ajak aku mancing"
+    },
+    {
+      "t": 194.82,
+      "end": 194.82,
+      "text": "[Outro - Rhodes and close harmony]"
+    },
+    {
+      "t": 194.82,
+      "end": 201.88,
+      "text": "Ukulele tetangga, belum kubalikin"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.2,
+      "end": 26.2,
+      "text": "[Intro - Rhodes chords and muted trumpet]"
+    },
+    {
+      "t": 26.2,
+      "end": 26.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.2,
+      "end": 32.7,
+      "text": "Enam minggu lalu kamu bilang"
+    },
+    {
+      "t": 35.86,
+      "end": 40.74,
+      "text": "Eyang ulang tahun yang kedelapan puluh"
+    },
+    {
+      "t": 41.48,
+      "end": 45.88,
+      "text": "Beliau suka lagu keroncong lama"
+    },
+    {
+      "t": 46.58,
+      "end": 52.36,
+      "text": "Aku pinjam ukulele tetangga kos"
+    },
+    {
+      "t": 52.6,
+      "end": 52.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.6,
+      "end": 57.85,
+      "text": "Tiap malam aku latihan"
+    },
+    {
+      "t": 57.85,
+      "end": 64.57,
+      "text": "Sampai jari merah dan tetangga protes"
+    },
+    {
+      "t": 64.57,
+      "end": 64.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.57,
+      "end": 70.49,
+      "text": "Lagu buat Eyang, aku nyanyi pelan"
+    },
+    {
+      "t": 73.05,
+      "end": 81.49,
+      "text": "Biar kunci salah, yang penting sungguhan"
+    },
+    {
+      "t": 87.51,
+      "end": 94.01,
+      "text": "Lagu buat Eyang, buat kamu juga"
+    },
+    {
+      "t": 97.01,
+      "end": 104.77,
+      "text": "Di depan keluargamu aku nggak lari"
+    },
+    {
+      "t": 107.43,
+      "end": 107.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 107.43,
+      "end": 111.97,
+      "text": "Malam itu rumah penuh sepupu"
+    },
+    {
+      "t": 112.57,
+      "end": 115.57,
+      "text": "Om-om duduk sambil melirik tajam"
+    },
+    {
+      "t": 117.45,
+      "end": 120.67,
+      "text": "Suaraku gemetar di baris pertama"
+    },
+    {
+      "t": 122.67,
+      "end": 128.35,
+      "text": "Eyang pelan-pelan ikut bersenandung"
+    },
+    {
+      "t": 130.73,
+      "end": 130.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 130.73,
+      "end": 136.51,
+      "text": "Di bait kedua satu ruangan nyanyi"
+    },
+    {
+      "t": 140.39,
+      "end": 144.61,
+      "text": "Kamu senyum sambil tutup muka"
+    },
+    {
+      "t": 150.07,
+      "end": 150.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.07,
+      "end": 161.59,
+      "text": "Lagu buat Eyang, aku nyanyi pelan"
+    },
+    {
+      "t": 161.79,
+      "end": 167.19,
+      "text": "Eyang tepuk tanganku, bilang lumayan"
+    },
+    {
+      "t": 168.19,
+      "end": 180.76,
+      "text": "Lagu buat Eyang, buat kamu juga"
+    },
+    {
+      "t": 183.76,
+      "end": 190.2,
+      "text": "Minggu depan Om ajak aku mancing"
+    },
+    {
+      "t": 194.82,
+      "end": 194.82,
+      "text": "[Outro - Rhodes and close harmony]"
+    },
+    {
+      "t": 194.82,
+      "end": 201.88,
+      "text": "Ukulele tetangga, belum kubalikin"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 26.18,
+      "end": 26.18,
+      "text": "[Intro - Rhodes chords and muted trumpet]"
+    },
+    {
+      "t": 26.18,
+      "end": 26.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.18,
+      "end": 32.7,
+      "text": "Enam minggu lalu kamu bilang"
+    },
+    {
+      "t": 35.84,
+      "end": 40.7,
+      "text": "Eyang ulang tahun yang kedelapan puluh"
+    },
+    {
+      "t": 41.46,
+      "end": 45.88,
+      "text": "Beliau suka lagu keroncong lama"
+    },
+    {
+      "t": 46.58,
+      "end": 52.9,
+      "text": "Aku pinjam ukulele tetangga kos"
+    },
+    {
+      "t": 53.0,
+      "end": 53.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.0,
+      "end": 55.78,
+      "text": "Tiap malam aku latihan"
+    },
+    {
+      "t": 57.83,
+      "end": 65.17,
+      "text": "Sampai jari merah dan tetangga protes"
+    },
+    {
+      "t": 65.71,
+      "end": 65.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.71,
+      "end": 70.47,
+      "text": "Lagu buat Eyang, aku nyanyi pelan"
+    },
+    {
+      "t": 73.05,
+      "end": 81.49,
+      "text": "Biar kunci salah, yang penting sungguhan"
+    },
+    {
+      "t": 87.51,
+      "end": 94.01,
+      "text": "Lagu buat Eyang, buat kamu juga"
+    },
+    {
+      "t": 97.03,
+      "end": 104.75,
+      "text": "Di depan keluargamu aku nggak lari"
+    },
+    {
+      "t": 107.43,
+      "end": 107.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 107.43,
+      "end": 111.95,
+      "text": "Malam itu rumah penuh sepupu"
+    },
+    {
+      "t": 112.57,
+      "end": 115.35,
+      "text": "Om-om duduk sambil melirik tajam"
+    },
+    {
+      "t": 117.45,
+      "end": 122.67,
+      "text": "Suaraku gemetar di baris pertama"
+    },
+    {
+      "t": 122.67,
+      "end": 129.13,
+      "text": "Eyang pelan-pelan ikut bersenandung"
+    },
+    {
+      "t": 130.73,
+      "end": 130.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 130.73,
+      "end": 136.49,
+      "text": "Di bait kedua satu ruangan nyanyi"
+    },
+    {
+      "t": 140.39,
+      "end": 144.61,
+      "text": "Kamu senyum sambil tutup muka"
+    },
+    {
+      "t": 150.07,
+      "end": 150.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.07,
+      "end": 155.69,
+      "text": "Lagu buat Eyang, aku nyanyi pelan"
+    },
+    {
+      "t": 155.69,
+      "end": 159.27,
+      "text": "Eyang tepuk tanganku, bilang lumayan"
+    },
+    {
+      "t": 160.39,
+      "end": 164.89,
+      "text": "Lagu buat Eyang, buat kamu juga"
+    },
+    {
+      "t": 165.71,
+      "end": 190.2,
+      "text": "Minggu depan Om ajak aku mancing"
+    },
+    {
+      "t": 194.84,
+      "end": 194.84,
+      "text": "[Outro - Rhodes and close harmony]"
+    },
+    {
+      "t": 194.84,
+      "end": 217.28,
+      "text": "Ukulele tetangga, belum kubalikin"
+    }
+  ]
+}

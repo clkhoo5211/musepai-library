@@ -1,0 +1,337 @@
+{
+  "id": "b8_id05",
+  "title": "Kabut Sikunir",
+  "title_source": "scripted",
+  "genre": "Indonesian shoegaze",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "hazy, cold, quietly delighted",
+  "persona": "",
+  "subject": "riding a motorbike up to Sikunir hill on the Dieng plateau at four in the morning with a friend to see the sunrise, and seeing nothing but white fog",
+  "caption": "Indonesian shoegaze in the Bandung and Medan scene style. Walls of fuzzed electric guitars with reverse reverb and slow tremolo-bar bends; a steady mid-tempo drum kit with washed, smeared cymbals; a melodic electric bass carrying the main tune under the noise; a soft organ drone holding the chord. Dense and blurred, loud but soft-edged, long reverb tails, the vocals buried in the guitars. Female voice, a breathy calm soprano mixed low, a male voice doubling an octave below. 112 BPM, F-sharp major. Hazy, cold, quietly delighted. No clean pop vocal up front, no trap beat, no autotune, no metal riffing, no acoustic guitar.",
+  "lyrics": "[Intro - fuzzed guitars swelling]\n\n[Verse 1]\nJam empat pagi, kita sewa motor matic\nJaket pinjaman ibu homestay, baunya kapur barus\nTanjakan Dieng, lampu motor cuma sampai dua meter\nKamu peluk aku dari belakang, katanya biar hangat\n\n[Pre-Chorus]\nDi atas bukit orang udah pegang kamera\nSemua nunggu, semua diam\n\n[Chorus]\nPutih, semuanya putih\nMataharinya ada, tapi entah di mana\nPutih, semuanya putih\nYang kelihatan cuma kamu, hidungmu merah\n\n[Verse 2]\nJam enam, orang mulai turun pelan-pelan\nKamu beli kentang goreng sama teh di gelas plastik\nTanganmu gemeter, tehnya tumpah setengah\nKamu bilang, udah, ini juga pemandangan\n\n[Pre-Chorus]\nFoto kita isinya cuma kabut\nDua muka nyengir di pojokan\n\n[Chorus]\nPutih, semuanya putih\nMataharinya ada, tapi entah di mana\nPutih, semuanya putih\nTahun depan kita naik lagi, siapa tahu\n\n[Outro - guitars dissolve into organ drone]\nMotor matic, jaket kapur barus\nKabutnya ikut pulang di rambutmu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 232.0,
+    "genres": "N/A",
+    "keyscale": "F-sharp major",
+    "timesignature": "4",
+    "prompt": "Indonesian shoegaze in the Bandung and Medan scene style. Walls of fuzzed electric guitars with reverse reverb and slow tremolo-bar bends; a steady mid-tempo drum kit with washed, smeared cymbals; a melodic electric bass carrying the main tune under the noise; a soft organ drone holding the chord. Dense and blurred, loud but soft-edged, long reverb tails, the vocals buried in the guitars. Female voice, a breathy calm soprano mixed low, a male voice doubling an octave below. 112 BPM, F-sharp major. Hazy, cold, quietly delighted. No clean pop vocal up front, no trap beat, no autotune, no metal riffing, no acoustic guitar.",
+    "lyrics": "[Intro - fuzzed guitars swelling]\n\n[Verse 1]\nJam empat pagi, kita sewa motor matic\nJaket pinjaman ibu homestay, baunya kapur barus\nTanjakan Dieng, lampu motor cuma sampai dua meter\nKamu peluk aku dari belakang, katanya biar hangat\n\n[Pre-Chorus]\nDi atas bukit orang udah pegang kamera\nSemua nunggu, semua diam\n\n[Chorus]\nPutih, semuanya putih\nMataharinya ada, tapi entah di mana\nPutih, semuanya putih\nYang kelihatan cuma kamu, hidungmu merah\n\n[Verse 2]\nJam enam, orang mulai turun pelan-pelan\nKamu beli kentang goreng sama teh di gelas plastik\nTanganmu gemeter, tehnya tumpah setengah\nKamu bilang, udah, ini juga pemandangan\n\n[Pre-Chorus]\nFoto kita isinya cuma kabut\nDua muka nyengir di pojokan\n\n[Chorus]\nPutih, semuanya putih\nMataharinya ada, tapi entah di mana\nPutih, semuanya putih\nTahun depan kita naik lagi, siapa tahu\n\n[Outro - guitars dissolve into organ drone]\nMotor matic, jaket kapur barus\nKabutnya ikut pulang di rambutmu"
+  },
+  "seed": "2372150410",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 76.61s**\n- 76.61s per song\n- LM phase (1 song): 12.06s\n- DiT phase (1 song): 64.56s",
+  "task_id": "9071d64e-e700-4546-949a-927e6739d5dc",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-13T22:29:54.531585+08:00",
+  "audio": "b8_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.94,
+      "end": 34.94,
+      "text": "[Intro - fuzzed guitars swelling]"
+    },
+    {
+      "t": 34.94,
+      "end": 34.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.94,
+      "end": 41.64,
+      "text": "Jam empat pagi, kita sewa motor matic"
+    },
+    {
+      "t": 42.9,
+      "end": 50.74,
+      "text": "Jaket pinjaman ibu homestay, baunya kapur barus"
+    },
+    {
+      "t": 51.1,
+      "end": 54.3,
+      "text": "Tanjakan Dieng, lampu motor cuma sampai dua meter"
+    },
+    {
+      "t": 54.32,
+      "end": 59.45,
+      "text": "Kamu peluk aku dari belakang, katanya biar hangat"
+    },
+    {
+      "t": 60.05,
+      "end": 60.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.05,
+      "end": 66.79,
+      "text": "Di atas bukit orang udah pegang kamera"
+    },
+    {
+      "t": 68.15,
+      "end": 75.41,
+      "text": "Semua nunggu, semua diam"
+    },
+    {
+      "t": 75.55,
+      "end": 75.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.55,
+      "end": 83.85,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 83.99,
+      "end": 89.11,
+      "text": "Mataharinya ada, tapi entah di mana"
+    },
+    {
+      "t": 92.65,
+      "end": 100.71,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 100.83,
+      "end": 106.41,
+      "text": "Yang kelihatan cuma kamu, hidungmu merah"
+    },
+    {
+      "t": 106.65,
+      "end": 106.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 106.65,
+      "end": 115.23,
+      "text": "Jam enam, orang mulai turun pelan-pelan"
+    },
+    {
+      "t": 118.03,
+      "end": 122.35,
+      "text": "Kamu beli kentang goreng sama teh di gelas plastik"
+    },
+    {
+      "t": 122.35,
+      "end": 126.59,
+      "text": "Tanganmu gemeter, tehnya tumpah setengah"
+    },
+    {
+      "t": 126.59,
+      "end": 131.05,
+      "text": "Kamu bilang, udah, ini juga pemandangan"
+    },
+    {
+      "t": 131.05,
+      "end": 131.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 131.05,
+      "end": 131.79,
+      "text": "Foto kita isinya cuma kabut"
+    },
+    {
+      "t": 132.09,
+      "end": 140.67,
+      "text": "Dua muka nyengir di pojokan"
+    },
+    {
+      "t": 165.47,
+      "end": 165.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 165.47,
+      "end": 170.15,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 170.21,
+      "end": 176.38,
+      "text": "Mataharinya ada, tapi entah di mana"
+    },
+    {
+      "t": 176.5,
+      "end": 180.12,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 180.14,
+      "end": 182.6,
+      "text": "Tahun depan kita naik lagi, siapa tahu"
+    },
+    {
+      "t": 182.62,
+      "end": 182.62,
+      "text": "[Outro - guitars dissolve into organ drone]"
+    },
+    {
+      "t": 182.62,
+      "end": 212.5,
+      "text": "Motor matic, jaket kapur barus"
+    },
+    {
+      "t": 217.58,
+      "end": 224.8,
+      "text": "Kabutnya ikut pulang di rambutmu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.94,
+      "end": 34.94,
+      "text": "[Intro - fuzzed guitars swelling]"
+    },
+    {
+      "t": 34.94,
+      "end": 34.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.94,
+      "end": 42.36,
+      "text": "Jam empat pagi, kita sewa motor matic"
+    },
+    {
+      "t": 42.9,
+      "end": 50.74,
+      "text": "Jaket pinjaman ibu homestay, baunya kapur barus"
+    },
+    {
+      "t": 51.1,
+      "end": 54.3,
+      "text": "Tanjakan Dieng, lampu motor cuma sampai dua meter"
+    },
+    {
+      "t": 54.36,
+      "end": 59.75,
+      "text": "Kamu peluk aku dari belakang, katanya biar hangat"
+    },
+    {
+      "t": 60.05,
+      "end": 60.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.05,
+      "end": 66.79,
+      "text": "Di atas bukit orang udah pegang kamera"
+    },
+    {
+      "t": 68.15,
+      "end": 75.39,
+      "text": "Semua nunggu, semua diam"
+    },
+    {
+      "t": 75.55,
+      "end": 75.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.55,
+      "end": 82.29,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 83.97,
+      "end": 89.13,
+      "text": "Mataharinya ada, tapi entah di mana"
+    },
+    {
+      "t": 92.65,
+      "end": 100.73,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 100.85,
+      "end": 106.73,
+      "text": "Yang kelihatan cuma kamu, hidungmu merah"
+    },
+    {
+      "t": 114.29,
+      "end": 114.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 114.29,
+      "end": 117.99,
+      "text": "Jam enam, orang mulai turun pelan-pelan"
+    },
+    {
+      "t": 118.03,
+      "end": 122.59,
+      "text": "Kamu beli kentang goreng sama teh di gelas plastik"
+    },
+    {
+      "t": 122.61,
+      "end": 126.59,
+      "text": "Tanganmu gemeter, tehnya tumpah setengah"
+    },
+    {
+      "t": 126.61,
+      "end": 131.31,
+      "text": "Kamu bilang, udah, ini juga pemandangan"
+    },
+    {
+      "t": 131.31,
+      "end": 131.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 131.31,
+      "end": 132.09,
+      "text": "Foto kita isinya cuma kabut"
+    },
+    {
+      "t": 132.09,
+      "end": 140.67,
+      "text": "Dua muka nyengir di pojokan"
+    },
+    {
+      "t": 165.47,
+      "end": 165.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 165.47,
+      "end": 170.15,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 170.21,
+      "end": 176.38,
+      "text": "Mataharinya ada, tapi entah di mana"
+    },
+    {
+      "t": 176.5,
+      "end": 180.12,
+      "text": "Putih, semuanya putih"
+    },
+    {
+      "t": 180.14,
+      "end": 182.6,
+      "text": "Tahun depan kita naik lagi, siapa tahu"
+    },
+    {
+      "t": 182.62,
+      "end": 182.62,
+      "text": "[Outro - guitars dissolve into organ drone]"
+    },
+    {
+      "t": 182.62,
+      "end": 212.5,
+      "text": "Motor matic, jaket kapur barus"
+    },
+    {
+      "t": 217.58,
+      "end": 224.8,
+      "text": "Kabutnya ikut pulang di rambutmu"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,327 @@
+{
+  "id": "b8_ja05",
+  "title": "曲がったキュウリ",
+  "title_source": "scripted",
+  "genre": "Japanese bluegrass",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "cheerful, proud, mock-boastful",
+  "persona": "",
+  "subject": "an old man whose community-garden cucumbers all grew curled, handing them out door to door in his apartment block anyway",
+  "caption": "Japanese bluegrass in the Kansai festival-band tradition. A five-string banjo playing fast Scruggs-style rolls, a flatpicked steel-string acoustic guitar with G-runs at the ends of lines, short fiddle breaks between verses, a mandolin chopping on the backbeat, and an upright bass walking a steady two-beat. Acoustic and live, a one-room string band with no drums, each instrument stepping up for a short break. Male lead, a high nasal tenor with a wry spoken aside, three-part close bluegrass harmony on the chorus. 128 BPM, G major. Cheerful, proud and mock-boastful. No drum kit, no electric guitar, no pedal steel, no country-pop gloss, no autotune.",
+  "lyrics": "[Intro - banjo roll, fiddle kick-off]\n\n[Verse 1]\n団地の裏の 市民農園 区画は三番 わしの畑\n春に植えたキュウリの苗が 七月に全部 くるっと曲がった\n肥料が悪いか 水が多いか 隣の畑は まっすぐなのに\nまあ味だけは 変わらんやろ\n\n[Pre-Chorus]\nビニール袋に 十本ずつ\nエレベーターで 上から配る\n\n[Chorus]\n曲がったキュウリ 持っていきな\nまっすぐなのは スーパーにある\n味噌つけて かじってみな\nわしのは ちゃんと 曲がっとる\n\n[Verse 2]\n五階の奥さん 笑って受け取る 四階の坊主は 指さして笑う\n二階のじいさん 割れたトマトを 交換やって 差し出してくる\nお互い様や 形やないで 夕方 浅漬けが 返ってきた\n\n[Pre-Chorus]\nまだ十二本 冷蔵庫にある\n明日は管理人室 行こうかね\n\n[Chorus]\n曲がったキュウリ 持っていきな\n冷やして塩振りゃ 文句ないやろ\n来年もまた 同じ畑\nたぶん今年より 曲がっとる\n\n[Outro - fiddle and banjo tag]\nおい ブーメランじゃないぞ\n投げても戻らんぞ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese bluegrass in the Kansai festival-band tradition. A five-string banjo playing fast Scruggs-style rolls, a flatpicked steel-string acoustic guitar with G-runs at the ends of lines, short fiddle breaks between verses, a mandolin chopping on the backbeat, and an upright bass walking a steady two-beat. Acoustic and live, a one-room string band with no drums, each instrument stepping up for a short break. Male lead, a high nasal tenor with a wry spoken aside, three-part close bluegrass harmony on the chorus. 128 BPM, G major. Cheerful, proud and mock-boastful. No drum kit, no electric guitar, no pedal steel, no country-pop gloss, no autotune.",
+    "lyrics": "[Intro - banjo roll, fiddle kick-off]\n\n[Verse 1]\n団地の裏の 市民農園 区画は三番 わしの畑\n春に植えたキュウリの苗が 七月に全部 くるっと曲がった\n肥料が悪いか 水が多いか 隣の畑は まっすぐなのに\nまあ味だけは 変わらんやろ\n\n[Pre-Chorus]\nビニール袋に 十本ずつ\nエレベーターで 上から配る\n\n[Chorus]\n曲がったキュウリ 持っていきな\nまっすぐなのは スーパーにある\n味噌つけて かじってみな\nわしのは ちゃんと 曲がっとる\n\n[Verse 2]\n五階の奥さん 笑って受け取る 四階の坊主は 指さして笑う\n二階のじいさん 割れたトマトを 交換やって 差し出してくる\nお互い様や 形やないで 夕方 浅漬けが 返ってきた\n\n[Pre-Chorus]\nまだ十二本 冷蔵庫にある\n明日は管理人室 行こうかね\n\n[Chorus]\n曲がったキュウリ 持っていきな\n冷やして塩振りゃ 文句ないやろ\n来年もまた 同じ畑\nたぶん今年より 曲がっとる\n\n[Outro - fiddle and banjo tag]\nおい ブーメランじゃないぞ\n投げても戻らんぞ"
+  },
+  "seed": "1283814758",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.93s**\n- 67.93s per song\n- LM phase (1 song): 13.71s\n- DiT phase (1 song): 54.22s",
+  "task_id": "a6337da5-86de-43b6-bc90-b25abeeab208",
+  "elapsed_s": 100.6,
+  "generated_at": "2026-10-13T23:05:40.160339+08:00",
+  "audio": "b8_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.9,
+      "end": 35.9,
+      "text": "[Intro - banjo roll, fiddle kick-off]"
+    },
+    {
+      "t": 35.9,
+      "end": 35.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.9,
+      "end": 41.44,
+      "text": "団地の裏の 市民農園 区画は三番 わしの畑"
+    },
+    {
+      "t": 41.52,
+      "end": 45.34,
+      "text": "春に植えたキュウリの苗が 七月に全部 くるっと曲がった"
+    },
+    {
+      "t": 45.34,
+      "end": 49.97,
+      "text": "肥料が悪いか 水が多いか 隣の畑は まっすぐなのに"
+    },
+    {
+      "t": 50.99,
+      "end": 55.83,
+      "text": "まあ味だけは 変わらんやろ"
+    },
+    {
+      "t": 59.29,
+      "end": 59.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.29,
+      "end": 62.71,
+      "text": "ビニール袋に 十本ずつ"
+    },
+    {
+      "t": 63.13,
+      "end": 66.47,
+      "text": "エレベーターで 上から配る"
+    },
+    {
+      "t": 66.85,
+      "end": 66.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.85,
+      "end": 71.71,
+      "text": "曲がったキュウリ 持っていきな"
+    },
+    {
+      "t": 78.15,
+      "end": 81.29,
+      "text": "まっすぐなのは スーパーにある"
+    },
+    {
+      "t": 81.45,
+      "end": 84.85,
+      "text": "味噌つけて かじってみな"
+    },
+    {
+      "t": 85.33,
+      "end": 89.73,
+      "text": "わしのは ちゃんと 曲がっとる"
+    },
+    {
+      "t": 90.15,
+      "end": 90.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.15,
+      "end": 108.97,
+      "text": "五階の奥さん 笑って受け取る 四階の坊主は 指さして笑う"
+    },
+    {
+      "t": 109.21,
+      "end": 121.57,
+      "text": "二階のじいさん 割れたトマトを 交換やって 差し出してくる"
+    },
+    {
+      "t": 121.63,
+      "end": 123.47,
+      "text": "お互い様や 形やないで 夕方 浅漬けが 返ってきた"
+    },
+    {
+      "t": 123.47,
+      "end": 123.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.47,
+      "end": 124.89,
+      "text": "まだ十二本 冷蔵庫にある"
+    },
+    {
+      "t": 125.03,
+      "end": 128.65,
+      "text": "明日は管理人室 行こうかね"
+    },
+    {
+      "t": 128.81,
+      "end": 128.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.81,
+      "end": 131.45,
+      "text": "曲がったキュウリ 持っていきな"
+    },
+    {
+      "t": 132.07,
+      "end": 135.21,
+      "text": "冷やして塩振りゃ 文句ないやろ"
+    },
+    {
+      "t": 136.79,
+      "end": 138.79,
+      "text": "来年もまた 同じ畑"
+    },
+    {
+      "t": 139.6,
+      "end": 142.76,
+      "text": "たぶん今年より 曲がっとる"
+    },
+    {
+      "t": 147.16,
+      "end": 147.16,
+      "text": "[Outro - fiddle and banjo tag]"
+    },
+    {
+      "t": 147.16,
+      "end": 149.76,
+      "text": "おい ブーメランじゃないぞ"
+    },
+    {
+      "t": 154.32,
+      "end": 157.24,
+      "text": "投げても戻らんぞ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 35.88,
+      "end": 35.88,
+      "text": "[Intro - banjo roll, fiddle kick-off]"
+    },
+    {
+      "t": 35.88,
+      "end": 35.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.88,
+      "end": 40.92,
+      "text": "団地の裏の 市民農園 区画は三番 わしの畑"
+    },
+    {
+      "t": 40.94,
+      "end": 45.1,
+      "text": "春に植えたキュウリの苗が 七月に全部 くるっと曲がった"
+    },
+    {
+      "t": 45.12,
+      "end": 49.97,
+      "text": "肥料が悪いか 水が多いか 隣の畑は まっすぐなのに"
+    },
+    {
+      "t": 50.99,
+      "end": 55.83,
+      "text": "まあ味だけは 変わらんやろ"
+    },
+    {
+      "t": 59.29,
+      "end": 59.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.29,
+      "end": 62.71,
+      "text": "ビニール袋に 十本ずつ"
+    },
+    {
+      "t": 63.13,
+      "end": 65.43,
+      "text": "エレベーターで 上から配る"
+    },
+    {
+      "t": 65.43,
+      "end": 65.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.43,
+      "end": 66.73,
+      "text": "曲がったキュウリ 持っていきな"
+    },
+    {
+      "t": 66.85,
+      "end": 67.71,
+      "text": "まっすぐなのは スーパーにある"
+    },
+    {
+      "t": 67.71,
+      "end": 69.81,
+      "text": "味噌つけて かじってみな"
+    },
+    {
+      "t": 70.33,
+      "end": 74.73,
+      "text": "わしのは ちゃんと 曲がっとる"
+    },
+    {
+      "t": 78.15,
+      "end": 78.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.15,
+      "end": 83.81,
+      "text": "五階の奥さん 笑って受け取る 四階の坊主は 指さして笑う"
+    },
+    {
+      "t": 83.81,
+      "end": 89.73,
+      "text": "二階のじいさん 割れたトマトを 交換やって 差し出してくる"
+    },
+    {
+      "t": 89.73,
+      "end": 116.93,
+      "text": "お互い様や 形やないで 夕方 浅漬けが 返ってきた"
+    },
+    {
+      "t": 119.65,
+      "end": 119.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 119.65,
+      "end": 122.59,
+      "text": "まだ十二本 冷蔵庫にある"
+    },
+    {
+      "t": 125.03,
+      "end": 128.65,
+      "text": "明日は管理人室 行こうかね"
+    },
+    {
+      "t": 128.81,
+      "end": 128.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.81,
+      "end": 131.45,
+      "text": "曲がったキュウリ 持っていきな"
+    },
+    {
+      "t": 132.07,
+      "end": 135.21,
+      "text": "冷やして塩振りゃ 文句ないやろ"
+    },
+    {
+      "t": 136.79,
+      "end": 138.77,
+      "text": "来年もまた 同じ畑"
+    },
+    {
+      "t": 139.6,
+      "end": 142.74,
+      "text": "たぶん今年より 曲がっとる"
+    },
+    {
+      "t": 148.1,
+      "end": 148.1,
+      "text": "[Outro - fiddle and banjo tag]"
+    },
+    {
+      "t": 148.1,
+      "end": 149.76,
+      "text": "おい ブーメランじゃないぞ"
+    },
+    {
+      "t": 154.32,
+      "end": 157.24,
+      "text": "投げても戻らんぞ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

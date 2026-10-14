@@ -1,0 +1,489 @@
+{
+  "id": "b8_ja03",
+  "title": "借りたままのベース",
+  "title_source": "scripted",
+  "genre": "Japanese midwest emo",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "wistful, awkward, quietly fond",
+  "persona": "",
+  "subject": "taking the train across town to return a bass guitar to a bandmate who quit the band two years ago",
+  "caption": "Japanese midwest emo with math-rock edges, in the vein of the 2025 Tokyo emo underground. A twinkly clean Telecaster in an open tuning playing tapped arpeggios, a second guitar with a light chorus pedal strumming open chords, a melodic picked bass moving against the guitars, busy live drums with ride-bell accents and odd fills, and a plain trumpet line entering in the last chorus. Roomy live-band sound, guitars panned wide, unpolished, drums natural with room mics. Male tenor, earnest and slightly strained, half-speaking the verses and pushing into the chorus, a shouted gang vocal at the end. 132 BPM, D major. Wistful, awkward and quietly fond. No pop-punk power chords, no screamo, no autotune, no synth pads, no polished radio-rock sheen.",
+  "lyrics": "[Intro - tapped guitar arpeggio, drums enter on bar four]\n\n[Verse 1]\nソフトケースの肩紐が 二年ぶりに食い込む\n中央線 ドアの横 ネックが吊り革に当たる\nお前が抜けたあの夏から 押し入れの奥に立ってた\nステッカーは剥がさないでおいた\n\n[Pre-Chorus]\n三鷹で降りて 坂を上がる\n既読のまま 住所だけ来た\n\n[Chorus]\n返しに来ただけだよ\n弦は張り替えといたから\nチューニングは知らない\nもう俺のじゃないから\n\n[Verse 2]\nドアを開けたお前は 髭なんか生やしてて\n奥で赤ん坊が泣いてる 言ってくれよ そういうの\nケースを渡して 玄関で 十分も立ち話\nあのライブの客 七人だったよな\n\n[Pre-Chorus]\n上がってけよって言われて\n靴を脱ぐのに 手間取った\n\n[Chorus]\n返しに来ただけだよ\n弦は張り替えといたから\nたまには弾いてやれよ\nその子が寝たあとで\n\n[Outro - trumpet and gang vocals]\n帰りの電車 肩が軽すぎる\n来週 スタジオ 空いてるけど",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Japanese midwest emo with math-rock edges, in the vein of the 2025 Tokyo emo underground. A twinkly clean Telecaster in an open tuning playing tapped arpeggios, a second guitar with a light chorus pedal strumming open chords, a melodic picked bass moving against the guitars, busy live drums with ride-bell accents and odd fills, and a plain trumpet line entering in the last chorus. Roomy live-band sound, guitars panned wide, unpolished, drums natural with room mics. Male tenor, earnest and slightly strained, half-speaking the verses and pushing into the chorus, a shouted gang vocal at the end. 132 BPM, D major. Wistful, awkward and quietly fond. No pop-punk power chords, no screamo, no autotune, no synth pads, no polished radio-rock sheen.",
+    "lyrics": "[Intro - tapped guitar arpeggio, drums enter on bar four]\n\n[Verse 1]\nソフトケースの肩紐が 二年ぶりに食い込む\n中央線 ドアの横 ネックが吊り革に当たる\nお前が抜けたあの夏から 押し入れの奥に立ってた\nステッカーは剥がさないでおいた\n\n[Pre-Chorus]\n三鷹で降りて 坂を上がる\n既読のまま 住所だけ来た\n\n[Chorus]\n返しに来ただけだよ\n弦は張り替えといたから\nチューニングは知らない\nもう俺のじゃないから\n\n[Verse 2]\nドアを開けたお前は 髭なんか生やしてて\n奥で赤ん坊が泣いてる 言ってくれよ そういうの\nケースを渡して 玄関で 十分も立ち話\nあのライブの客 七人だったよな\n\n[Pre-Chorus]\n上がってけよって言われて\n靴を脱ぐのに 手間取った\n\n[Chorus]\n返しに来ただけだよ\n弦は張り替えといたから\nたまには弾いてやれよ\nその子が寝たあとで\n\n[Outro - trumpet and gang vocals]\n帰りの電車 肩が軽すぎる\n来週 スタジオ 空いてるけど"
+  },
+  "seed": "2508762849",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.66s**\n- 74.66s per song\n- LM phase (1 song): 13.20s\n- DiT phase (1 song): 61.46s",
+  "task_id": "ea83ca1e-f054-4ad2-8754-72c85bcd2fb0",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-13T23:02:29.346476+08:00",
+  "audio": "b8_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.6,
+      "end": 26.6,
+      "text": "[Intro - tapped guitar arpeggio, drums enter on bar four]"
+    },
+    {
+      "t": 26.6,
+      "end": 26.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.6,
+      "end": 33.16,
+      "text": "ソフトケースの肩紐が 二年ぶりに食い込む"
+    },
+    {
+      "t": 33.7,
+      "end": 38.54,
+      "text": "中央線 ドアの横 ネックが吊り革に当たる"
+    },
+    {
+      "t": 38.74,
+      "end": 43.58,
+      "text": "お前が抜けたあの夏から 押し入れの奥に立ってた"
+    },
+    {
+      "t": 43.58,
+      "end": 46.64,
+      "text": "ステッカーは剥がさないでおいた"
+    },
+    {
+      "t": 46.64,
+      "end": 46.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.64,
+      "end": 48.26,
+      "text": "三鷹で降りて 坂を上がる"
+    },
+    {
+      "t": 48.26,
+      "end": 52.72,
+      "text": "既読のまま 住所だけ来た"
+    },
+    {
+      "t": 56.45,
+      "end": 56.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.45,
+      "end": 59.63,
+      "text": "返しに来ただけだよ"
+    },
+    {
+      "t": 59.75,
+      "end": 63.41,
+      "text": "弦は張り替えといたから"
+    },
+    {
+      "t": 63.43,
+      "end": 66.49,
+      "text": "チューニングは知らない"
+    },
+    {
+      "t": 66.91,
+      "end": 71.15,
+      "text": "もう俺のじゃないから"
+    },
+    {
+      "t": 73.97,
+      "end": 73.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.97,
+      "end": 80.25,
+      "text": "ドアを開けたお前は 髭なんか生やしてて"
+    },
+    {
+      "t": 81.29,
+      "end": 88.19,
+      "text": "奥で赤ん坊が泣いてる 言ってくれよ そういうの"
+    },
+    {
+      "t": 88.53,
+      "end": 94.23,
+      "text": "ケースを渡して 玄関で 十分も立ち話"
+    },
+    {
+      "t": 94.43,
+      "end": 100.23,
+      "text": "あのライブの客 七人だったよな"
+    },
+    {
+      "t": 103.57,
+      "end": 103.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.57,
+      "end": 106.97,
+      "text": "上がってけよって言われて"
+    },
+    {
+      "t": 107.91,
+      "end": 115.07,
+      "text": "靴を脱ぐのに 手間取った"
+    },
+    {
+      "t": 118.77,
+      "end": 118.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.77,
+      "end": 122.15,
+      "text": "返しに来ただけだよ"
+    },
+    {
+      "t": 122.43,
+      "end": 125.85,
+      "text": "弦は張り替えといたから"
+    },
+    {
+      "t": 126.17,
+      "end": 129.57,
+      "text": "たまには弾いてやれよ"
+    },
+    {
+      "t": 130.09,
+      "end": 133.23,
+      "text": "その子が寝たあとで"
+    },
+    {
+      "t": 161.94,
+      "end": 161.94,
+      "text": "[Outro - trumpet and gang vocals]"
+    },
+    {
+      "t": 161.94,
+      "end": 169.24,
+      "text": "帰りの電車 肩が軽すぎる"
+    },
+    {
+      "t": 172.8,
+      "end": 176.64,
+      "text": "来週 スタジオ 空いてるけど"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.6,
+      "end": 26.6,
+      "text": "[Intro - tapped guitar arpeggio, drums enter on bar four]"
+    },
+    {
+      "t": 26.6,
+      "end": 26.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.6,
+      "end": 33.16,
+      "text": "ソフトケースの肩紐が 二年ぶりに食い込む"
+    },
+    {
+      "t": 33.7,
+      "end": 38.54,
+      "text": "中央線 ドアの横 ネックが吊り革に当たる"
+    },
+    {
+      "t": 38.74,
+      "end": 43.58,
+      "text": "お前が抜けたあの夏から 押し入れの奥に立ってた"
+    },
+    {
+      "t": 43.58,
+      "end": 46.64,
+      "text": "ステッカーは剥がさないでおいた"
+    },
+    {
+      "t": 46.64,
+      "end": 46.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.64,
+      "end": 48.26,
+      "text": "三鷹で降りて 坂を上がる"
+    },
+    {
+      "t": 48.26,
+      "end": 52.72,
+      "text": "既読のまま 住所だけ来た"
+    },
+    {
+      "t": 56.45,
+      "end": 56.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.45,
+      "end": 59.63,
+      "text": "返しに来ただけだよ"
+    },
+    {
+      "t": 59.75,
+      "end": 63.41,
+      "text": "弦は張り替えといたから"
+    },
+    {
+      "t": 63.43,
+      "end": 66.49,
+      "text": "チューニングは知らない"
+    },
+    {
+      "t": 66.91,
+      "end": 71.15,
+      "text": "もう俺のじゃないから"
+    },
+    {
+      "t": 73.97,
+      "end": 73.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.97,
+      "end": 80.25,
+      "text": "ドアを開けたお前は 髭なんか生やしてて"
+    },
+    {
+      "t": 81.29,
+      "end": 88.19,
+      "text": "奥で赤ん坊が泣いてる 言ってくれよ そういうの"
+    },
+    {
+      "t": 88.53,
+      "end": 94.23,
+      "text": "ケースを渡して 玄関で 十分も立ち話"
+    },
+    {
+      "t": 94.43,
+      "end": 100.23,
+      "text": "あのライブの客 七人だったよな"
+    },
+    {
+      "t": 103.57,
+      "end": 103.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.57,
+      "end": 106.97,
+      "text": "上がってけよって言われて"
+    },
+    {
+      "t": 107.91,
+      "end": 115.07,
+      "text": "靴を脱ぐのに 手間取った"
+    },
+    {
+      "t": 118.77,
+      "end": 118.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.77,
+      "end": 122.15,
+      "text": "返しに来ただけだよ"
+    },
+    {
+      "t": 122.43,
+      "end": 125.85,
+      "text": "弦は張り替えといたから"
+    },
+    {
+      "t": 126.17,
+      "end": 129.57,
+      "text": "たまには弾いてやれよ"
+    },
+    {
+      "t": 130.09,
+      "end": 133.23,
+      "text": "その子が寝たあとで"
+    },
+    {
+      "t": 161.94,
+      "end": 161.94,
+      "text": "[Outro - trumpet and gang vocals]"
+    },
+    {
+      "t": 161.94,
+      "end": 169.24,
+      "text": "帰りの電車 肩が軽すぎる"
+    },
+    {
+      "t": 172.8,
+      "end": 176.64,
+      "text": "来週 スタジオ 空いてるけど"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 26.62,
+      "end": 26.62,
+      "text": "[Intro - tapped guitar arpeggio, drums enter on bar four]"
+    },
+    {
+      "t": 26.62,
+      "end": 26.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.62,
+      "end": 33.16,
+      "text": "ソフトケースの肩紐が 二年ぶりに食い込む"
+    },
+    {
+      "t": 33.68,
+      "end": 38.52,
+      "text": "中央線 ドアの横 ネックが吊り革に当たる"
+    },
+    {
+      "t": 41.08,
+      "end": 46.46,
+      "text": "お前が抜けたあの夏から 押し入れの奥に立ってた"
+    },
+    {
+      "t": 46.46,
+      "end": 47.42,
+      "text": "ステッカーは剥がさないでおいた"
+    },
+    {
+      "t": 47.52,
+      "end": 47.52,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.52,
+      "end": 48.56,
+      "text": "三鷹で降りて 坂を上がる"
+    },
+    {
+      "t": 48.66,
+      "end": 52.7,
+      "text": "既読のまま 住所だけ来た"
+    },
+    {
+      "t": 56.47,
+      "end": 56.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.47,
+      "end": 59.63,
+      "text": "返しに来ただけだよ"
+    },
+    {
+      "t": 59.75,
+      "end": 63.39,
+      "text": "弦は張り替えといたから"
+    },
+    {
+      "t": 63.43,
+      "end": 66.49,
+      "text": "チューニングは知らない"
+    },
+    {
+      "t": 66.91,
+      "end": 71.13,
+      "text": "もう俺のじゃないから"
+    },
+    {
+      "t": 73.99,
+      "end": 73.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.99,
+      "end": 80.23,
+      "text": "ドアを開けたお前は 髭なんか生やしてて"
+    },
+    {
+      "t": 80.75,
+      "end": 87.51,
+      "text": "奥で赤ん坊が泣いてる 言ってくれよ そういうの"
+    },
+    {
+      "t": 88.53,
+      "end": 94.45,
+      "text": "ケースを渡して 玄関で 十分も立ち話"
+    },
+    {
+      "t": 96.29,
+      "end": 100.23,
+      "text": "あのライブの客 七人だったよな"
+    },
+    {
+      "t": 103.57,
+      "end": 103.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.57,
+      "end": 106.95,
+      "text": "上がってけよって言われて"
+    },
+    {
+      "t": 107.67,
+      "end": 115.05,
+      "text": "靴を脱ぐのに 手間取った"
+    },
+    {
+      "t": 118.79,
+      "end": 118.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.79,
+      "end": 122.15,
+      "text": "返しに来ただけだよ"
+    },
+    {
+      "t": 122.49,
+      "end": 125.83,
+      "text": "弦は張り替えといたから"
+    },
+    {
+      "t": 126.17,
+      "end": 129.53,
+      "text": "たまには弾いてやれよ"
+    },
+    {
+      "t": 130.07,
+      "end": 133.21,
+      "text": "その子が寝たあとで"
+    },
+    {
+      "t": 133.93,
+      "end": 133.93,
+      "text": "[Outro - trumpet and gang vocals]"
+    },
+    {
+      "t": 133.93,
+      "end": 169.24,
+      "text": "帰りの電車 肩が軽すぎる"
+    },
+    {
+      "t": 172.8,
+      "end": 176.62,
+      "text": "来週 スタジオ 空いてるけど"
+    }
+  ]
+}

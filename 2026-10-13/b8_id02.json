@@ -1,0 +1,337 @@
+{
+  "id": "b8_id02",
+  "title": "Gitar Dijual",
+  "title_source": "scripted",
+  "genre": "Indonesian folk-pop band",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "quiet, rueful, a little proud",
+  "persona": "",
+  "subject": "a student selling his guitar to pay the boarding-house rent, and the buyer, a high-school kid, asks him to play one last song before taking it",
+  "caption": "Indonesian folk-pop band in the reflective 2025 streaming style. A fingerpicked nylon-string guitar with soft thumb bass notes; a strummed ukulele on the off-beats; an acoustic bass walking gently under the chorus; a brushed cajon keeping a light shuffle; a breathy harmonica answering the vocal between lines. Warm and dry, bedroom-close, wood and strings forward. Male voice, a soft close baritone singing like he is telling a friend, a female harmony joining on the last chorus. 84 BPM, D major. Quiet, rueful, a little proud. No electric guitar solo, no drum kit, no autotune, no orchestral strings, no EDM build.",
+  "lyrics": "[Intro - fingerpicked nylon guitar]\n\n[Verse 1]\nKupasang di marketplace, tujuh ratus nego\nFoto di kasur kos, senarnya baru kuganti\nYang dateng anak SMA, naik motor sama bapaknya\nUangnya dihitung pelan, lecek semua, ribuan\n\n[Pre-Chorus]\nDia bilang, Mas, sekali lagi aja\nMainin lagu yang Mas paling bisa\n\n[Chorus]\nJadi kumainkan pelan di teras kos\nLagu yang dulu kupakai nembak Rina, gagal\nBapaknya ngangguk, anaknya diem\nGitarku pamit, bayar sewa bulan ini\n\n[Verse 2]\nAda stiker band di belakang badannya\nBekas tutup botol nempel di dekat lubang\nKubilang jangan dicopot, itu dari Jogja\nDia ketawa, iya Mas, nanti kutambahin\n\n[Pre-Chorus]\nIbu kos lewat bawa kunci\nKali ini nggak nanya kapan bayar lagi\n\n[Chorus]\nJadi kumainkan pelan di teras kos\nLagu yang dulu kupakai nembak Rina, gagal\nMotornya pergi, gitarnya di punggung\nKayaknya di tangan dia lagunya bakal jadi\n\n[Outro - ukulele alone]\nBulan depan aku nyanyi pakai meja\nKetukannya nggak fals, kok",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Indonesian folk-pop band in the reflective 2025 streaming style. A fingerpicked nylon-string guitar with soft thumb bass notes; a strummed ukulele on the off-beats; an acoustic bass walking gently under the chorus; a brushed cajon keeping a light shuffle; a breathy harmonica answering the vocal between lines. Warm and dry, bedroom-close, wood and strings forward. Male voice, a soft close baritone singing like he is telling a friend, a female harmony joining on the last chorus. 84 BPM, D major. Quiet, rueful, a little proud. No electric guitar solo, no drum kit, no autotune, no orchestral strings, no EDM build.",
+    "lyrics": "[Intro - fingerpicked nylon guitar]\n\n[Verse 1]\nKupasang di marketplace, tujuh ratus nego\nFoto di kasur kos, senarnya baru kuganti\nYang dateng anak SMA, naik motor sama bapaknya\nUangnya dihitung pelan, lecek semua, ribuan\n\n[Pre-Chorus]\nDia bilang, Mas, sekali lagi aja\nMainin lagu yang Mas paling bisa\n\n[Chorus]\nJadi kumainkan pelan di teras kos\nLagu yang dulu kupakai nembak Rina, gagal\nBapaknya ngangguk, anaknya diem\nGitarku pamit, bayar sewa bulan ini\n\n[Verse 2]\nAda stiker band di belakang badannya\nBekas tutup botol nempel di dekat lubang\nKubilang jangan dicopot, itu dari Jogja\nDia ketawa, iya Mas, nanti kutambahin\n\n[Pre-Chorus]\nIbu kos lewat bawa kunci\nKali ini nggak nanya kapan bayar lagi\n\n[Chorus]\nJadi kumainkan pelan di teras kos\nLagu yang dulu kupakai nembak Rina, gagal\nMotornya pergi, gitarnya di punggung\nKayaknya di tangan dia lagunya bakal jadi\n\n[Outro - ukulele alone]\nBulan depan aku nyanyi pakai meja\nKetukannya nggak fals, kok"
+  },
+  "seed": "704947853",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.78s**\n- 70.78s per song\n- LM phase (1 song): 11.41s\n- DiT phase (1 song): 59.37s",
+  "task_id": "0140b37e-5606-4177-ab35-60109ccb3d44",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-13T22:25:24.019126+08:00",
+  "audio": "b8_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.74,
+      "end": 33.74,
+      "text": "[Intro - fingerpicked nylon guitar]"
+    },
+    {
+      "t": 33.74,
+      "end": 33.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.74,
+      "end": 38.86,
+      "text": "Kupasang di marketplace, tujuh ratus nego"
+    },
+    {
+      "t": 38.96,
+      "end": 41.18,
+      "text": "Foto di kasur kos, senarnya baru kuganti"
+    },
+    {
+      "t": 41.2,
+      "end": 52.66,
+      "text": "Yang dateng anak SMA, naik motor sama bapaknya"
+    },
+    {
+      "t": 52.74,
+      "end": 57.31,
+      "text": "Uangnya dihitung pelan, lecek semua, ribuan"
+    },
+    {
+      "t": 57.35,
+      "end": 57.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.35,
+      "end": 61.09,
+      "text": "Dia bilang, Mas, sekali lagi aja"
+    },
+    {
+      "t": 65.21,
+      "end": 70.71,
+      "text": "Mainin lagu yang Mas paling bisa"
+    },
+    {
+      "t": 70.93,
+      "end": 70.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.93,
+      "end": 77.51,
+      "text": "Jadi kumainkan pelan di teras kos"
+    },
+    {
+      "t": 77.53,
+      "end": 82.31,
+      "text": "Lagu yang dulu kupakai nembak Rina, gagal"
+    },
+    {
+      "t": 82.31,
+      "end": 89.87,
+      "text": "Bapaknya ngangguk, anaknya diem"
+    },
+    {
+      "t": 89.87,
+      "end": 91.49,
+      "text": "Gitarku pamit, bayar sewa bulan ini"
+    },
+    {
+      "t": 91.49,
+      "end": 91.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.49,
+      "end": 93.05,
+      "text": "Ada stiker band di belakang badannya"
+    },
+    {
+      "t": 95.59,
+      "end": 99.07,
+      "text": "Bekas tutup botol nempel di dekat lubang"
+    },
+    {
+      "t": 99.07,
+      "end": 101.97,
+      "text": "Kubilang jangan dicopot, itu dari Jogja"
+    },
+    {
+      "t": 101.97,
+      "end": 103.67,
+      "text": "Dia ketawa, iya Mas, nanti kutambahin"
+    },
+    {
+      "t": 103.67,
+      "end": 103.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.67,
+      "end": 104.51,
+      "text": "Ibu kos lewat bawa kunci"
+    },
+    {
+      "t": 105.23,
+      "end": 111.65,
+      "text": "Kali ini nggak nanya kapan bayar lagi"
+    },
+    {
+      "t": 113.51,
+      "end": 113.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.51,
+      "end": 123.17,
+      "text": "Jadi kumainkan pelan di teras kos"
+    },
+    {
+      "t": 123.17,
+      "end": 128.89,
+      "text": "Lagu yang dulu kupakai nembak Rina, gagal"
+    },
+    {
+      "t": 128.95,
+      "end": 145.81,
+      "text": "Motornya pergi, gitarnya di punggung"
+    },
+    {
+      "t": 145.81,
+      "end": 150.21,
+      "text": "Kayaknya di tangan dia lagunya bakal jadi"
+    },
+    {
+      "t": 157.09,
+      "end": 157.09,
+      "text": "[Outro - ukulele alone]"
+    },
+    {
+      "t": 157.09,
+      "end": 163.42,
+      "text": "Bulan depan aku nyanyi pakai meja"
+    },
+    {
+      "t": 165.96,
+      "end": 193.1,
+      "text": "Ketukannya nggak fals, kok"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.74,
+      "end": 33.74,
+      "text": "[Intro - fingerpicked nylon guitar]"
+    },
+    {
+      "t": 33.74,
+      "end": 33.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.74,
+      "end": 38.86,
+      "text": "Kupasang di marketplace, tujuh ratus nego"
+    },
+    {
+      "t": 38.96,
+      "end": 49.6,
+      "text": "Foto di kasur kos, senarnya baru kuganti"
+    },
+    {
+      "t": 49.6,
+      "end": 52.66,
+      "text": "Yang dateng anak SMA, naik motor sama bapaknya"
+    },
+    {
+      "t": 53.06,
+      "end": 57.33,
+      "text": "Uangnya dihitung pelan, lecek semua, ribuan"
+    },
+    {
+      "t": 57.33,
+      "end": 57.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.33,
+      "end": 61.09,
+      "text": "Dia bilang, Mas, sekali lagi aja"
+    },
+    {
+      "t": 65.21,
+      "end": 70.15,
+      "text": "Mainin lagu yang Mas paling bisa"
+    },
+    {
+      "t": 70.23,
+      "end": 70.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.23,
+      "end": 71.81,
+      "text": "Jadi kumainkan pelan di teras kos"
+    },
+    {
+      "t": 71.95,
+      "end": 76.45,
+      "text": "Lagu yang dulu kupakai nembak Rina, gagal"
+    },
+    {
+      "t": 76.47,
+      "end": 83.85,
+      "text": "Bapaknya ngangguk, anaknya diem"
+    },
+    {
+      "t": 83.89,
+      "end": 90.21,
+      "text": "Gitarku pamit, bayar sewa bulan ini"
+    },
+    {
+      "t": 90.21,
+      "end": 90.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.21,
+      "end": 93.05,
+      "text": "Ada stiker band di belakang badannya"
+    },
+    {
+      "t": 95.59,
+      "end": 99.49,
+      "text": "Bekas tutup botol nempel di dekat lubang"
+    },
+    {
+      "t": 100.97,
+      "end": 102.55,
+      "text": "Kubilang jangan dicopot, itu dari Jogja"
+    },
+    {
+      "t": 102.55,
+      "end": 103.65,
+      "text": "Dia ketawa, iya Mas, nanti kutambahin"
+    },
+    {
+      "t": 103.65,
+      "end": 103.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.65,
+      "end": 104.53,
+      "text": "Ibu kos lewat bawa kunci"
+    },
+    {
+      "t": 105.23,
+      "end": 111.65,
+      "text": "Kali ini nggak nanya kapan bayar lagi"
+    },
+    {
+      "t": 113.13,
+      "end": 113.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.13,
+      "end": 123.01,
+      "text": "Jadi kumainkan pelan di teras kos"
+    },
+    {
+      "t": 123.17,
+      "end": 128.91,
+      "text": "Lagu yang dulu kupakai nembak Rina, gagal"
+    },
+    {
+      "t": 128.99,
+      "end": 145.81,
+      "text": "Motornya pergi, gitarnya di punggung"
+    },
+    {
+      "t": 145.81,
+      "end": 150.21,
+      "text": "Kayaknya di tangan dia lagunya bakal jadi"
+    },
+    {
+      "t": 157.09,
+      "end": 157.09,
+      "text": "[Outro - ukulele alone]"
+    },
+    {
+      "t": 157.09,
+      "end": 163.44,
+      "text": "Bulan depan aku nyanyi pakai meja"
+    },
+    {
+      "t": 165.96,
+      "end": 178.82,
+      "text": "Ketukannya nggak fals, kok"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

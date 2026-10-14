@@ -1,0 +1,489 @@
+{
+  "id": "b8_id03",
+  "title": "Transit Manggarai",
+  "title_source": "scripted",
+  "genre": "Indonesian art rock with tribal percussion",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "breathless, tense, stubbornly funny",
+  "persona": "",
+  "subject": "changing trains at Manggarai station at seven in the morning, pushed up the stairs by the crowd while holding a box of birthday cake for a colleague",
+  "caption": "Indonesian art rock with tribal percussion, in the Barasuara arena style. Two interlocking electric guitars, one clean and arpeggiated, one overdriven and chugging; a stack of floor toms and tribal toms pounding in unison patterns; a driving eighth-note electric bass; a low synth drone holding the root. Wide and loud, drums huge and roomy, guitars split left and right, raw live-band feel. Male and female lead voices trading lines in an urgent rhythmic mid-range, a shouted gang vocal on the chorus. 150 BPM, E minor. Breathless, tense, stubbornly funny. No pop-punk power chords, no metal growls, no autotune, no EDM drop, no ballad breakdown.",
+  "lyrics": "[Intro - pounding toms and guitar arpeggio]\n\n[Verse 1]\nJam tujuh lewat lima, pintu kereta terbuka\nAku keluar bukan jalan, aku keluar didorong\nKotak kue di tangan kanan, tulisan Selamat Ultah Bu Wati\nTangga naik ke peron enam, semua orang lari\n\n[Pre-Chorus]\nJangan miring, jangan miring\nKrimnya udah nempel di plastik\n\n[Chorus]\nManggarai, Manggarai, tahan napas, tahan kotak\nRibuan bahu, satu arah, satu tangga yang sesak\nManggarai, Manggarai, kakiku nggak napak lantai\nPintu kereta ke Bekasi nutup, aku pas di dalam\n\n[Verse 2]\nBapak di depan bawa galon, ibu di belakang bawa tikar\nPetugas teriak, Ikuti jalur, kuning di kanan\nAda anak kecil tidur di bahu ayahnya\nDia satu-satunya yang santai di sini\n\n[Pre-Chorus]\nJangan miring, jangan miring\nLilinnya patah, nggak apa-apa\n\n[Chorus]\nManggarai, Manggarai, tahan napas, tahan kotak\nRibuan bahu, satu arah, satu tangga yang sesak\nManggarai, Manggarai, kotaknya penyok di pojok\nBu Wati nanti ketawa, kuenya tetep enak\n\n[Outro - toms alone, then one guitar chord]\nJam delapan kurang lima, kotaknya kubuka\nTulisannya tinggal Selamat Bu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 208.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Indonesian art rock with tribal percussion, in the Barasuara arena style. Two interlocking electric guitars, one clean and arpeggiated, one overdriven and chugging; a stack of floor toms and tribal toms pounding in unison patterns; a driving eighth-note electric bass; a low synth drone holding the root. Wide and loud, drums huge and roomy, guitars split left and right, raw live-band feel. Male and female lead voices trading lines in an urgent rhythmic mid-range, a shouted gang vocal on the chorus. 150 BPM, E minor. Breathless, tense, stubbornly funny. No pop-punk power chords, no metal growls, no autotune, no EDM drop, no ballad breakdown.",
+    "lyrics": "[Intro - pounding toms and guitar arpeggio]\n\n[Verse 1]\nJam tujuh lewat lima, pintu kereta terbuka\nAku keluar bukan jalan, aku keluar didorong\nKotak kue di tangan kanan, tulisan Selamat Ultah Bu Wati\nTangga naik ke peron enam, semua orang lari\n\n[Pre-Chorus]\nJangan miring, jangan miring\nKrimnya udah nempel di plastik\n\n[Chorus]\nManggarai, Manggarai, tahan napas, tahan kotak\nRibuan bahu, satu arah, satu tangga yang sesak\nManggarai, Manggarai, kakiku nggak napak lantai\nPintu kereta ke Bekasi nutup, aku pas di dalam\n\n[Verse 2]\nBapak di depan bawa galon, ibu di belakang bawa tikar\nPetugas teriak, Ikuti jalur, kuning di kanan\nAda anak kecil tidur di bahu ayahnya\nDia satu-satunya yang santai di sini\n\n[Pre-Chorus]\nJangan miring, jangan miring\nLilinnya patah, nggak apa-apa\n\n[Chorus]\nManggarai, Manggarai, tahan napas, tahan kotak\nRibuan bahu, satu arah, satu tangga yang sesak\nManggarai, Manggarai, kotaknya penyok di pojok\nBu Wati nanti ketawa, kuenya tetep enak\n\n[Outro - toms alone, then one guitar chord]\nJam delapan kurang lima, kotaknya kubuka\nTulisannya tinggal Selamat Bu"
+  },
+  "seed": "404964344",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.52s**\n- 69.52s per song\n- LM phase (1 song): 11.79s\n- DiT phase (1 song): 57.73s",
+  "task_id": "40a2cf01-bd97-413c-8477-47e65a1e4d1a",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-13T22:26:54.108677+08:00",
+  "audio": "b8_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Intro - pounding toms and guitar arpeggio]"
+    },
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.06,
+      "end": 43.56,
+      "text": "Jam tujuh lewat lima, pintu kereta terbuka"
+    },
+    {
+      "t": 44.52,
+      "end": 50.1,
+      "text": "Aku keluar bukan jalan, aku keluar didorong"
+    },
+    {
+      "t": 50.1,
+      "end": 52.97,
+      "text": "Kotak kue di tangan kanan, tulisan Selamat Ultah Bu Wati"
+    },
+    {
+      "t": 53.01,
+      "end": 56.71,
+      "text": "Tangga naik ke peron enam, semua orang lari"
+    },
+    {
+      "t": 57.49,
+      "end": 57.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.49,
+      "end": 62.07,
+      "text": "Jangan miring, jangan miring"
+    },
+    {
+      "t": 63.05,
+      "end": 69.49,
+      "text": "Krimnya udah nempel di plastik"
+    },
+    {
+      "t": 70.21,
+      "end": 70.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.21,
+      "end": 74.61,
+      "text": "Manggarai, Manggarai, tahan napas, tahan kotak"
+    },
+    {
+      "t": 76.43,
+      "end": 80.97,
+      "text": "Ribuan bahu, satu arah, satu tangga yang sesak"
+    },
+    {
+      "t": 82.91,
+      "end": 87.43,
+      "text": "Manggarai, Manggarai, kakiku nggak napak lantai"
+    },
+    {
+      "t": 89.29,
+      "end": 95.59,
+      "text": "Pintu kereta ke Bekasi nutup, aku pas di dalam"
+    },
+    {
+      "t": 95.65,
+      "end": 95.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.65,
+      "end": 100.09,
+      "text": "Bapak di depan bawa galon, ibu di belakang bawa tikar"
+    },
+    {
+      "t": 102.03,
+      "end": 106.37,
+      "text": "Petugas teriak, Ikuti jalur, kuning di kanan"
+    },
+    {
+      "t": 108.71,
+      "end": 113.59,
+      "text": "Ada anak kecil tidur di bahu ayahnya"
+    },
+    {
+      "t": 114.83,
+      "end": 118.75,
+      "text": "Dia satu-satunya yang santai di sini"
+    },
+    {
+      "t": 121.95,
+      "end": 121.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.95,
+      "end": 124.71,
+      "text": "Jangan miring, jangan miring"
+    },
+    {
+      "t": 125.19,
+      "end": 127.73,
+      "text": "Lilinnya patah, nggak apa-apa"
+    },
+    {
+      "t": 127.77,
+      "end": 127.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.77,
+      "end": 171.0,
+      "text": "Manggarai, Manggarai, tahan napas, tahan kotak"
+    },
+    {
+      "t": 171.0,
+      "end": 180.02,
+      "text": "Ribuan bahu, satu arah, satu tangga yang sesak"
+    },
+    {
+      "t": 180.1,
+      "end": 181.7,
+      "text": "Manggarai, Manggarai, kotaknya penyok di pojok"
+    },
+    {
+      "t": 181.7,
+      "end": 183.28,
+      "text": "Bu Wati nanti ketawa, kuenya tetep enak"
+    },
+    {
+      "t": 186.52,
+      "end": 186.52,
+      "text": "[Outro - toms alone, then one guitar chord]"
+    },
+    {
+      "t": 186.52,
+      "end": 192.46,
+      "text": "Jam delapan kurang lima, kotaknya kubuka"
+    },
+    {
+      "t": 195.3,
+      "end": 199.04,
+      "text": "Tulisannya tinggal Selamat Bu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Intro - pounding toms and guitar arpeggio]"
+    },
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.06,
+      "end": 43.56,
+      "text": "Jam tujuh lewat lima, pintu kereta terbuka"
+    },
+    {
+      "t": 44.52,
+      "end": 50.1,
+      "text": "Aku keluar bukan jalan, aku keluar didorong"
+    },
+    {
+      "t": 50.1,
+      "end": 52.97,
+      "text": "Kotak kue di tangan kanan, tulisan Selamat Ultah Bu Wati"
+    },
+    {
+      "t": 53.01,
+      "end": 56.71,
+      "text": "Tangga naik ke peron enam, semua orang lari"
+    },
+    {
+      "t": 57.49,
+      "end": 57.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.49,
+      "end": 62.07,
+      "text": "Jangan miring, jangan miring"
+    },
+    {
+      "t": 63.05,
+      "end": 69.49,
+      "text": "Krimnya udah nempel di plastik"
+    },
+    {
+      "t": 70.21,
+      "end": 70.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.21,
+      "end": 74.61,
+      "text": "Manggarai, Manggarai, tahan napas, tahan kotak"
+    },
+    {
+      "t": 76.43,
+      "end": 80.97,
+      "text": "Ribuan bahu, satu arah, satu tangga yang sesak"
+    },
+    {
+      "t": 82.91,
+      "end": 87.43,
+      "text": "Manggarai, Manggarai, kakiku nggak napak lantai"
+    },
+    {
+      "t": 89.29,
+      "end": 95.59,
+      "text": "Pintu kereta ke Bekasi nutup, aku pas di dalam"
+    },
+    {
+      "t": 95.65,
+      "end": 95.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.65,
+      "end": 100.09,
+      "text": "Bapak di depan bawa galon, ibu di belakang bawa tikar"
+    },
+    {
+      "t": 102.03,
+      "end": 106.37,
+      "text": "Petugas teriak, Ikuti jalur, kuning di kanan"
+    },
+    {
+      "t": 108.71,
+      "end": 113.59,
+      "text": "Ada anak kecil tidur di bahu ayahnya"
+    },
+    {
+      "t": 114.83,
+      "end": 118.75,
+      "text": "Dia satu-satunya yang santai di sini"
+    },
+    {
+      "t": 121.95,
+      "end": 121.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.95,
+      "end": 124.71,
+      "text": "Jangan miring, jangan miring"
+    },
+    {
+      "t": 125.19,
+      "end": 127.73,
+      "text": "Lilinnya patah, nggak apa-apa"
+    },
+    {
+      "t": 127.77,
+      "end": 127.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.77,
+      "end": 171.0,
+      "text": "Manggarai, Manggarai, tahan napas, tahan kotak"
+    },
+    {
+      "t": 171.0,
+      "end": 180.02,
+      "text": "Ribuan bahu, satu arah, satu tangga yang sesak"
+    },
+    {
+      "t": 180.1,
+      "end": 181.7,
+      "text": "Manggarai, Manggarai, kotaknya penyok di pojok"
+    },
+    {
+      "t": 181.7,
+      "end": 183.28,
+      "text": "Bu Wati nanti ketawa, kuenya tetep enak"
+    },
+    {
+      "t": 186.52,
+      "end": 186.52,
+      "text": "[Outro - toms alone, then one guitar chord]"
+    },
+    {
+      "t": 186.52,
+      "end": 192.46,
+      "text": "Jam delapan kurang lima, kotaknya kubuka"
+    },
+    {
+      "t": 195.3,
+      "end": 199.04,
+      "text": "Tulisannya tinggal Selamat Bu"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 38.04,
+      "end": 38.04,
+      "text": "[Intro - pounding toms and guitar arpeggio]"
+    },
+    {
+      "t": 38.04,
+      "end": 38.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.04,
+      "end": 43.56,
+      "text": "Jam tujuh lewat lima, pintu kereta terbuka"
+    },
+    {
+      "t": 44.52,
+      "end": 49.24,
+      "text": "Aku keluar bukan jalan, aku keluar didorong"
+    },
+    {
+      "t": 49.24,
+      "end": 50.78,
+      "text": "Kotak kue di tangan kanan, tulisan Selamat Ultah Bu Wati"
+    },
+    {
+      "t": 50.78,
+      "end": 56.71,
+      "text": "Tangga naik ke peron enam, semua orang lari"
+    },
+    {
+      "t": 57.49,
+      "end": 57.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.49,
+      "end": 62.07,
+      "text": "Jangan miring, jangan miring"
+    },
+    {
+      "t": 63.05,
+      "end": 69.47,
+      "text": "Krimnya udah nempel di plastik"
+    },
+    {
+      "t": 70.21,
+      "end": 70.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.21,
+      "end": 74.61,
+      "text": "Manggarai, Manggarai, tahan napas, tahan kotak"
+    },
+    {
+      "t": 76.43,
+      "end": 80.95,
+      "text": "Ribuan bahu, satu arah, satu tangga yang sesak"
+    },
+    {
+      "t": 82.91,
+      "end": 87.43,
+      "text": "Manggarai, Manggarai, kakiku nggak napak lantai"
+    },
+    {
+      "t": 89.29,
+      "end": 93.47,
+      "text": "Pintu kereta ke Bekasi nutup, aku pas di dalam"
+    },
+    {
+      "t": 95.65,
+      "end": 95.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.65,
+      "end": 100.07,
+      "text": "Bapak di depan bawa galon, ibu di belakang bawa tikar"
+    },
+    {
+      "t": 102.03,
+      "end": 106.35,
+      "text": "Petugas teriak, Ikuti jalur, kuning di kanan"
+    },
+    {
+      "t": 108.71,
+      "end": 113.59,
+      "text": "Ada anak kecil tidur di bahu ayahnya"
+    },
+    {
+      "t": 114.83,
+      "end": 118.75,
+      "text": "Dia satu-satunya yang santai di sini"
+    },
+    {
+      "t": 121.97,
+      "end": 121.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.97,
+      "end": 124.71,
+      "text": "Jangan miring, jangan miring"
+    },
+    {
+      "t": 125.19,
+      "end": 127.47,
+      "text": "Lilinnya patah, nggak apa-apa"
+    },
+    {
+      "t": 127.77,
+      "end": 127.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.77,
+      "end": 152.83,
+      "text": "Manggarai, Manggarai, tahan napas, tahan kotak"
+    },
+    {
+      "t": 152.83,
+      "end": 156.44,
+      "text": "Ribuan bahu, satu arah, satu tangga yang sesak"
+    },
+    {
+      "t": 156.44,
+      "end": 171.08,
+      "text": "Manggarai, Manggarai, kotaknya penyok di pojok"
+    },
+    {
+      "t": 179.0,
+      "end": 183.28,
+      "text": "Bu Wati nanti ketawa, kuenya tetep enak"
+    },
+    {
+      "t": 186.54,
+      "end": 186.54,
+      "text": "[Outro - toms alone, then one guitar chord]"
+    },
+    {
+      "t": 186.54,
+      "end": 192.46,
+      "text": "Jam delapan kurang lima, kotaknya kubuka"
+    },
+    {
+      "t": 195.32,
+      "end": 199.0,
+      "text": "Tulisannya tinggal Selamat Bu"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b8_zh03",
+  "title": "第四輪",
+  "title_source": "scripted",
+  "genre": "Mandarin grunge",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "numb, sardonic, slowly boiling over",
+  "persona": "",
+  "subject": "the fourth round of interviews for the same job, in a cousin's borrowed suit",
+  "caption": "Mandarin grunge in the early-90s Seattle loud-quiet-loud mould. A detuned overdriven guitar through a fuzz pedal, clean and wobbly in the verses and slamming into a sludgy wall in the chorus; a distorted bass doubling the riff; loose, heavy drums with crashing cymbals; guitar feedback between sections. Thick and murky, garage-room drums, little polish. Male baritone, flat and mumbled in the verses, raw and shouted in the chorus. 92 BPM, E minor. Numb, sardonic, slowly boiling over. No pop-punk bounce, no metalcore breakdown, no screamed growls, no synths, no autotune.",
+  "lyrics": "[Intro - detuned guitar riff and loose drums]\n\n[Verse 1]\n同一間會議室 同一杯溫水\n西裝是表哥的 袖子長了一截\n他們問我五年後在哪裡\n我說應該還在這張椅子上\n\n[Pre-Chorus]\n冷氣開那麼強\n我的手心還是濕的\n\n[Chorus]\n第四輪 第四輪\n他們說只是聊一聊\n我把笑容折好放在桌上\n等他們說 回去等通知\n\n[Verse 2]\n電梯裡碰到上一輪的那個人\n他也穿著不合身的外套\n我們都沒說話 只是點頭\n十七樓到一樓 怎麼那麼久\n\n[Bridge - bass and feedback only]\n如果還有第五輪\n我想穿自己的衣服來\n\n[Chorus - shouted, full fuzz wall]\n第四輪 第四輪\n他們說只是聊一聊\n我把領帶扯下來塞進口袋\n走出大門 才發現外面在下雨\n\n[Outro - guitar feedback]\n表哥打電話來問\n西裝什麼時候還",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Mandarin grunge in the early-90s Seattle loud-quiet-loud mould. A detuned overdriven guitar through a fuzz pedal, clean and wobbly in the verses and slamming into a sludgy wall in the chorus; a distorted bass doubling the riff; loose, heavy drums with crashing cymbals; guitar feedback between sections. Thick and murky, garage-room drums, little polish. Male baritone, flat and mumbled in the verses, raw and shouted in the chorus. 92 BPM, E minor. Numb, sardonic, slowly boiling over. No pop-punk bounce, no metalcore breakdown, no screamed growls, no synths, no autotune.",
+    "lyrics": "[Intro - detuned guitar riff and loose drums]\n\n[Verse 1]\n同一間會議室 同一杯溫水\n西裝是表哥的 袖子長了一截\n他們問我五年後在哪裡\n我說應該還在這張椅子上\n\n[Pre-Chorus]\n冷氣開那麼強\n我的手心還是濕的\n\n[Chorus]\n第四輪 第四輪\n他們說只是聊一聊\n我把笑容折好放在桌上\n等他們說 回去等通知\n\n[Verse 2]\n電梯裡碰到上一輪的那個人\n他也穿著不合身的外套\n我們都沒說話 只是點頭\n十七樓到一樓 怎麼那麼久\n\n[Bridge - bass and feedback only]\n如果還有第五輪\n我想穿自己的衣服來\n\n[Chorus - shouted, full fuzz wall]\n第四輪 第四輪\n他們說只是聊一聊\n我把領帶扯下來塞進口袋\n走出大門 才發現外面在下雨\n\n[Outro - guitar feedback]\n表哥打電話來問\n西裝什麼時候還"
+  },
+  "seed": "3083968976",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.85s**\n- 73.85s per song\n- LM phase (1 song): 14.62s\n- DiT phase (1 song): 59.22s",
+  "task_id": "21893e5d-4e9f-4c5c-b7af-18d14e4b2be0",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-13T22:55:28.571487+08:00",
+  "audio": "b8_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.14,
+      "end": 0.14,
+      "text": "[Intro - detuned guitar riff and loose drums]"
+    },
+    {
+      "t": 0.14,
+      "end": 0.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.14,
+      "end": 50.54,
+      "text": "同一間會議室 同一杯溫水"
+    },
+    {
+      "t": 50.7,
+      "end": 52.28,
+      "text": "西裝是表哥的 袖子長了一截"
+    },
+    {
+      "t": 52.28,
+      "end": 55.59,
+      "text": "他們問我五年後在哪裡"
+    },
+    {
+      "t": 55.59,
+      "end": 57.83,
+      "text": "我說應該還在這張椅子上"
+    },
+    {
+      "t": 57.83,
+      "end": 57.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.83,
+      "end": 62.97,
+      "text": "冷氣開那麼強"
+    },
+    {
+      "t": 62.97,
+      "end": 64.41,
+      "text": "我的手心還是濕的"
+    },
+    {
+      "t": 64.41,
+      "end": 64.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.41,
+      "end": 64.67,
+      "text": "第四輪 第四輪"
+    },
+    {
+      "t": 64.67,
+      "end": 67.59,
+      "text": "他們說只是聊一聊"
+    },
+    {
+      "t": 67.61,
+      "end": 69.11,
+      "text": "我把笑容折好放在桌上"
+    },
+    {
+      "t": 69.11,
+      "end": 71.71,
+      "text": "等他們說 回去等通知"
+    },
+    {
+      "t": 71.71,
+      "end": 71.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.71,
+      "end": 110.25,
+      "text": "電梯裡碰到上一輪的那個人"
+    },
+    {
+      "t": 110.39,
+      "end": 111.89,
+      "text": "他也穿著不合身的外套"
+    },
+    {
+      "t": 111.89,
+      "end": 114.33,
+      "text": "我們都沒說話 只是點頭"
+    },
+    {
+      "t": 114.33,
+      "end": 117.57,
+      "text": "十七樓到一樓 怎麼那麼久"
+    },
+    {
+      "t": 120.87,
+      "end": 120.87,
+      "text": "[Bridge - bass and feedback only]"
+    },
+    {
+      "t": 120.87,
+      "end": 123.23,
+      "text": "如果還有第五輪"
+    },
+    {
+      "t": 124.51,
+      "end": 127.77,
+      "text": "我想穿自己的衣服來"
+    },
+    {
+      "t": 130.05,
+      "end": 130.05,
+      "text": "[Chorus - shouted, full fuzz wall]"
+    },
+    {
+      "t": 130.05,
+      "end": 131.93,
+      "text": "第四輪 第四輪"
+    },
+    {
+      "t": 132.01,
+      "end": 134.49,
+      "text": "他們說只是聊一聊"
+    },
+    {
+      "t": 134.55,
+      "end": 137.55,
+      "text": "我把領帶扯下來塞進口袋"
+    },
+    {
+      "t": 137.63,
+      "end": 140.69,
+      "text": "走出大門 才發現外面在下雨"
+    },
+    {
+      "t": 186.52,
+      "end": 186.52,
+      "text": "[Outro - guitar feedback]"
+    },
+    {
+      "t": 186.52,
+      "end": 188.86,
+      "text": "表哥打電話來問"
+    },
+    {
+      "t": 194.02,
+      "end": 196.72,
+      "text": "西裝什麼時候還"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.14,
+      "end": 0.14,
+      "text": "[Intro - detuned guitar riff and loose drums]"
+    },
+    {
+      "t": 0.14,
+      "end": 0.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.14,
+      "end": 50.54,
+      "text": "同一間會議室 同一杯溫水"
+    },
+    {
+      "t": 50.7,
+      "end": 52.28,
+      "text": "西裝是表哥的 袖子長了一截"
+    },
+    {
+      "t": 52.28,
+      "end": 55.59,
+      "text": "他們問我五年後在哪裡"
+    },
+    {
+      "t": 55.59,
+      "end": 57.83,
+      "text": "我說應該還在這張椅子上"
+    },
+    {
+      "t": 57.83,
+      "end": 57.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.83,
+      "end": 62.97,
+      "text": "冷氣開那麼強"
+    },
+    {
+      "t": 62.97,
+      "end": 64.41,
+      "text": "我的手心還是濕的"
+    },
+    {
+      "t": 64.41,
+      "end": 64.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.41,
+      "end": 64.67,
+      "text": "第四輪 第四輪"
+    },
+    {
+      "t": 64.67,
+      "end": 67.59,
+      "text": "他們說只是聊一聊"
+    },
+    {
+      "t": 67.61,
+      "end": 69.11,
+      "text": "我把笑容折好放在桌上"
+    },
+    {
+      "t": 69.11,
+      "end": 71.71,
+      "text": "等他們說 回去等通知"
+    },
+    {
+      "t": 71.71,
+      "end": 71.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.71,
+      "end": 110.25,
+      "text": "電梯裡碰到上一輪的那個人"
+    },
+    {
+      "t": 110.39,
+      "end": 111.89,
+      "text": "他也穿著不合身的外套"
+    },
+    {
+      "t": 111.89,
+      "end": 114.33,
+      "text": "我們都沒說話 只是點頭"
+    },
+    {
+      "t": 114.33,
+      "end": 117.57,
+      "text": "十七樓到一樓 怎麼那麼久"
+    },
+    {
+      "t": 120.87,
+      "end": 120.87,
+      "text": "[Bridge - bass and feedback only]"
+    },
+    {
+      "t": 120.87,
+      "end": 123.23,
+      "text": "如果還有第五輪"
+    },
+    {
+      "t": 124.51,
+      "end": 127.77,
+      "text": "我想穿自己的衣服來"
+    },
+    {
+      "t": 130.05,
+      "end": 130.05,
+      "text": "[Chorus - shouted, full fuzz wall]"
+    },
+    {
+      "t": 130.05,
+      "end": 131.93,
+      "text": "第四輪 第四輪"
+    },
+    {
+      "t": 132.01,
+      "end": 134.49,
+      "text": "他們說只是聊一聊"
+    },
+    {
+      "t": 134.55,
+      "end": 137.55,
+      "text": "我把領帶扯下來塞進口袋"
+    },
+    {
+      "t": 137.63,
+      "end": 140.69,
+      "text": "走出大門 才發現外面在下雨"
+    },
+    {
+      "t": 186.52,
+      "end": 186.52,
+      "text": "[Outro - guitar feedback]"
+    },
+    {
+      "t": 186.52,
+      "end": 188.86,
+      "text": "表哥打電話來問"
+    },
+    {
+      "t": 194.02,
+      "end": 196.72,
+      "text": "西裝什麼時候還"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 1.8,
+      "end": 1.8,
+      "text": "[Intro - detuned guitar riff and loose drums]"
+    },
+    {
+      "t": 1.8,
+      "end": 1.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.8,
+      "end": 31.88,
+      "text": "同一間會議室 同一杯溫水"
+    },
+    {
+      "t": 32.14,
+      "end": 49.56,
+      "text": "西裝是表哥的 袖子長了一截"
+    },
+    {
+      "t": 49.56,
+      "end": 52.71,
+      "text": "他們問我五年後在哪裡"
+    },
+    {
+      "t": 54.87,
+      "end": 62.73,
+      "text": "我說應該還在這張椅子上"
+    },
+    {
+      "t": 62.75,
+      "end": 62.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.75,
+      "end": 65.85,
+      "text": "冷氣開那麼強"
+    },
+    {
+      "t": 67.63,
+      "end": 70.89,
+      "text": "我的手心還是濕的"
+    },
+    {
+      "t": 71.45,
+      "end": 71.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.45,
+      "end": 84.05,
+      "text": "第四輪 第四輪"
+    },
+    {
+      "t": 84.05,
+      "end": 92.43,
+      "text": "他們說只是聊一聊"
+    },
+    {
+      "t": 92.55,
+      "end": 98.89,
+      "text": "我把笑容折好放在桌上"
+    },
+    {
+      "t": 98.97,
+      "end": 108.79,
+      "text": "等他們說 回去等通知"
+    },
+    {
+      "t": 108.81,
+      "end": 108.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 108.81,
+      "end": 110.29,
+      "text": "電梯裡碰到上一輪的那個人"
+    },
+    {
+      "t": 110.29,
+      "end": 111.89,
+      "text": "他也穿著不合身的外套"
+    },
+    {
+      "t": 111.89,
+      "end": 114.35,
+      "text": "我們都沒說話 只是點頭"
+    },
+    {
+      "t": 114.35,
+      "end": 117.57,
+      "text": "十七樓到一樓 怎麼那麼久"
+    },
+    {
+      "t": 120.89,
+      "end": 120.89,
+      "text": "[Bridge - bass and feedback only]"
+    },
+    {
+      "t": 120.89,
+      "end": 123.15,
+      "text": "如果還有第五輪"
+    },
+    {
+      "t": 124.51,
+      "end": 128.61,
+      "text": "我想穿自己的衣服來"
+    },
+    {
+      "t": 130.07,
+      "end": 130.07,
+      "text": "[Chorus - shouted, full fuzz wall]"
+    },
+    {
+      "t": 130.07,
+      "end": 131.93,
+      "text": "第四輪 第四輪"
+    },
+    {
+      "t": 132.03,
+      "end": 134.53,
+      "text": "他們說只是聊一聊"
+    },
+    {
+      "t": 134.69,
+      "end": 137.55,
+      "text": "我把領帶扯下來塞進口袋"
+    },
+    {
+      "t": 137.63,
+      "end": 140.69,
+      "text": "走出大門 才發現外面在下雨"
+    },
+    {
+      "t": 186.52,
+      "end": 186.52,
+      "text": "[Outro - guitar feedback]"
+    },
+    {
+      "t": 186.52,
+      "end": 188.88,
+      "text": "表哥打電話來問"
+    },
+    {
+      "t": 194.0,
+      "end": 196.72,
+      "text": "西裝什麼時候還"
+    }
+  ]
+}

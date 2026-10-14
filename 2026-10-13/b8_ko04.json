@@ -1,0 +1,327 @@
+{
+  "id": "b8_ko04",
+  "title": "흰색 두 번",
+  "title_source": "scripted",
+  "genre": "Korean shoegaze",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "hazy, tender, quietly devoted",
+  "persona": "",
+  "subject": "a couple painting the walls of their first rented flat white late at night, rollers in hand, and her leaving one handprint low behind the wardrobe on purpose",
+  "caption": "Korean shoegaze in the 2020s Seoul indie style. Layered fuzz electric guitars drenched in reverb with slow tremolo-arm bends; slow steady drums with a washy ride cymbal; a round melodic electric bass carrying the tune under the noise; a faint organ drone. Dense wall of reverb, warm saturated mids, vocals mixed low and close inside the guitars. Female and male duet, soft breathy voices, unhurried. 92 BPM, D major. Hazy, tender and quietly devoted. No trap drums, no autotune, no pop vocal belting, no EDM build, no clean acoustic ballad arrangement.",
+  "lyrics": "[Intro - fuzz guitar swell and organ drone]\n\n[Verse 1]\n밤 열한 시 우리 첫 전셋집\n신문지 깔고 창문 다 열고\n롤러 하나씩 들고 서서\n누런 벽을 흰색으로 덮어\n\n[Pre-Chorus]\n너는 천장 쪽 나는 바닥 쪽\n페인트 냄새에 둘 다 웃음이 나\n\n[Chorus]\n흰색 두 번 칠하면 돼\n누렇던 벽 위에\n흰색 두 번 칠하는 동안\n여기가 우리 집이 돼 가\n\n[Verse 2]\n네 머리끝에 하얀 점 하나\n내 볼에도 하나 묻었대\n새벽 두 시 마지막 벽 앞에서\n너는 손바닥을 꾹 찍었어\n\n[Pre-Chorus]\n옷장 뒤 낮은 곳이니까\n아무도 모를 거라며\n\n[Chorus]\n흰색 두 번 칠하고 나면\n손자국만 남겨 두자\n흰색 두 번 칠한 이 방에\n오래오래 같이 살자\n\n[Outro - guitars dissolving into the organ]\n창밖이 밝아 오고 벽이 말라 가",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 230.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean shoegaze in the 2020s Seoul indie style. Layered fuzz electric guitars drenched in reverb with slow tremolo-arm bends; slow steady drums with a washy ride cymbal; a round melodic electric bass carrying the tune under the noise; a faint organ drone. Dense wall of reverb, warm saturated mids, vocals mixed low and close inside the guitars. Female and male duet, soft breathy voices, unhurried. 92 BPM, D major. Hazy, tender and quietly devoted. No trap drums, no autotune, no pop vocal belting, no EDM build, no clean acoustic ballad arrangement.",
+    "lyrics": "[Intro - fuzz guitar swell and organ drone]\n\n[Verse 1]\n밤 열한 시 우리 첫 전셋집\n신문지 깔고 창문 다 열고\n롤러 하나씩 들고 서서\n누런 벽을 흰색으로 덮어\n\n[Pre-Chorus]\n너는 천장 쪽 나는 바닥 쪽\n페인트 냄새에 둘 다 웃음이 나\n\n[Chorus]\n흰색 두 번 칠하면 돼\n누렇던 벽 위에\n흰색 두 번 칠하는 동안\n여기가 우리 집이 돼 가\n\n[Verse 2]\n네 머리끝에 하얀 점 하나\n내 볼에도 하나 묻었대\n새벽 두 시 마지막 벽 앞에서\n너는 손바닥을 꾹 찍었어\n\n[Pre-Chorus]\n옷장 뒤 낮은 곳이니까\n아무도 모를 거라며\n\n[Chorus]\n흰색 두 번 칠하고 나면\n손자국만 남겨 두자\n흰색 두 번 칠한 이 방에\n오래오래 같이 살자\n\n[Outro - guitars dissolving into the organ]\n창밖이 밝아 오고 벽이 말라 가"
+  },
+  "seed": "4142647642",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 113.57s**\n- 113.57s per song\n- LM phase (1 song): 19.89s\n- DiT phase (1 song): 93.69s",
+  "task_id": "b582cc81-10bb-40b2-a72f-b96d1993f82d",
+  "elapsed_s": 150.3,
+  "generated_at": "2026-10-13T22:11:32.668708+08:00",
+  "audio": "b8_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Intro - fuzz guitar swell and organ drone]"
+    },
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.7,
+      "end": 41.12,
+      "text": "밤 열한 시 우리 첫 전셋집"
+    },
+    {
+      "t": 41.94,
+      "end": 45.98,
+      "text": "신문지 깔고 창문 다 열고"
+    },
+    {
+      "t": 47.52,
+      "end": 50.88,
+      "text": "롤러 하나씩 들고 서서"
+    },
+    {
+      "t": 52.42,
+      "end": 56.84,
+      "text": "누런 벽을 흰색으로 덮어"
+    },
+    {
+      "t": 58.71,
+      "end": 58.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.71,
+      "end": 62.69,
+      "text": "너는 천장 쪽 나는 바닥 쪽"
+    },
+    {
+      "t": 63.31,
+      "end": 67.75,
+      "text": "페인트 냄새에 둘 다 웃음이 나"
+    },
+    {
+      "t": 69.57,
+      "end": 69.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.57,
+      "end": 73.07,
+      "text": "흰색 두 번 칠하면 돼"
+    },
+    {
+      "t": 74.23,
+      "end": 76.33,
+      "text": "누렇던 벽 위에"
+    },
+    {
+      "t": 80.43,
+      "end": 83.57,
+      "text": "흰색 두 번 칠하는 동안"
+    },
+    {
+      "t": 83.77,
+      "end": 86.53,
+      "text": "여기가 우리 집이 돼 가"
+    },
+    {
+      "t": 91.25,
+      "end": 91.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.25,
+      "end": 92.79,
+      "text": "네 머리끝에 하얀 점 하나"
+    },
+    {
+      "t": 92.97,
+      "end": 95.27,
+      "text": "내 볼에도 하나 묻었대"
+    },
+    {
+      "t": 95.27,
+      "end": 103.23,
+      "text": "새벽 두 시 마지막 벽 앞에서"
+    },
+    {
+      "t": 113.75,
+      "end": 118.79,
+      "text": "너는 손바닥을 꾹 찍었어"
+    },
+    {
+      "t": 123.01,
+      "end": 123.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.01,
+      "end": 127.61,
+      "text": "옷장 뒤 낮은 곳이니까"
+    },
+    {
+      "t": 132.27,
+      "end": 135.01,
+      "text": "아무도 모를 거라며"
+    },
+    {
+      "t": 138.39,
+      "end": 138.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.39,
+      "end": 143.07,
+      "text": "흰색 두 번 칠하고 나면"
+    },
+    {
+      "t": 143.69,
+      "end": 146.15,
+      "text": "손자국만 남겨 두자"
+    },
+    {
+      "t": 148.93,
+      "end": 154.71,
+      "text": "흰색 두 번 칠한 이 방에"
+    },
+    {
+      "t": 155.09,
+      "end": 160.01,
+      "text": "오래오래 같이 살자"
+    },
+    {
+      "t": 200.42,
+      "end": 200.42,
+      "text": "[Outro - guitars dissolving into the organ]"
+    },
+    {
+      "t": 200.42,
+      "end": 207.18,
+      "text": "창밖이 밝아 오고 벽이 말라 가"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Intro - fuzz guitar swell and organ drone]"
+    },
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.7,
+      "end": 41.06,
+      "text": "밤 열한 시 우리 첫 전셋집"
+    },
+    {
+      "t": 41.94,
+      "end": 45.98,
+      "text": "신문지 깔고 창문 다 열고"
+    },
+    {
+      "t": 47.52,
+      "end": 50.9,
+      "text": "롤러 하나씩 들고 서서"
+    },
+    {
+      "t": 52.44,
+      "end": 56.84,
+      "text": "누런 벽을 흰색으로 덮어"
+    },
+    {
+      "t": 58.71,
+      "end": 58.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.71,
+      "end": 62.75,
+      "text": "너는 천장 쪽 나는 바닥 쪽"
+    },
+    {
+      "t": 63.31,
+      "end": 67.75,
+      "text": "페인트 냄새에 둘 다 웃음이 나"
+    },
+    {
+      "t": 69.57,
+      "end": 69.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.57,
+      "end": 73.65,
+      "text": "흰색 두 번 칠하면 돼"
+    },
+    {
+      "t": 74.21,
+      "end": 76.33,
+      "text": "누렇던 벽 위에"
+    },
+    {
+      "t": 80.43,
+      "end": 83.57,
+      "text": "흰색 두 번 칠하는 동안"
+    },
+    {
+      "t": 83.75,
+      "end": 91.41,
+      "text": "여기가 우리 집이 돼 가"
+    },
+    {
+      "t": 91.53,
+      "end": 91.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.53,
+      "end": 93.11,
+      "text": "네 머리끝에 하얀 점 하나"
+    },
+    {
+      "t": 93.31,
+      "end": 94.77,
+      "text": "내 볼에도 하나 묻었대"
+    },
+    {
+      "t": 94.97,
+      "end": 98.63,
+      "text": "새벽 두 시 마지막 벽 앞에서"
+    },
+    {
+      "t": 113.75,
+      "end": 118.79,
+      "text": "너는 손바닥을 꾹 찍었어"
+    },
+    {
+      "t": 123.01,
+      "end": 123.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.01,
+      "end": 127.61,
+      "text": "옷장 뒤 낮은 곳이니까"
+    },
+    {
+      "t": 132.27,
+      "end": 135.01,
+      "text": "아무도 모를 거라며"
+    },
+    {
+      "t": 138.41,
+      "end": 138.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.41,
+      "end": 143.11,
+      "text": "흰색 두 번 칠하고 나면"
+    },
+    {
+      "t": 143.69,
+      "end": 146.15,
+      "text": "손자국만 남겨 두자"
+    },
+    {
+      "t": 148.95,
+      "end": 156.39,
+      "text": "흰색 두 번 칠한 이 방에"
+    },
+    {
+      "t": 157.03,
+      "end": 160.03,
+      "text": "오래오래 같이 살자"
+    },
+    {
+      "t": 200.42,
+      "end": 200.42,
+      "text": "[Outro - guitars dissolving into the organ]"
+    },
+    {
+      "t": 200.42,
+      "end": 207.18,
+      "text": "창밖이 밝아 오고 벽이 말라 가"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

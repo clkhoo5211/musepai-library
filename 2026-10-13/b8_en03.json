@@ -1,0 +1,444 @@
+{
+  "id": "b8_en03",
+  "title": "One Sink",
+  "title_source": "scripted",
+  "genre": "piano-led indie pop-rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, amused and quietly sure",
+  "persona": "",
+  "subject": "two people sharing one small bathroom sink every morning in a new flat",
+  "caption": "Piano-led indie pop-rock in the 2025 alternative-radio crossover style. An upright piano with felt-softened hammers playing steady quarter-note chords; live drums starting with brushes and growing to a full kit with crashes in the final chorus; a warm bass guitar entering on the first chorus; a reverb-washed electric guitar holding long notes. Intimate verses with audible room noise, a wide and loud final chorus, the piano always in front. Male voice, a soft close baritone in the verses, cracking up into falsetto in the chorus and turning raw and loud at the end. 84 BPM, E-flat major. Tender, amused and quietly sure. No trap drums, no autotune, no orchestral strings, no gospel choir, no EDM build.",
+  "lyrics": "[Intro - upright piano alone]\n\n[Verse 1]\nSeven-oh-five, the mirror's the size of a postcard\nYou lean left, I lean right, we take turns with the tap\nYou spit, I rinse, we've got it down to a rhythm\nToothpaste on your chin and you won't let me tell you\n\n[Pre-Chorus]\nBack in my old place I had two sinks and nobody\n\n[Chorus]\nOne sink, two of us, elbows in the way\nI'd rather bump into you than have the room all day\nFogged-up glass, you write your name in steam\nOne sink, and nowhere else I'd rather be\n\n[Verse 2]\nYour hair in the plughole, my razor on your shelf\nYou moved the soap again and I moved it back\nWe'll get a bigger place one day, you say it every Tuesday\nI say sure, and we both know I'm lying\n\n[Pre-Chorus]\nSome mornings I pretend I'm late just to stand there longer\n\n[Chorus - full band]\nOne sink, two of us, elbows in the way\nI'd rather bump into you than have the room all day\nFogged-up glass, I write yes under your name\nOne sink, and I'm never moving again\n\n[Outro - piano and brushes]\nSeven-oh-six, you kiss me with a mouth full of mint",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Piano-led indie pop-rock in the 2025 alternative-radio crossover style. An upright piano with felt-softened hammers playing steady quarter-note chords; live drums starting with brushes and growing to a full kit with crashes in the final chorus; a warm bass guitar entering on the first chorus; a reverb-washed electric guitar holding long notes. Intimate verses with audible room noise, a wide and loud final chorus, the piano always in front. Male voice, a soft close baritone in the verses, cracking up into falsetto in the chorus and turning raw and loud at the end. 84 BPM, E-flat major. Tender, amused and quietly sure. No trap drums, no autotune, no orchestral strings, no gospel choir, no EDM build.",
+    "lyrics": "[Intro - upright piano alone]\n\n[Verse 1]\nSeven-oh-five, the mirror's the size of a postcard\nYou lean left, I lean right, we take turns with the tap\nYou spit, I rinse, we've got it down to a rhythm\nToothpaste on your chin and you won't let me tell you\n\n[Pre-Chorus]\nBack in my old place I had two sinks and nobody\n\n[Chorus]\nOne sink, two of us, elbows in the way\nI'd rather bump into you than have the room all day\nFogged-up glass, you write your name in steam\nOne sink, and nowhere else I'd rather be\n\n[Verse 2]\nYour hair in the plughole, my razor on your shelf\nYou moved the soap again and I moved it back\nWe'll get a bigger place one day, you say it every Tuesday\nI say sure, and we both know I'm lying\n\n[Pre-Chorus]\nSome mornings I pretend I'm late just to stand there longer\n\n[Chorus - full band]\nOne sink, two of us, elbows in the way\nI'd rather bump into you than have the room all day\nFogged-up glass, I write yes under your name\nOne sink, and I'm never moving again\n\n[Outro - piano and brushes]\nSeven-oh-six, you kiss me with a mouth full of mint"
+  },
+  "seed": "297755479",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.03s**\n- 70.03s per song\n- LM phase (1 song): 13.86s\n- DiT phase (1 song): 56.16s",
+  "task_id": "54426e73-70ea-4663-b6ce-4c76cfa9ed7c",
+  "elapsed_s": 90.4,
+  "generated_at": "2026-10-13T22:48:06.917785+08:00",
+  "audio": "b8_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.94,
+      "end": 24.94,
+      "text": "[Intro - upright piano alone]"
+    },
+    {
+      "t": 24.94,
+      "end": 24.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.94,
+      "end": 31.22,
+      "text": "Seven-oh-five, the mirror's the size of a postcard"
+    },
+    {
+      "t": 31.26,
+      "end": 42.86,
+      "text": "You lean left, I lean right, we take turns with the tap"
+    },
+    {
+      "t": 48.22,
+      "end": 54.01,
+      "text": "You spit, I rinse, we've got it down to a rhythm"
+    },
+    {
+      "t": 57.15,
+      "end": 63.13,
+      "text": "Toothpaste on your chin and you won't let me tell you"
+    },
+    {
+      "t": 63.13,
+      "end": 63.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.13,
+      "end": 71.53,
+      "text": "Back in my old place I had two sinks and nobody"
+    },
+    {
+      "t": 71.55,
+      "end": 71.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.55,
+      "end": 77.45,
+      "text": "One sink, two of us, elbows in the way"
+    },
+    {
+      "t": 77.71,
+      "end": 83.27,
+      "text": "I'd rather bump into you than have the room all day"
+    },
+    {
+      "t": 84.53,
+      "end": 90.61,
+      "text": "Fogged-up glass, you write your name in steam"
+    },
+    {
+      "t": 95.49,
+      "end": 100.37,
+      "text": "One sink, and nowhere else I'd rather be"
+    },
+    {
+      "t": 103.67,
+      "end": 103.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.67,
+      "end": 107.73,
+      "text": "Your hair in the plughole, my razor on your shelf"
+    },
+    {
+      "t": 109.41,
+      "end": 113.45,
+      "text": "You moved the soap again and I moved it back"
+    },
+    {
+      "t": 115.39,
+      "end": 120.37,
+      "text": "We'll get a bigger place one day, you say it every Tuesday"
+    },
+    {
+      "t": 120.93,
+      "end": 125.17,
+      "text": "I say sure, and we both know I'm lying"
+    },
+    {
+      "t": 130.01,
+      "end": 130.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 130.01,
+      "end": 136.11,
+      "text": "Some mornings I pretend I'm late just to stand there longer"
+    },
+    {
+      "t": 137.69,
+      "end": 137.69,
+      "text": "[Chorus - full band]"
+    },
+    {
+      "t": 137.69,
+      "end": 141.99,
+      "text": "One sink, two of us, elbows in the way"
+    },
+    {
+      "t": 142.25,
+      "end": 147.59,
+      "text": "I'd rather bump into you than have the room all day"
+    },
+    {
+      "t": 148.71,
+      "end": 153.85,
+      "text": "Fogged-up glass, I write yes under your name"
+    },
+    {
+      "t": 154.97,
+      "end": 159.33,
+      "text": "One sink, and I'm never moving again"
+    },
+    {
+      "t": 192.46,
+      "end": 192.46,
+      "text": "[Outro - piano and brushes]"
+    },
+    {
+      "t": 192.46,
+      "end": 205.42,
+      "text": "Seven-oh-six, you kiss me with a mouth full of mint"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.94,
+      "end": 24.94,
+      "text": "[Intro - upright piano alone]"
+    },
+    {
+      "t": 24.94,
+      "end": 24.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.94,
+      "end": 31.22,
+      "text": "Seven-oh-five, the mirror's the size of a postcard"
+    },
+    {
+      "t": 31.26,
+      "end": 42.86,
+      "text": "You lean left, I lean right, we take turns with the tap"
+    },
+    {
+      "t": 48.22,
+      "end": 54.01,
+      "text": "You spit, I rinse, we've got it down to a rhythm"
+    },
+    {
+      "t": 57.15,
+      "end": 63.13,
+      "text": "Toothpaste on your chin and you won't let me tell you"
+    },
+    {
+      "t": 63.13,
+      "end": 63.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.13,
+      "end": 71.53,
+      "text": "Back in my old place I had two sinks and nobody"
+    },
+    {
+      "t": 71.55,
+      "end": 71.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.55,
+      "end": 77.45,
+      "text": "One sink, two of us, elbows in the way"
+    },
+    {
+      "t": 77.71,
+      "end": 83.27,
+      "text": "I'd rather bump into you than have the room all day"
+    },
+    {
+      "t": 84.53,
+      "end": 90.61,
+      "text": "Fogged-up glass, you write your name in steam"
+    },
+    {
+      "t": 95.49,
+      "end": 100.37,
+      "text": "One sink, and nowhere else I'd rather be"
+    },
+    {
+      "t": 103.67,
+      "end": 103.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.67,
+      "end": 107.73,
+      "text": "Your hair in the plughole, my razor on your shelf"
+    },
+    {
+      "t": 109.41,
+      "end": 113.45,
+      "text": "You moved the soap again and I moved it back"
+    },
+    {
+      "t": 115.39,
+      "end": 120.37,
+      "text": "We'll get a bigger place one day, you say it every Tuesday"
+    },
+    {
+      "t": 120.93,
+      "end": 125.17,
+      "text": "I say sure, and we both know I'm lying"
+    },
+    {
+      "t": 130.01,
+      "end": 130.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 130.01,
+      "end": 136.11,
+      "text": "Some mornings I pretend I'm late just to stand there longer"
+    },
+    {
+      "t": 137.69,
+      "end": 137.69,
+      "text": "[Chorus - full band]"
+    },
+    {
+      "t": 137.69,
+      "end": 141.99,
+      "text": "One sink, two of us, elbows in the way"
+    },
+    {
+      "t": 142.25,
+      "end": 147.59,
+      "text": "I'd rather bump into you than have the room all day"
+    },
+    {
+      "t": 148.71,
+      "end": 153.85,
+      "text": "Fogged-up glass, I write yes under your name"
+    },
+    {
+      "t": 154.97,
+      "end": 159.33,
+      "text": "One sink, and I'm never moving again"
+    },
+    {
+      "t": 192.46,
+      "end": 192.46,
+      "text": "[Outro - piano and brushes]"
+    },
+    {
+      "t": 192.46,
+      "end": 205.42,
+      "text": "Seven-oh-six, you kiss me with a mouth full of mint"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 24.94,
+      "end": 24.94,
+      "text": "[Intro - upright piano alone]"
+    },
+    {
+      "t": 24.94,
+      "end": 24.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.94,
+      "end": 31.22,
+      "text": "Seven-oh-five, the mirror's the size of a postcard"
+    },
+    {
+      "t": 31.28,
+      "end": 45.14,
+      "text": "You lean left, I lean right, we take turns with the tap"
+    },
+    {
+      "t": 48.22,
+      "end": 53.99,
+      "text": "You spit, I rinse, we've got it down to a rhythm"
+    },
+    {
+      "t": 57.15,
+      "end": 63.49,
+      "text": "Toothpaste on your chin and you won't let me tell you"
+    },
+    {
+      "t": 70.51,
+      "end": 70.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 70.51,
+      "end": 77.11,
+      "text": "Back in my old place I had two sinks and nobody"
+    },
+    {
+      "t": 77.13,
+      "end": 77.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.13,
+      "end": 78.33,
+      "text": "One sink, two of us, elbows in the way"
+    },
+    {
+      "t": 78.33,
+      "end": 83.25,
+      "text": "I'd rather bump into you than have the room all day"
+    },
+    {
+      "t": 84.53,
+      "end": 90.45,
+      "text": "Fogged-up glass, you write your name in steam"
+    },
+    {
+      "t": 95.49,
+      "end": 100.35,
+      "text": "One sink, and nowhere else I'd rather be"
+    },
+    {
+      "t": 103.67,
+      "end": 103.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.67,
+      "end": 107.77,
+      "text": "Your hair in the plughole, my razor on your shelf"
+    },
+    {
+      "t": 109.43,
+      "end": 113.41,
+      "text": "You moved the soap again and I moved it back"
+    },
+    {
+      "t": 115.41,
+      "end": 120.37,
+      "text": "We'll get a bigger place one day, you say it every Tuesday"
+    },
+    {
+      "t": 121.01,
+      "end": 125.19,
+      "text": "I say sure, and we both know I'm lying"
+    },
+    {
+      "t": 130.01,
+      "end": 130.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 130.01,
+      "end": 136.07,
+      "text": "Some mornings I pretend I'm late just to stand there longer"
+    },
+    {
+      "t": 137.69,
+      "end": 137.69,
+      "text": "[Chorus - full band]"
+    },
+    {
+      "t": 137.69,
+      "end": 141.99,
+      "text": "One sink, two of us, elbows in the way"
+    },
+    {
+      "t": 142.25,
+      "end": 147.57,
+      "text": "I'd rather bump into you than have the room all day"
+    },
+    {
+      "t": 148.71,
+      "end": 153.77,
+      "text": "Fogged-up glass, I write yes under your name"
+    },
+    {
+      "t": 154.97,
+      "end": 159.33,
+      "text": "One sink, and I'm never moving again"
+    },
+    {
+      "t": 192.46,
+      "end": 192.46,
+      "text": "[Outro - piano and brushes]"
+    },
+    {
+      "t": 192.46,
+      "end": 205.18,
+      "text": "Seven-oh-six, you kiss me with a mouth full of mint"
+    }
+  ]
+}

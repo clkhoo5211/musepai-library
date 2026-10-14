@@ -1,0 +1,337 @@
+{
+  "id": "b8_zh02",
+  "title": "星期六的熱乾麵",
+  "title_source": "scripted",
+  "genre": "Mandarin Britpop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "warm, a little nervous, quietly proud",
+  "persona": "",
+  "subject": "learning to make his girlfriend's Wuhan hometown breakfast, hot dry noodles, every Saturday and never quite getting it right",
+  "caption": "Mandarin Britpop with mid-90s British guitar-band swagger. A jangly twelve-string electric guitar ringing open chords; a crunchy rhythm guitar on the backbeat; a melodic bass walking under the changes; tambourine and straight rock drums; a Hammond organ pad entering on the last chorus. Warm and roomy, guitars wide, the voice centred and dry. Male baritone-tenor, plain and sincere with a slightly nasal tone, an easy singalong chorus. 112 BPM, D major. Warm, a little nervous, quietly proud. No synth pads, no R&B runs, no autotune, no trap drums, no power-ballad key change.",
+  "lyrics": "[Intro - jangly twelve-string guitar and tambourine]\n\n[Verse 1]\n妳說武漢的早上是芝麻醬的味道\n我買了鹼水麵 照著影片一步步做\n第一碗太乾 第二碗太鹹\n妳還是吃完 說下禮拜再來\n\n[Pre-Chorus]\n週六八點 鍋子比妳先醒\n妳在被子裡數我又失敗幾次\n\n[Chorus]\n就算我一輩子拌不出妳家巷口那一碗\n我還是每個星期六 把芝麻醬調開\n妳說差一點 我說那就下次\n差一點 剛好留給我們慢慢來\n\n[Verse 2]\n第十個星期六 我加了蘿蔔丁\n妳站在廚房門口 一句話也不說\n吃到一半 妳打給妳媽\n說有個人 麵煮得還可以\n\n[Pre-Chorus]\n電話那頭笑得好大聲\n我假裝洗碗 把水開到最大\n\n[Chorus - organ enters]\n就算我一輩子拌不出妳家巷口那一碗\n我還是每個星期六 把芝麻醬調開\n妳說今天這碗 差不多了\n差不多 就夠我再煮好幾十年\n\n[Outro - guitars ring out]\n下個週六 妳說換妳來煮\n我坐在旁邊 負責說差一點",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Mandarin Britpop with mid-90s British guitar-band swagger. A jangly twelve-string electric guitar ringing open chords; a crunchy rhythm guitar on the backbeat; a melodic bass walking under the changes; tambourine and straight rock drums; a Hammond organ pad entering on the last chorus. Warm and roomy, guitars wide, the voice centred and dry. Male baritone-tenor, plain and sincere with a slightly nasal tone, an easy singalong chorus. 112 BPM, D major. Warm, a little nervous, quietly proud. No synth pads, no R&B runs, no autotune, no trap drums, no power-ballad key change.",
+    "lyrics": "[Intro - jangly twelve-string guitar and tambourine]\n\n[Verse 1]\n妳說武漢的早上是芝麻醬的味道\n我買了鹼水麵 照著影片一步步做\n第一碗太乾 第二碗太鹹\n妳還是吃完 說下禮拜再來\n\n[Pre-Chorus]\n週六八點 鍋子比妳先醒\n妳在被子裡數我又失敗幾次\n\n[Chorus]\n就算我一輩子拌不出妳家巷口那一碗\n我還是每個星期六 把芝麻醬調開\n妳說差一點 我說那就下次\n差一點 剛好留給我們慢慢來\n\n[Verse 2]\n第十個星期六 我加了蘿蔔丁\n妳站在廚房門口 一句話也不說\n吃到一半 妳打給妳媽\n說有個人 麵煮得還可以\n\n[Pre-Chorus]\n電話那頭笑得好大聲\n我假裝洗碗 把水開到最大\n\n[Chorus - organ enters]\n就算我一輩子拌不出妳家巷口那一碗\n我還是每個星期六 把芝麻醬調開\n妳說今天這碗 差不多了\n差不多 就夠我再煮好幾十年\n\n[Outro - guitars ring out]\n下個週六 妳說換妳來煮\n我坐在旁邊 負責說差一點"
+  },
+  "seed": "2608924580",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.06s**\n- 67.06s per song\n- LM phase (1 song): 10.32s\n- DiT phase (1 song): 56.74s",
+  "task_id": "20e86803-3ab1-4c00-b5b0-6296c34522b8",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-13T22:53:58.478136+08:00",
+  "audio": "b8_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.5,
+      "end": 25.5,
+      "text": "[Intro - jangly twelve-string guitar and tambourine]"
+    },
+    {
+      "t": 25.5,
+      "end": 25.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.5,
+      "end": 31.78,
+      "text": "妳說武漢的早上是芝麻醬的味道"
+    },
+    {
+      "t": 34.04,
+      "end": 36.2,
+      "text": "我買了鹼水麵 照著影片一步步做"
+    },
+    {
+      "t": 36.2,
+      "end": 37.8,
+      "text": "第一碗太乾 第二碗太鹹"
+    },
+    {
+      "t": 38.34,
+      "end": 41.78,
+      "text": "妳還是吃完 說下禮拜再來"
+    },
+    {
+      "t": 42.82,
+      "end": 42.82,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.82,
+      "end": 48.34,
+      "text": "週六八點 鍋子比妳先醒"
+    },
+    {
+      "t": 51.13,
+      "end": 56.61,
+      "text": "妳在被子裡數我又失敗幾次"
+    },
+    {
+      "t": 59.13,
+      "end": 59.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.13,
+      "end": 61.25,
+      "text": "就算我一輩子拌不出妳家巷口那一碗"
+    },
+    {
+      "t": 61.25,
+      "end": 66.09,
+      "text": "我還是每個星期六 把芝麻醬調開"
+    },
+    {
+      "t": 69.59,
+      "end": 73.73,
+      "text": "妳說差一點 我說那就下次"
+    },
+    {
+      "t": 78.05,
+      "end": 82.51,
+      "text": "差一點 剛好留給我們慢慢來"
+    },
+    {
+      "t": 87.47,
+      "end": 87.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.47,
+      "end": 89.87,
+      "text": "第十個星期六 我加了蘿蔔丁"
+    },
+    {
+      "t": 90.43,
+      "end": 94.01,
+      "text": "妳站在廚房門口 一句話也不說"
+    },
+    {
+      "t": 95.67,
+      "end": 98.19,
+      "text": "吃到一半 妳打給妳媽"
+    },
+    {
+      "t": 98.23,
+      "end": 103.71,
+      "text": "說有個人 麵煮得還可以"
+    },
+    {
+      "t": 103.73,
+      "end": 103.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.73,
+      "end": 111.35,
+      "text": "電話那頭笑得好大聲"
+    },
+    {
+      "t": 111.37,
+      "end": 115.73,
+      "text": "我假裝洗碗 把水開到最大"
+    },
+    {
+      "t": 115.91,
+      "end": 115.91,
+      "text": "[Chorus - organ enters]"
+    },
+    {
+      "t": 115.91,
+      "end": 125.41,
+      "text": "就算我一輩子拌不出妳家巷口那一碗"
+    },
+    {
+      "t": 125.49,
+      "end": 138.17,
+      "text": "我還是每個星期六 把芝麻醬調開"
+    },
+    {
+      "t": 141.01,
+      "end": 145.51,
+      "text": "妳說今天這碗 差不多了"
+    },
+    {
+      "t": 145.57,
+      "end": 150.42,
+      "text": "差不多 就夠我再煮好幾十年"
+    },
+    {
+      "t": 156.46,
+      "end": 156.46,
+      "text": "[Outro - guitars ring out]"
+    },
+    {
+      "t": 156.46,
+      "end": 171.32,
+      "text": "下個週六 妳說換妳來煮"
+    },
+    {
+      "t": 173.06,
+      "end": 178.38,
+      "text": "我坐在旁邊 負責說差一點"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Intro - jangly twelve-string guitar and tambourine]"
+    },
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.56,
+      "end": 31.8,
+      "text": "妳說武漢的早上是芝麻醬的味道"
+    },
+    {
+      "t": 34.04,
+      "end": 36.2,
+      "text": "我買了鹼水麵 照著影片一步步做"
+    },
+    {
+      "t": 36.2,
+      "end": 37.8,
+      "text": "第一碗太乾 第二碗太鹹"
+    },
+    {
+      "t": 38.34,
+      "end": 41.78,
+      "text": "妳還是吃完 說下禮拜再來"
+    },
+    {
+      "t": 42.82,
+      "end": 42.82,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.82,
+      "end": 48.32,
+      "text": "週六八點 鍋子比妳先醒"
+    },
+    {
+      "t": 51.11,
+      "end": 56.59,
+      "text": "妳在被子裡數我又失敗幾次"
+    },
+    {
+      "t": 59.13,
+      "end": 59.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.13,
+      "end": 62.85,
+      "text": "就算我一輩子拌不出妳家巷口那一碗"
+    },
+    {
+      "t": 62.85,
+      "end": 66.11,
+      "text": "我還是每個星期六 把芝麻醬調開"
+    },
+    {
+      "t": 69.53,
+      "end": 73.73,
+      "text": "妳說差一點 我說那就下次"
+    },
+    {
+      "t": 78.05,
+      "end": 82.51,
+      "text": "差一點 剛好留給我們慢慢來"
+    },
+    {
+      "t": 87.47,
+      "end": 87.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.47,
+      "end": 89.91,
+      "text": "第十個星期六 我加了蘿蔔丁"
+    },
+    {
+      "t": 90.41,
+      "end": 93.97,
+      "text": "妳站在廚房門口 一句話也不說"
+    },
+    {
+      "t": 95.67,
+      "end": 98.17,
+      "text": "吃到一半 妳打給妳媽"
+    },
+    {
+      "t": 103.31,
+      "end": 104.21,
+      "text": "說有個人 麵煮得還可以"
+    },
+    {
+      "t": 104.21,
+      "end": 104.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.21,
+      "end": 108.25,
+      "text": "電話那頭笑得好大聲"
+    },
+    {
+      "t": 111.33,
+      "end": 115.73,
+      "text": "我假裝洗碗 把水開到最大"
+    },
+    {
+      "t": 119.61,
+      "end": 119.61,
+      "text": "[Chorus - organ enters]"
+    },
+    {
+      "t": 119.61,
+      "end": 125.41,
+      "text": "就算我一輩子拌不出妳家巷口那一碗"
+    },
+    {
+      "t": 125.49,
+      "end": 140.99,
+      "text": "我還是每個星期六 把芝麻醬調開"
+    },
+    {
+      "t": 140.99,
+      "end": 145.23,
+      "text": "妳說今天這碗 差不多了"
+    },
+    {
+      "t": 145.29,
+      "end": 150.44,
+      "text": "差不多 就夠我再煮好幾十年"
+    },
+    {
+      "t": 165.12,
+      "end": 165.12,
+      "text": "[Outro - guitars ring out]"
+    },
+    {
+      "t": 165.12,
+      "end": 171.32,
+      "text": "下個週六 妳說換妳來煮"
+    },
+    {
+      "t": 173.38,
+      "end": 179.44,
+      "text": "我坐在旁邊 負責說差一點"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b8_ms02",
+  "title": "Payung Satu",
+  "title_source": "scripted",
+  "genre": "Inang-dangdut (traditional Malay inang pop)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "tender, shy and warm",
+  "persona": "",
+  "subject": "a newly married couple sharing one small umbrella from the LRT station to their flat, the husband letting his own shoulder get soaked",
+  "caption": "Inang-dangdut, the modern traditional Malay inang style of Siti Nurhaliza's 2025 traditional album. A Malay violin playing ornamented lines between phrases; an accordion holding the harmony with gentle bellows swells; rebana frame drum and kendang locked in the lilting inang rhythm with a soft dangdut lift; a gambus plucking short answering figures; a soft upright bass. Warm and roomy, violin and voice forward, light hall reverb. Female voice, clear sweet soprano with traditional Malay grace notes on the long vowels; a soft male voice joining in harmony on the last chorus. 112 BPM, D minor. Tender, shy and warm. No pop ballad piano, no trap beat, no autotune, no electric guitar solo, no synth pads.",
+  "lyrics": "[Intro - violin and accordion over rebana]\n\n[Verse 1]\nHujan turun masa kita keluar stesen\nPayung kecil, bunga biru, beli di Jalan Masjid India\nAbang pegang hulu, condong ke arah saya\nBahu kiri abang dah basah kuyup sampai siku\n\n[Pre-Chorus]\nSaya kata rapat sikit, abang buat tak dengar\nSenyum macam tak ada apa-apa\n\n[Chorus]\nPayung satu, kita berdua\nTujuh minit ke pintu rumah kita\nAbang basah, saya kering\nItu cara abang cakap sayang\n\n[Verse 2]\nSampai lobi, abang perah lengan baju\nPak guard ketawa, dah tiga hari begitu\nEsok saya beli payung yang lebih besar\nAbang kata tak payah, yang ini cukup\n\n[Pre-Chorus]\nRupanya bukan pasal hujan\nAbang cuma nak jalan dekat\n\n[Chorus - male voice joins]\nPayung satu, kita berdua\nTujuh minit ke pintu rumah kita\nEsok saya pegang hulu\nBiar bahu saya pula yang basah\n\n[Outro - violin alone]\nHujan dah berhenti\nKita jalan lambat lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Inang-dangdut, the modern traditional Malay inang style of Siti Nurhaliza's 2025 traditional album. A Malay violin playing ornamented lines between phrases; an accordion holding the harmony with gentle bellows swells; rebana frame drum and kendang locked in the lilting inang rhythm with a soft dangdut lift; a gambus plucking short answering figures; a soft upright bass. Warm and roomy, violin and voice forward, light hall reverb. Female voice, clear sweet soprano with traditional Malay grace notes on the long vowels; a soft male voice joining in harmony on the last chorus. 112 BPM, D minor. Tender, shy and warm. No pop ballad piano, no trap beat, no autotune, no electric guitar solo, no synth pads.",
+    "lyrics": "[Intro - violin and accordion over rebana]\n\n[Verse 1]\nHujan turun masa kita keluar stesen\nPayung kecil, bunga biru, beli di Jalan Masjid India\nAbang pegang hulu, condong ke arah saya\nBahu kiri abang dah basah kuyup sampai siku\n\n[Pre-Chorus]\nSaya kata rapat sikit, abang buat tak dengar\nSenyum macam tak ada apa-apa\n\n[Chorus]\nPayung satu, kita berdua\nTujuh minit ke pintu rumah kita\nAbang basah, saya kering\nItu cara abang cakap sayang\n\n[Verse 2]\nSampai lobi, abang perah lengan baju\nPak guard ketawa, dah tiga hari begitu\nEsok saya beli payung yang lebih besar\nAbang kata tak payah, yang ini cukup\n\n[Pre-Chorus]\nRupanya bukan pasal hujan\nAbang cuma nak jalan dekat\n\n[Chorus - male voice joins]\nPayung satu, kita berdua\nTujuh minit ke pintu rumah kita\nEsok saya pegang hulu\nBiar bahu saya pula yang basah\n\n[Outro - violin alone]\nHujan dah berhenti\nKita jalan lambat lagi"
+  },
+  "seed": "2029345430",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.37s**\n- 74.37s per song\n- LM phase (1 song): 19.78s\n- DiT phase (1 song): 54.59s",
+  "task_id": "2befec80-15c8-4294-bf1b-e032c44423ee",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-10-13T22:17:33.384540+08:00",
+  "audio": "b8_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 8.98,
+      "end": 8.98,
+      "text": "[Intro - violin and accordion over rebana]"
+    },
+    {
+      "t": 8.98,
+      "end": 8.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.98,
+      "end": 17.6,
+      "text": "Hujan turun masa kita keluar stesen"
+    },
+    {
+      "t": 17.6,
+      "end": 26.88,
+      "text": "Payung kecil, bunga biru, beli di Jalan Masjid India"
+    },
+    {
+      "t": 27.06,
+      "end": 34.52,
+      "text": "Abang pegang hulu, condong ke arah saya"
+    },
+    {
+      "t": 37.46,
+      "end": 42.66,
+      "text": "Bahu kiri abang dah basah kuyup sampai siku"
+    },
+    {
+      "t": 45.98,
+      "end": 45.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.98,
+      "end": 51.83,
+      "text": "Saya kata rapat sikit, abang buat tak dengar"
+    },
+    {
+      "t": 52.69,
+      "end": 57.69,
+      "text": "Senyum macam tak ada apa-apa"
+    },
+    {
+      "t": 58.37,
+      "end": 58.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.37,
+      "end": 62.63,
+      "text": "Payung satu, kita berdua"
+    },
+    {
+      "t": 62.63,
+      "end": 65.31,
+      "text": "Tujuh minit ke pintu rumah kita"
+    },
+    {
+      "t": 66.71,
+      "end": 72.61,
+      "text": "Abang basah, saya kering"
+    },
+    {
+      "t": 72.87,
+      "end": 76.69,
+      "text": "Itu cara abang cakap sayang"
+    },
+    {
+      "t": 77.23,
+      "end": 77.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.23,
+      "end": 94.33,
+      "text": "Sampai lobi, abang perah lengan baju"
+    },
+    {
+      "t": 97.65,
+      "end": 100.79,
+      "text": "Pak guard ketawa, dah tiga hari begitu"
+    },
+    {
+      "t": 102.07,
+      "end": 110.79,
+      "text": "Esok saya beli payung yang lebih besar"
+    },
+    {
+      "t": 110.89,
+      "end": 117.27,
+      "text": "Abang kata tak payah, yang ini cukup"
+    },
+    {
+      "t": 117.47,
+      "end": 117.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 117.47,
+      "end": 123.31,
+      "text": "Rupanya bukan pasal hujan"
+    },
+    {
+      "t": 123.55,
+      "end": 126.61,
+      "text": "Abang cuma nak jalan dekat"
+    },
+    {
+      "t": 126.87,
+      "end": 126.87,
+      "text": "[Chorus - male voice joins]"
+    },
+    {
+      "t": 126.87,
+      "end": 130.71,
+      "text": "Payung satu, kita berdua"
+    },
+    {
+      "t": 131.33,
+      "end": 134.89,
+      "text": "Tujuh minit ke pintu rumah kita"
+    },
+    {
+      "t": 135.61,
+      "end": 143.33,
+      "text": "Esok saya pegang hulu"
+    },
+    {
+      "t": 143.97,
+      "end": 153.22,
+      "text": "Biar bahu saya pula yang basah"
+    },
+    {
+      "t": 153.24,
+      "end": 153.24,
+      "text": "[Outro - violin alone]"
+    },
+    {
+      "t": 153.24,
+      "end": 175.46,
+      "text": "Hujan dah berhenti"
+    },
+    {
+      "t": 182.9,
+      "end": 188.02,
+      "text": "Kita jalan lambat lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 8.98,
+      "end": 8.98,
+      "text": "[Intro - violin and accordion over rebana]"
+    },
+    {
+      "t": 8.98,
+      "end": 8.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.98,
+      "end": 17.6,
+      "text": "Hujan turun masa kita keluar stesen"
+    },
+    {
+      "t": 17.6,
+      "end": 26.88,
+      "text": "Payung kecil, bunga biru, beli di Jalan Masjid India"
+    },
+    {
+      "t": 27.06,
+      "end": 34.52,
+      "text": "Abang pegang hulu, condong ke arah saya"
+    },
+    {
+      "t": 37.46,
+      "end": 42.66,
+      "text": "Bahu kiri abang dah basah kuyup sampai siku"
+    },
+    {
+      "t": 45.98,
+      "end": 45.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.98,
+      "end": 51.83,
+      "text": "Saya kata rapat sikit, abang buat tak dengar"
+    },
+    {
+      "t": 52.69,
+      "end": 57.69,
+      "text": "Senyum macam tak ada apa-apa"
+    },
+    {
+      "t": 58.37,
+      "end": 58.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.37,
+      "end": 62.63,
+      "text": "Payung satu, kita berdua"
+    },
+    {
+      "t": 62.63,
+      "end": 65.31,
+      "text": "Tujuh minit ke pintu rumah kita"
+    },
+    {
+      "t": 66.71,
+      "end": 72.61,
+      "text": "Abang basah, saya kering"
+    },
+    {
+      "t": 72.87,
+      "end": 76.69,
+      "text": "Itu cara abang cakap sayang"
+    },
+    {
+      "t": 77.23,
+      "end": 77.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.23,
+      "end": 94.33,
+      "text": "Sampai lobi, abang perah lengan baju"
+    },
+    {
+      "t": 97.65,
+      "end": 100.79,
+      "text": "Pak guard ketawa, dah tiga hari begitu"
+    },
+    {
+      "t": 102.07,
+      "end": 110.79,
+      "text": "Esok saya beli payung yang lebih besar"
+    },
+    {
+      "t": 110.89,
+      "end": 117.27,
+      "text": "Abang kata tak payah, yang ini cukup"
+    },
+    {
+      "t": 117.47,
+      "end": 117.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 117.47,
+      "end": 123.31,
+      "text": "Rupanya bukan pasal hujan"
+    },
+    {
+      "t": 123.55,
+      "end": 126.61,
+      "text": "Abang cuma nak jalan dekat"
+    },
+    {
+      "t": 126.87,
+      "end": 126.87,
+      "text": "[Chorus - male voice joins]"
+    },
+    {
+      "t": 126.87,
+      "end": 130.71,
+      "text": "Payung satu, kita berdua"
+    },
+    {
+      "t": 131.33,
+      "end": 134.89,
+      "text": "Tujuh minit ke pintu rumah kita"
+    },
+    {
+      "t": 135.61,
+      "end": 143.33,
+      "text": "Esok saya pegang hulu"
+    },
+    {
+      "t": 143.97,
+      "end": 153.22,
+      "text": "Biar bahu saya pula yang basah"
+    },
+    {
+      "t": 153.24,
+      "end": 153.24,
+      "text": "[Outro - violin alone]"
+    },
+    {
+      "t": 153.24,
+      "end": 175.46,
+      "text": "Hujan dah berhenti"
+    },
+    {
+      "t": 182.9,
+      "end": 188.02,
+      "text": "Kita jalan lambat lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 3.46,
+      "end": 3.46,
+      "text": "[Intro - violin and accordion over rebana]"
+    },
+    {
+      "t": 3.46,
+      "end": 3.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.46,
+      "end": 23.06,
+      "text": "Hujan turun masa kita keluar stesen"
+    },
+    {
+      "t": 23.06,
+      "end": 24.5,
+      "text": "Payung kecil, bunga biru, beli di Jalan Masjid India"
+    },
+    {
+      "t": 24.52,
+      "end": 36.18,
+      "text": "Abang pegang hulu, condong ke arah saya"
+    },
+    {
+      "t": 37.46,
+      "end": 42.68,
+      "text": "Bahu kiri abang dah basah kuyup sampai siku"
+    },
+    {
+      "t": 45.98,
+      "end": 45.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.98,
+      "end": 51.79,
+      "text": "Saya kata rapat sikit, abang buat tak dengar"
+    },
+    {
+      "t": 52.69,
+      "end": 57.67,
+      "text": "Senyum macam tak ada apa-apa"
+    },
+    {
+      "t": 58.37,
+      "end": 58.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.37,
+      "end": 62.63,
+      "text": "Payung satu, kita berdua"
+    },
+    {
+      "t": 62.63,
+      "end": 65.67,
+      "text": "Tujuh minit ke pintu rumah kita"
+    },
+    {
+      "t": 66.71,
+      "end": 72.59,
+      "text": "Abang basah, saya kering"
+    },
+    {
+      "t": 72.87,
+      "end": 76.61,
+      "text": "Itu cara abang cakap sayang"
+    },
+    {
+      "t": 76.79,
+      "end": 76.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.79,
+      "end": 94.35,
+      "text": "Sampai lobi, abang perah lengan baju"
+    },
+    {
+      "t": 97.65,
+      "end": 100.81,
+      "text": "Pak guard ketawa, dah tiga hari begitu"
+    },
+    {
+      "t": 102.07,
+      "end": 110.81,
+      "text": "Esok saya beli payung yang lebih besar"
+    },
+    {
+      "t": 110.89,
+      "end": 117.27,
+      "text": "Abang kata tak payah, yang ini cukup"
+    },
+    {
+      "t": 117.47,
+      "end": 117.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 117.47,
+      "end": 123.33,
+      "text": "Rupanya bukan pasal hujan"
+    },
+    {
+      "t": 123.55,
+      "end": 126.59,
+      "text": "Abang cuma nak jalan dekat"
+    },
+    {
+      "t": 126.87,
+      "end": 126.87,
+      "text": "[Chorus - male voice joins]"
+    },
+    {
+      "t": 126.87,
+      "end": 130.71,
+      "text": "Payung satu, kita berdua"
+    },
+    {
+      "t": 131.35,
+      "end": 134.89,
+      "text": "Tujuh minit ke pintu rumah kita"
+    },
+    {
+      "t": 135.61,
+      "end": 139.09,
+      "text": "Esok saya pegang hulu"
+    },
+    {
+      "t": 143.99,
+      "end": 153.22,
+      "text": "Biar bahu saya pula yang basah"
+    },
+    {
+      "t": 173.96,
+      "end": 173.96,
+      "text": "[Outro - violin alone]"
+    },
+    {
+      "t": 173.96,
+      "end": 175.46,
+      "text": "Hujan dah berhenti"
+    },
+    {
+      "t": 182.9,
+      "end": 188.02,
+      "text": "Kita jalan lambat lagi"
+    }
+  ]
+}

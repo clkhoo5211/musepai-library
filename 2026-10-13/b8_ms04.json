@@ -1,0 +1,489 @@
+{
+  "id": "b8_ms04",
+  "title": "Makan Mana?",
+  "title_source": "scripted",
+  "genre": "Malay conversational duet pop",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "playful, bickering and fond",
+  "persona": "",
+  "subject": "a couple of five years stuck in a parked Myvi at eight at night unable to decide where to eat, ending at the same nasi lemak stall as always",
+  "caption": "Malay conversational duet pop in the mid-tempo 2025 duet style. A fingerpicked steel-string acoustic guitar carrying the groove; an upright piano comping short chords; a brushed drum kit with a soft kick; a warm electric bass; a light string quartet entering only on the last chorus. Intimate and dry, the two voices panned slightly apart, the guitar forward. Male and female duet, both mid register, trading lines like a real conversation and singing the chorus together in close harmony. 96 BPM, E major. Playful, bickering and fond. No slow power-ballad build, no belting climax, no trap beat, no autotune, no EDM.",
+  "lyrics": "[Intro - fingerpicked acoustic guitar]\n\n[Verse 1 - Duet, trading lines]\nSayang, nak makan mana malam ni?\nIkut awak, saya tak kisah\nKedai Thai kat Seksyen Tujuh?\nPedas sangat, perut saya tak larat\n\n[Pre-Chorus]\nEnjin hidup, kereta tak gerak\nKipas aircond pun dah penat\n\n[Chorus - Duet]\nMakan mana, makan mana\nLima tahun soalan yang sama\nLapar tapi masih ketawa\nDengan awak, mana-mana pun boleh\n\n[Verse 2 - Duet, trading lines]\nBurger tepi jalan?\nSemalam dah makan\nSushi kat mall?\nParking penuh, tak nak\n\n[Pre-Chorus]\nPukul sembilan, perut berbunyi\nOkey, kita pergi tempat tu lagi\n\n[Chorus - Duet, strings enter]\nMakan mana, makan mana\nNasi lemak Kak Yah juga akhirnya\nTelur mata, sambal lebih\nDengan awak, tempat yang sama pun cukup\n\n[Outro - guitar and both voices]\nEsok tanya lagi\nEsok jawab lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Malay conversational duet pop in the mid-tempo 2025 duet style. A fingerpicked steel-string acoustic guitar carrying the groove; an upright piano comping short chords; a brushed drum kit with a soft kick; a warm electric bass; a light string quartet entering only on the last chorus. Intimate and dry, the two voices panned slightly apart, the guitar forward. Male and female duet, both mid register, trading lines like a real conversation and singing the chorus together in close harmony. 96 BPM, E major. Playful, bickering and fond. No slow power-ballad build, no belting climax, no trap beat, no autotune, no EDM.",
+    "lyrics": "[Intro - fingerpicked acoustic guitar]\n\n[Verse 1 - Duet, trading lines]\nSayang, nak makan mana malam ni?\nIkut awak, saya tak kisah\nKedai Thai kat Seksyen Tujuh?\nPedas sangat, perut saya tak larat\n\n[Pre-Chorus]\nEnjin hidup, kereta tak gerak\nKipas aircond pun dah penat\n\n[Chorus - Duet]\nMakan mana, makan mana\nLima tahun soalan yang sama\nLapar tapi masih ketawa\nDengan awak, mana-mana pun boleh\n\n[Verse 2 - Duet, trading lines]\nBurger tepi jalan?\nSemalam dah makan\nSushi kat mall?\nParking penuh, tak nak\n\n[Pre-Chorus]\nPukul sembilan, perut berbunyi\nOkey, kita pergi tempat tu lagi\n\n[Chorus - Duet, strings enter]\nMakan mana, makan mana\nNasi lemak Kak Yah juga akhirnya\nTelur mata, sambal lebih\nDengan awak, tempat yang sama pun cukup\n\n[Outro - guitar and both voices]\nEsok tanya lagi\nEsok jawab lagi"
+  },
+  "seed": "1587143343",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 75.44s**\n- 75.44s per song\n- LM phase (1 song): 12.76s\n- DiT phase (1 song): 62.68s",
+  "task_id": "e4ce7a81-b441-4ce4-9315-37a47824f9f5",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-13T22:20:43.575145+08:00",
+  "audio": "b8_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.28,
+      "end": 28.28,
+      "text": "[Intro - fingerpicked acoustic guitar]"
+    },
+    {
+      "t": 28.28,
+      "end": 28.28,
+      "text": "[Verse 1 - Duet, trading lines]"
+    },
+    {
+      "t": 28.28,
+      "end": 33.3,
+      "text": "Sayang, nak makan mana malam ni?"
+    },
+    {
+      "t": 37.88,
+      "end": 43.52,
+      "text": "Ikut awak, saya tak kisah"
+    },
+    {
+      "t": 43.6,
+      "end": 49.77,
+      "text": "Kedai Thai kat Seksyen Tujuh?"
+    },
+    {
+      "t": 49.77,
+      "end": 57.95,
+      "text": "Pedas sangat, perut saya tak larat"
+    },
+    {
+      "t": 58.01,
+      "end": 58.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.01,
+      "end": 62.33,
+      "text": "Enjin hidup, kereta tak gerak"
+    },
+    {
+      "t": 62.99,
+      "end": 65.55,
+      "text": "Kipas aircond pun dah penat"
+    },
+    {
+      "t": 65.55,
+      "end": 65.55,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 65.55,
+      "end": 66.85,
+      "text": "Makan mana, makan mana"
+    },
+    {
+      "t": 66.85,
+      "end": 68.83,
+      "text": "Lima tahun soalan yang sama"
+    },
+    {
+      "t": 68.89,
+      "end": 72.29,
+      "text": "Lapar tapi masih ketawa"
+    },
+    {
+      "t": 73.77,
+      "end": 80.13,
+      "text": "Dengan awak, mana-mana pun boleh"
+    },
+    {
+      "t": 80.13,
+      "end": 80.13,
+      "text": "[Verse 2 - Duet, trading lines]"
+    },
+    {
+      "t": 80.13,
+      "end": 85.41,
+      "text": "Burger tepi jalan?"
+    },
+    {
+      "t": 85.41,
+      "end": 86.93,
+      "text": "Semalam dah makan"
+    },
+    {
+      "t": 86.97,
+      "end": 87.57,
+      "text": "Sushi kat mall?"
+    },
+    {
+      "t": 87.59,
+      "end": 97.69,
+      "text": "Parking penuh, tak nak"
+    },
+    {
+      "t": 97.69,
+      "end": 97.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.69,
+      "end": 102.99,
+      "text": "Pukul sembilan, perut berbunyi"
+    },
+    {
+      "t": 107.29,
+      "end": 111.47,
+      "text": "Okey, kita pergi tempat tu lagi"
+    },
+    {
+      "t": 111.63,
+      "end": 111.63,
+      "text": "[Chorus - Duet, strings enter]"
+    },
+    {
+      "t": 111.63,
+      "end": 124.71,
+      "text": "Makan mana, makan mana"
+    },
+    {
+      "t": 124.87,
+      "end": 128.13,
+      "text": "Nasi lemak Kak Yah juga akhirnya"
+    },
+    {
+      "t": 128.13,
+      "end": 160.8,
+      "text": "Telur mata, sambal lebih"
+    },
+    {
+      "t": 160.8,
+      "end": 164.92,
+      "text": "Dengan awak, tempat yang sama pun cukup"
+    },
+    {
+      "t": 164.98,
+      "end": 164.98,
+      "text": "[Outro - guitar and both voices]"
+    },
+    {
+      "t": 164.98,
+      "end": 167.5,
+      "text": "Esok tanya lagi"
+    },
+    {
+      "t": 175.0,
+      "end": 177.58,
+      "text": "Esok jawab lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.28,
+      "end": 28.28,
+      "text": "[Intro - fingerpicked acoustic guitar]"
+    },
+    {
+      "t": 28.28,
+      "end": 28.28,
+      "text": "[Verse 1 - Duet, trading lines]"
+    },
+    {
+      "t": 28.28,
+      "end": 33.3,
+      "text": "Sayang, nak makan mana malam ni?"
+    },
+    {
+      "t": 37.88,
+      "end": 43.52,
+      "text": "Ikut awak, saya tak kisah"
+    },
+    {
+      "t": 43.6,
+      "end": 49.77,
+      "text": "Kedai Thai kat Seksyen Tujuh?"
+    },
+    {
+      "t": 49.77,
+      "end": 57.95,
+      "text": "Pedas sangat, perut saya tak larat"
+    },
+    {
+      "t": 58.01,
+      "end": 58.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.01,
+      "end": 62.33,
+      "text": "Enjin hidup, kereta tak gerak"
+    },
+    {
+      "t": 62.99,
+      "end": 65.55,
+      "text": "Kipas aircond pun dah penat"
+    },
+    {
+      "t": 65.55,
+      "end": 65.55,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 65.55,
+      "end": 66.85,
+      "text": "Makan mana, makan mana"
+    },
+    {
+      "t": 66.85,
+      "end": 68.83,
+      "text": "Lima tahun soalan yang sama"
+    },
+    {
+      "t": 68.89,
+      "end": 72.29,
+      "text": "Lapar tapi masih ketawa"
+    },
+    {
+      "t": 73.77,
+      "end": 80.13,
+      "text": "Dengan awak, mana-mana pun boleh"
+    },
+    {
+      "t": 80.13,
+      "end": 80.13,
+      "text": "[Verse 2 - Duet, trading lines]"
+    },
+    {
+      "t": 80.13,
+      "end": 85.41,
+      "text": "Burger tepi jalan?"
+    },
+    {
+      "t": 85.41,
+      "end": 86.93,
+      "text": "Semalam dah makan"
+    },
+    {
+      "t": 86.97,
+      "end": 87.57,
+      "text": "Sushi kat mall?"
+    },
+    {
+      "t": 87.59,
+      "end": 97.69,
+      "text": "Parking penuh, tak nak"
+    },
+    {
+      "t": 97.69,
+      "end": 97.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.69,
+      "end": 102.99,
+      "text": "Pukul sembilan, perut berbunyi"
+    },
+    {
+      "t": 107.29,
+      "end": 111.47,
+      "text": "Okey, kita pergi tempat tu lagi"
+    },
+    {
+      "t": 111.63,
+      "end": 111.63,
+      "text": "[Chorus - Duet, strings enter]"
+    },
+    {
+      "t": 111.63,
+      "end": 124.71,
+      "text": "Makan mana, makan mana"
+    },
+    {
+      "t": 124.87,
+      "end": 128.13,
+      "text": "Nasi lemak Kak Yah juga akhirnya"
+    },
+    {
+      "t": 128.13,
+      "end": 160.8,
+      "text": "Telur mata, sambal lebih"
+    },
+    {
+      "t": 160.8,
+      "end": 164.92,
+      "text": "Dengan awak, tempat yang sama pun cukup"
+    },
+    {
+      "t": 164.98,
+      "end": 164.98,
+      "text": "[Outro - guitar and both voices]"
+    },
+    {
+      "t": 164.98,
+      "end": 167.5,
+      "text": "Esok tanya lagi"
+    },
+    {
+      "t": 175.0,
+      "end": 177.58,
+      "text": "Esok jawab lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 28.28,
+      "end": 28.28,
+      "text": "[Intro - fingerpicked acoustic guitar]"
+    },
+    {
+      "t": 28.28,
+      "end": 28.28,
+      "text": "[Verse 1 - Duet, trading lines]"
+    },
+    {
+      "t": 28.28,
+      "end": 33.3,
+      "text": "Sayang, nak makan mana malam ni?"
+    },
+    {
+      "t": 37.88,
+      "end": 40.86,
+      "text": "Ikut awak, saya tak kisah"
+    },
+    {
+      "t": 40.9,
+      "end": 43.0,
+      "text": "Kedai Thai kat Seksyen Tujuh?"
+    },
+    {
+      "t": 43.1,
+      "end": 51.23,
+      "text": "Pedas sangat, perut saya tak larat"
+    },
+    {
+      "t": 51.27,
+      "end": 51.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.27,
+      "end": 54.11,
+      "text": "Enjin hidup, kereta tak gerak"
+    },
+    {
+      "t": 54.13,
+      "end": 61.11,
+      "text": "Kipas aircond pun dah penat"
+    },
+    {
+      "t": 61.19,
+      "end": 61.19,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 61.19,
+      "end": 62.19,
+      "text": "Makan mana, makan mana"
+    },
+    {
+      "t": 62.99,
+      "end": 67.53,
+      "text": "Lima tahun soalan yang sama"
+    },
+    {
+      "t": 68.69,
+      "end": 72.29,
+      "text": "Lapar tapi masih ketawa"
+    },
+    {
+      "t": 73.77,
+      "end": 80.15,
+      "text": "Dengan awak, mana-mana pun boleh"
+    },
+    {
+      "t": 83.89,
+      "end": 83.89,
+      "text": "[Verse 2 - Duet, trading lines]"
+    },
+    {
+      "t": 83.89,
+      "end": 84.81,
+      "text": "Burger tepi jalan?"
+    },
+    {
+      "t": 84.83,
+      "end": 86.11,
+      "text": "Semalam dah makan"
+    },
+    {
+      "t": 86.13,
+      "end": 86.85,
+      "text": "Sushi kat mall?"
+    },
+    {
+      "t": 86.85,
+      "end": 97.43,
+      "text": "Parking penuh, tak nak"
+    },
+    {
+      "t": 97.49,
+      "end": 97.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.49,
+      "end": 102.95,
+      "text": "Pukul sembilan, perut berbunyi"
+    },
+    {
+      "t": 107.29,
+      "end": 111.47,
+      "text": "Okey, kita pergi tempat tu lagi"
+    },
+    {
+      "t": 111.59,
+      "end": 111.59,
+      "text": "[Chorus - Duet, strings enter]"
+    },
+    {
+      "t": 111.59,
+      "end": 112.97,
+      "text": "Makan mana, makan mana"
+    },
+    {
+      "t": 112.99,
+      "end": 118.13,
+      "text": "Nasi lemak Kak Yah juga akhirnya"
+    },
+    {
+      "t": 119.11,
+      "end": 123.99,
+      "text": "Telur mata, sambal lebih"
+    },
+    {
+      "t": 124.59,
+      "end": 160.8,
+      "text": "Dengan awak, tempat yang sama pun cukup"
+    },
+    {
+      "t": 160.88,
+      "end": 160.88,
+      "text": "[Outro - guitar and both voices]"
+    },
+    {
+      "t": 160.88,
+      "end": 162.48,
+      "text": "Esok tanya lagi"
+    },
+    {
+      "t": 164.98,
+      "end": 177.58,
+      "text": "Esok jawab lagi"
+    }
+  ]
+}

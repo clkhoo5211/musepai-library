@@ -1,0 +1,337 @@
+{
+  "id": "b8_zh01",
+  "title": "師傅這首是DJ版",
+  "title_source": "scripted",
+  "genre": "Douyin car-DJ remix pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "sleepy turning giddy, laughing at himself",
+  "persona": "",
+  "subject": "a ride-hailing passenger in a suit at 2 a.m. whose driver only plays DJ remixes of old love songs, and who ends up asking to go around the block again",
+  "caption": "Douyin car-DJ remix pop in the Chinese 車載DJ / 慢搖 style, an old Mandopop love-song melody rebuilt for a club. A hard four-on-the-floor kick with an offbeat open hi-hat; a plucked supersaw synth lead doubling the vocal melody between lines; a sidechained pumping synth bass; snare-roll risers into each chorus. Loud, compressed and bright with a heavy sub low end, mixed like a car stereo turned all the way up. Male tenor, casual and conversational in the verses, belting the chorus like a KTV regular. 128 BPM, A minor. Sleepy turning giddy, laughing at himself. No trap hi-hats, no autotune, no dubstep wobble drop, no rap verse, no acoustic ballad intro.",
+  "lyrics": "[Intro - four-on-the-floor kick and plucked synth lead]\n\n[Verse 1]\n凌晨兩點我叫了一台車\n師傅的音響開得像夜店\n西裝領帶我只想睡一下\n他說老闆你聽這首經典\n\n[Pre-Chorus]\n明明是愛如潮水的旋律\n怎麼底下多了動次動次\n\n[Chorus]\n師傅 這首是DJ版\n後座的窗戶都在震\n我說關小聲一點點\n他說好 然後再加三格\n\n[Verse 2]\n過了三個紅燈我開始點頭\n領帶早就塞進公事包\n第五首副歌我先唱出口\n師傅從後照鏡對我笑\n\n[Pre-Chorus]\n導航說還有十二分鐘\n我說要不要繞一下路\n\n[Chorus - snare roll, full drop]\n師傅 這首是DJ版\n整條高架都在晃\n我說再大聲一點點\n他說好 我們再繞一圈\n\n[Outro - synth lead and kick fade]\n到了樓下我還不想下車\n五顆星 備註下次還放這首",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 196.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Douyin car-DJ remix pop in the Chinese 車載DJ / 慢搖 style, an old Mandopop love-song melody rebuilt for a club. A hard four-on-the-floor kick with an offbeat open hi-hat; a plucked supersaw synth lead doubling the vocal melody between lines; a sidechained pumping synth bass; snare-roll risers into each chorus. Loud, compressed and bright with a heavy sub low end, mixed like a car stereo turned all the way up. Male tenor, casual and conversational in the verses, belting the chorus like a KTV regular. 128 BPM, A minor. Sleepy turning giddy, laughing at himself. No trap hi-hats, no autotune, no dubstep wobble drop, no rap verse, no acoustic ballad intro.",
+    "lyrics": "[Intro - four-on-the-floor kick and plucked synth lead]\n\n[Verse 1]\n凌晨兩點我叫了一台車\n師傅的音響開得像夜店\n西裝領帶我只想睡一下\n他說老闆你聽這首經典\n\n[Pre-Chorus]\n明明是愛如潮水的旋律\n怎麼底下多了動次動次\n\n[Chorus]\n師傅 這首是DJ版\n後座的窗戶都在震\n我說關小聲一點點\n他說好 然後再加三格\n\n[Verse 2]\n過了三個紅燈我開始點頭\n領帶早就塞進公事包\n第五首副歌我先唱出口\n師傅從後照鏡對我笑\n\n[Pre-Chorus]\n導航說還有十二分鐘\n我說要不要繞一下路\n\n[Chorus - snare roll, full drop]\n師傅 這首是DJ版\n整條高架都在晃\n我說再大聲一點點\n他說好 我們再繞一圈\n\n[Outro - synth lead and kick fade]\n到了樓下我還不想下車\n五顆星 備註下次還放這首"
+  },
+  "seed": "1168867767",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.09s**\n- 69.09s per song\n- LM phase (1 song): 13.38s\n- DiT phase (1 song): 55.70s",
+  "task_id": "3ad13c70-be28-4b96-8908-8070dc008b2c",
+  "elapsed_s": 81.2,
+  "generated_at": "2026-10-13T22:52:28.257122+08:00",
+  "audio": "b8_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.88,
+      "end": 0.88,
+      "text": "[Intro - four-on-the-floor kick and plucked synth lead]"
+    },
+    {
+      "t": 0.88,
+      "end": 0.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.88,
+      "end": 43.62,
+      "text": "凌晨兩點我叫了一台車"
+    },
+    {
+      "t": 44.64,
+      "end": 48.36,
+      "text": "師傅的音響開得像夜店"
+    },
+    {
+      "t": 52.35,
+      "end": 55.09,
+      "text": "西裝領帶我只想睡一下"
+    },
+    {
+      "t": 55.67,
+      "end": 58.97,
+      "text": "他說老闆你聽這首經典"
+    },
+    {
+      "t": 59.63,
+      "end": 59.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.63,
+      "end": 63.05,
+      "text": "明明是愛如潮水的旋律"
+    },
+    {
+      "t": 63.17,
+      "end": 66.81,
+      "text": "怎麼底下多了動次動次"
+    },
+    {
+      "t": 67.35,
+      "end": 67.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.35,
+      "end": 69.95,
+      "text": "師傅 這首是DJ版"
+    },
+    {
+      "t": 71.13,
+      "end": 74.45,
+      "text": "後座的窗戶都在震"
+    },
+    {
+      "t": 74.87,
+      "end": 78.23,
+      "text": "我說關小聲一點點"
+    },
+    {
+      "t": 78.61,
+      "end": 81.87,
+      "text": "他說好 然後再加三格"
+    },
+    {
+      "t": 82.07,
+      "end": 82.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.07,
+      "end": 107.37,
+      "text": "過了三個紅燈我開始點頭"
+    },
+    {
+      "t": 107.45,
+      "end": 114.07,
+      "text": "領帶早就塞進公事包"
+    },
+    {
+      "t": 114.07,
+      "end": 117.45,
+      "text": "第五首副歌我先唱出口"
+    },
+    {
+      "t": 121.97,
+      "end": 126.27,
+      "text": "師傅從後照鏡對我笑"
+    },
+    {
+      "t": 126.45,
+      "end": 126.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 126.45,
+      "end": 128.67,
+      "text": "導航說還有十二分鐘"
+    },
+    {
+      "t": 129.45,
+      "end": 130.79,
+      "text": "我說要不要繞一下路"
+    },
+    {
+      "t": 130.87,
+      "end": 130.87,
+      "text": "[Chorus - snare roll, full drop]"
+    },
+    {
+      "t": 130.87,
+      "end": 131.85,
+      "text": "師傅 這首是DJ版"
+    },
+    {
+      "t": 131.85,
+      "end": 135.61,
+      "text": "整條高架都在晃"
+    },
+    {
+      "t": 135.63,
+      "end": 146.55,
+      "text": "我說再大聲一點點"
+    },
+    {
+      "t": 148.7,
+      "end": 154.7,
+      "text": "他說好 我們再繞一圈"
+    },
+    {
+      "t": 155.98,
+      "end": 155.98,
+      "text": "[Outro - synth lead and kick fade]"
+    },
+    {
+      "t": 155.98,
+      "end": 160.36,
+      "text": "到了樓下我還不想下車"
+    },
+    {
+      "t": 163.7,
+      "end": 182.6,
+      "text": "五顆星 備註下次還放這首"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 40.9,
+      "end": 40.9,
+      "text": "[Intro - four-on-the-floor kick and plucked synth lead]"
+    },
+    {
+      "t": 40.9,
+      "end": 40.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.9,
+      "end": 43.62,
+      "text": "凌晨兩點我叫了一台車"
+    },
+    {
+      "t": 44.64,
+      "end": 48.34,
+      "text": "師傅的音響開得像夜店"
+    },
+    {
+      "t": 52.35,
+      "end": 55.09,
+      "text": "西裝領帶我只想睡一下"
+    },
+    {
+      "t": 55.67,
+      "end": 59.01,
+      "text": "他說老闆你聽這首經典"
+    },
+    {
+      "t": 59.21,
+      "end": 59.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.21,
+      "end": 63.07,
+      "text": "明明是愛如潮水的旋律"
+    },
+    {
+      "t": 63.17,
+      "end": 66.81,
+      "text": "怎麼底下多了動次動次"
+    },
+    {
+      "t": 67.35,
+      "end": 67.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.35,
+      "end": 67.87,
+      "text": "師傅 這首是DJ版"
+    },
+    {
+      "t": 68.35,
+      "end": 74.47,
+      "text": "後座的窗戶都在震"
+    },
+    {
+      "t": 74.89,
+      "end": 78.23,
+      "text": "我說關小聲一點點"
+    },
+    {
+      "t": 78.59,
+      "end": 81.57,
+      "text": "他說好 然後再加三格"
+    },
+    {
+      "t": 81.59,
+      "end": 81.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.59,
+      "end": 109.71,
+      "text": "過了三個紅燈我開始點頭"
+    },
+    {
+      "t": 109.71,
+      "end": 116.81,
+      "text": "領帶早就塞進公事包"
+    },
+    {
+      "t": 116.85,
+      "end": 123.21,
+      "text": "第五首副歌我先唱出口"
+    },
+    {
+      "t": 123.39,
+      "end": 146.05,
+      "text": "師傅從後照鏡對我笑"
+    },
+    {
+      "t": 146.13,
+      "end": 146.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 146.13,
+      "end": 151.3,
+      "text": "導航說還有十二分鐘"
+    },
+    {
+      "t": 151.3,
+      "end": 152.7,
+      "text": "我說要不要繞一下路"
+    },
+    {
+      "t": 152.7,
+      "end": 152.7,
+      "text": "[Chorus - snare roll, full drop]"
+    },
+    {
+      "t": 152.7,
+      "end": 153.06,
+      "text": "師傅 這首是DJ版"
+    },
+    {
+      "t": 153.06,
+      "end": 159.54,
+      "text": "整條高架都在晃"
+    },
+    {
+      "t": 159.54,
+      "end": 165.4,
+      "text": "我說再大聲一點點"
+    },
+    {
+      "t": 165.92,
+      "end": 167.52,
+      "text": "他說好 我們再繞一圈"
+    },
+    {
+      "t": 167.68,
+      "end": 167.68,
+      "text": "[Outro - synth lead and kick fade]"
+    },
+    {
+      "t": 167.68,
+      "end": 174.6,
+      "text": "到了樓下我還不想下車"
+    },
+    {
+      "t": 174.76,
+      "end": 186.32,
+      "text": "五顆星 備註下次還放這首"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

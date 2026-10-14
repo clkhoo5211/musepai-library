@@ -1,0 +1,474 @@
+{
+  "id": "b8_en04",
+  "title": "Half-Smoke, All The Way",
+  "title_source": "scripted",
+  "genre": "DC go-go",
+  "language": "en",
+  "language_name": "English",
+  "mood": "rowdy, hungry and grinning",
+  "persona": "",
+  "subject": "a lunchtime food-truck line on a DC sidewalk where the cook calls out orders in rhythm",
+  "caption": "DC go-go in the classic live-band pocket. Congas and timbales driving the syncopated go-go swing beat with a cowbell on top; a tight kick and snare pocket; a busy funk bass; short brass horn section blasts on the hits; keyboard organ stabs. Live and sweaty, percussion forward, the crowd answers mixed loud, no gaps between sections. Male lead talker, a raspy baritone running call-and-response with a crowd that shouts back every line, chanting the chorus. 96 BPM, E minor. Rowdy, hungry and grinning. No trap hi-hats, no autotune, no drum machine, no EDM drop, no rap verse over a beat track.",
+  "lyrics": "[Intro - congas, cowbell and timbales]\n\n[Verse 1]\nTwelve-oh-two on Fourteenth Street, the line's around the corner\nBig Tony in the window got the tongs up like a drumstick\nHe don't write nothing down, he just calls it on the beat\nHalf-smoke, chili, onions, now who's next, who's next\n\n[Pre-Chorus]\nIf you're hungry say yeah\nYeah\nIf you're late for work say yeah\nYeah\n\n[Chorus]\nHalf-smoke, all the way\nBig Tony, what you say\nMustard on the left side, napkin in the bag\nHalf-smoke, all the way\n\n[Verse 2]\nLady from the bank wants it no onion, Tony shakes his head\nMan in the suit tryna pay with his phone, Tony points at the sign\nCash only since 1998, he hollers it in time\nWhole line stomping on the sidewalk like a show\n\n[Chorus - crowd louder]\nHalf-smoke, all the way\nBig Tony, what you say\nCash in the bucket and the cheese on top\nHalf-smoke, and the beat don't stop\n\n[Outro - horns and percussion]\nTony says come back tomorrow\nSame time, same song",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "DC go-go in the classic live-band pocket. Congas and timbales driving the syncopated go-go swing beat with a cowbell on top; a tight kick and snare pocket; a busy funk bass; short brass horn section blasts on the hits; keyboard organ stabs. Live and sweaty, percussion forward, the crowd answers mixed loud, no gaps between sections. Male lead talker, a raspy baritone running call-and-response with a crowd that shouts back every line, chanting the chorus. 96 BPM, E minor. Rowdy, hungry and grinning. No trap hi-hats, no autotune, no drum machine, no EDM drop, no rap verse over a beat track.",
+    "lyrics": "[Intro - congas, cowbell and timbales]\n\n[Verse 1]\nTwelve-oh-two on Fourteenth Street, the line's around the corner\nBig Tony in the window got the tongs up like a drumstick\nHe don't write nothing down, he just calls it on the beat\nHalf-smoke, chili, onions, now who's next, who's next\n\n[Pre-Chorus]\nIf you're hungry say yeah\nYeah\nIf you're late for work say yeah\nYeah\n\n[Chorus]\nHalf-smoke, all the way\nBig Tony, what you say\nMustard on the left side, napkin in the bag\nHalf-smoke, all the way\n\n[Verse 2]\nLady from the bank wants it no onion, Tony shakes his head\nMan in the suit tryna pay with his phone, Tony points at the sign\nCash only since 1998, he hollers it in time\nWhole line stomping on the sidewalk like a show\n\n[Chorus - crowd louder]\nHalf-smoke, all the way\nBig Tony, what you say\nCash in the bucket and the cheese on top\nHalf-smoke, and the beat don't stop\n\n[Outro - horns and percussion]\nTony says come back tomorrow\nSame time, same song"
+  },
+  "seed": "2754599244",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.74s**\n- 73.74s per song\n- LM phase (1 song): 11.80s\n- DiT phase (1 song): 61.94s",
+  "task_id": "6d17df0e-7fad-4d33-8bf1-eea82339ae02",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-13T22:49:47.015472+08:00",
+  "audio": "b8_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - congas, cowbell and timbales]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 7.96,
+      "text": "Twelve-oh-two on Fourteenth Street, the line's around the corner"
+    },
+    {
+      "t": 8.16,
+      "end": 25.6,
+      "text": "Big Tony in the window got the tongs up like a drumstick"
+    },
+    {
+      "t": 25.6,
+      "end": 30.72,
+      "text": "He don't write nothing down, he just calls it on the beat"
+    },
+    {
+      "t": 30.72,
+      "end": 32.94,
+      "text": "Half-smoke, chili, onions, now who's next, who's next"
+    },
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.94,
+      "end": 34.1,
+      "text": "If you're hungry say yeah"
+    },
+    {
+      "t": 34.22,
+      "end": 34.42,
+      "text": "Yeah"
+    },
+    {
+      "t": 34.5,
+      "end": 37.6,
+      "text": "If you're late for work say yeah"
+    },
+    {
+      "t": 37.64,
+      "end": 71.31,
+      "text": "Yeah"
+    },
+    {
+      "t": 71.33,
+      "end": 71.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.33,
+      "end": 73.89,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 76.53,
+      "end": 78.99,
+      "text": "Big Tony, what you say"
+    },
+    {
+      "t": 81.23,
+      "end": 85.43,
+      "text": "Mustard on the left side, napkin in the bag"
+    },
+    {
+      "t": 86.29,
+      "end": 88.89,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 90.41,
+      "end": 90.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.41,
+      "end": 94.27,
+      "text": "Lady from the bank wants it no onion, Tony shakes his head"
+    },
+    {
+      "t": 95.47,
+      "end": 100.87,
+      "text": "Man in the suit tryna pay with his phone, Tony points at the sign"
+    },
+    {
+      "t": 101.45,
+      "end": 105.85,
+      "text": "Cash only since 1998, he hollers it in time"
+    },
+    {
+      "t": 105.85,
+      "end": 110.39,
+      "text": "Whole line stomping on the sidewalk like a show"
+    },
+    {
+      "t": 110.89,
+      "end": 110.89,
+      "text": "[Chorus - crowd louder]"
+    },
+    {
+      "t": 110.89,
+      "end": 114.23,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 114.77,
+      "end": 116.19,
+      "text": "Big Tony, what you say"
+    },
+    {
+      "t": 116.19,
+      "end": 118.75,
+      "text": "Cash in the bucket and the cheese on top"
+    },
+    {
+      "t": 126.07,
+      "end": 150.21,
+      "text": "Half-smoke, and the beat don't stop"
+    },
+    {
+      "t": 153.05,
+      "end": 153.05,
+      "text": "[Outro - horns and percussion]"
+    },
+    {
+      "t": 153.05,
+      "end": 197.58,
+      "text": "Tony says come back tomorrow"
+    },
+    {
+      "t": 197.78,
+      "end": 206.26,
+      "text": "Same time, same song"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - congas, cowbell and timbales]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 7.96,
+      "text": "Twelve-oh-two on Fourteenth Street, the line's around the corner"
+    },
+    {
+      "t": 8.16,
+      "end": 25.6,
+      "text": "Big Tony in the window got the tongs up like a drumstick"
+    },
+    {
+      "t": 25.6,
+      "end": 30.72,
+      "text": "He don't write nothing down, he just calls it on the beat"
+    },
+    {
+      "t": 30.72,
+      "end": 32.94,
+      "text": "Half-smoke, chili, onions, now who's next, who's next"
+    },
+    {
+      "t": 32.94,
+      "end": 32.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.94,
+      "end": 34.1,
+      "text": "If you're hungry say yeah"
+    },
+    {
+      "t": 34.22,
+      "end": 34.42,
+      "text": "Yeah"
+    },
+    {
+      "t": 34.5,
+      "end": 37.6,
+      "text": "If you're late for work say yeah"
+    },
+    {
+      "t": 37.64,
+      "end": 71.31,
+      "text": "Yeah"
+    },
+    {
+      "t": 71.33,
+      "end": 71.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.33,
+      "end": 73.89,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 76.53,
+      "end": 78.99,
+      "text": "Big Tony, what you say"
+    },
+    {
+      "t": 81.23,
+      "end": 85.43,
+      "text": "Mustard on the left side, napkin in the bag"
+    },
+    {
+      "t": 86.29,
+      "end": 88.89,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 90.41,
+      "end": 90.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.41,
+      "end": 94.27,
+      "text": "Lady from the bank wants it no onion, Tony shakes his head"
+    },
+    {
+      "t": 95.47,
+      "end": 100.87,
+      "text": "Man in the suit tryna pay with his phone, Tony points at the sign"
+    },
+    {
+      "t": 101.45,
+      "end": 105.85,
+      "text": "Cash only since 1998, he hollers it in time"
+    },
+    {
+      "t": 105.85,
+      "end": 110.39,
+      "text": "Whole line stomping on the sidewalk like a show"
+    },
+    {
+      "t": 110.89,
+      "end": 110.89,
+      "text": "[Chorus - crowd louder]"
+    },
+    {
+      "t": 110.89,
+      "end": 114.23,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 114.77,
+      "end": 116.19,
+      "text": "Big Tony, what you say"
+    },
+    {
+      "t": 116.19,
+      "end": 118.75,
+      "text": "Cash in the bucket and the cheese on top"
+    },
+    {
+      "t": 126.07,
+      "end": 150.21,
+      "text": "Half-smoke, and the beat don't stop"
+    },
+    {
+      "t": 153.05,
+      "end": 153.05,
+      "text": "[Outro - horns and percussion]"
+    },
+    {
+      "t": 153.05,
+      "end": 197.58,
+      "text": "Tony says come back tomorrow"
+    },
+    {
+      "t": 197.78,
+      "end": 206.26,
+      "text": "Same time, same song"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 10.38,
+      "end": 10.38,
+      "text": "[Intro - congas, cowbell and timbales]"
+    },
+    {
+      "t": 10.38,
+      "end": 10.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.38,
+      "end": 35.92,
+      "text": "Twelve-oh-two on Fourteenth Street, the line's around the corner"
+    },
+    {
+      "t": 41.0,
+      "end": 46.06,
+      "text": "Big Tony in the window got the tongs up like a drumstick"
+    },
+    {
+      "t": 46.06,
+      "end": 49.22,
+      "text": "He don't write nothing down, he just calls it on the beat"
+    },
+    {
+      "t": 49.22,
+      "end": 57.11,
+      "text": "Half-smoke, chili, onions, now who's next, who's next"
+    },
+    {
+      "t": 57.15,
+      "end": 57.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.15,
+      "end": 61.73,
+      "text": "If you're hungry say yeah"
+    },
+    {
+      "t": 61.87,
+      "end": 62.19,
+      "text": "Yeah"
+    },
+    {
+      "t": 62.21,
+      "end": 66.93,
+      "text": "If you're late for work say yeah"
+    },
+    {
+      "t": 66.93,
+      "end": 69.31,
+      "text": "Yeah"
+    },
+    {
+      "t": 69.43,
+      "end": 69.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.43,
+      "end": 73.89,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 76.53,
+      "end": 78.97,
+      "text": "Big Tony, what you say"
+    },
+    {
+      "t": 81.23,
+      "end": 85.41,
+      "text": "Mustard on the left side, napkin in the bag"
+    },
+    {
+      "t": 86.31,
+      "end": 88.85,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 90.41,
+      "end": 90.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.41,
+      "end": 94.15,
+      "text": "Lady from the bank wants it no onion, Tony shakes his head"
+    },
+    {
+      "t": 95.47,
+      "end": 100.89,
+      "text": "Man in the suit tryna pay with his phone, Tony points at the sign"
+    },
+    {
+      "t": 101.45,
+      "end": 108.19,
+      "text": "Cash only since 1998, he hollers it in time"
+    },
+    {
+      "t": 109.27,
+      "end": 148.25,
+      "text": "Whole line stomping on the sidewalk like a show"
+    },
+    {
+      "t": 148.25,
+      "end": 148.25,
+      "text": "[Chorus - crowd louder]"
+    },
+    {
+      "t": 148.25,
+      "end": 165.4,
+      "text": "Half-smoke, all the way"
+    },
+    {
+      "t": 165.58,
+      "end": 168.66,
+      "text": "Big Tony, what you say"
+    },
+    {
+      "t": 168.86,
+      "end": 174.52,
+      "text": "Cash in the bucket and the cheese on top"
+    },
+    {
+      "t": 174.52,
+      "end": 189.06,
+      "text": "Half-smoke, and the beat don't stop"
+    },
+    {
+      "t": 193.42,
+      "end": 193.42,
+      "text": "[Outro - horns and percussion]"
+    },
+    {
+      "t": 193.42,
+      "end": 196.22,
+      "text": "Tony says come back tomorrow"
+    },
+    {
+      "t": 197.78,
+      "end": 201.18,
+      "text": "Same time, same song"
+    }
+  ]
+}

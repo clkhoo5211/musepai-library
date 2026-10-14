@@ -1,0 +1,327 @@
+{
+  "id": "b8_ms03",
+  "title": "Zumba Wajib",
+  "title_source": "scripted",
+  "genre": "Electro-disco live party band",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "giddy, sweaty and triumphant",
+  "persona": "",
+  "subject": "HR's compulsory Friday-evening Zumba session in the office meeting room, and the stiff finance manager who turns out to be the best dancer on the floor",
+  "caption": "Electro-disco live party band in the current Malaysian live-band style. Live four-on-the-floor drums with open hi-hats on the off-beat; an octave-jumping slap bass doubled by a fat analog synth bass; a tenor saxophone blowing short riffs between lines; a choppy funk rhythm guitar on the upbeats; string-machine stabs on the chorus. Glossy and loud, kick and bass wide, saxophone and lead voice forward, a short plate reverb. Male voice, bright playful tenor, talk-singing the verses and belting the chorus; the band shouting the dance counts in unison. 122 BPM, F minor. Giddy, sweaty and triumphant. No EDM drop, no trap hi-hats, no autotune, no rap verse, no rock guitar solo.",
+  "lyrics": "[Intro - drums and slap bass, saxophone riff]\n\n[Verse 1]\nJumaat pukul lima, e-mel dari HR\nSemua staf wajib turun bilik mesyuarat\nMeja ditolak tepi, kerusi disusun\nCikgu Zumba datang dengan speaker besar\n\n[Pre-Chorus]\nEncik Rahman finance, tali leher kemas\nBerdiri belakang sekali, muka masam\n\n[Chorus]\nZumba wajib, kiri kanan pusing\nPeluh dah basah baju kerja\nZumba wajib, satu dua tiga\nSiapa sangka bos kita boleh goyang\n\n[Verse 2]\nLagu kedua, Encik Rahman buka kot\nLagu ketiga, dia ke depan sekali\nPinggul dia laju, tangan dia lawa\nCikgu Zumba pun berhenti tengok\n\n[Pre-Chorus]\nRupanya dulu dia juara tari\nMasa belajar kat Shah Alam\n\n[Chorus]\nZumba wajib, ikut Encik Rahman\nBudak IT pun tak nak balik\nZumba wajib, satu dua tiga\nMinggu depan kita minta dua kali\n\n[Outro - saxophone and drums]\nClaim kewangan lambat pun tak apa",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Electro-disco live party band in the current Malaysian live-band style. Live four-on-the-floor drums with open hi-hats on the off-beat; an octave-jumping slap bass doubled by a fat analog synth bass; a tenor saxophone blowing short riffs between lines; a choppy funk rhythm guitar on the upbeats; string-machine stabs on the chorus. Glossy and loud, kick and bass wide, saxophone and lead voice forward, a short plate reverb. Male voice, bright playful tenor, talk-singing the verses and belting the chorus; the band shouting the dance counts in unison. 122 BPM, F minor. Giddy, sweaty and triumphant. No EDM drop, no trap hi-hats, no autotune, no rap verse, no rock guitar solo.",
+    "lyrics": "[Intro - drums and slap bass, saxophone riff]\n\n[Verse 1]\nJumaat pukul lima, e-mel dari HR\nSemua staf wajib turun bilik mesyuarat\nMeja ditolak tepi, kerusi disusun\nCikgu Zumba datang dengan speaker besar\n\n[Pre-Chorus]\nEncik Rahman finance, tali leher kemas\nBerdiri belakang sekali, muka masam\n\n[Chorus]\nZumba wajib, kiri kanan pusing\nPeluh dah basah baju kerja\nZumba wajib, satu dua tiga\nSiapa sangka bos kita boleh goyang\n\n[Verse 2]\nLagu kedua, Encik Rahman buka kot\nLagu ketiga, dia ke depan sekali\nPinggul dia laju, tangan dia lawa\nCikgu Zumba pun berhenti tengok\n\n[Pre-Chorus]\nRupanya dulu dia juara tari\nMasa belajar kat Shah Alam\n\n[Chorus]\nZumba wajib, ikut Encik Rahman\nBudak IT pun tak nak balik\nZumba wajib, satu dua tiga\nMinggu depan kita minta dua kali\n\n[Outro - saxophone and drums]\nClaim kewangan lambat pun tak apa"
+  },
+  "seed": "3924828651",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.09s**\n- 73.09s per song\n- LM phase (1 song): 12.11s\n- DiT phase (1 song): 60.98s",
+  "task_id": "8f937e69-c2ec-4cdf-b5de-2f1203dd92d7",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-13T22:19:13.476791+08:00",
+  "audio": "b8_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.3,
+      "end": 18.3,
+      "text": "[Intro - drums and slap bass, saxophone riff]"
+    },
+    {
+      "t": 18.3,
+      "end": 18.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.3,
+      "end": 26.4,
+      "text": "Jumaat pukul lima, e-mel dari HR"
+    },
+    {
+      "t": 26.52,
+      "end": 39.86,
+      "text": "Semua staf wajib turun bilik mesyuarat"
+    },
+    {
+      "t": 44.0,
+      "end": 48.0,
+      "text": "Meja ditolak tepi, kerusi disusun"
+    },
+    {
+      "t": 49.9,
+      "end": 56.23,
+      "text": "Cikgu Zumba datang dengan speaker besar"
+    },
+    {
+      "t": 56.25,
+      "end": 56.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.25,
+      "end": 61.15,
+      "text": "Encik Rahman finance, tali leher kemas"
+    },
+    {
+      "t": 63.05,
+      "end": 68.77,
+      "text": "Berdiri belakang sekali, muka masam"
+    },
+    {
+      "t": 71.65,
+      "end": 71.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.65,
+      "end": 75.15,
+      "text": "Zumba wajib, kiri kanan pusing"
+    },
+    {
+      "t": 75.21,
+      "end": 76.57,
+      "text": "Peluh dah basah baju kerja"
+    },
+    {
+      "t": 77.21,
+      "end": 78.89,
+      "text": "Zumba wajib, satu dua tiga"
+    },
+    {
+      "t": 78.89,
+      "end": 87.41,
+      "text": "Siapa sangka bos kita boleh goyang"
+    },
+    {
+      "t": 87.53,
+      "end": 87.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.53,
+      "end": 93.47,
+      "text": "Lagu kedua, Encik Rahman buka kot"
+    },
+    {
+      "t": 95.43,
+      "end": 100.19,
+      "text": "Lagu ketiga, dia ke depan sekali"
+    },
+    {
+      "t": 103.31,
+      "end": 108.15,
+      "text": "Pinggul dia laju, tangan dia lawa"
+    },
+    {
+      "t": 111.17,
+      "end": 113.93,
+      "text": "Cikgu Zumba pun berhenti tengok"
+    },
+    {
+      "t": 113.95,
+      "end": 113.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.95,
+      "end": 116.05,
+      "text": "Rupanya dulu dia juara tari"
+    },
+    {
+      "t": 119.07,
+      "end": 124.27,
+      "text": "Masa belajar kat Shah Alam"
+    },
+    {
+      "t": 127.43,
+      "end": 127.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.43,
+      "end": 131.33,
+      "text": "Zumba wajib, ikut Encik Rahman"
+    },
+    {
+      "t": 131.43,
+      "end": 134.39,
+      "text": "Budak IT pun tak nak balik"
+    },
+    {
+      "t": 135.33,
+      "end": 138.41,
+      "text": "Zumba wajib, satu dua tiga"
+    },
+    {
+      "t": 138.79,
+      "end": 142.17,
+      "text": "Minggu depan kita minta dua kali"
+    },
+    {
+      "t": 150.11,
+      "end": 150.11,
+      "text": "[Outro - saxophone and drums]"
+    },
+    {
+      "t": 150.11,
+      "end": 201.5,
+      "text": "Claim kewangan lambat pun tak apa"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 8.26,
+      "end": 8.26,
+      "text": "[Intro - drums and slap bass, saxophone riff]"
+    },
+    {
+      "t": 8.26,
+      "end": 8.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.26,
+      "end": 30.34,
+      "text": "Jumaat pukul lima, e-mel dari HR"
+    },
+    {
+      "t": 30.36,
+      "end": 39.84,
+      "text": "Semua staf wajib turun bilik mesyuarat"
+    },
+    {
+      "t": 44.0,
+      "end": 48.02,
+      "text": "Meja ditolak tepi, kerusi disusun"
+    },
+    {
+      "t": 49.9,
+      "end": 56.19,
+      "text": "Cikgu Zumba datang dengan speaker besar"
+    },
+    {
+      "t": 56.25,
+      "end": 56.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.25,
+      "end": 61.17,
+      "text": "Encik Rahman finance, tali leher kemas"
+    },
+    {
+      "t": 63.05,
+      "end": 68.79,
+      "text": "Berdiri belakang sekali, muka masam"
+    },
+    {
+      "t": 71.65,
+      "end": 71.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.65,
+      "end": 75.25,
+      "text": "Zumba wajib, kiri kanan pusing"
+    },
+    {
+      "t": 75.25,
+      "end": 76.05,
+      "text": "Peluh dah basah baju kerja"
+    },
+    {
+      "t": 76.05,
+      "end": 78.89,
+      "text": "Zumba wajib, satu dua tiga"
+    },
+    {
+      "t": 78.89,
+      "end": 84.49,
+      "text": "Siapa sangka bos kita boleh goyang"
+    },
+    {
+      "t": 87.53,
+      "end": 87.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.53,
+      "end": 95.25,
+      "text": "Lagu kedua, Encik Rahman buka kot"
+    },
+    {
+      "t": 95.41,
+      "end": 100.31,
+      "text": "Lagu ketiga, dia ke depan sekali"
+    },
+    {
+      "t": 103.29,
+      "end": 108.15,
+      "text": "Pinggul dia laju, tangan dia lawa"
+    },
+    {
+      "t": 111.17,
+      "end": 113.69,
+      "text": "Cikgu Zumba pun berhenti tengok"
+    },
+    {
+      "t": 113.87,
+      "end": 113.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.87,
+      "end": 116.05,
+      "text": "Rupanya dulu dia juara tari"
+    },
+    {
+      "t": 119.05,
+      "end": 124.27,
+      "text": "Masa belajar kat Shah Alam"
+    },
+    {
+      "t": 127.45,
+      "end": 127.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.45,
+      "end": 131.33,
+      "text": "Zumba wajib, ikut Encik Rahman"
+    },
+    {
+      "t": 131.43,
+      "end": 134.43,
+      "text": "Budak IT pun tak nak balik"
+    },
+    {
+      "t": 135.33,
+      "end": 138.43,
+      "text": "Zumba wajib, satu dua tiga"
+    },
+    {
+      "t": 138.81,
+      "end": 142.17,
+      "text": "Minggu depan kita minta dua kali"
+    },
+    {
+      "t": 165.88,
+      "end": 165.88,
+      "text": "[Outro - saxophone and drums]"
+    },
+    {
+      "t": 165.88,
+      "end": 201.5,
+      "text": "Claim kewangan lambat pun tak apa"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

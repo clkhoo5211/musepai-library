@@ -1,0 +1,277 @@
+{
+  "id": "b8_vi03",
+  "title": "Tết Tóc Cho Em",
+  "title_source": "scripted",
+  "genre": "intimate Vietnamese piano ballad",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "tender, shy, warm",
+  "persona": "",
+  "subject": "a husband learning to braid his wife's hair while her arm is in a cast",
+  "caption": "Intimate Vietnamese piano ballad, singer-songwriter style. Felted upright piano with gentle broken chords and audible pedal, a soft legato cello entering in the second verse, light brushed snare only in the last chorus. Close, warm small-room recording, wooden and unpolished. Male tenor vocal, close-mic, soft, conversational and unforced, gentle falsetto on one high note. 72 BPM, A-flat major. Tender, shy, quietly funny love song. No strings swell, no big drum fill, no key change, no autotune, no arena ballad build.",
+  "lyrics": "[Intro - upright piano, pedal noise]\n\n[Verse 1]\nTay em bó bột trắng, ngồi trước gương thở dài\nTóc rối sau lưng, em bảo anh thử coi\nAnh xem clip ba lần, mười ngón tay lóng ngóng\nChia làm ba phần mà phần nào cũng lệch\n\n[Chorus]\nNgồi yên nha em, để anh tết tóc cho em\nBên trái đè giữa, bên phải đè lên\nNếu nó xấu hơn hôm qua\nEm cứ cười, anh sẽ làm lại từ đầu\n\n[Verse 2]\nSáng thứ hai anh trễ làm mười lăm phút\nĐồng nghiệp hỏi sao, anh chỉ cười trừ\nĐến tuần thứ ba bím tóc đã thẳng hàng\nEm nói tháo bột rồi, anh vẫn muốn làm\n\n[Chorus]\nNgồi yên nha em, để anh tết tóc cho em\nBên trái đè giữa, bên phải đè lên\nCái dây thun màu vàng em thích\nAnh để trong túi áo, mỗi sáng mang theo\n\n[Outro - piano alone]\nTay em lành rồi\nMà anh chưa muốn dừng",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A-flat major",
+    "timesignature": "4",
+    "prompt": "Intimate Vietnamese piano ballad, singer-songwriter style. Felted upright piano with gentle broken chords and audible pedal, a soft legato cello entering in the second verse, light brushed snare only in the last chorus. Close, warm small-room recording, wooden and unpolished. Male tenor vocal, close-mic, soft, conversational and unforced, gentle falsetto on one high note. 72 BPM, A-flat major. Tender, shy, quietly funny love song. No strings swell, no big drum fill, no key change, no autotune, no arena ballad build.",
+    "lyrics": "[Intro - upright piano, pedal noise]\n\n[Verse 1]\nTay em bó bột trắng, ngồi trước gương thở dài\nTóc rối sau lưng, em bảo anh thử coi\nAnh xem clip ba lần, mười ngón tay lóng ngóng\nChia làm ba phần mà phần nào cũng lệch\n\n[Chorus]\nNgồi yên nha em, để anh tết tóc cho em\nBên trái đè giữa, bên phải đè lên\nNếu nó xấu hơn hôm qua\nEm cứ cười, anh sẽ làm lại từ đầu\n\n[Verse 2]\nSáng thứ hai anh trễ làm mười lăm phút\nĐồng nghiệp hỏi sao, anh chỉ cười trừ\nĐến tuần thứ ba bím tóc đã thẳng hàng\nEm nói tháo bột rồi, anh vẫn muốn làm\n\n[Chorus]\nNgồi yên nha em, để anh tết tóc cho em\nBên trái đè giữa, bên phải đè lên\nCái dây thun màu vàng em thích\nAnh để trong túi áo, mỗi sáng mang theo\n\n[Outro - piano alone]\nTay em lành rồi\nMà anh chưa muốn dừng"
+  },
+  "seed": "2027412324",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.05s**\n- 68.05s per song\n- LM phase (1 song): 10.26s\n- DiT phase (1 song): 57.79s",
+  "task_id": "cb00632e-8942-40f7-a56d-041c61839f43",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-13T22:33:55.072954+08:00",
+  "audio": "b8_vi03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.38,
+      "end": 26.38,
+      "text": "[Intro - upright piano, pedal noise]"
+    },
+    {
+      "t": 26.38,
+      "end": 26.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.38,
+      "end": 31.32,
+      "text": "Tay em bó bột trắng, ngồi trước gương thở dài"
+    },
+    {
+      "t": 32.9,
+      "end": 37.78,
+      "text": "Tóc rối sau lưng, em bảo anh thử coi"
+    },
+    {
+      "t": 39.68,
+      "end": 43.42,
+      "text": "Anh xem clip ba lần, mười ngón tay lóng ngóng"
+    },
+    {
+      "t": 43.42,
+      "end": 47.54,
+      "text": "Chia làm ba phần mà phần nào cũng lệch"
+    },
+    {
+      "t": 49.54,
+      "end": 49.54,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.54,
+      "end": 54.29,
+      "text": "Ngồi yên nha em, để anh tết tóc cho em"
+    },
+    {
+      "t": 55.93,
+      "end": 59.89,
+      "text": "Bên trái đè giữa, bên phải đè lên"
+    },
+    {
+      "t": 59.91,
+      "end": 76.45,
+      "text": "Nếu nó xấu hơn hôm qua"
+    },
+    {
+      "t": 76.45,
+      "end": 80.33,
+      "text": "Em cứ cười, anh sẽ làm lại từ đầu"
+    },
+    {
+      "t": 88.37,
+      "end": 88.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.37,
+      "end": 92.55,
+      "text": "Sáng thứ hai anh trễ làm mười lăm phút"
+    },
+    {
+      "t": 92.59,
+      "end": 97.53,
+      "text": "Đồng nghiệp hỏi sao, anh chỉ cười trừ"
+    },
+    {
+      "t": 99.25,
+      "end": 102.71,
+      "text": "Đến tuần thứ ba bím tóc đã thẳng hàng"
+    },
+    {
+      "t": 102.95,
+      "end": 107.49,
+      "text": "Em nói tháo bột rồi, anh vẫn muốn làm"
+    },
+    {
+      "t": 112.31,
+      "end": 112.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.31,
+      "end": 117.57,
+      "text": "Ngồi yên nha em, để anh tết tóc cho em"
+    },
+    {
+      "t": 118.81,
+      "end": 123.55,
+      "text": "Bên trái đè giữa, bên phải đè lên"
+    },
+    {
+      "t": 124.11,
+      "end": 128.63,
+      "text": "Cái dây thun màu vàng em thích"
+    },
+    {
+      "t": 128.67,
+      "end": 136.57,
+      "text": "Anh để trong túi áo, mỗi sáng mang theo"
+    },
+    {
+      "t": 136.77,
+      "end": 136.77,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 136.77,
+      "end": 168.16,
+      "text": "Tay em lành rồi"
+    },
+    {
+      "t": 172.98,
+      "end": 176.32,
+      "text": "Mà anh chưa muốn dừng"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.38,
+      "end": 26.38,
+      "text": "[Intro - upright piano, pedal noise]"
+    },
+    {
+      "t": 26.38,
+      "end": 26.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.38,
+      "end": 31.32,
+      "text": "Tay em bó bột trắng, ngồi trước gương thở dài"
+    },
+    {
+      "t": 32.9,
+      "end": 37.8,
+      "text": "Tóc rối sau lưng, em bảo anh thử coi"
+    },
+    {
+      "t": 39.7,
+      "end": 42.1,
+      "text": "Anh xem clip ba lần, mười ngón tay lóng ngóng"
+    },
+    {
+      "t": 43.42,
+      "end": 47.54,
+      "text": "Chia làm ba phần mà phần nào cũng lệch"
+    },
+    {
+      "t": 49.54,
+      "end": 49.54,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.54,
+      "end": 54.31,
+      "text": "Ngồi yên nha em, để anh tết tóc cho em"
+    },
+    {
+      "t": 55.93,
+      "end": 59.83,
+      "text": "Bên trái đè giữa, bên phải đè lên"
+    },
+    {
+      "t": 59.93,
+      "end": 75.91,
+      "text": "Nếu nó xấu hơn hôm qua"
+    },
+    {
+      "t": 75.91,
+      "end": 80.31,
+      "text": "Em cứ cười, anh sẽ làm lại từ đầu"
+    },
+    {
+      "t": 88.37,
+      "end": 88.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.37,
+      "end": 92.55,
+      "text": "Sáng thứ hai anh trễ làm mười lăm phút"
+    },
+    {
+      "t": 92.59,
+      "end": 97.53,
+      "text": "Đồng nghiệp hỏi sao, anh chỉ cười trừ"
+    },
+    {
+      "t": 99.25,
+      "end": 102.73,
+      "text": "Đến tuần thứ ba bím tóc đã thẳng hàng"
+    },
+    {
+      "t": 102.95,
+      "end": 107.49,
+      "text": "Em nói tháo bột rồi, anh vẫn muốn làm"
+    },
+    {
+      "t": 112.31,
+      "end": 112.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.31,
+      "end": 117.57,
+      "text": "Ngồi yên nha em, để anh tết tóc cho em"
+    },
+    {
+      "t": 118.81,
+      "end": 123.53,
+      "text": "Bên trái đè giữa, bên phải đè lên"
+    },
+    {
+      "t": 124.11,
+      "end": 128.63,
+      "text": "Cái dây thun màu vàng em thích"
+    },
+    {
+      "t": 128.67,
+      "end": 136.57,
+      "text": "Anh để trong túi áo, mỗi sáng mang theo"
+    },
+    {
+      "t": 136.77,
+      "end": 136.77,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 136.77,
+      "end": 183.42,
+      "text": "Tay em lành rồi"
+    },
+    {
+      "t": 188.06,
+      "end": 190.56,
+      "text": "Mà anh chưa muốn dừng"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
