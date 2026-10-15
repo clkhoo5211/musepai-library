@@ -1,0 +1,307 @@
+{
+  "id": "b9_ja03",
+  "title": "おなか引っこめて",
+  "title_source": "scripted",
+  "genre": "Japanese brass-driven pop rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "rowdy, comic and defiant",
+  "persona": "",
+  "subject": "the morning of the company health check: fasting since nine the night before and holding your breath for the waist measurement",
+  "caption": "Japanese brass-driven pop rock in a celebratory arena style. Punchy live rock drums with a big dry snare; a driving eighth-note electric bass; overdriven rhythm guitar chugging power chords; a four-piece horn section of two trumpets, tenor sax and trombone blasting unison riffs, falls and short stabs between vocal lines. Loud and tight, horns bright and upfront, guitars wide. Male voice, a theatrical, shouty high baritone with gang vocals answering in the chorus. 168 BPM, B-flat major. Rowdy, comic and defiant. No trap drums, no autotune, no ska upstroke guitar, no metal breakdown, no synth leads.",
+  "lyrics": "[Intro - horn riff and drum fill]\n\n[Verse 1]\nゆうべ九時から 何も食べてない\nコーヒーもだめ 水だけならいい\n受付で渡された紙コップ\n同期のやつは もう顔が青い\n\n[Pre-Chorus]\n次の方どうぞ メジャーが待ってる\n\n[Chorus]\nおなか引っこめて 息を止めて\nあと二センチ 神様たのむ\nおなか引っこめて 背すじ伸ばせ\n去年のおれに 負けてたまるか\n\n[Verse 2]\n採血の針から目をそらし\n視力はなぜか 去年よりいい\n体重計には 靴下も脱いで\nベルトの穴は 見なかったことに\n\n[Pre-Chorus]\nはい楽にして 楽にできるか\n\n[Chorus]\nおなか引っこめて 息を止めて\n看護師さんが 笑いこらえてる\nおなか引っこめて もう限界だ\n結果は来月 今日は牛丼\n\n[Outro - horn falls and final hit]\n大盛りで",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 186.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Japanese brass-driven pop rock in a celebratory arena style. Punchy live rock drums with a big dry snare; a driving eighth-note electric bass; overdriven rhythm guitar chugging power chords; a four-piece horn section of two trumpets, tenor sax and trombone blasting unison riffs, falls and short stabs between vocal lines. Loud and tight, horns bright and upfront, guitars wide. Male voice, a theatrical, shouty high baritone with gang vocals answering in the chorus. 168 BPM, B-flat major. Rowdy, comic and defiant. No trap drums, no autotune, no ska upstroke guitar, no metal breakdown, no synth leads.",
+    "lyrics": "[Intro - horn riff and drum fill]\n\n[Verse 1]\nゆうべ九時から 何も食べてない\nコーヒーもだめ 水だけならいい\n受付で渡された紙コップ\n同期のやつは もう顔が青い\n\n[Pre-Chorus]\n次の方どうぞ メジャーが待ってる\n\n[Chorus]\nおなか引っこめて 息を止めて\nあと二センチ 神様たのむ\nおなか引っこめて 背すじ伸ばせ\n去年のおれに 負けてたまるか\n\n[Verse 2]\n採血の針から目をそらし\n視力はなぜか 去年よりいい\n体重計には 靴下も脱いで\nベルトの穴は 見なかったことに\n\n[Pre-Chorus]\nはい楽にして 楽にできるか\n\n[Chorus]\nおなか引っこめて 息を止めて\n看護師さんが 笑いこらえてる\nおなか引っこめて もう限界だ\n結果は来月 今日は牛丼\n\n[Outro - horn falls and final hit]\n大盛りで"
+  },
+  "seed": "38571381",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.16s**\n- 65.16s per song\n- LM phase (1 song): 15.17s\n- DiT phase (1 song): 49.99s",
+  "task_id": "df580db8-2166-44c2-8f4a-adf99f708b75",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-15T16:34:53.520478+08:00",
+  "audio": "b9_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 11.6,
+      "end": 11.6,
+      "text": "[Intro - horn riff and drum fill]"
+    },
+    {
+      "t": 11.6,
+      "end": 11.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.6,
+      "end": 24.08,
+      "text": "ゆうべ九時から 何も食べてない"
+    },
+    {
+      "t": 24.08,
+      "end": 25.88,
+      "text": "コーヒーもだめ 水だけならいい"
+    },
+    {
+      "t": 25.88,
+      "end": 28.96,
+      "text": "受付で渡された紙コップ"
+    },
+    {
+      "t": 29.04,
+      "end": 32.56,
+      "text": "同期のやつは もう顔が青い"
+    },
+    {
+      "t": 32.9,
+      "end": 32.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.9,
+      "end": 35.38,
+      "text": "次の方どうぞ メジャーが待ってる"
+    },
+    {
+      "t": 38.84,
+      "end": 38.84,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 38.84,
+      "end": 41.5,
+      "text": "おなか引っこめて 息を止めて"
+    },
+    {
+      "t": 42.16,
+      "end": 47.73,
+      "text": "あと二センチ 神様たのむ"
+    },
+    {
+      "t": 48.55,
+      "end": 52.69,
+      "text": "おなか引っこめて 背すじ伸ばせ"
+    },
+    {
+      "t": 54.07,
+      "end": 58.33,
+      "text": "去年のおれに 負けてたまるか"
+    },
+    {
+      "t": 64.99,
+      "end": 64.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.99,
+      "end": 67.99,
+      "text": "採血の針から目をそらし"
+    },
+    {
+      "t": 71.89,
+      "end": 76.05,
+      "text": "視力はなぜか 去年よりいい"
+    },
+    {
+      "t": 76.05,
+      "end": 81.81,
+      "text": "体重計には 靴下も脱いで"
+    },
+    {
+      "t": 83.61,
+      "end": 85.51,
+      "text": "ベルトの穴は 見なかったことに"
+    },
+    {
+      "t": 85.51,
+      "end": 85.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 85.51,
+      "end": 87.47,
+      "text": "はい楽にして 楽にできるか"
+    },
+    {
+      "t": 89.69,
+      "end": 89.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.69,
+      "end": 93.19,
+      "text": "おなか引っこめて 息を止めて"
+    },
+    {
+      "t": 95.91,
+      "end": 101.89,
+      "text": "看護師さんが 笑いこらえてる"
+    },
+    {
+      "t": 103.73,
+      "end": 116.47,
+      "text": "おなか引っこめて もう限界だ"
+    },
+    {
+      "t": 118.11,
+      "end": 151.3,
+      "text": "結果は来月 今日は牛丼"
+    },
+    {
+      "t": 151.62,
+      "end": 151.62,
+      "text": "[Outro - horn falls and final hit]"
+    },
+    {
+      "t": 151.62,
+      "end": 171.26,
+      "text": "大盛りで"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.38,
+      "end": 23.38,
+      "text": "[Intro - horn riff and drum fill]"
+    },
+    {
+      "t": 23.38,
+      "end": 23.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.38,
+      "end": 24.58,
+      "text": "ゆうべ九時から 何も食べてない"
+    },
+    {
+      "t": 24.66,
+      "end": 25.88,
+      "text": "コーヒーもだめ 水だけならいい"
+    },
+    {
+      "t": 25.88,
+      "end": 29.44,
+      "text": "受付で渡された紙コップ"
+    },
+    {
+      "t": 29.64,
+      "end": 32.44,
+      "text": "同期のやつは もう顔が青い"
+    },
+    {
+      "t": 32.44,
+      "end": 32.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.44,
+      "end": 42.1,
+      "text": "次の方どうぞ メジャーが待ってる"
+    },
+    {
+      "t": 42.14,
+      "end": 42.14,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.14,
+      "end": 44.54,
+      "text": "おなか引っこめて 息を止めて"
+    },
+    {
+      "t": 44.54,
+      "end": 47.73,
+      "text": "あと二センチ 神様たのむ"
+    },
+    {
+      "t": 48.55,
+      "end": 52.69,
+      "text": "おなか引っこめて 背すじ伸ばせ"
+    },
+    {
+      "t": 54.05,
+      "end": 58.33,
+      "text": "去年のおれに 負けてたまるか"
+    },
+    {
+      "t": 64.99,
+      "end": 64.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.99,
+      "end": 67.99,
+      "text": "採血の針から目をそらし"
+    },
+    {
+      "t": 71.89,
+      "end": 76.01,
+      "text": "視力はなぜか 去年よりいい"
+    },
+    {
+      "t": 76.05,
+      "end": 81.81,
+      "text": "体重計には 靴下も脱いで"
+    },
+    {
+      "t": 83.61,
+      "end": 85.23,
+      "text": "ベルトの穴は 見なかったことに"
+    },
+    {
+      "t": 85.23,
+      "end": 85.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 85.23,
+      "end": 87.47,
+      "text": "はい楽にして 楽にできるか"
+    },
+    {
+      "t": 89.69,
+      "end": 89.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.69,
+      "end": 93.89,
+      "text": "おなか引っこめて 息を止めて"
+    },
+    {
+      "t": 95.89,
+      "end": 99.41,
+      "text": "看護師さんが 笑いこらえてる"
+    },
+    {
+      "t": 100.15,
+      "end": 116.47,
+      "text": "おなか引っこめて もう限界だ"
+    },
+    {
+      "t": 118.11,
+      "end": 154.98,
+      "text": "結果は来月 今日は牛丼"
+    },
+    {
+      "t": 155.56,
+      "end": 155.56,
+      "text": "[Outro - horn falls and final hit]"
+    },
+    {
+      "t": 155.56,
+      "end": 171.26,
+      "text": "大盛りで"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,317 @@
+{
+  "id": "b9_ko03",
+  "title": "파라솔 만 원",
+  "title_source": "scripted",
+  "genre": "Busan surf rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "sunny, scrappy, laughing",
+  "persona": "",
+  "subject": "haggling with the parasol rental man on Haeundae beach who starts at twenty thousand won and ends up bringing watermelon",
+  "caption": "Busan surf rock in the style of the city's indie band scene. A twangy Fender guitar drenched in spring reverb playing tremolo-picked lines; driving surf drums with a fast snare shuffle; a round picked bass; a tambourine on every beat; a Farfisa organ swelling under the chorus. Live-room recording, heavy spring reverb, slightly lo-fi, guitars upfront. Female plain alto, deadpan and bright, unison gang vocals on the chorus. 152 BPM, E major. Sunny, scrappy and laughing. No synths, no trap, no autotune, no ballad build, no pop-punk power chords.",
+  "lyrics": "[Intro - reverb surf guitar and drums]\n\n[Verse 1]\n해운대 모래 위 아저씨 한 명\n파라솔 하나에 이만 원이래\n나는 지갑을 열어 보여 줬지\n천 원짜리 열 장, 딱 그것뿐\n\n[Pre-Chorus]\n아저씨, 바람 불면 날아가잖아요\n\n[Chorus]\n만 원, 만 원, 파라솔 만 원\n그늘은 반만 써도 괜찮아\n만 원, 만 원, 웃으면서 만 원\n파도 소리는 공짜잖아\n\n[Verse 2]\n아저씨가 하늘 보며 한숨 쉬더니\n알았다, 대신 오래 있지 마라\n한 시간 뒤엔 아이스박스 들고 와\n수박 한 쪽까지 놓고 가셨어\n\n[Pre-Chorus]\n아저씨, 이러면 제가 미안하잖아요\n\n[Chorus]\n만 원, 만 원, 파라솔 만 원\n수박까지 얹어서 만 원\n만 원, 만 원, 내년에도 만 원\n그땐 내가 커피 살게요\n\n[Outro - surf guitar and organ]\n해 질 때까지 앉아 있을게요\n아저씨, 접는 건 도와 드릴게요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 178.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Busan surf rock in the style of the city's indie band scene. A twangy Fender guitar drenched in spring reverb playing tremolo-picked lines; driving surf drums with a fast snare shuffle; a round picked bass; a tambourine on every beat; a Farfisa organ swelling under the chorus. Live-room recording, heavy spring reverb, slightly lo-fi, guitars upfront. Female plain alto, deadpan and bright, unison gang vocals on the chorus. 152 BPM, E major. Sunny, scrappy and laughing. No synths, no trap, no autotune, no ballad build, no pop-punk power chords.",
+    "lyrics": "[Intro - reverb surf guitar and drums]\n\n[Verse 1]\n해운대 모래 위 아저씨 한 명\n파라솔 하나에 이만 원이래\n나는 지갑을 열어 보여 줬지\n천 원짜리 열 장, 딱 그것뿐\n\n[Pre-Chorus]\n아저씨, 바람 불면 날아가잖아요\n\n[Chorus]\n만 원, 만 원, 파라솔 만 원\n그늘은 반만 써도 괜찮아\n만 원, 만 원, 웃으면서 만 원\n파도 소리는 공짜잖아\n\n[Verse 2]\n아저씨가 하늘 보며 한숨 쉬더니\n알았다, 대신 오래 있지 마라\n한 시간 뒤엔 아이스박스 들고 와\n수박 한 쪽까지 놓고 가셨어\n\n[Pre-Chorus]\n아저씨, 이러면 제가 미안하잖아요\n\n[Chorus]\n만 원, 만 원, 파라솔 만 원\n수박까지 얹어서 만 원\n만 원, 만 원, 내년에도 만 원\n그땐 내가 커피 살게요\n\n[Outro - surf guitar and organ]\n해 질 때까지 앉아 있을게요\n아저씨, 접는 건 도와 드릴게요"
+  },
+  "seed": "218966347",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 127.79s**\n- 127.79s per song\n- LM phase (1 song): 18.15s\n- DiT phase (1 song): 109.63s",
+  "task_id": "5455c1a3-bd9f-40db-87c0-8ddd4e035d7b",
+  "elapsed_s": 160.4,
+  "generated_at": "2026-10-15T15:31:22.191783+08:00",
+  "audio": "b9_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Intro - reverb surf guitar and drums]"
+    },
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.62,
+      "end": 29.18,
+      "text": "해운대 모래 위 아저씨 한 명"
+    },
+    {
+      "t": 30.8,
+      "end": 34.54,
+      "text": "파라솔 하나에 이만 원이래"
+    },
+    {
+      "t": 36.36,
+      "end": 40.98,
+      "text": "나는 지갑을 열어 보여 줬지"
+    },
+    {
+      "t": 42.52,
+      "end": 46.73,
+      "text": "천 원짜리 열 장, 딱 그것뿐"
+    },
+    {
+      "t": 48.87,
+      "end": 48.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.87,
+      "end": 54.85,
+      "text": "아저씨, 바람 불면 날아가잖아요"
+    },
+    {
+      "t": 54.87,
+      "end": 54.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.87,
+      "end": 57.75,
+      "text": "만 원, 만 원, 파라솔 만 원"
+    },
+    {
+      "t": 57.75,
+      "end": 61.33,
+      "text": "그늘은 반만 써도 괜찮아"
+    },
+    {
+      "t": 61.45,
+      "end": 67.99,
+      "text": "만 원, 만 원, 웃으면서 만 원"
+    },
+    {
+      "t": 70.41,
+      "end": 73.25,
+      "text": "파도 소리는 공짜잖아"
+    },
+    {
+      "t": 73.31,
+      "end": 73.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.31,
+      "end": 76.97,
+      "text": "아저씨가 하늘 보며 한숨 쉬더니"
+    },
+    {
+      "t": 78.03,
+      "end": 81.91,
+      "text": "알았다, 대신 오래 있지 마라"
+    },
+    {
+      "t": 83.73,
+      "end": 87.49,
+      "text": "한 시간 뒤엔 아이스박스 들고 와"
+    },
+    {
+      "t": 89.41,
+      "end": 93.23,
+      "text": "수박 한 쪽까지 놓고 가셨어"
+    },
+    {
+      "t": 96.69,
+      "end": 96.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.69,
+      "end": 100.97,
+      "text": "아저씨, 이러면 제가 미안하잖아요"
+    },
+    {
+      "t": 101.01,
+      "end": 101.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.01,
+      "end": 107.65,
+      "text": "만 원, 만 원, 파라솔 만 원"
+    },
+    {
+      "t": 107.83,
+      "end": 111.91,
+      "text": "수박까지 얹어서 만 원"
+    },
+    {
+      "t": 112.05,
+      "end": 117.25,
+      "text": "만 원, 만 원, 내년에도 만 원"
+    },
+    {
+      "t": 117.33,
+      "end": 142.42,
+      "text": "그땐 내가 커피 살게요"
+    },
+    {
+      "t": 142.42,
+      "end": 142.42,
+      "text": "[Outro - surf guitar and organ]"
+    },
+    {
+      "t": 142.42,
+      "end": 146.32,
+      "text": "해 질 때까지 앉아 있을게요"
+    },
+    {
+      "t": 154.54,
+      "end": 164.74,
+      "text": "아저씨, 접는 건 도와 드릴게요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Intro - reverb surf guitar and drums]"
+    },
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.62,
+      "end": 29.18,
+      "text": "해운대 모래 위 아저씨 한 명"
+    },
+    {
+      "t": 30.8,
+      "end": 34.4,
+      "text": "파라솔 하나에 이만 원이래"
+    },
+    {
+      "t": 36.36,
+      "end": 40.96,
+      "text": "나는 지갑을 열어 보여 줬지"
+    },
+    {
+      "t": 42.52,
+      "end": 46.73,
+      "text": "천 원짜리 열 장, 딱 그것뿐"
+    },
+    {
+      "t": 48.87,
+      "end": 48.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.87,
+      "end": 54.83,
+      "text": "아저씨, 바람 불면 날아가잖아요"
+    },
+    {
+      "t": 54.87,
+      "end": 54.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.87,
+      "end": 57.47,
+      "text": "만 원, 만 원, 파라솔 만 원"
+    },
+    {
+      "t": 57.51,
+      "end": 61.33,
+      "text": "그늘은 반만 써도 괜찮아"
+    },
+    {
+      "t": 61.33,
+      "end": 67.97,
+      "text": "만 원, 만 원, 웃으면서 만 원"
+    },
+    {
+      "t": 70.43,
+      "end": 73.67,
+      "text": "파도 소리는 공짜잖아"
+    },
+    {
+      "t": 73.85,
+      "end": 73.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.85,
+      "end": 77.31,
+      "text": "아저씨가 하늘 보며 한숨 쉬더니"
+    },
+    {
+      "t": 78.03,
+      "end": 81.91,
+      "text": "알았다, 대신 오래 있지 마라"
+    },
+    {
+      "t": 83.71,
+      "end": 87.49,
+      "text": "한 시간 뒤엔 아이스박스 들고 와"
+    },
+    {
+      "t": 89.43,
+      "end": 93.23,
+      "text": "수박 한 쪽까지 놓고 가셨어"
+    },
+    {
+      "t": 96.67,
+      "end": 96.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.67,
+      "end": 100.97,
+      "text": "아저씨, 이러면 제가 미안하잖아요"
+    },
+    {
+      "t": 101.01,
+      "end": 101.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.01,
+      "end": 105.57,
+      "text": "만 원, 만 원, 파라솔 만 원"
+    },
+    {
+      "t": 107.81,
+      "end": 110.93,
+      "text": "수박까지 얹어서 만 원"
+    },
+    {
+      "t": 110.93,
+      "end": 114.15,
+      "text": "만 원, 만 원, 내년에도 만 원"
+    },
+    {
+      "t": 114.21,
+      "end": 117.83,
+      "text": "그땐 내가 커피 살게요"
+    },
+    {
+      "t": 142.26,
+      "end": 142.26,
+      "text": "[Outro - surf guitar and organ]"
+    },
+    {
+      "t": 142.26,
+      "end": 146.32,
+      "text": "해 질 때까지 앉아 있을게요"
+    },
+    {
+      "t": 154.54,
+      "end": 164.76,
+      "text": "아저씨, 접는 건 도와 드릴게요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

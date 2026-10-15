@@ -1,0 +1,317 @@
+{
+  "id": "b9_ko04",
+  "title": "얇은 벽",
+  "title_source": "scripted",
+  "genre": "Korean Britpop-style guitar pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wry, warm, slowly won over",
+  "persona": "",
+  "subject": "a gosiwon tenant whose neighbour practises the same three chords every night through the thin wall, until he hums the melody back and they finish the song together through the wall",
+  "caption": "Korean Britpop-style guitar pop in the vein of 2025 Seoul indie bands. A jangly twelve-string electric guitar playing ringing open chords; a crunchy rhythm guitar doubling the chorus; a melodic bass walking between chords; straight roomy rock drums with tambourine on the backbeat; a piano hammering eighth notes in the last chorus. Bright 90s band mix, guitars layered, little reverb. Male mid-range voice, nasal and wry in the verses, open-throated singalong in the chorus. 128 BPM, G major. Wry, warm and slowly won over. No synths, no trap, no autotune, no shoegaze wash, no ballad strings.",
+  "lyrics": "[Intro - jangly twelve-string guitar]\n\n[Verse 1]\n고시원 307호, 벽은 종이 한 장\n밤 열두 시면 옆방 기타가 울려\nG에서 C, 다시 D로 가다가\n꼭 거기서 줄 하나가 틀려\n\n[Pre-Chorus]\n벽을 두 번 두드리려다 말았어\n\n[Chorus]\n얇은 벽 너머로 너는 치고 나는 들어\n얼굴도 모르는데 다음 줄이 궁금해\n얇은 벽 너머로 오늘도 같은 노래\n틀려도 괜찮아, 다시 쳐 봐\n\n[Verse 2]\n사흘째 밤에 나도 모르게\n그 멜로디를 흥얼거렸어\n기타가 멈칫하다 따라오더니\n처음으로 끝까지 가더라\n\n[Pre-Chorus]\n벽을 두 번 두드렸어, 잘했다고\n\n[Chorus]\n얇은 벽 너머로 너는 치고 나는 불러\n얼굴도 모르는데 박자는 딱 맞아\n얇은 벽 너머로 우리가 만든 노래\n내일 복도에서 인사나 해 볼까\n\n[Outro - guitars and piano ring out]\n307호, 308호\n제목은 아직 없어",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Korean Britpop-style guitar pop in the vein of 2025 Seoul indie bands. A jangly twelve-string electric guitar playing ringing open chords; a crunchy rhythm guitar doubling the chorus; a melodic bass walking between chords; straight roomy rock drums with tambourine on the backbeat; a piano hammering eighth notes in the last chorus. Bright 90s band mix, guitars layered, little reverb. Male mid-range voice, nasal and wry in the verses, open-throated singalong in the chorus. 128 BPM, G major. Wry, warm and slowly won over. No synths, no trap, no autotune, no shoegaze wash, no ballad strings.",
+    "lyrics": "[Intro - jangly twelve-string guitar]\n\n[Verse 1]\n고시원 307호, 벽은 종이 한 장\n밤 열두 시면 옆방 기타가 울려\nG에서 C, 다시 D로 가다가\n꼭 거기서 줄 하나가 틀려\n\n[Pre-Chorus]\n벽을 두 번 두드리려다 말았어\n\n[Chorus]\n얇은 벽 너머로 너는 치고 나는 들어\n얼굴도 모르는데 다음 줄이 궁금해\n얇은 벽 너머로 오늘도 같은 노래\n틀려도 괜찮아, 다시 쳐 봐\n\n[Verse 2]\n사흘째 밤에 나도 모르게\n그 멜로디를 흥얼거렸어\n기타가 멈칫하다 따라오더니\n처음으로 끝까지 가더라\n\n[Pre-Chorus]\n벽을 두 번 두드렸어, 잘했다고\n\n[Chorus]\n얇은 벽 너머로 너는 치고 나는 불러\n얼굴도 모르는데 박자는 딱 맞아\n얇은 벽 너머로 우리가 만든 노래\n내일 복도에서 인사나 해 볼까\n\n[Outro - guitars and piano ring out]\n307호, 308호\n제목은 아직 없어"
+  },
+  "seed": "2285596158",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 145.22s**\n- 145.22s per song\n- LM phase (1 song): 20.29s\n- DiT phase (1 song): 124.93s",
+  "task_id": "ab5cb932-9686-441a-b402-f9e45db65670",
+  "elapsed_s": 170.2,
+  "generated_at": "2026-10-15T15:34:12.443540+08:00",
+  "audio": "b9_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.5,
+      "end": 0.5,
+      "text": "[Intro - jangly twelve-string guitar]"
+    },
+    {
+      "t": 0.5,
+      "end": 0.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.5,
+      "end": 5.06,
+      "text": "고시원 307호, 벽은 종이 한 장"
+    },
+    {
+      "t": 5.22,
+      "end": 12.58,
+      "text": "밤 열두 시면 옆방 기타가 울려"
+    },
+    {
+      "t": 12.64,
+      "end": 16.1,
+      "text": "G에서 C, 다시 D로 가다가"
+    },
+    {
+      "t": 16.26,
+      "end": 46.16,
+      "text": "꼭 거기서 줄 하나가 틀려"
+    },
+    {
+      "t": 46.2,
+      "end": 46.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.2,
+      "end": 48.34,
+      "text": "벽을 두 번 두드리려다 말았어"
+    },
+    {
+      "t": 48.34,
+      "end": 48.34,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.34,
+      "end": 52.48,
+      "text": "얇은 벽 너머로 너는 치고 나는 들어"
+    },
+    {
+      "t": 52.67,
+      "end": 57.91,
+      "text": "얼굴도 모르는데 다음 줄이 궁금해"
+    },
+    {
+      "t": 60.51,
+      "end": 67.99,
+      "text": "얇은 벽 너머로 오늘도 같은 노래"
+    },
+    {
+      "t": 68.05,
+      "end": 75.57,
+      "text": "틀려도 괜찮아, 다시 쳐 봐"
+    },
+    {
+      "t": 83.75,
+      "end": 83.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.75,
+      "end": 86.49,
+      "text": "사흘째 밤에 나도 모르게"
+    },
+    {
+      "t": 86.61,
+      "end": 90.49,
+      "text": "그 멜로디를 흥얼거렸어"
+    },
+    {
+      "t": 93.63,
+      "end": 97.29,
+      "text": "기타가 멈칫하다 따라오더니"
+    },
+    {
+      "t": 97.65,
+      "end": 108.57,
+      "text": "처음으로 끝까지 가더라"
+    },
+    {
+      "t": 108.73,
+      "end": 108.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.73,
+      "end": 124.81,
+      "text": "벽을 두 번 두드렸어, 잘했다고"
+    },
+    {
+      "t": 125.07,
+      "end": 125.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.07,
+      "end": 134.25,
+      "text": "얇은 벽 너머로 너는 치고 나는 불러"
+    },
+    {
+      "t": 134.35,
+      "end": 150.77,
+      "text": "얼굴도 모르는데 박자는 딱 맞아"
+    },
+    {
+      "t": 151.15,
+      "end": 177.46,
+      "text": "얇은 벽 너머로 우리가 만든 노래"
+    },
+    {
+      "t": 177.5,
+      "end": 185.22,
+      "text": "내일 복도에서 인사나 해 볼까"
+    },
+    {
+      "t": 185.3,
+      "end": 185.3,
+      "text": "[Outro - guitars and piano ring out]"
+    },
+    {
+      "t": 185.3,
+      "end": 185.86,
+      "text": "307호, 308호"
+    },
+    {
+      "t": 189.26,
+      "end": 207.68,
+      "text": "제목은 아직 없어"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.5,
+      "end": 0.5,
+      "text": "[Intro - jangly twelve-string guitar]"
+    },
+    {
+      "t": 0.5,
+      "end": 0.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.5,
+      "end": 8.46,
+      "text": "고시원 307호, 벽은 종이 한 장"
+    },
+    {
+      "t": 8.52,
+      "end": 16.58,
+      "text": "밤 열두 시면 옆방 기타가 울려"
+    },
+    {
+      "t": 16.9,
+      "end": 46.28,
+      "text": "G에서 C, 다시 D로 가다가"
+    },
+    {
+      "t": 46.28,
+      "end": 53.41,
+      "text": "꼭 거기서 줄 하나가 틀려"
+    },
+    {
+      "t": 53.57,
+      "end": 53.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.57,
+      "end": 56.71,
+      "text": "벽을 두 번 두드리려다 말았어"
+    },
+    {
+      "t": 56.77,
+      "end": 56.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.77,
+      "end": 61.21,
+      "text": "얇은 벽 너머로 너는 치고 나는 들어"
+    },
+    {
+      "t": 61.25,
+      "end": 64.67,
+      "text": "얼굴도 모르는데 다음 줄이 궁금해"
+    },
+    {
+      "t": 64.73,
+      "end": 69.91,
+      "text": "얇은 벽 너머로 오늘도 같은 노래"
+    },
+    {
+      "t": 69.97,
+      "end": 75.57,
+      "text": "틀려도 괜찮아, 다시 쳐 봐"
+    },
+    {
+      "t": 83.75,
+      "end": 83.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.75,
+      "end": 86.49,
+      "text": "사흘째 밤에 나도 모르게"
+    },
+    {
+      "t": 86.61,
+      "end": 90.49,
+      "text": "그 멜로디를 흥얼거렸어"
+    },
+    {
+      "t": 93.65,
+      "end": 97.29,
+      "text": "기타가 멈칫하다 따라오더니"
+    },
+    {
+      "t": 97.67,
+      "end": 104.59,
+      "text": "처음으로 끝까지 가더라"
+    },
+    {
+      "t": 104.97,
+      "end": 104.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.97,
+      "end": 116.51,
+      "text": "벽을 두 번 두드렸어, 잘했다고"
+    },
+    {
+      "t": 116.51,
+      "end": 116.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.51,
+      "end": 120.29,
+      "text": "얇은 벽 너머로 너는 치고 나는 불러"
+    },
+    {
+      "t": 120.33,
+      "end": 125.17,
+      "text": "얼굴도 모르는데 박자는 딱 맞아"
+    },
+    {
+      "t": 125.17,
+      "end": 132.29,
+      "text": "얇은 벽 너머로 우리가 만든 노래"
+    },
+    {
+      "t": 134.25,
+      "end": 150.77,
+      "text": "내일 복도에서 인사나 해 볼까"
+    },
+    {
+      "t": 151.17,
+      "end": 151.17,
+      "text": "[Outro - guitars and piano ring out]"
+    },
+    {
+      "t": 151.17,
+      "end": 151.73,
+      "text": "307호, 308호"
+    },
+    {
+      "t": 156.95,
+      "end": 193.16,
+      "text": "제목은 아직 없어"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,474 @@
+{
+  "id": "b9_ms04",
+  "title": "Si Kelabu Lambat Lagi",
+  "title_source": "scripted",
+  "genre": "poetic piano chamber pop (Sal Priadi lane)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "wry, warm, a lump in the throat held back by a joke",
+  "persona": "",
+  "subject": "a retired postman who keeps racing pigeons on his flat's rooftop and waits every Sunday for the slowest bird, a grey one, long after the others are home",
+  "caption": "Poetic piano chamber pop in the style of 2024-2026 Indonesian singer-songwriter Sal Priadi. An upright piano with soft felt playing slow broken chords; a string quartet breathing long notes behind the voice and rising in the chorus; a warm upright bass; a brushed snare entering in the second verse; a single clarinet line answering the vocal. Warm and close, felt piano in the centre, strings behind, a natural hall tail. Male voice, an intimate theatrical tenor, half-speaking the verses and opening up in the chorus. 84 BPM, E-flat major. Wry and warm, a lump in the throat held back by a joke. No trap beat, no autotune, no power-ballad drums, no electric guitar solo, no EDM pads.",
+  "lyrics": "[Intro - piano, solo cello]\n\n[Verse 1]\nPukul empat semua dah balik\nYang putih, yang tompok, yang belang leher\nMasuk sangkar, makan jagung, tidur awal\nTinggal satu tak sampai lagi\n\n[Pre-Chorus]\nAku duduk atas tong air\nJam tangan lama, kopi dah sejuk\n\n[Chorus]\nSi Kelabu, lambat lagi\nSinggah mana pula kali ini\nTak menang pun tak apa\nAsalkan kau ingat jalan balik\n\n[Verse 2]\nDulu aku hantar surat satu taman\nTak pernah sekali salah rumah\nKau ni pula, burung pos\nPaling sesat dalam dunia\n\n[Pre-Chorus]\nMatahari dah jatuh atas kilang\nJiran panggil, Pak Din, masuklah\n\n[Chorus]\nSi Kelabu, lambat lagi\nTu dia, atas antena TV\nTak menang pun tak apa\nKau balik juga, macam aku dulu\n\n[Outro - piano alone]\nAhad depan kita cuba lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Poetic piano chamber pop in the style of 2024-2026 Indonesian singer-songwriter Sal Priadi. An upright piano with soft felt playing slow broken chords; a string quartet breathing long notes behind the voice and rising in the chorus; a warm upright bass; a brushed snare entering in the second verse; a single clarinet line answering the vocal. Warm and close, felt piano in the centre, strings behind, a natural hall tail. Male voice, an intimate theatrical tenor, half-speaking the verses and opening up in the chorus. 84 BPM, E-flat major. Wry and warm, a lump in the throat held back by a joke. No trap beat, no autotune, no power-ballad drums, no electric guitar solo, no EDM pads.",
+    "lyrics": "[Intro - piano, solo cello]\n\n[Verse 1]\nPukul empat semua dah balik\nYang putih, yang tompok, yang belang leher\nMasuk sangkar, makan jagung, tidur awal\nTinggal satu tak sampai lagi\n\n[Pre-Chorus]\nAku duduk atas tong air\nJam tangan lama, kopi dah sejuk\n\n[Chorus]\nSi Kelabu, lambat lagi\nSinggah mana pula kali ini\nTak menang pun tak apa\nAsalkan kau ingat jalan balik\n\n[Verse 2]\nDulu aku hantar surat satu taman\nTak pernah sekali salah rumah\nKau ni pula, burung pos\nPaling sesat dalam dunia\n\n[Pre-Chorus]\nMatahari dah jatuh atas kilang\nJiran panggil, Pak Din, masuklah\n\n[Chorus]\nSi Kelabu, lambat lagi\nTu dia, atas antena TV\nTak menang pun tak apa\nKau balik juga, macam aku dulu\n\n[Outro - piano alone]\nAhad depan kita cuba lagi"
+  },
+  "seed": "4076463769",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 89.96s**\n- 89.96s per song\n- LM phase (1 song): 20.58s\n- DiT phase (1 song): 69.38s",
+  "task_id": "f0cb1e3d-bf61-4d9b-8506-438829989a8e",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-10-15T15:47:45.259483+08:00",
+  "audio": "b9_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Intro - piano, solo cello]"
+    },
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.7,
+      "end": 34.26,
+      "text": "Pukul empat semua dah balik"
+    },
+    {
+      "t": 37.16,
+      "end": 42.74,
+      "text": "Yang putih, yang tompok, yang belang leher"
+    },
+    {
+      "t": 42.74,
+      "end": 44.14,
+      "text": "Masuk sangkar, makan jagung, tidur awal"
+    },
+    {
+      "t": 46.12,
+      "end": 49.88,
+      "text": "Tinggal satu tak sampai lagi"
+    },
+    {
+      "t": 54.51,
+      "end": 54.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.51,
+      "end": 58.71,
+      "text": "Aku duduk atas tong air"
+    },
+    {
+      "t": 59.75,
+      "end": 64.59,
+      "text": "Jam tangan lama, kopi dah sejuk"
+    },
+    {
+      "t": 69.49,
+      "end": 69.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.49,
+      "end": 73.19,
+      "text": "Si Kelabu, lambat lagi"
+    },
+    {
+      "t": 75.29,
+      "end": 78.89,
+      "text": "Singgah mana pula kali ini"
+    },
+    {
+      "t": 79.99,
+      "end": 83.75,
+      "text": "Tak menang pun tak apa"
+    },
+    {
+      "t": 85.41,
+      "end": 93.73,
+      "text": "Asalkan kau ingat jalan balik"
+    },
+    {
+      "t": 93.83,
+      "end": 93.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.83,
+      "end": 98.27,
+      "text": "Dulu aku hantar surat satu taman"
+    },
+    {
+      "t": 98.41,
+      "end": 100.81,
+      "text": "Tak pernah sekali salah rumah"
+    },
+    {
+      "t": 100.93,
+      "end": 113.25,
+      "text": "Kau ni pula, burung pos"
+    },
+    {
+      "t": 114.65,
+      "end": 118.43,
+      "text": "Paling sesat dalam dunia"
+    },
+    {
+      "t": 120.37,
+      "end": 120.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 120.37,
+      "end": 129.91,
+      "text": "Matahari dah jatuh atas kilang"
+    },
+    {
+      "t": 130.13,
+      "end": 134.73,
+      "text": "Jiran panggil, Pak Din, masuklah"
+    },
+    {
+      "t": 139.19,
+      "end": 139.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.19,
+      "end": 142.87,
+      "text": "Si Kelabu, lambat lagi"
+    },
+    {
+      "t": 145.01,
+      "end": 148.61,
+      "text": "Tu dia, atas antena TV"
+    },
+    {
+      "t": 150.65,
+      "end": 154.17,
+      "text": "Tak menang pun tak apa"
+    },
+    {
+      "t": 155.97,
+      "end": 165.36,
+      "text": "Kau balik juga, macam aku dulu"
+    },
+    {
+      "t": 165.86,
+      "end": 165.86,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 165.86,
+      "end": 201.66,
+      "text": "Ahad depan kita cuba lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Intro - piano, solo cello]"
+    },
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.7,
+      "end": 34.26,
+      "text": "Pukul empat semua dah balik"
+    },
+    {
+      "t": 37.16,
+      "end": 42.74,
+      "text": "Yang putih, yang tompok, yang belang leher"
+    },
+    {
+      "t": 42.74,
+      "end": 44.14,
+      "text": "Masuk sangkar, makan jagung, tidur awal"
+    },
+    {
+      "t": 46.12,
+      "end": 49.88,
+      "text": "Tinggal satu tak sampai lagi"
+    },
+    {
+      "t": 54.51,
+      "end": 54.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.51,
+      "end": 58.71,
+      "text": "Aku duduk atas tong air"
+    },
+    {
+      "t": 59.75,
+      "end": 64.59,
+      "text": "Jam tangan lama, kopi dah sejuk"
+    },
+    {
+      "t": 69.49,
+      "end": 69.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.49,
+      "end": 73.19,
+      "text": "Si Kelabu, lambat lagi"
+    },
+    {
+      "t": 75.29,
+      "end": 78.89,
+      "text": "Singgah mana pula kali ini"
+    },
+    {
+      "t": 79.99,
+      "end": 83.75,
+      "text": "Tak menang pun tak apa"
+    },
+    {
+      "t": 85.41,
+      "end": 93.73,
+      "text": "Asalkan kau ingat jalan balik"
+    },
+    {
+      "t": 93.83,
+      "end": 93.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.83,
+      "end": 98.27,
+      "text": "Dulu aku hantar surat satu taman"
+    },
+    {
+      "t": 98.41,
+      "end": 100.81,
+      "text": "Tak pernah sekali salah rumah"
+    },
+    {
+      "t": 100.93,
+      "end": 113.25,
+      "text": "Kau ni pula, burung pos"
+    },
+    {
+      "t": 114.65,
+      "end": 118.43,
+      "text": "Paling sesat dalam dunia"
+    },
+    {
+      "t": 120.37,
+      "end": 120.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 120.37,
+      "end": 129.91,
+      "text": "Matahari dah jatuh atas kilang"
+    },
+    {
+      "t": 130.13,
+      "end": 134.73,
+      "text": "Jiran panggil, Pak Din, masuklah"
+    },
+    {
+      "t": 139.19,
+      "end": 139.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.19,
+      "end": 142.87,
+      "text": "Si Kelabu, lambat lagi"
+    },
+    {
+      "t": 145.01,
+      "end": 148.61,
+      "text": "Tu dia, atas antena TV"
+    },
+    {
+      "t": 150.65,
+      "end": 154.17,
+      "text": "Tak menang pun tak apa"
+    },
+    {
+      "t": 155.97,
+      "end": 165.36,
+      "text": "Kau balik juga, macam aku dulu"
+    },
+    {
+      "t": 165.86,
+      "end": 165.86,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 165.86,
+      "end": 201.66,
+      "text": "Ahad depan kita cuba lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Intro - piano, solo cello]"
+    },
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.7,
+      "end": 34.26,
+      "text": "Pukul empat semua dah balik"
+    },
+    {
+      "t": 37.16,
+      "end": 42.74,
+      "text": "Yang putih, yang tompok, yang belang leher"
+    },
+    {
+      "t": 42.74,
+      "end": 44.9,
+      "text": "Masuk sangkar, makan jagung, tidur awal"
+    },
+    {
+      "t": 46.12,
+      "end": 49.86,
+      "text": "Tinggal satu tak sampai lagi"
+    },
+    {
+      "t": 54.51,
+      "end": 54.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.51,
+      "end": 58.69,
+      "text": "Aku duduk atas tong air"
+    },
+    {
+      "t": 59.75,
+      "end": 64.61,
+      "text": "Jam tangan lama, kopi dah sejuk"
+    },
+    {
+      "t": 69.49,
+      "end": 69.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.49,
+      "end": 73.19,
+      "text": "Si Kelabu, lambat lagi"
+    },
+    {
+      "t": 75.31,
+      "end": 78.89,
+      "text": "Singgah mana pula kali ini"
+    },
+    {
+      "t": 79.99,
+      "end": 83.75,
+      "text": "Tak menang pun tak apa"
+    },
+    {
+      "t": 85.41,
+      "end": 89.75,
+      "text": "Asalkan kau ingat jalan balik"
+    },
+    {
+      "t": 89.75,
+      "end": 89.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.75,
+      "end": 95.63,
+      "text": "Dulu aku hantar surat satu taman"
+    },
+    {
+      "t": 95.73,
+      "end": 100.43,
+      "text": "Tak pernah sekali salah rumah"
+    },
+    {
+      "t": 100.53,
+      "end": 113.25,
+      "text": "Kau ni pula, burung pos"
+    },
+    {
+      "t": 114.65,
+      "end": 118.43,
+      "text": "Paling sesat dalam dunia"
+    },
+    {
+      "t": 120.71,
+      "end": 120.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 120.71,
+      "end": 129.91,
+      "text": "Matahari dah jatuh atas kilang"
+    },
+    {
+      "t": 130.13,
+      "end": 134.69,
+      "text": "Jiran panggil, Pak Din, masuklah"
+    },
+    {
+      "t": 139.19,
+      "end": 139.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.19,
+      "end": 142.87,
+      "text": "Si Kelabu, lambat lagi"
+    },
+    {
+      "t": 145.01,
+      "end": 148.59,
+      "text": "Tu dia, atas antena TV"
+    },
+    {
+      "t": 150.67,
+      "end": 154.17,
+      "text": "Tak menang pun tak apa"
+    },
+    {
+      "t": 155.97,
+      "end": 165.36,
+      "text": "Kau balik juga, macam aku dulu"
+    },
+    {
+      "t": 165.86,
+      "end": 165.86,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 165.86,
+      "end": 177.08,
+      "text": "Ahad depan kita cuba lagi"
+    }
+  ]
+}

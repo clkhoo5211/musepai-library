@@ -1,0 +1,534 @@
+{
+  "id": "b9_id02",
+  "title": "Kolong Banjir",
+  "title_source": "scripted",
+  "genre": "Indonesian heavy alternative rock",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "sardonic, heavy and fed up",
+  "persona": "",
+  "subject": "riders pushing stalled motorbikes through a flooded underpass while a politician's smiling billboard hangs above them",
+  "caption": "Indonesian heavy alternative rock in the vein of .Feast, riff-driven and political. Two drop-D distorted guitars chugging a stop-start riff; a fuzz bass doubling the low end; hard-hitting live drums with tom fills and crash-heavy choruses; a feedback-laced guitar lead in the bridge. Dense and loud, dry room drums, guitars wide and saturated. Male baritone, half-spoken and sardonic in the verses, shouting a gritty chorus. 132 BPM, D minor. Sardonic, heavy and fed up. No pop-punk bounce, no autotune, no synth pads, no clean ballad breakdown, no screamo.",
+  "lyrics": "[Intro - drop-D riff and drums]\n\n[Verse 1]\nAir setinggi lutut di kolong jembatan\nMotor mati semua, busi kena basah\nAbang ojol dorong sambil teriak ke HP-nya\nOrderan batal, saldo tinggal dua ribu\n\n[Pre-Chorus]\nDi atas kepala kami ada baliho\nBapak berpeci senyum dari tahun lalu\n\n[Chorus]\nDorong, dorong, kolong banjir lagi\nJanjinya got dikeruk sebelum musim hujan\nDorong, dorong, sepatu sudah pasrah\nBapak di baliho kok nggak ikut kebasahan\n\n[Verse 2]\nIbu-ibu angkat daster sampai ke paha\nBocah main perahu dari kardus mi instan\nAda yang live di TikTok minta like dan doa\nAku cuma mau sampai kantor sebelum jam sembilan\n\n[Pre-Chorus]\nBaliho itu robek sedikit di pojok\nTapi senyumnya awet kayak cat tembok\n\n[Chorus]\nDorong, dorong, kolong banjir lagi\nTahun depan ganti baliho, airnya tetap sama\nDorong, dorong, knalpot minum air\nBapak di baliho, sini turun, bantu dorong juga\n\n[Bridge - feedback guitar and toms]\nLima tahun sekali kalian datang\nBawa kaos, bawa nasi, bawa senyum\n\n[Outro - riff stops dead]\nBusi dijemur di atas jok\nNanti sore kita dorong lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Indonesian heavy alternative rock in the vein of .Feast, riff-driven and political. Two drop-D distorted guitars chugging a stop-start riff; a fuzz bass doubling the low end; hard-hitting live drums with tom fills and crash-heavy choruses; a feedback-laced guitar lead in the bridge. Dense and loud, dry room drums, guitars wide and saturated. Male baritone, half-spoken and sardonic in the verses, shouting a gritty chorus. 132 BPM, D minor. Sardonic, heavy and fed up. No pop-punk bounce, no autotune, no synth pads, no clean ballad breakdown, no screamo.",
+    "lyrics": "[Intro - drop-D riff and drums]\n\n[Verse 1]\nAir setinggi lutut di kolong jembatan\nMotor mati semua, busi kena basah\nAbang ojol dorong sambil teriak ke HP-nya\nOrderan batal, saldo tinggal dua ribu\n\n[Pre-Chorus]\nDi atas kepala kami ada baliho\nBapak berpeci senyum dari tahun lalu\n\n[Chorus]\nDorong, dorong, kolong banjir lagi\nJanjinya got dikeruk sebelum musim hujan\nDorong, dorong, sepatu sudah pasrah\nBapak di baliho kok nggak ikut kebasahan\n\n[Verse 2]\nIbu-ibu angkat daster sampai ke paha\nBocah main perahu dari kardus mi instan\nAda yang live di TikTok minta like dan doa\nAku cuma mau sampai kantor sebelum jam sembilan\n\n[Pre-Chorus]\nBaliho itu robek sedikit di pojok\nTapi senyumnya awet kayak cat tembok\n\n[Chorus]\nDorong, dorong, kolong banjir lagi\nTahun depan ganti baliho, airnya tetap sama\nDorong, dorong, knalpot minum air\nBapak di baliho, sini turun, bantu dorong juga\n\n[Bridge - feedback guitar and toms]\nLima tahun sekali kalian datang\nBawa kaos, bawa nasi, bawa senyum\n\n[Outro - riff stops dead]\nBusi dijemur di atas jok\nNanti sore kita dorong lagi"
+  },
+  "seed": "595538053",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.46s**\n- 61.46s per song\n- LM phase (1 song): 17.05s\n- DiT phase (1 song): 44.41s",
+  "task_id": "4b99bdf4-1d91-4946-9941-fc5ed8f37a80",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-15T15:52:26.712751+08:00",
+  "audio": "b9_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 11.22,
+      "end": 11.22,
+      "text": "[Intro - drop-D riff and drums]"
+    },
+    {
+      "t": 11.22,
+      "end": 11.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.22,
+      "end": 34.4,
+      "text": "Air setinggi lutut di kolong jembatan"
+    },
+    {
+      "t": 36.56,
+      "end": 38.88,
+      "text": "Motor mati semua, busi kena basah"
+    },
+    {
+      "t": 38.98,
+      "end": 40.44,
+      "text": "Abang ojol dorong sambil teriak ke HP-nya"
+    },
+    {
+      "t": 40.44,
+      "end": 42.5,
+      "text": "Orderan batal, saldo tinggal dua ribu"
+    },
+    {
+      "t": 43.86,
+      "end": 43.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.86,
+      "end": 48.04,
+      "text": "Di atas kepala kami ada baliho"
+    },
+    {
+      "t": 48.12,
+      "end": 51.7,
+      "text": "Bapak berpeci senyum dari tahun lalu"
+    },
+    {
+      "t": 54.41,
+      "end": 54.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.41,
+      "end": 58.27,
+      "text": "Dorong, dorong, kolong banjir lagi"
+    },
+    {
+      "t": 58.61,
+      "end": 60.01,
+      "text": "Janjinya got dikeruk sebelum musim hujan"
+    },
+    {
+      "t": 60.01,
+      "end": 61.97,
+      "text": "Dorong, dorong, sepatu sudah pasrah"
+    },
+    {
+      "t": 62.95,
+      "end": 69.17,
+      "text": "Bapak di baliho kok nggak ikut kebasahan"
+    },
+    {
+      "t": 70.57,
+      "end": 70.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.57,
+      "end": 76.23,
+      "text": "Ibu-ibu angkat daster sampai ke paha"
+    },
+    {
+      "t": 77.25,
+      "end": 83.87,
+      "text": "Bocah main perahu dari kardus mi instan"
+    },
+    {
+      "t": 84.85,
+      "end": 90.11,
+      "text": "Ada yang live di TikTok minta like dan doa"
+    },
+    {
+      "t": 90.15,
+      "end": 92.13,
+      "text": "Aku cuma mau sampai kantor sebelum jam sembilan"
+    },
+    {
+      "t": 92.13,
+      "end": 92.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.13,
+      "end": 97.15,
+      "text": "Baliho itu robek sedikit di pojok"
+    },
+    {
+      "t": 99.39,
+      "end": 104.09,
+      "text": "Tapi senyumnya awet kayak cat tembok"
+    },
+    {
+      "t": 104.25,
+      "end": 104.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.25,
+      "end": 107.11,
+      "text": "Dorong, dorong, kolong banjir lagi"
+    },
+    {
+      "t": 107.11,
+      "end": 111.13,
+      "text": "Tahun depan ganti baliho, airnya tetap sama"
+    },
+    {
+      "t": 111.45,
+      "end": 117.17,
+      "text": "Dorong, dorong, knalpot minum air"
+    },
+    {
+      "t": 118.09,
+      "end": 125.73,
+      "text": "Bapak di baliho, sini turun, bantu dorong juga"
+    },
+    {
+      "t": 131.71,
+      "end": 131.71,
+      "text": "[Bridge - feedback guitar and toms]"
+    },
+    {
+      "t": 131.71,
+      "end": 147.57,
+      "text": "Lima tahun sekali kalian datang"
+    },
+    {
+      "t": 150.11,
+      "end": 160.22,
+      "text": "Bawa kaos, bawa nasi, bawa senyum"
+    },
+    {
+      "t": 172.78,
+      "end": 172.78,
+      "text": "[Outro - riff stops dead]"
+    },
+    {
+      "t": 172.78,
+      "end": 180.06,
+      "text": "Busi dijemur di atas jok"
+    },
+    {
+      "t": 180.46,
+      "end": 192.76,
+      "text": "Nanti sore kita dorong lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 11.22,
+      "end": 11.22,
+      "text": "[Intro - drop-D riff and drums]"
+    },
+    {
+      "t": 11.22,
+      "end": 11.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.22,
+      "end": 34.4,
+      "text": "Air setinggi lutut di kolong jembatan"
+    },
+    {
+      "t": 36.56,
+      "end": 38.88,
+      "text": "Motor mati semua, busi kena basah"
+    },
+    {
+      "t": 38.98,
+      "end": 40.44,
+      "text": "Abang ojol dorong sambil teriak ke HP-nya"
+    },
+    {
+      "t": 40.44,
+      "end": 42.5,
+      "text": "Orderan batal, saldo tinggal dua ribu"
+    },
+    {
+      "t": 43.86,
+      "end": 43.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.86,
+      "end": 48.04,
+      "text": "Di atas kepala kami ada baliho"
+    },
+    {
+      "t": 48.12,
+      "end": 51.7,
+      "text": "Bapak berpeci senyum dari tahun lalu"
+    },
+    {
+      "t": 54.41,
+      "end": 54.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.41,
+      "end": 58.27,
+      "text": "Dorong, dorong, kolong banjir lagi"
+    },
+    {
+      "t": 58.61,
+      "end": 60.01,
+      "text": "Janjinya got dikeruk sebelum musim hujan"
+    },
+    {
+      "t": 60.01,
+      "end": 61.97,
+      "text": "Dorong, dorong, sepatu sudah pasrah"
+    },
+    {
+      "t": 62.95,
+      "end": 69.17,
+      "text": "Bapak di baliho kok nggak ikut kebasahan"
+    },
+    {
+      "t": 70.57,
+      "end": 70.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.57,
+      "end": 76.23,
+      "text": "Ibu-ibu angkat daster sampai ke paha"
+    },
+    {
+      "t": 77.25,
+      "end": 83.87,
+      "text": "Bocah main perahu dari kardus mi instan"
+    },
+    {
+      "t": 84.85,
+      "end": 90.11,
+      "text": "Ada yang live di TikTok minta like dan doa"
+    },
+    {
+      "t": 90.15,
+      "end": 92.13,
+      "text": "Aku cuma mau sampai kantor sebelum jam sembilan"
+    },
+    {
+      "t": 92.13,
+      "end": 92.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.13,
+      "end": 97.15,
+      "text": "Baliho itu robek sedikit di pojok"
+    },
+    {
+      "t": 99.39,
+      "end": 104.09,
+      "text": "Tapi senyumnya awet kayak cat tembok"
+    },
+    {
+      "t": 104.25,
+      "end": 104.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.25,
+      "end": 107.11,
+      "text": "Dorong, dorong, kolong banjir lagi"
+    },
+    {
+      "t": 107.11,
+      "end": 111.13,
+      "text": "Tahun depan ganti baliho, airnya tetap sama"
+    },
+    {
+      "t": 111.45,
+      "end": 117.17,
+      "text": "Dorong, dorong, knalpot minum air"
+    },
+    {
+      "t": 118.09,
+      "end": 125.73,
+      "text": "Bapak di baliho, sini turun, bantu dorong juga"
+    },
+    {
+      "t": 131.71,
+      "end": 131.71,
+      "text": "[Bridge - feedback guitar and toms]"
+    },
+    {
+      "t": 131.71,
+      "end": 147.57,
+      "text": "Lima tahun sekali kalian datang"
+    },
+    {
+      "t": 150.11,
+      "end": 160.22,
+      "text": "Bawa kaos, bawa nasi, bawa senyum"
+    },
+    {
+      "t": 172.78,
+      "end": 172.78,
+      "text": "[Outro - riff stops dead]"
+    },
+    {
+      "t": 172.78,
+      "end": 180.06,
+      "text": "Busi dijemur di atas jok"
+    },
+    {
+      "t": 180.46,
+      "end": 192.76,
+      "text": "Nanti sore kita dorong lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 11.24,
+      "end": 11.24,
+      "text": "[Intro - drop-D riff and drums]"
+    },
+    {
+      "t": 11.24,
+      "end": 11.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.24,
+      "end": 34.38,
+      "text": "Air setinggi lutut di kolong jembatan"
+    },
+    {
+      "t": 36.56,
+      "end": 41.64,
+      "text": "Motor mati semua, busi kena basah"
+    },
+    {
+      "t": 41.84,
+      "end": 42.94,
+      "text": "Abang ojol dorong sambil teriak ke HP-nya"
+    },
+    {
+      "t": 42.94,
+      "end": 44.64,
+      "text": "Orderan batal, saldo tinggal dua ribu"
+    },
+    {
+      "t": 44.64,
+      "end": 44.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.64,
+      "end": 48.04,
+      "text": "Di atas kepala kami ada baliho"
+    },
+    {
+      "t": 48.12,
+      "end": 51.72,
+      "text": "Bapak berpeci senyum dari tahun lalu"
+    },
+    {
+      "t": 51.72,
+      "end": 51.72,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.72,
+      "end": 55.91,
+      "text": "Dorong, dorong, kolong banjir lagi"
+    },
+    {
+      "t": 55.91,
+      "end": 56.89,
+      "text": "Janjinya got dikeruk sebelum musim hujan"
+    },
+    {
+      "t": 56.89,
+      "end": 61.03,
+      "text": "Dorong, dorong, sepatu sudah pasrah"
+    },
+    {
+      "t": 62.95,
+      "end": 69.17,
+      "text": "Bapak di baliho kok nggak ikut kebasahan"
+    },
+    {
+      "t": 70.59,
+      "end": 70.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.59,
+      "end": 76.25,
+      "text": "Ibu-ibu angkat daster sampai ke paha"
+    },
+    {
+      "t": 77.25,
+      "end": 83.85,
+      "text": "Bocah main perahu dari kardus mi instan"
+    },
+    {
+      "t": 84.83,
+      "end": 90.07,
+      "text": "Ada yang live di TikTok minta like dan doa"
+    },
+    {
+      "t": 90.09,
+      "end": 92.11,
+      "text": "Aku cuma mau sampai kantor sebelum jam sembilan"
+    },
+    {
+      "t": 92.13,
+      "end": 92.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.13,
+      "end": 97.15,
+      "text": "Baliho itu robek sedikit di pojok"
+    },
+    {
+      "t": 99.39,
+      "end": 104.43,
+      "text": "Tapi senyumnya awet kayak cat tembok"
+    },
+    {
+      "t": 104.45,
+      "end": 104.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.45,
+      "end": 106.89,
+      "text": "Dorong, dorong, kolong banjir lagi"
+    },
+    {
+      "t": 106.89,
+      "end": 111.13,
+      "text": "Tahun depan ganti baliho, airnya tetap sama"
+    },
+    {
+      "t": 111.47,
+      "end": 117.17,
+      "text": "Dorong, dorong, knalpot minum air"
+    },
+    {
+      "t": 118.11,
+      "end": 137.71,
+      "text": "Bapak di baliho, sini turun, bantu dorong juga"
+    },
+    {
+      "t": 143.73,
+      "end": 143.73,
+      "text": "[Bridge - feedback guitar and toms]"
+    },
+    {
+      "t": 143.73,
+      "end": 147.59,
+      "text": "Lima tahun sekali kalian datang"
+    },
+    {
+      "t": 150.11,
+      "end": 160.78,
+      "text": "Bawa kaos, bawa nasi, bawa senyum"
+    },
+    {
+      "t": 172.78,
+      "end": 172.78,
+      "text": "[Outro - riff stops dead]"
+    },
+    {
+      "t": 172.78,
+      "end": 180.06,
+      "text": "Busi dijemur di atas jok"
+    },
+    {
+      "t": 180.46,
+      "end": 192.76,
+      "text": "Nanti sore kita dorong lagi"
+    }
+  ]
+}

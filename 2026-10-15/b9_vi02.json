@@ -1,0 +1,337 @@
+{
+  "id": "b9_vi02",
+  "title": "Chấm Xanh Trên Bản Đồ",
+  "title_source": "scripted",
+  "genre": "V-pop R&B dance-pop",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "warm, smitten and gently giddy",
+  "persona": "",
+  "subject": "a man who stays up every night watching his girlfriend's ride-hailing driver dot crawl across the Saigon map until it parks outside their building, then goes down with a warm bowl of noodles",
+  "caption": "V-pop R&B dance-pop in the 2025 Dương Domic chart style. A tight drum machine with a snappy clap on two and four; warm Rhodes electric piano chords; muted funk guitar plucks on the off-beats; a round synth bass sliding between roots; a soft string pad opening the chorus. Glossy but intimate, punchy low end, dry lead vocal with a short slap delay. Male voice, a smooth light tenor sung close to the mic in the verses, lifting into falsetto with stacked harmonies in the chorus. 104 BPM, Bb major. Warm, smitten and gently giddy. No trap hi-hats, no heavy autotune, no EDM drop, no rap verse, no ballad piano intro.",
+  "lyrics": "[Intro - Rhodes chords and clap]\n\n[Verse 1]\nMười một giờ đêm em nhắn: chuyến cuối nha anh\nKhách đi Thủ Đức, xa xíu mà thôi\nAnh mở app lên, ngồi canh một chấm xanh\nBò qua cầu Sài Gòn chậm như con kiến\n\n[Pre-Chorus]\nĐèn đỏ thì em dừng, anh cũng nín thở\nRẽ trái một cái, anh đứng dậy luôn\n\n[Chorus]\nChấm xanh trên bản đồ, chạy về đây với anh\nNồi mì anh nấu rồi, trứng còn lòng đào\nĐừng ghé đâu nữa, em ơi\nĐậu dưới nhà, anh xuống liền\n\n[Verse 2]\nEm nói anh khùng, canh hoài không biết chán\nNgày mai anh đi làm sớm thì sao\nCả thành phố cả triệu chấm giống nhau\nAnh chỉ thuộc lòng đường về của một người\n\n[Pre-Chorus]\nEm gửi tin nhắn: còn năm phút nữa\nAnh hâm nồi mì thêm một lần thôi\n\n[Chorus]\nChấm xanh trên bản đồ, quẹo vô hẻm nhà mình\nÁo khoác em ướt sương, nón còn chưa tháo\nĐưa anh chìa khóa xe, em ơi\nLên nhà ăn mì, để anh khóa cổng\n\n[Outro - falsetto over strings]\nChấm xanh ơi, ngủ ngon\nMai em chạy, anh lại thức canh",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 196.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "3",
+    "prompt": "V-pop R&B dance-pop in the 2025 Dương Domic chart style. A tight drum machine with a snappy clap on two and four; warm Rhodes electric piano chords; muted funk guitar plucks on the off-beats; a round synth bass sliding between roots; a soft string pad opening the chorus. Glossy but intimate, punchy low end, dry lead vocal with a short slap delay. Male voice, a smooth light tenor sung close to the mic in the verses, lifting into falsetto with stacked harmonies in the chorus. 104 BPM, Bb major. Warm, smitten and gently giddy. No trap hi-hats, no heavy autotune, no EDM drop, no rap verse, no ballad piano intro.",
+    "lyrics": "[Intro - Rhodes chords and clap]\n\n[Verse 1]\nMười một giờ đêm em nhắn: chuyến cuối nha anh\nKhách đi Thủ Đức, xa xíu mà thôi\nAnh mở app lên, ngồi canh một chấm xanh\nBò qua cầu Sài Gòn chậm như con kiến\n\n[Pre-Chorus]\nĐèn đỏ thì em dừng, anh cũng nín thở\nRẽ trái một cái, anh đứng dậy luôn\n\n[Chorus]\nChấm xanh trên bản đồ, chạy về đây với anh\nNồi mì anh nấu rồi, trứng còn lòng đào\nĐừng ghé đâu nữa, em ơi\nĐậu dưới nhà, anh xuống liền\n\n[Verse 2]\nEm nói anh khùng, canh hoài không biết chán\nNgày mai anh đi làm sớm thì sao\nCả thành phố cả triệu chấm giống nhau\nAnh chỉ thuộc lòng đường về của một người\n\n[Pre-Chorus]\nEm gửi tin nhắn: còn năm phút nữa\nAnh hâm nồi mì thêm một lần thôi\n\n[Chorus]\nChấm xanh trên bản đồ, quẹo vô hẻm nhà mình\nÁo khoác em ướt sương, nón còn chưa tháo\nĐưa anh chìa khóa xe, em ơi\nLên nhà ăn mì, để anh khóa cổng\n\n[Outro - falsetto over strings]\nChấm xanh ơi, ngủ ngon\nMai em chạy, anh lại thức canh"
+  },
+  "seed": "2955396490",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.91s**\n- 69.91s per song\n- LM phase (1 song): 19.67s\n- DiT phase (1 song): 50.25s",
+  "task_id": "6dd7dc2f-8099-41f9-b340-5ae395f40b88",
+  "elapsed_s": 100.9,
+  "generated_at": "2026-10-15T16:00:18.319638+08:00",
+  "audio": "b9_vi02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - Rhodes chords and clap]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 18.4,
+      "text": "Mười một giờ đêm em nhắn: chuyến cuối nha anh"
+    },
+    {
+      "t": 18.4,
+      "end": 22.44,
+      "text": "Khách đi Thủ Đức, xa xíu mà thôi"
+    },
+    {
+      "t": 22.44,
+      "end": 29.06,
+      "text": "Anh mở app lên, ngồi canh một chấm xanh"
+    },
+    {
+      "t": 29.06,
+      "end": 33.4,
+      "text": "Bò qua cầu Sài Gòn chậm như con kiến"
+    },
+    {
+      "t": 33.4,
+      "end": 33.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.4,
+      "end": 36.38,
+      "text": "Đèn đỏ thì em dừng, anh cũng nín thở"
+    },
+    {
+      "t": 36.38,
+      "end": 40.1,
+      "text": "Rẽ trái một cái, anh đứng dậy luôn"
+    },
+    {
+      "t": 40.26,
+      "end": 40.26,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.26,
+      "end": 50.29,
+      "text": "Chấm xanh trên bản đồ, chạy về đây với anh"
+    },
+    {
+      "t": 50.29,
+      "end": 54.33,
+      "text": "Nồi mì anh nấu rồi, trứng còn lòng đào"
+    },
+    {
+      "t": 54.33,
+      "end": 56.19,
+      "text": "Đừng ghé đâu nữa, em ơi"
+    },
+    {
+      "t": 56.85,
+      "end": 57.93,
+      "text": "Đậu dưới nhà, anh xuống liền"
+    },
+    {
+      "t": 63.23,
+      "end": 63.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.23,
+      "end": 68.37,
+      "text": "Em nói anh khùng, canh hoài không biết chán"
+    },
+    {
+      "t": 68.39,
+      "end": 71.11,
+      "text": "Ngày mai anh đi làm sớm thì sao"
+    },
+    {
+      "t": 71.11,
+      "end": 74.71,
+      "text": "Cả thành phố cả triệu chấm giống nhau"
+    },
+    {
+      "t": 76.15,
+      "end": 80.35,
+      "text": "Anh chỉ thuộc lòng đường về của một người"
+    },
+    {
+      "t": 82.71,
+      "end": 82.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.71,
+      "end": 86.85,
+      "text": "Em gửi tin nhắn: còn năm phút nữa"
+    },
+    {
+      "t": 86.93,
+      "end": 90.79,
+      "text": "Anh hâm nồi mì thêm một lần thôi"
+    },
+    {
+      "t": 92.65,
+      "end": 92.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.65,
+      "end": 97.27,
+      "text": "Chấm xanh trên bản đồ, quẹo vô hẻm nhà mình"
+    },
+    {
+      "t": 99.13,
+      "end": 106.79,
+      "text": "Áo khoác em ướt sương, nón còn chưa tháo"
+    },
+    {
+      "t": 107.01,
+      "end": 114.57,
+      "text": "Đưa anh chìa khóa xe, em ơi"
+    },
+    {
+      "t": 114.57,
+      "end": 119.63,
+      "text": "Lên nhà ăn mì, để anh khóa cổng"
+    },
+    {
+      "t": 143.25,
+      "end": 143.25,
+      "text": "[Outro - falsetto over strings]"
+    },
+    {
+      "t": 143.25,
+      "end": 163.74,
+      "text": "Chấm xanh ơi, ngủ ngon"
+    },
+    {
+      "t": 172.08,
+      "end": 177.24,
+      "text": "Mai em chạy, anh lại thức canh"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.44,
+      "end": 7.44,
+      "text": "[Intro - Rhodes chords and clap]"
+    },
+    {
+      "t": 7.44,
+      "end": 7.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.44,
+      "end": 15.98,
+      "text": "Mười một giờ đêm em nhắn: chuyến cuối nha anh"
+    },
+    {
+      "t": 15.98,
+      "end": 29.68,
+      "text": "Khách đi Thủ Đức, xa xíu mà thôi"
+    },
+    {
+      "t": 29.68,
+      "end": 39.36,
+      "text": "Anh mở app lên, ngồi canh một chấm xanh"
+    },
+    {
+      "t": 39.36,
+      "end": 40.28,
+      "text": "Bò qua cầu Sài Gòn chậm như con kiến"
+    },
+    {
+      "t": 40.34,
+      "end": 40.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.34,
+      "end": 50.09,
+      "text": "Đèn đỏ thì em dừng, anh cũng nín thở"
+    },
+    {
+      "t": 50.09,
+      "end": 50.59,
+      "text": "Rẽ trái một cái, anh đứng dậy luôn"
+    },
+    {
+      "t": 50.59,
+      "end": 50.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.59,
+      "end": 51.87,
+      "text": "Chấm xanh trên bản đồ, chạy về đây với anh"
+    },
+    {
+      "t": 51.87,
+      "end": 54.33,
+      "text": "Nồi mì anh nấu rồi, trứng còn lòng đào"
+    },
+    {
+      "t": 54.33,
+      "end": 55.37,
+      "text": "Đừng ghé đâu nữa, em ơi"
+    },
+    {
+      "t": 55.39,
+      "end": 63.17,
+      "text": "Đậu dưới nhà, anh xuống liền"
+    },
+    {
+      "t": 63.23,
+      "end": 63.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.23,
+      "end": 68.41,
+      "text": "Em nói anh khùng, canh hoài không biết chán"
+    },
+    {
+      "t": 68.43,
+      "end": 71.11,
+      "text": "Ngày mai anh đi làm sớm thì sao"
+    },
+    {
+      "t": 71.21,
+      "end": 74.73,
+      "text": "Cả thành phố cả triệu chấm giống nhau"
+    },
+    {
+      "t": 76.15,
+      "end": 80.23,
+      "text": "Anh chỉ thuộc lòng đường về của một người"
+    },
+    {
+      "t": 82.71,
+      "end": 82.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.71,
+      "end": 86.67,
+      "text": "Em gửi tin nhắn: còn năm phút nữa"
+    },
+    {
+      "t": 86.75,
+      "end": 90.79,
+      "text": "Anh hâm nồi mì thêm một lần thôi"
+    },
+    {
+      "t": 92.65,
+      "end": 92.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.65,
+      "end": 99.05,
+      "text": "Chấm xanh trên bản đồ, quẹo vô hẻm nhà mình"
+    },
+    {
+      "t": 99.15,
+      "end": 106.81,
+      "text": "Áo khoác em ướt sương, nón còn chưa tháo"
+    },
+    {
+      "t": 107.01,
+      "end": 114.55,
+      "text": "Đưa anh chìa khóa xe, em ơi"
+    },
+    {
+      "t": 114.55,
+      "end": 119.65,
+      "text": "Lên nhà ăn mì, để anh khóa cổng"
+    },
+    {
+      "t": 143.25,
+      "end": 143.25,
+      "text": "[Outro - falsetto over strings]"
+    },
+    {
+      "t": 143.25,
+      "end": 162.06,
+      "text": "Chấm xanh ơi, ngủ ngon"
+    },
+    {
+      "t": 172.06,
+      "end": 177.28,
+      "text": "Mai em chạy, anh lại thức canh"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

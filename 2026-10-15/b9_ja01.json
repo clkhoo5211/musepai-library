@@ -1,0 +1,327 @@
+{
+  "id": "b9_ja01",
+  "title": "帯の結び方",
+  "title_source": "scripted",
+  "genre": "Japanese UK garage 2-step pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "shy, warm and quietly giddy",
+  "persona": "",
+  "subject": "a boyfriend who secretly learns to tie a yukata obi from videos so he can dress her for the summer fireworks festival",
+  "caption": "Japanese UK garage 2-step pop in the late-2020s Tokyo style. A shuffled 2-step drum machine with skipping kicks, rimshots and swung hi-hats; a rounded sub bass sliding between root notes; Rhodes electric piano playing minor-seventh chords on the off-beats; filtered organ stabs at phrase ends; muted clean guitar plucks in the gaps. Late-night and clean, crisp swung hats, warm sub, short room reverb with space between hits. Male voice, a soft close-miked light tenor, half-spoken in the verses with a light double on the chorus. 132 BPM, F minor. Shy, warm and quietly giddy. No trap hi-hats, no autotune, no four-on-the-floor house kick, no EDM drop, no rap verse.",
+  "lyrics": "[Intro - 2-step drums and Rhodes]\n\n[Verse 1]\n先週から 夜中にこっそり\n動画を止めては 巻き直してた\n帯をふた巻き ぐっと締めて\n羽根みたいに 結べるはずなんだ\n\n[Pre-Chorus]\n「誰に習ったの」って 君が笑う\nまあね とだけ 言っておく\n\n[Chorus]\n後ろ向いて じっとしてて\nちょっと苦しい? もうちょっとだけ\n花火まで あと三十分\n君の背中で 答え合わせだ\n\n[Verse 2]\n左右の長さが ちょっと違う\nやり直したら 時間がない\n「これでいいよ」と 鏡を見て\n君がくるっと 一回まわった\n\n[Pre-Chorus]\n下駄の音が 先に走る\n待ってよ 財布 忘れてる\n\n[Chorus]\n後ろ向いて じっとしてて\n花火の音で 帯が揺れる\nゆがんだ結び目 誰も見てない\n君の背中だけ 僕が見てる\n\n[Outro - Rhodes and shaker]\n来年は ちゃんと結べるから",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Japanese UK garage 2-step pop in the late-2020s Tokyo style. A shuffled 2-step drum machine with skipping kicks, rimshots and swung hi-hats; a rounded sub bass sliding between root notes; Rhodes electric piano playing minor-seventh chords on the off-beats; filtered organ stabs at phrase ends; muted clean guitar plucks in the gaps. Late-night and clean, crisp swung hats, warm sub, short room reverb with space between hits. Male voice, a soft close-miked light tenor, half-spoken in the verses with a light double on the chorus. 132 BPM, F minor. Shy, warm and quietly giddy. No trap hi-hats, no autotune, no four-on-the-floor house kick, no EDM drop, no rap verse.",
+    "lyrics": "[Intro - 2-step drums and Rhodes]\n\n[Verse 1]\n先週から 夜中にこっそり\n動画を止めては 巻き直してた\n帯をふた巻き ぐっと締めて\n羽根みたいに 結べるはずなんだ\n\n[Pre-Chorus]\n「誰に習ったの」って 君が笑う\nまあね とだけ 言っておく\n\n[Chorus]\n後ろ向いて じっとしてて\nちょっと苦しい? もうちょっとだけ\n花火まで あと三十分\n君の背中で 答え合わせだ\n\n[Verse 2]\n左右の長さが ちょっと違う\nやり直したら 時間がない\n「これでいいよ」と 鏡を見て\n君がくるっと 一回まわった\n\n[Pre-Chorus]\n下駄の音が 先に走る\n待ってよ 財布 忘れてる\n\n[Chorus]\n後ろ向いて じっとしてて\n花火の音で 帯が揺れる\nゆがんだ結び目 誰も見てない\n君の背中だけ 僕が見てる\n\n[Outro - Rhodes and shaker]\n来年は ちゃんと結べるから"
+  },
+  "seed": "454718117",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.16s**\n- 65.16s per song\n- LM phase (1 song): 15.69s\n- DiT phase (1 song): 49.47s",
+  "task_id": "0177a07b-1e3b-4767-ab3b-06a9c0e5863f",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-15T16:31:53.345947+08:00",
+  "audio": "b9_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.26,
+      "end": 10.26,
+      "text": "[Intro - 2-step drums and Rhodes]"
+    },
+    {
+      "t": 10.26,
+      "end": 10.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.26,
+      "end": 17.1,
+      "text": "先週から 夜中にこっそり"
+    },
+    {
+      "t": 17.42,
+      "end": 31.0,
+      "text": "動画を止めては 巻き直してた"
+    },
+    {
+      "t": 31.02,
+      "end": 34.18,
+      "text": "帯をふた巻き ぐっと締めて"
+    },
+    {
+      "t": 37.26,
+      "end": 41.54,
+      "text": "羽根みたいに 結べるはずなんだ"
+    },
+    {
+      "t": 44.62,
+      "end": 44.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.62,
+      "end": 51.07,
+      "text": "「誰に習ったの」って 君が笑う"
+    },
+    {
+      "t": 51.95,
+      "end": 55.69,
+      "text": "まあね とだけ 言っておく"
+    },
+    {
+      "t": 55.79,
+      "end": 55.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.79,
+      "end": 61.37,
+      "text": "後ろ向いて じっとしてて"
+    },
+    {
+      "t": 62.89,
+      "end": 66.85,
+      "text": "ちょっと苦しい? もうちょっとだけ"
+    },
+    {
+      "t": 66.97,
+      "end": 71.01,
+      "text": "花火まで あと三十分"
+    },
+    {
+      "t": 71.17,
+      "end": 76.03,
+      "text": "君の背中で 答え合わせだ"
+    },
+    {
+      "t": 76.17,
+      "end": 76.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.17,
+      "end": 79.19,
+      "text": "左右の長さが ちょっと違う"
+    },
+    {
+      "t": 79.19,
+      "end": 83.43,
+      "text": "やり直したら 時間がない"
+    },
+    {
+      "t": 83.47,
+      "end": 99.13,
+      "text": "「これでいいよ」と 鏡を見て"
+    },
+    {
+      "t": 99.31,
+      "end": 102.21,
+      "text": "君がくるっと 一回まわった"
+    },
+    {
+      "t": 106.35,
+      "end": 106.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.35,
+      "end": 109.97,
+      "text": "下駄の音が 先に走る"
+    },
+    {
+      "t": 110.03,
+      "end": 117.31,
+      "text": "待ってよ 財布 忘れてる"
+    },
+    {
+      "t": 120.77,
+      "end": 120.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.77,
+      "end": 123.63,
+      "text": "後ろ向いて じっとしてて"
+    },
+    {
+      "t": 127.61,
+      "end": 131.17,
+      "text": "花火の音で 帯が揺れる"
+    },
+    {
+      "t": 134.85,
+      "end": 138.17,
+      "text": "ゆがんだ結び目 誰も見てない"
+    },
+    {
+      "t": 138.27,
+      "end": 142.49,
+      "text": "君の背中だけ 僕が見てる"
+    },
+    {
+      "t": 145.31,
+      "end": 145.31,
+      "text": "[Outro - Rhodes and shaker]"
+    },
+    {
+      "t": 145.31,
+      "end": 153.42,
+      "text": "来年は ちゃんと結べるから"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 10.26,
+      "end": 10.26,
+      "text": "[Intro - 2-step drums and Rhodes]"
+    },
+    {
+      "t": 10.26,
+      "end": 10.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.26,
+      "end": 31.62,
+      "text": "先週から 夜中にこっそり"
+    },
+    {
+      "t": 31.78,
+      "end": 37.7,
+      "text": "動画を止めては 巻き直してた"
+    },
+    {
+      "t": 37.76,
+      "end": 39.32,
+      "text": "帯をふた巻き ぐっと締めて"
+    },
+    {
+      "t": 39.32,
+      "end": 44.72,
+      "text": "羽根みたいに 結べるはずなんだ"
+    },
+    {
+      "t": 44.82,
+      "end": 44.82,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.82,
+      "end": 50.3,
+      "text": "「誰に習ったの」って 君が笑う"
+    },
+    {
+      "t": 51.95,
+      "end": 55.63,
+      "text": "まあね とだけ 言っておく"
+    },
+    {
+      "t": 55.63,
+      "end": 55.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.63,
+      "end": 61.37,
+      "text": "後ろ向いて じっとしてて"
+    },
+    {
+      "t": 62.89,
+      "end": 63.83,
+      "text": "ちょっと苦しい? もうちょっとだけ"
+    },
+    {
+      "t": 63.83,
+      "end": 64.95,
+      "text": "花火まで あと三十分"
+    },
+    {
+      "t": 64.95,
+      "end": 66.63,
+      "text": "君の背中で 答え合わせだ"
+    },
+    {
+      "t": 66.73,
+      "end": 66.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.73,
+      "end": 70.77,
+      "text": "左右の長さが ちょっと違う"
+    },
+    {
+      "t": 70.77,
+      "end": 77.17,
+      "text": "やり直したら 時間がない"
+    },
+    {
+      "t": 77.33,
+      "end": 99.37,
+      "text": "「これでいいよ」と 鏡を見て"
+    },
+    {
+      "t": 99.37,
+      "end": 102.19,
+      "text": "君がくるっと 一回まわった"
+    },
+    {
+      "t": 106.33,
+      "end": 106.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.33,
+      "end": 109.97,
+      "text": "下駄の音が 先に走る"
+    },
+    {
+      "t": 113.05,
+      "end": 117.29,
+      "text": "待ってよ 財布 忘れてる"
+    },
+    {
+      "t": 120.59,
+      "end": 120.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.59,
+      "end": 123.37,
+      "text": "後ろ向いて じっとしてて"
+    },
+    {
+      "t": 123.51,
+      "end": 134.79,
+      "text": "花火の音で 帯が揺れる"
+    },
+    {
+      "t": 134.87,
+      "end": 138.41,
+      "text": "ゆがんだ結び目 誰も見てない"
+    },
+    {
+      "t": 138.49,
+      "end": 141.69,
+      "text": "君の背中だけ 僕が見てる"
+    },
+    {
+      "t": 141.69,
+      "end": 141.69,
+      "text": "[Outro - Rhodes and shaker]"
+    },
+    {
+      "t": 141.69,
+      "end": 164.48,
+      "text": "来年は ちゃんと結べるから"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

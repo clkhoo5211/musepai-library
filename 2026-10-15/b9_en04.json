@@ -1,0 +1,337 @@
+{
+  "id": "b9_en04",
+  "title": "Four A.M. Proof",
+  "title_source": "scripted",
+  "genre": "grunge revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "bleary, sardonic and restless",
+  "persona": "",
+  "subject": "the overnight baker at a supermarket in-store bakery waiting on dough to prove at four in the morning while the shelf-stackers argue about football",
+  "caption": "Grunge revival in the 2025 Los Angeles young-band style, loud-quiet-loud. Clean arpeggiated electric guitar in the verses; heavy fuzz drop-D guitars slamming in for the chorus; a distorted bass doubling the riff; pounding live drums with washing crash cymbals. Thick, garage-loud production, wide guitars, vocal slightly buried in the mix. Male baritone, slurred and low in the verses, rising to a hoarse shouted chorus. 118 BPM, D minor. Bleary, sardonic and restless. No nu-metal rap, no screamed metalcore breakdown, no autotune, no electronic drums, no pop-punk brightness.",
+  "lyrics": "[Intro - detuned guitar and bass, slow]\n\n[Verse 1]\nHairnet, white clogs, the oven clock says four\nTwo hundred baguettes and nobody wants more\nThe dough's in the cabinet, it's taking its time\nSomebody's stacking beans in aisle nine\n\n[Pre-Chorus]\nCan't rush it, can't rush it\nIt rises when it wants\n\n[Chorus]\nProof, proof, come up for me\nI've been awake since yesterday\nProof, proof, the doors open at eight\nAnd I'm the one they'll blame\n\n[Verse 2]\nFlour in my eyebrows, flour in my phone\nThe radio plays one song and leaves me alone\nGary's on the forklift telling everyone\nWho should've played striker, who should've run\n\n[Pre-Chorus]\nCan't rush it, can't rush it\nIt's doubled, nearly done\n\n[Chorus]\nProof, proof, come up for me\nSlash the tops and in they go\nProof, proof, the doors open at eight\nAnd nobody will know\n\n[Outro - feedback and a slow tom]\nSmells like a morning\nI'm going home to bed",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 206.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Grunge revival in the 2025 Los Angeles young-band style, loud-quiet-loud. Clean arpeggiated electric guitar in the verses; heavy fuzz drop-D guitars slamming in for the chorus; a distorted bass doubling the riff; pounding live drums with washing crash cymbals. Thick, garage-loud production, wide guitars, vocal slightly buried in the mix. Male baritone, slurred and low in the verses, rising to a hoarse shouted chorus. 118 BPM, D minor. Bleary, sardonic and restless. No nu-metal rap, no screamed metalcore breakdown, no autotune, no electronic drums, no pop-punk brightness.",
+    "lyrics": "[Intro - detuned guitar and bass, slow]\n\n[Verse 1]\nHairnet, white clogs, the oven clock says four\nTwo hundred baguettes and nobody wants more\nThe dough's in the cabinet, it's taking its time\nSomebody's stacking beans in aisle nine\n\n[Pre-Chorus]\nCan't rush it, can't rush it\nIt rises when it wants\n\n[Chorus]\nProof, proof, come up for me\nI've been awake since yesterday\nProof, proof, the doors open at eight\nAnd I'm the one they'll blame\n\n[Verse 2]\nFlour in my eyebrows, flour in my phone\nThe radio plays one song and leaves me alone\nGary's on the forklift telling everyone\nWho should've played striker, who should've run\n\n[Pre-Chorus]\nCan't rush it, can't rush it\nIt's doubled, nearly done\n\n[Chorus]\nProof, proof, come up for me\nSlash the tops and in they go\nProof, proof, the doors open at eight\nAnd nobody will know\n\n[Outro - feedback and a slow tom]\nSmells like a morning\nI'm going home to bed"
+  },
+  "seed": "410331503",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.89s**\n- 74.89s per song\n- LM phase (1 song): 16.50s\n- DiT phase (1 song): 58.39s",
+  "task_id": "dd543341-70f5-4382-96fa-09ae7a4e3468",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-15T16:20:11.445069+08:00",
+  "audio": "b9_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Intro - detuned guitar and bass, slow]"
+    },
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.42,
+      "end": 35.4,
+      "text": "Hairnet, white clogs, the oven clock says four"
+    },
+    {
+      "t": 35.4,
+      "end": 37.46,
+      "text": "Two hundred baguettes and nobody wants more"
+    },
+    {
+      "t": 37.46,
+      "end": 43.7,
+      "text": "The dough's in the cabinet, it's taking its time"
+    },
+    {
+      "t": 43.7,
+      "end": 44.74,
+      "text": "Somebody's stacking beans in aisle nine"
+    },
+    {
+      "t": 44.74,
+      "end": 44.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.74,
+      "end": 51.75,
+      "text": "Can't rush it, can't rush it"
+    },
+    {
+      "t": 52.85,
+      "end": 56.57,
+      "text": "It rises when it wants"
+    },
+    {
+      "t": 56.57,
+      "end": 56.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.57,
+      "end": 65.11,
+      "text": "Proof, proof, come up for me"
+    },
+    {
+      "t": 65.11,
+      "end": 72.65,
+      "text": "I've been awake since yesterday"
+    },
+    {
+      "t": 72.65,
+      "end": 73.71,
+      "text": "Proof, proof, the doors open at eight"
+    },
+    {
+      "t": 73.75,
+      "end": 77.87,
+      "text": "And I'm the one they'll blame"
+    },
+    {
+      "t": 77.89,
+      "end": 77.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.89,
+      "end": 83.47,
+      "text": "Flour in my eyebrows, flour in my phone"
+    },
+    {
+      "t": 85.87,
+      "end": 90.05,
+      "text": "The radio plays one song and leaves me alone"
+    },
+    {
+      "t": 90.13,
+      "end": 98.09,
+      "text": "Gary's on the forklift telling everyone"
+    },
+    {
+      "t": 98.09,
+      "end": 104.39,
+      "text": "Who should've played striker, who should've run"
+    },
+    {
+      "t": 106.63,
+      "end": 106.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.63,
+      "end": 110.27,
+      "text": "Can't rush it, can't rush it"
+    },
+    {
+      "t": 110.79,
+      "end": 114.53,
+      "text": "It's doubled, nearly done"
+    },
+    {
+      "t": 122.87,
+      "end": 122.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.87,
+      "end": 159.64,
+      "text": "Proof, proof, come up for me"
+    },
+    {
+      "t": 159.64,
+      "end": 160.26,
+      "text": "Slash the tops and in they go"
+    },
+    {
+      "t": 160.26,
+      "end": 176.68,
+      "text": "Proof, proof, the doors open at eight"
+    },
+    {
+      "t": 176.72,
+      "end": 178.44,
+      "text": "And nobody will know"
+    },
+    {
+      "t": 184.92,
+      "end": 184.92,
+      "text": "[Outro - feedback and a slow tom]"
+    },
+    {
+      "t": 184.92,
+      "end": 187.0,
+      "text": "Smells like a morning"
+    },
+    {
+      "t": 187.16,
+      "end": 199.1,
+      "text": "I'm going home to bed"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Intro - detuned guitar and bass, slow]"
+    },
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.96,
+      "end": 37.38,
+      "text": "Hairnet, white clogs, the oven clock says four"
+    },
+    {
+      "t": 37.4,
+      "end": 42.18,
+      "text": "Two hundred baguettes and nobody wants more"
+    },
+    {
+      "t": 42.18,
+      "end": 45.74,
+      "text": "The dough's in the cabinet, it's taking its time"
+    },
+    {
+      "t": 45.74,
+      "end": 51.73,
+      "text": "Somebody's stacking beans in aisle nine"
+    },
+    {
+      "t": 51.73,
+      "end": 51.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.73,
+      "end": 53.29,
+      "text": "Can't rush it, can't rush it"
+    },
+    {
+      "t": 53.35,
+      "end": 57.07,
+      "text": "It rises when it wants"
+    },
+    {
+      "t": 60.05,
+      "end": 60.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.05,
+      "end": 64.51,
+      "text": "Proof, proof, come up for me"
+    },
+    {
+      "t": 64.51,
+      "end": 65.37,
+      "text": "I've been awake since yesterday"
+    },
+    {
+      "t": 65.37,
+      "end": 72.69,
+      "text": "Proof, proof, the doors open at eight"
+    },
+    {
+      "t": 72.73,
+      "end": 74.03,
+      "text": "And I'm the one they'll blame"
+    },
+    {
+      "t": 77.89,
+      "end": 77.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.89,
+      "end": 83.49,
+      "text": "Flour in my eyebrows, flour in my phone"
+    },
+    {
+      "t": 85.89,
+      "end": 91.51,
+      "text": "The radio plays one song and leaves me alone"
+    },
+    {
+      "t": 94.27,
+      "end": 98.07,
+      "text": "Gary's on the forklift telling everyone"
+    },
+    {
+      "t": 98.09,
+      "end": 104.41,
+      "text": "Who should've played striker, who should've run"
+    },
+    {
+      "t": 106.61,
+      "end": 106.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.61,
+      "end": 110.25,
+      "text": "Can't rush it, can't rush it"
+    },
+    {
+      "t": 110.77,
+      "end": 122.39,
+      "text": "It's doubled, nearly done"
+    },
+    {
+      "t": 122.87,
+      "end": 122.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.87,
+      "end": 123.87,
+      "text": "Proof, proof, come up for me"
+    },
+    {
+      "t": 123.87,
+      "end": 124.89,
+      "text": "Slash the tops and in they go"
+    },
+    {
+      "t": 124.95,
+      "end": 160.22,
+      "text": "Proof, proof, the doors open at eight"
+    },
+    {
+      "t": 160.24,
+      "end": 163.2,
+      "text": "And nobody will know"
+    },
+    {
+      "t": 184.94,
+      "end": 184.94,
+      "text": "[Outro - feedback and a slow tom]"
+    },
+    {
+      "t": 184.94,
+      "end": 186.98,
+      "text": "Smells like a morning"
+    },
+    {
+      "t": 188.24,
+      "end": 197.1,
+      "text": "I'm going home to bed"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,277 @@
+{
+  "id": "b9_ms05",
+  "title": "Feri Akhir Ke Lumut",
+  "title_source": "scripted",
+  "genre": "irama asli (Malay asli rhythm song)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "patient, longing, rain on still water",
+  "persona": "",
+  "subject": "a woman waiting at the Lumut jetty in the rain for the last ferry from Pangkor carrying her husband home from his week at the fish-drying yard",
+  "caption": "Irama asli, the slow traditional Malay asli rhythm song as sung in JKKN Bintang Asli competitions. A Malay violin playing ornamented slides and grace notes around the melody; an accordion holding sustained chords; rebana and gendang marking the slow asli rhythm cycle; a soft gong closing each cycle. Acoustic and roomy, violin and voice forward, gong low and soft, natural hall reverb. Female voice, mid register, with traditional Malay melismatic cengkok ornaments and unhurried phrasing. 66 BPM, A minor. Patient and longing, rain on still water. No drum kit, no synths, no autotune, no pop ballad piano, no dangdut beat.",
+  "lyrics": "[Intro - violin and accordion, rebana enters]\n\n[Verse 1]\nHujan turun di jeti Lumut\nPayung biru di tangan kiri\nFeri pukul tujuh tak nampak lagi\nLampu Pangkor pun samar-samar\n\n[Chorus]\nFeri akhir, feri akhir\nBawalah dia pulang malam ini\nSeminggu jemur ikan di Pangkor\nBau masin di baju, aku tak kisah\n\n[Verse 2]\nPenjual keropok dah tutup kedai\nTinggal aku dengan bangku basah\nTelefon dia habis bateri\nAku hafal bunyi enjin feri\n\n[Chorus]\nFeri akhir, feri akhir\nItu dia, lampu dah dekat\nTopi lusuh di atas dek\nTangannya melambai, aku dah nampak\n\n[Outro - violin and gong]\nPayung biru, cukup untuk berdua\nJom balik, nasi masih panas",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 228.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Irama asli, the slow traditional Malay asli rhythm song as sung in JKKN Bintang Asli competitions. A Malay violin playing ornamented slides and grace notes around the melody; an accordion holding sustained chords; rebana and gendang marking the slow asli rhythm cycle; a soft gong closing each cycle. Acoustic and roomy, violin and voice forward, gong low and soft, natural hall reverb. Female voice, mid register, with traditional Malay melismatic cengkok ornaments and unhurried phrasing. 66 BPM, A minor. Patient and longing, rain on still water. No drum kit, no synths, no autotune, no pop ballad piano, no dangdut beat.",
+    "lyrics": "[Intro - violin and accordion, rebana enters]\n\n[Verse 1]\nHujan turun di jeti Lumut\nPayung biru di tangan kiri\nFeri pukul tujuh tak nampak lagi\nLampu Pangkor pun samar-samar\n\n[Chorus]\nFeri akhir, feri akhir\nBawalah dia pulang malam ini\nSeminggu jemur ikan di Pangkor\nBau masin di baju, aku tak kisah\n\n[Verse 2]\nPenjual keropok dah tutup kedai\nTinggal aku dengan bangku basah\nTelefon dia habis bateri\nAku hafal bunyi enjin feri\n\n[Chorus]\nFeri akhir, feri akhir\nItu dia, lampu dah dekat\nTopi lusuh di atas dek\nTangannya melambai, aku dah nampak\n\n[Outro - violin and gong]\nPayung biru, cukup untuk berdua\nJom balik, nasi masih panas"
+  },
+  "seed": "2062772284",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.79s**\n- 68.79s per song\n- LM phase (1 song): 12.55s\n- DiT phase (1 song): 56.24s",
+  "task_id": "83310e20-ebd2-4ebf-9a09-018817dfaa8e",
+  "elapsed_s": 100.5,
+  "generated_at": "2026-10-15T15:49:25.760549+08:00",
+  "audio": "b9_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.6,
+      "end": 0.6,
+      "text": "[Intro - violin and accordion, rebana enters]"
+    },
+    {
+      "t": 0.6,
+      "end": 0.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.6,
+      "end": 4.3,
+      "text": "Hujan turun di jeti Lumut"
+    },
+    {
+      "t": 4.3,
+      "end": 16.24,
+      "text": "Payung biru di tangan kiri"
+    },
+    {
+      "t": 16.28,
+      "end": 33.66,
+      "text": "Feri pukul tujuh tak nampak lagi"
+    },
+    {
+      "t": 33.66,
+      "end": 48.66,
+      "text": "Lampu Pangkor pun samar-samar"
+    },
+    {
+      "t": 51.56,
+      "end": 51.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.56,
+      "end": 57.11,
+      "text": "Feri akhir, feri akhir"
+    },
+    {
+      "t": 60.03,
+      "end": 64.97,
+      "text": "Bawalah dia pulang malam ini"
+    },
+    {
+      "t": 66.83,
+      "end": 71.81,
+      "text": "Seminggu jemur ikan di Pangkor"
+    },
+    {
+      "t": 73.29,
+      "end": 80.39,
+      "text": "Bau masin di baju, aku tak kisah"
+    },
+    {
+      "t": 82.03,
+      "end": 82.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.03,
+      "end": 99.01,
+      "text": "Penjual keropok dah tutup kedai"
+    },
+    {
+      "t": 102.21,
+      "end": 106.15,
+      "text": "Tinggal aku dengan bangku basah"
+    },
+    {
+      "t": 109.23,
+      "end": 113.27,
+      "text": "Telefon dia habis bateri"
+    },
+    {
+      "t": 115.71,
+      "end": 120.57,
+      "text": "Aku hafal bunyi enjin feri"
+    },
+    {
+      "t": 123.15,
+      "end": 123.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.15,
+      "end": 127.99,
+      "text": "Feri akhir, feri akhir"
+    },
+    {
+      "t": 128.73,
+      "end": 140.95,
+      "text": "Itu dia, lampu dah dekat"
+    },
+    {
+      "t": 142.85,
+      "end": 147.53,
+      "text": "Topi lusuh di atas dek"
+    },
+    {
+      "t": 149.27,
+      "end": 158.51,
+      "text": "Tangannya melambai, aku dah nampak"
+    },
+    {
+      "t": 176.4,
+      "end": 176.4,
+      "text": "[Outro - violin and gong]"
+    },
+    {
+      "t": 176.4,
+      "end": 184.12,
+      "text": "Payung biru, cukup untuk berdua"
+    },
+    {
+      "t": 194.5,
+      "end": 214.08,
+      "text": "Jom balik, nasi masih panas"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - violin and accordion, rebana enters]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 4.3,
+      "text": "Hujan turun di jeti Lumut"
+    },
+    {
+      "t": 4.3,
+      "end": 9.32,
+      "text": "Payung biru di tangan kiri"
+    },
+    {
+      "t": 9.34,
+      "end": 24.6,
+      "text": "Feri pukul tujuh tak nampak lagi"
+    },
+    {
+      "t": 24.94,
+      "end": 47.5,
+      "text": "Lampu Pangkor pun samar-samar"
+    },
+    {
+      "t": 51.56,
+      "end": 51.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.56,
+      "end": 57.13,
+      "text": "Feri akhir, feri akhir"
+    },
+    {
+      "t": 60.03,
+      "end": 65.37,
+      "text": "Bawalah dia pulang malam ini"
+    },
+    {
+      "t": 66.85,
+      "end": 71.81,
+      "text": "Seminggu jemur ikan di Pangkor"
+    },
+    {
+      "t": 73.29,
+      "end": 79.77,
+      "text": "Bau masin di baju, aku tak kisah"
+    },
+    {
+      "t": 82.01,
+      "end": 82.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.01,
+      "end": 99.01,
+      "text": "Penjual keropok dah tutup kedai"
+    },
+    {
+      "t": 102.21,
+      "end": 106.19,
+      "text": "Tinggal aku dengan bangku basah"
+    },
+    {
+      "t": 109.23,
+      "end": 113.27,
+      "text": "Telefon dia habis bateri"
+    },
+    {
+      "t": 115.71,
+      "end": 120.57,
+      "text": "Aku hafal bunyi enjin feri"
+    },
+    {
+      "t": 123.15,
+      "end": 123.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.15,
+      "end": 127.99,
+      "text": "Feri akhir, feri akhir"
+    },
+    {
+      "t": 128.75,
+      "end": 141.09,
+      "text": "Itu dia, lampu dah dekat"
+    },
+    {
+      "t": 142.83,
+      "end": 147.51,
+      "text": "Topi lusuh di atas dek"
+    },
+    {
+      "t": 149.27,
+      "end": 173.76,
+      "text": "Tangannya melambai, aku dah nampak"
+    },
+    {
+      "t": 176.4,
+      "end": 176.4,
+      "text": "[Outro - violin and gong]"
+    },
+    {
+      "t": 176.4,
+      "end": 184.12,
+      "text": "Payung biru, cukup untuk berdua"
+    },
+    {
+      "t": 194.5,
+      "end": 206.6,
+      "text": "Jom balik, nasi masih panas"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

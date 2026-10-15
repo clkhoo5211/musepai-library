@@ -1,0 +1,327 @@
+{
+  "id": "b9_ja02",
+  "title": "ひまわりの種",
+  "title_source": "scripted",
+  "genre": "Japanese house-pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bouncy, carefree and a little silly",
+  "persona": "",
+  "subject": "hunting for an escaped hamster around a small apartment at midnight with a trail of sunflower seeds and a flashlight",
+  "caption": "Japanese house-pop with a classic 90s piano-house backbone. A four-on-the-floor 909 kick with open hi-hats on the off-beat and a clap on two and four; M1-style house piano chords stabbing in a syncopated pattern; a warm finger-style electric bass walking under the chords; short string pad swells into each chorus. Bright and roomy, kick and piano upfront, the pad gently sidechained to the kick, a dry vocal with a short slap delay. Male voice, a relaxed light tenor, talk-singing the verses and opening into a bright unison chorus. 122 BPM, A-flat major. Bouncy, carefree and a little silly. No trap drums, no autotune, no big EDM build or drop, no rap section, no dubstep wobble.",
+  "lyrics": "[Intro - house piano and four-on-the-floor kick]\n\n[Verse 1]\n夜の十二時 ケージが空っぽ\n扉がちょっとだけ 開いてる\n冷蔵庫の下 本棚のうしろ\n懐中電灯で 床をなぞる\n\n[Pre-Chorus]\nひまわりの種 ひとつ ふたつ\n台所まで 並べていく\n\n[Chorus]\n出ておいで もちまる\n怒らないから 出ておいで\n種はここだよ ほっぺたいっぱい\n出ておいで もちまる\n\n[Verse 2]\nカサッと音が ソファの奥\nしゃがんだ瞬間 膝が鳴る\n眠れないのか 隣の部屋から\n壁をトンって 一回たたかれる\n\n[Pre-Chorus]\nすみません 小声で謝って\n最後の種を 手のひらに\n\n[Chorus]\n出てきたね もちまる\nほっぺたぱんぱん 帰ってきた\n手のひらの上で 種を数えて\nおかえり もちまる\n\n[Outro - piano alone]\n扉はちゃんと 閉めました",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "A-flat major",
+    "timesignature": "4",
+    "prompt": "Japanese house-pop with a classic 90s piano-house backbone. A four-on-the-floor 909 kick with open hi-hats on the off-beat and a clap on two and four; M1-style house piano chords stabbing in a syncopated pattern; a warm finger-style electric bass walking under the chords; short string pad swells into each chorus. Bright and roomy, kick and piano upfront, the pad gently sidechained to the kick, a dry vocal with a short slap delay. Male voice, a relaxed light tenor, talk-singing the verses and opening into a bright unison chorus. 122 BPM, A-flat major. Bouncy, carefree and a little silly. No trap drums, no autotune, no big EDM build or drop, no rap section, no dubstep wobble.",
+    "lyrics": "[Intro - house piano and four-on-the-floor kick]\n\n[Verse 1]\n夜の十二時 ケージが空っぽ\n扉がちょっとだけ 開いてる\n冷蔵庫の下 本棚のうしろ\n懐中電灯で 床をなぞる\n\n[Pre-Chorus]\nひまわりの種 ひとつ ふたつ\n台所まで 並べていく\n\n[Chorus]\n出ておいで もちまる\n怒らないから 出ておいで\n種はここだよ ほっぺたいっぱい\n出ておいで もちまる\n\n[Verse 2]\nカサッと音が ソファの奥\nしゃがんだ瞬間 膝が鳴る\n眠れないのか 隣の部屋から\n壁をトンって 一回たたかれる\n\n[Pre-Chorus]\nすみません 小声で謝って\n最後の種を 手のひらに\n\n[Chorus]\n出てきたね もちまる\nほっぺたぱんぱん 帰ってきた\n手のひらの上で 種を数えて\nおかえり もちまる\n\n[Outro - piano alone]\n扉はちゃんと 閉めました"
+  },
+  "seed": "1955936498",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.82s**\n- 63.82s per song\n- LM phase (1 song): 16.15s\n- DiT phase (1 song): 47.67s",
+  "task_id": "30870239-1ac2-4ef6-bba4-717eee548801",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-15T16:33:23.432868+08:00",
+  "audio": "b9_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.68,
+      "end": 1.68,
+      "text": "[Intro - house piano and four-on-the-floor kick]"
+    },
+    {
+      "t": 1.68,
+      "end": 1.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.68,
+      "end": 7.18,
+      "text": "夜の十二時 ケージが空っぽ"
+    },
+    {
+      "t": 7.58,
+      "end": 14.82,
+      "text": "扉がちょっとだけ 開いてる"
+    },
+    {
+      "t": 14.84,
+      "end": 41.8,
+      "text": "冷蔵庫の下 本棚のうしろ"
+    },
+    {
+      "t": 41.8,
+      "end": 45.5,
+      "text": "懐中電灯で 床をなぞる"
+    },
+    {
+      "t": 45.66,
+      "end": 45.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.66,
+      "end": 49.46,
+      "text": "ひまわりの種 ひとつ ふたつ"
+    },
+    {
+      "t": 53.05,
+      "end": 55.13,
+      "text": "台所まで 並べていく"
+    },
+    {
+      "t": 56.75,
+      "end": 56.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.75,
+      "end": 59.09,
+      "text": "出ておいで もちまる"
+    },
+    {
+      "t": 59.95,
+      "end": 62.05,
+      "text": "怒らないから 出ておいで"
+    },
+    {
+      "t": 64.37,
+      "end": 68.83,
+      "text": "種はここだよ ほっぺたいっぱい"
+    },
+    {
+      "t": 72.25,
+      "end": 75.55,
+      "text": "出ておいで もちまる"
+    },
+    {
+      "t": 75.55,
+      "end": 75.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.55,
+      "end": 79.37,
+      "text": "カサッと音が ソファの奥"
+    },
+    {
+      "t": 79.49,
+      "end": 87.85,
+      "text": "しゃがんだ瞬間 膝が鳴る"
+    },
+    {
+      "t": 87.97,
+      "end": 94.21,
+      "text": "眠れないのか 隣の部屋から"
+    },
+    {
+      "t": 96.27,
+      "end": 101.97,
+      "text": "壁をトンって 一回たたかれる"
+    },
+    {
+      "t": 104.01,
+      "end": 104.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.01,
+      "end": 108.77,
+      "text": "すみません 小声で謝って"
+    },
+    {
+      "t": 111.29,
+      "end": 117.13,
+      "text": "最後の種を 手のひらに"
+    },
+    {
+      "t": 126.19,
+      "end": 126.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.19,
+      "end": 128.77,
+      "text": "出てきたね もちまる"
+    },
+    {
+      "t": 130.13,
+      "end": 134.21,
+      "text": "ほっぺたぱんぱん 帰ってきた"
+    },
+    {
+      "t": 134.23,
+      "end": 139.65,
+      "text": "手のひらの上で 種を数えて"
+    },
+    {
+      "t": 141.59,
+      "end": 150.48,
+      "text": "おかえり もちまる"
+    },
+    {
+      "t": 157.98,
+      "end": 157.98,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 157.98,
+      "end": 186.34,
+      "text": "扉はちゃんと 閉めました"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 1.22,
+      "end": 1.22,
+      "text": "[Intro - house piano and four-on-the-floor kick]"
+    },
+    {
+      "t": 1.22,
+      "end": 1.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.22,
+      "end": 9.9,
+      "text": "夜の十二時 ケージが空っぽ"
+    },
+    {
+      "t": 11.52,
+      "end": 15.88,
+      "text": "扉がちょっとだけ 開いてる"
+    },
+    {
+      "t": 40.02,
+      "end": 43.58,
+      "text": "冷蔵庫の下 本棚のうしろ"
+    },
+    {
+      "t": 43.82,
+      "end": 49.48,
+      "text": "懐中電灯で 床をなぞる"
+    },
+    {
+      "t": 58.49,
+      "end": 58.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.49,
+      "end": 65.01,
+      "text": "ひまわりの種 ひとつ ふたつ"
+    },
+    {
+      "t": 65.01,
+      "end": 71.63,
+      "text": "台所まで 並べていく"
+    },
+    {
+      "t": 72.25,
+      "end": 72.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.25,
+      "end": 88.11,
+      "text": "出ておいで もちまる"
+    },
+    {
+      "t": 88.11,
+      "end": 89.01,
+      "text": "怒らないから 出ておいで"
+    },
+    {
+      "t": 89.01,
+      "end": 93.45,
+      "text": "種はここだよ ほっぺたいっぱい"
+    },
+    {
+      "t": 93.59,
+      "end": 101.99,
+      "text": "出ておいで もちまる"
+    },
+    {
+      "t": 103.75,
+      "end": 103.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.75,
+      "end": 104.69,
+      "text": "カサッと音が ソファの奥"
+    },
+    {
+      "t": 104.71,
+      "end": 107.13,
+      "text": "しゃがんだ瞬間 膝が鳴る"
+    },
+    {
+      "t": 107.13,
+      "end": 108.45,
+      "text": "眠れないのか 隣の部屋から"
+    },
+    {
+      "t": 108.45,
+      "end": 111.71,
+      "text": "壁をトンって 一回たたかれる"
+    },
+    {
+      "t": 111.85,
+      "end": 111.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.85,
+      "end": 115.37,
+      "text": "すみません 小声で謝って"
+    },
+    {
+      "t": 115.41,
+      "end": 117.13,
+      "text": "最後の種を 手のひらに"
+    },
+    {
+      "t": 126.19,
+      "end": 126.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.19,
+      "end": 128.77,
+      "text": "出てきたね もちまる"
+    },
+    {
+      "t": 130.13,
+      "end": 134.21,
+      "text": "ほっぺたぱんぱん 帰ってきた"
+    },
+    {
+      "t": 134.21,
+      "end": 139.65,
+      "text": "手のひらの上で 種を数えて"
+    },
+    {
+      "t": 141.09,
+      "end": 142.61,
+      "text": "おかえり もちまる"
+    },
+    {
+      "t": 142.85,
+      "end": 142.85,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 142.85,
+      "end": 159.88,
+      "text": "扉はちゃんと 閉めました"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

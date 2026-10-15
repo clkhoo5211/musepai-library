@@ -1,0 +1,337 @@
+{
+  "id": "b9_en03",
+  "title": "Second Place Marrow",
+  "title_source": "scripted",
+  "genre": "UK pop-soul rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "raw, rueful and funny at her own expense",
+  "persona": "",
+  "subject": "a woman losing the village show's biggest-marrow prize to the same retired man for the third summer running, with her allotment marrow on a wheelbarrow",
+  "caption": "UK pop-soul rock in the raw 2025 London confessional style. Loose live drums with a heavy tom fill into each chorus; an upright piano hammered in block chords; a crunchy overdriven electric guitar strumming whole bars; a simple root-note bass guitar. Raw and close production, slight room bleed, the voice very forward and unpolished. Female voice, a raspy chest belt, talk-singing the verses and cracking into a shouted chorus. 76 BPM, F major. Raw, rueful and funny at her own expense. No autotune, no trap beat, no EDM build, no glossy pop polish, no choir.",
+  "lyrics": "[Intro - overdriven guitar and kick drum]\n\n[Verse 1]\nI fed it tea and banana skins all summer\nTalked to it nightly like it was my son\nWheeled it to the village hall in a barrow\nTwelve kilos of hope under a tea towel\n\n[Pre-Chorus]\nAnd there's Derek at the trestle table\nSmiling like he knows\n\n[Chorus]\nSecond place marrow, second place me\nRed rosette for Derek, blue one for me\nThree summers running and the judge didn't blink\nSecond place marrow, I'm going home to drink\n\n[Verse 2]\nHis is the size of a sleeping Labrador\nMine's more a chubby baby in a pram\nHe shook my hand and said, love, it's the compost\nI said, Derek, tell me, what's in your compost\n\n[Pre-Chorus]\nHe just tapped his nose\nAnd bought me a scone\n\n[Chorus]\nSecond place marrow, second place me\nRed rosette for Derek, blue one for me\nNext year I'm digging up the whole of plot three\nSecond place marrow, Derek, wait and see\n\n[Outro - guitar feedback]\nBanana skins and tea\nBanana skins and tea",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "UK pop-soul rock in the raw 2025 London confessional style. Loose live drums with a heavy tom fill into each chorus; an upright piano hammered in block chords; a crunchy overdriven electric guitar strumming whole bars; a simple root-note bass guitar. Raw and close production, slight room bleed, the voice very forward and unpolished. Female voice, a raspy chest belt, talk-singing the verses and cracking into a shouted chorus. 76 BPM, F major. Raw, rueful and funny at her own expense. No autotune, no trap beat, no EDM build, no glossy pop polish, no choir.",
+    "lyrics": "[Intro - overdriven guitar and kick drum]\n\n[Verse 1]\nI fed it tea and banana skins all summer\nTalked to it nightly like it was my son\nWheeled it to the village hall in a barrow\nTwelve kilos of hope under a tea towel\n\n[Pre-Chorus]\nAnd there's Derek at the trestle table\nSmiling like he knows\n\n[Chorus]\nSecond place marrow, second place me\nRed rosette for Derek, blue one for me\nThree summers running and the judge didn't blink\nSecond place marrow, I'm going home to drink\n\n[Verse 2]\nHis is the size of a sleeping Labrador\nMine's more a chubby baby in a pram\nHe shook my hand and said, love, it's the compost\nI said, Derek, tell me, what's in your compost\n\n[Pre-Chorus]\nHe just tapped his nose\nAnd bought me a scone\n\n[Chorus]\nSecond place marrow, second place me\nRed rosette for Derek, blue one for me\nNext year I'm digging up the whole of plot three\nSecond place marrow, Derek, wait and see\n\n[Outro - guitar feedback]\nBanana skins and tea\nBanana skins and tea"
+  },
+  "seed": "3021303660",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.81s**\n- 73.81s per song\n- LM phase (1 song): 18.11s\n- DiT phase (1 song): 55.70s",
+  "task_id": "47995b3c-2f7e-42fa-932a-0da3a1752c56",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-10-15T16:18:31.299990+08:00",
+  "audio": "b9_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.6,
+      "end": 38.6,
+      "text": "[Intro - overdriven guitar and kick drum]"
+    },
+    {
+      "t": 38.6,
+      "end": 38.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.6,
+      "end": 42.62,
+      "text": "I fed it tea and banana skins all summer"
+    },
+    {
+      "t": 44.04,
+      "end": 48.16,
+      "text": "Talked to it nightly like it was my son"
+    },
+    {
+      "t": 50.39,
+      "end": 54.39,
+      "text": "Wheeled it to the village hall in a barrow"
+    },
+    {
+      "t": 55.89,
+      "end": 60.39,
+      "text": "Twelve kilos of hope under a tea towel"
+    },
+    {
+      "t": 62.33,
+      "end": 62.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.33,
+      "end": 65.09,
+      "text": "And there's Derek at the trestle table"
+    },
+    {
+      "t": 65.09,
+      "end": 65.51,
+      "text": "Smiling like he knows"
+    },
+    {
+      "t": 65.53,
+      "end": 65.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.53,
+      "end": 70.77,
+      "text": "Second place marrow, second place me"
+    },
+    {
+      "t": 70.77,
+      "end": 72.25,
+      "text": "Red rosette for Derek, blue one for me"
+    },
+    {
+      "t": 74.65,
+      "end": 79.03,
+      "text": "Three summers running and the judge didn't blink"
+    },
+    {
+      "t": 80.17,
+      "end": 91.23,
+      "text": "Second place marrow, I'm going home to drink"
+    },
+    {
+      "t": 91.23,
+      "end": 91.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.23,
+      "end": 95.51,
+      "text": "His is the size of a sleeping Labrador"
+    },
+    {
+      "t": 97.85,
+      "end": 101.99,
+      "text": "Mine's more a chubby baby in a pram"
+    },
+    {
+      "t": 103.67,
+      "end": 107.01,
+      "text": "He shook my hand and said, love, it's the compost"
+    },
+    {
+      "t": 107.25,
+      "end": 114.99,
+      "text": "I said, Derek, tell me, what's in your compost"
+    },
+    {
+      "t": 115.17,
+      "end": 115.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 115.17,
+      "end": 118.27,
+      "text": "He just tapped his nose"
+    },
+    {
+      "t": 121.67,
+      "end": 123.07,
+      "text": "And bought me a scone"
+    },
+    {
+      "t": 123.07,
+      "end": 123.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.07,
+      "end": 127.09,
+      "text": "Second place marrow, second place me"
+    },
+    {
+      "t": 127.21,
+      "end": 132.95,
+      "text": "Red rosette for Derek, blue one for me"
+    },
+    {
+      "t": 138.83,
+      "end": 141.53,
+      "text": "Next year I'm digging up the whole of plot three"
+    },
+    {
+      "t": 141.55,
+      "end": 146.75,
+      "text": "Second place marrow, Derek, wait and see"
+    },
+    {
+      "t": 155.56,
+      "end": 155.56,
+      "text": "[Outro - guitar feedback]"
+    },
+    {
+      "t": 155.56,
+      "end": 164.62,
+      "text": "Banana skins and tea"
+    },
+    {
+      "t": 181.24,
+      "end": 198.82,
+      "text": "Banana skins and tea"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.6,
+      "end": 38.6,
+      "text": "[Intro - overdriven guitar and kick drum]"
+    },
+    {
+      "t": 38.6,
+      "end": 38.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.6,
+      "end": 42.62,
+      "text": "I fed it tea and banana skins all summer"
+    },
+    {
+      "t": 44.06,
+      "end": 48.16,
+      "text": "Talked to it nightly like it was my son"
+    },
+    {
+      "t": 50.41,
+      "end": 54.55,
+      "text": "Wheeled it to the village hall in a barrow"
+    },
+    {
+      "t": 55.89,
+      "end": 60.33,
+      "text": "Twelve kilos of hope under a tea towel"
+    },
+    {
+      "t": 62.33,
+      "end": 62.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.33,
+      "end": 65.15,
+      "text": "And there's Derek at the trestle table"
+    },
+    {
+      "t": 65.15,
+      "end": 65.81,
+      "text": "Smiling like he knows"
+    },
+    {
+      "t": 65.83,
+      "end": 65.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.83,
+      "end": 71.13,
+      "text": "Second place marrow, second place me"
+    },
+    {
+      "t": 71.13,
+      "end": 74.79,
+      "text": "Red rosette for Derek, blue one for me"
+    },
+    {
+      "t": 74.79,
+      "end": 78.89,
+      "text": "Three summers running and the judge didn't blink"
+    },
+    {
+      "t": 80.19,
+      "end": 90.63,
+      "text": "Second place marrow, I'm going home to drink"
+    },
+    {
+      "t": 91.25,
+      "end": 91.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.25,
+      "end": 95.57,
+      "text": "His is the size of a sleeping Labrador"
+    },
+    {
+      "t": 97.83,
+      "end": 101.97,
+      "text": "Mine's more a chubby baby in a pram"
+    },
+    {
+      "t": 103.67,
+      "end": 107.47,
+      "text": "He shook my hand and said, love, it's the compost"
+    },
+    {
+      "t": 107.51,
+      "end": 111.55,
+      "text": "I said, Derek, tell me, what's in your compost"
+    },
+    {
+      "t": 115.19,
+      "end": 115.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 115.19,
+      "end": 118.81,
+      "text": "He just tapped his nose"
+    },
+    {
+      "t": 121.67,
+      "end": 123.75,
+      "text": "And bought me a scone"
+    },
+    {
+      "t": 125.99,
+      "end": 125.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.99,
+      "end": 129.11,
+      "text": "Second place marrow, second place me"
+    },
+    {
+      "t": 129.13,
+      "end": 132.97,
+      "text": "Red rosette for Derek, blue one for me"
+    },
+    {
+      "t": 138.83,
+      "end": 141.39,
+      "text": "Next year I'm digging up the whole of plot three"
+    },
+    {
+      "t": 141.57,
+      "end": 152.94,
+      "text": "Second place marrow, Derek, wait and see"
+    },
+    {
+      "t": 155.56,
+      "end": 155.56,
+      "text": "[Outro - guitar feedback]"
+    },
+    {
+      "t": 155.56,
+      "end": 159.04,
+      "text": "Banana skins and tea"
+    },
+    {
+      "t": 161.8,
+      "end": 183.26,
+      "text": "Banana skins and tea"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b9_en02",
+  "title": "The Last Piece",
+  "title_source": "scripted",
+  "genre": "UK neo-soul pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, unhurried and quietly happy",
+  "persona": "",
+  "subject": "a man who hides the final piece of his partner's thousand-piece jigsaw in his pocket so they can finish it together on a Sunday night",
+  "caption": "UK neo-soul pop in the 2025 London jazz-soul singer-songwriter style. Brushed drums with a soft rim click; a round upright bass; a nylon-string guitar picking light chords; a jazz piano voicing major-seventh and ninth chords; a soft flugelhorn answering the voice between lines. Intimate and natural production, little reverb, audible room tone, piano and voice centred. Female alto, warm and close-miked, phrasing a little behind the beat, light self-harmony in the chorus. 84 BPM, D major. Tender, unhurried and quietly happy. No trap drums, no autotune, no big pop drop, no synth pads, no gospel choir.",
+  "lyrics": "[Intro - jazz piano and brushed snare]\n\n[Verse 1]\nThree weeks of sky on the coffee table\nAll of it blue and you sorted every shade\nEdges done the first night like you always do\nYou hum when you find one, you don't know you do\n\n[Pre-Chorus]\nNine hundred ninety-nine\nAnd one in my jeans\n\n[Chorus]\nLeave the last piece for me\nIt's a lighthouse window, it's the size of my thumb\nLeave the last piece for me\nI want to be there when it's done\n\n[Verse 2]\nYou searched the carpet, you lifted the cat\nYou swore at the box and the lighthouse on the lid\nI came in with tea and I put down a mug\nAnd I pulled out my hand and you knew, and you laughed\n\n[Pre-Chorus]\nYou said you are the worst\nThen you made room on the couch\n\n[Chorus]\nPut the last piece in with me\nYour hand on my hand, push it in by the frame\nPut the last piece in with me\nThen tip out the next one again\n\n[Outro - piano and flugelhorn]\nTwo thousand pieces next time\nLeave the corner for me",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "UK neo-soul pop in the 2025 London jazz-soul singer-songwriter style. Brushed drums with a soft rim click; a round upright bass; a nylon-string guitar picking light chords; a jazz piano voicing major-seventh and ninth chords; a soft flugelhorn answering the voice between lines. Intimate and natural production, little reverb, audible room tone, piano and voice centred. Female alto, warm and close-miked, phrasing a little behind the beat, light self-harmony in the chorus. 84 BPM, D major. Tender, unhurried and quietly happy. No trap drums, no autotune, no big pop drop, no synth pads, no gospel choir.",
+    "lyrics": "[Intro - jazz piano and brushed snare]\n\n[Verse 1]\nThree weeks of sky on the coffee table\nAll of it blue and you sorted every shade\nEdges done the first night like you always do\nYou hum when you find one, you don't know you do\n\n[Pre-Chorus]\nNine hundred ninety-nine\nAnd one in my jeans\n\n[Chorus]\nLeave the last piece for me\nIt's a lighthouse window, it's the size of my thumb\nLeave the last piece for me\nI want to be there when it's done\n\n[Verse 2]\nYou searched the carpet, you lifted the cat\nYou swore at the box and the lighthouse on the lid\nI came in with tea and I put down a mug\nAnd I pulled out my hand and you knew, and you laughed\n\n[Pre-Chorus]\nYou said you are the worst\nThen you made room on the couch\n\n[Chorus]\nPut the last piece in with me\nYour hand on my hand, push it in by the frame\nPut the last piece in with me\nThen tip out the next one again\n\n[Outro - piano and flugelhorn]\nTwo thousand pieces next time\nLeave the corner for me"
+  },
+  "seed": "2947683049",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.74s**\n- 69.74s per song\n- LM phase (1 song): 14.70s\n- DiT phase (1 song): 55.04s",
+  "task_id": "821174ff-d504-408e-8603-5b915cfb0ffc",
+  "elapsed_s": 90.9,
+  "generated_at": "2026-10-15T16:16:41.082855+08:00",
+  "audio": "b9_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.1,
+      "end": 25.1,
+      "text": "[Intro - jazz piano and brushed snare]"
+    },
+    {
+      "t": 25.1,
+      "end": 25.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.1,
+      "end": 30.9,
+      "text": "Three weeks of sky on the coffee table"
+    },
+    {
+      "t": 31.0,
+      "end": 37.78,
+      "text": "All of it blue and you sorted every shade"
+    },
+    {
+      "t": 37.8,
+      "end": 42.0,
+      "text": "Edges done the first night like you always do"
+    },
+    {
+      "t": 42.92,
+      "end": 47.64,
+      "text": "You hum when you find one, you don't know you do"
+    },
+    {
+      "t": 48.74,
+      "end": 48.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.74,
+      "end": 51.78,
+      "text": "Nine hundred ninety-nine"
+    },
+    {
+      "t": 51.78,
+      "end": 54.71,
+      "text": "And one in my jeans"
+    },
+    {
+      "t": 54.85,
+      "end": 54.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.85,
+      "end": 59.25,
+      "text": "Leave the last piece for me"
+    },
+    {
+      "t": 60.13,
+      "end": 66.75,
+      "text": "It's a lighthouse window, it's the size of my thumb"
+    },
+    {
+      "t": 71.23,
+      "end": 73.33,
+      "text": "Leave the last piece for me"
+    },
+    {
+      "t": 74.71,
+      "end": 77.79,
+      "text": "I want to be there when it's done"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.79,
+      "end": 83.55,
+      "text": "You searched the carpet, you lifted the cat"
+    },
+    {
+      "t": 83.55,
+      "end": 84.73,
+      "text": "You swore at the box and the lighthouse on the lid"
+    },
+    {
+      "t": 84.75,
+      "end": 88.07,
+      "text": "I came in with tea and I put down a mug"
+    },
+    {
+      "t": 88.51,
+      "end": 95.05,
+      "text": "And I pulled out my hand and you knew, and you laughed"
+    },
+    {
+      "t": 95.05,
+      "end": 95.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.05,
+      "end": 98.65,
+      "text": "You said you are the worst"
+    },
+    {
+      "t": 98.67,
+      "end": 107.97,
+      "text": "Then you made room on the couch"
+    },
+    {
+      "t": 111.51,
+      "end": 111.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.51,
+      "end": 115.11,
+      "text": "Put the last piece in with me"
+    },
+    {
+      "t": 116.77,
+      "end": 121.55,
+      "text": "Your hand on my hand, push it in by the frame"
+    },
+    {
+      "t": 121.55,
+      "end": 141.55,
+      "text": "Put the last piece in with me"
+    },
+    {
+      "t": 141.55,
+      "end": 145.71,
+      "text": "Then tip out the next one again"
+    },
+    {
+      "t": 175.34,
+      "end": 175.34,
+      "text": "[Outro - piano and flugelhorn]"
+    },
+    {
+      "t": 175.34,
+      "end": 179.26,
+      "text": "Two thousand pieces next time"
+    },
+    {
+      "t": 180.42,
+      "end": 182.52,
+      "text": "Leave the corner for me"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.1,
+      "end": 25.1,
+      "text": "[Intro - jazz piano and brushed snare]"
+    },
+    {
+      "t": 25.1,
+      "end": 25.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.1,
+      "end": 30.9,
+      "text": "Three weeks of sky on the coffee table"
+    },
+    {
+      "t": 31.0,
+      "end": 37.78,
+      "text": "All of it blue and you sorted every shade"
+    },
+    {
+      "t": 37.8,
+      "end": 42.0,
+      "text": "Edges done the first night like you always do"
+    },
+    {
+      "t": 42.92,
+      "end": 47.64,
+      "text": "You hum when you find one, you don't know you do"
+    },
+    {
+      "t": 48.74,
+      "end": 48.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.74,
+      "end": 51.78,
+      "text": "Nine hundred ninety-nine"
+    },
+    {
+      "t": 51.78,
+      "end": 54.71,
+      "text": "And one in my jeans"
+    },
+    {
+      "t": 54.85,
+      "end": 54.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.85,
+      "end": 59.25,
+      "text": "Leave the last piece for me"
+    },
+    {
+      "t": 60.13,
+      "end": 66.75,
+      "text": "It's a lighthouse window, it's the size of my thumb"
+    },
+    {
+      "t": 71.23,
+      "end": 73.33,
+      "text": "Leave the last piece for me"
+    },
+    {
+      "t": 74.71,
+      "end": 77.79,
+      "text": "I want to be there when it's done"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.79,
+      "end": 83.55,
+      "text": "You searched the carpet, you lifted the cat"
+    },
+    {
+      "t": 83.55,
+      "end": 84.73,
+      "text": "You swore at the box and the lighthouse on the lid"
+    },
+    {
+      "t": 84.75,
+      "end": 88.07,
+      "text": "I came in with tea and I put down a mug"
+    },
+    {
+      "t": 88.51,
+      "end": 95.05,
+      "text": "And I pulled out my hand and you knew, and you laughed"
+    },
+    {
+      "t": 95.05,
+      "end": 95.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.05,
+      "end": 98.65,
+      "text": "You said you are the worst"
+    },
+    {
+      "t": 98.67,
+      "end": 107.97,
+      "text": "Then you made room on the couch"
+    },
+    {
+      "t": 111.51,
+      "end": 111.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.51,
+      "end": 115.11,
+      "text": "Put the last piece in with me"
+    },
+    {
+      "t": 116.77,
+      "end": 121.55,
+      "text": "Your hand on my hand, push it in by the frame"
+    },
+    {
+      "t": 121.55,
+      "end": 141.55,
+      "text": "Put the last piece in with me"
+    },
+    {
+      "t": 141.55,
+      "end": 145.71,
+      "text": "Then tip out the next one again"
+    },
+    {
+      "t": 175.34,
+      "end": 175.34,
+      "text": "[Outro - piano and flugelhorn]"
+    },
+    {
+      "t": 175.34,
+      "end": 179.26,
+      "text": "Two thousand pieces next time"
+    },
+    {
+      "t": 180.42,
+      "end": 182.52,
+      "text": "Leave the corner for me"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.1,
+      "end": 25.1,
+      "text": "[Intro - jazz piano and brushed snare]"
+    },
+    {
+      "t": 25.1,
+      "end": 25.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.1,
+      "end": 30.78,
+      "text": "Three weeks of sky on the coffee table"
+    },
+    {
+      "t": 30.78,
+      "end": 37.7,
+      "text": "All of it blue and you sorted every shade"
+    },
+    {
+      "t": 37.72,
+      "end": 42.12,
+      "text": "Edges done the first night like you always do"
+    },
+    {
+      "t": 42.92,
+      "end": 47.76,
+      "text": "You hum when you find one, you don't know you do"
+    },
+    {
+      "t": 48.74,
+      "end": 48.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.74,
+      "end": 51.38,
+      "text": "Nine hundred ninety-nine"
+    },
+    {
+      "t": 51.38,
+      "end": 54.69,
+      "text": "And one in my jeans"
+    },
+    {
+      "t": 54.85,
+      "end": 54.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.85,
+      "end": 57.33,
+      "text": "Leave the last piece for me"
+    },
+    {
+      "t": 60.13,
+      "end": 71.25,
+      "text": "It's a lighthouse window, it's the size of my thumb"
+    },
+    {
+      "t": 71.31,
+      "end": 73.33,
+      "text": "Leave the last piece for me"
+    },
+    {
+      "t": 74.71,
+      "end": 78.01,
+      "text": "I want to be there when it's done"
+    },
+    {
+      "t": 78.01,
+      "end": 78.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.01,
+      "end": 83.53,
+      "text": "You searched the carpet, you lifted the cat"
+    },
+    {
+      "t": 83.53,
+      "end": 85.31,
+      "text": "You swore at the box and the lighthouse on the lid"
+    },
+    {
+      "t": 85.31,
+      "end": 88.03,
+      "text": "I came in with tea and I put down a mug"
+    },
+    {
+      "t": 88.51,
+      "end": 95.03,
+      "text": "And I pulled out my hand and you knew, and you laughed"
+    },
+    {
+      "t": 95.03,
+      "end": 95.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.03,
+      "end": 98.57,
+      "text": "You said you are the worst"
+    },
+    {
+      "t": 98.67,
+      "end": 107.99,
+      "text": "Then you made room on the couch"
+    },
+    {
+      "t": 111.51,
+      "end": 111.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.51,
+      "end": 115.11,
+      "text": "Put the last piece in with me"
+    },
+    {
+      "t": 116.79,
+      "end": 121.63,
+      "text": "Your hand on my hand, push it in by the frame"
+    },
+    {
+      "t": 134.73,
+      "end": 141.37,
+      "text": "Put the last piece in with me"
+    },
+    {
+      "t": 141.39,
+      "end": 145.69,
+      "text": "Then tip out the next one again"
+    },
+    {
+      "t": 175.32,
+      "end": 175.32,
+      "text": "[Outro - piano and flugelhorn]"
+    },
+    {
+      "t": 175.32,
+      "end": 179.16,
+      "text": "Two thousand pieces next time"
+    },
+    {
+      "t": 180.42,
+      "end": 182.52,
+      "text": "Leave the corner for me"
+    }
+  ]
+}

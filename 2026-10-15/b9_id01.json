@@ -1,0 +1,317 @@
+{
+  "id": "b9_id01",
+  "title": "Nunggu Nasi Matang",
+  "title_source": "scripted",
+  "genre": "Indonesian disco revival",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "warm, flirty and domestic",
+  "persona": "",
+  "subject": "a couple dancing in their narrow rented kitchen while waiting for the rice cooker to click over to warm",
+  "caption": "Indonesian disco revival in the Diskoria style, late-70s Jakarta disco re-cut for today. Live four-on-the-floor drums with an open hi-hat on the off-beats; a round octave-jumping disco bass; a wah-wah rhythm guitar in sixteenths; a string-machine pad swelling into each chorus; a Rhodes comping between lines. Warm tape colour, roomy, bass and kick forward. Male light tenor and female alto duet trading lines, playful and close-miked, unison on the chorus. 118 BPM, D minor. Warm, flirty and domestic. No trap hi-hats, no autotune, no EDM drop, no dangdut kendang, no house piano.",
+  "lyrics": "[Intro - disco bass and wah guitar]\n\n[Verse 1]\nLampu dapur kedip-kedip, kipas angin muter pelan\nKamu cuci beras sambil nyanyi lagu dari radio\nAku cuma mau ambil gelas, kok tanganku kamu tarik\nDapur dua meter persegi, katamu ini lantai dansa\n\n[Pre-Chorus]\nTombolnya masih merah, sabar dulu, Sayang\n\n[Chorus]\nNunggu nasi matang, kita goyang di depan kompor\nPinggulmu kena wajan, aku pura-pura nggak lihat\nKlik dari rice cooker, itu tanda kita berhenti\nTapi masih ada lima menit, sini, satu putaran lagi\n\n[Verse 2]\nTetangga ketok tembok, katanya sendalku berisik\nKamu ketawa sampai sendok sayur jatuh ke lantai\nTelur ceplok di wajan pinggirnya mulai gosong\nKamu bilang nggak apa-apa, yang penting iramanya pas\n\n[Pre-Chorus]\nTombolnya sudah kuning, tapi lagunya belum habis\n\n[Chorus]\nNasi sudah matang, kita goyang di depan kompor\nPiring belum ditata, kamu masih muter di lenganku\nKlik dari rice cooker sudah lewat dari tadi\nBiar telurnya dingin, sini, satu putaran lagi\n\n[Outro - strings and Rhodes fade]\nBesok kita masak lagi, ya\nAku yang cuci berasnya",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Indonesian disco revival in the Diskoria style, late-70s Jakarta disco re-cut for today. Live four-on-the-floor drums with an open hi-hat on the off-beats; a round octave-jumping disco bass; a wah-wah rhythm guitar in sixteenths; a string-machine pad swelling into each chorus; a Rhodes comping between lines. Warm tape colour, roomy, bass and kick forward. Male light tenor and female alto duet trading lines, playful and close-miked, unison on the chorus. 118 BPM, D minor. Warm, flirty and domestic. No trap hi-hats, no autotune, no EDM drop, no dangdut kendang, no house piano.",
+    "lyrics": "[Intro - disco bass and wah guitar]\n\n[Verse 1]\nLampu dapur kedip-kedip, kipas angin muter pelan\nKamu cuci beras sambil nyanyi lagu dari radio\nAku cuma mau ambil gelas, kok tanganku kamu tarik\nDapur dua meter persegi, katamu ini lantai dansa\n\n[Pre-Chorus]\nTombolnya masih merah, sabar dulu, Sayang\n\n[Chorus]\nNunggu nasi matang, kita goyang di depan kompor\nPinggulmu kena wajan, aku pura-pura nggak lihat\nKlik dari rice cooker, itu tanda kita berhenti\nTapi masih ada lima menit, sini, satu putaran lagi\n\n[Verse 2]\nTetangga ketok tembok, katanya sendalku berisik\nKamu ketawa sampai sendok sayur jatuh ke lantai\nTelur ceplok di wajan pinggirnya mulai gosong\nKamu bilang nggak apa-apa, yang penting iramanya pas\n\n[Pre-Chorus]\nTombolnya sudah kuning, tapi lagunya belum habis\n\n[Chorus]\nNasi sudah matang, kita goyang di depan kompor\nPiring belum ditata, kamu masih muter di lenganku\nKlik dari rice cooker sudah lewat dari tadi\nBiar telurnya dingin, sini, satu putaran lagi\n\n[Outro - strings and Rhodes fade]\nBesok kita masak lagi, ya\nAku yang cuci berasnya"
+  },
+  "seed": "2177723153",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.00s**\n- 64.00s per song\n- LM phase (1 song): 15.94s\n- DiT phase (1 song): 48.07s",
+  "task_id": "1daad144-4e88-4d0b-bbb0-0d6e6072921e",
+  "elapsed_s": 90.8,
+  "generated_at": "2026-10-15T15:50:56.567179+08:00",
+  "audio": "b9_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.68,
+      "end": 28.68,
+      "text": "[Intro - disco bass and wah guitar]"
+    },
+    {
+      "t": 28.68,
+      "end": 28.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.68,
+      "end": 35.94,
+      "text": "Lampu dapur kedip-kedip, kipas angin muter pelan"
+    },
+    {
+      "t": 36.62,
+      "end": 43.92,
+      "text": "Kamu cuci beras sambil nyanyi lagu dari radio"
+    },
+    {
+      "t": 44.9,
+      "end": 49.08,
+      "text": "Aku cuma mau ambil gelas, kok tanganku kamu tarik"
+    },
+    {
+      "t": 49.08,
+      "end": 53.17,
+      "text": "Dapur dua meter persegi, katamu ini lantai dansa"
+    },
+    {
+      "t": 54.55,
+      "end": 54.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.55,
+      "end": 61.83,
+      "text": "Tombolnya masih merah, sabar dulu, Sayang"
+    },
+    {
+      "t": 61.83,
+      "end": 61.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.83,
+      "end": 66.79,
+      "text": "Nunggu nasi matang, kita goyang di depan kompor"
+    },
+    {
+      "t": 67.91,
+      "end": 73.53,
+      "text": "Pinggulmu kena wajan, aku pura-pura nggak lihat"
+    },
+    {
+      "t": 73.53,
+      "end": 77.77,
+      "text": "Klik dari rice cooker, itu tanda kita berhenti"
+    },
+    {
+      "t": 80.99,
+      "end": 86.01,
+      "text": "Tapi masih ada lima menit, sini, satu putaran lagi"
+    },
+    {
+      "t": 89.99,
+      "end": 89.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.99,
+      "end": 96.39,
+      "text": "Tetangga ketok tembok, katanya sendalku berisik"
+    },
+    {
+      "t": 97.93,
+      "end": 102.59,
+      "text": "Kamu ketawa sampai sendok sayur jatuh ke lantai"
+    },
+    {
+      "t": 106.13,
+      "end": 111.55,
+      "text": "Telur ceplok di wajan pinggirnya mulai gosong"
+    },
+    {
+      "t": 114.61,
+      "end": 123.39,
+      "text": "Kamu bilang nggak apa-apa, yang penting iramanya pas"
+    },
+    {
+      "t": 123.39,
+      "end": 123.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.39,
+      "end": 139.05,
+      "text": "Tombolnya sudah kuning, tapi lagunya belum habis"
+    },
+    {
+      "t": 139.21,
+      "end": 139.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.21,
+      "end": 145.29,
+      "text": "Nasi sudah matang, kita goyang di depan kompor"
+    },
+    {
+      "t": 147.15,
+      "end": 152.12,
+      "text": "Piring belum ditata, kamu masih muter di lenganku"
+    },
+    {
+      "t": 152.12,
+      "end": 169.82,
+      "text": "Klik dari rice cooker sudah lewat dari tadi"
+    },
+    {
+      "t": 173.54,
+      "end": 178.04,
+      "text": "Biar telurnya dingin, sini, satu putaran lagi"
+    },
+    {
+      "t": 179.96,
+      "end": 179.96,
+      "text": "[Outro - strings and Rhodes fade]"
+    },
+    {
+      "t": 179.96,
+      "end": 189.92,
+      "text": "Besok kita masak lagi, ya"
+    },
+    {
+      "t": 196.7,
+      "end": 198.4,
+      "text": "Aku yang cuci berasnya"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 8.98,
+      "end": 8.98,
+      "text": "[Intro - disco bass and wah guitar]"
+    },
+    {
+      "t": 8.98,
+      "end": 8.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.98,
+      "end": 35.9,
+      "text": "Lampu dapur kedip-kedip, kipas angin muter pelan"
+    },
+    {
+      "t": 36.6,
+      "end": 43.94,
+      "text": "Kamu cuci beras sambil nyanyi lagu dari radio"
+    },
+    {
+      "t": 44.9,
+      "end": 48.94,
+      "text": "Aku cuma mau ambil gelas, kok tanganku kamu tarik"
+    },
+    {
+      "t": 48.94,
+      "end": 53.17,
+      "text": "Dapur dua meter persegi, katamu ini lantai dansa"
+    },
+    {
+      "t": 54.55,
+      "end": 54.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.55,
+      "end": 61.83,
+      "text": "Tombolnya masih merah, sabar dulu, Sayang"
+    },
+    {
+      "t": 61.83,
+      "end": 61.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.83,
+      "end": 66.71,
+      "text": "Nunggu nasi matang, kita goyang di depan kompor"
+    },
+    {
+      "t": 67.91,
+      "end": 73.53,
+      "text": "Pinggulmu kena wajan, aku pura-pura nggak lihat"
+    },
+    {
+      "t": 73.53,
+      "end": 77.79,
+      "text": "Klik dari rice cooker, itu tanda kita berhenti"
+    },
+    {
+      "t": 80.99,
+      "end": 86.01,
+      "text": "Tapi masih ada lima menit, sini, satu putaran lagi"
+    },
+    {
+      "t": 89.99,
+      "end": 89.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.99,
+      "end": 96.39,
+      "text": "Tetangga ketok tembok, katanya sendalku berisik"
+    },
+    {
+      "t": 97.93,
+      "end": 102.59,
+      "text": "Kamu ketawa sampai sendok sayur jatuh ke lantai"
+    },
+    {
+      "t": 106.13,
+      "end": 115.65,
+      "text": "Telur ceplok di wajan pinggirnya mulai gosong"
+    },
+    {
+      "t": 118.69,
+      "end": 123.63,
+      "text": "Kamu bilang nggak apa-apa, yang penting iramanya pas"
+    },
+    {
+      "t": 123.63,
+      "end": 123.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.63,
+      "end": 139.05,
+      "text": "Tombolnya sudah kuning, tapi lagunya belum habis"
+    },
+    {
+      "t": 139.19,
+      "end": 139.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.19,
+      "end": 145.31,
+      "text": "Nasi sudah matang, kita goyang di depan kompor"
+    },
+    {
+      "t": 147.17,
+      "end": 152.08,
+      "text": "Piring belum ditata, kamu masih muter di lenganku"
+    },
+    {
+      "t": 152.08,
+      "end": 169.86,
+      "text": "Klik dari rice cooker sudah lewat dari tadi"
+    },
+    {
+      "t": 173.56,
+      "end": 178.04,
+      "text": "Biar telurnya dingin, sini, satu putaran lagi"
+    },
+    {
+      "t": 179.96,
+      "end": 179.96,
+      "text": "[Outro - strings and Rhodes fade]"
+    },
+    {
+      "t": 179.96,
+      "end": 188.52,
+      "text": "Besok kita masak lagi, ya"
+    },
+    {
+      "t": 196.72,
+      "end": 198.48,
+      "text": "Aku yang cuci berasnya"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

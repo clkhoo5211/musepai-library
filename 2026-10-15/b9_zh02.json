@@ -1,0 +1,459 @@
+{
+  "id": "b9_zh02",
+  "title": "多坐兩站",
+  "title_source": "scripted",
+  "genre": "Mandarin liquid drum and bass",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "warm, hushed and quietly giddy",
+  "persona": "",
+  "subject": "riding the late bus with his girlfriend asleep on his shoulder and staying on two stops past home so she won't wake",
+  "caption": "Mandarin liquid drum and bass in the smooth London liquid-funk style. Rolling chopped breakbeat with crisp ghost snares; a deep round sub bass moving in half-time; Rhodes electric piano playing jazzy seventh chords; a warm analog pad swelling under the chorus; a soft clean electric guitar plucking short phrases. Smooth late-night mix, wide pads, crisp breaks and subby low end. Female voice, a soft close-miked alto singing conversationally, light double-track on the chorus. 172 BPM, D major. Warm, hushed and quietly giddy. No dubstep wobble, no neurofunk growl bass, no trap hi-hats, no autotune, no big-room EDM drop.",
+  "lyrics": "[Intro - Rhodes chords and filtered breakbeat]\n\n[Verse 1]\n末班公車開過基隆路\n你靠著我說只睡一下下\n口罩歪一邊，耳機掉一隻\n你的頭髮有我們剛剛那碗麵的味道\n\n[Pre-Chorus]\n廣播說下一站，是我們家\n\n[Chorus]\n我沒按鈴，我多坐兩站\n肩膀麻了也不想換\n窗外的燈一格一格倒退\n讓我再多愛你兩站\n\n[Verse 2]\n司機從鏡子裡看我一眼\n我比了一個噓，他把車開得好慢\n你在夢裡笑，說了一句聽不懂的話\n我猜那是在叫我名字\n\n[Pre-Chorus]\n廣播說終點站，請全部下車\n\n[Chorus]\n我沒按鈴，我多坐兩站\n走回去要二十分鐘\n你醒來問這是哪裡\n我說剛好，剛好陪你走回家\n\n[Outro - pad and sub bass fade]\n下次你再睡著\n我們坐到底",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 214.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Mandarin liquid drum and bass in the smooth London liquid-funk style. Rolling chopped breakbeat with crisp ghost snares; a deep round sub bass moving in half-time; Rhodes electric piano playing jazzy seventh chords; a warm analog pad swelling under the chorus; a soft clean electric guitar plucking short phrases. Smooth late-night mix, wide pads, crisp breaks and subby low end. Female voice, a soft close-miked alto singing conversationally, light double-track on the chorus. 172 BPM, D major. Warm, hushed and quietly giddy. No dubstep wobble, no neurofunk growl bass, no trap hi-hats, no autotune, no big-room EDM drop.",
+    "lyrics": "[Intro - Rhodes chords and filtered breakbeat]\n\n[Verse 1]\n末班公車開過基隆路\n你靠著我說只睡一下下\n口罩歪一邊，耳機掉一隻\n你的頭髮有我們剛剛那碗麵的味道\n\n[Pre-Chorus]\n廣播說下一站，是我們家\n\n[Chorus]\n我沒按鈴，我多坐兩站\n肩膀麻了也不想換\n窗外的燈一格一格倒退\n讓我再多愛你兩站\n\n[Verse 2]\n司機從鏡子裡看我一眼\n我比了一個噓，他把車開得好慢\n你在夢裡笑，說了一句聽不懂的話\n我猜那是在叫我名字\n\n[Pre-Chorus]\n廣播說終點站，請全部下車\n\n[Chorus]\n我沒按鈴，我多坐兩站\n走回去要二十分鐘\n你醒來問這是哪裡\n我說剛好，剛好陪你走回家\n\n[Outro - pad and sub bass fade]\n下次你再睡著\n我們坐到底"
+  },
+  "seed": "3919765642",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 88.84s**\n- 88.84s per song\n- LM phase (1 song): 18.93s\n- DiT phase (1 song): 69.92s",
+  "task_id": "7e3b16be-f566-4e15-8210-3958392df13b",
+  "elapsed_s": 110.9,
+  "generated_at": "2026-10-15T16:25:02.596250+08:00",
+  "audio": "b9_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.5,
+      "end": 4.5,
+      "text": "[Intro - Rhodes chords and filtered breakbeat]"
+    },
+    {
+      "t": 4.5,
+      "end": 4.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.5,
+      "end": 55.81,
+      "text": "末班公車開過基隆路"
+    },
+    {
+      "t": 55.81,
+      "end": 57.47,
+      "text": "你靠著我說只睡一下下"
+    },
+    {
+      "t": 57.61,
+      "end": 59.09,
+      "text": "口罩歪一邊，耳機掉一隻"
+    },
+    {
+      "t": 59.15,
+      "end": 63.21,
+      "text": "你的頭髮有我們剛剛那碗麵的味道"
+    },
+    {
+      "t": 63.61,
+      "end": 63.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.61,
+      "end": 65.23,
+      "text": "廣播說下一站，是我們家"
+    },
+    {
+      "t": 65.23,
+      "end": 65.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.23,
+      "end": 66.69,
+      "text": "我沒按鈴，我多坐兩站"
+    },
+    {
+      "t": 66.69,
+      "end": 68.21,
+      "text": "肩膀麻了也不想換"
+    },
+    {
+      "t": 68.37,
+      "end": 71.49,
+      "text": "窗外的燈一格一格倒退"
+    },
+    {
+      "t": 71.49,
+      "end": 74.35,
+      "text": "讓我再多愛你兩站"
+    },
+    {
+      "t": 77.49,
+      "end": 77.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.49,
+      "end": 80.47,
+      "text": "司機從鏡子裡看我一眼"
+    },
+    {
+      "t": 81.89,
+      "end": 85.91,
+      "text": "我比了一個噓，他把車開得好慢"
+    },
+    {
+      "t": 88.95,
+      "end": 92.75,
+      "text": "你在夢裡笑，說了一句聽不懂的話"
+    },
+    {
+      "t": 93.81,
+      "end": 97.07,
+      "text": "我猜那是在叫我名字"
+    },
+    {
+      "t": 97.09,
+      "end": 97.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.09,
+      "end": 100.35,
+      "text": "廣播說終點站，請全部下車"
+    },
+    {
+      "t": 100.35,
+      "end": 100.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.35,
+      "end": 103.19,
+      "text": "我沒按鈴，我多坐兩站"
+    },
+    {
+      "t": 105.65,
+      "end": 108.73,
+      "text": "走回去要二十分鐘"
+    },
+    {
+      "t": 111.41,
+      "end": 114.23,
+      "text": "你醒來問這是哪裡"
+    },
+    {
+      "t": 116.39,
+      "end": 175.96,
+      "text": "我說剛好，剛好陪你走回家"
+    },
+    {
+      "t": 185.98,
+      "end": 185.98,
+      "text": "[Outro - pad and sub bass fade]"
+    },
+    {
+      "t": 185.98,
+      "end": 192.56,
+      "text": "下次你再睡著"
+    },
+    {
+      "t": 202.56,
+      "end": 203.98,
+      "text": "我們坐到底"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 4.5,
+      "end": 4.5,
+      "text": "[Intro - Rhodes chords and filtered breakbeat]"
+    },
+    {
+      "t": 4.5,
+      "end": 4.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.5,
+      "end": 55.81,
+      "text": "末班公車開過基隆路"
+    },
+    {
+      "t": 55.81,
+      "end": 57.47,
+      "text": "你靠著我說只睡一下下"
+    },
+    {
+      "t": 57.61,
+      "end": 59.09,
+      "text": "口罩歪一邊，耳機掉一隻"
+    },
+    {
+      "t": 59.15,
+      "end": 63.21,
+      "text": "你的頭髮有我們剛剛那碗麵的味道"
+    },
+    {
+      "t": 63.61,
+      "end": 63.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.61,
+      "end": 65.23,
+      "text": "廣播說下一站，是我們家"
+    },
+    {
+      "t": 65.23,
+      "end": 65.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.23,
+      "end": 66.69,
+      "text": "我沒按鈴，我多坐兩站"
+    },
+    {
+      "t": 66.69,
+      "end": 68.21,
+      "text": "肩膀麻了也不想換"
+    },
+    {
+      "t": 68.37,
+      "end": 71.49,
+      "text": "窗外的燈一格一格倒退"
+    },
+    {
+      "t": 71.49,
+      "end": 74.35,
+      "text": "讓我再多愛你兩站"
+    },
+    {
+      "t": 77.49,
+      "end": 77.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.49,
+      "end": 80.47,
+      "text": "司機從鏡子裡看我一眼"
+    },
+    {
+      "t": 81.89,
+      "end": 85.91,
+      "text": "我比了一個噓，他把車開得好慢"
+    },
+    {
+      "t": 88.95,
+      "end": 92.75,
+      "text": "你在夢裡笑，說了一句聽不懂的話"
+    },
+    {
+      "t": 93.81,
+      "end": 97.07,
+      "text": "我猜那是在叫我名字"
+    },
+    {
+      "t": 97.09,
+      "end": 97.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.09,
+      "end": 100.35,
+      "text": "廣播說終點站，請全部下車"
+    },
+    {
+      "t": 100.35,
+      "end": 100.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.35,
+      "end": 103.19,
+      "text": "我沒按鈴，我多坐兩站"
+    },
+    {
+      "t": 105.65,
+      "end": 108.73,
+      "text": "走回去要二十分鐘"
+    },
+    {
+      "t": 111.41,
+      "end": 114.23,
+      "text": "你醒來問這是哪裡"
+    },
+    {
+      "t": 116.39,
+      "end": 175.96,
+      "text": "我說剛好，剛好陪你走回家"
+    },
+    {
+      "t": 185.98,
+      "end": 185.98,
+      "text": "[Outro - pad and sub bass fade]"
+    },
+    {
+      "t": 185.98,
+      "end": 192.56,
+      "text": "下次你再睡著"
+    },
+    {
+      "t": 202.56,
+      "end": 203.98,
+      "text": "我們坐到底"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 4.08,
+      "end": 4.08,
+      "text": "[Intro - Rhodes chords and filtered breakbeat]"
+    },
+    {
+      "t": 4.08,
+      "end": 4.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.08,
+      "end": 10.42,
+      "text": "末班公車開過基隆路"
+    },
+    {
+      "t": 10.46,
+      "end": 16.38,
+      "text": "你靠著我說只睡一下下"
+    },
+    {
+      "t": 20.78,
+      "end": 50.18,
+      "text": "口罩歪一邊，耳機掉一隻"
+    },
+    {
+      "t": 50.18,
+      "end": 56.71,
+      "text": "你的頭髮有我們剛剛那碗麵的味道"
+    },
+    {
+      "t": 56.71,
+      "end": 56.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.71,
+      "end": 57.93,
+      "text": "廣播說下一站，是我們家"
+    },
+    {
+      "t": 57.95,
+      "end": 57.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.95,
+      "end": 60.39,
+      "text": "我沒按鈴，我多坐兩站"
+    },
+    {
+      "t": 60.39,
+      "end": 64.41,
+      "text": "肩膀麻了也不想換"
+    },
+    {
+      "t": 65.17,
+      "end": 69.15,
+      "text": "窗外的燈一格一格倒退"
+    },
+    {
+      "t": 71.21,
+      "end": 74.35,
+      "text": "讓我再多愛你兩站"
+    },
+    {
+      "t": 77.49,
+      "end": 77.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.49,
+      "end": 80.45,
+      "text": "司機從鏡子裡看我一眼"
+    },
+    {
+      "t": 81.89,
+      "end": 85.89,
+      "text": "我比了一個噓，他把車開得好慢"
+    },
+    {
+      "t": 88.95,
+      "end": 92.75,
+      "text": "你在夢裡笑，說了一句聽不懂的話"
+    },
+    {
+      "t": 93.81,
+      "end": 97.43,
+      "text": "我猜那是在叫我名字"
+    },
+    {
+      "t": 97.53,
+      "end": 97.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.53,
+      "end": 100.35,
+      "text": "廣播說終點站，請全部下車"
+    },
+    {
+      "t": 100.35,
+      "end": 100.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.35,
+      "end": 103.17,
+      "text": "我沒按鈴，我多坐兩站"
+    },
+    {
+      "t": 105.65,
+      "end": 108.71,
+      "text": "走回去要二十分鐘"
+    },
+    {
+      "t": 111.41,
+      "end": 114.19,
+      "text": "你醒來問這是哪裡"
+    },
+    {
+      "t": 116.39,
+      "end": 175.96,
+      "text": "我說剛好，剛好陪你走回家"
+    },
+    {
+      "t": 185.98,
+      "end": 185.98,
+      "text": "[Outro - pad and sub bass fade]"
+    },
+    {
+      "t": 185.98,
+      "end": 192.56,
+      "text": "下次你再睡著"
+    },
+    {
+      "t": 202.56,
+      "end": 203.96,
+      "text": "我們坐到底"
+    }
+  ]
+}

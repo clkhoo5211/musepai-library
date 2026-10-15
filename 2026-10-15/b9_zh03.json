@@ -1,0 +1,327 @@
+{
+  "id": "b9_zh03",
+  "title": "魟魚第七圈",
+  "title_source": "scripted",
+  "genre": "Mandarin shoegaze",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "drowsy, blurred and oddly comforted",
+  "persona": "",
+  "subject": "a man spending a whole rainy afternoon on the bench in an aquarium's underwater tunnel, counting the laps of one manta ray over his head",
+  "caption": "Mandarin shoegaze in the early-1990s glide-guitar style. Layered fuzz guitars with reverse reverb forming a wall; a lead guitar bending notes with the tremolo arm; a melodic bass carrying the tune under the noise; steady mid-tempo drums with washy cymbals; a faint organ drone. Dense wall of sound, vocals sunk under the guitars, smeared cymbals, warm tape hiss. Soft male tenor, breathy and half-whispered, buried in the mix. 92 BPM, A major. Drowsy, blurred and oddly comforted. No bright pop production, no autotune, no trap or EDM drums, no guitar solo shredding, no clean acoustic strumming.",
+  "lyrics": "[Intro - feedback guitars and slow drums]\n\n[Verse 1]\n下雨的禮拜二 水族館沒什麼人\n我坐在隧道中間 那張藍色的長凳\n頭上那隻魟魚 慢慢地游過來\n肚子白白的 好像在對我笑\n\n[Pre-Chorus]\n小朋友走了 導覽也走了\n只剩我 跟玻璃後面的牠\n\n[Chorus]\n第七圈 牠又經過我\n不趕時間 也不說什麼\n外面的雨 跟我無關\n第七圈 我也不想走\n\n[Verse 2]\n手機沒電了 也沒人在找我\n上班的事 暫時放在門口\n牠翻了個身 影子蓋住我的臉\n整條隧道 安靜得像水底\n\n[Pre-Chorus]\n廣播說 再半小時要關門了\n我說好 再等牠一圈\n\n[Chorus]\n第八圈 牠又經過我\n不趕時間 也不說什麼\n明天的雨 我再來看\n第八圈 我才捨得走\n\n[Outro - guitars dissolving into drone]\n藍藍的 慢慢的",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 226.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Mandarin shoegaze in the early-1990s glide-guitar style. Layered fuzz guitars with reverse reverb forming a wall; a lead guitar bending notes with the tremolo arm; a melodic bass carrying the tune under the noise; steady mid-tempo drums with washy cymbals; a faint organ drone. Dense wall of sound, vocals sunk under the guitars, smeared cymbals, warm tape hiss. Soft male tenor, breathy and half-whispered, buried in the mix. 92 BPM, A major. Drowsy, blurred and oddly comforted. No bright pop production, no autotune, no trap or EDM drums, no guitar solo shredding, no clean acoustic strumming.",
+    "lyrics": "[Intro - feedback guitars and slow drums]\n\n[Verse 1]\n下雨的禮拜二 水族館沒什麼人\n我坐在隧道中間 那張藍色的長凳\n頭上那隻魟魚 慢慢地游過來\n肚子白白的 好像在對我笑\n\n[Pre-Chorus]\n小朋友走了 導覽也走了\n只剩我 跟玻璃後面的牠\n\n[Chorus]\n第七圈 牠又經過我\n不趕時間 也不說什麼\n外面的雨 跟我無關\n第七圈 我也不想走\n\n[Verse 2]\n手機沒電了 也沒人在找我\n上班的事 暫時放在門口\n牠翻了個身 影子蓋住我的臉\n整條隧道 安靜得像水底\n\n[Pre-Chorus]\n廣播說 再半小時要關門了\n我說好 再等牠一圈\n\n[Chorus]\n第八圈 牠又經過我\n不趕時間 也不說什麼\n明天的雨 我再來看\n第八圈 我才捨得走\n\n[Outro - guitars dissolving into drone]\n藍藍的 慢慢的"
+  },
+  "seed": "2905608011",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 86.22s**\n- 86.22s per song\n- LM phase (1 song): 17.90s\n- DiT phase (1 song): 68.32s",
+  "task_id": "bc2c086e-fdd9-4b4c-9e5f-09bdebdeb755",
+  "elapsed_s": 110.3,
+  "generated_at": "2026-10-15T16:26:52.894898+08:00",
+  "audio": "b9_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 49.86,
+      "end": 49.86,
+      "text": "[Intro - feedback guitars and slow drums]"
+    },
+    {
+      "t": 49.86,
+      "end": 49.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 49.86,
+      "end": 54.1,
+      "text": "下雨的禮拜二 水族館沒什麼人"
+    },
+    {
+      "t": 56.46,
+      "end": 61.83,
+      "text": "我坐在隧道中間 那張藍色的長凳"
+    },
+    {
+      "t": 64.83,
+      "end": 69.77,
+      "text": "頭上那隻魟魚 慢慢地游過來"
+    },
+    {
+      "t": 70.79,
+      "end": 74.71,
+      "text": "肚子白白的 好像在對我笑"
+    },
+    {
+      "t": 74.71,
+      "end": 74.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 74.71,
+      "end": 83.11,
+      "text": "小朋友走了 導覽也走了"
+    },
+    {
+      "t": 83.69,
+      "end": 88.11,
+      "text": "只剩我 跟玻璃後面的牠"
+    },
+    {
+      "t": 88.11,
+      "end": 88.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.11,
+      "end": 89.69,
+      "text": "第七圈 牠又經過我"
+    },
+    {
+      "t": 89.89,
+      "end": 91.71,
+      "text": "不趕時間 也不說什麼"
+    },
+    {
+      "t": 91.71,
+      "end": 94.13,
+      "text": "外面的雨 跟我無關"
+    },
+    {
+      "t": 94.15,
+      "end": 94.83,
+      "text": "第七圈 我也不想走"
+    },
+    {
+      "t": 95.77,
+      "end": 95.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.77,
+      "end": 97.11,
+      "text": "手機沒電了 也沒人在找我"
+    },
+    {
+      "t": 98.69,
+      "end": 102.67,
+      "text": "上班的事 暫時放在門口"
+    },
+    {
+      "t": 104.31,
+      "end": 108.67,
+      "text": "牠翻了個身 影子蓋住我的臉"
+    },
+    {
+      "t": 109.85,
+      "end": 113.23,
+      "text": "整條隧道 安靜得像水底"
+    },
+    {
+      "t": 113.23,
+      "end": 113.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.23,
+      "end": 115.59,
+      "text": "廣播說 再半小時要關門了"
+    },
+    {
+      "t": 115.59,
+      "end": 120.77,
+      "text": "我說好 再等牠一圈"
+    },
+    {
+      "t": 120.77,
+      "end": 120.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.77,
+      "end": 123.67,
+      "text": "第八圈 牠又經過我"
+    },
+    {
+      "t": 125.15,
+      "end": 128.75,
+      "text": "不趕時間 也不說什麼"
+    },
+    {
+      "t": 130.77,
+      "end": 134.53,
+      "text": "明天的雨 我再來看"
+    },
+    {
+      "t": 135.75,
+      "end": 142.85,
+      "text": "第八圈 我才捨得走"
+    },
+    {
+      "t": 165.29,
+      "end": 165.29,
+      "text": "[Outro - guitars dissolving into drone]"
+    },
+    {
+      "t": 165.29,
+      "end": 171.12,
+      "text": "藍藍的 慢慢的"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 49.86,
+      "end": 49.86,
+      "text": "[Intro - feedback guitars and slow drums]"
+    },
+    {
+      "t": 49.86,
+      "end": 49.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 49.86,
+      "end": 54.1,
+      "text": "下雨的禮拜二 水族館沒什麼人"
+    },
+    {
+      "t": 56.63,
+      "end": 61.85,
+      "text": "我坐在隧道中間 那張藍色的長凳"
+    },
+    {
+      "t": 64.81,
+      "end": 70.39,
+      "text": "頭上那隻魟魚 慢慢地游過來"
+    },
+    {
+      "t": 70.81,
+      "end": 73.97,
+      "text": "肚子白白的 好像在對我笑"
+    },
+    {
+      "t": 73.97,
+      "end": 73.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 73.97,
+      "end": 87.85,
+      "text": "小朋友走了 導覽也走了"
+    },
+    {
+      "t": 87.85,
+      "end": 90.75,
+      "text": "只剩我 跟玻璃後面的牠"
+    },
+    {
+      "t": 90.75,
+      "end": 90.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.75,
+      "end": 91.69,
+      "text": "第七圈 牠又經過我"
+    },
+    {
+      "t": 91.69,
+      "end": 94.19,
+      "text": "不趕時間 也不說什麼"
+    },
+    {
+      "t": 94.19,
+      "end": 94.91,
+      "text": "外面的雨 跟我無關"
+    },
+    {
+      "t": 94.91,
+      "end": 95.77,
+      "text": "第七圈 我也不想走"
+    },
+    {
+      "t": 95.77,
+      "end": 95.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.77,
+      "end": 97.11,
+      "text": "手機沒電了 也沒人在找我"
+    },
+    {
+      "t": 98.71,
+      "end": 102.65,
+      "text": "上班的事 暫時放在門口"
+    },
+    {
+      "t": 104.29,
+      "end": 106.91,
+      "text": "牠翻了個身 影子蓋住我的臉"
+    },
+    {
+      "t": 106.97,
+      "end": 109.23,
+      "text": "整條隧道 安靜得像水底"
+    },
+    {
+      "t": 109.23,
+      "end": 109.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.23,
+      "end": 114.01,
+      "text": "廣播說 再半小時要關門了"
+    },
+    {
+      "t": 114.11,
+      "end": 115.53,
+      "text": "我說好 再等牠一圈"
+    },
+    {
+      "t": 120.17,
+      "end": 120.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.17,
+      "end": 123.67,
+      "text": "第八圈 牠又經過我"
+    },
+    {
+      "t": 125.15,
+      "end": 128.75,
+      "text": "不趕時間 也不說什麼"
+    },
+    {
+      "t": 130.77,
+      "end": 134.55,
+      "text": "明天的雨 我再來看"
+    },
+    {
+      "t": 135.75,
+      "end": 165.31,
+      "text": "第八圈 我才捨得走"
+    },
+    {
+      "t": 165.39,
+      "end": 165.39,
+      "text": "[Outro - guitars dissolving into drone]"
+    },
+    {
+      "t": 165.39,
+      "end": 171.12,
+      "text": "藍藍的 慢慢的"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

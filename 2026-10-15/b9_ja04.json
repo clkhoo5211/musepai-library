@@ -1,0 +1,277 @@
+{
+  "id": "b9_ja04",
+  "title": "三回目の貸出延長",
+  "title_source": "scripted",
+  "genre": "Japanese lo-fi jazz hip-hop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "drowsy, wry and unhurried",
+  "persona": "",
+  "subject": "renewing the same library novel for the third time without having read past page forty",
+  "caption": "Japanese lo-fi jazz hip-hop in the Nujabes lineage. A dusty boom-bap drum loop with a lazy swung snare and soft kick; an upright bass walking in short phrases; muted jazz piano playing ninth-chord voicings; a brushed ride cymbal; a soft flugelhorn answering the vocal between lines. Warm and dusty, vinyl crackle underneath, rolled-off highs, tape saturation, a close dry vocal. Male voice, a murmured low baritone half-rapping the verses and singing a soft hook. 84 BPM, D minor. Drowsy, wry and unhurried. No trap hi-hats, no autotune, no 808 bass, no EDM elements, no aggressive rap delivery.",
+  "lyrics": "[Intro - piano loop and vinyl crackle]\n\n[Verse 1]\nカウンターの人 もう覚えてる\nこの本ですね って先に言われた\nしおりは今も 四十ページ\n主人公はまだ 駅で待ってる\n\n[Chorus]\n三回目の貸出延長\n返すつもりは ちゃんとあるんだ\n読まないくせに 手放せない\nあと二週間 鞄の底で\n\n[Verse 2]\n電車で開いて 二行で寝る\n風呂で開いて ちょっと濡らした\n予約してる人 誰もいなくて\nそれがなんだか ありがたかった\n\n[Chorus]\n三回目の貸出延長\n次は無理です って言われた\n今夜こそ 駅のその先へ\nあと二週間 枕のとなりで\n\n[Outro - flugelhorn and bass]\n四十一ページ\nやっと電車が来た",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Japanese lo-fi jazz hip-hop in the Nujabes lineage. A dusty boom-bap drum loop with a lazy swung snare and soft kick; an upright bass walking in short phrases; muted jazz piano playing ninth-chord voicings; a brushed ride cymbal; a soft flugelhorn answering the vocal between lines. Warm and dusty, vinyl crackle underneath, rolled-off highs, tape saturation, a close dry vocal. Male voice, a murmured low baritone half-rapping the verses and singing a soft hook. 84 BPM, D minor. Drowsy, wry and unhurried. No trap hi-hats, no autotune, no 808 bass, no EDM elements, no aggressive rap delivery.",
+    "lyrics": "[Intro - piano loop and vinyl crackle]\n\n[Verse 1]\nカウンターの人 もう覚えてる\nこの本ですね って先に言われた\nしおりは今も 四十ページ\n主人公はまだ 駅で待ってる\n\n[Chorus]\n三回目の貸出延長\n返すつもりは ちゃんとあるんだ\n読まないくせに 手放せない\nあと二週間 鞄の底で\n\n[Verse 2]\n電車で開いて 二行で寝る\n風呂で開いて ちょっと濡らした\n予約してる人 誰もいなくて\nそれがなんだか ありがたかった\n\n[Chorus]\n三回目の貸出延長\n次は無理です って言われた\n今夜こそ 駅のその先へ\nあと二週間 枕のとなりで\n\n[Outro - flugelhorn and bass]\n四十一ページ\nやっと電車が来た"
+  },
+  "seed": "1174553756",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.81s**\n- 64.81s per song\n- LM phase (1 song): 14.75s\n- DiT phase (1 song): 50.06s",
+  "task_id": "6dafa066-7983-4340-8022-eb4c29675fea",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-15T16:36:23.617051+08:00",
+  "audio": "b9_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 39.34,
+      "end": 39.34,
+      "text": "[Intro - piano loop and vinyl crackle]"
+    },
+    {
+      "t": 39.34,
+      "end": 39.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.34,
+      "end": 41.84,
+      "text": "カウンターの人 もう覚えてる"
+    },
+    {
+      "t": 41.84,
+      "end": 46.24,
+      "text": "この本ですね って先に言われた"
+    },
+    {
+      "t": 46.36,
+      "end": 46.96,
+      "text": "しおりは今も 四十ページ"
+    },
+    {
+      "t": 46.98,
+      "end": 51.71,
+      "text": "主人公はまだ 駅で待ってる"
+    },
+    {
+      "t": 51.71,
+      "end": 51.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.71,
+      "end": 54.19,
+      "text": "三回目の貸出延長"
+    },
+    {
+      "t": 56.37,
+      "end": 59.69,
+      "text": "返すつもりは ちゃんとあるんだ"
+    },
+    {
+      "t": 61.85,
+      "end": 63.75,
+      "text": "読まないくせに 手放せない"
+    },
+    {
+      "t": 63.75,
+      "end": 64.83,
+      "text": "あと二週間 鞄の底で"
+    },
+    {
+      "t": 65.03,
+      "end": 65.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.03,
+      "end": 68.33,
+      "text": "電車で開いて 二行で寝る"
+    },
+    {
+      "t": 68.49,
+      "end": 85.89,
+      "text": "風呂で開いて ちょっと濡らした"
+    },
+    {
+      "t": 86.01,
+      "end": 90.79,
+      "text": "予約してる人 誰もいなくて"
+    },
+    {
+      "t": 90.79,
+      "end": 94.85,
+      "text": "それがなんだか ありがたかった"
+    },
+    {
+      "t": 94.93,
+      "end": 94.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.93,
+      "end": 96.97,
+      "text": "三回目の貸出延長"
+    },
+    {
+      "t": 96.97,
+      "end": 98.69,
+      "text": "次は無理です って言われた"
+    },
+    {
+      "t": 98.69,
+      "end": 100.07,
+      "text": "今夜こそ 駅のその先へ"
+    },
+    {
+      "t": 101.77,
+      "end": 105.81,
+      "text": "あと二週間 枕のとなりで"
+    },
+    {
+      "t": 105.61,
+      "end": 105.61,
+      "text": "[Outro - flugelhorn and bass]"
+    },
+    {
+      "t": 105.61,
+      "end": 105.75,
+      "text": "四十一ページ"
+    },
+    {
+      "t": 107.41,
+      "end": 187.26,
+      "text": "やっと電車が来た"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.58,
+      "end": 32.58,
+      "text": "[Intro - piano loop and vinyl crackle]"
+    },
+    {
+      "t": 32.58,
+      "end": 32.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.58,
+      "end": 40.04,
+      "text": "カウンターの人 もう覚えてる"
+    },
+    {
+      "t": 40.04,
+      "end": 40.96,
+      "text": "この本ですね って先に言われた"
+    },
+    {
+      "t": 40.98,
+      "end": 42.56,
+      "text": "しおりは今も 四十ページ"
+    },
+    {
+      "t": 44.92,
+      "end": 47.88,
+      "text": "主人公はまだ 駅で待ってる"
+    },
+    {
+      "t": 51.15,
+      "end": 51.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.15,
+      "end": 54.21,
+      "text": "三回目の貸出延長"
+    },
+    {
+      "t": 56.37,
+      "end": 59.69,
+      "text": "返すつもりは ちゃんとあるんだ"
+    },
+    {
+      "t": 61.85,
+      "end": 63.97,
+      "text": "読まないくせに 手放せない"
+    },
+    {
+      "t": 63.99,
+      "end": 64.83,
+      "text": "あと二週間 鞄の底で"
+    },
+    {
+      "t": 64.91,
+      "end": 64.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.91,
+      "end": 67.39,
+      "text": "電車で開いて 二行で寝る"
+    },
+    {
+      "t": 67.41,
+      "end": 68.59,
+      "text": "風呂で開いて ちょっと濡らした"
+    },
+    {
+      "t": 68.73,
+      "end": 70.27,
+      "text": "予約してる人 誰もいなくて"
+    },
+    {
+      "t": 70.27,
+      "end": 85.89,
+      "text": "それがなんだか ありがたかった"
+    },
+    {
+      "t": 86.01,
+      "end": 86.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.01,
+      "end": 89.33,
+      "text": "三回目の貸出延長"
+    },
+    {
+      "t": 89.37,
+      "end": 94.03,
+      "text": "次は無理です って言われた"
+    },
+    {
+      "t": 96.35,
+      "end": 99.87,
+      "text": "今夜こそ 駅のその先へ"
+    },
+    {
+      "t": 101.75,
+      "end": 105.57,
+      "text": "あと二週間 枕のとなりで"
+    },
+    {
+      "t": 105.61,
+      "end": 105.61,
+      "text": "[Outro - flugelhorn and bass]"
+    },
+    {
+      "t": 105.61,
+      "end": 105.75,
+      "text": "四十一ページ"
+    },
+    {
+      "t": 105.75,
+      "end": 187.28,
+      "text": "やっと電車が来た"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

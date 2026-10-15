@@ -1,0 +1,337 @@
+{
+  "id": "b9_id05",
+  "title": "Layangan Tujuh Belas",
+  "title_source": "scripted",
+  "genre": "Indonesian orchestral folk-pop waltz",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "tender, nervous and quietly proud",
+  "persona": "",
+  "subject": "a kampung kite maker who builds a three-metre kite for the Seventeenth of August contest and the whole street takes turns holding the line in the rice field",
+  "caption": "Indonesian orchestral folk-pop waltz in the manner of Sal Priadi, poetic and theatrical. A fingerpicked nylon-string guitar and an upright piano carrying a 3/4 lilt; a string quartet answering each line and swelling into the choruses; a clarinet counter-melody; soft brushed drums keeping the waltz. Warm, close and acoustic, gentle room reverb, strings rising in the final chorus. Male baritone crooner, intimate and conversational, opening up on the last chorus. 84 BPM, G major. Tender, nervous and quietly proud. No trap beat, no autotune, no power-ballad drums, no EDM pads, no dangdut.",
+  "lyrics": "[Intro - strings in 3/4, acoustic guitar]\n\n[Verse 1]\nSeminggu Pak Darto di teras rumah\nBambu diserut, kertas minyak merah putih\nAnak-anak duduk, nggak ada yang ngomong\nTakut lemnya belum kering\n\n[Pre-Chorus]\nTiga meter, katanya\nPaling gede sekecamatan\n\n[Chorus]\nNaik, naik, layangan tujuh belas\nDi atas sawah, angin lagi pas\nBenangnya kita pegang bergantian\nSatu gang narik pelan-pelan\n\n[Verse 2]\nPagi itu angin sempat hilang\nLayangan nyangkut di pohon kelapa\nBu RT teriak, panjat, panjat\nPak Darto cuma senyum sabar\n\n[Pre-Chorus]\nJam dua belas angin datang\nSemua orang lari ke pematang\n\n[Chorus]\nNaik, naik, layangan tujuh belas\nMerah putih, tinggi dan bebas\nJuara dua juga nggak apa-apa\nSatu gang pulang ketawa\n\n[Outro - strings settle]\nTahun depan empat meter\nKatanya",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Indonesian orchestral folk-pop waltz in the manner of Sal Priadi, poetic and theatrical. A fingerpicked nylon-string guitar and an upright piano carrying a 3/4 lilt; a string quartet answering each line and swelling into the choruses; a clarinet counter-melody; soft brushed drums keeping the waltz. Warm, close and acoustic, gentle room reverb, strings rising in the final chorus. Male baritone crooner, intimate and conversational, opening up on the last chorus. 84 BPM, G major. Tender, nervous and quietly proud. No trap beat, no autotune, no power-ballad drums, no EDM pads, no dangdut.",
+    "lyrics": "[Intro - strings in 3/4, acoustic guitar]\n\n[Verse 1]\nSeminggu Pak Darto di teras rumah\nBambu diserut, kertas minyak merah putih\nAnak-anak duduk, nggak ada yang ngomong\nTakut lemnya belum kering\n\n[Pre-Chorus]\nTiga meter, katanya\nPaling gede sekecamatan\n\n[Chorus]\nNaik, naik, layangan tujuh belas\nDi atas sawah, angin lagi pas\nBenangnya kita pegang bergantian\nSatu gang narik pelan-pelan\n\n[Verse 2]\nPagi itu angin sempat hilang\nLayangan nyangkut di pohon kelapa\nBu RT teriak, panjat, panjat\nPak Darto cuma senyum sabar\n\n[Pre-Chorus]\nJam dua belas angin datang\nSemua orang lari ke pematang\n\n[Chorus]\nNaik, naik, layangan tujuh belas\nMerah putih, tinggi dan bebas\nJuara dua juga nggak apa-apa\nSatu gang pulang ketawa\n\n[Outro - strings settle]\nTahun depan empat meter\nKatanya"
+  },
+  "seed": "3707734900",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 83.69s**\n- 83.69s per song\n- LM phase (1 song): 12.96s\n- DiT phase (1 song): 70.73s",
+  "task_id": "c6aa6dd8-bdfc-4bc3-87c0-c84d44e0e50d",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-10-15T15:56:57.275980+08:00",
+  "audio": "b9_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - strings in 3/4, acoustic guitar]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 45.36,
+      "text": "Seminggu Pak Darto di teras rumah"
+    },
+    {
+      "t": 45.36,
+      "end": 51.26,
+      "text": "Bambu diserut, kertas minyak merah putih"
+    },
+    {
+      "t": 51.26,
+      "end": 54.27,
+      "text": "Anak-anak duduk, nggak ada yang ngomong"
+    },
+    {
+      "t": 54.33,
+      "end": 58.87,
+      "text": "Takut lemnya belum kering"
+    },
+    {
+      "t": 58.87,
+      "end": 58.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.87,
+      "end": 61.85,
+      "text": "Tiga meter, katanya"
+    },
+    {
+      "t": 62.61,
+      "end": 68.39,
+      "text": "Paling gede sekecamatan"
+    },
+    {
+      "t": 68.41,
+      "end": 68.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.41,
+      "end": 69.57,
+      "text": "Naik, naik, layangan tujuh belas"
+    },
+    {
+      "t": 69.57,
+      "end": 71.55,
+      "text": "Di atas sawah, angin lagi pas"
+    },
+    {
+      "t": 72.83,
+      "end": 77.97,
+      "text": "Benangnya kita pegang bergantian"
+    },
+    {
+      "t": 78.75,
+      "end": 84.65,
+      "text": "Satu gang narik pelan-pelan"
+    },
+    {
+      "t": 87.39,
+      "end": 87.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.39,
+      "end": 90.95,
+      "text": "Pagi itu angin sempat hilang"
+    },
+    {
+      "t": 92.81,
+      "end": 96.19,
+      "text": "Layangan nyangkut di pohon kelapa"
+    },
+    {
+      "t": 98.37,
+      "end": 102.15,
+      "text": "Bu RT teriak, panjat, panjat"
+    },
+    {
+      "t": 104.21,
+      "end": 107.81,
+      "text": "Pak Darto cuma senyum sabar"
+    },
+    {
+      "t": 109.89,
+      "end": 109.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.89,
+      "end": 113.39,
+      "text": "Jam dua belas angin datang"
+    },
+    {
+      "t": 115.75,
+      "end": 119.11,
+      "text": "Semua orang lari ke pematang"
+    },
+    {
+      "t": 121.45,
+      "end": 121.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.45,
+      "end": 125.03,
+      "text": "Naik, naik, layangan tujuh belas"
+    },
+    {
+      "t": 126.29,
+      "end": 130.77,
+      "text": "Merah putih, tinggi dan bebas"
+    },
+    {
+      "t": 132.31,
+      "end": 136.93,
+      "text": "Juara dua juga nggak apa-apa"
+    },
+    {
+      "t": 138.53,
+      "end": 144.49,
+      "text": "Satu gang pulang ketawa"
+    },
+    {
+      "t": 166.1,
+      "end": 166.1,
+      "text": "[Outro - strings settle]"
+    },
+    {
+      "t": 166.1,
+      "end": 169.94,
+      "text": "Tahun depan empat meter"
+    },
+    {
+      "t": 169.94,
+      "end": 188.02,
+      "text": "Katanya"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.96,
+      "end": 20.96,
+      "text": "[Intro - strings in 3/4, acoustic guitar]"
+    },
+    {
+      "t": 20.96,
+      "end": 20.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.96,
+      "end": 45.36,
+      "text": "Seminggu Pak Darto di teras rumah"
+    },
+    {
+      "t": 45.36,
+      "end": 51.26,
+      "text": "Bambu diserut, kertas minyak merah putih"
+    },
+    {
+      "t": 51.28,
+      "end": 55.61,
+      "text": "Anak-anak duduk, nggak ada yang ngomong"
+    },
+    {
+      "t": 55.73,
+      "end": 58.87,
+      "text": "Takut lemnya belum kering"
+    },
+    {
+      "t": 58.87,
+      "end": 58.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.87,
+      "end": 61.85,
+      "text": "Tiga meter, katanya"
+    },
+    {
+      "t": 62.61,
+      "end": 68.39,
+      "text": "Paling gede sekecamatan"
+    },
+    {
+      "t": 68.73,
+      "end": 68.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.73,
+      "end": 69.83,
+      "text": "Naik, naik, layangan tujuh belas"
+    },
+    {
+      "t": 69.83,
+      "end": 70.99,
+      "text": "Di atas sawah, angin lagi pas"
+    },
+    {
+      "t": 72.83,
+      "end": 77.97,
+      "text": "Benangnya kita pegang bergantian"
+    },
+    {
+      "t": 78.75,
+      "end": 84.67,
+      "text": "Satu gang narik pelan-pelan"
+    },
+    {
+      "t": 87.39,
+      "end": 87.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.39,
+      "end": 90.95,
+      "text": "Pagi itu angin sempat hilang"
+    },
+    {
+      "t": 92.65,
+      "end": 96.19,
+      "text": "Layangan nyangkut di pohon kelapa"
+    },
+    {
+      "t": 98.37,
+      "end": 102.17,
+      "text": "Bu RT teriak, panjat, panjat"
+    },
+    {
+      "t": 104.21,
+      "end": 107.99,
+      "text": "Pak Darto cuma senyum sabar"
+    },
+    {
+      "t": 109.87,
+      "end": 109.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.87,
+      "end": 113.39,
+      "text": "Jam dua belas angin datang"
+    },
+    {
+      "t": 115.75,
+      "end": 119.29,
+      "text": "Semua orang lari ke pematang"
+    },
+    {
+      "t": 121.45,
+      "end": 121.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.45,
+      "end": 125.01,
+      "text": "Naik, naik, layangan tujuh belas"
+    },
+    {
+      "t": 126.29,
+      "end": 130.79,
+      "text": "Merah putih, tinggi dan bebas"
+    },
+    {
+      "t": 132.31,
+      "end": 136.93,
+      "text": "Juara dua juga nggak apa-apa"
+    },
+    {
+      "t": 138.53,
+      "end": 144.49,
+      "text": "Satu gang pulang ketawa"
+    },
+    {
+      "t": 166.1,
+      "end": 166.1,
+      "text": "[Outro - strings settle]"
+    },
+    {
+      "t": 166.1,
+      "end": 169.96,
+      "text": "Tahun depan empat meter"
+    },
+    {
+      "t": 187.88,
+      "end": 199.12,
+      "text": "Katanya"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

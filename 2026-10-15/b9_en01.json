@@ -1,0 +1,317 @@
+{
+  "id": "b9_en01",
+  "title": "Your Ball's on My Side",
+  "title_source": "scripted",
+  "genre": "funk-soul R&B",
+  "language": "en",
+  "language_name": "English",
+  "mood": "flirty, loose and self-amused",
+  "persona": "",
+  "subject": "a man on a public tennis court whose neighbour on the next court keeps hitting her balls over the net divider every Saturday morning",
+  "caption": "Funk-soul R&B in the live-band style of mid-2020s Black American R&B. Live drums with ghost notes on the snare and a loose swung hi-hat; a rubbery fingerstyle bass walking under every bar; a wah-pedal rhythm guitar scratching sixteenths; a Rhodes electric piano playing ninth chords; a short horn section stabbing at the end of each chorus line. Warm live-room recording, dry drums, bass forward, light tape saturation. Male tenor, relaxed and playful in the verses, easing into falsetto and small ad-lib runs in the chorus. 98 BPM, E minor. Flirty, loose and self-amused. No trap hi-hats, no autotune, no 808 bass, no EDM synths, no rap verse.",
+  "lyrics": "[Intro - wah guitar and bass]\n\n[Verse 1]\nCourt number four, Saturday, nine on the dot\nHer serve's got nowhere to go but into my spot\nYellow ball rolls past my shoe, she's waving her racket\nI jog it back slower than anyone has to\n\n[Pre-Chorus]\nMy buddy says, man, we're meant to be playing\n\n[Chorus]\nYour ball's on my side again, don't you worry\nI'll bring it back over, I'm in no hurry\nHit it as wild as you want, I'll be waiting\nYour ball's on my side again, keep it coming\n\n[Verse 2]\nWeek number six and she's barely even aiming\nLobs it clean over and points at me, blaming\nI said, you're a menace, she said, you're slow\nThen she asked for a match, said, winner picks where we go\n\n[Pre-Chorus]\nMy buddy packs his bag and says, I'm out of here\n\n[Chorus]\nYour ball's on my side again, come and get it\nBring your own racket, we'll play one set of it\nLoser buys coffee, and I plan on losing\nYour ball's on my side again, and so are you\n\n[Outro - horns and Rhodes]\nLove fifteen, love thirty\nSomebody's gotta keep score",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Funk-soul R&B in the live-band style of mid-2020s Black American R&B. Live drums with ghost notes on the snare and a loose swung hi-hat; a rubbery fingerstyle bass walking under every bar; a wah-pedal rhythm guitar scratching sixteenths; a Rhodes electric piano playing ninth chords; a short horn section stabbing at the end of each chorus line. Warm live-room recording, dry drums, bass forward, light tape saturation. Male tenor, relaxed and playful in the verses, easing into falsetto and small ad-lib runs in the chorus. 98 BPM, E minor. Flirty, loose and self-amused. No trap hi-hats, no autotune, no 808 bass, no EDM synths, no rap verse.",
+    "lyrics": "[Intro - wah guitar and bass]\n\n[Verse 1]\nCourt number four, Saturday, nine on the dot\nHer serve's got nowhere to go but into my spot\nYellow ball rolls past my shoe, she's waving her racket\nI jog it back slower than anyone has to\n\n[Pre-Chorus]\nMy buddy says, man, we're meant to be playing\n\n[Chorus]\nYour ball's on my side again, don't you worry\nI'll bring it back over, I'm in no hurry\nHit it as wild as you want, I'll be waiting\nYour ball's on my side again, keep it coming\n\n[Verse 2]\nWeek number six and she's barely even aiming\nLobs it clean over and points at me, blaming\nI said, you're a menace, she said, you're slow\nThen she asked for a match, said, winner picks where we go\n\n[Pre-Chorus]\nMy buddy packs his bag and says, I'm out of here\n\n[Chorus]\nYour ball's on my side again, come and get it\nBring your own racket, we'll play one set of it\nLoser buys coffee, and I plan on losing\nYour ball's on my side again, and so are you\n\n[Outro - horns and Rhodes]\nLove fifteen, love thirty\nSomebody's gotta keep score"
+  },
+  "seed": "4119260308",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.65s**\n- 73.65s per song\n- LM phase (1 song): 15.25s\n- DiT phase (1 song): 58.40s",
+  "task_id": "36bc91ba-8432-4169-b873-bdb3ee8a7e29",
+  "elapsed_s": 100.8,
+  "generated_at": "2026-10-15T16:15:10.214886+08:00",
+  "audio": "b9_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.44,
+      "end": 21.44,
+      "text": "[Intro - wah guitar and bass]"
+    },
+    {
+      "t": 21.44,
+      "end": 21.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.44,
+      "end": 25.34,
+      "text": "Court number four, Saturday, nine on the dot"
+    },
+    {
+      "t": 31.46,
+      "end": 35.46,
+      "text": "Her serve's got nowhere to go but into my spot"
+    },
+    {
+      "t": 42.14,
+      "end": 45.48,
+      "text": "Yellow ball rolls past my shoe, she's waving her racket"
+    },
+    {
+      "t": 51.35,
+      "end": 55.13,
+      "text": "I jog it back slower than anyone has to"
+    },
+    {
+      "t": 61.91,
+      "end": 61.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.91,
+      "end": 64.59,
+      "text": "My buddy says, man, we're meant to be playing"
+    },
+    {
+      "t": 64.59,
+      "end": 64.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.59,
+      "end": 67.21,
+      "text": "Your ball's on my side again, don't you worry"
+    },
+    {
+      "t": 67.21,
+      "end": 72.07,
+      "text": "I'll bring it back over, I'm in no hurry"
+    },
+    {
+      "t": 72.07,
+      "end": 79.67,
+      "text": "Hit it as wild as you want, I'll be waiting"
+    },
+    {
+      "t": 81.81,
+      "end": 87.11,
+      "text": "Your ball's on my side again, keep it coming"
+    },
+    {
+      "t": 88.19,
+      "end": 88.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.19,
+      "end": 91.99,
+      "text": "Week number six and she's barely even aiming"
+    },
+    {
+      "t": 92.63,
+      "end": 96.87,
+      "text": "Lobs it clean over and points at me, blaming"
+    },
+    {
+      "t": 96.89,
+      "end": 98.69,
+      "text": "I said, you're a menace, she said, you're slow"
+    },
+    {
+      "t": 101.73,
+      "end": 106.89,
+      "text": "Then she asked for a match, said, winner picks where we go"
+    },
+    {
+      "t": 111.41,
+      "end": 111.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.41,
+      "end": 116.11,
+      "text": "My buddy packs his bag and says, I'm out of here"
+    },
+    {
+      "t": 116.11,
+      "end": 116.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.11,
+      "end": 118.17,
+      "text": "Your ball's on my side again, come and get it"
+    },
+    {
+      "t": 125.39,
+      "end": 129.97,
+      "text": "Bring your own racket, we'll play one set of it"
+    },
+    {
+      "t": 129.97,
+      "end": 133.93,
+      "text": "Loser buys coffee, and I plan on losing"
+    },
+    {
+      "t": 134.97,
+      "end": 148.69,
+      "text": "Your ball's on my side again, and so are you"
+    },
+    {
+      "t": 148.69,
+      "end": 148.69,
+      "text": "[Outro - horns and Rhodes]"
+    },
+    {
+      "t": 148.69,
+      "end": 156.7,
+      "text": "Love fifteen, love thirty"
+    },
+    {
+      "t": 173.8,
+      "end": 184.24,
+      "text": "Somebody's gotta keep score"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.44,
+      "end": 21.44,
+      "text": "[Intro - wah guitar and bass]"
+    },
+    {
+      "t": 21.44,
+      "end": 21.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.44,
+      "end": 31.48,
+      "text": "Court number four, Saturday, nine on the dot"
+    },
+    {
+      "t": 31.48,
+      "end": 42.12,
+      "text": "Her serve's got nowhere to go but into my spot"
+    },
+    {
+      "t": 42.12,
+      "end": 51.27,
+      "text": "Yellow ball rolls past my shoe, she's waving her racket"
+    },
+    {
+      "t": 51.35,
+      "end": 55.13,
+      "text": "I jog it back slower than anyone has to"
+    },
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.89,
+      "end": 64.61,
+      "text": "My buddy says, man, we're meant to be playing"
+    },
+    {
+      "t": 64.61,
+      "end": 64.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.61,
+      "end": 67.17,
+      "text": "Your ball's on my side again, don't you worry"
+    },
+    {
+      "t": 67.17,
+      "end": 72.09,
+      "text": "I'll bring it back over, I'm in no hurry"
+    },
+    {
+      "t": 72.09,
+      "end": 79.69,
+      "text": "Hit it as wild as you want, I'll be waiting"
+    },
+    {
+      "t": 81.81,
+      "end": 87.13,
+      "text": "Your ball's on my side again, keep it coming"
+    },
+    {
+      "t": 88.19,
+      "end": 88.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.19,
+      "end": 92.09,
+      "text": "Week number six and she's barely even aiming"
+    },
+    {
+      "t": 92.63,
+      "end": 96.71,
+      "text": "Lobs it clean over and points at me, blaming"
+    },
+    {
+      "t": 96.71,
+      "end": 102.23,
+      "text": "I said, you're a menace, she said, you're slow"
+    },
+    {
+      "t": 102.23,
+      "end": 106.89,
+      "text": "Then she asked for a match, said, winner picks where we go"
+    },
+    {
+      "t": 111.41,
+      "end": 111.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.41,
+      "end": 116.11,
+      "text": "My buddy packs his bag and says, I'm out of here"
+    },
+    {
+      "t": 116.11,
+      "end": 116.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.11,
+      "end": 125.41,
+      "text": "Your ball's on my side again, come and get it"
+    },
+    {
+      "t": 125.41,
+      "end": 129.87,
+      "text": "Bring your own racket, we'll play one set of it"
+    },
+    {
+      "t": 129.87,
+      "end": 134.09,
+      "text": "Loser buys coffee, and I plan on losing"
+    },
+    {
+      "t": 134.97,
+      "end": 148.69,
+      "text": "Your ball's on my side again, and so are you"
+    },
+    {
+      "t": 148.69,
+      "end": 148.69,
+      "text": "[Outro - horns and Rhodes]"
+    },
+    {
+      "t": 148.69,
+      "end": 173.16,
+      "text": "Love fifteen, love thirty"
+    },
+    {
+      "t": 173.8,
+      "end": 175.46,
+      "text": "Somebody's gotta keep score"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
