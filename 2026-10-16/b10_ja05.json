@@ -1,0 +1,429 @@
+{
+  "id": "b10_ja05",
+  "title": "シナノキの六月",
+  "title_source": "scripted",
+  "genre": "Japanese bossa nova",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "gentle, wry and unhurried",
+  "persona": "",
+  "subject": "an urban beekeeper who keeps hives on the roof of a Ginza department store, lifting the frames at noon above the lunchtime crowds and tasting the honey turn minty when the street's linden trees flower in June",
+  "caption": "Japanese bossa nova in the soft Brazilian-inspired style of Tokyo bossa nova singers. Nylon-string guitar playing the classic bossa batida with major-seventh and ninth chords; brushes swept on the snare with a quiet cross-stick rim click; upright bass on soft two-feel roots and fifths; an alto flute answering the vocal lines; light Rhodes electric piano comping in the chorus. Intimate close-mic acoustic recording, low volume, warm small room, almost no reverb. Female voice, breathy and soft in a low-mid register, sung almost at speaking volume. 128 BPM, F major. Gentle, wry and unhurried. No pop drums, no synth pads, no autotune, no string swells, no samba percussion section.",
+  "lyrics": "[Intro - nylon-string guitar batida and brushed snare]\n\n[Verse 1]\n昼の十二時 デパートの屋上\n「関係者以外」の 扉の向こう\n面布をかぶって ふたを開けると\n巣枠いっぱいに 蜂が歩く\n\n[Chorus]\n下の通りは お昼休み\nランチの列が 角まで続く\n巣箱に煙を ふわりとかけて\n一枚ずつ 枠を上げる\n\n[Verse 2]\n六月になって 通りのシナノキ\n小さな花が 咲きはじめた\n指ですくった 蜜をなめると\n先週よりも すっとして甘い\n\n[Chorus]\n下の通りは お昼休み\n誰も見上げや しないけど\n今日の蜜には シナノキの花\n銀座の六月を 舌にのせる\n\n[Bridge - alto flute and Rhodes]\n四丁目の信号を 人は待つ\n蜂は待たずに まっすぐ渡る\n\n[Outro - guitar alone, slowing]\n来週は どんな味がするかな",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 204.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Japanese bossa nova in the soft Brazilian-inspired style of Tokyo bossa nova singers. Nylon-string guitar playing the classic bossa batida with major-seventh and ninth chords; brushes swept on the snare with a quiet cross-stick rim click; upright bass on soft two-feel roots and fifths; an alto flute answering the vocal lines; light Rhodes electric piano comping in the chorus. Intimate close-mic acoustic recording, low volume, warm small room, almost no reverb. Female voice, breathy and soft in a low-mid register, sung almost at speaking volume. 128 BPM, F major. Gentle, wry and unhurried. No pop drums, no synth pads, no autotune, no string swells, no samba percussion section.",
+    "lyrics": "[Intro - nylon-string guitar batida and brushed snare]\n\n[Verse 1]\n昼の十二時 デパートの屋上\n「関係者以外」の 扉の向こう\n面布をかぶって ふたを開けると\n巣枠いっぱいに 蜂が歩く\n\n[Chorus]\n下の通りは お昼休み\nランチの列が 角まで続く\n巣箱に煙を ふわりとかけて\n一枚ずつ 枠を上げる\n\n[Verse 2]\n六月になって 通りのシナノキ\n小さな花が 咲きはじめた\n指ですくった 蜜をなめると\n先週よりも すっとして甘い\n\n[Chorus]\n下の通りは お昼休み\n誰も見上げや しないけど\n今日の蜜には シナノキの花\n銀座の六月を 舌にのせる\n\n[Bridge - alto flute and Rhodes]\n四丁目の信号を 人は待つ\n蜂は待たずに まっすぐ渡る\n\n[Outro - guitar alone, slowing]\n来週は どんな味がするかな"
+  },
+  "seed": "1530637643",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.19s**\n- 73.19s per song\n- LM phase (1 song): 16.50s\n- DiT phase (1 song): 56.68s",
+  "task_id": "5aba0f84-d224-4219-b8c5-f2ff243d8f0c",
+  "elapsed_s": 100.4,
+  "generated_at": "2026-10-16T20:37:24.450611+08:00",
+  "audio": "b10_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.22,
+      "end": 34.22,
+      "text": "[Intro - nylon-string guitar batida and brushed snare]"
+    },
+    {
+      "t": 34.22,
+      "end": 34.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.22,
+      "end": 42.0,
+      "text": "昼の十二時 デパートの屋上"
+    },
+    {
+      "t": 42.02,
+      "end": 49.72,
+      "text": "「関係者以外」の 扉の向こう"
+    },
+    {
+      "t": 49.72,
+      "end": 53.17,
+      "text": "面布をかぶって ふたを開けると"
+    },
+    {
+      "t": 53.29,
+      "end": 57.25,
+      "text": "巣枠いっぱいに 蜂が歩く"
+    },
+    {
+      "t": 57.25,
+      "end": 57.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.25,
+      "end": 58.63,
+      "text": "下の通りは お昼休み"
+    },
+    {
+      "t": 58.75,
+      "end": 59.99,
+      "text": "ランチの列が 角まで続く"
+    },
+    {
+      "t": 59.99,
+      "end": 64.75,
+      "text": "巣箱に煙を ふわりとかけて"
+    },
+    {
+      "t": 64.87,
+      "end": 67.63,
+      "text": "一枚ずつ 枠を上げる"
+    },
+    {
+      "t": 67.95,
+      "end": 67.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.95,
+      "end": 82.41,
+      "text": "六月になって 通りのシナノキ"
+    },
+    {
+      "t": 82.43,
+      "end": 86.61,
+      "text": "小さな花が 咲きはじめた"
+    },
+    {
+      "t": 86.65,
+      "end": 92.01,
+      "text": "指ですくった 蜜をなめると"
+    },
+    {
+      "t": 93.95,
+      "end": 100.81,
+      "text": "先週よりも すっとして甘い"
+    },
+    {
+      "t": 100.81,
+      "end": 100.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.81,
+      "end": 105.13,
+      "text": "下の通りは お昼休み"
+    },
+    {
+      "t": 105.13,
+      "end": 108.93,
+      "text": "誰も見上げや しないけど"
+    },
+    {
+      "t": 111.73,
+      "end": 116.13,
+      "text": "今日の蜜には シナノキの花"
+    },
+    {
+      "t": 119.25,
+      "end": 123.45,
+      "text": "銀座の六月を 舌にのせる"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Bridge - alto flute and Rhodes]"
+    },
+    {
+      "t": 126.75,
+      "end": 131.13,
+      "text": "四丁目の信号を 人は待つ"
+    },
+    {
+      "t": 157.18,
+      "end": 161.66,
+      "text": "蜂は待たずに まっすぐ渡る"
+    },
+    {
+      "t": 165.72,
+      "end": 165.72,
+      "text": "[Outro - guitar alone, slowing]"
+    },
+    {
+      "t": 165.72,
+      "end": 171.62,
+      "text": "来週は どんな味がするかな"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.22,
+      "end": 34.22,
+      "text": "[Intro - nylon-string guitar batida and brushed snare]"
+    },
+    {
+      "t": 34.22,
+      "end": 34.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.22,
+      "end": 42.0,
+      "text": "昼の十二時 デパートの屋上"
+    },
+    {
+      "t": 42.02,
+      "end": 49.72,
+      "text": "「関係者以外」の 扉の向こう"
+    },
+    {
+      "t": 49.72,
+      "end": 53.17,
+      "text": "面布をかぶって ふたを開けると"
+    },
+    {
+      "t": 53.29,
+      "end": 57.25,
+      "text": "巣枠いっぱいに 蜂が歩く"
+    },
+    {
+      "t": 57.25,
+      "end": 57.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.25,
+      "end": 58.63,
+      "text": "下の通りは お昼休み"
+    },
+    {
+      "t": 58.75,
+      "end": 59.99,
+      "text": "ランチの列が 角まで続く"
+    },
+    {
+      "t": 59.99,
+      "end": 64.75,
+      "text": "巣箱に煙を ふわりとかけて"
+    },
+    {
+      "t": 64.87,
+      "end": 67.63,
+      "text": "一枚ずつ 枠を上げる"
+    },
+    {
+      "t": 67.95,
+      "end": 67.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.95,
+      "end": 82.41,
+      "text": "六月になって 通りのシナノキ"
+    },
+    {
+      "t": 82.43,
+      "end": 86.61,
+      "text": "小さな花が 咲きはじめた"
+    },
+    {
+      "t": 86.65,
+      "end": 92.01,
+      "text": "指ですくった 蜜をなめると"
+    },
+    {
+      "t": 93.95,
+      "end": 100.81,
+      "text": "先週よりも すっとして甘い"
+    },
+    {
+      "t": 100.81,
+      "end": 100.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.81,
+      "end": 105.13,
+      "text": "下の通りは お昼休み"
+    },
+    {
+      "t": 105.13,
+      "end": 108.93,
+      "text": "誰も見上げや しないけど"
+    },
+    {
+      "t": 111.73,
+      "end": 116.13,
+      "text": "今日の蜜には シナノキの花"
+    },
+    {
+      "t": 119.25,
+      "end": 123.45,
+      "text": "銀座の六月を 舌にのせる"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Bridge - alto flute and Rhodes]"
+    },
+    {
+      "t": 126.75,
+      "end": 131.13,
+      "text": "四丁目の信号を 人は待つ"
+    },
+    {
+      "t": 157.18,
+      "end": 161.66,
+      "text": "蜂は待たずに まっすぐ渡る"
+    },
+    {
+      "t": 165.72,
+      "end": 165.72,
+      "text": "[Outro - guitar alone, slowing]"
+    },
+    {
+      "t": 165.72,
+      "end": 171.62,
+      "text": "来週は どんな味がするかな"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 8.3,
+      "end": 8.3,
+      "text": "[Intro - nylon-string guitar batida and brushed snare]"
+    },
+    {
+      "t": 8.3,
+      "end": 8.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.3,
+      "end": 34.48,
+      "text": "昼の十二時 デパートの屋上"
+    },
+    {
+      "t": 34.56,
+      "end": 42.6,
+      "text": "「関係者以外」の 扉の向こう"
+    },
+    {
+      "t": 43.9,
+      "end": 51.03,
+      "text": "面布をかぶって ふたを開けると"
+    },
+    {
+      "t": 51.05,
+      "end": 52.73,
+      "text": "巣枠いっぱいに 蜂が歩く"
+    },
+    {
+      "t": 52.77,
+      "end": 52.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.77,
+      "end": 57.07,
+      "text": "下の通りは お昼休み"
+    },
+    {
+      "t": 57.07,
+      "end": 59.07,
+      "text": "ランチの列が 角まで続く"
+    },
+    {
+      "t": 59.23,
+      "end": 64.75,
+      "text": "巣箱に煙を ふわりとかけて"
+    },
+    {
+      "t": 64.85,
+      "end": 68.57,
+      "text": "一枚ずつ 枠を上げる"
+    },
+    {
+      "t": 71.45,
+      "end": 71.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.45,
+      "end": 82.49,
+      "text": "六月になって 通りのシナノキ"
+    },
+    {
+      "t": 82.55,
+      "end": 86.61,
+      "text": "小さな花が 咲きはじめた"
+    },
+    {
+      "t": 86.65,
+      "end": 92.03,
+      "text": "指ですくった 蜜をなめると"
+    },
+    {
+      "t": 93.95,
+      "end": 100.95,
+      "text": "先週よりも すっとして甘い"
+    },
+    {
+      "t": 103.85,
+      "end": 103.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.85,
+      "end": 105.13,
+      "text": "下の通りは お昼休み"
+    },
+    {
+      "t": 105.13,
+      "end": 108.93,
+      "text": "誰も見上げや しないけど"
+    },
+    {
+      "t": 111.73,
+      "end": 116.13,
+      "text": "今日の蜜には シナノキの花"
+    },
+    {
+      "t": 119.25,
+      "end": 123.45,
+      "text": "銀座の六月を 舌にのせる"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Bridge - alto flute and Rhodes]"
+    },
+    {
+      "t": 126.75,
+      "end": 157.62,
+      "text": "四丁目の信号を 人は待つ"
+    },
+    {
+      "t": 157.72,
+      "end": 161.66,
+      "text": "蜂は待たずに まっすぐ渡る"
+    },
+    {
+      "t": 165.7,
+      "end": 165.7,
+      "text": "[Outro - guitar alone, slowing]"
+    },
+    {
+      "t": 165.7,
+      "end": 171.62,
+      "text": "来週は どんな味がするかな"
+    }
+  ]
+}

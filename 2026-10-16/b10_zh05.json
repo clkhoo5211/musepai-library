@@ -1,0 +1,337 @@
+{
+  "id": "b10_zh05",
+  "title": "你掉的是這一把嗎",
+  "title_source": "scripted",
+  "genre": "Mandarin piano rock",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "wry, brisk and warm-hearted",
+  "persona": "",
+  "subject": "a clerk at a metro station lost-and-found who logs four hundred umbrellas a week beside false teeth, a guitar and a bag of live crabs, and a retired man who asks every Tuesday after the same old watch",
+  "caption": "Mandarin piano rock in the guitarless Taiwanese piano-trio style. A hard-hit acoustic grand piano pounding chords in the left hand with fast right-hand runs; a fuzzy overdriven electric bass playing the riffs a guitar would; loud open live drums with crash cymbals and tom fills; a toy glockenspiel doubling the chorus melody. Raw live-room recording, piano bright and up front, gritty bass, roomy drums. Female mezzo-alto, clear and wry, talking through the verses and belting the chorus with a slight rasp. 138 BPM, B-flat major. Wry, brisk and warm-hearted. No electric guitar, no ballad slowdown, no autotune, no EDM synths, no trap drums.",
+  "lyrics": "[Intro - pounding piano chords and drum fill]\n\n[Verse 1]\n捷運站 地下二樓 失物招領\n一張桌子 一台電腦 一本登記簿\n這禮拜 收了四百一十二把傘\n一副假牙 一把吉他 一袋還在動的螃蟹\n\n[Pre-Chorus]\n有人衝進來 喘著氣 說他掉了東西\n我把手 放在那一排傘上面\n\n[Chorus]\n你掉的是金的 還是銀的\n還是這一把 透明的塑膠傘\n不要急 慢慢說 它長什麼樣子\n你掉的 是這一把嗎\n\n[Verse 2]\n有個阿伯 每個禮拜二都來\n問一支黑色的舊錶 有沒有人撿到\n我每次都說 再等等看\n他每次都說 好 那我下禮拜再來\n\n[Pre-Chorus]\n今天下午 它躺在雜物箱的最底下\n指針還在走 比我上班還準時\n\n[Chorus]\n你掉的是金的 還是銀的\n還是這一支 等了三個月的錶\n阿伯笑著說 金的銀的都不要\n你掉的 就是這一支吧\n\n[Outro - piano runs and crashing cymbals]\n四百一十二把傘\n還在等 下一場雨",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 196.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Mandarin piano rock in the guitarless Taiwanese piano-trio style. A hard-hit acoustic grand piano pounding chords in the left hand with fast right-hand runs; a fuzzy overdriven electric bass playing the riffs a guitar would; loud open live drums with crash cymbals and tom fills; a toy glockenspiel doubling the chorus melody. Raw live-room recording, piano bright and up front, gritty bass, roomy drums. Female mezzo-alto, clear and wry, talking through the verses and belting the chorus with a slight rasp. 138 BPM, B-flat major. Wry, brisk and warm-hearted. No electric guitar, no ballad slowdown, no autotune, no EDM synths, no trap drums.",
+    "lyrics": "[Intro - pounding piano chords and drum fill]\n\n[Verse 1]\n捷運站 地下二樓 失物招領\n一張桌子 一台電腦 一本登記簿\n這禮拜 收了四百一十二把傘\n一副假牙 一把吉他 一袋還在動的螃蟹\n\n[Pre-Chorus]\n有人衝進來 喘著氣 說他掉了東西\n我把手 放在那一排傘上面\n\n[Chorus]\n你掉的是金的 還是銀的\n還是這一把 透明的塑膠傘\n不要急 慢慢說 它長什麼樣子\n你掉的 是這一把嗎\n\n[Verse 2]\n有個阿伯 每個禮拜二都來\n問一支黑色的舊錶 有沒有人撿到\n我每次都說 再等等看\n他每次都說 好 那我下禮拜再來\n\n[Pre-Chorus]\n今天下午 它躺在雜物箱的最底下\n指針還在走 比我上班還準時\n\n[Chorus]\n你掉的是金的 還是銀的\n還是這一支 等了三個月的錶\n阿伯笑著說 金的銀的都不要\n你掉的 就是這一支吧\n\n[Outro - piano runs and crashing cymbals]\n四百一十二把傘\n還在等 下一場雨"
+  },
+  "seed": "1194047127",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 115.02s**\n- 115.02s per song\n- LM phase (1 song): 21.00s\n- DiT phase (1 song): 94.02s",
+  "task_id": "197b7ba9-55e6-42bf-91a0-29ae19fc07f0",
+  "elapsed_s": 150.4,
+  "generated_at": "2026-10-16T20:26:53.025537+08:00",
+  "audio": "b10_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Intro - pounding piano chords and drum fill]"
+    },
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.02,
+      "end": 37.08,
+      "text": "捷運站 地下二樓 失物招領"
+    },
+    {
+      "t": 40.0,
+      "end": 44.24,
+      "text": "一張桌子 一台電腦 一本登記簿"
+    },
+    {
+      "t": 46.72,
+      "end": 49.21,
+      "text": "這禮拜 收了四百一十二把傘"
+    },
+    {
+      "t": 50.21,
+      "end": 57.19,
+      "text": "一副假牙 一把吉他 一袋還在動的螃蟹"
+    },
+    {
+      "t": 57.19,
+      "end": 57.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.19,
+      "end": 62.87,
+      "text": "有人衝進來 喘著氣 說他掉了東西"
+    },
+    {
+      "t": 64.05,
+      "end": 69.01,
+      "text": "我把手 放在那一排傘上面"
+    },
+    {
+      "t": 69.73,
+      "end": 69.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.73,
+      "end": 73.25,
+      "text": "你掉的是金的 還是銀的"
+    },
+    {
+      "t": 73.25,
+      "end": 76.15,
+      "text": "還是這一把 透明的塑膠傘"
+    },
+    {
+      "t": 77.83,
+      "end": 92.37,
+      "text": "不要急 慢慢說 它長什麼樣子"
+    },
+    {
+      "t": 92.43,
+      "end": 101.47,
+      "text": "你掉的 是這一把嗎"
+    },
+    {
+      "t": 101.51,
+      "end": 101.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.51,
+      "end": 106.11,
+      "text": "有個阿伯 每個禮拜二都來"
+    },
+    {
+      "t": 106.15,
+      "end": 113.05,
+      "text": "問一支黑色的舊錶 有沒有人撿到"
+    },
+    {
+      "t": 113.05,
+      "end": 117.41,
+      "text": "我每次都說 再等等看"
+    },
+    {
+      "t": 117.41,
+      "end": 125.79,
+      "text": "他每次都說 好 那我下禮拜再來"
+    },
+    {
+      "t": 125.85,
+      "end": 125.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 125.85,
+      "end": 132.73,
+      "text": "今天下午 它躺在雜物箱的最底下"
+    },
+    {
+      "t": 132.73,
+      "end": 139.01,
+      "text": "指針還在走 比我上班還準時"
+    },
+    {
+      "t": 139.11,
+      "end": 139.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.11,
+      "end": 150.88,
+      "text": "你掉的是金的 還是銀的"
+    },
+    {
+      "t": 150.88,
+      "end": 155.54,
+      "text": "還是這一支 等了三個月的錶"
+    },
+    {
+      "t": 155.56,
+      "end": 169.32,
+      "text": "阿伯笑著說 金的銀的都不要"
+    },
+    {
+      "t": 169.36,
+      "end": 176.2,
+      "text": "你掉的 就是這一支吧"
+    },
+    {
+      "t": 176.38,
+      "end": 176.38,
+      "text": "[Outro - piano runs and crashing cymbals]"
+    },
+    {
+      "t": 176.38,
+      "end": 178.12,
+      "text": "四百一十二把傘"
+    },
+    {
+      "t": 179.42,
+      "end": 183.4,
+      "text": "還在等 下一場雨"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Intro - pounding piano chords and drum fill]"
+    },
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.02,
+      "end": 37.14,
+      "text": "捷運站 地下二樓 失物招領"
+    },
+    {
+      "t": 40.0,
+      "end": 44.24,
+      "text": "一張桌子 一台電腦 一本登記簿"
+    },
+    {
+      "t": 46.72,
+      "end": 50.07,
+      "text": "這禮拜 收了四百一十二把傘"
+    },
+    {
+      "t": 50.19,
+      "end": 57.21,
+      "text": "一副假牙 一把吉他 一袋還在動的螃蟹"
+    },
+    {
+      "t": 57.21,
+      "end": 57.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.21,
+      "end": 62.87,
+      "text": "有人衝進來 喘著氣 說他掉了東西"
+    },
+    {
+      "t": 64.05,
+      "end": 69.77,
+      "text": "我把手 放在那一排傘上面"
+    },
+    {
+      "t": 71.03,
+      "end": 71.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.03,
+      "end": 73.25,
+      "text": "你掉的是金的 還是銀的"
+    },
+    {
+      "t": 73.25,
+      "end": 76.57,
+      "text": "還是這一把 透明的塑膠傘"
+    },
+    {
+      "t": 77.83,
+      "end": 98.89,
+      "text": "不要急 慢慢說 它長什麼樣子"
+    },
+    {
+      "t": 98.89,
+      "end": 99.93,
+      "text": "你掉的 是這一把嗎"
+    },
+    {
+      "t": 99.93,
+      "end": 99.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.93,
+      "end": 101.85,
+      "text": "有個阿伯 每個禮拜二都來"
+    },
+    {
+      "t": 101.87,
+      "end": 106.11,
+      "text": "問一支黑色的舊錶 有沒有人撿到"
+    },
+    {
+      "t": 106.11,
+      "end": 109.99,
+      "text": "我每次都說 再等等看"
+    },
+    {
+      "t": 110.07,
+      "end": 114.51,
+      "text": "他每次都說 好 那我下禮拜再來"
+    },
+    {
+      "t": 114.97,
+      "end": 114.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.97,
+      "end": 122.53,
+      "text": "今天下午 它躺在雜物箱的最底下"
+    },
+    {
+      "t": 123.03,
+      "end": 148.78,
+      "text": "指針還在走 比我上班還準時"
+    },
+    {
+      "t": 148.8,
+      "end": 148.8,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 148.8,
+      "end": 153.24,
+      "text": "你掉的是金的 還是銀的"
+    },
+    {
+      "t": 153.24,
+      "end": 155.54,
+      "text": "還是這一支 等了三個月的錶"
+    },
+    {
+      "t": 155.56,
+      "end": 173.6,
+      "text": "阿伯笑著說 金的銀的都不要"
+    },
+    {
+      "t": 173.74,
+      "end": 176.2,
+      "text": "你掉的 就是這一支吧"
+    },
+    {
+      "t": 176.38,
+      "end": 176.38,
+      "text": "[Outro - piano runs and crashing cymbals]"
+    },
+    {
+      "t": 176.38,
+      "end": 178.14,
+      "text": "四百一十二把傘"
+    },
+    {
+      "t": 179.42,
+      "end": 183.46,
+      "text": "還在等 下一場雨"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

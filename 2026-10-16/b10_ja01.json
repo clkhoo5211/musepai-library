@@ -1,0 +1,534 @@
+{
+  "id": "b10_ja01",
+  "title": "君の天気予報",
+  "title_source": "scripted",
+  "genre": "Japanese band ballad with strings",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "tender, grateful and quietly happy",
+  "persona": "",
+  "subject": "a man who watches his girlfriend present the local evening weather forecast every night and leaves his umbrella at home whenever she says it will be fine, even after she got it wrong and he came home soaked",
+  "caption": "Japanese band ballad with strings in the mid-2020s rock-trio style, a slow love song carried by a guitar band. Clean electric guitar playing arpeggiated open chords with light chorus; warm electric bass holding long root notes; live drums with soft rimclicks in the verses opening to a full kit with crash cymbals in the chorus; a real string section entering at the first chorus with sustained violins and a cello counter-line; upright piano doubling the chorus chords. Polished but natural studio sound, roomy drums, strings wide behind the band, vocal upfront with medium plate reverb. Male tenor, gentle and conversational in the verses, opening into a clear high chest voice in the chorus with no showy runs. 76 BPM, E-flat major. Tender, grateful and quietly happy. No trap beat, no EDM drop, no autotune, no rap, no orchestral bombast.",
+  "lyrics": "[Intro - clean electric guitar arpeggio and soft piano]\n\n[Verse 1]\n六時五十分 テレビの中で\n君が天気図の 前に立つ\n今朝ふたりで 迷ったジャケット\n紺にしといて 正解だった\n\n[Pre-Chorus]\n僕らの町を ペンでとんとん\n二回叩くのは 僕への合図\n\n[Chorus]\n明日は晴れると 君が言うから\n傘は玄関に 置いていく\n当たるかどうかは どうでもいい\n君が言うなら 晴れでいい\n\n[Verse 2]\n先週の木曜は 見事に外れて\n駅から家まで 僕はずぶ濡れ\nあとで帰った君は 濡れた靴を見て\n「ごめん」と言いながら 笑い転げた\n\n[Pre-Chorus]\n天気図よりも 僕の機嫌を\n当てるほうが 得意なくせに\n\n[Chorus]\n明日は晴れると 君が言うから\n傘は玄関に 置いていく\nもし降ったら それも悪くない\n君のせいに できるから\n\n[Bridge - strings swell, drums drop out]\n町じゅうが見てる 三分間の君より\n玄関で靴を脱ぐ 君が好きだ\n\n[Outro - clean guitar and strings, fading]\n明日の南部は 晴れ\n君がそう言うなら 晴れ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 228.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Japanese band ballad with strings in the mid-2020s rock-trio style, a slow love song carried by a guitar band. Clean electric guitar playing arpeggiated open chords with light chorus; warm electric bass holding long root notes; live drums with soft rimclicks in the verses opening to a full kit with crash cymbals in the chorus; a real string section entering at the first chorus with sustained violins and a cello counter-line; upright piano doubling the chorus chords. Polished but natural studio sound, roomy drums, strings wide behind the band, vocal upfront with medium plate reverb. Male tenor, gentle and conversational in the verses, opening into a clear high chest voice in the chorus with no showy runs. 76 BPM, E-flat major. Tender, grateful and quietly happy. No trap beat, no EDM drop, no autotune, no rap, no orchestral bombast.",
+    "lyrics": "[Intro - clean electric guitar arpeggio and soft piano]\n\n[Verse 1]\n六時五十分 テレビの中で\n君が天気図の 前に立つ\n今朝ふたりで 迷ったジャケット\n紺にしといて 正解だった\n\n[Pre-Chorus]\n僕らの町を ペンでとんとん\n二回叩くのは 僕への合図\n\n[Chorus]\n明日は晴れると 君が言うから\n傘は玄関に 置いていく\n当たるかどうかは どうでもいい\n君が言うなら 晴れでいい\n\n[Verse 2]\n先週の木曜は 見事に外れて\n駅から家まで 僕はずぶ濡れ\nあとで帰った君は 濡れた靴を見て\n「ごめん」と言いながら 笑い転げた\n\n[Pre-Chorus]\n天気図よりも 僕の機嫌を\n当てるほうが 得意なくせに\n\n[Chorus]\n明日は晴れると 君が言うから\n傘は玄関に 置いていく\nもし降ったら それも悪くない\n君のせいに できるから\n\n[Bridge - strings swell, drums drop out]\n町じゅうが見てる 三分間の君より\n玄関で靴を脱ぐ 君が好きだ\n\n[Outro - clean guitar and strings, fading]\n明日の南部は 晴れ\n君がそう言うなら 晴れ"
+  },
+  "seed": "1983469600",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 122.36s**\n- 122.36s per song\n- LM phase (1 song): 20.99s\n- DiT phase (1 song): 101.37s",
+  "task_id": "7a199287-f444-47ae-b255-ed5608da5963",
+  "elapsed_s": 150.2,
+  "generated_at": "2026-10-16T20:29:23.204451+08:00",
+  "audio": "b10_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Intro - clean electric guitar arpeggio and soft piano]"
+    },
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.38,
+      "end": 51.7,
+      "text": "六時五十分 テレビの中で"
+    },
+    {
+      "t": 51.7,
+      "end": 57.91,
+      "text": "君が天気図の 前に立つ"
+    },
+    {
+      "t": 58.21,
+      "end": 66.37,
+      "text": "今朝ふたりで 迷ったジャケット"
+    },
+    {
+      "t": 66.75,
+      "end": 77.11,
+      "text": "紺にしといて 正解だった"
+    },
+    {
+      "t": 77.11,
+      "end": 77.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.11,
+      "end": 79.55,
+      "text": "僕らの町を ペンでとんとん"
+    },
+    {
+      "t": 79.85,
+      "end": 85.77,
+      "text": "二回叩くのは 僕への合図"
+    },
+    {
+      "t": 85.99,
+      "end": 85.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.99,
+      "end": 89.61,
+      "text": "明日は晴れると 君が言うから"
+    },
+    {
+      "t": 89.65,
+      "end": 91.05,
+      "text": "傘は玄関に 置いていく"
+    },
+    {
+      "t": 91.17,
+      "end": 96.99,
+      "text": "当たるかどうかは どうでもいい"
+    },
+    {
+      "t": 96.99,
+      "end": 99.49,
+      "text": "君が言うなら 晴れでいい"
+    },
+    {
+      "t": 99.51,
+      "end": 99.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.51,
+      "end": 101.39,
+      "text": "先週の木曜は 見事に外れて"
+    },
+    {
+      "t": 101.47,
+      "end": 103.31,
+      "text": "駅から家まで 僕はずぶ濡れ"
+    },
+    {
+      "t": 103.35,
+      "end": 105.67,
+      "text": "あとで帰った君は 濡れた靴を見て"
+    },
+    {
+      "t": 106.33,
+      "end": 109.59,
+      "text": "「ごめん」と言いながら 笑い転げた"
+    },
+    {
+      "t": 110.09,
+      "end": 110.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.09,
+      "end": 112.11,
+      "text": "天気図よりも 僕の機嫌を"
+    },
+    {
+      "t": 112.23,
+      "end": 122.25,
+      "text": "当てるほうが 得意なくせに"
+    },
+    {
+      "t": 122.47,
+      "end": 122.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.47,
+      "end": 123.91,
+      "text": "明日は晴れると 君が言うから"
+    },
+    {
+      "t": 124.07,
+      "end": 125.21,
+      "text": "傘は玄関に 置いていく"
+    },
+    {
+      "t": 125.21,
+      "end": 127.51,
+      "text": "もし降ったら それも悪くない"
+    },
+    {
+      "t": 129.85,
+      "end": 136.77,
+      "text": "君のせいに できるから"
+    },
+    {
+      "t": 136.89,
+      "end": 136.89,
+      "text": "[Bridge - strings swell, drums drop out]"
+    },
+    {
+      "t": 136.89,
+      "end": 169.63,
+      "text": "町じゅうが見てる 三分間の君より"
+    },
+    {
+      "t": 169.65,
+      "end": 171.98,
+      "text": "玄関で靴を脱ぐ 君が好きだ"
+    },
+    {
+      "t": 171.98,
+      "end": 171.98,
+      "text": "[Outro - clean guitar and strings, fading]"
+    },
+    {
+      "t": 171.98,
+      "end": 175.18,
+      "text": "明日の南部は 晴れ"
+    },
+    {
+      "t": 175.22,
+      "end": 187.44,
+      "text": "君がそう言うなら 晴れ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Intro - clean electric guitar arpeggio and soft piano]"
+    },
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.38,
+      "end": 51.7,
+      "text": "六時五十分 テレビの中で"
+    },
+    {
+      "t": 51.7,
+      "end": 57.91,
+      "text": "君が天気図の 前に立つ"
+    },
+    {
+      "t": 58.21,
+      "end": 66.37,
+      "text": "今朝ふたりで 迷ったジャケット"
+    },
+    {
+      "t": 66.75,
+      "end": 77.11,
+      "text": "紺にしといて 正解だった"
+    },
+    {
+      "t": 77.11,
+      "end": 77.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.11,
+      "end": 79.55,
+      "text": "僕らの町を ペンでとんとん"
+    },
+    {
+      "t": 79.85,
+      "end": 85.77,
+      "text": "二回叩くのは 僕への合図"
+    },
+    {
+      "t": 85.99,
+      "end": 85.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.99,
+      "end": 89.61,
+      "text": "明日は晴れると 君が言うから"
+    },
+    {
+      "t": 89.65,
+      "end": 91.05,
+      "text": "傘は玄関に 置いていく"
+    },
+    {
+      "t": 91.17,
+      "end": 96.99,
+      "text": "当たるかどうかは どうでもいい"
+    },
+    {
+      "t": 96.99,
+      "end": 99.49,
+      "text": "君が言うなら 晴れでいい"
+    },
+    {
+      "t": 99.51,
+      "end": 99.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.51,
+      "end": 101.39,
+      "text": "先週の木曜は 見事に外れて"
+    },
+    {
+      "t": 101.47,
+      "end": 103.31,
+      "text": "駅から家まで 僕はずぶ濡れ"
+    },
+    {
+      "t": 103.35,
+      "end": 105.67,
+      "text": "あとで帰った君は 濡れた靴を見て"
+    },
+    {
+      "t": 106.33,
+      "end": 109.59,
+      "text": "「ごめん」と言いながら 笑い転げた"
+    },
+    {
+      "t": 110.09,
+      "end": 110.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.09,
+      "end": 112.11,
+      "text": "天気図よりも 僕の機嫌を"
+    },
+    {
+      "t": 112.23,
+      "end": 122.25,
+      "text": "当てるほうが 得意なくせに"
+    },
+    {
+      "t": 122.47,
+      "end": 122.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.47,
+      "end": 123.91,
+      "text": "明日は晴れると 君が言うから"
+    },
+    {
+      "t": 124.07,
+      "end": 125.21,
+      "text": "傘は玄関に 置いていく"
+    },
+    {
+      "t": 125.21,
+      "end": 127.51,
+      "text": "もし降ったら それも悪くない"
+    },
+    {
+      "t": 129.85,
+      "end": 136.77,
+      "text": "君のせいに できるから"
+    },
+    {
+      "t": 136.89,
+      "end": 136.89,
+      "text": "[Bridge - strings swell, drums drop out]"
+    },
+    {
+      "t": 136.89,
+      "end": 169.63,
+      "text": "町じゅうが見てる 三分間の君より"
+    },
+    {
+      "t": 169.65,
+      "end": 171.98,
+      "text": "玄関で靴を脱ぐ 君が好きだ"
+    },
+    {
+      "t": 171.98,
+      "end": 171.98,
+      "text": "[Outro - clean guitar and strings, fading]"
+    },
+    {
+      "t": 171.98,
+      "end": 175.18,
+      "text": "明日の南部は 晴れ"
+    },
+    {
+      "t": 175.22,
+      "end": 187.44,
+      "text": "君がそう言うなら 晴れ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 14.18,
+      "end": 14.18,
+      "text": "[Intro - clean electric guitar arpeggio and soft piano]"
+    },
+    {
+      "t": 14.18,
+      "end": 14.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 14.18,
+      "end": 44.28,
+      "text": "六時五十分 テレビの中で"
+    },
+    {
+      "t": 44.48,
+      "end": 45.56,
+      "text": "君が天気図の 前に立つ"
+    },
+    {
+      "t": 46.0,
+      "end": 51.7,
+      "text": "今朝ふたりで 迷ったジャケット"
+    },
+    {
+      "t": 51.78,
+      "end": 53.86,
+      "text": "紺にしといて 正解だった"
+    },
+    {
+      "t": 53.92,
+      "end": 53.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.92,
+      "end": 54.92,
+      "text": "僕らの町を ペンでとんとん"
+    },
+    {
+      "t": 55.06,
+      "end": 59.11,
+      "text": "二回叩くのは 僕への合図"
+    },
+    {
+      "t": 59.25,
+      "end": 59.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.25,
+      "end": 70.37,
+      "text": "明日は晴れると 君が言うから"
+    },
+    {
+      "t": 70.47,
+      "end": 76.17,
+      "text": "傘は玄関に 置いていく"
+    },
+    {
+      "t": 76.33,
+      "end": 79.91,
+      "text": "当たるかどうかは どうでもいい"
+    },
+    {
+      "t": 80.65,
+      "end": 86.13,
+      "text": "君が言うなら 晴れでいい"
+    },
+    {
+      "t": 88.17,
+      "end": 88.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.17,
+      "end": 93.75,
+      "text": "先週の木曜は 見事に外れて"
+    },
+    {
+      "t": 93.85,
+      "end": 98.91,
+      "text": "駅から家まで 僕はずぶ濡れ"
+    },
+    {
+      "t": 98.91,
+      "end": 101.63,
+      "text": "あとで帰った君は 濡れた靴を見て"
+    },
+    {
+      "t": 101.63,
+      "end": 104.47,
+      "text": "「ごめん」と言いながら 笑い転げた"
+    },
+    {
+      "t": 104.47,
+      "end": 104.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.47,
+      "end": 108.19,
+      "text": "天気図よりも 僕の機嫌を"
+    },
+    {
+      "t": 108.19,
+      "end": 109.47,
+      "text": "当てるほうが 得意なくせに"
+    },
+    {
+      "t": 109.47,
+      "end": 109.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.47,
+      "end": 112.25,
+      "text": "明日は晴れると 君が言うから"
+    },
+    {
+      "t": 112.33,
+      "end": 122.25,
+      "text": "傘は玄関に 置いていく"
+    },
+    {
+      "t": 122.47,
+      "end": 127.49,
+      "text": "もし降ったら それも悪くない"
+    },
+    {
+      "t": 129.85,
+      "end": 136.81,
+      "text": "君のせいに できるから"
+    },
+    {
+      "t": 136.89,
+      "end": 136.89,
+      "text": "[Bridge - strings swell, drums drop out]"
+    },
+    {
+      "t": 136.89,
+      "end": 146.57,
+      "text": "町じゅうが見てる 三分間の君より"
+    },
+    {
+      "t": 149.71,
+      "end": 168.53,
+      "text": "玄関で靴を脱ぐ 君が好きだ"
+    },
+    {
+      "t": 168.65,
+      "end": 168.65,
+      "text": "[Outro - clean guitar and strings, fading]"
+    },
+    {
+      "t": 168.65,
+      "end": 172.22,
+      "text": "明日の南部は 晴れ"
+    },
+    {
+      "t": 174.62,
+      "end": 194.04,
+      "text": "君がそう言うなら 晴れ"
+    }
+  ]
+}

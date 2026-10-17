@@ -1,0 +1,444 @@
+{
+  "id": "b10_ja04",
+  "title": "片耳のトラ",
+  "title_source": "scripted",
+  "genre": "Japanese hybrid rockabilly",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "cocky, swaggering and comic",
+  "persona": "",
+  "subject": "a one-eared ginger stray who rules a shopping street meeting a fluffy white house cat on a pink harness outside the croquette shop, and hiding behind the shop girl's legs",
+  "caption": "Japanese hybrid rockabilly in the neo-rockabilly style of Tokyo's live-house scene. Upright bass played slap style with a percussive click on every beat; hollow-body electric guitar with heavy slapback echo playing twangy fingerpicked fills and one short solo; a minimal drum kit of snare and kick, tight backbeat on two and four; handclaps in the stop-time break. Dry, live-in-the-room recording with tape slapback on the voice and the guitar. Female voice, sassy and husky in the low-mid range, hiccuping rockabilly phrasing and quick spoken asides. 172 BPM, E major. Cocky, swaggering and comic. No punk distortion, no synths, no autotune, no modern pop drums, no ballad section.",
+  "lyrics": "[Intro - slap upright bass and twangy slapback guitar]\n\n[Verse 1]\n夕方四時の 商店街\n片耳のトラが 歩いてく\n肉屋のおばちゃん 切れ端投げて\n八百屋の親父も 道をあける\n\n[Chorus]\nよう トラ 今日もいい顔\nこの通りは あんたのもんだ\n肩で風切って 尻尾をぴんと\n誰にも道は 譲らない\n\n[Instrumental Break - hollow-body guitar solo with slapback echo over slap upright bass]\n\n[Verse 2]\nところが今日は ピンクのハーネス\n真っ白でふわふわの 猫が来た\nうちのコロッケ屋の 前で鉢合わせ\n商店街じゅうが 息をのむ\n\n[Bridge - stop-time, slap bass and handclaps]\n白いのが 小さく「シャーッ」\nトラは あたしの足の後ろ\n\n[Chorus]\nよう トラ どうした その顔\nこの通りは あんたのもんだろ\n尻尾を巻いて 隠れてる\nまあ 今日だけは 譲ってやりな\n\n[Outro - guitar twang and bass slap, abrupt end]\n明日も四時に 来なよ トラ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Japanese hybrid rockabilly in the neo-rockabilly style of Tokyo's live-house scene. Upright bass played slap style with a percussive click on every beat; hollow-body electric guitar with heavy slapback echo playing twangy fingerpicked fills and one short solo; a minimal drum kit of snare and kick, tight backbeat on two and four; handclaps in the stop-time break. Dry, live-in-the-room recording with tape slapback on the voice and the guitar. Female voice, sassy and husky in the low-mid range, hiccuping rockabilly phrasing and quick spoken asides. 172 BPM, E major. Cocky, swaggering and comic. No punk distortion, no synths, no autotune, no modern pop drums, no ballad section.",
+    "lyrics": "[Intro - slap upright bass and twangy slapback guitar]\n\n[Verse 1]\n夕方四時の 商店街\n片耳のトラが 歩いてく\n肉屋のおばちゃん 切れ端投げて\n八百屋の親父も 道をあける\n\n[Chorus]\nよう トラ 今日もいい顔\nこの通りは あんたのもんだ\n肩で風切って 尻尾をぴんと\n誰にも道は 譲らない\n\n[Instrumental Break - hollow-body guitar solo with slapback echo over slap upright bass]\n\n[Verse 2]\nところが今日は ピンクのハーネス\n真っ白でふわふわの 猫が来た\nうちのコロッケ屋の 前で鉢合わせ\n商店街じゅうが 息をのむ\n\n[Bridge - stop-time, slap bass and handclaps]\n白いのが 小さく「シャーッ」\nトラは あたしの足の後ろ\n\n[Chorus]\nよう トラ どうした その顔\nこの通りは あんたのもんだろ\n尻尾を巻いて 隠れてる\nまあ 今日だけは 譲ってやりな\n\n[Outro - guitar twang and bass slap, abrupt end]\n明日も四時に 来なよ トラ"
+  },
+  "seed": "1459923338",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.96s**\n- 73.96s per song\n- LM phase (1 song): 16.37s\n- DiT phase (1 song): 57.59s",
+  "task_id": "a725c622-2d8e-4e07-bd68-dbd265b71b06",
+  "elapsed_s": 100.4,
+  "generated_at": "2026-10-16T20:35:44.074082+08:00",
+  "audio": "b10_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.66,
+      "end": 27.66,
+      "text": "[Intro - slap upright bass and twangy slapback guitar]"
+    },
+    {
+      "t": 27.66,
+      "end": 27.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.66,
+      "end": 34.0,
+      "text": "夕方四時の 商店街"
+    },
+    {
+      "t": 34.04,
+      "end": 37.16,
+      "text": "片耳のトラが 歩いてく"
+    },
+    {
+      "t": 39.16,
+      "end": 43.04,
+      "text": "肉屋のおばちゃん 切れ端投げて"
+    },
+    {
+      "t": 44.5,
+      "end": 47.29,
+      "text": "八百屋の親父も 道をあける"
+    },
+    {
+      "t": 47.37,
+      "end": 47.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.37,
+      "end": 51.05,
+      "text": "よう トラ 今日もいい顔"
+    },
+    {
+      "t": 53.05,
+      "end": 57.27,
+      "text": "この通りは あんたのもんだ"
+    },
+    {
+      "t": 58.71,
+      "end": 63.63,
+      "text": "肩で風切って 尻尾をぴんと"
+    },
+    {
+      "t": 65.63,
+      "end": 73.47,
+      "text": "誰にも道は 譲らない"
+    },
+    {
+      "t": 73.75,
+      "end": 73.75,
+      "text": "[Instrumental Break - hollow-body guitar solo with slapback echo over slap upright bass]"
+    },
+    {
+      "t": 73.75,
+      "end": 73.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.75,
+      "end": 87.67,
+      "text": "ところが今日は ピンクのハーネス"
+    },
+    {
+      "t": 90.07,
+      "end": 95.81,
+      "text": "真っ白でふわふわの 猫が来た"
+    },
+    {
+      "t": 95.81,
+      "end": 97.95,
+      "text": "うちのコロッケ屋の 前で鉢合わせ"
+    },
+    {
+      "t": 97.69,
+      "end": 99.33,
+      "text": "商店街じゅうが 息をのむ"
+    },
+    {
+      "t": 99.37,
+      "end": 99.37,
+      "text": "[Bridge - stop-time, slap bass and handclaps]"
+    },
+    {
+      "t": 99.37,
+      "end": 100.45,
+      "text": "白いのが 小さく「シャーッ」"
+    },
+    {
+      "t": 101.11,
+      "end": 104.25,
+      "text": "トラは あたしの足の後ろ"
+    },
+    {
+      "t": 106.79,
+      "end": 106.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.79,
+      "end": 109.65,
+      "text": "よう トラ どうした その顔"
+    },
+    {
+      "t": 109.73,
+      "end": 112.17,
+      "text": "この通りは あんたのもんだろ"
+    },
+    {
+      "t": 112.55,
+      "end": 132.41,
+      "text": "尻尾を巻いて 隠れてる"
+    },
+    {
+      "t": 132.55,
+      "end": 137.42,
+      "text": "まあ 今日だけは 譲ってやりな"
+    },
+    {
+      "t": 137.52,
+      "end": 137.52,
+      "text": "[Outro - guitar twang and bass slap, abrupt end]"
+    },
+    {
+      "t": 137.52,
+      "end": 149.8,
+      "text": "明日も四時に 来なよ トラ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.36,
+      "end": 28.36,
+      "text": "[Intro - slap upright bass and twangy slapback guitar]"
+    },
+    {
+      "t": 28.36,
+      "end": 28.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.36,
+      "end": 33.98,
+      "text": "夕方四時の 商店街"
+    },
+    {
+      "t": 34.06,
+      "end": 37.18,
+      "text": "片耳のトラが 歩いてく"
+    },
+    {
+      "t": 37.46,
+      "end": 43.04,
+      "text": "肉屋のおばちゃん 切れ端投げて"
+    },
+    {
+      "t": 44.5,
+      "end": 47.31,
+      "text": "八百屋の親父も 道をあける"
+    },
+    {
+      "t": 47.37,
+      "end": 47.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.37,
+      "end": 51.19,
+      "text": "よう トラ 今日もいい顔"
+    },
+    {
+      "t": 53.03,
+      "end": 57.29,
+      "text": "この通りは あんたのもんだ"
+    },
+    {
+      "t": 58.69,
+      "end": 63.63,
+      "text": "肩で風切って 尻尾をぴんと"
+    },
+    {
+      "t": 65.61,
+      "end": 71.03,
+      "text": "誰にも道は 譲らない"
+    },
+    {
+      "t": 76.75,
+      "end": 76.75,
+      "text": "[Instrumental Break - hollow-body guitar solo with slapback echo over slap upright bass]"
+    },
+    {
+      "t": 76.75,
+      "end": 76.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.75,
+      "end": 87.69,
+      "text": "ところが今日は ピンクのハーネス"
+    },
+    {
+      "t": 90.09,
+      "end": 95.91,
+      "text": "真っ白でふわふわの 猫が来た"
+    },
+    {
+      "t": 95.91,
+      "end": 97.69,
+      "text": "うちのコロッケ屋の 前で鉢合わせ"
+    },
+    {
+      "t": 97.69,
+      "end": 99.33,
+      "text": "商店街じゅうが 息をのむ"
+    },
+    {
+      "t": 99.37,
+      "end": 99.37,
+      "text": "[Bridge - stop-time, slap bass and handclaps]"
+    },
+    {
+      "t": 99.37,
+      "end": 100.45,
+      "text": "白いのが 小さく「シャーッ」"
+    },
+    {
+      "t": 101.11,
+      "end": 104.25,
+      "text": "トラは あたしの足の後ろ"
+    },
+    {
+      "t": 106.79,
+      "end": 106.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.79,
+      "end": 109.65,
+      "text": "よう トラ どうした その顔"
+    },
+    {
+      "t": 109.73,
+      "end": 112.17,
+      "text": "この通りは あんたのもんだろ"
+    },
+    {
+      "t": 112.55,
+      "end": 132.41,
+      "text": "尻尾を巻いて 隠れてる"
+    },
+    {
+      "t": 132.55,
+      "end": 137.42,
+      "text": "まあ 今日だけは 譲ってやりな"
+    },
+    {
+      "t": 137.52,
+      "end": 137.52,
+      "text": "[Outro - guitar twang and bass slap, abrupt end]"
+    },
+    {
+      "t": 137.52,
+      "end": 149.8,
+      "text": "明日も四時に 来なよ トラ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.66,
+      "end": 27.66,
+      "text": "[Intro - slap upright bass and twangy slapback guitar]"
+    },
+    {
+      "t": 27.66,
+      "end": 27.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.66,
+      "end": 34.0,
+      "text": "夕方四時の 商店街"
+    },
+    {
+      "t": 34.04,
+      "end": 37.16,
+      "text": "片耳のトラが 歩いてく"
+    },
+    {
+      "t": 39.16,
+      "end": 43.04,
+      "text": "肉屋のおばちゃん 切れ端投げて"
+    },
+    {
+      "t": 44.5,
+      "end": 47.29,
+      "text": "八百屋の親父も 道をあける"
+    },
+    {
+      "t": 47.37,
+      "end": 47.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.37,
+      "end": 51.05,
+      "text": "よう トラ 今日もいい顔"
+    },
+    {
+      "t": 53.05,
+      "end": 57.27,
+      "text": "この通りは あんたのもんだ"
+    },
+    {
+      "t": 58.71,
+      "end": 63.63,
+      "text": "肩で風切って 尻尾をぴんと"
+    },
+    {
+      "t": 65.63,
+      "end": 73.47,
+      "text": "誰にも道は 譲らない"
+    },
+    {
+      "t": 73.75,
+      "end": 73.75,
+      "text": "[Instrumental Break - hollow-body guitar solo with slapback echo over slap upright bass]"
+    },
+    {
+      "t": 73.75,
+      "end": 73.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.75,
+      "end": 87.67,
+      "text": "ところが今日は ピンクのハーネス"
+    },
+    {
+      "t": 90.07,
+      "end": 95.81,
+      "text": "真っ白でふわふわの 猫が来た"
+    },
+    {
+      "t": 95.81,
+      "end": 97.95,
+      "text": "うちのコロッケ屋の 前で鉢合わせ"
+    },
+    {
+      "t": 98.03,
+      "end": 99.31,
+      "text": "商店街じゅうが 息をのむ"
+    },
+    {
+      "t": 99.31,
+      "end": 99.31,
+      "text": "[Bridge - stop-time, slap bass and handclaps]"
+    },
+    {
+      "t": 99.31,
+      "end": 100.43,
+      "text": "白いのが 小さく「シャーッ」"
+    },
+    {
+      "t": 101.11,
+      "end": 104.25,
+      "text": "トラは あたしの足の後ろ"
+    },
+    {
+      "t": 106.77,
+      "end": 106.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.77,
+      "end": 109.69,
+      "text": "よう トラ どうした その顔"
+    },
+    {
+      "t": 109.73,
+      "end": 112.15,
+      "text": "この通りは あんたのもんだろ"
+    },
+    {
+      "t": 112.37,
+      "end": 128.49,
+      "text": "尻尾を巻いて 隠れてる"
+    },
+    {
+      "t": 128.57,
+      "end": 144.82,
+      "text": "まあ 今日だけは 譲ってやりな"
+    },
+    {
+      "t": 144.92,
+      "end": 144.92,
+      "text": "[Outro - guitar twang and bass slap, abrupt end]"
+    },
+    {
+      "t": 144.92,
+      "end": 149.78,
+      "text": "明日も四時に 来なよ トラ"
+    }
+  ]
+}

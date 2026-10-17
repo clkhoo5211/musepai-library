@@ -1,0 +1,367 @@
+{
+  "id": "b10_en05",
+  "title": "Old Sober",
+  "title_source": "scripted",
+  "genre": "New Orleans second-line brass band",
+  "language": "en",
+  "language_name": "English",
+  "mood": "hot, rowdy and joyful",
+  "persona": "",
+  "subject": "a yakamein seller pushing two coolers on a grocery cart four miles behind a Sunday second-line parade in New Orleans, selling old sober at every stop",
+  "caption": "New Orleans second-line brass band music, Sunday street-parade style with funk in the horns. A sousaphone pumping a syncopated bass line; a bass drum with a cymbal on top and a crisp parade snare playing rolling second-line beats; two trumpets trading riffs; trombones with growling smears; a tenor saxophone filling the gaps. Live street-parade sound, loud and roomy, horns bleeding into each other, hand claps. Male lead with a gruff, joyous street-shout delivery and gang call-and-response from the band. 108 BPM, B-flat major. Hot, rowdy and joyful. No drum machine, no synth bass, no electric guitar, no autotune, no hip-hop beat.",
+  "lyrics": "[Intro - parade snare roll, sousaphone line and trumpet call]\n\n[Verse 1]\nSunday, one o'clock, the club comes stepping out the door\nGreen sashes, white shoes, and the tuba starts to roar\nI got two coolers on a grocery cart, a ladle and a stack of cups\nI walk four miles behind the band till the whole route's eaten up\n\n[Pre-Chorus]\nBand stops at the corner bar, I park it on the curb\nLift the lid and let the steam go up, I don't say a word\n\n[Chorus - call and response]\nOld sober! (Old sober!)\nBeef and noodles, half an egg on top\nHot sauce, soy and a little green onion\nOld sober, eight dollars a cup\n\n[Verse 2]\nGirl from out of town says, mister, is that ramen in a cup?\nI said, sugar, ramen never got a tuba player up\nGrand marshal's nephew been out dancing since Friday night\nOne spoon on the neutral ground and his knees came back to life\n\n[Chorus - call and response]\nOld sober! (Old sober!)\nSnare drum wants one, trombone wants two\nHot sauce, soy and a little green onion\nOld sober, I got one for you\n\n[Bridge - drum break, sousaphone solo, gang vocals]\nWhere the yakamein man at? (Right behind the band!)\nWhere the yakamein man at? (Ladle in his hand!)\n\n[Chorus - call and response]\nOld sober! (Old sober!)\nSun's going down at the last stop\nI scrape the cooler for the trumpet man\nOld sober, on the house, last cup\n\n[Outro - full band vamp, crowd claps]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "New Orleans second-line brass band music, Sunday street-parade style with funk in the horns. A sousaphone pumping a syncopated bass line; a bass drum with a cymbal on top and a crisp parade snare playing rolling second-line beats; two trumpets trading riffs; trombones with growling smears; a tenor saxophone filling the gaps. Live street-parade sound, loud and roomy, horns bleeding into each other, hand claps. Male lead with a gruff, joyous street-shout delivery and gang call-and-response from the band. 108 BPM, B-flat major. Hot, rowdy and joyful. No drum machine, no synth bass, no electric guitar, no autotune, no hip-hop beat.",
+    "lyrics": "[Intro - parade snare roll, sousaphone line and trumpet call]\n\n[Verse 1]\nSunday, one o'clock, the club comes stepping out the door\nGreen sashes, white shoes, and the tuba starts to roar\nI got two coolers on a grocery cart, a ladle and a stack of cups\nI walk four miles behind the band till the whole route's eaten up\n\n[Pre-Chorus]\nBand stops at the corner bar, I park it on the curb\nLift the lid and let the steam go up, I don't say a word\n\n[Chorus - call and response]\nOld sober! (Old sober!)\nBeef and noodles, half an egg on top\nHot sauce, soy and a little green onion\nOld sober, eight dollars a cup\n\n[Verse 2]\nGirl from out of town says, mister, is that ramen in a cup?\nI said, sugar, ramen never got a tuba player up\nGrand marshal's nephew been out dancing since Friday night\nOne spoon on the neutral ground and his knees came back to life\n\n[Chorus - call and response]\nOld sober! (Old sober!)\nSnare drum wants one, trombone wants two\nHot sauce, soy and a little green onion\nOld sober, I got one for you\n\n[Bridge - drum break, sousaphone solo, gang vocals]\nWhere the yakamein man at? (Right behind the band!)\nWhere the yakamein man at? (Ladle in his hand!)\n\n[Chorus - call and response]\nOld sober! (Old sober!)\nSun's going down at the last stop\nI scrape the cooler for the trumpet man\nOld sober, on the house, last cup\n\n[Outro - full band vamp, crowd claps]"
+  },
+  "seed": "2965242214",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 122.88s**\n- 122.88s per song\n- LM phase (1 song): 21.25s\n- DiT phase (1 song): 101.64s",
+  "task_id": "40114595-a540-4595-8cde-950c83212dda",
+  "elapsed_s": 150.5,
+  "generated_at": "2026-10-16T20:15:11.790484+08:00",
+  "audio": "b10_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Intro - parade snare roll, sousaphone line and trumpet call]"
+    },
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.26,
+      "end": 23.54,
+      "text": "Sunday, one o'clock, the club comes stepping out the door"
+    },
+    {
+      "t": 23.62,
+      "end": 32.12,
+      "text": "Green sashes, white shoes, and the tuba starts to roar"
+    },
+    {
+      "t": 32.12,
+      "end": 39.04,
+      "text": "I got two coolers on a grocery cart, a ladle and a stack of cups"
+    },
+    {
+      "t": 39.04,
+      "end": 41.66,
+      "text": "I walk four miles behind the band till the whole route's eaten up"
+    },
+    {
+      "t": 41.66,
+      "end": 41.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.66,
+      "end": 45.42,
+      "text": "Band stops at the corner bar, I park it on the curb"
+    },
+    {
+      "t": 45.54,
+      "end": 49.8,
+      "text": "Lift the lid and let the steam go up, I don't say a word"
+    },
+    {
+      "t": 50.08,
+      "end": 50.08,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 50.08,
+      "end": 52.63,
+      "text": "Old sober! (Old sober!)"
+    },
+    {
+      "t": 54.71,
+      "end": 67.77,
+      "text": "Beef and noodles, half an egg on top"
+    },
+    {
+      "t": 67.77,
+      "end": 70.99,
+      "text": "Hot sauce, soy and a little green onion"
+    },
+    {
+      "t": 72.29,
+      "end": 75.21,
+      "text": "Old sober, eight dollars a cup"
+    },
+    {
+      "t": 77.21,
+      "end": 77.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.21,
+      "end": 80.63,
+      "text": "Girl from out of town says, mister, is that ramen in a cup?"
+    },
+    {
+      "t": 80.89,
+      "end": 85.07,
+      "text": "I said, sugar, ramen never got a tuba player up"
+    },
+    {
+      "t": 85.27,
+      "end": 89.49,
+      "text": "Grand marshal's nephew been out dancing since Friday night"
+    },
+    {
+      "t": 90.35,
+      "end": 94.97,
+      "text": "One spoon on the neutral ground and his knees came back to life"
+    },
+    {
+      "t": 95.07,
+      "end": 95.07,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 95.07,
+      "end": 100.39,
+      "text": "Old sober! (Old sober!)"
+    },
+    {
+      "t": 100.41,
+      "end": 111.19,
+      "text": "Snare drum wants one, trombone wants two"
+    },
+    {
+      "t": 112.25,
+      "end": 119.89,
+      "text": "Hot sauce, soy and a little green onion"
+    },
+    {
+      "t": 121.19,
+      "end": 124.61,
+      "text": "Old sober, I got one for you"
+    },
+    {
+      "t": 131.69,
+      "end": 131.69,
+      "text": "[Bridge - drum break, sousaphone solo, gang vocals]"
+    },
+    {
+      "t": 131.69,
+      "end": 144.21,
+      "text": "Where the yakamein man at? (Right behind the band!)"
+    },
+    {
+      "t": 146.97,
+      "end": 160.28,
+      "text": "Where the yakamein man at? (Ladle in his hand!)"
+    },
+    {
+      "t": 160.32,
+      "end": 160.32,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 160.32,
+      "end": 163.0,
+      "text": "Old sober! (Old sober!)"
+    },
+    {
+      "t": 164.74,
+      "end": 167.78,
+      "text": "Sun's going down at the last stop"
+    },
+    {
+      "t": 169.6,
+      "end": 172.52,
+      "text": "I scrape the cooler for the trumpet man"
+    },
+    {
+      "t": 173.44,
+      "end": 181.32,
+      "text": "Old sober, on the house, last cup"
+    },
+    {
+      "t": 181.32,
+      "end": 181.32,
+      "text": "[Outro - full band vamp, crowd claps]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 1.4,
+      "end": 1.4,
+      "text": "[Intro - parade snare roll, sousaphone line and trumpet call]"
+    },
+    {
+      "t": 1.4,
+      "end": 1.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.4,
+      "end": 23.52,
+      "text": "Sunday, one o'clock, the club comes stepping out the door"
+    },
+    {
+      "t": 23.6,
+      "end": 32.12,
+      "text": "Green sashes, white shoes, and the tuba starts to roar"
+    },
+    {
+      "t": 32.12,
+      "end": 39.34,
+      "text": "I got two coolers on a grocery cart, a ladle and a stack of cups"
+    },
+    {
+      "t": 41.0,
+      "end": 46.86,
+      "text": "I walk four miles behind the band till the whole route's eaten up"
+    },
+    {
+      "t": 46.94,
+      "end": 46.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.94,
+      "end": 49.2,
+      "text": "Band stops at the corner bar, I park it on the curb"
+    },
+    {
+      "t": 49.2,
+      "end": 59.71,
+      "text": "Lift the lid and let the steam go up, I don't say a word"
+    },
+    {
+      "t": 59.71,
+      "end": 59.71,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 59.71,
+      "end": 61.47,
+      "text": "Old sober! (Old sober!)"
+    },
+    {
+      "t": 61.47,
+      "end": 68.31,
+      "text": "Beef and noodles, half an egg on top"
+    },
+    {
+      "t": 68.31,
+      "end": 70.99,
+      "text": "Hot sauce, soy and a little green onion"
+    },
+    {
+      "t": 72.31,
+      "end": 75.21,
+      "text": "Old sober, eight dollars a cup"
+    },
+    {
+      "t": 77.21,
+      "end": 77.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.21,
+      "end": 80.63,
+      "text": "Girl from out of town says, mister, is that ramen in a cup?"
+    },
+    {
+      "t": 81.27,
+      "end": 85.05,
+      "text": "I said, sugar, ramen never got a tuba player up"
+    },
+    {
+      "t": 85.81,
+      "end": 90.99,
+      "text": "Grand marshal's nephew been out dancing since Friday night"
+    },
+    {
+      "t": 90.99,
+      "end": 94.89,
+      "text": "One spoon on the neutral ground and his knees came back to life"
+    },
+    {
+      "t": 94.89,
+      "end": 94.89,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 94.89,
+      "end": 95.33,
+      "text": "Old sober! (Old sober!)"
+    },
+    {
+      "t": 95.37,
+      "end": 110.69,
+      "text": "Snare drum wants one, trombone wants two"
+    },
+    {
+      "t": 112.25,
+      "end": 119.89,
+      "text": "Hot sauce, soy and a little green onion"
+    },
+    {
+      "t": 121.21,
+      "end": 124.63,
+      "text": "Old sober, I got one for you"
+    },
+    {
+      "t": 131.69,
+      "end": 131.69,
+      "text": "[Bridge - drum break, sousaphone solo, gang vocals]"
+    },
+    {
+      "t": 131.69,
+      "end": 135.49,
+      "text": "Where the yakamein man at? (Right behind the band!)"
+    },
+    {
+      "t": 136.13,
+      "end": 156.64,
+      "text": "Where the yakamein man at? (Ladle in his hand!)"
+    },
+    {
+      "t": 160.32,
+      "end": 160.32,
+      "text": "[Chorus - call and response]"
+    },
+    {
+      "t": 160.32,
+      "end": 163.08,
+      "text": "Old sober! (Old sober!)"
+    },
+    {
+      "t": 164.74,
+      "end": 169.56,
+      "text": "Sun's going down at the last stop"
+    },
+    {
+      "t": 169.58,
+      "end": 172.42,
+      "text": "I scrape the cooler for the trumpet man"
+    },
+    {
+      "t": 173.42,
+      "end": 181.32,
+      "text": "Old sober, on the house, last cup"
+    },
+    {
+      "t": 181.32,
+      "end": 181.32,
+      "text": "[Outro - full band vamp, crowd claps]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b10_zh03",
+  "title": "烤肉醬借一下",
+  "title_source": "scripted",
+  "genre": "Mandarin new jack swing",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "rowdy, neighbourly and teasing",
+  "persona": "",
+  "subject": "Mid-Autumn night in a lane where every family barbecues on the pavement, and a son sent from grill to grill to get his mother's borrowed bottle of barbecue sauce back",
+  "caption": "Mandarin new jack swing in the late-1980s Teddy Riley style. A swung drum machine beat with a hard gated snare and shuffled sixteenth hi-hats; punchy synth-brass stabs on the off-beats; a slap-style synth bass line; a bright digital electric piano playing stacked chords; finger snaps and hand claps on the backbeat. Crisp bright late-1980s mix, dry drums up front, wide synths. Male tenor, smooth and playful with short melismatic runs, trading call-and-response lines with a group of backing singers on the chorus. 106 BPM, G minor. Rowdy, neighbourly and teasing. No trap hi-hats, no autotune, no live horn section, no EDM drop, no modern rap verse.",
+  "lyrics": "[Intro - synth-brass stabs and swung drum machine]\n\n[Verse 1]\n中秋節晚上 整條巷子都在冒煙\n阿伯穿著汗衫 拿扇子猛搧炭\n三樓阿姨的玉米 已經烤到第二輪\n我媽回頭一看 說醬咧 醬去哪了\n\n[Pre-Chorus]\n隔壁借走 又被隔壁的隔壁借走\n兒子 去把醬拿回來\n\n[Chorus - Call and Response]\n烤肉醬 借一下 (借一下)\n從巷頭 一路問到巷尾\n每一家 都說剛剛還在\n烤肉醬 借一下 整條巷子同一罐\n\n[Verse 2]\n王家的香腸 硬塞兩根給我\n林家的小孩 頭上戴著柚子皮\n樓下的黃狗 在桌子底下等肉片\n月亮好圓 可是沒有人在看\n\n[Pre-Chorus]\n最後在巷尾 找到那一罐\n我一擠 只剩下一滴\n\n[Chorus - Call and Response]\n烤肉醬 借一下 (借一下)\n空罐子 我拿回去交差\n我媽笑一笑 說沒關係\n明年 我們先買三罐\n\n[Outro - synth stabs and hand claps]\n借一下 借一下\n月亮 你要不要也來一串",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 106,
+    "duration": 206.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Mandarin new jack swing in the late-1980s Teddy Riley style. A swung drum machine beat with a hard gated snare and shuffled sixteenth hi-hats; punchy synth-brass stabs on the off-beats; a slap-style synth bass line; a bright digital electric piano playing stacked chords; finger snaps and hand claps on the backbeat. Crisp bright late-1980s mix, dry drums up front, wide synths. Male tenor, smooth and playful with short melismatic runs, trading call-and-response lines with a group of backing singers on the chorus. 106 BPM, G minor. Rowdy, neighbourly and teasing. No trap hi-hats, no autotune, no live horn section, no EDM drop, no modern rap verse.",
+    "lyrics": "[Intro - synth-brass stabs and swung drum machine]\n\n[Verse 1]\n中秋節晚上 整條巷子都在冒煙\n阿伯穿著汗衫 拿扇子猛搧炭\n三樓阿姨的玉米 已經烤到第二輪\n我媽回頭一看 說醬咧 醬去哪了\n\n[Pre-Chorus]\n隔壁借走 又被隔壁的隔壁借走\n兒子 去把醬拿回來\n\n[Chorus - Call and Response]\n烤肉醬 借一下 (借一下)\n從巷頭 一路問到巷尾\n每一家 都說剛剛還在\n烤肉醬 借一下 整條巷子同一罐\n\n[Verse 2]\n王家的香腸 硬塞兩根給我\n林家的小孩 頭上戴著柚子皮\n樓下的黃狗 在桌子底下等肉片\n月亮好圓 可是沒有人在看\n\n[Pre-Chorus]\n最後在巷尾 找到那一罐\n我一擠 只剩下一滴\n\n[Chorus - Call and Response]\n烤肉醬 借一下 (借一下)\n空罐子 我拿回去交差\n我媽笑一笑 說沒關係\n明年 我們先買三罐\n\n[Outro - synth stabs and hand claps]\n借一下 借一下\n月亮 你要不要也來一串"
+  },
+  "seed": "453185969",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 117.62s**\n- 117.62s per song\n- LM phase (1 song): 17.89s\n- DiT phase (1 song): 99.73s",
+  "task_id": "7c86da9e-a83f-4e72-b6e6-246eeef49ad5",
+  "elapsed_s": 140.3,
+  "generated_at": "2026-10-16T20:21:52.395169+08:00",
+  "audio": "b10_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Intro - synth-brass stabs and swung drum machine]"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.92,
+      "end": 52.31,
+      "text": "中秋節晚上 整條巷子都在冒煙"
+    },
+    {
+      "t": 58.01,
+      "end": 62.17,
+      "text": "阿伯穿著汗衫 拿扇子猛搧炭"
+    },
+    {
+      "t": 62.19,
+      "end": 65.81,
+      "text": "三樓阿姨的玉米 已經烤到第二輪"
+    },
+    {
+      "t": 66.69,
+      "end": 69.85,
+      "text": "我媽回頭一看 說醬咧 醬去哪了"
+    },
+    {
+      "t": 69.97,
+      "end": 69.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 69.97,
+      "end": 72.25,
+      "text": "隔壁借走 又被隔壁的隔壁借走"
+    },
+    {
+      "t": 72.31,
+      "end": 73.57,
+      "text": "兒子 去把醬拿回來"
+    },
+    {
+      "t": 73.69,
+      "end": 73.69,
+      "text": "[Chorus - Call and Response]"
+    },
+    {
+      "t": 73.69,
+      "end": 76.25,
+      "text": "烤肉醬 借一下 (借一下)"
+    },
+    {
+      "t": 76.49,
+      "end": 78.03,
+      "text": "從巷頭 一路問到巷尾"
+    },
+    {
+      "t": 78.03,
+      "end": 79.95,
+      "text": "每一家 都說剛剛還在"
+    },
+    {
+      "t": 81.89,
+      "end": 86.05,
+      "text": "烤肉醬 借一下 整條巷子同一罐"
+    },
+    {
+      "t": 86.21,
+      "end": 86.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.21,
+      "end": 89.69,
+      "text": "王家的香腸 硬塞兩根給我"
+    },
+    {
+      "t": 89.69,
+      "end": 91.67,
+      "text": "林家的小孩 頭上戴著柚子皮"
+    },
+    {
+      "t": 91.67,
+      "end": 100.79,
+      "text": "樓下的黃狗 在桌子底下等肉片"
+    },
+    {
+      "t": 100.85,
+      "end": 102.21,
+      "text": "月亮好圓 可是沒有人在看"
+    },
+    {
+      "t": 102.33,
+      "end": 102.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.33,
+      "end": 109.57,
+      "text": "最後在巷尾 找到那一罐"
+    },
+    {
+      "t": 109.57,
+      "end": 110.33,
+      "text": "我一擠 只剩下一滴"
+    },
+    {
+      "t": 110.33,
+      "end": 110.33,
+      "text": "[Chorus - Call and Response]"
+    },
+    {
+      "t": 110.33,
+      "end": 111.45,
+      "text": "烤肉醬 借一下 (借一下)"
+    },
+    {
+      "t": 111.45,
+      "end": 112.41,
+      "text": "空罐子 我拿回去交差"
+    },
+    {
+      "t": 112.41,
+      "end": 168.6,
+      "text": "我媽笑一笑 說沒關係"
+    },
+    {
+      "t": 168.62,
+      "end": 178.42,
+      "text": "明年 我們先買三罐"
+    },
+    {
+      "t": 184.8,
+      "end": 184.8,
+      "text": "[Outro - synth stabs and hand claps]"
+    },
+    {
+      "t": 184.8,
+      "end": 192.96,
+      "text": "借一下 借一下"
+    },
+    {
+      "t": 193.84,
+      "end": 203.46,
+      "text": "月亮 你要不要也來一串"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Intro - synth-brass stabs and swung drum machine]"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.92,
+      "end": 52.31,
+      "text": "中秋節晚上 整條巷子都在冒煙"
+    },
+    {
+      "t": 58.01,
+      "end": 62.17,
+      "text": "阿伯穿著汗衫 拿扇子猛搧炭"
+    },
+    {
+      "t": 62.19,
+      "end": 65.81,
+      "text": "三樓阿姨的玉米 已經烤到第二輪"
+    },
+    {
+      "t": 66.69,
+      "end": 69.85,
+      "text": "我媽回頭一看 說醬咧 醬去哪了"
+    },
+    {
+      "t": 69.97,
+      "end": 69.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 69.97,
+      "end": 72.25,
+      "text": "隔壁借走 又被隔壁的隔壁借走"
+    },
+    {
+      "t": 72.31,
+      "end": 73.57,
+      "text": "兒子 去把醬拿回來"
+    },
+    {
+      "t": 73.69,
+      "end": 73.69,
+      "text": "[Chorus - Call and Response]"
+    },
+    {
+      "t": 73.69,
+      "end": 76.25,
+      "text": "烤肉醬 借一下 (借一下)"
+    },
+    {
+      "t": 76.49,
+      "end": 78.03,
+      "text": "從巷頭 一路問到巷尾"
+    },
+    {
+      "t": 78.03,
+      "end": 79.95,
+      "text": "每一家 都說剛剛還在"
+    },
+    {
+      "t": 81.89,
+      "end": 86.05,
+      "text": "烤肉醬 借一下 整條巷子同一罐"
+    },
+    {
+      "t": 86.21,
+      "end": 86.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.21,
+      "end": 89.69,
+      "text": "王家的香腸 硬塞兩根給我"
+    },
+    {
+      "t": 89.69,
+      "end": 91.67,
+      "text": "林家的小孩 頭上戴著柚子皮"
+    },
+    {
+      "t": 91.67,
+      "end": 100.79,
+      "text": "樓下的黃狗 在桌子底下等肉片"
+    },
+    {
+      "t": 100.85,
+      "end": 102.21,
+      "text": "月亮好圓 可是沒有人在看"
+    },
+    {
+      "t": 102.33,
+      "end": 102.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.33,
+      "end": 109.57,
+      "text": "最後在巷尾 找到那一罐"
+    },
+    {
+      "t": 109.57,
+      "end": 110.33,
+      "text": "我一擠 只剩下一滴"
+    },
+    {
+      "t": 110.33,
+      "end": 110.33,
+      "text": "[Chorus - Call and Response]"
+    },
+    {
+      "t": 110.33,
+      "end": 111.45,
+      "text": "烤肉醬 借一下 (借一下)"
+    },
+    {
+      "t": 111.45,
+      "end": 112.41,
+      "text": "空罐子 我拿回去交差"
+    },
+    {
+      "t": 112.41,
+      "end": 168.6,
+      "text": "我媽笑一笑 說沒關係"
+    },
+    {
+      "t": 168.62,
+      "end": 178.42,
+      "text": "明年 我們先買三罐"
+    },
+    {
+      "t": 184.8,
+      "end": 184.8,
+      "text": "[Outro - synth stabs and hand claps]"
+    },
+    {
+      "t": 184.8,
+      "end": 192.96,
+      "text": "借一下 借一下"
+    },
+    {
+      "t": 193.84,
+      "end": 203.46,
+      "text": "月亮 你要不要也來一串"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Intro - synth-brass stabs and swung drum machine]"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.92,
+      "end": 52.29,
+      "text": "中秋節晚上 整條巷子都在冒煙"
+    },
+    {
+      "t": 58.01,
+      "end": 62.15,
+      "text": "阿伯穿著汗衫 拿扇子猛搧炭"
+    },
+    {
+      "t": 62.17,
+      "end": 65.83,
+      "text": "三樓阿姨的玉米 已經烤到第二輪"
+    },
+    {
+      "t": 66.69,
+      "end": 74.93,
+      "text": "我媽回頭一看 說醬咧 醬去哪了"
+    },
+    {
+      "t": 75.95,
+      "end": 75.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 75.95,
+      "end": 79.45,
+      "text": "隔壁借走 又被隔壁的隔壁借走"
+    },
+    {
+      "t": 82.07,
+      "end": 85.07,
+      "text": "兒子 去把醬拿回來"
+    },
+    {
+      "t": 85.59,
+      "end": 85.59,
+      "text": "[Chorus - Call and Response]"
+    },
+    {
+      "t": 85.59,
+      "end": 89.39,
+      "text": "烤肉醬 借一下 (借一下)"
+    },
+    {
+      "t": 90.67,
+      "end": 94.09,
+      "text": "從巷頭 一路問到巷尾"
+    },
+    {
+      "t": 100.05,
+      "end": 103.11,
+      "text": "每一家 都說剛剛還在"
+    },
+    {
+      "t": 109.11,
+      "end": 112.63,
+      "text": "烤肉醬 借一下 整條巷子同一罐"
+    },
+    {
+      "t": 113.65,
+      "end": 113.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 113.65,
+      "end": 120.21,
+      "text": "王家的香腸 硬塞兩根給我"
+    },
+    {
+      "t": 121.25,
+      "end": 128.43,
+      "text": "林家的小孩 頭上戴著柚子皮"
+    },
+    {
+      "t": 129.17,
+      "end": 142.67,
+      "text": "樓下的黃狗 在桌子底下等肉片"
+    },
+    {
+      "t": 144.75,
+      "end": 154.29,
+      "text": "月亮好圓 可是沒有人在看"
+    },
+    {
+      "t": 154.39,
+      "end": 154.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 154.39,
+      "end": 158.58,
+      "text": "最後在巷尾 找到那一罐"
+    },
+    {
+      "t": 160.66,
+      "end": 163.86,
+      "text": "我一擠 只剩下一滴"
+    },
+    {
+      "t": 164.02,
+      "end": 164.02,
+      "text": "[Chorus - Call and Response]"
+    },
+    {
+      "t": 164.02,
+      "end": 172.02,
+      "text": "烤肉醬 借一下 (借一下)"
+    },
+    {
+      "t": 172.2,
+      "end": 174.84,
+      "text": "空罐子 我拿回去交差"
+    },
+    {
+      "t": 176.72,
+      "end": 190.1,
+      "text": "我媽笑一笑 說沒關係"
+    },
+    {
+      "t": 190.3,
+      "end": 195.98,
+      "text": "明年 我們先買三罐"
+    },
+    {
+      "t": 195.98,
+      "end": 195.98,
+      "text": "[Outro - synth stabs and hand claps]"
+    },
+    {
+      "t": 195.98,
+      "end": 199.14,
+      "text": "借一下 借一下"
+    },
+    {
+      "t": 199.36,
+      "end": 203.46,
+      "text": "月亮 你要不要也來一串"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": "b10_zh02",
+  "title": "病假全壘打",
+  "title_source": "scripted",
+  "genre": "Mandarin pop-punk",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "busted, giddy and gleeful",
+  "persona": "",
+  "subject": "an office worker who leaves at four claiming a dizzy spell 'to see a doctor', catches a ninth-inning home-run ball in his fried-chicken bag in the Taipei Dome outfield on live TV, and is told by his baseball-mad manager to bring the ball in the next morning",
+  "caption": "Mandarin pop-punk in the early-2000s sing-along style. Two palm-muted distorted electric guitars chugging eighth-note power chords and opening up on the chorus; a punchy picked electric bass; fast drums with a driving backbeat, double-time fills and crash cymbals; a short bright guitar lead line between sections. Tight bright band mix, loud and dry, guitars hard-panned wide. Male tenor, slightly nasal and youthful, half-shouted verses, shouted gang vocals on the chorus. 172 BPM, D major. Busted, giddy and gleeful. No trap drums, no autotune, no EDM synths, no metalcore screaming, no hardcore punk blast beats, no ballad slowdown.",
+  "lyrics": "[Intro - palm-muted guitars and snare roll]\n\n[Verse 1]\n下午四點 我跟經理說\n頭好暈 我想先去看醫生\n六點半 戴著口罩 溜進大巨蛋\n外野第三排 一手雞排 一手啤酒\n\n[Pre-Chorus]\n九局下半 兩人出局\n那顆球 朝我這邊 越變越大\n\n[Chorus - Gang Vocals]\n病假全壘打 我用雞排袋接到\n全場都站起來 大螢幕上全是我\n口罩掉到下巴 我笑到停不下來\n病假全壘打 電視重播第三遍\n\n[Instrumental Break - short bright guitar lead]\n\n[Verse 2]\n回家的捷運上 手機一直震\n我媽打來問 你不是說要加班\n大學室友問 雞排到底吃完沒\n最後一個 是經理 他問 頭還暈嗎\n\n[Pre-Chorus]\n他說 明天早上 把球帶來\n病假的事 他可以當沒看到\n\n[Chorus - Gang Vocals]\n病假全壘打 球擺在經理桌上\n他擦了又擦 還拍照傳給他老婆\n下禮拜主場 換他說頭好暈\n病假全壘打 這次我留下來加班\n\n[Instrumental Break - short bright guitar lead]\n\n[Chorus - Gang Vocals]\n病假全壘打 我用雞排袋接到\n全場都站起來 大螢幕上全是我\n口罩掉到下巴 我笑到停不下來\n病假全壘打 電視重播第一百遍\n\n[Outro - full band, final crash]\n頭好暈\n我到現在 還在發燒",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 178.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Mandarin pop-punk in the early-2000s sing-along style. Two palm-muted distorted electric guitars chugging eighth-note power chords and opening up on the chorus; a punchy picked electric bass; fast drums with a driving backbeat, double-time fills and crash cymbals; a short bright guitar lead line between sections. Tight bright band mix, loud and dry, guitars hard-panned wide. Male tenor, slightly nasal and youthful, half-shouted verses, shouted gang vocals on the chorus. 172 BPM, D major. Busted, giddy and gleeful. No trap drums, no autotune, no EDM synths, no metalcore screaming, no hardcore punk blast beats, no ballad slowdown.",
+    "lyrics": "[Intro - palm-muted guitars and snare roll]\n\n[Verse 1]\n下午四點 我跟經理說\n頭好暈 我想先去看醫生\n六點半 戴著口罩 溜進大巨蛋\n外野第三排 一手雞排 一手啤酒\n\n[Pre-Chorus]\n九局下半 兩人出局\n那顆球 朝我這邊 越變越大\n\n[Chorus - Gang Vocals]\n病假全壘打 我用雞排袋接到\n全場都站起來 大螢幕上全是我\n口罩掉到下巴 我笑到停不下來\n病假全壘打 電視重播第三遍\n\n[Instrumental Break - short bright guitar lead]\n\n[Verse 2]\n回家的捷運上 手機一直震\n我媽打來問 你不是說要加班\n大學室友問 雞排到底吃完沒\n最後一個 是經理 他問 頭還暈嗎\n\n[Pre-Chorus]\n他說 明天早上 把球帶來\n病假的事 他可以當沒看到\n\n[Chorus - Gang Vocals]\n病假全壘打 球擺在經理桌上\n他擦了又擦 還拍照傳給他老婆\n下禮拜主場 換他說頭好暈\n病假全壘打 這次我留下來加班\n\n[Instrumental Break - short bright guitar lead]\n\n[Chorus - Gang Vocals]\n病假全壘打 我用雞排袋接到\n全場都站起來 大螢幕上全是我\n口罩掉到下巴 我笑到停不下來\n病假全壘打 電視重播第一百遍\n\n[Outro - full band, final crash]\n頭好暈\n我到現在 還在發燒"
+  },
+  "seed": "3075898299",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 100.57s**\n- 100.57s per song\n- LM phase (1 song): 17.65s\n- DiT phase (1 song): 82.92s",
+  "task_id": "75ade012-82a2-4c9f-aa8c-003582a4f027",
+  "elapsed_s": 130.1,
+  "generated_at": "2026-10-16T20:19:32.101455+08:00",
+  "audio": "b10_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.28,
+      "end": 0.28,
+      "text": "[Intro - palm-muted guitars and snare roll]"
+    },
+    {
+      "t": 0.28,
+      "end": 0.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.28,
+      "end": 23.76,
+      "text": "下午四點 我跟經理說"
+    },
+    {
+      "t": 23.76,
+      "end": 24.72,
+      "text": "頭好暈 我想先去看醫生"
+    },
+    {
+      "t": 24.72,
+      "end": 26.32,
+      "text": "六點半 戴著口罩 溜進大巨蛋"
+    },
+    {
+      "t": 26.32,
+      "end": 28.68,
+      "text": "外野第三排 一手雞排 一手啤酒"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 28.72,
+      "end": 29.74,
+      "text": "九局下半 兩人出局"
+    },
+    {
+      "t": 29.8,
+      "end": 34.12,
+      "text": "那顆球 朝我這邊 越變越大"
+    },
+    {
+      "t": 36.1,
+      "end": 36.1,
+      "text": "[Chorus - Gang Vocals]"
+    },
+    {
+      "t": 36.1,
+      "end": 38.84,
+      "text": "病假全壘打 我用雞排袋接到"
+    },
+    {
+      "t": 38.9,
+      "end": 41.66,
+      "text": "全場都站起來 大螢幕上全是我"
+    },
+    {
+      "t": 41.76,
+      "end": 59.21,
+      "text": "口罩掉到下巴 我笑到停不下來"
+    },
+    {
+      "t": 59.21,
+      "end": 60.21,
+      "text": "病假全壘打 電視重播第三遍"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Instrumental Break - short bright guitar lead]"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.21,
+      "end": 61.13,
+      "text": "回家的捷運上 手機一直震"
+    },
+    {
+      "t": 61.69,
+      "end": 66.61,
+      "text": "我媽打來問 你不是說要加班"
+    },
+    {
+      "t": 67.31,
+      "end": 72.03,
+      "text": "大學室友問 雞排到底吃完沒"
+    },
+    {
+      "t": 72.91,
+      "end": 77.61,
+      "text": "最後一個 是經理 他問 頭還暈嗎"
+    },
+    {
+      "t": 78.91,
+      "end": 78.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.91,
+      "end": 82.91,
+      "text": "他說 明天早上 把球帶來"
+    },
+    {
+      "t": 83.87,
+      "end": 93.65,
+      "text": "病假的事 他可以當沒看到"
+    },
+    {
+      "t": 95.99,
+      "end": 95.99,
+      "text": "[Chorus - Gang Vocals]"
+    },
+    {
+      "t": 95.99,
+      "end": 99.33,
+      "text": "病假全壘打 球擺在經理桌上"
+    },
+    {
+      "t": 99.33,
+      "end": 101.71,
+      "text": "他擦了又擦 還拍照傳給他老婆"
+    },
+    {
+      "t": 101.95,
+      "end": 104.25,
+      "text": "下禮拜主場 換他說頭好暈"
+    },
+    {
+      "t": 104.25,
+      "end": 107.35,
+      "text": "病假全壘打 這次我留下來加班"
+    },
+    {
+      "t": 137.26,
+      "end": 137.26,
+      "text": "[Instrumental Break - short bright guitar lead]"
+    },
+    {
+      "t": 137.26,
+      "end": 137.26,
+      "text": "[Chorus - Gang Vocals]"
+    },
+    {
+      "t": 137.26,
+      "end": 141.86,
+      "text": "病假全壘打 我用雞排袋接到"
+    },
+    {
+      "t": 142.82,
+      "end": 145.98,
+      "text": "全場都站起來 大螢幕上全是我"
+    },
+    {
+      "t": 146.1,
+      "end": 150.08,
+      "text": "口罩掉到下巴 我笑到停不下來"
+    },
+    {
+      "t": 151.16,
+      "end": 156.54,
+      "text": "病假全壘打 電視重播第一百遍"
+    },
+    {
+      "t": 162.06,
+      "end": 162.06,
+      "text": "[Outro - full band, final crash]"
+    },
+    {
+      "t": 162.06,
+      "end": 163.86,
+      "text": "頭好暈"
+    },
+    {
+      "t": 165.08,
+      "end": 168.42,
+      "text": "我到現在 還在發燒"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - palm-muted guitars and snare roll]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 23.76,
+      "text": "下午四點 我跟經理說"
+    },
+    {
+      "t": 23.76,
+      "end": 24.72,
+      "text": "頭好暈 我想先去看醫生"
+    },
+    {
+      "t": 24.76,
+      "end": 26.26,
+      "text": "六點半 戴著口罩 溜進大巨蛋"
+    },
+    {
+      "t": 26.36,
+      "end": 28.0,
+      "text": "外野第三排 一手雞排 一手啤酒"
+    },
+    {
+      "t": 28.36,
+      "end": 28.36,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 28.36,
+      "end": 30.02,
+      "text": "九局下半 兩人出局"
+    },
+    {
+      "t": 30.04,
+      "end": 34.12,
+      "text": "那顆球 朝我這邊 越變越大"
+    },
+    {
+      "t": 36.1,
+      "end": 36.1,
+      "text": "[Chorus - Gang Vocals]"
+    },
+    {
+      "t": 36.1,
+      "end": 59.75,
+      "text": "病假全壘打 我用雞排袋接到"
+    },
+    {
+      "t": 59.75,
+      "end": 61.77,
+      "text": "全場都站起來 大螢幕上全是我"
+    },
+    {
+      "t": 61.83,
+      "end": 64.87,
+      "text": "口罩掉到下巴 我笑到停不下來"
+    },
+    {
+      "t": 64.91,
+      "end": 67.47,
+      "text": "病假全壘打 電視重播第三遍"
+    },
+    {
+      "t": 67.47,
+      "end": 67.47,
+      "text": "[Instrumental Break - short bright guitar lead]"
+    },
+    {
+      "t": 67.47,
+      "end": 67.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.47,
+      "end": 70.25,
+      "text": "回家的捷運上 手機一直震"
+    },
+    {
+      "t": 70.29,
+      "end": 71.61,
+      "text": "我媽打來問 你不是說要加班"
+    },
+    {
+      "t": 71.71,
+      "end": 75.19,
+      "text": "大學室友問 雞排到底吃完沒"
+    },
+    {
+      "t": 75.63,
+      "end": 77.63,
+      "text": "最後一個 是經理 他問 頭還暈嗎"
+    },
+    {
+      "t": 78.91,
+      "end": 78.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.91,
+      "end": 83.01,
+      "text": "他說 明天早上 把球帶來"
+    },
+    {
+      "t": 83.87,
+      "end": 88.67,
+      "text": "病假的事 他可以當沒看到"
+    },
+    {
+      "t": 89.49,
+      "end": 89.49,
+      "text": "[Chorus - Gang Vocals]"
+    },
+    {
+      "t": 89.49,
+      "end": 99.31,
+      "text": "病假全壘打 球擺在經理桌上"
+    },
+    {
+      "t": 99.31,
+      "end": 101.73,
+      "text": "他擦了又擦 還拍照傳給他老婆"
+    },
+    {
+      "t": 101.95,
+      "end": 104.19,
+      "text": "下禮拜主場 換他說頭好暈"
+    },
+    {
+      "t": 104.19,
+      "end": 107.31,
+      "text": "病假全壘打 這次我留下來加班"
+    },
+    {
+      "t": 137.24,
+      "end": 137.24,
+      "text": "[Instrumental Break - short bright guitar lead]"
+    },
+    {
+      "t": 137.24,
+      "end": 137.24,
+      "text": "[Chorus - Gang Vocals]"
+    },
+    {
+      "t": 137.24,
+      "end": 141.86,
+      "text": "病假全壘打 我用雞排袋接到"
+    },
+    {
+      "t": 142.82,
+      "end": 145.62,
+      "text": "全場都站起來 大螢幕上全是我"
+    },
+    {
+      "t": 145.64,
+      "end": 150.08,
+      "text": "口罩掉到下巴 我笑到停不下來"
+    },
+    {
+      "t": 151.18,
+      "end": 161.98,
+      "text": "病假全壘打 電視重播第一百遍"
+    },
+    {
+      "t": 162.06,
+      "end": 162.06,
+      "text": "[Outro - full band, final crash]"
+    },
+    {
+      "t": 162.06,
+      "end": 163.88,
+      "text": "頭好暈"
+    },
+    {
+      "t": 165.08,
+      "end": 168.42,
+      "text": "我到現在 還在發燒"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

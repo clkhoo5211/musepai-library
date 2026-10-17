@@ -1,0 +1,534 @@
+{
+  "id": "b10_ko04",
+  "title": "숯가마",
+  "title_source": "scripted",
+  "genre": "Korean psychedelic art rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "drowsy, warped, quietly funny",
+  "persona": "",
+  "subject": "a whole Sunday lost in a jjimjilbang, going back and forth between the eighty-degree charcoal kiln room and the ice room until the wall clock and the TV reruns stop making sense",
+  "caption": "Korean psychedelic art rock in the style of Seoul's 2020s indie band scene, a hazy mid-tempo guitar-band track. Two electric guitars, one droning through a phaser and fuzz, one picking a bent, reverb-soaked melody; a melodic bass sliding under the vocal; loose floor-tom-heavy drums that lock into a heavy half-time groove on the chorus; a wobbling analog synth drone and a Mellotron flute line. Hazy, saturated mix with tape echo and wide stereo panning, the guitars swirling into a fuzz build in the bridge. Soft male tenor, drowsy and close in the verses, sliding up into falsetto on the chorus. 100 BPM, E minor. Drowsy, warped and quietly funny. No shoegaze wash, no trap, no autotune, no ballad piano, no EDM synths.",
+  "lyrics": "[Intro - phased guitar drone and slow floor tom]\n\n[Verse 1]\n일요일 아침 열 시에 들어왔어\n수건으로 양머리를 만들고\n숯가마 문을 밀면 팔십 도\n모래시계를 뒤집어 놔\n\n[Pre-Chorus]\n둥근 황토 천장이\n천천히 돌기 시작해\n\n[Chorus]\n녹는다, 녹아, 벽시계도\n뜨거운 데서 차가운 데로\n식혜 한 모금, 맥반석 계란\n몇 시인지 묻지 마\n\n[Verse 2]\n얼음방에 누우면 귀가 울려\n옆 아저씨 코 고는 소리가\n베이스처럼 바닥에 깔려\n티비에선 아까 그 드라마가 또 해\n\n[Pre-Chorus]\n발끝이 하얗게 시려\n다시 숯가마로 기어가\n\n[Chorus]\n녹는다, 녹아, 일요일도\n뜨거운 데서 차가운 데로\n계란 껍질이 손톱 밑에\n몇 시인지 묻지 마\n\n[Bridge - guitars swirl into fuzz, voice drenched in echo]\n손목에 찬 옷장 열쇠가\n아직도 따뜻해\n\n[Outro - feedback and drone fade]\n밖에 나오니 깜깜해\n월요일이 문 앞에 서 있어",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 225.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Korean psychedelic art rock in the style of Seoul's 2020s indie band scene, a hazy mid-tempo guitar-band track. Two electric guitars, one droning through a phaser and fuzz, one picking a bent, reverb-soaked melody; a melodic bass sliding under the vocal; loose floor-tom-heavy drums that lock into a heavy half-time groove on the chorus; a wobbling analog synth drone and a Mellotron flute line. Hazy, saturated mix with tape echo and wide stereo panning, the guitars swirling into a fuzz build in the bridge. Soft male tenor, drowsy and close in the verses, sliding up into falsetto on the chorus. 100 BPM, E minor. Drowsy, warped and quietly funny. No shoegaze wash, no trap, no autotune, no ballad piano, no EDM synths.",
+    "lyrics": "[Intro - phased guitar drone and slow floor tom]\n\n[Verse 1]\n일요일 아침 열 시에 들어왔어\n수건으로 양머리를 만들고\n숯가마 문을 밀면 팔십 도\n모래시계를 뒤집어 놔\n\n[Pre-Chorus]\n둥근 황토 천장이\n천천히 돌기 시작해\n\n[Chorus]\n녹는다, 녹아, 벽시계도\n뜨거운 데서 차가운 데로\n식혜 한 모금, 맥반석 계란\n몇 시인지 묻지 마\n\n[Verse 2]\n얼음방에 누우면 귀가 울려\n옆 아저씨 코 고는 소리가\n베이스처럼 바닥에 깔려\n티비에선 아까 그 드라마가 또 해\n\n[Pre-Chorus]\n발끝이 하얗게 시려\n다시 숯가마로 기어가\n\n[Chorus]\n녹는다, 녹아, 일요일도\n뜨거운 데서 차가운 데로\n계란 껍질이 손톱 밑에\n몇 시인지 묻지 마\n\n[Bridge - guitars swirl into fuzz, voice drenched in echo]\n손목에 찬 옷장 열쇠가\n아직도 따뜻해\n\n[Outro - feedback and drone fade]\n밖에 나오니 깜깜해\n월요일이 문 앞에 서 있어"
+  },
+  "seed": "893311989",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 110.35s**\n- 110.35s per song\n- LM phase (1 song): 18.52s\n- DiT phase (1 song): 91.84s",
+  "task_id": "f00efae2-e4ea-45da-a0c0-82896dd4164f",
+  "elapsed_s": 150.3,
+  "generated_at": "2026-10-16T19:23:01.501053+08:00",
+  "audio": "b10_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 44.8,
+      "end": 44.8,
+      "text": "[Intro - phased guitar drone and slow floor tom]"
+    },
+    {
+      "t": 44.8,
+      "end": 44.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.8,
+      "end": 48.2,
+      "text": "일요일 아침 열 시에 들어왔어"
+    },
+    {
+      "t": 48.48,
+      "end": 53.48,
+      "text": "수건으로 양머리를 만들고"
+    },
+    {
+      "t": 53.52,
+      "end": 57.71,
+      "text": "숯가마 문을 밀면 팔십 도"
+    },
+    {
+      "t": 58.41,
+      "end": 63.05,
+      "text": "모래시계를 뒤집어 놔"
+    },
+    {
+      "t": 63.75,
+      "end": 63.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.75,
+      "end": 67.25,
+      "text": "둥근 황토 천장이"
+    },
+    {
+      "t": 67.89,
+      "end": 72.89,
+      "text": "천천히 돌기 시작해"
+    },
+    {
+      "t": 73.03,
+      "end": 73.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.03,
+      "end": 77.43,
+      "text": "녹는다, 녹아, 벽시계도"
+    },
+    {
+      "t": 78.19,
+      "end": 82.51,
+      "text": "뜨거운 데서 차가운 데로"
+    },
+    {
+      "t": 82.63,
+      "end": 106.09,
+      "text": "식혜 한 모금, 맥반석 계란"
+    },
+    {
+      "t": 106.37,
+      "end": 108.83,
+      "text": "몇 시인지 묻지 마"
+    },
+    {
+      "t": 108.83,
+      "end": 108.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 108.83,
+      "end": 111.97,
+      "text": "얼음방에 누우면 귀가 울려"
+    },
+    {
+      "t": 111.97,
+      "end": 115.21,
+      "text": "옆 아저씨 코 고는 소리가"
+    },
+    {
+      "t": 115.63,
+      "end": 119.07,
+      "text": "베이스처럼 바닥에 깔려"
+    },
+    {
+      "t": 119.13,
+      "end": 123.59,
+      "text": "티비에선 아까 그 드라마가 또 해"
+    },
+    {
+      "t": 123.81,
+      "end": 123.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.81,
+      "end": 128.09,
+      "text": "발끝이 하얗게 시려"
+    },
+    {
+      "t": 128.15,
+      "end": 130.23,
+      "text": "다시 숯가마로 기어가"
+    },
+    {
+      "t": 132.19,
+      "end": 132.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.19,
+      "end": 136.49,
+      "text": "녹는다, 녹아, 일요일도"
+    },
+    {
+      "t": 137.01,
+      "end": 141.31,
+      "text": "뜨거운 데서 차가운 데로"
+    },
+    {
+      "t": 142.03,
+      "end": 146.41,
+      "text": "계란 껍질이 손톱 밑에"
+    },
+    {
+      "t": 147.13,
+      "end": 150.71,
+      "text": "몇 시인지 묻지 마"
+    },
+    {
+      "t": 161.05,
+      "end": 161.05,
+      "text": "[Bridge - guitars swirl into fuzz, voice drenched in echo]"
+    },
+    {
+      "t": 161.05,
+      "end": 168.17,
+      "text": "손목에 찬 옷장 열쇠가"
+    },
+    {
+      "t": 170.2,
+      "end": 174.76,
+      "text": "아직도 따뜻해"
+    },
+    {
+      "t": 189.16,
+      "end": 189.16,
+      "text": "[Outro - feedback and drone fade]"
+    },
+    {
+      "t": 189.16,
+      "end": 193.76,
+      "text": "밖에 나오니 깜깜해"
+    },
+    {
+      "t": 197.68,
+      "end": 207.42,
+      "text": "월요일이 문 앞에 서 있어"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 44.8,
+      "end": 44.8,
+      "text": "[Intro - phased guitar drone and slow floor tom]"
+    },
+    {
+      "t": 44.8,
+      "end": 44.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.8,
+      "end": 48.2,
+      "text": "일요일 아침 열 시에 들어왔어"
+    },
+    {
+      "t": 48.48,
+      "end": 53.48,
+      "text": "수건으로 양머리를 만들고"
+    },
+    {
+      "t": 53.52,
+      "end": 57.71,
+      "text": "숯가마 문을 밀면 팔십 도"
+    },
+    {
+      "t": 58.41,
+      "end": 63.05,
+      "text": "모래시계를 뒤집어 놔"
+    },
+    {
+      "t": 63.75,
+      "end": 63.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.75,
+      "end": 67.25,
+      "text": "둥근 황토 천장이"
+    },
+    {
+      "t": 67.89,
+      "end": 72.89,
+      "text": "천천히 돌기 시작해"
+    },
+    {
+      "t": 73.03,
+      "end": 73.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.03,
+      "end": 77.43,
+      "text": "녹는다, 녹아, 벽시계도"
+    },
+    {
+      "t": 78.19,
+      "end": 82.51,
+      "text": "뜨거운 데서 차가운 데로"
+    },
+    {
+      "t": 82.63,
+      "end": 106.09,
+      "text": "식혜 한 모금, 맥반석 계란"
+    },
+    {
+      "t": 106.37,
+      "end": 108.83,
+      "text": "몇 시인지 묻지 마"
+    },
+    {
+      "t": 108.83,
+      "end": 108.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 108.83,
+      "end": 111.97,
+      "text": "얼음방에 누우면 귀가 울려"
+    },
+    {
+      "t": 111.97,
+      "end": 115.21,
+      "text": "옆 아저씨 코 고는 소리가"
+    },
+    {
+      "t": 115.63,
+      "end": 119.07,
+      "text": "베이스처럼 바닥에 깔려"
+    },
+    {
+      "t": 119.13,
+      "end": 123.59,
+      "text": "티비에선 아까 그 드라마가 또 해"
+    },
+    {
+      "t": 123.81,
+      "end": 123.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.81,
+      "end": 128.09,
+      "text": "발끝이 하얗게 시려"
+    },
+    {
+      "t": 128.15,
+      "end": 130.23,
+      "text": "다시 숯가마로 기어가"
+    },
+    {
+      "t": 132.19,
+      "end": 132.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.19,
+      "end": 136.49,
+      "text": "녹는다, 녹아, 일요일도"
+    },
+    {
+      "t": 137.01,
+      "end": 141.31,
+      "text": "뜨거운 데서 차가운 데로"
+    },
+    {
+      "t": 142.03,
+      "end": 146.41,
+      "text": "계란 껍질이 손톱 밑에"
+    },
+    {
+      "t": 147.13,
+      "end": 150.71,
+      "text": "몇 시인지 묻지 마"
+    },
+    {
+      "t": 161.05,
+      "end": 161.05,
+      "text": "[Bridge - guitars swirl into fuzz, voice drenched in echo]"
+    },
+    {
+      "t": 161.05,
+      "end": 168.17,
+      "text": "손목에 찬 옷장 열쇠가"
+    },
+    {
+      "t": 170.2,
+      "end": 174.76,
+      "text": "아직도 따뜻해"
+    },
+    {
+      "t": 189.16,
+      "end": 189.16,
+      "text": "[Outro - feedback and drone fade]"
+    },
+    {
+      "t": 189.16,
+      "end": 193.76,
+      "text": "밖에 나오니 깜깜해"
+    },
+    {
+      "t": 197.68,
+      "end": 207.42,
+      "text": "월요일이 문 앞에 서 있어"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 44.76,
+      "end": 44.76,
+      "text": "[Intro - phased guitar drone and slow floor tom]"
+    },
+    {
+      "t": 44.76,
+      "end": 44.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.76,
+      "end": 48.18,
+      "text": "일요일 아침 열 시에 들어왔어"
+    },
+    {
+      "t": 48.2,
+      "end": 54.12,
+      "text": "수건으로 양머리를 만들고"
+    },
+    {
+      "t": 54.14,
+      "end": 57.71,
+      "text": "숯가마 문을 밀면 팔십 도"
+    },
+    {
+      "t": 58.39,
+      "end": 63.05,
+      "text": "모래시계를 뒤집어 놔"
+    },
+    {
+      "t": 63.77,
+      "end": 63.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.77,
+      "end": 67.23,
+      "text": "둥근 황토 천장이"
+    },
+    {
+      "t": 67.89,
+      "end": 72.89,
+      "text": "천천히 돌기 시작해"
+    },
+    {
+      "t": 72.89,
+      "end": 72.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.89,
+      "end": 77.43,
+      "text": "녹는다, 녹아, 벽시계도"
+    },
+    {
+      "t": 79.93,
+      "end": 82.49,
+      "text": "뜨거운 데서 차가운 데로"
+    },
+    {
+      "t": 82.55,
+      "end": 95.39,
+      "text": "식혜 한 모금, 맥반석 계란"
+    },
+    {
+      "t": 95.43,
+      "end": 97.43,
+      "text": "몇 시인지 묻지 마"
+    },
+    {
+      "t": 97.43,
+      "end": 97.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.43,
+      "end": 100.43,
+      "text": "얼음방에 누우면 귀가 울려"
+    },
+    {
+      "t": 100.57,
+      "end": 103.91,
+      "text": "옆 아저씨 코 고는 소리가"
+    },
+    {
+      "t": 103.93,
+      "end": 107.51,
+      "text": "베이스처럼 바닥에 깔려"
+    },
+    {
+      "t": 108.41,
+      "end": 112.07,
+      "text": "티비에선 아까 그 드라마가 또 해"
+    },
+    {
+      "t": 113.57,
+      "end": 113.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.57,
+      "end": 117.13,
+      "text": "발끝이 하얗게 시려"
+    },
+    {
+      "t": 118.67,
+      "end": 126.27,
+      "text": "다시 숯가마로 기어가"
+    },
+    {
+      "t": 126.33,
+      "end": 126.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.33,
+      "end": 136.49,
+      "text": "녹는다, 녹아, 일요일도"
+    },
+    {
+      "t": 137.45,
+      "end": 141.29,
+      "text": "뜨거운 데서 차가운 데로"
+    },
+    {
+      "t": 142.05,
+      "end": 146.39,
+      "text": "계란 껍질이 손톱 밑에"
+    },
+    {
+      "t": 147.17,
+      "end": 150.69,
+      "text": "몇 시인지 묻지 마"
+    },
+    {
+      "t": 161.07,
+      "end": 161.07,
+      "text": "[Bridge - guitars swirl into fuzz, voice drenched in echo]"
+    },
+    {
+      "t": 161.07,
+      "end": 168.13,
+      "text": "손목에 찬 옷장 열쇠가"
+    },
+    {
+      "t": 170.22,
+      "end": 181.6,
+      "text": "아직도 따뜻해"
+    },
+    {
+      "t": 189.14,
+      "end": 189.14,
+      "text": "[Outro - feedback and drone fade]"
+    },
+    {
+      "t": 189.14,
+      "end": 193.76,
+      "text": "밖에 나오니 깜깜해"
+    },
+    {
+      "t": 197.66,
+      "end": 207.42,
+      "text": "월요일이 문 앞에 서 있어"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b10_ms03",
+  "title": "Lagi! Lagi!",
+  "title_source": "scripted",
+  "genre": "hardstyle dance-pop",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "euphoric, rowdy and warm-hearted",
+  "persona": "",
+  "subject": "a young woman who runs the pirate-ship swing at a travelling funfair on a town padang, pushing it higher every time the kids scream 'lagi', and on the last night gives a free ride to the boy in blue slippers who watched every night without a ticket",
+  "caption": "Hardstyle dance-pop, a sung pop song on a festival hardstyle beat. A distorted hardstyle kick with a pitched, punchy tail driving every beat; a reverse bass rolling on the off-beats; a wide detuned supersaw lead playing the chorus hook; a bright trance pluck arpeggio under the verses; a filtered breakdown with only the pluck and the voice before the kick returns. Big, loud festival mix, kick and lead forward, supersaws wide, a little fairground crowd noise in the breakdown. Female pop vocal, bright and strong in a mid-high register, singing the verses over the filtered beat and leading a chant-along chorus. 150 BPM, A minor. Euphoric, rowdy and warm-hearted. No trap beat, no dubstep wobble, no idol-pop rap, no autotune, no rap verse, no slow ballad section.",
+  "lyrics": "[Intro - filtered pluck, kick enters]\n\n[Verse 1]\nPadang bandar, minggu ni kami singgah\nLampu kelip, jagung bakar, rumput lecak\nAku pegang lever kapal lanun\nTiket lima ringgit, pegang kuat-kuat\n\n[Pre-Chorus]\nAyun sekali, budak menjerit\nAyun dua kali, mak bapak pun sama\n\n[Chorus]\nLagi! Lagi! Tinggi lagi!\nSatu padang jerit tak berhenti\nLagi! Lagi! Sampai bintang\nTolak lever, kita naik lagi\n\n[Verse 2]\nAda budak pakai selipar biru\nTiap malam berdiri tepi pagar\nTak ada tiket, dia cuma tengok\nKira berapa kali kapal naik\n\n[Breakdown - filtered pluck and voice only, fairground crowd noise]\nEsok kami angkat khemah ke Taiping\nAku panggil dia, \"Dik, naik sini\"\n\n[Chorus - kick and supersaw lead return, crowd chanting along]\nLagi! Lagi! Tinggi lagi!\nKapal kosong, cuma dia sorang\nLagi! Lagi! Sampai bintang\nSelipar biru tercabut sebelah\n\n[Outro - supersaw lead and crowd]\nEsok Taiping, lusa Ipoh\nKalau dengar orang jerit, itu kami",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Hardstyle dance-pop, a sung pop song on a festival hardstyle beat. A distorted hardstyle kick with a pitched, punchy tail driving every beat; a reverse bass rolling on the off-beats; a wide detuned supersaw lead playing the chorus hook; a bright trance pluck arpeggio under the verses; a filtered breakdown with only the pluck and the voice before the kick returns. Big, loud festival mix, kick and lead forward, supersaws wide, a little fairground crowd noise in the breakdown. Female pop vocal, bright and strong in a mid-high register, singing the verses over the filtered beat and leading a chant-along chorus. 150 BPM, A minor. Euphoric, rowdy and warm-hearted. No trap beat, no dubstep wobble, no idol-pop rap, no autotune, no rap verse, no slow ballad section.",
+    "lyrics": "[Intro - filtered pluck, kick enters]\n\n[Verse 1]\nPadang bandar, minggu ni kami singgah\nLampu kelip, jagung bakar, rumput lecak\nAku pegang lever kapal lanun\nTiket lima ringgit, pegang kuat-kuat\n\n[Pre-Chorus]\nAyun sekali, budak menjerit\nAyun dua kali, mak bapak pun sama\n\n[Chorus]\nLagi! Lagi! Tinggi lagi!\nSatu padang jerit tak berhenti\nLagi! Lagi! Sampai bintang\nTolak lever, kita naik lagi\n\n[Verse 2]\nAda budak pakai selipar biru\nTiap malam berdiri tepi pagar\nTak ada tiket, dia cuma tengok\nKira berapa kali kapal naik\n\n[Breakdown - filtered pluck and voice only, fairground crowd noise]\nEsok kami angkat khemah ke Taiping\nAku panggil dia, \"Dik, naik sini\"\n\n[Chorus - kick and supersaw lead return, crowd chanting along]\nLagi! Lagi! Tinggi lagi!\nKapal kosong, cuma dia sorang\nLagi! Lagi! Sampai bintang\nSelipar biru tercabut sebelah\n\n[Outro - supersaw lead and crowd]\nEsok Taiping, lusa Ipoh\nKalau dengar orang jerit, itu kami"
+  },
+  "seed": "3082965559",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 91.86s**\n- 91.86s per song\n- LM phase (1 song): 14.44s\n- DiT phase (1 song): 77.41s",
+  "task_id": "f686e29b-487d-44bc-ba40-7bb99546b04f",
+  "elapsed_s": 120.7,
+  "generated_at": "2026-10-16T19:31:33.138741+08:00",
+  "audio": "b10_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Intro - filtered pluck, kick enters]"
+    },
+    {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.24,
+      "end": 41.74,
+      "text": "Padang bandar, minggu ni kami singgah"
+    },
+    {
+      "t": 43.42,
+      "end": 49.71,
+      "text": "Lampu kelip, jagung bakar, rumput lecak"
+    },
+    {
+      "t": 50.33,
+      "end": 55.01,
+      "text": "Aku pegang lever kapal lanun"
+    },
+    {
+      "t": 56.05,
+      "end": 62.29,
+      "text": "Tiket lima ringgit, pegang kuat-kuat"
+    },
+    {
+      "t": 63.79,
+      "end": 63.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.79,
+      "end": 70.09,
+      "text": "Ayun sekali, budak menjerit"
+    },
+    {
+      "t": 70.21,
+      "end": 74.95,
+      "text": "Ayun dua kali, mak bapak pun sama"
+    },
+    {
+      "t": 77.65,
+      "end": 77.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.65,
+      "end": 81.31,
+      "text": "Lagi! Lagi! Tinggi lagi!"
+    },
+    {
+      "t": 81.57,
+      "end": 84.45,
+      "text": "Satu padang jerit tak berhenti"
+    },
+    {
+      "t": 84.45,
+      "end": 87.79,
+      "text": "Lagi! Lagi! Sampai bintang"
+    },
+    {
+      "t": 90.65,
+      "end": 94.01,
+      "text": "Tolak lever, kita naik lagi"
+    },
+    {
+      "t": 94.67,
+      "end": 94.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.67,
+      "end": 96.91,
+      "text": "Ada budak pakai selipar biru"
+    },
+    {
+      "t": 96.93,
+      "end": 100.19,
+      "text": "Tiap malam berdiri tepi pagar"
+    },
+    {
+      "t": 100.51,
+      "end": 103.11,
+      "text": "Tak ada tiket, dia cuma tengok"
+    },
+    {
+      "t": 103.43,
+      "end": 105.41,
+      "text": "Kira berapa kali kapal naik"
+    },
+    {
+      "t": 105.45,
+      "end": 105.45,
+      "text": "[Breakdown - filtered pluck and voice only, fairground crowd noise]"
+    },
+    {
+      "t": 105.45,
+      "end": 113.33,
+      "text": "Esok kami angkat khemah ke Taiping"
+    },
+    {
+      "t": 113.35,
+      "end": 118.45,
+      "text": "Aku panggil dia, \"Dik, naik sini\""
+    },
+    {
+      "t": 124.61,
+      "end": 124.61,
+      "text": "[Chorus - kick and supersaw lead return, crowd chanting along]"
+    },
+    {
+      "t": 124.61,
+      "end": 140.77,
+      "text": "Lagi! Lagi! Tinggi lagi!"
+    },
+    {
+      "t": 140.77,
+      "end": 144.62,
+      "text": "Kapal kosong, cuma dia sorang"
+    },
+    {
+      "t": 145.06,
+      "end": 147.82,
+      "text": "Lagi! Lagi! Sampai bintang"
+    },
+    {
+      "t": 148.02,
+      "end": 153.98,
+      "text": "Selipar biru tercabut sebelah"
+    },
+    {
+      "t": 168.5,
+      "end": 168.5,
+      "text": "[Outro - supersaw lead and crowd]"
+    },
+    {
+      "t": 168.5,
+      "end": 172.44,
+      "text": "Esok Taiping, lusa Ipoh"
+    },
+    {
+      "t": 172.54,
+      "end": 178.54,
+      "text": "Kalau dengar orang jerit, itu kami"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Intro - filtered pluck, kick enters]"
+    },
+    {
+      "t": 37.24,
+      "end": 37.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.24,
+      "end": 41.74,
+      "text": "Padang bandar, minggu ni kami singgah"
+    },
+    {
+      "t": 43.42,
+      "end": 49.71,
+      "text": "Lampu kelip, jagung bakar, rumput lecak"
+    },
+    {
+      "t": 50.33,
+      "end": 55.01,
+      "text": "Aku pegang lever kapal lanun"
+    },
+    {
+      "t": 56.05,
+      "end": 62.29,
+      "text": "Tiket lima ringgit, pegang kuat-kuat"
+    },
+    {
+      "t": 63.79,
+      "end": 63.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.79,
+      "end": 70.09,
+      "text": "Ayun sekali, budak menjerit"
+    },
+    {
+      "t": 70.21,
+      "end": 74.95,
+      "text": "Ayun dua kali, mak bapak pun sama"
+    },
+    {
+      "t": 77.65,
+      "end": 77.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.65,
+      "end": 81.31,
+      "text": "Lagi! Lagi! Tinggi lagi!"
+    },
+    {
+      "t": 81.57,
+      "end": 84.45,
+      "text": "Satu padang jerit tak berhenti"
+    },
+    {
+      "t": 84.45,
+      "end": 87.79,
+      "text": "Lagi! Lagi! Sampai bintang"
+    },
+    {
+      "t": 90.65,
+      "end": 94.01,
+      "text": "Tolak lever, kita naik lagi"
+    },
+    {
+      "t": 94.67,
+      "end": 94.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.67,
+      "end": 96.91,
+      "text": "Ada budak pakai selipar biru"
+    },
+    {
+      "t": 96.93,
+      "end": 100.19,
+      "text": "Tiap malam berdiri tepi pagar"
+    },
+    {
+      "t": 100.51,
+      "end": 103.11,
+      "text": "Tak ada tiket, dia cuma tengok"
+    },
+    {
+      "t": 103.43,
+      "end": 105.41,
+      "text": "Kira berapa kali kapal naik"
+    },
+    {
+      "t": 105.45,
+      "end": 105.45,
+      "text": "[Breakdown - filtered pluck and voice only, fairground crowd noise]"
+    },
+    {
+      "t": 105.45,
+      "end": 113.33,
+      "text": "Esok kami angkat khemah ke Taiping"
+    },
+    {
+      "t": 113.35,
+      "end": 118.45,
+      "text": "Aku panggil dia, \"Dik, naik sini\""
+    },
+    {
+      "t": 124.61,
+      "end": 124.61,
+      "text": "[Chorus - kick and supersaw lead return, crowd chanting along]"
+    },
+    {
+      "t": 124.61,
+      "end": 140.77,
+      "text": "Lagi! Lagi! Tinggi lagi!"
+    },
+    {
+      "t": 140.77,
+      "end": 144.62,
+      "text": "Kapal kosong, cuma dia sorang"
+    },
+    {
+      "t": 145.06,
+      "end": 147.82,
+      "text": "Lagi! Lagi! Sampai bintang"
+    },
+    {
+      "t": 148.02,
+      "end": 153.98,
+      "text": "Selipar biru tercabut sebelah"
+    },
+    {
+      "t": 168.5,
+      "end": 168.5,
+      "text": "[Outro - supersaw lead and crowd]"
+    },
+    {
+      "t": 168.5,
+      "end": 172.44,
+      "text": "Esok Taiping, lusa Ipoh"
+    },
+    {
+      "t": 172.54,
+      "end": 178.54,
+      "text": "Kalau dengar orang jerit, itu kami"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 37.26,
+      "end": 37.26,
+      "text": "[Intro - filtered pluck, kick enters]"
+    },
+    {
+      "t": 37.26,
+      "end": 37.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.26,
+      "end": 41.74,
+      "text": "Padang bandar, minggu ni kami singgah"
+    },
+    {
+      "t": 43.44,
+      "end": 49.69,
+      "text": "Lampu kelip, jagung bakar, rumput lecak"
+    },
+    {
+      "t": 50.31,
+      "end": 55.01,
+      "text": "Aku pegang lever kapal lanun"
+    },
+    {
+      "t": 56.07,
+      "end": 63.69,
+      "text": "Tiket lima ringgit, pegang kuat-kuat"
+    },
+    {
+      "t": 63.79,
+      "end": 63.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.79,
+      "end": 70.11,
+      "text": "Ayun sekali, budak menjerit"
+    },
+    {
+      "t": 70.21,
+      "end": 74.95,
+      "text": "Ayun dua kali, mak bapak pun sama"
+    },
+    {
+      "t": 77.65,
+      "end": 77.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.65,
+      "end": 81.31,
+      "text": "Lagi! Lagi! Tinggi lagi!"
+    },
+    {
+      "t": 81.57,
+      "end": 84.45,
+      "text": "Satu padang jerit tak berhenti"
+    },
+    {
+      "t": 85.15,
+      "end": 87.79,
+      "text": "Lagi! Lagi! Sampai bintang"
+    },
+    {
+      "t": 87.91,
+      "end": 94.01,
+      "text": "Tolak lever, kita naik lagi"
+    },
+    {
+      "t": 94.65,
+      "end": 94.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.65,
+      "end": 96.93,
+      "text": "Ada budak pakai selipar biru"
+    },
+    {
+      "t": 97.35,
+      "end": 100.17,
+      "text": "Tiap malam berdiri tepi pagar"
+    },
+    {
+      "t": 100.49,
+      "end": 103.07,
+      "text": "Tak ada tiket, dia cuma tengok"
+    },
+    {
+      "t": 103.43,
+      "end": 118.33,
+      "text": "Kira berapa kali kapal naik"
+    },
+    {
+      "t": 124.71,
+      "end": 124.71,
+      "text": "[Breakdown - filtered pluck and voice only, fairground crowd noise]"
+    },
+    {
+      "t": 124.71,
+      "end": 130.21,
+      "text": "Esok kami angkat khemah ke Taiping"
+    },
+    {
+      "t": 130.33,
+      "end": 136.39,
+      "text": "Aku panggil dia, \"Dik, naik sini\""
+    },
+    {
+      "t": 136.45,
+      "end": 136.45,
+      "text": "[Chorus - kick and supersaw lead return, crowd chanting along]"
+    },
+    {
+      "t": 136.45,
+      "end": 141.21,
+      "text": "Lagi! Lagi! Tinggi lagi!"
+    },
+    {
+      "t": 141.43,
+      "end": 144.62,
+      "text": "Kapal kosong, cuma dia sorang"
+    },
+    {
+      "t": 145.04,
+      "end": 150.94,
+      "text": "Lagi! Lagi! Sampai bintang"
+    },
+    {
+      "t": 150.98,
+      "end": 153.98,
+      "text": "Selipar biru tercabut sebelah"
+    },
+    {
+      "t": 168.52,
+      "end": 168.52,
+      "text": "[Outro - supersaw lead and crowd]"
+    },
+    {
+      "t": 168.52,
+      "end": 172.42,
+      "text": "Esok Taiping, lusa Ipoh"
+    },
+    {
+      "t": 172.54,
+      "end": 178.56,
+      "text": "Kalau dengar orang jerit, itu kami"
+    }
+  ]
+}

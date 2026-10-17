@@ -1,0 +1,367 @@
+{
+  "id": "b10_en03",
+  "title": "Somebody Press The Button",
+  "title_source": "scripted",
+  "genre": "Broadway musical-theatre showtune",
+  "language": "en",
+  "language_name": "English",
+  "mood": "frantic, cheerful comic panic",
+  "persona": "",
+  "subject": "a council events officer whose booked soap-opera vet cancels at four o'clock on the night of the town's Christmas lights switch-on, until a fourteen-year-old Labrador presses the button",
+  "caption": "Broadway musical-theatre showtune, an up-tempo comic ensemble number in classic book-musical style. A brassy pit orchestra with bright trumpets and trombones punching the accents; a bouncing stride piano; sweeping strings with pizzicato under the verses; a show-drum kit on snare and brushes with rim-shot hits; sleigh bells and glockenspiel in the chorus. Clean cast-album recording, wide stereo pit, close-miked lead. Female mezzo-soprano lead with crisp diction, fast patter in the verses and a bright chest-voice belt in the chorus, a mixed ensemble chorus shouting and singing the answers. 152 BPM, B-flat major. Frantic, cheerful comic panic. No synths, no pop drum loop, no autotune, no rap, no electric guitar.",
+  "lyrics": "[Intro - pit orchestra fanfare and sleigh bells]\n\n[Verse 1 - Female Lead]\nHalf past five in the market square, the urn is on, the stage is set\nThe choir's in their bobble hats, the hog roast isn't ready yet\nI booked the vet off the teatime soap to come and flick the switch\nAt four o'clock he texted, so sorry, hun, the trains have had a hitch\n\n[Pre-Chorus]\nTwo thousand people stamping in the cold\nAnd a countdown clock that says there's ten to go\n\n[Chorus - Ensemble and Lead]\nSomebody press the button!\nSomebody light the tree!\nThe mayor's got the flu and the vet's stuck in Crewe\nAnd everybody's looking at me!\n\n[Verse 2 - Female Lead]\nThe vicar says he'll do it if he gets to say a prayer\nI've heard the vicar's prayers, we'd still be standing in the square\nCouncillor Platt says, me, of course, and the crowd begins to boo\nThen a Labrador in a tinsel collar sits down on my shoe\n\n[Chorus - Ensemble and Lead]\nSomebody press the button!\nBiscuit, paw up, one, two, three!\nThe mayor's got the flu and the vet's stuck in Crewe\nSo it's down to a dog and me!\n\n[Bridge - Ensemble countdown over a snare roll]\nTen, nine, eight, seven, six, five, four, three, two, one!\n\n[Chorus - Ensemble and Lead]\nSomebody pressed the button!\nLook at the lights on the tree!\nThe vet can stay in Crewe, we've got a dog who'll do\nAnd nobody's looking at me!\n\n[Outro - full orchestra, sleigh bells, button ending]\nSame time next year, Biscuit",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 178.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Broadway musical-theatre showtune, an up-tempo comic ensemble number in classic book-musical style. A brassy pit orchestra with bright trumpets and trombones punching the accents; a bouncing stride piano; sweeping strings with pizzicato under the verses; a show-drum kit on snare and brushes with rim-shot hits; sleigh bells and glockenspiel in the chorus. Clean cast-album recording, wide stereo pit, close-miked lead. Female mezzo-soprano lead with crisp diction, fast patter in the verses and a bright chest-voice belt in the chorus, a mixed ensemble chorus shouting and singing the answers. 152 BPM, B-flat major. Frantic, cheerful comic panic. No synths, no pop drum loop, no autotune, no rap, no electric guitar.",
+    "lyrics": "[Intro - pit orchestra fanfare and sleigh bells]\n\n[Verse 1 - Female Lead]\nHalf past five in the market square, the urn is on, the stage is set\nThe choir's in their bobble hats, the hog roast isn't ready yet\nI booked the vet off the teatime soap to come and flick the switch\nAt four o'clock he texted, so sorry, hun, the trains have had a hitch\n\n[Pre-Chorus]\nTwo thousand people stamping in the cold\nAnd a countdown clock that says there's ten to go\n\n[Chorus - Ensemble and Lead]\nSomebody press the button!\nSomebody light the tree!\nThe mayor's got the flu and the vet's stuck in Crewe\nAnd everybody's looking at me!\n\n[Verse 2 - Female Lead]\nThe vicar says he'll do it if he gets to say a prayer\nI've heard the vicar's prayers, we'd still be standing in the square\nCouncillor Platt says, me, of course, and the crowd begins to boo\nThen a Labrador in a tinsel collar sits down on my shoe\n\n[Chorus - Ensemble and Lead]\nSomebody press the button!\nBiscuit, paw up, one, two, three!\nThe mayor's got the flu and the vet's stuck in Crewe\nSo it's down to a dog and me!\n\n[Bridge - Ensemble countdown over a snare roll]\nTen, nine, eight, seven, six, five, four, three, two, one!\n\n[Chorus - Ensemble and Lead]\nSomebody pressed the button!\nLook at the lights on the tree!\nThe vet can stay in Crewe, we've got a dog who'll do\nAnd nobody's looking at me!\n\n[Outro - full orchestra, sleigh bells, button ending]\nSame time next year, Biscuit"
+  },
+  "seed": "1175569071",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 111.65s**\n- 111.65s per song\n- LM phase (1 song): 20.63s\n- DiT phase (1 song): 91.02s",
+  "task_id": "b9486f9c-5067-4723-834d-451846b96d1b",
+  "elapsed_s": 140.2,
+  "generated_at": "2026-10-16T20:10:10.912323+08:00",
+  "audio": "b10_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.12,
+      "end": 26.12,
+      "text": "[Intro - pit orchestra fanfare and sleigh bells]"
+    },
+    {
+      "t": 26.12,
+      "end": 26.12,
+      "text": "[Verse 1 - Female Lead]"
+    },
+    {
+      "t": 26.12,
+      "end": 31.02,
+      "text": "Half past five in the market square, the urn is on, the stage is set"
+    },
+    {
+      "t": 32.6,
+      "end": 36.52,
+      "text": "The choir's in their bobble hats, the hog roast isn't ready yet"
+    },
+    {
+      "t": 36.52,
+      "end": 38.88,
+      "text": "I booked the vet off the teatime soap to come and flick the switch"
+    },
+    {
+      "t": 40.2,
+      "end": 44.18,
+      "text": "At four o'clock he texted, so sorry, hun, the trains have had a hitch"
+    },
+    {
+      "t": 44.18,
+      "end": 44.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.18,
+      "end": 46.33,
+      "text": "Two thousand people stamping in the cold"
+    },
+    {
+      "t": 46.33,
+      "end": 47.75,
+      "text": "And a countdown clock that says there's ten to go"
+    },
+    {
+      "t": 47.75,
+      "end": 47.75,
+      "text": "[Chorus - Ensemble and Lead]"
+    },
+    {
+      "t": 47.75,
+      "end": 48.49,
+      "text": "Somebody press the button!"
+    },
+    {
+      "t": 48.47,
+      "end": 49.33,
+      "text": "Somebody light the tree!"
+    },
+    {
+      "t": 49.33,
+      "end": 52.29,
+      "text": "The mayor's got the flu and the vet's stuck in Crewe"
+    },
+    {
+      "t": 52.29,
+      "end": 53.79,
+      "text": "And everybody's looking at me!"
+    },
+    {
+      "t": 53.79,
+      "end": 53.79,
+      "text": "[Verse 2 - Female Lead]"
+    },
+    {
+      "t": 53.79,
+      "end": 55.23,
+      "text": "The vicar says he'll do it if he gets to say a prayer"
+    },
+    {
+      "t": 55.25,
+      "end": 65.51,
+      "text": "I've heard the vicar's prayers, we'd still be standing in the square"
+    },
+    {
+      "t": 65.61,
+      "end": 69.95,
+      "text": "Councillor Platt says, me, of course, and the crowd begins to boo"
+    },
+    {
+      "t": 69.95,
+      "end": 72.59,
+      "text": "Then a Labrador in a tinsel collar sits down on my shoe"
+    },
+    {
+      "t": 72.59,
+      "end": 72.59,
+      "text": "[Chorus - Ensemble and Lead]"
+    },
+    {
+      "t": 72.59,
+      "end": 74.65,
+      "text": "Somebody press the button!"
+    },
+    {
+      "t": 75.61,
+      "end": 78.19,
+      "text": "Biscuit, paw up, one, two, three!"
+    },
+    {
+      "t": 78.57,
+      "end": 81.39,
+      "text": "The mayor's got the flu and the vet's stuck in Crewe"
+    },
+    {
+      "t": 81.39,
+      "end": 84.23,
+      "text": "So it's down to a dog and me!"
+    },
+    {
+      "t": 85.29,
+      "end": 85.29,
+      "text": "[Bridge - Ensemble countdown over a snare roll]"
+    },
+    {
+      "t": 85.29,
+      "end": 99.25,
+      "text": "Ten, nine, eight, seven, six, five, four, three, two, one!"
+    },
+    {
+      "t": 117.07,
+      "end": 117.07,
+      "text": "[Chorus - Ensemble and Lead]"
+    },
+    {
+      "t": 117.07,
+      "end": 119.25,
+      "text": "Somebody pressed the button!"
+    },
+    {
+      "t": 120.21,
+      "end": 122.01,
+      "text": "Look at the lights on the tree!"
+    },
+    {
+      "t": 123.15,
+      "end": 128.91,
+      "text": "The vet can stay in Crewe, we've got a dog who'll do"
+    },
+    {
+      "t": 129.23,
+      "end": 143.4,
+      "text": "And nobody's looking at me!"
+    },
+    {
+      "t": 144.62,
+      "end": 144.62,
+      "text": "[Outro - full orchestra, sleigh bells, button ending]"
+    },
+    {
+      "t": 144.62,
+      "end": 173.08,
+      "text": "Same time next year, Biscuit"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.12,
+      "end": 26.12,
+      "text": "[Intro - pit orchestra fanfare and sleigh bells]"
+    },
+    {
+      "t": 26.12,
+      "end": 26.12,
+      "text": "[Verse 1 - Female Lead]"
+    },
+    {
+      "t": 26.12,
+      "end": 31.02,
+      "text": "Half past five in the market square, the urn is on, the stage is set"
+    },
+    {
+      "t": 32.6,
+      "end": 37.94,
+      "text": "The choir's in their bobble hats, the hog roast isn't ready yet"
+    },
+    {
+      "t": 38.2,
+      "end": 40.14,
+      "text": "I booked the vet off the teatime soap to come and flick the switch"
+    },
+    {
+      "t": 40.2,
+      "end": 44.18,
+      "text": "At four o'clock he texted, so sorry, hun, the trains have had a hitch"
+    },
+    {
+      "t": 44.18,
+      "end": 44.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.18,
+      "end": 46.33,
+      "text": "Two thousand people stamping in the cold"
+    },
+    {
+      "t": 46.33,
+      "end": 47.75,
+      "text": "And a countdown clock that says there's ten to go"
+    },
+    {
+      "t": 47.75,
+      "end": 47.75,
+      "text": "[Chorus - Ensemble and Lead]"
+    },
+    {
+      "t": 47.75,
+      "end": 48.49,
+      "text": "Somebody press the button!"
+    },
+    {
+      "t": 48.49,
+      "end": 49.33,
+      "text": "Somebody light the tree!"
+    },
+    {
+      "t": 49.33,
+      "end": 51.91,
+      "text": "The mayor's got the flu and the vet's stuck in Crewe"
+    },
+    {
+      "t": 51.91,
+      "end": 53.61,
+      "text": "And everybody's looking at me!"
+    },
+    {
+      "t": 53.61,
+      "end": 53.61,
+      "text": "[Verse 2 - Female Lead]"
+    },
+    {
+      "t": 53.61,
+      "end": 55.01,
+      "text": "The vicar says he'll do it if he gets to say a prayer"
+    },
+    {
+      "t": 55.03,
+      "end": 64.65,
+      "text": "I've heard the vicar's prayers, we'd still be standing in the square"
+    },
+    {
+      "t": 64.81,
+      "end": 70.27,
+      "text": "Councillor Platt says, me, of course, and the crowd begins to boo"
+    },
+    {
+      "t": 70.55,
+      "end": 97.51,
+      "text": "Then a Labrador in a tinsel collar sits down on my shoe"
+    },
+    {
+      "t": 117.09,
+      "end": 117.09,
+      "text": "[Chorus - Ensemble and Lead]"
+    },
+    {
+      "t": 117.09,
+      "end": 123.39,
+      "text": "Somebody press the button!"
+    },
+    {
+      "t": 123.43,
+      "end": 124.35,
+      "text": "Biscuit, paw up, one, two, three!"
+    },
+    {
+      "t": 124.35,
+      "end": 126.19,
+      "text": "The mayor's got the flu and the vet's stuck in Crewe"
+    },
+    {
+      "t": 126.19,
+      "end": 127.17,
+      "text": "So it's down to a dog and me!"
+    },
+    {
+      "t": 127.17,
+      "end": 127.17,
+      "text": "[Bridge - Ensemble countdown over a snare roll]"
+    },
+    {
+      "t": 127.17,
+      "end": 138.66,
+      "text": "Ten, nine, eight, seven, six, five, four, three, two, one!"
+    },
+    {
+      "t": 138.68,
+      "end": 138.68,
+      "text": "[Chorus - Ensemble and Lead]"
+    },
+    {
+      "t": 138.68,
+      "end": 141.72,
+      "text": "Somebody pressed the button!"
+    },
+    {
+      "t": 141.76,
+      "end": 143.52,
+      "text": "Look at the lights on the tree!"
+    },
+    {
+      "t": 144.46,
+      "end": 157.98,
+      "text": "The vet can stay in Crewe, we've got a dog who'll do"
+    },
+    {
+      "t": 158.9,
+      "end": 167.32,
+      "text": "And nobody's looking at me!"
+    },
+    {
+      "t": 169.9,
+      "end": 169.9,
+      "text": "[Outro - full orchestra, sleigh bells, button ending]"
+    },
+    {
+      "t": 169.9,
+      "end": 173.06,
+      "text": "Same time next year, Biscuit"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

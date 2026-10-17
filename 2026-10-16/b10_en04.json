@@ -1,0 +1,367 @@
+{
+  "id": "b10_en04",
+  "title": "Up To My Shoulder",
+  "title_source": "scripted",
+  "genre": "Delta blues",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sweaty, boastful and rueful",
+  "persona": "",
+  "subject": "a Mississippi Delta man noodling for a flathead catfish under a cypress log in the Sunflower River with his bare arm, and the forty-one-pound fish that bites back",
+  "caption": "Raw acoustic Mississippi Delta blues in the pre-war juke-joint style, as revived in the mid-2020s. A metal-bodied resonator guitar played with a bottleneck slide in open G, the thumb thumping a droning bass string; a cupped, overblown harmonica answering each line; a heel stomping a loose shuffle on wooden boards; a low upright bass entering in the last verse. Dry, close-miked room with floor creak and a little bleed. Male baritone, gravelly and hollering, with bent blue notes, moans and a hummed refrain. 84 BPM, G major. Sweaty, boastful and rueful. No drum kit, no electric guitar, no rock beat, no gospel choir, no modern R&B polish.",
+  "lyrics": "[Intro - bottleneck slide guitar and foot stomp, hummed]\n\n[Verse 1]\nSunflower River running low and brown as tea\nSunflower River running low and brown as tea\nThere's a flathead under that cypress log, and he's been waiting just for me\n\n[Pre-Chorus]\nTook my boots off, told my cousin, hold my hat\n\n[Chorus]\nI'm going in up to my shoulder, Lord\nRiver up to my chin\nThat fish has got a mouth like a mailbox\nAnd I'm fixing to put my whole arm in\n\n[Verse 2]\nFelt along that cypress where the water's cool and black\nFelt along that cypress where the water's cool and black\nSomething grabbed me by the wrist like a screen door slamming back\n\n[Chorus]\nI'm in it up to my shoulder, Lord\nRiver up to my chin\nForty pounds of flathead holding on\nAnd I can't tell who's reeling who in\n\n[Verse 3 - upright bass enters]\nWeighed him at the bait shop, forty-one and a quarter\nWeighed him at the bait shop, forty-one and a quarter\nMy arm looks like a chewed-up dog toy, and I'm going back for his daughter\n\n[Instrumental Break - harmonica]\n\n[Chorus]\nI'll be in up to my shoulder, Lord\nCome Saturday again\nMy wife says buy a rod and reel like a normal man\nI say, then how'm I gonna shake hands with his kin\n\n[Outro - hummed, slide fading]\nMm, Sunflower River, mm",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "2",
+    "prompt": "Raw acoustic Mississippi Delta blues in the pre-war juke-joint style, as revived in the mid-2020s. A metal-bodied resonator guitar played with a bottleneck slide in open G, the thumb thumping a droning bass string; a cupped, overblown harmonica answering each line; a heel stomping a loose shuffle on wooden boards; a low upright bass entering in the last verse. Dry, close-miked room with floor creak and a little bleed. Male baritone, gravelly and hollering, with bent blue notes, moans and a hummed refrain. 84 BPM, G major. Sweaty, boastful and rueful. No drum kit, no electric guitar, no rock beat, no gospel choir, no modern R&B polish.",
+    "lyrics": "[Intro - bottleneck slide guitar and foot stomp, hummed]\n\n[Verse 1]\nSunflower River running low and brown as tea\nSunflower River running low and brown as tea\nThere's a flathead under that cypress log, and he's been waiting just for me\n\n[Pre-Chorus]\nTook my boots off, told my cousin, hold my hat\n\n[Chorus]\nI'm going in up to my shoulder, Lord\nRiver up to my chin\nThat fish has got a mouth like a mailbox\nAnd I'm fixing to put my whole arm in\n\n[Verse 2]\nFelt along that cypress where the water's cool and black\nFelt along that cypress where the water's cool and black\nSomething grabbed me by the wrist like a screen door slamming back\n\n[Chorus]\nI'm in it up to my shoulder, Lord\nRiver up to my chin\nForty pounds of flathead holding on\nAnd I can't tell who's reeling who in\n\n[Verse 3 - upright bass enters]\nWeighed him at the bait shop, forty-one and a quarter\nWeighed him at the bait shop, forty-one and a quarter\nMy arm looks like a chewed-up dog toy, and I'm going back for his daughter\n\n[Instrumental Break - harmonica]\n\n[Chorus]\nI'll be in up to my shoulder, Lord\nCome Saturday again\nMy wife says buy a rod and reel like a normal man\nI say, then how'm I gonna shake hands with his kin\n\n[Outro - hummed, slide fading]\nMm, Sunflower River, mm"
+  },
+  "seed": "2080908440",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 122.37s**\n- 122.37s per song\n- LM phase (1 song): 19.11s\n- DiT phase (1 song): 103.26s",
+  "task_id": "a742194e-4051-4836-96b4-fae555971faa",
+  "elapsed_s": 150.4,
+  "generated_at": "2026-10-16T20:12:41.296514+08:00",
+  "audio": "b10_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.8,
+      "end": 23.8,
+      "text": "[Intro - bottleneck slide guitar and foot stomp, hummed]"
+    },
+    {
+      "t": 23.8,
+      "end": 23.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.8,
+      "end": 26.6,
+      "text": "Sunflower River running low and brown as tea"
+    },
+    {
+      "t": 28.48,
+      "end": 35.64,
+      "text": "Sunflower River running low and brown as tea"
+    },
+    {
+      "t": 35.64,
+      "end": 38.66,
+      "text": "There's a flathead under that cypress log, and he's been waiting just for me"
+    },
+    {
+      "t": 38.66,
+      "end": 38.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.66,
+      "end": 48.2,
+      "text": "Took my boots off, told my cousin, hold my hat"
+    },
+    {
+      "t": 48.22,
+      "end": 48.22,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.22,
+      "end": 50.44,
+      "text": "I'm going in up to my shoulder, Lord"
+    },
+    {
+      "t": 53.77,
+      "end": 55.51,
+      "text": "River up to my chin"
+    },
+    {
+      "t": 59.07,
+      "end": 61.59,
+      "text": "That fish has got a mouth like a mailbox"
+    },
+    {
+      "t": 63.05,
+      "end": 66.67,
+      "text": "And I'm fixing to put my whole arm in"
+    },
+    {
+      "t": 72.53,
+      "end": 72.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.53,
+      "end": 77.05,
+      "text": "Felt along that cypress where the water's cool and black"
+    },
+    {
+      "t": 78.25,
+      "end": 82.79,
+      "text": "Felt along that cypress where the water's cool and black"
+    },
+    {
+      "t": 83.27,
+      "end": 87.15,
+      "text": "Something grabbed me by the wrist like a screen door slamming back"
+    },
+    {
+      "t": 90.11,
+      "end": 90.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.11,
+      "end": 95.77,
+      "text": "I'm in it up to my shoulder, Lord"
+    },
+    {
+      "t": 95.77,
+      "end": 98.13,
+      "text": "River up to my chin"
+    },
+    {
+      "t": 101.41,
+      "end": 104.35,
+      "text": "Forty pounds of flathead holding on"
+    },
+    {
+      "t": 106.67,
+      "end": 109.63,
+      "text": "And I can't tell who's reeling who in"
+    },
+    {
+      "t": 109.63,
+      "end": 109.63,
+      "text": "[Verse 3 - upright bass enters]"
+    },
+    {
+      "t": 109.63,
+      "end": 112.85,
+      "text": "Weighed him at the bait shop, forty-one and a quarter"
+    },
+    {
+      "t": 112.85,
+      "end": 115.47,
+      "text": "Weighed him at the bait shop, forty-one and a quarter"
+    },
+    {
+      "t": 118.01,
+      "end": 145.73,
+      "text": "My arm looks like a chewed-up dog toy, and I'm going back for his daughter"
+    },
+    {
+      "t": 145.77,
+      "end": 145.77,
+      "text": "[Instrumental Break - harmonica]"
+    },
+    {
+      "t": 145.77,
+      "end": 145.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.77,
+      "end": 147.79,
+      "text": "I'll be in up to my shoulder, Lord"
+    },
+    {
+      "t": 148.85,
+      "end": 150.25,
+      "text": "Come Saturday again"
+    },
+    {
+      "t": 156.69,
+      "end": 160.9,
+      "text": "My wife says buy a rod and reel like a normal man"
+    },
+    {
+      "t": 162.36,
+      "end": 166.74,
+      "text": "I say, then how'm I gonna shake hands with his kin"
+    },
+    {
+      "t": 190.32,
+      "end": 190.32,
+      "text": "[Outro - hummed, slide fading]"
+    },
+    {
+      "t": 190.32,
+      "end": 202.28,
+      "text": "Mm, Sunflower River, mm"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.8,
+      "end": 23.8,
+      "text": "[Intro - bottleneck slide guitar and foot stomp, hummed]"
+    },
+    {
+      "t": 23.8,
+      "end": 23.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.8,
+      "end": 26.56,
+      "text": "Sunflower River running low and brown as tea"
+    },
+    {
+      "t": 28.5,
+      "end": 30.28,
+      "text": "Sunflower River running low and brown as tea"
+    },
+    {
+      "t": 30.3,
+      "end": 37.0,
+      "text": "There's a flathead under that cypress log, and he's been waiting just for me"
+    },
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.0,
+      "end": 47.82,
+      "text": "Took my boots off, told my cousin, hold my hat"
+    },
+    {
+      "t": 47.82,
+      "end": 47.82,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.82,
+      "end": 50.94,
+      "text": "I'm going in up to my shoulder, Lord"
+    },
+    {
+      "t": 53.77,
+      "end": 55.53,
+      "text": "River up to my chin"
+    },
+    {
+      "t": 59.07,
+      "end": 61.57,
+      "text": "That fish has got a mouth like a mailbox"
+    },
+    {
+      "t": 63.07,
+      "end": 66.65,
+      "text": "And I'm fixing to put my whole arm in"
+    },
+    {
+      "t": 72.51,
+      "end": 72.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.51,
+      "end": 77.05,
+      "text": "Felt along that cypress where the water's cool and black"
+    },
+    {
+      "t": 78.25,
+      "end": 82.83,
+      "text": "Felt along that cypress where the water's cool and black"
+    },
+    {
+      "t": 83.27,
+      "end": 87.15,
+      "text": "Something grabbed me by the wrist like a screen door slamming back"
+    },
+    {
+      "t": 90.11,
+      "end": 90.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.11,
+      "end": 92.91,
+      "text": "I'm in it up to my shoulder, Lord"
+    },
+    {
+      "t": 95.75,
+      "end": 98.13,
+      "text": "River up to my chin"
+    },
+    {
+      "t": 101.41,
+      "end": 104.37,
+      "text": "Forty pounds of flathead holding on"
+    },
+    {
+      "t": 106.67,
+      "end": 109.63,
+      "text": "And I can't tell who's reeling who in"
+    },
+    {
+      "t": 109.63,
+      "end": 109.63,
+      "text": "[Verse 3 - upright bass enters]"
+    },
+    {
+      "t": 109.63,
+      "end": 113.41,
+      "text": "Weighed him at the bait shop, forty-one and a quarter"
+    },
+    {
+      "t": 113.41,
+      "end": 118.69,
+      "text": "Weighed him at the bait shop, forty-one and a quarter"
+    },
+    {
+      "t": 118.69,
+      "end": 145.73,
+      "text": "My arm looks like a chewed-up dog toy, and I'm going back for his daughter"
+    },
+    {
+      "t": 145.77,
+      "end": 145.77,
+      "text": "[Instrumental Break - harmonica]"
+    },
+    {
+      "t": 145.77,
+      "end": 145.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.77,
+      "end": 147.79,
+      "text": "I'll be in up to my shoulder, Lord"
+    },
+    {
+      "t": 148.85,
+      "end": 150.33,
+      "text": "Come Saturday again"
+    },
+    {
+      "t": 156.71,
+      "end": 160.88,
+      "text": "My wife says buy a rod and reel like a normal man"
+    },
+    {
+      "t": 161.22,
+      "end": 166.76,
+      "text": "I say, then how'm I gonna shake hands with his kin"
+    },
+    {
+      "t": 190.32,
+      "end": 190.32,
+      "text": "[Outro - hummed, slide fading]"
+    },
+    {
+      "t": 190.32,
+      "end": 202.62,
+      "text": "Mm, Sunflower River, mm"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

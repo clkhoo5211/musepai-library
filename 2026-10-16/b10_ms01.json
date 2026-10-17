@@ -1,0 +1,367 @@
+{
+  "id": "b10_ms01",
+  "title": "Tuala Merah",
+  "title_source": "scripted",
+  "genre": "romantic bolero (mariachi-trumpet Latin ballad)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "tender, proud and a little lovesick",
+  "persona": "",
+  "subject": "a tower-crane operator on a Bukit Jalil building site who watches his flat through cheap binoculars from the cab forty storeys up, where his wife hangs a red towel on the balcony rail at noon every day",
+  "caption": "Romantic bolero, a slow Latin ballad with mariachi trumpets. A nylon-string requinto guitar playing ornamented runs between the lines; a second nylon guitar strumming the bolero rhythm; bongos and maracas keeping the bolero pattern soft and steady; two mariachi trumpets answering in thirds at the end of each chorus; a string section holding long notes and swelling into the choruses. Warm live-room recording, guitars and voice close, trumpets slightly back with a natural hall tail, strings soft and wide. Male baritone crooner, warm and close to the mic, stretching phrases with gentle rubato and opening up in the chorus. 80 BPM, A minor. Tender, proud and a little lovesick, forty storeys up. No piano, no trap beat, no reggaeton dembow, no autotune, no synth pads, no rock drum kit.",
+  "lyrics": "[Intro - requinto guitar run and soft strings]\n\n[Verse 1]\nPukul tujuh aku panjat tangga besi\nEmpat puluh tingkat, langit KL masih kelabu\nDari kabin kren semua nampak kecil\nLori simen, topi kuning, kereta beratur\n\n[Pre-Chorus]\nTeropong murah beli kat Petaling Street\nAku cari tingkat sembilan, balkoni ketiga\n\n[Chorus]\nTuala merah di pagar balkoni\nKau sidai tepat tengah hari\nOrang lain nampak kain basah\nAku dengar, \"Abang, saya kat sini\"\n\n[Verse 2]\nIsnin lepas hujan turun dari subuh\nKerja berhenti, aku duduk dalam kabin\nPukul dua belas aku tak harap apa-apa\nTapi merah itu naik juga, basah lencun\n\n[Chorus]\nTuala merah di pagar balkoni\nKau sidai juga dalam hujan lebat\nOrang lain nampak kain basah\nAku dengar, \"Abang, saya tunggu\"\n\n[Bridge - trumpets and strings swell]\nHari ni ada kain lain kat sebelah\nMandur panggil, aku langsung tak dengar\n\n[Chorus]\nTuala merah di pagar balkoni\nDan sehelai baju kecil warna putih\nOrang lain nampak kain basah\nAku dengar, \"Abang, kita dah bertiga\"\n\n[Outro - requinto guitar and trumpets, fading]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 80,
+    "duration": 212.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Romantic bolero, a slow Latin ballad with mariachi trumpets. A nylon-string requinto guitar playing ornamented runs between the lines; a second nylon guitar strumming the bolero rhythm; bongos and maracas keeping the bolero pattern soft and steady; two mariachi trumpets answering in thirds at the end of each chorus; a string section holding long notes and swelling into the choruses. Warm live-room recording, guitars and voice close, trumpets slightly back with a natural hall tail, strings soft and wide. Male baritone crooner, warm and close to the mic, stretching phrases with gentle rubato and opening up in the chorus. 80 BPM, A minor. Tender, proud and a little lovesick, forty storeys up. No piano, no trap beat, no reggaeton dembow, no autotune, no synth pads, no rock drum kit.",
+    "lyrics": "[Intro - requinto guitar run and soft strings]\n\n[Verse 1]\nPukul tujuh aku panjat tangga besi\nEmpat puluh tingkat, langit KL masih kelabu\nDari kabin kren semua nampak kecil\nLori simen, topi kuning, kereta beratur\n\n[Pre-Chorus]\nTeropong murah beli kat Petaling Street\nAku cari tingkat sembilan, balkoni ketiga\n\n[Chorus]\nTuala merah di pagar balkoni\nKau sidai tepat tengah hari\nOrang lain nampak kain basah\nAku dengar, \"Abang, saya kat sini\"\n\n[Verse 2]\nIsnin lepas hujan turun dari subuh\nKerja berhenti, aku duduk dalam kabin\nPukul dua belas aku tak harap apa-apa\nTapi merah itu naik juga, basah lencun\n\n[Chorus]\nTuala merah di pagar balkoni\nKau sidai juga dalam hujan lebat\nOrang lain nampak kain basah\nAku dengar, \"Abang, saya tunggu\"\n\n[Bridge - trumpets and strings swell]\nHari ni ada kain lain kat sebelah\nMandur panggil, aku langsung tak dengar\n\n[Chorus]\nTuala merah di pagar balkoni\nDan sehelai baju kecil warna putih\nOrang lain nampak kain basah\nAku dengar, \"Abang, kita dah bertiga\"\n\n[Outro - requinto guitar and trumpets, fading]"
+  },
+  "seed": "690845920",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 95.18s**\n- 95.18s per song\n- LM phase (1 song): 21.74s\n- DiT phase (1 song): 73.44s",
+  "task_id": "db37a097-ff86-4c32-9220-366edf375f6a",
+  "elapsed_s": 130.2,
+  "generated_at": "2026-10-16T19:27:31.847001+08:00",
+  "audio": "b10_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Intro - requinto guitar run and soft strings]"
+    },
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.82,
+      "end": 33.46,
+      "text": "Pukul tujuh aku panjat tangga besi"
+    },
+    {
+      "t": 35.44,
+      "end": 46.0,
+      "text": "Empat puluh tingkat, langit KL masih kelabu"
+    },
+    {
+      "t": 47.38,
+      "end": 51.08,
+      "text": "Dari kabin kren semua nampak kecil"
+    },
+    {
+      "t": 52.86,
+      "end": 56.95,
+      "text": "Lori simen, topi kuning, kereta beratur"
+    },
+    {
+      "t": 56.97,
+      "end": 56.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.97,
+      "end": 58.07,
+      "text": "Teropong murah beli kat Petaling Street"
+    },
+    {
+      "t": 58.07,
+      "end": 59.13,
+      "text": "Aku cari tingkat sembilan, balkoni ketiga"
+    },
+    {
+      "t": 59.13,
+      "end": 59.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.13,
+      "end": 62.35,
+      "text": "Tuala merah di pagar balkoni"
+    },
+    {
+      "t": 64.61,
+      "end": 68.53,
+      "text": "Kau sidai tepat tengah hari"
+    },
+    {
+      "t": 70.95,
+      "end": 76.25,
+      "text": "Orang lain nampak kain basah"
+    },
+    {
+      "t": 76.33,
+      "end": 83.35,
+      "text": "Aku dengar, \"Abang, saya kat sini\""
+    },
+    {
+      "t": 83.47,
+      "end": 83.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.47,
+      "end": 85.47,
+      "text": "Isnin lepas hujan turun dari subuh"
+    },
+    {
+      "t": 88.21,
+      "end": 92.63,
+      "text": "Kerja berhenti, aku duduk dalam kabin"
+    },
+    {
+      "t": 95.17,
+      "end": 99.79,
+      "text": "Pukul dua belas aku tak harap apa-apa"
+    },
+    {
+      "t": 100.81,
+      "end": 106.09,
+      "text": "Tapi merah itu naik juga, basah lencun"
+    },
+    {
+      "t": 106.21,
+      "end": 106.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.21,
+      "end": 110.33,
+      "text": "Tuala merah di pagar balkoni"
+    },
+    {
+      "t": 111.83,
+      "end": 116.45,
+      "text": "Kau sidai juga dalam hujan lebat"
+    },
+    {
+      "t": 121.87,
+      "end": 127.19,
+      "text": "Orang lain nampak kain basah"
+    },
+    {
+      "t": 127.29,
+      "end": 131.39,
+      "text": "Aku dengar, \"Abang, saya tunggu\""
+    },
+    {
+      "t": 133.85,
+      "end": 133.85,
+      "text": "[Bridge - trumpets and strings swell]"
+    },
+    {
+      "t": 133.85,
+      "end": 143.27,
+      "text": "Hari ni ada kain lain kat sebelah"
+    },
+    {
+      "t": 144.87,
+      "end": 153.59,
+      "text": "Mandur panggil, aku langsung tak dengar"
+    },
+    {
+      "t": 155.35,
+      "end": 155.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 155.35,
+      "end": 165.36,
+      "text": "Tuala merah di pagar balkoni"
+    },
+    {
+      "t": 166.76,
+      "end": 171.3,
+      "text": "Dan sehelai baju kecil warna putih"
+    },
+    {
+      "t": 173.24,
+      "end": 178.54,
+      "text": "Orang lain nampak kain basah"
+    },
+    {
+      "t": 178.64,
+      "end": 185.8,
+      "text": "Aku dengar, \"Abang, kita dah bertiga\""
+    },
+    {
+      "t": 185.8,
+      "end": 185.8,
+      "text": "[Outro - requinto guitar and trumpets, fading]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Intro - requinto guitar run and soft strings]"
+    },
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.82,
+      "end": 33.46,
+      "text": "Pukul tujuh aku panjat tangga besi"
+    },
+    {
+      "t": 35.44,
+      "end": 46.0,
+      "text": "Empat puluh tingkat, langit KL masih kelabu"
+    },
+    {
+      "t": 47.38,
+      "end": 50.76,
+      "text": "Dari kabin kren semua nampak kecil"
+    },
+    {
+      "t": 52.86,
+      "end": 56.97,
+      "text": "Lori simen, topi kuning, kereta beratur"
+    },
+    {
+      "t": 56.97,
+      "end": 56.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.97,
+      "end": 57.77,
+      "text": "Teropong murah beli kat Petaling Street"
+    },
+    {
+      "t": 57.77,
+      "end": 58.57,
+      "text": "Aku cari tingkat sembilan, balkoni ketiga"
+    },
+    {
+      "t": 58.57,
+      "end": 58.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.57,
+      "end": 62.35,
+      "text": "Tuala merah di pagar balkoni"
+    },
+    {
+      "t": 64.61,
+      "end": 68.53,
+      "text": "Kau sidai tepat tengah hari"
+    },
+    {
+      "t": 70.93,
+      "end": 74.81,
+      "text": "Orang lain nampak kain basah"
+    },
+    {
+      "t": 76.33,
+      "end": 83.31,
+      "text": "Aku dengar, \"Abang, saya kat sini\""
+    },
+    {
+      "t": 83.33,
+      "end": 83.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.33,
+      "end": 86.31,
+      "text": "Isnin lepas hujan turun dari subuh"
+    },
+    {
+      "t": 88.21,
+      "end": 92.65,
+      "text": "Kerja berhenti, aku duduk dalam kabin"
+    },
+    {
+      "t": 95.17,
+      "end": 99.79,
+      "text": "Pukul dua belas aku tak harap apa-apa"
+    },
+    {
+      "t": 100.81,
+      "end": 106.19,
+      "text": "Tapi merah itu naik juga, basah lencun"
+    },
+    {
+      "t": 106.19,
+      "end": 106.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.19,
+      "end": 110.33,
+      "text": "Tuala merah di pagar balkoni"
+    },
+    {
+      "t": 111.85,
+      "end": 119.61,
+      "text": "Kau sidai juga dalam hujan lebat"
+    },
+    {
+      "t": 121.89,
+      "end": 127.19,
+      "text": "Orang lain nampak kain basah"
+    },
+    {
+      "t": 127.29,
+      "end": 131.41,
+      "text": "Aku dengar, \"Abang, saya tunggu\""
+    },
+    {
+      "t": 133.85,
+      "end": 133.85,
+      "text": "[Bridge - trumpets and strings swell]"
+    },
+    {
+      "t": 133.85,
+      "end": 137.35,
+      "text": "Hari ni ada kain lain kat sebelah"
+    },
+    {
+      "t": 139.75,
+      "end": 153.57,
+      "text": "Mandur panggil, aku langsung tak dengar"
+    },
+    {
+      "t": 155.35,
+      "end": 155.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 155.35,
+      "end": 158.79,
+      "text": "Tuala merah di pagar balkoni"
+    },
+    {
+      "t": 160.94,
+      "end": 171.34,
+      "text": "Dan sehelai baju kecil warna putih"
+    },
+    {
+      "t": 173.2,
+      "end": 178.54,
+      "text": "Orang lain nampak kain basah"
+    },
+    {
+      "t": 178.64,
+      "end": 185.8,
+      "text": "Aku dengar, \"Abang, kita dah bertiga\""
+    },
+    {
+      "t": 185.8,
+      "end": 185.8,
+      "text": "[Outro - requinto guitar and trumpets, fading]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

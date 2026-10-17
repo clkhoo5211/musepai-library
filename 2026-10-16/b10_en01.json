@@ -1,0 +1,534 @@
+{
+  "id": "b10_en01",
+  "title": "Ring-Pull",
+  "title_source": "scripted",
+  "genre": "UK heartland rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "windswept, tender and stubborn",
+  "persona": "",
+  "subject": "a man combing Tynemouth Longsands with a borrowed metal detector for the wedding ring he lost swimming, while his wife on the steps offers to marry him again with a ring-pull",
+  "caption": "UK heartland rock in the mid-2020s North East England guitar-anthem style. A chiming Telecaster with dotted-eighth delay playing a ringing arpeggio riff; a driving eighth-note picked bass; live drums with a steady kick and open hi-hat that build into crashing choruses; a tenor saxophone answering the vocal and taking a wailing solo; a Hammond organ swelling underneath. Big but honest band-in-a-room mix, wide guitars, roomy drums, no gloss. Male tenor with a broad Geordie accent, plain-spoken in the verses, rising to a strained, open-throated high belt in the chorus. 128 BPM, D major. Windswept, tender and stubborn. No synth pads, no programmed drums, no autotune, no country twang, no pop-punk.",
+  "lyrics": "[Intro - chiming delay guitar, kick drum and tenor sax]\n\n[Verse 1]\nI ran into the North Sea like I was still seventeen\nCame out with my hands gone numb and my wedding finger clean\nBorrowed Kenny's detector and his little garden spade\nNow every beep's a ring-pull or a two-p from the arcade\n\n[Pre-Chorus]\nAnd she's sat on the steps with a flask, shouting, love, that's enough\n\n[Chorus]\nShe says, marry me again with a ring-pull\nBend it round your finger, that'll do\nI'd say yes again on the Longsands\nWith the dog walkers watching and the lifeguard too\n\n[Verse 2]\nThree hours on the tideline and the light's gone thin and grey\nFound a car key and a lighter and a penny worn away\nThe lifeguard's packing up his flags and asks me what I've lost\nI tell him just the one thing that I swore I'd never take off\n\n[Chorus]\nShe says, marry me again with a ring-pull\nTwists one off her can of Coke, there, that'll do\nI'd say yes again on the Longsands\nShe says, the gold one was always loose on you\n\n[Bridge - sax solo, then half-time]\nI said, what if it's a sign, love, losing it like that\nShe said, it's only metal, pet, it's not us, now put your hat on\n\n[Chorus]\nShe says, marry me again with a ring-pull\nI'm on one knee in the wet sand in my jeans\nWe both say yes at the same time\nAnd Kenny's detector by my knee starts to beep\n\n[Outro - guitars ringing out, sax]\nLeave it, love, leave it there",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 222.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "UK heartland rock in the mid-2020s North East England guitar-anthem style. A chiming Telecaster with dotted-eighth delay playing a ringing arpeggio riff; a driving eighth-note picked bass; live drums with a steady kick and open hi-hat that build into crashing choruses; a tenor saxophone answering the vocal and taking a wailing solo; a Hammond organ swelling underneath. Big but honest band-in-a-room mix, wide guitars, roomy drums, no gloss. Male tenor with a broad Geordie accent, plain-spoken in the verses, rising to a strained, open-throated high belt in the chorus. 128 BPM, D major. Windswept, tender and stubborn. No synth pads, no programmed drums, no autotune, no country twang, no pop-punk.",
+    "lyrics": "[Intro - chiming delay guitar, kick drum and tenor sax]\n\n[Verse 1]\nI ran into the North Sea like I was still seventeen\nCame out with my hands gone numb and my wedding finger clean\nBorrowed Kenny's detector and his little garden spade\nNow every beep's a ring-pull or a two-p from the arcade\n\n[Pre-Chorus]\nAnd she's sat on the steps with a flask, shouting, love, that's enough\n\n[Chorus]\nShe says, marry me again with a ring-pull\nBend it round your finger, that'll do\nI'd say yes again on the Longsands\nWith the dog walkers watching and the lifeguard too\n\n[Verse 2]\nThree hours on the tideline and the light's gone thin and grey\nFound a car key and a lighter and a penny worn away\nThe lifeguard's packing up his flags and asks me what I've lost\nI tell him just the one thing that I swore I'd never take off\n\n[Chorus]\nShe says, marry me again with a ring-pull\nTwists one off her can of Coke, there, that'll do\nI'd say yes again on the Longsands\nShe says, the gold one was always loose on you\n\n[Bridge - sax solo, then half-time]\nI said, what if it's a sign, love, losing it like that\nShe said, it's only metal, pet, it's not us, now put your hat on\n\n[Chorus]\nShe says, marry me again with a ring-pull\nI'm on one knee in the wet sand in my jeans\nWe both say yes at the same time\nAnd Kenny's detector by my knee starts to beep\n\n[Outro - guitars ringing out, sax]\nLeave it, love, leave it there"
+  },
+  "seed": "600919746",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 104.61s**\n- 104.61s per song\n- LM phase (1 song): 17.86s\n- DiT phase (1 song): 86.75s",
+  "task_id": "b1a3e6c6-c088-41a7-b3fb-069e693997d1",
+  "elapsed_s": 141.4,
+  "generated_at": "2026-10-16T20:05:20.468081+08:00",
+  "audio": "b10_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.04,
+      "end": 36.04,
+      "text": "[Intro - chiming delay guitar, kick drum and tenor sax]"
+    },
+    {
+      "t": 36.04,
+      "end": 36.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.04,
+      "end": 41.8,
+      "text": "I ran into the North Sea like I was still seventeen"
+    },
+    {
+      "t": 43.58,
+      "end": 48.4,
+      "text": "Came out with my hands gone numb and my wedding finger clean"
+    },
+    {
+      "t": 48.4,
+      "end": 50.02,
+      "text": "Borrowed Kenny's detector and his little garden spade"
+    },
+    {
+      "t": 50.02,
+      "end": 55.08,
+      "text": "Now every beep's a ring-pull or a two-p from the arcade"
+    },
+    {
+      "t": 57.97,
+      "end": 57.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.97,
+      "end": 66.25,
+      "text": "And she's sat on the steps with a flask, shouting, love, that's enough"
+    },
+    {
+      "t": 72.63,
+      "end": 72.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.63,
+      "end": 75.89,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 75.95,
+      "end": 78.49,
+      "text": "Bend it round your finger, that'll do"
+    },
+    {
+      "t": 80.11,
+      "end": 81.95,
+      "text": "I'd say yes again on the Longsands"
+    },
+    {
+      "t": 82.29,
+      "end": 88.57,
+      "text": "With the dog walkers watching and the lifeguard too"
+    },
+    {
+      "t": 89.71,
+      "end": 89.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.71,
+      "end": 95.07,
+      "text": "Three hours on the tideline and the light's gone thin and grey"
+    },
+    {
+      "t": 95.09,
+      "end": 100.55,
+      "text": "Found a car key and a lighter and a penny worn away"
+    },
+    {
+      "t": 102.61,
+      "end": 110.19,
+      "text": "The lifeguard's packing up his flags and asks me what I've lost"
+    },
+    {
+      "t": 110.19,
+      "end": 115.63,
+      "text": "I tell him just the one thing that I swore I'd never take off"
+    },
+    {
+      "t": 117.57,
+      "end": 117.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.57,
+      "end": 120.27,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 120.57,
+      "end": 121.91,
+      "text": "Twists one off her can of Coke, there, that'll do"
+    },
+    {
+      "t": 121.91,
+      "end": 123.03,
+      "text": "I'd say yes again on the Longsands"
+    },
+    {
+      "t": 125.05,
+      "end": 129.75,
+      "text": "She says, the gold one was always loose on you"
+    },
+    {
+      "t": 148.55,
+      "end": 148.55,
+      "text": "[Bridge - sax solo, then half-time]"
+    },
+    {
+      "t": 148.55,
+      "end": 153.89,
+      "text": "I said, what if it's a sign, love, losing it like that"
+    },
+    {
+      "t": 155.75,
+      "end": 161.51,
+      "text": "She said, it's only metal, pet, it's not us, now put your hat on"
+    },
+    {
+      "t": 168.6,
+      "end": 168.6,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.6,
+      "end": 173.78,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 178.08,
+      "end": 182.98,
+      "text": "I'm on one knee in the wet sand in my jeans"
+    },
+    {
+      "t": 183.68,
+      "end": 188.92,
+      "text": "We both say yes at the same time"
+    },
+    {
+      "t": 190.72,
+      "end": 198.3,
+      "text": "And Kenny's detector by my knee starts to beep"
+    },
+    {
+      "t": 198.42,
+      "end": 198.42,
+      "text": "[Outro - guitars ringing out, sax]"
+    },
+    {
+      "t": 198.42,
+      "end": 210.02,
+      "text": "Leave it, love, leave it there"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.04,
+      "end": 36.04,
+      "text": "[Intro - chiming delay guitar, kick drum and tenor sax]"
+    },
+    {
+      "t": 36.04,
+      "end": 36.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.04,
+      "end": 41.8,
+      "text": "I ran into the North Sea like I was still seventeen"
+    },
+    {
+      "t": 43.58,
+      "end": 48.4,
+      "text": "Came out with my hands gone numb and my wedding finger clean"
+    },
+    {
+      "t": 48.4,
+      "end": 50.02,
+      "text": "Borrowed Kenny's detector and his little garden spade"
+    },
+    {
+      "t": 50.02,
+      "end": 55.08,
+      "text": "Now every beep's a ring-pull or a two-p from the arcade"
+    },
+    {
+      "t": 57.97,
+      "end": 57.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.97,
+      "end": 66.25,
+      "text": "And she's sat on the steps with a flask, shouting, love, that's enough"
+    },
+    {
+      "t": 72.63,
+      "end": 72.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.63,
+      "end": 75.89,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 75.95,
+      "end": 78.49,
+      "text": "Bend it round your finger, that'll do"
+    },
+    {
+      "t": 80.11,
+      "end": 81.95,
+      "text": "I'd say yes again on the Longsands"
+    },
+    {
+      "t": 82.29,
+      "end": 88.57,
+      "text": "With the dog walkers watching and the lifeguard too"
+    },
+    {
+      "t": 89.71,
+      "end": 89.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.71,
+      "end": 95.07,
+      "text": "Three hours on the tideline and the light's gone thin and grey"
+    },
+    {
+      "t": 95.09,
+      "end": 100.55,
+      "text": "Found a car key and a lighter and a penny worn away"
+    },
+    {
+      "t": 102.61,
+      "end": 110.19,
+      "text": "The lifeguard's packing up his flags and asks me what I've lost"
+    },
+    {
+      "t": 110.19,
+      "end": 115.63,
+      "text": "I tell him just the one thing that I swore I'd never take off"
+    },
+    {
+      "t": 117.57,
+      "end": 117.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.57,
+      "end": 120.27,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 120.57,
+      "end": 121.91,
+      "text": "Twists one off her can of Coke, there, that'll do"
+    },
+    {
+      "t": 121.91,
+      "end": 123.03,
+      "text": "I'd say yes again on the Longsands"
+    },
+    {
+      "t": 125.05,
+      "end": 129.75,
+      "text": "She says, the gold one was always loose on you"
+    },
+    {
+      "t": 148.55,
+      "end": 148.55,
+      "text": "[Bridge - sax solo, then half-time]"
+    },
+    {
+      "t": 148.55,
+      "end": 153.89,
+      "text": "I said, what if it's a sign, love, losing it like that"
+    },
+    {
+      "t": 155.75,
+      "end": 161.51,
+      "text": "She said, it's only metal, pet, it's not us, now put your hat on"
+    },
+    {
+      "t": 168.6,
+      "end": 168.6,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.6,
+      "end": 173.78,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 178.08,
+      "end": 182.98,
+      "text": "I'm on one knee in the wet sand in my jeans"
+    },
+    {
+      "t": 183.68,
+      "end": 188.92,
+      "text": "We both say yes at the same time"
+    },
+    {
+      "t": 190.72,
+      "end": 198.3,
+      "text": "And Kenny's detector by my knee starts to beep"
+    },
+    {
+      "t": 198.42,
+      "end": 198.42,
+      "text": "[Outro - guitars ringing out, sax]"
+    },
+    {
+      "t": 198.42,
+      "end": 210.02,
+      "text": "Leave it, love, leave it there"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 36.04,
+      "end": 36.04,
+      "text": "[Intro - chiming delay guitar, kick drum and tenor sax]"
+    },
+    {
+      "t": 36.04,
+      "end": 36.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.04,
+      "end": 41.86,
+      "text": "I ran into the North Sea like I was still seventeen"
+    },
+    {
+      "t": 43.58,
+      "end": 47.94,
+      "text": "Came out with my hands gone numb and my wedding finger clean"
+    },
+    {
+      "t": 47.94,
+      "end": 49.5,
+      "text": "Borrowed Kenny's detector and his little garden spade"
+    },
+    {
+      "t": 49.5,
+      "end": 55.08,
+      "text": "Now every beep's a ring-pull or a two-p from the arcade"
+    },
+    {
+      "t": 57.97,
+      "end": 57.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.97,
+      "end": 66.21,
+      "text": "And she's sat on the steps with a flask, shouting, love, that's enough"
+    },
+    {
+      "t": 72.63,
+      "end": 72.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.63,
+      "end": 75.79,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 75.97,
+      "end": 77.85,
+      "text": "Bend it round your finger, that'll do"
+    },
+    {
+      "t": 78.43,
+      "end": 80.89,
+      "text": "I'd say yes again on the Longsands"
+    },
+    {
+      "t": 82.29,
+      "end": 88.57,
+      "text": "With the dog walkers watching and the lifeguard too"
+    },
+    {
+      "t": 89.73,
+      "end": 89.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.73,
+      "end": 94.99,
+      "text": "Three hours on the tideline and the light's gone thin and grey"
+    },
+    {
+      "t": 95.09,
+      "end": 100.45,
+      "text": "Found a car key and a lighter and a penny worn away"
+    },
+    {
+      "t": 102.61,
+      "end": 110.11,
+      "text": "The lifeguard's packing up his flags and asks me what I've lost"
+    },
+    {
+      "t": 110.19,
+      "end": 115.57,
+      "text": "I tell him just the one thing that I swore I'd never take off"
+    },
+    {
+      "t": 117.57,
+      "end": 117.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.57,
+      "end": 118.83,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 118.83,
+      "end": 121.93,
+      "text": "Twists one off her can of Coke, there, that'll do"
+    },
+    {
+      "t": 121.93,
+      "end": 125.01,
+      "text": "I'd say yes again on the Longsands"
+    },
+    {
+      "t": 125.05,
+      "end": 129.75,
+      "text": "She says, the gold one was always loose on you"
+    },
+    {
+      "t": 148.55,
+      "end": 148.55,
+      "text": "[Bridge - sax solo, then half-time]"
+    },
+    {
+      "t": 148.55,
+      "end": 153.85,
+      "text": "I said, what if it's a sign, love, losing it like that"
+    },
+    {
+      "t": 155.75,
+      "end": 161.41,
+      "text": "She said, it's only metal, pet, it's not us, now put your hat on"
+    },
+    {
+      "t": 168.62,
+      "end": 168.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.62,
+      "end": 173.74,
+      "text": "She says, marry me again with a ring-pull"
+    },
+    {
+      "t": 178.1,
+      "end": 183.02,
+      "text": "I'm on one knee in the wet sand in my jeans"
+    },
+    {
+      "t": 183.68,
+      "end": 188.96,
+      "text": "We both say yes at the same time"
+    },
+    {
+      "t": 190.74,
+      "end": 198.7,
+      "text": "And Kenny's detector by my knee starts to beep"
+    },
+    {
+      "t": 202.16,
+      "end": 202.16,
+      "text": "[Outro - guitars ringing out, sax]"
+    },
+    {
+      "t": 202.16,
+      "end": 211.38,
+      "text": "Leave it, love, leave it there"
+    }
+  ]
+}

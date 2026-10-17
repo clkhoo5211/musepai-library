@@ -1,0 +1,474 @@
+{
+  "id": "b10_ja03",
+  "title": "一音目で払ってやる",
+  "title_source": "scripted",
+  "genre": "Japanese para para Eurobeat",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "breathless, defiant and funny",
+  "persona": "",
+  "subject": "a first-year in a high-school competitive karuta club at the July tournament at Ōmi Jingū, sweeping cards across the tatami before the reader finishes the first syllable, against a smug third-year from a rival school who sneered at her",
+  "caption": "Japanese para para Eurobeat in the Super Eurobeat tradition, the high-speed dance style Tokyo para para dancers move to. A four-on-the-floor kick with offbeat open hi-hats and a snare on two and four; a galloping octave synth bass in sixteenth notes; a bright brassy FM-synth lead playing the hook riff; orchestra-hit stabs closing each phrase; a sawtooth synth arpeggio running under the verses. Loud, compressed 2000s club mix, synths wide, vocal centered with a short delay. Female voice, strong high chest voice, racing and defiant in the verses and belting the chorus. 156 BPM, F minor. Breathless, defiant and funny. No dubstep drop, no trap hi-hats, no autotune, no rap verse, no guitar solo.",
+  "lyrics": "[Intro - octave synth bass and brassy synth riff]\n\n[Verse 1]\n七月の近江神宮 広い畳\n白い靴下で 正座する\n向かいは他校の 三年生\n「一年か」って 鼻で笑った\n\n[Pre-Chorus]\n暗記の十五分 にらみ返して\n札の場所なら 全部入った\n\n[Chorus]\n一音目で 払ってやる\n読手の「む」が 終わる前に\n畳の上を 札が飛ぶ\nあんたの陣まで 払ってやる\n\n[Verse 2]\n「すみのえの」は 「す」で取った\n「せをはやみ」は あっちへ送る\n三年の指は 空を切って\nお手つきひとつ 耳まで赤い\n\n[Pre-Chorus]\n飛ばした札が 審判のひざ\n「すみません」って 次 行くよ\n\n[Chorus]\n一音目で 払ってやる\n最後は一枚 対 一枚\n足がしびれて 立てなくても\n畳の外まで 払ってやる\n\n[Outro - synth riff and orchestra hits]\n「一年か」って もう一回 言ってみな",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 156,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Japanese para para Eurobeat in the Super Eurobeat tradition, the high-speed dance style Tokyo para para dancers move to. A four-on-the-floor kick with offbeat open hi-hats and a snare on two and four; a galloping octave synth bass in sixteenth notes; a bright brassy FM-synth lead playing the hook riff; orchestra-hit stabs closing each phrase; a sawtooth synth arpeggio running under the verses. Loud, compressed 2000s club mix, synths wide, vocal centered with a short delay. Female voice, strong high chest voice, racing and defiant in the verses and belting the chorus. 156 BPM, F minor. Breathless, defiant and funny. No dubstep drop, no trap hi-hats, no autotune, no rap verse, no guitar solo.",
+    "lyrics": "[Intro - octave synth bass and brassy synth riff]\n\n[Verse 1]\n七月の近江神宮 広い畳\n白い靴下で 正座する\n向かいは他校の 三年生\n「一年か」って 鼻で笑った\n\n[Pre-Chorus]\n暗記の十五分 にらみ返して\n札の場所なら 全部入った\n\n[Chorus]\n一音目で 払ってやる\n読手の「む」が 終わる前に\n畳の上を 札が飛ぶ\nあんたの陣まで 払ってやる\n\n[Verse 2]\n「すみのえの」は 「す」で取った\n「せをはやみ」は あっちへ送る\n三年の指は 空を切って\nお手つきひとつ 耳まで赤い\n\n[Pre-Chorus]\n飛ばした札が 審判のひざ\n「すみません」って 次 行くよ\n\n[Chorus]\n一音目で 払ってやる\n最後は一枚 対 一枚\n足がしびれて 立てなくても\n畳の外まで 払ってやる\n\n[Outro - synth riff and orchestra hits]\n「一年か」って もう一回 言ってみな"
+  },
+  "seed": "1795399718",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 110.44s**\n- 110.44s per song\n- LM phase (1 song): 18.84s\n- DiT phase (1 song): 91.59s",
+  "task_id": "a588dd05-f9ea-4521-8d55-db728c4dc3ea",
+  "elapsed_s": 140.2,
+  "generated_at": "2026-10-16T20:34:03.666662+08:00",
+  "audio": "b10_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.76,
+      "end": 0.76,
+      "text": "[Intro - octave synth bass and brassy synth riff]"
+    },
+    {
+      "t": 0.76,
+      "end": 0.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.76,
+      "end": 59.19,
+      "text": "七月の近江神宮 広い畳"
+    },
+    {
+      "t": 59.19,
+      "end": 62.01,
+      "text": "白い靴下で 正座する"
+    },
+    {
+      "t": 62.67,
+      "end": 67.39,
+      "text": "向かいは他校の 三年生"
+    },
+    {
+      "t": 67.57,
+      "end": 75.27,
+      "text": "「一年か」って 鼻で笑った"
+    },
+    {
+      "t": 75.47,
+      "end": 75.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 75.47,
+      "end": 81.17,
+      "text": "暗記の十五分 にらみ返して"
+    },
+    {
+      "t": 81.59,
+      "end": 89.13,
+      "text": "札の場所なら 全部入った"
+    },
+    {
+      "t": 89.25,
+      "end": 89.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.25,
+      "end": 94.49,
+      "text": "一音目で 払ってやる"
+    },
+    {
+      "t": 94.49,
+      "end": 99.27,
+      "text": "読手の「む」が 終わる前に"
+    },
+    {
+      "t": 99.27,
+      "end": 100.19,
+      "text": "畳の上を 札が飛ぶ"
+    },
+    {
+      "t": 100.19,
+      "end": 102.45,
+      "text": "あんたの陣まで 払ってやる"
+    },
+    {
+      "t": 103.41,
+      "end": 103.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.41,
+      "end": 105.73,
+      "text": "「すみのえの」は 「す」で取った"
+    },
+    {
+      "t": 105.73,
+      "end": 107.57,
+      "text": "「せをはやみ」は あっちへ送る"
+    },
+    {
+      "t": 107.57,
+      "end": 109.63,
+      "text": "三年の指は 空を切って"
+    },
+    {
+      "t": 109.83,
+      "end": 142.87,
+      "text": "お手つきひとつ 耳まで赤い"
+    },
+    {
+      "t": 142.97,
+      "end": 142.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 142.97,
+      "end": 145.71,
+      "text": "飛ばした札が 審判のひざ"
+    },
+    {
+      "t": 145.99,
+      "end": 154.41,
+      "text": "「すみません」って 次 行くよ"
+    },
+    {
+      "t": 154.45,
+      "end": 154.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 154.45,
+      "end": 157.25,
+      "text": "一音目で 払ってやる"
+    },
+    {
+      "t": 157.33,
+      "end": 159.74,
+      "text": "最後は一枚 対 一枚"
+    },
+    {
+      "t": 159.76,
+      "end": 179.26,
+      "text": "足がしびれて 立てなくても"
+    },
+    {
+      "t": 179.36,
+      "end": 188.62,
+      "text": "畳の外まで 払ってやる"
+    },
+    {
+      "t": 188.68,
+      "end": 188.68,
+      "text": "[Outro - synth riff and orchestra hits]"
+    },
+    {
+      "t": 188.68,
+      "end": 203.56,
+      "text": "「一年か」って もう一回 言ってみな"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.76,
+      "end": 0.76,
+      "text": "[Intro - octave synth bass and brassy synth riff]"
+    },
+    {
+      "t": 0.76,
+      "end": 0.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.76,
+      "end": 59.19,
+      "text": "七月の近江神宮 広い畳"
+    },
+    {
+      "t": 59.19,
+      "end": 62.01,
+      "text": "白い靴下で 正座する"
+    },
+    {
+      "t": 62.67,
+      "end": 67.39,
+      "text": "向かいは他校の 三年生"
+    },
+    {
+      "t": 67.57,
+      "end": 75.27,
+      "text": "「一年か」って 鼻で笑った"
+    },
+    {
+      "t": 75.47,
+      "end": 75.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 75.47,
+      "end": 81.17,
+      "text": "暗記の十五分 にらみ返して"
+    },
+    {
+      "t": 81.59,
+      "end": 89.13,
+      "text": "札の場所なら 全部入った"
+    },
+    {
+      "t": 89.25,
+      "end": 89.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.25,
+      "end": 94.49,
+      "text": "一音目で 払ってやる"
+    },
+    {
+      "t": 94.49,
+      "end": 99.27,
+      "text": "読手の「む」が 終わる前に"
+    },
+    {
+      "t": 99.27,
+      "end": 100.19,
+      "text": "畳の上を 札が飛ぶ"
+    },
+    {
+      "t": 100.19,
+      "end": 102.45,
+      "text": "あんたの陣まで 払ってやる"
+    },
+    {
+      "t": 103.41,
+      "end": 103.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.41,
+      "end": 105.73,
+      "text": "「すみのえの」は 「す」で取った"
+    },
+    {
+      "t": 105.73,
+      "end": 107.57,
+      "text": "「せをはやみ」は あっちへ送る"
+    },
+    {
+      "t": 107.57,
+      "end": 109.63,
+      "text": "三年の指は 空を切って"
+    },
+    {
+      "t": 109.83,
+      "end": 142.87,
+      "text": "お手つきひとつ 耳まで赤い"
+    },
+    {
+      "t": 142.97,
+      "end": 142.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 142.97,
+      "end": 145.71,
+      "text": "飛ばした札が 審判のひざ"
+    },
+    {
+      "t": 145.99,
+      "end": 154.41,
+      "text": "「すみません」って 次 行くよ"
+    },
+    {
+      "t": 154.45,
+      "end": 154.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 154.45,
+      "end": 157.25,
+      "text": "一音目で 払ってやる"
+    },
+    {
+      "t": 157.33,
+      "end": 159.74,
+      "text": "最後は一枚 対 一枚"
+    },
+    {
+      "t": 159.76,
+      "end": 179.26,
+      "text": "足がしびれて 立てなくても"
+    },
+    {
+      "t": 179.36,
+      "end": 188.62,
+      "text": "畳の外まで 払ってやる"
+    },
+    {
+      "t": 188.68,
+      "end": 188.68,
+      "text": "[Outro - synth riff and orchestra hits]"
+    },
+    {
+      "t": 188.68,
+      "end": 203.56,
+      "text": "「一年か」って もう一回 言ってみな"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Intro - octave synth bass and brassy synth riff]"
+    },
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.56,
+      "end": 32.54,
+      "text": "七月の近江神宮 広い畳"
+    },
+    {
+      "t": 33.4,
+      "end": 45.44,
+      "text": "白い靴下で 正座する"
+    },
+    {
+      "t": 46.68,
+      "end": 57.55,
+      "text": "向かいは他校の 三年生"
+    },
+    {
+      "t": 57.87,
+      "end": 64.99,
+      "text": "「一年か」って 鼻で笑った"
+    },
+    {
+      "t": 66.15,
+      "end": 66.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 66.15,
+      "end": 74.11,
+      "text": "暗記の十五分 にらみ返して"
+    },
+    {
+      "t": 74.93,
+      "end": 95.57,
+      "text": "札の場所なら 全部入った"
+    },
+    {
+      "t": 95.83,
+      "end": 95.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.83,
+      "end": 102.43,
+      "text": "一音目で 払ってやる"
+    },
+    {
+      "t": 103.83,
+      "end": 113.39,
+      "text": "読手の「む」が 終わる前に"
+    },
+    {
+      "t": 113.51,
+      "end": 115.29,
+      "text": "畳の上を 札が飛ぶ"
+    },
+    {
+      "t": 115.37,
+      "end": 117.97,
+      "text": "あんたの陣まで 払ってやる"
+    },
+    {
+      "t": 118.21,
+      "end": 118.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 118.21,
+      "end": 120.45,
+      "text": "「すみのえの」は 「す」で取った"
+    },
+    {
+      "t": 120.89,
+      "end": 124.79,
+      "text": "「せをはやみ」は あっちへ送る"
+    },
+    {
+      "t": 124.89,
+      "end": 137.87,
+      "text": "三年の指は 空を切って"
+    },
+    {
+      "t": 138.05,
+      "end": 142.43,
+      "text": "お手つきひとつ 耳まで赤い"
+    },
+    {
+      "t": 143.47,
+      "end": 143.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 143.47,
+      "end": 158.68,
+      "text": "飛ばした札が 審判のひざ"
+    },
+    {
+      "t": 159.5,
+      "end": 172.42,
+      "text": "「すみません」って 次 行くよ"
+    },
+    {
+      "t": 172.9,
+      "end": 172.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 172.9,
+      "end": 177.54,
+      "text": "一音目で 払ってやる"
+    },
+    {
+      "t": 177.62,
+      "end": 181.56,
+      "text": "最後は一枚 対 一枚"
+    },
+    {
+      "t": 181.82,
+      "end": 192.38,
+      "text": "足がしびれて 立てなくても"
+    },
+    {
+      "t": 192.46,
+      "end": 200.34,
+      "text": "畳の外まで 払ってやる"
+    },
+    {
+      "t": 200.34,
+      "end": 200.34,
+      "text": "[Outro - synth riff and orchestra hits]"
+    },
+    {
+      "t": 200.34,
+      "end": 203.4,
+      "text": "「一年か」って もう一回 言ってみな"
+    }
+  ]
+}
