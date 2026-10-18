@@ -185,7 +185,7 @@
    "text": "最後一個簽名的 是柔道社社長"
   }
  ],
- "lyrics_timed_by": "torchaudio MMS_FA forced alignment + vocal-stem opening",
+ "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
  "lyrics_timed_vocals": [
   {
    "t": 42.92,
