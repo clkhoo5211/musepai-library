@@ -1,0 +1,579 @@
+{
+  "id": "b12_en01",
+  "title": "Send It to the Lab",
+  "title_source": "scripted",
+  "genre": "country-trap",
+  "language": "en",
+  "language_name": "English",
+  "mood": "swaggering, sheepish and laughing at himself",
+  "persona": "",
+  "subject": "a first-year hobby farmer in Ohio who mails a zip bag of his back-field dirt to the state university extension lab, brags to the feed store all month, and gets the report back saying it is mostly gravel and needs two tons of lime",
+  "caption": "Country-trap, mid-2020s country and hip-hop crossover. Bright fingerpicked acoustic guitar loop and a rolling five-string banjo up front; a deep 808 sub bass and crisp rolling trap hi-hats underneath; offbeat handclaps and slippery dobro slides answering the vocal. Warm front-porch acoustic layer over a clean, modern half-time beat, dry close vocal. Male baritone with a relaxed half-sung, half-rapped drawl, a crowd of buddies shouting the chorus back. 82 BPM, G major. Swaggering, sheepish and laughing at himself. No autotune, no EDM drop, no stadium rock guitars, no pop-punk, no fiddle breakdown.",
+  "lyrics": "[Intro - fingerpicked acoustic and banjo, 808 drops in]\n\n[Verse 1]\nBought five acres off a man named Del in Wayne County\nSaid it grew the best sweet corn that he'd ever seen\nI dug a sample with a soup spoon at the fence line\nZipped it in a freezer bag and wrote my name in Sharpie green\n\n[Pre-Chorus]\nTwelve dollars and a stamp to Wooster\nTold the boys at the feed store, wait and see\n\n[Chorus]\nSend it to the lab, send it to the lab\nLet the college tell you what you got\nPotassium, phosphorus, pH and all that\nThat dirt's gonna make me a whole lot\n\n[Verse 2]\nThree weeks later there's an envelope in the mailbox\nPrinted bars in yellow, every one of them is low\nSays my pH is five point one and falling\nSays it's mostly gravel, Del, and you already know\n\n[Pre-Chorus]\nTwo tons of lime and a spreader rented Friday\nAnd the feed store boys have pinned it to the board\n\n[Chorus]\nSent it to the lab, sent it to the lab\nAnd the college told me what I got\nGravel, a fence post and a bill for lime\nAnd the feed store laughing at my lot\n\n[Bridge - banjo and claps only]\nDel waves from his porch every time I pass\nI wave back with the lime dust on my hat\n\n[Chorus]\nSend it to the lab, send it to the lab\nNext April I'll be back with my spoon\nPotassium, phosphorus, pH and all that\nThat gravel's gonna grow me something soon\n\n[Outro - banjo roll over 808, claps fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 82,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Country-trap, mid-2020s country and hip-hop crossover. Bright fingerpicked acoustic guitar loop and a rolling five-string banjo up front; a deep 808 sub bass and crisp rolling trap hi-hats underneath; offbeat handclaps and slippery dobro slides answering the vocal. Warm front-porch acoustic layer over a clean, modern half-time beat, dry close vocal. Male baritone with a relaxed half-sung, half-rapped drawl, a crowd of buddies shouting the chorus back. 82 BPM, G major. Swaggering, sheepish and laughing at himself. No autotune, no EDM drop, no stadium rock guitars, no pop-punk, no fiddle breakdown.",
+    "lyrics": "[Intro - fingerpicked acoustic and banjo, 808 drops in]\n\n[Verse 1]\nBought five acres off a man named Del in Wayne County\nSaid it grew the best sweet corn that he'd ever seen\nI dug a sample with a soup spoon at the fence line\nZipped it in a freezer bag and wrote my name in Sharpie green\n\n[Pre-Chorus]\nTwelve dollars and a stamp to Wooster\nTold the boys at the feed store, wait and see\n\n[Chorus]\nSend it to the lab, send it to the lab\nLet the college tell you what you got\nPotassium, phosphorus, pH and all that\nThat dirt's gonna make me a whole lot\n\n[Verse 2]\nThree weeks later there's an envelope in the mailbox\nPrinted bars in yellow, every one of them is low\nSays my pH is five point one and falling\nSays it's mostly gravel, Del, and you already know\n\n[Pre-Chorus]\nTwo tons of lime and a spreader rented Friday\nAnd the feed store boys have pinned it to the board\n\n[Chorus]\nSent it to the lab, sent it to the lab\nAnd the college told me what I got\nGravel, a fence post and a bill for lime\nAnd the feed store laughing at my lot\n\n[Bridge - banjo and claps only]\nDel waves from his porch every time I pass\nI wave back with the lime dust on my hat\n\n[Chorus]\nSend it to the lab, send it to the lab\nNext April I'll be back with my spoon\nPotassium, phosphorus, pH and all that\nThat gravel's gonna grow me something soon\n\n[Outro - banjo roll over 808, claps fade]"
+  },
+  "seed": "3238021338",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 97.83s**\n- 97.83s per song\n- LM phase (1 song): 17.45s\n- DiT phase (1 song): 80.38s",
+  "task_id": "ac8b4a27-4071-4211-bef0-2c319d261b26",
+  "elapsed_s": 131.6,
+  "generated_at": "2026-10-18T12:29:41.591422+08:00",
+  "audio": "b12_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.98,
+      "end": 23.98,
+      "text": "[Intro - fingerpicked acoustic and banjo, 808 drops in]"
+    },
+    {
+      "t": 23.98,
+      "end": 23.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.98,
+      "end": 28.74,
+      "text": "Bought five acres off a man named Del in Wayne County"
+    },
+    {
+      "t": 30.48,
+      "end": 33.72,
+      "text": "Said it grew the best sweet corn that he'd ever seen"
+    },
+    {
+      "t": 33.72,
+      "end": 35.56,
+      "text": "I dug a sample with a soup spoon at the fence line"
+    },
+    {
+      "t": 36.32,
+      "end": 41.54,
+      "text": "Zipped it in a freezer bag and wrote my name in Sharpie green"
+    },
+    {
+      "t": 43.66,
+      "end": 43.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.66,
+      "end": 48.88,
+      "text": "Twelve dollars and a stamp to Wooster"
+    },
+    {
+      "t": 50.19,
+      "end": 53.15,
+      "text": "Told the boys at the feed store, wait and see"
+    },
+    {
+      "t": 55.19,
+      "end": 55.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.19,
+      "end": 59.95,
+      "text": "Send it to the lab, send it to the lab"
+    },
+    {
+      "t": 61.01,
+      "end": 66.67,
+      "text": "Let the college tell you what you got"
+    },
+    {
+      "t": 66.67,
+      "end": 70.53,
+      "text": "Potassium, phosphorus, pH and all that"
+    },
+    {
+      "t": 70.67,
+      "end": 73.23,
+      "text": "That dirt's gonna make me a whole lot"
+    },
+    {
+      "t": 75.17,
+      "end": 75.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.17,
+      "end": 79.53,
+      "text": "Three weeks later there's an envelope in the mailbox"
+    },
+    {
+      "t": 81.13,
+      "end": 87.77,
+      "text": "Printed bars in yellow, every one of them is low"
+    },
+    {
+      "t": 89.09,
+      "end": 92.25,
+      "text": "Says my pH is five point one and falling"
+    },
+    {
+      "t": 92.37,
+      "end": 96.43,
+      "text": "Says it's mostly gravel, Del, and you already know"
+    },
+    {
+      "t": 96.79,
+      "end": 96.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.79,
+      "end": 100.49,
+      "text": "Two tons of lime and a spreader rented Friday"
+    },
+    {
+      "t": 101.21,
+      "end": 105.15,
+      "text": "And the feed store boys have pinned it to the board"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 110.91,
+      "text": "Sent it to the lab, sent it to the lab"
+    },
+    {
+      "t": 110.93,
+      "end": 119.07,
+      "text": "And the college told me what I got"
+    },
+    {
+      "t": 119.07,
+      "end": 122.35,
+      "text": "Gravel, a fence post and a bill for lime"
+    },
+    {
+      "t": 122.95,
+      "end": 126.45,
+      "text": "And the feed store laughing at my lot"
+    },
+    {
+      "t": 129.01,
+      "end": 129.01,
+      "text": "[Bridge - banjo and claps only]"
+    },
+    {
+      "t": 129.01,
+      "end": 132.73,
+      "text": "Del waves from his porch every time I pass"
+    },
+    {
+      "t": 134.13,
+      "end": 138.21,
+      "text": "I wave back with the lime dust on my hat"
+    },
+    {
+      "t": 142.19,
+      "end": 142.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.19,
+      "end": 145.69,
+      "text": "Send it to the lab, send it to the lab"
+    },
+    {
+      "t": 146.57,
+      "end": 149.91,
+      "text": "Next April I'll be back with my spoon"
+    },
+    {
+      "t": 149.95,
+      "end": 158.9,
+      "text": "Potassium, phosphorus, pH and all that"
+    },
+    {
+      "t": 162.08,
+      "end": 164.6,
+      "text": "That gravel's gonna grow me something soon"
+    },
+    {
+      "t": 164.6,
+      "end": 164.6,
+      "text": "[Outro - banjo roll over 808, claps fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.98,
+      "end": 23.98,
+      "text": "[Intro - fingerpicked acoustic and banjo, 808 drops in]"
+    },
+    {
+      "t": 23.98,
+      "end": 23.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.98,
+      "end": 28.74,
+      "text": "Bought five acres off a man named Del in Wayne County"
+    },
+    {
+      "t": 30.48,
+      "end": 33.72,
+      "text": "Said it grew the best sweet corn that he'd ever seen"
+    },
+    {
+      "t": 33.72,
+      "end": 35.56,
+      "text": "I dug a sample with a soup spoon at the fence line"
+    },
+    {
+      "t": 36.32,
+      "end": 41.54,
+      "text": "Zipped it in a freezer bag and wrote my name in Sharpie green"
+    },
+    {
+      "t": 43.66,
+      "end": 43.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.66,
+      "end": 48.88,
+      "text": "Twelve dollars and a stamp to Wooster"
+    },
+    {
+      "t": 50.19,
+      "end": 53.15,
+      "text": "Told the boys at the feed store, wait and see"
+    },
+    {
+      "t": 55.19,
+      "end": 55.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.19,
+      "end": 59.95,
+      "text": "Send it to the lab, send it to the lab"
+    },
+    {
+      "t": 61.01,
+      "end": 66.67,
+      "text": "Let the college tell you what you got"
+    },
+    {
+      "t": 66.67,
+      "end": 70.53,
+      "text": "Potassium, phosphorus, pH and all that"
+    },
+    {
+      "t": 70.67,
+      "end": 73.23,
+      "text": "That dirt's gonna make me a whole lot"
+    },
+    {
+      "t": 75.17,
+      "end": 75.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.17,
+      "end": 79.53,
+      "text": "Three weeks later there's an envelope in the mailbox"
+    },
+    {
+      "t": 81.13,
+      "end": 87.77,
+      "text": "Printed bars in yellow, every one of them is low"
+    },
+    {
+      "t": 89.09,
+      "end": 92.25,
+      "text": "Says my pH is five point one and falling"
+    },
+    {
+      "t": 92.37,
+      "end": 96.43,
+      "text": "Says it's mostly gravel, Del, and you already know"
+    },
+    {
+      "t": 96.79,
+      "end": 96.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.79,
+      "end": 100.49,
+      "text": "Two tons of lime and a spreader rented Friday"
+    },
+    {
+      "t": 101.21,
+      "end": 105.15,
+      "text": "And the feed store boys have pinned it to the board"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 110.91,
+      "text": "Sent it to the lab, sent it to the lab"
+    },
+    {
+      "t": 110.93,
+      "end": 119.07,
+      "text": "And the college told me what I got"
+    },
+    {
+      "t": 119.07,
+      "end": 122.35,
+      "text": "Gravel, a fence post and a bill for lime"
+    },
+    {
+      "t": 122.95,
+      "end": 126.45,
+      "text": "And the feed store laughing at my lot"
+    },
+    {
+      "t": 129.01,
+      "end": 129.01,
+      "text": "[Bridge - banjo and claps only]"
+    },
+    {
+      "t": 129.01,
+      "end": 132.73,
+      "text": "Del waves from his porch every time I pass"
+    },
+    {
+      "t": 134.13,
+      "end": 138.21,
+      "text": "I wave back with the lime dust on my hat"
+    },
+    {
+      "t": 142.19,
+      "end": 142.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.19,
+      "end": 145.69,
+      "text": "Send it to the lab, send it to the lab"
+    },
+    {
+      "t": 146.57,
+      "end": 149.91,
+      "text": "Next April I'll be back with my spoon"
+    },
+    {
+      "t": 149.95,
+      "end": 158.9,
+      "text": "Potassium, phosphorus, pH and all that"
+    },
+    {
+      "t": 162.08,
+      "end": 164.6,
+      "text": "That gravel's gonna grow me something soon"
+    },
+    {
+      "t": 164.6,
+      "end": 164.6,
+      "text": "[Outro - banjo roll over 808, claps fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.98,
+      "end": 23.98,
+      "text": "[Intro - fingerpicked acoustic and banjo, 808 drops in]"
+    },
+    {
+      "t": 23.98,
+      "end": 23.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.98,
+      "end": 28.72,
+      "text": "Bought five acres off a man named Del in Wayne County"
+    },
+    {
+      "t": 30.48,
+      "end": 32.42,
+      "text": "Said it grew the best sweet corn that he'd ever seen"
+    },
+    {
+      "t": 32.42,
+      "end": 35.54,
+      "text": "I dug a sample with a soup spoon at the fence line"
+    },
+    {
+      "t": 36.32,
+      "end": 41.52,
+      "text": "Zipped it in a freezer bag and wrote my name in Sharpie green"
+    },
+    {
+      "t": 43.64,
+      "end": 43.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.64,
+      "end": 49.4,
+      "text": "Twelve dollars and a stamp to Wooster"
+    },
+    {
+      "t": 50.19,
+      "end": 53.13,
+      "text": "Told the boys at the feed store, wait and see"
+    },
+    {
+      "t": 55.19,
+      "end": 55.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.19,
+      "end": 59.95,
+      "text": "Send it to the lab, send it to the lab"
+    },
+    {
+      "t": 61.01,
+      "end": 66.77,
+      "text": "Let the college tell you what you got"
+    },
+    {
+      "t": 66.77,
+      "end": 70.53,
+      "text": "Potassium, phosphorus, pH and all that"
+    },
+    {
+      "t": 70.65,
+      "end": 73.29,
+      "text": "That dirt's gonna make me a whole lot"
+    },
+    {
+      "t": 75.17,
+      "end": 75.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.17,
+      "end": 79.51,
+      "text": "Three weeks later there's an envelope in the mailbox"
+    },
+    {
+      "t": 79.69,
+      "end": 87.77,
+      "text": "Printed bars in yellow, every one of them is low"
+    },
+    {
+      "t": 89.09,
+      "end": 92.25,
+      "text": "Says my pH is five point one and falling"
+    },
+    {
+      "t": 92.37,
+      "end": 96.39,
+      "text": "Says it's mostly gravel, Del, and you already know"
+    },
+    {
+      "t": 96.79,
+      "end": 96.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.79,
+      "end": 100.49,
+      "text": "Two tons of lime and a spreader rented Friday"
+    },
+    {
+      "t": 101.21,
+      "end": 105.15,
+      "text": "And the feed store boys have pinned it to the board"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 110.93,
+      "text": "Sent it to the lab, sent it to the lab"
+    },
+    {
+      "t": 110.93,
+      "end": 113.61,
+      "text": "And the college told me what I got"
+    },
+    {
+      "t": 119.07,
+      "end": 122.33,
+      "text": "Gravel, a fence post and a bill for lime"
+    },
+    {
+      "t": 122.95,
+      "end": 126.55,
+      "text": "And the feed store laughing at my lot"
+    },
+    {
+      "t": 129.01,
+      "end": 129.01,
+      "text": "[Bridge - banjo and claps only]"
+    },
+    {
+      "t": 129.01,
+      "end": 132.75,
+      "text": "Del waves from his porch every time I pass"
+    },
+    {
+      "t": 134.27,
+      "end": 138.13,
+      "text": "I wave back with the lime dust on my hat"
+    },
+    {
+      "t": 142.19,
+      "end": 142.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.19,
+      "end": 145.63,
+      "text": "Send it to the lab, send it to the lab"
+    },
+    {
+      "t": 146.55,
+      "end": 149.91,
+      "text": "Next April I'll be back with my spoon"
+    },
+    {
+      "t": 154.9,
+      "end": 161.94,
+      "text": "Potassium, phosphorus, pH and all that"
+    },
+    {
+      "t": 162.08,
+      "end": 164.6,
+      "text": "That gravel's gonna grow me something soon"
+    },
+    {
+      "t": 164.6,
+      "end": 164.6,
+      "text": "[Outro - banjo roll over 808, claps fade]"
+    }
+  ]
+}

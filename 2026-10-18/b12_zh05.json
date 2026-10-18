@@ -1,0 +1,549 @@
+{
+ "id": "b12_zh05",
+ "title": "看鏡頭",
+ "title_source": "scripted",
+ "genre": "Mandarin hard techno",
+ "language": "zh",
+ "language_name": "Mandarin (Traditional)",
+ "mood": "relentless, sleepless and deadpan-funny",
+ "persona": "",
+ "subject": "an immigration officer at counter four in taoyuan airport arrivals on the three-to-six a.m. shift, repeating 'look at the camera, left index finger, right index finger, next' to three hundred passengers off a bangkok red-eye, a man with his shoes on the wrong feet, a suitcase of dried mango, and a child making a peace sign at the camera",
+ "caption": "Hard techno with a Mandarin vocal, the mid-2020s neo-rave sound of the Shanghai club scene. A distorted pounding kick drum on every beat with a rumbling tail; an acid TB-303 bassline squelching up through the filter; a metallic hoover synth stab on the hook; an open hi-hat on the offbeat; industrial clank percussion like a metal stamp on a desk. Dark warehouse mix, saturated low end, mono kick, everything compressed hard. Female mid-register vocal, deadpan and half-spoken, clipped and steady, doubled on the hook, no melisma. 150 BPM, F minor. Relentless, sleepless, deadpan-funny. No trap, no pop chorus melody, no autotune, no big-room EDM drop, no dubstep wobble.",
+ "lyrics": "[Intro - distorted kick alone, acid line rising through the filter]\n\n[Verse 1]\n凌晨三點 第四號櫃檯\n曼谷的紅眼班機 剛剛落地\n三百個人 從走廊湧過來\n我的咖啡 已經涼了\n\n[Pre-Chorus]\n護照打開 放平\n帽子 拿下來\n\n[Chorus]\n看鏡頭 看鏡頭\n左手食指 按下去\n右手食指 按下去\n下一位\n\n[Verse 2]\n有人睡到 鞋子穿反\n有人拖著 一整箱芒果乾\n有個小孩 對著鏡頭比耶\n我沒有笑 我真的沒有笑\n\n[Chorus]\n看鏡頭 看鏡頭\n左手食指 按下去\n小朋友 手放下來\n下一位\n\n[Bridge - kick drops out, acid line alone, then kick slams back]\n五點四十 窗外開始亮\n首爾 東京 胡志明\n又一班 又一班\n\n[Chorus]\n看鏡頭 看鏡頭\n右手食指 按下去\n歡迎來到台灣\n下一位\n\n[Outro - kick and acid line, hoover stab, cut dead]",
+ "lyrics_leaked_tokens": [],
+ "lyrics_looks_romanized": false,
+ "metas": {
+  "bpm": 150,
+  "duration": 225.0,
+  "genres": "N/A",
+  "keyscale": "F minor",
+  "timesignature": "4",
+  "prompt": "Hard techno with a Mandarin vocal, the mid-2020s neo-rave sound of the Shanghai club scene. A distorted pounding kick drum on every beat with a rumbling tail; an acid TB-303 bassline squelching up through the filter; a metallic hoover synth stab on the hook; an open hi-hat on the offbeat; industrial clank percussion like a metal stamp on a desk. Dark warehouse mix, saturated low end, mono kick, everything compressed hard. Female mid-register vocal, deadpan and half-spoken, clipped and steady, doubled on the hook, no melisma. 150 BPM, F minor. Relentless, sleepless, deadpan-funny. No trap, no pop chorus melody, no autotune, no big-room EDM drop, no dubstep wobble.",
+  "lyrics": "[Intro - distorted kick alone, acid line rising through the filter]\n\n[Verse 1]\n凌晨三點 第四號櫃檯\n曼谷的紅眼班機 剛剛落地\n三百個人 從走廊湧過來\n我的咖啡 已經涼了\n\n[Pre-Chorus]\n護照打開 放平\n帽子 拿下來\n\n[Chorus]\n看鏡頭 看鏡頭\n左手食指 按下去\n右手食指 按下去\n下一位\n\n[Verse 2]\n有人睡到 鞋子穿反\n有人拖著 一整箱芒果乾\n有個小孩 對著鏡頭比耶\n我沒有笑 我真的沒有笑\n\n[Chorus]\n看鏡頭 看鏡頭\n左手食指 按下去\n小朋友 手放下來\n下一位\n\n[Bridge - kick drops out, acid line alone, then kick slams back]\n五點四十 窗外開始亮\n首爾 東京 胡志明\n又一班 又一班\n\n[Chorus]\n看鏡頭 看鏡頭\n右手食指 按下去\n歡迎來到台灣\n下一位\n\n[Outro - kick and acid line, hoover stab, cut dead]"
+ },
+ "seed": "1960731767",
+ "dit_model": "acestep-v15-turbo",
+ "generation_info": "**🎵 Total generation time (1 song): 87.94s**\n- 87.94s per song\n- LM phase (1 song): 16.92s\n- DiT phase (1 song): 71.02s",
+ "task_id": "823e5923-17cd-4b04-a1ce-38f846870ef3",
+ "elapsed_s": 120.3,
+ "generated_at": "2026-10-18T12:47:26.253759+08:00",
+ "audio": "b12_zh05.mp3",
+ "lyrics_timed": [
+  {
+   "t": 44.3,
+   "end": 44.3,
+   "text": "[Intro - distorted kick alone, acid line rising through the filter]"
+  },
+  {
+   "t": 44.3,
+   "end": 44.3,
+   "text": "[Verse 1]"
+  },
+  {
+   "t": 44.3,
+   "end": 49.1,
+   "text": "凌晨三點 第四號櫃檯"
+  },
+  {
+   "t": 49.12,
+   "end": 50.68,
+   "text": "曼谷的紅眼班機 剛剛落地"
+  },
+  {
+   "t": 50.72,
+   "end": 51.96,
+   "text": "三百個人 從走廊湧過來"
+  },
+  {
+   "t": 54.52,
+   "end": 57.35,
+   "text": "我的咖啡 已經涼了"
+  },
+  {
+   "t": 57.35,
+   "end": 57.35,
+   "text": "[Pre-Chorus]"
+  },
+  {
+   "t": 57.35,
+   "end": 57.91,
+   "text": "護照打開 放平"
+  },
+  {
+   "t": 57.93,
+   "end": 73.01,
+   "text": "帽子 拿下來"
+  },
+  {
+   "t": 73.47,
+   "end": 73.47,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 73.47,
+   "end": 76.15,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 78.03,
+   "end": 83.69,
+   "text": "左手食指 按下去"
+  },
+  {
+   "t": 85.01,
+   "end": 92.11,
+   "text": "右手食指 按下去"
+  },
+  {
+   "t": 92.11,
+   "end": 92.55,
+   "text": "下一位"
+  },
+  {
+   "t": 93.19,
+   "end": 93.19,
+   "text": "[Verse 2]"
+  },
+  {
+   "t": 97.6,
+   "end": 107.83,
+   "text": "有人睡到 鞋子穿反"
+  },
+  {
+   "t": 107.89,
+   "end": 109.55,
+   "text": "有人拖著 一整箱芒果乾"
+  },
+  {
+   "t": 109.63,
+   "end": 110.95,
+   "text": "有個小孩 對著鏡頭比耶"
+  },
+  {
+   "t": 110.95,
+   "end": 127.79,
+   "text": "我沒有笑 我真的沒有笑"
+  },
+  {
+   "t": 127.95,
+   "end": 127.95,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 127.95,
+   "end": 130.59,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 131.11,
+   "end": 132.85,
+   "text": "左手食指 按下去"
+  },
+  {
+   "t": 134.65,
+   "end": 138.55,
+   "text": "小朋友 手放下來"
+  },
+  {
+   "t": 138.69,
+   "end": 140.41,
+   "text": "下一位"
+  },
+  {
+   "t": 140.49,
+   "end": 140.49,
+   "text": "[Bridge - kick drops out, acid line alone, then kick slams back]"
+  },
+  {
+   "t": 140.49,
+   "end": 141.21,
+   "text": "五點四十 窗外開始亮"
+  },
+  {
+   "t": 141.21,
+   "end": 145.29,
+   "text": "首爾 東京 胡志明"
+  },
+  {
+   "t": 155.3,
+   "end": 158.19,
+   "text": "又一班 又一班"
+  },
+  {
+   "t": 172.56,
+   "end": 172.56,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 172.56,
+   "end": 175.2,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 175.76,
+   "end": 177.46,
+   "text": "右手食指 按下去"
+  },
+  {
+   "t": 179.66,
+   "end": 184.1,
+   "text": "歡迎來到台灣"
+  },
+  {
+   "t": 185.16,
+   "end": 188.34,
+   "text": "下一位"
+  },
+  {
+   "t": 188.34,
+   "end": 188.34,
+   "text": "[Outro - kick and acid line, hoover stab, cut dead]"
+  }
+ ],
+ "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals + manual fix from vocal-stem energy",
+ "lyrics_timed_vocals": [
+  {
+   "t": 44.3,
+   "end": 44.3,
+   "text": "[Intro - distorted kick alone, acid line rising through the filter]"
+  },
+  {
+   "t": 44.3,
+   "end": 44.3,
+   "text": "[Verse 1]"
+  },
+  {
+   "t": 44.3,
+   "end": 49.1,
+   "text": "凌晨三點 第四號櫃檯"
+  },
+  {
+   "t": 49.12,
+   "end": 50.68,
+   "text": "曼谷的紅眼班機 剛剛落地"
+  },
+  {
+   "t": 50.72,
+   "end": 51.96,
+   "text": "三百個人 從走廊湧過來"
+  },
+  {
+   "t": 54.52,
+   "end": 57.35,
+   "text": "我的咖啡 已經涼了"
+  },
+  {
+   "t": 57.35,
+   "end": 57.35,
+   "text": "[Pre-Chorus]"
+  },
+  {
+   "t": 57.35,
+   "end": 57.91,
+   "text": "護照打開 放平"
+  },
+  {
+   "t": 57.93,
+   "end": 73.01,
+   "text": "帽子 拿下來"
+  },
+  {
+   "t": 73.47,
+   "end": 73.47,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 73.47,
+   "end": 76.15,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 78.03,
+   "end": 83.69,
+   "text": "左手食指 按下去"
+  },
+  {
+   "t": 85.01,
+   "end": 92.11,
+   "text": "右手食指 按下去"
+  },
+  {
+   "t": 92.11,
+   "end": 92.55,
+   "text": "下一位"
+  },
+  {
+   "t": 93.19,
+   "end": 93.19,
+   "text": "[Verse 2]"
+  },
+  {
+   "t": 93.19,
+   "end": 107.83,
+   "text": "有人睡到 鞋子穿反"
+  },
+  {
+   "t": 107.89,
+   "end": 109.55,
+   "text": "有人拖著 一整箱芒果乾"
+  },
+  {
+   "t": 109.63,
+   "end": 110.95,
+   "text": "有個小孩 對著鏡頭比耶"
+  },
+  {
+   "t": 110.95,
+   "end": 127.79,
+   "text": "我沒有笑 我真的沒有笑"
+  },
+  {
+   "t": 127.95,
+   "end": 127.95,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 127.95,
+   "end": 130.59,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 131.11,
+   "end": 132.85,
+   "text": "左手食指 按下去"
+  },
+  {
+   "t": 134.65,
+   "end": 138.55,
+   "text": "小朋友 手放下來"
+  },
+  {
+   "t": 138.69,
+   "end": 140.41,
+   "text": "下一位"
+  },
+  {
+   "t": 140.49,
+   "end": 140.49,
+   "text": "[Bridge - kick drops out, acid line alone, then kick slams back]"
+  },
+  {
+   "t": 140.49,
+   "end": 141.21,
+   "text": "五點四十 窗外開始亮"
+  },
+  {
+   "t": 141.21,
+   "end": 145.29,
+   "text": "首爾 東京 胡志明"
+  },
+  {
+   "t": 145.29,
+   "end": 158.19,
+   "text": "又一班 又一班"
+  },
+  {
+   "t": 172.56,
+   "end": 172.56,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 172.56,
+   "end": 175.2,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 175.76,
+   "end": 177.46,
+   "text": "右手食指 按下去"
+  },
+  {
+   "t": 179.66,
+   "end": 184.1,
+   "text": "歡迎來到台灣"
+  },
+  {
+   "t": 185.16,
+   "end": 188.34,
+   "text": "下一位"
+  },
+  {
+   "t": 188.34,
+   "end": 188.34,
+   "text": "[Outro - kick and acid line, hoover stab, cut dead]"
+  }
+ ],
+ "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+ "lyrics_timed_mix": [
+  {
+   "t": 14.32,
+   "end": 14.32,
+   "text": "[Intro - distorted kick alone, acid line rising through the filter]"
+  },
+  {
+   "t": 14.32,
+   "end": 14.32,
+   "text": "[Verse 1]"
+  },
+  {
+   "t": 14.32,
+   "end": 15.94,
+   "text": "凌晨三點 第四號櫃檯"
+  },
+  {
+   "t": 17.06,
+   "end": 48.9,
+   "text": "曼谷的紅眼班機 剛剛落地"
+  },
+  {
+   "t": 48.92,
+   "end": 51.96,
+   "text": "三百個人 從走廊湧過來"
+  },
+  {
+   "t": 54.54,
+   "end": 61.63,
+   "text": "我的咖啡 已經涼了"
+  },
+  {
+   "t": 61.85,
+   "end": 61.85,
+   "text": "[Pre-Chorus]"
+  },
+  {
+   "t": 61.85,
+   "end": 64.85,
+   "text": "護照打開 放平"
+  },
+  {
+   "t": 64.99,
+   "end": 67.87,
+   "text": "帽子 拿下來"
+  },
+  {
+   "t": 69.71,
+   "end": 69.71,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 69.71,
+   "end": 76.13,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 76.65,
+   "end": 78.37,
+   "text": "左手食指 按下去"
+  },
+  {
+   "t": 80.19,
+   "end": 83.69,
+   "text": "右手食指 按下去"
+  },
+  {
+   "t": 86.09,
+   "end": 87.03,
+   "text": "下一位"
+  },
+  {
+   "t": 87.93,
+   "end": 87.93,
+   "text": "[Verse 2]"
+  },
+  {
+   "t": 87.93,
+   "end": 91.29,
+   "text": "有人睡到 鞋子穿反"
+  },
+  {
+   "t": 91.45,
+   "end": 109.19,
+   "text": "有人拖著 一整箱芒果乾"
+  },
+  {
+   "t": 109.21,
+   "end": 121.17,
+   "text": "有個小孩 對著鏡頭比耶"
+  },
+  {
+   "t": 121.33,
+   "end": 127.49,
+   "text": "我沒有笑 我真的沒有笑"
+  },
+  {
+   "t": 127.93,
+   "end": 127.93,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 127.93,
+   "end": 130.57,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 131.11,
+   "end": 145.65,
+   "text": "左手食指 按下去"
+  },
+  {
+   "t": 145.93,
+   "end": 150.37,
+   "text": "小朋友 手放下來"
+  },
+  {
+   "t": 150.63,
+   "end": 151.95,
+   "text": "下一位"
+  },
+  {
+   "t": 152.05,
+   "end": 152.05,
+   "text": "[Bridge - kick drops out, acid line alone, then kick slams back]"
+  },
+  {
+   "t": 152.05,
+   "end": 165.91,
+   "text": "五點四十 窗外開始亮"
+  },
+  {
+   "t": 165.93,
+   "end": 189.78,
+   "text": "首爾 東京 胡志明"
+  },
+  {
+   "t": 190.16,
+   "end": 193.54,
+   "text": "又一班 又一班"
+  },
+  {
+   "t": 193.7,
+   "end": 193.7,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 193.7,
+   "end": 198.82,
+   "text": "看鏡頭 看鏡頭"
+  },
+  {
+   "t": 198.96,
+   "end": 202.66,
+   "text": "右手食指 按下去"
+  },
+  {
+   "t": 202.7,
+   "end": 205.76,
+   "text": "歡迎來到台灣"
+  },
+  {
+   "t": 205.94,
+   "end": 222.02,
+   "text": "下一位"
+  },
+  {
+   "t": 222.02,
+   "end": 222.02,
+   "text": "[Outro - kick and acid line, hoover stab, cut dead]"
+  }
+ ]
+}

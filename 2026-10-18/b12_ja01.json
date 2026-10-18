@@ -1,0 +1,367 @@
+{
+  "id": "b12_ja01",
+  "title": "二割まで",
+  "title_source": "scripted",
+  "genre": "Japanese funk (J-pop baile funk crossover)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "flustered, comic, danceable",
+  "persona": "",
+  "subject": "a man whose dropped wallet comes back from the Tokyo police lost-property centre with every last coin, agonising by the phone over whether to give the high-school baseball player who found it five percent or the full twenty percent reward",
+  "caption": "Japanese funk, the mid-2020s internet crossover of Brazilian baile funk and J-pop: a tamborzão drum pattern with dry snare and tom hits, a distorted 808 bass sliding between notes, a looping phonk cowbell melody, bright city-pop Rhodes electric piano stabs on the off-beats, and tight hand claps. Loud, saturated club mix with heavy sidechain on the bass and a dry, close vocal. Male tenor lead in fast, half-spoken Japanese patter that tightens into a chanted sing-along chorus, with a few gang shouts. 130 BPM, F# minor. Flustered, comic and danceable. No trap hi-hat rolls, no autotune, no EDM build-up and drop, no Jersey club kicks, no rock guitars.",
+  "lyrics": "[Intro - tamborzão drums, distorted 808 slides, phonk cowbell riff]\n\n[Verse 1]\n月曜の朝 財布がない\nポケット全部 三回裏返す\n駅前交番で 用紙に書いた\n黒い二つ折り 中身は三万\n\n[Pre-Chorus]\n木曜の夜 知らない番号\n「遺失物センターです」って声\n\n[Chorus]\n五分から二割 お礼の相場\n拾った人に いくら渡そう\n三万円なら 千五百から六千\n財布は戻った 悩みが増えた\n\n[Verse 2]\n飯田橋まで 取りに行ったら\n小銭の七円まで 全部ある\n拾い主は 高二の野球部\nお礼の欄に 「請求する」\n\n[Chorus]\n五分から二割 お礼の相場\nケチと思われたくは ないけど\n三万円なら 千五百から六千\n電話の前で 正座してる\n\n[Bridge - 808 drops out, cowbell and hand claps only]\nグローブ買うには 足りないか\n牛丼だったら 何杯いける\n\n[Chorus]\n五分から二割 決めたぞ二割\n六千円を 封筒に入れて\n「新しいボール 買ってくれ」って\n一行だけ 書いて渡す\n\n[Outro - tamborzão fades under the cowbell riff]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Japanese funk, the mid-2020s internet crossover of Brazilian baile funk and J-pop: a tamborzão drum pattern with dry snare and tom hits, a distorted 808 bass sliding between notes, a looping phonk cowbell melody, bright city-pop Rhodes electric piano stabs on the off-beats, and tight hand claps. Loud, saturated club mix with heavy sidechain on the bass and a dry, close vocal. Male tenor lead in fast, half-spoken Japanese patter that tightens into a chanted sing-along chorus, with a few gang shouts. 130 BPM, F# minor. Flustered, comic and danceable. No trap hi-hat rolls, no autotune, no EDM build-up and drop, no Jersey club kicks, no rock guitars.",
+    "lyrics": "[Intro - tamborzão drums, distorted 808 slides, phonk cowbell riff]\n\n[Verse 1]\n月曜の朝 財布がない\nポケット全部 三回裏返す\n駅前交番で 用紙に書いた\n黒い二つ折り 中身は三万\n\n[Pre-Chorus]\n木曜の夜 知らない番号\n「遺失物センターです」って声\n\n[Chorus]\n五分から二割 お礼の相場\n拾った人に いくら渡そう\n三万円なら 千五百から六千\n財布は戻った 悩みが増えた\n\n[Verse 2]\n飯田橋まで 取りに行ったら\n小銭の七円まで 全部ある\n拾い主は 高二の野球部\nお礼の欄に 「請求する」\n\n[Chorus]\n五分から二割 お礼の相場\nケチと思われたくは ないけど\n三万円なら 千五百から六千\n電話の前で 正座してる\n\n[Bridge - 808 drops out, cowbell and hand claps only]\nグローブ買うには 足りないか\n牛丼だったら 何杯いける\n\n[Chorus]\n五分から二割 決めたぞ二割\n六千円を 封筒に入れて\n「新しいボール 買ってくれ」って\n一行だけ 書いて渡す\n\n[Outro - tamborzão fades under the cowbell riff]"
+  },
+  "seed": "100244388",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 77.77s**\n- 77.77s per song\n- LM phase (1 song): 19.47s\n- DiT phase (1 song): 58.30s",
+  "task_id": "1a1336c5-3500-4da4-8997-3b6358f59051",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-10-18T12:49:16.506844+08:00",
+  "audio": "b12_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.34,
+      "end": 18.34,
+      "text": "[Intro - tamborzão drums, distorted 808 slides, phonk cowbell riff]"
+    },
+    {
+      "t": 18.34,
+      "end": 18.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.34,
+      "end": 22.46,
+      "text": "月曜の朝 財布がない"
+    },
+    {
+      "t": 22.48,
+      "end": 25.2,
+      "text": "ポケット全部 三回裏返す"
+    },
+    {
+      "t": 25.32,
+      "end": 28.42,
+      "text": "駅前交番で 用紙に書いた"
+    },
+    {
+      "t": 30.44,
+      "end": 32.52,
+      "text": "黒い二つ折り 中身は三万"
+    },
+    {
+      "t": 32.54,
+      "end": 32.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.54,
+      "end": 38.14,
+      "text": "木曜の夜 知らない番号"
+    },
+    {
+      "t": 38.18,
+      "end": 45.01,
+      "text": "「遺失物センターです」って声"
+    },
+    {
+      "t": 45.21,
+      "end": 45.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.21,
+      "end": 48.91,
+      "text": "五分から二割 お礼の相場"
+    },
+    {
+      "t": 49.03,
+      "end": 51.97,
+      "text": "拾った人に いくら渡そう"
+    },
+    {
+      "t": 52.17,
+      "end": 58.45,
+      "text": "三万円なら 千五百から六千"
+    },
+    {
+      "t": 58.57,
+      "end": 67.23,
+      "text": "財布は戻った 悩みが増えた"
+    },
+    {
+      "t": 68.03,
+      "end": 68.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.03,
+      "end": 71.19,
+      "text": "飯田橋まで 取りに行ったら"
+    },
+    {
+      "t": 71.51,
+      "end": 74.67,
+      "text": "小銭の七円まで 全部ある"
+    },
+    {
+      "t": 75.47,
+      "end": 78.77,
+      "text": "拾い主は 高二の野球部"
+    },
+    {
+      "t": 79.19,
+      "end": 82.69,
+      "text": "お礼の欄に 「請求する」"
+    },
+    {
+      "t": 88.59,
+      "end": 88.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.59,
+      "end": 91.63,
+      "text": "五分から二割 お礼の相場"
+    },
+    {
+      "t": 92.01,
+      "end": 94.93,
+      "text": "ケチと思われたくは ないけど"
+    },
+    {
+      "t": 95.71,
+      "end": 98.63,
+      "text": "三万円なら 千五百から六千"
+    },
+    {
+      "t": 98.75,
+      "end": 102.77,
+      "text": "電話の前で 正座してる"
+    },
+    {
+      "t": 103.59,
+      "end": 103.59,
+      "text": "[Bridge - 808 drops out, cowbell and hand claps only]"
+    },
+    {
+      "t": 103.59,
+      "end": 107.63,
+      "text": "グローブ買うには 足りないか"
+    },
+    {
+      "t": 110.43,
+      "end": 115.27,
+      "text": "牛丼だったら 何杯いける"
+    },
+    {
+      "t": 122.03,
+      "end": 122.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.03,
+      "end": 129.99,
+      "text": "五分から二割 決めたぞ二割"
+    },
+    {
+      "t": 130.57,
+      "end": 132.73,
+      "text": "六千円を 封筒に入れて"
+    },
+    {
+      "t": 134.45,
+      "end": 137.56,
+      "text": "「新しいボール 買ってくれ」って"
+    },
+    {
+      "t": 137.9,
+      "end": 144.12,
+      "text": "一行だけ 書いて渡す"
+    },
+    {
+      "t": 144.12,
+      "end": 144.12,
+      "text": "[Outro - tamborzão fades under the cowbell riff]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.02,
+      "end": 23.02,
+      "text": "[Intro - tamborzão drums, distorted 808 slides, phonk cowbell riff]"
+    },
+    {
+      "t": 23.02,
+      "end": 23.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.02,
+      "end": 30.28,
+      "text": "月曜の朝 財布がない"
+    },
+    {
+      "t": 30.4,
+      "end": 32.08,
+      "text": "ポケット全部 三回裏返す"
+    },
+    {
+      "t": 32.1,
+      "end": 34.44,
+      "text": "駅前交番で 用紙に書いた"
+    },
+    {
+      "t": 34.54,
+      "end": 40.7,
+      "text": "黒い二つ折り 中身は三万"
+    },
+    {
+      "t": 41.04,
+      "end": 41.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.04,
+      "end": 51.29,
+      "text": "木曜の夜 知らない番号"
+    },
+    {
+      "t": 51.33,
+      "end": 58.37,
+      "text": "「遺失物センターです」って声"
+    },
+    {
+      "t": 58.57,
+      "end": 58.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.57,
+      "end": 68.23,
+      "text": "五分から二割 お礼の相場"
+    },
+    {
+      "t": 68.35,
+      "end": 70.01,
+      "text": "拾った人に いくら渡そう"
+    },
+    {
+      "t": 70.19,
+      "end": 71.19,
+      "text": "三万円なら 千五百から六千"
+    },
+    {
+      "t": 71.51,
+      "end": 73.01,
+      "text": "財布は戻った 悩みが増えた"
+    },
+    {
+      "t": 73.35,
+      "end": 73.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.35,
+      "end": 76.67,
+      "text": "飯田橋まで 取りに行ったら"
+    },
+    {
+      "t": 76.67,
+      "end": 78.37,
+      "text": "小銭の七円まで 全部ある"
+    },
+    {
+      "t": 78.37,
+      "end": 79.11,
+      "text": "拾い主は 高二の野球部"
+    },
+    {
+      "t": 79.19,
+      "end": 82.71,
+      "text": "お礼の欄に 「請求する」"
+    },
+    {
+      "t": 82.75,
+      "end": 82.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.75,
+      "end": 91.37,
+      "text": "五分から二割 お礼の相場"
+    },
+    {
+      "t": 92.01,
+      "end": 94.95,
+      "text": "ケチと思われたくは ないけど"
+    },
+    {
+      "t": 95.71,
+      "end": 98.65,
+      "text": "三万円なら 千五百から六千"
+    },
+    {
+      "t": 98.75,
+      "end": 102.79,
+      "text": "電話の前で 正座してる"
+    },
+    {
+      "t": 103.57,
+      "end": 103.57,
+      "text": "[Bridge - 808 drops out, cowbell and hand claps only]"
+    },
+    {
+      "t": 103.57,
+      "end": 107.63,
+      "text": "グローブ買うには 足りないか"
+    },
+    {
+      "t": 110.43,
+      "end": 115.27,
+      "text": "牛丼だったら 何杯いける"
+    },
+    {
+      "t": 127.35,
+      "end": 127.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.35,
+      "end": 130.01,
+      "text": "五分から二割 決めたぞ二割"
+    },
+    {
+      "t": 130.59,
+      "end": 132.73,
+      "text": "六千円を 封筒に入れて"
+    },
+    {
+      "t": 134.43,
+      "end": 137.56,
+      "text": "「新しいボール 買ってくれ」って"
+    },
+    {
+      "t": 137.9,
+      "end": 144.12,
+      "text": "一行だけ 書いて渡す"
+    },
+    {
+      "t": 144.12,
+      "end": 144.12,
+      "text": "[Outro - tamborzão fades under the cowbell riff]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

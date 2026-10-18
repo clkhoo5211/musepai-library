@@ -1,0 +1,564 @@
+{
+  "id": "b12_id03",
+  "title": "Laporan Jam Dua Pagi",
+  "title_source": "scripted",
+  "genre": "Indonesian musical-theatre show tune",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "breathless, grand and tongue-in-cheek",
+  "persona": "",
+  "subject": "the night observer at the Merapi observation post in Kaliurang alone with the seismograph, counting avalanche quakes and phoning in the alert-level report to Yogyakarta, staged by himself as a one-man opera",
+  "caption": "Indonesian musical-theatre show tune, a one-man opera patter number from a stage musical cast recording. A bright stride piano driving the vamp; clarinet runs and muted trumpet and trombone stabs punctuating every joke; pizzicato strings under the verses opening into bowed strings in the chorus; snare with brushes and a woodblock ticking the patter. Stage cast-recording sound with natural hall ambience, orchestra in front of the singers, no pop compression. Male tenor lead in fast, crisp comic patter with clear theatre diction, answered by a mixed ensemble playing the voices in his head and on the phone, a key change into the last chorus. 132 BPM, B-flat major. Breathless, grand and tongue-in-cheek. No pop drum kit, no EDM, no autotune, no rock guitar, no operatic vibrato.",
+  "lyrics": "[Intro - pit orchestra fanfare, stride piano vamp]\n\n[Verse 1 - Male lead, patter]\nPos Pengamatan Kaliurang, jam dua pagi\nKopi sachet ketiga, termos sudah sepi\nJarum seismograf menari di kertas gulung\nSatu guguran, dua guguran, aku yang menghitung\n\n[Pre-Chorus - Male lead]\nPenontonku cuma cicak di atas jendela\nTapi malam ini aku bintang utama\n\n[Chorus - Ensemble]\nMerapi, Merapi, kamu nggak pernah tidur\nAku juga, aku juga, mata merah, jauh dari kasur\nGaris naik, garis turun, catat semuanya\nStatus Siaga, belum berubah\n\n[Verse 2 - Male lead, patter]\nLima belas kali guguran, arah barat daya\nAsap putih tipis, tinggi lima puluh meter saja\nKutulis rapi di buku, angka sama jam\nLalu kuangkat telepon seperti aria malam\n\n[Chorus - Ensemble]\nMerapi, Merapi, kamu nggak pernah tidur\nAku juga, aku juga, sampai ayam jantan berkokok\nHalo, Yogya, ini pos Kaliurang\nStatus Siaga, semua tenang\n\n[Bridge - Ensemble as the voice on the phone, then Male lead]\n\"Terima kasih, Mas, laporannya diterima\"\nKlik, telepon mati, nggak ada tepuk tangan\nAku membungkuk ke arah gunung yang gelap\nCicak di jendela pun pergi diam-diam\n\n[Chorus - Full ensemble, key change]\nMerapi, Merapi, kamu nggak pernah tidur\nAku juga, aku juga, kursi penonton masih kosong\nJam enam ganti jaga, kopi buat temanku\nBesok malam layar naik lagi\n\n[Outro - orchestra button, one woodblock hit]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Indonesian musical-theatre show tune, a one-man opera patter number from a stage musical cast recording. A bright stride piano driving the vamp; clarinet runs and muted trumpet and trombone stabs punctuating every joke; pizzicato strings under the verses opening into bowed strings in the chorus; snare with brushes and a woodblock ticking the patter. Stage cast-recording sound with natural hall ambience, orchestra in front of the singers, no pop compression. Male tenor lead in fast, crisp comic patter with clear theatre diction, answered by a mixed ensemble playing the voices in his head and on the phone, a key change into the last chorus. 132 BPM, B-flat major. Breathless, grand and tongue-in-cheek. No pop drum kit, no EDM, no autotune, no rock guitar, no operatic vibrato.",
+    "lyrics": "[Intro - pit orchestra fanfare, stride piano vamp]\n\n[Verse 1 - Male lead, patter]\nPos Pengamatan Kaliurang, jam dua pagi\nKopi sachet ketiga, termos sudah sepi\nJarum seismograf menari di kertas gulung\nSatu guguran, dua guguran, aku yang menghitung\n\n[Pre-Chorus - Male lead]\nPenontonku cuma cicak di atas jendela\nTapi malam ini aku bintang utama\n\n[Chorus - Ensemble]\nMerapi, Merapi, kamu nggak pernah tidur\nAku juga, aku juga, mata merah, jauh dari kasur\nGaris naik, garis turun, catat semuanya\nStatus Siaga, belum berubah\n\n[Verse 2 - Male lead, patter]\nLima belas kali guguran, arah barat daya\nAsap putih tipis, tinggi lima puluh meter saja\nKutulis rapi di buku, angka sama jam\nLalu kuangkat telepon seperti aria malam\n\n[Chorus - Ensemble]\nMerapi, Merapi, kamu nggak pernah tidur\nAku juga, aku juga, sampai ayam jantan berkokok\nHalo, Yogya, ini pos Kaliurang\nStatus Siaga, semua tenang\n\n[Bridge - Ensemble as the voice on the phone, then Male lead]\n\"Terima kasih, Mas, laporannya diterima\"\nKlik, telepon mati, nggak ada tepuk tangan\nAku membungkuk ke arah gunung yang gelap\nCicak di jendela pun pergi diam-diam\n\n[Chorus - Full ensemble, key change]\nMerapi, Merapi, kamu nggak pernah tidur\nAku juga, aku juga, kursi penonton masih kosong\nJam enam ganti jaga, kopi buat temanku\nBesok malam layar naik lagi\n\n[Outro - orchestra button, one woodblock hit]"
+  },
+  "seed": "1697342448",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.95s**\n- 69.95s per song\n- LM phase (1 song): 15.78s\n- DiT phase (1 song): 54.17s",
+  "task_id": "9e57e6cf-6d1c-4590-bb07-07befcf13071",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-10-18T12:04:54.269783+08:00",
+  "audio": "b12_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 14.04,
+      "end": 14.04,
+      "text": "[Intro - pit orchestra fanfare, stride piano vamp]"
+    },
+    {
+      "t": 14.04,
+      "end": 14.04,
+      "text": "[Verse 1 - Male lead, patter]"
+    },
+    {
+      "t": 14.04,
+      "end": 21.56,
+      "text": "Pos Pengamatan Kaliurang, jam dua pagi"
+    },
+    {
+      "t": 23.68,
+      "end": 27.04,
+      "text": "Kopi sachet ketiga, termos sudah sepi"
+    },
+    {
+      "t": 28.42,
+      "end": 33.22,
+      "text": "Jarum seismograf menari di kertas gulung"
+    },
+    {
+      "t": 34.86,
+      "end": 40.2,
+      "text": "Satu guguran, dua guguran, aku yang menghitung"
+    },
+    {
+      "t": 40.2,
+      "end": 40.2,
+      "text": "[Pre-Chorus - Male lead]"
+    },
+    {
+      "t": 40.2,
+      "end": 42.08,
+      "text": "Penontonku cuma cicak di atas jendela"
+    },
+    {
+      "t": 42.12,
+      "end": 44.48,
+      "text": "Tapi malam ini aku bintang utama"
+    },
+    {
+      "t": 44.48,
+      "end": 44.48,
+      "text": "[Chorus - Ensemble]"
+    },
+    {
+      "t": 44.48,
+      "end": 48.7,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 50.06,
+      "end": 55.97,
+      "text": "Aku juga, aku juga, mata merah, jauh dari kasur"
+    },
+    {
+      "t": 56.75,
+      "end": 63.07,
+      "text": "Garis naik, garis turun, catat semuanya"
+    },
+    {
+      "t": 64.21,
+      "end": 69.31,
+      "text": "Status Siaga, belum berubah"
+    },
+    {
+      "t": 69.31,
+      "end": 69.31,
+      "text": "[Verse 2 - Male lead, patter]"
+    },
+    {
+      "t": 69.31,
+      "end": 71.23,
+      "text": "Lima belas kali guguran, arah barat daya"
+    },
+    {
+      "t": 71.31,
+      "end": 76.01,
+      "text": "Asap putih tipis, tinggi lima puluh meter saja"
+    },
+    {
+      "t": 76.07,
+      "end": 79.67,
+      "text": "Kutulis rapi di buku, angka sama jam"
+    },
+    {
+      "t": 79.67,
+      "end": 83.17,
+      "text": "Lalu kuangkat telepon seperti aria malam"
+    },
+    {
+      "t": 84.13,
+      "end": 84.13,
+      "text": "[Chorus - Ensemble]"
+    },
+    {
+      "t": 84.13,
+      "end": 90.59,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 91.45,
+      "end": 97.93,
+      "text": "Aku juga, aku juga, sampai ayam jantan berkokok"
+    },
+    {
+      "t": 101.13,
+      "end": 105.49,
+      "text": "Halo, Yogya, ini pos Kaliurang"
+    },
+    {
+      "t": 106.67,
+      "end": 112.23,
+      "text": "Status Siaga, semua tenang"
+    },
+    {
+      "t": 119.61,
+      "end": 119.61,
+      "text": "[Bridge - Ensemble as the voice on the phone, then Male lead]"
+    },
+    {
+      "t": 119.61,
+      "end": 122.25,
+      "text": "\"Terima kasih, Mas, laporannya diterima\""
+    },
+    {
+      "t": 122.59,
+      "end": 134.05,
+      "text": "Klik, telepon mati, nggak ada tepuk tangan"
+    },
+    {
+      "t": 135.87,
+      "end": 141.31,
+      "text": "Aku membungkuk ke arah gunung yang gelap"
+    },
+    {
+      "t": 142.57,
+      "end": 149.01,
+      "text": "Cicak di jendela pun pergi diam-diam"
+    },
+    {
+      "t": 150.45,
+      "end": 150.45,
+      "text": "[Chorus - Full ensemble, key change]"
+    },
+    {
+      "t": 150.45,
+      "end": 156.91,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 157.82,
+      "end": 164.4,
+      "text": "Aku juga, aku juga, kursi penonton masih kosong"
+    },
+    {
+      "t": 165.44,
+      "end": 170.88,
+      "text": "Jam enam ganti jaga, kopi buat temanku"
+    },
+    {
+      "t": 173.2,
+      "end": 190.02,
+      "text": "Besok malam layar naik lagi"
+    },
+    {
+      "t": 190.02,
+      "end": 190.02,
+      "text": "[Outro - orchestra button, one woodblock hit]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 14.04,
+      "end": 14.04,
+      "text": "[Intro - pit orchestra fanfare, stride piano vamp]"
+    },
+    {
+      "t": 14.04,
+      "end": 14.04,
+      "text": "[Verse 1 - Male lead, patter]"
+    },
+    {
+      "t": 14.04,
+      "end": 21.56,
+      "text": "Pos Pengamatan Kaliurang, jam dua pagi"
+    },
+    {
+      "t": 23.68,
+      "end": 27.04,
+      "text": "Kopi sachet ketiga, termos sudah sepi"
+    },
+    {
+      "t": 28.42,
+      "end": 33.22,
+      "text": "Jarum seismograf menari di kertas gulung"
+    },
+    {
+      "t": 34.86,
+      "end": 40.2,
+      "text": "Satu guguran, dua guguran, aku yang menghitung"
+    },
+    {
+      "t": 40.2,
+      "end": 40.2,
+      "text": "[Pre-Chorus - Male lead]"
+    },
+    {
+      "t": 40.2,
+      "end": 42.08,
+      "text": "Penontonku cuma cicak di atas jendela"
+    },
+    {
+      "t": 42.12,
+      "end": 44.48,
+      "text": "Tapi malam ini aku bintang utama"
+    },
+    {
+      "t": 44.48,
+      "end": 44.48,
+      "text": "[Chorus - Ensemble]"
+    },
+    {
+      "t": 44.48,
+      "end": 48.7,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 50.06,
+      "end": 55.97,
+      "text": "Aku juga, aku juga, mata merah, jauh dari kasur"
+    },
+    {
+      "t": 56.75,
+      "end": 63.07,
+      "text": "Garis naik, garis turun, catat semuanya"
+    },
+    {
+      "t": 64.21,
+      "end": 69.31,
+      "text": "Status Siaga, belum berubah"
+    },
+    {
+      "t": 69.31,
+      "end": 69.31,
+      "text": "[Verse 2 - Male lead, patter]"
+    },
+    {
+      "t": 69.31,
+      "end": 71.23,
+      "text": "Lima belas kali guguran, arah barat daya"
+    },
+    {
+      "t": 71.31,
+      "end": 76.01,
+      "text": "Asap putih tipis, tinggi lima puluh meter saja"
+    },
+    {
+      "t": 76.07,
+      "end": 79.67,
+      "text": "Kutulis rapi di buku, angka sama jam"
+    },
+    {
+      "t": 79.67,
+      "end": 83.17,
+      "text": "Lalu kuangkat telepon seperti aria malam"
+    },
+    {
+      "t": 84.13,
+      "end": 84.13,
+      "text": "[Chorus - Ensemble]"
+    },
+    {
+      "t": 84.13,
+      "end": 90.59,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 91.45,
+      "end": 97.93,
+      "text": "Aku juga, aku juga, sampai ayam jantan berkokok"
+    },
+    {
+      "t": 101.13,
+      "end": 105.49,
+      "text": "Halo, Yogya, ini pos Kaliurang"
+    },
+    {
+      "t": 106.67,
+      "end": 112.23,
+      "text": "Status Siaga, semua tenang"
+    },
+    {
+      "t": 119.61,
+      "end": 119.61,
+      "text": "[Bridge - Ensemble as the voice on the phone, then Male lead]"
+    },
+    {
+      "t": 119.61,
+      "end": 122.25,
+      "text": "\"Terima kasih, Mas, laporannya diterima\""
+    },
+    {
+      "t": 122.59,
+      "end": 134.05,
+      "text": "Klik, telepon mati, nggak ada tepuk tangan"
+    },
+    {
+      "t": 135.87,
+      "end": 141.31,
+      "text": "Aku membungkuk ke arah gunung yang gelap"
+    },
+    {
+      "t": 142.57,
+      "end": 149.01,
+      "text": "Cicak di jendela pun pergi diam-diam"
+    },
+    {
+      "t": 150.45,
+      "end": 150.45,
+      "text": "[Chorus - Full ensemble, key change]"
+    },
+    {
+      "t": 150.45,
+      "end": 156.91,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 157.82,
+      "end": 164.4,
+      "text": "Aku juga, aku juga, kursi penonton masih kosong"
+    },
+    {
+      "t": 165.44,
+      "end": 170.88,
+      "text": "Jam enam ganti jaga, kopi buat temanku"
+    },
+    {
+      "t": 173.2,
+      "end": 190.02,
+      "text": "Besok malam layar naik lagi"
+    },
+    {
+      "t": 190.02,
+      "end": 190.02,
+      "text": "[Outro - orchestra button, one woodblock hit]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 14.04,
+      "end": 14.04,
+      "text": "[Intro - pit orchestra fanfare, stride piano vamp]"
+    },
+    {
+      "t": 14.04,
+      "end": 14.04,
+      "text": "[Verse 1 - Male lead, patter]"
+    },
+    {
+      "t": 14.04,
+      "end": 21.56,
+      "text": "Pos Pengamatan Kaliurang, jam dua pagi"
+    },
+    {
+      "t": 23.68,
+      "end": 27.04,
+      "text": "Kopi sachet ketiga, termos sudah sepi"
+    },
+    {
+      "t": 28.42,
+      "end": 33.2,
+      "text": "Jarum seismograf menari di kertas gulung"
+    },
+    {
+      "t": 34.86,
+      "end": 40.94,
+      "text": "Satu guguran, dua guguran, aku yang menghitung"
+    },
+    {
+      "t": 40.94,
+      "end": 40.94,
+      "text": "[Pre-Chorus - Male lead]"
+    },
+    {
+      "t": 40.94,
+      "end": 41.94,
+      "text": "Penontonku cuma cicak di atas jendela"
+    },
+    {
+      "t": 41.98,
+      "end": 44.5,
+      "text": "Tapi malam ini aku bintang utama"
+    },
+    {
+      "t": 44.5,
+      "end": 44.5,
+      "text": "[Chorus - Ensemble]"
+    },
+    {
+      "t": 44.5,
+      "end": 48.7,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 50.06,
+      "end": 55.97,
+      "text": "Aku juga, aku juga, mata merah, jauh dari kasur"
+    },
+    {
+      "t": 56.77,
+      "end": 63.07,
+      "text": "Garis naik, garis turun, catat semuanya"
+    },
+    {
+      "t": 64.45,
+      "end": 66.61,
+      "text": "Status Siaga, belum berubah"
+    },
+    {
+      "t": 66.63,
+      "end": 66.63,
+      "text": "[Verse 2 - Male lead, patter]"
+    },
+    {
+      "t": 66.63,
+      "end": 71.23,
+      "text": "Lima belas kali guguran, arah barat daya"
+    },
+    {
+      "t": 71.31,
+      "end": 76.07,
+      "text": "Asap putih tipis, tinggi lima puluh meter saja"
+    },
+    {
+      "t": 76.07,
+      "end": 79.65,
+      "text": "Kutulis rapi di buku, angka sama jam"
+    },
+    {
+      "t": 79.65,
+      "end": 83.39,
+      "text": "Lalu kuangkat telepon seperti aria malam"
+    },
+    {
+      "t": 84.13,
+      "end": 84.13,
+      "text": "[Chorus - Ensemble]"
+    },
+    {
+      "t": 84.13,
+      "end": 90.61,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 91.47,
+      "end": 97.89,
+      "text": "Aku juga, aku juga, sampai ayam jantan berkokok"
+    },
+    {
+      "t": 101.13,
+      "end": 105.47,
+      "text": "Halo, Yogya, ini pos Kaliurang"
+    },
+    {
+      "t": 106.65,
+      "end": 111.85,
+      "text": "Status Siaga, semua tenang"
+    },
+    {
+      "t": 118.75,
+      "end": 118.75,
+      "text": "[Bridge - Ensemble as the voice on the phone, then Male lead]"
+    },
+    {
+      "t": 118.75,
+      "end": 122.25,
+      "text": "\"Terima kasih, Mas, laporannya diterima\""
+    },
+    {
+      "t": 122.33,
+      "end": 134.01,
+      "text": "Klik, telepon mati, nggak ada tepuk tangan"
+    },
+    {
+      "t": 135.85,
+      "end": 141.33,
+      "text": "Aku membungkuk ke arah gunung yang gelap"
+    },
+    {
+      "t": 142.57,
+      "end": 149.01,
+      "text": "Cicak di jendela pun pergi diam-diam"
+    },
+    {
+      "t": 150.47,
+      "end": 150.47,
+      "text": "[Chorus - Full ensemble, key change]"
+    },
+    {
+      "t": 150.47,
+      "end": 156.91,
+      "text": "Merapi, Merapi, kamu nggak pernah tidur"
+    },
+    {
+      "t": 157.82,
+      "end": 164.4,
+      "text": "Aku juga, aku juga, kursi penonton masih kosong"
+    },
+    {
+      "t": 165.46,
+      "end": 170.88,
+      "text": "Jam enam ganti jaga, kopi buat temanku"
+    },
+    {
+      "t": 173.22,
+      "end": 203.88,
+      "text": "Besok malam layar naik lagi"
+    },
+    {
+      "t": 203.88,
+      "end": 203.88,
+      "text": "[Outro - orchestra button, one woodblock hit]"
+    }
+  ]
+}

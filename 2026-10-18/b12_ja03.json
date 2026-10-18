@@ -1,0 +1,534 @@
+{
+  "id": "b12_ja03",
+  "title": "赤で「残す」",
+  "title_source": "scripted",
+  "genre": "Japanese a cappella vocal group pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "tender, hopeful, quietly funny",
+  "persona": "",
+  "subject": "a junior editor at a dictionary publisher who falls for the proofreader across the desk island; during the revision he slips a new example sentence for 恋 into the draft, and the galley comes back with her red-pen mark: 残す",
+  "caption": "Japanese a cappella vocal group pop in the Hamonep contest style, voices only: a deep bass singer walking the bass line, a beatboxer playing a soft kick, rimshot and hi-hat groove, three close-harmony backing voices singing 'doo' and 'bah' pads, and a falsetto descant over the last chorus. Intimate, dry, close room sound. Male light tenor lead, warm and plain-spoken, a little shy in the verses and opening up in the chorus. 84 BPM, A major. Tender, hopeful and quietly funny. No piano, no guitar, no drum kit, no synthesizers, no orchestra, no autotune.",
+  "lyrics": "[Intro - five-part humming chord, then beatbox enters]\n\n[Verse 1]\n辞書の改訂 三年目の秋\n向かいの席の 校正の人\n赤ペンの音が 一日じゅう\n僕の原稿を 静かに直す\n\n[Pre-Chorus]\n「用例が古い」 付箋が一枚\n「今どき 文通はしません」\n\n[Chorus]\nこい【恋】 そのページの 一番下に\nこっそり一行 書き足した\n「向かいの席の 赤ペンが気になる」\nこれって 用例に なるのかな\n\n[Verse 2]\nゲラが戻るのは 金曜の夕方\nほかの直しは いつもどおり\n送り仮名と 句読点と\n僕の誤字に 丸がふたつ\n\n[Chorus]\nこい【恋】 そのページの 一番下に\n赤い字で 小さく書いてある\n消されると 思っていたのに\n「残す」って 二文字だけ\n\n[Bridge - bass voice and beatbox only]\n校了まで あと二か月\nその前に 口で言おう\n\n[Chorus - full harmony, falsetto descant]\nこい【恋】 そのページの 一番下に\n僕らの一行 印刷される\n来年の春 書店に並ぶ\n二人で 一冊 買いに行こう\n\n[Outro - humming, beatbox stops, one held chord]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "2",
+    "prompt": "Japanese a cappella vocal group pop in the Hamonep contest style, voices only: a deep bass singer walking the bass line, a beatboxer playing a soft kick, rimshot and hi-hat groove, three close-harmony backing voices singing 'doo' and 'bah' pads, and a falsetto descant over the last chorus. Intimate, dry, close room sound. Male light tenor lead, warm and plain-spoken, a little shy in the verses and opening up in the chorus. 84 BPM, A major. Tender, hopeful and quietly funny. No piano, no guitar, no drum kit, no synthesizers, no orchestra, no autotune.",
+    "lyrics": "[Intro - five-part humming chord, then beatbox enters]\n\n[Verse 1]\n辞書の改訂 三年目の秋\n向かいの席の 校正の人\n赤ペンの音が 一日じゅう\n僕の原稿を 静かに直す\n\n[Pre-Chorus]\n「用例が古い」 付箋が一枚\n「今どき 文通はしません」\n\n[Chorus]\nこい【恋】 そのページの 一番下に\nこっそり一行 書き足した\n「向かいの席の 赤ペンが気になる」\nこれって 用例に なるのかな\n\n[Verse 2]\nゲラが戻るのは 金曜の夕方\nほかの直しは いつもどおり\n送り仮名と 句読点と\n僕の誤字に 丸がふたつ\n\n[Chorus]\nこい【恋】 そのページの 一番下に\n赤い字で 小さく書いてある\n消されると 思っていたのに\n「残す」って 二文字だけ\n\n[Bridge - bass voice and beatbox only]\n校了まで あと二か月\nその前に 口で言おう\n\n[Chorus - full harmony, falsetto descant]\nこい【恋】 そのページの 一番下に\n僕らの一行 印刷される\n来年の春 書店に並ぶ\n二人で 一冊 買いに行こう\n\n[Outro - humming, beatbox stops, one held chord]"
+  },
+  "seed": "1657531216",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 87.27s**\n- 87.27s per song\n- LM phase (1 song): 18.50s\n- DiT phase (1 song): 68.78s",
+  "task_id": "c34d9287-eee9-4e53-9508-be3ebcf90de9",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-10-18T12:53:16.951288+08:00",
+  "audio": "b12_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Intro - five-part humming chord, then beatbox enters]"
+    },
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.34,
+      "end": 29.06,
+      "text": "辞書の改訂 三年目の秋"
+    },
+    {
+      "t": 29.12,
+      "end": 32.04,
+      "text": "向かいの席の 校正の人"
+    },
+    {
+      "t": 34.0,
+      "end": 38.46,
+      "text": "赤ペンの音が 一日じゅう"
+    },
+    {
+      "t": 39.22,
+      "end": 42.44,
+      "text": "僕の原稿を 静かに直す"
+    },
+    {
+      "t": 44.94,
+      "end": 44.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.94,
+      "end": 49.18,
+      "text": "「用例が古い」 付箋が一枚"
+    },
+    {
+      "t": 50.69,
+      "end": 54.91,
+      "text": "「今どき 文通はしません」"
+    },
+    {
+      "t": 56.35,
+      "end": 56.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.35,
+      "end": 60.79,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 61.69,
+      "end": 64.21,
+      "text": "こっそり一行 書き足した"
+    },
+    {
+      "t": 64.23,
+      "end": 67.87,
+      "text": "「向かいの席の 赤ペンが気になる」"
+    },
+    {
+      "t": 68.41,
+      "end": 70.23,
+      "text": "これって 用例に なるのかな"
+    },
+    {
+      "t": 70.23,
+      "end": 70.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.23,
+      "end": 75.61,
+      "text": "ゲラが戻るのは 金曜の夕方"
+    },
+    {
+      "t": 75.61,
+      "end": 77.47,
+      "text": "ほかの直しは いつもどおり"
+    },
+    {
+      "t": 79.09,
+      "end": 81.79,
+      "text": "送り仮名と 句読点と"
+    },
+    {
+      "t": 81.99,
+      "end": 83.17,
+      "text": "僕の誤字に 丸がふたつ"
+    },
+    {
+      "t": 83.25,
+      "end": 83.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 83.25,
+      "end": 85.35,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 85.37,
+      "end": 87.83,
+      "text": "赤い字で 小さく書いてある"
+    },
+    {
+      "t": 89.81,
+      "end": 93.55,
+      "text": "消されると 思っていたのに"
+    },
+    {
+      "t": 95.53,
+      "end": 99.19,
+      "text": "「残す」って 二文字だけ"
+    },
+    {
+      "t": 115.49,
+      "end": 115.49,
+      "text": "[Bridge - bass voice and beatbox only]"
+    },
+    {
+      "t": 115.49,
+      "end": 119.23,
+      "text": "校了まで あと二か月"
+    },
+    {
+      "t": 121.21,
+      "end": 124.77,
+      "text": "その前に 口で言おう"
+    },
+    {
+      "t": 124.87,
+      "end": 124.87,
+      "text": "[Chorus - full harmony, falsetto descant]"
+    },
+    {
+      "t": 124.87,
+      "end": 131.07,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 132.35,
+      "end": 136.63,
+      "text": "僕らの一行 印刷される"
+    },
+    {
+      "t": 138.07,
+      "end": 150.3,
+      "text": "来年の春 書店に並ぶ"
+    },
+    {
+      "t": 150.4,
+      "end": 161.4,
+      "text": "二人で 一冊 買いに行こう"
+    },
+    {
+      "t": 161.4,
+      "end": 161.4,
+      "text": "[Outro - humming, beatbox stops, one held chord]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Intro - five-part humming chord, then beatbox enters]"
+    },
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.34,
+      "end": 29.06,
+      "text": "辞書の改訂 三年目の秋"
+    },
+    {
+      "t": 29.12,
+      "end": 32.04,
+      "text": "向かいの席の 校正の人"
+    },
+    {
+      "t": 34.0,
+      "end": 38.46,
+      "text": "赤ペンの音が 一日じゅう"
+    },
+    {
+      "t": 39.22,
+      "end": 42.44,
+      "text": "僕の原稿を 静かに直す"
+    },
+    {
+      "t": 44.94,
+      "end": 44.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.94,
+      "end": 49.18,
+      "text": "「用例が古い」 付箋が一枚"
+    },
+    {
+      "t": 50.69,
+      "end": 54.91,
+      "text": "「今どき 文通はしません」"
+    },
+    {
+      "t": 56.35,
+      "end": 56.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.35,
+      "end": 60.79,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 61.69,
+      "end": 64.21,
+      "text": "こっそり一行 書き足した"
+    },
+    {
+      "t": 64.23,
+      "end": 67.87,
+      "text": "「向かいの席の 赤ペンが気になる」"
+    },
+    {
+      "t": 68.41,
+      "end": 70.23,
+      "text": "これって 用例に なるのかな"
+    },
+    {
+      "t": 70.23,
+      "end": 70.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.23,
+      "end": 75.61,
+      "text": "ゲラが戻るのは 金曜の夕方"
+    },
+    {
+      "t": 75.61,
+      "end": 77.47,
+      "text": "ほかの直しは いつもどおり"
+    },
+    {
+      "t": 79.09,
+      "end": 81.79,
+      "text": "送り仮名と 句読点と"
+    },
+    {
+      "t": 81.99,
+      "end": 83.17,
+      "text": "僕の誤字に 丸がふたつ"
+    },
+    {
+      "t": 83.25,
+      "end": 83.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 83.25,
+      "end": 85.35,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 85.37,
+      "end": 87.83,
+      "text": "赤い字で 小さく書いてある"
+    },
+    {
+      "t": 89.81,
+      "end": 93.55,
+      "text": "消されると 思っていたのに"
+    },
+    {
+      "t": 95.53,
+      "end": 99.19,
+      "text": "「残す」って 二文字だけ"
+    },
+    {
+      "t": 115.49,
+      "end": 115.49,
+      "text": "[Bridge - bass voice and beatbox only]"
+    },
+    {
+      "t": 115.49,
+      "end": 119.23,
+      "text": "校了まで あと二か月"
+    },
+    {
+      "t": 121.21,
+      "end": 124.77,
+      "text": "その前に 口で言おう"
+    },
+    {
+      "t": 124.87,
+      "end": 124.87,
+      "text": "[Chorus - full harmony, falsetto descant]"
+    },
+    {
+      "t": 124.87,
+      "end": 131.07,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 132.35,
+      "end": 136.63,
+      "text": "僕らの一行 印刷される"
+    },
+    {
+      "t": 138.07,
+      "end": 150.3,
+      "text": "来年の春 書店に並ぶ"
+    },
+    {
+      "t": 150.4,
+      "end": 161.4,
+      "text": "二人で 一冊 買いに行こう"
+    },
+    {
+      "t": 161.4,
+      "end": 161.4,
+      "text": "[Outro - humming, beatbox stops, one held chord]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Intro - five-part humming chord, then beatbox enters]"
+    },
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.34,
+      "end": 29.06,
+      "text": "辞書の改訂 三年目の秋"
+    },
+    {
+      "t": 29.12,
+      "end": 32.04,
+      "text": "向かいの席の 校正の人"
+    },
+    {
+      "t": 34.0,
+      "end": 38.46,
+      "text": "赤ペンの音が 一日じゅう"
+    },
+    {
+      "t": 39.22,
+      "end": 42.44,
+      "text": "僕の原稿を 静かに直す"
+    },
+    {
+      "t": 44.96,
+      "end": 44.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.96,
+      "end": 49.16,
+      "text": "「用例が古い」 付箋が一枚"
+    },
+    {
+      "t": 50.69,
+      "end": 54.91,
+      "text": "「今どき 文通はしません」"
+    },
+    {
+      "t": 56.35,
+      "end": 56.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.35,
+      "end": 60.77,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 61.69,
+      "end": 65.01,
+      "text": "こっそり一行 書き足した"
+    },
+    {
+      "t": 66.67,
+      "end": 69.67,
+      "text": "「向かいの席の 赤ペンが気になる」"
+    },
+    {
+      "t": 69.71,
+      "end": 73.59,
+      "text": "これって 用例に なるのかな"
+    },
+    {
+      "t": 74.15,
+      "end": 74.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.15,
+      "end": 75.77,
+      "text": "ゲラが戻るのは 金曜の夕方"
+    },
+    {
+      "t": 75.79,
+      "end": 79.15,
+      "text": "ほかの直しは いつもどおり"
+    },
+    {
+      "t": 79.15,
+      "end": 81.51,
+      "text": "送り仮名と 句読点と"
+    },
+    {
+      "t": 81.51,
+      "end": 83.89,
+      "text": "僕の誤字に 丸がふたつ"
+    },
+    {
+      "t": 84.35,
+      "end": 84.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 84.35,
+      "end": 85.81,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 85.85,
+      "end": 87.81,
+      "text": "赤い字で 小さく書いてある"
+    },
+    {
+      "t": 89.81,
+      "end": 93.53,
+      "text": "消されると 思っていたのに"
+    },
+    {
+      "t": 95.53,
+      "end": 99.23,
+      "text": "「残す」って 二文字だけ"
+    },
+    {
+      "t": 115.51,
+      "end": 115.51,
+      "text": "[Bridge - bass voice and beatbox only]"
+    },
+    {
+      "t": 115.51,
+      "end": 119.23,
+      "text": "校了まで あと二か月"
+    },
+    {
+      "t": 121.21,
+      "end": 124.77,
+      "text": "その前に 口で言おう"
+    },
+    {
+      "t": 124.85,
+      "end": 124.85,
+      "text": "[Chorus - full harmony, falsetto descant]"
+    },
+    {
+      "t": 124.85,
+      "end": 131.05,
+      "text": "こい【恋】 そのページの 一番下に"
+    },
+    {
+      "t": 132.35,
+      "end": 136.61,
+      "text": "僕らの一行 印刷される"
+    },
+    {
+      "t": 138.07,
+      "end": 150.3,
+      "text": "来年の春 書店に並ぶ"
+    },
+    {
+      "t": 150.4,
+      "end": 191.78,
+      "text": "二人で 一冊 買いに行こう"
+    },
+    {
+      "t": 191.78,
+      "end": 191.78,
+      "text": "[Outro - humming, beatbox stops, one held chord]"
+    }
+  ]
+}

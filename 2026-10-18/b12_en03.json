@@ -1,0 +1,579 @@
+{
+  "id": "b12_en03",
+  "title": "One Question at Window Nine",
+  "title_source": "scripted",
+  "genre": "Scandi garage rock revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "frantic, cocky and comic",
+  "persona": "",
+  "subject": "a man queueing at seven in the morning outside the US embassy in London for his work visa interview, paying a shop round the corner five pounds to hold his phone, rehearsing answers for an hour, and getting asked one question at window nine",
+  "caption": "Scandi garage rock revival, sharp-suited 2020s garage-punk style. Two overdriven rhythm guitars slashing tight downstroke chords, a fuzzy lead guitar playing a two-note stinging riff, a driving eighth-note bass, pounding live drums with crashing stops and starts, a shaken tambourine and a buzzing Farfisa-style organ. Raw, loud live-in-the-room recording, tight and dry with minimal overdubs. Male tenor lead with a yelping, cocky shouted delivery, the band barking gang vocals back. 152 BPM, E major. Frantic, cocky and comic. No pop-punk polish, no metal, no synths, no autotune, no ballad section.",
+  "lyrics": "[Intro - drum count, slashing guitars and organ]\n\n[Verse 1]\nSeven a.m. at Nine Elms in my wedding shoes\nForm DS-one-sixty printed both sides, double-checked\nNo phones past the gate, so the corner shop holds it\nFive pound a phone and a pink ticket up my sleeve\n\n[Pre-Chorus]\nI know my salary, I know my boss's middle name\nI know the postcode of the office in Ohio\n\n[Chorus]\nWindow nine, window nine\nAn hour of answers in my head\nWindow nine, window nine\nOne question and that's it\n\n[Verse 2]\nMetal detector takes my belt and my dignity\nNumber on a screen like I'm buying cheese\nGlass and a microphone, a man with a moustache\nHe says so what's your job, I tell him, that's all he needs\n\n[Pre-Chorus]\nI had a speech about the weather and the Thames\nHe stamps it, says next, like I'm not even there\n\n[Chorus]\nWindow nine, window nine\nAn hour of answers going spare\nWindow nine, window nine\nOne question, I'm out of there\n\n[Bridge - stop, drums and shouts]\nPink ticket, five pound, get my phone back\nThirty-one messages, all of them from my mum\n\n[Chorus]\nWindow nine, window nine\nShe asks how did it go\nWindow nine, window nine\nTwo hours, one question, Mum, I'm coming home\n\n[Outro - crashing stops, organ hit, one last scream]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Scandi garage rock revival, sharp-suited 2020s garage-punk style. Two overdriven rhythm guitars slashing tight downstroke chords, a fuzzy lead guitar playing a two-note stinging riff, a driving eighth-note bass, pounding live drums with crashing stops and starts, a shaken tambourine and a buzzing Farfisa-style organ. Raw, loud live-in-the-room recording, tight and dry with minimal overdubs. Male tenor lead with a yelping, cocky shouted delivery, the band barking gang vocals back. 152 BPM, E major. Frantic, cocky and comic. No pop-punk polish, no metal, no synths, no autotune, no ballad section.",
+    "lyrics": "[Intro - drum count, slashing guitars and organ]\n\n[Verse 1]\nSeven a.m. at Nine Elms in my wedding shoes\nForm DS-one-sixty printed both sides, double-checked\nNo phones past the gate, so the corner shop holds it\nFive pound a phone and a pink ticket up my sleeve\n\n[Pre-Chorus]\nI know my salary, I know my boss's middle name\nI know the postcode of the office in Ohio\n\n[Chorus]\nWindow nine, window nine\nAn hour of answers in my head\nWindow nine, window nine\nOne question and that's it\n\n[Verse 2]\nMetal detector takes my belt and my dignity\nNumber on a screen like I'm buying cheese\nGlass and a microphone, a man with a moustache\nHe says so what's your job, I tell him, that's all he needs\n\n[Pre-Chorus]\nI had a speech about the weather and the Thames\nHe stamps it, says next, like I'm not even there\n\n[Chorus]\nWindow nine, window nine\nAn hour of answers going spare\nWindow nine, window nine\nOne question, I'm out of there\n\n[Bridge - stop, drums and shouts]\nPink ticket, five pound, get my phone back\nThirty-one messages, all of them from my mum\n\n[Chorus]\nWindow nine, window nine\nShe asks how did it go\nWindow nine, window nine\nTwo hours, one question, Mum, I'm coming home\n\n[Outro - crashing stops, organ hit, one last scream]"
+  },
+  "seed": "1455889416",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.90s**\n- 72.90s per song\n- LM phase (1 song): 18.49s\n- DiT phase (1 song): 54.41s",
+  "task_id": "bd3e5132-4784-443a-8fdd-90717be58f52",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-10-18T12:33:22.467830+08:00",
+  "audio": "b12_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Intro - drum count, slashing guitars and organ]"
+    },
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.8,
+      "end": 30.14,
+      "text": "Seven a.m. at Nine Elms in my wedding shoes"
+    },
+    {
+      "t": 31.92,
+      "end": 36.04,
+      "text": "Form DS-one-sixty printed both sides, double-checked"
+    },
+    {
+      "t": 37.92,
+      "end": 43.22,
+      "text": "No phones past the gate, so the corner shop holds it"
+    },
+    {
+      "t": 44.22,
+      "end": 47.79,
+      "text": "Five pound a phone and a pink ticket up my sleeve"
+    },
+    {
+      "t": 50.13,
+      "end": 50.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.13,
+      "end": 54.71,
+      "text": "I know my salary, I know my boss's middle name"
+    },
+    {
+      "t": 56.23,
+      "end": 60.01,
+      "text": "I know the postcode of the office in Ohio"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.21,
+      "end": 62.43,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 63.07,
+      "end": 65.31,
+      "text": "An hour of answers in my head"
+    },
+    {
+      "t": 65.77,
+      "end": 68.61,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 69.11,
+      "end": 71.35,
+      "text": "One question and that's it"
+    },
+    {
+      "t": 74.11,
+      "end": 74.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.11,
+      "end": 77.69,
+      "text": "Metal detector takes my belt and my dignity"
+    },
+    {
+      "t": 80.19,
+      "end": 83.15,
+      "text": "Number on a screen like I'm buying cheese"
+    },
+    {
+      "t": 83.21,
+      "end": 88.73,
+      "text": "Glass and a microphone, a man with a moustache"
+    },
+    {
+      "t": 89.19,
+      "end": 94.79,
+      "text": "He says so what's your job, I tell him, that's all he needs"
+    },
+    {
+      "t": 95.03,
+      "end": 95.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.03,
+      "end": 99.43,
+      "text": "I had a speech about the weather and the Thames"
+    },
+    {
+      "t": 100.23,
+      "end": 102.55,
+      "text": "He stamps it, says next, like I'm not even there"
+    },
+    {
+      "t": 102.55,
+      "end": 102.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.55,
+      "end": 103.73,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 103.73,
+      "end": 104.77,
+      "text": "An hour of answers going spare"
+    },
+    {
+      "t": 104.93,
+      "end": 108.45,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 110.47,
+      "end": 114.41,
+      "text": "One question, I'm out of there"
+    },
+    {
+      "t": 123.63,
+      "end": 123.63,
+      "text": "[Bridge - stop, drums and shouts]"
+    },
+    {
+      "t": 123.63,
+      "end": 127.33,
+      "text": "Pink ticket, five pound, get my phone back"
+    },
+    {
+      "t": 129.79,
+      "end": 132.93,
+      "text": "Thirty-one messages, all of them from my mum"
+    },
+    {
+      "t": 132.93,
+      "end": 132.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.93,
+      "end": 146.74,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 147.7,
+      "end": 149.58,
+      "text": "She asks how did it go"
+    },
+    {
+      "t": 150.4,
+      "end": 157.8,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 159.28,
+      "end": 163.84,
+      "text": "Two hours, one question, Mum, I'm coming home"
+    },
+    {
+      "t": 163.84,
+      "end": 163.84,
+      "text": "[Outro - crashing stops, organ hit, one last scream]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Intro - drum count, slashing guitars and organ]"
+    },
+    {
+      "t": 25.8,
+      "end": 25.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.8,
+      "end": 30.14,
+      "text": "Seven a.m. at Nine Elms in my wedding shoes"
+    },
+    {
+      "t": 31.92,
+      "end": 36.04,
+      "text": "Form DS-one-sixty printed both sides, double-checked"
+    },
+    {
+      "t": 37.92,
+      "end": 43.22,
+      "text": "No phones past the gate, so the corner shop holds it"
+    },
+    {
+      "t": 44.22,
+      "end": 47.79,
+      "text": "Five pound a phone and a pink ticket up my sleeve"
+    },
+    {
+      "t": 50.13,
+      "end": 50.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.13,
+      "end": 54.71,
+      "text": "I know my salary, I know my boss's middle name"
+    },
+    {
+      "t": 56.23,
+      "end": 60.01,
+      "text": "I know the postcode of the office in Ohio"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.21,
+      "end": 62.43,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 63.07,
+      "end": 65.31,
+      "text": "An hour of answers in my head"
+    },
+    {
+      "t": 65.77,
+      "end": 68.61,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 69.11,
+      "end": 71.35,
+      "text": "One question and that's it"
+    },
+    {
+      "t": 74.11,
+      "end": 74.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.11,
+      "end": 77.69,
+      "text": "Metal detector takes my belt and my dignity"
+    },
+    {
+      "t": 80.19,
+      "end": 83.15,
+      "text": "Number on a screen like I'm buying cheese"
+    },
+    {
+      "t": 83.21,
+      "end": 88.73,
+      "text": "Glass and a microphone, a man with a moustache"
+    },
+    {
+      "t": 89.19,
+      "end": 94.79,
+      "text": "He says so what's your job, I tell him, that's all he needs"
+    },
+    {
+      "t": 95.03,
+      "end": 95.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.03,
+      "end": 99.43,
+      "text": "I had a speech about the weather and the Thames"
+    },
+    {
+      "t": 100.23,
+      "end": 102.55,
+      "text": "He stamps it, says next, like I'm not even there"
+    },
+    {
+      "t": 102.55,
+      "end": 102.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.55,
+      "end": 103.73,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 103.73,
+      "end": 104.77,
+      "text": "An hour of answers going spare"
+    },
+    {
+      "t": 104.93,
+      "end": 108.45,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 110.47,
+      "end": 114.41,
+      "text": "One question, I'm out of there"
+    },
+    {
+      "t": 123.63,
+      "end": 123.63,
+      "text": "[Bridge - stop, drums and shouts]"
+    },
+    {
+      "t": 123.63,
+      "end": 127.33,
+      "text": "Pink ticket, five pound, get my phone back"
+    },
+    {
+      "t": 129.79,
+      "end": 132.93,
+      "text": "Thirty-one messages, all of them from my mum"
+    },
+    {
+      "t": 132.93,
+      "end": 132.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.93,
+      "end": 146.74,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 147.7,
+      "end": 149.58,
+      "text": "She asks how did it go"
+    },
+    {
+      "t": 150.4,
+      "end": 157.8,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 159.28,
+      "end": 163.84,
+      "text": "Two hours, one question, Mum, I'm coming home"
+    },
+    {
+      "t": 163.84,
+      "end": 163.84,
+      "text": "[Outro - crashing stops, organ hit, one last scream]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.78,
+      "end": 25.78,
+      "text": "[Intro - drum count, slashing guitars and organ]"
+    },
+    {
+      "t": 25.78,
+      "end": 25.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.78,
+      "end": 30.14,
+      "text": "Seven a.m. at Nine Elms in my wedding shoes"
+    },
+    {
+      "t": 31.92,
+      "end": 36.06,
+      "text": "Form DS-one-sixty printed both sides, double-checked"
+    },
+    {
+      "t": 37.94,
+      "end": 43.22,
+      "text": "No phones past the gate, so the corner shop holds it"
+    },
+    {
+      "t": 44.22,
+      "end": 50.07,
+      "text": "Five pound a phone and a pink ticket up my sleeve"
+    },
+    {
+      "t": 50.13,
+      "end": 50.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.13,
+      "end": 54.69,
+      "text": "I know my salary, I know my boss's middle name"
+    },
+    {
+      "t": 56.21,
+      "end": 60.45,
+      "text": "I know the postcode of the office in Ohio"
+    },
+    {
+      "t": 60.45,
+      "end": 60.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.45,
+      "end": 62.43,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 63.07,
+      "end": 65.29,
+      "text": "An hour of answers in my head"
+    },
+    {
+      "t": 65.55,
+      "end": 68.61,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 69.09,
+      "end": 71.39,
+      "text": "One question and that's it"
+    },
+    {
+      "t": 74.13,
+      "end": 74.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.13,
+      "end": 77.67,
+      "text": "Metal detector takes my belt and my dignity"
+    },
+    {
+      "t": 80.19,
+      "end": 83.15,
+      "text": "Number on a screen like I'm buying cheese"
+    },
+    {
+      "t": 83.23,
+      "end": 88.73,
+      "text": "Glass and a microphone, a man with a moustache"
+    },
+    {
+      "t": 89.15,
+      "end": 94.77,
+      "text": "He says so what's your job, I tell him, that's all he needs"
+    },
+    {
+      "t": 95.51,
+      "end": 95.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.51,
+      "end": 99.41,
+      "text": "I had a speech about the weather and the Thames"
+    },
+    {
+      "t": 100.23,
+      "end": 104.01,
+      "text": "He stamps it, says next, like I'm not even there"
+    },
+    {
+      "t": 104.01,
+      "end": 104.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.01,
+      "end": 104.43,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 104.43,
+      "end": 105.23,
+      "text": "An hour of answers going spare"
+    },
+    {
+      "t": 105.51,
+      "end": 110.43,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 110.47,
+      "end": 113.53,
+      "text": "One question, I'm out of there"
+    },
+    {
+      "t": 123.65,
+      "end": 123.65,
+      "text": "[Bridge - stop, drums and shouts]"
+    },
+    {
+      "t": 123.65,
+      "end": 127.45,
+      "text": "Pink ticket, five pound, get my phone back"
+    },
+    {
+      "t": 129.81,
+      "end": 139.8,
+      "text": "Thirty-one messages, all of them from my mum"
+    },
+    {
+      "t": 140.02,
+      "end": 140.02,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.02,
+      "end": 144.82,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 147.7,
+      "end": 149.58,
+      "text": "She asks how did it go"
+    },
+    {
+      "t": 153.26,
+      "end": 159.28,
+      "text": "Window nine, window nine"
+    },
+    {
+      "t": 159.28,
+      "end": 166.02,
+      "text": "Two hours, one question, Mum, I'm coming home"
+    },
+    {
+      "t": 166.02,
+      "end": 166.02,
+      "text": "[Outro - crashing stops, organ hit, one last scream]"
+    }
+  ]
+}

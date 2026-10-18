@@ -1,0 +1,534 @@
+{
+  "id": "b12_zh01",
+  "title": "借過借過",
+  "title_source": "scripted",
+  "genre": "Mandarin salsa dura",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "cheeky, sweaty and fast-moving",
+  "persona": "",
+  "subject": "an overnight porter at a taichung hospital pushing beds, wheelchairs and specimen boxes twenty thousand steps a night, shouting 'excuse me' at every corner, and the grandmother on her way to a two a.m. x-ray who tells him to push faster",
+  "caption": "Salsa dura in the New York-Puerto Rican style, sung in Mandarin with coro-pregon call-and-response. Two trombones in tight harmony blasting a mambo section; a montuno piano repeating a syncopated two-bar figure locked to the clave; congas playing tumbao with sharp slaps; timbales riding cascara on the shell with a cowbell on the downbeat; deep tumbao on an electric baby bass. Live-room recording, horns up front, dry and punchy, no reverb wash. Male tenor sonero lead, bright and slightly nasal, quick-witted ad-libs, a small male coro answering every line of the hook. 180 BPM, A minor. Cheeky, sweaty, fast-moving night shift. No reggaeton dembow, no trap hi-hats, no autotune, no EDM drop, no pop ballad strings.",
+  "lyrics": "[Intro - timbales roll, trombone mambo riff, piano montuno]\n\n[Verse 1]\n晚上十點 換上綠色的制服\n對講機在腰上 一直喊我的名字\n七樓要一張床 五樓要一台輪椅\n三號電梯 又停在地下室\n\n[Pre-Chorus]\n球鞋的鞋底 快要磨穿了\n計步器說 今晚兩萬三\n\n[Chorus]\n借過 借過 床來了\n轉彎 不要撞到牆\n護理站在喊 阿傑快一點\n整張床跟著我 在走廊轉一圈\n\n[Verse 2]\n凌晨兩點 推一位阿嬤去照X光\n她抓著欄杆說 年輕人你推太慢\n我說阿嬤坐好 前面要轉彎了\n她笑到點滴架 跟著一起搖\n\n[Chorus]\n借過 借過 床來了\n轉彎 不要撞到牆\n阿嬤在後面喊 再快一點\n整張床跟著我 在走廊轉一圈\n\n[Bridge - coro and pregon trade lines, trombones answer]\n左轉檢驗科 右轉放射科\n早上七點交班 我要一碗鹹粥\n\n[Chorus]\n借過 借過 天亮了\n早班的人 從大門進來\n阿嬤推回病房 她說明天見\n我推著空床回去 還在數拍子\n\n[Outro - montuno vamp, trombone shout, final timbales break]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 180,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Salsa dura in the New York-Puerto Rican style, sung in Mandarin with coro-pregon call-and-response. Two trombones in tight harmony blasting a mambo section; a montuno piano repeating a syncopated two-bar figure locked to the clave; congas playing tumbao with sharp slaps; timbales riding cascara on the shell with a cowbell on the downbeat; deep tumbao on an electric baby bass. Live-room recording, horns up front, dry and punchy, no reverb wash. Male tenor sonero lead, bright and slightly nasal, quick-witted ad-libs, a small male coro answering every line of the hook. 180 BPM, A minor. Cheeky, sweaty, fast-moving night shift. No reggaeton dembow, no trap hi-hats, no autotune, no EDM drop, no pop ballad strings.",
+    "lyrics": "[Intro - timbales roll, trombone mambo riff, piano montuno]\n\n[Verse 1]\n晚上十點 換上綠色的制服\n對講機在腰上 一直喊我的名字\n七樓要一張床 五樓要一台輪椅\n三號電梯 又停在地下室\n\n[Pre-Chorus]\n球鞋的鞋底 快要磨穿了\n計步器說 今晚兩萬三\n\n[Chorus]\n借過 借過 床來了\n轉彎 不要撞到牆\n護理站在喊 阿傑快一點\n整張床跟著我 在走廊轉一圈\n\n[Verse 2]\n凌晨兩點 推一位阿嬤去照X光\n她抓著欄杆說 年輕人你推太慢\n我說阿嬤坐好 前面要轉彎了\n她笑到點滴架 跟著一起搖\n\n[Chorus]\n借過 借過 床來了\n轉彎 不要撞到牆\n阿嬤在後面喊 再快一點\n整張床跟著我 在走廊轉一圈\n\n[Bridge - coro and pregon trade lines, trombones answer]\n左轉檢驗科 右轉放射科\n早上七點交班 我要一碗鹹粥\n\n[Chorus]\n借過 借過 天亮了\n早班的人 從大門進來\n阿嬤推回病房 她說明天見\n我推著空床回去 還在數拍子\n\n[Outro - montuno vamp, trombone shout, final timbales break]"
+  },
+  "seed": "4149846229",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 101.87s**\n- 101.87s per song\n- LM phase (1 song): 18.36s\n- DiT phase (1 song): 83.51s",
+  "task_id": "5e75357b-7b77-437d-92e4-8789d9496ce7",
+  "elapsed_s": 130.8,
+  "generated_at": "2026-10-18T12:39:34.264995+08:00",
+  "audio": "b12_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Intro - timbales roll, trombone mambo riff, piano montuno]"
+    },
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.0,
+      "end": 41.24,
+      "text": "晚上十點 換上綠色的制服"
+    },
+    {
+      "t": 42.48,
+      "end": 48.38,
+      "text": "對講機在腰上 一直喊我的名字"
+    },
+    {
+      "t": 48.48,
+      "end": 51.96,
+      "text": "七樓要一張床 五樓要一台輪椅"
+    },
+    {
+      "t": 53.61,
+      "end": 57.25,
+      "text": "三號電梯 又停在地下室"
+    },
+    {
+      "t": 59.09,
+      "end": 59.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.09,
+      "end": 63.07,
+      "text": "球鞋的鞋底 快要磨穿了"
+    },
+    {
+      "t": 64.59,
+      "end": 67.29,
+      "text": "計步器說 今晚兩萬三"
+    },
+    {
+      "t": 69.93,
+      "end": 69.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.93,
+      "end": 71.91,
+      "text": "借過 借過 床來了"
+    },
+    {
+      "t": 72.57,
+      "end": 74.51,
+      "text": "轉彎 不要撞到牆"
+    },
+    {
+      "t": 75.59,
+      "end": 80.13,
+      "text": "護理站在喊 阿傑快一點"
+    },
+    {
+      "t": 80.77,
+      "end": 84.23,
+      "text": "整張床跟著我 在走廊轉一圈"
+    },
+    {
+      "t": 84.23,
+      "end": 84.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.23,
+      "end": 87.97,
+      "text": "凌晨兩點 推一位阿嬤去照X光"
+    },
+    {
+      "t": 88.27,
+      "end": 119.77,
+      "text": "她抓著欄杆說 年輕人你推太慢"
+    },
+    {
+      "t": 119.77,
+      "end": 121.75,
+      "text": "我說阿嬤坐好 前面要轉彎了"
+    },
+    {
+      "t": 121.77,
+      "end": 127.65,
+      "text": "她笑到點滴架 跟著一起搖"
+    },
+    {
+      "t": 130.13,
+      "end": 130.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.13,
+      "end": 132.35,
+      "text": "借過 借過 床來了"
+    },
+    {
+      "t": 132.43,
+      "end": 135.15,
+      "text": "轉彎 不要撞到牆"
+    },
+    {
+      "t": 135.21,
+      "end": 135.97,
+      "text": "阿嬤在後面喊 再快一點"
+    },
+    {
+      "t": 135.97,
+      "end": 137.75,
+      "text": "整張床跟著我 在走廊轉一圈"
+    },
+    {
+      "t": 137.75,
+      "end": 137.75,
+      "text": "[Bridge - coro and pregon trade lines, trombones answer]"
+    },
+    {
+      "t": 137.75,
+      "end": 163.28,
+      "text": "左轉檢驗科 右轉放射科"
+    },
+    {
+      "t": 163.3,
+      "end": 168.76,
+      "text": "早上七點交班 我要一碗鹹粥"
+    },
+    {
+      "t": 168.78,
+      "end": 168.78,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.78,
+      "end": 170.86,
+      "text": "借過 借過 天亮了"
+    },
+    {
+      "t": 170.86,
+      "end": 173.82,
+      "text": "早班的人 從大門進來"
+    },
+    {
+      "t": 173.84,
+      "end": 176.68,
+      "text": "阿嬤推回病房 她說明天見"
+    },
+    {
+      "t": 178.7,
+      "end": 182.42,
+      "text": "我推著空床回去 還在數拍子"
+    },
+    {
+      "t": 182.42,
+      "end": 182.42,
+      "text": "[Outro - montuno vamp, trombone shout, final timbales break]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Intro - timbales roll, trombone mambo riff, piano montuno]"
+    },
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.0,
+      "end": 41.24,
+      "text": "晚上十點 換上綠色的制服"
+    },
+    {
+      "t": 42.48,
+      "end": 48.38,
+      "text": "對講機在腰上 一直喊我的名字"
+    },
+    {
+      "t": 48.48,
+      "end": 51.96,
+      "text": "七樓要一張床 五樓要一台輪椅"
+    },
+    {
+      "t": 53.61,
+      "end": 57.25,
+      "text": "三號電梯 又停在地下室"
+    },
+    {
+      "t": 59.09,
+      "end": 59.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.09,
+      "end": 63.07,
+      "text": "球鞋的鞋底 快要磨穿了"
+    },
+    {
+      "t": 64.59,
+      "end": 67.29,
+      "text": "計步器說 今晚兩萬三"
+    },
+    {
+      "t": 69.93,
+      "end": 69.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.93,
+      "end": 71.91,
+      "text": "借過 借過 床來了"
+    },
+    {
+      "t": 72.57,
+      "end": 74.51,
+      "text": "轉彎 不要撞到牆"
+    },
+    {
+      "t": 75.59,
+      "end": 80.13,
+      "text": "護理站在喊 阿傑快一點"
+    },
+    {
+      "t": 80.77,
+      "end": 84.23,
+      "text": "整張床跟著我 在走廊轉一圈"
+    },
+    {
+      "t": 84.23,
+      "end": 84.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.23,
+      "end": 87.97,
+      "text": "凌晨兩點 推一位阿嬤去照X光"
+    },
+    {
+      "t": 88.27,
+      "end": 119.77,
+      "text": "她抓著欄杆說 年輕人你推太慢"
+    },
+    {
+      "t": 119.77,
+      "end": 121.75,
+      "text": "我說阿嬤坐好 前面要轉彎了"
+    },
+    {
+      "t": 121.77,
+      "end": 127.65,
+      "text": "她笑到點滴架 跟著一起搖"
+    },
+    {
+      "t": 130.13,
+      "end": 130.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.13,
+      "end": 132.35,
+      "text": "借過 借過 床來了"
+    },
+    {
+      "t": 132.43,
+      "end": 135.15,
+      "text": "轉彎 不要撞到牆"
+    },
+    {
+      "t": 135.21,
+      "end": 135.97,
+      "text": "阿嬤在後面喊 再快一點"
+    },
+    {
+      "t": 135.97,
+      "end": 137.75,
+      "text": "整張床跟著我 在走廊轉一圈"
+    },
+    {
+      "t": 137.75,
+      "end": 137.75,
+      "text": "[Bridge - coro and pregon trade lines, trombones answer]"
+    },
+    {
+      "t": 137.75,
+      "end": 163.28,
+      "text": "左轉檢驗科 右轉放射科"
+    },
+    {
+      "t": 163.3,
+      "end": 168.76,
+      "text": "早上七點交班 我要一碗鹹粥"
+    },
+    {
+      "t": 168.78,
+      "end": 168.78,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.78,
+      "end": 170.86,
+      "text": "借過 借過 天亮了"
+    },
+    {
+      "t": 170.86,
+      "end": 173.82,
+      "text": "早班的人 從大門進來"
+    },
+    {
+      "t": 173.84,
+      "end": 176.68,
+      "text": "阿嬤推回病房 她說明天見"
+    },
+    {
+      "t": 178.7,
+      "end": 182.42,
+      "text": "我推著空床回去 還在數拍子"
+    },
+    {
+      "t": 182.42,
+      "end": 182.42,
+      "text": "[Outro - montuno vamp, trombone shout, final timbales break]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 36.98,
+      "end": 36.98,
+      "text": "[Intro - timbales roll, trombone mambo riff, piano montuno]"
+    },
+    {
+      "t": 36.98,
+      "end": 36.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.98,
+      "end": 41.24,
+      "text": "晚上十點 換上綠色的制服"
+    },
+    {
+      "t": 42.48,
+      "end": 48.38,
+      "text": "對講機在腰上 一直喊我的名字"
+    },
+    {
+      "t": 48.48,
+      "end": 51.94,
+      "text": "七樓要一張床 五樓要一台輪椅"
+    },
+    {
+      "t": 53.79,
+      "end": 57.23,
+      "text": "三號電梯 又停在地下室"
+    },
+    {
+      "t": 59.09,
+      "end": 59.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.09,
+      "end": 63.07,
+      "text": "球鞋的鞋底 快要磨穿了"
+    },
+    {
+      "t": 64.59,
+      "end": 67.29,
+      "text": "計步器說 今晚兩萬三"
+    },
+    {
+      "t": 67.35,
+      "end": 67.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.35,
+      "end": 71.89,
+      "text": "借過 借過 床來了"
+    },
+    {
+      "t": 72.59,
+      "end": 74.47,
+      "text": "轉彎 不要撞到牆"
+    },
+    {
+      "t": 75.61,
+      "end": 80.09,
+      "text": "護理站在喊 阿傑快一點"
+    },
+    {
+      "t": 80.77,
+      "end": 84.25,
+      "text": "整張床跟著我 在走廊轉一圈"
+    },
+    {
+      "t": 84.25,
+      "end": 84.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.25,
+      "end": 87.39,
+      "text": "凌晨兩點 推一位阿嬤去照X光"
+    },
+    {
+      "t": 87.39,
+      "end": 88.89,
+      "text": "她抓著欄杆說 年輕人你推太慢"
+    },
+    {
+      "t": 88.89,
+      "end": 114.73,
+      "text": "我說阿嬤坐好 前面要轉彎了"
+    },
+    {
+      "t": 115.15,
+      "end": 121.27,
+      "text": "她笑到點滴架 跟著一起搖"
+    },
+    {
+      "t": 121.27,
+      "end": 121.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.27,
+      "end": 122.57,
+      "text": "借過 借過 床來了"
+    },
+    {
+      "t": 122.77,
+      "end": 131.49,
+      "text": "轉彎 不要撞到牆"
+    },
+    {
+      "t": 132.11,
+      "end": 135.61,
+      "text": "阿嬤在後面喊 再快一點"
+    },
+    {
+      "t": 135.61,
+      "end": 162.8,
+      "text": "整張床跟著我 在走廊轉一圈"
+    },
+    {
+      "t": 162.88,
+      "end": 162.88,
+      "text": "[Bridge - coro and pregon trade lines, trombones answer]"
+    },
+    {
+      "t": 162.88,
+      "end": 165.9,
+      "text": "左轉檢驗科 右轉放射科"
+    },
+    {
+      "t": 165.98,
+      "end": 168.74,
+      "text": "早上七點交班 我要一碗鹹粥"
+    },
+    {
+      "t": 168.78,
+      "end": 168.78,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.78,
+      "end": 171.02,
+      "text": "借過 借過 天亮了"
+    },
+    {
+      "t": 171.08,
+      "end": 173.88,
+      "text": "早班的人 從大門進來"
+    },
+    {
+      "t": 173.88,
+      "end": 176.68,
+      "text": "阿嬤推回病房 她說明天見"
+    },
+    {
+      "t": 178.74,
+      "end": 185.88,
+      "text": "我推著空床回去 還在數拍子"
+    },
+    {
+      "t": 185.88,
+      "end": 185.88,
+      "text": "[Outro - montuno vamp, trombone shout, final timbales break]"
+    }
+  ]
+}

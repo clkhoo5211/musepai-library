@@ -1,0 +1,367 @@
+{
+ "id": "b12_zh02",
+ "title": "四十隻小羊",
+ "title_source": "scripted",
+ "genre": "Mandarin Nashville country pop",
+ "language": "zh",
+ "language_name": "Mandarin (Traditional)",
+ "mood": "sunny, teasing and sweaty",
+ "persona": "",
+ "subject": "a helper on a taitung dairy-goat farm in kidding season bottle-feeding forty kids at five in the morning, every one named after a colleague from his old office, and the bossy one named after his manager who keeps eating his straw hat",
+ "caption": "Modern Nashville country pop sung in Mandarin, mid-2020s radio-country sound. A bright banjo rolling steady eighth notes; a twangy Telecaster with chicken-picking licks between vocal lines; a strummed steel-string acoustic; pedal steel swells under the chorus; a stomp-clap backbeat over a live kit and a warm round bass. Clean, wide, polished radio mix with the vocal dry and up front. Male baritone lead, easygoing and slightly gravelly, conversational with a grin, gang vocals joining on the last chorus. 112 BPM, G major. Sunny, teasing, early-morning farm work. No trap hi-hats, no autotune, no EDM drop, no Mandopop ballad strings, no Chinese folk instruments.",
+ "lyrics": "[Intro - banjo roll, Telecaster lick, stomp-clap]\n\n[Verse 1]\n早上五點的台東 天還沒全亮\n四十個奶瓶 排在鐵架上\n小羊一看到我 全部擠過來\n好像早餐車 開進了羊欄\n\n[Pre-Chorus]\n我說排好 一隻一隻來\n可是牠們 從來不排隊\n\n[Chorus]\n四十隻小羊 每隻都有名字\n全是我以前 公司的同事\n最吵的那隻 叫做小陳\n最兇的那隻 我叫牠經理\n\n[Verse 2]\n經理今天 又咬走我的草帽\n站在圍欄邊 嚼得很驕傲\n我追了三圈 牠還回頭看我\n跟開會的時候 一模一樣\n\n[Chorus]\n四十隻小羊 每隻都有名字\n全是我以前 公司的同事\n小陳在我腳邊 睡著了\n經理 帽子還我好不好\n\n[Bridge - banjo and pedal steel alone, then stomp-clap returns]\n以前我每天說 好的 收到\n現在我每天說 慢慢喝 不要搶\n\n[Chorus - gang vocals]\n四十隻小羊 每隻都有名字\n今天早上 又多生了兩隻\n我想了一整個早上\n就叫牠們 星期六 星期天\n\n[Outro - Telecaster and banjo trade licks, one last stomp]",
+ "lyrics_leaked_tokens": [],
+ "lyrics_looks_romanized": false,
+ "metas": {
+  "bpm": 112,
+  "duration": 195.0,
+  "genres": "N/A",
+  "keyscale": "G major",
+  "timesignature": "4",
+  "prompt": "Modern Nashville country pop sung in Mandarin, mid-2020s radio-country sound. A bright banjo rolling steady eighth notes; a twangy Telecaster with chicken-picking licks between vocal lines; a strummed steel-string acoustic; pedal steel swells under the chorus; a stomp-clap backbeat over a live kit and a warm round bass. Clean, wide, polished radio mix with the vocal dry and up front. Male baritone lead, easygoing and slightly gravelly, conversational with a grin, gang vocals joining on the last chorus. 112 BPM, G major. Sunny, teasing, early-morning farm work. No trap hi-hats, no autotune, no EDM drop, no Mandopop ballad strings, no Chinese folk instruments.",
+  "lyrics": "[Intro - banjo roll, Telecaster lick, stomp-clap]\n\n[Verse 1]\n早上五點的台東 天還沒全亮\n四十個奶瓶 排在鐵架上\n小羊一看到我 全部擠過來\n好像早餐車 開進了羊欄\n\n[Pre-Chorus]\n我說排好 一隻一隻來\n可是牠們 從來不排隊\n\n[Chorus]\n四十隻小羊 每隻都有名字\n全是我以前 公司的同事\n最吵的那隻 叫做小陳\n最兇的那隻 我叫牠經理\n\n[Verse 2]\n經理今天 又咬走我的草帽\n站在圍欄邊 嚼得很驕傲\n我追了三圈 牠還回頭看我\n跟開會的時候 一模一樣\n\n[Chorus]\n四十隻小羊 每隻都有名字\n全是我以前 公司的同事\n小陳在我腳邊 睡著了\n經理 帽子還我好不好\n\n[Bridge - banjo and pedal steel alone, then stomp-clap returns]\n以前我每天說 好的 收到\n現在我每天說 慢慢喝 不要搶\n\n[Chorus - gang vocals]\n四十隻小羊 每隻都有名字\n今天早上 又多生了兩隻\n我想了一整個早上\n就叫牠們 星期六 星期天\n\n[Outro - Telecaster and banjo trade licks, one last stomp]"
+ },
+ "seed": "1259470572",
+ "dit_model": "acestep-v15-turbo",
+ "generation_info": "**🎵 Total generation time (1 song): 88.91s**\n- 88.91s per song\n- LM phase (1 song): 18.18s\n- DiT phase (1 song): 70.73s",
+ "task_id": "86e6dc11-746e-4c6b-965f-a22b15038954",
+ "elapsed_s": 120.2,
+ "generated_at": "2026-10-18T12:41:34.475738+08:00",
+ "audio": "b12_zh02.mp3",
+ "lyrics_timed": [
+  {
+   "t": 33.7,
+   "end": 33.7,
+   "text": "[Intro - banjo roll, Telecaster lick, stomp-clap]"
+  },
+  {
+   "t": 33.7,
+   "end": 33.7,
+   "text": "[Verse 1]"
+  },
+  {
+   "t": 33.7,
+   "end": 35.9,
+   "text": "早上五點的台東 天還沒全亮"
+  },
+  {
+   "t": 36.0,
+   "end": 38.1,
+   "text": "四十個奶瓶 排在鐵架上"
+  },
+  {
+   "t": 38.2,
+   "end": 40.0,
+   "text": "小羊一看到我 全部擠過來"
+  },
+  {
+   "t": 41.2,
+   "end": 42.7,
+   "text": "好像早餐車 開進了羊欄"
+  },
+  {
+   "t": 42.8,
+   "end": 42.8,
+   "text": "[Pre-Chorus]"
+  },
+  {
+   "t": 42.8,
+   "end": 44.3,
+   "text": "我說排好 一隻一隻來"
+  },
+  {
+   "t": 44.4,
+   "end": 45.4,
+   "text": "可是牠們 從來不排隊"
+  },
+  {
+   "t": 50.33,
+   "end": 50.33,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 50.33,
+   "end": 52.87,
+   "text": "四十隻小羊 每隻都有名字"
+  },
+  {
+   "t": 53.79,
+   "end": 57.13,
+   "text": "全是我以前 公司的同事"
+  },
+  {
+   "t": 58.07,
+   "end": 61.23,
+   "text": "最吵的那隻 叫做小陳"
+  },
+  {
+   "t": 62.63,
+   "end": 65.71,
+   "text": "最兇的那隻 我叫牠經理"
+  },
+  {
+   "t": 67.41,
+   "end": 67.41,
+   "text": "[Verse 2]"
+  },
+  {
+   "t": 67.41,
+   "end": 74.07,
+   "text": "經理今天 又咬走我的草帽"
+  },
+  {
+   "t": 75.47,
+   "end": 82.67,
+   "text": "站在圍欄邊 嚼得很驕傲"
+  },
+  {
+   "t": 83.75,
+   "end": 86.85,
+   "text": "我追了三圈 牠還回頭看我"
+  },
+  {
+   "t": 87.79,
+   "end": 95.29,
+   "text": "跟開會的時候 一模一樣"
+  },
+  {
+   "t": 96.33,
+   "end": 96.33,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 96.33,
+   "end": 99.39,
+   "text": "四十隻小羊 每隻都有名字"
+  },
+  {
+   "t": 99.79,
+   "end": 103.65,
+   "text": "全是我以前 公司的同事"
+  },
+  {
+   "t": 104.07,
+   "end": 107.15,
+   "text": "小陳在我腳邊 睡著了"
+  },
+  {
+   "t": 108.33,
+   "end": 131.05,
+   "text": "經理 帽子還我好不好"
+  },
+  {
+   "t": 131.11,
+   "end": 131.11,
+   "text": "[Bridge - banjo and pedal steel alone, then stomp-clap returns]"
+  },
+  {
+   "t": 131.11,
+   "end": 137.23,
+   "text": "以前我每天說 好的 收到"
+  },
+  {
+   "t": 137.23,
+   "end": 149.14,
+   "text": "現在我每天說 慢慢喝 不要搶"
+  },
+  {
+   "t": 151.88,
+   "end": 151.88,
+   "text": "[Chorus - gang vocals]"
+  },
+  {
+   "t": 151.88,
+   "end": 154.66,
+   "text": "四十隻小羊 每隻都有名字"
+  },
+  {
+   "t": 155.58,
+   "end": 158.92,
+   "text": "今天早上 又多生了兩隻"
+  },
+  {
+   "t": 160.14,
+   "end": 162.56,
+   "text": "我想了一整個早上"
+  },
+  {
+   "t": 162.8,
+   "end": 167.18,
+   "text": "就叫牠們 星期六 星期天"
+  },
+  {
+   "t": 167.18,
+   "end": 167.18,
+   "text": "[Outro - Telecaster and banjo trade licks, one last stomp]"
+  }
+ ],
+ "lyrics_timed_by": "torchaudio MMS_FA forced alignment + manual fix from vocal-stem energy",
+ "lyrics_timed_vocals": [
+  {
+   "t": 35.9,
+   "end": 35.9,
+   "text": "[Intro - banjo roll, Telecaster lick, stomp-clap]"
+  },
+  {
+   "t": 35.9,
+   "end": 35.9,
+   "text": "[Verse 1]"
+  },
+  {
+   "t": 35.9,
+   "end": 41.18,
+   "text": "早上五點的台東 天還沒全亮"
+  },
+  {
+   "t": 41.22,
+   "end": 42.28,
+   "text": "四十個奶瓶 排在鐵架上"
+  },
+  {
+   "t": 42.32,
+   "end": 43.44,
+   "text": "小羊一看到我 全部擠過來"
+  },
+  {
+   "t": 43.44,
+   "end": 44.68,
+   "text": "好像早餐車 開進了羊欄"
+  },
+  {
+   "t": 44.68,
+   "end": 44.68,
+   "text": "[Pre-Chorus]"
+  },
+  {
+   "t": 44.68,
+   "end": 49.91,
+   "text": "我說排好 一隻一隻來"
+  },
+  {
+   "t": 49.91,
+   "end": 50.57,
+   "text": "可是牠們 從來不排隊"
+  },
+  {
+   "t": 50.57,
+   "end": 50.57,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 50.57,
+   "end": 52.87,
+   "text": "四十隻小羊 每隻都有名字"
+  },
+  {
+   "t": 53.79,
+   "end": 57.13,
+   "text": "全是我以前 公司的同事"
+  },
+  {
+   "t": 58.07,
+   "end": 61.25,
+   "text": "最吵的那隻 叫做小陳"
+  },
+  {
+   "t": 62.61,
+   "end": 65.71,
+   "text": "最兇的那隻 我叫牠經理"
+  },
+  {
+   "t": 67.41,
+   "end": 67.41,
+   "text": "[Verse 2]"
+  },
+  {
+   "t": 67.41,
+   "end": 70.89,
+   "text": "經理今天 又咬走我的草帽"
+  },
+  {
+   "t": 75.47,
+   "end": 82.67,
+   "text": "站在圍欄邊 嚼得很驕傲"
+  },
+  {
+   "t": 83.75,
+   "end": 86.85,
+   "text": "我追了三圈 牠還回頭看我"
+  },
+  {
+   "t": 87.77,
+   "end": 95.31,
+   "text": "跟開會的時候 一模一樣"
+  },
+  {
+   "t": 96.33,
+   "end": 96.33,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 96.33,
+   "end": 99.39,
+   "text": "四十隻小羊 每隻都有名字"
+  },
+  {
+   "t": 99.79,
+   "end": 103.65,
+   "text": "全是我以前 公司的同事"
+  },
+  {
+   "t": 104.07,
+   "end": 107.15,
+   "text": "小陳在我腳邊 睡著了"
+  },
+  {
+   "t": 108.33,
+   "end": 131.05,
+   "text": "經理 帽子還我好不好"
+  },
+  {
+   "t": 131.11,
+   "end": 131.11,
+   "text": "[Bridge - banjo and pedal steel alone, then stomp-clap returns]"
+  },
+  {
+   "t": 131.11,
+   "end": 138.91,
+   "text": "以前我每天說 好的 收到"
+  },
+  {
+   "t": 139.07,
+   "end": 151.62,
+   "text": "現在我每天說 慢慢喝 不要搶"
+  },
+  {
+   "t": 151.88,
+   "end": 151.88,
+   "text": "[Chorus - gang vocals]"
+  },
+  {
+   "t": 151.88,
+   "end": 154.66,
+   "text": "四十隻小羊 每隻都有名字"
+  },
+  {
+   "t": 155.58,
+   "end": 158.92,
+   "text": "今天早上 又多生了兩隻"
+  },
+  {
+   "t": 160.12,
+   "end": 162.58,
+   "text": "我想了一整個早上"
+  },
+  {
+   "t": 162.8,
+   "end": 167.2,
+   "text": "就叫牠們 星期六 星期天"
+  },
+  {
+   "t": 167.2,
+   "end": 167.2,
+   "text": "[Outro - Telecaster and banjo trade licks, one last stomp]"
+  }
+ ],
+ "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

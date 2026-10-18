@@ -1,0 +1,534 @@
+{
+  "id": "b12_ja02",
+  "title": "雪の大谷攻城戦",
+  "title_source": "scripted",
+  "genre": "Japanese gothic symphonic metal",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "grandiose, mock-heroic, triumphant",
+  "persona": "",
+  "subject": "an April snow-clearing crew on the Tateyama Kurobe Alpine Route cutting the 20-metre 'snow corridor' at Murodo open with a rotary snow plough, the foreman directing it like a castle siege, the bus road due to open to tourists in a week",
+  "caption": "Japanese gothic symphonic metal in the mid-2020s anime-band style: down-tuned seven-string guitars playing tight tremolo-picked and galloping riffs, double-kick drums, a cathedral pipe organ, a string section driving a spiccato ostinato, and harpsichord runs in the verses. Dense, dark, polished mix with wide choir reverb and a clean low end. Female mezzo-soprano lead with a theatrical, clear-toned delivery, half-sung verses rising to an operatic belt in the chorus, a mixed choir answering her. 148 BPM, D minor. Grandiose, mock-heroic and triumphant. No growled or screamed vocals, no metalcore breakdowns, no EDM synths, no pop-punk, no autotune.",
+  "lyrics": "[Intro - pipe organ chords, spiccato strings, double-kick drums enter]\n\n[Verse 1]\n四月の室堂 道はまだ白い\n地図の上では ここにバスが通る\n測量の竿を 雪に突き刺す\n十八メートル 下にアスファルト\n\n[Pre-Chorus]\n親方が 無線で叫ぶ\n「ロータリー 前へ」\n\n[Chorus]\n進め 進め 白い城壁へ\n羽根車が 雪を空に吐く\n一日三百メートル 攻め落とす\n来週は 観光バスが来る\n\n[Verse 2]\nブルドーザーが 先に掘り崩す\nロータリーが 後ろで壁を削る\n雪の断面に 茶色い筋\n三月の黄砂が 一本の線\n\n[Chorus]\n進め 進め 白い城壁へ\n羽根車が 雪を空に吐く\n一日三百メートル 攻め落とす\n弁当の握り飯が 凍ってる\n\n[Bridge - choir and organ, half-time]\n雪の下から 道路標識\n「この先 カーブ」 去年のままだ\n\n[Chorus - full choir]\n進め 進め 白い城壁へ\n最後の一枚 突き破った\n壁の上から 青空が見える\n開通の朝 みんなで山を降りる\n\n[Outro - organ alone, ringing out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 148,
+    "duration": 225.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Japanese gothic symphonic metal in the mid-2020s anime-band style: down-tuned seven-string guitars playing tight tremolo-picked and galloping riffs, double-kick drums, a cathedral pipe organ, a string section driving a spiccato ostinato, and harpsichord runs in the verses. Dense, dark, polished mix with wide choir reverb and a clean low end. Female mezzo-soprano lead with a theatrical, clear-toned delivery, half-sung verses rising to an operatic belt in the chorus, a mixed choir answering her. 148 BPM, D minor. Grandiose, mock-heroic and triumphant. No growled or screamed vocals, no metalcore breakdowns, no EDM synths, no pop-punk, no autotune.",
+    "lyrics": "[Intro - pipe organ chords, spiccato strings, double-kick drums enter]\n\n[Verse 1]\n四月の室堂 道はまだ白い\n地図の上では ここにバスが通る\n測量の竿を 雪に突き刺す\n十八メートル 下にアスファルト\n\n[Pre-Chorus]\n親方が 無線で叫ぶ\n「ロータリー 前へ」\n\n[Chorus]\n進め 進め 白い城壁へ\n羽根車が 雪を空に吐く\n一日三百メートル 攻め落とす\n来週は 観光バスが来る\n\n[Verse 2]\nブルドーザーが 先に掘り崩す\nロータリーが 後ろで壁を削る\n雪の断面に 茶色い筋\n三月の黄砂が 一本の線\n\n[Chorus]\n進め 進め 白い城壁へ\n羽根車が 雪を空に吐く\n一日三百メートル 攻め落とす\n弁当の握り飯が 凍ってる\n\n[Bridge - choir and organ, half-time]\n雪の下から 道路標識\n「この先 カーブ」 去年のままだ\n\n[Chorus - full choir]\n進め 進め 白い城壁へ\n最後の一枚 突き破った\n壁の上から 青空が見える\n開通の朝 みんなで山を降りる\n\n[Outro - organ alone, ringing out]"
+  },
+  "seed": "505286442",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 84.82s**\n- 84.82s per song\n- LM phase (1 song): 15.71s\n- DiT phase (1 song): 69.10s",
+  "task_id": "c4820a51-f986-464c-af99-563997332f1f",
+  "elapsed_s": 120.3,
+  "generated_at": "2026-10-18T12:51:16.782301+08:00",
+  "audio": "b12_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.42,
+      "end": 20.42,
+      "text": "[Intro - pipe organ chords, spiccato strings, double-kick drums enter]"
+    },
+    {
+      "t": 20.42,
+      "end": 20.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.42,
+      "end": 24.16,
+      "text": "四月の室堂 道はまだ白い"
+    },
+    {
+      "t": 25.94,
+      "end": 31.32,
+      "text": "地図の上では ここにバスが通る"
+    },
+    {
+      "t": 32.72,
+      "end": 35.28,
+      "text": "測量の竿を 雪に突き刺す"
+    },
+    {
+      "t": 35.54,
+      "end": 37.88,
+      "text": "十八メートル 下にアスファルト"
+    },
+    {
+      "t": 37.9,
+      "end": 37.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.9,
+      "end": 40.1,
+      "text": "親方が 無線で叫ぶ"
+    },
+    {
+      "t": 40.56,
+      "end": 42.2,
+      "text": "「ロータリー 前へ」"
+    },
+    {
+      "t": 42.2,
+      "end": 42.2,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.2,
+      "end": 44.54,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 44.82,
+      "end": 58.91,
+      "text": "羽根車が 雪を空に吐く"
+    },
+    {
+      "t": 59.21,
+      "end": 68.83,
+      "text": "一日三百メートル 攻め落とす"
+    },
+    {
+      "t": 70.29,
+      "end": 74.07,
+      "text": "来週は 観光バスが来る"
+    },
+    {
+      "t": 76.91,
+      "end": 76.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.91,
+      "end": 83.85,
+      "text": "ブルドーザーが 先に掘り崩す"
+    },
+    {
+      "t": 84.11,
+      "end": 111.11,
+      "text": "ロータリーが 後ろで壁を削る"
+    },
+    {
+      "t": 111.21,
+      "end": 117.25,
+      "text": "雪の断面に 茶色い筋"
+    },
+    {
+      "t": 117.29,
+      "end": 121.35,
+      "text": "三月の黄砂が 一本の線"
+    },
+    {
+      "t": 121.49,
+      "end": 121.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.49,
+      "end": 129.21,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 129.49,
+      "end": 133.45,
+      "text": "羽根車が 雪を空に吐く"
+    },
+    {
+      "t": 133.45,
+      "end": 136.71,
+      "text": "一日三百メートル 攻め落とす"
+    },
+    {
+      "t": 136.71,
+      "end": 156.03,
+      "text": "弁当の握り飯が 凍ってる"
+    },
+    {
+      "t": 156.31,
+      "end": 156.31,
+      "text": "[Bridge - choir and organ, half-time]"
+    },
+    {
+      "t": 156.31,
+      "end": 160.49,
+      "text": "雪の下から 道路標識"
+    },
+    {
+      "t": 160.75,
+      "end": 164.35,
+      "text": "「この先 カーブ」 去年のままだ"
+    },
+    {
+      "t": 164.35,
+      "end": 164.35,
+      "text": "[Chorus - full choir]"
+    },
+    {
+      "t": 164.35,
+      "end": 165.75,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 166.03,
+      "end": 179.92,
+      "text": "最後の一枚 突き破った"
+    },
+    {
+      "t": 180.18,
+      "end": 184.76,
+      "text": "壁の上から 青空が見える"
+    },
+    {
+      "t": 185.82,
+      "end": 194.5,
+      "text": "開通の朝 みんなで山を降りる"
+    },
+    {
+      "t": 194.5,
+      "end": 194.5,
+      "text": "[Outro - organ alone, ringing out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.42,
+      "end": 20.42,
+      "text": "[Intro - pipe organ chords, spiccato strings, double-kick drums enter]"
+    },
+    {
+      "t": 20.42,
+      "end": 20.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.42,
+      "end": 24.16,
+      "text": "四月の室堂 道はまだ白い"
+    },
+    {
+      "t": 25.94,
+      "end": 31.32,
+      "text": "地図の上では ここにバスが通る"
+    },
+    {
+      "t": 32.72,
+      "end": 35.28,
+      "text": "測量の竿を 雪に突き刺す"
+    },
+    {
+      "t": 35.54,
+      "end": 37.88,
+      "text": "十八メートル 下にアスファルト"
+    },
+    {
+      "t": 37.9,
+      "end": 37.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.9,
+      "end": 40.1,
+      "text": "親方が 無線で叫ぶ"
+    },
+    {
+      "t": 40.56,
+      "end": 42.2,
+      "text": "「ロータリー 前へ」"
+    },
+    {
+      "t": 42.2,
+      "end": 42.2,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.2,
+      "end": 44.54,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 44.82,
+      "end": 58.91,
+      "text": "羽根車が 雪を空に吐く"
+    },
+    {
+      "t": 59.21,
+      "end": 68.83,
+      "text": "一日三百メートル 攻め落とす"
+    },
+    {
+      "t": 70.29,
+      "end": 74.07,
+      "text": "来週は 観光バスが来る"
+    },
+    {
+      "t": 76.91,
+      "end": 76.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.91,
+      "end": 83.85,
+      "text": "ブルドーザーが 先に掘り崩す"
+    },
+    {
+      "t": 84.11,
+      "end": 111.11,
+      "text": "ロータリーが 後ろで壁を削る"
+    },
+    {
+      "t": 111.21,
+      "end": 117.25,
+      "text": "雪の断面に 茶色い筋"
+    },
+    {
+      "t": 117.29,
+      "end": 121.35,
+      "text": "三月の黄砂が 一本の線"
+    },
+    {
+      "t": 121.49,
+      "end": 121.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.49,
+      "end": 129.21,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 129.49,
+      "end": 133.45,
+      "text": "羽根車が 雪を空に吐く"
+    },
+    {
+      "t": 133.45,
+      "end": 136.71,
+      "text": "一日三百メートル 攻め落とす"
+    },
+    {
+      "t": 136.71,
+      "end": 156.03,
+      "text": "弁当の握り飯が 凍ってる"
+    },
+    {
+      "t": 156.31,
+      "end": 156.31,
+      "text": "[Bridge - choir and organ, half-time]"
+    },
+    {
+      "t": 156.31,
+      "end": 160.49,
+      "text": "雪の下から 道路標識"
+    },
+    {
+      "t": 160.75,
+      "end": 164.35,
+      "text": "「この先 カーブ」 去年のままだ"
+    },
+    {
+      "t": 164.35,
+      "end": 164.35,
+      "text": "[Chorus - full choir]"
+    },
+    {
+      "t": 164.35,
+      "end": 165.75,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 166.03,
+      "end": 179.92,
+      "text": "最後の一枚 突き破った"
+    },
+    {
+      "t": 180.18,
+      "end": 184.76,
+      "text": "壁の上から 青空が見える"
+    },
+    {
+      "t": 185.82,
+      "end": 194.5,
+      "text": "開通の朝 みんなで山を降りる"
+    },
+    {
+      "t": 194.5,
+      "end": 194.5,
+      "text": "[Outro - organ alone, ringing out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 20.42,
+      "end": 20.42,
+      "text": "[Intro - pipe organ chords, spiccato strings, double-kick drums enter]"
+    },
+    {
+      "t": 20.42,
+      "end": 20.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.42,
+      "end": 24.14,
+      "text": "四月の室堂 道はまだ白い"
+    },
+    {
+      "t": 25.96,
+      "end": 31.3,
+      "text": "地図の上では ここにバスが通る"
+    },
+    {
+      "t": 32.72,
+      "end": 36.48,
+      "text": "測量の竿を 雪に突き刺す"
+    },
+    {
+      "t": 38.74,
+      "end": 43.1,
+      "text": "十八メートル 下にアスファルト"
+    },
+    {
+      "t": 44.4,
+      "end": 44.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.4,
+      "end": 50.56,
+      "text": "親方が 無線で叫ぶ"
+    },
+    {
+      "t": 52.02,
+      "end": 64.33,
+      "text": "「ロータリー 前へ」"
+    },
+    {
+      "t": 65.03,
+      "end": 65.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.03,
+      "end": 70.75,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 70.75,
+      "end": 73.93,
+      "text": "羽根車が 雪を空に吐く"
+    },
+    {
+      "t": 74.01,
+      "end": 81.41,
+      "text": "一日三百メートル 攻め落とす"
+    },
+    {
+      "t": 81.61,
+      "end": 88.55,
+      "text": "来週は 観光バスが来る"
+    },
+    {
+      "t": 94.31,
+      "end": 94.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.31,
+      "end": 110.91,
+      "text": "ブルドーザーが 先に掘り崩す"
+    },
+    {
+      "t": 111.05,
+      "end": 121.33,
+      "text": "ロータリーが 後ろで壁を削る"
+    },
+    {
+      "t": 121.49,
+      "end": 131.21,
+      "text": "雪の断面に 茶色い筋"
+    },
+    {
+      "t": 132.61,
+      "end": 137.03,
+      "text": "三月の黄砂が 一本の線"
+    },
+    {
+      "t": 137.05,
+      "end": 137.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 137.05,
+      "end": 150.35,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 150.59,
+      "end": 153.49,
+      "text": "羽根車が 雪を空に吐く"
+    },
+    {
+      "t": 153.53,
+      "end": 157.51,
+      "text": "一日三百メートル 攻め落とす"
+    },
+    {
+      "t": 157.51,
+      "end": 161.27,
+      "text": "弁当の握り飯が 凍ってる"
+    },
+    {
+      "t": 162.29,
+      "end": 162.29,
+      "text": "[Bridge - choir and organ, half-time]"
+    },
+    {
+      "t": 162.29,
+      "end": 166.95,
+      "text": "雪の下から 道路標識"
+    },
+    {
+      "t": 167.23,
+      "end": 183.94,
+      "text": "「この先 カーブ」 去年のままだ"
+    },
+    {
+      "t": 184.22,
+      "end": 184.22,
+      "text": "[Chorus - full choir]"
+    },
+    {
+      "t": 184.22,
+      "end": 190.44,
+      "text": "進め 進め 白い城壁へ"
+    },
+    {
+      "t": 190.7,
+      "end": 200.58,
+      "text": "最後の一枚 突き破った"
+    },
+    {
+      "t": 200.86,
+      "end": 206.46,
+      "text": "壁の上から 青空が見える"
+    },
+    {
+      "t": 206.5,
+      "end": 219.96,
+      "text": "開通の朝 みんなで山を降りる"
+    },
+    {
+      "t": 219.96,
+      "end": 219.96,
+      "text": "[Outro - organ alone, ringing out]"
+    }
+  ]
+}

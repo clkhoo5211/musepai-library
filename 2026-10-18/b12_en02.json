@@ -1,0 +1,397 @@
+{
+  "id": "b12_en02",
+  "title": "Through the Studio Glass",
+  "title_source": "scripted",
+  "genre": "alternative R&B soft rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, unhurried and quietly giddy",
+  "persona": "",
+  "subject": "a night security guard at a city art museum who falls for the paintings conservator working late on cleaning old varnish off a harbour painting, watching her through the conservation studio glass on every round and bringing her a vending-machine tea at three",
+  "caption": "Alternative R&B soft rock with retro-pop cool and indie-rock guitar, mid-2020s style. Clean chorused electric guitar playing a looping arpeggio hook; a mellow Rhodes electric piano with gentle tremolo; a warm, round fingered bass guitar; live drums with brushed snare and rimshot backbeat; a light string pad under the chorus. Soft late-90s analog warmth, gentle tape saturation and small-room reverb. Female soprano in a light, airy head voice with a soft rasp, close-mic'd and intimate, stacked harmonies on the chorus. 104 BPM, A major. Tender, unhurried and quietly giddy. No trap drums, no autotune, no EDM build, no gospel choir, no power-ballad belting.",
+  "lyrics": "[Intro - chorused guitar arpeggio and Rhodes]\n\n[Verse 1]\nEleven forty, I check the doors on the second floor\nTorch on the Dutch room, torch on the harbour wall\nThere's one lamp burning past the sign that says staff only\nAnd you with a cotton swab and the sea coming back slowly\n\n[Pre-Chorus]\nYou lift the yellow off a boat that's been grey for a century\nYou don't look up, but you knock twice on the glass for me\n\n[Chorus]\nI walk the round just to pass your room\nSee you through the studio glass\nTwo minutes there is all I'm meant to do\nI stay a little longer than that\n\n[Verse 2]\nThree o'clock, the tea machine eats my second pound\nI bring you the one that worked and you put the swab down\nYou show me a sailor nobody's seen since eighteen-ninety\nA red scarf at his neck, and you tell me it would suit me\n\n[Pre-Chorus]\nThe radio crackles, someone asks where I am\nI say the east wing, everything's quiet, I'm fine\n\n[Chorus]\nI walk the round just to pass your room\nYou let me in past the glass\nTwo minutes there is all I'm meant to do\nAnd the second tea's gone down by half\n\n[Bridge - guitar and brushes only]\nWhen the boat is clean they'll hang it by the stairs\nI'll stop there on my rounds and you'll be there\n\n[Chorus]\nI walk the round and I'm walking you home\nSix a.m., the cleaners coming in\nTwo minutes there is all I'm meant to do\nI'm meeting you at eleven again\n\n[Outro - Rhodes and guitar, fading]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Alternative R&B soft rock with retro-pop cool and indie-rock guitar, mid-2020s style. Clean chorused electric guitar playing a looping arpeggio hook; a mellow Rhodes electric piano with gentle tremolo; a warm, round fingered bass guitar; live drums with brushed snare and rimshot backbeat; a light string pad under the chorus. Soft late-90s analog warmth, gentle tape saturation and small-room reverb. Female soprano in a light, airy head voice with a soft rasp, close-mic'd and intimate, stacked harmonies on the chorus. 104 BPM, A major. Tender, unhurried and quietly giddy. No trap drums, no autotune, no EDM build, no gospel choir, no power-ballad belting.",
+    "lyrics": "[Intro - chorused guitar arpeggio and Rhodes]\n\n[Verse 1]\nEleven forty, I check the doors on the second floor\nTorch on the Dutch room, torch on the harbour wall\nThere's one lamp burning past the sign that says staff only\nAnd you with a cotton swab and the sea coming back slowly\n\n[Pre-Chorus]\nYou lift the yellow off a boat that's been grey for a century\nYou don't look up, but you knock twice on the glass for me\n\n[Chorus]\nI walk the round just to pass your room\nSee you through the studio glass\nTwo minutes there is all I'm meant to do\nI stay a little longer than that\n\n[Verse 2]\nThree o'clock, the tea machine eats my second pound\nI bring you the one that worked and you put the swab down\nYou show me a sailor nobody's seen since eighteen-ninety\nA red scarf at his neck, and you tell me it would suit me\n\n[Pre-Chorus]\nThe radio crackles, someone asks where I am\nI say the east wing, everything's quiet, I'm fine\n\n[Chorus]\nI walk the round just to pass your room\nYou let me in past the glass\nTwo minutes there is all I'm meant to do\nAnd the second tea's gone down by half\n\n[Bridge - guitar and brushes only]\nWhen the boat is clean they'll hang it by the stairs\nI'll stop there on my rounds and you'll be there\n\n[Chorus]\nI walk the round and I'm walking you home\nSix a.m., the cleaners coming in\nTwo minutes there is all I'm meant to do\nI'm meeting you at eleven again\n\n[Outro - Rhodes and guitar, fading]"
+  },
+  "seed": "3122046287",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 92.10s**\n- 92.10s per song\n- LM phase (1 song): 19.01s\n- DiT phase (1 song): 73.10s",
+  "task_id": "876cb87d-1478-42b8-8f9e-fc2dcc90376a",
+  "elapsed_s": 120.7,
+  "generated_at": "2026-10-18T12:31:42.291970+08:00",
+  "audio": "b12_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 13.24,
+      "end": 13.24,
+      "text": "[Intro - chorused guitar arpeggio and Rhodes]"
+    },
+    {
+      "t": 13.24,
+      "end": 13.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 13.24,
+      "end": 23.98,
+      "text": "Eleven forty, I check the doors on the second floor"
+    },
+    {
+      "t": 30.6,
+      "end": 34.02,
+      "text": "Torch on the Dutch room, torch on the harbour wall"
+    },
+    {
+      "t": 36.68,
+      "end": 40.52,
+      "text": "There's one lamp burning past the sign that says staff only"
+    },
+    {
+      "t": 41.6,
+      "end": 46.0,
+      "text": "And you with a cotton swab and the sea coming back slowly"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 50.02,
+      "text": "You lift the yellow off a boat that's been grey for a century"
+    },
+    {
+      "t": 51.67,
+      "end": 55.33,
+      "text": "You don't look up, but you knock twice on the glass for me"
+    },
+    {
+      "t": 57.63,
+      "end": 57.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.63,
+      "end": 59.99,
+      "text": "I walk the round just to pass your room"
+    },
+    {
+      "t": 61.95,
+      "end": 64.01,
+      "text": "See you through the studio glass"
+    },
+    {
+      "t": 65.39,
+      "end": 69.29,
+      "text": "Two minutes there is all I'm meant to do"
+    },
+    {
+      "t": 70.19,
+      "end": 72.91,
+      "text": "I stay a little longer than that"
+    },
+    {
+      "t": 76.09,
+      "end": 76.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.09,
+      "end": 83.31,
+      "text": "Three o'clock, the tea machine eats my second pound"
+    },
+    {
+      "t": 83.51,
+      "end": 89.09,
+      "text": "I bring you the one that worked and you put the swab down"
+    },
+    {
+      "t": 89.11,
+      "end": 97.17,
+      "text": "You show me a sailor nobody's seen since eighteen-ninety"
+    },
+    {
+      "t": 97.19,
+      "end": 102.37,
+      "text": "A red scarf at his neck, and you tell me it would suit me"
+    },
+    {
+      "t": 102.41,
+      "end": 102.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.41,
+      "end": 103.59,
+      "text": "The radio crackles, someone asks where I am"
+    },
+    {
+      "t": 103.59,
+      "end": 107.79,
+      "text": "I say the east wing, everything's quiet, I'm fine"
+    },
+    {
+      "t": 112.29,
+      "end": 112.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.29,
+      "end": 115.33,
+      "text": "I walk the round just to pass your room"
+    },
+    {
+      "t": 116.21,
+      "end": 119.27,
+      "text": "You let me in past the glass"
+    },
+    {
+      "t": 121.05,
+      "end": 124.37,
+      "text": "Two minutes there is all I'm meant to do"
+    },
+    {
+      "t": 125.19,
+      "end": 128.21,
+      "text": "And the second tea's gone down by half"
+    },
+    {
+      "t": 143.91,
+      "end": 143.91,
+      "text": "[Bridge - guitar and brushes only]"
+    },
+    {
+      "t": 143.91,
+      "end": 149.11,
+      "text": "When the boat is clean they'll hang it by the stairs"
+    },
+    {
+      "t": 151.83,
+      "end": 159.66,
+      "text": "I'll stop there on my rounds and you'll be there"
+    },
+    {
+      "t": 159.74,
+      "end": 159.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 159.74,
+      "end": 162.82,
+      "text": "I walk the round and I'm walking you home"
+    },
+    {
+      "t": 164.4,
+      "end": 167.44,
+      "text": "Six a.m., the cleaners coming in"
+    },
+    {
+      "t": 169.28,
+      "end": 172.08,
+      "text": "Two minutes there is all I'm meant to do"
+    },
+    {
+      "t": 178.58,
+      "end": 181.5,
+      "text": "I'm meeting you at eleven again"
+    },
+    {
+      "t": 181.5,
+      "end": 181.5,
+      "text": "[Outro - Rhodes and guitar, fading]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 14.26,
+      "end": 14.26,
+      "text": "[Intro - chorused guitar arpeggio and Rhodes]"
+    },
+    {
+      "t": 14.26,
+      "end": 14.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 14.26,
+      "end": 31.62,
+      "text": "Eleven forty, I check the doors on the second floor"
+    },
+    {
+      "t": 31.62,
+      "end": 34.02,
+      "text": "Torch on the Dutch room, torch on the harbour wall"
+    },
+    {
+      "t": 36.68,
+      "end": 40.52,
+      "text": "There's one lamp burning past the sign that says staff only"
+    },
+    {
+      "t": 41.6,
+      "end": 46.0,
+      "text": "And you with a cotton swab and the sea coming back slowly"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 50.02,
+      "text": "You lift the yellow off a boat that's been grey for a century"
+    },
+    {
+      "t": 51.65,
+      "end": 55.35,
+      "text": "You don't look up, but you knock twice on the glass for me"
+    },
+    {
+      "t": 57.49,
+      "end": 57.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.49,
+      "end": 60.03,
+      "text": "I walk the round just to pass your room"
+    },
+    {
+      "t": 61.95,
+      "end": 64.29,
+      "text": "See you through the studio glass"
+    },
+    {
+      "t": 65.39,
+      "end": 70.13,
+      "text": "Two minutes there is all I'm meant to do"
+    },
+    {
+      "t": 70.21,
+      "end": 72.87,
+      "text": "I stay a little longer than that"
+    },
+    {
+      "t": 76.09,
+      "end": 76.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.09,
+      "end": 80.11,
+      "text": "Three o'clock, the tea machine eats my second pound"
+    },
+    {
+      "t": 83.41,
+      "end": 89.09,
+      "text": "I bring you the one that worked and you put the swab down"
+    },
+    {
+      "t": 90.51,
+      "end": 98.03,
+      "text": "You show me a sailor nobody's seen since eighteen-ninety"
+    },
+    {
+      "t": 98.03,
+      "end": 102.37,
+      "text": "A red scarf at his neck, and you tell me it would suit me"
+    },
+    {
+      "t": 102.45,
+      "end": 102.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.45,
+      "end": 103.57,
+      "text": "The radio crackles, someone asks where I am"
+    },
+    {
+      "t": 103.57,
+      "end": 111.99,
+      "text": "I say the east wing, everything's quiet, I'm fine"
+    },
+    {
+      "t": 112.31,
+      "end": 112.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.31,
+      "end": 115.39,
+      "text": "I walk the round just to pass your room"
+    },
+    {
+      "t": 116.21,
+      "end": 119.49,
+      "text": "You let me in past the glass"
+    },
+    {
+      "t": 121.05,
+      "end": 124.39,
+      "text": "Two minutes there is all I'm meant to do"
+    },
+    {
+      "t": 125.19,
+      "end": 128.23,
+      "text": "And the second tea's gone down by half"
+    },
+    {
+      "t": 143.93,
+      "end": 143.93,
+      "text": "[Bridge - guitar and brushes only]"
+    },
+    {
+      "t": 143.93,
+      "end": 149.09,
+      "text": "When the boat is clean they'll hang it by the stairs"
+    },
+    {
+      "t": 151.81,
+      "end": 159.64,
+      "text": "I'll stop there on my rounds and you'll be there"
+    },
+    {
+      "t": 159.84,
+      "end": 159.84,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 159.84,
+      "end": 162.86,
+      "text": "I walk the round and I'm walking you home"
+    },
+    {
+      "t": 164.4,
+      "end": 167.42,
+      "text": "Six a.m., the cleaners coming in"
+    },
+    {
+      "t": 169.28,
+      "end": 178.58,
+      "text": "Two minutes there is all I'm meant to do"
+    },
+    {
+      "t": 178.66,
+      "end": 181.48,
+      "text": "I'm meeting you at eleven again"
+    },
+    {
+      "t": 181.48,
+      "end": 181.48,
+      "text": "[Outro - Rhodes and guitar, fading]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
