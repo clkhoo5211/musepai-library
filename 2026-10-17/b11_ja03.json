@@ -1,0 +1,549 @@
+{
+  "id": "b11_ja03",
+  "title": "鳴らしてみてよ",
+  "title_source": "scripted",
+  "genre": "Japanese flamenco-rumba pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "shy, warm and quietly giddy",
+  "persona": "",
+  "subject": "a flamenco guitarist who plays Friday nights at a small Spanish restaurant, finally handed the cypress guitar that the quiet luthier at the end of the counter spent two winters building, sized to her hands and with her name on the label inside",
+  "caption": "Japanese flamenco-rumba pop, a J-pop love song built on Spanish rumba flamenca. A flamenco guitar with a bright cypress tone playing driving rasgueado strums and fast picado runs; a second nylon-string guitar on the muted rumba chop; cajón and layered palmas handclaps carrying the rumba groove; an upright bass on root and fifth; a breathy flute playing short flamenco-style phrases answering the vocal lines. Warm, close, woody acoustic mix with the handclaps spread wide and small-room reverb like a restaurant stage. Female alto lead, clear and slightly husky, intimate in the verses and opening up with light flamenco-style ornaments in the chorus. 108 BPM, A minor. Shy, warm and quietly giddy. No drum kit, no brass, no reggaeton or trap beat, no synths, no autotune, no timbales or cha-cha percussion.",
+  "lyrics": "[Intro - flamenco guitar rasgueado and palmas]\n\n[Verse 1]\n金曜の夜 スペイン料理屋の\n小さな舞台で わたしは弾く\nカウンターの端に いつもあなた\n木くずのついた 袖のまま\n\n[Pre-Chorus]\n「次の冬には できるから」\nそれだけ言って 二度目の冬\n\n[Chorus]\n「鳴らしてみてよ」って 笑うから\nシープレスの胴を 抱きよせる\nかき鳴らしたら 客が振り向いて\nあなたの耳が 赤くなる\n\n[Verse 2]\n弦の高さも ネックの太さも\nわたしの指に ぴったりで\n「いつ測ったの」って 聞いたら\n「毎週 見てたから」 だって\n\n[Pre-Chorus]\nサウンドホールを のぞいたら\n小さなラベルに わたしの名前\n\n[Chorus]\n「鳴らしてみてよ」って もう一度\n今度はルンバで 返事する\n手拍子が 店じゅうに 広がって\nあなたは 下を向いたまま\n\n[Instrumental Break - flamenco guitar picado solo over cajón and palmas]\n\n[Chorus]\n「鳴らしてみてよ」って 言うのなら\n毎週 いちばん前で 聴いていて\nカウンターの端は もうやめて\nわたしの見える 席にいて\n\n[Outro - rasgueado flourish and a final tap on the guitar top]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 208.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Japanese flamenco-rumba pop, a J-pop love song built on Spanish rumba flamenca. A flamenco guitar with a bright cypress tone playing driving rasgueado strums and fast picado runs; a second nylon-string guitar on the muted rumba chop; cajón and layered palmas handclaps carrying the rumba groove; an upright bass on root and fifth; a breathy flute playing short flamenco-style phrases answering the vocal lines. Warm, close, woody acoustic mix with the handclaps spread wide and small-room reverb like a restaurant stage. Female alto lead, clear and slightly husky, intimate in the verses and opening up with light flamenco-style ornaments in the chorus. 108 BPM, A minor. Shy, warm and quietly giddy. No drum kit, no brass, no reggaeton or trap beat, no synths, no autotune, no timbales or cha-cha percussion.",
+    "lyrics": "[Intro - flamenco guitar rasgueado and palmas]\n\n[Verse 1]\n金曜の夜 スペイン料理屋の\n小さな舞台で わたしは弾く\nカウンターの端に いつもあなた\n木くずのついた 袖のまま\n\n[Pre-Chorus]\n「次の冬には できるから」\nそれだけ言って 二度目の冬\n\n[Chorus]\n「鳴らしてみてよ」って 笑うから\nシープレスの胴を 抱きよせる\nかき鳴らしたら 客が振り向いて\nあなたの耳が 赤くなる\n\n[Verse 2]\n弦の高さも ネックの太さも\nわたしの指に ぴったりで\n「いつ測ったの」って 聞いたら\n「毎週 見てたから」 だって\n\n[Pre-Chorus]\nサウンドホールを のぞいたら\n小さなラベルに わたしの名前\n\n[Chorus]\n「鳴らしてみてよ」って もう一度\n今度はルンバで 返事する\n手拍子が 店じゅうに 広がって\nあなたは 下を向いたまま\n\n[Instrumental Break - flamenco guitar picado solo over cajón and palmas]\n\n[Chorus]\n「鳴らしてみてよ」って 言うのなら\n毎週 いちばん前で 聴いていて\nカウンターの端は もうやめて\nわたしの見える 席にいて\n\n[Outro - rasgueado flourish and a final tap on the guitar top]"
+  },
+  "seed": "3848517942",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.53s**\n- 63.53s per song\n- LM phase (1 song): 15.73s\n- DiT phase (1 song): 47.81s",
+  "task_id": "774b6535-ad0b-45ca-b3be-031d8602cac6",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-17T22:06:38.327304+08:00",
+  "audio": "b11_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.16,
+      "end": 30.16,
+      "text": "[Intro - flamenco guitar rasgueado and palmas]"
+    },
+    {
+      "t": 30.16,
+      "end": 30.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.16,
+      "end": 36.12,
+      "text": "金曜の夜 スペイン料理屋の"
+    },
+    {
+      "t": 38.68,
+      "end": 42.06,
+      "text": "小さな舞台で わたしは弾く"
+    },
+    {
+      "t": 42.06,
+      "end": 43.68,
+      "text": "カウンターの端に いつもあなた"
+    },
+    {
+      "t": 43.68,
+      "end": 48.28,
+      "text": "木くずのついた 袖のまま"
+    },
+    {
+      "t": 48.42,
+      "end": 48.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.42,
+      "end": 54.23,
+      "text": "「次の冬には できるから」"
+    },
+    {
+      "t": 57.15,
+      "end": 61.97,
+      "text": "それだけ言って 二度目の冬"
+    },
+    {
+      "t": 63.11,
+      "end": 63.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.11,
+      "end": 69.75,
+      "text": "「鳴らしてみてよ」って 笑うから"
+    },
+    {
+      "t": 69.79,
+      "end": 74.17,
+      "text": "シープレスの胴を 抱きよせる"
+    },
+    {
+      "t": 74.31,
+      "end": 79.17,
+      "text": "かき鳴らしたら 客が振り向いて"
+    },
+    {
+      "t": 79.21,
+      "end": 81.53,
+      "text": "あなたの耳が 赤くなる"
+    },
+    {
+      "t": 81.67,
+      "end": 81.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.67,
+      "end": 92.43,
+      "text": "弦の高さも ネックの太さも"
+    },
+    {
+      "t": 92.45,
+      "end": 97.39,
+      "text": "わたしの指に ぴったりで"
+    },
+    {
+      "t": 97.39,
+      "end": 104.83,
+      "text": "「いつ測ったの」って 聞いたら"
+    },
+    {
+      "t": 104.83,
+      "end": 105.95,
+      "text": "「毎週 見てたから」 だって"
+    },
+    {
+      "t": 105.95,
+      "end": 105.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.95,
+      "end": 108.33,
+      "text": "サウンドホールを のぞいたら"
+    },
+    {
+      "t": 108.67,
+      "end": 110.51,
+      "text": "小さなラベルに わたしの名前"
+    },
+    {
+      "t": 110.55,
+      "end": 110.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.55,
+      "end": 113.95,
+      "text": "「鳴らしてみてよ」って もう一度"
+    },
+    {
+      "t": 113.95,
+      "end": 115.19,
+      "text": "今度はルンバで 返事する"
+    },
+    {
+      "t": 115.21,
+      "end": 117.99,
+      "text": "手拍子が 店じゅうに 広がって"
+    },
+    {
+      "t": 119.37,
+      "end": 122.51,
+      "text": "あなたは 下を向いたまま"
+    },
+    {
+      "t": 122.63,
+      "end": 122.63,
+      "text": "[Instrumental Break - flamenco guitar picado solo over cajón and palmas]"
+    },
+    {
+      "t": 122.63,
+      "end": 122.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.63,
+      "end": 144.85,
+      "text": "「鳴らしてみてよ」って 言うのなら"
+    },
+    {
+      "t": 146.11,
+      "end": 149.33,
+      "text": "毎週 いちばん前で 聴いていて"
+    },
+    {
+      "t": 152.81,
+      "end": 158.34,
+      "text": "カウンターの端は もうやめて"
+    },
+    {
+      "t": 161.9,
+      "end": 165.1,
+      "text": "わたしの見える 席にいて"
+    },
+    {
+      "t": 165.1,
+      "end": 165.1,
+      "text": "[Outro - rasgueado flourish and a final tap on the guitar top]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.16,
+      "end": 30.16,
+      "text": "[Intro - flamenco guitar rasgueado and palmas]"
+    },
+    {
+      "t": 30.16,
+      "end": 30.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.16,
+      "end": 36.12,
+      "text": "金曜の夜 スペイン料理屋の"
+    },
+    {
+      "t": 38.68,
+      "end": 42.06,
+      "text": "小さな舞台で わたしは弾く"
+    },
+    {
+      "t": 42.06,
+      "end": 43.68,
+      "text": "カウンターの端に いつもあなた"
+    },
+    {
+      "t": 43.68,
+      "end": 48.28,
+      "text": "木くずのついた 袖のまま"
+    },
+    {
+      "t": 48.42,
+      "end": 48.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.42,
+      "end": 54.23,
+      "text": "「次の冬には できるから」"
+    },
+    {
+      "t": 57.15,
+      "end": 61.97,
+      "text": "それだけ言って 二度目の冬"
+    },
+    {
+      "t": 63.11,
+      "end": 63.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.11,
+      "end": 69.75,
+      "text": "「鳴らしてみてよ」って 笑うから"
+    },
+    {
+      "t": 69.79,
+      "end": 74.17,
+      "text": "シープレスの胴を 抱きよせる"
+    },
+    {
+      "t": 74.31,
+      "end": 79.17,
+      "text": "かき鳴らしたら 客が振り向いて"
+    },
+    {
+      "t": 79.21,
+      "end": 81.53,
+      "text": "あなたの耳が 赤くなる"
+    },
+    {
+      "t": 81.67,
+      "end": 81.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.67,
+      "end": 92.43,
+      "text": "弦の高さも ネックの太さも"
+    },
+    {
+      "t": 92.45,
+      "end": 97.39,
+      "text": "わたしの指に ぴったりで"
+    },
+    {
+      "t": 97.39,
+      "end": 104.83,
+      "text": "「いつ測ったの」って 聞いたら"
+    },
+    {
+      "t": 104.83,
+      "end": 105.95,
+      "text": "「毎週 見てたから」 だって"
+    },
+    {
+      "t": 105.95,
+      "end": 105.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.95,
+      "end": 108.33,
+      "text": "サウンドホールを のぞいたら"
+    },
+    {
+      "t": 108.67,
+      "end": 110.51,
+      "text": "小さなラベルに わたしの名前"
+    },
+    {
+      "t": 110.55,
+      "end": 110.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.55,
+      "end": 113.95,
+      "text": "「鳴らしてみてよ」って もう一度"
+    },
+    {
+      "t": 113.95,
+      "end": 115.19,
+      "text": "今度はルンバで 返事する"
+    },
+    {
+      "t": 115.21,
+      "end": 117.99,
+      "text": "手拍子が 店じゅうに 広がって"
+    },
+    {
+      "t": 119.37,
+      "end": 122.51,
+      "text": "あなたは 下を向いたまま"
+    },
+    {
+      "t": 122.63,
+      "end": 122.63,
+      "text": "[Instrumental Break - flamenco guitar picado solo over cajón and palmas]"
+    },
+    {
+      "t": 122.63,
+      "end": 122.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.63,
+      "end": 144.85,
+      "text": "「鳴らしてみてよ」って 言うのなら"
+    },
+    {
+      "t": 146.11,
+      "end": 149.33,
+      "text": "毎週 いちばん前で 聴いていて"
+    },
+    {
+      "t": 152.81,
+      "end": 158.34,
+      "text": "カウンターの端は もうやめて"
+    },
+    {
+      "t": 161.9,
+      "end": 165.1,
+      "text": "わたしの見える 席にいて"
+    },
+    {
+      "t": 165.1,
+      "end": 165.1,
+      "text": "[Outro - rasgueado flourish and a final tap on the guitar top]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 30.14,
+      "end": 30.14,
+      "text": "[Intro - flamenco guitar rasgueado and palmas]"
+    },
+    {
+      "t": 30.14,
+      "end": 30.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.14,
+      "end": 36.1,
+      "text": "金曜の夜 スペイン料理屋の"
+    },
+    {
+      "t": 38.68,
+      "end": 42.82,
+      "text": "小さな舞台で わたしは弾く"
+    },
+    {
+      "t": 42.98,
+      "end": 48.42,
+      "text": "カウンターの端に いつもあなた"
+    },
+    {
+      "t": 48.42,
+      "end": 50.6,
+      "text": "木くずのついた 袖のまま"
+    },
+    {
+      "t": 50.6,
+      "end": 50.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.6,
+      "end": 54.21,
+      "text": "「次の冬には できるから」"
+    },
+    {
+      "t": 57.15,
+      "end": 61.85,
+      "text": "それだけ言って 二度目の冬"
+    },
+    {
+      "t": 61.95,
+      "end": 61.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.95,
+      "end": 69.77,
+      "text": "「鳴らしてみてよ」って 笑うから"
+    },
+    {
+      "t": 69.79,
+      "end": 72.27,
+      "text": "シープレスの胴を 抱きよせる"
+    },
+    {
+      "t": 72.29,
+      "end": 76.39,
+      "text": "かき鳴らしたら 客が振り向いて"
+    },
+    {
+      "t": 78.63,
+      "end": 81.53,
+      "text": "あなたの耳が 赤くなる"
+    },
+    {
+      "t": 81.67,
+      "end": 81.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.67,
+      "end": 88.45,
+      "text": "弦の高さも ネックの太さも"
+    },
+    {
+      "t": 92.37,
+      "end": 97.61,
+      "text": "わたしの指に ぴったりで"
+    },
+    {
+      "t": 104.55,
+      "end": 106.65,
+      "text": "「いつ測ったの」って 聞いたら"
+    },
+    {
+      "t": 106.69,
+      "end": 110.21,
+      "text": "「毎週 見てたから」 だって"
+    },
+    {
+      "t": 110.39,
+      "end": 110.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.39,
+      "end": 113.69,
+      "text": "サウンドホールを のぞいたら"
+    },
+    {
+      "t": 113.89,
+      "end": 117.05,
+      "text": "小さなラベルに わたしの名前"
+    },
+    {
+      "t": 117.11,
+      "end": 117.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.11,
+      "end": 121.39,
+      "text": "「鳴らしてみてよ」って もう一度"
+    },
+    {
+      "t": 121.73,
+      "end": 127.71,
+      "text": "今度はルンバで 返事する"
+    },
+    {
+      "t": 127.89,
+      "end": 136.11,
+      "text": "手拍子が 店じゅうに 広がって"
+    },
+    {
+      "t": 136.17,
+      "end": 137.81,
+      "text": "あなたは 下を向いたまま"
+    },
+    {
+      "t": 138.01,
+      "end": 138.01,
+      "text": "[Instrumental Break - flamenco guitar picado solo over cajón and palmas]"
+    },
+    {
+      "t": 138.01,
+      "end": 138.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.01,
+      "end": 144.85,
+      "text": "「鳴らしてみてよ」って 言うのなら"
+    },
+    {
+      "t": 146.11,
+      "end": 149.33,
+      "text": "毎週 いちばん前で 聴いていて"
+    },
+    {
+      "t": 152.83,
+      "end": 158.34,
+      "text": "カウンターの端は もうやめて"
+    },
+    {
+      "t": 161.76,
+      "end": 165.06,
+      "text": "わたしの見える 席にいて"
+    },
+    {
+      "t": 165.06,
+      "end": 165.06,
+      "text": "[Outro - rasgueado flourish and a final tap on the guitar top]"
+    }
+  ]
+}

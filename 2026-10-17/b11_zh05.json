@@ -1,0 +1,367 @@
+{
+  "id": "b11_zh05",
+  "title": "十二公分",
+  "title_source": "scripted",
+  "genre": "Mandarin slowcore",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "hushed, patient and quietly amused",
+  "persona": "",
+  "subject": "a weather observer halfway through his shift at the Yushan North Peak weather station, measuring the winter's first snow with a ruler at five in the morning, reading the numbers down to the base over the radio, and losing his biscuits to a yellow-throated marten",
+  "caption": "Mandarin slowcore in the 1990s American slowcore vein. A clean electric guitar through a slow amp tremolo, strumming open chords once and letting each one ring out, a second guitar adding soft volume swells, a sparse round bass holding long root notes, drums played with mallets and brushes at a crawl, and a low organ drone underneath. Quiet, roomy late-night recording with natural room reverb and long gaps between notes. Male voice, a low soft baritone, close-miked, plain and unhurried, almost spoken. 66 BPM, E major. Hushed, patient and quietly amused. No post-rock crescendo, no shoegaze fuzz, no orchestral strings, no trap drums, no autotune.",
+  "lyrics": "[Intro - short, two ringing guitar chords]\n\n[Verse 1]\n清晨五點 三千八百公尺\n我推開門 雪已經蓋過腳踝\n蹲下來 拿尺 一格一格量\n今年的第一場雪 十二公分\n\n[Pre-Chorus]\n回到屋裡 對著無線電\n一個字一個字 唸給山下聽\n\n[Chorus]\n氣溫零下四度 西北風\n積雪十二公分 天還沒亮\n山下的人 都還在睡\n醒來就會知道 下雪了\n\n[Verse 2]\n黃喉貂 又從屋頂溜下來\n叼走我放在窗台的餅乾\n這裡半個月 才換一次班\n我跟牠講的話 比跟人還多\n\n[Pre-Chorus]\n中午雲散開 看得到主峰\n我再走出去 把尺插進雪裡\n\n[Chorus]\n氣溫零下一度 風停了\n積雪剩下九公分 屋簷在滴水\n晚上的新聞 會用我拍的照片\n山下的人 看了又會說 好想上來\n\n[Bridge - guitar and organ drone only]\n整座山 只有我的腳印\n從門口 到百葉箱 再走回來\n\n[Outro - guitar ringing out, mallets fading]\n天又黑了 八點再量一次\n手套 烤在暖爐旁邊",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 228.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "2",
+    "prompt": "Mandarin slowcore in the 1990s American slowcore vein. A clean electric guitar through a slow amp tremolo, strumming open chords once and letting each one ring out, a second guitar adding soft volume swells, a sparse round bass holding long root notes, drums played with mallets and brushes at a crawl, and a low organ drone underneath. Quiet, roomy late-night recording with natural room reverb and long gaps between notes. Male voice, a low soft baritone, close-miked, plain and unhurried, almost spoken. 66 BPM, E major. Hushed, patient and quietly amused. No post-rock crescendo, no shoegaze fuzz, no orchestral strings, no trap drums, no autotune.",
+    "lyrics": "[Intro - short, two ringing guitar chords]\n\n[Verse 1]\n清晨五點 三千八百公尺\n我推開門 雪已經蓋過腳踝\n蹲下來 拿尺 一格一格量\n今年的第一場雪 十二公分\n\n[Pre-Chorus]\n回到屋裡 對著無線電\n一個字一個字 唸給山下聽\n\n[Chorus]\n氣溫零下四度 西北風\n積雪十二公分 天還沒亮\n山下的人 都還在睡\n醒來就會知道 下雪了\n\n[Verse 2]\n黃喉貂 又從屋頂溜下來\n叼走我放在窗台的餅乾\n這裡半個月 才換一次班\n我跟牠講的話 比跟人還多\n\n[Pre-Chorus]\n中午雲散開 看得到主峰\n我再走出去 把尺插進雪裡\n\n[Chorus]\n氣溫零下一度 風停了\n積雪剩下九公分 屋簷在滴水\n晚上的新聞 會用我拍的照片\n山下的人 看了又會說 好想上來\n\n[Bridge - guitar and organ drone only]\n整座山 只有我的腳印\n從門口 到百葉箱 再走回來\n\n[Outro - guitar ringing out, mallets fading]\n天又黑了 八點再量一次\n手套 烤在暖爐旁邊"
+  },
+  "seed": "1510087341",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.53s**\n- 71.53s per song\n- LM phase (1 song): 15.30s\n- DiT phase (1 song): 56.24s",
+  "task_id": "1b6c7ba5-4d8e-41b3-90b6-d9d5550f9b9f",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-17T22:02:17.984645+08:00",
+  "audio": "b11_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.82,
+      "end": 29.82,
+      "text": "[Intro - short, two ringing guitar chords]"
+    },
+    {
+      "t": 29.82,
+      "end": 29.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.82,
+      "end": 34.14,
+      "text": "清晨五點 三千八百公尺"
+    },
+    {
+      "t": 36.06,
+      "end": 41.7,
+      "text": "我推開門 雪已經蓋過腳踝"
+    },
+    {
+      "t": 41.72,
+      "end": 52.22,
+      "text": "蹲下來 拿尺 一格一格量"
+    },
+    {
+      "t": 52.22,
+      "end": 54.6,
+      "text": "今年的第一場雪 十二公分"
+    },
+    {
+      "t": 54.62,
+      "end": 54.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.62,
+      "end": 56.06,
+      "text": "回到屋裡 對著無線電"
+    },
+    {
+      "t": 56.06,
+      "end": 61.65,
+      "text": "一個字一個字 唸給山下聽"
+    },
+    {
+      "t": 62.27,
+      "end": 62.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.27,
+      "end": 63.37,
+      "text": "氣溫零下四度 西北風"
+    },
+    {
+      "t": 66.43,
+      "end": 68.07,
+      "text": "積雪十二公分 天還沒亮"
+    },
+    {
+      "t": 68.35,
+      "end": 70.67,
+      "text": "山下的人 都還在睡"
+    },
+    {
+      "t": 73.37,
+      "end": 77.75,
+      "text": "醒來就會知道 下雪了"
+    },
+    {
+      "t": 84.23,
+      "end": 84.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.23,
+      "end": 88.05,
+      "text": "黃喉貂 又從屋頂溜下來"
+    },
+    {
+      "t": 91.63,
+      "end": 95.37,
+      "text": "叼走我放在窗台的餅乾"
+    },
+    {
+      "t": 98.33,
+      "end": 104.77,
+      "text": "這裡半個月 才換一次班"
+    },
+    {
+      "t": 104.77,
+      "end": 110.91,
+      "text": "我跟牠講的話 比跟人還多"
+    },
+    {
+      "t": 120.45,
+      "end": 120.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 120.45,
+      "end": 123.87,
+      "text": "中午雲散開 看得到主峰"
+    },
+    {
+      "t": 125.07,
+      "end": 127.79,
+      "text": "我再走出去 把尺插進雪裡"
+    },
+    {
+      "t": 127.81,
+      "end": 127.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.81,
+      "end": 128.59,
+      "text": "氣溫零下一度 風停了"
+    },
+    {
+      "t": 128.59,
+      "end": 139.23,
+      "text": "積雪剩下九公分 屋簷在滴水"
+    },
+    {
+      "t": 139.23,
+      "end": 144.05,
+      "text": "晚上的新聞 會用我拍的照片"
+    },
+    {
+      "t": 146.51,
+      "end": 151.31,
+      "text": "山下的人 看了又會說 好想上來"
+    },
+    {
+      "t": 153.71,
+      "end": 153.71,
+      "text": "[Bridge - guitar and organ drone only]"
+    },
+    {
+      "t": 153.71,
+      "end": 165.83,
+      "text": "整座山 只有我的腳印"
+    },
+    {
+      "t": 168.21,
+      "end": 176.74,
+      "text": "從門口 到百葉箱 再走回來"
+    },
+    {
+      "t": 186.46,
+      "end": 186.46,
+      "text": "[Outro - guitar ringing out, mallets fading]"
+    },
+    {
+      "t": 186.46,
+      "end": 191.22,
+      "text": "天又黑了 八點再量一次"
+    },
+    {
+      "t": 197.54,
+      "end": 202.36,
+      "text": "手套 烤在暖爐旁邊"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.82,
+      "end": 29.82,
+      "text": "[Intro - short, two ringing guitar chords]"
+    },
+    {
+      "t": 29.82,
+      "end": 29.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.82,
+      "end": 34.14,
+      "text": "清晨五點 三千八百公尺"
+    },
+    {
+      "t": 36.06,
+      "end": 41.7,
+      "text": "我推開門 雪已經蓋過腳踝"
+    },
+    {
+      "t": 50.48,
+      "end": 52.2,
+      "text": "蹲下來 拿尺 一格一格量"
+    },
+    {
+      "t": 52.2,
+      "end": 55.4,
+      "text": "今年的第一場雪 十二公分"
+    },
+    {
+      "t": 55.4,
+      "end": 55.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.4,
+      "end": 59.37,
+      "text": "回到屋裡 對著無線電"
+    },
+    {
+      "t": 59.39,
+      "end": 61.69,
+      "text": "一個字一個字 唸給山下聽"
+    },
+    {
+      "t": 62.27,
+      "end": 62.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.27,
+      "end": 63.39,
+      "text": "氣溫零下四度 西北風"
+    },
+    {
+      "t": 63.75,
+      "end": 66.95,
+      "text": "積雪十二公分 天還沒亮"
+    },
+    {
+      "t": 66.95,
+      "end": 70.55,
+      "text": "山下的人 都還在睡"
+    },
+    {
+      "t": 73.35,
+      "end": 77.77,
+      "text": "醒來就會知道 下雪了"
+    },
+    {
+      "t": 84.23,
+      "end": 84.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.23,
+      "end": 88.05,
+      "text": "黃喉貂 又從屋頂溜下來"
+    },
+    {
+      "t": 91.63,
+      "end": 95.39,
+      "text": "叼走我放在窗台的餅乾"
+    },
+    {
+      "t": 98.33,
+      "end": 104.75,
+      "text": "這裡半個月 才換一次班"
+    },
+    {
+      "t": 104.75,
+      "end": 110.91,
+      "text": "我跟牠講的話 比跟人還多"
+    },
+    {
+      "t": 120.45,
+      "end": 120.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 120.45,
+      "end": 123.87,
+      "text": "中午雲散開 看得到主峰"
+    },
+    {
+      "t": 125.07,
+      "end": 127.79,
+      "text": "我再走出去 把尺插進雪裡"
+    },
+    {
+      "t": 127.81,
+      "end": 127.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.81,
+      "end": 128.59,
+      "text": "氣溫零下一度 風停了"
+    },
+    {
+      "t": 128.59,
+      "end": 139.67,
+      "text": "積雪剩下九公分 屋簷在滴水"
+    },
+    {
+      "t": 139.67,
+      "end": 144.05,
+      "text": "晚上的新聞 會用我拍的照片"
+    },
+    {
+      "t": 146.51,
+      "end": 151.29,
+      "text": "山下的人 看了又會說 好想上來"
+    },
+    {
+      "t": 153.69,
+      "end": 153.69,
+      "text": "[Bridge - guitar and organ drone only]"
+    },
+    {
+      "t": 153.69,
+      "end": 165.85,
+      "text": "整座山 只有我的腳印"
+    },
+    {
+      "t": 168.21,
+      "end": 176.7,
+      "text": "從門口 到百葉箱 再走回來"
+    },
+    {
+      "t": 186.44,
+      "end": 186.44,
+      "text": "[Outro - guitar ringing out, mallets fading]"
+    },
+    {
+      "t": 186.44,
+      "end": 191.22,
+      "text": "天又黑了 八點再量一次"
+    },
+    {
+      "t": 197.54,
+      "end": 202.36,
+      "text": "手套 烤在暖爐旁邊"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

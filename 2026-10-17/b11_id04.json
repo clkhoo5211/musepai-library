@@ -1,0 +1,549 @@
+{
+  "id": "b11_id04",
+  "title": "Lima Sembilan",
+  "title_source": "scripted",
+  "genre": "Indonesian 80s jazz fusion",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "quick, playful and nerdy-proud",
+  "persona": "",
+  "subject": "a woman ham-radio operator on her Bekasi rooftop through the forty-eight-hour CQ World Wide contest, logging stations from Osaka to Rio and Alaska and giving every one of them the same 'five-nine' signal report, while her husband, who grumbles about the cracked roof tiles, brings up her rice and then spends the night replacing those tiles by torchlight under her antenna",
+  "caption": "Indonesian 80s jazz fusion, keyboard-led jazz-rock with tight unison runs. A Rhodes-style electric piano with chorus comping syncopated ninth chords; a Minimoog-style synth lead playing quick unison lines with a clean fusion electric guitar; an electric bass slapping in the verses and switching to melodic fretless runs in the chorus; tight fusion drums with fast sixteenth hi-hats, ghost notes and tom runs into each chorus; one short odd-meter break. Crisp 1980s studio sound, dry tight drums, wide keyboards. Female lead vocal, agile and bright with a clear jazz tone, quick syllabic delivery, doubling the synth line on the hook. 132 BPM, F minor. Quick, playful and nerdy-proud. No smooth-jazz saxophone, no city pop, no pop ballad, no EDM drums, no autotune.",
+  "lyrics": "[Intro - short synth and guitar unison run over slap bass]\n\n[Verse 1]\nSabtu jam tujuh pagi, kontes mulai dibuka\nAntena yagi di genteng kuputar ke arah Jepang\nKopi satu termos, buku log, pulpen dua\nSuamiku teriak dari bawah, gentengnya retak lagi!\n\n[Pre-Chorus]\nSi-kyu kontes, di sini Yankee Bravo Satu Alfa Kilo\nSiapa pun yang dengar, jawab dong, sebentar aja\n\n[Chorus]\nLima sembilan, lima sembilan\nDari Osaka sampai Rio, semua lima sembilan\nSuaranya kresek kayak orang goreng tempe\nTetap kucatat lima sembilan, terima kasih, ganti\n\n[Verse 2]\nMalam Minggu di empat puluh meter rame banget\nJepang antre panjang, kujawab satu-satu\nAda bapak-bapak di Alaska, ada anak SMA di Polandia\nSuamiku naik bawa nasi, terus ganti genteng sampai subuh\n\n[Chorus]\nLima sembilan, lima sembilan\nDari Alaska sampai Kalimantan, semua lima sembilan\nAda yang nyaris nggak kedengeran\nTetap lima sembilan, ya namanya juga kontes\n\n[Instrumental Break - odd-meter synth and guitar unison]\n\n[Bridge - Rhodes and fretless bass under the vocal]\nSeribu dua ratus kontak, suaraku tinggal setengah\nSenin jam tujuh pagi, log kututup, aku tepuk tangan sendiri\n\n[Chorus]\nLima sembilan, lima sembilan\nSeribu dua ratus kali aku bilang lima sembilan\nSuamiku nanya, sinyalmu sekarang berapa?\nKubisikin pelan, tiga tiga, ganti\n\n[Outro - synth and guitar unison run, hard stop]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Indonesian 80s jazz fusion, keyboard-led jazz-rock with tight unison runs. A Rhodes-style electric piano with chorus comping syncopated ninth chords; a Minimoog-style synth lead playing quick unison lines with a clean fusion electric guitar; an electric bass slapping in the verses and switching to melodic fretless runs in the chorus; tight fusion drums with fast sixteenth hi-hats, ghost notes and tom runs into each chorus; one short odd-meter break. Crisp 1980s studio sound, dry tight drums, wide keyboards. Female lead vocal, agile and bright with a clear jazz tone, quick syllabic delivery, doubling the synth line on the hook. 132 BPM, F minor. Quick, playful and nerdy-proud. No smooth-jazz saxophone, no city pop, no pop ballad, no EDM drums, no autotune.",
+    "lyrics": "[Intro - short synth and guitar unison run over slap bass]\n\n[Verse 1]\nSabtu jam tujuh pagi, kontes mulai dibuka\nAntena yagi di genteng kuputar ke arah Jepang\nKopi satu termos, buku log, pulpen dua\nSuamiku teriak dari bawah, gentengnya retak lagi!\n\n[Pre-Chorus]\nSi-kyu kontes, di sini Yankee Bravo Satu Alfa Kilo\nSiapa pun yang dengar, jawab dong, sebentar aja\n\n[Chorus]\nLima sembilan, lima sembilan\nDari Osaka sampai Rio, semua lima sembilan\nSuaranya kresek kayak orang goreng tempe\nTetap kucatat lima sembilan, terima kasih, ganti\n\n[Verse 2]\nMalam Minggu di empat puluh meter rame banget\nJepang antre panjang, kujawab satu-satu\nAda bapak-bapak di Alaska, ada anak SMA di Polandia\nSuamiku naik bawa nasi, terus ganti genteng sampai subuh\n\n[Chorus]\nLima sembilan, lima sembilan\nDari Alaska sampai Kalimantan, semua lima sembilan\nAda yang nyaris nggak kedengeran\nTetap lima sembilan, ya namanya juga kontes\n\n[Instrumental Break - odd-meter synth and guitar unison]\n\n[Bridge - Rhodes and fretless bass under the vocal]\nSeribu dua ratus kontak, suaraku tinggal setengah\nSenin jam tujuh pagi, log kututup, aku tepuk tangan sendiri\n\n[Chorus]\nLima sembilan, lima sembilan\nSeribu dua ratus kali aku bilang lima sembilan\nSuamiku nanya, sinyalmu sekarang berapa?\nKubisikin pelan, tiga tiga, ganti\n\n[Outro - synth and guitar unison run, hard stop]"
+  },
+  "seed": "3967686702",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.08s**\n- 71.08s per song\n- LM phase (1 song): 11.56s\n- DiT phase (1 song): 59.52s",
+  "task_id": "f1aaf886-c704-4aa9-81f9-3308572f6904",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-17T21:26:01.731101+08:00",
+  "audio": "b11_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.08,
+      "end": 29.08,
+      "text": "[Intro - short synth and guitar unison run over slap bass]"
+    },
+    {
+      "t": 29.08,
+      "end": 29.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.08,
+      "end": 34.72,
+      "text": "Sabtu jam tujuh pagi, kontes mulai dibuka"
+    },
+    {
+      "t": 36.64,
+      "end": 42.32,
+      "text": "Antena yagi di genteng kuputar ke arah Jepang"
+    },
+    {
+      "t": 42.32,
+      "end": 45.06,
+      "text": "Kopi satu termos, buku log, pulpen dua"
+    },
+    {
+      "t": 45.06,
+      "end": 49.68,
+      "text": "Suamiku teriak dari bawah, gentengnya retak lagi!"
+    },
+    {
+      "t": 51.37,
+      "end": 51.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.37,
+      "end": 58.39,
+      "text": "Si-kyu kontes, di sini Yankee Bravo Satu Alfa Kilo"
+    },
+    {
+      "t": 58.63,
+      "end": 66.53,
+      "text": "Siapa pun yang dengar, jawab dong, sebentar aja"
+    },
+    {
+      "t": 66.75,
+      "end": 66.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.75,
+      "end": 84.99,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 85.05,
+      "end": 88.95,
+      "text": "Dari Osaka sampai Rio, semua lima sembilan"
+    },
+    {
+      "t": 91.37,
+      "end": 95.15,
+      "text": "Suaranya kresek kayak orang goreng tempe"
+    },
+    {
+      "t": 95.29,
+      "end": 97.93,
+      "text": "Tetap kucatat lima sembilan, terima kasih, ganti"
+    },
+    {
+      "t": 97.93,
+      "end": 97.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.93,
+      "end": 99.61,
+      "text": "Malam Minggu di empat puluh meter rame banget"
+    },
+    {
+      "t": 99.61,
+      "end": 102.23,
+      "text": "Jepang antre panjang, kujawab satu-satu"
+    },
+    {
+      "t": 102.23,
+      "end": 105.59,
+      "text": "Ada bapak-bapak di Alaska, ada anak SMA di Polandia"
+    },
+    {
+      "t": 105.93,
+      "end": 112.19,
+      "text": "Suamiku naik bawa nasi, terus ganti genteng sampai subuh"
+    },
+    {
+      "t": 112.19,
+      "end": 112.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.19,
+      "end": 121.69,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 121.85,
+      "end": 126.69,
+      "text": "Dari Alaska sampai Kalimantan, semua lima sembilan"
+    },
+    {
+      "t": 126.81,
+      "end": 129.41,
+      "text": "Ada yang nyaris nggak kedengeran"
+    },
+    {
+      "t": 129.45,
+      "end": 132.11,
+      "text": "Tetap lima sembilan, ya namanya juga kontes"
+    },
+    {
+      "t": 132.69,
+      "end": 132.69,
+      "text": "[Instrumental Break - odd-meter synth and guitar unison]"
+    },
+    {
+      "t": 132.69,
+      "end": 132.69,
+      "text": "[Bridge - Rhodes and fretless bass under the vocal]"
+    },
+    {
+      "t": 132.69,
+      "end": 139.19,
+      "text": "Seribu dua ratus kontak, suaraku tinggal setengah"
+    },
+    {
+      "t": 140.01,
+      "end": 150.22,
+      "text": "Senin jam tujuh pagi, log kututup, aku tepuk tangan sendiri"
+    },
+    {
+      "t": 151.56,
+      "end": 151.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.56,
+      "end": 161.4,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 161.62,
+      "end": 165.06,
+      "text": "Seribu dua ratus kali aku bilang lima sembilan"
+    },
+    {
+      "t": 165.56,
+      "end": 168.68,
+      "text": "Suamiku nanya, sinyalmu sekarang berapa?"
+    },
+    {
+      "t": 169.1,
+      "end": 174.78,
+      "text": "Kubisikin pelan, tiga tiga, ganti"
+    },
+    {
+      "t": 174.78,
+      "end": 174.78,
+      "text": "[Outro - synth and guitar unison run, hard stop]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.08,
+      "end": 29.08,
+      "text": "[Intro - short synth and guitar unison run over slap bass]"
+    },
+    {
+      "t": 29.08,
+      "end": 29.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.08,
+      "end": 34.72,
+      "text": "Sabtu jam tujuh pagi, kontes mulai dibuka"
+    },
+    {
+      "t": 36.64,
+      "end": 42.32,
+      "text": "Antena yagi di genteng kuputar ke arah Jepang"
+    },
+    {
+      "t": 42.32,
+      "end": 45.06,
+      "text": "Kopi satu termos, buku log, pulpen dua"
+    },
+    {
+      "t": 45.06,
+      "end": 49.68,
+      "text": "Suamiku teriak dari bawah, gentengnya retak lagi!"
+    },
+    {
+      "t": 51.37,
+      "end": 51.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.37,
+      "end": 58.39,
+      "text": "Si-kyu kontes, di sini Yankee Bravo Satu Alfa Kilo"
+    },
+    {
+      "t": 58.63,
+      "end": 66.53,
+      "text": "Siapa pun yang dengar, jawab dong, sebentar aja"
+    },
+    {
+      "t": 66.75,
+      "end": 66.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.75,
+      "end": 84.99,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 85.05,
+      "end": 88.95,
+      "text": "Dari Osaka sampai Rio, semua lima sembilan"
+    },
+    {
+      "t": 91.37,
+      "end": 95.15,
+      "text": "Suaranya kresek kayak orang goreng tempe"
+    },
+    {
+      "t": 95.29,
+      "end": 97.93,
+      "text": "Tetap kucatat lima sembilan, terima kasih, ganti"
+    },
+    {
+      "t": 97.93,
+      "end": 97.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.93,
+      "end": 99.61,
+      "text": "Malam Minggu di empat puluh meter rame banget"
+    },
+    {
+      "t": 99.61,
+      "end": 102.23,
+      "text": "Jepang antre panjang, kujawab satu-satu"
+    },
+    {
+      "t": 102.23,
+      "end": 105.59,
+      "text": "Ada bapak-bapak di Alaska, ada anak SMA di Polandia"
+    },
+    {
+      "t": 105.93,
+      "end": 112.19,
+      "text": "Suamiku naik bawa nasi, terus ganti genteng sampai subuh"
+    },
+    {
+      "t": 112.19,
+      "end": 112.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.19,
+      "end": 121.69,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 121.85,
+      "end": 126.69,
+      "text": "Dari Alaska sampai Kalimantan, semua lima sembilan"
+    },
+    {
+      "t": 126.81,
+      "end": 129.41,
+      "text": "Ada yang nyaris nggak kedengeran"
+    },
+    {
+      "t": 129.45,
+      "end": 132.11,
+      "text": "Tetap lima sembilan, ya namanya juga kontes"
+    },
+    {
+      "t": 132.69,
+      "end": 132.69,
+      "text": "[Instrumental Break - odd-meter synth and guitar unison]"
+    },
+    {
+      "t": 132.69,
+      "end": 132.69,
+      "text": "[Bridge - Rhodes and fretless bass under the vocal]"
+    },
+    {
+      "t": 132.69,
+      "end": 139.19,
+      "text": "Seribu dua ratus kontak, suaraku tinggal setengah"
+    },
+    {
+      "t": 140.01,
+      "end": 150.22,
+      "text": "Senin jam tujuh pagi, log kututup, aku tepuk tangan sendiri"
+    },
+    {
+      "t": 151.56,
+      "end": 151.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.56,
+      "end": 161.4,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 161.62,
+      "end": 165.06,
+      "text": "Seribu dua ratus kali aku bilang lima sembilan"
+    },
+    {
+      "t": 165.56,
+      "end": 168.68,
+      "text": "Suamiku nanya, sinyalmu sekarang berapa?"
+    },
+    {
+      "t": 169.1,
+      "end": 174.78,
+      "text": "Kubisikin pelan, tiga tiga, ganti"
+    },
+    {
+      "t": 174.78,
+      "end": 174.78,
+      "text": "[Outro - synth and guitar unison run, hard stop]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.08,
+      "end": 29.08,
+      "text": "[Intro - short synth and guitar unison run over slap bass]"
+    },
+    {
+      "t": 29.08,
+      "end": 29.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.08,
+      "end": 34.68,
+      "text": "Sabtu jam tujuh pagi, kontes mulai dibuka"
+    },
+    {
+      "t": 36.66,
+      "end": 42.3,
+      "text": "Antena yagi di genteng kuputar ke arah Jepang"
+    },
+    {
+      "t": 42.3,
+      "end": 43.84,
+      "text": "Kopi satu termos, buku log, pulpen dua"
+    },
+    {
+      "t": 43.84,
+      "end": 49.68,
+      "text": "Suamiku teriak dari bawah, gentengnya retak lagi!"
+    },
+    {
+      "t": 51.37,
+      "end": 51.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.37,
+      "end": 58.37,
+      "text": "Si-kyu kontes, di sini Yankee Bravo Satu Alfa Kilo"
+    },
+    {
+      "t": 58.63,
+      "end": 66.51,
+      "text": "Siapa pun yang dengar, jawab dong, sebentar aja"
+    },
+    {
+      "t": 66.69,
+      "end": 66.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.69,
+      "end": 69.03,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 69.15,
+      "end": 70.17,
+      "text": "Dari Osaka sampai Rio, semua lima sembilan"
+    },
+    {
+      "t": 70.25,
+      "end": 72.61,
+      "text": "Suaranya kresek kayak orang goreng tempe"
+    },
+    {
+      "t": 72.67,
+      "end": 74.63,
+      "text": "Tetap kucatat lima sembilan, terima kasih, ganti"
+    },
+    {
+      "t": 74.63,
+      "end": 74.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.63,
+      "end": 77.33,
+      "text": "Malam Minggu di empat puluh meter rame banget"
+    },
+    {
+      "t": 77.33,
+      "end": 80.09,
+      "text": "Jepang antre panjang, kujawab satu-satu"
+    },
+    {
+      "t": 80.11,
+      "end": 82.65,
+      "text": "Ada bapak-bapak di Alaska, ada anak SMA di Polandia"
+    },
+    {
+      "t": 82.71,
+      "end": 86.37,
+      "text": "Suamiku naik bawa nasi, terus ganti genteng sampai subuh"
+    },
+    {
+      "t": 87.03,
+      "end": 87.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.03,
+      "end": 92.57,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 93.21,
+      "end": 99.93,
+      "text": "Dari Alaska sampai Kalimantan, semua lima sembilan"
+    },
+    {
+      "t": 100.77,
+      "end": 103.59,
+      "text": "Ada yang nyaris nggak kedengeran"
+    },
+    {
+      "t": 104.35,
+      "end": 111.83,
+      "text": "Tetap lima sembilan, ya namanya juga kontes"
+    },
+    {
+      "t": 132.71,
+      "end": 132.71,
+      "text": "[Instrumental Break - odd-meter synth and guitar unison]"
+    },
+    {
+      "t": 132.71,
+      "end": 132.71,
+      "text": "[Bridge - Rhodes and fretless bass under the vocal]"
+    },
+    {
+      "t": 132.71,
+      "end": 139.19,
+      "text": "Seribu dua ratus kontak, suaraku tinggal setengah"
+    },
+    {
+      "t": 139.99,
+      "end": 146.99,
+      "text": "Senin jam tujuh pagi, log kututup, aku tepuk tangan sendiri"
+    },
+    {
+      "t": 148.21,
+      "end": 148.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 148.21,
+      "end": 161.4,
+      "text": "Lima sembilan, lima sembilan"
+    },
+    {
+      "t": 161.62,
+      "end": 165.06,
+      "text": "Seribu dua ratus kali aku bilang lima sembilan"
+    },
+    {
+      "t": 165.56,
+      "end": 168.68,
+      "text": "Suamiku nanya, sinyalmu sekarang berapa?"
+    },
+    {
+      "t": 169.1,
+      "end": 174.78,
+      "text": "Kubisikin pelan, tiga tiga, ganti"
+    },
+    {
+      "t": 174.78,
+      "end": 174.78,
+      "text": "[Outro - synth and guitar unison run, hard stop]"
+    }
+  ]
+}

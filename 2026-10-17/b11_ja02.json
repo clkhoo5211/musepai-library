@@ -1,0 +1,367 @@
+{
+  "id": "b11_ja02",
+  "title": "全員上がって",
+  "title_source": "scripted",
+  "genre": "Heisei summer mixture rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sun-baked, cheeky and bouncy",
+  "persona": "",
+  "subject": "a university student working as a municipal-pool lifeguard in a 38-degree heatwave, booed by the whole pool every time he blows the whistle for the hourly ten-minute break and cheered when he lets them back in",
+  "caption": "Heisei summer mixture rock, the early-2000s Japanese mixture style that splices hip-hop rap verses onto bright, bouncy pop-rock. A crunchy overdriven guitar playing a bouncy off-beat riff with palm-muted chugs; a picked electric bass bouncing in octaves; live drums with a tight snare and a four-on-the-floor kick in the chorus; a cheesy square-wave synth lead doubling the hook. Loud, bright, compressed early-2000s J-rock mix with everything up front. Three male voices trading off: a fast, playful rap flow in the verses, a high clear tenor singing the chorus melody, and gang shouts on the call-and-response lines. 128 BPM, D major. Sun-baked, cheeky and bouncy. No funk clavinet or wah guitar, no metalcore breakdowns, no screamed vocals, no trap hi-hats, no autotune, no EDM drop.",
+  "lyrics": "[Intro - bouncy guitar riff, octave-bouncing bass and square-wave synth]\n\n[Verse 1 - fast rap]\n三十八度 アスファルトゆらゆら\n市民プールの監視台 俺ひとり\n首から笛 赤いキャップ\n日焼け止めは もう三回目\n\n[Pre-Chorus - sung]\n時計の針が 五十分を指したら\n俺はこの町で いちばん嫌われる\n\n[Chorus - high tenor lead, gang shouts answer]\n「はい 休憩です! 全員上がって!」\nブーイングの嵐を 浴びながら\nピーッと吹いたら 夏が止まる\nじゅっぷんだけ 我慢してくれ\n\n[Verse 2 - fast rap]\n聞こえないふりで 潜ったままの坊主\n浮き輪にしがみついて 離れないチビ\nプールサイドは 鉄板みたいに熱くて\nみんな足ばたばた 体育座り\n\n[Chorus - high tenor lead, gang shouts answer]\n「はい 休憩です! 全員上がって!」\n歩くコースの おばちゃんまで にらむ\nピーッと吹いたら 夏が止まる\nあと五分 俺だって泳ぎたい\n\n[Bridge - half-time, guitar and synth]\n三時ちょうど 立ち上がって\nもう一回 笛をくわえる\n\n[Chorus - full band, gang shouts]\n「はい どうぞ! 入っていいよ!」\n今度は歓声 俺に向かって\nピーッと吹いたら 夏が動き出す\n五十分だけ ヒーローだ\n\n[Outro - guitar riff and synth, cut off]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Heisei summer mixture rock, the early-2000s Japanese mixture style that splices hip-hop rap verses onto bright, bouncy pop-rock. A crunchy overdriven guitar playing a bouncy off-beat riff with palm-muted chugs; a picked electric bass bouncing in octaves; live drums with a tight snare and a four-on-the-floor kick in the chorus; a cheesy square-wave synth lead doubling the hook. Loud, bright, compressed early-2000s J-rock mix with everything up front. Three male voices trading off: a fast, playful rap flow in the verses, a high clear tenor singing the chorus melody, and gang shouts on the call-and-response lines. 128 BPM, D major. Sun-baked, cheeky and bouncy. No funk clavinet or wah guitar, no metalcore breakdowns, no screamed vocals, no trap hi-hats, no autotune, no EDM drop.",
+    "lyrics": "[Intro - bouncy guitar riff, octave-bouncing bass and square-wave synth]\n\n[Verse 1 - fast rap]\n三十八度 アスファルトゆらゆら\n市民プールの監視台 俺ひとり\n首から笛 赤いキャップ\n日焼け止めは もう三回目\n\n[Pre-Chorus - sung]\n時計の針が 五十分を指したら\n俺はこの町で いちばん嫌われる\n\n[Chorus - high tenor lead, gang shouts answer]\n「はい 休憩です! 全員上がって!」\nブーイングの嵐を 浴びながら\nピーッと吹いたら 夏が止まる\nじゅっぷんだけ 我慢してくれ\n\n[Verse 2 - fast rap]\n聞こえないふりで 潜ったままの坊主\n浮き輪にしがみついて 離れないチビ\nプールサイドは 鉄板みたいに熱くて\nみんな足ばたばた 体育座り\n\n[Chorus - high tenor lead, gang shouts answer]\n「はい 休憩です! 全員上がって!」\n歩くコースの おばちゃんまで にらむ\nピーッと吹いたら 夏が止まる\nあと五分 俺だって泳ぎたい\n\n[Bridge - half-time, guitar and synth]\n三時ちょうど 立ち上がって\nもう一回 笛をくわえる\n\n[Chorus - full band, gang shouts]\n「はい どうぞ! 入っていいよ!」\n今度は歓声 俺に向かって\nピーッと吹いたら 夏が動き出す\n五十分だけ ヒーローだ\n\n[Outro - guitar riff and synth, cut off]"
+  },
+  "seed": "213383257",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.55s**\n- 67.55s per song\n- LM phase (1 song): 13.18s\n- DiT phase (1 song): 54.37s",
+  "task_id": "f85f05be-59a7-4876-bfdb-e6856f6ce0b5",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-17T22:05:08.207056+08:00",
+  "audio": "b11_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.26,
+      "end": 0.26,
+      "text": "[Intro - bouncy guitar riff, octave-bouncing bass and square-wave synth]"
+    },
+    {
+      "t": 0.26,
+      "end": 0.26,
+      "text": "[Verse 1 - fast rap]"
+    },
+    {
+      "t": 0.26,
+      "end": 2.6,
+      "text": "三十八度 アスファルトゆらゆら"
+    },
+    {
+      "t": 2.72,
+      "end": 6.46,
+      "text": "市民プールの監視台 俺ひとり"
+    },
+    {
+      "t": 6.46,
+      "end": 8.02,
+      "text": "首から笛 赤いキャップ"
+    },
+    {
+      "t": 8.06,
+      "end": 24.52,
+      "text": "日焼け止めは もう三回目"
+    },
+    {
+      "t": 26.9,
+      "end": 26.9,
+      "text": "[Pre-Chorus - sung]"
+    },
+    {
+      "t": 26.9,
+      "end": 41.8,
+      "text": "時計の針が 五十分を指したら"
+    },
+    {
+      "t": 41.82,
+      "end": 44.42,
+      "text": "俺はこの町で いちばん嫌われる"
+    },
+    {
+      "t": 44.56,
+      "end": 44.56,
+      "text": "[Chorus - high tenor lead, gang shouts answer]"
+    },
+    {
+      "t": 44.56,
+      "end": 47.26,
+      "text": "「はい 休憩です! 全員上がって!」"
+    },
+    {
+      "t": 47.36,
+      "end": 49.56,
+      "text": "ブーイングの嵐を 浴びながら"
+    },
+    {
+      "t": 49.56,
+      "end": 51.79,
+      "text": "ピーッと吹いたら 夏が止まる"
+    },
+    {
+      "t": 51.83,
+      "end": 54.29,
+      "text": "じゅっぷんだけ 我慢してくれ"
+    },
+    {
+      "t": 54.39,
+      "end": 54.39,
+      "text": "[Verse 2 - fast rap]"
+    },
+    {
+      "t": 54.39,
+      "end": 57.79,
+      "text": "聞こえないふりで 潜ったままの坊主"
+    },
+    {
+      "t": 57.93,
+      "end": 62.03,
+      "text": "浮き輪にしがみついて 離れないチビ"
+    },
+    {
+      "t": 62.39,
+      "end": 70.45,
+      "text": "プールサイドは 鉄板みたいに熱くて"
+    },
+    {
+      "t": 70.65,
+      "end": 74.91,
+      "text": "みんな足ばたばた 体育座り"
+    },
+    {
+      "t": 75.07,
+      "end": 75.07,
+      "text": "[Chorus - high tenor lead, gang shouts answer]"
+    },
+    {
+      "t": 75.07,
+      "end": 80.97,
+      "text": "「はい 休憩です! 全員上がって!」"
+    },
+    {
+      "t": 81.57,
+      "end": 86.11,
+      "text": "歩くコースの おばちゃんまで にらむ"
+    },
+    {
+      "t": 86.25,
+      "end": 94.61,
+      "text": "ピーッと吹いたら 夏が止まる"
+    },
+    {
+      "t": 94.77,
+      "end": 105.87,
+      "text": "あと五分 俺だって泳ぎたい"
+    },
+    {
+      "t": 134.71,
+      "end": 134.71,
+      "text": "[Bridge - half-time, guitar and synth]"
+    },
+    {
+      "t": 134.71,
+      "end": 137.85,
+      "text": "三時ちょうど 立ち上がって"
+    },
+    {
+      "t": 137.99,
+      "end": 141.65,
+      "text": "もう一回 笛をくわえる"
+    },
+    {
+      "t": 142.23,
+      "end": 142.23,
+      "text": "[Chorus - full band, gang shouts]"
+    },
+    {
+      "t": 142.23,
+      "end": 145.39,
+      "text": "「はい どうぞ! 入っていいよ!」"
+    },
+    {
+      "t": 145.97,
+      "end": 149.15,
+      "text": "今度は歓声 俺に向かって"
+    },
+    {
+      "t": 153.48,
+      "end": 157.58,
+      "text": "ピーッと吹いたら 夏が動き出す"
+    },
+    {
+      "t": 157.7,
+      "end": 167.86,
+      "text": "五十分だけ ヒーローだ"
+    },
+    {
+      "t": 167.86,
+      "end": 167.86,
+      "text": "[Outro - guitar riff and synth, cut off]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 41.48,
+      "end": 41.48,
+      "text": "[Intro - bouncy guitar riff, octave-bouncing bass and square-wave synth]"
+    },
+    {
+      "t": 41.48,
+      "end": 41.48,
+      "text": "[Verse 1 - fast rap]"
+    },
+    {
+      "t": 41.48,
+      "end": 43.84,
+      "text": "三十八度 アスファルトゆらゆら"
+    },
+    {
+      "t": 43.86,
+      "end": 45.78,
+      "text": "市民プールの監視台 俺ひとり"
+    },
+    {
+      "t": 45.78,
+      "end": 46.66,
+      "text": "首から笛 赤いキャップ"
+    },
+    {
+      "t": 46.68,
+      "end": 47.98,
+      "text": "日焼け止めは もう三回目"
+    },
+    {
+      "t": 48.06,
+      "end": 48.06,
+      "text": "[Pre-Chorus - sung]"
+    },
+    {
+      "t": 48.06,
+      "end": 49.6,
+      "text": "時計の針が 五十分を指したら"
+    },
+    {
+      "t": 49.62,
+      "end": 50.77,
+      "text": "俺はこの町で いちばん嫌われる"
+    },
+    {
+      "t": 50.87,
+      "end": 50.87,
+      "text": "[Chorus - high tenor lead, gang shouts answer]"
+    },
+    {
+      "t": 50.87,
+      "end": 51.79,
+      "text": "「はい 休憩です! 全員上がって!」"
+    },
+    {
+      "t": 51.83,
+      "end": 53.81,
+      "text": "ブーイングの嵐を 浴びながら"
+    },
+    {
+      "t": 53.95,
+      "end": 56.67,
+      "text": "ピーッと吹いたら 夏が止まる"
+    },
+    {
+      "t": 56.67,
+      "end": 58.97,
+      "text": "じゅっぷんだけ 我慢してくれ"
+    },
+    {
+      "t": 59.03,
+      "end": 59.03,
+      "text": "[Verse 2 - fast rap]"
+    },
+    {
+      "t": 59.03,
+      "end": 64.39,
+      "text": "聞こえないふりで 潜ったままの坊主"
+    },
+    {
+      "t": 64.69,
+      "end": 71.87,
+      "text": "浮き輪にしがみついて 離れないチビ"
+    },
+    {
+      "t": 72.19,
+      "end": 74.89,
+      "text": "プールサイドは 鉄板みたいに熱くて"
+    },
+    {
+      "t": 74.89,
+      "end": 76.53,
+      "text": "みんな足ばたばた 体育座り"
+    },
+    {
+      "t": 76.69,
+      "end": 76.69,
+      "text": "[Chorus - high tenor lead, gang shouts answer]"
+    },
+    {
+      "t": 76.69,
+      "end": 80.99,
+      "text": "「はい 休憩です! 全員上がって!」"
+    },
+    {
+      "t": 81.57,
+      "end": 83.79,
+      "text": "歩くコースの おばちゃんまで にらむ"
+    },
+    {
+      "t": 83.79,
+      "end": 88.69,
+      "text": "ピーッと吹いたら 夏が止まる"
+    },
+    {
+      "t": 88.69,
+      "end": 91.51,
+      "text": "あと五分 俺だって泳ぎたい"
+    },
+    {
+      "t": 91.61,
+      "end": 91.61,
+      "text": "[Bridge - half-time, guitar and synth]"
+    },
+    {
+      "t": 91.61,
+      "end": 137.85,
+      "text": "三時ちょうど 立ち上がって"
+    },
+    {
+      "t": 137.99,
+      "end": 141.65,
+      "text": "もう一回 笛をくわえる"
+    },
+    {
+      "t": 142.23,
+      "end": 142.23,
+      "text": "[Chorus - full band, gang shouts]"
+    },
+    {
+      "t": 142.23,
+      "end": 145.41,
+      "text": "「はい どうぞ! 入っていいよ!」"
+    },
+    {
+      "t": 145.97,
+      "end": 149.15,
+      "text": "今度は歓声 俺に向かって"
+    },
+    {
+      "t": 153.48,
+      "end": 157.58,
+      "text": "ピーッと吹いたら 夏が動き出す"
+    },
+    {
+      "t": 157.7,
+      "end": 159.48,
+      "text": "五十分だけ ヒーローだ"
+    },
+    {
+      "t": 159.48,
+      "end": 159.48,
+      "text": "[Outro - guitar riff and synth, cut off]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

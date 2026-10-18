@@ -1,0 +1,534 @@
+{
+  "id": "b11_ja05",
+  "title": "ただのカード",
+  "title_source": "scripted",
+  "genre": "Japanese big band swing",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "unhurried, amused and quietly amazed",
+  "persona": "",
+  "subject": "a retired man who rides one-car local trains on summer weekdays to small-town city halls to collect the free municipal manhole cards, the only adult in a queue of children on summer holiday at the sewerage counter, until a clerk runs out in her sandals to show him the real painted cover on the crossing outside",
+  "caption": "Japanese big band swing in the classic medium-tempo dance-band tradition, the sound of Japan's student and pro big bands. A cup-muted trumpet section playing soft, punchy figures that build to full-band brass hits in the last chorus; a warm trombone section with a growling plunger-muted trombone solo; a saxophone section led by alto playing smooth soli lines; a walking upright bass; swing drums on brushes in the verses moving to sticks on the ride cymbal. Warm, roomy, live-in-a-hall mix with the horns placed by section. Male baritone crooner, relaxed and conversational with a smile in the voice, gentle vibrato on held notes. 118 BPM, Bb major. Unhurried, amused and quietly amazed. No electronic drums, no synths, no autotune, no hip-hop beat, no lo-fi crackle.",
+  "lyrics": "[Intro - muted trumpets, brushed drums and walking bass]\n\n[Verse 1]\n定年して 三年目の夏\n時刻表に 赤い丸つけて\n一両だけの 各駅停車で\n知らない町の 市役所へ\n\n[Pre-Chorus]\n二階のすみの 下水道課\n夏休みの列に 大人は俺だけ\n\n[Chorus]\n一人一枚 ただのカード\n表に町の マンホール\n麦わら帽子に はさまれて\n「お願いします」と 頭を下げる\n\n[Verse 2]\nカードの写真は ツツジとお城\n色まで塗った 鉄のふた\n「本物 見ます?」って 窓口の人\nサンダルのまま 外へ駆けだす\n\n[Chorus]\n一人一枚 ただのカード\n役所の前の 横断歩道\n麦わら帽子と しゃがみこんで\n「ほんとだ」って 声がそろう\n\n[Bridge - plunger-muted trombone solo, then bass and brushes only]\n四十年 電車で 通ったけど\n足もとなんて 見なかった\n\n[Chorus - full band, brass hits behind the vocal]\n一人一枚 ただのカード\n帰りの電車で 並べてみる\n九十八枚 どれもみんな\n毎日 誰かが 踏んでる絵\n\n[Outro - saxophone soli and a soft final chord]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 216.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Japanese big band swing in the classic medium-tempo dance-band tradition, the sound of Japan's student and pro big bands. A cup-muted trumpet section playing soft, punchy figures that build to full-band brass hits in the last chorus; a warm trombone section with a growling plunger-muted trombone solo; a saxophone section led by alto playing smooth soli lines; a walking upright bass; swing drums on brushes in the verses moving to sticks on the ride cymbal. Warm, roomy, live-in-a-hall mix with the horns placed by section. Male baritone crooner, relaxed and conversational with a smile in the voice, gentle vibrato on held notes. 118 BPM, Bb major. Unhurried, amused and quietly amazed. No electronic drums, no synths, no autotune, no hip-hop beat, no lo-fi crackle.",
+    "lyrics": "[Intro - muted trumpets, brushed drums and walking bass]\n\n[Verse 1]\n定年して 三年目の夏\n時刻表に 赤い丸つけて\n一両だけの 各駅停車で\n知らない町の 市役所へ\n\n[Pre-Chorus]\n二階のすみの 下水道課\n夏休みの列に 大人は俺だけ\n\n[Chorus]\n一人一枚 ただのカード\n表に町の マンホール\n麦わら帽子に はさまれて\n「お願いします」と 頭を下げる\n\n[Verse 2]\nカードの写真は ツツジとお城\n色まで塗った 鉄のふた\n「本物 見ます?」って 窓口の人\nサンダルのまま 外へ駆けだす\n\n[Chorus]\n一人一枚 ただのカード\n役所の前の 横断歩道\n麦わら帽子と しゃがみこんで\n「ほんとだ」って 声がそろう\n\n[Bridge - plunger-muted trombone solo, then bass and brushes only]\n四十年 電車で 通ったけど\n足もとなんて 見なかった\n\n[Chorus - full band, brass hits behind the vocal]\n一人一枚 ただのカード\n帰りの電車で 並べてみる\n九十八枚 どれもみんな\n毎日 誰かが 踏んでる絵\n\n[Outro - saxophone soli and a soft final chord]"
+  },
+  "seed": "3513285589",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.95s**\n- 69.95s per song\n- LM phase (1 song): 10.69s\n- DiT phase (1 song): 59.27s",
+  "task_id": "db5e7379-a162-4fd0-a544-c6a957e345ee",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-17T22:09:28.627186+08:00",
+  "audio": "b11_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.6,
+      "end": 33.6,
+      "text": "[Intro - muted trumpets, brushed drums and walking bass]"
+    },
+    {
+      "t": 33.6,
+      "end": 33.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.6,
+      "end": 39.84,
+      "text": "定年して 三年目の夏"
+    },
+    {
+      "t": 40.44,
+      "end": 45.1,
+      "text": "時刻表に 赤い丸つけて"
+    },
+    {
+      "t": 48.2,
+      "end": 51.08,
+      "text": "一両だけの 各駅停車で"
+    },
+    {
+      "t": 52.26,
+      "end": 54.95,
+      "text": "知らない町の 市役所へ"
+    },
+    {
+      "t": 54.99,
+      "end": 54.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.99,
+      "end": 56.57,
+      "text": "二階のすみの 下水道課"
+    },
+    {
+      "t": 56.57,
+      "end": 60.31,
+      "text": "夏休みの列に 大人は俺だけ"
+    },
+    {
+      "t": 60.31,
+      "end": 60.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.31,
+      "end": 60.87,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 60.87,
+      "end": 68.87,
+      "text": "表に町の マンホール"
+    },
+    {
+      "t": 68.89,
+      "end": 70.59,
+      "text": "麦わら帽子に はさまれて"
+    },
+    {
+      "t": 70.59,
+      "end": 79.39,
+      "text": "「お願いします」と 頭を下げる"
+    },
+    {
+      "t": 79.39,
+      "end": 79.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.39,
+      "end": 81.95,
+      "text": "カードの写真は ツツジとお城"
+    },
+    {
+      "t": 81.95,
+      "end": 83.55,
+      "text": "色まで塗った 鉄のふた"
+    },
+    {
+      "t": 83.55,
+      "end": 85.37,
+      "text": "「本物 見ます?」って 窓口の人"
+    },
+    {
+      "t": 85.37,
+      "end": 87.87,
+      "text": "サンダルのまま 外へ駆けだす"
+    },
+    {
+      "t": 87.91,
+      "end": 87.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.91,
+      "end": 89.15,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 90.55,
+      "end": 92.09,
+      "text": "役所の前の 横断歩道"
+    },
+    {
+      "t": 92.09,
+      "end": 94.59,
+      "text": "麦わら帽子と しゃがみこんで"
+    },
+    {
+      "t": 94.59,
+      "end": 102.27,
+      "text": "「ほんとだ」って 声がそろう"
+    },
+    {
+      "t": 102.61,
+      "end": 102.61,
+      "text": "[Bridge - plunger-muted trombone solo, then bass and brushes only]"
+    },
+    {
+      "t": 102.61,
+      "end": 106.25,
+      "text": "四十年 電車で 通ったけど"
+    },
+    {
+      "t": 108.35,
+      "end": 113.91,
+      "text": "足もとなんて 見なかった"
+    },
+    {
+      "t": 109.47,
+      "end": 109.47,
+      "text": "[Chorus - full band, brass hits behind the vocal]"
+    },
+    {
+      "t": 109.47,
+      "end": 111.87,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 112.25,
+      "end": 130.29,
+      "text": "帰りの電車で 並べてみる"
+    },
+    {
+      "t": 130.73,
+      "end": 181.62,
+      "text": "九十八枚 どれもみんな"
+    },
+    {
+      "t": 182.5,
+      "end": 186.22,
+      "text": "毎日 誰かが 踏んでる絵"
+    },
+    {
+      "t": 186.22,
+      "end": 186.22,
+      "text": "[Outro - saxophone soli and a soft final chord]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.6,
+      "end": 33.6,
+      "text": "[Intro - muted trumpets, brushed drums and walking bass]"
+    },
+    {
+      "t": 33.6,
+      "end": 33.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.6,
+      "end": 39.84,
+      "text": "定年して 三年目の夏"
+    },
+    {
+      "t": 40.44,
+      "end": 45.1,
+      "text": "時刻表に 赤い丸つけて"
+    },
+    {
+      "t": 48.2,
+      "end": 51.08,
+      "text": "一両だけの 各駅停車で"
+    },
+    {
+      "t": 52.26,
+      "end": 54.95,
+      "text": "知らない町の 市役所へ"
+    },
+    {
+      "t": 54.99,
+      "end": 54.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.99,
+      "end": 56.57,
+      "text": "二階のすみの 下水道課"
+    },
+    {
+      "t": 56.57,
+      "end": 60.31,
+      "text": "夏休みの列に 大人は俺だけ"
+    },
+    {
+      "t": 60.31,
+      "end": 60.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.31,
+      "end": 60.87,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 60.87,
+      "end": 68.87,
+      "text": "表に町の マンホール"
+    },
+    {
+      "t": 68.89,
+      "end": 70.59,
+      "text": "麦わら帽子に はさまれて"
+    },
+    {
+      "t": 70.59,
+      "end": 79.39,
+      "text": "「お願いします」と 頭を下げる"
+    },
+    {
+      "t": 79.39,
+      "end": 79.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.39,
+      "end": 81.95,
+      "text": "カードの写真は ツツジとお城"
+    },
+    {
+      "t": 81.95,
+      "end": 83.55,
+      "text": "色まで塗った 鉄のふた"
+    },
+    {
+      "t": 83.55,
+      "end": 85.37,
+      "text": "「本物 見ます?」って 窓口の人"
+    },
+    {
+      "t": 85.37,
+      "end": 87.87,
+      "text": "サンダルのまま 外へ駆けだす"
+    },
+    {
+      "t": 87.91,
+      "end": 87.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.91,
+      "end": 89.15,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 89.15,
+      "end": 91.01,
+      "text": "役所の前の 横断歩道"
+    },
+    {
+      "t": 91.41,
+      "end": 95.03,
+      "text": "麦わら帽子と しゃがみこんで"
+    },
+    {
+      "t": 95.03,
+      "end": 102.27,
+      "text": "「ほんとだ」って 声がそろう"
+    },
+    {
+      "t": 102.61,
+      "end": 102.61,
+      "text": "[Bridge - plunger-muted trombone solo, then bass and brushes only]"
+    },
+    {
+      "t": 102.61,
+      "end": 106.25,
+      "text": "四十年 電車で 通ったけど"
+    },
+    {
+      "t": 108.35,
+      "end": 109.43,
+      "text": "足もとなんて 見なかった"
+    },
+    {
+      "t": 109.47,
+      "end": 109.47,
+      "text": "[Chorus - full band, brass hits behind the vocal]"
+    },
+    {
+      "t": 109.47,
+      "end": 111.87,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 112.25,
+      "end": 130.29,
+      "text": "帰りの電車で 並べてみる"
+    },
+    {
+      "t": 130.73,
+      "end": 181.62,
+      "text": "九十八枚 どれもみんな"
+    },
+    {
+      "t": 182.5,
+      "end": 186.22,
+      "text": "毎日 誰かが 踏んでる絵"
+    },
+    {
+      "t": 186.22,
+      "end": 186.22,
+      "text": "[Outro - saxophone soli and a soft final chord]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 33.6,
+      "end": 33.6,
+      "text": "[Intro - muted trumpets, brushed drums and walking bass]"
+    },
+    {
+      "t": 33.6,
+      "end": 33.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.6,
+      "end": 39.84,
+      "text": "定年して 三年目の夏"
+    },
+    {
+      "t": 40.42,
+      "end": 45.1,
+      "text": "時刻表に 赤い丸つけて"
+    },
+    {
+      "t": 45.42,
+      "end": 51.08,
+      "text": "一両だけの 各駅停車で"
+    },
+    {
+      "t": 52.26,
+      "end": 54.87,
+      "text": "知らない町の 市役所へ"
+    },
+    {
+      "t": 54.87,
+      "end": 54.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.87,
+      "end": 56.65,
+      "text": "二階のすみの 下水道課"
+    },
+    {
+      "t": 56.75,
+      "end": 57.67,
+      "text": "夏休みの列に 大人は俺だけ"
+    },
+    {
+      "t": 57.67,
+      "end": 57.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.67,
+      "end": 60.59,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 60.77,
+      "end": 63.59,
+      "text": "表に町の マンホール"
+    },
+    {
+      "t": 63.63,
+      "end": 70.37,
+      "text": "麦わら帽子に はさまれて"
+    },
+    {
+      "t": 70.53,
+      "end": 73.05,
+      "text": "「お願いします」と 頭を下げる"
+    },
+    {
+      "t": 73.13,
+      "end": 73.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.13,
+      "end": 81.59,
+      "text": "カードの写真は ツツジとお城"
+    },
+    {
+      "t": 81.59,
+      "end": 83.55,
+      "text": "色まで塗った 鉄のふた"
+    },
+    {
+      "t": 83.63,
+      "end": 85.31,
+      "text": "「本物 見ます?」って 窓口の人"
+    },
+    {
+      "t": 85.35,
+      "end": 89.17,
+      "text": "サンダルのまま 外へ駆けだす"
+    },
+    {
+      "t": 89.37,
+      "end": 89.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.37,
+      "end": 90.45,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 90.55,
+      "end": 92.09,
+      "text": "役所の前の 横断歩道"
+    },
+    {
+      "t": 92.09,
+      "end": 94.59,
+      "text": "麦わら帽子と しゃがみこんで"
+    },
+    {
+      "t": 94.59,
+      "end": 102.27,
+      "text": "「ほんとだ」って 声がそろう"
+    },
+    {
+      "t": 102.61,
+      "end": 102.61,
+      "text": "[Bridge - plunger-muted trombone solo, then bass and brushes only]"
+    },
+    {
+      "t": 102.61,
+      "end": 106.25,
+      "text": "四十年 電車で 通ったけど"
+    },
+    {
+      "t": 108.35,
+      "end": 113.91,
+      "text": "足もとなんて 見なかった"
+    },
+    {
+      "t": 118.05,
+      "end": 118.05,
+      "text": "[Chorus - full band, brass hits behind the vocal]"
+    },
+    {
+      "t": 118.05,
+      "end": 123.09,
+      "text": "一人一枚 ただのカード"
+    },
+    {
+      "t": 123.37,
+      "end": 130.29,
+      "text": "帰りの電車で 並べてみる"
+    },
+    {
+      "t": 154.47,
+      "end": 181.6,
+      "text": "九十八枚 どれもみんな"
+    },
+    {
+      "t": 182.52,
+      "end": 202.66,
+      "text": "毎日 誰かが 踏んでる絵"
+    },
+    {
+      "t": 202.66,
+      "end": 202.66,
+      "text": "[Outro - saxophone soli and a soft final chord]"
+    }
+  ]
+}

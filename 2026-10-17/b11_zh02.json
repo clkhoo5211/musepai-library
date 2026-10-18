@@ -1,0 +1,367 @@
+{
+  "id": "b11_zh02",
+  "title": "冰磚來了",
+  "title_source": "scripted",
+  "genre": "Mandarin baile funk",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "sweaty, cheeky and loud",
+  "persona": "",
+  "subject": "a zookeeper in a thirty-seven-degree July heatwave wheeling out frozen blocks of watermelon, apples and a whole chicken for the sun bear, the orangutans and the tiger, while sweating visitors fan themselves with zoo maps and an old man in a straw hat asks to buy one",
+  "caption": "Mandarin baile funk in the Rio de Janeiro party style. A booming tamborzão drum-machine groove with syncopated kicks and dry snare cracks, a referee whistle blasting on the downbeats, distorted 808 bass stabs, a short brass-stab loop, and a cuíca squeaking between phrases. Raw, loud, compressed party mix with the vocal dry and up front. Male voice, a cheeky mid-range MC, half-rapped and chanted, with a crowd shouting the answers in call-and-response. 130 BPM, G minor. Sweaty, cheeky and loud. No trap hi-hats, no autotune, no reggaeton dembow, no EDM drop, no drift-phonk cowbell, no samba batucada.",
+  "lyrics": "[Intro - whistle blasts and tamborzão drums]\n\n[Verse 1]\n七月下午兩點 三十七度\n遊客拿園區地圖 拼命搧風\n我推著推車 白煙一直冒\n西瓜 蘋果 香蕉 凍成一大塊一大塊\n\n[Pre-Chorus]\n馬來熊看到我 馬上站起來\n紅毛猩猩 早就蹲在門口等\n\n[Chorus - MC and Crowd Call-and-Response]\n冰磚來了 冰磚來了\n要不要 要 要不要 要\n一隻一塊 不要搶\n熊抱著西瓜冰 舔到眼睛都瞇起來\n\n[Verse 2]\n老虎那塊不一樣 裡面包一整隻雞\n牠用前腳 推到水池邊\n推下去 自己也跟著跳下去\n玻璃外面的人說 我也想泡\n\n[Chorus - MC and Crowd Call-and-Response]\n冰磚來了 冰磚來了\n要不要 要 要不要 要\n有個阿伯戴斗笠 問我一塊賣多少\n阿伯 這是給熊吃的 不能賣\n\n[Bridge - whistle and drums only]\n下班前 推車裡還剩一塊\n什麼都沒包 就是一塊冰\n\n[Chorus - MC and Crowd Call-and-Response]\n冰磚來了 最後這塊是我的\n要不要 要 這塊不給\n我把它貼在脖子後面\n熊隔著鐵欄杆看我 我們兩個都不想動\n\n[Outro - whistle and drums fading]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Mandarin baile funk in the Rio de Janeiro party style. A booming tamborzão drum-machine groove with syncopated kicks and dry snare cracks, a referee whistle blasting on the downbeats, distorted 808 bass stabs, a short brass-stab loop, and a cuíca squeaking between phrases. Raw, loud, compressed party mix with the vocal dry and up front. Male voice, a cheeky mid-range MC, half-rapped and chanted, with a crowd shouting the answers in call-and-response. 130 BPM, G minor. Sweaty, cheeky and loud. No trap hi-hats, no autotune, no reggaeton dembow, no EDM drop, no drift-phonk cowbell, no samba batucada.",
+    "lyrics": "[Intro - whistle blasts and tamborzão drums]\n\n[Verse 1]\n七月下午兩點 三十七度\n遊客拿園區地圖 拼命搧風\n我推著推車 白煙一直冒\n西瓜 蘋果 香蕉 凍成一大塊一大塊\n\n[Pre-Chorus]\n馬來熊看到我 馬上站起來\n紅毛猩猩 早就蹲在門口等\n\n[Chorus - MC and Crowd Call-and-Response]\n冰磚來了 冰磚來了\n要不要 要 要不要 要\n一隻一塊 不要搶\n熊抱著西瓜冰 舔到眼睛都瞇起來\n\n[Verse 2]\n老虎那塊不一樣 裡面包一整隻雞\n牠用前腳 推到水池邊\n推下去 自己也跟著跳下去\n玻璃外面的人說 我也想泡\n\n[Chorus - MC and Crowd Call-and-Response]\n冰磚來了 冰磚來了\n要不要 要 要不要 要\n有個阿伯戴斗笠 問我一塊賣多少\n阿伯 這是給熊吃的 不能賣\n\n[Bridge - whistle and drums only]\n下班前 推車裡還剩一塊\n什麼都沒包 就是一塊冰\n\n[Chorus - MC and Crowd Call-and-Response]\n冰磚來了 最後這塊是我的\n要不要 要 這塊不給\n我把它貼在脖子後面\n熊隔著鐵欄杆看我 我們兩個都不想動\n\n[Outro - whistle and drums fading]"
+  },
+  "seed": "448400160",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.11s**\n- 66.11s per song\n- LM phase (1 song): 8.37s\n- DiT phase (1 song): 57.74s",
+  "task_id": "b12389d3-bd7d-4fa8-908f-6560689ed6dd",
+  "elapsed_s": 90.6,
+  "generated_at": "2026-10-17T21:57:06.874172+08:00",
+  "audio": "b11_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.26,
+      "end": 17.26,
+      "text": "[Intro - whistle blasts and tamborzão drums]"
+    },
+    {
+      "t": 17.26,
+      "end": 17.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.26,
+      "end": 19.66,
+      "text": "七月下午兩點 三十七度"
+    },
+    {
+      "t": 20.24,
+      "end": 23.4,
+      "text": "遊客拿園區地圖 拼命搧風"
+    },
+    {
+      "t": 24.12,
+      "end": 27.0,
+      "text": "我推著推車 白煙一直冒"
+    },
+    {
+      "t": 27.08,
+      "end": 30.8,
+      "text": "西瓜 蘋果 香蕉 凍成一大塊一大塊"
+    },
+    {
+      "t": 31.48,
+      "end": 31.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 31.48,
+      "end": 34.84,
+      "text": "馬來熊看到我 馬上站起來"
+    },
+    {
+      "t": 35.12,
+      "end": 37.36,
+      "text": "紅毛猩猩 早就蹲在門口等"
+    },
+    {
+      "t": 37.42,
+      "end": 37.42,
+      "text": "[Chorus - MC and Crowd Call-and-Response]"
+    },
+    {
+      "t": 37.42,
+      "end": 39.58,
+      "text": "冰磚來了 冰磚來了"
+    },
+    {
+      "t": 39.64,
+      "end": 40.76,
+      "text": "要不要 要 要不要 要"
+    },
+    {
+      "t": 40.84,
+      "end": 44.9,
+      "text": "一隻一塊 不要搶"
+    },
+    {
+      "t": 44.96,
+      "end": 57.11,
+      "text": "熊抱著西瓜冰 舔到眼睛都瞇起來"
+    },
+    {
+      "t": 65.59,
+      "end": 65.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.59,
+      "end": 68.67,
+      "text": "老虎那塊不一樣 裡面包一整隻雞"
+    },
+    {
+      "t": 69.25,
+      "end": 72.13,
+      "text": "牠用前腳 推到水池邊"
+    },
+    {
+      "t": 72.15,
+      "end": 97.01,
+      "text": "推下去 自己也跟著跳下去"
+    },
+    {
+      "t": 97.17,
+      "end": 108.33,
+      "text": "玻璃外面的人說 我也想泡"
+    },
+    {
+      "t": 108.67,
+      "end": 108.67,
+      "text": "[Chorus - MC and Crowd Call-and-Response]"
+    },
+    {
+      "t": 108.67,
+      "end": 111.77,
+      "text": "冰磚來了 冰磚來了"
+    },
+    {
+      "t": 112.35,
+      "end": 113.93,
+      "text": "要不要 要 要不要 要"
+    },
+    {
+      "t": 113.97,
+      "end": 116.43,
+      "text": "有個阿伯戴斗笠 問我一塊賣多少"
+    },
+    {
+      "t": 116.45,
+      "end": 118.41,
+      "text": "阿伯 這是給熊吃的 不能賣"
+    },
+    {
+      "t": 118.47,
+      "end": 118.47,
+      "text": "[Bridge - whistle and drums only]"
+    },
+    {
+      "t": 118.47,
+      "end": 122.01,
+      "text": "下班前 推車裡還剩一塊"
+    },
+    {
+      "t": 122.15,
+      "end": 136.81,
+      "text": "什麼都沒包 就是一塊冰"
+    },
+    {
+      "t": 152.42,
+      "end": 152.42,
+      "text": "[Chorus - MC and Crowd Call-and-Response]"
+    },
+    {
+      "t": 152.42,
+      "end": 155.74,
+      "text": "冰磚來了 最後這塊是我的"
+    },
+    {
+      "t": 156.1,
+      "end": 159.84,
+      "text": "要不要 要 這塊不給"
+    },
+    {
+      "t": 160.04,
+      "end": 162.76,
+      "text": "我把它貼在脖子後面"
+    },
+    {
+      "t": 163.18,
+      "end": 177.6,
+      "text": "熊隔著鐵欄杆看我 我們兩個都不想動"
+    },
+    {
+      "t": 177.6,
+      "end": 177.6,
+      "text": "[Outro - whistle and drums fading]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.04,
+      "end": 17.04,
+      "text": "[Intro - whistle blasts and tamborzão drums]"
+    },
+    {
+      "t": 17.04,
+      "end": 17.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.04,
+      "end": 19.66,
+      "text": "七月下午兩點 三十七度"
+    },
+    {
+      "t": 20.22,
+      "end": 23.42,
+      "text": "遊客拿園區地圖 拼命搧風"
+    },
+    {
+      "t": 24.14,
+      "end": 27.0,
+      "text": "我推著推車 白煙一直冒"
+    },
+    {
+      "t": 27.08,
+      "end": 30.78,
+      "text": "西瓜 蘋果 香蕉 凍成一大塊一大塊"
+    },
+    {
+      "t": 31.46,
+      "end": 31.46,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 31.46,
+      "end": 34.84,
+      "text": "馬來熊看到我 馬上站起來"
+    },
+    {
+      "t": 35.12,
+      "end": 37.36,
+      "text": "紅毛猩猩 早就蹲在門口等"
+    },
+    {
+      "t": 37.42,
+      "end": 37.42,
+      "text": "[Chorus - MC and Crowd Call-and-Response]"
+    },
+    {
+      "t": 37.42,
+      "end": 39.58,
+      "text": "冰磚來了 冰磚來了"
+    },
+    {
+      "t": 39.94,
+      "end": 41.48,
+      "text": "要不要 要 要不要 要"
+    },
+    {
+      "t": 41.54,
+      "end": 52.27,
+      "text": "一隻一塊 不要搶"
+    },
+    {
+      "t": 52.27,
+      "end": 57.11,
+      "text": "熊抱著西瓜冰 舔到眼睛都瞇起來"
+    },
+    {
+      "t": 65.59,
+      "end": 65.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.59,
+      "end": 68.65,
+      "text": "老虎那塊不一樣 裡面包一整隻雞"
+    },
+    {
+      "t": 69.23,
+      "end": 95.27,
+      "text": "牠用前腳 推到水池邊"
+    },
+    {
+      "t": 95.29,
+      "end": 97.01,
+      "text": "推下去 自己也跟著跳下去"
+    },
+    {
+      "t": 97.17,
+      "end": 101.17,
+      "text": "玻璃外面的人說 我也想泡"
+    },
+    {
+      "t": 101.33,
+      "end": 101.33,
+      "text": "[Chorus - MC and Crowd Call-and-Response]"
+    },
+    {
+      "t": 101.33,
+      "end": 110.13,
+      "text": "冰磚來了 冰磚來了"
+    },
+    {
+      "t": 110.35,
+      "end": 113.05,
+      "text": "要不要 要 要不要 要"
+    },
+    {
+      "t": 113.09,
+      "end": 115.45,
+      "text": "有個阿伯戴斗笠 問我一塊賣多少"
+    },
+    {
+      "t": 116.33,
+      "end": 117.87,
+      "text": "阿伯 這是給熊吃的 不能賣"
+    },
+    {
+      "t": 117.87,
+      "end": 117.87,
+      "text": "[Bridge - whistle and drums only]"
+    },
+    {
+      "t": 117.87,
+      "end": 118.93,
+      "text": "下班前 推車裡還剩一塊"
+    },
+    {
+      "t": 118.99,
+      "end": 134.99,
+      "text": "什麼都沒包 就是一塊冰"
+    },
+    {
+      "t": 152.4,
+      "end": 152.4,
+      "text": "[Chorus - MC and Crowd Call-and-Response]"
+    },
+    {
+      "t": 152.4,
+      "end": 155.74,
+      "text": "冰磚來了 最後這塊是我的"
+    },
+    {
+      "t": 156.1,
+      "end": 160.34,
+      "text": "要不要 要 這塊不給"
+    },
+    {
+      "t": 160.54,
+      "end": 162.78,
+      "text": "我把它貼在脖子後面"
+    },
+    {
+      "t": 163.18,
+      "end": 167.14,
+      "text": "熊隔著鐵欄杆看我 我們兩個都不想動"
+    },
+    {
+      "t": 167.14,
+      "end": 167.14,
+      "text": "[Outro - whistle and drums fading]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

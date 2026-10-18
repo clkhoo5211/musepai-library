@@ -1,0 +1,367 @@
+{
+  "id": "b11_ms05",
+  "title": "Bawah Sepuluh",
+  "title_source": "scripted",
+  "genre": "math rock (midwest-emo vocal math rock)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "nervous, giddy and triumphant",
+  "persona": "",
+  "subject": "a seventeen-year-old at a WCA Rubik's cube competition in a Subang Jaya school hall chasing his first sub-ten-second average of five, one solve lost when the cube pops a piece under a chair, the boy beside him explaining that the best and worst times get dropped",
+  "caption": "Math rock with midwest-emo vocals, sung in Malay, in the twinkly Southeast Asian math rock style. Two clean electric guitars playing interlocking two-hand tapped arpeggios in 7/8 and 5/4 that snap back to 4/4 for the choruses; a melodic electric bass playing busy counter-lines high on the neck; live drums with tight stop-start fills, ride-bell accents and sudden full-band hits. Bright, dry live-room mix, guitars clean and sparkling, drums punchy. Male tenor vocal, earnest and slightly strained, talk-singing the verses and pushing into a cracked shout in the choruses, with gang vocals shouting along on the last chorus. 144 BPM, E major. Nervous, giddy and triumphant. No distortion wall, no metal breakdown, no pop-punk power chords, no synth, no autotune, no programmed drums.",
+  "lyrics": "[Intro - twinkly tapped guitars in 7/8, drums crash in]\n\n[Verse 1]\nDewan sekolah Subang, Sabtu pukul sembilan\nSeratus budak, semua pegang kiub\nAku nombor empat puluh satu, tapak tangan berpeluh\nHakim tutup kiub aku bawah kotak\n\n[Pre-Chorus]\n\"Sedia?\" Aku angguk\nJantung aku lari, tak ikut tempo\n\n[Chorus]\nLima belas saat tengok, lepas tu jangan fikir\nJari ikut je apa yang dah hafal\n\"Lapan saat!\" \"Dua belas!\" hakim jerit\nTepuk pad, tengok nombor, satu lagi\n\n[Verse 2]\nSatu, sepuluh poin lima\nDua, kiub terburai, sekeping lari bawah kerusi\nTiga, lapan poin sembilan satu, budak sebelah bersiul\n\"Bang, buang paling laju, buang paling teruk\"\n\n[Chorus]\nLima belas saat tengok, lepas tu jangan fikir\nJari ikut je apa yang dah hafal\nDua lagi, dua je lagi, purata bawah sepuluh\nTepuk pad, jangan tengok, satu lagi\n\n[Bridge - guitars drop to one tapped line, then the band builds]\nEmpat, sembilan poin enam\nLima, aku tutup mata masa tepuk pad\n\n[Chorus - full band, gang vocals shouting along]\nLima belas saat tengok, lepas tu jangan fikir\nJari aku lagi laju dari jantung aku\nPurata sembilan poin sembilan lapan\nSatu dewan tepuk tangan, jari aku masih menggigil\n\n[Outro - tapped guitars ringing out, one last band hit]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 144,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Math rock with midwest-emo vocals, sung in Malay, in the twinkly Southeast Asian math rock style. Two clean electric guitars playing interlocking two-hand tapped arpeggios in 7/8 and 5/4 that snap back to 4/4 for the choruses; a melodic electric bass playing busy counter-lines high on the neck; live drums with tight stop-start fills, ride-bell accents and sudden full-band hits. Bright, dry live-room mix, guitars clean and sparkling, drums punchy. Male tenor vocal, earnest and slightly strained, talk-singing the verses and pushing into a cracked shout in the choruses, with gang vocals shouting along on the last chorus. 144 BPM, E major. Nervous, giddy and triumphant. No distortion wall, no metal breakdown, no pop-punk power chords, no synth, no autotune, no programmed drums.",
+    "lyrics": "[Intro - twinkly tapped guitars in 7/8, drums crash in]\n\n[Verse 1]\nDewan sekolah Subang, Sabtu pukul sembilan\nSeratus budak, semua pegang kiub\nAku nombor empat puluh satu, tapak tangan berpeluh\nHakim tutup kiub aku bawah kotak\n\n[Pre-Chorus]\n\"Sedia?\" Aku angguk\nJantung aku lari, tak ikut tempo\n\n[Chorus]\nLima belas saat tengok, lepas tu jangan fikir\nJari ikut je apa yang dah hafal\n\"Lapan saat!\" \"Dua belas!\" hakim jerit\nTepuk pad, tengok nombor, satu lagi\n\n[Verse 2]\nSatu, sepuluh poin lima\nDua, kiub terburai, sekeping lari bawah kerusi\nTiga, lapan poin sembilan satu, budak sebelah bersiul\n\"Bang, buang paling laju, buang paling teruk\"\n\n[Chorus]\nLima belas saat tengok, lepas tu jangan fikir\nJari ikut je apa yang dah hafal\nDua lagi, dua je lagi, purata bawah sepuluh\nTepuk pad, jangan tengok, satu lagi\n\n[Bridge - guitars drop to one tapped line, then the band builds]\nEmpat, sembilan poin enam\nLima, aku tutup mata masa tepuk pad\n\n[Chorus - full band, gang vocals shouting along]\nLima belas saat tengok, lepas tu jangan fikir\nJari aku lagi laju dari jantung aku\nPurata sembilan poin sembilan lapan\nSatu dewan tepuk tangan, jari aku masih menggigil\n\n[Outro - tapped guitars ringing out, one last band hit]"
+  },
+  "seed": "1306689500",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.72s**\n- 70.72s per song\n- LM phase (1 song): 19.98s\n- DiT phase (1 song): 50.74s",
+  "task_id": "ae760421-68ce-4599-ad6b-68a199f5d8f4",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-17T21:19:01.010034+08:00",
+  "audio": "b11_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 15.12,
+      "end": 15.12,
+      "text": "[Intro - twinkly tapped guitars in 7/8, drums crash in]"
+    },
+    {
+      "t": 15.12,
+      "end": 15.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.12,
+      "end": 20.4,
+      "text": "Dewan sekolah Subang, Sabtu pukul sembilan"
+    },
+    {
+      "t": 22.58,
+      "end": 26.78,
+      "text": "Seratus budak, semua pegang kiub"
+    },
+    {
+      "t": 27.64,
+      "end": 33.64,
+      "text": "Aku nombor empat puluh satu, tapak tangan berpeluh"
+    },
+    {
+      "t": 34.06,
+      "end": 40.24,
+      "text": "Hakim tutup kiub aku bawah kotak"
+    },
+    {
+      "t": 41.7,
+      "end": 41.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.7,
+      "end": 43.78,
+      "text": "\"Sedia?\" Aku angguk"
+    },
+    {
+      "t": 44.42,
+      "end": 46.94,
+      "text": "Jantung aku lari, tak ikut tempo"
+    },
+    {
+      "t": 46.94,
+      "end": 46.94,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.94,
+      "end": 51.73,
+      "text": "Lima belas saat tengok, lepas tu jangan fikir"
+    },
+    {
+      "t": 52.11,
+      "end": 55.39,
+      "text": "Jari ikut je apa yang dah hafal"
+    },
+    {
+      "t": 55.49,
+      "end": 61.67,
+      "text": "\"Lapan saat!\" \"Dua belas!\" hakim jerit"
+    },
+    {
+      "t": 62.31,
+      "end": 67.03,
+      "text": "Tepuk pad, tengok nombor, satu lagi"
+    },
+    {
+      "t": 72.85,
+      "end": 72.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.85,
+      "end": 75.71,
+      "text": "Satu, sepuluh poin lima"
+    },
+    {
+      "t": 75.87,
+      "end": 78.63,
+      "text": "Dua, kiub terburai, sekeping lari bawah kerusi"
+    },
+    {
+      "t": 79.13,
+      "end": 82.53,
+      "text": "Tiga, lapan poin sembilan satu, budak sebelah bersiul"
+    },
+    {
+      "t": 82.65,
+      "end": 86.29,
+      "text": "\"Bang, buang paling laju, buang paling teruk\""
+    },
+    {
+      "t": 86.43,
+      "end": 86.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.43,
+      "end": 89.37,
+      "text": "Lima belas saat tengok, lepas tu jangan fikir"
+    },
+    {
+      "t": 89.71,
+      "end": 92.69,
+      "text": "Jari ikut je apa yang dah hafal"
+    },
+    {
+      "t": 92.69,
+      "end": 107.25,
+      "text": "Dua lagi, dua je lagi, purata bawah sepuluh"
+    },
+    {
+      "t": 108.23,
+      "end": 112.13,
+      "text": "Tepuk pad, jangan tengok, satu lagi"
+    },
+    {
+      "t": 121.39,
+      "end": 121.39,
+      "text": "[Bridge - guitars drop to one tapped line, then the band builds]"
+    },
+    {
+      "t": 121.39,
+      "end": 125.29,
+      "text": "Empat, sembilan poin enam"
+    },
+    {
+      "t": 127.81,
+      "end": 150.28,
+      "text": "Lima, aku tutup mata masa tepuk pad"
+    },
+    {
+      "t": 150.52,
+      "end": 150.52,
+      "text": "[Chorus - full band, gang vocals shouting along]"
+    },
+    {
+      "t": 150.52,
+      "end": 157.38,
+      "text": "Lima belas saat tengok, lepas tu jangan fikir"
+    },
+    {
+      "t": 157.6,
+      "end": 164.76,
+      "text": "Jari aku lagi laju dari jantung aku"
+    },
+    {
+      "t": 168.58,
+      "end": 173.06,
+      "text": "Purata sembilan poin sembilan lapan"
+    },
+    {
+      "t": 173.96,
+      "end": 183.38,
+      "text": "Satu dewan tepuk tangan, jari aku masih menggigil"
+    },
+    {
+      "t": 183.38,
+      "end": 183.38,
+      "text": "[Outro - tapped guitars ringing out, one last band hit]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 15.12,
+      "end": 15.12,
+      "text": "[Intro - twinkly tapped guitars in 7/8, drums crash in]"
+    },
+    {
+      "t": 15.12,
+      "end": 15.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.12,
+      "end": 20.42,
+      "text": "Dewan sekolah Subang, Sabtu pukul sembilan"
+    },
+    {
+      "t": 22.58,
+      "end": 26.8,
+      "text": "Seratus budak, semua pegang kiub"
+    },
+    {
+      "t": 27.64,
+      "end": 33.62,
+      "text": "Aku nombor empat puluh satu, tapak tangan berpeluh"
+    },
+    {
+      "t": 34.06,
+      "end": 41.56,
+      "text": "Hakim tutup kiub aku bawah kotak"
+    },
+    {
+      "t": 41.7,
+      "end": 41.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.7,
+      "end": 42.78,
+      "text": "\"Sedia?\" Aku angguk"
+    },
+    {
+      "t": 42.78,
+      "end": 46.22,
+      "text": "Jantung aku lari, tak ikut tempo"
+    },
+    {
+      "t": 46.96,
+      "end": 46.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.96,
+      "end": 51.75,
+      "text": "Lima belas saat tengok, lepas tu jangan fikir"
+    },
+    {
+      "t": 52.11,
+      "end": 55.39,
+      "text": "Jari ikut je apa yang dah hafal"
+    },
+    {
+      "t": 55.49,
+      "end": 61.69,
+      "text": "\"Lapan saat!\" \"Dua belas!\" hakim jerit"
+    },
+    {
+      "t": 62.31,
+      "end": 67.05,
+      "text": "Tepuk pad, tengok nombor, satu lagi"
+    },
+    {
+      "t": 72.85,
+      "end": 72.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.85,
+      "end": 75.71,
+      "text": "Satu, sepuluh poin lima"
+    },
+    {
+      "t": 75.85,
+      "end": 78.63,
+      "text": "Dua, kiub terburai, sekeping lari bawah kerusi"
+    },
+    {
+      "t": 79.13,
+      "end": 82.53,
+      "text": "Tiga, lapan poin sembilan satu, budak sebelah bersiul"
+    },
+    {
+      "t": 82.65,
+      "end": 86.29,
+      "text": "\"Bang, buang paling laju, buang paling teruk\""
+    },
+    {
+      "t": 86.43,
+      "end": 86.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.43,
+      "end": 89.37,
+      "text": "Lima belas saat tengok, lepas tu jangan fikir"
+    },
+    {
+      "t": 89.71,
+      "end": 92.89,
+      "text": "Jari ikut je apa yang dah hafal"
+    },
+    {
+      "t": 93.29,
+      "end": 107.29,
+      "text": "Dua lagi, dua je lagi, purata bawah sepuluh"
+    },
+    {
+      "t": 108.23,
+      "end": 112.15,
+      "text": "Tepuk pad, jangan tengok, satu lagi"
+    },
+    {
+      "t": 121.39,
+      "end": 121.39,
+      "text": "[Bridge - guitars drop to one tapped line, then the band builds]"
+    },
+    {
+      "t": 121.39,
+      "end": 125.27,
+      "text": "Empat, sembilan poin enam"
+    },
+    {
+      "t": 127.81,
+      "end": 150.28,
+      "text": "Lima, aku tutup mata masa tepuk pad"
+    },
+    {
+      "t": 150.52,
+      "end": 150.52,
+      "text": "[Chorus - full band, gang vocals shouting along]"
+    },
+    {
+      "t": 150.52,
+      "end": 162.7,
+      "text": "Lima belas saat tengok, lepas tu jangan fikir"
+    },
+    {
+      "t": 162.76,
+      "end": 164.76,
+      "text": "Jari aku lagi laju dari jantung aku"
+    },
+    {
+      "t": 168.62,
+      "end": 173.08,
+      "text": "Purata sembilan poin sembilan lapan"
+    },
+    {
+      "t": 173.96,
+      "end": 183.46,
+      "text": "Satu dewan tepuk tangan, jari aku masih menggigil"
+    },
+    {
+      "t": 183.46,
+      "end": 183.46,
+      "text": "[Outro - tapped guitars ringing out, one last band hit]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

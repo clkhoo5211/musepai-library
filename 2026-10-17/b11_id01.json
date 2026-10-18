@@ -1,0 +1,534 @@
+{
+  "id": "b11_id01",
+  "title": "Tempa Lagi",
+  "title_source": "scripted",
+  "genre": "Indonesian 90s theatrical pop-rock",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "sweaty, proud and big-hearted",
+  "persona": "",
+  "subject": "the youngest of five hammermen in a gong smithy in Wirun, Sukoharjo, forging a ninety-centimetre bronze gong ageng for a Solo dance school over three weeks of charcoal fire and hand hammers, under old Pak Darmo, who grips the red-hot disc in long tongs and keeps saying it will not sing yet, until the morning he strikes it once and sits down while the hum fills the shed",
+  "caption": "Indonesian 90s theatrical pop-rock in the late-1990s Dewa 19 manner, Queen-influenced and melodic. A grand piano playing broad sustained chords and a short descending figure that opens the song; two overdriven lead guitars playing a harmonized melody in thirds after each chorus and taking a twin solo; a melodic fingered bass; live rock drums with big tom fills into every chorus; stacked multi-tracked backing vocals answering the chorus lines. Big late-1990s studio rock mix, piano and guitars wide, roomy drums. Male tenor vocal, clear and slightly nasal, conversational in the verses, climbing to a full-throated high chorus. 112 BPM, E major. Sweaty, proud and big-hearted. No synth pads, no EDM drums, no autotune, no pop-punk, no trap hi-hats, no glossy modern pop production.",
+  "lyrics": "[Intro - short grand piano figure, drums and harmonized guitars enter on the last bar]\n\n[Verse 1]\nSenin subuh di Wirun, arang di tungku sudah membara\nPak Darmo jepit lempeng perunggu pakai tang panjang\nKami berlima pegang palu, aku yang paling muda\nPesanan sanggar dari Solo, gong ageng sembilan puluh senti\n\n[Pre-Chorus]\nPalu turun gantian, satu, dua, tiga, empat, lima\nTelat setengah ketukan, jari Pak Darmo taruhannya\n\n[Chorus]\nTempa lagi, tempa lagi\nMumpung perunggunya masih merah\nKata Pak Darmo, gongnya belum mau nyanyi\nMasuk lagi ke api, tempa lagi\n\n[Verse 2]\nMinggu kedua dia melebar, telapak tanganku melepuh\nSehari dua belas kali masuk api, biar nggak retak\nPak Darmo coba pukul, bunyinya kayak kaleng kerupuk\nBocah-bocah di pagar ketawa, kami pura-pura tuli\n\n[Chorus]\nTempa lagi, tempa lagi\nMumpung arangnya belum jadi abu\nKata Pak Darmo, dia masih ngambek sama kami\nBesok subuh kita bujuk, tempa lagi\n\n[Bridge - harmonized twin-guitar solo, then half-time drums]\nKamis minggu ketiga dia dicelup ke bak air\nMendesis panjang kayak ular, uapnya nutup muka kami\n\n[Chorus]\nJangan tempa lagi, jangan tempa lagi\nPak Darmo pukul sekali, lalu duduk diam\nDengungnya keliling bengkel, nggak mau berhenti\nKopi di gelasku bergetar sendiri\n\n[Outro - piano figure alone, last guitar note rings out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Indonesian 90s theatrical pop-rock in the late-1990s Dewa 19 manner, Queen-influenced and melodic. A grand piano playing broad sustained chords and a short descending figure that opens the song; two overdriven lead guitars playing a harmonized melody in thirds after each chorus and taking a twin solo; a melodic fingered bass; live rock drums with big tom fills into every chorus; stacked multi-tracked backing vocals answering the chorus lines. Big late-1990s studio rock mix, piano and guitars wide, roomy drums. Male tenor vocal, clear and slightly nasal, conversational in the verses, climbing to a full-throated high chorus. 112 BPM, E major. Sweaty, proud and big-hearted. No synth pads, no EDM drums, no autotune, no pop-punk, no trap hi-hats, no glossy modern pop production.",
+    "lyrics": "[Intro - short grand piano figure, drums and harmonized guitars enter on the last bar]\n\n[Verse 1]\nSenin subuh di Wirun, arang di tungku sudah membara\nPak Darmo jepit lempeng perunggu pakai tang panjang\nKami berlima pegang palu, aku yang paling muda\nPesanan sanggar dari Solo, gong ageng sembilan puluh senti\n\n[Pre-Chorus]\nPalu turun gantian, satu, dua, tiga, empat, lima\nTelat setengah ketukan, jari Pak Darmo taruhannya\n\n[Chorus]\nTempa lagi, tempa lagi\nMumpung perunggunya masih merah\nKata Pak Darmo, gongnya belum mau nyanyi\nMasuk lagi ke api, tempa lagi\n\n[Verse 2]\nMinggu kedua dia melebar, telapak tanganku melepuh\nSehari dua belas kali masuk api, biar nggak retak\nPak Darmo coba pukul, bunyinya kayak kaleng kerupuk\nBocah-bocah di pagar ketawa, kami pura-pura tuli\n\n[Chorus]\nTempa lagi, tempa lagi\nMumpung arangnya belum jadi abu\nKata Pak Darmo, dia masih ngambek sama kami\nBesok subuh kita bujuk, tempa lagi\n\n[Bridge - harmonized twin-guitar solo, then half-time drums]\nKamis minggu ketiga dia dicelup ke bak air\nMendesis panjang kayak ular, uapnya nutup muka kami\n\n[Chorus]\nJangan tempa lagi, jangan tempa lagi\nPak Darmo pukul sekali, lalu duduk diam\nDengungnya keliling bengkel, nggak mau berhenti\nKopi di gelasku bergetar sendiri\n\n[Outro - piano figure alone, last guitar note rings out]"
+  },
+  "seed": "1597106919",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.39s**\n- 71.39s per song\n- LM phase (1 song): 12.19s\n- DiT phase (1 song): 59.20s",
+  "task_id": "0c007822-7b9c-40f7-8340-1d120d123a8a",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-17T21:20:41.124651+08:00",
+  "audio": "b11_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Intro - short grand piano figure, drums and harmonized guitars enter on the last bar]"
+    },
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.58,
+      "end": 31.94,
+      "text": "Senin subuh di Wirun, arang di tungku sudah membara"
+    },
+    {
+      "t": 32.36,
+      "end": 41.6,
+      "text": "Pak Darmo jepit lempeng perunggu pakai tang panjang"
+    },
+    {
+      "t": 44.32,
+      "end": 51.86,
+      "text": "Kami berlima pegang palu, aku yang paling muda"
+    },
+    {
+      "t": 53.04,
+      "end": 57.05,
+      "text": "Pesanan sanggar dari Solo, gong ageng sembilan puluh senti"
+    },
+    {
+      "t": 57.05,
+      "end": 57.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.05,
+      "end": 59.11,
+      "text": "Palu turun gantian, satu, dua, tiga, empat, lima"
+    },
+    {
+      "t": 59.11,
+      "end": 61.93,
+      "text": "Telat setengah ketukan, jari Pak Darmo taruhannya"
+    },
+    {
+      "t": 65.25,
+      "end": 65.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.25,
+      "end": 68.31,
+      "text": "Tempa lagi, tempa lagi"
+    },
+    {
+      "t": 69.53,
+      "end": 72.03,
+      "text": "Mumpung perunggunya masih merah"
+    },
+    {
+      "t": 72.03,
+      "end": 73.99,
+      "text": "Kata Pak Darmo, gongnya belum mau nyanyi"
+    },
+    {
+      "t": 73.99,
+      "end": 77.05,
+      "text": "Masuk lagi ke api, tempa lagi"
+    },
+    {
+      "t": 79.95,
+      "end": 79.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.95,
+      "end": 85.05,
+      "text": "Minggu kedua dia melebar, telapak tanganku melepuh"
+    },
+    {
+      "t": 85.05,
+      "end": 95.97,
+      "text": "Sehari dua belas kali masuk api, biar nggak retak"
+    },
+    {
+      "t": 99.27,
+      "end": 104.89,
+      "text": "Pak Darmo coba pukul, bunyinya kayak kaleng kerupuk"
+    },
+    {
+      "t": 107.69,
+      "end": 113.41,
+      "text": "Bocah-bocah di pagar ketawa, kami pura-pura tuli"
+    },
+    {
+      "t": 113.41,
+      "end": 113.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.41,
+      "end": 114.83,
+      "text": "Tempa lagi, tempa lagi"
+    },
+    {
+      "t": 114.83,
+      "end": 116.35,
+      "text": "Mumpung arangnya belum jadi abu"
+    },
+    {
+      "t": 116.35,
+      "end": 119.77,
+      "text": "Kata Pak Darmo, dia masih ngambek sama kami"
+    },
+    {
+      "t": 120.39,
+      "end": 124.47,
+      "text": "Besok subuh kita bujuk, tempa lagi"
+    },
+    {
+      "t": 154.37,
+      "end": 154.37,
+      "text": "[Bridge - harmonized twin-guitar solo, then half-time drums]"
+    },
+    {
+      "t": 154.37,
+      "end": 161.4,
+      "text": "Kamis minggu ketiga dia dicelup ke bak air"
+    },
+    {
+      "t": 162.84,
+      "end": 169.94,
+      "text": "Mendesis panjang kayak ular, uapnya nutup muka kami"
+    },
+    {
+      "t": 170.88,
+      "end": 170.88,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 170.88,
+      "end": 174.48,
+      "text": "Jangan tempa lagi, jangan tempa lagi"
+    },
+    {
+      "t": 175.16,
+      "end": 179.1,
+      "text": "Pak Darmo pukul sekali, lalu duduk diam"
+    },
+    {
+      "t": 179.12,
+      "end": 183.04,
+      "text": "Dengungnya keliling bengkel, nggak mau berhenti"
+    },
+    {
+      "t": 183.72,
+      "end": 187.34,
+      "text": "Kopi di gelasku bergetar sendiri"
+    },
+    {
+      "t": 187.34,
+      "end": 187.34,
+      "text": "[Outro - piano figure alone, last guitar note rings out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Intro - short grand piano figure, drums and harmonized guitars enter on the last bar]"
+    },
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.58,
+      "end": 31.94,
+      "text": "Senin subuh di Wirun, arang di tungku sudah membara"
+    },
+    {
+      "t": 32.36,
+      "end": 41.6,
+      "text": "Pak Darmo jepit lempeng perunggu pakai tang panjang"
+    },
+    {
+      "t": 44.32,
+      "end": 51.86,
+      "text": "Kami berlima pegang palu, aku yang paling muda"
+    },
+    {
+      "t": 53.04,
+      "end": 57.05,
+      "text": "Pesanan sanggar dari Solo, gong ageng sembilan puluh senti"
+    },
+    {
+      "t": 57.05,
+      "end": 57.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.05,
+      "end": 59.11,
+      "text": "Palu turun gantian, satu, dua, tiga, empat, lima"
+    },
+    {
+      "t": 59.11,
+      "end": 61.93,
+      "text": "Telat setengah ketukan, jari Pak Darmo taruhannya"
+    },
+    {
+      "t": 65.25,
+      "end": 65.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.25,
+      "end": 68.31,
+      "text": "Tempa lagi, tempa lagi"
+    },
+    {
+      "t": 69.53,
+      "end": 72.03,
+      "text": "Mumpung perunggunya masih merah"
+    },
+    {
+      "t": 72.03,
+      "end": 73.99,
+      "text": "Kata Pak Darmo, gongnya belum mau nyanyi"
+    },
+    {
+      "t": 73.99,
+      "end": 77.05,
+      "text": "Masuk lagi ke api, tempa lagi"
+    },
+    {
+      "t": 79.95,
+      "end": 79.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.95,
+      "end": 85.05,
+      "text": "Minggu kedua dia melebar, telapak tanganku melepuh"
+    },
+    {
+      "t": 85.05,
+      "end": 95.97,
+      "text": "Sehari dua belas kali masuk api, biar nggak retak"
+    },
+    {
+      "t": 99.27,
+      "end": 104.89,
+      "text": "Pak Darmo coba pukul, bunyinya kayak kaleng kerupuk"
+    },
+    {
+      "t": 107.69,
+      "end": 113.41,
+      "text": "Bocah-bocah di pagar ketawa, kami pura-pura tuli"
+    },
+    {
+      "t": 113.41,
+      "end": 113.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.41,
+      "end": 114.83,
+      "text": "Tempa lagi, tempa lagi"
+    },
+    {
+      "t": 114.83,
+      "end": 116.35,
+      "text": "Mumpung arangnya belum jadi abu"
+    },
+    {
+      "t": 116.35,
+      "end": 119.77,
+      "text": "Kata Pak Darmo, dia masih ngambek sama kami"
+    },
+    {
+      "t": 120.39,
+      "end": 124.47,
+      "text": "Besok subuh kita bujuk, tempa lagi"
+    },
+    {
+      "t": 154.37,
+      "end": 154.37,
+      "text": "[Bridge - harmonized twin-guitar solo, then half-time drums]"
+    },
+    {
+      "t": 154.37,
+      "end": 161.4,
+      "text": "Kamis minggu ketiga dia dicelup ke bak air"
+    },
+    {
+      "t": 162.84,
+      "end": 169.94,
+      "text": "Mendesis panjang kayak ular, uapnya nutup muka kami"
+    },
+    {
+      "t": 170.88,
+      "end": 170.88,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 170.88,
+      "end": 174.48,
+      "text": "Jangan tempa lagi, jangan tempa lagi"
+    },
+    {
+      "t": 175.16,
+      "end": 179.1,
+      "text": "Pak Darmo pukul sekali, lalu duduk diam"
+    },
+    {
+      "t": 179.12,
+      "end": 183.04,
+      "text": "Dengungnya keliling bengkel, nggak mau berhenti"
+    },
+    {
+      "t": 183.72,
+      "end": 187.34,
+      "text": "Kopi di gelasku bergetar sendiri"
+    },
+    {
+      "t": 187.34,
+      "end": 187.34,
+      "text": "[Outro - piano figure alone, last guitar note rings out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Intro - short grand piano figure, drums and harmonized guitars enter on the last bar]"
+    },
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.58,
+      "end": 32.96,
+      "text": "Senin subuh di Wirun, arang di tungku sudah membara"
+    },
+    {
+      "t": 33.92,
+      "end": 41.58,
+      "text": "Pak Darmo jepit lempeng perunggu pakai tang panjang"
+    },
+    {
+      "t": 44.32,
+      "end": 49.62,
+      "text": "Kami berlima pegang palu, aku yang paling muda"
+    },
+    {
+      "t": 49.62,
+      "end": 52.4,
+      "text": "Pesanan sanggar dari Solo, gong ageng sembilan puluh senti"
+    },
+    {
+      "t": 52.42,
+      "end": 52.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.42,
+      "end": 56.05,
+      "text": "Palu turun gantian, satu, dua, tiga, empat, lima"
+    },
+    {
+      "t": 56.07,
+      "end": 61.93,
+      "text": "Telat setengah ketukan, jari Pak Darmo taruhannya"
+    },
+    {
+      "t": 65.27,
+      "end": 65.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.27,
+      "end": 68.31,
+      "text": "Tempa lagi, tempa lagi"
+    },
+    {
+      "t": 69.53,
+      "end": 72.79,
+      "text": "Mumpung perunggunya masih merah"
+    },
+    {
+      "t": 74.21,
+      "end": 85.49,
+      "text": "Kata Pak Darmo, gongnya belum mau nyanyi"
+    },
+    {
+      "t": 86.17,
+      "end": 91.85,
+      "text": "Masuk lagi ke api, tempa lagi"
+    },
+    {
+      "t": 92.77,
+      "end": 92.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.77,
+      "end": 96.43,
+      "text": "Minggu kedua dia melebar, telapak tanganku melepuh"
+    },
+    {
+      "t": 96.43,
+      "end": 100.63,
+      "text": "Sehari dua belas kali masuk api, biar nggak retak"
+    },
+    {
+      "t": 100.63,
+      "end": 104.91,
+      "text": "Pak Darmo coba pukul, bunyinya kayak kaleng kerupuk"
+    },
+    {
+      "t": 107.71,
+      "end": 114.97,
+      "text": "Bocah-bocah di pagar ketawa, kami pura-pura tuli"
+    },
+    {
+      "t": 114.97,
+      "end": 114.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.97,
+      "end": 115.47,
+      "text": "Tempa lagi, tempa lagi"
+    },
+    {
+      "t": 115.47,
+      "end": 116.33,
+      "text": "Mumpung arangnya belum jadi abu"
+    },
+    {
+      "t": 116.33,
+      "end": 119.75,
+      "text": "Kata Pak Darmo, dia masih ngambek sama kami"
+    },
+    {
+      "t": 120.39,
+      "end": 124.47,
+      "text": "Besok subuh kita bujuk, tempa lagi"
+    },
+    {
+      "t": 154.37,
+      "end": 154.37,
+      "text": "[Bridge - harmonized twin-guitar solo, then half-time drums]"
+    },
+    {
+      "t": 154.37,
+      "end": 161.64,
+      "text": "Kamis minggu ketiga dia dicelup ke bak air"
+    },
+    {
+      "t": 162.84,
+      "end": 169.92,
+      "text": "Mendesis panjang kayak ular, uapnya nutup muka kami"
+    },
+    {
+      "t": 170.9,
+      "end": 170.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 170.9,
+      "end": 174.46,
+      "text": "Jangan tempa lagi, jangan tempa lagi"
+    },
+    {
+      "t": 175.16,
+      "end": 178.02,
+      "text": "Pak Darmo pukul sekali, lalu duduk diam"
+    },
+    {
+      "t": 178.92,
+      "end": 183.04,
+      "text": "Dengungnya keliling bengkel, nggak mau berhenti"
+    },
+    {
+      "t": 183.72,
+      "end": 187.34,
+      "text": "Kopi di gelasku bergetar sendiri"
+    },
+    {
+      "t": 187.34,
+      "end": 187.34,
+      "text": "[Outro - piano figure alone, last guitar note rings out]"
+    }
+  ]
+}

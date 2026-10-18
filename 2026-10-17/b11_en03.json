@@ -1,0 +1,367 @@
+{
+  "id": "b11_en03",
+  "title": "Call the Fridgie",
+  "title_source": "scripted",
+  "genre": "Australian pub rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sweaty, cheeky and triumphant",
+  "persona": "",
+  "subject": "a female refrigeration mechanic in western Sydney fixing the coolrooms of four pubs and clubs on a 46-degree day in Penrith before the Friday rush",
+  "caption": "Australian pub rock with punk drive, in the 2020s Melbourne band-room style. Two crunchy overdriven electric guitars through cranked valve amps, one stomping an open-chord boogie riff, the other slashing barre chords; a pick-played bass locked to the kick in straight eighths; a loud, roomy live drum kit with a cracking snare and a bashed ride; a gang of mates shouting the chorus back. Raw, loud, live-in-a-band-room mix with amp hiss and no polish. Female lead vocal with a broad Australian accent, shouted, sneering and cheeky, half-spoken in the verses and hoarse and yelled in the chorus. 152 BPM, A major. Sweaty, cheeky and triumphant. No synths, no autotune, no pop-punk gloss, no metal, no country twang.",
+  "lyrics": "[Intro - stomping open-chord guitar riff, drums crash in]\n\n[Verse 1]\nForty-six in Penrith and the bitumen's gone soft\nTen past twelve the phone goes, the Railway's coolroom's off\nThirty kegs are sweating and every schooner's pouring froth\nPublican's down on his knees, he says, love, I don't care what it costs\n\n[Pre-Chorus]\nUp the ladder to the roof in my steel caps and my hat\nBelt the fan with a shifter and she fires up, just like that\n\n[Chorus]\nCall the fridgie! (Call the fridgie!)\nEvery pub out west has got my number\nCall the fridgie! (Call the fridgie!)\nNo one's drinking warm beer this summer\n\n[Verse 2]\nTwo o'clock, the bowlo, three o'clock, the RSL\nFour o'clock, the Workers', and their ice machine as well\nEvery barman shouts my name like I've come to save the town\nAnd the old blokes by the pokies want to shout me a round\n\n[Chorus]\nCall the fridgie! (Call the fridgie!)\nEvery club out west has got my number\nCall the fridgie! (Call the fridgie!)\nNot one warm schooner in Penrith this summer\n\n[Bridge - half-time, bass and drums only]\nHalf six, back at the Railway, my shirt's stuck on like paint\nHe slides the coldest beer in Penrith down the bar and calls me a saint\n\n[Chorus - gang vocals]\nCall the fridgie! (Call the fridgie!)\nShe's off the clock, mate, try another number\nCall the fridgie! (Call the fridgie!)\nShe's at the Railway with the coldest beer of summer\n\n[Outro - riff stomps to a halt, feedback rings out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Australian pub rock with punk drive, in the 2020s Melbourne band-room style. Two crunchy overdriven electric guitars through cranked valve amps, one stomping an open-chord boogie riff, the other slashing barre chords; a pick-played bass locked to the kick in straight eighths; a loud, roomy live drum kit with a cracking snare and a bashed ride; a gang of mates shouting the chorus back. Raw, loud, live-in-a-band-room mix with amp hiss and no polish. Female lead vocal with a broad Australian accent, shouted, sneering and cheeky, half-spoken in the verses and hoarse and yelled in the chorus. 152 BPM, A major. Sweaty, cheeky and triumphant. No synths, no autotune, no pop-punk gloss, no metal, no country twang.",
+    "lyrics": "[Intro - stomping open-chord guitar riff, drums crash in]\n\n[Verse 1]\nForty-six in Penrith and the bitumen's gone soft\nTen past twelve the phone goes, the Railway's coolroom's off\nThirty kegs are sweating and every schooner's pouring froth\nPublican's down on his knees, he says, love, I don't care what it costs\n\n[Pre-Chorus]\nUp the ladder to the roof in my steel caps and my hat\nBelt the fan with a shifter and she fires up, just like that\n\n[Chorus]\nCall the fridgie! (Call the fridgie!)\nEvery pub out west has got my number\nCall the fridgie! (Call the fridgie!)\nNo one's drinking warm beer this summer\n\n[Verse 2]\nTwo o'clock, the bowlo, three o'clock, the RSL\nFour o'clock, the Workers', and their ice machine as well\nEvery barman shouts my name like I've come to save the town\nAnd the old blokes by the pokies want to shout me a round\n\n[Chorus]\nCall the fridgie! (Call the fridgie!)\nEvery club out west has got my number\nCall the fridgie! (Call the fridgie!)\nNot one warm schooner in Penrith this summer\n\n[Bridge - half-time, bass and drums only]\nHalf six, back at the Railway, my shirt's stuck on like paint\nHe slides the coldest beer in Penrith down the bar and calls me a saint\n\n[Chorus - gang vocals]\nCall the fridgie! (Call the fridgie!)\nShe's off the clock, mate, try another number\nCall the fridgie! (Call the fridgie!)\nShe's at the Railway with the coldest beer of summer\n\n[Outro - riff stomps to a halt, feedback rings out]"
+  },
+  "seed": "3326467558",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.93s**\n- 61.93s per song\n- LM phase (1 song): 16.05s\n- DiT phase (1 song): 45.89s",
+  "task_id": "554f6a49-359f-4455-9eb4-b428a5e21b65",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-10-17T21:50:15.830546+08:00",
+  "audio": "b11_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Intro - stomping open-chord guitar riff, drums crash in]"
+    },
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.56,
+      "end": 23.4,
+      "text": "Forty-six in Penrith and the bitumen's gone soft"
+    },
+    {
+      "t": 24.96,
+      "end": 29.52,
+      "text": "Ten past twelve the phone goes, the Railway's coolroom's off"
+    },
+    {
+      "t": 31.14,
+      "end": 36.76,
+      "text": "Thirty kegs are sweating and every schooner's pouring froth"
+    },
+    {
+      "t": 36.76,
+      "end": 42.1,
+      "text": "Publican's down on his knees, he says, love, I don't care what it costs"
+    },
+    {
+      "t": 43.89,
+      "end": 43.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.89,
+      "end": 47.25,
+      "text": "Up the ladder to the roof in my steel caps and my hat"
+    },
+    {
+      "t": 47.25,
+      "end": 48.49,
+      "text": "Belt the fan with a shifter and she fires up, just like that"
+    },
+    {
+      "t": 48.49,
+      "end": 48.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.49,
+      "end": 49.53,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 49.99,
+      "end": 51.39,
+      "text": "Every pub out west has got my number"
+    },
+    {
+      "t": 51.39,
+      "end": 52.65,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 52.65,
+      "end": 55.57,
+      "text": "No one's drinking warm beer this summer"
+    },
+    {
+      "t": 55.57,
+      "end": 55.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 55.57,
+      "end": 57.71,
+      "text": "Two o'clock, the bowlo, three o'clock, the RSL"
+    },
+    {
+      "t": 57.75,
+      "end": 59.29,
+      "text": "Four o'clock, the Workers', and their ice machine as well"
+    },
+    {
+      "t": 59.29,
+      "end": 60.65,
+      "text": "Every barman shouts my name like I've come to save the town"
+    },
+    {
+      "t": 60.65,
+      "end": 67.45,
+      "text": "And the old blokes by the pokies want to shout me a round"
+    },
+    {
+      "t": 68.77,
+      "end": 68.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.77,
+      "end": 71.43,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 71.47,
+      "end": 73.03,
+      "text": "Every club out west has got my number"
+    },
+    {
+      "t": 74.95,
+      "end": 78.67,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 78.69,
+      "end": 85.41,
+      "text": "Not one warm schooner in Penrith this summer"
+    },
+    {
+      "t": 86.95,
+      "end": 86.95,
+      "text": "[Bridge - half-time, bass and drums only]"
+    },
+    {
+      "t": 86.95,
+      "end": 91.21,
+      "text": "Half six, back at the Railway, my shirt's stuck on like paint"
+    },
+    {
+      "t": 92.49,
+      "end": 101.61,
+      "text": "He slides the coldest beer in Penrith down the bar and calls me a saint"
+    },
+    {
+      "t": 101.65,
+      "end": 101.65,
+      "text": "[Chorus - gang vocals]"
+    },
+    {
+      "t": 101.65,
+      "end": 120.97,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 123.97,
+      "end": 127.25,
+      "text": "She's off the clock, mate, try another number"
+    },
+    {
+      "t": 130.17,
+      "end": 133.62,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 133.86,
+      "end": 163.52,
+      "text": "She's at the Railway with the coldest beer of summer"
+    },
+    {
+      "t": 163.52,
+      "end": 163.52,
+      "text": "[Outro - riff stomps to a halt, feedback rings out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Intro - stomping open-chord guitar riff, drums crash in]"
+    },
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.54,
+      "end": 24.96,
+      "text": "Forty-six in Penrith and the bitumen's gone soft"
+    },
+    {
+      "t": 24.98,
+      "end": 29.52,
+      "text": "Ten past twelve the phone goes, the Railway's coolroom's off"
+    },
+    {
+      "t": 31.12,
+      "end": 35.82,
+      "text": "Thirty kegs are sweating and every schooner's pouring froth"
+    },
+    {
+      "t": 36.72,
+      "end": 42.1,
+      "text": "Publican's down on his knees, he says, love, I don't care what it costs"
+    },
+    {
+      "t": 42.5,
+      "end": 42.5,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.5,
+      "end": 49.35,
+      "text": "Up the ladder to the roof in my steel caps and my hat"
+    },
+    {
+      "t": 50.01,
+      "end": 60.69,
+      "text": "Belt the fan with a shifter and she fires up, just like that"
+    },
+    {
+      "t": 62.57,
+      "end": 62.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.57,
+      "end": 65.31,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 65.33,
+      "end": 67.59,
+      "text": "Every pub out west has got my number"
+    },
+    {
+      "t": 67.59,
+      "end": 69.87,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 69.89,
+      "end": 73.07,
+      "text": "No one's drinking warm beer this summer"
+    },
+    {
+      "t": 73.43,
+      "end": 73.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.43,
+      "end": 78.71,
+      "text": "Two o'clock, the bowlo, three o'clock, the RSL"
+    },
+    {
+      "t": 78.81,
+      "end": 88.97,
+      "text": "Four o'clock, the Workers', and their ice machine as well"
+    },
+    {
+      "t": 88.99,
+      "end": 91.01,
+      "text": "Every barman shouts my name like I've come to save the town"
+    },
+    {
+      "t": 91.01,
+      "end": 93.73,
+      "text": "And the old blokes by the pokies want to shout me a round"
+    },
+    {
+      "t": 93.75,
+      "end": 93.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 93.75,
+      "end": 94.83,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 94.85,
+      "end": 95.91,
+      "text": "Every club out west has got my number"
+    },
+    {
+      "t": 95.91,
+      "end": 97.13,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 97.15,
+      "end": 121.05,
+      "text": "Not one warm schooner in Penrith this summer"
+    },
+    {
+      "t": 123.37,
+      "end": 123.37,
+      "text": "[Bridge - half-time, bass and drums only]"
+    },
+    {
+      "t": 123.37,
+      "end": 131.03,
+      "text": "Half six, back at the Railway, my shirt's stuck on like paint"
+    },
+    {
+      "t": 131.03,
+      "end": 139.0,
+      "text": "He slides the coldest beer in Penrith down the bar and calls me a saint"
+    },
+    {
+      "t": 139.0,
+      "end": 139.0,
+      "text": "[Chorus - gang vocals]"
+    },
+    {
+      "t": 139.0,
+      "end": 140.62,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 140.62,
+      "end": 142.84,
+      "text": "She's off the clock, mate, try another number"
+    },
+    {
+      "t": 142.84,
+      "end": 146.8,
+      "text": "Call the fridgie! (Call the fridgie!)"
+    },
+    {
+      "t": 146.8,
+      "end": 170.82,
+      "text": "She's at the Railway with the coldest beer of summer"
+    },
+    {
+      "t": 170.82,
+      "end": 170.82,
+      "text": "[Outro - riff stomps to a halt, feedback rings out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

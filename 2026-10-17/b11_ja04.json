@@ -1,0 +1,377 @@
+{
+  "id": "b11_ja04",
+  "title": "笑われたら勝ち",
+  "title_source": "scripted",
+  "genre": "chindon street band",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "cheeky, nervous and festive",
+  "persona": "",
+  "subject": "an apprentice chindon-ya in white face paint carrying the drum rig at her first All-Japan Chindon Contest in Toyama, botching her pitch for the July baseball All-Star Game so badly the crowd roars, and being told she will do the patter from tomorrow",
+  "caption": "Chindon street band music, the Japanese street-advertising ensemble in its contest-parade form, a brisk 2/4 jinta march with an old kayo melody. A clarinet carrying the tune with a wobbly, singing vibrato; a chindon drum rig of a small brass kane gong, a tight shime-daiko and a medium taiko struck with sticks, rattling out the chin-don pattern; a gorosu marching bass drum on the downbeats; an alto saxophone harmonising a third below; an accordion pumping the off-beats. Dry, close outdoor street sound, like a band walking past on a spring city street, slight natural echo. Female lead with a bright, nasal Showa street-singer tone, quick and cheeky in the verses, belting in the chorus. 116 BPM, F major. Cheeky, nervous and festive. No drum kit, no electric guitar, no synths, no enka-style kobushi, no orchestral strings.",
+  "lyrics": "[Intro - clarinet pickup, chindon drum rig and bass drum in a brisk march]\n\n[Verse 1]\n白塗りの顔に 桜がひとひら\n鏡の中の わたし 誰だっけ\n師匠の背中に くっついて\n富山の朝の 平和通り\n\n[Pre-Chorus]\n胸のチンドン太鼓 ずしりと重い\nばちを持つ手が まだ震えてる\n\n[Chorus]\nチンドン チンドン 鳴らして歩け\n口上ひとつ 噛んだって\n笑われたなら こっちの勝ち\n春の通りを 練り歩け\n\n[Verse 2]\nお題は七月の オールスター\n野球のルール 実は知らない\n「満塁ホームランで 三振だ!」\n客席が どっと沸いた\n\n[Pre-Chorus]\n師匠のクラリネット 一瞬止まって\nそのあと 誰より 大きく鳴った\n\n[Chorus]\nチンドン チンドン 鳴らして歩け\n頭の中は 真っ白だけど\n笑われたなら こっちの勝ち\n拍手の中を 練り歩け\n\n[Instrumental Break - clarinet and alto sax trading a jinta phrase over the drum rig]\n\n[Chorus]\nチンドン チンドン 鳴らして歩け\n「明日から 口上は お前な」\n笑われたなら こっちの勝ち\n桜の下を 練り歩け\n\n[Outro - drum rig rattle, gong hit and a final clarinet trill]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Chindon street band music, the Japanese street-advertising ensemble in its contest-parade form, a brisk 2/4 jinta march with an old kayo melody. A clarinet carrying the tune with a wobbly, singing vibrato; a chindon drum rig of a small brass kane gong, a tight shime-daiko and a medium taiko struck with sticks, rattling out the chin-don pattern; a gorosu marching bass drum on the downbeats; an alto saxophone harmonising a third below; an accordion pumping the off-beats. Dry, close outdoor street sound, like a band walking past on a spring city street, slight natural echo. Female lead with a bright, nasal Showa street-singer tone, quick and cheeky in the verses, belting in the chorus. 116 BPM, F major. Cheeky, nervous and festive. No drum kit, no electric guitar, no synths, no enka-style kobushi, no orchestral strings.",
+    "lyrics": "[Intro - clarinet pickup, chindon drum rig and bass drum in a brisk march]\n\n[Verse 1]\n白塗りの顔に 桜がひとひら\n鏡の中の わたし 誰だっけ\n師匠の背中に くっついて\n富山の朝の 平和通り\n\n[Pre-Chorus]\n胸のチンドン太鼓 ずしりと重い\nばちを持つ手が まだ震えてる\n\n[Chorus]\nチンドン チンドン 鳴らして歩け\n口上ひとつ 噛んだって\n笑われたなら こっちの勝ち\n春の通りを 練り歩け\n\n[Verse 2]\nお題は七月の オールスター\n野球のルール 実は知らない\n「満塁ホームランで 三振だ!」\n客席が どっと沸いた\n\n[Pre-Chorus]\n師匠のクラリネット 一瞬止まって\nそのあと 誰より 大きく鳴った\n\n[Chorus]\nチンドン チンドン 鳴らして歩け\n頭の中は 真っ白だけど\n笑われたなら こっちの勝ち\n拍手の中を 練り歩け\n\n[Instrumental Break - clarinet and alto sax trading a jinta phrase over the drum rig]\n\n[Chorus]\nチンドン チンドン 鳴らして歩け\n「明日から 口上は お前な」\n笑われたなら こっちの勝ち\n桜の下を 練り歩け\n\n[Outro - drum rig rattle, gong hit and a final clarinet trill]"
+  },
+  "seed": "281587979",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.48s**\n- 56.48s per song\n- LM phase (1 song): 9.94s\n- DiT phase (1 song): 46.54s",
+  "task_id": "074bbc0d-8317-4dfd-ab07-75da18f075bd",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-17T22:07:58.508004+08:00",
+  "audio": "b11_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.72,
+      "end": 0.72,
+      "text": "[Intro - clarinet pickup, chindon drum rig and bass drum in a brisk march]"
+    },
+    {
+      "t": 0.72,
+      "end": 0.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.72,
+      "end": 6.02,
+      "text": "白塗りの顔に 桜がひとひら"
+    },
+    {
+      "t": 6.14,
+      "end": 25.3,
+      "text": "鏡の中の わたし 誰だっけ"
+    },
+    {
+      "t": 25.34,
+      "end": 30.64,
+      "text": "師匠の背中に くっついて"
+    },
+    {
+      "t": 31.02,
+      "end": 35.58,
+      "text": "富山の朝の 平和通り"
+    },
+    {
+      "t": 35.58,
+      "end": 35.58,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.58,
+      "end": 41.86,
+      "text": "胸のチンドン太鼓 ずしりと重い"
+    },
+    {
+      "t": 42.92,
+      "end": 51.35,
+      "text": "ばちを持つ手が まだ震えてる"
+    },
+    {
+      "t": 53.27,
+      "end": 53.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.27,
+      "end": 64.65,
+      "text": "チンドン チンドン 鳴らして歩け"
+    },
+    {
+      "t": 65.43,
+      "end": 69.41,
+      "text": "口上ひとつ 噛んだって"
+    },
+    {
+      "t": 69.83,
+      "end": 74.27,
+      "text": "笑われたなら こっちの勝ち"
+    },
+    {
+      "t": 74.43,
+      "end": 78.19,
+      "text": "春の通りを 練り歩け"
+    },
+    {
+      "t": 79.45,
+      "end": 79.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.45,
+      "end": 83.57,
+      "text": "お題は七月の オールスター"
+    },
+    {
+      "t": 83.59,
+      "end": 86.61,
+      "text": "野球のルール 実は知らない"
+    },
+    {
+      "t": 86.75,
+      "end": 95.75,
+      "text": "「満塁ホームランで 三振だ!」"
+    },
+    {
+      "t": 95.91,
+      "end": 99.87,
+      "text": "客席が どっと沸いた"
+    },
+    {
+      "t": 102.83,
+      "end": 102.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.83,
+      "end": 111.29,
+      "text": "師匠のクラリネット 一瞬止まって"
+    },
+    {
+      "t": 111.41,
+      "end": 134.15,
+      "text": "そのあと 誰より 大きく鳴った"
+    },
+    {
+      "t": 135.31,
+      "end": 135.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.31,
+      "end": 138.33,
+      "text": "チンドン チンドン 鳴らして歩け"
+    },
+    {
+      "t": 139.25,
+      "end": 142.95,
+      "text": "頭の中は 真っ白だけど"
+    },
+    {
+      "t": 143.21,
+      "end": 147.4,
+      "text": "笑われたなら こっちの勝ち"
+    },
+    {
+      "t": 147.5,
+      "end": 152.02,
+      "text": "拍手の中を 練り歩け"
+    },
+    {
+      "t": 156.0,
+      "end": 156.0,
+      "text": "[Instrumental Break - clarinet and alto sax trading a jinta phrase over the drum rig]"
+    },
+    {
+      "t": 156.0,
+      "end": 156.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 156.0,
+      "end": 163.56,
+      "text": "チンドン チンドン 鳴らして歩け"
+    },
+    {
+      "t": 164.26,
+      "end": 169.28,
+      "text": "「明日から 口上は お前な」"
+    },
+    {
+      "t": 169.66,
+      "end": 183.82,
+      "text": "笑われたなら こっちの勝ち"
+    },
+    {
+      "t": 183.98,
+      "end": 189.46,
+      "text": "桜の下を 練り歩け"
+    },
+    {
+      "t": 189.46,
+      "end": 189.46,
+      "text": "[Outro - drum rig rattle, gong hit and a final clarinet trill]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 5.14,
+      "end": 5.14,
+      "text": "[Intro - clarinet pickup, chindon drum rig and bass drum in a brisk march]"
+    },
+    {
+      "t": 5.14,
+      "end": 5.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.14,
+      "end": 7.62,
+      "text": "白塗りの顔に 桜がひとひら"
+    },
+    {
+      "t": 7.68,
+      "end": 27.28,
+      "text": "鏡の中の わたし 誰だっけ"
+    },
+    {
+      "t": 28.8,
+      "end": 33.7,
+      "text": "師匠の背中に くっついて"
+    },
+    {
+      "t": 33.7,
+      "end": 36.5,
+      "text": "富山の朝の 平和通り"
+    },
+    {
+      "t": 36.5,
+      "end": 36.5,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.5,
+      "end": 42.98,
+      "text": "胸のチンドン太鼓 ずしりと重い"
+    },
+    {
+      "t": 43.0,
+      "end": 51.37,
+      "text": "ばちを持つ手が まだ震えてる"
+    },
+    {
+      "t": 53.25,
+      "end": 53.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.25,
+      "end": 64.65,
+      "text": "チンドン チンドン 鳴らして歩け"
+    },
+    {
+      "t": 65.43,
+      "end": 69.41,
+      "text": "口上ひとつ 噛んだって"
+    },
+    {
+      "t": 69.61,
+      "end": 73.81,
+      "text": "笑われたなら こっちの勝ち"
+    },
+    {
+      "t": 74.41,
+      "end": 77.03,
+      "text": "春の通りを 練り歩け"
+    },
+    {
+      "t": 77.05,
+      "end": 77.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.05,
+      "end": 79.33,
+      "text": "お題は七月の オールスター"
+    },
+    {
+      "t": 79.33,
+      "end": 81.07,
+      "text": "野球のルール 実は知らない"
+    },
+    {
+      "t": 81.15,
+      "end": 82.35,
+      "text": "「満塁ホームランで 三振だ!」"
+    },
+    {
+      "t": 82.35,
+      "end": 83.81,
+      "text": "客席が どっと沸いた"
+    },
+    {
+      "t": 83.81,
+      "end": 83.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 83.81,
+      "end": 85.35,
+      "text": "師匠のクラリネット 一瞬止まって"
+    },
+    {
+      "t": 85.35,
+      "end": 94.31,
+      "text": "そのあと 誰より 大きく鳴った"
+    },
+    {
+      "t": 94.31,
+      "end": 94.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.31,
+      "end": 96.23,
+      "text": "チンドン チンドン 鳴らして歩け"
+    },
+    {
+      "t": 96.23,
+      "end": 103.21,
+      "text": "頭の中は 真っ白だけど"
+    },
+    {
+      "t": 103.37,
+      "end": 113.87,
+      "text": "笑われたなら こっちの勝ち"
+    },
+    {
+      "t": 114.79,
+      "end": 118.13,
+      "text": "拍手の中を 練り歩け"
+    },
+    {
+      "t": 135.31,
+      "end": 135.31,
+      "text": "[Instrumental Break - clarinet and alto sax trading a jinta phrase over the drum rig]"
+    },
+    {
+      "t": 135.31,
+      "end": 135.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.31,
+      "end": 138.35,
+      "text": "チンドン チンドン 鳴らして歩け"
+    },
+    {
+      "t": 138.97,
+      "end": 142.95,
+      "text": "「明日から 口上は お前な」"
+    },
+    {
+      "t": 143.23,
+      "end": 147.42,
+      "text": "笑われたなら こっちの勝ち"
+    },
+    {
+      "t": 147.76,
+      "end": 152.02,
+      "text": "桜の下を 練り歩け"
+    },
+    {
+      "t": 152.02,
+      "end": 152.02,
+      "text": "[Outro - drum rig rattle, gong hit and a final clarinet trill]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

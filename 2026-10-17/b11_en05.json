@@ -1,0 +1,367 @@
+{
+  "id": "b11_en05",
+  "title": "I'll Write It Down",
+  "title_source": "scripted",
+  "genre": "West Coast yacht rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm, tender and devoted",
+  "persona": "",
+  "subject": "a husband of twenty-two years who drives his amateur-astronomer wife to Borrego Springs every August for the Perseids and writes down every meteor she calls out, though he never sees one himself",
+  "caption": "Late-70s West Coast yacht rock, smooth soft rock with jazz-chord voicings. A Fender Rhodes playing lush major-seventh and ninth chords; a melodic electric bass with sliding fills; a clean, chorused electric guitar with short answering licks and a brief melodic solo; tight, laid-back session drums with a crisp snare and a closed hi-hat; a tenor saxophone answering the vocal and taking the bridge. Warm, glossy analog studio mix with soft compression and wide stacked backing vocals. Male lead with a husky blue-eyed-soul baritone in the verses and stacked falsetto harmonies in the chorus. 96 BPM, D major. Warm, tender and devoted. No synthwave arpeggios, no trap drums, no autotune, no country twang, no disco four-on-the-floor.",
+  "lyrics": "[Intro - Rhodes chords, a bass slide, a soft sax phrase]\n\n[Verse 1]\nThree hours out of LA, down the Montezuma Grade\nBorrego keeps its porch lights low, it's ninety, half past eight\nTwo lawn chairs in the creosote, your clipboard on my knee\nYou take the sky, I take the pen, the cooler full of iced tea\n\n[Pre-Chorus]\nNo moon tonight, you lean back and say, ready\nI switch the red light on and hold the pen steady\n\n[Chorus]\nCall it, I'll write it down\nYou keep your eyes up, I'll keep the time\nCall it, I'll write it down\nI never see a single one, but they're all in my handwriting\n\n[Verse 2]\nTwo-oh-nine, you whisper, a bright one, minus two\nGreen, with a trail that hangs there, and I miss it, like I do\nAt four the desert finally cools, I put the blanket on your feet\nSeventy-one on the tally sheet, your coffee cold beside your seat\n\n[Chorus]\nCall it, I'll write it down\nYou keep your eyes up, I'll keep the time\nCall it, I'll write it down\nSeventy-two, you say, and I write seventy-two\n\n[Bridge - sax solo, then voice over Rhodes]\nTwenty-two Augusts, the same two chairs, the same sand in the cooler\nYou send the count off in the morning with my name down as recorder\n\n[Chorus]\nCall it, I'll write it down\nSun's coming up behind the badlands now\nCall it, I'll write it down\nLast one, you say, and I believe you every year\n\n[Outro - falsetto harmonies and Rhodes fade out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 225.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Late-70s West Coast yacht rock, smooth soft rock with jazz-chord voicings. A Fender Rhodes playing lush major-seventh and ninth chords; a melodic electric bass with sliding fills; a clean, chorused electric guitar with short answering licks and a brief melodic solo; tight, laid-back session drums with a crisp snare and a closed hi-hat; a tenor saxophone answering the vocal and taking the bridge. Warm, glossy analog studio mix with soft compression and wide stacked backing vocals. Male lead with a husky blue-eyed-soul baritone in the verses and stacked falsetto harmonies in the chorus. 96 BPM, D major. Warm, tender and devoted. No synthwave arpeggios, no trap drums, no autotune, no country twang, no disco four-on-the-floor.",
+    "lyrics": "[Intro - Rhodes chords, a bass slide, a soft sax phrase]\n\n[Verse 1]\nThree hours out of LA, down the Montezuma Grade\nBorrego keeps its porch lights low, it's ninety, half past eight\nTwo lawn chairs in the creosote, your clipboard on my knee\nYou take the sky, I take the pen, the cooler full of iced tea\n\n[Pre-Chorus]\nNo moon tonight, you lean back and say, ready\nI switch the red light on and hold the pen steady\n\n[Chorus]\nCall it, I'll write it down\nYou keep your eyes up, I'll keep the time\nCall it, I'll write it down\nI never see a single one, but they're all in my handwriting\n\n[Verse 2]\nTwo-oh-nine, you whisper, a bright one, minus two\nGreen, with a trail that hangs there, and I miss it, like I do\nAt four the desert finally cools, I put the blanket on your feet\nSeventy-one on the tally sheet, your coffee cold beside your seat\n\n[Chorus]\nCall it, I'll write it down\nYou keep your eyes up, I'll keep the time\nCall it, I'll write it down\nSeventy-two, you say, and I write seventy-two\n\n[Bridge - sax solo, then voice over Rhodes]\nTwenty-two Augusts, the same two chairs, the same sand in the cooler\nYou send the count off in the morning with my name down as recorder\n\n[Chorus]\nCall it, I'll write it down\nSun's coming up behind the badlands now\nCall it, I'll write it down\nLast one, you say, and I believe you every year\n\n[Outro - falsetto harmonies and Rhodes fade out]"
+  },
+  "seed": "2378514434",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 80.82s**\n- 80.82s per song\n- LM phase (1 song): 19.68s\n- DiT phase (1 song): 61.13s",
+  "task_id": "0da668df-e25f-4dac-98ec-8a008221e846",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-10-17T21:54:16.201709+08:00",
+  "audio": "b11_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.42,
+      "end": 22.42,
+      "text": "[Intro - Rhodes chords, a bass slide, a soft sax phrase]"
+    },
+    {
+      "t": 22.42,
+      "end": 22.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.42,
+      "end": 25.08,
+      "text": "Three hours out of LA, down the Montezuma Grade"
+    },
+    {
+      "t": 27.44,
+      "end": 36.46,
+      "text": "Borrego keeps its porch lights low, it's ninety, half past eight"
+    },
+    {
+      "t": 36.48,
+      "end": 44.52,
+      "text": "Two lawn chairs in the creosote, your clipboard on my knee"
+    },
+    {
+      "t": 46.2,
+      "end": 54.56,
+      "text": "You take the sky, I take the pen, the cooler full of iced tea"
+    },
+    {
+      "t": 55.86,
+      "end": 55.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.86,
+      "end": 59.41,
+      "text": "No moon tonight, you lean back and say, ready"
+    },
+    {
+      "t": 60.65,
+      "end": 65.53,
+      "text": "I switch the red light on and hold the pen steady"
+    },
+    {
+      "t": 66.45,
+      "end": 66.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.45,
+      "end": 69.09,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 70.55,
+      "end": 73.07,
+      "text": "You keep your eyes up, I'll keep the time"
+    },
+    {
+      "t": 73.07,
+      "end": 74.81,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 74.81,
+      "end": 88.03,
+      "text": "I never see a single one, but they're all in my handwriting"
+    },
+    {
+      "t": 91.15,
+      "end": 91.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.15,
+      "end": 96.07,
+      "text": "Two-oh-nine, you whisper, a bright one, minus two"
+    },
+    {
+      "t": 100.85,
+      "end": 104.19,
+      "text": "Green, with a trail that hangs there, and I miss it, like I do"
+    },
+    {
+      "t": 104.19,
+      "end": 108.33,
+      "text": "At four the desert finally cools, I put the blanket on your feet"
+    },
+    {
+      "t": 110.81,
+      "end": 120.57,
+      "text": "Seventy-one on the tally sheet, your coffee cold beside your seat"
+    },
+    {
+      "t": 120.77,
+      "end": 120.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.77,
+      "end": 124.73,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 124.89,
+      "end": 127.97,
+      "text": "You keep your eyes up, I'll keep the time"
+    },
+    {
+      "t": 127.97,
+      "end": 129.75,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 130.47,
+      "end": 136.31,
+      "text": "Seventy-two, you say, and I write seventy-two"
+    },
+    {
+      "t": 137.65,
+      "end": 137.65,
+      "text": "[Bridge - sax solo, then voice over Rhodes]"
+    },
+    {
+      "t": 137.65,
+      "end": 163.89,
+      "text": "Twenty-two Augusts, the same two chairs, the same sand in the cooler"
+    },
+    {
+      "t": 166.11,
+      "end": 174.18,
+      "text": "You send the count off in the morning with my name down as recorder"
+    },
+    {
+      "t": 177.52,
+      "end": 177.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 177.52,
+      "end": 181.4,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 181.6,
+      "end": 187.5,
+      "text": "Sun's coming up behind the badlands now"
+    },
+    {
+      "t": 187.58,
+      "end": 192.04,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 192.04,
+      "end": 198.8,
+      "text": "Last one, you say, and I believe you every year"
+    },
+    {
+      "t": 198.8,
+      "end": 198.8,
+      "text": "[Outro - falsetto harmonies and Rhodes fade out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.46,
+      "end": 22.46,
+      "text": "[Intro - Rhodes chords, a bass slide, a soft sax phrase]"
+    },
+    {
+      "t": 22.46,
+      "end": 22.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.46,
+      "end": 25.14,
+      "text": "Three hours out of LA, down the Montezuma Grade"
+    },
+    {
+      "t": 27.44,
+      "end": 36.48,
+      "text": "Borrego keeps its porch lights low, it's ninety, half past eight"
+    },
+    {
+      "t": 36.5,
+      "end": 44.5,
+      "text": "Two lawn chairs in the creosote, your clipboard on my knee"
+    },
+    {
+      "t": 46.22,
+      "end": 54.58,
+      "text": "You take the sky, I take the pen, the cooler full of iced tea"
+    },
+    {
+      "t": 54.62,
+      "end": 54.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.62,
+      "end": 59.43,
+      "text": "No moon tonight, you lean back and say, ready"
+    },
+    {
+      "t": 60.65,
+      "end": 65.53,
+      "text": "I switch the red light on and hold the pen steady"
+    },
+    {
+      "t": 66.45,
+      "end": 66.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.45,
+      "end": 69.07,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 70.57,
+      "end": 73.07,
+      "text": "You keep your eyes up, I'll keep the time"
+    },
+    {
+      "t": 73.07,
+      "end": 74.77,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 74.77,
+      "end": 88.03,
+      "text": "I never see a single one, but they're all in my handwriting"
+    },
+    {
+      "t": 91.15,
+      "end": 91.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.15,
+      "end": 95.97,
+      "text": "Two-oh-nine, you whisper, a bright one, minus two"
+    },
+    {
+      "t": 100.83,
+      "end": 104.37,
+      "text": "Green, with a trail that hangs there, and I miss it, like I do"
+    },
+    {
+      "t": 104.43,
+      "end": 108.37,
+      "text": "At four the desert finally cools, I put the blanket on your feet"
+    },
+    {
+      "t": 110.81,
+      "end": 119.83,
+      "text": "Seventy-one on the tally sheet, your coffee cold beside your seat"
+    },
+    {
+      "t": 120.77,
+      "end": 120.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.77,
+      "end": 124.67,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 124.91,
+      "end": 130.59,
+      "text": "You keep your eyes up, I'll keep the time"
+    },
+    {
+      "t": 133.27,
+      "end": 135.37,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 135.45,
+      "end": 154.63,
+      "text": "Seventy-two, you say, and I write seventy-two"
+    },
+    {
+      "t": 154.83,
+      "end": 154.83,
+      "text": "[Bridge - sax solo, then voice over Rhodes]"
+    },
+    {
+      "t": 154.83,
+      "end": 163.91,
+      "text": "Twenty-two Augusts, the same two chairs, the same sand in the cooler"
+    },
+    {
+      "t": 166.11,
+      "end": 174.18,
+      "text": "You send the count off in the morning with my name down as recorder"
+    },
+    {
+      "t": 177.52,
+      "end": 177.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 177.52,
+      "end": 181.36,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 181.6,
+      "end": 187.48,
+      "text": "Sun's coming up behind the badlands now"
+    },
+    {
+      "t": 187.48,
+      "end": 191.6,
+      "text": "Call it, I'll write it down"
+    },
+    {
+      "t": 191.6,
+      "end": 198.88,
+      "text": "Last one, you say, and I believe you every year"
+    },
+    {
+      "t": 198.88,
+      "end": 198.88,
+      "text": "[Outro - falsetto harmonies and Rhodes fade out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

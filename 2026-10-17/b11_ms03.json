@@ -1,0 +1,534 @@
+{
+  "id": "b11_ms03",
+  "title": "Main Je, Uncle",
+  "title_source": "scripted",
+  "genre": "cinematic retro soul-pop",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "smoky, patient and quietly amused",
+  "persona": "",
+  "subject": "a woman piano tuner in Kuala Lumpur called to an old hotel on Jalan Raja Laut whose lobby grand has not been tuned in seven years, who sits on the lobby sofa the evening before and hears the one thing wrong with it: Uncle Stanley, the lobby pianist, has been playing every song around a dead F sharp for seven years; she fits a new string, raises the pitch in two passes, and the next evening waits for his hand to land on the note",
+  "caption": "Cinematic retro soul-pop in the 2020s British soul-revival style, a slow 12/8 soul ballad. A grand piano playing heavy gospel-tinged chords; a string section sweeping in at the chorus with long, rising swells; an open trumpet and a tenor saxophone answering the vocal with short unison phrases and long held notes under the chorus; a warm, round electric bass; live drums with a slow, heavy backbeat and a tambourine on the two and four. Rich, warm analog mix, big room reverb on the strings, voice dry and close. Female contralto vocal, smoky and powerful, restrained and wry in the verses, opening into a full soul belt in the chorus. 72 BPM, C minor. Smoky, patient and quietly amused. No jazz swing, no bossa nova, no trap hi-hats, no synth bass, no autotune, no rap verse.",
+  "lyrics": "[Intro - short solo gospel piano chords]\n\n[Verse 1]\nHotel lama kat Jalan Raja Laut, pukul enam petang\nAku duduk kat sofa lobi, beg alat atas riba\nUncle Stanley main \"Getaran Jiwa\", jari dia masih lembut\nTapi piano tu dah tujuh tahun tak ditala\n\n[Pre-Chorus]\nSatu benda je aku dengar, satu je\nF sharp yang tengah tu, tak pernah sekali dia sentuh\n\n[Chorus]\nTujuh tahun dia main, satu not dia tinggalkan\nTukar kord, lompat oktaf, lagu tetap jalan\nTetamu minum kopi, tak siapa perasan\nCuma aku yang dengar not yang dia tak main\n\n[Verse 2]\nPagi esok aku buka penutup, cari punca\nTali F sharp putus, tergulung bawah penukul\nAku pasang tali baru, tala satu piano dua kali\nGarpu tala ketuk lutut, A empat ratus empat puluh\n\n[Chorus]\nTujuh tahun dia main, satu not dia tinggalkan\nMalam ni not tu dah aku pulangkan\nUncle Stanley duduk, betulkan cermin mata\nTangan kiri dia masih lompat macam dulu\n\n[Bridge - strings swell, horns hold a long chord]\nAku tak cakap apa-apa, duduk balik kat sofa\nLagu ketiga, rangkap akhir, jari dia tersentuh not tu\n\n[Chorus - full belt]\nTujuh tahun dia main, satu not dia tinggalkan\nMain je, Uncle, not tu dah ada\nDia toleh ke sofa, senyum bawah misai\nLepas tu dia tekan lagi, sekali, dua kali, tiga kali\n\n[Outro - piano alone, one last held chord]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 218.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Cinematic retro soul-pop in the 2020s British soul-revival style, a slow 12/8 soul ballad. A grand piano playing heavy gospel-tinged chords; a string section sweeping in at the chorus with long, rising swells; an open trumpet and a tenor saxophone answering the vocal with short unison phrases and long held notes under the chorus; a warm, round electric bass; live drums with a slow, heavy backbeat and a tambourine on the two and four. Rich, warm analog mix, big room reverb on the strings, voice dry and close. Female contralto vocal, smoky and powerful, restrained and wry in the verses, opening into a full soul belt in the chorus. 72 BPM, C minor. Smoky, patient and quietly amused. No jazz swing, no bossa nova, no trap hi-hats, no synth bass, no autotune, no rap verse.",
+    "lyrics": "[Intro - short solo gospel piano chords]\n\n[Verse 1]\nHotel lama kat Jalan Raja Laut, pukul enam petang\nAku duduk kat sofa lobi, beg alat atas riba\nUncle Stanley main \"Getaran Jiwa\", jari dia masih lembut\nTapi piano tu dah tujuh tahun tak ditala\n\n[Pre-Chorus]\nSatu benda je aku dengar, satu je\nF sharp yang tengah tu, tak pernah sekali dia sentuh\n\n[Chorus]\nTujuh tahun dia main, satu not dia tinggalkan\nTukar kord, lompat oktaf, lagu tetap jalan\nTetamu minum kopi, tak siapa perasan\nCuma aku yang dengar not yang dia tak main\n\n[Verse 2]\nPagi esok aku buka penutup, cari punca\nTali F sharp putus, tergulung bawah penukul\nAku pasang tali baru, tala satu piano dua kali\nGarpu tala ketuk lutut, A empat ratus empat puluh\n\n[Chorus]\nTujuh tahun dia main, satu not dia tinggalkan\nMalam ni not tu dah aku pulangkan\nUncle Stanley duduk, betulkan cermin mata\nTangan kiri dia masih lompat macam dulu\n\n[Bridge - strings swell, horns hold a long chord]\nAku tak cakap apa-apa, duduk balik kat sofa\nLagu ketiga, rangkap akhir, jari dia tersentuh not tu\n\n[Chorus - full belt]\nTujuh tahun dia main, satu not dia tinggalkan\nMain je, Uncle, not tu dah ada\nDia toleh ke sofa, senyum bawah misai\nLepas tu dia tekan lagi, sekali, dua kali, tiga kali\n\n[Outro - piano alone, one last held chord]"
+  },
+  "seed": "932298617",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 81.52s**\n- 81.52s per song\n- LM phase (1 song): 16.46s\n- DiT phase (1 song): 65.07s",
+  "task_id": "0ea79340-2f4b-4b91-81c7-4499f1c2d320",
+  "elapsed_s": 110.3,
+  "generated_at": "2026-10-17T21:15:40.767782+08:00",
+  "audio": "b11_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.6,
+      "end": 28.6,
+      "text": "[Intro - short solo gospel piano chords]"
+    },
+    {
+      "t": 28.6,
+      "end": 28.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.6,
+      "end": 32.46,
+      "text": "Hotel lama kat Jalan Raja Laut, pukul enam petang"
+    },
+    {
+      "t": 35.1,
+      "end": 38.84,
+      "text": "Aku duduk kat sofa lobi, beg alat atas riba"
+    },
+    {
+      "t": 38.94,
+      "end": 47.98,
+      "text": "Uncle Stanley main \"Getaran Jiwa\", jari dia masih lembut"
+    },
+    {
+      "t": 48.02,
+      "end": 51.76,
+      "text": "Tapi piano tu dah tujuh tahun tak ditala"
+    },
+    {
+      "t": 54.71,
+      "end": 54.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.71,
+      "end": 61.39,
+      "text": "Satu benda je aku dengar, satu je"
+    },
+    {
+      "t": 61.41,
+      "end": 66.73,
+      "text": "F sharp yang tengah tu, tak pernah sekali dia sentuh"
+    },
+    {
+      "t": 66.73,
+      "end": 66.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.73,
+      "end": 70.53,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 70.53,
+      "end": 73.41,
+      "text": "Tukar kord, lompat oktaf, lagu tetap jalan"
+    },
+    {
+      "t": 73.41,
+      "end": 75.19,
+      "text": "Tetamu minum kopi, tak siapa perasan"
+    },
+    {
+      "t": 75.29,
+      "end": 77.71,
+      "text": "Cuma aku yang dengar not yang dia tak main"
+    },
+    {
+      "t": 77.71,
+      "end": 77.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.71,
+      "end": 79.47,
+      "text": "Pagi esok aku buka penutup, cari punca"
+    },
+    {
+      "t": 79.55,
+      "end": 83.73,
+      "text": "Tali F sharp putus, tergulung bawah penukul"
+    },
+    {
+      "t": 83.73,
+      "end": 85.73,
+      "text": "Aku pasang tali baru, tala satu piano dua kali"
+    },
+    {
+      "t": 85.75,
+      "end": 90.29,
+      "text": "Garpu tala ketuk lutut, A empat ratus empat puluh"
+    },
+    {
+      "t": 90.29,
+      "end": 90.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.29,
+      "end": 93.19,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 93.33,
+      "end": 97.07,
+      "text": "Malam ni not tu dah aku pulangkan"
+    },
+    {
+      "t": 97.07,
+      "end": 101.07,
+      "text": "Uncle Stanley duduk, betulkan cermin mata"
+    },
+    {
+      "t": 102.77,
+      "end": 137.19,
+      "text": "Tangan kiri dia masih lompat macam dulu"
+    },
+    {
+      "t": 141.73,
+      "end": 141.73,
+      "text": "[Bridge - strings swell, horns hold a long chord]"
+    },
+    {
+      "t": 141.73,
+      "end": 145.65,
+      "text": "Aku tak cakap apa-apa, duduk balik kat sofa"
+    },
+    {
+      "t": 145.77,
+      "end": 154.63,
+      "text": "Lagu ketiga, rangkap akhir, jari dia tersentuh not tu"
+    },
+    {
+      "t": 161.05,
+      "end": 161.05,
+      "text": "[Chorus - full belt]"
+    },
+    {
+      "t": 161.05,
+      "end": 168.14,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 168.28,
+      "end": 174.16,
+      "text": "Main je, Uncle, not tu dah ada"
+    },
+    {
+      "t": 182.86,
+      "end": 195.28,
+      "text": "Dia toleh ke sofa, senyum bawah misai"
+    },
+    {
+      "t": 195.48,
+      "end": 204.14,
+      "text": "Lepas tu dia tekan lagi, sekali, dua kali, tiga kali"
+    },
+    {
+      "t": 204.14,
+      "end": 204.14,
+      "text": "[Outro - piano alone, one last held chord]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.6,
+      "end": 28.6,
+      "text": "[Intro - short solo gospel piano chords]"
+    },
+    {
+      "t": 28.6,
+      "end": 28.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.6,
+      "end": 32.46,
+      "text": "Hotel lama kat Jalan Raja Laut, pukul enam petang"
+    },
+    {
+      "t": 35.1,
+      "end": 38.84,
+      "text": "Aku duduk kat sofa lobi, beg alat atas riba"
+    },
+    {
+      "t": 38.94,
+      "end": 47.98,
+      "text": "Uncle Stanley main \"Getaran Jiwa\", jari dia masih lembut"
+    },
+    {
+      "t": 48.02,
+      "end": 51.76,
+      "text": "Tapi piano tu dah tujuh tahun tak ditala"
+    },
+    {
+      "t": 54.71,
+      "end": 54.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.71,
+      "end": 61.39,
+      "text": "Satu benda je aku dengar, satu je"
+    },
+    {
+      "t": 61.41,
+      "end": 66.73,
+      "text": "F sharp yang tengah tu, tak pernah sekali dia sentuh"
+    },
+    {
+      "t": 66.73,
+      "end": 66.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.73,
+      "end": 70.53,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 70.53,
+      "end": 73.41,
+      "text": "Tukar kord, lompat oktaf, lagu tetap jalan"
+    },
+    {
+      "t": 73.41,
+      "end": 75.19,
+      "text": "Tetamu minum kopi, tak siapa perasan"
+    },
+    {
+      "t": 75.29,
+      "end": 77.71,
+      "text": "Cuma aku yang dengar not yang dia tak main"
+    },
+    {
+      "t": 77.71,
+      "end": 77.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.71,
+      "end": 79.47,
+      "text": "Pagi esok aku buka penutup, cari punca"
+    },
+    {
+      "t": 79.55,
+      "end": 83.73,
+      "text": "Tali F sharp putus, tergulung bawah penukul"
+    },
+    {
+      "t": 83.73,
+      "end": 85.73,
+      "text": "Aku pasang tali baru, tala satu piano dua kali"
+    },
+    {
+      "t": 85.75,
+      "end": 90.29,
+      "text": "Garpu tala ketuk lutut, A empat ratus empat puluh"
+    },
+    {
+      "t": 90.29,
+      "end": 90.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.29,
+      "end": 93.19,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 93.33,
+      "end": 97.07,
+      "text": "Malam ni not tu dah aku pulangkan"
+    },
+    {
+      "t": 97.07,
+      "end": 101.07,
+      "text": "Uncle Stanley duduk, betulkan cermin mata"
+    },
+    {
+      "t": 102.77,
+      "end": 137.19,
+      "text": "Tangan kiri dia masih lompat macam dulu"
+    },
+    {
+      "t": 141.73,
+      "end": 141.73,
+      "text": "[Bridge - strings swell, horns hold a long chord]"
+    },
+    {
+      "t": 141.73,
+      "end": 145.65,
+      "text": "Aku tak cakap apa-apa, duduk balik kat sofa"
+    },
+    {
+      "t": 145.77,
+      "end": 154.63,
+      "text": "Lagu ketiga, rangkap akhir, jari dia tersentuh not tu"
+    },
+    {
+      "t": 161.05,
+      "end": 161.05,
+      "text": "[Chorus - full belt]"
+    },
+    {
+      "t": 161.05,
+      "end": 168.14,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 168.28,
+      "end": 174.16,
+      "text": "Main je, Uncle, not tu dah ada"
+    },
+    {
+      "t": 182.86,
+      "end": 195.28,
+      "text": "Dia toleh ke sofa, senyum bawah misai"
+    },
+    {
+      "t": 195.48,
+      "end": 204.14,
+      "text": "Lepas tu dia tekan lagi, sekali, dua kali, tiga kali"
+    },
+    {
+      "t": 204.14,
+      "end": 204.14,
+      "text": "[Outro - piano alone, one last held chord]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 28.58,
+      "end": 28.58,
+      "text": "[Intro - short solo gospel piano chords]"
+    },
+    {
+      "t": 28.58,
+      "end": 28.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.58,
+      "end": 32.52,
+      "text": "Hotel lama kat Jalan Raja Laut, pukul enam petang"
+    },
+    {
+      "t": 35.08,
+      "end": 38.84,
+      "text": "Aku duduk kat sofa lobi, beg alat atas riba"
+    },
+    {
+      "t": 38.84,
+      "end": 47.98,
+      "text": "Uncle Stanley main \"Getaran Jiwa\", jari dia masih lembut"
+    },
+    {
+      "t": 48.02,
+      "end": 51.76,
+      "text": "Tapi piano tu dah tujuh tahun tak ditala"
+    },
+    {
+      "t": 54.71,
+      "end": 54.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.71,
+      "end": 61.41,
+      "text": "Satu benda je aku dengar, satu je"
+    },
+    {
+      "t": 61.41,
+      "end": 68.15,
+      "text": "F sharp yang tengah tu, tak pernah sekali dia sentuh"
+    },
+    {
+      "t": 70.17,
+      "end": 70.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.17,
+      "end": 75.91,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 75.91,
+      "end": 83.61,
+      "text": "Tukar kord, lompat oktaf, lagu tetap jalan"
+    },
+    {
+      "t": 83.67,
+      "end": 86.71,
+      "text": "Tetamu minum kopi, tak siapa perasan"
+    },
+    {
+      "t": 86.71,
+      "end": 94.57,
+      "text": "Cuma aku yang dengar not yang dia tak main"
+    },
+    {
+      "t": 96.63,
+      "end": 96.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.63,
+      "end": 100.67,
+      "text": "Pagi esok aku buka penutup, cari punca"
+    },
+    {
+      "t": 100.91,
+      "end": 116.19,
+      "text": "Tali F sharp putus, tergulung bawah penukul"
+    },
+    {
+      "t": 136.99,
+      "end": 142.89,
+      "text": "Aku pasang tali baru, tala satu piano dua kali"
+    },
+    {
+      "t": 142.91,
+      "end": 151.57,
+      "text": "Garpu tala ketuk lutut, A empat ratus empat puluh"
+    },
+    {
+      "t": 151.57,
+      "end": 151.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.57,
+      "end": 156.55,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 156.55,
+      "end": 164.52,
+      "text": "Malam ni not tu dah aku pulangkan"
+    },
+    {
+      "t": 165.1,
+      "end": 169.8,
+      "text": "Uncle Stanley duduk, betulkan cermin mata"
+    },
+    {
+      "t": 169.84,
+      "end": 190.28,
+      "text": "Tangan kiri dia masih lompat macam dulu"
+    },
+    {
+      "t": 190.36,
+      "end": 190.36,
+      "text": "[Bridge - strings swell, horns hold a long chord]"
+    },
+    {
+      "t": 190.36,
+      "end": 194.72,
+      "text": "Aku tak cakap apa-apa, duduk balik kat sofa"
+    },
+    {
+      "t": 195.64,
+      "end": 200.94,
+      "text": "Lagu ketiga, rangkap akhir, jari dia tersentuh not tu"
+    },
+    {
+      "t": 200.94,
+      "end": 200.94,
+      "text": "[Chorus - full belt]"
+    },
+    {
+      "t": 200.94,
+      "end": 204.4,
+      "text": "Tujuh tahun dia main, satu not dia tinggalkan"
+    },
+    {
+      "t": 204.4,
+      "end": 204.92,
+      "text": "Main je, Uncle, not tu dah ada"
+    },
+    {
+      "t": 204.92,
+      "end": 209.76,
+      "text": "Dia toleh ke sofa, senyum bawah misai"
+    },
+    {
+      "t": 209.78,
+      "end": 217.36,
+      "text": "Lepas tu dia tekan lagi, sekali, dua kali, tiga kali"
+    },
+    {
+      "t": 217.36,
+      "end": 217.36,
+      "text": "[Outro - piano alone, one last held chord]"
+    }
+  ]
+}
