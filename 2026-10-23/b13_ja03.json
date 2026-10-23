@@ -1,0 +1,317 @@
+{
+  "id": "b13_ja03",
+  "title": "ハウスの朝",
+  "title_source": "scripted",
+  "genre": "Japanese Afrobeats pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "warm, unhurried and in love",
+  "persona": "",
+  "subject": "a young couple who grow strawberries in Moka, Tochigi, picking tochiaika in the greenhouse at 5:30 on January mornings; he packs the boxes so she can pick at her own pace, and they split a can of hot oshiruko on the way back from the farm stand",
+  "caption": "Japanese Afrobeats pop, mid-tempo Afrobeats groove sung in Japanese. Clean palm-muted highlife guitar riff, round warm bass, shakers and congas in a syncopated pattern, talking drum fills between lines, soft Rhodes chords. Sunny, spacious mix with a soft low end and an intimate dry vocal. Male baritone-tenor, relaxed and close, gentle melodic delivery, light female harmony on the final chorus. 104 BPM, D major. Warm, unhurried and in love. No amapiano log drum, no trap hi-hats, no autotune, no reggae skank, no EDM synths.",
+  "lyrics": "[Intro - palm-muted highlife guitar, shakers, talking drum]\n\n[Verse 1]\n一月の真岡 朝五時半\nビニールハウスの中だけ 春みたい\n君はしゃがんで とちあいかを摘む\n指先ばっかり 赤くして\n\n[Pre-Chorus]\n曇ったメガネを 袖で拭いて\n君がこっちを 見て笑う\n\n[Chorus]\nゆっくりでいいよ 隣にいるから\nパック詰めは 僕がやるから\nハウスの中は 二十度で\n君がいるから ちょうどいい\n\n[Verse 2]\n昼は軽トラで 直売所まで\n帰りに買うのは 缶のおしるこ\n君は半分 僕にくれて\n残りの半分 両手で持つ\n\n[Pre-Chorus]\n来年の苗の 話をしながら\nハウスの扉 二人で閉める\n\n[Chorus - with female harmony]\nゆっくりでいいよ 隣にいるから\n明日の朝も 五時半だから\n外は氷点下 でも平気\n君がいるから ちょうどいい\n\n[Outro - guitar riff and talking drum, fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Japanese Afrobeats pop, mid-tempo Afrobeats groove sung in Japanese. Clean palm-muted highlife guitar riff, round warm bass, shakers and congas in a syncopated pattern, talking drum fills between lines, soft Rhodes chords. Sunny, spacious mix with a soft low end and an intimate dry vocal. Male baritone-tenor, relaxed and close, gentle melodic delivery, light female harmony on the final chorus. 104 BPM, D major. Warm, unhurried and in love. No amapiano log drum, no trap hi-hats, no autotune, no reggae skank, no EDM synths.",
+    "lyrics": "[Intro - palm-muted highlife guitar, shakers, talking drum]\n\n[Verse 1]\n一月の真岡 朝五時半\nビニールハウスの中だけ 春みたい\n君はしゃがんで とちあいかを摘む\n指先ばっかり 赤くして\n\n[Pre-Chorus]\n曇ったメガネを 袖で拭いて\n君がこっちを 見て笑う\n\n[Chorus]\nゆっくりでいいよ 隣にいるから\nパック詰めは 僕がやるから\nハウスの中は 二十度で\n君がいるから ちょうどいい\n\n[Verse 2]\n昼は軽トラで 直売所まで\n帰りに買うのは 缶のおしるこ\n君は半分 僕にくれて\n残りの半分 両手で持つ\n\n[Pre-Chorus]\n来年の苗の 話をしながら\nハウスの扉 二人で閉める\n\n[Chorus - with female harmony]\nゆっくりでいいよ 隣にいるから\n明日の朝も 五時半だから\n外は氷点下 でも平気\n君がいるから ちょうどいい\n\n[Outro - guitar riff and talking drum, fade]"
+  },
+  "seed": "1177649468",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 69.78s**\n- 69.78s per song\n- LM phase (1 song): 16.68s\n- DiT phase (1 song): 53.09s",
+  "task_id": "898482c8-282b-4026-bf77-da9618d1b905",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-23T18:40:55.457762+08:00",
+  "audio": "b13_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.58,
+      "end": 20.58,
+      "text": "[Intro - palm-muted highlife guitar, shakers, talking drum]"
+    },
+    {
+      "t": 20.58,
+      "end": 20.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.58,
+      "end": 25.04,
+      "text": "一月の真岡 朝五時半"
+    },
+    {
+      "t": 29.8,
+      "end": 34.28,
+      "text": "ビニールハウスの中だけ 春みたい"
+    },
+    {
+      "t": 35.58,
+      "end": 43.48,
+      "text": "君はしゃがんで とちあいかを摘む"
+    },
+    {
+      "t": 43.7,
+      "end": 51.27,
+      "text": "指先ばっかり 赤くして"
+    },
+    {
+      "t": 51.43,
+      "end": 51.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.43,
+      "end": 54.15,
+      "text": "曇ったメガネを 袖で拭いて"
+    },
+    {
+      "t": 54.33,
+      "end": 59.33,
+      "text": "君がこっちを 見て笑う"
+    },
+    {
+      "t": 59.35,
+      "end": 59.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.35,
+      "end": 61.69,
+      "text": "ゆっくりでいいよ 隣にいるから"
+    },
+    {
+      "t": 63.29,
+      "end": 66.73,
+      "text": "パック詰めは 僕がやるから"
+    },
+    {
+      "t": 66.87,
+      "end": 70.03,
+      "text": "ハウスの中は 二十度で"
+    },
+    {
+      "t": 70.21,
+      "end": 87.03,
+      "text": "君がいるから ちょうどいい"
+    },
+    {
+      "t": 87.21,
+      "end": 87.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.21,
+      "end": 91.41,
+      "text": "昼は軽トラで 直売所まで"
+    },
+    {
+      "t": 92.41,
+      "end": 95.97,
+      "text": "帰りに買うのは 缶のおしるこ"
+    },
+    {
+      "t": 96.99,
+      "end": 100.61,
+      "text": "君は半分 僕にくれて"
+    },
+    {
+      "t": 99.03,
+      "end": 102.77,
+      "text": "残りの半分 両手で持つ"
+    },
+    {
+      "t": 102.03,
+      "end": 102.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.03,
+      "end": 105.97,
+      "text": "来年の苗の 話をしながら"
+    },
+    {
+      "t": 105.99,
+      "end": 108.85,
+      "text": "ハウスの扉 二人で閉める"
+    },
+    {
+      "t": 108.85,
+      "end": 108.85,
+      "text": "[Chorus - with female harmony]"
+    },
+    {
+      "t": 108.85,
+      "end": 112.89,
+      "text": "ゆっくりでいいよ 隣にいるから"
+    },
+    {
+      "t": 113.57,
+      "end": 117.35,
+      "text": "明日の朝も 五時半だから"
+    },
+    {
+      "t": 117.45,
+      "end": 143.27,
+      "text": "外は氷点下 でも平気"
+    },
+    {
+      "t": 146.65,
+      "end": 165.64,
+      "text": "君がいるから ちょうどいい"
+    },
+    {
+      "t": 165.64,
+      "end": 165.64,
+      "text": "[Outro - guitar riff and talking drum, fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.76,
+      "end": 20.76,
+      "text": "[Intro - palm-muted highlife guitar, shakers, talking drum]"
+    },
+    {
+      "t": 20.76,
+      "end": 20.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.76,
+      "end": 25.02,
+      "text": "一月の真岡 朝五時半"
+    },
+    {
+      "t": 29.8,
+      "end": 34.28,
+      "text": "ビニールハウスの中だけ 春みたい"
+    },
+    {
+      "t": 39.04,
+      "end": 42.92,
+      "text": "君はしゃがんで とちあいかを摘む"
+    },
+    {
+      "t": 43.08,
+      "end": 50.71,
+      "text": "指先ばっかり 赤くして"
+    },
+    {
+      "t": 51.15,
+      "end": 51.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.15,
+      "end": 55.03,
+      "text": "曇ったメガネを 袖で拭いて"
+    },
+    {
+      "t": 55.13,
+      "end": 59.07,
+      "text": "君がこっちを 見て笑う"
+    },
+    {
+      "t": 59.07,
+      "end": 59.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.07,
+      "end": 61.69,
+      "text": "ゆっくりでいいよ 隣にいるから"
+    },
+    {
+      "t": 63.27,
+      "end": 66.75,
+      "text": "パック詰めは 僕がやるから"
+    },
+    {
+      "t": 68.47,
+      "end": 69.47,
+      "text": "ハウスの中は 二十度で"
+    },
+    {
+      "t": 69.61,
+      "end": 83.87,
+      "text": "君がいるから ちょうどいい"
+    },
+    {
+      "t": 84.03,
+      "end": 84.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.03,
+      "end": 91.41,
+      "text": "昼は軽トラで 直売所まで"
+    },
+    {
+      "t": 92.41,
+      "end": 95.95,
+      "text": "帰りに買うのは 缶のおしるこ"
+    },
+    {
+      "t": 96.99,
+      "end": 99.03,
+      "text": "君は半分 僕にくれて"
+    },
+    {
+      "t": 99.03,
+      "end": 102.77,
+      "text": "残りの半分 両手で持つ"
+    },
+    {
+      "t": 102.81,
+      "end": 102.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.81,
+      "end": 106.87,
+      "text": "来年の苗の 話をしながら"
+    },
+    {
+      "t": 106.87,
+      "end": 108.29,
+      "text": "ハウスの扉 二人で閉める"
+    },
+    {
+      "t": 108.37,
+      "end": 108.37,
+      "text": "[Chorus - with female harmony]"
+    },
+    {
+      "t": 108.37,
+      "end": 112.91,
+      "text": "ゆっくりでいいよ 隣にいるから"
+    },
+    {
+      "t": 112.91,
+      "end": 117.37,
+      "text": "明日の朝も 五時半だから"
+    },
+    {
+      "t": 117.83,
+      "end": 146.55,
+      "text": "外は氷点下 でも平気"
+    },
+    {
+      "t": 150.68,
+      "end": 165.7,
+      "text": "君がいるから ちょうどいい"
+    },
+    {
+      "t": 165.7,
+      "end": 165.7,
+      "text": "[Outro - guitar riff and talking drum, fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

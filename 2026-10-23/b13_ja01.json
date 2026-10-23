@@ -1,0 +1,579 @@
+{
+  "id": "b13_ja01",
+  "title": "トング係",
+  "title_source": "scripted",
+  "genre": "Japanese nu-disco dance-pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "flustered, eager and finally triumphant, a workplace comedy you can dance to",
+  "persona": "",
+  "subject": "a new hire at her first welcome party (歓迎会) at a yakiniku restaurant, handed the tongs by her section chief and put in charge of grilling for the whole table of eight, juggling who wants their meat rare, the burning tare and the chief's order of tongue first",
+  "caption": "Japanese nu-disco dance-pop, mid-2020s disco revival in the vein of J-pop meets UK dance producers. Octave-jumping slap bass, choppy clean funk rhythm guitar, filtered string stabs that open up on the chorus, four-on-the-floor kick with open hi-hats and stacked handclaps. Glossy, wide mix with punchy compressed kick and dry upfront vocal. Bright female mid-high vocal, a little flustered, lifting into falsetto on the chorus, male backing vocals answering. 120 BPM, A minor. Flustered, eager and finally triumphant workplace comedy. No trap hi-hats, no EDM drop, no autotune, no rock guitars, no ballad slowdown.",
+  "lyrics": "[Intro - slap bass, filtered strings, four-on-the-floor kick]\n\n[Verse 1]\n入社して五日目 私の歓迎会\n座敷の八人 網がふたつ\n乾杯のあとで 課長が言った\n「主役が焼くのが うちの伝統」\n\n[Pre-Chorus]\nトング渡され 手が震える\nタンからだよね 塩からだよね\n\n[Chorus]\n焼いて 焼いて 返して 返して\n部長はレアで 先輩はよく焼き\n新人なのに トング係\n煙の中で 踊ってる\n\n[Verse 2]\nカルビの脂で 炎が上がる\n氷ひとつ 置けばいいって 隣の人\nハラミが網に くっついて\n「それ俺の」って 三人が言う\n\n[Pre-Chorus]\n自分の皿は まだ真っ白\nでもなんだか 笑えてくる\n\n[Chorus]\n焼いて 焼いて 返して 返して\n部長はレアで 課長は塩だけ\n新人なのに トング係\nみんなの顔が 見えてくる\n\n[Bridge - bass and handclaps only]\n最後のロース 自分の皿に\n課長が黙って 置いてくれた\n\n[Chorus]\n焼けた 焼けた 全部焼けた\n部長も課長も 「うまい」って言った\n来年もやるよ トング係\n髪まで焼肉の においでも\n\n[Outro - strings swell, bass solo, fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Japanese nu-disco dance-pop, mid-2020s disco revival in the vein of J-pop meets UK dance producers. Octave-jumping slap bass, choppy clean funk rhythm guitar, filtered string stabs that open up on the chorus, four-on-the-floor kick with open hi-hats and stacked handclaps. Glossy, wide mix with punchy compressed kick and dry upfront vocal. Bright female mid-high vocal, a little flustered, lifting into falsetto on the chorus, male backing vocals answering. 120 BPM, A minor. Flustered, eager and finally triumphant workplace comedy. No trap hi-hats, no EDM drop, no autotune, no rock guitars, no ballad slowdown.",
+    "lyrics": "[Intro - slap bass, filtered strings, four-on-the-floor kick]\n\n[Verse 1]\n入社して五日目 私の歓迎会\n座敷の八人 網がふたつ\n乾杯のあとで 課長が言った\n「主役が焼くのが うちの伝統」\n\n[Pre-Chorus]\nトング渡され 手が震える\nタンからだよね 塩からだよね\n\n[Chorus]\n焼いて 焼いて 返して 返して\n部長はレアで 先輩はよく焼き\n新人なのに トング係\n煙の中で 踊ってる\n\n[Verse 2]\nカルビの脂で 炎が上がる\n氷ひとつ 置けばいいって 隣の人\nハラミが網に くっついて\n「それ俺の」って 三人が言う\n\n[Pre-Chorus]\n自分の皿は まだ真っ白\nでもなんだか 笑えてくる\n\n[Chorus]\n焼いて 焼いて 返して 返して\n部長はレアで 課長は塩だけ\n新人なのに トング係\nみんなの顔が 見えてくる\n\n[Bridge - bass and handclaps only]\n最後のロース 自分の皿に\n課長が黙って 置いてくれた\n\n[Chorus]\n焼けた 焼けた 全部焼けた\n部長も課長も 「うまい」って言った\n来年もやるよ トング係\n髪まで焼肉の においでも\n\n[Outro - strings swell, bass solo, fade]"
+  },
+  "seed": "4273347149",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.76s**\n- 64.76s per song\n- LM phase (1 song): 11.14s\n- DiT phase (1 song): 53.62s",
+  "task_id": "df0489a9-ba84-4cd9-b61f-7e730658acff",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-23T18:38:04.720261+08:00",
+  "audio": "b13_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.86,
+      "end": 33.86,
+      "text": "[Intro - slap bass, filtered strings, four-on-the-floor kick]"
+    },
+    {
+      "t": 33.86,
+      "end": 33.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.86,
+      "end": 42.26,
+      "text": "入社して五日目 私の歓迎会"
+    },
+    {
+      "t": 42.44,
+      "end": 45.72,
+      "text": "座敷の八人 網がふたつ"
+    },
+    {
+      "t": 45.72,
+      "end": 47.54,
+      "text": "乾杯のあとで 課長が言った"
+    },
+    {
+      "t": 48.42,
+      "end": 59.03,
+      "text": "「主役が焼くのが うちの伝統」"
+    },
+    {
+      "t": 59.03,
+      "end": 59.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.03,
+      "end": 60.79,
+      "text": "トング渡され 手が震える"
+    },
+    {
+      "t": 61.43,
+      "end": 67.55,
+      "text": "タンからだよね 塩からだよね"
+    },
+    {
+      "t": 67.71,
+      "end": 67.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.71,
+      "end": 69.55,
+      "text": "焼いて 焼いて 返して 返して"
+    },
+    {
+      "t": 69.61,
+      "end": 70.75,
+      "text": "部長はレアで 先輩はよく焼き"
+    },
+    {
+      "t": 70.75,
+      "end": 74.21,
+      "text": "新人なのに トング係"
+    },
+    {
+      "t": 74.21,
+      "end": 76.43,
+      "text": "煙の中で 踊ってる"
+    },
+    {
+      "t": 76.69,
+      "end": 76.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.69,
+      "end": 81.81,
+      "text": "カルビの脂で 炎が上がる"
+    },
+    {
+      "t": 81.83,
+      "end": 83.19,
+      "text": "氷ひとつ 置けばいいって 隣の人"
+    },
+    {
+      "t": 83.19,
+      "end": 84.31,
+      "text": "ハラミが網に くっついて"
+    },
+    {
+      "t": 84.33,
+      "end": 85.93,
+      "text": "「それ俺の」って 三人が言う"
+    },
+    {
+      "t": 85.95,
+      "end": 85.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 85.95,
+      "end": 87.97,
+      "text": "自分の皿は まだ真っ白"
+    },
+    {
+      "t": 87.97,
+      "end": 89.81,
+      "text": "でもなんだか 笑えてくる"
+    },
+    {
+      "t": 89.99,
+      "end": 89.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.99,
+      "end": 96.05,
+      "text": "焼いて 焼いて 返して 返して"
+    },
+    {
+      "t": 96.45,
+      "end": 100.05,
+      "text": "部長はレアで 課長は塩だけ"
+    },
+    {
+      "t": 100.41,
+      "end": 102.37,
+      "text": "新人なのに トング係"
+    },
+    {
+      "t": 102.45,
+      "end": 106.31,
+      "text": "みんなの顔が 見えてくる"
+    },
+    {
+      "t": 108.67,
+      "end": 108.67,
+      "text": "[Bridge - bass and handclaps only]"
+    },
+    {
+      "t": 108.67,
+      "end": 121.09,
+      "text": "最後のロース 自分の皿に"
+    },
+    {
+      "t": 124.35,
+      "end": 128.39,
+      "text": "課長が黙って 置いてくれた"
+    },
+    {
+      "t": 128.39,
+      "end": 128.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.39,
+      "end": 149.45,
+      "text": "焼けた 焼けた 全部焼けた"
+    },
+    {
+      "t": 149.49,
+      "end": 151.49,
+      "text": "部長も課長も 「うまい」って言った"
+    },
+    {
+      "t": 153.63,
+      "end": 157.0,
+      "text": "来年もやるよ トング係"
+    },
+    {
+      "t": 157.12,
+      "end": 163.52,
+      "text": "髪まで焼肉の においでも"
+    },
+    {
+      "t": 163.52,
+      "end": 163.52,
+      "text": "[Outro - strings swell, bass solo, fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.86,
+      "end": 33.86,
+      "text": "[Intro - slap bass, filtered strings, four-on-the-floor kick]"
+    },
+    {
+      "t": 33.86,
+      "end": 33.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.86,
+      "end": 42.26,
+      "text": "入社して五日目 私の歓迎会"
+    },
+    {
+      "t": 42.44,
+      "end": 45.72,
+      "text": "座敷の八人 網がふたつ"
+    },
+    {
+      "t": 45.72,
+      "end": 47.54,
+      "text": "乾杯のあとで 課長が言った"
+    },
+    {
+      "t": 48.42,
+      "end": 59.03,
+      "text": "「主役が焼くのが うちの伝統」"
+    },
+    {
+      "t": 59.03,
+      "end": 59.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.03,
+      "end": 60.79,
+      "text": "トング渡され 手が震える"
+    },
+    {
+      "t": 61.43,
+      "end": 67.55,
+      "text": "タンからだよね 塩からだよね"
+    },
+    {
+      "t": 67.71,
+      "end": 67.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.71,
+      "end": 69.55,
+      "text": "焼いて 焼いて 返して 返して"
+    },
+    {
+      "t": 69.61,
+      "end": 70.75,
+      "text": "部長はレアで 先輩はよく焼き"
+    },
+    {
+      "t": 70.75,
+      "end": 74.21,
+      "text": "新人なのに トング係"
+    },
+    {
+      "t": 74.21,
+      "end": 76.43,
+      "text": "煙の中で 踊ってる"
+    },
+    {
+      "t": 76.69,
+      "end": 76.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.69,
+      "end": 81.81,
+      "text": "カルビの脂で 炎が上がる"
+    },
+    {
+      "t": 81.83,
+      "end": 83.19,
+      "text": "氷ひとつ 置けばいいって 隣の人"
+    },
+    {
+      "t": 83.19,
+      "end": 84.31,
+      "text": "ハラミが網に くっついて"
+    },
+    {
+      "t": 84.33,
+      "end": 85.93,
+      "text": "「それ俺の」って 三人が言う"
+    },
+    {
+      "t": 85.95,
+      "end": 85.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 85.95,
+      "end": 87.97,
+      "text": "自分の皿は まだ真っ白"
+    },
+    {
+      "t": 87.97,
+      "end": 89.81,
+      "text": "でもなんだか 笑えてくる"
+    },
+    {
+      "t": 89.99,
+      "end": 89.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.99,
+      "end": 96.05,
+      "text": "焼いて 焼いて 返して 返して"
+    },
+    {
+      "t": 96.45,
+      "end": 100.05,
+      "text": "部長はレアで 課長は塩だけ"
+    },
+    {
+      "t": 100.41,
+      "end": 102.37,
+      "text": "新人なのに トング係"
+    },
+    {
+      "t": 102.45,
+      "end": 106.31,
+      "text": "みんなの顔が 見えてくる"
+    },
+    {
+      "t": 108.67,
+      "end": 108.67,
+      "text": "[Bridge - bass and handclaps only]"
+    },
+    {
+      "t": 108.67,
+      "end": 121.09,
+      "text": "最後のロース 自分の皿に"
+    },
+    {
+      "t": 124.35,
+      "end": 128.39,
+      "text": "課長が黙って 置いてくれた"
+    },
+    {
+      "t": 128.39,
+      "end": 128.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.39,
+      "end": 149.45,
+      "text": "焼けた 焼けた 全部焼けた"
+    },
+    {
+      "t": 149.49,
+      "end": 151.49,
+      "text": "部長も課長も 「うまい」って言った"
+    },
+    {
+      "t": 153.63,
+      "end": 157.0,
+      "text": "来年もやるよ トング係"
+    },
+    {
+      "t": 157.12,
+      "end": 163.52,
+      "text": "髪まで焼肉の においでも"
+    },
+    {
+      "t": 163.52,
+      "end": 163.52,
+      "text": "[Outro - strings swell, bass solo, fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 1.48,
+      "end": 1.48,
+      "text": "[Intro - slap bass, filtered strings, four-on-the-floor kick]"
+    },
+    {
+      "t": 1.48,
+      "end": 1.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.48,
+      "end": 5.04,
+      "text": "入社して五日目 私の歓迎会"
+    },
+    {
+      "t": 5.3,
+      "end": 8.92,
+      "text": "座敷の八人 網がふたつ"
+    },
+    {
+      "t": 9.1,
+      "end": 12.84,
+      "text": "乾杯のあとで 課長が言った"
+    },
+    {
+      "t": 12.98,
+      "end": 20.54,
+      "text": "「主役が焼くのが うちの伝統」"
+    },
+    {
+      "t": 20.54,
+      "end": 20.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 20.54,
+      "end": 26.6,
+      "text": "トング渡され 手が震える"
+    },
+    {
+      "t": 26.74,
+      "end": 31.98,
+      "text": "タンからだよね 塩からだよね"
+    },
+    {
+      "t": 33.62,
+      "end": 33.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 33.62,
+      "end": 37.26,
+      "text": "焼いて 焼いて 返して 返して"
+    },
+    {
+      "t": 37.66,
+      "end": 45.28,
+      "text": "部長はレアで 先輩はよく焼き"
+    },
+    {
+      "t": 45.66,
+      "end": 58.05,
+      "text": "新人なのに トング係"
+    },
+    {
+      "t": 58.43,
+      "end": 60.81,
+      "text": "煙の中で 踊ってる"
+    },
+    {
+      "t": 61.43,
+      "end": 61.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.43,
+      "end": 64.83,
+      "text": "カルビの脂で 炎が上がる"
+    },
+    {
+      "t": 65.73,
+      "end": 69.23,
+      "text": "氷ひとつ 置けばいいって 隣の人"
+    },
+    {
+      "t": 69.39,
+      "end": 73.57,
+      "text": "ハラミが網に くっついて"
+    },
+    {
+      "t": 74.17,
+      "end": 77.31,
+      "text": "「それ俺の」って 三人が言う"
+    },
+    {
+      "t": 77.69,
+      "end": 77.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.69,
+      "end": 85.55,
+      "text": "自分の皿は まだ真っ白"
+    },
+    {
+      "t": 85.71,
+      "end": 89.81,
+      "text": "でもなんだか 笑えてくる"
+    },
+    {
+      "t": 92.07,
+      "end": 92.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.07,
+      "end": 96.05,
+      "text": "焼いて 焼いて 返して 返して"
+    },
+    {
+      "t": 96.43,
+      "end": 100.05,
+      "text": "部長はレアで 課長は塩だけ"
+    },
+    {
+      "t": 100.41,
+      "end": 102.21,
+      "text": "新人なのに トング係"
+    },
+    {
+      "t": 102.45,
+      "end": 106.31,
+      "text": "みんなの顔が 見えてくる"
+    },
+    {
+      "t": 108.67,
+      "end": 108.67,
+      "text": "[Bridge - bass and handclaps only]"
+    },
+    {
+      "t": 108.67,
+      "end": 121.07,
+      "text": "最後のロース 自分の皿に"
+    },
+    {
+      "t": 124.35,
+      "end": 145.45,
+      "text": "課長が黙って 置いてくれた"
+    },
+    {
+      "t": 146.09,
+      "end": 146.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.09,
+      "end": 158.98,
+      "text": "焼けた 焼けた 全部焼けた"
+    },
+    {
+      "t": 159.14,
+      "end": 178.84,
+      "text": "部長も課長も 「うまい」って言った"
+    },
+    {
+      "t": 178.9,
+      "end": 190.66,
+      "text": "来年もやるよ トング係"
+    },
+    {
+      "t": 190.78,
+      "end": 199.78,
+      "text": "髪まで焼肉の においでも"
+    },
+    {
+      "t": 199.78,
+      "end": 199.78,
+      "text": "[Outro - strings swell, bass solo, fade]"
+    }
+  ]
+}

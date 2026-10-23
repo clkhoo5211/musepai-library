@@ -1,0 +1,317 @@
+{
+  "id": "b13_ja05",
+  "title": "挟まれたもみじ",
+  "title_source": "scripted",
+  "genre": "Japanese 70s-style piano soft-rock pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "quiet, curious and gently amused",
+  "persona": "",
+  "subject": "a ward library staffer in November who keeps finding a pressed maple leaf inside different returned books each week, is not allowed to check the borrowing records to find out who, and one morning tucks a ginkgo leaf into the book as a reply",
+  "caption": "Japanese 70s-style piano soft-rock pop, the retro piano-led singer-songwriter sound revived by current J-pop stars. Warm upright piano with rolling chords, soft Wurlitzer fills, round fingered bass, brushed drums, a light warm string section on the last chorus. Warm analog 1970s-style studio sound, roomy piano, tape warmth. Female alto, soft and conversational, close-miked, a slight smile in the delivery. 84 BPM, E-flat major. Quiet, curious and gently amused. No EDM, no trap beat, no autotune, no power ballad belting, no distorted guitar.",
+  "lyrics": "[Intro - solo upright piano, rolling chords]\n\n[Verse 1]\n返却ポストを 開けるのは 朝九時\n十一月の 区立図書館\n返ってきた 詩集のあいだに\n押し葉のもみじ 一枚\n\n[Pre-Chorus]\n落とし物の 箱に入れるか\n迷って ページを閉じた\n\n[Chorus]\n誰ですか 先週も 挟んだのは\n旅行記にも 料理の本にも\n私は棚に 戻すだけ\nひとつも抜かずに 戻すだけ\n\n[Verse 2]\nカウンター越しに 顔を見ても\nみんな同じ 冬の手袋\n貸出記録は 見ちゃいけない\nそれが仕事の 決まりだから\n\n[Pre-Chorus]\nだから今朝は イチョウを一枚\n返事のつもりで 挟んでおいた\n\n[Chorus - strings enter]\n誰ですか 気づいたら 笑ってください\n黄色いのは 私からです\n次の木曜 返ってきた本に\nもみじがふたつ 入ってた\n\n[Outro - piano alone, ritardando]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Japanese 70s-style piano soft-rock pop, the retro piano-led singer-songwriter sound revived by current J-pop stars. Warm upright piano with rolling chords, soft Wurlitzer fills, round fingered bass, brushed drums, a light warm string section on the last chorus. Warm analog 1970s-style studio sound, roomy piano, tape warmth. Female alto, soft and conversational, close-miked, a slight smile in the delivery. 84 BPM, E-flat major. Quiet, curious and gently amused. No EDM, no trap beat, no autotune, no power ballad belting, no distorted guitar.",
+    "lyrics": "[Intro - solo upright piano, rolling chords]\n\n[Verse 1]\n返却ポストを 開けるのは 朝九時\n十一月の 区立図書館\n返ってきた 詩集のあいだに\n押し葉のもみじ 一枚\n\n[Pre-Chorus]\n落とし物の 箱に入れるか\n迷って ページを閉じた\n\n[Chorus]\n誰ですか 先週も 挟んだのは\n旅行記にも 料理の本にも\n私は棚に 戻すだけ\nひとつも抜かずに 戻すだけ\n\n[Verse 2]\nカウンター越しに 顔を見ても\nみんな同じ 冬の手袋\n貸出記録は 見ちゃいけない\nそれが仕事の 決まりだから\n\n[Pre-Chorus]\nだから今朝は イチョウを一枚\n返事のつもりで 挟んでおいた\n\n[Chorus - strings enter]\n誰ですか 気づいたら 笑ってください\n黄色いのは 私からです\n次の木曜 返ってきた本に\nもみじがふたつ 入ってた\n\n[Outro - piano alone, ritardando]"
+  },
+  "seed": "1339357321",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.15s**\n- 68.15s per song\n- LM phase (1 song): 13.94s\n- DiT phase (1 song): 54.21s",
+  "task_id": "01b74cdb-44a5-49e8-9a8c-3e565396fb4e",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-23T18:43:55.689764+08:00",
+  "audio": "b13_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Intro - solo upright piano, rolling chords]"
+    },
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.18,
+      "end": 31.82,
+      "text": "返却ポストを 開けるのは 朝九時"
+    },
+    {
+      "t": 31.92,
+      "end": 32.88,
+      "text": "十一月の 区立図書館"
+    },
+    {
+      "t": 35.62,
+      "end": 38.5,
+      "text": "返ってきた 詩集のあいだに"
+    },
+    {
+      "t": 41.34,
+      "end": 51.6,
+      "text": "押し葉のもみじ 一枚"
+    },
+    {
+      "t": 53.15,
+      "end": 53.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.15,
+      "end": 57.57,
+      "text": "落とし物の 箱に入れるか"
+    },
+    {
+      "t": 58.83,
+      "end": 64.67,
+      "text": "迷って ページを閉じた"
+    },
+    {
+      "t": 64.75,
+      "end": 64.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.75,
+      "end": 69.23,
+      "text": "誰ですか 先週も 挟んだのは"
+    },
+    {
+      "t": 70.67,
+      "end": 76.89,
+      "text": "旅行記にも 料理の本にも"
+    },
+    {
+      "t": 77.33,
+      "end": 83.27,
+      "text": "私は棚に 戻すだけ"
+    },
+    {
+      "t": 87.13,
+      "end": 91.99,
+      "text": "ひとつも抜かずに 戻すだけ"
+    },
+    {
+      "t": 94.91,
+      "end": 94.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.91,
+      "end": 98.27,
+      "text": "カウンター越しに 顔を見ても"
+    },
+    {
+      "t": 100.63,
+      "end": 103.25,
+      "text": "みんな同じ 冬の手袋"
+    },
+    {
+      "t": 103.35,
+      "end": 109.47,
+      "text": "貸出記録は 見ちゃいけない"
+    },
+    {
+      "t": 111.25,
+      "end": 114.85,
+      "text": "それが仕事の 決まりだから"
+    },
+    {
+      "t": 116.63,
+      "end": 116.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 116.63,
+      "end": 121.71,
+      "text": "だから今朝は イチョウを一枚"
+    },
+    {
+      "t": 122.33,
+      "end": 133.11,
+      "text": "返事のつもりで 挟んでおいた"
+    },
+    {
+      "t": 133.21,
+      "end": 133.21,
+      "text": "[Chorus - strings enter]"
+    },
+    {
+      "t": 133.21,
+      "end": 137.29,
+      "text": "誰ですか 気づいたら 笑ってください"
+    },
+    {
+      "t": 139.21,
+      "end": 154.21,
+      "text": "黄色いのは 私からです"
+    },
+    {
+      "t": 154.29,
+      "end": 157.82,
+      "text": "次の木曜 返ってきた本に"
+    },
+    {
+      "t": 160.54,
+      "end": 164.86,
+      "text": "もみじがふたつ 入ってた"
+    },
+    {
+      "t": 164.86,
+      "end": 164.86,
+      "text": "[Outro - piano alone, ritardando]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Intro - solo upright piano, rolling chords]"
+    },
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.18,
+      "end": 32.52,
+      "text": "返却ポストを 開けるのは 朝九時"
+    },
+    {
+      "t": 35.6,
+      "end": 37.92,
+      "text": "十一月の 区立図書館"
+    },
+    {
+      "t": 38.0,
+      "end": 43.96,
+      "text": "返ってきた 詩集のあいだに"
+    },
+    {
+      "t": 48.1,
+      "end": 51.6,
+      "text": "押し葉のもみじ 一枚"
+    },
+    {
+      "t": 52.22,
+      "end": 52.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.22,
+      "end": 57.57,
+      "text": "落とし物の 箱に入れるか"
+    },
+    {
+      "t": 58.83,
+      "end": 63.13,
+      "text": "迷って ページを閉じた"
+    },
+    {
+      "t": 64.53,
+      "end": 64.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.53,
+      "end": 69.25,
+      "text": "誰ですか 先週も 挟んだのは"
+    },
+    {
+      "t": 70.65,
+      "end": 76.89,
+      "text": "旅行記にも 料理の本にも"
+    },
+    {
+      "t": 77.33,
+      "end": 83.29,
+      "text": "私は棚に 戻すだけ"
+    },
+    {
+      "t": 87.13,
+      "end": 91.99,
+      "text": "ひとつも抜かずに 戻すだけ"
+    },
+    {
+      "t": 94.93,
+      "end": 94.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.93,
+      "end": 97.71,
+      "text": "カウンター越しに 顔を見ても"
+    },
+    {
+      "t": 97.77,
+      "end": 102.77,
+      "text": "みんな同じ 冬の手袋"
+    },
+    {
+      "t": 102.87,
+      "end": 109.47,
+      "text": "貸出記録は 見ちゃいけない"
+    },
+    {
+      "t": 111.25,
+      "end": 114.85,
+      "text": "それが仕事の 決まりだから"
+    },
+    {
+      "t": 116.61,
+      "end": 116.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 116.61,
+      "end": 121.73,
+      "text": "だから今朝は イチョウを一枚"
+    },
+    {
+      "t": 122.33,
+      "end": 128.87,
+      "text": "返事のつもりで 挟んでおいた"
+    },
+    {
+      "t": 129.85,
+      "end": 129.85,
+      "text": "[Chorus - strings enter]"
+    },
+    {
+      "t": 129.85,
+      "end": 137.31,
+      "text": "誰ですか 気づいたら 笑ってください"
+    },
+    {
+      "t": 145.09,
+      "end": 154.21,
+      "text": "黄色いのは 私からです"
+    },
+    {
+      "t": 154.29,
+      "end": 157.82,
+      "text": "次の木曜 返ってきた本に"
+    },
+    {
+      "t": 160.54,
+      "end": 164.86,
+      "text": "もみじがふたつ 入ってた"
+    },
+    {
+      "t": 164.86,
+      "end": 164.86,
+      "text": "[Outro - piano alone, ritardando]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

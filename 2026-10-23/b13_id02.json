@@ -1,0 +1,579 @@
+{
+  "id": "b13_id02",
+  "title": "Pesanan Kopi Lantai Tujuh",
+  "title_source": "scripted",
+  "genre": "Malang twinkle midwest emo",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "jittery, self-mocking, quietly proud",
+  "persona": "",
+  "subject": "a first-job intern on the seventh floor of a Jakarta office whose only task for three weeks is photocopying, until his supervisor finally trusts him to take and place the whole office's afternoon coffee order",
+  "caption": "Malang twinkle midwest emo with math-rock guitar work. Two clean, bright electric guitars tapping interlocking arpeggios in odd phrasing, a melodic picked bass moving under them, a busy and tight drum kit with snare rolls and open hats, a short muted trumpet line in the bridge. Dry live-room recording with slight tape hiss and no polish. Earnest male mid-range vocal that cracks into strained shouts on the chorus, gang vocals on the last chorus. 152 BPM, E major. Jittery, self-mocking and quietly proud. No pop-punk power chords chugging, no screamo, no autotune, no synths, no stadium reverb.",
+  "lyrics": "[Intro - twinkly tapped guitars, drums crash in]\n\n[Verse 1]\nMinggu pertama aku fotokopi\nMinggu kedua aku fotokopi\nMesinnya macet, aku yang dimarahi\nKertasnya hangat, cuma dia temanku\n\n[Pre-Chorus]\nMbak Sari bilang sabar itu proses\nAku bilang toner juga\n\n[Chorus]\nTekan lagi, tekan lagi\nSeratus lembar, bolak-balik, rangkap tiga\nTiga minggu aku di pojok sini\nNggak ada yang tahu namaku\n\n[Verse 2]\nJumat sore, jam tiga lewat\nMbak Sari panggil, kasih aku ponsel\nKamu yang pesan kopi buat semua\nAku tulis nama kayak tanda tangan kontrak\n\n[Pre-Chorus]\nPak Budi less sugar, Mbak Sari oat\nSatu lagi buat aku, boleh, katanya\n\n[Chorus]\nTulis lagi, tulis lagi\nDua belas gelas, nggak ada yang salah\nTiga minggu aku di pojok sini\nHari ini semua tahu namaku\n\n[Bridge - bass and trumpet, half-time]\nNggak ada yang tepuk tangan\nCuma Pak Budi bilang, pas manisnya\n\n[Chorus - gang vocals]\nTekan lagi, tekan lagi\nSenin pagi aku fotokopi lagi\nTiga minggu aku di pojok sini\nTapi kopi hari ini aku yang pesan\n\n[Outro - guitars tapping alone, ends on one chord]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Malang twinkle midwest emo with math-rock guitar work. Two clean, bright electric guitars tapping interlocking arpeggios in odd phrasing, a melodic picked bass moving under them, a busy and tight drum kit with snare rolls and open hats, a short muted trumpet line in the bridge. Dry live-room recording with slight tape hiss and no polish. Earnest male mid-range vocal that cracks into strained shouts on the chorus, gang vocals on the last chorus. 152 BPM, E major. Jittery, self-mocking and quietly proud. No pop-punk power chords chugging, no screamo, no autotune, no synths, no stadium reverb.",
+    "lyrics": "[Intro - twinkly tapped guitars, drums crash in]\n\n[Verse 1]\nMinggu pertama aku fotokopi\nMinggu kedua aku fotokopi\nMesinnya macet, aku yang dimarahi\nKertasnya hangat, cuma dia temanku\n\n[Pre-Chorus]\nMbak Sari bilang sabar itu proses\nAku bilang toner juga\n\n[Chorus]\nTekan lagi, tekan lagi\nSeratus lembar, bolak-balik, rangkap tiga\nTiga minggu aku di pojok sini\nNggak ada yang tahu namaku\n\n[Verse 2]\nJumat sore, jam tiga lewat\nMbak Sari panggil, kasih aku ponsel\nKamu yang pesan kopi buat semua\nAku tulis nama kayak tanda tangan kontrak\n\n[Pre-Chorus]\nPak Budi less sugar, Mbak Sari oat\nSatu lagi buat aku, boleh, katanya\n\n[Chorus]\nTulis lagi, tulis lagi\nDua belas gelas, nggak ada yang salah\nTiga minggu aku di pojok sini\nHari ini semua tahu namaku\n\n[Bridge - bass and trumpet, half-time]\nNggak ada yang tepuk tangan\nCuma Pak Budi bilang, pas manisnya\n\n[Chorus - gang vocals]\nTekan lagi, tekan lagi\nSenin pagi aku fotokopi lagi\nTiga minggu aku di pojok sini\nTapi kopi hari ini aku yang pesan\n\n[Outro - guitars tapping alone, ends on one chord]"
+  },
+  "seed": "1113611137",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.77s**\n- 61.77s per song\n- LM phase (1 song): 9.94s\n- DiT phase (1 song): 51.83s",
+  "task_id": "6f4acdd3-572f-485e-b7a4-922b5468ad8e",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-23T18:01:10.944073+08:00",
+  "audio": "b13_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.58,
+      "end": 25.58,
+      "text": "[Intro - twinkly tapped guitars, drums crash in]"
+    },
+    {
+      "t": 25.58,
+      "end": 25.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.58,
+      "end": 29.46,
+      "text": "Minggu pertama aku fotokopi"
+    },
+    {
+      "t": 31.8,
+      "end": 35.74,
+      "text": "Minggu kedua aku fotokopi"
+    },
+    {
+      "t": 37.86,
+      "end": 41.7,
+      "text": "Mesinnya macet, aku yang dimarahi"
+    },
+    {
+      "t": 41.7,
+      "end": 42.64,
+      "text": "Kertasnya hangat, cuma dia temanku"
+    },
+    {
+      "t": 45.08,
+      "end": 45.08,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.08,
+      "end": 49.18,
+      "text": "Mbak Sari bilang sabar itu proses"
+    },
+    {
+      "t": 51.47,
+      "end": 55.03,
+      "text": "Aku bilang toner juga"
+    },
+    {
+      "t": 55.11,
+      "end": 55.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.11,
+      "end": 57.21,
+      "text": "Tekan lagi, tekan lagi"
+    },
+    {
+      "t": 57.21,
+      "end": 61.65,
+      "text": "Seratus lembar, bolak-balik, rangkap tiga"
+    },
+    {
+      "t": 63.43,
+      "end": 67.65,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 67.77,
+      "end": 73.91,
+      "text": "Nggak ada yang tahu namaku"
+    },
+    {
+      "t": 76.91,
+      "end": 76.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.91,
+      "end": 80.15,
+      "text": "Jumat sore, jam tiga lewat"
+    },
+    {
+      "t": 80.19,
+      "end": 81.27,
+      "text": "Mbak Sari panggil, kasih aku ponsel"
+    },
+    {
+      "t": 83.23,
+      "end": 86.89,
+      "text": "Kamu yang pesan kopi buat semua"
+    },
+    {
+      "t": 89.17,
+      "end": 94.07,
+      "text": "Aku tulis nama kayak tanda tangan kontrak"
+    },
+    {
+      "t": 95.53,
+      "end": 95.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.53,
+      "end": 98.31,
+      "text": "Pak Budi less sugar, Mbak Sari oat"
+    },
+    {
+      "t": 98.41,
+      "end": 102.11,
+      "text": "Satu lagi buat aku, boleh, katanya"
+    },
+    {
+      "t": 104.73,
+      "end": 104.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.73,
+      "end": 107.97,
+      "text": "Tulis lagi, tulis lagi"
+    },
+    {
+      "t": 110.77,
+      "end": 114.81,
+      "text": "Dua belas gelas, nggak ada yang salah"
+    },
+    {
+      "t": 116.57,
+      "end": 121.95,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 123.13,
+      "end": 127.03,
+      "text": "Hari ini semua tahu namaku"
+    },
+    {
+      "t": 138.71,
+      "end": 138.71,
+      "text": "[Bridge - bass and trumpet, half-time]"
+    },
+    {
+      "t": 138.71,
+      "end": 146.65,
+      "text": "Nggak ada yang tepuk tangan"
+    },
+    {
+      "t": 147.83,
+      "end": 152.65,
+      "text": "Cuma Pak Budi bilang, pas manisnya"
+    },
+    {
+      "t": 155.96,
+      "end": 155.96,
+      "text": "[Chorus - gang vocals]"
+    },
+    {
+      "t": 155.96,
+      "end": 156.76,
+      "text": "Tekan lagi, tekan lagi"
+    },
+    {
+      "t": 156.84,
+      "end": 158.34,
+      "text": "Senin pagi aku fotokopi lagi"
+    },
+    {
+      "t": 168.14,
+      "end": 172.4,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 174.56,
+      "end": 179.12,
+      "text": "Tapi kopi hari ini aku yang pesan"
+    },
+    {
+      "t": 179.12,
+      "end": 179.12,
+      "text": "[Outro - guitars tapping alone, ends on one chord]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.58,
+      "end": 25.58,
+      "text": "[Intro - twinkly tapped guitars, drums crash in]"
+    },
+    {
+      "t": 25.58,
+      "end": 25.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.58,
+      "end": 29.46,
+      "text": "Minggu pertama aku fotokopi"
+    },
+    {
+      "t": 31.8,
+      "end": 35.74,
+      "text": "Minggu kedua aku fotokopi"
+    },
+    {
+      "t": 37.86,
+      "end": 41.7,
+      "text": "Mesinnya macet, aku yang dimarahi"
+    },
+    {
+      "t": 41.7,
+      "end": 42.64,
+      "text": "Kertasnya hangat, cuma dia temanku"
+    },
+    {
+      "t": 45.08,
+      "end": 45.08,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.08,
+      "end": 49.18,
+      "text": "Mbak Sari bilang sabar itu proses"
+    },
+    {
+      "t": 51.47,
+      "end": 55.03,
+      "text": "Aku bilang toner juga"
+    },
+    {
+      "t": 55.11,
+      "end": 55.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.11,
+      "end": 57.21,
+      "text": "Tekan lagi, tekan lagi"
+    },
+    {
+      "t": 57.21,
+      "end": 61.65,
+      "text": "Seratus lembar, bolak-balik, rangkap tiga"
+    },
+    {
+      "t": 63.43,
+      "end": 67.65,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 67.77,
+      "end": 73.91,
+      "text": "Nggak ada yang tahu namaku"
+    },
+    {
+      "t": 76.91,
+      "end": 76.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.91,
+      "end": 80.15,
+      "text": "Jumat sore, jam tiga lewat"
+    },
+    {
+      "t": 80.19,
+      "end": 81.27,
+      "text": "Mbak Sari panggil, kasih aku ponsel"
+    },
+    {
+      "t": 83.23,
+      "end": 86.89,
+      "text": "Kamu yang pesan kopi buat semua"
+    },
+    {
+      "t": 89.17,
+      "end": 94.07,
+      "text": "Aku tulis nama kayak tanda tangan kontrak"
+    },
+    {
+      "t": 95.53,
+      "end": 95.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.53,
+      "end": 98.31,
+      "text": "Pak Budi less sugar, Mbak Sari oat"
+    },
+    {
+      "t": 98.41,
+      "end": 102.11,
+      "text": "Satu lagi buat aku, boleh, katanya"
+    },
+    {
+      "t": 104.73,
+      "end": 104.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.73,
+      "end": 107.97,
+      "text": "Tulis lagi, tulis lagi"
+    },
+    {
+      "t": 110.77,
+      "end": 114.81,
+      "text": "Dua belas gelas, nggak ada yang salah"
+    },
+    {
+      "t": 116.57,
+      "end": 121.95,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 123.13,
+      "end": 127.03,
+      "text": "Hari ini semua tahu namaku"
+    },
+    {
+      "t": 138.71,
+      "end": 138.71,
+      "text": "[Bridge - bass and trumpet, half-time]"
+    },
+    {
+      "t": 138.71,
+      "end": 146.65,
+      "text": "Nggak ada yang tepuk tangan"
+    },
+    {
+      "t": 147.83,
+      "end": 152.65,
+      "text": "Cuma Pak Budi bilang, pas manisnya"
+    },
+    {
+      "t": 155.96,
+      "end": 155.96,
+      "text": "[Chorus - gang vocals]"
+    },
+    {
+      "t": 155.96,
+      "end": 156.76,
+      "text": "Tekan lagi, tekan lagi"
+    },
+    {
+      "t": 156.84,
+      "end": 158.34,
+      "text": "Senin pagi aku fotokopi lagi"
+    },
+    {
+      "t": 168.14,
+      "end": 172.4,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 174.56,
+      "end": 179.12,
+      "text": "Tapi kopi hari ini aku yang pesan"
+    },
+    {
+      "t": 179.12,
+      "end": 179.12,
+      "text": "[Outro - guitars tapping alone, ends on one chord]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.56,
+      "end": 25.56,
+      "text": "[Intro - twinkly tapped guitars, drums crash in]"
+    },
+    {
+      "t": 25.56,
+      "end": 25.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.56,
+      "end": 29.46,
+      "text": "Minggu pertama aku fotokopi"
+    },
+    {
+      "t": 31.8,
+      "end": 35.74,
+      "text": "Minggu kedua aku fotokopi"
+    },
+    {
+      "t": 37.88,
+      "end": 41.8,
+      "text": "Mesinnya macet, aku yang dimarahi"
+    },
+    {
+      "t": 41.88,
+      "end": 43.4,
+      "text": "Kertasnya hangat, cuma dia temanku"
+    },
+    {
+      "t": 45.08,
+      "end": 45.08,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.08,
+      "end": 49.18,
+      "text": "Mbak Sari bilang sabar itu proses"
+    },
+    {
+      "t": 51.45,
+      "end": 55.03,
+      "text": "Aku bilang toner juga"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.05,
+      "end": 57.25,
+      "text": "Tekan lagi, tekan lagi"
+    },
+    {
+      "t": 57.25,
+      "end": 61.65,
+      "text": "Seratus lembar, bolak-balik, rangkap tiga"
+    },
+    {
+      "t": 63.43,
+      "end": 67.63,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 69.65,
+      "end": 73.91,
+      "text": "Nggak ada yang tahu namaku"
+    },
+    {
+      "t": 76.91,
+      "end": 76.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.91,
+      "end": 80.17,
+      "text": "Jumat sore, jam tiga lewat"
+    },
+    {
+      "t": 80.23,
+      "end": 81.47,
+      "text": "Mbak Sari panggil, kasih aku ponsel"
+    },
+    {
+      "t": 83.23,
+      "end": 86.89,
+      "text": "Kamu yang pesan kopi buat semua"
+    },
+    {
+      "t": 89.17,
+      "end": 94.05,
+      "text": "Aku tulis nama kayak tanda tangan kontrak"
+    },
+    {
+      "t": 95.53,
+      "end": 95.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.53,
+      "end": 98.31,
+      "text": "Pak Budi less sugar, Mbak Sari oat"
+    },
+    {
+      "t": 98.41,
+      "end": 102.11,
+      "text": "Satu lagi buat aku, boleh, katanya"
+    },
+    {
+      "t": 104.73,
+      "end": 104.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.73,
+      "end": 107.97,
+      "text": "Tulis lagi, tulis lagi"
+    },
+    {
+      "t": 110.77,
+      "end": 114.77,
+      "text": "Dua belas gelas, nggak ada yang salah"
+    },
+    {
+      "t": 116.59,
+      "end": 121.95,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 123.13,
+      "end": 127.01,
+      "text": "Hari ini semua tahu namaku"
+    },
+    {
+      "t": 135.77,
+      "end": 135.77,
+      "text": "[Bridge - bass and trumpet, half-time]"
+    },
+    {
+      "t": 135.77,
+      "end": 140.71,
+      "text": "Nggak ada yang tepuk tangan"
+    },
+    {
+      "t": 143.95,
+      "end": 152.63,
+      "text": "Cuma Pak Budi bilang, pas manisnya"
+    },
+    {
+      "t": 156.02,
+      "end": 156.02,
+      "text": "[Chorus - gang vocals]"
+    },
+    {
+      "t": 156.02,
+      "end": 158.34,
+      "text": "Tekan lagi, tekan lagi"
+    },
+    {
+      "t": 162.1,
+      "end": 165.32,
+      "text": "Senin pagi aku fotokopi lagi"
+    },
+    {
+      "t": 168.14,
+      "end": 172.38,
+      "text": "Tiga minggu aku di pojok sini"
+    },
+    {
+      "t": 174.56,
+      "end": 179.1,
+      "text": "Tapi kopi hari ini aku yang pesan"
+    },
+    {
+      "t": 179.1,
+      "end": 179.1,
+      "text": "[Outro - guitars tapping alone, ends on one chord]"
+    }
+  ]
+}

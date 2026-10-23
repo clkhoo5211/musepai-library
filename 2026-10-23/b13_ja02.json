@@ -1,0 +1,474 @@
+{
+  "id": "b13_ja02",
+  "title": "こたつで千ピース",
+  "title_source": "scripted",
+  "genre": "Japanese hyperpop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "hyperactive, nerdy and stubbornly proud, a grandpa's personal-best comedy",
+  "persona": "",
+  "subject": "a retired salaryman alone at the kotatsu over one winter weekend, timing himself on a stopwatch to finish the 1000-piece Mount Fuji jigsaw his grandson did in nine hours at New Year, sorting edge pieces into a biscuit tin and losing an hour to a sky made of nothing but blue",
+  "caption": "Japanese hyperpop, 2020s Tokyo netlabel lineage with experimental electronic edges. Detuned supersaw stabs, blown-out distorted 808 kick and sub bass, glitch-stuttered synth arpeggio, bitcrushed snare rolls that stop dead before each chorus. Maximal, clipped and glitchy production with sudden drop-outs to near silence. Male mid-range vocal, fast clipped deadpan delivery that breaks into a shouted chorus, natural doubling only. 160 BPM, F# minor. Hyperactive, nerdy and stubbornly proud. No autotune, no trap flow, no ballad piano, no guitar band, no EDM festival build.",
+  "lyrics": "[Intro - glitchy detuned synth stabs, distorted 808 kick]\n\n[Verse 1]\n正月に孫が 九時間で仕上げた\n千ピースの富士山 箱ごと置いてった\n土曜の朝 こたつに広げて\nストップウォッチ 押してみる\n\n[Pre-Chorus]\nまず端っこ 端っこだけ\n煎餅の缶に 選り分けて\n\n[Chorus]\n千ピース 千ピース\n空が全部 同じ青\nばあさん言う 「まだやってるの」\nやってるよ 千ピース\n\n[Verse 2]\n老眼鏡 二本かけ替える\n雪のとこは 白しかない\n一時間かけて はまったのが一個\n声出して 喜んだ\n\n[Bridge - synths drop out, kick only]\n日曜の夜 残り三つ\nこたつ布団 めくったら\n落ちてた ひとつ\n\n[Chorus]\n千ピース 千ピース\n十一時間 孫に負けた\nばあさん言う 「でも綺麗ね」\n写真撮って 孫に送る\n\n[Outro - glitch stutters, synths collapse to silence]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 160,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Japanese hyperpop, 2020s Tokyo netlabel lineage with experimental electronic edges. Detuned supersaw stabs, blown-out distorted 808 kick and sub bass, glitch-stuttered synth arpeggio, bitcrushed snare rolls that stop dead before each chorus. Maximal, clipped and glitchy production with sudden drop-outs to near silence. Male mid-range vocal, fast clipped deadpan delivery that breaks into a shouted chorus, natural doubling only. 160 BPM, F# minor. Hyperactive, nerdy and stubbornly proud. No autotune, no trap flow, no ballad piano, no guitar band, no EDM festival build.",
+    "lyrics": "[Intro - glitchy detuned synth stabs, distorted 808 kick]\n\n[Verse 1]\n正月に孫が 九時間で仕上げた\n千ピースの富士山 箱ごと置いてった\n土曜の朝 こたつに広げて\nストップウォッチ 押してみる\n\n[Pre-Chorus]\nまず端っこ 端っこだけ\n煎餅の缶に 選り分けて\n\n[Chorus]\n千ピース 千ピース\n空が全部 同じ青\nばあさん言う 「まだやってるの」\nやってるよ 千ピース\n\n[Verse 2]\n老眼鏡 二本かけ替える\n雪のとこは 白しかない\n一時間かけて はまったのが一個\n声出して 喜んだ\n\n[Bridge - synths drop out, kick only]\n日曜の夜 残り三つ\nこたつ布団 めくったら\n落ちてた ひとつ\n\n[Chorus]\n千ピース 千ピース\n十一時間 孫に負けた\nばあさん言う 「でも綺麗ね」\n写真撮って 孫に送る\n\n[Outro - glitch stutters, synths collapse to silence]"
+  },
+  "seed": "1119812159",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.91s**\n- 60.91s per song\n- LM phase (1 song): 15.20s\n- DiT phase (1 song): 45.71s",
+  "task_id": "c8985bc6-5919-48f6-a789-bfe1fb8262ed",
+  "elapsed_s": 80.6,
+  "generated_at": "2026-10-23T18:39:25.347007+08:00",
+  "audio": "b13_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.12,
+      "end": 21.12,
+      "text": "[Intro - glitchy detuned synth stabs, distorted 808 kick]"
+    },
+    {
+      "t": 21.12,
+      "end": 21.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.12,
+      "end": 25.74,
+      "text": "正月に孫が 九時間で仕上げた"
+    },
+    {
+      "t": 26.92,
+      "end": 31.66,
+      "text": "千ピースの富士山 箱ごと置いてった"
+    },
+    {
+      "t": 32.46,
+      "end": 36.82,
+      "text": "土曜の朝 こたつに広げて"
+    },
+    {
+      "t": 36.84,
+      "end": 38.66,
+      "text": "ストップウォッチ 押してみる"
+    },
+    {
+      "t": 38.66,
+      "end": 38.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.66,
+      "end": 41.32,
+      "text": "まず端っこ 端っこだけ"
+    },
+    {
+      "t": 41.58,
+      "end": 43.34,
+      "text": "煎餅の缶に 選り分けて"
+    },
+    {
+      "t": 44.48,
+      "end": 44.48,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.48,
+      "end": 45.65,
+      "text": "千ピース 千ピース"
+    },
+    {
+      "t": 45.93,
+      "end": 47.45,
+      "text": "空が全部 同じ青"
+    },
+    {
+      "t": 47.61,
+      "end": 49.55,
+      "text": "ばあさん言う 「まだやってるの」"
+    },
+    {
+      "t": 49.59,
+      "end": 51.95,
+      "text": "やってるよ 千ピース"
+    },
+    {
+      "t": 62.61,
+      "end": 62.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.61,
+      "end": 65.09,
+      "text": "老眼鏡 二本かけ替える"
+    },
+    {
+      "t": 65.51,
+      "end": 70.79,
+      "text": "雪のとこは 白しかない"
+    },
+    {
+      "t": 70.97,
+      "end": 76.05,
+      "text": "一時間かけて はまったのが一個"
+    },
+    {
+      "t": 77.37,
+      "end": 81.59,
+      "text": "声出して 喜んだ"
+    },
+    {
+      "t": 82.55,
+      "end": 82.55,
+      "text": "[Bridge - synths drop out, kick only]"
+    },
+    {
+      "t": 82.55,
+      "end": 86.15,
+      "text": "日曜の夜 残り三つ"
+    },
+    {
+      "t": 86.59,
+      "end": 89.17,
+      "text": "こたつ布団 めくったら"
+    },
+    {
+      "t": 89.57,
+      "end": 91.99,
+      "text": "落ちてた ひとつ"
+    },
+    {
+      "t": 92.91,
+      "end": 92.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.91,
+      "end": 94.93,
+      "text": "千ピース 千ピース"
+    },
+    {
+      "t": 96.09,
+      "end": 98.05,
+      "text": "十一時間 孫に負けた"
+    },
+    {
+      "t": 98.49,
+      "end": 100.87,
+      "text": "ばあさん言う 「でも綺麗ね」"
+    },
+    {
+      "t": 101.45,
+      "end": 150.74,
+      "text": "写真撮って 孫に送る"
+    },
+    {
+      "t": 150.74,
+      "end": 150.74,
+      "text": "[Outro - glitch stutters, synths collapse to silence]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.12,
+      "end": 21.12,
+      "text": "[Intro - glitchy detuned synth stabs, distorted 808 kick]"
+    },
+    {
+      "t": 21.12,
+      "end": 21.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.12,
+      "end": 25.74,
+      "text": "正月に孫が 九時間で仕上げた"
+    },
+    {
+      "t": 26.92,
+      "end": 31.66,
+      "text": "千ピースの富士山 箱ごと置いてった"
+    },
+    {
+      "t": 32.46,
+      "end": 36.82,
+      "text": "土曜の朝 こたつに広げて"
+    },
+    {
+      "t": 36.84,
+      "end": 38.66,
+      "text": "ストップウォッチ 押してみる"
+    },
+    {
+      "t": 38.66,
+      "end": 38.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.66,
+      "end": 41.32,
+      "text": "まず端っこ 端っこだけ"
+    },
+    {
+      "t": 41.58,
+      "end": 43.34,
+      "text": "煎餅の缶に 選り分けて"
+    },
+    {
+      "t": 44.48,
+      "end": 44.48,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.48,
+      "end": 45.65,
+      "text": "千ピース 千ピース"
+    },
+    {
+      "t": 45.93,
+      "end": 47.45,
+      "text": "空が全部 同じ青"
+    },
+    {
+      "t": 47.61,
+      "end": 49.55,
+      "text": "ばあさん言う 「まだやってるの」"
+    },
+    {
+      "t": 49.59,
+      "end": 51.95,
+      "text": "やってるよ 千ピース"
+    },
+    {
+      "t": 62.61,
+      "end": 62.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.61,
+      "end": 65.09,
+      "text": "老眼鏡 二本かけ替える"
+    },
+    {
+      "t": 65.51,
+      "end": 70.79,
+      "text": "雪のとこは 白しかない"
+    },
+    {
+      "t": 70.97,
+      "end": 76.05,
+      "text": "一時間かけて はまったのが一個"
+    },
+    {
+      "t": 77.37,
+      "end": 81.59,
+      "text": "声出して 喜んだ"
+    },
+    {
+      "t": 82.55,
+      "end": 82.55,
+      "text": "[Bridge - synths drop out, kick only]"
+    },
+    {
+      "t": 82.55,
+      "end": 86.15,
+      "text": "日曜の夜 残り三つ"
+    },
+    {
+      "t": 86.59,
+      "end": 89.17,
+      "text": "こたつ布団 めくったら"
+    },
+    {
+      "t": 89.57,
+      "end": 91.99,
+      "text": "落ちてた ひとつ"
+    },
+    {
+      "t": 92.91,
+      "end": 92.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.91,
+      "end": 94.93,
+      "text": "千ピース 千ピース"
+    },
+    {
+      "t": 96.09,
+      "end": 98.05,
+      "text": "十一時間 孫に負けた"
+    },
+    {
+      "t": 98.49,
+      "end": 100.87,
+      "text": "ばあさん言う 「でも綺麗ね」"
+    },
+    {
+      "t": 101.45,
+      "end": 150.74,
+      "text": "写真撮って 孫に送る"
+    },
+    {
+      "t": 150.74,
+      "end": 150.74,
+      "text": "[Outro - glitch stutters, synths collapse to silence]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 21.12,
+      "end": 21.12,
+      "text": "[Intro - glitchy detuned synth stabs, distorted 808 kick]"
+    },
+    {
+      "t": 21.12,
+      "end": 21.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.12,
+      "end": 25.72,
+      "text": "正月に孫が 九時間で仕上げた"
+    },
+    {
+      "t": 26.92,
+      "end": 31.64,
+      "text": "千ピースの富士山 箱ごと置いてった"
+    },
+    {
+      "t": 32.46,
+      "end": 37.38,
+      "text": "土曜の朝 こたつに広げて"
+    },
+    {
+      "t": 38.36,
+      "end": 41.3,
+      "text": "ストップウォッチ 押してみる"
+    },
+    {
+      "t": 41.58,
+      "end": 41.58,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.58,
+      "end": 43.3,
+      "text": "まず端っこ 端っこだけ"
+    },
+    {
+      "t": 44.1,
+      "end": 45.43,
+      "text": "煎餅の缶に 選り分けて"
+    },
+    {
+      "t": 45.43,
+      "end": 45.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.43,
+      "end": 45.99,
+      "text": "千ピース 千ピース"
+    },
+    {
+      "t": 45.99,
+      "end": 47.45,
+      "text": "空が全部 同じ青"
+    },
+    {
+      "t": 47.61,
+      "end": 49.81,
+      "text": "ばあさん言う 「まだやってるの」"
+    },
+    {
+      "t": 49.81,
+      "end": 51.85,
+      "text": "やってるよ 千ピース"
+    },
+    {
+      "t": 62.59,
+      "end": 62.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.59,
+      "end": 65.11,
+      "text": "老眼鏡 二本かけ替える"
+    },
+    {
+      "t": 65.51,
+      "end": 68.23,
+      "text": "雪のとこは 白しかない"
+    },
+    {
+      "t": 68.79,
+      "end": 77.49,
+      "text": "一時間かけて はまったのが一個"
+    },
+    {
+      "t": 77.57,
+      "end": 81.55,
+      "text": "声出して 喜んだ"
+    },
+    {
+      "t": 81.79,
+      "end": 81.79,
+      "text": "[Bridge - synths drop out, kick only]"
+    },
+    {
+      "t": 81.79,
+      "end": 86.15,
+      "text": "日曜の夜 残り三つ"
+    },
+    {
+      "t": 86.59,
+      "end": 89.17,
+      "text": "こたつ布団 めくったら"
+    },
+    {
+      "t": 89.57,
+      "end": 91.99,
+      "text": "落ちてた ひとつ"
+    },
+    {
+      "t": 92.93,
+      "end": 92.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.93,
+      "end": 94.93,
+      "text": "千ピース 千ピース"
+    },
+    {
+      "t": 95.35,
+      "end": 98.05,
+      "text": "十一時間 孫に負けた"
+    },
+    {
+      "t": 98.49,
+      "end": 100.85,
+      "text": "ばあさん言う 「でも綺麗ね」"
+    },
+    {
+      "t": 101.25,
+      "end": 150.74,
+      "text": "写真撮って 孫に送る"
+    },
+    {
+      "t": 150.74,
+      "end": 150.74,
+      "text": "[Outro - glitch stutters, synths collapse to silence]"
+    }
+  ]
+}

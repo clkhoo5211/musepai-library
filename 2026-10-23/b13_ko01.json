@@ -1,0 +1,347 @@
+{
+  "id": "b13_ko01",
+  "title": "곗돈 장부",
+  "title_source": "scripted",
+  "genre": "jazz-drum soft indie rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "rueful, warm and teasing",
+  "persona": "",
+  "subject": "the narrator keeps the shared money book and the cash envelope for four school friends saving 50,000 won each a month for their first trip abroad together (Fukuoka), while one friend, Minjae, keeps 'borrowing' from it, until the narrator opens the envelope and finds Minjae has paid it all back with interest and a note saying to go get passport photos",
+  "caption": "Jazz-drum soft indie rock, Korean indie band sound of the mid-2020s. Clean electric guitar with a light chorus shimmer playing lazy seventh chords, a brushed jazz drum kit with swung ghost notes on the snare, round fingered electric bass walking under the changes, soft Rhodes pads in the gaps. Warm tape-saturated lo-fi room sound with gentle reverb and an unhurried live-band feel. Male tenor, soft and breathy, close-mic, with light falsetto lifts on the chorus. 86 BPM, D major. Rueful, warm and teasing. No trap hi-hats, no EDM build, no autotune, no stadium drums, no big pop ballad strings.",
+  "lyrics": "[Intro - chorus guitar and brushed drums]\n\n[Verse 1]\n고등학교 때부터 넷이 모은 돈\n매달 오만 원씩, 후쿠오카 가자고\n장부는 내가 쓰고 봉투도 내가 들고\n책상 서랍 맨 밑 칸, 고무줄 두 번 감아\n\n[Pre-Chorus]\n근데 민재가 또 전화를 했어\n딱 이번 달만, 다음 달에 꼭 넣을게\n\n[Chorus]\n곗돈 장부 마지막 줄에\n민재 이름 옆에 빨간 글씨\n빌려 간 돈 십이만 원\n비행기는 언제 타냐, 우리\n\n[Verse 2]\n삼월엔 월세, 칠월엔 축의금\n갚을 땐 꼭 붕어빵 한 봉지랑 같이 와\n다른 둘은 웃으면서 그냥 넘어가\n나만 계산기 두드리는 사람 같아\n\n[Pre-Chorus]\n그러다 오늘 봉투를 열었는데\n내가 넣은 적 없는 돈이 들어 있어\n\n[Bridge - Rhodes and bass only]\n쪽지 한 장, 삐뚤빼뚤 민재 글씨\n이자까지 넣었다, 여권 사진 찍으러 가자\n\n[Chorus]\n곗돈 장부 마지막 줄에\n빨간 글씨 위로 줄을 긋고\n남은 돈 백팔십만 원\n비행기 표 끊자, 우리 넷이\n\n[Outro - brushed drums fade, falsetto hum]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Jazz-drum soft indie rock, Korean indie band sound of the mid-2020s. Clean electric guitar with a light chorus shimmer playing lazy seventh chords, a brushed jazz drum kit with swung ghost notes on the snare, round fingered electric bass walking under the changes, soft Rhodes pads in the gaps. Warm tape-saturated lo-fi room sound with gentle reverb and an unhurried live-band feel. Male tenor, soft and breathy, close-mic, with light falsetto lifts on the chorus. 86 BPM, D major. Rueful, warm and teasing. No trap hi-hats, no EDM build, no autotune, no stadium drums, no big pop ballad strings.",
+    "lyrics": "[Intro - chorus guitar and brushed drums]\n\n[Verse 1]\n고등학교 때부터 넷이 모은 돈\n매달 오만 원씩, 후쿠오카 가자고\n장부는 내가 쓰고 봉투도 내가 들고\n책상 서랍 맨 밑 칸, 고무줄 두 번 감아\n\n[Pre-Chorus]\n근데 민재가 또 전화를 했어\n딱 이번 달만, 다음 달에 꼭 넣을게\n\n[Chorus]\n곗돈 장부 마지막 줄에\n민재 이름 옆에 빨간 글씨\n빌려 간 돈 십이만 원\n비행기는 언제 타냐, 우리\n\n[Verse 2]\n삼월엔 월세, 칠월엔 축의금\n갚을 땐 꼭 붕어빵 한 봉지랑 같이 와\n다른 둘은 웃으면서 그냥 넘어가\n나만 계산기 두드리는 사람 같아\n\n[Pre-Chorus]\n그러다 오늘 봉투를 열었는데\n내가 넣은 적 없는 돈이 들어 있어\n\n[Bridge - Rhodes and bass only]\n쪽지 한 장, 삐뚤빼뚤 민재 글씨\n이자까지 넣었다, 여권 사진 찍으러 가자\n\n[Chorus]\n곗돈 장부 마지막 줄에\n빨간 글씨 위로 줄을 긋고\n남은 돈 백팔십만 원\n비행기 표 끊자, 우리 넷이\n\n[Outro - brushed drums fade, falsetto hum]"
+  },
+  "seed": "3469508097",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.36s**\n- 73.36s per song\n- LM phase (1 song): 8.41s\n- DiT phase (1 song): 64.95s",
+  "task_id": "f45614c9-5818-4c0b-b721-8821bf54e255",
+  "elapsed_s": 140.7,
+  "generated_at": "2026-10-23T17:43:05.513903+08:00",
+  "audio": "b13_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 39.8,
+      "end": 39.8,
+      "text": "[Intro - chorus guitar and brushed drums]"
+    },
+    {
+      "t": 39.8,
+      "end": 39.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.8,
+      "end": 55.15,
+      "text": "고등학교 때부터 넷이 모은 돈"
+    },
+    {
+      "t": 55.35,
+      "end": 60.23,
+      "text": "매달 오만 원씩, 후쿠오카 가자고"
+    },
+    {
+      "t": 60.37,
+      "end": 65.89,
+      "text": "장부는 내가 쓰고 봉투도 내가 들고"
+    },
+    {
+      "t": 65.99,
+      "end": 68.63,
+      "text": "책상 서랍 맨 밑 칸, 고무줄 두 번 감아"
+    },
+    {
+      "t": 68.63,
+      "end": 68.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.63,
+      "end": 85.19,
+      "text": "근데 민재가 또 전화를 했어"
+    },
+    {
+      "t": 85.19,
+      "end": 86.71,
+      "text": "딱 이번 달만, 다음 달에 꼭 넣을게"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.75,
+      "end": 87.47,
+      "text": "곗돈 장부 마지막 줄에"
+    },
+    {
+      "t": 87.47,
+      "end": 90.71,
+      "text": "민재 이름 옆에 빨간 글씨"
+    },
+    {
+      "t": 90.77,
+      "end": 91.65,
+      "text": "빌려 간 돈 십이만 원"
+    },
+    {
+      "t": 91.65,
+      "end": 92.59,
+      "text": "비행기는 언제 타냐, 우리"
+    },
+    {
+      "t": 92.59,
+      "end": 92.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.59,
+      "end": 93.69,
+      "text": "삼월엔 월세, 칠월엔 축의금"
+    },
+    {
+      "t": 93.69,
+      "end": 97.21,
+      "text": "갚을 땐 꼭 붕어빵 한 봉지랑 같이 와"
+    },
+    {
+      "t": 97.23,
+      "end": 98.75,
+      "text": "다른 둘은 웃으면서 그냥 넘어가"
+    },
+    {
+      "t": 98.75,
+      "end": 114.69,
+      "text": "나만 계산기 두드리는 사람 같아"
+    },
+    {
+      "t": 114.79,
+      "end": 114.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.79,
+      "end": 118.73,
+      "text": "그러다 오늘 봉투를 열었는데"
+    },
+    {
+      "t": 118.75,
+      "end": 121.91,
+      "text": "내가 넣은 적 없는 돈이 들어 있어"
+    },
+    {
+      "t": 123.89,
+      "end": 123.89,
+      "text": "[Bridge - Rhodes and bass only]"
+    },
+    {
+      "t": 123.89,
+      "end": 129.65,
+      "text": "쪽지 한 장, 삐뚤빼뚤 민재 글씨"
+    },
+    {
+      "t": 129.73,
+      "end": 133.07,
+      "text": "이자까지 넣었다, 여권 사진 찍으러 가자"
+    },
+    {
+      "t": 135.21,
+      "end": 135.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.21,
+      "end": 138.51,
+      "text": "곗돈 장부 마지막 줄에"
+    },
+    {
+      "t": 140.71,
+      "end": 144.39,
+      "text": "빨간 글씨 위로 줄을 긋고"
+    },
+    {
+      "t": 144.57,
+      "end": 147.39,
+      "text": "남은 돈 백팔십만 원"
+    },
+    {
+      "t": 149.05,
+      "end": 151.69,
+      "text": "비행기 표 끊자, 우리 넷이"
+    },
+    {
+      "t": 151.69,
+      "end": 151.69,
+      "text": "[Outro - brushed drums fade, falsetto hum]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 39.82,
+      "end": 39.82,
+      "text": "[Intro - chorus guitar and brushed drums]"
+    },
+    {
+      "t": 39.82,
+      "end": 39.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.82,
+      "end": 60.85,
+      "text": "고등학교 때부터 넷이 모은 돈"
+    },
+    {
+      "t": 60.85,
+      "end": 63.53,
+      "text": "매달 오만 원씩, 후쿠오카 가자고"
+    },
+    {
+      "t": 63.53,
+      "end": 66.39,
+      "text": "장부는 내가 쓰고 봉투도 내가 들고"
+    },
+    {
+      "t": 66.39,
+      "end": 67.65,
+      "text": "책상 서랍 맨 밑 칸, 고무줄 두 번 감아"
+    },
+    {
+      "t": 67.65,
+      "end": 67.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 67.65,
+      "end": 68.49,
+      "text": "근데 민재가 또 전화를 했어"
+    },
+    {
+      "t": 68.49,
+      "end": 85.55,
+      "text": "딱 이번 달만, 다음 달에 꼭 넣을게"
+    },
+    {
+      "t": 85.55,
+      "end": 85.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.55,
+      "end": 87.41,
+      "text": "곗돈 장부 마지막 줄에"
+    },
+    {
+      "t": 87.45,
+      "end": 90.81,
+      "text": "민재 이름 옆에 빨간 글씨"
+    },
+    {
+      "t": 90.81,
+      "end": 91.83,
+      "text": "빌려 간 돈 십이만 원"
+    },
+    {
+      "t": 91.87,
+      "end": 92.59,
+      "text": "비행기는 언제 타냐, 우리"
+    },
+    {
+      "t": 92.59,
+      "end": 92.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.59,
+      "end": 93.35,
+      "text": "삼월엔 월세, 칠월엔 축의금"
+    },
+    {
+      "t": 93.35,
+      "end": 97.47,
+      "text": "갚을 땐 꼭 붕어빵 한 봉지랑 같이 와"
+    },
+    {
+      "t": 97.47,
+      "end": 98.75,
+      "text": "다른 둘은 웃으면서 그냥 넘어가"
+    },
+    {
+      "t": 98.75,
+      "end": 113.61,
+      "text": "나만 계산기 두드리는 사람 같아"
+    },
+    {
+      "t": 113.63,
+      "end": 113.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.63,
+      "end": 118.75,
+      "text": "그러다 오늘 봉투를 열었는데"
+    },
+    {
+      "t": 118.75,
+      "end": 121.89,
+      "text": "내가 넣은 적 없는 돈이 들어 있어"
+    },
+    {
+      "t": 123.89,
+      "end": 123.89,
+      "text": "[Bridge - Rhodes and bass only]"
+    },
+    {
+      "t": 123.89,
+      "end": 129.65,
+      "text": "쪽지 한 장, 삐뚤빼뚤 민재 글씨"
+    },
+    {
+      "t": 129.73,
+      "end": 133.09,
+      "text": "이자까지 넣었다, 여권 사진 찍으러 가자"
+    },
+    {
+      "t": 135.21,
+      "end": 135.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.21,
+      "end": 138.53,
+      "text": "곗돈 장부 마지막 줄에"
+    },
+    {
+      "t": 140.71,
+      "end": 144.39,
+      "text": "빨간 글씨 위로 줄을 긋고"
+    },
+    {
+      "t": 145.15,
+      "end": 147.35,
+      "text": "남은 돈 백팔십만 원"
+    },
+    {
+      "t": 149.07,
+      "end": 151.69,
+      "text": "비행기 표 끊자, 우리 넷이"
+    },
+    {
+      "t": 151.69,
+      "end": 151.69,
+      "text": "[Outro - brushed drums fade, falsetto hum]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

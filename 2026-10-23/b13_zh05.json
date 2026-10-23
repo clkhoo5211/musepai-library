@@ -1,0 +1,504 @@
+{
+  "id": "b13_zh05",
+  "title": "四個月見一次針頭",
+  "title_source": "scripted",
+  "genre": "Mandarin chamber jazz-pop",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "tender, wry, quietly devoted",
+  "persona": "",
+  "subject": "a couple who first met in the next beds at a blood donation centre and have gone back together every four months for six years, he still scared of the needle and holding her hand, she squeezing the rubber ball for him",
+  "caption": "Mandarin chamber jazz-pop, Laufey-style vintage vocal jazz with classical strings. Gently strummed nylon-string guitar with jazz chords, walking upright bass, soft brushed snare, a warm string quartet answering the melody, sparkling celesta accents. Close, warm vintage room sound with soft strings behind the voice. Warm low female alto, intimate, a slight 1950s croon. 84 BPM, Bb major. Tender, wry and quietly devoted. No pop drums, no autotune, no synths, no R&B runs, no big-band brass.",
+  "lyrics": "[Intro - nylon guitar and celesta, strings enter]\n\n[Verse 1]\n六年前你躺在我隔壁床\n臉比護士的口罩還白\n你說可以借我的手嗎\n我把擠壓球塞給你\n\n[Pre-Chorus]\n針還沒進去 你先閉眼\n\n[Chorus]\n四個月見一次針頭\n四個月牽一次你的手\n二百五十西西 換一杯熱可可\n你說這樣算約會嗎\n\n[Verse 2]\n後來我們一起填同一張表\n你還是問 會不會很痛\n護士阿姨早就認得我們\n多給你一包蘇打餅\n\n[Pre-Chorus]\n針進去了 你還沒張眼\n\n[Chorus]\n四個月見一次針頭\n六年了 還是牽我的手\n二百五十西西 換一杯熱可可\n這樣當然算約會啊\n\n[Bridge - strings and upright bass]\n下次捐血日 我已經圈在月曆上\n你說那天要穿 短袖的襯衫\n\n[Outro - celesta and nylon guitar, fading]\n握緊一點 放鬆\n我在這",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Mandarin chamber jazz-pop, Laufey-style vintage vocal jazz with classical strings. Gently strummed nylon-string guitar with jazz chords, walking upright bass, soft brushed snare, a warm string quartet answering the melody, sparkling celesta accents. Close, warm vintage room sound with soft strings behind the voice. Warm low female alto, intimate, a slight 1950s croon. 84 BPM, Bb major. Tender, wry and quietly devoted. No pop drums, no autotune, no synths, no R&B runs, no big-band brass.",
+    "lyrics": "[Intro - nylon guitar and celesta, strings enter]\n\n[Verse 1]\n六年前你躺在我隔壁床\n臉比護士的口罩還白\n你說可以借我的手嗎\n我把擠壓球塞給你\n\n[Pre-Chorus]\n針還沒進去 你先閉眼\n\n[Chorus]\n四個月見一次針頭\n四個月牽一次你的手\n二百五十西西 換一杯熱可可\n你說這樣算約會嗎\n\n[Verse 2]\n後來我們一起填同一張表\n你還是問 會不會很痛\n護士阿姨早就認得我們\n多給你一包蘇打餅\n\n[Pre-Chorus]\n針進去了 你還沒張眼\n\n[Chorus]\n四個月見一次針頭\n六年了 還是牽我的手\n二百五十西西 換一杯熱可可\n這樣當然算約會啊\n\n[Bridge - strings and upright bass]\n下次捐血日 我已經圈在月曆上\n你說那天要穿 短袖的襯衫\n\n[Outro - celesta and nylon guitar, fading]\n握緊一點 放鬆\n我在這"
+  },
+  "seed": "3763927477",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.24s**\n- 67.24s per song\n- LM phase (1 song): 11.63s\n- DiT phase (1 song): 55.61s",
+  "task_id": "f0279b86-031c-41e0-8642-400babd63d74",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-23T18:36:34.590269+08:00",
+  "audio": "b13_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.46,
+      "end": 30.46,
+      "text": "[Intro - nylon guitar and celesta, strings enter]"
+    },
+    {
+      "t": 30.46,
+      "end": 30.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.46,
+      "end": 36.88,
+      "text": "六年前你躺在我隔壁床"
+    },
+    {
+      "t": 39.0,
+      "end": 42.6,
+      "text": "臉比護士的口罩還白"
+    },
+    {
+      "t": 44.88,
+      "end": 48.1,
+      "text": "你說可以借我的手嗎"
+    },
+    {
+      "t": 50.12,
+      "end": 53.85,
+      "text": "我把擠壓球塞給你"
+    },
+    {
+      "t": 56.19,
+      "end": 56.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.19,
+      "end": 62.25,
+      "text": "針還沒進去 你先閉眼"
+    },
+    {
+      "t": 62.63,
+      "end": 62.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.63,
+      "end": 67.37,
+      "text": "四個月見一次針頭"
+    },
+    {
+      "t": 67.59,
+      "end": 71.37,
+      "text": "四個月牽一次你的手"
+    },
+    {
+      "t": 72.37,
+      "end": 81.71,
+      "text": "二百五十西西 換一杯熱可可"
+    },
+    {
+      "t": 84.77,
+      "end": 88.21,
+      "text": "你說這樣算約會嗎"
+    },
+    {
+      "t": 88.23,
+      "end": 88.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.23,
+      "end": 104.09,
+      "text": "後來我們一起填同一張表"
+    },
+    {
+      "t": 105.17,
+      "end": 110.01,
+      "text": "你還是問 會不會很痛"
+    },
+    {
+      "t": 110.03,
+      "end": 116.81,
+      "text": "護士阿姨早就認得我們"
+    },
+    {
+      "t": 116.81,
+      "end": 124.65,
+      "text": "多給你一包蘇打餅"
+    },
+    {
+      "t": 124.65,
+      "end": 124.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 124.65,
+      "end": 145.99,
+      "text": "針進去了 你還沒張眼"
+    },
+    {
+      "t": 145.99,
+      "end": 145.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.99,
+      "end": 147.77,
+      "text": "四個月見一次針頭"
+    },
+    {
+      "t": 148.45,
+      "end": 164.16,
+      "text": "六年了 還是牽我的手"
+    },
+    {
+      "t": 164.2,
+      "end": 168.68,
+      "text": "二百五十西西 換一杯熱可可"
+    },
+    {
+      "t": 168.68,
+      "end": 169.8,
+      "text": "這樣當然算約會啊"
+    },
+    {
+      "t": 169.8,
+      "end": 169.8,
+      "text": "[Bridge - strings and upright bass]"
+    },
+    {
+      "t": 169.8,
+      "end": 174.96,
+      "text": "下次捐血日 我已經圈在月曆上"
+    },
+    {
+      "t": 175.02,
+      "end": 182.48,
+      "text": "你說那天要穿 短袖的襯衫"
+    },
+    {
+      "t": 182.48,
+      "end": 182.48,
+      "text": "[Outro - celesta and nylon guitar, fading]"
+    },
+    {
+      "t": 182.48,
+      "end": 184.88,
+      "text": "握緊一點 放鬆"
+    },
+    {
+      "t": 186.66,
+      "end": 188.46,
+      "text": "我在這"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.46,
+      "end": 30.46,
+      "text": "[Intro - nylon guitar and celesta, strings enter]"
+    },
+    {
+      "t": 30.46,
+      "end": 30.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.46,
+      "end": 36.88,
+      "text": "六年前你躺在我隔壁床"
+    },
+    {
+      "t": 39.0,
+      "end": 42.6,
+      "text": "臉比護士的口罩還白"
+    },
+    {
+      "t": 44.88,
+      "end": 48.1,
+      "text": "你說可以借我的手嗎"
+    },
+    {
+      "t": 50.12,
+      "end": 53.85,
+      "text": "我把擠壓球塞給你"
+    },
+    {
+      "t": 56.19,
+      "end": 56.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.19,
+      "end": 62.25,
+      "text": "針還沒進去 你先閉眼"
+    },
+    {
+      "t": 62.63,
+      "end": 62.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.63,
+      "end": 67.37,
+      "text": "四個月見一次針頭"
+    },
+    {
+      "t": 67.59,
+      "end": 71.37,
+      "text": "四個月牽一次你的手"
+    },
+    {
+      "t": 72.37,
+      "end": 81.71,
+      "text": "二百五十西西 換一杯熱可可"
+    },
+    {
+      "t": 84.77,
+      "end": 88.21,
+      "text": "你說這樣算約會嗎"
+    },
+    {
+      "t": 88.23,
+      "end": 88.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.23,
+      "end": 104.09,
+      "text": "後來我們一起填同一張表"
+    },
+    {
+      "t": 105.17,
+      "end": 110.01,
+      "text": "你還是問 會不會很痛"
+    },
+    {
+      "t": 110.03,
+      "end": 116.81,
+      "text": "護士阿姨早就認得我們"
+    },
+    {
+      "t": 116.81,
+      "end": 124.65,
+      "text": "多給你一包蘇打餅"
+    },
+    {
+      "t": 124.65,
+      "end": 124.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 124.65,
+      "end": 145.99,
+      "text": "針進去了 你還沒張眼"
+    },
+    {
+      "t": 145.99,
+      "end": 145.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.99,
+      "end": 147.77,
+      "text": "四個月見一次針頭"
+    },
+    {
+      "t": 148.45,
+      "end": 164.16,
+      "text": "六年了 還是牽我的手"
+    },
+    {
+      "t": 164.2,
+      "end": 168.68,
+      "text": "二百五十西西 換一杯熱可可"
+    },
+    {
+      "t": 168.68,
+      "end": 169.8,
+      "text": "這樣當然算約會啊"
+    },
+    {
+      "t": 169.8,
+      "end": 169.8,
+      "text": "[Bridge - strings and upright bass]"
+    },
+    {
+      "t": 169.8,
+      "end": 174.96,
+      "text": "下次捐血日 我已經圈在月曆上"
+    },
+    {
+      "t": 175.02,
+      "end": 182.48,
+      "text": "你說那天要穿 短袖的襯衫"
+    },
+    {
+      "t": 182.48,
+      "end": 182.48,
+      "text": "[Outro - celesta and nylon guitar, fading]"
+    },
+    {
+      "t": 182.48,
+      "end": 184.88,
+      "text": "握緊一點 放鬆"
+    },
+    {
+      "t": 186.66,
+      "end": 188.46,
+      "text": "我在這"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 30.46,
+      "end": 30.46,
+      "text": "[Intro - nylon guitar and celesta, strings enter]"
+    },
+    {
+      "t": 30.46,
+      "end": 30.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.46,
+      "end": 36.86,
+      "text": "六年前你躺在我隔壁床"
+    },
+    {
+      "t": 39.02,
+      "end": 42.6,
+      "text": "臉比護士的口罩還白"
+    },
+    {
+      "t": 44.88,
+      "end": 48.1,
+      "text": "你說可以借我的手嗎"
+    },
+    {
+      "t": 50.08,
+      "end": 53.83,
+      "text": "我把擠壓球塞給你"
+    },
+    {
+      "t": 56.15,
+      "end": 56.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.15,
+      "end": 62.49,
+      "text": "針還沒進去 你先閉眼"
+    },
+    {
+      "t": 62.63,
+      "end": 62.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.63,
+      "end": 65.39,
+      "text": "四個月見一次針頭"
+    },
+    {
+      "t": 67.59,
+      "end": 71.19,
+      "text": "四個月牽一次你的手"
+    },
+    {
+      "t": 72.85,
+      "end": 81.71,
+      "text": "二百五十西西 換一杯熱可可"
+    },
+    {
+      "t": 84.79,
+      "end": 88.19,
+      "text": "你說這樣算約會嗎"
+    },
+    {
+      "t": 88.23,
+      "end": 88.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.23,
+      "end": 115.19,
+      "text": "後來我們一起填同一張表"
+    },
+    {
+      "t": 115.19,
+      "end": 116.89,
+      "text": "你還是問 會不會很痛"
+    },
+    {
+      "t": 117.25,
+      "end": 125.01,
+      "text": "護士阿姨早就認得我們"
+    },
+    {
+      "t": 125.01,
+      "end": 134.83,
+      "text": "多給你一包蘇打餅"
+    },
+    {
+      "t": 134.83,
+      "end": 134.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 134.83,
+      "end": 146.01,
+      "text": "針進去了 你還沒張眼"
+    },
+    {
+      "t": 146.01,
+      "end": 146.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.01,
+      "end": 162.74,
+      "text": "四個月見一次針頭"
+    },
+    {
+      "t": 162.74,
+      "end": 163.64,
+      "text": "六年了 還是牽我的手"
+    },
+    {
+      "t": 163.64,
+      "end": 164.38,
+      "text": "二百五十西西 換一杯熱可可"
+    },
+    {
+      "t": 164.72,
+      "end": 168.36,
+      "text": "這樣當然算約會啊"
+    },
+    {
+      "t": 168.36,
+      "end": 168.36,
+      "text": "[Bridge - strings and upright bass]"
+    },
+    {
+      "t": 168.36,
+      "end": 170.46,
+      "text": "下次捐血日 我已經圈在月曆上"
+    },
+    {
+      "t": 170.5,
+      "end": 177.74,
+      "text": "你說那天要穿 短袖的襯衫"
+    },
+    {
+      "t": 180.84,
+      "end": 180.84,
+      "text": "[Outro - celesta and nylon guitar, fading]"
+    },
+    {
+      "t": 180.84,
+      "end": 184.86,
+      "text": "握緊一點 放鬆"
+    },
+    {
+      "t": 186.66,
+      "end": 188.46,
+      "text": "我在這"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b13_zh01",
+  "title": "臭花倒數",
+  "title_source": "scripted",
+  "genre": "Chinese folk-melody phonk",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "giddy, mock-heroic, crowd-chant silly",
+  "persona": "",
+  "subject": "Taipei botanical garden staff and a growing crowd waiting four nights for a giant corpse flower (titan arum) to open, everyone holding their noses and refusing to go home",
+  "caption": "Chinese folk-melody phonk, Douyin drift-phonk style built on a pentatonic folk tune. Ringing distorted cowbell playing the folk melody, a buzzing hulusi riff answering it, heavily saturated 808 bass slides, fast Memphis-style hi-hats and rimshots, crisp handclaps. Clipped, saturated low end with a dry upfront vocal. Bright female lead with a folk-singer timbre, half-chanted, a crew of friends shouting the hook back. 130 BPM, A minor. Giddy, mock-heroic and silly. No trap rap verses, no autotune, no EDM supersaw drop, no ballad piano, no rock guitar.",
+  "lyrics": "[Intro - cowbell folk melody, hulusi answers, 808 slides in]\n\n[Verse 1]\n溫室門口排到第三根路燈\n園丁阿伯說今晚應該會開\n它憋了七年只為開兩天\n我們捏著鼻子還在等\n\n[Pre-Chorus]\n數到三 先別走\n風一吹 誰先吐\n\n[Chorus]\n臭花倒數 臭花倒數\n三 二 一 它還是沒動\n口罩戴兩層 也擋不住\n臭到整條南海路\n\n[Verse 2]\n第四晚帶了板凳和鹹酥雞\n隔壁小孩把爸爸當枕頭\n凌晨兩點葉片抖了一下\n全場安靜像在等放榜\n\n[Pre-Chorus]\n數到三 別眨眼\n味道 比花先到\n\n[Chorus]\n臭花倒數 臭花倒數\n三 二 一 它真的打開\n死老鼠加上臭襪子\n我們一邊叫一邊拍\n\n[Outro - cowbell and claps, crew shouts, 808 cuts out]\n下一次 再等七年\n我還來",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Chinese folk-melody phonk, Douyin drift-phonk style built on a pentatonic folk tune. Ringing distorted cowbell playing the folk melody, a buzzing hulusi riff answering it, heavily saturated 808 bass slides, fast Memphis-style hi-hats and rimshots, crisp handclaps. Clipped, saturated low end with a dry upfront vocal. Bright female lead with a folk-singer timbre, half-chanted, a crew of friends shouting the hook back. 130 BPM, A minor. Giddy, mock-heroic and silly. No trap rap verses, no autotune, no EDM supersaw drop, no ballad piano, no rock guitar.",
+    "lyrics": "[Intro - cowbell folk melody, hulusi answers, 808 slides in]\n\n[Verse 1]\n溫室門口排到第三根路燈\n園丁阿伯說今晚應該會開\n它憋了七年只為開兩天\n我們捏著鼻子還在等\n\n[Pre-Chorus]\n數到三 先別走\n風一吹 誰先吐\n\n[Chorus]\n臭花倒數 臭花倒數\n三 二 一 它還是沒動\n口罩戴兩層 也擋不住\n臭到整條南海路\n\n[Verse 2]\n第四晚帶了板凳和鹹酥雞\n隔壁小孩把爸爸當枕頭\n凌晨兩點葉片抖了一下\n全場安靜像在等放榜\n\n[Pre-Chorus]\n數到三 別眨眼\n味道 比花先到\n\n[Chorus]\n臭花倒數 臭花倒數\n三 二 一 它真的打開\n死老鼠加上臭襪子\n我們一邊叫一邊拍\n\n[Outro - cowbell and claps, crew shouts, 808 cuts out]\n下一次 再等七年\n我還來"
+  },
+  "seed": "3411933207",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.08s**\n- 55.08s per song\n- LM phase (1 song): 10.48s\n- DiT phase (1 song): 44.60s",
+  "task_id": "1cbbfd98-0b34-4dc9-8270-5a8134402674",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-23T18:30:14.067370+08:00",
+  "audio": "b13_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.18,
+      "end": 32.18,
+      "text": "[Intro - cowbell folk melody, hulusi answers, 808 slides in]"
+    },
+    {
+      "t": 32.18,
+      "end": 32.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.18,
+      "end": 34.66,
+      "text": "溫室門口排到第三根路燈"
+    },
+    {
+      "t": 35.44,
+      "end": 38.38,
+      "text": "園丁阿伯說今晚應該會開"
+    },
+    {
+      "t": 39.82,
+      "end": 42.0,
+      "text": "它憋了七年只為開兩天"
+    },
+    {
+      "t": 42.82,
+      "end": 45.48,
+      "text": "我們捏著鼻子還在等"
+    },
+    {
+      "t": 47.19,
+      "end": 47.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.19,
+      "end": 49.33,
+      "text": "數到三 先別走"
+    },
+    {
+      "t": 50.21,
+      "end": 52.65,
+      "text": "風一吹 誰先吐"
+    },
+    {
+      "t": 55.51,
+      "end": 55.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.51,
+      "end": 60.03,
+      "text": "臭花倒數 臭花倒數"
+    },
+    {
+      "t": 62.45,
+      "end": 63.89,
+      "text": "三 二 一 它還是沒動"
+    },
+    {
+      "t": 64.73,
+      "end": 67.41,
+      "text": "口罩戴兩層 也擋不住"
+    },
+    {
+      "t": 68.63,
+      "end": 70.35,
+      "text": "臭到整條南海路"
+    },
+    {
+      "t": 70.35,
+      "end": 70.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.35,
+      "end": 76.51,
+      "text": "第四晚帶了板凳和鹹酥雞"
+    },
+    {
+      "t": 76.51,
+      "end": 102.95,
+      "text": "隔壁小孩把爸爸當枕頭"
+    },
+    {
+      "t": 102.95,
+      "end": 104.97,
+      "text": "凌晨兩點葉片抖了一下"
+    },
+    {
+      "t": 104.97,
+      "end": 106.83,
+      "text": "全場安靜像在等放榜"
+    },
+    {
+      "t": 106.99,
+      "end": 106.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.99,
+      "end": 107.87,
+      "text": "數到三 別眨眼"
+    },
+    {
+      "t": 107.87,
+      "end": 111.33,
+      "text": "味道 比花先到"
+    },
+    {
+      "t": 111.33,
+      "end": 111.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.33,
+      "end": 113.81,
+      "text": "臭花倒數 臭花倒數"
+    },
+    {
+      "t": 116.23,
+      "end": 117.71,
+      "text": "三 二 一 它真的打開"
+    },
+    {
+      "t": 118.53,
+      "end": 120.83,
+      "text": "死老鼠加上臭襪子"
+    },
+    {
+      "t": 121.07,
+      "end": 124.05,
+      "text": "我們一邊叫一邊拍"
+    },
+    {
+      "t": 144.1,
+      "end": 144.1,
+      "text": "[Outro - cowbell and claps, crew shouts, 808 cuts out]"
+    },
+    {
+      "t": 144.1,
+      "end": 146.74,
+      "text": "下一次 再等七年"
+    },
+    {
+      "t": 147.44,
+      "end": 179.88,
+      "text": "我還來"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.18,
+      "end": 32.18,
+      "text": "[Intro - cowbell folk melody, hulusi answers, 808 slides in]"
+    },
+    {
+      "t": 32.18,
+      "end": 32.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.18,
+      "end": 34.66,
+      "text": "溫室門口排到第三根路燈"
+    },
+    {
+      "t": 35.44,
+      "end": 38.38,
+      "text": "園丁阿伯說今晚應該會開"
+    },
+    {
+      "t": 39.82,
+      "end": 42.0,
+      "text": "它憋了七年只為開兩天"
+    },
+    {
+      "t": 42.82,
+      "end": 45.48,
+      "text": "我們捏著鼻子還在等"
+    },
+    {
+      "t": 47.19,
+      "end": 47.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.19,
+      "end": 49.33,
+      "text": "數到三 先別走"
+    },
+    {
+      "t": 50.21,
+      "end": 52.65,
+      "text": "風一吹 誰先吐"
+    },
+    {
+      "t": 55.51,
+      "end": 55.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.51,
+      "end": 60.03,
+      "text": "臭花倒數 臭花倒數"
+    },
+    {
+      "t": 62.45,
+      "end": 63.89,
+      "text": "三 二 一 它還是沒動"
+    },
+    {
+      "t": 64.73,
+      "end": 67.41,
+      "text": "口罩戴兩層 也擋不住"
+    },
+    {
+      "t": 68.63,
+      "end": 70.35,
+      "text": "臭到整條南海路"
+    },
+    {
+      "t": 70.35,
+      "end": 70.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.35,
+      "end": 76.51,
+      "text": "第四晚帶了板凳和鹹酥雞"
+    },
+    {
+      "t": 76.51,
+      "end": 102.95,
+      "text": "隔壁小孩把爸爸當枕頭"
+    },
+    {
+      "t": 102.95,
+      "end": 104.97,
+      "text": "凌晨兩點葉片抖了一下"
+    },
+    {
+      "t": 104.97,
+      "end": 106.83,
+      "text": "全場安靜像在等放榜"
+    },
+    {
+      "t": 106.99,
+      "end": 106.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.99,
+      "end": 107.87,
+      "text": "數到三 別眨眼"
+    },
+    {
+      "t": 107.87,
+      "end": 111.33,
+      "text": "味道 比花先到"
+    },
+    {
+      "t": 111.33,
+      "end": 111.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.33,
+      "end": 113.81,
+      "text": "臭花倒數 臭花倒數"
+    },
+    {
+      "t": 116.23,
+      "end": 117.71,
+      "text": "三 二 一 它真的打開"
+    },
+    {
+      "t": 118.53,
+      "end": 120.83,
+      "text": "死老鼠加上臭襪子"
+    },
+    {
+      "t": 121.07,
+      "end": 124.05,
+      "text": "我們一邊叫一邊拍"
+    },
+    {
+      "t": 144.1,
+      "end": 144.1,
+      "text": "[Outro - cowbell and claps, crew shouts, 808 cuts out]"
+    },
+    {
+      "t": 144.1,
+      "end": 146.74,
+      "text": "下一次 再等七年"
+    },
+    {
+      "t": 147.44,
+      "end": 179.88,
+      "text": "我還來"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 32.16,
+      "end": 32.16,
+      "text": "[Intro - cowbell folk melody, hulusi answers, 808 slides in]"
+    },
+    {
+      "t": 32.16,
+      "end": 32.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.16,
+      "end": 34.66,
+      "text": "溫室門口排到第三根路燈"
+    },
+    {
+      "t": 35.46,
+      "end": 38.4,
+      "text": "園丁阿伯說今晚應該會開"
+    },
+    {
+      "t": 39.84,
+      "end": 41.98,
+      "text": "它憋了七年只為開兩天"
+    },
+    {
+      "t": 42.82,
+      "end": 45.5,
+      "text": "我們捏著鼻子還在等"
+    },
+    {
+      "t": 47.19,
+      "end": 47.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.19,
+      "end": 49.29,
+      "text": "數到三 先別走"
+    },
+    {
+      "t": 50.19,
+      "end": 52.65,
+      "text": "風一吹 誰先吐"
+    },
+    {
+      "t": 55.73,
+      "end": 55.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.73,
+      "end": 60.03,
+      "text": "臭花倒數 臭花倒數"
+    },
+    {
+      "t": 62.45,
+      "end": 63.91,
+      "text": "三 二 一 它還是沒動"
+    },
+    {
+      "t": 64.75,
+      "end": 67.43,
+      "text": "口罩戴兩層 也擋不住"
+    },
+    {
+      "t": 68.65,
+      "end": 71.17,
+      "text": "臭到整條南海路"
+    },
+    {
+      "t": 76.79,
+      "end": 76.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.79,
+      "end": 105.35,
+      "text": "第四晚帶了板凳和鹹酥雞"
+    },
+    {
+      "t": 105.41,
+      "end": 118.93,
+      "text": "隔壁小孩把爸爸當枕頭"
+    },
+    {
+      "t": 118.97,
+      "end": 122.87,
+      "text": "凌晨兩點葉片抖了一下"
+    },
+    {
+      "t": 126.61,
+      "end": 130.95,
+      "text": "全場安靜像在等放榜"
+    },
+    {
+      "t": 130.99,
+      "end": 130.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 130.99,
+      "end": 132.55,
+      "text": "數到三 別眨眼"
+    },
+    {
+      "t": 132.61,
+      "end": 134.61,
+      "text": "味道 比花先到"
+    },
+    {
+      "t": 134.67,
+      "end": 134.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.67,
+      "end": 137.79,
+      "text": "臭花倒數 臭花倒數"
+    },
+    {
+      "t": 137.91,
+      "end": 139.34,
+      "text": "三 二 一 它真的打開"
+    },
+    {
+      "t": 144.1,
+      "end": 148.7,
+      "text": "死老鼠加上臭襪子"
+    },
+    {
+      "t": 152.02,
+      "end": 177.3,
+      "text": "我們一邊叫一邊拍"
+    },
+    {
+      "t": 177.7,
+      "end": 177.7,
+      "text": "[Outro - cowbell and claps, crew shouts, 808 cuts out]"
+    },
+    {
+      "t": 177.7,
+      "end": 181.28,
+      "text": "下一次 再等七年"
+    },
+    {
+      "t": 182.06,
+      "end": 182.58,
+      "text": "我還來"
+    }
+  ]
+}

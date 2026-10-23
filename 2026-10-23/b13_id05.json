@@ -1,0 +1,347 @@
+{
+  "id": "b13_id05",
+  "title": "Huruf Nenek",
+  "title_source": "scripted",
+  "genre": "Bugis-Makassar kecapi ballad",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "slow-dawning, warm, quietly amused",
+  "persona": "",
+  "subject": "a young man in Makassar learning the Bugis lontara script letter by letter from a primary-school workbook so he can read the folded letters his grandmother sent him while he worked in a Malaysian palm-oil plantation, which he kept for six years without ever reading",
+  "caption": "Bugis-Makassar kecapi ballad from South Sulawesi. Boat-shaped two-string kecapi plucked in rippling repeated figures, a reedy single-stringed keso-keso fiddle shadowing the melody, gendang bugis hand drum played softly with fingers, warm acoustic bass. Intimate, wooden room sound with a little air. Gentle male baritone, close and conversational. 76 BPM, D minor. Slow-dawning, warm and quietly amused. No pop drum kit, no synth pads, no autotune, no trap, no orchestral strings.",
+  "lyrics": "[Intro - kecapi ripple, keso-keso enters]\n\n[Verse 1]\nEnam tahun di kebun sawit Sabah\nTiap bulan ada surat dari Bone\nHurufnya kayak gelombang kecil\nAku lipat, aku simpan, nggak kubaca\n\n[Pre-Chorus]\nAku malu bilang nggak bisa\nNenek kira cucunya pintar\n\n[Chorus]\nKa, ga, nga, aku eja pelan-pelan\nBuku tulis anak kelas tiga\nSurat pertama baru dua baris\nNenek tanya, sudah makan atau belum\n\n[Verse 2]\nMalam ini aku sampai surat kelima\nDia cerita ayam yang hilang\nDia cerita tetangga yang curang\nDia tulis, jangan kirim uang dulu\n\n[Pre-Chorus]\nEnam tahun dia ngobrol sendiri\nAku yang datang terlambat\n\n[Chorus]\nKa, ga, nga, aku eja pelan-pelan\nTujuh puluh dua surat di kardus mi\nSurat kelima akhirnya habis\nNenek tanya, kapan pulang ke Bone\n\n[Bridge - kecapi alone]\nBesok aku tulis balasan pertama\nHurufku miring, pasti dia ketawa\n\n[Outro - kecapi and keso-keso, fading]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Bugis-Makassar kecapi ballad from South Sulawesi. Boat-shaped two-string kecapi plucked in rippling repeated figures, a reedy single-stringed keso-keso fiddle shadowing the melody, gendang bugis hand drum played softly with fingers, warm acoustic bass. Intimate, wooden room sound with a little air. Gentle male baritone, close and conversational. 76 BPM, D minor. Slow-dawning, warm and quietly amused. No pop drum kit, no synth pads, no autotune, no trap, no orchestral strings.",
+    "lyrics": "[Intro - kecapi ripple, keso-keso enters]\n\n[Verse 1]\nEnam tahun di kebun sawit Sabah\nTiap bulan ada surat dari Bone\nHurufnya kayak gelombang kecil\nAku lipat, aku simpan, nggak kubaca\n\n[Pre-Chorus]\nAku malu bilang nggak bisa\nNenek kira cucunya pintar\n\n[Chorus]\nKa, ga, nga, aku eja pelan-pelan\nBuku tulis anak kelas tiga\nSurat pertama baru dua baris\nNenek tanya, sudah makan atau belum\n\n[Verse 2]\nMalam ini aku sampai surat kelima\nDia cerita ayam yang hilang\nDia cerita tetangga yang curang\nDia tulis, jangan kirim uang dulu\n\n[Pre-Chorus]\nEnam tahun dia ngobrol sendiri\nAku yang datang terlambat\n\n[Chorus]\nKa, ga, nga, aku eja pelan-pelan\nTujuh puluh dua surat di kardus mi\nSurat kelima akhirnya habis\nNenek tanya, kapan pulang ke Bone\n\n[Bridge - kecapi alone]\nBesok aku tulis balasan pertama\nHurufku miring, pasti dia ketawa\n\n[Outro - kecapi and keso-keso, fading]"
+  },
+  "seed": "1918841693",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.54s**\n- 72.54s per song\n- LM phase (1 song): 6.75s\n- DiT phase (1 song): 65.80s",
+  "task_id": "834c589b-a66a-40b0-ac0f-242a05a548bd",
+  "elapsed_s": 100.3,
+  "generated_at": "2026-10-23T18:05:51.531874+08:00",
+  "audio": "b13_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 44.7,
+      "end": 44.7,
+      "text": "[Intro - kecapi ripple, keso-keso enters]"
+    },
+    {
+      "t": 44.7,
+      "end": 44.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.7,
+      "end": 48.68,
+      "text": "Enam tahun di kebun sawit Sabah"
+    },
+    {
+      "t": 50.52,
+      "end": 53.36,
+      "text": "Tiap bulan ada surat dari Bone"
+    },
+    {
+      "t": 53.36,
+      "end": 57.37,
+      "text": "Hurufnya kayak gelombang kecil"
+    },
+    {
+      "t": 57.45,
+      "end": 59.67,
+      "text": "Aku lipat, aku simpan, nggak kubaca"
+    },
+    {
+      "t": 59.69,
+      "end": 59.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.69,
+      "end": 62.37,
+      "text": "Aku malu bilang nggak bisa"
+    },
+    {
+      "t": 62.39,
+      "end": 65.31,
+      "text": "Nenek kira cucunya pintar"
+    },
+    {
+      "t": 65.31,
+      "end": 65.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.31,
+      "end": 67.73,
+      "text": "Ka, ga, nga, aku eja pelan-pelan"
+    },
+    {
+      "t": 67.73,
+      "end": 69.21,
+      "text": "Buku tulis anak kelas tiga"
+    },
+    {
+      "t": 69.21,
+      "end": 69.79,
+      "text": "Surat pertama baru dua baris"
+    },
+    {
+      "t": 71.37,
+      "end": 75.77,
+      "text": "Nenek tanya, sudah makan atau belum"
+    },
+    {
+      "t": 78.17,
+      "end": 78.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.17,
+      "end": 82.41,
+      "text": "Malam ini aku sampai surat kelima"
+    },
+    {
+      "t": 84.23,
+      "end": 88.83,
+      "text": "Dia cerita ayam yang hilang"
+    },
+    {
+      "t": 91.07,
+      "end": 95.11,
+      "text": "Dia cerita tetangga yang curang"
+    },
+    {
+      "t": 97.09,
+      "end": 101.07,
+      "text": "Dia tulis, jangan kirim uang dulu"
+    },
+    {
+      "t": 104.09,
+      "end": 104.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.09,
+      "end": 107.57,
+      "text": "Enam tahun dia ngobrol sendiri"
+    },
+    {
+      "t": 110.39,
+      "end": 114.03,
+      "text": "Aku yang datang terlambat"
+    },
+    {
+      "t": 114.23,
+      "end": 114.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.23,
+      "end": 115.61,
+      "text": "Ka, ga, nga, aku eja pelan-pelan"
+    },
+    {
+      "t": 115.93,
+      "end": 122.73,
+      "text": "Tujuh puluh dua surat di kardus mi"
+    },
+    {
+      "t": 122.73,
+      "end": 126.57,
+      "text": "Surat kelima akhirnya habis"
+    },
+    {
+      "t": 128.19,
+      "end": 132.43,
+      "text": "Nenek tanya, kapan pulang ke Bone"
+    },
+    {
+      "t": 146.31,
+      "end": 146.31,
+      "text": "[Bridge - kecapi alone]"
+    },
+    {
+      "t": 146.31,
+      "end": 155.51,
+      "text": "Besok aku tulis balasan pertama"
+    },
+    {
+      "t": 204.9,
+      "end": 208.72,
+      "text": "Hurufku miring, pasti dia ketawa"
+    },
+    {
+      "t": 208.72,
+      "end": 208.72,
+      "text": "[Outro - kecapi and keso-keso, fading]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 44.72,
+      "end": 44.72,
+      "text": "[Intro - kecapi ripple, keso-keso enters]"
+    },
+    {
+      "t": 44.72,
+      "end": 44.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.72,
+      "end": 48.7,
+      "text": "Enam tahun di kebun sawit Sabah"
+    },
+    {
+      "t": 50.54,
+      "end": 53.24,
+      "text": "Tiap bulan ada surat dari Bone"
+    },
+    {
+      "t": 53.24,
+      "end": 57.37,
+      "text": "Hurufnya kayak gelombang kecil"
+    },
+    {
+      "t": 57.45,
+      "end": 59.65,
+      "text": "Aku lipat, aku simpan, nggak kubaca"
+    },
+    {
+      "t": 59.69,
+      "end": 59.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.69,
+      "end": 62.39,
+      "text": "Aku malu bilang nggak bisa"
+    },
+    {
+      "t": 62.39,
+      "end": 65.31,
+      "text": "Nenek kira cucunya pintar"
+    },
+    {
+      "t": 65.31,
+      "end": 65.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.31,
+      "end": 68.65,
+      "text": "Ka, ga, nga, aku eja pelan-pelan"
+    },
+    {
+      "t": 68.83,
+      "end": 69.73,
+      "text": "Buku tulis anak kelas tiga"
+    },
+    {
+      "t": 69.73,
+      "end": 70.87,
+      "text": "Surat pertama baru dua baris"
+    },
+    {
+      "t": 71.35,
+      "end": 75.61,
+      "text": "Nenek tanya, sudah makan atau belum"
+    },
+    {
+      "t": 78.15,
+      "end": 78.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.15,
+      "end": 82.41,
+      "text": "Malam ini aku sampai surat kelima"
+    },
+    {
+      "t": 84.23,
+      "end": 88.83,
+      "text": "Dia cerita ayam yang hilang"
+    },
+    {
+      "t": 91.05,
+      "end": 95.09,
+      "text": "Dia cerita tetangga yang curang"
+    },
+    {
+      "t": 97.09,
+      "end": 101.09,
+      "text": "Dia tulis, jangan kirim uang dulu"
+    },
+    {
+      "t": 104.17,
+      "end": 104.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.17,
+      "end": 107.55,
+      "text": "Enam tahun dia ngobrol sendiri"
+    },
+    {
+      "t": 110.39,
+      "end": 114.85,
+      "text": "Aku yang datang terlambat"
+    },
+    {
+      "t": 114.85,
+      "end": 114.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.85,
+      "end": 116.33,
+      "text": "Ka, ga, nga, aku eja pelan-pelan"
+    },
+    {
+      "t": 116.33,
+      "end": 121.91,
+      "text": "Tujuh puluh dua surat di kardus mi"
+    },
+    {
+      "t": 122.73,
+      "end": 126.59,
+      "text": "Surat kelima akhirnya habis"
+    },
+    {
+      "t": 128.19,
+      "end": 132.43,
+      "text": "Nenek tanya, kapan pulang ke Bone"
+    },
+    {
+      "t": 146.31,
+      "end": 146.31,
+      "text": "[Bridge - kecapi alone]"
+    },
+    {
+      "t": 146.31,
+      "end": 151.13,
+      "text": "Besok aku tulis balasan pertama"
+    },
+    {
+      "t": 152.51,
+      "end": 206.58,
+      "text": "Hurufku miring, pasti dia ketawa"
+    },
+    {
+      "t": 206.58,
+      "end": 206.58,
+      "text": "[Outro - kecapi and keso-keso, fading]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,327 @@
+{
+  "id": "b13_zh03",
+  "title": "原封不動",
+  "title_source": "scripted",
+  "genre": "Mandarin French touch filter house",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "giddy, sly, in on the joke",
+  "persona": "",
+  "subject": "an office secret-santa exchange on the last Friday before Christmas where, gift by gift, it emerges that everyone has quietly regifted last year's present, still in its wrapping",
+  "caption": "Mandarin French touch filter house, late-90s Parisian filter disco revived in the Justice Hyperdrama era. A looped disco string-and-horn chord sample under a sweeping low-pass filter, a punchy four-on-the-floor kick with open hi-hats, a rubbery slap-style electric bass line, phaser-swept synth stabs, off-beat hand claps. Glossy, sidechain-pumping club mix where the filter opens fully on each chorus. Smooth female alto, conversational and dry, trading lines with a small office group chorus. 124 BPM, F minor. Giddy, sly and in on the joke. No hand drums or congas, no marimba, no log drums, no big-room EDM drop, no trap hi-hats, no autotune.",
+  "lyrics": "[Intro - filtered disco chord loop, kick and claps, filter slowly opens]\n\n[Verse 1]\n十二月最後一個星期五\n會議室的燈 關了一半\n我抽到七號 拿到一盒\n包裝紙上 還貼著去年的名牌\n\n[Pre-Chorus]\n這個香氛蠟燭 怎麼好眼熟\n去年我送出去的 就是它\n\n[Chorus - filter fully open, slap bass]\n原封不動 原封不動\n繞了一圈 又回到我手中\n大家笑著說謝謝 誰也不說破\n原封不動 聖誕快樂\n\n[Verse 2]\n會計拆到圍巾 吊牌還在\n經理拿到保溫杯 是他去年買的\n實習生舉起卡片 念出聲來\n給小陳 聖誕快樂 去年寫的\n\n[Pre-Chorus]\n小陳低下頭 喝了一口水\n整個會議室 突然好安靜\n\n[Chorus - filter fully open, slap bass]\n原封不動 原封不動\n繞了一圈 又回到原來那裡\n大家笑著說謝謝 誰也不說破\n原封不動 明年再見\n\n[Outro - filter closes on the disco loop, kick and claps, group chants]\n明年再見 明年再見",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Mandarin French touch filter house, late-90s Parisian filter disco revived in the Justice Hyperdrama era. A looped disco string-and-horn chord sample under a sweeping low-pass filter, a punchy four-on-the-floor kick with open hi-hats, a rubbery slap-style electric bass line, phaser-swept synth stabs, off-beat hand claps. Glossy, sidechain-pumping club mix where the filter opens fully on each chorus. Smooth female alto, conversational and dry, trading lines with a small office group chorus. 124 BPM, F minor. Giddy, sly and in on the joke. No hand drums or congas, no marimba, no log drums, no big-room EDM drop, no trap hi-hats, no autotune.",
+    "lyrics": "[Intro - filtered disco chord loop, kick and claps, filter slowly opens]\n\n[Verse 1]\n十二月最後一個星期五\n會議室的燈 關了一半\n我抽到七號 拿到一盒\n包裝紙上 還貼著去年的名牌\n\n[Pre-Chorus]\n這個香氛蠟燭 怎麼好眼熟\n去年我送出去的 就是它\n\n[Chorus - filter fully open, slap bass]\n原封不動 原封不動\n繞了一圈 又回到我手中\n大家笑著說謝謝 誰也不說破\n原封不動 聖誕快樂\n\n[Verse 2]\n會計拆到圍巾 吊牌還在\n經理拿到保溫杯 是他去年買的\n實習生舉起卡片 念出聲來\n給小陳 聖誕快樂 去年寫的\n\n[Pre-Chorus]\n小陳低下頭 喝了一口水\n整個會議室 突然好安靜\n\n[Chorus - filter fully open, slap bass]\n原封不動 原封不動\n繞了一圈 又回到原來那裡\n大家笑著說謝謝 誰也不說破\n原封不動 明年再見\n\n[Outro - filter closes on the disco loop, kick and claps, group chants]\n明年再見 明年再見"
+  },
+  "seed": "2286896482",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.82s**\n- 67.82s per song\n- LM phase (1 song): 16.46s\n- DiT phase (1 song): 51.36s",
+  "task_id": "c0b72ada-1596-4579-9e2c-8380f5e86c13",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-23T18:33:14.399672+08:00",
+  "audio": "b13_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.58,
+      "end": 0.58,
+      "text": "[Intro - filtered disco chord loop, kick and claps, filter slowly opens]"
+    },
+    {
+      "t": 0.58,
+      "end": 0.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.58,
+      "end": 39.18,
+      "text": "十二月最後一個星期五"
+    },
+    {
+      "t": 39.3,
+      "end": 46.92,
+      "text": "會議室的燈 關了一半"
+    },
+    {
+      "t": 47.0,
+      "end": 54.81,
+      "text": "我抽到七號 拿到一盒"
+    },
+    {
+      "t": 55.21,
+      "end": 64.21,
+      "text": "包裝紙上 還貼著去年的名牌"
+    },
+    {
+      "t": 64.33,
+      "end": 64.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 64.33,
+      "end": 72.13,
+      "text": "這個香氛蠟燭 怎麼好眼熟"
+    },
+    {
+      "t": 72.13,
+      "end": 78.53,
+      "text": "去年我送出去的 就是它"
+    },
+    {
+      "t": 78.65,
+      "end": 78.65,
+      "text": "[Chorus - filter fully open, slap bass]"
+    },
+    {
+      "t": 78.65,
+      "end": 81.75,
+      "text": "原封不動 原封不動"
+    },
+    {
+      "t": 81.79,
+      "end": 83.69,
+      "text": "繞了一圈 又回到我手中"
+    },
+    {
+      "t": 83.73,
+      "end": 87.43,
+      "text": "大家笑著說謝謝 誰也不說破"
+    },
+    {
+      "t": 87.43,
+      "end": 89.19,
+      "text": "原封不動 聖誕快樂"
+    },
+    {
+      "t": 89.23,
+      "end": 89.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.23,
+      "end": 91.01,
+      "text": "會計拆到圍巾 吊牌還在"
+    },
+    {
+      "t": 91.21,
+      "end": 94.37,
+      "text": "經理拿到保溫杯 是他去年買的"
+    },
+    {
+      "t": 94.37,
+      "end": 98.65,
+      "text": "實習生舉起卡片 念出聲來"
+    },
+    {
+      "t": 98.65,
+      "end": 101.43,
+      "text": "給小陳 聖誕快樂 去年寫的"
+    },
+    {
+      "t": 101.53,
+      "end": 101.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 101.53,
+      "end": 104.59,
+      "text": "小陳低下頭 喝了一口水"
+    },
+    {
+      "t": 104.71,
+      "end": 109.11,
+      "text": "整個會議室 突然好安靜"
+    },
+    {
+      "t": 112.19,
+      "end": 112.19,
+      "text": "[Chorus - filter fully open, slap bass]"
+    },
+    {
+      "t": 112.19,
+      "end": 117.03,
+      "text": "原封不動 原封不動"
+    },
+    {
+      "t": 119.89,
+      "end": 124.71,
+      "text": "繞了一圈 又回到原來那裡"
+    },
+    {
+      "t": 127.25,
+      "end": 132.99,
+      "text": "大家笑著說謝謝 誰也不說破"
+    },
+    {
+      "t": 135.01,
+      "end": 164.68,
+      "text": "原封不動 明年再見"
+    },
+    {
+      "t": 165.06,
+      "end": 165.06,
+      "text": "[Outro - filter closes on the disco loop, kick and claps, group chants]"
+    },
+    {
+      "t": 165.06,
+      "end": 206.34,
+      "text": "明年再見 明年再見"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.4,
+      "end": 38.4,
+      "text": "[Intro - filtered disco chord loop, kick and claps, filter slowly opens]"
+    },
+    {
+      "t": 38.4,
+      "end": 38.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.4,
+      "end": 39.32,
+      "text": "十二月最後一個星期五"
+    },
+    {
+      "t": 39.32,
+      "end": 57.23,
+      "text": "會議室的燈 關了一半"
+    },
+    {
+      "t": 61.97,
+      "end": 63.55,
+      "text": "我抽到七號 拿到一盒"
+    },
+    {
+      "t": 63.71,
+      "end": 71.81,
+      "text": "包裝紙上 還貼著去年的名牌"
+    },
+    {
+      "t": 72.07,
+      "end": 72.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.07,
+      "end": 78.49,
+      "text": "這個香氛蠟燭 怎麼好眼熟"
+    },
+    {
+      "t": 78.49,
+      "end": 79.99,
+      "text": "去年我送出去的 就是它"
+    },
+    {
+      "t": 80.05,
+      "end": 80.05,
+      "text": "[Chorus - filter fully open, slap bass]"
+    },
+    {
+      "t": 80.05,
+      "end": 81.75,
+      "text": "原封不動 原封不動"
+    },
+    {
+      "t": 81.81,
+      "end": 84.47,
+      "text": "繞了一圈 又回到我手中"
+    },
+    {
+      "t": 84.47,
+      "end": 87.43,
+      "text": "大家笑著說謝謝 誰也不說破"
+    },
+    {
+      "t": 87.43,
+      "end": 89.29,
+      "text": "原封不動 聖誕快樂"
+    },
+    {
+      "t": 89.29,
+      "end": 89.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.29,
+      "end": 91.17,
+      "text": "會計拆到圍巾 吊牌還在"
+    },
+    {
+      "t": 91.21,
+      "end": 94.37,
+      "text": "經理拿到保溫杯 是他去年買的"
+    },
+    {
+      "t": 94.37,
+      "end": 97.01,
+      "text": "實習生舉起卡片 念出聲來"
+    },
+    {
+      "t": 97.01,
+      "end": 101.43,
+      "text": "給小陳 聖誕快樂 去年寫的"
+    },
+    {
+      "t": 101.55,
+      "end": 101.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 101.55,
+      "end": 104.59,
+      "text": "小陳低下頭 喝了一口水"
+    },
+    {
+      "t": 104.71,
+      "end": 109.13,
+      "text": "整個會議室 突然好安靜"
+    },
+    {
+      "t": 112.17,
+      "end": 112.17,
+      "text": "[Chorus - filter fully open, slap bass]"
+    },
+    {
+      "t": 112.17,
+      "end": 117.05,
+      "text": "原封不動 原封不動"
+    },
+    {
+      "t": 119.89,
+      "end": 124.71,
+      "text": "繞了一圈 又回到原來那裡"
+    },
+    {
+      "t": 127.25,
+      "end": 132.97,
+      "text": "大家笑著說謝謝 誰也不說破"
+    },
+    {
+      "t": 134.99,
+      "end": 165.0,
+      "text": "原封不動 明年再見"
+    },
+    {
+      "t": 165.46,
+      "end": 165.46,
+      "text": "[Outro - filter closes on the disco loop, kick and claps, group chants]"
+    },
+    {
+      "t": 165.46,
+      "end": 192.46,
+      "text": "明年再見 明年再見"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

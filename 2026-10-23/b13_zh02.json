@@ -1,0 +1,429 @@
+{
+  "id": "b13_zh02",
+  "title": "阿姨的手不要抖",
+  "title_source": "scripted",
+  "genre": "Mandarin Memphis rap",
+  "language": "zh",
+  "language_name": "Mandarin (Traditional)",
+  "mood": "swaggering, pleading, tongue-in-cheek",
+  "persona": "",
+  "subject": "a high-school boy who tries every trick for a month (compliments, a birthday card, helping wipe trays) to stop the canteen auntie's ladle shaking the braised pork back into the pot",
+  "caption": "Mandarin Memphis rap, 1990s Memphis tape-rap revival as heard on 2025 Douyin. Detuned eerie music-box loop, distorted 808 cowbell pattern, crunchy lo-fi tape drums with hard rimshots, rumbling sub bass. Dusty cassette hiss and a murky lo-fi mix with the rap sitting dry on top. Male rapper with a low, drawling triplet flow and a chanted crew hook. 140 BPM, F# minor. Swaggering, pleading and tongue-in-cheek. No autotune, no sung pop chorus, no EDM, no orchestral strings, no boom bap swing.",
+  "lyrics": "[Intro - music-box loop, cowbell, tape hiss]\n\n[Verse 1]\n十一點五十八 衝下三樓\n排在第一個 餐盤擦好亮\n阿姨舀一大勺滷肉 我心跳好快\n手腕一抖 掉回鍋裡剩兩塊皮\n\n[Chorus]\n阿姨的手 不要抖\n多給一塊 我叫你姊\n阿姨的手 不要抖\n我下午還要跑八百\n\n[Verse 2]\n第二週我誇阿姨 頭髮燙得好看\n第三週卡片寫生日快樂\n第四週幫她擦了三十個餐盤\n她笑一下 照樣抖到只剩湯\n\n[Bridge - drums drop, music box only]\n最後一天她偷偷叫我等\n從後面端出一盒 剛滷好的\n\n[Chorus]\n阿姨的手 終於不抖\n滿滿一盒 我叫你姊\n阿姨的手 終於不抖\n明天我還來擦餐盤\n\n[Outro - cowbell fades, crew chants]\n不要抖 不要抖",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 140,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Mandarin Memphis rap, 1990s Memphis tape-rap revival as heard on 2025 Douyin. Detuned eerie music-box loop, distorted 808 cowbell pattern, crunchy lo-fi tape drums with hard rimshots, rumbling sub bass. Dusty cassette hiss and a murky lo-fi mix with the rap sitting dry on top. Male rapper with a low, drawling triplet flow and a chanted crew hook. 140 BPM, F# minor. Swaggering, pleading and tongue-in-cheek. No autotune, no sung pop chorus, no EDM, no orchestral strings, no boom bap swing.",
+    "lyrics": "[Intro - music-box loop, cowbell, tape hiss]\n\n[Verse 1]\n十一點五十八 衝下三樓\n排在第一個 餐盤擦好亮\n阿姨舀一大勺滷肉 我心跳好快\n手腕一抖 掉回鍋裡剩兩塊皮\n\n[Chorus]\n阿姨的手 不要抖\n多給一塊 我叫你姊\n阿姨的手 不要抖\n我下午還要跑八百\n\n[Verse 2]\n第二週我誇阿姨 頭髮燙得好看\n第三週卡片寫生日快樂\n第四週幫她擦了三十個餐盤\n她笑一下 照樣抖到只剩湯\n\n[Bridge - drums drop, music box only]\n最後一天她偷偷叫我等\n從後面端出一盒 剛滷好的\n\n[Chorus]\n阿姨的手 終於不抖\n滿滿一盒 我叫你姊\n阿姨的手 終於不抖\n明天我還來擦餐盤\n\n[Outro - cowbell fades, crew chants]\n不要抖 不要抖"
+  },
+  "seed": "3787452156",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.72s**\n- 58.72s per song\n- LM phase (1 song): 15.64s\n- DiT phase (1 song): 43.08s",
+  "task_id": "41bf4153-080b-400e-bdb7-c3a3f214057d",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-23T18:31:44.184332+08:00",
+  "audio": "b13_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - music-box loop, cowbell, tape hiss]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 64.53,
+      "text": "十一點五十八 衝下三樓"
+    },
+    {
+      "t": 64.73,
+      "end": 76.75,
+      "text": "排在第一個 餐盤擦好亮"
+    },
+    {
+      "t": 76.81,
+      "end": 78.87,
+      "text": "阿姨舀一大勺滷肉 我心跳好快"
+    },
+    {
+      "t": 79.31,
+      "end": 81.91,
+      "text": "手腕一抖 掉回鍋裡剩兩塊皮"
+    },
+    {
+      "t": 81.99,
+      "end": 81.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.99,
+      "end": 83.13,
+      "text": "阿姨的手 不要抖"
+    },
+    {
+      "t": 83.13,
+      "end": 84.05,
+      "text": "多給一塊 我叫你姊"
+    },
+    {
+      "t": 84.13,
+      "end": 85.19,
+      "text": "阿姨的手 不要抖"
+    },
+    {
+      "t": 85.23,
+      "end": 89.73,
+      "text": "我下午還要跑八百"
+    },
+    {
+      "t": 111.03,
+      "end": 111.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 111.03,
+      "end": 114.43,
+      "text": "第二週我誇阿姨 頭髮燙得好看"
+    },
+    {
+      "t": 114.45,
+      "end": 116.91,
+      "text": "第三週卡片寫生日快樂"
+    },
+    {
+      "t": 116.97,
+      "end": 119.99,
+      "text": "第四週幫她擦了三十個餐盤"
+    },
+    {
+      "t": 120.05,
+      "end": 123.01,
+      "text": "她笑一下 照樣抖到只剩湯"
+    },
+    {
+      "t": 123.01,
+      "end": 123.01,
+      "text": "[Bridge - drums drop, music box only]"
+    },
+    {
+      "t": 123.01,
+      "end": 125.53,
+      "text": "最後一天她偷偷叫我等"
+    },
+    {
+      "t": 125.55,
+      "end": 128.47,
+      "text": "從後面端出一盒 剛滷好的"
+    },
+    {
+      "t": 128.67,
+      "end": 128.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.67,
+      "end": 131.76,
+      "text": "阿姨的手 終於不抖"
+    },
+    {
+      "t": 133.3,
+      "end": 135.98,
+      "text": "滿滿一盒 我叫你姊"
+    },
+    {
+      "t": 136.0,
+      "end": 138.98,
+      "text": "阿姨的手 終於不抖"
+    },
+    {
+      "t": 140.16,
+      "end": 143.68,
+      "text": "明天我還來擦餐盤"
+    },
+    {
+      "t": 154.92,
+      "end": 154.92,
+      "text": "[Outro - cowbell fades, crew chants]"
+    },
+    {
+      "t": 154.92,
+      "end": 157.46,
+      "text": "不要抖 不要抖"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - music-box loop, cowbell, tape hiss]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 64.53,
+      "text": "十一點五十八 衝下三樓"
+    },
+    {
+      "t": 64.73,
+      "end": 76.75,
+      "text": "排在第一個 餐盤擦好亮"
+    },
+    {
+      "t": 76.81,
+      "end": 78.87,
+      "text": "阿姨舀一大勺滷肉 我心跳好快"
+    },
+    {
+      "t": 79.31,
+      "end": 81.91,
+      "text": "手腕一抖 掉回鍋裡剩兩塊皮"
+    },
+    {
+      "t": 81.99,
+      "end": 81.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.99,
+      "end": 83.13,
+      "text": "阿姨的手 不要抖"
+    },
+    {
+      "t": 83.13,
+      "end": 84.05,
+      "text": "多給一塊 我叫你姊"
+    },
+    {
+      "t": 84.13,
+      "end": 85.19,
+      "text": "阿姨的手 不要抖"
+    },
+    {
+      "t": 85.23,
+      "end": 89.73,
+      "text": "我下午還要跑八百"
+    },
+    {
+      "t": 111.03,
+      "end": 111.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 111.03,
+      "end": 114.43,
+      "text": "第二週我誇阿姨 頭髮燙得好看"
+    },
+    {
+      "t": 114.45,
+      "end": 116.91,
+      "text": "第三週卡片寫生日快樂"
+    },
+    {
+      "t": 116.97,
+      "end": 119.99,
+      "text": "第四週幫她擦了三十個餐盤"
+    },
+    {
+      "t": 120.05,
+      "end": 123.01,
+      "text": "她笑一下 照樣抖到只剩湯"
+    },
+    {
+      "t": 123.01,
+      "end": 123.01,
+      "text": "[Bridge - drums drop, music box only]"
+    },
+    {
+      "t": 123.01,
+      "end": 125.53,
+      "text": "最後一天她偷偷叫我等"
+    },
+    {
+      "t": 125.55,
+      "end": 128.47,
+      "text": "從後面端出一盒 剛滷好的"
+    },
+    {
+      "t": 128.67,
+      "end": 128.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.67,
+      "end": 131.76,
+      "text": "阿姨的手 終於不抖"
+    },
+    {
+      "t": 133.3,
+      "end": 135.98,
+      "text": "滿滿一盒 我叫你姊"
+    },
+    {
+      "t": 136.0,
+      "end": 138.98,
+      "text": "阿姨的手 終於不抖"
+    },
+    {
+      "t": 140.16,
+      "end": 143.68,
+      "text": "明天我還來擦餐盤"
+    },
+    {
+      "t": 154.92,
+      "end": 154.92,
+      "text": "[Outro - cowbell fades, crew chants]"
+    },
+    {
+      "t": 154.92,
+      "end": 157.46,
+      "text": "不要抖 不要抖"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - music-box loop, cowbell, tape hiss]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 16.36,
+      "text": "十一點五十八 衝下三樓"
+    },
+    {
+      "t": 16.48,
+      "end": 23.54,
+      "text": "排在第一個 餐盤擦好亮"
+    },
+    {
+      "t": 24.5,
+      "end": 44.17,
+      "text": "阿姨舀一大勺滷肉 我心跳好快"
+    },
+    {
+      "t": 44.17,
+      "end": 55.19,
+      "text": "手腕一抖 掉回鍋裡剩兩塊皮"
+    },
+    {
+      "t": 55.41,
+      "end": 55.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.41,
+      "end": 57.59,
+      "text": "阿姨的手 不要抖"
+    },
+    {
+      "t": 57.65,
+      "end": 61.31,
+      "text": "多給一塊 我叫你姊"
+    },
+    {
+      "t": 61.39,
+      "end": 63.75,
+      "text": "阿姨的手 不要抖"
+    },
+    {
+      "t": 63.85,
+      "end": 65.71,
+      "text": "我下午還要跑八百"
+    },
+    {
+      "t": 66.23,
+      "end": 66.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.23,
+      "end": 78.87,
+      "text": "第二週我誇阿姨 頭髮燙得好看"
+    },
+    {
+      "t": 79.29,
+      "end": 82.21,
+      "text": "第三週卡片寫生日快樂"
+    },
+    {
+      "t": 82.73,
+      "end": 85.73,
+      "text": "第四週幫她擦了三十個餐盤"
+    },
+    {
+      "t": 89.15,
+      "end": 106.15,
+      "text": "她笑一下 照樣抖到只剩湯"
+    },
+    {
+      "t": 106.29,
+      "end": 106.29,
+      "text": "[Bridge - drums drop, music box only]"
+    },
+    {
+      "t": 106.29,
+      "end": 111.93,
+      "text": "最後一天她偷偷叫我等"
+    },
+    {
+      "t": 112.49,
+      "end": 116.07,
+      "text": "從後面端出一盒 剛滷好的"
+    },
+    {
+      "t": 116.25,
+      "end": 116.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.25,
+      "end": 119.25,
+      "text": "阿姨的手 終於不抖"
+    },
+    {
+      "t": 119.57,
+      "end": 122.71,
+      "text": "滿滿一盒 我叫你姊"
+    },
+    {
+      "t": 123.13,
+      "end": 126.11,
+      "text": "阿姨的手 終於不抖"
+    },
+    {
+      "t": 126.43,
+      "end": 130.21,
+      "text": "明天我還來擦餐盤"
+    },
+    {
+      "t": 130.53,
+      "end": 130.53,
+      "text": "[Outro - cowbell fades, crew chants]"
+    },
+    {
+      "t": 130.53,
+      "end": 166.84,
+      "text": "不要抖 不要抖"
+    }
+  ]
+}

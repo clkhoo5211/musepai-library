@@ -1,0 +1,317 @@
+{
+  "id": "b13_ko04",
+  "title": "칠 층까지 다시 칠해 주세요",
+  "title_source": "scripted",
+  "genre": "Korean tong-guitar acoustic folk revival",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm, quiet and grateful",
+  "persona": "",
+  "subject": "a young delivery rider who relies every evening on the floor numbers painted on the landings of an old walk-up apartment block, and the block's elderly caretaker (경비 아저씨) who repaints the faded numbers one landing per evening with a tape measure, finishing the seventh floor on the evening of the first snow",
+  "caption": "Korean tong-guitar acoustic folk revival, 1970s Seoul coffee-house folk played by a 2020s singer-songwriter. Fingerpicked steel-string acoustic guitar with a walking bass line, a second acoustic strumming softly, harmonica answering between lines, upright bass, brushed snare. Dry live-room recording, warm tape tone, little reverb. Young male tenor, plain and conversational, close-miked. 84 BPM, G major. Warm, quiet and grateful. No ballad belting, no string swell, no electronic drums, no pop production gloss, no autotune.",
+  "lyrics": "[Intro - fingerpicked acoustic guitar and harmonica]\n\n[Verse 1]\n저녁 여섯 시, 오토바이 세우고\n불 꺼진 계단을 뛰어 올라가\n닳아 버린 숫자 앞에서\n몇 층인지 늘 헷갈렸지\n\n[Pre-Chorus]\n그런데 어제부터 이 층이\n새하얗게 다시 보여\n\n[Chorus]\n경비 아저씨, 하루에 한 층\n줄자 대고 붓으로 칠해\n식기 전에 문 두드리라고\n숫자 하나 또렷해지네\n\n[Verse 2]\n사 층 앞에 쭈그려 앉아\n여기 사는 사람들은 눈 감고도 올라가지\n배달 오는 총각 보라고\n일부러 크게 그린다 하셨어\n\n[Pre-Chorus]\n붓 씻은 통에 김이 오르고\n아저씨 손등이 빨개\n\n[Chorus]\n경비 아저씨, 하루에 한 층\n오 층, 육 층, 천천히 올라\n내 헬멧 위에 첫눈 오던 밤\n칠 층까지 다 칠하셨네\n\n[Outro - harmonica and guitar, softly ending]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "2",
+    "prompt": "Korean tong-guitar acoustic folk revival, 1970s Seoul coffee-house folk played by a 2020s singer-songwriter. Fingerpicked steel-string acoustic guitar with a walking bass line, a second acoustic strumming softly, harmonica answering between lines, upright bass, brushed snare. Dry live-room recording, warm tape tone, little reverb. Young male tenor, plain and conversational, close-miked. 84 BPM, G major. Warm, quiet and grateful. No ballad belting, no string swell, no electronic drums, no pop production gloss, no autotune.",
+    "lyrics": "[Intro - fingerpicked acoustic guitar and harmonica]\n\n[Verse 1]\n저녁 여섯 시, 오토바이 세우고\n불 꺼진 계단을 뛰어 올라가\n닳아 버린 숫자 앞에서\n몇 층인지 늘 헷갈렸지\n\n[Pre-Chorus]\n그런데 어제부터 이 층이\n새하얗게 다시 보여\n\n[Chorus]\n경비 아저씨, 하루에 한 층\n줄자 대고 붓으로 칠해\n식기 전에 문 두드리라고\n숫자 하나 또렷해지네\n\n[Verse 2]\n사 층 앞에 쭈그려 앉아\n여기 사는 사람들은 눈 감고도 올라가지\n배달 오는 총각 보라고\n일부러 크게 그린다 하셨어\n\n[Pre-Chorus]\n붓 씻은 통에 김이 오르고\n아저씨 손등이 빨개\n\n[Chorus]\n경비 아저씨, 하루에 한 층\n오 층, 육 층, 천천히 올라\n내 헬멧 위에 첫눈 오던 밤\n칠 층까지 다 칠하셨네\n\n[Outro - harmonica and guitar, softly ending]"
+  },
+  "seed": "1464747842",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 75.67s**\n- 75.67s per song\n- LM phase (1 song): 16.49s\n- DiT phase (1 song): 59.18s",
+  "task_id": "19c69384-0a8c-46d3-9b06-0a7889ec4549",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-10-23T17:48:06.490405+08:00",
+  "audio": "b13_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.52,
+      "end": 23.52,
+      "text": "[Intro - fingerpicked acoustic guitar and harmonica]"
+    },
+    {
+      "t": 23.52,
+      "end": 23.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.52,
+      "end": 26.98,
+      "text": "저녁 여섯 시, 오토바이 세우고"
+    },
+    {
+      "t": 28.84,
+      "end": 32.36,
+      "text": "불 꺼진 계단을 뛰어 올라가"
+    },
+    {
+      "t": 34.3,
+      "end": 37.84,
+      "text": "닳아 버린 숫자 앞에서"
+    },
+    {
+      "t": 40.02,
+      "end": 43.36,
+      "text": "몇 층인지 늘 헷갈렸지"
+    },
+    {
+      "t": 45.96,
+      "end": 45.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.96,
+      "end": 49.12,
+      "text": "그런데 어제부터 이 층이"
+    },
+    {
+      "t": 50.36,
+      "end": 53.59,
+      "text": "새하얗게 다시 보여"
+    },
+    {
+      "t": 57.15,
+      "end": 57.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.15,
+      "end": 61.47,
+      "text": "경비 아저씨, 하루에 한 층"
+    },
+    {
+      "t": 62.83,
+      "end": 66.79,
+      "text": "줄자 대고 붓으로 칠해"
+    },
+    {
+      "t": 68.23,
+      "end": 72.51,
+      "text": "식기 전에 문 두드리라고"
+    },
+    {
+      "t": 74.65,
+      "end": 78.21,
+      "text": "숫자 하나 또렷해지네"
+    },
+    {
+      "t": 81.05,
+      "end": 81.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.05,
+      "end": 83.79,
+      "text": "사 층 앞에 쭈그려 앉아"
+    },
+    {
+      "t": 83.89,
+      "end": 92.45,
+      "text": "여기 사는 사람들은 눈 감고도 올라가지"
+    },
+    {
+      "t": 92.53,
+      "end": 95.69,
+      "text": "배달 오는 총각 보라고"
+    },
+    {
+      "t": 95.73,
+      "end": 98.27,
+      "text": "일부러 크게 그린다 하셨어"
+    },
+    {
+      "t": 103.95,
+      "end": 103.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.95,
+      "end": 106.47,
+      "text": "붓 씻은 통에 김이 오르고"
+    },
+    {
+      "t": 109.13,
+      "end": 115.31,
+      "text": "아저씨 손등이 빨개"
+    },
+    {
+      "t": 119.41,
+      "end": 119.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.41,
+      "end": 124.83,
+      "text": "경비 아저씨, 하루에 한 층"
+    },
+    {
+      "t": 124.89,
+      "end": 127.63,
+      "text": "오 층, 육 층, 천천히 올라"
+    },
+    {
+      "t": 128.39,
+      "end": 131.79,
+      "text": "내 헬멧 위에 첫눈 오던 밤"
+    },
+    {
+      "t": 136.17,
+      "end": 140.13,
+      "text": "칠 층까지 다 칠하셨네"
+    },
+    {
+      "t": 140.13,
+      "end": 140.13,
+      "text": "[Outro - harmonica and guitar, softly ending]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.52,
+      "end": 23.52,
+      "text": "[Intro - fingerpicked acoustic guitar and harmonica]"
+    },
+    {
+      "t": 23.52,
+      "end": 23.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.52,
+      "end": 26.98,
+      "text": "저녁 여섯 시, 오토바이 세우고"
+    },
+    {
+      "t": 28.84,
+      "end": 32.36,
+      "text": "불 꺼진 계단을 뛰어 올라가"
+    },
+    {
+      "t": 34.3,
+      "end": 37.84,
+      "text": "닳아 버린 숫자 앞에서"
+    },
+    {
+      "t": 40.0,
+      "end": 43.36,
+      "text": "몇 층인지 늘 헷갈렸지"
+    },
+    {
+      "t": 45.96,
+      "end": 45.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.96,
+      "end": 49.12,
+      "text": "그런데 어제부터 이 층이"
+    },
+    {
+      "t": 50.36,
+      "end": 53.59,
+      "text": "새하얗게 다시 보여"
+    },
+    {
+      "t": 57.13,
+      "end": 57.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.13,
+      "end": 61.35,
+      "text": "경비 아저씨, 하루에 한 층"
+    },
+    {
+      "t": 62.85,
+      "end": 66.79,
+      "text": "줄자 대고 붓으로 칠해"
+    },
+    {
+      "t": 68.23,
+      "end": 72.51,
+      "text": "식기 전에 문 두드리라고"
+    },
+    {
+      "t": 74.65,
+      "end": 78.23,
+      "text": "숫자 하나 또렷해지네"
+    },
+    {
+      "t": 81.05,
+      "end": 81.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.05,
+      "end": 83.79,
+      "text": "사 층 앞에 쭈그려 앉아"
+    },
+    {
+      "t": 84.11,
+      "end": 92.45,
+      "text": "여기 사는 사람들은 눈 감고도 올라가지"
+    },
+    {
+      "t": 92.53,
+      "end": 95.69,
+      "text": "배달 오는 총각 보라고"
+    },
+    {
+      "t": 95.73,
+      "end": 98.27,
+      "text": "일부러 크게 그린다 하셨어"
+    },
+    {
+      "t": 103.95,
+      "end": 103.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.95,
+      "end": 106.47,
+      "text": "붓 씻은 통에 김이 오르고"
+    },
+    {
+      "t": 109.13,
+      "end": 115.31,
+      "text": "아저씨 손등이 빨개"
+    },
+    {
+      "t": 119.41,
+      "end": 119.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.41,
+      "end": 124.83,
+      "text": "경비 아저씨, 하루에 한 층"
+    },
+    {
+      "t": 124.89,
+      "end": 127.63,
+      "text": "오 층, 육 층, 천천히 올라"
+    },
+    {
+      "t": 128.37,
+      "end": 131.81,
+      "text": "내 헬멧 위에 첫눈 오던 밤"
+    },
+    {
+      "t": 136.17,
+      "end": 140.15,
+      "text": "칠 층까지 다 칠하셨네"
+    },
+    {
+      "t": 140.15,
+      "end": 140.15,
+      "text": "[Outro - harmonica and guitar, softly ending]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

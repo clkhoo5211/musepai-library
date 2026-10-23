@@ -1,0 +1,347 @@
+{
+  "id": "b13_id03",
+  "title": "Kelas Memanjat",
+  "title_source": "scripted",
+  "genre": "Dayak sape' folk-pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "patient, tender, a little worried",
+  "persona": "",
+  "subject": "a keeper at an orangutan rehabilitation centre in East Kalimantan who spends every morning of forest school coaxing one orphaned young orangutan off her back and onto a liana, counting the metres it climbs before it slides down to her again",
+  "caption": "Dayak sape' folk-pop from East Kalimantan. Dayak sape' lute playing interlocking repeated motifs over a drone, soft long hand drum in a walking pattern, upright acoustic bass, breathy bamboo flute answering the voice, light hanging gong accents at phrase ends. Spacious natural reverb like an open wooden longhouse, unhurried. Warm female low-middle register with a plain, unornamented delivery and soft hummed backing. 84 BPM, A minor. Patient, tender and a little worried. No EDM, no trap, no pop drum kit, no autotune, no cinematic strings.",
+  "lyrics": "[Intro - sape' motif alone, flute enters]\n\n[Verse 1]\nJam tujuh, kelas hutan dibuka\nKamu masih nempel di punggungku\nAku tunjuk akar yang menggantung\nKamu tunjuk rambutku\n\n[Pre-Chorus]\nSatu tangan, satu kaki\nPelan, pelan, aku di sini\n\n[Chorus]\nNaik sedikit, Sari, naik sedikit\nDua meter juga sudah jauh\nAku hitung dari bawah\nKalau turun, aku tangkap dulu\n\n[Verse 2]\nMinggu ini tiga meter, lalu empat\nKamu berhenti, lihat ke bawah\nAku pura-pura sibuk sama pisang\nSupaya kamu lupa aku menunggu\n\n[Pre-Chorus]\nSatu tangan, satu kaki\nPelan, pelan, aku di sini\n\n[Chorus]\nNaik sedikit, Sari, naik sedikit\nEmpat meter, jauh dari punggungku\nAku hitung dari bawah\nKalau turun, aku tetap tunggu\n\n[Bridge - sape' and gong only]\nSuatu pagi kamu nggak turun\nDan aku harus belajar pulang sendiri\n\n[Outro - sape' drone, hummed melody, gong]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Dayak sape' folk-pop from East Kalimantan. Dayak sape' lute playing interlocking repeated motifs over a drone, soft long hand drum in a walking pattern, upright acoustic bass, breathy bamboo flute answering the voice, light hanging gong accents at phrase ends. Spacious natural reverb like an open wooden longhouse, unhurried. Warm female low-middle register with a plain, unornamented delivery and soft hummed backing. 84 BPM, A minor. Patient, tender and a little worried. No EDM, no trap, no pop drum kit, no autotune, no cinematic strings.",
+    "lyrics": "[Intro - sape' motif alone, flute enters]\n\n[Verse 1]\nJam tujuh, kelas hutan dibuka\nKamu masih nempel di punggungku\nAku tunjuk akar yang menggantung\nKamu tunjuk rambutku\n\n[Pre-Chorus]\nSatu tangan, satu kaki\nPelan, pelan, aku di sini\n\n[Chorus]\nNaik sedikit, Sari, naik sedikit\nDua meter juga sudah jauh\nAku hitung dari bawah\nKalau turun, aku tangkap dulu\n\n[Verse 2]\nMinggu ini tiga meter, lalu empat\nKamu berhenti, lihat ke bawah\nAku pura-pura sibuk sama pisang\nSupaya kamu lupa aku menunggu\n\n[Pre-Chorus]\nSatu tangan, satu kaki\nPelan, pelan, aku di sini\n\n[Chorus]\nNaik sedikit, Sari, naik sedikit\nEmpat meter, jauh dari punggungku\nAku hitung dari bawah\nKalau turun, aku tetap tunggu\n\n[Bridge - sape' and gong only]\nSuatu pagi kamu nggak turun\nDan aku harus belajar pulang sendiri\n\n[Outro - sape' drone, hummed melody, gong]"
+  },
+  "seed": "1422283396",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.91s**\n- 63.91s per song\n- LM phase (1 song): 11.49s\n- DiT phase (1 song): 52.42s",
+  "task_id": "e1f9cca1-5152-4b05-99a0-c4f95c1d33d4",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-23T18:02:41.092208+08:00",
+  "audio": "b13_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.76,
+      "end": 25.76,
+      "text": "[Intro - sape' motif alone, flute enters]"
+    },
+    {
+      "t": 25.76,
+      "end": 25.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.76,
+      "end": 30.58,
+      "text": "Jam tujuh, kelas hutan dibuka"
+    },
+    {
+      "t": 32.16,
+      "end": 36.44,
+      "text": "Kamu masih nempel di punggungku"
+    },
+    {
+      "t": 37.6,
+      "end": 41.22,
+      "text": "Aku tunjuk akar yang menggantung"
+    },
+    {
+      "t": 43.48,
+      "end": 46.86,
+      "text": "Kamu tunjuk rambutku"
+    },
+    {
+      "t": 49.88,
+      "end": 49.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.88,
+      "end": 54.03,
+      "text": "Satu tangan, satu kaki"
+    },
+    {
+      "t": 54.89,
+      "end": 58.05,
+      "text": "Pelan, pelan, aku di sini"
+    },
+    {
+      "t": 59.83,
+      "end": 59.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.83,
+      "end": 63.75,
+      "text": "Naik sedikit, Sari, naik sedikit"
+    },
+    {
+      "t": 65.53,
+      "end": 67.61,
+      "text": "Dua meter juga sudah jauh"
+    },
+    {
+      "t": 67.61,
+      "end": 69.71,
+      "text": "Aku hitung dari bawah"
+    },
+    {
+      "t": 71.11,
+      "end": 75.03,
+      "text": "Kalau turun, aku tangkap dulu"
+    },
+    {
+      "t": 79.59,
+      "end": 79.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.59,
+      "end": 83.85,
+      "text": "Minggu ini tiga meter, lalu empat"
+    },
+    {
+      "t": 85.25,
+      "end": 87.57,
+      "text": "Kamu berhenti, lihat ke bawah"
+    },
+    {
+      "t": 88.11,
+      "end": 92.13,
+      "text": "Aku pura-pura sibuk sama pisang"
+    },
+    {
+      "t": 93.69,
+      "end": 97.59,
+      "text": "Supaya kamu lupa aku menunggu"
+    },
+    {
+      "t": 103.75,
+      "end": 103.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.75,
+      "end": 107.83,
+      "text": "Satu tangan, satu kaki"
+    },
+    {
+      "t": 109.47,
+      "end": 113.31,
+      "text": "Pelan, pelan, aku di sini"
+    },
+    {
+      "t": 115.09,
+      "end": 115.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.09,
+      "end": 116.31,
+      "text": "Naik sedikit, Sari, naik sedikit"
+    },
+    {
+      "t": 116.99,
+      "end": 118.01,
+      "text": "Empat meter, jauh dari punggungku"
+    },
+    {
+      "t": 118.01,
+      "end": 142.73,
+      "text": "Aku hitung dari bawah"
+    },
+    {
+      "t": 142.73,
+      "end": 155.51,
+      "text": "Kalau turun, aku tetap tunggu"
+    },
+    {
+      "t": 157.09,
+      "end": 157.09,
+      "text": "[Bridge - sape' and gong only]"
+    },
+    {
+      "t": 157.09,
+      "end": 161.16,
+      "text": "Suatu pagi kamu nggak turun"
+    },
+    {
+      "t": 162.84,
+      "end": 169.5,
+      "text": "Dan aku harus belajar pulang sendiri"
+    },
+    {
+      "t": 169.5,
+      "end": 169.5,
+      "text": "[Outro - sape' drone, hummed melody, gong]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.76,
+      "end": 25.76,
+      "text": "[Intro - sape' motif alone, flute enters]"
+    },
+    {
+      "t": 25.76,
+      "end": 25.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.76,
+      "end": 30.58,
+      "text": "Jam tujuh, kelas hutan dibuka"
+    },
+    {
+      "t": 32.16,
+      "end": 36.44,
+      "text": "Kamu masih nempel di punggungku"
+    },
+    {
+      "t": 37.6,
+      "end": 41.24,
+      "text": "Aku tunjuk akar yang menggantung"
+    },
+    {
+      "t": 43.46,
+      "end": 46.84,
+      "text": "Kamu tunjuk rambutku"
+    },
+    {
+      "t": 49.88,
+      "end": 49.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.88,
+      "end": 54.03,
+      "text": "Satu tangan, satu kaki"
+    },
+    {
+      "t": 54.89,
+      "end": 58.05,
+      "text": "Pelan, pelan, aku di sini"
+    },
+    {
+      "t": 59.83,
+      "end": 59.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.83,
+      "end": 63.75,
+      "text": "Naik sedikit, Sari, naik sedikit"
+    },
+    {
+      "t": 64.47,
+      "end": 66.35,
+      "text": "Dua meter juga sudah jauh"
+    },
+    {
+      "t": 66.35,
+      "end": 71.07,
+      "text": "Aku hitung dari bawah"
+    },
+    {
+      "t": 71.11,
+      "end": 75.03,
+      "text": "Kalau turun, aku tangkap dulu"
+    },
+    {
+      "t": 79.57,
+      "end": 79.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.57,
+      "end": 83.87,
+      "text": "Minggu ini tiga meter, lalu empat"
+    },
+    {
+      "t": 85.25,
+      "end": 87.67,
+      "text": "Kamu berhenti, lihat ke bawah"
+    },
+    {
+      "t": 88.11,
+      "end": 92.11,
+      "text": "Aku pura-pura sibuk sama pisang"
+    },
+    {
+      "t": 93.67,
+      "end": 97.59,
+      "text": "Supaya kamu lupa aku menunggu"
+    },
+    {
+      "t": 103.75,
+      "end": 103.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.75,
+      "end": 107.83,
+      "text": "Satu tangan, satu kaki"
+    },
+    {
+      "t": 109.45,
+      "end": 113.29,
+      "text": "Pelan, pelan, aku di sini"
+    },
+    {
+      "t": 115.07,
+      "end": 115.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.07,
+      "end": 118.85,
+      "text": "Naik sedikit, Sari, naik sedikit"
+    },
+    {
+      "t": 118.95,
+      "end": 130.39,
+      "text": "Empat meter, jauh dari punggungku"
+    },
+    {
+      "t": 130.39,
+      "end": 131.37,
+      "text": "Aku hitung dari bawah"
+    },
+    {
+      "t": 131.39,
+      "end": 157.09,
+      "text": "Kalau turun, aku tetap tunggu"
+    },
+    {
+      "t": 157.09,
+      "end": 157.09,
+      "text": "[Bridge - sape' and gong only]"
+    },
+    {
+      "t": 157.09,
+      "end": 161.18,
+      "text": "Suatu pagi kamu nggak turun"
+    },
+    {
+      "t": 162.82,
+      "end": 169.5,
+      "text": "Dan aku harus belajar pulang sendiri"
+    },
+    {
+      "t": 169.5,
+      "end": 169.5,
+      "text": "[Outro - sape' drone, hummed melody, gong]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
