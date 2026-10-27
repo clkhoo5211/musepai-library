@@ -1,0 +1,317 @@
+{
+  "id": "b14_ms05",
+  "title": "Empat Puluh Kunci",
+  "title_source": "scripted",
+  "genre": "Brunei-Malay traditional pop fusion (Aziz Harun lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "patient, amused and gently exasperated",
+  "persona": "",
+  "subject": "a tenant locked out in the evening and an elderly landlord arriving with a ring of forty unlabelled keys, trying every one on the grille door while they chat",
+  "caption": "Brunei-Malay traditional pop fusion, Bornean Malay ornament in a modern pop song. Bright gulintangan gong-chime melodies, two gendang drums in a lilting adai-adai style pattern, plucked gambus lute fills, strummed acoustic guitar and a soft round synth bass. Clean modern pop production with the traditional percussion forward and warm reverb. Male tenor with smooth melismatic Malay pop phrasing and light ornaments. 98 BPM, G minor. Patient, amused and gently exasperated. No autotune, no trap beat, no EDM drop, no rock guitars, no dangdut.",
+  "lyrics": "[Intro - gulintangan and gambus, gendang enters]\n\n[Verse 1]\nPukul lapan, aku tertinggal kunci\nDuduk depan pintu, beg di riba\nTuan rumah datang naik motor\nBawa segugus, bunyi macam loceng\n\n[Pre-Chorus]\nYang ini rasanya, katanya\nTak juga, cuba yang lain\n\n[Chorus]\nEmpat puluh kunci\nSatu-satu dia cuba\nSambil cerita anak di Miri\nKunci ketiga belas pun tak kena\n\n[Verse 2]\nKucing oren datang duduk sebelah\nDia pun tunggu pintu terbuka\nNyamuk datang, lampu berkelip\nKunci kedua puluh, hampir masuk\n\n[Pre-Chorus]\nPakcik ketawa, aku pun sama\nMalam masih panjang\n\n[Chorus]\nEmpat puluh kunci\nYang terakhir, baru terbuka\nDia kata, minggu depan\nKita tulis nombor, kita tampal nama\n\n[Outro - gambus and gong-chimes fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Brunei-Malay traditional pop fusion, Bornean Malay ornament in a modern pop song. Bright gulintangan gong-chime melodies, two gendang drums in a lilting adai-adai style pattern, plucked gambus lute fills, strummed acoustic guitar and a soft round synth bass. Clean modern pop production with the traditional percussion forward and warm reverb. Male tenor with smooth melismatic Malay pop phrasing and light ornaments. 98 BPM, G minor. Patient, amused and gently exasperated. No autotune, no trap beat, no EDM drop, no rock guitars, no dangdut.",
+    "lyrics": "[Intro - gulintangan and gambus, gendang enters]\n\n[Verse 1]\nPukul lapan, aku tertinggal kunci\nDuduk depan pintu, beg di riba\nTuan rumah datang naik motor\nBawa segugus, bunyi macam loceng\n\n[Pre-Chorus]\nYang ini rasanya, katanya\nTak juga, cuba yang lain\n\n[Chorus]\nEmpat puluh kunci\nSatu-satu dia cuba\nSambil cerita anak di Miri\nKunci ketiga belas pun tak kena\n\n[Verse 2]\nKucing oren datang duduk sebelah\nDia pun tunggu pintu terbuka\nNyamuk datang, lampu berkelip\nKunci kedua puluh, hampir masuk\n\n[Pre-Chorus]\nPakcik ketawa, aku pun sama\nMalam masih panjang\n\n[Chorus]\nEmpat puluh kunci\nYang terakhir, baru terbuka\nDia kata, minggu depan\nKita tulis nombor, kita tampal nama\n\n[Outro - gambus and gong-chimes fade]"
+  },
+  "seed": "3517112342",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.28s**\n- 59.28s per song\n- LM phase (1 song): 12.89s\n- DiT phase (1 song): 46.38s",
+  "task_id": "941b32cd-161c-4f70-af5a-85c62d255dcb",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-27T12:23:11.047685+08:00",
+  "audio": "b14_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.96,
+      "end": 22.96,
+      "text": "[Intro - gulintangan and gambus, gendang enters]"
+    },
+    {
+      "t": 22.96,
+      "end": 22.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.96,
+      "end": 33.9,
+      "text": "Pukul lapan, aku tertinggal kunci"
+    },
+    {
+      "t": 41.36,
+      "end": 46.42,
+      "text": "Duduk depan pintu, beg di riba"
+    },
+    {
+      "t": 46.72,
+      "end": 51.15,
+      "text": "Tuan rumah datang naik motor"
+    },
+    {
+      "t": 51.25,
+      "end": 59.69,
+      "text": "Bawa segugus, bunyi macam loceng"
+    },
+    {
+      "t": 61.43,
+      "end": 61.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.43,
+      "end": 64.97,
+      "text": "Yang ini rasanya, katanya"
+    },
+    {
+      "t": 66.33,
+      "end": 73.97,
+      "text": "Tak juga, cuba yang lain"
+    },
+    {
+      "t": 74.03,
+      "end": 74.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 74.03,
+      "end": 77.95,
+      "text": "Empat puluh kunci"
+    },
+    {
+      "t": 78.29,
+      "end": 82.33,
+      "text": "Satu-satu dia cuba"
+    },
+    {
+      "t": 82.45,
+      "end": 86.97,
+      "text": "Sambil cerita anak di Miri"
+    },
+    {
+      "t": 89.03,
+      "end": 93.51,
+      "text": "Kunci ketiga belas pun tak kena"
+    },
+    {
+      "t": 98.59,
+      "end": 98.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.59,
+      "end": 102.65,
+      "text": "Kucing oren datang duduk sebelah"
+    },
+    {
+      "t": 103.53,
+      "end": 107.35,
+      "text": "Dia pun tunggu pintu terbuka"
+    },
+    {
+      "t": 108.41,
+      "end": 112.25,
+      "text": "Nyamuk datang, lampu berkelip"
+    },
+    {
+      "t": 112.73,
+      "end": 119.23,
+      "text": "Kunci kedua puluh, hampir masuk"
+    },
+    {
+      "t": 122.61,
+      "end": 122.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 122.61,
+      "end": 129.85,
+      "text": "Pakcik ketawa, aku pun sama"
+    },
+    {
+      "t": 130.63,
+      "end": 136.97,
+      "text": "Malam masih panjang"
+    },
+    {
+      "t": 140.33,
+      "end": 140.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.33,
+      "end": 142.87,
+      "text": "Empat puluh kunci"
+    },
+    {
+      "t": 143.95,
+      "end": 147.45,
+      "text": "Yang terakhir, baru terbuka"
+    },
+    {
+      "t": 148.89,
+      "end": 152.88,
+      "text": "Dia kata, minggu depan"
+    },
+    {
+      "t": 153.82,
+      "end": 159.78,
+      "text": "Kita tulis nombor, kita tampal nama"
+    },
+    {
+      "t": 159.78,
+      "end": 159.78,
+      "text": "[Outro - gambus and gong-chimes fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 3.36,
+      "end": 3.36,
+      "text": "[Intro - gulintangan and gambus, gendang enters]"
+    },
+    {
+      "t": 3.36,
+      "end": 3.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.36,
+      "end": 41.34,
+      "text": "Pukul lapan, aku tertinggal kunci"
+    },
+    {
+      "t": 41.34,
+      "end": 45.86,
+      "text": "Duduk depan pintu, beg di riba"
+    },
+    {
+      "t": 45.86,
+      "end": 51.15,
+      "text": "Tuan rumah datang naik motor"
+    },
+    {
+      "t": 51.25,
+      "end": 59.67,
+      "text": "Bawa segugus, bunyi macam loceng"
+    },
+    {
+      "t": 61.39,
+      "end": 61.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.39,
+      "end": 64.99,
+      "text": "Yang ini rasanya, katanya"
+    },
+    {
+      "t": 66.33,
+      "end": 70.43,
+      "text": "Tak juga, cuba yang lain"
+    },
+    {
+      "t": 71.41,
+      "end": 71.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.41,
+      "end": 75.09,
+      "text": "Empat puluh kunci"
+    },
+    {
+      "t": 75.81,
+      "end": 79.63,
+      "text": "Satu-satu dia cuba"
+    },
+    {
+      "t": 79.79,
+      "end": 86.23,
+      "text": "Sambil cerita anak di Miri"
+    },
+    {
+      "t": 89.03,
+      "end": 93.51,
+      "text": "Kunci ketiga belas pun tak kena"
+    },
+    {
+      "t": 98.59,
+      "end": 98.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.59,
+      "end": 102.67,
+      "text": "Kucing oren datang duduk sebelah"
+    },
+    {
+      "t": 103.53,
+      "end": 107.35,
+      "text": "Dia pun tunggu pintu terbuka"
+    },
+    {
+      "t": 108.41,
+      "end": 112.23,
+      "text": "Nyamuk datang, lampu berkelip"
+    },
+    {
+      "t": 112.73,
+      "end": 119.23,
+      "text": "Kunci kedua puluh, hampir masuk"
+    },
+    {
+      "t": 126.01,
+      "end": 126.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 126.01,
+      "end": 129.85,
+      "text": "Pakcik ketawa, aku pun sama"
+    },
+    {
+      "t": 130.61,
+      "end": 140.25,
+      "text": "Malam masih panjang"
+    },
+    {
+      "t": 140.33,
+      "end": 140.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.33,
+      "end": 142.87,
+      "text": "Empat puluh kunci"
+    },
+    {
+      "t": 143.95,
+      "end": 147.47,
+      "text": "Yang terakhir, baru terbuka"
+    },
+    {
+      "t": 148.89,
+      "end": 152.88,
+      "text": "Dia kata, minggu depan"
+    },
+    {
+      "t": 153.82,
+      "end": 159.8,
+      "text": "Kita tulis nombor, kita tampal nama"
+    },
+    {
+      "t": 159.8,
+      "end": 159.8,
+      "text": "[Outro - gambus and gong-chimes fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

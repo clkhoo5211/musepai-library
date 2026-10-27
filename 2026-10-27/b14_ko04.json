@@ -1,0 +1,474 @@
+{
+  "id": "b14_ko04",
+  "title": "열 번만 더",
+  "title_source": "scripted",
+  "genre": "Brazilian phonk",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "breathless, goofy and pumped",
+  "persona": "",
+  "subject": "a man rehabbing a sprained ankle at a neighbourhood physiotherapy clinic, doing calf raises and resistance-band pulls while his strict physiotherapist counts out loud and keeps saying 'ten more' every time he reaches ten",
+  "caption": "Brazilian phonk, 2024-2025 rising club style. Detuned Memphis-style cowbell melody riding on top, distorted 808 bass slides, tamborzão-style funk drum pattern with heavy kicks, short sliced brass stabs on the downbeats. Loud saturated club mix, dry cowbell up front, sidechained bass pumping under it. Male mid-register shouted rap in short bursts, answered by a female voice counting in Korean. 130 BPM, G minor. Breathless, goofy and pumped. No autotune, no melodic pop chorus, no EDM supersaw build, no slow drift-phonk tempo.",
+  "lyrics": "[Intro - cowbell melody, kick drops in]\n\n[Verse 1]\n접질린 왼쪽 발목\n동네 물리치료실\n고무줄 하나 걸고\n선생님이 웃어\n\n[Pre-Chorus]\n하나 둘 셋 넷\n다섯 여섯 일곱\n\n[Chorus]\n열 번만 더 열 번만 더\n여덟 아홉 열 또 열 번\n종아리가 불타올라\n열 번만 더 웃지 마요\n\n[Verse 2]\n까치발로 열 번\n고무줄로 열 번\n땀이 눈에 들어가\n선생님은 또 웃어\n\n[Pre-Chorus]\n하나 둘 셋 넷\n다섯 여섯 일곱\n\n[Chorus]\n열 번만 더 열 번만 더\n여덟 아홉 열 또 열 번\n다음 주엔 계단으로\n열 번만 더 걸어 볼게\n\n[Outro - cowbell alone, female voice]\n열 번만 더",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 176.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Brazilian phonk, 2024-2025 rising club style. Detuned Memphis-style cowbell melody riding on top, distorted 808 bass slides, tamborzão-style funk drum pattern with heavy kicks, short sliced brass stabs on the downbeats. Loud saturated club mix, dry cowbell up front, sidechained bass pumping under it. Male mid-register shouted rap in short bursts, answered by a female voice counting in Korean. 130 BPM, G minor. Breathless, goofy and pumped. No autotune, no melodic pop chorus, no EDM supersaw build, no slow drift-phonk tempo.",
+    "lyrics": "[Intro - cowbell melody, kick drops in]\n\n[Verse 1]\n접질린 왼쪽 발목\n동네 물리치료실\n고무줄 하나 걸고\n선생님이 웃어\n\n[Pre-Chorus]\n하나 둘 셋 넷\n다섯 여섯 일곱\n\n[Chorus]\n열 번만 더 열 번만 더\n여덟 아홉 열 또 열 번\n종아리가 불타올라\n열 번만 더 웃지 마요\n\n[Verse 2]\n까치발로 열 번\n고무줄로 열 번\n땀이 눈에 들어가\n선생님은 또 웃어\n\n[Pre-Chorus]\n하나 둘 셋 넷\n다섯 여섯 일곱\n\n[Chorus]\n열 번만 더 열 번만 더\n여덟 아홉 열 또 열 번\n다음 주엔 계단으로\n열 번만 더 걸어 볼게\n\n[Outro - cowbell alone, female voice]\n열 번만 더"
+  },
+  "seed": "1842238933",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 112.58s**\n- 112.58s per song\n- LM phase (1 song): 17.59s\n- DiT phase (1 song): 94.98s",
+  "task_id": "3dd57ca3-6010-480d-88d6-53bc189eb536",
+  "elapsed_s": 140.5,
+  "generated_at": "2026-10-27T12:14:30.036418+08:00",
+  "audio": "b14_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.8,
+      "end": 16.8,
+      "text": "[Intro - cowbell melody, kick drops in]"
+    },
+    {
+      "t": 16.8,
+      "end": 16.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.8,
+      "end": 23.42,
+      "text": "접질린 왼쪽 발목"
+    },
+    {
+      "t": 23.82,
+      "end": 38.9,
+      "text": "동네 물리치료실"
+    },
+    {
+      "t": 38.9,
+      "end": 39.28,
+      "text": "고무줄 하나 걸고"
+    },
+    {
+      "t": 39.36,
+      "end": 42.12,
+      "text": "선생님이 웃어"
+    },
+    {
+      "t": 42.88,
+      "end": 42.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.88,
+      "end": 46.81,
+      "text": "하나 둘 셋 넷"
+    },
+    {
+      "t": 46.95,
+      "end": 51.45,
+      "text": "다섯 여섯 일곱"
+    },
+    {
+      "t": 51.45,
+      "end": 51.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.45,
+      "end": 55.47,
+      "text": "열 번만 더 열 번만 더"
+    },
+    {
+      "t": 58.59,
+      "end": 63.55,
+      "text": "여덟 아홉 열 또 열 번"
+    },
+    {
+      "t": 65.91,
+      "end": 70.51,
+      "text": "종아리가 불타올라"
+    },
+    {
+      "t": 73.37,
+      "end": 77.87,
+      "text": "열 번만 더 웃지 마요"
+    },
+    {
+      "t": 79.59,
+      "end": 79.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.59,
+      "end": 81.93,
+      "text": "까치발로 열 번"
+    },
+    {
+      "t": 83.03,
+      "end": 85.45,
+      "text": "고무줄로 열 번"
+    },
+    {
+      "t": 87.41,
+      "end": 89.15,
+      "text": "땀이 눈에 들어가"
+    },
+    {
+      "t": 90.39,
+      "end": 93.01,
+      "text": "선생님은 또 웃어"
+    },
+    {
+      "t": 94.79,
+      "end": 94.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.79,
+      "end": 98.51,
+      "text": "하나 둘 셋 넷"
+    },
+    {
+      "t": 98.53,
+      "end": 99.47,
+      "text": "다섯 여섯 일곱"
+    },
+    {
+      "t": 99.47,
+      "end": 99.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.47,
+      "end": 111.09,
+      "text": "열 번만 더 열 번만 더"
+    },
+    {
+      "t": 111.93,
+      "end": 114.99,
+      "text": "여덟 아홉 열 또 열 번"
+    },
+    {
+      "t": 115.15,
+      "end": 118.77,
+      "text": "다음 주엔 계단으로"
+    },
+    {
+      "t": 119.33,
+      "end": 126.39,
+      "text": "열 번만 더 걸어 볼게"
+    },
+    {
+      "t": 164.56,
+      "end": 164.56,
+      "text": "[Outro - cowbell alone, female voice]"
+    },
+    {
+      "t": 164.56,
+      "end": 165.8,
+      "text": "열 번만 더"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.8,
+      "end": 16.8,
+      "text": "[Intro - cowbell melody, kick drops in]"
+    },
+    {
+      "t": 16.8,
+      "end": 16.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.8,
+      "end": 23.42,
+      "text": "접질린 왼쪽 발목"
+    },
+    {
+      "t": 23.82,
+      "end": 38.9,
+      "text": "동네 물리치료실"
+    },
+    {
+      "t": 38.9,
+      "end": 39.28,
+      "text": "고무줄 하나 걸고"
+    },
+    {
+      "t": 39.36,
+      "end": 42.12,
+      "text": "선생님이 웃어"
+    },
+    {
+      "t": 42.88,
+      "end": 42.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.88,
+      "end": 46.81,
+      "text": "하나 둘 셋 넷"
+    },
+    {
+      "t": 46.95,
+      "end": 51.45,
+      "text": "다섯 여섯 일곱"
+    },
+    {
+      "t": 51.45,
+      "end": 51.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.45,
+      "end": 55.47,
+      "text": "열 번만 더 열 번만 더"
+    },
+    {
+      "t": 58.59,
+      "end": 63.55,
+      "text": "여덟 아홉 열 또 열 번"
+    },
+    {
+      "t": 65.91,
+      "end": 70.51,
+      "text": "종아리가 불타올라"
+    },
+    {
+      "t": 73.37,
+      "end": 77.87,
+      "text": "열 번만 더 웃지 마요"
+    },
+    {
+      "t": 79.59,
+      "end": 79.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.59,
+      "end": 81.93,
+      "text": "까치발로 열 번"
+    },
+    {
+      "t": 83.03,
+      "end": 85.45,
+      "text": "고무줄로 열 번"
+    },
+    {
+      "t": 87.41,
+      "end": 89.15,
+      "text": "땀이 눈에 들어가"
+    },
+    {
+      "t": 90.39,
+      "end": 93.01,
+      "text": "선생님은 또 웃어"
+    },
+    {
+      "t": 94.79,
+      "end": 94.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.79,
+      "end": 98.51,
+      "text": "하나 둘 셋 넷"
+    },
+    {
+      "t": 98.53,
+      "end": 99.47,
+      "text": "다섯 여섯 일곱"
+    },
+    {
+      "t": 99.47,
+      "end": 99.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.47,
+      "end": 111.09,
+      "text": "열 번만 더 열 번만 더"
+    },
+    {
+      "t": 111.93,
+      "end": 114.99,
+      "text": "여덟 아홉 열 또 열 번"
+    },
+    {
+      "t": 115.15,
+      "end": 118.77,
+      "text": "다음 주엔 계단으로"
+    },
+    {
+      "t": 119.33,
+      "end": 126.39,
+      "text": "열 번만 더 걸어 볼게"
+    },
+    {
+      "t": 164.56,
+      "end": 164.56,
+      "text": "[Outro - cowbell alone, female voice]"
+    },
+    {
+      "t": 164.56,
+      "end": 165.8,
+      "text": "열 번만 더"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 4.08,
+      "end": 4.08,
+      "text": "[Intro - cowbell melody, kick drops in]"
+    },
+    {
+      "t": 4.08,
+      "end": 4.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.08,
+      "end": 24.66,
+      "text": "접질린 왼쪽 발목"
+    },
+    {
+      "t": 24.86,
+      "end": 26.96,
+      "text": "동네 물리치료실"
+    },
+    {
+      "t": 26.96,
+      "end": 29.66,
+      "text": "고무줄 하나 걸고"
+    },
+    {
+      "t": 29.78,
+      "end": 33.34,
+      "text": "선생님이 웃어"
+    },
+    {
+      "t": 33.46,
+      "end": 33.46,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.46,
+      "end": 35.04,
+      "text": "하나 둘 셋 넷"
+    },
+    {
+      "t": 35.04,
+      "end": 37.16,
+      "text": "다섯 여섯 일곱"
+    },
+    {
+      "t": 37.18,
+      "end": 37.18,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.18,
+      "end": 46.89,
+      "text": "열 번만 더 열 번만 더"
+    },
+    {
+      "t": 47.05,
+      "end": 50.05,
+      "text": "여덟 아홉 열 또 열 번"
+    },
+    {
+      "t": 51.17,
+      "end": 61.93,
+      "text": "종아리가 불타올라"
+    },
+    {
+      "t": 62.25,
+      "end": 77.87,
+      "text": "열 번만 더 웃지 마요"
+    },
+    {
+      "t": 79.11,
+      "end": 79.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.11,
+      "end": 81.93,
+      "text": "까치발로 열 번"
+    },
+    {
+      "t": 83.03,
+      "end": 85.41,
+      "text": "고무줄로 열 번"
+    },
+    {
+      "t": 87.41,
+      "end": 89.15,
+      "text": "땀이 눈에 들어가"
+    },
+    {
+      "t": 90.39,
+      "end": 92.97,
+      "text": "선생님은 또 웃어"
+    },
+    {
+      "t": 94.77,
+      "end": 94.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.77,
+      "end": 96.53,
+      "text": "하나 둘 셋 넷"
+    },
+    {
+      "t": 98.51,
+      "end": 121.67,
+      "text": "다섯 여섯 일곱"
+    },
+    {
+      "t": 122.17,
+      "end": 122.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.17,
+      "end": 154.04,
+      "text": "열 번만 더 열 번만 더"
+    },
+    {
+      "t": 154.46,
+      "end": 158.86,
+      "text": "여덟 아홉 열 또 열 번"
+    },
+    {
+      "t": 159.06,
+      "end": 162.9,
+      "text": "다음 주엔 계단으로"
+    },
+    {
+      "t": 163.2,
+      "end": 168.18,
+      "text": "열 번만 더 걸어 볼게"
+    },
+    {
+      "t": 168.34,
+      "end": 168.34,
+      "text": "[Outro - cowbell alone, female voice]"
+    },
+    {
+      "t": 168.34,
+      "end": 170.1,
+      "text": "열 번만 더"
+    }
+  ]
+}

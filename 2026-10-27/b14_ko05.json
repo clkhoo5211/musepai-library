@@ -1,0 +1,474 @@
+{
+  "id": "b14_ko05",
+  "title": "몬스테라",
+  "title_source": "scripted",
+  "genre": "90s West Coast G-funk party rap",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "laid-back, smug and amused",
+  "persona": "",
+  "subject": "a man in a one-room studio whose small monstera bought at a flower market grows a new split leaf every week until it blocks the window, covers the TV and claims half his single bed, and he keeps rearranging his life around it instead of pruning",
+  "caption": "90s West Coast G-funk party rap. High whining portamento Moog-style lead synth, talk box fills between lines, rubbery synth bass bouncing on the one, laid-back drum machine with handclaps on the backbeat, clean wah-wah guitar scratches. Warm sunny mix, wide synth lead, soft tape saturation, dry upfront vocal. Male baritone rap with a relaxed sing-song flow, female soul backing vocals on the hook. 92 BPM, Eb major. Laid-back, smug and amused. No autotune, no trap hi-hats, no boom bap sample loop, no EDM drop, no rock guitars.",
+  "lyrics": "[Intro - talk box, synth bass, handclaps]\n\n[Verse 1]\n꽃시장에서 만 원\n손바닥만 한 몬스테라\n원룸 창가 구석에\n물 한 컵 주고 잤지\n\n[Pre-Chorus]\n일주일에 한 장\n구멍 난 잎이 나와\n\n[Chorus]\n몬스테라 몬스테라\n창문을 다 가려 버려\n내 방인지 네 방인지\n그래도 자를 순 없어\n\n[Verse 2]\n티비 앞을 덮더니\n침대 반쪽 차지해\n나는 벽에 붙어 자\n잎사귀 이불 삼아\n\n[Pre-Chorus]\n월세는 내가 내\n햇빛은 네가 먹어\n\n[Chorus]\n몬스테라 몬스테라\n현관까지 넘어왔어\n새 화분 사러 간다\n더 큰 걸로 하나\n\n[Outro - talk box and synth lead fade]\n몬스테라 몬스테라",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "90s West Coast G-funk party rap. High whining portamento Moog-style lead synth, talk box fills between lines, rubbery synth bass bouncing on the one, laid-back drum machine with handclaps on the backbeat, clean wah-wah guitar scratches. Warm sunny mix, wide synth lead, soft tape saturation, dry upfront vocal. Male baritone rap with a relaxed sing-song flow, female soul backing vocals on the hook. 92 BPM, Eb major. Laid-back, smug and amused. No autotune, no trap hi-hats, no boom bap sample loop, no EDM drop, no rock guitars.",
+    "lyrics": "[Intro - talk box, synth bass, handclaps]\n\n[Verse 1]\n꽃시장에서 만 원\n손바닥만 한 몬스테라\n원룸 창가 구석에\n물 한 컵 주고 잤지\n\n[Pre-Chorus]\n일주일에 한 장\n구멍 난 잎이 나와\n\n[Chorus]\n몬스테라 몬스테라\n창문을 다 가려 버려\n내 방인지 네 방인지\n그래도 자를 순 없어\n\n[Verse 2]\n티비 앞을 덮더니\n침대 반쪽 차지해\n나는 벽에 붙어 자\n잎사귀 이불 삼아\n\n[Pre-Chorus]\n월세는 내가 내\n햇빛은 네가 먹어\n\n[Chorus]\n몬스테라 몬스테라\n현관까지 넘어왔어\n새 화분 사러 간다\n더 큰 걸로 하나\n\n[Outro - talk box and synth lead fade]\n몬스테라 몬스테라"
+  },
+  "seed": "2228449504",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 90.91s**\n- 90.91s per song\n- LM phase (1 song): 15.84s\n- DiT phase (1 song): 75.07s",
+  "task_id": "f0bada20-3e06-4602-86f9-223b597e991a",
+  "elapsed_s": 120.1,
+  "generated_at": "2026-10-27T12:16:30.161312+08:00",
+  "audio": "b14_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.0,
+      "end": 23.0,
+      "text": "[Intro - talk box, synth bass, handclaps]"
+    },
+    {
+      "t": 23.0,
+      "end": 23.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.0,
+      "end": 26.24,
+      "text": "꽃시장에서 만 원"
+    },
+    {
+      "t": 26.62,
+      "end": 29.62,
+      "text": "손바닥만 한 몬스테라"
+    },
+    {
+      "t": 32.26,
+      "end": 34.7,
+      "text": "원룸 창가 구석에"
+    },
+    {
+      "t": 36.9,
+      "end": 39.32,
+      "text": "물 한 컵 주고 잤지"
+    },
+    {
+      "t": 39.94,
+      "end": 39.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.94,
+      "end": 42.0,
+      "text": "일주일에 한 장"
+    },
+    {
+      "t": 42.5,
+      "end": 45.28,
+      "text": "구멍 난 잎이 나와"
+    },
+    {
+      "t": 45.54,
+      "end": 45.54,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.54,
+      "end": 67.81,
+      "text": "몬스테라 몬스테라"
+    },
+    {
+      "t": 68.79,
+      "end": 71.61,
+      "text": "창문을 다 가려 버려"
+    },
+    {
+      "t": 72.13,
+      "end": 74.21,
+      "text": "내 방인지 네 방인지"
+    },
+    {
+      "t": 74.43,
+      "end": 80.15,
+      "text": "그래도 자를 순 없어"
+    },
+    {
+      "t": 84.63,
+      "end": 84.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.63,
+      "end": 85.75,
+      "text": "티비 앞을 덮더니"
+    },
+    {
+      "t": 85.93,
+      "end": 88.81,
+      "text": "침대 반쪽 차지해"
+    },
+    {
+      "t": 89.85,
+      "end": 92.59,
+      "text": "나는 벽에 붙어 자"
+    },
+    {
+      "t": 93.71,
+      "end": 98.03,
+      "text": "잎사귀 이불 삼아"
+    },
+    {
+      "t": 102.31,
+      "end": 102.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.31,
+      "end": 108.95,
+      "text": "월세는 내가 내"
+    },
+    {
+      "t": 112.33,
+      "end": 124.71,
+      "text": "햇빛은 네가 먹어"
+    },
+    {
+      "t": 133.71,
+      "end": 133.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.71,
+      "end": 144.81,
+      "text": "몬스테라 몬스테라"
+    },
+    {
+      "t": 146.97,
+      "end": 176.58,
+      "text": "현관까지 넘어왔어"
+    },
+    {
+      "t": 179.06,
+      "end": 181.2,
+      "text": "새 화분 사러 간다"
+    },
+    {
+      "t": 183.68,
+      "end": 185.0,
+      "text": "더 큰 걸로 하나"
+    },
+    {
+      "t": 185.04,
+      "end": 185.04,
+      "text": "[Outro - talk box and synth lead fade]"
+    },
+    {
+      "t": 185.04,
+      "end": 196.38,
+      "text": "몬스테라 몬스테라"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.0,
+      "end": 23.0,
+      "text": "[Intro - talk box, synth bass, handclaps]"
+    },
+    {
+      "t": 23.0,
+      "end": 23.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.0,
+      "end": 26.24,
+      "text": "꽃시장에서 만 원"
+    },
+    {
+      "t": 26.62,
+      "end": 29.62,
+      "text": "손바닥만 한 몬스테라"
+    },
+    {
+      "t": 32.26,
+      "end": 34.7,
+      "text": "원룸 창가 구석에"
+    },
+    {
+      "t": 36.9,
+      "end": 39.32,
+      "text": "물 한 컵 주고 잤지"
+    },
+    {
+      "t": 39.94,
+      "end": 39.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.94,
+      "end": 42.0,
+      "text": "일주일에 한 장"
+    },
+    {
+      "t": 42.5,
+      "end": 45.28,
+      "text": "구멍 난 잎이 나와"
+    },
+    {
+      "t": 45.54,
+      "end": 45.54,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.54,
+      "end": 67.81,
+      "text": "몬스테라 몬스테라"
+    },
+    {
+      "t": 68.79,
+      "end": 71.61,
+      "text": "창문을 다 가려 버려"
+    },
+    {
+      "t": 72.13,
+      "end": 74.21,
+      "text": "내 방인지 네 방인지"
+    },
+    {
+      "t": 74.43,
+      "end": 80.15,
+      "text": "그래도 자를 순 없어"
+    },
+    {
+      "t": 84.63,
+      "end": 84.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.63,
+      "end": 85.75,
+      "text": "티비 앞을 덮더니"
+    },
+    {
+      "t": 85.93,
+      "end": 88.81,
+      "text": "침대 반쪽 차지해"
+    },
+    {
+      "t": 89.85,
+      "end": 92.59,
+      "text": "나는 벽에 붙어 자"
+    },
+    {
+      "t": 93.71,
+      "end": 98.03,
+      "text": "잎사귀 이불 삼아"
+    },
+    {
+      "t": 102.31,
+      "end": 102.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.31,
+      "end": 108.95,
+      "text": "월세는 내가 내"
+    },
+    {
+      "t": 112.33,
+      "end": 124.71,
+      "text": "햇빛은 네가 먹어"
+    },
+    {
+      "t": 133.71,
+      "end": 133.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.71,
+      "end": 144.81,
+      "text": "몬스테라 몬스테라"
+    },
+    {
+      "t": 146.97,
+      "end": 176.58,
+      "text": "현관까지 넘어왔어"
+    },
+    {
+      "t": 179.06,
+      "end": 181.2,
+      "text": "새 화분 사러 간다"
+    },
+    {
+      "t": 183.68,
+      "end": 185.0,
+      "text": "더 큰 걸로 하나"
+    },
+    {
+      "t": 185.04,
+      "end": 185.04,
+      "text": "[Outro - talk box and synth lead fade]"
+    },
+    {
+      "t": 185.04,
+      "end": 196.38,
+      "text": "몬스테라 몬스테라"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Intro - talk box, synth bass, handclaps]"
+    },
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.04,
+      "end": 26.22,
+      "text": "꽃시장에서 만 원"
+    },
+    {
+      "t": 26.62,
+      "end": 29.62,
+      "text": "손바닥만 한 몬스테라"
+    },
+    {
+      "t": 32.28,
+      "end": 34.7,
+      "text": "원룸 창가 구석에"
+    },
+    {
+      "t": 36.88,
+      "end": 39.32,
+      "text": "물 한 컵 주고 잤지"
+    },
+    {
+      "t": 39.94,
+      "end": 39.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.94,
+      "end": 42.02,
+      "text": "일주일에 한 장"
+    },
+    {
+      "t": 42.5,
+      "end": 45.28,
+      "text": "구멍 난 잎이 나와"
+    },
+    {
+      "t": 47.12,
+      "end": 47.12,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.12,
+      "end": 67.83,
+      "text": "몬스테라 몬스테라"
+    },
+    {
+      "t": 68.79,
+      "end": 71.61,
+      "text": "창문을 다 가려 버려"
+    },
+    {
+      "t": 72.13,
+      "end": 74.21,
+      "text": "내 방인지 네 방인지"
+    },
+    {
+      "t": 74.43,
+      "end": 83.05,
+      "text": "그래도 자를 순 없어"
+    },
+    {
+      "t": 84.63,
+      "end": 84.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.63,
+      "end": 85.73,
+      "text": "티비 앞을 덮더니"
+    },
+    {
+      "t": 85.93,
+      "end": 88.29,
+      "text": "침대 반쪽 차지해"
+    },
+    {
+      "t": 89.87,
+      "end": 97.79,
+      "text": "나는 벽에 붙어 자"
+    },
+    {
+      "t": 102.03,
+      "end": 108.61,
+      "text": "잎사귀 이불 삼아"
+    },
+    {
+      "t": 108.89,
+      "end": 108.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.89,
+      "end": 133.35,
+      "text": "월세는 내가 내"
+    },
+    {
+      "t": 133.45,
+      "end": 143.93,
+      "text": "햇빛은 네가 먹어"
+    },
+    {
+      "t": 144.17,
+      "end": 144.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.17,
+      "end": 147.87,
+      "text": "몬스테라 몬스테라"
+    },
+    {
+      "t": 152.34,
+      "end": 176.6,
+      "text": "현관까지 넘어왔어"
+    },
+    {
+      "t": 179.06,
+      "end": 181.18,
+      "text": "새 화분 사러 간다"
+    },
+    {
+      "t": 181.72,
+      "end": 185.12,
+      "text": "더 큰 걸로 하나"
+    },
+    {
+      "t": 186.02,
+      "end": 186.02,
+      "text": "[Outro - talk box and synth lead fade]"
+    },
+    {
+      "t": 186.02,
+      "end": 194.26,
+      "text": "몬스테라 몬스테라"
+    }
+  ]
+}

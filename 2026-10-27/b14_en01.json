@@ -1,0 +1,444 @@
+{
+  "id": "b14_en01",
+  "title": "No Receipt, No Problem",
+  "title_source": "scripted",
+  "genre": "Jersey club",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cocky, petty and laughing at himself",
+  "persona": "",
+  "subject": "a Newark guy trying to return a pair of white trainers to a shoe store with no receipt, arguing with the teenage clerk over the scuff on the left toe, and walking out with store credit for exactly one pair of socks",
+  "caption": "Jersey club, mid-2020s Newark dance style. Rapid kick-drum triplet patterns and the signature bed-squeak percussion loop; a rubbery sub bass under short bright synth stabs; sharp offbeat handclaps and a cowbell tick. Punchy dry club mix, loud and bouncy, close vocal. Male tenor in a bouncy half-rapped chant, a crew of friends shouting the hook back. 140 BPM, F minor. Cocky, petty and laughing at himself. No trap hi-hat rolls, no autotune, no EDM build-up and drop, no R&B ballad singing, no rock guitars.",
+  "lyrics": "[Intro - squeak loop and kick triplets]\n\n[Verse 1]\nWhite low-tops, worn them once, I swear\nLeft toe scuffed but you can't see it there\nBox is crushed, the tissue paper's gone\nWalk in smiling with my best face on\n\n[Pre-Chorus]\nKid at the counter, maybe seventeen\nLooks at the toe, then looks at me\n\n[Chorus]\nNo receipt, no problem\nPaper's in a bin somewhere, forgot it\nNo receipt, no problem\nHand me the cash and I'll stop talking\n\n[Verse 2]\nSays the policy is on the wall\nThirty days, with paper, that is all\nI say the paper blew off in the wind\nHe calls a manager, the manager grins\n\n[Chorus]\nNo receipt, big problem\nStore credit only on a plastic card\nNo receipt, big problem\nFourteen dollars, wow, that's hard\n\n[Outro - claps and squeak, crew chant]\nOne pair of socks, brand new, still on the hook\nWearing them now, go on, take a look",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 140,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Jersey club, mid-2020s Newark dance style. Rapid kick-drum triplet patterns and the signature bed-squeak percussion loop; a rubbery sub bass under short bright synth stabs; sharp offbeat handclaps and a cowbell tick. Punchy dry club mix, loud and bouncy, close vocal. Male tenor in a bouncy half-rapped chant, a crew of friends shouting the hook back. 140 BPM, F minor. Cocky, petty and laughing at himself. No trap hi-hat rolls, no autotune, no EDM build-up and drop, no R&B ballad singing, no rock guitars.",
+    "lyrics": "[Intro - squeak loop and kick triplets]\n\n[Verse 1]\nWhite low-tops, worn them once, I swear\nLeft toe scuffed but you can't see it there\nBox is crushed, the tissue paper's gone\nWalk in smiling with my best face on\n\n[Pre-Chorus]\nKid at the counter, maybe seventeen\nLooks at the toe, then looks at me\n\n[Chorus]\nNo receipt, no problem\nPaper's in a bin somewhere, forgot it\nNo receipt, no problem\nHand me the cash and I'll stop talking\n\n[Verse 2]\nSays the policy is on the wall\nThirty days, with paper, that is all\nI say the paper blew off in the wind\nHe calls a manager, the manager grins\n\n[Chorus]\nNo receipt, big problem\nStore credit only on a plastic card\nNo receipt, big problem\nFourteen dollars, wow, that's hard\n\n[Outro - claps and squeak, crew chant]\nOne pair of socks, brand new, still on the hook\nWearing them now, go on, take a look"
+  },
+  "seed": "1590274390",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 54.83s**\n- 54.83s per song\n- LM phase (1 song): 12.88s\n- DiT phase (1 song): 41.95s",
+  "task_id": "a9fd9227-7f09-4ce0-b8c1-e8f70887455d",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T12:46:33.816990+08:00",
+  "audio": "b14_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.58,
+      "end": 27.58,
+      "text": "[Intro - squeak loop and kick triplets]"
+    },
+    {
+      "t": 27.58,
+      "end": 27.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.58,
+      "end": 32.02,
+      "text": "White low-tops, worn them once, I swear"
+    },
+    {
+      "t": 34.52,
+      "end": 41.36,
+      "text": "Left toe scuffed but you can't see it there"
+    },
+    {
+      "t": 41.36,
+      "end": 45.92,
+      "text": "Box is crushed, the tissue paper's gone"
+    },
+    {
+      "t": 48.23,
+      "end": 52.91,
+      "text": "Walk in smiling with my best face on"
+    },
+    {
+      "t": 55.89,
+      "end": 55.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.89,
+      "end": 59.57,
+      "text": "Kid at the counter, maybe seventeen"
+    },
+    {
+      "t": 62.81,
+      "end": 66.13,
+      "text": "Looks at the toe, then looks at me"
+    },
+    {
+      "t": 69.67,
+      "end": 69.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.67,
+      "end": 74.61,
+      "text": "No receipt, no problem"
+    },
+    {
+      "t": 76.51,
+      "end": 77.83,
+      "text": "Paper's in a bin somewhere, forgot it"
+    },
+    {
+      "t": 78.09,
+      "end": 81.47,
+      "text": "No receipt, no problem"
+    },
+    {
+      "t": 84.63,
+      "end": 88.13,
+      "text": "Hand me the cash and I'll stop talking"
+    },
+    {
+      "t": 101.35,
+      "end": 101.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.35,
+      "end": 103.59,
+      "text": "Says the policy is on the wall"
+    },
+    {
+      "t": 103.89,
+      "end": 106.43,
+      "text": "Thirty days, with paper, that is all"
+    },
+    {
+      "t": 108.09,
+      "end": 110.53,
+      "text": "I say the paper blew off in the wind"
+    },
+    {
+      "t": 110.57,
+      "end": 114.21,
+      "text": "He calls a manager, the manager grins"
+    },
+    {
+      "t": 114.61,
+      "end": 114.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.61,
+      "end": 117.89,
+      "text": "No receipt, big problem"
+    },
+    {
+      "t": 118.85,
+      "end": 123.01,
+      "text": "Store credit only on a plastic card"
+    },
+    {
+      "t": 123.21,
+      "end": 128.19,
+      "text": "No receipt, big problem"
+    },
+    {
+      "t": 129.15,
+      "end": 152.64,
+      "text": "Fourteen dollars, wow, that's hard"
+    },
+    {
+      "t": 152.86,
+      "end": 152.86,
+      "text": "[Outro - claps and squeak, crew chant]"
+    },
+    {
+      "t": 152.86,
+      "end": 176.9,
+      "text": "One pair of socks, brand new, still on the hook"
+    },
+    {
+      "t": 177.42,
+      "end": 180.86,
+      "text": "Wearing them now, go on, take a look"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.58,
+      "end": 27.58,
+      "text": "[Intro - squeak loop and kick triplets]"
+    },
+    {
+      "t": 27.58,
+      "end": 27.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.58,
+      "end": 32.02,
+      "text": "White low-tops, worn them once, I swear"
+    },
+    {
+      "t": 34.52,
+      "end": 41.36,
+      "text": "Left toe scuffed but you can't see it there"
+    },
+    {
+      "t": 41.36,
+      "end": 45.92,
+      "text": "Box is crushed, the tissue paper's gone"
+    },
+    {
+      "t": 48.23,
+      "end": 52.91,
+      "text": "Walk in smiling with my best face on"
+    },
+    {
+      "t": 55.89,
+      "end": 55.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.89,
+      "end": 59.57,
+      "text": "Kid at the counter, maybe seventeen"
+    },
+    {
+      "t": 62.81,
+      "end": 66.13,
+      "text": "Looks at the toe, then looks at me"
+    },
+    {
+      "t": 69.67,
+      "end": 69.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.67,
+      "end": 74.61,
+      "text": "No receipt, no problem"
+    },
+    {
+      "t": 76.51,
+      "end": 77.83,
+      "text": "Paper's in a bin somewhere, forgot it"
+    },
+    {
+      "t": 78.09,
+      "end": 81.47,
+      "text": "No receipt, no problem"
+    },
+    {
+      "t": 84.63,
+      "end": 88.13,
+      "text": "Hand me the cash and I'll stop talking"
+    },
+    {
+      "t": 101.35,
+      "end": 101.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.35,
+      "end": 103.59,
+      "text": "Says the policy is on the wall"
+    },
+    {
+      "t": 103.89,
+      "end": 106.43,
+      "text": "Thirty days, with paper, that is all"
+    },
+    {
+      "t": 108.09,
+      "end": 110.53,
+      "text": "I say the paper blew off in the wind"
+    },
+    {
+      "t": 110.57,
+      "end": 114.21,
+      "text": "He calls a manager, the manager grins"
+    },
+    {
+      "t": 114.61,
+      "end": 114.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.61,
+      "end": 117.89,
+      "text": "No receipt, big problem"
+    },
+    {
+      "t": 118.85,
+      "end": 123.01,
+      "text": "Store credit only on a plastic card"
+    },
+    {
+      "t": 123.21,
+      "end": 128.19,
+      "text": "No receipt, big problem"
+    },
+    {
+      "t": 129.15,
+      "end": 152.64,
+      "text": "Fourteen dollars, wow, that's hard"
+    },
+    {
+      "t": 152.86,
+      "end": 152.86,
+      "text": "[Outro - claps and squeak, crew chant]"
+    },
+    {
+      "t": 152.86,
+      "end": 176.9,
+      "text": "One pair of socks, brand new, still on the hook"
+    },
+    {
+      "t": 177.42,
+      "end": 180.86,
+      "text": "Wearing them now, go on, take a look"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.58,
+      "end": 27.58,
+      "text": "[Intro - squeak loop and kick triplets]"
+    },
+    {
+      "t": 27.58,
+      "end": 27.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.58,
+      "end": 32.08,
+      "text": "White low-tops, worn them once, I swear"
+    },
+    {
+      "t": 34.52,
+      "end": 38.92,
+      "text": "Left toe scuffed but you can't see it there"
+    },
+    {
+      "t": 41.38,
+      "end": 45.92,
+      "text": "Box is crushed, the tissue paper's gone"
+    },
+    {
+      "t": 48.21,
+      "end": 52.93,
+      "text": "Walk in smiling with my best face on"
+    },
+    {
+      "t": 55.89,
+      "end": 55.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.89,
+      "end": 59.65,
+      "text": "Kid at the counter, maybe seventeen"
+    },
+    {
+      "t": 62.81,
+      "end": 66.13,
+      "text": "Looks at the toe, then looks at me"
+    },
+    {
+      "t": 69.67,
+      "end": 69.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.67,
+      "end": 74.61,
+      "text": "No receipt, no problem"
+    },
+    {
+      "t": 76.51,
+      "end": 77.53,
+      "text": "Paper's in a bin somewhere, forgot it"
+    },
+    {
+      "t": 77.55,
+      "end": 81.47,
+      "text": "No receipt, no problem"
+    },
+    {
+      "t": 84.63,
+      "end": 88.15,
+      "text": "Hand me the cash and I'll stop talking"
+    },
+    {
+      "t": 101.35,
+      "end": 101.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.35,
+      "end": 103.63,
+      "text": "Says the policy is on the wall"
+    },
+    {
+      "t": 103.89,
+      "end": 106.43,
+      "text": "Thirty days, with paper, that is all"
+    },
+    {
+      "t": 108.09,
+      "end": 110.51,
+      "text": "I say the paper blew off in the wind"
+    },
+    {
+      "t": 110.57,
+      "end": 114.21,
+      "text": "He calls a manager, the manager grins"
+    },
+    {
+      "t": 114.61,
+      "end": 114.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.61,
+      "end": 117.89,
+      "text": "No receipt, big problem"
+    },
+    {
+      "t": 118.85,
+      "end": 122.77,
+      "text": "Store credit only on a plastic card"
+    },
+    {
+      "t": 123.19,
+      "end": 128.17,
+      "text": "No receipt, big problem"
+    },
+    {
+      "t": 129.17,
+      "end": 170.8,
+      "text": "Fourteen dollars, wow, that's hard"
+    },
+    {
+      "t": 173.86,
+      "end": 173.86,
+      "text": "[Outro - claps and squeak, crew chant]"
+    },
+    {
+      "t": 173.86,
+      "end": 176.9,
+      "text": "One pair of socks, brand new, still on the hook"
+    },
+    {
+      "t": 177.22,
+      "end": 180.9,
+      "text": "Wearing them now, go on, take a look"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "b14_id02",
+  "title": "Member Januari",
+  "title_source": "scripted",
+  "genre": "East Java sound horeg battle-bass DJ",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "rowdy, self-mocking, laughing",
+  "persona": "",
+  "subject": "a man in Surabaya who signs up at a shophouse gym on the second of January, goes exactly once, and keeps paying the monthly auto-debit all year while the receptionist still waves at him by name",
+  "caption": "East Java sound horeg battle-bass DJ, the mid-2020s street sound-system style. Huge distorted sub-bass drops, a pounding four-on-the-floor kick, quick kendang koplo fills between drops, a siren-like square synth lead, crowd whistles. Loud open-air truck sound-system mix with heavy low end and slapback echo. Male MC-style shouted verses with a crowd gang-chant chorus. 132 BPM, A minor. Rowdy, self-mocking, laughing. No autotune, no trap rap, no pop ballad section, no dubstep wobble, no English hook.",
+  "lyrics": "[Intro - siren synth, bass check, whistle]\n\n[Verse 1]\nTanggal dua Januari\nDaftar gym di ruko Rungkut\nDatang sekali, angkat dua kali\nBesoknya badan remuk semua\n\n[Pre-Chorus]\nTiap bulan tanggal lima\nSaldo turun tiga ratus ribu\n\n[Chorus]\nBayar terus, bayar terus\nMember yang nggak pernah datang\nKartu member di dompet lusuh\nOtotnya cuma di niat doang\n\n[Verse 2]\nBulan Mei lewat depan ruko\nMbak resepsionis lambaikan tangan\nDia hafal nama aku\nPadahal ketemu sekali doang\n\n[Bridge - kendang koplo break]\nYang angkat beban orang lain\nYang angkat tagihan aku\n\n[Chorus]\nBayar terus, bayar terus\nDesember aku datang lagi\nMbak-nya bingung, ini siapa\nAku bilang, member setia\n\n[Outro - bass drop, crowd whistles]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "East Java sound horeg battle-bass DJ, the mid-2020s street sound-system style. Huge distorted sub-bass drops, a pounding four-on-the-floor kick, quick kendang koplo fills between drops, a siren-like square synth lead, crowd whistles. Loud open-air truck sound-system mix with heavy low end and slapback echo. Male MC-style shouted verses with a crowd gang-chant chorus. 132 BPM, A minor. Rowdy, self-mocking, laughing. No autotune, no trap rap, no pop ballad section, no dubstep wobble, no English hook.",
+    "lyrics": "[Intro - siren synth, bass check, whistle]\n\n[Verse 1]\nTanggal dua Januari\nDaftar gym di ruko Rungkut\nDatang sekali, angkat dua kali\nBesoknya badan remuk semua\n\n[Pre-Chorus]\nTiap bulan tanggal lima\nSaldo turun tiga ratus ribu\n\n[Chorus]\nBayar terus, bayar terus\nMember yang nggak pernah datang\nKartu member di dompet lusuh\nOtotnya cuma di niat doang\n\n[Verse 2]\nBulan Mei lewat depan ruko\nMbak resepsionis lambaikan tangan\nDia hafal nama aku\nPadahal ketemu sekali doang\n\n[Bridge - kendang koplo break]\nYang angkat beban orang lain\nYang angkat tagihan aku\n\n[Chorus]\nBayar terus, bayar terus\nDesember aku datang lagi\nMbak-nya bingung, ini siapa\nAku bilang, member setia\n\n[Outro - bass drop, crowd whistles]"
+  },
+  "seed": "4059391393",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 147.78s**\n- 147.78s per song\n- LM phase (1 song): 20.06s\n- DiT phase (1 song): 127.72s",
+  "task_id": "caaa0c98-5724-4992-9dfa-f860cbcaad58",
+  "elapsed_s": 181.9,
+  "generated_at": "2026-10-27T18:37:01.384798+08:00",
+  "audio": "b14_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.36,
+      "end": 29.36,
+      "text": "[Intro - siren synth, bass check, whistle]"
+    },
+    {
+      "t": 29.36,
+      "end": 29.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.36,
+      "end": 31.4,
+      "text": "Tanggal dua Januari"
+    },
+    {
+      "t": 34.16,
+      "end": 36.7,
+      "text": "Daftar gym di ruko Rungkut"
+    },
+    {
+      "t": 37.34,
+      "end": 40.06,
+      "text": "Datang sekali, angkat dua kali"
+    },
+    {
+      "t": 40.06,
+      "end": 43.8,
+      "text": "Besoknya badan remuk semua"
+    },
+    {
+      "t": 43.92,
+      "end": 43.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.92,
+      "end": 47.87,
+      "text": "Tiap bulan tanggal lima"
+    },
+    {
+      "t": 50.17,
+      "end": 55.35,
+      "text": "Saldo turun tiga ratus ribu"
+    },
+    {
+      "t": 57.03,
+      "end": 57.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.03,
+      "end": 60.57,
+      "text": "Bayar terus, bayar terus"
+    },
+    {
+      "t": 60.57,
+      "end": 61.87,
+      "text": "Member yang nggak pernah datang"
+    },
+    {
+      "t": 61.87,
+      "end": 64.63,
+      "text": "Kartu member di dompet lusuh"
+    },
+    {
+      "t": 64.65,
+      "end": 68.97,
+      "text": "Ototnya cuma di niat doang"
+    },
+    {
+      "t": 71.57,
+      "end": 71.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.57,
+      "end": 75.99,
+      "text": "Bulan Mei lewat depan ruko"
+    },
+    {
+      "t": 78.73,
+      "end": 83.49,
+      "text": "Mbak resepsionis lambaikan tangan"
+    },
+    {
+      "t": 86.09,
+      "end": 90.51,
+      "text": "Dia hafal nama aku"
+    },
+    {
+      "t": 91.77,
+      "end": 117.57,
+      "text": "Padahal ketemu sekali doang"
+    },
+    {
+      "t": 117.61,
+      "end": 117.61,
+      "text": "[Bridge - kendang koplo break]"
+    },
+    {
+      "t": 117.61,
+      "end": 124.19,
+      "text": "Yang angkat beban orang lain"
+    },
+    {
+      "t": 124.25,
+      "end": 148.14,
+      "text": "Yang angkat tagihan aku"
+    },
+    {
+      "t": 158.32,
+      "end": 158.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.32,
+      "end": 161.38,
+      "text": "Bayar terus, bayar terus"
+    },
+    {
+      "t": 161.96,
+      "end": 164.58,
+      "text": "Desember aku datang lagi"
+    },
+    {
+      "t": 165.56,
+      "end": 168.44,
+      "text": "Mbak-nya bingung, ini siapa"
+    },
+    {
+      "t": 169.32,
+      "end": 171.86,
+      "text": "Aku bilang, member setia"
+    },
+    {
+      "t": 171.86,
+      "end": 171.86,
+      "text": "[Outro - bass drop, crowd whistles]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.36,
+      "end": 29.36,
+      "text": "[Intro - siren synth, bass check, whistle]"
+    },
+    {
+      "t": 29.36,
+      "end": 29.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.36,
+      "end": 31.4,
+      "text": "Tanggal dua Januari"
+    },
+    {
+      "t": 34.16,
+      "end": 36.7,
+      "text": "Daftar gym di ruko Rungkut"
+    },
+    {
+      "t": 37.34,
+      "end": 40.06,
+      "text": "Datang sekali, angkat dua kali"
+    },
+    {
+      "t": 40.06,
+      "end": 43.8,
+      "text": "Besoknya badan remuk semua"
+    },
+    {
+      "t": 43.92,
+      "end": 43.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.92,
+      "end": 47.87,
+      "text": "Tiap bulan tanggal lima"
+    },
+    {
+      "t": 50.17,
+      "end": 55.35,
+      "text": "Saldo turun tiga ratus ribu"
+    },
+    {
+      "t": 57.03,
+      "end": 57.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.03,
+      "end": 60.57,
+      "text": "Bayar terus, bayar terus"
+    },
+    {
+      "t": 60.57,
+      "end": 61.87,
+      "text": "Member yang nggak pernah datang"
+    },
+    {
+      "t": 61.87,
+      "end": 64.63,
+      "text": "Kartu member di dompet lusuh"
+    },
+    {
+      "t": 64.65,
+      "end": 68.97,
+      "text": "Ototnya cuma di niat doang"
+    },
+    {
+      "t": 71.57,
+      "end": 71.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.57,
+      "end": 75.99,
+      "text": "Bulan Mei lewat depan ruko"
+    },
+    {
+      "t": 78.73,
+      "end": 83.49,
+      "text": "Mbak resepsionis lambaikan tangan"
+    },
+    {
+      "t": 86.09,
+      "end": 90.51,
+      "text": "Dia hafal nama aku"
+    },
+    {
+      "t": 91.77,
+      "end": 117.57,
+      "text": "Padahal ketemu sekali doang"
+    },
+    {
+      "t": 117.61,
+      "end": 117.61,
+      "text": "[Bridge - kendang koplo break]"
+    },
+    {
+      "t": 117.61,
+      "end": 124.19,
+      "text": "Yang angkat beban orang lain"
+    },
+    {
+      "t": 124.25,
+      "end": 148.14,
+      "text": "Yang angkat tagihan aku"
+    },
+    {
+      "t": 158.32,
+      "end": 158.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.32,
+      "end": 161.38,
+      "text": "Bayar terus, bayar terus"
+    },
+    {
+      "t": 161.96,
+      "end": 164.58,
+      "text": "Desember aku datang lagi"
+    },
+    {
+      "t": 165.56,
+      "end": 168.44,
+      "text": "Mbak-nya bingung, ini siapa"
+    },
+    {
+      "t": 169.32,
+      "end": 171.86,
+      "text": "Aku bilang, member setia"
+    },
+    {
+      "t": 171.86,
+      "end": 171.86,
+      "text": "[Outro - bass drop, crowd whistles]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.36,
+      "end": 29.36,
+      "text": "[Intro - siren synth, bass check, whistle]"
+    },
+    {
+      "t": 29.36,
+      "end": 29.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.36,
+      "end": 31.38,
+      "text": "Tanggal dua Januari"
+    },
+    {
+      "t": 34.16,
+      "end": 36.7,
+      "text": "Daftar gym di ruko Rungkut"
+    },
+    {
+      "t": 37.36,
+      "end": 39.32,
+      "text": "Datang sekali, angkat dua kali"
+    },
+    {
+      "t": 40.06,
+      "end": 43.8,
+      "text": "Besoknya badan remuk semua"
+    },
+    {
+      "t": 45.24,
+      "end": 45.24,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.24,
+      "end": 47.85,
+      "text": "Tiap bulan tanggal lima"
+    },
+    {
+      "t": 50.19,
+      "end": 55.35,
+      "text": "Saldo turun tiga ratus ribu"
+    },
+    {
+      "t": 55.35,
+      "end": 55.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.35,
+      "end": 58.33,
+      "text": "Bayar terus, bayar terus"
+    },
+    {
+      "t": 58.33,
+      "end": 58.91,
+      "text": "Member yang nggak pernah datang"
+    },
+    {
+      "t": 58.91,
+      "end": 61.83,
+      "text": "Kartu member di dompet lusuh"
+    },
+    {
+      "t": 64.35,
+      "end": 69.01,
+      "text": "Ototnya cuma di niat doang"
+    },
+    {
+      "t": 71.57,
+      "end": 71.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.57,
+      "end": 75.97,
+      "text": "Bulan Mei lewat depan ruko"
+    },
+    {
+      "t": 78.73,
+      "end": 83.51,
+      "text": "Mbak resepsionis lambaikan tangan"
+    },
+    {
+      "t": 86.11,
+      "end": 90.51,
+      "text": "Dia hafal nama aku"
+    },
+    {
+      "t": 91.77,
+      "end": 118.17,
+      "text": "Padahal ketemu sekali doang"
+    },
+    {
+      "t": 119.21,
+      "end": 119.21,
+      "text": "[Bridge - kendang koplo break]"
+    },
+    {
+      "t": 119.21,
+      "end": 131.89,
+      "text": "Yang angkat beban orang lain"
+    },
+    {
+      "t": 135.05,
+      "end": 153.58,
+      "text": "Yang angkat tagihan aku"
+    },
+    {
+      "t": 158.32,
+      "end": 158.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.32,
+      "end": 161.38,
+      "text": "Bayar terus, bayar terus"
+    },
+    {
+      "t": 161.96,
+      "end": 164.6,
+      "text": "Desember aku datang lagi"
+    },
+    {
+      "t": 165.54,
+      "end": 168.46,
+      "text": "Mbak-nya bingung, ini siapa"
+    },
+    {
+      "t": 169.32,
+      "end": 171.86,
+      "text": "Aku bilang, member setia"
+    },
+    {
+      "t": 171.86,
+      "end": 171.86,
+      "text": "[Outro - bass drop, crowd whistles]"
+    }
+  ]
+}

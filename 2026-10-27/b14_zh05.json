@@ -1,0 +1,317 @@
+{
+  "id": "b14_zh05",
+  "title": "又胖了零點八",
+  "title_source": "scripted",
+  "genre": "Mandarin acoustic strummed guitar pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "sheepish, warm and teasing",
+  "persona": "",
+  "subject": "a young woman whose shiba inu Xiaomi has gained 0.8 kg on the vet's scale because her grandmother secretly feeds it sweet potato, who starts extra evening walks past the roast sweet-potato cart, and at the recheck the dog is 300 g lighter while she has gained a kilo",
+  "caption": "Mandarin acoustic strummed-guitar pop. Bright strummed steel-string acoustic guitar in a bouncing pattern; a soft shaker; upright piano chords; a light brushed drum kit; a whistled melody in the intro and outro. Clean close-miked acoustic sound in an airy room. Female light mid-range voice, conversational and smiling, unforced. 108 BPM, G major. Sheepish, warm and teasing. No orchestral strings, no EDM drop, no trap beat, no autotune, no ballad melisma.",
+  "lyrics": "[Intro - strummed steel-string guitar, shaker, whistled melody]\n\n[Verse 1]\n獸醫叫小米上磅秤\n柴犬乖乖坐在中間\n數字跳了幾下 停住\n又胖了零點八\n\n[Pre-Chorus]\n醫生抬頭看我\n我低頭看小米\n\n[Chorus]\n不是我 真的不是我\n是阿嬤偷偷給的地瓜\n小米你別看我\n這次我們一起減\n\n[Verse 2]\n每天傍晚多走一圈\n經過那攤烤地瓜\n牠坐下來 不肯走\n我也停下來 聞一下\n\n[Pre-Chorus]\n回診那天早上\n我們都沒吃早餐\n\n[Chorus]\n不是我 真的不是我\n小米瘦了三百克\n醫生你別再問了\n是誰胖了一公斤\n\n[Outro - guitar and whistle, shaker fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Mandarin acoustic strummed-guitar pop. Bright strummed steel-string acoustic guitar in a bouncing pattern; a soft shaker; upright piano chords; a light brushed drum kit; a whistled melody in the intro and outro. Clean close-miked acoustic sound in an airy room. Female light mid-range voice, conversational and smiling, unforced. 108 BPM, G major. Sheepish, warm and teasing. No orchestral strings, no EDM drop, no trap beat, no autotune, no ballad melisma.",
+    "lyrics": "[Intro - strummed steel-string guitar, shaker, whistled melody]\n\n[Verse 1]\n獸醫叫小米上磅秤\n柴犬乖乖坐在中間\n數字跳了幾下 停住\n又胖了零點八\n\n[Pre-Chorus]\n醫生抬頭看我\n我低頭看小米\n\n[Chorus]\n不是我 真的不是我\n是阿嬤偷偷給的地瓜\n小米你別看我\n這次我們一起減\n\n[Verse 2]\n每天傍晚多走一圈\n經過那攤烤地瓜\n牠坐下來 不肯走\n我也停下來 聞一下\n\n[Pre-Chorus]\n回診那天早上\n我們都沒吃早餐\n\n[Chorus]\n不是我 真的不是我\n小米瘦了三百克\n醫生你別再問了\n是誰胖了一公斤\n\n[Outro - guitar and whistle, shaker fades]"
+  },
+  "seed": "2000638107",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.63s**\n- 58.63s per song\n- LM phase (1 song): 14.60s\n- DiT phase (1 song): 44.03s",
+  "task_id": "5e65585e-6abd-4116-9a67-2b9f8cd631a0",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T12:59:04.957929+08:00",
+  "audio": "b14_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.98,
+      "end": 18.98,
+      "text": "[Intro - strummed steel-string guitar, shaker, whistled melody]"
+    },
+    {
+      "t": 18.98,
+      "end": 18.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.98,
+      "end": 22.48,
+      "text": "獸醫叫小米上磅秤"
+    },
+    {
+      "t": 27.98,
+      "end": 34.46,
+      "text": "柴犬乖乖坐在中間"
+    },
+    {
+      "t": 37.3,
+      "end": 39.16,
+      "text": "數字跳了幾下 停住"
+    },
+    {
+      "t": 40.16,
+      "end": 41.18,
+      "text": "又胖了零點八"
+    },
+    {
+      "t": 45.46,
+      "end": 45.46,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.46,
+      "end": 48.05,
+      "text": "醫生抬頭看我"
+    },
+    {
+      "t": 49.05,
+      "end": 51.39,
+      "text": "我低頭看小米"
+    },
+    {
+      "t": 54.33,
+      "end": 54.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.33,
+      "end": 56.67,
+      "text": "不是我 真的不是我"
+    },
+    {
+      "t": 57.89,
+      "end": 60.87,
+      "text": "是阿嬤偷偷給的地瓜"
+    },
+    {
+      "t": 63.45,
+      "end": 65.03,
+      "text": "小米你別看我"
+    },
+    {
+      "t": 67.61,
+      "end": 69.63,
+      "text": "這次我們一起減"
+    },
+    {
+      "t": 74.03,
+      "end": 74.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.03,
+      "end": 85.55,
+      "text": "每天傍晚多走一圈"
+    },
+    {
+      "t": 86.81,
+      "end": 89.75,
+      "text": "經過那攤烤地瓜"
+    },
+    {
+      "t": 91.57,
+      "end": 94.59,
+      "text": "牠坐下來 不肯走"
+    },
+    {
+      "t": 95.73,
+      "end": 98.43,
+      "text": "我也停下來 聞一下"
+    },
+    {
+      "t": 98.43,
+      "end": 98.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.43,
+      "end": 114.37,
+      "text": "回診那天早上"
+    },
+    {
+      "t": 114.37,
+      "end": 116.01,
+      "text": "我們都沒吃早餐"
+    },
+    {
+      "t": 116.01,
+      "end": 116.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.01,
+      "end": 118.63,
+      "text": "不是我 真的不是我"
+    },
+    {
+      "t": 118.75,
+      "end": 120.57,
+      "text": "小米瘦了三百克"
+    },
+    {
+      "t": 122.71,
+      "end": 125.03,
+      "text": "醫生你別再問了"
+    },
+    {
+      "t": 127.07,
+      "end": 173.42,
+      "text": "是誰胖了一公斤"
+    },
+    {
+      "t": 173.42,
+      "end": 173.42,
+      "text": "[Outro - guitar and whistle, shaker fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.98,
+      "end": 18.98,
+      "text": "[Intro - strummed steel-string guitar, shaker, whistled melody]"
+    },
+    {
+      "t": 18.98,
+      "end": 18.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.98,
+      "end": 22.48,
+      "text": "獸醫叫小米上磅秤"
+    },
+    {
+      "t": 27.98,
+      "end": 34.46,
+      "text": "柴犬乖乖坐在中間"
+    },
+    {
+      "t": 37.32,
+      "end": 39.16,
+      "text": "數字跳了幾下 停住"
+    },
+    {
+      "t": 40.14,
+      "end": 41.16,
+      "text": "又胖了零點八"
+    },
+    {
+      "t": 45.44,
+      "end": 45.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.44,
+      "end": 48.05,
+      "text": "醫生抬頭看我"
+    },
+    {
+      "t": 49.05,
+      "end": 51.39,
+      "text": "我低頭看小米"
+    },
+    {
+      "t": 54.29,
+      "end": 54.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.29,
+      "end": 56.69,
+      "text": "不是我 真的不是我"
+    },
+    {
+      "t": 57.89,
+      "end": 60.87,
+      "text": "是阿嬤偷偷給的地瓜"
+    },
+    {
+      "t": 63.45,
+      "end": 65.03,
+      "text": "小米你別看我"
+    },
+    {
+      "t": 67.61,
+      "end": 69.69,
+      "text": "這次我們一起減"
+    },
+    {
+      "t": 74.01,
+      "end": 74.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.01,
+      "end": 85.57,
+      "text": "每天傍晚多走一圈"
+    },
+    {
+      "t": 86.79,
+      "end": 89.75,
+      "text": "經過那攤烤地瓜"
+    },
+    {
+      "t": 91.53,
+      "end": 94.63,
+      "text": "牠坐下來 不肯走"
+    },
+    {
+      "t": 95.73,
+      "end": 98.91,
+      "text": "我也停下來 聞一下"
+    },
+    {
+      "t": 113.83,
+      "end": 113.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.83,
+      "end": 116.55,
+      "text": "回診那天早上"
+    },
+    {
+      "t": 116.57,
+      "end": 119.97,
+      "text": "我們都沒吃早餐"
+    },
+    {
+      "t": 120.15,
+      "end": 120.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.15,
+      "end": 124.71,
+      "text": "不是我 真的不是我"
+    },
+    {
+      "t": 124.73,
+      "end": 128.11,
+      "text": "小米瘦了三百克"
+    },
+    {
+      "t": 128.53,
+      "end": 131.43,
+      "text": "醫生你別再問了"
+    },
+    {
+      "t": 148.78,
+      "end": 151.64,
+      "text": "是誰胖了一公斤"
+    },
+    {
+      "t": 151.64,
+      "end": 151.64,
+      "text": "[Outro - guitar and whistle, shaker fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

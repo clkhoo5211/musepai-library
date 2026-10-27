@@ -1,0 +1,317 @@
+{
+  "id": "b14_id01",
+  "title": "Setengah Cokelat Setengah Kacang",
+  "title_source": "scripted",
+  "genre": "Indonesian spoken-word art pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "tender, teasing, warm",
+  "persona": "",
+  "subject": "a young couple in Bandung at midnight with money for only one martabak manis, arguing chocolate-cheese against peanut at the cart on Dago until they order it half and half and end up feeding each other the other side",
+  "caption": "Indonesian spoken-word art pop in the vein of mid-2020s Jakarta storyteller pop. Felt upright piano playing soft repeated chords, a muted electric guitar arpeggio, a warm low synth pad, brushed drum kit with a gentle rimshot, round fretless bass. Intimate bedroom-studio mix with a little tape hiss. Male baritone, half-spoken conversational verses opening into a plainly sung chorus. 84 BPM, D major. Tender, teasing, warm. No autotune, no trap hi-hats, no EDM build, no gospel choir, no stadium drums.",
+  "lyrics": "[Intro - felt piano and brushed drums]\n\n[Verse 1]\nJam dua belas di Dago\nGerobak martabak masih buka\nUang kita cuma cukup satu\nKamu bilang, cokelat keju\n\n[Pre-Chorus]\nAku bilang, kacang dong\nAbangnya nunggu, ketawa\n\n[Chorus]\nSetengah cokelat, setengah kacang\nSatu kotak buat berdua\nKamu ambil potongan tengah\nAku diam, aku suka\n\n[Verse 2]\nDuduk di jok motor yang dingin\nMentega netes di jarimu\nKamu cicip punyaku, lumayan katamu\nLalu ambil satu lagi\n\n[Bridge - piano alone, spoken]\nBesok pasti kita ribut lagi\nDi gerobak yang sama\n\n[Chorus]\nSetengah cokelat, setengah kacang\nTinggal satu potong di kotak\nKamu sodorkan ke mulutku\nYang kacang, buat kamu\n\n[Outro - piano and pad fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Indonesian spoken-word art pop in the vein of mid-2020s Jakarta storyteller pop. Felt upright piano playing soft repeated chords, a muted electric guitar arpeggio, a warm low synth pad, brushed drum kit with a gentle rimshot, round fretless bass. Intimate bedroom-studio mix with a little tape hiss. Male baritone, half-spoken conversational verses opening into a plainly sung chorus. 84 BPM, D major. Tender, teasing, warm. No autotune, no trap hi-hats, no EDM build, no gospel choir, no stadium drums.",
+    "lyrics": "[Intro - felt piano and brushed drums]\n\n[Verse 1]\nJam dua belas di Dago\nGerobak martabak masih buka\nUang kita cuma cukup satu\nKamu bilang, cokelat keju\n\n[Pre-Chorus]\nAku bilang, kacang dong\nAbangnya nunggu, ketawa\n\n[Chorus]\nSetengah cokelat, setengah kacang\nSatu kotak buat berdua\nKamu ambil potongan tengah\nAku diam, aku suka\n\n[Verse 2]\nDuduk di jok motor yang dingin\nMentega netes di jarimu\nKamu cicip punyaku, lumayan katamu\nLalu ambil satu lagi\n\n[Bridge - piano alone, spoken]\nBesok pasti kita ribut lagi\nDi gerobak yang sama\n\n[Chorus]\nSetengah cokelat, setengah kacang\nTinggal satu potong di kotak\nKamu sodorkan ke mulutku\nYang kacang, buat kamu\n\n[Outro - piano and pad fade]"
+  },
+  "seed": "638452088",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.24s**\n- 65.24s per song\n- LM phase (1 song): 14.69s\n- DiT phase (1 song): 50.56s",
+  "task_id": "531fe71c-2a5d-44ac-8b9f-e1c56ae7e163",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T12:24:31.159443+08:00",
+  "audio": "b14_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - felt piano and brushed drums]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 25.04,
+      "text": "Jam dua belas di Dago"
+    },
+    {
+      "t": 25.04,
+      "end": 33.14,
+      "text": "Gerobak martabak masih buka"
+    },
+    {
+      "t": 33.2,
+      "end": 37.06,
+      "text": "Uang kita cuma cukup satu"
+    },
+    {
+      "t": 38.52,
+      "end": 42.28,
+      "text": "Kamu bilang, cokelat keju"
+    },
+    {
+      "t": 44.26,
+      "end": 44.26,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.26,
+      "end": 47.22,
+      "text": "Aku bilang, kacang dong"
+    },
+    {
+      "t": 47.34,
+      "end": 50.58,
+      "text": "Abangnya nunggu, ketawa"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.05,
+      "end": 59.71,
+      "text": "Setengah cokelat, setengah kacang"
+    },
+    {
+      "t": 60.75,
+      "end": 65.03,
+      "text": "Satu kotak buat berdua"
+    },
+    {
+      "t": 66.79,
+      "end": 70.63,
+      "text": "Kamu ambil potongan tengah"
+    },
+    {
+      "t": 72.21,
+      "end": 75.81,
+      "text": "Aku diam, aku suka"
+    },
+    {
+      "t": 77.99,
+      "end": 77.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.99,
+      "end": 83.49,
+      "text": "Duduk di jok motor yang dingin"
+    },
+    {
+      "t": 83.79,
+      "end": 121.05,
+      "text": "Mentega netes di jarimu"
+    },
+    {
+      "t": 121.05,
+      "end": 128.83,
+      "text": "Kamu cicip punyaku, lumayan katamu"
+    },
+    {
+      "t": 129.43,
+      "end": 136.23,
+      "text": "Lalu ambil satu lagi"
+    },
+    {
+      "t": 136.23,
+      "end": 136.23,
+      "text": "[Bridge - piano alone, spoken]"
+    },
+    {
+      "t": 136.23,
+      "end": 141.47,
+      "text": "Besok pasti kita ribut lagi"
+    },
+    {
+      "t": 141.47,
+      "end": 163.94,
+      "text": "Di gerobak yang sama"
+    },
+    {
+      "t": 173.98,
+      "end": 173.98,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 173.98,
+      "end": 178.24,
+      "text": "Setengah cokelat, setengah kacang"
+    },
+    {
+      "t": 179.64,
+      "end": 183.8,
+      "text": "Tinggal satu potong di kotak"
+    },
+    {
+      "t": 185.64,
+      "end": 189.32,
+      "text": "Kamu sodorkan ke mulutku"
+    },
+    {
+      "t": 191.0,
+      "end": 195.04,
+      "text": "Yang kacang, buat kamu"
+    },
+    {
+      "t": 195.04,
+      "end": 195.04,
+      "text": "[Outro - piano and pad fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 4.14,
+      "end": 4.14,
+      "text": "[Intro - felt piano and brushed drums]"
+    },
+    {
+      "t": 4.14,
+      "end": 4.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.14,
+      "end": 33.32,
+      "text": "Jam dua belas di Dago"
+    },
+    {
+      "t": 33.38,
+      "end": 35.08,
+      "text": "Gerobak martabak masih buka"
+    },
+    {
+      "t": 35.08,
+      "end": 37.06,
+      "text": "Uang kita cuma cukup satu"
+    },
+    {
+      "t": 38.52,
+      "end": 42.28,
+      "text": "Kamu bilang, cokelat keju"
+    },
+    {
+      "t": 44.26,
+      "end": 44.26,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.26,
+      "end": 48.12,
+      "text": "Aku bilang, kacang dong"
+    },
+    {
+      "t": 48.12,
+      "end": 50.58,
+      "text": "Abangnya nunggu, ketawa"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.05,
+      "end": 59.73,
+      "text": "Setengah cokelat, setengah kacang"
+    },
+    {
+      "t": 60.75,
+      "end": 65.01,
+      "text": "Satu kotak buat berdua"
+    },
+    {
+      "t": 66.79,
+      "end": 72.17,
+      "text": "Kamu ambil potongan tengah"
+    },
+    {
+      "t": 72.21,
+      "end": 75.81,
+      "text": "Aku diam, aku suka"
+    },
+    {
+      "t": 77.99,
+      "end": 77.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.99,
+      "end": 80.73,
+      "text": "Duduk di jok motor yang dingin"
+    },
+    {
+      "t": 80.73,
+      "end": 81.71,
+      "text": "Mentega netes di jarimu"
+    },
+    {
+      "t": 83.11,
+      "end": 119.35,
+      "text": "Kamu cicip punyaku, lumayan katamu"
+    },
+    {
+      "t": 119.35,
+      "end": 119.83,
+      "text": "Lalu ambil satu lagi"
+    },
+    {
+      "t": 119.83,
+      "end": 119.83,
+      "text": "[Bridge - piano alone, spoken]"
+    },
+    {
+      "t": 119.83,
+      "end": 121.51,
+      "text": "Besok pasti kita ribut lagi"
+    },
+    {
+      "t": 122.93,
+      "end": 124.53,
+      "text": "Di gerobak yang sama"
+    },
+    {
+      "t": 128.73,
+      "end": 128.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.73,
+      "end": 133.03,
+      "text": "Setengah cokelat, setengah kacang"
+    },
+    {
+      "t": 134.45,
+      "end": 138.39,
+      "text": "Tinggal satu potong di kotak"
+    },
+    {
+      "t": 140.53,
+      "end": 189.32,
+      "text": "Kamu sodorkan ke mulutku"
+    },
+    {
+      "t": 191.0,
+      "end": 195.06,
+      "text": "Yang kacang, buat kamu"
+    },
+    {
+      "t": 195.06,
+      "end": 195.06,
+      "text": "[Outro - piano and pad fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

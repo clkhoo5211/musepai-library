@@ -1,0 +1,459 @@
+{
+  "id": "b14_ms03",
+  "title": "Baju Yang Sama",
+  "title_source": "scripted",
+  "genre": "Malay cinematic folk-rock with French-pop melody (Noh Salleh lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "wry, fond and quietly amused",
+  "persona": "",
+  "subject": "a tailor in Kampung Baru who has to let out the same customer's baju Melayu every week before Raya because he keeps eating at buka puasa bazaars",
+  "caption": "Malay cinematic folk-rock with a French-pop melodic lilt. Fingerpicked nylon-string acoustic guitar, brushed drums in a gentle waltz-tinged swing, walking upright bass, wheezing accordion countermelody, a soft string quartet rising in the chorus. Vintage room sound with light tape warmth. Male baritone, warm close croon with a slight smile in the voice. 92 BPM, F major. Wry, fond and quietly amused. No autotune, no trap drums, no power ballad drums, no electric guitar solo, no synth pads.",
+  "lyrics": "[Intro - nylon guitar and accordion]\n\n[Verse 1]\nIsnin dia datang lagi\nBaju Melayu hijau pucuk\nButang kedua dah tak masuk\nEncik, saya tak makan apa pun\n\n[Pre-Chorus]\nAku buka jahitan tepi\nAku tak tanya, aku senyum\n\n[Chorus]\nBaju yang sama\nMinggu ini lepas seinci\nKampung Baru bau murtabak\nRaya tinggal lapan hari\n\n[Verse 2]\nIsnin lagi, dia tunduk\nBawa kuih untuk aku\nKain lebih makin sikit\nDia tanya, masih boleh ke\n\n[Pre-Chorus]\nAku ukur pinggang dia\nPita aku dah tak cukup\n\n[Chorus]\nBaju yang sama\nKali terakhir, aku kata\nPagi Raya dia lambai dari surau\nButang semua masih ada\n\n[Outro - strings and accordion, guitar last chord]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Malay cinematic folk-rock with a French-pop melodic lilt. Fingerpicked nylon-string acoustic guitar, brushed drums in a gentle waltz-tinged swing, walking upright bass, wheezing accordion countermelody, a soft string quartet rising in the chorus. Vintage room sound with light tape warmth. Male baritone, warm close croon with a slight smile in the voice. 92 BPM, F major. Wry, fond and quietly amused. No autotune, no trap drums, no power ballad drums, no electric guitar solo, no synth pads.",
+    "lyrics": "[Intro - nylon guitar and accordion]\n\n[Verse 1]\nIsnin dia datang lagi\nBaju Melayu hijau pucuk\nButang kedua dah tak masuk\nEncik, saya tak makan apa pun\n\n[Pre-Chorus]\nAku buka jahitan tepi\nAku tak tanya, aku senyum\n\n[Chorus]\nBaju yang sama\nMinggu ini lepas seinci\nKampung Baru bau murtabak\nRaya tinggal lapan hari\n\n[Verse 2]\nIsnin lagi, dia tunduk\nBawa kuih untuk aku\nKain lebih makin sikit\nDia tanya, masih boleh ke\n\n[Pre-Chorus]\nAku ukur pinggang dia\nPita aku dah tak cukup\n\n[Chorus]\nBaju yang sama\nKali terakhir, aku kata\nPagi Raya dia lambai dari surau\nButang semua masih ada\n\n[Outro - strings and accordion, guitar last chord]"
+  },
+  "seed": "1904755171",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.47s**\n- 53.47s per song\n- LM phase (1 song): 8.39s\n- DiT phase (1 song): 45.08s",
+  "task_id": "caa59e36-e021-4f08-a3d9-685dbeacc522",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T12:20:30.712207+08:00",
+  "audio": "b14_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Intro - nylon guitar and accordion]"
+    },
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.42,
+      "end": 35.86,
+      "text": "Isnin dia datang lagi"
+    },
+    {
+      "t": 38.02,
+      "end": 41.24,
+      "text": "Baju Melayu hijau pucuk"
+    },
+    {
+      "t": 43.28,
+      "end": 46.54,
+      "text": "Butang kedua dah tak masuk"
+    },
+    {
+      "t": 47.96,
+      "end": 51.93,
+      "text": "Encik, saya tak makan apa pun"
+    },
+    {
+      "t": 54.35,
+      "end": 54.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.35,
+      "end": 57.03,
+      "text": "Aku buka jahitan tepi"
+    },
+    {
+      "t": 59.65,
+      "end": 62.63,
+      "text": "Aku tak tanya, aku senyum"
+    },
+    {
+      "t": 62.67,
+      "end": 62.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.67,
+      "end": 64.81,
+      "text": "Baju yang sama"
+    },
+    {
+      "t": 64.81,
+      "end": 67.61,
+      "text": "Minggu ini lepas seinci"
+    },
+    {
+      "t": 70.09,
+      "end": 79.25,
+      "text": "Kampung Baru bau murtabak"
+    },
+    {
+      "t": 79.25,
+      "end": 83.07,
+      "text": "Raya tinggal lapan hari"
+    },
+    {
+      "t": 85.89,
+      "end": 85.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.89,
+      "end": 88.47,
+      "text": "Isnin lagi, dia tunduk"
+    },
+    {
+      "t": 89.79,
+      "end": 93.51,
+      "text": "Bawa kuih untuk aku"
+    },
+    {
+      "t": 95.99,
+      "end": 99.35,
+      "text": "Kain lebih makin sikit"
+    },
+    {
+      "t": 100.97,
+      "end": 104.75,
+      "text": "Dia tanya, masih boleh ke"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 110.09,
+      "text": "Aku ukur pinggang dia"
+    },
+    {
+      "t": 110.67,
+      "end": 114.11,
+      "text": "Pita aku dah tak cukup"
+    },
+    {
+      "t": 114.23,
+      "end": 114.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.23,
+      "end": 115.35,
+      "text": "Baju yang sama"
+    },
+    {
+      "t": 115.95,
+      "end": 124.97,
+      "text": "Kali terakhir, aku kata"
+    },
+    {
+      "t": 125.13,
+      "end": 130.53,
+      "text": "Pagi Raya dia lambai dari surau"
+    },
+    {
+      "t": 130.53,
+      "end": 156.44,
+      "text": "Butang semua masih ada"
+    },
+    {
+      "t": 156.44,
+      "end": 156.44,
+      "text": "[Outro - strings and accordion, guitar last chord]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Intro - nylon guitar and accordion]"
+    },
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.42,
+      "end": 35.86,
+      "text": "Isnin dia datang lagi"
+    },
+    {
+      "t": 38.02,
+      "end": 41.24,
+      "text": "Baju Melayu hijau pucuk"
+    },
+    {
+      "t": 43.28,
+      "end": 46.54,
+      "text": "Butang kedua dah tak masuk"
+    },
+    {
+      "t": 47.96,
+      "end": 51.93,
+      "text": "Encik, saya tak makan apa pun"
+    },
+    {
+      "t": 54.35,
+      "end": 54.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.35,
+      "end": 57.03,
+      "text": "Aku buka jahitan tepi"
+    },
+    {
+      "t": 59.65,
+      "end": 62.63,
+      "text": "Aku tak tanya, aku senyum"
+    },
+    {
+      "t": 62.67,
+      "end": 62.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.67,
+      "end": 64.81,
+      "text": "Baju yang sama"
+    },
+    {
+      "t": 64.81,
+      "end": 67.61,
+      "text": "Minggu ini lepas seinci"
+    },
+    {
+      "t": 70.09,
+      "end": 79.25,
+      "text": "Kampung Baru bau murtabak"
+    },
+    {
+      "t": 79.25,
+      "end": 83.07,
+      "text": "Raya tinggal lapan hari"
+    },
+    {
+      "t": 85.89,
+      "end": 85.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.89,
+      "end": 88.47,
+      "text": "Isnin lagi, dia tunduk"
+    },
+    {
+      "t": 89.79,
+      "end": 93.51,
+      "text": "Bawa kuih untuk aku"
+    },
+    {
+      "t": 95.99,
+      "end": 99.35,
+      "text": "Kain lebih makin sikit"
+    },
+    {
+      "t": 100.97,
+      "end": 104.75,
+      "text": "Dia tanya, masih boleh ke"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 110.09,
+      "text": "Aku ukur pinggang dia"
+    },
+    {
+      "t": 110.67,
+      "end": 114.11,
+      "text": "Pita aku dah tak cukup"
+    },
+    {
+      "t": 114.23,
+      "end": 114.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.23,
+      "end": 115.35,
+      "text": "Baju yang sama"
+    },
+    {
+      "t": 115.95,
+      "end": 124.97,
+      "text": "Kali terakhir, aku kata"
+    },
+    {
+      "t": 125.13,
+      "end": 130.53,
+      "text": "Pagi Raya dia lambai dari surau"
+    },
+    {
+      "t": 130.53,
+      "end": 156.44,
+      "text": "Butang semua masih ada"
+    },
+    {
+      "t": 156.44,
+      "end": 156.44,
+      "text": "[Outro - strings and accordion, guitar last chord]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Intro - nylon guitar and accordion]"
+    },
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.42,
+      "end": 35.84,
+      "text": "Isnin dia datang lagi"
+    },
+    {
+      "t": 38.02,
+      "end": 41.24,
+      "text": "Baju Melayu hijau pucuk"
+    },
+    {
+      "t": 43.3,
+      "end": 46.52,
+      "text": "Butang kedua dah tak masuk"
+    },
+    {
+      "t": 47.96,
+      "end": 51.93,
+      "text": "Encik, saya tak makan apa pun"
+    },
+    {
+      "t": 54.35,
+      "end": 54.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.35,
+      "end": 57.03,
+      "text": "Aku buka jahitan tepi"
+    },
+    {
+      "t": 59.63,
+      "end": 62.35,
+      "text": "Aku tak tanya, aku senyum"
+    },
+    {
+      "t": 62.35,
+      "end": 62.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.35,
+      "end": 64.81,
+      "text": "Baju yang sama"
+    },
+    {
+      "t": 64.81,
+      "end": 67.59,
+      "text": "Minggu ini lepas seinci"
+    },
+    {
+      "t": 70.09,
+      "end": 77.97,
+      "text": "Kampung Baru bau murtabak"
+    },
+    {
+      "t": 79.27,
+      "end": 83.05,
+      "text": "Raya tinggal lapan hari"
+    },
+    {
+      "t": 85.89,
+      "end": 85.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.89,
+      "end": 88.45,
+      "text": "Isnin lagi, dia tunduk"
+    },
+    {
+      "t": 89.79,
+      "end": 93.51,
+      "text": "Bawa kuih untuk aku"
+    },
+    {
+      "t": 95.99,
+      "end": 99.35,
+      "text": "Kain lebih makin sikit"
+    },
+    {
+      "t": 100.97,
+      "end": 104.75,
+      "text": "Dia tanya, masih boleh ke"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 120.27,
+      "text": "Aku ukur pinggang dia"
+    },
+    {
+      "t": 122.11,
+      "end": 128.01,
+      "text": "Pita aku dah tak cukup"
+    },
+    {
+      "t": 129.95,
+      "end": 129.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.95,
+      "end": 131.41,
+      "text": "Baju yang sama"
+    },
+    {
+      "t": 138.75,
+      "end": 156.72,
+      "text": "Kali terakhir, aku kata"
+    },
+    {
+      "t": 156.72,
+      "end": 185.84,
+      "text": "Pagi Raya dia lambai dari surau"
+    },
+    {
+      "t": 186.08,
+      "end": 197.4,
+      "text": "Butang semua masih ada"
+    },
+    {
+      "t": 197.4,
+      "end": 197.4,
+      "text": "[Outro - strings and accordion, guitar last chord]"
+    }
+  ]
+}

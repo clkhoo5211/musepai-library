@@ -1,0 +1,307 @@
+{
+  "id": "b14_en03",
+  "title": "It Comes Back Black",
+  "title_source": "scripted",
+  "genre": "industrial dark-pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "theatrical, menacing and secretly funny",
+  "persona": "",
+  "subject": "a London renter at war with a black mould patch on her bathroom ceiling that returns every three weeks no matter how much bleach she uses, until the landlord finally sends someone to fix the extractor fan",
+  "caption": "Industrial dark-pop, mid-2020s operatic dance-pop with industrial edges. Distorted four-on-the-floor kick with clanging metallic percussion; a gritty analog synth bass; a fast harpsichord-like synth arpeggio; staccato string stabs on the chorus. Dark glossy dance mix, dry close verses, wide chorus. Female mezzo with low dramatic verses rising to a belted operatic chorus. 122 BPM, D minor. Theatrical, menacing and secretly funny. No trap beat, no autotune, no ballad section, no acoustic guitar, no EDM festival drop.",
+  "lyrics": "[Intro - metallic hits, synth arpeggio]\n\n[Verse 1]\nAbove the bath, a little cloud\nGrey at first, then shouting loud\nI scrub it clean on Sunday night\nBy Thursday it is back in sight\n\n[Pre-Chorus]\nRubber gloves up to the wrist\nBleach and a sponge in my fist\n\n[Chorus]\nIt comes back black, it comes back black\nI wipe it off, it wipes me back\nThree weeks of peace, then the corner cracks\nOh, it comes back black\n\n[Verse 2]\nI wrote the landlord twice in May\nHe said to open windows every day\nIt's raining and the fan is dead\nIt hums a note and spins in my head\n\n[Chorus]\nIt comes back black, it comes back black\nThen a man with a ladder, toolbox on his back\nHe fits a fan that finally works\nAnd the black goes back\n\n[Outro - strings and kick, then one clang]\nWhite ceiling, white tile\nLet me look at it a while",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Industrial dark-pop, mid-2020s operatic dance-pop with industrial edges. Distorted four-on-the-floor kick with clanging metallic percussion; a gritty analog synth bass; a fast harpsichord-like synth arpeggio; staccato string stabs on the chorus. Dark glossy dance mix, dry close verses, wide chorus. Female mezzo with low dramatic verses rising to a belted operatic chorus. 122 BPM, D minor. Theatrical, menacing and secretly funny. No trap beat, no autotune, no ballad section, no acoustic guitar, no EDM festival drop.",
+    "lyrics": "[Intro - metallic hits, synth arpeggio]\n\n[Verse 1]\nAbove the bath, a little cloud\nGrey at first, then shouting loud\nI scrub it clean on Sunday night\nBy Thursday it is back in sight\n\n[Pre-Chorus]\nRubber gloves up to the wrist\nBleach and a sponge in my fist\n\n[Chorus]\nIt comes back black, it comes back black\nI wipe it off, it wipes me back\nThree weeks of peace, then the corner cracks\nOh, it comes back black\n\n[Verse 2]\nI wrote the landlord twice in May\nHe said to open windows every day\nIt's raining and the fan is dead\nIt hums a note and spins in my head\n\n[Chorus]\nIt comes back black, it comes back black\nThen a man with a ladder, toolbox on his back\nHe fits a fan that finally works\nAnd the black goes back\n\n[Outro - strings and kick, then one clang]\nWhite ceiling, white tile\nLet me look at it a while"
+  },
+  "seed": "1480855868",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 139.25s**\n- 139.25s per song\n- LM phase (1 song): 21.99s\n- DiT phase (1 song): 117.26s",
+  "task_id": "5551360a-1061-44d3-832a-920b90f0367a",
+  "elapsed_s": 182.9,
+  "generated_at": "2026-10-27T18:54:18.434080+08:00",
+  "audio": "b14_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Intro - metallic hits, synth arpeggio]"
+    },
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.42,
+      "end": 33.08,
+      "text": "Above the bath, a little cloud"
+    },
+    {
+      "t": 33.08,
+      "end": 45.72,
+      "text": "Grey at first, then shouting loud"
+    },
+    {
+      "t": 47.12,
+      "end": 51.69,
+      "text": "I scrub it clean on Sunday night"
+    },
+    {
+      "t": 51.79,
+      "end": 63.53,
+      "text": "By Thursday it is back in sight"
+    },
+    {
+      "t": 65.51,
+      "end": 65.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 65.51,
+      "end": 69.27,
+      "text": "Rubber gloves up to the wrist"
+    },
+    {
+      "t": 72.23,
+      "end": 78.87,
+      "text": "Bleach and a sponge in my fist"
+    },
+    {
+      "t": 78.95,
+      "end": 78.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.95,
+      "end": 84.89,
+      "text": "It comes back black, it comes back black"
+    },
+    {
+      "t": 86.11,
+      "end": 89.21,
+      "text": "I wipe it off, it wipes me back"
+    },
+    {
+      "t": 90.61,
+      "end": 97.07,
+      "text": "Three weeks of peace, then the corner cracks"
+    },
+    {
+      "t": 98.37,
+      "end": 100.79,
+      "text": "Oh, it comes back black"
+    },
+    {
+      "t": 100.89,
+      "end": 100.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.89,
+      "end": 107.33,
+      "text": "I wrote the landlord twice in May"
+    },
+    {
+      "t": 107.33,
+      "end": 107.91,
+      "text": "He said to open windows every day"
+    },
+    {
+      "t": 107.91,
+      "end": 117.31,
+      "text": "It's raining and the fan is dead"
+    },
+    {
+      "t": 117.33,
+      "end": 129.51,
+      "text": "It hums a note and spins in my head"
+    },
+    {
+      "t": 129.57,
+      "end": 129.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.57,
+      "end": 133.33,
+      "text": "It comes back black, it comes back black"
+    },
+    {
+      "t": 133.41,
+      "end": 137.13,
+      "text": "Then a man with a ladder, toolbox on his back"
+    },
+    {
+      "t": 137.33,
+      "end": 141.65,
+      "text": "He fits a fan that finally works"
+    },
+    {
+      "t": 142.25,
+      "end": 144.51,
+      "text": "And the black goes back"
+    },
+    {
+      "t": 175.02,
+      "end": 175.02,
+      "text": "[Outro - strings and kick, then one clang]"
+    },
+    {
+      "t": 175.02,
+      "end": 180.24,
+      "text": "White ceiling, white tile"
+    },
+    {
+      "t": 182.94,
+      "end": 189.08,
+      "text": "Let me look at it a while"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Intro - metallic hits, synth arpeggio]"
+    },
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.42,
+      "end": 33.08,
+      "text": "Above the bath, a little cloud"
+    },
+    {
+      "t": 33.08,
+      "end": 41.18,
+      "text": "Grey at first, then shouting loud"
+    },
+    {
+      "t": 47.12,
+      "end": 51.71,
+      "text": "I scrub it clean on Sunday night"
+    },
+    {
+      "t": 51.79,
+      "end": 63.29,
+      "text": "By Thursday it is back in sight"
+    },
+    {
+      "t": 65.53,
+      "end": 65.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 65.53,
+      "end": 69.11,
+      "text": "Rubber gloves up to the wrist"
+    },
+    {
+      "t": 72.21,
+      "end": 78.89,
+      "text": "Bleach and a sponge in my fist"
+    },
+    {
+      "t": 78.97,
+      "end": 78.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.97,
+      "end": 84.91,
+      "text": "It comes back black, it comes back black"
+    },
+    {
+      "t": 85.31,
+      "end": 90.61,
+      "text": "I wipe it off, it wipes me back"
+    },
+    {
+      "t": 90.61,
+      "end": 97.07,
+      "text": "Three weeks of peace, then the corner cracks"
+    },
+    {
+      "t": 98.37,
+      "end": 100.57,
+      "text": "Oh, it comes back black"
+    },
+    {
+      "t": 101.97,
+      "end": 101.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.97,
+      "end": 107.69,
+      "text": "I wrote the landlord twice in May"
+    },
+    {
+      "t": 107.69,
+      "end": 108.43,
+      "text": "He said to open windows every day"
+    },
+    {
+      "t": 108.43,
+      "end": 126.09,
+      "text": "It's raining and the fan is dead"
+    },
+    {
+      "t": 126.09,
+      "end": 129.51,
+      "text": "It hums a note and spins in my head"
+    },
+    {
+      "t": 129.57,
+      "end": 129.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.57,
+      "end": 133.33,
+      "text": "It comes back black, it comes back black"
+    },
+    {
+      "t": 133.39,
+      "end": 137.15,
+      "text": "Then a man with a ladder, toolbox on his back"
+    },
+    {
+      "t": 137.31,
+      "end": 141.65,
+      "text": "He fits a fan that finally works"
+    },
+    {
+      "t": 142.23,
+      "end": 155.22,
+      "text": "And the black goes back"
+    },
+    {
+      "t": 175.02,
+      "end": 175.02,
+      "text": "[Outro - strings and kick, then one clang]"
+    },
+    {
+      "t": 175.02,
+      "end": 180.22,
+      "text": "White ceiling, white tile"
+    },
+    {
+      "t": 182.94,
+      "end": 189.08,
+      "text": "Let me look at it a while"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

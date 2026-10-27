@@ -1,0 +1,337 @@
+{
+  "id": "b14_en05",
+  "title": "Garage Line",
+  "title_source": "scripted",
+  "genre": "surf rock revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sunny, frantic and proud",
+  "persona": "",
+  "subject": "a retired bus mechanic in Fresno whose HO-scale model railway grows out of the spare room, across the hallway and through a hole in the garage wall, until his wife's car is parked on the street and she asks for a station named after her",
+  "caption": "Surf rock revival, early-60s instrumental surf sound played by a 2020s revival band, with vocals. Reverb-drenched Fender guitar with fast tremolo-picked lead lines; a spring-reverb rhythm guitar chopping eighths; a reedy Farfisa organ; round electric bass; driving surf drums with tom fills. Vintage spring-reverb garage room sound, live-band feel. Male baritone, plain and cheerful, light group 'ooh' backing on the chorus. 150 BPM, E minor. Sunny, frantic and proud. No modern pop production, no distortion-heavy punk, no autotune, no synthesizers, no ballad section.",
+  "lyrics": "[Intro - tremolo lead guitar and surf drums]\n\n[Verse 1]\nStarted with a loop on a table top\nLittle red engine, one small stop\nThen the spare room's full of plastic hills\nTrack on the dresser and the windowsills\n\n[Pre-Chorus]\nDrilled a hole through the hallway wall\nTrain goes by when you take a call\n\n[Chorus]\nGarage line, garage line\nRunning every hour right on time\nThrough the wall and past the paint\nWife's car out on the street, she's a saint\n\n[Verse 2]\nBridge of balsa over cans of oil\nTiny cows in a box of soil\nShe stands in the doorway, keys in hand\nAsks me where her car is meant to land\n\n[Chorus]\nGarage line, garage line\nTunnel where the mower parked, now it's mine\nThrough the wall and past the paint\nWife's car out on the street, she's a saint\n\n[Bridge - organ and tremolo guitar]\nShe says build a station, paint it blue\nPut my name on it and I'll ride it too\n\n[Outro - surf guitar break, drums fade]\nNext stop Linda, ring the bell\nGarage line is running well",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Surf rock revival, early-60s instrumental surf sound played by a 2020s revival band, with vocals. Reverb-drenched Fender guitar with fast tremolo-picked lead lines; a spring-reverb rhythm guitar chopping eighths; a reedy Farfisa organ; round electric bass; driving surf drums with tom fills. Vintage spring-reverb garage room sound, live-band feel. Male baritone, plain and cheerful, light group 'ooh' backing on the chorus. 150 BPM, E minor. Sunny, frantic and proud. No modern pop production, no distortion-heavy punk, no autotune, no synthesizers, no ballad section.",
+    "lyrics": "[Intro - tremolo lead guitar and surf drums]\n\n[Verse 1]\nStarted with a loop on a table top\nLittle red engine, one small stop\nThen the spare room's full of plastic hills\nTrack on the dresser and the windowsills\n\n[Pre-Chorus]\nDrilled a hole through the hallway wall\nTrain goes by when you take a call\n\n[Chorus]\nGarage line, garage line\nRunning every hour right on time\nThrough the wall and past the paint\nWife's car out on the street, she's a saint\n\n[Verse 2]\nBridge of balsa over cans of oil\nTiny cows in a box of soil\nShe stands in the doorway, keys in hand\nAsks me where her car is meant to land\n\n[Chorus]\nGarage line, garage line\nTunnel where the mower parked, now it's mine\nThrough the wall and past the paint\nWife's car out on the street, she's a saint\n\n[Bridge - organ and tremolo guitar]\nShe says build a station, paint it blue\nPut my name on it and I'll ride it too\n\n[Outro - surf guitar break, drums fade]\nNext stop Linda, ring the bell\nGarage line is running well"
+  },
+  "seed": "2825861643",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 51.53s**\n- 51.53s per song\n- LM phase (1 song): 12.54s\n- DiT phase (1 song): 38.99s",
+  "task_id": "cb33fd38-4ae1-4ff1-9550-5589f9f47be3",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T12:52:24.374717+08:00",
+  "audio": "b14_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.96,
+      "end": 33.96,
+      "text": "[Intro - tremolo lead guitar and surf drums]"
+    },
+    {
+      "t": 33.96,
+      "end": 33.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.96,
+      "end": 36.54,
+      "text": "Started with a loop on a table top"
+    },
+    {
+      "t": 40.4,
+      "end": 43.14,
+      "text": "Little red engine, one small stop"
+    },
+    {
+      "t": 51.03,
+      "end": 56.09,
+      "text": "Then the spare room's full of plastic hills"
+    },
+    {
+      "t": 56.09,
+      "end": 61.27,
+      "text": "Track on the dresser and the windowsills"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.29,
+      "end": 64.43,
+      "text": "Drilled a hole through the hallway wall"
+    },
+    {
+      "t": 64.51,
+      "end": 69.07,
+      "text": "Train goes by when you take a call"
+    },
+    {
+      "t": 69.09,
+      "end": 69.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.09,
+      "end": 70.85,
+      "text": "Garage line, garage line"
+    },
+    {
+      "t": 73.37,
+      "end": 75.27,
+      "text": "Running every hour right on time"
+    },
+    {
+      "t": 75.31,
+      "end": 77.31,
+      "text": "Through the wall and past the paint"
+    },
+    {
+      "t": 79.83,
+      "end": 83.65,
+      "text": "Wife's car out on the street, she's a saint"
+    },
+    {
+      "t": 86.89,
+      "end": 86.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.89,
+      "end": 89.87,
+      "text": "Bridge of balsa over cans of oil"
+    },
+    {
+      "t": 93.15,
+      "end": 98.65,
+      "text": "Tiny cows in a box of soil"
+    },
+    {
+      "t": 98.93,
+      "end": 105.05,
+      "text": "She stands in the doorway, keys in hand"
+    },
+    {
+      "t": 105.57,
+      "end": 109.03,
+      "text": "Asks me where her car is meant to land"
+    },
+    {
+      "t": 109.03,
+      "end": 109.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.03,
+      "end": 111.47,
+      "text": "Garage line, garage line"
+    },
+    {
+      "t": 111.47,
+      "end": 115.13,
+      "text": "Tunnel where the mower parked, now it's mine"
+    },
+    {
+      "t": 115.19,
+      "end": 118.03,
+      "text": "Through the wall and past the paint"
+    },
+    {
+      "t": 120.69,
+      "end": 132.21,
+      "text": "Wife's car out on the street, she's a saint"
+    },
+    {
+      "t": 137.06,
+      "end": 137.06,
+      "text": "[Bridge - organ and tremolo guitar]"
+    },
+    {
+      "t": 137.06,
+      "end": 141.1,
+      "text": "She says build a station, paint it blue"
+    },
+    {
+      "t": 143.78,
+      "end": 147.86,
+      "text": "Put my name on it and I'll ride it too"
+    },
+    {
+      "t": 155.64,
+      "end": 155.64,
+      "text": "[Outro - surf guitar break, drums fade]"
+    },
+    {
+      "t": 155.64,
+      "end": 158.98,
+      "text": "Next stop Linda, ring the bell"
+    },
+    {
+      "t": 161.94,
+      "end": 165.82,
+      "text": "Garage line is running well"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.96,
+      "end": 33.96,
+      "text": "[Intro - tremolo lead guitar and surf drums]"
+    },
+    {
+      "t": 33.96,
+      "end": 33.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.96,
+      "end": 36.52,
+      "text": "Started with a loop on a table top"
+    },
+    {
+      "t": 40.4,
+      "end": 43.06,
+      "text": "Little red engine, one small stop"
+    },
+    {
+      "t": 43.06,
+      "end": 56.09,
+      "text": "Then the spare room's full of plastic hills"
+    },
+    {
+      "t": 56.99,
+      "end": 61.61,
+      "text": "Track on the dresser and the windowsills"
+    },
+    {
+      "t": 61.61,
+      "end": 61.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.61,
+      "end": 64.49,
+      "text": "Drilled a hole through the hallway wall"
+    },
+    {
+      "t": 64.49,
+      "end": 69.09,
+      "text": "Train goes by when you take a call"
+    },
+    {
+      "t": 69.09,
+      "end": 69.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.09,
+      "end": 69.93,
+      "text": "Garage line, garage line"
+    },
+    {
+      "t": 70.05,
+      "end": 74.33,
+      "text": "Running every hour right on time"
+    },
+    {
+      "t": 74.33,
+      "end": 79.79,
+      "text": "Through the wall and past the paint"
+    },
+    {
+      "t": 79.83,
+      "end": 83.63,
+      "text": "Wife's car out on the street, she's a saint"
+    },
+    {
+      "t": 86.89,
+      "end": 86.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.89,
+      "end": 89.75,
+      "text": "Bridge of balsa over cans of oil"
+    },
+    {
+      "t": 93.15,
+      "end": 96.21,
+      "text": "Tiny cows in a box of soil"
+    },
+    {
+      "t": 98.15,
+      "end": 105.03,
+      "text": "She stands in the doorway, keys in hand"
+    },
+    {
+      "t": 105.57,
+      "end": 108.39,
+      "text": "Asks me where her car is meant to land"
+    },
+    {
+      "t": 108.39,
+      "end": 108.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.39,
+      "end": 109.05,
+      "text": "Garage line, garage line"
+    },
+    {
+      "t": 111.01,
+      "end": 114.59,
+      "text": "Tunnel where the mower parked, now it's mine"
+    },
+    {
+      "t": 114.59,
+      "end": 118.05,
+      "text": "Through the wall and past the paint"
+    },
+    {
+      "t": 120.69,
+      "end": 132.21,
+      "text": "Wife's car out on the street, she's a saint"
+    },
+    {
+      "t": 137.04,
+      "end": 137.04,
+      "text": "[Bridge - organ and tremolo guitar]"
+    },
+    {
+      "t": 137.04,
+      "end": 140.96,
+      "text": "She says build a station, paint it blue"
+    },
+    {
+      "t": 143.76,
+      "end": 147.68,
+      "text": "Put my name on it and I'll ride it too"
+    },
+    {
+      "t": 155.64,
+      "end": 155.64,
+      "text": "[Outro - surf guitar break, drums fade]"
+    },
+    {
+      "t": 155.64,
+      "end": 158.98,
+      "text": "Next stop Linda, ring the bell"
+    },
+    {
+      "t": 161.92,
+      "end": 165.42,
+      "text": "Garage line is running well"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

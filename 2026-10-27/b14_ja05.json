@@ -1,0 +1,474 @@
+{
+  "id": "b14_ja05",
+  "title": "ビート板は二枚まで",
+  "title_source": "scripted",
+  "genre": "Japanese eleki surf-guitar pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "twangy, sporty and proudly ridiculous",
+  "persona": "",
+  "subject": "a forty-two-year-old office worker in a ward-pool adult beginners' swimming class on Thursday nights, the oldest of six, finally letting go of his second kickboard and making twenty-five metres of crawl while the seventy-year-old woman in the next lane cheers",
+  "caption": "Japanese eleki surf-guitar pop, 1960s eleki boom instrumental style with a sung kayo melody. Reverb-drenched clean electric lead guitar with fast tremolo picking and whammy-bar dips; a second guitar on staccato chops; driving electric bass; tom-heavy surf drums; a thin combo organ filling chords. Spring-reverb tank sound, vintage 60s tape character, dry drums. Male baritone with a warm Showa-era kayo delivery and a group singing 'wah' behind him. 138 BPM, A minor. Twangy, sporty and proudly ridiculous. No distorted rock guitars, no punk tempo, no synths, no autotune, no modern pop production.",
+  "lyrics": "[Intro - tremolo-picked surf guitar, tom roll]\n\n[Verse 1]\n木曜の夜 区民プール\n大人の初心者 六人目\nいちばん年上 四十二歳\nゴーグルの跡が 消えないまま\n\n[Pre-Chorus]\nコーチが言う 顔をつけて\n吐いて 吸って もう一回\n\n[Chorus]\nビート板は二枚まで\n腕の下で 浮いている\nビート板は二枚まで\n足はちゃんと 動いてる\n\n[Verse 2]\nとなりのコースの 七十歳\n平泳ぎで 追い抜いてく\nがんばってねって 水の中\n手を振られても 振り返せない\n\n[Pre-Chorus]\n今日はコーチが 板を取った\n十メートル 二十メートル\n\n[Chorus]\nビート板は一枚もない\n壁がだんだん 近くなる\n二十五メートル 壁にタッチ\nとなりの人が 手をたたく\n\n[Outro - surf guitar twang, whammy dip, final crash]\n来週はターンを 教わるらしい",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Japanese eleki surf-guitar pop, 1960s eleki boom instrumental style with a sung kayo melody. Reverb-drenched clean electric lead guitar with fast tremolo picking and whammy-bar dips; a second guitar on staccato chops; driving electric bass; tom-heavy surf drums; a thin combo organ filling chords. Spring-reverb tank sound, vintage 60s tape character, dry drums. Male baritone with a warm Showa-era kayo delivery and a group singing 'wah' behind him. 138 BPM, A minor. Twangy, sporty and proudly ridiculous. No distorted rock guitars, no punk tempo, no synths, no autotune, no modern pop production.",
+    "lyrics": "[Intro - tremolo-picked surf guitar, tom roll]\n\n[Verse 1]\n木曜の夜 区民プール\n大人の初心者 六人目\nいちばん年上 四十二歳\nゴーグルの跡が 消えないまま\n\n[Pre-Chorus]\nコーチが言う 顔をつけて\n吐いて 吸って もう一回\n\n[Chorus]\nビート板は二枚まで\n腕の下で 浮いている\nビート板は二枚まで\n足はちゃんと 動いてる\n\n[Verse 2]\nとなりのコースの 七十歳\n平泳ぎで 追い抜いてく\nがんばってねって 水の中\n手を振られても 振り返せない\n\n[Pre-Chorus]\n今日はコーチが 板を取った\n十メートル 二十メートル\n\n[Chorus]\nビート板は一枚もない\n壁がだんだん 近くなる\n二十五メートル 壁にタッチ\nとなりの人が 手をたたく\n\n[Outro - surf guitar twang, whammy dip, final crash]\n来週はターンを 教わるらしい"
+  },
+  "seed": "3950464669",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 138.84s**\n- 138.84s per song\n- LM phase (1 song): 25.03s\n- DiT phase (1 song): 113.81s",
+  "task_id": "763337e4-7e9e-43ba-a445-c3e01bd1868b",
+  "elapsed_s": 180.6,
+  "generated_at": "2026-10-27T19:09:01.467581+08:00",
+  "audio": "b14_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.68,
+      "end": 27.68,
+      "text": "[Intro - tremolo-picked surf guitar, tom roll]"
+    },
+    {
+      "t": 27.68,
+      "end": 27.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.68,
+      "end": 31.08,
+      "text": "木曜の夜 区民プール"
+    },
+    {
+      "t": 31.22,
+      "end": 33.5,
+      "text": "大人の初心者 六人目"
+    },
+    {
+      "t": 33.72,
+      "end": 35.16,
+      "text": "いちばん年上 四十二歳"
+    },
+    {
+      "t": 35.16,
+      "end": 39.72,
+      "text": "ゴーグルの跡が 消えないまま"
+    },
+    {
+      "t": 39.72,
+      "end": 39.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.72,
+      "end": 43.28,
+      "text": "コーチが言う 顔をつけて"
+    },
+    {
+      "t": 46.39,
+      "end": 50.07,
+      "text": "吐いて 吸って もう一回"
+    },
+    {
+      "t": 50.27,
+      "end": 50.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.27,
+      "end": 56.23,
+      "text": "ビート板は二枚まで"
+    },
+    {
+      "t": 56.27,
+      "end": 57.17,
+      "text": "腕の下で 浮いている"
+    },
+    {
+      "t": 57.29,
+      "end": 60.23,
+      "text": "ビート板は二枚まで"
+    },
+    {
+      "t": 60.97,
+      "end": 64.39,
+      "text": "足はちゃんと 動いてる"
+    },
+    {
+      "t": 67.69,
+      "end": 67.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.69,
+      "end": 71.63,
+      "text": "となりのコースの 七十歳"
+    },
+    {
+      "t": 74.45,
+      "end": 78.05,
+      "text": "平泳ぎで 追い抜いてく"
+    },
+    {
+      "t": 81.39,
+      "end": 84.67,
+      "text": "がんばってねって 水の中"
+    },
+    {
+      "t": 84.69,
+      "end": 93.37,
+      "text": "手を振られても 振り返せない"
+    },
+    {
+      "t": 93.37,
+      "end": 93.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.37,
+      "end": 98.69,
+      "text": "今日はコーチが 板を取った"
+    },
+    {
+      "t": 103.07,
+      "end": 106.29,
+      "text": "十メートル 二十メートル"
+    },
+    {
+      "t": 109.59,
+      "end": 109.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.59,
+      "end": 111.85,
+      "text": "ビート板は一枚もない"
+    },
+    {
+      "t": 111.99,
+      "end": 116.43,
+      "text": "壁がだんだん 近くなる"
+    },
+    {
+      "t": 116.77,
+      "end": 119.69,
+      "text": "二十五メートル 壁にタッチ"
+    },
+    {
+      "t": 119.77,
+      "end": 130.79,
+      "text": "となりの人が 手をたたく"
+    },
+    {
+      "t": 141.28,
+      "end": 141.28,
+      "text": "[Outro - surf guitar twang, whammy dip, final crash]"
+    },
+    {
+      "t": 141.28,
+      "end": 162.6,
+      "text": "来週はターンを 教わるらしい"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.68,
+      "end": 27.68,
+      "text": "[Intro - tremolo-picked surf guitar, tom roll]"
+    },
+    {
+      "t": 27.68,
+      "end": 27.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.68,
+      "end": 31.08,
+      "text": "木曜の夜 区民プール"
+    },
+    {
+      "t": 31.22,
+      "end": 33.5,
+      "text": "大人の初心者 六人目"
+    },
+    {
+      "t": 33.72,
+      "end": 35.16,
+      "text": "いちばん年上 四十二歳"
+    },
+    {
+      "t": 35.16,
+      "end": 39.72,
+      "text": "ゴーグルの跡が 消えないまま"
+    },
+    {
+      "t": 39.72,
+      "end": 39.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.72,
+      "end": 43.28,
+      "text": "コーチが言う 顔をつけて"
+    },
+    {
+      "t": 46.39,
+      "end": 50.07,
+      "text": "吐いて 吸って もう一回"
+    },
+    {
+      "t": 50.27,
+      "end": 50.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.27,
+      "end": 56.23,
+      "text": "ビート板は二枚まで"
+    },
+    {
+      "t": 56.27,
+      "end": 57.17,
+      "text": "腕の下で 浮いている"
+    },
+    {
+      "t": 57.29,
+      "end": 60.23,
+      "text": "ビート板は二枚まで"
+    },
+    {
+      "t": 60.97,
+      "end": 64.39,
+      "text": "足はちゃんと 動いてる"
+    },
+    {
+      "t": 67.69,
+      "end": 67.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.69,
+      "end": 71.63,
+      "text": "となりのコースの 七十歳"
+    },
+    {
+      "t": 74.45,
+      "end": 78.05,
+      "text": "平泳ぎで 追い抜いてく"
+    },
+    {
+      "t": 81.39,
+      "end": 84.67,
+      "text": "がんばってねって 水の中"
+    },
+    {
+      "t": 84.69,
+      "end": 93.37,
+      "text": "手を振られても 振り返せない"
+    },
+    {
+      "t": 93.37,
+      "end": 93.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.37,
+      "end": 98.69,
+      "text": "今日はコーチが 板を取った"
+    },
+    {
+      "t": 103.07,
+      "end": 106.29,
+      "text": "十メートル 二十メートル"
+    },
+    {
+      "t": 109.59,
+      "end": 109.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.59,
+      "end": 111.85,
+      "text": "ビート板は一枚もない"
+    },
+    {
+      "t": 111.99,
+      "end": 116.43,
+      "text": "壁がだんだん 近くなる"
+    },
+    {
+      "t": 116.77,
+      "end": 119.69,
+      "text": "二十五メートル 壁にタッチ"
+    },
+    {
+      "t": 119.77,
+      "end": 130.79,
+      "text": "となりの人が 手をたたく"
+    },
+    {
+      "t": 141.28,
+      "end": 141.28,
+      "text": "[Outro - surf guitar twang, whammy dip, final crash]"
+    },
+    {
+      "t": 141.28,
+      "end": 162.6,
+      "text": "来週はターンを 教わるらしい"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.66,
+      "end": 27.66,
+      "text": "[Intro - tremolo-picked surf guitar, tom roll]"
+    },
+    {
+      "t": 27.66,
+      "end": 27.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.66,
+      "end": 31.08,
+      "text": "木曜の夜 区民プール"
+    },
+    {
+      "t": 31.52,
+      "end": 33.48,
+      "text": "大人の初心者 六人目"
+    },
+    {
+      "t": 33.72,
+      "end": 35.14,
+      "text": "いちばん年上 四十二歳"
+    },
+    {
+      "t": 35.16,
+      "end": 36.96,
+      "text": "ゴーグルの跡が 消えないまま"
+    },
+    {
+      "t": 37.04,
+      "end": 37.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.04,
+      "end": 43.28,
+      "text": "コーチが言う 顔をつけて"
+    },
+    {
+      "t": 46.39,
+      "end": 50.89,
+      "text": "吐いて 吸って もう一回"
+    },
+    {
+      "t": 53.81,
+      "end": 53.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.81,
+      "end": 56.39,
+      "text": "ビート板は二枚まで"
+    },
+    {
+      "t": 56.39,
+      "end": 57.19,
+      "text": "腕の下で 浮いている"
+    },
+    {
+      "t": 57.29,
+      "end": 60.25,
+      "text": "ビート板は二枚まで"
+    },
+    {
+      "t": 60.97,
+      "end": 64.39,
+      "text": "足はちゃんと 動いてる"
+    },
+    {
+      "t": 67.69,
+      "end": 67.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.69,
+      "end": 71.63,
+      "text": "となりのコースの 七十歳"
+    },
+    {
+      "t": 74.47,
+      "end": 78.05,
+      "text": "平泳ぎで 追い抜いてく"
+    },
+    {
+      "t": 81.43,
+      "end": 84.49,
+      "text": "がんばってねって 水の中"
+    },
+    {
+      "t": 84.65,
+      "end": 92.03,
+      "text": "手を振られても 振り返せない"
+    },
+    {
+      "t": 92.03,
+      "end": 92.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.03,
+      "end": 98.69,
+      "text": "今日はコーチが 板を取った"
+    },
+    {
+      "t": 103.07,
+      "end": 106.29,
+      "text": "十メートル 二十メートル"
+    },
+    {
+      "t": 109.59,
+      "end": 109.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.59,
+      "end": 111.85,
+      "text": "ビート板は一枚もない"
+    },
+    {
+      "t": 111.99,
+      "end": 116.63,
+      "text": "壁がだんだん 近くなる"
+    },
+    {
+      "t": 116.77,
+      "end": 119.69,
+      "text": "二十五メートル 壁にタッチ"
+    },
+    {
+      "t": 119.79,
+      "end": 130.79,
+      "text": "となりの人が 手をたたく"
+    },
+    {
+      "t": 141.28,
+      "end": 141.28,
+      "text": "[Outro - surf guitar twang, whammy dip, final crash]"
+    },
+    {
+      "t": 141.28,
+      "end": 162.58,
+      "text": "来週はターンを 教わるらしい"
+    }
+  ]
+}

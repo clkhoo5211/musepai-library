@@ -1,0 +1,337 @@
+{
+  "id": "b14_ja01",
+  "title": "ネジが一本足りない",
+  "title_source": "scripted",
+  "genre": "Japanese new jack swing",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "flustered, cocky and laughing at himself",
+  "persona": "",
+  "subject": "a man assembling a flat-pack wardrobe alone on a Saturday, discovering one screw is missing so a door hangs crooked, while a wooden dowel is somehow left over and fits no hole",
+  "caption": "Japanese new jack swing, revival of late-80s/early-90s swing-beat dance pop. Swung drum machine with a hard gated snare and shuffled hi-hats; punchy synth bass stabs on the off-beats; bright FM synth brass hits marking each hook; funky clavinet-style keys comping; finger snaps in the breaks. Crisp vintage drum-machine sheen, wide stereo stabs, dry upfront lead. Male tenor lead, rhythmic sung verses, short falsetto ad-libs, two-man gang-call answers on the chorus. 108 BPM, E minor. Flustered, cocky and laughing at himself. No trap hi-hats, no autotune, no EDM drop, no rock guitars, no rap verse.",
+  "lyrics": "[Intro - synth brass hits, swung drum machine, finger snaps]\n\n[Verse 1]\n土曜の朝に 届いた箱\n組み立て式の クローゼット\n説明書には 絵しかない\n六角レンチが 一本だけ\n\n[Pre-Chorus]\n板を並べて 床が消える\nひとりでやれる 余裕だろ\n\n[Chorus]\nネジが一本足りないぞ\n袋を逆さに 振ってみる\nネジが一本足りないぞ\n扉がちょっと 傾いてる\n\n[Verse 2]\nなのに木の棒 一本余る\nどこの穴にも 入らない\n説明書の 七ページ目\n見なかったことに しておこう\n\n[Pre-Chorus]\n夕方になって 立ててみたら\nちゃんと立った 俺すごい\n\n[Chorus]\nネジが一本足りないけど\n服をかけても 倒れない\n木の棒一本 余ったけど\nペン立てに 挿しておく\n\n[Outro - synth brass, gang call fades]\nネジが一本足りないぞ\n月曜にメーカーに 電話する",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Japanese new jack swing, revival of late-80s/early-90s swing-beat dance pop. Swung drum machine with a hard gated snare and shuffled hi-hats; punchy synth bass stabs on the off-beats; bright FM synth brass hits marking each hook; funky clavinet-style keys comping; finger snaps in the breaks. Crisp vintage drum-machine sheen, wide stereo stabs, dry upfront lead. Male tenor lead, rhythmic sung verses, short falsetto ad-libs, two-man gang-call answers on the chorus. 108 BPM, E minor. Flustered, cocky and laughing at himself. No trap hi-hats, no autotune, no EDM drop, no rock guitars, no rap verse.",
+    "lyrics": "[Intro - synth brass hits, swung drum machine, finger snaps]\n\n[Verse 1]\n土曜の朝に 届いた箱\n組み立て式の クローゼット\n説明書には 絵しかない\n六角レンチが 一本だけ\n\n[Pre-Chorus]\n板を並べて 床が消える\nひとりでやれる 余裕だろ\n\n[Chorus]\nネジが一本足りないぞ\n袋を逆さに 振ってみる\nネジが一本足りないぞ\n扉がちょっと 傾いてる\n\n[Verse 2]\nなのに木の棒 一本余る\nどこの穴にも 入らない\n説明書の 七ページ目\n見なかったことに しておこう\n\n[Pre-Chorus]\n夕方になって 立ててみたら\nちゃんと立った 俺すごい\n\n[Chorus]\nネジが一本足りないけど\n服をかけても 倒れない\n木の棒一本 余ったけど\nペン立てに 挿しておく\n\n[Outro - synth brass, gang call fades]\nネジが一本足りないぞ\n月曜にメーカーに 電話する"
+  },
+  "seed": "3503273166",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.34s**\n- 62.34s per song\n- LM phase (1 song): 9.19s\n- DiT phase (1 song): 53.16s",
+  "task_id": "63269996-ac15-4795-b260-fa6f2a02bfe3",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-27T13:00:35.048957+08:00",
+  "audio": "b14_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Intro - synth brass hits, swung drum machine, finger snaps]"
+    },
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.7,
+      "end": 40.84,
+      "text": "土曜の朝に 届いた箱"
+    },
+    {
+      "t": 40.9,
+      "end": 44.5,
+      "text": "組み立て式の クローゼット"
+    },
+    {
+      "t": 45.48,
+      "end": 49.1,
+      "text": "説明書には 絵しかない"
+    },
+    {
+      "t": 49.42,
+      "end": 53.61,
+      "text": "六角レンチが 一本だけ"
+    },
+    {
+      "t": 57.09,
+      "end": 57.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.09,
+      "end": 61.09,
+      "text": "板を並べて 床が消える"
+    },
+    {
+      "t": 66.25,
+      "end": 71.07,
+      "text": "ひとりでやれる 余裕だろ"
+    },
+    {
+      "t": 72.35,
+      "end": 72.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.35,
+      "end": 86.17,
+      "text": "ネジが一本足りないぞ"
+    },
+    {
+      "t": 86.33,
+      "end": 88.81,
+      "text": "袋を逆さに 振ってみる"
+    },
+    {
+      "t": 88.97,
+      "end": 93.93,
+      "text": "ネジが一本足りないぞ"
+    },
+    {
+      "t": 94.11,
+      "end": 95.99,
+      "text": "扉がちょっと 傾いてる"
+    },
+    {
+      "t": 96.87,
+      "end": 96.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.87,
+      "end": 100.45,
+      "text": "なのに木の棒 一本余る"
+    },
+    {
+      "t": 101.57,
+      "end": 104.51,
+      "text": "どこの穴にも 入らない"
+    },
+    {
+      "t": 105.71,
+      "end": 109.17,
+      "text": "説明書の 七ページ目"
+    },
+    {
+      "t": 110.17,
+      "end": 115.27,
+      "text": "見なかったことに しておこう"
+    },
+    {
+      "t": 118.19,
+      "end": 118.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 118.19,
+      "end": 125.51,
+      "text": "夕方になって 立ててみたら"
+    },
+    {
+      "t": 125.71,
+      "end": 127.33,
+      "text": "ちゃんと立った 俺すごい"
+    },
+    {
+      "t": 127.93,
+      "end": 127.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.93,
+      "end": 133.03,
+      "text": "ネジが一本足りないけど"
+    },
+    {
+      "t": 133.75,
+      "end": 137.77,
+      "text": "服をかけても 倒れない"
+    },
+    {
+      "t": 137.77,
+      "end": 139.87,
+      "text": "木の棒一本 余ったけど"
+    },
+    {
+      "t": 150.42,
+      "end": 153.18,
+      "text": "ペン立てに 挿しておく"
+    },
+    {
+      "t": 159.04,
+      "end": 159.04,
+      "text": "[Outro - synth brass, gang call fades]"
+    },
+    {
+      "t": 159.04,
+      "end": 162.06,
+      "text": "ネジが一本足りないぞ"
+    },
+    {
+      "t": 163.5,
+      "end": 170.84,
+      "text": "月曜にメーカーに 電話する"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Intro - synth brass hits, swung drum machine, finger snaps]"
+    },
+    {
+      "t": 36.7,
+      "end": 36.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.7,
+      "end": 40.02,
+      "text": "土曜の朝に 届いた箱"
+    },
+    {
+      "t": 40.58,
+      "end": 44.16,
+      "text": "組み立て式の クローゼット"
+    },
+    {
+      "t": 45.5,
+      "end": 49.08,
+      "text": "説明書には 絵しかない"
+    },
+    {
+      "t": 50.47,
+      "end": 53.63,
+      "text": "六角レンチが 一本だけ"
+    },
+    {
+      "t": 57.09,
+      "end": 57.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.09,
+      "end": 60.97,
+      "text": "板を並べて 床が消える"
+    },
+    {
+      "t": 66.25,
+      "end": 71.07,
+      "text": "ひとりでやれる 余裕だろ"
+    },
+    {
+      "t": 72.33,
+      "end": 72.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.33,
+      "end": 75.37,
+      "text": "ネジが一本足りないぞ"
+    },
+    {
+      "t": 76.75,
+      "end": 79.93,
+      "text": "袋を逆さに 振ってみる"
+    },
+    {
+      "t": 81.33,
+      "end": 85.63,
+      "text": "ネジが一本足りないぞ"
+    },
+    {
+      "t": 85.81,
+      "end": 88.83,
+      "text": "扉がちょっと 傾いてる"
+    },
+    {
+      "t": 93.01,
+      "end": 93.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.01,
+      "end": 95.59,
+      "text": "なのに木の棒 一本余る"
+    },
+    {
+      "t": 96.85,
+      "end": 102.81,
+      "text": "どこの穴にも 入らない"
+    },
+    {
+      "t": 102.97,
+      "end": 110.21,
+      "text": "説明書の 七ページ目"
+    },
+    {
+      "t": 110.21,
+      "end": 115.27,
+      "text": "見なかったことに しておこう"
+    },
+    {
+      "t": 115.45,
+      "end": 115.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 115.45,
+      "end": 116.97,
+      "text": "夕方になって 立ててみたら"
+    },
+    {
+      "t": 117.39,
+      "end": 118.89,
+      "text": "ちゃんと立った 俺すごい"
+    },
+    {
+      "t": 118.89,
+      "end": 118.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.89,
+      "end": 130.97,
+      "text": "ネジが一本足りないけど"
+    },
+    {
+      "t": 132.35,
+      "end": 139.31,
+      "text": "服をかけても 倒れない"
+    },
+    {
+      "t": 139.33,
+      "end": 148.73,
+      "text": "木の棒一本 余ったけど"
+    },
+    {
+      "t": 150.42,
+      "end": 153.18,
+      "text": "ペン立てに 挿しておく"
+    },
+    {
+      "t": 159.04,
+      "end": 159.04,
+      "text": "[Outro - synth brass, gang call fades]"
+    },
+    {
+      "t": 159.04,
+      "end": 162.08,
+      "text": "ネジが一本足りないぞ"
+    },
+    {
+      "t": 163.5,
+      "end": 170.84,
+      "text": "月曜にメーカーに 電話する"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

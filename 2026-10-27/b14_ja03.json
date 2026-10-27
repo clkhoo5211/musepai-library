@@ -1,0 +1,327 @@
+{
+  "id": "b14_ja03",
+  "title": "ツナマヨふたつ",
+  "title_source": "scripted",
+  "genre": "Shibuya-kei revival pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "shy, warm and quietly giddy",
+  "persona": "",
+  "subject": "two regulars at the same konbini at 11pm who keep reaching for the last tuna-mayo onigiri, until one night he buys two and hands her one, and they eat side by side at the guardrail outside",
+  "caption": "Shibuya-kei revival pop, 90s Tokyo Shibuya-kei sound as revisited by current Tokyo bands. Nylon-string guitar with a light bossa strum; warm upright bass; brushed jazz drums with a soft shuffle; vibraphone chords; a flute and muted trumpet trading short countermelodies. Bright clean stereo with gentle tape warmth. Female mezzo lead, breezy close-mic delivery, a soft male harmony on the chorus. 118 BPM, D major. Shy, warm and quietly giddy, in love. No EDM, no trap beat, no autotune, no heavy guitars, no orchestral ballad build.",
+  "lyrics": "[Intro - vibraphone and nylon guitar, brushes enter]\n\n[Verse 1]\n夜の十一時 コンビニの棚\nツナマヨ最後の 一個だけ\n同時に伸びた 手がぶつかる\nどうぞどうぞと 譲りあう\n\n[Pre-Chorus]\n毎晩おなじ 時間に来る人\nスーツの袖が いつもしわしわ\n\n[Chorus]\nツナマヨはひとつだけ\n今夜はどっちが 持って帰る\nじゃんけんしようとは 言えなくて\n梅をつかんで レジに並ぶ\n\n[Verse 2]\n残業のびて 走って来たら\n棚の前に あの人がいた\nふたつ持ってて ひとつくれた\n今日は先に 来れたからって\n\n[Pre-Chorus]\n店の前の ガードレールで\n袋を開けて 並んで食べる\n\n[Chorus]\nツナマヨはふたつある\n海苔がぱりっと 音を立てる\n明日も来るって 言われたから\n十一時に 間に合わせる\n\n[Outro - flute and muted trumpet, brushes fade]\n明日はわたしが ふたつ買う",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Shibuya-kei revival pop, 90s Tokyo Shibuya-kei sound as revisited by current Tokyo bands. Nylon-string guitar with a light bossa strum; warm upright bass; brushed jazz drums with a soft shuffle; vibraphone chords; a flute and muted trumpet trading short countermelodies. Bright clean stereo with gentle tape warmth. Female mezzo lead, breezy close-mic delivery, a soft male harmony on the chorus. 118 BPM, D major. Shy, warm and quietly giddy, in love. No EDM, no trap beat, no autotune, no heavy guitars, no orchestral ballad build.",
+    "lyrics": "[Intro - vibraphone and nylon guitar, brushes enter]\n\n[Verse 1]\n夜の十一時 コンビニの棚\nツナマヨ最後の 一個だけ\n同時に伸びた 手がぶつかる\nどうぞどうぞと 譲りあう\n\n[Pre-Chorus]\n毎晩おなじ 時間に来る人\nスーツの袖が いつもしわしわ\n\n[Chorus]\nツナマヨはひとつだけ\n今夜はどっちが 持って帰る\nじゃんけんしようとは 言えなくて\n梅をつかんで レジに並ぶ\n\n[Verse 2]\n残業のびて 走って来たら\n棚の前に あの人がいた\nふたつ持ってて ひとつくれた\n今日は先に 来れたからって\n\n[Pre-Chorus]\n店の前の ガードレールで\n袋を開けて 並んで食べる\n\n[Chorus]\nツナマヨはふたつある\n海苔がぱりっと 音を立てる\n明日も来るって 言われたから\n十一時に 間に合わせる\n\n[Outro - flute and muted trumpet, brushes fade]\n明日はわたしが ふたつ買う"
+  },
+  "seed": "2307636914",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.82s**\n- 57.82s per song\n- LM phase (1 song): 14.18s\n- DiT phase (1 song): 43.64s",
+  "task_id": "d25609f6-51c3-4930-9d33-8bae4a9801bd",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-27T13:03:15.357481+08:00",
+  "audio": "b14_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.32,
+      "end": 17.32,
+      "text": "[Intro - vibraphone and nylon guitar, brushes enter]"
+    },
+    {
+      "t": 17.32,
+      "end": 17.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.32,
+      "end": 23.82,
+      "text": "夜の十一時 コンビニの棚"
+    },
+    {
+      "t": 25.14,
+      "end": 32.0,
+      "text": "ツナマヨ最後の 一個だけ"
+    },
+    {
+      "t": 33.4,
+      "end": 40.18,
+      "text": "同時に伸びた 手がぶつかる"
+    },
+    {
+      "t": 41.08,
+      "end": 43.44,
+      "text": "どうぞどうぞと 譲りあう"
+    },
+    {
+      "t": 43.6,
+      "end": 43.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.6,
+      "end": 48.14,
+      "text": "毎晩おなじ 時間に来る人"
+    },
+    {
+      "t": 48.22,
+      "end": 53.45,
+      "text": "スーツの袖が いつもしわしわ"
+    },
+    {
+      "t": 55.27,
+      "end": 55.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.27,
+      "end": 58.55,
+      "text": "ツナマヨはひとつだけ"
+    },
+    {
+      "t": 59.39,
+      "end": 62.61,
+      "text": "今夜はどっちが 持って帰る"
+    },
+    {
+      "t": 63.49,
+      "end": 69.75,
+      "text": "じゃんけんしようとは 言えなくて"
+    },
+    {
+      "t": 73.93,
+      "end": 77.11,
+      "text": "梅をつかんで レジに並ぶ"
+    },
+    {
+      "t": 77.27,
+      "end": 77.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.27,
+      "end": 87.25,
+      "text": "残業のびて 走って来たら"
+    },
+    {
+      "t": 87.25,
+      "end": 91.33,
+      "text": "棚の前に あの人がいた"
+    },
+    {
+      "t": 95.25,
+      "end": 100.47,
+      "text": "ふたつ持ってて ひとつくれた"
+    },
+    {
+      "t": 103.37,
+      "end": 111.43,
+      "text": "今日は先に 来れたからって"
+    },
+    {
+      "t": 112.57,
+      "end": 112.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.57,
+      "end": 117.77,
+      "text": "店の前の ガードレールで"
+    },
+    {
+      "t": 118.65,
+      "end": 123.31,
+      "text": "袋を開けて 並んで食べる"
+    },
+    {
+      "t": 123.49,
+      "end": 123.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.49,
+      "end": 125.89,
+      "text": "ツナマヨはふたつある"
+    },
+    {
+      "t": 129.09,
+      "end": 134.29,
+      "text": "海苔がぱりっと 音を立てる"
+    },
+    {
+      "t": 135.69,
+      "end": 141.21,
+      "text": "明日も来るって 言われたから"
+    },
+    {
+      "t": 141.47,
+      "end": 150.06,
+      "text": "十一時に 間に合わせる"
+    },
+    {
+      "t": 151.44,
+      "end": 151.44,
+      "text": "[Outro - flute and muted trumpet, brushes fade]"
+    },
+    {
+      "t": 151.44,
+      "end": 190.78,
+      "text": "明日はわたしが ふたつ買う"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.3,
+      "end": 17.3,
+      "text": "[Intro - vibraphone and nylon guitar, brushes enter]"
+    },
+    {
+      "t": 17.3,
+      "end": 17.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.3,
+      "end": 23.84,
+      "text": "夜の十一時 コンビニの棚"
+    },
+    {
+      "t": 25.14,
+      "end": 32.0,
+      "text": "ツナマヨ最後の 一個だけ"
+    },
+    {
+      "t": 33.4,
+      "end": 40.18,
+      "text": "同時に伸びた 手がぶつかる"
+    },
+    {
+      "t": 41.08,
+      "end": 43.44,
+      "text": "どうぞどうぞと 譲りあう"
+    },
+    {
+      "t": 43.6,
+      "end": 43.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.6,
+      "end": 48.0,
+      "text": "毎晩おなじ 時間に来る人"
+    },
+    {
+      "t": 48.04,
+      "end": 53.43,
+      "text": "スーツの袖が いつもしわしわ"
+    },
+    {
+      "t": 55.27,
+      "end": 55.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.27,
+      "end": 58.55,
+      "text": "ツナマヨはひとつだけ"
+    },
+    {
+      "t": 59.39,
+      "end": 62.61,
+      "text": "今夜はどっちが 持って帰る"
+    },
+    {
+      "t": 63.49,
+      "end": 69.75,
+      "text": "じゃんけんしようとは 言えなくて"
+    },
+    {
+      "t": 73.91,
+      "end": 77.63,
+      "text": "梅をつかんで レジに並ぶ"
+    },
+    {
+      "t": 87.11,
+      "end": 87.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.11,
+      "end": 88.81,
+      "text": "残業のびて 走って来たら"
+    },
+    {
+      "t": 89.17,
+      "end": 91.35,
+      "text": "棚の前に あの人がいた"
+    },
+    {
+      "t": 95.25,
+      "end": 100.47,
+      "text": "ふたつ持ってて ひとつくれた"
+    },
+    {
+      "t": 103.37,
+      "end": 112.67,
+      "text": "今日は先に 来れたからって"
+    },
+    {
+      "t": 112.83,
+      "end": 112.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.83,
+      "end": 117.79,
+      "text": "店の前の ガードレールで"
+    },
+    {
+      "t": 118.67,
+      "end": 123.31,
+      "text": "袋を開けて 並んで食べる"
+    },
+    {
+      "t": 123.47,
+      "end": 123.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.47,
+      "end": 125.89,
+      "text": "ツナマヨはふたつある"
+    },
+    {
+      "t": 129.09,
+      "end": 135.81,
+      "text": "海苔がぱりっと 音を立てる"
+    },
+    {
+      "t": 135.81,
+      "end": 139.23,
+      "text": "明日も来るって 言われたから"
+    },
+    {
+      "t": 139.23,
+      "end": 141.91,
+      "text": "十一時に 間に合わせる"
+    },
+    {
+      "t": 147.88,
+      "end": 147.88,
+      "text": "[Outro - flute and muted trumpet, brushes fade]"
+    },
+    {
+      "t": 147.88,
+      "end": 164.16,
+      "text": "明日はわたしが ふたつ買う"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

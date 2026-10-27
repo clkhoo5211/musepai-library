@@ -1,0 +1,317 @@
+{
+  "id": "b14_ms02",
+  "title": "Teh Tarik Bergambar",
+  "title_source": "scripted",
+  "genre": "Sabahan sumazau pop",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "warm, shy and quietly in love",
+  "persona": "",
+  "subject": "a teh tarik puller at an Ipoh kopitiam who makes the same drink for one woman every morning and finally draws something in the foam",
+  "caption": "Sabahan sumazau pop, Kadazan-Dusun dance rhythm in a gentle modern Malay pop song. Breathy sompoton bamboo mouth-organ riff, interlocking tagung gongs keeping a soft sumazau pulse, bright kulintangan runs, strummed acoustic guitar and a round bass guitar. Open airy mix with gongs panned wide over a light pop rhythm section. Male tenor lead with a soft female answer in the last chorus, clear relaxed tone. 112 BPM, D major. Warm, shy and quietly in love. No autotune, no trap beat, no EDM drop, no rock distortion, no dangdut tabla.",
+  "lyrics": "[Intro - sompoton riff over tagung gongs]\n\n[Verse 1]\nPukul tujuh, kedai baru buka\nKau duduk meja tepi tiang\nTeh tarik kurang manis, selalu\nAku tarik tinggi, tak tumpah\n\n[Pre-Chorus]\nDah setahun aku hafal\nTapi nama kau aku tak tahu\n\n[Chorus]\nTeh tarik bergambar\nAku lukis atas buih\nSatu hati kecil, senget sikit\nAku hantar, terus lari\n\n[Verse 2]\nKau angkat gelas, kau berhenti\nKau tengok aku belakang kaunter\nTauke ketawa, cawan jatuh\nMuka aku merah macam sos\n\n[Pre-Chorus]\nKau datang ke kaunter\nKau tulis nama atas resit\n\n[Chorus - Duet]\nTeh tarik bergambar\nEsok lukis lagi, kau kata\nNama kau Aini, aku simpan resit\nEsok aku lukis dua\n\n[Outro - kulintangan and gongs, duet hum]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Sabahan sumazau pop, Kadazan-Dusun dance rhythm in a gentle modern Malay pop song. Breathy sompoton bamboo mouth-organ riff, interlocking tagung gongs keeping a soft sumazau pulse, bright kulintangan runs, strummed acoustic guitar and a round bass guitar. Open airy mix with gongs panned wide over a light pop rhythm section. Male tenor lead with a soft female answer in the last chorus, clear relaxed tone. 112 BPM, D major. Warm, shy and quietly in love. No autotune, no trap beat, no EDM drop, no rock distortion, no dangdut tabla.",
+    "lyrics": "[Intro - sompoton riff over tagung gongs]\n\n[Verse 1]\nPukul tujuh, kedai baru buka\nKau duduk meja tepi tiang\nTeh tarik kurang manis, selalu\nAku tarik tinggi, tak tumpah\n\n[Pre-Chorus]\nDah setahun aku hafal\nTapi nama kau aku tak tahu\n\n[Chorus]\nTeh tarik bergambar\nAku lukis atas buih\nSatu hati kecil, senget sikit\nAku hantar, terus lari\n\n[Verse 2]\nKau angkat gelas, kau berhenti\nKau tengok aku belakang kaunter\nTauke ketawa, cawan jatuh\nMuka aku merah macam sos\n\n[Pre-Chorus]\nKau datang ke kaunter\nKau tulis nama atas resit\n\n[Chorus - Duet]\nTeh tarik bergambar\nEsok lukis lagi, kau kata\nNama kau Aini, aku simpan resit\nEsok aku lukis dua\n\n[Outro - kulintangan and gongs, duet hum]"
+  },
+  "seed": "1156570422",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.85s**\n- 53.85s per song\n- LM phase (1 song): 7.09s\n- DiT phase (1 song): 46.76s",
+  "task_id": "79a74618-8de6-48ed-a18c-a319d84dea0f",
+  "elapsed_s": 80.4,
+  "generated_at": "2026-10-27T12:19:10.621148+08:00",
+  "audio": "b14_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 5.68,
+      "end": 5.68,
+      "text": "[Intro - sompoton riff over tagung gongs]"
+    },
+    {
+      "t": 5.68,
+      "end": 5.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.68,
+      "end": 31.48,
+      "text": "Pukul tujuh, kedai baru buka"
+    },
+    {
+      "t": 33.7,
+      "end": 40.1,
+      "text": "Kau duduk meja tepi tiang"
+    },
+    {
+      "t": 42.18,
+      "end": 47.64,
+      "text": "Teh tarik kurang manis, selalu"
+    },
+    {
+      "t": 50.51,
+      "end": 55.41,
+      "text": "Aku tarik tinggi, tak tumpah"
+    },
+    {
+      "t": 58.49,
+      "end": 58.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.49,
+      "end": 63.91,
+      "text": "Dah setahun aku hafal"
+    },
+    {
+      "t": 65.67,
+      "end": 71.53,
+      "text": "Tapi nama kau aku tak tahu"
+    },
+    {
+      "t": 73.99,
+      "end": 73.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.99,
+      "end": 76.37,
+      "text": "Teh tarik bergambar"
+    },
+    {
+      "t": 77.03,
+      "end": 80.97,
+      "text": "Aku lukis atas buih"
+    },
+    {
+      "t": 82.55,
+      "end": 87.13,
+      "text": "Satu hati kecil, senget sikit"
+    },
+    {
+      "t": 87.23,
+      "end": 92.15,
+      "text": "Aku hantar, terus lari"
+    },
+    {
+      "t": 98.35,
+      "end": 98.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.35,
+      "end": 100.41,
+      "text": "Kau angkat gelas, kau berhenti"
+    },
+    {
+      "t": 100.41,
+      "end": 103.97,
+      "text": "Kau tengok aku belakang kaunter"
+    },
+    {
+      "t": 106.93,
+      "end": 109.37,
+      "text": "Tauke ketawa, cawan jatuh"
+    },
+    {
+      "t": 109.41,
+      "end": 110.11,
+      "text": "Muka aku merah macam sos"
+    },
+    {
+      "t": 110.13,
+      "end": 110.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.13,
+      "end": 123.67,
+      "text": "Kau datang ke kaunter"
+    },
+    {
+      "t": 123.75,
+      "end": 132.29,
+      "text": "Kau tulis nama atas resit"
+    },
+    {
+      "t": 132.63,
+      "end": 132.63,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 132.63,
+      "end": 135.37,
+      "text": "Teh tarik bergambar"
+    },
+    {
+      "t": 136.15,
+      "end": 138.87,
+      "text": "Esok lukis lagi, kau kata"
+    },
+    {
+      "t": 138.93,
+      "end": 152.14,
+      "text": "Nama kau Aini, aku simpan resit"
+    },
+    {
+      "t": 163.78,
+      "end": 169.22,
+      "text": "Esok aku lukis dua"
+    },
+    {
+      "t": 169.22,
+      "end": 169.22,
+      "text": "[Outro - kulintangan and gongs, duet hum]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.5,
+      "end": 25.5,
+      "text": "[Intro - sompoton riff over tagung gongs]"
+    },
+    {
+      "t": 25.5,
+      "end": 25.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.5,
+      "end": 31.48,
+      "text": "Pukul tujuh, kedai baru buka"
+    },
+    {
+      "t": 33.7,
+      "end": 40.14,
+      "text": "Kau duduk meja tepi tiang"
+    },
+    {
+      "t": 42.18,
+      "end": 47.66,
+      "text": "Teh tarik kurang manis, selalu"
+    },
+    {
+      "t": 50.51,
+      "end": 55.63,
+      "text": "Aku tarik tinggi, tak tumpah"
+    },
+    {
+      "t": 58.49,
+      "end": 58.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.49,
+      "end": 63.95,
+      "text": "Dah setahun aku hafal"
+    },
+    {
+      "t": 65.67,
+      "end": 71.51,
+      "text": "Tapi nama kau aku tak tahu"
+    },
+    {
+      "t": 73.99,
+      "end": 73.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.99,
+      "end": 76.43,
+      "text": "Teh tarik bergambar"
+    },
+    {
+      "t": 77.03,
+      "end": 80.57,
+      "text": "Aku lukis atas buih"
+    },
+    {
+      "t": 82.55,
+      "end": 87.13,
+      "text": "Satu hati kecil, senget sikit"
+    },
+    {
+      "t": 87.23,
+      "end": 92.11,
+      "text": "Aku hantar, terus lari"
+    },
+    {
+      "t": 98.35,
+      "end": 98.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.35,
+      "end": 103.43,
+      "text": "Kau angkat gelas, kau berhenti"
+    },
+    {
+      "t": 103.43,
+      "end": 105.13,
+      "text": "Kau tengok aku belakang kaunter"
+    },
+    {
+      "t": 106.93,
+      "end": 110.51,
+      "text": "Tauke ketawa, cawan jatuh"
+    },
+    {
+      "t": 110.51,
+      "end": 123.31,
+      "text": "Muka aku merah macam sos"
+    },
+    {
+      "t": 123.33,
+      "end": 123.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 123.33,
+      "end": 123.97,
+      "text": "Kau datang ke kaunter"
+    },
+    {
+      "t": 123.97,
+      "end": 131.67,
+      "text": "Kau tulis nama atas resit"
+    },
+    {
+      "t": 132.63,
+      "end": 132.63,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 132.63,
+      "end": 135.37,
+      "text": "Teh tarik bergambar"
+    },
+    {
+      "t": 136.15,
+      "end": 138.87,
+      "text": "Esok lukis lagi, kau kata"
+    },
+    {
+      "t": 139.53,
+      "end": 152.14,
+      "text": "Nama kau Aini, aku simpan resit"
+    },
+    {
+      "t": 163.8,
+      "end": 169.22,
+      "text": "Esok aku lukis dua"
+    },
+    {
+      "t": 169.22,
+      "end": 169.22,
+      "text": "[Outro - kulintangan and gongs, duet hum]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

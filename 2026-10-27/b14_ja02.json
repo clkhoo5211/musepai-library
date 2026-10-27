@@ -1,0 +1,307 @@
+{
+  "id": "b14_ja02",
+  "title": "最後に来たのはいつですか",
+  "title_source": "scripted",
+  "genre": "Tokyo-style horn ska",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "jumpy, nervous and cheerfully doomed",
+  "persona": "",
+  "subject": "a man who has dodged the dentist for three years, finally walks in with a cracked filling, and freezes when the hygienist asks when he last came",
+  "caption": "Tokyo-style horn ska, big-band Japanese ska in the Tokyo Ska Paradise Orchestra tradition. Choppy upstroke electric guitar skank on every off-beat; a busy walking electric bass; tight drum kit with rimshots and snare rolls; a trumpet, trombone and tenor sax horn section blasting unison riffs and stabs; bubbling organ underneath. Live-room big-band recording, horns panned wide, light room reverb. Male baritone lead, half-shouted storytelling verses, the band shouting the chorus. 152 BPM, B-flat major. Jumpy, nervous and cheerfully doomed. No punk distortion guitars, no reggae dub delays, no autotune, no synth pads, no rap.",
+  "lyrics": "[Intro - horn section unison riff, guitar skank]\n\n[Verse 1]\n奥の詰め物 ちょっと欠けた\n冷たい水が キーンとくる\n三年ぶりの 歯医者のドア\nスリッパ履いて 名前を待つ\n\n[Pre-Chorus]\n呼ばれて座って 椅子が倒れる\nライトがまぶしい 逃げられない\n\n[Chorus]\n最後に来たのはいつですか\nマスクの上で 目が笑う\n最後に来たのはいつですか\n口開けたまま 答えらんない\n\n[Verse 2]\nほら ここも ここも 黒いですね\n鏡を見せる 優しい声\n毎日磨いて ますって言った\nフロスの話で 目をそらす\n\n[Chorus]\n最後に来たのはいつですか\nカルテに書かれる 三年前\n次はいつ来ますか 来週ですか\nはいと言ったら あと五回\n\n[Outro - horns, drum roll, final stab]\nお大事にって 背中で聞いて\n受付で次の 予約をとった",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Tokyo-style horn ska, big-band Japanese ska in the Tokyo Ska Paradise Orchestra tradition. Choppy upstroke electric guitar skank on every off-beat; a busy walking electric bass; tight drum kit with rimshots and snare rolls; a trumpet, trombone and tenor sax horn section blasting unison riffs and stabs; bubbling organ underneath. Live-room big-band recording, horns panned wide, light room reverb. Male baritone lead, half-shouted storytelling verses, the band shouting the chorus. 152 BPM, B-flat major. Jumpy, nervous and cheerfully doomed. No punk distortion guitars, no reggae dub delays, no autotune, no synth pads, no rap.",
+    "lyrics": "[Intro - horn section unison riff, guitar skank]\n\n[Verse 1]\n奥の詰め物 ちょっと欠けた\n冷たい水が キーンとくる\n三年ぶりの 歯医者のドア\nスリッパ履いて 名前を待つ\n\n[Pre-Chorus]\n呼ばれて座って 椅子が倒れる\nライトがまぶしい 逃げられない\n\n[Chorus]\n最後に来たのはいつですか\nマスクの上で 目が笑う\n最後に来たのはいつですか\n口開けたまま 答えらんない\n\n[Verse 2]\nほら ここも ここも 黒いですね\n鏡を見せる 優しい声\n毎日磨いて ますって言った\nフロスの話で 目をそらす\n\n[Chorus]\n最後に来たのはいつですか\nカルテに書かれる 三年前\n次はいつ来ますか 来週ですか\nはいと言ったら あと五回\n\n[Outro - horns, drum roll, final stab]\nお大事にって 背中で聞いて\n受付で次の 予約をとった"
+  },
+  "seed": "3256837117",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.37s**\n- 58.37s per song\n- LM phase (1 song): 12.58s\n- DiT phase (1 song): 45.79s",
+  "task_id": "05027b4e-928c-419f-9396-54ea86ec6c5c",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T13:01:55.135697+08:00",
+  "audio": "b14_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.94,
+      "end": 0.94,
+      "text": "[Intro - horn section unison riff, guitar skank]"
+    },
+    {
+      "t": 0.94,
+      "end": 0.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.94,
+      "end": 9.54,
+      "text": "奥の詰め物 ちょっと欠けた"
+    },
+    {
+      "t": 9.8,
+      "end": 32.06,
+      "text": "冷たい水が キーンとくる"
+    },
+    {
+      "t": 34.44,
+      "end": 37.9,
+      "text": "三年ぶりの 歯医者のドア"
+    },
+    {
+      "t": 39.64,
+      "end": 44.06,
+      "text": "スリッパ履いて 名前を待つ"
+    },
+    {
+      "t": 44.18,
+      "end": 44.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.18,
+      "end": 52.21,
+      "text": "呼ばれて座って 椅子が倒れる"
+    },
+    {
+      "t": 52.67,
+      "end": 56.87,
+      "text": "ライトがまぶしい 逃げられない"
+    },
+    {
+      "t": 59.39,
+      "end": 59.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.39,
+      "end": 61.61,
+      "text": "最後に来たのはいつですか"
+    },
+    {
+      "t": 61.67,
+      "end": 63.29,
+      "text": "マスクの上で 目が笑う"
+    },
+    {
+      "t": 65.57,
+      "end": 69.01,
+      "text": "最後に来たのはいつですか"
+    },
+    {
+      "t": 71.79,
+      "end": 75.57,
+      "text": "口開けたまま 答えらんない"
+    },
+    {
+      "t": 78.33,
+      "end": 78.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.33,
+      "end": 82.39,
+      "text": "ほら ここも ここも 黒いですね"
+    },
+    {
+      "t": 84.77,
+      "end": 89.25,
+      "text": "鏡を見せる 優しい声"
+    },
+    {
+      "t": 90.95,
+      "end": 94.79,
+      "text": "毎日磨いて ますって言った"
+    },
+    {
+      "t": 96.75,
+      "end": 100.93,
+      "text": "フロスの話で 目をそらす"
+    },
+    {
+      "t": 105.83,
+      "end": 105.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.83,
+      "end": 109.25,
+      "text": "最後に来たのはいつですか"
+    },
+    {
+      "t": 109.81,
+      "end": 112.57,
+      "text": "カルテに書かれる 三年前"
+    },
+    {
+      "t": 112.59,
+      "end": 115.45,
+      "text": "次はいつ来ますか 来週ですか"
+    },
+    {
+      "t": 118.63,
+      "end": 169.82,
+      "text": "はいと言ったら あと五回"
+    },
+    {
+      "t": 169.82,
+      "end": 169.82,
+      "text": "[Outro - horns, drum roll, final stab]"
+    },
+    {
+      "t": 169.82,
+      "end": 180.1,
+      "text": "お大事にって 背中で聞いて"
+    },
+    {
+      "t": 180.18,
+      "end": 190.0,
+      "text": "受付で次の 予約をとった"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.94,
+      "end": 0.94,
+      "text": "[Intro - horn section unison riff, guitar skank]"
+    },
+    {
+      "t": 0.94,
+      "end": 0.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.94,
+      "end": 28.4,
+      "text": "奥の詰め物 ちょっと欠けた"
+    },
+    {
+      "t": 28.4,
+      "end": 32.06,
+      "text": "冷たい水が キーンとくる"
+    },
+    {
+      "t": 34.46,
+      "end": 37.92,
+      "text": "三年ぶりの 歯医者のドア"
+    },
+    {
+      "t": 39.64,
+      "end": 44.06,
+      "text": "スリッパ履いて 名前を待つ"
+    },
+    {
+      "t": 46.84,
+      "end": 46.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.84,
+      "end": 52.21,
+      "text": "呼ばれて座って 椅子が倒れる"
+    },
+    {
+      "t": 52.67,
+      "end": 56.89,
+      "text": "ライトがまぶしい 逃げられない"
+    },
+    {
+      "t": 59.39,
+      "end": 59.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.39,
+      "end": 60.63,
+      "text": "最後に来たのはいつですか"
+    },
+    {
+      "t": 60.65,
+      "end": 63.31,
+      "text": "マスクの上で 目が笑う"
+    },
+    {
+      "t": 65.57,
+      "end": 69.01,
+      "text": "最後に来たのはいつですか"
+    },
+    {
+      "t": 71.79,
+      "end": 75.53,
+      "text": "口開けたまま 答えらんない"
+    },
+    {
+      "t": 78.39,
+      "end": 78.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.39,
+      "end": 82.39,
+      "text": "ほら ここも ここも 黒いですね"
+    },
+    {
+      "t": 84.75,
+      "end": 86.51,
+      "text": "鏡を見せる 優しい声"
+    },
+    {
+      "t": 86.51,
+      "end": 87.81,
+      "text": "毎日磨いて ますって言った"
+    },
+    {
+      "t": 87.83,
+      "end": 91.35,
+      "text": "フロスの話で 目をそらす"
+    },
+    {
+      "t": 91.43,
+      "end": 91.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.43,
+      "end": 93.93,
+      "text": "最後に来たのはいつですか"
+    },
+    {
+      "t": 93.93,
+      "end": 98.15,
+      "text": "カルテに書かれる 三年前"
+    },
+    {
+      "t": 98.33,
+      "end": 107.01,
+      "text": "次はいつ来ますか 来週ですか"
+    },
+    {
+      "t": 107.01,
+      "end": 108.75,
+      "text": "はいと言ったら あと五回"
+    },
+    {
+      "t": 108.75,
+      "end": 108.75,
+      "text": "[Outro - horns, drum roll, final stab]"
+    },
+    {
+      "t": 108.75,
+      "end": 115.07,
+      "text": "お大事にって 背中で聞いて"
+    },
+    {
+      "t": 115.23,
+      "end": 170.46,
+      "text": "受付で次の 予約をとった"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

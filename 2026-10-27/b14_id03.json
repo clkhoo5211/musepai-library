@@ -1,0 +1,317 @@
+{
+  "id": "b14_id03",
+  "title": "Botol Teh Mbak Sri",
+  "title_source": "scripted",
+  "genre": "pop Jawa ambyar band",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "wry, sweet, good-humoured",
+  "persona": "",
+  "subject": "a young man in Ngawi who drinks bottled tea every day to fill a sack for the kampung waste bank, just to stand at the Sunday scale while Mbak Sri, who runs it, weighs plastic and writes balances in her ledger without looking up",
+  "caption": "Pop Jawa ambyar band, the East Java heartbreak-pop style of the 2020s. Clean electric guitar playing a sighing lead melody, kendang ciblon groove, round bass guitar, a breathy suling bamboo flute answering each line, light live drum kit. Warm live-band sound with open room reverb and a singalong crowd feel. Male tenor with a plaintive Javanese-pop delivery and a small crack on held notes. 92 BPM, E minor. Wry, sweet, good-humoured. No autotune, no EDM drop, no trap beat, no orchestral strings, no rock distortion.",
+  "lyrics": "[Intro - suling and guitar, kendang enters]\n\n[Verse 1]\nMinggu pagi di balai RT\nMbak Sri buka timbangan\nBotol plastik, kardus bekas\nDia catat di buku tulis\n\n[Pre-Chorus]\nAku datang bawa sekarung\nIsinya cuma botol teh\n\n[Chorus]\nSatu kilo, tiga ribu\nSaldoku naik pelan-pelan\nMbak Sri nulis, nggak lihat aku\nPulpennya cuma kenal angka\n\n[Verse 2]\nTetangga bawa kaleng bekas\nAnak kecil bawa sedotan\nMbak Sri sabar, satu-satu\nTimbang, tulis, tanda tangan\n\n[Pre-Chorus]\nAku minum teh tiap hari\nBiar karungku cepat penuh\n\n[Chorus]\nSatu kilo, tiga ribu\nSaldoku sudah lima puluh\nMbak Sri senyum, akhirnya bilang\nMas, kurangi yang manis\n\n[Outro - suling and crowd hum]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Pop Jawa ambyar band, the East Java heartbreak-pop style of the 2020s. Clean electric guitar playing a sighing lead melody, kendang ciblon groove, round bass guitar, a breathy suling bamboo flute answering each line, light live drum kit. Warm live-band sound with open room reverb and a singalong crowd feel. Male tenor with a plaintive Javanese-pop delivery and a small crack on held notes. 92 BPM, E minor. Wry, sweet, good-humoured. No autotune, no EDM drop, no trap beat, no orchestral strings, no rock distortion.",
+    "lyrics": "[Intro - suling and guitar, kendang enters]\n\n[Verse 1]\nMinggu pagi di balai RT\nMbak Sri buka timbangan\nBotol plastik, kardus bekas\nDia catat di buku tulis\n\n[Pre-Chorus]\nAku datang bawa sekarung\nIsinya cuma botol teh\n\n[Chorus]\nSatu kilo, tiga ribu\nSaldoku naik pelan-pelan\nMbak Sri nulis, nggak lihat aku\nPulpennya cuma kenal angka\n\n[Verse 2]\nTetangga bawa kaleng bekas\nAnak kecil bawa sedotan\nMbak Sri sabar, satu-satu\nTimbang, tulis, tanda tangan\n\n[Pre-Chorus]\nAku minum teh tiap hari\nBiar karungku cepat penuh\n\n[Chorus]\nSatu kilo, tiga ribu\nSaldoku sudah lima puluh\nMbak Sri senyum, akhirnya bilang\nMas, kurangi yang manis\n\n[Outro - suling and crowd hum]"
+  },
+  "seed": "1073459890",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.72s**\n- 57.72s per song\n- LM phase (1 song): 10.00s\n- DiT phase (1 song): 47.72s",
+  "task_id": "683d780c-7681-417d-9321-c666987d48ad",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T12:27:11.380182+08:00",
+  "audio": "b14_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Intro - suling and guitar, kendang enters]"
+    },
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.76,
+      "end": 35.2,
+      "text": "Minggu pagi di balai RT"
+    },
+    {
+      "t": 38.04,
+      "end": 40.82,
+      "text": "Mbak Sri buka timbangan"
+    },
+    {
+      "t": 41.08,
+      "end": 41.9,
+      "text": "Botol plastik, kardus bekas"
+    },
+    {
+      "t": 42.78,
+      "end": 46.46,
+      "text": "Dia catat di buku tulis"
+    },
+    {
+      "t": 51.47,
+      "end": 51.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.47,
+      "end": 55.25,
+      "text": "Aku datang bawa sekarung"
+    },
+    {
+      "t": 56.43,
+      "end": 60.79,
+      "text": "Isinya cuma botol teh"
+    },
+    {
+      "t": 61.91,
+      "end": 61.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.91,
+      "end": 65.19,
+      "text": "Satu kilo, tiga ribu"
+    },
+    {
+      "t": 65.71,
+      "end": 68.33,
+      "text": "Saldoku naik pelan-pelan"
+    },
+    {
+      "t": 76.63,
+      "end": 83.77,
+      "text": "Mbak Sri nulis, nggak lihat aku"
+    },
+    {
+      "t": 85.31,
+      "end": 89.41,
+      "text": "Pulpennya cuma kenal angka"
+    },
+    {
+      "t": 92.05,
+      "end": 92.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.05,
+      "end": 95.15,
+      "text": "Tetangga bawa kaleng bekas"
+    },
+    {
+      "t": 97.71,
+      "end": 100.23,
+      "text": "Anak kecil bawa sedotan"
+    },
+    {
+      "t": 102.85,
+      "end": 106.61,
+      "text": "Mbak Sri sabar, satu-satu"
+    },
+    {
+      "t": 108.15,
+      "end": 112.27,
+      "text": "Timbang, tulis, tanda tangan"
+    },
+    {
+      "t": 113.25,
+      "end": 113.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.25,
+      "end": 115.69,
+      "text": "Aku minum teh tiap hari"
+    },
+    {
+      "t": 117.19,
+      "end": 121.49,
+      "text": "Biar karungku cepat penuh"
+    },
+    {
+      "t": 122.75,
+      "end": 122.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.75,
+      "end": 126.37,
+      "text": "Satu kilo, tiga ribu"
+    },
+    {
+      "t": 128.03,
+      "end": 133.21,
+      "text": "Saldoku sudah lima puluh"
+    },
+    {
+      "t": 133.29,
+      "end": 139.67,
+      "text": "Mbak Sri senyum, akhirnya bilang"
+    },
+    {
+      "t": 139.71,
+      "end": 144.95,
+      "text": "Mas, kurangi yang manis"
+    },
+    {
+      "t": 144.95,
+      "end": 144.95,
+      "text": "[Outro - suling and crowd hum]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.74,
+      "end": 31.74,
+      "text": "[Intro - suling and guitar, kendang enters]"
+    },
+    {
+      "t": 31.74,
+      "end": 31.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.74,
+      "end": 35.2,
+      "text": "Minggu pagi di balai RT"
+    },
+    {
+      "t": 38.06,
+      "end": 40.86,
+      "text": "Mbak Sri buka timbangan"
+    },
+    {
+      "t": 41.28,
+      "end": 43.32,
+      "text": "Botol plastik, kardus bekas"
+    },
+    {
+      "t": 43.32,
+      "end": 46.86,
+      "text": "Dia catat di buku tulis"
+    },
+    {
+      "t": 51.47,
+      "end": 51.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.47,
+      "end": 55.25,
+      "text": "Aku datang bawa sekarung"
+    },
+    {
+      "t": 56.43,
+      "end": 61.03,
+      "text": "Isinya cuma botol teh"
+    },
+    {
+      "t": 61.91,
+      "end": 61.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.91,
+      "end": 65.21,
+      "text": "Satu kilo, tiga ribu"
+    },
+    {
+      "t": 65.71,
+      "end": 78.11,
+      "text": "Saldoku naik pelan-pelan"
+    },
+    {
+      "t": 79.83,
+      "end": 83.77,
+      "text": "Mbak Sri nulis, nggak lihat aku"
+    },
+    {
+      "t": 85.31,
+      "end": 89.41,
+      "text": "Pulpennya cuma kenal angka"
+    },
+    {
+      "t": 92.05,
+      "end": 92.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.05,
+      "end": 95.13,
+      "text": "Tetangga bawa kaleng bekas"
+    },
+    {
+      "t": 97.71,
+      "end": 100.23,
+      "text": "Anak kecil bawa sedotan"
+    },
+    {
+      "t": 102.85,
+      "end": 106.61,
+      "text": "Mbak Sri sabar, satu-satu"
+    },
+    {
+      "t": 108.15,
+      "end": 112.31,
+      "text": "Timbang, tulis, tanda tangan"
+    },
+    {
+      "t": 113.27,
+      "end": 113.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.27,
+      "end": 115.69,
+      "text": "Aku minum teh tiap hari"
+    },
+    {
+      "t": 117.19,
+      "end": 122.51,
+      "text": "Biar karungku cepat penuh"
+    },
+    {
+      "t": 122.77,
+      "end": 122.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.77,
+      "end": 126.37,
+      "text": "Satu kilo, tiga ribu"
+    },
+    {
+      "t": 128.03,
+      "end": 132.75,
+      "text": "Saldoku sudah lima puluh"
+    },
+    {
+      "t": 133.27,
+      "end": 139.67,
+      "text": "Mbak Sri senyum, akhirnya bilang"
+    },
+    {
+      "t": 139.67,
+      "end": 144.95,
+      "text": "Mas, kurangi yang manis"
+    },
+    {
+      "t": 144.95,
+      "end": 144.95,
+      "text": "[Outro - suling and crowd hum]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,429 @@
+{
+  "id": "b14_ja04",
+  "title": "ボックスシーツのたたみかた",
+  "title_source": "scripted",
+  "genre": "NHK kids'-TV educational song pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sing-along cheerful, deadpan and absurd",
+  "persona": "",
+  "subject": "a twenty-something living alone who finds a children's-TV-style how-to song in his head while trying, and failing, to fold a fitted bedsheet with elastic corners on a Sunday afternoon",
+  "caption": "Japanese children's educational TV song pop, in the style of NHK kids' programme theme songs and their 2025 viral parodies. Bouncy upright piano on oom-pah chords; sparkling glockenspiel doubling the melody; plucked pizzicato strings; woodblock ticks and a comic slide whistle on each mistake; a light toy-like drum kit. Clean bright TV-studio production, close and dry. Female soprano 'onee-san' lead, clear and patient, a small children's chorus repeating each step. 126 BPM, F major. Sing-along cheerful, deadpan and absurd. No trap, no autotune, no EDM synths, no rock guitars, no rap.",
+  "lyrics": "[Intro - piano oom-pah, glockenspiel, slide whistle]\n\n[Verse 1]\nボックスシーツを たたみましょう\nまずは角に 手を入れて\nとなりの角も 手を入れて\nひっくり返して かぶせます\n\n[Chorus]\nゴムが逃げても 泣かないで\n角と角とを 合わせましょう\nはい ここまでは わかったね\nみんなでいっしょに さあどうぞ\n\n[Verse 2]\nあれれ 角が 四つある\n手は二本しか ありません\nあごで押さえて ひざも使う\nシーツが頭に かぶさった\n\n[Chorus]\nゴムが逃げても 泣かないで\nもう一回 角を探しましょう\nはい わからなく なったよね\nみんなでいっしょに 深呼吸\n\n[Bridge - piano alone, slow]\n丸めて棚に 押しこんでも\n誰にも 見えないからね\n\n[Outro - children's chorus, slide whistle]\n来週もまた たたみましょう",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Japanese children's educational TV song pop, in the style of NHK kids' programme theme songs and their 2025 viral parodies. Bouncy upright piano on oom-pah chords; sparkling glockenspiel doubling the melody; plucked pizzicato strings; woodblock ticks and a comic slide whistle on each mistake; a light toy-like drum kit. Clean bright TV-studio production, close and dry. Female soprano 'onee-san' lead, clear and patient, a small children's chorus repeating each step. 126 BPM, F major. Sing-along cheerful, deadpan and absurd. No trap, no autotune, no EDM synths, no rock guitars, no rap.",
+    "lyrics": "[Intro - piano oom-pah, glockenspiel, slide whistle]\n\n[Verse 1]\nボックスシーツを たたみましょう\nまずは角に 手を入れて\nとなりの角も 手を入れて\nひっくり返して かぶせます\n\n[Chorus]\nゴムが逃げても 泣かないで\n角と角とを 合わせましょう\nはい ここまでは わかったね\nみんなでいっしょに さあどうぞ\n\n[Verse 2]\nあれれ 角が 四つある\n手は二本しか ありません\nあごで押さえて ひざも使う\nシーツが頭に かぶさった\n\n[Chorus]\nゴムが逃げても 泣かないで\nもう一回 角を探しましょう\nはい わからなく なったよね\nみんなでいっしょに 深呼吸\n\n[Bridge - piano alone, slow]\n丸めて棚に 押しこんでも\n誰にも 見えないからね\n\n[Outro - children's chorus, slide whistle]\n来週もまた たたみましょう"
+  },
+  "seed": "2155798298",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 132.78s**\n- 132.78s per song\n- LM phase (1 song): 24.39s\n- DiT phase (1 song): 108.39s",
+  "task_id": "56b3968b-46e8-4702-9196-c06fdffaca98",
+  "elapsed_s": 170.7,
+  "generated_at": "2026-10-27T19:06:00.850645+08:00",
+  "audio": "b14_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.16,
+      "end": 31.16,
+      "text": "[Intro - piano oom-pah, glockenspiel, slide whistle]"
+    },
+    {
+      "t": 31.16,
+      "end": 31.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.16,
+      "end": 37.08,
+      "text": "ボックスシーツを たたみましょう"
+    },
+    {
+      "t": 38.38,
+      "end": 42.68,
+      "text": "まずは角に 手を入れて"
+    },
+    {
+      "t": 45.65,
+      "end": 48.67,
+      "text": "となりの角も 手を入れて"
+    },
+    {
+      "t": 50.49,
+      "end": 53.55,
+      "text": "ひっくり返して かぶせます"
+    },
+    {
+      "t": 58.19,
+      "end": 58.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.19,
+      "end": 59.57,
+      "text": "ゴムが逃げても 泣かないで"
+    },
+    {
+      "t": 59.59,
+      "end": 61.23,
+      "text": "角と角とを 合わせましょう"
+    },
+    {
+      "t": 61.27,
+      "end": 65.03,
+      "text": "はい ここまでは わかったね"
+    },
+    {
+      "t": 65.39,
+      "end": 68.61,
+      "text": "みんなでいっしょに さあどうぞ"
+    },
+    {
+      "t": 68.61,
+      "end": 68.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.61,
+      "end": 74.13,
+      "text": "あれれ 角が 四つある"
+    },
+    {
+      "t": 74.31,
+      "end": 75.95,
+      "text": "手は二本しか ありません"
+    },
+    {
+      "t": 76.03,
+      "end": 77.99,
+      "text": "あごで押さえて ひざも使う"
+    },
+    {
+      "t": 78.27,
+      "end": 79.59,
+      "text": "シーツが頭に かぶさった"
+    },
+    {
+      "t": 79.77,
+      "end": 79.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.77,
+      "end": 99.33,
+      "text": "ゴムが逃げても 泣かないで"
+    },
+    {
+      "t": 99.45,
+      "end": 102.31,
+      "text": "もう一回 角を探しましょう"
+    },
+    {
+      "t": 106.15,
+      "end": 109.39,
+      "text": "はい わからなく なったよね"
+    },
+    {
+      "t": 113.03,
+      "end": 117.81,
+      "text": "みんなでいっしょに 深呼吸"
+    },
+    {
+      "t": 121.19,
+      "end": 121.19,
+      "text": "[Bridge - piano alone, slow]"
+    },
+    {
+      "t": 121.19,
+      "end": 125.83,
+      "text": "丸めて棚に 押しこんでも"
+    },
+    {
+      "t": 128.57,
+      "end": 140.02,
+      "text": "誰にも 見えないからね"
+    },
+    {
+      "t": 141.6,
+      "end": 141.6,
+      "text": "[Outro - children's chorus, slide whistle]"
+    },
+    {
+      "t": 141.6,
+      "end": 152.2,
+      "text": "来週もまた たたみましょう"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.16,
+      "end": 31.16,
+      "text": "[Intro - piano oom-pah, glockenspiel, slide whistle]"
+    },
+    {
+      "t": 31.16,
+      "end": 31.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.16,
+      "end": 37.08,
+      "text": "ボックスシーツを たたみましょう"
+    },
+    {
+      "t": 38.38,
+      "end": 42.68,
+      "text": "まずは角に 手を入れて"
+    },
+    {
+      "t": 45.65,
+      "end": 48.67,
+      "text": "となりの角も 手を入れて"
+    },
+    {
+      "t": 50.49,
+      "end": 53.55,
+      "text": "ひっくり返して かぶせます"
+    },
+    {
+      "t": 58.19,
+      "end": 58.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.19,
+      "end": 59.57,
+      "text": "ゴムが逃げても 泣かないで"
+    },
+    {
+      "t": 59.59,
+      "end": 61.23,
+      "text": "角と角とを 合わせましょう"
+    },
+    {
+      "t": 61.27,
+      "end": 65.03,
+      "text": "はい ここまでは わかったね"
+    },
+    {
+      "t": 65.39,
+      "end": 68.61,
+      "text": "みんなでいっしょに さあどうぞ"
+    },
+    {
+      "t": 68.61,
+      "end": 68.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.61,
+      "end": 74.13,
+      "text": "あれれ 角が 四つある"
+    },
+    {
+      "t": 74.31,
+      "end": 75.95,
+      "text": "手は二本しか ありません"
+    },
+    {
+      "t": 76.03,
+      "end": 77.99,
+      "text": "あごで押さえて ひざも使う"
+    },
+    {
+      "t": 78.27,
+      "end": 79.59,
+      "text": "シーツが頭に かぶさった"
+    },
+    {
+      "t": 79.77,
+      "end": 79.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.77,
+      "end": 99.33,
+      "text": "ゴムが逃げても 泣かないで"
+    },
+    {
+      "t": 99.45,
+      "end": 102.31,
+      "text": "もう一回 角を探しましょう"
+    },
+    {
+      "t": 106.15,
+      "end": 109.39,
+      "text": "はい わからなく なったよね"
+    },
+    {
+      "t": 113.03,
+      "end": 117.81,
+      "text": "みんなでいっしょに 深呼吸"
+    },
+    {
+      "t": 121.19,
+      "end": 121.19,
+      "text": "[Bridge - piano alone, slow]"
+    },
+    {
+      "t": 121.19,
+      "end": 125.83,
+      "text": "丸めて棚に 押しこんでも"
+    },
+    {
+      "t": 128.57,
+      "end": 140.02,
+      "text": "誰にも 見えないからね"
+    },
+    {
+      "t": 141.6,
+      "end": 141.6,
+      "text": "[Outro - children's chorus, slide whistle]"
+    },
+    {
+      "t": 141.6,
+      "end": 152.2,
+      "text": "来週もまた たたみましょう"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 31.16,
+      "end": 31.16,
+      "text": "[Intro - piano oom-pah, glockenspiel, slide whistle]"
+    },
+    {
+      "t": 31.16,
+      "end": 31.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.16,
+      "end": 38.3,
+      "text": "ボックスシーツを たたみましょう"
+    },
+    {
+      "t": 38.38,
+      "end": 42.68,
+      "text": "まずは角に 手を入れて"
+    },
+    {
+      "t": 45.67,
+      "end": 48.67,
+      "text": "となりの角も 手を入れて"
+    },
+    {
+      "t": 50.47,
+      "end": 53.55,
+      "text": "ひっくり返して かぶせます"
+    },
+    {
+      "t": 56.31,
+      "end": 56.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.31,
+      "end": 59.29,
+      "text": "ゴムが逃げても 泣かないで"
+    },
+    {
+      "t": 59.31,
+      "end": 61.93,
+      "text": "角と角とを 合わせましょう"
+    },
+    {
+      "t": 62.05,
+      "end": 65.01,
+      "text": "はい ここまでは わかったね"
+    },
+    {
+      "t": 65.39,
+      "end": 68.85,
+      "text": "みんなでいっしょに さあどうぞ"
+    },
+    {
+      "t": 69.17,
+      "end": 69.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.17,
+      "end": 74.25,
+      "text": "あれれ 角が 四つある"
+    },
+    {
+      "t": 74.31,
+      "end": 75.95,
+      "text": "手は二本しか ありません"
+    },
+    {
+      "t": 76.03,
+      "end": 78.13,
+      "text": "あごで押さえて ひざも使う"
+    },
+    {
+      "t": 78.27,
+      "end": 79.59,
+      "text": "シーツが頭に かぶさった"
+    },
+    {
+      "t": 79.75,
+      "end": 79.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.75,
+      "end": 99.31,
+      "text": "ゴムが逃げても 泣かないで"
+    },
+    {
+      "t": 99.47,
+      "end": 102.73,
+      "text": "もう一回 角を探しましょう"
+    },
+    {
+      "t": 106.15,
+      "end": 109.39,
+      "text": "はい わからなく なったよね"
+    },
+    {
+      "t": 113.05,
+      "end": 117.81,
+      "text": "みんなでいっしょに 深呼吸"
+    },
+    {
+      "t": 121.19,
+      "end": 121.19,
+      "text": "[Bridge - piano alone, slow]"
+    },
+    {
+      "t": 121.19,
+      "end": 125.81,
+      "text": "丸めて棚に 押しこんでも"
+    },
+    {
+      "t": 128.57,
+      "end": 140.02,
+      "text": "誰にも 見えないからね"
+    },
+    {
+      "t": 141.6,
+      "end": 141.6,
+      "text": "[Outro - children's chorus, slide whistle]"
+    },
+    {
+      "t": 141.6,
+      "end": 172.32,
+      "text": "来週もまた たたみましょう"
+    }
+  ]
+}

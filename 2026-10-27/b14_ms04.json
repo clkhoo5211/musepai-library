@@ -1,0 +1,317 @@
+{
+  "id": "b14_ms04",
+  "title": "Latihan Kebakaran",
+  "title_source": "scripted",
+  "genre": "Malaysian Britpop-style pop rock",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "bouncy, chaotic and self-mocking",
+  "persona": "",
+  "subject": "an office's monthly fire drill in a KL tower, everyone walking down 23 floors to the assembly point still carrying their nasi lemak",
+  "caption": "Malaysian Britpop-style pop rock, mid-90s British guitar pop through a Malay lens. Chiming jangly twelve-string electric guitar riff, chunky overdriven rhythm guitar, melodic walking bass, tambourine on every beat, swirling Hammond organ fills. Bright live-band room sound, guitars wide, driving snare. Male mid-range lead with nasal swagger and a terrace-style group chorus. 128 BPM, E major. Bouncy, chaotic and self-mocking. No autotune, no pop-punk palm mutes, no metal riffs, no EDM, no ballad slowdown.",
+  "lyrics": "[Intro - twelve-string riff, tambourine and organ]\n\n[Verse 1]\nPukul sepuluh, loceng berbunyi\nNasi lemak baru buka bungkus\nBos kata, ini latihan je\nTurun semua, bawa kad pekerja\n\n[Pre-Chorus]\nTingkat dua puluh tiga\nSambal aku ikut sekali\n\n[Chorus]\nLatihan kebakaran\nSatu menara turun beramai\nBungkus daun pisang dalam tangan\nKita makan kat tempat berkumpul\n\n[Verse 2]\nTingkat lapan, kasut tumit tinggi\nKak Ros tanggal, jalan kaki ayam\nAbang IT bawa laptop dan kopi\nSemua orang dah kenal semua\n\n[Pre-Chorus]\nWarden kira nama kita\nSeorang masih dalam tandas\n\n[Chorus]\nLatihan kebakaran\nDua puluh minit kita merayau\nTelur rebus aku dah habis\nBulan depan, kita bawa roti\n\n[Outro - group chorus and organ, riff fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Malaysian Britpop-style pop rock, mid-90s British guitar pop through a Malay lens. Chiming jangly twelve-string electric guitar riff, chunky overdriven rhythm guitar, melodic walking bass, tambourine on every beat, swirling Hammond organ fills. Bright live-band room sound, guitars wide, driving snare. Male mid-range lead with nasal swagger and a terrace-style group chorus. 128 BPM, E major. Bouncy, chaotic and self-mocking. No autotune, no pop-punk palm mutes, no metal riffs, no EDM, no ballad slowdown.",
+    "lyrics": "[Intro - twelve-string riff, tambourine and organ]\n\n[Verse 1]\nPukul sepuluh, loceng berbunyi\nNasi lemak baru buka bungkus\nBos kata, ini latihan je\nTurun semua, bawa kad pekerja\n\n[Pre-Chorus]\nTingkat dua puluh tiga\nSambal aku ikut sekali\n\n[Chorus]\nLatihan kebakaran\nSatu menara turun beramai\nBungkus daun pisang dalam tangan\nKita makan kat tempat berkumpul\n\n[Verse 2]\nTingkat lapan, kasut tumit tinggi\nKak Ros tanggal, jalan kaki ayam\nAbang IT bawa laptop dan kopi\nSemua orang dah kenal semua\n\n[Pre-Chorus]\nWarden kira nama kita\nSeorang masih dalam tandas\n\n[Chorus]\nLatihan kebakaran\nDua puluh minit kita merayau\nTelur rebus aku dah habis\nBulan depan, kita bawa roti\n\n[Outro - group chorus and organ, riff fades]"
+  },
+  "seed": "594351574",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.18s**\n- 59.18s per song\n- LM phase (1 song): 11.35s\n- DiT phase (1 song): 47.83s",
+  "task_id": "992b5045-223b-48b2-8835-5c58a23422ae",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-27T12:21:50.789514+08:00",
+  "audio": "b14_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.72,
+      "end": 26.72,
+      "text": "[Intro - twelve-string riff, tambourine and organ]"
+    },
+    {
+      "t": 26.72,
+      "end": 26.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.72,
+      "end": 30.42,
+      "text": "Pukul sepuluh, loceng berbunyi"
+    },
+    {
+      "t": 36.56,
+      "end": 41.94,
+      "text": "Nasi lemak baru buka bungkus"
+    },
+    {
+      "t": 44.5,
+      "end": 48.61,
+      "text": "Bos kata, ini latihan je"
+    },
+    {
+      "t": 48.95,
+      "end": 52.39,
+      "text": "Turun semua, bawa kad pekerja"
+    },
+    {
+      "t": 52.41,
+      "end": 52.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.41,
+      "end": 53.97,
+      "text": "Tingkat dua puluh tiga"
+    },
+    {
+      "t": 53.97,
+      "end": 56.57,
+      "text": "Sambal aku ikut sekali"
+    },
+    {
+      "t": 58.31,
+      "end": 58.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.31,
+      "end": 60.81,
+      "text": "Latihan kebakaran"
+    },
+    {
+      "t": 60.81,
+      "end": 64.07,
+      "text": "Satu menara turun beramai"
+    },
+    {
+      "t": 66.73,
+      "end": 70.83,
+      "text": "Bungkus daun pisang dalam tangan"
+    },
+    {
+      "t": 71.17,
+      "end": 75.11,
+      "text": "Kita makan kat tempat berkumpul"
+    },
+    {
+      "t": 75.39,
+      "end": 75.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.39,
+      "end": 79.29,
+      "text": "Tingkat lapan, kasut tumit tinggi"
+    },
+    {
+      "t": 82.21,
+      "end": 87.41,
+      "text": "Kak Ros tanggal, jalan kaki ayam"
+    },
+    {
+      "t": 90.49,
+      "end": 94.75,
+      "text": "Abang IT bawa laptop dan kopi"
+    },
+    {
+      "t": 97.65,
+      "end": 102.33,
+      "text": "Semua orang dah kenal semua"
+    },
+    {
+      "t": 108.47,
+      "end": 108.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.47,
+      "end": 114.01,
+      "text": "Warden kira nama kita"
+    },
+    {
+      "t": 115.93,
+      "end": 124.85,
+      "text": "Seorang masih dalam tandas"
+    },
+    {
+      "t": 125.83,
+      "end": 125.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.83,
+      "end": 129.05,
+      "text": "Latihan kebakaran"
+    },
+    {
+      "t": 129.85,
+      "end": 134.43,
+      "text": "Dua puluh minit kita merayau"
+    },
+    {
+      "t": 134.47,
+      "end": 141.73,
+      "text": "Telur rebus aku dah habis"
+    },
+    {
+      "t": 142.21,
+      "end": 149.16,
+      "text": "Bulan depan, kita bawa roti"
+    },
+    {
+      "t": 149.16,
+      "end": 149.16,
+      "text": "[Outro - group chorus and organ, riff fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.72,
+      "end": 26.72,
+      "text": "[Intro - twelve-string riff, tambourine and organ]"
+    },
+    {
+      "t": 26.72,
+      "end": 26.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.72,
+      "end": 30.42,
+      "text": "Pukul sepuluh, loceng berbunyi"
+    },
+    {
+      "t": 36.54,
+      "end": 41.96,
+      "text": "Nasi lemak baru buka bungkus"
+    },
+    {
+      "t": 44.5,
+      "end": 48.61,
+      "text": "Bos kata, ini latihan je"
+    },
+    {
+      "t": 48.93,
+      "end": 50.37,
+      "text": "Turun semua, bawa kad pekerja"
+    },
+    {
+      "t": 50.37,
+      "end": 50.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.37,
+      "end": 50.91,
+      "text": "Tingkat dua puluh tiga"
+    },
+    {
+      "t": 51.49,
+      "end": 56.59,
+      "text": "Sambal aku ikut sekali"
+    },
+    {
+      "t": 58.31,
+      "end": 58.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.31,
+      "end": 60.83,
+      "text": "Latihan kebakaran"
+    },
+    {
+      "t": 60.89,
+      "end": 64.09,
+      "text": "Satu menara turun beramai"
+    },
+    {
+      "t": 66.73,
+      "end": 70.83,
+      "text": "Bungkus daun pisang dalam tangan"
+    },
+    {
+      "t": 71.15,
+      "end": 75.07,
+      "text": "Kita makan kat tempat berkumpul"
+    },
+    {
+      "t": 75.37,
+      "end": 75.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.37,
+      "end": 79.29,
+      "text": "Tingkat lapan, kasut tumit tinggi"
+    },
+    {
+      "t": 82.21,
+      "end": 87.43,
+      "text": "Kak Ros tanggal, jalan kaki ayam"
+    },
+    {
+      "t": 90.49,
+      "end": 94.77,
+      "text": "Abang IT bawa laptop dan kopi"
+    },
+    {
+      "t": 97.67,
+      "end": 102.33,
+      "text": "Semua orang dah kenal semua"
+    },
+    {
+      "t": 108.45,
+      "end": 108.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.45,
+      "end": 114.03,
+      "text": "Warden kira nama kita"
+    },
+    {
+      "t": 115.95,
+      "end": 124.75,
+      "text": "Seorang masih dalam tandas"
+    },
+    {
+      "t": 125.85,
+      "end": 125.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.85,
+      "end": 129.07,
+      "text": "Latihan kebakaran"
+    },
+    {
+      "t": 129.83,
+      "end": 134.43,
+      "text": "Dua puluh minit kita merayau"
+    },
+    {
+      "t": 134.57,
+      "end": 141.73,
+      "text": "Telur rebus aku dah habis"
+    },
+    {
+      "t": 142.21,
+      "end": 149.18,
+      "text": "Bulan depan, kita bawa roti"
+    },
+    {
+      "t": 149.18,
+      "end": 149.18,
+      "text": "[Outro - group chorus and organ, riff fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

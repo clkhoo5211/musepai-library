@@ -1,0 +1,459 @@
+{
+  "id": "b14_id05",
+  "title": "Saldo Kurang",
+  "title_source": "scripted",
+  "genre": "Indonesian early-90s new jack swing",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "flirty, cheeky, bouncing",
+  "persona": "",
+  "subject": "a young office worker at Tebet KRL station who keeps his commuter card balance low on purpose because the woman behind him at the ticket gate always taps him through with hers and lets him pay her back with a bottle of iced tea",
+  "caption": "Indonesian early-90s new jack swing revival. Swung drum machine groove with a hard cracking snare, popping slap bass, stabbing brass-synth hits, Rhodes chords, bright tambourine. Punchy, dry early-90s R&B mix with short reverb. Male tenor lead with tight three-part backing harmonies and playful ad-libs. 108 BPM, F minor. Flirty, cheeky, bouncing. No autotune, no trap hi-hats, no EDM drop, no modern pop ballad, no rock guitars.",
+  "lyrics": "[Intro - drum machine swing and brass stabs]\n\n[Verse 1]\nJam tujuh pagi di Tebet\nGerbang tiket bunyi tet-tet\nLayar merah, saldo kurang\nKamu di belakang, ketawa lagi\n\n[Pre-Chorus]\nKamu tempel kartumu\nAku lewat, kamu geleng kepala\n\n[Chorus]\nSaldo kurang, saldo kurang\nSengaja, jangan bilang-bilang\nGanti teh botol di peron dua\nBiar besok ketemu lagi\n\n[Verse 2]\nSatpam mulai hafal muka\nDia bilang, Mas, isi dong\nAku pura-pura bilang\nMesin isi ulangnya rusak\n\n[Pre-Chorus]\nHari Jumat kamu diam\nKamu sodorkan kartu baru\n\n[Chorus]\nSaldo penuh, saldo penuh\nKartunya ada nama kamu\nKamu bilang, utangmu teh botol\nSeratus botol, bayar pelan-pelan\n\n[Outro - harmonies ad-lib, brass stabs fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Indonesian early-90s new jack swing revival. Swung drum machine groove with a hard cracking snare, popping slap bass, stabbing brass-synth hits, Rhodes chords, bright tambourine. Punchy, dry early-90s R&B mix with short reverb. Male tenor lead with tight three-part backing harmonies and playful ad-libs. 108 BPM, F minor. Flirty, cheeky, bouncing. No autotune, no trap hi-hats, no EDM drop, no modern pop ballad, no rock guitars.",
+    "lyrics": "[Intro - drum machine swing and brass stabs]\n\n[Verse 1]\nJam tujuh pagi di Tebet\nGerbang tiket bunyi tet-tet\nLayar merah, saldo kurang\nKamu di belakang, ketawa lagi\n\n[Pre-Chorus]\nKamu tempel kartumu\nAku lewat, kamu geleng kepala\n\n[Chorus]\nSaldo kurang, saldo kurang\nSengaja, jangan bilang-bilang\nGanti teh botol di peron dua\nBiar besok ketemu lagi\n\n[Verse 2]\nSatpam mulai hafal muka\nDia bilang, Mas, isi dong\nAku pura-pura bilang\nMesin isi ulangnya rusak\n\n[Pre-Chorus]\nHari Jumat kamu diam\nKamu sodorkan kartu baru\n\n[Chorus]\nSaldo penuh, saldo penuh\nKartunya ada nama kamu\nKamu bilang, utangmu teh botol\nSeratus botol, bayar pelan-pelan\n\n[Outro - harmonies ad-lib, brass stabs fade]"
+  },
+  "seed": "3568973228",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.44s**\n- 60.44s per song\n- LM phase (1 song): 15.81s\n- DiT phase (1 song): 44.63s",
+  "task_id": "989d1a86-6098-492f-a1e3-e9a4b4401295",
+  "elapsed_s": 80.5,
+  "generated_at": "2026-10-27T12:30:02.003365+08:00",
+  "audio": "b14_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.46,
+      "end": 24.46,
+      "text": "[Intro - drum machine swing and brass stabs]"
+    },
+    {
+      "t": 24.46,
+      "end": 24.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.46,
+      "end": 26.68,
+      "text": "Jam tujuh pagi di Tebet"
+    },
+    {
+      "t": 28.92,
+      "end": 31.12,
+      "text": "Gerbang tiket bunyi tet-tet"
+    },
+    {
+      "t": 32.52,
+      "end": 35.48,
+      "text": "Layar merah, saldo kurang"
+    },
+    {
+      "t": 35.56,
+      "end": 39.9,
+      "text": "Kamu di belakang, ketawa lagi"
+    },
+    {
+      "t": 42.3,
+      "end": 42.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.3,
+      "end": 44.66,
+      "text": "Kamu tempel kartumu"
+    },
+    {
+      "t": 45.0,
+      "end": 49.17,
+      "text": "Aku lewat, kamu geleng kepala"
+    },
+    {
+      "t": 50.41,
+      "end": 50.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.41,
+      "end": 53.87,
+      "text": "Saldo kurang, saldo kurang"
+    },
+    {
+      "t": 55.19,
+      "end": 58.15,
+      "text": "Sengaja, jangan bilang-bilang"
+    },
+    {
+      "t": 58.85,
+      "end": 62.35,
+      "text": "Ganti teh botol di peron dua"
+    },
+    {
+      "t": 63.89,
+      "end": 66.85,
+      "text": "Biar besok ketemu lagi"
+    },
+    {
+      "t": 73.65,
+      "end": 73.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.65,
+      "end": 80.23,
+      "text": "Satpam mulai hafal muka"
+    },
+    {
+      "t": 82.61,
+      "end": 85.19,
+      "text": "Dia bilang, Mas, isi dong"
+    },
+    {
+      "t": 85.19,
+      "end": 89.63,
+      "text": "Aku pura-pura bilang"
+    },
+    {
+      "t": 91.25,
+      "end": 94.79,
+      "text": "Mesin isi ulangnya rusak"
+    },
+    {
+      "t": 96.19,
+      "end": 96.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.19,
+      "end": 100.63,
+      "text": "Hari Jumat kamu diam"
+    },
+    {
+      "t": 102.27,
+      "end": 134.23,
+      "text": "Kamu sodorkan kartu baru"
+    },
+    {
+      "t": 136.65,
+      "end": 136.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.65,
+      "end": 164.4,
+      "text": "Saldo penuh, saldo penuh"
+    },
+    {
+      "t": 164.4,
+      "end": 168.8,
+      "text": "Kartunya ada nama kamu"
+    },
+    {
+      "t": 170.06,
+      "end": 173.7,
+      "text": "Kamu bilang, utangmu teh botol"
+    },
+    {
+      "t": 173.96,
+      "end": 178.18,
+      "text": "Seratus botol, bayar pelan-pelan"
+    },
+    {
+      "t": 178.18,
+      "end": 178.18,
+      "text": "[Outro - harmonies ad-lib, brass stabs fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.46,
+      "end": 24.46,
+      "text": "[Intro - drum machine swing and brass stabs]"
+    },
+    {
+      "t": 24.46,
+      "end": 24.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.46,
+      "end": 26.68,
+      "text": "Jam tujuh pagi di Tebet"
+    },
+    {
+      "t": 28.92,
+      "end": 31.12,
+      "text": "Gerbang tiket bunyi tet-tet"
+    },
+    {
+      "t": 32.52,
+      "end": 35.48,
+      "text": "Layar merah, saldo kurang"
+    },
+    {
+      "t": 35.56,
+      "end": 39.9,
+      "text": "Kamu di belakang, ketawa lagi"
+    },
+    {
+      "t": 42.3,
+      "end": 42.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.3,
+      "end": 44.66,
+      "text": "Kamu tempel kartumu"
+    },
+    {
+      "t": 45.0,
+      "end": 49.17,
+      "text": "Aku lewat, kamu geleng kepala"
+    },
+    {
+      "t": 50.41,
+      "end": 50.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.41,
+      "end": 53.87,
+      "text": "Saldo kurang, saldo kurang"
+    },
+    {
+      "t": 55.19,
+      "end": 58.15,
+      "text": "Sengaja, jangan bilang-bilang"
+    },
+    {
+      "t": 58.85,
+      "end": 62.35,
+      "text": "Ganti teh botol di peron dua"
+    },
+    {
+      "t": 63.89,
+      "end": 66.85,
+      "text": "Biar besok ketemu lagi"
+    },
+    {
+      "t": 73.65,
+      "end": 73.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.65,
+      "end": 80.23,
+      "text": "Satpam mulai hafal muka"
+    },
+    {
+      "t": 82.61,
+      "end": 85.19,
+      "text": "Dia bilang, Mas, isi dong"
+    },
+    {
+      "t": 85.19,
+      "end": 89.63,
+      "text": "Aku pura-pura bilang"
+    },
+    {
+      "t": 91.25,
+      "end": 94.79,
+      "text": "Mesin isi ulangnya rusak"
+    },
+    {
+      "t": 96.19,
+      "end": 96.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.19,
+      "end": 100.63,
+      "text": "Hari Jumat kamu diam"
+    },
+    {
+      "t": 102.27,
+      "end": 134.23,
+      "text": "Kamu sodorkan kartu baru"
+    },
+    {
+      "t": 136.65,
+      "end": 136.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.65,
+      "end": 164.4,
+      "text": "Saldo penuh, saldo penuh"
+    },
+    {
+      "t": 164.4,
+      "end": 168.8,
+      "text": "Kartunya ada nama kamu"
+    },
+    {
+      "t": 170.06,
+      "end": 173.7,
+      "text": "Kamu bilang, utangmu teh botol"
+    },
+    {
+      "t": 173.96,
+      "end": 178.18,
+      "text": "Seratus botol, bayar pelan-pelan"
+    },
+    {
+      "t": 178.18,
+      "end": 178.18,
+      "text": "[Outro - harmonies ad-lib, brass stabs fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 24.46,
+      "end": 24.46,
+      "text": "[Intro - drum machine swing and brass stabs]"
+    },
+    {
+      "t": 24.46,
+      "end": 24.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.46,
+      "end": 26.68,
+      "text": "Jam tujuh pagi di Tebet"
+    },
+    {
+      "t": 28.92,
+      "end": 31.1,
+      "text": "Gerbang tiket bunyi tet-tet"
+    },
+    {
+      "t": 32.54,
+      "end": 35.48,
+      "text": "Layar merah, saldo kurang"
+    },
+    {
+      "t": 35.56,
+      "end": 39.9,
+      "text": "Kamu di belakang, ketawa lagi"
+    },
+    {
+      "t": 42.28,
+      "end": 42.28,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.28,
+      "end": 44.66,
+      "text": "Kamu tempel kartumu"
+    },
+    {
+      "t": 46.3,
+      "end": 49.15,
+      "text": "Aku lewat, kamu geleng kepala"
+    },
+    {
+      "t": 50.43,
+      "end": 50.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.43,
+      "end": 53.83,
+      "text": "Saldo kurang, saldo kurang"
+    },
+    {
+      "t": 55.19,
+      "end": 58.13,
+      "text": "Sengaja, jangan bilang-bilang"
+    },
+    {
+      "t": 58.85,
+      "end": 66.53,
+      "text": "Ganti teh botol di peron dua"
+    },
+    {
+      "t": 72.85,
+      "end": 75.73,
+      "text": "Biar besok ketemu lagi"
+    },
+    {
+      "t": 78.11,
+      "end": 78.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.11,
+      "end": 80.23,
+      "text": "Satpam mulai hafal muka"
+    },
+    {
+      "t": 82.61,
+      "end": 85.17,
+      "text": "Dia bilang, Mas, isi dong"
+    },
+    {
+      "t": 85.59,
+      "end": 89.63,
+      "text": "Aku pura-pura bilang"
+    },
+    {
+      "t": 91.25,
+      "end": 94.79,
+      "text": "Mesin isi ulangnya rusak"
+    },
+    {
+      "t": 96.17,
+      "end": 96.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.17,
+      "end": 98.91,
+      "text": "Hari Jumat kamu diam"
+    },
+    {
+      "t": 100.33,
+      "end": 103.25,
+      "text": "Kamu sodorkan kartu baru"
+    },
+    {
+      "t": 116.09,
+      "end": 116.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.09,
+      "end": 125.15,
+      "text": "Saldo penuh, saldo penuh"
+    },
+    {
+      "t": 127.37,
+      "end": 168.78,
+      "text": "Kartunya ada nama kamu"
+    },
+    {
+      "t": 170.06,
+      "end": 173.7,
+      "text": "Kamu bilang, utangmu teh botol"
+    },
+    {
+      "t": 173.94,
+      "end": 178.18,
+      "text": "Seratus botol, bayar pelan-pelan"
+    },
+    {
+      "t": 178.18,
+      "end": 178.18,
+      "text": "[Outro - harmonies ad-lib, brass stabs fade]"
+    }
+  ]
+}

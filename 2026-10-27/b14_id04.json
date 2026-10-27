@@ -1,0 +1,459 @@
+{
+  "id": "b14_id04",
+  "title": "Jenderal di Atas Atap",
+  "title_source": "scripted",
+  "genre": "Indonesian late-80s slow rock power ballad",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "mock-heroic, exasperated, then fond",
+  "persona": "",
+  "subject": "a man in Tanah Abang keeping six chickens on his rooftop whose rooster Jenderal crows from the water tank at four every morning and wakes the whole gang, until the bubur seller thanks him for never being late",
+  "caption": "Indonesian late-80s slow rock power ballad revival. Singing overdriven lead guitar with long sustained bends and a solo, big gated-reverb drums, glassy DX7-style electric piano chords, picked bass, string-synth pad. Glossy late-80s studio rock sound, big reverb, wide stereo guitars. Male high tenor rock voice with long vibrato and dramatic held notes. 72 BPM, C# minor. Mock-heroic, exasperated, then fond. No autotune, no trap drums, no modern pop production, no rap, no metal blast beats.",
+  "lyrics": "[Intro - electric piano and guitar bend, drums crash in]\n\n[Verse 1]\nDi atap rumah di Tanah Abang\nEnam ayam kupelihara\nLima betina bertelur pelan\nSatu jago, namanya Jenderal\n\n[Pre-Chorus]\nJam empat pagi dia berdiri\nDi atas tandon air\n\n[Chorus]\nJenderal, Jenderal, pelankan suaramu\nSatu gang bangun karena kamu\nBu RT ketuk pintu rumahku\nJenderal, belum subuh, tahu\n\n[Verse 2]\nKututup kandang pakai sarung\nKuputar radio pelan-pelan\nDia diam, aku tidur lagi\nJam empat lewat, dia berkokok lagi\n\n[Bridge - guitar solo, then voice]\nTukang bubur bilang terima kasih\nBerkat Jenderal dia nggak telat\n\n[Chorus]\nJenderal, Jenderal, teruskan suaramu\nGerobak bubur jalan karena kamu\nBu RT masih marah padaku\nTapi minta telurnya satu\n\n[Outro - long guitar sustain, drums fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 225.0,
+    "genres": "N/A",
+    "keyscale": "C# minor",
+    "timesignature": "4",
+    "prompt": "Indonesian late-80s slow rock power ballad revival. Singing overdriven lead guitar with long sustained bends and a solo, big gated-reverb drums, glassy DX7-style electric piano chords, picked bass, string-synth pad. Glossy late-80s studio rock sound, big reverb, wide stereo guitars. Male high tenor rock voice with long vibrato and dramatic held notes. 72 BPM, C# minor. Mock-heroic, exasperated, then fond. No autotune, no trap drums, no modern pop production, no rap, no metal blast beats.",
+    "lyrics": "[Intro - electric piano and guitar bend, drums crash in]\n\n[Verse 1]\nDi atap rumah di Tanah Abang\nEnam ayam kupelihara\nLima betina bertelur pelan\nSatu jago, namanya Jenderal\n\n[Pre-Chorus]\nJam empat pagi dia berdiri\nDi atas tandon air\n\n[Chorus]\nJenderal, Jenderal, pelankan suaramu\nSatu gang bangun karena kamu\nBu RT ketuk pintu rumahku\nJenderal, belum subuh, tahu\n\n[Verse 2]\nKututup kandang pakai sarung\nKuputar radio pelan-pelan\nDia diam, aku tidur lagi\nJam empat lewat, dia berkokok lagi\n\n[Bridge - guitar solo, then voice]\nTukang bubur bilang terima kasih\nBerkat Jenderal dia nggak telat\n\n[Chorus]\nJenderal, Jenderal, teruskan suaramu\nGerobak bubur jalan karena kamu\nBu RT masih marah padaku\nTapi minta telurnya satu\n\n[Outro - long guitar sustain, drums fade]"
+  },
+  "seed": "2183036427",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.98s**\n- 65.98s per song\n- LM phase (1 song): 11.94s\n- DiT phase (1 song): 54.04s",
+  "task_id": "4e80195d-1010-4a9c-960c-eb43f861e3a2",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-27T12:28:41.527271+08:00",
+  "audio": "b14_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - electric piano and guitar bend, drums crash in]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 14.24,
+      "text": "Di atap rumah di Tanah Abang"
+    },
+    {
+      "t": 14.28,
+      "end": 19.64,
+      "text": "Enam ayam kupelihara"
+    },
+    {
+      "t": 20.04,
+      "end": 22.26,
+      "text": "Lima betina bertelur pelan"
+    },
+    {
+      "t": 22.26,
+      "end": 57.43,
+      "text": "Satu jago, namanya Jenderal"
+    },
+    {
+      "t": 57.43,
+      "end": 57.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.43,
+      "end": 62.97,
+      "text": "Jam empat pagi dia berdiri"
+    },
+    {
+      "t": 64.73,
+      "end": 67.09,
+      "text": "Di atas tandon air"
+    },
+    {
+      "t": 67.09,
+      "end": 67.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.09,
+      "end": 70.77,
+      "text": "Jenderal, Jenderal, pelankan suaramu"
+    },
+    {
+      "t": 70.77,
+      "end": 74.43,
+      "text": "Satu gang bangun karena kamu"
+    },
+    {
+      "t": 76.97,
+      "end": 81.01,
+      "text": "Bu RT ketuk pintu rumahku"
+    },
+    {
+      "t": 81.45,
+      "end": 84.73,
+      "text": "Jenderal, belum subuh, tahu"
+    },
+    {
+      "t": 84.95,
+      "end": 84.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.95,
+      "end": 91.11,
+      "text": "Kututup kandang pakai sarung"
+    },
+    {
+      "t": 91.11,
+      "end": 103.57,
+      "text": "Kuputar radio pelan-pelan"
+    },
+    {
+      "t": 103.63,
+      "end": 108.29,
+      "text": "Dia diam, aku tidur lagi"
+    },
+    {
+      "t": 110.15,
+      "end": 115.23,
+      "text": "Jam empat lewat, dia berkokok lagi"
+    },
+    {
+      "t": 120.17,
+      "end": 120.17,
+      "text": "[Bridge - guitar solo, then voice]"
+    },
+    {
+      "t": 120.17,
+      "end": 124.67,
+      "text": "Tukang bubur bilang terima kasih"
+    },
+    {
+      "t": 126.79,
+      "end": 139.39,
+      "text": "Berkat Jenderal dia nggak telat"
+    },
+    {
+      "t": 139.39,
+      "end": 139.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.39,
+      "end": 179.74,
+      "text": "Jenderal, Jenderal, teruskan suaramu"
+    },
+    {
+      "t": 187.18,
+      "end": 191.82,
+      "text": "Gerobak bubur jalan karena kamu"
+    },
+    {
+      "t": 193.34,
+      "end": 197.4,
+      "text": "Bu RT masih marah padaku"
+    },
+    {
+      "t": 201.48,
+      "end": 207.98,
+      "text": "Tapi minta telurnya satu"
+    },
+    {
+      "t": 207.98,
+      "end": 207.98,
+      "text": "[Outro - long guitar sustain, drums fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - electric piano and guitar bend, drums crash in]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 14.24,
+      "text": "Di atap rumah di Tanah Abang"
+    },
+    {
+      "t": 14.28,
+      "end": 19.64,
+      "text": "Enam ayam kupelihara"
+    },
+    {
+      "t": 20.04,
+      "end": 22.26,
+      "text": "Lima betina bertelur pelan"
+    },
+    {
+      "t": 22.26,
+      "end": 57.43,
+      "text": "Satu jago, namanya Jenderal"
+    },
+    {
+      "t": 57.43,
+      "end": 57.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.43,
+      "end": 62.97,
+      "text": "Jam empat pagi dia berdiri"
+    },
+    {
+      "t": 64.73,
+      "end": 67.09,
+      "text": "Di atas tandon air"
+    },
+    {
+      "t": 67.09,
+      "end": 67.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.09,
+      "end": 70.77,
+      "text": "Jenderal, Jenderal, pelankan suaramu"
+    },
+    {
+      "t": 70.77,
+      "end": 74.43,
+      "text": "Satu gang bangun karena kamu"
+    },
+    {
+      "t": 76.97,
+      "end": 81.01,
+      "text": "Bu RT ketuk pintu rumahku"
+    },
+    {
+      "t": 81.45,
+      "end": 84.73,
+      "text": "Jenderal, belum subuh, tahu"
+    },
+    {
+      "t": 84.95,
+      "end": 84.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.95,
+      "end": 91.11,
+      "text": "Kututup kandang pakai sarung"
+    },
+    {
+      "t": 91.11,
+      "end": 103.57,
+      "text": "Kuputar radio pelan-pelan"
+    },
+    {
+      "t": 103.63,
+      "end": 108.29,
+      "text": "Dia diam, aku tidur lagi"
+    },
+    {
+      "t": 110.15,
+      "end": 115.23,
+      "text": "Jam empat lewat, dia berkokok lagi"
+    },
+    {
+      "t": 120.17,
+      "end": 120.17,
+      "text": "[Bridge - guitar solo, then voice]"
+    },
+    {
+      "t": 120.17,
+      "end": 124.67,
+      "text": "Tukang bubur bilang terima kasih"
+    },
+    {
+      "t": 126.79,
+      "end": 139.39,
+      "text": "Berkat Jenderal dia nggak telat"
+    },
+    {
+      "t": 139.39,
+      "end": 139.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.39,
+      "end": 179.74,
+      "text": "Jenderal, Jenderal, teruskan suaramu"
+    },
+    {
+      "t": 187.18,
+      "end": 191.82,
+      "text": "Gerobak bubur jalan karena kamu"
+    },
+    {
+      "t": 193.34,
+      "end": 197.4,
+      "text": "Bu RT masih marah padaku"
+    },
+    {
+      "t": 201.48,
+      "end": 207.98,
+      "text": "Tapi minta telurnya satu"
+    },
+    {
+      "t": 207.98,
+      "end": 207.98,
+      "text": "[Outro - long guitar sustain, drums fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - electric piano and guitar bend, drums crash in]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 20.38,
+      "text": "Di atap rumah di Tanah Abang"
+    },
+    {
+      "t": 20.46,
+      "end": 24.16,
+      "text": "Enam ayam kupelihara"
+    },
+    {
+      "t": 27.3,
+      "end": 33.04,
+      "text": "Lima betina bertelur pelan"
+    },
+    {
+      "t": 33.04,
+      "end": 57.13,
+      "text": "Satu jago, namanya Jenderal"
+    },
+    {
+      "t": 57.15,
+      "end": 57.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.15,
+      "end": 61.37,
+      "text": "Jam empat pagi dia berdiri"
+    },
+    {
+      "t": 64.73,
+      "end": 67.09,
+      "text": "Di atas tandon air"
+    },
+    {
+      "t": 67.09,
+      "end": 67.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.09,
+      "end": 70.77,
+      "text": "Jenderal, Jenderal, pelankan suaramu"
+    },
+    {
+      "t": 70.77,
+      "end": 74.41,
+      "text": "Satu gang bangun karena kamu"
+    },
+    {
+      "t": 76.97,
+      "end": 81.01,
+      "text": "Bu RT ketuk pintu rumahku"
+    },
+    {
+      "t": 81.47,
+      "end": 84.73,
+      "text": "Jenderal, belum subuh, tahu"
+    },
+    {
+      "t": 85.25,
+      "end": 85.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.25,
+      "end": 91.03,
+      "text": "Kututup kandang pakai sarung"
+    },
+    {
+      "t": 91.03,
+      "end": 103.61,
+      "text": "Kuputar radio pelan-pelan"
+    },
+    {
+      "t": 103.65,
+      "end": 108.29,
+      "text": "Dia diam, aku tidur lagi"
+    },
+    {
+      "t": 110.15,
+      "end": 115.23,
+      "text": "Jam empat lewat, dia berkokok lagi"
+    },
+    {
+      "t": 120.17,
+      "end": 120.17,
+      "text": "[Bridge - guitar solo, then voice]"
+    },
+    {
+      "t": 120.17,
+      "end": 124.65,
+      "text": "Tukang bubur bilang terima kasih"
+    },
+    {
+      "t": 126.79,
+      "end": 131.63,
+      "text": "Berkat Jenderal dia nggak telat"
+    },
+    {
+      "t": 150.97,
+      "end": 150.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.97,
+      "end": 177.44,
+      "text": "Jenderal, Jenderal, teruskan suaramu"
+    },
+    {
+      "t": 187.18,
+      "end": 191.8,
+      "text": "Gerobak bubur jalan karena kamu"
+    },
+    {
+      "t": 193.34,
+      "end": 197.4,
+      "text": "Bu RT masih marah padaku"
+    },
+    {
+      "t": 201.48,
+      "end": 207.9,
+      "text": "Tapi minta telurnya satu"
+    },
+    {
+      "t": 207.9,
+      "end": 207.9,
+      "text": "[Outro - long guitar sustain, drums fade]"
+    }
+  ]
+}

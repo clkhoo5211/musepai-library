@@ -1,0 +1,474 @@
+{
+  "id": "b14_ko01",
+  "title": "왼발부터",
+  "title_source": "scripted",
+  "genre": "Latin R&B girl-group pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "shy, giggly and slowly falling in step",
+  "persona": "",
+  "subject": "a couple in their thirties taking a Tuesday-night beginners' social tango class at the ward community centre, stepping on each other's feet for weeks, counting under their breath, until one night they get through a whole song without looking down",
+  "caption": "Latin R&B girl-group pop in the mid-2020s Latin-tinged style. Nylon-string Spanish guitar playing syncopated arpeggios, bongos and shaker in a light tresillo pattern, soft round 808 sub bass, crisp finger snaps on two and four, mellow Rhodes chords filling the gaps. Dry intimate mix with the nylon guitar centred and a little room reverb on the snaps. Female mid-register R&B vocal, breathy and close in the verses, stacked harmonies in the chorus. 96 BPM, A minor. Shy, giggly and slowly falling in step. No reggaeton dembow, no autotune, no EDM drop, no trap hi-hat rolls, no rap verse.",
+  "lyrics": "[Intro - nylon guitar arpeggio, bongos, finger snaps]\n\n[Verse 1]\n화요일 저녁 주민센터\n삼층 강당 형광등 아래\n선생님이 손뼉 치면\n네 발을 또 밟았어\n\n[Pre-Chorus]\n미안해 하나 둘\n너는 웃고 셋 넷\n\n[Chorus]\n왼발부터 천천히\n내 어깨에 손 올려\n바닥 말고 나를 봐\n틀려도 같이 틀리자\n\n[Verse 2]\n삼 주째엔 구두 사고\n너는 양말 두 겹 신고\n거울 속 우리 둘이\n조금씩 닮아 가\n\n[Pre-Chorus]\n노래 하나 끝까지\n발끝 한 번 안 보고\n\n[Chorus]\n왼발부터 천천히\n내 어깨에 손 올려\n불 꺼질 때까지\n한 곡만 더 추자\n\n[Outro - nylon guitar and snaps fade]\n왼발부터 천천히",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 196.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Latin R&B girl-group pop in the mid-2020s Latin-tinged style. Nylon-string Spanish guitar playing syncopated arpeggios, bongos and shaker in a light tresillo pattern, soft round 808 sub bass, crisp finger snaps on two and four, mellow Rhodes chords filling the gaps. Dry intimate mix with the nylon guitar centred and a little room reverb on the snaps. Female mid-register R&B vocal, breathy and close in the verses, stacked harmonies in the chorus. 96 BPM, A minor. Shy, giggly and slowly falling in step. No reggaeton dembow, no autotune, no EDM drop, no trap hi-hat rolls, no rap verse.",
+    "lyrics": "[Intro - nylon guitar arpeggio, bongos, finger snaps]\n\n[Verse 1]\n화요일 저녁 주민센터\n삼층 강당 형광등 아래\n선생님이 손뼉 치면\n네 발을 또 밟았어\n\n[Pre-Chorus]\n미안해 하나 둘\n너는 웃고 셋 넷\n\n[Chorus]\n왼발부터 천천히\n내 어깨에 손 올려\n바닥 말고 나를 봐\n틀려도 같이 틀리자\n\n[Verse 2]\n삼 주째엔 구두 사고\n너는 양말 두 겹 신고\n거울 속 우리 둘이\n조금씩 닮아 가\n\n[Pre-Chorus]\n노래 하나 끝까지\n발끝 한 번 안 보고\n\n[Chorus]\n왼발부터 천천히\n내 어깨에 손 올려\n불 꺼질 때까지\n한 곡만 더 추자\n\n[Outro - nylon guitar and snaps fade]\n왼발부터 천천히"
+  },
+  "seed": "727956712",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.93s**\n- 59.93s per song\n- LM phase (1 song): 6.34s\n- DiT phase (1 song): 53.60s",
+  "task_id": "af75f2bb-2ca8-4b20-9645-c91f41a64f04",
+  "elapsed_s": 110.7,
+  "generated_at": "2026-10-27T12:08:29.067379+08:00",
+  "audio": "b14_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.34,
+      "end": 32.34,
+      "text": "[Intro - nylon guitar arpeggio, bongos, finger snaps]"
+    },
+    {
+      "t": 32.34,
+      "end": 32.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.34,
+      "end": 34.74,
+      "text": "화요일 저녁 주민센터"
+    },
+    {
+      "t": 36.1,
+      "end": 39.92,
+      "text": "삼층 강당 형광등 아래"
+    },
+    {
+      "t": 42.4,
+      "end": 45.66,
+      "text": "선생님이 손뼉 치면"
+    },
+    {
+      "t": 47.12,
+      "end": 50.41,
+      "text": "네 발을 또 밟았어"
+    },
+    {
+      "t": 53.71,
+      "end": 53.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.71,
+      "end": 56.57,
+      "text": "미안해 하나 둘"
+    },
+    {
+      "t": 58.39,
+      "end": 60.11,
+      "text": "너는 웃고 셋 넷"
+    },
+    {
+      "t": 60.19,
+      "end": 60.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.19,
+      "end": 64.03,
+      "text": "왼발부터 천천히"
+    },
+    {
+      "t": 64.33,
+      "end": 66.75,
+      "text": "내 어깨에 손 올려"
+    },
+    {
+      "t": 66.83,
+      "end": 69.21,
+      "text": "바닥 말고 나를 봐"
+    },
+    {
+      "t": 70.55,
+      "end": 73.25,
+      "text": "틀려도 같이 틀리자"
+    },
+    {
+      "t": 85.87,
+      "end": 85.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.87,
+      "end": 88.41,
+      "text": "삼 주째엔 구두 사고"
+    },
+    {
+      "t": 88.51,
+      "end": 94.97,
+      "text": "너는 양말 두 겹 신고"
+    },
+    {
+      "t": 94.99,
+      "end": 97.63,
+      "text": "거울 속 우리 둘이"
+    },
+    {
+      "t": 98.35,
+      "end": 102.31,
+      "text": "조금씩 닮아 가"
+    },
+    {
+      "t": 104.35,
+      "end": 104.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.35,
+      "end": 107.41,
+      "text": "노래 하나 끝까지"
+    },
+    {
+      "t": 109.41,
+      "end": 112.79,
+      "text": "발끝 한 번 안 보고"
+    },
+    {
+      "t": 116.17,
+      "end": 116.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.17,
+      "end": 118.47,
+      "text": "왼발부터 천천히"
+    },
+    {
+      "t": 118.61,
+      "end": 121.21,
+      "text": "내 어깨에 손 올려"
+    },
+    {
+      "t": 121.27,
+      "end": 123.21,
+      "text": "불 꺼질 때까지"
+    },
+    {
+      "t": 125.75,
+      "end": 127.83,
+      "text": "한 곡만 더 추자"
+    },
+    {
+      "t": 171.14,
+      "end": 171.14,
+      "text": "[Outro - nylon guitar and snaps fade]"
+    },
+    {
+      "t": 171.14,
+      "end": 174.0,
+      "text": "왼발부터 천천히"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.34,
+      "end": 32.34,
+      "text": "[Intro - nylon guitar arpeggio, bongos, finger snaps]"
+    },
+    {
+      "t": 32.34,
+      "end": 32.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.34,
+      "end": 34.74,
+      "text": "화요일 저녁 주민센터"
+    },
+    {
+      "t": 36.1,
+      "end": 39.92,
+      "text": "삼층 강당 형광등 아래"
+    },
+    {
+      "t": 42.4,
+      "end": 45.66,
+      "text": "선생님이 손뼉 치면"
+    },
+    {
+      "t": 47.12,
+      "end": 50.41,
+      "text": "네 발을 또 밟았어"
+    },
+    {
+      "t": 53.71,
+      "end": 53.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.71,
+      "end": 56.57,
+      "text": "미안해 하나 둘"
+    },
+    {
+      "t": 58.39,
+      "end": 60.11,
+      "text": "너는 웃고 셋 넷"
+    },
+    {
+      "t": 60.19,
+      "end": 60.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.19,
+      "end": 64.03,
+      "text": "왼발부터 천천히"
+    },
+    {
+      "t": 64.33,
+      "end": 66.75,
+      "text": "내 어깨에 손 올려"
+    },
+    {
+      "t": 66.83,
+      "end": 69.21,
+      "text": "바닥 말고 나를 봐"
+    },
+    {
+      "t": 70.55,
+      "end": 73.25,
+      "text": "틀려도 같이 틀리자"
+    },
+    {
+      "t": 85.87,
+      "end": 85.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.87,
+      "end": 88.41,
+      "text": "삼 주째엔 구두 사고"
+    },
+    {
+      "t": 88.51,
+      "end": 94.97,
+      "text": "너는 양말 두 겹 신고"
+    },
+    {
+      "t": 94.99,
+      "end": 97.63,
+      "text": "거울 속 우리 둘이"
+    },
+    {
+      "t": 98.35,
+      "end": 102.31,
+      "text": "조금씩 닮아 가"
+    },
+    {
+      "t": 104.35,
+      "end": 104.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.35,
+      "end": 107.41,
+      "text": "노래 하나 끝까지"
+    },
+    {
+      "t": 109.41,
+      "end": 112.79,
+      "text": "발끝 한 번 안 보고"
+    },
+    {
+      "t": 116.17,
+      "end": 116.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.17,
+      "end": 118.47,
+      "text": "왼발부터 천천히"
+    },
+    {
+      "t": 118.61,
+      "end": 121.21,
+      "text": "내 어깨에 손 올려"
+    },
+    {
+      "t": 121.27,
+      "end": 123.21,
+      "text": "불 꺼질 때까지"
+    },
+    {
+      "t": 125.75,
+      "end": 127.83,
+      "text": "한 곡만 더 추자"
+    },
+    {
+      "t": 171.14,
+      "end": 171.14,
+      "text": "[Outro - nylon guitar and snaps fade]"
+    },
+    {
+      "t": 171.14,
+      "end": 174.0,
+      "text": "왼발부터 천천히"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 32.32,
+      "end": 32.32,
+      "text": "[Intro - nylon guitar arpeggio, bongos, finger snaps]"
+    },
+    {
+      "t": 32.32,
+      "end": 32.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.32,
+      "end": 34.72,
+      "text": "화요일 저녁 주민센터"
+    },
+    {
+      "t": 36.1,
+      "end": 39.9,
+      "text": "삼층 강당 형광등 아래"
+    },
+    {
+      "t": 42.4,
+      "end": 45.7,
+      "text": "선생님이 손뼉 치면"
+    },
+    {
+      "t": 47.14,
+      "end": 50.41,
+      "text": "네 발을 또 밟았어"
+    },
+    {
+      "t": 53.71,
+      "end": 53.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.71,
+      "end": 56.55,
+      "text": "미안해 하나 둘"
+    },
+    {
+      "t": 58.39,
+      "end": 60.13,
+      "text": "너는 웃고 셋 넷"
+    },
+    {
+      "t": 60.15,
+      "end": 60.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.15,
+      "end": 60.89,
+      "text": "왼발부터 천천히"
+    },
+    {
+      "t": 60.89,
+      "end": 64.11,
+      "text": "내 어깨에 손 올려"
+    },
+    {
+      "t": 64.33,
+      "end": 68.25,
+      "text": "바닥 말고 나를 봐"
+    },
+    {
+      "t": 68.73,
+      "end": 73.25,
+      "text": "틀려도 같이 틀리자"
+    },
+    {
+      "t": 85.87,
+      "end": 85.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.87,
+      "end": 87.81,
+      "text": "삼 주째엔 구두 사고"
+    },
+    {
+      "t": 87.81,
+      "end": 94.79,
+      "text": "너는 양말 두 겹 신고"
+    },
+    {
+      "t": 95.03,
+      "end": 97.61,
+      "text": "거울 속 우리 둘이"
+    },
+    {
+      "t": 98.37,
+      "end": 102.29,
+      "text": "조금씩 닮아 가"
+    },
+    {
+      "t": 104.35,
+      "end": 104.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.35,
+      "end": 107.41,
+      "text": "노래 하나 끝까지"
+    },
+    {
+      "t": 109.41,
+      "end": 112.79,
+      "text": "발끝 한 번 안 보고"
+    },
+    {
+      "t": 116.17,
+      "end": 116.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.17,
+      "end": 117.93,
+      "text": "왼발부터 천천히"
+    },
+    {
+      "t": 117.93,
+      "end": 119.81,
+      "text": "내 어깨에 손 올려"
+    },
+    {
+      "t": 119.81,
+      "end": 123.19,
+      "text": "불 꺼질 때까지"
+    },
+    {
+      "t": 125.75,
+      "end": 127.83,
+      "text": "한 곡만 더 추자"
+    },
+    {
+      "t": 171.12,
+      "end": 171.12,
+      "text": "[Outro - nylon guitar and snaps fade]"
+    },
+    {
+      "t": 171.12,
+      "end": 173.98,
+      "text": "왼발부터 천천히"
+    }
+  ]
+}

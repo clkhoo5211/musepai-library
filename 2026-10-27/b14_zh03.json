@@ -1,0 +1,519 @@
+{
+  "id": "b14_zh03",
+  "title": "九十九朵送錯樓",
+  "title_source": "scripted",
+  "genre": "Mandarin garage rock",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "frantic, cheeky and out of breath",
+  "persona": "",
+  "subject": "a florist's delivery boy who carries a 99-rose bouquet to floor 21 instead of floor 12, and has to talk it back off the receptionist who has already put it in a water bucket and photographed it for her mum, trading her a bunch of baby's breath to get it",
+  "caption": "Mandarin garage rock, 1960s-revival style. A fuzz-drenched electric guitar riff; a reedy Farfisa-style combo organ stabbing chords; trashy, loose live drums with tambourine; an overdriven bass doubling the riff. Raw live-room recording with crunchy near-mono garage tone. Male mid-range voice, shouted and sneering, rough gang backing on the hook. 146 BPM, E major. Frantic, cheeky and out of breath. No polished pop-rock production, no pop-punk, no synths, no metal guitars, no autotune.",
+  "lyrics": "[Intro - fuzz guitar riff, garage drum fill, combo organ stab]\n\n[Verse 1]\n九十九朵紅玫瑰\n綁在機車後座上\n單子寫的是十二樓\n我按成了二十一\n\n[Chorus]\n九十九朵送錯樓\n櫃檯小姐說謝謝\n她已經插進水桶裡\n還拍照傳給她媽媽\n\n[Verse 2]\n我衝回二十一樓\n喘到一句話說不完\n她說這不是送我的嗎\n我說小姐真的不是\n\n[Chorus]\n九十九朵送錯樓\n櫃檯小姐不想還\n她說水都換過一次\n她媽媽也回了愛心\n\n[Bridge - fuzz bass and organ]\n我跑回店裡拿一把\n白白的滿天星\n跟她說這把才是妳的\n她笑著把水桶推過來\n\n[Chorus]\n九十九朵送到了\n十二樓的人在等\n她說花怎麼濕濕的\n我說它們跑了兩趟\n\n[Outro - fuzz riff, drums crash out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 146,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Mandarin garage rock, 1960s-revival style. A fuzz-drenched electric guitar riff; a reedy Farfisa-style combo organ stabbing chords; trashy, loose live drums with tambourine; an overdriven bass doubling the riff. Raw live-room recording with crunchy near-mono garage tone. Male mid-range voice, shouted and sneering, rough gang backing on the hook. 146 BPM, E major. Frantic, cheeky and out of breath. No polished pop-rock production, no pop-punk, no synths, no metal guitars, no autotune.",
+    "lyrics": "[Intro - fuzz guitar riff, garage drum fill, combo organ stab]\n\n[Verse 1]\n九十九朵紅玫瑰\n綁在機車後座上\n單子寫的是十二樓\n我按成了二十一\n\n[Chorus]\n九十九朵送錯樓\n櫃檯小姐說謝謝\n她已經插進水桶裡\n還拍照傳給她媽媽\n\n[Verse 2]\n我衝回二十一樓\n喘到一句話說不完\n她說這不是送我的嗎\n我說小姐真的不是\n\n[Chorus]\n九十九朵送錯樓\n櫃檯小姐不想還\n她說水都換過一次\n她媽媽也回了愛心\n\n[Bridge - fuzz bass and organ]\n我跑回店裡拿一把\n白白的滿天星\n跟她說這把才是妳的\n她笑著把水桶推過來\n\n[Chorus]\n九十九朵送到了\n十二樓的人在等\n她說花怎麼濕濕的\n我說它們跑了兩趟\n\n[Outro - fuzz riff, drums crash out]"
+  },
+  "seed": "674825674",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 101.59s**\n- 101.59s per song\n- LM phase (1 song): 20.46s\n- DiT phase (1 song): 81.13s",
+  "task_id": "05160c49-5a2d-4e8d-8ad2-f6818e700bd3",
+  "elapsed_s": 130.3,
+  "generated_at": "2026-10-27T19:29:57.876234+08:00",
+  "audio": "b14_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.5,
+      "end": 24.5,
+      "text": "[Intro - fuzz guitar riff, garage drum fill, combo organ stab]"
+    },
+    {
+      "t": 24.5,
+      "end": 24.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.5,
+      "end": 26.9,
+      "text": "九十九朵紅玫瑰"
+    },
+    {
+      "t": 27.82,
+      "end": 32.2,
+      "text": "綁在機車後座上"
+    },
+    {
+      "t": 32.34,
+      "end": 37.82,
+      "text": "單子寫的是十二樓"
+    },
+    {
+      "t": 37.9,
+      "end": 38.64,
+      "text": "我按成了二十一"
+    },
+    {
+      "t": 38.74,
+      "end": 38.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 38.74,
+      "end": 40.24,
+      "text": "九十九朵送錯樓"
+    },
+    {
+      "t": 40.76,
+      "end": 43.18,
+      "text": "櫃檯小姐說謝謝"
+    },
+    {
+      "t": 44.03,
+      "end": 46.51,
+      "text": "她已經插進水桶裡"
+    },
+    {
+      "t": 46.77,
+      "end": 49.77,
+      "text": "還拍照傳給她媽媽"
+    },
+    {
+      "t": 50.73,
+      "end": 50.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 50.73,
+      "end": 59.41,
+      "text": "我衝回二十一樓"
+    },
+    {
+      "t": 59.41,
+      "end": 62.47,
+      "text": "喘到一句話說不完"
+    },
+    {
+      "t": 65.61,
+      "end": 68.67,
+      "text": "她說這不是送我的嗎"
+    },
+    {
+      "t": 71.95,
+      "end": 75.65,
+      "text": "我說小姐真的不是"
+    },
+    {
+      "t": 75.77,
+      "end": 75.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.77,
+      "end": 79.15,
+      "text": "九十九朵送錯樓"
+    },
+    {
+      "t": 79.87,
+      "end": 81.83,
+      "text": "櫃檯小姐不想還"
+    },
+    {
+      "t": 82.01,
+      "end": 85.49,
+      "text": "她說水都換過一次"
+    },
+    {
+      "t": 85.59,
+      "end": 89.97,
+      "text": "她媽媽也回了愛心"
+    },
+    {
+      "t": 91.97,
+      "end": 91.97,
+      "text": "[Bridge - fuzz bass and organ]"
+    },
+    {
+      "t": 91.97,
+      "end": 94.53,
+      "text": "我跑回店裡拿一把"
+    },
+    {
+      "t": 98.33,
+      "end": 104.85,
+      "text": "白白的滿天星"
+    },
+    {
+      "t": 104.87,
+      "end": 108.11,
+      "text": "跟她說這把才是妳的"
+    },
+    {
+      "t": 110.61,
+      "end": 114.13,
+      "text": "她笑著把水桶推過來"
+    },
+    {
+      "t": 114.21,
+      "end": 114.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.21,
+      "end": 114.65,
+      "text": "九十九朵送到了"
+    },
+    {
+      "t": 114.65,
+      "end": 120.31,
+      "text": "十二樓的人在等"
+    },
+    {
+      "t": 120.31,
+      "end": 148.18,
+      "text": "她說花怎麼濕濕的"
+    },
+    {
+      "t": 148.68,
+      "end": 172.94,
+      "text": "我說它們跑了兩趟"
+    },
+    {
+      "t": 172.94,
+      "end": 172.94,
+      "text": "[Outro - fuzz riff, drums crash out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.5,
+      "end": 24.5,
+      "text": "[Intro - fuzz guitar riff, garage drum fill, combo organ stab]"
+    },
+    {
+      "t": 24.5,
+      "end": 24.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.5,
+      "end": 26.9,
+      "text": "九十九朵紅玫瑰"
+    },
+    {
+      "t": 27.82,
+      "end": 32.2,
+      "text": "綁在機車後座上"
+    },
+    {
+      "t": 32.34,
+      "end": 37.82,
+      "text": "單子寫的是十二樓"
+    },
+    {
+      "t": 37.9,
+      "end": 38.64,
+      "text": "我按成了二十一"
+    },
+    {
+      "t": 38.74,
+      "end": 38.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 38.74,
+      "end": 40.24,
+      "text": "九十九朵送錯樓"
+    },
+    {
+      "t": 40.76,
+      "end": 43.18,
+      "text": "櫃檯小姐說謝謝"
+    },
+    {
+      "t": 44.03,
+      "end": 46.51,
+      "text": "她已經插進水桶裡"
+    },
+    {
+      "t": 46.77,
+      "end": 49.77,
+      "text": "還拍照傳給她媽媽"
+    },
+    {
+      "t": 50.73,
+      "end": 50.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 50.73,
+      "end": 59.41,
+      "text": "我衝回二十一樓"
+    },
+    {
+      "t": 59.41,
+      "end": 62.47,
+      "text": "喘到一句話說不完"
+    },
+    {
+      "t": 65.61,
+      "end": 68.67,
+      "text": "她說這不是送我的嗎"
+    },
+    {
+      "t": 71.95,
+      "end": 75.65,
+      "text": "我說小姐真的不是"
+    },
+    {
+      "t": 75.77,
+      "end": 75.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.77,
+      "end": 79.15,
+      "text": "九十九朵送錯樓"
+    },
+    {
+      "t": 79.87,
+      "end": 81.83,
+      "text": "櫃檯小姐不想還"
+    },
+    {
+      "t": 82.01,
+      "end": 85.49,
+      "text": "她說水都換過一次"
+    },
+    {
+      "t": 85.59,
+      "end": 89.97,
+      "text": "她媽媽也回了愛心"
+    },
+    {
+      "t": 91.97,
+      "end": 91.97,
+      "text": "[Bridge - fuzz bass and organ]"
+    },
+    {
+      "t": 91.97,
+      "end": 94.53,
+      "text": "我跑回店裡拿一把"
+    },
+    {
+      "t": 98.33,
+      "end": 104.85,
+      "text": "白白的滿天星"
+    },
+    {
+      "t": 104.87,
+      "end": 108.11,
+      "text": "跟她說這把才是妳的"
+    },
+    {
+      "t": 110.61,
+      "end": 114.13,
+      "text": "她笑著把水桶推過來"
+    },
+    {
+      "t": 114.21,
+      "end": 114.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.21,
+      "end": 114.65,
+      "text": "九十九朵送到了"
+    },
+    {
+      "t": 114.65,
+      "end": 120.31,
+      "text": "十二樓的人在等"
+    },
+    {
+      "t": 120.31,
+      "end": 148.18,
+      "text": "她說花怎麼濕濕的"
+    },
+    {
+      "t": 148.68,
+      "end": 172.94,
+      "text": "我說它們跑了兩趟"
+    },
+    {
+      "t": 172.94,
+      "end": 172.94,
+      "text": "[Outro - fuzz riff, drums crash out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.56,
+      "end": 25.56,
+      "text": "[Intro - fuzz guitar riff, garage drum fill, combo organ stab]"
+    },
+    {
+      "t": 25.56,
+      "end": 25.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.56,
+      "end": 26.92,
+      "text": "九十九朵紅玫瑰"
+    },
+    {
+      "t": 27.82,
+      "end": 31.66,
+      "text": "綁在機車後座上"
+    },
+    {
+      "t": 31.66,
+      "end": 37.88,
+      "text": "單子寫的是十二樓"
+    },
+    {
+      "t": 37.88,
+      "end": 38.44,
+      "text": "我按成了二十一"
+    },
+    {
+      "t": 38.74,
+      "end": 38.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 38.74,
+      "end": 40.22,
+      "text": "九十九朵送錯樓"
+    },
+    {
+      "t": 40.76,
+      "end": 43.18,
+      "text": "櫃檯小姐說謝謝"
+    },
+    {
+      "t": 44.03,
+      "end": 46.51,
+      "text": "她已經插進水桶裡"
+    },
+    {
+      "t": 46.77,
+      "end": 49.17,
+      "text": "還拍照傳給她媽媽"
+    },
+    {
+      "t": 49.17,
+      "end": 49.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 49.17,
+      "end": 59.41,
+      "text": "我衝回二十一樓"
+    },
+    {
+      "t": 59.41,
+      "end": 62.39,
+      "text": "喘到一句話說不完"
+    },
+    {
+      "t": 65.63,
+      "end": 68.65,
+      "text": "她說這不是送我的嗎"
+    },
+    {
+      "t": 71.93,
+      "end": 75.65,
+      "text": "我說小姐真的不是"
+    },
+    {
+      "t": 75.79,
+      "end": 75.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.79,
+      "end": 78.99,
+      "text": "九十九朵送錯樓"
+    },
+    {
+      "t": 78.99,
+      "end": 80.17,
+      "text": "櫃檯小姐不想還"
+    },
+    {
+      "t": 80.17,
+      "end": 82.21,
+      "text": "她說水都換過一次"
+    },
+    {
+      "t": 85.39,
+      "end": 88.89,
+      "text": "她媽媽也回了愛心"
+    },
+    {
+      "t": 91.99,
+      "end": 91.99,
+      "text": "[Bridge - fuzz bass and organ]"
+    },
+    {
+      "t": 91.99,
+      "end": 94.53,
+      "text": "我跑回店裡拿一把"
+    },
+    {
+      "t": 98.33,
+      "end": 104.87,
+      "text": "白白的滿天星"
+    },
+    {
+      "t": 104.89,
+      "end": 108.11,
+      "text": "跟她說這把才是妳的"
+    },
+    {
+      "t": 110.61,
+      "end": 115.79,
+      "text": "她笑著把水桶推過來"
+    },
+    {
+      "t": 123.81,
+      "end": 123.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.81,
+      "end": 124.71,
+      "text": "九十九朵送到了"
+    },
+    {
+      "t": 124.83,
+      "end": 160.08,
+      "text": "十二樓的人在等"
+    },
+    {
+      "t": 160.2,
+      "end": 165.46,
+      "text": "她說花怎麼濕濕的"
+    },
+    {
+      "t": 165.74,
+      "end": 171.68,
+      "text": "我說它們跑了兩趟"
+    },
+    {
+      "t": 171.68,
+      "end": 171.68,
+      "text": "[Outro - fuzz riff, drums crash out]"
+    }
+  ]
+}

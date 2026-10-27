@@ -1,0 +1,327 @@
+{
+  "id": "b14_ko03",
+  "title": "싱크대 밑에",
+  "title_source": "scripted",
+  "genre": "acoustic easy-listening pop-rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "patient, gentle and hopeful",
+  "persona": "",
+  "subject": "a young man who adopts a grey shelter cat that hides under his kitchen sink for nine days; he sits on the kitchen floor every evening reading the instructions on ramen packets aloud until on the ninth night the cat walks out and sits on his foot",
+  "caption": "Acoustic easy-listening pop-rock in the 2025 Korean acoustic band-pop style. Bright strummed steel-string acoustic guitar, cajon keeping a soft backbeat, warm round electric bass, light glockenspiel melody, brushed tambourine on the chorus. Clean airy daytime mix with the acoustic guitar close and the glockenspiel spread wide. Male light tenor, soft conversational delivery, double-tracked in the chorus. 88 BPM, D major. Patient, gentle and hopeful. No autotune, no EDM drop, no heavy distorted guitars, no trap beat, no orchestral strings.",
+  "lyrics": "[Intro - acoustic guitar strum, glockenspiel]\n\n[Verse 1]\n보호소에서 온 회색 고양이\n오자마자 싱크대 밑으로\n밥그릇은 문 앞에 두고\n나는 바닥에 앉았어\n\n[Pre-Chorus]\n할 말이 없어서\n라면 봉지를 읽어\n\n[Chorus]\n물 오백오십 끓이고\n면이랑 스프 넣고\n사 분 반만 기다려\n나도 기다릴게\n\n[Verse 2]\n사흘째엔 밥이 줄었고\n엿새째엔 눈이 보였어\n일곱째 밤엔 꼬리 끝\n여덟째엔 한숨 소리\n\n[Pre-Chorus]\n오늘도 똑같이\n봉지 뒷면 읽어\n\n[Chorus]\n물 오백오십 끓이고\n면이랑 스프 넣고\n아홉째 밤 내 발 위에\n네가 앉아 있었어\n\n[Outro - acoustic guitar and glockenspiel]\n천천히 와도 돼",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 192.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "2",
+    "prompt": "Acoustic easy-listening pop-rock in the 2025 Korean acoustic band-pop style. Bright strummed steel-string acoustic guitar, cajon keeping a soft backbeat, warm round electric bass, light glockenspiel melody, brushed tambourine on the chorus. Clean airy daytime mix with the acoustic guitar close and the glockenspiel spread wide. Male light tenor, soft conversational delivery, double-tracked in the chorus. 88 BPM, D major. Patient, gentle and hopeful. No autotune, no EDM drop, no heavy distorted guitars, no trap beat, no orchestral strings.",
+    "lyrics": "[Intro - acoustic guitar strum, glockenspiel]\n\n[Verse 1]\n보호소에서 온 회색 고양이\n오자마자 싱크대 밑으로\n밥그릇은 문 앞에 두고\n나는 바닥에 앉았어\n\n[Pre-Chorus]\n할 말이 없어서\n라면 봉지를 읽어\n\n[Chorus]\n물 오백오십 끓이고\n면이랑 스프 넣고\n사 분 반만 기다려\n나도 기다릴게\n\n[Verse 2]\n사흘째엔 밥이 줄었고\n엿새째엔 눈이 보였어\n일곱째 밤엔 꼬리 끝\n여덟째엔 한숨 소리\n\n[Pre-Chorus]\n오늘도 똑같이\n봉지 뒷면 읽어\n\n[Chorus]\n물 오백오십 끓이고\n면이랑 스프 넣고\n아홉째 밤 내 발 위에\n네가 앉아 있었어\n\n[Outro - acoustic guitar and glockenspiel]\n천천히 와도 돼"
+  },
+  "seed": "1944700672",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 99.15s**\n- 99.15s per song\n- LM phase (1 song): 7.03s\n- DiT phase (1 song): 92.12s",
+  "task_id": "9b1adba0-668d-4633-b917-41f0428c7a4e",
+  "elapsed_s": 170.5,
+  "generated_at": "2026-10-27T18:33:59.494222+08:00",
+  "audio": "b14_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.78,
+      "end": 24.78,
+      "text": "[Intro - acoustic guitar strum, glockenspiel]"
+    },
+    {
+      "t": 24.78,
+      "end": 24.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.78,
+      "end": 28.16,
+      "text": "보호소에서 온 회색 고양이"
+    },
+    {
+      "t": 29.62,
+      "end": 32.92,
+      "text": "오자마자 싱크대 밑으로"
+    },
+    {
+      "t": 35.3,
+      "end": 38.36,
+      "text": "밥그릇은 문 앞에 두고"
+    },
+    {
+      "t": 40.44,
+      "end": 43.7,
+      "text": "나는 바닥에 앉았어"
+    },
+    {
+      "t": 46.38,
+      "end": 46.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.38,
+      "end": 49.15,
+      "text": "할 말이 없어서"
+    },
+    {
+      "t": 49.15,
+      "end": 51.97,
+      "text": "라면 봉지를 읽어"
+    },
+    {
+      "t": 52.03,
+      "end": 52.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.03,
+      "end": 54.55,
+      "text": "물 오백오십 끓이고"
+    },
+    {
+      "t": 57.29,
+      "end": 60.15,
+      "text": "면이랑 스프 넣고"
+    },
+    {
+      "t": 62.37,
+      "end": 65.51,
+      "text": "사 분 반만 기다려"
+    },
+    {
+      "t": 67.91,
+      "end": 70.97,
+      "text": "나도 기다릴게"
+    },
+    {
+      "t": 73.35,
+      "end": 73.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.35,
+      "end": 76.23,
+      "text": "사흘째엔 밥이 줄었고"
+    },
+    {
+      "t": 78.53,
+      "end": 81.27,
+      "text": "엿새째엔 눈이 보였어"
+    },
+    {
+      "t": 83.97,
+      "end": 86.89,
+      "text": "일곱째 밤엔 꼬리 끝"
+    },
+    {
+      "t": 88.87,
+      "end": 92.31,
+      "text": "여덟째엔 한숨 소리"
+    },
+    {
+      "t": 94.79,
+      "end": 94.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.79,
+      "end": 97.29,
+      "text": "오늘도 똑같이"
+    },
+    {
+      "t": 100.21,
+      "end": 111.45,
+      "text": "봉지 뒷면 읽어"
+    },
+    {
+      "t": 111.73,
+      "end": 111.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.73,
+      "end": 124.71,
+      "text": "물 오백오십 끓이고"
+    },
+    {
+      "t": 126.67,
+      "end": 138.47,
+      "text": "면이랑 스프 넣고"
+    },
+    {
+      "t": 155.08,
+      "end": 157.7,
+      "text": "아홉째 밤 내 발 위에"
+    },
+    {
+      "t": 160.16,
+      "end": 163.44,
+      "text": "네가 앉아 있었어"
+    },
+    {
+      "t": 165.72,
+      "end": 165.72,
+      "text": "[Outro - acoustic guitar and glockenspiel]"
+    },
+    {
+      "t": 165.72,
+      "end": 174.46,
+      "text": "천천히 와도 돼"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.76,
+      "end": 24.76,
+      "text": "[Intro - acoustic guitar strum, glockenspiel]"
+    },
+    {
+      "t": 24.76,
+      "end": 24.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.76,
+      "end": 28.18,
+      "text": "보호소에서 온 회색 고양이"
+    },
+    {
+      "t": 29.62,
+      "end": 32.92,
+      "text": "오자마자 싱크대 밑으로"
+    },
+    {
+      "t": 35.3,
+      "end": 38.36,
+      "text": "밥그릇은 문 앞에 두고"
+    },
+    {
+      "t": 40.44,
+      "end": 43.7,
+      "text": "나는 바닥에 앉았어"
+    },
+    {
+      "t": 46.38,
+      "end": 46.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.38,
+      "end": 49.13,
+      "text": "할 말이 없어서"
+    },
+    {
+      "t": 49.47,
+      "end": 51.49,
+      "text": "라면 봉지를 읽어"
+    },
+    {
+      "t": 51.49,
+      "end": 51.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.49,
+      "end": 54.55,
+      "text": "물 오백오십 끓이고"
+    },
+    {
+      "t": 57.27,
+      "end": 60.15,
+      "text": "면이랑 스프 넣고"
+    },
+    {
+      "t": 62.37,
+      "end": 65.53,
+      "text": "사 분 반만 기다려"
+    },
+    {
+      "t": 67.91,
+      "end": 73.31,
+      "text": "나도 기다릴게"
+    },
+    {
+      "t": 73.35,
+      "end": 73.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.35,
+      "end": 76.23,
+      "text": "사흘째엔 밥이 줄었고"
+    },
+    {
+      "t": 78.53,
+      "end": 81.25,
+      "text": "엿새째엔 눈이 보였어"
+    },
+    {
+      "t": 83.97,
+      "end": 87.19,
+      "text": "일곱째 밤엔 꼬리 끝"
+    },
+    {
+      "t": 88.85,
+      "end": 92.31,
+      "text": "여덟째엔 한숨 소리"
+    },
+    {
+      "t": 94.79,
+      "end": 94.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.79,
+      "end": 97.29,
+      "text": "오늘도 똑같이"
+    },
+    {
+      "t": 100.21,
+      "end": 103.09,
+      "text": "봉지 뒷면 읽어"
+    },
+    {
+      "t": 110.85,
+      "end": 110.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.85,
+      "end": 119.11,
+      "text": "물 오백오십 끓이고"
+    },
+    {
+      "t": 132.17,
+      "end": 155.22,
+      "text": "면이랑 스프 넣고"
+    },
+    {
+      "t": 155.22,
+      "end": 157.7,
+      "text": "아홉째 밤 내 발 위에"
+    },
+    {
+      "t": 160.14,
+      "end": 163.44,
+      "text": "네가 앉아 있었어"
+    },
+    {
+      "t": 165.72,
+      "end": 165.72,
+      "text": "[Outro - acoustic guitar and glockenspiel]"
+    },
+    {
+      "t": 165.72,
+      "end": 174.48,
+      "text": "천천히 와도 돼"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

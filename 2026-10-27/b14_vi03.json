@@ -1,0 +1,317 @@
+{
+  "id": "b14_vi03",
+  "title": "Cà Phê Trứng Bảy Giờ",
+  "title_source": "scripted",
+  "genre": "Ngọt-style Vietnamese jangle indie rock",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "tender, stubborn and quietly funny",
+  "persona": "",
+  "subject": "a Sài Gòn guy living in Hà Nội who whisks egg coffee every morning before work, failing for weeks, until he finally gets the thick foam his girlfriend loves from the café on Hàng Gai",
+  "caption": "Vietnamese jangle indie rock in the Ngọt lineage. Jangly clean Telecaster arpeggios up front; a second guitar strumming with a warm chorus pedal; a melodic bass guitar walking under the chords; loose, slightly behind-the-beat live drums; soft Wurlitzer electric piano chords. Slightly lo-fi live-room recording with tape warmth and bright guitars. Male tenor, unpolished and close-miked, half-spoken in the verses and opening up in the chorus. 118 BPM, D major. Tender, stubborn and quietly funny. No ballad strings, no autotune, no EDM, no stadium rock solo, no pop-punk drums.",
+  "lyrics": "[Intro - jangly guitar and loose drums]\n\n[Verse 1]\nSáu giờ sáng, anh đập trứng gà\nTách lòng đỏ, rớt luôn vô bồn\nĐánh với sữa đặc tới mỏi tay\nBọt xẹp xuống như cái bánh hỏng\n\n[Pre-Chorus]\nEm uống thử, em nhăn mặt cười\nGiống trứng chưng hơn cà phê đó anh\n\n[Chorus]\nCà phê trứng bảy giờ\nAnh pha lại, mai anh pha lại\nTới khi bọt dày như quán Hàng Gai\nEm múc muỗng đầu mà không nhăn mặt\n\n[Verse 2]\nAnh ra quán ngồi xem người ta\nĐánh bằng máy, đặt ly trong chén nước nóng\nVề nhà mượn cái máy của mẹ em\nTuần thứ ba bọt đứng được luôn\n\n[Pre-Chorus]\nEm uống một hơi, dính bọt trên mép\nEm bảo thôi, khỏi ra quán nữa\n\n[Chorus]\nCà phê trứng bảy giờ\nAnh pha nữa, mai anh pha nữa\nBọt dày như quán ở Hàng Gai\nMép em dính bọt, anh lau cho\n\n[Outro - guitar and Wurlitzer ring out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Vietnamese jangle indie rock in the Ngọt lineage. Jangly clean Telecaster arpeggios up front; a second guitar strumming with a warm chorus pedal; a melodic bass guitar walking under the chords; loose, slightly behind-the-beat live drums; soft Wurlitzer electric piano chords. Slightly lo-fi live-room recording with tape warmth and bright guitars. Male tenor, unpolished and close-miked, half-spoken in the verses and opening up in the chorus. 118 BPM, D major. Tender, stubborn and quietly funny. No ballad strings, no autotune, no EDM, no stadium rock solo, no pop-punk drums.",
+    "lyrics": "[Intro - jangly guitar and loose drums]\n\n[Verse 1]\nSáu giờ sáng, anh đập trứng gà\nTách lòng đỏ, rớt luôn vô bồn\nĐánh với sữa đặc tới mỏi tay\nBọt xẹp xuống như cái bánh hỏng\n\n[Pre-Chorus]\nEm uống thử, em nhăn mặt cười\nGiống trứng chưng hơn cà phê đó anh\n\n[Chorus]\nCà phê trứng bảy giờ\nAnh pha lại, mai anh pha lại\nTới khi bọt dày như quán Hàng Gai\nEm múc muỗng đầu mà không nhăn mặt\n\n[Verse 2]\nAnh ra quán ngồi xem người ta\nĐánh bằng máy, đặt ly trong chén nước nóng\nVề nhà mượn cái máy của mẹ em\nTuần thứ ba bọt đứng được luôn\n\n[Pre-Chorus]\nEm uống một hơi, dính bọt trên mép\nEm bảo thôi, khỏi ra quán nữa\n\n[Chorus]\nCà phê trứng bảy giờ\nAnh pha nữa, mai anh pha nữa\nBọt dày như quán ở Hàng Gai\nMép em dính bọt, anh lau cho\n\n[Outro - guitar and Wurlitzer ring out]"
+  },
+  "seed": "1451183701",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.37s**\n- 68.37s per song\n- LM phase (1 song): 13.78s\n- DiT phase (1 song): 54.58s",
+  "task_id": "8937c3e6-8972-4453-9db0-5638c614cfb4",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-27T12:34:52.521293+08:00",
+  "audio": "b14_vi03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.88,
+      "end": 34.88,
+      "text": "[Intro - jangly guitar and loose drums]"
+    },
+    {
+      "t": 34.88,
+      "end": 34.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.88,
+      "end": 37.58,
+      "text": "Sáu giờ sáng, anh đập trứng gà"
+    },
+    {
+      "t": 38.18,
+      "end": 41.28,
+      "text": "Tách lòng đỏ, rớt luôn vô bồn"
+    },
+    {
+      "t": 43.08,
+      "end": 45.92,
+      "text": "Đánh với sữa đặc tới mỏi tay"
+    },
+    {
+      "t": 46.82,
+      "end": 50.16,
+      "text": "Bọt xẹp xuống như cái bánh hỏng"
+    },
+    {
+      "t": 51.2,
+      "end": 51.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.2,
+      "end": 54.07,
+      "text": "Em uống thử, em nhăn mặt cười"
+    },
+    {
+      "t": 54.67,
+      "end": 58.11,
+      "text": "Giống trứng chưng hơn cà phê đó anh"
+    },
+    {
+      "t": 60.01,
+      "end": 60.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.01,
+      "end": 61.93,
+      "text": "Cà phê trứng bảy giờ"
+    },
+    {
+      "t": 64.09,
+      "end": 66.61,
+      "text": "Anh pha lại, mai anh pha lại"
+    },
+    {
+      "t": 68.13,
+      "end": 71.31,
+      "text": "Tới khi bọt dày như quán Hàng Gai"
+    },
+    {
+      "t": 71.99,
+      "end": 75.23,
+      "text": "Em múc muỗng đầu mà không nhăn mặt"
+    },
+    {
+      "t": 83.33,
+      "end": 83.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.33,
+      "end": 86.69,
+      "text": "Anh ra quán ngồi xem người ta"
+    },
+    {
+      "t": 88.69,
+      "end": 91.51,
+      "text": "Đánh bằng máy, đặt ly trong chén nước nóng"
+    },
+    {
+      "t": 92.45,
+      "end": 95.79,
+      "text": "Về nhà mượn cái máy của mẹ em"
+    },
+    {
+      "t": 96.53,
+      "end": 99.73,
+      "text": "Tuần thứ ba bọt đứng được luôn"
+    },
+    {
+      "t": 100.93,
+      "end": 100.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.93,
+      "end": 104.05,
+      "text": "Em uống một hơi, dính bọt trên mép"
+    },
+    {
+      "t": 104.97,
+      "end": 108.77,
+      "text": "Em bảo thôi, khỏi ra quán nữa"
+    },
+    {
+      "t": 108.87,
+      "end": 108.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.87,
+      "end": 166.64,
+      "text": "Cà phê trứng bảy giờ"
+    },
+    {
+      "t": 166.78,
+      "end": 169.82,
+      "text": "Anh pha nữa, mai anh pha nữa"
+    },
+    {
+      "t": 170.82,
+      "end": 174.06,
+      "text": "Bọt dày như quán ở Hàng Gai"
+    },
+    {
+      "t": 174.66,
+      "end": 194.76,
+      "text": "Mép em dính bọt, anh lau cho"
+    },
+    {
+      "t": 194.76,
+      "end": 194.76,
+      "text": "[Outro - guitar and Wurlitzer ring out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.88,
+      "end": 34.88,
+      "text": "[Intro - jangly guitar and loose drums]"
+    },
+    {
+      "t": 34.88,
+      "end": 34.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.88,
+      "end": 37.58,
+      "text": "Sáu giờ sáng, anh đập trứng gà"
+    },
+    {
+      "t": 38.18,
+      "end": 41.32,
+      "text": "Tách lòng đỏ, rớt luôn vô bồn"
+    },
+    {
+      "t": 43.08,
+      "end": 45.92,
+      "text": "Đánh với sữa đặc tới mỏi tay"
+    },
+    {
+      "t": 46.82,
+      "end": 50.16,
+      "text": "Bọt xẹp xuống như cái bánh hỏng"
+    },
+    {
+      "t": 51.2,
+      "end": 51.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.2,
+      "end": 54.07,
+      "text": "Em uống thử, em nhăn mặt cười"
+    },
+    {
+      "t": 54.67,
+      "end": 58.11,
+      "text": "Giống trứng chưng hơn cà phê đó anh"
+    },
+    {
+      "t": 60.01,
+      "end": 60.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.01,
+      "end": 61.93,
+      "text": "Cà phê trứng bảy giờ"
+    },
+    {
+      "t": 64.09,
+      "end": 66.61,
+      "text": "Anh pha lại, mai anh pha lại"
+    },
+    {
+      "t": 68.11,
+      "end": 71.31,
+      "text": "Tới khi bọt dày như quán Hàng Gai"
+    },
+    {
+      "t": 71.99,
+      "end": 75.23,
+      "text": "Em múc muỗng đầu mà không nhăn mặt"
+    },
+    {
+      "t": 83.33,
+      "end": 83.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.33,
+      "end": 86.69,
+      "text": "Anh ra quán ngồi xem người ta"
+    },
+    {
+      "t": 88.69,
+      "end": 91.53,
+      "text": "Đánh bằng máy, đặt ly trong chén nước nóng"
+    },
+    {
+      "t": 92.43,
+      "end": 95.81,
+      "text": "Về nhà mượn cái máy của mẹ em"
+    },
+    {
+      "t": 96.53,
+      "end": 99.75,
+      "text": "Tuần thứ ba bọt đứng được luôn"
+    },
+    {
+      "t": 100.93,
+      "end": 100.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.93,
+      "end": 104.05,
+      "text": "Em uống một hơi, dính bọt trên mép"
+    },
+    {
+      "t": 104.97,
+      "end": 108.41,
+      "text": "Em bảo thôi, khỏi ra quán nữa"
+    },
+    {
+      "t": 108.41,
+      "end": 108.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.41,
+      "end": 166.74,
+      "text": "Cà phê trứng bảy giờ"
+    },
+    {
+      "t": 166.76,
+      "end": 169.66,
+      "text": "Anh pha nữa, mai anh pha nữa"
+    },
+    {
+      "t": 170.82,
+      "end": 174.06,
+      "text": "Bọt dày như quán ở Hàng Gai"
+    },
+    {
+      "t": 174.66,
+      "end": 179.52,
+      "text": "Mép em dính bọt, anh lau cho"
+    },
+    {
+      "t": 179.52,
+      "end": 179.52,
+      "text": "[Outro - guitar and Wurlitzer ring out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

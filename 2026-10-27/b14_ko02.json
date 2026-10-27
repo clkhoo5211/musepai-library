@@ -1,0 +1,474 @@
+{
+  "id": "b14_ko02",
+  "title": "오픈 기념",
+  "title_source": "scripted",
+  "genre": "distorted-bass grunge hip-hop dance pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "sweaty, cocky and ridiculous",
+  "persona": "",
+  "subject": "a college student working a one-day part-time job inside a giant smiling SIM-card mascot costume outside a phone shop's grand opening in July, dancing every time the MC shouts 'music!', unable to see more than a mesh slit, high-fiving kids and a confused delivery rider",
+  "caption": "Distorted-bass grunge hip-hop dance pop, mid-2020s girl-group style. Heavily saturated distorted sub bass riff, grungy detuned electric guitar stabs on the offbeats, dry boom-clap drum machine, glitchy synth blips between bars, gang shouts on the hook. Gritty saturated low end, dry punchy vocals, stop-start breaks that cut to silence. Male low-register rap-sing with a deadpan, confident delivery. 104 BPM, F# minor. Sweaty, cocky and ridiculous. No autotune, no trap hi-hat rolls, no EDM supersaw drop, no ballad bridge, no pop-punk guitars.",
+  "lyrics": "[Intro - distorted bass riff, boom-clap, gang shout \"음악!\"]\n\n[Verse 1]\n일당 십이만 원\n웃는 유심칩 탈을 썼지\n앞은 망사 구멍 두 개\n등에서 땀이 흘러\n\n[Pre-Chorus]\n사회자가 외쳐\n음악 큐 들어가\n\n[Chorus]\n오픈 기념 춤을 춰\n팔을 돌리고 엉덩이 흔들어\n풍선 아치 아래서\n사은품은 휴지 한 묶음\n\n[Verse 2]\n꼬마들이 하이파이브\n배달 기사님도 멈춰\n뭐 하는 건지 몰라도\n박자는 맞추네\n\n[Pre-Chorus]\n물 한 모금 쉬는 시간\n사회자가 또 음악\n\n[Chorus]\n오픈 기념 춤을 춰\n팔을 돌리고 엉덩이 흔들어\n해가 질 때까지\n웃는 얼굴은 안 벗어\n\n[Outro - bass riff cuts out, gang shout]\n오픈 기념",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 184.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Distorted-bass grunge hip-hop dance pop, mid-2020s girl-group style. Heavily saturated distorted sub bass riff, grungy detuned electric guitar stabs on the offbeats, dry boom-clap drum machine, glitchy synth blips between bars, gang shouts on the hook. Gritty saturated low end, dry punchy vocals, stop-start breaks that cut to silence. Male low-register rap-sing with a deadpan, confident delivery. 104 BPM, F# minor. Sweaty, cocky and ridiculous. No autotune, no trap hi-hat rolls, no EDM supersaw drop, no ballad bridge, no pop-punk guitars.",
+    "lyrics": "[Intro - distorted bass riff, boom-clap, gang shout \"음악!\"]\n\n[Verse 1]\n일당 십이만 원\n웃는 유심칩 탈을 썼지\n앞은 망사 구멍 두 개\n등에서 땀이 흘러\n\n[Pre-Chorus]\n사회자가 외쳐\n음악 큐 들어가\n\n[Chorus]\n오픈 기념 춤을 춰\n팔을 돌리고 엉덩이 흔들어\n풍선 아치 아래서\n사은품은 휴지 한 묶음\n\n[Verse 2]\n꼬마들이 하이파이브\n배달 기사님도 멈춰\n뭐 하는 건지 몰라도\n박자는 맞추네\n\n[Pre-Chorus]\n물 한 모금 쉬는 시간\n사회자가 또 음악\n\n[Chorus]\n오픈 기념 춤을 춰\n팔을 돌리고 엉덩이 흔들어\n해가 질 때까지\n웃는 얼굴은 안 벗어\n\n[Outro - bass riff cuts out, gang shout]\n오픈 기념"
+  },
+  "seed": "2933794086",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.13s**\n- 60.13s per song\n- LM phase (1 song): 14.62s\n- DiT phase (1 song): 45.51s",
+  "task_id": "27c134fd-4c3e-41ea-9f35-f56a939303e6",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-27T12:09:49.247486+08:00",
+  "audio": "b14_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 43.42,
+      "end": 43.42,
+      "text": "[Intro - distorted bass riff, boom-clap, gang shout \"음악!\"]"
+    },
+    {
+      "t": 43.42,
+      "end": 43.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.42,
+      "end": 45.82,
+      "text": "일당 십이만 원"
+    },
+    {
+      "t": 46.05,
+      "end": 47.85,
+      "text": "웃는 유심칩 탈을 썼지"
+    },
+    {
+      "t": 49.55,
+      "end": 52.51,
+      "text": "앞은 망사 구멍 두 개"
+    },
+    {
+      "t": 52.59,
+      "end": 58.65,
+      "text": "등에서 땀이 흘러"
+    },
+    {
+      "t": 58.85,
+      "end": 58.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.85,
+      "end": 60.09,
+      "text": "사회자가 외쳐"
+    },
+    {
+      "t": 60.09,
+      "end": 63.77,
+      "text": "음악 큐 들어가"
+    },
+    {
+      "t": 63.83,
+      "end": 63.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.83,
+      "end": 65.23,
+      "text": "오픈 기념 춤을 춰"
+    },
+    {
+      "t": 65.41,
+      "end": 69.31,
+      "text": "팔을 돌리고 엉덩이 흔들어"
+    },
+    {
+      "t": 69.59,
+      "end": 75.25,
+      "text": "풍선 아치 아래서"
+    },
+    {
+      "t": 81.21,
+      "end": 91.45,
+      "text": "사은품은 휴지 한 묶음"
+    },
+    {
+      "t": 91.47,
+      "end": 91.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.47,
+      "end": 94.07,
+      "text": "꼬마들이 하이파이브"
+    },
+    {
+      "t": 94.45,
+      "end": 96.51,
+      "text": "배달 기사님도 멈춰"
+    },
+    {
+      "t": 96.61,
+      "end": 99.25,
+      "text": "뭐 하는 건지 몰라도"
+    },
+    {
+      "t": 99.33,
+      "end": 103.13,
+      "text": "박자는 맞추네"
+    },
+    {
+      "t": 103.53,
+      "end": 103.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.53,
+      "end": 106.51,
+      "text": "물 한 모금 쉬는 시간"
+    },
+    {
+      "t": 106.65,
+      "end": 147.32,
+      "text": "사회자가 또 음악"
+    },
+    {
+      "t": 147.4,
+      "end": 147.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.4,
+      "end": 149.48,
+      "text": "오픈 기념 춤을 춰"
+    },
+    {
+      "t": 151.66,
+      "end": 154.36,
+      "text": "팔을 돌리고 엉덩이 흔들어"
+    },
+    {
+      "t": 156.54,
+      "end": 158.7,
+      "text": "해가 질 때까지"
+    },
+    {
+      "t": 160.54,
+      "end": 163.68,
+      "text": "웃는 얼굴은 안 벗어"
+    },
+    {
+      "t": 165.82,
+      "end": 165.82,
+      "text": "[Outro - bass riff cuts out, gang shout]"
+    },
+    {
+      "t": 165.82,
+      "end": 181.08,
+      "text": "오픈 기념"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 43.42,
+      "end": 43.42,
+      "text": "[Intro - distorted bass riff, boom-clap, gang shout \"음악!\"]"
+    },
+    {
+      "t": 43.42,
+      "end": 43.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.42,
+      "end": 45.82,
+      "text": "일당 십이만 원"
+    },
+    {
+      "t": 46.05,
+      "end": 47.85,
+      "text": "웃는 유심칩 탈을 썼지"
+    },
+    {
+      "t": 49.55,
+      "end": 52.51,
+      "text": "앞은 망사 구멍 두 개"
+    },
+    {
+      "t": 52.59,
+      "end": 58.65,
+      "text": "등에서 땀이 흘러"
+    },
+    {
+      "t": 58.85,
+      "end": 58.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.85,
+      "end": 60.09,
+      "text": "사회자가 외쳐"
+    },
+    {
+      "t": 60.09,
+      "end": 63.77,
+      "text": "음악 큐 들어가"
+    },
+    {
+      "t": 63.83,
+      "end": 63.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.83,
+      "end": 65.23,
+      "text": "오픈 기념 춤을 춰"
+    },
+    {
+      "t": 65.41,
+      "end": 69.31,
+      "text": "팔을 돌리고 엉덩이 흔들어"
+    },
+    {
+      "t": 69.59,
+      "end": 75.25,
+      "text": "풍선 아치 아래서"
+    },
+    {
+      "t": 81.21,
+      "end": 91.45,
+      "text": "사은품은 휴지 한 묶음"
+    },
+    {
+      "t": 91.47,
+      "end": 91.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.47,
+      "end": 94.07,
+      "text": "꼬마들이 하이파이브"
+    },
+    {
+      "t": 94.45,
+      "end": 96.51,
+      "text": "배달 기사님도 멈춰"
+    },
+    {
+      "t": 96.61,
+      "end": 99.25,
+      "text": "뭐 하는 건지 몰라도"
+    },
+    {
+      "t": 99.33,
+      "end": 103.13,
+      "text": "박자는 맞추네"
+    },
+    {
+      "t": 103.53,
+      "end": 103.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.53,
+      "end": 106.51,
+      "text": "물 한 모금 쉬는 시간"
+    },
+    {
+      "t": 106.65,
+      "end": 147.32,
+      "text": "사회자가 또 음악"
+    },
+    {
+      "t": 147.4,
+      "end": 147.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.4,
+      "end": 149.48,
+      "text": "오픈 기념 춤을 춰"
+    },
+    {
+      "t": 151.66,
+      "end": 154.36,
+      "text": "팔을 돌리고 엉덩이 흔들어"
+    },
+    {
+      "t": 156.54,
+      "end": 158.7,
+      "text": "해가 질 때까지"
+    },
+    {
+      "t": 160.54,
+      "end": 163.68,
+      "text": "웃는 얼굴은 안 벗어"
+    },
+    {
+      "t": 165.82,
+      "end": 165.82,
+      "text": "[Outro - bass riff cuts out, gang shout]"
+    },
+    {
+      "t": 165.82,
+      "end": 181.08,
+      "text": "오픈 기념"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 43.42,
+      "end": 43.42,
+      "text": "[Intro - distorted bass riff, boom-clap, gang shout \"음악!\"]"
+    },
+    {
+      "t": 43.42,
+      "end": 43.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.42,
+      "end": 45.82,
+      "text": "일당 십이만 원"
+    },
+    {
+      "t": 46.07,
+      "end": 47.85,
+      "text": "웃는 유심칩 탈을 썼지"
+    },
+    {
+      "t": 49.57,
+      "end": 52.07,
+      "text": "앞은 망사 구멍 두 개"
+    },
+    {
+      "t": 52.59,
+      "end": 54.67,
+      "text": "등에서 땀이 흘러"
+    },
+    {
+      "t": 54.81,
+      "end": 54.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.81,
+      "end": 58.67,
+      "text": "사회자가 외쳐"
+    },
+    {
+      "t": 58.73,
+      "end": 60.27,
+      "text": "음악 큐 들어가"
+    },
+    {
+      "t": 60.63,
+      "end": 60.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.63,
+      "end": 65.23,
+      "text": "오픈 기념 춤을 춰"
+    },
+    {
+      "t": 65.91,
+      "end": 69.31,
+      "text": "팔을 돌리고 엉덩이 흔들어"
+    },
+    {
+      "t": 69.59,
+      "end": 73.87,
+      "text": "풍선 아치 아래서"
+    },
+    {
+      "t": 74.09,
+      "end": 83.81,
+      "text": "사은품은 휴지 한 묶음"
+    },
+    {
+      "t": 84.63,
+      "end": 84.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.63,
+      "end": 93.95,
+      "text": "꼬마들이 하이파이브"
+    },
+    {
+      "t": 94.45,
+      "end": 97.45,
+      "text": "배달 기사님도 멈춰"
+    },
+    {
+      "t": 97.51,
+      "end": 130.99,
+      "text": "뭐 하는 건지 몰라도"
+    },
+    {
+      "t": 132.35,
+      "end": 141.28,
+      "text": "박자는 맞추네"
+    },
+    {
+      "t": 141.38,
+      "end": 141.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 141.38,
+      "end": 142.32,
+      "text": "물 한 모금 쉬는 시간"
+    },
+    {
+      "t": 142.36,
+      "end": 143.34,
+      "text": "사회자가 또 음악"
+    },
+    {
+      "t": 143.34,
+      "end": 143.34,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.34,
+      "end": 149.48,
+      "text": "오픈 기념 춤을 춰"
+    },
+    {
+      "t": 151.66,
+      "end": 154.36,
+      "text": "팔을 돌리고 엉덩이 흔들어"
+    },
+    {
+      "t": 156.52,
+      "end": 158.7,
+      "text": "해가 질 때까지"
+    },
+    {
+      "t": 160.62,
+      "end": 163.7,
+      "text": "웃는 얼굴은 안 벗어"
+    },
+    {
+      "t": 165.82,
+      "end": 165.82,
+      "text": "[Outro - bass riff cuts out, gang shout]"
+    },
+    {
+      "t": 165.82,
+      "end": 181.12,
+      "text": "오픈 기념"
+    }
+  ]
+}

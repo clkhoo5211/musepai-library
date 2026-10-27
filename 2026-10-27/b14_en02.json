@@ -1,0 +1,337 @@
+{
+  "id": "b14_en02",
+  "title": "Sunday Collars",
+  "title_source": "scripted",
+  "genre": "new jack swing revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, teasing and quietly smitten",
+  "persona": "",
+  "subject": "a woman teaching her new boyfriend to iron his own work shirts on a Sunday night: steam hissing, collars first, and the one blue shirt he scorches, which she keeps as a nightshirt",
+  "caption": "New jack swing revival, late-80s Teddy Riley swing groove with 2020s polish. Swung drum-machine beat with a big gated snare and shuffling hi-hats; a bouncing synth bass; bright DX-style electric piano stabs on the offbeats; slap bass fills and finger snaps between lines. Glossy late-80s mix with modern low end, close lead vocal. Male tenor, smooth R&B lead with stacked falsetto harmonies on the hook. 104 BPM, Bb major. Tender, teasing and quietly smitten. No trap drums, no autotune, no modern pop drop, no rock guitar solo, no ballad tempo.",
+  "lyrics": "[Intro - gated snare, electric piano stabs, snaps]\n\n[Verse 1]\nSunday night, the board squeaks open wide\nFive white shirts are piled up by my side\nYou fill the iron, tap it twice\nSay collars first, I'll say it nice\n\n[Pre-Chorus]\nSteam goes hiss across the room\nYou hum along to the tune\n\n[Chorus]\nCollar, cuffs, then the sleeves\nYour hand on mine, I don't want to leave\nCollar, cuffs, then the back\nKeep teaching me slow like that\n\n[Verse 2]\nPhone goes off, I turn to look\nSmoke comes up like a burning book\nMy one blue shirt, a brown iron mark\nYou laugh and say, well, that's your mark\n\n[Chorus]\nCollar, cuffs, then the sleeves\nYou grab the blue one, say it's yours to keep\nCollar, cuffs, then the back\nYou wear it now, I want it back\n\n[Bridge - bass and snaps only]\nMonday morning, collar crisp and new\nStill smells like Sunday, steam and you\n\n[Outro - stacked falsetto, piano stabs fade]\nCollar, cuffs, collar, cuffs\nSunday nights with you are enough",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "New jack swing revival, late-80s Teddy Riley swing groove with 2020s polish. Swung drum-machine beat with a big gated snare and shuffling hi-hats; a bouncing synth bass; bright DX-style electric piano stabs on the offbeats; slap bass fills and finger snaps between lines. Glossy late-80s mix with modern low end, close lead vocal. Male tenor, smooth R&B lead with stacked falsetto harmonies on the hook. 104 BPM, Bb major. Tender, teasing and quietly smitten. No trap drums, no autotune, no modern pop drop, no rock guitar solo, no ballad tempo.",
+    "lyrics": "[Intro - gated snare, electric piano stabs, snaps]\n\n[Verse 1]\nSunday night, the board squeaks open wide\nFive white shirts are piled up by my side\nYou fill the iron, tap it twice\nSay collars first, I'll say it nice\n\n[Pre-Chorus]\nSteam goes hiss across the room\nYou hum along to the tune\n\n[Chorus]\nCollar, cuffs, then the sleeves\nYour hand on mine, I don't want to leave\nCollar, cuffs, then the back\nKeep teaching me slow like that\n\n[Verse 2]\nPhone goes off, I turn to look\nSmoke comes up like a burning book\nMy one blue shirt, a brown iron mark\nYou laugh and say, well, that's your mark\n\n[Chorus]\nCollar, cuffs, then the sleeves\nYou grab the blue one, say it's yours to keep\nCollar, cuffs, then the back\nYou wear it now, I want it back\n\n[Bridge - bass and snaps only]\nMonday morning, collar crisp and new\nStill smells like Sunday, steam and you\n\n[Outro - stacked falsetto, piano stabs fade]\nCollar, cuffs, collar, cuffs\nSunday nights with you are enough"
+  },
+  "seed": "2928233686",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.63s**\n- 61.63s per song\n- LM phase (1 song): 13.39s\n- DiT phase (1 song): 48.24s",
+  "task_id": "15166ce2-fe86-4e65-8038-1158bd0f4b14",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-27T12:48:04.033259+08:00",
+  "audio": "b14_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Intro - gated snare, electric piano stabs, snaps]"
+    },
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.62,
+      "end": 29.86,
+      "text": "Sunday night, the board squeaks open wide"
+    },
+    {
+      "t": 33.46,
+      "end": 42.94,
+      "text": "Five white shirts are piled up by my side"
+    },
+    {
+      "t": 42.94,
+      "end": 47.58,
+      "text": "You fill the iron, tap it twice"
+    },
+    {
+      "t": 49.16,
+      "end": 52.05,
+      "text": "Say collars first, I'll say it nice"
+    },
+    {
+      "t": 52.11,
+      "end": 52.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.11,
+      "end": 59.85,
+      "text": "Steam goes hiss across the room"
+    },
+    {
+      "t": 59.85,
+      "end": 61.25,
+      "text": "You hum along to the tune"
+    },
+    {
+      "t": 61.49,
+      "end": 61.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.49,
+      "end": 64.35,
+      "text": "Collar, cuffs, then the sleeves"
+    },
+    {
+      "t": 70.41,
+      "end": 75.09,
+      "text": "Your hand on mine, I don't want to leave"
+    },
+    {
+      "t": 79.83,
+      "end": 82.25,
+      "text": "Collar, cuffs, then the back"
+    },
+    {
+      "t": 82.27,
+      "end": 90.61,
+      "text": "Keep teaching me slow like that"
+    },
+    {
+      "t": 90.61,
+      "end": 90.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.61,
+      "end": 91.45,
+      "text": "Phone goes off, I turn to look"
+    },
+    {
+      "t": 93.29,
+      "end": 98.03,
+      "text": "Smoke comes up like a burning book"
+    },
+    {
+      "t": 100.35,
+      "end": 102.53,
+      "text": "My one blue shirt, a brown iron mark"
+    },
+    {
+      "t": 102.53,
+      "end": 103.49,
+      "text": "You laugh and say, well, that's your mark"
+    },
+    {
+      "t": 103.49,
+      "end": 103.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.49,
+      "end": 107.29,
+      "text": "Collar, cuffs, then the sleeves"
+    },
+    {
+      "t": 107.29,
+      "end": 116.75,
+      "text": "You grab the blue one, say it's yours to keep"
+    },
+    {
+      "t": 116.75,
+      "end": 118.17,
+      "text": "Collar, cuffs, then the back"
+    },
+    {
+      "t": 118.17,
+      "end": 132.75,
+      "text": "You wear it now, I want it back"
+    },
+    {
+      "t": 133.31,
+      "end": 133.31,
+      "text": "[Bridge - bass and snaps only]"
+    },
+    {
+      "t": 133.31,
+      "end": 136.63,
+      "text": "Monday morning, collar crisp and new"
+    },
+    {
+      "t": 138.37,
+      "end": 155.5,
+      "text": "Still smells like Sunday, steam and you"
+    },
+    {
+      "t": 165.7,
+      "end": 165.7,
+      "text": "[Outro - stacked falsetto, piano stabs fade]"
+    },
+    {
+      "t": 165.7,
+      "end": 170.7,
+      "text": "Collar, cuffs, collar, cuffs"
+    },
+    {
+      "t": 172.96,
+      "end": 194.48,
+      "text": "Sunday nights with you are enough"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Intro - gated snare, electric piano stabs, snaps]"
+    },
+    {
+      "t": 24.62,
+      "end": 24.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.62,
+      "end": 28.3,
+      "text": "Sunday night, the board squeaks open wide"
+    },
+    {
+      "t": 33.52,
+      "end": 37.3,
+      "text": "Five white shirts are piled up by my side"
+    },
+    {
+      "t": 42.92,
+      "end": 44.18,
+      "text": "You fill the iron, tap it twice"
+    },
+    {
+      "t": 44.22,
+      "end": 45.92,
+      "text": "Say collars first, I'll say it nice"
+    },
+    {
+      "t": 49.16,
+      "end": 49.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.16,
+      "end": 52.65,
+      "text": "Steam goes hiss across the room"
+    },
+    {
+      "t": 58.97,
+      "end": 61.27,
+      "text": "You hum along to the tune"
+    },
+    {
+      "t": 61.49,
+      "end": 61.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.49,
+      "end": 64.31,
+      "text": "Collar, cuffs, then the sleeves"
+    },
+    {
+      "t": 70.39,
+      "end": 73.07,
+      "text": "Your hand on mine, I don't want to leave"
+    },
+    {
+      "t": 79.83,
+      "end": 88.89,
+      "text": "Collar, cuffs, then the back"
+    },
+    {
+      "t": 88.91,
+      "end": 89.85,
+      "text": "Keep teaching me slow like that"
+    },
+    {
+      "t": 89.85,
+      "end": 89.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.85,
+      "end": 91.45,
+      "text": "Phone goes off, I turn to look"
+    },
+    {
+      "t": 93.29,
+      "end": 96.27,
+      "text": "Smoke comes up like a burning book"
+    },
+    {
+      "t": 100.33,
+      "end": 102.53,
+      "text": "My one blue shirt, a brown iron mark"
+    },
+    {
+      "t": 102.53,
+      "end": 107.79,
+      "text": "You laugh and say, well, that's your mark"
+    },
+    {
+      "t": 107.87,
+      "end": 107.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.87,
+      "end": 109.97,
+      "text": "Collar, cuffs, then the sleeves"
+    },
+    {
+      "t": 109.97,
+      "end": 117.51,
+      "text": "You grab the blue one, say it's yours to keep"
+    },
+    {
+      "t": 117.57,
+      "end": 119.03,
+      "text": "Collar, cuffs, then the back"
+    },
+    {
+      "t": 119.03,
+      "end": 128.51,
+      "text": "You wear it now, I want it back"
+    },
+    {
+      "t": 133.29,
+      "end": 133.29,
+      "text": "[Bridge - bass and snaps only]"
+    },
+    {
+      "t": 133.29,
+      "end": 136.67,
+      "text": "Monday morning, collar crisp and new"
+    },
+    {
+      "t": 138.37,
+      "end": 142.61,
+      "text": "Still smells like Sunday, steam and you"
+    },
+    {
+      "t": 147.55,
+      "end": 147.55,
+      "text": "[Outro - stacked falsetto, piano stabs fade]"
+    },
+    {
+      "t": 147.55,
+      "end": 166.94,
+      "text": "Collar, cuffs, collar, cuffs"
+    },
+    {
+      "t": 167.14,
+      "end": 191.96,
+      "text": "Sunday nights with you are enough"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
