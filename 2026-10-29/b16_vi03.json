@@ -1,0 +1,307 @@
+{
+  "id": "b16_vi03",
+  "title": "Con Vẹt Bấm Còi",
+  "title_source": "scripted",
+  "genre": "Vietnamese leftfield breakbeat",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "mischievous, chaotic, giggly",
+  "persona": "",
+  "subject": "a parrot in a Gò Vấp alley in Sài Gòn that learns to copy its owner's scooter horn, so every neighbour keeps stepping aside for a motorbike that never comes",
+  "caption": "Vietnamese leftfield breakbeat, Saigon underground club style. Chopped amen-style drum break skipping and stuttering; warbly acid bassline squelching up and down; detuned toy piano poking short phrases; clanging hand-percussion on metal pots. Gritty lo-fi sampler crunch, wide stereo percussion, short slap delay. Female bright chanting mid voice in Vietnamese, playful and clear. 132 BPM, G minor. Mischievous, chaotic and giggly. No pop chorus synths, no trap, no autotune, no four-on-the-floor house kick, no ballad.",
+  "lyrics": "[Intro - drum break and toy piano]\n\n[Verse 1]\nCon vẹt nhà ông Tư\nNgồi trên cây khế đầu hẻm\nNghe ông bấm còi mỗi sáng\nNó học lẹ hơn học trò\n\n[Pre-Chorus]\nBin bin, bin bin\nCả hẻm nép sát vô tường\n\n[Chorus]\nCon vẹt bấm còi, ai cũng né\nQuay lại nhìn chẳng có xe\nCô bán xôi ôm mâm chạy\nCon vẹt cười như ai trêu\n\n[Verse 2]\nÔng Tư đổi còi xe mới\nKêu tít tít nghe dễ thương\nVậy mà vẹt không chịu đổi\nVẫn bin bin suốt ngày\n\n[Chorus]\nCon vẹt bấm còi, ai cũng né\nGiờ ông Tư cũng phải né\nÔng đứng giữa hẻm chửi nó\nNó bin bin trả lời\n\n[Outro - acid bass and pots, break cuts out]\nBin bin, bin bin\nHẻm này giờ có hai xe",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese leftfield breakbeat, Saigon underground club style. Chopped amen-style drum break skipping and stuttering; warbly acid bassline squelching up and down; detuned toy piano poking short phrases; clanging hand-percussion on metal pots. Gritty lo-fi sampler crunch, wide stereo percussion, short slap delay. Female bright chanting mid voice in Vietnamese, playful and clear. 132 BPM, G minor. Mischievous, chaotic and giggly. No pop chorus synths, no trap, no autotune, no four-on-the-floor house kick, no ballad.",
+    "lyrics": "[Intro - drum break and toy piano]\n\n[Verse 1]\nCon vẹt nhà ông Tư\nNgồi trên cây khế đầu hẻm\nNghe ông bấm còi mỗi sáng\nNó học lẹ hơn học trò\n\n[Pre-Chorus]\nBin bin, bin bin\nCả hẻm nép sát vô tường\n\n[Chorus]\nCon vẹt bấm còi, ai cũng né\nQuay lại nhìn chẳng có xe\nCô bán xôi ôm mâm chạy\nCon vẹt cười như ai trêu\n\n[Verse 2]\nÔng Tư đổi còi xe mới\nKêu tít tít nghe dễ thương\nVậy mà vẹt không chịu đổi\nVẫn bin bin suốt ngày\n\n[Chorus]\nCon vẹt bấm còi, ai cũng né\nGiờ ông Tư cũng phải né\nÔng đứng giữa hẻm chửi nó\nNó bin bin trả lời\n\n[Outro - acid bass and pots, break cuts out]\nBin bin, bin bin\nHẻm này giờ có hai xe"
+  },
+  "seed": "596508883",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.87s**\n- 72.87s per song\n- LM phase (1 song): 15.11s\n- DiT phase (1 song): 57.75s",
+  "task_id": "868daef2-98e6-4e4e-b57f-94c03713a38e",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-10-29T15:16:16.713981+08:00",
+  "audio": "b16_vi03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.4,
+      "end": 0.4,
+      "text": "[Intro - drum break and toy piano]"
+    },
+    {
+      "t": 0.4,
+      "end": 0.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.4,
+      "end": 7.78,
+      "text": "Con vẹt nhà ông Tư"
+    },
+    {
+      "t": 8.64,
+      "end": 31.32,
+      "text": "Ngồi trên cây khế đầu hẻm"
+    },
+    {
+      "t": 31.32,
+      "end": 32.7,
+      "text": "Nghe ông bấm còi mỗi sáng"
+    },
+    {
+      "t": 34.74,
+      "end": 36.9,
+      "text": "Nó học lẹ hơn học trò"
+    },
+    {
+      "t": 38.38,
+      "end": 38.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.38,
+      "end": 39.74,
+      "text": "Bin bin, bin bin"
+    },
+    {
+      "t": 40.64,
+      "end": 43.12,
+      "text": "Cả hẻm nép sát vô tường"
+    },
+    {
+      "t": 46.57,
+      "end": 46.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.57,
+      "end": 50.11,
+      "text": "Con vẹt bấm còi, ai cũng né"
+    },
+    {
+      "t": 50.41,
+      "end": 53.71,
+      "text": "Quay lại nhìn chẳng có xe"
+    },
+    {
+      "t": 53.85,
+      "end": 57.49,
+      "text": "Cô bán xôi ôm mâm chạy"
+    },
+    {
+      "t": 57.69,
+      "end": 59.37,
+      "text": "Con vẹt cười như ai trêu"
+    },
+    {
+      "t": 77.53,
+      "end": 77.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.53,
+      "end": 79.73,
+      "text": "Ông Tư đổi còi xe mới"
+    },
+    {
+      "t": 81.11,
+      "end": 83.09,
+      "text": "Kêu tít tít nghe dễ thương"
+    },
+    {
+      "t": 84.29,
+      "end": 86.71,
+      "text": "Vậy mà vẹt không chịu đổi"
+    },
+    {
+      "t": 88.37,
+      "end": 90.31,
+      "text": "Vẫn bin bin suốt ngày"
+    },
+    {
+      "t": 94.09,
+      "end": 94.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.09,
+      "end": 96.69,
+      "text": "Con vẹt bấm còi, ai cũng né"
+    },
+    {
+      "t": 98.13,
+      "end": 100.35,
+      "text": "Giờ ông Tư cũng phải né"
+    },
+    {
+      "t": 101.89,
+      "end": 104.21,
+      "text": "Ông đứng giữa hẻm chửi nó"
+    },
+    {
+      "t": 105.43,
+      "end": 107.89,
+      "text": "Nó bin bin trả lời"
+    },
+    {
+      "t": 116.81,
+      "end": 116.81,
+      "text": "[Outro - acid bass and pots, break cuts out]"
+    },
+    {
+      "t": 116.81,
+      "end": 123.91,
+      "text": "Bin bin, bin bin"
+    },
+    {
+      "t": 125.43,
+      "end": 154.2,
+      "text": "Hẻm này giờ có hai xe"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.4,
+      "end": 0.4,
+      "text": "[Intro - drum break and toy piano]"
+    },
+    {
+      "t": 0.4,
+      "end": 0.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.4,
+      "end": 5.12,
+      "text": "Con vẹt nhà ông Tư"
+    },
+    {
+      "t": 5.36,
+      "end": 31.32,
+      "text": "Ngồi trên cây khế đầu hẻm"
+    },
+    {
+      "t": 31.32,
+      "end": 34.72,
+      "text": "Nghe ông bấm còi mỗi sáng"
+    },
+    {
+      "t": 34.72,
+      "end": 36.92,
+      "text": "Nó học lẹ hơn học trò"
+    },
+    {
+      "t": 38.38,
+      "end": 38.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.38,
+      "end": 39.76,
+      "text": "Bin bin, bin bin"
+    },
+    {
+      "t": 40.64,
+      "end": 43.12,
+      "text": "Cả hẻm nép sát vô tường"
+    },
+    {
+      "t": 46.57,
+      "end": 46.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.57,
+      "end": 50.11,
+      "text": "Con vẹt bấm còi, ai cũng né"
+    },
+    {
+      "t": 50.41,
+      "end": 53.71,
+      "text": "Quay lại nhìn chẳng có xe"
+    },
+    {
+      "t": 53.85,
+      "end": 55.65,
+      "text": "Cô bán xôi ôm mâm chạy"
+    },
+    {
+      "t": 56.55,
+      "end": 59.37,
+      "text": "Con vẹt cười như ai trêu"
+    },
+    {
+      "t": 77.53,
+      "end": 77.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.53,
+      "end": 79.75,
+      "text": "Ông Tư đổi còi xe mới"
+    },
+    {
+      "t": 81.11,
+      "end": 83.05,
+      "text": "Kêu tít tít nghe dễ thương"
+    },
+    {
+      "t": 84.29,
+      "end": 86.71,
+      "text": "Vậy mà vẹt không chịu đổi"
+    },
+    {
+      "t": 88.35,
+      "end": 90.31,
+      "text": "Vẫn bin bin suốt ngày"
+    },
+    {
+      "t": 94.09,
+      "end": 94.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.09,
+      "end": 96.69,
+      "text": "Con vẹt bấm còi, ai cũng né"
+    },
+    {
+      "t": 98.15,
+      "end": 100.35,
+      "text": "Giờ ông Tư cũng phải né"
+    },
+    {
+      "t": 101.89,
+      "end": 104.19,
+      "text": "Ông đứng giữa hẻm chửi nó"
+    },
+    {
+      "t": 105.41,
+      "end": 107.89,
+      "text": "Nó bin bin trả lời"
+    },
+    {
+      "t": 116.81,
+      "end": 116.81,
+      "text": "[Outro - acid bass and pots, break cuts out]"
+    },
+    {
+      "t": 116.81,
+      "end": 124.33,
+      "text": "Bin bin, bin bin"
+    },
+    {
+      "t": 125.43,
+      "end": 131.47,
+      "text": "Hẻm này giờ có hai xe"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

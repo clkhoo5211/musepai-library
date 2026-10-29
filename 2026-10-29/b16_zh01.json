@@ -1,0 +1,317 @@
+{
+  "id": "b16_zh01",
+  "title": "第二顆鈕扣",
+  "title_source": "scripted",
+  "genre": "Mandarin Philly soul",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "tender, warm and a little shy",
+  "persona": "",
+  "subject": "a man who secretly sews the loose second button back onto his girlfriend's winter coat at night, uses red thread because it is all he has, and she wears it out the next morning without changing it",
+  "caption": "Mandarin Philly soul, early-1970s Philadelphia sound. Lush string section swelling under the chorus, crisp hi-hat-driven drums with four-on-the-floor lean, warm round electric bass walking, clean scratched rhythm guitar, vibraphone accents. Warm analog studio, plate reverb, strings spread wide. Male tenor, smooth soul delivery with falsetto lifts. 96 BPM, B♭ major. Tender, warm and a little shy. No trap beats, no autotune, no EDM drop, no rap verse, no distorted guitar.",
+  "lyrics": "[Intro - strings swell, vibraphone, hi-hat groove]\n\n[Verse 1]\n妳的大衣掛在門後\n第二顆鈕扣快掉了\n晃了一整個冬天\n妳說哪天再弄\n\n[Pre-Chorus]\n等妳睡著以後\n我找出一根針\n\n[Chorus]\n第二顆鈕扣 我幫妳縫好\n抽屜裡只剩紅色的線\n針扎了三次手\n沒有吵醒妳\n\n[Verse 2]\n早上妳穿上大衣\n低頭看了好久\n我以為妳要拆掉\n妳只是笑了笑\n\n[Pre-Chorus]\n紅線在灰色上面\n有點歪 有點明顯\n\n[Chorus]\n第二顆鈕扣 紅紅的那顆\n妳扣上它就出門了\n走到樓下回頭\n指著它給我看\n\n[Outro - strings and vibraphone fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "B♭ major",
+    "timesignature": "4",
+    "prompt": "Mandarin Philly soul, early-1970s Philadelphia sound. Lush string section swelling under the chorus, crisp hi-hat-driven drums with four-on-the-floor lean, warm round electric bass walking, clean scratched rhythm guitar, vibraphone accents. Warm analog studio, plate reverb, strings spread wide. Male tenor, smooth soul delivery with falsetto lifts. 96 BPM, B♭ major. Tender, warm and a little shy. No trap beats, no autotune, no EDM drop, no rap verse, no distorted guitar.",
+    "lyrics": "[Intro - strings swell, vibraphone, hi-hat groove]\n\n[Verse 1]\n妳的大衣掛在門後\n第二顆鈕扣快掉了\n晃了一整個冬天\n妳說哪天再弄\n\n[Pre-Chorus]\n等妳睡著以後\n我找出一根針\n\n[Chorus]\n第二顆鈕扣 我幫妳縫好\n抽屜裡只剩紅色的線\n針扎了三次手\n沒有吵醒妳\n\n[Verse 2]\n早上妳穿上大衣\n低頭看了好久\n我以為妳要拆掉\n妳只是笑了笑\n\n[Pre-Chorus]\n紅線在灰色上面\n有點歪 有點明顯\n\n[Chorus]\n第二顆鈕扣 紅紅的那顆\n妳扣上它就出門了\n走到樓下回頭\n指著它給我看\n\n[Outro - strings and vibraphone fade]"
+  },
+  "seed": "303529586",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 130.59s**\n- 130.59s per song\n- LM phase (1 song): 20.82s\n- DiT phase (1 song): 109.78s",
+  "task_id": "1eb01b53-0e03-4374-a51d-dbccac60a74c",
+  "elapsed_s": 160.3,
+  "generated_at": "2026-10-29T15:26:28.366545+08:00",
+  "audio": "b16_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.08,
+      "end": 18.08,
+      "text": "[Intro - strings swell, vibraphone, hi-hat groove]"
+    },
+    {
+      "t": 18.08,
+      "end": 18.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.08,
+      "end": 21.64,
+      "text": "妳的大衣掛在門後"
+    },
+    {
+      "t": 25.0,
+      "end": 27.02,
+      "text": "第二顆鈕扣快掉了"
+    },
+    {
+      "t": 30.0,
+      "end": 36.08,
+      "text": "晃了一整個冬天"
+    },
+    {
+      "t": 36.1,
+      "end": 48.9,
+      "text": "妳說哪天再弄"
+    },
+    {
+      "t": 48.9,
+      "end": 48.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.9,
+      "end": 51.96,
+      "text": "等妳睡著以後"
+    },
+    {
+      "t": 51.96,
+      "end": 53.19,
+      "text": "我找出一根針"
+    },
+    {
+      "t": 53.21,
+      "end": 53.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.21,
+      "end": 55.75,
+      "text": "第二顆鈕扣 我幫妳縫好"
+    },
+    {
+      "t": 56.43,
+      "end": 61.41,
+      "text": "抽屜裡只剩紅色的線"
+    },
+    {
+      "t": 61.45,
+      "end": 65.23,
+      "text": "針扎了三次手"
+    },
+    {
+      "t": 65.83,
+      "end": 69.17,
+      "text": "沒有吵醒妳"
+    },
+    {
+      "t": 72.05,
+      "end": 72.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.05,
+      "end": 74.05,
+      "text": "早上妳穿上大衣"
+    },
+    {
+      "t": 74.57,
+      "end": 76.53,
+      "text": "低頭看了好久"
+    },
+    {
+      "t": 77.07,
+      "end": 80.19,
+      "text": "我以為妳要拆掉"
+    },
+    {
+      "t": 80.19,
+      "end": 81.77,
+      "text": "妳只是笑了笑"
+    },
+    {
+      "t": 82.69,
+      "end": 82.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.69,
+      "end": 90.35,
+      "text": "紅線在灰色上面"
+    },
+    {
+      "t": 90.51,
+      "end": 110.23,
+      "text": "有點歪 有點明顯"
+    },
+    {
+      "t": 110.29,
+      "end": 110.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.29,
+      "end": 113.55,
+      "text": "第二顆鈕扣 紅紅的那顆"
+    },
+    {
+      "t": 115.33,
+      "end": 118.59,
+      "text": "妳扣上它就出門了"
+    },
+    {
+      "t": 120.35,
+      "end": 160.2,
+      "text": "走到樓下回頭"
+    },
+    {
+      "t": 178.16,
+      "end": 191.82,
+      "text": "指著它給我看"
+    },
+    {
+      "t": 191.82,
+      "end": 191.82,
+      "text": "[Outro - strings and vibraphone fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 11.54,
+      "end": 11.54,
+      "text": "[Intro - strings swell, vibraphone, hi-hat groove]"
+    },
+    {
+      "t": 11.54,
+      "end": 11.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.54,
+      "end": 21.22,
+      "text": "妳的大衣掛在門後"
+    },
+    {
+      "t": 21.24,
+      "end": 26.7,
+      "text": "第二顆鈕扣快掉了"
+    },
+    {
+      "t": 30.0,
+      "end": 32.22,
+      "text": "晃了一整個冬天"
+    },
+    {
+      "t": 32.24,
+      "end": 36.12,
+      "text": "妳說哪天再弄"
+    },
+    {
+      "t": 38.88,
+      "end": 38.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.88,
+      "end": 45.86,
+      "text": "等妳睡著以後"
+    },
+    {
+      "t": 46.42,
+      "end": 51.44,
+      "text": "我找出一根針"
+    },
+    {
+      "t": 51.44,
+      "end": 51.44,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.44,
+      "end": 55.89,
+      "text": "第二顆鈕扣 我幫妳縫好"
+    },
+    {
+      "t": 56.43,
+      "end": 61.41,
+      "text": "抽屜裡只剩紅色的線"
+    },
+    {
+      "t": 61.43,
+      "end": 65.19,
+      "text": "針扎了三次手"
+    },
+    {
+      "t": 65.83,
+      "end": 68.09,
+      "text": "沒有吵醒妳"
+    },
+    {
+      "t": 72.05,
+      "end": 72.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.05,
+      "end": 74.07,
+      "text": "早上妳穿上大衣"
+    },
+    {
+      "t": 74.57,
+      "end": 92.85,
+      "text": "低頭看了好久"
+    },
+    {
+      "t": 100.25,
+      "end": 111.05,
+      "text": "我以為妳要拆掉"
+    },
+    {
+      "t": 111.11,
+      "end": 111.97,
+      "text": "妳只是笑了笑"
+    },
+    {
+      "t": 112.03,
+      "end": 112.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.03,
+      "end": 113.33,
+      "text": "紅線在灰色上面"
+    },
+    {
+      "t": 113.45,
+      "end": 117.13,
+      "text": "有點歪 有點明顯"
+    },
+    {
+      "t": 117.21,
+      "end": 117.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.21,
+      "end": 122.99,
+      "text": "第二顆鈕扣 紅紅的那顆"
+    },
+    {
+      "t": 122.99,
+      "end": 128.17,
+      "text": "妳扣上它就出門了"
+    },
+    {
+      "t": 128.23,
+      "end": 178.12,
+      "text": "走到樓下回頭"
+    },
+    {
+      "t": 178.16,
+      "end": 186.86,
+      "text": "指著它給我看"
+    },
+    {
+      "t": 186.86,
+      "end": 186.86,
+      "text": "[Outro - strings and vibraphone fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

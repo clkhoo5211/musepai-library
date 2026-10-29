@@ -1,0 +1,307 @@
+{
+  "id": "b16_vi05",
+  "title": "Cành Sanh Cong",
+  "title_source": "scripted",
+  "genre": "Vietnamese nu-disco",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "cheeky, warm, danceable",
+  "persona": "",
+  "subject": "a Sunday bonsai club meeting in a Nam Định courtyard where eight retirees argue all morning over whether to cut the one crooked branch of a banyan, and end up voting to keep it",
+  "caption": "Vietnamese nu-disco, warm modern disco revival. Funky muted rhythm guitar chopping sixteenths; octave-jumping slap bass; Rhodes electric piano comping bright chords; disco string stabs on the turnarounds; four-on-the-floor kick with open hi-hat on the off-beat. Polished warm analog mix, filtered sweeps, tape-saturated bass. Male and female mid-register duet in Vietnamese, playful call-and-response. 116 BPM, F major. Cheeky, warm and danceable. No trap, no autotune, no Eurodance synth leads, no vinahouse beat, no ballad breakdown.",
+  "lyrics": "[Intro - slap bass and muted guitar]\n\n[Verse 1]\nSáng chủ nhật sân nhà ông Ba\nTám ông bà ngồi quanh chậu sanh\nMột cành cong như dấu hỏi\nAi cũng có ý riêng mình\n\n[Pre-Chorus]\nCắt đi! Đừng cắt!\nKéo cầm lên rồi lại để xuống\n\n[Chorus]\nCành sanh cong ơi cành sanh cong\nCả câu lạc bộ cãi không xong\nNgười bảo xấu, người bảo duyên\nTrà nguội ba lần vẫn chưa yên\n\n[Verse 2]\nBà Hạnh đem thước ra đo\nÔng Lâm vẽ hình lên giấy\nMười một giờ đem ra bỏ phiếu\nNăm giữ lại, ba cắt đi\n\n[Chorus]\nCành sanh cong ơi cành sanh cong\nGiữ lại rồi, ai cũng vui lòng\nNgười bảo xấu cũng gật đầu\nChủ nhật sau cãi chậu sau\n\n[Outro - strings and Rhodes, filtered fade]\nCắt đi! Đừng cắt!\nTuần sau lại họp",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Vietnamese nu-disco, warm modern disco revival. Funky muted rhythm guitar chopping sixteenths; octave-jumping slap bass; Rhodes electric piano comping bright chords; disco string stabs on the turnarounds; four-on-the-floor kick with open hi-hat on the off-beat. Polished warm analog mix, filtered sweeps, tape-saturated bass. Male and female mid-register duet in Vietnamese, playful call-and-response. 116 BPM, F major. Cheeky, warm and danceable. No trap, no autotune, no Eurodance synth leads, no vinahouse beat, no ballad breakdown.",
+    "lyrics": "[Intro - slap bass and muted guitar]\n\n[Verse 1]\nSáng chủ nhật sân nhà ông Ba\nTám ông bà ngồi quanh chậu sanh\nMột cành cong như dấu hỏi\nAi cũng có ý riêng mình\n\n[Pre-Chorus]\nCắt đi! Đừng cắt!\nKéo cầm lên rồi lại để xuống\n\n[Chorus]\nCành sanh cong ơi cành sanh cong\nCả câu lạc bộ cãi không xong\nNgười bảo xấu, người bảo duyên\nTrà nguội ba lần vẫn chưa yên\n\n[Verse 2]\nBà Hạnh đem thước ra đo\nÔng Lâm vẽ hình lên giấy\nMười một giờ đem ra bỏ phiếu\nNăm giữ lại, ba cắt đi\n\n[Chorus]\nCành sanh cong ơi cành sanh cong\nGiữ lại rồi, ai cũng vui lòng\nNgười bảo xấu cũng gật đầu\nChủ nhật sau cãi chậu sau\n\n[Outro - strings and Rhodes, filtered fade]\nCắt đi! Đừng cắt!\nTuần sau lại họp"
+  },
+  "seed": "1062144594",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.31s**\n- 63.31s per song\n- LM phase (1 song): 16.12s\n- DiT phase (1 song): 47.20s",
+  "task_id": "21601d9d-2cf5-45b7-bf52-778e47de3c1a",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-29T13:25:49.711701+08:00",
+  "audio": "b16_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.64,
+      "end": 33.64,
+      "text": "[Intro - slap bass and muted guitar]"
+    },
+    {
+      "t": 33.64,
+      "end": 33.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.64,
+      "end": 35.88,
+      "text": "Sáng chủ nhật sân nhà ông Ba"
+    },
+    {
+      "t": 37.56,
+      "end": 40.28,
+      "text": "Tám ông bà ngồi quanh chậu sanh"
+    },
+    {
+      "t": 41.7,
+      "end": 44.4,
+      "text": "Một cành cong như dấu hỏi"
+    },
+    {
+      "t": 45.42,
+      "end": 47.72,
+      "text": "Ai cũng có ý riêng mình"
+    },
+    {
+      "t": 58.45,
+      "end": 58.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.45,
+      "end": 60.21,
+      "text": "Cắt đi! Đừng cắt!"
+    },
+    {
+      "t": 60.81,
+      "end": 62.49,
+      "text": "Kéo cầm lên rồi lại để xuống"
+    },
+    {
+      "t": 66.23,
+      "end": 66.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.23,
+      "end": 69.07,
+      "text": "Cành sanh cong ơi cành sanh cong"
+    },
+    {
+      "t": 69.33,
+      "end": 70.91,
+      "text": "Cả câu lạc bộ cãi không xong"
+    },
+    {
+      "t": 74.47,
+      "end": 77.25,
+      "text": "Người bảo xấu, người bảo duyên"
+    },
+    {
+      "t": 77.29,
+      "end": 85.75,
+      "text": "Trà nguội ba lần vẫn chưa yên"
+    },
+    {
+      "t": 91.77,
+      "end": 91.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.77,
+      "end": 93.33,
+      "text": "Bà Hạnh đem thước ra đo"
+    },
+    {
+      "t": 93.91,
+      "end": 95.51,
+      "text": "Ông Lâm vẽ hình lên giấy"
+    },
+    {
+      "t": 98.73,
+      "end": 104.15,
+      "text": "Mười một giờ đem ra bỏ phiếu"
+    },
+    {
+      "t": 105.29,
+      "end": 107.23,
+      "text": "Năm giữ lại, ba cắt đi"
+    },
+    {
+      "t": 109.17,
+      "end": 109.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.17,
+      "end": 111.87,
+      "text": "Cành sanh cong ơi cành sanh cong"
+    },
+    {
+      "t": 113.55,
+      "end": 115.71,
+      "text": "Giữ lại rồi, ai cũng vui lòng"
+    },
+    {
+      "t": 117.97,
+      "end": 119.83,
+      "text": "Người bảo xấu cũng gật đầu"
+    },
+    {
+      "t": 121.57,
+      "end": 124.07,
+      "text": "Chủ nhật sau cãi chậu sau"
+    },
+    {
+      "t": 125.93,
+      "end": 125.93,
+      "text": "[Outro - strings and Rhodes, filtered fade]"
+    },
+    {
+      "t": 125.93,
+      "end": 186.42,
+      "text": "Cắt đi! Đừng cắt!"
+    },
+    {
+      "t": 193.28,
+      "end": 194.92,
+      "text": "Tuần sau lại họp"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.64,
+      "end": 33.64,
+      "text": "[Intro - slap bass and muted guitar]"
+    },
+    {
+      "t": 33.64,
+      "end": 33.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.64,
+      "end": 35.9,
+      "text": "Sáng chủ nhật sân nhà ông Ba"
+    },
+    {
+      "t": 37.54,
+      "end": 40.28,
+      "text": "Tám ông bà ngồi quanh chậu sanh"
+    },
+    {
+      "t": 41.7,
+      "end": 44.4,
+      "text": "Một cành cong như dấu hỏi"
+    },
+    {
+      "t": 45.42,
+      "end": 47.72,
+      "text": "Ai cũng có ý riêng mình"
+    },
+    {
+      "t": 50.11,
+      "end": 50.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.11,
+      "end": 60.21,
+      "text": "Cắt đi! Đừng cắt!"
+    },
+    {
+      "t": 60.81,
+      "end": 62.49,
+      "text": "Kéo cầm lên rồi lại để xuống"
+    },
+    {
+      "t": 66.23,
+      "end": 66.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.23,
+      "end": 69.07,
+      "text": "Cành sanh cong ơi cành sanh cong"
+    },
+    {
+      "t": 69.31,
+      "end": 70.97,
+      "text": "Cả câu lạc bộ cãi không xong"
+    },
+    {
+      "t": 74.47,
+      "end": 77.17,
+      "text": "Người bảo xấu, người bảo duyên"
+    },
+    {
+      "t": 78.37,
+      "end": 85.77,
+      "text": "Trà nguội ba lần vẫn chưa yên"
+    },
+    {
+      "t": 91.77,
+      "end": 91.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.77,
+      "end": 93.33,
+      "text": "Bà Hạnh đem thước ra đo"
+    },
+    {
+      "t": 93.91,
+      "end": 95.55,
+      "text": "Ông Lâm vẽ hình lên giấy"
+    },
+    {
+      "t": 98.79,
+      "end": 104.15,
+      "text": "Mười một giờ đem ra bỏ phiếu"
+    },
+    {
+      "t": 105.27,
+      "end": 107.23,
+      "text": "Năm giữ lại, ba cắt đi"
+    },
+    {
+      "t": 109.19,
+      "end": 109.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.19,
+      "end": 111.87,
+      "text": "Cành sanh cong ơi cành sanh cong"
+    },
+    {
+      "t": 113.53,
+      "end": 115.71,
+      "text": "Giữ lại rồi, ai cũng vui lòng"
+    },
+    {
+      "t": 117.97,
+      "end": 119.85,
+      "text": "Người bảo xấu cũng gật đầu"
+    },
+    {
+      "t": 121.57,
+      "end": 124.09,
+      "text": "Chủ nhật sau cãi chậu sau"
+    },
+    {
+      "t": 160.16,
+      "end": 160.16,
+      "text": "[Outro - strings and Rhodes, filtered fade]"
+    },
+    {
+      "t": 160.16,
+      "end": 164.86,
+      "text": "Cắt đi! Đừng cắt!"
+    },
+    {
+      "t": 193.24,
+      "end": 194.9,
+      "text": "Tuần sau lại họp"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

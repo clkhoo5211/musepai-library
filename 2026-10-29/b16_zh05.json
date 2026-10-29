@@ -1,0 +1,459 @@
+{
+  "id": "b16_zh05",
+  "title": "包書套",
+  "title_source": "scripted",
+  "genre": "Mandarin electro-swing",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "bouncy, cheeky and playful",
+  "persona": "",
+  "subject": "a ten-year-old boy covering his new term's textbooks with plastic book covers the night before school starts, the plastic bubbling no matter what, until he gives every bubble a name and starts the new year proud of them",
+  "caption": "Mandarin electro-swing, 1930s swing meets modern house. Punchy swing horn section riffs, walking upright bass, four-on-the-floor house kick under brushed swing snare, bouncing honky-tonk piano, clarinet runs. Vintage gramophone crackle over a modern punchy low end. Male baritone, playful crooner phrasing with spoken asides. 124 BPM, C minor. Bouncy, cheeky and playful. No trap beats, no dubstep drop, no autotune, no rock guitar, no ballad strings.",
+  "lyrics": "[Intro - gramophone crackle, horn riff, house kick enters]\n\n[Verse 1]\n開學前一個晚上\n新課本堆成一座山\n書套一張一張攤開\n我用尺慢慢推\n\n[Pre-Chorus]\n推好了這邊\n那邊又鼓起來\n\n[Chorus]\n包書套 包書套\n每本都有小泡泡\n推不平就不推了\n我幫它們取名字\n\n[Verse 2]\n國語課本上是阿胖\n數學課本上是小圓\n自然課本有三個\n叫大哥二哥三哥\n\n[Pre-Chorus]\n同學的書平平的\n沒有一個有名字\n\n[Chorus]\n包書套 包書套\n我的書有一家人\n老師問這是什麼\n我說他們來上學\n\n[Outro - clarinet run, horns, crackle fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Mandarin electro-swing, 1930s swing meets modern house. Punchy swing horn section riffs, walking upright bass, four-on-the-floor house kick under brushed swing snare, bouncing honky-tonk piano, clarinet runs. Vintage gramophone crackle over a modern punchy low end. Male baritone, playful crooner phrasing with spoken asides. 124 BPM, C minor. Bouncy, cheeky and playful. No trap beats, no dubstep drop, no autotune, no rock guitar, no ballad strings.",
+    "lyrics": "[Intro - gramophone crackle, horn riff, house kick enters]\n\n[Verse 1]\n開學前一個晚上\n新課本堆成一座山\n書套一張一張攤開\n我用尺慢慢推\n\n[Pre-Chorus]\n推好了這邊\n那邊又鼓起來\n\n[Chorus]\n包書套 包書套\n每本都有小泡泡\n推不平就不推了\n我幫它們取名字\n\n[Verse 2]\n國語課本上是阿胖\n數學課本上是小圓\n自然課本有三個\n叫大哥二哥三哥\n\n[Pre-Chorus]\n同學的書平平的\n沒有一個有名字\n\n[Chorus]\n包書套 包書套\n我的書有一家人\n老師問這是什麼\n我說他們來上學\n\n[Outro - clarinet run, horns, crackle fades]"
+  },
+  "seed": "2376676015",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 94.65s**\n- 94.65s per song\n- LM phase (1 song): 18.03s\n- DiT phase (1 song): 76.62s",
+  "task_id": "8c6d6056-bd99-4052-a1a8-77a13ed5ec43",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-10-29T22:57:43.110279+08:00",
+  "audio": "b16_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 39.56,
+      "end": 39.56,
+      "text": "[Intro - gramophone crackle, horn riff, house kick enters]"
+    },
+    {
+      "t": 39.56,
+      "end": 39.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.56,
+      "end": 63.51,
+      "text": "開學前一個晚上"
+    },
+    {
+      "t": 63.79,
+      "end": 70.83,
+      "text": "新課本堆成一座山"
+    },
+    {
+      "t": 70.85,
+      "end": 78.83,
+      "text": "書套一張一張攤開"
+    },
+    {
+      "t": 78.93,
+      "end": 82.49,
+      "text": "我用尺慢慢推"
+    },
+    {
+      "t": 82.49,
+      "end": 82.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.49,
+      "end": 84.47,
+      "text": "推好了這邊"
+    },
+    {
+      "t": 84.49,
+      "end": 86.41,
+      "text": "那邊又鼓起來"
+    },
+    {
+      "t": 86.45,
+      "end": 86.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.45,
+      "end": 87.93,
+      "text": "包書套 包書套"
+    },
+    {
+      "t": 88.13,
+      "end": 91.09,
+      "text": "每本都有小泡泡"
+    },
+    {
+      "t": 91.25,
+      "end": 95.13,
+      "text": "推不平就不推了"
+    },
+    {
+      "t": 95.13,
+      "end": 96.65,
+      "text": "我幫它們取名字"
+    },
+    {
+      "t": 96.69,
+      "end": 96.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.69,
+      "end": 103.77,
+      "text": "國語課本上是阿胖"
+    },
+    {
+      "t": 103.95,
+      "end": 121.27,
+      "text": "數學課本上是小圓"
+    },
+    {
+      "t": 121.39,
+      "end": 126.91,
+      "text": "自然課本有三個"
+    },
+    {
+      "t": 126.91,
+      "end": 131.45,
+      "text": "叫大哥二哥三哥"
+    },
+    {
+      "t": 131.45,
+      "end": 131.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 131.45,
+      "end": 133.99,
+      "text": "同學的書平平的"
+    },
+    {
+      "t": 134.25,
+      "end": 137.15,
+      "text": "沒有一個有名字"
+    },
+    {
+      "t": 146.52,
+      "end": 146.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.52,
+      "end": 150.52,
+      "text": "包書套 包書套"
+    },
+    {
+      "t": 151.8,
+      "end": 153.56,
+      "text": "我的書有一家人"
+    },
+    {
+      "t": 154.5,
+      "end": 157.2,
+      "text": "老師問這是什麼"
+    },
+    {
+      "t": 159.98,
+      "end": 162.02,
+      "text": "我說他們來上學"
+    },
+    {
+      "t": 162.02,
+      "end": 162.02,
+      "text": "[Outro - clarinet run, horns, crackle fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 39.56,
+      "end": 39.56,
+      "text": "[Intro - gramophone crackle, horn riff, house kick enters]"
+    },
+    {
+      "t": 39.56,
+      "end": 39.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.56,
+      "end": 63.51,
+      "text": "開學前一個晚上"
+    },
+    {
+      "t": 63.79,
+      "end": 70.83,
+      "text": "新課本堆成一座山"
+    },
+    {
+      "t": 70.85,
+      "end": 78.83,
+      "text": "書套一張一張攤開"
+    },
+    {
+      "t": 78.93,
+      "end": 82.49,
+      "text": "我用尺慢慢推"
+    },
+    {
+      "t": 82.49,
+      "end": 82.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.49,
+      "end": 84.47,
+      "text": "推好了這邊"
+    },
+    {
+      "t": 84.49,
+      "end": 86.41,
+      "text": "那邊又鼓起來"
+    },
+    {
+      "t": 86.45,
+      "end": 86.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.45,
+      "end": 87.93,
+      "text": "包書套 包書套"
+    },
+    {
+      "t": 88.13,
+      "end": 91.09,
+      "text": "每本都有小泡泡"
+    },
+    {
+      "t": 91.25,
+      "end": 95.13,
+      "text": "推不平就不推了"
+    },
+    {
+      "t": 95.13,
+      "end": 96.65,
+      "text": "我幫它們取名字"
+    },
+    {
+      "t": 96.69,
+      "end": 96.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.69,
+      "end": 103.77,
+      "text": "國語課本上是阿胖"
+    },
+    {
+      "t": 103.95,
+      "end": 121.27,
+      "text": "數學課本上是小圓"
+    },
+    {
+      "t": 121.39,
+      "end": 126.91,
+      "text": "自然課本有三個"
+    },
+    {
+      "t": 126.91,
+      "end": 131.45,
+      "text": "叫大哥二哥三哥"
+    },
+    {
+      "t": 131.45,
+      "end": 131.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 131.45,
+      "end": 133.99,
+      "text": "同學的書平平的"
+    },
+    {
+      "t": 134.25,
+      "end": 137.15,
+      "text": "沒有一個有名字"
+    },
+    {
+      "t": 146.52,
+      "end": 146.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.52,
+      "end": 150.52,
+      "text": "包書套 包書套"
+    },
+    {
+      "t": 151.8,
+      "end": 153.56,
+      "text": "我的書有一家人"
+    },
+    {
+      "t": 154.5,
+      "end": 157.2,
+      "text": "老師問這是什麼"
+    },
+    {
+      "t": 159.98,
+      "end": 162.02,
+      "text": "我說他們來上學"
+    },
+    {
+      "t": 162.02,
+      "end": 162.02,
+      "text": "[Outro - clarinet run, horns, crackle fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.32,
+      "end": 0.32,
+      "text": "[Intro - gramophone crackle, horn riff, house kick enters]"
+    },
+    {
+      "t": 0.32,
+      "end": 0.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.32,
+      "end": 18.16,
+      "text": "開學前一個晚上"
+    },
+    {
+      "t": 18.16,
+      "end": 24.36,
+      "text": "新課本堆成一座山"
+    },
+    {
+      "t": 24.44,
+      "end": 28.2,
+      "text": "書套一張一張攤開"
+    },
+    {
+      "t": 28.36,
+      "end": 30.6,
+      "text": "我用尺慢慢推"
+    },
+    {
+      "t": 33.54,
+      "end": 33.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.54,
+      "end": 35.28,
+      "text": "推好了這邊"
+    },
+    {
+      "t": 35.52,
+      "end": 37.58,
+      "text": "那邊又鼓起來"
+    },
+    {
+      "t": 41.98,
+      "end": 41.98,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 41.98,
+      "end": 44.98,
+      "text": "包書套 包書套"
+    },
+    {
+      "t": 45.8,
+      "end": 48.85,
+      "text": "每本都有小泡泡"
+    },
+    {
+      "t": 49.17,
+      "end": 52.51,
+      "text": "推不平就不推了"
+    },
+    {
+      "t": 53.41,
+      "end": 55.91,
+      "text": "我幫它們取名字"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.29,
+      "end": 63.89,
+      "text": "國語課本上是阿胖"
+    },
+    {
+      "t": 65.17,
+      "end": 67.19,
+      "text": "數學課本上是小圓"
+    },
+    {
+      "t": 69.01,
+      "end": 70.93,
+      "text": "自然課本有三個"
+    },
+    {
+      "t": 71.77,
+      "end": 73.37,
+      "text": "叫大哥二哥三哥"
+    },
+    {
+      "t": 84.49,
+      "end": 84.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 84.49,
+      "end": 86.57,
+      "text": "同學的書平平的"
+    },
+    {
+      "t": 86.93,
+      "end": 89.03,
+      "text": "沒有一個有名字"
+    },
+    {
+      "t": 92.23,
+      "end": 92.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.23,
+      "end": 97.79,
+      "text": "包書套 包書套"
+    },
+    {
+      "t": 141.98,
+      "end": 164.2,
+      "text": "我的書有一家人"
+    },
+    {
+      "t": 164.2,
+      "end": 173.6,
+      "text": "老師問這是什麼"
+    },
+    {
+      "t": 176.18,
+      "end": 180.6,
+      "text": "我說他們來上學"
+    },
+    {
+      "t": 180.6,
+      "end": 180.6,
+      "text": "[Outro - clarinet run, horns, crackle fades]"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": "b16_ms04",
+  "title": "Termos Biru",
+  "title_source": "scripted",
+  "genre": "Malay piano soul-pop ballad (Ara Johari lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "wistful, warm, unhurried",
+  "persona": "",
+  "subject": "a woman returning a blue thermos flask to her old university housemate six years later, her housemate's name still on masking tape on the lid, and the two of them filling it with teh tarik for the drive home",
+  "caption": "Malay piano soul-pop ballad in the current chart style. Upright piano carrying gospel-tinged chords, soft Hammond organ swells, round electric bass, brushed live drums entering at the first chorus, light gospel-style backing harmonies. Intimate warm studio sound with close-miked piano. Female alto, soulful and controlled, small runs only at phrase ends. 76 BPM, Ab major. Wistful, warm and unhurried. No autotune, no trap drums, no EDM, no rock guitar, no dangdut.",
+  "lyrics": "[Intro - upright piano and organ]\n\n[Verse 1]\nTermos biru dalam almari\nNama awak masih kat penutup\nPita kertas dah kekuningan\nEnam tahun saya pinjam\n\n[Pre-Chorus]\nSaya pandu ke Seremban\nHantar balik barang awak\n\n[Chorus]\nTermos biru, saya pulangkan\nTutupnya masih ketat\nKita dulu kongsi semua\nSampai lupa siapa punya\n\n[Verse 2]\nAwak buka pintu, terjerit\nPegang termos macam bayi\nAwak kata, tinggal sekejap\nKita isi teh tarik dulu\n\n[Chorus]\nTermos biru, awak isikan\nTeh panas untuk jalan\nAwak kata, simpan lagi\nPulangkan enam tahun lagi\n\n[Outro - piano, organ hum, soft fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "Ab major",
+    "timesignature": "3",
+    "prompt": "Malay piano soul-pop ballad in the current chart style. Upright piano carrying gospel-tinged chords, soft Hammond organ swells, round electric bass, brushed live drums entering at the first chorus, light gospel-style backing harmonies. Intimate warm studio sound with close-miked piano. Female alto, soulful and controlled, small runs only at phrase ends. 76 BPM, Ab major. Wistful, warm and unhurried. No autotune, no trap drums, no EDM, no rock guitar, no dangdut.",
+    "lyrics": "[Intro - upright piano and organ]\n\n[Verse 1]\nTermos biru dalam almari\nNama awak masih kat penutup\nPita kertas dah kekuningan\nEnam tahun saya pinjam\n\n[Pre-Chorus]\nSaya pandu ke Seremban\nHantar balik barang awak\n\n[Chorus]\nTermos biru, saya pulangkan\nTutupnya masih ketat\nKita dulu kongsi semua\nSampai lupa siapa punya\n\n[Verse 2]\nAwak buka pintu, terjerit\nPegang termos macam bayi\nAwak kata, tinggal sekejap\nKita isi teh tarik dulu\n\n[Chorus]\nTermos biru, awak isikan\nTeh panas untuk jalan\nAwak kata, simpan lagi\nPulangkan enam tahun lagi\n\n[Outro - piano, organ hum, soft fade]"
+  },
+  "seed": "1079008518",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 76.90s**\n- 76.90s per song\n- LM phase (1 song): 14.26s\n- DiT phase (1 song): 62.64s",
+  "task_id": "7a0e3440-f500-49f9-91d4-9aec807e1325",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-29T13:04:44.291263+08:00",
+  "audio": "b16_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.42,
+      "end": 29.42,
+      "text": "[Intro - upright piano and organ]"
+    },
+    {
+      "t": 29.42,
+      "end": 29.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.42,
+      "end": 34.22,
+      "text": "Termos biru dalam almari"
+    },
+    {
+      "t": 37.82,
+      "end": 42.94,
+      "text": "Nama awak masih kat penutup"
+    },
+    {
+      "t": 42.96,
+      "end": 47.0,
+      "text": "Pita kertas dah kekuningan"
+    },
+    {
+      "t": 47.12,
+      "end": 48.16,
+      "text": "Enam tahun saya pinjam"
+    },
+    {
+      "t": 48.16,
+      "end": 48.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.16,
+      "end": 52.38,
+      "text": "Saya pandu ke Seremban"
+    },
+    {
+      "t": 53.27,
+      "end": 57.65,
+      "text": "Hantar balik barang awak"
+    },
+    {
+      "t": 58.47,
+      "end": 58.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.47,
+      "end": 62.89,
+      "text": "Termos biru, saya pulangkan"
+    },
+    {
+      "t": 63.01,
+      "end": 69.49,
+      "text": "Tutupnya masih ketat"
+    },
+    {
+      "t": 69.51,
+      "end": 75.33,
+      "text": "Kita dulu kongsi semua"
+    },
+    {
+      "t": 94.71,
+      "end": 98.83,
+      "text": "Sampai lupa siapa punya"
+    },
+    {
+      "t": 103.81,
+      "end": 103.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 103.81,
+      "end": 105.47,
+      "text": "Awak buka pintu, terjerit"
+    },
+    {
+      "t": 105.55,
+      "end": 107.83,
+      "text": "Pegang termos macam bayi"
+    },
+    {
+      "t": 109.95,
+      "end": 112.49,
+      "text": "Awak kata, tinggal sekejap"
+    },
+    {
+      "t": 112.49,
+      "end": 116.67,
+      "text": "Kita isi teh tarik dulu"
+    },
+    {
+      "t": 118.73,
+      "end": 118.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.73,
+      "end": 122.85,
+      "text": "Termos biru, awak isikan"
+    },
+    {
+      "t": 124.33,
+      "end": 128.03,
+      "text": "Teh panas untuk jalan"
+    },
+    {
+      "t": 129.17,
+      "end": 141.87,
+      "text": "Awak kata, simpan lagi"
+    },
+    {
+      "t": 143.49,
+      "end": 148.45,
+      "text": "Pulangkan enam tahun lagi"
+    },
+    {
+      "t": 148.45,
+      "end": 148.45,
+      "text": "[Outro - piano, organ hum, soft fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.42,
+      "end": 29.42,
+      "text": "[Intro - upright piano and organ]"
+    },
+    {
+      "t": 29.42,
+      "end": 29.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.42,
+      "end": 34.22,
+      "text": "Termos biru dalam almari"
+    },
+    {
+      "t": 37.86,
+      "end": 42.94,
+      "text": "Nama awak masih kat penutup"
+    },
+    {
+      "t": 42.96,
+      "end": 44.66,
+      "text": "Pita kertas dah kekuningan"
+    },
+    {
+      "t": 44.68,
+      "end": 48.16,
+      "text": "Enam tahun saya pinjam"
+    },
+    {
+      "t": 48.18,
+      "end": 48.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.18,
+      "end": 52.4,
+      "text": "Saya pandu ke Seremban"
+    },
+    {
+      "t": 53.25,
+      "end": 57.67,
+      "text": "Hantar balik barang awak"
+    },
+    {
+      "t": 58.49,
+      "end": 58.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.49,
+      "end": 62.37,
+      "text": "Termos biru, saya pulangkan"
+    },
+    {
+      "t": 62.37,
+      "end": 62.89,
+      "text": "Tutupnya masih ketat"
+    },
+    {
+      "t": 62.89,
+      "end": 67.45,
+      "text": "Kita dulu kongsi semua"
+    },
+    {
+      "t": 69.51,
+      "end": 75.33,
+      "text": "Sampai lupa siapa punya"
+    },
+    {
+      "t": 94.81,
+      "end": 94.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.81,
+      "end": 98.67,
+      "text": "Awak buka pintu, terjerit"
+    },
+    {
+      "t": 103.71,
+      "end": 107.83,
+      "text": "Pegang termos macam bayi"
+    },
+    {
+      "t": 108.87,
+      "end": 113.27,
+      "text": "Awak kata, tinggal sekejap"
+    },
+    {
+      "t": 113.29,
+      "end": 116.67,
+      "text": "Kita isi teh tarik dulu"
+    },
+    {
+      "t": 118.71,
+      "end": 118.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.71,
+      "end": 122.85,
+      "text": "Termos biru, awak isikan"
+    },
+    {
+      "t": 124.33,
+      "end": 128.01,
+      "text": "Teh panas untuk jalan"
+    },
+    {
+      "t": 129.15,
+      "end": 141.87,
+      "text": "Awak kata, simpan lagi"
+    },
+    {
+      "t": 143.49,
+      "end": 184.04,
+      "text": "Pulangkan enam tahun lagi"
+    },
+    {
+      "t": 184.04,
+      "end": 184.04,
+      "text": "[Outro - piano, organ hum, soft fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,444 @@
+{
+  "id": "b16_id04",
+  "title": "Tujuh Mendatar",
+  "title_source": "scripted",
+  "genre": "Indonesian math rock",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "lincah, jenaka, penasaran",
+  "persona": "",
+  "subject": "a regular at a Medan coffee stall who keeps finding the crossword book on the counter filled in by an unknown stranger in green ink, and starts leaving clues and answers for them",
+  "caption": "Indonesian math rock, DIY Jakarta-Bandung scene sound. Two clean tapped electric guitars in interlocking arpeggios, drums shifting between 7/8 and 4/4 with crisp rimshots, melodic picked bass, occasional glockenspiel accent. Dry live-room recording, crisp and bright, no heavy distortion. Light male tenor vocal, wry and talky, clear diction. 132 BPM, D major. Mood of a playful puzzle between strangers. No metal riffs, no screamed vocals, no autotune, no synth pads, no pop four-on-the-floor.",
+  "lyrics": "[Intro - tapped guitars in seven]\n[Verse 1]\nBuku TTS di meja warung\nSampulnya kena noda kopi\nTujuh mendatar sudah terisi\nTinta hijau, bukan punyaku\n[Pre-Chorus]\nSiapa kamu yang datang pagi\nWaktu aku masih tidur\n[Chorus]\nLima huruf, artinya rindu\nKamu jawab, aku tanya\nSatu kotak kosong di bawah\nKutinggal buat kamu isi\n[Verse 2]\nAku tulis pertanyaan kecil\nJam berapa kamu ke sini\nBesoknya ada jawaban hijau\nEnam lewat, kopi tanpa gula\n[Chorus]\nLima huruf, artinya rindu\nBesok aku datang jam enam\nSatu kotak kosong di bawah\nBiar kita isi berdua\n[Outro - guitars unwind, glockenspiel]\nPulpen hijau di meja sebelah\nDia angkat kepala, menunggu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Indonesian math rock, DIY Jakarta-Bandung scene sound. Two clean tapped electric guitars in interlocking arpeggios, drums shifting between 7/8 and 4/4 with crisp rimshots, melodic picked bass, occasional glockenspiel accent. Dry live-room recording, crisp and bright, no heavy distortion. Light male tenor vocal, wry and talky, clear diction. 132 BPM, D major. Mood of a playful puzzle between strangers. No metal riffs, no screamed vocals, no autotune, no synth pads, no pop four-on-the-floor.",
+    "lyrics": "[Intro - tapped guitars in seven]\n[Verse 1]\nBuku TTS di meja warung\nSampulnya kena noda kopi\nTujuh mendatar sudah terisi\nTinta hijau, bukan punyaku\n[Pre-Chorus]\nSiapa kamu yang datang pagi\nWaktu aku masih tidur\n[Chorus]\nLima huruf, artinya rindu\nKamu jawab, aku tanya\nSatu kotak kosong di bawah\nKutinggal buat kamu isi\n[Verse 2]\nAku tulis pertanyaan kecil\nJam berapa kamu ke sini\nBesoknya ada jawaban hijau\nEnam lewat, kopi tanpa gula\n[Chorus]\nLima huruf, artinya rindu\nBesok aku datang jam enam\nSatu kotak kosong di bawah\nBiar kita isi berdua\n[Outro - guitars unwind, glockenspiel]\nPulpen hijau di meja sebelah\nDia angkat kepala, menunggu"
+  },
+  "seed": "1025261870",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 77.42s**\n- 77.42s per song\n- LM phase (1 song): 13.81s\n- DiT phase (1 song): 63.61s",
+  "task_id": "26dc17c1-ca4f-4bf9-94d4-2f231e85189e",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-10-29T13:15:07.291368+08:00",
+  "audio": "b16_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.16,
+      "end": 35.16,
+      "text": "[Intro - tapped guitars in seven]"
+    },
+    {
+      "t": 35.16,
+      "end": 35.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.16,
+      "end": 39.42,
+      "text": "Buku TTS di meja warung"
+    },
+    {
+      "t": 42.42,
+      "end": 46.53,
+      "text": "Sampulnya kena noda kopi"
+    },
+    {
+      "t": 49.79,
+      "end": 53.61,
+      "text": "Tujuh mendatar sudah terisi"
+    },
+    {
+      "t": 55.75,
+      "end": 60.95,
+      "text": "Tinta hijau, bukan punyaku"
+    },
+    {
+      "t": 66.51,
+      "end": 66.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 66.51,
+      "end": 68.83,
+      "text": "Siapa kamu yang datang pagi"
+    },
+    {
+      "t": 68.83,
+      "end": 69.95,
+      "text": "Waktu aku masih tidur"
+    },
+    {
+      "t": 69.95,
+      "end": 69.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.95,
+      "end": 71.29,
+      "text": "Lima huruf, artinya rindu"
+    },
+    {
+      "t": 73.85,
+      "end": 78.57,
+      "text": "Kamu jawab, aku tanya"
+    },
+    {
+      "t": 80.67,
+      "end": 86.03,
+      "text": "Satu kotak kosong di bawah"
+    },
+    {
+      "t": 87.55,
+      "end": 92.33,
+      "text": "Kutinggal buat kamu isi"
+    },
+    {
+      "t": 94.93,
+      "end": 94.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.93,
+      "end": 100.53,
+      "text": "Aku tulis pertanyaan kecil"
+    },
+    {
+      "t": 100.53,
+      "end": 105.15,
+      "text": "Jam berapa kamu ke sini"
+    },
+    {
+      "t": 105.15,
+      "end": 109.59,
+      "text": "Besoknya ada jawaban hijau"
+    },
+    {
+      "t": 109.69,
+      "end": 114.05,
+      "text": "Enam lewat, kopi tanpa gula"
+    },
+    {
+      "t": 114.09,
+      "end": 114.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.09,
+      "end": 114.69,
+      "text": "Lima huruf, artinya rindu"
+    },
+    {
+      "t": 114.69,
+      "end": 117.11,
+      "text": "Besok aku datang jam enam"
+    },
+    {
+      "t": 117.11,
+      "end": 118.97,
+      "text": "Satu kotak kosong di bawah"
+    },
+    {
+      "t": 121.45,
+      "end": 126.19,
+      "text": "Biar kita isi berdua"
+    },
+    {
+      "t": 159.72,
+      "end": 159.72,
+      "text": "[Outro - guitars unwind, glockenspiel]"
+    },
+    {
+      "t": 159.72,
+      "end": 163.66,
+      "text": "Pulpen hijau di meja sebelah"
+    },
+    {
+      "t": 164.1,
+      "end": 171.0,
+      "text": "Dia angkat kepala, menunggu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 35.16,
+      "end": 35.16,
+      "text": "[Intro - tapped guitars in seven]"
+    },
+    {
+      "t": 35.16,
+      "end": 35.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.16,
+      "end": 39.42,
+      "text": "Buku TTS di meja warung"
+    },
+    {
+      "t": 42.42,
+      "end": 46.53,
+      "text": "Sampulnya kena noda kopi"
+    },
+    {
+      "t": 49.79,
+      "end": 53.61,
+      "text": "Tujuh mendatar sudah terisi"
+    },
+    {
+      "t": 55.75,
+      "end": 60.95,
+      "text": "Tinta hijau, bukan punyaku"
+    },
+    {
+      "t": 66.51,
+      "end": 66.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 66.51,
+      "end": 68.83,
+      "text": "Siapa kamu yang datang pagi"
+    },
+    {
+      "t": 68.83,
+      "end": 69.95,
+      "text": "Waktu aku masih tidur"
+    },
+    {
+      "t": 69.95,
+      "end": 69.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.95,
+      "end": 71.29,
+      "text": "Lima huruf, artinya rindu"
+    },
+    {
+      "t": 73.85,
+      "end": 78.57,
+      "text": "Kamu jawab, aku tanya"
+    },
+    {
+      "t": 80.67,
+      "end": 86.03,
+      "text": "Satu kotak kosong di bawah"
+    },
+    {
+      "t": 87.55,
+      "end": 92.33,
+      "text": "Kutinggal buat kamu isi"
+    },
+    {
+      "t": 94.93,
+      "end": 94.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.93,
+      "end": 100.33,
+      "text": "Aku tulis pertanyaan kecil"
+    },
+    {
+      "t": 100.37,
+      "end": 105.15,
+      "text": "Jam berapa kamu ke sini"
+    },
+    {
+      "t": 105.15,
+      "end": 109.59,
+      "text": "Besoknya ada jawaban hijau"
+    },
+    {
+      "t": 109.69,
+      "end": 114.05,
+      "text": "Enam lewat, kopi tanpa gula"
+    },
+    {
+      "t": 114.09,
+      "end": 114.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.09,
+      "end": 114.69,
+      "text": "Lima huruf, artinya rindu"
+    },
+    {
+      "t": 114.69,
+      "end": 117.11,
+      "text": "Besok aku datang jam enam"
+    },
+    {
+      "t": 117.11,
+      "end": 118.97,
+      "text": "Satu kotak kosong di bawah"
+    },
+    {
+      "t": 121.45,
+      "end": 126.19,
+      "text": "Biar kita isi berdua"
+    },
+    {
+      "t": 159.72,
+      "end": 159.72,
+      "text": "[Outro - guitars unwind, glockenspiel]"
+    },
+    {
+      "t": 159.72,
+      "end": 163.66,
+      "text": "Pulpen hijau di meja sebelah"
+    },
+    {
+      "t": 164.1,
+      "end": 169.98,
+      "text": "Dia angkat kepala, menunggu"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 35.14,
+      "end": 35.14,
+      "text": "[Intro - tapped guitars in seven]"
+    },
+    {
+      "t": 35.14,
+      "end": 35.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.14,
+      "end": 39.4,
+      "text": "Buku TTS di meja warung"
+    },
+    {
+      "t": 42.42,
+      "end": 46.51,
+      "text": "Sampulnya kena noda kopi"
+    },
+    {
+      "t": 49.81,
+      "end": 53.61,
+      "text": "Tujuh mendatar sudah terisi"
+    },
+    {
+      "t": 55.75,
+      "end": 60.93,
+      "text": "Tinta hijau, bukan punyaku"
+    },
+    {
+      "t": 62.05,
+      "end": 62.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.05,
+      "end": 64.33,
+      "text": "Siapa kamu yang datang pagi"
+    },
+    {
+      "t": 64.33,
+      "end": 66.53,
+      "text": "Waktu aku masih tidur"
+    },
+    {
+      "t": 66.53,
+      "end": 66.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.53,
+      "end": 71.23,
+      "text": "Lima huruf, artinya rindu"
+    },
+    {
+      "t": 73.85,
+      "end": 78.11,
+      "text": "Kamu jawab, aku tanya"
+    },
+    {
+      "t": 80.67,
+      "end": 86.17,
+      "text": "Satu kotak kosong di bawah"
+    },
+    {
+      "t": 87.55,
+      "end": 92.33,
+      "text": "Kutinggal buat kamu isi"
+    },
+    {
+      "t": 94.93,
+      "end": 94.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.93,
+      "end": 100.33,
+      "text": "Aku tulis pertanyaan kecil"
+    },
+    {
+      "t": 100.59,
+      "end": 105.33,
+      "text": "Jam berapa kamu ke sini"
+    },
+    {
+      "t": 105.33,
+      "end": 110.07,
+      "text": "Besoknya ada jawaban hijau"
+    },
+    {
+      "t": 110.07,
+      "end": 114.01,
+      "text": "Enam lewat, kopi tanpa gula"
+    },
+    {
+      "t": 114.07,
+      "end": 114.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.07,
+      "end": 114.77,
+      "text": "Lima huruf, artinya rindu"
+    },
+    {
+      "t": 114.77,
+      "end": 117.09,
+      "text": "Besok aku datang jam enam"
+    },
+    {
+      "t": 117.11,
+      "end": 118.63,
+      "text": "Satu kotak kosong di bawah"
+    },
+    {
+      "t": 121.47,
+      "end": 126.21,
+      "text": "Biar kita isi berdua"
+    },
+    {
+      "t": 159.74,
+      "end": 159.74,
+      "text": "[Outro - guitars unwind, glockenspiel]"
+    },
+    {
+      "t": 159.74,
+      "end": 163.66,
+      "text": "Pulpen hijau di meja sebelah"
+    },
+    {
+      "t": 164.1,
+      "end": 169.92,
+      "text": "Dia angkat kepala, menunggu"
+    }
+  ]
+}

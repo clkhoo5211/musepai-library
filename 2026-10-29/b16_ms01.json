@@ -1,0 +1,317 @@
+{
+  "id": "b16_ms01",
+  "title": "Pin Tudung Pukul Enam",
+  "title_source": "scripted",
+  "genre": "Malay power-ballad duet (Masing Masing lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "tender, devoted, quietly funny",
+  "persona": "",
+  "subject": "a husband learning to pin his wife's tudung neatly every morning before her 7 a.m. shift because her right wrist is in a plaster cast, practising on a pillow the night before",
+  "caption": "Malay power-ballad duet in the modern Malaysia-Indonesia crossover style. Grand piano playing broad sustained chords, clean arpeggiated electric guitar with chorus, warm string pad swelling into the chorus, live drums entering in the second verse with a big reverbed snare, fretless bass. Wide polished studio ballad mix. Male tenor and female mezzo duet, trading verses then harmonising on the chorus. 72 BPM, Eb major. Tender, devoted and quietly funny. No autotune, no trap hi-hats, no EDM drop, no dangdut drums, no rap.",
+  "lyrics": "[Intro - grand piano and string pad]\n\n[Verse 1 - Male Vocal]\nTangan awak bersimen putih\nPukul enam belum siap\nMalam tadi abang berlatih\nPin tudung atas bantal\n\n[Verse 2 - Female Vocal]\nAbang cucuk senget sikit\nSaya ketawa depan cermin\nJari abang besar, kasar\nTapi sabar, tak pernah marah\n\n[Pre-Chorus]\nJangan gerak, tahan nafas\nSatu pin lagi, dah nak lepas\n\n[Chorus - Duet]\nPukul enam, depan cermin\nAbang pin tudung awak\nTak lawa macam kedai\nTapi abang buat dengan hati\n\n[Bridge - piano alone, then drums return]\nEnam minggu simen tu\nAbang dah mahir sekarang\n\n[Chorus - Duet]\nPukul enam, depan cermin\nAbang pin tudung awak\nBila simen dah dibuka\nBoleh abang buat lagi?\n\n[Outro - piano and guitar, soft fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 220.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Malay power-ballad duet in the modern Malaysia-Indonesia crossover style. Grand piano playing broad sustained chords, clean arpeggiated electric guitar with chorus, warm string pad swelling into the chorus, live drums entering in the second verse with a big reverbed snare, fretless bass. Wide polished studio ballad mix. Male tenor and female mezzo duet, trading verses then harmonising on the chorus. 72 BPM, Eb major. Tender, devoted and quietly funny. No autotune, no trap hi-hats, no EDM drop, no dangdut drums, no rap.",
+    "lyrics": "[Intro - grand piano and string pad]\n\n[Verse 1 - Male Vocal]\nTangan awak bersimen putih\nPukul enam belum siap\nMalam tadi abang berlatih\nPin tudung atas bantal\n\n[Verse 2 - Female Vocal]\nAbang cucuk senget sikit\nSaya ketawa depan cermin\nJari abang besar, kasar\nTapi sabar, tak pernah marah\n\n[Pre-Chorus]\nJangan gerak, tahan nafas\nSatu pin lagi, dah nak lepas\n\n[Chorus - Duet]\nPukul enam, depan cermin\nAbang pin tudung awak\nTak lawa macam kedai\nTapi abang buat dengan hati\n\n[Bridge - piano alone, then drums return]\nEnam minggu simen tu\nAbang dah mahir sekarang\n\n[Chorus - Duet]\nPukul enam, depan cermin\nAbang pin tudung awak\nBila simen dah dibuka\nBoleh abang buat lagi?\n\n[Outro - piano and guitar, soft fade]"
+  },
+  "seed": "776832660",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 85.43s**\n- 85.43s per song\n- LM phase (1 song): 15.36s\n- DiT phase (1 song): 70.07s",
+  "task_id": "4ef6e731-a22e-42d2-a95f-5b26e99de070",
+  "elapsed_s": 110.4,
+  "generated_at": "2026-10-29T12:59:03.122350+08:00",
+  "audio": "b16_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Intro - grand piano and string pad]"
+    },
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Verse 1 - Male Vocal]"
+    },
+    {
+      "t": 27.98,
+      "end": 30.98,
+      "text": "Tangan awak bersimen putih"
+    },
+    {
+      "t": 34.12,
+      "end": 40.56,
+      "text": "Pukul enam belum siap"
+    },
+    {
+      "t": 42.56,
+      "end": 45.34,
+      "text": "Malam tadi abang berlatih"
+    },
+    {
+      "t": 46.24,
+      "end": 50.02,
+      "text": "Pin tudung atas bantal"
+    },
+    {
+      "t": 50.1,
+      "end": 50.1,
+      "text": "[Verse 2 - Female Vocal]"
+    },
+    {
+      "t": 50.1,
+      "end": 68.49,
+      "text": "Abang cucuk senget sikit"
+    },
+    {
+      "t": 68.51,
+      "end": 76.95,
+      "text": "Saya ketawa depan cermin"
+    },
+    {
+      "t": 77.03,
+      "end": 78.87,
+      "text": "Jari abang besar, kasar"
+    },
+    {
+      "t": 78.97,
+      "end": 85.93,
+      "text": "Tapi sabar, tak pernah marah"
+    },
+    {
+      "t": 87.49,
+      "end": 87.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.49,
+      "end": 93.23,
+      "text": "Jangan gerak, tahan nafas"
+    },
+    {
+      "t": 93.67,
+      "end": 102.19,
+      "text": "Satu pin lagi, dah nak lepas"
+    },
+    {
+      "t": 102.19,
+      "end": 102.19,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 102.19,
+      "end": 103.99,
+      "text": "Pukul enam, depan cermin"
+    },
+    {
+      "t": 103.99,
+      "end": 105.03,
+      "text": "Abang pin tudung awak"
+    },
+    {
+      "t": 105.03,
+      "end": 107.19,
+      "text": "Tak lawa macam kedai"
+    },
+    {
+      "t": 107.89,
+      "end": 113.37,
+      "text": "Tapi abang buat dengan hati"
+    },
+    {
+      "t": 118.27,
+      "end": 118.27,
+      "text": "[Bridge - piano alone, then drums return]"
+    },
+    {
+      "t": 118.27,
+      "end": 130.95,
+      "text": "Enam minggu simen tu"
+    },
+    {
+      "t": 131.01,
+      "end": 141.03,
+      "text": "Abang dah mahir sekarang"
+    },
+    {
+      "t": 141.39,
+      "end": 141.39,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 141.39,
+      "end": 147.39,
+      "text": "Pukul enam, depan cermin"
+    },
+    {
+      "t": 147.71,
+      "end": 152.31,
+      "text": "Abang pin tudung awak"
+    },
+    {
+      "t": 153.31,
+      "end": 180.6,
+      "text": "Bila simen dah dibuka"
+    },
+    {
+      "t": 183.28,
+      "end": 188.62,
+      "text": "Boleh abang buat lagi?"
+    },
+    {
+      "t": 188.62,
+      "end": 188.62,
+      "text": "[Outro - piano and guitar, soft fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Intro - grand piano and string pad]"
+    },
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Verse 1 - Male Vocal]"
+    },
+    {
+      "t": 27.98,
+      "end": 30.94,
+      "text": "Tangan awak bersimen putih"
+    },
+    {
+      "t": 34.12,
+      "end": 42.58,
+      "text": "Pukul enam belum siap"
+    },
+    {
+      "t": 42.58,
+      "end": 45.36,
+      "text": "Malam tadi abang berlatih"
+    },
+    {
+      "t": 46.24,
+      "end": 50.04,
+      "text": "Pin tudung atas bantal"
+    },
+    {
+      "t": 59.53,
+      "end": 59.53,
+      "text": "[Verse 2 - Female Vocal]"
+    },
+    {
+      "t": 59.53,
+      "end": 69.31,
+      "text": "Abang cucuk senget sikit"
+    },
+    {
+      "t": 69.49,
+      "end": 76.91,
+      "text": "Saya ketawa depan cermin"
+    },
+    {
+      "t": 77.01,
+      "end": 81.73,
+      "text": "Jari abang besar, kasar"
+    },
+    {
+      "t": 81.87,
+      "end": 87.47,
+      "text": "Tapi sabar, tak pernah marah"
+    },
+    {
+      "t": 87.51,
+      "end": 87.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.51,
+      "end": 93.19,
+      "text": "Jangan gerak, tahan nafas"
+    },
+    {
+      "t": 93.67,
+      "end": 98.99,
+      "text": "Satu pin lagi, dah nak lepas"
+    },
+    {
+      "t": 99.03,
+      "end": 99.03,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 99.03,
+      "end": 104.01,
+      "text": "Pukul enam, depan cermin"
+    },
+    {
+      "t": 104.01,
+      "end": 105.19,
+      "text": "Abang pin tudung awak"
+    },
+    {
+      "t": 105.49,
+      "end": 107.17,
+      "text": "Tak lawa macam kedai"
+    },
+    {
+      "t": 107.89,
+      "end": 113.39,
+      "text": "Tapi abang buat dengan hati"
+    },
+    {
+      "t": 114.49,
+      "end": 114.49,
+      "text": "[Bridge - piano alone, then drums return]"
+    },
+    {
+      "t": 114.49,
+      "end": 118.71,
+      "text": "Enam minggu simen tu"
+    },
+    {
+      "t": 118.71,
+      "end": 137.45,
+      "text": "Abang dah mahir sekarang"
+    },
+    {
+      "t": 141.37,
+      "end": 141.37,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 141.37,
+      "end": 145.21,
+      "text": "Pukul enam, depan cermin"
+    },
+    {
+      "t": 147.45,
+      "end": 152.27,
+      "text": "Abang pin tudung awak"
+    },
+    {
+      "t": 153.31,
+      "end": 182.36,
+      "text": "Bila simen dah dibuka"
+    },
+    {
+      "t": 183.26,
+      "end": 188.64,
+      "text": "Boleh abang buat lagi?"
+    },
+    {
+      "t": 188.64,
+      "end": 188.64,
+      "text": "[Outro - piano and guitar, soft fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

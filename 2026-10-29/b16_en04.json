@@ -1,0 +1,347 @@
+{
+  "id": "b16_en04",
+  "title": "Where's Bernard",
+  "title_source": "scripted",
+  "genre": "Appalachian old-time string band",
+  "language": "en",
+  "language_name": "English",
+  "mood": "rollicking, comic and fond",
+  "persona": "",
+  "subject": "a man whose pet tortoise Bernard escapes into the back garden and stays missing for three weeks while the whole family searches, until he finds him asleep inside his own wellington boot by the back door",
+  "caption": "Appalachian old-time string band, porch-session revival style. Old-time fiddle sawing a driving reel with double stops, clawhammer banjo in open tuning, flatpicked acoustic guitar boom-chuck rhythm, upright bass on root and fifth, foot stomps on the beat. One-room live recording with mic bleed, raw and unpolished. Male baritone, plain folk delivery, rough group gang vocals on the chorus. 118 BPM, D major. Rollicking, comic and fond. No drum kit, no electric guitar, no autotune, no pop production, no bluegrass speed-picking showcase.",
+  "lyrics": "[Intro - fiddle and banjo]\n\n[Verse 1]\nBernard took a walk one Tuesday\nSlow as Sunday, out the gate\nNinety years he's got to live\nSo he's in no hurry, mate\n\n[Chorus]\nWhere's Bernard, where'd he go\nNot in the hedge, not in the peas\nLettuce on a saucer by the door\nWhere's Bernard, where's he gone\n\n[Verse 2]\nThe kids put posters on the fence\nMy wife looked in the shed\nWe turned the compost twenty times\nI looked under the bed\n\n[Chorus]\nWhere's Bernard, where'd he go\nNot by the bins, not in the rhubarb\nThree weeks now and the lettuce is limp\nWhere's Bernard, where's he gone\n\n[Bridge - fiddle break]\nThen I went to pull my boots on\nAnd my left boot wouldn't go\n\n[Chorus]\nThere's Bernard, there he is\nSnoring in my wellie\nThree weeks by the back door\nThere's Bernard, home all along\n\n[Outro - stomps and fiddle]\nSlow as Sunday, Bernard",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Appalachian old-time string band, porch-session revival style. Old-time fiddle sawing a driving reel with double stops, clawhammer banjo in open tuning, flatpicked acoustic guitar boom-chuck rhythm, upright bass on root and fifth, foot stomps on the beat. One-room live recording with mic bleed, raw and unpolished. Male baritone, plain folk delivery, rough group gang vocals on the chorus. 118 BPM, D major. Rollicking, comic and fond. No drum kit, no electric guitar, no autotune, no pop production, no bluegrass speed-picking showcase.",
+    "lyrics": "[Intro - fiddle and banjo]\n\n[Verse 1]\nBernard took a walk one Tuesday\nSlow as Sunday, out the gate\nNinety years he's got to live\nSo he's in no hurry, mate\n\n[Chorus]\nWhere's Bernard, where'd he go\nNot in the hedge, not in the peas\nLettuce on a saucer by the door\nWhere's Bernard, where's he gone\n\n[Verse 2]\nThe kids put posters on the fence\nMy wife looked in the shed\nWe turned the compost twenty times\nI looked under the bed\n\n[Chorus]\nWhere's Bernard, where'd he go\nNot by the bins, not in the rhubarb\nThree weeks now and the lettuce is limp\nWhere's Bernard, where's he gone\n\n[Bridge - fiddle break]\nThen I went to pull my boots on\nAnd my left boot wouldn't go\n\n[Chorus]\nThere's Bernard, there he is\nSnoring in my wellie\nThree weeks by the back door\nThere's Bernard, home all along\n\n[Outro - stomps and fiddle]\nSlow as Sunday, Bernard"
+  },
+  "seed": "544840152",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.11s**\n- 66.11s per song\n- LM phase (1 song): 14.10s\n- DiT phase (1 song): 52.01s",
+  "task_id": "68a709d8-4b47-4697-8bf9-ea0567e3caf6",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-10-29T13:42:34.038966+08:00",
+  "audio": "b16_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.36,
+      "end": 17.36,
+      "text": "[Intro - fiddle and banjo]"
+    },
+    {
+      "t": 17.36,
+      "end": 17.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.36,
+      "end": 19.4,
+      "text": "Bernard took a walk one Tuesday"
+    },
+    {
+      "t": 20.86,
+      "end": 23.38,
+      "text": "Slow as Sunday, out the gate"
+    },
+    {
+      "t": 25.0,
+      "end": 26.9,
+      "text": "Ninety years he's got to live"
+    },
+    {
+      "t": 26.9,
+      "end": 28.88,
+      "text": "So he's in no hurry, mate"
+    },
+    {
+      "t": 28.9,
+      "end": 28.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 28.9,
+      "end": 31.3,
+      "text": "Where's Bernard, where'd he go"
+    },
+    {
+      "t": 32.74,
+      "end": 35.66,
+      "text": "Not in the hedge, not in the peas"
+    },
+    {
+      "t": 37.04,
+      "end": 39.8,
+      "text": "Lettuce on a saucer by the door"
+    },
+    {
+      "t": 40.86,
+      "end": 43.9,
+      "text": "Where's Bernard, where's he gone"
+    },
+    {
+      "t": 51.03,
+      "end": 51.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 51.03,
+      "end": 53.67,
+      "text": "The kids put posters on the fence"
+    },
+    {
+      "t": 55.09,
+      "end": 57.23,
+      "text": "My wife looked in the shed"
+    },
+    {
+      "t": 59.17,
+      "end": 62.37,
+      "text": "We turned the compost twenty times"
+    },
+    {
+      "t": 63.43,
+      "end": 68.65,
+      "text": "I looked under the bed"
+    },
+    {
+      "t": 69.13,
+      "end": 69.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.13,
+      "end": 85.67,
+      "text": "Where's Bernard, where'd he go"
+    },
+    {
+      "t": 87.37,
+      "end": 90.25,
+      "text": "Not by the bins, not in the rhubarb"
+    },
+    {
+      "t": 91.13,
+      "end": 94.27,
+      "text": "Three weeks now and the lettuce is limp"
+    },
+    {
+      "t": 95.49,
+      "end": 98.45,
+      "text": "Where's Bernard, where's he gone"
+    },
+    {
+      "t": 115.55,
+      "end": 115.55,
+      "text": "[Bridge - fiddle break]"
+    },
+    {
+      "t": 115.55,
+      "end": 118.77,
+      "text": "Then I went to pull my boots on"
+    },
+    {
+      "t": 119.43,
+      "end": 130.01,
+      "text": "And my left boot wouldn't go"
+    },
+    {
+      "t": 134.25,
+      "end": 134.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.25,
+      "end": 137.15,
+      "text": "There's Bernard, there he is"
+    },
+    {
+      "t": 138.82,
+      "end": 142.78,
+      "text": "Snoring in my wellie"
+    },
+    {
+      "t": 142.9,
+      "end": 145.66,
+      "text": "Three weeks by the back door"
+    },
+    {
+      "t": 146.52,
+      "end": 149.48,
+      "text": "There's Bernard, home all along"
+    },
+    {
+      "t": 152.7,
+      "end": 152.7,
+      "text": "[Outro - stomps and fiddle]"
+    },
+    {
+      "t": 152.7,
+      "end": 178.72,
+      "text": "Slow as Sunday, Bernard"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.32,
+      "end": 17.32,
+      "text": "[Intro - fiddle and banjo]"
+    },
+    {
+      "t": 17.32,
+      "end": 17.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.32,
+      "end": 19.42,
+      "text": "Bernard took a walk one Tuesday"
+    },
+    {
+      "t": 20.86,
+      "end": 23.38,
+      "text": "Slow as Sunday, out the gate"
+    },
+    {
+      "t": 25.0,
+      "end": 27.36,
+      "text": "Ninety years he's got to live"
+    },
+    {
+      "t": 27.36,
+      "end": 28.88,
+      "text": "So he's in no hurry, mate"
+    },
+    {
+      "t": 28.9,
+      "end": 28.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 28.9,
+      "end": 31.3,
+      "text": "Where's Bernard, where'd he go"
+    },
+    {
+      "t": 32.74,
+      "end": 35.68,
+      "text": "Not in the hedge, not in the peas"
+    },
+    {
+      "t": 37.04,
+      "end": 39.8,
+      "text": "Lettuce on a saucer by the door"
+    },
+    {
+      "t": 40.86,
+      "end": 48.35,
+      "text": "Where's Bernard, where's he gone"
+    },
+    {
+      "t": 51.03,
+      "end": 51.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 51.03,
+      "end": 53.69,
+      "text": "The kids put posters on the fence"
+    },
+    {
+      "t": 55.07,
+      "end": 57.25,
+      "text": "My wife looked in the shed"
+    },
+    {
+      "t": 59.19,
+      "end": 78.69,
+      "text": "We turned the compost twenty times"
+    },
+    {
+      "t": 79.75,
+      "end": 82.19,
+      "text": "I looked under the bed"
+    },
+    {
+      "t": 83.63,
+      "end": 83.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 83.63,
+      "end": 85.67,
+      "text": "Where's Bernard, where'd he go"
+    },
+    {
+      "t": 87.37,
+      "end": 90.21,
+      "text": "Not by the bins, not in the rhubarb"
+    },
+    {
+      "t": 91.13,
+      "end": 94.27,
+      "text": "Three weeks now and the lettuce is limp"
+    },
+    {
+      "t": 95.49,
+      "end": 120.05,
+      "text": "Where's Bernard, where's he gone"
+    },
+    {
+      "t": 123.71,
+      "end": 123.71,
+      "text": "[Bridge - fiddle break]"
+    },
+    {
+      "t": 123.71,
+      "end": 126.57,
+      "text": "Then I went to pull my boots on"
+    },
+    {
+      "t": 127.41,
+      "end": 130.01,
+      "text": "And my left boot wouldn't go"
+    },
+    {
+      "t": 134.23,
+      "end": 134.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.23,
+      "end": 137.13,
+      "text": "There's Bernard, there he is"
+    },
+    {
+      "t": 138.82,
+      "end": 141.12,
+      "text": "Snoring in my wellie"
+    },
+    {
+      "t": 142.9,
+      "end": 145.62,
+      "text": "Three weeks by the back door"
+    },
+    {
+      "t": 146.52,
+      "end": 149.5,
+      "text": "There's Bernard, home all along"
+    },
+    {
+      "t": 152.7,
+      "end": 152.7,
+      "text": "[Outro - stomps and fiddle]"
+    },
+    {
+      "t": 152.7,
+      "end": 168.82,
+      "text": "Slow as Sunday, Bernard"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

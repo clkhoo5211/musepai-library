@@ -1,0 +1,414 @@
+{
+  "id": "b16_ms02",
+  "title": "Kucing Tuan Rumah",
+  "title_source": "scripted",
+  "genre": "Malay rockabilly (1950s rock and roll revival)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "cheeky, bouncy, comic",
+  "persona": "",
+  "subject": "a tenant in Petaling Jaya who gets fifty ringgit off his rent each month for bathing his landlady's huge, furious Persian cat called Datuk every Saturday",
+  "caption": "Malay rockabilly, 1950s rock and roll revival. Hollow-body electric guitar with slapback echo playing twangy lead fills, slapped upright bass clicking on every beat, snare-and-brush rockabilly kit with a shuffle, honky-tonk piano rolls. Vintage room sound with tape slapback. Male baritone, hiccupping rockabilly delivery with spoken asides. 168 BPM, E major. Cheeky, bouncy and comic. No autotune, no EDM, no trap drums, no modern pop-punk power chords, no synths.",
+  "lyrics": "[Intro - slapback guitar and slapped bass]\n\n[Verse 1]\nSewa bilik lima ratus\nTolak lima puluh, cun\nSyaratnya satu sahaja\nMandikan Datuk tiap Sabtu\n\n[Pre-Chorus]\nDatuk tu bukan orang\nDatuk tu kucing Parsi\n\n[Chorus]\nDatuk, Datuk, jangan cakar\nAir suam dah siap pasang\nDatuk, Datuk, duduk diam\nLima puluh ringgit, sayang\n\n[Verse 2]\nDia lompat atas peti\nBulu basah melekat baju\nMakcik jerit dari dapur\nJangan lupa sikat dulu\n\n[Chorus]\nDatuk, Datuk, jangan cakar\nTuala biru dah sedia\nDatuk, Datuk, lepas ni\nLepas ni giliran saya mandi\n\n[Outro - guitar solo, spoken 'Datuk!' and a final hiccup]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Malay rockabilly, 1950s rock and roll revival. Hollow-body electric guitar with slapback echo playing twangy lead fills, slapped upright bass clicking on every beat, snare-and-brush rockabilly kit with a shuffle, honky-tonk piano rolls. Vintage room sound with tape slapback. Male baritone, hiccupping rockabilly delivery with spoken asides. 168 BPM, E major. Cheeky, bouncy and comic. No autotune, no EDM, no trap drums, no modern pop-punk power chords, no synths.",
+    "lyrics": "[Intro - slapback guitar and slapped bass]\n\n[Verse 1]\nSewa bilik lima ratus\nTolak lima puluh, cun\nSyaratnya satu sahaja\nMandikan Datuk tiap Sabtu\n\n[Pre-Chorus]\nDatuk tu bukan orang\nDatuk tu kucing Parsi\n\n[Chorus]\nDatuk, Datuk, jangan cakar\nAir suam dah siap pasang\nDatuk, Datuk, duduk diam\nLima puluh ringgit, sayang\n\n[Verse 2]\nDia lompat atas peti\nBulu basah melekat baju\nMakcik jerit dari dapur\nJangan lupa sikat dulu\n\n[Chorus]\nDatuk, Datuk, jangan cakar\nTuala biru dah sedia\nDatuk, Datuk, lepas ni\nLepas ni giliran saya mandi\n\n[Outro - guitar solo, spoken 'Datuk!' and a final hiccup]"
+  },
+  "seed": "1598381602",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 91.29s**\n- 91.29s per song\n- LM phase (1 song): 15.08s\n- DiT phase (1 song): 76.22s",
+  "task_id": "c32c5c1b-faa9-41c9-a940-a67f5605db86",
+  "elapsed_s": 120.8,
+  "generated_at": "2026-10-29T13:01:03.955002+08:00",
+  "audio": "b16_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.66,
+      "end": 23.66,
+      "text": "[Intro - slapback guitar and slapped bass]"
+    },
+    {
+      "t": 23.66,
+      "end": 23.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.66,
+      "end": 26.02,
+      "text": "Sewa bilik lima ratus"
+    },
+    {
+      "t": 26.5,
+      "end": 29.22,
+      "text": "Tolak lima puluh, cun"
+    },
+    {
+      "t": 32.34,
+      "end": 35.34,
+      "text": "Syaratnya satu sahaja"
+    },
+    {
+      "t": 37.46,
+      "end": 41.16,
+      "text": "Mandikan Datuk tiap Sabtu"
+    },
+    {
+      "t": 43.3,
+      "end": 43.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.3,
+      "end": 45.79,
+      "text": "Datuk tu bukan orang"
+    },
+    {
+      "t": 45.79,
+      "end": 47.35,
+      "text": "Datuk tu kucing Parsi"
+    },
+    {
+      "t": 48.95,
+      "end": 48.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.95,
+      "end": 52.95,
+      "text": "Datuk, Datuk, jangan cakar"
+    },
+    {
+      "t": 53.05,
+      "end": 55.09,
+      "text": "Air suam dah siap pasang"
+    },
+    {
+      "t": 60.61,
+      "end": 63.65,
+      "text": "Datuk, Datuk, duduk diam"
+    },
+    {
+      "t": 66.25,
+      "end": 69.27,
+      "text": "Lima puluh ringgit, sayang"
+    },
+    {
+      "t": 72.49,
+      "end": 72.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.49,
+      "end": 74.71,
+      "text": "Dia lompat atas peti"
+    },
+    {
+      "t": 77.55,
+      "end": 80.35,
+      "text": "Bulu basah melekat baju"
+    },
+    {
+      "t": 83.19,
+      "end": 86.29,
+      "text": "Makcik jerit dari dapur"
+    },
+    {
+      "t": 88.83,
+      "end": 91.67,
+      "text": "Jangan lupa sikat dulu"
+    },
+    {
+      "t": 94.51,
+      "end": 94.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.51,
+      "end": 100.77,
+      "text": "Datuk, Datuk, jangan cakar"
+    },
+    {
+      "t": 100.87,
+      "end": 110.65,
+      "text": "Tuala biru dah sedia"
+    },
+    {
+      "t": 115.89,
+      "end": 165.26,
+      "text": "Datuk, Datuk, lepas ni"
+    },
+    {
+      "t": 165.9,
+      "end": 175.02,
+      "text": "Lepas ni giliran saya mandi"
+    },
+    {
+      "t": 175.02,
+      "end": 175.02,
+      "text": "[Outro - guitar solo, spoken 'Datuk!' and a final hiccup]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.66,
+      "end": 23.66,
+      "text": "[Intro - slapback guitar and slapped bass]"
+    },
+    {
+      "t": 23.66,
+      "end": 23.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.66,
+      "end": 26.02,
+      "text": "Sewa bilik lima ratus"
+    },
+    {
+      "t": 26.5,
+      "end": 29.22,
+      "text": "Tolak lima puluh, cun"
+    },
+    {
+      "t": 32.34,
+      "end": 35.34,
+      "text": "Syaratnya satu sahaja"
+    },
+    {
+      "t": 37.46,
+      "end": 41.16,
+      "text": "Mandikan Datuk tiap Sabtu"
+    },
+    {
+      "t": 43.3,
+      "end": 43.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.3,
+      "end": 45.79,
+      "text": "Datuk tu bukan orang"
+    },
+    {
+      "t": 45.79,
+      "end": 47.35,
+      "text": "Datuk tu kucing Parsi"
+    },
+    {
+      "t": 48.95,
+      "end": 48.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.95,
+      "end": 52.95,
+      "text": "Datuk, Datuk, jangan cakar"
+    },
+    {
+      "t": 53.05,
+      "end": 55.09,
+      "text": "Air suam dah siap pasang"
+    },
+    {
+      "t": 60.61,
+      "end": 63.65,
+      "text": "Datuk, Datuk, duduk diam"
+    },
+    {
+      "t": 66.25,
+      "end": 69.27,
+      "text": "Lima puluh ringgit, sayang"
+    },
+    {
+      "t": 72.49,
+      "end": 72.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.49,
+      "end": 74.71,
+      "text": "Dia lompat atas peti"
+    },
+    {
+      "t": 77.55,
+      "end": 80.35,
+      "text": "Bulu basah melekat baju"
+    },
+    {
+      "t": 83.19,
+      "end": 86.29,
+      "text": "Makcik jerit dari dapur"
+    },
+    {
+      "t": 88.83,
+      "end": 91.67,
+      "text": "Jangan lupa sikat dulu"
+    },
+    {
+      "t": 94.51,
+      "end": 94.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.51,
+      "end": 100.77,
+      "text": "Datuk, Datuk, jangan cakar"
+    },
+    {
+      "t": 100.87,
+      "end": 110.65,
+      "text": "Tuala biru dah sedia"
+    },
+    {
+      "t": 115.89,
+      "end": 165.26,
+      "text": "Datuk, Datuk, lepas ni"
+    },
+    {
+      "t": 165.9,
+      "end": 175.02,
+      "text": "Lepas ni giliran saya mandi"
+    },
+    {
+      "t": 175.02,
+      "end": 175.02,
+      "text": "[Outro - guitar solo, spoken 'Datuk!' and a final hiccup]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.66,
+      "end": 23.66,
+      "text": "[Intro - slapback guitar and slapped bass]"
+    },
+    {
+      "t": 23.66,
+      "end": 23.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.66,
+      "end": 26.04,
+      "text": "Sewa bilik lima ratus"
+    },
+    {
+      "t": 26.52,
+      "end": 29.22,
+      "text": "Tolak lima puluh, cun"
+    },
+    {
+      "t": 32.36,
+      "end": 35.34,
+      "text": "Syaratnya satu sahaja"
+    },
+    {
+      "t": 37.48,
+      "end": 41.16,
+      "text": "Mandikan Datuk tiap Sabtu"
+    },
+    {
+      "t": 43.3,
+      "end": 43.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.3,
+      "end": 45.79,
+      "text": "Datuk tu bukan orang"
+    },
+    {
+      "t": 45.79,
+      "end": 47.47,
+      "text": "Datuk tu kucing Parsi"
+    },
+    {
+      "t": 48.97,
+      "end": 48.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.97,
+      "end": 55.05,
+      "text": "Datuk, Datuk, jangan cakar"
+    },
+    {
+      "t": 55.71,
+      "end": 60.59,
+      "text": "Air suam dah siap pasang"
+    },
+    {
+      "t": 60.61,
+      "end": 63.63,
+      "text": "Datuk, Datuk, duduk diam"
+    },
+    {
+      "t": 66.27,
+      "end": 69.27,
+      "text": "Lima puluh ringgit, sayang"
+    },
+    {
+      "t": 72.49,
+      "end": 72.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.49,
+      "end": 74.71,
+      "text": "Dia lompat atas peti"
+    },
+    {
+      "t": 77.55,
+      "end": 80.35,
+      "text": "Bulu basah melekat baju"
+    },
+    {
+      "t": 83.19,
+      "end": 86.29,
+      "text": "Makcik jerit dari dapur"
+    },
+    {
+      "t": 88.83,
+      "end": 91.67,
+      "text": "Jangan lupa sikat dulu"
+    },
+    {
+      "t": 94.51,
+      "end": 94.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.51,
+      "end": 100.77,
+      "text": "Datuk, Datuk, jangan cakar"
+    },
+    {
+      "t": 100.87,
+      "end": 112.05,
+      "text": "Tuala biru dah sedia"
+    },
+    {
+      "t": 112.31,
+      "end": 159.66,
+      "text": "Datuk, Datuk, lepas ni"
+    },
+    {
+      "t": 160.46,
+      "end": 171.3,
+      "text": "Lepas ni giliran saya mandi"
+    },
+    {
+      "t": 171.3,
+      "end": 171.3,
+      "text": "[Outro - guitar solo, spoken 'Datuk!' and a final hiccup]"
+    }
+  ]
+}

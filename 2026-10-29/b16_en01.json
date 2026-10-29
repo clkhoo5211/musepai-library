@@ -1,0 +1,357 @@
+{
+  "id": "b16_en01",
+  "title": "Ten More Minutes",
+  "title_source": "scripted",
+  "genre": "gospel-tinged piano folk-pop ballad",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, warm and unhurried",
+  "persona": "",
+  "subject": "a husband who sets the alarm ten minutes before it needs to go off every weekday so he and his wife can lie awake talking about nothing before the day starts",
+  "caption": "Gospel-tinged piano folk-pop ballad, mid-2020s chart style. Upright piano playing slow rolling chords, fingerpicked acoustic guitar, a sustained cello line under the verses, a small gospel choir answering the last chorus, soft kick and handclaps on two and four. Intimate room mix with warm tape softness. Male tenor, hushed and close in the verses, opening to full voice in the choruses. 72 BPM, D major. Tender, warm and unhurried. No trap drums, no autotune, no EDM build, no country twang, no rock guitar solo.",
+  "lyrics": "[Intro - upright piano and cello]\n\n[Verse 1]\nSix-fifteen, the phone goes off\nI set it early, on purpose\nYou don't even open your eyes\nYou just say morning to the pillow\n\n[Chorus]\nGive me ten more minutes\nTalking nonsense in the dark\nLike what we'd name a boat\nBefore the day knows where we are\n\n[Verse 2]\nYou tell me what you saw asleep\nI swear I was in it too\nThe heating ticks, the street is dark\nNobody needs us yet\n\n[Chorus]\nGive me ten more minutes\nStill arguing about the boat\nYou want Margaret\nI say Margaret's a coat\n\n[Bridge - choir enters]\nThirty years from now\nI'll still set it early\n\n[Chorus]\nGive me ten more minutes\nYour cold foot on my shin\nTen more minutes\nThen the day can come in\n\n[Outro - piano alone]\nSix-fifteen\nStay there, love",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Gospel-tinged piano folk-pop ballad, mid-2020s chart style. Upright piano playing slow rolling chords, fingerpicked acoustic guitar, a sustained cello line under the verses, a small gospel choir answering the last chorus, soft kick and handclaps on two and four. Intimate room mix with warm tape softness. Male tenor, hushed and close in the verses, opening to full voice in the choruses. 72 BPM, D major. Tender, warm and unhurried. No trap drums, no autotune, no EDM build, no country twang, no rock guitar solo.",
+    "lyrics": "[Intro - upright piano and cello]\n\n[Verse 1]\nSix-fifteen, the phone goes off\nI set it early, on purpose\nYou don't even open your eyes\nYou just say morning to the pillow\n\n[Chorus]\nGive me ten more minutes\nTalking nonsense in the dark\nLike what we'd name a boat\nBefore the day knows where we are\n\n[Verse 2]\nYou tell me what you saw asleep\nI swear I was in it too\nThe heating ticks, the street is dark\nNobody needs us yet\n\n[Chorus]\nGive me ten more minutes\nStill arguing about the boat\nYou want Margaret\nI say Margaret's a coat\n\n[Bridge - choir enters]\nThirty years from now\nI'll still set it early\n\n[Chorus]\nGive me ten more minutes\nYour cold foot on my shin\nTen more minutes\nThen the day can come in\n\n[Outro - piano alone]\nSix-fifteen\nStay there, love"
+  },
+  "seed": "1867777260",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 75.35s**\n- 75.35s per song\n- LM phase (1 song): 17.57s\n- DiT phase (1 song): 57.77s",
+  "task_id": "2f4ed864-1cf3-4b8d-9546-9f25c8a238cf",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-10-29T13:37:23.155776+08:00",
+  "audio": "b16_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.46,
+      "end": 7.46,
+      "text": "[Intro - upright piano and cello]"
+    },
+    {
+      "t": 7.46,
+      "end": 7.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.46,
+      "end": 12.08,
+      "text": "Six-fifteen, the phone goes off"
+    },
+    {
+      "t": 12.2,
+      "end": 27.24,
+      "text": "I set it early, on purpose"
+    },
+    {
+      "t": 29.04,
+      "end": 35.02,
+      "text": "You don't even open your eyes"
+    },
+    {
+      "t": 37.3,
+      "end": 42.2,
+      "text": "You just say morning to the pillow"
+    },
+    {
+      "t": 42.2,
+      "end": 42.2,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.2,
+      "end": 48.58,
+      "text": "Give me ten more minutes"
+    },
+    {
+      "t": 48.58,
+      "end": 52.39,
+      "text": "Talking nonsense in the dark"
+    },
+    {
+      "t": 52.39,
+      "end": 57.53,
+      "text": "Like what we'd name a boat"
+    },
+    {
+      "t": 58.79,
+      "end": 61.77,
+      "text": "Before the day knows where we are"
+    },
+    {
+      "t": 66.11,
+      "end": 66.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.11,
+      "end": 71.69,
+      "text": "You tell me what you saw asleep"
+    },
+    {
+      "t": 71.73,
+      "end": 73.97,
+      "text": "I swear I was in it too"
+    },
+    {
+      "t": 78.63,
+      "end": 82.17,
+      "text": "The heating ticks, the street is dark"
+    },
+    {
+      "t": 83.31,
+      "end": 90.43,
+      "text": "Nobody needs us yet"
+    },
+    {
+      "t": 90.59,
+      "end": 90.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.59,
+      "end": 93.23,
+      "text": "Give me ten more minutes"
+    },
+    {
+      "t": 95.41,
+      "end": 99.11,
+      "text": "Still arguing about the boat"
+    },
+    {
+      "t": 103.93,
+      "end": 108.09,
+      "text": "You want Margaret"
+    },
+    {
+      "t": 109.41,
+      "end": 112.11,
+      "text": "I say Margaret's a coat"
+    },
+    {
+      "t": 118.51,
+      "end": 118.51,
+      "text": "[Bridge - choir enters]"
+    },
+    {
+      "t": 118.51,
+      "end": 121.35,
+      "text": "Thirty years from now"
+    },
+    {
+      "t": 121.77,
+      "end": 122.87,
+      "text": "I'll still set it early"
+    },
+    {
+      "t": 122.87,
+      "end": 122.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.87,
+      "end": 123.51,
+      "text": "Give me ten more minutes"
+    },
+    {
+      "t": 123.51,
+      "end": 124.91,
+      "text": "Your cold foot on my shin"
+    },
+    {
+      "t": 127.77,
+      "end": 149.85,
+      "text": "Ten more minutes"
+    },
+    {
+      "t": 149.95,
+      "end": 164.94,
+      "text": "Then the day can come in"
+    },
+    {
+      "t": 170.08,
+      "end": 170.08,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 170.08,
+      "end": 176.8,
+      "text": "Six-fifteen"
+    },
+    {
+      "t": 184.32,
+      "end": 194.56,
+      "text": "Stay there, love"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.46,
+      "end": 7.46,
+      "text": "[Intro - upright piano and cello]"
+    },
+    {
+      "t": 7.46,
+      "end": 7.46,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.46,
+      "end": 12.08,
+      "text": "Six-fifteen, the phone goes off"
+    },
+    {
+      "t": 12.2,
+      "end": 29.08,
+      "text": "I set it early, on purpose"
+    },
+    {
+      "t": 29.4,
+      "end": 37.3,
+      "text": "You don't even open your eyes"
+    },
+    {
+      "t": 37.3,
+      "end": 42.2,
+      "text": "You just say morning to the pillow"
+    },
+    {
+      "t": 42.2,
+      "end": 42.2,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.2,
+      "end": 48.54,
+      "text": "Give me ten more minutes"
+    },
+    {
+      "t": 48.56,
+      "end": 52.39,
+      "text": "Talking nonsense in the dark"
+    },
+    {
+      "t": 52.39,
+      "end": 57.53,
+      "text": "Like what we'd name a boat"
+    },
+    {
+      "t": 58.79,
+      "end": 61.75,
+      "text": "Before the day knows where we are"
+    },
+    {
+      "t": 66.11,
+      "end": 66.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.11,
+      "end": 71.71,
+      "text": "You tell me what you saw asleep"
+    },
+    {
+      "t": 71.73,
+      "end": 73.97,
+      "text": "I swear I was in it too"
+    },
+    {
+      "t": 78.63,
+      "end": 83.31,
+      "text": "The heating ticks, the street is dark"
+    },
+    {
+      "t": 83.31,
+      "end": 90.43,
+      "text": "Nobody needs us yet"
+    },
+    {
+      "t": 90.57,
+      "end": 90.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.57,
+      "end": 93.27,
+      "text": "Give me ten more minutes"
+    },
+    {
+      "t": 95.41,
+      "end": 99.13,
+      "text": "Still arguing about the boat"
+    },
+    {
+      "t": 103.91,
+      "end": 108.09,
+      "text": "You want Margaret"
+    },
+    {
+      "t": 109.41,
+      "end": 112.15,
+      "text": "I say Margaret's a coat"
+    },
+    {
+      "t": 118.55,
+      "end": 118.55,
+      "text": "[Bridge - choir enters]"
+    },
+    {
+      "t": 118.55,
+      "end": 121.37,
+      "text": "Thirty years from now"
+    },
+    {
+      "t": 121.91,
+      "end": 124.45,
+      "text": "I'll still set it early"
+    },
+    {
+      "t": 124.57,
+      "end": 124.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.57,
+      "end": 142.93,
+      "text": "Give me ten more minutes"
+    },
+    {
+      "t": 143.03,
+      "end": 150.31,
+      "text": "Your cold foot on my shin"
+    },
+    {
+      "t": 150.35,
+      "end": 175.66,
+      "text": "Ten more minutes"
+    },
+    {
+      "t": 175.76,
+      "end": 177.24,
+      "text": "Then the day can come in"
+    },
+    {
+      "t": 181.9,
+      "end": 181.9,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 181.9,
+      "end": 184.34,
+      "text": "Six-fifteen"
+    },
+    {
+      "t": 184.34,
+      "end": 195.94,
+      "text": "Stay there, love"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

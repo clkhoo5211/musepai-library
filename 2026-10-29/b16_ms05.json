@@ -1,0 +1,287 @@
+{
+  "id": "b16_ms05",
+  "title": "Sepuluh Lagi, Abang",
+  "title_source": "scripted",
+  "genre": "KL rempit club (Malay gabber-breakcore with kompang)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "loud, sweaty, triumphant, comic",
+  "persona": "",
+  "subject": "a man doing knee physiotherapy after ligament surgery at a hospital in Klang, whose physiotherapist counts his leg raises like a club MC until he can climb a step unaided",
+  "caption": "KL rempit club music, Malay gabber-breakcore. Distorted gabber kick, chopped amen breaks, live kompang frame-drum patterns layered over the kick, hoover synth stabs, a reedy serunai-like lead synth melody. Raw overdriven club mix with saturated kicks. Female coach voice shouting call lines and a tired male patient answering, chanted unison hooks in a clear speaking range. 180 BPM, A minor. Loud, sweaty, triumphant and comic. No autotune, no trap, no pop ballad section, no dubstep wobble, no rap verses.",
+  "lyrics": "[Intro - kompang and hoover stabs, kick builds]\n\n[Verse 1]\nBilik fisio tingkat tiga\nLutut baru dijahit\nKak Ros tepuk tangan kuat\nAngkat kaki, jangan lambat\n\n[Pre-Chorus]\nSatu, dua, tiga, empat\nPeluh dah turun ke mata\n\n[Chorus]\nSepuluh lagi, abang\nAngkat, turun, tahan\nSepuluh lagi, abang\nLutut abang boleh tahan\n\n[Verse 2]\nMinggu ketiga, tongkat hilang\nSatu anak tangga macam gunung\nKak Ros jerit macam DJ\nNaik, naik, jangan tunduk\n\n[Chorus]\nSepuluh lagi, abang\nAngkat, turun, tahan\nSatu tangga, abang naik\nKak Ros pun menangis sikit\n\n[Outro - kompang alone, final kick hit]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 180,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "KL rempit club music, Malay gabber-breakcore. Distorted gabber kick, chopped amen breaks, live kompang frame-drum patterns layered over the kick, hoover synth stabs, a reedy serunai-like lead synth melody. Raw overdriven club mix with saturated kicks. Female coach voice shouting call lines and a tired male patient answering, chanted unison hooks in a clear speaking range. 180 BPM, A minor. Loud, sweaty, triumphant and comic. No autotune, no trap, no pop ballad section, no dubstep wobble, no rap verses.",
+    "lyrics": "[Intro - kompang and hoover stabs, kick builds]\n\n[Verse 1]\nBilik fisio tingkat tiga\nLutut baru dijahit\nKak Ros tepuk tangan kuat\nAngkat kaki, jangan lambat\n\n[Pre-Chorus]\nSatu, dua, tiga, empat\nPeluh dah turun ke mata\n\n[Chorus]\nSepuluh lagi, abang\nAngkat, turun, tahan\nSepuluh lagi, abang\nLutut abang boleh tahan\n\n[Verse 2]\nMinggu ketiga, tongkat hilang\nSatu anak tangga macam gunung\nKak Ros jerit macam DJ\nNaik, naik, jangan tunduk\n\n[Chorus]\nSepuluh lagi, abang\nAngkat, turun, tahan\nSatu tangga, abang naik\nKak Ros pun menangis sikit\n\n[Outro - kompang alone, final kick hit]"
+  },
+  "seed": "2847476740",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 83.31s**\n- 83.31s per song\n- LM phase (1 song): 12.90s\n- DiT phase (1 song): 70.41s",
+  "task_id": "f92719f0-d772-42d7-ab16-435f6c21758a",
+  "elapsed_s": 110.4,
+  "generated_at": "2026-10-29T13:06:34.667205+08:00",
+  "audio": "b16_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.74,
+      "end": 37.74,
+      "text": "[Intro - kompang and hoover stabs, kick builds]"
+    },
+    {
+      "t": 37.74,
+      "end": 37.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.74,
+      "end": 40.06,
+      "text": "Bilik fisio tingkat tiga"
+    },
+    {
+      "t": 43.12,
+      "end": 45.51,
+      "text": "Lutut baru dijahit"
+    },
+    {
+      "t": 48.27,
+      "end": 50.91,
+      "text": "Kak Ros tepuk tangan kuat"
+    },
+    {
+      "t": 54.81,
+      "end": 58.77,
+      "text": "Angkat kaki, jangan lambat"
+    },
+    {
+      "t": 58.77,
+      "end": 58.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.77,
+      "end": 59.15,
+      "text": "Satu, dua, tiga, empat"
+    },
+    {
+      "t": 59.15,
+      "end": 60.51,
+      "text": "Peluh dah turun ke mata"
+    },
+    {
+      "t": 60.51,
+      "end": 60.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.51,
+      "end": 61.85,
+      "text": "Sepuluh lagi, abang"
+    },
+    {
+      "t": 61.85,
+      "end": 62.25,
+      "text": "Angkat, turun, tahan"
+    },
+    {
+      "t": 62.25,
+      "end": 68.71,
+      "text": "Sepuluh lagi, abang"
+    },
+    {
+      "t": 68.71,
+      "end": 73.73,
+      "text": "Lutut abang boleh tahan"
+    },
+    {
+      "t": 76.23,
+      "end": 76.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.23,
+      "end": 80.35,
+      "text": "Minggu ketiga, tongkat hilang"
+    },
+    {
+      "t": 82.13,
+      "end": 86.07,
+      "text": "Satu anak tangga macam gunung"
+    },
+    {
+      "t": 87.07,
+      "end": 95.57,
+      "text": "Kak Ros jerit macam DJ"
+    },
+    {
+      "t": 96.25,
+      "end": 100.77,
+      "text": "Naik, naik, jangan tunduk"
+    },
+    {
+      "t": 102.85,
+      "end": 102.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.85,
+      "end": 111.05,
+      "text": "Sepuluh lagi, abang"
+    },
+    {
+      "t": 111.31,
+      "end": 116.03,
+      "text": "Angkat, turun, tahan"
+    },
+    {
+      "t": 116.51,
+      "end": 124.41,
+      "text": "Satu tangga, abang naik"
+    },
+    {
+      "t": 124.53,
+      "end": 144.04,
+      "text": "Kak Ros pun menangis sikit"
+    },
+    {
+      "t": 144.04,
+      "end": 144.04,
+      "text": "[Outro - kompang alone, final kick hit]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.74,
+      "end": 37.74,
+      "text": "[Intro - kompang and hoover stabs, kick builds]"
+    },
+    {
+      "t": 37.74,
+      "end": 37.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.74,
+      "end": 40.08,
+      "text": "Bilik fisio tingkat tiga"
+    },
+    {
+      "t": 43.12,
+      "end": 45.45,
+      "text": "Lutut baru dijahit"
+    },
+    {
+      "t": 48.25,
+      "end": 50.91,
+      "text": "Kak Ros tepuk tangan kuat"
+    },
+    {
+      "t": 54.81,
+      "end": 58.65,
+      "text": "Angkat kaki, jangan lambat"
+    },
+    {
+      "t": 58.65,
+      "end": 58.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.65,
+      "end": 59.43,
+      "text": "Satu, dua, tiga, empat"
+    },
+    {
+      "t": 59.73,
+      "end": 60.51,
+      "text": "Peluh dah turun ke mata"
+    },
+    {
+      "t": 60.51,
+      "end": 60.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.51,
+      "end": 61.85,
+      "text": "Sepuluh lagi, abang"
+    },
+    {
+      "t": 61.85,
+      "end": 62.23,
+      "text": "Angkat, turun, tahan"
+    },
+    {
+      "t": 62.23,
+      "end": 68.71,
+      "text": "Sepuluh lagi, abang"
+    },
+    {
+      "t": 68.71,
+      "end": 73.73,
+      "text": "Lutut abang boleh tahan"
+    },
+    {
+      "t": 76.21,
+      "end": 76.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.21,
+      "end": 80.35,
+      "text": "Minggu ketiga, tongkat hilang"
+    },
+    {
+      "t": 82.13,
+      "end": 91.15,
+      "text": "Satu anak tangga macam gunung"
+    },
+    {
+      "t": 92.51,
+      "end": 95.57,
+      "text": "Kak Ros jerit macam DJ"
+    },
+    {
+      "t": 96.25,
+      "end": 100.79,
+      "text": "Naik, naik, jangan tunduk"
+    },
+    {
+      "t": 102.85,
+      "end": 102.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.85,
+      "end": 104.83,
+      "text": "Sepuluh lagi, abang"
+    },
+    {
+      "t": 109.03,
+      "end": 116.03,
+      "text": "Angkat, turun, tahan"
+    },
+    {
+      "t": 116.51,
+      "end": 122.31,
+      "text": "Satu tangga, abang naik"
+    },
+    {
+      "t": 124.51,
+      "end": 144.04,
+      "text": "Kak Ros pun menangis sikit"
+    },
+    {
+      "t": 144.04,
+      "end": 144.04,
+      "text": "[Outro - kompang alone, final kick hit]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

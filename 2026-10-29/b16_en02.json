@@ -1,0 +1,377 @@
+{
+  "id": "b16_en02",
+  "title": "Wrong Room, Right Boots",
+  "title_source": "scripted",
+  "genre": "80s-flavoured cowgirl synth-pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cheeky, bright and danceable",
+  "persona": "",
+  "subject": "a woman who walks into the wrong room at the leisure centre expecting spin class and finds a Thursday line-dancing class for pensioners, stays out of politeness, and by week three owns the boots",
+  "caption": "80s-flavoured cowgirl synth-pop, mid-2020s chart style. Gated LinnDrum kit with a driving four-on-the-floor, pulsing analog synth bass, bright stabbing synth brass, a twangy clean electric guitar playing country licks, stacked handclaps. Glossy 80s reverb, punchy wide mix. Female mezzo, sassy half-spoken verses and a big belted chorus. 122 BPM, A major. Cheeky, bright and danceable. No trap hi-hats, no autotune, no dubstep drop, no banjo, no ballad slowdown.",
+  "lyrics": "[Intro - synth brass and LinnDrum]\n\n[Verse 1]\nThursday night in cycling shorts\nRoom four, I thought it said\nSixteen grannies in a row\nAnd Derek in a hat instead\n\n[Pre-Chorus]\nI should have backed out slow\nBut Joan already said hello\n\n[Chorus]\nWrong room, right boots\nHeel, toe, turn around\nI came here to sweat\nNow I'm doing the Tush Push\n\n[Verse 2]\nWeek two, a western shirt\nWeek three, the boots were red\nJoan says I kick too high\nDerek nods his head\n\n[Chorus]\nWrong room, right boots\nHeel, toe, turn around\nSpin class down the hall\nCan keep its bikes, I'm country now\n\n[Bridge - handclaps]\nGrapevine left\nGrapevine right\n\n[Chorus]\nWrong room, right boots\nJoan still runs this town\nI came here to sweat\nNow I'm teaching Derek how\n\n[Outro - twangy guitar and synth bass]\nRoom four, Thursday night",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "80s-flavoured cowgirl synth-pop, mid-2020s chart style. Gated LinnDrum kit with a driving four-on-the-floor, pulsing analog synth bass, bright stabbing synth brass, a twangy clean electric guitar playing country licks, stacked handclaps. Glossy 80s reverb, punchy wide mix. Female mezzo, sassy half-spoken verses and a big belted chorus. 122 BPM, A major. Cheeky, bright and danceable. No trap hi-hats, no autotune, no dubstep drop, no banjo, no ballad slowdown.",
+    "lyrics": "[Intro - synth brass and LinnDrum]\n\n[Verse 1]\nThursday night in cycling shorts\nRoom four, I thought it said\nSixteen grannies in a row\nAnd Derek in a hat instead\n\n[Pre-Chorus]\nI should have backed out slow\nBut Joan already said hello\n\n[Chorus]\nWrong room, right boots\nHeel, toe, turn around\nI came here to sweat\nNow I'm doing the Tush Push\n\n[Verse 2]\nWeek two, a western shirt\nWeek three, the boots were red\nJoan says I kick too high\nDerek nods his head\n\n[Chorus]\nWrong room, right boots\nHeel, toe, turn around\nSpin class down the hall\nCan keep its bikes, I'm country now\n\n[Bridge - handclaps]\nGrapevine left\nGrapevine right\n\n[Chorus]\nWrong room, right boots\nJoan still runs this town\nI came here to sweat\nNow I'm teaching Derek how\n\n[Outro - twangy guitar and synth bass]\nRoom four, Thursday night"
+  },
+  "seed": "3371549549",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 84.56s**\n- 84.56s per song\n- LM phase (1 song): 19.72s\n- DiT phase (1 song): 64.83s",
+  "task_id": "dbe1759c-dcf0-495e-94e5-7da27bdfecf6",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-10-29T13:39:23.367147+08:00",
+  "audio": "b16_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.12,
+      "end": 24.12,
+      "text": "[Intro - synth brass and LinnDrum]"
+    },
+    {
+      "t": 24.12,
+      "end": 24.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.12,
+      "end": 26.24,
+      "text": "Thursday night in cycling shorts"
+    },
+    {
+      "t": 27.58,
+      "end": 29.98,
+      "text": "Room four, I thought it said"
+    },
+    {
+      "t": 32.0,
+      "end": 33.88,
+      "text": "Sixteen grannies in a row"
+    },
+    {
+      "t": 37.02,
+      "end": 42.56,
+      "text": "And Derek in a hat instead"
+    },
+    {
+      "t": 43.58,
+      "end": 43.58,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.58,
+      "end": 45.78,
+      "text": "I should have backed out slow"
+    },
+    {
+      "t": 47.5,
+      "end": 52.09,
+      "text": "But Joan already said hello"
+    },
+    {
+      "t": 53.95,
+      "end": 53.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.95,
+      "end": 58.09,
+      "text": "Wrong room, right boots"
+    },
+    {
+      "t": 58.09,
+      "end": 60.35,
+      "text": "Heel, toe, turn around"
+    },
+    {
+      "t": 62.61,
+      "end": 64.27,
+      "text": "I came here to sweat"
+    },
+    {
+      "t": 66.43,
+      "end": 68.87,
+      "text": "Now I'm doing the Tush Push"
+    },
+    {
+      "t": 75.29,
+      "end": 75.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.29,
+      "end": 77.97,
+      "text": "Week two, a western shirt"
+    },
+    {
+      "t": 79.25,
+      "end": 81.87,
+      "text": "Week three, the boots were red"
+    },
+    {
+      "t": 83.11,
+      "end": 86.05,
+      "text": "Joan says I kick too high"
+    },
+    {
+      "t": 87.61,
+      "end": 90.05,
+      "text": "Derek nods his head"
+    },
+    {
+      "t": 91.59,
+      "end": 91.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.59,
+      "end": 93.17,
+      "text": "Wrong room, right boots"
+    },
+    {
+      "t": 93.17,
+      "end": 97.35,
+      "text": "Heel, toe, turn around"
+    },
+    {
+      "t": 97.35,
+      "end": 99.53,
+      "text": "Spin class down the hall"
+    },
+    {
+      "t": 101.19,
+      "end": 105.35,
+      "text": "Can keep its bikes, I'm country now"
+    },
+    {
+      "t": 111.03,
+      "end": 111.03,
+      "text": "[Bridge - handclaps]"
+    },
+    {
+      "t": 111.03,
+      "end": 120.95,
+      "text": "Grapevine left"
+    },
+    {
+      "t": 121.43,
+      "end": 123.65,
+      "text": "Grapevine right"
+    },
+    {
+      "t": 124.11,
+      "end": 124.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.11,
+      "end": 128.81,
+      "text": "Wrong room, right boots"
+    },
+    {
+      "t": 128.81,
+      "end": 131.33,
+      "text": "Joan still runs this town"
+    },
+    {
+      "t": 135.11,
+      "end": 136.81,
+      "text": "I came here to sweat"
+    },
+    {
+      "t": 137.31,
+      "end": 139.71,
+      "text": "Now I'm teaching Derek how"
+    },
+    {
+      "t": 144.49,
+      "end": 144.49,
+      "text": "[Outro - twangy guitar and synth bass]"
+    },
+    {
+      "t": 144.49,
+      "end": 185.64,
+      "text": "Room four, Thursday night"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.12,
+      "end": 24.12,
+      "text": "[Intro - synth brass and LinnDrum]"
+    },
+    {
+      "t": 24.12,
+      "end": 24.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.12,
+      "end": 26.24,
+      "text": "Thursday night in cycling shorts"
+    },
+    {
+      "t": 27.56,
+      "end": 29.98,
+      "text": "Room four, I thought it said"
+    },
+    {
+      "t": 32.0,
+      "end": 33.9,
+      "text": "Sixteen grannies in a row"
+    },
+    {
+      "t": 35.74,
+      "end": 42.54,
+      "text": "And Derek in a hat instead"
+    },
+    {
+      "t": 43.58,
+      "end": 43.58,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.58,
+      "end": 45.82,
+      "text": "I should have backed out slow"
+    },
+    {
+      "t": 47.5,
+      "end": 52.09,
+      "text": "But Joan already said hello"
+    },
+    {
+      "t": 55.49,
+      "end": 55.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.49,
+      "end": 58.09,
+      "text": "Wrong room, right boots"
+    },
+    {
+      "t": 58.09,
+      "end": 60.37,
+      "text": "Heel, toe, turn around"
+    },
+    {
+      "t": 62.61,
+      "end": 64.29,
+      "text": "I came here to sweat"
+    },
+    {
+      "t": 66.43,
+      "end": 68.85,
+      "text": "Now I'm doing the Tush Push"
+    },
+    {
+      "t": 75.29,
+      "end": 75.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.29,
+      "end": 77.91,
+      "text": "Week two, a western shirt"
+    },
+    {
+      "t": 79.25,
+      "end": 81.87,
+      "text": "Week three, the boots were red"
+    },
+    {
+      "t": 83.11,
+      "end": 86.05,
+      "text": "Joan says I kick too high"
+    },
+    {
+      "t": 87.61,
+      "end": 90.01,
+      "text": "Derek nods his head"
+    },
+    {
+      "t": 91.59,
+      "end": 91.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.59,
+      "end": 97.39,
+      "text": "Wrong room, right boots"
+    },
+    {
+      "t": 97.39,
+      "end": 97.83,
+      "text": "Heel, toe, turn around"
+    },
+    {
+      "t": 97.83,
+      "end": 99.55,
+      "text": "Spin class down the hall"
+    },
+    {
+      "t": 101.17,
+      "end": 105.37,
+      "text": "Can keep its bikes, I'm country now"
+    },
+    {
+      "t": 111.03,
+      "end": 111.03,
+      "text": "[Bridge - handclaps]"
+    },
+    {
+      "t": 111.03,
+      "end": 116.95,
+      "text": "Grapevine left"
+    },
+    {
+      "t": 119.39,
+      "end": 123.63,
+      "text": "Grapevine right"
+    },
+    {
+      "t": 124.11,
+      "end": 124.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.11,
+      "end": 128.81,
+      "text": "Wrong room, right boots"
+    },
+    {
+      "t": 128.81,
+      "end": 131.37,
+      "text": "Joan still runs this town"
+    },
+    {
+      "t": 151.3,
+      "end": 152.98,
+      "text": "I came here to sweat"
+    },
+    {
+      "t": 154.18,
+      "end": 160.56,
+      "text": "Now I'm teaching Derek how"
+    },
+    {
+      "t": 160.6,
+      "end": 160.6,
+      "text": "[Outro - twangy guitar and synth bass]"
+    },
+    {
+      "t": 160.6,
+      "end": 185.62,
+      "text": "Room four, Thursday night"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

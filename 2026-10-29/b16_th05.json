@@ -1,0 +1,414 @@
+{
+  "id": "b16_th05",
+  "title": "ยืนนิ่งบันไดเลื่อน (Standing Still on the Escalator)",
+  "title_source": "scripted",
+  "genre": "Thai drift phonk with rap",
+  "language": "th",
+  "language_name": "Thai",
+  "mood": "cocky, deadpan, funny",
+  "persona": "",
+  "subject": "a Bangkok office worker at Asok BTS station who refuses to rush, standing perfectly still on the left of the escalator at rush hour while everyone runs past him on the right, and still catches the same train",
+  "caption": "Drift phonk with Thai rap. Distorted Memphis-style cowbell melody, heavy 808 bass with slides, crunchy drum machine with lo-fi claps, dark detuned synth pad. Saturated crunchy mix, heavy low end, gritty tape texture. Male rapper with a low deadpan delivery and relaxed swagger, clear words. 140 BPM, C minor. Cocky, deadpan and funny. No autotune, no sung pop chorus, no EDM drop, no guitar solo, no luk thung elements.",
+  "lyrics": "[Intro - cowbell melody, 808 slide]\n\n[Verse 1]\nแปดโมงเช้าที่สถานีอโศก\nคนวิ่งเหมือนรถไฟจะหนี\nผมยืนชิดซ้ายมือจับราว\nกาแฟในมือยังไม่หก\n\n[Pre-Chorus]\nขวามือแซงไปทีละสิบ\nผมไม่ขยับแม้แต่นิ้ว\n\n[Chorus]\nยืนนิ่ง บนบันไดเลื่อน\nให้บันไดทำงานของมัน\nวิ่งไปก็ถึงพร้อมกันนั่นแหละ\nรถไฟขบวนเดียวกันครับพี่\n\n[Verse 2]\nพี่เนคไทวิ่งแซงหอบแฮ่ก\nไปถึงข้างบนประตูปิด\nผมเดินตามมาสบายๆ\nขบวนถัดไปอีกสามนาที\n\n[Chorus]\nยืนนิ่ง บนบันไดเลื่อน\nพี่เนคไทยืนข้างผมแล้ว\nเหงื่อเต็มหลังเขาหันมามอง\nผมยื่นทิชชู่ให้หนึ่งแผ่น\n\n[Outro - cowbell, 808 fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 140,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Drift phonk with Thai rap. Distorted Memphis-style cowbell melody, heavy 808 bass with slides, crunchy drum machine with lo-fi claps, dark detuned synth pad. Saturated crunchy mix, heavy low end, gritty tape texture. Male rapper with a low deadpan delivery and relaxed swagger, clear words. 140 BPM, C minor. Cocky, deadpan and funny. No autotune, no sung pop chorus, no EDM drop, no guitar solo, no luk thung elements.",
+    "lyrics": "[Intro - cowbell melody, 808 slide]\n\n[Verse 1]\nแปดโมงเช้าที่สถานีอโศก\nคนวิ่งเหมือนรถไฟจะหนี\nผมยืนชิดซ้ายมือจับราว\nกาแฟในมือยังไม่หก\n\n[Pre-Chorus]\nขวามือแซงไปทีละสิบ\nผมไม่ขยับแม้แต่นิ้ว\n\n[Chorus]\nยืนนิ่ง บนบันไดเลื่อน\nให้บันไดทำงานของมัน\nวิ่งไปก็ถึงพร้อมกันนั่นแหละ\nรถไฟขบวนเดียวกันครับพี่\n\n[Verse 2]\nพี่เนคไทวิ่งแซงหอบแฮ่ก\nไปถึงข้างบนประตูปิด\nผมเดินตามมาสบายๆ\nขบวนถัดไปอีกสามนาที\n\n[Chorus]\nยืนนิ่ง บนบันไดเลื่อน\nพี่เนคไทยืนข้างผมแล้ว\nเหงื่อเต็มหลังเขาหันมามอง\nผมยื่นทิชชู่ให้หนึ่งแผ่น\n\n[Outro - cowbell, 808 fade]\n"
+  },
+  "seed": "2015861736",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.15s**\n- 71.15s per song\n- LM phase (1 song): 18.14s\n- DiT phase (1 song): 53.01s",
+  "task_id": "3cc6c2bd-f323-4c90-9282-1f26e92ea4c9",
+  "elapsed_s": 100.7,
+  "generated_at": "2026-10-29T22:53:42.635008+08:00",
+  "audio": "b16_th05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.26,
+      "end": 4.26,
+      "text": "[Intro - cowbell melody, 808 slide]"
+    },
+    {
+      "t": 4.26,
+      "end": 4.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.26,
+      "end": 31.96,
+      "text": "แปดโมงเช้าที่สถานีอโศก"
+    },
+    {
+      "t": 32.52,
+      "end": 35.22,
+      "text": "คนวิ่งเหมือนรถไฟจะหนี"
+    },
+    {
+      "t": 37.68,
+      "end": 40.38,
+      "text": "ผมยืนชิดซ้ายมือจับราว"
+    },
+    {
+      "t": 40.92,
+      "end": 43.7,
+      "text": "กาแฟในมือยังไม่หก"
+    },
+    {
+      "t": 43.94,
+      "end": 43.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.94,
+      "end": 51.01,
+      "text": "ขวามือแซงไปทีละสิบ"
+    },
+    {
+      "t": 52.47,
+      "end": 54.25,
+      "text": "ผมไม่ขยับแม้แต่นิ้ว"
+    },
+    {
+      "t": 54.25,
+      "end": 54.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.25,
+      "end": 54.89,
+      "text": "ยืนนิ่ง บนบันไดเลื่อน"
+    },
+    {
+      "t": 54.89,
+      "end": 58.89,
+      "text": "ให้บันไดทำงานของมัน"
+    },
+    {
+      "t": 58.93,
+      "end": 65.87,
+      "text": "วิ่งไปก็ถึงพร้อมกันนั่นแหละ"
+    },
+    {
+      "t": 65.93,
+      "end": 69.59,
+      "text": "รถไฟขบวนเดียวกันครับพี่"
+    },
+    {
+      "t": 73.01,
+      "end": 73.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.01,
+      "end": 75.89,
+      "text": "พี่เนคไทวิ่งแซงหอบแฮ่ก"
+    },
+    {
+      "t": 76.93,
+      "end": 80.21,
+      "text": "ไปถึงข้างบนประตูปิด"
+    },
+    {
+      "t": 80.21,
+      "end": 81.89,
+      "text": "ผมเดินตามมาสบายๆ"
+    },
+    {
+      "t": 82.07,
+      "end": 87.79,
+      "text": "ขบวนถัดไปอีกสามนาที"
+    },
+    {
+      "t": 87.89,
+      "end": 87.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.89,
+      "end": 93.27,
+      "text": "ยืนนิ่ง บนบันไดเลื่อน"
+    },
+    {
+      "t": 110.25,
+      "end": 127.55,
+      "text": "พี่เนคไทยืนข้างผมแล้ว"
+    },
+    {
+      "t": 130.99,
+      "end": 137.12,
+      "text": "เหงื่อเต็มหลังเขาหันมามอง"
+    },
+    {
+      "t": 137.92,
+      "end": 155.76,
+      "text": "ผมยื่นทิชชู่ให้หนึ่งแผ่น"
+    },
+    {
+      "t": 155.76,
+      "end": 155.76,
+      "text": "[Outro - cowbell, 808 fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 4.26,
+      "end": 4.26,
+      "text": "[Intro - cowbell melody, 808 slide]"
+    },
+    {
+      "t": 4.26,
+      "end": 4.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.26,
+      "end": 31.96,
+      "text": "แปดโมงเช้าที่สถานีอโศก"
+    },
+    {
+      "t": 32.52,
+      "end": 35.22,
+      "text": "คนวิ่งเหมือนรถไฟจะหนี"
+    },
+    {
+      "t": 37.68,
+      "end": 40.38,
+      "text": "ผมยืนชิดซ้ายมือจับราว"
+    },
+    {
+      "t": 40.92,
+      "end": 43.7,
+      "text": "กาแฟในมือยังไม่หก"
+    },
+    {
+      "t": 43.94,
+      "end": 43.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.94,
+      "end": 51.01,
+      "text": "ขวามือแซงไปทีละสิบ"
+    },
+    {
+      "t": 52.47,
+      "end": 54.25,
+      "text": "ผมไม่ขยับแม้แต่นิ้ว"
+    },
+    {
+      "t": 54.25,
+      "end": 54.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.25,
+      "end": 54.89,
+      "text": "ยืนนิ่ง บนบันไดเลื่อน"
+    },
+    {
+      "t": 54.89,
+      "end": 58.89,
+      "text": "ให้บันไดทำงานของมัน"
+    },
+    {
+      "t": 58.93,
+      "end": 65.87,
+      "text": "วิ่งไปก็ถึงพร้อมกันนั่นแหละ"
+    },
+    {
+      "t": 65.93,
+      "end": 69.59,
+      "text": "รถไฟขบวนเดียวกันครับพี่"
+    },
+    {
+      "t": 73.01,
+      "end": 73.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.01,
+      "end": 75.89,
+      "text": "พี่เนคไทวิ่งแซงหอบแฮ่ก"
+    },
+    {
+      "t": 76.93,
+      "end": 80.21,
+      "text": "ไปถึงข้างบนประตูปิด"
+    },
+    {
+      "t": 80.21,
+      "end": 81.89,
+      "text": "ผมเดินตามมาสบายๆ"
+    },
+    {
+      "t": 82.07,
+      "end": 87.79,
+      "text": "ขบวนถัดไปอีกสามนาที"
+    },
+    {
+      "t": 87.89,
+      "end": 87.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.89,
+      "end": 93.27,
+      "text": "ยืนนิ่ง บนบันไดเลื่อน"
+    },
+    {
+      "t": 110.25,
+      "end": 127.55,
+      "text": "พี่เนคไทยืนข้างผมแล้ว"
+    },
+    {
+      "t": 130.99,
+      "end": 137.12,
+      "text": "เหงื่อเต็มหลังเขาหันมามอง"
+    },
+    {
+      "t": 137.92,
+      "end": 155.76,
+      "text": "ผมยื่นทิชชู่ให้หนึ่งแผ่น"
+    },
+    {
+      "t": 155.76,
+      "end": 155.76,
+      "text": "[Outro - cowbell, 808 fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.94,
+      "end": 29.94,
+      "text": "[Intro - cowbell melody, 808 slide]"
+    },
+    {
+      "t": 29.94,
+      "end": 29.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.94,
+      "end": 32.58,
+      "text": "แปดโมงเช้าที่สถานีอโศก"
+    },
+    {
+      "t": 36.78,
+      "end": 39.16,
+      "text": "คนวิ่งเหมือนรถไฟจะหนี"
+    },
+    {
+      "t": 40.22,
+      "end": 42.86,
+      "text": "ผมยืนชิดซ้ายมือจับราว"
+    },
+    {
+      "t": 43.64,
+      "end": 46.27,
+      "text": "กาแฟในมือยังไม่หก"
+    },
+    {
+      "t": 57.53,
+      "end": 57.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.53,
+      "end": 59.55,
+      "text": "ขวามือแซงไปทีละสิบ"
+    },
+    {
+      "t": 60.81,
+      "end": 62.67,
+      "text": "ผมไม่ขยับแม้แต่นิ้ว"
+    },
+    {
+      "t": 62.71,
+      "end": 62.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.71,
+      "end": 65.61,
+      "text": "ยืนนิ่ง บนบันไดเลื่อน"
+    },
+    {
+      "t": 65.73,
+      "end": 69.83,
+      "text": "ให้บันไดทำงานของมัน"
+    },
+    {
+      "t": 73.05,
+      "end": 76.37,
+      "text": "วิ่งไปก็ถึงพร้อมกันนั่นแหละ"
+    },
+    {
+      "t": 76.87,
+      "end": 79.33,
+      "text": "รถไฟขบวนเดียวกันครับพี่"
+    },
+    {
+      "t": 80.53,
+      "end": 80.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.53,
+      "end": 83.17,
+      "text": "พี่เนคไทวิ่งแซงหอบแฮ่ก"
+    },
+    {
+      "t": 83.95,
+      "end": 86.55,
+      "text": "ไปถึงข้างบนประตูปิด"
+    },
+    {
+      "t": 87.37,
+      "end": 89.63,
+      "text": "ผมเดินตามมาสบายๆ"
+    },
+    {
+      "t": 89.75,
+      "end": 93.49,
+      "text": "ขบวนถัดไปอีกสามนาที"
+    },
+    {
+      "t": 94.05,
+      "end": 94.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.05,
+      "end": 96.51,
+      "text": "ยืนนิ่ง บนบันไดเลื่อน"
+    },
+    {
+      "t": 97.03,
+      "end": 102.29,
+      "text": "พี่เนคไทยืนข้างผมแล้ว"
+    },
+    {
+      "t": 103.05,
+      "end": 129.49,
+      "text": "เหงื่อเต็มหลังเขาหันมามอง"
+    },
+    {
+      "t": 130.47,
+      "end": 177.64,
+      "text": "ผมยื่นทิชชู่ให้หนึ่งแผ่น"
+    },
+    {
+      "t": 177.64,
+      "end": 177.64,
+      "text": "[Outro - cowbell, 808 fade]"
+    }
+  ]
+}

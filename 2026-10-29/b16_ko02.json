@@ -1,0 +1,347 @@
+{
+  "id": "b16_ko02",
+  "title": "KTX는 고양이 거",
+  "title_source": "scripted",
+  "genre": "Korean garage rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "scrappy, funny, loud",
+  "persona": "",
+  "subject": "a model-railway hobbyist who spends Saturday finishing a tiny Busan station layout on the floor of his one-room flat, only for his cat to lie across the tracks and ride off on the KTX car every time he presses go",
+  "caption": "Korean garage rock, Seoul Hongdae lo-fi garage style. Fuzz-box electric guitar chugging open chords, rattling loose snare and crashing ride, cheap Farfisa organ riff doubling the hook, overdriven bass pushing eighth notes. Raw room recording, slightly blown-out, everything played live. Nasal male lead half-shouting, gang-shout backing on the chorus. 150 BPM, E major. Scrappy Saturday-afternoon chaos. No polished pop-rock gloss, no synths, no autotune, no ballad breakdown, no trap drums.",
+  "lyrics": "[Intro - fuzz guitar riff, organ]\n\n[Verse 1]\n토요일 아침 방바닥에\n부산역을 다 깔았어\n철로 위에 나무 붙이고\n전원 스위치를 켰지\n\n[Chorus]\n비켜 비켜 그건 기차야\n고양이 너 내려와\n출발하면 네가 타고\n도착해도 안 내리네\n\n[Verse 2]\n꼬리로 신호등 넘기고\n터널 위에 드러누워\n작은 승객 다 떨어지고\n역장은 밥그릇에 빠졌어\n\n[Chorus]\n비켜 비켜 그건 기차야\n고양이 너 무거워\n서울 가는 KTX가\n오늘도 너만 태우네\n\n[Bridge - organ solo, gang shouts]\n간식 한 봉지 흔들어도\n눈도 안 떠\n\n[Chorus]\n그래 그래 네 기차 해\n나는 그냥 역무원\n표는 안 끊어도 돼\n한 바퀴만 더 돌자\n\n[Outro - feedback, drums crash]\n다음 역은 내 무릎",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Korean garage rock, Seoul Hongdae lo-fi garage style. Fuzz-box electric guitar chugging open chords, rattling loose snare and crashing ride, cheap Farfisa organ riff doubling the hook, overdriven bass pushing eighth notes. Raw room recording, slightly blown-out, everything played live. Nasal male lead half-shouting, gang-shout backing on the chorus. 150 BPM, E major. Scrappy Saturday-afternoon chaos. No polished pop-rock gloss, no synths, no autotune, no ballad breakdown, no trap drums.",
+    "lyrics": "[Intro - fuzz guitar riff, organ]\n\n[Verse 1]\n토요일 아침 방바닥에\n부산역을 다 깔았어\n철로 위에 나무 붙이고\n전원 스위치를 켰지\n\n[Chorus]\n비켜 비켜 그건 기차야\n고양이 너 내려와\n출발하면 네가 타고\n도착해도 안 내리네\n\n[Verse 2]\n꼬리로 신호등 넘기고\n터널 위에 드러누워\n작은 승객 다 떨어지고\n역장은 밥그릇에 빠졌어\n\n[Chorus]\n비켜 비켜 그건 기차야\n고양이 너 무거워\n서울 가는 KTX가\n오늘도 너만 태우네\n\n[Bridge - organ solo, gang shouts]\n간식 한 봉지 흔들어도\n눈도 안 떠\n\n[Chorus]\n그래 그래 네 기차 해\n나는 그냥 역무원\n표는 안 끊어도 돼\n한 바퀴만 더 돌자\n\n[Outro - feedback, drums crash]\n다음 역은 내 무릎"
+  },
+  "seed": "1861305338",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 98.82s**\n- 98.82s per song\n- LM phase (1 song): 16.38s\n- DiT phase (1 song): 82.43s",
+  "task_id": "95902adb-2e3e-40eb-8b62-30717e1cdf7f",
+  "elapsed_s": 120.5,
+  "generated_at": "2026-10-29T12:52:02.058797+08:00",
+  "audio": "b16_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.0,
+      "end": 27.0,
+      "text": "[Intro - fuzz guitar riff, organ]"
+    },
+    {
+      "t": 27.0,
+      "end": 27.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.0,
+      "end": 29.76,
+      "text": "토요일 아침 방바닥에"
+    },
+    {
+      "t": 29.84,
+      "end": 31.74,
+      "text": "부산역을 다 깔았어"
+    },
+    {
+      "t": 33.36,
+      "end": 35.7,
+      "text": "철로 위에 나무 붙이고"
+    },
+    {
+      "t": 36.16,
+      "end": 47.67,
+      "text": "전원 스위치를 켰지"
+    },
+    {
+      "t": 49.13,
+      "end": 49.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.13,
+      "end": 52.03,
+      "text": "비켜 비켜 그건 기차야"
+    },
+    {
+      "t": 52.13,
+      "end": 53.65,
+      "text": "고양이 너 내려와"
+    },
+    {
+      "t": 55.23,
+      "end": 58.03,
+      "text": "출발하면 네가 타고"
+    },
+    {
+      "t": 63.21,
+      "end": 65.57,
+      "text": "도착해도 안 내리네"
+    },
+    {
+      "t": 68.53,
+      "end": 68.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.53,
+      "end": 71.09,
+      "text": "꼬리로 신호등 넘기고"
+    },
+    {
+      "t": 74.51,
+      "end": 77.23,
+      "text": "터널 위에 드러누워"
+    },
+    {
+      "t": 80.85,
+      "end": 83.41,
+      "text": "작은 승객 다 떨어지고"
+    },
+    {
+      "t": 83.69,
+      "end": 86.39,
+      "text": "역장은 밥그릇에 빠졌어"
+    },
+    {
+      "t": 88.07,
+      "end": 88.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.07,
+      "end": 90.39,
+      "text": "비켜 비켜 그건 기차야"
+    },
+    {
+      "t": 90.65,
+      "end": 97.71,
+      "text": "고양이 너 무거워"
+    },
+    {
+      "t": 98.17,
+      "end": 104.89,
+      "text": "서울 가는 KTX가"
+    },
+    {
+      "t": 109.19,
+      "end": 111.81,
+      "text": "오늘도 너만 태우네"
+    },
+    {
+      "t": 114.23,
+      "end": 114.23,
+      "text": "[Bridge - organ solo, gang shouts]"
+    },
+    {
+      "t": 114.23,
+      "end": 118.15,
+      "text": "간식 한 봉지 흔들어도"
+    },
+    {
+      "t": 118.23,
+      "end": 118.71,
+      "text": "눈도 안 떠"
+    },
+    {
+      "t": 121.79,
+      "end": 121.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.79,
+      "end": 124.53,
+      "text": "그래 그래 네 기차 해"
+    },
+    {
+      "t": 128.15,
+      "end": 131.27,
+      "text": "나는 그냥 역무원"
+    },
+    {
+      "t": 134.47,
+      "end": 138.04,
+      "text": "표는 안 끊어도 돼"
+    },
+    {
+      "t": 140.84,
+      "end": 143.76,
+      "text": "한 바퀴만 더 돌자"
+    },
+    {
+      "t": 148.0,
+      "end": 148.0,
+      "text": "[Outro - feedback, drums crash]"
+    },
+    {
+      "t": 148.0,
+      "end": 150.36,
+      "text": "다음 역은 내 무릎"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.0,
+      "end": 27.0,
+      "text": "[Intro - fuzz guitar riff, organ]"
+    },
+    {
+      "t": 27.0,
+      "end": 27.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.0,
+      "end": 29.76,
+      "text": "토요일 아침 방바닥에"
+    },
+    {
+      "t": 29.84,
+      "end": 31.74,
+      "text": "부산역을 다 깔았어"
+    },
+    {
+      "t": 33.32,
+      "end": 35.7,
+      "text": "철로 위에 나무 붙이고"
+    },
+    {
+      "t": 36.16,
+      "end": 47.67,
+      "text": "전원 스위치를 켰지"
+    },
+    {
+      "t": 49.13,
+      "end": 49.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.13,
+      "end": 52.03,
+      "text": "비켜 비켜 그건 기차야"
+    },
+    {
+      "t": 52.13,
+      "end": 53.63,
+      "text": "고양이 너 내려와"
+    },
+    {
+      "t": 55.23,
+      "end": 58.03,
+      "text": "출발하면 네가 타고"
+    },
+    {
+      "t": 59.11,
+      "end": 65.59,
+      "text": "도착해도 안 내리네"
+    },
+    {
+      "t": 68.53,
+      "end": 68.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.53,
+      "end": 71.09,
+      "text": "꼬리로 신호등 넘기고"
+    },
+    {
+      "t": 71.25,
+      "end": 77.23,
+      "text": "터널 위에 드러누워"
+    },
+    {
+      "t": 80.83,
+      "end": 83.41,
+      "text": "작은 승객 다 떨어지고"
+    },
+    {
+      "t": 83.69,
+      "end": 86.39,
+      "text": "역장은 밥그릇에 빠졌어"
+    },
+    {
+      "t": 88.05,
+      "end": 88.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.05,
+      "end": 90.39,
+      "text": "비켜 비켜 그건 기차야"
+    },
+    {
+      "t": 90.65,
+      "end": 98.71,
+      "text": "고양이 너 무거워"
+    },
+    {
+      "t": 102.31,
+      "end": 104.89,
+      "text": "서울 가는 KTX가"
+    },
+    {
+      "t": 109.17,
+      "end": 111.81,
+      "text": "오늘도 너만 태우네"
+    },
+    {
+      "t": 114.23,
+      "end": 114.23,
+      "text": "[Bridge - organ solo, gang shouts]"
+    },
+    {
+      "t": 114.23,
+      "end": 118.15,
+      "text": "간식 한 봉지 흔들어도"
+    },
+    {
+      "t": 118.15,
+      "end": 118.45,
+      "text": "눈도 안 떠"
+    },
+    {
+      "t": 121.77,
+      "end": 121.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.77,
+      "end": 124.53,
+      "text": "그래 그래 네 기차 해"
+    },
+    {
+      "t": 128.13,
+      "end": 131.27,
+      "text": "나는 그냥 역무원"
+    },
+    {
+      "t": 134.49,
+      "end": 138.06,
+      "text": "표는 안 끊어도 돼"
+    },
+    {
+      "t": 140.82,
+      "end": 143.78,
+      "text": "한 바퀴만 더 돌자"
+    },
+    {
+      "t": 148.0,
+      "end": 148.0,
+      "text": "[Outro - feedback, drums crash]"
+    },
+    {
+      "t": 148.0,
+      "end": 150.34,
+      "text": "다음 역은 내 무릎"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

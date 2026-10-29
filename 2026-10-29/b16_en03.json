@@ -1,0 +1,357 @@
+{
+  "id": "b16_en03",
+  "title": "Name on the Hummus",
+  "title_source": "scripted",
+  "genre": "70s Laurel Canyon soft-rock pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sly, sunny and petty",
+  "persona": "",
+  "subject": "a woman whose new flatmate writes his name on everything he puts in the shared fridge, so she starts labelling things back, until she sticks a label with her own name on his forehead and he laughs for the first time",
+  "caption": "70s Laurel Canyon soft-rock pop with a modern pop polish. Warm acoustic piano playing bouncy chords, a clean Telecaster with light chorus picking sunny fills, a round melodic bass, a dry 70s drum kit with tight snare, tambourine on the off-beats, a short flute fill between lines. Dry warm tape sound. Female soprano, breezy and deadpan, close stacked harmonies on the hook. 104 BPM, G major. Sly, sunny and petty. No trap drums, no autotune, no EDM synths, no heavy distortion, no country twang.",
+  "lyrics": "[Intro - piano and flute]\n\n[Verse 1]\nNew flatmate moved in Sunday\nBy Monday there were stickers\nKevin on the yoghurt\nKevin on the butter\n\n[Chorus]\nName on the hummus\nName on the cheese\nFine, Kevin\nI bought stickers too, you'll see\n\n[Verse 2]\nNow the oven door says Becky\nSo do the ice tray and the bread\nHe wrote Kevin on the ketchup\nI wrote Becky on his bed\n\n[Chorus]\nName on the hummus\nName on the keys\nName on the light switch\nName on the TV\n\n[Bridge - just piano and tambourine]\nThen I stuck one on his forehead\nAnd he laughed out loud\nFirst time I'd heard it\n\n[Chorus]\nName on the hummus\nName on the tea\nNow the fridge door says\nKevin and me\n\n[Outro - flute and Telecaster]\nFine, Kev, have the yoghurt",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "70s Laurel Canyon soft-rock pop with a modern pop polish. Warm acoustic piano playing bouncy chords, a clean Telecaster with light chorus picking sunny fills, a round melodic bass, a dry 70s drum kit with tight snare, tambourine on the off-beats, a short flute fill between lines. Dry warm tape sound. Female soprano, breezy and deadpan, close stacked harmonies on the hook. 104 BPM, G major. Sly, sunny and petty. No trap drums, no autotune, no EDM synths, no heavy distortion, no country twang.",
+    "lyrics": "[Intro - piano and flute]\n\n[Verse 1]\nNew flatmate moved in Sunday\nBy Monday there were stickers\nKevin on the yoghurt\nKevin on the butter\n\n[Chorus]\nName on the hummus\nName on the cheese\nFine, Kevin\nI bought stickers too, you'll see\n\n[Verse 2]\nNow the oven door says Becky\nSo do the ice tray and the bread\nHe wrote Kevin on the ketchup\nI wrote Becky on his bed\n\n[Chorus]\nName on the hummus\nName on the keys\nName on the light switch\nName on the TV\n\n[Bridge - just piano and tambourine]\nThen I stuck one on his forehead\nAnd he laughed out loud\nFirst time I'd heard it\n\n[Chorus]\nName on the hummus\nName on the tea\nNow the fridge door says\nKevin and me\n\n[Outro - flute and Telecaster]\nFine, Kev, have the yoghurt"
+  },
+  "seed": "3525102938",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.37s**\n- 67.37s per song\n- LM phase (1 song): 15.20s\n- DiT phase (1 song): 52.17s",
+  "task_id": "9a1b285a-5352-4a2f-9356-9fad954d2f58",
+  "elapsed_s": 90.5,
+  "generated_at": "2026-10-29T13:40:53.849402+08:00",
+  "audio": "b16_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.92,
+      "end": 36.92,
+      "text": "[Intro - piano and flute]"
+    },
+    {
+      "t": 36.92,
+      "end": 36.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.92,
+      "end": 40.06,
+      "text": "New flatmate moved in Sunday"
+    },
+    {
+      "t": 41.52,
+      "end": 44.84,
+      "text": "By Monday there were stickers"
+    },
+    {
+      "t": 45.82,
+      "end": 47.7,
+      "text": "Kevin on the yoghurt"
+    },
+    {
+      "t": 47.82,
+      "end": 49.99,
+      "text": "Kevin on the butter"
+    },
+    {
+      "t": 50.15,
+      "end": 50.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.15,
+      "end": 51.87,
+      "text": "Name on the hummus"
+    },
+    {
+      "t": 52.45,
+      "end": 55.05,
+      "text": "Name on the cheese"
+    },
+    {
+      "t": 55.27,
+      "end": 56.65,
+      "text": "Fine, Kevin"
+    },
+    {
+      "t": 57.61,
+      "end": 60.21,
+      "text": "I bought stickers too, you'll see"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.21,
+      "end": 61.75,
+      "text": "Now the oven door says Becky"
+    },
+    {
+      "t": 61.75,
+      "end": 67.73,
+      "text": "So do the ice tray and the bread"
+    },
+    {
+      "t": 67.73,
+      "end": 71.85,
+      "text": "He wrote Kevin on the ketchup"
+    },
+    {
+      "t": 72.07,
+      "end": 74.67,
+      "text": "I wrote Becky on his bed"
+    },
+    {
+      "t": 77.87,
+      "end": 77.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.87,
+      "end": 79.77,
+      "text": "Name on the hummus"
+    },
+    {
+      "t": 81.27,
+      "end": 82.91,
+      "text": "Name on the keys"
+    },
+    {
+      "t": 94.13,
+      "end": 95.87,
+      "text": "Name on the light switch"
+    },
+    {
+      "t": 96.11,
+      "end": 97.51,
+      "text": "Name on the TV"
+    },
+    {
+      "t": 117.47,
+      "end": 117.47,
+      "text": "[Bridge - just piano and tambourine]"
+    },
+    {
+      "t": 117.47,
+      "end": 119.05,
+      "text": "Then I stuck one on his forehead"
+    },
+    {
+      "t": 119.05,
+      "end": 119.69,
+      "text": "And he laughed out loud"
+    },
+    {
+      "t": 119.79,
+      "end": 121.43,
+      "text": "First time I'd heard it"
+    },
+    {
+      "t": 123.67,
+      "end": 123.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.67,
+      "end": 125.37,
+      "text": "Name on the hummus"
+    },
+    {
+      "t": 126.03,
+      "end": 127.19,
+      "text": "Name on the tea"
+    },
+    {
+      "t": 129.05,
+      "end": 132.09,
+      "text": "Now the fridge door says"
+    },
+    {
+      "t": 133.75,
+      "end": 149.22,
+      "text": "Kevin and me"
+    },
+    {
+      "t": 149.22,
+      "end": 149.22,
+      "text": "[Outro - flute and Telecaster]"
+    },
+    {
+      "t": 149.22,
+      "end": 163.52,
+      "text": "Fine, Kev, have the yoghurt"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.92,
+      "end": 36.92,
+      "text": "[Intro - piano and flute]"
+    },
+    {
+      "t": 36.92,
+      "end": 36.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.92,
+      "end": 40.06,
+      "text": "New flatmate moved in Sunday"
+    },
+    {
+      "t": 41.52,
+      "end": 44.84,
+      "text": "By Monday there were stickers"
+    },
+    {
+      "t": 45.82,
+      "end": 47.56,
+      "text": "Kevin on the yoghurt"
+    },
+    {
+      "t": 47.58,
+      "end": 48.68,
+      "text": "Kevin on the butter"
+    },
+    {
+      "t": 50.15,
+      "end": 50.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.15,
+      "end": 51.89,
+      "text": "Name on the hummus"
+    },
+    {
+      "t": 52.45,
+      "end": 54.85,
+      "text": "Name on the cheese"
+    },
+    {
+      "t": 55.27,
+      "end": 56.65,
+      "text": "Fine, Kevin"
+    },
+    {
+      "t": 57.63,
+      "end": 60.27,
+      "text": "I bought stickers too, you'll see"
+    },
+    {
+      "t": 60.27,
+      "end": 60.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.27,
+      "end": 62.09,
+      "text": "Now the oven door says Becky"
+    },
+    {
+      "t": 62.09,
+      "end": 68.21,
+      "text": "So do the ice tray and the bread"
+    },
+    {
+      "t": 68.21,
+      "end": 71.85,
+      "text": "He wrote Kevin on the ketchup"
+    },
+    {
+      "t": 72.07,
+      "end": 74.67,
+      "text": "I wrote Becky on his bed"
+    },
+    {
+      "t": 77.89,
+      "end": 77.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.89,
+      "end": 79.77,
+      "text": "Name on the hummus"
+    },
+    {
+      "t": 81.27,
+      "end": 82.93,
+      "text": "Name on the keys"
+    },
+    {
+      "t": 94.13,
+      "end": 95.89,
+      "text": "Name on the light switch"
+    },
+    {
+      "t": 96.09,
+      "end": 96.69,
+      "text": "Name on the TV"
+    },
+    {
+      "t": 96.69,
+      "end": 96.69,
+      "text": "[Bridge - just piano and tambourine]"
+    },
+    {
+      "t": 96.69,
+      "end": 117.59,
+      "text": "Then I stuck one on his forehead"
+    },
+    {
+      "t": 117.61,
+      "end": 119.57,
+      "text": "And he laughed out loud"
+    },
+    {
+      "t": 119.79,
+      "end": 121.21,
+      "text": "First time I'd heard it"
+    },
+    {
+      "t": 123.67,
+      "end": 123.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.67,
+      "end": 125.39,
+      "text": "Name on the hummus"
+    },
+    {
+      "t": 126.01,
+      "end": 129.05,
+      "text": "Name on the tea"
+    },
+    {
+      "t": 129.05,
+      "end": 132.11,
+      "text": "Now the fridge door says"
+    },
+    {
+      "t": 133.73,
+      "end": 149.2,
+      "text": "Kevin and me"
+    },
+    {
+      "t": 149.2,
+      "end": 149.2,
+      "text": "[Outro - flute and Telecaster]"
+    },
+    {
+      "t": 149.2,
+      "end": 163.48,
+      "text": "Fine, Kev, have the yoghurt"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

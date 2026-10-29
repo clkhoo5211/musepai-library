@@ -1,0 +1,307 @@
+{
+  "id": "b16_id02",
+  "title": "Eskalator Blok M",
+  "title_source": "scripted",
+  "genre": "Indonesian liquid drum and bass",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "ngebut, deg-degan, terang",
+  "persona": "",
+  "subject": "a woman late every morning who runs up the left side of the long escalator at Blok M MRT station while the same man in a grey jacket always steps aside for her, until one day he runs beside her",
+  "caption": "Indonesian liquid drum and bass, Bali festival-scene sound. Rolling two-step breakbeat with crisp ghost snares, deep round sub bass, warm Rhodes electric piano chords, soft string pad, short plucked guitar figure. Polished spacious mix with steady forward motion. Light breathy female vocal, high register, quick conversational phrasing over the half-time feel. 174 BPM, F# minor. Mood of a rushing commute with a small crush in it. No dubstep wobble, no trap drums, no autotune, no big-room EDM drop, no rap verse.",
+  "lyrics": "[Intro - Rhodes chords, rolling breakbeat]\n[Verse 1]\nJam tujuh lewat delapan\nKartu kutempel, pintu terbuka\nEskalator panjang di depan\nAmbil kiri, aku berlari\n[Pre-Chorus]\nJaket abu-abu di anak tangga\nDia menepi, selalu sama\n[Chorus]\nPermisi, permisi, makasih ya\nNapasku habis di tengah jalan\nPermisi, permisi, besok lagi\nAku telat, kamu yang sabar\n[Verse 2]\nHari Senin aku lebih telat\nDia nggak menepi, aku kaget\nDia senyum, terus ikut lari\nDua orang di sisi kiri\n[Chorus]\nPermisi, permisi, ayo cepat\nNapas kita habis bareng-bareng\nPermisi, permisi, besok lagi\nKita telat, tapi nggak sendiri\n[Outro - pad and sub bass fade]\nSampai atas, dia sebut namanya\nKeretanya pergi, biarin saja",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 174,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Indonesian liquid drum and bass, Bali festival-scene sound. Rolling two-step breakbeat with crisp ghost snares, deep round sub bass, warm Rhodes electric piano chords, soft string pad, short plucked guitar figure. Polished spacious mix with steady forward motion. Light breathy female vocal, high register, quick conversational phrasing over the half-time feel. 174 BPM, F# minor. Mood of a rushing commute with a small crush in it. No dubstep wobble, no trap drums, no autotune, no big-room EDM drop, no rap verse.",
+    "lyrics": "[Intro - Rhodes chords, rolling breakbeat]\n[Verse 1]\nJam tujuh lewat delapan\nKartu kutempel, pintu terbuka\nEskalator panjang di depan\nAmbil kiri, aku berlari\n[Pre-Chorus]\nJaket abu-abu di anak tangga\nDia menepi, selalu sama\n[Chorus]\nPermisi, permisi, makasih ya\nNapasku habis di tengah jalan\nPermisi, permisi, besok lagi\nAku telat, kamu yang sabar\n[Verse 2]\nHari Senin aku lebih telat\nDia nggak menepi, aku kaget\nDia senyum, terus ikut lari\nDua orang di sisi kiri\n[Chorus]\nPermisi, permisi, ayo cepat\nNapas kita habis bareng-bareng\nPermisi, permisi, besok lagi\nKita telat, tapi nggak sendiri\n[Outro - pad and sub bass fade]\nSampai atas, dia sebut namanya\nKeretanya pergi, biarin saja"
+  },
+  "seed": "1344669371",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 87.11s**\n- 87.11s per song\n- LM phase (1 song): 17.05s\n- DiT phase (1 song): 70.06s",
+  "task_id": "6274a09c-ab39-4352-a367-8bf4c70d61f2",
+  "elapsed_s": 120.8,
+  "generated_at": "2026-10-29T13:10:56.258226+08:00",
+  "audio": "b16_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.78,
+      "end": 23.78,
+      "text": "[Intro - Rhodes chords, rolling breakbeat]"
+    },
+    {
+      "t": 23.78,
+      "end": 23.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.78,
+      "end": 26.36,
+      "text": "Jam tujuh lewat delapan"
+    },
+    {
+      "t": 28.98,
+      "end": 33.94,
+      "text": "Kartu kutempel, pintu terbuka"
+    },
+    {
+      "t": 34.66,
+      "end": 37.68,
+      "text": "Eskalator panjang di depan"
+    },
+    {
+      "t": 39.56,
+      "end": 45.36,
+      "text": "Ambil kiri, aku berlari"
+    },
+    {
+      "t": 45.36,
+      "end": 45.36,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.36,
+      "end": 48.68,
+      "text": "Jaket abu-abu di anak tangga"
+    },
+    {
+      "t": 50.97,
+      "end": 54.59,
+      "text": "Dia menepi, selalu sama"
+    },
+    {
+      "t": 55.45,
+      "end": 55.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.45,
+      "end": 61.53,
+      "text": "Permisi, permisi, makasih ya"
+    },
+    {
+      "t": 61.53,
+      "end": 67.41,
+      "text": "Napasku habis di tengah jalan"
+    },
+    {
+      "t": 67.63,
+      "end": 72.61,
+      "text": "Permisi, permisi, besok lagi"
+    },
+    {
+      "t": 73.95,
+      "end": 80.99,
+      "text": "Aku telat, kamu yang sabar"
+    },
+    {
+      "t": 88.53,
+      "end": 88.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.53,
+      "end": 91.33,
+      "text": "Hari Senin aku lebih telat"
+    },
+    {
+      "t": 91.33,
+      "end": 95.07,
+      "text": "Dia nggak menepi, aku kaget"
+    },
+    {
+      "t": 96.93,
+      "end": 101.25,
+      "text": "Dia senyum, terus ikut lari"
+    },
+    {
+      "t": 102.63,
+      "end": 106.67,
+      "text": "Dua orang di sisi kiri"
+    },
+    {
+      "t": 108.21,
+      "end": 108.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.21,
+      "end": 112.45,
+      "text": "Permisi, permisi, ayo cepat"
+    },
+    {
+      "t": 113.65,
+      "end": 117.61,
+      "text": "Napas kita habis bareng-bareng"
+    },
+    {
+      "t": 119.37,
+      "end": 124.01,
+      "text": "Permisi, permisi, besok lagi"
+    },
+    {
+      "t": 125.61,
+      "end": 129.57,
+      "text": "Kita telat, tapi nggak sendiri"
+    },
+    {
+      "t": 154.2,
+      "end": 154.2,
+      "text": "[Outro - pad and sub bass fade]"
+    },
+    {
+      "t": 154.2,
+      "end": 166.12,
+      "text": "Sampai atas, dia sebut namanya"
+    },
+    {
+      "t": 167.86,
+      "end": 174.36,
+      "text": "Keretanya pergi, biarin saja"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.76,
+      "end": 23.76,
+      "text": "[Intro - Rhodes chords, rolling breakbeat]"
+    },
+    {
+      "t": 23.76,
+      "end": 23.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.76,
+      "end": 26.36,
+      "text": "Jam tujuh lewat delapan"
+    },
+    {
+      "t": 28.98,
+      "end": 35.08,
+      "text": "Kartu kutempel, pintu terbuka"
+    },
+    {
+      "t": 35.08,
+      "end": 37.68,
+      "text": "Eskalator panjang di depan"
+    },
+    {
+      "t": 39.56,
+      "end": 45.42,
+      "text": "Ambil kiri, aku berlari"
+    },
+    {
+      "t": 45.42,
+      "end": 45.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.42,
+      "end": 48.68,
+      "text": "Jaket abu-abu di anak tangga"
+    },
+    {
+      "t": 50.97,
+      "end": 54.59,
+      "text": "Dia menepi, selalu sama"
+    },
+    {
+      "t": 55.45,
+      "end": 55.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.45,
+      "end": 61.53,
+      "text": "Permisi, permisi, makasih ya"
+    },
+    {
+      "t": 61.75,
+      "end": 67.37,
+      "text": "Napasku habis di tengah jalan"
+    },
+    {
+      "t": 67.65,
+      "end": 72.61,
+      "text": "Permisi, permisi, besok lagi"
+    },
+    {
+      "t": 73.95,
+      "end": 81.09,
+      "text": "Aku telat, kamu yang sabar"
+    },
+    {
+      "t": 88.55,
+      "end": 88.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.55,
+      "end": 91.33,
+      "text": "Hari Senin aku lebih telat"
+    },
+    {
+      "t": 91.33,
+      "end": 96.93,
+      "text": "Dia nggak menepi, aku kaget"
+    },
+    {
+      "t": 96.93,
+      "end": 101.25,
+      "text": "Dia senyum, terus ikut lari"
+    },
+    {
+      "t": 102.63,
+      "end": 106.65,
+      "text": "Dua orang di sisi kiri"
+    },
+    {
+      "t": 108.19,
+      "end": 108.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.19,
+      "end": 112.47,
+      "text": "Permisi, permisi, ayo cepat"
+    },
+    {
+      "t": 113.65,
+      "end": 119.41,
+      "text": "Napas kita habis bareng-bareng"
+    },
+    {
+      "t": 119.41,
+      "end": 124.01,
+      "text": "Permisi, permisi, besok lagi"
+    },
+    {
+      "t": 125.61,
+      "end": 129.59,
+      "text": "Kita telat, tapi nggak sendiri"
+    },
+    {
+      "t": 154.22,
+      "end": 154.22,
+      "text": "[Outro - pad and sub bass fade]"
+    },
+    {
+      "t": 154.22,
+      "end": 166.6,
+      "text": "Sampai atas, dia sebut namanya"
+    },
+    {
+      "t": 167.86,
+      "end": 174.36,
+      "text": "Keretanya pergi, biarin saja"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

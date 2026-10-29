@@ -1,0 +1,317 @@
+{
+  "id": "b16_zh04",
+  "title": "阿麥",
+  "title_source": "scripted",
+  "genre": "Mandarin nu-jazz broken beat",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "calm, wry and quietly attentive",
+  "persona": "",
+  "subject": "a woman in a Taipei studio flat who keeps a sourdough starter named 阿麥 alive, feeding it flour at seven every morning before work and taking the jar with her on the train when she visits a friend for the weekend",
+  "caption": "Mandarin nu-jazz broken beat, West London style. Syncopated broken-beat drums with ghost-note snares, warm Fender Rhodes chords, walking upright bass, muted trumpet answering lines, soft synth pads. Dry close drums, soft tape saturation, warm low end. Female mezzo, intimate half-spoken verses, airy chorus. 104 BPM, E♭ minor. Calm, wry and quietly attentive. No trap beats, no EDM drop, no autotune, no rock guitar, no orchestral strings.",
+  "lyrics": "[Intro - broken-beat drums, Rhodes, muted trumpet]\n\n[Verse 1]\n七點鐘 鬧鐘還沒響\n我先打開那個玻璃罐\n一匙麵粉 一點溫水\n阿麥冒了兩個泡\n\n[Pre-Chorus]\n它不會說話\n但它會長高\n\n[Chorus]\n阿麥 阿麥 早安\n今天也要吃飽\n我去上班你在家\n晚上看你多高\n\n[Verse 2]\n週末去台中找朋友\n罐子放在背包最上面\n火車晃了一路\n我一直怕它溢出來\n\n[Pre-Chorus]\n朋友說妳帶了誰\n我說一個室友\n\n[Chorus]\n阿麥 阿麥 到了\n這裡的水不一樣\n你在窗台上發脾氣\n明天就帶你回家\n\n[Outro - trumpet over Rhodes, drums thin out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "E♭ minor",
+    "timesignature": "4",
+    "prompt": "Mandarin nu-jazz broken beat, West London style. Syncopated broken-beat drums with ghost-note snares, warm Fender Rhodes chords, walking upright bass, muted trumpet answering lines, soft synth pads. Dry close drums, soft tape saturation, warm low end. Female mezzo, intimate half-spoken verses, airy chorus. 104 BPM, E♭ minor. Calm, wry and quietly attentive. No trap beats, no EDM drop, no autotune, no rock guitar, no orchestral strings.",
+    "lyrics": "[Intro - broken-beat drums, Rhodes, muted trumpet]\n\n[Verse 1]\n七點鐘 鬧鐘還沒響\n我先打開那個玻璃罐\n一匙麵粉 一點溫水\n阿麥冒了兩個泡\n\n[Pre-Chorus]\n它不會說話\n但它會長高\n\n[Chorus]\n阿麥 阿麥 早安\n今天也要吃飽\n我去上班你在家\n晚上看你多高\n\n[Verse 2]\n週末去台中找朋友\n罐子放在背包最上面\n火車晃了一路\n我一直怕它溢出來\n\n[Pre-Chorus]\n朋友說妳帶了誰\n我說一個室友\n\n[Chorus]\n阿麥 阿麥 到了\n這裡的水不一樣\n你在窗台上發脾氣\n明天就帶你回家\n\n[Outro - trumpet over Rhodes, drums thin out]"
+  },
+  "seed": "3637691019",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 105.03s**\n- 105.03s per song\n- LM phase (1 song): 20.74s\n- DiT phase (1 song): 84.29s",
+  "task_id": "080da598-3e5c-45e8-9499-4286a980bca7",
+  "elapsed_s": 140.2,
+  "generated_at": "2026-10-29T13:52:38.373966+08:00",
+  "audio": "b16_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 41.34,
+      "end": 41.34,
+      "text": "[Intro - broken-beat drums, Rhodes, muted trumpet]"
+    },
+    {
+      "t": 41.34,
+      "end": 41.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.34,
+      "end": 44.58,
+      "text": "七點鐘 鬧鐘還沒響"
+    },
+    {
+      "t": 44.6,
+      "end": 51.58,
+      "text": "我先打開那個玻璃罐"
+    },
+    {
+      "t": 51.62,
+      "end": 53.68,
+      "text": "一匙麵粉 一點溫水"
+    },
+    {
+      "t": 54.87,
+      "end": 58.33,
+      "text": "阿麥冒了兩個泡"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.21,
+      "end": 62.65,
+      "text": "它不會說話"
+    },
+    {
+      "t": 63.91,
+      "end": 67.57,
+      "text": "但它會長高"
+    },
+    {
+      "t": 69.73,
+      "end": 69.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.73,
+      "end": 73.03,
+      "text": "阿麥 阿麥 早安"
+    },
+    {
+      "t": 74.17,
+      "end": 77.05,
+      "text": "今天也要吃飽"
+    },
+    {
+      "t": 79.35,
+      "end": 81.75,
+      "text": "我去上班你在家"
+    },
+    {
+      "t": 83.33,
+      "end": 85.61,
+      "text": "晚上看你多高"
+    },
+    {
+      "t": 85.61,
+      "end": 85.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.61,
+      "end": 91.71,
+      "text": "週末去台中找朋友"
+    },
+    {
+      "t": 92.45,
+      "end": 111.21,
+      "text": "罐子放在背包最上面"
+    },
+    {
+      "t": 111.23,
+      "end": 113.45,
+      "text": "火車晃了一路"
+    },
+    {
+      "t": 113.91,
+      "end": 119.07,
+      "text": "我一直怕它溢出來"
+    },
+    {
+      "t": 119.91,
+      "end": 119.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 119.91,
+      "end": 155.67,
+      "text": "朋友說妳帶了誰"
+    },
+    {
+      "t": 157.13,
+      "end": 174.74,
+      "text": "我說一個室友"
+    },
+    {
+      "t": 174.74,
+      "end": 174.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 174.74,
+      "end": 177.02,
+      "text": "阿麥 阿麥 到了"
+    },
+    {
+      "t": 177.04,
+      "end": 181.32,
+      "text": "這裡的水不一樣"
+    },
+    {
+      "t": 182.26,
+      "end": 185.88,
+      "text": "你在窗台上發脾氣"
+    },
+    {
+      "t": 186.86,
+      "end": 190.44,
+      "text": "明天就帶你回家"
+    },
+    {
+      "t": 190.44,
+      "end": 190.44,
+      "text": "[Outro - trumpet over Rhodes, drums thin out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 41.34,
+      "end": 41.34,
+      "text": "[Intro - broken-beat drums, Rhodes, muted trumpet]"
+    },
+    {
+      "t": 41.34,
+      "end": 41.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.34,
+      "end": 44.54,
+      "text": "七點鐘 鬧鐘還沒響"
+    },
+    {
+      "t": 44.56,
+      "end": 50.42,
+      "text": "我先打開那個玻璃罐"
+    },
+    {
+      "t": 50.46,
+      "end": 53.5,
+      "text": "一匙麵粉 一點溫水"
+    },
+    {
+      "t": 54.87,
+      "end": 58.31,
+      "text": "阿麥冒了兩個泡"
+    },
+    {
+      "t": 60.21,
+      "end": 60.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.21,
+      "end": 62.63,
+      "text": "它不會說話"
+    },
+    {
+      "t": 63.91,
+      "end": 67.57,
+      "text": "但它會長高"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.71,
+      "end": 73.15,
+      "text": "阿麥 阿麥 早安"
+    },
+    {
+      "t": 74.17,
+      "end": 77.27,
+      "text": "今天也要吃飽"
+    },
+    {
+      "t": 79.35,
+      "end": 81.75,
+      "text": "我去上班你在家"
+    },
+    {
+      "t": 83.31,
+      "end": 85.79,
+      "text": "晚上看你多高"
+    },
+    {
+      "t": 85.79,
+      "end": 85.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.79,
+      "end": 91.73,
+      "text": "週末去台中找朋友"
+    },
+    {
+      "t": 92.45,
+      "end": 111.17,
+      "text": "罐子放在背包最上面"
+    },
+    {
+      "t": 111.23,
+      "end": 113.41,
+      "text": "火車晃了一路"
+    },
+    {
+      "t": 113.91,
+      "end": 115.03,
+      "text": "我一直怕它溢出來"
+    },
+    {
+      "t": 115.03,
+      "end": 115.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 115.03,
+      "end": 124.63,
+      "text": "朋友說妳帶了誰"
+    },
+    {
+      "t": 152.49,
+      "end": 174.4,
+      "text": "我說一個室友"
+    },
+    {
+      "t": 174.4,
+      "end": 174.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 174.4,
+      "end": 177.02,
+      "text": "阿麥 阿麥 到了"
+    },
+    {
+      "t": 177.06,
+      "end": 181.28,
+      "text": "這裡的水不一樣"
+    },
+    {
+      "t": 182.26,
+      "end": 185.88,
+      "text": "你在窗台上發脾氣"
+    },
+    {
+      "t": 186.86,
+      "end": 190.44,
+      "text": "明天就帶你回家"
+    },
+    {
+      "t": 190.44,
+      "end": 190.44,
+      "text": "[Outro - trumpet over Rhodes, drums thin out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

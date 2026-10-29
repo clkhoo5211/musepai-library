@@ -1,0 +1,504 @@
+{
+  "id": "b16_ko04",
+  "title": "소나무랑 얘기하지 마",
+  "title_source": "scripted",
+  "genre": "Korean gypsy jazz manouche",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wry, gentle, swinging",
+  "persona": "",
+  "subject": "a woman in her sixties complaining, half fond and half jealous, that her retired husband now spends every morning on their apartment veranda trimming a bonsai pine with tweezers and talking to it more than he talks to her",
+  "caption": "Korean gypsy jazz manouche, Django-style hot-club swing. Gypsy jazz lead guitar with fast arpeggio runs and bent-note fills, rhythm guitar playing tight la pompe chop, walking upright bass, violin trading lines with the vocal. Intimate acoustic room, slight warmth, no reverb wash. Mature female lead with wry speech-like phrasing, light swing and a teasing smile in the tone. 168 BPM, D minor. Fond grumbling swing. No drum kit backbeat, no synths, no pop ballad strings, no autotune, no trot vibrato.",
+  "lyrics": "[Intro - lead guitar run, la pompe rhythm]\n\n[Verse 1]\n아침밥 차려 놨더니\n베란다에서 안 들어와\n핀셋 들고 솔잎 하나\n한참을 들여다보네\n\n[Chorus]\n소나무랑 얘기하지 마\n나도 여기 살아요\n잘 컸다 칭찬은\n나한테도 좀 해 봐\n\n[Verse 2]\n가지에 철사 감으면서\n조금만 참아 속삭이네\n내 어깨가 결린다니까\n파스 하나 붙여 주더라\n\n[Chorus]\n소나무랑 얘기하지 마\n물은 나도 마셔요\n분갈이는 해 주면서\n내 머리는 언제 봐\n\n[Bridge - violin and guitar trade]\n오늘은 내가 몰래\n솔잎 하나 잘라 볼까\n\n[Chorus]\n소나무랑 얘기해도 돼\n대신 나도 불러 줘\n둘이 같이 앉아서\n가지 모양 정해 보자\n\n[Outro - violin tag]\n삐뚤어져도 괜찮아",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "2",
+    "prompt": "Korean gypsy jazz manouche, Django-style hot-club swing. Gypsy jazz lead guitar with fast arpeggio runs and bent-note fills, rhythm guitar playing tight la pompe chop, walking upright bass, violin trading lines with the vocal. Intimate acoustic room, slight warmth, no reverb wash. Mature female lead with wry speech-like phrasing, light swing and a teasing smile in the tone. 168 BPM, D minor. Fond grumbling swing. No drum kit backbeat, no synths, no pop ballad strings, no autotune, no trot vibrato.",
+    "lyrics": "[Intro - lead guitar run, la pompe rhythm]\n\n[Verse 1]\n아침밥 차려 놨더니\n베란다에서 안 들어와\n핀셋 들고 솔잎 하나\n한참을 들여다보네\n\n[Chorus]\n소나무랑 얘기하지 마\n나도 여기 살아요\n잘 컸다 칭찬은\n나한테도 좀 해 봐\n\n[Verse 2]\n가지에 철사 감으면서\n조금만 참아 속삭이네\n내 어깨가 결린다니까\n파스 하나 붙여 주더라\n\n[Chorus]\n소나무랑 얘기하지 마\n물은 나도 마셔요\n분갈이는 해 주면서\n내 머리는 언제 봐\n\n[Bridge - violin and guitar trade]\n오늘은 내가 몰래\n솔잎 하나 잘라 볼까\n\n[Chorus]\n소나무랑 얘기해도 돼\n대신 나도 불러 줘\n둘이 같이 앉아서\n가지 모양 정해 보자\n\n[Outro - violin tag]\n삐뚤어져도 괜찮아"
+  },
+  "seed": "2754438831",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 120.47s**\n- 120.47s per song\n- LM phase (1 song): 19.07s\n- DiT phase (1 song): 101.40s",
+  "task_id": "864d5f01-2404-4950-8631-1f993da27f22",
+  "elapsed_s": 170.7,
+  "generated_at": "2026-10-29T15:09:15.864881+08:00",
+  "audio": "b16_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 13.2,
+      "end": 13.2,
+      "text": "[Intro - lead guitar run, la pompe rhythm]"
+    },
+    {
+      "t": 13.2,
+      "end": 13.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 13.2,
+      "end": 43.34,
+      "text": "아침밥 차려 놨더니"
+    },
+    {
+      "t": 43.34,
+      "end": 44.28,
+      "text": "베란다에서 안 들어와"
+    },
+    {
+      "t": 44.28,
+      "end": 45.72,
+      "text": "핀셋 들고 솔잎 하나"
+    },
+    {
+      "t": 46.2,
+      "end": 47.24,
+      "text": "한참을 들여다보네"
+    },
+    {
+      "t": 47.32,
+      "end": 47.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.32,
+      "end": 47.95,
+      "text": "소나무랑 얘기하지 마"
+    },
+    {
+      "t": 47.95,
+      "end": 48.87,
+      "text": "나도 여기 살아요"
+    },
+    {
+      "t": 48.87,
+      "end": 50.59,
+      "text": "잘 컸다 칭찬은"
+    },
+    {
+      "t": 52.13,
+      "end": 54.71,
+      "text": "나한테도 좀 해 봐"
+    },
+    {
+      "t": 57.81,
+      "end": 57.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 57.81,
+      "end": 60.49,
+      "text": "가지에 철사 감으면서"
+    },
+    {
+      "t": 63.19,
+      "end": 66.27,
+      "text": "조금만 참아 속삭이네"
+    },
+    {
+      "t": 68.45,
+      "end": 72.05,
+      "text": "내 어깨가 결린다니까"
+    },
+    {
+      "t": 74.59,
+      "end": 77.31,
+      "text": "파스 하나 붙여 주더라"
+    },
+    {
+      "t": 77.83,
+      "end": 77.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.83,
+      "end": 80.39,
+      "text": "소나무랑 얘기하지 마"
+    },
+    {
+      "t": 80.79,
+      "end": 83.31,
+      "text": "물은 나도 마셔요"
+    },
+    {
+      "t": 83.69,
+      "end": 86.21,
+      "text": "분갈이는 해 주면서"
+    },
+    {
+      "t": 89.11,
+      "end": 90.69,
+      "text": "내 머리는 언제 봐"
+    },
+    {
+      "t": 97.51,
+      "end": 97.51,
+      "text": "[Bridge - violin and guitar trade]"
+    },
+    {
+      "t": 97.51,
+      "end": 105.13,
+      "text": "오늘은 내가 몰래"
+    },
+    {
+      "t": 105.69,
+      "end": 109.47,
+      "text": "솔잎 하나 잘라 볼까"
+    },
+    {
+      "t": 111.47,
+      "end": 111.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.47,
+      "end": 115.13,
+      "text": "소나무랑 얘기해도 돼"
+    },
+    {
+      "t": 115.63,
+      "end": 123.17,
+      "text": "대신 나도 불러 줘"
+    },
+    {
+      "t": 123.31,
+      "end": 125.59,
+      "text": "둘이 같이 앉아서"
+    },
+    {
+      "t": 128.81,
+      "end": 132.43,
+      "text": "가지 모양 정해 보자"
+    },
+    {
+      "t": 132.55,
+      "end": 132.55,
+      "text": "[Outro - violin tag]"
+    },
+    {
+      "t": 132.55,
+      "end": 161.9,
+      "text": "삐뚤어져도 괜찮아"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 13.6,
+      "end": 13.6,
+      "text": "[Intro - lead guitar run, la pompe rhythm]"
+    },
+    {
+      "t": 13.6,
+      "end": 13.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 13.6,
+      "end": 43.34,
+      "text": "아침밥 차려 놨더니"
+    },
+    {
+      "t": 43.34,
+      "end": 44.28,
+      "text": "베란다에서 안 들어와"
+    },
+    {
+      "t": 44.28,
+      "end": 45.72,
+      "text": "핀셋 들고 솔잎 하나"
+    },
+    {
+      "t": 46.2,
+      "end": 47.24,
+      "text": "한참을 들여다보네"
+    },
+    {
+      "t": 47.32,
+      "end": 47.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.32,
+      "end": 47.95,
+      "text": "소나무랑 얘기하지 마"
+    },
+    {
+      "t": 47.95,
+      "end": 48.85,
+      "text": "나도 여기 살아요"
+    },
+    {
+      "t": 48.87,
+      "end": 50.59,
+      "text": "잘 컸다 칭찬은"
+    },
+    {
+      "t": 52.15,
+      "end": 54.71,
+      "text": "나한테도 좀 해 봐"
+    },
+    {
+      "t": 57.81,
+      "end": 57.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 57.81,
+      "end": 60.49,
+      "text": "가지에 철사 감으면서"
+    },
+    {
+      "t": 63.19,
+      "end": 66.27,
+      "text": "조금만 참아 속삭이네"
+    },
+    {
+      "t": 68.45,
+      "end": 72.05,
+      "text": "내 어깨가 결린다니까"
+    },
+    {
+      "t": 74.59,
+      "end": 77.31,
+      "text": "파스 하나 붙여 주더라"
+    },
+    {
+      "t": 77.83,
+      "end": 77.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.83,
+      "end": 80.39,
+      "text": "소나무랑 얘기하지 마"
+    },
+    {
+      "t": 80.79,
+      "end": 83.31,
+      "text": "물은 나도 마셔요"
+    },
+    {
+      "t": 83.69,
+      "end": 86.21,
+      "text": "분갈이는 해 주면서"
+    },
+    {
+      "t": 89.11,
+      "end": 90.69,
+      "text": "내 머리는 언제 봐"
+    },
+    {
+      "t": 97.51,
+      "end": 97.51,
+      "text": "[Bridge - violin and guitar trade]"
+    },
+    {
+      "t": 97.51,
+      "end": 105.13,
+      "text": "오늘은 내가 몰래"
+    },
+    {
+      "t": 105.69,
+      "end": 109.47,
+      "text": "솔잎 하나 잘라 볼까"
+    },
+    {
+      "t": 111.47,
+      "end": 111.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.47,
+      "end": 115.13,
+      "text": "소나무랑 얘기해도 돼"
+    },
+    {
+      "t": 115.63,
+      "end": 123.17,
+      "text": "대신 나도 불러 줘"
+    },
+    {
+      "t": 123.31,
+      "end": 125.59,
+      "text": "둘이 같이 앉아서"
+    },
+    {
+      "t": 128.81,
+      "end": 132.43,
+      "text": "가지 모양 정해 보자"
+    },
+    {
+      "t": 132.55,
+      "end": 132.55,
+      "text": "[Outro - violin tag]"
+    },
+    {
+      "t": 132.55,
+      "end": 161.9,
+      "text": "삐뚤어져도 괜찮아"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 3.62,
+      "end": 3.62,
+      "text": "[Intro - lead guitar run, la pompe rhythm]"
+    },
+    {
+      "t": 3.62,
+      "end": 3.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.62,
+      "end": 12.1,
+      "text": "아침밥 차려 놨더니"
+    },
+    {
+      "t": 12.1,
+      "end": 13.26,
+      "text": "베란다에서 안 들어와"
+    },
+    {
+      "t": 13.26,
+      "end": 13.94,
+      "text": "핀셋 들고 솔잎 하나"
+    },
+    {
+      "t": 13.94,
+      "end": 20.84,
+      "text": "한참을 들여다보네"
+    },
+    {
+      "t": 42.72,
+      "end": 42.72,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.72,
+      "end": 45.24,
+      "text": "소나무랑 얘기하지 마"
+    },
+    {
+      "t": 46.36,
+      "end": 48.15,
+      "text": "나도 여기 살아요"
+    },
+    {
+      "t": 48.87,
+      "end": 50.59,
+      "text": "잘 컸다 칭찬은"
+    },
+    {
+      "t": 52.17,
+      "end": 54.69,
+      "text": "나한테도 좀 해 봐"
+    },
+    {
+      "t": 57.81,
+      "end": 57.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 57.81,
+      "end": 60.49,
+      "text": "가지에 철사 감으면서"
+    },
+    {
+      "t": 63.21,
+      "end": 66.27,
+      "text": "조금만 참아 속삭이네"
+    },
+    {
+      "t": 68.45,
+      "end": 72.05,
+      "text": "내 어깨가 결린다니까"
+    },
+    {
+      "t": 74.59,
+      "end": 77.31,
+      "text": "파스 하나 붙여 주더라"
+    },
+    {
+      "t": 77.83,
+      "end": 77.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.83,
+      "end": 80.39,
+      "text": "소나무랑 얘기하지 마"
+    },
+    {
+      "t": 80.79,
+      "end": 83.29,
+      "text": "물은 나도 마셔요"
+    },
+    {
+      "t": 83.69,
+      "end": 86.21,
+      "text": "분갈이는 해 주면서"
+    },
+    {
+      "t": 89.11,
+      "end": 90.69,
+      "text": "내 머리는 언제 봐"
+    },
+    {
+      "t": 99.35,
+      "end": 99.35,
+      "text": "[Bridge - violin and guitar trade]"
+    },
+    {
+      "t": 99.35,
+      "end": 105.13,
+      "text": "오늘은 내가 몰래"
+    },
+    {
+      "t": 105.69,
+      "end": 109.47,
+      "text": "솔잎 하나 잘라 볼까"
+    },
+    {
+      "t": 111.47,
+      "end": 111.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.47,
+      "end": 115.17,
+      "text": "소나무랑 얘기해도 돼"
+    },
+    {
+      "t": 115.79,
+      "end": 123.17,
+      "text": "대신 나도 불러 줘"
+    },
+    {
+      "t": 123.31,
+      "end": 125.87,
+      "text": "둘이 같이 앉아서"
+    },
+    {
+      "t": 128.81,
+      "end": 132.43,
+      "text": "가지 모양 정해 보자"
+    },
+    {
+      "t": 132.69,
+      "end": 132.69,
+      "text": "[Outro - violin tag]"
+    },
+    {
+      "t": 132.69,
+      "end": 159.92,
+      "text": "삐뚤어져도 괜찮아"
+    }
+  ]
+}

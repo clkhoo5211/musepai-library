@@ -1,0 +1,444 @@
+{
+  "id": "b16_ja01",
+  "title": "松の木さわれない",
+  "title_source": "scripted",
+  "genre": "Japanese piano-shuffle glum pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "fidgety, self-mocking and light on its feet",
+  "persona": "",
+  "subject": "a man who buys a thirty-year-old black pine bonsai at a garden fair and is too scared to trim a single needle, phoning the old seller every Sunday for advice until the seller tells him the tree was doing fine before he bought it",
+  "caption": "Japanese piano-shuffle glum pop in the 2024 hop-scotch style. Bouncy upright piano playing a swung shuffle with skipping left hand, brushed snare, walking upright bass, muted trumpet answering the hooks, small handclaps. Dry close-miked room sound with the piano up front. Male light tenor, half-spoken mumbling verses and a clearly sung chorus. 126 BPM, F major. Fidgety and self-mocking. No trap hi-hats, no autotune, no EDM drop, no rock guitars, no big band brass section.",
+  "lyrics": "[Intro - shuffle piano, brushed snare]\n\n[Verse 1]\n植木市で 一目ぼれ\n三十年の 黒松だ\n値段を聞いて 声が出た\nでも気づいたら 抱えてた\n\n[Pre-Chorus]\nハサミ持つ手が ふるえてる\n一本切ったら 終わりな気がする\n\n[Chorus]\n松の木さわれない\n今日も水だけ やっている\n松の木さわれない\nハサミはずっと 箱の中\n\n[Verse 2]\n日曜ごとに 電話する\n売ったじいさん 笑ってる\n「あんたが来る前 元気だったよ」\nそれを言われちゃ 何もできない\n\n[Chorus]\n松の木さわれない\n今日もじっと 見つめてる\n松の木さわれない\n松もたぶん 引いている\n\n[Outro - piano, muted trumpet]\n来年こそは 一本だけ\nたぶん来年も 水だけ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Japanese piano-shuffle glum pop in the 2024 hop-scotch style. Bouncy upright piano playing a swung shuffle with skipping left hand, brushed snare, walking upright bass, muted trumpet answering the hooks, small handclaps. Dry close-miked room sound with the piano up front. Male light tenor, half-spoken mumbling verses and a clearly sung chorus. 126 BPM, F major. Fidgety and self-mocking. No trap hi-hats, no autotune, no EDM drop, no rock guitars, no big band brass section.",
+    "lyrics": "[Intro - shuffle piano, brushed snare]\n\n[Verse 1]\n植木市で 一目ぼれ\n三十年の 黒松だ\n値段を聞いて 声が出た\nでも気づいたら 抱えてた\n\n[Pre-Chorus]\nハサミ持つ手が ふるえてる\n一本切ったら 終わりな気がする\n\n[Chorus]\n松の木さわれない\n今日も水だけ やっている\n松の木さわれない\nハサミはずっと 箱の中\n\n[Verse 2]\n日曜ごとに 電話する\n売ったじいさん 笑ってる\n「あんたが来る前 元気だったよ」\nそれを言われちゃ 何もできない\n\n[Chorus]\n松の木さわれない\n今日もじっと 見つめてる\n松の木さわれない\n松もたぶん 引いている\n\n[Outro - piano, muted trumpet]\n来年こそは 一本だけ\nたぶん来年も 水だけ"
+  },
+  "seed": "1418823399",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 109.22s**\n- 109.22s per song\n- LM phase (1 song): 18.86s\n- DiT phase (1 song): 90.37s",
+  "task_id": "360dc1ff-22ff-4d78-a6e5-f72ca0a08ba1",
+  "elapsed_s": 140.3,
+  "generated_at": "2026-10-29T22:35:29.894978+08:00",
+  "audio": "b16_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.44,
+      "end": 19.44,
+      "text": "[Intro - shuffle piano, brushed snare]"
+    },
+    {
+      "t": 19.44,
+      "end": 19.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.44,
+      "end": 20.58,
+      "text": "植木市で 一目ぼれ"
+    },
+    {
+      "t": 20.66,
+      "end": 22.24,
+      "text": "三十年の 黒松だ"
+    },
+    {
+      "t": 22.34,
+      "end": 28.24,
+      "text": "値段を聞いて 声が出た"
+    },
+    {
+      "t": 28.26,
+      "end": 35.22,
+      "text": "でも気づいたら 抱えてた"
+    },
+    {
+      "t": 35.4,
+      "end": 35.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.4,
+      "end": 39.64,
+      "text": "ハサミ持つ手が ふるえてる"
+    },
+    {
+      "t": 42.38,
+      "end": 46.98,
+      "text": "一本切ったら 終わりな気がする"
+    },
+    {
+      "t": 50.47,
+      "end": 50.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.47,
+      "end": 53.43,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 54.23,
+      "end": 56.97,
+      "text": "今日も水だけ やっている"
+    },
+    {
+      "t": 57.21,
+      "end": 57.93,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 58.03,
+      "end": 61.87,
+      "text": "ハサミはずっと 箱の中"
+    },
+    {
+      "t": 65.61,
+      "end": 65.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.61,
+      "end": 69.59,
+      "text": "日曜ごとに 電話する"
+    },
+    {
+      "t": 73.21,
+      "end": 77.37,
+      "text": "売ったじいさん 笑ってる"
+    },
+    {
+      "t": 80.91,
+      "end": 84.77,
+      "text": "「あんたが来る前 元気だったよ」"
+    },
+    {
+      "t": 88.13,
+      "end": 94.97,
+      "text": "それを言われちゃ 何もできない"
+    },
+    {
+      "t": 104.53,
+      "end": 104.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.53,
+      "end": 107.29,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 107.29,
+      "end": 112.61,
+      "text": "今日もじっと 見つめてる"
+    },
+    {
+      "t": 112.87,
+      "end": 119.05,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 119.09,
+      "end": 123.21,
+      "text": "松もたぶん 引いている"
+    },
+    {
+      "t": 126.85,
+      "end": 126.85,
+      "text": "[Outro - piano, muted trumpet]"
+    },
+    {
+      "t": 126.85,
+      "end": 130.73,
+      "text": "来年こそは 一本だけ"
+    },
+    {
+      "t": 134.33,
+      "end": 190.0,
+      "text": "たぶん来年も 水だけ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.44,
+      "end": 19.44,
+      "text": "[Intro - shuffle piano, brushed snare]"
+    },
+    {
+      "t": 19.44,
+      "end": 19.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.44,
+      "end": 20.58,
+      "text": "植木市で 一目ぼれ"
+    },
+    {
+      "t": 20.66,
+      "end": 22.24,
+      "text": "三十年の 黒松だ"
+    },
+    {
+      "t": 22.34,
+      "end": 28.24,
+      "text": "値段を聞いて 声が出た"
+    },
+    {
+      "t": 28.26,
+      "end": 35.22,
+      "text": "でも気づいたら 抱えてた"
+    },
+    {
+      "t": 35.4,
+      "end": 35.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.4,
+      "end": 39.64,
+      "text": "ハサミ持つ手が ふるえてる"
+    },
+    {
+      "t": 42.38,
+      "end": 46.98,
+      "text": "一本切ったら 終わりな気がする"
+    },
+    {
+      "t": 50.47,
+      "end": 50.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.47,
+      "end": 53.43,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 54.23,
+      "end": 56.97,
+      "text": "今日も水だけ やっている"
+    },
+    {
+      "t": 57.21,
+      "end": 57.93,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 58.03,
+      "end": 61.87,
+      "text": "ハサミはずっと 箱の中"
+    },
+    {
+      "t": 65.61,
+      "end": 65.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.61,
+      "end": 69.59,
+      "text": "日曜ごとに 電話する"
+    },
+    {
+      "t": 73.21,
+      "end": 77.37,
+      "text": "売ったじいさん 笑ってる"
+    },
+    {
+      "t": 80.91,
+      "end": 84.77,
+      "text": "「あんたが来る前 元気だったよ」"
+    },
+    {
+      "t": 88.13,
+      "end": 94.97,
+      "text": "それを言われちゃ 何もできない"
+    },
+    {
+      "t": 104.53,
+      "end": 104.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.53,
+      "end": 107.29,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 107.29,
+      "end": 112.61,
+      "text": "今日もじっと 見つめてる"
+    },
+    {
+      "t": 112.87,
+      "end": 119.05,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 119.09,
+      "end": 123.21,
+      "text": "松もたぶん 引いている"
+    },
+    {
+      "t": 126.85,
+      "end": 126.85,
+      "text": "[Outro - piano, muted trumpet]"
+    },
+    {
+      "t": 126.85,
+      "end": 130.73,
+      "text": "来年こそは 一本だけ"
+    },
+    {
+      "t": 134.33,
+      "end": 190.0,
+      "text": "たぶん来年も 水だけ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.92,
+      "end": 23.92,
+      "text": "[Intro - shuffle piano, brushed snare]"
+    },
+    {
+      "t": 23.92,
+      "end": 23.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.92,
+      "end": 26.92,
+      "text": "植木市で 一目ぼれ"
+    },
+    {
+      "t": 30.78,
+      "end": 34.48,
+      "text": "三十年の 黒松だ"
+    },
+    {
+      "t": 37.86,
+      "end": 42.3,
+      "text": "値段を聞いて 声が出た"
+    },
+    {
+      "t": 44.58,
+      "end": 49.61,
+      "text": "でも気づいたら 抱えてた"
+    },
+    {
+      "t": 53.37,
+      "end": 53.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.37,
+      "end": 58.67,
+      "text": "ハサミ持つ手が ふるえてる"
+    },
+    {
+      "t": 61.11,
+      "end": 66.45,
+      "text": "一本切ったら 終わりな気がする"
+    },
+    {
+      "t": 70.69,
+      "end": 70.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.69,
+      "end": 73.57,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 73.59,
+      "end": 80.37,
+      "text": "今日も水だけ やっている"
+    },
+    {
+      "t": 80.75,
+      "end": 87.19,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 87.23,
+      "end": 94.47,
+      "text": "ハサミはずっと 箱の中"
+    },
+    {
+      "t": 94.47,
+      "end": 94.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.47,
+      "end": 97.21,
+      "text": "日曜ごとに 電話する"
+    },
+    {
+      "t": 97.29,
+      "end": 101.57,
+      "text": "売ったじいさん 笑ってる"
+    },
+    {
+      "t": 101.57,
+      "end": 105.51,
+      "text": "「あんたが来る前 元気だったよ」"
+    },
+    {
+      "t": 108.73,
+      "end": 113.11,
+      "text": "それを言われちゃ 何もできない"
+    },
+    {
+      "t": 113.49,
+      "end": 113.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.49,
+      "end": 119.53,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 120.67,
+      "end": 139.11,
+      "text": "今日もじっと 見つめてる"
+    },
+    {
+      "t": 139.35,
+      "end": 144.24,
+      "text": "松の木さわれない"
+    },
+    {
+      "t": 144.28,
+      "end": 150.9,
+      "text": "松もたぶん 引いている"
+    },
+    {
+      "t": 151.6,
+      "end": 151.6,
+      "text": "[Outro - piano, muted trumpet]"
+    },
+    {
+      "t": 151.6,
+      "end": 154.58,
+      "text": "来年こそは 一本だけ"
+    },
+    {
+      "t": 155.42,
+      "end": 158.9,
+      "text": "たぶん来年も 水だけ"
+    }
+  ]
+}

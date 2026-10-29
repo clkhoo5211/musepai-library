@@ -1,0 +1,377 @@
+{
+  "id": "b16_ko05",
+  "title": "케이크 높이 들어",
+  "title_source": "scripted",
+  "genre": "Korean dancehall pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "upbeat, cheeky, danceable",
+  "persona": "",
+  "subject": "a woman racing through the Sindorim transfer at rush hour holding a whipped-cream birthday cake box above her head for her best friend's surprise party, apologising to every shoulder she squeezes past, and arriving with only one candle bent",
+  "caption": "Korean dancehall pop, modern Seoul dancehall riddim style. Syncopated dancehall drum pattern with rimshot snare and booming kick, deep round sub bass, offbeat skank electric guitar chops, short synth brass stabs on the hook. Punchy, sunny, wide mix. Confident female lead with rhythmic toasting-style patter in the verses and a clear sung hook. 100 BPM, F minor. Cheeky rush-hour bounce. No trap hi-hats, no reggaeton dembow, no autotune, no EDM drop, no male rap feature.",
+  "lyrics": "[Intro - riddim drums, sub bass]\n\n[Verse 1]\n여섯 시 반 신도림역\n사람 파도 한가운데\n생크림 케이크 박스를\n머리 위로 번쩍 들어\n\n[Pre-Chorus]\n죄송해요 지나갈게요\n어깨마다 꾸벅꾸벅\n\n[Chorus]\n케이크 높이 들어\n흔들리면 큰일 나\n친구 생일 일곱 시\n초 꽂을 자리 지켜\n\n[Verse 2]\n계단에서 한 칸 뛰고\n문 닫히기 직전 쏙\n아저씨가 웃으면서\n박스 대신 잡아 줬어\n\n[Chorus]\n케이크 높이 들어\n환승 통로 끝까지\n크림 조금 묻어도\n괜찮아 맛은 같아\n\n[Bridge - skank guitar, brass stabs]\n현관문 앞 숨 고르고\n박스를 살짝 열었지\n\n[Chorus]\n케이크 높이 들어\n초 하나 휘었지만\n불 끄고 노래하면\n아무도 모를 거야\n\n[Outro - riddim fades]\n생일 축하해 진짜로",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Korean dancehall pop, modern Seoul dancehall riddim style. Syncopated dancehall drum pattern with rimshot snare and booming kick, deep round sub bass, offbeat skank electric guitar chops, short synth brass stabs on the hook. Punchy, sunny, wide mix. Confident female lead with rhythmic toasting-style patter in the verses and a clear sung hook. 100 BPM, F minor. Cheeky rush-hour bounce. No trap hi-hats, no reggaeton dembow, no autotune, no EDM drop, no male rap feature.",
+    "lyrics": "[Intro - riddim drums, sub bass]\n\n[Verse 1]\n여섯 시 반 신도림역\n사람 파도 한가운데\n생크림 케이크 박스를\n머리 위로 번쩍 들어\n\n[Pre-Chorus]\n죄송해요 지나갈게요\n어깨마다 꾸벅꾸벅\n\n[Chorus]\n케이크 높이 들어\n흔들리면 큰일 나\n친구 생일 일곱 시\n초 꽂을 자리 지켜\n\n[Verse 2]\n계단에서 한 칸 뛰고\n문 닫히기 직전 쏙\n아저씨가 웃으면서\n박스 대신 잡아 줬어\n\n[Chorus]\n케이크 높이 들어\n환승 통로 끝까지\n크림 조금 묻어도\n괜찮아 맛은 같아\n\n[Bridge - skank guitar, brass stabs]\n현관문 앞 숨 고르고\n박스를 살짝 열었지\n\n[Chorus]\n케이크 높이 들어\n초 하나 휘었지만\n불 끄고 노래하면\n아무도 모를 거야\n\n[Outro - riddim fades]\n생일 축하해 진짜로"
+  },
+  "seed": "3956816690",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 82.60s**\n- 82.60s per song\n- LM phase (1 song): 17.66s\n- DiT phase (1 song): 64.94s",
+  "task_id": "5a313197-a890-498a-b161-f41e4b2a2951",
+  "elapsed_s": 120.5,
+  "generated_at": "2026-10-29T16:07:59.263515+08:00",
+  "audio": "b16_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 6.36,
+      "end": 6.36,
+      "text": "[Intro - riddim drums, sub bass]"
+    },
+    {
+      "t": 6.36,
+      "end": 6.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.36,
+      "end": 33.36,
+      "text": "여섯 시 반 신도림역"
+    },
+    {
+      "t": 34.18,
+      "end": 35.72,
+      "text": "사람 파도 한가운데"
+    },
+    {
+      "t": 39.6,
+      "end": 42.24,
+      "text": "생크림 케이크 박스를"
+    },
+    {
+      "t": 42.32,
+      "end": 45.04,
+      "text": "머리 위로 번쩍 들어"
+    },
+    {
+      "t": 46.81,
+      "end": 46.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.81,
+      "end": 49.37,
+      "text": "죄송해요 지나갈게요"
+    },
+    {
+      "t": 49.53,
+      "end": 54.85,
+      "text": "어깨마다 꾸벅꾸벅"
+    },
+    {
+      "t": 56.43,
+      "end": 56.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.43,
+      "end": 58.05,
+      "text": "케이크 높이 들어"
+    },
+    {
+      "t": 58.59,
+      "end": 60.45,
+      "text": "흔들리면 큰일 나"
+    },
+    {
+      "t": 60.91,
+      "end": 62.57,
+      "text": "친구 생일 일곱 시"
+    },
+    {
+      "t": 63.01,
+      "end": 64.97,
+      "text": "초 꽂을 자리 지켜"
+    },
+    {
+      "t": 68.19,
+      "end": 68.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.19,
+      "end": 70.23,
+      "text": "계단에서 한 칸 뛰고"
+    },
+    {
+      "t": 70.29,
+      "end": 71.97,
+      "text": "문 닫히기 직전 쏙"
+    },
+    {
+      "t": 73.01,
+      "end": 74.75,
+      "text": "아저씨가 웃으면서"
+    },
+    {
+      "t": 74.83,
+      "end": 92.57,
+      "text": "박스 대신 잡아 줬어"
+    },
+    {
+      "t": 92.67,
+      "end": 92.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.67,
+      "end": 94.67,
+      "text": "케이크 높이 들어"
+    },
+    {
+      "t": 94.69,
+      "end": 98.29,
+      "text": "환승 통로 끝까지"
+    },
+    {
+      "t": 98.45,
+      "end": 113.25,
+      "text": "크림 조금 묻어도"
+    },
+    {
+      "t": 113.35,
+      "end": 121.79,
+      "text": "괜찮아 맛은 같아"
+    },
+    {
+      "t": 121.87,
+      "end": 121.87,
+      "text": "[Bridge - skank guitar, brass stabs]"
+    },
+    {
+      "t": 121.87,
+      "end": 124.61,
+      "text": "현관문 앞 숨 고르고"
+    },
+    {
+      "t": 138.21,
+      "end": 166.78,
+      "text": "박스를 살짝 열었지"
+    },
+    {
+      "t": 166.78,
+      "end": 166.78,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 166.78,
+      "end": 167.74,
+      "text": "케이크 높이 들어"
+    },
+    {
+      "t": 167.84,
+      "end": 170.22,
+      "text": "초 하나 휘었지만"
+    },
+    {
+      "t": 171.22,
+      "end": 172.64,
+      "text": "불 끄고 노래하면"
+    },
+    {
+      "t": 173.66,
+      "end": 174.9,
+      "text": "아무도 모를 거야"
+    },
+    {
+      "t": 176.28,
+      "end": 176.28,
+      "text": "[Outro - riddim fades]"
+    },
+    {
+      "t": 176.28,
+      "end": 179.44,
+      "text": "생일 축하해 진짜로"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.58,
+      "end": 30.58,
+      "text": "[Intro - riddim drums, sub bass]"
+    },
+    {
+      "t": 30.58,
+      "end": 30.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.58,
+      "end": 33.36,
+      "text": "여섯 시 반 신도림역"
+    },
+    {
+      "t": 34.18,
+      "end": 35.7,
+      "text": "사람 파도 한가운데"
+    },
+    {
+      "t": 39.6,
+      "end": 42.24,
+      "text": "생크림 케이크 박스를"
+    },
+    {
+      "t": 42.32,
+      "end": 45.02,
+      "text": "머리 위로 번쩍 들어"
+    },
+    {
+      "t": 46.81,
+      "end": 46.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.81,
+      "end": 49.39,
+      "text": "죄송해요 지나갈게요"
+    },
+    {
+      "t": 49.39,
+      "end": 52.09,
+      "text": "어깨마다 꾸벅꾸벅"
+    },
+    {
+      "t": 56.43,
+      "end": 56.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.43,
+      "end": 58.07,
+      "text": "케이크 높이 들어"
+    },
+    {
+      "t": 58.59,
+      "end": 60.45,
+      "text": "흔들리면 큰일 나"
+    },
+    {
+      "t": 60.91,
+      "end": 62.57,
+      "text": "친구 생일 일곱 시"
+    },
+    {
+      "t": 63.01,
+      "end": 65.29,
+      "text": "초 꽂을 자리 지켜"
+    },
+    {
+      "t": 68.19,
+      "end": 68.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.19,
+      "end": 70.23,
+      "text": "계단에서 한 칸 뛰고"
+    },
+    {
+      "t": 70.29,
+      "end": 71.95,
+      "text": "문 닫히기 직전 쏙"
+    },
+    {
+      "t": 73.01,
+      "end": 74.75,
+      "text": "아저씨가 웃으면서"
+    },
+    {
+      "t": 75.09,
+      "end": 76.99,
+      "text": "박스 대신 잡아 줬어"
+    },
+    {
+      "t": 77.11,
+      "end": 77.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.11,
+      "end": 94.67,
+      "text": "케이크 높이 들어"
+    },
+    {
+      "t": 94.69,
+      "end": 96.59,
+      "text": "환승 통로 끝까지"
+    },
+    {
+      "t": 96.65,
+      "end": 97.97,
+      "text": "크림 조금 묻어도"
+    },
+    {
+      "t": 98.15,
+      "end": 112.37,
+      "text": "괜찮아 맛은 같아"
+    },
+    {
+      "t": 113.15,
+      "end": 113.15,
+      "text": "[Bridge - skank guitar, brass stabs]"
+    },
+    {
+      "t": 113.15,
+      "end": 116.27,
+      "text": "현관문 앞 숨 고르고"
+    },
+    {
+      "t": 116.27,
+      "end": 120.73,
+      "text": "박스를 살짝 열었지"
+    },
+    {
+      "t": 120.85,
+      "end": 120.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.85,
+      "end": 122.25,
+      "text": "케이크 높이 들어"
+    },
+    {
+      "t": 122.49,
+      "end": 135.47,
+      "text": "초 하나 휘었지만"
+    },
+    {
+      "t": 138.19,
+      "end": 140.66,
+      "text": "불 끄고 노래하면"
+    },
+    {
+      "t": 143.06,
+      "end": 145.22,
+      "text": "아무도 모를 거야"
+    },
+    {
+      "t": 176.28,
+      "end": 176.28,
+      "text": "[Outro - riddim fades]"
+    },
+    {
+      "t": 176.28,
+      "end": 179.44,
+      "text": "생일 축하해 진짜로"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

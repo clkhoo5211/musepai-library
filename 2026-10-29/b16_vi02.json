@@ -1,0 +1,444 @@
+{
+  "id": "b16_vi02",
+  "title": "Bảy Con Ốc Thừa",
+  "title_source": "scripted",
+  "genre": "Vietnamese tech house",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "deadpan, bouncy, self-mocking",
+  "persona": "",
+  "subject": "a young man in a Thủ Đức apartment assembling a flat-pack wardrobe over a whole Sunday, finishing with seven screws left over, and the wardrobe standing anyway",
+  "caption": "Vietnamese tech house, groovy minimal club style. Rolling 909 kick in four-on-the-floor; shuffled open hi-hats and shaker; rubbery analog bassline bouncing on the off-beats; clipped organ stab answering each vocal line. Tight club mix, sidechained bass, crisp dry percussion. Male dry talk-sung baritone in Vietnamese, deadpan delivery. 124 BPM, A minor. Deadpan, bouncy and self-mocking. No big room EDM drop, no trap beat, no autotune, no vinahouse sirens, no pop ballad section.",
+  "lyrics": "[Intro - kick and shaker, organ stab]\n\n[Verse 1]\nChủ nhật mở thùng cái tủ\nBốn mươi trang giấy hướng dẫn\nKhông một chữ, chỉ hình vẽ\nÔng người vẽ đang mỉm cười\n\n[Pre-Chorus]\nVặn vô, vặn ra\nCánh cửa gắn ngược hai lần\n\n[Chorus]\nCòn bảy con ốc thừa\nMà cái tủ vẫn đứng\nĐừng ai hỏi vì sao\nĐừng ai mở cửa mạnh\n\n[Verse 2]\nSáu giờ chiều treo áo lên\nThanh treo nghiêng như con dốc\nTôi kê thêm cuốn từ điển\nVậy là xong, vậy là thẳng\n\n[Chorus]\nCòn bảy con ốc thừa\nTôi bỏ vô hũ kẹo\nĐừng ai hỏi vì sao\nTủ hơi kêu khi đóng\n\n[Outro - bassline and kick, organ stab fades]\nCòn bảy con ốc thừa\nĐể dành cho tủ sau",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese tech house, groovy minimal club style. Rolling 909 kick in four-on-the-floor; shuffled open hi-hats and shaker; rubbery analog bassline bouncing on the off-beats; clipped organ stab answering each vocal line. Tight club mix, sidechained bass, crisp dry percussion. Male dry talk-sung baritone in Vietnamese, deadpan delivery. 124 BPM, A minor. Deadpan, bouncy and self-mocking. No big room EDM drop, no trap beat, no autotune, no vinahouse sirens, no pop ballad section.",
+    "lyrics": "[Intro - kick and shaker, organ stab]\n\n[Verse 1]\nChủ nhật mở thùng cái tủ\nBốn mươi trang giấy hướng dẫn\nKhông một chữ, chỉ hình vẽ\nÔng người vẽ đang mỉm cười\n\n[Pre-Chorus]\nVặn vô, vặn ra\nCánh cửa gắn ngược hai lần\n\n[Chorus]\nCòn bảy con ốc thừa\nMà cái tủ vẫn đứng\nĐừng ai hỏi vì sao\nĐừng ai mở cửa mạnh\n\n[Verse 2]\nSáu giờ chiều treo áo lên\nThanh treo nghiêng như con dốc\nTôi kê thêm cuốn từ điển\nVậy là xong, vậy là thẳng\n\n[Chorus]\nCòn bảy con ốc thừa\nTôi bỏ vô hũ kẹo\nĐừng ai hỏi vì sao\nTủ hơi kêu khi đóng\n\n[Outro - bassline and kick, organ stab fades]\nCòn bảy con ốc thừa\nĐể dành cho tủ sau"
+  },
+  "seed": "2651814341",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.32s**\n- 60.32s per song\n- LM phase (1 song): 14.46s\n- DiT phase (1 song): 45.86s",
+  "task_id": "b12e5d5e-10c3-4fd2-8fd9-e13928e7517f",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-29T15:14:36.489206+08:00",
+  "audio": "b16_vi02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Intro - kick and shaker, organ stab]"
+    },
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.06,
+      "end": 50.13,
+      "text": "Chủ nhật mở thùng cái tủ"
+    },
+    {
+      "t": 50.51,
+      "end": 58.97,
+      "text": "Bốn mươi trang giấy hướng dẫn"
+    },
+    {
+      "t": 59.19,
+      "end": 60.97,
+      "text": "Không một chữ, chỉ hình vẽ"
+    },
+    {
+      "t": 61.01,
+      "end": 61.89,
+      "text": "Ông người vẽ đang mỉm cười"
+    },
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.89,
+      "end": 62.47,
+      "text": "Vặn vô, vặn ra"
+    },
+    {
+      "t": 62.47,
+      "end": 65.87,
+      "text": "Cánh cửa gắn ngược hai lần"
+    },
+    {
+      "t": 65.87,
+      "end": 65.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.87,
+      "end": 67.39,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 67.39,
+      "end": 68.19,
+      "text": "Mà cái tủ vẫn đứng"
+    },
+    {
+      "t": 68.19,
+      "end": 69.47,
+      "text": "Đừng ai hỏi vì sao"
+    },
+    {
+      "t": 69.47,
+      "end": 73.35,
+      "text": "Đừng ai mở cửa mạnh"
+    },
+    {
+      "t": 73.83,
+      "end": 73.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.83,
+      "end": 76.33,
+      "text": "Sáu giờ chiều treo áo lên"
+    },
+    {
+      "t": 81.29,
+      "end": 83.47,
+      "text": "Thanh treo nghiêng như con dốc"
+    },
+    {
+      "t": 89.01,
+      "end": 91.25,
+      "text": "Tôi kê thêm cuốn từ điển"
+    },
+    {
+      "t": 95.99,
+      "end": 99.25,
+      "text": "Vậy là xong, vậy là thẳng"
+    },
+    {
+      "t": 103.09,
+      "end": 103.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.09,
+      "end": 104.71,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 105.51,
+      "end": 107.87,
+      "text": "Tôi bỏ vô hũ kẹo"
+    },
+    {
+      "t": 110.91,
+      "end": 113.17,
+      "text": "Đừng ai hỏi vì sao"
+    },
+    {
+      "t": 118.11,
+      "end": 119.61,
+      "text": "Tủ hơi kêu khi đóng"
+    },
+    {
+      "t": 147.58,
+      "end": 147.58,
+      "text": "[Outro - bassline and kick, organ stab fades]"
+    },
+    {
+      "t": 147.58,
+      "end": 149.66,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 155.18,
+      "end": 157.74,
+      "text": "Để dành cho tủ sau"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Intro - kick and shaker, organ stab]"
+    },
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.78,
+      "end": 59.25,
+      "text": "Chủ nhật mở thùng cái tủ"
+    },
+    {
+      "t": 59.29,
+      "end": 61.25,
+      "text": "Bốn mươi trang giấy hướng dẫn"
+    },
+    {
+      "t": 61.35,
+      "end": 62.69,
+      "text": "Không một chữ, chỉ hình vẽ"
+    },
+    {
+      "t": 62.75,
+      "end": 66.77,
+      "text": "Ông người vẽ đang mỉm cười"
+    },
+    {
+      "t": 67.11,
+      "end": 67.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 67.11,
+      "end": 67.81,
+      "text": "Vặn vô, vặn ra"
+    },
+    {
+      "t": 67.81,
+      "end": 70.55,
+      "text": "Cánh cửa gắn ngược hai lần"
+    },
+    {
+      "t": 70.73,
+      "end": 70.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.73,
+      "end": 74.23,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 74.23,
+      "end": 74.93,
+      "text": "Mà cái tủ vẫn đứng"
+    },
+    {
+      "t": 74.93,
+      "end": 75.31,
+      "text": "Đừng ai hỏi vì sao"
+    },
+    {
+      "t": 75.35,
+      "end": 75.69,
+      "text": "Đừng ai mở cửa mạnh"
+    },
+    {
+      "t": 75.69,
+      "end": 75.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.69,
+      "end": 76.33,
+      "text": "Sáu giờ chiều treo áo lên"
+    },
+    {
+      "t": 81.29,
+      "end": 83.47,
+      "text": "Thanh treo nghiêng như con dốc"
+    },
+    {
+      "t": 89.01,
+      "end": 91.25,
+      "text": "Tôi kê thêm cuốn từ điển"
+    },
+    {
+      "t": 95.99,
+      "end": 99.25,
+      "text": "Vậy là xong, vậy là thẳng"
+    },
+    {
+      "t": 103.09,
+      "end": 103.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.09,
+      "end": 104.71,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 105.51,
+      "end": 107.87,
+      "text": "Tôi bỏ vô hũ kẹo"
+    },
+    {
+      "t": 110.91,
+      "end": 113.17,
+      "text": "Đừng ai hỏi vì sao"
+    },
+    {
+      "t": 118.11,
+      "end": 119.61,
+      "text": "Tủ hơi kêu khi đóng"
+    },
+    {
+      "t": 147.58,
+      "end": 147.58,
+      "text": "[Outro - bassline and kick, organ stab fades]"
+    },
+    {
+      "t": 147.58,
+      "end": 149.66,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 155.18,
+      "end": 157.74,
+      "text": "Để dành cho tủ sau"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 58.49,
+      "end": 58.49,
+      "text": "[Intro - kick and shaker, organ stab]"
+    },
+    {
+      "t": 58.49,
+      "end": 58.49,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 58.49,
+      "end": 61.73,
+      "text": "Chủ nhật mở thùng cái tủ"
+    },
+    {
+      "t": 62.31,
+      "end": 68.15,
+      "text": "Bốn mươi trang giấy hướng dẫn"
+    },
+    {
+      "t": 69.27,
+      "end": 72.75,
+      "text": "Không một chữ, chỉ hình vẽ"
+    },
+    {
+      "t": 73.21,
+      "end": 82.03,
+      "text": "Ông người vẽ đang mỉm cười"
+    },
+    {
+      "t": 82.03,
+      "end": 82.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.03,
+      "end": 83.35,
+      "text": "Vặn vô, vặn ra"
+    },
+    {
+      "t": 89.27,
+      "end": 99.23,
+      "text": "Cánh cửa gắn ngược hai lần"
+    },
+    {
+      "t": 103.09,
+      "end": 103.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.09,
+      "end": 104.83,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 105.77,
+      "end": 110.57,
+      "text": "Mà cái tủ vẫn đứng"
+    },
+    {
+      "t": 110.91,
+      "end": 113.03,
+      "text": "Đừng ai hỏi vì sao"
+    },
+    {
+      "t": 113.33,
+      "end": 116.67,
+      "text": "Đừng ai mở cửa mạnh"
+    },
+    {
+      "t": 117.13,
+      "end": 117.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 117.13,
+      "end": 119.95,
+      "text": "Sáu giờ chiều treo áo lên"
+    },
+    {
+      "t": 120.05,
+      "end": 128.19,
+      "text": "Thanh treo nghiêng như con dốc"
+    },
+    {
+      "t": 128.25,
+      "end": 136.67,
+      "text": "Tôi kê thêm cuốn từ điển"
+    },
+    {
+      "t": 137.43,
+      "end": 144.47,
+      "text": "Vậy là xong, vậy là thẳng"
+    },
+    {
+      "t": 147.58,
+      "end": 147.58,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.58,
+      "end": 155.56,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 156.32,
+      "end": 165.44,
+      "text": "Tôi bỏ vô hũ kẹo"
+    },
+    {
+      "t": 165.9,
+      "end": 171.24,
+      "text": "Đừng ai hỏi vì sao"
+    },
+    {
+      "t": 172.1,
+      "end": 178.6,
+      "text": "Tủ hơi kêu khi đóng"
+    },
+    {
+      "t": 178.82,
+      "end": 178.82,
+      "text": "[Outro - bassline and kick, organ stab fades]"
+    },
+    {
+      "t": 178.82,
+      "end": 184.26,
+      "text": "Còn bảy con ốc thừa"
+    },
+    {
+      "t": 184.74,
+      "end": 190.06,
+      "text": "Để dành cho tủ sau"
+    }
+  ]
+}

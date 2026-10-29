@@ -1,0 +1,307 @@
+{
+  "id": "b16_id03",
+  "title": "Kaki Meja yang Goyang",
+  "title_source": "scripted",
+  "genre": "Indonesian piano cabaret pop ballad",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "hangat, intim, tenang",
+  "persona": "",
+  "subject": "a husband who quietly fixes the wobbly leg of the old wooden writing desk his wife refuses to throw away, and pencils both their names under it",
+  "caption": "Indonesian piano cabaret pop ballad in the Sal Priadi vein. Upright piano with rolling left-hand chords, brushed snare and soft kick, walking double bass, muted trumpet answering the vocal lines. Small-room dry recording, close-miked, a little tape warmth. Warm male baritone, tender and close, half spoken at line ends. 78 BPM, E-flat major. Mood of quiet married affection at night. No synth pads, no trap drums, no autotune, no orchestral swell, no rock guitar.",
+  "lyrics": "[Intro - upright piano, brushed drums]\n[Verse 1]\nMeja kayu dari kosmu dulu\nKakinya goyang sejak pindah\nKamu ganjal pakai kertas tagihan\nKamu bilang, jangan dibuang\n[Pre-Chorus]\nMalam ini kamu sudah tidur\nAku pinjam obeng tetangga sebelah\n[Chorus]\nPelan-pelan kubetulkan kakinya\nBiar suratmu nggak miring lagi\nDi bawah meja kutulis nama kita\nPakai pensil, biar kamu nggak tahu\n[Verse 2]\nPagi-pagi kamu menulis\nKopi nggak tumpah ke catatan\nKamu ketuk meja dua kali\nLalu lihat aku, curiga\n[Chorus]\nPelan-pelan kubetulkan kakinya\nBiar tanganmu tenang menulis\nDi bawah meja ada nama kita\nKalau kamu nunduk, kamu tahu\n[Outro - muted trumpet, piano]\nKamu nunduk, kamu ketawa\nKamu tambah gambar hati kecil",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "2",
+    "prompt": "Indonesian piano cabaret pop ballad in the Sal Priadi vein. Upright piano with rolling left-hand chords, brushed snare and soft kick, walking double bass, muted trumpet answering the vocal lines. Small-room dry recording, close-miked, a little tape warmth. Warm male baritone, tender and close, half spoken at line ends. 78 BPM, E-flat major. Mood of quiet married affection at night. No synth pads, no trap drums, no autotune, no orchestral swell, no rock guitar.",
+    "lyrics": "[Intro - upright piano, brushed drums]\n[Verse 1]\nMeja kayu dari kosmu dulu\nKakinya goyang sejak pindah\nKamu ganjal pakai kertas tagihan\nKamu bilang, jangan dibuang\n[Pre-Chorus]\nMalam ini kamu sudah tidur\nAku pinjam obeng tetangga sebelah\n[Chorus]\nPelan-pelan kubetulkan kakinya\nBiar suratmu nggak miring lagi\nDi bawah meja kutulis nama kita\nPakai pensil, biar kamu nggak tahu\n[Verse 2]\nPagi-pagi kamu menulis\nKopi nggak tumpah ke catatan\nKamu ketuk meja dua kali\nLalu lihat aku, curiga\n[Chorus]\nPelan-pelan kubetulkan kakinya\nBiar tanganmu tenang menulis\nDi bawah meja ada nama kita\nKalau kamu nunduk, kamu tahu\n[Outro - muted trumpet, piano]\nKamu nunduk, kamu ketawa\nKamu tambah gambar hati kecil"
+  },
+  "seed": "4291487804",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 104.16s**\n- 104.16s per song\n- LM phase (1 song): 16.81s\n- DiT phase (1 song): 87.35s",
+  "task_id": "f1e3f5f1-5dab-4d02-bcc9-2bd0b7d74f51",
+  "elapsed_s": 140.9,
+  "generated_at": "2026-10-29T13:13:17.149565+08:00",
+  "audio": "b16_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.78,
+      "end": 24.78,
+      "text": "[Intro - upright piano, brushed drums]"
+    },
+    {
+      "t": 24.78,
+      "end": 24.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.78,
+      "end": 28.06,
+      "text": "Meja kayu dari kosmu dulu"
+    },
+    {
+      "t": 32.86,
+      "end": 38.24,
+      "text": "Kakinya goyang sejak pindah"
+    },
+    {
+      "t": 42.1,
+      "end": 46.74,
+      "text": "Kamu ganjal pakai kertas tagihan"
+    },
+    {
+      "t": 49.06,
+      "end": 52.48,
+      "text": "Kamu bilang, jangan dibuang"
+    },
+    {
+      "t": 55.19,
+      "end": 55.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.19,
+      "end": 59.31,
+      "text": "Malam ini kamu sudah tidur"
+    },
+    {
+      "t": 61.01,
+      "end": 65.29,
+      "text": "Aku pinjam obeng tetangga sebelah"
+    },
+    {
+      "t": 67.87,
+      "end": 67.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.87,
+      "end": 71.87,
+      "text": "Pelan-pelan kubetulkan kakinya"
+    },
+    {
+      "t": 73.95,
+      "end": 78.41,
+      "text": "Biar suratmu nggak miring lagi"
+    },
+    {
+      "t": 80.19,
+      "end": 84.53,
+      "text": "Di bawah meja kutulis nama kita"
+    },
+    {
+      "t": 85.91,
+      "end": 91.95,
+      "text": "Pakai pensil, biar kamu nggak tahu"
+    },
+    {
+      "t": 101.27,
+      "end": 101.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.27,
+      "end": 104.67,
+      "text": "Pagi-pagi kamu menulis"
+    },
+    {
+      "t": 107.27,
+      "end": 110.53,
+      "text": "Kopi nggak tumpah ke catatan"
+    },
+    {
+      "t": 113.23,
+      "end": 118.51,
+      "text": "Kamu ketuk meja dua kali"
+    },
+    {
+      "t": 120.63,
+      "end": 124.57,
+      "text": "Lalu lihat aku, curiga"
+    },
+    {
+      "t": 126.35,
+      "end": 126.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.35,
+      "end": 130.49,
+      "text": "Pelan-pelan kubetulkan kakinya"
+    },
+    {
+      "t": 132.41,
+      "end": 137.59,
+      "text": "Biar tanganmu tenang menulis"
+    },
+    {
+      "t": 140.35,
+      "end": 143.33,
+      "text": "Di bawah meja ada nama kita"
+    },
+    {
+      "t": 144.87,
+      "end": 152.67,
+      "text": "Kalau kamu nunduk, kamu tahu"
+    },
+    {
+      "t": 189.96,
+      "end": 189.96,
+      "text": "[Outro - muted trumpet, piano]"
+    },
+    {
+      "t": 189.96,
+      "end": 192.44,
+      "text": "Kamu nunduk, kamu ketawa"
+    },
+    {
+      "t": 193.78,
+      "end": 198.82,
+      "text": "Kamu tambah gambar hati kecil"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.78,
+      "end": 24.78,
+      "text": "[Intro - upright piano, brushed drums]"
+    },
+    {
+      "t": 24.78,
+      "end": 24.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.78,
+      "end": 28.06,
+      "text": "Meja kayu dari kosmu dulu"
+    },
+    {
+      "t": 32.86,
+      "end": 38.32,
+      "text": "Kakinya goyang sejak pindah"
+    },
+    {
+      "t": 42.1,
+      "end": 46.76,
+      "text": "Kamu ganjal pakai kertas tagihan"
+    },
+    {
+      "t": 49.06,
+      "end": 52.54,
+      "text": "Kamu bilang, jangan dibuang"
+    },
+    {
+      "t": 55.19,
+      "end": 55.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.19,
+      "end": 59.31,
+      "text": "Malam ini kamu sudah tidur"
+    },
+    {
+      "t": 61.03,
+      "end": 65.29,
+      "text": "Aku pinjam obeng tetangga sebelah"
+    },
+    {
+      "t": 67.87,
+      "end": 67.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.87,
+      "end": 71.87,
+      "text": "Pelan-pelan kubetulkan kakinya"
+    },
+    {
+      "t": 73.95,
+      "end": 78.41,
+      "text": "Biar suratmu nggak miring lagi"
+    },
+    {
+      "t": 80.19,
+      "end": 84.53,
+      "text": "Di bawah meja kutulis nama kita"
+    },
+    {
+      "t": 85.89,
+      "end": 91.97,
+      "text": "Pakai pensil, biar kamu nggak tahu"
+    },
+    {
+      "t": 101.27,
+      "end": 101.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.27,
+      "end": 104.67,
+      "text": "Pagi-pagi kamu menulis"
+    },
+    {
+      "t": 107.27,
+      "end": 110.51,
+      "text": "Kopi nggak tumpah ke catatan"
+    },
+    {
+      "t": 113.23,
+      "end": 118.53,
+      "text": "Kamu ketuk meja dua kali"
+    },
+    {
+      "t": 120.63,
+      "end": 124.57,
+      "text": "Lalu lihat aku, curiga"
+    },
+    {
+      "t": 126.35,
+      "end": 126.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.35,
+      "end": 130.49,
+      "text": "Pelan-pelan kubetulkan kakinya"
+    },
+    {
+      "t": 132.41,
+      "end": 137.49,
+      "text": "Biar tanganmu tenang menulis"
+    },
+    {
+      "t": 140.35,
+      "end": 143.33,
+      "text": "Di bawah meja ada nama kita"
+    },
+    {
+      "t": 144.87,
+      "end": 152.69,
+      "text": "Kalau kamu nunduk, kamu tahu"
+    },
+    {
+      "t": 189.96,
+      "end": 189.96,
+      "text": "[Outro - muted trumpet, piano]"
+    },
+    {
+      "t": 189.96,
+      "end": 192.44,
+      "text": "Kamu nunduk, kamu ketawa"
+    },
+    {
+      "t": 193.78,
+      "end": 198.78,
+      "text": "Kamu tambah gambar hati kecil"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

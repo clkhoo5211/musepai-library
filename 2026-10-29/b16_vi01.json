@@ -1,0 +1,444 @@
+{
+  "id": "b16_vi01",
+  "title": "Lá Thứ Bảy",
+  "title_source": "scripted",
+  "genre": "Vietnamese melodic rap-ballad",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "tender, patient, quietly proud",
+  "persona": "",
+  "subject": "a Hà Nội man keeping his girlfriend's monstera alive while she is posted to Đà Nẵng for three months, sending her a photo every time it opens a new leaf",
+  "caption": "Vietnamese melodic rap-ballad, 2025 V-pop chart style. Felt piano playing slow broken chords; nylon guitar picking a short repeating figure; round sub bass under soft 808 kicks; dry rimshot on beats two and four. Close, dry bedroom mix with soft room reverb on the piano. Male rapper-singer, low half-sung verses in Vietnamese, warm sung chorus in mid register. 82 BPM, E major. Tender, patient and quietly proud. No autotune, no trap hi-hat rolls, no EDM drop, no rock guitar, no choir.",
+  "lyrics": "[Intro - felt piano and nylon guitar]\n\n[Verse 1]\nEm đi Đà Nẵng ba tháng thôi\nĐể lại cây trầu bà lá xẻ\nDặn anh tưới một tuần hai lần\nĐừng thương quá mà tưới thêm\n\n[Pre-Chorus]\nAnh lau từng lá như lau kính\nSáng nào cũng đứng ngó một hồi\n\n[Chorus]\nLá thứ năm vừa mở rồi em\nAnh chụp gửi em lúc sáu giờ\nNhà vắng em nhưng cây vẫn lớn\nĐếm lá thay đếm ngày chờ\n\n[Verse 2]\nCó hôm lá vàng anh hoảng hồn\nGọi em lúc nửa đêm hỏi thử\nEm cười bảo anh đừng lo\nKê cây xa cái điều hòa\n\n[Chorus]\nLá thứ bảy vừa mở rồi em\nTo hơn cả bàn tay anh đó\nNhà vắng em nhưng cây vẫn lớn\nĐếm lá thay đếm ngày chờ\n\n[Outro - piano alone]\nCòn hai lá nữa thôi em\nLà em về tới cửa",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 82,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Vietnamese melodic rap-ballad, 2025 V-pop chart style. Felt piano playing slow broken chords; nylon guitar picking a short repeating figure; round sub bass under soft 808 kicks; dry rimshot on beats two and four. Close, dry bedroom mix with soft room reverb on the piano. Male rapper-singer, low half-sung verses in Vietnamese, warm sung chorus in mid register. 82 BPM, E major. Tender, patient and quietly proud. No autotune, no trap hi-hat rolls, no EDM drop, no rock guitar, no choir.",
+    "lyrics": "[Intro - felt piano and nylon guitar]\n\n[Verse 1]\nEm đi Đà Nẵng ba tháng thôi\nĐể lại cây trầu bà lá xẻ\nDặn anh tưới một tuần hai lần\nĐừng thương quá mà tưới thêm\n\n[Pre-Chorus]\nAnh lau từng lá như lau kính\nSáng nào cũng đứng ngó một hồi\n\n[Chorus]\nLá thứ năm vừa mở rồi em\nAnh chụp gửi em lúc sáu giờ\nNhà vắng em nhưng cây vẫn lớn\nĐếm lá thay đếm ngày chờ\n\n[Verse 2]\nCó hôm lá vàng anh hoảng hồn\nGọi em lúc nửa đêm hỏi thử\nEm cười bảo anh đừng lo\nKê cây xa cái điều hòa\n\n[Chorus]\nLá thứ bảy vừa mở rồi em\nTo hơn cả bàn tay anh đó\nNhà vắng em nhưng cây vẫn lớn\nĐếm lá thay đếm ngày chờ\n\n[Outro - piano alone]\nCòn hai lá nữa thôi em\nLà em về tới cửa"
+  },
+  "seed": "1835754965",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.30s**\n- 61.30s per song\n- LM phase (1 song): 13.90s\n- DiT phase (1 song): 47.40s",
+  "task_id": "b1ea26b7-1fe5-42e9-9c55-996cd8ee1807",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-29T13:18:57.591942+08:00",
+  "audio": "b16_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.84,
+      "end": 38.84,
+      "text": "[Intro - felt piano and nylon guitar]"
+    },
+    {
+      "t": 38.84,
+      "end": 38.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.84,
+      "end": 42.5,
+      "text": "Em đi Đà Nẵng ba tháng thôi"
+    },
+    {
+      "t": 44.34,
+      "end": 48.36,
+      "text": "Để lại cây trầu bà lá xẻ"
+    },
+    {
+      "t": 48.38,
+      "end": 57.13,
+      "text": "Dặn anh tưới một tuần hai lần"
+    },
+    {
+      "t": 57.53,
+      "end": 62.27,
+      "text": "Đừng thương quá mà tưới thêm"
+    },
+    {
+      "t": 62.29,
+      "end": 62.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.29,
+      "end": 64.89,
+      "text": "Anh lau từng lá như lau kính"
+    },
+    {
+      "t": 65.47,
+      "end": 69.11,
+      "text": "Sáng nào cũng đứng ngó một hồi"
+    },
+    {
+      "t": 72.37,
+      "end": 72.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.37,
+      "end": 75.57,
+      "text": "Lá thứ năm vừa mở rồi em"
+    },
+    {
+      "t": 77.67,
+      "end": 80.65,
+      "text": "Anh chụp gửi em lúc sáu giờ"
+    },
+    {
+      "t": 85.21,
+      "end": 88.93,
+      "text": "Nhà vắng em nhưng cây vẫn lớn"
+    },
+    {
+      "t": 90.03,
+      "end": 93.49,
+      "text": "Đếm lá thay đếm ngày chờ"
+    },
+    {
+      "t": 118.07,
+      "end": 118.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 118.07,
+      "end": 119.97,
+      "text": "Có hôm lá vàng anh hoảng hồn"
+    },
+    {
+      "t": 120.27,
+      "end": 130.25,
+      "text": "Gọi em lúc nửa đêm hỏi thử"
+    },
+    {
+      "t": 130.25,
+      "end": 132.51,
+      "text": "Em cười bảo anh đừng lo"
+    },
+    {
+      "t": 137.89,
+      "end": 140.11,
+      "text": "Kê cây xa cái điều hòa"
+    },
+    {
+      "t": 140.13,
+      "end": 140.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.13,
+      "end": 144.35,
+      "text": "Lá thứ bảy vừa mở rồi em"
+    },
+    {
+      "t": 145.33,
+      "end": 155.62,
+      "text": "To hơn cả bàn tay anh đó"
+    },
+    {
+      "t": 155.7,
+      "end": 161.5,
+      "text": "Nhà vắng em nhưng cây vẫn lớn"
+    },
+    {
+      "t": 161.78,
+      "end": 166.28,
+      "text": "Đếm lá thay đếm ngày chờ"
+    },
+    {
+      "t": 169.9,
+      "end": 169.9,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 169.9,
+      "end": 173.08,
+      "text": "Còn hai lá nữa thôi em"
+    },
+    {
+      "t": 174.56,
+      "end": 177.36,
+      "text": "Là em về tới cửa"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.84,
+      "end": 38.84,
+      "text": "[Intro - felt piano and nylon guitar]"
+    },
+    {
+      "t": 38.84,
+      "end": 38.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.84,
+      "end": 42.5,
+      "text": "Em đi Đà Nẵng ba tháng thôi"
+    },
+    {
+      "t": 44.34,
+      "end": 48.36,
+      "text": "Để lại cây trầu bà lá xẻ"
+    },
+    {
+      "t": 48.38,
+      "end": 57.13,
+      "text": "Dặn anh tưới một tuần hai lần"
+    },
+    {
+      "t": 57.53,
+      "end": 62.27,
+      "text": "Đừng thương quá mà tưới thêm"
+    },
+    {
+      "t": 62.29,
+      "end": 62.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.29,
+      "end": 64.89,
+      "text": "Anh lau từng lá như lau kính"
+    },
+    {
+      "t": 65.47,
+      "end": 69.11,
+      "text": "Sáng nào cũng đứng ngó một hồi"
+    },
+    {
+      "t": 72.37,
+      "end": 72.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.37,
+      "end": 75.57,
+      "text": "Lá thứ năm vừa mở rồi em"
+    },
+    {
+      "t": 77.67,
+      "end": 80.65,
+      "text": "Anh chụp gửi em lúc sáu giờ"
+    },
+    {
+      "t": 85.21,
+      "end": 88.93,
+      "text": "Nhà vắng em nhưng cây vẫn lớn"
+    },
+    {
+      "t": 90.03,
+      "end": 93.49,
+      "text": "Đếm lá thay đếm ngày chờ"
+    },
+    {
+      "t": 118.07,
+      "end": 118.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 118.07,
+      "end": 119.97,
+      "text": "Có hôm lá vàng anh hoảng hồn"
+    },
+    {
+      "t": 120.27,
+      "end": 130.25,
+      "text": "Gọi em lúc nửa đêm hỏi thử"
+    },
+    {
+      "t": 130.25,
+      "end": 132.51,
+      "text": "Em cười bảo anh đừng lo"
+    },
+    {
+      "t": 137.89,
+      "end": 140.11,
+      "text": "Kê cây xa cái điều hòa"
+    },
+    {
+      "t": 140.13,
+      "end": 140.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.13,
+      "end": 144.35,
+      "text": "Lá thứ bảy vừa mở rồi em"
+    },
+    {
+      "t": 145.33,
+      "end": 155.62,
+      "text": "To hơn cả bàn tay anh đó"
+    },
+    {
+      "t": 155.7,
+      "end": 161.5,
+      "text": "Nhà vắng em nhưng cây vẫn lớn"
+    },
+    {
+      "t": 161.78,
+      "end": 166.28,
+      "text": "Đếm lá thay đếm ngày chờ"
+    },
+    {
+      "t": 169.9,
+      "end": 169.9,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 169.9,
+      "end": 173.08,
+      "text": "Còn hai lá nữa thôi em"
+    },
+    {
+      "t": 174.56,
+      "end": 177.6,
+      "text": "Là em về tới cửa"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 38.84,
+      "end": 38.84,
+      "text": "[Intro - felt piano and nylon guitar]"
+    },
+    {
+      "t": 38.84,
+      "end": 38.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.84,
+      "end": 42.48,
+      "text": "Em đi Đà Nẵng ba tháng thôi"
+    },
+    {
+      "t": 44.34,
+      "end": 48.36,
+      "text": "Để lại cây trầu bà lá xẻ"
+    },
+    {
+      "t": 52.01,
+      "end": 57.09,
+      "text": "Dặn anh tưới một tuần hai lần"
+    },
+    {
+      "t": 57.53,
+      "end": 62.29,
+      "text": "Đừng thương quá mà tưới thêm"
+    },
+    {
+      "t": 62.29,
+      "end": 62.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.29,
+      "end": 64.87,
+      "text": "Anh lau từng lá như lau kính"
+    },
+    {
+      "t": 65.47,
+      "end": 69.09,
+      "text": "Sáng nào cũng đứng ngó một hồi"
+    },
+    {
+      "t": 72.39,
+      "end": 72.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.39,
+      "end": 75.25,
+      "text": "Lá thứ năm vừa mở rồi em"
+    },
+    {
+      "t": 77.67,
+      "end": 80.65,
+      "text": "Anh chụp gửi em lúc sáu giờ"
+    },
+    {
+      "t": 85.19,
+      "end": 88.95,
+      "text": "Nhà vắng em nhưng cây vẫn lớn"
+    },
+    {
+      "t": 90.03,
+      "end": 93.51,
+      "text": "Đếm lá thay đếm ngày chờ"
+    },
+    {
+      "t": 94.61,
+      "end": 94.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.61,
+      "end": 108.91,
+      "text": "Có hôm lá vàng anh hoảng hồn"
+    },
+    {
+      "t": 108.93,
+      "end": 112.61,
+      "text": "Gọi em lúc nửa đêm hỏi thử"
+    },
+    {
+      "t": 112.67,
+      "end": 115.19,
+      "text": "Em cười bảo anh đừng lo"
+    },
+    {
+      "t": 118.07,
+      "end": 120.71,
+      "text": "Kê cây xa cái điều hòa"
+    },
+    {
+      "t": 120.71,
+      "end": 120.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.71,
+      "end": 129.13,
+      "text": "Lá thứ bảy vừa mở rồi em"
+    },
+    {
+      "t": 129.81,
+      "end": 132.53,
+      "text": "To hơn cả bàn tay anh đó"
+    },
+    {
+      "t": 138.29,
+      "end": 142.07,
+      "text": "Nhà vắng em nhưng cây vẫn lớn"
+    },
+    {
+      "t": 144.21,
+      "end": 147.51,
+      "text": "Đếm lá thay đếm ngày chờ"
+    },
+    {
+      "t": 155.48,
+      "end": 155.48,
+      "text": "[Outro - piano alone]"
+    },
+    {
+      "t": 155.48,
+      "end": 159.24,
+      "text": "Còn hai lá nữa thôi em"
+    },
+    {
+      "t": 161.3,
+      "end": 174.72,
+      "text": "Là em về tới cửa"
+    }
+  ]
+}

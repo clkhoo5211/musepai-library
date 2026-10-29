@@ -1,0 +1,387 @@
+{
+  "id": "b16_ko01",
+  "title": "순자가 또 넘쳤어",
+  "title_source": "scripted",
+  "genre": "Korean amapiano pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "playful, bouncy, late-night kitchen fun",
+  "persona": "",
+  "subject": "a guy in a Mangwon-dong one-room flat whose sourdough starter, which he named Sunja, keeps rising over the jar every night and burying his kitchen counter, until he finally bakes one lopsided loaf and shares it with nobody but the starter jar",
+  "caption": "Korean amapiano pop, Seoul popiano style. Deep pitched log-drum bass hits rolling under the groove, busy shaker and open hi-hat shuffle, soft Rhodes chords with long sustain, short percussive piano stabs answering the vocal. Warm, roomy mix, percussion dry and close. Bright young male lead in light chest voice, airy falsetto on the hook, playful spoken asides. 112 BPM, A minor. Playful midnight-kitchen bounce. No trap hi-hat rolls, no EDM drop, no autotune, no rap verse, no four-on-the-floor kick.",
+  "lyrics": "[Intro - log drum, shaker, Rhodes]\n\n[Verse 1]\n밤 열두 시 부엌 불을 켜\n유리병 뚜껑이 또 떠 있어\n어제 준 밀가루 다 먹고\n순자가 조리대를 덮었어\n\n[Pre-Chorus]\n행주 들고 서 있는 나\n너는 거품 내며 웃는 중\n\n[Chorus]\n순자야 또 넘쳤어\n병이 작다고 말 좀 해\n밥 주면 커지고\n안 주면 삐지네\n\n[Verse 2]\n선반에 밀가루 자국 가득\n슬리퍼 바닥도 끈적해\n친구들은 빵 언제 굽냐고\n나는 아직 순자 눈치 봐\n\n[Chorus]\n순자야 또 넘쳤어\n오늘은 진짜 구울 거야\n반쪽만 떼어 가도\n화내지 말아 줘\n\n[Bridge - log drum solo, piano stabs]\n오븐 앞에 쪼그려 앉아\n찌그러진 빵 하나 나왔어\n\n[Chorus]\n순자야 이것 좀 봐\n못생겨도 냄새는 좋아\n한 조각은 내 거\n한 조각은 네 병 옆에\n\n[Outro - shaker fades]\n순자야 잘 자\n내일 또 넘치자",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Korean amapiano pop, Seoul popiano style. Deep pitched log-drum bass hits rolling under the groove, busy shaker and open hi-hat shuffle, soft Rhodes chords with long sustain, short percussive piano stabs answering the vocal. Warm, roomy mix, percussion dry and close. Bright young male lead in light chest voice, airy falsetto on the hook, playful spoken asides. 112 BPM, A minor. Playful midnight-kitchen bounce. No trap hi-hat rolls, no EDM drop, no autotune, no rap verse, no four-on-the-floor kick.",
+    "lyrics": "[Intro - log drum, shaker, Rhodes]\n\n[Verse 1]\n밤 열두 시 부엌 불을 켜\n유리병 뚜껑이 또 떠 있어\n어제 준 밀가루 다 먹고\n순자가 조리대를 덮었어\n\n[Pre-Chorus]\n행주 들고 서 있는 나\n너는 거품 내며 웃는 중\n\n[Chorus]\n순자야 또 넘쳤어\n병이 작다고 말 좀 해\n밥 주면 커지고\n안 주면 삐지네\n\n[Verse 2]\n선반에 밀가루 자국 가득\n슬리퍼 바닥도 끈적해\n친구들은 빵 언제 굽냐고\n나는 아직 순자 눈치 봐\n\n[Chorus]\n순자야 또 넘쳤어\n오늘은 진짜 구울 거야\n반쪽만 떼어 가도\n화내지 말아 줘\n\n[Bridge - log drum solo, piano stabs]\n오븐 앞에 쪼그려 앉아\n찌그러진 빵 하나 나왔어\n\n[Chorus]\n순자야 이것 좀 봐\n못생겨도 냄새는 좋아\n한 조각은 내 거\n한 조각은 네 병 옆에\n\n[Outro - shaker fades]\n순자야 잘 자\n내일 또 넘치자"
+  },
+  "seed": "3495036106",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 77.54s**\n- 77.54s per song\n- LM phase (1 song): 8.91s\n- DiT phase (1 song): 68.63s",
+  "task_id": "c2b7133d-8cae-4157-9121-4bbd3e119571",
+  "elapsed_s": 141.2,
+  "generated_at": "2026-10-29T12:50:01.588865+08:00",
+  "audio": "b16_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.42,
+      "end": 19.42,
+      "text": "[Intro - log drum, shaker, Rhodes]"
+    },
+    {
+      "t": 19.42,
+      "end": 19.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.42,
+      "end": 21.86,
+      "text": "밤 열두 시 부엌 불을 켜"
+    },
+    {
+      "t": 23.2,
+      "end": 27.56,
+      "text": "유리병 뚜껑이 또 떠 있어"
+    },
+    {
+      "t": 27.58,
+      "end": 30.28,
+      "text": "어제 준 밀가루 다 먹고"
+    },
+    {
+      "t": 32.26,
+      "end": 34.82,
+      "text": "순자가 조리대를 덮었어"
+    },
+    {
+      "t": 36.24,
+      "end": 36.24,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.24,
+      "end": 38.88,
+      "text": "행주 들고 서 있는 나"
+    },
+    {
+      "t": 40.52,
+      "end": 44.52,
+      "text": "너는 거품 내며 웃는 중"
+    },
+    {
+      "t": 44.52,
+      "end": 44.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.52,
+      "end": 51.77,
+      "text": "순자야 또 넘쳤어"
+    },
+    {
+      "t": 54.01,
+      "end": 56.23,
+      "text": "병이 작다고 말 좀 해"
+    },
+    {
+      "t": 59.55,
+      "end": 60.99,
+      "text": "밥 주면 커지고"
+    },
+    {
+      "t": 62.01,
+      "end": 64.93,
+      "text": "안 주면 삐지네"
+    },
+    {
+      "t": 68.49,
+      "end": 68.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.49,
+      "end": 72.69,
+      "text": "선반에 밀가루 자국 가득"
+    },
+    {
+      "t": 73.45,
+      "end": 76.53,
+      "text": "슬리퍼 바닥도 끈적해"
+    },
+    {
+      "t": 78.19,
+      "end": 81.25,
+      "text": "친구들은 빵 언제 굽냐고"
+    },
+    {
+      "t": 82.95,
+      "end": 85.19,
+      "text": "나는 아직 순자 눈치 봐"
+    },
+    {
+      "t": 90.31,
+      "end": 90.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.31,
+      "end": 93.91,
+      "text": "순자야 또 넘쳤어"
+    },
+    {
+      "t": 93.99,
+      "end": 96.87,
+      "text": "오늘은 진짜 구울 거야"
+    },
+    {
+      "t": 99.09,
+      "end": 101.09,
+      "text": "반쪽만 떼어 가도"
+    },
+    {
+      "t": 102.23,
+      "end": 104.31,
+      "text": "화내지 말아 줘"
+    },
+    {
+      "t": 108.47,
+      "end": 108.47,
+      "text": "[Bridge - log drum solo, piano stabs]"
+    },
+    {
+      "t": 108.47,
+      "end": 111.11,
+      "text": "오븐 앞에 쪼그려 앉아"
+    },
+    {
+      "t": 112.45,
+      "end": 115.65,
+      "text": "찌그러진 빵 하나 나왔어"
+    },
+    {
+      "t": 121.03,
+      "end": 121.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.03,
+      "end": 123.67,
+      "text": "순자야 이것 좀 봐"
+    },
+    {
+      "t": 125.33,
+      "end": 127.93,
+      "text": "못생겨도 냄새는 좋아"
+    },
+    {
+      "t": 128.11,
+      "end": 147.19,
+      "text": "한 조각은 내 거"
+    },
+    {
+      "t": 149.47,
+      "end": 162.38,
+      "text": "한 조각은 네 병 옆에"
+    },
+    {
+      "t": 164.12,
+      "end": 164.12,
+      "text": "[Outro - shaker fades]"
+    },
+    {
+      "t": 164.12,
+      "end": 165.62,
+      "text": "순자야 잘 자"
+    },
+    {
+      "t": 166.62,
+      "end": 170.4,
+      "text": "내일 또 넘치자"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.4,
+      "end": 19.4,
+      "text": "[Intro - log drum, shaker, Rhodes]"
+    },
+    {
+      "t": 19.4,
+      "end": 19.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.4,
+      "end": 21.86,
+      "text": "밤 열두 시 부엌 불을 켜"
+    },
+    {
+      "t": 23.22,
+      "end": 27.56,
+      "text": "유리병 뚜껑이 또 떠 있어"
+    },
+    {
+      "t": 27.56,
+      "end": 30.28,
+      "text": "어제 준 밀가루 다 먹고"
+    },
+    {
+      "t": 32.26,
+      "end": 34.82,
+      "text": "순자가 조리대를 덮었어"
+    },
+    {
+      "t": 36.26,
+      "end": 36.26,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.26,
+      "end": 38.88,
+      "text": "행주 들고 서 있는 나"
+    },
+    {
+      "t": 40.54,
+      "end": 44.5,
+      "text": "너는 거품 내며 웃는 중"
+    },
+    {
+      "t": 44.52,
+      "end": 44.52,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.52,
+      "end": 51.77,
+      "text": "순자야 또 넘쳤어"
+    },
+    {
+      "t": 54.01,
+      "end": 56.25,
+      "text": "병이 작다고 말 좀 해"
+    },
+    {
+      "t": 59.55,
+      "end": 60.99,
+      "text": "밥 주면 커지고"
+    },
+    {
+      "t": 62.01,
+      "end": 64.93,
+      "text": "안 주면 삐지네"
+    },
+    {
+      "t": 68.47,
+      "end": 68.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.47,
+      "end": 72.71,
+      "text": "선반에 밀가루 자국 가득"
+    },
+    {
+      "t": 73.45,
+      "end": 76.53,
+      "text": "슬리퍼 바닥도 끈적해"
+    },
+    {
+      "t": 78.17,
+      "end": 81.25,
+      "text": "친구들은 빵 언제 굽냐고"
+    },
+    {
+      "t": 82.95,
+      "end": 85.19,
+      "text": "나는 아직 순자 눈치 봐"
+    },
+    {
+      "t": 90.31,
+      "end": 90.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.31,
+      "end": 93.89,
+      "text": "순자야 또 넘쳤어"
+    },
+    {
+      "t": 94.01,
+      "end": 96.87,
+      "text": "오늘은 진짜 구울 거야"
+    },
+    {
+      "t": 97.19,
+      "end": 101.09,
+      "text": "반쪽만 떼어 가도"
+    },
+    {
+      "t": 102.27,
+      "end": 104.31,
+      "text": "화내지 말아 줘"
+    },
+    {
+      "t": 108.49,
+      "end": 108.49,
+      "text": "[Bridge - log drum solo, piano stabs]"
+    },
+    {
+      "t": 108.49,
+      "end": 111.11,
+      "text": "오븐 앞에 쪼그려 앉아"
+    },
+    {
+      "t": 111.13,
+      "end": 115.65,
+      "text": "찌그러진 빵 하나 나왔어"
+    },
+    {
+      "t": 121.03,
+      "end": 121.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.03,
+      "end": 123.63,
+      "text": "순자야 이것 좀 봐"
+    },
+    {
+      "t": 125.33,
+      "end": 127.93,
+      "text": "못생겨도 냄새는 좋아"
+    },
+    {
+      "t": 140.89,
+      "end": 145.05,
+      "text": "한 조각은 내 거"
+    },
+    {
+      "t": 146.23,
+      "end": 151.52,
+      "text": "한 조각은 네 병 옆에"
+    },
+    {
+      "t": 164.14,
+      "end": 164.14,
+      "text": "[Outro - shaker fades]"
+    },
+    {
+      "t": 164.14,
+      "end": 165.6,
+      "text": "순자야 잘 자"
+    },
+    {
+      "t": 166.62,
+      "end": 170.38,
+      "text": "내일 또 넘치자"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

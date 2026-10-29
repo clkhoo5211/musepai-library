@@ -1,0 +1,307 @@
+{
+  "id": "b16_ja03",
+  "title": "りんご十キロ東京駅",
+  "title_source": "scripted",
+  "genre": "Tsugaru shamisen rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "breathless, rowdy and good-humoured",
+  "persona": "",
+  "subject": "a man hauling a ten-kilo cardboard box of Aomori apples his aunt forced on him through Tokyo Station at morning rush hour, handing an apple to every commuter who bumps into the box until it is light enough to carry",
+  "caption": "Tsugaru shamisen rock fusion. Tsugaru shamisen with hard tataki slaps and fast jonkara-style runs, distorted rhythm guitar locking to it, taiko-style floor toms, driving electric bass. Loud live-room rock mix with the shamisen centered and forward, short tight reverb. Male high baritone with shouted min'yo kakegoe calls and punchy sung lines. 152 BPM, E minor. Breathless, rowdy and good-humoured. No trap drums, no autotune, no EDM drop, no koto, no idol pop synths.",
+  "lyrics": "[Intro - solo Tsugaru shamisen, kakegoe shouts]\n\n[Verse 1]\nおばちゃん持たせた 段ボール\n青森りんごが 十キロだ\n新幹線を 降りたとたん\n朝のラッシュに のみこまれ\n\n[Pre-Chorus]\nハッ 右にぶつかる\nハッ 左にぶつかる\n\n[Chorus]\nりんご十キロ 東京駅\nぶつかった人に ひとつずつ\nすみませんって 渡したら\nサラリーマンが かじってる\n\n[Verse 2]\n階段の前で また止まる\n女子高生にも ひとつずつ\n駅員さんまで 手を出した\nだんだん箱が 軽くなる\n\n[Chorus]\nりんご十キロ 東京駅\n改札前で 八キロだ\nありがとうって 言われたら\nこっちの腕も 軽くなる\n\n[Outro - shamisen and drums, kakegoe]\n家に着いたら 三つだけ\nおばちゃんには 言えないな",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Tsugaru shamisen rock fusion. Tsugaru shamisen with hard tataki slaps and fast jonkara-style runs, distorted rhythm guitar locking to it, taiko-style floor toms, driving electric bass. Loud live-room rock mix with the shamisen centered and forward, short tight reverb. Male high baritone with shouted min'yo kakegoe calls and punchy sung lines. 152 BPM, E minor. Breathless, rowdy and good-humoured. No trap drums, no autotune, no EDM drop, no koto, no idol pop synths.",
+    "lyrics": "[Intro - solo Tsugaru shamisen, kakegoe shouts]\n\n[Verse 1]\nおばちゃん持たせた 段ボール\n青森りんごが 十キロだ\n新幹線を 降りたとたん\n朝のラッシュに のみこまれ\n\n[Pre-Chorus]\nハッ 右にぶつかる\nハッ 左にぶつかる\n\n[Chorus]\nりんご十キロ 東京駅\nぶつかった人に ひとつずつ\nすみませんって 渡したら\nサラリーマンが かじってる\n\n[Verse 2]\n階段の前で また止まる\n女子高生にも ひとつずつ\n駅員さんまで 手を出した\nだんだん箱が 軽くなる\n\n[Chorus]\nりんご十キロ 東京駅\n改札前で 八キロだ\nありがとうって 言われたら\nこっちの腕も 軽くなる\n\n[Outro - shamisen and drums, kakegoe]\n家に着いたら 三つだけ\nおばちゃんには 言えないな"
+  },
+  "seed": "435575421",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 103.30s**\n- 103.30s per song\n- LM phase (1 song): 18.36s\n- DiT phase (1 song): 84.94s",
+  "task_id": "7a48fafd-a437-4846-b82b-ea2451df3c4b",
+  "elapsed_s": 130.2,
+  "generated_at": "2026-10-29T22:37:40.069299+08:00",
+  "audio": "b16_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 3.62,
+      "end": 3.62,
+      "text": "[Intro - solo Tsugaru shamisen, kakegoe shouts]"
+    },
+    {
+      "t": 3.62,
+      "end": 3.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.62,
+      "end": 25.66,
+      "text": "おばちゃん持たせた 段ボール"
+    },
+    {
+      "t": 25.72,
+      "end": 28.02,
+      "text": "青森りんごが 十キロだ"
+    },
+    {
+      "t": 31.08,
+      "end": 34.32,
+      "text": "新幹線を 降りたとたん"
+    },
+    {
+      "t": 34.56,
+      "end": 40.32,
+      "text": "朝のラッシュに のみこまれ"
+    },
+    {
+      "t": 43.34,
+      "end": 43.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.34,
+      "end": 46.13,
+      "text": "ハッ 右にぶつかる"
+    },
+    {
+      "t": 48.63,
+      "end": 50.27,
+      "text": "ハッ 左にぶつかる"
+    },
+    {
+      "t": 50.37,
+      "end": 50.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.37,
+      "end": 52.75,
+      "text": "りんご十キロ 東京駅"
+    },
+    {
+      "t": 54.59,
+      "end": 58.17,
+      "text": "ぶつかった人に ひとつずつ"
+    },
+    {
+      "t": 65.93,
+      "end": 69.19,
+      "text": "すみませんって 渡したら"
+    },
+    {
+      "t": 71.51,
+      "end": 75.39,
+      "text": "サラリーマンが かじってる"
+    },
+    {
+      "t": 76.51,
+      "end": 76.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.51,
+      "end": 79.47,
+      "text": "階段の前で また止まる"
+    },
+    {
+      "t": 79.53,
+      "end": 81.63,
+      "text": "女子高生にも ひとつずつ"
+    },
+    {
+      "t": 81.69,
+      "end": 87.77,
+      "text": "駅員さんまで 手を出した"
+    },
+    {
+      "t": 90.35,
+      "end": 94.15,
+      "text": "だんだん箱が 軽くなる"
+    },
+    {
+      "t": 96.69,
+      "end": 96.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.69,
+      "end": 98.19,
+      "text": "りんご十キロ 東京駅"
+    },
+    {
+      "t": 98.23,
+      "end": 99.93,
+      "text": "改札前で 八キロだ"
+    },
+    {
+      "t": 100.09,
+      "end": 102.49,
+      "text": "ありがとうって 言われたら"
+    },
+    {
+      "t": 102.73,
+      "end": 105.57,
+      "text": "こっちの腕も 軽くなる"
+    },
+    {
+      "t": 129.63,
+      "end": 129.63,
+      "text": "[Outro - shamisen and drums, kakegoe]"
+    },
+    {
+      "t": 129.63,
+      "end": 132.25,
+      "text": "家に着いたら 三つだけ"
+    },
+    {
+      "t": 136.98,
+      "end": 141.98,
+      "text": "おばちゃんには 言えないな"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.82,
+      "end": 16.82,
+      "text": "[Intro - solo Tsugaru shamisen, kakegoe shouts]"
+    },
+    {
+      "t": 16.82,
+      "end": 16.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.82,
+      "end": 44.36,
+      "text": "おばちゃん持たせた 段ボール"
+    },
+    {
+      "t": 44.4,
+      "end": 45.19,
+      "text": "青森りんごが 十キロだ"
+    },
+    {
+      "t": 45.19,
+      "end": 47.01,
+      "text": "新幹線を 降りたとたん"
+    },
+    {
+      "t": 47.19,
+      "end": 50.25,
+      "text": "朝のラッシュに のみこまれ"
+    },
+    {
+      "t": 53.15,
+      "end": 53.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.15,
+      "end": 56.45,
+      "text": "ハッ 右にぶつかる"
+    },
+    {
+      "t": 60.17,
+      "end": 62.65,
+      "text": "ハッ 左にぶつかる"
+    },
+    {
+      "t": 64.43,
+      "end": 64.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.43,
+      "end": 68.81,
+      "text": "りんご十キロ 東京駅"
+    },
+    {
+      "t": 71.01,
+      "end": 75.01,
+      "text": "ぶつかった人に ひとつずつ"
+    },
+    {
+      "t": 76.77,
+      "end": 81.21,
+      "text": "すみませんって 渡したら"
+    },
+    {
+      "t": 83.37,
+      "end": 86.61,
+      "text": "サラリーマンが かじってる"
+    },
+    {
+      "t": 86.71,
+      "end": 86.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.71,
+      "end": 91.03,
+      "text": "階段の前で また止まる"
+    },
+    {
+      "t": 91.03,
+      "end": 91.77,
+      "text": "女子高生にも ひとつずつ"
+    },
+    {
+      "t": 91.77,
+      "end": 92.63,
+      "text": "駅員さんまで 手を出した"
+    },
+    {
+      "t": 92.65,
+      "end": 93.79,
+      "text": "だんだん箱が 軽くなる"
+    },
+    {
+      "t": 93.79,
+      "end": 93.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 93.79,
+      "end": 94.29,
+      "text": "りんご十キロ 東京駅"
+    },
+    {
+      "t": 94.29,
+      "end": 94.95,
+      "text": "改札前で 八キロだ"
+    },
+    {
+      "t": 95.01,
+      "end": 95.99,
+      "text": "ありがとうって 言われたら"
+    },
+    {
+      "t": 96.01,
+      "end": 147.48,
+      "text": "こっちの腕も 軽くなる"
+    },
+    {
+      "t": 150.42,
+      "end": 150.42,
+      "text": "[Outro - shamisen and drums, kakegoe]"
+    },
+    {
+      "t": 150.42,
+      "end": 152.28,
+      "text": "家に着いたら 三つだけ"
+    },
+    {
+      "t": 153.82,
+      "end": 157.1,
+      "text": "おばちゃんには 言えないな"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

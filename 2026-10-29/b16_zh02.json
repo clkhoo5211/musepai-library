@@ -1,0 +1,317 @@
+{
+  "id": "b16_zh02",
+  "title": "倉鼠越獄",
+  "title_source": "scripted",
+  "genre": "Mandarin Eurobeat",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "frantic, silly and breathless",
+  "persona": "",
+  "subject": "a flatmate pair whose hamster 小麻糬 escapes its cage at 2 a.m., and they crawl around the flat with phone torches and sunflower seeds until they find it asleep inside a slipper",
+  "caption": "Mandarin Eurobeat, late-1990s Italo-Japanese style. Fast galloping arpeggiated synth bass, stabbing brass-like synth lead hooks, octave piano riffs, pounding four-on-the-floor kick with open hi-hats on the off-beat. Glossy compressed loud mix, wide synths. Female and male duet, bright urgent mid-range delivery. 156 BPM, F♯ minor. Frantic, silly and breathless. No trap hi-hats, no dubstep wobble, no autotune, no ballad section, no rap.",
+  "lyrics": "[Intro - synth arpeggio, brass stab riff]\n\n[Verse 1]\n半夜兩點籠子開著\n小麻糬不見了\n你拿手電筒 我拿瓜子\n趴在地上找\n\n[Pre-Chorus]\n沙發底下 沒有\n冰箱後面 沒有\n\n[Chorus]\n倉鼠越獄 全屋警報\n一顆瓜子一條路\n倉鼠越獄 不要跑掉\n天亮之前帶你回家\n\n[Verse 2]\n窗簾後面有聲音\n原來是你的肚子\n書架上面一團灰\n我打了三個噴嚏\n\n[Pre-Chorus]\n最後看到拖鞋\n裡面在呼吸\n\n[Chorus]\n倉鼠越獄 結束警報\n牠睡在你的拖鞋\n倉鼠越獄 我們躺倒\n天亮了 牠還在打呼\n\n[Outro - synth riff, kick fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 156,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F♯ minor",
+    "timesignature": "4",
+    "prompt": "Mandarin Eurobeat, late-1990s Italo-Japanese style. Fast galloping arpeggiated synth bass, stabbing brass-like synth lead hooks, octave piano riffs, pounding four-on-the-floor kick with open hi-hats on the off-beat. Glossy compressed loud mix, wide synths. Female and male duet, bright urgent mid-range delivery. 156 BPM, F♯ minor. Frantic, silly and breathless. No trap hi-hats, no dubstep wobble, no autotune, no ballad section, no rap.",
+    "lyrics": "[Intro - synth arpeggio, brass stab riff]\n\n[Verse 1]\n半夜兩點籠子開著\n小麻糬不見了\n你拿手電筒 我拿瓜子\n趴在地上找\n\n[Pre-Chorus]\n沙發底下 沒有\n冰箱後面 沒有\n\n[Chorus]\n倉鼠越獄 全屋警報\n一顆瓜子一條路\n倉鼠越獄 不要跑掉\n天亮之前帶你回家\n\n[Verse 2]\n窗簾後面有聲音\n原來是你的肚子\n書架上面一團灰\n我打了三個噴嚏\n\n[Pre-Chorus]\n最後看到拖鞋\n裡面在呼吸\n\n[Chorus]\n倉鼠越獄 結束警報\n牠睡在你的拖鞋\n倉鼠越獄 我們躺倒\n天亮了 牠還在打呼\n\n[Outro - synth riff, kick fades]"
+  },
+  "seed": "2386353527",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 121.08s**\n- 121.08s per song\n- LM phase (1 song): 21.45s\n- DiT phase (1 song): 99.64s",
+  "task_id": "aedea18e-5fdd-4008-9658-5995825ca6e5",
+  "elapsed_s": 160.3,
+  "generated_at": "2026-10-29T15:29:08.682711+08:00",
+  "audio": "b16_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.32,
+      "end": 0.32,
+      "text": "[Intro - synth arpeggio, brass stab riff]"
+    },
+    {
+      "t": 0.32,
+      "end": 0.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.32,
+      "end": 37.08,
+      "text": "半夜兩點籠子開著"
+    },
+    {
+      "t": 38.26,
+      "end": 39.78,
+      "text": "小麻糬不見了"
+    },
+    {
+      "t": 40.9,
+      "end": 43.26,
+      "text": "你拿手電筒 我拿瓜子"
+    },
+    {
+      "t": 43.66,
+      "end": 46.28,
+      "text": "趴在地上找"
+    },
+    {
+      "t": 47.12,
+      "end": 47.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.12,
+      "end": 49.56,
+      "text": "沙發底下 沒有"
+    },
+    {
+      "t": 50.25,
+      "end": 55.95,
+      "text": "冰箱後面 沒有"
+    },
+    {
+      "t": 59.05,
+      "end": 59.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.05,
+      "end": 62.13,
+      "text": "倉鼠越獄 全屋警報"
+    },
+    {
+      "t": 65.21,
+      "end": 68.27,
+      "text": "一顆瓜子一條路"
+    },
+    {
+      "t": 70.97,
+      "end": 74.01,
+      "text": "倉鼠越獄 不要跑掉"
+    },
+    {
+      "t": 74.45,
+      "end": 77.27,
+      "text": "天亮之前帶你回家"
+    },
+    {
+      "t": 77.49,
+      "end": 77.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.49,
+      "end": 91.91,
+      "text": "窗簾後面有聲音"
+    },
+    {
+      "t": 92.11,
+      "end": 94.23,
+      "text": "原來是你的肚子"
+    },
+    {
+      "t": 95.21,
+      "end": 98.01,
+      "text": "書架上面一團灰"
+    },
+    {
+      "t": 98.11,
+      "end": 100.93,
+      "text": "我打了三個噴嚏"
+    },
+    {
+      "t": 102.53,
+      "end": 102.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.53,
+      "end": 104.21,
+      "text": "最後看到拖鞋"
+    },
+    {
+      "t": 105.61,
+      "end": 107.29,
+      "text": "裡面在呼吸"
+    },
+    {
+      "t": 112.91,
+      "end": 112.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.91,
+      "end": 127.57,
+      "text": "倉鼠越獄 結束警報"
+    },
+    {
+      "t": 128.09,
+      "end": 130.51,
+      "text": "牠睡在你的拖鞋"
+    },
+    {
+      "t": 130.97,
+      "end": 133.73,
+      "text": "倉鼠越獄 我們躺倒"
+    },
+    {
+      "t": 134.05,
+      "end": 174.18,
+      "text": "天亮了 牠還在打呼"
+    },
+    {
+      "t": 174.18,
+      "end": 174.18,
+      "text": "[Outro - synth riff, kick fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.86,
+      "end": 34.86,
+      "text": "[Intro - synth arpeggio, brass stab riff]"
+    },
+    {
+      "t": 34.86,
+      "end": 34.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.86,
+      "end": 37.1,
+      "text": "半夜兩點籠子開著"
+    },
+    {
+      "t": 38.26,
+      "end": 40.96,
+      "text": "小麻糬不見了"
+    },
+    {
+      "t": 41.02,
+      "end": 43.26,
+      "text": "你拿手電筒 我拿瓜子"
+    },
+    {
+      "t": 43.66,
+      "end": 46.26,
+      "text": "趴在地上找"
+    },
+    {
+      "t": 47.1,
+      "end": 47.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.1,
+      "end": 49.56,
+      "text": "沙發底下 沒有"
+    },
+    {
+      "t": 50.25,
+      "end": 52.35,
+      "text": "冰箱後面 沒有"
+    },
+    {
+      "t": 53.29,
+      "end": 53.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.29,
+      "end": 62.15,
+      "text": "倉鼠越獄 全屋警報"
+    },
+    {
+      "t": 62.15,
+      "end": 68.27,
+      "text": "一顆瓜子一條路"
+    },
+    {
+      "t": 70.99,
+      "end": 74.03,
+      "text": "倉鼠越獄 不要跑掉"
+    },
+    {
+      "t": 74.45,
+      "end": 77.27,
+      "text": "天亮之前帶你回家"
+    },
+    {
+      "t": 89.01,
+      "end": 89.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.01,
+      "end": 91.89,
+      "text": "窗簾後面有聲音"
+    },
+    {
+      "t": 92.13,
+      "end": 94.23,
+      "text": "原來是你的肚子"
+    },
+    {
+      "t": 95.21,
+      "end": 97.81,
+      "text": "書架上面一團灰"
+    },
+    {
+      "t": 97.81,
+      "end": 100.95,
+      "text": "我打了三個噴嚏"
+    },
+    {
+      "t": 102.53,
+      "end": 102.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.53,
+      "end": 104.21,
+      "text": "最後看到拖鞋"
+    },
+    {
+      "t": 105.61,
+      "end": 107.29,
+      "text": "裡面在呼吸"
+    },
+    {
+      "t": 112.89,
+      "end": 112.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.89,
+      "end": 123.01,
+      "text": "倉鼠越獄 結束警報"
+    },
+    {
+      "t": 123.11,
+      "end": 124.81,
+      "text": "牠睡在你的拖鞋"
+    },
+    {
+      "t": 124.83,
+      "end": 133.73,
+      "text": "倉鼠越獄 我們躺倒"
+    },
+    {
+      "t": 134.05,
+      "end": 174.18,
+      "text": "天亮了 牠還在打呼"
+    },
+    {
+      "t": 174.18,
+      "end": 174.18,
+      "text": "[Outro - synth riff, kick fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,444 @@
+{
+  "id": "b16_ja05",
+  "title": "ひじのパッチ",
+  "title_source": "scripted",
+  "genre": "Japanese doo-wop oldies pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sweet, tender and a little goofy",
+  "persona": "",
+  "subject": "a young man whose girlfriend sews two lopsided felt patches shaped like rice balls onto the worn-through elbows of his only good sweater, which he now wears to work every day and refuses to let anyone call cute",
+  "caption": "Japanese doo-wop oldies pop in the late-1950s style. Slow 12/8 triplet piano chords, round upright bass, brushed drums on the backbeat, a short tenor saxophone break. Warm mono-leaning room sound with light spring reverb. Male clear tenor lead with a male backing trio singing doo-wop syllables and a deep bass-voice answer. 72 BPM, Bb major. Sweet, tender and a little goofy. No trap drums, no autotune, no modern R&B runs, no EDM, no rock guitar distortion.",
+  "lyrics": "[Intro - triplet piano, backing trio humming]\n\n[Verse 1]\nたった一枚の いいセーター\nひじに穴が あいてたんだ\nきみはだまって 持って帰った\n針と糸と フェルトの箱\n\n[Pre-Chorus]\n返ってきたら ひじの上に\nおにぎりがふたつ のっていた\n\n[Chorus]\nひじのパッチは おにぎり型\nちょっと右に かたむいてる\n会社で笑われても いい\nきみがぬったんだ 脱がないよ\n\n[Verse 2]\n「かわいいね」って 部長が言う\nかわいいんじゃない かっこいいんだ\n電車でつり革 つかむたび\nきみの指先 思い出す\n\n[Chorus]\nひじのパッチは おにぎり型\nのりの色まで 黒い糸\n今度はえりが ほつれたら\nなんの形に してくれる\n\n[Outro - piano, bass voice, sax]\n冬が来たら 毎日着るよ\nすり切れるまで 毎日着るよ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Japanese doo-wop oldies pop in the late-1950s style. Slow 12/8 triplet piano chords, round upright bass, brushed drums on the backbeat, a short tenor saxophone break. Warm mono-leaning room sound with light spring reverb. Male clear tenor lead with a male backing trio singing doo-wop syllables and a deep bass-voice answer. 72 BPM, Bb major. Sweet, tender and a little goofy. No trap drums, no autotune, no modern R&B runs, no EDM, no rock guitar distortion.",
+    "lyrics": "[Intro - triplet piano, backing trio humming]\n\n[Verse 1]\nたった一枚の いいセーター\nひじに穴が あいてたんだ\nきみはだまって 持って帰った\n針と糸と フェルトの箱\n\n[Pre-Chorus]\n返ってきたら ひじの上に\nおにぎりがふたつ のっていた\n\n[Chorus]\nひじのパッチは おにぎり型\nちょっと右に かたむいてる\n会社で笑われても いい\nきみがぬったんだ 脱がないよ\n\n[Verse 2]\n「かわいいね」って 部長が言う\nかわいいんじゃない かっこいいんだ\n電車でつり革 つかむたび\nきみの指先 思い出す\n\n[Chorus]\nひじのパッチは おにぎり型\nのりの色まで 黒い糸\n今度はえりが ほつれたら\nなんの形に してくれる\n\n[Outro - piano, bass voice, sax]\n冬が来たら 毎日着るよ\nすり切れるまで 毎日着るよ"
+  },
+  "seed": "3890214039",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 121.64s**\n- 121.64s per song\n- LM phase (1 song): 22.93s\n- DiT phase (1 song): 98.71s",
+  "task_id": "823e6545-7c11-48cb-9c9a-3aa64c823aa1",
+  "elapsed_s": 171.1,
+  "generated_at": "2026-10-29T14:05:26.973025+08:00",
+  "audio": "b16_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Intro - triplet piano, backing trio humming]"
+    },
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.06,
+      "end": 38.54,
+      "text": "たった一枚の いいセーター"
+    },
+    {
+      "t": 38.66,
+      "end": 43.66,
+      "text": "ひじに穴が あいてたんだ"
+    },
+    {
+      "t": 43.92,
+      "end": 47.36,
+      "text": "きみはだまって 持って帰った"
+    },
+    {
+      "t": 47.48,
+      "end": 50.83,
+      "text": "針と糸と フェルトの箱"
+    },
+    {
+      "t": 50.87,
+      "end": 50.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.87,
+      "end": 55.27,
+      "text": "返ってきたら ひじの上に"
+    },
+    {
+      "t": 56.43,
+      "end": 60.73,
+      "text": "おにぎりがふたつ のっていた"
+    },
+    {
+      "t": 63.23,
+      "end": 63.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.23,
+      "end": 66.29,
+      "text": "ひじのパッチは おにぎり型"
+    },
+    {
+      "t": 66.65,
+      "end": 69.65,
+      "text": "ちょっと右に かたむいてる"
+    },
+    {
+      "t": 70.35,
+      "end": 72.81,
+      "text": "会社で笑われても いい"
+    },
+    {
+      "t": 72.95,
+      "end": 78.75,
+      "text": "きみがぬったんだ 脱がないよ"
+    },
+    {
+      "t": 79.17,
+      "end": 79.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.17,
+      "end": 95.91,
+      "text": "「かわいいね」って 部長が言う"
+    },
+    {
+      "t": 95.91,
+      "end": 98.63,
+      "text": "かわいいんじゃない かっこいいんだ"
+    },
+    {
+      "t": 101.95,
+      "end": 105.17,
+      "text": "電車でつり革 つかむたび"
+    },
+    {
+      "t": 108.07,
+      "end": 111.77,
+      "text": "きみの指先 思い出す"
+    },
+    {
+      "t": 114.77,
+      "end": 114.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.77,
+      "end": 118.83,
+      "text": "ひじのパッチは おにぎり型"
+    },
+    {
+      "t": 119.23,
+      "end": 122.19,
+      "text": "のりの色まで 黒い糸"
+    },
+    {
+      "t": 122.49,
+      "end": 126.93,
+      "text": "今度はえりが ほつれたら"
+    },
+    {
+      "t": 128.21,
+      "end": 132.91,
+      "text": "なんの形に してくれる"
+    },
+    {
+      "t": 137.65,
+      "end": 137.65,
+      "text": "[Outro - piano, bass voice, sax]"
+    },
+    {
+      "t": 137.65,
+      "end": 142.43,
+      "text": "冬が来たら 毎日着るよ"
+    },
+    {
+      "t": 144.14,
+      "end": 159.34,
+      "text": "すり切れるまで 毎日着るよ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Intro - triplet piano, backing trio humming]"
+    },
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.06,
+      "end": 38.54,
+      "text": "たった一枚の いいセーター"
+    },
+    {
+      "t": 38.66,
+      "end": 43.66,
+      "text": "ひじに穴が あいてたんだ"
+    },
+    {
+      "t": 43.92,
+      "end": 47.36,
+      "text": "きみはだまって 持って帰った"
+    },
+    {
+      "t": 47.48,
+      "end": 50.83,
+      "text": "針と糸と フェルトの箱"
+    },
+    {
+      "t": 50.87,
+      "end": 50.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.87,
+      "end": 55.27,
+      "text": "返ってきたら ひじの上に"
+    },
+    {
+      "t": 56.43,
+      "end": 60.73,
+      "text": "おにぎりがふたつ のっていた"
+    },
+    {
+      "t": 63.23,
+      "end": 63.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.23,
+      "end": 66.29,
+      "text": "ひじのパッチは おにぎり型"
+    },
+    {
+      "t": 66.65,
+      "end": 69.65,
+      "text": "ちょっと右に かたむいてる"
+    },
+    {
+      "t": 70.37,
+      "end": 72.81,
+      "text": "会社で笑われても いい"
+    },
+    {
+      "t": 72.95,
+      "end": 78.75,
+      "text": "きみがぬったんだ 脱がないよ"
+    },
+    {
+      "t": 79.17,
+      "end": 79.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.17,
+      "end": 95.91,
+      "text": "「かわいいね」って 部長が言う"
+    },
+    {
+      "t": 95.91,
+      "end": 98.63,
+      "text": "かわいいんじゃない かっこいいんだ"
+    },
+    {
+      "t": 101.95,
+      "end": 105.17,
+      "text": "電車でつり革 つかむたび"
+    },
+    {
+      "t": 108.07,
+      "end": 111.77,
+      "text": "きみの指先 思い出す"
+    },
+    {
+      "t": 114.77,
+      "end": 114.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.77,
+      "end": 118.59,
+      "text": "ひじのパッチは おにぎり型"
+    },
+    {
+      "t": 119.23,
+      "end": 122.19,
+      "text": "のりの色まで 黒い糸"
+    },
+    {
+      "t": 122.49,
+      "end": 126.93,
+      "text": "今度はえりが ほつれたら"
+    },
+    {
+      "t": 128.21,
+      "end": 132.91,
+      "text": "なんの形に してくれる"
+    },
+    {
+      "t": 137.65,
+      "end": 137.65,
+      "text": "[Outro - piano, bass voice, sax]"
+    },
+    {
+      "t": 137.65,
+      "end": 142.43,
+      "text": "冬が来たら 毎日着るよ"
+    },
+    {
+      "t": 144.14,
+      "end": 159.34,
+      "text": "すり切れるまで 毎日着るよ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Intro - triplet piano, backing trio humming]"
+    },
+    {
+      "t": 37.06,
+      "end": 37.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.06,
+      "end": 42.84,
+      "text": "たった一枚の いいセーター"
+    },
+    {
+      "t": 43.52,
+      "end": 47.99,
+      "text": "ひじに穴が あいてたんだ"
+    },
+    {
+      "t": 50.01,
+      "end": 53.55,
+      "text": "きみはだまって 持って帰った"
+    },
+    {
+      "t": 53.55,
+      "end": 54.75,
+      "text": "針と糸と フェルトの箱"
+    },
+    {
+      "t": 54.75,
+      "end": 54.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.75,
+      "end": 57.49,
+      "text": "返ってきたら ひじの上に"
+    },
+    {
+      "t": 57.49,
+      "end": 60.73,
+      "text": "おにぎりがふたつ のっていた"
+    },
+    {
+      "t": 63.23,
+      "end": 63.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.23,
+      "end": 66.29,
+      "text": "ひじのパッチは おにぎり型"
+    },
+    {
+      "t": 66.63,
+      "end": 69.63,
+      "text": "ちょっと右に かたむいてる"
+    },
+    {
+      "t": 70.37,
+      "end": 72.83,
+      "text": "会社で笑われても いい"
+    },
+    {
+      "t": 72.95,
+      "end": 78.75,
+      "text": "きみがぬったんだ 脱がないよ"
+    },
+    {
+      "t": 82.29,
+      "end": 82.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.29,
+      "end": 95.89,
+      "text": "「かわいいね」って 部長が言う"
+    },
+    {
+      "t": 95.91,
+      "end": 98.63,
+      "text": "かわいいんじゃない かっこいいんだ"
+    },
+    {
+      "t": 101.97,
+      "end": 105.17,
+      "text": "電車でつり革 つかむたび"
+    },
+    {
+      "t": 108.07,
+      "end": 111.77,
+      "text": "きみの指先 思い出す"
+    },
+    {
+      "t": 114.77,
+      "end": 114.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.77,
+      "end": 118.59,
+      "text": "ひじのパッチは おにぎり型"
+    },
+    {
+      "t": 119.23,
+      "end": 122.19,
+      "text": "のりの色まで 黒い糸"
+    },
+    {
+      "t": 122.49,
+      "end": 126.93,
+      "text": "今度はえりが ほつれたら"
+    },
+    {
+      "t": 128.21,
+      "end": 132.93,
+      "text": "なんの形に してくれる"
+    },
+    {
+      "t": 137.65,
+      "end": 137.65,
+      "text": "[Outro - piano, bass voice, sax]"
+    },
+    {
+      "t": 137.65,
+      "end": 142.45,
+      "text": "冬が来たら 毎日着るよ"
+    },
+    {
+      "t": 144.12,
+      "end": 159.34,
+      "text": "すり切れるまで 毎日着るよ"
+    }
+  ]
+}

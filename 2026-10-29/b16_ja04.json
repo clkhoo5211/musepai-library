@@ -1,0 +1,444 @@
+{
+  "id": "b16_ja04",
+  "title": "三年ボトル",
+  "title_source": "scripted",
+  "genre": "Japanese mood kayo",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "smoky, patient and quietly glad",
+  "persona": "",
+  "subject": "the mama-san of a tiny Shinjuku snack bar who keeps a regular's half-finished shochu bottle with his name tag on the shelf for three years after he transferred to Osaka, dusting it every Friday, until one ordinary Tuesday he walks in and asks if it is still there",
+  "caption": "Japanese mood kayo in the Showa Ginza-lounge style. Nylon-string requinto guitar lines, breathy tenor saxophone answering the vocal, soft Hammond organ pads, brushed bolero-style drums and round upright bass. Warm late-night lounge mix, organ and sax in soft plate reverb, close vocal. Female low alto crooning unhurriedly with slight kobushi turns. 76 BPM, D minor. Smoky, patient and quietly glad. No trap drums, no autotune, no EDM, no enka shakuhachi wailing, no modern R&B runs.",
+  "lyrics": "[Intro - tenor sax, requinto guitar]\n\n[Verse 1]\n棚の右から 三本目\n油性ペンで 「タカシ」って\n大阪行きの 前の夜\n半分残して 帰った人\n\n[Pre-Chorus]\n金曜ごとに ほこりをふく\n誰にもあけさせ なかったわ\n\n[Chorus]\n三年ボトル 待ってたの\n氷はいつでも 割れるように\n三年ボトル 笑うでしょ\nこんな女の 意地なのよ\n\n[Verse 2]\nなんでもない 火曜日に\nドアのベルが 鳴ったのよ\n「まだあるかな」と 照れた顔\n少しやせたね ネクタイも\n\n[Chorus]\n三年ボトル 待ってたわ\n氷を割る手が ふるえてる\n三年ボトル あけましょう\n今夜はわたしも 一杯だけ\n\n[Outro - sax, organ]\n空いた棚に 新しいボトル\n名前はまた あなたでいい",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Japanese mood kayo in the Showa Ginza-lounge style. Nylon-string requinto guitar lines, breathy tenor saxophone answering the vocal, soft Hammond organ pads, brushed bolero-style drums and round upright bass. Warm late-night lounge mix, organ and sax in soft plate reverb, close vocal. Female low alto crooning unhurriedly with slight kobushi turns. 76 BPM, D minor. Smoky, patient and quietly glad. No trap drums, no autotune, no EDM, no enka shakuhachi wailing, no modern R&B runs.",
+    "lyrics": "[Intro - tenor sax, requinto guitar]\n\n[Verse 1]\n棚の右から 三本目\n油性ペンで 「タカシ」って\n大阪行きの 前の夜\n半分残して 帰った人\n\n[Pre-Chorus]\n金曜ごとに ほこりをふく\n誰にもあけさせ なかったわ\n\n[Chorus]\n三年ボトル 待ってたの\n氷はいつでも 割れるように\n三年ボトル 笑うでしょ\nこんな女の 意地なのよ\n\n[Verse 2]\nなんでもない 火曜日に\nドアのベルが 鳴ったのよ\n「まだあるかな」と 照れた顔\n少しやせたね ネクタイも\n\n[Chorus]\n三年ボトル 待ってたわ\n氷を割る手が ふるえてる\n三年ボトル あけましょう\n今夜はわたしも 一杯だけ\n\n[Outro - sax, organ]\n空いた棚に 新しいボトル\n名前はまた あなたでいい"
+  },
+  "seed": "1698136077",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 96.20s**\n- 96.20s per song\n- LM phase (1 song): 18.12s\n- DiT phase (1 song): 78.08s",
+  "task_id": "1f65ed81-e66a-4e18-9595-2606320b0be4",
+  "elapsed_s": 121.3,
+  "generated_at": "2026-10-29T23:01:44.764551+08:00",
+  "audio": "b16_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 6.06,
+      "end": 6.06,
+      "text": "[Intro - tenor sax, requinto guitar]"
+    },
+    {
+      "t": 6.06,
+      "end": 6.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.06,
+      "end": 42.42,
+      "text": "棚の右から 三本目"
+    },
+    {
+      "t": 42.66,
+      "end": 51.74,
+      "text": "油性ペンで 「タカシ」って"
+    },
+    {
+      "t": 52.02,
+      "end": 76.99,
+      "text": "大阪行きの 前の夜"
+    },
+    {
+      "t": 77.19,
+      "end": 93.61,
+      "text": "半分残して 帰った人"
+    },
+    {
+      "t": 93.69,
+      "end": 93.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.69,
+      "end": 99.29,
+      "text": "金曜ごとに ほこりをふく"
+    },
+    {
+      "t": 99.51,
+      "end": 104.75,
+      "text": "誰にもあけさせ なかったわ"
+    },
+    {
+      "t": 104.87,
+      "end": 104.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.87,
+      "end": 108.37,
+      "text": "三年ボトル 待ってたの"
+    },
+    {
+      "t": 108.37,
+      "end": 112.99,
+      "text": "氷はいつでも 割れるように"
+    },
+    {
+      "t": 112.99,
+      "end": 114.89,
+      "text": "三年ボトル 笑うでしょ"
+    },
+    {
+      "t": 117.03,
+      "end": 120.03,
+      "text": "こんな女の 意地なのよ"
+    },
+    {
+      "t": 120.03,
+      "end": 120.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 120.03,
+      "end": 123.67,
+      "text": "なんでもない 火曜日に"
+    },
+    {
+      "t": 123.67,
+      "end": 126.81,
+      "text": "ドアのベルが 鳴ったのよ"
+    },
+    {
+      "t": 126.81,
+      "end": 136.17,
+      "text": "「まだあるかな」と 照れた顔"
+    },
+    {
+      "t": 136.25,
+      "end": 138.65,
+      "text": "少しやせたね ネクタイも"
+    },
+    {
+      "t": 138.77,
+      "end": 138.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.77,
+      "end": 143.89,
+      "text": "三年ボトル 待ってたわ"
+    },
+    {
+      "t": 143.89,
+      "end": 145.27,
+      "text": "氷を割る手が ふるえてる"
+    },
+    {
+      "t": 145.27,
+      "end": 149.33,
+      "text": "三年ボトル あけましょう"
+    },
+    {
+      "t": 149.33,
+      "end": 151.21,
+      "text": "今夜はわたしも 一杯だけ"
+    },
+    {
+      "t": 151.21,
+      "end": 151.21,
+      "text": "[Outro - sax, organ]"
+    },
+    {
+      "t": 151.21,
+      "end": 162.98,
+      "text": "空いた棚に 新しいボトル"
+    },
+    {
+      "t": 173.56,
+      "end": 182.04,
+      "text": "名前はまた あなたでいい"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 6.06,
+      "end": 6.06,
+      "text": "[Intro - tenor sax, requinto guitar]"
+    },
+    {
+      "t": 6.06,
+      "end": 6.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.06,
+      "end": 42.42,
+      "text": "棚の右から 三本目"
+    },
+    {
+      "t": 42.66,
+      "end": 51.74,
+      "text": "油性ペンで 「タカシ」って"
+    },
+    {
+      "t": 52.02,
+      "end": 76.99,
+      "text": "大阪行きの 前の夜"
+    },
+    {
+      "t": 77.19,
+      "end": 93.61,
+      "text": "半分残して 帰った人"
+    },
+    {
+      "t": 93.69,
+      "end": 93.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.69,
+      "end": 99.29,
+      "text": "金曜ごとに ほこりをふく"
+    },
+    {
+      "t": 99.51,
+      "end": 104.75,
+      "text": "誰にもあけさせ なかったわ"
+    },
+    {
+      "t": 104.87,
+      "end": 104.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.87,
+      "end": 108.37,
+      "text": "三年ボトル 待ってたの"
+    },
+    {
+      "t": 108.37,
+      "end": 112.99,
+      "text": "氷はいつでも 割れるように"
+    },
+    {
+      "t": 112.99,
+      "end": 114.89,
+      "text": "三年ボトル 笑うでしょ"
+    },
+    {
+      "t": 117.03,
+      "end": 120.03,
+      "text": "こんな女の 意地なのよ"
+    },
+    {
+      "t": 120.03,
+      "end": 120.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 120.03,
+      "end": 123.67,
+      "text": "なんでもない 火曜日に"
+    },
+    {
+      "t": 123.67,
+      "end": 126.81,
+      "text": "ドアのベルが 鳴ったのよ"
+    },
+    {
+      "t": 126.81,
+      "end": 136.17,
+      "text": "「まだあるかな」と 照れた顔"
+    },
+    {
+      "t": 136.25,
+      "end": 138.65,
+      "text": "少しやせたね ネクタイも"
+    },
+    {
+      "t": 138.77,
+      "end": 138.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.77,
+      "end": 143.89,
+      "text": "三年ボトル 待ってたわ"
+    },
+    {
+      "t": 143.89,
+      "end": 145.27,
+      "text": "氷を割る手が ふるえてる"
+    },
+    {
+      "t": 145.27,
+      "end": 149.33,
+      "text": "三年ボトル あけましょう"
+    },
+    {
+      "t": 149.33,
+      "end": 151.21,
+      "text": "今夜はわたしも 一杯だけ"
+    },
+    {
+      "t": 151.21,
+      "end": 151.21,
+      "text": "[Outro - sax, organ]"
+    },
+    {
+      "t": 151.21,
+      "end": 162.98,
+      "text": "空いた棚に 新しいボトル"
+    },
+    {
+      "t": 173.56,
+      "end": 182.04,
+      "text": "名前はまた あなたでいい"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 5.9,
+      "end": 5.9,
+      "text": "[Intro - tenor sax, requinto guitar]"
+    },
+    {
+      "t": 5.9,
+      "end": 5.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.9,
+      "end": 18.96,
+      "text": "棚の右から 三本目"
+    },
+    {
+      "t": 21.6,
+      "end": 30.64,
+      "text": "油性ペンで 「タカシ」って"
+    },
+    {
+      "t": 30.68,
+      "end": 32.58,
+      "text": "大阪行きの 前の夜"
+    },
+    {
+      "t": 33.16,
+      "end": 38.18,
+      "text": "半分残して 帰った人"
+    },
+    {
+      "t": 38.32,
+      "end": 38.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.32,
+      "end": 41.0,
+      "text": "金曜ごとに ほこりをふく"
+    },
+    {
+      "t": 44.12,
+      "end": 49.7,
+      "text": "誰にもあけさせ なかったわ"
+    },
+    {
+      "t": 54.09,
+      "end": 54.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.09,
+      "end": 61.37,
+      "text": "三年ボトル 待ってたの"
+    },
+    {
+      "t": 61.65,
+      "end": 67.81,
+      "text": "氷はいつでも 割れるように"
+    },
+    {
+      "t": 68.25,
+      "end": 74.05,
+      "text": "三年ボトル 笑うでしょ"
+    },
+    {
+      "t": 74.83,
+      "end": 79.27,
+      "text": "こんな女の 意地なのよ"
+    },
+    {
+      "t": 99.85,
+      "end": 99.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.85,
+      "end": 103.47,
+      "text": "なんでもない 火曜日に"
+    },
+    {
+      "t": 106.07,
+      "end": 110.05,
+      "text": "ドアのベルが 鳴ったのよ"
+    },
+    {
+      "t": 112.23,
+      "end": 116.01,
+      "text": "「まだあるかな」と 照れた顔"
+    },
+    {
+      "t": 116.13,
+      "end": 118.75,
+      "text": "少しやせたね ネクタイも"
+    },
+    {
+      "t": 118.83,
+      "end": 118.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.83,
+      "end": 122.89,
+      "text": "三年ボトル 待ってたわ"
+    },
+    {
+      "t": 124.63,
+      "end": 128.93,
+      "text": "氷を割る手が ふるえてる"
+    },
+    {
+      "t": 130.35,
+      "end": 135.43,
+      "text": "三年ボトル あけましょう"
+    },
+    {
+      "t": 136.67,
+      "end": 141.15,
+      "text": "今夜はわたしも 一杯だけ"
+    },
+    {
+      "t": 151.45,
+      "end": 151.45,
+      "text": "[Outro - sax, organ]"
+    },
+    {
+      "t": 151.45,
+      "end": 164.66,
+      "text": "空いた棚に 新しいボトル"
+    },
+    {
+      "t": 165.5,
+      "end": 174.8,
+      "text": "名前はまた あなたでいい"
+    }
+  ]
+}

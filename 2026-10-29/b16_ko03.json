@@ -1,0 +1,387 @@
+{
+  "id": "b16_ko03",
+  "title": "체인 기름",
+  "title_source": "scripted",
+  "genre": "Korean banjo country-pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm, sunny, tender",
+  "persona": "",
+  "subject": "a woman who, when her boyfriend's bike chain slips on the Han River cycle path, kneels and fixes it with bare hands, and he wipes the black grease off her fingers onto his own new white T-shirt",
+  "caption": "Korean banjo country-pop, acoustic Nashville-leaning K-pop crossover. Rolling three-finger banjo picking, strummed steel-string acoustic guitar, pedal steel swells between lines, brushed kit with a soft kick and tambourine. Clean daylight production, natural room sound. Soft female lead, close and conversational, a light male harmony joining the chorus. 96 BPM, G major. Warm riverside tenderness. No trap beat, no EDM synths, no autotune, no rock guitar solo, no line-dance stomp.",
+  "lyrics": "[Intro - banjo, acoustic guitar]\n\n[Verse 1]\n한강 자전거길 중간에\n네 체인이 툭 빠졌지\n쩔쩔매는 너 비켜 보라고\n내가 쪼그려 앉았어\n\n[Pre-Chorus]\n손가락이 새까매져도\n그냥 웃음이 났어\n\n[Chorus]\n네 흰 티셔츠에\n내 손을 닦아 주던 너\n새로 산 거라며\n아깝지도 않대\n\n[Verse 2]\n편의점 앞 벤치에 앉아\n바나나우유 나눠 먹고\n너는 얼룩 보면서\n이게 제일 맘에 든대\n\n[Chorus]\n네 흰 티셔츠에\n검은 손자국 다섯 개\n빨지 말라 했더니\n진짜 안 빨았대\n\n[Bridge - pedal steel]\n다음에 또 빠지면\n이번엔 네가 고쳐 줘\n\n[Chorus]\n네 흰 티셔츠에\n내 손을 또 닦아 줘\n해 질 때까지 천천히\n같이 페달 밟자\n\n[Outro - banjo alone]\n체인 소리 따라\n천천히 가자",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Korean banjo country-pop, acoustic Nashville-leaning K-pop crossover. Rolling three-finger banjo picking, strummed steel-string acoustic guitar, pedal steel swells between lines, brushed kit with a soft kick and tambourine. Clean daylight production, natural room sound. Soft female lead, close and conversational, a light male harmony joining the chorus. 96 BPM, G major. Warm riverside tenderness. No trap beat, no EDM synths, no autotune, no rock guitar solo, no line-dance stomp.",
+    "lyrics": "[Intro - banjo, acoustic guitar]\n\n[Verse 1]\n한강 자전거길 중간에\n네 체인이 툭 빠졌지\n쩔쩔매는 너 비켜 보라고\n내가 쪼그려 앉았어\n\n[Pre-Chorus]\n손가락이 새까매져도\n그냥 웃음이 났어\n\n[Chorus]\n네 흰 티셔츠에\n내 손을 닦아 주던 너\n새로 산 거라며\n아깝지도 않대\n\n[Verse 2]\n편의점 앞 벤치에 앉아\n바나나우유 나눠 먹고\n너는 얼룩 보면서\n이게 제일 맘에 든대\n\n[Chorus]\n네 흰 티셔츠에\n검은 손자국 다섯 개\n빨지 말라 했더니\n진짜 안 빨았대\n\n[Bridge - pedal steel]\n다음에 또 빠지면\n이번엔 네가 고쳐 줘\n\n[Chorus]\n네 흰 티셔츠에\n내 손을 또 닦아 줘\n해 질 때까지 천천히\n같이 페달 밟자\n\n[Outro - banjo alone]\n체인 소리 따라\n천천히 가자"
+  },
+  "seed": "3691024564",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 89.86s**\n- 89.86s per song\n- LM phase (1 song): 13.40s\n- DiT phase (1 song): 76.46s",
+  "task_id": "193e6fb5-0cd8-431c-9f0b-41dea42765f9",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-10-29T12:54:02.314004+08:00",
+  "audio": "b16_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.2,
+      "end": 21.2,
+      "text": "[Intro - banjo, acoustic guitar]"
+    },
+    {
+      "t": 21.2,
+      "end": 21.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.2,
+      "end": 24.2,
+      "text": "한강 자전거길 중간에"
+    },
+    {
+      "t": 24.22,
+      "end": 30.56,
+      "text": "네 체인이 툭 빠졌지"
+    },
+    {
+      "t": 30.56,
+      "end": 34.3,
+      "text": "쩔쩔매는 너 비켜 보라고"
+    },
+    {
+      "t": 42.1,
+      "end": 44.48,
+      "text": "내가 쪼그려 앉았어"
+    },
+    {
+      "t": 47.42,
+      "end": 47.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.42,
+      "end": 50.56,
+      "text": "손가락이 새까매져도"
+    },
+    {
+      "t": 52.41,
+      "end": 54.73,
+      "text": "그냥 웃음이 났어"
+    },
+    {
+      "t": 58.37,
+      "end": 58.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.37,
+      "end": 60.39,
+      "text": "네 흰 티셔츠에"
+    },
+    {
+      "t": 61.79,
+      "end": 65.35,
+      "text": "내 손을 닦아 주던 너"
+    },
+    {
+      "t": 69.89,
+      "end": 71.93,
+      "text": "새로 산 거라며"
+    },
+    {
+      "t": 73.41,
+      "end": 75.35,
+      "text": "아깝지도 않대"
+    },
+    {
+      "t": 79.87,
+      "end": 79.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.87,
+      "end": 83.01,
+      "text": "편의점 앞 벤치에 앉아"
+    },
+    {
+      "t": 84.59,
+      "end": 87.83,
+      "text": "바나나우유 나눠 먹고"
+    },
+    {
+      "t": 89.89,
+      "end": 92.37,
+      "text": "너는 얼룩 보면서"
+    },
+    {
+      "t": 93.71,
+      "end": 96.25,
+      "text": "이게 제일 맘에 든대"
+    },
+    {
+      "t": 99.57,
+      "end": 99.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.57,
+      "end": 101.49,
+      "text": "네 흰 티셔츠에"
+    },
+    {
+      "t": 103.63,
+      "end": 106.45,
+      "text": "검은 손자국 다섯 개"
+    },
+    {
+      "t": 109.19,
+      "end": 111.29,
+      "text": "빨지 말라 했더니"
+    },
+    {
+      "t": 113.27,
+      "end": 115.81,
+      "text": "진짜 안 빨았대"
+    },
+    {
+      "t": 116.75,
+      "end": 116.75,
+      "text": "[Bridge - pedal steel]"
+    },
+    {
+      "t": 116.75,
+      "end": 118.55,
+      "text": "다음에 또 빠지면"
+    },
+    {
+      "t": 119.37,
+      "end": 123.39,
+      "text": "이번엔 네가 고쳐 줘"
+    },
+    {
+      "t": 123.53,
+      "end": 123.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.53,
+      "end": 127.99,
+      "text": "네 흰 티셔츠에"
+    },
+    {
+      "t": 128.01,
+      "end": 130.75,
+      "text": "내 손을 또 닦아 줘"
+    },
+    {
+      "t": 136.19,
+      "end": 139.09,
+      "text": "해 질 때까지 천천히"
+    },
+    {
+      "t": 141.27,
+      "end": 143.91,
+      "text": "같이 페달 밟자"
+    },
+    {
+      "t": 146.55,
+      "end": 146.55,
+      "text": "[Outro - banjo alone]"
+    },
+    {
+      "t": 146.55,
+      "end": 153.63,
+      "text": "체인 소리 따라"
+    },
+    {
+      "t": 157.58,
+      "end": 175.02,
+      "text": "천천히 가자"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.18,
+      "end": 21.18,
+      "text": "[Intro - banjo, acoustic guitar]"
+    },
+    {
+      "t": 21.18,
+      "end": 21.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.18,
+      "end": 24.2,
+      "text": "한강 자전거길 중간에"
+    },
+    {
+      "t": 24.22,
+      "end": 30.86,
+      "text": "네 체인이 툭 빠졌지"
+    },
+    {
+      "t": 30.86,
+      "end": 34.3,
+      "text": "쩔쩔매는 너 비켜 보라고"
+    },
+    {
+      "t": 42.1,
+      "end": 44.48,
+      "text": "내가 쪼그려 앉았어"
+    },
+    {
+      "t": 47.4,
+      "end": 47.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.4,
+      "end": 50.56,
+      "text": "손가락이 새까매져도"
+    },
+    {
+      "t": 52.41,
+      "end": 54.73,
+      "text": "그냥 웃음이 났어"
+    },
+    {
+      "t": 58.37,
+      "end": 58.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.37,
+      "end": 60.35,
+      "text": "네 흰 티셔츠에"
+    },
+    {
+      "t": 61.79,
+      "end": 65.35,
+      "text": "내 손을 닦아 주던 너"
+    },
+    {
+      "t": 69.89,
+      "end": 71.93,
+      "text": "새로 산 거라며"
+    },
+    {
+      "t": 73.41,
+      "end": 75.35,
+      "text": "아깝지도 않대"
+    },
+    {
+      "t": 79.87,
+      "end": 79.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.87,
+      "end": 83.01,
+      "text": "편의점 앞 벤치에 앉아"
+    },
+    {
+      "t": 84.59,
+      "end": 87.83,
+      "text": "바나나우유 나눠 먹고"
+    },
+    {
+      "t": 89.89,
+      "end": 92.35,
+      "text": "너는 얼룩 보면서"
+    },
+    {
+      "t": 93.71,
+      "end": 95.97,
+      "text": "이게 제일 맘에 든대"
+    },
+    {
+      "t": 99.55,
+      "end": 99.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.55,
+      "end": 101.49,
+      "text": "네 흰 티셔츠에"
+    },
+    {
+      "t": 103.63,
+      "end": 106.45,
+      "text": "검은 손자국 다섯 개"
+    },
+    {
+      "t": 107.17,
+      "end": 111.27,
+      "text": "빨지 말라 했더니"
+    },
+    {
+      "t": 113.27,
+      "end": 115.83,
+      "text": "진짜 안 빨았대"
+    },
+    {
+      "t": 116.75,
+      "end": 116.75,
+      "text": "[Bridge - pedal steel]"
+    },
+    {
+      "t": 116.75,
+      "end": 118.57,
+      "text": "다음에 또 빠지면"
+    },
+    {
+      "t": 119.39,
+      "end": 123.17,
+      "text": "이번엔 네가 고쳐 줘"
+    },
+    {
+      "t": 123.17,
+      "end": 123.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.17,
+      "end": 138.93,
+      "text": "네 흰 티셔츠에"
+    },
+    {
+      "t": 138.97,
+      "end": 146.99,
+      "text": "내 손을 또 닦아 줘"
+    },
+    {
+      "t": 146.99,
+      "end": 153.31,
+      "text": "해 질 때까지 천천히"
+    },
+    {
+      "t": 153.49,
+      "end": 167.56,
+      "text": "같이 페달 밟자"
+    },
+    {
+      "t": 167.6,
+      "end": 167.6,
+      "text": "[Outro - banjo alone]"
+    },
+    {
+      "t": 167.6,
+      "end": 169.36,
+      "text": "체인 소리 따라"
+    },
+    {
+      "t": 172.94,
+      "end": 175.02,
+      "text": "천천히 가자"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

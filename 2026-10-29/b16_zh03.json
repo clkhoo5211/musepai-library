@@ -1,0 +1,459 @@
+{
+  "id": "b16_zh03",
+  "title": "餐桌上的火車",
+  "title_source": "scripted",
+  "genre": "Mandarin bluegrass",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "cheerful, rollicking and teasing",
+  "persona": "",
+  "subject": "a woman whose boyfriend's model railway slowly takes over their dining table track by track, until they eat dinner on the sofa and the little train delivers the soy sauce",
+  "caption": "Mandarin bluegrass, traditional string-band style. Rapid three-finger banjo rolls, flatpicked acoustic guitar runs, sawing fiddle double-stops, mandolin chop on the backbeat, slapped upright bass. Live room sound, no drums, natural acoustic. Female alto lead with close male harmony on choruses, bright and conversational. 132 BPM, G major. Cheerful, rollicking and teasing. No drum kit, no electric guitar, no pop synths, no autotune, no country-pop polish.",
+  "lyrics": "[Intro - banjo roll, fiddle kickoff]\n\n[Verse 1]\n你說只放一小段\n鐵軌就從盤子旁邊過\n第二週多了一座橋\n第三週多了車站\n\n[Pre-Chorus]\n我的碗被擠到邊邊\n你說那是月台\n\n[Chorus]\n餐桌上的火車 嘟嘟嘟\n繞過醬油繞過湯\n我們搬到沙發吃飯\n你還在幫它鋪軌\n\n[Verse 2]\n晚上我喊一聲醬油\n小火車慢慢開過來\n車廂載著一小瓶\n停在我的手邊\n\n[Pre-Chorus]\n你戴著列車長的帽子\n說請注意月台間隙\n\n[Chorus]\n餐桌上的火車 嘟嘟嘟\n這班專門送醬油\n沙發其實也不錯\n只要火車準時來\n\n[Outro - banjo and fiddle trade licks]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Mandarin bluegrass, traditional string-band style. Rapid three-finger banjo rolls, flatpicked acoustic guitar runs, sawing fiddle double-stops, mandolin chop on the backbeat, slapped upright bass. Live room sound, no drums, natural acoustic. Female alto lead with close male harmony on choruses, bright and conversational. 132 BPM, G major. Cheerful, rollicking and teasing. No drum kit, no electric guitar, no pop synths, no autotune, no country-pop polish.",
+    "lyrics": "[Intro - banjo roll, fiddle kickoff]\n\n[Verse 1]\n你說只放一小段\n鐵軌就從盤子旁邊過\n第二週多了一座橋\n第三週多了車站\n\n[Pre-Chorus]\n我的碗被擠到邊邊\n你說那是月台\n\n[Chorus]\n餐桌上的火車 嘟嘟嘟\n繞過醬油繞過湯\n我們搬到沙發吃飯\n你還在幫它鋪軌\n\n[Verse 2]\n晚上我喊一聲醬油\n小火車慢慢開過來\n車廂載著一小瓶\n停在我的手邊\n\n[Pre-Chorus]\n你戴著列車長的帽子\n說請注意月台間隙\n\n[Chorus]\n餐桌上的火車 嘟嘟嘟\n這班專門送醬油\n沙發其實也不錯\n只要火車準時來\n\n[Outro - banjo and fiddle trade licks]"
+  },
+  "seed": "738722877",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.20s**\n- 65.20s per song\n- LM phase (1 song): 14.27s\n- DiT phase (1 song): 50.93s",
+  "task_id": "4ef93781-664c-48c3-bf04-6500f2bd2eed",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-29T16:18:40.373245+08:00",
+  "audio": "b16_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.9,
+      "end": 21.9,
+      "text": "[Intro - banjo roll, fiddle kickoff]"
+    },
+    {
+      "t": 21.9,
+      "end": 21.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.9,
+      "end": 24.76,
+      "text": "你說只放一小段"
+    },
+    {
+      "t": 24.76,
+      "end": 25.58,
+      "text": "鐵軌就從盤子旁邊過"
+    },
+    {
+      "t": 25.36,
+      "end": 25.8,
+      "text": "第二週多了一座橋"
+    },
+    {
+      "t": 25.8,
+      "end": 26.36,
+      "text": "第三週多了車站"
+    },
+    {
+      "t": 26.74,
+      "end": 26.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 26.74,
+      "end": 31.84,
+      "text": "我的碗被擠到邊邊"
+    },
+    {
+      "t": 31.86,
+      "end": 33.98,
+      "text": "你說那是月台"
+    },
+    {
+      "t": 37.12,
+      "end": 37.12,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.12,
+      "end": 38.84,
+      "text": "餐桌上的火車 嘟嘟嘟"
+    },
+    {
+      "t": 38.98,
+      "end": 41.12,
+      "text": "繞過醬油繞過湯"
+    },
+    {
+      "t": 42.34,
+      "end": 44.8,
+      "text": "我們搬到沙發吃飯"
+    },
+    {
+      "t": 45.98,
+      "end": 48.39,
+      "text": "你還在幫它鋪軌"
+    },
+    {
+      "t": 63.73,
+      "end": 63.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.73,
+      "end": 66.23,
+      "text": "晚上我喊一聲醬油"
+    },
+    {
+      "t": 67.33,
+      "end": 69.99,
+      "text": "小火車慢慢開過來"
+    },
+    {
+      "t": 71.15,
+      "end": 73.69,
+      "text": "車廂載著一小瓶"
+    },
+    {
+      "t": 75.07,
+      "end": 77.21,
+      "text": "停在我的手邊"
+    },
+    {
+      "t": 96.35,
+      "end": 96.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.35,
+      "end": 98.47,
+      "text": "你戴著列車長的帽子"
+    },
+    {
+      "t": 98.47,
+      "end": 100.67,
+      "text": "說請注意月台間隙"
+    },
+    {
+      "t": 111.21,
+      "end": 111.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.21,
+      "end": 112.93,
+      "text": "餐桌上的火車 嘟嘟嘟"
+    },
+    {
+      "t": 113.07,
+      "end": 115.15,
+      "text": "這班專門送醬油"
+    },
+    {
+      "t": 116.23,
+      "end": 143.14,
+      "text": "沙發其實也不錯"
+    },
+    {
+      "t": 148.9,
+      "end": 151.58,
+      "text": "只要火車準時來"
+    },
+    {
+      "t": 151.58,
+      "end": 151.58,
+      "text": "[Outro - banjo and fiddle trade licks]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.9,
+      "end": 21.9,
+      "text": "[Intro - banjo roll, fiddle kickoff]"
+    },
+    {
+      "t": 21.9,
+      "end": 21.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.9,
+      "end": 24.76,
+      "text": "你說只放一小段"
+    },
+    {
+      "t": 24.76,
+      "end": 25.58,
+      "text": "鐵軌就從盤子旁邊過"
+    },
+    {
+      "t": 25.58,
+      "end": 26.0,
+      "text": "第二週多了一座橋"
+    },
+    {
+      "t": 26.0,
+      "end": 26.62,
+      "text": "第三週多了車站"
+    },
+    {
+      "t": 26.74,
+      "end": 26.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 26.74,
+      "end": 31.84,
+      "text": "我的碗被擠到邊邊"
+    },
+    {
+      "t": 31.86,
+      "end": 33.98,
+      "text": "你說那是月台"
+    },
+    {
+      "t": 37.12,
+      "end": 37.12,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.12,
+      "end": 38.84,
+      "text": "餐桌上的火車 嘟嘟嘟"
+    },
+    {
+      "t": 38.98,
+      "end": 41.12,
+      "text": "繞過醬油繞過湯"
+    },
+    {
+      "t": 42.34,
+      "end": 44.8,
+      "text": "我們搬到沙發吃飯"
+    },
+    {
+      "t": 45.98,
+      "end": 48.39,
+      "text": "你還在幫它鋪軌"
+    },
+    {
+      "t": 63.73,
+      "end": 63.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.73,
+      "end": 66.23,
+      "text": "晚上我喊一聲醬油"
+    },
+    {
+      "t": 67.33,
+      "end": 69.99,
+      "text": "小火車慢慢開過來"
+    },
+    {
+      "t": 71.15,
+      "end": 73.69,
+      "text": "車廂載著一小瓶"
+    },
+    {
+      "t": 75.07,
+      "end": 77.21,
+      "text": "停在我的手邊"
+    },
+    {
+      "t": 96.35,
+      "end": 96.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.35,
+      "end": 98.47,
+      "text": "你戴著列車長的帽子"
+    },
+    {
+      "t": 98.47,
+      "end": 100.67,
+      "text": "說請注意月台間隙"
+    },
+    {
+      "t": 111.21,
+      "end": 111.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.21,
+      "end": 112.93,
+      "text": "餐桌上的火車 嘟嘟嘟"
+    },
+    {
+      "t": 113.07,
+      "end": 115.15,
+      "text": "這班專門送醬油"
+    },
+    {
+      "t": 116.23,
+      "end": 143.14,
+      "text": "沙發其實也不錯"
+    },
+    {
+      "t": 148.9,
+      "end": 151.58,
+      "text": "只要火車準時來"
+    },
+    {
+      "t": 151.58,
+      "end": 151.58,
+      "text": "[Outro - banjo and fiddle trade licks]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 18.44,
+      "end": 18.44,
+      "text": "[Intro - banjo roll, fiddle kickoff]"
+    },
+    {
+      "t": 18.44,
+      "end": 18.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.44,
+      "end": 19.0,
+      "text": "你說只放一小段"
+    },
+    {
+      "t": 19.0,
+      "end": 25.36,
+      "text": "鐵軌就從盤子旁邊過"
+    },
+    {
+      "t": 25.36,
+      "end": 25.8,
+      "text": "第二週多了一座橋"
+    },
+    {
+      "t": 25.8,
+      "end": 26.36,
+      "text": "第三週多了車站"
+    },
+    {
+      "t": 26.4,
+      "end": 26.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 26.4,
+      "end": 31.84,
+      "text": "我的碗被擠到邊邊"
+    },
+    {
+      "t": 31.86,
+      "end": 33.98,
+      "text": "你說那是月台"
+    },
+    {
+      "t": 37.12,
+      "end": 37.12,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.12,
+      "end": 38.84,
+      "text": "餐桌上的火車 嘟嘟嘟"
+    },
+    {
+      "t": 38.98,
+      "end": 41.08,
+      "text": "繞過醬油繞過湯"
+    },
+    {
+      "t": 42.34,
+      "end": 44.74,
+      "text": "我們搬到沙發吃飯"
+    },
+    {
+      "t": 46.0,
+      "end": 48.37,
+      "text": "你還在幫它鋪軌"
+    },
+    {
+      "t": 63.75,
+      "end": 63.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.75,
+      "end": 66.23,
+      "text": "晚上我喊一聲醬油"
+    },
+    {
+      "t": 67.33,
+      "end": 69.99,
+      "text": "小火車慢慢開過來"
+    },
+    {
+      "t": 71.17,
+      "end": 75.07,
+      "text": "車廂載著一小瓶"
+    },
+    {
+      "t": 75.09,
+      "end": 77.21,
+      "text": "停在我的手邊"
+    },
+    {
+      "t": 80.69,
+      "end": 80.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 80.69,
+      "end": 97.13,
+      "text": "你戴著列車長的帽子"
+    },
+    {
+      "t": 97.23,
+      "end": 100.67,
+      "text": "說請注意月台間隙"
+    },
+    {
+      "t": 111.23,
+      "end": 111.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.23,
+      "end": 112.95,
+      "text": "餐桌上的火車 嘟嘟嘟"
+    },
+    {
+      "t": 113.07,
+      "end": 115.17,
+      "text": "這班專門送醬油"
+    },
+    {
+      "t": 116.25,
+      "end": 147.62,
+      "text": "沙發其實也不錯"
+    },
+    {
+      "t": 148.92,
+      "end": 151.56,
+      "text": "只要火車準時來"
+    },
+    {
+      "t": 151.56,
+      "end": 151.56,
+      "text": "[Outro - banjo and fiddle trade licks]"
+    }
+  ]
+}
