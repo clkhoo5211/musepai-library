@@ -1,0 +1,564 @@
+{
+  "id": "b15_en02",
+  "title": "Thursday, Says Dave",
+  "title_source": "scripted",
+  "genre": "Madchester baggy revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "loose, sunny and mock-patient",
+  "persona": "",
+  "subject": "a man in a Salford terrace whose bathroom tap drips all week while the plumber Dave keeps texting 'Thursday', until he starts dancing round the flat to the drip",
+  "caption": "Madchester baggy revival, late-80s Manchester indie-dance style. A shuffling funky-drummer breakbeat with maracas and tambourine, chiming wah-wah rhythm guitar, a high melodic bass line carrying the hook, a Hammond organ comping on the offbeats. Hazy baggy mix, reverb on the guitars, loose swaying groove. Male lead in a laconic Mancunian half-sung drawl, a few lads joining the chorus. 98 BPM, A major. Sunny, loose and mock-patient. No britpop stadium anthem, no autotune, no trap drums, no EDM drop, no metal distortion.",
+  "lyrics": "[Intro - breakbeat, wah guitar and bass]\n\n[Verse 1]\nBathroom tap goes drip all night\nTried a spanner, no dice\nRang the plumber, he's called Dave\nDave says Thursday, Dave's a saint\n\n[Pre-Chorus]\nMonday, Tuesday, still it goes\nDrip drip drip, the bucket knows\n\n[Chorus]\nThursday, says Dave\nThursday, he swears\nBucket in the bath\nAnd I'm dancing on the stairs\n\n[Verse 2]\nGot a rhythm, got a beat\nDrip goes kick and I move my feet\nTea towel round my head like a hat\nNext door's cat just stares at that\n\n[Chorus]\nThursday, says Dave\nWhich Thursday, mate?\nBucket's nearly full\nAnd I'm grooving while I wait\n\n[Bridge - organ and maracas]\nWasher costs a quid\nDave's van is in Rhyl\n\n[Chorus]\nThursday, says Dave\nHere he comes at last\nTwo minutes with a washer\nNow the party's in the past\n\n[Outro - breakbeat fades]\nQuiet in the bathroom now\nKind of miss it anyhow",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Madchester baggy revival, late-80s Manchester indie-dance style. A shuffling funky-drummer breakbeat with maracas and tambourine, chiming wah-wah rhythm guitar, a high melodic bass line carrying the hook, a Hammond organ comping on the offbeats. Hazy baggy mix, reverb on the guitars, loose swaying groove. Male lead in a laconic Mancunian half-sung drawl, a few lads joining the chorus. 98 BPM, A major. Sunny, loose and mock-patient. No britpop stadium anthem, no autotune, no trap drums, no EDM drop, no metal distortion.",
+    "lyrics": "[Intro - breakbeat, wah guitar and bass]\n\n[Verse 1]\nBathroom tap goes drip all night\nTried a spanner, no dice\nRang the plumber, he's called Dave\nDave says Thursday, Dave's a saint\n\n[Pre-Chorus]\nMonday, Tuesday, still it goes\nDrip drip drip, the bucket knows\n\n[Chorus]\nThursday, says Dave\nThursday, he swears\nBucket in the bath\nAnd I'm dancing on the stairs\n\n[Verse 2]\nGot a rhythm, got a beat\nDrip goes kick and I move my feet\nTea towel round my head like a hat\nNext door's cat just stares at that\n\n[Chorus]\nThursday, says Dave\nWhich Thursday, mate?\nBucket's nearly full\nAnd I'm grooving while I wait\n\n[Bridge - organ and maracas]\nWasher costs a quid\nDave's van is in Rhyl\n\n[Chorus]\nThursday, says Dave\nHere he comes at last\nTwo minutes with a washer\nNow the party's in the past\n\n[Outro - breakbeat fades]\nQuiet in the bathroom now\nKind of miss it anyhow"
+  },
+  "seed": "1059097603",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.88s**\n- 64.88s per song\n- LM phase (1 song): 16.04s\n- DiT phase (1 song): 48.84s",
+  "task_id": "09cb9123-10e2-432b-9eed-92dd2e035143",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-28T23:37:44.882425+08:00",
+  "audio": "b15_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Intro - breakbeat, wah guitar and bass]"
+    },
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.42,
+      "end": 25.18,
+      "text": "Bathroom tap goes drip all night"
+    },
+    {
+      "t": 25.2,
+      "end": 27.4,
+      "text": "Tried a spanner, no dice"
+    },
+    {
+      "t": 27.4,
+      "end": 31.7,
+      "text": "Rang the plumber, he's called Dave"
+    },
+    {
+      "t": 32.22,
+      "end": 35.06,
+      "text": "Dave says Thursday, Dave's a saint"
+    },
+    {
+      "t": 37.78,
+      "end": 37.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.78,
+      "end": 41.92,
+      "text": "Monday, Tuesday, still it goes"
+    },
+    {
+      "t": 42.7,
+      "end": 47.66,
+      "text": "Drip drip drip, the bucket knows"
+    },
+    {
+      "t": 49.76,
+      "end": 49.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.76,
+      "end": 52.13,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 53.47,
+      "end": 55.25,
+      "text": "Thursday, he swears"
+    },
+    {
+      "t": 58.41,
+      "end": 62.73,
+      "text": "Bucket in the bath"
+    },
+    {
+      "t": 62.81,
+      "end": 65.03,
+      "text": "And I'm dancing on the stairs"
+    },
+    {
+      "t": 80.75,
+      "end": 80.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.75,
+      "end": 82.59,
+      "text": "Got a rhythm, got a beat"
+    },
+    {
+      "t": 85.67,
+      "end": 89.39,
+      "text": "Drip goes kick and I move my feet"
+    },
+    {
+      "t": 89.43,
+      "end": 92.35,
+      "text": "Tea towel round my head like a hat"
+    },
+    {
+      "t": 94.01,
+      "end": 96.47,
+      "text": "Next door's cat just stares at that"
+    },
+    {
+      "t": 96.53,
+      "end": 96.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.53,
+      "end": 97.51,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 99.11,
+      "end": 100.83,
+      "text": "Which Thursday, mate?"
+    },
+    {
+      "t": 105.61,
+      "end": 108.69,
+      "text": "Bucket's nearly full"
+    },
+    {
+      "t": 108.75,
+      "end": 110.59,
+      "text": "And I'm grooving while I wait"
+    },
+    {
+      "t": 115.99,
+      "end": 115.99,
+      "text": "[Bridge - organ and maracas]"
+    },
+    {
+      "t": 115.99,
+      "end": 117.61,
+      "text": "Washer costs a quid"
+    },
+    {
+      "t": 118.49,
+      "end": 120.65,
+      "text": "Dave's van is in Rhyl"
+    },
+    {
+      "t": 125.29,
+      "end": 125.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.29,
+      "end": 127.35,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 129.03,
+      "end": 130.93,
+      "text": "Here he comes at last"
+    },
+    {
+      "t": 134.29,
+      "end": 136.97,
+      "text": "Two minutes with a washer"
+    },
+    {
+      "t": 138.35,
+      "end": 162.2,
+      "text": "Now the party's in the past"
+    },
+    {
+      "t": 185.82,
+      "end": 185.82,
+      "text": "[Outro - breakbeat fades]"
+    },
+    {
+      "t": 185.82,
+      "end": 193.12,
+      "text": "Quiet in the bathroom now"
+    },
+    {
+      "t": 195.82,
+      "end": 197.86,
+      "text": "Kind of miss it anyhow"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Intro - breakbeat, wah guitar and bass]"
+    },
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.42,
+      "end": 25.18,
+      "text": "Bathroom tap goes drip all night"
+    },
+    {
+      "t": 25.2,
+      "end": 27.4,
+      "text": "Tried a spanner, no dice"
+    },
+    {
+      "t": 27.4,
+      "end": 31.7,
+      "text": "Rang the plumber, he's called Dave"
+    },
+    {
+      "t": 32.22,
+      "end": 35.06,
+      "text": "Dave says Thursday, Dave's a saint"
+    },
+    {
+      "t": 37.78,
+      "end": 37.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.78,
+      "end": 41.92,
+      "text": "Monday, Tuesday, still it goes"
+    },
+    {
+      "t": 42.7,
+      "end": 47.66,
+      "text": "Drip drip drip, the bucket knows"
+    },
+    {
+      "t": 49.76,
+      "end": 49.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.76,
+      "end": 52.13,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 53.47,
+      "end": 55.25,
+      "text": "Thursday, he swears"
+    },
+    {
+      "t": 58.41,
+      "end": 62.73,
+      "text": "Bucket in the bath"
+    },
+    {
+      "t": 62.81,
+      "end": 65.03,
+      "text": "And I'm dancing on the stairs"
+    },
+    {
+      "t": 80.75,
+      "end": 80.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.75,
+      "end": 82.59,
+      "text": "Got a rhythm, got a beat"
+    },
+    {
+      "t": 85.67,
+      "end": 89.39,
+      "text": "Drip goes kick and I move my feet"
+    },
+    {
+      "t": 89.43,
+      "end": 92.35,
+      "text": "Tea towel round my head like a hat"
+    },
+    {
+      "t": 94.01,
+      "end": 96.47,
+      "text": "Next door's cat just stares at that"
+    },
+    {
+      "t": 96.53,
+      "end": 96.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.53,
+      "end": 97.51,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 99.11,
+      "end": 100.83,
+      "text": "Which Thursday, mate?"
+    },
+    {
+      "t": 105.61,
+      "end": 108.69,
+      "text": "Bucket's nearly full"
+    },
+    {
+      "t": 108.75,
+      "end": 110.59,
+      "text": "And I'm grooving while I wait"
+    },
+    {
+      "t": 115.99,
+      "end": 115.99,
+      "text": "[Bridge - organ and maracas]"
+    },
+    {
+      "t": 115.99,
+      "end": 117.61,
+      "text": "Washer costs a quid"
+    },
+    {
+      "t": 118.49,
+      "end": 120.65,
+      "text": "Dave's van is in Rhyl"
+    },
+    {
+      "t": 125.29,
+      "end": 125.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.29,
+      "end": 127.35,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 129.03,
+      "end": 130.93,
+      "text": "Here he comes at last"
+    },
+    {
+      "t": 134.29,
+      "end": 136.97,
+      "text": "Two minutes with a washer"
+    },
+    {
+      "t": 138.35,
+      "end": 162.2,
+      "text": "Now the party's in the past"
+    },
+    {
+      "t": 185.82,
+      "end": 185.82,
+      "text": "[Outro - breakbeat fades]"
+    },
+    {
+      "t": 185.82,
+      "end": 193.12,
+      "text": "Quiet in the bathroom now"
+    },
+    {
+      "t": 195.82,
+      "end": 197.86,
+      "text": "Kind of miss it anyhow"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - breakbeat, wah guitar and bass]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 27.64,
+      "text": "Bathroom tap goes drip all night"
+    },
+    {
+      "t": 27.7,
+      "end": 28.28,
+      "text": "Tried a spanner, no dice"
+    },
+    {
+      "t": 28.28,
+      "end": 30.34,
+      "text": "Rang the plumber, he's called Dave"
+    },
+    {
+      "t": 32.22,
+      "end": 35.04,
+      "text": "Dave says Thursday, Dave's a saint"
+    },
+    {
+      "t": 37.78,
+      "end": 37.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.78,
+      "end": 41.92,
+      "text": "Monday, Tuesday, still it goes"
+    },
+    {
+      "t": 42.7,
+      "end": 47.66,
+      "text": "Drip drip drip, the bucket knows"
+    },
+    {
+      "t": 49.76,
+      "end": 49.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.76,
+      "end": 51.31,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 53.47,
+      "end": 55.29,
+      "text": "Thursday, he swears"
+    },
+    {
+      "t": 58.41,
+      "end": 61.55,
+      "text": "Bucket in the bath"
+    },
+    {
+      "t": 62.83,
+      "end": 65.03,
+      "text": "And I'm dancing on the stairs"
+    },
+    {
+      "t": 80.75,
+      "end": 80.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.75,
+      "end": 82.59,
+      "text": "Got a rhythm, got a beat"
+    },
+    {
+      "t": 85.67,
+      "end": 87.53,
+      "text": "Drip goes kick and I move my feet"
+    },
+    {
+      "t": 89.37,
+      "end": 92.33,
+      "text": "Tea towel round my head like a hat"
+    },
+    {
+      "t": 94.01,
+      "end": 96.47,
+      "text": "Next door's cat just stares at that"
+    },
+    {
+      "t": 96.53,
+      "end": 96.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.53,
+      "end": 97.33,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 99.13,
+      "end": 100.69,
+      "text": "Which Thursday, mate?"
+    },
+    {
+      "t": 105.61,
+      "end": 107.15,
+      "text": "Bucket's nearly full"
+    },
+    {
+      "t": 108.75,
+      "end": 115.91,
+      "text": "And I'm grooving while I wait"
+    },
+    {
+      "t": 115.99,
+      "end": 115.99,
+      "text": "[Bridge - organ and maracas]"
+    },
+    {
+      "t": 115.99,
+      "end": 117.61,
+      "text": "Washer costs a quid"
+    },
+    {
+      "t": 118.49,
+      "end": 120.63,
+      "text": "Dave's van is in Rhyl"
+    },
+    {
+      "t": 125.27,
+      "end": 125.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.27,
+      "end": 126.77,
+      "text": "Thursday, says Dave"
+    },
+    {
+      "t": 129.03,
+      "end": 130.91,
+      "text": "Here he comes at last"
+    },
+    {
+      "t": 136.15,
+      "end": 146.91,
+      "text": "Two minutes with a washer"
+    },
+    {
+      "t": 148.29,
+      "end": 181.84,
+      "text": "Now the party's in the past"
+    },
+    {
+      "t": 185.82,
+      "end": 185.82,
+      "text": "[Outro - breakbeat fades]"
+    },
+    {
+      "t": 185.82,
+      "end": 193.12,
+      "text": "Quiet in the bathroom now"
+    },
+    {
+      "t": 195.82,
+      "end": 197.84,
+      "text": "Kind of miss it anyhow"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "b15_zh05",
+  "title": "嗶不過的閘門",
+  "title_source": "scripted",
+  "genre": "Mandarin doo-wop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "sweet, shy and lightly comic",
+  "persona": "",
+  "subject": "a commuter whose transit card fails at the same metro ticket gate every morning, and the station attendant who starts waiting by that gate to wave him through, until he buys a new card and walks to her window anyway",
+  "caption": "Mandarin doo-wop, 1950s street-corner style in 12/8 feel. Four-part male backing harmonies on nonsense syllables, piano triplet chords, walking upright bass, light brushed drums, a short tenor sax solo. Warm mono-style room sound with slight tape echo and a close harmony stack. Male high tenor lead, earnest crooning with a soft falsetto break. 76 BPM, E-flat major. Sweet, shy and lightly comic. No trap beats, no autotune, no EDM, no modern R&B runs, no rock guitars.",
+  "lyrics": "[Intro - doo-wop harmonies, piano triplets, brushed drums]\n\n[Verse 1]\n每天早上七點四十\n第三個閘門嗶不過\n紅燈一亮我就臉紅\n後面排了一條長龍\n\n[Pre-Chorus]\n穿制服的妳走過來\n一刷就讓我過去\n\n[Chorus]\n嗶不過的閘門\n每天都等我出糗\n嗶不過的閘門\n讓我多看妳一眼\n\n[Verse 2]\n後來妳乾脆站在旁邊\n我還沒到妳就笑了\n妳說這張卡該換了\n我說再等一等\n\n[Bridge - sax solo then harmonies]\n今天我買了新的卡\n嗶一聲就過了\n可是我又走回來\n站在妳的窗口前\n\n[Chorus]\n嗶不過的閘門\n今天輪到我說話\n新的卡在我口袋\n我想問妳幾點下班\n\n[Outro - harmonies hum, piano triplets fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "3",
+    "prompt": "Mandarin doo-wop, 1950s street-corner style in 12/8 feel. Four-part male backing harmonies on nonsense syllables, piano triplet chords, walking upright bass, light brushed drums, a short tenor sax solo. Warm mono-style room sound with slight tape echo and a close harmony stack. Male high tenor lead, earnest crooning with a soft falsetto break. 76 BPM, E-flat major. Sweet, shy and lightly comic. No trap beats, no autotune, no EDM, no modern R&B runs, no rock guitars.",
+    "lyrics": "[Intro - doo-wop harmonies, piano triplets, brushed drums]\n\n[Verse 1]\n每天早上七點四十\n第三個閘門嗶不過\n紅燈一亮我就臉紅\n後面排了一條長龍\n\n[Pre-Chorus]\n穿制服的妳走過來\n一刷就讓我過去\n\n[Chorus]\n嗶不過的閘門\n每天都等我出糗\n嗶不過的閘門\n讓我多看妳一眼\n\n[Verse 2]\n後來妳乾脆站在旁邊\n我還沒到妳就笑了\n妳說這張卡該換了\n我說再等一等\n\n[Bridge - sax solo then harmonies]\n今天我買了新的卡\n嗶一聲就過了\n可是我又走回來\n站在妳的窗口前\n\n[Chorus]\n嗶不過的閘門\n今天輪到我說話\n新的卡在我口袋\n我想問妳幾點下班\n\n[Outro - harmonies hum, piano triplets fade]"
+  },
+  "seed": "2142188396",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.12s**\n- 64.12s per song\n- LM phase (1 song): 14.31s\n- DiT phase (1 song): 49.81s",
+  "task_id": "ca049d2f-8aef-42e5-b609-e268ddcffbb7",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-28T23:49:06.381177+08:00",
+  "audio": "b15_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.86,
+      "end": 37.86,
+      "text": "[Intro - doo-wop harmonies, piano triplets, brushed drums]"
+    },
+    {
+      "t": 37.86,
+      "end": 37.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.86,
+      "end": 40.08,
+      "text": "每天早上七點四十"
+    },
+    {
+      "t": 40.08,
+      "end": 41.1,
+      "text": "第三個閘門嗶不過"
+    },
+    {
+      "t": 42.5,
+      "end": 45.86,
+      "text": "紅燈一亮我就臉紅"
+    },
+    {
+      "t": 46.74,
+      "end": 50.59,
+      "text": "後面排了一條長龍"
+    },
+    {
+      "t": 56.37,
+      "end": 56.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.37,
+      "end": 61.17,
+      "text": "穿制服的妳走過來"
+    },
+    {
+      "t": 61.39,
+      "end": 63.93,
+      "text": "一刷就讓我過去"
+    },
+    {
+      "t": 65.35,
+      "end": 65.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.35,
+      "end": 67.21,
+      "text": "嗶不過的閘門"
+    },
+    {
+      "t": 69.63,
+      "end": 71.89,
+      "text": "每天都等我出糗"
+    },
+    {
+      "t": 73.89,
+      "end": 76.15,
+      "text": "嗶不過的閘門"
+    },
+    {
+      "t": 77.79,
+      "end": 81.43,
+      "text": "讓我多看妳一眼"
+    },
+    {
+      "t": 84.71,
+      "end": 84.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.71,
+      "end": 88.21,
+      "text": "後來妳乾脆站在旁邊"
+    },
+    {
+      "t": 89.29,
+      "end": 92.67,
+      "text": "我還沒到妳就笑了"
+    },
+    {
+      "t": 93.69,
+      "end": 97.31,
+      "text": "妳說這張卡該換了"
+    },
+    {
+      "t": 98.73,
+      "end": 101.03,
+      "text": "我說再等一等"
+    },
+    {
+      "t": 101.41,
+      "end": 101.41,
+      "text": "[Bridge - sax solo then harmonies]"
+    },
+    {
+      "t": 101.41,
+      "end": 103.93,
+      "text": "今天我買了新的卡"
+    },
+    {
+      "t": 104.77,
+      "end": 106.25,
+      "text": "嗶一聲就過了"
+    },
+    {
+      "t": 110.35,
+      "end": 115.47,
+      "text": "可是我又走回來"
+    },
+    {
+      "t": 116.51,
+      "end": 120.05,
+      "text": "站在妳的窗口前"
+    },
+    {
+      "t": 122.93,
+      "end": 122.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.93,
+      "end": 124.75,
+      "text": "嗶不過的閘門"
+    },
+    {
+      "t": 125.99,
+      "end": 128.47,
+      "text": "今天輪到我說話"
+    },
+    {
+      "t": 129.83,
+      "end": 133.57,
+      "text": "新的卡在我口袋"
+    },
+    {
+      "t": 134.87,
+      "end": 138.33,
+      "text": "我想問妳幾點下班"
+    },
+    {
+      "t": 138.33,
+      "end": 138.33,
+      "text": "[Outro - harmonies hum, piano triplets fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.86,
+      "end": 37.86,
+      "text": "[Intro - doo-wop harmonies, piano triplets, brushed drums]"
+    },
+    {
+      "t": 37.86,
+      "end": 37.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.86,
+      "end": 40.08,
+      "text": "每天早上七點四十"
+    },
+    {
+      "t": 40.08,
+      "end": 41.08,
+      "text": "第三個閘門嗶不過"
+    },
+    {
+      "t": 42.5,
+      "end": 45.88,
+      "text": "紅燈一亮我就臉紅"
+    },
+    {
+      "t": 46.74,
+      "end": 50.55,
+      "text": "後面排了一條長龍"
+    },
+    {
+      "t": 56.35,
+      "end": 56.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.35,
+      "end": 61.19,
+      "text": "穿制服的妳走過來"
+    },
+    {
+      "t": 61.39,
+      "end": 63.91,
+      "text": "一刷就讓我過去"
+    },
+    {
+      "t": 65.33,
+      "end": 65.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.33,
+      "end": 67.27,
+      "text": "嗶不過的閘門"
+    },
+    {
+      "t": 69.63,
+      "end": 71.91,
+      "text": "每天都等我出糗"
+    },
+    {
+      "t": 73.91,
+      "end": 76.15,
+      "text": "嗶不過的閘門"
+    },
+    {
+      "t": 77.79,
+      "end": 81.51,
+      "text": "讓我多看妳一眼"
+    },
+    {
+      "t": 84.73,
+      "end": 84.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.73,
+      "end": 88.19,
+      "text": "後來妳乾脆站在旁邊"
+    },
+    {
+      "t": 89.27,
+      "end": 92.67,
+      "text": "我還沒到妳就笑了"
+    },
+    {
+      "t": 93.71,
+      "end": 97.29,
+      "text": "妳說這張卡該換了"
+    },
+    {
+      "t": 98.73,
+      "end": 101.07,
+      "text": "我說再等一等"
+    },
+    {
+      "t": 101.41,
+      "end": 101.41,
+      "text": "[Bridge - sax solo then harmonies]"
+    },
+    {
+      "t": 101.41,
+      "end": 103.93,
+      "text": "今天我買了新的卡"
+    },
+    {
+      "t": 104.77,
+      "end": 106.27,
+      "text": "嗶一聲就過了"
+    },
+    {
+      "t": 110.35,
+      "end": 115.41,
+      "text": "可是我又走回來"
+    },
+    {
+      "t": 116.51,
+      "end": 120.05,
+      "text": "站在妳的窗口前"
+    },
+    {
+      "t": 122.93,
+      "end": 122.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.93,
+      "end": 124.75,
+      "text": "嗶不過的閘門"
+    },
+    {
+      "t": 125.99,
+      "end": 128.47,
+      "text": "今天輪到我說話"
+    },
+    {
+      "t": 129.83,
+      "end": 133.57,
+      "text": "新的卡在我口袋"
+    },
+    {
+      "t": 134.87,
+      "end": 138.33,
+      "text": "我想問妳幾點下班"
+    },
+    {
+      "t": 138.33,
+      "end": 138.33,
+      "text": "[Outro - harmonies hum, piano triplets fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

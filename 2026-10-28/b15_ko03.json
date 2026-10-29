@@ -1,0 +1,297 @@
+{
+  "id": "b15_ko03",
+  "title": "새 안경",
+  "title_source": "scripted",
+  "genre": "minimal easy-listening R&B pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "light, amazed, softly funny",
+  "persona": "",
+  "subject": "walking out of the optician with a new prescription and noticing the individual leaves on a street tree for the first time in years",
+  "caption": "Minimal easy-listening R&B pop in the mid-2020s Korean style. Muted electric guitar plucks, light shuffling two-step drums with soft rimshots, deep clean sub bass, airy Rhodes chords. Sparse clean mix with lots of space and a short room reverb. Female mid-register vocal, relaxed and conversational, low-key stacked harmonies. 102 BPM, F major. Light, amazed and softly funny. No EDM build, no rap verse, no autotune, no heavy 808 slides, no big belting.",
+  "lyrics": "[Intro - muted guitar plucks, Rhodes]\n\n[Verse 1]\n안경점 문을 열고 나와\n코 위가 아직 낯설어\n길가에 서 있는 은행나무\n잎이 하나하나 보여\n\n[Pre-Chorus]\n원래 이렇게 생겼었구나\n나만 몰랐던 거구나\n\n[Chorus]\n마이너스 삼 점 오\n세상이 또렷해\n간판 글씨도 네 표정도\n다 다시 보여\n\n[Verse 2]\n건너편 버스 번호까지\n혼자 소리 내 읽어 봐\n친구는 웃으면서\n너 좀 이상하대\n\n[Chorus]\n마이너스 삼 점 오\n세상이 또렷해\n웃을 때 접히는 네 눈가\n이제야 보여\n\n[Outro - Rhodes and sub bass fade]\n이제야 보여",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 102,
+    "duration": 172.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Minimal easy-listening R&B pop in the mid-2020s Korean style. Muted electric guitar plucks, light shuffling two-step drums with soft rimshots, deep clean sub bass, airy Rhodes chords. Sparse clean mix with lots of space and a short room reverb. Female mid-register vocal, relaxed and conversational, low-key stacked harmonies. 102 BPM, F major. Light, amazed and softly funny. No EDM build, no rap verse, no autotune, no heavy 808 slides, no big belting.",
+    "lyrics": "[Intro - muted guitar plucks, Rhodes]\n\n[Verse 1]\n안경점 문을 열고 나와\n코 위가 아직 낯설어\n길가에 서 있는 은행나무\n잎이 하나하나 보여\n\n[Pre-Chorus]\n원래 이렇게 생겼었구나\n나만 몰랐던 거구나\n\n[Chorus]\n마이너스 삼 점 오\n세상이 또렷해\n간판 글씨도 네 표정도\n다 다시 보여\n\n[Verse 2]\n건너편 버스 번호까지\n혼자 소리 내 읽어 봐\n친구는 웃으면서\n너 좀 이상하대\n\n[Chorus]\n마이너스 삼 점 오\n세상이 또렷해\n웃을 때 접히는 네 눈가\n이제야 보여\n\n[Outro - Rhodes and sub bass fade]\n이제야 보여"
+  },
+  "seed": "2740195984",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 99.80s**\n- 99.80s per song\n- LM phase (1 song): 10.06s\n- DiT phase (1 song): 89.74s",
+  "task_id": "e564b4e7-750d-4c64-b529-d83d20b04166",
+  "elapsed_s": 121.6,
+  "generated_at": "2026-10-28T23:03:29.190983+08:00",
+  "audio": "b15_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.1,
+      "end": 1.1,
+      "text": "[Intro - muted guitar plucks, Rhodes]"
+    },
+    {
+      "t": 1.1,
+      "end": 1.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.1,
+      "end": 34.14,
+      "text": "안경점 문을 열고 나와"
+    },
+    {
+      "t": 34.16,
+      "end": 36.7,
+      "text": "코 위가 아직 낯설어"
+    },
+    {
+      "t": 37.12,
+      "end": 43.61,
+      "text": "길가에 서 있는 은행나무"
+    },
+    {
+      "t": 43.61,
+      "end": 46.11,
+      "text": "잎이 하나하나 보여"
+    },
+    {
+      "t": 49.79,
+      "end": 49.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.79,
+      "end": 53.23,
+      "text": "원래 이렇게 생겼었구나"
+    },
+    {
+      "t": 54.93,
+      "end": 58.03,
+      "text": "나만 몰랐던 거구나"
+    },
+    {
+      "t": 61.39,
+      "end": 61.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.39,
+      "end": 62.99,
+      "text": "마이너스 삼 점 오"
+    },
+    {
+      "t": 66.07,
+      "end": 67.45,
+      "text": "세상이 또렷해"
+    },
+    {
+      "t": 70.79,
+      "end": 75.59,
+      "text": "간판 글씨도 네 표정도"
+    },
+    {
+      "t": 75.79,
+      "end": 77.47,
+      "text": "다 다시 보여"
+    },
+    {
+      "t": 80.37,
+      "end": 80.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.37,
+      "end": 91.43,
+      "text": "건너편 버스 번호까지"
+    },
+    {
+      "t": 91.59,
+      "end": 99.05,
+      "text": "혼자 소리 내 읽어 봐"
+    },
+    {
+      "t": 99.09,
+      "end": 101.91,
+      "text": "친구는 웃으면서"
+    },
+    {
+      "t": 104.39,
+      "end": 106.33,
+      "text": "너 좀 이상하대"
+    },
+    {
+      "t": 109.11,
+      "end": 109.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.11,
+      "end": 111.85,
+      "text": "마이너스 삼 점 오"
+    },
+    {
+      "t": 112.91,
+      "end": 118.61,
+      "text": "세상이 또렷해"
+    },
+    {
+      "t": 118.91,
+      "end": 132.94,
+      "text": "웃을 때 접히는 네 눈가"
+    },
+    {
+      "t": 136.46,
+      "end": 137.92,
+      "text": "이제야 보여"
+    },
+    {
+      "t": 145.36,
+      "end": 145.36,
+      "text": "[Outro - Rhodes and sub bass fade]"
+    },
+    {
+      "t": 145.36,
+      "end": 156.48,
+      "text": "이제야 보여"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.12,
+      "end": 7.12,
+      "text": "[Intro - muted guitar plucks, Rhodes]"
+    },
+    {
+      "t": 7.12,
+      "end": 7.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.12,
+      "end": 35.38,
+      "text": "안경점 문을 열고 나와"
+    },
+    {
+      "t": 35.38,
+      "end": 35.94,
+      "text": "코 위가 아직 낯설어"
+    },
+    {
+      "t": 35.94,
+      "end": 43.45,
+      "text": "길가에 서 있는 은행나무"
+    },
+    {
+      "t": 43.53,
+      "end": 46.13,
+      "text": "잎이 하나하나 보여"
+    },
+    {
+      "t": 49.79,
+      "end": 49.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.79,
+      "end": 53.23,
+      "text": "원래 이렇게 생겼었구나"
+    },
+    {
+      "t": 54.93,
+      "end": 58.03,
+      "text": "나만 몰랐던 거구나"
+    },
+    {
+      "t": 61.39,
+      "end": 61.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.39,
+      "end": 63.01,
+      "text": "마이너스 삼 점 오"
+    },
+    {
+      "t": 66.09,
+      "end": 68.83,
+      "text": "세상이 또렷해"
+    },
+    {
+      "t": 70.79,
+      "end": 75.59,
+      "text": "간판 글씨도 네 표정도"
+    },
+    {
+      "t": 75.79,
+      "end": 76.95,
+      "text": "다 다시 보여"
+    },
+    {
+      "t": 77.29,
+      "end": 77.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.29,
+      "end": 90.69,
+      "text": "건너편 버스 번호까지"
+    },
+    {
+      "t": 90.69,
+      "end": 92.31,
+      "text": "혼자 소리 내 읽어 봐"
+    },
+    {
+      "t": 99.11,
+      "end": 101.91,
+      "text": "친구는 웃으면서"
+    },
+    {
+      "t": 104.39,
+      "end": 106.33,
+      "text": "너 좀 이상하대"
+    },
+    {
+      "t": 109.11,
+      "end": 109.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.11,
+      "end": 111.85,
+      "text": "마이너스 삼 점 오"
+    },
+    {
+      "t": 112.91,
+      "end": 117.41,
+      "text": "세상이 또렷해"
+    },
+    {
+      "t": 117.97,
+      "end": 122.07,
+      "text": "웃을 때 접히는 네 눈가"
+    },
+    {
+      "t": 122.37,
+      "end": 132.94,
+      "text": "이제야 보여"
+    },
+    {
+      "t": 136.46,
+      "end": 136.46,
+      "text": "[Outro - Rhodes and sub bass fade]"
+    },
+    {
+      "t": 136.46,
+      "end": 146.88,
+      "text": "이제야 보여"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

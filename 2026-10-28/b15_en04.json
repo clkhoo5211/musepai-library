@@ -1,0 +1,387 @@
+{
+  "id": "b15_en04",
+  "title": "Somebody Else's List",
+  "title_source": "scripted",
+  "genre": "sophisti-pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wistful, curious and quietly charmed",
+  "persona": "",
+  "subject": "a woman who finds a stranger's handwritten shopping list in the pocket of a charity-shop wool coat, buys every item on it and cooks whatever that list was meant to become",
+  "caption": "Sophisti-pop, late-80s British style. A singing fretless bass, muted jazz guitar chords with a chorus effect, soprano saxophone answering the vocal, a DX7-style electric piano, soft programmed drums with a live hi-hat. Glossy polished mix with gentle room reverb. Female alto, smooth and conversational, close-mic, light double-tracking on the chorus. 96 BPM, D major. Wistful, curious and quietly charmed. No trap drums, no autotune, no EDM drop, no rock distortion, no jazz scat.",
+  "lyrics": "[Intro - fretless bass and soprano sax]\n\n[Verse 1]\nCamel coat from the charity shop\nTwelve pounds and it fit\nLeft-hand pocket, folded twice\nA list in someone's script\n\n[Pre-Chorus]\nLeeks, two lemons, crème fraîche\nThyme, and don't forget the bread\n\n[Chorus]\nSomebody else's list\nSomebody else's night\nI'm filling up my basket\nWith the things you chose to write\n\n[Verse 2]\nMussels, butter, half a pound\nWhite wine, underlined\nWho were you cooking for\nWith every word so kind\n\n[Chorus]\nSomebody else's list\nSomebody else's plan\nI'm stirring in the leeks now\nGuessing who you are\n\n[Bridge - sax solo]\nSteam on the window\nMussels open one by one\n\n[Chorus]\nSomebody else's list\nSomebody else's meal\nI set a second plate down\nJust to see how it would feel\n\n[Outro - electric piano fade]\nFold it up, back in the pocket\nSomeone's dinner, kept",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Sophisti-pop, late-80s British style. A singing fretless bass, muted jazz guitar chords with a chorus effect, soprano saxophone answering the vocal, a DX7-style electric piano, soft programmed drums with a live hi-hat. Glossy polished mix with gentle room reverb. Female alto, smooth and conversational, close-mic, light double-tracking on the chorus. 96 BPM, D major. Wistful, curious and quietly charmed. No trap drums, no autotune, no EDM drop, no rock distortion, no jazz scat.",
+    "lyrics": "[Intro - fretless bass and soprano sax]\n\n[Verse 1]\nCamel coat from the charity shop\nTwelve pounds and it fit\nLeft-hand pocket, folded twice\nA list in someone's script\n\n[Pre-Chorus]\nLeeks, two lemons, crème fraîche\nThyme, and don't forget the bread\n\n[Chorus]\nSomebody else's list\nSomebody else's night\nI'm filling up my basket\nWith the things you chose to write\n\n[Verse 2]\nMussels, butter, half a pound\nWhite wine, underlined\nWho were you cooking for\nWith every word so kind\n\n[Chorus]\nSomebody else's list\nSomebody else's plan\nI'm stirring in the leeks now\nGuessing who you are\n\n[Bridge - sax solo]\nSteam on the window\nMussels open one by one\n\n[Chorus]\nSomebody else's list\nSomebody else's meal\nI set a second plate down\nJust to see how it would feel\n\n[Outro - electric piano fade]\nFold it up, back in the pocket\nSomeone's dinner, kept"
+  },
+  "seed": "765546244",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.56s**\n- 68.56s per song\n- LM phase (1 song): 17.10s\n- DiT phase (1 song): 51.45s",
+  "task_id": "a051d5fb-31fc-4660-b7a6-e89b36b2d7b1",
+  "elapsed_s": 90.5,
+  "generated_at": "2026-10-28T23:40:45.508094+08:00",
+  "audio": "b15_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.04,
+      "end": 22.04,
+      "text": "[Intro - fretless bass and soprano sax]"
+    },
+    {
+      "t": 22.04,
+      "end": 22.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.04,
+      "end": 24.8,
+      "text": "Camel coat from the charity shop"
+    },
+    {
+      "t": 27.0,
+      "end": 32.02,
+      "text": "Twelve pounds and it fit"
+    },
+    {
+      "t": 32.04,
+      "end": 46.84,
+      "text": "Left-hand pocket, folded twice"
+    },
+    {
+      "t": 46.98,
+      "end": 49.74,
+      "text": "A list in someone's script"
+    },
+    {
+      "t": 49.78,
+      "end": 49.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.78,
+      "end": 60.11,
+      "text": "Leeks, two lemons, crème fraîche"
+    },
+    {
+      "t": 60.21,
+      "end": 66.41,
+      "text": "Thyme, and don't forget the bread"
+    },
+    {
+      "t": 69.15,
+      "end": 69.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.15,
+      "end": 71.37,
+      "text": "Somebody else's list"
+    },
+    {
+      "t": 74.23,
+      "end": 76.27,
+      "text": "Somebody else's night"
+    },
+    {
+      "t": 76.31,
+      "end": 81.53,
+      "text": "I'm filling up my basket"
+    },
+    {
+      "t": 81.71,
+      "end": 85.51,
+      "text": "With the things you chose to write"
+    },
+    {
+      "t": 85.53,
+      "end": 85.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.53,
+      "end": 90.57,
+      "text": "Mussels, butter, half a pound"
+    },
+    {
+      "t": 90.57,
+      "end": 100.65,
+      "text": "White wine, underlined"
+    },
+    {
+      "t": 100.81,
+      "end": 134.01,
+      "text": "Who were you cooking for"
+    },
+    {
+      "t": 136.55,
+      "end": 138.39,
+      "text": "With every word so kind"
+    },
+    {
+      "t": 138.43,
+      "end": 138.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.43,
+      "end": 142.47,
+      "text": "Somebody else's list"
+    },
+    {
+      "t": 142.47,
+      "end": 143.49,
+      "text": "Somebody else's plan"
+    },
+    {
+      "t": 143.53,
+      "end": 150.65,
+      "text": "I'm stirring in the leeks now"
+    },
+    {
+      "t": 150.65,
+      "end": 156.61,
+      "text": "Guessing who you are"
+    },
+    {
+      "t": 156.71,
+      "end": 156.71,
+      "text": "[Bridge - sax solo]"
+    },
+    {
+      "t": 156.71,
+      "end": 157.97,
+      "text": "Steam on the window"
+    },
+    {
+      "t": 158.05,
+      "end": 163.46,
+      "text": "Mussels open one by one"
+    },
+    {
+      "t": 169.86,
+      "end": 169.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 169.86,
+      "end": 171.52,
+      "text": "Somebody else's list"
+    },
+    {
+      "t": 171.52,
+      "end": 177.32,
+      "text": "Somebody else's meal"
+    },
+    {
+      "t": 177.38,
+      "end": 179.7,
+      "text": "I set a second plate down"
+    },
+    {
+      "t": 181.98,
+      "end": 184.52,
+      "text": "Just to see how it would feel"
+    },
+    {
+      "t": 189.5,
+      "end": 189.5,
+      "text": "[Outro - electric piano fade]"
+    },
+    {
+      "t": 189.5,
+      "end": 192.52,
+      "text": "Fold it up, back in the pocket"
+    },
+    {
+      "t": 197.06,
+      "end": 210.52,
+      "text": "Someone's dinner, kept"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.04,
+      "end": 22.04,
+      "text": "[Intro - fretless bass and soprano sax]"
+    },
+    {
+      "t": 22.04,
+      "end": 22.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.04,
+      "end": 24.8,
+      "text": "Camel coat from the charity shop"
+    },
+    {
+      "t": 27.0,
+      "end": 39.76,
+      "text": "Twelve pounds and it fit"
+    },
+    {
+      "t": 42.08,
+      "end": 46.82,
+      "text": "Left-hand pocket, folded twice"
+    },
+    {
+      "t": 46.82,
+      "end": 49.86,
+      "text": "A list in someone's script"
+    },
+    {
+      "t": 49.86,
+      "end": 49.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.86,
+      "end": 60.11,
+      "text": "Leeks, two lemons, crème fraîche"
+    },
+    {
+      "t": 60.19,
+      "end": 66.25,
+      "text": "Thyme, and don't forget the bread"
+    },
+    {
+      "t": 69.15,
+      "end": 69.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.15,
+      "end": 71.25,
+      "text": "Somebody else's list"
+    },
+    {
+      "t": 74.23,
+      "end": 79.31,
+      "text": "Somebody else's night"
+    },
+    {
+      "t": 79.33,
+      "end": 81.55,
+      "text": "I'm filling up my basket"
+    },
+    {
+      "t": 81.71,
+      "end": 83.47,
+      "text": "With the things you chose to write"
+    },
+    {
+      "t": 83.47,
+      "end": 83.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.47,
+      "end": 136.59,
+      "text": "Mussels, butter, half a pound"
+    },
+    {
+      "t": 136.59,
+      "end": 137.33,
+      "text": "White wine, underlined"
+    },
+    {
+      "t": 137.33,
+      "end": 137.85,
+      "text": "Who were you cooking for"
+    },
+    {
+      "t": 137.93,
+      "end": 138.73,
+      "text": "With every word so kind"
+    },
+    {
+      "t": 141.67,
+      "end": 141.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.67,
+      "end": 142.15,
+      "text": "Somebody else's list"
+    },
+    {
+      "t": 142.15,
+      "end": 142.59,
+      "text": "Somebody else's plan"
+    },
+    {
+      "t": 142.59,
+      "end": 143.37,
+      "text": "I'm stirring in the leeks now"
+    },
+    {
+      "t": 143.37,
+      "end": 144.03,
+      "text": "Guessing who you are"
+    },
+    {
+      "t": 144.03,
+      "end": 144.03,
+      "text": "[Bridge - sax solo]"
+    },
+    {
+      "t": 144.03,
+      "end": 151.55,
+      "text": "Steam on the window"
+    },
+    {
+      "t": 151.83,
+      "end": 170.46,
+      "text": "Mussels open one by one"
+    },
+    {
+      "t": 170.5,
+      "end": 170.5,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 170.5,
+      "end": 171.2,
+      "text": "Somebody else's list"
+    },
+    {
+      "t": 171.24,
+      "end": 176.86,
+      "text": "Somebody else's meal"
+    },
+    {
+      "t": 176.92,
+      "end": 179.82,
+      "text": "I set a second plate down"
+    },
+    {
+      "t": 181.98,
+      "end": 189.24,
+      "text": "Just to see how it would feel"
+    },
+    {
+      "t": 189.5,
+      "end": 189.5,
+      "text": "[Outro - electric piano fade]"
+    },
+    {
+      "t": 189.5,
+      "end": 190.88,
+      "text": "Fold it up, back in the pocket"
+    },
+    {
+      "t": 190.88,
+      "end": 191.9,
+      "text": "Someone's dinner, kept"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

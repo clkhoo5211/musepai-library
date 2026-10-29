@@ -1,0 +1,317 @@
+{
+  "id": "b15_id05",
+  "title": "Gembul Diet",
+  "title_source": "scripted",
+  "genre": "Betawi tanjidor brass party pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "rowdy, funny, festive",
+  "persona": "",
+  "subject": "a family in Kemayoran whose fat orange cat Gembul is put on a vet-ordered diet, and every member keeps secretly feeding him fried tempe until the next weigh-in shows he gained half a kilo",
+  "caption": "Betawi tanjidor brass party pop, a festive Jakarta street brass band sound. Wailing clarinet lead, sliding trombone, bouncing tuba bass line, march bass drum and snare, jangling tambourine. Live loose brass-band mix with open-air feel. Male baritone with a rowdy Jakarta street-party delivery, group chant on the hook. 132 BPM, B-flat major. Rowdy, funny, festive. No autotune, no trap beat, no EDM drop, no synth brass, no dangdut kendang.",
+  "lyrics": "[Intro - tanjidor brass fanfare]\n\n[Verse 1]\nKata dokter hewan di Kemayoran\nGembul kegendutan, harus diet\nMakan pagi sama sore aja\nNggak boleh ngemil apa-apa\n\n[Pre-Chorus]\nTapi Gembul ngeong di dapur\nMatanya bulat kayak kelereng\n\n[Chorus]\nGembul diet, Gembul diet\nTempe goreng jatuh sendiri\nGembul diet, Gembul diet\nSiapa yang kasih tadi\n\n[Verse 2]\nBapak bilang bukan dia\nIbu bilang cuma sedikit\nAdik ngumpet di bawah meja\nTangannya bau minyak\n\n[Bridge - trombone solo]\nTimbang lagi minggu depan\nNaik setengah kilo\n\n[Chorus]\nGembul diet, Gembul diet\nDokter geleng-geleng kepala\nGembul diet, Gembul diet\nSatu rumah ikut diet\n\n[Outro - brass band fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Betawi tanjidor brass party pop, a festive Jakarta street brass band sound. Wailing clarinet lead, sliding trombone, bouncing tuba bass line, march bass drum and snare, jangling tambourine. Live loose brass-band mix with open-air feel. Male baritone with a rowdy Jakarta street-party delivery, group chant on the hook. 132 BPM, B-flat major. Rowdy, funny, festive. No autotune, no trap beat, no EDM drop, no synth brass, no dangdut kendang.",
+    "lyrics": "[Intro - tanjidor brass fanfare]\n\n[Verse 1]\nKata dokter hewan di Kemayoran\nGembul kegendutan, harus diet\nMakan pagi sama sore aja\nNggak boleh ngemil apa-apa\n\n[Pre-Chorus]\nTapi Gembul ngeong di dapur\nMatanya bulat kayak kelereng\n\n[Chorus]\nGembul diet, Gembul diet\nTempe goreng jatuh sendiri\nGembul diet, Gembul diet\nSiapa yang kasih tadi\n\n[Verse 2]\nBapak bilang bukan dia\nIbu bilang cuma sedikit\nAdik ngumpet di bawah meja\nTangannya bau minyak\n\n[Bridge - trombone solo]\nTimbang lagi minggu depan\nNaik setengah kilo\n\n[Chorus]\nGembul diet, Gembul diet\nDokter geleng-geleng kepala\nGembul diet, Gembul diet\nSatu rumah ikut diet\n\n[Outro - brass band fades]"
+  },
+  "seed": "3242374208",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.50s**\n- 57.50s per song\n- LM phase (1 song): 13.80s\n- DiT phase (1 song): 43.70s",
+  "task_id": "7210a84e-5df6-4ee6-80ff-2622d67a0584",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-28T23:21:02.174128+08:00",
+  "audio": "b15_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - tanjidor brass fanfare]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 5.9,
+      "text": "Kata dokter hewan di Kemayoran"
+    },
+    {
+      "t": 5.9,
+      "end": 17.72,
+      "text": "Gembul kegendutan, harus diet"
+    },
+    {
+      "t": 18.08,
+      "end": 22.16,
+      "text": "Makan pagi sama sore aja"
+    },
+    {
+      "t": 22.68,
+      "end": 29.24,
+      "text": "Nggak boleh ngemil apa-apa"
+    },
+    {
+      "t": 29.82,
+      "end": 29.82,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 29.82,
+      "end": 47.75,
+      "text": "Tapi Gembul ngeong di dapur"
+    },
+    {
+      "t": 48.33,
+      "end": 51.91,
+      "text": "Matanya bulat kayak kelereng"
+    },
+    {
+      "t": 51.93,
+      "end": 51.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.93,
+      "end": 55.03,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 55.89,
+      "end": 58.79,
+      "text": "Tempe goreng jatuh sendiri"
+    },
+    {
+      "t": 58.93,
+      "end": 62.35,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 63.19,
+      "end": 65.89,
+      "text": "Siapa yang kasih tadi"
+    },
+    {
+      "t": 68.95,
+      "end": 68.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.95,
+      "end": 72.09,
+      "text": "Bapak bilang bukan dia"
+    },
+    {
+      "t": 72.73,
+      "end": 75.85,
+      "text": "Ibu bilang cuma sedikit"
+    },
+    {
+      "t": 76.37,
+      "end": 79.39,
+      "text": "Adik ngumpet di bawah meja"
+    },
+    {
+      "t": 79.93,
+      "end": 83.21,
+      "text": "Tangannya bau minyak"
+    },
+    {
+      "t": 84.05,
+      "end": 84.05,
+      "text": "[Bridge - trombone solo]"
+    },
+    {
+      "t": 84.05,
+      "end": 95.07,
+      "text": "Timbang lagi minggu depan"
+    },
+    {
+      "t": 102.13,
+      "end": 104.41,
+      "text": "Naik setengah kilo"
+    },
+    {
+      "t": 123.67,
+      "end": 123.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.67,
+      "end": 126.63,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 127.33,
+      "end": 135.86,
+      "text": "Dokter geleng-geleng kepala"
+    },
+    {
+      "t": 138.24,
+      "end": 148.48,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 149.6,
+      "end": 168.58,
+      "text": "Satu rumah ikut diet"
+    },
+    {
+      "t": 168.58,
+      "end": 168.58,
+      "text": "[Outro - brass band fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - tanjidor brass fanfare]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 5.46,
+      "text": "Kata dokter hewan di Kemayoran"
+    },
+    {
+      "t": 5.66,
+      "end": 20.46,
+      "text": "Gembul kegendutan, harus diet"
+    },
+    {
+      "t": 20.6,
+      "end": 22.6,
+      "text": "Makan pagi sama sore aja"
+    },
+    {
+      "t": 22.66,
+      "end": 29.24,
+      "text": "Nggak boleh ngemil apa-apa"
+    },
+    {
+      "t": 29.8,
+      "end": 29.8,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 29.8,
+      "end": 47.73,
+      "text": "Tapi Gembul ngeong di dapur"
+    },
+    {
+      "t": 48.33,
+      "end": 51.91,
+      "text": "Matanya bulat kayak kelereng"
+    },
+    {
+      "t": 51.93,
+      "end": 51.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.93,
+      "end": 55.07,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 55.89,
+      "end": 58.45,
+      "text": "Tempe goreng jatuh sendiri"
+    },
+    {
+      "t": 58.45,
+      "end": 62.37,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 63.19,
+      "end": 65.91,
+      "text": "Siapa yang kasih tadi"
+    },
+    {
+      "t": 68.95,
+      "end": 68.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.95,
+      "end": 72.09,
+      "text": "Bapak bilang bukan dia"
+    },
+    {
+      "t": 72.73,
+      "end": 75.85,
+      "text": "Ibu bilang cuma sedikit"
+    },
+    {
+      "t": 76.35,
+      "end": 79.39,
+      "text": "Adik ngumpet di bawah meja"
+    },
+    {
+      "t": 79.93,
+      "end": 83.23,
+      "text": "Tangannya bau minyak"
+    },
+    {
+      "t": 84.05,
+      "end": 84.05,
+      "text": "[Bridge - trombone solo]"
+    },
+    {
+      "t": 84.05,
+      "end": 102.13,
+      "text": "Timbang lagi minggu depan"
+    },
+    {
+      "t": 102.15,
+      "end": 104.41,
+      "text": "Naik setengah kilo"
+    },
+    {
+      "t": 123.65,
+      "end": 123.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.65,
+      "end": 126.65,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 127.33,
+      "end": 130.19,
+      "text": "Dokter geleng-geleng kepala"
+    },
+    {
+      "t": 130.75,
+      "end": 133.95,
+      "text": "Gembul diet, Gembul diet"
+    },
+    {
+      "t": 134.59,
+      "end": 137.34,
+      "text": "Satu rumah ikut diet"
+    },
+    {
+      "t": 137.34,
+      "end": 137.34,
+      "text": "[Outro - brass band fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

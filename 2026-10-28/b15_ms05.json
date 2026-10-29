@@ -1,0 +1,287 @@
+{
+  "id": "b15_ms05",
+  "title": "Cha-Cha Kolam Awam",
+  "title_source": "scripted",
+  "genre": "1960s Malay cha-cha revival",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "cheeky, sunny and danceable",
+  "persona": "",
+  "subject": "a thirty-five-year-old man taking swimming lessons at a public pool on Saturday mornings in the same class as six-year-olds, who cheer the day he finally floats",
+  "caption": "1960s Malay cha-cha revival, vintage Malay film-era dance band. Timbales and cowbell on the cha-cha pattern, bongos, a honking saxophone section, plucked double bass, bright upright piano montuno. Mono-leaning 1960s studio sound with slight room echo. Male tenor, crisp vintage crooner delivery with a backing chorus answering. 124 BPM, B-flat major. Cheeky, sunny and danceable. No autotune, no trap drums, no EDM drop, no modern synth bass, no reggaeton beat.",
+  "lyrics": "[Intro - saxophone riff, timbales and cowbell]\n\n[Verse 1]\nSabtu pagi kolam awam\nSaya umur tiga puluh lima\nKelas renang budak enam tahun\nSaya paling tinggi, paling takut\n\n[Pre-Chorus]\nCikgu tiup wisel\nSemua lompat, saya tak\n\n[Chorus]\nCha-cha kolam awam\nPegang papan, kaki tendang\nBudak kecil gelak besar\nPakcik minum air klorin\n\n[Verse 2]\nMinggu ketiga, kepala basah\nMinggu kelima, mata buka\nSi Aiman pinjam pelampung\nDia kata, pakcik boleh\n\n[Chorus]\nCha-cha kolam awam\nSaya terapung, tangan lepas\nBudak kecil tepuk tangan\nPakcik tak minum klorin lagi\n\n[Outro - saxophone and piano montuno, chorus cheers]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "1960s Malay cha-cha revival, vintage Malay film-era dance band. Timbales and cowbell on the cha-cha pattern, bongos, a honking saxophone section, plucked double bass, bright upright piano montuno. Mono-leaning 1960s studio sound with slight room echo. Male tenor, crisp vintage crooner delivery with a backing chorus answering. 124 BPM, B-flat major. Cheeky, sunny and danceable. No autotune, no trap drums, no EDM drop, no modern synth bass, no reggaeton beat.",
+    "lyrics": "[Intro - saxophone riff, timbales and cowbell]\n\n[Verse 1]\nSabtu pagi kolam awam\nSaya umur tiga puluh lima\nKelas renang budak enam tahun\nSaya paling tinggi, paling takut\n\n[Pre-Chorus]\nCikgu tiup wisel\nSemua lompat, saya tak\n\n[Chorus]\nCha-cha kolam awam\nPegang papan, kaki tendang\nBudak kecil gelak besar\nPakcik minum air klorin\n\n[Verse 2]\nMinggu ketiga, kepala basah\nMinggu kelima, mata buka\nSi Aiman pinjam pelampung\nDia kata, pakcik boleh\n\n[Chorus]\nCha-cha kolam awam\nSaya terapung, tangan lepas\nBudak kecil tepuk tangan\nPakcik tak minum klorin lagi\n\n[Outro - saxophone and piano montuno, chorus cheers]"
+  },
+  "seed": "218483210",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.40s**\n- 53.40s per song\n- LM phase (1 song): 8.67s\n- DiT phase (1 song): 44.73s",
+  "task_id": "0e86b108-4a49-408c-a3f7-b878f3163872",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-10-28T23:13:41.528214+08:00",
+  "audio": "b15_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Intro - saxophone riff, timbales and cowbell]"
+    },
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.92,
+      "end": 20.22,
+      "text": "Sabtu pagi kolam awam"
+    },
+    {
+      "t": 23.42,
+      "end": 27.66,
+      "text": "Saya umur tiga puluh lima"
+    },
+    {
+      "t": 31.1,
+      "end": 35.72,
+      "text": "Kelas renang budak enam tahun"
+    },
+    {
+      "t": 38.8,
+      "end": 43.24,
+      "text": "Saya paling tinggi, paling takut"
+    },
+    {
+      "t": 45.08,
+      "end": 45.08,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.08,
+      "end": 47.11,
+      "text": "Cikgu tiup wisel"
+    },
+    {
+      "t": 47.51,
+      "end": 59.67,
+      "text": "Semua lompat, saya tak"
+    },
+    {
+      "t": 62.45,
+      "end": 62.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.45,
+      "end": 65.43,
+      "text": "Cha-cha kolam awam"
+    },
+    {
+      "t": 66.29,
+      "end": 68.59,
+      "text": "Pegang papan, kaki tendang"
+    },
+    {
+      "t": 70.15,
+      "end": 73.17,
+      "text": "Budak kecil gelak besar"
+    },
+    {
+      "t": 73.97,
+      "end": 76.51,
+      "text": "Pakcik minum air klorin"
+    },
+    {
+      "t": 78.35,
+      "end": 78.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.35,
+      "end": 85.69,
+      "text": "Minggu ketiga, kepala basah"
+    },
+    {
+      "t": 89.43,
+      "end": 100.05,
+      "text": "Minggu kelima, mata buka"
+    },
+    {
+      "t": 100.89,
+      "end": 104.33,
+      "text": "Si Aiman pinjam pelampung"
+    },
+    {
+      "t": 105.01,
+      "end": 111.85,
+      "text": "Dia kata, pakcik boleh"
+    },
+    {
+      "t": 112.53,
+      "end": 112.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.53,
+      "end": 114.73,
+      "text": "Cha-cha kolam awam"
+    },
+    {
+      "t": 116.37,
+      "end": 118.99,
+      "text": "Saya terapung, tangan lepas"
+    },
+    {
+      "t": 120.25,
+      "end": 122.45,
+      "text": "Budak kecil tepuk tangan"
+    },
+    {
+      "t": 123.85,
+      "end": 126.13,
+      "text": "Pakcik tak minum klorin lagi"
+    },
+    {
+      "t": 126.13,
+      "end": 126.13,
+      "text": "[Outro - saxophone and piano montuno, chorus cheers]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Intro - saxophone riff, timbales and cowbell]"
+    },
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.92,
+      "end": 20.18,
+      "text": "Sabtu pagi kolam awam"
+    },
+    {
+      "t": 23.42,
+      "end": 27.66,
+      "text": "Saya umur tiga puluh lima"
+    },
+    {
+      "t": 31.1,
+      "end": 35.72,
+      "text": "Kelas renang budak enam tahun"
+    },
+    {
+      "t": 38.78,
+      "end": 43.46,
+      "text": "Saya paling tinggi, paling takut"
+    },
+    {
+      "t": 45.06,
+      "end": 45.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.06,
+      "end": 47.11,
+      "text": "Cikgu tiup wisel"
+    },
+    {
+      "t": 47.51,
+      "end": 55.53,
+      "text": "Semua lompat, saya tak"
+    },
+    {
+      "t": 62.45,
+      "end": 62.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.45,
+      "end": 65.43,
+      "text": "Cha-cha kolam awam"
+    },
+    {
+      "t": 66.29,
+      "end": 68.57,
+      "text": "Pegang papan, kaki tendang"
+    },
+    {
+      "t": 70.13,
+      "end": 73.19,
+      "text": "Budak kecil gelak besar"
+    },
+    {
+      "t": 73.97,
+      "end": 76.47,
+      "text": "Pakcik minum air klorin"
+    },
+    {
+      "t": 78.35,
+      "end": 78.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.35,
+      "end": 81.83,
+      "text": "Minggu ketiga, kepala basah"
+    },
+    {
+      "t": 82.23,
+      "end": 92.21,
+      "text": "Minggu kelima, mata buka"
+    },
+    {
+      "t": 97.05,
+      "end": 104.33,
+      "text": "Si Aiman pinjam pelampung"
+    },
+    {
+      "t": 104.99,
+      "end": 108.75,
+      "text": "Dia kata, pakcik boleh"
+    },
+    {
+      "t": 112.53,
+      "end": 112.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.53,
+      "end": 114.75,
+      "text": "Cha-cha kolam awam"
+    },
+    {
+      "t": 116.37,
+      "end": 118.99,
+      "text": "Saya terapung, tangan lepas"
+    },
+    {
+      "t": 120.27,
+      "end": 122.47,
+      "text": "Budak kecil tepuk tangan"
+    },
+    {
+      "t": 123.83,
+      "end": 126.13,
+      "text": "Pakcik tak minum klorin lagi"
+    },
+    {
+      "t": 126.13,
+      "end": 126.13,
+      "text": "[Outro - saxophone and piano montuno, chorus cheers]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

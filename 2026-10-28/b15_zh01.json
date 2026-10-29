@@ -1,0 +1,317 @@
+{
+  "id": "b15_zh01",
+  "title": "四十八種白",
+  "title_source": "scripted",
+  "genre": "Mandarin yacht rock",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "warm, amused and quietly devoted",
+  "persona": "",
+  "subject": "a man in an empty rental flat holding up forty-eight paint swatches that are all slightly different whites while his girlfriend chooses, and he paints the wall in the one she calls 'morning milk'",
+  "caption": "Mandarin yacht rock, late-1970s West Coast soft rock. Clean chorused electric guitar comping in sixteenths, warm Fender Rhodes chords, smooth fretless-style bass slides, tight live drums with rimshot backbeat, soft alto sax answering the vocal. Glossy wide studio sheen, polished and unhurried. Male tenor, relaxed smooth delivery with light falsetto lifts. 98 BPM, D major. Warm, amused and quietly devoted. No trap beats, no EDM drop, no autotune, no distorted guitars, no ballad strings.",
+  "lyrics": "[Intro - chorused guitar, Rhodes, rimshot groove]\n\n[Verse 1]\n空房子裡只有一面牆\n妳拿著四十八張色卡\n每一張都說自己是白\n我一張一張舉起來\n\n[Pre-Chorus]\n這張太冷 那張太黃\n妳瞇著眼睛想很久\n\n[Chorus]\n四十八種白 妳只要一種\n我舉到手痠也不放下\n妳說這張像早上的牛奶\n那就刷這一種\n\n[Verse 2]\n滾筒沾滿了早上的牛奶\n妳在梯子下面指揮\n左邊漏了 上面淡了\n我的臉也刷了一半\n\n[Pre-Chorus]\n油漆乾了才看得出來\n其實跟原來差不多\n\n[Chorus]\n四十八種白 妳只要一種\n我站在梯子上不想下來\n妳說這面牆像早上的牛奶\n我說像妳\n\n[Outro - sax fill over Rhodes, guitar fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Mandarin yacht rock, late-1970s West Coast soft rock. Clean chorused electric guitar comping in sixteenths, warm Fender Rhodes chords, smooth fretless-style bass slides, tight live drums with rimshot backbeat, soft alto sax answering the vocal. Glossy wide studio sheen, polished and unhurried. Male tenor, relaxed smooth delivery with light falsetto lifts. 98 BPM, D major. Warm, amused and quietly devoted. No trap beats, no EDM drop, no autotune, no distorted guitars, no ballad strings.",
+    "lyrics": "[Intro - chorused guitar, Rhodes, rimshot groove]\n\n[Verse 1]\n空房子裡只有一面牆\n妳拿著四十八張色卡\n每一張都說自己是白\n我一張一張舉起來\n\n[Pre-Chorus]\n這張太冷 那張太黃\n妳瞇著眼睛想很久\n\n[Chorus]\n四十八種白 妳只要一種\n我舉到手痠也不放下\n妳說這張像早上的牛奶\n那就刷這一種\n\n[Verse 2]\n滾筒沾滿了早上的牛奶\n妳在梯子下面指揮\n左邊漏了 上面淡了\n我的臉也刷了一半\n\n[Pre-Chorus]\n油漆乾了才看得出來\n其實跟原來差不多\n\n[Chorus]\n四十八種白 妳只要一種\n我站在梯子上不想下來\n妳說這面牆像早上的牛奶\n我說像妳\n\n[Outro - sax fill over Rhodes, guitar fades]"
+  },
+  "seed": "1195403314",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.42s**\n- 62.42s per song\n- LM phase (1 song): 14.67s\n- DiT phase (1 song): 47.75s",
+  "task_id": "8a632bd3-6e43-4038-af9f-d72a8fe24d2b",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-10-28T23:43:35.822597+08:00",
+  "audio": "b15_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.42,
+      "end": 30.42,
+      "text": "[Intro - chorused guitar, Rhodes, rimshot groove]"
+    },
+    {
+      "t": 30.42,
+      "end": 30.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.42,
+      "end": 33.34,
+      "text": "空房子裡只有一面牆"
+    },
+    {
+      "t": 35.36,
+      "end": 38.2,
+      "text": "妳拿著四十八張色卡"
+    },
+    {
+      "t": 40.54,
+      "end": 43.62,
+      "text": "每一張都說自己是白"
+    },
+    {
+      "t": 44.68,
+      "end": 45.84,
+      "text": "我一張一張舉起來"
+    },
+    {
+      "t": 45.84,
+      "end": 45.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.84,
+      "end": 58.75,
+      "text": "這張太冷 那張太黃"
+    },
+    {
+      "t": 58.81,
+      "end": 60.99,
+      "text": "妳瞇著眼睛想很久"
+    },
+    {
+      "t": 60.99,
+      "end": 60.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.99,
+      "end": 63.95,
+      "text": "四十八種白 妳只要一種"
+    },
+    {
+      "t": 63.95,
+      "end": 66.37,
+      "text": "我舉到手痠也不放下"
+    },
+    {
+      "t": 70.27,
+      "end": 74.07,
+      "text": "妳說這張像早上的牛奶"
+    },
+    {
+      "t": 75.17,
+      "end": 81.03,
+      "text": "那就刷這一種"
+    },
+    {
+      "t": 81.05,
+      "end": 81.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.05,
+      "end": 83.67,
+      "text": "滾筒沾滿了早上的牛奶"
+    },
+    {
+      "t": 85.95,
+      "end": 88.59,
+      "text": "妳在梯子下面指揮"
+    },
+    {
+      "t": 90.87,
+      "end": 93.33,
+      "text": "左邊漏了 上面淡了"
+    },
+    {
+      "t": 95.81,
+      "end": 97.91,
+      "text": "我的臉也刷了一半"
+    },
+    {
+      "t": 98.05,
+      "end": 98.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.05,
+      "end": 112.83,
+      "text": "油漆乾了才看得出來"
+    },
+    {
+      "t": 112.83,
+      "end": 113.61,
+      "text": "其實跟原來差不多"
+    },
+    {
+      "t": 114.39,
+      "end": 114.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.39,
+      "end": 117.99,
+      "text": "四十八種白 妳只要一種"
+    },
+    {
+      "t": 117.99,
+      "end": 121.19,
+      "text": "我站在梯子上不想下來"
+    },
+    {
+      "t": 122.73,
+      "end": 126.61,
+      "text": "妳說這面牆像早上的牛奶"
+    },
+    {
+      "t": 128.31,
+      "end": 144.87,
+      "text": "我說像妳"
+    },
+    {
+      "t": 144.87,
+      "end": 144.87,
+      "text": "[Outro - sax fill over Rhodes, guitar fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.42,
+      "end": 30.42,
+      "text": "[Intro - chorused guitar, Rhodes, rimshot groove]"
+    },
+    {
+      "t": 30.42,
+      "end": 30.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.42,
+      "end": 33.34,
+      "text": "空房子裡只有一面牆"
+    },
+    {
+      "t": 35.36,
+      "end": 38.2,
+      "text": "妳拿著四十八張色卡"
+    },
+    {
+      "t": 40.54,
+      "end": 43.6,
+      "text": "每一張都說自己是白"
+    },
+    {
+      "t": 44.68,
+      "end": 57.89,
+      "text": "我一張一張舉起來"
+    },
+    {
+      "t": 57.89,
+      "end": 57.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.89,
+      "end": 59.25,
+      "text": "這張太冷 那張太黃"
+    },
+    {
+      "t": 59.31,
+      "end": 60.99,
+      "text": "妳瞇著眼睛想很久"
+    },
+    {
+      "t": 60.99,
+      "end": 60.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.99,
+      "end": 63.75,
+      "text": "四十八種白 妳只要一種"
+    },
+    {
+      "t": 63.81,
+      "end": 66.35,
+      "text": "我舉到手痠也不放下"
+    },
+    {
+      "t": 70.25,
+      "end": 74.07,
+      "text": "妳說這張像早上的牛奶"
+    },
+    {
+      "t": 75.17,
+      "end": 77.27,
+      "text": "那就刷這一種"
+    },
+    {
+      "t": 81.05,
+      "end": 81.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.05,
+      "end": 83.67,
+      "text": "滾筒沾滿了早上的牛奶"
+    },
+    {
+      "t": 85.97,
+      "end": 88.57,
+      "text": "妳在梯子下面指揮"
+    },
+    {
+      "t": 90.87,
+      "end": 93.33,
+      "text": "左邊漏了 上面淡了"
+    },
+    {
+      "t": 95.81,
+      "end": 97.85,
+      "text": "我的臉也刷了一半"
+    },
+    {
+      "t": 98.07,
+      "end": 98.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.07,
+      "end": 113.35,
+      "text": "油漆乾了才看得出來"
+    },
+    {
+      "t": 113.45,
+      "end": 116.15,
+      "text": "其實跟原來差不多"
+    },
+    {
+      "t": 116.15,
+      "end": 116.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.15,
+      "end": 118.35,
+      "text": "四十八種白 妳只要一種"
+    },
+    {
+      "t": 118.35,
+      "end": 121.19,
+      "text": "我站在梯子上不想下來"
+    },
+    {
+      "t": 122.73,
+      "end": 126.59,
+      "text": "妳說這面牆像早上的牛奶"
+    },
+    {
+      "t": 128.31,
+      "end": 184.22,
+      "text": "我說像妳"
+    },
+    {
+      "t": 184.22,
+      "end": 184.22,
+      "text": "[Outro - sax fill over Rhodes, guitar fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

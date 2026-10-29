@@ -1,0 +1,429 @@
+{
+  "id": "b15_ko02",
+  "title": "벽 색깔 샘플",
+  "title_source": "scripted",
+  "genre": "Korean bedroom pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "sleepy, wry, quietly hopeful",
+  "persona": "",
+  "subject": "a tenant who tapes six paint-colour samples on her rental wall and lives with them for a week while waiting for the landlord to reply",
+  "caption": "Korean bedroom pop, soft home-recorded style. Clean electric guitar with a slow chorus wobble playing simple arpeggios, soft dusty drum machine with a muted snare, warm round bass, detuned cassette-style keys holding long chords. Lo-fi home-recorded mix with gentle tape saturation and a narrow room. Female soft low-mid vocal, half-whispered and close to the mic. 84 BPM, D major. Sleepy, wry and quietly hopeful. No big reverb drop, no trap drums, no autotune, no belting, no orchestral strings.",
+  "lyrics": "[Intro - chorus guitar, soft drum machine]\n\n[Verse 1]\n하얀 벽에 종이 여섯 장\n민트 하나 살구 하나\n집주인 답장은 아직\n읽음 표시도 없어\n\n[Pre-Chorus]\n아침엔 살구가 좋고\n밤에는 민트가 좋아\n\n[Chorus]\n아직 못 고른 내 벽\n아직 못 칠한 내 방\n일주일째 붙어 있는\n여섯 가지 색깔\n\n[Verse 2]\n친구는 회색으로 하래\n엄마는 그냥 두래\n난 매일 밤 누워서\n한 장씩 떼어 봐\n\n[Chorus]\n아직 못 고른 내 벽\n남은 건 이제 두 장\n답장이 오면 바로\n살구로 칠할래\n\n[Outro - cassette keys alone]\n살구로 칠할래",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 184.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean bedroom pop, soft home-recorded style. Clean electric guitar with a slow chorus wobble playing simple arpeggios, soft dusty drum machine with a muted snare, warm round bass, detuned cassette-style keys holding long chords. Lo-fi home-recorded mix with gentle tape saturation and a narrow room. Female soft low-mid vocal, half-whispered and close to the mic. 84 BPM, D major. Sleepy, wry and quietly hopeful. No big reverb drop, no trap drums, no autotune, no belting, no orchestral strings.",
+    "lyrics": "[Intro - chorus guitar, soft drum machine]\n\n[Verse 1]\n하얀 벽에 종이 여섯 장\n민트 하나 살구 하나\n집주인 답장은 아직\n읽음 표시도 없어\n\n[Pre-Chorus]\n아침엔 살구가 좋고\n밤에는 민트가 좋아\n\n[Chorus]\n아직 못 고른 내 벽\n아직 못 칠한 내 방\n일주일째 붙어 있는\n여섯 가지 색깔\n\n[Verse 2]\n친구는 회색으로 하래\n엄마는 그냥 두래\n난 매일 밤 누워서\n한 장씩 떼어 봐\n\n[Chorus]\n아직 못 고른 내 벽\n남은 건 이제 두 장\n답장이 오면 바로\n살구로 칠할래\n\n[Outro - cassette keys alone]\n살구로 칠할래"
+  },
+  "seed": "1311887613",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 76.79s**\n- 76.79s per song\n- LM phase (1 song): 14.19s\n- DiT phase (1 song): 62.59s",
+  "task_id": "1deaef5a-6937-44a8-b2b0-a0f9d47b64e0",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-28T23:01:27.531199+08:00",
+  "audio": "b15_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Intro - chorus guitar, soft drum machine]"
+    },
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.18,
+      "end": 34.8,
+      "text": "하얀 벽에 종이 여섯 장"
+    },
+    {
+      "t": 34.8,
+      "end": 40.3,
+      "text": "민트 하나 살구 하나"
+    },
+    {
+      "t": 40.32,
+      "end": 41.3,
+      "text": "집주인 답장은 아직"
+    },
+    {
+      "t": 41.3,
+      "end": 45.78,
+      "text": "읽음 표시도 없어"
+    },
+    {
+      "t": 45.88,
+      "end": 45.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.88,
+      "end": 48.49,
+      "text": "아침엔 살구가 좋고"
+    },
+    {
+      "t": 51.49,
+      "end": 54.17,
+      "text": "밤에는 민트가 좋아"
+    },
+    {
+      "t": 55.59,
+      "end": 55.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.59,
+      "end": 61.59,
+      "text": "아직 못 고른 내 벽"
+    },
+    {
+      "t": 61.67,
+      "end": 70.53,
+      "text": "아직 못 칠한 내 방"
+    },
+    {
+      "t": 70.63,
+      "end": 81.67,
+      "text": "일주일째 붙어 있는"
+    },
+    {
+      "t": 83.97,
+      "end": 85.55,
+      "text": "여섯 가지 색깔"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.75,
+      "end": 89.63,
+      "text": "친구는 회색으로 하래"
+    },
+    {
+      "t": 90.29,
+      "end": 95.27,
+      "text": "엄마는 그냥 두래"
+    },
+    {
+      "t": 97.03,
+      "end": 100.69,
+      "text": "난 매일 밤 누워서"
+    },
+    {
+      "t": 102.31,
+      "end": 105.35,
+      "text": "한 장씩 떼어 봐"
+    },
+    {
+      "t": 108.17,
+      "end": 108.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.17,
+      "end": 110.81,
+      "text": "아직 못 고른 내 벽"
+    },
+    {
+      "t": 110.99,
+      "end": 122.55,
+      "text": "남은 건 이제 두 장"
+    },
+    {
+      "t": 126.53,
+      "end": 128.87,
+      "text": "답장이 오면 바로"
+    },
+    {
+      "t": 129.71,
+      "end": 130.97,
+      "text": "살구로 칠할래"
+    },
+    {
+      "t": 136.45,
+      "end": 136.45,
+      "text": "[Outro - cassette keys alone]"
+    },
+    {
+      "t": 136.45,
+      "end": 153.94,
+      "text": "살구로 칠할래"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Intro - chorus guitar, soft drum machine]"
+    },
+    {
+      "t": 24.18,
+      "end": 24.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.18,
+      "end": 34.8,
+      "text": "하얀 벽에 종이 여섯 장"
+    },
+    {
+      "t": 34.8,
+      "end": 40.3,
+      "text": "민트 하나 살구 하나"
+    },
+    {
+      "t": 40.32,
+      "end": 41.3,
+      "text": "집주인 답장은 아직"
+    },
+    {
+      "t": 41.3,
+      "end": 45.78,
+      "text": "읽음 표시도 없어"
+    },
+    {
+      "t": 45.88,
+      "end": 45.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.88,
+      "end": 48.49,
+      "text": "아침엔 살구가 좋고"
+    },
+    {
+      "t": 51.49,
+      "end": 54.17,
+      "text": "밤에는 민트가 좋아"
+    },
+    {
+      "t": 55.59,
+      "end": 55.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.59,
+      "end": 61.59,
+      "text": "아직 못 고른 내 벽"
+    },
+    {
+      "t": 61.67,
+      "end": 70.53,
+      "text": "아직 못 칠한 내 방"
+    },
+    {
+      "t": 70.63,
+      "end": 81.67,
+      "text": "일주일째 붙어 있는"
+    },
+    {
+      "t": 83.97,
+      "end": 85.55,
+      "text": "여섯 가지 색깔"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.75,
+      "end": 89.63,
+      "text": "친구는 회색으로 하래"
+    },
+    {
+      "t": 90.29,
+      "end": 95.27,
+      "text": "엄마는 그냥 두래"
+    },
+    {
+      "t": 97.03,
+      "end": 100.69,
+      "text": "난 매일 밤 누워서"
+    },
+    {
+      "t": 102.31,
+      "end": 105.35,
+      "text": "한 장씩 떼어 봐"
+    },
+    {
+      "t": 108.17,
+      "end": 108.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.17,
+      "end": 110.81,
+      "text": "아직 못 고른 내 벽"
+    },
+    {
+      "t": 110.99,
+      "end": 122.55,
+      "text": "남은 건 이제 두 장"
+    },
+    {
+      "t": 126.53,
+      "end": 128.87,
+      "text": "답장이 오면 바로"
+    },
+    {
+      "t": 129.71,
+      "end": 130.97,
+      "text": "살구로 칠할래"
+    },
+    {
+      "t": 136.45,
+      "end": 136.45,
+      "text": "[Outro - cassette keys alone]"
+    },
+    {
+      "t": 136.45,
+      "end": 153.94,
+      "text": "살구로 칠할래"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 1.34,
+      "end": 1.34,
+      "text": "[Intro - chorus guitar, soft drum machine]"
+    },
+    {
+      "t": 1.34,
+      "end": 1.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.34,
+      "end": 29.48,
+      "text": "하얀 벽에 종이 여섯 장"
+    },
+    {
+      "t": 31.96,
+      "end": 40.34,
+      "text": "민트 하나 살구 하나"
+    },
+    {
+      "t": 40.44,
+      "end": 42.24,
+      "text": "집주인 답장은 아직"
+    },
+    {
+      "t": 42.26,
+      "end": 43.8,
+      "text": "읽음 표시도 없어"
+    },
+    {
+      "t": 45.88,
+      "end": 45.88,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.88,
+      "end": 48.49,
+      "text": "아침엔 살구가 좋고"
+    },
+    {
+      "t": 51.51,
+      "end": 54.15,
+      "text": "밤에는 민트가 좋아"
+    },
+    {
+      "t": 55.57,
+      "end": 55.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.57,
+      "end": 61.59,
+      "text": "아직 못 고른 내 벽"
+    },
+    {
+      "t": 61.65,
+      "end": 73.71,
+      "text": "아직 못 칠한 내 방"
+    },
+    {
+      "t": 73.75,
+      "end": 82.71,
+      "text": "일주일째 붙어 있는"
+    },
+    {
+      "t": 83.97,
+      "end": 85.53,
+      "text": "여섯 가지 색깔"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.75,
+      "end": 90.09,
+      "text": "친구는 회색으로 하래"
+    },
+    {
+      "t": 90.31,
+      "end": 95.25,
+      "text": "엄마는 그냥 두래"
+    },
+    {
+      "t": 97.05,
+      "end": 100.69,
+      "text": "난 매일 밤 누워서"
+    },
+    {
+      "t": 102.33,
+      "end": 105.37,
+      "text": "한 장씩 떼어 봐"
+    },
+    {
+      "t": 108.17,
+      "end": 108.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.17,
+      "end": 111.07,
+      "text": "아직 못 고른 내 벽"
+    },
+    {
+      "t": 119.45,
+      "end": 122.53,
+      "text": "남은 건 이제 두 장"
+    },
+    {
+      "t": 126.53,
+      "end": 128.87,
+      "text": "답장이 오면 바로"
+    },
+    {
+      "t": 129.71,
+      "end": 139.48,
+      "text": "살구로 칠할래"
+    },
+    {
+      "t": 152.68,
+      "end": 152.68,
+      "text": "[Outro - cassette keys alone]"
+    },
+    {
+      "t": 152.68,
+      "end": 153.94,
+      "text": "살구로 칠할래"
+    }
+  ]
+}

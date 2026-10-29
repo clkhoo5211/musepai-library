@@ -1,0 +1,459 @@
+{
+  "id": "b15_th05",
+  "title": "หนังสือที่ยืมครู (The Teacher's Book)",
+  "title_source": "scripted",
+  "genre": "Suntaraporn-style Thai sakon orchestra song",
+  "language": "th",
+  "language_name": "Thai",
+  "mood": "tender, nostalgic and gracious",
+  "persona": "",
+  "subject": "a man in his forties posting back a dog-eared Thai poetry book he borrowed from his primary-school teacher thirty years ago, with a short letter tucked at page forty",
+  "caption": "Suntaraporn-style Thai sakon orchestra song, 1950s Bangkok Western-style dance-band ballad. Muted trumpet melody, sweet clarinet countermelody, upright piano in gentle slow-fox rhythm, small violin section, walking upright bass, soft brushed drums. 1950s ballroom orchestra warmth with slight tape hiss. Male baritone with smooth crooning luk krung diction. 84 BPM, B-flat major. Tender, nostalgic and gracious. No modern drums, no synths, no autotune, no rock guitars, no rap.",
+  "lyrics": "[Intro - muted trumpet and clarinet, piano slow-fox]\n\n[Verse 1]\nหนังสือกลอนเล่มเก่าสีซีด\nมุมกระดาษพับไว้หลายหน้า\nชื่อครูเขียนด้วยหมึกน้ำเงิน\nยืมมาตั้งแต่ ป.ห้า\n\n[Pre-Chorus]\nสามสิบปีมันอยู่บนชั้น\nข้างกระปุกออมสินแตก\n\n[Chorus]\nวันนี้ห่อกระดาษสีน้ำตาล\nเขียนจ่าหน้าถึงคุณครูช้อย\nหน้าสี่สิบมีจดหมายน้อย\nบอกว่าผมอ่านจบแล้วครับ\n\n[Verse 2]\nครูเคยว่าเด็กคนนี้ใจลอย\nนั่งท่องกลอนผิดทุกวรรค\nวันนี้ผมสอนเด็กเหมือนกัน\nยังท่องผิดอยู่บ้างครับ\n\n[Pre-Chorus]\nไม่รู้ครูยังจำได้ไหม\nเด็กผมยาวแถวหลังห้อง\n\n[Chorus]\nวันนี้ห่อกระดาษสีน้ำตาล\nส่งคืนช้าไปสามสิบปี\nหน้าสี่สิบมีคำขอบคุณ\nที่ครูให้ยืมโดยไม่ทวง\n\n[Outro - clarinet and violins, final trumpet phrase]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Suntaraporn-style Thai sakon orchestra song, 1950s Bangkok Western-style dance-band ballad. Muted trumpet melody, sweet clarinet countermelody, upright piano in gentle slow-fox rhythm, small violin section, walking upright bass, soft brushed drums. 1950s ballroom orchestra warmth with slight tape hiss. Male baritone with smooth crooning luk krung diction. 84 BPM, B-flat major. Tender, nostalgic and gracious. No modern drums, no synths, no autotune, no rock guitars, no rap.",
+    "lyrics": "[Intro - muted trumpet and clarinet, piano slow-fox]\n\n[Verse 1]\nหนังสือกลอนเล่มเก่าสีซีด\nมุมกระดาษพับไว้หลายหน้า\nชื่อครูเขียนด้วยหมึกน้ำเงิน\nยืมมาตั้งแต่ ป.ห้า\n\n[Pre-Chorus]\nสามสิบปีมันอยู่บนชั้น\nข้างกระปุกออมสินแตก\n\n[Chorus]\nวันนี้ห่อกระดาษสีน้ำตาล\nเขียนจ่าหน้าถึงคุณครูช้อย\nหน้าสี่สิบมีจดหมายน้อย\nบอกว่าผมอ่านจบแล้วครับ\n\n[Verse 2]\nครูเคยว่าเด็กคนนี้ใจลอย\nนั่งท่องกลอนผิดทุกวรรค\nวันนี้ผมสอนเด็กเหมือนกัน\nยังท่องผิดอยู่บ้างครับ\n\n[Pre-Chorus]\nไม่รู้ครูยังจำได้ไหม\nเด็กผมยาวแถวหลังห้อง\n\n[Chorus]\nวันนี้ห่อกระดาษสีน้ำตาล\nส่งคืนช้าไปสามสิบปี\nหน้าสี่สิบมีคำขอบคุณ\nที่ครูให้ยืมโดยไม่ทวง\n\n[Outro - clarinet and violins, final trumpet phrase]\n"
+  },
+  "seed": "1263338979",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.31s**\n- 64.31s per song\n- LM phase (1 song): 14.51s\n- DiT phase (1 song): 49.79s",
+  "task_id": "c5217717-e352-4239-932b-9c159745f49b",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-28T23:34:54.237845+08:00",
+  "audio": "b15_th05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.1,
+      "end": 30.1,
+      "text": "[Intro - muted trumpet and clarinet, piano slow-fox]"
+    },
+    {
+      "t": 30.1,
+      "end": 30.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.1,
+      "end": 33.72,
+      "text": "หนังสือกลอนเล่มเก่าสีซีด"
+    },
+    {
+      "t": 35.14,
+      "end": 39.9,
+      "text": "มุมกระดาษพับไว้หลายหน้า"
+    },
+    {
+      "t": 42.24,
+      "end": 45.3,
+      "text": "ชื่อครูเขียนด้วยหมึกน้ำเงิน"
+    },
+    {
+      "t": 46.58,
+      "end": 50.28,
+      "text": "ยืมมาตั้งแต่ ป.ห้า"
+    },
+    {
+      "t": 55.11,
+      "end": 55.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.11,
+      "end": 58.85,
+      "text": "สามสิบปีมันอยู่บนชั้น"
+    },
+    {
+      "t": 60.83,
+      "end": 64.43,
+      "text": "ข้างกระปุกออมสินแตก"
+    },
+    {
+      "t": 64.43,
+      "end": 64.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.43,
+      "end": 66.23,
+      "text": "วันนี้ห่อกระดาษสีน้ำตาล"
+    },
+    {
+      "t": 67.61,
+      "end": 70.91,
+      "text": "เขียนจ่าหน้าถึงคุณครูช้อย"
+    },
+    {
+      "t": 70.93,
+      "end": 77.45,
+      "text": "หน้าสี่สิบมีจดหมายน้อย"
+    },
+    {
+      "t": 78.01,
+      "end": 81.99,
+      "text": "บอกว่าผมอ่านจบแล้วครับ"
+    },
+    {
+      "t": 91.87,
+      "end": 91.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.87,
+      "end": 96.31,
+      "text": "ครูเคยว่าเด็กคนนี้ใจลอย"
+    },
+    {
+      "t": 98.01,
+      "end": 106.87,
+      "text": "นั่งท่องกลอนผิดทุกวรรค"
+    },
+    {
+      "t": 106.91,
+      "end": 110.73,
+      "text": "วันนี้ผมสอนเด็กเหมือนกัน"
+    },
+    {
+      "t": 112.65,
+      "end": 115.89,
+      "text": "ยังท่องผิดอยู่บ้างครับ"
+    },
+    {
+      "t": 121.35,
+      "end": 121.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.35,
+      "end": 124.69,
+      "text": "ไม่รู้ครูยังจำได้ไหม"
+    },
+    {
+      "t": 126.77,
+      "end": 130.43,
+      "text": "เด็กผมยาวแถวหลังห้อง"
+    },
+    {
+      "t": 132.91,
+      "end": 132.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.91,
+      "end": 136.33,
+      "text": "วันนี้ห่อกระดาษสีน้ำตาล"
+    },
+    {
+      "t": 137.53,
+      "end": 141.11,
+      "text": "ส่งคืนช้าไปสามสิบปี"
+    },
+    {
+      "t": 143.17,
+      "end": 146.65,
+      "text": "หน้าสี่สิบมีคำขอบคุณ"
+    },
+    {
+      "t": 151.01,
+      "end": 155.59,
+      "text": "ที่ครูให้ยืมโดยไม่ทวง"
+    },
+    {
+      "t": 155.59,
+      "end": 155.59,
+      "text": "[Outro - clarinet and violins, final trumpet phrase]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.1,
+      "end": 30.1,
+      "text": "[Intro - muted trumpet and clarinet, piano slow-fox]"
+    },
+    {
+      "t": 30.1,
+      "end": 30.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.1,
+      "end": 33.72,
+      "text": "หนังสือกลอนเล่มเก่าสีซีด"
+    },
+    {
+      "t": 35.14,
+      "end": 39.9,
+      "text": "มุมกระดาษพับไว้หลายหน้า"
+    },
+    {
+      "t": 42.24,
+      "end": 45.3,
+      "text": "ชื่อครูเขียนด้วยหมึกน้ำเงิน"
+    },
+    {
+      "t": 46.58,
+      "end": 50.28,
+      "text": "ยืมมาตั้งแต่ ป.ห้า"
+    },
+    {
+      "t": 55.11,
+      "end": 55.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.11,
+      "end": 58.85,
+      "text": "สามสิบปีมันอยู่บนชั้น"
+    },
+    {
+      "t": 60.83,
+      "end": 64.43,
+      "text": "ข้างกระปุกออมสินแตก"
+    },
+    {
+      "t": 64.43,
+      "end": 64.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.43,
+      "end": 66.23,
+      "text": "วันนี้ห่อกระดาษสีน้ำตาล"
+    },
+    {
+      "t": 67.61,
+      "end": 70.91,
+      "text": "เขียนจ่าหน้าถึงคุณครูช้อย"
+    },
+    {
+      "t": 70.93,
+      "end": 77.45,
+      "text": "หน้าสี่สิบมีจดหมายน้อย"
+    },
+    {
+      "t": 78.01,
+      "end": 81.99,
+      "text": "บอกว่าผมอ่านจบแล้วครับ"
+    },
+    {
+      "t": 91.87,
+      "end": 91.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.87,
+      "end": 96.31,
+      "text": "ครูเคยว่าเด็กคนนี้ใจลอย"
+    },
+    {
+      "t": 98.01,
+      "end": 106.87,
+      "text": "นั่งท่องกลอนผิดทุกวรรค"
+    },
+    {
+      "t": 106.91,
+      "end": 110.73,
+      "text": "วันนี้ผมสอนเด็กเหมือนกัน"
+    },
+    {
+      "t": 112.65,
+      "end": 115.89,
+      "text": "ยังท่องผิดอยู่บ้างครับ"
+    },
+    {
+      "t": 121.35,
+      "end": 121.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.35,
+      "end": 124.69,
+      "text": "ไม่รู้ครูยังจำได้ไหม"
+    },
+    {
+      "t": 126.77,
+      "end": 130.43,
+      "text": "เด็กผมยาวแถวหลังห้อง"
+    },
+    {
+      "t": 132.91,
+      "end": 132.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.91,
+      "end": 136.33,
+      "text": "วันนี้ห่อกระดาษสีน้ำตาล"
+    },
+    {
+      "t": 137.53,
+      "end": 141.11,
+      "text": "ส่งคืนช้าไปสามสิบปี"
+    },
+    {
+      "t": 143.17,
+      "end": 146.65,
+      "text": "หน้าสี่สิบมีคำขอบคุณ"
+    },
+    {
+      "t": 151.01,
+      "end": 155.59,
+      "text": "ที่ครูให้ยืมโดยไม่ทวง"
+    },
+    {
+      "t": 155.59,
+      "end": 155.59,
+      "text": "[Outro - clarinet and violins, final trumpet phrase]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 7.66,
+      "end": 7.66,
+      "text": "[Intro - muted trumpet and clarinet, piano slow-fox]"
+    },
+    {
+      "t": 7.66,
+      "end": 7.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.66,
+      "end": 33.72,
+      "text": "หนังสือกลอนเล่มเก่าสีซีด"
+    },
+    {
+      "t": 35.14,
+      "end": 39.58,
+      "text": "มุมกระดาษพับไว้หลายหน้า"
+    },
+    {
+      "t": 42.24,
+      "end": 45.32,
+      "text": "ชื่อครูเขียนด้วยหมึกน้ำเงิน"
+    },
+    {
+      "t": 46.58,
+      "end": 50.58,
+      "text": "ยืมมาตั้งแต่ ป.ห้า"
+    },
+    {
+      "t": 55.11,
+      "end": 55.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.11,
+      "end": 58.85,
+      "text": "สามสิบปีมันอยู่บนชั้น"
+    },
+    {
+      "t": 60.85,
+      "end": 65.25,
+      "text": "ข้างกระปุกออมสินแตก"
+    },
+    {
+      "t": 65.35,
+      "end": 65.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.35,
+      "end": 66.73,
+      "text": "วันนี้ห่อกระดาษสีน้ำตาล"
+    },
+    {
+      "t": 67.61,
+      "end": 70.91,
+      "text": "เขียนจ่าหน้าถึงคุณครูช้อย"
+    },
+    {
+      "t": 73.65,
+      "end": 77.47,
+      "text": "หน้าสี่สิบมีจดหมายน้อย"
+    },
+    {
+      "t": 78.01,
+      "end": 81.99,
+      "text": "บอกว่าผมอ่านจบแล้วครับ"
+    },
+    {
+      "t": 91.89,
+      "end": 91.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.89,
+      "end": 96.27,
+      "text": "ครูเคยว่าเด็กคนนี้ใจลอย"
+    },
+    {
+      "t": 98.01,
+      "end": 106.89,
+      "text": "นั่งท่องกลอนผิดทุกวรรค"
+    },
+    {
+      "t": 106.93,
+      "end": 110.71,
+      "text": "วันนี้ผมสอนเด็กเหมือนกัน"
+    },
+    {
+      "t": 112.65,
+      "end": 115.89,
+      "text": "ยังท่องผิดอยู่บ้างครับ"
+    },
+    {
+      "t": 121.35,
+      "end": 121.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.35,
+      "end": 124.65,
+      "text": "ไม่รู้ครูยังจำได้ไหม"
+    },
+    {
+      "t": 126.79,
+      "end": 130.41,
+      "text": "เด็กผมยาวแถวหลังห้อง"
+    },
+    {
+      "t": 132.91,
+      "end": 132.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.91,
+      "end": 136.41,
+      "text": "วันนี้ห่อกระดาษสีน้ำตาล"
+    },
+    {
+      "t": 137.53,
+      "end": 141.13,
+      "text": "ส่งคืนช้าไปสามสิบปี"
+    },
+    {
+      "t": 143.19,
+      "end": 146.65,
+      "text": "หน้าสี่สิบมีคำขอบคุณ"
+    },
+    {
+      "t": 151.01,
+      "end": 202.9,
+      "text": "ที่ครูให้ยืมโดยไม่ทวง"
+    },
+    {
+      "t": 202.9,
+      "end": 202.9,
+      "text": "[Outro - clarinet and violins, final trumpet phrase]"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "b15_zh04",
+  "title": "牙線週",
+  "title_source": "scripted",
+  "genre": "Mandarin dancehall",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "playful, boastful and bouncy",
+  "persona": "",
+  "subject": "a man who has not flossed in a year and flosses ostentatiously for the seven days before his dental check-up, and the hygienist who sees his bleeding gums and says 'only started this week, huh'",
+  "caption": "Mandarin dancehall, early-2000s digital riddim style. Snappy rimshot snare and kick pattern, deep round sub bass, plucky steel-tongue synth melody, offbeat skank keyboard chords. Punchy sound-system low end, dry and loud, bouncy groove. Male baritone, toasting-style rhythmic chant in the verses and a sing-along chorus. 100 BPM, A minor. Playful, boastful and bouncy. No trap hi-hats, no autotune, no reggaeton dembow, no EDM build, no rock guitars.",
+  "lyrics": "[Intro - rimshot riddim, sub bass, steel-tongue plucks]\n\n[Verse 1]\n一年沒用牙線\n下禮拜要洗牙\n我買了一大盒\n早上晚上都在拉\n\n[Pre-Chorus]\n刷完再拉 拉完再刷\n鏡子前面練笑容\n\n[Chorus]\n這是我的牙線週\n七天變成好學生\n這是我的牙線週\n醫生你看我多認真\n\n[Verse 2]\n躺在椅子上張開嘴\n燈一照 她不說話\n小鏡子勾一勾\n牙齦有一點紅\n\n[Pre-Chorus]\n她說這禮拜才開始吧\n我說妳怎麼知道\n\n[Chorus]\n這是我的牙線週\n七天騙不過一個人\n這是我的牙線週\n下次我從今天開始\n\n[Outro - riddim drops to sub bass and plucks, fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Mandarin dancehall, early-2000s digital riddim style. Snappy rimshot snare and kick pattern, deep round sub bass, plucky steel-tongue synth melody, offbeat skank keyboard chords. Punchy sound-system low end, dry and loud, bouncy groove. Male baritone, toasting-style rhythmic chant in the verses and a sing-along chorus. 100 BPM, A minor. Playful, boastful and bouncy. No trap hi-hats, no autotune, no reggaeton dembow, no EDM build, no rock guitars.",
+    "lyrics": "[Intro - rimshot riddim, sub bass, steel-tongue plucks]\n\n[Verse 1]\n一年沒用牙線\n下禮拜要洗牙\n我買了一大盒\n早上晚上都在拉\n\n[Pre-Chorus]\n刷完再拉 拉完再刷\n鏡子前面練笑容\n\n[Chorus]\n這是我的牙線週\n七天變成好學生\n這是我的牙線週\n醫生你看我多認真\n\n[Verse 2]\n躺在椅子上張開嘴\n燈一照 她不說話\n小鏡子勾一勾\n牙齦有一點紅\n\n[Pre-Chorus]\n她說這禮拜才開始吧\n我說妳怎麼知道\n\n[Chorus]\n這是我的牙線週\n七天騙不過一個人\n這是我的牙線週\n下次我從今天開始\n\n[Outro - riddim drops to sub bass and plucks, fades]"
+  },
+  "seed": "2364144682",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.65s**\n- 58.65s per song\n- LM phase (1 song): 12.49s\n- DiT phase (1 song): 46.16s",
+  "task_id": "a41d1f87-5dd9-4111-a9cc-9012a9aef2ed",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-28T23:47:46.207564+08:00",
+  "audio": "b15_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.52,
+      "end": 38.52,
+      "text": "[Intro - rimshot riddim, sub bass, steel-tongue plucks]"
+    },
+    {
+      "t": 38.52,
+      "end": 38.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.52,
+      "end": 39.9,
+      "text": "一年沒用牙線"
+    },
+    {
+      "t": 40.02,
+      "end": 41.36,
+      "text": "下禮拜要洗牙"
+    },
+    {
+      "t": 48.01,
+      "end": 49.63,
+      "text": "我買了一大盒"
+    },
+    {
+      "t": 49.65,
+      "end": 50.97,
+      "text": "早上晚上都在拉"
+    },
+    {
+      "t": 63.13,
+      "end": 63.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.13,
+      "end": 66.59,
+      "text": "刷完再拉 拉完再刷"
+    },
+    {
+      "t": 66.67,
+      "end": 67.35,
+      "text": "鏡子前面練笑容"
+    },
+    {
+      "t": 67.35,
+      "end": 67.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.35,
+      "end": 68.01,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 68.01,
+      "end": 68.71,
+      "text": "七天變成好學生"
+    },
+    {
+      "t": 68.71,
+      "end": 76.93,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 76.95,
+      "end": 80.01,
+      "text": "醫生你看我多認真"
+    },
+    {
+      "t": 82.93,
+      "end": 82.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.93,
+      "end": 85.79,
+      "text": "躺在椅子上張開嘴"
+    },
+    {
+      "t": 86.27,
+      "end": 88.17,
+      "text": "燈一照 她不說話"
+    },
+    {
+      "t": 92.53,
+      "end": 93.31,
+      "text": "小鏡子勾一勾"
+    },
+    {
+      "t": 93.31,
+      "end": 94.77,
+      "text": "牙齦有一點紅"
+    },
+    {
+      "t": 94.79,
+      "end": 94.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.79,
+      "end": 96.03,
+      "text": "她說這禮拜才開始吧"
+    },
+    {
+      "t": 96.17,
+      "end": 98.63,
+      "text": "我說妳怎麼知道"
+    },
+    {
+      "t": 106.65,
+      "end": 106.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.65,
+      "end": 112.17,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 114.45,
+      "end": 119.33,
+      "text": "七天騙不過一個人"
+    },
+    {
+      "t": 119.33,
+      "end": 124.79,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 126.43,
+      "end": 129.01,
+      "text": "下次我從今天開始"
+    },
+    {
+      "t": 129.01,
+      "end": 129.01,
+      "text": "[Outro - riddim drops to sub bass and plucks, fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.52,
+      "end": 38.52,
+      "text": "[Intro - rimshot riddim, sub bass, steel-tongue plucks]"
+    },
+    {
+      "t": 38.52,
+      "end": 38.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.52,
+      "end": 39.9,
+      "text": "一年沒用牙線"
+    },
+    {
+      "t": 40.02,
+      "end": 41.36,
+      "text": "下禮拜要洗牙"
+    },
+    {
+      "t": 48.01,
+      "end": 49.63,
+      "text": "我買了一大盒"
+    },
+    {
+      "t": 49.65,
+      "end": 50.97,
+      "text": "早上晚上都在拉"
+    },
+    {
+      "t": 63.13,
+      "end": 63.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.13,
+      "end": 66.59,
+      "text": "刷完再拉 拉完再刷"
+    },
+    {
+      "t": 66.67,
+      "end": 67.35,
+      "text": "鏡子前面練笑容"
+    },
+    {
+      "t": 67.35,
+      "end": 67.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.35,
+      "end": 68.01,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 68.01,
+      "end": 68.71,
+      "text": "七天變成好學生"
+    },
+    {
+      "t": 68.71,
+      "end": 76.93,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 76.95,
+      "end": 80.01,
+      "text": "醫生你看我多認真"
+    },
+    {
+      "t": 82.93,
+      "end": 82.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.93,
+      "end": 85.79,
+      "text": "躺在椅子上張開嘴"
+    },
+    {
+      "t": 86.27,
+      "end": 88.17,
+      "text": "燈一照 她不說話"
+    },
+    {
+      "t": 92.53,
+      "end": 93.31,
+      "text": "小鏡子勾一勾"
+    },
+    {
+      "t": 93.31,
+      "end": 94.77,
+      "text": "牙齦有一點紅"
+    },
+    {
+      "t": 94.79,
+      "end": 94.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.79,
+      "end": 96.03,
+      "text": "她說這禮拜才開始吧"
+    },
+    {
+      "t": 96.17,
+      "end": 98.63,
+      "text": "我說妳怎麼知道"
+    },
+    {
+      "t": 106.65,
+      "end": 106.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.65,
+      "end": 112.17,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 114.45,
+      "end": 119.33,
+      "text": "七天騙不過一個人"
+    },
+    {
+      "t": 119.33,
+      "end": 124.79,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 126.43,
+      "end": 129.01,
+      "text": "下次我從今天開始"
+    },
+    {
+      "t": 129.01,
+      "end": 129.01,
+      "text": "[Outro - riddim drops to sub bass and plucks, fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 19.98,
+      "end": 19.98,
+      "text": "[Intro - rimshot riddim, sub bass, steel-tongue plucks]"
+    },
+    {
+      "t": 19.98,
+      "end": 19.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.98,
+      "end": 39.92,
+      "text": "一年沒用牙線"
+    },
+    {
+      "t": 40.02,
+      "end": 41.34,
+      "text": "下禮拜要洗牙"
+    },
+    {
+      "t": 41.84,
+      "end": 43.26,
+      "text": "我買了一大盒"
+    },
+    {
+      "t": 43.64,
+      "end": 46.87,
+      "text": "早上晚上都在拉"
+    },
+    {
+      "t": 47.07,
+      "end": 47.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.07,
+      "end": 50.03,
+      "text": "刷完再拉 拉完再刷"
+    },
+    {
+      "t": 50.09,
+      "end": 55.85,
+      "text": "鏡子前面練笑容"
+    },
+    {
+      "t": 56.23,
+      "end": 56.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.23,
+      "end": 63.23,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 63.73,
+      "end": 68.51,
+      "text": "七天變成好學生"
+    },
+    {
+      "t": 68.53,
+      "end": 75.15,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 76.95,
+      "end": 80.03,
+      "text": "醫生你看我多認真"
+    },
+    {
+      "t": 82.93,
+      "end": 82.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.93,
+      "end": 85.79,
+      "text": "躺在椅子上張開嘴"
+    },
+    {
+      "t": 86.27,
+      "end": 88.17,
+      "text": "燈一照 她不說話"
+    },
+    {
+      "t": 92.55,
+      "end": 92.89,
+      "text": "小鏡子勾一勾"
+    },
+    {
+      "t": 92.89,
+      "end": 93.53,
+      "text": "牙齦有一點紅"
+    },
+    {
+      "t": 93.61,
+      "end": 93.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.61,
+      "end": 95.53,
+      "text": "她說這禮拜才開始吧"
+    },
+    {
+      "t": 96.17,
+      "end": 98.65,
+      "text": "我說妳怎麼知道"
+    },
+    {
+      "t": 107.23,
+      "end": 107.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.23,
+      "end": 115.39,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 115.75,
+      "end": 120.33,
+      "text": "七天騙不過一個人"
+    },
+    {
+      "t": 120.33,
+      "end": 125.13,
+      "text": "這是我的牙線週"
+    },
+    {
+      "t": 126.41,
+      "end": 128.97,
+      "text": "下次我從今天開始"
+    },
+    {
+      "t": 128.97,
+      "end": 128.97,
+      "text": "[Outro - riddim drops to sub bass and plucks, fades]"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "id": "b15_id03",
+  "title": "Seragam Jangan Dicuci",
+  "title_source": "scripted",
+  "genre": "Indonesian whimsical harp folk-pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "bittersweet, light, nostalgic",
+  "persona": "",
+  "subject": "a girl on her last day of SMA whose white uniform shirt is covered in friends' marker signatures, hiding it in her cupboard so her mother will not put it in the wash",
+  "caption": "Indonesian whimsical harp folk-pop in the vein of mid-2020s Jakarta storyteller folk. Concert harp playing rippling arpeggios, a small glockenspiel melody, fingerpicked acoustic guitar, soft brushed snare, long cello lines. Soft airy mix with gentle plate reverb. Female mezzo-soprano, airy intimate storytelling delivery with clear diction. 92 BPM, A major. Bittersweet, light, nostalgic. No autotune, no trap beat, no EDM build, no power ballad drums, no belting.",
+  "lyrics": "[Intro - harp and glockenspiel]\n\n[Verse 1]\nSeragam putih hari terakhir\nPenuh spidol warna-warni\nAda nama Dinda di kerah\nAda gambar kucing Bima\n\n[Pre-Chorus]\nIbu panggil dari belakang\nMana bajumu, mau dicuci\n\n[Chorus]\nJangan dicuci, Bu\nBiar kotor di lemari\nTulisan ini nggak bisa\nDitulis ulang lagi\n\n[Verse 2]\nPak Darto tulis jangan bolos\nPakai huruf besar miring\nLukman cuma tulis nomor\nYang belum pernah kutelepon\n\n[Bridge - harp alone]\nKulipat pelan di rak atas\nDi bawah selimut tebal\n\n[Chorus]\nJangan dicuci, Bu\nBiar kotor di lemari\nMalam ini kubuka lagi\nNomornya kucoba nanti\n\n[Outro - harp and cello fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Indonesian whimsical harp folk-pop in the vein of mid-2020s Jakarta storyteller folk. Concert harp playing rippling arpeggios, a small glockenspiel melody, fingerpicked acoustic guitar, soft brushed snare, long cello lines. Soft airy mix with gentle plate reverb. Female mezzo-soprano, airy intimate storytelling delivery with clear diction. 92 BPM, A major. Bittersweet, light, nostalgic. No autotune, no trap beat, no EDM build, no power ballad drums, no belting.",
+    "lyrics": "[Intro - harp and glockenspiel]\n\n[Verse 1]\nSeragam putih hari terakhir\nPenuh spidol warna-warni\nAda nama Dinda di kerah\nAda gambar kucing Bima\n\n[Pre-Chorus]\nIbu panggil dari belakang\nMana bajumu, mau dicuci\n\n[Chorus]\nJangan dicuci, Bu\nBiar kotor di lemari\nTulisan ini nggak bisa\nDitulis ulang lagi\n\n[Verse 2]\nPak Darto tulis jangan bolos\nPakai huruf besar miring\nLukman cuma tulis nomor\nYang belum pernah kutelepon\n\n[Bridge - harp alone]\nKulipat pelan di rak atas\nDi bawah selimut tebal\n\n[Chorus]\nJangan dicuci, Bu\nBiar kotor di lemari\nMalam ini kubuka lagi\nNomornya kucoba nanti\n\n[Outro - harp and cello fade]"
+  },
+  "seed": "4030939199",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.52s**\n- 61.52s per song\n- LM phase (1 song): 15.79s\n- DiT phase (1 song): 45.73s",
+  "task_id": "feb67b04-ec31-4219-ac08-d9e64c87d3b2",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-28T23:18:11.866952+08:00",
+  "audio": "b15_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Intro - harp and glockenspiel]"
+    },
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.64,
+      "end": 31.28,
+      "text": "Seragam putih hari terakhir"
+    },
+    {
+      "t": 34.68,
+      "end": 38.34,
+      "text": "Penuh spidol warna-warni"
+    },
+    {
+      "t": 40.44,
+      "end": 43.88,
+      "text": "Ada nama Dinda di kerah"
+    },
+    {
+      "t": 46.0,
+      "end": 49.29,
+      "text": "Ada gambar kucing Bima"
+    },
+    {
+      "t": 51.83,
+      "end": 51.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.83,
+      "end": 55.05,
+      "text": "Ibu panggil dari belakang"
+    },
+    {
+      "t": 57.27,
+      "end": 62.71,
+      "text": "Mana bajumu, mau dicuci"
+    },
+    {
+      "t": 73.93,
+      "end": 73.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.93,
+      "end": 76.37,
+      "text": "Jangan dicuci, Bu"
+    },
+    {
+      "t": 76.89,
+      "end": 79.31,
+      "text": "Biar kotor di lemari"
+    },
+    {
+      "t": 81.73,
+      "end": 84.85,
+      "text": "Tulisan ini nggak bisa"
+    },
+    {
+      "t": 86.61,
+      "end": 89.77,
+      "text": "Ditulis ulang lagi"
+    },
+    {
+      "t": 92.85,
+      "end": 92.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.85,
+      "end": 95.91,
+      "text": "Pak Darto tulis jangan bolos"
+    },
+    {
+      "t": 98.09,
+      "end": 103.21,
+      "text": "Pakai huruf besar miring"
+    },
+    {
+      "t": 108.85,
+      "end": 113.89,
+      "text": "Lukman cuma tulis nomor"
+    },
+    {
+      "t": 113.91,
+      "end": 118.57,
+      "text": "Yang belum pernah kutelepon"
+    },
+    {
+      "t": 124.89,
+      "end": 124.89,
+      "text": "[Bridge - harp alone]"
+    },
+    {
+      "t": 124.89,
+      "end": 130.79,
+      "text": "Kulipat pelan di rak atas"
+    },
+    {
+      "t": 130.79,
+      "end": 135.57,
+      "text": "Di bawah selimut tebal"
+    },
+    {
+      "t": 139.41,
+      "end": 139.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.41,
+      "end": 142.53,
+      "text": "Jangan dicuci, Bu"
+    },
+    {
+      "t": 144.41,
+      "end": 147.88,
+      "text": "Biar kotor di lemari"
+    },
+    {
+      "t": 149.72,
+      "end": 153.26,
+      "text": "Malam ini kubuka lagi"
+    },
+    {
+      "t": 155.06,
+      "end": 160.8,
+      "text": "Nomornya kucoba nanti"
+    },
+    {
+      "t": 160.8,
+      "end": 160.8,
+      "text": "[Outro - harp and cello fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Intro - harp and glockenspiel]"
+    },
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.64,
+      "end": 31.38,
+      "text": "Seragam putih hari terakhir"
+    },
+    {
+      "t": 34.68,
+      "end": 38.36,
+      "text": "Penuh spidol warna-warni"
+    },
+    {
+      "t": 40.44,
+      "end": 43.86,
+      "text": "Ada nama Dinda di kerah"
+    },
+    {
+      "t": 46.0,
+      "end": 49.29,
+      "text": "Ada gambar kucing Bima"
+    },
+    {
+      "t": 51.85,
+      "end": 51.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.85,
+      "end": 55.09,
+      "text": "Ibu panggil dari belakang"
+    },
+    {
+      "t": 57.27,
+      "end": 62.69,
+      "text": "Mana bajumu, mau dicuci"
+    },
+    {
+      "t": 73.93,
+      "end": 73.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.93,
+      "end": 76.37,
+      "text": "Jangan dicuci, Bu"
+    },
+    {
+      "t": 76.89,
+      "end": 79.31,
+      "text": "Biar kotor di lemari"
+    },
+    {
+      "t": 81.75,
+      "end": 84.85,
+      "text": "Tulisan ini nggak bisa"
+    },
+    {
+      "t": 86.61,
+      "end": 89.75,
+      "text": "Ditulis ulang lagi"
+    },
+    {
+      "t": 92.85,
+      "end": 92.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.85,
+      "end": 95.93,
+      "text": "Pak Darto tulis jangan bolos"
+    },
+    {
+      "t": 98.09,
+      "end": 103.23,
+      "text": "Pakai huruf besar miring"
+    },
+    {
+      "t": 108.67,
+      "end": 112.45,
+      "text": "Lukman cuma tulis nomor"
+    },
+    {
+      "t": 113.91,
+      "end": 118.59,
+      "text": "Yang belum pernah kutelepon"
+    },
+    {
+      "t": 124.91,
+      "end": 124.91,
+      "text": "[Bridge - harp alone]"
+    },
+    {
+      "t": 124.91,
+      "end": 130.77,
+      "text": "Kulipat pelan di rak atas"
+    },
+    {
+      "t": 130.77,
+      "end": 136.91,
+      "text": "Di bawah selimut tebal"
+    },
+    {
+      "t": 139.41,
+      "end": 139.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.41,
+      "end": 142.55,
+      "text": "Jangan dicuci, Bu"
+    },
+    {
+      "t": 144.41,
+      "end": 147.92,
+      "text": "Biar kotor di lemari"
+    },
+    {
+      "t": 149.72,
+      "end": 153.28,
+      "text": "Malam ini kubuka lagi"
+    },
+    {
+      "t": 155.06,
+      "end": 160.8,
+      "text": "Nomornya kucoba nanti"
+    },
+    {
+      "t": 160.8,
+      "end": 160.8,
+      "text": "[Outro - harp and cello fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

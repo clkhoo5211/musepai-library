@@ -1,0 +1,287 @@
+{
+  "id": "b15_th03",
+  "title": "ใบเสร็จจาง (Faded Receipt)",
+  "title_source": "scripted",
+  "genre": "Thai UK garage (2-step)",
+  "language": "th",
+  "language_name": "Thai",
+  "mood": "bouncy, flustered and funny",
+  "persona": "",
+  "subject": "trying to return a pair of too-short trousers at a department store refund counter with a thermal receipt that has faded to blank paper",
+  "caption": "Thai UK garage, 2-step with a Bangkok twist. Shuffled 2-step drum machine with skippy swung kicks and crisp hi-hats, warm wobbling sub bass, jazzy organ stab chords, plucked synth bass line, finger snaps on the backbeat. Clean late-night club mix. Male baritone with light half-sung delivery and quick chatty lines. 132 BPM, F minor. Bouncy, flustered and funny. No trap hi-hats, no autotune, no four-on-the-floor EDM drop, no rock guitars, no ballad piano.",
+  "lyrics": "[Intro - 2-step drums, organ stabs]\n\n[Verse 1]\nกางเกงสั้นไปสองนิ้ว\nใส่แล้วโชว์ถุงเท้าลายเป็ด\nถือถุงไปเคาน์เตอร์คืนของ\nยื่นใบเสร็จอย่างมั่นใจ\n\n[Pre-Chorus]\nน้องพนักงานพลิกไปพลิกมา\nกระดาษขาวไม่เหลือสักตัว\n\n[Chorus]\nใบเสร็จจาง ใบเสร็จจาง\nหมึกหายไปไหนหมดเลย\nฉันจำได้ว่าสามร้อยเก้าสิบ\nน้องยิ้มแต่ไม่เชื่อฉัน\n\n[Verse 2]\nเปิดแอปธนาคารหาสลิป\nเลื่อนผ่านค่าชานมเป็นสิบแก้ว\nน้องหัวเราะ พี่กินเยอะนะ\nเจอแล้ว สามร้อยเก้าสิบบาท\n\n[Chorus]\nใบเสร็จจาง ใบเสร็จจาง\nแต่สลิปยังอยู่ครบ\nได้เงินคืนพร้อมคำแนะนำ\nคราวหน้าลองก่อนซื้อนะพี่\n\n[Outro - organ stabs, snaps, drums drop out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Thai UK garage, 2-step with a Bangkok twist. Shuffled 2-step drum machine with skippy swung kicks and crisp hi-hats, warm wobbling sub bass, jazzy organ stab chords, plucked synth bass line, finger snaps on the backbeat. Clean late-night club mix. Male baritone with light half-sung delivery and quick chatty lines. 132 BPM, F minor. Bouncy, flustered and funny. No trap hi-hats, no autotune, no four-on-the-floor EDM drop, no rock guitars, no ballad piano.",
+    "lyrics": "[Intro - 2-step drums, organ stabs]\n\n[Verse 1]\nกางเกงสั้นไปสองนิ้ว\nใส่แล้วโชว์ถุงเท้าลายเป็ด\nถือถุงไปเคาน์เตอร์คืนของ\nยื่นใบเสร็จอย่างมั่นใจ\n\n[Pre-Chorus]\nน้องพนักงานพลิกไปพลิกมา\nกระดาษขาวไม่เหลือสักตัว\n\n[Chorus]\nใบเสร็จจาง ใบเสร็จจาง\nหมึกหายไปไหนหมดเลย\nฉันจำได้ว่าสามร้อยเก้าสิบ\nน้องยิ้มแต่ไม่เชื่อฉัน\n\n[Verse 2]\nเปิดแอปธนาคารหาสลิป\nเลื่อนผ่านค่าชานมเป็นสิบแก้ว\nน้องหัวเราะ พี่กินเยอะนะ\nเจอแล้ว สามร้อยเก้าสิบบาท\n\n[Chorus]\nใบเสร็จจาง ใบเสร็จจาง\nแต่สลิปยังอยู่ครบ\nได้เงินคืนพร้อมคำแนะนำ\nคราวหน้าลองก่อนซื้อนะพี่\n\n[Outro - organ stabs, snaps, drums drop out]\n"
+  },
+  "seed": "249414778",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.33s**\n- 62.33s per song\n- LM phase (1 song): 15.14s\n- DiT phase (1 song): 47.19s",
+  "task_id": "a6c69476-ff6d-4403-8f37-076c480cbd52",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-28T23:32:03.972583+08:00",
+  "audio": "b15_th03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.94,
+      "end": 30.94,
+      "text": "[Intro - 2-step drums, organ stabs]"
+    },
+    {
+      "t": 30.94,
+      "end": 30.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.94,
+      "end": 34.9,
+      "text": "กางเกงสั้นไปสองนิ้ว"
+    },
+    {
+      "t": 36.26,
+      "end": 42.1,
+      "text": "ใส่แล้วโชว์ถุงเท้าลายเป็ด"
+    },
+    {
+      "t": 42.78,
+      "end": 44.3,
+      "text": "ถือถุงไปเคาน์เตอร์คืนของ"
+    },
+    {
+      "t": 43.3,
+      "end": 48.65,
+      "text": "ยื่นใบเสร็จอย่างมั่นใจ"
+    },
+    {
+      "t": 48.63,
+      "end": 48.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.63,
+      "end": 51.49,
+      "text": "น้องพนักงานพลิกไปพลิกมา"
+    },
+    {
+      "t": 52.13,
+      "end": 56.59,
+      "text": "กระดาษขาวไม่เหลือสักตัว"
+    },
+    {
+      "t": 59.0,
+      "end": 59.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.0,
+      "end": 65.01,
+      "text": "ใบเสร็จจาง ใบเสร็จจาง"
+    },
+    {
+      "t": 65.07,
+      "end": 73.19,
+      "text": "หมึกหายไปไหนหมดเลย"
+    },
+    {
+      "t": 73.19,
+      "end": 77.31,
+      "text": "ฉันจำได้ว่าสามร้อยเก้าสิบ"
+    },
+    {
+      "t": 78.69,
+      "end": 83.27,
+      "text": "น้องยิ้มแต่ไม่เชื่อฉัน"
+    },
+    {
+      "t": 88.49,
+      "end": 88.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.49,
+      "end": 93.71,
+      "text": "เปิดแอปธนาคารหาสลิป"
+    },
+    {
+      "t": 93.73,
+      "end": 101.31,
+      "text": "เลื่อนผ่านค่าชานมเป็นสิบแก้ว"
+    },
+    {
+      "t": 101.31,
+      "end": 104.87,
+      "text": "น้องหัวเราะ พี่กินเยอะนะ"
+    },
+    {
+      "t": 105.03,
+      "end": 109.75,
+      "text": "เจอแล้ว สามร้อยเก้าสิบบาท"
+    },
+    {
+      "t": 111.33,
+      "end": 111.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.33,
+      "end": 114.89,
+      "text": "ใบเสร็จจาง ใบเสร็จจาง"
+    },
+    {
+      "t": 114.99,
+      "end": 116.41,
+      "text": "แต่สลิปยังอยู่ครบ"
+    },
+    {
+      "t": 116.79,
+      "end": 120.65,
+      "text": "ได้เงินคืนพร้อมคำแนะนำ"
+    },
+    {
+      "t": 121.31,
+      "end": 151.24,
+      "text": "คราวหน้าลองก่อนซื้อนะพี่"
+    },
+    {
+      "t": 151.24,
+      "end": 151.24,
+      "text": "[Outro - organ stabs, snaps, drums drop out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.94,
+      "end": 30.94,
+      "text": "[Intro - 2-step drums, organ stabs]"
+    },
+    {
+      "t": 30.94,
+      "end": 30.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.94,
+      "end": 35.04,
+      "text": "กางเกงสั้นไปสองนิ้ว"
+    },
+    {
+      "t": 35.04,
+      "end": 36.94,
+      "text": "ใส่แล้วโชว์ถุงเท้าลายเป็ด"
+    },
+    {
+      "t": 36.96,
+      "end": 43.24,
+      "text": "ถือถุงไปเคาน์เตอร์คืนของ"
+    },
+    {
+      "t": 43.3,
+      "end": 48.65,
+      "text": "ยื่นใบเสร็จอย่างมั่นใจ"
+    },
+    {
+      "t": 48.65,
+      "end": 48.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.65,
+      "end": 51.45,
+      "text": "น้องพนักงานพลิกไปพลิกมา"
+    },
+    {
+      "t": 52.13,
+      "end": 57.35,
+      "text": "กระดาษขาวไม่เหลือสักตัว"
+    },
+    {
+      "t": 57.53,
+      "end": 57.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.53,
+      "end": 65.03,
+      "text": "ใบเสร็จจาง ใบเสร็จจาง"
+    },
+    {
+      "t": 65.11,
+      "end": 69.25,
+      "text": "หมึกหายไปไหนหมดเลย"
+    },
+    {
+      "t": 73.21,
+      "end": 77.31,
+      "text": "ฉันจำได้ว่าสามร้อยเก้าสิบ"
+    },
+    {
+      "t": 78.69,
+      "end": 83.29,
+      "text": "น้องยิ้มแต่ไม่เชื่อฉัน"
+    },
+    {
+      "t": 83.33,
+      "end": 83.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.33,
+      "end": 92.05,
+      "text": "เปิดแอปธนาคารหาสลิป"
+    },
+    {
+      "t": 92.33,
+      "end": 101.37,
+      "text": "เลื่อนผ่านค่าชานมเป็นสิบแก้ว"
+    },
+    {
+      "t": 101.37,
+      "end": 105.15,
+      "text": "น้องหัวเราะ พี่กินเยอะนะ"
+    },
+    {
+      "t": 105.47,
+      "end": 110.81,
+      "text": "เจอแล้ว สามร้อยเก้าสิบบาท"
+    },
+    {
+      "t": 111.33,
+      "end": 111.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.33,
+      "end": 114.89,
+      "text": "ใบเสร็จจาง ใบเสร็จจาง"
+    },
+    {
+      "t": 115.01,
+      "end": 116.39,
+      "text": "แต่สลิปยังอยู่ครบ"
+    },
+    {
+      "t": 116.79,
+      "end": 120.65,
+      "text": "ได้เงินคืนพร้อมคำแนะนำ"
+    },
+    {
+      "t": 121.31,
+      "end": 156.68,
+      "text": "คราวหน้าลองก่อนซื้อนะพี่"
+    },
+    {
+      "t": 156.68,
+      "end": 156.68,
+      "text": "[Outro - organ stabs, snaps, drums drop out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

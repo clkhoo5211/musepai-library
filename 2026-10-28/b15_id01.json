@@ -1,0 +1,317 @@
+{
+  "id": "b15_id01",
+  "title": "Struk di Dompetmu",
+  "title_source": "scripted",
+  "genre": "Indonesian minimalist poetic chamber pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "tender, shy, quietly glad",
+  "persona": "",
+  "subject": "a woman in Depok who borrows her boyfriend's wallet for parking change and finds a folded stack of every minimarket coffee receipt from their first month together, which he has kept without telling her",
+  "caption": "Indonesian minimalist poetic chamber pop in the mid-2020s Jakarta songwriter style. String quartet with slow sustained cello and pizzicato violins, felt grand piano playing sparse broken chords, nylon-string guitar fingerpicking, soft upright bass. Dry intimate room mix with close mics and audible bow noise. Male tenor, soft close conversational delivery, gentle falsetto on the last chorus line. 76 BPM, E-flat major. Tender, shy, quietly glad. No autotune, no trap drums, no EDM build, no rock drums, no gospel choir.",
+  "lyrics": "[Intro - felt piano and cello]\n\n[Verse 1]\nKamu pinjam dompetku\nCari receh buat parkir\nYang jatuh malah kertas\nLipatan struk kopi\n\n[Pre-Chorus]\nTanggalnya kamu baca satu-satu\nAku pura-pura lihat spion\n\n[Chorus]\nItu struk di dompetku\nKopi susu, dua gelas\nHari Senin kamu telat\nKamis kamu ketawa\n\n[Verse 2]\nKertasnya sudah pudar\nTintanya hampir hilang\nKamu bilang aku aneh\nTapi struknya kamu simpan\n\n[Bridge - pizzicato strings]\nYang paling kusut di bawah\nHari pertama kamu bilang iya\n\n[Chorus]\nItu struk di dompetku\nKopi susu, dua gelas\nSekarang kamu yang simpan\nDi dompetmu, paling atas\n\n[Outro - string quartet fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Indonesian minimalist poetic chamber pop in the mid-2020s Jakarta songwriter style. String quartet with slow sustained cello and pizzicato violins, felt grand piano playing sparse broken chords, nylon-string guitar fingerpicking, soft upright bass. Dry intimate room mix with close mics and audible bow noise. Male tenor, soft close conversational delivery, gentle falsetto on the last chorus line. 76 BPM, E-flat major. Tender, shy, quietly glad. No autotune, no trap drums, no EDM build, no rock drums, no gospel choir.",
+    "lyrics": "[Intro - felt piano and cello]\n\n[Verse 1]\nKamu pinjam dompetku\nCari receh buat parkir\nYang jatuh malah kertas\nLipatan struk kopi\n\n[Pre-Chorus]\nTanggalnya kamu baca satu-satu\nAku pura-pura lihat spion\n\n[Chorus]\nItu struk di dompetku\nKopi susu, dua gelas\nHari Senin kamu telat\nKamis kamu ketawa\n\n[Verse 2]\nKertasnya sudah pudar\nTintanya hampir hilang\nKamu bilang aku aneh\nTapi struknya kamu simpan\n\n[Bridge - pizzicato strings]\nYang paling kusut di bawah\nHari pertama kamu bilang iya\n\n[Chorus]\nItu struk di dompetku\nKopi susu, dua gelas\nSekarang kamu yang simpan\nDi dompetmu, paling atas\n\n[Outro - string quartet fades]"
+  },
+  "seed": "1182046311",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.28s**\n- 65.28s per song\n- LM phase (1 song): 10.85s\n- DiT phase (1 song): 54.43s",
+  "task_id": "7e3b8795-5eac-41b7-b2f8-ab1166c945c5",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-28T23:15:11.630997+08:00",
+  "audio": "b15_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.22,
+      "end": 25.22,
+      "text": "[Intro - felt piano and cello]"
+    },
+    {
+      "t": 25.22,
+      "end": 25.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.22,
+      "end": 29.32,
+      "text": "Kamu pinjam dompetku"
+    },
+    {
+      "t": 31.24,
+      "end": 35.06,
+      "text": "Cari receh buat parkir"
+    },
+    {
+      "t": 37.48,
+      "end": 41.04,
+      "text": "Yang jatuh malah kertas"
+    },
+    {
+      "t": 41.44,
+      "end": 44.68,
+      "text": "Lipatan struk kopi"
+    },
+    {
+      "t": 50.33,
+      "end": 50.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.33,
+      "end": 54.01,
+      "text": "Tanggalnya kamu baca satu-satu"
+    },
+    {
+      "t": 56.69,
+      "end": 60.55,
+      "text": "Aku pura-pura lihat spion"
+    },
+    {
+      "t": 60.59,
+      "end": 60.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.59,
+      "end": 62.75,
+      "text": "Itu struk di dompetku"
+    },
+    {
+      "t": 62.75,
+      "end": 67.33,
+      "text": "Kopi susu, dua gelas"
+    },
+    {
+      "t": 68.99,
+      "end": 73.01,
+      "text": "Hari Senin kamu telat"
+    },
+    {
+      "t": 74.93,
+      "end": 79.15,
+      "text": "Kamis kamu ketawa"
+    },
+    {
+      "t": 81.65,
+      "end": 81.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.65,
+      "end": 85.89,
+      "text": "Kertasnya sudah pudar"
+    },
+    {
+      "t": 87.93,
+      "end": 95.49,
+      "text": "Tintanya hampir hilang"
+    },
+    {
+      "t": 97.31,
+      "end": 101.09,
+      "text": "Kamu bilang aku aneh"
+    },
+    {
+      "t": 101.21,
+      "end": 107.01,
+      "text": "Tapi struknya kamu simpan"
+    },
+    {
+      "t": 107.01,
+      "end": 107.01,
+      "text": "[Bridge - pizzicato strings]"
+    },
+    {
+      "t": 107.01,
+      "end": 111.97,
+      "text": "Yang paling kusut di bawah"
+    },
+    {
+      "t": 113.15,
+      "end": 116.97,
+      "text": "Hari pertama kamu bilang iya"
+    },
+    {
+      "t": 117.57,
+      "end": 117.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.57,
+      "end": 123.15,
+      "text": "Itu struk di dompetku"
+    },
+    {
+      "t": 124.95,
+      "end": 154.86,
+      "text": "Kopi susu, dua gelas"
+    },
+    {
+      "t": 155.28,
+      "end": 158.88,
+      "text": "Sekarang kamu yang simpan"
+    },
+    {
+      "t": 161.82,
+      "end": 165.32,
+      "text": "Di dompetmu, paling atas"
+    },
+    {
+      "t": 165.32,
+      "end": 165.32,
+      "text": "[Outro - string quartet fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.2,
+      "end": 25.2,
+      "text": "[Intro - felt piano and cello]"
+    },
+    {
+      "t": 25.2,
+      "end": 25.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.2,
+      "end": 29.32,
+      "text": "Kamu pinjam dompetku"
+    },
+    {
+      "t": 31.24,
+      "end": 35.08,
+      "text": "Cari receh buat parkir"
+    },
+    {
+      "t": 37.5,
+      "end": 41.04,
+      "text": "Yang jatuh malah kertas"
+    },
+    {
+      "t": 41.44,
+      "end": 44.7,
+      "text": "Lipatan struk kopi"
+    },
+    {
+      "t": 50.33,
+      "end": 50.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.33,
+      "end": 53.99,
+      "text": "Tanggalnya kamu baca satu-satu"
+    },
+    {
+      "t": 56.69,
+      "end": 60.55,
+      "text": "Aku pura-pura lihat spion"
+    },
+    {
+      "t": 61.17,
+      "end": 61.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.17,
+      "end": 62.75,
+      "text": "Itu struk di dompetku"
+    },
+    {
+      "t": 62.75,
+      "end": 67.33,
+      "text": "Kopi susu, dua gelas"
+    },
+    {
+      "t": 68.99,
+      "end": 72.99,
+      "text": "Hari Senin kamu telat"
+    },
+    {
+      "t": 74.93,
+      "end": 79.15,
+      "text": "Kamis kamu ketawa"
+    },
+    {
+      "t": 81.65,
+      "end": 81.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.65,
+      "end": 85.95,
+      "text": "Kertasnya sudah pudar"
+    },
+    {
+      "t": 87.93,
+      "end": 95.49,
+      "text": "Tintanya hampir hilang"
+    },
+    {
+      "t": 97.29,
+      "end": 101.09,
+      "text": "Kamu bilang aku aneh"
+    },
+    {
+      "t": 101.21,
+      "end": 105.21,
+      "text": "Tapi struknya kamu simpan"
+    },
+    {
+      "t": 107.01,
+      "end": 107.01,
+      "text": "[Bridge - pizzicato strings]"
+    },
+    {
+      "t": 107.01,
+      "end": 112.01,
+      "text": "Yang paling kusut di bawah"
+    },
+    {
+      "t": 113.15,
+      "end": 116.99,
+      "text": "Hari pertama kamu bilang iya"
+    },
+    {
+      "t": 117.35,
+      "end": 117.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.35,
+      "end": 123.17,
+      "text": "Itu struk di dompetku"
+    },
+    {
+      "t": 124.95,
+      "end": 154.88,
+      "text": "Kopi susu, dua gelas"
+    },
+    {
+      "t": 155.3,
+      "end": 158.92,
+      "text": "Sekarang kamu yang simpan"
+    },
+    {
+      "t": 161.8,
+      "end": 180.12,
+      "text": "Di dompetmu, paling atas"
+    },
+    {
+      "t": 180.12,
+      "end": 180.12,
+      "text": "[Outro - string quartet fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

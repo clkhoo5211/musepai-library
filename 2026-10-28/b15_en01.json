@@ -1,0 +1,564 @@
+{
+  "id": "b15_en01",
+  "title": "Your Side of the Duvet",
+  "title_source": "scripted",
+  "genre": "raspy blue-eyed soul pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm, tender and amused",
+  "persona": "",
+  "subject": "a man in Leeds whose wife rolls the whole duvet around herself every night; he buys a second duvet just for himself, and every morning she is under his one anyway",
+  "caption": "Raspy blue-eyed soul pop, mid-2020s radio ballad style. Rhodes electric piano holding slow gospel-tinged chords, an upright piano doubling the hook, fingerstyle electric bass, a brushed drum kit with a soft backbeat, Hammond organ swells under the choruses. Warm live-room mix with light tape saturation and a close vocal. Male baritone with a gritty raspy belt, hushed verses rising to full-chest choruses. 74 BPM, E-flat major. Tender, warm and quietly amused. No trap drums, no autotune, no EDM drop, no gospel choir takeover, no country twang.",
+  "lyrics": "[Intro - Rhodes and brushed kit]\n\n[Verse 1]\nThree a.m., the window's open wide\nYou roll over and pull it to your side\nWrapped up like a sausage roll in white\nI'm on the edge in my socks all night\n\n[Pre-Chorus]\nI could wake you, I could pull it back\nBut your face is doing that\n\n[Chorus]\nTake your side of the duvet\nTake my side too\nI'll freeze till Monday, darling\nIf it's keeping you\n\n[Verse 2]\nSo I bought my own, a single, navy blue\nTwenty quid from Dunelm, brand new\nFolded neat beside you on the bed\nMorning comes, it's round your head\n\n[Chorus]\nTake your side of the duvet\nTake the navy too\nI'll buy a third one, darling\nAnd you'll take that too\n\n[Bridge - organ swell]\nCold feet on my knees\nThat's the deal, I guess\n\n[Chorus]\nTake your side of the duvet\nTake my side too\nI'll freeze for twenty winters\nIf I'm next to you\n\n[Outro - Rhodes alone]\nThree a.m., the window's open wide\nKeep it, love, I'm fine",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 74,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Raspy blue-eyed soul pop, mid-2020s radio ballad style. Rhodes electric piano holding slow gospel-tinged chords, an upright piano doubling the hook, fingerstyle electric bass, a brushed drum kit with a soft backbeat, Hammond organ swells under the choruses. Warm live-room mix with light tape saturation and a close vocal. Male baritone with a gritty raspy belt, hushed verses rising to full-chest choruses. 74 BPM, E-flat major. Tender, warm and quietly amused. No trap drums, no autotune, no EDM drop, no gospel choir takeover, no country twang.",
+    "lyrics": "[Intro - Rhodes and brushed kit]\n\n[Verse 1]\nThree a.m., the window's open wide\nYou roll over and pull it to your side\nWrapped up like a sausage roll in white\nI'm on the edge in my socks all night\n\n[Pre-Chorus]\nI could wake you, I could pull it back\nBut your face is doing that\n\n[Chorus]\nTake your side of the duvet\nTake my side too\nI'll freeze till Monday, darling\nIf it's keeping you\n\n[Verse 2]\nSo I bought my own, a single, navy blue\nTwenty quid from Dunelm, brand new\nFolded neat beside you on the bed\nMorning comes, it's round your head\n\n[Chorus]\nTake your side of the duvet\nTake the navy too\nI'll buy a third one, darling\nAnd you'll take that too\n\n[Bridge - organ swell]\nCold feet on my knees\nThat's the deal, I guess\n\n[Chorus]\nTake your side of the duvet\nTake my side too\nI'll freeze for twenty winters\nIf I'm next to you\n\n[Outro - Rhodes alone]\nThree a.m., the window's open wide\nKeep it, love, I'm fine"
+  },
+  "seed": "3813645201",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.11s**\n- 61.11s per song\n- LM phase (1 song): 12.18s\n- DiT phase (1 song): 48.94s",
+  "task_id": "61ccafae-6b51-40ef-8464-66248ba3a99b",
+  "elapsed_s": 80.4,
+  "generated_at": "2026-10-28T23:36:14.659119+08:00",
+  "audio": "b15_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Intro - Rhodes and brushed kit]"
+    },
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.2,
+      "end": 35.56,
+      "text": "Three a.m., the window's open wide"
+    },
+    {
+      "t": 35.56,
+      "end": 39.52,
+      "text": "You roll over and pull it to your side"
+    },
+    {
+      "t": 41.78,
+      "end": 47.26,
+      "text": "Wrapped up like a sausage roll in white"
+    },
+    {
+      "t": 47.82,
+      "end": 51.62,
+      "text": "I'm on the edge in my socks all night"
+    },
+    {
+      "t": 51.62,
+      "end": 51.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.62,
+      "end": 56.45,
+      "text": "I could wake you, I could pull it back"
+    },
+    {
+      "t": 57.83,
+      "end": 60.31,
+      "text": "But your face is doing that"
+    },
+    {
+      "t": 63.89,
+      "end": 63.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.89,
+      "end": 69.89,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 69.91,
+      "end": 72.19,
+      "text": "Take my side too"
+    },
+    {
+      "t": 72.19,
+      "end": 76.77,
+      "text": "I'll freeze till Monday, darling"
+    },
+    {
+      "t": 78.97,
+      "end": 80.07,
+      "text": "If it's keeping you"
+    },
+    {
+      "t": 84.85,
+      "end": 84.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.85,
+      "end": 89.09,
+      "text": "So I bought my own, a single, navy blue"
+    },
+    {
+      "t": 92.99,
+      "end": 96.43,
+      "text": "Twenty quid from Dunelm, brand new"
+    },
+    {
+      "t": 100.11,
+      "end": 103.89,
+      "text": "Folded neat beside you on the bed"
+    },
+    {
+      "t": 106.35,
+      "end": 109.91,
+      "text": "Morning comes, it's round your head"
+    },
+    {
+      "t": 111.19,
+      "end": 111.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.19,
+      "end": 113.15,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 115.15,
+      "end": 118.47,
+      "text": "Take the navy too"
+    },
+    {
+      "t": 118.47,
+      "end": 121.91,
+      "text": "I'll buy a third one, darling"
+    },
+    {
+      "t": 121.95,
+      "end": 123.55,
+      "text": "And you'll take that too"
+    },
+    {
+      "t": 123.55,
+      "end": 123.55,
+      "text": "[Bridge - organ swell]"
+    },
+    {
+      "t": 123.55,
+      "end": 148.31,
+      "text": "Cold feet on my knees"
+    },
+    {
+      "t": 148.31,
+      "end": 149.55,
+      "text": "That's the deal, I guess"
+    },
+    {
+      "t": 151.85,
+      "end": 151.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.85,
+      "end": 154.83,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 157.35,
+      "end": 164.54,
+      "text": "Take my side too"
+    },
+    {
+      "t": 164.64,
+      "end": 170.22,
+      "text": "I'll freeze for twenty winters"
+    },
+    {
+      "t": 170.28,
+      "end": 171.74,
+      "text": "If I'm next to you"
+    },
+    {
+      "t": 189.44,
+      "end": 189.44,
+      "text": "[Outro - Rhodes alone]"
+    },
+    {
+      "t": 189.44,
+      "end": 195.3,
+      "text": "Three a.m., the window's open wide"
+    },
+    {
+      "t": 195.3,
+      "end": 197.56,
+      "text": "Keep it, love, I'm fine"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Intro - Rhodes and brushed kit]"
+    },
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.2,
+      "end": 35.56,
+      "text": "Three a.m., the window's open wide"
+    },
+    {
+      "t": 35.56,
+      "end": 39.52,
+      "text": "You roll over and pull it to your side"
+    },
+    {
+      "t": 41.78,
+      "end": 47.26,
+      "text": "Wrapped up like a sausage roll in white"
+    },
+    {
+      "t": 47.82,
+      "end": 51.62,
+      "text": "I'm on the edge in my socks all night"
+    },
+    {
+      "t": 51.62,
+      "end": 51.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.62,
+      "end": 56.45,
+      "text": "I could wake you, I could pull it back"
+    },
+    {
+      "t": 57.83,
+      "end": 60.31,
+      "text": "But your face is doing that"
+    },
+    {
+      "t": 63.89,
+      "end": 63.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.89,
+      "end": 69.89,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 69.91,
+      "end": 72.19,
+      "text": "Take my side too"
+    },
+    {
+      "t": 72.19,
+      "end": 76.77,
+      "text": "I'll freeze till Monday, darling"
+    },
+    {
+      "t": 78.97,
+      "end": 80.07,
+      "text": "If it's keeping you"
+    },
+    {
+      "t": 84.85,
+      "end": 84.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.85,
+      "end": 89.09,
+      "text": "So I bought my own, a single, navy blue"
+    },
+    {
+      "t": 92.99,
+      "end": 96.43,
+      "text": "Twenty quid from Dunelm, brand new"
+    },
+    {
+      "t": 100.11,
+      "end": 103.89,
+      "text": "Folded neat beside you on the bed"
+    },
+    {
+      "t": 106.35,
+      "end": 109.91,
+      "text": "Morning comes, it's round your head"
+    },
+    {
+      "t": 111.19,
+      "end": 111.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.19,
+      "end": 113.15,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 115.15,
+      "end": 118.47,
+      "text": "Take the navy too"
+    },
+    {
+      "t": 118.47,
+      "end": 121.91,
+      "text": "I'll buy a third one, darling"
+    },
+    {
+      "t": 121.95,
+      "end": 123.55,
+      "text": "And you'll take that too"
+    },
+    {
+      "t": 123.55,
+      "end": 123.55,
+      "text": "[Bridge - organ swell]"
+    },
+    {
+      "t": 123.55,
+      "end": 148.31,
+      "text": "Cold feet on my knees"
+    },
+    {
+      "t": 148.31,
+      "end": 149.55,
+      "text": "That's the deal, I guess"
+    },
+    {
+      "t": 151.85,
+      "end": 151.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.85,
+      "end": 154.83,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 157.35,
+      "end": 164.54,
+      "text": "Take my side too"
+    },
+    {
+      "t": 164.64,
+      "end": 170.22,
+      "text": "I'll freeze for twenty winters"
+    },
+    {
+      "t": 170.28,
+      "end": 171.74,
+      "text": "If I'm next to you"
+    },
+    {
+      "t": 189.44,
+      "end": 189.44,
+      "text": "[Outro - Rhodes alone]"
+    },
+    {
+      "t": 189.44,
+      "end": 195.3,
+      "text": "Three a.m., the window's open wide"
+    },
+    {
+      "t": 195.3,
+      "end": 197.56,
+      "text": "Keep it, love, I'm fine"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Intro - Rhodes and brushed kit]"
+    },
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.2,
+      "end": 33.54,
+      "text": "Three a.m., the window's open wide"
+    },
+    {
+      "t": 35.54,
+      "end": 40.02,
+      "text": "You roll over and pull it to your side"
+    },
+    {
+      "t": 41.78,
+      "end": 46.14,
+      "text": "Wrapped up like a sausage roll in white"
+    },
+    {
+      "t": 47.82,
+      "end": 51.7,
+      "text": "I'm on the edge in my socks all night"
+    },
+    {
+      "t": 52.12,
+      "end": 52.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.12,
+      "end": 57.83,
+      "text": "I could wake you, I could pull it back"
+    },
+    {
+      "t": 57.83,
+      "end": 60.35,
+      "text": "But your face is doing that"
+    },
+    {
+      "t": 63.87,
+      "end": 63.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.87,
+      "end": 67.05,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 69.89,
+      "end": 73.61,
+      "text": "Take my side too"
+    },
+    {
+      "t": 73.65,
+      "end": 76.75,
+      "text": "I'll freeze till Monday, darling"
+    },
+    {
+      "t": 78.97,
+      "end": 80.07,
+      "text": "If it's keeping you"
+    },
+    {
+      "t": 84.87,
+      "end": 84.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.87,
+      "end": 89.47,
+      "text": "So I bought my own, a single, navy blue"
+    },
+    {
+      "t": 92.99,
+      "end": 96.43,
+      "text": "Twenty quid from Dunelm, brand new"
+    },
+    {
+      "t": 100.11,
+      "end": 103.91,
+      "text": "Folded neat beside you on the bed"
+    },
+    {
+      "t": 106.35,
+      "end": 110.15,
+      "text": "Morning comes, it's round your head"
+    },
+    {
+      "t": 111.21,
+      "end": 111.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.21,
+      "end": 115.37,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 115.39,
+      "end": 118.39,
+      "text": "Take the navy too"
+    },
+    {
+      "t": 118.47,
+      "end": 121.49,
+      "text": "I'll buy a third one, darling"
+    },
+    {
+      "t": 121.95,
+      "end": 126.15,
+      "text": "And you'll take that too"
+    },
+    {
+      "t": 127.43,
+      "end": 127.43,
+      "text": "[Bridge - organ swell]"
+    },
+    {
+      "t": 127.43,
+      "end": 139.77,
+      "text": "Cold feet on my knees"
+    },
+    {
+      "t": 139.77,
+      "end": 149.55,
+      "text": "That's the deal, I guess"
+    },
+    {
+      "t": 151.85,
+      "end": 151.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.85,
+      "end": 154.91,
+      "text": "Take your side of the duvet"
+    },
+    {
+      "t": 157.35,
+      "end": 164.54,
+      "text": "Take my side too"
+    },
+    {
+      "t": 164.62,
+      "end": 170.22,
+      "text": "I'll freeze for twenty winters"
+    },
+    {
+      "t": 170.28,
+      "end": 171.76,
+      "text": "If I'm next to you"
+    },
+    {
+      "t": 189.44,
+      "end": 189.44,
+      "text": "[Outro - Rhodes alone]"
+    },
+    {
+      "t": 189.44,
+      "end": 194.42,
+      "text": "Three a.m., the window's open wide"
+    },
+    {
+      "t": 195.28,
+      "end": 200.84,
+      "text": "Keep it, love, I'm fine"
+    }
+  ]
+}

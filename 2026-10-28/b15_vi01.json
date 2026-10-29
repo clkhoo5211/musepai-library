@@ -1,0 +1,307 @@
+{
+  "id": "b15_vi01",
+  "title": "Màu Cửa Nhà Tôi",
+  "title_source": "scripted",
+  "genre": "Vietnamese nhạc vàng tango",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "theatrical, stubborn and secretly amused",
+  "persona": "",
+  "subject": "a woman in Đà Lạt arguing with an old house painter over the colour of her front door, rejecting eleven sample patches on the wall until he quietly mixes the exact faded blue of the door she grew up with",
+  "caption": "Vietnamese nhạc vàng tango, 1970s Saigon ballroom style. Tango accordion pushing sharp marcato phrases; staccato piano on the off-beats; pizzicato strings with sudden bowed swells; upright bass walking the habanera pulse; crisp snare accents at phrase ends. Warm 1970s studio sound, roomy strings, faint tape hiss. Female alto in dramatic half-spoken nhạc vàng phrasing, rolled ends on long notes. 118 BPM, D minor. Theatrical, stubborn and secretly amused. No EDM beats, no trap hi-hats, no autotune, no modern pop ballad piano, no rock drums.",
+  "lyrics": "[Intro - accordion and pizzicato strings]\n\n[Verse 1]\nÔng thợ sơn quét mẫu lên tường\nMột ô xanh lá, một ô hồng\nTôi lắc đầu, ông gãi tóc\nĐà Lạt sáng nay gió lạnh lòng\n\n[Pre-Chorus]\nMười một ô màu nằm im đó\nKhông ô nào giống cánh cửa xưa\n\n[Chorus]\nKhông phải màu này đâu ông ơi\nXanh này tươi quá, xanh này mới\nCửa nhà tôi xanh màu áo bạc\nXanh như nắng cũ đã phai rồi\n\n[Verse 2]\nÔng ngồi xổm pha thêm chút xám\nNhỏ giọt vàng, khuấy chậm không nói\nRồi đưa cọ quét lên một vệt\nTôi đứng lặng, quên cả trả lời\n\n[Chorus]\nĐúng là màu này đây ông ơi\nXanh không tươi, xanh không mới\nCửa nhà tôi xanh màu áo bạc\nXanh như nắng cũ đã phai rồi\n\n[Outro - accordion fades, one snare hit]\nÔng cười bảo màu này dễ lắm\nChỉ cần chờ đủ hai mươi năm",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese nhạc vàng tango, 1970s Saigon ballroom style. Tango accordion pushing sharp marcato phrases; staccato piano on the off-beats; pizzicato strings with sudden bowed swells; upright bass walking the habanera pulse; crisp snare accents at phrase ends. Warm 1970s studio sound, roomy strings, faint tape hiss. Female alto in dramatic half-spoken nhạc vàng phrasing, rolled ends on long notes. 118 BPM, D minor. Theatrical, stubborn and secretly amused. No EDM beats, no trap hi-hats, no autotune, no modern pop ballad piano, no rock drums.",
+    "lyrics": "[Intro - accordion and pizzicato strings]\n\n[Verse 1]\nÔng thợ sơn quét mẫu lên tường\nMột ô xanh lá, một ô hồng\nTôi lắc đầu, ông gãi tóc\nĐà Lạt sáng nay gió lạnh lòng\n\n[Pre-Chorus]\nMười một ô màu nằm im đó\nKhông ô nào giống cánh cửa xưa\n\n[Chorus]\nKhông phải màu này đâu ông ơi\nXanh này tươi quá, xanh này mới\nCửa nhà tôi xanh màu áo bạc\nXanh như nắng cũ đã phai rồi\n\n[Verse 2]\nÔng ngồi xổm pha thêm chút xám\nNhỏ giọt vàng, khuấy chậm không nói\nRồi đưa cọ quét lên một vệt\nTôi đứng lặng, quên cả trả lời\n\n[Chorus]\nĐúng là màu này đây ông ơi\nXanh không tươi, xanh không mới\nCửa nhà tôi xanh màu áo bạc\nXanh như nắng cũ đã phai rồi\n\n[Outro - accordion fades, one snare hit]\nÔng cười bảo màu này dễ lắm\nChỉ cần chờ đủ hai mươi năm"
+  },
+  "seed": "1308072897",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.15s**\n- 63.15s per song\n- LM phase (1 song): 13.35s\n- DiT phase (1 song): 49.79s",
+  "task_id": "79c45dcc-120b-4660-9752-bc370650a5d0",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-28T23:22:22.396237+08:00",
+  "audio": "b15_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.78,
+      "end": 18.78,
+      "text": "[Intro - accordion and pizzicato strings]"
+    },
+    {
+      "t": 18.78,
+      "end": 18.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.78,
+      "end": 22.02,
+      "text": "Ông thợ sơn quét mẫu lên tường"
+    },
+    {
+      "t": 26.58,
+      "end": 30.94,
+      "text": "Một ô xanh lá, một ô hồng"
+    },
+    {
+      "t": 30.94,
+      "end": 35.5,
+      "text": "Tôi lắc đầu, ông gãi tóc"
+    },
+    {
+      "t": 35.5,
+      "end": 37.7,
+      "text": "Đà Lạt sáng nay gió lạnh lòng"
+    },
+    {
+      "t": 37.72,
+      "end": 37.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.72,
+      "end": 38.56,
+      "text": "Mười một ô màu nằm im đó"
+    },
+    {
+      "t": 42.16,
+      "end": 45.96,
+      "text": "Không ô nào giống cánh cửa xưa"
+    },
+    {
+      "t": 50.21,
+      "end": 50.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.21,
+      "end": 52.51,
+      "text": "Không phải màu này đâu ông ơi"
+    },
+    {
+      "t": 52.51,
+      "end": 55.43,
+      "text": "Xanh này tươi quá, xanh này mới"
+    },
+    {
+      "t": 57.57,
+      "end": 61.23,
+      "text": "Cửa nhà tôi xanh màu áo bạc"
+    },
+    {
+      "t": 61.57,
+      "end": 66.01,
+      "text": "Xanh như nắng cũ đã phai rồi"
+    },
+    {
+      "t": 76.41,
+      "end": 76.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.41,
+      "end": 97.69,
+      "text": "Ông ngồi xổm pha thêm chút xám"
+    },
+    {
+      "t": 97.69,
+      "end": 102.67,
+      "text": "Nhỏ giọt vàng, khuấy chậm không nói"
+    },
+    {
+      "t": 105.33,
+      "end": 113.37,
+      "text": "Rồi đưa cọ quét lên một vệt"
+    },
+    {
+      "t": 113.39,
+      "end": 118.01,
+      "text": "Tôi đứng lặng, quên cả trả lời"
+    },
+    {
+      "t": 126.25,
+      "end": 126.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.25,
+      "end": 129.45,
+      "text": "Đúng là màu này đây ông ơi"
+    },
+    {
+      "t": 129.63,
+      "end": 131.91,
+      "text": "Xanh không tươi, xanh không mới"
+    },
+    {
+      "t": 134.25,
+      "end": 137.59,
+      "text": "Cửa nhà tôi xanh màu áo bạc"
+    },
+    {
+      "t": 138.23,
+      "end": 142.31,
+      "text": "Xanh như nắng cũ đã phai rồi"
+    },
+    {
+      "t": 160.22,
+      "end": 160.22,
+      "text": "[Outro - accordion fades, one snare hit]"
+    },
+    {
+      "t": 160.22,
+      "end": 164.46,
+      "text": "Ông cười bảo màu này dễ lắm"
+    },
+    {
+      "t": 167.5,
+      "end": 185.4,
+      "text": "Chỉ cần chờ đủ hai mươi năm"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.76,
+      "end": 18.76,
+      "text": "[Intro - accordion and pizzicato strings]"
+    },
+    {
+      "t": 18.76,
+      "end": 18.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.76,
+      "end": 21.94,
+      "text": "Ông thợ sơn quét mẫu lên tường"
+    },
+    {
+      "t": 26.58,
+      "end": 30.96,
+      "text": "Một ô xanh lá, một ô hồng"
+    },
+    {
+      "t": 35.14,
+      "end": 36.78,
+      "text": "Tôi lắc đầu, ông gãi tóc"
+    },
+    {
+      "t": 36.78,
+      "end": 38.56,
+      "text": "Đà Lạt sáng nay gió lạnh lòng"
+    },
+    {
+      "t": 38.56,
+      "end": 38.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.56,
+      "end": 42.16,
+      "text": "Mười một ô màu nằm im đó"
+    },
+    {
+      "t": 42.16,
+      "end": 47.34,
+      "text": "Không ô nào giống cánh cửa xưa"
+    },
+    {
+      "t": 50.21,
+      "end": 50.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.21,
+      "end": 52.53,
+      "text": "Không phải màu này đâu ông ơi"
+    },
+    {
+      "t": 52.53,
+      "end": 55.47,
+      "text": "Xanh này tươi quá, xanh này mới"
+    },
+    {
+      "t": 57.57,
+      "end": 61.27,
+      "text": "Cửa nhà tôi xanh màu áo bạc"
+    },
+    {
+      "t": 61.57,
+      "end": 66.05,
+      "text": "Xanh như nắng cũ đã phai rồi"
+    },
+    {
+      "t": 76.23,
+      "end": 76.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.23,
+      "end": 97.69,
+      "text": "Ông ngồi xổm pha thêm chút xám"
+    },
+    {
+      "t": 97.69,
+      "end": 102.67,
+      "text": "Nhỏ giọt vàng, khuấy chậm không nói"
+    },
+    {
+      "t": 105.33,
+      "end": 106.05,
+      "text": "Rồi đưa cọ quét lên một vệt"
+    },
+    {
+      "t": 106.09,
+      "end": 126.17,
+      "text": "Tôi đứng lặng, quên cả trả lời"
+    },
+    {
+      "t": 126.25,
+      "end": 126.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.25,
+      "end": 129.47,
+      "text": "Đúng là màu này đây ông ơi"
+    },
+    {
+      "t": 129.65,
+      "end": 131.91,
+      "text": "Xanh không tươi, xanh không mới"
+    },
+    {
+      "t": 134.27,
+      "end": 137.61,
+      "text": "Cửa nhà tôi xanh màu áo bạc"
+    },
+    {
+      "t": 138.23,
+      "end": 142.55,
+      "text": "Xanh như nắng cũ đã phai rồi"
+    },
+    {
+      "t": 160.22,
+      "end": 160.22,
+      "text": "[Outro - accordion fades, one snare hit]"
+    },
+    {
+      "t": 160.22,
+      "end": 164.46,
+      "text": "Ông cười bảo màu này dễ lắm"
+    },
+    {
+      "t": 167.5,
+      "end": 185.42,
+      "text": "Chỉ cần chờ đủ hai mươi năm"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

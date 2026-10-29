@@ -1,0 +1,367 @@
+{
+  "id": "b15_en03",
+  "title": "Day Three Hundred Sixty-Six",
+  "title_source": "scripted",
+  "genre": "Bay Area thrash metal",
+  "language": "en",
+  "language_name": "English",
+  "mood": "furious, ridiculous and righteous",
+  "persona": "",
+  "subject": "a man whose kettle dies on day 366 of its one-year warranty, who storms the electrical shop with the receipt and a calendar, and is offered ten percent off a new kettle",
+  "caption": "Bay Area thrash metal, mid-80s style. Two palm-muted downpicked electric guitars playing fast chugging riffs, an overdriven bass locked to them, galloping double-kick drums with a cracking snare, one short shredded guitar solo. Tight dry 80s thrash production with scooped mids. Male lead in a barked mid-range thrash shout with clear diction, gang shouts on the hook. 184 BPM, E minor. Furious, ridiculous and righteous. No nu-metal rap, no deathcore growls or breakdowns, no autotune, no pop chorus, no symphonic keys.",
+  "lyrics": "[Intro - galloping riff and double kick]\n\n[Verse 1]\nMorning brew, I flick the switch\nNot a spark and not a hiss\nTurn the box, the sticker reads\nOne year cover, guaranteed\n\n[Pre-Chorus]\nCount the days on the calendar\nThree six six, one day too far\n\n[Chorus]\nDay three hundred sixty-six\nKettle dead and nothing fixed\nDay three hundred sixty-six\nLeap year, mate, I know your tricks\n\n[Verse 2]\nDown the high street, receipt in hand\nKettle tucked beneath my arm\nLad in blue just shakes his head\nShould have died a day ahead\n\n[Chorus]\nDay three hundred sixty-six\nPolicy says no to this\nDay three hundred sixty-six\nSmall print says you take the hit\n\n[Bridge - guitar solo]\n\n[Chorus]\nDay three hundred sixty-six\nTen percent off, that's the fix\nDay three hundred sixty-six\nBoil it in a pan, that's it\n\n[Outro - final riff and stop]\nNew kettle, same brand, same shop\nMark the date and watch the clock",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 184,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Bay Area thrash metal, mid-80s style. Two palm-muted downpicked electric guitars playing fast chugging riffs, an overdriven bass locked to them, galloping double-kick drums with a cracking snare, one short shredded guitar solo. Tight dry 80s thrash production with scooped mids. Male lead in a barked mid-range thrash shout with clear diction, gang shouts on the hook. 184 BPM, E minor. Furious, ridiculous and righteous. No nu-metal rap, no deathcore growls or breakdowns, no autotune, no pop chorus, no symphonic keys.",
+    "lyrics": "[Intro - galloping riff and double kick]\n\n[Verse 1]\nMorning brew, I flick the switch\nNot a spark and not a hiss\nTurn the box, the sticker reads\nOne year cover, guaranteed\n\n[Pre-Chorus]\nCount the days on the calendar\nThree six six, one day too far\n\n[Chorus]\nDay three hundred sixty-six\nKettle dead and nothing fixed\nDay three hundred sixty-six\nLeap year, mate, I know your tricks\n\n[Verse 2]\nDown the high street, receipt in hand\nKettle tucked beneath my arm\nLad in blue just shakes his head\nShould have died a day ahead\n\n[Chorus]\nDay three hundred sixty-six\nPolicy says no to this\nDay three hundred sixty-six\nSmall print says you take the hit\n\n[Bridge - guitar solo]\n\n[Chorus]\nDay three hundred sixty-six\nTen percent off, that's the fix\nDay three hundred sixty-six\nBoil it in a pan, that's it\n\n[Outro - final riff and stop]\nNew kettle, same brand, same shop\nMark the date and watch the clock"
+  },
+  "seed": "3960526092",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.16s**\n- 59.16s per song\n- LM phase (1 song): 14.75s\n- DiT phase (1 song): 44.41s",
+  "task_id": "e9c254f3-e695-4fd2-b79c-33e49246c8fa",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-10-29T00:50:59.185895+08:00",
+  "audio": "b15_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.08,
+      "end": 4.08,
+      "text": "[Intro - galloping riff and double kick]"
+    },
+    {
+      "t": 4.08,
+      "end": 4.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.08,
+      "end": 11.4,
+      "text": "Morning brew, I flick the switch"
+    },
+    {
+      "t": 11.4,
+      "end": 49.23,
+      "text": "Not a spark and not a hiss"
+    },
+    {
+      "t": 49.23,
+      "end": 50.27,
+      "text": "Turn the box, the sticker reads"
+    },
+    {
+      "t": 50.37,
+      "end": 53.95,
+      "text": "One year cover, guaranteed"
+    },
+    {
+      "t": 53.99,
+      "end": 53.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.99,
+      "end": 56.81,
+      "text": "Count the days on the calendar"
+    },
+    {
+      "t": 58.67,
+      "end": 62.11,
+      "text": "Three six six, one day too far"
+    },
+    {
+      "t": 62.11,
+      "end": 62.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.11,
+      "end": 69.69,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 69.69,
+      "end": 74.89,
+      "text": "Kettle dead and nothing fixed"
+    },
+    {
+      "t": 74.93,
+      "end": 81.25,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 81.31,
+      "end": 84.01,
+      "text": "Leap year, mate, I know your tricks"
+    },
+    {
+      "t": 84.11,
+      "end": 84.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.11,
+      "end": 86.57,
+      "text": "Down the high street, receipt in hand"
+    },
+    {
+      "t": 86.81,
+      "end": 89.33,
+      "text": "Kettle tucked beneath my arm"
+    },
+    {
+      "t": 89.47,
+      "end": 91.83,
+      "text": "Lad in blue just shakes his head"
+    },
+    {
+      "t": 92.11,
+      "end": 95.09,
+      "text": "Should have died a day ahead"
+    },
+    {
+      "t": 95.15,
+      "end": 95.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.15,
+      "end": 97.15,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 97.45,
+      "end": 102.11,
+      "text": "Policy says no to this"
+    },
+    {
+      "t": 102.49,
+      "end": 107.73,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 109.53,
+      "end": 111.83,
+      "text": "Small print says you take the hit"
+    },
+    {
+      "t": 111.95,
+      "end": 111.95,
+      "text": "[Bridge - guitar solo]"
+    },
+    {
+      "t": 111.95,
+      "end": 111.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.95,
+      "end": 148.12,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 148.12,
+      "end": 150.0,
+      "text": "Ten percent off, that's the fix"
+    },
+    {
+      "t": 150.12,
+      "end": 153.32,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 153.48,
+      "end": 164.66,
+      "text": "Boil it in a pan, that's it"
+    },
+    {
+      "t": 168.92,
+      "end": 168.92,
+      "text": "[Outro - final riff and stop]"
+    },
+    {
+      "t": 168.92,
+      "end": 171.94,
+      "text": "New kettle, same brand, same shop"
+    },
+    {
+      "t": 174.12,
+      "end": 177.46,
+      "text": "Mark the date and watch the clock"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 48.11,
+      "end": 48.11,
+      "text": "[Intro - galloping riff and double kick]"
+    },
+    {
+      "t": 48.11,
+      "end": 48.11,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.11,
+      "end": 50.31,
+      "text": "Morning brew, I flick the switch"
+    },
+    {
+      "t": 50.35,
+      "end": 51.45,
+      "text": "Not a spark and not a hiss"
+    },
+    {
+      "t": 53.41,
+      "end": 55.85,
+      "text": "Turn the box, the sticker reads"
+    },
+    {
+      "t": 55.87,
+      "end": 56.55,
+      "text": "One year cover, guaranteed"
+    },
+    {
+      "t": 56.55,
+      "end": 56.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.55,
+      "end": 57.71,
+      "text": "Count the days on the calendar"
+    },
+    {
+      "t": 58.67,
+      "end": 62.19,
+      "text": "Three six six, one day too far"
+    },
+    {
+      "t": 62.19,
+      "end": 62.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.19,
+      "end": 69.61,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 69.61,
+      "end": 74.77,
+      "text": "Kettle dead and nothing fixed"
+    },
+    {
+      "t": 74.91,
+      "end": 81.69,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 81.69,
+      "end": 83.99,
+      "text": "Leap year, mate, I know your tricks"
+    },
+    {
+      "t": 84.11,
+      "end": 84.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.11,
+      "end": 86.55,
+      "text": "Down the high street, receipt in hand"
+    },
+    {
+      "t": 86.79,
+      "end": 89.39,
+      "text": "Kettle tucked beneath my arm"
+    },
+    {
+      "t": 89.47,
+      "end": 91.85,
+      "text": "Lad in blue just shakes his head"
+    },
+    {
+      "t": 92.13,
+      "end": 95.09,
+      "text": "Should have died a day ahead"
+    },
+    {
+      "t": 95.13,
+      "end": 95.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.13,
+      "end": 102.63,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 102.79,
+      "end": 104.53,
+      "text": "Policy says no to this"
+    },
+    {
+      "t": 104.53,
+      "end": 107.71,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 109.53,
+      "end": 112.21,
+      "text": "Small print says you take the hit"
+    },
+    {
+      "t": 112.21,
+      "end": 112.21,
+      "text": "[Bridge - guitar solo]"
+    },
+    {
+      "t": 112.21,
+      "end": 112.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.21,
+      "end": 147.88,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 148.16,
+      "end": 150.58,
+      "text": "Ten percent off, that's the fix"
+    },
+    {
+      "t": 150.58,
+      "end": 153.2,
+      "text": "Day three hundred sixty-six"
+    },
+    {
+      "t": 153.48,
+      "end": 159.94,
+      "text": "Boil it in a pan, that's it"
+    },
+    {
+      "t": 168.92,
+      "end": 168.92,
+      "text": "[Outro - final riff and stop]"
+    },
+    {
+      "t": 168.92,
+      "end": 171.94,
+      "text": "New kettle, same brand, same shop"
+    },
+    {
+      "t": 174.12,
+      "end": 177.42,
+      "text": "Mark the date and watch the clock"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

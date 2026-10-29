@@ -1,0 +1,337 @@
+{
+  "id": "b15_ja03",
+  "title": "チョキしか出せない",
+  "title_source": "scripted",
+  "genre": "Japanese Group Sounds beat revival",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "teasing, warm and quietly in love",
+  "persona": "",
+  "subject": "a young man who loses rock-paper-scissors to his girlfriend every burnable-garbage morning over who takes the bags out, and admits in the song that he knows she always throws rock and plays scissors on purpose so he can walk her to the corner",
+  "caption": "Japanese Group Sounds beat revival, mid-60s GS beat pop. A fuzz electric guitar riff opening each section, jangling twelve-string guitar strums, a bright Vox-style combo organ, melodic bass walking under the chorus, tambourine and a snappy dry drum kit. Mid-60s room sound, spring reverb on guitar, warm tape saturation. Male tenor lead with a slight crooner vibrato, three-part backing harmonies singing 'wa-wa' answers. 132 BPM, G major. Teasing, warm and quietly in love. No modern trap drums, no autotune, no synth pads, no metal distortion, no rap.",
+  "lyrics": "[Intro - fuzz guitar riff, combo organ, tambourine]\n\n[Verse 1]\n火曜と金曜 燃えるゴミの日\n玄関で君と じゃんけんぽん\n君はいつでも グーを出す\n僕はやっぱり チョキを出す\n\n[Pre-Chorus]\n負けたね なんて笑う君\nゴミ袋 二つ持たされる\n\n[Chorus]\nチョキしか出せない 朝がある\n角まで君と 歩けるから\nチョキしか出せない 僕のこと\n君はたぶん 知らないだろう\n\n[Verse 2]\nカラスよけの ネットをかけて\n君は駅へと 手をふった\nたまにはパーを 出してみたら\n一日ずっと さみしかった\n\n[Pre-Chorus]\n次の金曜 また玄関\n君の手はもう 握られてる\n\n[Chorus]\nチョキしか出せない 朝がいい\n角まで君と 歩けるから\nチョキしか出せない 僕のこと\n君はたぶん 知ってるだろう\n\n[Outro - organ, fuzz guitar fades]\nじゃんけんぽん\nまた負けた",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese Group Sounds beat revival, mid-60s GS beat pop. A fuzz electric guitar riff opening each section, jangling twelve-string guitar strums, a bright Vox-style combo organ, melodic bass walking under the chorus, tambourine and a snappy dry drum kit. Mid-60s room sound, spring reverb on guitar, warm tape saturation. Male tenor lead with a slight crooner vibrato, three-part backing harmonies singing 'wa-wa' answers. 132 BPM, G major. Teasing, warm and quietly in love. No modern trap drums, no autotune, no synth pads, no metal distortion, no rap.",
+    "lyrics": "[Intro - fuzz guitar riff, combo organ, tambourine]\n\n[Verse 1]\n火曜と金曜 燃えるゴミの日\n玄関で君と じゃんけんぽん\n君はいつでも グーを出す\n僕はやっぱり チョキを出す\n\n[Pre-Chorus]\n負けたね なんて笑う君\nゴミ袋 二つ持たされる\n\n[Chorus]\nチョキしか出せない 朝がある\n角まで君と 歩けるから\nチョキしか出せない 僕のこと\n君はたぶん 知らないだろう\n\n[Verse 2]\nカラスよけの ネットをかけて\n君は駅へと 手をふった\nたまにはパーを 出してみたら\n一日ずっと さみしかった\n\n[Pre-Chorus]\n次の金曜 また玄関\n君の手はもう 握られてる\n\n[Chorus]\nチョキしか出せない 朝がいい\n角まで君と 歩けるから\nチョキしか出せない 僕のこと\n君はたぶん 知ってるだろう\n\n[Outro - organ, fuzz guitar fades]\nじゃんけんぽん\nまた負けた"
+  },
+  "seed": "524707632",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.54s**\n- 55.54s per song\n- LM phase (1 song): 10.50s\n- DiT phase (1 song): 45.04s",
+  "task_id": "6b9433b5-459f-43c4-9d7a-59d2b57cc444",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-28T23:53:16.743574+08:00",
+  "audio": "b15_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.28,
+      "end": 17.28,
+      "text": "[Intro - fuzz guitar riff, combo organ, tambourine]"
+    },
+    {
+      "t": 17.28,
+      "end": 17.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.28,
+      "end": 20.62,
+      "text": "火曜と金曜 燃えるゴミの日"
+    },
+    {
+      "t": 24.58,
+      "end": 28.48,
+      "text": "玄関で君と じゃんけんぽん"
+    },
+    {
+      "t": 31.32,
+      "end": 35.14,
+      "text": "君はいつでも グーを出す"
+    },
+    {
+      "t": 35.26,
+      "end": 39.64,
+      "text": "僕はやっぱり チョキを出す"
+    },
+    {
+      "t": 39.84,
+      "end": 39.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.84,
+      "end": 42.48,
+      "text": "負けたね なんて笑う君"
+    },
+    {
+      "t": 46.1,
+      "end": 50.15,
+      "text": "ゴミ袋 二つ持たされる"
+    },
+    {
+      "t": 52.95,
+      "end": 52.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.95,
+      "end": 56.53,
+      "text": "チョキしか出せない 朝がある"
+    },
+    {
+      "t": 56.63,
+      "end": 61.53,
+      "text": "角まで君と 歩けるから"
+    },
+    {
+      "t": 61.59,
+      "end": 67.01,
+      "text": "チョキしか出せない 僕のこと"
+    },
+    {
+      "t": 67.97,
+      "end": 71.55,
+      "text": "君はたぶん 知らないだろう"
+    },
+    {
+      "t": 71.65,
+      "end": 71.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.65,
+      "end": 75.23,
+      "text": "カラスよけの ネットをかけて"
+    },
+    {
+      "t": 78.71,
+      "end": 82.51,
+      "text": "君は駅へと 手をふった"
+    },
+    {
+      "t": 86.03,
+      "end": 90.03,
+      "text": "たまにはパーを 出してみたら"
+    },
+    {
+      "t": 90.19,
+      "end": 94.43,
+      "text": "一日ずっと さみしかった"
+    },
+    {
+      "t": 94.43,
+      "end": 94.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.43,
+      "end": 98.01,
+      "text": "次の金曜 また玄関"
+    },
+    {
+      "t": 100.39,
+      "end": 104.69,
+      "text": "君の手はもう 握られてる"
+    },
+    {
+      "t": 107.47,
+      "end": 107.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.47,
+      "end": 115.09,
+      "text": "チョキしか出せない 朝がいい"
+    },
+    {
+      "t": 115.19,
+      "end": 119.41,
+      "text": "角まで君と 歩けるから"
+    },
+    {
+      "t": 124.17,
+      "end": 142.8,
+      "text": "チョキしか出せない 僕のこと"
+    },
+    {
+      "t": 142.96,
+      "end": 154.14,
+      "text": "君はたぶん 知ってるだろう"
+    },
+    {
+      "t": 155.4,
+      "end": 155.4,
+      "text": "[Outro - organ, fuzz guitar fades]"
+    },
+    {
+      "t": 155.4,
+      "end": 161.24,
+      "text": "じゃんけんぽん"
+    },
+    {
+      "t": 161.26,
+      "end": 162.98,
+      "text": "また負けた"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.28,
+      "end": 17.28,
+      "text": "[Intro - fuzz guitar riff, combo organ, tambourine]"
+    },
+    {
+      "t": 17.28,
+      "end": 17.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.28,
+      "end": 20.82,
+      "text": "火曜と金曜 燃えるゴミの日"
+    },
+    {
+      "t": 24.56,
+      "end": 28.48,
+      "text": "玄関で君と じゃんけんぽん"
+    },
+    {
+      "t": 31.32,
+      "end": 35.14,
+      "text": "君はいつでも グーを出す"
+    },
+    {
+      "t": 35.26,
+      "end": 39.64,
+      "text": "僕はやっぱり チョキを出す"
+    },
+    {
+      "t": 39.84,
+      "end": 39.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.84,
+      "end": 42.48,
+      "text": "負けたね なんて笑う君"
+    },
+    {
+      "t": 46.1,
+      "end": 47.85,
+      "text": "ゴミ袋 二つ持たされる"
+    },
+    {
+      "t": 47.95,
+      "end": 47.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.95,
+      "end": 49.47,
+      "text": "チョキしか出せない 朝がある"
+    },
+    {
+      "t": 49.53,
+      "end": 52.21,
+      "text": "角まで君と 歩けるから"
+    },
+    {
+      "t": 52.95,
+      "end": 57.19,
+      "text": "チョキしか出せない 僕のこと"
+    },
+    {
+      "t": 60.01,
+      "end": 68.01,
+      "text": "君はたぶん 知らないだろう"
+    },
+    {
+      "t": 68.01,
+      "end": 68.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.01,
+      "end": 71.55,
+      "text": "カラスよけの ネットをかけて"
+    },
+    {
+      "t": 71.65,
+      "end": 82.51,
+      "text": "君は駅へと 手をふった"
+    },
+    {
+      "t": 86.01,
+      "end": 90.03,
+      "text": "たまにはパーを 出してみたら"
+    },
+    {
+      "t": 90.37,
+      "end": 94.43,
+      "text": "一日ずっと さみしかった"
+    },
+    {
+      "t": 94.43,
+      "end": 94.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.43,
+      "end": 97.29,
+      "text": "次の金曜 また玄関"
+    },
+    {
+      "t": 97.45,
+      "end": 101.63,
+      "text": "君の手はもう 握られてる"
+    },
+    {
+      "t": 101.65,
+      "end": 101.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.65,
+      "end": 103.53,
+      "text": "チョキしか出せない 朝がいい"
+    },
+    {
+      "t": 103.59,
+      "end": 107.45,
+      "text": "角まで君と 歩けるから"
+    },
+    {
+      "t": 107.47,
+      "end": 112.13,
+      "text": "チョキしか出せない 僕のこと"
+    },
+    {
+      "t": 114.99,
+      "end": 133.29,
+      "text": "君はたぶん 知ってるだろう"
+    },
+    {
+      "t": 138.35,
+      "end": 138.35,
+      "text": "[Outro - organ, fuzz guitar fades]"
+    },
+    {
+      "t": 138.35,
+      "end": 139.58,
+      "text": "じゃんけんぽん"
+    },
+    {
+      "t": 161.26,
+      "end": 162.98,
+      "text": "また負けた"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,474 @@
+{
+  "id": "b15_ja05",
+  "title": "名前入りの弁当箱",
+  "title_source": "scripted",
+  "genre": "Japanese Celtic folk-pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "gentle, amused and fond",
+  "persona": "",
+  "subject": "a thirty-year-old woman who finds her old primary-school bento box at her mother's house with her name still written on the lid in her mother's marker, takes it back to the city and starts carrying lunch to the office in it, and her colleague asks whose name that is",
+  "caption": "Japanese Celtic folk-pop with an Irish session feel. A lilting tin whistle melody, a fiddle doubling the hook, bouzouki strumming a driving jig-like rhythm, bodhrán frame drum pulses, steady acoustic guitar. Intimate wooden-room acoustic recording with light natural reverb. Female alto lead, clear and close to the mic, a soft second harmony on the chorus. 112 BPM, D major. Gentle, amused and fond. No synth pads, no trap beat, no autotune, no orchestral strings swell, no drum machine.",
+  "lyrics": "[Intro - tin whistle, bouzouki, bodhrán]\n\n[Verse 1]\n実家の棚の いちばん奥\nうさぎの絵の 弁当箱\nふたの裏に 黒いペンで\nひらがなの わたしの名前\n\n[Pre-Chorus]\n母さんの字は 少しかたむく\n三十年 消えなかった\n\n[Chorus]\n名前入りの 弁当箱\nカバンに入れて 電車に乗る\n名前入りの 弁当箱\n小さすぎて おにぎり二つ\n\n[Verse 2]\n会社の机で ふたをあける\nとなりの席の 佐藤さん\nそれ誰の名前 と聞くから\nわたしのだよと 笑っておいた\n\n[Pre-Chorus]\n迷子にならない ように書いた\n母さんはそう 言ってたっけ\n\n[Chorus]\n名前入りの 弁当箱\nもう迷子には ならないよ\n名前入りの 弁当箱\n明日は卵焼き 入れていこう\n\n[Outro - fiddle and tin whistle fade]\nひらがなの わたしの名前",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Japanese Celtic folk-pop with an Irish session feel. A lilting tin whistle melody, a fiddle doubling the hook, bouzouki strumming a driving jig-like rhythm, bodhrán frame drum pulses, steady acoustic guitar. Intimate wooden-room acoustic recording with light natural reverb. Female alto lead, clear and close to the mic, a soft second harmony on the chorus. 112 BPM, D major. Gentle, amused and fond. No synth pads, no trap beat, no autotune, no orchestral strings swell, no drum machine.",
+    "lyrics": "[Intro - tin whistle, bouzouki, bodhrán]\n\n[Verse 1]\n実家の棚の いちばん奥\nうさぎの絵の 弁当箱\nふたの裏に 黒いペンで\nひらがなの わたしの名前\n\n[Pre-Chorus]\n母さんの字は 少しかたむく\n三十年 消えなかった\n\n[Chorus]\n名前入りの 弁当箱\nカバンに入れて 電車に乗る\n名前入りの 弁当箱\n小さすぎて おにぎり二つ\n\n[Verse 2]\n会社の机で ふたをあける\nとなりの席の 佐藤さん\nそれ誰の名前 と聞くから\nわたしのだよと 笑っておいた\n\n[Pre-Chorus]\n迷子にならない ように書いた\n母さんはそう 言ってたっけ\n\n[Chorus]\n名前入りの 弁当箱\nもう迷子には ならないよ\n名前入りの 弁当箱\n明日は卵焼き 入れていこう\n\n[Outro - fiddle and tin whistle fade]\nひらがなの わたしの名前"
+  },
+  "seed": "2343672572",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.80s**\n- 61.80s per song\n- LM phase (1 song): 13.52s\n- DiT phase (1 song): 48.28s",
+  "task_id": "8b50b37a-7c82-429a-bc74-4ae64a7c174d",
+  "elapsed_s": 80.5,
+  "generated_at": "2026-10-29T00:57:50.423964+08:00",
+  "audio": "b15_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.44,
+      "end": 35.44,
+      "text": "[Intro - tin whistle, bouzouki, bodhrán]"
+    },
+    {
+      "t": 35.44,
+      "end": 35.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.44,
+      "end": 38.72,
+      "text": "実家の棚の いちばん奥"
+    },
+    {
+      "t": 38.88,
+      "end": 40.6,
+      "text": "うさぎの絵の 弁当箱"
+    },
+    {
+      "t": 40.6,
+      "end": 41.76,
+      "text": "ふたの裏に 黒いペンで"
+    },
+    {
+      "t": 42.16,
+      "end": 45.2,
+      "text": "ひらがなの わたしの名前"
+    },
+    {
+      "t": 45.2,
+      "end": 45.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.2,
+      "end": 47.2,
+      "text": "母さんの字は 少しかたむく"
+    },
+    {
+      "t": 47.2,
+      "end": 47.96,
+      "text": "三十年 消えなかった"
+    },
+    {
+      "t": 47.96,
+      "end": 47.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.96,
+      "end": 48.99,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 48.99,
+      "end": 51.15,
+      "text": "カバンに入れて 電車に乗る"
+    },
+    {
+      "t": 51.17,
+      "end": 52.01,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 52.01,
+      "end": 69.81,
+      "text": "小さすぎて おにぎり二つ"
+    },
+    {
+      "t": 69.81,
+      "end": 69.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.81,
+      "end": 73.09,
+      "text": "会社の机で ふたをあける"
+    },
+    {
+      "t": 73.47,
+      "end": 77.41,
+      "text": "となりの席の 佐藤さん"
+    },
+    {
+      "t": 77.95,
+      "end": 81.49,
+      "text": "それ誰の名前 と聞くから"
+    },
+    {
+      "t": 82.03,
+      "end": 85.83,
+      "text": "わたしのだよと 笑っておいた"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 86.75,
+      "end": 89.91,
+      "text": "迷子にならない ように書いた"
+    },
+    {
+      "t": 90.69,
+      "end": 95.59,
+      "text": "母さんはそう 言ってたっけ"
+    },
+    {
+      "t": 96.23,
+      "end": 96.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.23,
+      "end": 104.09,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 104.15,
+      "end": 106.83,
+      "text": "もう迷子には ならないよ"
+    },
+    {
+      "t": 107.49,
+      "end": 142.47,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 142.55,
+      "end": 156.38,
+      "text": "明日は卵焼き 入れていこう"
+    },
+    {
+      "t": 159.9,
+      "end": 159.9,
+      "text": "[Outro - fiddle and tin whistle fade]"
+    },
+    {
+      "t": 159.9,
+      "end": 187.36,
+      "text": "ひらがなの わたしの名前"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 35.44,
+      "end": 35.44,
+      "text": "[Intro - tin whistle, bouzouki, bodhrán]"
+    },
+    {
+      "t": 35.44,
+      "end": 35.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.44,
+      "end": 38.72,
+      "text": "実家の棚の いちばん奥"
+    },
+    {
+      "t": 38.88,
+      "end": 40.6,
+      "text": "うさぎの絵の 弁当箱"
+    },
+    {
+      "t": 40.6,
+      "end": 41.76,
+      "text": "ふたの裏に 黒いペンで"
+    },
+    {
+      "t": 42.16,
+      "end": 45.2,
+      "text": "ひらがなの わたしの名前"
+    },
+    {
+      "t": 45.2,
+      "end": 45.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.2,
+      "end": 47.2,
+      "text": "母さんの字は 少しかたむく"
+    },
+    {
+      "t": 47.2,
+      "end": 47.96,
+      "text": "三十年 消えなかった"
+    },
+    {
+      "t": 47.96,
+      "end": 47.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.96,
+      "end": 48.99,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 48.99,
+      "end": 51.15,
+      "text": "カバンに入れて 電車に乗る"
+    },
+    {
+      "t": 51.17,
+      "end": 52.01,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 52.01,
+      "end": 69.81,
+      "text": "小さすぎて おにぎり二つ"
+    },
+    {
+      "t": 69.81,
+      "end": 69.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.81,
+      "end": 73.09,
+      "text": "会社の机で ふたをあける"
+    },
+    {
+      "t": 73.47,
+      "end": 77.41,
+      "text": "となりの席の 佐藤さん"
+    },
+    {
+      "t": 77.95,
+      "end": 81.49,
+      "text": "それ誰の名前 と聞くから"
+    },
+    {
+      "t": 82.03,
+      "end": 85.83,
+      "text": "わたしのだよと 笑っておいた"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 86.75,
+      "end": 89.91,
+      "text": "迷子にならない ように書いた"
+    },
+    {
+      "t": 90.69,
+      "end": 95.59,
+      "text": "母さんはそう 言ってたっけ"
+    },
+    {
+      "t": 96.23,
+      "end": 96.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.23,
+      "end": 104.09,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 104.15,
+      "end": 106.83,
+      "text": "もう迷子には ならないよ"
+    },
+    {
+      "t": 107.49,
+      "end": 142.47,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 142.55,
+      "end": 156.38,
+      "text": "明日は卵焼き 入れていこう"
+    },
+    {
+      "t": 159.9,
+      "end": 159.9,
+      "text": "[Outro - fiddle and tin whistle fade]"
+    },
+    {
+      "t": 159.9,
+      "end": 187.36,
+      "text": "ひらがなの わたしの名前"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 18.88,
+      "end": 18.88,
+      "text": "[Intro - tin whistle, bouzouki, bodhrán]"
+    },
+    {
+      "t": 18.88,
+      "end": 18.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.88,
+      "end": 37.34,
+      "text": "実家の棚の いちばん奥"
+    },
+    {
+      "t": 37.6,
+      "end": 39.5,
+      "text": "うさぎの絵の 弁当箱"
+    },
+    {
+      "t": 39.54,
+      "end": 41.76,
+      "text": "ふたの裏に 黒いペンで"
+    },
+    {
+      "t": 42.16,
+      "end": 44.96,
+      "text": "ひらがなの わたしの名前"
+    },
+    {
+      "t": 45.06,
+      "end": 45.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.06,
+      "end": 47.52,
+      "text": "母さんの字は 少しかたむく"
+    },
+    {
+      "t": 47.9,
+      "end": 48.74,
+      "text": "三十年 消えなかった"
+    },
+    {
+      "t": 48.95,
+      "end": 48.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.95,
+      "end": 51.11,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 51.11,
+      "end": 52.55,
+      "text": "カバンに入れて 電車に乗る"
+    },
+    {
+      "t": 52.59,
+      "end": 69.65,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 69.77,
+      "end": 70.85,
+      "text": "小さすぎて おにぎり二つ"
+    },
+    {
+      "t": 70.85,
+      "end": 70.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.85,
+      "end": 73.07,
+      "text": "会社の机で ふたをあける"
+    },
+    {
+      "t": 73.49,
+      "end": 77.41,
+      "text": "となりの席の 佐藤さん"
+    },
+    {
+      "t": 77.95,
+      "end": 81.49,
+      "text": "それ誰の名前 と聞くから"
+    },
+    {
+      "t": 82.01,
+      "end": 85.83,
+      "text": "わたしのだよと 笑っておいた"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 86.75,
+      "end": 89.91,
+      "text": "迷子にならない ように書いた"
+    },
+    {
+      "t": 90.69,
+      "end": 95.05,
+      "text": "母さんはそう 言ってたっけ"
+    },
+    {
+      "t": 95.41,
+      "end": 95.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.41,
+      "end": 102.49,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 103.01,
+      "end": 106.81,
+      "text": "もう迷子には ならないよ"
+    },
+    {
+      "t": 107.49,
+      "end": 142.33,
+      "text": "名前入りの 弁当箱"
+    },
+    {
+      "t": 142.55,
+      "end": 155.66,
+      "text": "明日は卵焼き 入れていこう"
+    },
+    {
+      "t": 159.9,
+      "end": 159.9,
+      "text": "[Outro - fiddle and tin whistle fade]"
+    },
+    {
+      "t": 159.9,
+      "end": 187.88,
+      "text": "ひらがなの わたしの名前"
+    }
+  ]
+}

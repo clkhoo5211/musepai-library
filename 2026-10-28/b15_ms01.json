@@ -1,0 +1,414 @@
+{
+  "id": "b15_ms01",
+  "title": "Cermin Mata Pertama",
+  "title_source": "scripted",
+  "genre": "Malay bossa-samba jazz-club pop (Dendang Raya lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "warm, tender and smiling",
+  "persona": "",
+  "subject": "a woman taking her boyfriend for his first pair of glasses at an optical shop in Bangsar, and the moment he puts them on and finally sees her face clearly",
+  "caption": "Malay bossa-samba jazz-club pop with a retro lounge swing. Nylon-string guitar playing syncopated bossa comping, brushed samba kit with rim clicks, a muted trumpet section answering phrases, walking upright bass, soft Rhodes chords. Retro jazz-club room sound with soft tape warmth. Female alto, close and breathy, gently swung phrasing. 118 BPM, D major. Warm, tender and smiling. No autotune, no trap hi-hats, no EDM drop, no dangdut drums, no rock guitar.",
+  "lyrics": "[Intro - nylon guitar and brushed kit, muted trumpet]\n\n[Verse 1]\nKedai optik hujung jalan\nAwak duduk, kaki gelisah\nDoktor tukar kanta satu-satu\nAwak kata, semua kabur lagi\n\n[Pre-Chorus]\nSaya pilih bingkai hitam\nAwak cuba, senyum malu\n\n[Chorus]\nCermin mata pertama\nAwak pandang saya lama\nBaru nampak tahi lalat kecil\nYang saya ada sejak dulu\n\n[Verse 2]\nAwak baca papan tanda\nKuat-kuat sepanjang jalan\nAwak kira daun pokok\nAwak kata, cantiknya dunia\n\n[Chorus]\nCermin mata pertama\nAwak pandang saya lama\nTiga tahun awak sayang saya\nTanpa nampak muka saya\n\n[Outro - trumpet and guitar, soft fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Malay bossa-samba jazz-club pop with a retro lounge swing. Nylon-string guitar playing syncopated bossa comping, brushed samba kit with rim clicks, a muted trumpet section answering phrases, walking upright bass, soft Rhodes chords. Retro jazz-club room sound with soft tape warmth. Female alto, close and breathy, gently swung phrasing. 118 BPM, D major. Warm, tender and smiling. No autotune, no trap hi-hats, no EDM drop, no dangdut drums, no rock guitar.",
+    "lyrics": "[Intro - nylon guitar and brushed kit, muted trumpet]\n\n[Verse 1]\nKedai optik hujung jalan\nAwak duduk, kaki gelisah\nDoktor tukar kanta satu-satu\nAwak kata, semua kabur lagi\n\n[Pre-Chorus]\nSaya pilih bingkai hitam\nAwak cuba, senyum malu\n\n[Chorus]\nCermin mata pertama\nAwak pandang saya lama\nBaru nampak tahi lalat kecil\nYang saya ada sejak dulu\n\n[Verse 2]\nAwak baca papan tanda\nKuat-kuat sepanjang jalan\nAwak kira daun pokok\nAwak kata, cantiknya dunia\n\n[Chorus]\nCermin mata pertama\nAwak pandang saya lama\nTiga tahun awak sayang saya\nTanpa nampak muka saya\n\n[Outro - trumpet and guitar, soft fade]"
+  },
+  "seed": "181493088",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.60s**\n- 60.60s per song\n- LM phase (1 song): 11.29s\n- DiT phase (1 song): 49.30s",
+  "task_id": "7ab5020f-84c5-4a7c-9255-5144b941673d",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-29T01:10:38.835694+08:00",
+  "audio": "b15_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - nylon guitar and brushed kit, muted trumpet]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 34.8,
+      "text": "Kedai optik hujung jalan"
+    },
+    {
+      "t": 34.84,
+      "end": 35.56,
+      "text": "Awak duduk, kaki gelisah"
+    },
+    {
+      "t": 35.6,
+      "end": 36.96,
+      "text": "Doktor tukar kanta satu-satu"
+    },
+    {
+      "t": 39.42,
+      "end": 46.12,
+      "text": "Awak kata, semua kabur lagi"
+    },
+    {
+      "t": 48.72,
+      "end": 48.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.72,
+      "end": 54.51,
+      "text": "Saya pilih bingkai hitam"
+    },
+    {
+      "t": 57.25,
+      "end": 62.17,
+      "text": "Awak cuba, senyum malu"
+    },
+    {
+      "t": 65.03,
+      "end": 65.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.03,
+      "end": 70.79,
+      "text": "Cermin mata pertama"
+    },
+    {
+      "t": 73.55,
+      "end": 78.67,
+      "text": "Awak pandang saya lama"
+    },
+    {
+      "t": 81.33,
+      "end": 87.05,
+      "text": "Baru nampak tahi lalat kecil"
+    },
+    {
+      "t": 88.69,
+      "end": 92.59,
+      "text": "Yang saya ada sejak dulu"
+    },
+    {
+      "t": 92.59,
+      "end": 92.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.59,
+      "end": 93.03,
+      "text": "Awak baca papan tanda"
+    },
+    {
+      "t": 93.09,
+      "end": 128.61,
+      "text": "Kuat-kuat sepanjang jalan"
+    },
+    {
+      "t": 128.61,
+      "end": 129.05,
+      "text": "Awak kira daun pokok"
+    },
+    {
+      "t": 129.07,
+      "end": 130.13,
+      "text": "Awak kata, cantiknya dunia"
+    },
+    {
+      "t": 130.13,
+      "end": 130.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.13,
+      "end": 131.61,
+      "text": "Cermin mata pertama"
+    },
+    {
+      "t": 131.63,
+      "end": 135.57,
+      "text": "Awak pandang saya lama"
+    },
+    {
+      "t": 136.45,
+      "end": 140.41,
+      "text": "Tiga tahun awak sayang saya"
+    },
+    {
+      "t": 141.53,
+      "end": 143.99,
+      "text": "Tanpa nampak muka saya"
+    },
+    {
+      "t": 143.99,
+      "end": 143.99,
+      "text": "[Outro - trumpet and guitar, soft fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - nylon guitar and brushed kit, muted trumpet]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 34.8,
+      "text": "Kedai optik hujung jalan"
+    },
+    {
+      "t": 34.84,
+      "end": 35.56,
+      "text": "Awak duduk, kaki gelisah"
+    },
+    {
+      "t": 35.6,
+      "end": 36.96,
+      "text": "Doktor tukar kanta satu-satu"
+    },
+    {
+      "t": 39.42,
+      "end": 46.12,
+      "text": "Awak kata, semua kabur lagi"
+    },
+    {
+      "t": 48.72,
+      "end": 48.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.72,
+      "end": 54.51,
+      "text": "Saya pilih bingkai hitam"
+    },
+    {
+      "t": 57.25,
+      "end": 62.17,
+      "text": "Awak cuba, senyum malu"
+    },
+    {
+      "t": 65.03,
+      "end": 65.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.03,
+      "end": 70.79,
+      "text": "Cermin mata pertama"
+    },
+    {
+      "t": 73.55,
+      "end": 78.67,
+      "text": "Awak pandang saya lama"
+    },
+    {
+      "t": 81.33,
+      "end": 87.05,
+      "text": "Baru nampak tahi lalat kecil"
+    },
+    {
+      "t": 88.69,
+      "end": 92.59,
+      "text": "Yang saya ada sejak dulu"
+    },
+    {
+      "t": 92.59,
+      "end": 92.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.59,
+      "end": 93.03,
+      "text": "Awak baca papan tanda"
+    },
+    {
+      "t": 93.09,
+      "end": 128.61,
+      "text": "Kuat-kuat sepanjang jalan"
+    },
+    {
+      "t": 128.61,
+      "end": 129.05,
+      "text": "Awak kira daun pokok"
+    },
+    {
+      "t": 129.07,
+      "end": 130.13,
+      "text": "Awak kata, cantiknya dunia"
+    },
+    {
+      "t": 130.13,
+      "end": 130.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.13,
+      "end": 131.61,
+      "text": "Cermin mata pertama"
+    },
+    {
+      "t": 131.63,
+      "end": 135.57,
+      "text": "Awak pandang saya lama"
+    },
+    {
+      "t": 136.45,
+      "end": 140.41,
+      "text": "Tiga tahun awak sayang saya"
+    },
+    {
+      "t": 141.53,
+      "end": 143.99,
+      "text": "Tanpa nampak muka saya"
+    },
+    {
+      "t": 143.99,
+      "end": 143.99,
+      "text": "[Outro - trumpet and guitar, soft fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.94,
+      "end": 0.94,
+      "text": "[Intro - nylon guitar and brushed kit, muted trumpet]"
+    },
+    {
+      "t": 0.94,
+      "end": 0.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.94,
+      "end": 17.48,
+      "text": "Kedai optik hujung jalan"
+    },
+    {
+      "t": 17.8,
+      "end": 29.98,
+      "text": "Awak duduk, kaki gelisah"
+    },
+    {
+      "t": 33.26,
+      "end": 36.94,
+      "text": "Doktor tukar kanta satu-satu"
+    },
+    {
+      "t": 39.44,
+      "end": 46.12,
+      "text": "Awak kata, semua kabur lagi"
+    },
+    {
+      "t": 48.74,
+      "end": 48.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.74,
+      "end": 54.47,
+      "text": "Saya pilih bingkai hitam"
+    },
+    {
+      "t": 57.25,
+      "end": 62.15,
+      "text": "Awak cuba, senyum malu"
+    },
+    {
+      "t": 65.03,
+      "end": 65.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.03,
+      "end": 70.79,
+      "text": "Cermin mata pertama"
+    },
+    {
+      "t": 73.55,
+      "end": 78.67,
+      "text": "Awak pandang saya lama"
+    },
+    {
+      "t": 81.33,
+      "end": 87.01,
+      "text": "Baru nampak tahi lalat kecil"
+    },
+    {
+      "t": 88.69,
+      "end": 93.39,
+      "text": "Yang saya ada sejak dulu"
+    },
+    {
+      "t": 93.69,
+      "end": 93.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.69,
+      "end": 101.77,
+      "text": "Awak baca papan tanda"
+    },
+    {
+      "t": 102.17,
+      "end": 108.73,
+      "text": "Kuat-kuat sepanjang jalan"
+    },
+    {
+      "t": 108.73,
+      "end": 112.87,
+      "text": "Awak kira daun pokok"
+    },
+    {
+      "t": 112.93,
+      "end": 126.89,
+      "text": "Awak kata, cantiknya dunia"
+    },
+    {
+      "t": 128.29,
+      "end": 128.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.29,
+      "end": 131.59,
+      "text": "Cermin mata pertama"
+    },
+    {
+      "t": 131.61,
+      "end": 135.57,
+      "text": "Awak pandang saya lama"
+    },
+    {
+      "t": 136.45,
+      "end": 140.41,
+      "text": "Tiga tahun awak sayang saya"
+    },
+    {
+      "t": 141.53,
+      "end": 143.95,
+      "text": "Tanpa nampak muka saya"
+    },
+    {
+      "t": 143.95,
+      "end": 143.95,
+      "text": "[Outro - trumpet and guitar, soft fade]"
+    }
+  ]
+}

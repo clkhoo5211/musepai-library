@@ -1,0 +1,474 @@
+{
+  "id": "b15_ko01",
+  "title": "환승 에스컬레이터",
+  "title_source": "scripted",
+  "genre": "piano-driven Korean band-boom pop rock",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "bright, breathless, openly in love",
+  "persona": "",
+  "subject": "a man who rides the long transfer escalator up with his girlfriend every evening only to say goodbye at the top and ride straight back down alone",
+  "caption": "Piano-driven Korean band-boom pop rock in the mid-2020s live band style. Acoustic piano pounding eighth-note chords, driving overdriven electric rhythm guitar, melodic picked bass, live drums with open hi-hat and crash on the downbeats. Live-room band mix with the piano up front and natural drum ambience. Male tenor lead, open and straining at the top, band gang vocals answering in the chorus. 148 BPM, E major. Bright, breathless and openly in love. No synth pads, no EDM drop, no autotune, no rap verse, no trap hats.",
+  "lyrics": "[Intro - piano chords, rhythm guitar, drum fill]\n\n[Verse 1]\n칠호선 갈아타는 곳\n제일 긴 에스컬레이터\n한 칸 아래 서 있으면\n네 키가 나랑 똑같아\n\n[Pre-Chorus]\n위에 닿으면 안녕이니까\n천천히 좀 가 줬으면\n\n[Chorus]\n올라가는 일 분 반\n그게 오늘 데이트야\n손 흔들고 돌아서서\n난 다시 내려가\n\n[Verse 2]\n사람들은 걸어 올라가\n우린 가만히 서 있어\n네 머리끈 하나가\n내 손목에 남았어\n\n[Pre-Chorus]\n위에 닿으면 안녕이니까\n오늘은 내가 말할게\n\n[Chorus]\n올라가는 일 분 반\n그게 오늘 데이트야\n내일도 한 칸 아래서\n좋아한다고 할게\n\n[Outro - piano and gang vocals fade]\n내일도 한 칸 아래",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 148,
+    "duration": 198.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Piano-driven Korean band-boom pop rock in the mid-2020s live band style. Acoustic piano pounding eighth-note chords, driving overdriven electric rhythm guitar, melodic picked bass, live drums with open hi-hat and crash on the downbeats. Live-room band mix with the piano up front and natural drum ambience. Male tenor lead, open and straining at the top, band gang vocals answering in the chorus. 148 BPM, E major. Bright, breathless and openly in love. No synth pads, no EDM drop, no autotune, no rap verse, no trap hats.",
+    "lyrics": "[Intro - piano chords, rhythm guitar, drum fill]\n\n[Verse 1]\n칠호선 갈아타는 곳\n제일 긴 에스컬레이터\n한 칸 아래 서 있으면\n네 키가 나랑 똑같아\n\n[Pre-Chorus]\n위에 닿으면 안녕이니까\n천천히 좀 가 줬으면\n\n[Chorus]\n올라가는 일 분 반\n그게 오늘 데이트야\n손 흔들고 돌아서서\n난 다시 내려가\n\n[Verse 2]\n사람들은 걸어 올라가\n우린 가만히 서 있어\n네 머리끈 하나가\n내 손목에 남았어\n\n[Pre-Chorus]\n위에 닿으면 안녕이니까\n오늘은 내가 말할게\n\n[Chorus]\n올라가는 일 분 반\n그게 오늘 데이트야\n내일도 한 칸 아래서\n좋아한다고 할게\n\n[Outro - piano and gang vocals fade]\n내일도 한 칸 아래"
+  },
+  "seed": "4289247493",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.09s**\n- 68.09s per song\n- LM phase (1 song): 8.35s\n- DiT phase (1 song): 59.74s",
+  "task_id": "cb9b82c3-0f03-4044-a1ff-cbc0bdc86e23",
+  "elapsed_s": 130.3,
+  "generated_at": "2026-10-28T22:59:47.398566+08:00",
+  "audio": "b15_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.54,
+      "end": 27.54,
+      "text": "[Intro - piano chords, rhythm guitar, drum fill]"
+    },
+    {
+      "t": 27.54,
+      "end": 27.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.54,
+      "end": 31.38,
+      "text": "칠호선 갈아타는 곳"
+    },
+    {
+      "t": 34.22,
+      "end": 37.78,
+      "text": "제일 긴 에스컬레이터"
+    },
+    {
+      "t": 40.14,
+      "end": 44.56,
+      "text": "한 칸 아래 서 있으면"
+    },
+    {
+      "t": 46.68,
+      "end": 49.2,
+      "text": "네 키가 나랑 똑같아"
+    },
+    {
+      "t": 50.05,
+      "end": 50.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.05,
+      "end": 53.97,
+      "text": "위에 닿으면 안녕이니까"
+    },
+    {
+      "t": 56.35,
+      "end": 63.45,
+      "text": "천천히 좀 가 줬으면"
+    },
+    {
+      "t": 66.31,
+      "end": 66.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.31,
+      "end": 67.49,
+      "text": "올라가는 일 분 반"
+    },
+    {
+      "t": 67.51,
+      "end": 69.75,
+      "text": "그게 오늘 데이트야"
+    },
+    {
+      "t": 70.97,
+      "end": 75.27,
+      "text": "손 흔들고 돌아서서"
+    },
+    {
+      "t": 75.73,
+      "end": 78.83,
+      "text": "난 다시 내려가"
+    },
+    {
+      "t": 85.57,
+      "end": 85.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.57,
+      "end": 87.69,
+      "text": "사람들은 걸어 올라가"
+    },
+    {
+      "t": 87.69,
+      "end": 91.29,
+      "text": "우린 가만히 서 있어"
+    },
+    {
+      "t": 91.51,
+      "end": 94.61,
+      "text": "네 머리끈 하나가"
+    },
+    {
+      "t": 95.09,
+      "end": 97.77,
+      "text": "내 손목에 남았어"
+    },
+    {
+      "t": 100.17,
+      "end": 100.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.17,
+      "end": 104.09,
+      "text": "위에 닿으면 안녕이니까"
+    },
+    {
+      "t": 106.57,
+      "end": 110.41,
+      "text": "오늘은 내가 말할게"
+    },
+    {
+      "t": 117.17,
+      "end": 117.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.17,
+      "end": 127.67,
+      "text": "올라가는 일 분 반"
+    },
+    {
+      "t": 128.21,
+      "end": 164.56,
+      "text": "그게 오늘 데이트야"
+    },
+    {
+      "t": 167.02,
+      "end": 173.76,
+      "text": "내일도 한 칸 아래서"
+    },
+    {
+      "t": 174.02,
+      "end": 176.94,
+      "text": "좋아한다고 할게"
+    },
+    {
+      "t": 179.78,
+      "end": 179.78,
+      "text": "[Outro - piano and gang vocals fade]"
+    },
+    {
+      "t": 179.78,
+      "end": 183.76,
+      "text": "내일도 한 칸 아래"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.54,
+      "end": 27.54,
+      "text": "[Intro - piano chords, rhythm guitar, drum fill]"
+    },
+    {
+      "t": 27.54,
+      "end": 27.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.54,
+      "end": 31.38,
+      "text": "칠호선 갈아타는 곳"
+    },
+    {
+      "t": 34.22,
+      "end": 37.78,
+      "text": "제일 긴 에스컬레이터"
+    },
+    {
+      "t": 40.14,
+      "end": 44.56,
+      "text": "한 칸 아래 서 있으면"
+    },
+    {
+      "t": 46.68,
+      "end": 49.2,
+      "text": "네 키가 나랑 똑같아"
+    },
+    {
+      "t": 50.05,
+      "end": 50.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.05,
+      "end": 53.97,
+      "text": "위에 닿으면 안녕이니까"
+    },
+    {
+      "t": 56.35,
+      "end": 63.45,
+      "text": "천천히 좀 가 줬으면"
+    },
+    {
+      "t": 66.31,
+      "end": 66.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.31,
+      "end": 67.49,
+      "text": "올라가는 일 분 반"
+    },
+    {
+      "t": 67.51,
+      "end": 69.75,
+      "text": "그게 오늘 데이트야"
+    },
+    {
+      "t": 70.97,
+      "end": 75.27,
+      "text": "손 흔들고 돌아서서"
+    },
+    {
+      "t": 75.73,
+      "end": 78.83,
+      "text": "난 다시 내려가"
+    },
+    {
+      "t": 85.57,
+      "end": 85.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.57,
+      "end": 87.69,
+      "text": "사람들은 걸어 올라가"
+    },
+    {
+      "t": 87.69,
+      "end": 91.29,
+      "text": "우린 가만히 서 있어"
+    },
+    {
+      "t": 91.51,
+      "end": 94.61,
+      "text": "네 머리끈 하나가"
+    },
+    {
+      "t": 95.09,
+      "end": 97.77,
+      "text": "내 손목에 남았어"
+    },
+    {
+      "t": 100.17,
+      "end": 100.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.17,
+      "end": 104.09,
+      "text": "위에 닿으면 안녕이니까"
+    },
+    {
+      "t": 106.57,
+      "end": 110.41,
+      "text": "오늘은 내가 말할게"
+    },
+    {
+      "t": 117.17,
+      "end": 117.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.17,
+      "end": 127.67,
+      "text": "올라가는 일 분 반"
+    },
+    {
+      "t": 128.21,
+      "end": 164.56,
+      "text": "그게 오늘 데이트야"
+    },
+    {
+      "t": 167.02,
+      "end": 173.76,
+      "text": "내일도 한 칸 아래서"
+    },
+    {
+      "t": 174.02,
+      "end": 176.94,
+      "text": "좋아한다고 할게"
+    },
+    {
+      "t": 179.78,
+      "end": 179.78,
+      "text": "[Outro - piano and gang vocals fade]"
+    },
+    {
+      "t": 179.78,
+      "end": 183.76,
+      "text": "내일도 한 칸 아래"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.48,
+      "end": 27.48,
+      "text": "[Intro - piano chords, rhythm guitar, drum fill]"
+    },
+    {
+      "t": 27.48,
+      "end": 27.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.48,
+      "end": 31.38,
+      "text": "칠호선 갈아타는 곳"
+    },
+    {
+      "t": 34.22,
+      "end": 37.78,
+      "text": "제일 긴 에스컬레이터"
+    },
+    {
+      "t": 40.14,
+      "end": 43.82,
+      "text": "한 칸 아래 서 있으면"
+    },
+    {
+      "t": 43.84,
+      "end": 44.76,
+      "text": "네 키가 나랑 똑같아"
+    },
+    {
+      "t": 44.76,
+      "end": 44.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.76,
+      "end": 45.68,
+      "text": "위에 닿으면 안녕이니까"
+    },
+    {
+      "t": 45.72,
+      "end": 47.54,
+      "text": "천천히 좀 가 줬으면"
+    },
+    {
+      "t": 47.64,
+      "end": 47.64,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.64,
+      "end": 49.4,
+      "text": "올라가는 일 분 반"
+    },
+    {
+      "t": 49.42,
+      "end": 50.19,
+      "text": "그게 오늘 데이트야"
+    },
+    {
+      "t": 50.23,
+      "end": 75.73,
+      "text": "손 흔들고 돌아서서"
+    },
+    {
+      "t": 75.73,
+      "end": 78.85,
+      "text": "난 다시 내려가"
+    },
+    {
+      "t": 85.57,
+      "end": 85.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.57,
+      "end": 87.51,
+      "text": "사람들은 걸어 올라가"
+    },
+    {
+      "t": 87.65,
+      "end": 91.11,
+      "text": "우린 가만히 서 있어"
+    },
+    {
+      "t": 91.49,
+      "end": 94.61,
+      "text": "네 머리끈 하나가"
+    },
+    {
+      "t": 95.09,
+      "end": 97.79,
+      "text": "내 손목에 남았어"
+    },
+    {
+      "t": 100.17,
+      "end": 100.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.17,
+      "end": 104.11,
+      "text": "위에 닿으면 안녕이니까"
+    },
+    {
+      "t": 106.59,
+      "end": 110.41,
+      "text": "오늘은 내가 말할게"
+    },
+    {
+      "t": 117.19,
+      "end": 117.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.19,
+      "end": 162.04,
+      "text": "올라가는 일 분 반"
+    },
+    {
+      "t": 162.04,
+      "end": 164.54,
+      "text": "그게 오늘 데이트야"
+    },
+    {
+      "t": 167.02,
+      "end": 170.94,
+      "text": "내일도 한 칸 아래서"
+    },
+    {
+      "t": 174.0,
+      "end": 182.64,
+      "text": "좋아한다고 할게"
+    },
+    {
+      "t": 182.64,
+      "end": 182.64,
+      "text": "[Outro - piano and gang vocals fade]"
+    },
+    {
+      "t": 182.64,
+      "end": 183.74,
+      "text": "내일도 한 칸 아래"
+    }
+  ]
+}

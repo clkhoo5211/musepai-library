@@ -1,0 +1,287 @@
+{
+  "id": "b15_ms03",
+  "title": "Abang Din Paip",
+  "title_source": "scripted",
+  "genre": "Malay country-folk with harmonica (1980s Kembara lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "easygoing, wry and neighbourly",
+  "persona": "",
+  "subject": "a plumber called Abang Din who comes to fix a dripping kitchen tap, finds three more leaks, and stays for teh o while the pipes are off",
+  "caption": "Malay country-folk with harmonica, 1980s Malaysian folk-rock storytelling lineage. Steel-string acoustic strumming in a train beat, harmonica fills between lines, brushed snare, walking bass, slide guitar fills. Dry wooden live-room sound. Male baritone, plain storytelling delivery with a slight grin. 100 BPM, G major. Easygoing, wry and neighbourly. No autotune, no trap drums, no synth pads, no EDM drop, no slow rock power ballad.",
+  "lyrics": "[Intro - acoustic guitar and harmonica]\n\n[Verse 1]\nPaip dapur titik siang malam\nSaya telefon Abang Din\nDia datang naik motor buruk\nKotak besi, spanar karat\n\n[Pre-Chorus]\nDia ketuk sini, ketuk sana\nDia kata, ada lagi tiga\n\n[Chorus]\nAbang Din paip, Abang Din paip\nSatu bocor jadi empat\nAir tutup, cerek tak boleh masak\nKita minum teh o sejuk\n\n[Verse 2]\nBawah singki penuh baldi\nDia cerita anak dia kahwin\nGetah lama dia tunjuk saya\nMacam doktor tunjuk gigi\n\n[Chorus]\nAbang Din paip, Abang Din paip\nEmpat bocor semua siap\nDia caj harga satu je\nSebab teh o tadi sedap\n\n[Outro - harmonica solo and slide guitar]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Malay country-folk with harmonica, 1980s Malaysian folk-rock storytelling lineage. Steel-string acoustic strumming in a train beat, harmonica fills between lines, brushed snare, walking bass, slide guitar fills. Dry wooden live-room sound. Male baritone, plain storytelling delivery with a slight grin. 100 BPM, G major. Easygoing, wry and neighbourly. No autotune, no trap drums, no synth pads, no EDM drop, no slow rock power ballad.",
+    "lyrics": "[Intro - acoustic guitar and harmonica]\n\n[Verse 1]\nPaip dapur titik siang malam\nSaya telefon Abang Din\nDia datang naik motor buruk\nKotak besi, spanar karat\n\n[Pre-Chorus]\nDia ketuk sini, ketuk sana\nDia kata, ada lagi tiga\n\n[Chorus]\nAbang Din paip, Abang Din paip\nSatu bocor jadi empat\nAir tutup, cerek tak boleh masak\nKita minum teh o sejuk\n\n[Verse 2]\nBawah singki penuh baldi\nDia cerita anak dia kahwin\nGetah lama dia tunjuk saya\nMacam doktor tunjuk gigi\n\n[Chorus]\nAbang Din paip, Abang Din paip\nEmpat bocor semua siap\nDia caj harga satu je\nSebab teh o tadi sedap\n\n[Outro - harmonica solo and slide guitar]"
+  },
+  "seed": "1507658002",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.73s**\n- 61.73s per song\n- LM phase (1 song): 12.89s\n- DiT phase (1 song): 48.85s",
+  "task_id": "57dbdb74-e9f9-4fe6-8ee9-3008771148e6",
+  "elapsed_s": 90.4,
+  "generated_at": "2026-10-29T01:12:09.192247+08:00",
+  "audio": "b15_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.92,
+      "end": 32.92,
+      "text": "[Intro - acoustic guitar and harmonica]"
+    },
+    {
+      "t": 32.92,
+      "end": 32.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.92,
+      "end": 36.34,
+      "text": "Paip dapur titik siang malam"
+    },
+    {
+      "t": 37.84,
+      "end": 41.18,
+      "text": "Saya telefon Abang Din"
+    },
+    {
+      "t": 44.86,
+      "end": 48.46,
+      "text": "Dia datang naik motor buruk"
+    },
+    {
+      "t": 54.19,
+      "end": 58.11,
+      "text": "Kotak besi, spanar karat"
+    },
+    {
+      "t": 58.11,
+      "end": 58.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.11,
+      "end": 60.65,
+      "text": "Dia ketuk sini, ketuk sana"
+    },
+    {
+      "t": 62.05,
+      "end": 67.63,
+      "text": "Dia kata, ada lagi tiga"
+    },
+    {
+      "t": 71.21,
+      "end": 71.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.21,
+      "end": 76.89,
+      "text": "Abang Din paip, Abang Din paip"
+    },
+    {
+      "t": 78.93,
+      "end": 81.67,
+      "text": "Satu bocor jadi empat"
+    },
+    {
+      "t": 81.77,
+      "end": 86.77,
+      "text": "Air tutup, cerek tak boleh masak"
+    },
+    {
+      "t": 86.73,
+      "end": 95.01,
+      "text": "Kita minum teh o sejuk"
+    },
+    {
+      "t": 100.43,
+      "end": 100.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.43,
+      "end": 104.23,
+      "text": "Bawah singki penuh baldi"
+    },
+    {
+      "t": 109.53,
+      "end": 113.97,
+      "text": "Dia cerita anak dia kahwin"
+    },
+    {
+      "t": 119.97,
+      "end": 123.43,
+      "text": "Getah lama dia tunjuk saya"
+    },
+    {
+      "t": 124.73,
+      "end": 128.19,
+      "text": "Macam doktor tunjuk gigi"
+    },
+    {
+      "t": 131.45,
+      "end": 131.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.45,
+      "end": 136.93,
+      "text": "Abang Din paip, Abang Din paip"
+    },
+    {
+      "t": 136.93,
+      "end": 154.62,
+      "text": "Empat bocor semua siap"
+    },
+    {
+      "t": 157.04,
+      "end": 167.96,
+      "text": "Dia caj harga satu je"
+    },
+    {
+      "t": 172.98,
+      "end": 199.8,
+      "text": "Sebab teh o tadi sedap"
+    },
+    {
+      "t": 199.8,
+      "end": 199.8,
+      "text": "[Outro - harmonica solo and slide guitar]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.9,
+      "end": 32.9,
+      "text": "[Intro - acoustic guitar and harmonica]"
+    },
+    {
+      "t": 32.9,
+      "end": 32.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.9,
+      "end": 36.38,
+      "text": "Paip dapur titik siang malam"
+    },
+    {
+      "t": 37.84,
+      "end": 41.2,
+      "text": "Saya telefon Abang Din"
+    },
+    {
+      "t": 44.84,
+      "end": 48.5,
+      "text": "Dia datang naik motor buruk"
+    },
+    {
+      "t": 54.19,
+      "end": 58.15,
+      "text": "Kotak besi, spanar karat"
+    },
+    {
+      "t": 58.29,
+      "end": 58.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.29,
+      "end": 62.05,
+      "text": "Dia ketuk sini, ketuk sana"
+    },
+    {
+      "t": 62.05,
+      "end": 67.63,
+      "text": "Dia kata, ada lagi tiga"
+    },
+    {
+      "t": 71.23,
+      "end": 71.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.23,
+      "end": 76.91,
+      "text": "Abang Din paip, Abang Din paip"
+    },
+    {
+      "t": 78.95,
+      "end": 81.67,
+      "text": "Satu bocor jadi empat"
+    },
+    {
+      "t": 81.77,
+      "end": 86.67,
+      "text": "Air tutup, cerek tak boleh masak"
+    },
+    {
+      "t": 86.73,
+      "end": 95.01,
+      "text": "Kita minum teh o sejuk"
+    },
+    {
+      "t": 100.41,
+      "end": 100.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.41,
+      "end": 104.23,
+      "text": "Bawah singki penuh baldi"
+    },
+    {
+      "t": 109.53,
+      "end": 113.97,
+      "text": "Dia cerita anak dia kahwin"
+    },
+    {
+      "t": 119.97,
+      "end": 123.43,
+      "text": "Getah lama dia tunjuk saya"
+    },
+    {
+      "t": 124.73,
+      "end": 128.21,
+      "text": "Macam doktor tunjuk gigi"
+    },
+    {
+      "t": 131.61,
+      "end": 131.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.61,
+      "end": 136.93,
+      "text": "Abang Din paip, Abang Din paip"
+    },
+    {
+      "t": 136.93,
+      "end": 145.59,
+      "text": "Empat bocor semua siap"
+    },
+    {
+      "t": 146.51,
+      "end": 168.58,
+      "text": "Dia caj harga satu je"
+    },
+    {
+      "t": 172.96,
+      "end": 183.86,
+      "text": "Sebab teh o tadi sedap"
+    },
+    {
+      "t": 183.86,
+      "end": 183.86,
+      "text": "[Outro - harmonica solo and slide guitar]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

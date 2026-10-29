@@ -1,0 +1,444 @@
+{
+  "id": "b15_vi05",
+  "title": "Lớp Bơi Tám Tuổi",
+  "title_source": "scripted",
+  "genre": "Vietnamese surf rock",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "sunny, self-mocking and determined",
+  "persona": "",
+  "subject": "a thirty-year-old Hà Nội office worker who signs up for summer swimming lessons at a public pool and ends up in a class of eight-year-olds who teach him to blow bubbles",
+  "caption": "Surf rock, early-1960s instrumental-surf style with Vietnamese vocals. Twangy spring-reverb Fender lead guitar playing staccato tremolo runs; tremolo-picked rhythm guitar; plain picked bass; driving surf drum beat with tom fills; cheap combo organ stabs. Live-room 1960s sound, spring-reverb splash, raw but clean. Male tenor in a bright shouted-sung garage delivery, gang vocals on the hook. 160 BPM, E minor. Sunny, self-mocking and determined. No pop-punk power chords, no EDM, no autotune, no trap beats, no ballad singing.",
+  "lyrics": "[Intro - twangy reverb guitar run and drums]\n\n[Verse 1]\nBa mươi tuổi tôi đi học bơi\nBể bơi quận, nắng tháng sáu rồi\nThầy điểm danh tám đứa nhóc con\nCộng thêm một ông chú, là tôi\n\n[Pre-Chorus]\nCái phao vịt vàng ôm bụng tôi\nCả lớp nhìn rồi cùng phì cười\n\n[Chorus]\nThổi bong bóng nào, thổi đi chú\nCúi mặt xuống nước, đừng sợ gì\nThổi bong bóng nào, thổi đi chú\nBé Na tám tuổi dạy tôi bơi\n\n[Verse 2]\nTuần thứ hai tôi đạp chân được\nTuần thứ ba buông thành bể rồi\nCả lớp vỗ tay, thầy huýt còi\nTôi nuốt nửa bể, nhưng mà vui\n\n[Chorus]\nThổi bong bóng nào, thổi đi chú\nMười mét rồi chú, bơi tiếp đi\nThổi bong bóng nào, thổi đi chú\nCuối hè chú đua với bé Bi\n\n[Outro - surf guitar and gang shout]\nPhao vịt vàng tôi để lại\nCho ông chú nào học năm sau",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 160,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Surf rock, early-1960s instrumental-surf style with Vietnamese vocals. Twangy spring-reverb Fender lead guitar playing staccato tremolo runs; tremolo-picked rhythm guitar; plain picked bass; driving surf drum beat with tom fills; cheap combo organ stabs. Live-room 1960s sound, spring-reverb splash, raw but clean. Male tenor in a bright shouted-sung garage delivery, gang vocals on the hook. 160 BPM, E minor. Sunny, self-mocking and determined. No pop-punk power chords, no EDM, no autotune, no trap beats, no ballad singing.",
+    "lyrics": "[Intro - twangy reverb guitar run and drums]\n\n[Verse 1]\nBa mươi tuổi tôi đi học bơi\nBể bơi quận, nắng tháng sáu rồi\nThầy điểm danh tám đứa nhóc con\nCộng thêm một ông chú, là tôi\n\n[Pre-Chorus]\nCái phao vịt vàng ôm bụng tôi\nCả lớp nhìn rồi cùng phì cười\n\n[Chorus]\nThổi bong bóng nào, thổi đi chú\nCúi mặt xuống nước, đừng sợ gì\nThổi bong bóng nào, thổi đi chú\nBé Na tám tuổi dạy tôi bơi\n\n[Verse 2]\nTuần thứ hai tôi đạp chân được\nTuần thứ ba buông thành bể rồi\nCả lớp vỗ tay, thầy huýt còi\nTôi nuốt nửa bể, nhưng mà vui\n\n[Chorus]\nThổi bong bóng nào, thổi đi chú\nMười mét rồi chú, bơi tiếp đi\nThổi bong bóng nào, thổi đi chú\nCuối hè chú đua với bé Bi\n\n[Outro - surf guitar and gang shout]\nPhao vịt vàng tôi để lại\nCho ông chú nào học năm sau"
+  },
+  "seed": "1033568115",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.71s**\n- 57.71s per song\n- LM phase (1 song): 11.24s\n- DiT phase (1 song): 46.47s",
+  "task_id": "66d17028-a9f8-4802-9783-277cc0f3e743",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-10-29T01:16:09.847607+08:00",
+  "audio": "b15_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.68,
+      "end": 31.68,
+      "text": "[Intro - twangy reverb guitar run and drums]"
+    },
+    {
+      "t": 31.68,
+      "end": 31.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.68,
+      "end": 34.6,
+      "text": "Ba mươi tuổi tôi đi học bơi"
+    },
+    {
+      "t": 36.18,
+      "end": 39.24,
+      "text": "Bể bơi quận, nắng tháng sáu rồi"
+    },
+    {
+      "t": 43.72,
+      "end": 46.31,
+      "text": "Thầy điểm danh tám đứa nhóc con"
+    },
+    {
+      "t": 47.11,
+      "end": 50.49,
+      "text": "Cộng thêm một ông chú, là tôi"
+    },
+    {
+      "t": 53.09,
+      "end": 53.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.09,
+      "end": 56.67,
+      "text": "Cái phao vịt vàng ôm bụng tôi"
+    },
+    {
+      "t": 58.37,
+      "end": 63.57,
+      "text": "Cả lớp nhìn rồi cùng phì cười"
+    },
+    {
+      "t": 63.97,
+      "end": 63.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.97,
+      "end": 65.77,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 65.77,
+      "end": 68.25,
+      "text": "Cúi mặt xuống nước, đừng sợ gì"
+    },
+    {
+      "t": 69.95,
+      "end": 72.75,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 75.97,
+      "end": 77.79,
+      "text": "Bé Na tám tuổi dạy tôi bơi"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.79,
+      "end": 79.09,
+      "text": "Tuần thứ hai tôi đạp chân được"
+    },
+    {
+      "t": 79.33,
+      "end": 81.41,
+      "text": "Tuần thứ ba buông thành bể rồi"
+    },
+    {
+      "t": 81.65,
+      "end": 84.71,
+      "text": "Cả lớp vỗ tay, thầy huýt còi"
+    },
+    {
+      "t": 84.79,
+      "end": 87.07,
+      "text": "Tôi nuốt nửa bể, nhưng mà vui"
+    },
+    {
+      "t": 90.05,
+      "end": 90.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.05,
+      "end": 91.83,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 91.93,
+      "end": 129.51,
+      "text": "Mười mét rồi chú, bơi tiếp đi"
+    },
+    {
+      "t": 129.99,
+      "end": 153.62,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 155.48,
+      "end": 158.04,
+      "text": "Cuối hè chú đua với bé Bi"
+    },
+    {
+      "t": 158.04,
+      "end": 158.04,
+      "text": "[Outro - surf guitar and gang shout]"
+    },
+    {
+      "t": 158.04,
+      "end": 170.32,
+      "text": "Phao vịt vàng tôi để lại"
+    },
+    {
+      "t": 170.32,
+      "end": 172.18,
+      "text": "Cho ông chú nào học năm sau"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.68,
+      "end": 31.68,
+      "text": "[Intro - twangy reverb guitar run and drums]"
+    },
+    {
+      "t": 31.68,
+      "end": 31.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.68,
+      "end": 34.6,
+      "text": "Ba mươi tuổi tôi đi học bơi"
+    },
+    {
+      "t": 36.18,
+      "end": 39.24,
+      "text": "Bể bơi quận, nắng tháng sáu rồi"
+    },
+    {
+      "t": 43.72,
+      "end": 46.31,
+      "text": "Thầy điểm danh tám đứa nhóc con"
+    },
+    {
+      "t": 47.11,
+      "end": 50.49,
+      "text": "Cộng thêm một ông chú, là tôi"
+    },
+    {
+      "t": 53.09,
+      "end": 53.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.09,
+      "end": 56.67,
+      "text": "Cái phao vịt vàng ôm bụng tôi"
+    },
+    {
+      "t": 58.37,
+      "end": 63.57,
+      "text": "Cả lớp nhìn rồi cùng phì cười"
+    },
+    {
+      "t": 63.97,
+      "end": 63.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.97,
+      "end": 65.77,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 65.77,
+      "end": 68.25,
+      "text": "Cúi mặt xuống nước, đừng sợ gì"
+    },
+    {
+      "t": 69.95,
+      "end": 72.75,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 75.97,
+      "end": 77.79,
+      "text": "Bé Na tám tuổi dạy tôi bơi"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.79,
+      "end": 79.09,
+      "text": "Tuần thứ hai tôi đạp chân được"
+    },
+    {
+      "t": 79.33,
+      "end": 81.41,
+      "text": "Tuần thứ ba buông thành bể rồi"
+    },
+    {
+      "t": 81.65,
+      "end": 84.71,
+      "text": "Cả lớp vỗ tay, thầy huýt còi"
+    },
+    {
+      "t": 84.79,
+      "end": 87.07,
+      "text": "Tôi nuốt nửa bể, nhưng mà vui"
+    },
+    {
+      "t": 90.05,
+      "end": 90.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.05,
+      "end": 91.83,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 91.93,
+      "end": 129.51,
+      "text": "Mười mét rồi chú, bơi tiếp đi"
+    },
+    {
+      "t": 129.99,
+      "end": 153.62,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 155.48,
+      "end": 158.04,
+      "text": "Cuối hè chú đua với bé Bi"
+    },
+    {
+      "t": 158.04,
+      "end": 158.04,
+      "text": "[Outro - surf guitar and gang shout]"
+    },
+    {
+      "t": 158.04,
+      "end": 170.32,
+      "text": "Phao vịt vàng tôi để lại"
+    },
+    {
+      "t": 170.32,
+      "end": 172.18,
+      "text": "Cho ông chú nào học năm sau"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 3.12,
+      "end": 3.12,
+      "text": "[Intro - twangy reverb guitar run and drums]"
+    },
+    {
+      "t": 3.12,
+      "end": 3.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.12,
+      "end": 34.6,
+      "text": "Ba mươi tuổi tôi đi học bơi"
+    },
+    {
+      "t": 36.2,
+      "end": 39.42,
+      "text": "Bể bơi quận, nắng tháng sáu rồi"
+    },
+    {
+      "t": 43.72,
+      "end": 46.25,
+      "text": "Thầy điểm danh tám đứa nhóc con"
+    },
+    {
+      "t": 47.11,
+      "end": 50.69,
+      "text": "Cộng thêm một ông chú, là tôi"
+    },
+    {
+      "t": 53.09,
+      "end": 53.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.09,
+      "end": 56.65,
+      "text": "Cái phao vịt vàng ôm bụng tôi"
+    },
+    {
+      "t": 58.37,
+      "end": 63.61,
+      "text": "Cả lớp nhìn rồi cùng phì cười"
+    },
+    {
+      "t": 63.97,
+      "end": 63.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.97,
+      "end": 65.77,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 65.77,
+      "end": 68.25,
+      "text": "Cúi mặt xuống nước, đừng sợ gì"
+    },
+    {
+      "t": 69.95,
+      "end": 72.75,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 77.67,
+      "end": 80.65,
+      "text": "Bé Na tám tuổi dạy tôi bơi"
+    },
+    {
+      "t": 83.85,
+      "end": 83.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.85,
+      "end": 86.63,
+      "text": "Tuần thứ hai tôi đạp chân được"
+    },
+    {
+      "t": 89.87,
+      "end": 92.91,
+      "text": "Tuần thứ ba buông thành bể rồi"
+    },
+    {
+      "t": 98.13,
+      "end": 121.39,
+      "text": "Cả lớp vỗ tay, thầy huýt còi"
+    },
+    {
+      "t": 121.55,
+      "end": 125.87,
+      "text": "Tôi nuốt nửa bể, nhưng mà vui"
+    },
+    {
+      "t": 126.03,
+      "end": 126.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.03,
+      "end": 153.62,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 155.48,
+      "end": 160.02,
+      "text": "Mười mét rồi chú, bơi tiếp đi"
+    },
+    {
+      "t": 160.16,
+      "end": 164.28,
+      "text": "Thổi bong bóng nào, thổi đi chú"
+    },
+    {
+      "t": 164.44,
+      "end": 165.86,
+      "text": "Cuối hè chú đua với bé Bi"
+    },
+    {
+      "t": 165.92,
+      "end": 165.92,
+      "text": "[Outro - surf guitar and gang shout]"
+    },
+    {
+      "t": 165.92,
+      "end": 167.18,
+      "text": "Phao vịt vàng tôi để lại"
+    },
+    {
+      "t": 170.32,
+      "end": 172.18,
+      "text": "Cho ông chú nào học năm sau"
+    }
+  ]
+}

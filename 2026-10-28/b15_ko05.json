@@ -1,0 +1,297 @@
+{
+  "id": "b15_ko05",
+  "title": "일요일 어항 청소",
+  "title_source": "scripted",
+  "genre": "Korean accordion musette waltz",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm, unhurried, gently amused",
+  "persona": "",
+  "subject": "a man's Sunday ritual of cleaning the tank of the goldfish he won at a school fair eleven years ago, which now outweighs every other fish in the shop",
+  "caption": "Korean accordion musette waltz in the French bal-musette tradition, 3/4 time. Musette accordion with a wet tremolo tuning playing the melody, acoustic gypsy-jazz guitar strumming waltz pompe, walking upright bass on the downbeat, brushed snare. Small café acoustic mix, warm and dry. Male gentle baritone, close and storytelling. 138 BPM, A minor. Warm, unhurried and gently amused. No drum kit backbeat, no synths, no autotune, no pop chorus build, no trot vibrato.",
+  "lyrics": "[Intro - musette accordion waltz, guitar pompe]\n\n[Verse 1]\n일요일 아침 열 시면\n양동이 두 개 꺼내\n초등학교 운동회에서\n봉지째 받아 온 너\n\n[Pre-Chorus]\n그땐 손가락만 했는데\n지금은 내 손바닥만 해\n\n[Chorus]\n물 반만 갈아 줄게\n천천히 헤엄쳐\n십일 년째 같은 얼굴로\n날 보는 금붕어야\n\n[Verse 2]\n수족관 아저씨가 묻네\n이게 그 금붕어냐고\n어항을 세 번 바꾸고\n이름은 아직 없어\n\n[Chorus]\n물 반만 갈아 줄게\n천천히 헤엄쳐\n올해는 이름 지어 줄게\n뻐끔이 어때\n\n[Outro - accordion alone, slowing]\n뻐끔이 어때",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Korean accordion musette waltz in the French bal-musette tradition, 3/4 time. Musette accordion with a wet tremolo tuning playing the melody, acoustic gypsy-jazz guitar strumming waltz pompe, walking upright bass on the downbeat, brushed snare. Small café acoustic mix, warm and dry. Male gentle baritone, close and storytelling. 138 BPM, A minor. Warm, unhurried and gently amused. No drum kit backbeat, no synths, no autotune, no pop chorus build, no trot vibrato.",
+    "lyrics": "[Intro - musette accordion waltz, guitar pompe]\n\n[Verse 1]\n일요일 아침 열 시면\n양동이 두 개 꺼내\n초등학교 운동회에서\n봉지째 받아 온 너\n\n[Pre-Chorus]\n그땐 손가락만 했는데\n지금은 내 손바닥만 해\n\n[Chorus]\n물 반만 갈아 줄게\n천천히 헤엄쳐\n십일 년째 같은 얼굴로\n날 보는 금붕어야\n\n[Verse 2]\n수족관 아저씨가 묻네\n이게 그 금붕어냐고\n어항을 세 번 바꾸고\n이름은 아직 없어\n\n[Chorus]\n물 반만 갈아 줄게\n천천히 헤엄쳐\n올해는 이름 지어 줄게\n뻐끔이 어때\n\n[Outro - accordion alone, slowing]\n뻐끔이 어때"
+  },
+  "seed": "3675972931",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.24s**\n- 65.24s per song\n- LM phase (1 song): 11.70s\n- DiT phase (1 song): 53.53s",
+  "task_id": "4b32ea43-8223-4363-bf8e-f4f433007971",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-28T23:06:50.725600+08:00",
+  "audio": "b15_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 43.02,
+      "end": 43.02,
+      "text": "[Intro - musette accordion waltz, guitar pompe]"
+    },
+    {
+      "t": 43.02,
+      "end": 43.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.02,
+      "end": 46.62,
+      "text": "일요일 아침 열 시면"
+    },
+    {
+      "t": 49.87,
+      "end": 53.31,
+      "text": "양동이 두 개 꺼내"
+    },
+    {
+      "t": 56.75,
+      "end": 60.69,
+      "text": "초등학교 운동회에서"
+    },
+    {
+      "t": 60.69,
+      "end": 63.37,
+      "text": "봉지째 받아 온 너"
+    },
+    {
+      "t": 63.47,
+      "end": 63.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 63.47,
+      "end": 66.89,
+      "text": "그땐 손가락만 했는데"
+    },
+    {
+      "t": 69.45,
+      "end": 73.81,
+      "text": "지금은 내 손바닥만 해"
+    },
+    {
+      "t": 77.09,
+      "end": 77.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.09,
+      "end": 81.13,
+      "text": "물 반만 갈아 줄게"
+    },
+    {
+      "t": 81.65,
+      "end": 83.65,
+      "text": "천천히 헤엄쳐"
+    },
+    {
+      "t": 84.17,
+      "end": 87.35,
+      "text": "십일 년째 같은 얼굴로"
+    },
+    {
+      "t": 87.65,
+      "end": 90.21,
+      "text": "날 보는 금붕어야"
+    },
+    {
+      "t": 97.97,
+      "end": 97.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.97,
+      "end": 102.05,
+      "text": "수족관 아저씨가 묻네"
+    },
+    {
+      "t": 105.09,
+      "end": 112.59,
+      "text": "이게 그 금붕어냐고"
+    },
+    {
+      "t": 112.99,
+      "end": 116.47,
+      "text": "어항을 세 번 바꾸고"
+    },
+    {
+      "t": 116.53,
+      "end": 119.05,
+      "text": "이름은 아직 없어"
+    },
+    {
+      "t": 119.27,
+      "end": 119.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.27,
+      "end": 123.39,
+      "text": "물 반만 갈아 줄게"
+    },
+    {
+      "t": 123.81,
+      "end": 129.01,
+      "text": "천천히 헤엄쳐"
+    },
+    {
+      "t": 129.61,
+      "end": 136.79,
+      "text": "올해는 이름 지어 줄게"
+    },
+    {
+      "t": 138.09,
+      "end": 150.12,
+      "text": "뻐끔이 어때"
+    },
+    {
+      "t": 152.94,
+      "end": 152.94,
+      "text": "[Outro - accordion alone, slowing]"
+    },
+    {
+      "t": 152.94,
+      "end": 164.9,
+      "text": "뻐끔이 어때"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 43.02,
+      "end": 43.02,
+      "text": "[Intro - musette accordion waltz, guitar pompe]"
+    },
+    {
+      "t": 43.02,
+      "end": 43.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.02,
+      "end": 46.62,
+      "text": "일요일 아침 열 시면"
+    },
+    {
+      "t": 49.87,
+      "end": 53.33,
+      "text": "양동이 두 개 꺼내"
+    },
+    {
+      "t": 56.73,
+      "end": 60.69,
+      "text": "초등학교 운동회에서"
+    },
+    {
+      "t": 63.07,
+      "end": 64.77,
+      "text": "봉지째 받아 온 너"
+    },
+    {
+      "t": 64.77,
+      "end": 64.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 64.77,
+      "end": 66.89,
+      "text": "그땐 손가락만 했는데"
+    },
+    {
+      "t": 69.49,
+      "end": 73.81,
+      "text": "지금은 내 손바닥만 해"
+    },
+    {
+      "t": 77.09,
+      "end": 77.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.09,
+      "end": 81.13,
+      "text": "물 반만 갈아 줄게"
+    },
+    {
+      "t": 82.01,
+      "end": 84.55,
+      "text": "천천히 헤엄쳐"
+    },
+    {
+      "t": 84.55,
+      "end": 87.37,
+      "text": "십일 년째 같은 얼굴로"
+    },
+    {
+      "t": 87.67,
+      "end": 90.21,
+      "text": "날 보는 금붕어야"
+    },
+    {
+      "t": 97.95,
+      "end": 97.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.95,
+      "end": 101.13,
+      "text": "수족관 아저씨가 묻네"
+    },
+    {
+      "t": 101.13,
+      "end": 105.43,
+      "text": "이게 그 금붕어냐고"
+    },
+    {
+      "t": 105.47,
+      "end": 111.19,
+      "text": "어항을 세 번 바꾸고"
+    },
+    {
+      "t": 111.25,
+      "end": 113.05,
+      "text": "이름은 아직 없어"
+    },
+    {
+      "t": 119.35,
+      "end": 119.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.35,
+      "end": 123.41,
+      "text": "물 반만 갈아 줄게"
+    },
+    {
+      "t": 124.39,
+      "end": 129.05,
+      "text": "천천히 헤엄쳐"
+    },
+    {
+      "t": 129.63,
+      "end": 136.81,
+      "text": "올해는 이름 지어 줄게"
+    },
+    {
+      "t": 138.09,
+      "end": 141.11,
+      "text": "뻐끔이 어때"
+    },
+    {
+      "t": 153.0,
+      "end": 153.0,
+      "text": "[Outro - accordion alone, slowing]"
+    },
+    {
+      "t": 153.0,
+      "end": 164.9,
+      "text": "뻐끔이 어때"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

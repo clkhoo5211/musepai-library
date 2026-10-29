@@ -1,0 +1,307 @@
+{
+  "id": "b15_ja01",
+  "title": "ベランダ・プール",
+  "title_source": "scripted",
+  "genre": "Asakusa-style batucada samba pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sweaty, proud and ridiculous",
+  "persona": "",
+  "subject": "a man who buys a four-metre inflatable pool at a closing-down sale for 980 yen and fills it with a bucket and a kettle on his tiny apartment balcony until it covers the whole balcony and he sits in it with cold barley tea",
+  "caption": "Japanese batucada samba pop in the Asakusa Samba Carnival street-parade style. Booming surdo drums on two and four, rattling caixa snare rolls, snapping tamborim patterns, squeaking cuíca fills, bright cavaquinho strumming, short brass trio stabs on the hooks. Live outdoor parade mix with dense hand percussion up front. Male baritone lead singing in plain spoken-style Japanese, a shouting mixed crowd chorus answering each line. 104 BPM, A major. Sweaty, proud and ridiculous. No trap drums, no autotune, no EDM drop, no bossa nova softness, no reggaeton beat.",
+  "lyrics": "[Intro - surdo drums, whistle, cuíca]\n\n[Verse 1]\n閉店セールの 段ボール箱\n四メートルのプール 九百八十円\nうちのベランダ 畳二枚分\n店員さんが 笑ってた\n\n[Pre-Chorus]\n空気入れは 足ふみ式\n三十分で 息が切れた\n\n[Chorus]\nベランダ・プール ふくらんで\nエアコンの室外機 のみこんだ\nベランダ・プール 水入れろ\nバケツとやかんで 往復だ\n\n[Verse 2]\n風呂場からベランダ 四十往復\n床がちょっと きしんでる\n大家さんには 言ってない\n麦茶だけは 冷えている\n\n[Chorus]\nベランダ・プール いっぱいだ\n洗濯物は 部屋の中\nベランダ・プール 入ったら\nひざまでしか 来なかった\n\n[Outro - surdo, crowd shouting, brass]\nひざまでしか 来ないけど\n今年の夏は ここが海",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Japanese batucada samba pop in the Asakusa Samba Carnival street-parade style. Booming surdo drums on two and four, rattling caixa snare rolls, snapping tamborim patterns, squeaking cuíca fills, bright cavaquinho strumming, short brass trio stabs on the hooks. Live outdoor parade mix with dense hand percussion up front. Male baritone lead singing in plain spoken-style Japanese, a shouting mixed crowd chorus answering each line. 104 BPM, A major. Sweaty, proud and ridiculous. No trap drums, no autotune, no EDM drop, no bossa nova softness, no reggaeton beat.",
+    "lyrics": "[Intro - surdo drums, whistle, cuíca]\n\n[Verse 1]\n閉店セールの 段ボール箱\n四メートルのプール 九百八十円\nうちのベランダ 畳二枚分\n店員さんが 笑ってた\n\n[Pre-Chorus]\n空気入れは 足ふみ式\n三十分で 息が切れた\n\n[Chorus]\nベランダ・プール ふくらんで\nエアコンの室外機 のみこんだ\nベランダ・プール 水入れろ\nバケツとやかんで 往復だ\n\n[Verse 2]\n風呂場からベランダ 四十往復\n床がちょっと きしんでる\n大家さんには 言ってない\n麦茶だけは 冷えている\n\n[Chorus]\nベランダ・プール いっぱいだ\n洗濯物は 部屋の中\nベランダ・プール 入ったら\nひざまでしか 来なかった\n\n[Outro - surdo, crowd shouting, brass]\nひざまでしか 来ないけど\n今年の夏は ここが海"
+  },
+  "seed": "4124302830",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.13s**\n- 64.13s per song\n- LM phase (1 song): 11.22s\n- DiT phase (1 song): 52.91s",
+  "task_id": "ff31835b-e062-4289-8bcb-833821593d26",
+  "elapsed_s": 81.2,
+  "generated_at": "2026-10-29T01:18:51.245560+08:00",
+  "audio": "b15_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Intro - surdo drums, whistle, cuíca]"
+    },
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.02,
+      "end": 30.5,
+      "text": "閉店セールの 段ボール箱"
+    },
+    {
+      "t": 30.54,
+      "end": 32.32,
+      "text": "四メートルのプール 九百八十円"
+    },
+    {
+      "t": 32.34,
+      "end": 35.22,
+      "text": "うちのベランダ 畳二枚分"
+    },
+    {
+      "t": 35.26,
+      "end": 37.66,
+      "text": "店員さんが 笑ってた"
+    },
+    {
+      "t": 37.74,
+      "end": 37.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.74,
+      "end": 40.76,
+      "text": "空気入れは 足ふみ式"
+    },
+    {
+      "t": 40.76,
+      "end": 42.6,
+      "text": "三十分で 息が切れた"
+    },
+    {
+      "t": 42.72,
+      "end": 42.72,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.72,
+      "end": 47.74,
+      "text": "ベランダ・プール ふくらんで"
+    },
+    {
+      "t": 48.86,
+      "end": 52.33,
+      "text": "エアコンの室外機 のみこんだ"
+    },
+    {
+      "t": 53.67,
+      "end": 58.63,
+      "text": "ベランダ・プール 水入れろ"
+    },
+    {
+      "t": 59.39,
+      "end": 63.29,
+      "text": "バケツとやかんで 往復だ"
+    },
+    {
+      "t": 72.33,
+      "end": 72.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.33,
+      "end": 77.31,
+      "text": "風呂場からベランダ 四十往復"
+    },
+    {
+      "t": 77.47,
+      "end": 100.71,
+      "text": "床がちょっと きしんでる"
+    },
+    {
+      "t": 100.77,
+      "end": 108.13,
+      "text": "大家さんには 言ってない"
+    },
+    {
+      "t": 108.15,
+      "end": 116.57,
+      "text": "麦茶だけは 冷えている"
+    },
+    {
+      "t": 116.77,
+      "end": 116.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.77,
+      "end": 131.45,
+      "text": "ベランダ・プール いっぱいだ"
+    },
+    {
+      "t": 131.61,
+      "end": 150.46,
+      "text": "洗濯物は 部屋の中"
+    },
+    {
+      "t": 150.72,
+      "end": 156.84,
+      "text": "ベランダ・プール 入ったら"
+    },
+    {
+      "t": 158.44,
+      "end": 161.48,
+      "text": "ひざまでしか 来なかった"
+    },
+    {
+      "t": 161.8,
+      "end": 161.8,
+      "text": "[Outro - surdo, crowd shouting, brass]"
+    },
+    {
+      "t": 161.8,
+      "end": 170.7,
+      "text": "ひざまでしか 来ないけど"
+    },
+    {
+      "t": 174.56,
+      "end": 191.66,
+      "text": "今年の夏は ここが海"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Intro - surdo drums, whistle, cuíca]"
+    },
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.02,
+      "end": 30.5,
+      "text": "閉店セールの 段ボール箱"
+    },
+    {
+      "t": 30.54,
+      "end": 32.34,
+      "text": "四メートルのプール 九百八十円"
+    },
+    {
+      "t": 32.34,
+      "end": 34.5,
+      "text": "うちのベランダ 畳二枚分"
+    },
+    {
+      "t": 34.52,
+      "end": 36.42,
+      "text": "店員さんが 笑ってた"
+    },
+    {
+      "t": 36.42,
+      "end": 36.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.42,
+      "end": 38.04,
+      "text": "空気入れは 足ふみ式"
+    },
+    {
+      "t": 38.14,
+      "end": 39.9,
+      "text": "三十分で 息が切れた"
+    },
+    {
+      "t": 39.9,
+      "end": 39.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.9,
+      "end": 42.86,
+      "text": "ベランダ・プール ふくらんで"
+    },
+    {
+      "t": 42.9,
+      "end": 52.33,
+      "text": "エアコンの室外機 のみこんだ"
+    },
+    {
+      "t": 53.65,
+      "end": 58.63,
+      "text": "ベランダ・プール 水入れろ"
+    },
+    {
+      "t": 59.39,
+      "end": 63.29,
+      "text": "バケツとやかんで 往復だ"
+    },
+    {
+      "t": 72.33,
+      "end": 72.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.33,
+      "end": 77.31,
+      "text": "風呂場からベランダ 四十往復"
+    },
+    {
+      "t": 77.47,
+      "end": 80.39,
+      "text": "床がちょっと きしんでる"
+    },
+    {
+      "t": 100.77,
+      "end": 113.21,
+      "text": "大家さんには 言ってない"
+    },
+    {
+      "t": 113.21,
+      "end": 129.63,
+      "text": "麦茶だけは 冷えている"
+    },
+    {
+      "t": 129.77,
+      "end": 129.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.77,
+      "end": 132.31,
+      "text": "ベランダ・プール いっぱいだ"
+    },
+    {
+      "t": 132.41,
+      "end": 133.99,
+      "text": "洗濯物は 部屋の中"
+    },
+    {
+      "t": 134.23,
+      "end": 155.96,
+      "text": "ベランダ・プール 入ったら"
+    },
+    {
+      "t": 156.18,
+      "end": 161.48,
+      "text": "ひざまでしか 来なかった"
+    },
+    {
+      "t": 169.38,
+      "end": 169.38,
+      "text": "[Outro - surdo, crowd shouting, brass]"
+    },
+    {
+      "t": 169.38,
+      "end": 174.98,
+      "text": "ひざまでしか 来ないけど"
+    },
+    {
+      "t": 175.14,
+      "end": 185.16,
+      "text": "今年の夏は ここが海"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

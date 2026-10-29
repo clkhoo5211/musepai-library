@@ -1,0 +1,444 @@
+{
+  "id": "b15_vi04",
+  "title": "Lịch Hẹn Ba Tháng",
+  "title_source": "scripted",
+  "genre": "đờn ca tài tử folk-pop",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "shy, tender and hopeful",
+  "persona": "",
+  "subject": "a young man in Vĩnh Long who books a teeth cleaning every three months only to see the dental nurse, until she writes her phone number on the back of his appointment card",
+  "caption": "Đờn ca tài tử folk-pop from the Mekong Delta. Đàn kìm moon lute with bent ornamented notes; đàn tranh zither rippling glissandi; phím lõm scalloped-fret acoustic guitar answering the voice; soft song lang woodblock clicks marking the phrase; low sustained cello underneath. Intimate warm acoustic recording, close mics, no heavy reverb. Male baritone singing gently in a Southern accent with light vọng cổ ornaments. 76 BPM, A minor. Shy, tender and hopeful. No drum kit, no EDM, no autotune, no pop ballad piano, no trap beats.",
+  "lyrics": "[Intro - đàn kìm and đàn tranh]\n\n[Verse 1]\nPhòng nha nhỏ bên chợ Vĩnh Long\nGhế xanh, đèn trắng, nước súc miệng\nEm đeo khẩu trang, mắt cười cong\nAnh há miệng mà quên cả tên\n\n[Pre-Chorus]\nRăng anh sạch bong từ lâu rồi\nMà anh vẫn hẹn ba tháng một lần\n\n[Chorus]\nEm ơi lịch hẹn ba tháng\nAnh đếm từng tuần mà chờ\nEm ơi lịch hẹn ba tháng\nLâu quá, anh ngồi ngẩn ngơ\n\n[Verse 2]\nHôm nay em đưa tấm thẻ hẹn\nBảo anh lật mặt sau mà xem\nMấy con số viết bằng bút bi\nDưới còn vẽ thêm cái răng cười\n\n[Chorus]\nEm ơi thôi khỏi ba tháng\nTối nay anh gọi được không\nEm ơi thôi khỏi ba tháng\nAnh cười không khép miệng luôn\n\n[Outro - song lang and đàn kìm]\nTấm thẻ hẹn anh cất trong ví\nCạnh tờ hai chục tiền cà phê",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Đờn ca tài tử folk-pop from the Mekong Delta. Đàn kìm moon lute with bent ornamented notes; đàn tranh zither rippling glissandi; phím lõm scalloped-fret acoustic guitar answering the voice; soft song lang woodblock clicks marking the phrase; low sustained cello underneath. Intimate warm acoustic recording, close mics, no heavy reverb. Male baritone singing gently in a Southern accent with light vọng cổ ornaments. 76 BPM, A minor. Shy, tender and hopeful. No drum kit, no EDM, no autotune, no pop ballad piano, no trap beats.",
+    "lyrics": "[Intro - đàn kìm and đàn tranh]\n\n[Verse 1]\nPhòng nha nhỏ bên chợ Vĩnh Long\nGhế xanh, đèn trắng, nước súc miệng\nEm đeo khẩu trang, mắt cười cong\nAnh há miệng mà quên cả tên\n\n[Pre-Chorus]\nRăng anh sạch bong từ lâu rồi\nMà anh vẫn hẹn ba tháng một lần\n\n[Chorus]\nEm ơi lịch hẹn ba tháng\nAnh đếm từng tuần mà chờ\nEm ơi lịch hẹn ba tháng\nLâu quá, anh ngồi ngẩn ngơ\n\n[Verse 2]\nHôm nay em đưa tấm thẻ hẹn\nBảo anh lật mặt sau mà xem\nMấy con số viết bằng bút bi\nDưới còn vẽ thêm cái răng cười\n\n[Chorus]\nEm ơi thôi khỏi ba tháng\nTối nay anh gọi được không\nEm ơi thôi khỏi ba tháng\nAnh cười không khép miệng luôn\n\n[Outro - song lang and đàn kìm]\nTấm thẻ hẹn anh cất trong ví\nCạnh tờ hai chục tiền cà phê"
+  },
+  "seed": "975067265",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.56s**\n- 68.56s per song\n- LM phase (1 song): 14.47s\n- DiT phase (1 song): 54.09s",
+  "task_id": "78c8b328-d663-43f0-ad36-7601b0698058",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-29T01:14:49.582510+08:00",
+  "audio": "b15_vi04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Intro - đàn kìm and đàn tranh]"
+    },
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.0,
+      "end": 40.62,
+      "text": "Phòng nha nhỏ bên chợ Vĩnh Long"
+    },
+    {
+      "t": 43.72,
+      "end": 47.08,
+      "text": "Ghế xanh, đèn trắng, nước súc miệng"
+    },
+    {
+      "t": 49.36,
+      "end": 53.19,
+      "text": "Em đeo khẩu trang, mắt cười cong"
+    },
+    {
+      "t": 53.19,
+      "end": 57.55,
+      "text": "Anh há miệng mà quên cả tên"
+    },
+    {
+      "t": 57.55,
+      "end": 57.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.55,
+      "end": 61.93,
+      "text": "Răng anh sạch bong từ lâu rồi"
+    },
+    {
+      "t": 61.93,
+      "end": 64.57,
+      "text": "Mà anh vẫn hẹn ba tháng một lần"
+    },
+    {
+      "t": 64.59,
+      "end": 64.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.59,
+      "end": 69.31,
+      "text": "Em ơi lịch hẹn ba tháng"
+    },
+    {
+      "t": 69.51,
+      "end": 72.33,
+      "text": "Anh đếm từng tuần mà chờ"
+    },
+    {
+      "t": 72.95,
+      "end": 77.87,
+      "text": "Em ơi lịch hẹn ba tháng"
+    },
+    {
+      "t": 77.87,
+      "end": 95.85,
+      "text": "Lâu quá, anh ngồi ngẩn ngơ"
+    },
+    {
+      "t": 95.85,
+      "end": 95.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.85,
+      "end": 99.13,
+      "text": "Hôm nay em đưa tấm thẻ hẹn"
+    },
+    {
+      "t": 100.97,
+      "end": 106.23,
+      "text": "Bảo anh lật mặt sau mà xem"
+    },
+    {
+      "t": 107.63,
+      "end": 110.57,
+      "text": "Mấy con số viết bằng bút bi"
+    },
+    {
+      "t": 112.39,
+      "end": 115.25,
+      "text": "Dưới còn vẽ thêm cái răng cười"
+    },
+    {
+      "t": 141.31,
+      "end": 141.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.31,
+      "end": 144.45,
+      "text": "Em ơi thôi khỏi ba tháng"
+    },
+    {
+      "t": 144.45,
+      "end": 148.61,
+      "text": "Tối nay anh gọi được không"
+    },
+    {
+      "t": 148.61,
+      "end": 150.75,
+      "text": "Em ơi thôi khỏi ba tháng"
+    },
+    {
+      "t": 153.09,
+      "end": 158.32,
+      "text": "Anh cười không khép miệng luôn"
+    },
+    {
+      "t": 166.9,
+      "end": 166.9,
+      "text": "[Outro - song lang and đàn kìm]"
+    },
+    {
+      "t": 166.9,
+      "end": 169.42,
+      "text": "Tấm thẻ hẹn anh cất trong ví"
+    },
+    {
+      "t": 174.84,
+      "end": 195.94,
+      "text": "Cạnh tờ hai chục tiền cà phê"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Intro - đàn kìm and đàn tranh]"
+    },
+    {
+      "t": 37.0,
+      "end": 37.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.0,
+      "end": 40.62,
+      "text": "Phòng nha nhỏ bên chợ Vĩnh Long"
+    },
+    {
+      "t": 43.72,
+      "end": 47.08,
+      "text": "Ghế xanh, đèn trắng, nước súc miệng"
+    },
+    {
+      "t": 49.36,
+      "end": 53.19,
+      "text": "Em đeo khẩu trang, mắt cười cong"
+    },
+    {
+      "t": 53.19,
+      "end": 57.55,
+      "text": "Anh há miệng mà quên cả tên"
+    },
+    {
+      "t": 57.55,
+      "end": 57.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.55,
+      "end": 61.93,
+      "text": "Răng anh sạch bong từ lâu rồi"
+    },
+    {
+      "t": 61.93,
+      "end": 64.57,
+      "text": "Mà anh vẫn hẹn ba tháng một lần"
+    },
+    {
+      "t": 64.59,
+      "end": 64.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.59,
+      "end": 69.31,
+      "text": "Em ơi lịch hẹn ba tháng"
+    },
+    {
+      "t": 69.51,
+      "end": 72.33,
+      "text": "Anh đếm từng tuần mà chờ"
+    },
+    {
+      "t": 72.95,
+      "end": 77.87,
+      "text": "Em ơi lịch hẹn ba tháng"
+    },
+    {
+      "t": 77.87,
+      "end": 95.85,
+      "text": "Lâu quá, anh ngồi ngẩn ngơ"
+    },
+    {
+      "t": 95.85,
+      "end": 95.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.85,
+      "end": 99.13,
+      "text": "Hôm nay em đưa tấm thẻ hẹn"
+    },
+    {
+      "t": 100.97,
+      "end": 106.23,
+      "text": "Bảo anh lật mặt sau mà xem"
+    },
+    {
+      "t": 107.63,
+      "end": 110.57,
+      "text": "Mấy con số viết bằng bút bi"
+    },
+    {
+      "t": 112.39,
+      "end": 115.25,
+      "text": "Dưới còn vẽ thêm cái răng cười"
+    },
+    {
+      "t": 141.31,
+      "end": 141.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.31,
+      "end": 144.45,
+      "text": "Em ơi thôi khỏi ba tháng"
+    },
+    {
+      "t": 144.45,
+      "end": 148.61,
+      "text": "Tối nay anh gọi được không"
+    },
+    {
+      "t": 148.61,
+      "end": 150.75,
+      "text": "Em ơi thôi khỏi ba tháng"
+    },
+    {
+      "t": 153.09,
+      "end": 158.32,
+      "text": "Anh cười không khép miệng luôn"
+    },
+    {
+      "t": 166.9,
+      "end": 166.9,
+      "text": "[Outro - song lang and đàn kìm]"
+    },
+    {
+      "t": 166.9,
+      "end": 169.42,
+      "text": "Tấm thẻ hẹn anh cất trong ví"
+    },
+    {
+      "t": 174.84,
+      "end": 195.94,
+      "text": "Cạnh tờ hai chục tiền cà phê"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 37.02,
+      "end": 37.02,
+      "text": "[Intro - đàn kìm and đàn tranh]"
+    },
+    {
+      "t": 37.02,
+      "end": 37.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.02,
+      "end": 40.58,
+      "text": "Phòng nha nhỏ bên chợ Vĩnh Long"
+    },
+    {
+      "t": 43.72,
+      "end": 47.08,
+      "text": "Ghế xanh, đèn trắng, nước súc miệng"
+    },
+    {
+      "t": 49.36,
+      "end": 53.17,
+      "text": "Em đeo khẩu trang, mắt cười cong"
+    },
+    {
+      "t": 58.79,
+      "end": 66.27,
+      "text": "Anh há miệng mà quên cả tên"
+    },
+    {
+      "t": 68.97,
+      "end": 68.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.97,
+      "end": 72.97,
+      "text": "Răng anh sạch bong từ lâu rồi"
+    },
+    {
+      "t": 74.51,
+      "end": 78.57,
+      "text": "Mà anh vẫn hẹn ba tháng một lần"
+    },
+    {
+      "t": 78.57,
+      "end": 78.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.57,
+      "end": 79.25,
+      "text": "Em ơi lịch hẹn ba tháng"
+    },
+    {
+      "t": 79.25,
+      "end": 91.99,
+      "text": "Anh đếm từng tuần mà chờ"
+    },
+    {
+      "t": 91.99,
+      "end": 95.81,
+      "text": "Em ơi lịch hẹn ba tháng"
+    },
+    {
+      "t": 95.81,
+      "end": 96.69,
+      "text": "Lâu quá, anh ngồi ngẩn ngơ"
+    },
+    {
+      "t": 96.69,
+      "end": 96.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.69,
+      "end": 99.11,
+      "text": "Hôm nay em đưa tấm thẻ hẹn"
+    },
+    {
+      "t": 100.97,
+      "end": 106.29,
+      "text": "Bảo anh lật mặt sau mà xem"
+    },
+    {
+      "t": 107.63,
+      "end": 110.57,
+      "text": "Mấy con số viết bằng bút bi"
+    },
+    {
+      "t": 112.37,
+      "end": 115.23,
+      "text": "Dưới còn vẽ thêm cái răng cười"
+    },
+    {
+      "t": 141.31,
+      "end": 141.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.31,
+      "end": 144.45,
+      "text": "Em ơi thôi khỏi ba tháng"
+    },
+    {
+      "t": 144.45,
+      "end": 148.59,
+      "text": "Tối nay anh gọi được không"
+    },
+    {
+      "t": 148.59,
+      "end": 150.73,
+      "text": "Em ơi thôi khỏi ba tháng"
+    },
+    {
+      "t": 153.09,
+      "end": 158.58,
+      "text": "Anh cười không khép miệng luôn"
+    },
+    {
+      "t": 166.9,
+      "end": 166.9,
+      "text": "[Outro - song lang and đàn kìm]"
+    },
+    {
+      "t": 166.9,
+      "end": 169.42,
+      "text": "Tấm thẻ hẹn anh cất trong ví"
+    },
+    {
+      "t": 174.84,
+      "end": 192.76,
+      "text": "Cạnh tờ hai chục tiền cà phê"
+    }
+  ]
+}

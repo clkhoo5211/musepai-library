@@ -1,0 +1,307 @@
+{
+  "id": "b15_vi03",
+  "title": "Bé Mập Ăn Kiêng",
+  "title_source": "scripted",
+  "genre": "Vietnamese cha-cha-cha pop",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "playful, guilty and giggling",
+  "persona": "",
+  "subject": "a Biên Hòa woman whose round corgi is put on a strict diet by the vet, and who keeps slipping it pieces of bánh tráng under the table until the next weigh-in shows it gained half a kilo",
+  "caption": "Cha-cha-cha pop in the style of 1960s Saigon dance halls. Scraped güiro and conga in the cha-cha-cha step; timbales fills at section ends; bright brass section in short stabs; bouncy electric organ comping; clean electric guitar on the off-beat. Bright dance-hall sound with modern clarity. Female soprano with a bright cheeky delivery, small backing group answering the hook. 124 BPM, F major. Playful, guilty and giggling. No EDM drop, no trap beats, no autotune, no reggaeton dembow, no heavy rock guitar.",
+  "lyrics": "[Intro - güiro, conga and brass]\n\n[Verse 1]\nBác sĩ thú y bế bé lên cân\nLắc đầu bảo bé phải giảm cân\nMột chén hạt thôi, không ăn vặt\nBé nằm úp mặt, buồn trăm lần\n\n[Pre-Chorus]\nDưới gầm bàn có đôi mắt tròn\nNhìn bánh tráng như nhìn người yêu\n\n[Chorus]\nCha cha cha, một miếng thôi\nĐừng méc bác sĩ nghe con\nCha cha cha, một miếng thôi\nMai mình chạy bộ cho thon\n\n[Verse 2]\nSáng thứ bảy ôm bé đi cân\nBác sĩ nhíu mày nhìn mấy lần\nTăng thêm nửa ký, ai cho đó\nBé liếm tay tôi, thế là khai\n\n[Chorus]\nCha cha cha, hết miếng rồi\nBác sĩ biết hết rồi con\nCha cha cha, hết miếng rồi\nHai mẹ con mình cùng ăn kiêng\n\n[Outro - timbales and brass hits]\nBánh tráng giấu trên nóc tủ\nCòn bé ngồi chờ dưới đó",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Cha-cha-cha pop in the style of 1960s Saigon dance halls. Scraped güiro and conga in the cha-cha-cha step; timbales fills at section ends; bright brass section in short stabs; bouncy electric organ comping; clean electric guitar on the off-beat. Bright dance-hall sound with modern clarity. Female soprano with a bright cheeky delivery, small backing group answering the hook. 124 BPM, F major. Playful, guilty and giggling. No EDM drop, no trap beats, no autotune, no reggaeton dembow, no heavy rock guitar.",
+    "lyrics": "[Intro - güiro, conga and brass]\n\n[Verse 1]\nBác sĩ thú y bế bé lên cân\nLắc đầu bảo bé phải giảm cân\nMột chén hạt thôi, không ăn vặt\nBé nằm úp mặt, buồn trăm lần\n\n[Pre-Chorus]\nDưới gầm bàn có đôi mắt tròn\nNhìn bánh tráng như nhìn người yêu\n\n[Chorus]\nCha cha cha, một miếng thôi\nĐừng méc bác sĩ nghe con\nCha cha cha, một miếng thôi\nMai mình chạy bộ cho thon\n\n[Verse 2]\nSáng thứ bảy ôm bé đi cân\nBác sĩ nhíu mày nhìn mấy lần\nTăng thêm nửa ký, ai cho đó\nBé liếm tay tôi, thế là khai\n\n[Chorus]\nCha cha cha, hết miếng rồi\nBác sĩ biết hết rồi con\nCha cha cha, hết miếng rồi\nHai mẹ con mình cùng ăn kiêng\n\n[Outro - timbales and brass hits]\nBánh tráng giấu trên nóc tủ\nCòn bé ngồi chờ dưới đó"
+  },
+  "seed": "1551148837",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.45s**\n- 52.45s per song\n- LM phase (1 song): 10.32s\n- DiT phase (1 song): 42.13s",
+  "task_id": "fc744284-1c08-4b43-8077-e197358edbca",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-29T01:13:29.353328+08:00",
+  "audio": "b15_vi03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.94,
+      "end": 26.94,
+      "text": "[Intro - güiro, conga and brass]"
+    },
+    {
+      "t": 26.94,
+      "end": 26.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.94,
+      "end": 32.34,
+      "text": "Bác sĩ thú y bế bé lên cân"
+    },
+    {
+      "t": 32.34,
+      "end": 35.54,
+      "text": "Lắc đầu bảo bé phải giảm cân"
+    },
+    {
+      "t": 36.18,
+      "end": 38.94,
+      "text": "Một chén hạt thôi, không ăn vặt"
+    },
+    {
+      "t": 38.94,
+      "end": 43.26,
+      "text": "Bé nằm úp mặt, buồn trăm lần"
+    },
+    {
+      "t": 45.34,
+      "end": 45.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.34,
+      "end": 48.35,
+      "text": "Dưới gầm bàn có đôi mắt tròn"
+    },
+    {
+      "t": 52.79,
+      "end": 55.15,
+      "text": "Nhìn bánh tráng như nhìn người yêu"
+    },
+    {
+      "t": 58.31,
+      "end": 58.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.31,
+      "end": 61.17,
+      "text": "Cha cha cha, một miếng thôi"
+    },
+    {
+      "t": 62.27,
+      "end": 64.95,
+      "text": "Đừng méc bác sĩ nghe con"
+    },
+    {
+      "t": 65.97,
+      "end": 68.77,
+      "text": "Cha cha cha, một miếng thôi"
+    },
+    {
+      "t": 69.63,
+      "end": 72.61,
+      "text": "Mai mình chạy bộ cho thon"
+    },
+    {
+      "t": 74.11,
+      "end": 74.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.11,
+      "end": 78.03,
+      "text": "Sáng thứ bảy ôm bé đi cân"
+    },
+    {
+      "t": 81.87,
+      "end": 86.15,
+      "text": "Bác sĩ nhíu mày nhìn mấy lần"
+    },
+    {
+      "t": 89.51,
+      "end": 94.93,
+      "text": "Tăng thêm nửa ký, ai cho đó"
+    },
+    {
+      "t": 96.25,
+      "end": 108.67,
+      "text": "Bé liếm tay tôi, thế là khai"
+    },
+    {
+      "t": 111.49,
+      "end": 111.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.49,
+      "end": 114.03,
+      "text": "Cha cha cha, hết miếng rồi"
+    },
+    {
+      "t": 115.59,
+      "end": 118.05,
+      "text": "Bác sĩ biết hết rồi con"
+    },
+    {
+      "t": 119.15,
+      "end": 121.69,
+      "text": "Cha cha cha, hết miếng rồi"
+    },
+    {
+      "t": 122.99,
+      "end": 128.97,
+      "text": "Hai mẹ con mình cùng ăn kiêng"
+    },
+    {
+      "t": 140.16,
+      "end": 140.16,
+      "text": "[Outro - timbales and brass hits]"
+    },
+    {
+      "t": 140.16,
+      "end": 143.38,
+      "text": "Bánh tráng giấu trên nóc tủ"
+    },
+    {
+      "t": 146.04,
+      "end": 148.34,
+      "text": "Còn bé ngồi chờ dưới đó"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Intro - güiro, conga and brass]"
+    },
+    {
+      "t": 0.48,
+      "end": 0.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.48,
+      "end": 45.28,
+      "text": "Bác sĩ thú y bế bé lên cân"
+    },
+    {
+      "t": 45.28,
+      "end": 45.8,
+      "text": "Lắc đầu bảo bé phải giảm cân"
+    },
+    {
+      "t": 45.8,
+      "end": 46.37,
+      "text": "Một chén hạt thôi, không ăn vặt"
+    },
+    {
+      "t": 46.37,
+      "end": 46.87,
+      "text": "Bé nằm úp mặt, buồn trăm lần"
+    },
+    {
+      "t": 46.87,
+      "end": 46.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.87,
+      "end": 48.37,
+      "text": "Dưới gầm bàn có đôi mắt tròn"
+    },
+    {
+      "t": 52.79,
+      "end": 55.19,
+      "text": "Nhìn bánh tráng như nhìn người yêu"
+    },
+    {
+      "t": 58.29,
+      "end": 58.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.29,
+      "end": 61.15,
+      "text": "Cha cha cha, một miếng thôi"
+    },
+    {
+      "t": 62.27,
+      "end": 64.93,
+      "text": "Đừng méc bác sĩ nghe con"
+    },
+    {
+      "t": 65.97,
+      "end": 68.79,
+      "text": "Cha cha cha, một miếng thôi"
+    },
+    {
+      "t": 69.61,
+      "end": 72.61,
+      "text": "Mai mình chạy bộ cho thon"
+    },
+    {
+      "t": 74.11,
+      "end": 74.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.11,
+      "end": 78.03,
+      "text": "Sáng thứ bảy ôm bé đi cân"
+    },
+    {
+      "t": 81.87,
+      "end": 86.15,
+      "text": "Bác sĩ nhíu mày nhìn mấy lần"
+    },
+    {
+      "t": 89.51,
+      "end": 94.95,
+      "text": "Tăng thêm nửa ký, ai cho đó"
+    },
+    {
+      "t": 96.25,
+      "end": 108.63,
+      "text": "Bé liếm tay tôi, thế là khai"
+    },
+    {
+      "t": 111.49,
+      "end": 111.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.49,
+      "end": 114.05,
+      "text": "Cha cha cha, hết miếng rồi"
+    },
+    {
+      "t": 115.57,
+      "end": 118.07,
+      "text": "Bác sĩ biết hết rồi con"
+    },
+    {
+      "t": 119.15,
+      "end": 121.69,
+      "text": "Cha cha cha, hết miếng rồi"
+    },
+    {
+      "t": 122.99,
+      "end": 129.11,
+      "text": "Hai mẹ con mình cùng ăn kiêng"
+    },
+    {
+      "t": 140.16,
+      "end": 140.16,
+      "text": "[Outro - timbales and brass hits]"
+    },
+    {
+      "t": 140.16,
+      "end": 143.38,
+      "text": "Bánh tráng giấu trên nóc tủ"
+    },
+    {
+      "t": 146.04,
+      "end": 148.36,
+      "text": "Còn bé ngồi chờ dưới đó"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

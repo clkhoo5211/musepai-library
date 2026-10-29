@@ -1,0 +1,489 @@
+{
+  "id": "b15_ja02",
+  "title": "プシュッとこないで",
+  "title_source": "scripted",
+  "genre": "VTuber-style denpa song",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "panicky, hyper and cheerfully silly",
+  "persona": "",
+  "subject": "a young woman at an eye clinic who cannot stop blinking before the air-puff eye-pressure test, flinching on every countdown while the nurse patiently resets the machine, until she finally keeps her eyes open on the seventh try",
+  "caption": "Japanese denpa song in the VTuber and moe-song style, high-speed anime-game electro-pop. Driving four-on-the-floor kick at full speed, a squealing square-wave synth lead, bright supersaw pads, busy slap bass runs, glockenspiel sparkles on the hooks. Loud compressed anime-game sheen with stereo synth ping-pong. High bright female lead singing fast and breathless, with short spoken asides between lines. 172 BPM, D major. Panicky, hyper and cheerfully silly. No trap beat, no autotune warble, no dubstep wobble, no rock band, no ballad section.",
+  "lyrics": "[Intro - square-wave synth lead, fast kick]\n\n[Verse 1]\n眼科の待合 名前呼ばれた\nあごをのせてね おでこつけてね\n緑の点を 見ててくださいね\nはいって言ったの もうこわい\n\n[Pre-Chorus]\n三 二 一で まばたきした\nもう一回ねと 看護師さん\n\n[Chorus]\nプシュッとこないで まだ待って\n目をあけたいのに 閉じちゃうの\nプシュッとこないで おねがい\nこれで五回目 ごめんなさい\n\n[Verse 2]\n指でまぶたを 押さえてみる\nうしろの人が 咳ばらい\n看護師さんは にこにこで\n機械をそっと 戻してく\n\n[Pre-Chorus]\n三 二 一で 目をあけた\n緑の点が にじんでる\n\n[Chorus]\nプシュッときたけど 平気だった\n七回目で やっとできたよ\nプシュッときたけど 笑ってる\n次は左目 ですってさ\n\n[Outro - glockenspiel, synth fades]\n次は左目 ですってさ\nもう一回 三 二 一",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Japanese denpa song in the VTuber and moe-song style, high-speed anime-game electro-pop. Driving four-on-the-floor kick at full speed, a squealing square-wave synth lead, bright supersaw pads, busy slap bass runs, glockenspiel sparkles on the hooks. Loud compressed anime-game sheen with stereo synth ping-pong. High bright female lead singing fast and breathless, with short spoken asides between lines. 172 BPM, D major. Panicky, hyper and cheerfully silly. No trap beat, no autotune warble, no dubstep wobble, no rock band, no ballad section.",
+    "lyrics": "[Intro - square-wave synth lead, fast kick]\n\n[Verse 1]\n眼科の待合 名前呼ばれた\nあごをのせてね おでこつけてね\n緑の点を 見ててくださいね\nはいって言ったの もうこわい\n\n[Pre-Chorus]\n三 二 一で まばたきした\nもう一回ねと 看護師さん\n\n[Chorus]\nプシュッとこないで まだ待って\n目をあけたいのに 閉じちゃうの\nプシュッとこないで おねがい\nこれで五回目 ごめんなさい\n\n[Verse 2]\n指でまぶたを 押さえてみる\nうしろの人が 咳ばらい\n看護師さんは にこにこで\n機械をそっと 戻してく\n\n[Pre-Chorus]\n三 二 一で 目をあけた\n緑の点が にじんでる\n\n[Chorus]\nプシュッときたけど 平気だった\n七回目で やっとできたよ\nプシュッときたけど 笑ってる\n次は左目 ですってさ\n\n[Outro - glockenspiel, synth fades]\n次は左目 ですってさ\nもう一回 三 二 一"
+  },
+  "seed": "4148036124",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.32s**\n- 57.32s per song\n- LM phase (1 song): 14.23s\n- DiT phase (1 song): 43.08s",
+  "task_id": "b48a9cd3-2c73-4219-b9f8-807866e1055d",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-29T01:20:11.359267+08:00",
+  "audio": "b15_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.84,
+      "end": 25.84,
+      "text": "[Intro - square-wave synth lead, fast kick]"
+    },
+    {
+      "t": 25.84,
+      "end": 25.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.84,
+      "end": 27.58,
+      "text": "眼科の待合 名前呼ばれた"
+    },
+    {
+      "t": 27.6,
+      "end": 28.26,
+      "text": "あごをのせてね おでこつけてね"
+    },
+    {
+      "t": 28.28,
+      "end": 31.68,
+      "text": "緑の点を 見ててくださいね"
+    },
+    {
+      "t": 31.68,
+      "end": 34.18,
+      "text": "はいって言ったの もうこわい"
+    },
+    {
+      "t": 34.2,
+      "end": 34.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.2,
+      "end": 35.48,
+      "text": "三 二 一で まばたきした"
+    },
+    {
+      "t": 35.62,
+      "end": 37.24,
+      "text": "もう一回ねと 看護師さん"
+    },
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.3,
+      "end": 39.88,
+      "text": "プシュッとこないで まだ待って"
+    },
+    {
+      "t": 42.58,
+      "end": 47.65,
+      "text": "目をあけたいのに 閉じちゃうの"
+    },
+    {
+      "t": 48.27,
+      "end": 51.25,
+      "text": "プシュッとこないで おねがい"
+    },
+    {
+      "t": 53.51,
+      "end": 57.39,
+      "text": "これで五回目 ごめんなさい"
+    },
+    {
+      "t": 71.01,
+      "end": 71.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.01,
+      "end": 73.75,
+      "text": "指でまぶたを 押さえてみる"
+    },
+    {
+      "t": 74.05,
+      "end": 75.49,
+      "text": "うしろの人が 咳ばらい"
+    },
+    {
+      "t": 75.49,
+      "end": 77.01,
+      "text": "看護師さんは にこにこで"
+    },
+    {
+      "t": 77.03,
+      "end": 79.41,
+      "text": "機械をそっと 戻してく"
+    },
+    {
+      "t": 83.35,
+      "end": 83.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 83.35,
+      "end": 85.43,
+      "text": "三 二 一で 目をあけた"
+    },
+    {
+      "t": 87.23,
+      "end": 90.89,
+      "text": "緑の点が にじんでる"
+    },
+    {
+      "t": 93.23,
+      "end": 93.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 93.23,
+      "end": 96.51,
+      "text": "プシュッときたけど 平気だった"
+    },
+    {
+      "t": 98.67,
+      "end": 101.45,
+      "text": "七回目で やっとできたよ"
+    },
+    {
+      "t": 101.69,
+      "end": 107.65,
+      "text": "プシュッときたけど 笑ってる"
+    },
+    {
+      "t": 109.97,
+      "end": 115.37,
+      "text": "次は左目 ですってさ"
+    },
+    {
+      "t": 143.88,
+      "end": 143.88,
+      "text": "[Outro - glockenspiel, synth fades]"
+    },
+    {
+      "t": 143.88,
+      "end": 158.26,
+      "text": "次は左目 ですってさ"
+    },
+    {
+      "t": 159.16,
+      "end": 162.98,
+      "text": "もう一回 三 二 一"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.84,
+      "end": 25.84,
+      "text": "[Intro - square-wave synth lead, fast kick]"
+    },
+    {
+      "t": 25.84,
+      "end": 25.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.84,
+      "end": 27.58,
+      "text": "眼科の待合 名前呼ばれた"
+    },
+    {
+      "t": 27.6,
+      "end": 28.26,
+      "text": "あごをのせてね おでこつけてね"
+    },
+    {
+      "t": 28.28,
+      "end": 31.68,
+      "text": "緑の点を 見ててくださいね"
+    },
+    {
+      "t": 31.68,
+      "end": 34.18,
+      "text": "はいって言ったの もうこわい"
+    },
+    {
+      "t": 34.2,
+      "end": 34.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.2,
+      "end": 35.48,
+      "text": "三 二 一で まばたきした"
+    },
+    {
+      "t": 35.62,
+      "end": 37.24,
+      "text": "もう一回ねと 看護師さん"
+    },
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.3,
+      "end": 39.88,
+      "text": "プシュッとこないで まだ待って"
+    },
+    {
+      "t": 42.58,
+      "end": 47.65,
+      "text": "目をあけたいのに 閉じちゃうの"
+    },
+    {
+      "t": 48.27,
+      "end": 51.25,
+      "text": "プシュッとこないで おねがい"
+    },
+    {
+      "t": 53.51,
+      "end": 57.39,
+      "text": "これで五回目 ごめんなさい"
+    },
+    {
+      "t": 71.01,
+      "end": 71.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.01,
+      "end": 73.75,
+      "text": "指でまぶたを 押さえてみる"
+    },
+    {
+      "t": 74.05,
+      "end": 75.49,
+      "text": "うしろの人が 咳ばらい"
+    },
+    {
+      "t": 75.49,
+      "end": 77.01,
+      "text": "看護師さんは にこにこで"
+    },
+    {
+      "t": 77.03,
+      "end": 79.41,
+      "text": "機械をそっと 戻してく"
+    },
+    {
+      "t": 83.35,
+      "end": 83.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 83.35,
+      "end": 85.43,
+      "text": "三 二 一で 目をあけた"
+    },
+    {
+      "t": 87.23,
+      "end": 90.89,
+      "text": "緑の点が にじんでる"
+    },
+    {
+      "t": 93.23,
+      "end": 93.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 93.23,
+      "end": 96.51,
+      "text": "プシュッときたけど 平気だった"
+    },
+    {
+      "t": 98.67,
+      "end": 101.45,
+      "text": "七回目で やっとできたよ"
+    },
+    {
+      "t": 101.69,
+      "end": 107.65,
+      "text": "プシュッときたけど 笑ってる"
+    },
+    {
+      "t": 109.97,
+      "end": 115.37,
+      "text": "次は左目 ですってさ"
+    },
+    {
+      "t": 143.88,
+      "end": 143.88,
+      "text": "[Outro - glockenspiel, synth fades]"
+    },
+    {
+      "t": 143.88,
+      "end": 158.26,
+      "text": "次は左目 ですってさ"
+    },
+    {
+      "t": 159.16,
+      "end": 162.98,
+      "text": "もう一回 三 二 一"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 6.6,
+      "end": 6.6,
+      "text": "[Intro - square-wave synth lead, fast kick]"
+    },
+    {
+      "t": 6.6,
+      "end": 6.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.6,
+      "end": 14.58,
+      "text": "眼科の待合 名前呼ばれた"
+    },
+    {
+      "t": 14.6,
+      "end": 26.08,
+      "text": "あごをのせてね おでこつけてね"
+    },
+    {
+      "t": 26.18,
+      "end": 28.92,
+      "text": "緑の点を 見ててくださいね"
+    },
+    {
+      "t": 29.02,
+      "end": 34.4,
+      "text": "はいって言ったの もうこわい"
+    },
+    {
+      "t": 34.64,
+      "end": 34.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.64,
+      "end": 35.42,
+      "text": "三 二 一で まばたきした"
+    },
+    {
+      "t": 35.62,
+      "end": 37.24,
+      "text": "もう一回ねと 看護師さん"
+    },
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.3,
+      "end": 39.86,
+      "text": "プシュッとこないで まだ待って"
+    },
+    {
+      "t": 42.58,
+      "end": 47.65,
+      "text": "目をあけたいのに 閉じちゃうの"
+    },
+    {
+      "t": 48.23,
+      "end": 51.23,
+      "text": "プシュッとこないで おねがい"
+    },
+    {
+      "t": 53.53,
+      "end": 57.35,
+      "text": "これで五回目 ごめんなさい"
+    },
+    {
+      "t": 70.99,
+      "end": 70.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.99,
+      "end": 73.75,
+      "text": "指でまぶたを 押さえてみる"
+    },
+    {
+      "t": 74.05,
+      "end": 76.21,
+      "text": "うしろの人が 咳ばらい"
+    },
+    {
+      "t": 76.65,
+      "end": 78.67,
+      "text": "看護師さんは にこにこで"
+    },
+    {
+      "t": 78.73,
+      "end": 83.97,
+      "text": "機械をそっと 戻してく"
+    },
+    {
+      "t": 84.05,
+      "end": 84.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 84.05,
+      "end": 85.41,
+      "text": "三 二 一で 目をあけた"
+    },
+    {
+      "t": 87.43,
+      "end": 90.85,
+      "text": "緑の点が にじんでる"
+    },
+    {
+      "t": 93.23,
+      "end": 93.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 93.23,
+      "end": 96.51,
+      "text": "プシュッときたけど 平気だった"
+    },
+    {
+      "t": 98.69,
+      "end": 103.89,
+      "text": "七回目で やっとできたよ"
+    },
+    {
+      "t": 104.49,
+      "end": 110.07,
+      "text": "プシュッときたけど 笑ってる"
+    },
+    {
+      "t": 110.15,
+      "end": 115.37,
+      "text": "次は左目 ですってさ"
+    },
+    {
+      "t": 144.58,
+      "end": 144.58,
+      "text": "[Outro - glockenspiel, synth fades]"
+    },
+    {
+      "t": 144.58,
+      "end": 158.26,
+      "text": "次は左目 ですってさ"
+    },
+    {
+      "t": 159.18,
+      "end": 183.02,
+      "text": "もう一回 三 二 一"
+    }
+  ]
+}

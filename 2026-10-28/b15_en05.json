@@ -1,0 +1,387 @@
+{
+  "id": "b15_en05",
+  "title": "Fourteen Across",
+  "title_source": "scripted",
+  "genre": "barbershop quartet",
+  "language": "en",
+  "language_name": "English",
+  "mood": "jolly, cheeky and triumphant",
+  "persona": "",
+  "subject": "four regulars at a Norwich pub stuck all week on 14 across of the Saturday cryptic crossword, until the landlady pulling pints solves it without looking up",
+  "caption": "Barbershop quartet, classic four-part close harmony. Tenor, lead, baritone and bass singing ringing locked chords, the bass with bom-bom pickups, finger snaps on the backbeat, an old upright pub piano only in the intro. Warm close-mic pub-room sound with natural reverb and tightly tuned chords. Male quartet, the lead carrying the melody, tenor floating above. 112 BPM, B-flat major. Jolly, cheeky and triumphant. No drums, no autotune, no pop production, no rap, no solo diva runs.",
+  "lyrics": "[Intro - pub piano then quartet hum]\n\n[Verse 1]\nSaturday the paper came\nFour of us, the same old game\nPens out, pints poured, off we go\nThirteen down, a cinch, you know\n\n[Pre-Chorus]\nFourteen across, eight letters, oh\nSeven words of clue, and no\n\n[Chorus]\nFourteen across, we're lost\nSunday, Monday, gone\nFourteen across, the cost\nIs a pint for every one\n\n[Verse 2]\nTuesday Bill rang up his son\nWednesday Ken asked everyone\nThursday Reg wrote it in pen\nWrong, so we began again\n\n[Chorus]\nFourteen across, we're lost\nFriday, still a blank\nFourteen across, the cost\nIs filling Maureen's bank\n\n[Bridge - bass bom-bom]\nThen Maureen, pulling a pint\nNever even looks\n\n[Chorus]\nFourteen across, she's right\nSpells it slow and calm\nFourteen across tonight\nWe're buying Maureen's round\n\n[Outro - ringing tag chord]\nNext Saturday, the paper's due\nMaureen, there's a pen for you",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Barbershop quartet, classic four-part close harmony. Tenor, lead, baritone and bass singing ringing locked chords, the bass with bom-bom pickups, finger snaps on the backbeat, an old upright pub piano only in the intro. Warm close-mic pub-room sound with natural reverb and tightly tuned chords. Male quartet, the lead carrying the melody, tenor floating above. 112 BPM, B-flat major. Jolly, cheeky and triumphant. No drums, no autotune, no pop production, no rap, no solo diva runs.",
+    "lyrics": "[Intro - pub piano then quartet hum]\n\n[Verse 1]\nSaturday the paper came\nFour of us, the same old game\nPens out, pints poured, off we go\nThirteen down, a cinch, you know\n\n[Pre-Chorus]\nFourteen across, eight letters, oh\nSeven words of clue, and no\n\n[Chorus]\nFourteen across, we're lost\nSunday, Monday, gone\nFourteen across, the cost\nIs a pint for every one\n\n[Verse 2]\nTuesday Bill rang up his son\nWednesday Ken asked everyone\nThursday Reg wrote it in pen\nWrong, so we began again\n\n[Chorus]\nFourteen across, we're lost\nFriday, still a blank\nFourteen across, the cost\nIs filling Maureen's bank\n\n[Bridge - bass bom-bom]\nThen Maureen, pulling a pint\nNever even looks\n\n[Chorus]\nFourteen across, she's right\nSpells it slow and calm\nFourteen across tonight\nWe're buying Maureen's round\n\n[Outro - ringing tag chord]\nNext Saturday, the paper's due\nMaureen, there's a pen for you"
+  },
+  "seed": "484091410",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.98s**\n- 57.98s per song\n- LM phase (1 song): 12.99s\n- DiT phase (1 song): 45.00s",
+  "task_id": "e1c1a243-070f-4be7-aba1-d99f4d6558f7",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-28T23:42:05.588198+08:00",
+  "audio": "b15_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.0,
+      "end": 19.0,
+      "text": "[Intro - pub piano then quartet hum]"
+    },
+    {
+      "t": 19.0,
+      "end": 19.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.0,
+      "end": 22.2,
+      "text": "Saturday the paper came"
+    },
+    {
+      "t": 23.74,
+      "end": 26.82,
+      "text": "Four of us, the same old game"
+    },
+    {
+      "t": 27.48,
+      "end": 31.02,
+      "text": "Pens out, pints poured, off we go"
+    },
+    {
+      "t": 31.18,
+      "end": 34.96,
+      "text": "Thirteen down, a cinch, you know"
+    },
+    {
+      "t": 35.48,
+      "end": 35.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.48,
+      "end": 38.82,
+      "text": "Fourteen across, eight letters, oh"
+    },
+    {
+      "t": 38.82,
+      "end": 40.18,
+      "text": "Seven words of clue, and no"
+    },
+    {
+      "t": 44.57,
+      "end": 44.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.57,
+      "end": 48.17,
+      "text": "Fourteen across, we're lost"
+    },
+    {
+      "t": 48.85,
+      "end": 51.31,
+      "text": "Sunday, Monday, gone"
+    },
+    {
+      "t": 53.13,
+      "end": 56.63,
+      "text": "Fourteen across, the cost"
+    },
+    {
+      "t": 56.97,
+      "end": 59.61,
+      "text": "Is a pint for every one"
+    },
+    {
+      "t": 60.87,
+      "end": 60.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.87,
+      "end": 63.51,
+      "text": "Tuesday Bill rang up his son"
+    },
+    {
+      "t": 63.59,
+      "end": 68.39,
+      "text": "Wednesday Ken asked everyone"
+    },
+    {
+      "t": 70.91,
+      "end": 73.23,
+      "text": "Thursday Reg wrote it in pen"
+    },
+    {
+      "t": 73.25,
+      "end": 79.79,
+      "text": "Wrong, so we began again"
+    },
+    {
+      "t": 81.57,
+      "end": 81.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.57,
+      "end": 84.21,
+      "text": "Fourteen across, we're lost"
+    },
+    {
+      "t": 85.81,
+      "end": 88.41,
+      "text": "Friday, still a blank"
+    },
+    {
+      "t": 89.57,
+      "end": 92.97,
+      "text": "Fourteen across, the cost"
+    },
+    {
+      "t": 93.39,
+      "end": 97.03,
+      "text": "Is filling Maureen's bank"
+    },
+    {
+      "t": 106.03,
+      "end": 106.03,
+      "text": "[Bridge - bass bom-bom]"
+    },
+    {
+      "t": 106.03,
+      "end": 107.65,
+      "text": "Then Maureen, pulling a pint"
+    },
+    {
+      "t": 110.45,
+      "end": 112.31,
+      "text": "Never even looks"
+    },
+    {
+      "t": 118.07,
+      "end": 118.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.07,
+      "end": 120.61,
+      "text": "Fourteen across, she's right"
+    },
+    {
+      "t": 122.17,
+      "end": 124.71,
+      "text": "Spells it slow and calm"
+    },
+    {
+      "t": 125.77,
+      "end": 129.15,
+      "text": "Fourteen across tonight"
+    },
+    {
+      "t": 130.05,
+      "end": 137.62,
+      "text": "We're buying Maureen's round"
+    },
+    {
+      "t": 138.34,
+      "end": 138.34,
+      "text": "[Outro - ringing tag chord]"
+    },
+    {
+      "t": 138.34,
+      "end": 141.22,
+      "text": "Next Saturday, the paper's due"
+    },
+    {
+      "t": 147.42,
+      "end": 149.52,
+      "text": "Maureen, there's a pen for you"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.0,
+      "end": 19.0,
+      "text": "[Intro - pub piano then quartet hum]"
+    },
+    {
+      "t": 19.0,
+      "end": 19.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.0,
+      "end": 22.3,
+      "text": "Saturday the paper came"
+    },
+    {
+      "t": 23.74,
+      "end": 26.88,
+      "text": "Four of us, the same old game"
+    },
+    {
+      "t": 27.46,
+      "end": 31.02,
+      "text": "Pens out, pints poured, off we go"
+    },
+    {
+      "t": 31.2,
+      "end": 34.98,
+      "text": "Thirteen down, a cinch, you know"
+    },
+    {
+      "t": 35.48,
+      "end": 35.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.48,
+      "end": 37.98,
+      "text": "Fourteen across, eight letters, oh"
+    },
+    {
+      "t": 37.98,
+      "end": 40.18,
+      "text": "Seven words of clue, and no"
+    },
+    {
+      "t": 44.57,
+      "end": 44.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.57,
+      "end": 48.19,
+      "text": "Fourteen across, we're lost"
+    },
+    {
+      "t": 48.85,
+      "end": 51.37,
+      "text": "Sunday, Monday, gone"
+    },
+    {
+      "t": 53.11,
+      "end": 56.65,
+      "text": "Fourteen across, the cost"
+    },
+    {
+      "t": 56.97,
+      "end": 59.65,
+      "text": "Is a pint for every one"
+    },
+    {
+      "t": 60.89,
+      "end": 60.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.89,
+      "end": 62.05,
+      "text": "Tuesday Bill rang up his son"
+    },
+    {
+      "t": 62.35,
+      "end": 65.01,
+      "text": "Wednesday Ken asked everyone"
+    },
+    {
+      "t": 70.91,
+      "end": 73.23,
+      "text": "Thursday Reg wrote it in pen"
+    },
+    {
+      "t": 73.25,
+      "end": 79.83,
+      "text": "Wrong, so we began again"
+    },
+    {
+      "t": 81.57,
+      "end": 81.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.57,
+      "end": 84.19,
+      "text": "Fourteen across, we're lost"
+    },
+    {
+      "t": 85.81,
+      "end": 88.43,
+      "text": "Friday, still a blank"
+    },
+    {
+      "t": 89.57,
+      "end": 92.99,
+      "text": "Fourteen across, the cost"
+    },
+    {
+      "t": 93.37,
+      "end": 97.05,
+      "text": "Is filling Maureen's bank"
+    },
+    {
+      "t": 106.03,
+      "end": 106.03,
+      "text": "[Bridge - bass bom-bom]"
+    },
+    {
+      "t": 106.03,
+      "end": 107.63,
+      "text": "Then Maureen, pulling a pint"
+    },
+    {
+      "t": 110.45,
+      "end": 112.31,
+      "text": "Never even looks"
+    },
+    {
+      "t": 118.07,
+      "end": 118.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.07,
+      "end": 120.59,
+      "text": "Fourteen across, she's right"
+    },
+    {
+      "t": 122.17,
+      "end": 124.73,
+      "text": "Spells it slow and calm"
+    },
+    {
+      "t": 125.77,
+      "end": 129.19,
+      "text": "Fourteen across tonight"
+    },
+    {
+      "t": 130.05,
+      "end": 136.84,
+      "text": "We're buying Maureen's round"
+    },
+    {
+      "t": 138.34,
+      "end": 138.34,
+      "text": "[Outro - ringing tag chord]"
+    },
+    {
+      "t": 138.34,
+      "end": 159.54,
+      "text": "Next Saturday, the paper's due"
+    },
+    {
+      "t": 164.52,
+      "end": 168.18,
+      "text": "Maureen, there's a pen for you"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

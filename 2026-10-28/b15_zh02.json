@@ -1,0 +1,317 @@
+{
+  "id": "b15_zh02",
+  "title": "五塊錢的郵票",
+  "title_source": "scripted",
+  "genre": "Mandarin jazz rap",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "dry, self-mocking and good-humoured",
+  "persona": "",
+  "subject": "a young man who buys a 1980 monkey-year-looking stamp at a Sunday flea market for five yuan, sure it is worth a fortune, and the old appraiser with a magnifier tells him it is worth exactly five yuan",
+  "caption": "Mandarin jazz rap, 1990s jazz-hop style. A dusty upright bass loop walking under the verses, muted trumpet phrases between lines, vinyl-crackle piano chord stabs, swung boom-bap drums with a brushed snare. Warm lo-fi tape saturation and soft vinyl hiss, intimate dry vocal. Male mid-range rapper, laid-back conversational flow with deadpan punchlines. 88 BPM, F minor. Dry, self-mocking and good-humoured. No trap hi-hats, no autotune, no 808 slides, no EDM synths, no sung pop chorus.",
+  "lyrics": "[Intro - upright bass loop, muted trumpet, vinyl crackle]\n\n[Verse 1]\n星期天早上的跳蚤市場\n一個鐵盒子 一堆舊郵票\n一隻紅色的猴子看著我\n老闆說五塊 我手在抖\n\n[Pre-Chorus]\n我用信封把它包好\n一路走得比誰都小心\n\n[Chorus]\n五塊錢的郵票\n我已經在想要買什麼車\n五塊錢的郵票\n先別告訴我答案\n\n[Verse 2]\n鑑定的老先生拿放大鏡\n看了三秒又看了我三秒\n他說年輕人 齒孔不對\n這張剛好值五塊\n\n[Pre-Chorus]\n我說那我賺了什麼\n他說你賺了一個早上\n\n[Chorus]\n五塊錢的郵票\n我把它貼在冰箱上面\n五塊錢的郵票\n每天早上跟我打招呼\n\n[Outro - trumpet and bass, crackle fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Mandarin jazz rap, 1990s jazz-hop style. A dusty upright bass loop walking under the verses, muted trumpet phrases between lines, vinyl-crackle piano chord stabs, swung boom-bap drums with a brushed snare. Warm lo-fi tape saturation and soft vinyl hiss, intimate dry vocal. Male mid-range rapper, laid-back conversational flow with deadpan punchlines. 88 BPM, F minor. Dry, self-mocking and good-humoured. No trap hi-hats, no autotune, no 808 slides, no EDM synths, no sung pop chorus.",
+    "lyrics": "[Intro - upright bass loop, muted trumpet, vinyl crackle]\n\n[Verse 1]\n星期天早上的跳蚤市場\n一個鐵盒子 一堆舊郵票\n一隻紅色的猴子看著我\n老闆說五塊 我手在抖\n\n[Pre-Chorus]\n我用信封把它包好\n一路走得比誰都小心\n\n[Chorus]\n五塊錢的郵票\n我已經在想要買什麼車\n五塊錢的郵票\n先別告訴我答案\n\n[Verse 2]\n鑑定的老先生拿放大鏡\n看了三秒又看了我三秒\n他說年輕人 齒孔不對\n這張剛好值五塊\n\n[Pre-Chorus]\n我說那我賺了什麼\n他說你賺了一個早上\n\n[Chorus]\n五塊錢的郵票\n我把它貼在冰箱上面\n五塊錢的郵票\n每天早上跟我打招呼\n\n[Outro - trumpet and bass, crackle fades]"
+  },
+  "seed": "639804517",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.63s**\n- 63.63s per song\n- LM phase (1 song): 16.68s\n- DiT phase (1 song): 46.95s",
+  "task_id": "3d9da13c-460b-4105-9cce-fc63ac14a54f",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-29T00:52:29.301681+08:00",
+  "audio": "b15_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.84,
+      "end": 33.84,
+      "text": "[Intro - upright bass loop, muted trumpet, vinyl crackle]"
+    },
+    {
+      "t": 33.84,
+      "end": 33.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.84,
+      "end": 37.12,
+      "text": "星期天早上的跳蚤市場"
+    },
+    {
+      "t": 39.18,
+      "end": 42.54,
+      "text": "一個鐵盒子 一堆舊郵票"
+    },
+    {
+      "t": 44.8,
+      "end": 47.11,
+      "text": "一隻紅色的猴子看著我"
+    },
+    {
+      "t": 47.19,
+      "end": 49.83,
+      "text": "老闆說五塊 我手在抖"
+    },
+    {
+      "t": 53.33,
+      "end": 53.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.33,
+      "end": 56.01,
+      "text": "我用信封把它包好"
+    },
+    {
+      "t": 56.39,
+      "end": 59.03,
+      "text": "一路走得比誰都小心"
+    },
+    {
+      "t": 59.07,
+      "end": 59.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.07,
+      "end": 61.01,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 61.01,
+      "end": 66.35,
+      "text": "我已經在想要買什麼車"
+    },
+    {
+      "t": 66.49,
+      "end": 67.55,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 68.93,
+      "end": 72.01,
+      "text": "先別告訴我答案"
+    },
+    {
+      "t": 75.09,
+      "end": 75.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.09,
+      "end": 77.99,
+      "text": "鑑定的老先生拿放大鏡"
+    },
+    {
+      "t": 79.89,
+      "end": 83.39,
+      "text": "看了三秒又看了我三秒"
+    },
+    {
+      "t": 85.35,
+      "end": 88.15,
+      "text": "他說年輕人 齒孔不對"
+    },
+    {
+      "t": 90.45,
+      "end": 92.97,
+      "text": "這張剛好值五塊"
+    },
+    {
+      "t": 93.79,
+      "end": 93.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.79,
+      "end": 95.89,
+      "text": "我說那我賺了什麼"
+    },
+    {
+      "t": 96.23,
+      "end": 98.89,
+      "text": "他說你賺了一個早上"
+    },
+    {
+      "t": 98.97,
+      "end": 98.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.97,
+      "end": 103.97,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 107.39,
+      "end": 109.81,
+      "text": "我把它貼在冰箱上面"
+    },
+    {
+      "t": 109.81,
+      "end": 115.93,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 156.52,
+      "end": 158.72,
+      "text": "每天早上跟我打招呼"
+    },
+    {
+      "t": 158.72,
+      "end": 158.72,
+      "text": "[Outro - trumpet and bass, crackle fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.84,
+      "end": 33.84,
+      "text": "[Intro - upright bass loop, muted trumpet, vinyl crackle]"
+    },
+    {
+      "t": 33.84,
+      "end": 33.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.84,
+      "end": 37.1,
+      "text": "星期天早上的跳蚤市場"
+    },
+    {
+      "t": 39.0,
+      "end": 44.72,
+      "text": "一個鐵盒子 一堆舊郵票"
+    },
+    {
+      "t": 44.78,
+      "end": 47.13,
+      "text": "一隻紅色的猴子看著我"
+    },
+    {
+      "t": 47.21,
+      "end": 50.05,
+      "text": "老闆說五塊 我手在抖"
+    },
+    {
+      "t": 53.33,
+      "end": 53.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.33,
+      "end": 56.01,
+      "text": "我用信封把它包好"
+    },
+    {
+      "t": 56.39,
+      "end": 58.99,
+      "text": "一路走得比誰都小心"
+    },
+    {
+      "t": 59.07,
+      "end": 59.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.07,
+      "end": 60.17,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 60.17,
+      "end": 64.37,
+      "text": "我已經在想要買什麼車"
+    },
+    {
+      "t": 64.57,
+      "end": 67.55,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 68.95,
+      "end": 72.01,
+      "text": "先別告訴我答案"
+    },
+    {
+      "t": 75.11,
+      "end": 75.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.11,
+      "end": 77.97,
+      "text": "鑑定的老先生拿放大鏡"
+    },
+    {
+      "t": 79.93,
+      "end": 85.37,
+      "text": "看了三秒又看了我三秒"
+    },
+    {
+      "t": 85.37,
+      "end": 88.11,
+      "text": "他說年輕人 齒孔不對"
+    },
+    {
+      "t": 90.45,
+      "end": 92.97,
+      "text": "這張剛好值五塊"
+    },
+    {
+      "t": 93.79,
+      "end": 93.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.79,
+      "end": 95.89,
+      "text": "我說那我賺了什麼"
+    },
+    {
+      "t": 96.25,
+      "end": 98.89,
+      "text": "他說你賺了一個早上"
+    },
+    {
+      "t": 99.33,
+      "end": 99.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.33,
+      "end": 102.37,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 102.43,
+      "end": 107.83,
+      "text": "我把它貼在冰箱上面"
+    },
+    {
+      "t": 107.85,
+      "end": 155.18,
+      "text": "五塊錢的郵票"
+    },
+    {
+      "t": 155.38,
+      "end": 158.72,
+      "text": "每天早上跟我打招呼"
+    },
+    {
+      "t": 158.72,
+      "end": 158.72,
+      "text": "[Outro - trumpet and bass, crackle fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

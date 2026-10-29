@@ -1,0 +1,287 @@
+{
+  "id": "b15_ms04",
+  "title": "Ikan Laga Bilik Sewa",
+  "title_source": "scripted",
+  "genre": "Malay lo-fi hip-hop (chill beat with sung hook)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "quiet, drowsy and fond",
+  "persona": "",
+  "subject": "a young man in a rented room in Shah Alam who changes his one betta fish's water every Sunday night and talks to it about his week",
+  "caption": "Malay lo-fi hip-hop with a sung hook. Dusty boom-bap drum loop with a lazy swing, warm detuned electric piano chords, a mellow jazz guitar line, round sub bass. Vinyl crackle and soft low-pass haze, close dry vocal. Male light baritone, half-sung murmured delivery. 78 BPM, E minor. Quiet, drowsy and fond. No autotune, no trap hi-hat rolls, no EDM drop, no big chorus stack, no pop ballad strings.",
+  "lyrics": "[Intro - electric piano and vinyl crackle, drums enter]\n\n[Verse 1]\nMalam Ahad, baldi kecil\nAir paip saya biar semalam\nIkan laga merah kat meja\nNamanya Pak Lebai\n\n[Pre-Chorus]\nDia kembang sirip\nBila saya balik lewat\n\n[Chorus]\nPak Lebai, minggu ni penat\nBos marah, nasi lemak habis\nKau dengar je, tak menyampuk\nBilik sewa ni, kita berdua\n\n[Verse 2]\nSaya tukar air perlahan\nCawan plastik, tangan sejuk\nKawan kata, ikan tak faham\nTapi dia ikut jari saya\n\n[Chorus]\nPak Lebai, minggu ni okey\nGaji masuk, saya beli pelet\nKau dengar je, tak menyampuk\nBilik sewa ni, kita berdua\n\n[Outro - guitar and electric piano fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "3",
+    "prompt": "Malay lo-fi hip-hop with a sung hook. Dusty boom-bap drum loop with a lazy swing, warm detuned electric piano chords, a mellow jazz guitar line, round sub bass. Vinyl crackle and soft low-pass haze, close dry vocal. Male light baritone, half-sung murmured delivery. 78 BPM, E minor. Quiet, drowsy and fond. No autotune, no trap hi-hat rolls, no EDM drop, no big chorus stack, no pop ballad strings.",
+    "lyrics": "[Intro - electric piano and vinyl crackle, drums enter]\n\n[Verse 1]\nMalam Ahad, baldi kecil\nAir paip saya biar semalam\nIkan laga merah kat meja\nNamanya Pak Lebai\n\n[Pre-Chorus]\nDia kembang sirip\nBila saya balik lewat\n\n[Chorus]\nPak Lebai, minggu ni penat\nBos marah, nasi lemak habis\nKau dengar je, tak menyampuk\nBilik sewa ni, kita berdua\n\n[Verse 2]\nSaya tukar air perlahan\nCawan plastik, tangan sejuk\nKawan kata, ikan tak faham\nTapi dia ikut jari saya\n\n[Chorus]\nPak Lebai, minggu ni okey\nGaji masuk, saya beli pelet\nKau dengar je, tak menyampuk\nBilik sewa ni, kita berdua\n\n[Outro - guitar and electric piano fade]"
+  },
+  "seed": "3761702460",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.42s**\n- 61.42s per song\n- LM phase (1 song): 13.81s\n- DiT phase (1 song): 47.61s",
+  "task_id": "04a90e7a-3f0a-4cf0-903d-5a4a59e50de3",
+  "elapsed_s": 80.4,
+  "generated_at": "2026-10-28T23:12:31.425434+08:00",
+  "audio": "b15_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.48,
+      "end": 36.48,
+      "text": "[Intro - electric piano and vinyl crackle, drums enter]"
+    },
+    {
+      "t": 36.48,
+      "end": 36.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.48,
+      "end": 40.66,
+      "text": "Malam Ahad, baldi kecil"
+    },
+    {
+      "t": 40.7,
+      "end": 43.68,
+      "text": "Air paip saya biar semalam"
+    },
+    {
+      "t": 43.76,
+      "end": 49.05,
+      "text": "Ikan laga merah kat meja"
+    },
+    {
+      "t": 51.17,
+      "end": 53.89,
+      "text": "Namanya Pak Lebai"
+    },
+    {
+      "t": 56.81,
+      "end": 56.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.81,
+      "end": 58.29,
+      "text": "Dia kembang sirip"
+    },
+    {
+      "t": 59.83,
+      "end": 63.19,
+      "text": "Bila saya balik lewat"
+    },
+    {
+      "t": 65.77,
+      "end": 65.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.77,
+      "end": 69.99,
+      "text": "Pak Lebai, minggu ni penat"
+    },
+    {
+      "t": 70.25,
+      "end": 74.03,
+      "text": "Bos marah, nasi lemak habis"
+    },
+    {
+      "t": 74.77,
+      "end": 80.07,
+      "text": "Kau dengar je, tak menyampuk"
+    },
+    {
+      "t": 80.39,
+      "end": 84.97,
+      "text": "Bilik sewa ni, kita berdua"
+    },
+    {
+      "t": 99.79,
+      "end": 99.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.79,
+      "end": 103.03,
+      "text": "Saya tukar air perlahan"
+    },
+    {
+      "t": 104.27,
+      "end": 105.67,
+      "text": "Cawan plastik, tangan sejuk"
+    },
+    {
+      "t": 105.77,
+      "end": 107.39,
+      "text": "Kawan kata, ikan tak faham"
+    },
+    {
+      "t": 109.17,
+      "end": 112.69,
+      "text": "Tapi dia ikut jari saya"
+    },
+    {
+      "t": 113.69,
+      "end": 113.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.69,
+      "end": 117.39,
+      "text": "Pak Lebai, minggu ni okey"
+    },
+    {
+      "t": 118.19,
+      "end": 122.13,
+      "text": "Gaji masuk, saya beli pelet"
+    },
+    {
+      "t": 122.33,
+      "end": 125.51,
+      "text": "Kau dengar je, tak menyampuk"
+    },
+    {
+      "t": 125.53,
+      "end": 185.06,
+      "text": "Bilik sewa ni, kita berdua"
+    },
+    {
+      "t": 185.06,
+      "end": 185.06,
+      "text": "[Outro - guitar and electric piano fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 40.18,
+      "end": 40.18,
+      "text": "[Intro - electric piano and vinyl crackle, drums enter]"
+    },
+    {
+      "t": 40.18,
+      "end": 40.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.18,
+      "end": 40.64,
+      "text": "Malam Ahad, baldi kecil"
+    },
+    {
+      "t": 40.7,
+      "end": 42.66,
+      "text": "Air paip saya biar semalam"
+    },
+    {
+      "t": 43.18,
+      "end": 47.93,
+      "text": "Ikan laga merah kat meja"
+    },
+    {
+      "t": 51.17,
+      "end": 56.81,
+      "text": "Namanya Pak Lebai"
+    },
+    {
+      "t": 56.81,
+      "end": 56.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.81,
+      "end": 58.31,
+      "text": "Dia kembang sirip"
+    },
+    {
+      "t": 59.83,
+      "end": 63.13,
+      "text": "Bila saya balik lewat"
+    },
+    {
+      "t": 65.77,
+      "end": 65.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.77,
+      "end": 69.93,
+      "text": "Pak Lebai, minggu ni penat"
+    },
+    {
+      "t": 70.25,
+      "end": 74.03,
+      "text": "Bos marah, nasi lemak habis"
+    },
+    {
+      "t": 74.79,
+      "end": 80.05,
+      "text": "Kau dengar je, tak menyampuk"
+    },
+    {
+      "t": 80.39,
+      "end": 84.97,
+      "text": "Bilik sewa ni, kita berdua"
+    },
+    {
+      "t": 99.79,
+      "end": 99.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.79,
+      "end": 103.05,
+      "text": "Saya tukar air perlahan"
+    },
+    {
+      "t": 104.27,
+      "end": 106.23,
+      "text": "Cawan plastik, tangan sejuk"
+    },
+    {
+      "t": 106.27,
+      "end": 107.39,
+      "text": "Kawan kata, ikan tak faham"
+    },
+    {
+      "t": 109.17,
+      "end": 112.71,
+      "text": "Tapi dia ikut jari saya"
+    },
+    {
+      "t": 113.71,
+      "end": 113.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.71,
+      "end": 117.37,
+      "text": "Pak Lebai, minggu ni okey"
+    },
+    {
+      "t": 118.19,
+      "end": 122.05,
+      "text": "Gaji masuk, saya beli pelet"
+    },
+    {
+      "t": 122.33,
+      "end": 125.69,
+      "text": "Kau dengar je, tak menyampuk"
+    },
+    {
+      "t": 125.69,
+      "end": 130.73,
+      "text": "Bilik sewa ni, kita berdua"
+    },
+    {
+      "t": 130.73,
+      "end": 130.73,
+      "text": "[Outro - guitar and electric piano fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
