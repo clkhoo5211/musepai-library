@@ -5065,12 +5065,12 @@
     "prompt": "Japanese acid jazz in the Kyoto-Tokyo 90s club-jazz tradition. Tight syncopated funk drums with open hi-hat, round electric bass mixing walking lines and funk octaves, Hammond organ with Leslie swirl, muted trumpet solo lines, congas. Warm 90s club mix with soft plate reverb. Male soft baritone, intimate close-mic delivery with light falsetto on the hook. 104 BPM, E-flat major. Warm, tender and quietly grooving. No trap hi-hats, no autotune, no EDM drop, no distorted guitars, no orchestral strings.",
     "lyrics": "[Intro - Hammond organ, congas, bass groove]\n\n[Verse 1]\n十一時に やかんが鳴る\n君の帰りは 零時過ぎ\nゴムの湯たんぽ 八分目\nこぼさないように そっと注ぐ\n\n[Pre-Chorus]\nタオルで巻いて 君の側\n布団のまんなか 少し右\n\n[Chorus]\n湯たんぽの温度\n手のひらで 確かめる\n熱すぎないかな\n君の足が 来る場所\n\n[Verse 2]\n鍵の音して 冷えた声\n「ただいま」って 靴も脱がずに\n布団にもぐって 笑ってる\n「なんで分かるの ちょうどいいの」\n\n[Bridge - muted trumpet solo]\n言わないけど 三回は\n手を入れて 見てるんだ\n\n[Chorus]\n湯たんぽの温度\n今夜も ちょうどいい\n冷たい君の足\n僕のすねに 乗せていい\n\n[Outro - organ, trumpet fades]\n朝にはぬるい ただのお湯\nそれで顔を 洗おうか"
    },
-   "seed": "1955062067",
+   "seed": "2564550449",
    "dit_model": "acestep-v15-turbo",
-   "generation_info": "**🎵 Total generation time (1 song): 64.40s**\n- 64.40s per song\n- LM phase (1 song): 11.91s\n- DiT phase (1 song): 52.49s",
-   "task_id": "07c03077-a3c2-475b-924e-8a93bd885d89",
-   "elapsed_s": 90.3,
-   "generated_at": "2026-10-30T18:21:35.375226+08:00",
+   "generation_info": "**🎵 Total generation time (1 song): 94.76s**\n- 94.76s per song\n- LM phase (1 song): 15.85s\n- DiT phase (1 song): 78.90s",
+   "task_id": "f98b3379-06ab-4206-ace7-f9088d202922",
+   "elapsed_s": 120.3,
+   "generated_at": "2026-10-30T22:16:17.425398+08:00",
    "audio": "b17_ja03.mp3",
    "lyrics_timed": [
     {
@@ -5380,153 +5380,153 @@
    "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
    "lyrics_timed_mix": [
     {
-     "t": 37.54,
-     "end": 37.54,
+     "t": 9.42,
+     "end": 9.42,
      "text": "[Intro - Hammond organ, congas, bass groove]"
     },
     {
-     "t": 37.54,
-     "end": 37.54,
+     "t": 9.42,
+     "end": 9.42,
      "text": "[Verse 1]"
     },
     {
-     "t": 37.54,
-     "end": 40.76,
+     "t": 9.42,
+     "end": 31.48,
      "text": "十一時に やかんが鳴る"
     },
     {
-     "t": 41.74,
-     "end": 45.94,
+     "t": 31.74,
+     "end": 37.14,
      "text": "君の帰りは 零時過ぎ"
     },
     {
-     "t": 47.24,
-     "end": 51.07,
+     "t": 40.16,
+     "end": 45.94,
      "text": "ゴムの湯たんぽ 八分目"
     },
     {
-     "t": 53.31,
-     "end": 57.17,
+     "t": 46.14,
+     "end": 52.37,
      "text": "こぼさないように そっと注ぐ"
     },
     {
-     "t": 58.49,
-     "end": 58.49,
+     "t": 55.23,
+     "end": 55.23,
      "text": "[Pre-Chorus]"
     },
     {
-     "t": 58.49,
-     "end": 61.49,
+     "t": 55.23,
+     "end": 58.75,
      "text": "タオルで巻いて 君の側"
     },
     {
-     "t": 61.69,
-     "end": 66.45,
+     "t": 58.93,
+     "end": 64.71,
      "text": "布団のまんなか 少し右"
     },
     {
-     "t": 66.49,
-     "end": 66.49,
+     "t": 64.91,
+     "end": 64.91,
      "text": "[Chorus]"
     },
     {
-     "t": 66.49,
-     "end": 69.27,
+     "t": 64.91,
+     "end": 68.43,
      "text": "湯たんぽの温度"
     },
     {
-     "t": 70.33,
-     "end": 71.63,
+     "t": 69.43,
+     "end": 72.73,
      "text": "手のひらで 確かめる"
     },
     {
-     "t": 73.07,
-     "end": 75.81,
+     "t": 72.91,
+     "end": 77.31,
      "text": "熱すぎないかな"
     },
     {
-     "t": 76.93,
-     "end": 79.63,
+     "t": 78.03,
+     "end": 83.31,
      "text": "君の足が 来る場所"
     },
     {
-     "t": 79.71,
-     "end": 79.71,
+     "t": 83.31,
+     "end": 83.31,
      "text": "[Verse 2]"
     },
     {
-     "t": 79.71,
-     "end": 83.17,
+     "t": 83.31,
+     "end": 87.21,
      "text": "鍵の音して 冷えた声"
     },
     {
-     "t": 83.17,
-     "end": 85.57,
+     "t": 87.23,
+     "end": 90.81,
      "text": "「ただいま」って 靴も脱がずに"
     },
     {
-     "t": 85.63,
-     "end": 87.65,
+     "t": 92.11,
+     "end": 95.43,
      "text": "布団にもぐって 笑ってる"
     },
     {
-     "t": 87.79,
-     "end": 92.85,
+     "t": 96.11,
+     "end": 100.09,
      "text": "「なんで分かるの ちょうどいいの」"
     },
     {
-     "t": 92.85,
-     "end": 92.85,
+     "t": 101.17,
+     "end": 101.17,
      "text": "[Bridge - muted trumpet solo]"
     },
     {
-     "t": 92.85,
-     "end": 107.61,
+     "t": 101.17,
+     "end": 122.85,
      "text": "言わないけど 三回は"
     },
     {
-     "t": 109.79,
-     "end": 117.93,
+     "t": 124.11,
+     "end": 127.53,
      "text": "手を入れて 見てるんだ"
     },
     {
-     "t": 121.23,
-     "end": 121.23,
+     "t": 127.67,
+     "end": 127.67,
      "text": "[Chorus]"
     },
     {
-     "t": 121.23,
-     "end": 122.65,
+     "t": 127.67,
+     "end": 131.93,
      "text": "湯たんぽの温度"
     },
     {
-     "t": 122.71,
-     "end": 123.95,
+     "t": 133.51,
+     "end": 138.23,
      "text": "今夜も ちょうどいい"
     },
     {
-     "t": 125.81,
-     "end": 130.53,
+     "t": 138.63,
+     "end": 141.23,
      "text": "冷たい君の足"
     },
     {
-     "t": 130.69,
-     "end": 141.27,
+     "t": 142.65,
+     "end": 146.63,
      "text": "僕のすねに 乗せていい"
     },
     {
-     "t": 144.57,
-     "end": 144.57,
+     "t": 151.26,
+     "end": 151.26,
      "text": "[Outro - organ, trumpet fades]"
     },
     {
-     "t": 144.57,
-     "end": 161.96,
+     "t": 151.26,
+     "end": 158.2,
      "text": "朝にはぬるい ただのお湯"
     },
     {
-     "t": 163.5,
-     "end": 169.36,
+     "t": 158.46,
+     "end": 191.08,
      "text": "それで顔を 洗おうか"
     }
    ]
@@ -6215,8 +6215,8 @@
    "mood": "cheeky, sweaty, proud-uncle comedy",
    "persona": "",
    "subject": "a 32-year-old uncle who spends a month after work learning Bongsan mask-dance shoulder moves at the community centre to perform at his nephew's first-birthday party, and the baby bursts into tears the moment he puts on the mask",
-   "caption": "Korean Y2K hip-hop R&B dance pop, early-2000s Seoul club style. Punchy 808 kick with snappy handclaps, round plucked synth bass, staccato string stabs on the offbeats, short turntable scratch fills between phrases. Glossy, tight, dry early-2000s mix. Young male lead, chesty half-rapped verses, smooth R&B tenor on the hook. 98 BPM, F minor. Cocky, sweaty proud-uncle party comedy. No trap hi-hat rolls, no autotune, no EDM drop, no modern pluggnb pads, no acoustic guitar.",
-   "lyrics": "[Intro - scratch fill, string stabs, claps]\n\n[Verse 1]\n퇴근하고 주민센터\n탈춤 교실 맨 뒷줄\n어깨를 툭 들썩\n선생님이 아직 멀었대\n\n[Pre-Chorus]\n조카 돌잔치 딱 한 달\n삼촌이 뭘 보여 줄게\n\n[Chorus]\n어깨 들썩 한삼 휙\n무릎 굽혀 발 딛고\n삼촌 오늘 탈 쓴다\n박수 크게 쳐 줘\n\n[Verse 2]\n뷔페 접시 다 치우고\n마이크 대신 장구 소리\n탈을 딱 쓰는 순간\n조카가 울기 시작해\n\n[Chorus]\n어깨 들썩 한삼 휙\n삼촌이야 나야 나\n탈 벗고 웃어 주니\n울다가 웃는다\n\n[Outro - scratch, claps fade]\n돌잡이는 장구채\n너도 춤출 거지",
+   "caption": "Korean Y2K hip-hop R&B dance pop, early-2000s Seoul club style. Punchy 808 kick with snappy handclaps, round plucked synth bass, staccato string stabs on the offbeats, short turntable scratch fills between phrases. Glossy, tight, dry early-2000s mix. Young male R&B tenor, clearly sung melody on every line, warm and close-miked, no rapping. 98 BPM, F minor. Cocky, sweaty proud-uncle party comedy. No trap hi-hat rolls, no autotune, no EDM drop, no modern pluggnb pads, no acoustic guitar.",
+   "lyrics": "[Intro - scratch fill, string stabs, claps]\n\n[Verse 1]\n퇴근하고 주민센터\n탈춤 교실 맨 뒷줄\n어깨를 들썩들썩\n선생님이 아직 멀었대\n\n[Pre-Chorus]\n조카 돌잔치 딱 한 달\n삼촌이 뭘 보여 줄게\n\n[Chorus]\n어깨 들썩 소매 휙\n무릎 굽혀 발 딛고\n삼촌 오늘 탈 쓴다\n박수 크게 쳐 줘\n\n[Verse 2]\n뷔페 접시 다 치우고\n마이크 대신 장구 소리\n탈을 딱 쓰는 순간\n조카가 울기 시작해\n\n[Chorus]\n어깨 들썩 소매 휙\n삼촌이야 나야\n탈 벗고 웃어 주니\n울다가 웃는다\n\n[Outro - scratch, claps fade]\n돌잡이는 장구채\n너도 춤출 거지",
    "lyrics_leaked_tokens": [],
    "lyrics_looks_romanized": false,
    "metas": {
@@ -6225,15 +6225,15 @@
     "genres": "N/A",
     "keyscale": "F minor",
     "timesignature": "4",
-    "prompt": "Korean Y2K hip-hop R&B dance pop, early-2000s Seoul club style. Punchy 808 kick with snappy handclaps, round plucked synth bass, staccato string stabs on the offbeats, short turntable scratch fills between phrases. Glossy, tight, dry early-2000s mix. Young male lead, chesty half-rapped verses, smooth R&B tenor on the hook. 98 BPM, F minor. Cocky, sweaty proud-uncle party comedy. No trap hi-hat rolls, no autotune, no EDM drop, no modern pluggnb pads, no acoustic guitar.",
-    "lyrics": "[Intro - scratch fill, string stabs, claps]\n\n[Verse 1]\n퇴근하고 주민센터\n탈춤 교실 맨 뒷줄\n어깨를 툭 들썩\n선생님이 아직 멀었대\n\n[Pre-Chorus]\n조카 돌잔치 딱 한 달\n삼촌이 뭘 보여 줄게\n\n[Chorus]\n어깨 들썩 한삼 휙\n무릎 굽혀 발 딛고\n삼촌 오늘 탈 쓴다\n박수 크게 쳐 줘\n\n[Verse 2]\n뷔페 접시 다 치우고\n마이크 대신 장구 소리\n탈을 딱 쓰는 순간\n조카가 울기 시작해\n\n[Chorus]\n어깨 들썩 한삼 휙\n삼촌이야 나야 나\n탈 벗고 웃어 주니\n울다가 웃는다\n\n[Outro - scratch, claps fade]\n돌잡이는 장구채\n너도 춤출 거지"
+    "prompt": "Korean Y2K hip-hop R&B dance pop, early-2000s Seoul club style. Punchy 808 kick with snappy handclaps, round plucked synth bass, staccato string stabs on the offbeats, short turntable scratch fills between phrases. Glossy, tight, dry early-2000s mix. Young male R&B tenor, clearly sung melody on every line, warm and close-miked, no rapping. 98 BPM, F minor. Cocky, sweaty proud-uncle party comedy. No trap hi-hat rolls, no autotune, no EDM drop, no modern pluggnb pads, no acoustic guitar.",
+    "lyrics": "[Intro - scratch fill, string stabs, claps]\n\n[Verse 1]\n퇴근하고 주민센터\n탈춤 교실 맨 뒷줄\n어깨를 들썩들썩\n선생님이 아직 멀었대\n\n[Pre-Chorus]\n조카 돌잔치 딱 한 달\n삼촌이 뭘 보여 줄게\n\n[Chorus]\n어깨 들썩 소매 휙\n무릎 굽혀 발 딛고\n삼촌 오늘 탈 쓴다\n박수 크게 쳐 줘\n\n[Verse 2]\n뷔페 접시 다 치우고\n마이크 대신 장구 소리\n탈을 딱 쓰는 순간\n조카가 울기 시작해\n\n[Chorus]\n어깨 들썩 소매 휙\n삼촌이야 나야\n탈 벗고 웃어 주니\n울다가 웃는다\n\n[Outro - scratch, claps fade]\n돌잡이는 장구채\n너도 춤출 거지"
    },
-   "seed": "2048844628",
+   "seed": "2835321988",
    "dit_model": "acestep-v15-turbo",
-   "generation_info": "**🎵 Total generation time (1 song): 74.56s**\n- 74.56s per song\n- LM phase (1 song): 13.18s\n- DiT phase (1 song): 61.38s",
-   "task_id": "7b30dfa8-407e-48a2-b111-a60d5ea3ff4f",
-   "elapsed_s": 100.4,
-   "generated_at": "2026-10-30T18:30:31.544961+08:00",
+   "generation_info": "**🎵 Total generation time (1 song): 128.12s**\n- 128.12s per song\n- LM phase (1 song): 19.65s\n- DiT phase (1 song): 108.47s",
+   "task_id": "3cfc031f-3073-405d-8aac-4460d1ad780e",
+   "elapsed_s": 170.4,
+   "generated_at": "2026-10-30T20:52:18.389175+08:00",
    "audio": "b17_ko01.mp3",
    "lyrics_timed": [
     {
@@ -6259,7 +6259,7 @@
     {
      "t": 55.95,
      "end": 58.45,
-     "text": "어깨를 툭 들썩"
+     "text": "어깨를 들썩들썩"
     },
     {
      "t": 60.45,
@@ -6288,11 +6288,11 @@
     },
     {
      "t": 90.03,
-     "end": 91.97,
-     "text": "어깨 들썩 한삼 휙"
+     "end": 92.95,
+     "text": "어깨 들썩 소매 휙"
     },
     {
-     "t": 92.03,
+     "t": 93.13,
      "end": 96.09,
      "text": "무릎 굽혀 발 딛고"
     },
@@ -6339,15 +6339,15 @@
     {
      "t": 139.17,
      "end": 140.33,
-     "text": "어깨 들썩 한삼 휙"
+     "text": "어깨 들썩 소매 휙"
     },
     {
      "t": 140.35,
-     "end": 150.84,
-     "text": "삼촌이야 나야 나"
+     "end": 147.14,
+     "text": "삼촌이야 나야"
     },
     {
-     "t": 150.96,
+     "t": 148.9,
      "end": 158.78,
      "text": "탈 벗고 웃어 주니"
     },
@@ -6397,7 +6397,7 @@
     {
      "t": 55.95,
      "end": 58.45,
-     "text": "어깨를 툭 들썩"
+     "text": "어깨를 들썩들썩"
     },
     {
      "t": 60.45,
@@ -6426,11 +6426,11 @@
     },
     {
      "t": 90.03,
-     "end": 91.97,
-     "text": "어깨 들썩 한삼 휙"
+     "end": 92.95,
+     "text": "어깨 들썩 소매 휙"
     },
     {
-     "t": 92.03,
+     "t": 93.13,
      "end": 96.09,
      "text": "무릎 굽혀 발 딛고"
     },
@@ -6477,15 +6477,15 @@
     {
      "t": 139.17,
      "end": 140.33,
-     "text": "어깨 들썩 한삼 휙"
+     "text": "어깨 들썩 소매 휙"
     },
     {
      "t": 140.35,
-     "end": 150.84,
-     "text": "삼촌이야 나야 나"
+     "end": 147.14,
+     "text": "삼촌이야 나야"
     },
     {
-     "t": 150.96,
+     "t": 148.9,
      "end": 158.78,
      "text": "탈 벗고 웃어 주니"
     },
@@ -6513,138 +6513,138 @@
    "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
    "lyrics_timed_mix": [
     {
-     "t": 2.2,
-     "end": 2.2,
+     "t": 30.3,
+     "end": 30.3,
      "text": "[Intro - scratch fill, string stabs, claps]"
     },
     {
-     "t": 2.2,
-     "end": 2.2,
+     "t": 30.3,
+     "end": 30.3,
      "text": "[Verse 1]"
     },
     {
-     "t": 2.2,
-     "end": 8.42,
+     "t": 30.3,
+     "end": 32.62,
      "text": "퇴근하고 주민센터"
     },
     {
-     "t": 10.14,
-     "end": 33.46,
+     "t": 33.12,
+     "end": 35.3,
      "text": "탈춤 교실 맨 뒷줄"
     },
     {
-     "t": 33.46,
-     "end": 35.76,
-     "text": "어깨를 툭 들썩"
+     "t": 35.64,
+     "end": 37.8,
+     "text": "어깨를 들썩들썩"
     },
     {
-     "t": 35.88,
-     "end": 44.08,
+     "t": 38.08,
+     "end": 39.9,
      "text": "선생님이 아직 멀었대"
     },
     {
-     "t": 44.22,
-     "end": 44.22,
+     "t": 40.26,
+     "end": 40.26,
      "text": "[Pre-Chorus]"
     },
     {
-     "t": 44.22,
-     "end": 60.93,
+     "t": 40.26,
+     "end": 43.08,
      "text": "조카 돌잔치 딱 한 달"
     },
     {
-     "t": 61.19,
-     "end": 65.29,
+     "t": 45.24,
+     "end": 47.87,
      "text": "삼촌이 뭘 보여 줄게"
     },
     {
-     "t": 65.35,
-     "end": 65.35,
+     "t": 52.15,
+     "end": 52.15,
      "text": "[Chorus]"
     },
     {
-     "t": 65.35,
-     "end": 68.49,
-     "text": "어깨 들썩 한삼 휙"
+     "t": 52.15,
+     "end": 62.79,
+     "text": "어깨 들썩 소매 휙"
     },
     {
-     "t": 68.57,
-     "end": 76.29,
+     "t": 70.85,
+     "end": 71.79,
      "text": "무릎 굽혀 발 딛고"
     },
     {
-     "t": 76.37,
-     "end": 83.63,
+     "t": 71.81,
+     "end": 72.85,
      "text": "삼촌 오늘 탈 쓴다"
     },
     {
-     "t": 83.71,
-     "end": 102.37,
+     "t": 73.97,
+     "end": 74.83,
      "text": "박수 크게 쳐 줘"
     },
     {
-     "t": 102.39,
-     "end": 102.39,
+     "t": 74.83,
+     "end": 74.83,
      "text": "[Verse 2]"
     },
     {
-     "t": 102.39,
-     "end": 104.05,
+     "t": 74.83,
+     "end": 75.37,
      "text": "뷔페 접시 다 치우고"
     },
     {
-     "t": 104.83,
-     "end": 106.33,
+     "t": 75.85,
+     "end": 77.85,
      "text": "마이크 대신 장구 소리"
     },
     {
-     "t": 107.27,
-     "end": 108.79,
+     "t": 78.95,
+     "end": 83.01,
      "text": "탈을 딱 쓰는 순간"
     },
     {
-     "t": 109.71,
-     "end": 111.67,
+     "t": 83.17,
+     "end": 85.49,
      "text": "조카가 울기 시작해"
     },
     {
-     "t": 111.75,
-     "end": 111.75,
+     "t": 85.73,
+     "end": 85.73,
      "text": "[Chorus]"
     },
     {
-     "t": 111.75,
-     "end": 113.95,
-     "text": "어깨 들썩 한삼 휙"
+     "t": 85.73,
+     "end": 114.11,
+     "text": "어깨 들썩 소매 휙"
     },
     {
-     "t": 114.59,
-     "end": 116.27,
-     "text": "삼촌이야 나야 나"
+     "t": 114.73,
+     "end": 116.41,
+     "text": "삼촌이야 나야"
     },
     {
-     "t": 117.07,
-     "end": 119.01,
+     "t": 117.21,
+     "end": 118.85,
      "text": "탈 벗고 웃어 주니"
     },
     {
-     "t": 119.59,
-     "end": 146.32,
+     "t": 119.75,
+     "end": 123.79,
      "text": "울다가 웃는다"
     },
     {
-     "t": 156.6,
-     "end": 156.6,
+     "t": 123.99,
+     "end": 123.99,
      "text": "[Outro - scratch, claps fade]"
     },
     {
-     "t": 156.6,
-     "end": 182.26,
+     "t": 123.99,
+     "end": 128.75,
      "text": "돌잡이는 장구채"
     },
     {
-     "t": 184.62,
-     "end": 185.98,
+     "t": 130.47,
+     "end": 141.15,
      "text": "너도 춤출 거지"
     }
    ]
@@ -7009,12 +7009,12 @@
     "prompt": "Korean Mixx-pop genre-switch pop, sections that cut abruptly between styles. Bright synth-pop verse beat with clipped plucks, a sudden swing horn section break with walking slap bass, a dramatic orchestra-hit and timpani bridge, then back to the synth-pop hook. Crisp idol-pop mix with hard edits between sections. Female lead, bright speech-like verses, belted hook, deadpan spoken asides. 124 BPM, D major. Courtroom-comedy tit-for-tat. No trap beat, no autotune, no ballad slowdown, no EDM drop, no rap break.",
     "lyrics": "[Intro - synth plucks, horn stab]\n\n[Verse 1]\n이사 가는 날 아침\n주인 아저씨 줄자를 꺼내요\n벽에 못 자국 세 개\n하나에 만 원이래요\n\n[Pre-Chorus]\n잠깐만요 아저씨\n사진 좀 보실래요\n\n[Chorus]\n첫 번째는 원래 있었고\n두 번째는 시계 자리\n세 번째는 아저씨가\n에어컨 달 때 박았잖아요\n\n[Verse 2 - swing horns, slap bass]\n아저씨 안경 고쳐 쓰고\n사진을 크게 키우네요\n헛기침 두 번 하더니\n그럼 청소비는 어때\n\n[Chorus]\n첫 번째는 원래 있었고\n두 번째는 시계 자리\n청소는 어제 했어요\n창틀까지 닦았거든요\n\n[Bridge - orchestra hits, timpani]\n보증금 통장 확인\n숫자 딱 맞네요\n\n[Outro - synth plucks]\n아저씨 잘 계세요\n못은 그냥 두세요"
    },
-   "seed": "2166943609",
+   "seed": "2808983045",
    "dit_model": "acestep-v15-turbo",
-   "generation_info": "**🎵 Total generation time (1 song): 112.42s**\n- 112.42s per song\n- LM phase (1 song): 17.41s\n- DiT phase (1 song): 95.01s",
-   "task_id": "5155cc7d-c60c-4215-9d11-cb808d8a1c22",
-   "elapsed_s": 150.8,
-   "generated_at": "2026-10-30T10:14:38.409954+08:00",
+   "generation_info": "**🎵 Total generation time (1 song): 100.34s**\n- 100.34s per song\n- LM phase (1 song): 9.39s\n- DiT phase (1 song): 90.94s",
+   "task_id": "54dae7e7-1971-4693-9a2f-e2af9ad912e4",
+   "elapsed_s": 170.6,
+   "generated_at": "2026-10-30T20:20:18.537313+08:00",
    "audio": "b17_ko03.mp3",
    "lyrics_timed": [
     {
@@ -7044,16 +7044,16 @@
     },
     {
      "t": 34.08,
-     "end": 38.68,
+     "end": 38.9,
      "text": "하나에 만 원이래요"
     },
     {
-     "t": 38.7,
-     "end": 38.7,
+     "t": 38.94,
+     "end": 38.94,
      "text": "[Pre-Chorus]"
     },
     {
-     "t": 38.7,
+     "t": 38.94,
      "end": 40.34,
      "text": "잠깐만요 아저씨"
     },
@@ -7113,12 +7113,12 @@
      "text": "그럼 청소비는 어때"
     },
     {
-     "t": 111.43,
-     "end": 111.43,
+     "t": 111.41,
+     "end": 111.41,
      "text": "[Chorus]"
     },
     {
-     "t": 111.43,
+     "t": 111.41,
      "end": 114.73,
      "text": "첫 번째는 원래 있었고"
     },
@@ -7324,153 +7324,153 @@
    "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
    "lyrics_timed_mix": [
     {
-     "t": 15.26,
-     "end": 15.26,
+     "t": 38.14,
+     "end": 38.14,
      "text": "[Intro - synth plucks, horn stab]"
     },
     {
-     "t": 15.26,
-     "end": 15.26,
+     "t": 38.14,
+     "end": 38.14,
      "text": "[Verse 1]"
     },
     {
-     "t": 15.26,
-     "end": 18.22,
+     "t": 38.14,
+     "end": 40.92,
      "text": "이사 가는 날 아침"
     },
     {
-     "t": 19.06,
-     "end": 27.28,
+     "t": 40.96,
+     "end": 45.26,
      "text": "주인 아저씨 줄자를 꺼내요"
     },
     {
-     "t": 30.68,
-     "end": 33.06,
+     "t": 46.26,
+     "end": 48.81,
      "text": "벽에 못 자국 세 개"
     },
     {
-     "t": 34.08,
-     "end": 38.88,
+     "t": 49.15,
+     "end": 53.17,
      "text": "하나에 만 원이래요"
     },
     {
-     "t": 38.92,
-     "end": 38.92,
+     "t": 53.95,
+     "end": 53.95,
      "text": "[Pre-Chorus]"
     },
     {
-     "t": 38.92,
-     "end": 47.32,
+     "t": 53.95,
+     "end": 56.53,
      "text": "잠깐만요 아저씨"
     },
     {
-     "t": 47.62,
-     "end": 56.75,
+     "t": 56.83,
+     "end": 59.85,
      "text": "사진 좀 보실래요"
     },
     {
-     "t": 56.79,
-     "end": 56.79,
+     "t": 65.47,
+     "end": 65.47,
      "text": "[Chorus]"
     },
     {
-     "t": 56.79,
-     "end": 62.79,
+     "t": 65.47,
+     "end": 67.57,
      "text": "첫 번째는 원래 있었고"
     },
     {
-     "t": 64.13,
-     "end": 66.69,
+     "t": 68.41,
+     "end": 71.49,
      "text": "두 번째는 시계 자리"
     },
     {
-     "t": 67.95,
-     "end": 70.53,
+     "t": 72.77,
+     "end": 75.35,
      "text": "세 번째는 아저씨가"
     },
     {
-     "t": 71.95,
-     "end": 76.37,
+     "t": 76.19,
+     "end": 79.25,
      "text": "에어컨 달 때 박았잖아요"
     },
     {
-     "t": 80.17,
-     "end": 80.17,
+     "t": 79.79,
+     "end": 79.79,
      "text": "[Verse 2 - swing horns, slap bass]"
     },
     {
-     "t": 80.17,
-     "end": 84.33,
+     "t": 79.79,
+     "end": 86.65,
      "text": "아저씨 안경 고쳐 쓰고"
     },
     {
-     "t": 87.79,
-     "end": 88.87,
+     "t": 86.75,
+     "end": 96.63,
      "text": "사진을 크게 키우네요"
     },
     {
-     "t": 88.87,
-     "end": 91.83,
+     "t": 96.63,
+     "end": 98.53,
      "text": "헛기침 두 번 하더니"
     },
     {
-     "t": 95.11,
-     "end": 101.73,
+     "t": 98.55,
+     "end": 103.79,
      "text": "그럼 청소비는 어때"
     },
     {
-     "t": 101.81,
-     "end": 101.81,
+     "t": 104.27,
+     "end": 104.27,
      "text": "[Chorus]"
     },
     {
-     "t": 101.81,
-     "end": 107.23,
+     "t": 104.27,
+     "end": 107.13,
      "text": "첫 번째는 원래 있었고"
     },
     {
-     "t": 107.43,
-     "end": 117.59,
+     "t": 107.21,
+     "end": 111.63,
      "text": "두 번째는 시계 자리"
     },
     {
-     "t": 119.13,
-     "end": 122.01,
+     "t": 111.97,
+     "end": 114.53,
      "text": "청소는 어제 했어요"
     },
     {
-     "t": 127.37,
-     "end": 131.21,
+     "t": 114.85,
+     "end": 117.47,
      "text": "창틀까지 닦았거든요"
     },
     {
-     "t": 133.73,
-     "end": 133.73,
+     "t": 119.75,
+     "end": 119.75,
      "text": "[Bridge - orchestra hits, timpani]"
     },
     {
-     "t": 133.73,
-     "end": 149.08,
+     "t": 119.75,
+     "end": 122.49,
      "text": "보증금 통장 확인"
     },
     {
-     "t": 160.42,
-     "end": 162.32,
+     "t": 123.61,
+     "end": 125.99,
      "text": "숫자 딱 맞네요"
     },
     {
-     "t": 169.32,
-     "end": 169.32,
+     "t": 136.21,
+     "end": 136.21,
      "text": "[Outro - synth plucks]"
     },
     {
-     "t": 169.32,
-     "end": 172.12,
+     "t": 136.21,
+     "end": 176.46,
      "text": "아저씨 잘 계세요"
     },
     {
-     "t": 173.62,
-     "end": 175.96,
+     "t": 178.5,
+     "end": 181.48,
      "text": "못은 그냥 두세요"
     }
    ]
@@ -18962,12 +18962,12 @@
     "prompt": "Mandarin reggaeton pop, playful Latin crossover. Classic dembow drum pattern, rubbery synth bass, nylon-string guitar riff looping through the verses, timbales fills, plucky marimba hook. Punchy modern Latin pop mix with dry close drums and wide guitar. Female mid-range voice, sassy talk-sung verses, bright open chorus. 94 BPM, F# minor. Playful, bouncy and cheeky. No trap hi-hats, no autotune, no EDM drop, no ballad strings, no rock guitar.",
     "lyrics": "[Intro - dembow beat and nylon guitar]\n\n[Verse 1]\n晚上八點出門散步\n走到寵物店門口\n牠突然整隻躺下\n四隻腳朝天不動\n\n[Pre-Chorus]\n我拉牠拉不走\n路人都在偷笑\n\n[Chorus]\n柴犬不走了\n牠在等老闆\n一條雞肉乾\n牠才肯回家\n\n[Verse 2]\n我說回家有罐頭\n牠把頭轉開\n老闆推門出來\n牠尾巴先搖起來\n\n[Pre-Chorus]\n明明是我養你\n你倒像他的狗\n\n[Chorus]\n柴犬不走了\n老闆笑出來\n一條雞肉乾\n我也買一袋\n\n[Outro - marimba and timbales]\n柴犬不走了\n明天還會來"
    },
-   "seed": "1041113922",
+   "seed": "3005507481",
    "dit_model": "acestep-v15-turbo",
-   "generation_info": "**🎵 Total generation time (1 song): 91.62s**\n- 91.62s per song\n- LM phase (1 song): 16.53s\n- DiT phase (1 song): 75.09s",
-   "task_id": "4170cd1c-488e-4ee8-ab1d-3ac79afa105c",
-   "elapsed_s": 120.5,
-   "generated_at": "2026-10-30T12:34:13.513803+08:00",
+   "generation_info": "**🎵 Total generation time (1 song): 92.29s**\n- 92.29s per song\n- LM phase (1 song): 10.63s\n- DiT phase (1 song): 81.66s",
+   "task_id": "fe4c4f35-337f-4e04-8b6c-e6d411191c7b",
+   "elapsed_s": 130.6,
+   "generated_at": "2026-10-30T20:44:08.655854+08:00",
    "audio": "b17_zh02.mp3",
    "lyrics_timed": [
     {
@@ -19001,38 +19001,38 @@
      "text": "四隻腳朝天不動"
     },
     {
-     "t": 42.7,
-     "end": 42.7,
+     "t": 42.26,
+     "end": 42.26,
      "text": "[Pre-Chorus]"
     },
     {
-     "t": 42.7,
-     "end": 47.14,
+     "t": 42.26,
+     "end": 44.74,
      "text": "我拉牠拉不走"
     },
     {
-     "t": 47.16,
-     "end": 49.07,
+     "t": 44.82,
+     "end": 47.28,
      "text": "路人都在偷笑"
     },
     {
-     "t": 49.09,
-     "end": 49.09,
+     "t": 47.36,
+     "end": 47.36,
      "text": "[Chorus]"
     },
     {
-     "t": 49.09,
-     "end": 49.51,
+     "t": 47.36,
+     "end": 49.43,
      "text": "柴犬不走了"
     },
     {
-     "t": 49.51,
-     "end": 51.01,
+     "t": 49.61,
+     "end": 50.85,
      "text": "牠在等老闆"
     },
     {
-     "t": 52.27,
-     "end": 53.59,
+     "t": 52.17,
+     "end": 53.39,
      "text": "一條雞肉乾"
     },
     {
@@ -19077,7 +19077,7 @@
     },
     {
      "t": 98.45,
-     "end": 100.95,
+     "end": 100.83,
      "text": "你倒像他的狗"
     },
     {
@@ -19092,7 +19092,7 @@
     },
     {
      "t": 103.67,
-     "end": 110.19,
+     "end": 109.99,
      "text": "老闆笑出來"
     },
     {
@@ -19121,7 +19121,7 @@
      "text": "明天還會來"
     }
    ],
-   "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+   "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
    "lyrics_timed_vocals": [
     {
      "t": 21.92,
@@ -19277,153 +19277,153 @@
    "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
    "lyrics_timed_mix": [
     {
-     "t": 3.76,
-     "end": 3.76,
+     "t": 23.08,
+     "end": 23.08,
      "text": "[Intro - dembow beat and nylon guitar]"
     },
     {
-     "t": 3.76,
-     "end": 3.76,
+     "t": 23.08,
+     "end": 23.08,
      "text": "[Verse 1]"
     },
     {
-     "t": 3.76,
-     "end": 36.22,
+     "t": 23.08,
+     "end": 29.44,
      "text": "晚上八點出門散步"
     },
     {
-     "t": 36.3,
-     "end": 42.5,
+     "t": 29.44,
+     "end": 30.68,
      "text": "走到寵物店門口"
     },
     {
-     "t": 42.58,
-     "end": 49.21,
+     "t": 30.84,
+     "end": 35.76,
      "text": "牠突然整隻躺下"
     },
     {
-     "t": 49.41,
-     "end": 50.27,
+     "t": 35.78,
+     "end": 42.18,
      "text": "四隻腳朝天不動"
     },
     {
-     "t": 50.27,
-     "end": 50.27,
+     "t": 42.26,
+     "end": 42.26,
      "text": "[Pre-Chorus]"
     },
     {
-     "t": 50.27,
-     "end": 52.55,
+     "t": 42.26,
+     "end": 44.74,
      "text": "我拉牠拉不走"
     },
     {
-     "t": 52.61,
-     "end": 57.67,
+     "t": 44.82,
+     "end": 47.28,
      "text": "路人都在偷笑"
     },
     {
-     "t": 57.67,
-     "end": 57.67,
+     "t": 47.36,
+     "end": 47.36,
      "text": "[Chorus]"
     },
     {
-     "t": 57.67,
-     "end": 59.43,
+     "t": 47.36,
+     "end": 49.43,
      "text": "柴犬不走了"
     },
     {
-     "t": 59.61,
-     "end": 76.69,
+     "t": 49.61,
+     "end": 50.85,
      "text": "牠在等老闆"
     },
     {
-     "t": 76.81,
-     "end": 77.97,
+     "t": 52.17,
+     "end": 53.39,
      "text": "一條雞肉乾"
     },
     {
-     "t": 79.11,
-     "end": 82.87,
+     "t": 53.75,
+     "end": 55.83,
      "text": "牠才肯回家"
     },
     {
-     "t": 82.87,
-     "end": 82.87,
+     "t": 71.45,
+     "end": 71.45,
      "text": "[Verse 2]"
     },
     {
-     "t": 82.87,
-     "end": 85.09,
+     "t": 71.45,
+     "end": 73.47,
      "text": "我說回家有罐頭"
     },
     {
-     "t": 85.77,
-     "end": 87.39,
+     "t": 73.53,
+     "end": 75.11,
      "text": "牠把頭轉開"
     },
     {
-     "t": 88.03,
-     "end": 89.93,
+     "t": 76.51,
+     "end": 78.45,
      "text": "老闆推門出來"
     },
     {
-     "t": 90.27,
-     "end": 92.61,
+     "t": 78.53,
+     "end": 80.11,
      "text": "牠尾巴先搖起來"
     },
     {
-     "t": 93.13,
-     "end": 93.13,
+     "t": 81.65,
+     "end": 81.65,
      "text": "[Pre-Chorus]"
     },
     {
-     "t": 93.13,
-     "end": 97.71,
+     "t": 81.65,
+     "end": 83.69,
      "text": "明明是我養你"
     },
     {
-     "t": 98.45,
-     "end": 104.79,
+     "t": 84.51,
+     "end": 86.33,
      "text": "你倒像他的狗"
     },
     {
-     "t": 126.97,
-     "end": 126.97,
+     "t": 96.97,
+     "end": 96.97,
      "text": "[Chorus]"
     },
     {
-     "t": 126.97,
-     "end": 130.67,
+     "t": 96.97,
+     "end": 108.59,
      "text": "柴犬不走了"
     },
     {
-     "t": 139.95,
-     "end": 141.57,
+     "t": 108.81,
+     "end": 148.12,
      "text": "老闆笑出來"
     },
     {
-     "t": 142.8,
-     "end": 144.1,
+     "t": 148.32,
+     "end": 149.88,
      "text": "一條雞肉乾"
     },
     {
-     "t": 145.08,
-     "end": 146.76,
+     "t": 150.58,
+     "end": 152.4,
      "text": "我也買一袋"
     },
     {
-     "t": 147.58,
-     "end": 147.58,
+     "t": 153.08,
+     "end": 153.08,
      "text": "[Outro - marimba and timbales]"
     },
     {
-     "t": 147.58,
-     "end": 149.06,
+     "t": 153.08,
+     "end": 170.1,
      "text": "柴犬不走了"
     },
     {
-     "t": 152.72,
-     "end": 164.34,
+     "t": 170.92,
+     "end": 172.82,
      "text": "明天還會來"
     }
    ]
@@ -19451,12 +19451,12 @@
     "prompt": "Mandarin pluggnb, soft melodic rap style. Airy bell synth leads, detuned pad chords, soft gliding 808 bass, sparse snapping hi-hats in half-time feel, warm clean electric guitar loop. Hazy bedroom mix with glossy bells and cushioned low end. Male tenor, breathy half-sung melodic rap, natural unprocessed voice. 146 BPM, C# minor. Wry, soft-spoken and hazy. No autotune, no aggressive drill, no rock drums, no EDM drop, no ballad piano.",
     "lyrics": "[Intro - bell synth and clean guitar]\n\n[Verse 1]\n星期一我醒來\n喉嚨只剩空氣\n醫生說別說話\n七天都要安靜\n\n[Chorus]\n我拿一塊小白板\n寫謝謝寫好的\n你們說話變慢了\n好像怕我著急\n\n[Verse 2]\n經理不再大聲吼\n他也開始寫字\n同事遞來一杯\n溫溫的蜂蜜水\n\n[Chorus]\n我拿一塊小白板\n寫抱歉寫沒事\n原來少說幾句\n大家都比較溫柔\n\n[Bridge - pad and 808 only]\n第七天聲音回來\n我先說了早安\n\n[Chorus]\n白板我收在抽屜\n上面還有一行字\n你們寫給我的\n加油兩個字\n\n[Outro - bell synth fades]\n我還留著\n那支藍色筆"
    },
-   "seed": "2469034986",
+   "seed": "3241668411",
    "dit_model": "acestep-v15-turbo",
-   "generation_info": "**🎵 Total generation time (1 song): 59.89s**\n- 59.89s per song\n- LM phase (1 song): 10.20s\n- DiT phase (1 song): 49.69s",
-   "task_id": "aedbcde3-1870-4322-8ff1-0f7e8ef072d3",
-   "elapsed_s": 80.2,
-   "generated_at": "2026-10-30T11:12:21.104059+08:00",
+   "generation_info": "**🎵 Total generation time (1 song): 95.63s**\n- 95.63s per song\n- LM phase (1 song): 16.08s\n- DiT phase (1 song): 79.54s",
+   "task_id": "bdbdea0c-eaaf-4662-b691-ea732042302e",
+   "elapsed_s": 120.6,
+   "generated_at": "2026-10-30T20:46:09.268559+08:00",
    "audio": "b17_zh03.mp3",
    "lyrics_timed": [
     {
@@ -19786,163 +19786,163 @@
    "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
    "lyrics_timed_mix": [
     {
-     "t": 38.16,
-     "end": 38.16,
+     "t": 0.02,
+     "end": 0.02,
      "text": "[Intro - bell synth and clean guitar]"
     },
     {
-     "t": 38.16,
-     "end": 38.16,
+     "t": 0.02,
+     "end": 0.02,
      "text": "[Verse 1]"
     },
     {
-     "t": 38.16,
-     "end": 38.9,
+     "t": 0.02,
+     "end": 21.68,
      "text": "星期一我醒來"
     },
     {
-     "t": 38.9,
-     "end": 39.38,
+     "t": 21.88,
+     "end": 23.28,
      "text": "喉嚨只剩空氣"
     },
     {
-     "t": 39.38,
-     "end": 40.84,
+     "t": 27.1,
+     "end": 29.24,
      "text": "醫生說別說話"
     },
     {
-     "t": 40.86,
-     "end": 45.6,
+     "t": 29.26,
+     "end": 34.02,
      "text": "七天都要安靜"
     },
     {
-     "t": 45.62,
-     "end": 45.62,
+     "t": 34.06,
+     "end": 34.06,
      "text": "[Chorus]"
     },
     {
-     "t": 45.62,
-     "end": 46.71,
+     "t": 34.06,
+     "end": 35.08,
      "text": "我拿一塊小白板"
     },
     {
-     "t": 46.71,
-     "end": 47.37,
+     "t": 35.08,
+     "end": 35.64,
      "text": "寫謝謝寫好的"
     },
     {
-     "t": 47.37,
-     "end": 48.19,
+     "t": 35.64,
+     "end": 37.72,
      "text": "你們說話變慢了"
     },
     {
-     "t": 48.21,
-     "end": 49.01,
+     "t": 37.72,
+     "end": 40.26,
      "text": "好像怕我著急"
     },
     {
-     "t": 51.87,
-     "end": 51.87,
+     "t": 60.27,
+     "end": 60.27,
      "text": "[Verse 2]"
     },
     {
-     "t": 51.87,
-     "end": 54.25,
+     "t": 60.27,
+     "end": 62.43,
      "text": "經理不再大聲吼"
     },
     {
-     "t": 55.55,
-     "end": 57.57,
+     "t": 62.43,
+     "end": 64.81,
      "text": "他也開始寫字"
     },
     {
-     "t": 58.61,
-     "end": 60.17,
+     "t": 64.81,
+     "end": 67.25,
      "text": "同事遞來一杯"
     },
     {
-     "t": 60.83,
-     "end": 62.97,
+     "t": 68.07,
+     "end": 70.05,
      "text": "溫溫的蜂蜜水"
     },
     {
-     "t": 64.85,
-     "end": 64.85,
+     "t": 71.73,
+     "end": 71.73,
      "text": "[Chorus]"
     },
     {
-     "t": 64.85,
-     "end": 67.39,
+     "t": 71.73,
+     "end": 73.83,
      "text": "我拿一塊小白板"
     },
     {
-     "t": 67.69,
-     "end": 69.65,
+     "t": 74.33,
+     "end": 82.67,
      "text": "寫抱歉寫沒事"
     },
     {
-     "t": 70.75,
-     "end": 72.49,
+     "t": 82.95,
+     "end": 89.17,
      "text": "原來少說幾句"
     },
     {
-     "t": 73.99,
-     "end": 76.27,
+     "t": 90.25,
+     "end": 96.49,
      "text": "大家都比較溫柔"
     },
     {
-     "t": 80.69,
-     "end": 80.69,
+     "t": 96.67,
+     "end": 96.67,
      "text": "[Bridge - pad and 808 only]"
     },
     {
-     "t": 80.69,
-     "end": 84.37,
+     "t": 96.67,
+     "end": 99.35,
      "text": "第七天聲音回來"
     },
     {
-     "t": 86.39,
-     "end": 91.09,
+     "t": 99.61,
+     "end": 102.19,
      "text": "我先說了早安"
     },
     {
-     "t": 119.13,
-     "end": 119.13,
+     "t": 109.33,
+     "end": 109.33,
      "text": "[Chorus]"
     },
     {
-     "t": 119.13,
-     "end": 120.93,
+     "t": 109.33,
+     "end": 111.31,
      "text": "白板我收在抽屜"
     },
     {
-     "t": 125.63,
-     "end": 129.39,
+     "t": 111.71,
+     "end": 113.51,
      "text": "上面還有一行字"
     },
     {
-     "t": 145.48,
-     "end": 147.28,
+     "t": 115.81,
+     "end": 117.57,
      "text": "你們寫給我的"
     },
     {
-     "t": 151.08,
-     "end": 153.52,
+     "t": 122.25,
+     "end": 123.49,
      "text": "加油兩個字"
     },
     {
-     "t": 158.02,
-     "end": 158.02,
+     "t": 136.07,
+     "end": 136.07,
      "text": "[Outro - bell synth fades]"
     },
     {
-     "t": 158.02,
-     "end": 163.42,
+     "t": 136.07,
+     "end": 139.44,
      "text": "我還留著"
     },
     {
-     "t": 167.78,
-     "end": 169.92,
+     "t": 140.62,
+     "end": 168.22,
      "text": "那支藍色筆"
     }
    ]
