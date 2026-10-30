@@ -1,0 +1,519 @@
+{
+  "id": "b17_zh03",
+  "title": "啞了七天",
+  "title_source": "scripted",
+  "genre": "Mandarin pluggnb",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "dreamy-dry, wry and soft-spoken",
+  "persona": "",
+  "subject": "a junior sales clerk who completely loses his voice for a week and has to do his job with a small whiteboard and marker, discovering colleagues talk to him more kindly when he cannot answer back",
+  "caption": "Mandarin pluggnb, soft melodic rap style. Airy bell synth leads, detuned pad chords, soft gliding 808 bass, sparse snapping hi-hats in half-time feel, warm clean electric guitar loop. Hazy bedroom mix with glossy bells and cushioned low end. Male tenor, breathy half-sung melodic rap, natural unprocessed voice. 146 BPM, C# minor. Wry, soft-spoken and hazy. No autotune, no aggressive drill, no rock drums, no EDM drop, no ballad piano.",
+  "lyrics": "[Intro - bell synth and clean guitar]\n\n[Verse 1]\n星期一我醒來\n喉嚨只剩空氣\n醫生說別說話\n七天都要安靜\n\n[Chorus]\n我拿一塊小白板\n寫謝謝寫好的\n你們說話變慢了\n好像怕我著急\n\n[Verse 2]\n經理不再大聲吼\n他也開始寫字\n同事遞來一杯\n溫溫的蜂蜜水\n\n[Chorus]\n我拿一塊小白板\n寫抱歉寫沒事\n原來少說幾句\n大家都比較溫柔\n\n[Bridge - pad and 808 only]\n第七天聲音回來\n我先說了早安\n\n[Chorus]\n白板我收在抽屜\n上面還有一行字\n你們寫給我的\n加油兩個字\n\n[Outro - bell synth fades]\n我還留著\n那支藍色筆",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 146,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "C# minor",
+    "timesignature": "4",
+    "prompt": "Mandarin pluggnb, soft melodic rap style. Airy bell synth leads, detuned pad chords, soft gliding 808 bass, sparse snapping hi-hats in half-time feel, warm clean electric guitar loop. Hazy bedroom mix with glossy bells and cushioned low end. Male tenor, breathy half-sung melodic rap, natural unprocessed voice. 146 BPM, C# minor. Wry, soft-spoken and hazy. No autotune, no aggressive drill, no rock drums, no EDM drop, no ballad piano.",
+    "lyrics": "[Intro - bell synth and clean guitar]\n\n[Verse 1]\n星期一我醒來\n喉嚨只剩空氣\n醫生說別說話\n七天都要安靜\n\n[Chorus]\n我拿一塊小白板\n寫謝謝寫好的\n你們說話變慢了\n好像怕我著急\n\n[Verse 2]\n經理不再大聲吼\n他也開始寫字\n同事遞來一杯\n溫溫的蜂蜜水\n\n[Chorus]\n我拿一塊小白板\n寫抱歉寫沒事\n原來少說幾句\n大家都比較溫柔\n\n[Bridge - pad and 808 only]\n第七天聲音回來\n我先說了早安\n\n[Chorus]\n白板我收在抽屜\n上面還有一行字\n你們寫給我的\n加油兩個字\n\n[Outro - bell synth fades]\n我還留著\n那支藍色筆"
+  },
+  "seed": "2469034986",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.89s**\n- 59.89s per song\n- LM phase (1 song): 10.20s\n- DiT phase (1 song): 49.69s",
+  "task_id": "aedbcde3-1870-4322-8ff1-0f7e8ef072d3",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-30T11:12:21.104059+08:00",
+  "audio": "b17_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.38,
+      "end": 38.38,
+      "text": "[Intro - bell synth and clean guitar]"
+    },
+    {
+      "t": 38.38,
+      "end": 38.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.38,
+      "end": 38.9,
+      "text": "星期一我醒來"
+    },
+    {
+      "t": 38.9,
+      "end": 39.38,
+      "text": "喉嚨只剩空氣"
+    },
+    {
+      "t": 39.38,
+      "end": 40.84,
+      "text": "醫生說別說話"
+    },
+    {
+      "t": 40.86,
+      "end": 45.6,
+      "text": "七天都要安靜"
+    },
+    {
+      "t": 45.62,
+      "end": 45.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.62,
+      "end": 46.71,
+      "text": "我拿一塊小白板"
+    },
+    {
+      "t": 46.71,
+      "end": 47.37,
+      "text": "寫謝謝寫好的"
+    },
+    {
+      "t": 47.37,
+      "end": 48.19,
+      "text": "你們說話變慢了"
+    },
+    {
+      "t": 48.21,
+      "end": 49.01,
+      "text": "好像怕我著急"
+    },
+    {
+      "t": 51.87,
+      "end": 51.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 51.87,
+      "end": 54.25,
+      "text": "經理不再大聲吼"
+    },
+    {
+      "t": 55.55,
+      "end": 57.57,
+      "text": "他也開始寫字"
+    },
+    {
+      "t": 58.61,
+      "end": 60.17,
+      "text": "同事遞來一杯"
+    },
+    {
+      "t": 60.83,
+      "end": 62.97,
+      "text": "溫溫的蜂蜜水"
+    },
+    {
+      "t": 64.85,
+      "end": 64.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.85,
+      "end": 67.39,
+      "text": "我拿一塊小白板"
+    },
+    {
+      "t": 67.69,
+      "end": 69.65,
+      "text": "寫抱歉寫沒事"
+    },
+    {
+      "t": 70.75,
+      "end": 72.49,
+      "text": "原來少說幾句"
+    },
+    {
+      "t": 73.99,
+      "end": 76.27,
+      "text": "大家都比較溫柔"
+    },
+    {
+      "t": 80.69,
+      "end": 80.69,
+      "text": "[Bridge - pad and 808 only]"
+    },
+    {
+      "t": 80.69,
+      "end": 84.37,
+      "text": "第七天聲音回來"
+    },
+    {
+      "t": 86.39,
+      "end": 91.09,
+      "text": "我先說了早安"
+    },
+    {
+      "t": 119.13,
+      "end": 119.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.13,
+      "end": 120.93,
+      "text": "白板我收在抽屜"
+    },
+    {
+      "t": 125.63,
+      "end": 129.39,
+      "text": "上面還有一行字"
+    },
+    {
+      "t": 145.48,
+      "end": 147.28,
+      "text": "你們寫給我的"
+    },
+    {
+      "t": 151.08,
+      "end": 153.52,
+      "text": "加油兩個字"
+    },
+    {
+      "t": 158.02,
+      "end": 158.02,
+      "text": "[Outro - bell synth fades]"
+    },
+    {
+      "t": 158.02,
+      "end": 163.42,
+      "text": "我還留著"
+    },
+    {
+      "t": 167.78,
+      "end": 169.92,
+      "text": "那支藍色筆"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.38,
+      "end": 38.38,
+      "text": "[Intro - bell synth and clean guitar]"
+    },
+    {
+      "t": 38.38,
+      "end": 38.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.38,
+      "end": 38.9,
+      "text": "星期一我醒來"
+    },
+    {
+      "t": 38.9,
+      "end": 39.38,
+      "text": "喉嚨只剩空氣"
+    },
+    {
+      "t": 39.38,
+      "end": 40.84,
+      "text": "醫生說別說話"
+    },
+    {
+      "t": 40.86,
+      "end": 45.6,
+      "text": "七天都要安靜"
+    },
+    {
+      "t": 45.62,
+      "end": 45.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.62,
+      "end": 46.71,
+      "text": "我拿一塊小白板"
+    },
+    {
+      "t": 46.71,
+      "end": 47.37,
+      "text": "寫謝謝寫好的"
+    },
+    {
+      "t": 47.37,
+      "end": 48.19,
+      "text": "你們說話變慢了"
+    },
+    {
+      "t": 48.21,
+      "end": 49.01,
+      "text": "好像怕我著急"
+    },
+    {
+      "t": 51.87,
+      "end": 51.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 51.87,
+      "end": 54.25,
+      "text": "經理不再大聲吼"
+    },
+    {
+      "t": 55.55,
+      "end": 57.57,
+      "text": "他也開始寫字"
+    },
+    {
+      "t": 58.61,
+      "end": 60.17,
+      "text": "同事遞來一杯"
+    },
+    {
+      "t": 60.83,
+      "end": 62.97,
+      "text": "溫溫的蜂蜜水"
+    },
+    {
+      "t": 64.85,
+      "end": 64.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.85,
+      "end": 67.39,
+      "text": "我拿一塊小白板"
+    },
+    {
+      "t": 67.69,
+      "end": 69.65,
+      "text": "寫抱歉寫沒事"
+    },
+    {
+      "t": 70.75,
+      "end": 72.49,
+      "text": "原來少說幾句"
+    },
+    {
+      "t": 73.99,
+      "end": 76.27,
+      "text": "大家都比較溫柔"
+    },
+    {
+      "t": 80.69,
+      "end": 80.69,
+      "text": "[Bridge - pad and 808 only]"
+    },
+    {
+      "t": 80.69,
+      "end": 84.37,
+      "text": "第七天聲音回來"
+    },
+    {
+      "t": 86.39,
+      "end": 91.09,
+      "text": "我先說了早安"
+    },
+    {
+      "t": 119.13,
+      "end": 119.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.13,
+      "end": 120.93,
+      "text": "白板我收在抽屜"
+    },
+    {
+      "t": 125.63,
+      "end": 129.39,
+      "text": "上面還有一行字"
+    },
+    {
+      "t": 145.48,
+      "end": 147.28,
+      "text": "你們寫給我的"
+    },
+    {
+      "t": 151.08,
+      "end": 153.52,
+      "text": "加油兩個字"
+    },
+    {
+      "t": 158.02,
+      "end": 158.02,
+      "text": "[Outro - bell synth fades]"
+    },
+    {
+      "t": 158.02,
+      "end": 163.42,
+      "text": "我還留著"
+    },
+    {
+      "t": 167.78,
+      "end": 169.92,
+      "text": "那支藍色筆"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 38.16,
+      "end": 38.16,
+      "text": "[Intro - bell synth and clean guitar]"
+    },
+    {
+      "t": 38.16,
+      "end": 38.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.16,
+      "end": 38.9,
+      "text": "星期一我醒來"
+    },
+    {
+      "t": 38.9,
+      "end": 39.38,
+      "text": "喉嚨只剩空氣"
+    },
+    {
+      "t": 39.38,
+      "end": 40.84,
+      "text": "醫生說別說話"
+    },
+    {
+      "t": 40.86,
+      "end": 45.6,
+      "text": "七天都要安靜"
+    },
+    {
+      "t": 45.62,
+      "end": 45.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.62,
+      "end": 46.71,
+      "text": "我拿一塊小白板"
+    },
+    {
+      "t": 46.71,
+      "end": 47.37,
+      "text": "寫謝謝寫好的"
+    },
+    {
+      "t": 47.37,
+      "end": 48.19,
+      "text": "你們說話變慢了"
+    },
+    {
+      "t": 48.21,
+      "end": 49.01,
+      "text": "好像怕我著急"
+    },
+    {
+      "t": 51.87,
+      "end": 51.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 51.87,
+      "end": 54.25,
+      "text": "經理不再大聲吼"
+    },
+    {
+      "t": 55.55,
+      "end": 57.57,
+      "text": "他也開始寫字"
+    },
+    {
+      "t": 58.61,
+      "end": 60.17,
+      "text": "同事遞來一杯"
+    },
+    {
+      "t": 60.83,
+      "end": 62.97,
+      "text": "溫溫的蜂蜜水"
+    },
+    {
+      "t": 64.85,
+      "end": 64.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.85,
+      "end": 67.39,
+      "text": "我拿一塊小白板"
+    },
+    {
+      "t": 67.69,
+      "end": 69.65,
+      "text": "寫抱歉寫沒事"
+    },
+    {
+      "t": 70.75,
+      "end": 72.49,
+      "text": "原來少說幾句"
+    },
+    {
+      "t": 73.99,
+      "end": 76.27,
+      "text": "大家都比較溫柔"
+    },
+    {
+      "t": 80.69,
+      "end": 80.69,
+      "text": "[Bridge - pad and 808 only]"
+    },
+    {
+      "t": 80.69,
+      "end": 84.37,
+      "text": "第七天聲音回來"
+    },
+    {
+      "t": 86.39,
+      "end": 91.09,
+      "text": "我先說了早安"
+    },
+    {
+      "t": 119.13,
+      "end": 119.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.13,
+      "end": 120.93,
+      "text": "白板我收在抽屜"
+    },
+    {
+      "t": 125.63,
+      "end": 129.39,
+      "text": "上面還有一行字"
+    },
+    {
+      "t": 145.48,
+      "end": 147.28,
+      "text": "你們寫給我的"
+    },
+    {
+      "t": 151.08,
+      "end": 153.52,
+      "text": "加油兩個字"
+    },
+    {
+      "t": 158.02,
+      "end": 158.02,
+      "text": "[Outro - bell synth fades]"
+    },
+    {
+      "t": 158.02,
+      "end": 163.42,
+      "text": "我還留著"
+    },
+    {
+      "t": 167.78,
+      "end": 169.92,
+      "text": "那支藍色筆"
+    }
+  ]
+}

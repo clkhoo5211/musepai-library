@@ -1,0 +1,489 @@
+{
+  "id": "b17_ja03",
+  "title": "湯たんぽの温度",
+  "title_source": "scripted",
+  "genre": "Japanese acid jazz",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "warm, tender and quietly grooving",
+  "persona": "",
+  "subject": "a man who boils the kettle at eleven every winter night to fill a hot-water bottle and tuck it on his partner's side of the futon before she gets home from her late shift, checking it with his own hand like a nurse",
+  "caption": "Japanese acid jazz in the Kyoto-Tokyo 90s club-jazz tradition. Tight syncopated funk drums with open hi-hat, round electric bass mixing walking lines and funk octaves, Hammond organ with Leslie swirl, muted trumpet solo lines, congas. Warm 90s club mix with soft plate reverb. Male soft baritone, intimate close-mic delivery with light falsetto on the hook. 104 BPM, E-flat major. Warm, tender and quietly grooving. No trap hi-hats, no autotune, no EDM drop, no distorted guitars, no orchestral strings.",
+  "lyrics": "[Intro - Hammond organ, congas, bass groove]\n\n[Verse 1]\n十一時に やかんが鳴る\n君の帰りは 零時過ぎ\nゴムの湯たんぽ 八分目\nこぼさないように そっと注ぐ\n\n[Pre-Chorus]\nタオルで巻いて 君の側\n布団のまんなか 少し右\n\n[Chorus]\n湯たんぽの温度\n手のひらで 確かめる\n熱すぎないかな\n君の足が 来る場所\n\n[Verse 2]\n鍵の音して 冷えた声\n「ただいま」って 靴も脱がずに\n布団にもぐって 笑ってる\n「なんで分かるの ちょうどいいの」\n\n[Bridge - muted trumpet solo]\n言わないけど 三回は\n手を入れて 見てるんだ\n\n[Chorus]\n湯たんぽの温度\n今夜も ちょうどいい\n冷たい君の足\n僕のすねに 乗せていい\n\n[Outro - organ, trumpet fades]\n朝にはぬるい ただのお湯\nそれで顔を 洗おうか",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E♭ major",
+    "timesignature": "4",
+    "prompt": "Japanese acid jazz in the Kyoto-Tokyo 90s club-jazz tradition. Tight syncopated funk drums with open hi-hat, round electric bass mixing walking lines and funk octaves, Hammond organ with Leslie swirl, muted trumpet solo lines, congas. Warm 90s club mix with soft plate reverb. Male soft baritone, intimate close-mic delivery with light falsetto on the hook. 104 BPM, E-flat major. Warm, tender and quietly grooving. No trap hi-hats, no autotune, no EDM drop, no distorted guitars, no orchestral strings.",
+    "lyrics": "[Intro - Hammond organ, congas, bass groove]\n\n[Verse 1]\n十一時に やかんが鳴る\n君の帰りは 零時過ぎ\nゴムの湯たんぽ 八分目\nこぼさないように そっと注ぐ\n\n[Pre-Chorus]\nタオルで巻いて 君の側\n布団のまんなか 少し右\n\n[Chorus]\n湯たんぽの温度\n手のひらで 確かめる\n熱すぎないかな\n君の足が 来る場所\n\n[Verse 2]\n鍵の音して 冷えた声\n「ただいま」って 靴も脱がずに\n布団にもぐって 笑ってる\n「なんで分かるの ちょうどいいの」\n\n[Bridge - muted trumpet solo]\n言わないけど 三回は\n手を入れて 見てるんだ\n\n[Chorus]\n湯たんぽの温度\n今夜も ちょうどいい\n冷たい君の足\n僕のすねに 乗せていい\n\n[Outro - organ, trumpet fades]\n朝にはぬるい ただのお湯\nそれで顔を 洗おうか"
+  },
+  "seed": "1955062067",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.40s**\n- 64.40s per song\n- LM phase (1 song): 11.91s\n- DiT phase (1 song): 52.49s",
+  "task_id": "07c03077-a3c2-475b-924e-8a93bd885d89",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-10-30T18:21:35.375226+08:00",
+  "audio": "b17_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.94,
+      "end": 28.94,
+      "text": "[Intro - Hammond organ, congas, bass groove]"
+    },
+    {
+      "t": 28.94,
+      "end": 28.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.94,
+      "end": 31.24,
+      "text": "十一時に やかんが鳴る"
+    },
+    {
+      "t": 32.36,
+      "end": 35.82,
+      "text": "君の帰りは 零時過ぎ"
+    },
+    {
+      "t": 37.7,
+      "end": 40.4,
+      "text": "ゴムの湯たんぽ 八分目"
+    },
+    {
+      "t": 41.54,
+      "end": 46.1,
+      "text": "こぼさないように そっと注ぐ"
+    },
+    {
+      "t": 46.38,
+      "end": 46.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.38,
+      "end": 50.53,
+      "text": "タオルで巻いて 君の側"
+    },
+    {
+      "t": 51.41,
+      "end": 54.39,
+      "text": "布団のまんなか 少し右"
+    },
+    {
+      "t": 54.39,
+      "end": 54.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.39,
+      "end": 54.93,
+      "text": "湯たんぽの温度"
+    },
+    {
+      "t": 54.93,
+      "end": 64.37,
+      "text": "手のひらで 確かめる"
+    },
+    {
+      "t": 64.45,
+      "end": 66.91,
+      "text": "熱すぎないかな"
+    },
+    {
+      "t": 66.97,
+      "end": 69.55,
+      "text": "君の足が 来る場所"
+    },
+    {
+      "t": 69.55,
+      "end": 69.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.55,
+      "end": 71.49,
+      "text": "鍵の音して 冷えた声"
+    },
+    {
+      "t": 71.55,
+      "end": 74.07,
+      "text": "「ただいま」って 靴も脱がずに"
+    },
+    {
+      "t": 74.07,
+      "end": 76.25,
+      "text": "布団にもぐって 笑ってる"
+    },
+    {
+      "t": 76.25,
+      "end": 79.11,
+      "text": "「なんで分かるの ちょうどいいの」"
+    },
+    {
+      "t": 79.33,
+      "end": 79.33,
+      "text": "[Bridge - muted trumpet solo]"
+    },
+    {
+      "t": 79.33,
+      "end": 80.53,
+      "text": "言わないけど 三回は"
+    },
+    {
+      "t": 81.25,
+      "end": 113.89,
+      "text": "手を入れて 見てるんだ"
+    },
+    {
+      "t": 114.07,
+      "end": 114.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.07,
+      "end": 124.75,
+      "text": "湯たんぽの温度"
+    },
+    {
+      "t": 125.73,
+      "end": 130.45,
+      "text": "今夜も ちょうどいい"
+    },
+    {
+      "t": 130.65,
+      "end": 134.45,
+      "text": "冷たい君の足"
+    },
+    {
+      "t": 134.63,
+      "end": 144.19,
+      "text": "僕のすねに 乗せていい"
+    },
+    {
+      "t": 144.37,
+      "end": 144.37,
+      "text": "[Outro - organ, trumpet fades]"
+    },
+    {
+      "t": 144.37,
+      "end": 161.34,
+      "text": "朝にはぬるい ただのお湯"
+    },
+    {
+      "t": 161.36,
+      "end": 166.4,
+      "text": "それで顔を 洗おうか"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.94,
+      "end": 28.94,
+      "text": "[Intro - Hammond organ, congas, bass groove]"
+    },
+    {
+      "t": 28.94,
+      "end": 28.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.94,
+      "end": 31.24,
+      "text": "十一時に やかんが鳴る"
+    },
+    {
+      "t": 32.36,
+      "end": 35.82,
+      "text": "君の帰りは 零時過ぎ"
+    },
+    {
+      "t": 37.7,
+      "end": 40.4,
+      "text": "ゴムの湯たんぽ 八分目"
+    },
+    {
+      "t": 41.54,
+      "end": 46.1,
+      "text": "こぼさないように そっと注ぐ"
+    },
+    {
+      "t": 46.38,
+      "end": 46.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.38,
+      "end": 50.53,
+      "text": "タオルで巻いて 君の側"
+    },
+    {
+      "t": 51.41,
+      "end": 54.39,
+      "text": "布団のまんなか 少し右"
+    },
+    {
+      "t": 54.39,
+      "end": 54.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.39,
+      "end": 54.93,
+      "text": "湯たんぽの温度"
+    },
+    {
+      "t": 54.93,
+      "end": 64.37,
+      "text": "手のひらで 確かめる"
+    },
+    {
+      "t": 64.45,
+      "end": 66.91,
+      "text": "熱すぎないかな"
+    },
+    {
+      "t": 66.97,
+      "end": 69.55,
+      "text": "君の足が 来る場所"
+    },
+    {
+      "t": 69.55,
+      "end": 69.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.55,
+      "end": 71.49,
+      "text": "鍵の音して 冷えた声"
+    },
+    {
+      "t": 71.55,
+      "end": 74.07,
+      "text": "「ただいま」って 靴も脱がずに"
+    },
+    {
+      "t": 74.07,
+      "end": 76.25,
+      "text": "布団にもぐって 笑ってる"
+    },
+    {
+      "t": 76.25,
+      "end": 79.11,
+      "text": "「なんで分かるの ちょうどいいの」"
+    },
+    {
+      "t": 79.33,
+      "end": 79.33,
+      "text": "[Bridge - muted trumpet solo]"
+    },
+    {
+      "t": 79.33,
+      "end": 80.53,
+      "text": "言わないけど 三回は"
+    },
+    {
+      "t": 81.25,
+      "end": 113.89,
+      "text": "手を入れて 見てるんだ"
+    },
+    {
+      "t": 114.07,
+      "end": 114.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.07,
+      "end": 124.75,
+      "text": "湯たんぽの温度"
+    },
+    {
+      "t": 125.73,
+      "end": 130.45,
+      "text": "今夜も ちょうどいい"
+    },
+    {
+      "t": 130.65,
+      "end": 134.45,
+      "text": "冷たい君の足"
+    },
+    {
+      "t": 134.63,
+      "end": 144.19,
+      "text": "僕のすねに 乗せていい"
+    },
+    {
+      "t": 144.37,
+      "end": 144.37,
+      "text": "[Outro - organ, trumpet fades]"
+    },
+    {
+      "t": 144.37,
+      "end": 161.34,
+      "text": "朝にはぬるい ただのお湯"
+    },
+    {
+      "t": 161.36,
+      "end": 166.4,
+      "text": "それで顔を 洗おうか"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 37.54,
+      "end": 37.54,
+      "text": "[Intro - Hammond organ, congas, bass groove]"
+    },
+    {
+      "t": 37.54,
+      "end": 37.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.54,
+      "end": 40.76,
+      "text": "十一時に やかんが鳴る"
+    },
+    {
+      "t": 41.74,
+      "end": 45.94,
+      "text": "君の帰りは 零時過ぎ"
+    },
+    {
+      "t": 47.24,
+      "end": 51.07,
+      "text": "ゴムの湯たんぽ 八分目"
+    },
+    {
+      "t": 53.31,
+      "end": 57.17,
+      "text": "こぼさないように そっと注ぐ"
+    },
+    {
+      "t": 58.49,
+      "end": 58.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.49,
+      "end": 61.49,
+      "text": "タオルで巻いて 君の側"
+    },
+    {
+      "t": 61.69,
+      "end": 66.45,
+      "text": "布団のまんなか 少し右"
+    },
+    {
+      "t": 66.49,
+      "end": 66.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.49,
+      "end": 69.27,
+      "text": "湯たんぽの温度"
+    },
+    {
+      "t": 70.33,
+      "end": 71.63,
+      "text": "手のひらで 確かめる"
+    },
+    {
+      "t": 73.07,
+      "end": 75.81,
+      "text": "熱すぎないかな"
+    },
+    {
+      "t": 76.93,
+      "end": 79.63,
+      "text": "君の足が 来る場所"
+    },
+    {
+      "t": 79.71,
+      "end": 79.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.71,
+      "end": 83.17,
+      "text": "鍵の音して 冷えた声"
+    },
+    {
+      "t": 83.17,
+      "end": 85.57,
+      "text": "「ただいま」って 靴も脱がずに"
+    },
+    {
+      "t": 85.63,
+      "end": 87.65,
+      "text": "布団にもぐって 笑ってる"
+    },
+    {
+      "t": 87.79,
+      "end": 92.85,
+      "text": "「なんで分かるの ちょうどいいの」"
+    },
+    {
+      "t": 92.85,
+      "end": 92.85,
+      "text": "[Bridge - muted trumpet solo]"
+    },
+    {
+      "t": 92.85,
+      "end": 107.61,
+      "text": "言わないけど 三回は"
+    },
+    {
+      "t": 109.79,
+      "end": 117.93,
+      "text": "手を入れて 見てるんだ"
+    },
+    {
+      "t": 121.23,
+      "end": 121.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.23,
+      "end": 122.65,
+      "text": "湯たんぽの温度"
+    },
+    {
+      "t": 122.71,
+      "end": 123.95,
+      "text": "今夜も ちょうどいい"
+    },
+    {
+      "t": 125.81,
+      "end": 130.53,
+      "text": "冷たい君の足"
+    },
+    {
+      "t": 130.69,
+      "end": 141.27,
+      "text": "僕のすねに 乗せていい"
+    },
+    {
+      "t": 144.57,
+      "end": 144.57,
+      "text": "[Outro - organ, trumpet fades]"
+    },
+    {
+      "t": 144.57,
+      "end": 161.96,
+      "text": "朝にはぬるい ただのお湯"
+    },
+    {
+      "t": 163.5,
+      "end": 169.36,
+      "text": "それで顔を 洗おうか"
+    }
+  ]
+}

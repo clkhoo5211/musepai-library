@@ -1,0 +1,444 @@
+{
+  "id": "b17_vi03",
+  "title": "Chú Vàng Chào Cờ",
+  "title_source": "scripted",
+  "genre": "V-folktriotism folk dance-pop with trống cơm",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "bright, bouncy, affectionate",
+  "persona": "",
+  "subject": "a yellow village dog in Nam Định that runs to the primary school every Monday for the flag-salute drum, sits in the front row with grade one, and gets his own name in the school newsletter",
+  "caption": "V-folktriotism folk dance-pop, 2025 Vietnamese folk-meets-dance style. Trống cơm hand drum playing bouncing two-tone patterns; sáo trúc bamboo flute with quick trills; đàn nguyệt moon lute plucking a pentatonic riff; four-on-the-floor kick with round synth bass. Clean punchy dance mix with the folk instruments dry and up front. Female lead with light northern folk ornaments in Vietnamese, group shout responses. 118 BPM, A minor. Bright, bouncy and affectionate. No trap hi-hats, no autotune, no dubstep drop, no rock guitar, no marching anthem brass.",
+  "lyrics": "[Intro - trống cơm and sáo trúc]\n\n[Verse 1]\nSáng thứ hai trống trường vừa điểm\nChú Vàng chạy từ đầu làng ra\nVẫy đuôi qua cổng trường tiểu học\nNgồi vào hàng lớp một ngay ngắn\n\n[Pre-Chorus]\nCô hiệu trưởng nhìn xuống cười\nCả sân trường cười theo\n\n[Chorus]\nChú Vàng chào cờ, đứng nghiêm nào\nTai dựng lên khi trống đánh vang\nBạn nhỏ hát, chú ngồi im\nThứ hai nào cũng có chú Vàng\n\n[Verse 2]\nBác bảo vệ đuổi ra mấy lượt\nChú lại vòng qua bụi tre vào\nTờ tin trường in tên chú Vàng\nHọc sinh danh dự tháng mười rồi\n\n[Chorus]\nChú Vàng chào cờ, đứng nghiêm nào\nĐuôi ngoắt ngoắt khi trống đánh vang\nBạn nhỏ hát, chú sủa theo\nThứ hai nào cũng có chú Vàng\n\n[Outro - sáo trúc and drum]\nHè về sân trường vắng tanh\nChú vẫn ra ngồi đợi trống",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "V-folktriotism folk dance-pop, 2025 Vietnamese folk-meets-dance style. Trống cơm hand drum playing bouncing two-tone patterns; sáo trúc bamboo flute with quick trills; đàn nguyệt moon lute plucking a pentatonic riff; four-on-the-floor kick with round synth bass. Clean punchy dance mix with the folk instruments dry and up front. Female lead with light northern folk ornaments in Vietnamese, group shout responses. 118 BPM, A minor. Bright, bouncy and affectionate. No trap hi-hats, no autotune, no dubstep drop, no rock guitar, no marching anthem brass.",
+    "lyrics": "[Intro - trống cơm and sáo trúc]\n\n[Verse 1]\nSáng thứ hai trống trường vừa điểm\nChú Vàng chạy từ đầu làng ra\nVẫy đuôi qua cổng trường tiểu học\nNgồi vào hàng lớp một ngay ngắn\n\n[Pre-Chorus]\nCô hiệu trưởng nhìn xuống cười\nCả sân trường cười theo\n\n[Chorus]\nChú Vàng chào cờ, đứng nghiêm nào\nTai dựng lên khi trống đánh vang\nBạn nhỏ hát, chú ngồi im\nThứ hai nào cũng có chú Vàng\n\n[Verse 2]\nBác bảo vệ đuổi ra mấy lượt\nChú lại vòng qua bụi tre vào\nTờ tin trường in tên chú Vàng\nHọc sinh danh dự tháng mười rồi\n\n[Chorus]\nChú Vàng chào cờ, đứng nghiêm nào\nĐuôi ngoắt ngoắt khi trống đánh vang\nBạn nhỏ hát, chú sủa theo\nThứ hai nào cũng có chú Vàng\n\n[Outro - sáo trúc and drum]\nHè về sân trường vắng tanh\nChú vẫn ra ngồi đợi trống"
+  },
+  "seed": "2839006115",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 113.37s**\n- 113.37s per song\n- LM phase (1 song): 18.65s\n- DiT phase (1 song): 94.72s",
+  "task_id": "9699916b-909d-4ec9-a092-54756d65027c",
+  "elapsed_s": 140.4,
+  "generated_at": "2026-10-30T10:47:44.517823+08:00",
+  "audio": "b17_vi03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.38,
+      "end": 36.38,
+      "text": "[Intro - trống cơm and sáo trúc]"
+    },
+    {
+      "t": 36.38,
+      "end": 36.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.38,
+      "end": 45.48,
+      "text": "Sáng thứ hai trống trường vừa điểm"
+    },
+    {
+      "t": 53.45,
+      "end": 54.01,
+      "text": "Chú Vàng chạy từ đầu làng ra"
+    },
+    {
+      "t": 54.01,
+      "end": 55.67,
+      "text": "Vẫy đuôi qua cổng trường tiểu học"
+    },
+    {
+      "t": 55.73,
+      "end": 59.13,
+      "text": "Ngồi vào hàng lớp một ngay ngắn"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.29,
+      "end": 64.05,
+      "text": "Cô hiệu trưởng nhìn xuống cười"
+    },
+    {
+      "t": 65.31,
+      "end": 68.45,
+      "text": "Cả sân trường cười theo"
+    },
+    {
+      "t": 76.11,
+      "end": 76.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 76.11,
+      "end": 78.55,
+      "text": "Chú Vàng chào cờ, đứng nghiêm nào"
+    },
+    {
+      "t": 79.67,
+      "end": 82.77,
+      "text": "Tai dựng lên khi trống đánh vang"
+    },
+    {
+      "t": 83.71,
+      "end": 86.73,
+      "text": "Bạn nhỏ hát, chú ngồi im"
+    },
+    {
+      "t": 87.71,
+      "end": 93.21,
+      "text": "Thứ hai nào cũng có chú Vàng"
+    },
+    {
+      "t": 98.85,
+      "end": 98.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.85,
+      "end": 101.83,
+      "text": "Bác bảo vệ đuổi ra mấy lượt"
+    },
+    {
+      "t": 102.33,
+      "end": 104.79,
+      "text": "Chú lại vòng qua bụi tre vào"
+    },
+    {
+      "t": 106.15,
+      "end": 109.07,
+      "text": "Tờ tin trường in tên chú Vàng"
+    },
+    {
+      "t": 109.89,
+      "end": 113.39,
+      "text": "Học sinh danh dự tháng mười rồi"
+    },
+    {
+      "t": 131.55,
+      "end": 131.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.55,
+      "end": 133.53,
+      "text": "Chú Vàng chào cờ, đứng nghiêm nào"
+    },
+    {
+      "t": 134.73,
+      "end": 137.77,
+      "text": "Đuôi ngoắt ngoắt khi trống đánh vang"
+    },
+    {
+      "t": 139.69,
+      "end": 141.57,
+      "text": "Bạn nhỏ hát, chú sủa theo"
+    },
+    {
+      "t": 142.21,
+      "end": 146.16,
+      "text": "Thứ hai nào cũng có chú Vàng"
+    },
+    {
+      "t": 147.76,
+      "end": 147.76,
+      "text": "[Outro - sáo trúc and drum]"
+    },
+    {
+      "t": 147.76,
+      "end": 151.5,
+      "text": "Hè về sân trường vắng tanh"
+    },
+    {
+      "t": 155.26,
+      "end": 173.2,
+      "text": "Chú vẫn ra ngồi đợi trống"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.38,
+      "end": 36.38,
+      "text": "[Intro - trống cơm and sáo trúc]"
+    },
+    {
+      "t": 36.38,
+      "end": 36.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.38,
+      "end": 45.48,
+      "text": "Sáng thứ hai trống trường vừa điểm"
+    },
+    {
+      "t": 53.45,
+      "end": 54.01,
+      "text": "Chú Vàng chạy từ đầu làng ra"
+    },
+    {
+      "t": 54.01,
+      "end": 55.67,
+      "text": "Vẫy đuôi qua cổng trường tiểu học"
+    },
+    {
+      "t": 55.73,
+      "end": 59.13,
+      "text": "Ngồi vào hàng lớp một ngay ngắn"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.29,
+      "end": 64.05,
+      "text": "Cô hiệu trưởng nhìn xuống cười"
+    },
+    {
+      "t": 65.31,
+      "end": 68.45,
+      "text": "Cả sân trường cười theo"
+    },
+    {
+      "t": 76.11,
+      "end": 76.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 76.11,
+      "end": 78.55,
+      "text": "Chú Vàng chào cờ, đứng nghiêm nào"
+    },
+    {
+      "t": 79.67,
+      "end": 82.77,
+      "text": "Tai dựng lên khi trống đánh vang"
+    },
+    {
+      "t": 83.71,
+      "end": 86.73,
+      "text": "Bạn nhỏ hát, chú ngồi im"
+    },
+    {
+      "t": 87.71,
+      "end": 93.21,
+      "text": "Thứ hai nào cũng có chú Vàng"
+    },
+    {
+      "t": 98.85,
+      "end": 98.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.85,
+      "end": 101.83,
+      "text": "Bác bảo vệ đuổi ra mấy lượt"
+    },
+    {
+      "t": 102.33,
+      "end": 104.79,
+      "text": "Chú lại vòng qua bụi tre vào"
+    },
+    {
+      "t": 106.15,
+      "end": 109.07,
+      "text": "Tờ tin trường in tên chú Vàng"
+    },
+    {
+      "t": 109.89,
+      "end": 113.39,
+      "text": "Học sinh danh dự tháng mười rồi"
+    },
+    {
+      "t": 131.55,
+      "end": 131.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.55,
+      "end": 133.53,
+      "text": "Chú Vàng chào cờ, đứng nghiêm nào"
+    },
+    {
+      "t": 134.73,
+      "end": 137.77,
+      "text": "Đuôi ngoắt ngoắt khi trống đánh vang"
+    },
+    {
+      "t": 139.69,
+      "end": 141.57,
+      "text": "Bạn nhỏ hát, chú sủa theo"
+    },
+    {
+      "t": 142.21,
+      "end": 146.16,
+      "text": "Thứ hai nào cũng có chú Vàng"
+    },
+    {
+      "t": 147.76,
+      "end": 147.76,
+      "text": "[Outro - sáo trúc and drum]"
+    },
+    {
+      "t": 147.76,
+      "end": 151.5,
+      "text": "Hè về sân trường vắng tanh"
+    },
+    {
+      "t": 155.26,
+      "end": 173.2,
+      "text": "Chú vẫn ra ngồi đợi trống"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.96,
+      "end": 25.96,
+      "text": "[Intro - trống cơm and sáo trúc]"
+    },
+    {
+      "t": 25.96,
+      "end": 25.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.96,
+      "end": 45.2,
+      "text": "Sáng thứ hai trống trường vừa điểm"
+    },
+    {
+      "t": 46.9,
+      "end": 53.73,
+      "text": "Chú Vàng chạy từ đầu làng ra"
+    },
+    {
+      "t": 53.73,
+      "end": 55.03,
+      "text": "Vẫy đuôi qua cổng trường tiểu học"
+    },
+    {
+      "t": 55.03,
+      "end": 59.01,
+      "text": "Ngồi vào hàng lớp một ngay ngắn"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.29,
+      "end": 64.07,
+      "text": "Cô hiệu trưởng nhìn xuống cười"
+    },
+    {
+      "t": 65.31,
+      "end": 68.45,
+      "text": "Cả sân trường cười theo"
+    },
+    {
+      "t": 76.11,
+      "end": 76.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 76.11,
+      "end": 78.53,
+      "text": "Chú Vàng chào cờ, đứng nghiêm nào"
+    },
+    {
+      "t": 79.69,
+      "end": 82.77,
+      "text": "Tai dựng lên khi trống đánh vang"
+    },
+    {
+      "t": 83.71,
+      "end": 86.73,
+      "text": "Bạn nhỏ hát, chú ngồi im"
+    },
+    {
+      "t": 87.73,
+      "end": 93.21,
+      "text": "Thứ hai nào cũng có chú Vàng"
+    },
+    {
+      "t": 98.83,
+      "end": 98.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.83,
+      "end": 101.83,
+      "text": "Bác bảo vệ đuổi ra mấy lượt"
+    },
+    {
+      "t": 102.33,
+      "end": 104.79,
+      "text": "Chú lại vòng qua bụi tre vào"
+    },
+    {
+      "t": 106.17,
+      "end": 109.07,
+      "text": "Tờ tin trường in tên chú Vàng"
+    },
+    {
+      "t": 109.89,
+      "end": 113.37,
+      "text": "Học sinh danh dự tháng mười rồi"
+    },
+    {
+      "t": 131.55,
+      "end": 131.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.55,
+      "end": 133.49,
+      "text": "Chú Vàng chào cờ, đứng nghiêm nào"
+    },
+    {
+      "t": 134.73,
+      "end": 137.73,
+      "text": "Đuôi ngoắt ngoắt khi trống đánh vang"
+    },
+    {
+      "t": 139.69,
+      "end": 141.55,
+      "text": "Bạn nhỏ hát, chú sủa theo"
+    },
+    {
+      "t": 142.21,
+      "end": 146.14,
+      "text": "Thứ hai nào cũng có chú Vàng"
+    },
+    {
+      "t": 147.76,
+      "end": 147.76,
+      "text": "[Outro - sáo trúc and drum]"
+    },
+    {
+      "t": 147.76,
+      "end": 151.6,
+      "text": "Hè về sân trường vắng tanh"
+    },
+    {
+      "t": 155.28,
+      "end": 175.6,
+      "text": "Chú vẫn ra ngồi đợi trống"
+    }
+  ]
+}

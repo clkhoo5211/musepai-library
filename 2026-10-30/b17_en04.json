@@ -1,0 +1,534 @@
+{
+  "id": "b17_en04",
+  "title": "Say It Again, Walter",
+  "title_source": "scripted",
+  "genre": "Philly soul",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm, grateful and glowing",
+  "persona": "",
+  "subject": "a woman in her sixties fitted with her first hearing aids, who sits in the car outside the audiologist's office and hears her husband Walter humming along to the radio, something he has apparently done for years",
+  "caption": "Philly soul, early 70s sweet soul style. Lush sweeping string section, shimmering vibraphone, Fender Rhodes chords, a warm French horn line, tight bass and four-on-the-floor drum pocket with hi-hat sixteenths. Silky mix with wide strings and soft plate reverb. Female alto lead, warm and glowing, gliding into a sweet head voice, smooth three-part backing harmonies. 96 BPM, E major. Warm, grateful and glowing. No trap drums, no autotune, no rock guitar, no modern EDM, no rap.",
+  "lyrics": "[Intro - strings and vibraphone]\n\n[Verse 1]\nTwo small beige things behind my ears\nThe lady said give it a week\nI climbed into the car with Walter\nAnd something hummed beside me\n\n[Pre-Chorus]\nLow and a little flat\nRight along with the radio\n\n[Chorus]\nSay it again, Walter\nHum it one more time\nThirty years beside me\nAnd I missed the line\n\n[Verse 2]\nHe went red right to his collar\nSaid, I always hum, my dear\nI said turn the radio up\nI've got some catching up to do\n\n[Pre-Chorus]\nLow and a little flat\nSweetest thing on Route 9\n\n[Chorus]\nSay it again, Walter\nDon't you dare stop now\nThirty years of humming\nAnd I'm hearing it right now\n\n[Bridge - horns and strings]\nThe turn signal ticking\nThe kettle when we're home\n\n[Outro - backing vocals]\nSay it again, Walter\nHum me all the way home",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Philly soul, early 70s sweet soul style. Lush sweeping string section, shimmering vibraphone, Fender Rhodes chords, a warm French horn line, tight bass and four-on-the-floor drum pocket with hi-hat sixteenths. Silky mix with wide strings and soft plate reverb. Female alto lead, warm and glowing, gliding into a sweet head voice, smooth three-part backing harmonies. 96 BPM, E major. Warm, grateful and glowing. No trap drums, no autotune, no rock guitar, no modern EDM, no rap.",
+    "lyrics": "[Intro - strings and vibraphone]\n\n[Verse 1]\nTwo small beige things behind my ears\nThe lady said give it a week\nI climbed into the car with Walter\nAnd something hummed beside me\n\n[Pre-Chorus]\nLow and a little flat\nRight along with the radio\n\n[Chorus]\nSay it again, Walter\nHum it one more time\nThirty years beside me\nAnd I missed the line\n\n[Verse 2]\nHe went red right to his collar\nSaid, I always hum, my dear\nI said turn the radio up\nI've got some catching up to do\n\n[Pre-Chorus]\nLow and a little flat\nSweetest thing on Route 9\n\n[Chorus]\nSay it again, Walter\nDon't you dare stop now\nThirty years of humming\nAnd I'm hearing it right now\n\n[Bridge - horns and strings]\nThe turn signal ticking\nThe kettle when we're home\n\n[Outro - backing vocals]\nSay it again, Walter\nHum me all the way home"
+  },
+  "seed": "2223099785",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.91s**\n- 62.91s per song\n- LM phase (1 song): 13.83s\n- DiT phase (1 song): 49.08s",
+  "task_id": "d9559a9d-475e-4d29-837a-53f545952731",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-10-30T11:07:00.227629+08:00",
+  "audio": "b17_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 41.96,
+      "end": 41.96,
+      "text": "[Intro - strings and vibraphone]"
+    },
+    {
+      "t": 41.96,
+      "end": 41.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.96,
+      "end": 46.18,
+      "text": "Two small beige things behind my ears"
+    },
+    {
+      "t": 46.72,
+      "end": 48.76,
+      "text": "The lady said give it a week"
+    },
+    {
+      "t": 48.76,
+      "end": 49.78,
+      "text": "I climbed into the car with Walter"
+    },
+    {
+      "t": 49.92,
+      "end": 57.67,
+      "text": "And something hummed beside me"
+    },
+    {
+      "t": 57.67,
+      "end": 57.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.67,
+      "end": 59.89,
+      "text": "Low and a little flat"
+    },
+    {
+      "t": 60.79,
+      "end": 63.11,
+      "text": "Right along with the radio"
+    },
+    {
+      "t": 67.61,
+      "end": 67.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.61,
+      "end": 70.17,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 72.59,
+      "end": 74.63,
+      "text": "Hum it one more time"
+    },
+    {
+      "t": 77.59,
+      "end": 80.11,
+      "text": "Thirty years beside me"
+    },
+    {
+      "t": 83.91,
+      "end": 89.01,
+      "text": "And I missed the line"
+    },
+    {
+      "t": 89.01,
+      "end": 89.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.01,
+      "end": 91.37,
+      "text": "He went red right to his collar"
+    },
+    {
+      "t": 93.17,
+      "end": 98.13,
+      "text": "Said, I always hum, my dear"
+    },
+    {
+      "t": 98.13,
+      "end": 100.43,
+      "text": "I said turn the radio up"
+    },
+    {
+      "t": 100.49,
+      "end": 105.11,
+      "text": "I've got some catching up to do"
+    },
+    {
+      "t": 108.27,
+      "end": 108.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.27,
+      "end": 110.51,
+      "text": "Low and a little flat"
+    },
+    {
+      "t": 112.29,
+      "end": 114.69,
+      "text": "Sweetest thing on Route 9"
+    },
+    {
+      "t": 114.87,
+      "end": 114.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.87,
+      "end": 121.61,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 121.77,
+      "end": 124.95,
+      "text": "Don't you dare stop now"
+    },
+    {
+      "t": 127.97,
+      "end": 130.63,
+      "text": "Thirty years of humming"
+    },
+    {
+      "t": 132.19,
+      "end": 146.07,
+      "text": "And I'm hearing it right now"
+    },
+    {
+      "t": 148.73,
+      "end": 148.73,
+      "text": "[Bridge - horns and strings]"
+    },
+    {
+      "t": 148.73,
+      "end": 150.91,
+      "text": "The turn signal ticking"
+    },
+    {
+      "t": 153.71,
+      "end": 157.16,
+      "text": "The kettle when we're home"
+    },
+    {
+      "t": 164.02,
+      "end": 164.02,
+      "text": "[Outro - backing vocals]"
+    },
+    {
+      "t": 164.02,
+      "end": 167.6,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 169.66,
+      "end": 191.56,
+      "text": "Hum me all the way home"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 41.96,
+      "end": 41.96,
+      "text": "[Intro - strings and vibraphone]"
+    },
+    {
+      "t": 41.96,
+      "end": 41.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.96,
+      "end": 46.52,
+      "text": "Two small beige things behind my ears"
+    },
+    {
+      "t": 46.72,
+      "end": 48.76,
+      "text": "The lady said give it a week"
+    },
+    {
+      "t": 48.76,
+      "end": 49.78,
+      "text": "I climbed into the car with Walter"
+    },
+    {
+      "t": 49.92,
+      "end": 57.67,
+      "text": "And something hummed beside me"
+    },
+    {
+      "t": 57.67,
+      "end": 57.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.67,
+      "end": 59.89,
+      "text": "Low and a little flat"
+    },
+    {
+      "t": 60.79,
+      "end": 63.11,
+      "text": "Right along with the radio"
+    },
+    {
+      "t": 67.61,
+      "end": 67.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.61,
+      "end": 70.17,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 72.59,
+      "end": 74.63,
+      "text": "Hum it one more time"
+    },
+    {
+      "t": 77.59,
+      "end": 80.11,
+      "text": "Thirty years beside me"
+    },
+    {
+      "t": 83.91,
+      "end": 89.01,
+      "text": "And I missed the line"
+    },
+    {
+      "t": 89.01,
+      "end": 89.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.01,
+      "end": 91.37,
+      "text": "He went red right to his collar"
+    },
+    {
+      "t": 93.17,
+      "end": 98.13,
+      "text": "Said, I always hum, my dear"
+    },
+    {
+      "t": 98.13,
+      "end": 100.43,
+      "text": "I said turn the radio up"
+    },
+    {
+      "t": 100.49,
+      "end": 105.11,
+      "text": "I've got some catching up to do"
+    },
+    {
+      "t": 108.29,
+      "end": 108.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.29,
+      "end": 110.51,
+      "text": "Low and a little flat"
+    },
+    {
+      "t": 112.29,
+      "end": 114.69,
+      "text": "Sweetest thing on Route 9"
+    },
+    {
+      "t": 114.87,
+      "end": 114.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.87,
+      "end": 121.61,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 121.77,
+      "end": 124.95,
+      "text": "Don't you dare stop now"
+    },
+    {
+      "t": 127.97,
+      "end": 130.65,
+      "text": "Thirty years of humming"
+    },
+    {
+      "t": 132.19,
+      "end": 146.07,
+      "text": "And I'm hearing it right now"
+    },
+    {
+      "t": 148.73,
+      "end": 148.73,
+      "text": "[Bridge - horns and strings]"
+    },
+    {
+      "t": 148.73,
+      "end": 150.91,
+      "text": "The turn signal ticking"
+    },
+    {
+      "t": 153.71,
+      "end": 157.16,
+      "text": "The kettle when we're home"
+    },
+    {
+      "t": 164.02,
+      "end": 164.02,
+      "text": "[Outro - backing vocals]"
+    },
+    {
+      "t": 164.02,
+      "end": 167.6,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 169.66,
+      "end": 191.56,
+      "text": "Hum me all the way home"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 41.96,
+      "end": 41.96,
+      "text": "[Intro - strings and vibraphone]"
+    },
+    {
+      "t": 41.96,
+      "end": 41.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.96,
+      "end": 46.54,
+      "text": "Two small beige things behind my ears"
+    },
+    {
+      "t": 46.72,
+      "end": 49.3,
+      "text": "The lady said give it a week"
+    },
+    {
+      "t": 49.3,
+      "end": 50.5,
+      "text": "I climbed into the car with Walter"
+    },
+    {
+      "t": 50.5,
+      "end": 57.61,
+      "text": "And something hummed beside me"
+    },
+    {
+      "t": 57.67,
+      "end": 57.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.67,
+      "end": 59.85,
+      "text": "Low and a little flat"
+    },
+    {
+      "t": 60.81,
+      "end": 63.11,
+      "text": "Right along with the radio"
+    },
+    {
+      "t": 67.59,
+      "end": 67.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.59,
+      "end": 70.13,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 72.59,
+      "end": 74.93,
+      "text": "Hum it one more time"
+    },
+    {
+      "t": 77.57,
+      "end": 80.11,
+      "text": "Thirty years beside me"
+    },
+    {
+      "t": 83.91,
+      "end": 87.99,
+      "text": "And I missed the line"
+    },
+    {
+      "t": 88.99,
+      "end": 88.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.99,
+      "end": 91.35,
+      "text": "He went red right to his collar"
+    },
+    {
+      "t": 93.17,
+      "end": 97.63,
+      "text": "Said, I always hum, my dear"
+    },
+    {
+      "t": 98.07,
+      "end": 100.41,
+      "text": "I said turn the radio up"
+    },
+    {
+      "t": 100.49,
+      "end": 105.11,
+      "text": "I've got some catching up to do"
+    },
+    {
+      "t": 108.27,
+      "end": 108.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 108.27,
+      "end": 110.49,
+      "text": "Low and a little flat"
+    },
+    {
+      "t": 112.27,
+      "end": 114.79,
+      "text": "Sweetest thing on Route 9"
+    },
+    {
+      "t": 114.87,
+      "end": 114.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.87,
+      "end": 121.63,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 121.75,
+      "end": 125.15,
+      "text": "Don't you dare stop now"
+    },
+    {
+      "t": 127.97,
+      "end": 130.51,
+      "text": "Thirty years of humming"
+    },
+    {
+      "t": 132.19,
+      "end": 146.03,
+      "text": "And I'm hearing it right now"
+    },
+    {
+      "t": 148.73,
+      "end": 148.73,
+      "text": "[Bridge - horns and strings]"
+    },
+    {
+      "t": 148.73,
+      "end": 150.87,
+      "text": "The turn signal ticking"
+    },
+    {
+      "t": 153.73,
+      "end": 160.38,
+      "text": "The kettle when we're home"
+    },
+    {
+      "t": 164.02,
+      "end": 164.02,
+      "text": "[Outro - backing vocals]"
+    },
+    {
+      "t": 164.02,
+      "end": 167.56,
+      "text": "Say it again, Walter"
+    },
+    {
+      "t": 169.66,
+      "end": 193.76,
+      "text": "Hum me all the way home"
+    }
+  ]
+}

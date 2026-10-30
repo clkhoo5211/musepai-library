@@ -1,0 +1,337 @@
+{
+  "id": "b17_ja04",
+  "title": "死んだふりのミケ",
+  "title_source": "scripted",
+  "genre": "Japanese electro swing",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "cheeky, bouncy and theatrical",
+  "persona": "",
+  "subject": "a woman whose tabby cat goes completely limp and plays dead the moment the carrier comes out for the yearly vet visit, then makes a miraculous recovery in the waiting room and rolls around purring for the receptionist",
+  "caption": "Japanese electro swing in the 2020s kimono-cabaret style. Four-on-the-floor swing house beat with crisp claps, plucked upright bass line, swinging clarinet hook, stride piano chords, short muted brass stabs. Crisp electronic low end under a vintage top end with light gramophone crackle. Female bright alto, theatrical cabaret delivery with spoken asides. 124 BPM, G minor. Cheeky and bouncy. No trap hi-hats, no autotune, no dubstep wobble, no rock guitars, no ballad tempo.",
+  "lyrics": "[Intro - clarinet, stride piano, swing beat]\n\n[Verse 1]\nキャリーを出した その瞬間\nミケは床に ばたんと倒れた\n白目むいて 舌まで出して\n女優か あんたは\n\n[Pre-Chorus]\n持ち上げたら 液体みたい\nするっと 腕から こぼれてく\n\n[Chorus]\n死んだふりのミケ\n年に一度の 大芝居\n死んだふりのミケ\n注射一本 だけなのに\n\n[Verse 2]\n待合室で 扉開けたら\n急に起きて ごろごろ鳴く\n受付さんに お腹見せて\nさっきの演技 なんだったの\n\n[Pre-Chorus]\n先生まで 笑ってる\n「元気ですね」 知ってます\n\n[Chorus]\n死んだふりのミケ\n帰りはずっと 鼻歌\n生き返ったミケ\n来年もまた 幕が上がる\n\n[Outro - clarinet, crackle]\nキャリーはしまった 押し入れの奥\nミケはそれを ちゃんと見てた",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Japanese electro swing in the 2020s kimono-cabaret style. Four-on-the-floor swing house beat with crisp claps, plucked upright bass line, swinging clarinet hook, stride piano chords, short muted brass stabs. Crisp electronic low end under a vintage top end with light gramophone crackle. Female bright alto, theatrical cabaret delivery with spoken asides. 124 BPM, G minor. Cheeky and bouncy. No trap hi-hats, no autotune, no dubstep wobble, no rock guitars, no ballad tempo.",
+    "lyrics": "[Intro - clarinet, stride piano, swing beat]\n\n[Verse 1]\nキャリーを出した その瞬間\nミケは床に ばたんと倒れた\n白目むいて 舌まで出して\n女優か あんたは\n\n[Pre-Chorus]\n持ち上げたら 液体みたい\nするっと 腕から こぼれてく\n\n[Chorus]\n死んだふりのミケ\n年に一度の 大芝居\n死んだふりのミケ\n注射一本 だけなのに\n\n[Verse 2]\n待合室で 扉開けたら\n急に起きて ごろごろ鳴く\n受付さんに お腹見せて\nさっきの演技 なんだったの\n\n[Pre-Chorus]\n先生まで 笑ってる\n「元気ですね」 知ってます\n\n[Chorus]\n死んだふりのミケ\n帰りはずっと 鼻歌\n生き返ったミケ\n来年もまた 幕が上がる\n\n[Outro - clarinet, crackle]\nキャリーはしまった 押し入れの奥\nミケはそれを ちゃんと見てた"
+  },
+  "seed": "1474506837",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.10s**\n- 66.10s per song\n- LM phase (1 song): 15.80s\n- DiT phase (1 song): 50.29s",
+  "task_id": "275ab2d4-51e8-434b-9751-47684b38b024",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-10-30T11:21:42.089637+08:00",
+  "audio": "b17_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Intro - clarinet, stride piano, swing beat]"
+    },
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.2,
+      "end": 32.82,
+      "text": "キャリーを出した その瞬間"
+    },
+    {
+      "t": 33.1,
+      "end": 36.72,
+      "text": "ミケは床に ばたんと倒れた"
+    },
+    {
+      "t": 37.18,
+      "end": 45.05,
+      "text": "白目むいて 舌まで出して"
+    },
+    {
+      "t": 45.41,
+      "end": 48.73,
+      "text": "女優か あんたは"
+    },
+    {
+      "t": 52.45,
+      "end": 52.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.45,
+      "end": 55.97,
+      "text": "持ち上げたら 液体みたい"
+    },
+    {
+      "t": 56.29,
+      "end": 60.59,
+      "text": "するっと 腕から こぼれてく"
+    },
+    {
+      "t": 64.77,
+      "end": 64.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.77,
+      "end": 67.69,
+      "text": "死んだふりのミケ"
+    },
+    {
+      "t": 67.95,
+      "end": 71.45,
+      "text": "年に一度の 大芝居"
+    },
+    {
+      "t": 72.53,
+      "end": 75.43,
+      "text": "死んだふりのミケ"
+    },
+    {
+      "t": 75.65,
+      "end": 80.31,
+      "text": "注射一本 だけなのに"
+    },
+    {
+      "t": 80.51,
+      "end": 80.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.51,
+      "end": 83.89,
+      "text": "待合室で 扉開けたら"
+    },
+    {
+      "t": 84.19,
+      "end": 87.15,
+      "text": "急に起きて ごろごろ鳴く"
+    },
+    {
+      "t": 87.15,
+      "end": 88.67,
+      "text": "受付さんに お腹見せて"
+    },
+    {
+      "t": 88.67,
+      "end": 90.71,
+      "text": "さっきの演技 なんだったの"
+    },
+    {
+      "t": 90.77,
+      "end": 90.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.77,
+      "end": 95.25,
+      "text": "先生まで 笑ってる"
+    },
+    {
+      "t": 95.25,
+      "end": 99.25,
+      "text": "「元気ですね」 知ってます"
+    },
+    {
+      "t": 103.17,
+      "end": 103.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.17,
+      "end": 105.23,
+      "text": "死んだふりのミケ"
+    },
+    {
+      "t": 106.33,
+      "end": 109.11,
+      "text": "帰りはずっと 鼻歌"
+    },
+    {
+      "t": 109.71,
+      "end": 112.99,
+      "text": "生き返ったミケ"
+    },
+    {
+      "t": 114.09,
+      "end": 117.35,
+      "text": "来年もまた 幕が上がる"
+    },
+    {
+      "t": 119.65,
+      "end": 119.65,
+      "text": "[Outro - clarinet, crackle]"
+    },
+    {
+      "t": 119.65,
+      "end": 124.13,
+      "text": "キャリーはしまった 押し入れの奥"
+    },
+    {
+      "t": 127.39,
+      "end": 171.54,
+      "text": "ミケはそれを ちゃんと見てた"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Intro - clarinet, stride piano, swing beat]"
+    },
+    {
+      "t": 29.2,
+      "end": 29.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.2,
+      "end": 32.82,
+      "text": "キャリーを出した その瞬間"
+    },
+    {
+      "t": 33.12,
+      "end": 36.72,
+      "text": "ミケは床に ばたんと倒れた"
+    },
+    {
+      "t": 36.76,
+      "end": 42.64,
+      "text": "白目むいて 舌まで出して"
+    },
+    {
+      "t": 43.38,
+      "end": 48.75,
+      "text": "女優か あんたは"
+    },
+    {
+      "t": 48.87,
+      "end": 48.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.87,
+      "end": 55.99,
+      "text": "持ち上げたら 液体みたい"
+    },
+    {
+      "t": 56.31,
+      "end": 60.61,
+      "text": "するっと 腕から こぼれてく"
+    },
+    {
+      "t": 64.79,
+      "end": 64.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.79,
+      "end": 67.69,
+      "text": "死んだふりのミケ"
+    },
+    {
+      "t": 67.95,
+      "end": 71.45,
+      "text": "年に一度の 大芝居"
+    },
+    {
+      "t": 72.53,
+      "end": 75.43,
+      "text": "死んだふりのミケ"
+    },
+    {
+      "t": 75.67,
+      "end": 80.49,
+      "text": "注射一本 だけなのに"
+    },
+    {
+      "t": 80.49,
+      "end": 80.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.49,
+      "end": 83.89,
+      "text": "待合室で 扉開けたら"
+    },
+    {
+      "t": 84.17,
+      "end": 87.25,
+      "text": "急に起きて ごろごろ鳴く"
+    },
+    {
+      "t": 87.73,
+      "end": 89.59,
+      "text": "受付さんに お腹見せて"
+    },
+    {
+      "t": 89.63,
+      "end": 90.81,
+      "text": "さっきの演技 なんだったの"
+    },
+    {
+      "t": 90.81,
+      "end": 90.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.81,
+      "end": 95.25,
+      "text": "先生まで 笑ってる"
+    },
+    {
+      "t": 95.25,
+      "end": 99.25,
+      "text": "「元気ですね」 知ってます"
+    },
+    {
+      "t": 103.15,
+      "end": 103.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.15,
+      "end": 105.25,
+      "text": "死んだふりのミケ"
+    },
+    {
+      "t": 106.33,
+      "end": 108.63,
+      "text": "帰りはずっと 鼻歌"
+    },
+    {
+      "t": 108.75,
+      "end": 112.99,
+      "text": "生き返ったミケ"
+    },
+    {
+      "t": 114.09,
+      "end": 117.35,
+      "text": "来年もまた 幕が上がる"
+    },
+    {
+      "t": 119.65,
+      "end": 119.65,
+      "text": "[Outro - clarinet, crackle]"
+    },
+    {
+      "t": 119.65,
+      "end": 124.15,
+      "text": "キャリーはしまった 押し入れの奥"
+    },
+    {
+      "t": 127.37,
+      "end": 137.74,
+      "text": "ミケはそれを ちゃんと見てた"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

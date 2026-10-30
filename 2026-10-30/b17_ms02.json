@@ -1,0 +1,287 @@
+{
+  "id": "b17_ms02",
+  "title": "Kedai Baru, Pelanggan Berbulu",
+  "title_source": "scripted",
+  "genre": "Malay neo-soul (Rhodes and live bass, ALYPH 'Ingat' lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "warm, wry, hopeful",
+  "persona": "",
+  "subject": "a woman in her first week running a tiny second-hand book shop in Ipoh where no customer comes in, only a ginger stray cat that sleeps on the cash book every afternoon at three",
+  "caption": "Malay neo-soul in the mellow Southeast Asian R&B-soul style. Fender Rhodes with tremolo playing extended chords, fingerstyle electric bass walking melodic lines, laid-back live drums with ghost-note snare, muted trumpet answering the vocal, clean jazz guitar comping. Soft analog-warm mix with light tape saturation and roomy drums. Female alto, close-miked, singing unhurried and behind the beat. 84 BPM, Db major. Warm, wry and hopeful. No trap hi-hats, no autotune, no rap verse, no EDM synths, no ballad power-chorus.",
+  "lyrics": "[Intro - Rhodes and muted trumpet]\n\n[Verse 1]\nPintu kaca aku lap pagi-pagi\nRak buku lama tersusun rapi\nLoceng pintu diam seharian\nCuma kipas yang berbunyi\n\n[Chorus]\nPukul tiga dia datang\nKucing oren tanpa nama\nTidur atas buku tunai\nSatu-satunya pelanggan aku\n\n[Verse 2]\nJualan hari ni: kosong\nDia tolak pen aku ke lantai\nMata separuh, ekor bergoyang\nMacam bos yang tak puas hati\n\n[Bridge - bass and drums only]\nSabar, kata mak cik sebelah\nKedai baru memang begini\n\n[Chorus]\nPukul tiga dia datang\nKucing oren tanpa nama\nHari Jumaat dia bawa kawan\nBudak sekolah cari novel lama\n\n[Outro - Rhodes and trumpet fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "Db major",
+    "timesignature": "4",
+    "prompt": "Malay neo-soul in the mellow Southeast Asian R&B-soul style. Fender Rhodes with tremolo playing extended chords, fingerstyle electric bass walking melodic lines, laid-back live drums with ghost-note snare, muted trumpet answering the vocal, clean jazz guitar comping. Soft analog-warm mix with light tape saturation and roomy drums. Female alto, close-miked, singing unhurried and behind the beat. 84 BPM, Db major. Warm, wry and hopeful. No trap hi-hats, no autotune, no rap verse, no EDM synths, no ballad power-chorus.",
+    "lyrics": "[Intro - Rhodes and muted trumpet]\n\n[Verse 1]\nPintu kaca aku lap pagi-pagi\nRak buku lama tersusun rapi\nLoceng pintu diam seharian\nCuma kipas yang berbunyi\n\n[Chorus]\nPukul tiga dia datang\nKucing oren tanpa nama\nTidur atas buku tunai\nSatu-satunya pelanggan aku\n\n[Verse 2]\nJualan hari ni: kosong\nDia tolak pen aku ke lantai\nMata separuh, ekor bergoyang\nMacam bos yang tak puas hati\n\n[Bridge - bass and drums only]\nSabar, kata mak cik sebelah\nKedai baru memang begini\n\n[Chorus]\nPukul tiga dia datang\nKucing oren tanpa nama\nHari Jumaat dia bawa kawan\nBudak sekolah cari novel lama\n\n[Outro - Rhodes and trumpet fade]\n"
+  },
+  "seed": "3586107673",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 107.81s**\n- 107.81s per song\n- LM phase (1 song): 16.37s\n- DiT phase (1 song): 91.44s",
+  "task_id": "0f22ee1c-7dff-465b-9844-f3f536894e95",
+  "elapsed_s": 140.7,
+  "generated_at": "2026-10-30T10:23:40.723755+08:00",
+  "audio": "b17_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - Rhodes and muted trumpet]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 45.88,
+      "text": "Pintu kaca aku lap pagi-pagi"
+    },
+    {
+      "t": 45.88,
+      "end": 49.76,
+      "text": "Rak buku lama tersusun rapi"
+    },
+    {
+      "t": 50.92,
+      "end": 55.45,
+      "text": "Loceng pintu diam seharian"
+    },
+    {
+      "t": 55.99,
+      "end": 58.47,
+      "text": "Cuma kipas yang berbunyi"
+    },
+    {
+      "t": 62.39,
+      "end": 62.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.39,
+      "end": 66.01,
+      "text": "Pukul tiga dia datang"
+    },
+    {
+      "t": 66.21,
+      "end": 69.17,
+      "text": "Kucing oren tanpa nama"
+    },
+    {
+      "t": 69.49,
+      "end": 71.39,
+      "text": "Tidur atas buku tunai"
+    },
+    {
+      "t": 71.39,
+      "end": 73.49,
+      "text": "Satu-satunya pelanggan aku"
+    },
+    {
+      "t": 77.83,
+      "end": 77.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.83,
+      "end": 80.51,
+      "text": "Jualan hari ni: kosong"
+    },
+    {
+      "t": 84.21,
+      "end": 97.97,
+      "text": "Dia tolak pen aku ke lantai"
+    },
+    {
+      "t": 100.69,
+      "end": 107.05,
+      "text": "Mata separuh, ekor bergoyang"
+    },
+    {
+      "t": 107.05,
+      "end": 110.65,
+      "text": "Macam bos yang tak puas hati"
+    },
+    {
+      "t": 112.45,
+      "end": 112.45,
+      "text": "[Bridge - bass and drums only]"
+    },
+    {
+      "t": 112.45,
+      "end": 116.59,
+      "text": "Sabar, kata mak cik sebelah"
+    },
+    {
+      "t": 118.15,
+      "end": 122.09,
+      "text": "Kedai baru memang begini"
+    },
+    {
+      "t": 127.33,
+      "end": 127.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.33,
+      "end": 151.65,
+      "text": "Pukul tiga dia datang"
+    },
+    {
+      "t": 154.03,
+      "end": 172.4,
+      "text": "Kucing oren tanpa nama"
+    },
+    {
+      "t": 174.08,
+      "end": 183.22,
+      "text": "Hari Jumaat dia bawa kawan"
+    },
+    {
+      "t": 183.4,
+      "end": 195.82,
+      "text": "Budak sekolah cari novel lama"
+    },
+    {
+      "t": 195.82,
+      "end": 195.82,
+      "text": "[Outro - Rhodes and trumpet fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - Rhodes and muted trumpet]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 45.7,
+      "text": "Pintu kaca aku lap pagi-pagi"
+    },
+    {
+      "t": 45.7,
+      "end": 49.74,
+      "text": "Rak buku lama tersusun rapi"
+    },
+    {
+      "t": 50.92,
+      "end": 55.47,
+      "text": "Loceng pintu diam seharian"
+    },
+    {
+      "t": 55.99,
+      "end": 58.45,
+      "text": "Cuma kipas yang berbunyi"
+    },
+    {
+      "t": 62.37,
+      "end": 62.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.37,
+      "end": 65.93,
+      "text": "Pukul tiga dia datang"
+    },
+    {
+      "t": 66.23,
+      "end": 69.19,
+      "text": "Kucing oren tanpa nama"
+    },
+    {
+      "t": 69.47,
+      "end": 71.39,
+      "text": "Tidur atas buku tunai"
+    },
+    {
+      "t": 71.39,
+      "end": 73.51,
+      "text": "Satu-satunya pelanggan aku"
+    },
+    {
+      "t": 77.83,
+      "end": 77.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.83,
+      "end": 80.51,
+      "text": "Jualan hari ni: kosong"
+    },
+    {
+      "t": 84.19,
+      "end": 96.75,
+      "text": "Dia tolak pen aku ke lantai"
+    },
+    {
+      "t": 100.69,
+      "end": 107.05,
+      "text": "Mata separuh, ekor bergoyang"
+    },
+    {
+      "t": 107.05,
+      "end": 110.65,
+      "text": "Macam bos yang tak puas hati"
+    },
+    {
+      "t": 112.47,
+      "end": 112.47,
+      "text": "[Bridge - bass and drums only]"
+    },
+    {
+      "t": 112.47,
+      "end": 117.73,
+      "text": "Sabar, kata mak cik sebelah"
+    },
+    {
+      "t": 118.13,
+      "end": 122.11,
+      "text": "Kedai baru memang begini"
+    },
+    {
+      "t": 132.43,
+      "end": 132.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.43,
+      "end": 141.47,
+      "text": "Pukul tiga dia datang"
+    },
+    {
+      "t": 141.79,
+      "end": 156.35,
+      "text": "Kucing oren tanpa nama"
+    },
+    {
+      "t": 156.61,
+      "end": 188.0,
+      "text": "Hari Jumaat dia bawa kawan"
+    },
+    {
+      "t": 188.06,
+      "end": 192.2,
+      "text": "Budak sekolah cari novel lama"
+    },
+    {
+      "t": 192.2,
+      "end": 192.2,
+      "text": "[Outro - Rhodes and trumpet fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

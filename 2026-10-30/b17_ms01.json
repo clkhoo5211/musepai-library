@@ -1,0 +1,459 @@
+{
+  "id": "b17_ms01",
+  "title": "Elektrik Putus Pukul Sembilan",
+  "title_source": "scripted",
+  "genre": "Malay amapiano (log-drum dance pop)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "cheeky, warm, porch-party comedy",
+  "persona": "",
+  "subject": "a newly married couple in a Kajang terrace house when the power cuts at nine, the aircond dies mid-drama, and they end up eating Maggi on the front step by candle while he fans her with the electric bill envelope",
+  "caption": "Malay amapiano dance pop with South African log-drum groove. Deep pitched log drum bass sliding under each bar, busy shaker and open hi-hat pattern, jazzy Rhodes playing ninth chords, muted plucked guitar riff, sparse congas in the breaks. Warm wide club mix with dry upfront vocals and long log-drum tails. Male baritone lead singing relaxed and half-spoken, female backing pair answering the hook. 112 BPM, A minor. Cheeky, warm porch-party comedy. No trap hi-hats, no autotune, no EDM drop, no dangdut drums, no reggaeton dembow.",
+  "lyrics": "[Intro - log drum, shaker and Rhodes]\n\n[Verse 1]\nDrama tengah klimaks\nTiba-tiba gelap gelita\nKipas berhenti pusing\nAircond pun diam saja\n\n[Pre-Chorus]\nSayang cari lilin\nAku cari lampu suluh\n\n[Chorus]\nElektrik putus pukul sembilan\nKita duduk kat tangga depan\nMaggi dalam satu periuk\nKau dan aku, berpeluh-peluh\n\n[Verse 2]\nAku kipas muka kau\nDengan sampul bil elektrik\nKau gelak, kau kata\nBil ni pun ada guna\n\n[Pre-Chorus]\nLilin makin pendek\nKau makin dekat\n\n[Chorus]\nElektrik putus pukul sembilan\nKita duduk kat tangga depan\nLampu menyala balik, sayang\nTapi kita tak nak masuk lagi\n\n[Outro - log drum and congas fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Malay amapiano dance pop with South African log-drum groove. Deep pitched log drum bass sliding under each bar, busy shaker and open hi-hat pattern, jazzy Rhodes playing ninth chords, muted plucked guitar riff, sparse congas in the breaks. Warm wide club mix with dry upfront vocals and long log-drum tails. Male baritone lead singing relaxed and half-spoken, female backing pair answering the hook. 112 BPM, A minor. Cheeky, warm porch-party comedy. No trap hi-hats, no autotune, no EDM drop, no dangdut drums, no reggaeton dembow.",
+    "lyrics": "[Intro - log drum, shaker and Rhodes]\n\n[Verse 1]\nDrama tengah klimaks\nTiba-tiba gelap gelita\nKipas berhenti pusing\nAircond pun diam saja\n\n[Pre-Chorus]\nSayang cari lilin\nAku cari lampu suluh\n\n[Chorus]\nElektrik putus pukul sembilan\nKita duduk kat tangga depan\nMaggi dalam satu periuk\nKau dan aku, berpeluh-peluh\n\n[Verse 2]\nAku kipas muka kau\nDengan sampul bil elektrik\nKau gelak, kau kata\nBil ni pun ada guna\n\n[Pre-Chorus]\nLilin makin pendek\nKau makin dekat\n\n[Chorus]\nElektrik putus pukul sembilan\nKita duduk kat tangga depan\nLampu menyala balik, sayang\nTapi kita tak nak masuk lagi\n\n[Outro - log drum and congas fade]\n"
+  },
+  "seed": "1465637617",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 104.64s**\n- 104.64s per song\n- LM phase (1 song): 18.30s\n- DiT phase (1 song): 86.35s",
+  "task_id": "d3bb9085-9f04-4173-a592-bf510bcfd361",
+  "elapsed_s": 130.2,
+  "generated_at": "2026-10-30T10:21:20.043621+08:00",
+  "audio": "b17_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Intro - log drum, shaker and Rhodes]"
+    },
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.24,
+      "end": 22.32,
+      "text": "Drama tengah klimaks"
+    },
+    {
+      "t": 23.44,
+      "end": 27.8,
+      "text": "Tiba-tiba gelap gelita"
+    },
+    {
+      "t": 32.08,
+      "end": 34.08,
+      "text": "Kipas berhenti pusing"
+    },
+    {
+      "t": 34.08,
+      "end": 34.68,
+      "text": "Aircond pun diam saja"
+    },
+    {
+      "t": 34.68,
+      "end": 34.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.68,
+      "end": 36.04,
+      "text": "Sayang cari lilin"
+    },
+    {
+      "t": 36.08,
+      "end": 44.96,
+      "text": "Aku cari lampu suluh"
+    },
+    {
+      "t": 45.04,
+      "end": 45.04,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.04,
+      "end": 48.42,
+      "text": "Elektrik putus pukul sembilan"
+    },
+    {
+      "t": 49.18,
+      "end": 52.49,
+      "text": "Kita duduk kat tangga depan"
+    },
+    {
+      "t": 52.49,
+      "end": 61.45,
+      "text": "Maggi dalam satu periuk"
+    },
+    {
+      "t": 64.93,
+      "end": 73.43,
+      "text": "Kau dan aku, berpeluh-peluh"
+    },
+    {
+      "t": 74.05,
+      "end": 74.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.05,
+      "end": 77.81,
+      "text": "Aku kipas muka kau"
+    },
+    {
+      "t": 83.41,
+      "end": 86.15,
+      "text": "Dengan sampul bil elektrik"
+    },
+    {
+      "t": 89.67,
+      "end": 91.93,
+      "text": "Kau gelak, kau kata"
+    },
+    {
+      "t": 92.09,
+      "end": 94.39,
+      "text": "Bil ni pun ada guna"
+    },
+    {
+      "t": 94.39,
+      "end": 94.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.39,
+      "end": 99.69,
+      "text": "Lilin makin pendek"
+    },
+    {
+      "t": 99.71,
+      "end": 105.25,
+      "text": "Kau makin dekat"
+    },
+    {
+      "t": 105.35,
+      "end": 105.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.35,
+      "end": 124.77,
+      "text": "Elektrik putus pukul sembilan"
+    },
+    {
+      "t": 127.65,
+      "end": 140.23,
+      "text": "Kita duduk kat tangga depan"
+    },
+    {
+      "t": 140.23,
+      "end": 176.1,
+      "text": "Lampu menyala balik, sayang"
+    },
+    {
+      "t": 176.1,
+      "end": 188.3,
+      "text": "Tapi kita tak nak masuk lagi"
+    },
+    {
+      "t": 188.3,
+      "end": 188.3,
+      "text": "[Outro - log drum and congas fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Intro - log drum, shaker and Rhodes]"
+    },
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.24,
+      "end": 22.32,
+      "text": "Drama tengah klimaks"
+    },
+    {
+      "t": 23.44,
+      "end": 27.8,
+      "text": "Tiba-tiba gelap gelita"
+    },
+    {
+      "t": 32.08,
+      "end": 34.08,
+      "text": "Kipas berhenti pusing"
+    },
+    {
+      "t": 34.08,
+      "end": 34.68,
+      "text": "Aircond pun diam saja"
+    },
+    {
+      "t": 34.68,
+      "end": 34.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.68,
+      "end": 36.04,
+      "text": "Sayang cari lilin"
+    },
+    {
+      "t": 36.08,
+      "end": 44.96,
+      "text": "Aku cari lampu suluh"
+    },
+    {
+      "t": 45.04,
+      "end": 45.04,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.04,
+      "end": 48.42,
+      "text": "Elektrik putus pukul sembilan"
+    },
+    {
+      "t": 49.18,
+      "end": 52.49,
+      "text": "Kita duduk kat tangga depan"
+    },
+    {
+      "t": 52.49,
+      "end": 61.45,
+      "text": "Maggi dalam satu periuk"
+    },
+    {
+      "t": 64.93,
+      "end": 73.43,
+      "text": "Kau dan aku, berpeluh-peluh"
+    },
+    {
+      "t": 74.05,
+      "end": 74.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.05,
+      "end": 77.81,
+      "text": "Aku kipas muka kau"
+    },
+    {
+      "t": 83.41,
+      "end": 86.15,
+      "text": "Dengan sampul bil elektrik"
+    },
+    {
+      "t": 89.67,
+      "end": 91.93,
+      "text": "Kau gelak, kau kata"
+    },
+    {
+      "t": 92.09,
+      "end": 94.81,
+      "text": "Bil ni pun ada guna"
+    },
+    {
+      "t": 95.01,
+      "end": 95.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.01,
+      "end": 103.45,
+      "text": "Lilin makin pendek"
+    },
+    {
+      "t": 105.23,
+      "end": 111.31,
+      "text": "Kau makin dekat"
+    },
+    {
+      "t": 111.39,
+      "end": 111.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.39,
+      "end": 132.63,
+      "text": "Elektrik putus pukul sembilan"
+    },
+    {
+      "t": 133.91,
+      "end": 140.23,
+      "text": "Kita duduk kat tangga depan"
+    },
+    {
+      "t": 140.23,
+      "end": 176.1,
+      "text": "Lampu menyala balik, sayang"
+    },
+    {
+      "t": 176.1,
+      "end": 188.3,
+      "text": "Tapi kita tak nak masuk lagi"
+    },
+    {
+      "t": 188.3,
+      "end": 188.3,
+      "text": "[Outro - log drum and congas fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 10.82,
+      "end": 10.82,
+      "text": "[Intro - log drum, shaker and Rhodes]"
+    },
+    {
+      "t": 10.82,
+      "end": 10.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.82,
+      "end": 22.32,
+      "text": "Drama tengah klimaks"
+    },
+    {
+      "t": 23.44,
+      "end": 27.8,
+      "text": "Tiba-tiba gelap gelita"
+    },
+    {
+      "t": 32.08,
+      "end": 34.1,
+      "text": "Kipas berhenti pusing"
+    },
+    {
+      "t": 34.1,
+      "end": 34.48,
+      "text": "Aircond pun diam saja"
+    },
+    {
+      "t": 34.68,
+      "end": 34.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.68,
+      "end": 36.02,
+      "text": "Sayang cari lilin"
+    },
+    {
+      "t": 36.08,
+      "end": 44.96,
+      "text": "Aku cari lampu suluh"
+    },
+    {
+      "t": 45.04,
+      "end": 45.04,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.04,
+      "end": 48.38,
+      "text": "Elektrik putus pukul sembilan"
+    },
+    {
+      "t": 49.16,
+      "end": 52.35,
+      "text": "Kita duduk kat tangga depan"
+    },
+    {
+      "t": 52.35,
+      "end": 61.53,
+      "text": "Maggi dalam satu periuk"
+    },
+    {
+      "t": 64.93,
+      "end": 73.41,
+      "text": "Kau dan aku, berpeluh-peluh"
+    },
+    {
+      "t": 74.05,
+      "end": 74.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.05,
+      "end": 77.77,
+      "text": "Aku kipas muka kau"
+    },
+    {
+      "t": 83.41,
+      "end": 86.33,
+      "text": "Dengan sampul bil elektrik"
+    },
+    {
+      "t": 89.67,
+      "end": 91.93,
+      "text": "Kau gelak, kau kata"
+    },
+    {
+      "t": 92.09,
+      "end": 94.79,
+      "text": "Bil ni pun ada guna"
+    },
+    {
+      "t": 95.19,
+      "end": 95.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.19,
+      "end": 105.11,
+      "text": "Lilin makin pendek"
+    },
+    {
+      "t": 105.21,
+      "end": 116.03,
+      "text": "Kau makin dekat"
+    },
+    {
+      "t": 116.11,
+      "end": 116.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.11,
+      "end": 138.31,
+      "text": "Elektrik putus pukul sembilan"
+    },
+    {
+      "t": 138.39,
+      "end": 143.77,
+      "text": "Kita duduk kat tangga depan"
+    },
+    {
+      "t": 145.51,
+      "end": 171.82,
+      "text": "Lampu menyala balik, sayang"
+    },
+    {
+      "t": 174.46,
+      "end": 188.3,
+      "text": "Tapi kita tak nak masuk lagi"
+    },
+    {
+      "t": 188.3,
+      "end": 188.3,
+      "text": "[Outro - log drum and congas fade]"
+    }
+  ]
+}

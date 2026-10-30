@@ -1,0 +1,579 @@
+{
+  "id": "b17_ja02",
+  "title": "のれんが逆",
+  "title_source": "scripted",
+  "genre": "Japanese Y2K laid-back pop-rap duo revival",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sleepy, sunny and goofy",
+  "persona": "",
+  "subject": "two college friends at a hot-spring inn who stand frozen at dawn outside the baths because the red and blue noren swapped sides overnight, arguing in yukata until an old guest shuffles by and explains the 5 a.m. men's/women's changeover",
+  "caption": "Japanese Y2K laid-back pop-rap duo revival in the early-2000s girls' pop-rap style. Loose swung boom-bap break, warm Rhodes electric piano chords, wah-wah rhythm guitar, bouncy slap bass, handclaps on the backbeat. Soft compressed early-2000s mix with light tape hiss. Two female voices trading relaxed half-sung rap lines, joined in unison on a sung hook. 92 BPM, D major. Lazy, sunny and goofy. No trap hi-hats, no autotune, no drill bass, no EDM synths, no hard aggressive rap.",
+  "lyrics": "[Intro - Rhodes, wah guitar, handclaps]\n\n[Verse 1]\n朝の五時半 まだ眠い\n赤いのれんが 右にある\nきのうは左 だったよね\n\n[Pre-Chorus]\nあんたの記憶? あたしの記憶?\n浴衣のまんま 動けない\n\n[Chorus]\nのれんが逆\n入れば湯けむり\nのれんが逆\n間違えたら 終わり\n\n[Verse 2]\nスリッパの数 数えてみる\n大きいのが 一足だけ\n中から低めの 鼻歌が\n\n[Pre-Chorus]\nじゃんけんで 先に覗く?\nいやいや無理 絶対無理\n\n[Chorus]\nのれんが逆\n二人で固まる\nのれんが逆\n朝風呂 遠い\n\n[Bridge - wah guitar break]\n通りがかりの じいちゃんが\n「入れ替えだよ 五時にね」\nあの鼻歌は 掃除のおばちゃん\n\n[Chorus]\nのれんが逆\nやっと入れる\nのれんが逆\n明日も 確かめよう\n\n[Outro - Rhodes, laughter fade]\n湯船で笑って のぼせそう",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Japanese Y2K laid-back pop-rap duo revival in the early-2000s girls' pop-rap style. Loose swung boom-bap break, warm Rhodes electric piano chords, wah-wah rhythm guitar, bouncy slap bass, handclaps on the backbeat. Soft compressed early-2000s mix with light tape hiss. Two female voices trading relaxed half-sung rap lines, joined in unison on a sung hook. 92 BPM, D major. Lazy, sunny and goofy. No trap hi-hats, no autotune, no drill bass, no EDM synths, no hard aggressive rap.",
+    "lyrics": "[Intro - Rhodes, wah guitar, handclaps]\n\n[Verse 1]\n朝の五時半 まだ眠い\n赤いのれんが 右にある\nきのうは左 だったよね\n\n[Pre-Chorus]\nあんたの記憶? あたしの記憶?\n浴衣のまんま 動けない\n\n[Chorus]\nのれんが逆\n入れば湯けむり\nのれんが逆\n間違えたら 終わり\n\n[Verse 2]\nスリッパの数 数えてみる\n大きいのが 一足だけ\n中から低めの 鼻歌が\n\n[Pre-Chorus]\nじゃんけんで 先に覗く?\nいやいや無理 絶対無理\n\n[Chorus]\nのれんが逆\n二人で固まる\nのれんが逆\n朝風呂 遠い\n\n[Bridge - wah guitar break]\n通りがかりの じいちゃんが\n「入れ替えだよ 五時にね」\nあの鼻歌は 掃除のおばちゃん\n\n[Chorus]\nのれんが逆\nやっと入れる\nのれんが逆\n明日も 確かめよう\n\n[Outro - Rhodes, laughter fade]\n湯船で笑って のぼせそう"
+  },
+  "seed": "872205498",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.09s**\n- 57.09s per song\n- LM phase (1 song): 12.71s\n- DiT phase (1 song): 44.38s",
+  "task_id": "d1bfd3fb-72b3-44b4-83fb-c7554d250eee",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-30T12:40:54.325470+08:00",
+  "audio": "b17_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Intro - Rhodes, wah guitar, handclaps]"
+    },
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.62,
+      "end": 32.66,
+      "text": "朝の五時半 まだ眠い"
+    },
+    {
+      "t": 32.76,
+      "end": 35.54,
+      "text": "赤いのれんが 右にある"
+    },
+    {
+      "t": 35.72,
+      "end": 38.7,
+      "text": "きのうは左 だったよね"
+    },
+    {
+      "t": 41.06,
+      "end": 41.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.06,
+      "end": 43.46,
+      "text": "あんたの記憶? あたしの記憶?"
+    },
+    {
+      "t": 43.64,
+      "end": 47.31,
+      "text": "浴衣のまんま 動けない"
+    },
+    {
+      "t": 47.33,
+      "end": 47.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.33,
+      "end": 47.95,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 48.25,
+      "end": 49.43,
+      "text": "入れば湯けむり"
+    },
+    {
+      "t": 51.23,
+      "end": 57.93,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 58.11,
+      "end": 60.47,
+      "text": "間違えたら 終わり"
+    },
+    {
+      "t": 62.95,
+      "end": 62.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.95,
+      "end": 66.39,
+      "text": "スリッパの数 数えてみる"
+    },
+    {
+      "t": 67.73,
+      "end": 71.79,
+      "text": "大きいのが 一足だけ"
+    },
+    {
+      "t": 73.65,
+      "end": 76.93,
+      "text": "中から低めの 鼻歌が"
+    },
+    {
+      "t": 79.51,
+      "end": 79.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 79.51,
+      "end": 83.35,
+      "text": "じゃんけんで 先に覗く?"
+    },
+    {
+      "t": 84.27,
+      "end": 88.29,
+      "text": "いやいや無理 絶対無理"
+    },
+    {
+      "t": 90.11,
+      "end": 90.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.11,
+      "end": 92.41,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 92.47,
+      "end": 93.43,
+      "text": "二人で固まる"
+    },
+    {
+      "t": 95.41,
+      "end": 96.45,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 97.25,
+      "end": 98.81,
+      "text": "朝風呂 遠い"
+    },
+    {
+      "t": 101.35,
+      "end": 101.35,
+      "text": "[Bridge - wah guitar break]"
+    },
+    {
+      "t": 101.35,
+      "end": 104.09,
+      "text": "通りがかりの じいちゃんが"
+    },
+    {
+      "t": 105.97,
+      "end": 109.27,
+      "text": "「入れ替えだよ 五時にね」"
+    },
+    {
+      "t": 111.87,
+      "end": 126.73,
+      "text": "あの鼻歌は 掃除のおばちゃん"
+    },
+    {
+      "t": 126.77,
+      "end": 126.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.77,
+      "end": 127.77,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 127.77,
+      "end": 130.15,
+      "text": "やっと入れる"
+    },
+    {
+      "t": 132.99,
+      "end": 135.03,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 137.63,
+      "end": 142.06,
+      "text": "明日も 確かめよう"
+    },
+    {
+      "t": 149.76,
+      "end": 149.76,
+      "text": "[Outro - Rhodes, laughter fade]"
+    },
+    {
+      "t": 149.76,
+      "end": 165.08,
+      "text": "湯船で笑って のぼせそう"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Intro - Rhodes, wah guitar, handclaps]"
+    },
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.62,
+      "end": 32.66,
+      "text": "朝の五時半 まだ眠い"
+    },
+    {
+      "t": 32.76,
+      "end": 35.54,
+      "text": "赤いのれんが 右にある"
+    },
+    {
+      "t": 35.72,
+      "end": 38.7,
+      "text": "きのうは左 だったよね"
+    },
+    {
+      "t": 41.06,
+      "end": 41.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.06,
+      "end": 43.46,
+      "text": "あんたの記憶? あたしの記憶?"
+    },
+    {
+      "t": 43.64,
+      "end": 47.31,
+      "text": "浴衣のまんま 動けない"
+    },
+    {
+      "t": 47.33,
+      "end": 47.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.33,
+      "end": 47.95,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 48.25,
+      "end": 49.43,
+      "text": "入れば湯けむり"
+    },
+    {
+      "t": 51.23,
+      "end": 57.93,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 58.11,
+      "end": 60.47,
+      "text": "間違えたら 終わり"
+    },
+    {
+      "t": 62.95,
+      "end": 62.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.95,
+      "end": 66.39,
+      "text": "スリッパの数 数えてみる"
+    },
+    {
+      "t": 67.73,
+      "end": 71.79,
+      "text": "大きいのが 一足だけ"
+    },
+    {
+      "t": 73.65,
+      "end": 76.93,
+      "text": "中から低めの 鼻歌が"
+    },
+    {
+      "t": 79.51,
+      "end": 79.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 79.51,
+      "end": 83.35,
+      "text": "じゃんけんで 先に覗く?"
+    },
+    {
+      "t": 84.27,
+      "end": 88.29,
+      "text": "いやいや無理 絶対無理"
+    },
+    {
+      "t": 90.11,
+      "end": 90.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.11,
+      "end": 92.41,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 92.47,
+      "end": 93.43,
+      "text": "二人で固まる"
+    },
+    {
+      "t": 95.41,
+      "end": 96.45,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 97.25,
+      "end": 98.81,
+      "text": "朝風呂 遠い"
+    },
+    {
+      "t": 101.35,
+      "end": 101.35,
+      "text": "[Bridge - wah guitar break]"
+    },
+    {
+      "t": 101.35,
+      "end": 104.09,
+      "text": "通りがかりの じいちゃんが"
+    },
+    {
+      "t": 105.97,
+      "end": 109.27,
+      "text": "「入れ替えだよ 五時にね」"
+    },
+    {
+      "t": 111.87,
+      "end": 126.73,
+      "text": "あの鼻歌は 掃除のおばちゃん"
+    },
+    {
+      "t": 126.77,
+      "end": 126.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.77,
+      "end": 127.77,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 127.77,
+      "end": 130.15,
+      "text": "やっと入れる"
+    },
+    {
+      "t": 132.99,
+      "end": 135.03,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 137.63,
+      "end": 142.06,
+      "text": "明日も 確かめよう"
+    },
+    {
+      "t": 149.76,
+      "end": 149.76,
+      "text": "[Outro - Rhodes, laughter fade]"
+    },
+    {
+      "t": 149.76,
+      "end": 165.08,
+      "text": "湯船で笑って のぼせそう"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 10.62,
+      "end": 10.62,
+      "text": "[Intro - Rhodes, wah guitar, handclaps]"
+    },
+    {
+      "t": 10.62,
+      "end": 10.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.62,
+      "end": 30.76,
+      "text": "朝の五時半 まだ眠い"
+    },
+    {
+      "t": 30.76,
+      "end": 33.76,
+      "text": "赤いのれんが 右にある"
+    },
+    {
+      "t": 34.38,
+      "end": 38.68,
+      "text": "きのうは左 だったよね"
+    },
+    {
+      "t": 41.06,
+      "end": 41.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.06,
+      "end": 43.74,
+      "text": "あんたの記憶? あたしの記憶?"
+    },
+    {
+      "t": 45.94,
+      "end": 49.43,
+      "text": "浴衣のまんま 動けない"
+    },
+    {
+      "t": 51.23,
+      "end": 51.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.23,
+      "end": 53.19,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 53.33,
+      "end": 55.19,
+      "text": "入れば湯けむり"
+    },
+    {
+      "t": 56.49,
+      "end": 57.55,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 57.69,
+      "end": 60.47,
+      "text": "間違えたら 終わり"
+    },
+    {
+      "t": 62.95,
+      "end": 62.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.95,
+      "end": 66.39,
+      "text": "スリッパの数 数えてみる"
+    },
+    {
+      "t": 67.71,
+      "end": 70.95,
+      "text": "大きいのが 一足だけ"
+    },
+    {
+      "t": 71.13,
+      "end": 76.93,
+      "text": "中から低めの 鼻歌が"
+    },
+    {
+      "t": 79.53,
+      "end": 79.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 79.53,
+      "end": 83.33,
+      "text": "じゃんけんで 先に覗く?"
+    },
+    {
+      "t": 84.29,
+      "end": 88.29,
+      "text": "いやいや無理 絶対無理"
+    },
+    {
+      "t": 90.11,
+      "end": 90.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.11,
+      "end": 91.85,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 92.31,
+      "end": 93.43,
+      "text": "二人で固まる"
+    },
+    {
+      "t": 95.41,
+      "end": 96.45,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 96.65,
+      "end": 98.73,
+      "text": "朝風呂 遠い"
+    },
+    {
+      "t": 101.31,
+      "end": 101.31,
+      "text": "[Bridge - wah guitar break]"
+    },
+    {
+      "t": 101.31,
+      "end": 104.09,
+      "text": "通りがかりの じいちゃんが"
+    },
+    {
+      "t": 105.97,
+      "end": 109.25,
+      "text": "「入れ替えだよ 五時にね」"
+    },
+    {
+      "t": 109.25,
+      "end": 126.69,
+      "text": "あの鼻歌は 掃除のおばちゃん"
+    },
+    {
+      "t": 126.71,
+      "end": 126.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.71,
+      "end": 127.79,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 128.91,
+      "end": 130.15,
+      "text": "やっと入れる"
+    },
+    {
+      "t": 132.99,
+      "end": 134.97,
+      "text": "のれんが逆"
+    },
+    {
+      "t": 134.97,
+      "end": 141.38,
+      "text": "明日も 確かめよう"
+    },
+    {
+      "t": 149.74,
+      "end": 149.74,
+      "text": "[Outro - Rhodes, laughter fade]"
+    },
+    {
+      "t": 149.74,
+      "end": 183.3,
+      "text": "湯船で笑って のぼせそう"
+    }
+  ]
+}

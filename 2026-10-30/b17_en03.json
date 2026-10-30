@@ -1,0 +1,504 @@
+{
+  "id": "b17_en03",
+  "title": "Cone Of Shame",
+  "title_source": "scripted",
+  "genre": "90s Eurodance revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "bouncy, silly and euphoric",
+  "persona": "",
+  "subject": "a man whose beagle comes home from the vet wearing a plastic cone after a minor operation and spends the week bumping into doorframes, the coffee table and the cat",
+  "caption": "90s Eurodance revival. Detuned supersaw synth stabs on the offbeats, rolling octave-jumping bassline, four-on-the-floor 909 kick with open hi-hats, a classic rave piano riff in the choruses. Big glossy club mix with wide synths and a punchy compressed kick. Female lead with a bright powerful mezzo on the choruses, male deadpan spoken-rap verses. 134 BPM, A minor. Bouncy, silly and euphoric. No trap, no autotune, no dubstep drop, no acoustic guitar, no slow ballad section.",
+  "lyrics": "[Intro - rave piano and supersaw stabs]\n\n[Verse 1 - male rap]\nBrought him home from the vet at three\nPlastic satellite round his head\nHit the doorframe, hit my knee\nHit the cat, the cat hit back\n\n[Pre-Chorus]\nBonk, bonk, here he comes\n\n[Chorus]\nCone of shame\nBouncing off the walls\nCone of shame\nWagging down the hall\n\n[Verse 2 - male rap]\nCan't reach the bowl, so I hold it up\nCan't fit through the flap at night\nScoops the crumbs up like a plough\nThinks he's got a radar dish\n\n[Pre-Chorus]\nBonk, bonk, mind the lamp\n\n[Chorus]\nCone of shame\nRinging like a bell\nCone of shame\nTen more days of hell\n\n[Bridge - piano breakdown]\nFriday morning, cone comes off\nHe just stands there, feeling light\n\n[Outro - supersaw fade]\nCone of shame\nBonk, bonk, goodnight",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 134,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "90s Eurodance revival. Detuned supersaw synth stabs on the offbeats, rolling octave-jumping bassline, four-on-the-floor 909 kick with open hi-hats, a classic rave piano riff in the choruses. Big glossy club mix with wide synths and a punchy compressed kick. Female lead with a bright powerful mezzo on the choruses, male deadpan spoken-rap verses. 134 BPM, A minor. Bouncy, silly and euphoric. No trap, no autotune, no dubstep drop, no acoustic guitar, no slow ballad section.",
+    "lyrics": "[Intro - rave piano and supersaw stabs]\n\n[Verse 1 - male rap]\nBrought him home from the vet at three\nPlastic satellite round his head\nHit the doorframe, hit my knee\nHit the cat, the cat hit back\n\n[Pre-Chorus]\nBonk, bonk, here he comes\n\n[Chorus]\nCone of shame\nBouncing off the walls\nCone of shame\nWagging down the hall\n\n[Verse 2 - male rap]\nCan't reach the bowl, so I hold it up\nCan't fit through the flap at night\nScoops the crumbs up like a plough\nThinks he's got a radar dish\n\n[Pre-Chorus]\nBonk, bonk, mind the lamp\n\n[Chorus]\nCone of shame\nRinging like a bell\nCone of shame\nTen more days of hell\n\n[Bridge - piano breakdown]\nFriday morning, cone comes off\nHe just stands there, feeling light\n\n[Outro - supersaw fade]\nCone of shame\nBonk, bonk, goodnight"
+  },
+  "seed": "517702695",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.65s**\n- 58.65s per song\n- LM phase (1 song): 10.60s\n- DiT phase (1 song): 48.06s",
+  "task_id": "7b54b31e-7729-47ee-951c-0b36f3470b60",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-30T11:05:40.045807+08:00",
+  "audio": "b17_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 14.82,
+      "end": 14.82,
+      "text": "[Intro - rave piano and supersaw stabs]"
+    },
+    {
+      "t": 14.82,
+      "end": 14.82,
+      "text": "[Verse 1 - male rap]"
+    },
+    {
+      "t": 14.82,
+      "end": 18.12,
+      "text": "Brought him home from the vet at three"
+    },
+    {
+      "t": 18.64,
+      "end": 22.92,
+      "text": "Plastic satellite round his head"
+    },
+    {
+      "t": 22.92,
+      "end": 25.38,
+      "text": "Hit the doorframe, hit my knee"
+    },
+    {
+      "t": 28.84,
+      "end": 30.44,
+      "text": "Hit the cat, the cat hit back"
+    },
+    {
+      "t": 30.44,
+      "end": 30.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 30.44,
+      "end": 46.96,
+      "text": "Bonk, bonk, here he comes"
+    },
+    {
+      "t": 46.96,
+      "end": 46.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.96,
+      "end": 47.22,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 47.3,
+      "end": 48.42,
+      "text": "Bouncing off the walls"
+    },
+    {
+      "t": 48.42,
+      "end": 49.81,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 52.67,
+      "end": 62.67,
+      "text": "Wagging down the hall"
+    },
+    {
+      "t": 62.85,
+      "end": 62.85,
+      "text": "[Verse 2 - male rap]"
+    },
+    {
+      "t": 62.85,
+      "end": 65.35,
+      "text": "Can't reach the bowl, so I hold it up"
+    },
+    {
+      "t": 66.61,
+      "end": 68.93,
+      "text": "Can't fit through the flap at night"
+    },
+    {
+      "t": 70.11,
+      "end": 72.37,
+      "text": "Scoops the crumbs up like a plough"
+    },
+    {
+      "t": 73.73,
+      "end": 76.15,
+      "text": "Thinks he's got a radar dish"
+    },
+    {
+      "t": 78.41,
+      "end": 78.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.41,
+      "end": 82.23,
+      "text": "Bonk, bonk, mind the lamp"
+    },
+    {
+      "t": 85.51,
+      "end": 85.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.51,
+      "end": 87.67,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 87.75,
+      "end": 94.85,
+      "text": "Ringing like a bell"
+    },
+    {
+      "t": 98.75,
+      "end": 101.51,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 102.25,
+      "end": 104.13,
+      "text": "Ten more days of hell"
+    },
+    {
+      "t": 105.97,
+      "end": 105.97,
+      "text": "[Bridge - piano breakdown]"
+    },
+    {
+      "t": 105.97,
+      "end": 110.71,
+      "text": "Friday morning, cone comes off"
+    },
+    {
+      "t": 113.31,
+      "end": 142.27,
+      "text": "He just stands there, feeling light"
+    },
+    {
+      "t": 164.06,
+      "end": 164.06,
+      "text": "[Outro - supersaw fade]"
+    },
+    {
+      "t": 164.06,
+      "end": 168.5,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 170.24,
+      "end": 173.84,
+      "text": "Bonk, bonk, goodnight"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 14.82,
+      "end": 14.82,
+      "text": "[Intro - rave piano and supersaw stabs]"
+    },
+    {
+      "t": 14.82,
+      "end": 14.82,
+      "text": "[Verse 1 - male rap]"
+    },
+    {
+      "t": 14.82,
+      "end": 18.12,
+      "text": "Brought him home from the vet at three"
+    },
+    {
+      "t": 18.64,
+      "end": 22.92,
+      "text": "Plastic satellite round his head"
+    },
+    {
+      "t": 22.92,
+      "end": 25.38,
+      "text": "Hit the doorframe, hit my knee"
+    },
+    {
+      "t": 28.84,
+      "end": 30.44,
+      "text": "Hit the cat, the cat hit back"
+    },
+    {
+      "t": 30.44,
+      "end": 30.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 30.44,
+      "end": 46.96,
+      "text": "Bonk, bonk, here he comes"
+    },
+    {
+      "t": 46.96,
+      "end": 46.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.96,
+      "end": 47.22,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 47.3,
+      "end": 48.42,
+      "text": "Bouncing off the walls"
+    },
+    {
+      "t": 48.44,
+      "end": 49.81,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 52.67,
+      "end": 62.67,
+      "text": "Wagging down the hall"
+    },
+    {
+      "t": 62.85,
+      "end": 62.85,
+      "text": "[Verse 2 - male rap]"
+    },
+    {
+      "t": 62.85,
+      "end": 65.35,
+      "text": "Can't reach the bowl, so I hold it up"
+    },
+    {
+      "t": 66.61,
+      "end": 68.93,
+      "text": "Can't fit through the flap at night"
+    },
+    {
+      "t": 70.11,
+      "end": 72.37,
+      "text": "Scoops the crumbs up like a plough"
+    },
+    {
+      "t": 73.73,
+      "end": 76.15,
+      "text": "Thinks he's got a radar dish"
+    },
+    {
+      "t": 78.41,
+      "end": 78.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.41,
+      "end": 82.23,
+      "text": "Bonk, bonk, mind the lamp"
+    },
+    {
+      "t": 85.51,
+      "end": 85.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.51,
+      "end": 87.67,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 87.75,
+      "end": 94.85,
+      "text": "Ringing like a bell"
+    },
+    {
+      "t": 98.75,
+      "end": 101.51,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 102.25,
+      "end": 104.13,
+      "text": "Ten more days of hell"
+    },
+    {
+      "t": 105.97,
+      "end": 105.97,
+      "text": "[Bridge - piano breakdown]"
+    },
+    {
+      "t": 105.97,
+      "end": 110.71,
+      "text": "Friday morning, cone comes off"
+    },
+    {
+      "t": 113.31,
+      "end": 142.27,
+      "text": "He just stands there, feeling light"
+    },
+    {
+      "t": 164.06,
+      "end": 164.06,
+      "text": "[Outro - supersaw fade]"
+    },
+    {
+      "t": 164.06,
+      "end": 168.5,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 170.24,
+      "end": 173.84,
+      "text": "Bonk, bonk, goodnight"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 14.82,
+      "end": 14.82,
+      "text": "[Intro - rave piano and supersaw stabs]"
+    },
+    {
+      "t": 14.82,
+      "end": 14.82,
+      "text": "[Verse 1 - male rap]"
+    },
+    {
+      "t": 14.82,
+      "end": 18.14,
+      "text": "Brought him home from the vet at three"
+    },
+    {
+      "t": 18.28,
+      "end": 22.38,
+      "text": "Plastic satellite round his head"
+    },
+    {
+      "t": 22.38,
+      "end": 25.34,
+      "text": "Hit the doorframe, hit my knee"
+    },
+    {
+      "t": 28.84,
+      "end": 30.6,
+      "text": "Hit the cat, the cat hit back"
+    },
+    {
+      "t": 30.6,
+      "end": 30.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 30.6,
+      "end": 45.0,
+      "text": "Bonk, bonk, here he comes"
+    },
+    {
+      "t": 45.0,
+      "end": 45.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.0,
+      "end": 45.58,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 46.64,
+      "end": 48.89,
+      "text": "Bouncing off the walls"
+    },
+    {
+      "t": 51.99,
+      "end": 52.51,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 52.65,
+      "end": 62.77,
+      "text": "Wagging down the hall"
+    },
+    {
+      "t": 62.85,
+      "end": 62.85,
+      "text": "[Verse 2 - male rap]"
+    },
+    {
+      "t": 62.85,
+      "end": 65.53,
+      "text": "Can't reach the bowl, so I hold it up"
+    },
+    {
+      "t": 66.61,
+      "end": 68.91,
+      "text": "Can't fit through the flap at night"
+    },
+    {
+      "t": 70.11,
+      "end": 72.39,
+      "text": "Scoops the crumbs up like a plough"
+    },
+    {
+      "t": 73.73,
+      "end": 76.17,
+      "text": "Thinks he's got a radar dish"
+    },
+    {
+      "t": 78.41,
+      "end": 78.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.41,
+      "end": 82.33,
+      "text": "Bonk, bonk, mind the lamp"
+    },
+    {
+      "t": 85.51,
+      "end": 85.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.51,
+      "end": 87.65,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 91.93,
+      "end": 94.65,
+      "text": "Ringing like a bell"
+    },
+    {
+      "t": 98.75,
+      "end": 101.49,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 102.23,
+      "end": 104.13,
+      "text": "Ten more days of hell"
+    },
+    {
+      "t": 105.97,
+      "end": 105.97,
+      "text": "[Bridge - piano breakdown]"
+    },
+    {
+      "t": 105.97,
+      "end": 110.71,
+      "text": "Friday morning, cone comes off"
+    },
+    {
+      "t": 113.31,
+      "end": 142.25,
+      "text": "He just stands there, feeling light"
+    },
+    {
+      "t": 164.06,
+      "end": 164.06,
+      "text": "[Outro - supersaw fade]"
+    },
+    {
+      "t": 164.06,
+      "end": 168.48,
+      "text": "Cone of shame"
+    },
+    {
+      "t": 170.26,
+      "end": 173.84,
+      "text": "Bonk, bonk, goodnight"
+    }
+  ]
+}

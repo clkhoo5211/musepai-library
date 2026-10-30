@@ -1,0 +1,489 @@
+{
+  "id": "b17_zh05",
+  "title": "蛋餅漲五塊",
+  "title_source": "scripted",
+  "genre": "Mandarin cumbia pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "sunny, comic and swaying",
+  "persona": "",
+  "subject": "the owner of a small neighbourhood breakfast shop who must raise the egg-pancake price from 35 to 40 dollars, rewrites the price board three nights running, and the regulars notice before he can explain",
+  "caption": "Mandarin cumbia pop, Colombian-style band groove. Scraping guacharaca and güira, accordion playing the lead melody, bass guitar bouncing on the one and three, congas, clean jangly electric guitar off-beats. Bright live-band mix with accordion upfront and close wooden percussion. Male mid-range voice, warm comic storytelling delivery, small group shouts on the chorus. 98 BPM, G major. Sunny, comic and swaying. No trap drums, no autotune, no EDM drop, no reggaeton dembow, no rock distortion.",
+  "lyrics": "[Intro - accordion and guacharaca]\n\n[Verse 1]\n雞蛋又貴了一塊\n麵粉也跟著漲\n半夜我拿著粉筆\n站在價目板前想\n\n[Pre-Chorus]\n三十五擦掉\n寫四十又擦掉\n\n[Chorus]\n蛋餅漲五塊\n我說不出口\n阿伯你別看板子\n先喝你的豆漿\n\n[Verse 2]\n第三天早上七點\n板子還是新的\n王太太看了一眼\n就把零錢放下\n\n[Pre-Chorus]\n她說早該漲了\n你一個人辛苦\n\n[Chorus]\n蛋餅漲五塊\n大家都沒走\n阿伯多放一枚銅板\n說豆漿算他的\n\n[Outro - accordion and group shouts]\n蛋餅漲五塊\n明天見老闆",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Mandarin cumbia pop, Colombian-style band groove. Scraping guacharaca and güira, accordion playing the lead melody, bass guitar bouncing on the one and three, congas, clean jangly electric guitar off-beats. Bright live-band mix with accordion upfront and close wooden percussion. Male mid-range voice, warm comic storytelling delivery, small group shouts on the chorus. 98 BPM, G major. Sunny, comic and swaying. No trap drums, no autotune, no EDM drop, no reggaeton dembow, no rock distortion.",
+    "lyrics": "[Intro - accordion and guacharaca]\n\n[Verse 1]\n雞蛋又貴了一塊\n麵粉也跟著漲\n半夜我拿著粉筆\n站在價目板前想\n\n[Pre-Chorus]\n三十五擦掉\n寫四十又擦掉\n\n[Chorus]\n蛋餅漲五塊\n我說不出口\n阿伯你別看板子\n先喝你的豆漿\n\n[Verse 2]\n第三天早上七點\n板子還是新的\n王太太看了一眼\n就把零錢放下\n\n[Pre-Chorus]\n她說早該漲了\n你一個人辛苦\n\n[Chorus]\n蛋餅漲五塊\n大家都沒走\n阿伯多放一枚銅板\n說豆漿算他的\n\n[Outro - accordion and group shouts]\n蛋餅漲五塊\n明天見老闆"
+  },
+  "seed": "2334677129",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.81s**\n- 53.81s per song\n- LM phase (1 song): 9.03s\n- DiT phase (1 song): 44.79s",
+  "task_id": "9f2dd0b7-b696-496d-92a8-ed18f3213be0",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-10-30T11:14:51.322841+08:00",
+  "audio": "b17_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Intro - accordion and guacharaca]"
+    },
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.76,
+      "end": 33.58,
+      "text": "雞蛋又貴了一塊"
+    },
+    {
+      "t": 34.24,
+      "end": 35.7,
+      "text": "麵粉也跟著漲"
+    },
+    {
+      "t": 36.26,
+      "end": 38.38,
+      "text": "半夜我拿著粉筆"
+    },
+    {
+      "t": 39.14,
+      "end": 41.88,
+      "text": "站在價目板前想"
+    },
+    {
+      "t": 47.13,
+      "end": 47.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.13,
+      "end": 48.15,
+      "text": "三十五擦掉"
+    },
+    {
+      "t": 48.69,
+      "end": 51.79,
+      "text": "寫四十又擦掉"
+    },
+    {
+      "t": 55.49,
+      "end": 55.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.49,
+      "end": 57.01,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 59.79,
+      "end": 61.63,
+      "text": "我說不出口"
+    },
+    {
+      "t": 64.47,
+      "end": 66.37,
+      "text": "阿伯你別看板子"
+    },
+    {
+      "t": 66.83,
+      "end": 68.97,
+      "text": "先喝你的豆漿"
+    },
+    {
+      "t": 76.99,
+      "end": 76.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.99,
+      "end": 78.75,
+      "text": "第三天早上七點"
+    },
+    {
+      "t": 80.67,
+      "end": 82.33,
+      "text": "板子還是新的"
+    },
+    {
+      "t": 85.55,
+      "end": 87.29,
+      "text": "王太太看了一眼"
+    },
+    {
+      "t": 87.53,
+      "end": 88.71,
+      "text": "就把零錢放下"
+    },
+    {
+      "t": 88.81,
+      "end": 88.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.81,
+      "end": 90.11,
+      "text": "她說早該漲了"
+    },
+    {
+      "t": 102.11,
+      "end": 104.11,
+      "text": "你一個人辛苦"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 108.61,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 108.91,
+      "end": 110.35,
+      "text": "大家都沒走"
+    },
+    {
+      "t": 111.39,
+      "end": 113.47,
+      "text": "阿伯多放一枚銅板"
+    },
+    {
+      "t": 113.81,
+      "end": 115.83,
+      "text": "說豆漿算他的"
+    },
+    {
+      "t": 118.15,
+      "end": 118.15,
+      "text": "[Outro - accordion and group shouts]"
+    },
+    {
+      "t": 118.15,
+      "end": 119.99,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 140.6,
+      "end": 151.96,
+      "text": "明天見老闆"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Intro - accordion and guacharaca]"
+    },
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.76,
+      "end": 33.58,
+      "text": "雞蛋又貴了一塊"
+    },
+    {
+      "t": 34.24,
+      "end": 35.7,
+      "text": "麵粉也跟著漲"
+    },
+    {
+      "t": 36.26,
+      "end": 38.38,
+      "text": "半夜我拿著粉筆"
+    },
+    {
+      "t": 39.14,
+      "end": 41.9,
+      "text": "站在價目板前想"
+    },
+    {
+      "t": 47.13,
+      "end": 47.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.13,
+      "end": 48.15,
+      "text": "三十五擦掉"
+    },
+    {
+      "t": 48.69,
+      "end": 51.79,
+      "text": "寫四十又擦掉"
+    },
+    {
+      "t": 55.49,
+      "end": 55.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.49,
+      "end": 57.01,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 59.79,
+      "end": 61.63,
+      "text": "我說不出口"
+    },
+    {
+      "t": 64.47,
+      "end": 66.37,
+      "text": "阿伯你別看板子"
+    },
+    {
+      "t": 66.83,
+      "end": 68.97,
+      "text": "先喝你的豆漿"
+    },
+    {
+      "t": 76.99,
+      "end": 76.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.99,
+      "end": 78.75,
+      "text": "第三天早上七點"
+    },
+    {
+      "t": 80.67,
+      "end": 82.33,
+      "text": "板子還是新的"
+    },
+    {
+      "t": 85.55,
+      "end": 87.29,
+      "text": "王太太看了一眼"
+    },
+    {
+      "t": 87.53,
+      "end": 88.71,
+      "text": "就把零錢放下"
+    },
+    {
+      "t": 88.81,
+      "end": 88.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.81,
+      "end": 90.11,
+      "text": "她說早該漲了"
+    },
+    {
+      "t": 102.11,
+      "end": 104.11,
+      "text": "你一個人辛苦"
+    },
+    {
+      "t": 107.03,
+      "end": 107.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.03,
+      "end": 108.61,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 108.91,
+      "end": 110.35,
+      "text": "大家都沒走"
+    },
+    {
+      "t": 111.39,
+      "end": 113.47,
+      "text": "阿伯多放一枚銅板"
+    },
+    {
+      "t": 113.81,
+      "end": 115.83,
+      "text": "說豆漿算他的"
+    },
+    {
+      "t": 118.15,
+      "end": 118.15,
+      "text": "[Outro - accordion and group shouts]"
+    },
+    {
+      "t": 118.15,
+      "end": 119.99,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 140.6,
+      "end": 151.96,
+      "text": "明天見老闆"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Intro - accordion and guacharaca]"
+    },
+    {
+      "t": 31.76,
+      "end": 31.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.76,
+      "end": 33.6,
+      "text": "雞蛋又貴了一塊"
+    },
+    {
+      "t": 34.24,
+      "end": 35.7,
+      "text": "麵粉也跟著漲"
+    },
+    {
+      "t": 36.26,
+      "end": 38.38,
+      "text": "半夜我拿著粉筆"
+    },
+    {
+      "t": 39.14,
+      "end": 46.16,
+      "text": "站在價目板前想"
+    },
+    {
+      "t": 47.13,
+      "end": 47.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.13,
+      "end": 48.13,
+      "text": "三十五擦掉"
+    },
+    {
+      "t": 48.69,
+      "end": 54.23,
+      "text": "寫四十又擦掉"
+    },
+    {
+      "t": 55.49,
+      "end": 55.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.49,
+      "end": 57.01,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 59.79,
+      "end": 61.63,
+      "text": "我說不出口"
+    },
+    {
+      "t": 64.47,
+      "end": 66.37,
+      "text": "阿伯你別看板子"
+    },
+    {
+      "t": 66.83,
+      "end": 68.97,
+      "text": "先喝你的豆漿"
+    },
+    {
+      "t": 76.99,
+      "end": 76.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.99,
+      "end": 78.75,
+      "text": "第三天早上七點"
+    },
+    {
+      "t": 80.67,
+      "end": 82.33,
+      "text": "板子還是新的"
+    },
+    {
+      "t": 85.55,
+      "end": 87.29,
+      "text": "王太太看了一眼"
+    },
+    {
+      "t": 87.53,
+      "end": 89.35,
+      "text": "就把零錢放下"
+    },
+    {
+      "t": 99.19,
+      "end": 99.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.19,
+      "end": 101.75,
+      "text": "她說早該漲了"
+    },
+    {
+      "t": 102.11,
+      "end": 104.11,
+      "text": "你一個人辛苦"
+    },
+    {
+      "t": 107.05,
+      "end": 107.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.05,
+      "end": 108.61,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 108.91,
+      "end": 111.31,
+      "text": "大家都沒走"
+    },
+    {
+      "t": 111.39,
+      "end": 113.49,
+      "text": "阿伯多放一枚銅板"
+    },
+    {
+      "t": 113.81,
+      "end": 115.83,
+      "text": "說豆漿算他的"
+    },
+    {
+      "t": 118.17,
+      "end": 118.17,
+      "text": "[Outro - accordion and group shouts]"
+    },
+    {
+      "t": 118.17,
+      "end": 119.99,
+      "text": "蛋餅漲五塊"
+    },
+    {
+      "t": 150.3,
+      "end": 177.44,
+      "text": "明天見老闆"
+    }
+  ]
+}

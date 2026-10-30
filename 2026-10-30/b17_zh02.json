@@ -1,0 +1,489 @@
+{
+  "id": "b17_zh02",
+  "title": "柴犬不走了",
+  "title_source": "scripted",
+  "genre": "Mandarin reggaeton pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "playful, bouncy and cheeky",
+  "persona": "",
+  "subject": "a woman whose shiba inu lies down flat on the pavement outside the pet-supply shop every evening walk and refuses to move until the owner comes out with a free dried-chicken treat, while she negotiates with dog and shopkeeper",
+  "caption": "Mandarin reggaeton pop, playful Latin crossover. Classic dembow drum pattern, rubbery synth bass, nylon-string guitar riff looping through the verses, timbales fills, plucky marimba hook. Punchy modern Latin pop mix with dry close drums and wide guitar. Female mid-range voice, sassy talk-sung verses, bright open chorus. 94 BPM, F# minor. Playful, bouncy and cheeky. No trap hi-hats, no autotune, no EDM drop, no ballad strings, no rock guitar.",
+  "lyrics": "[Intro - dembow beat and nylon guitar]\n\n[Verse 1]\n晚上八點出門散步\n走到寵物店門口\n牠突然整隻躺下\n四隻腳朝天不動\n\n[Pre-Chorus]\n我拉牠拉不走\n路人都在偷笑\n\n[Chorus]\n柴犬不走了\n牠在等老闆\n一條雞肉乾\n牠才肯回家\n\n[Verse 2]\n我說回家有罐頭\n牠把頭轉開\n老闆推門出來\n牠尾巴先搖起來\n\n[Pre-Chorus]\n明明是我養你\n你倒像他的狗\n\n[Chorus]\n柴犬不走了\n老闆笑出來\n一條雞肉乾\n我也買一袋\n\n[Outro - marimba and timbales]\n柴犬不走了\n明天還會來",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 94,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Mandarin reggaeton pop, playful Latin crossover. Classic dembow drum pattern, rubbery synth bass, nylon-string guitar riff looping through the verses, timbales fills, plucky marimba hook. Punchy modern Latin pop mix with dry close drums and wide guitar. Female mid-range voice, sassy talk-sung verses, bright open chorus. 94 BPM, F# minor. Playful, bouncy and cheeky. No trap hi-hats, no autotune, no EDM drop, no ballad strings, no rock guitar.",
+    "lyrics": "[Intro - dembow beat and nylon guitar]\n\n[Verse 1]\n晚上八點出門散步\n走到寵物店門口\n牠突然整隻躺下\n四隻腳朝天不動\n\n[Pre-Chorus]\n我拉牠拉不走\n路人都在偷笑\n\n[Chorus]\n柴犬不走了\n牠在等老闆\n一條雞肉乾\n牠才肯回家\n\n[Verse 2]\n我說回家有罐頭\n牠把頭轉開\n老闆推門出來\n牠尾巴先搖起來\n\n[Pre-Chorus]\n明明是我養你\n你倒像他的狗\n\n[Chorus]\n柴犬不走了\n老闆笑出來\n一條雞肉乾\n我也買一袋\n\n[Outro - marimba and timbales]\n柴犬不走了\n明天還會來"
+  },
+  "seed": "1041113922",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 91.62s**\n- 91.62s per song\n- LM phase (1 song): 16.53s\n- DiT phase (1 song): 75.09s",
+  "task_id": "4170cd1c-488e-4ee8-ab1d-3ac79afa105c",
+  "elapsed_s": 120.5,
+  "generated_at": "2026-10-30T12:34:13.513803+08:00",
+  "audio": "b17_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.92,
+      "end": 21.92,
+      "text": "[Intro - dembow beat and nylon guitar]"
+    },
+    {
+      "t": 21.92,
+      "end": 21.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.92,
+      "end": 31.06,
+      "text": "晚上八點出門散步"
+    },
+    {
+      "t": 31.26,
+      "end": 36.02,
+      "text": "走到寵物店門口"
+    },
+    {
+      "t": 36.02,
+      "end": 36.92,
+      "text": "牠突然整隻躺下"
+    },
+    {
+      "t": 36.92,
+      "end": 42.68,
+      "text": "四隻腳朝天不動"
+    },
+    {
+      "t": 42.7,
+      "end": 42.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.7,
+      "end": 47.14,
+      "text": "我拉牠拉不走"
+    },
+    {
+      "t": 47.16,
+      "end": 49.07,
+      "text": "路人都在偷笑"
+    },
+    {
+      "t": 49.09,
+      "end": 49.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.09,
+      "end": 49.51,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 49.51,
+      "end": 51.01,
+      "text": "牠在等老闆"
+    },
+    {
+      "t": 52.27,
+      "end": 53.59,
+      "text": "一條雞肉乾"
+    },
+    {
+      "t": 57.05,
+      "end": 59.79,
+      "text": "牠才肯回家"
+    },
+    {
+      "t": 82.91,
+      "end": 82.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.91,
+      "end": 84.99,
+      "text": "我說回家有罐頭"
+    },
+    {
+      "t": 85.47,
+      "end": 87.39,
+      "text": "牠把頭轉開"
+    },
+    {
+      "t": 88.03,
+      "end": 89.91,
+      "text": "老闆推門出來"
+    },
+    {
+      "t": 90.27,
+      "end": 92.61,
+      "text": "牠尾巴先搖起來"
+    },
+    {
+      "t": 93.13,
+      "end": 93.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.13,
+      "end": 97.71,
+      "text": "明明是我養你"
+    },
+    {
+      "t": 98.45,
+      "end": 100.95,
+      "text": "你倒像他的狗"
+    },
+    {
+      "t": 101.37,
+      "end": 101.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.37,
+      "end": 102.81,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 103.67,
+      "end": 110.19,
+      "text": "老闆笑出來"
+    },
+    {
+      "t": 110.41,
+      "end": 144.12,
+      "text": "一條雞肉乾"
+    },
+    {
+      "t": 145.08,
+      "end": 153.56,
+      "text": "我也買一袋"
+    },
+    {
+      "t": 157.78,
+      "end": 157.78,
+      "text": "[Outro - marimba and timbales]"
+    },
+    {
+      "t": 157.78,
+      "end": 159.24,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 161.68,
+      "end": 182.78,
+      "text": "明天還會來"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.92,
+      "end": 21.92,
+      "text": "[Intro - dembow beat and nylon guitar]"
+    },
+    {
+      "t": 21.92,
+      "end": 21.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.92,
+      "end": 31.06,
+      "text": "晚上八點出門散步"
+    },
+    {
+      "t": 31.26,
+      "end": 36.02,
+      "text": "走到寵物店門口"
+    },
+    {
+      "t": 36.02,
+      "end": 36.92,
+      "text": "牠突然整隻躺下"
+    },
+    {
+      "t": 36.92,
+      "end": 42.68,
+      "text": "四隻腳朝天不動"
+    },
+    {
+      "t": 42.7,
+      "end": 42.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.7,
+      "end": 47.14,
+      "text": "我拉牠拉不走"
+    },
+    {
+      "t": 47.16,
+      "end": 49.07,
+      "text": "路人都在偷笑"
+    },
+    {
+      "t": 49.09,
+      "end": 49.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.09,
+      "end": 49.41,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 49.41,
+      "end": 51.01,
+      "text": "牠在等老闆"
+    },
+    {
+      "t": 52.27,
+      "end": 53.59,
+      "text": "一條雞肉乾"
+    },
+    {
+      "t": 57.05,
+      "end": 59.79,
+      "text": "牠才肯回家"
+    },
+    {
+      "t": 82.91,
+      "end": 82.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.91,
+      "end": 84.99,
+      "text": "我說回家有罐頭"
+    },
+    {
+      "t": 85.47,
+      "end": 87.39,
+      "text": "牠把頭轉開"
+    },
+    {
+      "t": 88.03,
+      "end": 89.91,
+      "text": "老闆推門出來"
+    },
+    {
+      "t": 90.27,
+      "end": 92.61,
+      "text": "牠尾巴先搖起來"
+    },
+    {
+      "t": 93.13,
+      "end": 93.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.13,
+      "end": 97.71,
+      "text": "明明是我養你"
+    },
+    {
+      "t": 98.45,
+      "end": 100.83,
+      "text": "你倒像他的狗"
+    },
+    {
+      "t": 101.37,
+      "end": 101.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.37,
+      "end": 102.81,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 103.67,
+      "end": 109.99,
+      "text": "老闆笑出來"
+    },
+    {
+      "t": 110.41,
+      "end": 144.12,
+      "text": "一條雞肉乾"
+    },
+    {
+      "t": 145.08,
+      "end": 153.56,
+      "text": "我也買一袋"
+    },
+    {
+      "t": 157.78,
+      "end": 157.78,
+      "text": "[Outro - marimba and timbales]"
+    },
+    {
+      "t": 157.78,
+      "end": 159.24,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 161.68,
+      "end": 182.78,
+      "text": "明天還會來"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 3.76,
+      "end": 3.76,
+      "text": "[Intro - dembow beat and nylon guitar]"
+    },
+    {
+      "t": 3.76,
+      "end": 3.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.76,
+      "end": 36.22,
+      "text": "晚上八點出門散步"
+    },
+    {
+      "t": 36.3,
+      "end": 42.5,
+      "text": "走到寵物店門口"
+    },
+    {
+      "t": 42.58,
+      "end": 49.21,
+      "text": "牠突然整隻躺下"
+    },
+    {
+      "t": 49.41,
+      "end": 50.27,
+      "text": "四隻腳朝天不動"
+    },
+    {
+      "t": 50.27,
+      "end": 50.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.27,
+      "end": 52.55,
+      "text": "我拉牠拉不走"
+    },
+    {
+      "t": 52.61,
+      "end": 57.67,
+      "text": "路人都在偷笑"
+    },
+    {
+      "t": 57.67,
+      "end": 57.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.67,
+      "end": 59.43,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 59.61,
+      "end": 76.69,
+      "text": "牠在等老闆"
+    },
+    {
+      "t": 76.81,
+      "end": 77.97,
+      "text": "一條雞肉乾"
+    },
+    {
+      "t": 79.11,
+      "end": 82.87,
+      "text": "牠才肯回家"
+    },
+    {
+      "t": 82.87,
+      "end": 82.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.87,
+      "end": 85.09,
+      "text": "我說回家有罐頭"
+    },
+    {
+      "t": 85.77,
+      "end": 87.39,
+      "text": "牠把頭轉開"
+    },
+    {
+      "t": 88.03,
+      "end": 89.93,
+      "text": "老闆推門出來"
+    },
+    {
+      "t": 90.27,
+      "end": 92.61,
+      "text": "牠尾巴先搖起來"
+    },
+    {
+      "t": 93.13,
+      "end": 93.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.13,
+      "end": 97.71,
+      "text": "明明是我養你"
+    },
+    {
+      "t": 98.45,
+      "end": 104.79,
+      "text": "你倒像他的狗"
+    },
+    {
+      "t": 126.97,
+      "end": 126.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.97,
+      "end": 130.67,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 139.95,
+      "end": 141.57,
+      "text": "老闆笑出來"
+    },
+    {
+      "t": 142.8,
+      "end": 144.1,
+      "text": "一條雞肉乾"
+    },
+    {
+      "t": 145.08,
+      "end": 146.76,
+      "text": "我也買一袋"
+    },
+    {
+      "t": 147.58,
+      "end": 147.58,
+      "text": "[Outro - marimba and timbales]"
+    },
+    {
+      "t": 147.58,
+      "end": 149.06,
+      "text": "柴犬不走了"
+    },
+    {
+      "t": 152.72,
+      "end": 164.34,
+      "text": "明天還會來"
+    }
+  ]
+}

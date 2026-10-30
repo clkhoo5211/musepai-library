@@ -1,0 +1,287 @@
+{
+  "id": "b17_ms04",
+  "title": "Layang-Layang Plastik",
+  "title_source": "scripted",
+  "genre": "Malay doo-wop revival",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "playful, sing-along, affectionate comedy",
+  "persona": "",
+  "subject": "a father and his eight-year-old daughter Aisyah in the padang behind their Shah Alam flat, launching a kite made from a supermarket plastic bag and satay sticks that keeps nosediving until she ties her old school tie on as the tail",
+  "caption": "Malay doo-wop revival in 1950s vocal-group style. Upright piano pounding triplet chords, slapped upright bass, brushed drums with a shuffle, honking tenor saxophone solo, four-part backing harmony with bass voice and falsetto. Vintage mono-leaning room sound with light spring reverb. Male tenor lead with a three-man backing group singing doo-wop syllables and answers. 132 BPM, Bb major. Playful, affectionate father-daughter sing-along. No modern synths, no trap drums, no autotune, no rock distortion, no rap.",
+  "lyrics": "[Intro - backing harmony and piano triplets]\n\n[Verse 1]\nBeg plastik kedai runcit\nDua batang lidi sate\nAisyah pegang benang\nAyah lari, ayah lari\n\n[Chorus]\nLayang-layang plastik, wo-oh\nNaik sikit, jatuh balik\nKepala dulu cium rumput\nLayang-layang plastik\n\n[Verse 2]\nAisyah buka beg sekolah\nTali leher lama dia\nIkat jadi ekor panjang\nCuba sekali lagi, ayah\n\n[Chorus]\nLayang-layang plastik, wo-oh\nNaik tinggi, tak jatuh lagi\nEkor biru menari-nari\nLayang-layang plastik\n\n[Bridge - saxophone solo, then stop-time]\nMaghrib dah nak masuk\nMak dah panggil dari tingkap\n\n[Outro - backing group fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Malay doo-wop revival in 1950s vocal-group style. Upright piano pounding triplet chords, slapped upright bass, brushed drums with a shuffle, honking tenor saxophone solo, four-part backing harmony with bass voice and falsetto. Vintage mono-leaning room sound with light spring reverb. Male tenor lead with a three-man backing group singing doo-wop syllables and answers. 132 BPM, Bb major. Playful, affectionate father-daughter sing-along. No modern synths, no trap drums, no autotune, no rock distortion, no rap.",
+    "lyrics": "[Intro - backing harmony and piano triplets]\n\n[Verse 1]\nBeg plastik kedai runcit\nDua batang lidi sate\nAisyah pegang benang\nAyah lari, ayah lari\n\n[Chorus]\nLayang-layang plastik, wo-oh\nNaik sikit, jatuh balik\nKepala dulu cium rumput\nLayang-layang plastik\n\n[Verse 2]\nAisyah buka beg sekolah\nTali leher lama dia\nIkat jadi ekor panjang\nCuba sekali lagi, ayah\n\n[Chorus]\nLayang-layang plastik, wo-oh\nNaik tinggi, tak jatuh lagi\nEkor biru menari-nari\nLayang-layang plastik\n\n[Bridge - saxophone solo, then stop-time]\nMaghrib dah nak masuk\nMak dah panggil dari tingkap\n\n[Outro - backing group fade]\n"
+  },
+  "seed": "560045568",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 100.74s**\n- 100.74s per song\n- LM phase (1 song): 18.09s\n- DiT phase (1 song): 82.65s",
+  "task_id": "cb37f51f-8495-4021-91cc-cfc0c67fd41f",
+  "elapsed_s": 130.2,
+  "generated_at": "2026-10-30T10:27:51.534731+08:00",
+  "audio": "b17_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.82,
+      "end": 22.82,
+      "text": "[Intro - backing harmony and piano triplets]"
+    },
+    {
+      "t": 22.82,
+      "end": 22.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.82,
+      "end": 24.76,
+      "text": "Beg plastik kedai runcit"
+    },
+    {
+      "t": 26.26,
+      "end": 28.64,
+      "text": "Dua batang lidi sate"
+    },
+    {
+      "t": 33.36,
+      "end": 40.02,
+      "text": "Aisyah pegang benang"
+    },
+    {
+      "t": 41.76,
+      "end": 45.04,
+      "text": "Ayah lari, ayah lari"
+    },
+    {
+      "t": 46.41,
+      "end": 46.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.41,
+      "end": 55.19,
+      "text": "Layang-layang plastik, wo-oh"
+    },
+    {
+      "t": 55.19,
+      "end": 55.97,
+      "text": "Naik sikit, jatuh balik"
+    },
+    {
+      "t": 56.07,
+      "end": 57.23,
+      "text": "Kepala dulu cium rumput"
+    },
+    {
+      "t": 57.23,
+      "end": 68.73,
+      "text": "Layang-layang plastik"
+    },
+    {
+      "t": 68.73,
+      "end": 68.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.73,
+      "end": 70.69,
+      "text": "Aisyah buka beg sekolah"
+    },
+    {
+      "t": 72.61,
+      "end": 74.15,
+      "text": "Tali leher lama dia"
+    },
+    {
+      "t": 77.07,
+      "end": 79.57,
+      "text": "Ikat jadi ekor panjang"
+    },
+    {
+      "t": 79.57,
+      "end": 86.63,
+      "text": "Cuba sekali lagi, ayah"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.75,
+      "end": 91.59,
+      "text": "Layang-layang plastik, wo-oh"
+    },
+    {
+      "t": 91.59,
+      "end": 95.41,
+      "text": "Naik tinggi, tak jatuh lagi"
+    },
+    {
+      "t": 95.41,
+      "end": 99.49,
+      "text": "Ekor biru menari-nari"
+    },
+    {
+      "t": 105.43,
+      "end": 107.27,
+      "text": "Layang-layang plastik"
+    },
+    {
+      "t": 119.55,
+      "end": 119.55,
+      "text": "[Bridge - saxophone solo, then stop-time]"
+    },
+    {
+      "t": 119.55,
+      "end": 121.91,
+      "text": "Maghrib dah nak masuk"
+    },
+    {
+      "t": 123.65,
+      "end": 156.86,
+      "text": "Mak dah panggil dari tingkap"
+    },
+    {
+      "t": 156.86,
+      "end": 156.86,
+      "text": "[Outro - backing group fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.82,
+      "end": 22.82,
+      "text": "[Intro - backing harmony and piano triplets]"
+    },
+    {
+      "t": 22.82,
+      "end": 22.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.82,
+      "end": 24.76,
+      "text": "Beg plastik kedai runcit"
+    },
+    {
+      "t": 26.26,
+      "end": 28.64,
+      "text": "Dua batang lidi sate"
+    },
+    {
+      "t": 37.9,
+      "end": 40.18,
+      "text": "Aisyah pegang benang"
+    },
+    {
+      "t": 41.74,
+      "end": 45.04,
+      "text": "Ayah lari, ayah lari"
+    },
+    {
+      "t": 46.41,
+      "end": 46.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.41,
+      "end": 55.17,
+      "text": "Layang-layang plastik, wo-oh"
+    },
+    {
+      "t": 55.17,
+      "end": 55.99,
+      "text": "Naik sikit, jatuh balik"
+    },
+    {
+      "t": 56.07,
+      "end": 57.23,
+      "text": "Kepala dulu cium rumput"
+    },
+    {
+      "t": 57.23,
+      "end": 68.69,
+      "text": "Layang-layang plastik"
+    },
+    {
+      "t": 68.69,
+      "end": 68.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.69,
+      "end": 70.71,
+      "text": "Aisyah buka beg sekolah"
+    },
+    {
+      "t": 72.61,
+      "end": 74.15,
+      "text": "Tali leher lama dia"
+    },
+    {
+      "t": 77.07,
+      "end": 79.57,
+      "text": "Ikat jadi ekor panjang"
+    },
+    {
+      "t": 79.57,
+      "end": 83.47,
+      "text": "Cuba sekali lagi, ayah"
+    },
+    {
+      "t": 86.75,
+      "end": 86.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.75,
+      "end": 91.59,
+      "text": "Layang-layang plastik, wo-oh"
+    },
+    {
+      "t": 91.59,
+      "end": 95.41,
+      "text": "Naik tinggi, tak jatuh lagi"
+    },
+    {
+      "t": 95.41,
+      "end": 99.49,
+      "text": "Ekor biru menari-nari"
+    },
+    {
+      "t": 105.39,
+      "end": 107.29,
+      "text": "Layang-layang plastik"
+    },
+    {
+      "t": 119.55,
+      "end": 119.55,
+      "text": "[Bridge - saxophone solo, then stop-time]"
+    },
+    {
+      "t": 119.55,
+      "end": 121.91,
+      "text": "Maghrib dah nak masuk"
+    },
+    {
+      "t": 121.97,
+      "end": 171.28,
+      "text": "Mak dah panggil dari tingkap"
+    },
+    {
+      "t": 171.28,
+      "end": 171.28,
+      "text": "[Outro - backing group fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

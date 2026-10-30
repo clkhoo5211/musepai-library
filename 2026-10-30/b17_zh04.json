@@ -1,0 +1,519 @@
+{
+  "id": "b17_zh04",
+  "title": "外套口袋",
+  "title_source": "scripted",
+  "genre": "Mandarin lo-fi hip-hop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "hazy, nostalgic and gently amused",
+  "persona": "",
+  "subject": "a man finally returning a winter jacket he borrowed from an old university friend three years ago, and on the way finding in its pocket a cinema ticket stub from the night they both skipped a final exam",
+  "caption": "Mandarin lo-fi hip-hop, chillhop style. Dusty boom-bap drum loop with vinyl crackle, muted jazz piano chords with soft seventh voicings, warm round bass, a soft muted trumpet line between verses. Tape-saturated mix with vinyl hiss and rounded high end. Male baritone, laid-back conversational rap with a gently sung refrain. 82 BPM, Eb major. Hazy, nostalgic and gently amused. No trap hi-hats, no autotune, no EDM drop, no rock guitar, no orchestral strings.",
+  "lyrics": "[Intro - vinyl crackle and jazz piano]\n\n[Verse 1]\n這件外套借了三年\n說好冬天就還你\n每年冬天都說下次\n今天終於放進袋子\n\n[Chorus]\n外套口袋裡\n一張舊電影票\n那天我們沒去考試\n躲在最後一排笑\n\n[Verse 2]\n捷運上我摸到它\n票根已經變黃\n片名我都忘了\n只記得你吃爆米花很吵\n\n[Chorus]\n外套口袋裡\n一張舊電影票\n那年我們都被當\n你說至少片子不錯\n\n[Bridge - muted trumpet]\n你開門還是那件T恤\n說外套你自己留著\n\n[Chorus]\n外套還給你\n票根我留下了\n下個週末那一場\n這次換我買票\n\n[Outro - piano and vinyl hiss]\n這次換我買\n爆米花你別吃太吵",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 82,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Mandarin lo-fi hip-hop, chillhop style. Dusty boom-bap drum loop with vinyl crackle, muted jazz piano chords with soft seventh voicings, warm round bass, a soft muted trumpet line between verses. Tape-saturated mix with vinyl hiss and rounded high end. Male baritone, laid-back conversational rap with a gently sung refrain. 82 BPM, Eb major. Hazy, nostalgic and gently amused. No trap hi-hats, no autotune, no EDM drop, no rock guitar, no orchestral strings.",
+    "lyrics": "[Intro - vinyl crackle and jazz piano]\n\n[Verse 1]\n這件外套借了三年\n說好冬天就還你\n每年冬天都說下次\n今天終於放進袋子\n\n[Chorus]\n外套口袋裡\n一張舊電影票\n那天我們沒去考試\n躲在最後一排笑\n\n[Verse 2]\n捷運上我摸到它\n票根已經變黃\n片名我都忘了\n只記得你吃爆米花很吵\n\n[Chorus]\n外套口袋裡\n一張舊電影票\n那年我們都被當\n你說至少片子不錯\n\n[Bridge - muted trumpet]\n你開門還是那件T恤\n說外套你自己留著\n\n[Chorus]\n外套還給你\n票根我留下了\n下個週末那一場\n這次換我買票\n\n[Outro - piano and vinyl hiss]\n這次換我買\n爆米花你別吃太吵"
+  },
+  "seed": "1192342603",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 82.55s**\n- 82.55s per song\n- LM phase (1 song): 15.42s\n- DiT phase (1 song): 67.13s",
+  "task_id": "504a5813-cbf1-440d-a78a-614bb1e096f6",
+  "elapsed_s": 110.5,
+  "generated_at": "2026-10-30T12:37:54.138185+08:00",
+  "audio": "b17_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Intro - vinyl crackle and jazz piano]"
+    },
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.04,
+      "end": 50.45,
+      "text": "這件外套借了三年"
+    },
+    {
+      "t": 50.67,
+      "end": 67.93,
+      "text": "說好冬天就還你"
+    },
+    {
+      "t": 67.93,
+      "end": 69.55,
+      "text": "每年冬天都說下次"
+    },
+    {
+      "t": 70.11,
+      "end": 72.77,
+      "text": "今天終於放進袋子"
+    },
+    {
+      "t": 72.77,
+      "end": 72.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.77,
+      "end": 74.05,
+      "text": "外套口袋裡"
+    },
+    {
+      "t": 74.87,
+      "end": 76.27,
+      "text": "一張舊電影票"
+    },
+    {
+      "t": 76.27,
+      "end": 84.39,
+      "text": "那天我們沒去考試"
+    },
+    {
+      "t": 84.41,
+      "end": 85.79,
+      "text": "躲在最後一排笑"
+    },
+    {
+      "t": 86.15,
+      "end": 86.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.15,
+      "end": 90.99,
+      "text": "捷運上我摸到它"
+    },
+    {
+      "t": 90.99,
+      "end": 93.41,
+      "text": "票根已經變黃"
+    },
+    {
+      "t": 93.41,
+      "end": 94.35,
+      "text": "片名我都忘了"
+    },
+    {
+      "t": 94.45,
+      "end": 97.17,
+      "text": "只記得你吃爆米花很吵"
+    },
+    {
+      "t": 97.35,
+      "end": 97.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.35,
+      "end": 98.33,
+      "text": "外套口袋裡"
+    },
+    {
+      "t": 98.33,
+      "end": 103.85,
+      "text": "一張舊電影票"
+    },
+    {
+      "t": 103.85,
+      "end": 105.05,
+      "text": "那年我們都被當"
+    },
+    {
+      "t": 105.13,
+      "end": 107.79,
+      "text": "你說至少片子不錯"
+    },
+    {
+      "t": 107.87,
+      "end": 107.87,
+      "text": "[Bridge - muted trumpet]"
+    },
+    {
+      "t": 107.87,
+      "end": 107.89,
+      "text": "你開門還是那件T恤"
+    },
+    {
+      "t": 107.89,
+      "end": 110.85,
+      "text": "說外套你自己留著"
+    },
+    {
+      "t": 118.89,
+      "end": 118.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.89,
+      "end": 120.39,
+      "text": "外套還給你"
+    },
+    {
+      "t": 131.93,
+      "end": 141.05,
+      "text": "票根我留下了"
+    },
+    {
+      "t": 141.27,
+      "end": 145.93,
+      "text": "下個週末那一場"
+    },
+    {
+      "t": 145.99,
+      "end": 176.7,
+      "text": "這次換我買票"
+    },
+    {
+      "t": 176.72,
+      "end": 176.72,
+      "text": "[Outro - piano and vinyl hiss]"
+    },
+    {
+      "t": 176.72,
+      "end": 178.36,
+      "text": "這次換我買"
+    },
+    {
+      "t": 180.7,
+      "end": 183.2,
+      "text": "爆米花你別吃太吵"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Intro - vinyl crackle and jazz piano]"
+    },
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.04,
+      "end": 50.45,
+      "text": "這件外套借了三年"
+    },
+    {
+      "t": 50.67,
+      "end": 67.93,
+      "text": "說好冬天就還你"
+    },
+    {
+      "t": 67.93,
+      "end": 69.55,
+      "text": "每年冬天都說下次"
+    },
+    {
+      "t": 70.11,
+      "end": 72.77,
+      "text": "今天終於放進袋子"
+    },
+    {
+      "t": 72.77,
+      "end": 72.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.77,
+      "end": 74.05,
+      "text": "外套口袋裡"
+    },
+    {
+      "t": 74.87,
+      "end": 76.27,
+      "text": "一張舊電影票"
+    },
+    {
+      "t": 76.27,
+      "end": 84.39,
+      "text": "那天我們沒去考試"
+    },
+    {
+      "t": 84.41,
+      "end": 85.79,
+      "text": "躲在最後一排笑"
+    },
+    {
+      "t": 86.15,
+      "end": 86.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.15,
+      "end": 90.99,
+      "text": "捷運上我摸到它"
+    },
+    {
+      "t": 90.99,
+      "end": 93.41,
+      "text": "票根已經變黃"
+    },
+    {
+      "t": 93.41,
+      "end": 94.35,
+      "text": "片名我都忘了"
+    },
+    {
+      "t": 94.45,
+      "end": 97.17,
+      "text": "只記得你吃爆米花很吵"
+    },
+    {
+      "t": 97.35,
+      "end": 97.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.35,
+      "end": 98.33,
+      "text": "外套口袋裡"
+    },
+    {
+      "t": 98.33,
+      "end": 103.85,
+      "text": "一張舊電影票"
+    },
+    {
+      "t": 103.85,
+      "end": 105.05,
+      "text": "那年我們都被當"
+    },
+    {
+      "t": 105.13,
+      "end": 107.79,
+      "text": "你說至少片子不錯"
+    },
+    {
+      "t": 107.87,
+      "end": 107.87,
+      "text": "[Bridge - muted trumpet]"
+    },
+    {
+      "t": 107.87,
+      "end": 107.89,
+      "text": "你開門還是那件T恤"
+    },
+    {
+      "t": 107.89,
+      "end": 110.85,
+      "text": "說外套你自己留著"
+    },
+    {
+      "t": 118.89,
+      "end": 118.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.89,
+      "end": 120.39,
+      "text": "外套還給你"
+    },
+    {
+      "t": 131.93,
+      "end": 141.05,
+      "text": "票根我留下了"
+    },
+    {
+      "t": 141.27,
+      "end": 145.93,
+      "text": "下個週末那一場"
+    },
+    {
+      "t": 145.99,
+      "end": 176.7,
+      "text": "這次換我買票"
+    },
+    {
+      "t": 176.72,
+      "end": 176.72,
+      "text": "[Outro - piano and vinyl hiss]"
+    },
+    {
+      "t": 176.72,
+      "end": 178.36,
+      "text": "這次換我買"
+    },
+    {
+      "t": 180.7,
+      "end": 183.2,
+      "text": "爆米花你別吃太吵"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Intro - vinyl crackle and jazz piano]"
+    },
+    {
+      "t": 20.04,
+      "end": 20.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.04,
+      "end": 23.18,
+      "text": "這件外套借了三年"
+    },
+    {
+      "t": 25.5,
+      "end": 26.86,
+      "text": "說好冬天就還你"
+    },
+    {
+      "t": 26.86,
+      "end": 27.9,
+      "text": "每年冬天都說下次"
+    },
+    {
+      "t": 27.9,
+      "end": 37.66,
+      "text": "今天終於放進袋子"
+    },
+    {
+      "t": 37.66,
+      "end": 37.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.66,
+      "end": 38.68,
+      "text": "外套口袋裡"
+    },
+    {
+      "t": 38.68,
+      "end": 43.76,
+      "text": "一張舊電影票"
+    },
+    {
+      "t": 43.76,
+      "end": 45.92,
+      "text": "那天我們沒去考試"
+    },
+    {
+      "t": 48.91,
+      "end": 55.67,
+      "text": "躲在最後一排笑"
+    },
+    {
+      "t": 66.47,
+      "end": 66.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.47,
+      "end": 68.65,
+      "text": "捷運上我摸到它"
+    },
+    {
+      "t": 69.03,
+      "end": 71.01,
+      "text": "票根已經變黃"
+    },
+    {
+      "t": 72.31,
+      "end": 73.91,
+      "text": "片名我都忘了"
+    },
+    {
+      "t": 74.87,
+      "end": 77.67,
+      "text": "只記得你吃爆米花很吵"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.79,
+      "end": 91.09,
+      "text": "外套口袋裡"
+    },
+    {
+      "t": 91.17,
+      "end": 92.77,
+      "text": "一張舊電影票"
+    },
+    {
+      "t": 93.37,
+      "end": 95.49,
+      "text": "那年我們都被當"
+    },
+    {
+      "t": 95.87,
+      "end": 98.51,
+      "text": "你說至少片子不錯"
+    },
+    {
+      "t": 103.69,
+      "end": 103.69,
+      "text": "[Bridge - muted trumpet]"
+    },
+    {
+      "t": 103.69,
+      "end": 103.71,
+      "text": "你開門還是那件T恤"
+    },
+    {
+      "t": 104.07,
+      "end": 110.87,
+      "text": "說外套你自己留著"
+    },
+    {
+      "t": 118.89,
+      "end": 118.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.89,
+      "end": 120.39,
+      "text": "外套還給你"
+    },
+    {
+      "t": 131.77,
+      "end": 141.03,
+      "text": "票根我留下了"
+    },
+    {
+      "t": 141.29,
+      "end": 147.84,
+      "text": "下個週末那一場"
+    },
+    {
+      "t": 153.64,
+      "end": 176.66,
+      "text": "這次換我買票"
+    },
+    {
+      "t": 176.72,
+      "end": 176.72,
+      "text": "[Outro - piano and vinyl hiss]"
+    },
+    {
+      "t": 176.72,
+      "end": 178.32,
+      "text": "這次換我買"
+    },
+    {
+      "t": 180.7,
+      "end": 183.2,
+      "text": "爆米花你別吃太吵"
+    }
+  ]
+}

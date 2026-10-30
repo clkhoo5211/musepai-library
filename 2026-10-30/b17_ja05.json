@@ -1,0 +1,337 @@
+{
+  "id": "b17_ja05",
+  "title": "一センチ",
+  "title_source": "scripted",
+  "genre": "Japanese AOR yacht rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "smooth, wry and gently uplifting",
+  "persona": "",
+  "subject": "a fifty-two-year-old man at his company health check who is told he has shrunk one centimetre since last year, measures himself twice more, and walks back to the office through the station with his chin up as if he can stretch it back",
+  "caption": "Japanese AOR yacht rock in the late-70s Tokyo light-mellow style. Clean chorus-laden electric guitar playing jazzy ninth chords, Fender Rhodes, smooth fretless-tone bass, soft tenor saxophone fills, relaxed drums with rimshots. Polished late-70s studio sheen, wide stereo, gentle tape warmth. Male mellow tenor, relaxed crooning with stacked harmonies on the chorus. 98 BPM, B-flat major. Smooth, wry and gently uplifting. No trap hi-hats, no autotune, no EDM synths, no distorted guitars, no rap.",
+  "lyrics": "[Intro - Rhodes, chorus guitar, soft sax]\n\n[Verse 1]\n健康診断 身長計\nかかとをつけて 背を伸ばす\n「去年より 一センチ」\n看護師さんが さらっと言う\n\n[Pre-Chorus]\nもう一度だけ 測らせて\n二回目も やっぱり同じ\n\n[Chorus]\n一センチ どこへ行った\n五十二の 春の朝\n一センチ 取り戻しに\nあごを上げて 歩くよ\n\n[Verse 2]\n駅の階段 背筋を張る\nガラスに映る 少し変な人\n若い頃より 前を見てる\nそれも悪くは ないけれど\n\n[Bridge - sax solo]\n縮んだ分 空が近い\nそういうことに しておこう\n\n[Chorus]\n一センチ どこへ行った\n会社の前で 立ち止まる\n一センチ 取り戻した\n気がした 今日だけは\n\n[Outro - Rhodes, guitar fades]\n来年また 測るまで\nこの背筋で いようか",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "B♭ major",
+    "timesignature": "4",
+    "prompt": "Japanese AOR yacht rock in the late-70s Tokyo light-mellow style. Clean chorus-laden electric guitar playing jazzy ninth chords, Fender Rhodes, smooth fretless-tone bass, soft tenor saxophone fills, relaxed drums with rimshots. Polished late-70s studio sheen, wide stereo, gentle tape warmth. Male mellow tenor, relaxed crooning with stacked harmonies on the chorus. 98 BPM, B-flat major. Smooth, wry and gently uplifting. No trap hi-hats, no autotune, no EDM synths, no distorted guitars, no rap.",
+    "lyrics": "[Intro - Rhodes, chorus guitar, soft sax]\n\n[Verse 1]\n健康診断 身長計\nかかとをつけて 背を伸ばす\n「去年より 一センチ」\n看護師さんが さらっと言う\n\n[Pre-Chorus]\nもう一度だけ 測らせて\n二回目も やっぱり同じ\n\n[Chorus]\n一センチ どこへ行った\n五十二の 春の朝\n一センチ 取り戻しに\nあごを上げて 歩くよ\n\n[Verse 2]\n駅の階段 背筋を張る\nガラスに映る 少し変な人\n若い頃より 前を見てる\nそれも悪くは ないけれど\n\n[Bridge - sax solo]\n縮んだ分 空が近い\nそういうことに しておこう\n\n[Chorus]\n一センチ どこへ行った\n会社の前で 立ち止まる\n一センチ 取り戻した\n気がした 今日だけは\n\n[Outro - Rhodes, guitar fades]\n来年また 測るまで\nこの背筋で いようか"
+  },
+  "seed": "1688615622",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 76.02s**\n- 76.02s per song\n- LM phase (1 song): 16.49s\n- DiT phase (1 song): 59.53s",
+  "task_id": "e32ea9bc-eb77-4d5e-aaf5-975434d43bcf",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-10-30T11:23:22.248569+08:00",
+  "audio": "b17_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 8.42,
+      "end": 8.42,
+      "text": "[Intro - Rhodes, chorus guitar, soft sax]"
+    },
+    {
+      "t": 8.42,
+      "end": 8.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.42,
+      "end": 34.76,
+      "text": "健康診断 身長計"
+    },
+    {
+      "t": 36.02,
+      "end": 40.52,
+      "text": "かかとをつけて 背を伸ばす"
+    },
+    {
+      "t": 41.96,
+      "end": 45.54,
+      "text": "「去年より 一センチ」"
+    },
+    {
+      "t": 46.68,
+      "end": 51.67,
+      "text": "看護師さんが さらっと言う"
+    },
+    {
+      "t": 52.63,
+      "end": 52.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.63,
+      "end": 56.83,
+      "text": "もう一度だけ 測らせて"
+    },
+    {
+      "t": 56.99,
+      "end": 62.75,
+      "text": "二回目も やっぱり同じ"
+    },
+    {
+      "t": 62.93,
+      "end": 62.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.93,
+      "end": 66.23,
+      "text": "一センチ どこへ行った"
+    },
+    {
+      "t": 67.27,
+      "end": 72.43,
+      "text": "五十二の 春の朝"
+    },
+    {
+      "t": 72.63,
+      "end": 74.93,
+      "text": "一センチ 取り戻しに"
+    },
+    {
+      "t": 77.09,
+      "end": 81.03,
+      "text": "あごを上げて 歩くよ"
+    },
+    {
+      "t": 82.53,
+      "end": 82.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.53,
+      "end": 84.87,
+      "text": "駅の階段 背筋を張る"
+    },
+    {
+      "t": 87.61,
+      "end": 90.89,
+      "text": "ガラスに映る 少し変な人"
+    },
+    {
+      "t": 91.09,
+      "end": 94.77,
+      "text": "若い頃より 前を見てる"
+    },
+    {
+      "t": 96.95,
+      "end": 101.01,
+      "text": "それも悪くは ないけれど"
+    },
+    {
+      "t": 107.85,
+      "end": 107.85,
+      "text": "[Bridge - sax solo]"
+    },
+    {
+      "t": 107.85,
+      "end": 112.41,
+      "text": "縮んだ分 空が近い"
+    },
+    {
+      "t": 114.75,
+      "end": 123.93,
+      "text": "そういうことに しておこう"
+    },
+    {
+      "t": 124.13,
+      "end": 124.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.13,
+      "end": 128.31,
+      "text": "一センチ どこへ行った"
+    },
+    {
+      "t": 128.39,
+      "end": 131.93,
+      "text": "会社の前で 立ち止まる"
+    },
+    {
+      "t": 134.11,
+      "end": 136.93,
+      "text": "一センチ 取り戻した"
+    },
+    {
+      "t": 137.85,
+      "end": 141.87,
+      "text": "気がした 今日だけは"
+    },
+    {
+      "t": 152.42,
+      "end": 152.42,
+      "text": "[Outro - Rhodes, guitar fades]"
+    },
+    {
+      "t": 152.42,
+      "end": 154.32,
+      "text": "来年また 測るまで"
+    },
+    {
+      "t": 154.92,
+      "end": 187.6,
+      "text": "この背筋で いようか"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 8.4,
+      "end": 8.4,
+      "text": "[Intro - Rhodes, chorus guitar, soft sax]"
+    },
+    {
+      "t": 8.4,
+      "end": 8.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.4,
+      "end": 34.14,
+      "text": "健康診断 身長計"
+    },
+    {
+      "t": 36.02,
+      "end": 40.52,
+      "text": "かかとをつけて 背を伸ばす"
+    },
+    {
+      "t": 41.96,
+      "end": 45.54,
+      "text": "「去年より 一センチ」"
+    },
+    {
+      "t": 46.68,
+      "end": 50.59,
+      "text": "看護師さんが さらっと言う"
+    },
+    {
+      "t": 52.63,
+      "end": 52.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.63,
+      "end": 56.83,
+      "text": "もう一度だけ 測らせて"
+    },
+    {
+      "t": 58.31,
+      "end": 62.75,
+      "text": "二回目も やっぱり同じ"
+    },
+    {
+      "t": 62.93,
+      "end": 62.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.93,
+      "end": 66.23,
+      "text": "一センチ どこへ行った"
+    },
+    {
+      "t": 67.27,
+      "end": 70.47,
+      "text": "五十二の 春の朝"
+    },
+    {
+      "t": 72.61,
+      "end": 74.93,
+      "text": "一センチ 取り戻しに"
+    },
+    {
+      "t": 77.09,
+      "end": 81.03,
+      "text": "あごを上げて 歩くよ"
+    },
+    {
+      "t": 82.63,
+      "end": 82.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.63,
+      "end": 84.79,
+      "text": "駅の階段 背筋を張る"
+    },
+    {
+      "t": 87.61,
+      "end": 90.67,
+      "text": "ガラスに映る 少し変な人"
+    },
+    {
+      "t": 90.67,
+      "end": 94.77,
+      "text": "若い頃より 前を見てる"
+    },
+    {
+      "t": 96.93,
+      "end": 101.01,
+      "text": "それも悪くは ないけれど"
+    },
+    {
+      "t": 107.85,
+      "end": 107.85,
+      "text": "[Bridge - sax solo]"
+    },
+    {
+      "t": 107.85,
+      "end": 112.41,
+      "text": "縮んだ分 空が近い"
+    },
+    {
+      "t": 114.75,
+      "end": 122.73,
+      "text": "そういうことに しておこう"
+    },
+    {
+      "t": 124.13,
+      "end": 124.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.13,
+      "end": 126.95,
+      "text": "一センチ どこへ行った"
+    },
+    {
+      "t": 128.23,
+      "end": 131.95,
+      "text": "会社の前で 立ち止まる"
+    },
+    {
+      "t": 134.11,
+      "end": 136.91,
+      "text": "一センチ 取り戻した"
+    },
+    {
+      "t": 137.85,
+      "end": 141.87,
+      "text": "気がした 今日だけは"
+    },
+    {
+      "t": 142.41,
+      "end": 142.41,
+      "text": "[Outro - Rhodes, guitar fades]"
+    },
+    {
+      "t": 142.41,
+      "end": 177.66,
+      "text": "来年また 測るまで"
+    },
+    {
+      "t": 181.6,
+      "end": 187.6,
+      "text": "この背筋で いようか"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

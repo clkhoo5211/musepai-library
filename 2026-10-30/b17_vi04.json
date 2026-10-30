@@ -1,0 +1,307 @@
+{
+  "id": "b17_vi04",
+  "title": "Chạm Mũi Chân",
+  "title_source": "scripted",
+  "genre": "Vietnamese jazz manouche",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "light, wry, encouraging",
+  "persona": "",
+  "subject": "a forty-year-old Hà Nội office worker with a stiff back whose physiotherapist sets him one goal for the season: touch his toes before Tết",
+  "caption": "Vietnamese jazz manouche, gypsy-swing style. Selmer-style acoustic lead guitar with fast bright runs; second guitar strumming la pompe rhythm; walking upright bass; clarinet trading short phrases with the guitar; light brushed snare. Small-room live sound, bright acoustic tone, little reverb. Male crooner, relaxed mid register, smiling delivery in Vietnamese. 168 BPM, D minor. Light, wry and encouraging. No electric guitar, no electronic drums, no autotune, no pop ballad strings, no trap beats.",
+  "lyrics": "[Intro - lead guitar and la pompe]\n\n[Verse 1]\nBốn mươi tuổi lưng như tấm ván\nCúi xuống buộc dây cũng thở dài\nCô vật lý trị liệu bảo anh\nTrước Tết phải chạm mũi chân\n\n[Pre-Chorus]\nHít vào, thả lỏng vai\nĐếm tới mười, đừng ăn gian\n\n[Chorus]\nCúi thêm chút nữa thôi anh\nNgón tay còn cách một gang\nMỗi sáng cúi thêm một tí\nTết về chạm được mũi chân\n\n[Verse 2]\nTháng mười một mới tới đầu gối\nTháng chạp đã tới cổ chân rồi\nĐồng nghiệp nhìn anh vươn vai\nTưởng anh tập múa ba lê\n\n[Chorus]\nCúi thêm chút nữa thôi anh\nNgón tay chỉ còn một đốt\nMỗi sáng cúi thêm một tí\nHai mươi tám Tết chạm được rồi\n\n[Outro - clarinet and guitar]\nGiờ anh tự buộc dây giày\nKhông cần phải ngồi xuống ghế",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese jazz manouche, gypsy-swing style. Selmer-style acoustic lead guitar with fast bright runs; second guitar strumming la pompe rhythm; walking upright bass; clarinet trading short phrases with the guitar; light brushed snare. Small-room live sound, bright acoustic tone, little reverb. Male crooner, relaxed mid register, smiling delivery in Vietnamese. 168 BPM, D minor. Light, wry and encouraging. No electric guitar, no electronic drums, no autotune, no pop ballad strings, no trap beats.",
+    "lyrics": "[Intro - lead guitar and la pompe]\n\n[Verse 1]\nBốn mươi tuổi lưng như tấm ván\nCúi xuống buộc dây cũng thở dài\nCô vật lý trị liệu bảo anh\nTrước Tết phải chạm mũi chân\n\n[Pre-Chorus]\nHít vào, thả lỏng vai\nĐếm tới mười, đừng ăn gian\n\n[Chorus]\nCúi thêm chút nữa thôi anh\nNgón tay còn cách một gang\nMỗi sáng cúi thêm một tí\nTết về chạm được mũi chân\n\n[Verse 2]\nTháng mười một mới tới đầu gối\nTháng chạp đã tới cổ chân rồi\nĐồng nghiệp nhìn anh vươn vai\nTưởng anh tập múa ba lê\n\n[Chorus]\nCúi thêm chút nữa thôi anh\nNgón tay chỉ còn một đốt\nMỗi sáng cúi thêm một tí\nHai mươi tám Tết chạm được rồi\n\n[Outro - clarinet and guitar]\nGiờ anh tự buộc dây giày\nKhông cần phải ngồi xuống ghế"
+  },
+  "seed": "3371778716",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 105.71s**\n- 105.71s per song\n- LM phase (1 song): 16.49s\n- DiT phase (1 song): 89.22s",
+  "task_id": "f8ec60d1-cbba-4c22-96e2-dc679be715d4",
+  "elapsed_s": 141.0,
+  "generated_at": "2026-10-30T10:50:05.534990+08:00",
+  "audio": "b17_vi04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.7,
+      "end": 10.7,
+      "text": "[Intro - lead guitar and la pompe]"
+    },
+    {
+      "t": 10.7,
+      "end": 10.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.7,
+      "end": 23.48,
+      "text": "Bốn mươi tuổi lưng như tấm ván"
+    },
+    {
+      "t": 24.98,
+      "end": 29.54,
+      "text": "Cúi xuống buộc dây cũng thở dài"
+    },
+    {
+      "t": 29.54,
+      "end": 35.18,
+      "text": "Cô vật lý trị liệu bảo anh"
+    },
+    {
+      "t": 37.82,
+      "end": 40.86,
+      "text": "Trước Tết phải chạm mũi chân"
+    },
+    {
+      "t": 44.94,
+      "end": 44.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.94,
+      "end": 46.97,
+      "text": "Hít vào, thả lỏng vai"
+    },
+    {
+      "t": 48.25,
+      "end": 52.07,
+      "text": "Đếm tới mười, đừng ăn gian"
+    },
+    {
+      "t": 55.15,
+      "end": 55.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.15,
+      "end": 57.09,
+      "text": "Cúi thêm chút nữa thôi anh"
+    },
+    {
+      "t": 57.89,
+      "end": 60.25,
+      "text": "Ngón tay còn cách một gang"
+    },
+    {
+      "t": 60.41,
+      "end": 62.51,
+      "text": "Mỗi sáng cúi thêm một tí"
+    },
+    {
+      "t": 63.21,
+      "end": 65.09,
+      "text": "Tết về chạm được mũi chân"
+    },
+    {
+      "t": 76.45,
+      "end": 76.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.45,
+      "end": 79.21,
+      "text": "Tháng mười một mới tới đầu gối"
+    },
+    {
+      "t": 81.71,
+      "end": 84.43,
+      "text": "Tháng chạp đã tới cổ chân rồi"
+    },
+    {
+      "t": 87.77,
+      "end": 90.85,
+      "text": "Đồng nghiệp nhìn anh vươn vai"
+    },
+    {
+      "t": 92.65,
+      "end": 95.71,
+      "text": "Tưởng anh tập múa ba lê"
+    },
+    {
+      "t": 112.03,
+      "end": 112.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.03,
+      "end": 114.85,
+      "text": "Cúi thêm chút nữa thôi anh"
+    },
+    {
+      "t": 114.85,
+      "end": 119.41,
+      "text": "Ngón tay chỉ còn một đốt"
+    },
+    {
+      "t": 119.51,
+      "end": 121.99,
+      "text": "Mỗi sáng cúi thêm một tí"
+    },
+    {
+      "t": 122.69,
+      "end": 126.85,
+      "text": "Hai mươi tám Tết chạm được rồi"
+    },
+    {
+      "t": 129.15,
+      "end": 129.15,
+      "text": "[Outro - clarinet and guitar]"
+    },
+    {
+      "t": 129.15,
+      "end": 139.52,
+      "text": "Giờ anh tự buộc dây giày"
+    },
+    {
+      "t": 144.12,
+      "end": 146.64,
+      "text": "Không cần phải ngồi xuống ghế"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 10.98,
+      "end": 10.98,
+      "text": "[Intro - lead guitar and la pompe]"
+    },
+    {
+      "t": 10.98,
+      "end": 10.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.98,
+      "end": 12.0,
+      "text": "Bốn mươi tuổi lưng như tấm ván"
+    },
+    {
+      "t": 12.04,
+      "end": 29.52,
+      "text": "Cúi xuống buộc dây cũng thở dài"
+    },
+    {
+      "t": 29.52,
+      "end": 35.2,
+      "text": "Cô vật lý trị liệu bảo anh"
+    },
+    {
+      "t": 37.82,
+      "end": 40.88,
+      "text": "Trước Tết phải chạm mũi chân"
+    },
+    {
+      "t": 44.94,
+      "end": 44.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.94,
+      "end": 46.97,
+      "text": "Hít vào, thả lỏng vai"
+    },
+    {
+      "t": 48.27,
+      "end": 52.11,
+      "text": "Đếm tới mười, đừng ăn gian"
+    },
+    {
+      "t": 55.13,
+      "end": 55.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.13,
+      "end": 57.11,
+      "text": "Cúi thêm chút nữa thôi anh"
+    },
+    {
+      "t": 57.91,
+      "end": 60.25,
+      "text": "Ngón tay còn cách một gang"
+    },
+    {
+      "t": 60.41,
+      "end": 62.51,
+      "text": "Mỗi sáng cúi thêm một tí"
+    },
+    {
+      "t": 63.21,
+      "end": 65.11,
+      "text": "Tết về chạm được mũi chân"
+    },
+    {
+      "t": 76.45,
+      "end": 76.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.45,
+      "end": 79.21,
+      "text": "Tháng mười một mới tới đầu gối"
+    },
+    {
+      "t": 81.71,
+      "end": 84.43,
+      "text": "Tháng chạp đã tới cổ chân rồi"
+    },
+    {
+      "t": 87.79,
+      "end": 90.85,
+      "text": "Đồng nghiệp nhìn anh vươn vai"
+    },
+    {
+      "t": 92.65,
+      "end": 95.71,
+      "text": "Tưởng anh tập múa ba lê"
+    },
+    {
+      "t": 112.03,
+      "end": 112.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.03,
+      "end": 114.85,
+      "text": "Cúi thêm chút nữa thôi anh"
+    },
+    {
+      "t": 114.85,
+      "end": 119.41,
+      "text": "Ngón tay chỉ còn một đốt"
+    },
+    {
+      "t": 119.51,
+      "end": 122.01,
+      "text": "Mỗi sáng cúi thêm một tí"
+    },
+    {
+      "t": 122.71,
+      "end": 126.87,
+      "text": "Hai mươi tám Tết chạm được rồi"
+    },
+    {
+      "t": 129.15,
+      "end": 129.15,
+      "text": "[Outro - clarinet and guitar]"
+    },
+    {
+      "t": 129.15,
+      "end": 137.73,
+      "text": "Giờ anh tự buộc dây giày"
+    },
+    {
+      "t": 144.12,
+      "end": 146.64,
+      "text": "Không cần phải ngồi xuống ghế"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,367 @@
+{
+  "id": "b17_en02",
+  "title": "Bless You, Forty-One",
+  "title_source": "scripted",
+  "genre": "orchestral jazz-pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, wry and lovestruck",
+  "persona": "",
+  "subject": "a woman in hay-fever season who secretly keeps count of how many times her boyfriend says bless you, and realises on the forty-first sneeze of April that he has never once missed one",
+  "caption": "Orchestral jazz-pop in a vintage crooner style. Close-miked string quartet playing lush legato chords, nylon-string guitar with soft bossa-leaning comping, walking upright bass, twinkling celesta on the turnarounds, light brushed drums. Warm vintage room sound with soft tape hiss. Female alto, low and velvety, conversational with a smile in it. 84 BPM, Bb major. Tender, wry and lovestruck. No trap drums, no autotune, no EDM, no belted pop runs, no rock guitar.",
+  "lyrics": "[Intro - strings and celesta]\n\n[Verse 1]\nThe birch trees out on Elm Street\nHave it in for me again\nI sneeze into my sleeve\nYou say bless you from the den\n\n[Pre-Chorus]\nI started keeping score\nOn the back of my hand\n\n[Chorus]\nBless you, thirty-nine\nBless you, forty too\nEvery single time\nIt comes from you\n\n[Verse 2]\nYou say it with your mouth full\nYou say it half asleep\nYou said it through the shower door\nWithout missing a beat\n\n[Pre-Chorus]\nI wasn't counting love\nI was counting tissues\n\n[Chorus]\nBless you, forty-one\nMuffled through the wall\nI think I've been blessed\nMore than I recall\n\n[Bridge - strings swell]\nLet the pollen fall all May\nI'll let you keep the count\n\n[Outro - nylon guitar alone]\nAchoo\nBless you, love",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Orchestral jazz-pop in a vintage crooner style. Close-miked string quartet playing lush legato chords, nylon-string guitar with soft bossa-leaning comping, walking upright bass, twinkling celesta on the turnarounds, light brushed drums. Warm vintage room sound with soft tape hiss. Female alto, low and velvety, conversational with a smile in it. 84 BPM, Bb major. Tender, wry and lovestruck. No trap drums, no autotune, no EDM, no belted pop runs, no rock guitar.",
+    "lyrics": "[Intro - strings and celesta]\n\n[Verse 1]\nThe birch trees out on Elm Street\nHave it in for me again\nI sneeze into my sleeve\nYou say bless you from the den\n\n[Pre-Chorus]\nI started keeping score\nOn the back of my hand\n\n[Chorus]\nBless you, thirty-nine\nBless you, forty too\nEvery single time\nIt comes from you\n\n[Verse 2]\nYou say it with your mouth full\nYou say it half asleep\nYou said it through the shower door\nWithout missing a beat\n\n[Pre-Chorus]\nI wasn't counting love\nI was counting tissues\n\n[Chorus]\nBless you, forty-one\nMuffled through the wall\nI think I've been blessed\nMore than I recall\n\n[Bridge - strings swell]\nLet the pollen fall all May\nI'll let you keep the count\n\n[Outro - nylon guitar alone]\nAchoo\nBless you, love"
+  },
+  "seed": "3391174974",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.62s**\n- 60.62s per song\n- LM phase (1 song): 11.43s\n- DiT phase (1 song): 49.19s",
+  "task_id": "a9b82314-5c5f-41c6-ad77-836c66c9db9f",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-30T11:04:19.946555+08:00",
+  "audio": "b17_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Intro - strings and celesta]"
+    },
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.42,
+      "end": 35.0,
+      "text": "The birch trees out on Elm Street"
+    },
+    {
+      "t": 35.0,
+      "end": 40.0,
+      "text": "Have it in for me again"
+    },
+    {
+      "t": 40.0,
+      "end": 41.82,
+      "text": "I sneeze into my sleeve"
+    },
+    {
+      "t": 42.52,
+      "end": 47.06,
+      "text": "You say bless you from the den"
+    },
+    {
+      "t": 51.05,
+      "end": 51.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.05,
+      "end": 52.65,
+      "text": "I started keeping score"
+    },
+    {
+      "t": 52.65,
+      "end": 53.17,
+      "text": "On the back of my hand"
+    },
+    {
+      "t": 53.17,
+      "end": 53.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.17,
+      "end": 54.15,
+      "text": "Bless you, thirty-nine"
+    },
+    {
+      "t": 54.29,
+      "end": 56.87,
+      "text": "Bless you, forty too"
+    },
+    {
+      "t": 60.19,
+      "end": 63.35,
+      "text": "Every single time"
+    },
+    {
+      "t": 64.81,
+      "end": 68.23,
+      "text": "It comes from you"
+    },
+    {
+      "t": 81.53,
+      "end": 81.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.53,
+      "end": 84.79,
+      "text": "You say it with your mouth full"
+    },
+    {
+      "t": 86.59,
+      "end": 88.45,
+      "text": "You say it half asleep"
+    },
+    {
+      "t": 88.45,
+      "end": 89.53,
+      "text": "You said it through the shower door"
+    },
+    {
+      "t": 89.91,
+      "end": 93.89,
+      "text": "Without missing a beat"
+    },
+    {
+      "t": 93.89,
+      "end": 93.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.89,
+      "end": 98.11,
+      "text": "I wasn't counting love"
+    },
+    {
+      "t": 98.25,
+      "end": 100.55,
+      "text": "I was counting tissues"
+    },
+    {
+      "t": 100.55,
+      "end": 100.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.55,
+      "end": 113.73,
+      "text": "Bless you, forty-one"
+    },
+    {
+      "t": 116.51,
+      "end": 119.09,
+      "text": "Muffled through the wall"
+    },
+    {
+      "t": 119.17,
+      "end": 128.13,
+      "text": "I think I've been blessed"
+    },
+    {
+      "t": 128.13,
+      "end": 141.79,
+      "text": "More than I recall"
+    },
+    {
+      "t": 141.81,
+      "end": 141.81,
+      "text": "[Bridge - strings swell]"
+    },
+    {
+      "t": 141.81,
+      "end": 145.53,
+      "text": "Let the pollen fall all May"
+    },
+    {
+      "t": 145.63,
+      "end": 149.13,
+      "text": "I'll let you keep the count"
+    },
+    {
+      "t": 149.19,
+      "end": 149.19,
+      "text": "[Outro - nylon guitar alone]"
+    },
+    {
+      "t": 149.19,
+      "end": 152.28,
+      "text": "Achoo"
+    },
+    {
+      "t": 158.02,
+      "end": 160.06,
+      "text": "Bless you, love"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Intro - strings and celesta]"
+    },
+    {
+      "t": 31.42,
+      "end": 31.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.42,
+      "end": 34.94,
+      "text": "The birch trees out on Elm Street"
+    },
+    {
+      "t": 34.94,
+      "end": 40.18,
+      "text": "Have it in for me again"
+    },
+    {
+      "t": 40.26,
+      "end": 42.16,
+      "text": "I sneeze into my sleeve"
+    },
+    {
+      "t": 42.52,
+      "end": 47.06,
+      "text": "You say bless you from the den"
+    },
+    {
+      "t": 51.05,
+      "end": 51.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.05,
+      "end": 52.65,
+      "text": "I started keeping score"
+    },
+    {
+      "t": 52.65,
+      "end": 53.19,
+      "text": "On the back of my hand"
+    },
+    {
+      "t": 53.19,
+      "end": 53.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.19,
+      "end": 54.37,
+      "text": "Bless you, thirty-nine"
+    },
+    {
+      "t": 54.37,
+      "end": 56.93,
+      "text": "Bless you, forty too"
+    },
+    {
+      "t": 60.17,
+      "end": 63.35,
+      "text": "Every single time"
+    },
+    {
+      "t": 64.79,
+      "end": 68.19,
+      "text": "It comes from you"
+    },
+    {
+      "t": 81.51,
+      "end": 81.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.51,
+      "end": 84.91,
+      "text": "You say it with your mouth full"
+    },
+    {
+      "t": 86.59,
+      "end": 88.81,
+      "text": "You say it half asleep"
+    },
+    {
+      "t": 88.81,
+      "end": 94.23,
+      "text": "You said it through the shower door"
+    },
+    {
+      "t": 94.23,
+      "end": 95.01,
+      "text": "Without missing a beat"
+    },
+    {
+      "t": 95.03,
+      "end": 95.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.03,
+      "end": 98.11,
+      "text": "I wasn't counting love"
+    },
+    {
+      "t": 98.25,
+      "end": 100.57,
+      "text": "I was counting tissues"
+    },
+    {
+      "t": 100.57,
+      "end": 100.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.57,
+      "end": 116.79,
+      "text": "Bless you, forty-one"
+    },
+    {
+      "t": 116.79,
+      "end": 119.09,
+      "text": "Muffled through the wall"
+    },
+    {
+      "t": 119.17,
+      "end": 132.05,
+      "text": "I think I've been blessed"
+    },
+    {
+      "t": 132.09,
+      "end": 141.77,
+      "text": "More than I recall"
+    },
+    {
+      "t": 141.81,
+      "end": 141.81,
+      "text": "[Bridge - strings swell]"
+    },
+    {
+      "t": 141.81,
+      "end": 144.41,
+      "text": "Let the pollen fall all May"
+    },
+    {
+      "t": 144.49,
+      "end": 159.9,
+      "text": "I'll let you keep the count"
+    },
+    {
+      "t": 159.96,
+      "end": 159.96,
+      "text": "[Outro - nylon guitar alone]"
+    },
+    {
+      "t": 159.96,
+      "end": 160.12,
+      "text": "Achoo"
+    },
+    {
+      "t": 160.12,
+      "end": 185.34,
+      "text": "Bless you, love"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

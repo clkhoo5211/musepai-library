@@ -1,0 +1,489 @@
+{
+  "id": "b17_ko03",
+  "title": "못 자국 세 개",
+  "title_source": "scripted",
+  "genre": "Korean Mixx-pop genre-switch pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "comic, theatrical, tit-for-tat",
+  "persona": "",
+  "subject": "a tenant moving out who argues with her landlord over every one of three nail holes he wants to deduct from her deposit, bringing her own photos from move-in day",
+  "caption": "Korean Mixx-pop genre-switch pop, sections that cut abruptly between styles. Bright synth-pop verse beat with clipped plucks, a sudden swing horn section break with walking slap bass, a dramatic orchestra-hit and timpani bridge, then back to the synth-pop hook. Crisp idol-pop mix with hard edits between sections. Female lead, bright speech-like verses, belted hook, deadpan spoken asides. 124 BPM, D major. Courtroom-comedy tit-for-tat. No trap beat, no autotune, no ballad slowdown, no EDM drop, no rap break.",
+  "lyrics": "[Intro - synth plucks, horn stab]\n\n[Verse 1]\n이사 가는 날 아침\n주인 아저씨 줄자를 꺼내요\n벽에 못 자국 세 개\n하나에 만 원이래요\n\n[Pre-Chorus]\n잠깐만요 아저씨\n사진 좀 보실래요\n\n[Chorus]\n첫 번째는 원래 있었고\n두 번째는 시계 자리\n세 번째는 아저씨가\n에어컨 달 때 박았잖아요\n\n[Verse 2 - swing horns, slap bass]\n아저씨 안경 고쳐 쓰고\n사진을 크게 키우네요\n헛기침 두 번 하더니\n그럼 청소비는 어때\n\n[Chorus]\n첫 번째는 원래 있었고\n두 번째는 시계 자리\n청소는 어제 했어요\n창틀까지 닦았거든요\n\n[Bridge - orchestra hits, timpani]\n보증금 통장 확인\n숫자 딱 맞네요\n\n[Outro - synth plucks]\n아저씨 잘 계세요\n못은 그냥 두세요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean Mixx-pop genre-switch pop, sections that cut abruptly between styles. Bright synth-pop verse beat with clipped plucks, a sudden swing horn section break with walking slap bass, a dramatic orchestra-hit and timpani bridge, then back to the synth-pop hook. Crisp idol-pop mix with hard edits between sections. Female lead, bright speech-like verses, belted hook, deadpan spoken asides. 124 BPM, D major. Courtroom-comedy tit-for-tat. No trap beat, no autotune, no ballad slowdown, no EDM drop, no rap break.",
+    "lyrics": "[Intro - synth plucks, horn stab]\n\n[Verse 1]\n이사 가는 날 아침\n주인 아저씨 줄자를 꺼내요\n벽에 못 자국 세 개\n하나에 만 원이래요\n\n[Pre-Chorus]\n잠깐만요 아저씨\n사진 좀 보실래요\n\n[Chorus]\n첫 번째는 원래 있었고\n두 번째는 시계 자리\n세 번째는 아저씨가\n에어컨 달 때 박았잖아요\n\n[Verse 2 - swing horns, slap bass]\n아저씨 안경 고쳐 쓰고\n사진을 크게 키우네요\n헛기침 두 번 하더니\n그럼 청소비는 어때\n\n[Chorus]\n첫 번째는 원래 있었고\n두 번째는 시계 자리\n청소는 어제 했어요\n창틀까지 닦았거든요\n\n[Bridge - orchestra hits, timpani]\n보증금 통장 확인\n숫자 딱 맞네요\n\n[Outro - synth plucks]\n아저씨 잘 계세요\n못은 그냥 두세요"
+  },
+  "seed": "2166943609",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 112.42s**\n- 112.42s per song\n- LM phase (1 song): 17.41s\n- DiT phase (1 song): 95.01s",
+  "task_id": "5155cc7d-c60c-4215-9d11-cb808d8a1c22",
+  "elapsed_s": 150.8,
+  "generated_at": "2026-10-30T10:14:38.409954+08:00",
+  "audio": "b17_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Intro - synth plucks, horn stab]"
+    },
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.26,
+      "end": 18.26,
+      "text": "이사 가는 날 아침"
+    },
+    {
+      "t": 19.06,
+      "end": 27.3,
+      "text": "주인 아저씨 줄자를 꺼내요"
+    },
+    {
+      "t": 30.68,
+      "end": 33.06,
+      "text": "벽에 못 자국 세 개"
+    },
+    {
+      "t": 34.08,
+      "end": 38.68,
+      "text": "하나에 만 원이래요"
+    },
+    {
+      "t": 38.7,
+      "end": 38.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.7,
+      "end": 40.34,
+      "text": "잠깐만요 아저씨"
+    },
+    {
+      "t": 40.34,
+      "end": 42.78,
+      "text": "사진 좀 보실래요"
+    },
+    {
+      "t": 46.2,
+      "end": 46.2,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.2,
+      "end": 62.77,
+      "text": "첫 번째는 원래 있었고"
+    },
+    {
+      "t": 64.13,
+      "end": 66.69,
+      "text": "두 번째는 시계 자리"
+    },
+    {
+      "t": 67.97,
+      "end": 70.51,
+      "text": "세 번째는 아저씨가"
+    },
+    {
+      "t": 71.95,
+      "end": 76.37,
+      "text": "에어컨 달 때 박았잖아요"
+    },
+    {
+      "t": 80.17,
+      "end": 80.17,
+      "text": "[Verse 2 - swing horns, slap bass]"
+    },
+    {
+      "t": 80.17,
+      "end": 84.35,
+      "text": "아저씨 안경 고쳐 쓰고"
+    },
+    {
+      "t": 87.81,
+      "end": 97.39,
+      "text": "사진을 크게 키우네요"
+    },
+    {
+      "t": 101.35,
+      "end": 103.43,
+      "text": "헛기침 두 번 하더니"
+    },
+    {
+      "t": 105.19,
+      "end": 107.75,
+      "text": "그럼 청소비는 어때"
+    },
+    {
+      "t": 111.43,
+      "end": 111.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.43,
+      "end": 114.73,
+      "text": "첫 번째는 원래 있었고"
+    },
+    {
+      "t": 115.29,
+      "end": 119.11,
+      "text": "두 번째는 시계 자리"
+    },
+    {
+      "t": 119.13,
+      "end": 122.01,
+      "text": "청소는 어제 했어요"
+    },
+    {
+      "t": 127.35,
+      "end": 131.21,
+      "text": "창틀까지 닦았거든요"
+    },
+    {
+      "t": 131.39,
+      "end": 131.39,
+      "text": "[Bridge - orchestra hits, timpani]"
+    },
+    {
+      "t": 131.39,
+      "end": 148.68,
+      "text": "보증금 통장 확인"
+    },
+    {
+      "t": 160.42,
+      "end": 162.32,
+      "text": "숫자 딱 맞네요"
+    },
+    {
+      "t": 169.3,
+      "end": 169.3,
+      "text": "[Outro - synth plucks]"
+    },
+    {
+      "t": 169.3,
+      "end": 172.12,
+      "text": "아저씨 잘 계세요"
+    },
+    {
+      "t": 173.62,
+      "end": 175.96,
+      "text": "못은 그냥 두세요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Intro - synth plucks, horn stab]"
+    },
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.26,
+      "end": 18.26,
+      "text": "이사 가는 날 아침"
+    },
+    {
+      "t": 19.06,
+      "end": 27.3,
+      "text": "주인 아저씨 줄자를 꺼내요"
+    },
+    {
+      "t": 30.68,
+      "end": 33.06,
+      "text": "벽에 못 자국 세 개"
+    },
+    {
+      "t": 34.08,
+      "end": 38.9,
+      "text": "하나에 만 원이래요"
+    },
+    {
+      "t": 38.94,
+      "end": 38.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.94,
+      "end": 40.34,
+      "text": "잠깐만요 아저씨"
+    },
+    {
+      "t": 40.34,
+      "end": 42.78,
+      "text": "사진 좀 보실래요"
+    },
+    {
+      "t": 46.2,
+      "end": 46.2,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.2,
+      "end": 62.77,
+      "text": "첫 번째는 원래 있었고"
+    },
+    {
+      "t": 64.13,
+      "end": 66.69,
+      "text": "두 번째는 시계 자리"
+    },
+    {
+      "t": 67.97,
+      "end": 70.51,
+      "text": "세 번째는 아저씨가"
+    },
+    {
+      "t": 71.95,
+      "end": 76.37,
+      "text": "에어컨 달 때 박았잖아요"
+    },
+    {
+      "t": 80.17,
+      "end": 80.17,
+      "text": "[Verse 2 - swing horns, slap bass]"
+    },
+    {
+      "t": 80.17,
+      "end": 84.35,
+      "text": "아저씨 안경 고쳐 쓰고"
+    },
+    {
+      "t": 87.81,
+      "end": 97.39,
+      "text": "사진을 크게 키우네요"
+    },
+    {
+      "t": 101.35,
+      "end": 103.43,
+      "text": "헛기침 두 번 하더니"
+    },
+    {
+      "t": 105.19,
+      "end": 107.75,
+      "text": "그럼 청소비는 어때"
+    },
+    {
+      "t": 111.41,
+      "end": 111.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.41,
+      "end": 114.73,
+      "text": "첫 번째는 원래 있었고"
+    },
+    {
+      "t": 115.29,
+      "end": 119.11,
+      "text": "두 번째는 시계 자리"
+    },
+    {
+      "t": 119.13,
+      "end": 122.01,
+      "text": "청소는 어제 했어요"
+    },
+    {
+      "t": 127.35,
+      "end": 131.21,
+      "text": "창틀까지 닦았거든요"
+    },
+    {
+      "t": 131.39,
+      "end": 131.39,
+      "text": "[Bridge - orchestra hits, timpani]"
+    },
+    {
+      "t": 131.39,
+      "end": 148.68,
+      "text": "보증금 통장 확인"
+    },
+    {
+      "t": 160.42,
+      "end": 162.32,
+      "text": "숫자 딱 맞네요"
+    },
+    {
+      "t": 169.3,
+      "end": 169.3,
+      "text": "[Outro - synth plucks]"
+    },
+    {
+      "t": 169.3,
+      "end": 172.12,
+      "text": "아저씨 잘 계세요"
+    },
+    {
+      "t": 173.62,
+      "end": 175.96,
+      "text": "못은 그냥 두세요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Intro - synth plucks, horn stab]"
+    },
+    {
+      "t": 15.26,
+      "end": 15.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.26,
+      "end": 18.22,
+      "text": "이사 가는 날 아침"
+    },
+    {
+      "t": 19.06,
+      "end": 27.28,
+      "text": "주인 아저씨 줄자를 꺼내요"
+    },
+    {
+      "t": 30.68,
+      "end": 33.06,
+      "text": "벽에 못 자국 세 개"
+    },
+    {
+      "t": 34.08,
+      "end": 38.88,
+      "text": "하나에 만 원이래요"
+    },
+    {
+      "t": 38.92,
+      "end": 38.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.92,
+      "end": 47.32,
+      "text": "잠깐만요 아저씨"
+    },
+    {
+      "t": 47.62,
+      "end": 56.75,
+      "text": "사진 좀 보실래요"
+    },
+    {
+      "t": 56.79,
+      "end": 56.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.79,
+      "end": 62.79,
+      "text": "첫 번째는 원래 있었고"
+    },
+    {
+      "t": 64.13,
+      "end": 66.69,
+      "text": "두 번째는 시계 자리"
+    },
+    {
+      "t": 67.95,
+      "end": 70.53,
+      "text": "세 번째는 아저씨가"
+    },
+    {
+      "t": 71.95,
+      "end": 76.37,
+      "text": "에어컨 달 때 박았잖아요"
+    },
+    {
+      "t": 80.17,
+      "end": 80.17,
+      "text": "[Verse 2 - swing horns, slap bass]"
+    },
+    {
+      "t": 80.17,
+      "end": 84.33,
+      "text": "아저씨 안경 고쳐 쓰고"
+    },
+    {
+      "t": 87.79,
+      "end": 88.87,
+      "text": "사진을 크게 키우네요"
+    },
+    {
+      "t": 88.87,
+      "end": 91.83,
+      "text": "헛기침 두 번 하더니"
+    },
+    {
+      "t": 95.11,
+      "end": 101.73,
+      "text": "그럼 청소비는 어때"
+    },
+    {
+      "t": 101.81,
+      "end": 101.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.81,
+      "end": 107.23,
+      "text": "첫 번째는 원래 있었고"
+    },
+    {
+      "t": 107.43,
+      "end": 117.59,
+      "text": "두 번째는 시계 자리"
+    },
+    {
+      "t": 119.13,
+      "end": 122.01,
+      "text": "청소는 어제 했어요"
+    },
+    {
+      "t": 127.37,
+      "end": 131.21,
+      "text": "창틀까지 닦았거든요"
+    },
+    {
+      "t": 133.73,
+      "end": 133.73,
+      "text": "[Bridge - orchestra hits, timpani]"
+    },
+    {
+      "t": 133.73,
+      "end": 149.08,
+      "text": "보증금 통장 확인"
+    },
+    {
+      "t": 160.42,
+      "end": 162.32,
+      "text": "숫자 딱 맞네요"
+    },
+    {
+      "t": 169.32,
+      "end": 169.32,
+      "text": "[Outro - synth plucks]"
+    },
+    {
+      "t": 169.32,
+      "end": 172.12,
+      "text": "아저씨 잘 계세요"
+    },
+    {
+      "t": 173.62,
+      "end": 175.96,
+      "text": "못은 그냥 두세요"
+    }
+  ]
+}

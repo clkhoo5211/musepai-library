@@ -1,0 +1,444 @@
+{
+  "id": "b17_vi05",
+  "title": "Mười Hai Giờ Lệch",
+  "title_source": "scripted",
+  "genre": "Vietnamese salsa dura",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "lively, comic, sunny",
+  "persona": "",
+  "subject": "a retired Biên Hòa man who collects and repairs old mechanical wall clocks, so every clock in his house strikes noon at a different minute and lunch never starts on time",
+  "caption": "Vietnamese salsa dura, 1970s New York salsa style. Piano playing driving montuno patterns; two trombones with hard punchy riffs; congas and timbales locked in clave with cowbell; round baby bass tumbao. Loud live-band mix with punchy brass and dry percussion. Male sonero lead, bright mid register, call-and-response coro in Vietnamese. 186 BPM, C minor. Lively, comic and sunny. No reggaeton beat, no autotune, no EDM synths, no rock guitar, no pop ballad section.",
+  "lyrics": "[Intro - piano montuno and trombones]\n\n[Verse 1]\nBa tôi về hưu sửa đồng hồ\nTreo đầy tường mười bảy cái\nCái nào cũng do ba lên dây\nNhưng không cái nào giống cái nào\n\n[Pre-Chorus]\nMười hai giờ, boong một cái\nRồi năm phút sau boong nữa\n\n[Chorus]\nMười hai giờ lệch, cả nhà chờ\nMẹ bưng nồi canh đứng đợi hoài\nBa bảo khoan, còn cái cuối\nĐánh xong mới được ăn cơm\n\n[Verse 2]\nMẹ mua cái đồng hồ điện tử\nBa giấu ngay vào trong tủ\nBa nói đồng hồ không biết boong\nThì sao biết được trưa chưa\n\n[Chorus]\nMười hai giờ lệch, cả nhà chờ\nCanh nguội rồi mẹ hâm lần hai\nBa bảo khoan, còn cái cuối\nBoong một tiếng, ăn thôi\n\n[Outro - coro and timbales]\nMười hai giờ lệch\nCả xóm biết giờ cơm nhà tôi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 186,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese salsa dura, 1970s New York salsa style. Piano playing driving montuno patterns; two trombones with hard punchy riffs; congas and timbales locked in clave with cowbell; round baby bass tumbao. Loud live-band mix with punchy brass and dry percussion. Male sonero lead, bright mid register, call-and-response coro in Vietnamese. 186 BPM, C minor. Lively, comic and sunny. No reggaeton beat, no autotune, no EDM synths, no rock guitar, no pop ballad section.",
+    "lyrics": "[Intro - piano montuno and trombones]\n\n[Verse 1]\nBa tôi về hưu sửa đồng hồ\nTreo đầy tường mười bảy cái\nCái nào cũng do ba lên dây\nNhưng không cái nào giống cái nào\n\n[Pre-Chorus]\nMười hai giờ, boong một cái\nRồi năm phút sau boong nữa\n\n[Chorus]\nMười hai giờ lệch, cả nhà chờ\nMẹ bưng nồi canh đứng đợi hoài\nBa bảo khoan, còn cái cuối\nĐánh xong mới được ăn cơm\n\n[Verse 2]\nMẹ mua cái đồng hồ điện tử\nBa giấu ngay vào trong tủ\nBa nói đồng hồ không biết boong\nThì sao biết được trưa chưa\n\n[Chorus]\nMười hai giờ lệch, cả nhà chờ\nCanh nguội rồi mẹ hâm lần hai\nBa bảo khoan, còn cái cuối\nBoong một tiếng, ăn thôi\n\n[Outro - coro and timbales]\nMười hai giờ lệch\nCả xóm biết giờ cơm nhà tôi"
+  },
+  "seed": "3090205790",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.88s**\n- 73.88s per song\n- LM phase (1 song): 18.09s\n- DiT phase (1 song): 55.79s",
+  "task_id": "2cf1bcaf-df4c-4c5b-bc03-a5a3296f4b52",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-10-30T18:32:11.757808+08:00",
+  "audio": "b17_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Intro - piano montuno and trombones]"
+    },
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 61.89,
+      "end": 62.95,
+      "text": "Ba tôi về hưu sửa đồng hồ"
+    },
+    {
+      "t": 62.95,
+      "end": 63.87,
+      "text": "Treo đầy tường mười bảy cái"
+    },
+    {
+      "t": 63.87,
+      "end": 66.97,
+      "text": "Cái nào cũng do ba lên dây"
+    },
+    {
+      "t": 67.05,
+      "end": 68.51,
+      "text": "Nhưng không cái nào giống cái nào"
+    },
+    {
+      "t": 68.51,
+      "end": 68.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.51,
+      "end": 72.83,
+      "text": "Mười hai giờ, boong một cái"
+    },
+    {
+      "t": 73.01,
+      "end": 100.39,
+      "text": "Rồi năm phút sau boong nữa"
+    },
+    {
+      "t": 100.39,
+      "end": 100.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.39,
+      "end": 104.19,
+      "text": "Mười hai giờ lệch, cả nhà chờ"
+    },
+    {
+      "t": 104.49,
+      "end": 107.61,
+      "text": "Mẹ bưng nồi canh đứng đợi hoài"
+    },
+    {
+      "t": 107.71,
+      "end": 110.07,
+      "text": "Ba bảo khoan, còn cái cuối"
+    },
+    {
+      "t": 110.33,
+      "end": 114.05,
+      "text": "Đánh xong mới được ăn cơm"
+    },
+    {
+      "t": 114.07,
+      "end": 114.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 114.07,
+      "end": 123.33,
+      "text": "Mẹ mua cái đồng hồ điện tử"
+    },
+    {
+      "t": 123.43,
+      "end": 133.43,
+      "text": "Ba giấu ngay vào trong tủ"
+    },
+    {
+      "t": 133.43,
+      "end": 138.81,
+      "text": "Ba nói đồng hồ không biết boong"
+    },
+    {
+      "t": 138.83,
+      "end": 141.57,
+      "text": "Thì sao biết được trưa chưa"
+    },
+    {
+      "t": 141.69,
+      "end": 141.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.69,
+      "end": 148.61,
+      "text": "Mười hai giờ lệch, cả nhà chờ"
+    },
+    {
+      "t": 148.77,
+      "end": 156.2,
+      "text": "Canh nguội rồi mẹ hâm lần hai"
+    },
+    {
+      "t": 157.86,
+      "end": 169.04,
+      "text": "Ba bảo khoan, còn cái cuối"
+    },
+    {
+      "t": 169.04,
+      "end": 172.92,
+      "text": "Boong một tiếng, ăn thôi"
+    },
+    {
+      "t": 172.98,
+      "end": 172.98,
+      "text": "[Outro - coro and timbales]"
+    },
+    {
+      "t": 172.98,
+      "end": 178.08,
+      "text": "Mười hai giờ lệch"
+    },
+    {
+      "t": 178.08,
+      "end": 187.62,
+      "text": "Cả xóm biết giờ cơm nhà tôi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Intro - piano montuno and trombones]"
+    },
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 61.89,
+      "end": 62.95,
+      "text": "Ba tôi về hưu sửa đồng hồ"
+    },
+    {
+      "t": 62.95,
+      "end": 63.87,
+      "text": "Treo đầy tường mười bảy cái"
+    },
+    {
+      "t": 63.87,
+      "end": 66.97,
+      "text": "Cái nào cũng do ba lên dây"
+    },
+    {
+      "t": 67.05,
+      "end": 68.51,
+      "text": "Nhưng không cái nào giống cái nào"
+    },
+    {
+      "t": 68.51,
+      "end": 68.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.51,
+      "end": 72.83,
+      "text": "Mười hai giờ, boong một cái"
+    },
+    {
+      "t": 73.01,
+      "end": 100.39,
+      "text": "Rồi năm phút sau boong nữa"
+    },
+    {
+      "t": 100.39,
+      "end": 100.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.39,
+      "end": 104.19,
+      "text": "Mười hai giờ lệch, cả nhà chờ"
+    },
+    {
+      "t": 104.49,
+      "end": 107.61,
+      "text": "Mẹ bưng nồi canh đứng đợi hoài"
+    },
+    {
+      "t": 107.71,
+      "end": 110.07,
+      "text": "Ba bảo khoan, còn cái cuối"
+    },
+    {
+      "t": 110.33,
+      "end": 114.05,
+      "text": "Đánh xong mới được ăn cơm"
+    },
+    {
+      "t": 114.07,
+      "end": 114.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 114.07,
+      "end": 123.33,
+      "text": "Mẹ mua cái đồng hồ điện tử"
+    },
+    {
+      "t": 123.43,
+      "end": 133.43,
+      "text": "Ba giấu ngay vào trong tủ"
+    },
+    {
+      "t": 133.43,
+      "end": 138.81,
+      "text": "Ba nói đồng hồ không biết boong"
+    },
+    {
+      "t": 138.83,
+      "end": 141.57,
+      "text": "Thì sao biết được trưa chưa"
+    },
+    {
+      "t": 141.69,
+      "end": 141.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.69,
+      "end": 148.61,
+      "text": "Mười hai giờ lệch, cả nhà chờ"
+    },
+    {
+      "t": 148.77,
+      "end": 156.2,
+      "text": "Canh nguội rồi mẹ hâm lần hai"
+    },
+    {
+      "t": 157.86,
+      "end": 169.04,
+      "text": "Ba bảo khoan, còn cái cuối"
+    },
+    {
+      "t": 169.04,
+      "end": 172.92,
+      "text": "Boong một tiếng, ăn thôi"
+    },
+    {
+      "t": 172.98,
+      "end": 172.98,
+      "text": "[Outro - coro and timbales]"
+    },
+    {
+      "t": 172.98,
+      "end": 178.08,
+      "text": "Mười hai giờ lệch"
+    },
+    {
+      "t": 178.08,
+      "end": 187.62,
+      "text": "Cả xóm biết giờ cơm nhà tôi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 6.18,
+      "end": 6.18,
+      "text": "[Intro - piano montuno and trombones]"
+    },
+    {
+      "t": 6.18,
+      "end": 6.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.18,
+      "end": 7.28,
+      "text": "Ba tôi về hưu sửa đồng hồ"
+    },
+    {
+      "t": 7.3,
+      "end": 22.74,
+      "text": "Treo đầy tường mười bảy cái"
+    },
+    {
+      "t": 31.2,
+      "end": 33.28,
+      "text": "Cái nào cũng do ba lên dây"
+    },
+    {
+      "t": 35.44,
+      "end": 37.68,
+      "text": "Nhưng không cái nào giống cái nào"
+    },
+    {
+      "t": 39.98,
+      "end": 39.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.98,
+      "end": 45.18,
+      "text": "Mười hai giờ, boong một cái"
+    },
+    {
+      "t": 45.28,
+      "end": 46.8,
+      "text": "Rồi năm phút sau boong nữa"
+    },
+    {
+      "t": 51.63,
+      "end": 51.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.63,
+      "end": 53.59,
+      "text": "Mười hai giờ lệch, cả nhà chờ"
+    },
+    {
+      "t": 56.77,
+      "end": 58.83,
+      "text": "Mẹ bưng nồi canh đứng đợi hoài"
+    },
+    {
+      "t": 62.03,
+      "end": 64.03,
+      "text": "Ba bảo khoan, còn cái cuối"
+    },
+    {
+      "t": 64.55,
+      "end": 66.73,
+      "text": "Đánh xong mới được ăn cơm"
+    },
+    {
+      "t": 82.27,
+      "end": 82.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.27,
+      "end": 84.07,
+      "text": "Mẹ mua cái đồng hồ điện tử"
+    },
+    {
+      "t": 86.31,
+      "end": 88.41,
+      "text": "Ba giấu ngay vào trong tủ"
+    },
+    {
+      "t": 91.59,
+      "end": 94.11,
+      "text": "Ba nói đồng hồ không biết boong"
+    },
+    {
+      "t": 96.49,
+      "end": 99.13,
+      "text": "Thì sao biết được trưa chưa"
+    },
+    {
+      "t": 103.23,
+      "end": 103.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.23,
+      "end": 117.03,
+      "text": "Mười hai giờ lệch, cả nhà chờ"
+    },
+    {
+      "t": 117.21,
+      "end": 127.59,
+      "text": "Canh nguội rồi mẹ hâm lần hai"
+    },
+    {
+      "t": 128.49,
+      "end": 130.85,
+      "text": "Ba bảo khoan, còn cái cuối"
+    },
+    {
+      "t": 132.43,
+      "end": 162.3,
+      "text": "Boong một tiếng, ăn thôi"
+    },
+    {
+      "t": 165.06,
+      "end": 165.06,
+      "text": "[Outro - coro and timbales]"
+    },
+    {
+      "t": 165.06,
+      "end": 171.38,
+      "text": "Mười hai giờ lệch"
+    },
+    {
+      "t": 180.96,
+      "end": 196.16,
+      "text": "Cả xóm biết giờ cơm nhà tôi"
+    }
+  ]
+}

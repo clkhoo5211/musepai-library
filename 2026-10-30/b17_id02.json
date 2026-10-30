@@ -1,0 +1,489 @@
+{
+  "id": "b17_id02",
+  "title": "Kandang Biru di Jok Belakang",
+  "title_source": "scripted",
+  "genre": "Indonesian guitar-led male pop love ballad",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "hangat, tulus, pelan",
+  "persona": "",
+  "subject": "a young man in Depok who rides every month with his girlfriend to the vet for her old one-eyed cat, steering the motorbike while she sits behind holding the blue carrier on her lap, and realizes this is the part of the week he waits for",
+  "caption": "Indonesian guitar-led male pop love ballad, 2020s streaming-era style. Fingerpicked nylon-string guitar with a second steel-string guitar strumming softly in the chorus, gentle sustained piano chords, round warm bass, light brushed drums entering at the first chorus. Clean intimate mix, close-miked, natural room. Tender male tenor vocal, clear diction, soft falsetto touches on chorus peaks. 74 BPM, D major. Mood of quiet devoted love on an ordinary errand. No dramatic orchestra swell, no trap beat, no autotune, no electric guitar solo, no gospel choir.",
+  "lyrics": "[Intro - nylon guitar, soft piano]\n[Verse 1]\nSabtu pagi kau sudah siap\nKandang biru di pangkuanmu\nSi Item mengeong satu mata\nKau bilang, \"Pelan-pelan, ya, Sayang\"\n[Pre-Chorus]\nAku pegang setang motor\nKau pegang kandang dan pinggangku\n[Chorus]\nJalan ke dokter hewan\nLima belas menit saja\nTapi aku ingin lampu merah\nLebih lama di tiap simpang\n[Verse 2]\nDi ruang tunggu kau berbisik\nKe kucing tua yang ketakutan\nAku pura-pura baca brosur\nPadahal aku menatapmu terus\n[Chorus]\nJalan ke dokter hewan\nLima belas menit saja\nTapi aku sudah hafal\nHangat tanganmu di pinggangku\n[Bridge - piano alone, then guitar returns]\nKalau suatu hari kita menua\nBiar aku tetap yang di depan\n[Outro - soft guitar fade]\nKandang biru di jok belakang\nKau dan aku, pulang pelan-pelan",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 74,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Indonesian guitar-led male pop love ballad, 2020s streaming-era style. Fingerpicked nylon-string guitar with a second steel-string guitar strumming softly in the chorus, gentle sustained piano chords, round warm bass, light brushed drums entering at the first chorus. Clean intimate mix, close-miked, natural room. Tender male tenor vocal, clear diction, soft falsetto touches on chorus peaks. 74 BPM, D major. Mood of quiet devoted love on an ordinary errand. No dramatic orchestra swell, no trap beat, no autotune, no electric guitar solo, no gospel choir.",
+    "lyrics": "[Intro - nylon guitar, soft piano]\n[Verse 1]\nSabtu pagi kau sudah siap\nKandang biru di pangkuanmu\nSi Item mengeong satu mata\nKau bilang, \"Pelan-pelan, ya, Sayang\"\n[Pre-Chorus]\nAku pegang setang motor\nKau pegang kandang dan pinggangku\n[Chorus]\nJalan ke dokter hewan\nLima belas menit saja\nTapi aku ingin lampu merah\nLebih lama di tiap simpang\n[Verse 2]\nDi ruang tunggu kau berbisik\nKe kucing tua yang ketakutan\nAku pura-pura baca brosur\nPadahal aku menatapmu terus\n[Chorus]\nJalan ke dokter hewan\nLima belas menit saja\nTapi aku sudah hafal\nHangat tanganmu di pinggangku\n[Bridge - piano alone, then guitar returns]\nKalau suatu hari kita menua\nBiar aku tetap yang di depan\n[Outro - soft guitar fade]\nKandang biru di jok belakang\nKau dan aku, pulang pelan-pelan"
+  },
+  "seed": "2420152748",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 96.02s**\n- 96.02s per song\n- LM phase (1 song): 21.14s\n- DiT phase (1 song): 74.88s",
+  "task_id": "d9832ba1-83d7-470a-b5b0-e7d969ec0b68",
+  "elapsed_s": 130.3,
+  "generated_at": "2026-10-30T10:34:22.517733+08:00",
+  "audio": "b17_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Intro - nylon guitar, soft piano]"
+    },
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.58,
+      "end": 28.44,
+      "text": "Sabtu pagi kau sudah siap"
+    },
+    {
+      "t": 30.04,
+      "end": 34.68,
+      "text": "Kandang biru di pangkuanmu"
+    },
+    {
+      "t": 36.56,
+      "end": 42.22,
+      "text": "Si Item mengeong satu mata"
+    },
+    {
+      "t": 45.7,
+      "end": 50.14,
+      "text": "Kau bilang, \"Pelan-pelan, ya, Sayang\""
+    },
+    {
+      "t": 52.4,
+      "end": 52.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.4,
+      "end": 56.51,
+      "text": "Aku pegang setang motor"
+    },
+    {
+      "t": 58.83,
+      "end": 64.91,
+      "text": "Kau pegang kandang dan pinggangku"
+    },
+    {
+      "t": 64.97,
+      "end": 64.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.97,
+      "end": 66.99,
+      "text": "Jalan ke dokter hewan"
+    },
+    {
+      "t": 66.99,
+      "end": 73.63,
+      "text": "Lima belas menit saja"
+    },
+    {
+      "t": 73.63,
+      "end": 77.51,
+      "text": "Tapi aku ingin lampu merah"
+    },
+    {
+      "t": 77.55,
+      "end": 81.67,
+      "text": "Lebih lama di tiap simpang"
+    },
+    {
+      "t": 81.73,
+      "end": 81.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.73,
+      "end": 91.29,
+      "text": "Di ruang tunggu kau berbisik"
+    },
+    {
+      "t": 91.31,
+      "end": 92.61,
+      "text": "Ke kucing tua yang ketakutan"
+    },
+    {
+      "t": 92.61,
+      "end": 95.21,
+      "text": "Aku pura-pura baca brosur"
+    },
+    {
+      "t": 96.55,
+      "end": 102.83,
+      "text": "Padahal aku menatapmu terus"
+    },
+    {
+      "t": 104.21,
+      "end": 104.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.21,
+      "end": 106.53,
+      "text": "Jalan ke dokter hewan"
+    },
+    {
+      "t": 106.53,
+      "end": 107.47,
+      "text": "Lima belas menit saja"
+    },
+    {
+      "t": 107.89,
+      "end": 111.41,
+      "text": "Tapi aku sudah hafal"
+    },
+    {
+      "t": 113.11,
+      "end": 124.95,
+      "text": "Hangat tanganmu di pinggangku"
+    },
+    {
+      "t": 158.33,
+      "end": 158.33,
+      "text": "[Bridge - piano alone, then guitar returns]"
+    },
+    {
+      "t": 158.33,
+      "end": 163.14,
+      "text": "Kalau suatu hari kita menua"
+    },
+    {
+      "t": 164.04,
+      "end": 170.96,
+      "text": "Biar aku tetap yang di depan"
+    },
+    {
+      "t": 172.74,
+      "end": 172.74,
+      "text": "[Outro - soft guitar fade]"
+    },
+    {
+      "t": 172.74,
+      "end": 177.68,
+      "text": "Kandang biru di jok belakang"
+    },
+    {
+      "t": 179.96,
+      "end": 192.9,
+      "text": "Kau dan aku, pulang pelan-pelan"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Intro - nylon guitar, soft piano]"
+    },
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.58,
+      "end": 28.44,
+      "text": "Sabtu pagi kau sudah siap"
+    },
+    {
+      "t": 30.04,
+      "end": 34.68,
+      "text": "Kandang biru di pangkuanmu"
+    },
+    {
+      "t": 36.56,
+      "end": 42.22,
+      "text": "Si Item mengeong satu mata"
+    },
+    {
+      "t": 45.7,
+      "end": 50.14,
+      "text": "Kau bilang, \"Pelan-pelan, ya, Sayang\""
+    },
+    {
+      "t": 52.4,
+      "end": 52.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.4,
+      "end": 56.51,
+      "text": "Aku pegang setang motor"
+    },
+    {
+      "t": 58.83,
+      "end": 64.91,
+      "text": "Kau pegang kandang dan pinggangku"
+    },
+    {
+      "t": 64.97,
+      "end": 64.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.97,
+      "end": 66.99,
+      "text": "Jalan ke dokter hewan"
+    },
+    {
+      "t": 66.99,
+      "end": 73.63,
+      "text": "Lima belas menit saja"
+    },
+    {
+      "t": 73.63,
+      "end": 77.51,
+      "text": "Tapi aku ingin lampu merah"
+    },
+    {
+      "t": 77.55,
+      "end": 81.67,
+      "text": "Lebih lama di tiap simpang"
+    },
+    {
+      "t": 81.73,
+      "end": 81.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.73,
+      "end": 91.29,
+      "text": "Di ruang tunggu kau berbisik"
+    },
+    {
+      "t": 91.31,
+      "end": 92.61,
+      "text": "Ke kucing tua yang ketakutan"
+    },
+    {
+      "t": 92.61,
+      "end": 95.21,
+      "text": "Aku pura-pura baca brosur"
+    },
+    {
+      "t": 96.55,
+      "end": 102.83,
+      "text": "Padahal aku menatapmu terus"
+    },
+    {
+      "t": 104.21,
+      "end": 104.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.21,
+      "end": 106.53,
+      "text": "Jalan ke dokter hewan"
+    },
+    {
+      "t": 106.53,
+      "end": 107.47,
+      "text": "Lima belas menit saja"
+    },
+    {
+      "t": 107.89,
+      "end": 111.41,
+      "text": "Tapi aku sudah hafal"
+    },
+    {
+      "t": 113.11,
+      "end": 124.95,
+      "text": "Hangat tanganmu di pinggangku"
+    },
+    {
+      "t": 158.33,
+      "end": 158.33,
+      "text": "[Bridge - piano alone, then guitar returns]"
+    },
+    {
+      "t": 158.33,
+      "end": 163.14,
+      "text": "Kalau suatu hari kita menua"
+    },
+    {
+      "t": 164.04,
+      "end": 170.96,
+      "text": "Biar aku tetap yang di depan"
+    },
+    {
+      "t": 172.74,
+      "end": 172.74,
+      "text": "[Outro - soft guitar fade]"
+    },
+    {
+      "t": 172.74,
+      "end": 177.68,
+      "text": "Kandang biru di jok belakang"
+    },
+    {
+      "t": 179.96,
+      "end": 192.9,
+      "text": "Kau dan aku, pulang pelan-pelan"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Intro - nylon guitar, soft piano]"
+    },
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.56,
+      "end": 28.24,
+      "text": "Sabtu pagi kau sudah siap"
+    },
+    {
+      "t": 30.04,
+      "end": 34.68,
+      "text": "Kandang biru di pangkuanmu"
+    },
+    {
+      "t": 36.56,
+      "end": 42.22,
+      "text": "Si Item mengeong satu mata"
+    },
+    {
+      "t": 45.7,
+      "end": 50.14,
+      "text": "Kau bilang, \"Pelan-pelan, ya, Sayang\""
+    },
+    {
+      "t": 52.46,
+      "end": 52.46,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.46,
+      "end": 56.35,
+      "text": "Aku pegang setang motor"
+    },
+    {
+      "t": 58.81,
+      "end": 64.91,
+      "text": "Kau pegang kandang dan pinggangku"
+    },
+    {
+      "t": 65.29,
+      "end": 65.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.29,
+      "end": 66.65,
+      "text": "Jalan ke dokter hewan"
+    },
+    {
+      "t": 66.65,
+      "end": 73.65,
+      "text": "Lima belas menit saja"
+    },
+    {
+      "t": 73.65,
+      "end": 77.51,
+      "text": "Tapi aku ingin lampu merah"
+    },
+    {
+      "t": 77.55,
+      "end": 81.79,
+      "text": "Lebih lama di tiap simpang"
+    },
+    {
+      "t": 81.93,
+      "end": 81.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.93,
+      "end": 84.83,
+      "text": "Di ruang tunggu kau berbisik"
+    },
+    {
+      "t": 84.85,
+      "end": 91.33,
+      "text": "Ke kucing tua yang ketakutan"
+    },
+    {
+      "t": 91.37,
+      "end": 94.93,
+      "text": "Aku pura-pura baca brosur"
+    },
+    {
+      "t": 96.57,
+      "end": 102.07,
+      "text": "Padahal aku menatapmu terus"
+    },
+    {
+      "t": 104.23,
+      "end": 104.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.23,
+      "end": 106.43,
+      "text": "Jalan ke dokter hewan"
+    },
+    {
+      "t": 106.43,
+      "end": 107.45,
+      "text": "Lima belas menit saja"
+    },
+    {
+      "t": 107.89,
+      "end": 111.37,
+      "text": "Tapi aku sudah hafal"
+    },
+    {
+      "t": 113.13,
+      "end": 117.33,
+      "text": "Hangat tanganmu di pinggangku"
+    },
+    {
+      "t": 158.33,
+      "end": 158.33,
+      "text": "[Bridge - piano alone, then guitar returns]"
+    },
+    {
+      "t": 158.33,
+      "end": 163.14,
+      "text": "Kalau suatu hari kita menua"
+    },
+    {
+      "t": 164.02,
+      "end": 170.96,
+      "text": "Biar aku tetap yang di depan"
+    },
+    {
+      "t": 172.74,
+      "end": 172.74,
+      "text": "[Outro - soft guitar fade]"
+    },
+    {
+      "t": 172.74,
+      "end": 177.66,
+      "text": "Kandang biru di jok belakang"
+    },
+    {
+      "t": 179.96,
+      "end": 192.96,
+      "text": "Kau dan aku, pulang pelan-pelan"
+    }
+  ]
+}

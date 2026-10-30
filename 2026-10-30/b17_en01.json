@@ -1,0 +1,357 @@
+{
+  "id": "b17_en01",
+  "title": "Clearance Rack Two-Step",
+  "title_source": "scripted",
+  "genre": "neotraditional honky-tonk",
+  "language": "en",
+  "language_name": "English",
+  "mood": "rowdy, sly and grinning",
+  "persona": "",
+  "subject": "a man who buys cowboy boots off the clearance rack for a Saturday dance and can't peel the bright orange $39.99 sticker off the sole, so every spin on the floor shows the whole room what he paid",
+  "caption": "Neotraditional honky-tonk, 90s-style dancehall country. Twangy Telecaster chicken-pickin' fills, crying pedal steel swells, double-stop fiddle answering each line, walking upright bass, brushed shuffle drums with a snappy snare. Dry live-band mix with slapback echo on the vocal. Male baritone with a warm Texas drawl, deadpan and winking. 118 BPM, G major. Rowdy, sly and grinning. No trap hi-hats, no autotune, no arena rock guitars, no pop synths, no hip-hop beat.",
+  "lyrics": "[Intro - Telecaster and fiddle]\n\n[Verse 1]\nFound 'em on the bottom shelf\nOstrich brown and almost new\nThirty-nine and ninety-nine\nBright orange on the left shoe\n\n[Chorus]\nEvery time I spin her round\nThat sticker winks at the crowd\nClearance rack two-step\nI'm cheap and I'm proud\n\n[Verse 2]\nTried my thumbnail, tried a key\nTried a little gasoline\nNow the whole floor knows my price\nEvery turn they read it clean\n\n[Chorus]\nEvery time I dip her low\nBack row starts to read out loud\nClearance rack two-step\nI'm cheap and I'm proud\n\n[Bridge - fiddle break]\nShe just laughed and leaned in close\nSaid her dress was half price too\n\n[Chorus]\nSo spin me, darlin', spin me round\nShow 'em both our tags right now\nClearance rack two-step\nWe're cheap and we're proud\n\n[Outro - pedal steel tag]\nThirty-nine and ninety-nine\nBest money I spent all year",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Neotraditional honky-tonk, 90s-style dancehall country. Twangy Telecaster chicken-pickin' fills, crying pedal steel swells, double-stop fiddle answering each line, walking upright bass, brushed shuffle drums with a snappy snare. Dry live-band mix with slapback echo on the vocal. Male baritone with a warm Texas drawl, deadpan and winking. 118 BPM, G major. Rowdy, sly and grinning. No trap hi-hats, no autotune, no arena rock guitars, no pop synths, no hip-hop beat.",
+    "lyrics": "[Intro - Telecaster and fiddle]\n\n[Verse 1]\nFound 'em on the bottom shelf\nOstrich brown and almost new\nThirty-nine and ninety-nine\nBright orange on the left shoe\n\n[Chorus]\nEvery time I spin her round\nThat sticker winks at the crowd\nClearance rack two-step\nI'm cheap and I'm proud\n\n[Verse 2]\nTried my thumbnail, tried a key\nTried a little gasoline\nNow the whole floor knows my price\nEvery turn they read it clean\n\n[Chorus]\nEvery time I dip her low\nBack row starts to read out loud\nClearance rack two-step\nI'm cheap and I'm proud\n\n[Bridge - fiddle break]\nShe just laughed and leaned in close\nSaid her dress was half price too\n\n[Chorus]\nSo spin me, darlin', spin me round\nShow 'em both our tags right now\nClearance rack two-step\nWe're cheap and we're proud\n\n[Outro - pedal steel tag]\nThirty-nine and ninety-nine\nBest money I spent all year"
+  },
+  "seed": "1078327590",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.92s**\n- 57.92s per song\n- LM phase (1 song): 9.88s\n- DiT phase (1 song): 48.04s",
+  "task_id": "2a175c5a-73b3-4d06-93be-350080d4c83b",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-30T11:02:59.811283+08:00",
+  "audio": "b17_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.12,
+      "end": 18.12,
+      "text": "[Intro - Telecaster and fiddle]"
+    },
+    {
+      "t": 18.12,
+      "end": 18.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.12,
+      "end": 28.76,
+      "text": "Found 'em on the bottom shelf"
+    },
+    {
+      "t": 30.14,
+      "end": 32.6,
+      "text": "Ostrich brown and almost new"
+    },
+    {
+      "t": 34.08,
+      "end": 36.8,
+      "text": "Thirty-nine and ninety-nine"
+    },
+    {
+      "t": 37.14,
+      "end": 39.34,
+      "text": "Bright orange on the left shoe"
+    },
+    {
+      "t": 43.32,
+      "end": 43.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 43.32,
+      "end": 45.84,
+      "text": "Every time I spin her round"
+    },
+    {
+      "t": 46.24,
+      "end": 48.85,
+      "text": "That sticker winks at the crowd"
+    },
+    {
+      "t": 52.25,
+      "end": 54.03,
+      "text": "Clearance rack two-step"
+    },
+    {
+      "t": 55.91,
+      "end": 57.73,
+      "text": "I'm cheap and I'm proud"
+    },
+    {
+      "t": 60.31,
+      "end": 60.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.31,
+      "end": 63.43,
+      "text": "Tried my thumbnail, tried a key"
+    },
+    {
+      "t": 65.33,
+      "end": 68.27,
+      "text": "Tried a little gasoline"
+    },
+    {
+      "t": 69.71,
+      "end": 73.05,
+      "text": "Now the whole floor knows my price"
+    },
+    {
+      "t": 73.55,
+      "end": 75.67,
+      "text": "Every turn they read it clean"
+    },
+    {
+      "t": 77.07,
+      "end": 77.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.07,
+      "end": 83.87,
+      "text": "Every time I dip her low"
+    },
+    {
+      "t": 85.05,
+      "end": 87.91,
+      "text": "Back row starts to read out loud"
+    },
+    {
+      "t": 90.05,
+      "end": 91.89,
+      "text": "Clearance rack two-step"
+    },
+    {
+      "t": 93.21,
+      "end": 95.23,
+      "text": "I'm cheap and I'm proud"
+    },
+    {
+      "t": 107.17,
+      "end": 107.17,
+      "text": "[Bridge - fiddle break]"
+    },
+    {
+      "t": 107.17,
+      "end": 111.71,
+      "text": "She just laughed and leaned in close"
+    },
+    {
+      "t": 114.27,
+      "end": 117.59,
+      "text": "Said her dress was half price too"
+    },
+    {
+      "t": 117.59,
+      "end": 117.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.59,
+      "end": 128.77,
+      "text": "So spin me, darlin', spin me round"
+    },
+    {
+      "t": 133.51,
+      "end": 136.13,
+      "text": "Show 'em both our tags right now"
+    },
+    {
+      "t": 141.17,
+      "end": 143.02,
+      "text": "Clearance rack two-step"
+    },
+    {
+      "t": 144.54,
+      "end": 146.22,
+      "text": "We're cheap and we're proud"
+    },
+    {
+      "t": 154.14,
+      "end": 154.14,
+      "text": "[Outro - pedal steel tag]"
+    },
+    {
+      "t": 154.14,
+      "end": 179.04,
+      "text": "Thirty-nine and ninety-nine"
+    },
+    {
+      "t": 179.68,
+      "end": 182.32,
+      "text": "Best money I spent all year"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.12,
+      "end": 18.12,
+      "text": "[Intro - Telecaster and fiddle]"
+    },
+    {
+      "t": 18.12,
+      "end": 18.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.12,
+      "end": 28.8,
+      "text": "Found 'em on the bottom shelf"
+    },
+    {
+      "t": 30.12,
+      "end": 32.62,
+      "text": "Ostrich brown and almost new"
+    },
+    {
+      "t": 34.08,
+      "end": 37.14,
+      "text": "Thirty-nine and ninety-nine"
+    },
+    {
+      "t": 37.14,
+      "end": 43.28,
+      "text": "Bright orange on the left shoe"
+    },
+    {
+      "t": 43.38,
+      "end": 43.38,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 43.38,
+      "end": 45.84,
+      "text": "Every time I spin her round"
+    },
+    {
+      "t": 46.24,
+      "end": 48.83,
+      "text": "That sticker winks at the crowd"
+    },
+    {
+      "t": 52.25,
+      "end": 54.05,
+      "text": "Clearance rack two-step"
+    },
+    {
+      "t": 55.91,
+      "end": 57.71,
+      "text": "I'm cheap and I'm proud"
+    },
+    {
+      "t": 60.29,
+      "end": 60.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.29,
+      "end": 63.43,
+      "text": "Tried my thumbnail, tried a key"
+    },
+    {
+      "t": 65.35,
+      "end": 68.09,
+      "text": "Tried a little gasoline"
+    },
+    {
+      "t": 69.71,
+      "end": 73.03,
+      "text": "Now the whole floor knows my price"
+    },
+    {
+      "t": 73.55,
+      "end": 75.67,
+      "text": "Every turn they read it clean"
+    },
+    {
+      "t": 82.13,
+      "end": 82.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.13,
+      "end": 83.71,
+      "text": "Every time I dip her low"
+    },
+    {
+      "t": 85.03,
+      "end": 87.93,
+      "text": "Back row starts to read out loud"
+    },
+    {
+      "t": 90.05,
+      "end": 91.89,
+      "text": "Clearance rack two-step"
+    },
+    {
+      "t": 93.21,
+      "end": 95.21,
+      "text": "I'm cheap and I'm proud"
+    },
+    {
+      "t": 107.19,
+      "end": 107.19,
+      "text": "[Bridge - fiddle break]"
+    },
+    {
+      "t": 107.19,
+      "end": 111.69,
+      "text": "She just laughed and leaned in close"
+    },
+    {
+      "t": 114.27,
+      "end": 117.65,
+      "text": "Said her dress was half price too"
+    },
+    {
+      "t": 117.65,
+      "end": 117.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.65,
+      "end": 134.01,
+      "text": "So spin me, darlin', spin me round"
+    },
+    {
+      "t": 134.07,
+      "end": 136.67,
+      "text": "Show 'em both our tags right now"
+    },
+    {
+      "t": 141.15,
+      "end": 143.02,
+      "text": "Clearance rack two-step"
+    },
+    {
+      "t": 144.52,
+      "end": 146.0,
+      "text": "We're cheap and we're proud"
+    },
+    {
+      "t": 146.0,
+      "end": 146.0,
+      "text": "[Outro - pedal steel tag]"
+    },
+    {
+      "t": 146.0,
+      "end": 179.06,
+      "text": "Thirty-nine and ninety-nine"
+    },
+    {
+      "t": 179.68,
+      "end": 182.36,
+      "text": "Best money I spent all year"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

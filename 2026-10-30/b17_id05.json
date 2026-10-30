@@ -1,0 +1,444 @@
+{
+  "id": "b17_id05",
+  "title": "Ko Pu Kaki Kiri",
+  "title_source": "scripted",
+  "genre": "Papuan yospan dance-pop",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "gembira, lucu, berdansa",
+  "persona": "",
+  "subject": "a young man in Jayapura who secretly practises yospan steps in his kitchen with a broom as his partner so he can dance with Martha at her sister's graduation party, and on the night still starts on the wrong foot until she counts for him",
+  "caption": "Papuan yospan dance-pop, modern eastern-Indonesian party style rooted in yosim pancar. Tifa hand drums driving a skipping two-step pattern, fast ukulele strum, bouncing electric bass on the offbeats, bright clean electric guitar riff, hand claps and group call-and-response shouts. Bright bouncy mix, outdoor-party feel. Warm male mid-register vocal, playful, with a friendly group answering lines. 128 BPM, C major. Mood of a nervous young man laughing at himself on the dance floor. No dangdut kendang, no EDM drop, no trap hi-hats, no autotune, no slow ballad section.",
+  "lyrics": "[Intro - tifa drums, ukulele strum, claps]\n[Verse 1]\nMalam-malam di dapur mama\nSa dansa dengan sapu lidi\nKiri, kanan, putar badan\nSapu jatuh, sa tertawa sendiri\n[Pre-Chorus]\nSabtu nanti pesta wisuda\nMartha pasti datang juga\n[Chorus]\nKo pu kaki kiri, sa pu kaki kanan\nYospan pelan-pelan, jangan dulu lari\nTifa su bunyi, semua berdiri\nMartha senyum, sa salah kaki\n[Verse 2]\nLampu warna di halaman\nMartha tarik sa ke tengah\nSa mulai dengan kaki kanan\nSemua orang tahan tawa\n[Chorus]\nKo pu kaki kiri, sa pu kaki kanan\nMartha hitung satu, dua, tiga\nTifa su bunyi, semua berdiri\nSekarang sa tra salah lagi\n[Outro - group shouts, tifa ends]\nSapu lidi di dapur mama\nTra sa pakai lagi, ee",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Papuan yospan dance-pop, modern eastern-Indonesian party style rooted in yosim pancar. Tifa hand drums driving a skipping two-step pattern, fast ukulele strum, bouncing electric bass on the offbeats, bright clean electric guitar riff, hand claps and group call-and-response shouts. Bright bouncy mix, outdoor-party feel. Warm male mid-register vocal, playful, with a friendly group answering lines. 128 BPM, C major. Mood of a nervous young man laughing at himself on the dance floor. No dangdut kendang, no EDM drop, no trap hi-hats, no autotune, no slow ballad section.",
+    "lyrics": "[Intro - tifa drums, ukulele strum, claps]\n[Verse 1]\nMalam-malam di dapur mama\nSa dansa dengan sapu lidi\nKiri, kanan, putar badan\nSapu jatuh, sa tertawa sendiri\n[Pre-Chorus]\nSabtu nanti pesta wisuda\nMartha pasti datang juga\n[Chorus]\nKo pu kaki kiri, sa pu kaki kanan\nYospan pelan-pelan, jangan dulu lari\nTifa su bunyi, semua berdiri\nMartha senyum, sa salah kaki\n[Verse 2]\nLampu warna di halaman\nMartha tarik sa ke tengah\nSa mulai dengan kaki kanan\nSemua orang tahan tawa\n[Chorus]\nKo pu kaki kiri, sa pu kaki kanan\nMartha hitung satu, dua, tiga\nTifa su bunyi, semua berdiri\nSekarang sa tra salah lagi\n[Outro - group shouts, tifa ends]\nSapu lidi di dapur mama\nTra sa pakai lagi, ee"
+  },
+  "seed": "1526066060",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 109.16s**\n- 109.16s per song\n- LM phase (1 song): 23.32s\n- DiT phase (1 song): 85.84s",
+  "task_id": "fc8d32a9-d6a2-41ba-b2e0-a199ec6ea910",
+  "elapsed_s": 140.2,
+  "generated_at": "2026-10-30T10:41:03.508905+08:00",
+  "audio": "b17_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Intro - tifa drums, ukulele strum, claps]"
+    },
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.44,
+      "end": 31.32,
+      "text": "Malam-malam di dapur mama"
+    },
+    {
+      "t": 34.44,
+      "end": 38.18,
+      "text": "Sa dansa dengan sapu lidi"
+    },
+    {
+      "t": 38.5,
+      "end": 42.36,
+      "text": "Kiri, kanan, putar badan"
+    },
+    {
+      "t": 42.36,
+      "end": 45.4,
+      "text": "Sapu jatuh, sa tertawa sendiri"
+    },
+    {
+      "t": 45.94,
+      "end": 45.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.94,
+      "end": 48.23,
+      "text": "Sabtu nanti pesta wisuda"
+    },
+    {
+      "t": 49.47,
+      "end": 53.13,
+      "text": "Martha pasti datang juga"
+    },
+    {
+      "t": 54.39,
+      "end": 54.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.39,
+      "end": 59.81,
+      "text": "Ko pu kaki kiri, sa pu kaki kanan"
+    },
+    {
+      "t": 61.43,
+      "end": 70.71,
+      "text": "Yospan pelan-pelan, jangan dulu lari"
+    },
+    {
+      "t": 71.73,
+      "end": 78.43,
+      "text": "Tifa su bunyi, semua berdiri"
+    },
+    {
+      "t": 79.47,
+      "end": 87.57,
+      "text": "Martha senyum, sa salah kaki"
+    },
+    {
+      "t": 88.13,
+      "end": 88.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.13,
+      "end": 91.41,
+      "text": "Lampu warna di halaman"
+    },
+    {
+      "t": 91.87,
+      "end": 95.19,
+      "text": "Martha tarik sa ke tengah"
+    },
+    {
+      "t": 95.61,
+      "end": 99.23,
+      "text": "Sa mulai dengan kaki kanan"
+    },
+    {
+      "t": 99.83,
+      "end": 102.83,
+      "text": "Semua orang tahan tawa"
+    },
+    {
+      "t": 103.07,
+      "end": 103.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.07,
+      "end": 111.55,
+      "text": "Ko pu kaki kiri, sa pu kaki kanan"
+    },
+    {
+      "t": 111.79,
+      "end": 128.77,
+      "text": "Martha hitung satu, dua, tiga"
+    },
+    {
+      "t": 129.37,
+      "end": 146.14,
+      "text": "Tifa su bunyi, semua berdiri"
+    },
+    {
+      "t": 150.66,
+      "end": 162.94,
+      "text": "Sekarang sa tra salah lagi"
+    },
+    {
+      "t": 165.88,
+      "end": 165.88,
+      "text": "[Outro - group shouts, tifa ends]"
+    },
+    {
+      "t": 165.88,
+      "end": 170.24,
+      "text": "Sapu lidi di dapur mama"
+    },
+    {
+      "t": 172.56,
+      "end": 180.98,
+      "text": "Tra sa pakai lagi, ee"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Intro - tifa drums, ukulele strum, claps]"
+    },
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.44,
+      "end": 31.32,
+      "text": "Malam-malam di dapur mama"
+    },
+    {
+      "t": 34.44,
+      "end": 38.18,
+      "text": "Sa dansa dengan sapu lidi"
+    },
+    {
+      "t": 38.5,
+      "end": 42.36,
+      "text": "Kiri, kanan, putar badan"
+    },
+    {
+      "t": 42.36,
+      "end": 45.4,
+      "text": "Sapu jatuh, sa tertawa sendiri"
+    },
+    {
+      "t": 45.94,
+      "end": 45.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.94,
+      "end": 48.23,
+      "text": "Sabtu nanti pesta wisuda"
+    },
+    {
+      "t": 49.47,
+      "end": 53.13,
+      "text": "Martha pasti datang juga"
+    },
+    {
+      "t": 54.39,
+      "end": 54.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.39,
+      "end": 59.81,
+      "text": "Ko pu kaki kiri, sa pu kaki kanan"
+    },
+    {
+      "t": 61.43,
+      "end": 70.71,
+      "text": "Yospan pelan-pelan, jangan dulu lari"
+    },
+    {
+      "t": 71.73,
+      "end": 78.43,
+      "text": "Tifa su bunyi, semua berdiri"
+    },
+    {
+      "t": 79.47,
+      "end": 87.57,
+      "text": "Martha senyum, sa salah kaki"
+    },
+    {
+      "t": 88.13,
+      "end": 88.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.13,
+      "end": 91.41,
+      "text": "Lampu warna di halaman"
+    },
+    {
+      "t": 91.87,
+      "end": 95.19,
+      "text": "Martha tarik sa ke tengah"
+    },
+    {
+      "t": 95.61,
+      "end": 99.23,
+      "text": "Sa mulai dengan kaki kanan"
+    },
+    {
+      "t": 99.83,
+      "end": 102.83,
+      "text": "Semua orang tahan tawa"
+    },
+    {
+      "t": 103.07,
+      "end": 103.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.07,
+      "end": 111.55,
+      "text": "Ko pu kaki kiri, sa pu kaki kanan"
+    },
+    {
+      "t": 111.79,
+      "end": 129.97,
+      "text": "Martha hitung satu, dua, tiga"
+    },
+    {
+      "t": 130.15,
+      "end": 146.14,
+      "text": "Tifa su bunyi, semua berdiri"
+    },
+    {
+      "t": 150.66,
+      "end": 162.94,
+      "text": "Sekarang sa tra salah lagi"
+    },
+    {
+      "t": 165.88,
+      "end": 165.88,
+      "text": "[Outro - group shouts, tifa ends]"
+    },
+    {
+      "t": 165.88,
+      "end": 170.24,
+      "text": "Sapu lidi di dapur mama"
+    },
+    {
+      "t": 172.56,
+      "end": 180.98,
+      "text": "Tra sa pakai lagi, ee"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Intro - tifa drums, ukulele strum, claps]"
+    },
+    {
+      "t": 27.44,
+      "end": 27.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.44,
+      "end": 31.32,
+      "text": "Malam-malam di dapur mama"
+    },
+    {
+      "t": 34.44,
+      "end": 38.6,
+      "text": "Sa dansa dengan sapu lidi"
+    },
+    {
+      "t": 38.64,
+      "end": 40.46,
+      "text": "Kiri, kanan, putar badan"
+    },
+    {
+      "t": 41.94,
+      "end": 45.4,
+      "text": "Sapu jatuh, sa tertawa sendiri"
+    },
+    {
+      "t": 45.92,
+      "end": 45.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.92,
+      "end": 48.21,
+      "text": "Sabtu nanti pesta wisuda"
+    },
+    {
+      "t": 48.77,
+      "end": 53.13,
+      "text": "Martha pasti datang juga"
+    },
+    {
+      "t": 54.39,
+      "end": 54.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.39,
+      "end": 59.79,
+      "text": "Ko pu kaki kiri, sa pu kaki kanan"
+    },
+    {
+      "t": 61.43,
+      "end": 70.71,
+      "text": "Yospan pelan-pelan, jangan dulu lari"
+    },
+    {
+      "t": 71.73,
+      "end": 78.43,
+      "text": "Tifa su bunyi, semua berdiri"
+    },
+    {
+      "t": 79.45,
+      "end": 87.57,
+      "text": "Martha senyum, sa salah kaki"
+    },
+    {
+      "t": 88.13,
+      "end": 88.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.13,
+      "end": 91.41,
+      "text": "Lampu warna di halaman"
+    },
+    {
+      "t": 91.87,
+      "end": 95.19,
+      "text": "Martha tarik sa ke tengah"
+    },
+    {
+      "t": 95.61,
+      "end": 99.23,
+      "text": "Sa mulai dengan kaki kanan"
+    },
+    {
+      "t": 99.81,
+      "end": 102.85,
+      "text": "Semua orang tahan tawa"
+    },
+    {
+      "t": 103.07,
+      "end": 103.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.07,
+      "end": 111.55,
+      "text": "Ko pu kaki kiri, sa pu kaki kanan"
+    },
+    {
+      "t": 111.77,
+      "end": 136.49,
+      "text": "Martha hitung satu, dua, tiga"
+    },
+    {
+      "t": 136.65,
+      "end": 146.14,
+      "text": "Tifa su bunyi, semua berdiri"
+    },
+    {
+      "t": 150.92,
+      "end": 174.48,
+      "text": "Sekarang sa tra salah lagi"
+    },
+    {
+      "t": 180.12,
+      "end": 180.12,
+      "text": "[Outro - group shouts, tifa ends]"
+    },
+    {
+      "t": 180.12,
+      "end": 183.98,
+      "text": "Sapu lidi di dapur mama"
+    },
+    {
+      "t": 184.12,
+      "end": 188.5,
+      "text": "Tra sa pakai lagi, ee"
+    }
+  ]
+}

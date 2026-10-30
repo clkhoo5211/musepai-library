@@ -1,0 +1,307 @@
+{
+  "id": "b17_id01",
+  "title": "Lutut Bunyi Krek",
+  "title_source": "scripted",
+  "genre": "Indonesian stoner rock",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "kocak, berat, ngegas",
+  "persona": "",
+  "subject": "a thirty-one-year-old man in Bekasi whose left knee cracks loudly every time he stands up, so he can never sneak out of a boring meeting, a sleeping baby's room or a cinema without everyone turning to look",
+  "caption": "Indonesian stoner rock, heavy groove-driven riff rock. Down-tuned fuzz guitar playing mid-tempo chugging riffs with wide bends, thick fuzz bass doubling the riff, big roomy drums with open crash and heavy tom fills, a growling Hammond-style organ in the choruses. Live-room recording, saturated and loud, slight tape warmth. Gritty male mid-low vocal, half-shouted and swaggering, with a wink. 126 BPM, E minor. Mood of a self-mocking riff party. No pop-punk, no metalcore screams, no autotune, no trap drums, no synth pads.",
+  "lyrics": "[Intro - fuzz guitar riff, heavy drums]\n[Verse 1]\nRapat jam tiga belum selesai\nAku mau kabur pelan-pelan\nKursi kugeser, napas kutahan\nTapi lututku lebih dulu bicara\n[Pre-Chorus]\nSemua kepala menoleh ke aku\nBos angkat alis, aku duduk lagi\n[Chorus]\nKrek! Lututku bunyi krek!\nUmur tiga satu, suara kayak kakek\nKrek! Mau kabur pun gagal\nLututku tukang lapor paling andal\n[Verse 2]\nBayi kakakku baru tertidur\nAku jinjit keluar dari kamar\nSatu langkah, dua langkah aman\nKrek! Dia nangis sampai subuh\n[Chorus]\nKrek! Lututku bunyi krek!\nDi bioskop pun orang ikut kaget\nKrek! Mau kabur pun gagal\nSekarang aku minum susu kalsium\n[Outro - organ swell, riff slows down]\nYa sudah, aku duduk saja\nKrek",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Indonesian stoner rock, heavy groove-driven riff rock. Down-tuned fuzz guitar playing mid-tempo chugging riffs with wide bends, thick fuzz bass doubling the riff, big roomy drums with open crash and heavy tom fills, a growling Hammond-style organ in the choruses. Live-room recording, saturated and loud, slight tape warmth. Gritty male mid-low vocal, half-shouted and swaggering, with a wink. 126 BPM, E minor. Mood of a self-mocking riff party. No pop-punk, no metalcore screams, no autotune, no trap drums, no synth pads.",
+    "lyrics": "[Intro - fuzz guitar riff, heavy drums]\n[Verse 1]\nRapat jam tiga belum selesai\nAku mau kabur pelan-pelan\nKursi kugeser, napas kutahan\nTapi lututku lebih dulu bicara\n[Pre-Chorus]\nSemua kepala menoleh ke aku\nBos angkat alis, aku duduk lagi\n[Chorus]\nKrek! Lututku bunyi krek!\nUmur tiga satu, suara kayak kakek\nKrek! Mau kabur pun gagal\nLututku tukang lapor paling andal\n[Verse 2]\nBayi kakakku baru tertidur\nAku jinjit keluar dari kamar\nSatu langkah, dua langkah aman\nKrek! Dia nangis sampai subuh\n[Chorus]\nKrek! Lututku bunyi krek!\nDi bioskop pun orang ikut kaget\nKrek! Mau kabur pun gagal\nSekarang aku minum susu kalsium\n[Outro - organ swell, riff slows down]\nYa sudah, aku duduk saja\nKrek"
+  },
+  "seed": "709737177",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 97.00s**\n- 97.00s per song\n- LM phase (1 song): 11.96s\n- DiT phase (1 song): 85.04s",
+  "task_id": "77a1f0e6-04ac-4707-87c8-0efdfd0e4b7a",
+  "elapsed_s": 130.3,
+  "generated_at": "2026-10-30T10:32:12.159074+08:00",
+  "audio": "b17_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.3,
+      "end": 34.3,
+      "text": "[Intro - fuzz guitar riff, heavy drums]"
+    },
+    {
+      "t": 34.3,
+      "end": 34.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.3,
+      "end": 38.2,
+      "text": "Rapat jam tiga belum selesai"
+    },
+    {
+      "t": 41.88,
+      "end": 46.08,
+      "text": "Aku mau kabur pelan-pelan"
+    },
+    {
+      "t": 49.42,
+      "end": 55.51,
+      "text": "Kursi kugeser, napas kutahan"
+    },
+    {
+      "t": 56.61,
+      "end": 61.31,
+      "text": "Tapi lututku lebih dulu bicara"
+    },
+    {
+      "t": 64.69,
+      "end": 64.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 64.69,
+      "end": 68.15,
+      "text": "Semua kepala menoleh ke aku"
+    },
+    {
+      "t": 68.75,
+      "end": 74.13,
+      "text": "Bos angkat alis, aku duduk lagi"
+    },
+    {
+      "t": 77.07,
+      "end": 77.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.07,
+      "end": 78.89,
+      "text": "Krek! Lututku bunyi krek!"
+    },
+    {
+      "t": 78.89,
+      "end": 82.27,
+      "text": "Umur tiga satu, suara kayak kakek"
+    },
+    {
+      "t": 84.67,
+      "end": 87.99,
+      "text": "Krek! Mau kabur pun gagal"
+    },
+    {
+      "t": 88.53,
+      "end": 93.11,
+      "text": "Lututku tukang lapor paling andal"
+    },
+    {
+      "t": 108.55,
+      "end": 108.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 108.55,
+      "end": 112.19,
+      "text": "Bayi kakakku baru tertidur"
+    },
+    {
+      "t": 116.23,
+      "end": 120.35,
+      "text": "Aku jinjit keluar dari kamar"
+    },
+    {
+      "t": 120.59,
+      "end": 123.55,
+      "text": "Satu langkah, dua langkah aman"
+    },
+    {
+      "t": 123.55,
+      "end": 128.51,
+      "text": "Krek! Dia nangis sampai subuh"
+    },
+    {
+      "t": 128.51,
+      "end": 128.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.51,
+      "end": 134.79,
+      "text": "Krek! Lututku bunyi krek!"
+    },
+    {
+      "t": 138.41,
+      "end": 142.41,
+      "text": "Di bioskop pun orang ikut kaget"
+    },
+    {
+      "t": 146.03,
+      "end": 150.34,
+      "text": "Krek! Mau kabur pun gagal"
+    },
+    {
+      "t": 151.54,
+      "end": 158.78,
+      "text": "Sekarang aku minum susu kalsium"
+    },
+    {
+      "t": 159.72,
+      "end": 159.72,
+      "text": "[Outro - organ swell, riff slows down]"
+    },
+    {
+      "t": 159.72,
+      "end": 168.06,
+      "text": "Ya sudah, aku duduk saja"
+    },
+    {
+      "t": 170.76,
+      "end": 171.14,
+      "text": "Krek"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.3,
+      "end": 34.3,
+      "text": "[Intro - fuzz guitar riff, heavy drums]"
+    },
+    {
+      "t": 34.3,
+      "end": 34.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.3,
+      "end": 38.18,
+      "text": "Rapat jam tiga belum selesai"
+    },
+    {
+      "t": 41.9,
+      "end": 46.1,
+      "text": "Aku mau kabur pelan-pelan"
+    },
+    {
+      "t": 49.42,
+      "end": 55.53,
+      "text": "Kursi kugeser, napas kutahan"
+    },
+    {
+      "t": 56.61,
+      "end": 61.31,
+      "text": "Tapi lututku lebih dulu bicara"
+    },
+    {
+      "t": 64.71,
+      "end": 64.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 64.71,
+      "end": 68.15,
+      "text": "Semua kepala menoleh ke aku"
+    },
+    {
+      "t": 68.75,
+      "end": 74.13,
+      "text": "Bos angkat alis, aku duduk lagi"
+    },
+    {
+      "t": 74.13,
+      "end": 74.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 74.13,
+      "end": 78.77,
+      "text": "Krek! Lututku bunyi krek!"
+    },
+    {
+      "t": 78.85,
+      "end": 82.31,
+      "text": "Umur tiga satu, suara kayak kakek"
+    },
+    {
+      "t": 84.69,
+      "end": 87.99,
+      "text": "Krek! Mau kabur pun gagal"
+    },
+    {
+      "t": 88.53,
+      "end": 93.15,
+      "text": "Lututku tukang lapor paling andal"
+    },
+    {
+      "t": 108.53,
+      "end": 108.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 108.53,
+      "end": 112.21,
+      "text": "Bayi kakakku baru tertidur"
+    },
+    {
+      "t": 116.25,
+      "end": 120.35,
+      "text": "Aku jinjit keluar dari kamar"
+    },
+    {
+      "t": 120.61,
+      "end": 123.31,
+      "text": "Satu langkah, dua langkah aman"
+    },
+    {
+      "t": 123.31,
+      "end": 128.49,
+      "text": "Krek! Dia nangis sampai subuh"
+    },
+    {
+      "t": 128.49,
+      "end": 128.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.49,
+      "end": 134.79,
+      "text": "Krek! Lututku bunyi krek!"
+    },
+    {
+      "t": 138.43,
+      "end": 142.43,
+      "text": "Di bioskop pun orang ikut kaget"
+    },
+    {
+      "t": 146.11,
+      "end": 150.34,
+      "text": "Krek! Mau kabur pun gagal"
+    },
+    {
+      "t": 151.54,
+      "end": 158.78,
+      "text": "Sekarang aku minum susu kalsium"
+    },
+    {
+      "t": 159.7,
+      "end": 159.7,
+      "text": "[Outro - organ swell, riff slows down]"
+    },
+    {
+      "t": 159.7,
+      "end": 168.02,
+      "text": "Ya sudah, aku duduk saja"
+    },
+    {
+      "t": 170.76,
+      "end": 171.28,
+      "text": "Krek"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

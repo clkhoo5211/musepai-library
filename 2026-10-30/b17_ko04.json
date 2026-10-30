@@ -1,0 +1,337 @@
+{
+  "id": "b17_ko04",
+  "title": "눈약은 내가 넣을게",
+  "title_source": "scripted",
+  "genre": "Korean Motown-style 60s soul pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm, tender, quietly devoted",
+  "persona": "",
+  "subject": "a man who learns to put eye drops into his girlfriend's old shih tzu twice a day because she cannot bear to do it, and he holds the dog the way he wishes he could tell her he loves her",
+  "caption": "Korean Motown-style 60s soul pop. Tambourine on every backbeat, melodic running bass guitar, chiming vibraphone fills, bright trumpet and sax horn section stabs, soft Hammond organ pads. Vintage room sound with tape warmth, drums slightly roomy. Male lead, warm tenor with gentle grit, call-and-response backing vocal trio. 112 BPM, A-flat major. Warm devoted love song with a skip in its step. No trap drums, no autotune, no modern synth bass, no EDM build, no rap verse.",
+  "lyrics": "[Intro - tambourine, bass, vibraphone]\n\n[Verse 1]\n수의사가 준 작은 병\n하루에 두 번 넣으래\n너는 강아지 눈만 봐도\n먼저 울 것 같대\n\n[Pre-Chorus]\n괜찮아 이리 줘\n내가 안고 있을게\n\n[Chorus]\n눈약은 내가 넣을게\n너는 간식만 들고 있어\n몽이가 눈 깜빡하면\n너도 같이 웃어 줘\n\n[Verse 2]\n아침 일곱 시 저녁 아홉 시\n알람 두 개 맞춰 놨어\n몽이는 이제 내 무릎에\n먼저 올라와 앉아\n\n[Chorus]\n눈약은 내가 넣을게\n네 손 떨리는 거 알아\n몽이 털 묻은 소매로\n너를 꼭 안아 줄게\n\n[Bridge - horns, organ]\n사랑한단 말은 서툴러도\n이건 잘할 수 있어\n\n[Outro - tambourine fades]\n내일 아침 일곱 시\n내가 먼저 갈게",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A-flat major",
+    "timesignature": "4",
+    "prompt": "Korean Motown-style 60s soul pop. Tambourine on every backbeat, melodic running bass guitar, chiming vibraphone fills, bright trumpet and sax horn section stabs, soft Hammond organ pads. Vintage room sound with tape warmth, drums slightly roomy. Male lead, warm tenor with gentle grit, call-and-response backing vocal trio. 112 BPM, A-flat major. Warm devoted love song with a skip in its step. No trap drums, no autotune, no modern synth bass, no EDM build, no rap verse.",
+    "lyrics": "[Intro - tambourine, bass, vibraphone]\n\n[Verse 1]\n수의사가 준 작은 병\n하루에 두 번 넣으래\n너는 강아지 눈만 봐도\n먼저 울 것 같대\n\n[Pre-Chorus]\n괜찮아 이리 줘\n내가 안고 있을게\n\n[Chorus]\n눈약은 내가 넣을게\n너는 간식만 들고 있어\n몽이가 눈 깜빡하면\n너도 같이 웃어 줘\n\n[Verse 2]\n아침 일곱 시 저녁 아홉 시\n알람 두 개 맞춰 놨어\n몽이는 이제 내 무릎에\n먼저 올라와 앉아\n\n[Chorus]\n눈약은 내가 넣을게\n네 손 떨리는 거 알아\n몽이 털 묻은 소매로\n너를 꼭 안아 줄게\n\n[Bridge - horns, organ]\n사랑한단 말은 서툴러도\n이건 잘할 수 있어\n\n[Outro - tambourine fades]\n내일 아침 일곱 시\n내가 먼저 갈게"
+  },
+  "seed": "3552661500",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 103.76s**\n- 103.76s per song\n- LM phase (1 song): 18.97s\n- DiT phase (1 song): 84.79s",
+  "task_id": "b49972cd-43d1-4e2d-83d2-c6f2f92901e5",
+  "elapsed_s": 140.6,
+  "generated_at": "2026-10-30T10:16:58.999096+08:00",
+  "audio": "b17_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.64,
+      "end": 28.64,
+      "text": "[Intro - tambourine, bass, vibraphone]"
+    },
+    {
+      "t": 28.64,
+      "end": 28.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.64,
+      "end": 31.82,
+      "text": "수의사가 준 작은 병"
+    },
+    {
+      "t": 32.12,
+      "end": 34.4,
+      "text": "하루에 두 번 넣으래"
+    },
+    {
+      "t": 36.86,
+      "end": 40.16,
+      "text": "너는 강아지 눈만 봐도"
+    },
+    {
+      "t": 41.08,
+      "end": 44.16,
+      "text": "먼저 울 것 같대"
+    },
+    {
+      "t": 45.24,
+      "end": 45.24,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.24,
+      "end": 49.28,
+      "text": "괜찮아 이리 줘"
+    },
+    {
+      "t": 49.44,
+      "end": 53.09,
+      "text": "내가 안고 있을게"
+    },
+    {
+      "t": 53.67,
+      "end": 53.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.67,
+      "end": 63.33,
+      "text": "눈약은 내가 넣을게"
+    },
+    {
+      "t": 65.37,
+      "end": 68.97,
+      "text": "너는 간식만 들고 있어"
+    },
+    {
+      "t": 70.41,
+      "end": 74.47,
+      "text": "몽이가 눈 깜빡하면"
+    },
+    {
+      "t": 74.65,
+      "end": 77.71,
+      "text": "너도 같이 웃어 줘"
+    },
+    {
+      "t": 79.53,
+      "end": 79.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.53,
+      "end": 82.53,
+      "text": "아침 일곱 시 저녁 아홉 시"
+    },
+    {
+      "t": 83.47,
+      "end": 86.67,
+      "text": "알람 두 개 맞춰 놨어"
+    },
+    {
+      "t": 87.87,
+      "end": 91.19,
+      "text": "몽이는 이제 내 무릎에"
+    },
+    {
+      "t": 92.09,
+      "end": 95.35,
+      "text": "먼저 올라와 앉아"
+    },
+    {
+      "t": 95.61,
+      "end": 95.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.61,
+      "end": 125.07,
+      "text": "눈약은 내가 넣을게"
+    },
+    {
+      "t": 125.11,
+      "end": 134.09,
+      "text": "네 손 떨리는 거 알아"
+    },
+    {
+      "t": 155.2,
+      "end": 158.28,
+      "text": "몽이 털 묻은 소매로"
+    },
+    {
+      "t": 159.72,
+      "end": 162.48,
+      "text": "너를 꼭 안아 줄게"
+    },
+    {
+      "t": 170.7,
+      "end": 170.7,
+      "text": "[Bridge - horns, organ]"
+    },
+    {
+      "t": 170.7,
+      "end": 174.44,
+      "text": "사랑한단 말은 서툴러도"
+    },
+    {
+      "t": 174.84,
+      "end": 183.54,
+      "text": "이건 잘할 수 있어"
+    },
+    {
+      "t": 183.54,
+      "end": 183.54,
+      "text": "[Outro - tambourine fades]"
+    },
+    {
+      "t": 183.54,
+      "end": 186.94,
+      "text": "내일 아침 일곱 시"
+    },
+    {
+      "t": 187.04,
+      "end": 188.52,
+      "text": "내가 먼저 갈게"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.64,
+      "end": 28.64,
+      "text": "[Intro - tambourine, bass, vibraphone]"
+    },
+    {
+      "t": 28.64,
+      "end": 28.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.64,
+      "end": 31.84,
+      "text": "수의사가 준 작은 병"
+    },
+    {
+      "t": 32.12,
+      "end": 34.42,
+      "text": "하루에 두 번 넣으래"
+    },
+    {
+      "t": 36.86,
+      "end": 40.16,
+      "text": "너는 강아지 눈만 봐도"
+    },
+    {
+      "t": 41.08,
+      "end": 44.16,
+      "text": "먼저 울 것 같대"
+    },
+    {
+      "t": 45.22,
+      "end": 45.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.22,
+      "end": 49.3,
+      "text": "괜찮아 이리 줘"
+    },
+    {
+      "t": 49.44,
+      "end": 53.09,
+      "text": "내가 안고 있을게"
+    },
+    {
+      "t": 53.09,
+      "end": 53.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.09,
+      "end": 54.95,
+      "text": "눈약은 내가 넣을게"
+    },
+    {
+      "t": 65.37,
+      "end": 68.97,
+      "text": "너는 간식만 들고 있어"
+    },
+    {
+      "t": 70.41,
+      "end": 74.47,
+      "text": "몽이가 눈 깜빡하면"
+    },
+    {
+      "t": 74.65,
+      "end": 77.71,
+      "text": "너도 같이 웃어 줘"
+    },
+    {
+      "t": 79.51,
+      "end": 79.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.51,
+      "end": 82.53,
+      "text": "아침 일곱 시 저녁 아홉 시"
+    },
+    {
+      "t": 83.47,
+      "end": 86.67,
+      "text": "알람 두 개 맞춰 놨어"
+    },
+    {
+      "t": 87.87,
+      "end": 91.21,
+      "text": "몽이는 이제 내 무릎에"
+    },
+    {
+      "t": 92.09,
+      "end": 95.35,
+      "text": "먼저 올라와 앉아"
+    },
+    {
+      "t": 95.55,
+      "end": 95.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.55,
+      "end": 126.67,
+      "text": "눈약은 내가 넣을게"
+    },
+    {
+      "t": 126.85,
+      "end": 144.59,
+      "text": "네 손 떨리는 거 알아"
+    },
+    {
+      "t": 155.2,
+      "end": 158.28,
+      "text": "몽이 털 묻은 소매로"
+    },
+    {
+      "t": 159.72,
+      "end": 162.46,
+      "text": "너를 꼭 안아 줄게"
+    },
+    {
+      "t": 170.7,
+      "end": 170.7,
+      "text": "[Bridge - horns, organ]"
+    },
+    {
+      "t": 170.7,
+      "end": 174.66,
+      "text": "사랑한단 말은 서툴러도"
+    },
+    {
+      "t": 174.84,
+      "end": 183.68,
+      "text": "이건 잘할 수 있어"
+    },
+    {
+      "t": 183.68,
+      "end": 183.68,
+      "text": "[Outro - tambourine fades]"
+    },
+    {
+      "t": 183.68,
+      "end": 184.08,
+      "text": "내일 아침 일곱 시"
+    },
+    {
+      "t": 184.08,
+      "end": 184.5,
+      "text": "내가 먼저 갈게"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

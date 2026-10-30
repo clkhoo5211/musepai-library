@@ -1,0 +1,459 @@
+{
+  "id": "b17_ms03",
+  "title": "Selasa Untuk Pakis",
+  "title_source": "scripted",
+  "genre": "eastern-Indonesian slow-jam pop ballad (Tia Monika lane)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "tender, devoted, gently amused",
+  "persona": "",
+  "subject": "a husband who learns which of his wife's twelve house plants needs water on which day, writing each name on masking tape on the pots while she is away on a two-week course in Kuching",
+  "caption": "Eastern-Indonesian slow-jam pop ballad in the Tia Monika style, sung in Malaysian Malay. Nylon-string acoustic guitar picking a gentle loop, soft warm synth pad, finger-snap and rimshot slow-jam beat, round sub bass, light ukulele strum in the chorus. Clean intimate mix, close vocal, light plate reverb. Male high baritone singing sweet and smooth with small melismas at line ends. 76 BPM, E major. Tender, devoted and gently amused. No trap hi-hats, no autotune, no EDM drop, no rock guitars, no dangdut drums.",
+  "lyrics": "[Intro - nylon guitar and finger snaps]\n\n[Verse 1]\nDua minggu awak di Kuching\nTinggal dua belas pasu\nAbang tampal pita pelekat\nTulis nama, tulis hari\n\n[Pre-Chorus]\nIsnin untuk monstera\nJangan lebih, jangan kurang\n\n[Chorus]\nSelasa untuk pakis\nRabu untuk kaktus kecil\nAbang siram ikut senarai\nSebab semua ni awak sayang\n\n[Verse 2]\nMalam abang video call\nTunjuk daun baru keluar\nAwak senyum, abang bangga\nMacam abang yang tumbuh\n\n[Pre-Chorus]\nSatu daun dah kuning\nAbang minta maaf pada dia\n\n[Chorus]\nSelasa untuk pakis\nRabu untuk kaktus kecil\nEsok awak balik rumah\nAbang pula yang perlu disiram\n\n[Outro - ukulele and nylon guitar fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Eastern-Indonesian slow-jam pop ballad in the Tia Monika style, sung in Malaysian Malay. Nylon-string acoustic guitar picking a gentle loop, soft warm synth pad, finger-snap and rimshot slow-jam beat, round sub bass, light ukulele strum in the chorus. Clean intimate mix, close vocal, light plate reverb. Male high baritone singing sweet and smooth with small melismas at line ends. 76 BPM, E major. Tender, devoted and gently amused. No trap hi-hats, no autotune, no EDM drop, no rock guitars, no dangdut drums.",
+    "lyrics": "[Intro - nylon guitar and finger snaps]\n\n[Verse 1]\nDua minggu awak di Kuching\nTinggal dua belas pasu\nAbang tampal pita pelekat\nTulis nama, tulis hari\n\n[Pre-Chorus]\nIsnin untuk monstera\nJangan lebih, jangan kurang\n\n[Chorus]\nSelasa untuk pakis\nRabu untuk kaktus kecil\nAbang siram ikut senarai\nSebab semua ni awak sayang\n\n[Verse 2]\nMalam abang video call\nTunjuk daun baru keluar\nAwak senyum, abang bangga\nMacam abang yang tumbuh\n\n[Pre-Chorus]\nSatu daun dah kuning\nAbang minta maaf pada dia\n\n[Chorus]\nSelasa untuk pakis\nRabu untuk kaktus kecil\nEsok awak balik rumah\nAbang pula yang perlu disiram\n\n[Outro - ukulele and nylon guitar fade]\n"
+  },
+  "seed": "385899177",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 89.86s**\n- 89.86s per song\n- LM phase (1 song): 18.92s\n- DiT phase (1 song): 70.94s",
+  "task_id": "0209ee42-9bf6-4f4d-b762-7db4ad6bd8e9",
+  "elapsed_s": 120.6,
+  "generated_at": "2026-10-30T10:25:41.290048+08:00",
+  "audio": "b17_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.3,
+      "end": 29.3,
+      "text": "[Intro - nylon guitar and finger snaps]"
+    },
+    {
+      "t": 29.3,
+      "end": 29.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.3,
+      "end": 32.52,
+      "text": "Dua minggu awak di Kuching"
+    },
+    {
+      "t": 35.48,
+      "end": 38.56,
+      "text": "Tinggal dua belas pasu"
+    },
+    {
+      "t": 41.76,
+      "end": 45.28,
+      "text": "Abang tampal pita pelekat"
+    },
+    {
+      "t": 46.78,
+      "end": 51.04,
+      "text": "Tulis nama, tulis hari"
+    },
+    {
+      "t": 54.29,
+      "end": 54.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.29,
+      "end": 57.29,
+      "text": "Isnin untuk monstera"
+    },
+    {
+      "t": 60.39,
+      "end": 66.43,
+      "text": "Jangan lebih, jangan kurang"
+    },
+    {
+      "t": 69.13,
+      "end": 69.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.13,
+      "end": 70.01,
+      "text": "Selasa untuk pakis"
+    },
+    {
+      "t": 70.03,
+      "end": 74.83,
+      "text": "Rabu untuk kaktus kecil"
+    },
+    {
+      "t": 74.93,
+      "end": 89.39,
+      "text": "Abang siram ikut senarai"
+    },
+    {
+      "t": 90.23,
+      "end": 94.29,
+      "text": "Sebab semua ni awak sayang"
+    },
+    {
+      "t": 97.43,
+      "end": 97.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.43,
+      "end": 100.75,
+      "text": "Malam abang video call"
+    },
+    {
+      "t": 103.67,
+      "end": 106.11,
+      "text": "Tunjuk daun baru keluar"
+    },
+    {
+      "t": 106.11,
+      "end": 106.97,
+      "text": "Awak senyum, abang bangga"
+    },
+    {
+      "t": 106.97,
+      "end": 111.35,
+      "text": "Macam abang yang tumbuh"
+    },
+    {
+      "t": 111.35,
+      "end": 111.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.35,
+      "end": 113.13,
+      "text": "Satu daun dah kuning"
+    },
+    {
+      "t": 116.19,
+      "end": 121.23,
+      "text": "Abang minta maaf pada dia"
+    },
+    {
+      "t": 121.29,
+      "end": 121.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.29,
+      "end": 125.17,
+      "text": "Selasa untuk pakis"
+    },
+    {
+      "t": 125.17,
+      "end": 147.07,
+      "text": "Rabu untuk kaktus kecil"
+    },
+    {
+      "t": 147.11,
+      "end": 151.59,
+      "text": "Esok awak balik rumah"
+    },
+    {
+      "t": 151.67,
+      "end": 155.9,
+      "text": "Abang pula yang perlu disiram"
+    },
+    {
+      "t": 155.9,
+      "end": 155.9,
+      "text": "[Outro - ukulele and nylon guitar fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.3,
+      "end": 29.3,
+      "text": "[Intro - nylon guitar and finger snaps]"
+    },
+    {
+      "t": 29.3,
+      "end": 29.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.3,
+      "end": 32.52,
+      "text": "Dua minggu awak di Kuching"
+    },
+    {
+      "t": 35.48,
+      "end": 38.56,
+      "text": "Tinggal dua belas pasu"
+    },
+    {
+      "t": 41.76,
+      "end": 45.28,
+      "text": "Abang tampal pita pelekat"
+    },
+    {
+      "t": 46.78,
+      "end": 51.04,
+      "text": "Tulis nama, tulis hari"
+    },
+    {
+      "t": 54.29,
+      "end": 54.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.29,
+      "end": 57.29,
+      "text": "Isnin untuk monstera"
+    },
+    {
+      "t": 60.39,
+      "end": 66.43,
+      "text": "Jangan lebih, jangan kurang"
+    },
+    {
+      "t": 69.13,
+      "end": 69.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.13,
+      "end": 70.01,
+      "text": "Selasa untuk pakis"
+    },
+    {
+      "t": 70.01,
+      "end": 74.83,
+      "text": "Rabu untuk kaktus kecil"
+    },
+    {
+      "t": 74.93,
+      "end": 88.25,
+      "text": "Abang siram ikut senarai"
+    },
+    {
+      "t": 90.23,
+      "end": 94.29,
+      "text": "Sebab semua ni awak sayang"
+    },
+    {
+      "t": 97.43,
+      "end": 97.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.43,
+      "end": 100.75,
+      "text": "Malam abang video call"
+    },
+    {
+      "t": 103.67,
+      "end": 106.11,
+      "text": "Tunjuk daun baru keluar"
+    },
+    {
+      "t": 106.11,
+      "end": 106.97,
+      "text": "Awak senyum, abang bangga"
+    },
+    {
+      "t": 106.97,
+      "end": 111.35,
+      "text": "Macam abang yang tumbuh"
+    },
+    {
+      "t": 111.35,
+      "end": 111.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.35,
+      "end": 113.13,
+      "text": "Satu daun dah kuning"
+    },
+    {
+      "t": 116.19,
+      "end": 121.23,
+      "text": "Abang minta maaf pada dia"
+    },
+    {
+      "t": 121.29,
+      "end": 121.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.29,
+      "end": 125.17,
+      "text": "Selasa untuk pakis"
+    },
+    {
+      "t": 125.17,
+      "end": 147.07,
+      "text": "Rabu untuk kaktus kecil"
+    },
+    {
+      "t": 147.11,
+      "end": 151.59,
+      "text": "Esok awak balik rumah"
+    },
+    {
+      "t": 151.67,
+      "end": 155.9,
+      "text": "Abang pula yang perlu disiram"
+    },
+    {
+      "t": 155.9,
+      "end": 155.9,
+      "text": "[Outro - ukulele and nylon guitar fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.3,
+      "end": 29.3,
+      "text": "[Intro - nylon guitar and finger snaps]"
+    },
+    {
+      "t": 29.3,
+      "end": 29.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.3,
+      "end": 32.54,
+      "text": "Dua minggu awak di Kuching"
+    },
+    {
+      "t": 35.48,
+      "end": 38.56,
+      "text": "Tinggal dua belas pasu"
+    },
+    {
+      "t": 41.8,
+      "end": 45.36,
+      "text": "Abang tampal pita pelekat"
+    },
+    {
+      "t": 46.78,
+      "end": 51.04,
+      "text": "Tulis nama, tulis hari"
+    },
+    {
+      "t": 54.29,
+      "end": 54.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.29,
+      "end": 57.29,
+      "text": "Isnin untuk monstera"
+    },
+    {
+      "t": 60.37,
+      "end": 66.53,
+      "text": "Jangan lebih, jangan kurang"
+    },
+    {
+      "t": 66.53,
+      "end": 66.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.53,
+      "end": 69.93,
+      "text": "Selasa untuk pakis"
+    },
+    {
+      "t": 70.01,
+      "end": 74.81,
+      "text": "Rabu untuk kaktus kecil"
+    },
+    {
+      "t": 74.93,
+      "end": 89.35,
+      "text": "Abang siram ikut senarai"
+    },
+    {
+      "t": 90.23,
+      "end": 94.31,
+      "text": "Sebab semua ni awak sayang"
+    },
+    {
+      "t": 97.43,
+      "end": 97.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 97.43,
+      "end": 100.73,
+      "text": "Malam abang video call"
+    },
+    {
+      "t": 103.67,
+      "end": 106.25,
+      "text": "Tunjuk daun baru keluar"
+    },
+    {
+      "t": 106.31,
+      "end": 108.43,
+      "text": "Awak senyum, abang bangga"
+    },
+    {
+      "t": 108.43,
+      "end": 109.65,
+      "text": "Macam abang yang tumbuh"
+    },
+    {
+      "t": 110.63,
+      "end": 110.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.63,
+      "end": 112.97,
+      "text": "Satu daun dah kuning"
+    },
+    {
+      "t": 116.21,
+      "end": 121.57,
+      "text": "Abang minta maaf pada dia"
+    },
+    {
+      "t": 122.33,
+      "end": 122.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.33,
+      "end": 131.55,
+      "text": "Selasa untuk pakis"
+    },
+    {
+      "t": 131.55,
+      "end": 146.91,
+      "text": "Rabu untuk kaktus kecil"
+    },
+    {
+      "t": 146.95,
+      "end": 149.85,
+      "text": "Esok awak balik rumah"
+    },
+    {
+      "t": 151.67,
+      "end": 155.94,
+      "text": "Abang pula yang perlu disiram"
+    },
+    {
+      "t": 155.94,
+      "end": 155.94,
+      "text": "[Outro - ukulele and nylon guitar fade]"
+    }
+  ]
+}

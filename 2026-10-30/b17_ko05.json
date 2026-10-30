@@ -1,0 +1,489 @@
+{
+  "id": "b17_ko05",
+  "title": "손가락 휘파람",
+  "title_source": "scripted",
+  "genre": "Korean highlife guitar pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "sunny, proud, gently goofy",
+  "persona": "",
+  "subject": "a 34-year-old office worker teaching herself to whistle with two fingers on her building rooftop at lunch, spitting and failing for weeks until she finally calls a taxi with it",
+  "caption": "Korean highlife guitar pop. Two interlocking clean electric guitars playing bright highlife picking patterns, steady bell pattern, warm congas, bouncing melodic bass, a soft trumpet line answering the vocal. Open, airy live-band mix. Female lead, light airy mid-range, playful sing-speak phrasing. 118 BPM, G major. Sunny lunchtime pride, gently goofy. No trap drums, no autotune, no EDM drop, no distorted guitar, no reggaeton beat.",
+  "lyrics": "[Intro - highlife guitars, bell, congas]\n\n[Verse 1]\n점심시간 옥상 구석\n손가락 두 개 입에 물고\n후 하고 불어 보면\n바람만 새고 침만 튀어\n\n[Pre-Chorus]\n서른넷에 무슨 연습\n그래도 꼭 해 볼래\n\n[Chorus]\n삐익 한 번만 나와 줘\n딱 한 번이면 돼\n옥상 비둘기 말고\n누가 좀 돌아봤으면\n\n[Verse 2]\n유튜브 영상 일곱 개\n혀를 접고 각도를 재\n경비 아저씨 지나가며\n힘내라고 웃고 가\n\n[Chorus]\n삐익 드디어 나왔어\n비둘기가 날아가\n아저씨가 박수 치고\n나 혼자 깡충 뛰었어\n\n[Bridge - trumpet solo]\n퇴근길 비 갠 사거리\n손가락 두 개 들어\n\n[Outro - guitars fade]\n삐익 택시가 서네\n기사님 안녕하세요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Korean highlife guitar pop. Two interlocking clean electric guitars playing bright highlife picking patterns, steady bell pattern, warm congas, bouncing melodic bass, a soft trumpet line answering the vocal. Open, airy live-band mix. Female lead, light airy mid-range, playful sing-speak phrasing. 118 BPM, G major. Sunny lunchtime pride, gently goofy. No trap drums, no autotune, no EDM drop, no distorted guitar, no reggaeton beat.",
+    "lyrics": "[Intro - highlife guitars, bell, congas]\n\n[Verse 1]\n점심시간 옥상 구석\n손가락 두 개 입에 물고\n후 하고 불어 보면\n바람만 새고 침만 튀어\n\n[Pre-Chorus]\n서른넷에 무슨 연습\n그래도 꼭 해 볼래\n\n[Chorus]\n삐익 한 번만 나와 줘\n딱 한 번이면 돼\n옥상 비둘기 말고\n누가 좀 돌아봤으면\n\n[Verse 2]\n유튜브 영상 일곱 개\n혀를 접고 각도를 재\n경비 아저씨 지나가며\n힘내라고 웃고 가\n\n[Chorus]\n삐익 드디어 나왔어\n비둘기가 날아가\n아저씨가 박수 치고\n나 혼자 깡충 뛰었어\n\n[Bridge - trumpet solo]\n퇴근길 비 갠 사거리\n손가락 두 개 들어\n\n[Outro - guitars fade]\n삐익 택시가 서네\n기사님 안녕하세요"
+  },
+  "seed": "1061833446",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 102.31s**\n- 102.31s per song\n- LM phase (1 song): 20.26s\n- DiT phase (1 song): 82.05s",
+  "task_id": "5f2b0605-3d58-4d8c-85e2-1bc0478266be",
+  "elapsed_s": 130.8,
+  "generated_at": "2026-10-30T10:19:09.795672+08:00",
+  "audio": "b17_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Intro - highlife guitars, bell, congas]"
+    },
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.3,
+      "end": 39.98,
+      "text": "점심시간 옥상 구석"
+    },
+    {
+      "t": 40.88,
+      "end": 44.9,
+      "text": "손가락 두 개 입에 물고"
+    },
+    {
+      "t": 46.31,
+      "end": 48.59,
+      "text": "후 하고 불어 보면"
+    },
+    {
+      "t": 49.51,
+      "end": 52.19,
+      "text": "바람만 새고 침만 튀어"
+    },
+    {
+      "t": 53.07,
+      "end": 53.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.07,
+      "end": 56.73,
+      "text": "서른넷에 무슨 연습"
+    },
+    {
+      "t": 57.97,
+      "end": 61.37,
+      "text": "그래도 꼭 해 볼래"
+    },
+    {
+      "t": 65.55,
+      "end": 65.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.55,
+      "end": 68.97,
+      "text": "삐익 한 번만 나와 줘"
+    },
+    {
+      "t": 69.55,
+      "end": 73.31,
+      "text": "딱 한 번이면 돼"
+    },
+    {
+      "t": 74.09,
+      "end": 76.47,
+      "text": "옥상 비둘기 말고"
+    },
+    {
+      "t": 77.89,
+      "end": 80.73,
+      "text": "누가 좀 돌아봤으면"
+    },
+    {
+      "t": 83.67,
+      "end": 83.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.67,
+      "end": 86.19,
+      "text": "유튜브 영상 일곱 개"
+    },
+    {
+      "t": 87.73,
+      "end": 90.23,
+      "text": "혀를 접고 각도를 재"
+    },
+    {
+      "t": 90.79,
+      "end": 94.33,
+      "text": "경비 아저씨 지나가며"
+    },
+    {
+      "t": 96.39,
+      "end": 98.85,
+      "text": "힘내라고 웃고 가"
+    },
+    {
+      "t": 99.89,
+      "end": 99.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.89,
+      "end": 104.93,
+      "text": "삐익 드디어 나왔어"
+    },
+    {
+      "t": 105.05,
+      "end": 108.51,
+      "text": "비둘기가 날아가"
+    },
+    {
+      "t": 108.99,
+      "end": 114.61,
+      "text": "아저씨가 박수 치고"
+    },
+    {
+      "t": 116.25,
+      "end": 119.23,
+      "text": "나 혼자 깡충 뛰었어"
+    },
+    {
+      "t": 119.31,
+      "end": 119.31,
+      "text": "[Bridge - trumpet solo]"
+    },
+    {
+      "t": 119.31,
+      "end": 125.23,
+      "text": "퇴근길 비 갠 사거리"
+    },
+    {
+      "t": 131.29,
+      "end": 133.49,
+      "text": "손가락 두 개 들어"
+    },
+    {
+      "t": 139.34,
+      "end": 139.34,
+      "text": "[Outro - guitars fade]"
+    },
+    {
+      "t": 139.34,
+      "end": 143.1,
+      "text": "삐익 택시가 서네"
+    },
+    {
+      "t": 147.72,
+      "end": 167.48,
+      "text": "기사님 안녕하세요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Intro - highlife guitars, bell, congas]"
+    },
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.3,
+      "end": 39.98,
+      "text": "점심시간 옥상 구석"
+    },
+    {
+      "t": 40.88,
+      "end": 44.9,
+      "text": "손가락 두 개 입에 물고"
+    },
+    {
+      "t": 46.31,
+      "end": 48.59,
+      "text": "후 하고 불어 보면"
+    },
+    {
+      "t": 49.51,
+      "end": 52.19,
+      "text": "바람만 새고 침만 튀어"
+    },
+    {
+      "t": 53.07,
+      "end": 53.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.07,
+      "end": 56.73,
+      "text": "서른넷에 무슨 연습"
+    },
+    {
+      "t": 57.97,
+      "end": 61.37,
+      "text": "그래도 꼭 해 볼래"
+    },
+    {
+      "t": 65.55,
+      "end": 65.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.55,
+      "end": 68.97,
+      "text": "삐익 한 번만 나와 줘"
+    },
+    {
+      "t": 69.55,
+      "end": 73.31,
+      "text": "딱 한 번이면 돼"
+    },
+    {
+      "t": 74.09,
+      "end": 76.47,
+      "text": "옥상 비둘기 말고"
+    },
+    {
+      "t": 77.89,
+      "end": 80.73,
+      "text": "누가 좀 돌아봤으면"
+    },
+    {
+      "t": 83.67,
+      "end": 83.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.67,
+      "end": 86.19,
+      "text": "유튜브 영상 일곱 개"
+    },
+    {
+      "t": 87.73,
+      "end": 90.23,
+      "text": "혀를 접고 각도를 재"
+    },
+    {
+      "t": 90.79,
+      "end": 94.33,
+      "text": "경비 아저씨 지나가며"
+    },
+    {
+      "t": 96.39,
+      "end": 98.85,
+      "text": "힘내라고 웃고 가"
+    },
+    {
+      "t": 99.89,
+      "end": 99.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.89,
+      "end": 104.93,
+      "text": "삐익 드디어 나왔어"
+    },
+    {
+      "t": 105.05,
+      "end": 108.51,
+      "text": "비둘기가 날아가"
+    },
+    {
+      "t": 108.99,
+      "end": 114.61,
+      "text": "아저씨가 박수 치고"
+    },
+    {
+      "t": 116.25,
+      "end": 119.23,
+      "text": "나 혼자 깡충 뛰었어"
+    },
+    {
+      "t": 119.31,
+      "end": 119.31,
+      "text": "[Bridge - trumpet solo]"
+    },
+    {
+      "t": 119.31,
+      "end": 125.23,
+      "text": "퇴근길 비 갠 사거리"
+    },
+    {
+      "t": 131.29,
+      "end": 133.49,
+      "text": "손가락 두 개 들어"
+    },
+    {
+      "t": 139.34,
+      "end": 139.34,
+      "text": "[Outro - guitars fade]"
+    },
+    {
+      "t": 139.34,
+      "end": 143.1,
+      "text": "삐익 택시가 서네"
+    },
+    {
+      "t": 147.72,
+      "end": 167.48,
+      "text": "기사님 안녕하세요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Intro - highlife guitars, bell, congas]"
+    },
+    {
+      "t": 37.3,
+      "end": 37.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.3,
+      "end": 39.98,
+      "text": "점심시간 옥상 구석"
+    },
+    {
+      "t": 40.88,
+      "end": 44.9,
+      "text": "손가락 두 개 입에 물고"
+    },
+    {
+      "t": 46.31,
+      "end": 48.57,
+      "text": "후 하고 불어 보면"
+    },
+    {
+      "t": 49.51,
+      "end": 52.19,
+      "text": "바람만 새고 침만 튀어"
+    },
+    {
+      "t": 53.07,
+      "end": 53.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.07,
+      "end": 56.77,
+      "text": "서른넷에 무슨 연습"
+    },
+    {
+      "t": 57.97,
+      "end": 63.15,
+      "text": "그래도 꼭 해 볼래"
+    },
+    {
+      "t": 63.27,
+      "end": 63.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.27,
+      "end": 68.99,
+      "text": "삐익 한 번만 나와 줘"
+    },
+    {
+      "t": 69.33,
+      "end": 73.15,
+      "text": "딱 한 번이면 돼"
+    },
+    {
+      "t": 74.09,
+      "end": 76.47,
+      "text": "옥상 비둘기 말고"
+    },
+    {
+      "t": 77.91,
+      "end": 80.75,
+      "text": "누가 좀 돌아봤으면"
+    },
+    {
+      "t": 83.67,
+      "end": 83.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.67,
+      "end": 86.19,
+      "text": "유튜브 영상 일곱 개"
+    },
+    {
+      "t": 87.73,
+      "end": 90.23,
+      "text": "혀를 접고 각도를 재"
+    },
+    {
+      "t": 90.81,
+      "end": 94.33,
+      "text": "경비 아저씨 지나가며"
+    },
+    {
+      "t": 96.39,
+      "end": 98.87,
+      "text": "힘내라고 웃고 가"
+    },
+    {
+      "t": 99.89,
+      "end": 99.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.89,
+      "end": 104.93,
+      "text": "삐익 드디어 나왔어"
+    },
+    {
+      "t": 105.05,
+      "end": 108.99,
+      "text": "비둘기가 날아가"
+    },
+    {
+      "t": 109.19,
+      "end": 114.61,
+      "text": "아저씨가 박수 치고"
+    },
+    {
+      "t": 116.25,
+      "end": 119.23,
+      "text": "나 혼자 깡충 뛰었어"
+    },
+    {
+      "t": 120.37,
+      "end": 120.37,
+      "text": "[Bridge - trumpet solo]"
+    },
+    {
+      "t": 120.37,
+      "end": 126.87,
+      "text": "퇴근길 비 갠 사거리"
+    },
+    {
+      "t": 131.29,
+      "end": 133.49,
+      "text": "손가락 두 개 들어"
+    },
+    {
+      "t": 139.36,
+      "end": 139.36,
+      "text": "[Outro - guitars fade]"
+    },
+    {
+      "t": 139.36,
+      "end": 143.1,
+      "text": "삐익 택시가 서네"
+    },
+    {
+      "t": 147.72,
+      "end": 167.48,
+      "text": "기사님 안녕하세요"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "id": "b17_ko01",
+  "title": "돌잔치 탈춤",
+  "title_source": "scripted",
+  "genre": "Korean Y2K hip-hop R&B dance pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "cheeky, sweaty, proud-uncle comedy",
+  "persona": "",
+  "subject": "a 32-year-old uncle who spends a month after work learning Bongsan mask-dance shoulder moves at the community centre to perform at his nephew's first-birthday party, and the baby bursts into tears the moment he puts on the mask",
+  "caption": "Korean Y2K hip-hop R&B dance pop, early-2000s Seoul club style. Punchy 808 kick with snappy handclaps, round plucked synth bass, staccato string stabs on the offbeats, short turntable scratch fills between phrases. Glossy, tight, dry early-2000s mix. Young male lead, chesty half-rapped verses, smooth R&B tenor on the hook. 98 BPM, F minor. Cocky, sweaty proud-uncle party comedy. No trap hi-hat rolls, no autotune, no EDM drop, no modern pluggnb pads, no acoustic guitar.",
+  "lyrics": "[Intro - scratch fill, string stabs, claps]\n\n[Verse 1]\n퇴근하고 주민센터\n탈춤 교실 맨 뒷줄\n어깨를 툭 들썩\n선생님이 아직 멀었대\n\n[Pre-Chorus]\n조카 돌잔치 딱 한 달\n삼촌이 뭘 보여 줄게\n\n[Chorus]\n어깨 들썩 한삼 휙\n무릎 굽혀 발 딛고\n삼촌 오늘 탈 쓴다\n박수 크게 쳐 줘\n\n[Verse 2]\n뷔페 접시 다 치우고\n마이크 대신 장구 소리\n탈을 딱 쓰는 순간\n조카가 울기 시작해\n\n[Chorus]\n어깨 들썩 한삼 휙\n삼촌이야 나야 나\n탈 벗고 웃어 주니\n울다가 웃는다\n\n[Outro - scratch, claps fade]\n돌잡이는 장구채\n너도 춤출 거지",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Korean Y2K hip-hop R&B dance pop, early-2000s Seoul club style. Punchy 808 kick with snappy handclaps, round plucked synth bass, staccato string stabs on the offbeats, short turntable scratch fills between phrases. Glossy, tight, dry early-2000s mix. Young male lead, chesty half-rapped verses, smooth R&B tenor on the hook. 98 BPM, F minor. Cocky, sweaty proud-uncle party comedy. No trap hi-hat rolls, no autotune, no EDM drop, no modern pluggnb pads, no acoustic guitar.",
+    "lyrics": "[Intro - scratch fill, string stabs, claps]\n\n[Verse 1]\n퇴근하고 주민센터\n탈춤 교실 맨 뒷줄\n어깨를 툭 들썩\n선생님이 아직 멀었대\n\n[Pre-Chorus]\n조카 돌잔치 딱 한 달\n삼촌이 뭘 보여 줄게\n\n[Chorus]\n어깨 들썩 한삼 휙\n무릎 굽혀 발 딛고\n삼촌 오늘 탈 쓴다\n박수 크게 쳐 줘\n\n[Verse 2]\n뷔페 접시 다 치우고\n마이크 대신 장구 소리\n탈을 딱 쓰는 순간\n조카가 울기 시작해\n\n[Chorus]\n어깨 들썩 한삼 휙\n삼촌이야 나야 나\n탈 벗고 웃어 주니\n울다가 웃는다\n\n[Outro - scratch, claps fade]\n돌잡이는 장구채\n너도 춤출 거지"
+  },
+  "seed": "2048844628",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.56s**\n- 74.56s per song\n- LM phase (1 song): 13.18s\n- DiT phase (1 song): 61.38s",
+  "task_id": "7b30dfa8-407e-48a2-b111-a60d5ea3ff4f",
+  "elapsed_s": 100.4,
+  "generated_at": "2026-10-30T18:30:31.544961+08:00",
+  "audio": "b17_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 48.81,
+      "end": 48.81,
+      "text": "[Intro - scratch fill, string stabs, claps]"
+    },
+    {
+      "t": 48.81,
+      "end": 48.81,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.81,
+      "end": 50.49,
+      "text": "퇴근하고 주민센터"
+    },
+    {
+      "t": 51.29,
+      "end": 55.91,
+      "text": "탈춤 교실 맨 뒷줄"
+    },
+    {
+      "t": 55.95,
+      "end": 58.45,
+      "text": "어깨를 툭 들썩"
+    },
+    {
+      "t": 60.45,
+      "end": 63.39,
+      "text": "선생님이 아직 멀었대"
+    },
+    {
+      "t": 87.39,
+      "end": 87.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.39,
+      "end": 88.63,
+      "text": "조카 돌잔치 딱 한 달"
+    },
+    {
+      "t": 88.63,
+      "end": 89.97,
+      "text": "삼촌이 뭘 보여 줄게"
+    },
+    {
+      "t": 90.03,
+      "end": 90.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.03,
+      "end": 91.97,
+      "text": "어깨 들썩 한삼 휙"
+    },
+    {
+      "t": 92.03,
+      "end": 96.09,
+      "text": "무릎 굽혀 발 딛고"
+    },
+    {
+      "t": 96.29,
+      "end": 119.91,
+      "text": "삼촌 오늘 탈 쓴다"
+    },
+    {
+      "t": 119.93,
+      "end": 126.67,
+      "text": "박수 크게 쳐 줘"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 126.75,
+      "end": 128.77,
+      "text": "뷔페 접시 다 치우고"
+    },
+    {
+      "t": 128.87,
+      "end": 131.21,
+      "text": "마이크 대신 장구 소리"
+    },
+    {
+      "t": 131.43,
+      "end": 137.75,
+      "text": "탈을 딱 쓰는 순간"
+    },
+    {
+      "t": 137.77,
+      "end": 139.15,
+      "text": "조카가 울기 시작해"
+    },
+    {
+      "t": 139.17,
+      "end": 139.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.17,
+      "end": 140.33,
+      "text": "어깨 들썩 한삼 휙"
+    },
+    {
+      "t": 140.35,
+      "end": 150.84,
+      "text": "삼촌이야 나야 나"
+    },
+    {
+      "t": 150.96,
+      "end": 158.78,
+      "text": "탈 벗고 웃어 주니"
+    },
+    {
+      "t": 158.78,
+      "end": 172.44,
+      "text": "울다가 웃는다"
+    },
+    {
+      "t": 176.62,
+      "end": 176.62,
+      "text": "[Outro - scratch, claps fade]"
+    },
+    {
+      "t": 176.62,
+      "end": 186.1,
+      "text": "돌잡이는 장구채"
+    },
+    {
+      "t": 186.88,
+      "end": 188.06,
+      "text": "너도 춤출 거지"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 48.81,
+      "end": 48.81,
+      "text": "[Intro - scratch fill, string stabs, claps]"
+    },
+    {
+      "t": 48.81,
+      "end": 48.81,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.81,
+      "end": 50.49,
+      "text": "퇴근하고 주민센터"
+    },
+    {
+      "t": 51.29,
+      "end": 55.91,
+      "text": "탈춤 교실 맨 뒷줄"
+    },
+    {
+      "t": 55.95,
+      "end": 58.45,
+      "text": "어깨를 툭 들썩"
+    },
+    {
+      "t": 60.45,
+      "end": 63.39,
+      "text": "선생님이 아직 멀었대"
+    },
+    {
+      "t": 87.39,
+      "end": 87.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.39,
+      "end": 88.63,
+      "text": "조카 돌잔치 딱 한 달"
+    },
+    {
+      "t": 88.63,
+      "end": 89.97,
+      "text": "삼촌이 뭘 보여 줄게"
+    },
+    {
+      "t": 90.03,
+      "end": 90.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.03,
+      "end": 91.97,
+      "text": "어깨 들썩 한삼 휙"
+    },
+    {
+      "t": 92.03,
+      "end": 96.09,
+      "text": "무릎 굽혀 발 딛고"
+    },
+    {
+      "t": 96.29,
+      "end": 119.91,
+      "text": "삼촌 오늘 탈 쓴다"
+    },
+    {
+      "t": 119.93,
+      "end": 126.67,
+      "text": "박수 크게 쳐 줘"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 126.75,
+      "end": 128.77,
+      "text": "뷔페 접시 다 치우고"
+    },
+    {
+      "t": 128.87,
+      "end": 131.21,
+      "text": "마이크 대신 장구 소리"
+    },
+    {
+      "t": 131.43,
+      "end": 137.75,
+      "text": "탈을 딱 쓰는 순간"
+    },
+    {
+      "t": 137.77,
+      "end": 139.15,
+      "text": "조카가 울기 시작해"
+    },
+    {
+      "t": 139.17,
+      "end": 139.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.17,
+      "end": 140.33,
+      "text": "어깨 들썩 한삼 휙"
+    },
+    {
+      "t": 140.35,
+      "end": 150.84,
+      "text": "삼촌이야 나야 나"
+    },
+    {
+      "t": 150.96,
+      "end": 158.78,
+      "text": "탈 벗고 웃어 주니"
+    },
+    {
+      "t": 158.78,
+      "end": 172.44,
+      "text": "울다가 웃는다"
+    },
+    {
+      "t": 176.62,
+      "end": 176.62,
+      "text": "[Outro - scratch, claps fade]"
+    },
+    {
+      "t": 176.62,
+      "end": 186.1,
+      "text": "돌잡이는 장구채"
+    },
+    {
+      "t": 186.88,
+      "end": 188.06,
+      "text": "너도 춤출 거지"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 2.2,
+      "end": 2.2,
+      "text": "[Intro - scratch fill, string stabs, claps]"
+    },
+    {
+      "t": 2.2,
+      "end": 2.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.2,
+      "end": 8.42,
+      "text": "퇴근하고 주민센터"
+    },
+    {
+      "t": 10.14,
+      "end": 33.46,
+      "text": "탈춤 교실 맨 뒷줄"
+    },
+    {
+      "t": 33.46,
+      "end": 35.76,
+      "text": "어깨를 툭 들썩"
+    },
+    {
+      "t": 35.88,
+      "end": 44.08,
+      "text": "선생님이 아직 멀었대"
+    },
+    {
+      "t": 44.22,
+      "end": 44.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.22,
+      "end": 60.93,
+      "text": "조카 돌잔치 딱 한 달"
+    },
+    {
+      "t": 61.19,
+      "end": 65.29,
+      "text": "삼촌이 뭘 보여 줄게"
+    },
+    {
+      "t": 65.35,
+      "end": 65.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.35,
+      "end": 68.49,
+      "text": "어깨 들썩 한삼 휙"
+    },
+    {
+      "t": 68.57,
+      "end": 76.29,
+      "text": "무릎 굽혀 발 딛고"
+    },
+    {
+      "t": 76.37,
+      "end": 83.63,
+      "text": "삼촌 오늘 탈 쓴다"
+    },
+    {
+      "t": 83.71,
+      "end": 102.37,
+      "text": "박수 크게 쳐 줘"
+    },
+    {
+      "t": 102.39,
+      "end": 102.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 102.39,
+      "end": 104.05,
+      "text": "뷔페 접시 다 치우고"
+    },
+    {
+      "t": 104.83,
+      "end": 106.33,
+      "text": "마이크 대신 장구 소리"
+    },
+    {
+      "t": 107.27,
+      "end": 108.79,
+      "text": "탈을 딱 쓰는 순간"
+    },
+    {
+      "t": 109.71,
+      "end": 111.67,
+      "text": "조카가 울기 시작해"
+    },
+    {
+      "t": 111.75,
+      "end": 111.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.75,
+      "end": 113.95,
+      "text": "어깨 들썩 한삼 휙"
+    },
+    {
+      "t": 114.59,
+      "end": 116.27,
+      "text": "삼촌이야 나야 나"
+    },
+    {
+      "t": 117.07,
+      "end": 119.01,
+      "text": "탈 벗고 웃어 주니"
+    },
+    {
+      "t": 119.59,
+      "end": 146.32,
+      "text": "울다가 웃는다"
+    },
+    {
+      "t": 156.6,
+      "end": 156.6,
+      "text": "[Outro - scratch, claps fade]"
+    },
+    {
+      "t": 156.6,
+      "end": 182.26,
+      "text": "돌잡이는 장구채"
+    },
+    {
+      "t": 184.62,
+      "end": 185.98,
+      "text": "너도 춤출 거지"
+    }
+  ]
+}

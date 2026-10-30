@@ -1,0 +1,357 @@
+{
+  "id": "b17_en05",
+  "title": "Half-Mast",
+  "title_source": "scripted",
+  "genre": "70s glam rock stomp",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cocky, loud and laughing",
+  "persona": "",
+  "subject": "a fourteen-year-old who grew three inches over the summer holidays and turns up on the first day of the new school year in last year's trousers, two inches above his socks, and decides to strut it out",
+  "caption": "70s glam rock stomp revival. Fuzzed-out Les Paul riff with a chugging boogie rhythm, stomping kick and floor tom on every beat, big handclaps, pounding honky-tonk piano, honking baritone saxophone stabs. Loud saturated 70s mix with room-heavy drums. Male lead in a raspy chest voice with a sneer, gang-shout backing vocals on the hooks. 128 BPM, E major. Cocky, loud and laughing. No pop-punk, no autotune, no trap, no synth-pop, no metal screaming.",
+  "lyrics": "[Intro - stomp, claps and fuzz riff]\n\n[Verse 1]\nWent to bed in June a shrimp\nWoke up taller than my mum\nSeptember came, the trousers didn't\nSocks out for everyone\n\n[Chorus]\nHalf-mast, half-mast\nAnkles in the open air\nHalf-mast, half-mast\nWalk like you don't care\n\n[Verse 2]\nMr Price looked at my shins\nSaid is there a flood today\nI said sir, these are a statement\nAnd the whole class clapped away\n\n[Chorus]\nHalf-mast, half-mast\nStripy socks on show\nHalf-mast, half-mast\nStrut it, there you go\n\n[Bridge - sax solo, then gang shouts]\nMum's got the needle out tonight\nLet it down an inch or two\n\n[Chorus]\nHalf-mast, half-mast\nKids all doing it too\nHalf-mast, half-mast\nWhole school's in on it now\n\n[Outro - stomp and claps]\nHalf-mast\nTake a bow",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "70s glam rock stomp revival. Fuzzed-out Les Paul riff with a chugging boogie rhythm, stomping kick and floor tom on every beat, big handclaps, pounding honky-tonk piano, honking baritone saxophone stabs. Loud saturated 70s mix with room-heavy drums. Male lead in a raspy chest voice with a sneer, gang-shout backing vocals on the hooks. 128 BPM, E major. Cocky, loud and laughing. No pop-punk, no autotune, no trap, no synth-pop, no metal screaming.",
+    "lyrics": "[Intro - stomp, claps and fuzz riff]\n\n[Verse 1]\nWent to bed in June a shrimp\nWoke up taller than my mum\nSeptember came, the trousers didn't\nSocks out for everyone\n\n[Chorus]\nHalf-mast, half-mast\nAnkles in the open air\nHalf-mast, half-mast\nWalk like you don't care\n\n[Verse 2]\nMr Price looked at my shins\nSaid is there a flood today\nI said sir, these are a statement\nAnd the whole class clapped away\n\n[Chorus]\nHalf-mast, half-mast\nStripy socks on show\nHalf-mast, half-mast\nStrut it, there you go\n\n[Bridge - sax solo, then gang shouts]\nMum's got the needle out tonight\nLet it down an inch or two\n\n[Chorus]\nHalf-mast, half-mast\nKids all doing it too\nHalf-mast, half-mast\nWhole school's in on it now\n\n[Outro - stomp and claps]\nHalf-mast\nTake a bow"
+  },
+  "seed": "1635904358",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.63s**\n- 56.63s per song\n- LM phase (1 song): 8.16s\n- DiT phase (1 song): 48.47s",
+  "task_id": "5e106f55-9286-4f33-865b-f0bde9789767",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-10-30T11:08:20.308345+08:00",
+  "audio": "b17_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.64,
+      "end": 30.64,
+      "text": "[Intro - stomp, claps and fuzz riff]"
+    },
+    {
+      "t": 30.64,
+      "end": 30.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.64,
+      "end": 32.62,
+      "text": "Went to bed in June a shrimp"
+    },
+    {
+      "t": 33.36,
+      "end": 36.28,
+      "text": "Woke up taller than my mum"
+    },
+    {
+      "t": 37.9,
+      "end": 41.2,
+      "text": "September came, the trousers didn't"
+    },
+    {
+      "t": 41.42,
+      "end": 45.84,
+      "text": "Socks out for everyone"
+    },
+    {
+      "t": 46.35,
+      "end": 46.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.35,
+      "end": 54.99,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 56.87,
+      "end": 59.19,
+      "text": "Ankles in the open air"
+    },
+    {
+      "t": 60.75,
+      "end": 63.31,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 64.33,
+      "end": 66.59,
+      "text": "Walk like you don't care"
+    },
+    {
+      "t": 66.81,
+      "end": 66.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.81,
+      "end": 69.95,
+      "text": "Mr Price looked at my shins"
+    },
+    {
+      "t": 69.97,
+      "end": 71.99,
+      "text": "Said is there a flood today"
+    },
+    {
+      "t": 71.99,
+      "end": 75.03,
+      "text": "I said sir, these are a statement"
+    },
+    {
+      "t": 75.25,
+      "end": 78.77,
+      "text": "And the whole class clapped away"
+    },
+    {
+      "t": 78.77,
+      "end": 78.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.77,
+      "end": 85.07,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 85.17,
+      "end": 92.51,
+      "text": "Stripy socks on show"
+    },
+    {
+      "t": 97.07,
+      "end": 98.79,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 98.87,
+      "end": 100.29,
+      "text": "Strut it, there you go"
+    },
+    {
+      "t": 104.57,
+      "end": 104.57,
+      "text": "[Bridge - sax solo, then gang shouts]"
+    },
+    {
+      "t": 104.57,
+      "end": 107.87,
+      "text": "Mum's got the needle out tonight"
+    },
+    {
+      "t": 108.61,
+      "end": 111.19,
+      "text": "Let it down an inch or two"
+    },
+    {
+      "t": 124.59,
+      "end": 124.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.59,
+      "end": 126.71,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 127.87,
+      "end": 137.69,
+      "text": "Kids all doing it too"
+    },
+    {
+      "t": 141.84,
+      "end": 145.28,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 145.58,
+      "end": 147.88,
+      "text": "Whole school's in on it now"
+    },
+    {
+      "t": 156.36,
+      "end": 156.36,
+      "text": "[Outro - stomp and claps]"
+    },
+    {
+      "t": 156.36,
+      "end": 163.42,
+      "text": "Half-mast"
+    },
+    {
+      "t": 170.9,
+      "end": 171.94,
+      "text": "Take a bow"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Intro - stomp, claps and fuzz riff]"
+    },
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.62,
+      "end": 32.64,
+      "text": "Went to bed in June a shrimp"
+    },
+    {
+      "t": 33.34,
+      "end": 36.3,
+      "text": "Woke up taller than my mum"
+    },
+    {
+      "t": 37.9,
+      "end": 48.73,
+      "text": "September came, the trousers didn't"
+    },
+    {
+      "t": 48.95,
+      "end": 51.47,
+      "text": "Socks out for everyone"
+    },
+    {
+      "t": 53.21,
+      "end": 53.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.21,
+      "end": 55.73,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 56.89,
+      "end": 59.21,
+      "text": "Ankles in the open air"
+    },
+    {
+      "t": 60.75,
+      "end": 63.81,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 64.33,
+      "end": 66.59,
+      "text": "Walk like you don't care"
+    },
+    {
+      "t": 66.81,
+      "end": 66.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.81,
+      "end": 69.95,
+      "text": "Mr Price looked at my shins"
+    },
+    {
+      "t": 69.97,
+      "end": 72.21,
+      "text": "Said is there a flood today"
+    },
+    {
+      "t": 72.23,
+      "end": 75.05,
+      "text": "I said sir, these are a statement"
+    },
+    {
+      "t": 75.25,
+      "end": 78.79,
+      "text": "And the whole class clapped away"
+    },
+    {
+      "t": 78.83,
+      "end": 78.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.83,
+      "end": 84.91,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 84.91,
+      "end": 86.47,
+      "text": "Stripy socks on show"
+    },
+    {
+      "t": 90.07,
+      "end": 98.49,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 98.89,
+      "end": 100.29,
+      "text": "Strut it, there you go"
+    },
+    {
+      "t": 104.57,
+      "end": 104.57,
+      "text": "[Bridge - sax solo, then gang shouts]"
+    },
+    {
+      "t": 104.57,
+      "end": 107.87,
+      "text": "Mum's got the needle out tonight"
+    },
+    {
+      "t": 108.61,
+      "end": 111.17,
+      "text": "Let it down an inch or two"
+    },
+    {
+      "t": 124.59,
+      "end": 124.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.59,
+      "end": 126.65,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 127.87,
+      "end": 137.71,
+      "text": "Kids all doing it too"
+    },
+    {
+      "t": 141.84,
+      "end": 144.96,
+      "text": "Half-mast, half-mast"
+    },
+    {
+      "t": 145.58,
+      "end": 147.88,
+      "text": "Whole school's in on it now"
+    },
+    {
+      "t": 156.36,
+      "end": 156.36,
+      "text": "[Outro - stomp and claps]"
+    },
+    {
+      "t": 156.36,
+      "end": 163.42,
+      "text": "Half-mast"
+    },
+    {
+      "t": 170.88,
+      "end": 171.94,
+      "text": "Take a bow"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

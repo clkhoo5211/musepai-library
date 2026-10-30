@@ -1,0 +1,307 @@
+{
+  "id": "b17_id04",
+  "title": "Satu Cap Lagi",
+  "title_source": "scripted",
+  "genre": "Indonesian blues-pop with Rhodes",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "santai, getir lucu, bergoyang pelan",
+  "persona": "",
+  "subject": "an office clerk in Semarang whose only pair of work shoes has been resoled so many times at the same shoe-repair kiosk that his stamp card is one stamp from a free repair, and now he is afraid to walk too carefully",
+  "caption": "Indonesian blues-pop with Rhodes, mellow modern singer-songwriter blues. Rhodes electric piano with tremolo playing lazy minor-seventh chords, bottleneck slide guitar answering each vocal line, warm walking bass, laid-back drums with a shuffle feel and rimshot snare. Warm vintage mix, a little tape hiss, dry vocal. Smoky male baritone vocal, relaxed and wry, half-smiling delivery. 88 BPM, A minor. Mood of a small money joke told over coffee. No trap beat, no autotune, no big rock guitar solo, no gospel organ, no EDM.",
+  "lyrics": "[Intro - Rhodes chords, slide guitar lick]\n[Verse 1]\nSepatu hitam cuma sepasang\nSolnya ganti empat kali\nKios Pak Darto dekat pasar\nHafal langkahku dari jauh\n[Pre-Chorus]\nKartu kecil di dompetku\nSembilan cap, kurang satu\n[Chorus]\nSatu cap lagi, gratis satu\nTinggal tunggu sol yang copot\nSekarang aku jalan pelan\nTapi diam-diam berharap robek\n[Verse 2]\nHujan nggak, becek pun nggak\nTrotoar mulus sepanjang jalan\nAku tendang kerikil kecil\nSepatuku masih kuat saja\n[Chorus]\nSatu cap lagi, gratis satu\nPak Darto ketawa lihat aku\nKatanya, \"Sepatumu terlalu bagus\"\nAku jawab, \"Itu salahmu\"\n[Outro - slide guitar, Rhodes fades]\nKartu kecil di dompetku\nMasih sembilan, masih nunggu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Indonesian blues-pop with Rhodes, mellow modern singer-songwriter blues. Rhodes electric piano with tremolo playing lazy minor-seventh chords, bottleneck slide guitar answering each vocal line, warm walking bass, laid-back drums with a shuffle feel and rimshot snare. Warm vintage mix, a little tape hiss, dry vocal. Smoky male baritone vocal, relaxed and wry, half-smiling delivery. 88 BPM, A minor. Mood of a small money joke told over coffee. No trap beat, no autotune, no big rock guitar solo, no gospel organ, no EDM.",
+    "lyrics": "[Intro - Rhodes chords, slide guitar lick]\n[Verse 1]\nSepatu hitam cuma sepasang\nSolnya ganti empat kali\nKios Pak Darto dekat pasar\nHafal langkahku dari jauh\n[Pre-Chorus]\nKartu kecil di dompetku\nSembilan cap, kurang satu\n[Chorus]\nSatu cap lagi, gratis satu\nTinggal tunggu sol yang copot\nSekarang aku jalan pelan\nTapi diam-diam berharap robek\n[Verse 2]\nHujan nggak, becek pun nggak\nTrotoar mulus sepanjang jalan\nAku tendang kerikil kecil\nSepatuku masih kuat saja\n[Chorus]\nSatu cap lagi, gratis satu\nPak Darto ketawa lihat aku\nKatanya, \"Sepatumu terlalu bagus\"\nAku jawab, \"Itu salahmu\"\n[Outro - slide guitar, Rhodes fades]\nKartu kecil di dompetku\nMasih sembilan, masih nunggu"
+  },
+  "seed": "3674130485",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 112.68s**\n- 112.68s per song\n- LM phase (1 song): 17.48s\n- DiT phase (1 song): 95.20s",
+  "task_id": "bf8fa68b-180f-4759-8149-993d40d51ee3",
+  "elapsed_s": 140.5,
+  "generated_at": "2026-10-30T10:38:43.294473+08:00",
+  "audio": "b17_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.54,
+      "end": 35.54,
+      "text": "[Intro - Rhodes chords, slide guitar lick]"
+    },
+    {
+      "t": 35.54,
+      "end": 35.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.54,
+      "end": 39.06,
+      "text": "Sepatu hitam cuma sepasang"
+    },
+    {
+      "t": 40.64,
+      "end": 43.26,
+      "text": "Solnya ganti empat kali"
+    },
+    {
+      "t": 46.54,
+      "end": 49.76,
+      "text": "Kios Pak Darto dekat pasar"
+    },
+    {
+      "t": 52.47,
+      "end": 56.13,
+      "text": "Hafal langkahku dari jauh"
+    },
+    {
+      "t": 58.37,
+      "end": 58.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.37,
+      "end": 60.79,
+      "text": "Kartu kecil di dompetku"
+    },
+    {
+      "t": 62.49,
+      "end": 66.13,
+      "text": "Sembilan cap, kurang satu"
+    },
+    {
+      "t": 69.03,
+      "end": 69.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.03,
+      "end": 71.81,
+      "text": "Satu cap lagi, gratis satu"
+    },
+    {
+      "t": 74.87,
+      "end": 77.41,
+      "text": "Tinggal tunggu sol yang copot"
+    },
+    {
+      "t": 80.33,
+      "end": 83.03,
+      "text": "Sekarang aku jalan pelan"
+    },
+    {
+      "t": 85.47,
+      "end": 89.63,
+      "text": "Tapi diam-diam berharap robek"
+    },
+    {
+      "t": 89.93,
+      "end": 89.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.93,
+      "end": 92.31,
+      "text": "Hujan nggak, becek pun nggak"
+    },
+    {
+      "t": 92.31,
+      "end": 94.05,
+      "text": "Trotoar mulus sepanjang jalan"
+    },
+    {
+      "t": 94.05,
+      "end": 95.57,
+      "text": "Aku tendang kerikil kecil"
+    },
+    {
+      "t": 95.79,
+      "end": 101.33,
+      "text": "Sepatuku masih kuat saja"
+    },
+    {
+      "t": 101.87,
+      "end": 101.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.87,
+      "end": 104.41,
+      "text": "Satu cap lagi, gratis satu"
+    },
+    {
+      "t": 104.41,
+      "end": 106.69,
+      "text": "Pak Darto ketawa lihat aku"
+    },
+    {
+      "t": 106.71,
+      "end": 111.73,
+      "text": "Katanya, \"Sepatumu terlalu bagus\""
+    },
+    {
+      "t": 112.21,
+      "end": 115.43,
+      "text": "Aku jawab, \"Itu salahmu\""
+    },
+    {
+      "t": 149.85,
+      "end": 149.85,
+      "text": "[Outro - slide guitar, Rhodes fades]"
+    },
+    {
+      "t": 149.85,
+      "end": 153.47,
+      "text": "Kartu kecil di dompetku"
+    },
+    {
+      "t": 161.66,
+      "end": 168.7,
+      "text": "Masih sembilan, masih nunggu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 35.54,
+      "end": 35.54,
+      "text": "[Intro - Rhodes chords, slide guitar lick]"
+    },
+    {
+      "t": 35.54,
+      "end": 35.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.54,
+      "end": 39.06,
+      "text": "Sepatu hitam cuma sepasang"
+    },
+    {
+      "t": 40.66,
+      "end": 43.26,
+      "text": "Solnya ganti empat kali"
+    },
+    {
+      "t": 46.52,
+      "end": 49.74,
+      "text": "Kios Pak Darto dekat pasar"
+    },
+    {
+      "t": 52.45,
+      "end": 58.35,
+      "text": "Hafal langkahku dari jauh"
+    },
+    {
+      "t": 58.37,
+      "end": 58.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.37,
+      "end": 60.79,
+      "text": "Kartu kecil di dompetku"
+    },
+    {
+      "t": 62.49,
+      "end": 66.11,
+      "text": "Sembilan cap, kurang satu"
+    },
+    {
+      "t": 69.05,
+      "end": 69.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.05,
+      "end": 71.81,
+      "text": "Satu cap lagi, gratis satu"
+    },
+    {
+      "t": 74.87,
+      "end": 77.39,
+      "text": "Tinggal tunggu sol yang copot"
+    },
+    {
+      "t": 80.33,
+      "end": 83.05,
+      "text": "Sekarang aku jalan pelan"
+    },
+    {
+      "t": 85.49,
+      "end": 89.97,
+      "text": "Tapi diam-diam berharap robek"
+    },
+    {
+      "t": 89.97,
+      "end": 89.97,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.97,
+      "end": 92.17,
+      "text": "Hujan nggak, becek pun nggak"
+    },
+    {
+      "t": 92.17,
+      "end": 93.57,
+      "text": "Trotoar mulus sepanjang jalan"
+    },
+    {
+      "t": 93.67,
+      "end": 95.81,
+      "text": "Aku tendang kerikil kecil"
+    },
+    {
+      "t": 95.81,
+      "end": 99.07,
+      "text": "Sepatuku masih kuat saja"
+    },
+    {
+      "t": 101.89,
+      "end": 101.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.89,
+      "end": 104.41,
+      "text": "Satu cap lagi, gratis satu"
+    },
+    {
+      "t": 104.41,
+      "end": 108.51,
+      "text": "Pak Darto ketawa lihat aku"
+    },
+    {
+      "t": 108.51,
+      "end": 111.67,
+      "text": "Katanya, \"Sepatumu terlalu bagus\""
+    },
+    {
+      "t": 112.21,
+      "end": 115.43,
+      "text": "Aku jawab, \"Itu salahmu\""
+    },
+    {
+      "t": 149.85,
+      "end": 149.85,
+      "text": "[Outro - slide guitar, Rhodes fades]"
+    },
+    {
+      "t": 149.85,
+      "end": 153.47,
+      "text": "Kartu kecil di dompetku"
+    },
+    {
+      "t": 161.68,
+      "end": 168.7,
+      "text": "Masih sembilan, masih nunggu"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

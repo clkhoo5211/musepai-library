@@ -1,0 +1,277 @@
+{
+  "id": "b17_ms05",
+  "title": "Kaset Satu Je",
+  "title_source": "scripted",
+  "genre": "Malay tango-cabaret (bandoneon tango song)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "dramatic, mock-serious, comic standoff",
+  "persona": "",
+  "subject": "a husband and wife in his 1992 Proton Saga whose cassette deck has eaten every tape except one P. Ramlee album, arguing on the drive to Ipoh over whether to finally buy a new radio",
+  "caption": "Malay tango-cabaret in Argentine tango song style. Bandoneon playing sharp staccato phrases, string quartet with marcato chops and violin glissandi, tango piano with heavy marcato left hand, double bass on the strong beats. Dry theatrical room mix with close strings and sharp accents. Female mezzo and male baritone duet, theatrical half-spoken delivery trading lines. 118 BPM, D minor. Mock-serious comic standoff. No pop drums, no autotune, no EDM, no rock guitars, no reggaeton beat.",
+  "lyrics": "[Intro - bandoneon and marcato strings]\n\n[Verse 1 - Female Vocal]\nLagu sama dari Rawang\nAbang, tukarlah radio\n\n[Verse 1 - Male Vocal]\nKaset ni masih hidup\nYang lain dia dah makan\n\n[Chorus - Duet]\nKaset satu je\nSebelah A, sebelah B\nAbang putar, saya tutup\nSiapa nak mengalah dulu?\n\n[Verse 2 - Female Vocal]\nPita tu dah berkedut\nSuara P. Ramlee pun goyang\n\n[Verse 2 - Male Vocal]\nLagu ni kita kahwin\nAwak yang pilih dulu\n\n[Chorus - Duet]\nKaset satu je\nSebelah A, sebelah B\nSampai Ipoh, awak nyanyi\nHafal semua, tak salah satu\n\n[Outro - bandoneon final stab]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Malay tango-cabaret in Argentine tango song style. Bandoneon playing sharp staccato phrases, string quartet with marcato chops and violin glissandi, tango piano with heavy marcato left hand, double bass on the strong beats. Dry theatrical room mix with close strings and sharp accents. Female mezzo and male baritone duet, theatrical half-spoken delivery trading lines. 118 BPM, D minor. Mock-serious comic standoff. No pop drums, no autotune, no EDM, no rock guitars, no reggaeton beat.",
+    "lyrics": "[Intro - bandoneon and marcato strings]\n\n[Verse 1 - Female Vocal]\nLagu sama dari Rawang\nAbang, tukarlah radio\n\n[Verse 1 - Male Vocal]\nKaset ni masih hidup\nYang lain dia dah makan\n\n[Chorus - Duet]\nKaset satu je\nSebelah A, sebelah B\nAbang putar, saya tutup\nSiapa nak mengalah dulu?\n\n[Verse 2 - Female Vocal]\nPita tu dah berkedut\nSuara P. Ramlee pun goyang\n\n[Verse 2 - Male Vocal]\nLagu ni kita kahwin\nAwak yang pilih dulu\n\n[Chorus - Duet]\nKaset satu je\nSebelah A, sebelah B\nSampai Ipoh, awak nyanyi\nHafal semua, tak salah satu\n\n[Outro - bandoneon final stab]\n"
+  },
+  "seed": "1607748875",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 95.73s**\n- 95.73s per song\n- LM phase (1 song): 17.33s\n- DiT phase (1 song): 78.40s",
+  "task_id": "87c69be8-001d-4b78-91a9-be1a2f661189",
+  "elapsed_s": 130.3,
+  "generated_at": "2026-10-30T10:30:01.870983+08:00",
+  "audio": "b17_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 2.22,
+      "end": 2.22,
+      "text": "[Intro - bandoneon and marcato strings]"
+    },
+    {
+      "t": 2.22,
+      "end": 2.22,
+      "text": "[Verse 1 - Female Vocal]"
+    },
+    {
+      "t": 2.22,
+      "end": 4.26,
+      "text": "Lagu sama dari Rawang"
+    },
+    {
+      "t": 4.3,
+      "end": 34.64,
+      "text": "Abang, tukarlah radio"
+    },
+    {
+      "t": 34.64,
+      "end": 34.64,
+      "text": "[Verse 1 - Male Vocal]"
+    },
+    {
+      "t": 34.64,
+      "end": 36.92,
+      "text": "Kaset ni masih hidup"
+    },
+    {
+      "t": 39.18,
+      "end": 42.76,
+      "text": "Yang lain dia dah makan"
+    },
+    {
+      "t": 47.04,
+      "end": 47.04,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 47.04,
+      "end": 48.44,
+      "text": "Kaset satu je"
+    },
+    {
+      "t": 48.56,
+      "end": 58.27,
+      "text": "Sebelah A, sebelah B"
+    },
+    {
+      "t": 60.07,
+      "end": 62.97,
+      "text": "Abang putar, saya tutup"
+    },
+    {
+      "t": 63.97,
+      "end": 67.41,
+      "text": "Siapa nak mengalah dulu?"
+    },
+    {
+      "t": 83.47,
+      "end": 83.47,
+      "text": "[Verse 2 - Female Vocal]"
+    },
+    {
+      "t": 83.47,
+      "end": 87.93,
+      "text": "Pita tu dah berkedut"
+    },
+    {
+      "t": 88.49,
+      "end": 93.09,
+      "text": "Suara P. Ramlee pun goyang"
+    },
+    {
+      "t": 93.17,
+      "end": 93.17,
+      "text": "[Verse 2 - Male Vocal]"
+    },
+    {
+      "t": 93.17,
+      "end": 95.27,
+      "text": "Lagu ni kita kahwin"
+    },
+    {
+      "t": 95.35,
+      "end": 163.68,
+      "text": "Awak yang pilih dulu"
+    },
+    {
+      "t": 165.08,
+      "end": 165.08,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 165.08,
+      "end": 167.24,
+      "text": "Kaset satu je"
+    },
+    {
+      "t": 168.12,
+      "end": 169.44,
+      "text": "Sebelah A, sebelah B"
+    },
+    {
+      "t": 170.14,
+      "end": 173.1,
+      "text": "Sampai Ipoh, awak nyanyi"
+    },
+    {
+      "t": 174.44,
+      "end": 179.36,
+      "text": "Hafal semua, tak salah satu"
+    },
+    {
+      "t": 179.36,
+      "end": 179.36,
+      "text": "[Outro - bandoneon final stab]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 2.22,
+      "end": 2.22,
+      "text": "[Intro - bandoneon and marcato strings]"
+    },
+    {
+      "t": 2.22,
+      "end": 2.22,
+      "text": "[Verse 1 - Female Vocal]"
+    },
+    {
+      "t": 2.22,
+      "end": 4.68,
+      "text": "Lagu sama dari Rawang"
+    },
+    {
+      "t": 4.68,
+      "end": 6.4,
+      "text": "Abang, tukarlah radio"
+    },
+    {
+      "t": 34.64,
+      "end": 34.64,
+      "text": "[Verse 1 - Male Vocal]"
+    },
+    {
+      "t": 34.64,
+      "end": 36.92,
+      "text": "Kaset ni masih hidup"
+    },
+    {
+      "t": 39.18,
+      "end": 42.8,
+      "text": "Yang lain dia dah makan"
+    },
+    {
+      "t": 47.04,
+      "end": 47.04,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 47.04,
+      "end": 48.44,
+      "text": "Kaset satu je"
+    },
+    {
+      "t": 48.54,
+      "end": 58.29,
+      "text": "Sebelah A, sebelah B"
+    },
+    {
+      "t": 60.05,
+      "end": 62.97,
+      "text": "Abang putar, saya tutup"
+    },
+    {
+      "t": 63.97,
+      "end": 67.45,
+      "text": "Siapa nak mengalah dulu?"
+    },
+    {
+      "t": 83.45,
+      "end": 83.45,
+      "text": "[Verse 2 - Female Vocal]"
+    },
+    {
+      "t": 83.45,
+      "end": 87.93,
+      "text": "Pita tu dah berkedut"
+    },
+    {
+      "t": 88.49,
+      "end": 93.09,
+      "text": "Suara P. Ramlee pun goyang"
+    },
+    {
+      "t": 93.17,
+      "end": 93.17,
+      "text": "[Verse 2 - Male Vocal]"
+    },
+    {
+      "t": 93.17,
+      "end": 95.53,
+      "text": "Lagu ni kita kahwin"
+    },
+    {
+      "t": 95.63,
+      "end": 149.02,
+      "text": "Awak yang pilih dulu"
+    },
+    {
+      "t": 165.06,
+      "end": 165.06,
+      "text": "[Chorus - Duet]"
+    },
+    {
+      "t": 165.06,
+      "end": 167.24,
+      "text": "Kaset satu je"
+    },
+    {
+      "t": 168.12,
+      "end": 169.36,
+      "text": "Sebelah A, sebelah B"
+    },
+    {
+      "t": 170.14,
+      "end": 173.12,
+      "text": "Sampai Ipoh, awak nyanyi"
+    },
+    {
+      "t": 174.44,
+      "end": 179.36,
+      "text": "Hafal semua, tak salah satu"
+    },
+    {
+      "t": 179.36,
+      "end": 179.36,
+      "text": "[Outro - bandoneon final stab]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
