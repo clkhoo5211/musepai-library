@@ -2,31 +2,31 @@
   "id": "b18_zh04",
   "title": "水寫布",
   "title_source": "scripted",
-  "genre": "Mandarin Irish folk-pop",
+  "genre": "Mandarin soft-rock ballad",
   "language": "zh",
   "language_name": "Mandarin Chinese",
   "mood": "calm, private and gently hopeful",
   "persona": "",
   "subject": "a thirty-eight-year-old office worker who practises brush calligraphy every night after work on a reusable water-writing cloth, glad that her crooked strokes vanish as the water dries so nobody, not even herself the next morning, can see them",
-  "caption": "Mandarin Irish folk-pop, modern trad-pop crossover. Fingerpicked acoustic guitar in DADGAD tuning, fiddle playing long slow airs, tin whistle answering between lines, soft bodhrán pulse entering at the first chorus, upright piano chords. Intimate mix with natural room reverb and an unhurried build. Female alto, warm and plain, melody clearly sung. 96 BPM, D major. Calm, private and gently hopeful. No pop drum kit, no autotune, no synth pads, no Chinese guzheng, no rap. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+  "caption": "Mandarin soft-rock ballad, 1990s Taipei style. Warm piano chords, clean electric guitar arpeggios, round fretted bass, live drums starting on brushes and opening up in the chorus, soft string pad. Warm, open mix with the voice upfront. Female alto, warm and clear. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering. 80 BPM, D major. Calm, private and gently hopeful. No autotune, no EDM drop, no rap.",
   "lyrics": "[Intro - DADGAD guitar and tin whistle]\n\n[Verse 1]\n下班回家 九點多\n攤開那塊 灰色的布\n毛筆沾水 不沾墨\n寫一個字 慢慢地數\n\n[Pre-Chorus]\n橫畫又歪了\n沒關係\n\n[Chorus]\n水寫的字 一下就乾\n歪的斜的 都看不見\n沒人打分 沒人在看\n明天這塊布 又是新的\n\n[Verse 2]\n老師說 手腕要穩\n我的手 敲了一天鍵盤\n一筆一筆 越寫越慢\n窗外的車 也慢下來\n\n[Bridge - fiddle and piano]\n有一晚 寫了一個家\n停了很久\n才捨得讓它乾\n\n[Chorus]\n水寫的字 一下就乾\n寫好的那個 我記得了\n沒人打分 沒人在看\n今晚這一筆 是寫給我的\n\n[Outro - fiddle air fades]\n布摺好 燈關了",
   "lyrics_leaked_tokens": [],
   "lyrics_looks_romanized": false,
   "metas": {
-    "bpm": 96,
+    "bpm": 80,
     "duration": 215.0,
     "genres": "N/A",
     "keyscale": "D major",
     "timesignature": "4",
-    "prompt": "Mandarin Irish folk-pop, modern trad-pop crossover. Fingerpicked acoustic guitar in DADGAD tuning, fiddle playing long slow airs, tin whistle answering between lines, soft bodhrán pulse entering at the first chorus, upright piano chords. Intimate mix with natural room reverb and an unhurried build. Female alto, warm and plain, melody clearly sung. 96 BPM, D major. Calm, private and gently hopeful. No pop drum kit, no autotune, no synth pads, no Chinese guzheng, no rap. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+    "prompt": "Mandarin soft-rock ballad, 1990s Taipei style. Warm piano chords, clean electric guitar arpeggios, round fretted bass, live drums starting on brushes and opening up in the chorus, soft string pad. Warm, open mix with the voice upfront. Female alto, warm and clear. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering. 80 BPM, D major. Calm, private and gently hopeful. No autotune, no EDM drop, no rap.",
     "lyrics": "[Intro - DADGAD guitar and tin whistle]\n\n[Verse 1]\n下班回家 九點多\n攤開那塊 灰色的布\n毛筆沾水 不沾墨\n寫一個字 慢慢地數\n\n[Pre-Chorus]\n橫畫又歪了\n沒關係\n\n[Chorus]\n水寫的字 一下就乾\n歪的斜的 都看不見\n沒人打分 沒人在看\n明天這塊布 又是新的\n\n[Verse 2]\n老師說 手腕要穩\n我的手 敲了一天鍵盤\n一筆一筆 越寫越慢\n窗外的車 也慢下來\n\n[Bridge - fiddle and piano]\n有一晚 寫了一個家\n停了很久\n才捨得讓它乾\n\n[Chorus]\n水寫的字 一下就乾\n寫好的那個 我記得了\n沒人打分 沒人在看\n今晚這一筆 是寫給我的\n\n[Outro - fiddle air fades]\n布摺好 燈關了"
   },
-  "seed": "1133588854",
+  "seed": "982179101",
   "dit_model": "acestep-v15-turbo",
-  "generation_info": "**🎵 Total generation time (1 song): 63.36s**\n- 63.36s per song\n- LM phase (1 song): 11.63s\n- DiT phase (1 song): 51.73s",
-  "task_id": "6e2f94ef-7d56-4bfc-9600-23647cac06db",
-  "elapsed_s": 80.1,
-  "generated_at": "2026-11-04T22:14:39.164693+08:00",
+  "generation_info": "**🎵 Total generation time (1 song): 63.76s**\n- 63.76s per song\n- LM phase (1 song): 13.23s\n- DiT phase (1 song): 50.53s",
+  "task_id": "b97d9880-9118-4f9c-a004-67a79c0f9cbd",
+  "elapsed_s": 90.4,
+  "generated_at": "2026-11-04T23:14:38.097198+08:00",
   "audio": "b18_zh04.mp3",
   "lyrics_timed": [
     {
@@ -336,153 +336,153 @@
   "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
   "lyrics_timed_mix": [
     {
-      "t": 1.68,
-      "end": 1.68,
+      "t": 24.78,
+      "end": 24.78,
       "text": "[Intro - DADGAD guitar and tin whistle]"
     },
     {
-      "t": 1.68,
-      "end": 1.68,
+      "t": 24.78,
+      "end": 24.78,
       "text": "[Verse 1]"
     },
     {
-      "t": 1.68,
-      "end": 15.78,
+      "t": 24.78,
+      "end": 30.6,
       "text": "下班回家 九點多"
     },
     {
-      "t": 15.96,
-      "end": 21.36,
+      "t": 30.6,
+      "end": 31.64,
       "text": "攤開那塊 灰色的布"
     },
     {
-      "t": 21.58,
-      "end": 22.36,
+      "t": 31.64,
+      "end": 32.84,
       "text": "毛筆沾水 不沾墨"
     },
     {
-      "t": 22.36,
-      "end": 56.63,
+      "t": 33.0,
+      "end": 36.58,
       "text": "寫一個字 慢慢地數"
     },
     {
-      "t": 59.27,
-      "end": 59.27,
+      "t": 41.6,
+      "end": 41.6,
       "text": "[Pre-Chorus]"
     },
     {
-      "t": 59.27,
-      "end": 62.35,
+      "t": 41.6,
+      "end": 44.0,
       "text": "橫畫又歪了"
     },
     {
-      "t": 63.71,
-      "end": 65.11,
+      "t": 44.96,
+      "end": 45.7,
       "text": "沒關係"
     },
     {
-      "t": 69.25,
-      "end": 69.25,
+      "t": 45.7,
+      "end": 45.7,
       "text": "[Chorus]"
     },
     {
-      "t": 69.25,
-      "end": 72.91,
+      "t": 45.7,
+      "end": 48.22,
       "text": "水寫的字 一下就乾"
     },
     {
-      "t": 74.31,
-      "end": 77.85,
+      "t": 48.22,
+      "end": 51.7,
       "text": "歪的斜的 都看不見"
     },
     {
-      "t": 79.29,
-      "end": 82.21,
+      "t": 53.58,
+      "end": 57.87,
       "text": "沒人打分 沒人在看"
     },
     {
-      "t": 82.21,
-      "end": 85.35,
+      "t": 59.93,
+      "end": 65.31,
       "text": "明天這塊布 又是新的"
     },
     {
-      "t": 90.19,
-      "end": 90.19,
+      "t": 67.01,
+      "end": 67.01,
       "text": "[Verse 2]"
     },
     {
-      "t": 90.19,
-      "end": 93.57,
+      "t": 67.01,
+      "end": 69.75,
       "text": "老師說 手腕要穩"
     },
     {
-      "t": 94.29,
-      "end": 98.85,
+      "t": 72.61,
+      "end": 76.33,
       "text": "我的手 敲了一天鍵盤"
     },
     {
-      "t": 100.23,
-      "end": 104.91,
+      "t": 79.19,
+      "end": 82.01,
       "text": "一筆一筆 越寫越慢"
     },
     {
-      "t": 106.69,
-      "end": 110.13,
+      "t": 84.51,
+      "end": 88.15,
       "text": "窗外的車 也慢下來"
     },
     {
-      "t": 110.13,
-      "end": 110.13,
+      "t": 90.57,
+      "end": 90.57,
       "text": "[Bridge - fiddle and piano]"
     },
     {
-      "t": 110.13,
-      "end": 112.33,
+      "t": 90.57,
+      "end": 93.55,
       "text": "有一晚 寫了一個家"
     },
     {
-      "t": 112.33,
-      "end": 113.83,
+      "t": 99.93,
+      "end": 103.05,
       "text": "停了很久"
     },
     {
-      "t": 113.95,
-      "end": 117.69,
+      "t": 107.73,
+      "end": 114.71,
       "text": "才捨得讓它乾"
     },
     {
-      "t": 117.95,
-      "end": 117.95,
+      "t": 114.89,
+      "end": 114.89,
       "text": "[Chorus]"
     },
     {
-      "t": 117.95,
-      "end": 122.21,
+      "t": 114.89,
+      "end": 119.17,
       "text": "水寫的字 一下就乾"
     },
     {
-      "t": 122.35,
-      "end": 126.57,
+      "t": 120.91,
+      "end": 124.83,
       "text": "寫好的那個 我記得了"
     },
     {
-      "t": 126.73,
-      "end": 130.19,
+      "t": 126.95,
+      "end": 131.21,
       "text": "沒人打分 沒人在看"
     },
     {
-      "t": 138.29,
-      "end": 171.58,
+      "t": 132.17,
+      "end": 135.73,
       "text": "今晚這一筆 是寫給我的"
     },
     {
-      "t": 174.84,
-      "end": 174.84,
+      "t": 141.57,
+      "end": 141.57,
       "text": "[Outro - fiddle air fades]"
     },
     {
-      "t": 174.84,
-      "end": 176.6,
+      "t": 141.57,
+      "end": 144.91,
       "text": "布摺好 燈關了"
     }
   ]
