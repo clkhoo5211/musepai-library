@@ -1,0 +1,307 @@
+{
+  "id": "b18_ms04",
+  "title": "Musang King Dalam Bonet",
+  "title_source": "scripted",
+  "genre": "Malay jersey club dance pop",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "goofy, frantic, danceable",
+  "persona": "",
+  "subject": "a man sneaking two Musang King durians home from a Raub roadside stall in his wife's new car, which she has banned durian from, and trying to air out the boot before she comes downstairs",
+  "caption": "Malay jersey club dance pop, New Jersey club rhythm crossed with Malay pop melody. Triplet-bounce jersey club kick pattern, squeaky bed-spring percussion hits, rubbery synth bass, bright square-wave synth lead riff, hand claps. Punchy loud club mix. Male lead vocal, mid-high register, comic, clearly sung melody. 140 BPM, F major. Goofy, frantic, danceable mood. No rap verses, no autotune, no trap 808 slides, no dangdut, no ballad section.",
+  "lyrics": "[Intro - jersey club kicks, synth lead]\n\n[Verse 1]\nGerai tepi jalan dekat Raub\nDua biji Musang King, bau dah kuat\nKereta baru isteri aku pula\nDia dah pesan, durian jangan bawa\n\n[Pre-Chorus]\nBuka tingkap, buka semua\nSembur pewangi, tak jalan juga\n\n[Chorus]\nMusang King dalam bonet\nBau dia sampai ke tingkat tiga\nSayang turun, aku pun gelabah\nAku kata itu bau lori sebelah\n\n[Verse 2]\nAku tabur serbuk kopi bawah kerusi\nAku gosok bonet dengan daun pandan\nDia buka pintu, dia hidu sekali\nDia senyum, mana bahagian aku?\n\n[Chorus]\nMusang King dalam bonet\nBau dia sampai ke tingkat tiga\nSayang ketawa, minta yang besar\nEsok kita pergi Raub berdua\n\n[Outro - kicks, synth riff]\nMusang King, Musang King\nKereta baru dah wangi durian",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 140,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Malay jersey club dance pop, New Jersey club rhythm crossed with Malay pop melody. Triplet-bounce jersey club kick pattern, squeaky bed-spring percussion hits, rubbery synth bass, bright square-wave synth lead riff, hand claps. Punchy loud club mix. Male lead vocal, mid-high register, comic, clearly sung melody. 140 BPM, F major. Goofy, frantic, danceable mood. No rap verses, no autotune, no trap 808 slides, no dangdut, no ballad section.",
+    "lyrics": "[Intro - jersey club kicks, synth lead]\n\n[Verse 1]\nGerai tepi jalan dekat Raub\nDua biji Musang King, bau dah kuat\nKereta baru isteri aku pula\nDia dah pesan, durian jangan bawa\n\n[Pre-Chorus]\nBuka tingkap, buka semua\nSembur pewangi, tak jalan juga\n\n[Chorus]\nMusang King dalam bonet\nBau dia sampai ke tingkat tiga\nSayang turun, aku pun gelabah\nAku kata itu bau lori sebelah\n\n[Verse 2]\nAku tabur serbuk kopi bawah kerusi\nAku gosok bonet dengan daun pandan\nDia buka pintu, dia hidu sekali\nDia senyum, mana bahagian aku?\n\n[Chorus]\nMusang King dalam bonet\nBau dia sampai ke tingkat tiga\nSayang ketawa, minta yang besar\nEsok kita pergi Raub berdua\n\n[Outro - kicks, synth riff]\nMusang King, Musang King\nKereta baru dah wangi durian"
+  },
+  "seed": "1306059491",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 116.12s**\n- 116.12s per song\n- LM phase (1 song): 21.99s\n- DiT phase (1 song): 94.13s",
+  "task_id": "8fef03b1-2824-4546-aa03-043cada33530",
+  "elapsed_s": 150.2,
+  "generated_at": "2026-11-04T15:15:42.870522+08:00",
+  "audio": "b18_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - jersey club kicks, synth lead]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 15.58,
+      "text": "Gerai tepi jalan dekat Raub"
+    },
+    {
+      "t": 15.66,
+      "end": 19.68,
+      "text": "Dua biji Musang King, bau dah kuat"
+    },
+    {
+      "t": 21.22,
+      "end": 25.4,
+      "text": "Kereta baru isteri aku pula"
+    },
+    {
+      "t": 27.88,
+      "end": 33.8,
+      "text": "Dia dah pesan, durian jangan bawa"
+    },
+    {
+      "t": 35.56,
+      "end": 35.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.56,
+      "end": 39.16,
+      "text": "Buka tingkap, buka semua"
+    },
+    {
+      "t": 41.76,
+      "end": 46.19,
+      "text": "Sembur pewangi, tak jalan juga"
+    },
+    {
+      "t": 48.21,
+      "end": 48.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.21,
+      "end": 53.83,
+      "text": "Musang King dalam bonet"
+    },
+    {
+      "t": 55.51,
+      "end": 59.91,
+      "text": "Bau dia sampai ke tingkat tiga"
+    },
+    {
+      "t": 63.41,
+      "end": 67.87,
+      "text": "Sayang turun, aku pun gelabah"
+    },
+    {
+      "t": 69.73,
+      "end": 74.43,
+      "text": "Aku kata itu bau lori sebelah"
+    },
+    {
+      "t": 77.19,
+      "end": 77.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.19,
+      "end": 80.69,
+      "text": "Aku tabur serbuk kopi bawah kerusi"
+    },
+    {
+      "t": 84.31,
+      "end": 88.83,
+      "text": "Aku gosok bonet dengan daun pandan"
+    },
+    {
+      "t": 88.85,
+      "end": 91.77,
+      "text": "Dia buka pintu, dia hidu sekali"
+    },
+    {
+      "t": 91.77,
+      "end": 95.97,
+      "text": "Dia senyum, mana bahagian aku?"
+    },
+    {
+      "t": 98.83,
+      "end": 98.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.83,
+      "end": 102.09,
+      "text": "Musang King dalam bonet"
+    },
+    {
+      "t": 104.39,
+      "end": 116.07,
+      "text": "Bau dia sampai ke tingkat tiga"
+    },
+    {
+      "t": 147.2,
+      "end": 156.62,
+      "text": "Sayang ketawa, minta yang besar"
+    },
+    {
+      "t": 156.76,
+      "end": 161.28,
+      "text": "Esok kita pergi Raub berdua"
+    },
+    {
+      "t": 161.38,
+      "end": 161.38,
+      "text": "[Outro - kicks, synth riff]"
+    },
+    {
+      "t": 161.38,
+      "end": 165.06,
+      "text": "Musang King, Musang King"
+    },
+    {
+      "t": 167.16,
+      "end": 175.08,
+      "text": "Kereta baru dah wangi durian"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 1.58,
+      "end": 1.58,
+      "text": "[Intro - jersey club kicks, synth lead]"
+    },
+    {
+      "t": 1.58,
+      "end": 1.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.58,
+      "end": 15.62,
+      "text": "Gerai tepi jalan dekat Raub"
+    },
+    {
+      "t": 15.66,
+      "end": 18.72,
+      "text": "Dua biji Musang King, bau dah kuat"
+    },
+    {
+      "t": 21.22,
+      "end": 25.4,
+      "text": "Kereta baru isteri aku pula"
+    },
+    {
+      "t": 27.86,
+      "end": 33.8,
+      "text": "Dia dah pesan, durian jangan bawa"
+    },
+    {
+      "t": 35.56,
+      "end": 35.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.56,
+      "end": 39.16,
+      "text": "Buka tingkap, buka semua"
+    },
+    {
+      "t": 41.76,
+      "end": 46.21,
+      "text": "Sembur pewangi, tak jalan juga"
+    },
+    {
+      "t": 48.21,
+      "end": 48.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.21,
+      "end": 53.25,
+      "text": "Musang King dalam bonet"
+    },
+    {
+      "t": 55.51,
+      "end": 59.93,
+      "text": "Bau dia sampai ke tingkat tiga"
+    },
+    {
+      "t": 63.43,
+      "end": 67.83,
+      "text": "Sayang turun, aku pun gelabah"
+    },
+    {
+      "t": 69.71,
+      "end": 74.47,
+      "text": "Aku kata itu bau lori sebelah"
+    },
+    {
+      "t": 77.19,
+      "end": 77.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.19,
+      "end": 80.69,
+      "text": "Aku tabur serbuk kopi bawah kerusi"
+    },
+    {
+      "t": 84.31,
+      "end": 88.85,
+      "text": "Aku gosok bonet dengan daun pandan"
+    },
+    {
+      "t": 88.87,
+      "end": 91.79,
+      "text": "Dia buka pintu, dia hidu sekali"
+    },
+    {
+      "t": 91.79,
+      "end": 95.95,
+      "text": "Dia senyum, mana bahagian aku?"
+    },
+    {
+      "t": 98.77,
+      "end": 98.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.77,
+      "end": 102.11,
+      "text": "Musang King dalam bonet"
+    },
+    {
+      "t": 104.39,
+      "end": 107.83,
+      "text": "Bau dia sampai ke tingkat tiga"
+    },
+    {
+      "t": 107.83,
+      "end": 109.39,
+      "text": "Sayang ketawa, minta yang besar"
+    },
+    {
+      "t": 111.19,
+      "end": 116.09,
+      "text": "Esok kita pergi Raub berdua"
+    },
+    {
+      "t": 146.7,
+      "end": 146.7,
+      "text": "[Outro - kicks, synth riff]"
+    },
+    {
+      "t": 146.7,
+      "end": 153.58,
+      "text": "Musang King, Musang King"
+    },
+    {
+      "t": 167.16,
+      "end": 174.82,
+      "text": "Kereta baru dah wangi durian"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

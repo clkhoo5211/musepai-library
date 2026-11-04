@@ -1,0 +1,489 @@
+{
+  "id": "b18_id04",
+  "title": "Kereta Ekonomi ke Kutoarjo",
+  "title_source": "scripted",
+  "genre": "Indonesian bedroom pop",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "lembut, gugup, sayang",
+  "persona": "",
+  "subject": "a Jakarta man on the economy train to Kutoarjo for Lebaran, going home with his girlfriend for the first time, practising polite Javanese greetings for her family while she corrects his pronunciation and laughs",
+  "caption": "Indonesian bedroom pop, soft intimate indie ballad. Fingerpicked nylon guitar with gentle arpeggios, felt-muted upright piano chords, warm Rhodes pads under the chorus, lo-fi drum loop with brushed snare and soft kick. Intimate bedroom recording with warm tape hiss and soft room reverb. Soft breathy male mid-register vocal, close-mic and tender, clearly sung melody, with a light female voice singing two short answer lines. 84 BPM, Bb major. Mood of nervous tenderness on a long train ride. No EDM, no trap beats, no autotune, no rock drums, no rap.",
+  "lyrics": "[Intro - nylon guitar, train-rhythm brush loop]\n[Verse 1]\nSenen jam lima, kursi berhadapan\nKardus oleh-oleh di bawah kaki\nKamu ajari aku bahasa ibumu\nSugeng enjang, aku ulang terus\n[Pre-Chorus]\nSalah sedikit kamu tertawa\nKatamu bapak nggak bakal galak\n[Chorus]\nKereta ekonomi ke Kutoarjo\nAku hafalkan kata demi kata\nBiar keluargamu tahu\nAku serius sama kamu\n[Verse 2]\nLewat Cirebon kamu tertidur\nAku masih berbisik matur nuwun\nPedagang lewat, kubeli pecel\nKusisihkan buat kamu bangun nanti\n[Pre-Chorus - Female Vocal]\nKamu buka mata, bilang pelan\nLogatmu sudah lumayan, Mas\n[Chorus]\nKereta ekonomi ke Kutoarjo\nTinggal satu stasiun lagi\nTanganku dingin, kamu genggam\nAyo turun, aku siap\n[Outro - piano and guitar, brush loop slows]\nSugeng enjang\nAku siap",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Indonesian bedroom pop, soft intimate indie ballad. Fingerpicked nylon guitar with gentle arpeggios, felt-muted upright piano chords, warm Rhodes pads under the chorus, lo-fi drum loop with brushed snare and soft kick. Intimate bedroom recording with warm tape hiss and soft room reverb. Soft breathy male mid-register vocal, close-mic and tender, clearly sung melody, with a light female voice singing two short answer lines. 84 BPM, Bb major. Mood of nervous tenderness on a long train ride. No EDM, no trap beats, no autotune, no rock drums, no rap.",
+    "lyrics": "[Intro - nylon guitar, train-rhythm brush loop]\n[Verse 1]\nSenen jam lima, kursi berhadapan\nKardus oleh-oleh di bawah kaki\nKamu ajari aku bahasa ibumu\nSugeng enjang, aku ulang terus\n[Pre-Chorus]\nSalah sedikit kamu tertawa\nKatamu bapak nggak bakal galak\n[Chorus]\nKereta ekonomi ke Kutoarjo\nAku hafalkan kata demi kata\nBiar keluargamu tahu\nAku serius sama kamu\n[Verse 2]\nLewat Cirebon kamu tertidur\nAku masih berbisik matur nuwun\nPedagang lewat, kubeli pecel\nKusisihkan buat kamu bangun nanti\n[Pre-Chorus - Female Vocal]\nKamu buka mata, bilang pelan\nLogatmu sudah lumayan, Mas\n[Chorus]\nKereta ekonomi ke Kutoarjo\nTinggal satu stasiun lagi\nTanganku dingin, kamu genggam\nAyo turun, aku siap\n[Outro - piano and guitar, brush loop slows]\nSugeng enjang\nAku siap"
+  },
+  "seed": "2567508596",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 114.13s**\n- 114.13s per song\n- LM phase (1 song): 19.66s\n- DiT phase (1 song): 94.47s",
+  "task_id": "546e76be-45e8-447d-b048-4b727d4a0401",
+  "elapsed_s": 150.6,
+  "generated_at": "2026-11-04T15:29:06.400022+08:00",
+  "audio": "b18_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Intro - nylon guitar, train-rhythm brush loop]"
+    },
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.82,
+      "end": 29.64,
+      "text": "Senen jam lima, kursi berhadapan"
+    },
+    {
+      "t": 31.66,
+      "end": 35.78,
+      "text": "Kardus oleh-oleh di bawah kaki"
+    },
+    {
+      "t": 37.42,
+      "end": 42.04,
+      "text": "Kamu ajari aku bahasa ibumu"
+    },
+    {
+      "t": 43.48,
+      "end": 48.26,
+      "text": "Sugeng enjang, aku ulang terus"
+    },
+    {
+      "t": 49.02,
+      "end": 49.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.02,
+      "end": 53.31,
+      "text": "Salah sedikit kamu tertawa"
+    },
+    {
+      "t": 54.57,
+      "end": 59.67,
+      "text": "Katamu bapak nggak bakal galak"
+    },
+    {
+      "t": 61.07,
+      "end": 61.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.07,
+      "end": 67.35,
+      "text": "Kereta ekonomi ke Kutoarjo"
+    },
+    {
+      "t": 69.13,
+      "end": 73.13,
+      "text": "Aku hafalkan kata demi kata"
+    },
+    {
+      "t": 75.13,
+      "end": 78.51,
+      "text": "Biar keluargamu tahu"
+    },
+    {
+      "t": 80.59,
+      "end": 83.83,
+      "text": "Aku serius sama kamu"
+    },
+    {
+      "t": 84.09,
+      "end": 84.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.09,
+      "end": 90.13,
+      "text": "Lewat Cirebon kamu tertidur"
+    },
+    {
+      "t": 92.71,
+      "end": 98.43,
+      "text": "Aku masih berbisik matur nuwun"
+    },
+    {
+      "t": 100.83,
+      "end": 103.97,
+      "text": "Pedagang lewat, kubeli pecel"
+    },
+    {
+      "t": 103.97,
+      "end": 108.11,
+      "text": "Kusisihkan buat kamu bangun nanti"
+    },
+    {
+      "t": 112.09,
+      "end": 112.09,
+      "text": "[Pre-Chorus - Female Vocal]"
+    },
+    {
+      "t": 112.09,
+      "end": 115.77,
+      "text": "Kamu buka mata, bilang pelan"
+    },
+    {
+      "t": 117.63,
+      "end": 119.69,
+      "text": "Logatmu sudah lumayan, Mas"
+    },
+    {
+      "t": 119.69,
+      "end": 119.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.69,
+      "end": 120.47,
+      "text": "Kereta ekonomi ke Kutoarjo"
+    },
+    {
+      "t": 120.47,
+      "end": 123.33,
+      "text": "Tinggal satu stasiun lagi"
+    },
+    {
+      "t": 123.33,
+      "end": 127.07,
+      "text": "Tanganku dingin, kamu genggam"
+    },
+    {
+      "t": 127.07,
+      "end": 157.28,
+      "text": "Ayo turun, aku siap"
+    },
+    {
+      "t": 157.28,
+      "end": 157.28,
+      "text": "[Outro - piano and guitar, brush loop slows]"
+    },
+    {
+      "t": 157.28,
+      "end": 163.38,
+      "text": "Sugeng enjang"
+    },
+    {
+      "t": 168.82,
+      "end": 172.2,
+      "text": "Aku siap"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Intro - nylon guitar, train-rhythm brush loop]"
+    },
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.82,
+      "end": 29.64,
+      "text": "Senen jam lima, kursi berhadapan"
+    },
+    {
+      "t": 31.66,
+      "end": 35.78,
+      "text": "Kardus oleh-oleh di bawah kaki"
+    },
+    {
+      "t": 37.42,
+      "end": 42.04,
+      "text": "Kamu ajari aku bahasa ibumu"
+    },
+    {
+      "t": 43.48,
+      "end": 48.26,
+      "text": "Sugeng enjang, aku ulang terus"
+    },
+    {
+      "t": 49.02,
+      "end": 49.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.02,
+      "end": 53.31,
+      "text": "Salah sedikit kamu tertawa"
+    },
+    {
+      "t": 54.57,
+      "end": 59.67,
+      "text": "Katamu bapak nggak bakal galak"
+    },
+    {
+      "t": 61.07,
+      "end": 61.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.07,
+      "end": 67.35,
+      "text": "Kereta ekonomi ke Kutoarjo"
+    },
+    {
+      "t": 69.13,
+      "end": 73.11,
+      "text": "Aku hafalkan kata demi kata"
+    },
+    {
+      "t": 75.13,
+      "end": 78.51,
+      "text": "Biar keluargamu tahu"
+    },
+    {
+      "t": 80.59,
+      "end": 83.83,
+      "text": "Aku serius sama kamu"
+    },
+    {
+      "t": 84.09,
+      "end": 84.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.09,
+      "end": 90.13,
+      "text": "Lewat Cirebon kamu tertidur"
+    },
+    {
+      "t": 92.71,
+      "end": 98.43,
+      "text": "Aku masih berbisik matur nuwun"
+    },
+    {
+      "t": 100.83,
+      "end": 103.97,
+      "text": "Pedagang lewat, kubeli pecel"
+    },
+    {
+      "t": 103.97,
+      "end": 108.11,
+      "text": "Kusisihkan buat kamu bangun nanti"
+    },
+    {
+      "t": 112.09,
+      "end": 112.09,
+      "text": "[Pre-Chorus - Female Vocal]"
+    },
+    {
+      "t": 112.09,
+      "end": 115.77,
+      "text": "Kamu buka mata, bilang pelan"
+    },
+    {
+      "t": 117.63,
+      "end": 119.69,
+      "text": "Logatmu sudah lumayan, Mas"
+    },
+    {
+      "t": 119.69,
+      "end": 119.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.69,
+      "end": 120.47,
+      "text": "Kereta ekonomi ke Kutoarjo"
+    },
+    {
+      "t": 120.47,
+      "end": 123.33,
+      "text": "Tinggal satu stasiun lagi"
+    },
+    {
+      "t": 123.33,
+      "end": 127.07,
+      "text": "Tanganku dingin, kamu genggam"
+    },
+    {
+      "t": 127.07,
+      "end": 157.28,
+      "text": "Ayo turun, aku siap"
+    },
+    {
+      "t": 157.28,
+      "end": 157.28,
+      "text": "[Outro - piano and guitar, brush loop slows]"
+    },
+    {
+      "t": 157.28,
+      "end": 163.38,
+      "text": "Sugeng enjang"
+    },
+    {
+      "t": 168.82,
+      "end": 172.18,
+      "text": "Aku siap"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Intro - nylon guitar, train-rhythm brush loop]"
+    },
+    {
+      "t": 25.82,
+      "end": 25.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.82,
+      "end": 29.62,
+      "text": "Senen jam lima, kursi berhadapan"
+    },
+    {
+      "t": 31.66,
+      "end": 35.78,
+      "text": "Kardus oleh-oleh di bawah kaki"
+    },
+    {
+      "t": 37.42,
+      "end": 42.06,
+      "text": "Kamu ajari aku bahasa ibumu"
+    },
+    {
+      "t": 43.48,
+      "end": 48.46,
+      "text": "Sugeng enjang, aku ulang terus"
+    },
+    {
+      "t": 49.02,
+      "end": 49.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.02,
+      "end": 53.31,
+      "text": "Salah sedikit kamu tertawa"
+    },
+    {
+      "t": 54.57,
+      "end": 59.65,
+      "text": "Katamu bapak nggak bakal galak"
+    },
+    {
+      "t": 61.07,
+      "end": 61.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.07,
+      "end": 66.27,
+      "text": "Kereta ekonomi ke Kutoarjo"
+    },
+    {
+      "t": 67.33,
+      "end": 73.11,
+      "text": "Aku hafalkan kata demi kata"
+    },
+    {
+      "t": 75.13,
+      "end": 78.55,
+      "text": "Biar keluargamu tahu"
+    },
+    {
+      "t": 80.59,
+      "end": 83.81,
+      "text": "Aku serius sama kamu"
+    },
+    {
+      "t": 86.89,
+      "end": 86.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.89,
+      "end": 90.13,
+      "text": "Lewat Cirebon kamu tertidur"
+    },
+    {
+      "t": 92.71,
+      "end": 98.43,
+      "text": "Aku masih berbisik matur nuwun"
+    },
+    {
+      "t": 100.83,
+      "end": 102.81,
+      "text": "Pedagang lewat, kubeli pecel"
+    },
+    {
+      "t": 103.67,
+      "end": 108.11,
+      "text": "Kusisihkan buat kamu bangun nanti"
+    },
+    {
+      "t": 112.09,
+      "end": 112.09,
+      "text": "[Pre-Chorus - Female Vocal]"
+    },
+    {
+      "t": 112.09,
+      "end": 115.77,
+      "text": "Kamu buka mata, bilang pelan"
+    },
+    {
+      "t": 117.63,
+      "end": 119.69,
+      "text": "Logatmu sudah lumayan, Mas"
+    },
+    {
+      "t": 119.69,
+      "end": 119.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.69,
+      "end": 120.45,
+      "text": "Kereta ekonomi ke Kutoarjo"
+    },
+    {
+      "t": 120.45,
+      "end": 121.89,
+      "text": "Tinggal satu stasiun lagi"
+    },
+    {
+      "t": 123.33,
+      "end": 127.19,
+      "text": "Tanganku dingin, kamu genggam"
+    },
+    {
+      "t": 127.85,
+      "end": 153.9,
+      "text": "Ayo turun, aku siap"
+    },
+    {
+      "t": 157.26,
+      "end": 157.26,
+      "text": "[Outro - piano and guitar, brush loop slows]"
+    },
+    {
+      "t": 157.26,
+      "end": 158.86,
+      "text": "Sugeng enjang"
+    },
+    {
+      "t": 163.12,
+      "end": 169.08,
+      "text": "Aku siap"
+    }
+  ]
+}

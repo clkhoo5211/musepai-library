@@ -1,0 +1,307 @@
+{
+  "id": "b18_ms01",
+  "title": "Tersangkut di Karak",
+  "title_source": "scripted",
+  "genre": "Malay UK garage 2-step pop",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "playful, flirty, sunny",
+  "persona": "",
+  "subject": "a newly married couple stuck nine hours in the Hari Raya eve jam on the Karak Highway, the wife counting how many times her husband says 'dah nak sampai'",
+  "caption": "Malay UK garage 2-step pop, late-90s London garage revival. Shuffled 2-step drum machine with skippy hi-hats and swung kicks, warm rolling sub bass, short Hammond organ stabs on the offbeat, clean plucked electric guitar riff. Crisp sidechained mix with airy reverb. Female lead vocal, mid register, light, clearly sung melody. 132 BPM, A minor. Playful and flirty road-trip mood. No trap hi-hats, no autotune, no rap, no EDM drops, no dangdut drums.",
+  "lyrics": "[Intro - 2-step drums, organ stabs]\n\n[Verse 1]\nLampu brek merah sampai ke Genting\nKau kata lagi sejam, aku pun senyum\nRadio dah ulang lagu raya sama\nKetupat mak dah sejuk dalam bonet\n\n[Pre-Chorus]\nSatu kali kau kata dah nak sampai\nDua kali, tiga, aku kira je\n\n[Chorus]\nTersangkut di Karak dengan kau\nKereta tak gerak, hati tak risau\nDah nak sampai, kau kata lagi\nSayang, kita baru lepas Gombak tadi\n\n[Verse 2]\nKau kongsi kacang, aku pegang peta\nKau tunjuk lori, aku ketawa\nKereta sebelah dah tidur pun\nKita nyanyi kuat, tingkap terbuka\n\n[Chorus]\nTersangkut di Karak dengan kau\nKereta tak gerak, hati tak risau\nDah nak sampai, kau kata lagi\nSayang, matahari dah terbenam tadi\n\n[Outro - organ stabs, sub bass fades]\nDah nak sampai, katanya\nTak apa, aku ada kau",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Malay UK garage 2-step pop, late-90s London garage revival. Shuffled 2-step drum machine with skippy hi-hats and swung kicks, warm rolling sub bass, short Hammond organ stabs on the offbeat, clean plucked electric guitar riff. Crisp sidechained mix with airy reverb. Female lead vocal, mid register, light, clearly sung melody. 132 BPM, A minor. Playful and flirty road-trip mood. No trap hi-hats, no autotune, no rap, no EDM drops, no dangdut drums.",
+    "lyrics": "[Intro - 2-step drums, organ stabs]\n\n[Verse 1]\nLampu brek merah sampai ke Genting\nKau kata lagi sejam, aku pun senyum\nRadio dah ulang lagu raya sama\nKetupat mak dah sejuk dalam bonet\n\n[Pre-Chorus]\nSatu kali kau kata dah nak sampai\nDua kali, tiga, aku kira je\n\n[Chorus]\nTersangkut di Karak dengan kau\nKereta tak gerak, hati tak risau\nDah nak sampai, kau kata lagi\nSayang, kita baru lepas Gombak tadi\n\n[Verse 2]\nKau kongsi kacang, aku pegang peta\nKau tunjuk lori, aku ketawa\nKereta sebelah dah tidur pun\nKita nyanyi kuat, tingkap terbuka\n\n[Chorus]\nTersangkut di Karak dengan kau\nKereta tak gerak, hati tak risau\nDah nak sampai, kau kata lagi\nSayang, matahari dah terbenam tadi\n\n[Outro - organ stabs, sub bass fades]\nDah nak sampai, katanya\nTak apa, aku ada kau"
+  },
+  "seed": "236146600",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.64s**\n- 72.64s per song\n- LM phase (1 song): 12.17s\n- DiT phase (1 song): 60.47s",
+  "task_id": "f75b7c9e-af27-4e49-a522-76384c6353c5",
+  "elapsed_s": 100.3,
+  "generated_at": "2026-11-04T16:27:51.145712+08:00",
+  "audio": "b18_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Intro - 2-step drums, organ stabs]"
+    },
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.4,
+      "end": 41.1,
+      "text": "Lampu brek merah sampai ke Genting"
+    },
+    {
+      "t": 41.16,
+      "end": 50.53,
+      "text": "Kau kata lagi sejam, aku pun senyum"
+    },
+    {
+      "t": 50.71,
+      "end": 55.55,
+      "text": "Radio dah ulang lagu raya sama"
+    },
+    {
+      "t": 56.53,
+      "end": 59.49,
+      "text": "Ketupat mak dah sejuk dalam bonet"
+    },
+    {
+      "t": 59.53,
+      "end": 59.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.53,
+      "end": 65.35,
+      "text": "Satu kali kau kata dah nak sampai"
+    },
+    {
+      "t": 66.71,
+      "end": 68.21,
+      "text": "Dua kali, tiga, aku kira je"
+    },
+    {
+      "t": 70.33,
+      "end": 70.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.33,
+      "end": 71.63,
+      "text": "Tersangkut di Karak dengan kau"
+    },
+    {
+      "t": 71.63,
+      "end": 79.35,
+      "text": "Kereta tak gerak, hati tak risau"
+    },
+    {
+      "t": 79.41,
+      "end": 85.79,
+      "text": "Dah nak sampai, kau kata lagi"
+    },
+    {
+      "t": 85.79,
+      "end": 89.37,
+      "text": "Sayang, kita baru lepas Gombak tadi"
+    },
+    {
+      "t": 92.59,
+      "end": 92.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.59,
+      "end": 98.17,
+      "text": "Kau kongsi kacang, aku pegang peta"
+    },
+    {
+      "t": 100.31,
+      "end": 104.63,
+      "text": "Kau tunjuk lori, aku ketawa"
+    },
+    {
+      "t": 107.59,
+      "end": 111.51,
+      "text": "Kereta sebelah dah tidur pun"
+    },
+    {
+      "t": 112.13,
+      "end": 117.75,
+      "text": "Kita nyanyi kuat, tingkap terbuka"
+    },
+    {
+      "t": 119.83,
+      "end": 119.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.83,
+      "end": 124.11,
+      "text": "Tersangkut di Karak dengan kau"
+    },
+    {
+      "t": 124.41,
+      "end": 129.87,
+      "text": "Kereta tak gerak, hati tak risau"
+    },
+    {
+      "t": 129.87,
+      "end": 147.84,
+      "text": "Dah nak sampai, kau kata lagi"
+    },
+    {
+      "t": 148.88,
+      "end": 160.86,
+      "text": "Sayang, matahari dah terbenam tadi"
+    },
+    {
+      "t": 168.0,
+      "end": 168.0,
+      "text": "[Outro - organ stabs, sub bass fades]"
+    },
+    {
+      "t": 168.0,
+      "end": 171.78,
+      "text": "Dah nak sampai, katanya"
+    },
+    {
+      "t": 175.22,
+      "end": 182.06,
+      "text": "Tak apa, aku ada kau"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Intro - 2-step drums, organ stabs]"
+    },
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.4,
+      "end": 32.02,
+      "text": "Lampu brek merah sampai ke Genting"
+    },
+    {
+      "t": 32.02,
+      "end": 42.94,
+      "text": "Kau kata lagi sejam, aku pun senyum"
+    },
+    {
+      "t": 43.0,
+      "end": 50.39,
+      "text": "Radio dah ulang lagu raya sama"
+    },
+    {
+      "t": 50.39,
+      "end": 51.81,
+      "text": "Ketupat mak dah sejuk dalam bonet"
+    },
+    {
+      "t": 51.85,
+      "end": 51.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.85,
+      "end": 54.69,
+      "text": "Satu kali kau kata dah nak sampai"
+    },
+    {
+      "t": 54.85,
+      "end": 56.99,
+      "text": "Dua kali, tiga, aku kira je"
+    },
+    {
+      "t": 56.99,
+      "end": 56.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.99,
+      "end": 57.75,
+      "text": "Tersangkut di Karak dengan kau"
+    },
+    {
+      "t": 57.75,
+      "end": 61.13,
+      "text": "Kereta tak gerak, hati tak risau"
+    },
+    {
+      "t": 63.53,
+      "end": 68.21,
+      "text": "Dah nak sampai, kau kata lagi"
+    },
+    {
+      "t": 70.35,
+      "end": 72.33,
+      "text": "Sayang, kita baru lepas Gombak tadi"
+    },
+    {
+      "t": 78.51,
+      "end": 78.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.51,
+      "end": 82.07,
+      "text": "Kau kongsi kacang, aku pegang peta"
+    },
+    {
+      "t": 85.77,
+      "end": 89.37,
+      "text": "Kau tunjuk lori, aku ketawa"
+    },
+    {
+      "t": 107.59,
+      "end": 111.63,
+      "text": "Kereta sebelah dah tidur pun"
+    },
+    {
+      "t": 112.11,
+      "end": 117.45,
+      "text": "Kita nyanyi kuat, tingkap terbuka"
+    },
+    {
+      "t": 117.45,
+      "end": 117.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.45,
+      "end": 120.61,
+      "text": "Tersangkut di Karak dengan kau"
+    },
+    {
+      "t": 120.61,
+      "end": 122.07,
+      "text": "Kereta tak gerak, hati tak risau"
+    },
+    {
+      "t": 122.07,
+      "end": 124.55,
+      "text": "Dah nak sampai, kau kata lagi"
+    },
+    {
+      "t": 127.55,
+      "end": 131.83,
+      "text": "Sayang, matahari dah terbenam tadi"
+    },
+    {
+      "t": 167.98,
+      "end": 167.98,
+      "text": "[Outro - organ stabs, sub bass fades]"
+    },
+    {
+      "t": 167.98,
+      "end": 171.8,
+      "text": "Dah nak sampai, katanya"
+    },
+    {
+      "t": 173.84,
+      "end": 182.0,
+      "text": "Tak apa, aku ada kau"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

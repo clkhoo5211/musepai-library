@@ -1,0 +1,459 @@
+{
+  "id": "b18_en05",
+  "title": "Five Minutes Flat",
+  "title_source": "scripted",
+  "genre": "UK happy hardcore",
+  "language": "en",
+  "language_name": "English",
+  "mood": "euphoric, stubborn, funny",
+  "persona": "",
+  "subject": "a woman training on her living-room rug to hold a plank for five full minutes before her fiftieth birthday, counting on the oven clock while her husband reads the seconds out loud",
+  "caption": "UK happy hardcore, mid-90s Hixxy and Bang Face style. Pounding 4x4 kick, hoover synth stabs, bright rave piano chords, rolling off-beat bass. Bright 90s rave sheen with big piano reverb and a crisp modern master. Female soprano, clearly sung euphoric diva melody. 170 BPM, F major. Euphoric, stubborn, funny. No trap, no autotune drift, no dubstep, no rapped lines, no slow ballad sections.",
+  "lyrics": "[Intro - rave piano, hoover stab]\n\n[Verse 1]\nElbows on the living-room rug\nToes on the edge of the mat\nThe oven clock says four past eight\nI've got five minutes flat\n\n[Pre-Chorus]\nYou read the seconds off your watch\nYou sound like a radio\n\n[Chorus]\nFive minutes flat, I'm nearly fifty\nShaking like a garden chair\nHold on, hold on, the kettle's whistling\nI'm not getting up from here\n\n[Verse 2]\nIn March I lasted forty seconds\nIn June I made it three\nThe cat walked under like I'm a bridge\nAnd sat down under me\n\n[Pre-Chorus]\nFour fifty-eight, four fifty-nine\nYou're standing on the chair\n\n[Chorus]\nFive minutes flat, I'm nearly fifty\nAnd I'm lying on the floor\nYou're cheering like I scored a goal\nNow get the candles from the drawer\n\n[Outro - piano breakdown, kick returns]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 170,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "UK happy hardcore, mid-90s Hixxy and Bang Face style. Pounding 4x4 kick, hoover synth stabs, bright rave piano chords, rolling off-beat bass. Bright 90s rave sheen with big piano reverb and a crisp modern master. Female soprano, clearly sung euphoric diva melody. 170 BPM, F major. Euphoric, stubborn, funny. No trap, no autotune drift, no dubstep, no rapped lines, no slow ballad sections.",
+    "lyrics": "[Intro - rave piano, hoover stab]\n\n[Verse 1]\nElbows on the living-room rug\nToes on the edge of the mat\nThe oven clock says four past eight\nI've got five minutes flat\n\n[Pre-Chorus]\nYou read the seconds off your watch\nYou sound like a radio\n\n[Chorus]\nFive minutes flat, I'm nearly fifty\nShaking like a garden chair\nHold on, hold on, the kettle's whistling\nI'm not getting up from here\n\n[Verse 2]\nIn March I lasted forty seconds\nIn June I made it three\nThe cat walked under like I'm a bridge\nAnd sat down under me\n\n[Pre-Chorus]\nFour fifty-eight, four fifty-nine\nYou're standing on the chair\n\n[Chorus]\nFive minutes flat, I'm nearly fifty\nAnd I'm lying on the floor\nYou're cheering like I scored a goal\nNow get the candles from the drawer\n\n[Outro - piano breakdown, kick returns]"
+  },
+  "seed": "523683325",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 105.17s**\n- 105.17s per song\n- LM phase (1 song): 21.10s\n- DiT phase (1 song): 84.06s",
+  "task_id": "7cb47cdc-eaff-46d5-9490-34136778c5dd",
+  "elapsed_s": 130.2,
+  "generated_at": "2026-11-04T16:04:44.711549+08:00",
+  "audio": "b18_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 3.36,
+      "end": 3.36,
+      "text": "[Intro - rave piano, hoover stab]"
+    },
+    {
+      "t": 3.36,
+      "end": 3.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.36,
+      "end": 34.94,
+      "text": "Elbows on the living-room rug"
+    },
+    {
+      "t": 34.94,
+      "end": 35.6,
+      "text": "Toes on the edge of the mat"
+    },
+    {
+      "t": 35.62,
+      "end": 37.04,
+      "text": "The oven clock says four past eight"
+    },
+    {
+      "t": 37.04,
+      "end": 37.62,
+      "text": "I've got five minutes flat"
+    },
+    {
+      "t": 37.62,
+      "end": 37.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.62,
+      "end": 38.44,
+      "text": "You read the seconds off your watch"
+    },
+    {
+      "t": 38.44,
+      "end": 39.28,
+      "text": "You sound like a radio"
+    },
+    {
+      "t": 39.28,
+      "end": 39.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.28,
+      "end": 42.24,
+      "text": "Five minutes flat, I'm nearly fifty"
+    },
+    {
+      "t": 42.94,
+      "end": 45.32,
+      "text": "Shaking like a garden chair"
+    },
+    {
+      "t": 45.76,
+      "end": 51.21,
+      "text": "Hold on, hold on, the kettle's whistling"
+    },
+    {
+      "t": 53.93,
+      "end": 56.63,
+      "text": "I'm not getting up from here"
+    },
+    {
+      "t": 59.57,
+      "end": 59.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 59.57,
+      "end": 69.15,
+      "text": "In March I lasted forty seconds"
+    },
+    {
+      "t": 70.85,
+      "end": 73.95,
+      "text": "In June I made it three"
+    },
+    {
+      "t": 76.57,
+      "end": 81.73,
+      "text": "The cat walked under like I'm a bridge"
+    },
+    {
+      "t": 82.25,
+      "end": 85.15,
+      "text": "And sat down under me"
+    },
+    {
+      "t": 88.13,
+      "end": 88.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.13,
+      "end": 93.31,
+      "text": "Four fifty-eight, four fifty-nine"
+    },
+    {
+      "t": 93.31,
+      "end": 96.91,
+      "text": "You're standing on the chair"
+    },
+    {
+      "t": 97.01,
+      "end": 97.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.01,
+      "end": 147.38,
+      "text": "Five minutes flat, I'm nearly fifty"
+    },
+    {
+      "t": 147.38,
+      "end": 149.36,
+      "text": "And I'm lying on the floor"
+    },
+    {
+      "t": 152.44,
+      "end": 155.2,
+      "text": "You're cheering like I scored a goal"
+    },
+    {
+      "t": 155.8,
+      "end": 157.84,
+      "text": "Now get the candles from the drawer"
+    },
+    {
+      "t": 157.84,
+      "end": 157.84,
+      "text": "[Outro - piano breakdown, kick returns]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 3.7,
+      "end": 3.7,
+      "text": "[Intro - rave piano, hoover stab]"
+    },
+    {
+      "t": 3.7,
+      "end": 3.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.7,
+      "end": 34.94,
+      "text": "Elbows on the living-room rug"
+    },
+    {
+      "t": 34.94,
+      "end": 35.6,
+      "text": "Toes on the edge of the mat"
+    },
+    {
+      "t": 35.62,
+      "end": 37.04,
+      "text": "The oven clock says four past eight"
+    },
+    {
+      "t": 37.04,
+      "end": 37.62,
+      "text": "I've got five minutes flat"
+    },
+    {
+      "t": 37.62,
+      "end": 37.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.62,
+      "end": 38.44,
+      "text": "You read the seconds off your watch"
+    },
+    {
+      "t": 38.44,
+      "end": 39.28,
+      "text": "You sound like a radio"
+    },
+    {
+      "t": 39.28,
+      "end": 39.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.28,
+      "end": 42.24,
+      "text": "Five minutes flat, I'm nearly fifty"
+    },
+    {
+      "t": 42.94,
+      "end": 45.32,
+      "text": "Shaking like a garden chair"
+    },
+    {
+      "t": 45.76,
+      "end": 51.21,
+      "text": "Hold on, hold on, the kettle's whistling"
+    },
+    {
+      "t": 53.93,
+      "end": 56.63,
+      "text": "I'm not getting up from here"
+    },
+    {
+      "t": 59.57,
+      "end": 59.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 59.57,
+      "end": 69.15,
+      "text": "In March I lasted forty seconds"
+    },
+    {
+      "t": 70.85,
+      "end": 73.95,
+      "text": "In June I made it three"
+    },
+    {
+      "t": 76.57,
+      "end": 81.73,
+      "text": "The cat walked under like I'm a bridge"
+    },
+    {
+      "t": 82.25,
+      "end": 85.15,
+      "text": "And sat down under me"
+    },
+    {
+      "t": 88.13,
+      "end": 88.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.13,
+      "end": 93.31,
+      "text": "Four fifty-eight, four fifty-nine"
+    },
+    {
+      "t": 93.31,
+      "end": 96.91,
+      "text": "You're standing on the chair"
+    },
+    {
+      "t": 97.07,
+      "end": 97.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.07,
+      "end": 147.38,
+      "text": "Five minutes flat, I'm nearly fifty"
+    },
+    {
+      "t": 147.38,
+      "end": 149.36,
+      "text": "And I'm lying on the floor"
+    },
+    {
+      "t": 152.44,
+      "end": 155.2,
+      "text": "You're cheering like I scored a goal"
+    },
+    {
+      "t": 155.8,
+      "end": 157.84,
+      "text": "Now get the candles from the drawer"
+    },
+    {
+      "t": 157.84,
+      "end": 157.84,
+      "text": "[Outro - piano breakdown, kick returns]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 15.3,
+      "end": 15.3,
+      "text": "[Intro - rave piano, hoover stab]"
+    },
+    {
+      "t": 15.3,
+      "end": 15.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.3,
+      "end": 22.1,
+      "text": "Elbows on the living-room rug"
+    },
+    {
+      "t": 22.26,
+      "end": 25.78,
+      "text": "Toes on the edge of the mat"
+    },
+    {
+      "t": 26.12,
+      "end": 31.06,
+      "text": "The oven clock says four past eight"
+    },
+    {
+      "t": 31.1,
+      "end": 33.52,
+      "text": "I've got five minutes flat"
+    },
+    {
+      "t": 34.74,
+      "end": 34.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.74,
+      "end": 37.02,
+      "text": "You read the seconds off your watch"
+    },
+    {
+      "t": 37.36,
+      "end": 39.14,
+      "text": "You sound like a radio"
+    },
+    {
+      "t": 39.28,
+      "end": 39.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.28,
+      "end": 42.84,
+      "text": "Five minutes flat, I'm nearly fifty"
+    },
+    {
+      "t": 42.94,
+      "end": 45.28,
+      "text": "Shaking like a garden chair"
+    },
+    {
+      "t": 45.76,
+      "end": 51.19,
+      "text": "Hold on, hold on, the kettle's whistling"
+    },
+    {
+      "t": 52.53,
+      "end": 58.35,
+      "text": "I'm not getting up from here"
+    },
+    {
+      "t": 59.57,
+      "end": 59.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 59.57,
+      "end": 69.15,
+      "text": "In March I lasted forty seconds"
+    },
+    {
+      "t": 70.85,
+      "end": 73.93,
+      "text": "In June I made it three"
+    },
+    {
+      "t": 76.57,
+      "end": 81.71,
+      "text": "The cat walked under like I'm a bridge"
+    },
+    {
+      "t": 82.25,
+      "end": 85.17,
+      "text": "And sat down under me"
+    },
+    {
+      "t": 88.19,
+      "end": 88.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.19,
+      "end": 92.83,
+      "text": "Four fifty-eight, four fifty-nine"
+    },
+    {
+      "t": 93.33,
+      "end": 105.09,
+      "text": "You're standing on the chair"
+    },
+    {
+      "t": 106.63,
+      "end": 106.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.63,
+      "end": 118.49,
+      "text": "Five minutes flat, I'm nearly fifty"
+    },
+    {
+      "t": 118.51,
+      "end": 142.52,
+      "text": "And I'm lying on the floor"
+    },
+    {
+      "t": 142.68,
+      "end": 153.54,
+      "text": "You're cheering like I scored a goal"
+    },
+    {
+      "t": 154.0,
+      "end": 175.62,
+      "text": "Now get the candles from the drawer"
+    },
+    {
+      "t": 175.62,
+      "end": 175.62,
+      "text": "[Outro - piano breakdown, kick returns]"
+    }
+  ]
+}

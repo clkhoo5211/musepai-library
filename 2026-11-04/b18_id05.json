@@ -1,0 +1,489 @@
+{
+  "id": "b18_id05",
+  "title": "Batik Kembar Hari Jumat",
+  "title_source": "scripted",
+  "genre": "keroncong-dangdut fusion with Middle Eastern groove",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "kocak, bergoyang, malu-malu",
+  "persona": "",
+  "subject": "an office clerk in Solo who buys a new batik shirt for Batik Friday at a small shop on Jalan Slamet Riyadi, only to discover the shop owner sold the exact same motif to his boss, so every Friday they turn up as twins and the whole floor wants a photo",
+  "caption": "Keroncong-dangdut fusion with a Middle Eastern groove. Keroncong cak and cuk ukuleles playing interlocking crong-crong strums, suling bamboo flute with bending runs, kendang dangdut with tak-dut patterns, darbuka rolls pushing the groove, violin answering the vocal lines. Warm roomy live-band production, clean and dry. Bright cheeky female mid-high vocal, clearly sung melody with light dangdut ornaments. 112 BPM, D minor. Mood of an office comedy you can dance to. No EDM drops, no koplo remix bass, no autotune, no rap, no rock guitar.",
+  "lyrics": "[Intro - suling run, cak and cuk strumming, kendang enters]\n[Verse 1]\nMas Hendra beli batik baru\nMotif parang warna merah bata\nKata Bu Ning yang punya toko\nCuma satu, Mas, khusus buat sampeyan\n[Pre-Chorus]\nJumat pagi dia masuk kantor\nPintu lift terbuka pelan-pelan\n[Chorus]\nBatik kembar hari Jumat\nPak Bos pakai motif yang sama\nSatu lantai minta foto\nMas Hendra pengin pulang saja\n[Verse 2]\nMinggu depan dia ganti kawung\nPak Bos juga ganti kawung\nTernyata Bu Ning simpan catatan\nUkuran mereka di satu buku\n[Bridge - violin and darbuka break]\nBu Ning senyum di balik meja\nDua pelanggan, satu selera\n[Chorus]\nBatik kembar hari Jumat\nPak Bos tepuk pundaknya pelan\nSeleramu bagus, Hendra\nTahun depan kamu naik jabatan\n[Outro - suling and kendang, fade]\nBatik kembar\nJumat lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Keroncong-dangdut fusion with a Middle Eastern groove. Keroncong cak and cuk ukuleles playing interlocking crong-crong strums, suling bamboo flute with bending runs, kendang dangdut with tak-dut patterns, darbuka rolls pushing the groove, violin answering the vocal lines. Warm roomy live-band production, clean and dry. Bright cheeky female mid-high vocal, clearly sung melody with light dangdut ornaments. 112 BPM, D minor. Mood of an office comedy you can dance to. No EDM drops, no koplo remix bass, no autotune, no rap, no rock guitar.",
+    "lyrics": "[Intro - suling run, cak and cuk strumming, kendang enters]\n[Verse 1]\nMas Hendra beli batik baru\nMotif parang warna merah bata\nKata Bu Ning yang punya toko\nCuma satu, Mas, khusus buat sampeyan\n[Pre-Chorus]\nJumat pagi dia masuk kantor\nPintu lift terbuka pelan-pelan\n[Chorus]\nBatik kembar hari Jumat\nPak Bos pakai motif yang sama\nSatu lantai minta foto\nMas Hendra pengin pulang saja\n[Verse 2]\nMinggu depan dia ganti kawung\nPak Bos juga ganti kawung\nTernyata Bu Ning simpan catatan\nUkuran mereka di satu buku\n[Bridge - violin and darbuka break]\nBu Ning senyum di balik meja\nDua pelanggan, satu selera\n[Chorus]\nBatik kembar hari Jumat\nPak Bos tepuk pundaknya pelan\nSeleramu bagus, Hendra\nTahun depan kamu naik jabatan\n[Outro - suling and kendang, fade]\nBatik kembar\nJumat lagi"
+  },
+  "seed": "4182551399",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 120.31s**\n- 120.31s per song\n- LM phase (1 song): 25.58s\n- DiT phase (1 song): 94.73s",
+  "task_id": "4b351f7b-8377-4f91-9a59-975368d813e3",
+  "elapsed_s": 160.7,
+  "generated_at": "2026-11-04T15:31:47.079475+08:00",
+  "audio": "b18_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.3,
+      "end": 20.3,
+      "text": "[Intro - suling run, cak and cuk strumming, kendang enters]"
+    },
+    {
+      "t": 20.3,
+      "end": 20.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.3,
+      "end": 24.38,
+      "text": "Mas Hendra beli batik baru"
+    },
+    {
+      "t": 24.38,
+      "end": 27.04,
+      "text": "Motif parang warna merah bata"
+    },
+    {
+      "t": 28.74,
+      "end": 32.06,
+      "text": "Kata Bu Ning yang punya toko"
+    },
+    {
+      "t": 32.68,
+      "end": 42.88,
+      "text": "Cuma satu, Mas, khusus buat sampeyan"
+    },
+    {
+      "t": 45.56,
+      "end": 45.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.56,
+      "end": 52.23,
+      "text": "Jumat pagi dia masuk kantor"
+    },
+    {
+      "t": 54.29,
+      "end": 61.49,
+      "text": "Pintu lift terbuka pelan-pelan"
+    },
+    {
+      "t": 61.49,
+      "end": 61.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.49,
+      "end": 62.29,
+      "text": "Batik kembar hari Jumat"
+    },
+    {
+      "t": 63.25,
+      "end": 63.75,
+      "text": "Pak Bos pakai motif yang sama"
+    },
+    {
+      "t": 65.59,
+      "end": 73.87,
+      "text": "Satu lantai minta foto"
+    },
+    {
+      "t": 73.99,
+      "end": 79.79,
+      "text": "Mas Hendra pengin pulang saja"
+    },
+    {
+      "t": 79.79,
+      "end": 79.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.79,
+      "end": 83.53,
+      "text": "Minggu depan dia ganti kawung"
+    },
+    {
+      "t": 84.03,
+      "end": 86.07,
+      "text": "Pak Bos juga ganti kawung"
+    },
+    {
+      "t": 86.13,
+      "end": 88.07,
+      "text": "Ternyata Bu Ning simpan catatan"
+    },
+    {
+      "t": 88.07,
+      "end": 92.27,
+      "text": "Ukuran mereka di satu buku"
+    },
+    {
+      "t": 92.93,
+      "end": 92.93,
+      "text": "[Bridge - violin and darbuka break]"
+    },
+    {
+      "t": 92.93,
+      "end": 96.47,
+      "text": "Bu Ning senyum di balik meja"
+    },
+    {
+      "t": 96.91,
+      "end": 102.29,
+      "text": "Dua pelanggan, satu selera"
+    },
+    {
+      "t": 102.73,
+      "end": 102.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.73,
+      "end": 118.15,
+      "text": "Batik kembar hari Jumat"
+    },
+    {
+      "t": 118.15,
+      "end": 122.17,
+      "text": "Pak Bos tepuk pundaknya pelan"
+    },
+    {
+      "t": 122.85,
+      "end": 126.13,
+      "text": "Seleramu bagus, Hendra"
+    },
+    {
+      "t": 126.81,
+      "end": 130.63,
+      "text": "Tahun depan kamu naik jabatan"
+    },
+    {
+      "t": 133.53,
+      "end": 133.53,
+      "text": "[Outro - suling and kendang, fade]"
+    },
+    {
+      "t": 133.53,
+      "end": 147.62,
+      "text": "Batik kembar"
+    },
+    {
+      "t": 175.88,
+      "end": 177.36,
+      "text": "Jumat lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.3,
+      "end": 20.3,
+      "text": "[Intro - suling run, cak and cuk strumming, kendang enters]"
+    },
+    {
+      "t": 20.3,
+      "end": 20.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.3,
+      "end": 24.38,
+      "text": "Mas Hendra beli batik baru"
+    },
+    {
+      "t": 24.38,
+      "end": 27.04,
+      "text": "Motif parang warna merah bata"
+    },
+    {
+      "t": 28.74,
+      "end": 32.06,
+      "text": "Kata Bu Ning yang punya toko"
+    },
+    {
+      "t": 32.68,
+      "end": 42.88,
+      "text": "Cuma satu, Mas, khusus buat sampeyan"
+    },
+    {
+      "t": 45.56,
+      "end": 45.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.56,
+      "end": 52.23,
+      "text": "Jumat pagi dia masuk kantor"
+    },
+    {
+      "t": 54.29,
+      "end": 61.49,
+      "text": "Pintu lift terbuka pelan-pelan"
+    },
+    {
+      "t": 61.49,
+      "end": 61.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.49,
+      "end": 62.29,
+      "text": "Batik kembar hari Jumat"
+    },
+    {
+      "t": 62.29,
+      "end": 65.59,
+      "text": "Pak Bos pakai motif yang sama"
+    },
+    {
+      "t": 65.59,
+      "end": 73.87,
+      "text": "Satu lantai minta foto"
+    },
+    {
+      "t": 73.99,
+      "end": 79.79,
+      "text": "Mas Hendra pengin pulang saja"
+    },
+    {
+      "t": 79.79,
+      "end": 79.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.79,
+      "end": 83.53,
+      "text": "Minggu depan dia ganti kawung"
+    },
+    {
+      "t": 84.03,
+      "end": 86.07,
+      "text": "Pak Bos juga ganti kawung"
+    },
+    {
+      "t": 86.13,
+      "end": 88.07,
+      "text": "Ternyata Bu Ning simpan catatan"
+    },
+    {
+      "t": 88.07,
+      "end": 92.27,
+      "text": "Ukuran mereka di satu buku"
+    },
+    {
+      "t": 92.93,
+      "end": 92.93,
+      "text": "[Bridge - violin and darbuka break]"
+    },
+    {
+      "t": 92.93,
+      "end": 96.47,
+      "text": "Bu Ning senyum di balik meja"
+    },
+    {
+      "t": 96.91,
+      "end": 102.29,
+      "text": "Dua pelanggan, satu selera"
+    },
+    {
+      "t": 102.73,
+      "end": 102.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.73,
+      "end": 118.15,
+      "text": "Batik kembar hari Jumat"
+    },
+    {
+      "t": 118.15,
+      "end": 122.17,
+      "text": "Pak Bos tepuk pundaknya pelan"
+    },
+    {
+      "t": 122.85,
+      "end": 126.13,
+      "text": "Seleramu bagus, Hendra"
+    },
+    {
+      "t": 126.81,
+      "end": 130.63,
+      "text": "Tahun depan kamu naik jabatan"
+    },
+    {
+      "t": 133.53,
+      "end": 133.53,
+      "text": "[Outro - suling and kendang, fade]"
+    },
+    {
+      "t": 133.53,
+      "end": 147.62,
+      "text": "Batik kembar"
+    },
+    {
+      "t": 175.88,
+      "end": 177.36,
+      "text": "Jumat lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 20.28,
+      "end": 20.28,
+      "text": "[Intro - suling run, cak and cuk strumming, kendang enters]"
+    },
+    {
+      "t": 20.28,
+      "end": 20.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.28,
+      "end": 24.3,
+      "text": "Mas Hendra beli batik baru"
+    },
+    {
+      "t": 24.3,
+      "end": 27.04,
+      "text": "Motif parang warna merah bata"
+    },
+    {
+      "t": 28.74,
+      "end": 32.06,
+      "text": "Kata Bu Ning yang punya toko"
+    },
+    {
+      "t": 32.68,
+      "end": 42.88,
+      "text": "Cuma satu, Mas, khusus buat sampeyan"
+    },
+    {
+      "t": 45.56,
+      "end": 45.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.56,
+      "end": 51.55,
+      "text": "Jumat pagi dia masuk kantor"
+    },
+    {
+      "t": 54.29,
+      "end": 61.45,
+      "text": "Pintu lift terbuka pelan-pelan"
+    },
+    {
+      "t": 62.47,
+      "end": 62.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.47,
+      "end": 63.25,
+      "text": "Batik kembar hari Jumat"
+    },
+    {
+      "t": 63.25,
+      "end": 63.75,
+      "text": "Pak Bos pakai motif yang sama"
+    },
+    {
+      "t": 63.75,
+      "end": 64.49,
+      "text": "Satu lantai minta foto"
+    },
+    {
+      "t": 64.51,
+      "end": 78.97,
+      "text": "Mas Hendra pengin pulang saja"
+    },
+    {
+      "t": 79.81,
+      "end": 79.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.81,
+      "end": 83.53,
+      "text": "Minggu depan dia ganti kawung"
+    },
+    {
+      "t": 84.03,
+      "end": 86.87,
+      "text": "Pak Bos juga ganti kawung"
+    },
+    {
+      "t": 86.87,
+      "end": 88.01,
+      "text": "Ternyata Bu Ning simpan catatan"
+    },
+    {
+      "t": 88.03,
+      "end": 92.25,
+      "text": "Ukuran mereka di satu buku"
+    },
+    {
+      "t": 92.95,
+      "end": 92.95,
+      "text": "[Bridge - violin and darbuka break]"
+    },
+    {
+      "t": 92.95,
+      "end": 96.47,
+      "text": "Bu Ning senyum di balik meja"
+    },
+    {
+      "t": 96.91,
+      "end": 102.27,
+      "text": "Dua pelanggan, satu selera"
+    },
+    {
+      "t": 102.75,
+      "end": 102.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.75,
+      "end": 116.07,
+      "text": "Batik kembar hari Jumat"
+    },
+    {
+      "t": 118.13,
+      "end": 122.13,
+      "text": "Pak Bos tepuk pundaknya pelan"
+    },
+    {
+      "t": 122.83,
+      "end": 126.15,
+      "text": "Seleramu bagus, Hendra"
+    },
+    {
+      "t": 126.81,
+      "end": 130.63,
+      "text": "Tahun depan kamu naik jabatan"
+    },
+    {
+      "t": 133.53,
+      "end": 133.53,
+      "text": "[Outro - suling and kendang, fade]"
+    },
+    {
+      "t": 133.53,
+      "end": 147.58,
+      "text": "Batik kembar"
+    },
+    {
+      "t": 154.1,
+      "end": 155.84,
+      "text": "Jumat lagi"
+    }
+  ]
+}

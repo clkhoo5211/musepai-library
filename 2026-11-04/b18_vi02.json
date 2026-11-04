@@ -1,0 +1,277 @@
+{
+  "id": "b18_vi02",
+  "title": "Chiều Chủ Nhật Xích Lô",
+  "title_source": "scripted",
+  "genre": "Vietnamese 6/8 doo-wop ballad",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "tender, warm, gently amused",
+  "persona": "",
+  "subject": "a retired Hà Nội xích lô driver who still pedals his wife once round Hoàn Kiếm lake every Sunday afternoon, she in the passenger seat pretending to be a tourist asking the price",
+  "caption": "Vietnamese 6/8 doo-wop ballad, late-1950s slow-dance style. Clean electric guitar triplet arpeggios, walking upright bass, brushed snare and soft ride in 6/8, breathy tenor saxophone answering lines. Roomy vintage plate reverb, warm and close. Warm male baritone lead, unhurried and clearly sung, soft male 'ooh' backing harmonies. 66 BPM, E-flat major. Tender, gently amused love song. No rap, no trap beat, no autotune, no modern pop drums, no EDM.",
+  "lyrics": "[Intro - guitar triplet arpeggios, brushed drums, soft sax]\n\n[Verse 1]\nChiều Chủ nhật anh lau chiếc xích lô\nBà lên ghế trước, đội nón lá xưa\nBà hỏi giá như khách mới đến\nAnh nói miễn phí, cho người anh thương\n\n[Chorus]\nMột vòng hồ thôi, em ngồi yên nhé\nChân anh đã chậm, nhưng vẫn đạp đều\nEm cười như hồi mười tám tuổi\nAnh đạp cả đời, vẫn chưa thấy xa\n\n[Verse 2]\nQua Tràng Tiền bà đòi dừng mua kem\nKem ốc quế, bà cắn trước một miếng\nBà bảo anh ơi, đạp chậm thêm chút\nCho chiều nay dài như hồi mới quen\n\n[Chorus]\nMột vòng hồ thôi, em ngồi yên nhé\nLưng anh đã mỏi, nhưng tay vẫn chắc\nEm quay lại, đút anh miếng kem\nAnh đạp cả đời, vẫn chưa thấy xa\n\n[Outro - sax, guitar fade]\nVề tới nhà, bà trả anh nụ hôn\nTiền xe như thế, anh lời quá rồi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Vietnamese 6/8 doo-wop ballad, late-1950s slow-dance style. Clean electric guitar triplet arpeggios, walking upright bass, brushed snare and soft ride in 6/8, breathy tenor saxophone answering lines. Roomy vintage plate reverb, warm and close. Warm male baritone lead, unhurried and clearly sung, soft male 'ooh' backing harmonies. 66 BPM, E-flat major. Tender, gently amused love song. No rap, no trap beat, no autotune, no modern pop drums, no EDM.",
+    "lyrics": "[Intro - guitar triplet arpeggios, brushed drums, soft sax]\n\n[Verse 1]\nChiều Chủ nhật anh lau chiếc xích lô\nBà lên ghế trước, đội nón lá xưa\nBà hỏi giá như khách mới đến\nAnh nói miễn phí, cho người anh thương\n\n[Chorus]\nMột vòng hồ thôi, em ngồi yên nhé\nChân anh đã chậm, nhưng vẫn đạp đều\nEm cười như hồi mười tám tuổi\nAnh đạp cả đời, vẫn chưa thấy xa\n\n[Verse 2]\nQua Tràng Tiền bà đòi dừng mua kem\nKem ốc quế, bà cắn trước một miếng\nBà bảo anh ơi, đạp chậm thêm chút\nCho chiều nay dài như hồi mới quen\n\n[Chorus]\nMột vòng hồ thôi, em ngồi yên nhé\nLưng anh đã mỏi, nhưng tay vẫn chắc\nEm quay lại, đút anh miếng kem\nAnh đạp cả đời, vẫn chưa thấy xa\n\n[Outro - sax, guitar fade]\nVề tới nhà, bà trả anh nụ hôn\nTiền xe như thế, anh lời quá rồi"
+  },
+  "seed": "2233768657",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.73s**\n- 52.73s per song\n- LM phase (1 song): 12.73s\n- DiT phase (1 song): 40.00s",
+  "task_id": "ba6287a6-c415-4332-aaa9-8e1eb9f5ab8c",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-04T17:54:51.975707+08:00",
+  "audio": "b18_vi02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.22,
+      "end": 30.22,
+      "text": "[Intro - guitar triplet arpeggios, brushed drums, soft sax]"
+    },
+    {
+      "t": 30.22,
+      "end": 30.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.22,
+      "end": 34.92,
+      "text": "Chiều Chủ nhật anh lau chiếc xích lô"
+    },
+    {
+      "t": 37.24,
+      "end": 41.82,
+      "text": "Bà lên ghế trước, đội nón lá xưa"
+    },
+    {
+      "t": 44.54,
+      "end": 49.16,
+      "text": "Bà hỏi giá như khách mới đến"
+    },
+    {
+      "t": 51.57,
+      "end": 56.33,
+      "text": "Anh nói miễn phí, cho người anh thương"
+    },
+    {
+      "t": 56.33,
+      "end": 56.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.33,
+      "end": 60.03,
+      "text": "Một vòng hồ thôi, em ngồi yên nhé"
+    },
+    {
+      "t": 61.17,
+      "end": 66.47,
+      "text": "Chân anh đã chậm, nhưng vẫn đạp đều"
+    },
+    {
+      "t": 66.47,
+      "end": 71.37,
+      "text": "Em cười như hồi mười tám tuổi"
+    },
+    {
+      "t": 73.25,
+      "end": 78.21,
+      "text": "Anh đạp cả đời, vẫn chưa thấy xa"
+    },
+    {
+      "t": 86.29,
+      "end": 86.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.29,
+      "end": 97.15,
+      "text": "Qua Tràng Tiền bà đòi dừng mua kem"
+    },
+    {
+      "t": 99.89,
+      "end": 104.13,
+      "text": "Kem ốc quế, bà cắn trước một miếng"
+    },
+    {
+      "t": 106.93,
+      "end": 113.93,
+      "text": "Bà bảo anh ơi, đạp chậm thêm chút"
+    },
+    {
+      "t": 113.93,
+      "end": 118.79,
+      "text": "Cho chiều nay dài như hồi mới quen"
+    },
+    {
+      "t": 118.79,
+      "end": 118.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.79,
+      "end": 120.91,
+      "text": "Một vòng hồ thôi, em ngồi yên nhé"
+    },
+    {
+      "t": 120.93,
+      "end": 128.81,
+      "text": "Lưng anh đã mỏi, nhưng tay vẫn chắc"
+    },
+    {
+      "t": 128.83,
+      "end": 143.27,
+      "text": "Em quay lại, đút anh miếng kem"
+    },
+    {
+      "t": 143.99,
+      "end": 148.41,
+      "text": "Anh đạp cả đời, vẫn chưa thấy xa"
+    },
+    {
+      "t": 156.74,
+      "end": 156.74,
+      "text": "[Outro - sax, guitar fade]"
+    },
+    {
+      "t": 156.74,
+      "end": 174.28,
+      "text": "Về tới nhà, bà trả anh nụ hôn"
+    },
+    {
+      "t": 175.16,
+      "end": 191.26,
+      "text": "Tiền xe như thế, anh lời quá rồi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.22,
+      "end": 30.22,
+      "text": "[Intro - guitar triplet arpeggios, brushed drums, soft sax]"
+    },
+    {
+      "t": 30.22,
+      "end": 30.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.22,
+      "end": 34.9,
+      "text": "Chiều Chủ nhật anh lau chiếc xích lô"
+    },
+    {
+      "t": 37.24,
+      "end": 41.82,
+      "text": "Bà lên ghế trước, đội nón lá xưa"
+    },
+    {
+      "t": 44.52,
+      "end": 49.16,
+      "text": "Bà hỏi giá như khách mới đến"
+    },
+    {
+      "t": 51.57,
+      "end": 56.35,
+      "text": "Anh nói miễn phí, cho người anh thương"
+    },
+    {
+      "t": 56.35,
+      "end": 56.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.35,
+      "end": 60.03,
+      "text": "Một vòng hồ thôi, em ngồi yên nhé"
+    },
+    {
+      "t": 61.19,
+      "end": 66.53,
+      "text": "Chân anh đã chậm, nhưng vẫn đạp đều"
+    },
+    {
+      "t": 66.53,
+      "end": 71.39,
+      "text": "Em cười như hồi mười tám tuổi"
+    },
+    {
+      "t": 73.25,
+      "end": 78.23,
+      "text": "Anh đạp cả đời, vẫn chưa thấy xa"
+    },
+    {
+      "t": 92.41,
+      "end": 92.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.41,
+      "end": 97.17,
+      "text": "Qua Tràng Tiền bà đòi dừng mua kem"
+    },
+    {
+      "t": 99.87,
+      "end": 104.09,
+      "text": "Kem ốc quế, bà cắn trước một miếng"
+    },
+    {
+      "t": 106.93,
+      "end": 113.93,
+      "text": "Bà bảo anh ơi, đạp chậm thêm chút"
+    },
+    {
+      "t": 113.95,
+      "end": 121.09,
+      "text": "Cho chiều nay dài như hồi mới quen"
+    },
+    {
+      "t": 127.25,
+      "end": 127.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.25,
+      "end": 128.07,
+      "text": "Một vòng hồ thôi, em ngồi yên nhé"
+    },
+    {
+      "t": 128.11,
+      "end": 141.95,
+      "text": "Lưng anh đã mỏi, nhưng tay vẫn chắc"
+    },
+    {
+      "t": 141.95,
+      "end": 143.25,
+      "text": "Em quay lại, đút anh miếng kem"
+    },
+    {
+      "t": 143.99,
+      "end": 148.43,
+      "text": "Anh đạp cả đời, vẫn chưa thấy xa"
+    },
+    {
+      "t": 156.74,
+      "end": 156.74,
+      "text": "[Outro - sax, guitar fade]"
+    },
+    {
+      "t": 156.74,
+      "end": 176.56,
+      "text": "Về tới nhà, bà trả anh nụ hôn"
+    },
+    {
+      "t": 184.84,
+      "end": 191.24,
+      "text": "Tiền xe như thế, anh lời quá rồi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,399 @@
+{
+  "id": "b18_vi05",
+  "title": "Nồi Phở Bốn Giờ Sáng",
+  "title_source": "scripted",
+  "genre": "Vietnamese Hoa-melody pop ballad",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "quiet, steady, warm",
+  "persona": "",
+  "subject": "a young phở cook who opens his own tiny shop and wakes at four every morning to skim the bone stock, talking to the pot as if it were a business partner while the street is still dark",
+  "caption": "Vietnamese Hoa-melody pop ballad in the style of 1990s Cantopop-derived nhạc Hoa lời Việt. Singing erhu lead lines, soft felt piano chords, plucked guzheng ornaments, warm string pad, low frame-drum pulse. Close-miked, dim early-morning intimacy with gentle hall reverb. Soft male mid-register vocal, intimate and clearly sung, slight vibrato on held notes. 72 BPM, D major. Quiet steady warmth. No rap, no trap, no autotune, no EDM drums, no rock guitar. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+  "lyrics": "[Intro - erhu, felt piano]\n\n[Verse 1]\nBốn giờ sáng, phố còn tối thui\nTôi nhóm lửa dưới nồi xương lớn\nVớt lớp bọt, thả gừng nướng thơm\nNói với nồi: hôm nay cố nhé\n\n[Chorus]\nNồi ơi, mình là chung vốn\nMày lo nước trong, tao lo dậy sớm\nSáu giờ khách tới, đừng làm tao buồn\nThơm cho cả con hẻm này\n\n[Verse 2]\nQuế với hồi, tôi đếm từng cái\nHành nướng cháy xém một chút thôi\nBàn ghế lau rồi, đèn treo rồi\nNồi sôi lăn tăn như đang cười\n\n[Chorus]\nNồi ơi, mình là chung vốn\nMày lo nước trong, tao lo dậy sớm\nTô đầu tiên rồi, khách khen nước ngọt\nTao chia mày nửa lời khen\n\n[Outro - erhu, guzheng]\nTrời hửng sáng, phố bắt đầu đông\nTôi đứng bên nồi, nghe mình đang lớn",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "2",
+    "prompt": "Vietnamese Hoa-melody pop ballad in the style of 1990s Cantopop-derived nhạc Hoa lời Việt. Singing erhu lead lines, soft felt piano chords, plucked guzheng ornaments, warm string pad, low frame-drum pulse. Close-miked, dim early-morning intimacy with gentle hall reverb. Soft male mid-register vocal, intimate and clearly sung, slight vibrato on held notes. 72 BPM, D major. Quiet steady warmth. No rap, no trap, no autotune, no EDM drums, no rock guitar. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+    "lyrics": "[Intro - erhu, felt piano]\n\n[Verse 1]\nBốn giờ sáng, phố còn tối thui\nTôi nhóm lửa dưới nồi xương lớn\nVớt lớp bọt, thả gừng nướng thơm\nNói với nồi: hôm nay cố nhé\n\n[Chorus]\nNồi ơi, mình là chung vốn\nMày lo nước trong, tao lo dậy sớm\nSáu giờ khách tới, đừng làm tao buồn\nThơm cho cả con hẻm này\n\n[Verse 2]\nQuế với hồi, tôi đếm từng cái\nHành nướng cháy xém một chút thôi\nBàn ghế lau rồi, đèn treo rồi\nNồi sôi lăn tăn như đang cười\n\n[Chorus]\nNồi ơi, mình là chung vốn\nMày lo nước trong, tao lo dậy sớm\nTô đầu tiên rồi, khách khen nước ngọt\nTao chia mày nửa lời khen\n\n[Outro - erhu, guzheng]\nTrời hửng sáng, phố bắt đầu đông\nTôi đứng bên nồi, nghe mình đang lớn"
+  },
+  "seed": "4071388736",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 53.93s**\n- 53.93s per song\n- LM phase (1 song): 8.49s\n- DiT phase (1 song): 45.44s",
+  "task_id": "24b3aa7c-8900-4dbf-8f27-b68c61d53f6b",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-04T22:29:13.046004+08:00",
+  "audio": "b18_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 3.16,
+      "end": 3.16,
+      "text": "[Intro - erhu, felt piano]"
+    },
+    {
+      "t": 3.16,
+      "end": 3.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.16,
+      "end": 33.04,
+      "text": "Bốn giờ sáng, phố còn tối thui"
+    },
+    {
+      "t": 33.36,
+      "end": 37.88,
+      "text": "Tôi nhóm lửa dưới nồi xương lớn"
+    },
+    {
+      "t": 40.32,
+      "end": 44.78,
+      "text": "Vớt lớp bọt, thả gừng nướng thơm"
+    },
+    {
+      "t": 47.3,
+      "end": 54.71,
+      "text": "Nói với nồi: hôm nay cố nhé"
+    },
+    {
+      "t": 60.43,
+      "end": 60.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.43,
+      "end": 63.45,
+      "text": "Nồi ơi, mình là chung vốn"
+    },
+    {
+      "t": 63.55,
+      "end": 66.31,
+      "text": "Mày lo nước trong, tao lo dậy sớm"
+    },
+    {
+      "t": 66.43,
+      "end": 68.27,
+      "text": "Sáu giờ khách tới, đừng làm tao buồn"
+    },
+    {
+      "t": 69.07,
+      "end": 71.65,
+      "text": "Thơm cho cả con hẻm này"
+    },
+    {
+      "t": 74.69,
+      "end": 74.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.69,
+      "end": 88.09,
+      "text": "Quế với hồi, tôi đếm từng cái"
+    },
+    {
+      "t": 88.09,
+      "end": 100.51,
+      "text": "Hành nướng cháy xém một chút thôi"
+    },
+    {
+      "t": 100.81,
+      "end": 105.75,
+      "text": "Bàn ghế lau rồi, đèn treo rồi"
+    },
+    {
+      "t": 105.75,
+      "end": 111.93,
+      "text": "Nồi sôi lăn tăn như đang cười"
+    },
+    {
+      "t": 114.29,
+      "end": 114.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.29,
+      "end": 117.35,
+      "text": "Nồi ơi, mình là chung vốn"
+    },
+    {
+      "t": 117.35,
+      "end": 120.49,
+      "text": "Mày lo nước trong, tao lo dậy sớm"
+    },
+    {
+      "t": 120.65,
+      "end": 128.71,
+      "text": "Tô đầu tiên rồi, khách khen nước ngọt"
+    },
+    {
+      "t": 130.33,
+      "end": 155.3,
+      "text": "Tao chia mày nửa lời khen"
+    },
+    {
+      "t": 163.94,
+      "end": 163.94,
+      "text": "[Outro - erhu, guzheng]"
+    },
+    {
+      "t": 163.94,
+      "end": 169.36,
+      "text": "Trời hửng sáng, phố bắt đầu đông"
+    },
+    {
+      "t": 171.22,
+      "end": 177.54,
+      "text": "Tôi đứng bên nồi, nghe mình đang lớn"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 3.16,
+      "end": 3.16,
+      "text": "[Intro - erhu, felt piano]"
+    },
+    {
+      "t": 3.16,
+      "end": 3.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.16,
+      "end": 33.04,
+      "text": "Bốn giờ sáng, phố còn tối thui"
+    },
+    {
+      "t": 33.36,
+      "end": 37.88,
+      "text": "Tôi nhóm lửa dưới nồi xương lớn"
+    },
+    {
+      "t": 40.32,
+      "end": 44.78,
+      "text": "Vớt lớp bọt, thả gừng nướng thơm"
+    },
+    {
+      "t": 47.3,
+      "end": 54.71,
+      "text": "Nói với nồi: hôm nay cố nhé"
+    },
+    {
+      "t": 60.43,
+      "end": 60.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.43,
+      "end": 63.45,
+      "text": "Nồi ơi, mình là chung vốn"
+    },
+    {
+      "t": 63.55,
+      "end": 66.31,
+      "text": "Mày lo nước trong, tao lo dậy sớm"
+    },
+    {
+      "t": 66.43,
+      "end": 68.27,
+      "text": "Sáu giờ khách tới, đừng làm tao buồn"
+    },
+    {
+      "t": 69.07,
+      "end": 71.65,
+      "text": "Thơm cho cả con hẻm này"
+    },
+    {
+      "t": 74.69,
+      "end": 74.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.69,
+      "end": 88.09,
+      "text": "Quế với hồi, tôi đếm từng cái"
+    },
+    {
+      "t": 88.09,
+      "end": 100.51,
+      "text": "Hành nướng cháy xém một chút thôi"
+    },
+    {
+      "t": 100.81,
+      "end": 105.75,
+      "text": "Bàn ghế lau rồi, đèn treo rồi"
+    },
+    {
+      "t": 105.75,
+      "end": 111.93,
+      "text": "Nồi sôi lăn tăn như đang cười"
+    },
+    {
+      "t": 114.29,
+      "end": 114.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.29,
+      "end": 117.35,
+      "text": "Nồi ơi, mình là chung vốn"
+    },
+    {
+      "t": 117.35,
+      "end": 120.49,
+      "text": "Mày lo nước trong, tao lo dậy sớm"
+    },
+    {
+      "t": 120.65,
+      "end": 128.71,
+      "text": "Tô đầu tiên rồi, khách khen nước ngọt"
+    },
+    {
+      "t": 130.33,
+      "end": 155.3,
+      "text": "Tao chia mày nửa lời khen"
+    },
+    {
+      "t": 163.94,
+      "end": 163.94,
+      "text": "[Outro - erhu, guzheng]"
+    },
+    {
+      "t": 163.94,
+      "end": 169.36,
+      "text": "Trời hửng sáng, phố bắt đầu đông"
+    },
+    {
+      "t": 171.22,
+      "end": 177.54,
+      "text": "Tôi đứng bên nồi, nghe mình đang lớn"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 9.9,
+      "end": 9.9,
+      "text": "[Intro - erhu, felt piano]"
+    },
+    {
+      "t": 9.9,
+      "end": 9.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 9.9,
+      "end": 11.2,
+      "text": "Bốn giờ sáng, phố còn tối thui"
+    },
+    {
+      "t": 11.2,
+      "end": 12.06,
+      "text": "Tôi nhóm lửa dưới nồi xương lớn"
+    },
+    {
+      "t": 12.06,
+      "end": 38.32,
+      "text": "Vớt lớp bọt, thả gừng nướng thơm"
+    },
+    {
+      "t": 38.32,
+      "end": 41.72,
+      "text": "Nói với nồi: hôm nay cố nhé"
+    },
+    {
+      "t": 42.04,
+      "end": 42.04,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.04,
+      "end": 50.45,
+      "text": "Nồi ơi, mình là chung vốn"
+    },
+    {
+      "t": 50.47,
+      "end": 51.39,
+      "text": "Mày lo nước trong, tao lo dậy sớm"
+    },
+    {
+      "t": 53.61,
+      "end": 56.23,
+      "text": "Sáu giờ khách tới, đừng làm tao buồn"
+    },
+    {
+      "t": 59.29,
+      "end": 62.79,
+      "text": "Thơm cho cả con hẻm này"
+    },
+    {
+      "t": 65.07,
+      "end": 65.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.07,
+      "end": 69.57,
+      "text": "Quế với hồi, tôi đếm từng cái"
+    },
+    {
+      "t": 71.47,
+      "end": 76.45,
+      "text": "Hành nướng cháy xém một chút thôi"
+    },
+    {
+      "t": 77.75,
+      "end": 81.99,
+      "text": "Bàn ghế lau rồi, đèn treo rồi"
+    },
+    {
+      "t": 82.45,
+      "end": 91.05,
+      "text": "Nồi sôi lăn tăn như đang cười"
+    },
+    {
+      "t": 93.05,
+      "end": 93.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 93.05,
+      "end": 106.49,
+      "text": "Nồi ơi, mình là chung vốn"
+    },
+    {
+      "t": 106.63,
+      "end": 111.63,
+      "text": "Mày lo nước trong, tao lo dậy sớm"
+    },
+    {
+      "t": 112.43,
+      "end": 117.05,
+      "text": "Tô đầu tiên rồi, khách khen nước ngọt"
+    },
+    {
+      "t": 119.09,
+      "end": 124.31,
+      "text": "Tao chia mày nửa lời khen"
+    },
+    {
+      "t": 150.5,
+      "end": 150.5,
+      "text": "[Outro - erhu, guzheng]"
+    },
+    {
+      "t": 150.5,
+      "end": 155.58,
+      "text": "Trời hửng sáng, phố bắt đầu đông"
+    },
+    {
+      "t": 157.38,
+      "end": 178.2,
+      "text": "Tôi đứng bên nồi, nghe mình đang lớn"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "id": "b18_ko02",
+  "title": "여덟 시 오십 분 문방구",
+  "title_source": "scripted",
+  "genre": "Korean electro-swing",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "frantic, funny, upbeat",
+  "persona": "",
+  "subject": "a dad who learns at 8:40 a.m. that his daughter needs a 12-colour clay set and two sheets of coloured paper for class, and the old stationery-shop owner next to the elementary school who already has the bag packed because half the class came in before him",
+  "caption": "Korean electro-swing, upbeat 1930s swing horns over a house pulse. Muted swing trumpet riffs, walking upright bass, bouncy ragtime piano stabs, four-on-the-floor kick with brushed swing hi-hat and offbeat claps. Crisp modern mix with a slightly vinyl-warm horn sound. Bright female mid-range voice, clearly sung melody, quick playful delivery. 124 BPM, B-flat major. Frantic, funny morning rush. No trap hi-hats, no autotune, no dubstep wobble, no rap, no heavy distortion.",
+  "lyrics": "[Intro - muted trumpet, ragtime piano]\n\n[Verse 1]\n여덟 시 사십 분\n알림장을 이제 봤어\n찰흙 열두 색이랑\n색종이 두 장\n\n[Pre-Chorus]\n아빠 뛰어 신발 반쯤\n교문 옆 문방구로\n\n[Chorus]\n사장님 사장님\n찰흙 있어요\n벌써 담아 놨지\n반이 다 왔다 갔어\n\n[Verse 2]\n문 열자 할머니가\n봉투 하나 내미시네\n색종이는 덤으로\n풀까지 넣어 주셨어\n\n[Chorus]\n사장님 사장님\n진짜 고마워요\n돈은 내일 줘도 돼\n얼른 뛰어가라\n\n[Outro - trumpet, claps]\n여덟 시 오십 분\n종소리 딱 맞춰서",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Korean electro-swing, upbeat 1930s swing horns over a house pulse. Muted swing trumpet riffs, walking upright bass, bouncy ragtime piano stabs, four-on-the-floor kick with brushed swing hi-hat and offbeat claps. Crisp modern mix with a slightly vinyl-warm horn sound. Bright female mid-range voice, clearly sung melody, quick playful delivery. 124 BPM, B-flat major. Frantic, funny morning rush. No trap hi-hats, no autotune, no dubstep wobble, no rap, no heavy distortion.",
+    "lyrics": "[Intro - muted trumpet, ragtime piano]\n\n[Verse 1]\n여덟 시 사십 분\n알림장을 이제 봤어\n찰흙 열두 색이랑\n색종이 두 장\n\n[Pre-Chorus]\n아빠 뛰어 신발 반쯤\n교문 옆 문방구로\n\n[Chorus]\n사장님 사장님\n찰흙 있어요\n벌써 담아 놨지\n반이 다 왔다 갔어\n\n[Verse 2]\n문 열자 할머니가\n봉투 하나 내미시네\n색종이는 덤으로\n풀까지 넣어 주셨어\n\n[Chorus]\n사장님 사장님\n진짜 고마워요\n돈은 내일 줘도 돼\n얼른 뛰어가라\n\n[Outro - trumpet, claps]\n여덟 시 오십 분\n종소리 딱 맞춰서"
+  },
+  "seed": "456988530",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.89s**\n- 57.89s per song\n- LM phase (1 song): 10.86s\n- DiT phase (1 song): 47.03s",
+  "task_id": "a7e11bdd-7b4a-46ee-b59f-8944cd29ad1b",
+  "elapsed_s": 80.4,
+  "generated_at": "2026-11-04T17:53:31.846863+08:00",
+  "audio": "b18_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.86,
+      "end": 16.86,
+      "text": "[Intro - muted trumpet, ragtime piano]"
+    },
+    {
+      "t": 16.86,
+      "end": 16.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.86,
+      "end": 19.9,
+      "text": "여덟 시 사십 분"
+    },
+    {
+      "t": 19.96,
+      "end": 24.86,
+      "text": "알림장을 이제 봤어"
+    },
+    {
+      "t": 25.04,
+      "end": 27.38,
+      "text": "찰흙 열두 색이랑"
+    },
+    {
+      "t": 27.5,
+      "end": 30.68,
+      "text": "색종이 두 장"
+    },
+    {
+      "t": 32.24,
+      "end": 32.24,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.24,
+      "end": 35.38,
+      "text": "아빠 뛰어 신발 반쯤"
+    },
+    {
+      "t": 36.24,
+      "end": 40.18,
+      "text": "교문 옆 문방구로"
+    },
+    {
+      "t": 42.12,
+      "end": 42.12,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.12,
+      "end": 48.31,
+      "text": "사장님 사장님"
+    },
+    {
+      "t": 49.89,
+      "end": 51.81,
+      "text": "찰흙 있어요"
+    },
+    {
+      "t": 53.83,
+      "end": 55.93,
+      "text": "벌써 담아 놨지"
+    },
+    {
+      "t": 57.75,
+      "end": 65.75,
+      "text": "반이 다 왔다 갔어"
+    },
+    {
+      "t": 69.83,
+      "end": 69.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.83,
+      "end": 71.39,
+      "text": "문 열자 할머니가"
+    },
+    {
+      "t": 73.39,
+      "end": 77.23,
+      "text": "봉투 하나 내미시네"
+    },
+    {
+      "t": 79.17,
+      "end": 81.65,
+      "text": "색종이는 덤으로"
+    },
+    {
+      "t": 82.13,
+      "end": 85.03,
+      "text": "풀까지 넣어 주셨어"
+    },
+    {
+      "t": 89.91,
+      "end": 89.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.91,
+      "end": 93.83,
+      "text": "사장님 사장님"
+    },
+    {
+      "t": 93.87,
+      "end": 101.05,
+      "text": "진짜 고마워요"
+    },
+    {
+      "t": 101.21,
+      "end": 123.05,
+      "text": "돈은 내일 줘도 돼"
+    },
+    {
+      "t": 123.43,
+      "end": 127.93,
+      "text": "얼른 뛰어가라"
+    },
+    {
+      "t": 130.09,
+      "end": 130.09,
+      "text": "[Outro - trumpet, claps]"
+    },
+    {
+      "t": 130.09,
+      "end": 172.4,
+      "text": "여덟 시 오십 분"
+    },
+    {
+      "t": 175.32,
+      "end": 179.84,
+      "text": "종소리 딱 맞춰서"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.86,
+      "end": 16.86,
+      "text": "[Intro - muted trumpet, ragtime piano]"
+    },
+    {
+      "t": 16.86,
+      "end": 16.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.86,
+      "end": 19.9,
+      "text": "여덟 시 사십 분"
+    },
+    {
+      "t": 22.68,
+      "end": 25.32,
+      "text": "알림장을 이제 봤어"
+    },
+    {
+      "t": 25.32,
+      "end": 27.38,
+      "text": "찰흙 열두 색이랑"
+    },
+    {
+      "t": 27.5,
+      "end": 30.62,
+      "text": "색종이 두 장"
+    },
+    {
+      "t": 32.22,
+      "end": 32.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.22,
+      "end": 35.38,
+      "text": "아빠 뛰어 신발 반쯤"
+    },
+    {
+      "t": 36.24,
+      "end": 40.2,
+      "text": "교문 옆 문방구로"
+    },
+    {
+      "t": 42.14,
+      "end": 42.14,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.14,
+      "end": 48.35,
+      "text": "사장님 사장님"
+    },
+    {
+      "t": 49.89,
+      "end": 51.83,
+      "text": "찰흙 있어요"
+    },
+    {
+      "t": 53.83,
+      "end": 55.93,
+      "text": "벌써 담아 놨지"
+    },
+    {
+      "t": 57.77,
+      "end": 65.75,
+      "text": "반이 다 왔다 갔어"
+    },
+    {
+      "t": 69.83,
+      "end": 69.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.83,
+      "end": 71.39,
+      "text": "문 열자 할머니가"
+    },
+    {
+      "t": 73.39,
+      "end": 77.23,
+      "text": "봉투 하나 내미시네"
+    },
+    {
+      "t": 79.17,
+      "end": 81.67,
+      "text": "색종이는 덤으로"
+    },
+    {
+      "t": 82.13,
+      "end": 85.03,
+      "text": "풀까지 넣어 주셨어"
+    },
+    {
+      "t": 85.85,
+      "end": 85.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.85,
+      "end": 86.49,
+      "text": "사장님 사장님"
+    },
+    {
+      "t": 86.55,
+      "end": 89.89,
+      "text": "진짜 고마워요"
+    },
+    {
+      "t": 89.91,
+      "end": 91.91,
+      "text": "돈은 내일 줘도 돼"
+    },
+    {
+      "t": 93.87,
+      "end": 95.27,
+      "text": "얼른 뛰어가라"
+    },
+    {
+      "t": 100.93,
+      "end": 100.93,
+      "text": "[Outro - trumpet, claps]"
+    },
+    {
+      "t": 100.93,
+      "end": 124.53,
+      "text": "여덟 시 오십 분"
+    },
+    {
+      "t": 125.33,
+      "end": 175.98,
+      "text": "종소리 딱 맞춰서"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

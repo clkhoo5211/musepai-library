@@ -1,0 +1,474 @@
+{
+  "id": "b18_en01",
+  "title": "One Hosepipe Between Us",
+  "title_source": "scripted",
+  "genre": "rockabilly revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cheeky, smitten",
+  "persona": "",
+  "subject": "a man on an allotment who shares one hosepipe through the fence with the woman on the next plot, and starts leaving tomatoes on her shed step every Sunday until she leaves a note asking him to dinner",
+  "caption": "Rockabilly revival, 1950s Sun Records style. Hollow-body electric guitar with tape slapback and twangy lead fills, slapped upright bass clicking on every beat, brushed snare with rimshots, rolling barrelhouse piano. Warm live-room mono production with tape echo. Male baritone, clearly sung melody with playful hiccups. 172 BPM, E major. Sweet, grinning, smitten. No synths, no autotune, no trap hi-hats, no distorted metal guitar, no modern pop drums.",
+  "lyrics": "[Intro - slapback guitar, slapped bass]\n\n[Verse 1]\nThere's a gap in the fence on plot nineteen\nAnd a green hosepipe running in between\nYou water your beans, then you pass it through\nAnd I water mine with the hose still warm from you\n\n[Pre-Chorus]\nYou wave your trowel, I tip my hat\nNobody's ever been sweeter than that\n\n[Chorus]\nOne hosepipe between us, honey\nOne tap and a rusty key\nI leave tomatoes on your shed step\nEvery Sunday, two or three\n\n[Verse 2]\nYou fixed the leak with a rubber band\nI said you've got a clever hand\nYou laughed so loud the robins ran\nAnd I dropped my watering can\n\n[Pre-Chorus]\nThe runner beans are climbing high\nI'm climbing too and I don't know why\n\n[Chorus]\nOne hosepipe between us, honey\nOne tap and a rusty key\nToday a note was on my shed step\nFriday dinner, you and me\n\n[Outro - piano roll, guitar tag]\nOne hosepipe, two sheds, and a Friday tea",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Rockabilly revival, 1950s Sun Records style. Hollow-body electric guitar with tape slapback and twangy lead fills, slapped upright bass clicking on every beat, brushed snare with rimshots, rolling barrelhouse piano. Warm live-room mono production with tape echo. Male baritone, clearly sung melody with playful hiccups. 172 BPM, E major. Sweet, grinning, smitten. No synths, no autotune, no trap hi-hats, no distorted metal guitar, no modern pop drums.",
+    "lyrics": "[Intro - slapback guitar, slapped bass]\n\n[Verse 1]\nThere's a gap in the fence on plot nineteen\nAnd a green hosepipe running in between\nYou water your beans, then you pass it through\nAnd I water mine with the hose still warm from you\n\n[Pre-Chorus]\nYou wave your trowel, I tip my hat\nNobody's ever been sweeter than that\n\n[Chorus]\nOne hosepipe between us, honey\nOne tap and a rusty key\nI leave tomatoes on your shed step\nEvery Sunday, two or three\n\n[Verse 2]\nYou fixed the leak with a rubber band\nI said you've got a clever hand\nYou laughed so loud the robins ran\nAnd I dropped my watering can\n\n[Pre-Chorus]\nThe runner beans are climbing high\nI'm climbing too and I don't know why\n\n[Chorus]\nOne hosepipe between us, honey\nOne tap and a rusty key\nToday a note was on my shed step\nFriday dinner, you and me\n\n[Outro - piano roll, guitar tag]\nOne hosepipe, two sheds, and a Friday tea"
+  },
+  "seed": "2421604738",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 90.30s**\n- 90.30s per song\n- LM phase (1 song): 19.12s\n- DiT phase (1 song): 71.18s",
+  "task_id": "12396eb1-998e-4b08-8771-a6045f596828",
+  "elapsed_s": 121.0,
+  "generated_at": "2026-11-04T15:55:52.555958+08:00",
+  "audio": "b18_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Intro - slapback guitar, slapped bass]"
+    },
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.34,
+      "end": 28.98,
+      "text": "There's a gap in the fence on plot nineteen"
+    },
+    {
+      "t": 29.1,
+      "end": 32.6,
+      "text": "And a green hosepipe running in between"
+    },
+    {
+      "t": 34.72,
+      "end": 38.06,
+      "text": "You water your beans, then you pass it through"
+    },
+    {
+      "t": 39.96,
+      "end": 43.51,
+      "text": "And I water mine with the hose still warm from you"
+    },
+    {
+      "t": 45.75,
+      "end": 45.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.75,
+      "end": 48.99,
+      "text": "You wave your trowel, I tip my hat"
+    },
+    {
+      "t": 51.67,
+      "end": 54.63,
+      "text": "Nobody's ever been sweeter than that"
+    },
+    {
+      "t": 54.67,
+      "end": 54.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.67,
+      "end": 58.01,
+      "text": "One hosepipe between us, honey"
+    },
+    {
+      "t": 58.09,
+      "end": 58.79,
+      "text": "One tap and a rusty key"
+    },
+    {
+      "t": 58.79,
+      "end": 60.07,
+      "text": "I leave tomatoes on your shed step"
+    },
+    {
+      "t": 60.07,
+      "end": 81.07,
+      "text": "Every Sunday, two or three"
+    },
+    {
+      "t": 81.07,
+      "end": 81.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.07,
+      "end": 83.61,
+      "text": "You fixed the leak with a rubber band"
+    },
+    {
+      "t": 83.61,
+      "end": 84.33,
+      "text": "I said you've got a clever hand"
+    },
+    {
+      "t": 86.75,
+      "end": 89.19,
+      "text": "You laughed so loud the robins ran"
+    },
+    {
+      "t": 89.19,
+      "end": 89.87,
+      "text": "And I dropped my watering can"
+    },
+    {
+      "t": 89.87,
+      "end": 89.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 89.87,
+      "end": 92.61,
+      "text": "The runner beans are climbing high"
+    },
+    {
+      "t": 92.63,
+      "end": 96.71,
+      "text": "I'm climbing too and I don't know why"
+    },
+    {
+      "t": 99.11,
+      "end": 99.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.11,
+      "end": 102.49,
+      "text": "One hosepipe between us, honey"
+    },
+    {
+      "t": 104.71,
+      "end": 107.95,
+      "text": "One tap and a rusty key"
+    },
+    {
+      "t": 110.21,
+      "end": 113.33,
+      "text": "Today a note was on my shed step"
+    },
+    {
+      "t": 115.99,
+      "end": 118.99,
+      "text": "Friday dinner, you and me"
+    },
+    {
+      "t": 134.6,
+      "end": 134.6,
+      "text": "[Outro - piano roll, guitar tag]"
+    },
+    {
+      "t": 134.6,
+      "end": 152.5,
+      "text": "One hosepipe, two sheds, and a Friday tea"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Intro - slapback guitar, slapped bass]"
+    },
+    {
+      "t": 23.34,
+      "end": 23.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.34,
+      "end": 28.98,
+      "text": "There's a gap in the fence on plot nineteen"
+    },
+    {
+      "t": 29.1,
+      "end": 32.6,
+      "text": "And a green hosepipe running in between"
+    },
+    {
+      "t": 34.72,
+      "end": 38.06,
+      "text": "You water your beans, then you pass it through"
+    },
+    {
+      "t": 39.96,
+      "end": 43.51,
+      "text": "And I water mine with the hose still warm from you"
+    },
+    {
+      "t": 45.75,
+      "end": 45.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.75,
+      "end": 48.99,
+      "text": "You wave your trowel, I tip my hat"
+    },
+    {
+      "t": 51.67,
+      "end": 54.63,
+      "text": "Nobody's ever been sweeter than that"
+    },
+    {
+      "t": 54.67,
+      "end": 54.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.67,
+      "end": 58.01,
+      "text": "One hosepipe between us, honey"
+    },
+    {
+      "t": 58.09,
+      "end": 58.79,
+      "text": "One tap and a rusty key"
+    },
+    {
+      "t": 58.79,
+      "end": 60.07,
+      "text": "I leave tomatoes on your shed step"
+    },
+    {
+      "t": 60.07,
+      "end": 81.07,
+      "text": "Every Sunday, two or three"
+    },
+    {
+      "t": 81.07,
+      "end": 81.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.07,
+      "end": 83.61,
+      "text": "You fixed the leak with a rubber band"
+    },
+    {
+      "t": 83.61,
+      "end": 84.33,
+      "text": "I said you've got a clever hand"
+    },
+    {
+      "t": 86.75,
+      "end": 89.19,
+      "text": "You laughed so loud the robins ran"
+    },
+    {
+      "t": 89.19,
+      "end": 89.87,
+      "text": "And I dropped my watering can"
+    },
+    {
+      "t": 89.87,
+      "end": 89.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 89.87,
+      "end": 92.61,
+      "text": "The runner beans are climbing high"
+    },
+    {
+      "t": 92.63,
+      "end": 96.71,
+      "text": "I'm climbing too and I don't know why"
+    },
+    {
+      "t": 99.11,
+      "end": 99.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.11,
+      "end": 102.49,
+      "text": "One hosepipe between us, honey"
+    },
+    {
+      "t": 104.71,
+      "end": 107.95,
+      "text": "One tap and a rusty key"
+    },
+    {
+      "t": 110.21,
+      "end": 113.33,
+      "text": "Today a note was on my shed step"
+    },
+    {
+      "t": 115.97,
+      "end": 118.99,
+      "text": "Friday dinner, you and me"
+    },
+    {
+      "t": 134.6,
+      "end": 134.6,
+      "text": "[Outro - piano roll, guitar tag]"
+    },
+    {
+      "t": 134.6,
+      "end": 152.5,
+      "text": "One hosepipe, two sheds, and a Friday tea"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.32,
+      "end": 23.32,
+      "text": "[Intro - slapback guitar, slapped bass]"
+    },
+    {
+      "t": 23.32,
+      "end": 23.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.32,
+      "end": 26.86,
+      "text": "There's a gap in the fence on plot nineteen"
+    },
+    {
+      "t": 29.1,
+      "end": 32.56,
+      "text": "And a green hosepipe running in between"
+    },
+    {
+      "t": 34.74,
+      "end": 38.12,
+      "text": "You water your beans, then you pass it through"
+    },
+    {
+      "t": 39.96,
+      "end": 43.51,
+      "text": "And I water mine with the hose still warm from you"
+    },
+    {
+      "t": 45.75,
+      "end": 45.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.75,
+      "end": 48.99,
+      "text": "You wave your trowel, I tip my hat"
+    },
+    {
+      "t": 51.69,
+      "end": 54.71,
+      "text": "Nobody's ever been sweeter than that"
+    },
+    {
+      "t": 57.71,
+      "end": 57.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.71,
+      "end": 60.27,
+      "text": "One hosepipe between us, honey"
+    },
+    {
+      "t": 60.27,
+      "end": 60.89,
+      "text": "One tap and a rusty key"
+    },
+    {
+      "t": 60.89,
+      "end": 76.55,
+      "text": "I leave tomatoes on your shed step"
+    },
+    {
+      "t": 76.63,
+      "end": 81.07,
+      "text": "Every Sunday, two or three"
+    },
+    {
+      "t": 81.07,
+      "end": 81.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.07,
+      "end": 83.79,
+      "text": "You fixed the leak with a rubber band"
+    },
+    {
+      "t": 83.79,
+      "end": 85.55,
+      "text": "I said you've got a clever hand"
+    },
+    {
+      "t": 86.75,
+      "end": 89.41,
+      "text": "You laughed so loud the robins ran"
+    },
+    {
+      "t": 89.41,
+      "end": 90.05,
+      "text": "And I dropped my watering can"
+    },
+    {
+      "t": 90.07,
+      "end": 90.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.07,
+      "end": 92.33,
+      "text": "The runner beans are climbing high"
+    },
+    {
+      "t": 92.33,
+      "end": 96.59,
+      "text": "I'm climbing too and I don't know why"
+    },
+    {
+      "t": 99.11,
+      "end": 99.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.11,
+      "end": 102.49,
+      "text": "One hosepipe between us, honey"
+    },
+    {
+      "t": 104.71,
+      "end": 107.91,
+      "text": "One tap and a rusty key"
+    },
+    {
+      "t": 110.23,
+      "end": 113.33,
+      "text": "Today a note was on my shed step"
+    },
+    {
+      "t": 115.97,
+      "end": 119.01,
+      "text": "Friday dinner, you and me"
+    },
+    {
+      "t": 134.6,
+      "end": 134.6,
+      "text": "[Outro - piano roll, guitar tag]"
+    },
+    {
+      "t": 134.6,
+      "end": 152.56,
+      "text": "One hosepipe, two sheds, and a Friday tea"
+    }
+  ]
+}

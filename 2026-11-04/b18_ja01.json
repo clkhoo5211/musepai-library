@@ -1,0 +1,337 @@
+{
+  "id": "b18_ja01",
+  "title": "いらっしゃいませ選手権",
+  "title_source": "scripted",
+  "genre": "Japanese girls-band alt-rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "loud, nervous and cheeky",
+  "persona": "",
+  "subject": "a quiet convenience-store part-timer whose manager says her 'irasshaimase' is too small, who secretly practises it in the walk-in fridge until one morning she blasts it so loud the whole queue of commuters turns round and claps",
+  "caption": "Japanese girls-band alt-rock in the 2024-2025 anime girls-band style. Two overdriven electric guitars, one chugging palm-muted eighths and one playing a bright jangly lead line, picked electric bass with a grinding tone, hard-hitting live drum kit with open hi-hats, hand claps in the chorus. Raw rehearsal-room band mix, drums up front, little reverb. Female mid-high voice with a slightly shouted edge, melody clearly sung, short gang shouts on the greeting. 168 BPM, E minor. Loud, nervous and cheeky. No rap, no autotune, no EDM synths, no ballad strings, no metal growls.",
+  "lyrics": "[Intro - palm-muted guitars, drum fill]\n\n[Verse 1]\n店長が言う「声が小さい」\nレジの奥で うなずくだけ\nピッて鳴るのは バーコードだけ\n私の声は 届かない\n\n[Pre-Chorus]\n休憩中 冷蔵庫の中\n牛乳相手に 練習中\n\n[Chorus]\nいらっしゃいませ!\nもっと大きく いらっしゃいませ!\n息が白くなるまで\n叫んでみる 朝五時\n\n[Verse 2]\n月曜の朝 長い行列\nスーツの背中が 並んでる\n自動ドアが 開いた瞬間\nお腹の底から 声が出た\n\n[Pre-Chorus]\n全員こっちを 振り向いた\nやっちゃった 顔が熱い\n\n[Chorus]\nいらっしゃいませ!\n誰かが拍手 いらっしゃいませ!\nおにぎり持ったまま\nみんな笑ってる 朝七時\n\n[Outro - guitars ring out, claps]\n店長が小さく 親指立てた\n明日はもう少し 小さくていい",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Japanese girls-band alt-rock in the 2024-2025 anime girls-band style. Two overdriven electric guitars, one chugging palm-muted eighths and one playing a bright jangly lead line, picked electric bass with a grinding tone, hard-hitting live drum kit with open hi-hats, hand claps in the chorus. Raw rehearsal-room band mix, drums up front, little reverb. Female mid-high voice with a slightly shouted edge, melody clearly sung, short gang shouts on the greeting. 168 BPM, E minor. Loud, nervous and cheeky. No rap, no autotune, no EDM synths, no ballad strings, no metal growls.",
+    "lyrics": "[Intro - palm-muted guitars, drum fill]\n\n[Verse 1]\n店長が言う「声が小さい」\nレジの奥で うなずくだけ\nピッて鳴るのは バーコードだけ\n私の声は 届かない\n\n[Pre-Chorus]\n休憩中 冷蔵庫の中\n牛乳相手に 練習中\n\n[Chorus]\nいらっしゃいませ!\nもっと大きく いらっしゃいませ!\n息が白くなるまで\n叫んでみる 朝五時\n\n[Verse 2]\n月曜の朝 長い行列\nスーツの背中が 並んでる\n自動ドアが 開いた瞬間\nお腹の底から 声が出た\n\n[Pre-Chorus]\n全員こっちを 振り向いた\nやっちゃった 顔が熱い\n\n[Chorus]\nいらっしゃいませ!\n誰かが拍手 いらっしゃいませ!\nおにぎり持ったまま\nみんな笑ってる 朝七時\n\n[Outro - guitars ring out, claps]\n店長が小さく 親指立てた\n明日はもう少し 小さくていい"
+  },
+  "seed": "2229253022",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 470.98s**\n- 470.98s per song\n- LM phase (1 song): 39.50s\n- DiT phase (1 song): 431.47s",
+  "task_id": "c4aea753-aac8-41c7-950a-c8cd011cd1f1",
+  "elapsed_s": 513.0,
+  "generated_at": "2026-11-04T18:11:36.403657+08:00",
+  "audio": "b18_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.8,
+      "end": 29.8,
+      "text": "[Intro - palm-muted guitars, drum fill]"
+    },
+    {
+      "t": 29.8,
+      "end": 29.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.8,
+      "end": 33.6,
+      "text": "店長が言う「声が小さい」"
+    },
+    {
+      "t": 33.6,
+      "end": 35.1,
+      "text": "レジの奥で うなずくだけ"
+    },
+    {
+      "t": 35.52,
+      "end": 40.44,
+      "text": "ピッて鳴るのは バーコードだけ"
+    },
+    {
+      "t": 41.74,
+      "end": 46.24,
+      "text": "私の声は 届かない"
+    },
+    {
+      "t": 47.63,
+      "end": 47.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.63,
+      "end": 51.79,
+      "text": "休憩中 冷蔵庫の中"
+    },
+    {
+      "t": 53.29,
+      "end": 59.09,
+      "text": "牛乳相手に 練習中"
+    },
+    {
+      "t": 59.15,
+      "end": 59.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.15,
+      "end": 60.43,
+      "text": "いらっしゃいませ!"
+    },
+    {
+      "t": 60.85,
+      "end": 63.31,
+      "text": "もっと大きく いらっしゃいませ!"
+    },
+    {
+      "t": 64.79,
+      "end": 66.35,
+      "text": "息が白くなるまで"
+    },
+    {
+      "t": 67.27,
+      "end": 69.19,
+      "text": "叫んでみる 朝五時"
+    },
+    {
+      "t": 75.29,
+      "end": 75.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.29,
+      "end": 80.25,
+      "text": "月曜の朝 長い行列"
+    },
+    {
+      "t": 80.99,
+      "end": 85.23,
+      "text": "スーツの背中が 並んでる"
+    },
+    {
+      "t": 86.71,
+      "end": 91.73,
+      "text": "自動ドアが 開いた瞬間"
+    },
+    {
+      "t": 91.73,
+      "end": 94.89,
+      "text": "お腹の底から 声が出た"
+    },
+    {
+      "t": 95.25,
+      "end": 95.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.25,
+      "end": 122.53,
+      "text": "全員こっちを 振り向いた"
+    },
+    {
+      "t": 122.79,
+      "end": 124.69,
+      "text": "やっちゃった 顔が熱い"
+    },
+    {
+      "t": 125.47,
+      "end": 125.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.47,
+      "end": 127.33,
+      "text": "いらっしゃいませ!"
+    },
+    {
+      "t": 127.37,
+      "end": 131.47,
+      "text": "誰かが拍手 いらっしゃいませ!"
+    },
+    {
+      "t": 131.79,
+      "end": 145.38,
+      "text": "おにぎり持ったまま"
+    },
+    {
+      "t": 149.02,
+      "end": 153.26,
+      "text": "みんな笑ってる 朝七時"
+    },
+    {
+      "t": 153.38,
+      "end": 153.38,
+      "text": "[Outro - guitars ring out, claps]"
+    },
+    {
+      "t": 153.38,
+      "end": 159.0,
+      "text": "店長が小さく 親指立てた"
+    },
+    {
+      "t": 160.14,
+      "end": 168.48,
+      "text": "明日はもう少し 小さくていい"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Intro - palm-muted guitars, drum fill]"
+    },
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.78,
+      "end": 33.18,
+      "text": "店長が言う「声が小さい」"
+    },
+    {
+      "t": 33.18,
+      "end": 35.1,
+      "text": "レジの奥で うなずくだけ"
+    },
+    {
+      "t": 35.52,
+      "end": 40.44,
+      "text": "ピッて鳴るのは バーコードだけ"
+    },
+    {
+      "t": 41.74,
+      "end": 46.22,
+      "text": "私の声は 届かない"
+    },
+    {
+      "t": 47.61,
+      "end": 47.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.61,
+      "end": 51.79,
+      "text": "休憩中 冷蔵庫の中"
+    },
+    {
+      "t": 53.29,
+      "end": 59.09,
+      "text": "牛乳相手に 練習中"
+    },
+    {
+      "t": 59.15,
+      "end": 59.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.15,
+      "end": 60.45,
+      "text": "いらっしゃいませ!"
+    },
+    {
+      "t": 60.85,
+      "end": 63.31,
+      "text": "もっと大きく いらっしゃいませ!"
+    },
+    {
+      "t": 64.81,
+      "end": 66.35,
+      "text": "息が白くなるまで"
+    },
+    {
+      "t": 67.33,
+      "end": 69.21,
+      "text": "叫んでみる 朝五時"
+    },
+    {
+      "t": 75.29,
+      "end": 75.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.29,
+      "end": 79.91,
+      "text": "月曜の朝 長い行列"
+    },
+    {
+      "t": 80.07,
+      "end": 85.25,
+      "text": "スーツの背中が 並んでる"
+    },
+    {
+      "t": 86.71,
+      "end": 91.77,
+      "text": "自動ドアが 開いた瞬間"
+    },
+    {
+      "t": 91.81,
+      "end": 94.89,
+      "text": "お腹の底から 声が出た"
+    },
+    {
+      "t": 95.27,
+      "end": 95.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.27,
+      "end": 126.29,
+      "text": "全員こっちを 振り向いた"
+    },
+    {
+      "t": 127.09,
+      "end": 129.39,
+      "text": "やっちゃった 顔が熱い"
+    },
+    {
+      "t": 129.65,
+      "end": 129.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.65,
+      "end": 130.73,
+      "text": "いらっしゃいませ!"
+    },
+    {
+      "t": 131.31,
+      "end": 152.58,
+      "text": "誰かが拍手 いらっしゃいませ!"
+    },
+    {
+      "t": 152.76,
+      "end": 154.78,
+      "text": "おにぎり持ったまま"
+    },
+    {
+      "t": 154.8,
+      "end": 156.3,
+      "text": "みんな笑ってる 朝七時"
+    },
+    {
+      "t": 156.56,
+      "end": 156.56,
+      "text": "[Outro - guitars ring out, claps]"
+    },
+    {
+      "t": 156.56,
+      "end": 158.98,
+      "text": "店長が小さく 親指立てた"
+    },
+    {
+      "t": 160.1,
+      "end": 170.24,
+      "text": "明日はもう少し 小さくていい"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

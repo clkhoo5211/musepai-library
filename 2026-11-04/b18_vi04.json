@@ -1,0 +1,277 @@
+{
+  "id": "b18_vi04",
+  "title": "Khoai Lang Đầu Cầu Thang",
+  "title_source": "scripted",
+  "genre": "Vietnamese Chicago blues shuffle",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "curious, wry, warm",
+  "persona": "",
+  "subject": "a bachelor on the fourth floor of an old Kim Liên collective block who finds a paper bag of warm roasted sweet potatoes on the stairwell landing every evening, and finally sits up on the steps one night to catch who leaves it",
+  "caption": "Vietnamese Chicago blues shuffle. Overdriven electric guitar shuffle riff, cupped harmonica wails, rolling barrelhouse piano, swung shuffle drums with upright-feel electric bass. Live-room bleed, small club warmth. Gravelly male tenor, conversational and clearly sung, harmonica answering each line. 96 BPM, G major. Wry curious mystery. No rap, no trap beat, no autotune, no synths, no pop gloss.",
+  "lyrics": "[Intro - guitar shuffle riff, harmonica]\n\n[Verse 1]\nKhu tập thể cũ, tầng bốn nhà tôi\nChiều nào đi làm về cũng thấy\nMột túi khoai lang còn nóng hổi\nĐể ngay đầu cầu thang tối om\n\n[Chorus]\nAi để khoai lang, ai để đó\nAi biết tôi về lúc sáu giờ\nTôi ăn ngon lành mà lòng không yên\nTối nay tôi ngồi đây chờ\n\n[Verse 2]\nTôi ngồi trên bậc, tắt đèn hành lang\nMuỗi cắn đầy tay, tôi vẫn cố chờ\nChín giờ có tiếng dép lên loẹt quẹt\nMột bà cụ nhỏ ôm túi khoai\n\n[Chorus]\nAi để khoai lang, bà để đó\nBà bảo tưởng tôi là thằng cháu\nThằng cháu đi xa, quen tay nướng mãi\nThôi con cứ ăn, cho bà đỡ phí\n\n[Outro - harmonica, piano roll]\nGiờ chiều nào tôi cũng xuống tầng ba\nMang cho bà ổ bánh, bà đưa khoai",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Vietnamese Chicago blues shuffle. Overdriven electric guitar shuffle riff, cupped harmonica wails, rolling barrelhouse piano, swung shuffle drums with upright-feel electric bass. Live-room bleed, small club warmth. Gravelly male tenor, conversational and clearly sung, harmonica answering each line. 96 BPM, G major. Wry curious mystery. No rap, no trap beat, no autotune, no synths, no pop gloss.",
+    "lyrics": "[Intro - guitar shuffle riff, harmonica]\n\n[Verse 1]\nKhu tập thể cũ, tầng bốn nhà tôi\nChiều nào đi làm về cũng thấy\nMột túi khoai lang còn nóng hổi\nĐể ngay đầu cầu thang tối om\n\n[Chorus]\nAi để khoai lang, ai để đó\nAi biết tôi về lúc sáu giờ\nTôi ăn ngon lành mà lòng không yên\nTối nay tôi ngồi đây chờ\n\n[Verse 2]\nTôi ngồi trên bậc, tắt đèn hành lang\nMuỗi cắn đầy tay, tôi vẫn cố chờ\nChín giờ có tiếng dép lên loẹt quẹt\nMột bà cụ nhỏ ôm túi khoai\n\n[Chorus]\nAi để khoai lang, bà để đó\nBà bảo tưởng tôi là thằng cháu\nThằng cháu đi xa, quen tay nướng mãi\nThôi con cứ ăn, cho bà đỡ phí\n\n[Outro - harmonica, piano roll]\nGiờ chiều nào tôi cũng xuống tầng ba\nMang cho bà ổ bánh, bà đưa khoai"
+  },
+  "seed": "198279495",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 94.54s**\n- 94.54s per song\n- LM phase (1 song): 16.22s\n- DiT phase (1 song): 78.32s",
+  "task_id": "3bc0ddf7-e111-4107-bc8f-451d9a105ef3",
+  "elapsed_s": 130.4,
+  "generated_at": "2026-11-04T15:40:49.201773+08:00",
+  "audio": "b18_vi04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.54,
+      "end": 30.54,
+      "text": "[Intro - guitar shuffle riff, harmonica]"
+    },
+    {
+      "t": 30.54,
+      "end": 30.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.54,
+      "end": 32.48,
+      "text": "Khu tập thể cũ, tầng bốn nhà tôi"
+    },
+    {
+      "t": 33.36,
+      "end": 35.9,
+      "text": "Chiều nào đi làm về cũng thấy"
+    },
+    {
+      "t": 38.1,
+      "end": 41.2,
+      "text": "Một túi khoai lang còn nóng hổi"
+    },
+    {
+      "t": 41.62,
+      "end": 45.94,
+      "text": "Để ngay đầu cầu thang tối om"
+    },
+    {
+      "t": 49.71,
+      "end": 49.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.71,
+      "end": 52.87,
+      "text": "Ai để khoai lang, ai để đó"
+    },
+    {
+      "t": 54.99,
+      "end": 57.57,
+      "text": "Ai biết tôi về lúc sáu giờ"
+    },
+    {
+      "t": 59.91,
+      "end": 63.39,
+      "text": "Tôi ăn ngon lành mà lòng không yên"
+    },
+    {
+      "t": 64.59,
+      "end": 67.21,
+      "text": "Tối nay tôi ngồi đây chờ"
+    },
+    {
+      "t": 69.91,
+      "end": 69.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.91,
+      "end": 79.95,
+      "text": "Tôi ngồi trên bậc, tắt đèn hành lang"
+    },
+    {
+      "t": 79.95,
+      "end": 83.47,
+      "text": "Muỗi cắn đầy tay, tôi vẫn cố chờ"
+    },
+    {
+      "t": 89.87,
+      "end": 93.65,
+      "text": "Chín giờ có tiếng dép lên loẹt quẹt"
+    },
+    {
+      "t": 102.39,
+      "end": 138.63,
+      "text": "Một bà cụ nhỏ ôm túi khoai"
+    },
+    {
+      "t": 138.81,
+      "end": 138.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.81,
+      "end": 141.55,
+      "text": "Ai để khoai lang, bà để đó"
+    },
+    {
+      "t": 144.41,
+      "end": 146.98,
+      "text": "Bà bảo tưởng tôi là thằng cháu"
+    },
+    {
+      "t": 146.98,
+      "end": 150.36,
+      "text": "Thằng cháu đi xa, quen tay nướng mãi"
+    },
+    {
+      "t": 150.36,
+      "end": 155.18,
+      "text": "Thôi con cứ ăn, cho bà đỡ phí"
+    },
+    {
+      "t": 159.1,
+      "end": 159.1,
+      "text": "[Outro - harmonica, piano roll]"
+    },
+    {
+      "t": 159.1,
+      "end": 163.96,
+      "text": "Giờ chiều nào tôi cũng xuống tầng ba"
+    },
+    {
+      "t": 166.6,
+      "end": 173.72,
+      "text": "Mang cho bà ổ bánh, bà đưa khoai"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.54,
+      "end": 30.54,
+      "text": "[Intro - guitar shuffle riff, harmonica]"
+    },
+    {
+      "t": 30.54,
+      "end": 30.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.54,
+      "end": 33.36,
+      "text": "Khu tập thể cũ, tầng bốn nhà tôi"
+    },
+    {
+      "t": 33.36,
+      "end": 35.92,
+      "text": "Chiều nào đi làm về cũng thấy"
+    },
+    {
+      "t": 38.08,
+      "end": 41.2,
+      "text": "Một túi khoai lang còn nóng hổi"
+    },
+    {
+      "t": 41.62,
+      "end": 45.92,
+      "text": "Để ngay đầu cầu thang tối om"
+    },
+    {
+      "t": 49.73,
+      "end": 49.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.73,
+      "end": 52.87,
+      "text": "Ai để khoai lang, ai để đó"
+    },
+    {
+      "t": 54.97,
+      "end": 57.57,
+      "text": "Ai biết tôi về lúc sáu giờ"
+    },
+    {
+      "t": 59.91,
+      "end": 63.39,
+      "text": "Tôi ăn ngon lành mà lòng không yên"
+    },
+    {
+      "t": 64.59,
+      "end": 67.23,
+      "text": "Tối nay tôi ngồi đây chờ"
+    },
+    {
+      "t": 69.89,
+      "end": 69.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.89,
+      "end": 79.95,
+      "text": "Tôi ngồi trên bậc, tắt đèn hành lang"
+    },
+    {
+      "t": 79.95,
+      "end": 83.47,
+      "text": "Muỗi cắn đầy tay, tôi vẫn cố chờ"
+    },
+    {
+      "t": 89.87,
+      "end": 102.41,
+      "text": "Chín giờ có tiếng dép lên loẹt quẹt"
+    },
+    {
+      "t": 102.43,
+      "end": 132.01,
+      "text": "Một bà cụ nhỏ ôm túi khoai"
+    },
+    {
+      "t": 138.81,
+      "end": 138.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.81,
+      "end": 141.55,
+      "text": "Ai để khoai lang, bà để đó"
+    },
+    {
+      "t": 144.41,
+      "end": 146.96,
+      "text": "Bà bảo tưởng tôi là thằng cháu"
+    },
+    {
+      "t": 147.02,
+      "end": 150.36,
+      "text": "Thằng cháu đi xa, quen tay nướng mãi"
+    },
+    {
+      "t": 150.36,
+      "end": 155.18,
+      "text": "Thôi con cứ ăn, cho bà đỡ phí"
+    },
+    {
+      "t": 159.08,
+      "end": 159.08,
+      "text": "[Outro - harmonica, piano roll]"
+    },
+    {
+      "t": 159.08,
+      "end": 163.94,
+      "text": "Giờ chiều nào tôi cũng xuống tầng ba"
+    },
+    {
+      "t": 166.6,
+      "end": 173.64,
+      "text": "Mang cho bà ổ bánh, bà đưa khoai"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

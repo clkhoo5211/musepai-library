@@ -1,0 +1,489 @@
+{
+  "id": "b18_ja02",
+  "title": "つんつるてん浴衣",
+  "title_source": "scripted",
+  "genre": "Japanese cumbia",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sweaty, goofy and swaying",
+  "persona": "",
+  "subject": "a tall man who rents the last yukata left at a festival rental shop, a size too short so it stops at his shins, and decides to dance in the bon-odori circle anyway while the geta give him blisters",
+  "caption": "Japanese cumbia in the Tokyo Latin-scene style. Scraping güiro on steady eighths, wheezy button accordion playing the main riff, clean electric guitar with chopped off-beat chords, round electric bass on the classic cumbia two-step, congas and a cowbell. Warm live-room tropical mix, light tape saturation, dry upfront vocal. Male baritone, relaxed and wry, melody clearly sung, group voices answering the chorus. 96 BPM, D minor. Sweaty, goofy and swaying. No reggaeton dembow, no rap, no autotune, no EDM drop, no trap hi-hats. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+  "lyrics": "[Intro - accordion riff, güiro, congas]\n\n[Verse 1]\nレンタル屋さん 最後の一枚\n「お客さん 背が高すぎます」\nすねがまるごと 見えている\nつんつるてんの 紺の浴衣\n\n[Pre-Chorus]\n下駄の鼻緒が 指に食い込む\nそれでも太鼓が 呼んでいる\n\n[Chorus]\nつんつるてんで 踊ろうか\nすねを出して 輪の中へ\n笑われたって かまわない\n今夜は祭りだ ほら回れ\n\n[Verse 2]\n隣のおばあちゃん 手本見せて\n「手はこう ほら腰はこう」\n三周目には 拍手もらった\nマメの痛みも 忘れてた\n\n[Pre-Chorus]\n提灯の下 汗が光る\n帯がずれても 気にしない\n\n[Chorus]\nつんつるてんで 踊ろうか\nおばあちゃんの 後ろについて\n笑われたって かまわない\n来年は自分の 浴衣で来る\n\n[Outro - accordion and congas fade]\n下駄を片手に 裸足で帰る\nすねに夜風が 気持ちいい",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Japanese cumbia in the Tokyo Latin-scene style. Scraping güiro on steady eighths, wheezy button accordion playing the main riff, clean electric guitar with chopped off-beat chords, round electric bass on the classic cumbia two-step, congas and a cowbell. Warm live-room tropical mix, light tape saturation, dry upfront vocal. Male baritone, relaxed and wry, melody clearly sung, group voices answering the chorus. 96 BPM, D minor. Sweaty, goofy and swaying. No reggaeton dembow, no rap, no autotune, no EDM drop, no trap hi-hats. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+    "lyrics": "[Intro - accordion riff, güiro, congas]\n\n[Verse 1]\nレンタル屋さん 最後の一枚\n「お客さん 背が高すぎます」\nすねがまるごと 見えている\nつんつるてんの 紺の浴衣\n\n[Pre-Chorus]\n下駄の鼻緒が 指に食い込む\nそれでも太鼓が 呼んでいる\n\n[Chorus]\nつんつるてんで 踊ろうか\nすねを出して 輪の中へ\n笑われたって かまわない\n今夜は祭りだ ほら回れ\n\n[Verse 2]\n隣のおばあちゃん 手本見せて\n「手はこう ほら腰はこう」\n三周目には 拍手もらった\nマメの痛みも 忘れてた\n\n[Pre-Chorus]\n提灯の下 汗が光る\n帯がずれても 気にしない\n\n[Chorus]\nつんつるてんで 踊ろうか\nおばあちゃんの 後ろについて\n笑われたって かまわない\n来年は自分の 浴衣で来る\n\n[Outro - accordion and congas fade]\n下駄を片手に 裸足で帰る\nすねに夜風が 気持ちいい"
+  },
+  "seed": "1817244354",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.88s**\n- 56.88s per song\n- LM phase (1 song): 9.25s\n- DiT phase (1 song): 47.63s",
+  "task_id": "4f8ce70f-13fd-4b60-970d-6cc3b10c39fd",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-04T22:19:24.031194+08:00",
+  "audio": "b18_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.68,
+      "end": 29.68,
+      "text": "[Intro - accordion riff, güiro, congas]"
+    },
+    {
+      "t": 29.68,
+      "end": 29.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.68,
+      "end": 34.86,
+      "text": "レンタル屋さん 最後の一枚"
+    },
+    {
+      "t": 35.0,
+      "end": 37.26,
+      "text": "「お客さん 背が高すぎます」"
+    },
+    {
+      "t": 39.66,
+      "end": 42.18,
+      "text": "すねがまるごと 見えている"
+    },
+    {
+      "t": 42.2,
+      "end": 60.45,
+      "text": "つんつるてんの 紺の浴衣"
+    },
+    {
+      "t": 60.51,
+      "end": 60.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.51,
+      "end": 63.35,
+      "text": "下駄の鼻緒が 指に食い込む"
+    },
+    {
+      "t": 65.05,
+      "end": 68.33,
+      "text": "それでも太鼓が 呼んでいる"
+    },
+    {
+      "t": 70.19,
+      "end": 70.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.19,
+      "end": 72.85,
+      "text": "つんつるてんで 踊ろうか"
+    },
+    {
+      "t": 73.51,
+      "end": 74.63,
+      "text": "すねを出して 輪の中へ"
+    },
+    {
+      "t": 75.29,
+      "end": 79.65,
+      "text": "笑われたって かまわない"
+    },
+    {
+      "t": 80.29,
+      "end": 83.89,
+      "text": "今夜は祭りだ ほら回れ"
+    },
+    {
+      "t": 83.89,
+      "end": 83.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.89,
+      "end": 126.93,
+      "text": "隣のおばあちゃん 手本見せて"
+    },
+    {
+      "t": 126.95,
+      "end": 132.07,
+      "text": "「手はこう ほら腰はこう」"
+    },
+    {
+      "t": 132.25,
+      "end": 133.83,
+      "text": "三周目には 拍手もらった"
+    },
+    {
+      "t": 134.49,
+      "end": 135.85,
+      "text": "マメの痛みも 忘れてた"
+    },
+    {
+      "t": 135.95,
+      "end": 135.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 135.95,
+      "end": 138.25,
+      "text": "提灯の下 汗が光る"
+    },
+    {
+      "t": 138.25,
+      "end": 142.15,
+      "text": "帯がずれても 気にしない"
+    },
+    {
+      "t": 142.21,
+      "end": 142.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.21,
+      "end": 144.86,
+      "text": "つんつるてんで 踊ろうか"
+    },
+    {
+      "t": 144.96,
+      "end": 165.98,
+      "text": "おばあちゃんの 後ろについて"
+    },
+    {
+      "t": 165.98,
+      "end": 166.88,
+      "text": "笑われたって かまわない"
+    },
+    {
+      "t": 167.06,
+      "end": 168.94,
+      "text": "来年は自分の 浴衣で来る"
+    },
+    {
+      "t": 169.32,
+      "end": 169.32,
+      "text": "[Outro - accordion and congas fade]"
+    },
+    {
+      "t": 169.32,
+      "end": 175.24,
+      "text": "下駄を片手に 裸足で帰る"
+    },
+    {
+      "t": 176.8,
+      "end": 179.96,
+      "text": "すねに夜風が 気持ちいい"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.68,
+      "end": 29.68,
+      "text": "[Intro - accordion riff, güiro, congas]"
+    },
+    {
+      "t": 29.68,
+      "end": 29.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.68,
+      "end": 34.86,
+      "text": "レンタル屋さん 最後の一枚"
+    },
+    {
+      "t": 35.0,
+      "end": 37.26,
+      "text": "「お客さん 背が高すぎます」"
+    },
+    {
+      "t": 39.66,
+      "end": 42.18,
+      "text": "すねがまるごと 見えている"
+    },
+    {
+      "t": 42.2,
+      "end": 60.45,
+      "text": "つんつるてんの 紺の浴衣"
+    },
+    {
+      "t": 60.51,
+      "end": 60.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.51,
+      "end": 63.35,
+      "text": "下駄の鼻緒が 指に食い込む"
+    },
+    {
+      "t": 65.05,
+      "end": 68.33,
+      "text": "それでも太鼓が 呼んでいる"
+    },
+    {
+      "t": 70.19,
+      "end": 70.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.19,
+      "end": 72.85,
+      "text": "つんつるてんで 踊ろうか"
+    },
+    {
+      "t": 73.51,
+      "end": 74.63,
+      "text": "すねを出して 輪の中へ"
+    },
+    {
+      "t": 75.29,
+      "end": 79.65,
+      "text": "笑われたって かまわない"
+    },
+    {
+      "t": 80.29,
+      "end": 83.89,
+      "text": "今夜は祭りだ ほら回れ"
+    },
+    {
+      "t": 83.89,
+      "end": 83.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.89,
+      "end": 126.93,
+      "text": "隣のおばあちゃん 手本見せて"
+    },
+    {
+      "t": 126.95,
+      "end": 132.07,
+      "text": "「手はこう ほら腰はこう」"
+    },
+    {
+      "t": 132.25,
+      "end": 133.83,
+      "text": "三周目には 拍手もらった"
+    },
+    {
+      "t": 134.49,
+      "end": 135.85,
+      "text": "マメの痛みも 忘れてた"
+    },
+    {
+      "t": 135.95,
+      "end": 135.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 135.95,
+      "end": 138.25,
+      "text": "提灯の下 汗が光る"
+    },
+    {
+      "t": 138.25,
+      "end": 142.15,
+      "text": "帯がずれても 気にしない"
+    },
+    {
+      "t": 142.21,
+      "end": 142.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.21,
+      "end": 144.86,
+      "text": "つんつるてんで 踊ろうか"
+    },
+    {
+      "t": 144.96,
+      "end": 165.98,
+      "text": "おばあちゃんの 後ろについて"
+    },
+    {
+      "t": 165.98,
+      "end": 166.88,
+      "text": "笑われたって かまわない"
+    },
+    {
+      "t": 167.06,
+      "end": 168.94,
+      "text": "来年は自分の 浴衣で来る"
+    },
+    {
+      "t": 169.32,
+      "end": 169.32,
+      "text": "[Outro - accordion and congas fade]"
+    },
+    {
+      "t": 169.32,
+      "end": 175.24,
+      "text": "下駄を片手に 裸足で帰る"
+    },
+    {
+      "t": 176.8,
+      "end": 179.96,
+      "text": "すねに夜風が 気持ちいい"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 31.34,
+      "end": 31.34,
+      "text": "[Intro - accordion riff, güiro, congas]"
+    },
+    {
+      "t": 31.34,
+      "end": 31.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.34,
+      "end": 34.38,
+      "text": "レンタル屋さん 最後の一枚"
+    },
+    {
+      "t": 36.28,
+      "end": 39.42,
+      "text": "「お客さん 背が高すぎます」"
+    },
+    {
+      "t": 41.16,
+      "end": 44.12,
+      "text": "すねがまるごと 見えている"
+    },
+    {
+      "t": 45.82,
+      "end": 49.39,
+      "text": "つんつるてんの 紺の浴衣"
+    },
+    {
+      "t": 49.49,
+      "end": 49.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.49,
+      "end": 54.13,
+      "text": "下駄の鼻緒が 指に食い込む"
+    },
+    {
+      "t": 55.53,
+      "end": 59.11,
+      "text": "それでも太鼓が 呼んでいる"
+    },
+    {
+      "t": 60.07,
+      "end": 60.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.07,
+      "end": 68.77,
+      "text": "つんつるてんで 踊ろうか"
+    },
+    {
+      "t": 68.77,
+      "end": 70.79,
+      "text": "すねを出して 輪の中へ"
+    },
+    {
+      "t": 70.87,
+      "end": 78.27,
+      "text": "笑われたって かまわない"
+    },
+    {
+      "t": 78.27,
+      "end": 82.57,
+      "text": "今夜は祭りだ ほら回れ"
+    },
+    {
+      "t": 82.57,
+      "end": 82.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.57,
+      "end": 85.73,
+      "text": "隣のおばあちゃん 手本見せて"
+    },
+    {
+      "t": 85.89,
+      "end": 87.71,
+      "text": "「手はこう ほら腰はこう」"
+    },
+    {
+      "t": 87.77,
+      "end": 90.31,
+      "text": "三周目には 拍手もらった"
+    },
+    {
+      "t": 91.85,
+      "end": 95.13,
+      "text": "マメの痛みも 忘れてた"
+    },
+    {
+      "t": 95.37,
+      "end": 95.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.37,
+      "end": 101.19,
+      "text": "提灯の下 汗が光る"
+    },
+    {
+      "t": 102.49,
+      "end": 106.95,
+      "text": "帯がずれても 気にしない"
+    },
+    {
+      "t": 109.97,
+      "end": 109.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.97,
+      "end": 131.15,
+      "text": "つんつるてんで 踊ろうか"
+    },
+    {
+      "t": 131.35,
+      "end": 135.43,
+      "text": "おばあちゃんの 後ろについて"
+    },
+    {
+      "t": 139.63,
+      "end": 160.38,
+      "text": "笑われたって かまわない"
+    },
+    {
+      "t": 160.46,
+      "end": 165.82,
+      "text": "来年は自分の 浴衣で来る"
+    },
+    {
+      "t": 165.84,
+      "end": 165.84,
+      "text": "[Outro - accordion and congas fade]"
+    },
+    {
+      "t": 165.84,
+      "end": 178.3,
+      "text": "下駄を片手に 裸足で帰る"
+    },
+    {
+      "t": 178.36,
+      "end": 186.36,
+      "text": "すねに夜風が 気持ちいい"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "id": "b18_ko04",
+  "title": "그림일기 몰아 쓰기",
+  "title_source": "scripted",
+  "genre": "Korean jangle pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "sheepish, nostalgic, light",
+  "persona": "",
+  "subject": "a ten-year-old boy on the last night of summer vacation filling in thirty days of picture diary at once, and asking his older sister what the weather was on each day while she reads it off her own diary",
+  "caption": "Korean jangle pop, 80s-style chiming indie guitar pop. Ringing 12-string electric guitar arpeggios, melodic picked bass, tambourine with a simple snare backbeat, thin Farfisa organ pads. Clean, sunny indie mix with light reverb. Soft male voice, clearly sung melody, sheepish and conversational. 132 BPM, G major. Light, nostalgic, a little guilty. No trap beats, no autotune, no synth bass drop, no rap, no distorted power chords.",
+  "lyrics": "[Intro - 12-string guitar, tambourine]\n\n[Verse 1]\n개학은 내일 아침\n일기장은 첫 장뿐\n크레파스 다 꺼내고\n서른 날을 그려야 해\n\n[Pre-Chorus]\n누나 누나 잠깐만\n그날 날씨 뭐였어\n\n[Chorus]\n칠월 이십삼일 맑음\n이십사일 흐림\n누나가 불러 주면\n나는 해를 그려\n\n[Verse 2]\n수박 먹은 날 두 번\n바다 간 날은 없어\n누나 일기 펼쳐 놓고\n날씨 칸만 베껴 썼어\n\n[Chorus]\n팔월 삼십일 맑음\n삼십일일 비\n누나 일기 덕분에\n오늘 다 끝났어\n\n[Outro - guitar, organ]\n선생님 모르시겠지\n날씨가 똑같은 거",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Korean jangle pop, 80s-style chiming indie guitar pop. Ringing 12-string electric guitar arpeggios, melodic picked bass, tambourine with a simple snare backbeat, thin Farfisa organ pads. Clean, sunny indie mix with light reverb. Soft male voice, clearly sung melody, sheepish and conversational. 132 BPM, G major. Light, nostalgic, a little guilty. No trap beats, no autotune, no synth bass drop, no rap, no distorted power chords.",
+    "lyrics": "[Intro - 12-string guitar, tambourine]\n\n[Verse 1]\n개학은 내일 아침\n일기장은 첫 장뿐\n크레파스 다 꺼내고\n서른 날을 그려야 해\n\n[Pre-Chorus]\n누나 누나 잠깐만\n그날 날씨 뭐였어\n\n[Chorus]\n칠월 이십삼일 맑음\n이십사일 흐림\n누나가 불러 주면\n나는 해를 그려\n\n[Verse 2]\n수박 먹은 날 두 번\n바다 간 날은 없어\n누나 일기 펼쳐 놓고\n날씨 칸만 베껴 썼어\n\n[Chorus]\n팔월 삼십일 맑음\n삼십일일 비\n누나 일기 덕분에\n오늘 다 끝났어\n\n[Outro - guitar, organ]\n선생님 모르시겠지\n날씨가 똑같은 거"
+  },
+  "seed": "3366035526",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 88.93s**\n- 88.93s per song\n- LM phase (1 song): 10.47s\n- DiT phase (1 song): 78.46s",
+  "task_id": "fa8e81dc-85df-4908-b8bc-7ff64ef91263",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-11-04T15:02:10.775826+08:00",
+  "audio": "b18_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Intro - 12-string guitar, tambourine]"
+    },
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.56,
+      "end": 26.0,
+      "text": "개학은 내일 아침"
+    },
+    {
+      "t": 26.04,
+      "end": 33.18,
+      "text": "일기장은 첫 장뿐"
+    },
+    {
+      "t": 33.18,
+      "end": 33.94,
+      "text": "크레파스 다 꺼내고"
+    },
+    {
+      "t": 34.02,
+      "end": 37.64,
+      "text": "서른 날을 그려야 해"
+    },
+    {
+      "t": 41.32,
+      "end": 41.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.32,
+      "end": 45.51,
+      "text": "누나 누나 잠깐만"
+    },
+    {
+      "t": 49.03,
+      "end": 52.21,
+      "text": "그날 날씨 뭐였어"
+    },
+    {
+      "t": 53.13,
+      "end": 53.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.13,
+      "end": 53.67,
+      "text": "칠월 이십삼일 맑음"
+    },
+    {
+      "t": 53.67,
+      "end": 56.29,
+      "text": "이십사일 흐림"
+    },
+    {
+      "t": 56.29,
+      "end": 60.71,
+      "text": "누나가 불러 주면"
+    },
+    {
+      "t": 63.61,
+      "end": 66.77,
+      "text": "나는 해를 그려"
+    },
+    {
+      "t": 70.83,
+      "end": 70.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.83,
+      "end": 74.17,
+      "text": "수박 먹은 날 두 번"
+    },
+    {
+      "t": 74.27,
+      "end": 78.59,
+      "text": "바다 간 날은 없어"
+    },
+    {
+      "t": 78.59,
+      "end": 81.23,
+      "text": "누나 일기 펼쳐 놓고"
+    },
+    {
+      "t": 81.55,
+      "end": 100.11,
+      "text": "날씨 칸만 베껴 썼어"
+    },
+    {
+      "t": 108.55,
+      "end": 108.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.55,
+      "end": 111.35,
+      "text": "팔월 삼십일 맑음"
+    },
+    {
+      "t": 112.57,
+      "end": 114.35,
+      "text": "삼십일일 비"
+    },
+    {
+      "t": 115.77,
+      "end": 117.95,
+      "text": "누나 일기 덕분에"
+    },
+    {
+      "t": 118.15,
+      "end": 120.27,
+      "text": "오늘 다 끝났어"
+    },
+    {
+      "t": 124.11,
+      "end": 124.11,
+      "text": "[Outro - guitar, organ]"
+    },
+    {
+      "t": 124.11,
+      "end": 127.31,
+      "text": "선생님 모르시겠지"
+    },
+    {
+      "t": 131.85,
+      "end": 166.02,
+      "text": "날씨가 똑같은 거"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Intro - 12-string guitar, tambourine]"
+    },
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.56,
+      "end": 25.98,
+      "text": "개학은 내일 아침"
+    },
+    {
+      "t": 26.64,
+      "end": 32.0,
+      "text": "일기장은 첫 장뿐"
+    },
+    {
+      "t": 32.2,
+      "end": 33.32,
+      "text": "크레파스 다 꺼내고"
+    },
+    {
+      "t": 34.02,
+      "end": 37.66,
+      "text": "서른 날을 그려야 해"
+    },
+    {
+      "t": 41.2,
+      "end": 41.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.2,
+      "end": 45.49,
+      "text": "누나 누나 잠깐만"
+    },
+    {
+      "t": 49.03,
+      "end": 52.21,
+      "text": "그날 날씨 뭐였어"
+    },
+    {
+      "t": 53.65,
+      "end": 53.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.65,
+      "end": 54.17,
+      "text": "칠월 이십삼일 맑음"
+    },
+    {
+      "t": 54.17,
+      "end": 56.13,
+      "text": "이십사일 흐림"
+    },
+    {
+      "t": 56.31,
+      "end": 60.67,
+      "text": "누나가 불러 주면"
+    },
+    {
+      "t": 63.61,
+      "end": 66.77,
+      "text": "나는 해를 그려"
+    },
+    {
+      "t": 70.81,
+      "end": 70.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.81,
+      "end": 74.21,
+      "text": "수박 먹은 날 두 번"
+    },
+    {
+      "t": 74.53,
+      "end": 76.35,
+      "text": "바다 간 날은 없어"
+    },
+    {
+      "t": 78.59,
+      "end": 81.23,
+      "text": "누나 일기 펼쳐 놓고"
+    },
+    {
+      "t": 81.55,
+      "end": 82.83,
+      "text": "날씨 칸만 베껴 썼어"
+    },
+    {
+      "t": 108.55,
+      "end": 108.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.55,
+      "end": 111.33,
+      "text": "팔월 삼십일 맑음"
+    },
+    {
+      "t": 112.57,
+      "end": 114.35,
+      "text": "삼십일일 비"
+    },
+    {
+      "t": 115.77,
+      "end": 117.97,
+      "text": "누나 일기 덕분에"
+    },
+    {
+      "t": 118.17,
+      "end": 120.27,
+      "text": "오늘 다 끝났어"
+    },
+    {
+      "t": 124.09,
+      "end": 124.09,
+      "text": "[Outro - guitar, organ]"
+    },
+    {
+      "t": 124.09,
+      "end": 127.31,
+      "text": "선생님 모르시겠지"
+    },
+    {
+      "t": 131.85,
+      "end": 165.82,
+      "text": "날씨가 똑같은 거"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

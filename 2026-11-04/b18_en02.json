@@ -1,0 +1,337 @@
+{
+  "id": "b18_en02",
+  "title": "Four Kettles Make a Bath",
+  "title_source": "scripted",
+  "genre": "Irish trad folk-punk",
+  "language": "en",
+  "language_name": "English",
+  "mood": "rowdy, comic, defiant",
+  "persona": "",
+  "subject": "four flatmates whose boiler dies the week before the landlord's man can come, running every kettle and pan in the house in relay to fill one bath and drawing lots for who gets in first",
+  "caption": "Irish trad folk-punk, ballad-session style with punk energy. Hard-strummed acoustic guitar, driving tenor banjo, shrill tin whistle melody, stomping bodhran, plain bass guitar. Raw pub-room recording with foot stomps and a rowdy crowd backing. Male lead with gang vocals, clearly sung, shout-along chorus. 150 BPM, D major. Rowdy, comic, defiant. No synths, no autotune, no electronic drums, no pop gloss, no polished arena reverb.",
+  "lyrics": "[Intro - banjo, tin whistle, stomps]\n\n[Verse 1]\nThe boiler gave a cough on Monday night\nA little blue flame and then no light\nThe landlord's man is booked till Saturday\nSo we'll have to wash the oul' fashioned way\n\n[Chorus]\nFour kettles make a bath, me boys\nTwo pans and a soup pot too\nOne's on the stairs and one's on the boil\nAnd the last one's kept for you\n\n[Verse 2]\nWe drew our names from Ciaran's hat\nAnd Sinead won, and that was that\nShe's in there singing with the door ajar\nWhile we pour it in like a pint at the bar\n\n[Chorus]\nFour kettles make a bath, me boys\nTwo pans and a soup pot too\nBy the time it's my turn on the list\nIt's lukewarm and the colour of stew\n\n[Bridge - bodhran, whistle]\nOn Saturday the van pulls up\nHe turns one screw and it's fixed on the spot\n\n[Chorus]\nFour kettles made a bath, me boys\nAnd we'll keep them on the shelf\nThe next time the boiler goes\nYou can carry the pans yourself\n\n[Outro - full band stomp]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Irish trad folk-punk, ballad-session style with punk energy. Hard-strummed acoustic guitar, driving tenor banjo, shrill tin whistle melody, stomping bodhran, plain bass guitar. Raw pub-room recording with foot stomps and a rowdy crowd backing. Male lead with gang vocals, clearly sung, shout-along chorus. 150 BPM, D major. Rowdy, comic, defiant. No synths, no autotune, no electronic drums, no pop gloss, no polished arena reverb.",
+    "lyrics": "[Intro - banjo, tin whistle, stomps]\n\n[Verse 1]\nThe boiler gave a cough on Monday night\nA little blue flame and then no light\nThe landlord's man is booked till Saturday\nSo we'll have to wash the oul' fashioned way\n\n[Chorus]\nFour kettles make a bath, me boys\nTwo pans and a soup pot too\nOne's on the stairs and one's on the boil\nAnd the last one's kept for you\n\n[Verse 2]\nWe drew our names from Ciaran's hat\nAnd Sinead won, and that was that\nShe's in there singing with the door ajar\nWhile we pour it in like a pint at the bar\n\n[Chorus]\nFour kettles make a bath, me boys\nTwo pans and a soup pot too\nBy the time it's my turn on the list\nIt's lukewarm and the colour of stew\n\n[Bridge - bodhran, whistle]\nOn Saturday the van pulls up\nHe turns one screw and it's fixed on the spot\n\n[Chorus]\nFour kettles made a bath, me boys\nAnd we'll keep them on the shelf\nThe next time the boiler goes\nYou can carry the pans yourself\n\n[Outro - full band stomp]"
+  },
+  "seed": "3753466578",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 92.60s**\n- 92.60s per song\n- LM phase (1 song): 21.69s\n- DiT phase (1 song): 70.92s",
+  "task_id": "25158670-a7f2-4008-9972-71c013c94369",
+  "elapsed_s": 120.1,
+  "generated_at": "2026-11-04T15:57:52.683776+08:00",
+  "audio": "b18_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.36,
+      "end": 24.36,
+      "text": "[Intro - banjo, tin whistle, stomps]"
+    },
+    {
+      "t": 24.36,
+      "end": 24.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.36,
+      "end": 30.62,
+      "text": "The boiler gave a cough on Monday night"
+    },
+    {
+      "t": 30.66,
+      "end": 34.32,
+      "text": "A little blue flame and then no light"
+    },
+    {
+      "t": 36.86,
+      "end": 41.12,
+      "text": "The landlord's man is booked till Saturday"
+    },
+    {
+      "t": 42.88,
+      "end": 46.09,
+      "text": "So we'll have to wash the oul' fashioned way"
+    },
+    {
+      "t": 46.81,
+      "end": 46.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.81,
+      "end": 49.35,
+      "text": "Four kettles make a bath, me boys"
+    },
+    {
+      "t": 49.99,
+      "end": 52.17,
+      "text": "Two pans and a soup pot too"
+    },
+    {
+      "t": 52.85,
+      "end": 55.55,
+      "text": "One's on the stairs and one's on the boil"
+    },
+    {
+      "t": 56.33,
+      "end": 58.77,
+      "text": "And the last one's kept for you"
+    },
+    {
+      "t": 59.37,
+      "end": 59.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 59.37,
+      "end": 73.03,
+      "text": "We drew our names from Ciaran's hat"
+    },
+    {
+      "t": 73.07,
+      "end": 77.93,
+      "text": "And Sinead won, and that was that"
+    },
+    {
+      "t": 78.25,
+      "end": 81.75,
+      "text": "She's in there singing with the door ajar"
+    },
+    {
+      "t": 81.87,
+      "end": 85.45,
+      "text": "While we pour it in like a pint at the bar"
+    },
+    {
+      "t": 85.45,
+      "end": 85.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.45,
+      "end": 87.81,
+      "text": "Four kettles make a bath, me boys"
+    },
+    {
+      "t": 88.53,
+      "end": 90.31,
+      "text": "Two pans and a soup pot too"
+    },
+    {
+      "t": 91.71,
+      "end": 94.07,
+      "text": "By the time it's my turn on the list"
+    },
+    {
+      "t": 94.15,
+      "end": 97.07,
+      "text": "It's lukewarm and the colour of stew"
+    },
+    {
+      "t": 100.43,
+      "end": 100.43,
+      "text": "[Bridge - bodhran, whistle]"
+    },
+    {
+      "t": 100.43,
+      "end": 103.19,
+      "text": "On Saturday the van pulls up"
+    },
+    {
+      "t": 103.69,
+      "end": 106.47,
+      "text": "He turns one screw and it's fixed on the spot"
+    },
+    {
+      "t": 107.31,
+      "end": 107.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.31,
+      "end": 110.49,
+      "text": "Four kettles made a bath, me boys"
+    },
+    {
+      "t": 110.57,
+      "end": 112.81,
+      "text": "And we'll keep them on the shelf"
+    },
+    {
+      "t": 113.81,
+      "end": 116.71,
+      "text": "The next time the boiler goes"
+    },
+    {
+      "t": 116.77,
+      "end": 119.83,
+      "text": "You can carry the pans yourself"
+    },
+    {
+      "t": 119.83,
+      "end": 119.83,
+      "text": "[Outro - full band stomp]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.34,
+      "end": 24.34,
+      "text": "[Intro - banjo, tin whistle, stomps]"
+    },
+    {
+      "t": 24.34,
+      "end": 24.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.34,
+      "end": 27.76,
+      "text": "The boiler gave a cough on Monday night"
+    },
+    {
+      "t": 30.66,
+      "end": 34.3,
+      "text": "A little blue flame and then no light"
+    },
+    {
+      "t": 36.9,
+      "end": 41.14,
+      "text": "The landlord's man is booked till Saturday"
+    },
+    {
+      "t": 42.88,
+      "end": 46.09,
+      "text": "So we'll have to wash the oul' fashioned way"
+    },
+    {
+      "t": 46.81,
+      "end": 46.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.81,
+      "end": 49.37,
+      "text": "Four kettles make a bath, me boys"
+    },
+    {
+      "t": 49.99,
+      "end": 52.17,
+      "text": "Two pans and a soup pot too"
+    },
+    {
+      "t": 52.85,
+      "end": 55.55,
+      "text": "One's on the stairs and one's on the boil"
+    },
+    {
+      "t": 56.33,
+      "end": 58.75,
+      "text": "And the last one's kept for you"
+    },
+    {
+      "t": 59.35,
+      "end": 59.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 59.35,
+      "end": 61.31,
+      "text": "We drew our names from Ciaran's hat"
+    },
+    {
+      "t": 61.37,
+      "end": 64.33,
+      "text": "And Sinead won, and that was that"
+    },
+    {
+      "t": 71.41,
+      "end": 76.91,
+      "text": "She's in there singing with the door ajar"
+    },
+    {
+      "t": 77.21,
+      "end": 83.83,
+      "text": "While we pour it in like a pint at the bar"
+    },
+    {
+      "t": 83.95,
+      "end": 83.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 83.95,
+      "end": 87.85,
+      "text": "Four kettles make a bath, me boys"
+    },
+    {
+      "t": 88.53,
+      "end": 90.33,
+      "text": "Two pans and a soup pot too"
+    },
+    {
+      "t": 91.71,
+      "end": 94.07,
+      "text": "By the time it's my turn on the list"
+    },
+    {
+      "t": 94.15,
+      "end": 97.31,
+      "text": "It's lukewarm and the colour of stew"
+    },
+    {
+      "t": 100.43,
+      "end": 100.43,
+      "text": "[Bridge - bodhran, whistle]"
+    },
+    {
+      "t": 100.43,
+      "end": 103.19,
+      "text": "On Saturday the van pulls up"
+    },
+    {
+      "t": 103.67,
+      "end": 106.47,
+      "text": "He turns one screw and it's fixed on the spot"
+    },
+    {
+      "t": 107.31,
+      "end": 107.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.31,
+      "end": 123.69,
+      "text": "Four kettles made a bath, me boys"
+    },
+    {
+      "t": 123.77,
+      "end": 126.03,
+      "text": "And we'll keep them on the shelf"
+    },
+    {
+      "t": 127.03,
+      "end": 130.31,
+      "text": "The next time the boiler goes"
+    },
+    {
+      "t": 130.73,
+      "end": 133.94,
+      "text": "You can carry the pans yourself"
+    },
+    {
+      "t": 133.94,
+      "end": 133.94,
+      "text": "[Outro - full band stomp]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

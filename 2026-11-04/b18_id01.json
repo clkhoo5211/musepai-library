@@ -1,0 +1,489 @@
+{
+  "id": "b18_id01",
+  "title": "Bintang Lima Buat Istri",
+  "title_source": "scripted",
+  "genre": "Indonesian new wave synth-pop",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "manis, riang, genit",
+  "persona": "",
+  "subject": "a Depok ojek driver who spends his one Sunday off taking his wife out on the same motorbike, giving her the full app-style service (spare helmet, mask, 'sesuai titik ya, Bu?') and at the end giving her five stars out loud",
+  "caption": "Indonesian new wave synth-pop, 80s-style dance pop. Analog polysynth playing bright staccato chord stabs, chorus-drenched clean guitar with choppy offbeat strums, rubbery eighth-note synth bass, LinnDrum-style drum machine with gated snare and handclaps. Glossy 80s production with gated reverb, clean and punchy mix. Warm playful male mid-register vocal, clearly sung melody with light backing harmonies in the chorus. 122 BPM, D major. Mood of a sweet Sunday joyride. No trap hi-hats, no autotune, no EDM drops, no rap, no modern pop ballad piano.",
+  "lyrics": "[Intro - polysynth stabs, gated drums]\n[Verse 1]\nEnam hari aku antar orang\nMinggu ini aplikasi kumatikan\nHelm cadangan sudah kucuci\nPenumpangku cuma kamu hari ini\n[Pre-Chorus]\nMasker, Bu? Jaket, Bu?\nMau lewat jalan pintas atau santai?\n[Chorus]\nBintang lima buat istri\nPegang pinggang, jangan sungkan\nNggak usah bayar, nggak usah tip\nCukup senyum di spion kanan\n[Verse 2]\nKita mampir beli es doger\nKamu suruh aku putar dua kali\nSesuai titik ya, Bu Rina?\nKamu tertawa, cubit perutku lagi\n[Pre-Chorus]\nMasker, Bu? Jaket, Bu?\nTujuan akhir, rumah kita sendiri\n[Chorus]\nBintang lima buat istri\nPegang pinggang, jangan sungkan\nUlasan bilang sopirnya genit\nTapi dia boleh antar lagi besok\n[Outro - synth bass and handclaps fade]\nBintang lima, Bu\nBintang lima",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Indonesian new wave synth-pop, 80s-style dance pop. Analog polysynth playing bright staccato chord stabs, chorus-drenched clean guitar with choppy offbeat strums, rubbery eighth-note synth bass, LinnDrum-style drum machine with gated snare and handclaps. Glossy 80s production with gated reverb, clean and punchy mix. Warm playful male mid-register vocal, clearly sung melody with light backing harmonies in the chorus. 122 BPM, D major. Mood of a sweet Sunday joyride. No trap hi-hats, no autotune, no EDM drops, no rap, no modern pop ballad piano.",
+    "lyrics": "[Intro - polysynth stabs, gated drums]\n[Verse 1]\nEnam hari aku antar orang\nMinggu ini aplikasi kumatikan\nHelm cadangan sudah kucuci\nPenumpangku cuma kamu hari ini\n[Pre-Chorus]\nMasker, Bu? Jaket, Bu?\nMau lewat jalan pintas atau santai?\n[Chorus]\nBintang lima buat istri\nPegang pinggang, jangan sungkan\nNggak usah bayar, nggak usah tip\nCukup senyum di spion kanan\n[Verse 2]\nKita mampir beli es doger\nKamu suruh aku putar dua kali\nSesuai titik ya, Bu Rina?\nKamu tertawa, cubit perutku lagi\n[Pre-Chorus]\nMasker, Bu? Jaket, Bu?\nTujuan akhir, rumah kita sendiri\n[Chorus]\nBintang lima buat istri\nPegang pinggang, jangan sungkan\nUlasan bilang sopirnya genit\nTapi dia boleh antar lagi besok\n[Outro - synth bass and handclaps fade]\nBintang lima, Bu\nBintang lima"
+  },
+  "seed": "924411591",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 137.59s**\n- 137.59s per song\n- LM phase (1 song): 18.83s\n- DiT phase (1 song): 118.75s",
+  "task_id": "5ddfdcbc-bbe7-466b-8509-36996f3bd09c",
+  "elapsed_s": 170.7,
+  "generated_at": "2026-11-04T15:21:13.965611+08:00",
+  "audio": "b18_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - polysynth stabs, gated drums]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 9.08,
+      "text": "Enam hari aku antar orang"
+    },
+    {
+      "t": 23.56,
+      "end": 28.58,
+      "text": "Minggu ini aplikasi kumatikan"
+    },
+    {
+      "t": 30.94,
+      "end": 36.26,
+      "text": "Helm cadangan sudah kucuci"
+    },
+    {
+      "t": 36.52,
+      "end": 37.4,
+      "text": "Penumpangku cuma kamu hari ini"
+    },
+    {
+      "t": 37.4,
+      "end": 37.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.4,
+      "end": 39.62,
+      "text": "Masker, Bu? Jaket, Bu?"
+    },
+    {
+      "t": 39.7,
+      "end": 43.62,
+      "text": "Mau lewat jalan pintas atau santai?"
+    },
+    {
+      "t": 46.36,
+      "end": 46.36,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.36,
+      "end": 51.12,
+      "text": "Bintang lima buat istri"
+    },
+    {
+      "t": 54.13,
+      "end": 59.37,
+      "text": "Pegang pinggang, jangan sungkan"
+    },
+    {
+      "t": 61.65,
+      "end": 67.65,
+      "text": "Nggak usah bayar, nggak usah tip"
+    },
+    {
+      "t": 69.75,
+      "end": 76.39,
+      "text": "Cukup senyum di spion kanan"
+    },
+    {
+      "t": 76.39,
+      "end": 76.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.39,
+      "end": 78.05,
+      "text": "Kita mampir beli es doger"
+    },
+    {
+      "t": 78.11,
+      "end": 92.59,
+      "text": "Kamu suruh aku putar dua kali"
+    },
+    {
+      "t": 92.61,
+      "end": 95.93,
+      "text": "Sesuai titik ya, Bu Rina?"
+    },
+    {
+      "t": 100.69,
+      "end": 104.81,
+      "text": "Kamu tertawa, cubit perutku lagi"
+    },
+    {
+      "t": 105.43,
+      "end": 105.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.43,
+      "end": 106.11,
+      "text": "Masker, Bu? Jaket, Bu?"
+    },
+    {
+      "t": 108.61,
+      "end": 113.37,
+      "text": "Tujuan akhir, rumah kita sendiri"
+    },
+    {
+      "t": 115.67,
+      "end": 115.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.67,
+      "end": 118.73,
+      "text": "Bintang lima buat istri"
+    },
+    {
+      "t": 119.55,
+      "end": 128.71,
+      "text": "Pegang pinggang, jangan sungkan"
+    },
+    {
+      "t": 131.47,
+      "end": 136.65,
+      "text": "Ulasan bilang sopirnya genit"
+    },
+    {
+      "t": 138.51,
+      "end": 153.84,
+      "text": "Tapi dia boleh antar lagi besok"
+    },
+    {
+      "t": 164.1,
+      "end": 164.1,
+      "text": "[Outro - synth bass and handclaps fade]"
+    },
+    {
+      "t": 164.1,
+      "end": 173.24,
+      "text": "Bintang lima, Bu"
+    },
+    {
+      "t": 179.78,
+      "end": 180.88,
+      "text": "Bintang lima"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - polysynth stabs, gated drums]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 9.08,
+      "text": "Enam hari aku antar orang"
+    },
+    {
+      "t": 23.56,
+      "end": 28.58,
+      "text": "Minggu ini aplikasi kumatikan"
+    },
+    {
+      "t": 30.94,
+      "end": 36.26,
+      "text": "Helm cadangan sudah kucuci"
+    },
+    {
+      "t": 36.52,
+      "end": 37.4,
+      "text": "Penumpangku cuma kamu hari ini"
+    },
+    {
+      "t": 37.4,
+      "end": 37.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.4,
+      "end": 39.62,
+      "text": "Masker, Bu? Jaket, Bu?"
+    },
+    {
+      "t": 39.7,
+      "end": 43.62,
+      "text": "Mau lewat jalan pintas atau santai?"
+    },
+    {
+      "t": 46.36,
+      "end": 46.36,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.36,
+      "end": 51.12,
+      "text": "Bintang lima buat istri"
+    },
+    {
+      "t": 54.13,
+      "end": 59.37,
+      "text": "Pegang pinggang, jangan sungkan"
+    },
+    {
+      "t": 61.65,
+      "end": 67.65,
+      "text": "Nggak usah bayar, nggak usah tip"
+    },
+    {
+      "t": 69.75,
+      "end": 76.39,
+      "text": "Cukup senyum di spion kanan"
+    },
+    {
+      "t": 76.39,
+      "end": 76.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.39,
+      "end": 78.05,
+      "text": "Kita mampir beli es doger"
+    },
+    {
+      "t": 78.11,
+      "end": 92.59,
+      "text": "Kamu suruh aku putar dua kali"
+    },
+    {
+      "t": 92.61,
+      "end": 95.93,
+      "text": "Sesuai titik ya, Bu Rina?"
+    },
+    {
+      "t": 100.69,
+      "end": 104.81,
+      "text": "Kamu tertawa, cubit perutku lagi"
+    },
+    {
+      "t": 105.43,
+      "end": 105.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.43,
+      "end": 106.11,
+      "text": "Masker, Bu? Jaket, Bu?"
+    },
+    {
+      "t": 106.11,
+      "end": 111.67,
+      "text": "Tujuan akhir, rumah kita sendiri"
+    },
+    {
+      "t": 115.67,
+      "end": 115.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.67,
+      "end": 118.71,
+      "text": "Bintang lima buat istri"
+    },
+    {
+      "t": 119.55,
+      "end": 128.73,
+      "text": "Pegang pinggang, jangan sungkan"
+    },
+    {
+      "t": 131.45,
+      "end": 136.67,
+      "text": "Ulasan bilang sopirnya genit"
+    },
+    {
+      "t": 138.51,
+      "end": 145.57,
+      "text": "Tapi dia boleh antar lagi besok"
+    },
+    {
+      "t": 161.9,
+      "end": 161.9,
+      "text": "[Outro - synth bass and handclaps fade]"
+    },
+    {
+      "t": 161.9,
+      "end": 165.94,
+      "text": "Bintang lima, Bu"
+    },
+    {
+      "t": 179.78,
+      "end": 180.88,
+      "text": "Bintang lima"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 1.74,
+      "end": 1.74,
+      "text": "[Intro - polysynth stabs, gated drums]"
+    },
+    {
+      "t": 1.74,
+      "end": 1.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.74,
+      "end": 15.66,
+      "text": "Enam hari aku antar orang"
+    },
+    {
+      "t": 23.56,
+      "end": 28.74,
+      "text": "Minggu ini aplikasi kumatikan"
+    },
+    {
+      "t": 30.94,
+      "end": 33.16,
+      "text": "Helm cadangan sudah kucuci"
+    },
+    {
+      "t": 33.16,
+      "end": 36.98,
+      "text": "Penumpangku cuma kamu hari ini"
+    },
+    {
+      "t": 36.98,
+      "end": 36.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.98,
+      "end": 39.36,
+      "text": "Masker, Bu? Jaket, Bu?"
+    },
+    {
+      "t": 39.52,
+      "end": 43.64,
+      "text": "Mau lewat jalan pintas atau santai?"
+    },
+    {
+      "t": 46.36,
+      "end": 46.36,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.36,
+      "end": 51.1,
+      "text": "Bintang lima buat istri"
+    },
+    {
+      "t": 54.15,
+      "end": 59.31,
+      "text": "Pegang pinggang, jangan sungkan"
+    },
+    {
+      "t": 61.63,
+      "end": 67.71,
+      "text": "Nggak usah bayar, nggak usah tip"
+    },
+    {
+      "t": 69.77,
+      "end": 76.39,
+      "text": "Cukup senyum di spion kanan"
+    },
+    {
+      "t": 77.39,
+      "end": 77.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.39,
+      "end": 87.25,
+      "text": "Kita mampir beli es doger"
+    },
+    {
+      "t": 87.25,
+      "end": 92.45,
+      "text": "Kamu suruh aku putar dua kali"
+    },
+    {
+      "t": 92.61,
+      "end": 95.93,
+      "text": "Sesuai titik ya, Bu Rina?"
+    },
+    {
+      "t": 100.71,
+      "end": 104.81,
+      "text": "Kamu tertawa, cubit perutku lagi"
+    },
+    {
+      "t": 105.91,
+      "end": 105.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.91,
+      "end": 108.47,
+      "text": "Masker, Bu? Jaket, Bu?"
+    },
+    {
+      "t": 108.61,
+      "end": 113.37,
+      "text": "Tujuan akhir, rumah kita sendiri"
+    },
+    {
+      "t": 115.67,
+      "end": 115.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.67,
+      "end": 118.73,
+      "text": "Bintang lima buat istri"
+    },
+    {
+      "t": 119.55,
+      "end": 128.71,
+      "text": "Pegang pinggang, jangan sungkan"
+    },
+    {
+      "t": 131.47,
+      "end": 136.65,
+      "text": "Ulasan bilang sopirnya genit"
+    },
+    {
+      "t": 138.51,
+      "end": 153.84,
+      "text": "Tapi dia boleh antar lagi besok"
+    },
+    {
+      "t": 164.1,
+      "end": 164.1,
+      "text": "[Outro - synth bass and handclaps fade]"
+    },
+    {
+      "t": 164.1,
+      "end": 173.24,
+      "text": "Bintang lima, Bu"
+    },
+    {
+      "t": 173.4,
+      "end": 199.08,
+      "text": "Bintang lima"
+    }
+  ]
+}

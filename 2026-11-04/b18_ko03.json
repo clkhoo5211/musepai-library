@@ -1,0 +1,307 @@
+{
+  "id": "b18_ko03",
+  "title": "막내 회원",
+  "title_source": "scripted",
+  "genre": "Korean marching brass-band pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "bouncy, comic, wholesome",
+  "persona": "",
+  "subject": "a 29-year-old office worker who joins his apartment complex's Sunday hiking club and is the only member under sixty, and the aunties who keep stuffing oranges, rice cakes and cucumber into his backpack at every rest stop until it is heavier at the top than at the start",
+  "caption": "Korean marching brass-band pop, street-parade brass with a pop chorus. Pumping sousaphone bass line, trumpet and trombone section unisons, crisp marching snare with bass drum, sparkling glockenspiel. Open live-room recording, punchy and bright. Young male tenor, clearly sung melody, cheerful and slightly breathless. 116 BPM, F major. Bouncy, comic, wholesome. No trap drums, no autotune, no EDM drop, no rap, no electric guitar solo.",
+  "lyrics": "[Intro - snare roll, brass fanfare]\n\n[Verse 1]\n일요일 아침 일곱 시\n아파트 산악회 첫날\n회원님들 평균 나이\n예순다섯 살\n\n[Pre-Chorus]\n막내 왔다 막내 왔어\n가방부터 열어 봐\n\n[Chorus]\n귤 하나 떡 하나\n오이 하나 더\n쉬는 데마다\n가방이 무거워\n\n[Verse 2]\n정상에서 사진 찍고\n내려가는 길인데\n아까보다 무거운 건\n아줌마들 마음이야\n\n[Chorus]\n귤 하나 떡 하나\n식혜 한 병 더\n다음 주에도\n꼭 나와야 돼\n\n[Outro - brass, glockenspiel]\n막내는 빈 가방\n메고 올게요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Korean marching brass-band pop, street-parade brass with a pop chorus. Pumping sousaphone bass line, trumpet and trombone section unisons, crisp marching snare with bass drum, sparkling glockenspiel. Open live-room recording, punchy and bright. Young male tenor, clearly sung melody, cheerful and slightly breathless. 116 BPM, F major. Bouncy, comic, wholesome. No trap drums, no autotune, no EDM drop, no rap, no electric guitar solo.",
+    "lyrics": "[Intro - snare roll, brass fanfare]\n\n[Verse 1]\n일요일 아침 일곱 시\n아파트 산악회 첫날\n회원님들 평균 나이\n예순다섯 살\n\n[Pre-Chorus]\n막내 왔다 막내 왔어\n가방부터 열어 봐\n\n[Chorus]\n귤 하나 떡 하나\n오이 하나 더\n쉬는 데마다\n가방이 무거워\n\n[Verse 2]\n정상에서 사진 찍고\n내려가는 길인데\n아까보다 무거운 건\n아줌마들 마음이야\n\n[Chorus]\n귤 하나 떡 하나\n식혜 한 병 더\n다음 주에도\n꼭 나와야 돼\n\n[Outro - brass, glockenspiel]\n막내는 빈 가방\n메고 올게요"
+  },
+  "seed": "647361771",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 85.02s**\n- 85.02s per song\n- LM phase (1 song): 14.65s\n- DiT phase (1 song): 70.37s",
+  "task_id": "c37c31a5-6e58-4f0d-9394-c330d76a702a",
+  "elapsed_s": 110.6,
+  "generated_at": "2026-11-04T15:00:20.528754+08:00",
+  "audio": "b18_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.2,
+      "end": 30.2,
+      "text": "[Intro - snare roll, brass fanfare]"
+    },
+    {
+      "t": 30.2,
+      "end": 30.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.2,
+      "end": 32.7,
+      "text": "일요일 아침 일곱 시"
+    },
+    {
+      "t": 34.18,
+      "end": 37.08,
+      "text": "아파트 산악회 첫날"
+    },
+    {
+      "t": 38.48,
+      "end": 41.24,
+      "text": "회원님들 평균 나이"
+    },
+    {
+      "t": 41.86,
+      "end": 44.68,
+      "text": "예순다섯 살"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 49.17,
+      "text": "막내 왔다 막내 왔어"
+    },
+    {
+      "t": 49.33,
+      "end": 57.41,
+      "text": "가방부터 열어 봐"
+    },
+    {
+      "t": 57.57,
+      "end": 57.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.57,
+      "end": 63.59,
+      "text": "귤 하나 떡 하나"
+    },
+    {
+      "t": 63.81,
+      "end": 64.85,
+      "text": "오이 하나 더"
+    },
+    {
+      "t": 66.51,
+      "end": 68.23,
+      "text": "쉬는 데마다"
+    },
+    {
+      "t": 70.65,
+      "end": 73.13,
+      "text": "가방이 무거워"
+    },
+    {
+      "t": 79.19,
+      "end": 79.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.19,
+      "end": 81.39,
+      "text": "정상에서 사진 찍고"
+    },
+    {
+      "t": 81.43,
+      "end": 82.91,
+      "text": "내려가는 길인데"
+    },
+    {
+      "t": 83.39,
+      "end": 87.19,
+      "text": "아까보다 무거운 건"
+    },
+    {
+      "t": 87.51,
+      "end": 90.93,
+      "text": "아줌마들 마음이야"
+    },
+    {
+      "t": 91.29,
+      "end": 91.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.29,
+      "end": 119.35,
+      "text": "귤 하나 떡 하나"
+    },
+    {
+      "t": 119.73,
+      "end": 122.71,
+      "text": "식혜 한 병 더"
+    },
+    {
+      "t": 122.87,
+      "end": 124.01,
+      "text": "다음 주에도"
+    },
+    {
+      "t": 124.35,
+      "end": 127.95,
+      "text": "꼭 나와야 돼"
+    },
+    {
+      "t": 128.29,
+      "end": 128.29,
+      "text": "[Outro - brass, glockenspiel]"
+    },
+    {
+      "t": 128.29,
+      "end": 148.78,
+      "text": "막내는 빈 가방"
+    },
+    {
+      "t": 181.44,
+      "end": 183.08,
+      "text": "메고 올게요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.2,
+      "end": 30.2,
+      "text": "[Intro - snare roll, brass fanfare]"
+    },
+    {
+      "t": 30.2,
+      "end": 30.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.2,
+      "end": 32.7,
+      "text": "일요일 아침 일곱 시"
+    },
+    {
+      "t": 34.18,
+      "end": 37.04,
+      "text": "아파트 산악회 첫날"
+    },
+    {
+      "t": 38.46,
+      "end": 41.24,
+      "text": "회원님들 평균 나이"
+    },
+    {
+      "t": 41.88,
+      "end": 44.68,
+      "text": "예순다섯 살"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 49.17,
+      "text": "막내 왔다 막내 왔어"
+    },
+    {
+      "t": 49.43,
+      "end": 57.43,
+      "text": "가방부터 열어 봐"
+    },
+    {
+      "t": 57.57,
+      "end": 57.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.57,
+      "end": 63.55,
+      "text": "귤 하나 떡 하나"
+    },
+    {
+      "t": 63.81,
+      "end": 64.87,
+      "text": "오이 하나 더"
+    },
+    {
+      "t": 66.51,
+      "end": 68.23,
+      "text": "쉬는 데마다"
+    },
+    {
+      "t": 70.63,
+      "end": 73.13,
+      "text": "가방이 무거워"
+    },
+    {
+      "t": 79.19,
+      "end": 79.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.19,
+      "end": 86.03,
+      "text": "정상에서 사진 찍고"
+    },
+    {
+      "t": 86.55,
+      "end": 120.91,
+      "text": "내려가는 길인데"
+    },
+    {
+      "t": 122.13,
+      "end": 124.75,
+      "text": "아까보다 무거운 건"
+    },
+    {
+      "t": 125.77,
+      "end": 128.93,
+      "text": "아줌마들 마음이야"
+    },
+    {
+      "t": 147.28,
+      "end": 147.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.28,
+      "end": 148.24,
+      "text": "귤 하나 떡 하나"
+    },
+    {
+      "t": 148.24,
+      "end": 171.42,
+      "text": "식혜 한 병 더"
+    },
+    {
+      "t": 171.44,
+      "end": 171.9,
+      "text": "다음 주에도"
+    },
+    {
+      "t": 171.98,
+      "end": 172.84,
+      "text": "꼭 나와야 돼"
+    },
+    {
+      "t": 178.86,
+      "end": 178.86,
+      "text": "[Outro - brass, glockenspiel]"
+    },
+    {
+      "t": 178.86,
+      "end": 181.0,
+      "text": "막내는 빈 가방"
+    },
+    {
+      "t": 181.44,
+      "end": 183.1,
+      "text": "메고 올게요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

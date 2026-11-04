@@ -1,0 +1,489 @@
+{
+  "id": "b18_zh02",
+  "title": "腰圍放兩公分",
+  "title_source": "scripted",
+  "genre": "Mandarin bachata",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "tender, swaying and quietly proud",
+  "persona": "",
+  "subject": "a man who secretly takes his girlfriend's favourite jeans, which have got tight since they started cooking dinner together, to the tailor in the alley to have the waist let out two centimetres, telling the tailor it is because she is happier now",
+  "caption": "Mandarin bachata, modern urban romantic bachata in the Dominican tradition. Requinto lead guitar playing bright arpeggiated fills, nylon-string rhythm guitar, bongos switching to güira in the chorus, round electric bass syncopations. Clean modern mix with bright guitar and intimate vocal. Male light tenor, soft and close-miked, melody clearly sung. 116 BPM, A minor. Tender, swaying and quietly proud. No reggaeton dembow beat, no autotune, no trap drums, no EDM synths, no rap. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+  "lyrics": "[Intro - requinto guitar and bongos]\n\n[Verse 1]\n你那條藍色的牛仔褲\n最近扣子扣不住\n你嘆氣說 不穿了\n把它塞到衣櫃最深處\n\n[Pre-Chorus]\n趁你上班的早上\n我把它帶出門\n\n[Chorus]\n巷口的裁縫 推推眼鏡\n問我腰圍要放幾分\n我說兩公分 就夠了\n她最近 笑得比較多\n\n[Verse 2]\n每晚我們一起煮飯\n你總多盛半碗湯\n裁縫笑著 拆開縫線\n說這種褲子 她改過很多\n\n[Pre-Chorus]\n週末我把褲子掛好\n假裝什麼都不知道\n\n[Chorus]\n你穿上它 轉了一圈\n問我怎麼又剛剛好\n我說兩公分 不多啦\n是我陪你吃出來的\n\n[Outro - requinto and güira]\n明年要是又緊了\n我再拿去 巷口改",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 116,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Mandarin bachata, modern urban romantic bachata in the Dominican tradition. Requinto lead guitar playing bright arpeggiated fills, nylon-string rhythm guitar, bongos switching to güira in the chorus, round electric bass syncopations. Clean modern mix with bright guitar and intimate vocal. Male light tenor, soft and close-miked, melody clearly sung. 116 BPM, A minor. Tender, swaying and quietly proud. No reggaeton dembow beat, no autotune, no trap drums, no EDM synths, no rap. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+    "lyrics": "[Intro - requinto guitar and bongos]\n\n[Verse 1]\n你那條藍色的牛仔褲\n最近扣子扣不住\n你嘆氣說 不穿了\n把它塞到衣櫃最深處\n\n[Pre-Chorus]\n趁你上班的早上\n我把它帶出門\n\n[Chorus]\n巷口的裁縫 推推眼鏡\n問我腰圍要放幾分\n我說兩公分 就夠了\n她最近 笑得比較多\n\n[Verse 2]\n每晚我們一起煮飯\n你總多盛半碗湯\n裁縫笑著 拆開縫線\n說這種褲子 她改過很多\n\n[Pre-Chorus]\n週末我把褲子掛好\n假裝什麼都不知道\n\n[Chorus]\n你穿上它 轉了一圈\n問我怎麼又剛剛好\n我說兩公分 不多啦\n是我陪你吃出來的\n\n[Outro - requinto and güira]\n明年要是又緊了\n我再拿去 巷口改"
+  },
+  "seed": "2424382359",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.39s**\n- 58.39s per song\n- LM phase (1 song): 9.97s\n- DiT phase (1 song): 48.43s",
+  "task_id": "4216a62d-b90c-4ba7-8862-56855fcb8f73",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-04T22:10:16.208594+08:00",
+  "audio": "b18_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 2.18,
+      "end": 2.18,
+      "text": "[Intro - requinto guitar and bongos]"
+    },
+    {
+      "t": 2.18,
+      "end": 2.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.18,
+      "end": 38.74,
+      "text": "你那條藍色的牛仔褲"
+    },
+    {
+      "t": 38.76,
+      "end": 41.76,
+      "text": "最近扣子扣不住"
+    },
+    {
+      "t": 45.36,
+      "end": 49.26,
+      "text": "你嘆氣說 不穿了"
+    },
+    {
+      "t": 53.09,
+      "end": 56.99,
+      "text": "把它塞到衣櫃最深處"
+    },
+    {
+      "t": 60.55,
+      "end": 60.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.55,
+      "end": 63.49,
+      "text": "趁你上班的早上"
+    },
+    {
+      "t": 64.59,
+      "end": 69.33,
+      "text": "我把它帶出門"
+    },
+    {
+      "t": 75.57,
+      "end": 75.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.57,
+      "end": 79.49,
+      "text": "巷口的裁縫 推推眼鏡"
+    },
+    {
+      "t": 83.07,
+      "end": 87.85,
+      "text": "問我腰圍要放幾分"
+    },
+    {
+      "t": 90.49,
+      "end": 92.65,
+      "text": "我說兩公分 就夠了"
+    },
+    {
+      "t": 92.67,
+      "end": 93.21,
+      "text": "她最近 笑得比較多"
+    },
+    {
+      "t": 93.21,
+      "end": 93.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.21,
+      "end": 93.77,
+      "text": "每晚我們一起煮飯"
+    },
+    {
+      "t": 93.79,
+      "end": 94.57,
+      "text": "你總多盛半碗湯"
+    },
+    {
+      "t": 94.59,
+      "end": 96.25,
+      "text": "裁縫笑著 拆開縫線"
+    },
+    {
+      "t": 98.87,
+      "end": 103.79,
+      "text": "說這種褲子 她改過很多"
+    },
+    {
+      "t": 103.93,
+      "end": 103.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.93,
+      "end": 110.05,
+      "text": "週末我把褲子掛好"
+    },
+    {
+      "t": 110.21,
+      "end": 112.05,
+      "text": "假裝什麼都不知道"
+    },
+    {
+      "t": 112.15,
+      "end": 112.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.15,
+      "end": 115.15,
+      "text": "你穿上它 轉了一圈"
+    },
+    {
+      "t": 115.15,
+      "end": 165.44,
+      "text": "問我怎麼又剛剛好"
+    },
+    {
+      "t": 168.14,
+      "end": 170.78,
+      "text": "我說兩公分 不多啦"
+    },
+    {
+      "t": 170.78,
+      "end": 173.26,
+      "text": "是我陪你吃出來的"
+    },
+    {
+      "t": 177.06,
+      "end": 177.06,
+      "text": "[Outro - requinto and güira]"
+    },
+    {
+      "t": 177.06,
+      "end": 180.24,
+      "text": "明年要是又緊了"
+    },
+    {
+      "t": 183.48,
+      "end": 186.26,
+      "text": "我再拿去 巷口改"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 2.18,
+      "end": 2.18,
+      "text": "[Intro - requinto guitar and bongos]"
+    },
+    {
+      "t": 2.18,
+      "end": 2.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.18,
+      "end": 38.74,
+      "text": "你那條藍色的牛仔褲"
+    },
+    {
+      "t": 38.76,
+      "end": 41.76,
+      "text": "最近扣子扣不住"
+    },
+    {
+      "t": 45.36,
+      "end": 49.26,
+      "text": "你嘆氣說 不穿了"
+    },
+    {
+      "t": 53.09,
+      "end": 56.99,
+      "text": "把它塞到衣櫃最深處"
+    },
+    {
+      "t": 60.55,
+      "end": 60.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.55,
+      "end": 63.49,
+      "text": "趁你上班的早上"
+    },
+    {
+      "t": 64.59,
+      "end": 69.33,
+      "text": "我把它帶出門"
+    },
+    {
+      "t": 75.57,
+      "end": 75.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 75.57,
+      "end": 79.49,
+      "text": "巷口的裁縫 推推眼鏡"
+    },
+    {
+      "t": 83.07,
+      "end": 87.85,
+      "text": "問我腰圍要放幾分"
+    },
+    {
+      "t": 90.49,
+      "end": 92.65,
+      "text": "我說兩公分 就夠了"
+    },
+    {
+      "t": 92.67,
+      "end": 93.21,
+      "text": "她最近 笑得比較多"
+    },
+    {
+      "t": 93.21,
+      "end": 93.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.21,
+      "end": 93.77,
+      "text": "每晚我們一起煮飯"
+    },
+    {
+      "t": 93.79,
+      "end": 94.57,
+      "text": "你總多盛半碗湯"
+    },
+    {
+      "t": 94.59,
+      "end": 96.25,
+      "text": "裁縫笑著 拆開縫線"
+    },
+    {
+      "t": 98.87,
+      "end": 103.79,
+      "text": "說這種褲子 她改過很多"
+    },
+    {
+      "t": 103.93,
+      "end": 103.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.93,
+      "end": 110.05,
+      "text": "週末我把褲子掛好"
+    },
+    {
+      "t": 110.21,
+      "end": 112.05,
+      "text": "假裝什麼都不知道"
+    },
+    {
+      "t": 112.15,
+      "end": 112.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.15,
+      "end": 115.15,
+      "text": "你穿上它 轉了一圈"
+    },
+    {
+      "t": 115.15,
+      "end": 165.44,
+      "text": "問我怎麼又剛剛好"
+    },
+    {
+      "t": 168.14,
+      "end": 170.78,
+      "text": "我說兩公分 不多啦"
+    },
+    {
+      "t": 170.78,
+      "end": 173.26,
+      "text": "是我陪你吃出來的"
+    },
+    {
+      "t": 177.06,
+      "end": 177.06,
+      "text": "[Outro - requinto and güira]"
+    },
+    {
+      "t": 177.06,
+      "end": 180.24,
+      "text": "明年要是又緊了"
+    },
+    {
+      "t": 183.48,
+      "end": 186.26,
+      "text": "我再拿去 巷口改"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.34,
+      "end": 25.34,
+      "text": "[Intro - requinto guitar and bongos]"
+    },
+    {
+      "t": 25.34,
+      "end": 25.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.34,
+      "end": 53.77,
+      "text": "你那條藍色的牛仔褲"
+    },
+    {
+      "t": 53.77,
+      "end": 54.77,
+      "text": "最近扣子扣不住"
+    },
+    {
+      "t": 55.01,
+      "end": 56.55,
+      "text": "你嘆氣說 不穿了"
+    },
+    {
+      "t": 56.73,
+      "end": 61.41,
+      "text": "把它塞到衣櫃最深處"
+    },
+    {
+      "t": 61.55,
+      "end": 61.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.55,
+      "end": 63.73,
+      "text": "趁你上班的早上"
+    },
+    {
+      "t": 63.77,
+      "end": 65.29,
+      "text": "我把它帶出門"
+    },
+    {
+      "t": 65.69,
+      "end": 65.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.69,
+      "end": 66.95,
+      "text": "巷口的裁縫 推推眼鏡"
+    },
+    {
+      "t": 66.95,
+      "end": 77.01,
+      "text": "問我腰圍要放幾分"
+    },
+    {
+      "t": 77.03,
+      "end": 80.61,
+      "text": "我說兩公分 就夠了"
+    },
+    {
+      "t": 81.25,
+      "end": 83.73,
+      "text": "她最近 笑得比較多"
+    },
+    {
+      "t": 86.19,
+      "end": 86.19,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.19,
+      "end": 89.09,
+      "text": "每晚我們一起煮飯"
+    },
+    {
+      "t": 90.03,
+      "end": 92.47,
+      "text": "你總多盛半碗湯"
+    },
+    {
+      "t": 94.13,
+      "end": 97.75,
+      "text": "裁縫笑著 拆開縫線"
+    },
+    {
+      "t": 98.03,
+      "end": 100.49,
+      "text": "說這種褲子 她改過很多"
+    },
+    {
+      "t": 103.15,
+      "end": 103.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.15,
+      "end": 106.37,
+      "text": "週末我把褲子掛好"
+    },
+    {
+      "t": 106.61,
+      "end": 116.99,
+      "text": "假裝什麼都不知道"
+    },
+    {
+      "t": 119.55,
+      "end": 119.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.55,
+      "end": 122.17,
+      "text": "你穿上它 轉了一圈"
+    },
+    {
+      "t": 122.67,
+      "end": 125.39,
+      "text": "問我怎麼又剛剛好"
+    },
+    {
+      "t": 126.79,
+      "end": 129.27,
+      "text": "我說兩公分 不多啦"
+    },
+    {
+      "t": 130.91,
+      "end": 133.41,
+      "text": "是我陪你吃出來的"
+    },
+    {
+      "t": 136.13,
+      "end": 136.13,
+      "text": "[Outro - requinto and güira]"
+    },
+    {
+      "t": 136.13,
+      "end": 138.07,
+      "text": "明年要是又緊了"
+    },
+    {
+      "t": 140.75,
+      "end": 169.84,
+      "text": "我再拿去 巷口改"
+    }
+  ]
+}

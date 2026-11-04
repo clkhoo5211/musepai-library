@@ -1,0 +1,489 @@
+{
+  "id": "b18_ja04",
+  "title": "金のひび",
+  "title_source": "scripted",
+  "genre": "Japanese gypsy-jazz manouche swing",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "warm, tender and lightly swinging",
+  "persona": "",
+  "subject": "a husband who cracks his wife's favourite rice bowl while washing up, buys a kintsugi kit and spends three weeks waiting for the lacquer to dry in a box under the sink, and she pretends not to notice until he gives it back with a gold line down the side",
+  "caption": "Japanese gypsy-jazz manouche swing love song. Two acoustic manouche guitars, one strumming tight la pompe rhythm and one playing quick single-note lead fills, walking upright bass, sweet violin countermelody, brushed snare. Close-miked acoustic room sound, wood and air, no effects. Female alto, soft and intimate, melody clearly sung. 132 BPM, A minor. Warm, tender and lightly swinging. No electric guitars, no drum machine, no rap, no autotune, no pop synths.",
+  "lyrics": "[Intro - la pompe guitar, violin line]\n\n[Verse 1]\n洗い物の音が 急に止んで\nあなたは何も 言わなかった\n私の茶碗 ふたつに割れて\nこっそり袋に 隠してた\n\n[Pre-Chorus]\n流しの下の 箱の中\n漆のにおいが 少しする\n\n[Chorus]\n知らないふりを してあげる\n三週間 毎晩のぞいてるのも\n金のひびが 入るころ\nもっと好きに なってると思う\n\n[Verse 2]\nある朝テーブル 白いごはん\nあの茶碗に よそってあった\n細い金の線 一本だけ\n指でなぞると 少し温かい\n\n[Pre-Chorus]\nあなたが「ごめん」と 言う前に\n私が先に 笑っちゃった\n\n[Chorus]\n知らないふりは もうおしまい\n三週間 待ってたのは私も\n金のひびが 入った今\n前よりずっと 好きになってる\n\n[Outro - violin and guitar trade, bass walk]\n割れたら また直せばいい\nふたりでごはん 食べようか",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Japanese gypsy-jazz manouche swing love song. Two acoustic manouche guitars, one strumming tight la pompe rhythm and one playing quick single-note lead fills, walking upright bass, sweet violin countermelody, brushed snare. Close-miked acoustic room sound, wood and air, no effects. Female alto, soft and intimate, melody clearly sung. 132 BPM, A minor. Warm, tender and lightly swinging. No electric guitars, no drum machine, no rap, no autotune, no pop synths.",
+    "lyrics": "[Intro - la pompe guitar, violin line]\n\n[Verse 1]\n洗い物の音が 急に止んで\nあなたは何も 言わなかった\n私の茶碗 ふたつに割れて\nこっそり袋に 隠してた\n\n[Pre-Chorus]\n流しの下の 箱の中\n漆のにおいが 少しする\n\n[Chorus]\n知らないふりを してあげる\n三週間 毎晩のぞいてるのも\n金のひびが 入るころ\nもっと好きに なってると思う\n\n[Verse 2]\nある朝テーブル 白いごはん\nあの茶碗に よそってあった\n細い金の線 一本だけ\n指でなぞると 少し温かい\n\n[Pre-Chorus]\nあなたが「ごめん」と 言う前に\n私が先に 笑っちゃった\n\n[Chorus]\n知らないふりは もうおしまい\n三週間 待ってたのは私も\n金のひびが 入った今\n前よりずっと 好きになってる\n\n[Outro - violin and guitar trade, bass walk]\n割れたら また直せばいい\nふたりでごはん 食べようか"
+  },
+  "seed": "726942490",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 84.14s**\n- 84.14s per song\n- LM phase (1 song): 18.06s\n- DiT phase (1 song): 66.08s",
+  "task_id": "b87e2e5a-cd8c-4d87-8eb6-78856c9daa7c",
+  "elapsed_s": 120.2,
+  "generated_at": "2026-11-04T16:22:58.768061+08:00",
+  "audio": "b18_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Intro - la pompe guitar, violin line]"
+    },
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.64,
+      "end": 28.48,
+      "text": "洗い物の音が 急に止んで"
+    },
+    {
+      "t": 28.48,
+      "end": 32.08,
+      "text": "あなたは何も 言わなかった"
+    },
+    {
+      "t": 33.96,
+      "end": 37.98,
+      "text": "私の茶碗 ふたつに割れて"
+    },
+    {
+      "t": 38.12,
+      "end": 41.58,
+      "text": "こっそり袋に 隠してた"
+    },
+    {
+      "t": 41.58,
+      "end": 41.58,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.58,
+      "end": 43.46,
+      "text": "流しの下の 箱の中"
+    },
+    {
+      "t": 43.46,
+      "end": 45.46,
+      "text": "漆のにおいが 少しする"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.92,
+      "end": 52.69,
+      "text": "知らないふりを してあげる"
+    },
+    {
+      "t": 55.55,
+      "end": 59.95,
+      "text": "三週間 毎晩のぞいてるのも"
+    },
+    {
+      "t": 63.27,
+      "end": 67.05,
+      "text": "金のひびが 入るころ"
+    },
+    {
+      "t": 69.33,
+      "end": 73.59,
+      "text": "もっと好きに なってると思う"
+    },
+    {
+      "t": 77.15,
+      "end": 77.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.15,
+      "end": 81.99,
+      "text": "ある朝テーブル 白いごはん"
+    },
+    {
+      "t": 84.47,
+      "end": 89.33,
+      "text": "あの茶碗に よそってあった"
+    },
+    {
+      "t": 91.69,
+      "end": 97.15,
+      "text": "細い金の線 一本だけ"
+    },
+    {
+      "t": 99.09,
+      "end": 104.77,
+      "text": "指でなぞると 少し温かい"
+    },
+    {
+      "t": 106.53,
+      "end": 106.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.53,
+      "end": 113.51,
+      "text": "あなたが「ごめん」と 言う前に"
+    },
+    {
+      "t": 113.79,
+      "end": 119.01,
+      "text": "私が先に 笑っちゃった"
+    },
+    {
+      "t": 121.19,
+      "end": 121.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.19,
+      "end": 125.33,
+      "text": "知らないふりは もうおしまい"
+    },
+    {
+      "t": 125.33,
+      "end": 128.69,
+      "text": "三週間 待ってたのは私も"
+    },
+    {
+      "t": 132.05,
+      "end": 139.67,
+      "text": "金のひびが 入った今"
+    },
+    {
+      "t": 140.83,
+      "end": 149.01,
+      "text": "前よりずっと 好きになってる"
+    },
+    {
+      "t": 153.5,
+      "end": 153.5,
+      "text": "[Outro - violin and guitar trade, bass walk]"
+    },
+    {
+      "t": 153.5,
+      "end": 157.86,
+      "text": "割れたら また直せばいい"
+    },
+    {
+      "t": 160.46,
+      "end": 168.74,
+      "text": "ふたりでごはん 食べようか"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Intro - la pompe guitar, violin line]"
+    },
+    {
+      "t": 26.64,
+      "end": 26.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.64,
+      "end": 28.48,
+      "text": "洗い物の音が 急に止んで"
+    },
+    {
+      "t": 28.48,
+      "end": 32.08,
+      "text": "あなたは何も 言わなかった"
+    },
+    {
+      "t": 33.96,
+      "end": 37.98,
+      "text": "私の茶碗 ふたつに割れて"
+    },
+    {
+      "t": 38.12,
+      "end": 41.58,
+      "text": "こっそり袋に 隠してた"
+    },
+    {
+      "t": 41.58,
+      "end": 41.58,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.58,
+      "end": 43.46,
+      "text": "流しの下の 箱の中"
+    },
+    {
+      "t": 43.46,
+      "end": 45.46,
+      "text": "漆のにおいが 少しする"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.92,
+      "end": 52.69,
+      "text": "知らないふりを してあげる"
+    },
+    {
+      "t": 55.55,
+      "end": 59.95,
+      "text": "三週間 毎晩のぞいてるのも"
+    },
+    {
+      "t": 63.27,
+      "end": 67.05,
+      "text": "金のひびが 入るころ"
+    },
+    {
+      "t": 69.33,
+      "end": 73.59,
+      "text": "もっと好きに なってると思う"
+    },
+    {
+      "t": 77.15,
+      "end": 77.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.15,
+      "end": 81.99,
+      "text": "ある朝テーブル 白いごはん"
+    },
+    {
+      "t": 84.47,
+      "end": 89.33,
+      "text": "あの茶碗に よそってあった"
+    },
+    {
+      "t": 91.69,
+      "end": 97.15,
+      "text": "細い金の線 一本だけ"
+    },
+    {
+      "t": 99.09,
+      "end": 104.77,
+      "text": "指でなぞると 少し温かい"
+    },
+    {
+      "t": 106.53,
+      "end": 106.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.53,
+      "end": 113.51,
+      "text": "あなたが「ごめん」と 言う前に"
+    },
+    {
+      "t": 113.79,
+      "end": 119.01,
+      "text": "私が先に 笑っちゃった"
+    },
+    {
+      "t": 121.19,
+      "end": 121.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.19,
+      "end": 125.33,
+      "text": "知らないふりは もうおしまい"
+    },
+    {
+      "t": 125.33,
+      "end": 128.69,
+      "text": "三週間 待ってたのは私も"
+    },
+    {
+      "t": 132.05,
+      "end": 139.67,
+      "text": "金のひびが 入った今"
+    },
+    {
+      "t": 140.83,
+      "end": 149.01,
+      "text": "前よりずっと 好きになってる"
+    },
+    {
+      "t": 153.5,
+      "end": 153.5,
+      "text": "[Outro - violin and guitar trade, bass walk]"
+    },
+    {
+      "t": 153.5,
+      "end": 157.86,
+      "text": "割れたら また直せばいい"
+    },
+    {
+      "t": 160.46,
+      "end": 168.74,
+      "text": "ふたりでごはん 食べようか"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 4.82,
+      "end": 4.82,
+      "text": "[Intro - la pompe guitar, violin line]"
+    },
+    {
+      "t": 4.82,
+      "end": 4.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.82,
+      "end": 21.82,
+      "text": "洗い物の音が 急に止んで"
+    },
+    {
+      "t": 21.82,
+      "end": 27.02,
+      "text": "あなたは何も 言わなかった"
+    },
+    {
+      "t": 27.14,
+      "end": 32.08,
+      "text": "私の茶碗 ふたつに割れて"
+    },
+    {
+      "t": 34.22,
+      "end": 39.38,
+      "text": "こっそり袋に 隠してた"
+    },
+    {
+      "t": 41.22,
+      "end": 41.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.22,
+      "end": 43.16,
+      "text": "流しの下の 箱の中"
+    },
+    {
+      "t": 43.3,
+      "end": 45.46,
+      "text": "漆のにおいが 少しする"
+    },
+    {
+      "t": 48.9,
+      "end": 48.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.9,
+      "end": 52.69,
+      "text": "知らないふりを してあげる"
+    },
+    {
+      "t": 55.55,
+      "end": 59.93,
+      "text": "三週間 毎晩のぞいてるのも"
+    },
+    {
+      "t": 63.27,
+      "end": 67.05,
+      "text": "金のひびが 入るころ"
+    },
+    {
+      "t": 69.33,
+      "end": 73.87,
+      "text": "もっと好きに なってると思う"
+    },
+    {
+      "t": 77.13,
+      "end": 77.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.13,
+      "end": 81.97,
+      "text": "ある朝テーブル 白いごはん"
+    },
+    {
+      "t": 84.47,
+      "end": 89.33,
+      "text": "あの茶碗に よそってあった"
+    },
+    {
+      "t": 91.69,
+      "end": 97.15,
+      "text": "細い金の線 一本だけ"
+    },
+    {
+      "t": 99.09,
+      "end": 104.77,
+      "text": "指でなぞると 少し温かい"
+    },
+    {
+      "t": 106.51,
+      "end": 106.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.51,
+      "end": 113.49,
+      "text": "あなたが「ごめん」と 言う前に"
+    },
+    {
+      "t": 113.77,
+      "end": 119.01,
+      "text": "私が先に 笑っちゃった"
+    },
+    {
+      "t": 121.19,
+      "end": 121.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.19,
+      "end": 125.17,
+      "text": "知らないふりは もうおしまい"
+    },
+    {
+      "t": 125.33,
+      "end": 128.69,
+      "text": "三週間 待ってたのは私も"
+    },
+    {
+      "t": 132.05,
+      "end": 139.67,
+      "text": "金のひびが 入った今"
+    },
+    {
+      "t": 140.57,
+      "end": 149.01,
+      "text": "前よりずっと 好きになってる"
+    },
+    {
+      "t": 153.5,
+      "end": 153.5,
+      "text": "[Outro - violin and guitar trade, bass walk]"
+    },
+    {
+      "t": 153.5,
+      "end": 157.86,
+      "text": "割れたら また直せばいい"
+    },
+    {
+      "t": 160.46,
+      "end": 168.74,
+      "text": "ふたりでごはん 食べようか"
+    }
+  ]
+}

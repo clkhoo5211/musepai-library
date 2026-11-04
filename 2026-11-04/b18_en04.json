@@ -1,0 +1,317 @@
+{
+  "id": "b18_en04",
+  "title": "Your Sofa, Week Three",
+  "title_source": "scripted",
+  "genre": "electro swing",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wry, bouncy, grateful",
+  "persona": "",
+  "subject": "a man sleeping on his friend's sofa for a third week after a flat fell through, folding the duvet into a perfect square by seven every morning and learning to dodge the friend's cat at the fridge",
+  "caption": "Electro swing, Parov Stelar and Caravan Palace style. Muted trumpet riffs, walking upright bass, swung hi-hat over a four-on-the-floor house kick, ragtime piano stabs, quick clarinet runs. Crackly gramophone-filtered horns over a clean modern house low end. Male tenor, clearly sung crooner melody with a wink. 124 BPM, G minor. Wry, bouncy, grateful. No trap, no autotune, no dubstep wobble, no rapped verses, no heavy distortion.",
+  "lyrics": "[Intro - gramophone horns, house kick]\n\n[Verse 1]\nThe duvet's folded in a square\nBy seven on the dot\nMy socks are in a carrier bag\nMy toothbrush in a pot\n\n[Pre-Chorus]\nYou said a weekend, maybe two\nThe cat is not convinced\n\n[Chorus]\nYour sofa, week three\nI know every spring by name\nI owe you dinners, two or three\nAnd the cushion's never been the same\n\n[Verse 2]\nThe cat waits by the fridge at six\nAnd stares me down for ham\nI tiptoe past your bedroom door\nWith toast and someone's jam\n\n[Pre-Chorus]\nThe letting agent rang today\nI nearly kissed the phone\n\n[Chorus]\nYour sofa, week three\nI know every spring by name\nOn Friday I'll give back your key\nBut I'll miss the cat all the same\n\n[Outro - muted trumpet tag]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Electro swing, Parov Stelar and Caravan Palace style. Muted trumpet riffs, walking upright bass, swung hi-hat over a four-on-the-floor house kick, ragtime piano stabs, quick clarinet runs. Crackly gramophone-filtered horns over a clean modern house low end. Male tenor, clearly sung crooner melody with a wink. 124 BPM, G minor. Wry, bouncy, grateful. No trap, no autotune, no dubstep wobble, no rapped verses, no heavy distortion.",
+    "lyrics": "[Intro - gramophone horns, house kick]\n\n[Verse 1]\nThe duvet's folded in a square\nBy seven on the dot\nMy socks are in a carrier bag\nMy toothbrush in a pot\n\n[Pre-Chorus]\nYou said a weekend, maybe two\nThe cat is not convinced\n\n[Chorus]\nYour sofa, week three\nI know every spring by name\nI owe you dinners, two or three\nAnd the cushion's never been the same\n\n[Verse 2]\nThe cat waits by the fridge at six\nAnd stares me down for ham\nI tiptoe past your bedroom door\nWith toast and someone's jam\n\n[Pre-Chorus]\nThe letting agent rang today\nI nearly kissed the phone\n\n[Chorus]\nYour sofa, week three\nI know every spring by name\nOn Friday I'll give back your key\nBut I'll miss the cat all the same\n\n[Outro - muted trumpet tag]"
+  },
+  "seed": "3338789525",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 104.45s**\n- 104.45s per song\n- LM phase (1 song): 19.87s\n- DiT phase (1 song): 84.58s",
+  "task_id": "6696ee33-2789-490c-8129-1568903145e9",
+  "elapsed_s": 130.2,
+  "generated_at": "2026-11-04T16:02:34.456612+08:00",
+  "audio": "b18_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.58,
+      "end": 7.58,
+      "text": "[Intro - gramophone horns, house kick]"
+    },
+    {
+      "t": 7.58,
+      "end": 7.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.58,
+      "end": 11.84,
+      "text": "The duvet's folded in a square"
+    },
+    {
+      "t": 11.84,
+      "end": 13.16,
+      "text": "By seven on the dot"
+    },
+    {
+      "t": 15.3,
+      "end": 17.94,
+      "text": "My socks are in a carrier bag"
+    },
+    {
+      "t": 17.96,
+      "end": 26.7,
+      "text": "My toothbrush in a pot"
+    },
+    {
+      "t": 26.7,
+      "end": 26.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 26.7,
+      "end": 30.98,
+      "text": "You said a weekend, maybe two"
+    },
+    {
+      "t": 31.06,
+      "end": 35.48,
+      "text": "The cat is not convinced"
+    },
+    {
+      "t": 35.6,
+      "end": 35.6,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 35.6,
+      "end": 38.26,
+      "text": "Your sofa, week three"
+    },
+    {
+      "t": 38.26,
+      "end": 42.22,
+      "text": "I know every spring by name"
+    },
+    {
+      "t": 43.38,
+      "end": 46.01,
+      "text": "I owe you dinners, two or three"
+    },
+    {
+      "t": 46.43,
+      "end": 49.15,
+      "text": "And the cushion's never been the same"
+    },
+    {
+      "t": 52.51,
+      "end": 52.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 52.51,
+      "end": 55.67,
+      "text": "The cat waits by the fridge at six"
+    },
+    {
+      "t": 55.73,
+      "end": 60.35,
+      "text": "And stares me down for ham"
+    },
+    {
+      "t": 60.41,
+      "end": 63.55,
+      "text": "I tiptoe past your bedroom door"
+    },
+    {
+      "t": 64.11,
+      "end": 67.47,
+      "text": "With toast and someone's jam"
+    },
+    {
+      "t": 77.63,
+      "end": 77.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.63,
+      "end": 79.89,
+      "text": "The letting agent rang today"
+    },
+    {
+      "t": 81.53,
+      "end": 100.55,
+      "text": "I nearly kissed the phone"
+    },
+    {
+      "t": 102.37,
+      "end": 102.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.37,
+      "end": 105.89,
+      "text": "Your sofa, week three"
+    },
+    {
+      "t": 106.07,
+      "end": 149.96,
+      "text": "I know every spring by name"
+    },
+    {
+      "t": 151.04,
+      "end": 153.84,
+      "text": "On Friday I'll give back your key"
+    },
+    {
+      "t": 154.36,
+      "end": 164.88,
+      "text": "But I'll miss the cat all the same"
+    },
+    {
+      "t": 164.88,
+      "end": 164.88,
+      "text": "[Outro - muted trumpet tag]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.58,
+      "end": 7.58,
+      "text": "[Intro - gramophone horns, house kick]"
+    },
+    {
+      "t": 7.58,
+      "end": 7.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.58,
+      "end": 11.84,
+      "text": "The duvet's folded in a square"
+    },
+    {
+      "t": 11.84,
+      "end": 13.34,
+      "text": "By seven on the dot"
+    },
+    {
+      "t": 15.3,
+      "end": 17.88,
+      "text": "My socks are in a carrier bag"
+    },
+    {
+      "t": 17.88,
+      "end": 26.68,
+      "text": "My toothbrush in a pot"
+    },
+    {
+      "t": 26.68,
+      "end": 26.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 26.68,
+      "end": 31.06,
+      "text": "You said a weekend, maybe two"
+    },
+    {
+      "t": 31.06,
+      "end": 35.48,
+      "text": "The cat is not convinced"
+    },
+    {
+      "t": 35.58,
+      "end": 35.58,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 35.58,
+      "end": 38.28,
+      "text": "Your sofa, week three"
+    },
+    {
+      "t": 38.86,
+      "end": 43.3,
+      "text": "I know every spring by name"
+    },
+    {
+      "t": 43.38,
+      "end": 46.01,
+      "text": "I owe you dinners, two or three"
+    },
+    {
+      "t": 46.43,
+      "end": 49.01,
+      "text": "And the cushion's never been the same"
+    },
+    {
+      "t": 52.51,
+      "end": 52.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 52.51,
+      "end": 55.69,
+      "text": "The cat waits by the fridge at six"
+    },
+    {
+      "t": 56.01,
+      "end": 60.35,
+      "text": "And stares me down for ham"
+    },
+    {
+      "t": 60.41,
+      "end": 63.59,
+      "text": "I tiptoe past your bedroom door"
+    },
+    {
+      "t": 64.11,
+      "end": 67.53,
+      "text": "With toast and someone's jam"
+    },
+    {
+      "t": 77.63,
+      "end": 77.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.63,
+      "end": 79.79,
+      "text": "The letting agent rang today"
+    },
+    {
+      "t": 81.53,
+      "end": 101.51,
+      "text": "I nearly kissed the phone"
+    },
+    {
+      "t": 102.39,
+      "end": 102.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.39,
+      "end": 122.67,
+      "text": "Your sofa, week three"
+    },
+    {
+      "t": 147.22,
+      "end": 149.84,
+      "text": "I know every spring by name"
+    },
+    {
+      "t": 151.04,
+      "end": 153.78,
+      "text": "On Friday I'll give back your key"
+    },
+    {
+      "t": 154.36,
+      "end": 161.98,
+      "text": "But I'll miss the cat all the same"
+    },
+    {
+      "t": 161.98,
+      "end": 161.98,
+      "text": "[Outro - muted trumpet tag]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

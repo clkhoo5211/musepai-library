@@ -1,0 +1,489 @@
+{
+  "id": "b18_id03",
+  "title": "Galon Siapa?",
+  "title_source": "scripted",
+  "genre": "Indonesian garage rock",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "ngegas, kocak, berisik",
+  "persona": "",
+  "subject": "six tenants of a kost in Jatinangor holding a midnight 'trial' in the hallway over who drank the last glass from the water galon and did not buy a new one, until they find the landlady's cat drinking from the drip tray",
+  "caption": "Indonesian garage rock, 60s-style raw garage revival. Fuzzy overdriven electric guitar with three-chord bashing riffs, Farfisa-style combo organ playing stabbing high chords, driving eighth-note bass, loose crashing drums with tambourine on every beat. Raw trashy live-room recording, slightly blown-out and loud. Rough energetic male lead vocal with shouted gang backing on the hook, clearly sung melody. 152 BPM, E major. Mood of a noisy boarding-house hallway riot. No pop-punk gloss, no metal screams, no autotune, no synths, no rap.",
+  "lyrics": "[Intro - fuzz guitar riff, organ stab, drum count-in]\n[Verse 1]\nJam dua belas malam di kos\nAku haus, gelas sudah di tangan\nKran galon kutekan, cuma angin\nSatu tetes pun nggak keluar\n[Pre-Chorus]\nPintu kamar kugedor satu-satu\nBangun semua, sidang dimulai!\n[Chorus]\nGalon siapa? Siapa yang habiskan?\nJadwal di kulkas bilang giliran Bayu\nGalon siapa? Nggak ada yang ngaku\nEnam orang haus, mulut kering semua\n[Verse 2]\nBayu sumpah dia cuma minum teh\nDika bilang airnya buat masak mi\nFajar diam, mukanya pucat\nTernyata cuma ngantuk berat\n[Bridge - organ solo, drums break down]\nLalu dari bawah dispenser\nKucing Bu Kos menjilat tetesan\n[Chorus]\nGalon siapa? Kucing yang habiskan!\nEkornya basah, matanya polos\nGalon siapa? Besok patungan\nEnam orang turun beli galon baru\n[Outro - riff speeds up, final crash]\nMeong!\nGalon siapa?",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Indonesian garage rock, 60s-style raw garage revival. Fuzzy overdriven electric guitar with three-chord bashing riffs, Farfisa-style combo organ playing stabbing high chords, driving eighth-note bass, loose crashing drums with tambourine on every beat. Raw trashy live-room recording, slightly blown-out and loud. Rough energetic male lead vocal with shouted gang backing on the hook, clearly sung melody. 152 BPM, E major. Mood of a noisy boarding-house hallway riot. No pop-punk gloss, no metal screams, no autotune, no synths, no rap.",
+    "lyrics": "[Intro - fuzz guitar riff, organ stab, drum count-in]\n[Verse 1]\nJam dua belas malam di kos\nAku haus, gelas sudah di tangan\nKran galon kutekan, cuma angin\nSatu tetes pun nggak keluar\n[Pre-Chorus]\nPintu kamar kugedor satu-satu\nBangun semua, sidang dimulai!\n[Chorus]\nGalon siapa? Siapa yang habiskan?\nJadwal di kulkas bilang giliran Bayu\nGalon siapa? Nggak ada yang ngaku\nEnam orang haus, mulut kering semua\n[Verse 2]\nBayu sumpah dia cuma minum teh\nDika bilang airnya buat masak mi\nFajar diam, mukanya pucat\nTernyata cuma ngantuk berat\n[Bridge - organ solo, drums break down]\nLalu dari bawah dispenser\nKucing Bu Kos menjilat tetesan\n[Chorus]\nGalon siapa? Kucing yang habiskan!\nEkornya basah, matanya polos\nGalon siapa? Besok patungan\nEnam orang turun beli galon baru\n[Outro - riff speeds up, final crash]\nMeong!\nGalon siapa?"
+  },
+  "seed": "122054988",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 112.23s**\n- 112.23s per song\n- LM phase (1 song): 20.76s\n- DiT phase (1 song): 91.47s",
+  "task_id": "c47d0dee-7b61-4713-92ee-ca352da62514",
+  "elapsed_s": 151.2,
+  "generated_at": "2026-11-04T15:26:35.828783+08:00",
+  "audio": "b18_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.56,
+      "end": 22.56,
+      "text": "[Intro - fuzz guitar riff, organ stab, drum count-in]"
+    },
+    {
+      "t": 22.56,
+      "end": 22.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.56,
+      "end": 26.86,
+      "text": "Jam dua belas malam di kos"
+    },
+    {
+      "t": 28.42,
+      "end": 31.96,
+      "text": "Aku haus, gelas sudah di tangan"
+    },
+    {
+      "t": 31.96,
+      "end": 35.9,
+      "text": "Kran galon kutekan, cuma angin"
+    },
+    {
+      "t": 35.9,
+      "end": 36.7,
+      "text": "Satu tetes pun nggak keluar"
+    },
+    {
+      "t": 36.74,
+      "end": 36.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.74,
+      "end": 40.5,
+      "text": "Pintu kamar kugedor satu-satu"
+    },
+    {
+      "t": 42.48,
+      "end": 47.47,
+      "text": "Bangun semua, sidang dimulai!"
+    },
+    {
+      "t": 48.59,
+      "end": 48.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.59,
+      "end": 53.45,
+      "text": "Galon siapa? Siapa yang habiskan?"
+    },
+    {
+      "t": 54.67,
+      "end": 59.25,
+      "text": "Jadwal di kulkas bilang giliran Bayu"
+    },
+    {
+      "t": 60.81,
+      "end": 65.33,
+      "text": "Galon siapa? Nggak ada yang ngaku"
+    },
+    {
+      "t": 67.37,
+      "end": 71.49,
+      "text": "Enam orang haus, mulut kering semua"
+    },
+    {
+      "t": 73.43,
+      "end": 73.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.43,
+      "end": 77.93,
+      "text": "Bayu sumpah dia cuma minum teh"
+    },
+    {
+      "t": 79.55,
+      "end": 83.71,
+      "text": "Dika bilang airnya buat masak mi"
+    },
+    {
+      "t": 85.63,
+      "end": 90.51,
+      "text": "Fajar diam, mukanya pucat"
+    },
+    {
+      "t": 90.99,
+      "end": 97.03,
+      "text": "Ternyata cuma ngantuk berat"
+    },
+    {
+      "t": 97.13,
+      "end": 97.13,
+      "text": "[Bridge - organ solo, drums break down]"
+    },
+    {
+      "t": 97.13,
+      "end": 100.15,
+      "text": "Lalu dari bawah dispenser"
+    },
+    {
+      "t": 102.85,
+      "end": 111.21,
+      "text": "Kucing Bu Kos menjilat tetesan"
+    },
+    {
+      "t": 111.25,
+      "end": 111.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.25,
+      "end": 117.61,
+      "text": "Galon siapa? Kucing yang habiskan!"
+    },
+    {
+      "t": 117.69,
+      "end": 123.79,
+      "text": "Ekornya basah, matanya polos"
+    },
+    {
+      "t": 123.79,
+      "end": 129.77,
+      "text": "Galon siapa? Besok patungan"
+    },
+    {
+      "t": 130.43,
+      "end": 135.84,
+      "text": "Enam orang turun beli galon baru"
+    },
+    {
+      "t": 136.12,
+      "end": 136.12,
+      "text": "[Outro - riff speeds up, final crash]"
+    },
+    {
+      "t": 136.12,
+      "end": 136.44,
+      "text": "Meong!"
+    },
+    {
+      "t": 136.46,
+      "end": 150.7,
+      "text": "Galon siapa?"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.56,
+      "end": 22.56,
+      "text": "[Intro - fuzz guitar riff, organ stab, drum count-in]"
+    },
+    {
+      "t": 22.56,
+      "end": 22.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.56,
+      "end": 26.86,
+      "text": "Jam dua belas malam di kos"
+    },
+    {
+      "t": 28.42,
+      "end": 31.96,
+      "text": "Aku haus, gelas sudah di tangan"
+    },
+    {
+      "t": 31.96,
+      "end": 35.9,
+      "text": "Kran galon kutekan, cuma angin"
+    },
+    {
+      "t": 35.9,
+      "end": 36.7,
+      "text": "Satu tetes pun nggak keluar"
+    },
+    {
+      "t": 36.74,
+      "end": 36.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.74,
+      "end": 40.5,
+      "text": "Pintu kamar kugedor satu-satu"
+    },
+    {
+      "t": 42.48,
+      "end": 47.47,
+      "text": "Bangun semua, sidang dimulai!"
+    },
+    {
+      "t": 48.59,
+      "end": 48.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.59,
+      "end": 53.45,
+      "text": "Galon siapa? Siapa yang habiskan?"
+    },
+    {
+      "t": 54.67,
+      "end": 59.25,
+      "text": "Jadwal di kulkas bilang giliran Bayu"
+    },
+    {
+      "t": 60.81,
+      "end": 65.33,
+      "text": "Galon siapa? Nggak ada yang ngaku"
+    },
+    {
+      "t": 67.37,
+      "end": 71.49,
+      "text": "Enam orang haus, mulut kering semua"
+    },
+    {
+      "t": 73.43,
+      "end": 73.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.43,
+      "end": 77.93,
+      "text": "Bayu sumpah dia cuma minum teh"
+    },
+    {
+      "t": 79.55,
+      "end": 83.71,
+      "text": "Dika bilang airnya buat masak mi"
+    },
+    {
+      "t": 85.63,
+      "end": 90.51,
+      "text": "Fajar diam, mukanya pucat"
+    },
+    {
+      "t": 90.99,
+      "end": 97.03,
+      "text": "Ternyata cuma ngantuk berat"
+    },
+    {
+      "t": 97.13,
+      "end": 97.13,
+      "text": "[Bridge - organ solo, drums break down]"
+    },
+    {
+      "t": 97.13,
+      "end": 100.15,
+      "text": "Lalu dari bawah dispenser"
+    },
+    {
+      "t": 102.85,
+      "end": 111.21,
+      "text": "Kucing Bu Kos menjilat tetesan"
+    },
+    {
+      "t": 111.25,
+      "end": 111.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.25,
+      "end": 117.61,
+      "text": "Galon siapa? Kucing yang habiskan!"
+    },
+    {
+      "t": 117.69,
+      "end": 123.79,
+      "text": "Ekornya basah, matanya polos"
+    },
+    {
+      "t": 123.79,
+      "end": 129.77,
+      "text": "Galon siapa? Besok patungan"
+    },
+    {
+      "t": 130.43,
+      "end": 135.84,
+      "text": "Enam orang turun beli galon baru"
+    },
+    {
+      "t": 136.12,
+      "end": 136.12,
+      "text": "[Outro - riff speeds up, final crash]"
+    },
+    {
+      "t": 136.12,
+      "end": 136.44,
+      "text": "Meong!"
+    },
+    {
+      "t": 136.46,
+      "end": 162.34,
+      "text": "Galon siapa?"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 22.56,
+      "end": 22.56,
+      "text": "[Intro - fuzz guitar riff, organ stab, drum count-in]"
+    },
+    {
+      "t": 22.56,
+      "end": 22.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.56,
+      "end": 26.84,
+      "text": "Jam dua belas malam di kos"
+    },
+    {
+      "t": 28.42,
+      "end": 32.7,
+      "text": "Aku haus, gelas sudah di tangan"
+    },
+    {
+      "t": 33.08,
+      "end": 35.88,
+      "text": "Kran galon kutekan, cuma angin"
+    },
+    {
+      "t": 35.88,
+      "end": 36.7,
+      "text": "Satu tetes pun nggak keluar"
+    },
+    {
+      "t": 36.76,
+      "end": 36.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 36.76,
+      "end": 40.5,
+      "text": "Pintu kamar kugedor satu-satu"
+    },
+    {
+      "t": 42.48,
+      "end": 47.47,
+      "text": "Bangun semua, sidang dimulai!"
+    },
+    {
+      "t": 48.59,
+      "end": 48.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.59,
+      "end": 53.45,
+      "text": "Galon siapa? Siapa yang habiskan?"
+    },
+    {
+      "t": 54.67,
+      "end": 59.25,
+      "text": "Jadwal di kulkas bilang giliran Bayu"
+    },
+    {
+      "t": 60.81,
+      "end": 65.35,
+      "text": "Galon siapa? Nggak ada yang ngaku"
+    },
+    {
+      "t": 67.37,
+      "end": 71.49,
+      "text": "Enam orang haus, mulut kering semua"
+    },
+    {
+      "t": 73.43,
+      "end": 73.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.43,
+      "end": 77.83,
+      "text": "Bayu sumpah dia cuma minum teh"
+    },
+    {
+      "t": 79.55,
+      "end": 83.71,
+      "text": "Dika bilang airnya buat masak mi"
+    },
+    {
+      "t": 85.63,
+      "end": 90.49,
+      "text": "Fajar diam, mukanya pucat"
+    },
+    {
+      "t": 90.99,
+      "end": 97.01,
+      "text": "Ternyata cuma ngantuk berat"
+    },
+    {
+      "t": 97.15,
+      "end": 97.15,
+      "text": "[Bridge - organ solo, drums break down]"
+    },
+    {
+      "t": 97.15,
+      "end": 100.13,
+      "text": "Lalu dari bawah dispenser"
+    },
+    {
+      "t": 102.85,
+      "end": 111.25,
+      "text": "Kucing Bu Kos menjilat tetesan"
+    },
+    {
+      "t": 111.25,
+      "end": 111.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.25,
+      "end": 117.59,
+      "text": "Galon siapa? Kucing yang habiskan!"
+    },
+    {
+      "t": 120.15,
+      "end": 123.11,
+      "text": "Ekornya basah, matanya polos"
+    },
+    {
+      "t": 123.11,
+      "end": 129.75,
+      "text": "Galon siapa? Besok patungan"
+    },
+    {
+      "t": 130.43,
+      "end": 135.82,
+      "text": "Enam orang turun beli galon baru"
+    },
+    {
+      "t": 136.06,
+      "end": 136.06,
+      "text": "[Outro - riff speeds up, final crash]"
+    },
+    {
+      "t": 136.06,
+      "end": 136.48,
+      "text": "Meong!"
+    },
+    {
+      "t": 136.5,
+      "end": 153.0,
+      "text": "Galon siapa?"
+    }
+  ]
+}

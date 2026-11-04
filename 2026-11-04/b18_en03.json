@@ -1,0 +1,459 @@
+{
+  "id": "b18_en03",
+  "title": "Tagged at Four Pounds Fifty",
+  "title_source": "scripted",
+  "genre": "indie sleaze dance-punk",
+  "language": "en",
+  "language_name": "English",
+  "mood": "giddy, danceable, guilty",
+  "persona": "",
+  "subject": "a Saturday volunteer at a charity shop who prices a gold sequin jacket from the donation bags at four pounds fifty, then buys it herself and wears it on the till before the shop opens",
+  "caption": "Indie sleaze dance-punk, late-2000s DFA and nu-rave style. Four-on-the-floor disco-punk drums with cowbell, scratchy clean funk guitar, distorted synth bass, handclaps on the backbeat. Blown-out compressed club mix, sweaty room energy. Female alto, clearly sung melody, deadpan verses into a shouted-sung chorus. 126 BPM, A minor. Giddy, cheeky, danceable. No trap, no autotune, no EDM drops, no ballad sections, no orchestral strings.",
+  "lyrics": "[Intro - cowbell, synth bass]\n\n[Verse 1]\nSaturday, eight o'clock, back room\nBlack bags and a broken broom\nOne bag splits and there it is\nGold sequins and a smell of fizz\n\n[Pre-Chorus]\nThe price gun clicks in my hand\nI'm not proud and I don't care\n\n[Chorus]\nFour pounds fifty, it's mine, it's mine\nI'm wearing it on the till at nine\nMargaret says that's not allowed\nI'm dancing for the empty crowd\n\n[Verse 2]\nPaid in coins from my own purse\nPut the receipt in the cardigan drawer\nThe sleeves are long, the zip is worse\nI'm a disco ball on the shop floor\n\n[Pre-Chorus]\nMargaret's rummaging out the back\nShe's holding up the matching slacks\n\n[Chorus]\nFour pounds fifty, it's mine, it's mine\nI'm wearing it on the till at nine\nMargaret's laughing, takes a bow\nShe's in the sequin trousers now\n\n[Outro - cowbell, handclaps fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Indie sleaze dance-punk, late-2000s DFA and nu-rave style. Four-on-the-floor disco-punk drums with cowbell, scratchy clean funk guitar, distorted synth bass, handclaps on the backbeat. Blown-out compressed club mix, sweaty room energy. Female alto, clearly sung melody, deadpan verses into a shouted-sung chorus. 126 BPM, A minor. Giddy, cheeky, danceable. No trap, no autotune, no EDM drops, no ballad sections, no orchestral strings.",
+    "lyrics": "[Intro - cowbell, synth bass]\n\n[Verse 1]\nSaturday, eight o'clock, back room\nBlack bags and a broken broom\nOne bag splits and there it is\nGold sequins and a smell of fizz\n\n[Pre-Chorus]\nThe price gun clicks in my hand\nI'm not proud and I don't care\n\n[Chorus]\nFour pounds fifty, it's mine, it's mine\nI'm wearing it on the till at nine\nMargaret says that's not allowed\nI'm dancing for the empty crowd\n\n[Verse 2]\nPaid in coins from my own purse\nPut the receipt in the cardigan drawer\nThe sleeves are long, the zip is worse\nI'm a disco ball on the shop floor\n\n[Pre-Chorus]\nMargaret's rummaging out the back\nShe's holding up the matching slacks\n\n[Chorus]\nFour pounds fifty, it's mine, it's mine\nI'm wearing it on the till at nine\nMargaret's laughing, takes a bow\nShe's in the sequin trousers now\n\n[Outro - cowbell, handclaps fade]"
+  },
+  "seed": "3993994404",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 113.68s**\n- 113.68s per song\n- LM phase (1 song): 22.75s\n- DiT phase (1 song): 90.93s",
+  "task_id": "8282f6a0-79e0-422c-91d2-1499e74421dc",
+  "elapsed_s": 151.5,
+  "generated_at": "2026-11-04T16:00:24.238649+08:00",
+  "audio": "b18_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.66,
+      "end": 17.66,
+      "text": "[Intro - cowbell, synth bass]"
+    },
+    {
+      "t": 17.66,
+      "end": 17.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.66,
+      "end": 20.6,
+      "text": "Saturday, eight o'clock, back room"
+    },
+    {
+      "t": 25.5,
+      "end": 28.22,
+      "text": "Black bags and a broken broom"
+    },
+    {
+      "t": 32.22,
+      "end": 35.78,
+      "text": "One bag splits and there it is"
+    },
+    {
+      "t": 35.78,
+      "end": 40.88,
+      "text": "Gold sequins and a smell of fizz"
+    },
+    {
+      "t": 40.92,
+      "end": 40.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.92,
+      "end": 42.38,
+      "text": "The price gun clicks in my hand"
+    },
+    {
+      "t": 42.38,
+      "end": 44.12,
+      "text": "I'm not proud and I don't care"
+    },
+    {
+      "t": 48.17,
+      "end": 48.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.17,
+      "end": 52.27,
+      "text": "Four pounds fifty, it's mine, it's mine"
+    },
+    {
+      "t": 52.51,
+      "end": 55.89,
+      "text": "I'm wearing it on the till at nine"
+    },
+    {
+      "t": 56.03,
+      "end": 59.83,
+      "text": "Margaret says that's not allowed"
+    },
+    {
+      "t": 60.83,
+      "end": 64.47,
+      "text": "I'm dancing for the empty crowd"
+    },
+    {
+      "t": 69.03,
+      "end": 69.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.03,
+      "end": 72.03,
+      "text": "Paid in coins from my own purse"
+    },
+    {
+      "t": 72.07,
+      "end": 78.81,
+      "text": "Put the receipt in the cardigan drawer"
+    },
+    {
+      "t": 78.97,
+      "end": 86.43,
+      "text": "The sleeves are long, the zip is worse"
+    },
+    {
+      "t": 90.39,
+      "end": 93.65,
+      "text": "I'm a disco ball on the shop floor"
+    },
+    {
+      "t": 98.43,
+      "end": 98.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.43,
+      "end": 101.41,
+      "text": "Margaret's rummaging out the back"
+    },
+    {
+      "t": 101.53,
+      "end": 102.59,
+      "text": "She's holding up the matching slacks"
+    },
+    {
+      "t": 106.09,
+      "end": 106.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.09,
+      "end": 109.89,
+      "text": "Four pounds fifty, it's mine, it's mine"
+    },
+    {
+      "t": 109.89,
+      "end": 113.39,
+      "text": "I'm wearing it on the till at nine"
+    },
+    {
+      "t": 113.73,
+      "end": 117.91,
+      "text": "Margaret's laughing, takes a bow"
+    },
+    {
+      "t": 120.89,
+      "end": 124.61,
+      "text": "She's in the sequin trousers now"
+    },
+    {
+      "t": 124.61,
+      "end": 124.61,
+      "text": "[Outro - cowbell, handclaps fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.66,
+      "end": 17.66,
+      "text": "[Intro - cowbell, synth bass]"
+    },
+    {
+      "t": 17.66,
+      "end": 17.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.66,
+      "end": 20.6,
+      "text": "Saturday, eight o'clock, back room"
+    },
+    {
+      "t": 25.5,
+      "end": 28.22,
+      "text": "Black bags and a broken broom"
+    },
+    {
+      "t": 32.22,
+      "end": 34.0,
+      "text": "One bag splits and there it is"
+    },
+    {
+      "t": 34.0,
+      "end": 35.42,
+      "text": "Gold sequins and a smell of fizz"
+    },
+    {
+      "t": 35.42,
+      "end": 35.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.42,
+      "end": 40.56,
+      "text": "The price gun clicks in my hand"
+    },
+    {
+      "t": 40.58,
+      "end": 44.12,
+      "text": "I'm not proud and I don't care"
+    },
+    {
+      "t": 48.17,
+      "end": 48.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.17,
+      "end": 52.27,
+      "text": "Four pounds fifty, it's mine, it's mine"
+    },
+    {
+      "t": 52.51,
+      "end": 55.89,
+      "text": "I'm wearing it on the till at nine"
+    },
+    {
+      "t": 56.03,
+      "end": 59.83,
+      "text": "Margaret says that's not allowed"
+    },
+    {
+      "t": 60.83,
+      "end": 64.43,
+      "text": "I'm dancing for the empty crowd"
+    },
+    {
+      "t": 69.03,
+      "end": 69.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.03,
+      "end": 72.29,
+      "text": "Paid in coins from my own purse"
+    },
+    {
+      "t": 75.63,
+      "end": 78.81,
+      "text": "Put the receipt in the cardigan drawer"
+    },
+    {
+      "t": 78.97,
+      "end": 87.29,
+      "text": "The sleeves are long, the zip is worse"
+    },
+    {
+      "t": 90.39,
+      "end": 93.65,
+      "text": "I'm a disco ball on the shop floor"
+    },
+    {
+      "t": 98.43,
+      "end": 98.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.43,
+      "end": 101.41,
+      "text": "Margaret's rummaging out the back"
+    },
+    {
+      "t": 101.53,
+      "end": 102.59,
+      "text": "She's holding up the matching slacks"
+    },
+    {
+      "t": 106.09,
+      "end": 106.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.09,
+      "end": 109.89,
+      "text": "Four pounds fifty, it's mine, it's mine"
+    },
+    {
+      "t": 109.89,
+      "end": 113.39,
+      "text": "I'm wearing it on the till at nine"
+    },
+    {
+      "t": 113.73,
+      "end": 117.91,
+      "text": "Margaret's laughing, takes a bow"
+    },
+    {
+      "t": 120.89,
+      "end": 124.61,
+      "text": "She's in the sequin trousers now"
+    },
+    {
+      "t": 124.61,
+      "end": 124.61,
+      "text": "[Outro - cowbell, handclaps fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 17.66,
+      "end": 17.66,
+      "text": "[Intro - cowbell, synth bass]"
+    },
+    {
+      "t": 17.66,
+      "end": 17.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.66,
+      "end": 20.56,
+      "text": "Saturday, eight o'clock, back room"
+    },
+    {
+      "t": 25.5,
+      "end": 28.22,
+      "text": "Black bags and a broken broom"
+    },
+    {
+      "t": 32.22,
+      "end": 33.74,
+      "text": "One bag splits and there it is"
+    },
+    {
+      "t": 33.74,
+      "end": 35.32,
+      "text": "Gold sequins and a smell of fizz"
+    },
+    {
+      "t": 35.42,
+      "end": 35.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.42,
+      "end": 40.56,
+      "text": "The price gun clicks in my hand"
+    },
+    {
+      "t": 40.58,
+      "end": 43.34,
+      "text": "I'm not proud and I don't care"
+    },
+    {
+      "t": 44.4,
+      "end": 44.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.4,
+      "end": 52.27,
+      "text": "Four pounds fifty, it's mine, it's mine"
+    },
+    {
+      "t": 52.27,
+      "end": 55.91,
+      "text": "I'm wearing it on the till at nine"
+    },
+    {
+      "t": 56.03,
+      "end": 59.81,
+      "text": "Margaret says that's not allowed"
+    },
+    {
+      "t": 60.11,
+      "end": 67.39,
+      "text": "I'm dancing for the empty crowd"
+    },
+    {
+      "t": 69.03,
+      "end": 69.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.03,
+      "end": 73.61,
+      "text": "Paid in coins from my own purse"
+    },
+    {
+      "t": 73.99,
+      "end": 79.91,
+      "text": "Put the receipt in the cardigan drawer"
+    },
+    {
+      "t": 82.95,
+      "end": 86.37,
+      "text": "The sleeves are long, the zip is worse"
+    },
+    {
+      "t": 88.73,
+      "end": 97.27,
+      "text": "I'm a disco ball on the shop floor"
+    },
+    {
+      "t": 98.43,
+      "end": 98.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.43,
+      "end": 101.51,
+      "text": "Margaret's rummaging out the back"
+    },
+    {
+      "t": 102.51,
+      "end": 106.03,
+      "text": "She's holding up the matching slacks"
+    },
+    {
+      "t": 106.09,
+      "end": 106.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.09,
+      "end": 109.89,
+      "text": "Four pounds fifty, it's mine, it's mine"
+    },
+    {
+      "t": 109.89,
+      "end": 113.35,
+      "text": "I'm wearing it on the till at nine"
+    },
+    {
+      "t": 113.73,
+      "end": 117.93,
+      "text": "Margaret's laughing, takes a bow"
+    },
+    {
+      "t": 120.89,
+      "end": 124.61,
+      "text": "She's in the sequin trousers now"
+    },
+    {
+      "t": 124.61,
+      "end": 124.61,
+      "text": "[Outro - cowbell, handclaps fade]"
+    }
+  ]
+}

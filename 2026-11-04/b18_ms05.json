@@ -1,0 +1,429 @@
+{
+  "id": "b18_ms05",
+  "title": "Pinggan Ketiga",
+  "title_source": "scripted",
+  "genre": "Malay gypsy jazz (jazz manouche ballad-swing)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "warm, shy, smitten",
+  "persona": "",
+  "subject": "a shy man at his aunt's Hari Raya rumah terbuka who keeps refilling the same guest's plate with rendang so he has a reason to stand next to her, until she is on her third plate and tells him to sit down and eat with her",
+  "caption": "Malay gypsy jazz, Django-style jazz manouche swing at a relaxed tempo. Percussive la pompe rhythm guitar, bright Selmer-style lead acoustic guitar runs, sweet swinging violin answers, walking upright bass. Light wooden close-miked production. Female lead vocal, low-mid register, intimate and clearly sung. 112 BPM, G major. Warm, smitten mood. No drum kit, no synths, no autotune, no rap, no pop ballad strings.",
+  "lyrics": "[Intro - la pompe guitar, violin]\n\n[Verse 1]\nRumah terbuka mak cik kau\nAku cuma datang ikut kawan\nKau datang bawa senduk rendang\nTanya aku, nak tambah lagi?\n\n[Pre-Chorus]\nAku angguk, padahal dah kenyang\n\n[Chorus]\nPinggan pertama, kau senyum malu\nPinggan kedua, kau tak berlalu\nPinggan ketiga, aku pun tahu\nKau bukan nak bagi rendang je, kan?\n\n[Verse 2]\nKuih makmur jatuh atas baju aku\nKau hulur tisu, tangan tergesa\nTetamu lain semua perasan\nMak cik kau dah kenyit mata\n\n[Chorus]\nPinggan pertama, kau senyum malu\nPinggan kedua, kau tak berlalu\nPinggan ketiga, aku tarik kerusi\nDuduklah, makan dengan aku\n\n[Outro - violin, guitar]\nTak payah tambah lagi\nDuduk sini dengan aku",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Malay gypsy jazz, Django-style jazz manouche swing at a relaxed tempo. Percussive la pompe rhythm guitar, bright Selmer-style lead acoustic guitar runs, sweet swinging violin answers, walking upright bass. Light wooden close-miked production. Female lead vocal, low-mid register, intimate and clearly sung. 112 BPM, G major. Warm, smitten mood. No drum kit, no synths, no autotune, no rap, no pop ballad strings.",
+    "lyrics": "[Intro - la pompe guitar, violin]\n\n[Verse 1]\nRumah terbuka mak cik kau\nAku cuma datang ikut kawan\nKau datang bawa senduk rendang\nTanya aku, nak tambah lagi?\n\n[Pre-Chorus]\nAku angguk, padahal dah kenyang\n\n[Chorus]\nPinggan pertama, kau senyum malu\nPinggan kedua, kau tak berlalu\nPinggan ketiga, aku pun tahu\nKau bukan nak bagi rendang je, kan?\n\n[Verse 2]\nKuih makmur jatuh atas baju aku\nKau hulur tisu, tangan tergesa\nTetamu lain semua perasan\nMak cik kau dah kenyit mata\n\n[Chorus]\nPinggan pertama, kau senyum malu\nPinggan kedua, kau tak berlalu\nPinggan ketiga, aku tarik kerusi\nDuduklah, makan dengan aku\n\n[Outro - violin, guitar]\nTak payah tambah lagi\nDuduk sini dengan aku"
+  },
+  "seed": "726375592",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 126.20s**\n- 126.20s per song\n- LM phase (1 song): 19.04s\n- DiT phase (1 song): 107.17s",
+  "task_id": "47e3678d-b25e-462f-b0f7-724c736a7a6f",
+  "elapsed_s": 160.2,
+  "generated_at": "2026-11-04T15:18:23.065279+08:00",
+  "audio": "b18_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Intro - la pompe guitar, violin]"
+    },
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.38,
+      "end": 37.68,
+      "text": "Rumah terbuka mak cik kau"
+    },
+    {
+      "t": 39.78,
+      "end": 45.04,
+      "text": "Aku cuma datang ikut kawan"
+    },
+    {
+      "t": 45.08,
+      "end": 48.32,
+      "text": "Kau datang bawa senduk rendang"
+    },
+    {
+      "t": 48.78,
+      "end": 54.33,
+      "text": "Tanya aku, nak tambah lagi?"
+    },
+    {
+      "t": 56.93,
+      "end": 56.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.93,
+      "end": 59.37,
+      "text": "Aku angguk, padahal dah kenyang"
+    },
+    {
+      "t": 60.8,
+      "end": 60.8,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.8,
+      "end": 62.59,
+      "text": "Pinggan pertama, kau senyum malu"
+    },
+    {
+      "t": 65.11,
+      "end": 71.05,
+      "text": "Pinggan kedua, kau tak berlalu"
+    },
+    {
+      "t": 74.15,
+      "end": 78.61,
+      "text": "Pinggan ketiga, aku pun tahu"
+    },
+    {
+      "t": 83.17,
+      "end": 88.03,
+      "text": "Kau bukan nak bagi rendang je, kan?"
+    },
+    {
+      "t": 88.05,
+      "end": 88.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.05,
+      "end": 138.09,
+      "text": "Kuih makmur jatuh atas baju aku"
+    },
+    {
+      "t": 138.09,
+      "end": 140.69,
+      "text": "Kau hulur tisu, tangan tergesa"
+    },
+    {
+      "t": 140.69,
+      "end": 142.13,
+      "text": "Tetamu lain semua perasan"
+    },
+    {
+      "t": 142.13,
+      "end": 147.51,
+      "text": "Mak cik kau dah kenyit mata"
+    },
+    {
+      "t": 147.51,
+      "end": 147.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.51,
+      "end": 149.49,
+      "text": "Pinggan pertama, kau senyum malu"
+    },
+    {
+      "t": 149.49,
+      "end": 158.06,
+      "text": "Pinggan kedua, kau tak berlalu"
+    },
+    {
+      "t": 158.24,
+      "end": 164.62,
+      "text": "Pinggan ketiga, aku tarik kerusi"
+    },
+    {
+      "t": 164.62,
+      "end": 167.94,
+      "text": "Duduklah, makan dengan aku"
+    },
+    {
+      "t": 172.56,
+      "end": 172.56,
+      "text": "[Outro - violin, guitar]"
+    },
+    {
+      "t": 172.56,
+      "end": 174.96,
+      "text": "Tak payah tambah lagi"
+    },
+    {
+      "t": 178.36,
+      "end": 180.88,
+      "text": "Duduk sini dengan aku"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Intro - la pompe guitar, violin]"
+    },
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.38,
+      "end": 37.68,
+      "text": "Rumah terbuka mak cik kau"
+    },
+    {
+      "t": 39.78,
+      "end": 45.04,
+      "text": "Aku cuma datang ikut kawan"
+    },
+    {
+      "t": 45.08,
+      "end": 48.32,
+      "text": "Kau datang bawa senduk rendang"
+    },
+    {
+      "t": 48.78,
+      "end": 54.33,
+      "text": "Tanya aku, nak tambah lagi?"
+    },
+    {
+      "t": 56.93,
+      "end": 56.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.93,
+      "end": 59.49,
+      "text": "Aku angguk, padahal dah kenyang"
+    },
+    {
+      "t": 59.55,
+      "end": 59.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.55,
+      "end": 62.59,
+      "text": "Pinggan pertama, kau senyum malu"
+    },
+    {
+      "t": 65.11,
+      "end": 71.05,
+      "text": "Pinggan kedua, kau tak berlalu"
+    },
+    {
+      "t": 74.15,
+      "end": 78.61,
+      "text": "Pinggan ketiga, aku pun tahu"
+    },
+    {
+      "t": 83.17,
+      "end": 87.51,
+      "text": "Kau bukan nak bagi rendang je, kan?"
+    },
+    {
+      "t": 87.69,
+      "end": 87.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.69,
+      "end": 120.93,
+      "text": "Kuih makmur jatuh atas baju aku"
+    },
+    {
+      "t": 120.97,
+      "end": 138.35,
+      "text": "Kau hulur tisu, tangan tergesa"
+    },
+    {
+      "t": 138.37,
+      "end": 141.39,
+      "text": "Tetamu lain semua perasan"
+    },
+    {
+      "t": 141.39,
+      "end": 146.67,
+      "text": "Mak cik kau dah kenyit mata"
+    },
+    {
+      "t": 146.85,
+      "end": 146.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.85,
+      "end": 149.49,
+      "text": "Pinggan pertama, kau senyum malu"
+    },
+    {
+      "t": 149.49,
+      "end": 158.06,
+      "text": "Pinggan kedua, kau tak berlalu"
+    },
+    {
+      "t": 158.24,
+      "end": 164.62,
+      "text": "Pinggan ketiga, aku tarik kerusi"
+    },
+    {
+      "t": 164.62,
+      "end": 167.94,
+      "text": "Duduklah, makan dengan aku"
+    },
+    {
+      "t": 172.56,
+      "end": 172.56,
+      "text": "[Outro - violin, guitar]"
+    },
+    {
+      "t": 172.56,
+      "end": 174.96,
+      "text": "Tak payah tambah lagi"
+    },
+    {
+      "t": 178.36,
+      "end": 180.88,
+      "text": "Duduk sini dengan aku"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Intro - la pompe guitar, violin]"
+    },
+    {
+      "t": 35.38,
+      "end": 35.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.38,
+      "end": 37.7,
+      "text": "Rumah terbuka mak cik kau"
+    },
+    {
+      "t": 39.78,
+      "end": 44.74,
+      "text": "Aku cuma datang ikut kawan"
+    },
+    {
+      "t": 44.76,
+      "end": 48.28,
+      "text": "Kau datang bawa senduk rendang"
+    },
+    {
+      "t": 48.78,
+      "end": 54.31,
+      "text": "Tanya aku, nak tambah lagi?"
+    },
+    {
+      "t": 56.93,
+      "end": 56.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.93,
+      "end": 58.95,
+      "text": "Aku angguk, padahal dah kenyang"
+    },
+    {
+      "t": 58.99,
+      "end": 58.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.99,
+      "end": 62.57,
+      "text": "Pinggan pertama, kau senyum malu"
+    },
+    {
+      "t": 65.11,
+      "end": 71.05,
+      "text": "Pinggan kedua, kau tak berlalu"
+    },
+    {
+      "t": 74.15,
+      "end": 78.59,
+      "text": "Pinggan ketiga, aku pun tahu"
+    },
+    {
+      "t": 83.17,
+      "end": 88.01,
+      "text": "Kau bukan nak bagi rendang je, kan?"
+    },
+    {
+      "t": 98.83,
+      "end": 98.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 98.83,
+      "end": 117.47,
+      "text": "Kuih makmur jatuh atas baju aku"
+    },
+    {
+      "t": 117.63,
+      "end": 138.33,
+      "text": "Kau hulur tisu, tangan tergesa"
+    },
+    {
+      "t": 138.35,
+      "end": 140.75,
+      "text": "Tetamu lain semua perasan"
+    },
+    {
+      "t": 140.75,
+      "end": 142.35,
+      "text": "Mak cik kau dah kenyit mata"
+    },
+    {
+      "t": 142.37,
+      "end": 142.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.37,
+      "end": 149.33,
+      "text": "Pinggan pertama, kau senyum malu"
+    },
+    {
+      "t": 149.49,
+      "end": 158.1,
+      "text": "Pinggan kedua, kau tak berlalu"
+    },
+    {
+      "t": 158.24,
+      "end": 163.9,
+      "text": "Pinggan ketiga, aku tarik kerusi"
+    },
+    {
+      "t": 164.64,
+      "end": 167.94,
+      "text": "Duduklah, makan dengan aku"
+    },
+    {
+      "t": 172.56,
+      "end": 172.56,
+      "text": "[Outro - violin, guitar]"
+    },
+    {
+      "t": 172.56,
+      "end": 174.96,
+      "text": "Tak payah tambah lagi"
+    },
+    {
+      "t": 178.36,
+      "end": 180.86,
+      "text": "Duduk sini dengan aku"
+    }
+  ]
+}

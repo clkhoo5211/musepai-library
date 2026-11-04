@@ -1,0 +1,489 @@
+{
+  "id": "b18_id02",
+  "title": "Buku Bon Warung Bu Tini",
+  "title_source": "scripted",
+  "genre": "Indonesian balada folk with harmonica (Iwan Fals-style)",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "hangat, jenaka, getir sedikit",
+  "persona": "",
+  "subject": "the owner of a warung kopi near a Jakarta campus who keeps a dog-eared bon book of students' unpaid kopi and Indomie, reading out their debts every month, then tearing out one page as a gift when a debtor brings his graduation photo",
+  "caption": "Indonesian balada folk in the style of late-70s Iwan Fals street ballads. Steel-string acoustic guitar with strummed open chords and bass-note walks, harmonica in G playing short wailing answer phrases between lines, plucked upright-style bass, soft brushed snare. Dry close-miked recording, live-in-a-room feel, no polish. Raspy male mid-low vocal, conversational and wry, clearly sung melody. 96 BPM, G major. Mood of a warm teasing ballad told over a glass of kopi tubruk. No pop drums, no synths, no autotune, no rap, no string orchestra.",
+  "lyrics": "[Intro - acoustic guitar strum, harmonica phrase]\n[Verse 1]\nDi warung Bu Tini dekat kampus\nAda buku tulis sampulnya lecek\nIsinya nama anak-anak kos\nKopi tubruk, mi rebus, telur setengah matang\n[Pre-Chorus]\nTiap tanggal tua dia buka halaman\nDibaca keras, satu-satu disebut\n[Chorus]\nDoni, tiga belas gelas kopi\nRahmat, mi goreng sebulan penuh\nBayar kapan, Nak? Kapan-kapan, Bu\nBuku bon itu makin tebal saja\n[Verse 2]\nDoni kuliah tujuh tahun\nUtangnya sudah dua halaman\nSuatu pagi dia datang bertoga\nBawa foto wisuda, bingkainya masih baru\n[Bridge - harmonica solo, then quiet guitar]\nBu Tini diam, kacamata turun\nHalaman Doni dirobek pelan-pelan\n[Chorus]\nDoni, tiga belas gelas kopi\nHari ini lunas tanpa uang\nBayar kapan, Nak? Sudah, Bu, sudah\nFotonya dipaku di atas termos\n[Outro - harmonica, last guitar chord]\nRahmat, giliranmu\nCepat lulus, ya",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "2",
+    "prompt": "Indonesian balada folk in the style of late-70s Iwan Fals street ballads. Steel-string acoustic guitar with strummed open chords and bass-note walks, harmonica in G playing short wailing answer phrases between lines, plucked upright-style bass, soft brushed snare. Dry close-miked recording, live-in-a-room feel, no polish. Raspy male mid-low vocal, conversational and wry, clearly sung melody. 96 BPM, G major. Mood of a warm teasing ballad told over a glass of kopi tubruk. No pop drums, no synths, no autotune, no rap, no string orchestra.",
+    "lyrics": "[Intro - acoustic guitar strum, harmonica phrase]\n[Verse 1]\nDi warung Bu Tini dekat kampus\nAda buku tulis sampulnya lecek\nIsinya nama anak-anak kos\nKopi tubruk, mi rebus, telur setengah matang\n[Pre-Chorus]\nTiap tanggal tua dia buka halaman\nDibaca keras, satu-satu disebut\n[Chorus]\nDoni, tiga belas gelas kopi\nRahmat, mi goreng sebulan penuh\nBayar kapan, Nak? Kapan-kapan, Bu\nBuku bon itu makin tebal saja\n[Verse 2]\nDoni kuliah tujuh tahun\nUtangnya sudah dua halaman\nSuatu pagi dia datang bertoga\nBawa foto wisuda, bingkainya masih baru\n[Bridge - harmonica solo, then quiet guitar]\nBu Tini diam, kacamata turun\nHalaman Doni dirobek pelan-pelan\n[Chorus]\nDoni, tiga belas gelas kopi\nHari ini lunas tanpa uang\nBayar kapan, Nak? Sudah, Bu, sudah\nFotonya dipaku di atas termos\n[Outro - harmonica, last guitar chord]\nRahmat, giliranmu\nCepat lulus, ya"
+  },
+  "seed": "1439804777",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 136.01s**\n- 136.01s per song\n- LM phase (1 song): 18.50s\n- DiT phase (1 song): 117.51s",
+  "task_id": "75b364ec-6935-4b5c-bd16-360244a68642",
+  "elapsed_s": 170.5,
+  "generated_at": "2026-11-04T15:24:04.622445+08:00",
+  "audio": "b18_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.26,
+      "end": 21.26,
+      "text": "[Intro - acoustic guitar strum, harmonica phrase]"
+    },
+    {
+      "t": 21.26,
+      "end": 21.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.26,
+      "end": 25.08,
+      "text": "Di warung Bu Tini dekat kampus"
+    },
+    {
+      "t": 26.7,
+      "end": 30.58,
+      "text": "Ada buku tulis sampulnya lecek"
+    },
+    {
+      "t": 32.58,
+      "end": 35.3,
+      "text": "Isinya nama anak-anak kos"
+    },
+    {
+      "t": 36.26,
+      "end": 45.92,
+      "text": "Kopi tubruk, mi rebus, telur setengah matang"
+    },
+    {
+      "t": 47.0,
+      "end": 47.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.0,
+      "end": 52.46,
+      "text": "Tiap tanggal tua dia buka halaman"
+    },
+    {
+      "t": 55.61,
+      "end": 58.83,
+      "text": "Dibaca keras, satu-satu disebut"
+    },
+    {
+      "t": 63.39,
+      "end": 63.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.39,
+      "end": 66.33,
+      "text": "Doni, tiga belas gelas kopi"
+    },
+    {
+      "t": 72.99,
+      "end": 78.41,
+      "text": "Rahmat, mi goreng sebulan penuh"
+    },
+    {
+      "t": 78.45,
+      "end": 85.45,
+      "text": "Bayar kapan, Nak? Kapan-kapan, Bu"
+    },
+    {
+      "t": 86.91,
+      "end": 89.73,
+      "text": "Buku bon itu makin tebal saja"
+    },
+    {
+      "t": 93.17,
+      "end": 93.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.17,
+      "end": 95.01,
+      "text": "Doni kuliah tujuh tahun"
+    },
+    {
+      "t": 97.31,
+      "end": 99.69,
+      "text": "Utangnya sudah dua halaman"
+    },
+    {
+      "t": 102.57,
+      "end": 105.71,
+      "text": "Suatu pagi dia datang bertoga"
+    },
+    {
+      "t": 107.31,
+      "end": 113.33,
+      "text": "Bawa foto wisuda, bingkainya masih baru"
+    },
+    {
+      "t": 116.33,
+      "end": 116.33,
+      "text": "[Bridge - harmonica solo, then quiet guitar]"
+    },
+    {
+      "t": 116.33,
+      "end": 119.69,
+      "text": "Bu Tini diam, kacamata turun"
+    },
+    {
+      "t": 126.45,
+      "end": 155.07,
+      "text": "Halaman Doni dirobek pelan-pelan"
+    },
+    {
+      "t": 158.06,
+      "end": 158.06,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.06,
+      "end": 161.3,
+      "text": "Doni, tiga belas gelas kopi"
+    },
+    {
+      "t": 163.0,
+      "end": 166.28,
+      "text": "Hari ini lunas tanpa uang"
+    },
+    {
+      "t": 167.72,
+      "end": 171.22,
+      "text": "Bayar kapan, Nak? Sudah, Bu, sudah"
+    },
+    {
+      "t": 172.06,
+      "end": 175.3,
+      "text": "Fotonya dipaku di atas termos"
+    },
+    {
+      "t": 187.48,
+      "end": 187.48,
+      "text": "[Outro - harmonica, last guitar chord]"
+    },
+    {
+      "t": 187.48,
+      "end": 189.18,
+      "text": "Rahmat, giliranmu"
+    },
+    {
+      "t": 191.84,
+      "end": 195.6,
+      "text": "Cepat lulus, ya"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.26,
+      "end": 21.26,
+      "text": "[Intro - acoustic guitar strum, harmonica phrase]"
+    },
+    {
+      "t": 21.26,
+      "end": 21.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.26,
+      "end": 25.08,
+      "text": "Di warung Bu Tini dekat kampus"
+    },
+    {
+      "t": 26.7,
+      "end": 30.58,
+      "text": "Ada buku tulis sampulnya lecek"
+    },
+    {
+      "t": 32.58,
+      "end": 35.3,
+      "text": "Isinya nama anak-anak kos"
+    },
+    {
+      "t": 36.26,
+      "end": 45.92,
+      "text": "Kopi tubruk, mi rebus, telur setengah matang"
+    },
+    {
+      "t": 47.0,
+      "end": 47.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.0,
+      "end": 52.46,
+      "text": "Tiap tanggal tua dia buka halaman"
+    },
+    {
+      "t": 55.61,
+      "end": 58.83,
+      "text": "Dibaca keras, satu-satu disebut"
+    },
+    {
+      "t": 63.39,
+      "end": 63.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.39,
+      "end": 66.33,
+      "text": "Doni, tiga belas gelas kopi"
+    },
+    {
+      "t": 72.99,
+      "end": 78.41,
+      "text": "Rahmat, mi goreng sebulan penuh"
+    },
+    {
+      "t": 78.45,
+      "end": 85.45,
+      "text": "Bayar kapan, Nak? Kapan-kapan, Bu"
+    },
+    {
+      "t": 86.91,
+      "end": 89.73,
+      "text": "Buku bon itu makin tebal saja"
+    },
+    {
+      "t": 93.17,
+      "end": 93.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.17,
+      "end": 95.01,
+      "text": "Doni kuliah tujuh tahun"
+    },
+    {
+      "t": 97.31,
+      "end": 99.69,
+      "text": "Utangnya sudah dua halaman"
+    },
+    {
+      "t": 102.57,
+      "end": 105.71,
+      "text": "Suatu pagi dia datang bertoga"
+    },
+    {
+      "t": 107.31,
+      "end": 113.33,
+      "text": "Bawa foto wisuda, bingkainya masih baru"
+    },
+    {
+      "t": 116.33,
+      "end": 116.33,
+      "text": "[Bridge - harmonica solo, then quiet guitar]"
+    },
+    {
+      "t": 116.33,
+      "end": 119.69,
+      "text": "Bu Tini diam, kacamata turun"
+    },
+    {
+      "t": 126.45,
+      "end": 155.07,
+      "text": "Halaman Doni dirobek pelan-pelan"
+    },
+    {
+      "t": 158.06,
+      "end": 158.06,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.06,
+      "end": 161.3,
+      "text": "Doni, tiga belas gelas kopi"
+    },
+    {
+      "t": 163.0,
+      "end": 166.28,
+      "text": "Hari ini lunas tanpa uang"
+    },
+    {
+      "t": 167.72,
+      "end": 171.22,
+      "text": "Bayar kapan, Nak? Sudah, Bu, sudah"
+    },
+    {
+      "t": 172.06,
+      "end": 175.3,
+      "text": "Fotonya dipaku di atas termos"
+    },
+    {
+      "t": 187.48,
+      "end": 187.48,
+      "text": "[Outro - harmonica, last guitar chord]"
+    },
+    {
+      "t": 187.48,
+      "end": 189.18,
+      "text": "Rahmat, giliranmu"
+    },
+    {
+      "t": 191.84,
+      "end": 195.6,
+      "text": "Cepat lulus, ya"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 21.28,
+      "end": 21.28,
+      "text": "[Intro - acoustic guitar strum, harmonica phrase]"
+    },
+    {
+      "t": 21.28,
+      "end": 21.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.28,
+      "end": 25.08,
+      "text": "Di warung Bu Tini dekat kampus"
+    },
+    {
+      "t": 26.7,
+      "end": 30.58,
+      "text": "Ada buku tulis sampulnya lecek"
+    },
+    {
+      "t": 32.58,
+      "end": 35.28,
+      "text": "Isinya nama anak-anak kos"
+    },
+    {
+      "t": 36.26,
+      "end": 45.88,
+      "text": "Kopi tubruk, mi rebus, telur setengah matang"
+    },
+    {
+      "t": 47.02,
+      "end": 47.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.02,
+      "end": 52.46,
+      "text": "Tiap tanggal tua dia buka halaman"
+    },
+    {
+      "t": 55.59,
+      "end": 58.83,
+      "text": "Dibaca keras, satu-satu disebut"
+    },
+    {
+      "t": 63.39,
+      "end": 63.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.39,
+      "end": 66.33,
+      "text": "Doni, tiga belas gelas kopi"
+    },
+    {
+      "t": 69.97,
+      "end": 75.55,
+      "text": "Rahmat, mi goreng sebulan penuh"
+    },
+    {
+      "t": 77.49,
+      "end": 85.45,
+      "text": "Bayar kapan, Nak? Kapan-kapan, Bu"
+    },
+    {
+      "t": 86.91,
+      "end": 89.73,
+      "text": "Buku bon itu makin tebal saja"
+    },
+    {
+      "t": 93.17,
+      "end": 93.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.17,
+      "end": 94.99,
+      "text": "Doni kuliah tujuh tahun"
+    },
+    {
+      "t": 97.31,
+      "end": 99.67,
+      "text": "Utangnya sudah dua halaman"
+    },
+    {
+      "t": 102.57,
+      "end": 105.71,
+      "text": "Suatu pagi dia datang bertoga"
+    },
+    {
+      "t": 107.31,
+      "end": 113.33,
+      "text": "Bawa foto wisuda, bingkainya masih baru"
+    },
+    {
+      "t": 116.33,
+      "end": 116.33,
+      "text": "[Bridge - harmonica solo, then quiet guitar]"
+    },
+    {
+      "t": 116.33,
+      "end": 122.35,
+      "text": "Bu Tini diam, kacamata turun"
+    },
+    {
+      "t": 126.45,
+      "end": 155.11,
+      "text": "Halaman Doni dirobek pelan-pelan"
+    },
+    {
+      "t": 158.06,
+      "end": 158.06,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.06,
+      "end": 161.3,
+      "text": "Doni, tiga belas gelas kopi"
+    },
+    {
+      "t": 163.02,
+      "end": 166.3,
+      "text": "Hari ini lunas tanpa uang"
+    },
+    {
+      "t": 167.72,
+      "end": 171.24,
+      "text": "Bayar kapan, Nak? Sudah, Bu, sudah"
+    },
+    {
+      "t": 172.06,
+      "end": 175.3,
+      "text": "Fotonya dipaku di atas termos"
+    },
+    {
+      "t": 187.48,
+      "end": 187.48,
+      "text": "[Outro - harmonica, last guitar chord]"
+    },
+    {
+      "t": 187.48,
+      "end": 189.16,
+      "text": "Rahmat, giliranmu"
+    },
+    {
+      "t": 191.84,
+      "end": 195.6,
+      "text": "Cepat lulus, ya"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "b18_zh01",
+  "title": "對講機只會聽",
+  "title_source": "scripted",
+  "genre": "Mandarin city-pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "bouncy, sweaty and self-mocking",
+  "persona": "",
+  "subject": "a man whose old walk-up building's intercom handset can still hear the visitor downstairs but no longer transmits his voice, so for every delivery, friend and date he leans out of his seventh-floor window and lowers the gate key in a plastic basket on a rope",
+  "caption": "Mandarin city-pop, 1980s Taipei/Tokyo revival. Clean chorus-guitar cutting chords, Rhodes electric piano, round fretted bass, relaxed live drums, short brass hits in the chorus. Warm polished mix. Male tenor, warm and clear. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering. 96 BPM, F minor. Bouncy and self-mocking. No autotune, no EDM drop, no rap.",
+  "lyrics": "[Intro - shaker, conga and marimba riff]\n\n[Verse 1]\n叮咚一聲 樓下有人找\n外送小哥說 你好你好\n我對著話筒 喊了半天\n他只聽見 一片安靜\n\n[Pre-Chorus]\n鑰匙放進 塑膠籃\n窗口往下吊\n\n[Chorus]\n對講機 只會聽不會講\n我說的每一句 它都吞下\n七樓窗口 吊籃子\n鑰匙接好 久等啦\n\n[Verse 2]\n今晚約會 她按了門鈴\n我在上面 拚命說請進\n她說這個人 怎麼都不回應\n轉身已經 走到街口\n\n[Pre-Chorus]\n我探出窗 揮著手\n籃子晃呀晃\n\n[Chorus]\n對講機 只會聽不會講\n她回頭看見我 笑彎了腰\n七樓窗口 吊籃子\n她放進一顆 糖果啦\n\n[Outro - marimba and conga fade]\n叮咚一聲 籃子下去啦",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "Mandarin city-pop, 1980s Taipei/Tokyo revival. Clean chorus-guitar cutting chords, Rhodes electric piano, round fretted bass, relaxed live drums, short brass hits in the chorus. Warm polished mix. Male tenor, warm and clear. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering. 96 BPM, F minor. Bouncy and self-mocking. No autotune, no EDM drop, no rap.",
+    "lyrics": "[Intro - shaker, conga and marimba riff]\n\n[Verse 1]\n叮咚一聲 樓下有人找\n外送小哥說 你好你好\n我對著話筒 喊了半天\n他只聽見 一片安靜\n\n[Pre-Chorus]\n鑰匙放進 塑膠籃\n窗口往下吊\n\n[Chorus]\n對講機 只會聽不會講\n我說的每一句 它都吞下\n七樓窗口 吊籃子\n鑰匙接好 久等啦\n\n[Verse 2]\n今晚約會 她按了門鈴\n我在上面 拚命說請進\n她說這個人 怎麼都不回應\n轉身已經 走到街口\n\n[Pre-Chorus]\n我探出窗 揮著手\n籃子晃呀晃\n\n[Chorus]\n對講機 只會聽不會講\n她回頭看見我 笑彎了腰\n七樓窗口 吊籃子\n她放進一顆 糖果啦\n\n[Outro - marimba and conga fade]\n叮咚一聲 籃子下去啦"
+  },
+  "seed": "3031694032",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.81s**\n- 58.81s per song\n- LM phase (1 song): 14.26s\n- DiT phase (1 song): 44.55s",
+  "task_id": "77edf97c-44ae-4175-819b-0e1e912f7869",
+  "elapsed_s": 80.4,
+  "generated_at": "2026-11-04T22:05:45.404246+08:00",
+  "audio": "b18_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 49.24,
+      "end": 49.24,
+      "text": "[Intro - shaker, conga and marimba riff]"
+    },
+    {
+      "t": 49.24,
+      "end": 49.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 49.24,
+      "end": 52.99,
+      "text": "叮咚一聲 樓下有人找"
+    },
+    {
+      "t": 53.01,
+      "end": 60.77,
+      "text": "外送小哥說 你好你好"
+    },
+    {
+      "t": 64.31,
+      "end": 67.31,
+      "text": "我對著話筒 喊了半天"
+    },
+    {
+      "t": 67.75,
+      "end": 71.23,
+      "text": "他只聽見 一片安靜"
+    },
+    {
+      "t": 71.97,
+      "end": 71.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.97,
+      "end": 75.19,
+      "text": "鑰匙放進 塑膠籃"
+    },
+    {
+      "t": 75.37,
+      "end": 77.65,
+      "text": "窗口往下吊"
+    },
+    {
+      "t": 80.59,
+      "end": 80.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 80.59,
+      "end": 88.51,
+      "text": "對講機 只會聽不會講"
+    },
+    {
+      "t": 88.53,
+      "end": 96.35,
+      "text": "我說的每一句 它都吞下"
+    },
+    {
+      "t": 96.39,
+      "end": 98.93,
+      "text": "七樓窗口 吊籃子"
+    },
+    {
+      "t": 99.33,
+      "end": 100.35,
+      "text": "鑰匙接好 久等啦"
+    },
+    {
+      "t": 100.35,
+      "end": 100.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.35,
+      "end": 101.83,
+      "text": "今晚約會 她按了門鈴"
+    },
+    {
+      "t": 101.87,
+      "end": 114.67,
+      "text": "我在上面 拚命說請進"
+    },
+    {
+      "t": 114.81,
+      "end": 117.29,
+      "text": "她說這個人 怎麼都不回應"
+    },
+    {
+      "t": 117.29,
+      "end": 118.91,
+      "text": "轉身已經 走到街口"
+    },
+    {
+      "t": 119.09,
+      "end": 119.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 119.09,
+      "end": 125.33,
+      "text": "我探出窗 揮著手"
+    },
+    {
+      "t": 125.59,
+      "end": 144.49,
+      "text": "籃子晃呀晃"
+    },
+    {
+      "t": 151.57,
+      "end": 151.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.57,
+      "end": 153.15,
+      "text": "對講機 只會聽不會講"
+    },
+    {
+      "t": 153.19,
+      "end": 154.35,
+      "text": "她回頭看見我 笑彎了腰"
+    },
+    {
+      "t": 154.35,
+      "end": 178.54,
+      "text": "七樓窗口 吊籃子"
+    },
+    {
+      "t": 178.54,
+      "end": 180.92,
+      "text": "她放進一顆 糖果啦"
+    },
+    {
+      "t": 185.76,
+      "end": 185.76,
+      "text": "[Outro - marimba and conga fade]"
+    },
+    {
+      "t": 185.76,
+      "end": 188.78,
+      "text": "叮咚一聲 籃子下去啦"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 49.24,
+      "end": 49.24,
+      "text": "[Intro - shaker, conga and marimba riff]"
+    },
+    {
+      "t": 49.24,
+      "end": 49.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 49.24,
+      "end": 52.99,
+      "text": "叮咚一聲 樓下有人找"
+    },
+    {
+      "t": 53.01,
+      "end": 60.77,
+      "text": "外送小哥說 你好你好"
+    },
+    {
+      "t": 64.31,
+      "end": 67.31,
+      "text": "我對著話筒 喊了半天"
+    },
+    {
+      "t": 67.75,
+      "end": 71.23,
+      "text": "他只聽見 一片安靜"
+    },
+    {
+      "t": 71.97,
+      "end": 71.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.97,
+      "end": 75.19,
+      "text": "鑰匙放進 塑膠籃"
+    },
+    {
+      "t": 75.37,
+      "end": 77.65,
+      "text": "窗口往下吊"
+    },
+    {
+      "t": 80.59,
+      "end": 80.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 80.59,
+      "end": 88.51,
+      "text": "對講機 只會聽不會講"
+    },
+    {
+      "t": 88.53,
+      "end": 96.35,
+      "text": "我說的每一句 它都吞下"
+    },
+    {
+      "t": 96.39,
+      "end": 98.93,
+      "text": "七樓窗口 吊籃子"
+    },
+    {
+      "t": 99.33,
+      "end": 100.35,
+      "text": "鑰匙接好 久等啦"
+    },
+    {
+      "t": 100.35,
+      "end": 100.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 100.35,
+      "end": 101.83,
+      "text": "今晚約會 她按了門鈴"
+    },
+    {
+      "t": 101.87,
+      "end": 114.67,
+      "text": "我在上面 拚命說請進"
+    },
+    {
+      "t": 114.81,
+      "end": 117.29,
+      "text": "她說這個人 怎麼都不回應"
+    },
+    {
+      "t": 117.29,
+      "end": 118.91,
+      "text": "轉身已經 走到街口"
+    },
+    {
+      "t": 119.09,
+      "end": 119.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 119.09,
+      "end": 125.33,
+      "text": "我探出窗 揮著手"
+    },
+    {
+      "t": 125.59,
+      "end": 144.49,
+      "text": "籃子晃呀晃"
+    },
+    {
+      "t": 151.57,
+      "end": 151.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 151.57,
+      "end": 153.15,
+      "text": "對講機 只會聽不會講"
+    },
+    {
+      "t": 153.19,
+      "end": 154.35,
+      "text": "她回頭看見我 笑彎了腰"
+    },
+    {
+      "t": 154.35,
+      "end": 178.54,
+      "text": "七樓窗口 吊籃子"
+    },
+    {
+      "t": 178.54,
+      "end": 180.92,
+      "text": "她放進一顆 糖果啦"
+    },
+    {
+      "t": 185.76,
+      "end": 185.76,
+      "text": "[Outro - marimba and conga fade]"
+    },
+    {
+      "t": 185.76,
+      "end": 188.78,
+      "text": "叮咚一聲 籃子下去啦"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 21.38,
+      "end": 21.38,
+      "text": "[Intro - shaker, conga and marimba riff]"
+    },
+    {
+      "t": 21.38,
+      "end": 21.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.38,
+      "end": 25.1,
+      "text": "叮咚一聲 樓下有人找"
+    },
+    {
+      "t": 26.38,
+      "end": 30.06,
+      "text": "外送小哥說 你好你好"
+    },
+    {
+      "t": 31.72,
+      "end": 35.1,
+      "text": "我對著話筒 喊了半天"
+    },
+    {
+      "t": 37.6,
+      "end": 40.74,
+      "text": "他只聽見 一片安靜"
+    },
+    {
+      "t": 43.86,
+      "end": 43.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.86,
+      "end": 46.3,
+      "text": "鑰匙放進 塑膠籃"
+    },
+    {
+      "t": 47.56,
+      "end": 53.25,
+      "text": "窗口往下吊"
+    },
+    {
+      "t": 53.25,
+      "end": 53.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.25,
+      "end": 56.27,
+      "text": "對講機 只會聽不會講"
+    },
+    {
+      "t": 57.89,
+      "end": 60.69,
+      "text": "我說的每一句 它都吞下"
+    },
+    {
+      "t": 60.69,
+      "end": 62.25,
+      "text": "七樓窗口 吊籃子"
+    },
+    {
+      "t": 64.29,
+      "end": 65.79,
+      "text": "鑰匙接好 久等啦"
+    },
+    {
+      "t": 75.29,
+      "end": 75.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.29,
+      "end": 80.31,
+      "text": "今晚約會 她按了門鈴"
+    },
+    {
+      "t": 80.31,
+      "end": 83.83,
+      "text": "我在上面 拚命說請進"
+    },
+    {
+      "t": 85.01,
+      "end": 89.53,
+      "text": "她說這個人 怎麼都不回應"
+    },
+    {
+      "t": 90.27,
+      "end": 93.37,
+      "text": "轉身已經 走到街口"
+    },
+    {
+      "t": 95.23,
+      "end": 95.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.23,
+      "end": 101.13,
+      "text": "我探出窗 揮著手"
+    },
+    {
+      "t": 105.53,
+      "end": 112.11,
+      "text": "籃子晃呀晃"
+    },
+    {
+      "t": 112.11,
+      "end": 112.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.11,
+      "end": 115.23,
+      "text": "對講機 只會聽不會講"
+    },
+    {
+      "t": 116.77,
+      "end": 120.61,
+      "text": "她回頭看見我 笑彎了腰"
+    },
+    {
+      "t": 122.37,
+      "end": 124.95,
+      "text": "七樓窗口 吊籃子"
+    },
+    {
+      "t": 126.71,
+      "end": 129.93,
+      "text": "她放進一顆 糖果啦"
+    },
+    {
+      "t": 194.24,
+      "end": 194.24,
+      "text": "[Outro - marimba and conga fade]"
+    },
+    {
+      "t": 194.24,
+      "end": 197.16,
+      "text": "叮咚一聲 籃子下去啦"
+    }
+  ]
+}

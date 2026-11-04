@@ -1,0 +1,297 @@
+{
+  "id": "b18_ms02",
+  "title": "Kerusi Atas Meja",
+  "title_source": "scripted",
+  "genre": "Malay grunge",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "weary, wry, warm underneath",
+  "persona": "",
+  "subject": "a mamak shop worker at closing time hosing the floor and flipping chairs onto tables around the last two regulars who still won't get up",
+  "caption": "Malay grunge, early-90s Seattle grunge rock, alternative rock with loud-quiet dynamics. Fuzz-heavy distorted rhythm guitar in the chorus, clean chorus-pedal arpeggio guitar in the verses, thick overdriven bass, loose live drums with crashing cymbals. Raw garage-room production, unpolished. Male lead vocal, low-mid register, raspy, clearly sung melody. 92 BPM, E minor. Weary, wry mood. No pop-punk, no autotune, no rap, no synths, no metal screaming.",
+  "lyrics": "[Intro - clean arpeggio guitar]\n\n[Verse 1]\nAir paip dah basahkan selipar aku\nKipas, lampu, aku tutup satu-satu\nKorang berdua masih kacau teh tarik\nCerita yang sama dari pukul satu\n\n[Pre-Chorus]\nAku tak halau, aku cuma tunggu\n\n[Chorus - fuzz guitars]\nKerusi atas meja\nSemua dah naik, tinggal korang berdua\nAku sapu keliling kaki korang\nEsok pukul enam aku buka semula\n\n[Verse 2]\nTauke dah balik dengan duit hari ni\nRoti canai sisa aku bungkus sendiri\nKorang tanya kenapa aku tak penat\nAku senyum, aku dah lupa rasa\n\n[Chorus - fuzz guitars]\nKerusi atas meja\nSemua dah naik, tinggal korang berdua\nAku tutup separuh shutter dulu\nKorang tunduk keluar, jumpa esok pula\n\n[Outro - clean guitar, feedback]\nKerusi atas meja\nAku pun duduk sekejap",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Malay grunge, early-90s Seattle grunge rock, alternative rock with loud-quiet dynamics. Fuzz-heavy distorted rhythm guitar in the chorus, clean chorus-pedal arpeggio guitar in the verses, thick overdriven bass, loose live drums with crashing cymbals. Raw garage-room production, unpolished. Male lead vocal, low-mid register, raspy, clearly sung melody. 92 BPM, E minor. Weary, wry mood. No pop-punk, no autotune, no rap, no synths, no metal screaming.",
+    "lyrics": "[Intro - clean arpeggio guitar]\n\n[Verse 1]\nAir paip dah basahkan selipar aku\nKipas, lampu, aku tutup satu-satu\nKorang berdua masih kacau teh tarik\nCerita yang sama dari pukul satu\n\n[Pre-Chorus]\nAku tak halau, aku cuma tunggu\n\n[Chorus - fuzz guitars]\nKerusi atas meja\nSemua dah naik, tinggal korang berdua\nAku sapu keliling kaki korang\nEsok pukul enam aku buka semula\n\n[Verse 2]\nTauke dah balik dengan duit hari ni\nRoti canai sisa aku bungkus sendiri\nKorang tanya kenapa aku tak penat\nAku senyum, aku dah lupa rasa\n\n[Chorus - fuzz guitars]\nKerusi atas meja\nSemua dah naik, tinggal korang berdua\nAku tutup separuh shutter dulu\nKorang tunduk keluar, jumpa esok pula\n\n[Outro - clean guitar, feedback]\nKerusi atas meja\nAku pun duduk sekejap"
+  },
+  "seed": "990020088",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.22s**\n- 72.22s per song\n- LM phase (1 song): 13.87s\n- DiT phase (1 song): 58.36s",
+  "task_id": "cfe9a0d8-53fc-48d5-84ae-8057a3ef79d5",
+  "elapsed_s": 91.1,
+  "generated_at": "2026-11-04T17:22:38.327860+08:00",
+  "audio": "b18_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Intro - clean arpeggio guitar]"
+    },
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.82,
+      "end": 32.54,
+      "text": "Air paip dah basahkan selipar aku"
+    },
+    {
+      "t": 34.0,
+      "end": 38.1,
+      "text": "Kipas, lampu, aku tutup satu-satu"
+    },
+    {
+      "t": 39.56,
+      "end": 44.46,
+      "text": "Korang berdua masih kacau teh tarik"
+    },
+    {
+      "t": 44.52,
+      "end": 48.68,
+      "text": "Cerita yang sama dari pukul satu"
+    },
+    {
+      "t": 54.27,
+      "end": 54.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.27,
+      "end": 62.51,
+      "text": "Aku tak halau, aku cuma tunggu"
+    },
+    {
+      "t": 63.65,
+      "end": 63.65,
+      "text": "[Chorus - fuzz guitars]"
+    },
+    {
+      "t": 63.65,
+      "end": 66.43,
+      "text": "Kerusi atas meja"
+    },
+    {
+      "t": 67.27,
+      "end": 83.55,
+      "text": "Semua dah naik, tinggal korang berdua"
+    },
+    {
+      "t": 83.89,
+      "end": 88.67,
+      "text": "Aku sapu keliling kaki korang"
+    },
+    {
+      "t": 88.83,
+      "end": 93.17,
+      "text": "Esok pukul enam aku buka semula"
+    },
+    {
+      "t": 94.95,
+      "end": 94.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.95,
+      "end": 98.77,
+      "text": "Tauke dah balik dengan duit hari ni"
+    },
+    {
+      "t": 100.09,
+      "end": 104.03,
+      "text": "Roti canai sisa aku bungkus sendiri"
+    },
+    {
+      "t": 105.51,
+      "end": 114.45,
+      "text": "Korang tanya kenapa aku tak penat"
+    },
+    {
+      "t": 120.51,
+      "end": 124.47,
+      "text": "Aku senyum, aku dah lupa rasa"
+    },
+    {
+      "t": 126.27,
+      "end": 126.27,
+      "text": "[Chorus - fuzz guitars]"
+    },
+    {
+      "t": 126.27,
+      "end": 130.05,
+      "text": "Kerusi atas meja"
+    },
+    {
+      "t": 130.89,
+      "end": 134.99,
+      "text": "Semua dah naik, tinggal korang berdua"
+    },
+    {
+      "t": 136.95,
+      "end": 141.59,
+      "text": "Aku tutup separuh shutter dulu"
+    },
+    {
+      "t": 142.11,
+      "end": 167.96,
+      "text": "Korang tunduk keluar, jumpa esok pula"
+    },
+    {
+      "t": 176.06,
+      "end": 176.06,
+      "text": "[Outro - clean guitar, feedback]"
+    },
+    {
+      "t": 176.06,
+      "end": 179.2,
+      "text": "Kerusi atas meja"
+    },
+    {
+      "t": 181.16,
+      "end": 202.84,
+      "text": "Aku pun duduk sekejap"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Intro - clean arpeggio guitar]"
+    },
+    {
+      "t": 28.82,
+      "end": 28.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.82,
+      "end": 32.54,
+      "text": "Air paip dah basahkan selipar aku"
+    },
+    {
+      "t": 34.0,
+      "end": 38.1,
+      "text": "Kipas, lampu, aku tutup satu-satu"
+    },
+    {
+      "t": 39.56,
+      "end": 43.66,
+      "text": "Korang berdua masih kacau teh tarik"
+    },
+    {
+      "t": 44.52,
+      "end": 48.68,
+      "text": "Cerita yang sama dari pukul satu"
+    },
+    {
+      "t": 54.31,
+      "end": 54.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.31,
+      "end": 62.49,
+      "text": "Aku tak halau, aku cuma tunggu"
+    },
+    {
+      "t": 63.67,
+      "end": 63.67,
+      "text": "[Chorus - fuzz guitars]"
+    },
+    {
+      "t": 63.67,
+      "end": 66.45,
+      "text": "Kerusi atas meja"
+    },
+    {
+      "t": 67.29,
+      "end": 74.69,
+      "text": "Semua dah naik, tinggal korang berdua"
+    },
+    {
+      "t": 75.65,
+      "end": 88.67,
+      "text": "Aku sapu keliling kaki korang"
+    },
+    {
+      "t": 88.83,
+      "end": 93.17,
+      "text": "Esok pukul enam aku buka semula"
+    },
+    {
+      "t": 94.95,
+      "end": 94.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.95,
+      "end": 98.77,
+      "text": "Tauke dah balik dengan duit hari ni"
+    },
+    {
+      "t": 100.11,
+      "end": 104.05,
+      "text": "Roti canai sisa aku bungkus sendiri"
+    },
+    {
+      "t": 105.53,
+      "end": 114.45,
+      "text": "Korang tanya kenapa aku tak penat"
+    },
+    {
+      "t": 120.49,
+      "end": 124.49,
+      "text": "Aku senyum, aku dah lupa rasa"
+    },
+    {
+      "t": 126.29,
+      "end": 126.29,
+      "text": "[Chorus - fuzz guitars]"
+    },
+    {
+      "t": 126.29,
+      "end": 130.07,
+      "text": "Kerusi atas meja"
+    },
+    {
+      "t": 130.89,
+      "end": 135.01,
+      "text": "Semua dah naik, tinggal korang berdua"
+    },
+    {
+      "t": 136.97,
+      "end": 141.57,
+      "text": "Aku tutup separuh shutter dulu"
+    },
+    {
+      "t": 142.11,
+      "end": 165.68,
+      "text": "Korang tunduk keluar, jumpa esok pula"
+    },
+    {
+      "t": 176.08,
+      "end": 176.08,
+      "text": "[Outro - clean guitar, feedback]"
+    },
+    {
+      "t": 176.08,
+      "end": 179.2,
+      "text": "Kerusi atas meja"
+    },
+    {
+      "t": 181.16,
+      "end": 191.94,
+      "text": "Aku pun duduk sekejap"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

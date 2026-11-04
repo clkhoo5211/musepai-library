@@ -1,0 +1,337 @@
+{
+  "id": "b18_ja05",
+  "title": "押し入れの梅",
+  "title_source": "scripted",
+  "genre": "Japanese trip-hop downtempo",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "hushed, patient and a little funny",
+  "persona": "",
+  "subject": "a woman in a one-room apartment making umeboshi for the first time from a bag of supermarket ume, keeping the jar in the futon cupboard and opening it every night to check for mould, then drying the plums on her tiny balcony rail",
+  "caption": "Japanese trip-hop downtempo. Slow dusty breakbeat with a heavy kick and soft snare, deep round upright-style bass, mellow Rhodes electric piano chords, muted trumpet phrases, light vinyl crackle. Smoky late-night downtempo mix with tape warmth and wide reverb on the trumpet. Female mid-range voice, breathy and close, melody clearly sung. 84 BPM, C minor. Hushed, patient and a little funny. No rap, no autotune, no EDM drop, no trap hi-hats, no bright pop synths.",
+  "lyrics": "[Intro - Rhodes chords, vinyl crackle, breakbeat]\n\n[Verse 1]\nスーパーで見つけた 黄色い梅\n一キロだけ 買ってきた\n塩をまぶして 瓶に詰めて\n押し入れの 布団の横\n\n[Pre-Chorus]\n夜になると 気になって\nそっとふすまを 開けてみる\n\n[Chorus]\nカビてない? まだ大丈夫\n梅酢が少し 上がってる\nひとり暮らしの 押し入れで\n小さな瓶が 息をしてる\n\n[Verse 2]\n梅雨が明けたら ベランダへ\n手すりに並べた ざるひとつ\n三日三晩 お日さまの下\nしわしわになって 色づいてく\n\n[Pre-Chorus]\n隣の窓から 声がした\n「いい匂いね」って 言われた\n\n[Chorus]\nカビてない 大丈夫\nひと粒かじって 目をつぶる\nすっぱくて しょっぱくて\n来年はもう 二キロにしよう\n\n[Outro - muted trumpet, beat fades]\n押し入れはまた 空っぽになる\n布団の横が 少しさみしい",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Japanese trip-hop downtempo. Slow dusty breakbeat with a heavy kick and soft snare, deep round upright-style bass, mellow Rhodes electric piano chords, muted trumpet phrases, light vinyl crackle. Smoky late-night downtempo mix with tape warmth and wide reverb on the trumpet. Female mid-range voice, breathy and close, melody clearly sung. 84 BPM, C minor. Hushed, patient and a little funny. No rap, no autotune, no EDM drop, no trap hi-hats, no bright pop synths.",
+    "lyrics": "[Intro - Rhodes chords, vinyl crackle, breakbeat]\n\n[Verse 1]\nスーパーで見つけた 黄色い梅\n一キロだけ 買ってきた\n塩をまぶして 瓶に詰めて\n押し入れの 布団の横\n\n[Pre-Chorus]\n夜になると 気になって\nそっとふすまを 開けてみる\n\n[Chorus]\nカビてない? まだ大丈夫\n梅酢が少し 上がってる\nひとり暮らしの 押し入れで\n小さな瓶が 息をしてる\n\n[Verse 2]\n梅雨が明けたら ベランダへ\n手すりに並べた ざるひとつ\n三日三晩 お日さまの下\nしわしわになって 色づいてく\n\n[Pre-Chorus]\n隣の窓から 声がした\n「いい匂いね」って 言われた\n\n[Chorus]\nカビてない 大丈夫\nひと粒かじって 目をつぶる\nすっぱくて しょっぱくて\n来年はもう 二キロにしよう\n\n[Outro - muted trumpet, beat fades]\n押し入れはまた 空っぽになる\n布団の横が 少しさみしい"
+  },
+  "seed": "3699231941",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.28s**\n- 66.28s per song\n- LM phase (1 song): 17.08s\n- DiT phase (1 song): 49.20s",
+  "task_id": "3933cd5c-63ac-4009-8191-5fbcecb20d25",
+  "elapsed_s": 101.4,
+  "generated_at": "2026-11-04T16:24:40.160757+08:00",
+  "audio": "b18_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.08,
+      "end": 24.08,
+      "text": "[Intro - Rhodes chords, vinyl crackle, breakbeat]"
+    },
+    {
+      "t": 24.08,
+      "end": 24.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.08,
+      "end": 30.2,
+      "text": "スーパーで見つけた 黄色い梅"
+    },
+    {
+      "t": 30.4,
+      "end": 33.24,
+      "text": "一キロだけ 買ってきた"
+    },
+    {
+      "t": 36.1,
+      "end": 40.32,
+      "text": "塩をまぶして 瓶に詰めて"
+    },
+    {
+      "t": 41.46,
+      "end": 44.44,
+      "text": "押し入れの 布団の横"
+    },
+    {
+      "t": 45.96,
+      "end": 45.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.96,
+      "end": 50.31,
+      "text": "夜になると 気になって"
+    },
+    {
+      "t": 51.39,
+      "end": 55.35,
+      "text": "そっとふすまを 開けてみる"
+    },
+    {
+      "t": 57.01,
+      "end": 57.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.01,
+      "end": 60.55,
+      "text": "カビてない? まだ大丈夫"
+    },
+    {
+      "t": 65.59,
+      "end": 69.15,
+      "text": "梅酢が少し 上がってる"
+    },
+    {
+      "t": 71.57,
+      "end": 75.59,
+      "text": "ひとり暮らしの 押し入れで"
+    },
+    {
+      "t": 76.95,
+      "end": 80.65,
+      "text": "小さな瓶が 息をしてる"
+    },
+    {
+      "t": 83.05,
+      "end": 83.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.05,
+      "end": 85.89,
+      "text": "梅雨が明けたら ベランダへ"
+    },
+    {
+      "t": 85.93,
+      "end": 89.79,
+      "text": "手すりに並べた ざるひとつ"
+    },
+    {
+      "t": 91.87,
+      "end": 95.85,
+      "text": "三日三晩 お日さまの下"
+    },
+    {
+      "t": 97.15,
+      "end": 101.65,
+      "text": "しわしわになって 色づいてく"
+    },
+    {
+      "t": 102.29,
+      "end": 102.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.29,
+      "end": 107.45,
+      "text": "隣の窓から 声がした"
+    },
+    {
+      "t": 108.97,
+      "end": 113.15,
+      "text": "「いい匂いね」って 言われた"
+    },
+    {
+      "t": 115.71,
+      "end": 115.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.71,
+      "end": 118.37,
+      "text": "カビてない 大丈夫"
+    },
+    {
+      "t": 118.59,
+      "end": 121.43,
+      "text": "ひと粒かじって 目をつぶる"
+    },
+    {
+      "t": 121.79,
+      "end": 124.43,
+      "text": "すっぱくて しょっぱくて"
+    },
+    {
+      "t": 125.05,
+      "end": 130.11,
+      "text": "来年はもう 二キロにしよう"
+    },
+    {
+      "t": 131.99,
+      "end": 131.99,
+      "text": "[Outro - muted trumpet, beat fades]"
+    },
+    {
+      "t": 131.99,
+      "end": 160.76,
+      "text": "押し入れはまた 空っぽになる"
+    },
+    {
+      "t": 160.76,
+      "end": 189.36,
+      "text": "布団の横が 少しさみしい"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.08,
+      "end": 24.08,
+      "text": "[Intro - Rhodes chords, vinyl crackle, breakbeat]"
+    },
+    {
+      "t": 24.08,
+      "end": 24.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.08,
+      "end": 30.2,
+      "text": "スーパーで見つけた 黄色い梅"
+    },
+    {
+      "t": 30.4,
+      "end": 33.24,
+      "text": "一キロだけ 買ってきた"
+    },
+    {
+      "t": 36.12,
+      "end": 40.32,
+      "text": "塩をまぶして 瓶に詰めて"
+    },
+    {
+      "t": 41.46,
+      "end": 46.24,
+      "text": "押し入れの 布団の横"
+    },
+    {
+      "t": 46.46,
+      "end": 46.46,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.46,
+      "end": 50.31,
+      "text": "夜になると 気になって"
+    },
+    {
+      "t": 51.39,
+      "end": 55.33,
+      "text": "そっとふすまを 開けてみる"
+    },
+    {
+      "t": 57.03,
+      "end": 57.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.03,
+      "end": 60.53,
+      "text": "カビてない? まだ大丈夫"
+    },
+    {
+      "t": 65.59,
+      "end": 69.15,
+      "text": "梅酢が少し 上がってる"
+    },
+    {
+      "t": 71.59,
+      "end": 75.59,
+      "text": "ひとり暮らしの 押し入れで"
+    },
+    {
+      "t": 76.95,
+      "end": 80.65,
+      "text": "小さな瓶が 息をしてる"
+    },
+    {
+      "t": 83.05,
+      "end": 83.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.05,
+      "end": 85.91,
+      "text": "梅雨が明けたら ベランダへ"
+    },
+    {
+      "t": 85.93,
+      "end": 91.79,
+      "text": "手すりに並べた ざるひとつ"
+    },
+    {
+      "t": 91.89,
+      "end": 95.83,
+      "text": "三日三晩 お日さまの下"
+    },
+    {
+      "t": 97.15,
+      "end": 101.65,
+      "text": "しわしわになって 色づいてく"
+    },
+    {
+      "t": 103.91,
+      "end": 103.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.91,
+      "end": 107.47,
+      "text": "隣の窓から 声がした"
+    },
+    {
+      "t": 108.99,
+      "end": 113.15,
+      "text": "「いい匂いね」って 言われた"
+    },
+    {
+      "t": 115.71,
+      "end": 115.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.71,
+      "end": 118.63,
+      "text": "カビてない 大丈夫"
+    },
+    {
+      "t": 118.63,
+      "end": 121.43,
+      "text": "ひと粒かじって 目をつぶる"
+    },
+    {
+      "t": 121.79,
+      "end": 124.43,
+      "text": "すっぱくて しょっぱくて"
+    },
+    {
+      "t": 125.05,
+      "end": 127.89,
+      "text": "来年はもう 二キロにしよう"
+    },
+    {
+      "t": 128.59,
+      "end": 128.59,
+      "text": "[Outro - muted trumpet, beat fades]"
+    },
+    {
+      "t": 128.59,
+      "end": 160.76,
+      "text": "押し入れはまた 空っぽになる"
+    },
+    {
+      "t": 160.76,
+      "end": 165.28,
+      "text": "布団の横が 少しさみしい"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

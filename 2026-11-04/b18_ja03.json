@@ -1,0 +1,489 @@
+{
+  "id": "b18_ja03",
+  "title": "つり革なしのステップ",
+  "title_source": "scripted",
+  "genre": "Japanese disco-kayo dance pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bouncy, deadpan and proud",
+  "persona": "",
+  "subject": "a salaryman on a seventy-minute standing commute who never gets a strap, so he trains himself to ride the brakes and curves of the line with his knees like a disco step, and one day a schoolkid copies him",
+  "caption": "Japanese disco-kayo dance pop in the style of the 2024-2025 Showa-revival viral hits. Four-on-the-floor disco drums with open hi-hat, octave-jumping slap bass, punchy trumpet and trombone section stabs, sweeping string section swells, wah-wah rhythm guitar. Glossy 70s disco meets kayokyoku mix, bright brass, plate reverb on the vocal. Male tenor with a crisp Showa crooner delivery, melody clearly sung. 110 BPM, G major. Bouncy, deadpan and proud. No rap, no autotune, no EDM synths, no trap beat, no rock distortion. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+  "lyrics": "[Intro - strings swell, brass stab, disco drums]\n\n[Verse 1]\n七時十二分 いつもの車両\nつり革なんて 空いてない\n七十分 立ちっぱなし\nひざで覚えた このカーブ\n\n[Pre-Chorus]\n次はブレーキ 体を引いて\n次は右へ 半歩だけ\n\n[Chorus]\nつり革なしの ステップで\n揺れに合わせて 踊るのさ\nカバンは胸に 背筋は伸ばし\n今日も倒れず 東京まで\n\n[Verse 2]\nランドセルの子が 隣に立つ\nちらっと見ては まねをする\n急カーブでも ふたり無言\n同じタイミングで 足を出す\n\n[Pre-Chorus]\n降りる駅で 目が合った\n小さくうなずく 師匠と弟子\n\n[Chorus]\nつり革なしの ステップで\nふたり並んで 踊るのさ\n誰も知らない ダンスホール\n今日も倒れず 東京まで\n\n[Outro - brass and strings, drums stop]\n明日も七時 十二分\n弟子の場所は 空けておく",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 110,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese disco-kayo dance pop in the style of the 2024-2025 Showa-revival viral hits. Four-on-the-floor disco drums with open hi-hat, octave-jumping slap bass, punchy trumpet and trombone section stabs, sweeping string section swells, wah-wah rhythm guitar. Glossy 70s disco meets kayokyoku mix, bright brass, plate reverb on the vocal. Male tenor with a crisp Showa crooner delivery, melody clearly sung. 110 BPM, G major. Bouncy, deadpan and proud. No rap, no autotune, no EDM synths, no trap beat, no rock distortion. Clear full voice, every word enunciated, steady sung melody on every line, no rapping, no whispering.",
+    "lyrics": "[Intro - strings swell, brass stab, disco drums]\n\n[Verse 1]\n七時十二分 いつもの車両\nつり革なんて 空いてない\n七十分 立ちっぱなし\nひざで覚えた このカーブ\n\n[Pre-Chorus]\n次はブレーキ 体を引いて\n次は右へ 半歩だけ\n\n[Chorus]\nつり革なしの ステップで\n揺れに合わせて 踊るのさ\nカバンは胸に 背筋は伸ばし\n今日も倒れず 東京まで\n\n[Verse 2]\nランドセルの子が 隣に立つ\nちらっと見ては まねをする\n急カーブでも ふたり無言\n同じタイミングで 足を出す\n\n[Pre-Chorus]\n降りる駅で 目が合った\n小さくうなずく 師匠と弟子\n\n[Chorus]\nつり革なしの ステップで\nふたり並んで 踊るのさ\n誰も知らない ダンスホール\n今日も倒れず 東京まで\n\n[Outro - brass and strings, drums stop]\n明日も七時 十二分\n弟子の場所は 空けておく"
+  },
+  "seed": "1947965303",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.41s**\n- 55.41s per song\n- LM phase (1 song): 9.36s\n- DiT phase (1 song): 46.05s",
+  "task_id": "8ded004b-c042-46d7-a9e7-d5baeac546b2",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-04T22:26:05.614272+08:00",
+  "audio": "b18_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.02,
+      "end": 24.02,
+      "text": "[Intro - strings swell, brass stab, disco drums]"
+    },
+    {
+      "t": 24.02,
+      "end": 24.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.02,
+      "end": 30.06,
+      "text": "七時十二分 いつもの車両"
+    },
+    {
+      "t": 30.16,
+      "end": 35.5,
+      "text": "つり革なんて 空いてない"
+    },
+    {
+      "t": 36.12,
+      "end": 40.9,
+      "text": "七十分 立ちっぱなし"
+    },
+    {
+      "t": 43.46,
+      "end": 47.76,
+      "text": "ひざで覚えた このカーブ"
+    },
+    {
+      "t": 47.9,
+      "end": 47.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.9,
+      "end": 51.21,
+      "text": "次はブレーキ 体を引いて"
+    },
+    {
+      "t": 51.35,
+      "end": 55.17,
+      "text": "次は右へ 半歩だけ"
+    },
+    {
+      "t": 56.55,
+      "end": 56.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.55,
+      "end": 62.07,
+      "text": "つり革なしの ステップで"
+    },
+    {
+      "t": 64.17,
+      "end": 67.71,
+      "text": "揺れに合わせて 踊るのさ"
+    },
+    {
+      "t": 68.09,
+      "end": 71.89,
+      "text": "カバンは胸に 背筋は伸ばし"
+    },
+    {
+      "t": 72.49,
+      "end": 76.71,
+      "text": "今日も倒れず 東京まで"
+    },
+    {
+      "t": 76.71,
+      "end": 76.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.71,
+      "end": 78.29,
+      "text": "ランドセルの子が 隣に立つ"
+    },
+    {
+      "t": 78.59,
+      "end": 92.59,
+      "text": "ちらっと見ては まねをする"
+    },
+    {
+      "t": 92.95,
+      "end": 94.09,
+      "text": "急カーブでも ふたり無言"
+    },
+    {
+      "t": 94.09,
+      "end": 95.45,
+      "text": "同じタイミングで 足を出す"
+    },
+    {
+      "t": 95.45,
+      "end": 95.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.45,
+      "end": 96.51,
+      "text": "降りる駅で 目が合った"
+    },
+    {
+      "t": 96.63,
+      "end": 97.67,
+      "text": "小さくうなずく 師匠と弟子"
+    },
+    {
+      "t": 97.67,
+      "end": 97.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.67,
+      "end": 98.47,
+      "text": "つり革なしの ステップで"
+    },
+    {
+      "t": 98.49,
+      "end": 112.79,
+      "text": "ふたり並んで 踊るのさ"
+    },
+    {
+      "t": 117.59,
+      "end": 145.97,
+      "text": "誰も知らない ダンスホール"
+    },
+    {
+      "t": 145.97,
+      "end": 149.0,
+      "text": "今日も倒れず 東京まで"
+    },
+    {
+      "t": 154.36,
+      "end": 154.36,
+      "text": "[Outro - brass and strings, drums stop]"
+    },
+    {
+      "t": 154.36,
+      "end": 157.08,
+      "text": "明日も七時 十二分"
+    },
+    {
+      "t": 157.26,
+      "end": 166.02,
+      "text": "弟子の場所は 空けておく"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.02,
+      "end": 24.02,
+      "text": "[Intro - strings swell, brass stab, disco drums]"
+    },
+    {
+      "t": 24.02,
+      "end": 24.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.02,
+      "end": 30.06,
+      "text": "七時十二分 いつもの車両"
+    },
+    {
+      "t": 30.16,
+      "end": 35.5,
+      "text": "つり革なんて 空いてない"
+    },
+    {
+      "t": 36.12,
+      "end": 40.9,
+      "text": "七十分 立ちっぱなし"
+    },
+    {
+      "t": 43.46,
+      "end": 47.76,
+      "text": "ひざで覚えた このカーブ"
+    },
+    {
+      "t": 47.9,
+      "end": 47.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.9,
+      "end": 51.21,
+      "text": "次はブレーキ 体を引いて"
+    },
+    {
+      "t": 51.35,
+      "end": 55.17,
+      "text": "次は右へ 半歩だけ"
+    },
+    {
+      "t": 56.55,
+      "end": 56.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.55,
+      "end": 62.07,
+      "text": "つり革なしの ステップで"
+    },
+    {
+      "t": 64.17,
+      "end": 67.71,
+      "text": "揺れに合わせて 踊るのさ"
+    },
+    {
+      "t": 68.09,
+      "end": 71.89,
+      "text": "カバンは胸に 背筋は伸ばし"
+    },
+    {
+      "t": 72.49,
+      "end": 76.71,
+      "text": "今日も倒れず 東京まで"
+    },
+    {
+      "t": 76.71,
+      "end": 76.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.71,
+      "end": 78.29,
+      "text": "ランドセルの子が 隣に立つ"
+    },
+    {
+      "t": 78.59,
+      "end": 92.59,
+      "text": "ちらっと見ては まねをする"
+    },
+    {
+      "t": 92.95,
+      "end": 94.09,
+      "text": "急カーブでも ふたり無言"
+    },
+    {
+      "t": 94.09,
+      "end": 95.45,
+      "text": "同じタイミングで 足を出す"
+    },
+    {
+      "t": 95.45,
+      "end": 95.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.45,
+      "end": 96.51,
+      "text": "降りる駅で 目が合った"
+    },
+    {
+      "t": 96.63,
+      "end": 97.67,
+      "text": "小さくうなずく 師匠と弟子"
+    },
+    {
+      "t": 97.67,
+      "end": 97.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.67,
+      "end": 98.47,
+      "text": "つり革なしの ステップで"
+    },
+    {
+      "t": 98.49,
+      "end": 112.79,
+      "text": "ふたり並んで 踊るのさ"
+    },
+    {
+      "t": 117.59,
+      "end": 145.97,
+      "text": "誰も知らない ダンスホール"
+    },
+    {
+      "t": 145.97,
+      "end": 149.0,
+      "text": "今日も倒れず 東京まで"
+    },
+    {
+      "t": 154.36,
+      "end": 154.36,
+      "text": "[Outro - brass and strings, drums stop]"
+    },
+    {
+      "t": 154.36,
+      "end": 157.08,
+      "text": "明日も七時 十二分"
+    },
+    {
+      "t": 157.26,
+      "end": 166.02,
+      "text": "弟子の場所は 空けておく"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 22.4,
+      "end": 22.4,
+      "text": "[Intro - strings swell, brass stab, disco drums]"
+    },
+    {
+      "t": 22.4,
+      "end": 22.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.4,
+      "end": 25.62,
+      "text": "七時十二分 いつもの車両"
+    },
+    {
+      "t": 26.14,
+      "end": 30.08,
+      "text": "つり革なんて 空いてない"
+    },
+    {
+      "t": 30.8,
+      "end": 34.04,
+      "text": "七十分 立ちっぱなし"
+    },
+    {
+      "t": 35.14,
+      "end": 40.32,
+      "text": "ひざで覚えた このカーブ"
+    },
+    {
+      "t": 41.96,
+      "end": 41.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.96,
+      "end": 51.51,
+      "text": "次はブレーキ 体を引いて"
+    },
+    {
+      "t": 52.61,
+      "end": 55.89,
+      "text": "次は右へ 半歩だけ"
+    },
+    {
+      "t": 56.95,
+      "end": 56.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.95,
+      "end": 60.27,
+      "text": "つり革なしの ステップで"
+    },
+    {
+      "t": 61.33,
+      "end": 63.63,
+      "text": "揺れに合わせて 踊るのさ"
+    },
+    {
+      "t": 63.79,
+      "end": 67.91,
+      "text": "カバンは胸に 背筋は伸ばし"
+    },
+    {
+      "t": 67.91,
+      "end": 76.53,
+      "text": "今日も倒れず 東京まで"
+    },
+    {
+      "t": 79.25,
+      "end": 79.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.25,
+      "end": 82.07,
+      "text": "ランドセルの子が 隣に立つ"
+    },
+    {
+      "t": 82.09,
+      "end": 84.95,
+      "text": "ちらっと見ては まねをする"
+    },
+    {
+      "t": 87.95,
+      "end": 90.67,
+      "text": "急カーブでも ふたり無言"
+    },
+    {
+      "t": 90.83,
+      "end": 93.63,
+      "text": "同じタイミングで 足を出す"
+    },
+    {
+      "t": 93.67,
+      "end": 93.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.67,
+      "end": 96.73,
+      "text": "降りる駅で 目が合った"
+    },
+    {
+      "t": 105.15,
+      "end": 111.85,
+      "text": "小さくうなずく 師匠と弟子"
+    },
+    {
+      "t": 113.57,
+      "end": 113.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.57,
+      "end": 116.91,
+      "text": "つり革なしの ステップで"
+    },
+    {
+      "t": 117.73,
+      "end": 121.25,
+      "text": "ふたり並んで 踊るのさ"
+    },
+    {
+      "t": 122.35,
+      "end": 126.01,
+      "text": "誰も知らない ダンスホール"
+    },
+    {
+      "t": 126.57,
+      "end": 131.07,
+      "text": "今日も倒れず 東京まで"
+    },
+    {
+      "t": 140.33,
+      "end": 140.33,
+      "text": "[Outro - brass and strings, drums stop]"
+    },
+    {
+      "t": 140.33,
+      "end": 144.81,
+      "text": "明日も七時 十二分"
+    },
+    {
+      "t": 144.83,
+      "end": 153.86,
+      "text": "弟子の場所は 空けておく"
+    }
+  ]
+}

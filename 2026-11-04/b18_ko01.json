@@ -1,0 +1,444 @@
+{
+  "id": "b18_ko01",
+  "title": "양머리 백일",
+  "title_source": "scripted",
+  "genre": "Korean 90s-style acoustic gayo duet",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm, shy, giggly love song",
+  "persona": "",
+  "subject": "a young couple spending their hundredth-day night at a neighbourhood jjimjilbang in matching orange uniforms, where she ties his towel into a sheep-head and they split one baked egg and a can of sikhye on the heated floor",
+  "caption": "Korean 90s-style acoustic gayo duet, mid-90s Seoul love-ballad style. Nylon-string acoustic guitar arpeggios, warm Rhodes electric piano chords, soft brushed snare, round fretless bass slides. Warm analog 1990s mix with light plate reverb. Male and female duet, clearly sung melody, gentle mid register, trading verses and harmonising on the chorus. 76 BPM, D major. Shy, giggly, tender. No trap drums, no autotune, no EDM synths, no rap, no orchestral swell.",
+  "lyrics": "[Intro - nylon guitar, Rhodes]\n\n[Verse 1]\n똑같은 주황 옷 입고\n뜨끈한 바닥에 앉아\n수건을 돌돌 말아서\n네 머리에 양을 만들어\n\n[Pre-Chorus]\n웃지 마 진짜 귀엽단 말야\n거울 좀 봐 우리 둘\n\n[Chorus]\n오늘이 우리 백 일\n구운 달걀 하나 반씩\n식혜 한 캔 나눠 마시고\n네 옆이 제일 따뜻해\n\n[Verse 2]\n껍질은 내가 깔게\n소금 찍어 건네줄게\n불가마 앞 모래시계\n다 내려가도 안 일어나\n\n[Chorus]\n오늘이 우리 백 일\n양머리 두 개 나란히\n식혜 한 캔 비워 갈 때\n네 옆이 제일 따뜻해\n\n[Outro - guitar, brushed drums fade]\n내일 아침에도\n수건 말아 줄래",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean 90s-style acoustic gayo duet, mid-90s Seoul love-ballad style. Nylon-string acoustic guitar arpeggios, warm Rhodes electric piano chords, soft brushed snare, round fretless bass slides. Warm analog 1990s mix with light plate reverb. Male and female duet, clearly sung melody, gentle mid register, trading verses and harmonising on the chorus. 76 BPM, D major. Shy, giggly, tender. No trap drums, no autotune, no EDM synths, no rap, no orchestral swell.",
+    "lyrics": "[Intro - nylon guitar, Rhodes]\n\n[Verse 1]\n똑같은 주황 옷 입고\n뜨끈한 바닥에 앉아\n수건을 돌돌 말아서\n네 머리에 양을 만들어\n\n[Pre-Chorus]\n웃지 마 진짜 귀엽단 말야\n거울 좀 봐 우리 둘\n\n[Chorus]\n오늘이 우리 백 일\n구운 달걀 하나 반씩\n식혜 한 캔 나눠 마시고\n네 옆이 제일 따뜻해\n\n[Verse 2]\n껍질은 내가 깔게\n소금 찍어 건네줄게\n불가마 앞 모래시계\n다 내려가도 안 일어나\n\n[Chorus]\n오늘이 우리 백 일\n양머리 두 개 나란히\n식혜 한 캔 비워 갈 때\n네 옆이 제일 따뜻해\n\n[Outro - guitar, brushed drums fade]\n내일 아침에도\n수건 말아 줄래"
+  },
+  "seed": "193731946",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.18s**\n- 70.18s per song\n- LM phase (1 song): 19.61s\n- DiT phase (1 song): 50.57s",
+  "task_id": "b8fe0431-5abd-4a43-b643-4d19ecc50d89",
+  "elapsed_s": 100.8,
+  "generated_at": "2026-11-04T17:19:36.950682+08:00",
+  "audio": "b18_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 43.78,
+      "end": 43.78,
+      "text": "[Intro - nylon guitar, Rhodes]"
+    },
+    {
+      "t": 43.78,
+      "end": 43.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.78,
+      "end": 44.82,
+      "text": "똑같은 주황 옷 입고"
+    },
+    {
+      "t": 45.4,
+      "end": 46.2,
+      "text": "뜨끈한 바닥에 앉아"
+    },
+    {
+      "t": 46.22,
+      "end": 47.64,
+      "text": "수건을 돌돌 말아서"
+    },
+    {
+      "t": 47.64,
+      "end": 49.98,
+      "text": "네 머리에 양을 만들어"
+    },
+    {
+      "t": 49.98,
+      "end": 49.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.98,
+      "end": 51.39,
+      "text": "웃지 마 진짜 귀엽단 말야"
+    },
+    {
+      "t": 51.39,
+      "end": 59.99,
+      "text": "거울 좀 봐 우리 둘"
+    },
+    {
+      "t": 60.11,
+      "end": 60.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.11,
+      "end": 64.41,
+      "text": "오늘이 우리 백 일"
+    },
+    {
+      "t": 64.71,
+      "end": 66.99,
+      "text": "구운 달걀 하나 반씩"
+    },
+    {
+      "t": 67.85,
+      "end": 71.09,
+      "text": "식혜 한 캔 나눠 마시고"
+    },
+    {
+      "t": 71.17,
+      "end": 72.83,
+      "text": "네 옆이 제일 따뜻해"
+    },
+    {
+      "t": 74.41,
+      "end": 74.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.41,
+      "end": 77.37,
+      "text": "껍질은 내가 깔게"
+    },
+    {
+      "t": 80.11,
+      "end": 83.79,
+      "text": "소금 찍어 건네줄게"
+    },
+    {
+      "t": 85.77,
+      "end": 90.01,
+      "text": "불가마 앞 모래시계"
+    },
+    {
+      "t": 92.37,
+      "end": 96.67,
+      "text": "다 내려가도 안 일어나"
+    },
+    {
+      "t": 98.07,
+      "end": 98.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.07,
+      "end": 99.67,
+      "text": "오늘이 우리 백 일"
+    },
+    {
+      "t": 99.71,
+      "end": 148.63,
+      "text": "양머리 두 개 나란히"
+    },
+    {
+      "t": 148.63,
+      "end": 155.14,
+      "text": "식혜 한 캔 비워 갈 때"
+    },
+    {
+      "t": 155.16,
+      "end": 159.48,
+      "text": "네 옆이 제일 따뜻해"
+    },
+    {
+      "t": 159.48,
+      "end": 159.48,
+      "text": "[Outro - guitar, brushed drums fade]"
+    },
+    {
+      "t": 159.48,
+      "end": 161.74,
+      "text": "내일 아침에도"
+    },
+    {
+      "t": 165.76,
+      "end": 168.04,
+      "text": "수건 말아 줄래"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 43.78,
+      "end": 43.78,
+      "text": "[Intro - nylon guitar, Rhodes]"
+    },
+    {
+      "t": 43.78,
+      "end": 43.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 43.78,
+      "end": 44.82,
+      "text": "똑같은 주황 옷 입고"
+    },
+    {
+      "t": 45.4,
+      "end": 46.2,
+      "text": "뜨끈한 바닥에 앉아"
+    },
+    {
+      "t": 46.24,
+      "end": 47.64,
+      "text": "수건을 돌돌 말아서"
+    },
+    {
+      "t": 47.64,
+      "end": 49.98,
+      "text": "네 머리에 양을 만들어"
+    },
+    {
+      "t": 49.98,
+      "end": 49.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.98,
+      "end": 51.39,
+      "text": "웃지 마 진짜 귀엽단 말야"
+    },
+    {
+      "t": 51.39,
+      "end": 59.99,
+      "text": "거울 좀 봐 우리 둘"
+    },
+    {
+      "t": 60.11,
+      "end": 60.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.11,
+      "end": 64.41,
+      "text": "오늘이 우리 백 일"
+    },
+    {
+      "t": 64.71,
+      "end": 66.99,
+      "text": "구운 달걀 하나 반씩"
+    },
+    {
+      "t": 67.85,
+      "end": 71.09,
+      "text": "식혜 한 캔 나눠 마시고"
+    },
+    {
+      "t": 71.17,
+      "end": 72.83,
+      "text": "네 옆이 제일 따뜻해"
+    },
+    {
+      "t": 74.41,
+      "end": 74.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.41,
+      "end": 77.37,
+      "text": "껍질은 내가 깔게"
+    },
+    {
+      "t": 80.11,
+      "end": 83.79,
+      "text": "소금 찍어 건네줄게"
+    },
+    {
+      "t": 85.77,
+      "end": 90.01,
+      "text": "불가마 앞 모래시계"
+    },
+    {
+      "t": 92.37,
+      "end": 96.67,
+      "text": "다 내려가도 안 일어나"
+    },
+    {
+      "t": 98.15,
+      "end": 98.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.15,
+      "end": 99.95,
+      "text": "오늘이 우리 백 일"
+    },
+    {
+      "t": 99.95,
+      "end": 148.63,
+      "text": "양머리 두 개 나란히"
+    },
+    {
+      "t": 148.63,
+      "end": 155.14,
+      "text": "식혜 한 캔 비워 갈 때"
+    },
+    {
+      "t": 155.16,
+      "end": 159.48,
+      "text": "네 옆이 제일 따뜻해"
+    },
+    {
+      "t": 159.48,
+      "end": 159.48,
+      "text": "[Outro - guitar, brushed drums fade]"
+    },
+    {
+      "t": 159.48,
+      "end": 161.74,
+      "text": "내일 아침에도"
+    },
+    {
+      "t": 165.76,
+      "end": 168.04,
+      "text": "수건 말아 줄래"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 34.38,
+      "end": 34.38,
+      "text": "[Intro - nylon guitar, Rhodes]"
+    },
+    {
+      "t": 34.38,
+      "end": 34.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.38,
+      "end": 45.88,
+      "text": "똑같은 주황 옷 입고"
+    },
+    {
+      "t": 45.9,
+      "end": 48.72,
+      "text": "뜨끈한 바닥에 앉아"
+    },
+    {
+      "t": 50.07,
+      "end": 51.87,
+      "text": "수건을 돌돌 말아서"
+    },
+    {
+      "t": 51.87,
+      "end": 61.05,
+      "text": "네 머리에 양을 만들어"
+    },
+    {
+      "t": 61.27,
+      "end": 61.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.27,
+      "end": 62.45,
+      "text": "웃지 마 진짜 귀엽단 말야"
+    },
+    {
+      "t": 62.57,
+      "end": 65.23,
+      "text": "거울 좀 봐 우리 둘"
+    },
+    {
+      "t": 65.23,
+      "end": 65.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.23,
+      "end": 65.55,
+      "text": "오늘이 우리 백 일"
+    },
+    {
+      "t": 65.55,
+      "end": 66.97,
+      "text": "구운 달걀 하나 반씩"
+    },
+    {
+      "t": 67.85,
+      "end": 71.09,
+      "text": "식혜 한 캔 나눠 마시고"
+    },
+    {
+      "t": 71.17,
+      "end": 72.83,
+      "text": "네 옆이 제일 따뜻해"
+    },
+    {
+      "t": 74.41,
+      "end": 74.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.41,
+      "end": 77.37,
+      "text": "껍질은 내가 깔게"
+    },
+    {
+      "t": 80.11,
+      "end": 83.79,
+      "text": "소금 찍어 건네줄게"
+    },
+    {
+      "t": 85.77,
+      "end": 90.01,
+      "text": "불가마 앞 모래시계"
+    },
+    {
+      "t": 92.37,
+      "end": 96.67,
+      "text": "다 내려가도 안 일어나"
+    },
+    {
+      "t": 98.17,
+      "end": 98.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.17,
+      "end": 101.35,
+      "text": "오늘이 우리 백 일"
+    },
+    {
+      "t": 102.01,
+      "end": 148.63,
+      "text": "양머리 두 개 나란히"
+    },
+    {
+      "t": 148.63,
+      "end": 154.74,
+      "text": "식혜 한 캔 비워 갈 때"
+    },
+    {
+      "t": 154.78,
+      "end": 156.92,
+      "text": "네 옆이 제일 따뜻해"
+    },
+    {
+      "t": 159.44,
+      "end": 159.44,
+      "text": "[Outro - guitar, brushed drums fade]"
+    },
+    {
+      "t": 159.44,
+      "end": 161.74,
+      "text": "내일 아침에도"
+    },
+    {
+      "t": 165.76,
+      "end": 176.62,
+      "text": "수건 말아 줄래"
+    }
+  ]
+}

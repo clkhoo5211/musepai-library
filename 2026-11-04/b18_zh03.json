@@ -1,0 +1,327 @@
+{
+  "id": "b18_zh03",
+  "title": "四張票四節車",
+  "title_source": "scripted",
+  "genre": "Mandarin gypsy jazz",
+  "language": "zh",
+  "language_name": "Mandarin Chinese",
+  "mood": "frantic, cheeky and good-humoured",
+  "persona": "",
+  "subject": "four friends who book overnight sleeper-train tickets in one rush and discover they are spread over four different carriages, then spend the whole night swapping bunks with strangers one carriage at a time, until by morning they are together but the strangers are scattered",
+  "caption": "Mandarin gypsy jazz, Django-style hot club swing. Lead manouche guitar with fast arpeggio runs, la pompe rhythm guitar chopping on the offbeat, walking upright bass, swing violin answering the vocal, clarinet doubling the chorus melody. Live-room acoustic recording with close mics and no drum kit. Female mezzo, quick and witty, melody clearly sung. 176 BPM, D minor. Frantic, cheeky and good-humoured. No electronic beats, no autotune, no pop drums, no electric guitar, no rap.",
+  "lyrics": "[Intro - manouche guitar run and violin]\n\n[Verse 1]\n搶票那晚 四個人一起按\n四張臥鋪 全都搶到了\n上車一看 我在第三節\n她們分在 五七九節\n\n[Pre-Chorus]\n提著泡麵 敲敲門\n阿伯阿伯 換個位好嗎\n\n[Chorus]\n四張票 四節車\n一整夜 走來走去\n上鋪換中鋪 中鋪換下鋪\n大家都說 好啦好啦\n\n[Verse 2]\n凌晨兩點 換到第六節\n抱著枕頭 踩到誰的腳\n有位阿姨 換了三次\n最後睡在 車廂最尾\n\n[Pre-Chorus]\n天亮廣播 快到站了\n我們四個 擠在同一間\n\n[Chorus]\n四張票 一節車\n終於擠在 一起了\n阿伯阿姨 在哪節\n下車時 對我們揮手\n\n[Outro - violin and clarinet unison]\n下次訂票 誰也別按",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 176,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Mandarin gypsy jazz, Django-style hot club swing. Lead manouche guitar with fast arpeggio runs, la pompe rhythm guitar chopping on the offbeat, walking upright bass, swing violin answering the vocal, clarinet doubling the chorus melody. Live-room acoustic recording with close mics and no drum kit. Female mezzo, quick and witty, melody clearly sung. 176 BPM, D minor. Frantic, cheeky and good-humoured. No electronic beats, no autotune, no pop drums, no electric guitar, no rap.",
+    "lyrics": "[Intro - manouche guitar run and violin]\n\n[Verse 1]\n搶票那晚 四個人一起按\n四張臥鋪 全都搶到了\n上車一看 我在第三節\n她們分在 五七九節\n\n[Pre-Chorus]\n提著泡麵 敲敲門\n阿伯阿伯 換個位好嗎\n\n[Chorus]\n四張票 四節車\n一整夜 走來走去\n上鋪換中鋪 中鋪換下鋪\n大家都說 好啦好啦\n\n[Verse 2]\n凌晨兩點 換到第六節\n抱著枕頭 踩到誰的腳\n有位阿姨 換了三次\n最後睡在 車廂最尾\n\n[Pre-Chorus]\n天亮廣播 快到站了\n我們四個 擠在同一間\n\n[Chorus]\n四張票 一節車\n終於擠在 一起了\n阿伯阿姨 在哪節\n下車時 對我們揮手\n\n[Outro - violin and clarinet unison]\n下次訂票 誰也別按"
+  },
+  "seed": "860251350",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.94s**\n- 74.94s per song\n- LM phase (1 song): 15.27s\n- DiT phase (1 song): 59.67s",
+  "task_id": "540600ae-f509-4b0b-8d49-10090e3b375e",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-04T17:31:59.361085+08:00",
+  "audio": "b18_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.16,
+      "end": 23.16,
+      "text": "[Intro - manouche guitar run and violin]"
+    },
+    {
+      "t": 23.16,
+      "end": 23.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.16,
+      "end": 27.4,
+      "text": "搶票那晚 四個人一起按"
+    },
+    {
+      "t": 28.78,
+      "end": 32.64,
+      "text": "四張臥鋪 全都搶到了"
+    },
+    {
+      "t": 33.96,
+      "end": 37.66,
+      "text": "上車一看 我在第三節"
+    },
+    {
+      "t": 39.54,
+      "end": 43.08,
+      "text": "她們分在 五七九節"
+    },
+    {
+      "t": 45.12,
+      "end": 45.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.12,
+      "end": 48.63,
+      "text": "提著泡麵 敲敲門"
+    },
+    {
+      "t": 50.61,
+      "end": 54.07,
+      "text": "阿伯阿伯 換個位好嗎"
+    },
+    {
+      "t": 55.95,
+      "end": 55.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.95,
+      "end": 57.79,
+      "text": "四張票 四節車"
+    },
+    {
+      "t": 57.89,
+      "end": 59.55,
+      "text": "一整夜 走來走去"
+    },
+    {
+      "t": 61.09,
+      "end": 65.01,
+      "text": "上鋪換中鋪 中鋪換下鋪"
+    },
+    {
+      "t": 65.59,
+      "end": 67.81,
+      "text": "大家都說 好啦好啦"
+    },
+    {
+      "t": 88.71,
+      "end": 88.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.71,
+      "end": 96.87,
+      "text": "凌晨兩點 換到第六節"
+    },
+    {
+      "t": 96.87,
+      "end": 99.17,
+      "text": "抱著枕頭 踩到誰的腳"
+    },
+    {
+      "t": 99.17,
+      "end": 100.73,
+      "text": "有位阿姨 換了三次"
+    },
+    {
+      "t": 100.73,
+      "end": 102.53,
+      "text": "最後睡在 車廂最尾"
+    },
+    {
+      "t": 102.63,
+      "end": 102.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.63,
+      "end": 113.91,
+      "text": "天亮廣播 快到站了"
+    },
+    {
+      "t": 113.91,
+      "end": 114.99,
+      "text": "我們四個 擠在同一間"
+    },
+    {
+      "t": 114.99,
+      "end": 114.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.99,
+      "end": 116.45,
+      "text": "四張票 一節車"
+    },
+    {
+      "t": 116.55,
+      "end": 119.41,
+      "text": "終於擠在 一起了"
+    },
+    {
+      "t": 120.55,
+      "end": 122.51,
+      "text": "阿伯阿姨 在哪節"
+    },
+    {
+      "t": 125.05,
+      "end": 127.77,
+      "text": "下車時 對我們揮手"
+    },
+    {
+      "t": 137.77,
+      "end": 137.77,
+      "text": "[Outro - violin and clarinet unison]"
+    },
+    {
+      "t": 137.77,
+      "end": 171.04,
+      "text": "下次訂票 誰也別按"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.14,
+      "end": 23.14,
+      "text": "[Intro - manouche guitar run and violin]"
+    },
+    {
+      "t": 23.14,
+      "end": 23.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.14,
+      "end": 27.44,
+      "text": "搶票那晚 四個人一起按"
+    },
+    {
+      "t": 29.12,
+      "end": 32.64,
+      "text": "四張臥鋪 全都搶到了"
+    },
+    {
+      "t": 33.96,
+      "end": 37.84,
+      "text": "上車一看 我在第三節"
+    },
+    {
+      "t": 39.54,
+      "end": 43.08,
+      "text": "她們分在 五七九節"
+    },
+    {
+      "t": 45.12,
+      "end": 45.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.12,
+      "end": 48.65,
+      "text": "提著泡麵 敲敲門"
+    },
+    {
+      "t": 50.61,
+      "end": 54.07,
+      "text": "阿伯阿伯 換個位好嗎"
+    },
+    {
+      "t": 55.95,
+      "end": 55.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.95,
+      "end": 57.81,
+      "text": "四張票 四節車"
+    },
+    {
+      "t": 57.89,
+      "end": 59.55,
+      "text": "一整夜 走來走去"
+    },
+    {
+      "t": 61.09,
+      "end": 65.01,
+      "text": "上鋪換中鋪 中鋪換下鋪"
+    },
+    {
+      "t": 65.59,
+      "end": 67.81,
+      "text": "大家都說 好啦好啦"
+    },
+    {
+      "t": 67.81,
+      "end": 67.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.81,
+      "end": 97.33,
+      "text": "凌晨兩點 換到第六節"
+    },
+    {
+      "t": 100.37,
+      "end": 115.17,
+      "text": "抱著枕頭 踩到誰的腳"
+    },
+    {
+      "t": 115.37,
+      "end": 116.39,
+      "text": "有位阿姨 換了三次"
+    },
+    {
+      "t": 116.39,
+      "end": 120.21,
+      "text": "最後睡在 車廂最尾"
+    },
+    {
+      "t": 120.23,
+      "end": 120.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 120.23,
+      "end": 121.23,
+      "text": "天亮廣播 快到站了"
+    },
+    {
+      "t": 121.23,
+      "end": 121.85,
+      "text": "我們四個 擠在同一間"
+    },
+    {
+      "t": 121.87,
+      "end": 121.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.87,
+      "end": 122.31,
+      "text": "四張票 一節車"
+    },
+    {
+      "t": 122.31,
+      "end": 123.57,
+      "text": "終於擠在 一起了"
+    },
+    {
+      "t": 123.67,
+      "end": 125.49,
+      "text": "阿伯阿姨 在哪節"
+    },
+    {
+      "t": 125.49,
+      "end": 127.81,
+      "text": "下車時 對我們揮手"
+    },
+    {
+      "t": 137.77,
+      "end": 137.77,
+      "text": "[Outro - violin and clarinet unison]"
+    },
+    {
+      "t": 137.77,
+      "end": 171.04,
+      "text": "下次訂票 誰也別按"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
