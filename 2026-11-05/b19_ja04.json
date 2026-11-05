@@ -1,0 +1,489 @@
+{
+  "id": "b19_ja04",
+  "title": "カルピスは帰ってくる",
+  "title_source": "scripted",
+  "genre": "Showa mambo kayo",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "cheeky, swinging, sly",
+  "persona": "",
+  "subject": "an office worker who re-gifts the Calpis gift box she receives every summer, only for the same box, with her own sticky note still inside, to come back to her three summers in a row",
+  "caption": "Showa mambo kayo in late-50s Tokyo style. Blaring trumpet section with sharp mambo shouts, baritone sax riffs, congas and bongos locked to the clave, upright bass, honky piano montuno. Roomy vintage recording with light tape hiss. Female lead, alto, clearly sung with playful kayo phrasing. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, G minor. Cheeky, swinging and sly. No modern reggaeton beat, no trap, no rap, no autotune, no synthesizers.",
+  "lyrics": "[Intro - trumpets, congas]\n\n[Verse 1]\n七月 届いた 白い箱\nカルピス五本 のしつきで\nわたしは甘いの 飲まないの\nそのまま課長に 回しちゃう\n\n[Pre-Chorus]\nウ〜 マンボ\nお礼の言葉は ていねいに\n\n[Chorus]\nカルピスは 帰ってくる\nぐるりと夏を 一周して\nあなたの手から わたしの手\nまた戻ってきた\n\n[Verse 2]\n次の夏にも 同じ箱\nふたを開けたら 付せん紙\n暑中お見舞い わたしの字\n去年 貼ったの わたしだわ\n\n[Pre-Chorus]\nウ〜 マンボ\n誰も飲まない 夏の味\n\n[Chorus]\nカルピスは 帰ってくる\n三年たっても まだ白い\n今年はあきらめ 氷を出して\n薄めて飲もうか\n\n[Outro - trumpet shout, piano]\nウ〜 マンボ\n来年も 帰ってくる",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Showa mambo kayo in late-50s Tokyo style. Blaring trumpet section with sharp mambo shouts, baritone sax riffs, congas and bongos locked to the clave, upright bass, honky piano montuno. Roomy vintage recording with light tape hiss. Female lead, alto, clearly sung with playful kayo phrasing. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, G minor. Cheeky, swinging and sly. No modern reggaeton beat, no trap, no rap, no autotune, no synthesizers.",
+    "lyrics": "[Intro - trumpets, congas]\n\n[Verse 1]\n七月 届いた 白い箱\nカルピス五本 のしつきで\nわたしは甘いの 飲まないの\nそのまま課長に 回しちゃう\n\n[Pre-Chorus]\nウ〜 マンボ\nお礼の言葉は ていねいに\n\n[Chorus]\nカルピスは 帰ってくる\nぐるりと夏を 一周して\nあなたの手から わたしの手\nまた戻ってきた\n\n[Verse 2]\n次の夏にも 同じ箱\nふたを開けたら 付せん紙\n暑中お見舞い わたしの字\n去年 貼ったの わたしだわ\n\n[Pre-Chorus]\nウ〜 マンボ\n誰も飲まない 夏の味\n\n[Chorus]\nカルピスは 帰ってくる\n三年たっても まだ白い\n今年はあきらめ 氷を出して\n薄めて飲もうか\n\n[Outro - trumpet shout, piano]\nウ〜 マンボ\n来年も 帰ってくる"
+  },
+  "seed": "1787522542",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.72s**\n- 57.72s per song\n- LM phase (1 song): 11.06s\n- DiT phase (1 song): 46.65s",
+  "task_id": "899a0a51-46dc-4796-a21c-4b6448f5643f",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-05T17:45:25.475285+08:00",
+  "audio": "b19_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Intro - trumpets, congas]"
+    },
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.76,
+      "end": 30.28,
+      "text": "七月 届いた 白い箱"
+    },
+    {
+      "t": 30.26,
+      "end": 34.38,
+      "text": "カルピス五本 のしつきで"
+    },
+    {
+      "t": 34.8,
+      "end": 38.36,
+      "text": "わたしは甘いの 飲まないの"
+    },
+    {
+      "t": 38.76,
+      "end": 42.12,
+      "text": "そのまま課長に 回しちゃう"
+    },
+    {
+      "t": 42.32,
+      "end": 42.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.32,
+      "end": 43.62,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 43.74,
+      "end": 46.35,
+      "text": "お礼の言葉は ていねいに"
+    },
+    {
+      "t": 46.53,
+      "end": 46.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.53,
+      "end": 48.63,
+      "text": "カルピスは 帰ってくる"
+    },
+    {
+      "t": 48.75,
+      "end": 49.63,
+      "text": "ぐるりと夏を 一周して"
+    },
+    {
+      "t": 51.35,
+      "end": 54.85,
+      "text": "あなたの手から わたしの手"
+    },
+    {
+      "t": 55.27,
+      "end": 58.13,
+      "text": "また戻ってきた"
+    },
+    {
+      "t": 68.49,
+      "end": 68.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.49,
+      "end": 71.17,
+      "text": "次の夏にも 同じ箱"
+    },
+    {
+      "t": 73.47,
+      "end": 78.87,
+      "text": "ふたを開けたら 付せん紙"
+    },
+    {
+      "t": 83.51,
+      "end": 90.99,
+      "text": "暑中お見舞い わたしの字"
+    },
+    {
+      "t": 91.57,
+      "end": 94.99,
+      "text": "去年 貼ったの わたしだわ"
+    },
+    {
+      "t": 98.21,
+      "end": 98.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.21,
+      "end": 99.21,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 119.03,
+      "end": 121.97,
+      "text": "誰も飲まない 夏の味"
+    },
+    {
+      "t": 123.03,
+      "end": 123.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.03,
+      "end": 125.87,
+      "text": "カルピスは 帰ってくる"
+    },
+    {
+      "t": 124.61,
+      "end": 125.85,
+      "text": "三年たっても まだ白い"
+    },
+    {
+      "t": 125.89,
+      "end": 128.33,
+      "text": "今年はあきらめ 氷を出して"
+    },
+    {
+      "t": 128.53,
+      "end": 130.89,
+      "text": "薄めて飲もうか"
+    },
+    {
+      "t": 152.62,
+      "end": 152.62,
+      "text": "[Outro - trumpet shout, piano]"
+    },
+    {
+      "t": 152.62,
+      "end": 153.62,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 156.5,
+      "end": 159.62,
+      "text": "来年も 帰ってくる"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Intro - trumpets, congas]"
+    },
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.76,
+      "end": 30.28,
+      "text": "七月 届いた 白い箱"
+    },
+    {
+      "t": 30.78,
+      "end": 34.38,
+      "text": "カルピス五本 のしつきで"
+    },
+    {
+      "t": 34.8,
+      "end": 38.36,
+      "text": "わたしは甘いの 飲まないの"
+    },
+    {
+      "t": 38.76,
+      "end": 42.14,
+      "text": "そのまま課長に 回しちゃう"
+    },
+    {
+      "t": 44.6,
+      "end": 44.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.6,
+      "end": 45.62,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 46.61,
+      "end": 48.17,
+      "text": "お礼の言葉は ていねいに"
+    },
+    {
+      "t": 48.17,
+      "end": 48.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.17,
+      "end": 48.83,
+      "text": "カルピスは 帰ってくる"
+    },
+    {
+      "t": 48.83,
+      "end": 49.63,
+      "text": "ぐるりと夏を 一周して"
+    },
+    {
+      "t": 51.35,
+      "end": 55.21,
+      "text": "あなたの手から わたしの手"
+    },
+    {
+      "t": 55.25,
+      "end": 58.15,
+      "text": "また戻ってきた"
+    },
+    {
+      "t": 68.65,
+      "end": 68.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.65,
+      "end": 71.17,
+      "text": "次の夏にも 同じ箱"
+    },
+    {
+      "t": 73.49,
+      "end": 78.89,
+      "text": "ふたを開けたら 付せん紙"
+    },
+    {
+      "t": 85.81,
+      "end": 90.99,
+      "text": "暑中お見舞い わたしの字"
+    },
+    {
+      "t": 91.57,
+      "end": 95.01,
+      "text": "去年 貼ったの わたしだわ"
+    },
+    {
+      "t": 98.21,
+      "end": 98.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.21,
+      "end": 99.21,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 119.03,
+      "end": 122.65,
+      "text": "誰も飲まない 夏の味"
+    },
+    {
+      "t": 123.03,
+      "end": 123.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.03,
+      "end": 124.61,
+      "text": "カルピスは 帰ってくる"
+    },
+    {
+      "t": 124.61,
+      "end": 125.85,
+      "text": "三年たっても まだ白い"
+    },
+    {
+      "t": 125.89,
+      "end": 128.33,
+      "text": "今年はあきらめ 氷を出して"
+    },
+    {
+      "t": 128.53,
+      "end": 130.89,
+      "text": "薄めて飲もうか"
+    },
+    {
+      "t": 152.62,
+      "end": 152.62,
+      "text": "[Outro - trumpet shout, piano]"
+    },
+    {
+      "t": 152.62,
+      "end": 153.62,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 156.5,
+      "end": 159.62,
+      "text": "来年も 帰ってくる"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 6.68,
+      "end": 6.68,
+      "text": "[Intro - trumpets, congas]"
+    },
+    {
+      "t": 6.68,
+      "end": 6.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.68,
+      "end": 30.02,
+      "text": "七月 届いた 白い箱"
+    },
+    {
+      "t": 30.26,
+      "end": 34.38,
+      "text": "カルピス五本 のしつきで"
+    },
+    {
+      "t": 34.8,
+      "end": 38.36,
+      "text": "わたしは甘いの 飲まないの"
+    },
+    {
+      "t": 38.76,
+      "end": 42.12,
+      "text": "そのまま課長に 回しちゃう"
+    },
+    {
+      "t": 42.32,
+      "end": 42.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.32,
+      "end": 43.62,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 43.74,
+      "end": 46.35,
+      "text": "お礼の言葉は ていねいに"
+    },
+    {
+      "t": 46.53,
+      "end": 46.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.53,
+      "end": 48.63,
+      "text": "カルピスは 帰ってくる"
+    },
+    {
+      "t": 48.75,
+      "end": 49.63,
+      "text": "ぐるりと夏を 一周して"
+    },
+    {
+      "t": 51.35,
+      "end": 54.85,
+      "text": "あなたの手から わたしの手"
+    },
+    {
+      "t": 55.27,
+      "end": 58.13,
+      "text": "また戻ってきた"
+    },
+    {
+      "t": 68.49,
+      "end": 68.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.49,
+      "end": 71.17,
+      "text": "次の夏にも 同じ箱"
+    },
+    {
+      "t": 73.47,
+      "end": 78.87,
+      "text": "ふたを開けたら 付せん紙"
+    },
+    {
+      "t": 83.51,
+      "end": 90.99,
+      "text": "暑中お見舞い わたしの字"
+    },
+    {
+      "t": 91.57,
+      "end": 94.99,
+      "text": "去年 貼ったの わたしだわ"
+    },
+    {
+      "t": 98.21,
+      "end": 98.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.21,
+      "end": 99.21,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 119.03,
+      "end": 121.97,
+      "text": "誰も飲まない 夏の味"
+    },
+    {
+      "t": 123.03,
+      "end": 123.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.03,
+      "end": 125.87,
+      "text": "カルピスは 帰ってくる"
+    },
+    {
+      "t": 125.87,
+      "end": 136.37,
+      "text": "三年たっても まだ白い"
+    },
+    {
+      "t": 136.53,
+      "end": 145.0,
+      "text": "今年はあきらめ 氷を出して"
+    },
+    {
+      "t": 146.52,
+      "end": 154.36,
+      "text": "薄めて飲もうか"
+    },
+    {
+      "t": 154.6,
+      "end": 154.6,
+      "text": "[Outro - trumpet shout, piano]"
+    },
+    {
+      "t": 154.6,
+      "end": 155.48,
+      "text": "ウ〜 マンボ"
+    },
+    {
+      "t": 156.5,
+      "end": 180.28,
+      "text": "来年も 帰ってくる"
+    }
+  ]
+}

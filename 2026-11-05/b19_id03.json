@@ -1,0 +1,307 @@
+{
+  "id": "b19_id03",
+  "title": "Daun di Jok Motor",
+  "title_source": "scripted",
+  "genre": "Indonesian 80s pop kreatif revival",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "hangat, tenang, sedikit melamun",
+  "persona": "",
+  "subject": "an accountant in Jakarta whose odd private hobby is tracing the outline of whichever leaf has landed on his motorbike seat each morning into a notebook, dated, four hundred pages so far, until one morning there is a leaf from a tree that does not grow on his street",
+  "caption": "Indonesian 80s pop kreatif revival, jazzy late-80s Jakarta pop in the Wijaya 80 vein. Rhodes electric piano with major-seventh voicings, singing fretless bass slides, clean chorus guitar arpeggios, soft analog brass synth swells, light live drums with rimshot backbeat. Polished late-80s studio sheen with gentle plate reverb. Warm smooth male baritone-to-mid vocal, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, F major. Mood of a quiet curious morning. No trap beats, no autotune, no EDM, no modern bedroom-pop lo-fi crackle, no rap.",
+  "lyrics": "[Intro - Rhodes chords, fretless bass]\n[Verse 1]\nSetiap pagi di parkiran\nSatu daun di jok motorku\nKugaris tepinya pelan-pelan\nDi buku kecil berwarna biru\n[Pre-Chorus]\nKetapang, mangga, kersen tetangga\nSemua kukenal bentuknya\n[Chorus]\nEmpat ratus halaman\nEmpat ratus pagi yang sama\nTapi hari ini ada daun\nYang tak tumbuh di jalan kita\n[Verse 2]\nDaunnya kecil, bergerigi\nSeperti dibawa dari jauh\nKusimpan di saku kemeja\nKantorku bisa menunggu\n[Chorus]\nEmpat ratus halaman\nEmpat ratus pagi yang sama\nHari ini aku ikuti angin\nMencari pohon yang mengirimnya\n[Outro - brass synth swell, Rhodes fade]\nHalaman empat ratus satu\nMasih kosong, menunggu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 225.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Indonesian 80s pop kreatif revival, jazzy late-80s Jakarta pop in the Wijaya 80 vein. Rhodes electric piano with major-seventh voicings, singing fretless bass slides, clean chorus guitar arpeggios, soft analog brass synth swells, light live drums with rimshot backbeat. Polished late-80s studio sheen with gentle plate reverb. Warm smooth male baritone-to-mid vocal, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, F major. Mood of a quiet curious morning. No trap beats, no autotune, no EDM, no modern bedroom-pop lo-fi crackle, no rap.",
+    "lyrics": "[Intro - Rhodes chords, fretless bass]\n[Verse 1]\nSetiap pagi di parkiran\nSatu daun di jok motorku\nKugaris tepinya pelan-pelan\nDi buku kecil berwarna biru\n[Pre-Chorus]\nKetapang, mangga, kersen tetangga\nSemua kukenal bentuknya\n[Chorus]\nEmpat ratus halaman\nEmpat ratus pagi yang sama\nTapi hari ini ada daun\nYang tak tumbuh di jalan kita\n[Verse 2]\nDaunnya kecil, bergerigi\nSeperti dibawa dari jauh\nKusimpan di saku kemeja\nKantorku bisa menunggu\n[Chorus]\nEmpat ratus halaman\nEmpat ratus pagi yang sama\nHari ini aku ikuti angin\nMencari pohon yang mengirimnya\n[Outro - brass synth swell, Rhodes fade]\nHalaman empat ratus satu\nMasih kosong, menunggu"
+  },
+  "seed": "1965288821",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 121.97s**\n- 121.97s per song\n- LM phase (1 song): 20.65s\n- DiT phase (1 song): 101.32s",
+  "task_id": "47928ff9-a39b-4ad3-adf1-31b46c64da16",
+  "elapsed_s": 160.3,
+  "generated_at": "2026-11-05T16:01:59.596878+08:00",
+  "audio": "b19_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Intro - Rhodes chords, fretless bass]"
+    },
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.56,
+      "end": 21.0,
+      "text": "Setiap pagi di parkiran"
+    },
+    {
+      "t": 37.5,
+      "end": 41.28,
+      "text": "Satu daun di jok motorku"
+    },
+    {
+      "t": 41.28,
+      "end": 43.0,
+      "text": "Kugaris tepinya pelan-pelan"
+    },
+    {
+      "t": 43.0,
+      "end": 45.48,
+      "text": "Di buku kecil berwarna biru"
+    },
+    {
+      "t": 45.52,
+      "end": 45.52,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.52,
+      "end": 49.44,
+      "text": "Ketapang, mangga, kersen tetangga"
+    },
+    {
+      "t": 49.44,
+      "end": 55.44,
+      "text": "Semua kukenal bentuknya"
+    },
+    {
+      "t": 55.44,
+      "end": 55.44,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.44,
+      "end": 59.49,
+      "text": "Empat ratus halaman"
+    },
+    {
+      "t": 59.55,
+      "end": 62.11,
+      "text": "Empat ratus pagi yang sama"
+    },
+    {
+      "t": 69.49,
+      "end": 72.61,
+      "text": "Tapi hari ini ada daun"
+    },
+    {
+      "t": 74.15,
+      "end": 79.95,
+      "text": "Yang tak tumbuh di jalan kita"
+    },
+    {
+      "t": 84.49,
+      "end": 84.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.49,
+      "end": 90.63,
+      "text": "Daunnya kecil, bergerigi"
+    },
+    {
+      "t": 94.53,
+      "end": 100.23,
+      "text": "Seperti dibawa dari jauh"
+    },
+    {
+      "t": 100.23,
+      "end": 104.59,
+      "text": "Kusimpan di saku kemeja"
+    },
+    {
+      "t": 104.59,
+      "end": 110.67,
+      "text": "Kantorku bisa menunggu"
+    },
+    {
+      "t": 114.69,
+      "end": 114.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.69,
+      "end": 118.69,
+      "text": "Empat ratus halaman"
+    },
+    {
+      "t": 118.77,
+      "end": 121.35,
+      "text": "Empat ratus pagi yang sama"
+    },
+    {
+      "t": 124.95,
+      "end": 132.17,
+      "text": "Hari ini aku ikuti angin"
+    },
+    {
+      "t": 134.35,
+      "end": 140.77,
+      "text": "Mencari pohon yang mengirimnya"
+    },
+    {
+      "t": 153.85,
+      "end": 153.85,
+      "text": "[Outro - brass synth swell, Rhodes fade]"
+    },
+    {
+      "t": 153.85,
+      "end": 161.89,
+      "text": "Halaman empat ratus satu"
+    },
+    {
+      "t": 168.31,
+      "end": 201.72,
+      "text": "Masih kosong, menunggu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 4.16,
+      "end": 4.16,
+      "text": "[Intro - Rhodes chords, fretless bass]"
+    },
+    {
+      "t": 4.16,
+      "end": 4.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.16,
+      "end": 37.44,
+      "text": "Setiap pagi di parkiran"
+    },
+    {
+      "t": 37.5,
+      "end": 41.28,
+      "text": "Satu daun di jok motorku"
+    },
+    {
+      "t": 41.28,
+      "end": 45.04,
+      "text": "Kugaris tepinya pelan-pelan"
+    },
+    {
+      "t": 45.06,
+      "end": 45.66,
+      "text": "Di buku kecil berwarna biru"
+    },
+    {
+      "t": 45.66,
+      "end": 45.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.66,
+      "end": 49.44,
+      "text": "Ketapang, mangga, kersen tetangga"
+    },
+    {
+      "t": 49.44,
+      "end": 55.28,
+      "text": "Semua kukenal bentuknya"
+    },
+    {
+      "t": 55.44,
+      "end": 55.44,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.44,
+      "end": 59.05,
+      "text": "Empat ratus halaman"
+    },
+    {
+      "t": 59.59,
+      "end": 62.11,
+      "text": "Empat ratus pagi yang sama"
+    },
+    {
+      "t": 63.37,
+      "end": 72.65,
+      "text": "Tapi hari ini ada daun"
+    },
+    {
+      "t": 74.17,
+      "end": 79.95,
+      "text": "Yang tak tumbuh di jalan kita"
+    },
+    {
+      "t": 84.49,
+      "end": 84.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.49,
+      "end": 90.65,
+      "text": "Daunnya kecil, bergerigi"
+    },
+    {
+      "t": 94.53,
+      "end": 100.55,
+      "text": "Seperti dibawa dari jauh"
+    },
+    {
+      "t": 100.55,
+      "end": 104.71,
+      "text": "Kusimpan di saku kemeja"
+    },
+    {
+      "t": 104.71,
+      "end": 110.69,
+      "text": "Kantorku bisa menunggu"
+    },
+    {
+      "t": 114.69,
+      "end": 114.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.69,
+      "end": 116.77,
+      "text": "Empat ratus halaman"
+    },
+    {
+      "t": 118.77,
+      "end": 121.37,
+      "text": "Empat ratus pagi yang sama"
+    },
+    {
+      "t": 124.95,
+      "end": 132.21,
+      "text": "Hari ini aku ikuti angin"
+    },
+    {
+      "t": 134.35,
+      "end": 140.79,
+      "text": "Mencari pohon yang mengirimnya"
+    },
+    {
+      "t": 140.99,
+      "end": 140.99,
+      "text": "[Outro - brass synth swell, Rhodes fade]"
+    },
+    {
+      "t": 140.99,
+      "end": 161.91,
+      "text": "Halaman empat ratus satu"
+    },
+    {
+      "t": 165.59,
+      "end": 193.6,
+      "text": "Masih kosong, menunggu"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,327 @@
+{
+  "id": "b19_en03",
+  "title": "The Knee That Clicks",
+  "title_source": "scripted",
+  "genre": "big band swing",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm, tender, playful",
+  "persona": "",
+  "subject": "a wife who says she can find her husband in a dark house by the click of his left knee on every step, and he takes her out dancing on their anniversary so she can hear it keep time",
+  "caption": "Big band swing, 1950s Sinatra-era style. Muted trumpet section stabs, warm saxophone section pads and unison lines, walking upright bass, swung brushed drums with ride cymbal, stride piano fills. Lush live big band recording with natural room reverb. Male baritone, clearly sung melody, full open tone, relaxed swing phrasing. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, B-flat major. Warm, affectionate, smiling. No synths, no electric guitar, no autotune, no hip-hop beats, no modern pop drums.",
+  "lyrics": "[Intro - sax section, walking bass]\n\n[Verse 1]\nMy left knee clicks on every stair\nIt's done it since I was forty\nThe doctor says it's only air\nAnd tells me not to worry\n\n[Pre-Chorus]\nBut you say in the dark you know it's me\nBefore I reach the landing\n\n[Chorus]\nClick, click, there goes my knee\nYou say it's how you find me\nYou don't need the hallway light\nYou just listen for the clicking\n\n[Verse 2]\nSo Saturday I booked a band\nAnd a table by the floor\nI took you gently by the hand\nLike thirty years before\n\n[Pre-Chorus]\nAnd over all the trumpets playing\nYou heard my knee keep time\n\n[Chorus]\nClick, click, there goes my knee\nAnd you're laughing on my shoulder\nEvery step is one more year\nAnd it clicks a little louder\n\n[Outro - brass swell, brushed drums]\nClick, click, darling, dance with me",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Big band swing, 1950s Sinatra-era style. Muted trumpet section stabs, warm saxophone section pads and unison lines, walking upright bass, swung brushed drums with ride cymbal, stride piano fills. Lush live big band recording with natural room reverb. Male baritone, clearly sung melody, full open tone, relaxed swing phrasing. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, B-flat major. Warm, affectionate, smiling. No synths, no electric guitar, no autotune, no hip-hop beats, no modern pop drums.",
+    "lyrics": "[Intro - sax section, walking bass]\n\n[Verse 1]\nMy left knee clicks on every stair\nIt's done it since I was forty\nThe doctor says it's only air\nAnd tells me not to worry\n\n[Pre-Chorus]\nBut you say in the dark you know it's me\nBefore I reach the landing\n\n[Chorus]\nClick, click, there goes my knee\nYou say it's how you find me\nYou don't need the hallway light\nYou just listen for the clicking\n\n[Verse 2]\nSo Saturday I booked a band\nAnd a table by the floor\nI took you gently by the hand\nLike thirty years before\n\n[Pre-Chorus]\nAnd over all the trumpets playing\nYou heard my knee keep time\n\n[Chorus]\nClick, click, there goes my knee\nAnd you're laughing on my shoulder\nEvery step is one more year\nAnd it clicks a little louder\n\n[Outro - brass swell, brushed drums]\nClick, click, darling, dance with me"
+  },
+  "seed": "2430767708",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.41s**\n- 63.41s per song\n- LM phase (1 song): 10.87s\n- DiT phase (1 song): 52.53s",
+  "task_id": "dc17bb6d-18f2-49dd-af46-08d4a4bce98b",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-05T16:26:53.293712+08:00",
+  "audio": "b19_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.84,
+      "end": 20.84,
+      "text": "[Intro - sax section, walking bass]"
+    },
+    {
+      "t": 20.84,
+      "end": 20.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.84,
+      "end": 23.78,
+      "text": "My left knee clicks on every stair"
+    },
+    {
+      "t": 28.12,
+      "end": 30.74,
+      "text": "It's done it since I was forty"
+    },
+    {
+      "t": 35.4,
+      "end": 38.3,
+      "text": "The doctor says it's only air"
+    },
+    {
+      "t": 39.44,
+      "end": 41.18,
+      "text": "And tells me not to worry"
+    },
+    {
+      "t": 44.18,
+      "end": 44.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.18,
+      "end": 48.24,
+      "text": "But you say in the dark you know it's me"
+    },
+    {
+      "t": 51.39,
+      "end": 57.23,
+      "text": "Before I reach the landing"
+    },
+    {
+      "t": 59.05,
+      "end": 59.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.05,
+      "end": 61.91,
+      "text": "Click, click, there goes my knee"
+    },
+    {
+      "t": 61.95,
+      "end": 65.43,
+      "text": "You say it's how you find me"
+    },
+    {
+      "t": 65.45,
+      "end": 68.63,
+      "text": "You don't need the hallway light"
+    },
+    {
+      "t": 69.13,
+      "end": 72.11,
+      "text": "You just listen for the clicking"
+    },
+    {
+      "t": 73.41,
+      "end": 73.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.41,
+      "end": 75.95,
+      "text": "So Saturday I booked a band"
+    },
+    {
+      "t": 80.09,
+      "end": 90.13,
+      "text": "And a table by the floor"
+    },
+    {
+      "t": 94.33,
+      "end": 97.31,
+      "text": "I took you gently by the hand"
+    },
+    {
+      "t": 98.05,
+      "end": 100.55,
+      "text": "Like thirty years before"
+    },
+    {
+      "t": 102.17,
+      "end": 102.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.17,
+      "end": 105.71,
+      "text": "And over all the trumpets playing"
+    },
+    {
+      "t": 108.95,
+      "end": 115.29,
+      "text": "You heard my knee keep time"
+    },
+    {
+      "t": 115.31,
+      "end": 115.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.31,
+      "end": 132.73,
+      "text": "Click, click, there goes my knee"
+    },
+    {
+      "t": 135.31,
+      "end": 140.61,
+      "text": "And you're laughing on my shoulder"
+    },
+    {
+      "t": 143.65,
+      "end": 147.48,
+      "text": "Every step is one more year"
+    },
+    {
+      "t": 150.34,
+      "end": 153.4,
+      "text": "And it clicks a little louder"
+    },
+    {
+      "t": 159.92,
+      "end": 159.92,
+      "text": "[Outro - brass swell, brushed drums]"
+    },
+    {
+      "t": 159.92,
+      "end": 165.28,
+      "text": "Click, click, darling, dance with me"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.84,
+      "end": 20.84,
+      "text": "[Intro - sax section, walking bass]"
+    },
+    {
+      "t": 20.84,
+      "end": 20.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.84,
+      "end": 23.66,
+      "text": "My left knee clicks on every stair"
+    },
+    {
+      "t": 28.12,
+      "end": 30.74,
+      "text": "It's done it since I was forty"
+    },
+    {
+      "t": 35.4,
+      "end": 38.02,
+      "text": "The doctor says it's only air"
+    },
+    {
+      "t": 39.44,
+      "end": 41.16,
+      "text": "And tells me not to worry"
+    },
+    {
+      "t": 44.18,
+      "end": 44.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.18,
+      "end": 48.24,
+      "text": "But you say in the dark you know it's me"
+    },
+    {
+      "t": 51.39,
+      "end": 57.23,
+      "text": "Before I reach the landing"
+    },
+    {
+      "t": 59.05,
+      "end": 59.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.05,
+      "end": 61.87,
+      "text": "Click, click, there goes my knee"
+    },
+    {
+      "t": 61.87,
+      "end": 65.47,
+      "text": "You say it's how you find me"
+    },
+    {
+      "t": 65.47,
+      "end": 68.59,
+      "text": "You don't need the hallway light"
+    },
+    {
+      "t": 69.13,
+      "end": 72.09,
+      "text": "You just listen for the clicking"
+    },
+    {
+      "t": 73.41,
+      "end": 73.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.41,
+      "end": 75.95,
+      "text": "So Saturday I booked a band"
+    },
+    {
+      "t": 80.07,
+      "end": 90.07,
+      "text": "And a table by the floor"
+    },
+    {
+      "t": 94.33,
+      "end": 97.27,
+      "text": "I took you gently by the hand"
+    },
+    {
+      "t": 98.05,
+      "end": 100.49,
+      "text": "Like thirty years before"
+    },
+    {
+      "t": 102.17,
+      "end": 102.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.17,
+      "end": 105.73,
+      "text": "And over all the trumpets playing"
+    },
+    {
+      "t": 108.95,
+      "end": 110.81,
+      "text": "You heard my knee keep time"
+    },
+    {
+      "t": 110.81,
+      "end": 110.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.81,
+      "end": 116.61,
+      "text": "Click, click, there goes my knee"
+    },
+    {
+      "t": 135.35,
+      "end": 140.61,
+      "text": "And you're laughing on my shoulder"
+    },
+    {
+      "t": 143.67,
+      "end": 147.4,
+      "text": "Every step is one more year"
+    },
+    {
+      "t": 150.34,
+      "end": 153.7,
+      "text": "And it clicks a little louder"
+    },
+    {
+      "t": 159.92,
+      "end": 159.92,
+      "text": "[Outro - brass swell, brushed drums]"
+    },
+    {
+      "t": 159.92,
+      "end": 165.3,
+      "text": "Click, click, darling, dance with me"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "b19_ms01",
+  "title": "Esok Datang, Bang Lah",
+  "title_source": "scripted",
+  "genre": "Boria (Penang comedic chorus song)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "cheeky, teasing, upbeat",
+  "persona": "",
+  "subject": "a kampung family whose rotten serambi floorboard has been propped on a paint tin for six weeks because the village handyman Bang Lah answers every call with 'esok'",
+  "caption": "Penang boria comedic troupe song with a call-and-response chorus. Bright folk violin melody, wheezing accordion vamp, tight rebana and kompang interlocking on a march-like beat, handclaps on the off-beat. Live troupe recording, roomy and dry. Male lead tenor sings each verse clearly with a playful grin, a unison male chorus answers every line. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, D major. Teasing kampung comedy. No trap drums, no autotune, no EDM drop, no rap, no rock guitar.",
+  "lyrics": "[Intro - violin and accordion, kompang roll]\n[Verse 1]\nPapan serambi dah reput separuh\nKami sendal dengan tin cat lama\nTelefon Bang Lah, dia kata jangan risau\nEsok pagi abang datang, sumpah\n[Chorus]\nEsok datang, esok datang\nEsok Bang Lah, esok lagi\nDah enam minggu esok dia\nTin cat pun dah naik karat\n[Verse 2]\nJumpa dia kat kedai kopi\nTengah main dam dengan Pak Mail\nDia angkat tangan, senyum lebar\nLepas Asar abang singgah\n[Chorus]\nEsok datang, esok datang\nEsok Bang Lah, esok lagi\nKucing pun dah tahu jalan\nMelompat lepas papan berlubang\n[Bridge - violin solo, chorus clapping]\nPagi tadi bunyi motor\nBang Lah turun bawa gergaji\n[Outro - full troupe, kompang]\nPapan baru, paku berkilat\nEsok dia nak datang minum kopi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Penang boria comedic troupe song with a call-and-response chorus. Bright folk violin melody, wheezing accordion vamp, tight rebana and kompang interlocking on a march-like beat, handclaps on the off-beat. Live troupe recording, roomy and dry. Male lead tenor sings each verse clearly with a playful grin, a unison male chorus answers every line. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, D major. Teasing kampung comedy. No trap drums, no autotune, no EDM drop, no rap, no rock guitar.",
+    "lyrics": "[Intro - violin and accordion, kompang roll]\n[Verse 1]\nPapan serambi dah reput separuh\nKami sendal dengan tin cat lama\nTelefon Bang Lah, dia kata jangan risau\nEsok pagi abang datang, sumpah\n[Chorus]\nEsok datang, esok datang\nEsok Bang Lah, esok lagi\nDah enam minggu esok dia\nTin cat pun dah naik karat\n[Verse 2]\nJumpa dia kat kedai kopi\nTengah main dam dengan Pak Mail\nDia angkat tangan, senyum lebar\nLepas Asar abang singgah\n[Chorus]\nEsok datang, esok datang\nEsok Bang Lah, esok lagi\nKucing pun dah tahu jalan\nMelompat lepas papan berlubang\n[Bridge - violin solo, chorus clapping]\nPagi tadi bunyi motor\nBang Lah turun bawa gergaji\n[Outro - full troupe, kompang]\nPapan baru, paku berkilat\nEsok dia nak datang minum kopi"
+  },
+  "seed": "1725759356",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 110.94s**\n- 110.94s per song\n- LM phase (1 song): 20.32s\n- DiT phase (1 song): 90.62s",
+  "task_id": "e9d15535-0bf7-4ce6-9726-5642e5bd2b91",
+  "elapsed_s": 160.5,
+  "generated_at": "2026-11-05T15:45:15.801745+08:00",
+  "audio": "b19_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 42.22,
+      "end": 42.22,
+      "text": "[Intro - violin and accordion, kompang roll]"
+    },
+    {
+      "t": 42.22,
+      "end": 42.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 42.22,
+      "end": 45.06,
+      "text": "Papan serambi dah reput separuh"
+    },
+    {
+      "t": 45.06,
+      "end": 47.02,
+      "text": "Kami sendal dengan tin cat lama"
+    },
+    {
+      "t": 48.95,
+      "end": 54.37,
+      "text": "Telefon Bang Lah, dia kata jangan risau"
+    },
+    {
+      "t": 55.51,
+      "end": 60.23,
+      "text": "Esok pagi abang datang, sumpah"
+    },
+    {
+      "t": 62.43,
+      "end": 62.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.43,
+      "end": 65.79,
+      "text": "Esok datang, esok datang"
+    },
+    {
+      "t": 66.33,
+      "end": 69.47,
+      "text": "Esok Bang Lah, esok lagi"
+    },
+    {
+      "t": 70.09,
+      "end": 73.09,
+      "text": "Dah enam minggu esok dia"
+    },
+    {
+      "t": 74.39,
+      "end": 79.97,
+      "text": "Tin cat pun dah naik karat"
+    },
+    {
+      "t": 90.91,
+      "end": 90.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.91,
+      "end": 93.99,
+      "text": "Jumpa dia kat kedai kopi"
+    },
+    {
+      "t": 94.17,
+      "end": 97.69,
+      "text": "Tengah main dam dengan Pak Mail"
+    },
+    {
+      "t": 98.43,
+      "end": 102.51,
+      "text": "Dia angkat tangan, senyum lebar"
+    },
+    {
+      "t": 103.45,
+      "end": 109.01,
+      "text": "Lepas Asar abang singgah"
+    },
+    {
+      "t": 110.73,
+      "end": 110.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.73,
+      "end": 114.11,
+      "text": "Esok datang, esok datang"
+    },
+    {
+      "t": 116.55,
+      "end": 122.35,
+      "text": "Esok Bang Lah, esok lagi"
+    },
+    {
+      "t": 124.39,
+      "end": 127.45,
+      "text": "Kucing pun dah tahu jalan"
+    },
+    {
+      "t": 128.41,
+      "end": 135.69,
+      "text": "Melompat lepas papan berlubang"
+    },
+    {
+      "t": 147.2,
+      "end": 147.2,
+      "text": "[Bridge - violin solo, chorus clapping]"
+    },
+    {
+      "t": 147.2,
+      "end": 150.76,
+      "text": "Pagi tadi bunyi motor"
+    },
+    {
+      "t": 151.04,
+      "end": 154.34,
+      "text": "Bang Lah turun bawa gergaji"
+    },
+    {
+      "t": 156.12,
+      "end": 156.12,
+      "text": "[Outro - full troupe, kompang]"
+    },
+    {
+      "t": 156.12,
+      "end": 170.14,
+      "text": "Papan baru, paku berkilat"
+    },
+    {
+      "t": 170.2,
+      "end": 173.98,
+      "text": "Esok dia nak datang minum kopi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 42.22,
+      "end": 42.22,
+      "text": "[Intro - violin and accordion, kompang roll]"
+    },
+    {
+      "t": 42.22,
+      "end": 42.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 42.22,
+      "end": 44.28,
+      "text": "Papan serambi dah reput separuh"
+    },
+    {
+      "t": 44.28,
+      "end": 48.93,
+      "text": "Kami sendal dengan tin cat lama"
+    },
+    {
+      "t": 48.93,
+      "end": 54.35,
+      "text": "Telefon Bang Lah, dia kata jangan risau"
+    },
+    {
+      "t": 55.51,
+      "end": 60.27,
+      "text": "Esok pagi abang datang, sumpah"
+    },
+    {
+      "t": 62.43,
+      "end": 62.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.43,
+      "end": 65.79,
+      "text": "Esok datang, esok datang"
+    },
+    {
+      "t": 66.33,
+      "end": 69.47,
+      "text": "Esok Bang Lah, esok lagi"
+    },
+    {
+      "t": 70.09,
+      "end": 73.09,
+      "text": "Dah enam minggu esok dia"
+    },
+    {
+      "t": 74.39,
+      "end": 79.01,
+      "text": "Tin cat pun dah naik karat"
+    },
+    {
+      "t": 90.91,
+      "end": 90.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.91,
+      "end": 93.99,
+      "text": "Jumpa dia kat kedai kopi"
+    },
+    {
+      "t": 93.99,
+      "end": 98.15,
+      "text": "Tengah main dam dengan Pak Mail"
+    },
+    {
+      "t": 98.41,
+      "end": 102.53,
+      "text": "Dia angkat tangan, senyum lebar"
+    },
+    {
+      "t": 103.45,
+      "end": 107.39,
+      "text": "Lepas Asar abang singgah"
+    },
+    {
+      "t": 110.73,
+      "end": 110.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.73,
+      "end": 117.93,
+      "text": "Esok datang, esok datang"
+    },
+    {
+      "t": 118.45,
+      "end": 122.33,
+      "text": "Esok Bang Lah, esok lagi"
+    },
+    {
+      "t": 124.39,
+      "end": 127.43,
+      "text": "Kucing pun dah tahu jalan"
+    },
+    {
+      "t": 128.41,
+      "end": 135.73,
+      "text": "Melompat lepas papan berlubang"
+    },
+    {
+      "t": 147.2,
+      "end": 147.2,
+      "text": "[Bridge - violin solo, chorus clapping]"
+    },
+    {
+      "t": 147.2,
+      "end": 150.76,
+      "text": "Pagi tadi bunyi motor"
+    },
+    {
+      "t": 151.04,
+      "end": 154.36,
+      "text": "Bang Lah turun bawa gergaji"
+    },
+    {
+      "t": 156.12,
+      "end": 156.12,
+      "text": "[Outro - full troupe, kompang]"
+    },
+    {
+      "t": 156.12,
+      "end": 168.44,
+      "text": "Papan baru, paku berkilat"
+    },
+    {
+      "t": 170.2,
+      "end": 176.5,
+      "text": "Esok dia nak datang minum kopi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

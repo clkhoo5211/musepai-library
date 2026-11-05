@@ -1,0 +1,357 @@
+{
+  "id": "b19_zh03",
+  "title": "記帳本",
+  "title_source": "scripted",
+  "genre": "Mandarin male-female duet indie rock",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "warm, tender",
+  "persona": "",
+  "subject": "a couple who share one paper spending notebook on the kitchen table, where she writes small remarks beside his entries like 'braised snacks 85, didn't share', until he realises the ledger has become their diary",
+  "caption": "Mandarin male-female duet indie rock in the Taiwanese band style. Chiming clean electric guitars with arpeggios, warm analog synth pad, round melodic bass, live drums with steady snare and building toms. Roomy band recording with light plate reverb. Male and female mid-register vocals trading lines and joining in harmony on the chorus, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, E major. Warm, everyday tenderness. No autotune, no rap, no trap beat, no orchestral swell, no screaming.",
+  "lyrics": "[Intro - chiming guitar arpeggio, synth pad]\n\n[Verse 1]\n廚房桌上一本記帳本\n我寫滷味八十五\n妳在旁邊畫個小臉\n寫著又沒分我\n\n[Pre-Chorus]\n一筆一筆都是小錢\n一頁一頁都有妳\n\n[Chorus]\n這本帳越記越亂\n支出旁邊寫滿了話\n算到最後才發現\n我們把日子記下來了\n\n[Verse 2]\n妳寫雨傘一百二\n第三把又弄丟\n我在下面補一句\n下次我去接妳\n\n[Pre-Chorus]\n月底數字總是不對\n可是我不想改\n\n[Chorus]\n這本帳越記越亂\n收入那欄是妳的笑\n翻到第一頁才知道\n我們已經記了三年\n\n[Bridge - guitars drop, toms build]\n下一本換我去買\n封面妳來挑\n\n[Outro - harmony, guitar ring]\n今天支出 兩杯豆漿",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Mandarin male-female duet indie rock in the Taiwanese band style. Chiming clean electric guitars with arpeggios, warm analog synth pad, round melodic bass, live drums with steady snare and building toms. Roomy band recording with light plate reverb. Male and female mid-register vocals trading lines and joining in harmony on the chorus, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, E major. Warm, everyday tenderness. No autotune, no rap, no trap beat, no orchestral swell, no screaming.",
+    "lyrics": "[Intro - chiming guitar arpeggio, synth pad]\n\n[Verse 1]\n廚房桌上一本記帳本\n我寫滷味八十五\n妳在旁邊畫個小臉\n寫著又沒分我\n\n[Pre-Chorus]\n一筆一筆都是小錢\n一頁一頁都有妳\n\n[Chorus]\n這本帳越記越亂\n支出旁邊寫滿了話\n算到最後才發現\n我們把日子記下來了\n\n[Verse 2]\n妳寫雨傘一百二\n第三把又弄丟\n我在下面補一句\n下次我去接妳\n\n[Pre-Chorus]\n月底數字總是不對\n可是我不想改\n\n[Chorus]\n這本帳越記越亂\n收入那欄是妳的笑\n翻到第一頁才知道\n我們已經記了三年\n\n[Bridge - guitars drop, toms build]\n下一本換我去買\n封面妳來挑\n\n[Outro - harmony, guitar ring]\n今天支出 兩杯豆漿\n"
+  },
+  "seed": "472843762",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 75.34s**\n- 75.34s per song\n- LM phase (1 song): 19.54s\n- DiT phase (1 song): 55.80s",
+  "task_id": "d46f539e-af3b-45e8-bf41-c70ee9a31556",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-11-05T16:35:34.472882+08:00",
+  "audio": "b19_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 41.72,
+      "end": 41.72,
+      "text": "[Intro - chiming guitar arpeggio, synth pad]"
+    },
+    {
+      "t": 41.72,
+      "end": 41.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.72,
+      "end": 44.44,
+      "text": "廚房桌上一本記帳本"
+    },
+    {
+      "t": 44.52,
+      "end": 47.0,
+      "text": "我寫滷味八十五"
+    },
+    {
+      "t": 47.0,
+      "end": 48.78,
+      "text": "妳在旁邊畫個小臉"
+    },
+    {
+      "t": 48.8,
+      "end": 52.6,
+      "text": "寫著又沒分我"
+    },
+    {
+      "t": 52.72,
+      "end": 52.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.72,
+      "end": 55.39,
+      "text": "一筆一筆都是小錢"
+    },
+    {
+      "t": 55.83,
+      "end": 58.03,
+      "text": "一頁一頁都有妳"
+    },
+    {
+      "t": 61.69,
+      "end": 61.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.69,
+      "end": 63.41,
+      "text": "這本帳越記越亂"
+    },
+    {
+      "t": 63.55,
+      "end": 66.83,
+      "text": "支出旁邊寫滿了話"
+    },
+    {
+      "t": 66.85,
+      "end": 69.87,
+      "text": "算到最後才發現"
+    },
+    {
+      "t": 71.69,
+      "end": 74.97,
+      "text": "我們把日子記下來了"
+    },
+    {
+      "t": 82.01,
+      "end": 82.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.01,
+      "end": 82.99,
+      "text": "妳寫雨傘一百二"
+    },
+    {
+      "t": 85.77,
+      "end": 88.07,
+      "text": "第三把又弄丟"
+    },
+    {
+      "t": 92.27,
+      "end": 94.77,
+      "text": "我在下面補一句"
+    },
+    {
+      "t": 95.43,
+      "end": 102.27,
+      "text": "下次我去接妳"
+    },
+    {
+      "t": 102.35,
+      "end": 102.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.35,
+      "end": 105.11,
+      "text": "月底數字總是不對"
+    },
+    {
+      "t": 105.43,
+      "end": 111.21,
+      "text": "可是我不想改"
+    },
+    {
+      "t": 111.65,
+      "end": 111.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.65,
+      "end": 113.81,
+      "text": "這本帳越記越亂"
+    },
+    {
+      "t": 114.15,
+      "end": 116.29,
+      "text": "收入那欄是妳的笑"
+    },
+    {
+      "t": 116.65,
+      "end": 119.07,
+      "text": "翻到第一頁才知道"
+    },
+    {
+      "t": 121.09,
+      "end": 124.83,
+      "text": "我們已經記了三年"
+    },
+    {
+      "t": 132.27,
+      "end": 132.27,
+      "text": "[Bridge - guitars drop, toms build]"
+    },
+    {
+      "t": 132.27,
+      "end": 137.73,
+      "text": "下一本換我去買"
+    },
+    {
+      "t": 150.99,
+      "end": 153.41,
+      "text": "封面妳來挑"
+    },
+    {
+      "t": 160.05,
+      "end": 160.05,
+      "text": "[Outro - harmony, guitar ring]"
+    },
+    {
+      "t": 160.05,
+      "end": 183.2,
+      "text": "今天支出 兩杯豆漿"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 41.74,
+      "end": 41.74,
+      "text": "[Intro - chiming guitar arpeggio, synth pad]"
+    },
+    {
+      "t": 41.74,
+      "end": 41.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 41.74,
+      "end": 44.44,
+      "text": "廚房桌上一本記帳本"
+    },
+    {
+      "t": 44.48,
+      "end": 47.1,
+      "text": "我寫滷味八十五"
+    },
+    {
+      "t": 47.18,
+      "end": 48.78,
+      "text": "妳在旁邊畫個小臉"
+    },
+    {
+      "t": 48.8,
+      "end": 52.72,
+      "text": "寫著又沒分我"
+    },
+    {
+      "t": 52.72,
+      "end": 52.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.72,
+      "end": 55.39,
+      "text": "一筆一筆都是小錢"
+    },
+    {
+      "t": 55.83,
+      "end": 57.81,
+      "text": "一頁一頁都有妳"
+    },
+    {
+      "t": 61.69,
+      "end": 61.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.69,
+      "end": 64.43,
+      "text": "這本帳越記越亂"
+    },
+    {
+      "t": 64.57,
+      "end": 68.09,
+      "text": "支出旁邊寫滿了話"
+    },
+    {
+      "t": 68.09,
+      "end": 69.91,
+      "text": "算到最後才發現"
+    },
+    {
+      "t": 71.69,
+      "end": 74.99,
+      "text": "我們把日子記下來了"
+    },
+    {
+      "t": 75.37,
+      "end": 75.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.37,
+      "end": 83.01,
+      "text": "妳寫雨傘一百二"
+    },
+    {
+      "t": 85.77,
+      "end": 88.05,
+      "text": "第三把又弄丟"
+    },
+    {
+      "t": 92.37,
+      "end": 94.77,
+      "text": "我在下面補一句"
+    },
+    {
+      "t": 95.43,
+      "end": 102.29,
+      "text": "下次我去接妳"
+    },
+    {
+      "t": 102.35,
+      "end": 102.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.35,
+      "end": 105.11,
+      "text": "月底數字總是不對"
+    },
+    {
+      "t": 105.43,
+      "end": 111.23,
+      "text": "可是我不想改"
+    },
+    {
+      "t": 111.65,
+      "end": 111.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.65,
+      "end": 113.79,
+      "text": "這本帳越記越亂"
+    },
+    {
+      "t": 114.17,
+      "end": 116.29,
+      "text": "收入那欄是妳的笑"
+    },
+    {
+      "t": 116.65,
+      "end": 121.01,
+      "text": "翻到第一頁才知道"
+    },
+    {
+      "t": 121.09,
+      "end": 132.13,
+      "text": "我們已經記了三年"
+    },
+    {
+      "t": 132.27,
+      "end": 132.27,
+      "text": "[Bridge - guitars drop, toms build]"
+    },
+    {
+      "t": 132.27,
+      "end": 137.73,
+      "text": "下一本換我去買"
+    },
+    {
+      "t": 137.87,
+      "end": 153.51,
+      "text": "封面妳來挑"
+    },
+    {
+      "t": 160.05,
+      "end": 160.05,
+      "text": "[Outro - harmony, guitar ring]"
+    },
+    {
+      "t": 160.05,
+      "end": 163.22,
+      "text": "今天支出 兩杯豆漿"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

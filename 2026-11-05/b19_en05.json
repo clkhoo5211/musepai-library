@@ -1,0 +1,474 @@
+{
+  "id": "b19_en05",
+  "title": "Day Three of the Hiccups",
+  "title_source": "scripted",
+  "genre": "synthwave",
+  "language": "en",
+  "language_name": "English",
+  "mood": "moody, deadpan, comic",
+  "persona": "",
+  "subject": "a man in Croydon who has had the hiccups for three days, working through every cure his coworkers swear by, sugar, a paper bag, drinking upside down, a sudden shout from behind, and none of them working",
+  "caption": "Synthwave, retro 1980s outrun style. Pulsing analogue bass arpeggio, gated reverb drums with big snare, bright polysynth lead melody, clean electric guitar lead line in the solo. Glossy 80s production, wide stereo chorus, neon night atmosphere. Male tenor, clearly sung melody, strong 80s pop delivery. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, E minor. Moody, deadpan, comic. No trap hi-hats, no autotune, no rap, no dubstep, no acoustic guitar.",
+  "lyrics": "[Intro - bass arpeggio, gated drums]\n\n[Verse 1]\nMonday at the meeting, I said hic\nTuesday on the train, I said hic\nEvery forty seconds, on the dot\nHalf a sentence is all I've got\n\n[Pre-Chorus]\nJanet says a spoon of sugar\nDev says hold your breath\n\n[Chorus]\nDay three of the hiccups\nAnd the city's lit up blue\nI drank my water upside down\nAnd nothing's getting through\n\n[Verse 2]\nBrian jumped out shouting by the lifts\nI spilt my coffee down his shirt\nMy mother rang and said to pinch my nose\nThen laughed so hard she had to go\n\n[Pre-Chorus]\nI lay awake at three\nCounting every one\n\n[Chorus]\nDay three of the hiccups\nAnd the city's lit up blue\nThey stopped while I was sleeping\nAnd I kind of miss them too\n\n[Outro - synth lead, arpeggio fades]\nDay four, silence, hic",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Synthwave, retro 1980s outrun style. Pulsing analogue bass arpeggio, gated reverb drums with big snare, bright polysynth lead melody, clean electric guitar lead line in the solo. Glossy 80s production, wide stereo chorus, neon night atmosphere. Male tenor, clearly sung melody, strong 80s pop delivery. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, E minor. Moody, deadpan, comic. No trap hi-hats, no autotune, no rap, no dubstep, no acoustic guitar.",
+    "lyrics": "[Intro - bass arpeggio, gated drums]\n\n[Verse 1]\nMonday at the meeting, I said hic\nTuesday on the train, I said hic\nEvery forty seconds, on the dot\nHalf a sentence is all I've got\n\n[Pre-Chorus]\nJanet says a spoon of sugar\nDev says hold your breath\n\n[Chorus]\nDay three of the hiccups\nAnd the city's lit up blue\nI drank my water upside down\nAnd nothing's getting through\n\n[Verse 2]\nBrian jumped out shouting by the lifts\nI spilt my coffee down his shirt\nMy mother rang and said to pinch my nose\nThen laughed so hard she had to go\n\n[Pre-Chorus]\nI lay awake at three\nCounting every one\n\n[Chorus]\nDay three of the hiccups\nAnd the city's lit up blue\nThey stopped while I was sleeping\nAnd I kind of miss them too\n\n[Outro - synth lead, arpeggio fades]\nDay four, silence, hic"
+  },
+  "seed": "2409425659",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 74.48s**\n- 74.48s per song\n- LM phase (1 song): 14.19s\n- DiT phase (1 song): 60.29s",
+  "task_id": "5d7cbeb3-022c-42fe-97fc-6b7f839bfbe5",
+  "elapsed_s": 100.5,
+  "generated_at": "2026-11-05T16:29:53.916095+08:00",
+  "audio": "b19_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.38,
+      "end": 30.38,
+      "text": "[Intro - bass arpeggio, gated drums]"
+    },
+    {
+      "t": 30.38,
+      "end": 30.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.38,
+      "end": 39.0,
+      "text": "Monday at the meeting, I said hic"
+    },
+    {
+      "t": 39.0,
+      "end": 51.81,
+      "text": "Tuesday on the train, I said hic"
+    },
+    {
+      "t": 51.89,
+      "end": 54.65,
+      "text": "Every forty seconds, on the dot"
+    },
+    {
+      "t": 54.67,
+      "end": 58.87,
+      "text": "Half a sentence is all I've got"
+    },
+    {
+      "t": 58.87,
+      "end": 58.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.87,
+      "end": 59.85,
+      "text": "Janet says a spoon of sugar"
+    },
+    {
+      "t": 64.83,
+      "end": 68.01,
+      "text": "Dev says hold your breath"
+    },
+    {
+      "t": 68.01,
+      "end": 68.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.01,
+      "end": 72.95,
+      "text": "Day three of the hiccups"
+    },
+    {
+      "t": 72.99,
+      "end": 74.09,
+      "text": "And the city's lit up blue"
+    },
+    {
+      "t": 74.21,
+      "end": 77.31,
+      "text": "I drank my water upside down"
+    },
+    {
+      "t": 80.81,
+      "end": 93.57,
+      "text": "And nothing's getting through"
+    },
+    {
+      "t": 93.57,
+      "end": 93.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.57,
+      "end": 96.97,
+      "text": "Brian jumped out shouting by the lifts"
+    },
+    {
+      "t": 97.47,
+      "end": 100.89,
+      "text": "I spilt my coffee down his shirt"
+    },
+    {
+      "t": 101.63,
+      "end": 105.43,
+      "text": "My mother rang and said to pinch my nose"
+    },
+    {
+      "t": 105.79,
+      "end": 109.03,
+      "text": "Then laughed so hard she had to go"
+    },
+    {
+      "t": 114.45,
+      "end": 114.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.45,
+      "end": 116.93,
+      "text": "I lay awake at three"
+    },
+    {
+      "t": 120.91,
+      "end": 123.49,
+      "text": "Counting every one"
+    },
+    {
+      "t": 123.71,
+      "end": 123.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.71,
+      "end": 126.07,
+      "text": "Day three of the hiccups"
+    },
+    {
+      "t": 126.17,
+      "end": 131.11,
+      "text": "And the city's lit up blue"
+    },
+    {
+      "t": 132.13,
+      "end": 134.61,
+      "text": "They stopped while I was sleeping"
+    },
+    {
+      "t": 135.43,
+      "end": 140.23,
+      "text": "And I kind of miss them too"
+    },
+    {
+      "t": 171.16,
+      "end": 171.16,
+      "text": "[Outro - synth lead, arpeggio fades]"
+    },
+    {
+      "t": 171.16,
+      "end": 174.1,
+      "text": "Day four, silence, hic"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.38,
+      "end": 30.38,
+      "text": "[Intro - bass arpeggio, gated drums]"
+    },
+    {
+      "t": 30.38,
+      "end": 30.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.38,
+      "end": 39.0,
+      "text": "Monday at the meeting, I said hic"
+    },
+    {
+      "t": 39.0,
+      "end": 51.81,
+      "text": "Tuesday on the train, I said hic"
+    },
+    {
+      "t": 51.89,
+      "end": 53.87,
+      "text": "Every forty seconds, on the dot"
+    },
+    {
+      "t": 53.87,
+      "end": 58.57,
+      "text": "Half a sentence is all I've got"
+    },
+    {
+      "t": 58.57,
+      "end": 58.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.57,
+      "end": 59.85,
+      "text": "Janet says a spoon of sugar"
+    },
+    {
+      "t": 64.83,
+      "end": 68.01,
+      "text": "Dev says hold your breath"
+    },
+    {
+      "t": 68.01,
+      "end": 68.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.01,
+      "end": 72.95,
+      "text": "Day three of the hiccups"
+    },
+    {
+      "t": 72.99,
+      "end": 74.09,
+      "text": "And the city's lit up blue"
+    },
+    {
+      "t": 74.21,
+      "end": 77.31,
+      "text": "I drank my water upside down"
+    },
+    {
+      "t": 80.81,
+      "end": 93.57,
+      "text": "And nothing's getting through"
+    },
+    {
+      "t": 93.57,
+      "end": 93.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.57,
+      "end": 96.97,
+      "text": "Brian jumped out shouting by the lifts"
+    },
+    {
+      "t": 97.47,
+      "end": 100.89,
+      "text": "I spilt my coffee down his shirt"
+    },
+    {
+      "t": 101.63,
+      "end": 105.43,
+      "text": "My mother rang and said to pinch my nose"
+    },
+    {
+      "t": 105.79,
+      "end": 109.03,
+      "text": "Then laughed so hard she had to go"
+    },
+    {
+      "t": 114.45,
+      "end": 114.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.45,
+      "end": 116.93,
+      "text": "I lay awake at three"
+    },
+    {
+      "t": 120.91,
+      "end": 123.63,
+      "text": "Counting every one"
+    },
+    {
+      "t": 123.71,
+      "end": 123.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.71,
+      "end": 126.07,
+      "text": "Day three of the hiccups"
+    },
+    {
+      "t": 126.17,
+      "end": 131.11,
+      "text": "And the city's lit up blue"
+    },
+    {
+      "t": 132.13,
+      "end": 134.61,
+      "text": "They stopped while I was sleeping"
+    },
+    {
+      "t": 135.43,
+      "end": 140.23,
+      "text": "And I kind of miss them too"
+    },
+    {
+      "t": 171.16,
+      "end": 171.16,
+      "text": "[Outro - synth lead, arpeggio fades]"
+    },
+    {
+      "t": 171.16,
+      "end": 174.08,
+      "text": "Day four, silence, hic"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 30.38,
+      "end": 30.38,
+      "text": "[Intro - bass arpeggio, gated drums]"
+    },
+    {
+      "t": 30.38,
+      "end": 30.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.38,
+      "end": 33.7,
+      "text": "Monday at the meeting, I said hic"
+    },
+    {
+      "t": 38.96,
+      "end": 41.88,
+      "text": "Tuesday on the train, I said hic"
+    },
+    {
+      "t": 41.9,
+      "end": 54.67,
+      "text": "Every forty seconds, on the dot"
+    },
+    {
+      "t": 54.69,
+      "end": 59.75,
+      "text": "Half a sentence is all I've got"
+    },
+    {
+      "t": 59.75,
+      "end": 59.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.75,
+      "end": 64.79,
+      "text": "Janet says a spoon of sugar"
+    },
+    {
+      "t": 64.83,
+      "end": 67.87,
+      "text": "Dev says hold your breath"
+    },
+    {
+      "t": 67.87,
+      "end": 67.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.87,
+      "end": 68.57,
+      "text": "Day three of the hiccups"
+    },
+    {
+      "t": 68.57,
+      "end": 73.05,
+      "text": "And the city's lit up blue"
+    },
+    {
+      "t": 73.05,
+      "end": 77.29,
+      "text": "I drank my water upside down"
+    },
+    {
+      "t": 80.83,
+      "end": 93.59,
+      "text": "And nothing's getting through"
+    },
+    {
+      "t": 93.59,
+      "end": 93.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.59,
+      "end": 96.97,
+      "text": "Brian jumped out shouting by the lifts"
+    },
+    {
+      "t": 97.47,
+      "end": 100.91,
+      "text": "I spilt my coffee down his shirt"
+    },
+    {
+      "t": 101.63,
+      "end": 105.43,
+      "text": "My mother rang and said to pinch my nose"
+    },
+    {
+      "t": 105.79,
+      "end": 109.01,
+      "text": "Then laughed so hard she had to go"
+    },
+    {
+      "t": 114.47,
+      "end": 114.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.47,
+      "end": 116.95,
+      "text": "I lay awake at three"
+    },
+    {
+      "t": 120.91,
+      "end": 123.59,
+      "text": "Counting every one"
+    },
+    {
+      "t": 123.71,
+      "end": 123.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.71,
+      "end": 126.05,
+      "text": "Day three of the hiccups"
+    },
+    {
+      "t": 128.03,
+      "end": 129.93,
+      "text": "And the city's lit up blue"
+    },
+    {
+      "t": 132.15,
+      "end": 134.61,
+      "text": "They stopped while I was sleeping"
+    },
+    {
+      "t": 135.43,
+      "end": 139.93,
+      "text": "And I kind of miss them too"
+    },
+    {
+      "t": 160.86,
+      "end": 160.86,
+      "text": "[Outro - synth lead, arpeggio fades]"
+    },
+    {
+      "t": 160.86,
+      "end": 174.52,
+      "text": "Day four, silence, hic"
+    }
+  ]
+}

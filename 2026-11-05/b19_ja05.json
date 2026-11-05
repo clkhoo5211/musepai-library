@@ -1,0 +1,489 @@
+{
+  "id": "b19_ja05",
+  "title": "名前を呼ぶ練習",
+  "title_source": "scripted",
+  "genre": "neo-acoustic guitar pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "nervous, tender, hopeful",
+  "persona": "",
+  "subject": "a new teacher the night before her first entrance ceremony, practising reading her thirty-four first-graders' names aloud, stuck on the hard-to-read kanji ones",
+  "caption": "Neo-acoustic guitar pop in late-80s Japanese indie style. Chiming twelve-string acoustic guitar, jangly clean electric guitar arpeggios, melodic electric bass, brushed drums, light flute countermelody. Airy production with bright guitars and a natural room. Female lead, clear mid register, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, D major. Nervous, tender and hopeful. No trap, no autotune, no rap, no distorted guitars, no EDM.",
+  "lyrics": "[Intro - twelve-string guitar, flute]\n\n[Verse 1]\nあしたは入学式\n名簿を広げて 机の前\n三十四人の 名前の列\nふりがな 小さく 書き込んだ\n\n[Pre-Chorus]\n読めない漢字が 三つある\n間違えたなら 泣かせちゃう\n\n[Chorus]\n名前を呼ぶ練習\n誰もいない部屋で\nはいって返事を\n想像しながら\n\n[Verse 2]\n心に愛と書いて ここあ\n大空と書いて そらと読む\n鏡に向かって 笑ってみる\nわたしも先生 一年生\n\n[Pre-Chorus]\n窓の外では 桜の枝\n風に揺れて うなずいてる\n\n[Chorus]\n名前を呼ぶ練習\n三十四回目\n最後のひとりで\n声が少しかすれた\n\n[Outro - jangly guitars, brushes]\nおはよう みんな\nあしたは ちゃんと呼ぶよ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Neo-acoustic guitar pop in late-80s Japanese indie style. Chiming twelve-string acoustic guitar, jangly clean electric guitar arpeggios, melodic electric bass, brushed drums, light flute countermelody. Airy production with bright guitars and a natural room. Female lead, clear mid register, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, D major. Nervous, tender and hopeful. No trap, no autotune, no rap, no distorted guitars, no EDM.",
+    "lyrics": "[Intro - twelve-string guitar, flute]\n\n[Verse 1]\nあしたは入学式\n名簿を広げて 机の前\n三十四人の 名前の列\nふりがな 小さく 書き込んだ\n\n[Pre-Chorus]\n読めない漢字が 三つある\n間違えたなら 泣かせちゃう\n\n[Chorus]\n名前を呼ぶ練習\n誰もいない部屋で\nはいって返事を\n想像しながら\n\n[Verse 2]\n心に愛と書いて ここあ\n大空と書いて そらと読む\n鏡に向かって 笑ってみる\nわたしも先生 一年生\n\n[Pre-Chorus]\n窓の外では 桜の枝\n風に揺れて うなずいてる\n\n[Chorus]\n名前を呼ぶ練習\n三十四回目\n最後のひとりで\n声が少しかすれた\n\n[Outro - jangly guitars, brushes]\nおはよう みんな\nあしたは ちゃんと呼ぶよ"
+  },
+  "seed": "2607043018",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 55.53s**\n- 55.53s per song\n- LM phase (1 song): 9.38s\n- DiT phase (1 song): 46.15s",
+  "task_id": "e2220a44-2a9a-4a06-9113-c1e0f73ea300",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-05T17:46:35.573459+08:00",
+  "audio": "b19_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.0,
+      "end": 16.0,
+      "text": "[Intro - twelve-string guitar, flute]"
+    },
+    {
+      "t": 16.0,
+      "end": 16.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.0,
+      "end": 19.4,
+      "text": "あしたは入学式"
+    },
+    {
+      "t": 19.76,
+      "end": 31.06,
+      "text": "名簿を広げて 机の前"
+    },
+    {
+      "t": 31.18,
+      "end": 34.9,
+      "text": "三十四人の 名前の列"
+    },
+    {
+      "t": 35.26,
+      "end": 39.76,
+      "text": "ふりがな 小さく 書き込んだ"
+    },
+    {
+      "t": 39.76,
+      "end": 39.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.76,
+      "end": 43.88,
+      "text": "読めない漢字が 三つある"
+    },
+    {
+      "t": 46.4,
+      "end": 51.85,
+      "text": "間違えたなら 泣かせちゃう"
+    },
+    {
+      "t": 53.87,
+      "end": 53.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.87,
+      "end": 55.77,
+      "text": "名前を呼ぶ練習"
+    },
+    {
+      "t": 55.77,
+      "end": 61.89,
+      "text": "誰もいない部屋で"
+    },
+    {
+      "t": 61.93,
+      "end": 63.85,
+      "text": "はいって返事を"
+    },
+    {
+      "t": 65.27,
+      "end": 67.07,
+      "text": "想像しながら"
+    },
+    {
+      "t": 69.83,
+      "end": 69.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.83,
+      "end": 72.41,
+      "text": "心に愛と書いて ここあ"
+    },
+    {
+      "t": 72.53,
+      "end": 80.83,
+      "text": "大空と書いて そらと読む"
+    },
+    {
+      "t": 80.83,
+      "end": 83.03,
+      "text": "鏡に向かって 笑ってみる"
+    },
+    {
+      "t": 86.31,
+      "end": 90.11,
+      "text": "わたしも先生 一年生"
+    },
+    {
+      "t": 90.39,
+      "end": 90.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.39,
+      "end": 102.61,
+      "text": "窓の外では 桜の枝"
+    },
+    {
+      "t": 102.75,
+      "end": 106.51,
+      "text": "風に揺れて うなずいてる"
+    },
+    {
+      "t": 110.01,
+      "end": 110.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.01,
+      "end": 113.65,
+      "text": "名前を呼ぶ練習"
+    },
+    {
+      "t": 113.65,
+      "end": 117.13,
+      "text": "三十四回目"
+    },
+    {
+      "t": 117.51,
+      "end": 119.57,
+      "text": "最後のひとりで"
+    },
+    {
+      "t": 125.03,
+      "end": 129.49,
+      "text": "声が少しかすれた"
+    },
+    {
+      "t": 154.14,
+      "end": 154.14,
+      "text": "[Outro - jangly guitars, brushes]"
+    },
+    {
+      "t": 154.14,
+      "end": 165.14,
+      "text": "おはよう みんな"
+    },
+    {
+      "t": 169.24,
+      "end": 172.92,
+      "text": "あしたは ちゃんと呼ぶよ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.0,
+      "end": 16.0,
+      "text": "[Intro - twelve-string guitar, flute]"
+    },
+    {
+      "t": 16.0,
+      "end": 16.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.0,
+      "end": 19.4,
+      "text": "あしたは入学式"
+    },
+    {
+      "t": 19.76,
+      "end": 31.06,
+      "text": "名簿を広げて 机の前"
+    },
+    {
+      "t": 31.18,
+      "end": 34.9,
+      "text": "三十四人の 名前の列"
+    },
+    {
+      "t": 35.26,
+      "end": 39.76,
+      "text": "ふりがな 小さく 書き込んだ"
+    },
+    {
+      "t": 39.76,
+      "end": 39.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.76,
+      "end": 43.88,
+      "text": "読めない漢字が 三つある"
+    },
+    {
+      "t": 46.4,
+      "end": 51.85,
+      "text": "間違えたなら 泣かせちゃう"
+    },
+    {
+      "t": 53.87,
+      "end": 53.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.87,
+      "end": 55.77,
+      "text": "名前を呼ぶ練習"
+    },
+    {
+      "t": 55.77,
+      "end": 61.89,
+      "text": "誰もいない部屋で"
+    },
+    {
+      "t": 61.93,
+      "end": 63.85,
+      "text": "はいって返事を"
+    },
+    {
+      "t": 65.27,
+      "end": 67.07,
+      "text": "想像しながら"
+    },
+    {
+      "t": 69.83,
+      "end": 69.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.83,
+      "end": 72.41,
+      "text": "心に愛と書いて ここあ"
+    },
+    {
+      "t": 72.53,
+      "end": 80.83,
+      "text": "大空と書いて そらと読む"
+    },
+    {
+      "t": 80.83,
+      "end": 83.03,
+      "text": "鏡に向かって 笑ってみる"
+    },
+    {
+      "t": 86.31,
+      "end": 90.11,
+      "text": "わたしも先生 一年生"
+    },
+    {
+      "t": 90.39,
+      "end": 90.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.39,
+      "end": 102.61,
+      "text": "窓の外では 桜の枝"
+    },
+    {
+      "t": 102.75,
+      "end": 106.51,
+      "text": "風に揺れて うなずいてる"
+    },
+    {
+      "t": 110.01,
+      "end": 110.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.01,
+      "end": 113.65,
+      "text": "名前を呼ぶ練習"
+    },
+    {
+      "t": 113.65,
+      "end": 117.13,
+      "text": "三十四回目"
+    },
+    {
+      "t": 117.51,
+      "end": 119.57,
+      "text": "最後のひとりで"
+    },
+    {
+      "t": 125.03,
+      "end": 129.49,
+      "text": "声が少しかすれた"
+    },
+    {
+      "t": 154.14,
+      "end": 154.14,
+      "text": "[Outro - jangly guitars, brushes]"
+    },
+    {
+      "t": 154.14,
+      "end": 165.14,
+      "text": "おはよう みんな"
+    },
+    {
+      "t": 169.24,
+      "end": 172.92,
+      "text": "あしたは ちゃんと呼ぶよ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 16.0,
+      "end": 16.0,
+      "text": "[Intro - twelve-string guitar, flute]"
+    },
+    {
+      "t": 16.0,
+      "end": 16.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.0,
+      "end": 19.42,
+      "text": "あしたは入学式"
+    },
+    {
+      "t": 19.76,
+      "end": 31.06,
+      "text": "名簿を広げて 机の前"
+    },
+    {
+      "t": 31.18,
+      "end": 34.9,
+      "text": "三十四人の 名前の列"
+    },
+    {
+      "t": 35.26,
+      "end": 39.76,
+      "text": "ふりがな 小さく 書き込んだ"
+    },
+    {
+      "t": 39.76,
+      "end": 39.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.76,
+      "end": 43.86,
+      "text": "読めない漢字が 三つある"
+    },
+    {
+      "t": 44.48,
+      "end": 51.85,
+      "text": "間違えたなら 泣かせちゃう"
+    },
+    {
+      "t": 52.93,
+      "end": 52.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.93,
+      "end": 55.77,
+      "text": "名前を呼ぶ練習"
+    },
+    {
+      "t": 55.77,
+      "end": 61.89,
+      "text": "誰もいない部屋で"
+    },
+    {
+      "t": 61.91,
+      "end": 63.85,
+      "text": "はいって返事を"
+    },
+    {
+      "t": 65.27,
+      "end": 67.07,
+      "text": "想像しながら"
+    },
+    {
+      "t": 69.83,
+      "end": 69.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.83,
+      "end": 72.39,
+      "text": "心に愛と書いて ここあ"
+    },
+    {
+      "t": 72.53,
+      "end": 80.81,
+      "text": "大空と書いて そらと読む"
+    },
+    {
+      "t": 80.83,
+      "end": 86.31,
+      "text": "鏡に向かって 笑ってみる"
+    },
+    {
+      "t": 86.31,
+      "end": 90.05,
+      "text": "わたしも先生 一年生"
+    },
+    {
+      "t": 90.39,
+      "end": 90.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.39,
+      "end": 102.61,
+      "text": "窓の外では 桜の枝"
+    },
+    {
+      "t": 102.75,
+      "end": 106.51,
+      "text": "風に揺れて うなずいてる"
+    },
+    {
+      "t": 107.35,
+      "end": 107.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.35,
+      "end": 113.63,
+      "text": "名前を呼ぶ練習"
+    },
+    {
+      "t": 113.63,
+      "end": 117.13,
+      "text": "三十四回目"
+    },
+    {
+      "t": 117.51,
+      "end": 119.57,
+      "text": "最後のひとりで"
+    },
+    {
+      "t": 125.03,
+      "end": 129.49,
+      "text": "声が少しかすれた"
+    },
+    {
+      "t": 154.14,
+      "end": 154.14,
+      "text": "[Outro - jangly guitars, brushes]"
+    },
+    {
+      "t": 154.14,
+      "end": 165.12,
+      "text": "おはよう みんな"
+    },
+    {
+      "t": 169.24,
+      "end": 172.92,
+      "text": "あしたは ちゃんと呼ぶよ"
+    }
+  ]
+}

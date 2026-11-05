@@ -1,0 +1,474 @@
+{
+  "id": "b19_vi02",
+  "title": "Hộp Sữa Sau Khi Hiến Máu",
+  "title_source": "scripted",
+  "genre": "Vietnamese synth-retro pop",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "tender, warm, gently funny",
+  "persona": "",
+  "subject": "a couple whose anniversary ritual is donating blood together every three months at the Hanoi Red Cross blood centre, where he always goes pale and dizzy afterwards and she sits holding the free milk carton and biscuits for him, joking that her blood keeps him going",
+  "caption": "Vietnamese synth-retro pop with 1980s synthwave production. Lush analog polysynth chords, pulsing arpeggiated synth bass in eighths, gated-reverb drum machine snare, glassy DX7-style electric piano answering the vocal. Glossy retro sheen with chorused synths and a clean modern vocal on top. Female mezzo, clearly sung melody, warm and open. Clear full voice, every word enunciated, steady sung melody on every line. 98 BPM, F major. Tender, warm, smiling. No trap drums, no autotune, no EDM drop, no rap, no ballad piano.",
+  "lyrics": "[Intro - polysynth chords, arpeggio bass]\n\n[Verse 1]\nBa tháng một lần mình hẹn nhau\nỞ viện huyết học, ghế nhựa xanh\nAnh xắn tay áo, mặt tái đi\nEm cười, anh sợ kim từ bé\n\n[Pre-Chorus]\nKim vừa chạm da, anh nhắm mắt\nEm nắm tay anh thật chặt\n\n[Chorus]\nHộp sữa này em cầm cho anh\nThêm gói bánh quy, uống từ từ thôi\nMáu em chảy trong người ai đó\nCòn anh thì em giữ cho riêng em\n\n[Verse 2]\nY tá quen mặt hai đứa mình\nHỏi hôm nay ai sẽ choáng trước\nAnh bảo lần này không sao đâu\nRồi tựa vào tường, nói hơi run\n\n[Pre-Chorus]\nMình đếm ngày qua từng tấm thẻ\nMười hai lần, ba năm rồi\n\n[Chorus]\nHộp sữa này em cầm cho anh\nThêm gói bánh quy, uống từ từ thôi\nTấm thẻ đỏ mình xếp chung ví\nKỷ niệm của mình là ở đây\n\n[Outro - DX7 piano, synth fade]\nBa tháng sau, mình lại hẹn nhau",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Vietnamese synth-retro pop with 1980s synthwave production. Lush analog polysynth chords, pulsing arpeggiated synth bass in eighths, gated-reverb drum machine snare, glassy DX7-style electric piano answering the vocal. Glossy retro sheen with chorused synths and a clean modern vocal on top. Female mezzo, clearly sung melody, warm and open. Clear full voice, every word enunciated, steady sung melody on every line. 98 BPM, F major. Tender, warm, smiling. No trap drums, no autotune, no EDM drop, no rap, no ballad piano.",
+    "lyrics": "[Intro - polysynth chords, arpeggio bass]\n\n[Verse 1]\nBa tháng một lần mình hẹn nhau\nỞ viện huyết học, ghế nhựa xanh\nAnh xắn tay áo, mặt tái đi\nEm cười, anh sợ kim từ bé\n\n[Pre-Chorus]\nKim vừa chạm da, anh nhắm mắt\nEm nắm tay anh thật chặt\n\n[Chorus]\nHộp sữa này em cầm cho anh\nThêm gói bánh quy, uống từ từ thôi\nMáu em chảy trong người ai đó\nCòn anh thì em giữ cho riêng em\n\n[Verse 2]\nY tá quen mặt hai đứa mình\nHỏi hôm nay ai sẽ choáng trước\nAnh bảo lần này không sao đâu\nRồi tựa vào tường, nói hơi run\n\n[Pre-Chorus]\nMình đếm ngày qua từng tấm thẻ\nMười hai lần, ba năm rồi\n\n[Chorus]\nHộp sữa này em cầm cho anh\nThêm gói bánh quy, uống từ từ thôi\nTấm thẻ đỏ mình xếp chung ví\nKỷ niệm của mình là ở đây\n\n[Outro - DX7 piano, synth fade]\nBa tháng sau, mình lại hẹn nhau"
+  },
+  "seed": "1733752528",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.80s**\n- 57.80s per song\n- LM phase (1 song): 8.43s\n- DiT phase (1 song): 49.37s",
+  "task_id": "263c2d9a-e208-40da-b451-0c506a38380a",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-11-05T22:09:19.674588+08:00",
+  "audio": "b19_vi02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 35.34,
+      "end": 35.34,
+      "text": "[Intro - polysynth chords, arpeggio bass]"
+    },
+    {
+      "t": 35.34,
+      "end": 35.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.34,
+      "end": 37.96,
+      "text": "Ba tháng một lần mình hẹn nhau"
+    },
+    {
+      "t": 41.86,
+      "end": 46.7,
+      "text": "Ở viện huyết học, ghế nhựa xanh"
+    },
+    {
+      "t": 50.73,
+      "end": 55.83,
+      "text": "Anh xắn tay áo, mặt tái đi"
+    },
+    {
+      "t": 55.89,
+      "end": 59.43,
+      "text": "Em cười, anh sợ kim từ bé"
+    },
+    {
+      "t": 59.43,
+      "end": 59.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.43,
+      "end": 62.55,
+      "text": "Kim vừa chạm da, anh nhắm mắt"
+    },
+    {
+      "t": 62.69,
+      "end": 68.25,
+      "text": "Em nắm tay anh thật chặt"
+    },
+    {
+      "t": 68.25,
+      "end": 68.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.25,
+      "end": 71.63,
+      "text": "Hộp sữa này em cầm cho anh"
+    },
+    {
+      "t": 72.23,
+      "end": 76.25,
+      "text": "Thêm gói bánh quy, uống từ từ thôi"
+    },
+    {
+      "t": 77.31,
+      "end": 80.53,
+      "text": "Máu em chảy trong người ai đó"
+    },
+    {
+      "t": 81.27,
+      "end": 84.55,
+      "text": "Còn anh thì em giữ cho riêng em"
+    },
+    {
+      "t": 84.55,
+      "end": 84.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.55,
+      "end": 121.25,
+      "text": "Y tá quen mặt hai đứa mình"
+    },
+    {
+      "t": 121.27,
+      "end": 122.71,
+      "text": "Hỏi hôm nay ai sẽ choáng trước"
+    },
+    {
+      "t": 122.85,
+      "end": 126.35,
+      "text": "Anh bảo lần này không sao đâu"
+    },
+    {
+      "t": 126.35,
+      "end": 127.95,
+      "text": "Rồi tựa vào tường, nói hơi run"
+    },
+    {
+      "t": 127.95,
+      "end": 127.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 127.95,
+      "end": 130.89,
+      "text": "Mình đếm ngày qua từng tấm thẻ"
+    },
+    {
+      "t": 131.01,
+      "end": 133.07,
+      "text": "Mười hai lần, ba năm rồi"
+    },
+    {
+      "t": 133.07,
+      "end": 133.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.07,
+      "end": 135.35,
+      "text": "Hộp sữa này em cầm cho anh"
+    },
+    {
+      "t": 135.35,
+      "end": 140.05,
+      "text": "Thêm gói bánh quy, uống từ từ thôi"
+    },
+    {
+      "t": 140.05,
+      "end": 144.99,
+      "text": "Tấm thẻ đỏ mình xếp chung ví"
+    },
+    {
+      "t": 145.03,
+      "end": 152.08,
+      "text": "Kỷ niệm của mình là ở đây"
+    },
+    {
+      "t": 183.48,
+      "end": 183.48,
+      "text": "[Outro - DX7 piano, synth fade]"
+    },
+    {
+      "t": 183.48,
+      "end": 187.28,
+      "text": "Ba tháng sau, mình lại hẹn nhau"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 35.34,
+      "end": 35.34,
+      "text": "[Intro - polysynth chords, arpeggio bass]"
+    },
+    {
+      "t": 35.34,
+      "end": 35.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 35.34,
+      "end": 37.96,
+      "text": "Ba tháng một lần mình hẹn nhau"
+    },
+    {
+      "t": 41.86,
+      "end": 46.7,
+      "text": "Ở viện huyết học, ghế nhựa xanh"
+    },
+    {
+      "t": 50.73,
+      "end": 55.83,
+      "text": "Anh xắn tay áo, mặt tái đi"
+    },
+    {
+      "t": 55.89,
+      "end": 59.43,
+      "text": "Em cười, anh sợ kim từ bé"
+    },
+    {
+      "t": 59.43,
+      "end": 59.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.43,
+      "end": 62.55,
+      "text": "Kim vừa chạm da, anh nhắm mắt"
+    },
+    {
+      "t": 62.69,
+      "end": 68.25,
+      "text": "Em nắm tay anh thật chặt"
+    },
+    {
+      "t": 68.25,
+      "end": 68.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.25,
+      "end": 71.63,
+      "text": "Hộp sữa này em cầm cho anh"
+    },
+    {
+      "t": 72.23,
+      "end": 76.25,
+      "text": "Thêm gói bánh quy, uống từ từ thôi"
+    },
+    {
+      "t": 77.31,
+      "end": 80.53,
+      "text": "Máu em chảy trong người ai đó"
+    },
+    {
+      "t": 81.27,
+      "end": 84.55,
+      "text": "Còn anh thì em giữ cho riêng em"
+    },
+    {
+      "t": 84.55,
+      "end": 84.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.55,
+      "end": 121.25,
+      "text": "Y tá quen mặt hai đứa mình"
+    },
+    {
+      "t": 121.27,
+      "end": 122.71,
+      "text": "Hỏi hôm nay ai sẽ choáng trước"
+    },
+    {
+      "t": 122.85,
+      "end": 126.35,
+      "text": "Anh bảo lần này không sao đâu"
+    },
+    {
+      "t": 126.35,
+      "end": 127.95,
+      "text": "Rồi tựa vào tường, nói hơi run"
+    },
+    {
+      "t": 127.95,
+      "end": 127.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 127.95,
+      "end": 130.89,
+      "text": "Mình đếm ngày qua từng tấm thẻ"
+    },
+    {
+      "t": 131.01,
+      "end": 133.07,
+      "text": "Mười hai lần, ba năm rồi"
+    },
+    {
+      "t": 133.07,
+      "end": 133.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.07,
+      "end": 135.35,
+      "text": "Hộp sữa này em cầm cho anh"
+    },
+    {
+      "t": 135.35,
+      "end": 140.05,
+      "text": "Thêm gói bánh quy, uống từ từ thôi"
+    },
+    {
+      "t": 140.05,
+      "end": 144.99,
+      "text": "Tấm thẻ đỏ mình xếp chung ví"
+    },
+    {
+      "t": 145.03,
+      "end": 152.08,
+      "text": "Kỷ niệm của mình là ở đây"
+    },
+    {
+      "t": 183.48,
+      "end": 183.48,
+      "text": "[Outro - DX7 piano, synth fade]"
+    },
+    {
+      "t": 183.48,
+      "end": 187.28,
+      "text": "Ba tháng sau, mình lại hẹn nhau"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.18,
+      "end": 27.18,
+      "text": "[Intro - polysynth chords, arpeggio bass]"
+    },
+    {
+      "t": 27.18,
+      "end": 27.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.18,
+      "end": 29.98,
+      "text": "Ba tháng một lần mình hẹn nhau"
+    },
+    {
+      "t": 32.2,
+      "end": 35.02,
+      "text": "Ở viện huyết học, ghế nhựa xanh"
+    },
+    {
+      "t": 37.22,
+      "end": 39.82,
+      "text": "Anh xắn tay áo, mặt tái đi"
+    },
+    {
+      "t": 42.18,
+      "end": 44.76,
+      "text": "Em cười, anh sợ kim từ bé"
+    },
+    {
+      "t": 47.12,
+      "end": 47.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.12,
+      "end": 49.88,
+      "text": "Kim vừa chạm da, anh nhắm mắt"
+    },
+    {
+      "t": 51.95,
+      "end": 54.89,
+      "text": "Em nắm tay anh thật chặt"
+    },
+    {
+      "t": 56.81,
+      "end": 56.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.81,
+      "end": 60.33,
+      "text": "Hộp sữa này em cầm cho anh"
+    },
+    {
+      "t": 61.17,
+      "end": 65.01,
+      "text": "Thêm gói bánh quy, uống từ từ thôi"
+    },
+    {
+      "t": 67.09,
+      "end": 69.43,
+      "text": "Máu em chảy trong người ai đó"
+    },
+    {
+      "t": 71.17,
+      "end": 75.27,
+      "text": "Còn anh thì em giữ cho riêng em"
+    },
+    {
+      "t": 77.47,
+      "end": 77.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.47,
+      "end": 79.83,
+      "text": "Y tá quen mặt hai đứa mình"
+    },
+    {
+      "t": 82.35,
+      "end": 84.83,
+      "text": "Hỏi hôm nay ai sẽ choáng trước"
+    },
+    {
+      "t": 87.45,
+      "end": 89.97,
+      "text": "Anh bảo lần này không sao đâu"
+    },
+    {
+      "t": 91.41,
+      "end": 95.05,
+      "text": "Rồi tựa vào tường, nói hơi run"
+    },
+    {
+      "t": 99.27,
+      "end": 99.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.27,
+      "end": 102.27,
+      "text": "Mình đếm ngày qua từng tấm thẻ"
+    },
+    {
+      "t": 104.53,
+      "end": 109.67,
+      "text": "Mười hai lần, ba năm rồi"
+    },
+    {
+      "t": 110.15,
+      "end": 110.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.15,
+      "end": 114.05,
+      "text": "Hộp sữa này em cầm cho anh"
+    },
+    {
+      "t": 114.85,
+      "end": 118.75,
+      "text": "Thêm gói bánh quy, uống từ từ thôi"
+    },
+    {
+      "t": 122.33,
+      "end": 125.57,
+      "text": "Tấm thẻ đỏ mình xếp chung ví"
+    },
+    {
+      "t": 127.33,
+      "end": 130.81,
+      "text": "Kỷ niệm của mình là ở đây"
+    },
+    {
+      "t": 134.59,
+      "end": 134.59,
+      "text": "[Outro - DX7 piano, synth fade]"
+    },
+    {
+      "t": 134.59,
+      "end": 187.68,
+      "text": "Ba tháng sau, mình lại hẹn nhau"
+    }
+  ]
+}

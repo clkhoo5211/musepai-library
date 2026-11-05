@@ -1,0 +1,489 @@
+{
+  "id": "b19_ja02",
+  "title": "目地が乾くまで",
+  "title_source": "scripted",
+  "genre": "new-generation J-R&B",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "warm, intimate, playful",
+  "persona": "",
+  "subject": "a couple re-sealing the mouldy silicone around the bathtub of their small apartment on a Sunday, then spending the 24 hours they cannot bathe sitting on the kitchen floor together",
+  "caption": "New-generation Japanese R&B, neo-soul leaning. Rhodes electric piano with lush seventh chords, round finger-played bass, crisp live drums with ghost-note snare, muted clean guitar licks. Clean modern mix with close room ambience and gentle tape saturation. Male lead, smooth mid register, clearly sung melody, light falsetto only on chorus tails. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, Eb major. Warm, intimate and playful. No trap hi-hats, no autotune, no rap, no EDM, no whispered vocals.",
+  "lyrics": "[Intro - Rhodes chords, muted guitar]\n\n[Verse 1]\n日曜の朝 カビた目地\n二人でカッター 古いのはがす\nマスキングテープ まっすぐ貼って\n君の指先 白くなる\n\n[Pre-Chorus]\n二十四時間 お湯はだめ\n説明書に そう書いてある\n\n[Chorus]\n目地が乾くまで\n台所の床で\nひざをくっつけて\n待っていようよ\n\n[Verse 2]\nカップ麺すすって 笑ってる\nシリコンのにおい まだ残る\n銭湯行こうか 君は首ふる\n今夜はここで いいんだって\n\n[Pre-Chorus]\nせまい部屋でも 君がいる\n冷蔵庫が ぶーんと鳴る\n\n[Chorus]\n目地が乾くまで\n台所の床で\n君の肩の重さ\n覚えていたい\n\n[Outro - Rhodes, soft drums]\n月曜の朝\n白い線 まっすぐだ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "New-generation Japanese R&B, neo-soul leaning. Rhodes electric piano with lush seventh chords, round finger-played bass, crisp live drums with ghost-note snare, muted clean guitar licks. Clean modern mix with close room ambience and gentle tape saturation. Male lead, smooth mid register, clearly sung melody, light falsetto only on chorus tails. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, Eb major. Warm, intimate and playful. No trap hi-hats, no autotune, no rap, no EDM, no whispered vocals.",
+    "lyrics": "[Intro - Rhodes chords, muted guitar]\n\n[Verse 1]\n日曜の朝 カビた目地\n二人でカッター 古いのはがす\nマスキングテープ まっすぐ貼って\n君の指先 白くなる\n\n[Pre-Chorus]\n二十四時間 お湯はだめ\n説明書に そう書いてある\n\n[Chorus]\n目地が乾くまで\n台所の床で\nひざをくっつけて\n待っていようよ\n\n[Verse 2]\nカップ麺すすって 笑ってる\nシリコンのにおい まだ残る\n銭湯行こうか 君は首ふる\n今夜はここで いいんだって\n\n[Pre-Chorus]\nせまい部屋でも 君がいる\n冷蔵庫が ぶーんと鳴る\n\n[Chorus]\n目地が乾くまで\n台所の床で\n君の肩の重さ\n覚えていたい\n\n[Outro - Rhodes, soft drums]\n月曜の朝\n白い線 まっすぐだ"
+  },
+  "seed": "1722772949",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.98s**\n- 61.98s per song\n- LM phase (1 song): 12.22s\n- DiT phase (1 song): 49.76s",
+  "task_id": "c2b4e9cb-5e06-49be-b677-7252cfd7c967",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-11-05T17:42:45.148504+08:00",
+  "audio": "b19_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.52,
+      "end": 33.52,
+      "text": "[Intro - Rhodes chords, muted guitar]"
+    },
+    {
+      "t": 33.52,
+      "end": 33.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.52,
+      "end": 39.78,
+      "text": "日曜の朝 カビた目地"
+    },
+    {
+      "t": 39.86,
+      "end": 47.04,
+      "text": "二人でカッター 古いのはがす"
+    },
+    {
+      "t": 47.08,
+      "end": 56.31,
+      "text": "マスキングテープ まっすぐ貼って"
+    },
+    {
+      "t": 56.31,
+      "end": 59.73,
+      "text": "君の指先 白くなる"
+    },
+    {
+      "t": 62.39,
+      "end": 62.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.39,
+      "end": 65.31,
+      "text": "二十四時間 お湯はだめ"
+    },
+    {
+      "t": 67.71,
+      "end": 69.25,
+      "text": "説明書に そう書いてある"
+    },
+    {
+      "t": 69.55,
+      "end": 69.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.55,
+      "end": 74.29,
+      "text": "目地が乾くまで"
+    },
+    {
+      "t": 74.63,
+      "end": 76.37,
+      "text": "台所の床で"
+    },
+    {
+      "t": 77.11,
+      "end": 79.11,
+      "text": "ひざをくっつけて"
+    },
+    {
+      "t": 79.45,
+      "end": 81.17,
+      "text": "待っていようよ"
+    },
+    {
+      "t": 88.43,
+      "end": 88.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.43,
+      "end": 91.51,
+      "text": "カップ麺すすって 笑ってる"
+    },
+    {
+      "t": 92.89,
+      "end": 95.13,
+      "text": "シリコンのにおい まだ残る"
+    },
+    {
+      "t": 95.65,
+      "end": 97.87,
+      "text": "銭湯行こうか 君は首ふる"
+    },
+    {
+      "t": 98.41,
+      "end": 101.91,
+      "text": "今夜はここで いいんだって"
+    },
+    {
+      "t": 101.93,
+      "end": 101.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 101.93,
+      "end": 112.29,
+      "text": "せまい部屋でも 君がいる"
+    },
+    {
+      "t": 112.29,
+      "end": 113.33,
+      "text": "冷蔵庫が ぶーんと鳴る"
+    },
+    {
+      "t": 113.95,
+      "end": 113.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.95,
+      "end": 117.83,
+      "text": "目地が乾くまで"
+    },
+    {
+      "t": 118.07,
+      "end": 120.03,
+      "text": "台所の床で"
+    },
+    {
+      "t": 120.03,
+      "end": 126.39,
+      "text": "君の肩の重さ"
+    },
+    {
+      "t": 134.01,
+      "end": 145.39,
+      "text": "覚えていたい"
+    },
+    {
+      "t": 170.88,
+      "end": 170.88,
+      "text": "[Outro - Rhodes, soft drums]"
+    },
+    {
+      "t": 170.88,
+      "end": 172.24,
+      "text": "月曜の朝"
+    },
+    {
+      "t": 173.58,
+      "end": 182.36,
+      "text": "白い線 まっすぐだ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.94,
+      "end": 33.94,
+      "text": "[Intro - Rhodes chords, muted guitar]"
+    },
+    {
+      "t": 33.94,
+      "end": 33.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.94,
+      "end": 44.96,
+      "text": "日曜の朝 カビた目地"
+    },
+    {
+      "t": 45.04,
+      "end": 49.0,
+      "text": "二人でカッター 古いのはがす"
+    },
+    {
+      "t": 49.02,
+      "end": 57.39,
+      "text": "マスキングテープ まっすぐ貼って"
+    },
+    {
+      "t": 57.39,
+      "end": 59.75,
+      "text": "君の指先 白くなる"
+    },
+    {
+      "t": 62.39,
+      "end": 62.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 62.39,
+      "end": 65.31,
+      "text": "二十四時間 お湯はだめ"
+    },
+    {
+      "t": 67.71,
+      "end": 69.25,
+      "text": "説明書に そう書いてある"
+    },
+    {
+      "t": 69.55,
+      "end": 69.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.55,
+      "end": 74.29,
+      "text": "目地が乾くまで"
+    },
+    {
+      "t": 74.63,
+      "end": 76.37,
+      "text": "台所の床で"
+    },
+    {
+      "t": 77.11,
+      "end": 79.11,
+      "text": "ひざをくっつけて"
+    },
+    {
+      "t": 79.45,
+      "end": 81.17,
+      "text": "待っていようよ"
+    },
+    {
+      "t": 88.43,
+      "end": 88.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.43,
+      "end": 91.51,
+      "text": "カップ麺すすって 笑ってる"
+    },
+    {
+      "t": 92.89,
+      "end": 95.65,
+      "text": "シリコンのにおい まだ残る"
+    },
+    {
+      "t": 95.65,
+      "end": 101.19,
+      "text": "銭湯行こうか 君は首ふる"
+    },
+    {
+      "t": 101.19,
+      "end": 103.45,
+      "text": "今夜はここで いいんだって"
+    },
+    {
+      "t": 110.73,
+      "end": 110.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 110.73,
+      "end": 112.29,
+      "text": "せまい部屋でも 君がいる"
+    },
+    {
+      "t": 112.29,
+      "end": 113.33,
+      "text": "冷蔵庫が ぶーんと鳴る"
+    },
+    {
+      "t": 113.95,
+      "end": 113.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.95,
+      "end": 117.83,
+      "text": "目地が乾くまで"
+    },
+    {
+      "t": 118.07,
+      "end": 120.03,
+      "text": "台所の床で"
+    },
+    {
+      "t": 120.03,
+      "end": 126.39,
+      "text": "君の肩の重さ"
+    },
+    {
+      "t": 134.01,
+      "end": 145.39,
+      "text": "覚えていたい"
+    },
+    {
+      "t": 170.88,
+      "end": 170.88,
+      "text": "[Outro - Rhodes, soft drums]"
+    },
+    {
+      "t": 170.88,
+      "end": 171.68,
+      "text": "月曜の朝"
+    },
+    {
+      "t": 171.8,
+      "end": 174.36,
+      "text": "白い線 まっすぐだ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 33.92,
+      "end": 33.92,
+      "text": "[Intro - Rhodes chords, muted guitar]"
+    },
+    {
+      "t": 33.92,
+      "end": 33.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.92,
+      "end": 44.96,
+      "text": "日曜の朝 カビた目地"
+    },
+    {
+      "t": 45.06,
+      "end": 49.0,
+      "text": "二人でカッター 古いのはがす"
+    },
+    {
+      "t": 49.1,
+      "end": 57.41,
+      "text": "マスキングテープ まっすぐ貼って"
+    },
+    {
+      "t": 57.41,
+      "end": 59.75,
+      "text": "君の指先 白くなる"
+    },
+    {
+      "t": 60.81,
+      "end": 60.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.81,
+      "end": 65.29,
+      "text": "二十四時間 お湯はだめ"
+    },
+    {
+      "t": 67.71,
+      "end": 71.17,
+      "text": "説明書に そう書いてある"
+    },
+    {
+      "t": 71.89,
+      "end": 71.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.89,
+      "end": 74.29,
+      "text": "目地が乾くまで"
+    },
+    {
+      "t": 74.63,
+      "end": 76.35,
+      "text": "台所の床で"
+    },
+    {
+      "t": 77.07,
+      "end": 79.11,
+      "text": "ひざをくっつけて"
+    },
+    {
+      "t": 79.11,
+      "end": 81.17,
+      "text": "待っていようよ"
+    },
+    {
+      "t": 88.43,
+      "end": 88.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.43,
+      "end": 91.51,
+      "text": "カップ麺すすって 笑ってる"
+    },
+    {
+      "t": 92.89,
+      "end": 95.11,
+      "text": "シリコンのにおい まだ残る"
+    },
+    {
+      "t": 95.65,
+      "end": 101.19,
+      "text": "銭湯行こうか 君は首ふる"
+    },
+    {
+      "t": 101.19,
+      "end": 106.91,
+      "text": "今夜はここで いいんだって"
+    },
+    {
+      "t": 111.77,
+      "end": 111.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.77,
+      "end": 113.93,
+      "text": "せまい部屋でも 君がいる"
+    },
+    {
+      "t": 113.93,
+      "end": 115.15,
+      "text": "冷蔵庫が ぶーんと鳴る"
+    },
+    {
+      "t": 116.23,
+      "end": 116.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.23,
+      "end": 124.19,
+      "text": "目地が乾くまで"
+    },
+    {
+      "t": 124.41,
+      "end": 131.41,
+      "text": "台所の床で"
+    },
+    {
+      "t": 134.01,
+      "end": 137.07,
+      "text": "君の肩の重さ"
+    },
+    {
+      "t": 139.51,
+      "end": 144.35,
+      "text": "覚えていたい"
+    },
+    {
+      "t": 144.49,
+      "end": 144.49,
+      "text": "[Outro - Rhodes, soft drums]"
+    },
+    {
+      "t": 144.49,
+      "end": 173.96,
+      "text": "月曜の朝"
+    },
+    {
+      "t": 180.94,
+      "end": 186.6,
+      "text": "白い線 まっすぐだ"
+    }
+  ]
+}

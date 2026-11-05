@@ -1,0 +1,337 @@
+{
+  "id": "b19_ms03",
+  "title": "Nasi Goreng Pukul Sebelas",
+  "title_source": "scripted",
+  "genre": "Malay new jack swing",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "warm, flirty, grooving",
+  "persona": "",
+  "subject": "a man who wakes his wife at eleven at night because he has made nasi goreng kampung with too much cili padi for no reason at all, and they eat it on the kitchen floor",
+  "caption": "Malay new jack swing love song in the late-1980s lineage. Swung drum-machine beat with hard snare, popping slap bass line, bell-tone FM electric piano chords, short brass stabs, muted funk rhythm guitar. Polished late-80s studio sheen, wide stereo. Male lead tenor, smooth and clearly sung with confident short runs, female backing harmonies on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, A-flat major. Warm late-night domestic romance. No trap drums, no autotune, no rap break, no modern EDM bass, no ballad slowdown.",
+  "lyrics": "[Intro - drum machine, slap bass, brass stab]\n[Verse 1]\nPukul sebelas, dapur masih terang\nAku goreng nasi semalam\nBawang putih, ikan bilis, telur dua\nCili padi terlebih segenggam\n[Pre-Chorus]\nSayang, bangun sekejap\nTak ada sebab, aku cuma nak makan dengan kau\n[Chorus]\nNasi goreng pukul sebelas\nDuduk atas lantai dapur\nKau tiup sudu, kau marah pedas\nTapi pinggan kau dah licin dulu\n[Verse 2]\nRambut kau kusut, baju tidur senget\nKau curi telur dari pinggan aku\nAir sejuk habis satu jag\nKau ketawa sampai tersedu\n[Pre-Chorus]\nEsok kerja, mata berat\nTapi malam ni kita tak berkira\n[Chorus]\nNasi goreng pukul sebelas\nLampu dapur kuning malap\nKau kata lain kali kurang pedas\nLain kali kau minta tambah lagi\n[Outro - brass stabs, backing harmonies]\nPinggan dua dalam sinki\nKita basuh esok pagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A-flat major",
+    "timesignature": "4",
+    "prompt": "Malay new jack swing love song in the late-1980s lineage. Swung drum-machine beat with hard snare, popping slap bass line, bell-tone FM electric piano chords, short brass stabs, muted funk rhythm guitar. Polished late-80s studio sheen, wide stereo. Male lead tenor, smooth and clearly sung with confident short runs, female backing harmonies on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, A-flat major. Warm late-night domestic romance. No trap drums, no autotune, no rap break, no modern EDM bass, no ballad slowdown.",
+    "lyrics": "[Intro - drum machine, slap bass, brass stab]\n[Verse 1]\nPukul sebelas, dapur masih terang\nAku goreng nasi semalam\nBawang putih, ikan bilis, telur dua\nCili padi terlebih segenggam\n[Pre-Chorus]\nSayang, bangun sekejap\nTak ada sebab, aku cuma nak makan dengan kau\n[Chorus]\nNasi goreng pukul sebelas\nDuduk atas lantai dapur\nKau tiup sudu, kau marah pedas\nTapi pinggan kau dah licin dulu\n[Verse 2]\nRambut kau kusut, baju tidur senget\nKau curi telur dari pinggan aku\nAir sejuk habis satu jag\nKau ketawa sampai tersedu\n[Pre-Chorus]\nEsok kerja, mata berat\nTapi malam ni kita tak berkira\n[Chorus]\nNasi goreng pukul sebelas\nLampu dapur kuning malap\nKau kata lain kali kurang pedas\nLain kali kau minta tambah lagi\n[Outro - brass stabs, backing harmonies]\nPinggan dua dalam sinki\nKita basuh esok pagi"
+  },
+  "seed": "1891706940",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.34s**\n- 59.34s per song\n- LM phase (1 song): 10.80s\n- DiT phase (1 song): 48.54s",
+  "task_id": "81d94ed0-4134-4a61-b45f-2ce7102e9fb1",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-05T17:33:31.681008+08:00",
+  "audio": "b19_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.9,
+      "end": 20.9,
+      "text": "[Intro - drum machine, slap bass, brass stab]"
+    },
+    {
+      "t": 20.9,
+      "end": 20.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.9,
+      "end": 31.48,
+      "text": "Pukul sebelas, dapur masih terang"
+    },
+    {
+      "t": 32.94,
+      "end": 36.1,
+      "text": "Aku goreng nasi semalam"
+    },
+    {
+      "t": 37.44,
+      "end": 40.44,
+      "text": "Bawang putih, ikan bilis, telur dua"
+    },
+    {
+      "t": 42.0,
+      "end": 45.26,
+      "text": "Cili padi terlebih segenggam"
+    },
+    {
+      "t": 46.84,
+      "end": 46.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.84,
+      "end": 50.05,
+      "text": "Sayang, bangun sekejap"
+    },
+    {
+      "t": 50.05,
+      "end": 52.43,
+      "text": "Tak ada sebab, aku cuma nak makan dengan kau"
+    },
+    {
+      "t": 52.43,
+      "end": 52.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.43,
+      "end": 55.71,
+      "text": "Nasi goreng pukul sebelas"
+    },
+    {
+      "t": 56.33,
+      "end": 59.73,
+      "text": "Duduk atas lantai dapur"
+    },
+    {
+      "t": 60.91,
+      "end": 64.27,
+      "text": "Kau tiup sudu, kau marah pedas"
+    },
+    {
+      "t": 64.33,
+      "end": 67.87,
+      "text": "Tapi pinggan kau dah licin dulu"
+    },
+    {
+      "t": 70.01,
+      "end": 70.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.01,
+      "end": 72.79,
+      "text": "Rambut kau kusut, baju tidur senget"
+    },
+    {
+      "t": 73.71,
+      "end": 76.93,
+      "text": "Kau curi telur dari pinggan aku"
+    },
+    {
+      "t": 78.33,
+      "end": 82.19,
+      "text": "Air sejuk habis satu jag"
+    },
+    {
+      "t": 82.77,
+      "end": 86.31,
+      "text": "Kau ketawa sampai tersedu"
+    },
+    {
+      "t": 94.75,
+      "end": 94.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.75,
+      "end": 98.59,
+      "text": "Esok kerja, mata berat"
+    },
+    {
+      "t": 98.61,
+      "end": 104.99,
+      "text": "Tapi malam ni kita tak berkira"
+    },
+    {
+      "t": 105.37,
+      "end": 105.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.37,
+      "end": 108.85,
+      "text": "Nasi goreng pukul sebelas"
+    },
+    {
+      "t": 108.85,
+      "end": 110.77,
+      "text": "Lampu dapur kuning malap"
+    },
+    {
+      "t": 111.11,
+      "end": 117.79,
+      "text": "Kau kata lain kali kurang pedas"
+    },
+    {
+      "t": 117.87,
+      "end": 121.41,
+      "text": "Lain kali kau minta tambah lagi"
+    },
+    {
+      "t": 134.33,
+      "end": 134.33,
+      "text": "[Outro - brass stabs, backing harmonies]"
+    },
+    {
+      "t": 134.33,
+      "end": 165.3,
+      "text": "Pinggan dua dalam sinki"
+    },
+    {
+      "t": 167.74,
+      "end": 174.42,
+      "text": "Kita basuh esok pagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.9,
+      "end": 20.9,
+      "text": "[Intro - drum machine, slap bass, brass stab]"
+    },
+    {
+      "t": 20.9,
+      "end": 20.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.9,
+      "end": 31.48,
+      "text": "Pukul sebelas, dapur masih terang"
+    },
+    {
+      "t": 32.94,
+      "end": 36.06,
+      "text": "Aku goreng nasi semalam"
+    },
+    {
+      "t": 37.44,
+      "end": 40.46,
+      "text": "Bawang putih, ikan bilis, telur dua"
+    },
+    {
+      "t": 42.0,
+      "end": 45.26,
+      "text": "Cili padi terlebih segenggam"
+    },
+    {
+      "t": 46.84,
+      "end": 46.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.84,
+      "end": 49.36,
+      "text": "Sayang, bangun sekejap"
+    },
+    {
+      "t": 49.36,
+      "end": 52.27,
+      "text": "Tak ada sebab, aku cuma nak makan dengan kau"
+    },
+    {
+      "t": 52.27,
+      "end": 52.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.27,
+      "end": 55.71,
+      "text": "Nasi goreng pukul sebelas"
+    },
+    {
+      "t": 56.33,
+      "end": 59.75,
+      "text": "Duduk atas lantai dapur"
+    },
+    {
+      "t": 60.89,
+      "end": 64.27,
+      "text": "Kau tiup sudu, kau marah pedas"
+    },
+    {
+      "t": 64.33,
+      "end": 67.87,
+      "text": "Tapi pinggan kau dah licin dulu"
+    },
+    {
+      "t": 70.01,
+      "end": 70.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.01,
+      "end": 72.81,
+      "text": "Rambut kau kusut, baju tidur senget"
+    },
+    {
+      "t": 73.71,
+      "end": 76.95,
+      "text": "Kau curi telur dari pinggan aku"
+    },
+    {
+      "t": 78.33,
+      "end": 82.19,
+      "text": "Air sejuk habis satu jag"
+    },
+    {
+      "t": 82.77,
+      "end": 86.89,
+      "text": "Kau ketawa sampai tersedu"
+    },
+    {
+      "t": 94.77,
+      "end": 94.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.77,
+      "end": 98.59,
+      "text": "Esok kerja, mata berat"
+    },
+    {
+      "t": 98.63,
+      "end": 104.99,
+      "text": "Tapi malam ni kita tak berkira"
+    },
+    {
+      "t": 105.35,
+      "end": 105.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.35,
+      "end": 108.87,
+      "text": "Nasi goreng pukul sebelas"
+    },
+    {
+      "t": 108.87,
+      "end": 110.77,
+      "text": "Lampu dapur kuning malap"
+    },
+    {
+      "t": 110.77,
+      "end": 117.83,
+      "text": "Kau kata lain kali kurang pedas"
+    },
+    {
+      "t": 117.87,
+      "end": 121.43,
+      "text": "Lain kali kau minta tambah lagi"
+    },
+    {
+      "t": 163.16,
+      "end": 163.16,
+      "text": "[Outro - brass stabs, backing harmonies]"
+    },
+    {
+      "t": 163.16,
+      "end": 165.3,
+      "text": "Pinggan dua dalam sinki"
+    },
+    {
+      "t": 167.74,
+      "end": 174.44,
+      "text": "Kita basuh esok pagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

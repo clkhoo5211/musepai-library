@@ -1,0 +1,327 @@
+{
+  "id": "b19_zh01",
+  "title": "冷凍庫裝不下",
+  "title_source": "scripted",
+  "genre": "Mandarin nu-disco",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "bouncy, cheeky",
+  "persona": "",
+  "subject": "a woman who meal-preps twenty-one lunch boxes every Sunday night and plays Tetris to fit them into the tiny freezer of her shared flat, evicting her flatmate's ice cream tub one box at a time",
+  "caption": "Mandarin nu-disco with Nile Rodgers-style funk guitar. Octave-jumping slap bass, choppy muted rhythm guitar, four-on-the-floor kick with open hi-hat, short string-section stabs, Rhodes chords. Warm polished mix with a bit of tape saturation. Female mid-register vocal, bright and clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, A minor. Playful Sunday-night kitchen mood. No trap hi-hats, no autotune, no EDM drops, no rap, no ballad slowdown.",
+  "lyrics": "[Intro - slap bass, string stabs, funk guitar]\n\n[Verse 1]\n星期天晚上十一點\n二十一個便當排一排\n雞胸肉配花椰菜\n每盒都寫上星期幾\n\n[Pre-Chorus]\n冷凍庫只有一個抽屜\n我把它當方塊在玩\n\n[Chorus]\n轉一下 推進去\n星期三卡在星期一\n室友的冰淇淋\n對不起 請你先出去\n\n[Verse 2]\n她在門口叉著腰\n問我是不是要開店\n我說這叫做規劃\n其實我只是懶得煮\n\n[Pre-Chorus]\n最後一盒還差一公分\n我用膝蓋輕輕地推\n\n[Chorus]\n轉一下 推進去\n星期五疊在星期四\n室友的冰淇淋\n今晚就搬進我肚子裡\n\n[Outro - strings, slap bass fade]\n下週我買一個新冰箱",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Mandarin nu-disco with Nile Rodgers-style funk guitar. Octave-jumping slap bass, choppy muted rhythm guitar, four-on-the-floor kick with open hi-hat, short string-section stabs, Rhodes chords. Warm polished mix with a bit of tape saturation. Female mid-register vocal, bright and clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, A minor. Playful Sunday-night kitchen mood. No trap hi-hats, no autotune, no EDM drops, no rap, no ballad slowdown.",
+    "lyrics": "[Intro - slap bass, string stabs, funk guitar]\n\n[Verse 1]\n星期天晚上十一點\n二十一個便當排一排\n雞胸肉配花椰菜\n每盒都寫上星期幾\n\n[Pre-Chorus]\n冷凍庫只有一個抽屜\n我把它當方塊在玩\n\n[Chorus]\n轉一下 推進去\n星期三卡在星期一\n室友的冰淇淋\n對不起 請你先出去\n\n[Verse 2]\n她在門口叉著腰\n問我是不是要開店\n我說這叫做規劃\n其實我只是懶得煮\n\n[Pre-Chorus]\n最後一盒還差一公分\n我用膝蓋輕輕地推\n\n[Chorus]\n轉一下 推進去\n星期五疊在星期四\n室友的冰淇淋\n今晚就搬進我肚子裡\n\n[Outro - strings, slap bass fade]\n下週我買一個新冰箱\n"
+  },
+  "seed": "1380544246",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 88.23s**\n- 88.23s per song\n- LM phase (1 song): 15.17s\n- DiT phase (1 song): 73.06s",
+  "task_id": "3d409f70-b066-4213-8799-b70da963054c",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-11-05T16:31:44.031524+08:00",
+  "audio": "b19_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Intro - slap bass, string stabs, funk guitar]"
+    },
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.44,
+      "end": 1.66,
+      "text": "星期天晚上十一點"
+    },
+    {
+      "t": 1.78,
+      "end": 8.68,
+      "text": "二十一個便當排一排"
+    },
+    {
+      "t": 8.68,
+      "end": 10.24,
+      "text": "雞胸肉配花椰菜"
+    },
+    {
+      "t": 25.54,
+      "end": 30.98,
+      "text": "每盒都寫上星期幾"
+    },
+    {
+      "t": 31.3,
+      "end": 31.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 31.3,
+      "end": 37.7,
+      "text": "冷凍庫只有一個抽屜"
+    },
+    {
+      "t": 37.7,
+      "end": 41.3,
+      "text": "我把它當方塊在玩"
+    },
+    {
+      "t": 42.0,
+      "end": 42.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.0,
+      "end": 44.18,
+      "text": "轉一下 推進去"
+    },
+    {
+      "t": 45.56,
+      "end": 47.86,
+      "text": "星期三卡在星期一"
+    },
+    {
+      "t": 50.17,
+      "end": 52.87,
+      "text": "室友的冰淇淋"
+    },
+    {
+      "t": 54.01,
+      "end": 57.47,
+      "text": "對不起 請你先出去"
+    },
+    {
+      "t": 61.13,
+      "end": 61.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.13,
+      "end": 63.61,
+      "text": "她在門口叉著腰"
+    },
+    {
+      "t": 65.15,
+      "end": 67.19,
+      "text": "問我是不是要開店"
+    },
+    {
+      "t": 69.45,
+      "end": 71.63,
+      "text": "我說這叫做規劃"
+    },
+    {
+      "t": 71.97,
+      "end": 73.63,
+      "text": "其實我只是懶得煮"
+    },
+    {
+      "t": 101.93,
+      "end": 101.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 101.93,
+      "end": 105.01,
+      "text": "最後一盒還差一公分"
+    },
+    {
+      "t": 109.97,
+      "end": 112.75,
+      "text": "我用膝蓋輕輕地推"
+    },
+    {
+      "t": 118.45,
+      "end": 118.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.45,
+      "end": 120.61,
+      "text": "轉一下 推進去"
+    },
+    {
+      "t": 121.97,
+      "end": 124.17,
+      "text": "星期五疊在星期四"
+    },
+    {
+      "t": 126.49,
+      "end": 129.29,
+      "text": "室友的冰淇淋"
+    },
+    {
+      "t": 130.05,
+      "end": 136.63,
+      "text": "今晚就搬進我肚子裡"
+    },
+    {
+      "t": 137.07,
+      "end": 137.07,
+      "text": "[Outro - strings, slap bass fade]"
+    },
+    {
+      "t": 137.07,
+      "end": 180.96,
+      "text": "下週我買一個新冰箱"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.58,
+      "end": 0.58,
+      "text": "[Intro - slap bass, string stabs, funk guitar]"
+    },
+    {
+      "t": 0.58,
+      "end": 0.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.58,
+      "end": 38.34,
+      "text": "星期天晚上十一點"
+    },
+    {
+      "t": 38.96,
+      "end": 40.8,
+      "text": "二十一個便當排一排"
+    },
+    {
+      "t": 42.0,
+      "end": 43.76,
+      "text": "雞胸肉配花椰菜"
+    },
+    {
+      "t": 43.86,
+      "end": 47.46,
+      "text": "每盒都寫上星期幾"
+    },
+    {
+      "t": 47.72,
+      "end": 47.72,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.72,
+      "end": 51.05,
+      "text": "冷凍庫只有一個抽屜"
+    },
+    {
+      "t": 51.05,
+      "end": 52.99,
+      "text": "我把它當方塊在玩"
+    },
+    {
+      "t": 53.99,
+      "end": 53.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.99,
+      "end": 55.31,
+      "text": "轉一下 推進去"
+    },
+    {
+      "t": 55.31,
+      "end": 57.07,
+      "text": "星期三卡在星期一"
+    },
+    {
+      "t": 57.07,
+      "end": 57.65,
+      "text": "室友的冰淇淋"
+    },
+    {
+      "t": 57.65,
+      "end": 61.39,
+      "text": "對不起 請你先出去"
+    },
+    {
+      "t": 61.39,
+      "end": 61.39,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.39,
+      "end": 63.71,
+      "text": "她在門口叉著腰"
+    },
+    {
+      "t": 65.15,
+      "end": 67.19,
+      "text": "問我是不是要開店"
+    },
+    {
+      "t": 69.45,
+      "end": 71.63,
+      "text": "我說這叫做規劃"
+    },
+    {
+      "t": 71.99,
+      "end": 73.63,
+      "text": "其實我只是懶得煮"
+    },
+    {
+      "t": 101.93,
+      "end": 101.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 101.93,
+      "end": 105.01,
+      "text": "最後一盒還差一公分"
+    },
+    {
+      "t": 109.99,
+      "end": 114.77,
+      "text": "我用膝蓋輕輕地推"
+    },
+    {
+      "t": 115.17,
+      "end": 115.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.17,
+      "end": 120.61,
+      "text": "轉一下 推進去"
+    },
+    {
+      "t": 121.97,
+      "end": 124.17,
+      "text": "星期五疊在星期四"
+    },
+    {
+      "t": 124.51,
+      "end": 130.03,
+      "text": "室友的冰淇淋"
+    },
+    {
+      "t": 130.05,
+      "end": 133.79,
+      "text": "今晚就搬進我肚子裡"
+    },
+    {
+      "t": 135.05,
+      "end": 135.05,
+      "text": "[Outro - strings, slap bass fade]"
+    },
+    {
+      "t": 135.05,
+      "end": 180.76,
+      "text": "下週我買一個新冰箱"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

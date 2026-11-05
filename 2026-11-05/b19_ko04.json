@@ -1,0 +1,337 @@
+{
+  "id": "b19_ko04",
+  "title": "열다섯의 편지",
+  "title_source": "scripted",
+  "genre": "Korean 2000s co-ed retro dance pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "goofy, nostalgic, high-energy",
+  "persona": "",
+  "subject": "a 35-year-old receiving the letter her fifteen-year-old self wrote for a school time capsule, which orders her to be married to a boy-band member and own a red convertible by now",
+  "caption": "Korean 2000s co-ed retro dance pop in the style of early-2000s mixed-gender groups. Trance-lite saw synth lead, four-on-the-floor kick with stacked handclaps, slap bass synth, orchestra hit stabs on transitions. Shiny early-2000s production, bright compression. Female lead and male counter-voice trading lines, both clearly sung melody, no rap verse. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, C minor. Goofy, nostalgic, high-energy. No trap, no autotune, no rap, no modern EDM drop, no ballad breakdown.",
+  "lyrics": "[Intro - orchestra hit, saw synth lead]\n\n[Verse 1]\n학교에서 온 누런 봉투\n이십 년 전 내 글씨체\n서른다섯 나에게\n첫 줄부터 명령이야\n\n[Pre-Chorus]\n너 지금쯤 결혼했지\n오빠 그룹 막내랑\n\n[Chorus]\n미안해 열다섯 살 나\n막내는 결혼했대\n빨간 오픈카 대신\n버스 카드만 있어\n\n[Verse 2]\n추신까지 빽빽하게\n키는 꼭 백칠십 넘기\n수학은 포기해도 돼\n그건 잘 지켰어\n\n[Pre-Chorus]\n마지막에 하트 세 개\n행복하지? 물어봐\n\n[Chorus]\n미안해 열다섯 살 나\n키는 백육십이야\n근데 웃고 있어\n편지 읽으면서\n\n[Outro - saw synth lead, handclaps]\n답장은 어디로 보내\n열다섯 살 나에게",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "C minor",
+    "timesignature": "4",
+    "prompt": "Korean 2000s co-ed retro dance pop in the style of early-2000s mixed-gender groups. Trance-lite saw synth lead, four-on-the-floor kick with stacked handclaps, slap bass synth, orchestra hit stabs on transitions. Shiny early-2000s production, bright compression. Female lead and male counter-voice trading lines, both clearly sung melody, no rap verse. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, C minor. Goofy, nostalgic, high-energy. No trap, no autotune, no rap, no modern EDM drop, no ballad breakdown.",
+    "lyrics": "[Intro - orchestra hit, saw synth lead]\n\n[Verse 1]\n학교에서 온 누런 봉투\n이십 년 전 내 글씨체\n서른다섯 나에게\n첫 줄부터 명령이야\n\n[Pre-Chorus]\n너 지금쯤 결혼했지\n오빠 그룹 막내랑\n\n[Chorus]\n미안해 열다섯 살 나\n막내는 결혼했대\n빨간 오픈카 대신\n버스 카드만 있어\n\n[Verse 2]\n추신까지 빽빽하게\n키는 꼭 백칠십 넘기\n수학은 포기해도 돼\n그건 잘 지켰어\n\n[Pre-Chorus]\n마지막에 하트 세 개\n행복하지? 물어봐\n\n[Chorus]\n미안해 열다섯 살 나\n키는 백육십이야\n근데 웃고 있어\n편지 읽으면서\n\n[Outro - saw synth lead, handclaps]\n답장은 어디로 보내\n열다섯 살 나에게"
+  },
+  "seed": "3151204842",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.95s**\n- 60.95s per song\n- LM phase (1 song): 12.94s\n- DiT phase (1 song): 48.01s",
+  "task_id": "c59401b0-91c4-497d-8142-05f1356c951b",
+  "elapsed_s": 94.3,
+  "generated_at": "2026-11-05T15:39:19.310788+08:00",
+  "audio": "b19_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Intro - orchestra hit, saw synth lead]"
+    },
+    {
+      "t": 0.56,
+      "end": 0.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.56,
+      "end": 35.1,
+      "text": "학교에서 온 누런 봉투"
+    },
+    {
+      "t": 36.24,
+      "end": 39.34,
+      "text": "이십 년 전 내 글씨체"
+    },
+    {
+      "t": 41.06,
+      "end": 43.1,
+      "text": "서른다섯 나에게"
+    },
+    {
+      "t": 44.58,
+      "end": 46.86,
+      "text": "첫 줄부터 명령이야"
+    },
+    {
+      "t": 47.42,
+      "end": 47.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.42,
+      "end": 50.37,
+      "text": "너 지금쯤 결혼했지"
+    },
+    {
+      "t": 50.77,
+      "end": 58.19,
+      "text": "오빠 그룹 막내랑"
+    },
+    {
+      "t": 59.85,
+      "end": 59.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.85,
+      "end": 62.07,
+      "text": "미안해 열다섯 살 나"
+    },
+    {
+      "t": 63.83,
+      "end": 66.05,
+      "text": "막내는 결혼했대"
+    },
+    {
+      "t": 67.51,
+      "end": 69.99,
+      "text": "빨간 오픈카 대신"
+    },
+    {
+      "t": 71.33,
+      "end": 73.57,
+      "text": "버스 카드만 있어"
+    },
+    {
+      "t": 76.69,
+      "end": 76.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.69,
+      "end": 78.73,
+      "text": "추신까지 빽빽하게"
+    },
+    {
+      "t": 80.47,
+      "end": 82.95,
+      "text": "키는 꼭 백칠십 넘기"
+    },
+    {
+      "t": 84.23,
+      "end": 86.29,
+      "text": "수학은 포기해도 돼"
+    },
+    {
+      "t": 87.73,
+      "end": 90.21,
+      "text": "그건 잘 지켰어"
+    },
+    {
+      "t": 91.49,
+      "end": 91.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 91.49,
+      "end": 99.83,
+      "text": "마지막에 하트 세 개"
+    },
+    {
+      "t": 100.15,
+      "end": 108.73,
+      "text": "행복하지? 물어봐"
+    },
+    {
+      "t": 112.35,
+      "end": 112.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.35,
+      "end": 115.05,
+      "text": "미안해 열다섯 살 나"
+    },
+    {
+      "t": 116.07,
+      "end": 118.57,
+      "text": "키는 백육십이야"
+    },
+    {
+      "t": 119.83,
+      "end": 122.55,
+      "text": "근데 웃고 있어"
+    },
+    {
+      "t": 128.01,
+      "end": 131.69,
+      "text": "편지 읽으면서"
+    },
+    {
+      "t": 135.53,
+      "end": 135.53,
+      "text": "[Outro - saw synth lead, handclaps]"
+    },
+    {
+      "t": 135.53,
+      "end": 145.75,
+      "text": "답장은 어디로 보내"
+    },
+    {
+      "t": 146.09,
+      "end": 180.2,
+      "text": "열다섯 살 나에게"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Intro - orchestra hit, saw synth lead]"
+    },
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.54,
+      "end": 35.14,
+      "text": "학교에서 온 누런 봉투"
+    },
+    {
+      "t": 36.24,
+      "end": 39.36,
+      "text": "이십 년 전 내 글씨체"
+    },
+    {
+      "t": 41.06,
+      "end": 43.12,
+      "text": "서른다섯 나에게"
+    },
+    {
+      "t": 44.58,
+      "end": 46.86,
+      "text": "첫 줄부터 명령이야"
+    },
+    {
+      "t": 47.42,
+      "end": 47.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.42,
+      "end": 50.37,
+      "text": "너 지금쯤 결혼했지"
+    },
+    {
+      "t": 50.77,
+      "end": 58.17,
+      "text": "오빠 그룹 막내랑"
+    },
+    {
+      "t": 59.85,
+      "end": 59.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.85,
+      "end": 62.11,
+      "text": "미안해 열다섯 살 나"
+    },
+    {
+      "t": 63.83,
+      "end": 66.07,
+      "text": "막내는 결혼했대"
+    },
+    {
+      "t": 67.49,
+      "end": 69.99,
+      "text": "빨간 오픈카 대신"
+    },
+    {
+      "t": 71.31,
+      "end": 73.59,
+      "text": "버스 카드만 있어"
+    },
+    {
+      "t": 76.67,
+      "end": 76.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.67,
+      "end": 78.73,
+      "text": "추신까지 빽빽하게"
+    },
+    {
+      "t": 80.47,
+      "end": 82.99,
+      "text": "키는 꼭 백칠십 넘기"
+    },
+    {
+      "t": 84.23,
+      "end": 86.31,
+      "text": "수학은 포기해도 돼"
+    },
+    {
+      "t": 87.73,
+      "end": 89.97,
+      "text": "그건 잘 지켰어"
+    },
+    {
+      "t": 91.49,
+      "end": 91.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 91.49,
+      "end": 99.85,
+      "text": "마지막에 하트 세 개"
+    },
+    {
+      "t": 100.15,
+      "end": 108.73,
+      "text": "행복하지? 물어봐"
+    },
+    {
+      "t": 112.33,
+      "end": 112.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.33,
+      "end": 115.05,
+      "text": "미안해 열다섯 살 나"
+    },
+    {
+      "t": 116.07,
+      "end": 118.59,
+      "text": "키는 백육십이야"
+    },
+    {
+      "t": 119.83,
+      "end": 122.55,
+      "text": "근데 웃고 있어"
+    },
+    {
+      "t": 128.03,
+      "end": 131.71,
+      "text": "편지 읽으면서"
+    },
+    {
+      "t": 135.55,
+      "end": 135.55,
+      "text": "[Outro - saw synth lead, handclaps]"
+    },
+    {
+      "t": 135.55,
+      "end": 139.21,
+      "text": "답장은 어디로 보내"
+    },
+    {
+      "t": 143.03,
+      "end": 180.2,
+      "text": "열다섯 살 나에게"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

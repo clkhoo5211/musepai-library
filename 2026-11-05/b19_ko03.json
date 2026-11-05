@@ -1,0 +1,534 @@
+{
+  "id": "b19_ko03",
+  "title": "무인 가게 사장님",
+  "title_source": "scripted",
+  "genre": "Korean piano house",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "sunny, wry, affectionate",
+  "persona": "",
+  "subject": "the owner of a staffless ice-cream shop who watches the CCTV every night and finds one primary-school boy who pays in exact coins and leaves a sticky-note review each time",
+  "caption": "Korean piano house in 90s style. M1-style house piano chord stabs, steady four-on-the-floor kick, open off-beat hi-hats, rubbery bass line, light hand claps. Warm 90s house texture with gentle side-chain pump. Male tenor lead, clearly sung melody, bright and open. Clear full voice, every word enunciated, steady sung melody on every line. 122 BPM, A major. Sunny, wry and affectionate. No EDM drop, no trap drums, no autotune, no rap, no deep-house murk.",
+  "lyrics": "[Intro - house piano stabs, kick]\n\n[Verse 1]\n밤 열한 시 가게 문 닫고\nCCTV 돌려 보는 시간\n오늘도 그 꼬마 손님\n동전을 세고 또 세\n\n[Pre-Chorus]\n딱 맞게 천이백 원\n바구니에 쨍그랑\n\n[Chorus]\n무인 가게 사장님은\n오늘도 화면 앞에 앉아\n포스트잇 한 장에\n하루가 다 풀려\n\n[Verse 2]\n냉동고 옆 메모 한 장\n삐뚤빼뚤 연필 글씨\n죠스바가 제일 맛있어요\n근데 좀 녹았어요\n\n[Pre-Chorus]\n그날 밤 온도를 내렸어\n일 도, 또 일 도\n\n[Chorus]\n무인 가게 사장님은\n내일 아침 일찍 나와서\n죠스바 한 줄을\n맨 앞에 채워 놔\n\n[Bridge - piano solo, claps]\n얼굴도 이름도 모르는\n제일 정직한 내 단골\n\n[Outro - piano stabs fade]\n고마워요, 꼬마 손님\n죠스바는 꽁꽁 얼었어",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Korean piano house in 90s style. M1-style house piano chord stabs, steady four-on-the-floor kick, open off-beat hi-hats, rubbery bass line, light hand claps. Warm 90s house texture with gentle side-chain pump. Male tenor lead, clearly sung melody, bright and open. Clear full voice, every word enunciated, steady sung melody on every line. 122 BPM, A major. Sunny, wry and affectionate. No EDM drop, no trap drums, no autotune, no rap, no deep-house murk.",
+    "lyrics": "[Intro - house piano stabs, kick]\n\n[Verse 1]\n밤 열한 시 가게 문 닫고\nCCTV 돌려 보는 시간\n오늘도 그 꼬마 손님\n동전을 세고 또 세\n\n[Pre-Chorus]\n딱 맞게 천이백 원\n바구니에 쨍그랑\n\n[Chorus]\n무인 가게 사장님은\n오늘도 화면 앞에 앉아\n포스트잇 한 장에\n하루가 다 풀려\n\n[Verse 2]\n냉동고 옆 메모 한 장\n삐뚤빼뚤 연필 글씨\n죠스바가 제일 맛있어요\n근데 좀 녹았어요\n\n[Pre-Chorus]\n그날 밤 온도를 내렸어\n일 도, 또 일 도\n\n[Chorus]\n무인 가게 사장님은\n내일 아침 일찍 나와서\n죠스바 한 줄을\n맨 앞에 채워 놔\n\n[Bridge - piano solo, claps]\n얼굴도 이름도 모르는\n제일 정직한 내 단골\n\n[Outro - piano stabs fade]\n고마워요, 꼬마 손님\n죠스바는 꽁꽁 얼었어"
+  },
+  "seed": "875000587",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.26s**\n- 61.26s per song\n- LM phase (1 song): 14.71s\n- DiT phase (1 song): 46.55s",
+  "task_id": "b42a42f0-a089-4ebe-9fa8-ec5e14a49b6b",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-11-05T17:31:01.366907+08:00",
+  "audio": "b19_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.5,
+      "end": 10.5,
+      "text": "[Intro - house piano stabs, kick]"
+    },
+    {
+      "t": 10.5,
+      "end": 10.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.5,
+      "end": 12.8,
+      "text": "밤 열한 시 가게 문 닫고"
+    },
+    {
+      "t": 14.42,
+      "end": 18.6,
+      "text": "CCTV 돌려 보는 시간"
+    },
+    {
+      "t": 18.62,
+      "end": 20.9,
+      "text": "오늘도 그 꼬마 손님"
+    },
+    {
+      "t": 21.16,
+      "end": 26.32,
+      "text": "동전을 세고 또 세"
+    },
+    {
+      "t": 26.54,
+      "end": 26.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 26.54,
+      "end": 28.62,
+      "text": "딱 맞게 천이백 원"
+    },
+    {
+      "t": 28.62,
+      "end": 31.56,
+      "text": "바구니에 쨍그랑"
+    },
+    {
+      "t": 31.58,
+      "end": 31.58,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 31.58,
+      "end": 33.6,
+      "text": "무인 가게 사장님은"
+    },
+    {
+      "t": 33.68,
+      "end": 36.18,
+      "text": "오늘도 화면 앞에 앉아"
+    },
+    {
+      "t": 36.24,
+      "end": 37.28,
+      "text": "포스트잇 한 장에"
+    },
+    {
+      "t": 37.28,
+      "end": 38.26,
+      "text": "하루가 다 풀려"
+    },
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.89,
+      "end": 63.91,
+      "text": "냉동고 옆 메모 한 장"
+    },
+    {
+      "t": 64.27,
+      "end": 66.67,
+      "text": "삐뚤빼뚤 연필 글씨"
+    },
+    {
+      "t": 69.47,
+      "end": 71.77,
+      "text": "죠스바가 제일 맛있어요"
+    },
+    {
+      "t": 72.45,
+      "end": 74.57,
+      "text": "근데 좀 녹았어요"
+    },
+    {
+      "t": 77.09,
+      "end": 77.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.09,
+      "end": 90.97,
+      "text": "그날 밤 온도를 내렸어"
+    },
+    {
+      "t": 92.41,
+      "end": 94.19,
+      "text": "일 도, 또 일 도"
+    },
+    {
+      "t": 96.27,
+      "end": 96.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.27,
+      "end": 99.77,
+      "text": "무인 가게 사장님은"
+    },
+    {
+      "t": 100.19,
+      "end": 103.55,
+      "text": "내일 아침 일찍 나와서"
+    },
+    {
+      "t": 105.05,
+      "end": 107.63,
+      "text": "죠스바 한 줄을"
+    },
+    {
+      "t": 108.07,
+      "end": 119.77,
+      "text": "맨 앞에 채워 놔"
+    },
+    {
+      "t": 123.79,
+      "end": 123.79,
+      "text": "[Bridge - piano solo, claps]"
+    },
+    {
+      "t": 123.79,
+      "end": 128.27,
+      "text": "얼굴도 이름도 모르는"
+    },
+    {
+      "t": 129.65,
+      "end": 136.03,
+      "text": "제일 정직한 내 단골"
+    },
+    {
+      "t": 137.07,
+      "end": 137.07,
+      "text": "[Outro - piano stabs fade]"
+    },
+    {
+      "t": 137.07,
+      "end": 181.22,
+      "text": "고마워요, 꼬마 손님"
+    },
+    {
+      "t": 184.36,
+      "end": 189.24,
+      "text": "죠스바는 꽁꽁 얼었어"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 10.5,
+      "end": 10.5,
+      "text": "[Intro - house piano stabs, kick]"
+    },
+    {
+      "t": 10.5,
+      "end": 10.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.5,
+      "end": 12.8,
+      "text": "밤 열한 시 가게 문 닫고"
+    },
+    {
+      "t": 14.42,
+      "end": 18.6,
+      "text": "CCTV 돌려 보는 시간"
+    },
+    {
+      "t": 18.62,
+      "end": 20.9,
+      "text": "오늘도 그 꼬마 손님"
+    },
+    {
+      "t": 21.16,
+      "end": 26.32,
+      "text": "동전을 세고 또 세"
+    },
+    {
+      "t": 26.54,
+      "end": 26.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 26.54,
+      "end": 28.62,
+      "text": "딱 맞게 천이백 원"
+    },
+    {
+      "t": 28.62,
+      "end": 31.56,
+      "text": "바구니에 쨍그랑"
+    },
+    {
+      "t": 31.58,
+      "end": 31.58,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 31.58,
+      "end": 33.6,
+      "text": "무인 가게 사장님은"
+    },
+    {
+      "t": 33.68,
+      "end": 36.18,
+      "text": "오늘도 화면 앞에 앉아"
+    },
+    {
+      "t": 36.24,
+      "end": 37.28,
+      "text": "포스트잇 한 장에"
+    },
+    {
+      "t": 37.28,
+      "end": 38.26,
+      "text": "하루가 다 풀려"
+    },
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.89,
+      "end": 63.91,
+      "text": "냉동고 옆 메모 한 장"
+    },
+    {
+      "t": 64.27,
+      "end": 66.67,
+      "text": "삐뚤빼뚤 연필 글씨"
+    },
+    {
+      "t": 69.47,
+      "end": 71.77,
+      "text": "죠스바가 제일 맛있어요"
+    },
+    {
+      "t": 72.45,
+      "end": 74.57,
+      "text": "근데 좀 녹았어요"
+    },
+    {
+      "t": 77.09,
+      "end": 77.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.09,
+      "end": 90.97,
+      "text": "그날 밤 온도를 내렸어"
+    },
+    {
+      "t": 92.41,
+      "end": 94.19,
+      "text": "일 도, 또 일 도"
+    },
+    {
+      "t": 96.27,
+      "end": 96.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.27,
+      "end": 99.77,
+      "text": "무인 가게 사장님은"
+    },
+    {
+      "t": 100.19,
+      "end": 103.55,
+      "text": "내일 아침 일찍 나와서"
+    },
+    {
+      "t": 105.05,
+      "end": 107.63,
+      "text": "죠스바 한 줄을"
+    },
+    {
+      "t": 108.07,
+      "end": 119.77,
+      "text": "맨 앞에 채워 놔"
+    },
+    {
+      "t": 123.79,
+      "end": 123.79,
+      "text": "[Bridge - piano solo, claps]"
+    },
+    {
+      "t": 123.79,
+      "end": 128.27,
+      "text": "얼굴도 이름도 모르는"
+    },
+    {
+      "t": 129.65,
+      "end": 136.03,
+      "text": "제일 정직한 내 단골"
+    },
+    {
+      "t": 137.07,
+      "end": 137.07,
+      "text": "[Outro - piano stabs fade]"
+    },
+    {
+      "t": 137.07,
+      "end": 181.22,
+      "text": "고마워요, 꼬마 손님"
+    },
+    {
+      "t": 184.36,
+      "end": 189.24,
+      "text": "죠스바는 꽁꽁 얼었어"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 17.08,
+      "end": 17.08,
+      "text": "[Intro - house piano stabs, kick]"
+    },
+    {
+      "t": 17.08,
+      "end": 17.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.08,
+      "end": 19.92,
+      "text": "밤 열한 시 가게 문 닫고"
+    },
+    {
+      "t": 20.48,
+      "end": 25.24,
+      "text": "CCTV 돌려 보는 시간"
+    },
+    {
+      "t": 25.36,
+      "end": 28.84,
+      "text": "오늘도 그 꼬마 손님"
+    },
+    {
+      "t": 28.84,
+      "end": 29.76,
+      "text": "동전을 세고 또 세"
+    },
+    {
+      "t": 30.8,
+      "end": 30.8,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 30.8,
+      "end": 33.98,
+      "text": "딱 맞게 천이백 원"
+    },
+    {
+      "t": 34.84,
+      "end": 37.22,
+      "text": "바구니에 쨍그랑"
+    },
+    {
+      "t": 39.02,
+      "end": 39.02,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.02,
+      "end": 47.1,
+      "text": "무인 가게 사장님은"
+    },
+    {
+      "t": 47.44,
+      "end": 54.11,
+      "text": "오늘도 화면 앞에 앉아"
+    },
+    {
+      "t": 54.29,
+      "end": 55.09,
+      "text": "포스트잇 한 장에"
+    },
+    {
+      "t": 55.29,
+      "end": 58.77,
+      "text": "하루가 다 풀려"
+    },
+    {
+      "t": 61.89,
+      "end": 61.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.89,
+      "end": 63.93,
+      "text": "냉동고 옆 메모 한 장"
+    },
+    {
+      "t": 64.09,
+      "end": 66.67,
+      "text": "삐뚤빼뚤 연필 글씨"
+    },
+    {
+      "t": 69.47,
+      "end": 71.81,
+      "text": "죠스바가 제일 맛있어요"
+    },
+    {
+      "t": 72.45,
+      "end": 74.57,
+      "text": "근데 좀 녹았어요"
+    },
+    {
+      "t": 77.09,
+      "end": 77.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.09,
+      "end": 90.97,
+      "text": "그날 밤 온도를 내렸어"
+    },
+    {
+      "t": 92.39,
+      "end": 94.17,
+      "text": "일 도, 또 일 도"
+    },
+    {
+      "t": 96.25,
+      "end": 96.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.25,
+      "end": 99.77,
+      "text": "무인 가게 사장님은"
+    },
+    {
+      "t": 100.19,
+      "end": 103.53,
+      "text": "내일 아침 일찍 나와서"
+    },
+    {
+      "t": 105.07,
+      "end": 107.55,
+      "text": "죠스바 한 줄을"
+    },
+    {
+      "t": 108.05,
+      "end": 119.77,
+      "text": "맨 앞에 채워 놔"
+    },
+    {
+      "t": 123.83,
+      "end": 123.83,
+      "text": "[Bridge - piano solo, claps]"
+    },
+    {
+      "t": 123.83,
+      "end": 129.59,
+      "text": "얼굴도 이름도 모르는"
+    },
+    {
+      "t": 129.67,
+      "end": 136.09,
+      "text": "제일 정직한 내 단골"
+    },
+    {
+      "t": 137.07,
+      "end": 137.07,
+      "text": "[Outro - piano stabs fade]"
+    },
+    {
+      "t": 137.07,
+      "end": 181.18,
+      "text": "고마워요, 꼬마 손님"
+    },
+    {
+      "t": 184.36,
+      "end": 189.24,
+      "text": "죠스바는 꽁꽁 얼었어"
+    }
+  ]
+}

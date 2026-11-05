@@ -1,0 +1,327 @@
+{
+  "id": "b19_en02",
+  "title": "Lemon and Basil",
+  "title_source": "scripted",
+  "genre": "power pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "bouncy, sheepish",
+  "persona": "",
+  "subject": "a woman whose homemade lemon-and-basil candle side hustle takes over her one-bed flat, wax on the hob and boxes on the bed, until the postman says the whole street smells of her and she has sold just four",
+  "caption": "Power pop, 1970s guitar pop in the Big Star and Raspberries tradition. Ringing twelve-string electric guitar riff, crunchy overdriven rhythm guitar, melodic picked bass, tight live drums with snappy snare and handclaps. Punchy warm band production, stacked backing harmonies. Female alto, clearly sung melody, bright and direct. Clear full voice, every word enunciated, steady sung melody on every line. 148 BPM, A major. Bouncy, self-mocking, upbeat. No synth pads, no trap hi-hats, no autotune, no EDM drops, no ballad tempo.",
+  "lyrics": "[Intro - twelve-string riff, handclaps]\n\n[Verse 1]\nI bought ten kilos of soy wax in May\nAnd a bottle of oil called Lemon Basil Day\nThe saucepan's ruined, the hob is a mess\nAnd there's a wick stuck to my favourite dress\n\n[Pre-Chorus]\nBoxes on the bed, jars in the hall\nI sleep sitting up against the wall\n\n[Chorus]\nLemon and basil, lemon and basil\nThe whole flat smells like a salad\nI'm a business now, I've got a logo\nAnd so far I've sold four\n\n[Verse 2]\nThe postman sniffed at the door today\nHe said the whole street smells this way\nMy mother bought two, my sister one\nAnd a man in Leeds, just for fun\n\n[Pre-Chorus]\nI tell my friends it's going fine\nI've got a spreadsheet, half a line\n\n[Chorus]\nLemon and basil, lemon and basil\nThe whole street smells like a salad\nI'm a business now, I've got a logo\nAnd I'm burning one tonight\n\n[Outro - riff, handclaps fade]\nLemon and basil, open the window",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 148,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Power pop, 1970s guitar pop in the Big Star and Raspberries tradition. Ringing twelve-string electric guitar riff, crunchy overdriven rhythm guitar, melodic picked bass, tight live drums with snappy snare and handclaps. Punchy warm band production, stacked backing harmonies. Female alto, clearly sung melody, bright and direct. Clear full voice, every word enunciated, steady sung melody on every line. 148 BPM, A major. Bouncy, self-mocking, upbeat. No synth pads, no trap hi-hats, no autotune, no EDM drops, no ballad tempo.",
+    "lyrics": "[Intro - twelve-string riff, handclaps]\n\n[Verse 1]\nI bought ten kilos of soy wax in May\nAnd a bottle of oil called Lemon Basil Day\nThe saucepan's ruined, the hob is a mess\nAnd there's a wick stuck to my favourite dress\n\n[Pre-Chorus]\nBoxes on the bed, jars in the hall\nI sleep sitting up against the wall\n\n[Chorus]\nLemon and basil, lemon and basil\nThe whole flat smells like a salad\nI'm a business now, I've got a logo\nAnd so far I've sold four\n\n[Verse 2]\nThe postman sniffed at the door today\nHe said the whole street smells this way\nMy mother bought two, my sister one\nAnd a man in Leeds, just for fun\n\n[Pre-Chorus]\nI tell my friends it's going fine\nI've got a spreadsheet, half a line\n\n[Chorus]\nLemon and basil, lemon and basil\nThe whole street smells like a salad\nI'm a business now, I've got a logo\nAnd I'm burning one tonight\n\n[Outro - riff, handclaps fade]\nLemon and basil, open the window"
+  },
+  "seed": "4249490490",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.28s**\n- 57.28s per song\n- LM phase (1 song): 15.30s\n- DiT phase (1 song): 41.98s",
+  "task_id": "a548e59f-118a-40a7-887e-b1e7297d0f5f",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-11-05T16:25:23.190916+08:00",
+  "audio": "b19_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.38,
+      "end": 7.38,
+      "text": "[Intro - twelve-string riff, handclaps]"
+    },
+    {
+      "t": 7.38,
+      "end": 7.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.38,
+      "end": 11.8,
+      "text": "I bought ten kilos of soy wax in May"
+    },
+    {
+      "t": 13.54,
+      "end": 18.3,
+      "text": "And a bottle of oil called Lemon Basil Day"
+    },
+    {
+      "t": 20.28,
+      "end": 25.32,
+      "text": "The saucepan's ruined, the hob is a mess"
+    },
+    {
+      "t": 27.16,
+      "end": 31.5,
+      "text": "And there's a wick stuck to my favourite dress"
+    },
+    {
+      "t": 34.16,
+      "end": 34.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.16,
+      "end": 38.08,
+      "text": "Boxes on the bed, jars in the hall"
+    },
+    {
+      "t": 41.04,
+      "end": 44.48,
+      "text": "I sleep sitting up against the wall"
+    },
+    {
+      "t": 47.45,
+      "end": 47.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.45,
+      "end": 50.87,
+      "text": "Lemon and basil, lemon and basil"
+    },
+    {
+      "t": 53.29,
+      "end": 57.35,
+      "text": "The whole flat smells like a salad"
+    },
+    {
+      "t": 57.43,
+      "end": 71.13,
+      "text": "I'm a business now, I've got a logo"
+    },
+    {
+      "t": 72.83,
+      "end": 77.27,
+      "text": "And so far I've sold four"
+    },
+    {
+      "t": 80.31,
+      "end": 80.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.31,
+      "end": 84.71,
+      "text": "The postman sniffed at the door today"
+    },
+    {
+      "t": 86.43,
+      "end": 90.39,
+      "text": "He said the whole street smells this way"
+    },
+    {
+      "t": 92.97,
+      "end": 96.27,
+      "text": "My mother bought two, my sister one"
+    },
+    {
+      "t": 99.75,
+      "end": 103.27,
+      "text": "And a man in Leeds, just for fun"
+    },
+    {
+      "t": 106.03,
+      "end": 106.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.03,
+      "end": 109.33,
+      "text": "I tell my friends it's going fine"
+    },
+    {
+      "t": 109.37,
+      "end": 113.61,
+      "text": "I've got a spreadsheet, half a line"
+    },
+    {
+      "t": 116.37,
+      "end": 116.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.37,
+      "end": 120.97,
+      "text": "Lemon and basil, lemon and basil"
+    },
+    {
+      "t": 122.19,
+      "end": 133.49,
+      "text": "The whole street smells like a salad"
+    },
+    {
+      "t": 133.57,
+      "end": 142.86,
+      "text": "I'm a business now, I've got a logo"
+    },
+    {
+      "t": 144.02,
+      "end": 145.84,
+      "text": "And I'm burning one tonight"
+    },
+    {
+      "t": 156.84,
+      "end": 156.84,
+      "text": "[Outro - riff, handclaps fade]"
+    },
+    {
+      "t": 156.84,
+      "end": 173.58,
+      "text": "Lemon and basil, open the window"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.42,
+      "end": 7.42,
+      "text": "[Intro - twelve-string riff, handclaps]"
+    },
+    {
+      "t": 7.42,
+      "end": 7.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.42,
+      "end": 11.86,
+      "text": "I bought ten kilos of soy wax in May"
+    },
+    {
+      "t": 13.54,
+      "end": 18.28,
+      "text": "And a bottle of oil called Lemon Basil Day"
+    },
+    {
+      "t": 20.28,
+      "end": 25.32,
+      "text": "The saucepan's ruined, the hob is a mess"
+    },
+    {
+      "t": 27.14,
+      "end": 31.5,
+      "text": "And there's a wick stuck to my favourite dress"
+    },
+    {
+      "t": 34.16,
+      "end": 34.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.16,
+      "end": 38.1,
+      "text": "Boxes on the bed, jars in the hall"
+    },
+    {
+      "t": 41.06,
+      "end": 44.46,
+      "text": "I sleep sitting up against the wall"
+    },
+    {
+      "t": 47.45,
+      "end": 47.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.45,
+      "end": 50.83,
+      "text": "Lemon and basil, lemon and basil"
+    },
+    {
+      "t": 53.29,
+      "end": 63.23,
+      "text": "The whole flat smells like a salad"
+    },
+    {
+      "t": 63.31,
+      "end": 71.13,
+      "text": "I'm a business now, I've got a logo"
+    },
+    {
+      "t": 72.83,
+      "end": 77.25,
+      "text": "And so far I've sold four"
+    },
+    {
+      "t": 80.29,
+      "end": 80.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.29,
+      "end": 86.45,
+      "text": "The postman sniffed at the door today"
+    },
+    {
+      "t": 86.45,
+      "end": 90.39,
+      "text": "He said the whole street smells this way"
+    },
+    {
+      "t": 92.95,
+      "end": 96.27,
+      "text": "My mother bought two, my sister one"
+    },
+    {
+      "t": 99.75,
+      "end": 103.27,
+      "text": "And a man in Leeds, just for fun"
+    },
+    {
+      "t": 106.03,
+      "end": 106.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.03,
+      "end": 109.31,
+      "text": "I tell my friends it's going fine"
+    },
+    {
+      "t": 109.37,
+      "end": 117.29,
+      "text": "I've got a spreadsheet, half a line"
+    },
+    {
+      "t": 117.99,
+      "end": 117.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.99,
+      "end": 120.93,
+      "text": "Lemon and basil, lemon and basil"
+    },
+    {
+      "t": 122.19,
+      "end": 135.35,
+      "text": "The whole street smells like a salad"
+    },
+    {
+      "t": 135.41,
+      "end": 142.86,
+      "text": "I'm a business now, I've got a logo"
+    },
+    {
+      "t": 144.0,
+      "end": 145.9,
+      "text": "And I'm burning one tonight"
+    },
+    {
+      "t": 156.84,
+      "end": 156.84,
+      "text": "[Outro - riff, handclaps fade]"
+    },
+    {
+      "t": 156.84,
+      "end": 173.56,
+      "text": "Lemon and basil, open the window"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

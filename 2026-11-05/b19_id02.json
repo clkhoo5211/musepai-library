@@ -1,0 +1,444 @@
+{
+  "id": "b19_id02",
+  "title": "Genteng Ketiga dari Kiri",
+  "title_source": "scripted",
+  "genre": "Indonesian romantic dangdut duet",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "mesra, ringan, bergoyang",
+  "persona": "",
+  "subject": "a young married couple in Cimahi on a Sunday afternoon swapping cracked roof tiles on their kontrakan, she passes the new genteng up the ladder one by one while he, scared of heights, will only keep climbing if she keeps talking to him",
+  "caption": "Indonesian romantic dangdut duet, modern pop dangdut with a gentle sway, not koplo. Suling bambu trilling the melody hooks, kendang playing the classic dangdut tak-dut groove, mandolin-style electric guitar tremolo fills, warm string pad, round electric bass. Clean bright studio mix. Male and female duet trading lines with warm cengkok ornaments, clearly sung melody, harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, A minor. Mood of a flirty Sunday chore. No koplo speed-up, no EDM drop, no trap hi-hats, no autotune, no rap.",
+  "lyrics": "[Intro - suling melody, kendang groove]\n[Verse 1]\nJangan lepas tangga, Dik\nIya, Mas, aku di sini\nKakiku gemetar sedikit\nLihat genteng, jangan lihat ke bawah\n[Pre-Chorus]\nSatu lagi, ambil ya\nAsal kamu terus bicara\n[Chorus]\nGenteng ketiga dari kiri\nRetak sejak kita pindah ke sini\nKamu di bawah, aku di atas\nHatiku tenang dengar suaramu, Dik\n[Verse 2]\nCeritakan waktu kita kenal\nKamu jatuhkan es teh di bajuku\nSekarang kamu jatuhkan paku\nTapi kamu masih tertawa begitu\n[Chorus]\nGenteng ketiga dari kiri\nSudah baru, sudah kita ganti\nTurun pelan, pegang tanganku\nMalam nanti atap kita nggak bocor lagi\n[Outro - suling and kendang fade]\nPegang tangganya, Dik\nSelalu, Mas",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Indonesian romantic dangdut duet, modern pop dangdut with a gentle sway, not koplo. Suling bambu trilling the melody hooks, kendang playing the classic dangdut tak-dut groove, mandolin-style electric guitar tremolo fills, warm string pad, round electric bass. Clean bright studio mix. Male and female duet trading lines with warm cengkok ornaments, clearly sung melody, harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, A minor. Mood of a flirty Sunday chore. No koplo speed-up, no EDM drop, no trap hi-hats, no autotune, no rap.",
+    "lyrics": "[Intro - suling melody, kendang groove]\n[Verse 1]\nJangan lepas tangga, Dik\nIya, Mas, aku di sini\nKakiku gemetar sedikit\nLihat genteng, jangan lihat ke bawah\n[Pre-Chorus]\nSatu lagi, ambil ya\nAsal kamu terus bicara\n[Chorus]\nGenteng ketiga dari kiri\nRetak sejak kita pindah ke sini\nKamu di bawah, aku di atas\nHatiku tenang dengar suaramu, Dik\n[Verse 2]\nCeritakan waktu kita kenal\nKamu jatuhkan es teh di bajuku\nSekarang kamu jatuhkan paku\nTapi kamu masih tertawa begitu\n[Chorus]\nGenteng ketiga dari kiri\nSudah baru, sudah kita ganti\nTurun pelan, pegang tanganku\nMalam nanti atap kita nggak bocor lagi\n[Outro - suling and kendang fade]\nPegang tangganya, Dik\nSelalu, Mas"
+  },
+  "seed": "1921191534",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 103.68s**\n- 103.68s per song\n- LM phase (1 song): 18.33s\n- DiT phase (1 song): 85.35s",
+  "task_id": "d316afa9-1a65-4a23-ba43-e6072258ed6d",
+  "elapsed_s": 140.2,
+  "generated_at": "2026-11-05T15:59:19.334909+08:00",
+  "audio": "b19_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.78,
+      "end": 32.78,
+      "text": "[Intro - suling melody, kendang groove]"
+    },
+    {
+      "t": 32.78,
+      "end": 32.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.78,
+      "end": 34.92,
+      "text": "Jangan lepas tangga, Dik"
+    },
+    {
+      "t": 35.02,
+      "end": 39.1,
+      "text": "Iya, Mas, aku di sini"
+    },
+    {
+      "t": 39.1,
+      "end": 43.84,
+      "text": "Kakiku gemetar sedikit"
+    },
+    {
+      "t": 43.84,
+      "end": 53.39,
+      "text": "Lihat genteng, jangan lihat ke bawah"
+    },
+    {
+      "t": 53.39,
+      "end": 53.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.39,
+      "end": 55.65,
+      "text": "Satu lagi, ambil ya"
+    },
+    {
+      "t": 55.67,
+      "end": 58.69,
+      "text": "Asal kamu terus bicara"
+    },
+    {
+      "t": 61.13,
+      "end": 61.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.13,
+      "end": 65.05,
+      "text": "Genteng ketiga dari kiri"
+    },
+    {
+      "t": 65.17,
+      "end": 70.19,
+      "text": "Retak sejak kita pindah ke sini"
+    },
+    {
+      "t": 76.09,
+      "end": 82.15,
+      "text": "Kamu di bawah, aku di atas"
+    },
+    {
+      "t": 82.15,
+      "end": 84.79,
+      "text": "Hatiku tenang dengar suaramu, Dik"
+    },
+    {
+      "t": 84.79,
+      "end": 84.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.79,
+      "end": 86.51,
+      "text": "Ceritakan waktu kita kenal"
+    },
+    {
+      "t": 86.51,
+      "end": 91.89,
+      "text": "Kamu jatuhkan es teh di bajuku"
+    },
+    {
+      "t": 92.51,
+      "end": 95.35,
+      "text": "Sekarang kamu jatuhkan paku"
+    },
+    {
+      "t": 95.35,
+      "end": 100.15,
+      "text": "Tapi kamu masih tertawa begitu"
+    },
+    {
+      "t": 106.31,
+      "end": 106.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.31,
+      "end": 127.75,
+      "text": "Genteng ketiga dari kiri"
+    },
+    {
+      "t": 128.31,
+      "end": 129.63,
+      "text": "Sudah baru, sudah kita ganti"
+    },
+    {
+      "t": 130.65,
+      "end": 133.35,
+      "text": "Turun pelan, pegang tanganku"
+    },
+    {
+      "t": 133.93,
+      "end": 137.15,
+      "text": "Malam nanti atap kita nggak bocor lagi"
+    },
+    {
+      "t": 158.84,
+      "end": 158.84,
+      "text": "[Outro - suling and kendang fade]"
+    },
+    {
+      "t": 158.84,
+      "end": 160.9,
+      "text": "Pegang tangganya, Dik"
+    },
+    {
+      "t": 173.28,
+      "end": 184.92,
+      "text": "Selalu, Mas"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.78,
+      "end": 32.78,
+      "text": "[Intro - suling melody, kendang groove]"
+    },
+    {
+      "t": 32.78,
+      "end": 32.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.78,
+      "end": 34.92,
+      "text": "Jangan lepas tangga, Dik"
+    },
+    {
+      "t": 35.02,
+      "end": 39.1,
+      "text": "Iya, Mas, aku di sini"
+    },
+    {
+      "t": 39.1,
+      "end": 43.84,
+      "text": "Kakiku gemetar sedikit"
+    },
+    {
+      "t": 43.84,
+      "end": 53.39,
+      "text": "Lihat genteng, jangan lihat ke bawah"
+    },
+    {
+      "t": 53.39,
+      "end": 53.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.39,
+      "end": 55.65,
+      "text": "Satu lagi, ambil ya"
+    },
+    {
+      "t": 55.67,
+      "end": 58.69,
+      "text": "Asal kamu terus bicara"
+    },
+    {
+      "t": 61.13,
+      "end": 61.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.13,
+      "end": 65.05,
+      "text": "Genteng ketiga dari kiri"
+    },
+    {
+      "t": 65.17,
+      "end": 70.19,
+      "text": "Retak sejak kita pindah ke sini"
+    },
+    {
+      "t": 76.09,
+      "end": 82.15,
+      "text": "Kamu di bawah, aku di atas"
+    },
+    {
+      "t": 82.15,
+      "end": 84.79,
+      "text": "Hatiku tenang dengar suaramu, Dik"
+    },
+    {
+      "t": 84.79,
+      "end": 84.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.79,
+      "end": 86.51,
+      "text": "Ceritakan waktu kita kenal"
+    },
+    {
+      "t": 86.51,
+      "end": 91.89,
+      "text": "Kamu jatuhkan es teh di bajuku"
+    },
+    {
+      "t": 92.51,
+      "end": 95.35,
+      "text": "Sekarang kamu jatuhkan paku"
+    },
+    {
+      "t": 95.35,
+      "end": 100.15,
+      "text": "Tapi kamu masih tertawa begitu"
+    },
+    {
+      "t": 106.31,
+      "end": 106.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.31,
+      "end": 127.75,
+      "text": "Genteng ketiga dari kiri"
+    },
+    {
+      "t": 128.31,
+      "end": 129.63,
+      "text": "Sudah baru, sudah kita ganti"
+    },
+    {
+      "t": 130.65,
+      "end": 133.35,
+      "text": "Turun pelan, pegang tanganku"
+    },
+    {
+      "t": 133.93,
+      "end": 137.15,
+      "text": "Malam nanti atap kita nggak bocor lagi"
+    },
+    {
+      "t": 158.84,
+      "end": 158.84,
+      "text": "[Outro - suling and kendang fade]"
+    },
+    {
+      "t": 158.84,
+      "end": 160.9,
+      "text": "Pegang tangganya, Dik"
+    },
+    {
+      "t": 173.28,
+      "end": 184.92,
+      "text": "Selalu, Mas"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 15.68,
+      "end": 15.68,
+      "text": "[Intro - suling melody, kendang groove]"
+    },
+    {
+      "t": 15.68,
+      "end": 15.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.68,
+      "end": 19.0,
+      "text": "Jangan lepas tangga, Dik"
+    },
+    {
+      "t": 19.0,
+      "end": 24.18,
+      "text": "Iya, Mas, aku di sini"
+    },
+    {
+      "t": 25.04,
+      "end": 30.92,
+      "text": "Kakiku gemetar sedikit"
+    },
+    {
+      "t": 32.54,
+      "end": 38.68,
+      "text": "Lihat genteng, jangan lihat ke bawah"
+    },
+    {
+      "t": 39.1,
+      "end": 39.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.1,
+      "end": 50.96,
+      "text": "Satu lagi, ambil ya"
+    },
+    {
+      "t": 51.4,
+      "end": 58.69,
+      "text": "Asal kamu terus bicara"
+    },
+    {
+      "t": 61.13,
+      "end": 61.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.13,
+      "end": 65.23,
+      "text": "Genteng ketiga dari kiri"
+    },
+    {
+      "t": 65.23,
+      "end": 70.17,
+      "text": "Retak sejak kita pindah ke sini"
+    },
+    {
+      "t": 76.11,
+      "end": 82.17,
+      "text": "Kamu di bawah, aku di atas"
+    },
+    {
+      "t": 82.17,
+      "end": 84.63,
+      "text": "Hatiku tenang dengar suaramu, Dik"
+    },
+    {
+      "t": 84.65,
+      "end": 84.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.65,
+      "end": 88.77,
+      "text": "Ceritakan waktu kita kenal"
+    },
+    {
+      "t": 88.79,
+      "end": 92.03,
+      "text": "Kamu jatuhkan es teh di bajuku"
+    },
+    {
+      "t": 92.51,
+      "end": 95.35,
+      "text": "Sekarang kamu jatuhkan paku"
+    },
+    {
+      "t": 95.35,
+      "end": 100.13,
+      "text": "Tapi kamu masih tertawa begitu"
+    },
+    {
+      "t": 111.95,
+      "end": 111.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.95,
+      "end": 124.87,
+      "text": "Genteng ketiga dari kiri"
+    },
+    {
+      "t": 125.05,
+      "end": 129.61,
+      "text": "Sudah baru, sudah kita ganti"
+    },
+    {
+      "t": 130.65,
+      "end": 133.33,
+      "text": "Turun pelan, pegang tanganku"
+    },
+    {
+      "t": 133.95,
+      "end": 137.11,
+      "text": "Malam nanti atap kita nggak bocor lagi"
+    },
+    {
+      "t": 158.84,
+      "end": 158.84,
+      "text": "[Outro - suling and kendang fade]"
+    },
+    {
+      "t": 158.84,
+      "end": 160.9,
+      "text": "Pegang tangganya, Dik"
+    },
+    {
+      "t": 173.28,
+      "end": 192.36,
+      "text": "Selalu, Mas"
+    }
+  ]
+}

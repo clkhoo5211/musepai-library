@@ -1,0 +1,307 @@
+{
+  "id": "b19_id01",
+  "title": "Pompa Air Si Mbah",
+  "title_source": "scripted",
+  "genre": "Indonesian rockabilly",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "kocak, ngebut, nakal",
+  "persona": "",
+  "subject": "a man in a Bekasi kontrakan whose second-hand water pump dies every morning right when he is soaped up in the shower, so he runs out in a towel to prime it with a bucket, talks to it like an old grandfather, and his wife times him from the kitchen",
+  "caption": "Indonesian rockabilly, 50s revival with a Bali-scene edge. Hollow-body electric guitar with slapback echo playing twangy double-stop licks, slapped upright bass clicking on every beat, brushed snare and kick shuffle, honky-tonk piano rolls in the breaks. Dry 50s room sound with tape slapback, live-band energy. Male mid-high vocal with playful hiccups, clearly sung melody, gang shouts on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 172 BPM, E major. Mood of a slapstick morning chase. No trap drums, no autotune, no synths, no modern pop-punk power chords, no rap.",
+  "lyrics": "[Intro - slapback guitar lick, slapped bass]\n[Verse 1]\nSabun di kepala, busa di mata\nAir di keran tiba-tiba nggak ada\nPakai handuk, lari ke belakang\nMbah Pompa diam, ngambek sekarang\n[Pre-Chorus]\nSatu ember, tuang pelan\nJangan mogok waktu aku mandi\n[Chorus]\nAyo, Mbah, bangun dong, Mbah\nAku masih penuh busa\nIstriku pegang jam dapur\nRekor kemarin dua menit lima\n[Verse 2]\nKuketuk tutupnya tiga kali\nKubisikkan lagu dangdut tadi pagi\nDia batuk, dia bergetar\nAir muncrat, handukku lepas, gempar\n[Chorus]\nAyo, Mbah, bangun dong, Mbah\nAku masih penuh busa\nIstriku tepuk tangan keras\nRekor baru satu menit saja\n[Outro - piano roll, guitar ending]\nBesok pagi, Mbah\nJangan mogok lagi, Mbah",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 172,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Indonesian rockabilly, 50s revival with a Bali-scene edge. Hollow-body electric guitar with slapback echo playing twangy double-stop licks, slapped upright bass clicking on every beat, brushed snare and kick shuffle, honky-tonk piano rolls in the breaks. Dry 50s room sound with tape slapback, live-band energy. Male mid-high vocal with playful hiccups, clearly sung melody, gang shouts on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 172 BPM, E major. Mood of a slapstick morning chase. No trap drums, no autotune, no synths, no modern pop-punk power chords, no rap.",
+    "lyrics": "[Intro - slapback guitar lick, slapped bass]\n[Verse 1]\nSabun di kepala, busa di mata\nAir di keran tiba-tiba nggak ada\nPakai handuk, lari ke belakang\nMbah Pompa diam, ngambek sekarang\n[Pre-Chorus]\nSatu ember, tuang pelan\nJangan mogok waktu aku mandi\n[Chorus]\nAyo, Mbah, bangun dong, Mbah\nAku masih penuh busa\nIstriku pegang jam dapur\nRekor kemarin dua menit lima\n[Verse 2]\nKuketuk tutupnya tiga kali\nKubisikkan lagu dangdut tadi pagi\nDia batuk, dia bergetar\nAir muncrat, handukku lepas, gempar\n[Chorus]\nAyo, Mbah, bangun dong, Mbah\nAku masih penuh busa\nIstriku tepuk tangan keras\nRekor baru satu menit saja\n[Outro - piano roll, guitar ending]\nBesok pagi, Mbah\nJangan mogok lagi, Mbah"
+  },
+  "seed": "1071122634",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 95.24s**\n- 95.24s per song\n- LM phase (1 song): 19.57s\n- DiT phase (1 song): 75.66s",
+  "task_id": "02810209-ddab-4ebf-8068-a977a0112bf9",
+  "elapsed_s": 130.4,
+  "generated_at": "2026-11-05T15:56:59.129364+08:00",
+  "audio": "b19_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.86,
+      "end": 29.86,
+      "text": "[Intro - slapback guitar lick, slapped bass]"
+    },
+    {
+      "t": 29.86,
+      "end": 29.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.86,
+      "end": 33.58,
+      "text": "Sabun di kepala, busa di mata"
+    },
+    {
+      "t": 35.64,
+      "end": 38.88,
+      "text": "Air di keran tiba-tiba nggak ada"
+    },
+    {
+      "t": 38.88,
+      "end": 41.5,
+      "text": "Pakai handuk, lari ke belakang"
+    },
+    {
+      "t": 41.5,
+      "end": 45.39,
+      "text": "Mbah Pompa diam, ngambek sekarang"
+    },
+    {
+      "t": 47.85,
+      "end": 47.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.85,
+      "end": 50.85,
+      "text": "Satu ember, tuang pelan"
+    },
+    {
+      "t": 52.11,
+      "end": 55.45,
+      "text": "Jangan mogok waktu aku mandi"
+    },
+    {
+      "t": 57.69,
+      "end": 57.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.69,
+      "end": 61.23,
+      "text": "Ayo, Mbah, bangun dong, Mbah"
+    },
+    {
+      "t": 62.75,
+      "end": 66.31,
+      "text": "Aku masih penuh busa"
+    },
+    {
+      "t": 68.35,
+      "end": 72.09,
+      "text": "Istriku pegang jam dapur"
+    },
+    {
+      "t": 73.81,
+      "end": 77.73,
+      "text": "Rekor kemarin dua menit lima"
+    },
+    {
+      "t": 80.37,
+      "end": 80.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.37,
+      "end": 83.39,
+      "text": "Kuketuk tutupnya tiga kali"
+    },
+    {
+      "t": 85.65,
+      "end": 88.83,
+      "text": "Kubisikkan lagu dangdut tadi pagi"
+    },
+    {
+      "t": 90.95,
+      "end": 94.63,
+      "text": "Dia batuk, dia bergetar"
+    },
+    {
+      "t": 96.69,
+      "end": 100.45,
+      "text": "Air muncrat, handukku lepas, gempar"
+    },
+    {
+      "t": 100.47,
+      "end": 100.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.47,
+      "end": 105.09,
+      "text": "Ayo, Mbah, bangun dong, Mbah"
+    },
+    {
+      "t": 105.09,
+      "end": 106.57,
+      "text": "Aku masih penuh busa"
+    },
+    {
+      "t": 106.63,
+      "end": 109.89,
+      "text": "Istriku tepuk tangan keras"
+    },
+    {
+      "t": 109.95,
+      "end": 113.03,
+      "text": "Rekor baru satu menit saja"
+    },
+    {
+      "t": 150.5,
+      "end": 150.5,
+      "text": "[Outro - piano roll, guitar ending]"
+    },
+    {
+      "t": 150.5,
+      "end": 151.82,
+      "text": "Besok pagi, Mbah"
+    },
+    {
+      "t": 153.66,
+      "end": 158.02,
+      "text": "Jangan mogok lagi, Mbah"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.86,
+      "end": 29.86,
+      "text": "[Intro - slapback guitar lick, slapped bass]"
+    },
+    {
+      "t": 29.86,
+      "end": 29.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.86,
+      "end": 33.58,
+      "text": "Sabun di kepala, busa di mata"
+    },
+    {
+      "t": 35.64,
+      "end": 38.88,
+      "text": "Air di keran tiba-tiba nggak ada"
+    },
+    {
+      "t": 38.88,
+      "end": 41.54,
+      "text": "Pakai handuk, lari ke belakang"
+    },
+    {
+      "t": 41.54,
+      "end": 45.39,
+      "text": "Mbah Pompa diam, ngambek sekarang"
+    },
+    {
+      "t": 47.85,
+      "end": 47.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.85,
+      "end": 50.85,
+      "text": "Satu ember, tuang pelan"
+    },
+    {
+      "t": 52.07,
+      "end": 55.47,
+      "text": "Jangan mogok waktu aku mandi"
+    },
+    {
+      "t": 57.71,
+      "end": 57.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.71,
+      "end": 61.27,
+      "text": "Ayo, Mbah, bangun dong, Mbah"
+    },
+    {
+      "t": 62.77,
+      "end": 66.31,
+      "text": "Aku masih penuh busa"
+    },
+    {
+      "t": 68.35,
+      "end": 72.11,
+      "text": "Istriku pegang jam dapur"
+    },
+    {
+      "t": 73.81,
+      "end": 77.73,
+      "text": "Rekor kemarin dua menit lima"
+    },
+    {
+      "t": 80.37,
+      "end": 80.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.37,
+      "end": 83.39,
+      "text": "Kuketuk tutupnya tiga kali"
+    },
+    {
+      "t": 85.63,
+      "end": 88.85,
+      "text": "Kubisikkan lagu dangdut tadi pagi"
+    },
+    {
+      "t": 90.95,
+      "end": 94.65,
+      "text": "Dia batuk, dia bergetar"
+    },
+    {
+      "t": 96.65,
+      "end": 100.45,
+      "text": "Air muncrat, handukku lepas, gempar"
+    },
+    {
+      "t": 100.47,
+      "end": 100.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.47,
+      "end": 100.99,
+      "text": "Ayo, Mbah, bangun dong, Mbah"
+    },
+    {
+      "t": 100.99,
+      "end": 106.57,
+      "text": "Aku masih penuh busa"
+    },
+    {
+      "t": 106.61,
+      "end": 109.89,
+      "text": "Istriku tepuk tangan keras"
+    },
+    {
+      "t": 109.95,
+      "end": 113.05,
+      "text": "Rekor baru satu menit saja"
+    },
+    {
+      "t": 150.48,
+      "end": 150.48,
+      "text": "[Outro - piano roll, guitar ending]"
+    },
+    {
+      "t": 150.48,
+      "end": 151.84,
+      "text": "Besok pagi, Mbah"
+    },
+    {
+      "t": 153.66,
+      "end": 165.72,
+      "text": "Jangan mogok lagi, Mbah"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

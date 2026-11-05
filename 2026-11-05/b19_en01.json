@@ -1,0 +1,327 @@
+{
+  "id": "b19_en01",
+  "title": "Panel B, Panel B, Panel B",
+  "title_source": "scripted",
+  "genre": "skiffle revival",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cheerful, exasperated",
+  "persona": "",
+  "subject": "a man in a Swindon back garden assembling a flat-pack shed on a Saturday and finding the kit has three wall panels stamped B and none stamped C, so he builds it anyway with the window facing the fence",
+  "caption": "Skiffle revival, 1950s British skiffle party style. Fast strummed acoustic guitar on boom-chick rhythm, scratched washboard with thimbles, thumping tea-chest bass, wailing harmonica fills between lines. Dry live front-room recording, close mics, small room. Male tenor, clearly sung melody, bright music-hall phrasing with group shouts on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 168 BPM, G major. Cheerful, flustered, grinning. No electric guitars, no drum kit, no synths, no autotune, no modern pop production.",
+  "lyrics": "[Intro - washboard, strummed guitar]\n\n[Verse 1]\nSaturday morning, the van's been and gone\nForty-two pieces and one little spanner\nI laid them all out on the lawn in a row\nAnd the instructions are written in Swedish\n\n[Pre-Chorus]\nI looked for C and I looked again\nAll I found was B, B, B\n\n[Chorus]\nPanel B, panel B, panel B\nWhere's the panel that they owe to me\nI'll screw it together, I'll make it agree\nWith panel B, panel B, panel B\n\n[Verse 2]\nThe roof's on now and it's leaning a bit\nThe door opens inward and hits the mower\nThe window's lovely, a proper bay\nAnd it looks straight out at the fence\n\n[Pre-Chorus]\nMy wife came out with a mug of tea\nShe said love, is that meant to be\n\n[Chorus]\nPanel B, panel B, panel B\nNobody's sending a panel C\nI'm calling it finished, it's standing for me\nOn panel B, panel B, panel B\n\n[Outro - harmonica, last washboard roll]\nThree panel B's and a view of the fence",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Skiffle revival, 1950s British skiffle party style. Fast strummed acoustic guitar on boom-chick rhythm, scratched washboard with thimbles, thumping tea-chest bass, wailing harmonica fills between lines. Dry live front-room recording, close mics, small room. Male tenor, clearly sung melody, bright music-hall phrasing with group shouts on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 168 BPM, G major. Cheerful, flustered, grinning. No electric guitars, no drum kit, no synths, no autotune, no modern pop production.",
+    "lyrics": "[Intro - washboard, strummed guitar]\n\n[Verse 1]\nSaturday morning, the van's been and gone\nForty-two pieces and one little spanner\nI laid them all out on the lawn in a row\nAnd the instructions are written in Swedish\n\n[Pre-Chorus]\nI looked for C and I looked again\nAll I found was B, B, B\n\n[Chorus]\nPanel B, panel B, panel B\nWhere's the panel that they owe to me\nI'll screw it together, I'll make it agree\nWith panel B, panel B, panel B\n\n[Verse 2]\nThe roof's on now and it's leaning a bit\nThe door opens inward and hits the mower\nThe window's lovely, a proper bay\nAnd it looks straight out at the fence\n\n[Pre-Chorus]\nMy wife came out with a mug of tea\nShe said love, is that meant to be\n\n[Chorus]\nPanel B, panel B, panel B\nNobody's sending a panel C\nI'm calling it finished, it's standing for me\nOn panel B, panel B, panel B\n\n[Outro - harmonica, last washboard roll]\nThree panel B's and a view of the fence"
+  },
+  "seed": "290475493",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.40s**\n- 63.40s per song\n- LM phase (1 song): 11.52s\n- DiT phase (1 song): 51.87s",
+  "task_id": "11be088b-436b-4bf7-b776-d2f95c277dd0",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-05T16:24:02.901726+08:00",
+  "audio": "b19_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.3,
+      "end": 25.3,
+      "text": "[Intro - washboard, strummed guitar]"
+    },
+    {
+      "t": 25.3,
+      "end": 25.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.3,
+      "end": 29.62,
+      "text": "Saturday morning, the van's been and gone"
+    },
+    {
+      "t": 30.96,
+      "end": 35.48,
+      "text": "Forty-two pieces and one little spanner"
+    },
+    {
+      "t": 36.8,
+      "end": 41.12,
+      "text": "I laid them all out on the lawn in a row"
+    },
+    {
+      "t": 41.54,
+      "end": 45.41,
+      "text": "And the instructions are written in Swedish"
+    },
+    {
+      "t": 46.17,
+      "end": 46.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.17,
+      "end": 49.61,
+      "text": "I looked for C and I looked again"
+    },
+    {
+      "t": 51.71,
+      "end": 53.77,
+      "text": "All I found was B, B, B"
+    },
+    {
+      "t": 53.81,
+      "end": 53.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.81,
+      "end": 60.53,
+      "text": "Panel B, panel B, panel B"
+    },
+    {
+      "t": 60.53,
+      "end": 62.99,
+      "text": "Where's the panel that they owe to me"
+    },
+    {
+      "t": 63.45,
+      "end": 65.97,
+      "text": "I'll screw it together, I'll make it agree"
+    },
+    {
+      "t": 66.23,
+      "end": 69.49,
+      "text": "With panel B, panel B, panel B"
+    },
+    {
+      "t": 72.15,
+      "end": 72.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.15,
+      "end": 76.29,
+      "text": "The roof's on now and it's leaning a bit"
+    },
+    {
+      "t": 77.87,
+      "end": 81.73,
+      "text": "The door opens inward and hits the mower"
+    },
+    {
+      "t": 83.65,
+      "end": 85.85,
+      "text": "The window's lovely, a proper bay"
+    },
+    {
+      "t": 86.39,
+      "end": 89.41,
+      "text": "And it looks straight out at the fence"
+    },
+    {
+      "t": 94.39,
+      "end": 94.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.39,
+      "end": 109.69,
+      "text": "My wife came out with a mug of tea"
+    },
+    {
+      "t": 111.71,
+      "end": 115.25,
+      "text": "She said love, is that meant to be"
+    },
+    {
+      "t": 117.41,
+      "end": 117.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.41,
+      "end": 120.99,
+      "text": "Panel B, panel B, panel B"
+    },
+    {
+      "t": 123.45,
+      "end": 126.65,
+      "text": "Nobody's sending a panel C"
+    },
+    {
+      "t": 126.89,
+      "end": 132.48,
+      "text": "I'm calling it finished, it's standing for me"
+    },
+    {
+      "t": 134.56,
+      "end": 141.1,
+      "text": "On panel B, panel B, panel B"
+    },
+    {
+      "t": 143.08,
+      "end": 143.08,
+      "text": "[Outro - harmonica, last washboard roll]"
+    },
+    {
+      "t": 143.08,
+      "end": 166.1,
+      "text": "Three panel B's and a view of the fence"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.3,
+      "end": 25.3,
+      "text": "[Intro - washboard, strummed guitar]"
+    },
+    {
+      "t": 25.3,
+      "end": 25.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.3,
+      "end": 29.66,
+      "text": "Saturday morning, the van's been and gone"
+    },
+    {
+      "t": 30.96,
+      "end": 35.48,
+      "text": "Forty-two pieces and one little spanner"
+    },
+    {
+      "t": 36.8,
+      "end": 41.1,
+      "text": "I laid them all out on the lawn in a row"
+    },
+    {
+      "t": 41.54,
+      "end": 45.43,
+      "text": "And the instructions are written in Swedish"
+    },
+    {
+      "t": 46.17,
+      "end": 46.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.17,
+      "end": 49.61,
+      "text": "I looked for C and I looked again"
+    },
+    {
+      "t": 51.69,
+      "end": 53.79,
+      "text": "All I found was B, B, B"
+    },
+    {
+      "t": 53.83,
+      "end": 53.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.83,
+      "end": 60.53,
+      "text": "Panel B, panel B, panel B"
+    },
+    {
+      "t": 60.53,
+      "end": 62.99,
+      "text": "Where's the panel that they owe to me"
+    },
+    {
+      "t": 63.53,
+      "end": 65.97,
+      "text": "I'll screw it together, I'll make it agree"
+    },
+    {
+      "t": 66.23,
+      "end": 69.49,
+      "text": "With panel B, panel B, panel B"
+    },
+    {
+      "t": 72.15,
+      "end": 72.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.15,
+      "end": 76.29,
+      "text": "The roof's on now and it's leaning a bit"
+    },
+    {
+      "t": 77.87,
+      "end": 81.69,
+      "text": "The door opens inward and hits the mower"
+    },
+    {
+      "t": 83.65,
+      "end": 85.85,
+      "text": "The window's lovely, a proper bay"
+    },
+    {
+      "t": 86.39,
+      "end": 89.37,
+      "text": "And it looks straight out at the fence"
+    },
+    {
+      "t": 94.39,
+      "end": 94.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.39,
+      "end": 98.15,
+      "text": "My wife came out with a mug of tea"
+    },
+    {
+      "t": 111.71,
+      "end": 115.25,
+      "text": "She said love, is that meant to be"
+    },
+    {
+      "t": 117.39,
+      "end": 117.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.39,
+      "end": 120.99,
+      "text": "Panel B, panel B, panel B"
+    },
+    {
+      "t": 123.45,
+      "end": 126.65,
+      "text": "Nobody's sending a panel C"
+    },
+    {
+      "t": 126.75,
+      "end": 132.48,
+      "text": "I'm calling it finished, it's standing for me"
+    },
+    {
+      "t": 134.56,
+      "end": 146.9,
+      "text": "On panel B, panel B, panel B"
+    },
+    {
+      "t": 161.84,
+      "end": 161.84,
+      "text": "[Outro - harmonica, last washboard roll]"
+    },
+    {
+      "t": 161.84,
+      "end": 166.06,
+      "text": "Three panel B's and a view of the fence"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

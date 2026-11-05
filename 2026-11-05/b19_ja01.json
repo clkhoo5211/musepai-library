@@ -1,0 +1,489 @@
+{
+  "id": "b19_ja01",
+  "title": "カレーは平等に",
+  "title_source": "scripted",
+  "genre": "Showa idol pop revival",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bouncy, comic, earnest",
+  "persona": "",
+  "subject": "a fifth-grader on school-lunch serving duty who must ladle the curry evenly into thirty-two bowls, knowing the last scraped bowl is hers",
+  "caption": "Showa idol pop revival in early-80s kayo style. Punchy brass stabs, sparkling glockenspiel on the hook, strummed acoustic guitar, walking electric bass, tambourine on every backbeat. Warm analog studio sound with plate reverb and a tight live band. Young female lead, bright mid register, clearly sung idol melody. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, C major. Bouncy, comic and earnest. No trap beats, no autotune, no EDM drops, no rap, no modern pop synth bass.",
+  "lyrics": "[Intro - brass stabs, glockenspiel]\n\n[Verse 1]\n白いエプロン マスクして\n四時間目から そわそわしてる\n今日のわたしは 給食当番\nおたまを持つ手が ふるえてる\n\n[Pre-Chorus]\n三十二人 並んだ皿\nにんじん一個も ずるはしない\n\n[Chorus]\nカレーは平等に\nみんな同じだけ\n最後の一杯は\nわたしのぶんだから\n\n[Verse 2]\n大盛りしてって 健太が言う\nだめだめ ルールは ルールだよ\n先生の皿も 目で測る\nおなべの底が 見えてきた\n\n[Pre-Chorus]\n三十一人 笑ってる\nわたしの番は まだ来ない\n\n[Chorus]\nカレーは平等に\nみんな同じだけ\n底をこすったら\nじゃがいも ひとつだけ\n\n[Outro - brass fanfare, tambourine]\nいただきます\nじゃがいも ひとつだけ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Showa idol pop revival in early-80s kayo style. Punchy brass stabs, sparkling glockenspiel on the hook, strummed acoustic guitar, walking electric bass, tambourine on every backbeat. Warm analog studio sound with plate reverb and a tight live band. Young female lead, bright mid register, clearly sung idol melody. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, C major. Bouncy, comic and earnest. No trap beats, no autotune, no EDM drops, no rap, no modern pop synth bass.",
+    "lyrics": "[Intro - brass stabs, glockenspiel]\n\n[Verse 1]\n白いエプロン マスクして\n四時間目から そわそわしてる\n今日のわたしは 給食当番\nおたまを持つ手が ふるえてる\n\n[Pre-Chorus]\n三十二人 並んだ皿\nにんじん一個も ずるはしない\n\n[Chorus]\nカレーは平等に\nみんな同じだけ\n最後の一杯は\nわたしのぶんだから\n\n[Verse 2]\n大盛りしてって 健太が言う\nだめだめ ルールは ルールだよ\n先生の皿も 目で測る\nおなべの底が 見えてきた\n\n[Pre-Chorus]\n三十一人 笑ってる\nわたしの番は まだ来ない\n\n[Chorus]\nカレーは平等に\nみんな同じだけ\n底をこすったら\nじゃがいも ひとつだけ\n\n[Outro - brass fanfare, tambourine]\nいただきます\nじゃがいも ひとつだけ"
+  },
+  "seed": "364465195",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 49.75s**\n- 49.75s per song\n- LM phase (1 song): 12.61s\n- DiT phase (1 song): 37.14s",
+  "task_id": "bc94bf43-1fbb-4532-a453-c38f677daff9",
+  "elapsed_s": 71.2,
+  "generated_at": "2026-11-05T21:55:28.785663+08:00",
+  "audio": "b19_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Intro - brass stabs, glockenspiel]"
+    },
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.66,
+      "end": 34.32,
+      "text": "白いエプロン マスクして"
+    },
+    {
+      "t": 34.34,
+      "end": 41.26,
+      "text": "四時間目から そわそわしてる"
+    },
+    {
+      "t": 41.26,
+      "end": 43.66,
+      "text": "今日のわたしは 給食当番"
+    },
+    {
+      "t": 47.24,
+      "end": 50.63,
+      "text": "おたまを持つ手が ふるえてる"
+    },
+    {
+      "t": 50.77,
+      "end": 50.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.77,
+      "end": 60.33,
+      "text": "三十二人 並んだ皿"
+    },
+    {
+      "t": 60.49,
+      "end": 64.79,
+      "text": "にんじん一個も ずるはしない"
+    },
+    {
+      "t": 67.27,
+      "end": 67.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.27,
+      "end": 69.39,
+      "text": "カレーは平等に"
+    },
+    {
+      "t": 69.91,
+      "end": 70.75,
+      "text": "みんな同じだけ"
+    },
+    {
+      "t": 70.79,
+      "end": 72.39,
+      "text": "最後の一杯は"
+    },
+    {
+      "t": 75.19,
+      "end": 78.85,
+      "text": "わたしのぶんだから"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.47,
+      "end": 90.05,
+      "text": "大盛りしてって 健太が言う"
+    },
+    {
+      "t": 90.17,
+      "end": 93.91,
+      "text": "だめだめ ルールは ルールだよ"
+    },
+    {
+      "t": 93.93,
+      "end": 98.93,
+      "text": "先生の皿も 目で測る"
+    },
+    {
+      "t": 99.33,
+      "end": 109.27,
+      "text": "おなべの底が 見えてきた"
+    },
+    {
+      "t": 109.59,
+      "end": 109.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.59,
+      "end": 131.27,
+      "text": "三十一人 笑ってる"
+    },
+    {
+      "t": 131.27,
+      "end": 143.64,
+      "text": "わたしの番は まだ来ない"
+    },
+    {
+      "t": 162.68,
+      "end": 162.68,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 162.68,
+      "end": 164.6,
+      "text": "カレーは平等に"
+    },
+    {
+      "t": 166.18,
+      "end": 167.88,
+      "text": "みんな同じだけ"
+    },
+    {
+      "t": 169.72,
+      "end": 171.66,
+      "text": "底をこすったら"
+    },
+    {
+      "t": 172.1,
+      "end": 173.44,
+      "text": "じゃがいも ひとつだけ"
+    },
+    {
+      "t": 173.44,
+      "end": 173.44,
+      "text": "[Outro - brass fanfare, tambourine]"
+    },
+    {
+      "t": 173.44,
+      "end": 174.96,
+      "text": "いただきます"
+    },
+    {
+      "t": 179.44,
+      "end": 182.22,
+      "text": "じゃがいも ひとつだけ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Intro - brass stabs, glockenspiel]"
+    },
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.66,
+      "end": 34.32,
+      "text": "白いエプロン マスクして"
+    },
+    {
+      "t": 34.34,
+      "end": 41.26,
+      "text": "四時間目から そわそわしてる"
+    },
+    {
+      "t": 41.26,
+      "end": 43.66,
+      "text": "今日のわたしは 給食当番"
+    },
+    {
+      "t": 47.24,
+      "end": 50.63,
+      "text": "おたまを持つ手が ふるえてる"
+    },
+    {
+      "t": 50.77,
+      "end": 50.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.77,
+      "end": 60.33,
+      "text": "三十二人 並んだ皿"
+    },
+    {
+      "t": 60.49,
+      "end": 64.79,
+      "text": "にんじん一個も ずるはしない"
+    },
+    {
+      "t": 67.27,
+      "end": 67.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.27,
+      "end": 69.39,
+      "text": "カレーは平等に"
+    },
+    {
+      "t": 69.91,
+      "end": 70.75,
+      "text": "みんな同じだけ"
+    },
+    {
+      "t": 70.79,
+      "end": 72.39,
+      "text": "最後の一杯は"
+    },
+    {
+      "t": 75.19,
+      "end": 78.85,
+      "text": "わたしのぶんだから"
+    },
+    {
+      "t": 82.47,
+      "end": 82.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.47,
+      "end": 90.05,
+      "text": "大盛りしてって 健太が言う"
+    },
+    {
+      "t": 90.17,
+      "end": 93.91,
+      "text": "だめだめ ルールは ルールだよ"
+    },
+    {
+      "t": 93.93,
+      "end": 98.93,
+      "text": "先生の皿も 目で測る"
+    },
+    {
+      "t": 99.33,
+      "end": 109.27,
+      "text": "おなべの底が 見えてきた"
+    },
+    {
+      "t": 109.59,
+      "end": 109.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.59,
+      "end": 131.27,
+      "text": "三十一人 笑ってる"
+    },
+    {
+      "t": 131.27,
+      "end": 143.64,
+      "text": "わたしの番は まだ来ない"
+    },
+    {
+      "t": 162.68,
+      "end": 162.68,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 162.68,
+      "end": 164.6,
+      "text": "カレーは平等に"
+    },
+    {
+      "t": 166.18,
+      "end": 167.88,
+      "text": "みんな同じだけ"
+    },
+    {
+      "t": 169.72,
+      "end": 171.66,
+      "text": "底をこすったら"
+    },
+    {
+      "t": 172.1,
+      "end": 173.44,
+      "text": "じゃがいも ひとつだけ"
+    },
+    {
+      "t": 173.44,
+      "end": 173.44,
+      "text": "[Outro - brass fanfare, tambourine]"
+    },
+    {
+      "t": 173.44,
+      "end": 174.96,
+      "text": "いただきます"
+    },
+    {
+      "t": 179.44,
+      "end": 182.22,
+      "text": "じゃがいも ひとつだけ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.42,
+      "end": 25.42,
+      "text": "[Intro - brass stabs, glockenspiel]"
+    },
+    {
+      "t": 25.42,
+      "end": 25.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.42,
+      "end": 29.54,
+      "text": "白いエプロン マスクして"
+    },
+    {
+      "t": 34.2,
+      "end": 38.68,
+      "text": "四時間目から そわそわしてる"
+    },
+    {
+      "t": 42.8,
+      "end": 46.12,
+      "text": "今日のわたしは 給食当番"
+    },
+    {
+      "t": 46.12,
+      "end": 48.73,
+      "text": "おたまを持つ手が ふるえてる"
+    },
+    {
+      "t": 48.83,
+      "end": 48.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.83,
+      "end": 51.49,
+      "text": "三十二人 並んだ皿"
+    },
+    {
+      "t": 51.51,
+      "end": 55.77,
+      "text": "にんじん一個も ずるはしない"
+    },
+    {
+      "t": 56.41,
+      "end": 56.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.41,
+      "end": 58.95,
+      "text": "カレーは平等に"
+    },
+    {
+      "t": 60.13,
+      "end": 62.97,
+      "text": "みんな同じだけ"
+    },
+    {
+      "t": 64.21,
+      "end": 67.31,
+      "text": "最後の一杯は"
+    },
+    {
+      "t": 67.97,
+      "end": 72.53,
+      "text": "わたしのぶんだから"
+    },
+    {
+      "t": 76.03,
+      "end": 76.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.03,
+      "end": 81.21,
+      "text": "大盛りしてって 健太が言う"
+    },
+    {
+      "t": 81.91,
+      "end": 85.23,
+      "text": "だめだめ ルールは ルールだよ"
+    },
+    {
+      "t": 86.93,
+      "end": 90.03,
+      "text": "先生の皿も 目で測る"
+    },
+    {
+      "t": 91.03,
+      "end": 94.81,
+      "text": "おなべの底が 見えてきた"
+    },
+    {
+      "t": 98.83,
+      "end": 98.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.83,
+      "end": 111.97,
+      "text": "三十一人 笑ってる"
+    },
+    {
+      "t": 112.63,
+      "end": 116.45,
+      "text": "わたしの番は まだ来ない"
+    },
+    {
+      "t": 117.11,
+      "end": 117.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.11,
+      "end": 119.37,
+      "text": "カレーは平等に"
+    },
+    {
+      "t": 121.35,
+      "end": 123.61,
+      "text": "みんな同じだけ"
+    },
+    {
+      "t": 125.33,
+      "end": 127.61,
+      "text": "底をこすったら"
+    },
+    {
+      "t": 127.63,
+      "end": 129.07,
+      "text": "じゃがいも ひとつだけ"
+    },
+    {
+      "t": 148.02,
+      "end": 148.02,
+      "text": "[Outro - brass fanfare, tambourine]"
+    },
+    {
+      "t": 148.02,
+      "end": 149.72,
+      "text": "いただきます"
+    },
+    {
+      "t": 155.34,
+      "end": 177.42,
+      "text": "じゃがいも ひとつだけ"
+    }
+  ]
+}

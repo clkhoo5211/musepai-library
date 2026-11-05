@@ -1,0 +1,347 @@
+{
+  "id": "b19_th05",
+  "title": "นับหัวก่อนออกรถ",
+  "title_source": "scripted",
+  "genre": "Thai Gen-Z campus band pop-rock (Gene Lab style, upbeat)",
+  "language": "th",
+  "language_name": "Thai",
+  "mood": "bright, shy-to-warm, sing-along",
+  "persona": "",
+  "subject": "a student on a class trip to Kanchanaburi who is paired by roll number with number 24, the boy who never talks, and by the River Kwai bridge they are friends; on the way back the teacher counts thirty-nine and he runs back holding two ice creams",
+  "caption": "Thai Gen-Z campus band pop-rock in the upbeat Gene Lab style. Chorused clean electric guitar riff, palm-muted overdriven rhythm guitar, melodic electric bass, drum kit with four-on-the-floor kick in the chorus, glockenspiel doubling the hook. Polished band-room mix. Male lead in clear high tenor, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 136 BPM, D major. Shy-to-warm school-trip sing-along. No rap, no autotune, no screamed vocals, no EDM, no ballad tempo.",
+  "lyrics": "[Intro - chorused guitar riff, glockenspiel, kick on four]\n[Verse 1]\nทัศนศึกษาไปกาญจน์ฯ\nครูจับคู่นั่งตามเลขที่\nฉันได้นั่งกับเลขยี่สิบสี่\nคนที่ไม่เคยพูดกับใคร\n[Pre-Chorus]\nครูนับหัวทุกจุดที่จอด\nหนึ่ง สอง สาม จนถึงสี่สิบ\n[Chorus]\nนับหัวก่อนออกรถ\nครูนับฉันกับเธอติดกัน\nข้าวเหนียวหมูปิ้งแบ่งกัน\nเธอเริ่มหัวเราะตั้งแต่ตรงนั้น\n[Verse 2]\nที่สะพานข้ามแม่น้ำแคว\nเธอถ่ายรูปให้ฉันสิบรูป\nไม่มีรูปไหนเห็นหน้าชัด\nแต่เธอบอกว่าชอบทุกรูป\n[Bridge - guitars drop out, bass and handclaps]\nขากลับครูนับได้สามสิบเก้า\nทุกคนเงียบแล้วหันมอง\nเธอวิ่งกลับมาหอบแฮ่ก\nไอติมสองแท่งในมือ\n[Chorus]\nนับหัวก่อนออกรถ\nครบสี่สิบพอดีเลย\nปีหน้าถ้าครูจับคู่อีกที\nขอเลขยี่สิบสี่เหมือนเคย\n[Outro - guitar riff, final crash]\nขอเลขยี่สิบสี่เหมือนเคย",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 136,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Thai Gen-Z campus band pop-rock in the upbeat Gene Lab style. Chorused clean electric guitar riff, palm-muted overdriven rhythm guitar, melodic electric bass, drum kit with four-on-the-floor kick in the chorus, glockenspiel doubling the hook. Polished band-room mix. Male lead in clear high tenor, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 136 BPM, D major. Shy-to-warm school-trip sing-along. No rap, no autotune, no screamed vocals, no EDM, no ballad tempo.",
+    "lyrics": "[Intro - chorused guitar riff, glockenspiel, kick on four]\n[Verse 1]\nทัศนศึกษาไปกาญจน์ฯ\nครูจับคู่นั่งตามเลขที่\nฉันได้นั่งกับเลขยี่สิบสี่\nคนที่ไม่เคยพูดกับใคร\n[Pre-Chorus]\nครูนับหัวทุกจุดที่จอด\nหนึ่ง สอง สาม จนถึงสี่สิบ\n[Chorus]\nนับหัวก่อนออกรถ\nครูนับฉันกับเธอติดกัน\nข้าวเหนียวหมูปิ้งแบ่งกัน\nเธอเริ่มหัวเราะตั้งแต่ตรงนั้น\n[Verse 2]\nที่สะพานข้ามแม่น้ำแคว\nเธอถ่ายรูปให้ฉันสิบรูป\nไม่มีรูปไหนเห็นหน้าชัด\nแต่เธอบอกว่าชอบทุกรูป\n[Bridge - guitars drop out, bass and handclaps]\nขากลับครูนับได้สามสิบเก้า\nทุกคนเงียบแล้วหันมอง\nเธอวิ่งกลับมาหอบแฮ่ก\nไอติมสองแท่งในมือ\n[Chorus]\nนับหัวก่อนออกรถ\nครบสี่สิบพอดีเลย\nปีหน้าถ้าครูจับคู่อีกที\nขอเลขยี่สิบสี่เหมือนเคย\n[Outro - guitar riff, final crash]\nขอเลขยี่สิบสี่เหมือนเคย"
+  },
+  "seed": "2289068300",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.29s**\n- 61.29s per song\n- LM phase (1 song): 10.26s\n- DiT phase (1 song): 51.04s",
+  "task_id": "1e5ce524-e70f-460d-80e0-f75d70a4fa9f",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-05T16:22:32.661961+08:00",
+  "audio": "b19_th05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.92,
+      "end": 27.92,
+      "text": "[Intro - chorused guitar riff, glockenspiel, kick on four]"
+    },
+    {
+      "t": 27.92,
+      "end": 27.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.92,
+      "end": 30.4,
+      "text": "ทัศนศึกษาไปกาญจน์ฯ"
+    },
+    {
+      "t": 30.64,
+      "end": 34.2,
+      "text": "ครูจับคู่นั่งตามเลขที่"
+    },
+    {
+      "t": 35.22,
+      "end": 37.7,
+      "text": "ฉันได้นั่งกับเลขยี่สิบสี่"
+    },
+    {
+      "t": 38.08,
+      "end": 40.48,
+      "text": "คนที่ไม่เคยพูดกับใคร"
+    },
+    {
+      "t": 42.22,
+      "end": 42.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.22,
+      "end": 46.08,
+      "text": "ครูนับหัวทุกจุดที่จอด"
+    },
+    {
+      "t": 46.1,
+      "end": 53.31,
+      "text": "หนึ่ง สอง สาม จนถึงสี่สิบ"
+    },
+    {
+      "t": 56.61,
+      "end": 56.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.61,
+      "end": 59.33,
+      "text": "นับหัวก่อนออกรถ"
+    },
+    {
+      "t": 59.65,
+      "end": 62.83,
+      "text": "ครูนับฉันกับเธอติดกัน"
+    },
+    {
+      "t": 63.65,
+      "end": 66.35,
+      "text": "ข้าวเหนียวหมูปิ้งแบ่งกัน"
+    },
+    {
+      "t": 66.53,
+      "end": 70.83,
+      "text": "เธอเริ่มหัวเราะตั้งแต่ตรงนั้น"
+    },
+    {
+      "t": 73.15,
+      "end": 73.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.15,
+      "end": 88.67,
+      "text": "ที่สะพานข้ามแม่น้ำแคว"
+    },
+    {
+      "t": 89.23,
+      "end": 92.21,
+      "text": "เธอถ่ายรูปให้ฉันสิบรูป"
+    },
+    {
+      "t": 94.33,
+      "end": 97.29,
+      "text": "ไม่มีรูปไหนเห็นหน้าชัด"
+    },
+    {
+      "t": 98.53,
+      "end": 101.21,
+      "text": "แต่เธอบอกว่าชอบทุกรูป"
+    },
+    {
+      "t": 103.33,
+      "end": 103.33,
+      "text": "[Bridge - guitars drop out, bass and handclaps]"
+    },
+    {
+      "t": 103.33,
+      "end": 106.21,
+      "text": "ขากลับครูนับได้สามสิบเก้า"
+    },
+    {
+      "t": 106.87,
+      "end": 109.51,
+      "text": "ทุกคนเงียบแล้วหันมอง"
+    },
+    {
+      "t": 110.19,
+      "end": 112.31,
+      "text": "เธอวิ่งกลับมาหอบแฮ่ก"
+    },
+    {
+      "t": 112.71,
+      "end": 114.97,
+      "text": "ไอติมสองแท่งในมือ"
+    },
+    {
+      "t": 116.17,
+      "end": 116.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.17,
+      "end": 130.77,
+      "text": "นับหัวก่อนออกรถ"
+    },
+    {
+      "t": 131.51,
+      "end": 134.61,
+      "text": "ครบสี่สิบพอดีเลย"
+    },
+    {
+      "t": 135.35,
+      "end": 137.85,
+      "text": "ปีหน้าถ้าครูจับคู่อีกที"
+    },
+    {
+      "t": 138.19,
+      "end": 141.27,
+      "text": "ขอเลขยี่สิบสี่เหมือนเคย"
+    },
+    {
+      "t": 141.31,
+      "end": 141.31,
+      "text": "[Outro - guitar riff, final crash]"
+    },
+    {
+      "t": 141.31,
+      "end": 192.38,
+      "text": "ขอเลขยี่สิบสี่เหมือนเคย"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.92,
+      "end": 27.92,
+      "text": "[Intro - chorused guitar riff, glockenspiel, kick on four]"
+    },
+    {
+      "t": 27.92,
+      "end": 27.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.92,
+      "end": 30.4,
+      "text": "ทัศนศึกษาไปกาญจน์ฯ"
+    },
+    {
+      "t": 30.76,
+      "end": 34.22,
+      "text": "ครูจับคู่นั่งตามเลขที่"
+    },
+    {
+      "t": 35.22,
+      "end": 37.7,
+      "text": "ฉันได้นั่งกับเลขยี่สิบสี่"
+    },
+    {
+      "t": 38.08,
+      "end": 40.48,
+      "text": "คนที่ไม่เคยพูดกับใคร"
+    },
+    {
+      "t": 42.22,
+      "end": 42.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.22,
+      "end": 46.08,
+      "text": "ครูนับหัวทุกจุดที่จอด"
+    },
+    {
+      "t": 46.1,
+      "end": 53.29,
+      "text": "หนึ่ง สอง สาม จนถึงสี่สิบ"
+    },
+    {
+      "t": 56.61,
+      "end": 56.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.61,
+      "end": 59.33,
+      "text": "นับหัวก่อนออกรถ"
+    },
+    {
+      "t": 59.67,
+      "end": 62.85,
+      "text": "ครูนับฉันกับเธอติดกัน"
+    },
+    {
+      "t": 63.63,
+      "end": 66.35,
+      "text": "ข้าวเหนียวหมูปิ้งแบ่งกัน"
+    },
+    {
+      "t": 66.53,
+      "end": 70.83,
+      "text": "เธอเริ่มหัวเราะตั้งแต่ตรงนั้น"
+    },
+    {
+      "t": 73.15,
+      "end": 73.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.15,
+      "end": 88.51,
+      "text": "ที่สะพานข้ามแม่น้ำแคว"
+    },
+    {
+      "t": 88.65,
+      "end": 92.21,
+      "text": "เธอถ่ายรูปให้ฉันสิบรูป"
+    },
+    {
+      "t": 94.33,
+      "end": 97.29,
+      "text": "ไม่มีรูปไหนเห็นหน้าชัด"
+    },
+    {
+      "t": 98.51,
+      "end": 101.21,
+      "text": "แต่เธอบอกว่าชอบทุกรูป"
+    },
+    {
+      "t": 103.31,
+      "end": 103.31,
+      "text": "[Bridge - guitars drop out, bass and handclaps]"
+    },
+    {
+      "t": 103.31,
+      "end": 106.27,
+      "text": "ขากลับครูนับได้สามสิบเก้า"
+    },
+    {
+      "t": 106.87,
+      "end": 109.51,
+      "text": "ทุกคนเงียบแล้วหันมอง"
+    },
+    {
+      "t": 110.19,
+      "end": 112.31,
+      "text": "เธอวิ่งกลับมาหอบแฮ่ก"
+    },
+    {
+      "t": 112.71,
+      "end": 114.97,
+      "text": "ไอติมสองแท่งในมือ"
+    },
+    {
+      "t": 116.17,
+      "end": 116.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.17,
+      "end": 130.79,
+      "text": "นับหัวก่อนออกรถ"
+    },
+    {
+      "t": 131.53,
+      "end": 134.63,
+      "text": "ครบสี่สิบพอดีเลย"
+    },
+    {
+      "t": 135.35,
+      "end": 137.89,
+      "text": "ปีหน้าถ้าครูจับคู่อีกที"
+    },
+    {
+      "t": 138.19,
+      "end": 141.29,
+      "text": "ขอเลขยี่สิบสี่เหมือนเคย"
+    },
+    {
+      "t": 141.29,
+      "end": 141.29,
+      "text": "[Outro - guitar riff, final crash]"
+    },
+    {
+      "t": 141.29,
+      "end": 192.42,
+      "text": "ขอเลขยี่สิบสี่เหมือนเคย"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

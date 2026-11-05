@@ -1,0 +1,307 @@
+{
+  "id": "b19_id05",
+  "title": "Nona di Atas Toren",
+  "title_source": "scripted",
+  "genre": "Ambonese pop ballad with steel guitar",
+  "language": "id",
+  "language_name": "Bahasa Indonesia",
+  "mood": "hangat, manis, pelan",
+  "persona": "",
+  "subject": "a young woman in Ambon moving into her first kontrakan who finds the house comes with a grey stray cat sleeping on the water tank and a note from the last tenant saying her name is Nona and she likes smoked fish, and slowly the cat becomes hers",
+  "caption": "Ambonese pop ballad with steel guitar, Maluku pop in the eastern-Indonesian tradition. Hawaiian lap steel guitar with gliding slides, fingerpicked nylon-string acoustic guitar, strummed ukulele, soft round electric bass, gentle brushed drums. Warm intimate production with soft reverb. Warm full female mid-register vocal with Ambon colour and vibrato, clearly sung melody, light harmony in the last chorus. Clear full voice, every word enunciated, steady sung melody on every line. 78 BPM, D major. Mood of tender settling in. No trap beats, no autotune, no EDM, no hip hop drums, no rap.",
+  "lyrics": "[Intro - lap steel slide, nylon guitar]\n[Verse 1]\nBeta buka pintu rumah sewa\nKunci baru, lantai penuh debu\nDi atas toren ada kucing abu\nDia lihat beta, seng mau turun\n[Pre-Chorus]\nDi dinding ada surat kecil\nDari orang yang tinggal dulu\n[Chorus]\nNamanya Nona, dia suka ikan asar\nTolong jaga dia, katanya\nBeta baru datang, ose su lama\nMari tinggal sama-sama\n[Verse 2]\nMalam pertama beta seng tidur\nDengar kaki kecil di atas atap\nPagi-pagi dia di depan pintu\nDuduk manis, minta sarapan\n[Chorus]\nNamanya Nona, dia suka ikan asar\nBeta beli dua di pasar\nRumah ini belum rumah beta\nSampai Nona tidur di kaki beta\n[Outro - lap steel and ukulele fade]\nNona, Nona\nOse di rumah, beta di rumah",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Ambonese pop ballad with steel guitar, Maluku pop in the eastern-Indonesian tradition. Hawaiian lap steel guitar with gliding slides, fingerpicked nylon-string acoustic guitar, strummed ukulele, soft round electric bass, gentle brushed drums. Warm intimate production with soft reverb. Warm full female mid-register vocal with Ambon colour and vibrato, clearly sung melody, light harmony in the last chorus. Clear full voice, every word enunciated, steady sung melody on every line. 78 BPM, D major. Mood of tender settling in. No trap beats, no autotune, no EDM, no hip hop drums, no rap.",
+    "lyrics": "[Intro - lap steel slide, nylon guitar]\n[Verse 1]\nBeta buka pintu rumah sewa\nKunci baru, lantai penuh debu\nDi atas toren ada kucing abu\nDia lihat beta, seng mau turun\n[Pre-Chorus]\nDi dinding ada surat kecil\nDari orang yang tinggal dulu\n[Chorus]\nNamanya Nona, dia suka ikan asar\nTolong jaga dia, katanya\nBeta baru datang, ose su lama\nMari tinggal sama-sama\n[Verse 2]\nMalam pertama beta seng tidur\nDengar kaki kecil di atas atap\nPagi-pagi dia di depan pintu\nDuduk manis, minta sarapan\n[Chorus]\nNamanya Nona, dia suka ikan asar\nBeta beli dua di pasar\nRumah ini belum rumah beta\nSampai Nona tidur di kaki beta\n[Outro - lap steel and ukulele fade]\nNona, Nona\nOse di rumah, beta di rumah"
+  },
+  "seed": "1971242865",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 116.19s**\n- 116.19s per song\n- LM phase (1 song): 19.87s\n- DiT phase (1 song): 96.32s",
+  "task_id": "fe24a59f-8c76-4685-b37a-e20a9dfb84f4",
+  "elapsed_s": 150.4,
+  "generated_at": "2026-11-05T16:07:00.246289+08:00",
+  "audio": "b19_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.32,
+      "end": 32.32,
+      "text": "[Intro - lap steel slide, nylon guitar]"
+    },
+    {
+      "t": 32.32,
+      "end": 32.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.32,
+      "end": 35.7,
+      "text": "Beta buka pintu rumah sewa"
+    },
+    {
+      "t": 38.12,
+      "end": 40.94,
+      "text": "Kunci baru, lantai penuh debu"
+    },
+    {
+      "t": 40.94,
+      "end": 41.7,
+      "text": "Di atas toren ada kucing abu"
+    },
+    {
+      "t": 44.2,
+      "end": 49.42,
+      "text": "Dia lihat beta, seng mau turun"
+    },
+    {
+      "t": 50.6,
+      "end": 50.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.6,
+      "end": 55.99,
+      "text": "Di dinding ada surat kecil"
+    },
+    {
+      "t": 57.41,
+      "end": 61.55,
+      "text": "Dari orang yang tinggal dulu"
+    },
+    {
+      "t": 62.75,
+      "end": 62.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.75,
+      "end": 64.33,
+      "text": "Namanya Nona, dia suka ikan asar"
+    },
+    {
+      "t": 64.35,
+      "end": 67.75,
+      "text": "Tolong jaga dia, katanya"
+    },
+    {
+      "t": 70.25,
+      "end": 75.27,
+      "text": "Beta baru datang, ose su lama"
+    },
+    {
+      "t": 76.27,
+      "end": 80.19,
+      "text": "Mari tinggal sama-sama"
+    },
+    {
+      "t": 94.43,
+      "end": 94.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.43,
+      "end": 98.59,
+      "text": "Malam pertama beta seng tidur"
+    },
+    {
+      "t": 100.69,
+      "end": 105.03,
+      "text": "Dengar kaki kecil di atas atap"
+    },
+    {
+      "t": 106.89,
+      "end": 110.49,
+      "text": "Pagi-pagi dia di depan pintu"
+    },
+    {
+      "t": 113.33,
+      "end": 117.07,
+      "text": "Duduk manis, minta sarapan"
+    },
+    {
+      "t": 119.33,
+      "end": 119.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.33,
+      "end": 123.11,
+      "text": "Namanya Nona, dia suka ikan asar"
+    },
+    {
+      "t": 125.35,
+      "end": 129.11,
+      "text": "Beta beli dua di pasar"
+    },
+    {
+      "t": 131.37,
+      "end": 134.87,
+      "text": "Rumah ini belum rumah beta"
+    },
+    {
+      "t": 138.45,
+      "end": 142.37,
+      "text": "Sampai Nona tidur di kaki beta"
+    },
+    {
+      "t": 169.22,
+      "end": 169.22,
+      "text": "[Outro - lap steel and ukulele fade]"
+    },
+    {
+      "t": 169.22,
+      "end": 172.94,
+      "text": "Nona, Nona"
+    },
+    {
+      "t": 174.92,
+      "end": 182.62,
+      "text": "Ose di rumah, beta di rumah"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.32,
+      "end": 32.32,
+      "text": "[Intro - lap steel slide, nylon guitar]"
+    },
+    {
+      "t": 32.32,
+      "end": 32.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.32,
+      "end": 35.7,
+      "text": "Beta buka pintu rumah sewa"
+    },
+    {
+      "t": 38.12,
+      "end": 41.72,
+      "text": "Kunci baru, lantai penuh debu"
+    },
+    {
+      "t": 44.2,
+      "end": 46.02,
+      "text": "Di atas toren ada kucing abu"
+    },
+    {
+      "t": 46.14,
+      "end": 49.42,
+      "text": "Dia lihat beta, seng mau turun"
+    },
+    {
+      "t": 50.6,
+      "end": 50.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.6,
+      "end": 55.97,
+      "text": "Di dinding ada surat kecil"
+    },
+    {
+      "t": 57.43,
+      "end": 61.55,
+      "text": "Dari orang yang tinggal dulu"
+    },
+    {
+      "t": 61.65,
+      "end": 61.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.65,
+      "end": 64.19,
+      "text": "Namanya Nona, dia suka ikan asar"
+    },
+    {
+      "t": 64.19,
+      "end": 67.75,
+      "text": "Tolong jaga dia, katanya"
+    },
+    {
+      "t": 70.25,
+      "end": 75.27,
+      "text": "Beta baru datang, ose su lama"
+    },
+    {
+      "t": 76.27,
+      "end": 80.19,
+      "text": "Mari tinggal sama-sama"
+    },
+    {
+      "t": 94.43,
+      "end": 94.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.43,
+      "end": 98.61,
+      "text": "Malam pertama beta seng tidur"
+    },
+    {
+      "t": 100.69,
+      "end": 105.03,
+      "text": "Dengar kaki kecil di atas atap"
+    },
+    {
+      "t": 106.89,
+      "end": 110.47,
+      "text": "Pagi-pagi dia di depan pintu"
+    },
+    {
+      "t": 113.33,
+      "end": 117.11,
+      "text": "Duduk manis, minta sarapan"
+    },
+    {
+      "t": 119.33,
+      "end": 119.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.33,
+      "end": 123.09,
+      "text": "Namanya Nona, dia suka ikan asar"
+    },
+    {
+      "t": 125.37,
+      "end": 129.17,
+      "text": "Beta beli dua di pasar"
+    },
+    {
+      "t": 131.39,
+      "end": 135.53,
+      "text": "Rumah ini belum rumah beta"
+    },
+    {
+      "t": 138.45,
+      "end": 142.37,
+      "text": "Sampai Nona tidur di kaki beta"
+    },
+    {
+      "t": 169.24,
+      "end": 169.24,
+      "text": "[Outro - lap steel and ukulele fade]"
+    },
+    {
+      "t": 169.24,
+      "end": 172.94,
+      "text": "Nona, Nona"
+    },
+    {
+      "t": 174.9,
+      "end": 199.86,
+      "text": "Ose di rumah, beta di rumah"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,337 @@
+{
+  "id": "b19_ko05",
+  "title": "열한 시에 잘 거야",
+  "title_source": "scripted",
+  "genre": "Korean riot-grrrl punk",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "defiant, gleeful, loud",
+  "persona": "",
+  "subject": "a 30-year-old office worker who declares going to bed at exactly eleven p.m. her act of rebellion against her team's all-nighter culture and lays out pyjamas at ten-thirty like armour",
+  "caption": "Korean riot-grrrl punk. Overdriven Telecaster power chords, fuzz bass doubling the riff, fast floor-tom heavy drumming with crash on every chorus. Raw live-room recording, loud and dry. Female chest-voice lead, forceful but clearly sung melody, gang vocals on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 168 BPM, D major. Defiant and gleeful. No pop-punk polish, no screaming, no autotune, no rap, no metal breakdown.",
+  "lyrics": "[Intro - fuzz bass riff, drums kick in]\n\n[Verse 1]\n팀장님은 밤새 일했대\n자랑처럼 단톡에 써\n나는 열 시 반이 되면\n잠옷을 갑옷처럼 입어\n\n[Pre-Chorus]\n알림은 꺼, 불도 꺼\n오늘은 내가 이겨\n\n[Chorus]\n열한 시에 잘 거야\n아무도 날 못 막아\n여덟 시간 꽉 채워\n내일 아침 멀쩡하게\n\n[Verse 2]\n다크서클은 훈장 아냐\n커피 네 잔은 밥 아냐\n베개를 꽉 끌어안고\n이불 속에서 주먹 쥐어\n\n[Pre-Chorus]\n열 시 오십구 분\n세상아 잘 있어\n\n[Chorus]\n열한 시에 잘 거야\n아무도 날 못 막아\n여덟 시간 꽉 채워\n월요일도 끄떡없게\n\n[Outro - power chords, last crash]\n잘 자, 나\n열한 시 정각",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 168,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean riot-grrrl punk. Overdriven Telecaster power chords, fuzz bass doubling the riff, fast floor-tom heavy drumming with crash on every chorus. Raw live-room recording, loud and dry. Female chest-voice lead, forceful but clearly sung melody, gang vocals on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 168 BPM, D major. Defiant and gleeful. No pop-punk polish, no screaming, no autotune, no rap, no metal breakdown.",
+    "lyrics": "[Intro - fuzz bass riff, drums kick in]\n\n[Verse 1]\n팀장님은 밤새 일했대\n자랑처럼 단톡에 써\n나는 열 시 반이 되면\n잠옷을 갑옷처럼 입어\n\n[Pre-Chorus]\n알림은 꺼, 불도 꺼\n오늘은 내가 이겨\n\n[Chorus]\n열한 시에 잘 거야\n아무도 날 못 막아\n여덟 시간 꽉 채워\n내일 아침 멀쩡하게\n\n[Verse 2]\n다크서클은 훈장 아냐\n커피 네 잔은 밥 아냐\n베개를 꽉 끌어안고\n이불 속에서 주먹 쥐어\n\n[Pre-Chorus]\n열 시 오십구 분\n세상아 잘 있어\n\n[Chorus]\n열한 시에 잘 거야\n아무도 날 못 막아\n여덟 시간 꽉 채워\n월요일도 끄떡없게\n\n[Outro - power chords, last crash]\n잘 자, 나\n열한 시 정각"
+  },
+  "seed": "107299185",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.22s**\n- 50.22s per song\n- LM phase (1 song): 9.22s\n- DiT phase (1 song): 40.99s",
+  "task_id": "32e0b5ee-76eb-48b1-88d1-f4d766ad5166",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-11-05T17:32:11.559604+08:00",
+  "audio": "b19_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.22,
+      "end": 24.22,
+      "text": "[Intro - fuzz bass riff, drums kick in]"
+    },
+    {
+      "t": 24.22,
+      "end": 24.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.22,
+      "end": 27.38,
+      "text": "팀장님은 밤새 일했대"
+    },
+    {
+      "t": 29.86,
+      "end": 32.82,
+      "text": "자랑처럼 단톡에 써"
+    },
+    {
+      "t": 36.04,
+      "end": 38.16,
+      "text": "나는 열 시 반이 되면"
+    },
+    {
+      "t": 38.16,
+      "end": 39.34,
+      "text": "잠옷을 갑옷처럼 입어"
+    },
+    {
+      "t": 39.34,
+      "end": 39.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.34,
+      "end": 41.86,
+      "text": "알림은 꺼, 불도 꺼"
+    },
+    {
+      "t": 41.94,
+      "end": 44.23,
+      "text": "오늘은 내가 이겨"
+    },
+    {
+      "t": 47.85,
+      "end": 47.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.85,
+      "end": 49.75,
+      "text": "열한 시에 잘 거야"
+    },
+    {
+      "t": 51.09,
+      "end": 55.77,
+      "text": "아무도 날 못 막아"
+    },
+    {
+      "t": 56.75,
+      "end": 58.83,
+      "text": "여덟 시간 꽉 채워"
+    },
+    {
+      "t": 60.29,
+      "end": 62.93,
+      "text": "내일 아침 멀쩡하게"
+    },
+    {
+      "t": 63.51,
+      "end": 63.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.51,
+      "end": 66.33,
+      "text": "다크서클은 훈장 아냐"
+    },
+    {
+      "t": 66.83,
+      "end": 68.93,
+      "text": "커피 네 잔은 밥 아냐"
+    },
+    {
+      "t": 68.93,
+      "end": 71.47,
+      "text": "베개를 꽉 끌어안고"
+    },
+    {
+      "t": 71.83,
+      "end": 74.15,
+      "text": "이불 속에서 주먹 쥐어"
+    },
+    {
+      "t": 86.71,
+      "end": 86.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 86.71,
+      "end": 89.35,
+      "text": "열 시 오십구 분"
+    },
+    {
+      "t": 91.31,
+      "end": 93.79,
+      "text": "세상아 잘 있어"
+    },
+    {
+      "t": 97.43,
+      "end": 97.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.43,
+      "end": 99.69,
+      "text": "열한 시에 잘 거야"
+    },
+    {
+      "t": 100.33,
+      "end": 102.51,
+      "text": "아무도 날 못 막아"
+    },
+    {
+      "t": 103.13,
+      "end": 105.37,
+      "text": "여덟 시간 꽉 채워"
+    },
+    {
+      "t": 105.97,
+      "end": 110.91,
+      "text": "월요일도 끄떡없게"
+    },
+    {
+      "t": 143.64,
+      "end": 143.64,
+      "text": "[Outro - power chords, last crash]"
+    },
+    {
+      "t": 143.64,
+      "end": 144.5,
+      "text": "잘 자, 나"
+    },
+    {
+      "t": 145.78,
+      "end": 147.22,
+      "text": "열한 시 정각"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.22,
+      "end": 24.22,
+      "text": "[Intro - fuzz bass riff, drums kick in]"
+    },
+    {
+      "t": 24.22,
+      "end": 24.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.22,
+      "end": 27.24,
+      "text": "팀장님은 밤새 일했대"
+    },
+    {
+      "t": 29.86,
+      "end": 32.82,
+      "text": "자랑처럼 단톡에 써"
+    },
+    {
+      "t": 36.04,
+      "end": 38.9,
+      "text": "나는 열 시 반이 되면"
+    },
+    {
+      "t": 39.18,
+      "end": 43.55,
+      "text": "잠옷을 갑옷처럼 입어"
+    },
+    {
+      "t": 43.55,
+      "end": 43.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.55,
+      "end": 47.97,
+      "text": "알림은 꺼, 불도 꺼"
+    },
+    {
+      "t": 47.99,
+      "end": 49.55,
+      "text": "오늘은 내가 이겨"
+    },
+    {
+      "t": 49.61,
+      "end": 49.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.61,
+      "end": 53.11,
+      "text": "열한 시에 잘 거야"
+    },
+    {
+      "t": 53.93,
+      "end": 55.79,
+      "text": "아무도 날 못 막아"
+    },
+    {
+      "t": 56.75,
+      "end": 58.83,
+      "text": "여덟 시간 꽉 채워"
+    },
+    {
+      "t": 60.25,
+      "end": 62.93,
+      "text": "내일 아침 멀쩡하게"
+    },
+    {
+      "t": 63.51,
+      "end": 63.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.51,
+      "end": 66.35,
+      "text": "다크서클은 훈장 아냐"
+    },
+    {
+      "t": 66.75,
+      "end": 68.91,
+      "text": "커피 네 잔은 밥 아냐"
+    },
+    {
+      "t": 68.91,
+      "end": 71.49,
+      "text": "베개를 꽉 끌어안고"
+    },
+    {
+      "t": 71.83,
+      "end": 74.15,
+      "text": "이불 속에서 주먹 쥐어"
+    },
+    {
+      "t": 77.67,
+      "end": 77.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.67,
+      "end": 89.35,
+      "text": "열 시 오십구 분"
+    },
+    {
+      "t": 91.29,
+      "end": 93.79,
+      "text": "세상아 잘 있어"
+    },
+    {
+      "t": 97.43,
+      "end": 97.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.43,
+      "end": 99.69,
+      "text": "열한 시에 잘 거야"
+    },
+    {
+      "t": 100.33,
+      "end": 102.53,
+      "text": "아무도 날 못 막아"
+    },
+    {
+      "t": 103.15,
+      "end": 105.37,
+      "text": "여덟 시간 꽉 채워"
+    },
+    {
+      "t": 105.99,
+      "end": 110.91,
+      "text": "월요일도 끄떡없게"
+    },
+    {
+      "t": 143.64,
+      "end": 143.64,
+      "text": "[Outro - power chords, last crash]"
+    },
+    {
+      "t": 143.64,
+      "end": 144.52,
+      "text": "잘 자, 나"
+    },
+    {
+      "t": 145.8,
+      "end": 147.22,
+      "text": "열한 시 정각"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

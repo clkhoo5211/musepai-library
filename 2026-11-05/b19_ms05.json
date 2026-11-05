@@ -1,0 +1,399 @@
+{
+  "id": "b19_ms05",
+  "title": "Bubur Untuk Seorang",
+  "title_source": "scripted",
+  "genre": "Malay yacht rock (West Coast AOR soft rock)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "easygoing, wry, mellow",
+  "persona": "",
+  "subject": "a woman living alone who suddenly boils a full periuk of bubur kacang hijau on a Tuesday afternoon for no occasion and spends the week eating it at every meal",
+  "caption": "Malay yacht rock in the West Coast AOR soft rock lineage. Glassy Rhodes electric piano chords, clean chorus-effect guitar fills, smooth melodic bass, a soft saxophone line between phrases, tight hi-hat groove. Smooth late-1970s studio polish with warm tape. Female lead with a warm mid alto, clearly sung, light male harmony on chorus. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, F major. Wry, easy solo afternoon. No trap drums, no autotune, no rap, no EDM, no heavy rock guitar.",
+  "lyrics": "[Intro - Rhodes and saxophone]\n[Verse 1]\nSelasa petang, tak ada apa\nAku rendam kacang hijau secawan\nRupanya secawan jadi seperiuk\nSantan, gula melaka, daun pandan\n[Chorus]\nBubur untuk seorang\nCukup untuk satu kampung\nAku makan pagi, makan petang\nPeriuk masih separuh penuh\n[Verse 2]\nRabu aku panaskan, tambah santan\nKhamis aku makan dengan roti\nJumaat aku bekukan dalam bekas\nSabtu aku masih makan lagi\n[Chorus]\nBubur untuk seorang\nTak ada sebab, tak ada tetamu\nAku makan sambil tengok hujan\nPeriuk tinggal satu senduk\n[Outro - saxophone fade]\nMinggu depan mungkin pengat\nKali ni aku rendam separuh",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Malay yacht rock in the West Coast AOR soft rock lineage. Glassy Rhodes electric piano chords, clean chorus-effect guitar fills, smooth melodic bass, a soft saxophone line between phrases, tight hi-hat groove. Smooth late-1970s studio polish with warm tape. Female lead with a warm mid alto, clearly sung, light male harmony on chorus. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, F major. Wry, easy solo afternoon. No trap drums, no autotune, no rap, no EDM, no heavy rock guitar.",
+    "lyrics": "[Intro - Rhodes and saxophone]\n[Verse 1]\nSelasa petang, tak ada apa\nAku rendam kacang hijau secawan\nRupanya secawan jadi seperiuk\nSantan, gula melaka, daun pandan\n[Chorus]\nBubur untuk seorang\nCukup untuk satu kampung\nAku makan pagi, makan petang\nPeriuk masih separuh penuh\n[Verse 2]\nRabu aku panaskan, tambah santan\nKhamis aku makan dengan roti\nJumaat aku bekukan dalam bekas\nSabtu aku masih makan lagi\n[Chorus]\nBubur untuk seorang\nTak ada sebab, tak ada tetamu\nAku makan sambil tengok hujan\nPeriuk tinggal satu senduk\n[Outro - saxophone fade]\nMinggu depan mungkin pengat\nKali ni aku rendam separuh"
+  },
+  "seed": "921884834",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 111.07s**\n- 111.07s per song\n- LM phase (1 song): 18.83s\n- DiT phase (1 song): 92.24s",
+  "task_id": "c4a549df-22ed-4107-af2c-a1e7e10d0391",
+  "elapsed_s": 151.8,
+  "generated_at": "2026-11-05T15:54:48.749466+08:00",
+  "audio": "b19_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.42,
+      "end": 10.42,
+      "text": "[Intro - Rhodes and saxophone]"
+    },
+    {
+      "t": 10.42,
+      "end": 10.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.42,
+      "end": 28.5,
+      "text": "Selasa petang, tak ada apa"
+    },
+    {
+      "t": 28.82,
+      "end": 36.56,
+      "text": "Aku rendam kacang hijau secawan"
+    },
+    {
+      "t": 39.78,
+      "end": 43.62,
+      "text": "Rupanya secawan jadi seperiuk"
+    },
+    {
+      "t": 46.0,
+      "end": 50.73,
+      "text": "Santan, gula melaka, daun pandan"
+    },
+    {
+      "t": 55.15,
+      "end": 55.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.15,
+      "end": 56.03,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 56.03,
+      "end": 58.21,
+      "text": "Cukup untuk satu kampung"
+    },
+    {
+      "t": 58.99,
+      "end": 63.45,
+      "text": "Aku makan pagi, makan petang"
+    },
+    {
+      "t": 63.97,
+      "end": 68.55,
+      "text": "Periuk masih separuh penuh"
+    },
+    {
+      "t": 68.61,
+      "end": 68.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.61,
+      "end": 71.55,
+      "text": "Rabu aku panaskan, tambah santan"
+    },
+    {
+      "t": 71.57,
+      "end": 72.79,
+      "text": "Khamis aku makan dengan roti"
+    },
+    {
+      "t": 72.81,
+      "end": 101.11,
+      "text": "Jumaat aku bekukan dalam bekas"
+    },
+    {
+      "t": 101.89,
+      "end": 105.85,
+      "text": "Sabtu aku masih makan lagi"
+    },
+    {
+      "t": 107.87,
+      "end": 107.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.87,
+      "end": 111.27,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 111.61,
+      "end": 116.75,
+      "text": "Tak ada sebab, tak ada tetamu"
+    },
+    {
+      "t": 117.33,
+      "end": 121.65,
+      "text": "Aku makan sambil tengok hujan"
+    },
+    {
+      "t": 122.23,
+      "end": 125.97,
+      "text": "Periuk tinggal satu senduk"
+    },
+    {
+      "t": 148.06,
+      "end": 148.06,
+      "text": "[Outro - saxophone fade]"
+    },
+    {
+      "t": 148.06,
+      "end": 150.94,
+      "text": "Minggu depan mungkin pengat"
+    },
+    {
+      "t": 153.4,
+      "end": 174.3,
+      "text": "Kali ni aku rendam separuh"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 10.42,
+      "end": 10.42,
+      "text": "[Intro - Rhodes and saxophone]"
+    },
+    {
+      "t": 10.42,
+      "end": 10.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.42,
+      "end": 28.5,
+      "text": "Selasa petang, tak ada apa"
+    },
+    {
+      "t": 28.82,
+      "end": 36.56,
+      "text": "Aku rendam kacang hijau secawan"
+    },
+    {
+      "t": 39.78,
+      "end": 43.62,
+      "text": "Rupanya secawan jadi seperiuk"
+    },
+    {
+      "t": 46.0,
+      "end": 50.73,
+      "text": "Santan, gula melaka, daun pandan"
+    },
+    {
+      "t": 55.15,
+      "end": 55.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.15,
+      "end": 56.03,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 56.03,
+      "end": 58.21,
+      "text": "Cukup untuk satu kampung"
+    },
+    {
+      "t": 58.99,
+      "end": 63.45,
+      "text": "Aku makan pagi, makan petang"
+    },
+    {
+      "t": 63.97,
+      "end": 68.55,
+      "text": "Periuk masih separuh penuh"
+    },
+    {
+      "t": 68.61,
+      "end": 68.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.61,
+      "end": 71.55,
+      "text": "Rabu aku panaskan, tambah santan"
+    },
+    {
+      "t": 71.57,
+      "end": 72.79,
+      "text": "Khamis aku makan dengan roti"
+    },
+    {
+      "t": 72.81,
+      "end": 101.11,
+      "text": "Jumaat aku bekukan dalam bekas"
+    },
+    {
+      "t": 101.89,
+      "end": 105.85,
+      "text": "Sabtu aku masih makan lagi"
+    },
+    {
+      "t": 107.87,
+      "end": 107.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.87,
+      "end": 111.27,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 111.61,
+      "end": 116.75,
+      "text": "Tak ada sebab, tak ada tetamu"
+    },
+    {
+      "t": 117.33,
+      "end": 121.65,
+      "text": "Aku makan sambil tengok hujan"
+    },
+    {
+      "t": 122.23,
+      "end": 125.97,
+      "text": "Periuk tinggal satu senduk"
+    },
+    {
+      "t": 148.06,
+      "end": 148.06,
+      "text": "[Outro - saxophone fade]"
+    },
+    {
+      "t": 148.06,
+      "end": 150.94,
+      "text": "Minggu depan mungkin pengat"
+    },
+    {
+      "t": 153.4,
+      "end": 174.3,
+      "text": "Kali ni aku rendam separuh"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 10.56,
+      "end": 10.56,
+      "text": "[Intro - Rhodes and saxophone]"
+    },
+    {
+      "t": 10.56,
+      "end": 10.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.56,
+      "end": 20.6,
+      "text": "Selasa petang, tak ada apa"
+    },
+    {
+      "t": 20.76,
+      "end": 36.86,
+      "text": "Aku rendam kacang hijau secawan"
+    },
+    {
+      "t": 39.8,
+      "end": 43.64,
+      "text": "Rupanya secawan jadi seperiuk"
+    },
+    {
+      "t": 46.0,
+      "end": 50.87,
+      "text": "Santan, gula melaka, daun pandan"
+    },
+    {
+      "t": 50.87,
+      "end": 50.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.87,
+      "end": 51.37,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 55.15,
+      "end": 58.21,
+      "text": "Cukup untuk satu kampung"
+    },
+    {
+      "t": 58.99,
+      "end": 63.47,
+      "text": "Aku makan pagi, makan petang"
+    },
+    {
+      "t": 63.97,
+      "end": 69.93,
+      "text": "Periuk masih separuh penuh"
+    },
+    {
+      "t": 70.73,
+      "end": 70.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.73,
+      "end": 88.83,
+      "text": "Rabu aku panaskan, tambah santan"
+    },
+    {
+      "t": 88.91,
+      "end": 96.07,
+      "text": "Khamis aku makan dengan roti"
+    },
+    {
+      "t": 96.09,
+      "end": 100.31,
+      "text": "Jumaat aku bekukan dalam bekas"
+    },
+    {
+      "t": 101.91,
+      "end": 105.85,
+      "text": "Sabtu aku masih makan lagi"
+    },
+    {
+      "t": 107.89,
+      "end": 107.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.89,
+      "end": 111.27,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 111.61,
+      "end": 116.73,
+      "text": "Tak ada sebab, tak ada tetamu"
+    },
+    {
+      "t": 117.31,
+      "end": 121.65,
+      "text": "Aku makan sambil tengok hujan"
+    },
+    {
+      "t": 122.25,
+      "end": 126.21,
+      "text": "Periuk tinggal satu senduk"
+    },
+    {
+      "t": 148.08,
+      "end": 148.08,
+      "text": "[Outro - saxophone fade]"
+    },
+    {
+      "t": 148.08,
+      "end": 150.98,
+      "text": "Minggu depan mungkin pengat"
+    },
+    {
+      "t": 153.4,
+      "end": 184.04,
+      "text": "Kali ni aku rendam separuh"
+    }
+  ]
+}

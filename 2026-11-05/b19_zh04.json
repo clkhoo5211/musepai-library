@@ -1,0 +1,474 @@
+{
+  "id": "b19_zh04",
+  "title": "櫥窗第三格",
+  "title_source": "scripted",
+  "genre": "Mandarin tango cabaret",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "dramatic, playful desire",
+  "persona": "",
+  "subject": "a young woman who walks past a shoe shop every evening to look at one pair of red leather heels in the third window slot priced 4,280, saving 150 dollars a day in a tin and counting how many days are left before someone else buys them",
+  "caption": "Mandarin tango cabaret in Argentine tango nuevo style. Bandoneon with sharp staccato marcato and long sighing phrases, violin with glissandi, piano playing percussive arrastre chords, upright bass with slapped accents on the marcato beat. Close live small-ensemble room sound. Female alto vocal, dramatic and clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, D minor. Playful longing, mock-melodramatic. No pop drums, no autotune, no rap, no electronic beats, no ballad slowdown.",
+  "lyrics": "[Intro - bandoneon staccato, piano arrastre]\n\n[Verse 1]\n晚上七點半 我又經過\n櫥窗第三格 紅色的鞋\n四千二百八 標籤在晃\n它看著我 我假裝路過\n\n[Pre-Chorus]\n鐵罐裡 每天一百五\n我數著 還要幾天\n\n[Chorus]\n等我 等我 別被買走\n再二十天 就輪到我\n店員小姐 拜託妳\n把它放在 最高的地方\n\n[Verse 2]\n午餐我改吃 白吐司\n手搖飲料 也戒了\n同事問我 為誰減肥\n我說為了 一雙鞋\n\n[Pre-Chorus]\n鐵罐裡 越來越重\n我搖它 像在跳舞\n\n[Chorus]\n等我 等我 別被買走\n再九天 就輪到我\n那個女生 妳別試穿\n那是我的 尺寸啊\n\n[Outro - violin glissando, bandoneon final chord]\n今天我來了 請幫我包起來",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Mandarin tango cabaret in Argentine tango nuevo style. Bandoneon with sharp staccato marcato and long sighing phrases, violin with glissandi, piano playing percussive arrastre chords, upright bass with slapped accents on the marcato beat. Close live small-ensemble room sound. Female alto vocal, dramatic and clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, D minor. Playful longing, mock-melodramatic. No pop drums, no autotune, no rap, no electronic beats, no ballad slowdown.",
+    "lyrics": "[Intro - bandoneon staccato, piano arrastre]\n\n[Verse 1]\n晚上七點半 我又經過\n櫥窗第三格 紅色的鞋\n四千二百八 標籤在晃\n它看著我 我假裝路過\n\n[Pre-Chorus]\n鐵罐裡 每天一百五\n我數著 還要幾天\n\n[Chorus]\n等我 等我 別被買走\n再二十天 就輪到我\n店員小姐 拜託妳\n把它放在 最高的地方\n\n[Verse 2]\n午餐我改吃 白吐司\n手搖飲料 也戒了\n同事問我 為誰減肥\n我說為了 一雙鞋\n\n[Pre-Chorus]\n鐵罐裡 越來越重\n我搖它 像在跳舞\n\n[Chorus]\n等我 等我 別被買走\n再九天 就輪到我\n那個女生 妳別試穿\n那是我的 尺寸啊\n\n[Outro - violin glissando, bandoneon final chord]\n今天我來了 請幫我包起來\n"
+  },
+  "seed": "127785328",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.01s**\n- 63.01s per song\n- LM phase (1 song): 15.68s\n- DiT phase (1 song): 47.33s",
+  "task_id": "be9ce260-206d-4095-b8af-62da9542d8fc",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-05T16:37:04.559609+08:00",
+  "audio": "b19_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.88,
+      "end": 33.88,
+      "text": "[Intro - bandoneon staccato, piano arrastre]"
+    },
+    {
+      "t": 33.88,
+      "end": 33.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.88,
+      "end": 35.06,
+      "text": "晚上七點半 我又經過"
+    },
+    {
+      "t": 35.06,
+      "end": 36.02,
+      "text": "櫥窗第三格 紅色的鞋"
+    },
+    {
+      "t": 36.04,
+      "end": 37.68,
+      "text": "四千二百八 標籤在晃"
+    },
+    {
+      "t": 37.68,
+      "end": 39.98,
+      "text": "它看著我 我假裝路過"
+    },
+    {
+      "t": 39.98,
+      "end": 39.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.98,
+      "end": 41.22,
+      "text": "鐵罐裡 每天一百五"
+    },
+    {
+      "t": 42.02,
+      "end": 47.44,
+      "text": "我數著 還要幾天"
+    },
+    {
+      "t": 50.1,
+      "end": 50.1,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.1,
+      "end": 53.53,
+      "text": "等我 等我 別被買走"
+    },
+    {
+      "t": 54.39,
+      "end": 57.41,
+      "text": "再二十天 就輪到我"
+    },
+    {
+      "t": 58.67,
+      "end": 61.33,
+      "text": "店員小姐 拜託妳"
+    },
+    {
+      "t": 62.21,
+      "end": 65.77,
+      "text": "把它放在 最高的地方"
+    },
+    {
+      "t": 91.73,
+      "end": 91.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.73,
+      "end": 94.89,
+      "text": "午餐我改吃 白吐司"
+    },
+    {
+      "t": 95.71,
+      "end": 98.41,
+      "text": "手搖飲料 也戒了"
+    },
+    {
+      "t": 99.73,
+      "end": 103.27,
+      "text": "同事問我 為誰減肥"
+    },
+    {
+      "t": 105.33,
+      "end": 109.05,
+      "text": "我說為了 一雙鞋"
+    },
+    {
+      "t": 109.43,
+      "end": 109.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.43,
+      "end": 113.27,
+      "text": "鐵罐裡 越來越重"
+    },
+    {
+      "t": 114.65,
+      "end": 117.75,
+      "text": "我搖它 像在跳舞"
+    },
+    {
+      "t": 120.97,
+      "end": 120.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.97,
+      "end": 129.21,
+      "text": "等我 等我 別被買走"
+    },
+    {
+      "t": 130.29,
+      "end": 153.69,
+      "text": "再九天 就輪到我"
+    },
+    {
+      "t": 154.5,
+      "end": 162.92,
+      "text": "那個女生 妳別試穿"
+    },
+    {
+      "t": 163.48,
+      "end": 167.52,
+      "text": "那是我的 尺寸啊"
+    },
+    {
+      "t": 179.82,
+      "end": 179.82,
+      "text": "[Outro - violin glissando, bandoneon final chord]"
+    },
+    {
+      "t": 179.82,
+      "end": 185.14,
+      "text": "今天我來了 請幫我包起來"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.88,
+      "end": 33.88,
+      "text": "[Intro - bandoneon staccato, piano arrastre]"
+    },
+    {
+      "t": 33.88,
+      "end": 33.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.88,
+      "end": 35.06,
+      "text": "晚上七點半 我又經過"
+    },
+    {
+      "t": 35.06,
+      "end": 36.02,
+      "text": "櫥窗第三格 紅色的鞋"
+    },
+    {
+      "t": 36.04,
+      "end": 37.68,
+      "text": "四千二百八 標籤在晃"
+    },
+    {
+      "t": 37.68,
+      "end": 39.98,
+      "text": "它看著我 我假裝路過"
+    },
+    {
+      "t": 39.98,
+      "end": 39.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.98,
+      "end": 41.22,
+      "text": "鐵罐裡 每天一百五"
+    },
+    {
+      "t": 42.02,
+      "end": 47.44,
+      "text": "我數著 還要幾天"
+    },
+    {
+      "t": 50.1,
+      "end": 50.1,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.1,
+      "end": 53.53,
+      "text": "等我 等我 別被買走"
+    },
+    {
+      "t": 54.39,
+      "end": 57.41,
+      "text": "再二十天 就輪到我"
+    },
+    {
+      "t": 58.67,
+      "end": 61.33,
+      "text": "店員小姐 拜託妳"
+    },
+    {
+      "t": 62.21,
+      "end": 65.77,
+      "text": "把它放在 最高的地方"
+    },
+    {
+      "t": 91.73,
+      "end": 91.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.73,
+      "end": 94.89,
+      "text": "午餐我改吃 白吐司"
+    },
+    {
+      "t": 95.71,
+      "end": 98.41,
+      "text": "手搖飲料 也戒了"
+    },
+    {
+      "t": 99.73,
+      "end": 103.27,
+      "text": "同事問我 為誰減肥"
+    },
+    {
+      "t": 105.33,
+      "end": 109.05,
+      "text": "我說為了 一雙鞋"
+    },
+    {
+      "t": 109.43,
+      "end": 109.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.43,
+      "end": 113.27,
+      "text": "鐵罐裡 越來越重"
+    },
+    {
+      "t": 114.65,
+      "end": 117.75,
+      "text": "我搖它 像在跳舞"
+    },
+    {
+      "t": 120.97,
+      "end": 120.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.97,
+      "end": 129.21,
+      "text": "等我 等我 別被買走"
+    },
+    {
+      "t": 130.29,
+      "end": 153.69,
+      "text": "再九天 就輪到我"
+    },
+    {
+      "t": 154.5,
+      "end": 162.92,
+      "text": "那個女生 妳別試穿"
+    },
+    {
+      "t": 163.48,
+      "end": 167.52,
+      "text": "那是我的 尺寸啊"
+    },
+    {
+      "t": 179.82,
+      "end": 179.82,
+      "text": "[Outro - violin glissando, bandoneon final chord]"
+    },
+    {
+      "t": 179.82,
+      "end": 185.14,
+      "text": "今天我來了 請幫我包起來"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 11.3,
+      "end": 11.3,
+      "text": "[Intro - bandoneon staccato, piano arrastre]"
+    },
+    {
+      "t": 11.3,
+      "end": 11.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.3,
+      "end": 34.16,
+      "text": "晚上七點半 我又經過"
+    },
+    {
+      "t": 34.16,
+      "end": 35.16,
+      "text": "櫥窗第三格 紅色的鞋"
+    },
+    {
+      "t": 35.22,
+      "end": 36.5,
+      "text": "四千二百八 標籤在晃"
+    },
+    {
+      "t": 36.5,
+      "end": 39.22,
+      "text": "它看著我 我假裝路過"
+    },
+    {
+      "t": 39.22,
+      "end": 39.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.22,
+      "end": 40.2,
+      "text": "鐵罐裡 每天一百五"
+    },
+    {
+      "t": 42.02,
+      "end": 45.7,
+      "text": "我數著 還要幾天"
+    },
+    {
+      "t": 50.1,
+      "end": 50.1,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.1,
+      "end": 53.45,
+      "text": "等我 等我 別被買走"
+    },
+    {
+      "t": 54.39,
+      "end": 57.43,
+      "text": "再二十天 就輪到我"
+    },
+    {
+      "t": 58.67,
+      "end": 61.31,
+      "text": "店員小姐 拜託妳"
+    },
+    {
+      "t": 62.19,
+      "end": 65.63,
+      "text": "把它放在 最高的地方"
+    },
+    {
+      "t": 91.73,
+      "end": 91.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.73,
+      "end": 94.89,
+      "text": "午餐我改吃 白吐司"
+    },
+    {
+      "t": 95.71,
+      "end": 98.41,
+      "text": "手搖飲料 也戒了"
+    },
+    {
+      "t": 99.73,
+      "end": 103.19,
+      "text": "同事問我 為誰減肥"
+    },
+    {
+      "t": 105.33,
+      "end": 109.01,
+      "text": "我說為了 一雙鞋"
+    },
+    {
+      "t": 109.47,
+      "end": 109.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 109.47,
+      "end": 113.27,
+      "text": "鐵罐裡 越來越重"
+    },
+    {
+      "t": 114.65,
+      "end": 122.83,
+      "text": "我搖它 像在跳舞"
+    },
+    {
+      "t": 122.97,
+      "end": 122.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.97,
+      "end": 129.21,
+      "text": "等我 等我 別被買走"
+    },
+    {
+      "t": 130.29,
+      "end": 153.69,
+      "text": "再九天 就輪到我"
+    },
+    {
+      "t": 154.48,
+      "end": 162.92,
+      "text": "那個女生 妳別試穿"
+    },
+    {
+      "t": 163.48,
+      "end": 179.48,
+      "text": "那是我的 尺寸啊"
+    },
+    {
+      "t": 179.82,
+      "end": 179.82,
+      "text": "[Outro - violin glissando, bandoneon final chord]"
+    },
+    {
+      "t": 179.82,
+      "end": 185.14,
+      "text": "今天我來了 請幫我包起來"
+    }
+  ]
+}

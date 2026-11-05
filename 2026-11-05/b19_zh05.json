@@ -1,0 +1,474 @@
+{
+  "id": "b19_zh05",
+  "title": "咖哩第七天",
+  "title_source": "scripted",
+  "genre": "Mandarin New Orleans second-line brass pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "rowdy, funny",
+  "persona": "",
+  "subject": "a man who misreads grams in a curry recipe, cooks a five-kilo pot, and has to eat it for seven days, reinventing it each night as curry udon, curry toast, curry fried rice and curry hotpot",
+  "caption": "Mandarin pop on a New Orleans second-line brass band groove. Punchy trumpet riffs, smeared trombone slides, bouncing sousaphone bass line, syncopated second-line snare with bass drum and cymbal. Loose live street-band sound. Male baritone lead vocal, hearty and clearly sung, with gang vocal shout-backs on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, B-flat major. Rowdy kitchen comedy. No trap, no autotune, no rap, no EDM, no smooth jazz.",
+  "lyrics": "[Intro - sousaphone, second-line snare, trumpet riff]\n\n[Verse 1]\n食譜寫五百克\n我看成五公斤\n鍋子裝到滿出來\n整個家都是咖哩\n\n[Pre-Chorus]\n星期一 白飯\n星期二 烏龍麵\n\n[Chorus]\n咖哩第七天 還沒吃完\n加起司 加雞蛋 換個樣子\n咖哩第七天 我不投降\n鍋底還有 一大半\n\n[Verse 2]\n星期三 夾吐司\n星期四 炒成飯\n星期五 加高湯\n煮成一鍋火鍋\n\n[Pre-Chorus]\n朋友一聞到味道\n就知道我來了\n\n[Chorus]\n咖哩第七天 終於見底\n刮一刮 鍋邊 最後一口\n咖哩第七天 白飯我想你\n明天配醬油就好\n\n[Outro - brass shout chorus, drums]\n下次食譜 我要看兩遍",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Mandarin pop on a New Orleans second-line brass band groove. Punchy trumpet riffs, smeared trombone slides, bouncing sousaphone bass line, syncopated second-line snare with bass drum and cymbal. Loose live street-band sound. Male baritone lead vocal, hearty and clearly sung, with gang vocal shout-backs on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, B-flat major. Rowdy kitchen comedy. No trap, no autotune, no rap, no EDM, no smooth jazz.",
+    "lyrics": "[Intro - sousaphone, second-line snare, trumpet riff]\n\n[Verse 1]\n食譜寫五百克\n我看成五公斤\n鍋子裝到滿出來\n整個家都是咖哩\n\n[Pre-Chorus]\n星期一 白飯\n星期二 烏龍麵\n\n[Chorus]\n咖哩第七天 還沒吃完\n加起司 加雞蛋 換個樣子\n咖哩第七天 我不投降\n鍋底還有 一大半\n\n[Verse 2]\n星期三 夾吐司\n星期四 炒成飯\n星期五 加高湯\n煮成一鍋火鍋\n\n[Pre-Chorus]\n朋友一聞到味道\n就知道我來了\n\n[Chorus]\n咖哩第七天 終於見底\n刮一刮 鍋邊 最後一口\n咖哩第七天 白飯我想你\n明天配醬油就好\n\n[Outro - brass shout chorus, drums]\n下次食譜 我要看兩遍\n"
+  },
+  "seed": "4276763150",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.72s**\n- 59.72s per song\n- LM phase (1 song): 16.28s\n- DiT phase (1 song): 43.44s",
+  "task_id": "f37b2821-95ec-4ad2-8bc9-101260b52bff",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-05T16:38:24.711447+08:00",
+  "audio": "b19_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Intro - sousaphone, second-line snare, trumpet riff]"
+    },
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.86,
+      "end": 29.7,
+      "text": "食譜寫五百克"
+    },
+    {
+      "t": 32.4,
+      "end": 34.38,
+      "text": "我看成五公斤"
+    },
+    {
+      "t": 34.4,
+      "end": 38.04,
+      "text": "鍋子裝到滿出來"
+    },
+    {
+      "t": 38.04,
+      "end": 39.1,
+      "text": "整個家都是咖哩"
+    },
+    {
+      "t": 41.16,
+      "end": 41.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.16,
+      "end": 42.72,
+      "text": "星期一 白飯"
+    },
+    {
+      "t": 42.88,
+      "end": 44.94,
+      "text": "星期二 烏龍麵"
+    },
+    {
+      "t": 59.29,
+      "end": 59.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.29,
+      "end": 60.77,
+      "text": "咖哩第七天 還沒吃完"
+    },
+    {
+      "t": 60.81,
+      "end": 62.53,
+      "text": "加起司 加雞蛋 換個樣子"
+    },
+    {
+      "t": 63.81,
+      "end": 67.09,
+      "text": "咖哩第七天 我不投降"
+    },
+    {
+      "t": 68.35,
+      "end": 71.81,
+      "text": "鍋底還有 一大半"
+    },
+    {
+      "t": 76.83,
+      "end": 76.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.83,
+      "end": 78.65,
+      "text": "星期三 夾吐司"
+    },
+    {
+      "t": 79.07,
+      "end": 80.87,
+      "text": "星期四 炒成飯"
+    },
+    {
+      "t": 81.35,
+      "end": 83.57,
+      "text": "星期五 加高湯"
+    },
+    {
+      "t": 83.63,
+      "end": 89.45,
+      "text": "煮成一鍋火鍋"
+    },
+    {
+      "t": 104.87,
+      "end": 104.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.87,
+      "end": 107.37,
+      "text": "朋友一聞到味道"
+    },
+    {
+      "t": 107.45,
+      "end": 109.01,
+      "text": "就知道我來了"
+    },
+    {
+      "t": 119.89,
+      "end": 119.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.89,
+      "end": 122.57,
+      "text": "咖哩第七天 終於見底"
+    },
+    {
+      "t": 124.41,
+      "end": 127.39,
+      "text": "刮一刮 鍋邊 最後一口"
+    },
+    {
+      "t": 129.21,
+      "end": 132.47,
+      "text": "咖哩第七天 白飯我想你"
+    },
+    {
+      "t": 133.73,
+      "end": 140.93,
+      "text": "明天配醬油就好"
+    },
+    {
+      "t": 143.08,
+      "end": 143.08,
+      "text": "[Outro - brass shout chorus, drums]"
+    },
+    {
+      "t": 143.08,
+      "end": 146.26,
+      "text": "下次食譜 我要看兩遍"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Intro - sousaphone, second-line snare, trumpet riff]"
+    },
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.86,
+      "end": 29.7,
+      "text": "食譜寫五百克"
+    },
+    {
+      "t": 32.4,
+      "end": 34.58,
+      "text": "我看成五公斤"
+    },
+    {
+      "t": 36.66,
+      "end": 38.04,
+      "text": "鍋子裝到滿出來"
+    },
+    {
+      "t": 38.04,
+      "end": 39.1,
+      "text": "整個家都是咖哩"
+    },
+    {
+      "t": 41.16,
+      "end": 41.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.16,
+      "end": 42.72,
+      "text": "星期一 白飯"
+    },
+    {
+      "t": 42.88,
+      "end": 44.94,
+      "text": "星期二 烏龍麵"
+    },
+    {
+      "t": 59.29,
+      "end": 59.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.29,
+      "end": 60.77,
+      "text": "咖哩第七天 還沒吃完"
+    },
+    {
+      "t": 60.81,
+      "end": 62.53,
+      "text": "加起司 加雞蛋 換個樣子"
+    },
+    {
+      "t": 63.81,
+      "end": 67.09,
+      "text": "咖哩第七天 我不投降"
+    },
+    {
+      "t": 68.35,
+      "end": 71.81,
+      "text": "鍋底還有 一大半"
+    },
+    {
+      "t": 76.83,
+      "end": 76.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.83,
+      "end": 78.65,
+      "text": "星期三 夾吐司"
+    },
+    {
+      "t": 79.07,
+      "end": 80.87,
+      "text": "星期四 炒成飯"
+    },
+    {
+      "t": 81.35,
+      "end": 83.57,
+      "text": "星期五 加高湯"
+    },
+    {
+      "t": 83.63,
+      "end": 89.45,
+      "text": "煮成一鍋火鍋"
+    },
+    {
+      "t": 104.87,
+      "end": 104.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.87,
+      "end": 107.37,
+      "text": "朋友一聞到味道"
+    },
+    {
+      "t": 107.45,
+      "end": 109.01,
+      "text": "就知道我來了"
+    },
+    {
+      "t": 119.89,
+      "end": 119.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.89,
+      "end": 122.57,
+      "text": "咖哩第七天 終於見底"
+    },
+    {
+      "t": 124.41,
+      "end": 127.39,
+      "text": "刮一刮 鍋邊 最後一口"
+    },
+    {
+      "t": 129.21,
+      "end": 132.47,
+      "text": "咖哩第七天 白飯我想你"
+    },
+    {
+      "t": 133.73,
+      "end": 140.93,
+      "text": "明天配醬油就好"
+    },
+    {
+      "t": 143.08,
+      "end": 143.08,
+      "text": "[Outro - brass shout chorus, drums]"
+    },
+    {
+      "t": 143.08,
+      "end": 146.26,
+      "text": "下次食譜 我要看兩遍"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Intro - sousaphone, second-line snare, trumpet riff]"
+    },
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.86,
+      "end": 29.72,
+      "text": "食譜寫五百克"
+    },
+    {
+      "t": 32.4,
+      "end": 34.42,
+      "text": "我看成五公斤"
+    },
+    {
+      "t": 36.68,
+      "end": 38.94,
+      "text": "鍋子裝到滿出來"
+    },
+    {
+      "t": 38.94,
+      "end": 41.46,
+      "text": "整個家都是咖哩"
+    },
+    {
+      "t": 41.48,
+      "end": 41.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.48,
+      "end": 42.72,
+      "text": "星期一 白飯"
+    },
+    {
+      "t": 42.88,
+      "end": 44.96,
+      "text": "星期二 烏龍麵"
+    },
+    {
+      "t": 46.86,
+      "end": 46.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.86,
+      "end": 56.41,
+      "text": "咖哩第七天 還沒吃完"
+    },
+    {
+      "t": 59.31,
+      "end": 62.53,
+      "text": "加起司 加雞蛋 換個樣子"
+    },
+    {
+      "t": 63.81,
+      "end": 67.07,
+      "text": "咖哩第七天 我不投降"
+    },
+    {
+      "t": 68.37,
+      "end": 71.81,
+      "text": "鍋底還有 一大半"
+    },
+    {
+      "t": 76.81,
+      "end": 76.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.81,
+      "end": 78.65,
+      "text": "星期三 夾吐司"
+    },
+    {
+      "t": 79.07,
+      "end": 80.81,
+      "text": "星期四 炒成飯"
+    },
+    {
+      "t": 81.35,
+      "end": 83.53,
+      "text": "星期五 加高湯"
+    },
+    {
+      "t": 83.63,
+      "end": 89.45,
+      "text": "煮成一鍋火鍋"
+    },
+    {
+      "t": 104.89,
+      "end": 104.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.89,
+      "end": 107.37,
+      "text": "朋友一聞到味道"
+    },
+    {
+      "t": 107.45,
+      "end": 108.99,
+      "text": "就知道我來了"
+    },
+    {
+      "t": 119.89,
+      "end": 119.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.89,
+      "end": 122.57,
+      "text": "咖哩第七天 終於見底"
+    },
+    {
+      "t": 124.41,
+      "end": 128.63,
+      "text": "刮一刮 鍋邊 最後一口"
+    },
+    {
+      "t": 129.21,
+      "end": 132.45,
+      "text": "咖哩第七天 白飯我想你"
+    },
+    {
+      "t": 133.73,
+      "end": 140.93,
+      "text": "明天配醬油就好"
+    },
+    {
+      "t": 141.09,
+      "end": 141.09,
+      "text": "[Outro - brass shout chorus, drums]"
+    },
+    {
+      "t": 141.09,
+      "end": 146.28,
+      "text": "下次食譜 我要看兩遍"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "id": "b19_ms04",
+  "title": "Zink Atas Kepala",
+  "title_source": "scripted",
+  "genre": "Malay surf rock (1960s instrumental-band revival)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "sunny, rollicking, upbeat",
+  "persona": "",
+  "subject": "two old friends replacing the rusted zinc roof sheets of a kampung house on one Saturday, one on the roof counting screws, the other on the ladder passing sheets up",
+  "caption": "Malay surf rock in the 1960s instrumental-band revival style. Twangy lead guitar soaked in spring reverb playing tremolo-picked runs, chugging rhythm guitar, Farfisa organ swells, walking electric bass, driving drums with crashing ride. Vintage live-room feel. Male lead with a bright mid tenor, clearly sung, band gang vocals on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 152 BPM, E major. Sun-baked weekend hard work. No distorted metal guitar, no autotune, no trap drums, no rap, no synth pads.",
+  "lyrics": "[Intro - surf guitar run, drum fill]\n[Verse 1]\nZink lama dah bocor macam ayak\nSabtu pagi Mamat dah panjat\nAku pegang tangga, kaki terketar\nDia jerit, hulur kepingan lagi\n[Chorus]\nZink atas kepala, matahari tegak\nSkru dalam mulut, tukul berdetak\nSatu keping lagi, satu keping lagi\nSebelum Zohor kita turun\n[Verse 2]\nMamat kira skru, tersalah kira\nSatu jatuh masuk longkang\nKami cari sampai sakit pinggang\nJumpa dalam selipar dia\n[Chorus]\nZink atas kepala, peluh menitik\nMamat menyanyi lagu lama\nSatu keping lagi, satu keping lagi\nSebelum Asar kita turun\n[Bridge - guitar solo]\n[Outro - organ and guitar, gang vocals]\nMalam nanti hujan pun boleh\nKami dengar bunyi dia dari dalam",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Malay surf rock in the 1960s instrumental-band revival style. Twangy lead guitar soaked in spring reverb playing tremolo-picked runs, chugging rhythm guitar, Farfisa organ swells, walking electric bass, driving drums with crashing ride. Vintage live-room feel. Male lead with a bright mid tenor, clearly sung, band gang vocals on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 152 BPM, E major. Sun-baked weekend hard work. No distorted metal guitar, no autotune, no trap drums, no rap, no synth pads.",
+    "lyrics": "[Intro - surf guitar run, drum fill]\n[Verse 1]\nZink lama dah bocor macam ayak\nSabtu pagi Mamat dah panjat\nAku pegang tangga, kaki terketar\nDia jerit, hulur kepingan lagi\n[Chorus]\nZink atas kepala, matahari tegak\nSkru dalam mulut, tukul berdetak\nSatu keping lagi, satu keping lagi\nSebelum Zohor kita turun\n[Verse 2]\nMamat kira skru, tersalah kira\nSatu jatuh masuk longkang\nKami cari sampai sakit pinggang\nJumpa dalam selipar dia\n[Chorus]\nZink atas kepala, peluh menitik\nMamat menyanyi lagu lama\nSatu keping lagi, satu keping lagi\nSebelum Asar kita turun\n[Bridge - guitar solo]\n[Outro - organ and guitar, gang vocals]\nMalam nanti hujan pun boleh\nKami dengar bunyi dia dari dalam"
+  },
+  "seed": "1445795363",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 103.52s**\n- 103.52s per song\n- LM phase (1 song): 18.71s\n- DiT phase (1 song): 84.81s",
+  "task_id": "6ea1a3ba-219e-4f4a-8903-73cd18ae9853",
+  "elapsed_s": 140.2,
+  "generated_at": "2026-11-05T15:52:16.886601+08:00",
+  "audio": "b19_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.58,
+      "end": 20.58,
+      "text": "[Intro - surf guitar run, drum fill]"
+    },
+    {
+      "t": 20.58,
+      "end": 20.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.58,
+      "end": 24.52,
+      "text": "Zink lama dah bocor macam ayak"
+    },
+    {
+      "t": 26.34,
+      "end": 30.7,
+      "text": "Sabtu pagi Mamat dah panjat"
+    },
+    {
+      "t": 32.56,
+      "end": 37.28,
+      "text": "Aku pegang tangga, kaki terketar"
+    },
+    {
+      "t": 38.58,
+      "end": 42.22,
+      "text": "Dia jerit, hulur kepingan lagi"
+    },
+    {
+      "t": 44.39,
+      "end": 44.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.39,
+      "end": 49.15,
+      "text": "Zink atas kepala, matahari tegak"
+    },
+    {
+      "t": 50.11,
+      "end": 54.55,
+      "text": "Skru dalam mulut, tukul berdetak"
+    },
+    {
+      "t": 59.79,
+      "end": 65.73,
+      "text": "Satu keping lagi, satu keping lagi"
+    },
+    {
+      "t": 66.17,
+      "end": 69.75,
+      "text": "Sebelum Zohor kita turun"
+    },
+    {
+      "t": 72.35,
+      "end": 72.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.35,
+      "end": 75.59,
+      "text": "Mamat kira skru, tersalah kira"
+    },
+    {
+      "t": 75.59,
+      "end": 79.65,
+      "text": "Satu jatuh masuk longkang"
+    },
+    {
+      "t": 81.53,
+      "end": 85.95,
+      "text": "Kami cari sampai sakit pinggang"
+    },
+    {
+      "t": 87.63,
+      "end": 90.99,
+      "text": "Jumpa dalam selipar dia"
+    },
+    {
+      "t": 90.99,
+      "end": 90.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.99,
+      "end": 94.89,
+      "text": "Zink atas kepala, peluh menitik"
+    },
+    {
+      "t": 94.89,
+      "end": 107.15,
+      "text": "Mamat menyanyi lagu lama"
+    },
+    {
+      "t": 107.15,
+      "end": 113.25,
+      "text": "Satu keping lagi, satu keping lagi"
+    },
+    {
+      "t": 113.67,
+      "end": 117.07,
+      "text": "Sebelum Asar kita turun"
+    },
+    {
+      "t": 156.68,
+      "end": 156.68,
+      "text": "[Bridge - guitar solo]"
+    },
+    {
+      "t": 156.68,
+      "end": 156.68,
+      "text": "[Outro - organ and guitar, gang vocals]"
+    },
+    {
+      "t": 156.68,
+      "end": 160.72,
+      "text": "Malam nanti hujan pun boleh"
+    },
+    {
+      "t": 162.14,
+      "end": 166.08,
+      "text": "Kami dengar bunyi dia dari dalam"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.58,
+      "end": 20.58,
+      "text": "[Intro - surf guitar run, drum fill]"
+    },
+    {
+      "t": 20.58,
+      "end": 20.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.58,
+      "end": 24.52,
+      "text": "Zink lama dah bocor macam ayak"
+    },
+    {
+      "t": 26.34,
+      "end": 30.7,
+      "text": "Sabtu pagi Mamat dah panjat"
+    },
+    {
+      "t": 32.56,
+      "end": 37.28,
+      "text": "Aku pegang tangga, kaki terketar"
+    },
+    {
+      "t": 38.58,
+      "end": 42.22,
+      "text": "Dia jerit, hulur kepingan lagi"
+    },
+    {
+      "t": 44.39,
+      "end": 44.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.39,
+      "end": 49.15,
+      "text": "Zink atas kepala, matahari tegak"
+    },
+    {
+      "t": 50.11,
+      "end": 54.55,
+      "text": "Skru dalam mulut, tukul berdetak"
+    },
+    {
+      "t": 59.79,
+      "end": 65.73,
+      "text": "Satu keping lagi, satu keping lagi"
+    },
+    {
+      "t": 66.17,
+      "end": 69.75,
+      "text": "Sebelum Zohor kita turun"
+    },
+    {
+      "t": 72.35,
+      "end": 72.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.35,
+      "end": 75.59,
+      "text": "Mamat kira skru, tersalah kira"
+    },
+    {
+      "t": 75.59,
+      "end": 79.65,
+      "text": "Satu jatuh masuk longkang"
+    },
+    {
+      "t": 81.53,
+      "end": 85.95,
+      "text": "Kami cari sampai sakit pinggang"
+    },
+    {
+      "t": 87.63,
+      "end": 90.99,
+      "text": "Jumpa dalam selipar dia"
+    },
+    {
+      "t": 90.99,
+      "end": 90.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.99,
+      "end": 94.89,
+      "text": "Zink atas kepala, peluh menitik"
+    },
+    {
+      "t": 94.89,
+      "end": 107.15,
+      "text": "Mamat menyanyi lagu lama"
+    },
+    {
+      "t": 107.15,
+      "end": 113.25,
+      "text": "Satu keping lagi, satu keping lagi"
+    },
+    {
+      "t": 113.67,
+      "end": 117.07,
+      "text": "Sebelum Asar kita turun"
+    },
+    {
+      "t": 156.68,
+      "end": 156.68,
+      "text": "[Bridge - guitar solo]"
+    },
+    {
+      "t": 156.68,
+      "end": 156.68,
+      "text": "[Outro - organ and guitar, gang vocals]"
+    },
+    {
+      "t": 156.68,
+      "end": 160.72,
+      "text": "Malam nanti hujan pun boleh"
+    },
+    {
+      "t": 162.14,
+      "end": 166.08,
+      "text": "Kami dengar bunyi dia dari dalam"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 9.58,
+      "end": 9.58,
+      "text": "[Intro - surf guitar run, drum fill]"
+    },
+    {
+      "t": 9.58,
+      "end": 9.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 9.58,
+      "end": 24.52,
+      "text": "Zink lama dah bocor macam ayak"
+    },
+    {
+      "t": 26.34,
+      "end": 30.68,
+      "text": "Sabtu pagi Mamat dah panjat"
+    },
+    {
+      "t": 32.56,
+      "end": 37.32,
+      "text": "Aku pegang tangga, kaki terketar"
+    },
+    {
+      "t": 38.62,
+      "end": 42.22,
+      "text": "Dia jerit, hulur kepingan lagi"
+    },
+    {
+      "t": 44.39,
+      "end": 44.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.39,
+      "end": 49.15,
+      "text": "Zink atas kepala, matahari tegak"
+    },
+    {
+      "t": 50.11,
+      "end": 54.55,
+      "text": "Skru dalam mulut, tukul berdetak"
+    },
+    {
+      "t": 59.81,
+      "end": 65.73,
+      "text": "Satu keping lagi, satu keping lagi"
+    },
+    {
+      "t": 66.17,
+      "end": 69.75,
+      "text": "Sebelum Zohor kita turun"
+    },
+    {
+      "t": 72.35,
+      "end": 72.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.35,
+      "end": 73.93,
+      "text": "Mamat kira skru, tersalah kira"
+    },
+    {
+      "t": 75.59,
+      "end": 79.61,
+      "text": "Satu jatuh masuk longkang"
+    },
+    {
+      "t": 81.53,
+      "end": 85.93,
+      "text": "Kami cari sampai sakit pinggang"
+    },
+    {
+      "t": 87.65,
+      "end": 91.27,
+      "text": "Jumpa dalam selipar dia"
+    },
+    {
+      "t": 91.93,
+      "end": 91.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.93,
+      "end": 98.07,
+      "text": "Zink atas kepala, peluh menitik"
+    },
+    {
+      "t": 98.07,
+      "end": 104.45,
+      "text": "Mamat menyanyi lagu lama"
+    },
+    {
+      "t": 107.15,
+      "end": 113.25,
+      "text": "Satu keping lagi, satu keping lagi"
+    },
+    {
+      "t": 113.67,
+      "end": 117.13,
+      "text": "Sebelum Asar kita turun"
+    },
+    {
+      "t": 156.7,
+      "end": 156.7,
+      "text": "[Bridge - guitar solo]"
+    },
+    {
+      "t": 156.7,
+      "end": 156.7,
+      "text": "[Outro - organ and guitar, gang vocals]"
+    },
+    {
+      "t": 156.7,
+      "end": 160.68,
+      "text": "Malam nanti hujan pun boleh"
+    },
+    {
+      "t": 162.14,
+      "end": 166.08,
+      "text": "Kami dengar bunyi dia dari dalam"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": "b19_en04",
+  "title": "Same Heel Again",
+  "title_source": "scripted",
+  "genre": "UK lovers rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "sweet, shy, romantic",
+  "persona": "",
+  "subject": "a woman who runs a one-person shoe repair kiosk in Lewisham and realises the man who brings in the same brown brogue with a worn heel every second week has been walking it down on purpose",
+  "caption": "UK lovers rock, late-1970s London reggae ballad style. One-drop reggae drums with soft rimshots, deep round bass guitar, offbeat skank guitar, warm Rhodes electric piano chords. Warm analogue studio sound with light spring reverb. Female soprano, clearly sung melody, smooth and sweet with soft harmony vocals. Clear full voice, every word enunciated, steady sung melody on every line. 76 BPM, F major. Tender, shy, romantic. No dancehall, no trap drums, no autotune, no rap, no EDM synths.",
+  "lyrics": "[Intro - Rhodes, bass line]\n\n[Verse 1]\nLittle kiosk by the station\nGlue and polish, one small stool\nEvery second Monday morning\nYou come in with the same left shoe\n\n[Pre-Chorus]\nBrown brogue, the heel worn thin\nYou smile and say it's how you walk\n\n[Chorus]\nSame heel again, same heel again\nNobody wears a shoe that fast\nSame heel again, I fix it then\nI hope you wear it out at last\n\n[Verse 2]\nI keep your ticket by the till\nI know your number off by heart\nYou stand and talk while the glue dries\nAnd never look at what I charge\n\n[Pre-Chorus]\nToday you brought the right shoe too\nAnd asked me what I do at six\n\n[Chorus]\nSame heel again, same heel again\nSo that's why you scuff it so\nSame heel again, it's six, and then\nI'll lock the shutter and we'll go\n\n[Outro - skank guitar, Rhodes]\nSame heel again, walk me home",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 76,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "UK lovers rock, late-1970s London reggae ballad style. One-drop reggae drums with soft rimshots, deep round bass guitar, offbeat skank guitar, warm Rhodes electric piano chords. Warm analogue studio sound with light spring reverb. Female soprano, clearly sung melody, smooth and sweet with soft harmony vocals. Clear full voice, every word enunciated, steady sung melody on every line. 76 BPM, F major. Tender, shy, romantic. No dancehall, no trap drums, no autotune, no rap, no EDM synths.",
+    "lyrics": "[Intro - Rhodes, bass line]\n\n[Verse 1]\nLittle kiosk by the station\nGlue and polish, one small stool\nEvery second Monday morning\nYou come in with the same left shoe\n\n[Pre-Chorus]\nBrown brogue, the heel worn thin\nYou smile and say it's how you walk\n\n[Chorus]\nSame heel again, same heel again\nNobody wears a shoe that fast\nSame heel again, I fix it then\nI hope you wear it out at last\n\n[Verse 2]\nI keep your ticket by the till\nI know your number off by heart\nYou stand and talk while the glue dries\nAnd never look at what I charge\n\n[Pre-Chorus]\nToday you brought the right shoe too\nAnd asked me what I do at six\n\n[Chorus]\nSame heel again, same heel again\nSo that's why you scuff it so\nSame heel again, it's six, and then\nI'll lock the shutter and we'll go\n\n[Outro - skank guitar, Rhodes]\nSame heel again, walk me home"
+  },
+  "seed": "517003938",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.48s**\n- 59.48s per song\n- LM phase (1 song): 12.92s\n- DiT phase (1 song): 46.56s",
+  "task_id": "e190d24a-938e-4234-9f6f-38d6c7eb671e",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-05T16:28:13.370335+08:00",
+  "audio": "b19_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.6,
+      "end": 25.6,
+      "text": "[Intro - Rhodes, bass line]"
+    },
+    {
+      "t": 25.6,
+      "end": 25.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.6,
+      "end": 42.32,
+      "text": "Little kiosk by the station"
+    },
+    {
+      "t": 44.08,
+      "end": 48.28,
+      "text": "Glue and polish, one small stool"
+    },
+    {
+      "t": 50.43,
+      "end": 53.13,
+      "text": "Every second Monday morning"
+    },
+    {
+      "t": 53.87,
+      "end": 57.71,
+      "text": "You come in with the same left shoe"
+    },
+    {
+      "t": 60.45,
+      "end": 60.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.45,
+      "end": 63.51,
+      "text": "Brown brogue, the heel worn thin"
+    },
+    {
+      "t": 66.23,
+      "end": 69.85,
+      "text": "You smile and say it's how you walk"
+    },
+    {
+      "t": 73.69,
+      "end": 73.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.69,
+      "end": 78.01,
+      "text": "Same heel again, same heel again"
+    },
+    {
+      "t": 80.31,
+      "end": 84.81,
+      "text": "Nobody wears a shoe that fast"
+    },
+    {
+      "t": 86.91,
+      "end": 90.53,
+      "text": "Same heel again, I fix it then"
+    },
+    {
+      "t": 92.61,
+      "end": 95.71,
+      "text": "I hope you wear it out at last"
+    },
+    {
+      "t": 95.73,
+      "end": 95.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.73,
+      "end": 97.39,
+      "text": "I keep your ticket by the till"
+    },
+    {
+      "t": 97.39,
+      "end": 126.75,
+      "text": "I know your number off by heart"
+    },
+    {
+      "t": 126.75,
+      "end": 155.48,
+      "text": "You stand and talk while the glue dries"
+    },
+    {
+      "t": 155.6,
+      "end": 160.46,
+      "text": "And never look at what I charge"
+    },
+    {
+      "t": 161.14,
+      "end": 161.14,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 161.14,
+      "end": 162.64,
+      "text": "Today you brought the right shoe too"
+    },
+    {
+      "t": 163.7,
+      "end": 166.7,
+      "text": "And asked me what I do at six"
+    },
+    {
+      "t": 169.34,
+      "end": 169.34,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 169.34,
+      "end": 174.72,
+      "text": "Same heel again, same heel again"
+    },
+    {
+      "t": 174.72,
+      "end": 177.28,
+      "text": "So that's why you scuff it so"
+    },
+    {
+      "t": 181.78,
+      "end": 185.04,
+      "text": "Same heel again, it's six, and then"
+    },
+    {
+      "t": 185.08,
+      "end": 186.46,
+      "text": "I'll lock the shutter and we'll go"
+    },
+    {
+      "t": 186.5,
+      "end": 186.5,
+      "text": "[Outro - skank guitar, Rhodes]"
+    },
+    {
+      "t": 186.5,
+      "end": 194.78,
+      "text": "Same heel again, walk me home"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 12.14,
+      "end": 12.14,
+      "text": "[Intro - Rhodes, bass line]"
+    },
+    {
+      "t": 12.14,
+      "end": 12.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 12.14,
+      "end": 42.32,
+      "text": "Little kiosk by the station"
+    },
+    {
+      "t": 44.06,
+      "end": 48.28,
+      "text": "Glue and polish, one small stool"
+    },
+    {
+      "t": 50.43,
+      "end": 53.13,
+      "text": "Every second Monday morning"
+    },
+    {
+      "t": 53.87,
+      "end": 60.31,
+      "text": "You come in with the same left shoe"
+    },
+    {
+      "t": 60.47,
+      "end": 60.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.47,
+      "end": 63.51,
+      "text": "Brown brogue, the heel worn thin"
+    },
+    {
+      "t": 66.21,
+      "end": 69.81,
+      "text": "You smile and say it's how you walk"
+    },
+    {
+      "t": 73.69,
+      "end": 73.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.69,
+      "end": 78.03,
+      "text": "Same heel again, same heel again"
+    },
+    {
+      "t": 80.31,
+      "end": 84.43,
+      "text": "Nobody wears a shoe that fast"
+    },
+    {
+      "t": 86.91,
+      "end": 90.51,
+      "text": "Same heel again, I fix it then"
+    },
+    {
+      "t": 90.91,
+      "end": 92.67,
+      "text": "I hope you wear it out at last"
+    },
+    {
+      "t": 92.75,
+      "end": 92.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.75,
+      "end": 95.03,
+      "text": "I keep your ticket by the till"
+    },
+    {
+      "t": 95.03,
+      "end": 97.31,
+      "text": "I know your number off by heart"
+    },
+    {
+      "t": 97.35,
+      "end": 155.5,
+      "text": "You stand and talk while the glue dries"
+    },
+    {
+      "t": 155.6,
+      "end": 159.22,
+      "text": "And never look at what I charge"
+    },
+    {
+      "t": 159.48,
+      "end": 159.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 159.48,
+      "end": 162.74,
+      "text": "Today you brought the right shoe too"
+    },
+    {
+      "t": 163.7,
+      "end": 168.62,
+      "text": "And asked me what I do at six"
+    },
+    {
+      "t": 169.34,
+      "end": 169.34,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 169.34,
+      "end": 174.68,
+      "text": "Same heel again, same heel again"
+    },
+    {
+      "t": 174.68,
+      "end": 175.7,
+      "text": "So that's why you scuff it so"
+    },
+    {
+      "t": 175.7,
+      "end": 176.76,
+      "text": "Same heel again, it's six, and then"
+    },
+    {
+      "t": 176.78,
+      "end": 181.8,
+      "text": "I'll lock the shutter and we'll go"
+    },
+    {
+      "t": 181.8,
+      "end": 181.8,
+      "text": "[Outro - skank guitar, Rhodes]"
+    },
+    {
+      "t": 181.8,
+      "end": 187.08,
+      "text": "Same heel again, walk me home"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

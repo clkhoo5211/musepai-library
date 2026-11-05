@@ -1,0 +1,327 @@
+{
+  "id": "b19_vi01",
+  "title": "Hốt Hụi Đầu",
+  "title_source": "scripted",
+  "genre": "Vietnamese band pop-rock",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "cheeky, self-mocking, bouncy",
+  "persona": "",
+  "subject": "a young man who bids a ruinous interest rate to take the first pot of a hụi run by five old high-school classmates so he can buy a second-hand Vespa to take a girl out, then spends the next eleven months paying in on instant noodles while the classmates read out his bid at every meeting",
+  "caption": "Vietnamese band pop-rock in the Chillies and Maydays style. Crunchy palm-muted rhythm electric guitar, bright jangling lead guitar riff, punchy picked bass guitar, live rock drum kit with open hi-hat on the chorus, warm organ pad underneath. Tight live-band room production, wide stereo guitars, dry upfront vocal. Male tenor, clearly sung melody with a grinning frontman tone. Clear full voice, every word enunciated, steady sung melody on every line. 150 BPM, A major. Cheeky, self-mocking, bouncing. No trap hi-hats, no autotune, no EDM drop, no rap, no metal screaming.",
+  "lyrics": "[Intro - lead guitar riff, drums]\n\n[Verse 1]\nNăm đứa bạn cấp ba góp hụi\nMỗi tháng hai triệu, quán cà phê cũ\nTao đứng lên kêu giá thật to\nCả bàn im lặng, đứa nào cũng ngó\n\n[Pre-Chorus]\nTao cần chiếc Vespa\nĐể chở em đi một vòng Hồ Tây\n\n[Chorus]\nHốt hụi đầu, tao hốt hụi đầu\nLãi cắt cổ cũng chẳng sao đâu\nEm ngồi sau, gió thổi tóc em\nCòn mười một tháng ăn mì gói thêm\n\n[Verse 2]\nTháng nào tụi nó cũng nhắc lại\nCái giá tao kêu, đọc to từng chữ\nTao nộp tiền, tay cầm gói mì\nTụi nó vỗ vai, cười như được mùa\n\n[Pre-Chorus]\nNhưng em bảo tối qua\nXe đẹp đấy, mà người đẹp hơn\n\n[Chorus]\nHốt hụi đầu, tao hốt hụi đầu\nLãi cắt cổ cũng chẳng sao đâu\nEm ngồi sau, ôm chặt eo tao\nMì gói hôm nay sao ngọt thế này\n\n[Outro - guitar riff, drum fill]\nTháng sau tao lại nộp hụi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 150,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Vietnamese band pop-rock in the Chillies and Maydays style. Crunchy palm-muted rhythm electric guitar, bright jangling lead guitar riff, punchy picked bass guitar, live rock drum kit with open hi-hat on the chorus, warm organ pad underneath. Tight live-band room production, wide stereo guitars, dry upfront vocal. Male tenor, clearly sung melody with a grinning frontman tone. Clear full voice, every word enunciated, steady sung melody on every line. 150 BPM, A major. Cheeky, self-mocking, bouncing. No trap hi-hats, no autotune, no EDM drop, no rap, no metal screaming.",
+    "lyrics": "[Intro - lead guitar riff, drums]\n\n[Verse 1]\nNăm đứa bạn cấp ba góp hụi\nMỗi tháng hai triệu, quán cà phê cũ\nTao đứng lên kêu giá thật to\nCả bàn im lặng, đứa nào cũng ngó\n\n[Pre-Chorus]\nTao cần chiếc Vespa\nĐể chở em đi một vòng Hồ Tây\n\n[Chorus]\nHốt hụi đầu, tao hốt hụi đầu\nLãi cắt cổ cũng chẳng sao đâu\nEm ngồi sau, gió thổi tóc em\nCòn mười một tháng ăn mì gói thêm\n\n[Verse 2]\nTháng nào tụi nó cũng nhắc lại\nCái giá tao kêu, đọc to từng chữ\nTao nộp tiền, tay cầm gói mì\nTụi nó vỗ vai, cười như được mùa\n\n[Pre-Chorus]\nNhưng em bảo tối qua\nXe đẹp đấy, mà người đẹp hơn\n\n[Chorus]\nHốt hụi đầu, tao hốt hụi đầu\nLãi cắt cổ cũng chẳng sao đâu\nEm ngồi sau, ôm chặt eo tao\nMì gói hôm nay sao ngọt thế này\n\n[Outro - guitar riff, drum fill]\nTháng sau tao lại nộp hụi"
+  },
+  "seed": "2518447542",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.66s**\n- 66.66s per song\n- LM phase (1 song): 10.19s\n- DiT phase (1 song): 56.46s",
+  "task_id": "6820b269-a7e7-4644-8391-9ddda2b4d54f",
+  "elapsed_s": 90.4,
+  "generated_at": "2026-11-05T17:58:26.384028+08:00",
+  "audio": "b19_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 12.48,
+      "end": 12.48,
+      "text": "[Intro - lead guitar riff, drums]"
+    },
+    {
+      "t": 12.48,
+      "end": 12.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 12.48,
+      "end": 30.26,
+      "text": "Năm đứa bạn cấp ba góp hụi"
+    },
+    {
+      "t": 30.32,
+      "end": 33.08,
+      "text": "Mỗi tháng hai triệu, quán cà phê cũ"
+    },
+    {
+      "t": 33.08,
+      "end": 39.28,
+      "text": "Tao đứng lên kêu giá thật to"
+    },
+    {
+      "t": 39.32,
+      "end": 41.1,
+      "text": "Cả bàn im lặng, đứa nào cũng ngó"
+    },
+    {
+      "t": 42.26,
+      "end": 42.26,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.26,
+      "end": 43.1,
+      "text": "Tao cần chiếc Vespa"
+    },
+    {
+      "t": 43.1,
+      "end": 46.36,
+      "text": "Để chở em đi một vòng Hồ Tây"
+    },
+    {
+      "t": 50.43,
+      "end": 50.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.43,
+      "end": 53.01,
+      "text": "Hốt hụi đầu, tao hốt hụi đầu"
+    },
+    {
+      "t": 53.65,
+      "end": 55.37,
+      "text": "Lãi cắt cổ cũng chẳng sao đâu"
+    },
+    {
+      "t": 55.37,
+      "end": 56.37,
+      "text": "Em ngồi sau, gió thổi tóc em"
+    },
+    {
+      "t": 56.37,
+      "end": 59.57,
+      "text": "Còn mười một tháng ăn mì gói thêm"
+    },
+    {
+      "t": 62.93,
+      "end": 62.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.93,
+      "end": 65.53,
+      "text": "Tháng nào tụi nó cũng nhắc lại"
+    },
+    {
+      "t": 69.29,
+      "end": 73.83,
+      "text": "Cái giá tao kêu, đọc to từng chữ"
+    },
+    {
+      "t": 75.41,
+      "end": 80.13,
+      "text": "Tao nộp tiền, tay cầm gói mì"
+    },
+    {
+      "t": 81.79,
+      "end": 87.19,
+      "text": "Tụi nó vỗ vai, cười như được mùa"
+    },
+    {
+      "t": 91.67,
+      "end": 91.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 91.67,
+      "end": 93.65,
+      "text": "Nhưng em bảo tối qua"
+    },
+    {
+      "t": 95.67,
+      "end": 102.47,
+      "text": "Xe đẹp đấy, mà người đẹp hơn"
+    },
+    {
+      "t": 104.03,
+      "end": 104.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.03,
+      "end": 106.59,
+      "text": "Hốt hụi đầu, tao hốt hụi đầu"
+    },
+    {
+      "t": 107.21,
+      "end": 109.75,
+      "text": "Lãi cắt cổ cũng chẳng sao đâu"
+    },
+    {
+      "t": 110.45,
+      "end": 112.93,
+      "text": "Em ngồi sau, ôm chặt eo tao"
+    },
+    {
+      "t": 113.17,
+      "end": 116.07,
+      "text": "Mì gói hôm nay sao ngọt thế này"
+    },
+    {
+      "t": 142.56,
+      "end": 142.56,
+      "text": "[Outro - guitar riff, drum fill]"
+    },
+    {
+      "t": 142.56,
+      "end": 168.84,
+      "text": "Tháng sau tao lại nộp hụi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.02,
+      "end": 22.02,
+      "text": "[Intro - lead guitar riff, drums]"
+    },
+    {
+      "t": 22.02,
+      "end": 22.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.02,
+      "end": 30.24,
+      "text": "Năm đứa bạn cấp ba góp hụi"
+    },
+    {
+      "t": 30.3,
+      "end": 39.28,
+      "text": "Mỗi tháng hai triệu, quán cà phê cũ"
+    },
+    {
+      "t": 39.32,
+      "end": 40.36,
+      "text": "Tao đứng lên kêu giá thật to"
+    },
+    {
+      "t": 40.36,
+      "end": 42.24,
+      "text": "Cả bàn im lặng, đứa nào cũng ngó"
+    },
+    {
+      "t": 42.28,
+      "end": 42.28,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.28,
+      "end": 43.1,
+      "text": "Tao cần chiếc Vespa"
+    },
+    {
+      "t": 43.1,
+      "end": 46.38,
+      "text": "Để chở em đi một vòng Hồ Tây"
+    },
+    {
+      "t": 50.43,
+      "end": 50.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.43,
+      "end": 52.95,
+      "text": "Hốt hụi đầu, tao hốt hụi đầu"
+    },
+    {
+      "t": 53.63,
+      "end": 55.35,
+      "text": "Lãi cắt cổ cũng chẳng sao đâu"
+    },
+    {
+      "t": 55.35,
+      "end": 56.37,
+      "text": "Em ngồi sau, gió thổi tóc em"
+    },
+    {
+      "t": 56.37,
+      "end": 59.15,
+      "text": "Còn mười một tháng ăn mì gói thêm"
+    },
+    {
+      "t": 62.91,
+      "end": 62.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.91,
+      "end": 65.55,
+      "text": "Tháng nào tụi nó cũng nhắc lại"
+    },
+    {
+      "t": 69.29,
+      "end": 73.81,
+      "text": "Cái giá tao kêu, đọc to từng chữ"
+    },
+    {
+      "t": 75.43,
+      "end": 80.13,
+      "text": "Tao nộp tiền, tay cầm gói mì"
+    },
+    {
+      "t": 81.79,
+      "end": 91.65,
+      "text": "Tụi nó vỗ vai, cười như được mùa"
+    },
+    {
+      "t": 91.65,
+      "end": 91.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 91.65,
+      "end": 93.65,
+      "text": "Nhưng em bảo tối qua"
+    },
+    {
+      "t": 95.67,
+      "end": 102.47,
+      "text": "Xe đẹp đấy, mà người đẹp hơn"
+    },
+    {
+      "t": 104.03,
+      "end": 104.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.03,
+      "end": 106.57,
+      "text": "Hốt hụi đầu, tao hốt hụi đầu"
+    },
+    {
+      "t": 107.21,
+      "end": 109.75,
+      "text": "Lãi cắt cổ cũng chẳng sao đâu"
+    },
+    {
+      "t": 110.45,
+      "end": 112.93,
+      "text": "Em ngồi sau, ôm chặt eo tao"
+    },
+    {
+      "t": 113.17,
+      "end": 116.09,
+      "text": "Mì gói hôm nay sao ngọt thế này"
+    },
+    {
+      "t": 142.56,
+      "end": 142.56,
+      "text": "[Outro - guitar riff, drum fill]"
+    },
+    {
+      "t": 142.56,
+      "end": 168.84,
+      "text": "Tháng sau tao lại nộp hụi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

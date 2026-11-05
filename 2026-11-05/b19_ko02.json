@@ -1,0 +1,534 @@
+{
+  "id": "b19_ko02",
+  "title": "회원님 어디세요",
+  "title_source": "scripted",
+  "genre": "Korean baile funk dance pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "cheeky, guilty, bouncy",
+  "persona": "",
+  "subject": "a woman who paid for a twelve-month gym membership in January, went twice, and now gets weekly personal texts from the gym owner asking where she is",
+  "caption": "Korean baile funk dance pop. Tamborzão drum loop with hard syncopated claps, deep 808 sub kick, berimbau-style plucked synth riff, short brass stab synth on the hook. Dry punchy mix, group shouts answer the chorus. Female bright mid-high lead, clearly sung melody, playful and cheeky. Clear full voice, every word enunciated, steady sung melody on every line. 130 BPM, G minor. Guilty, bouncy comedy. No phonk cowbell, no trap rap, no autotune, no rapped verses, no EDM drop.",
+  "lyrics": "[Intro - tamborzão drums, plucked synth]\n\n[Verse 1]\n일월 첫날 결제한 일 년\n출석 도장은 딱 두 번\n사물함 속엔 운동화만\n석 달째 나를 기다려\n\n[Pre-Chorus]\n월요일 아침 여덟 시\n또 문자가 와 있어\n\n[Chorus]\n회원님 어디세요\n오늘은 하체 하는 날\n죄송해요 관장님\n내일은 꼭 갈게요\n\n[Verse 2]\n헬스장 앞 골목을 피해\n편의점까지 돌아가\n유리창 너머 관장님이\n손 흔드는 것 같아\n\n[Pre-Chorus]\n이번엔 사진도 왔어\n먼지 쌓인 내 운동화\n\n[Chorus]\n회원님 어디세요\n운동화가 울고 있어요\n죄송해요 관장님\n오늘은 진짜 갈게요\n\n[Bridge - drums break down to claps]\n가방은 쌌어, 문도 열었어\n근데 왜 또 소파 위야\n\n[Outro - brass stab, group shouts]\n회원님 어디세요\n여기요, 여기 있어요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Korean baile funk dance pop. Tamborzão drum loop with hard syncopated claps, deep 808 sub kick, berimbau-style plucked synth riff, short brass stab synth on the hook. Dry punchy mix, group shouts answer the chorus. Female bright mid-high lead, clearly sung melody, playful and cheeky. Clear full voice, every word enunciated, steady sung melody on every line. 130 BPM, G minor. Guilty, bouncy comedy. No phonk cowbell, no trap rap, no autotune, no rapped verses, no EDM drop.",
+    "lyrics": "[Intro - tamborzão drums, plucked synth]\n\n[Verse 1]\n일월 첫날 결제한 일 년\n출석 도장은 딱 두 번\n사물함 속엔 운동화만\n석 달째 나를 기다려\n\n[Pre-Chorus]\n월요일 아침 여덟 시\n또 문자가 와 있어\n\n[Chorus]\n회원님 어디세요\n오늘은 하체 하는 날\n죄송해요 관장님\n내일은 꼭 갈게요\n\n[Verse 2]\n헬스장 앞 골목을 피해\n편의점까지 돌아가\n유리창 너머 관장님이\n손 흔드는 것 같아\n\n[Pre-Chorus]\n이번엔 사진도 왔어\n먼지 쌓인 내 운동화\n\n[Chorus]\n회원님 어디세요\n운동화가 울고 있어요\n죄송해요 관장님\n오늘은 진짜 갈게요\n\n[Bridge - drums break down to claps]\n가방은 쌌어, 문도 열었어\n근데 왜 또 소파 위야\n\n[Outro - brass stab, group shouts]\n회원님 어디세요\n여기요, 여기 있어요"
+  },
+  "seed": "422953330",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.61s**\n- 61.61s per song\n- LM phase (1 song): 14.76s\n- DiT phase (1 song): 46.85s",
+  "task_id": "50e29527-b08c-4227-a985-8cdf4dac550f",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-11-05T15:36:14.486108+08:00",
+  "audio": "b19_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.18,
+      "end": 28.18,
+      "text": "[Intro - tamborzão drums, plucked synth]"
+    },
+    {
+      "t": 28.18,
+      "end": 28.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.18,
+      "end": 30.62,
+      "text": "일월 첫날 결제한 일 년"
+    },
+    {
+      "t": 32.56,
+      "end": 38.04,
+      "text": "출석 도장은 딱 두 번"
+    },
+    {
+      "t": 39.86,
+      "end": 42.74,
+      "text": "사물함 속엔 운동화만"
+    },
+    {
+      "t": 43.84,
+      "end": 46.04,
+      "text": "석 달째 나를 기다려"
+    },
+    {
+      "t": 47.12,
+      "end": 47.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.12,
+      "end": 49.57,
+      "text": "월요일 아침 여덟 시"
+    },
+    {
+      "t": 51.17,
+      "end": 54.17,
+      "text": "또 문자가 와 있어"
+    },
+    {
+      "t": 54.65,
+      "end": 54.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.65,
+      "end": 58.47,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 58.61,
+      "end": 61.19,
+      "text": "오늘은 하체 하는 날"
+    },
+    {
+      "t": 62.05,
+      "end": 65.61,
+      "text": "죄송해요 관장님"
+    },
+    {
+      "t": 66.21,
+      "end": 68.93,
+      "text": "내일은 꼭 갈게요"
+    },
+    {
+      "t": 69.91,
+      "end": 69.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.91,
+      "end": 72.61,
+      "text": "헬스장 앞 골목을 피해"
+    },
+    {
+      "t": 73.15,
+      "end": 76.93,
+      "text": "편의점까지 돌아가"
+    },
+    {
+      "t": 76.93,
+      "end": 79.99,
+      "text": "유리창 너머 관장님이"
+    },
+    {
+      "t": 80.79,
+      "end": 105.93,
+      "text": "손 흔드는 것 같아"
+    },
+    {
+      "t": 105.93,
+      "end": 105.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.93,
+      "end": 108.71,
+      "text": "이번엔 사진도 왔어"
+    },
+    {
+      "t": 108.75,
+      "end": 116.67,
+      "text": "먼지 쌓인 내 운동화"
+    },
+    {
+      "t": 117.43,
+      "end": 117.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.43,
+      "end": 123.57,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 124.19,
+      "end": 126.53,
+      "text": "운동화가 울고 있어요"
+    },
+    {
+      "t": 126.69,
+      "end": 131.09,
+      "text": "죄송해요 관장님"
+    },
+    {
+      "t": 131.83,
+      "end": 134.59,
+      "text": "오늘은 진짜 갈게요"
+    },
+    {
+      "t": 135.61,
+      "end": 135.61,
+      "text": "[Bridge - drums break down to claps]"
+    },
+    {
+      "t": 135.61,
+      "end": 138.51,
+      "text": "가방은 쌌어, 문도 열었어"
+    },
+    {
+      "t": 139.29,
+      "end": 141.07,
+      "text": "근데 왜 또 소파 위야"
+    },
+    {
+      "t": 144.74,
+      "end": 144.74,
+      "text": "[Outro - brass stab, group shouts]"
+    },
+    {
+      "t": 144.74,
+      "end": 151.92,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 166.74,
+      "end": 170.08,
+      "text": "여기요, 여기 있어요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.18,
+      "end": 28.18,
+      "text": "[Intro - tamborzão drums, plucked synth]"
+    },
+    {
+      "t": 28.18,
+      "end": 28.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.18,
+      "end": 30.62,
+      "text": "일월 첫날 결제한 일 년"
+    },
+    {
+      "t": 32.56,
+      "end": 38.02,
+      "text": "출석 도장은 딱 두 번"
+    },
+    {
+      "t": 39.86,
+      "end": 42.74,
+      "text": "사물함 속엔 운동화만"
+    },
+    {
+      "t": 43.84,
+      "end": 46.04,
+      "text": "석 달째 나를 기다려"
+    },
+    {
+      "t": 47.12,
+      "end": 47.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.12,
+      "end": 49.57,
+      "text": "월요일 아침 여덟 시"
+    },
+    {
+      "t": 51.17,
+      "end": 54.17,
+      "text": "또 문자가 와 있어"
+    },
+    {
+      "t": 54.65,
+      "end": 54.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.65,
+      "end": 58.47,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 58.61,
+      "end": 61.19,
+      "text": "오늘은 하체 하는 날"
+    },
+    {
+      "t": 62.05,
+      "end": 65.61,
+      "text": "죄송해요 관장님"
+    },
+    {
+      "t": 66.21,
+      "end": 68.93,
+      "text": "내일은 꼭 갈게요"
+    },
+    {
+      "t": 69.91,
+      "end": 69.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.91,
+      "end": 72.61,
+      "text": "헬스장 앞 골목을 피해"
+    },
+    {
+      "t": 73.15,
+      "end": 76.93,
+      "text": "편의점까지 돌아가"
+    },
+    {
+      "t": 76.93,
+      "end": 79.99,
+      "text": "유리창 너머 관장님이"
+    },
+    {
+      "t": 80.79,
+      "end": 105.93,
+      "text": "손 흔드는 것 같아"
+    },
+    {
+      "t": 105.93,
+      "end": 105.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.93,
+      "end": 108.71,
+      "text": "이번엔 사진도 왔어"
+    },
+    {
+      "t": 108.75,
+      "end": 116.67,
+      "text": "먼지 쌓인 내 운동화"
+    },
+    {
+      "t": 117.45,
+      "end": 117.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.45,
+      "end": 123.57,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 124.19,
+      "end": 126.53,
+      "text": "운동화가 울고 있어요"
+    },
+    {
+      "t": 126.69,
+      "end": 131.09,
+      "text": "죄송해요 관장님"
+    },
+    {
+      "t": 131.83,
+      "end": 134.61,
+      "text": "오늘은 진짜 갈게요"
+    },
+    {
+      "t": 135.61,
+      "end": 135.61,
+      "text": "[Bridge - drums break down to claps]"
+    },
+    {
+      "t": 135.61,
+      "end": 138.51,
+      "text": "가방은 쌌어, 문도 열었어"
+    },
+    {
+      "t": 139.29,
+      "end": 141.07,
+      "text": "근데 왜 또 소파 위야"
+    },
+    {
+      "t": 144.74,
+      "end": 144.74,
+      "text": "[Outro - brass stab, group shouts]"
+    },
+    {
+      "t": 144.74,
+      "end": 151.92,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 166.74,
+      "end": 170.08,
+      "text": "여기요, 여기 있어요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.52,
+      "end": 0.52,
+      "text": "[Intro - tamborzão drums, plucked synth]"
+    },
+    {
+      "t": 0.52,
+      "end": 0.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.52,
+      "end": 30.6,
+      "text": "일월 첫날 결제한 일 년"
+    },
+    {
+      "t": 32.56,
+      "end": 37.98,
+      "text": "출석 도장은 딱 두 번"
+    },
+    {
+      "t": 39.86,
+      "end": 42.76,
+      "text": "사물함 속엔 운동화만"
+    },
+    {
+      "t": 43.84,
+      "end": 46.04,
+      "text": "석 달째 나를 기다려"
+    },
+    {
+      "t": 47.12,
+      "end": 47.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.12,
+      "end": 49.55,
+      "text": "월요일 아침 여덟 시"
+    },
+    {
+      "t": 51.17,
+      "end": 54.15,
+      "text": "또 문자가 와 있어"
+    },
+    {
+      "t": 54.65,
+      "end": 54.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.65,
+      "end": 58.49,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 58.59,
+      "end": 61.19,
+      "text": "오늘은 하체 하는 날"
+    },
+    {
+      "t": 62.05,
+      "end": 65.61,
+      "text": "죄송해요 관장님"
+    },
+    {
+      "t": 66.21,
+      "end": 68.93,
+      "text": "내일은 꼭 갈게요"
+    },
+    {
+      "t": 69.91,
+      "end": 69.91,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.91,
+      "end": 73.23,
+      "text": "헬스장 앞 골목을 피해"
+    },
+    {
+      "t": 73.25,
+      "end": 75.85,
+      "text": "편의점까지 돌아가"
+    },
+    {
+      "t": 76.89,
+      "end": 79.99,
+      "text": "유리창 너머 관장님이"
+    },
+    {
+      "t": 80.79,
+      "end": 93.39,
+      "text": "손 흔드는 것 같아"
+    },
+    {
+      "t": 93.65,
+      "end": 93.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.65,
+      "end": 104.25,
+      "text": "이번엔 사진도 왔어"
+    },
+    {
+      "t": 104.35,
+      "end": 109.31,
+      "text": "먼지 쌓인 내 운동화"
+    },
+    {
+      "t": 113.09,
+      "end": 113.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.09,
+      "end": 123.57,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 124.19,
+      "end": 126.97,
+      "text": "운동화가 울고 있어요"
+    },
+    {
+      "t": 127.15,
+      "end": 131.11,
+      "text": "죄송해요 관장님"
+    },
+    {
+      "t": 131.81,
+      "end": 134.61,
+      "text": "오늘은 진짜 갈게요"
+    },
+    {
+      "t": 135.61,
+      "end": 135.61,
+      "text": "[Bridge - drums break down to claps]"
+    },
+    {
+      "t": 135.61,
+      "end": 138.49,
+      "text": "가방은 쌌어, 문도 열었어"
+    },
+    {
+      "t": 139.29,
+      "end": 141.07,
+      "text": "근데 왜 또 소파 위야"
+    },
+    {
+      "t": 144.74,
+      "end": 144.74,
+      "text": "[Outro - brass stab, group shouts]"
+    },
+    {
+      "t": 144.74,
+      "end": 151.92,
+      "text": "회원님 어디세요"
+    },
+    {
+      "t": 153.38,
+      "end": 170.04,
+      "text": "여기요, 여기 있어요"
+    }
+  ]
+}

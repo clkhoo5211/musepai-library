@@ -1,0 +1,489 @@
+{
+  "id": "b19_ja03",
+  "title": "ベルマーク・ナイト",
+  "title_source": "scripted",
+  "genre": "late-90s Heisei trance-pop revival",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "driving, comic, euphoric",
+  "persona": "",
+  "subject": "a father who drew the PTA Bell Mark role, staying up at the dining table cutting tiny coupons off mayonnaise and pencil packets and sorting them onto collection sheets",
+  "caption": "Late-90s Heisei trance-pop revival. Bright supersaw synth lead, offbeat rolling trance bass, solid four-on-the-floor kick, plucked arpeggio synth, hand claps on the backbeat. Glossy late-90s digital production, wide stereo, sidechained pads, short build before each chorus. Female lead, strong high-mid register, clearly sung J-pop melody. Clear full voice, every word enunciated, steady sung melody on every line. 140 BPM, A minor. Driving, comic and euphoric. No dubstep drops, no trap, no rap, no autotune, no Eurobeat-style fast bass.",
+  "lyrics": "[Intro - plucked arpeggio, kick builds]\n\n[Verse 1]\nじゃんけん負けて PTA\nパパの係は ベルマーク\nマヨネーズのふた えんぴつの箱\n小さなマークを 切り抜くの\n\n[Pre-Chorus]\n夜中の二時の 食卓で\nはさみの音だけ 響いてる\n\n[Chorus]\nベルマーク・ナイト\n一点 また一点\n集めて送れば\nボールがひとつ 来る\n\n[Verse 2]\n番号ごとに 台紙に貼る\nのりが指に くっついた\nママがあくびで のぞいてる\nそれ マークじゃなくて バーコード\n\n[Pre-Chorus]\n点数たしても まだ足りない\n明日もプリン 買ってくる\n\n[Chorus]\nベルマーク・ナイト\n一点 また一点\n朝の食卓に\n切りくず 雪みたい\n\n[Outro - supersaw, claps]\nベルマーク・ナイト\nボールがひとつ 来る",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 140,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Late-90s Heisei trance-pop revival. Bright supersaw synth lead, offbeat rolling trance bass, solid four-on-the-floor kick, plucked arpeggio synth, hand claps on the backbeat. Glossy late-90s digital production, wide stereo, sidechained pads, short build before each chorus. Female lead, strong high-mid register, clearly sung J-pop melody. Clear full voice, every word enunciated, steady sung melody on every line. 140 BPM, A minor. Driving, comic and euphoric. No dubstep drops, no trap, no rap, no autotune, no Eurobeat-style fast bass.",
+    "lyrics": "[Intro - plucked arpeggio, kick builds]\n\n[Verse 1]\nじゃんけん負けて PTA\nパパの係は ベルマーク\nマヨネーズのふた えんぴつの箱\n小さなマークを 切り抜くの\n\n[Pre-Chorus]\n夜中の二時の 食卓で\nはさみの音だけ 響いてる\n\n[Chorus]\nベルマーク・ナイト\n一点 また一点\n集めて送れば\nボールがひとつ 来る\n\n[Verse 2]\n番号ごとに 台紙に貼る\nのりが指に くっついた\nママがあくびで のぞいてる\nそれ マークじゃなくて バーコード\n\n[Pre-Chorus]\n点数たしても まだ足りない\n明日もプリン 買ってくる\n\n[Chorus]\nベルマーク・ナイト\n一点 また一点\n朝の食卓に\n切りくず 雪みたい\n\n[Outro - supersaw, claps]\nベルマーク・ナイト\nボールがひとつ 来る"
+  },
+  "seed": "895626564",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.40s**\n- 60.40s per song\n- LM phase (1 song): 11.28s\n- DiT phase (1 song): 49.12s",
+  "task_id": "c9215bc8-d548-4290-ba8b-fc3bdfd32403",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-11-05T17:44:05.375458+08:00",
+  "audio": "b19_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.34,
+      "end": 28.34,
+      "text": "[Intro - plucked arpeggio, kick builds]"
+    },
+    {
+      "t": 28.34,
+      "end": 28.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.34,
+      "end": 31.72,
+      "text": "じゃんけん負けて PTA"
+    },
+    {
+      "t": 35.02,
+      "end": 38.98,
+      "text": "パパの係は ベルマーク"
+    },
+    {
+      "t": 41.64,
+      "end": 46.16,
+      "text": "マヨネーズのふた えんぴつの箱"
+    },
+    {
+      "t": 48.92,
+      "end": 52.69,
+      "text": "小さなマークを 切り抜くの"
+    },
+    {
+      "t": 56.07,
+      "end": 56.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.07,
+      "end": 59.19,
+      "text": "夜中の二時の 食卓で"
+    },
+    {
+      "t": 62.23,
+      "end": 64.31,
+      "text": "はさみの音だけ 響いてる"
+    },
+    {
+      "t": 64.41,
+      "end": 64.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.41,
+      "end": 65.11,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 65.23,
+      "end": 65.69,
+      "text": "一点 また一点"
+    },
+    {
+      "t": 65.69,
+      "end": 67.23,
+      "text": "集めて送れば"
+    },
+    {
+      "t": 70.39,
+      "end": 71.55,
+      "text": "ボールがひとつ 来る"
+    },
+    {
+      "t": 71.55,
+      "end": 71.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.55,
+      "end": 77.21,
+      "text": "番号ごとに 台紙に貼る"
+    },
+    {
+      "t": 77.21,
+      "end": 79.29,
+      "text": "のりが指に くっついた"
+    },
+    {
+      "t": 79.29,
+      "end": 82.91,
+      "text": "ママがあくびで のぞいてる"
+    },
+    {
+      "t": 82.99,
+      "end": 98.57,
+      "text": "それ マークじゃなくて バーコード"
+    },
+    {
+      "t": 98.65,
+      "end": 98.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.65,
+      "end": 102.27,
+      "text": "点数たしても まだ足りない"
+    },
+    {
+      "t": 104.91,
+      "end": 109.09,
+      "text": "明日もプリン 買ってくる"
+    },
+    {
+      "t": 111.55,
+      "end": 111.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.55,
+      "end": 112.95,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 114.77,
+      "end": 116.55,
+      "text": "一点 また一点"
+    },
+    {
+      "t": 117.53,
+      "end": 119.19,
+      "text": "朝の食卓に"
+    },
+    {
+      "t": 120.75,
+      "end": 122.87,
+      "text": "切りくず 雪みたい"
+    },
+    {
+      "t": 138.11,
+      "end": 138.11,
+      "text": "[Outro - supersaw, claps]"
+    },
+    {
+      "t": 138.11,
+      "end": 146.81,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 148.43,
+      "end": 150.68,
+      "text": "ボールがひとつ 来る"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.34,
+      "end": 28.34,
+      "text": "[Intro - plucked arpeggio, kick builds]"
+    },
+    {
+      "t": 28.34,
+      "end": 28.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.34,
+      "end": 31.72,
+      "text": "じゃんけん負けて PTA"
+    },
+    {
+      "t": 35.02,
+      "end": 38.98,
+      "text": "パパの係は ベルマーク"
+    },
+    {
+      "t": 41.64,
+      "end": 46.16,
+      "text": "マヨネーズのふた えんぴつの箱"
+    },
+    {
+      "t": 48.92,
+      "end": 52.69,
+      "text": "小さなマークを 切り抜くの"
+    },
+    {
+      "t": 56.07,
+      "end": 56.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.07,
+      "end": 59.19,
+      "text": "夜中の二時の 食卓で"
+    },
+    {
+      "t": 62.23,
+      "end": 64.31,
+      "text": "はさみの音だけ 響いてる"
+    },
+    {
+      "t": 64.41,
+      "end": 64.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.41,
+      "end": 65.11,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 65.23,
+      "end": 65.69,
+      "text": "一点 また一点"
+    },
+    {
+      "t": 65.69,
+      "end": 67.23,
+      "text": "集めて送れば"
+    },
+    {
+      "t": 70.39,
+      "end": 71.55,
+      "text": "ボールがひとつ 来る"
+    },
+    {
+      "t": 71.55,
+      "end": 71.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.55,
+      "end": 77.21,
+      "text": "番号ごとに 台紙に貼る"
+    },
+    {
+      "t": 77.21,
+      "end": 79.29,
+      "text": "のりが指に くっついた"
+    },
+    {
+      "t": 79.29,
+      "end": 82.91,
+      "text": "ママがあくびで のぞいてる"
+    },
+    {
+      "t": 82.99,
+      "end": 98.57,
+      "text": "それ マークじゃなくて バーコード"
+    },
+    {
+      "t": 98.65,
+      "end": 98.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.65,
+      "end": 102.27,
+      "text": "点数たしても まだ足りない"
+    },
+    {
+      "t": 104.91,
+      "end": 109.09,
+      "text": "明日もプリン 買ってくる"
+    },
+    {
+      "t": 111.55,
+      "end": 111.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.55,
+      "end": 112.95,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 114.77,
+      "end": 116.55,
+      "text": "一点 また一点"
+    },
+    {
+      "t": 117.53,
+      "end": 119.19,
+      "text": "朝の食卓に"
+    },
+    {
+      "t": 120.75,
+      "end": 122.87,
+      "text": "切りくず 雪みたい"
+    },
+    {
+      "t": 138.11,
+      "end": 138.11,
+      "text": "[Outro - supersaw, claps]"
+    },
+    {
+      "t": 138.11,
+      "end": 146.81,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 148.43,
+      "end": 150.68,
+      "text": "ボールがひとつ 来る"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 28.34,
+      "end": 28.34,
+      "text": "[Intro - plucked arpeggio, kick builds]"
+    },
+    {
+      "t": 28.34,
+      "end": 28.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.34,
+      "end": 31.72,
+      "text": "じゃんけん負けて PTA"
+    },
+    {
+      "t": 35.02,
+      "end": 38.98,
+      "text": "パパの係は ベルマーク"
+    },
+    {
+      "t": 41.66,
+      "end": 46.16,
+      "text": "マヨネーズのふた えんぴつの箱"
+    },
+    {
+      "t": 48.92,
+      "end": 52.69,
+      "text": "小さなマークを 切り抜くの"
+    },
+    {
+      "t": 56.07,
+      "end": 56.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.07,
+      "end": 59.19,
+      "text": "夜中の二時の 食卓で"
+    },
+    {
+      "t": 62.23,
+      "end": 64.31,
+      "text": "はさみの音だけ 響いてる"
+    },
+    {
+      "t": 64.31,
+      "end": 64.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.31,
+      "end": 65.11,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 65.23,
+      "end": 65.69,
+      "text": "一点 また一点"
+    },
+    {
+      "t": 65.69,
+      "end": 67.15,
+      "text": "集めて送れば"
+    },
+    {
+      "t": 70.39,
+      "end": 71.19,
+      "text": "ボールがひとつ 来る"
+    },
+    {
+      "t": 71.25,
+      "end": 71.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.25,
+      "end": 77.21,
+      "text": "番号ごとに 台紙に貼る"
+    },
+    {
+      "t": 77.21,
+      "end": 79.29,
+      "text": "のりが指に くっついた"
+    },
+    {
+      "t": 79.29,
+      "end": 82.91,
+      "text": "ママがあくびで のぞいてる"
+    },
+    {
+      "t": 82.99,
+      "end": 98.57,
+      "text": "それ マークじゃなくて バーコード"
+    },
+    {
+      "t": 98.65,
+      "end": 98.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 98.65,
+      "end": 102.27,
+      "text": "点数たしても まだ足りない"
+    },
+    {
+      "t": 104.91,
+      "end": 109.09,
+      "text": "明日もプリン 買ってくる"
+    },
+    {
+      "t": 111.55,
+      "end": 111.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.55,
+      "end": 112.95,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 114.77,
+      "end": 116.55,
+      "text": "一点 また一点"
+    },
+    {
+      "t": 117.53,
+      "end": 119.19,
+      "text": "朝の食卓に"
+    },
+    {
+      "t": 120.75,
+      "end": 122.87,
+      "text": "切りくず 雪みたい"
+    },
+    {
+      "t": 138.11,
+      "end": 138.11,
+      "text": "[Outro - supersaw, claps]"
+    },
+    {
+      "t": 138.11,
+      "end": 146.81,
+      "text": "ベルマーク・ナイト"
+    },
+    {
+      "t": 148.43,
+      "end": 150.68,
+      "text": "ボールがひとつ 来る"
+    }
+  ]
+}
