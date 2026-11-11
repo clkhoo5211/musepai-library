@@ -1,0 +1,317 @@
+{
+  "id": "b20_ja02",
+  "title": "ノーガター・ブギ",
+  "title_source": "scripted",
+  "genre": "Japanese glam rock boogie",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "strutting, cheeky, triumphant",
+  "persona": "",
+  "subject": "Two forty-year-old friends who have rolled nothing but gutter balls since high school ask a Showa-era bowling alley to raise the kids' bumper rails for a nephew who does not exist, and are handed the dinosaur ball ramp too.",
+  "caption": "Japanese glam rock boogie, swaggering 70s shuffle. Fuzzy electric guitar chugging a boogie shuffle riff, honky-tonk upright piano pounding eighth-note triads, baritone saxophone honking a riff that doubles the guitar, stomping floor-tom and kick drums with handclaps on two and four, pick-played electric bass walking a boogie line. Raw live-band recording with saturated guitar and the voice upfront. Male lead, high baritone with a theatrical edge, belted full voice, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, A major. Strutting, cheeky, triumphant. No rap, no autotune, no EDM synths, no trap beats, no heavy metal distortion.",
+  "lyrics": "[Intro - fuzzy guitar boogie riff, honky-tonk piano, baritone sax]\n\n[Verse 1]\nふるい ボウリングじょう\nガターばかり こうこうから\nふたり ならんで うつむく\nきょうも みごとに よこへ\n\n[Pre-Chorus]\nバンパー あげて ください\nめいっこの ためです\n\n[Chorus]\nノーガター ノーガター\nめいっこ ありがとう\nノーガター ノーガター\nぼくらを まもる バンパー\n\n[Verse 2]\nてんいんは うなずく\nきょうりゅうの ランプまで\nだして くれた ごていねいに\nいない こを ぼくら かこむ\n\n[Pre-Chorus]\nボール ごろごろ ころがる\nピンが ひとつ たおれた\n\n[Chorus]\nノーガター ノーガター\nいない めいっこ ばんざい\nノーガター ノーガター\nぼくらが いちばん はしゃぐ\n\n[Outro - baritone sax riff, piano pounding, handclaps]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Japanese glam rock boogie, swaggering 70s shuffle. Fuzzy electric guitar chugging a boogie shuffle riff, honky-tonk upright piano pounding eighth-note triads, baritone saxophone honking a riff that doubles the guitar, stomping floor-tom and kick drums with handclaps on two and four, pick-played electric bass walking a boogie line. Raw live-band recording with saturated guitar and the voice upfront. Male lead, high baritone with a theatrical edge, belted full voice, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, A major. Strutting, cheeky, triumphant. No rap, no autotune, no EDM synths, no trap beats, no heavy metal distortion.",
+    "lyrics": "[Intro - fuzzy guitar boogie riff, honky-tonk piano, baritone sax]\n\n[Verse 1]\nふるい ボウリングじょう\nガターばかり こうこうから\nふたり ならんで うつむく\nきょうも みごとに よこへ\n\n[Pre-Chorus]\nバンパー あげて ください\nめいっこの ためです\n\n[Chorus]\nノーガター ノーガター\nめいっこ ありがとう\nノーガター ノーガター\nぼくらを まもる バンパー\n\n[Verse 2]\nてんいんは うなずく\nきょうりゅうの ランプまで\nだして くれた ごていねいに\nいない こを ぼくら かこむ\n\n[Pre-Chorus]\nボール ごろごろ ころがる\nピンが ひとつ たおれた\n\n[Chorus]\nノーガター ノーガター\nいない めいっこ ばんざい\nノーガター ノーガター\nぼくらが いちばん はしゃぐ\n\n[Outro - baritone sax riff, piano pounding, handclaps]"
+  },
+  "seed": "516187140",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.98s**\n- 61.98s per song\n- LM phase (1 song): 10.51s\n- DiT phase (1 song): 51.46s",
+  "task_id": "1e360e0e-6057-42dd-8968-806d8d22a610",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T17:53:42.917312+08:00",
+  "audio": "b20_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.12,
+      "end": 1.12,
+      "text": "[Intro - fuzzy guitar boogie riff, honky-tonk piano, baritone sax]"
+    },
+    {
+      "t": 1.12,
+      "end": 1.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.12,
+      "end": 14.54,
+      "text": "ふるい ボウリングじょう"
+    },
+    {
+      "t": 14.56,
+      "end": 30.1,
+      "text": "ガターばかり こうこうから"
+    },
+    {
+      "t": 31.4,
+      "end": 33.76,
+      "text": "ふたり ならんで うつむく"
+    },
+    {
+      "t": 32.88,
+      "end": 33.94,
+      "text": "きょうも みごとに よこへ"
+    },
+    {
+      "t": 34.78,
+      "end": 34.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.78,
+      "end": 37.62,
+      "text": "バンパー あげて ください"
+    },
+    {
+      "t": 37.62,
+      "end": 41.56,
+      "text": "めいっこの ためです"
+    },
+    {
+      "t": 45.44,
+      "end": 45.44,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.44,
+      "end": 49.61,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 49.61,
+      "end": 52.15,
+      "text": "めいっこ ありがとう"
+    },
+    {
+      "t": 53.13,
+      "end": 56.15,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 57.25,
+      "end": 61.41,
+      "text": "ぼくらを まもる バンパー"
+    },
+    {
+      "t": 65.11,
+      "end": 65.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.11,
+      "end": 67.49,
+      "text": "てんいんは うなずく"
+    },
+    {
+      "t": 67.49,
+      "end": 69.99,
+      "text": "きょうりゅうの ランプまで"
+    },
+    {
+      "t": 73.21,
+      "end": 78.37,
+      "text": "だして くれた ごていねいに"
+    },
+    {
+      "t": 81.17,
+      "end": 85.99,
+      "text": "いない こを ぼくら かこむ"
+    },
+    {
+      "t": 88.43,
+      "end": 88.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.43,
+      "end": 91.39,
+      "text": "ボール ごろごろ ころがる"
+    },
+    {
+      "t": 91.79,
+      "end": 93.59,
+      "text": "ピンが ひとつ たおれた"
+    },
+    {
+      "t": 96.53,
+      "end": 96.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.53,
+      "end": 99.55,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 100.71,
+      "end": 103.35,
+      "text": "いない めいっこ ばんざい"
+    },
+    {
+      "t": 104.13,
+      "end": 113.21,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 113.89,
+      "end": 116.63,
+      "text": "ぼくらが いちばん はしゃぐ"
+    },
+    {
+      "t": 116.59,
+      "end": 116.59,
+      "text": "[Outro - baritone sax riff, piano pounding, handclaps]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 14.12,
+      "end": 14.12,
+      "text": "[Intro - fuzzy guitar boogie riff, honky-tonk piano, baritone sax]"
+    },
+    {
+      "t": 14.12,
+      "end": 14.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 14.12,
+      "end": 14.96,
+      "text": "ふるい ボウリングじょう"
+    },
+    {
+      "t": 15.0,
+      "end": 31.58,
+      "text": "ガターばかり こうこうから"
+    },
+    {
+      "t": 31.58,
+      "end": 32.88,
+      "text": "ふたり ならんで うつむく"
+    },
+    {
+      "t": 32.88,
+      "end": 33.94,
+      "text": "きょうも みごとに よこへ"
+    },
+    {
+      "t": 34.78,
+      "end": 34.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.78,
+      "end": 37.62,
+      "text": "バンパー あげて ください"
+    },
+    {
+      "t": 37.62,
+      "end": 41.56,
+      "text": "めいっこの ためです"
+    },
+    {
+      "t": 45.44,
+      "end": 45.44,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.44,
+      "end": 49.61,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 49.61,
+      "end": 52.15,
+      "text": "めいっこ ありがとう"
+    },
+    {
+      "t": 53.13,
+      "end": 56.15,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 57.25,
+      "end": 61.41,
+      "text": "ぼくらを まもる バンパー"
+    },
+    {
+      "t": 65.11,
+      "end": 65.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.11,
+      "end": 67.49,
+      "text": "てんいんは うなずく"
+    },
+    {
+      "t": 67.49,
+      "end": 69.99,
+      "text": "きょうりゅうの ランプまで"
+    },
+    {
+      "t": 73.21,
+      "end": 78.37,
+      "text": "だして くれた ごていねいに"
+    },
+    {
+      "t": 81.17,
+      "end": 85.99,
+      "text": "いない こを ぼくら かこむ"
+    },
+    {
+      "t": 88.43,
+      "end": 88.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.43,
+      "end": 91.39,
+      "text": "ボール ごろごろ ころがる"
+    },
+    {
+      "t": 91.79,
+      "end": 93.59,
+      "text": "ピンが ひとつ たおれた"
+    },
+    {
+      "t": 96.53,
+      "end": 96.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.53,
+      "end": 99.55,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 100.71,
+      "end": 103.35,
+      "text": "いない めいっこ ばんざい"
+    },
+    {
+      "t": 104.13,
+      "end": 113.21,
+      "text": "ノーガター ノーガター"
+    },
+    {
+      "t": 113.89,
+      "end": 116.63,
+      "text": "ぼくらが いちばん はしゃぐ"
+    },
+    {
+      "t": 116.63,
+      "end": 116.63,
+      "text": "[Outro - baritone sax riff, piano pounding, handclaps]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

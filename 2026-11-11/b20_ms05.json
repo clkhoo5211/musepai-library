@@ -1,0 +1,397 @@
+{
+  "id": "b20_ms05",
+  "title": "Alih Suara Pak Long",
+  "title_source": "scripted",
+  "genre": "Malay-Arabic pop (darbuka-and-oud 'Casablanca' lane)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "mock-dramatic, mischievous, festive",
+  "persona": "",
+  "subject": "Outside Soon Huat's electrical shop in Muar, retired lorry driver Pak Long dubs a muted Turkish drama on twelve display TVs for the pavement crowd, inventing every line, until the owner's daughter turns on sound and subtitles and everyone begs her to mute it again.",
+  "caption": "Malay-Arabic pop in the Casablanca lane. A crisp maqsum groove on darbuka with a riq tambourine, an oud doubling the tune with tremolo-picked fills, a unison string section playing dramatic Hijaz-coloured answering runs after each line, a qanun with glissando flourishes into the chorus, and a simple electric bass. Bright polished pop mix, darbuka and oud forward. Female bright theatrical mezzo-soprano, short ornamental turns at phrase ends, group shouts on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 102 BPM, G minor. Mock-dramatic, mischievous and festive. No rap, no autotune, no trap hi-hats, no EDM drop, no rock guitar, no dangdut drums.",
+  "lyrics": "[Intro - oud, darbuka, string run]\n[Verse 1]\nDepan kedai Soon Huat di Muar\nDua belas TV, semuanya senyap\nPak Long berdiri pegang mikrofon\nDia bagi suara, satu jalan dengar\n[Pre-Chorus]\nHero pandang heroin, Pak Long bisik\nSayang, nasi lemak dah sejuk\n[Chorus]\nAlih suara, alih suara!\nPak Long jadi semua orang\nAlih suara, alih suara!\nCerita Turki, ayat Muar\n[Verse 2]\nHero tampar meja, Pak Long menjerit\nSiapa curi karipap aku?\nOrang tepi jalan ketawa berderai\nAda yang menangis, ada yang tepuk\n[Pre-Chorus]\nAnak Soon Huat buka bunyi\nTekan sarikata, semua terdiam\n[Chorus]\nAlih suara, alih suara!\nHero cakap Turki betul\nAlih suara, alih suara!\nKami tak faham, kami nak Pak Long\n[Bridge - qanun run, strings]\nTutup balik, cik, tutup balik!\n[Chorus]\nAlih suara, alih suara!\nPak Long jadi semua orang\nAlih suara, alih suara!\nSunyi pun jadi cerita\n[Outro - oud and darbuka, group shout]\nPak Long, Pak Long, sekali lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 102,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Malay-Arabic pop in the Casablanca lane. A crisp maqsum groove on darbuka with a riq tambourine, an oud doubling the tune with tremolo-picked fills, a unison string section playing dramatic Hijaz-coloured answering runs after each line, a qanun with glissando flourishes into the chorus, and a simple electric bass. Bright polished pop mix, darbuka and oud forward. Female bright theatrical mezzo-soprano, short ornamental turns at phrase ends, group shouts on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 102 BPM, G minor. Mock-dramatic, mischievous and festive. No rap, no autotune, no trap hi-hats, no EDM drop, no rock guitar, no dangdut drums.",
+    "lyrics": "[Intro - oud, darbuka, string run]\n[Verse 1]\nDepan kedai Soon Huat di Muar\nDua belas TV, semuanya senyap\nPak Long berdiri pegang mikrofon\nDia bagi suara, satu jalan dengar\n[Pre-Chorus]\nHero pandang heroin, Pak Long bisik\nSayang, nasi lemak dah sejuk\n[Chorus]\nAlih suara, alih suara!\nPak Long jadi semua orang\nAlih suara, alih suara!\nCerita Turki, ayat Muar\n[Verse 2]\nHero tampar meja, Pak Long menjerit\nSiapa curi karipap aku?\nOrang tepi jalan ketawa berderai\nAda yang menangis, ada yang tepuk\n[Pre-Chorus]\nAnak Soon Huat buka bunyi\nTekan sarikata, semua terdiam\n[Chorus]\nAlih suara, alih suara!\nHero cakap Turki betul\nAlih suara, alih suara!\nKami tak faham, kami nak Pak Long\n[Bridge - qanun run, strings]\nTutup balik, cik, tutup balik!\n[Chorus]\nAlih suara, alih suara!\nPak Long jadi semua orang\nAlih suara, alih suara!\nSunyi pun jadi cerita\n[Outro - oud and darbuka, group shout]\nPak Long, Pak Long, sekali lagi"
+  },
+  "seed": "1366136714",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 84.81s**\n- 84.81s per song\n- LM phase (1 song): 18.37s\n- DiT phase (1 song): 66.45s",
+  "task_id": "fef03c46-d471-4755-afda-e60cadf23715",
+  "elapsed_s": 110.3,
+  "generated_at": "2026-11-11T17:11:36.343960+08:00",
+  "audio": "b20_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Intro - oud, darbuka, string run]"
+    },
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.7,
+      "end": 32.62,
+      "text": "Depan kedai Soon Huat di Muar"
+    },
+    {
+      "t": 33.94,
+      "end": 36.56,
+      "text": "Dua belas TV, semuanya senyap"
+    },
+    {
+      "t": 36.58,
+      "end": 38.18,
+      "text": "Pak Long berdiri pegang mikrofon"
+    },
+    {
+      "t": 38.2,
+      "end": 42.3,
+      "text": "Dia bagi suara, satu jalan dengar"
+    },
+    {
+      "t": 42.84,
+      "end": 42.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.84,
+      "end": 46.96,
+      "text": "Hero pandang heroin, Pak Long bisik"
+    },
+    {
+      "t": 47.52,
+      "end": 51.69,
+      "text": "Sayang, nasi lemak dah sejuk"
+    },
+    {
+      "t": 51.73,
+      "end": 51.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.73,
+      "end": 53.79,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 54.27,
+      "end": 56.31,
+      "text": "Pak Long jadi semua orang"
+    },
+    {
+      "t": 57.01,
+      "end": 60.53,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 61.55,
+      "end": 62.93,
+      "text": "Cerita Turki, ayat Muar"
+    },
+    {
+      "t": 62.93,
+      "end": 62.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.93,
+      "end": 64.35,
+      "text": "Hero tampar meja, Pak Long menjerit"
+    },
+    {
+      "t": 64.35,
+      "end": 64.85,
+      "text": "Siapa curi karipap aku?"
+    },
+    {
+      "t": 64.91,
+      "end": 66.33,
+      "text": "Orang tepi jalan ketawa berderai"
+    },
+    {
+      "t": 66.47,
+      "end": 80.71,
+      "text": "Ada yang menangis, ada yang tepuk"
+    },
+    {
+      "t": 80.79,
+      "end": 80.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 80.79,
+      "end": 84.31,
+      "text": "Anak Soon Huat buka bunyi"
+    },
+    {
+      "t": 85.29,
+      "end": 89.69,
+      "text": "Tekan sarikata, semua terdiam"
+    },
+    {
+      "t": 90.15,
+      "end": 90.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.15,
+      "end": 92.23,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 92.41,
+      "end": 94.75,
+      "text": "Hero cakap Turki betul"
+    },
+    {
+      "t": 94.83,
+      "end": 96.89,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 97.07,
+      "end": 106.35,
+      "text": "Kami tak faham, kami nak Pak Long"
+    },
+    {
+      "t": 125.63,
+      "end": 125.63,
+      "text": "[Bridge - qanun run, strings]"
+    },
+    {
+      "t": 125.63,
+      "end": 129.01,
+      "text": "Tutup balik, cik, tutup balik!"
+    },
+    {
+      "t": 129.47,
+      "end": 129.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.47,
+      "end": 136.19,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 136.35,
+      "end": 138.61,
+      "text": "Pak Long jadi semua orang"
+    },
+    {
+      "t": 138.75,
+      "end": 142.81,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 143.29,
+      "end": 145.75,
+      "text": "Sunyi pun jadi cerita"
+    },
+    {
+      "t": 171.26,
+      "end": 171.26,
+      "text": "[Outro - oud and darbuka, group shout]"
+    },
+    {
+      "t": 171.26,
+      "end": 183.14,
+      "text": "Pak Long, Pak Long, sekali lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Intro - oud, darbuka, string run]"
+    },
+    {
+      "t": 29.7,
+      "end": 29.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.7,
+      "end": 32.62,
+      "text": "Depan kedai Soon Huat di Muar"
+    },
+    {
+      "t": 33.96,
+      "end": 36.62,
+      "text": "Dua belas TV, semuanya senyap"
+    },
+    {
+      "t": 36.64,
+      "end": 38.16,
+      "text": "Pak Long berdiri pegang mikrofon"
+    },
+    {
+      "t": 38.18,
+      "end": 42.28,
+      "text": "Dia bagi suara, satu jalan dengar"
+    },
+    {
+      "t": 42.86,
+      "end": 42.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.86,
+      "end": 47.0,
+      "text": "Hero pandang heroin, Pak Long bisik"
+    },
+    {
+      "t": 47.5,
+      "end": 51.69,
+      "text": "Sayang, nasi lemak dah sejuk"
+    },
+    {
+      "t": 51.93,
+      "end": 51.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.93,
+      "end": 53.79,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 54.27,
+      "end": 56.21,
+      "text": "Pak Long jadi semua orang"
+    },
+    {
+      "t": 56.99,
+      "end": 60.55,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 60.87,
+      "end": 62.95,
+      "text": "Cerita Turki, ayat Muar"
+    },
+    {
+      "t": 62.95,
+      "end": 62.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.95,
+      "end": 64.47,
+      "text": "Hero tampar meja, Pak Long menjerit"
+    },
+    {
+      "t": 64.51,
+      "end": 66.07,
+      "text": "Siapa curi karipap aku?"
+    },
+    {
+      "t": 66.07,
+      "end": 71.31,
+      "text": "Orang tepi jalan ketawa berderai"
+    },
+    {
+      "t": 71.43,
+      "end": 82.01,
+      "text": "Ada yang menangis, ada yang tepuk"
+    },
+    {
+      "t": 82.33,
+      "end": 82.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.33,
+      "end": 84.31,
+      "text": "Anak Soon Huat buka bunyi"
+    },
+    {
+      "t": 85.29,
+      "end": 89.69,
+      "text": "Tekan sarikata, semua terdiam"
+    },
+    {
+      "t": 90.13,
+      "end": 90.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.13,
+      "end": 92.23,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 92.41,
+      "end": 94.75,
+      "text": "Hero cakap Turki betul"
+    },
+    {
+      "t": 94.85,
+      "end": 96.91,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 97.07,
+      "end": 106.39,
+      "text": "Kami tak faham, kami nak Pak Long"
+    },
+    {
+      "t": 125.63,
+      "end": 125.63,
+      "text": "[Bridge - qanun run, strings]"
+    },
+    {
+      "t": 125.63,
+      "end": 129.13,
+      "text": "Tutup balik, cik, tutup balik!"
+    },
+    {
+      "t": 129.47,
+      "end": 129.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.47,
+      "end": 136.17,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 136.35,
+      "end": 138.65,
+      "text": "Pak Long jadi semua orang"
+    },
+    {
+      "t": 138.77,
+      "end": 143.29,
+      "text": "Alih suara, alih suara!"
+    },
+    {
+      "t": 143.29,
+      "end": 145.75,
+      "text": "Sunyi pun jadi cerita"
+    },
+    {
+      "t": 157.3,
+      "end": 157.3,
+      "text": "[Outro - oud and darbuka, group shout]"
+    },
+    {
+      "t": 157.3,
+      "end": 173.76,
+      "text": "Pak Long, Pak Long, sekali lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

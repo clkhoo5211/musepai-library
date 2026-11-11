@@ -1,0 +1,327 @@
+{
+  "id": "b20_en02",
+  "title": "Eleven Elections",
+  "title_source": "scripted",
+  "genre": "salsa",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm, hopeful, wry",
+  "persona": "",
+  "subject": "Two poll clerks share a trestle table in a village hall only on election days, eleven in twenty years, until she catches herself hoping for a snap election and, as the box is sealed at ten, he asks why wait for the next.",
+  "caption": "Salsa, classic New York salsa dura style with a live orchestra feel. Piano playing a syncopated montuno in octaves, two trumpets and two trombones on punchy unison riffs and mambo breaks, baby bass on a rolling tumbao, congas with timbales and cowbell locked to a 2-3 clave, güiro scraping eighth notes. Live room recording, warm analog horns. Female mezzo-soprano, bright full chest voice, three-voice coro answering the refrain. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, E-flat major. Warm, hopeful, wry. No electronic beats, no reggaeton dembow, no autotune, no rap, no synth pads, no distorted guitars.",
+  "lyrics": "[Intro - piano montuno, congas, horn hit]\n\n[Verse 1]\nTrestle table in the village hall\nPencils on strings and a flask of tea\nEleven elections in twenty years\nYou across the table from me\n\n[Pre-Chorus]\nI read the news and I caught myself\nHoping they'd call another one\n\n[Chorus]\nEleven elections, I counted every one\nEleven elections, and the polls are almost done\nWhy wait, why wait, why wait for the next\nWhy wait for the next one, come on\n\n[Verse 2]\nTen o'clock, we seal the box\nYou turn the key and you clear your throat\nYou say it quiet, over the wax\nAnd you pass me a pencil with a note\n\n[Pre-Chorus]\nI read it twice and I read it slow\nIt says, why wait for another one\n\n[Chorus]\nEleven elections, and I'll keep this one\nEleven elections, and the counting's done\nWhy wait, why wait, no, don't wait for the next\nDance with me now, come on\n\n[Outro - mambo horns, congas, piano]\nWhy wait, why wait for the next",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Salsa, classic New York salsa dura style with a live orchestra feel. Piano playing a syncopated montuno in octaves, two trumpets and two trombones on punchy unison riffs and mambo breaks, baby bass on a rolling tumbao, congas with timbales and cowbell locked to a 2-3 clave, güiro scraping eighth notes. Live room recording, warm analog horns. Female mezzo-soprano, bright full chest voice, three-voice coro answering the refrain. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, E-flat major. Warm, hopeful, wry. No electronic beats, no reggaeton dembow, no autotune, no rap, no synth pads, no distorted guitars.",
+    "lyrics": "[Intro - piano montuno, congas, horn hit]\n\n[Verse 1]\nTrestle table in the village hall\nPencils on strings and a flask of tea\nEleven elections in twenty years\nYou across the table from me\n\n[Pre-Chorus]\nI read the news and I caught myself\nHoping they'd call another one\n\n[Chorus]\nEleven elections, I counted every one\nEleven elections, and the polls are almost done\nWhy wait, why wait, why wait for the next\nWhy wait for the next one, come on\n\n[Verse 2]\nTen o'clock, we seal the box\nYou turn the key and you clear your throat\nYou say it quiet, over the wax\nAnd you pass me a pencil with a note\n\n[Pre-Chorus]\nI read it twice and I read it slow\nIt says, why wait for another one\n\n[Chorus]\nEleven elections, and I'll keep this one\nEleven elections, and the counting's done\nWhy wait, why wait, no, don't wait for the next\nDance with me now, come on\n\n[Outro - mambo horns, congas, piano]\nWhy wait, why wait for the next"
+  },
+  "seed": "2047720873",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 77.37s**\n- 77.37s per song\n- LM phase (1 song): 19.04s\n- DiT phase (1 song): 58.33s",
+  "task_id": "1ff2d8a2-b0d2-4da0-b30a-bea61abd59c4",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-11-11T17:38:30.806694+08:00",
+  "audio": "b20_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.86,
+      "end": 32.86,
+      "text": "[Intro - piano montuno, congas, horn hit]"
+    },
+    {
+      "t": 32.86,
+      "end": 32.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.86,
+      "end": 35.76,
+      "text": "Trestle table in the village hall"
+    },
+    {
+      "t": 37.4,
+      "end": 40.5,
+      "text": "Pencils on strings and a flask of tea"
+    },
+    {
+      "t": 42.76,
+      "end": 46.22,
+      "text": "Eleven elections in twenty years"
+    },
+    {
+      "t": 48.24,
+      "end": 51.01,
+      "text": "You across the table from me"
+    },
+    {
+      "t": 54.27,
+      "end": 54.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.27,
+      "end": 58.25,
+      "text": "I read the news and I caught myself"
+    },
+    {
+      "t": 59.37,
+      "end": 62.03,
+      "text": "Hoping they'd call another one"
+    },
+    {
+      "t": 64.27,
+      "end": 64.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.27,
+      "end": 67.67,
+      "text": "Eleven elections, I counted every one"
+    },
+    {
+      "t": 69.61,
+      "end": 73.03,
+      "text": "Eleven elections, and the polls are almost done"
+    },
+    {
+      "t": 74.85,
+      "end": 78.05,
+      "text": "Why wait, why wait, why wait for the next"
+    },
+    {
+      "t": 78.67,
+      "end": 83.05,
+      "text": "Why wait for the next one, come on"
+    },
+    {
+      "t": 87.43,
+      "end": 87.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.43,
+      "end": 90.63,
+      "text": "Ten o'clock, we seal the box"
+    },
+    {
+      "t": 91.73,
+      "end": 95.81,
+      "text": "You turn the key and you clear your throat"
+    },
+    {
+      "t": 97.03,
+      "end": 101.33,
+      "text": "You say it quiet, over the wax"
+    },
+    {
+      "t": 102.53,
+      "end": 107.47,
+      "text": "And you pass me a pencil with a note"
+    },
+    {
+      "t": 107.59,
+      "end": 107.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.59,
+      "end": 111.45,
+      "text": "I read it twice and I read it slow"
+    },
+    {
+      "t": 112.53,
+      "end": 117.01,
+      "text": "It says, why wait for another one"
+    },
+    {
+      "t": 119.09,
+      "end": 119.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.09,
+      "end": 124.35,
+      "text": "Eleven elections, and I'll keep this one"
+    },
+    {
+      "t": 124.51,
+      "end": 134.73,
+      "text": "Eleven elections, and the counting's done"
+    },
+    {
+      "t": 139.41,
+      "end": 164.44,
+      "text": "Why wait, why wait, no, don't wait for the next"
+    },
+    {
+      "t": 165.44,
+      "end": 168.18,
+      "text": "Dance with me now, come on"
+    },
+    {
+      "t": 183.22,
+      "end": 183.22,
+      "text": "[Outro - mambo horns, congas, piano]"
+    },
+    {
+      "t": 183.22,
+      "end": 192.16,
+      "text": "Why wait, why wait for the next"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.84,
+      "end": 32.84,
+      "text": "[Intro - piano montuno, congas, horn hit]"
+    },
+    {
+      "t": 32.84,
+      "end": 32.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.84,
+      "end": 35.74,
+      "text": "Trestle table in the village hall"
+    },
+    {
+      "t": 37.38,
+      "end": 40.5,
+      "text": "Pencils on strings and a flask of tea"
+    },
+    {
+      "t": 42.74,
+      "end": 46.2,
+      "text": "Eleven elections in twenty years"
+    },
+    {
+      "t": 48.24,
+      "end": 51.03,
+      "text": "You across the table from me"
+    },
+    {
+      "t": 54.25,
+      "end": 54.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.25,
+      "end": 58.21,
+      "text": "I read the news and I caught myself"
+    },
+    {
+      "t": 59.37,
+      "end": 62.03,
+      "text": "Hoping they'd call another one"
+    },
+    {
+      "t": 64.27,
+      "end": 64.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.27,
+      "end": 67.67,
+      "text": "Eleven elections, I counted every one"
+    },
+    {
+      "t": 69.77,
+      "end": 72.91,
+      "text": "Eleven elections, and the polls are almost done"
+    },
+    {
+      "t": 72.91,
+      "end": 77.95,
+      "text": "Why wait, why wait, why wait for the next"
+    },
+    {
+      "t": 78.67,
+      "end": 83.39,
+      "text": "Why wait for the next one, come on"
+    },
+    {
+      "t": 87.43,
+      "end": 87.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.43,
+      "end": 90.73,
+      "text": "Ten o'clock, we seal the box"
+    },
+    {
+      "t": 91.73,
+      "end": 97.01,
+      "text": "You turn the key and you clear your throat"
+    },
+    {
+      "t": 97.01,
+      "end": 101.25,
+      "text": "You say it quiet, over the wax"
+    },
+    {
+      "t": 102.51,
+      "end": 107.47,
+      "text": "And you pass me a pencil with a note"
+    },
+    {
+      "t": 107.59,
+      "end": 107.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.59,
+      "end": 111.45,
+      "text": "I read it twice and I read it slow"
+    },
+    {
+      "t": 112.53,
+      "end": 117.03,
+      "text": "It says, why wait for another one"
+    },
+    {
+      "t": 119.09,
+      "end": 119.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.09,
+      "end": 122.31,
+      "text": "Eleven elections, and I'll keep this one"
+    },
+    {
+      "t": 124.33,
+      "end": 139.83,
+      "text": "Eleven elections, and the counting's done"
+    },
+    {
+      "t": 149.93,
+      "end": 164.4,
+      "text": "Why wait, why wait, no, don't wait for the next"
+    },
+    {
+      "t": 165.44,
+      "end": 168.16,
+      "text": "Dance with me now, come on"
+    },
+    {
+      "t": 183.22,
+      "end": 183.22,
+      "text": "[Outro - mambo horns, congas, piano]"
+    },
+    {
+      "t": 183.22,
+      "end": 186.46,
+      "text": "Why wait, why wait for the next"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

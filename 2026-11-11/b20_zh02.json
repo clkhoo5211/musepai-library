@@ -1,0 +1,377 @@
+{
+  "id": "b20_zh02",
+  "title": "老樣子",
+  "title_source": "scripted",
+  "genre": "Mandarin chiptune pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "sunny, teasing, self-mocking",
+  "persona": "",
+  "subject": "A woman who studies her hand-shaken tea shop's sixty-item menu board for five minutes every evening while the queue sighs, then orders the same light-sugar, no-ice Four Seasons oolong as always, until the clerk laminates a one-item menu just for her.",
+  "caption": "Mandarin chiptune pop, bouncy 8-bit game-console dance pulse. Square-wave pulse lead playing a plucky staccato hook, triangle-wave bass on the roots, noise-channel snare and closed hats over a light kick, fast pulse-wave arpeggios in the chorus, bell-like wavetable chime in the pre-chorus. Crisp bright console-style mix, clean and unmuddied. Female vocal, light bright mid-register, playful, doubled in unison on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, F major. Sunny, teasing, self-mocking mood. No rap, no trap hi-hats, no autotune, no heavy EDM drop, no vocal effects, no orchestral samples.",
+  "lyrics": "[Intro - pulse lead, noise hats, triangle bass]\n\n[Verse 1]\n每天傍晚六點半\n我站在飲料店門口\n六十個名字 排滿牆\n我從第一行 慢慢看\n\n[Chorus]\n我要 微糖去冰\n一杯四季春茶\n看了五分鐘 還是\n老樣子 老樣子\n\n[Verse 2]\n店員在櫃檯後面笑\n他說 小姐你點過了\n一百二十天 都一樣\n可是今天 說不定\n\n[Pre-Chorus]\n黑板上寫著新品\n我的手指停在半空\n\n[Chorus]\n我要 微糖去冰\n一杯四季春茶\n後面的人 嘆口氣\n我還是 老樣子\n\n[Bridge - pulse lead, chime]\n他轉身去拿護貝機\n一張小卡片 熱熱的\n\n[Chorus]\n店裡只有 一行字\n微糖去冰 四季春茶\n我看了零秒 就說\n老樣子 老樣子\n\n[Outro - pulse lead, noise hats fade]\n後面的人 終於笑了",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Mandarin chiptune pop, bouncy 8-bit game-console dance pulse. Square-wave pulse lead playing a plucky staccato hook, triangle-wave bass on the roots, noise-channel snare and closed hats over a light kick, fast pulse-wave arpeggios in the chorus, bell-like wavetable chime in the pre-chorus. Crisp bright console-style mix, clean and unmuddied. Female vocal, light bright mid-register, playful, doubled in unison on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, F major. Sunny, teasing, self-mocking mood. No rap, no trap hi-hats, no autotune, no heavy EDM drop, no vocal effects, no orchestral samples.",
+    "lyrics": "[Intro - pulse lead, noise hats, triangle bass]\n\n[Verse 1]\n每天傍晚六點半\n我站在飲料店門口\n六十個名字 排滿牆\n我從第一行 慢慢看\n\n[Chorus]\n我要 微糖去冰\n一杯四季春茶\n看了五分鐘 還是\n老樣子 老樣子\n\n[Verse 2]\n店員在櫃檯後面笑\n他說 小姐你點過了\n一百二十天 都一樣\n可是今天 說不定\n\n[Pre-Chorus]\n黑板上寫著新品\n我的手指停在半空\n\n[Chorus]\n我要 微糖去冰\n一杯四季春茶\n後面的人 嘆口氣\n我還是 老樣子\n\n[Bridge - pulse lead, chime]\n他轉身去拿護貝機\n一張小卡片 熱熱的\n\n[Chorus]\n店裡只有 一行字\n微糖去冰 四季春茶\n我看了零秒 就說\n老樣子 老樣子\n\n[Outro - pulse lead, noise hats fade]\n後面的人 終於笑了\n"
+  },
+  "seed": "70963524",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.48s**\n- 67.48s per song\n- LM phase (1 song): 12.89s\n- DiT phase (1 song): 54.59s",
+  "task_id": "a2ccef0d-c29a-4862-87a3-c71990a92a17",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T17:46:01.750018+08:00",
+  "audio": "b20_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.82,
+      "end": 1.82,
+      "text": "[Intro - pulse lead, noise hats, triangle bass]"
+    },
+    {
+      "t": 1.82,
+      "end": 1.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.82,
+      "end": 10.26,
+      "text": "每天傍晚六點半"
+    },
+    {
+      "t": 13.64,
+      "end": 37.02,
+      "text": "我站在飲料店門口"
+    },
+    {
+      "t": 37.02,
+      "end": 39.22,
+      "text": "六十個名字 排滿牆"
+    },
+    {
+      "t": 39.22,
+      "end": 41.38,
+      "text": "我從第一行 慢慢看"
+    },
+    {
+      "t": 41.46,
+      "end": 41.46,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 41.46,
+      "end": 42.88,
+      "text": "我要 微糖去冰"
+    },
+    {
+      "t": 43.12,
+      "end": 45.76,
+      "text": "一杯四季春茶"
+    },
+    {
+      "t": 45.84,
+      "end": 48.3,
+      "text": "看了五分鐘 還是"
+    },
+    {
+      "t": 49.57,
+      "end": 51.69,
+      "text": "老樣子 老樣子"
+    },
+    {
+      "t": 54.61,
+      "end": 54.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 54.61,
+      "end": 57.73,
+      "text": "店員在櫃檯後面笑"
+    },
+    {
+      "t": 58.27,
+      "end": 64.29,
+      "text": "他說 小姐你點過了"
+    },
+    {
+      "t": 64.41,
+      "end": 66.71,
+      "text": "一百二十天 都一樣"
+    },
+    {
+      "t": 66.95,
+      "end": 70.77,
+      "text": "可是今天 說不定"
+    },
+    {
+      "t": 72.57,
+      "end": 72.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.57,
+      "end": 76.93,
+      "text": "黑板上寫著新品"
+    },
+    {
+      "t": 78.73,
+      "end": 81.53,
+      "text": "我的手指停在半空"
+    },
+    {
+      "t": 88.83,
+      "end": 88.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.83,
+      "end": 90.31,
+      "text": "我要 微糖去冰"
+    },
+    {
+      "t": 90.41,
+      "end": 93.51,
+      "text": "一杯四季春茶"
+    },
+    {
+      "t": 93.51,
+      "end": 96.73,
+      "text": "後面的人 嘆口氣"
+    },
+    {
+      "t": 97.71,
+      "end": 99.25,
+      "text": "我還是 老樣子"
+    },
+    {
+      "t": 109.15,
+      "end": 109.15,
+      "text": "[Bridge - pulse lead, chime]"
+    },
+    {
+      "t": 109.15,
+      "end": 112.35,
+      "text": "他轉身去拿護貝機"
+    },
+    {
+      "t": 113.77,
+      "end": 116.69,
+      "text": "一張小卡片 熱熱的"
+    },
+    {
+      "t": 129.67,
+      "end": 129.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.67,
+      "end": 130.85,
+      "text": "店裡只有 一行字"
+    },
+    {
+      "t": 130.87,
+      "end": 134.57,
+      "text": "微糖去冰 四季春茶"
+    },
+    {
+      "t": 134.69,
+      "end": 159.76,
+      "text": "我看了零秒 就說"
+    },
+    {
+      "t": 159.9,
+      "end": 181.72,
+      "text": "老樣子 老樣子"
+    },
+    {
+      "t": 183.22,
+      "end": 183.22,
+      "text": "[Outro - pulse lead, noise hats fade]"
+    },
+    {
+      "t": 183.22,
+      "end": 187.04,
+      "text": "後面的人 終於笑了"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 4.66,
+      "end": 4.66,
+      "text": "[Intro - pulse lead, noise hats, triangle bass]"
+    },
+    {
+      "t": 4.66,
+      "end": 4.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.66,
+      "end": 36.66,
+      "text": "每天傍晚六點半"
+    },
+    {
+      "t": 36.68,
+      "end": 37.92,
+      "text": "我站在飲料店門口"
+    },
+    {
+      "t": 38.08,
+      "end": 40.26,
+      "text": "六十個名字 排滿牆"
+    },
+    {
+      "t": 40.26,
+      "end": 41.78,
+      "text": "我從第一行 慢慢看"
+    },
+    {
+      "t": 41.78,
+      "end": 41.78,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 41.78,
+      "end": 42.88,
+      "text": "我要 微糖去冰"
+    },
+    {
+      "t": 43.12,
+      "end": 45.76,
+      "text": "一杯四季春茶"
+    },
+    {
+      "t": 45.78,
+      "end": 48.32,
+      "text": "看了五分鐘 還是"
+    },
+    {
+      "t": 49.55,
+      "end": 51.69,
+      "text": "老樣子 老樣子"
+    },
+    {
+      "t": 54.65,
+      "end": 54.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 54.65,
+      "end": 57.75,
+      "text": "店員在櫃檯後面笑"
+    },
+    {
+      "t": 58.27,
+      "end": 64.29,
+      "text": "他說 小姐你點過了"
+    },
+    {
+      "t": 64.41,
+      "end": 66.73,
+      "text": "一百二十天 都一樣"
+    },
+    {
+      "t": 66.95,
+      "end": 70.67,
+      "text": "可是今天 說不定"
+    },
+    {
+      "t": 72.57,
+      "end": 72.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.57,
+      "end": 76.81,
+      "text": "黑板上寫著新品"
+    },
+    {
+      "t": 78.73,
+      "end": 81.57,
+      "text": "我的手指停在半空"
+    },
+    {
+      "t": 88.83,
+      "end": 88.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.83,
+      "end": 90.41,
+      "text": "我要 微糖去冰"
+    },
+    {
+      "t": 90.83,
+      "end": 91.67,
+      "text": "一杯四季春茶"
+    },
+    {
+      "t": 93.53,
+      "end": 96.73,
+      "text": "後面的人 嘆口氣"
+    },
+    {
+      "t": 97.75,
+      "end": 99.27,
+      "text": "我還是 老樣子"
+    },
+    {
+      "t": 109.15,
+      "end": 109.15,
+      "text": "[Bridge - pulse lead, chime]"
+    },
+    {
+      "t": 109.15,
+      "end": 112.35,
+      "text": "他轉身去拿護貝機"
+    },
+    {
+      "t": 113.77,
+      "end": 116.69,
+      "text": "一張小卡片 熱熱的"
+    },
+    {
+      "t": 129.67,
+      "end": 129.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.67,
+      "end": 130.85,
+      "text": "店裡只有 一行字"
+    },
+    {
+      "t": 130.85,
+      "end": 134.57,
+      "text": "微糖去冰 四季春茶"
+    },
+    {
+      "t": 134.73,
+      "end": 159.78,
+      "text": "我看了零秒 就說"
+    },
+    {
+      "t": 159.92,
+      "end": 176.72,
+      "text": "老樣子 老樣子"
+    },
+    {
+      "t": 183.24,
+      "end": 183.24,
+      "text": "[Outro - pulse lead, noise hats fade]"
+    },
+    {
+      "t": 183.24,
+      "end": 187.04,
+      "text": "後面的人 終於笑了"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,549 @@
+{
+  "id": "b20_zh05",
+  "title": "站上牛奶箱",
+  "title_source": "scripted",
+  "genre": "Mandarin sunshine pop (baroque-pop, stacked-harmony)",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "tender, warm, quietly proud, gently buoyant",
+  "persona": "",
+  "subject": "Best friends since first grade, one 191 cm and always back-row centre, one 158 cm and always front-row centre in every class photo, open a café together; for the opening-day picture the short one stands on a milk crate so their heads are level.",
+  "caption": "Mandarin sunshine pop, baroque-pop arrangement in a steady 4/4 with stacked close harmonies. Glockenspiel doubling the chorus tune, harpsichord playing bright broken chords, pizzicato strings with a sustained string pad under the chorus, French horn countermelody, round melodic electric bass, light kit with tambourine on the backbeat. Bright analog studio recording, warm tape glow, wide layered harmonies. Male tenor lead, warm and full-voiced, with stacked close-harmony backing vocals on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, E-flat major. Tender, warm, quietly proud mood. No rap, no autotune, no electronic drums, no distorted guitars, no synth bass, no acoustic strumming.",
+  "lyrics": "[Intro - glockenspiel, harpsichord, pizzicato strings]\n\n[Verse 1]\n小學一年級拍班級照\n老師說高的站後面\n你站最後一排中間\n我坐第一排中間\n\n[Pre-Chorus]\n隔著四十個同學\n我們互相揮手\n\n[Chorus]\n一百九十一 一百五十八\n中間隔著 三十三公分\n今天開張 拍一張照片\n我站上牛奶箱 跟你一樣高\n\n[Verse 2]\n後來我們一起開咖啡店\n我煮咖啡 你搬貨\n你頭撞到門框第三次\n我替你貼上了 一張貼紙\n\n[Pre-Chorus]\n開幕那天 攝影師說\n你們兩個 站近一點\n\n[Chorus]\n一百九十一 一百五十八\n中間隔著 三十三公分\n今天開張 拍一張照片\n我踩上牛奶箱 跟你一樣高\n\n[Chorus]\n一百九十一 一百五十八\n這一次 頭靠著頭\n今天開張 拍一張照片\n我站上牛奶箱 剛好一樣高\n\n[Outro - French horn, glockenspiel, harmony hum fade]\n牛奶箱 我留著了",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "Mandarin sunshine pop, baroque-pop arrangement in a steady 4/4 with stacked close harmonies. Glockenspiel doubling the chorus tune, harpsichord playing bright broken chords, pizzicato strings with a sustained string pad under the chorus, French horn countermelody, round melodic electric bass, light kit with tambourine on the backbeat. Bright analog studio recording, warm tape glow, wide layered harmonies. Male tenor lead, warm and full-voiced, with stacked close-harmony backing vocals on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, E-flat major. Tender, warm, quietly proud mood. No rap, no autotune, no electronic drums, no distorted guitars, no synth bass, no acoustic strumming.",
+    "lyrics": "[Intro - glockenspiel, harpsichord, pizzicato strings]\n\n[Verse 1]\n小學一年級拍班級照\n老師說高的站後面\n你站最後一排中間\n我坐第一排中間\n\n[Pre-Chorus]\n隔著四十個同學\n我們互相揮手\n\n[Chorus]\n一百九十一 一百五十八\n中間隔著 三十三公分\n今天開張 拍一張照片\n我站上牛奶箱 跟你一樣高\n\n[Verse 2]\n後來我們一起開咖啡店\n我煮咖啡 你搬貨\n你頭撞到門框第三次\n我替你貼上了 一張貼紙\n\n[Pre-Chorus]\n開幕那天 攝影師說\n你們兩個 站近一點\n\n[Chorus]\n一百九十一 一百五十八\n中間隔著 三十三公分\n今天開張 拍一張照片\n我踩上牛奶箱 跟你一樣高\n\n[Chorus]\n一百九十一 一百五十八\n這一次 頭靠著頭\n今天開張 拍一張照片\n我站上牛奶箱 剛好一樣高\n\n[Outro - French horn, glockenspiel, harmony hum fade]\n牛奶箱 我留著了\n"
+  },
+  "seed": "2229778498",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 75.76s**\n- 75.76s per song\n- LM phase (1 song): 15.37s\n- DiT phase (1 song): 60.39s",
+  "task_id": "3e787127-a16d-49c2-9306-cd36df1d22ae",
+  "elapsed_s": 90.7,
+  "generated_at": "2026-11-11T17:50:32.673954+08:00",
+  "audio": "b20_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.5,
+      "end": 28.5,
+      "text": "[Intro - glockenspiel, harpsichord, pizzicato strings]"
+    },
+    {
+      "t": 28.5,
+      "end": 28.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.5,
+      "end": 31.8,
+      "text": "小學一年級拍班級照"
+    },
+    {
+      "t": 33.62,
+      "end": 36.08,
+      "text": "老師說高的站後面"
+    },
+    {
+      "t": 38.12,
+      "end": 40.84,
+      "text": "你站最後一排中間"
+    },
+    {
+      "t": 43.18,
+      "end": 45.68,
+      "text": "我坐第一排中間"
+    },
+    {
+      "t": 48.32,
+      "end": 48.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.32,
+      "end": 51.47,
+      "text": "隔著四十個同學"
+    },
+    {
+      "t": 52.49,
+      "end": 54.95,
+      "text": "我們互相揮手"
+    },
+    {
+      "t": 54.95,
+      "end": 54.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.95,
+      "end": 54.95,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 54.95,
+      "end": 59.07,
+      "text": "中間隔著 三十三公分"
+    },
+    {
+      "t": 59.15,
+      "end": 65.31,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 65.33,
+      "end": 70.31,
+      "text": "我站上牛奶箱 跟你一樣高"
+    },
+    {
+      "t": 70.51,
+      "end": 70.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.51,
+      "end": 72.21,
+      "text": "後來我們一起開咖啡店"
+    },
+    {
+      "t": 72.23,
+      "end": 77.41,
+      "text": "我煮咖啡 你搬貨"
+    },
+    {
+      "t": 77.41,
+      "end": 80.53,
+      "text": "你頭撞到門框第三次"
+    },
+    {
+      "t": 82.21,
+      "end": 85.33,
+      "text": "我替你貼上了 一張貼紙"
+    },
+    {
+      "t": 87.89,
+      "end": 87.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.89,
+      "end": 90.13,
+      "text": "開幕那天 攝影師說"
+    },
+    {
+      "t": 90.63,
+      "end": 93.41,
+      "text": "你們兩個 站近一點"
+    },
+    {
+      "t": 140.71,
+      "end": 140.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.71,
+      "end": 140.71,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 140.71,
+      "end": 148.59,
+      "text": "中間隔著 三十三公分"
+    },
+    {
+      "t": 149.69,
+      "end": 152.39,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 152.43,
+      "end": 156.12,
+      "text": "我踩上牛奶箱 跟你一樣高"
+    },
+    {
+      "t": 156.66,
+      "end": 156.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 156.66,
+      "end": 156.66,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 156.66,
+      "end": 169.96,
+      "text": "這一次 頭靠著頭"
+    },
+    {
+      "t": 170.06,
+      "end": 173.86,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 174.16,
+      "end": 185.16,
+      "text": "我站上牛奶箱 剛好一樣高"
+    },
+    {
+      "t": 196.58,
+      "end": 196.58,
+      "text": "[Outro - French horn, glockenspiel, harmony hum fade]"
+    },
+    {
+      "t": 196.58,
+      "end": 199.72,
+      "text": "牛奶箱 我留著了"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.5,
+      "end": 28.5,
+      "text": "[Intro - glockenspiel, harpsichord, pizzicato strings]"
+    },
+    {
+      "t": 28.5,
+      "end": 28.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.5,
+      "end": 31.8,
+      "text": "小學一年級拍班級照"
+    },
+    {
+      "t": 33.62,
+      "end": 36.08,
+      "text": "老師說高的站後面"
+    },
+    {
+      "t": 38.12,
+      "end": 40.84,
+      "text": "你站最後一排中間"
+    },
+    {
+      "t": 43.18,
+      "end": 45.68,
+      "text": "我坐第一排中間"
+    },
+    {
+      "t": 48.32,
+      "end": 48.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.32,
+      "end": 51.47,
+      "text": "隔著四十個同學"
+    },
+    {
+      "t": 52.49,
+      "end": 54.95,
+      "text": "我們互相揮手"
+    },
+    {
+      "t": 54.95,
+      "end": 54.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.95,
+      "end": 54.95,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 54.95,
+      "end": 59.07,
+      "text": "中間隔著 三十三公分"
+    },
+    {
+      "t": 59.15,
+      "end": 65.31,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 65.33,
+      "end": 70.31,
+      "text": "我站上牛奶箱 跟你一樣高"
+    },
+    {
+      "t": 70.51,
+      "end": 70.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.51,
+      "end": 72.21,
+      "text": "後來我們一起開咖啡店"
+    },
+    {
+      "t": 72.23,
+      "end": 77.41,
+      "text": "我煮咖啡 你搬貨"
+    },
+    {
+      "t": 77.41,
+      "end": 80.53,
+      "text": "你頭撞到門框第三次"
+    },
+    {
+      "t": 82.21,
+      "end": 85.33,
+      "text": "我替你貼上了 一張貼紙"
+    },
+    {
+      "t": 87.89,
+      "end": 87.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.89,
+      "end": 90.13,
+      "text": "開幕那天 攝影師說"
+    },
+    {
+      "t": 90.63,
+      "end": 93.41,
+      "text": "你們兩個 站近一點"
+    },
+    {
+      "t": 140.71,
+      "end": 140.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.71,
+      "end": 140.71,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 140.71,
+      "end": 148.59,
+      "text": "中間隔著 三十三公分"
+    },
+    {
+      "t": 149.69,
+      "end": 152.39,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 152.43,
+      "end": 156.12,
+      "text": "我踩上牛奶箱 跟你一樣高"
+    },
+    {
+      "t": 156.66,
+      "end": 156.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 156.66,
+      "end": 156.66,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 156.66,
+      "end": 169.96,
+      "text": "這一次 頭靠著頭"
+    },
+    {
+      "t": 170.06,
+      "end": 173.86,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 174.16,
+      "end": 185.16,
+      "text": "我站上牛奶箱 剛好一樣高"
+    },
+    {
+      "t": 196.58,
+      "end": 196.58,
+      "text": "[Outro - French horn, glockenspiel, harmony hum fade]"
+    },
+    {
+      "t": 196.58,
+      "end": 199.72,
+      "text": "牛奶箱 我留著了"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 28.5,
+      "end": 28.5,
+      "text": "[Intro - glockenspiel, harpsichord, pizzicato strings]"
+    },
+    {
+      "t": 28.5,
+      "end": 28.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.5,
+      "end": 31.8,
+      "text": "小學一年級拍班級照"
+    },
+    {
+      "t": 33.62,
+      "end": 36.04,
+      "text": "老師說高的站後面"
+    },
+    {
+      "t": 38.12,
+      "end": 40.8,
+      "text": "你站最後一排中間"
+    },
+    {
+      "t": 43.18,
+      "end": 45.6,
+      "text": "我坐第一排中間"
+    },
+    {
+      "t": 48.32,
+      "end": 48.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.32,
+      "end": 51.49,
+      "text": "隔著四十個同學"
+    },
+    {
+      "t": 52.47,
+      "end": 58.63,
+      "text": "我們互相揮手"
+    },
+    {
+      "t": 62.71,
+      "end": 62.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.71,
+      "end": 62.71,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 62.71,
+      "end": 66.57,
+      "text": "中間隔著 三十三公分"
+    },
+    {
+      "t": 67.79,
+      "end": 70.23,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 70.23,
+      "end": 73.53,
+      "text": "我站上牛奶箱 跟你一樣高"
+    },
+    {
+      "t": 73.55,
+      "end": 73.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.55,
+      "end": 78.57,
+      "text": "後來我們一起開咖啡店"
+    },
+    {
+      "t": 78.57,
+      "end": 79.33,
+      "text": "我煮咖啡 你搬貨"
+    },
+    {
+      "t": 79.33,
+      "end": 80.53,
+      "text": "你頭撞到門框第三次"
+    },
+    {
+      "t": 82.21,
+      "end": 85.33,
+      "text": "我替你貼上了 一張貼紙"
+    },
+    {
+      "t": 87.89,
+      "end": 87.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.89,
+      "end": 90.13,
+      "text": "開幕那天 攝影師說"
+    },
+    {
+      "t": 90.63,
+      "end": 93.41,
+      "text": "你們兩個 站近一點"
+    },
+    {
+      "t": 136.51,
+      "end": 136.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.51,
+      "end": 136.51,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 136.51,
+      "end": 148.65,
+      "text": "中間隔著 三十三公分"
+    },
+    {
+      "t": 149.69,
+      "end": 152.41,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 152.43,
+      "end": 156.06,
+      "text": "我踩上牛奶箱 跟你一樣高"
+    },
+    {
+      "t": 160.22,
+      "end": 160.22,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 160.22,
+      "end": 160.22,
+      "text": "一百九十一 一百五十八"
+    },
+    {
+      "t": 160.22,
+      "end": 169.96,
+      "text": "這一次 頭靠著頭"
+    },
+    {
+      "t": 170.06,
+      "end": 174.1,
+      "text": "今天開張 拍一張照片"
+    },
+    {
+      "t": 174.18,
+      "end": 196.14,
+      "text": "我站上牛奶箱 剛好一樣高"
+    },
+    {
+      "t": 196.62,
+      "end": 196.62,
+      "text": "[Outro - French horn, glockenspiel, harmony hum fade]"
+    },
+    {
+      "t": 196.62,
+      "end": 198.82,
+      "text": "牛奶箱 我留著了"
+    }
+  ]
+}

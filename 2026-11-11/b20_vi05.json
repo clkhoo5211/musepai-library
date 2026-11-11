@@ -1,0 +1,397 @@
+{
+  "id": "b20_vi05",
+  "title": "Cô Hạnh Nghỉ Một Tuần",
+  "title_source": "scripted",
+  "genre": "Vietnamese post-punk revival",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "wry, deadpan, jittery comic energy",
+  "persona": "",
+  "subject": "When the only pharmacist who can read old Dr. Tám's handwriting takes a week off, nobody in the ward can fill a prescription, and the doctor has to print in block capitals like a first-grader until she comes back.",
+  "caption": "Vietnamese post-punk revival, angular and jittery. Bass guitar with picked melodic lead lines high on the neck, chorus-effect electric guitar playing angular single-note riffs, drum kit with dry tight four-on-the-floor kick and 16th-note closed hi-hats, analog string synth with cold sustained pads, tambourine off-beat pushes in the chorus. Dry tight mix, cold and close. Male low baritone, firm chest voice, deadpan character but a fully sung steady melody. Clear full voice, every word enunciated, steady sung melody on every line. 146 BPM, E minor. Wry, deadpan, jittery comic energy. No rapping, no shouting, no spoken parts, no autotune, no trap hi-hats, no distorted metal guitars.",
+  "lyrics": "[Intro - bass line, chorus guitar]\n\n[Verse 1]\nBác sĩ Tám viết đơn như vẽ bùa\nCả phường chỉ cô Hạnh đọc ra\nThứ Hai cô nghỉ, quầy thuốc bó tay\nBà Sáu cầm đơn đứng ngó trời\n\n[Pre-Chorus]\nChữ này là gì\nHay chữ kia là\n\n[Chorus]\nCô Hạnh nghỉ một tuần\nCả phường ôm đơn đi vòng\nCô Hạnh nghỉ một tuần\nBác sĩ phải viết chữ in\n\n[Verse 2]\nBác sĩ Tám ngồi in từng chữ hoa\nNhư đứa học trò lớp một ngày đầu\nChữ A to đùng, chữ B tròn vo\nBà Sáu đọc ra liền, bà mừng\n\n[Pre-Chorus]\nThuốc ho thuốc tim\nKhông ai đoán nhầm\n\n[Chorus]\nCô Hạnh nghỉ một tuần\nCả phường lần đầu đọc được\nCô Hạnh nghỉ một tuần\nBác sĩ cắn bút, ra mồ hôi\n\n[Bridge - bass, synth pad]\nThứ Hai cô về, đơn lại như bùa\nBác sĩ nhìn cô, bác sĩ thở dài\n\n[Chorus]\nCô Hạnh về rồi, xin đừng đi nữa\nCả phường ôm đơn đứng chờ ngoài cửa\nCô Hạnh nghỉ một tuần\n\n[Outro - bass, tambourine]\nCô Hạnh nghỉ một tuần",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 146,
+    "duration": 170.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese post-punk revival, angular and jittery. Bass guitar with picked melodic lead lines high on the neck, chorus-effect electric guitar playing angular single-note riffs, drum kit with dry tight four-on-the-floor kick and 16th-note closed hi-hats, analog string synth with cold sustained pads, tambourine off-beat pushes in the chorus. Dry tight mix, cold and close. Male low baritone, firm chest voice, deadpan character but a fully sung steady melody. Clear full voice, every word enunciated, steady sung melody on every line. 146 BPM, E minor. Wry, deadpan, jittery comic energy. No rapping, no shouting, no spoken parts, no autotune, no trap hi-hats, no distorted metal guitars.",
+    "lyrics": "[Intro - bass line, chorus guitar]\n\n[Verse 1]\nBác sĩ Tám viết đơn như vẽ bùa\nCả phường chỉ cô Hạnh đọc ra\nThứ Hai cô nghỉ, quầy thuốc bó tay\nBà Sáu cầm đơn đứng ngó trời\n\n[Pre-Chorus]\nChữ này là gì\nHay chữ kia là\n\n[Chorus]\nCô Hạnh nghỉ một tuần\nCả phường ôm đơn đi vòng\nCô Hạnh nghỉ một tuần\nBác sĩ phải viết chữ in\n\n[Verse 2]\nBác sĩ Tám ngồi in từng chữ hoa\nNhư đứa học trò lớp một ngày đầu\nChữ A to đùng, chữ B tròn vo\nBà Sáu đọc ra liền, bà mừng\n\n[Pre-Chorus]\nThuốc ho thuốc tim\nKhông ai đoán nhầm\n\n[Chorus]\nCô Hạnh nghỉ một tuần\nCả phường lần đầu đọc được\nCô Hạnh nghỉ một tuần\nBác sĩ cắn bút, ra mồ hôi\n\n[Bridge - bass, synth pad]\nThứ Hai cô về, đơn lại như bùa\nBác sĩ nhìn cô, bác sĩ thở dài\n\n[Chorus]\nCô Hạnh về rồi, xin đừng đi nữa\nCả phường ôm đơn đứng chờ ngoài cửa\nCô Hạnh nghỉ một tuần\n\n[Outro - bass, tambourine]\nCô Hạnh nghỉ một tuần"
+  },
+  "seed": "1968150102",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.48s**\n- 66.48s per song\n- LM phase (1 song): 16.68s\n- DiT phase (1 song): 49.80s",
+  "task_id": "ca489cdd-5c24-49b0-be68-4db48b8b9fef",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T17:26:59.512351+08:00",
+  "audio": "b20_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.1,
+      "end": 24.1,
+      "text": "[Intro - bass line, chorus guitar]"
+    },
+    {
+      "t": 24.1,
+      "end": 24.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.1,
+      "end": 27.14,
+      "text": "Bác sĩ Tám viết đơn như vẽ bùa"
+    },
+    {
+      "t": 30.62,
+      "end": 33.42,
+      "text": "Cả phường chỉ cô Hạnh đọc ra"
+    },
+    {
+      "t": 36.68,
+      "end": 40.46,
+      "text": "Thứ Hai cô nghỉ, quầy thuốc bó tay"
+    },
+    {
+      "t": 40.46,
+      "end": 44.41,
+      "text": "Bà Sáu cầm đơn đứng ngó trời"
+    },
+    {
+      "t": 44.55,
+      "end": 44.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.55,
+      "end": 45.65,
+      "text": "Chữ này là gì"
+    },
+    {
+      "t": 45.73,
+      "end": 47.93,
+      "text": "Hay chữ kia là"
+    },
+    {
+      "t": 47.93,
+      "end": 47.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.93,
+      "end": 49.27,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 50.63,
+      "end": 53.39,
+      "text": "Cả phường ôm đơn đi vòng"
+    },
+    {
+      "t": 53.93,
+      "end": 55.81,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 57.65,
+      "end": 60.67,
+      "text": "Bác sĩ phải viết chữ in"
+    },
+    {
+      "t": 64.23,
+      "end": 64.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.23,
+      "end": 67.09,
+      "text": "Bác sĩ Tám ngồi in từng chữ hoa"
+    },
+    {
+      "t": 67.51,
+      "end": 70.27,
+      "text": "Như đứa học trò lớp một ngày đầu"
+    },
+    {
+      "t": 70.77,
+      "end": 73.59,
+      "text": "Chữ A to đùng, chữ B tròn vo"
+    },
+    {
+      "t": 74.11,
+      "end": 76.81,
+      "text": "Bà Sáu đọc ra liền, bà mừng"
+    },
+    {
+      "t": 77.33,
+      "end": 77.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.33,
+      "end": 78.69,
+      "text": "Thuốc ho thuốc tim"
+    },
+    {
+      "t": 78.97,
+      "end": 80.23,
+      "text": "Không ai đoán nhầm"
+    },
+    {
+      "t": 83.85,
+      "end": 83.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 83.85,
+      "end": 86.63,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 90.35,
+      "end": 92.99,
+      "text": "Cả phường lần đầu đọc được"
+    },
+    {
+      "t": 94.17,
+      "end": 96.09,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 97.03,
+      "end": 101.71,
+      "text": "Bác sĩ cắn bút, ra mồ hôi"
+    },
+    {
+      "t": 103.27,
+      "end": 103.27,
+      "text": "[Bridge - bass, synth pad]"
+    },
+    {
+      "t": 103.27,
+      "end": 106.37,
+      "text": "Thứ Hai cô về, đơn lại như bùa"
+    },
+    {
+      "t": 109.79,
+      "end": 114.89,
+      "text": "Bác sĩ nhìn cô, bác sĩ thở dài"
+    },
+    {
+      "t": 115.99,
+      "end": 115.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.99,
+      "end": 122.31,
+      "text": "Cô Hạnh về rồi, xin đừng đi nữa"
+    },
+    {
+      "t": 122.31,
+      "end": 135.42,
+      "text": "Cả phường ôm đơn đứng chờ ngoài cửa"
+    },
+    {
+      "t": 150.62,
+      "end": 152.52,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 157.18,
+      "end": 157.18,
+      "text": "[Outro - bass, tambourine]"
+    },
+    {
+      "t": 157.18,
+      "end": 159.56,
+      "text": "Cô Hạnh nghỉ một tuần"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.1,
+      "end": 24.1,
+      "text": "[Intro - bass line, chorus guitar]"
+    },
+    {
+      "t": 24.1,
+      "end": 24.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.1,
+      "end": 27.1,
+      "text": "Bác sĩ Tám viết đơn như vẽ bùa"
+    },
+    {
+      "t": 30.62,
+      "end": 33.42,
+      "text": "Cả phường chỉ cô Hạnh đọc ra"
+    },
+    {
+      "t": 36.68,
+      "end": 40.48,
+      "text": "Thứ Hai cô nghỉ, quầy thuốc bó tay"
+    },
+    {
+      "t": 40.5,
+      "end": 41.78,
+      "text": "Bà Sáu cầm đơn đứng ngó trời"
+    },
+    {
+      "t": 44.05,
+      "end": 44.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.05,
+      "end": 45.67,
+      "text": "Chữ này là gì"
+    },
+    {
+      "t": 45.85,
+      "end": 47.77,
+      "text": "Hay chữ kia là"
+    },
+    {
+      "t": 47.77,
+      "end": 47.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.77,
+      "end": 49.27,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 50.61,
+      "end": 53.41,
+      "text": "Cả phường ôm đơn đi vòng"
+    },
+    {
+      "t": 53.93,
+      "end": 55.81,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 57.65,
+      "end": 60.67,
+      "text": "Bác sĩ phải viết chữ in"
+    },
+    {
+      "t": 64.21,
+      "end": 64.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.21,
+      "end": 67.19,
+      "text": "Bác sĩ Tám ngồi in từng chữ hoa"
+    },
+    {
+      "t": 67.51,
+      "end": 70.29,
+      "text": "Như đứa học trò lớp một ngày đầu"
+    },
+    {
+      "t": 70.77,
+      "end": 73.59,
+      "text": "Chữ A to đùng, chữ B tròn vo"
+    },
+    {
+      "t": 74.11,
+      "end": 76.85,
+      "text": "Bà Sáu đọc ra liền, bà mừng"
+    },
+    {
+      "t": 77.33,
+      "end": 77.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.33,
+      "end": 78.67,
+      "text": "Thuốc ho thuốc tim"
+    },
+    {
+      "t": 78.95,
+      "end": 80.25,
+      "text": "Không ai đoán nhầm"
+    },
+    {
+      "t": 83.63,
+      "end": 83.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 83.63,
+      "end": 86.19,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 90.35,
+      "end": 93.09,
+      "text": "Cả phường lần đầu đọc được"
+    },
+    {
+      "t": 94.17,
+      "end": 96.09,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 97.03,
+      "end": 101.71,
+      "text": "Bác sĩ cắn bút, ra mồ hôi"
+    },
+    {
+      "t": 103.25,
+      "end": 103.25,
+      "text": "[Bridge - bass, synth pad]"
+    },
+    {
+      "t": 103.25,
+      "end": 106.31,
+      "text": "Thứ Hai cô về, đơn lại như bùa"
+    },
+    {
+      "t": 109.79,
+      "end": 114.33,
+      "text": "Bác sĩ nhìn cô, bác sĩ thở dài"
+    },
+    {
+      "t": 114.33,
+      "end": 114.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.33,
+      "end": 121.37,
+      "text": "Cô Hạnh về rồi, xin đừng đi nữa"
+    },
+    {
+      "t": 121.45,
+      "end": 131.78,
+      "text": "Cả phường ôm đơn đứng chờ ngoài cửa"
+    },
+    {
+      "t": 150.62,
+      "end": 152.52,
+      "text": "Cô Hạnh nghỉ một tuần"
+    },
+    {
+      "t": 157.16,
+      "end": 157.16,
+      "text": "[Outro - bass, tambourine]"
+    },
+    {
+      "t": 157.16,
+      "end": 159.56,
+      "text": "Cô Hạnh nghỉ một tuần"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

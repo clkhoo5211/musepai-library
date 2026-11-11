@@ -1,0 +1,459 @@
+{
+  "id": "b20_ja03",
+  "title": "Kが打てない",
+  "title_source": "scripted",
+  "genre": "Japanese chanson musette waltz (3/4)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "wry, flustered, tender",
+  "persona": "",
+  "subject": "A woman who types her boyfriend Keisuke a romaji note every morning on a flea-market typewriter whose K key has died, so she cannot write 'suki' or even his name and ends up typing 'aishiteru' for the first time.",
+  "caption": "Japanese chanson musette waltz in 3/4, Parisian café style. Musette accordion with lilting waltz chords and trembling melody fills, upright piano with oom-pah-pah left hand, plucked upright bass on the downbeat, violin in pizzicato verses and legato countermelody in choruses, soft brushed snare swish. Warm, intimate acoustic recording with the voice upfront. Female lead, warm mezzo, theatrical but fully sung with crisp diction. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, G minor. Wry, flustered, tender. No rap, no autotune, no electronic beats, no spoken passages, no rock drums.",
+  "lyrics": "[Intro - musette accordion waltz, pizzicato violin]\n\n[Verse 1]\nふるい タイプライター\nのみのいちの たな\nKの キーが うごかない\nあさの てがみ どうしよう\n\n[Pre-Chorus]\nすきも けいすけも\nいちども うてない\n\n[Chorus]\nKが うてない\nでも つたわるでしょう\nあいしてる あいしてる\nはじめて うった\n\n[Verse 2]\nけさも うつ ローマじ\nおはよう あなたへ\nすきの ない ことば\nわらって よんでよ\n\n[Pre-Chorus]\nなまえも うてない\nてがみで よべない\n\n[Chorus]\nKが うてない\nでも つたわるでしょう\nあいしてる あいしてる\nきみに とどけ\n\n[Outro - accordion, violin legato, brushed snare]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Japanese chanson musette waltz in 3/4, Parisian café style. Musette accordion with lilting waltz chords and trembling melody fills, upright piano with oom-pah-pah left hand, plucked upright bass on the downbeat, violin in pizzicato verses and legato countermelody in choruses, soft brushed snare swish. Warm, intimate acoustic recording with the voice upfront. Female lead, warm mezzo, theatrical but fully sung with crisp diction. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, G minor. Wry, flustered, tender. No rap, no autotune, no electronic beats, no spoken passages, no rock drums.",
+    "lyrics": "[Intro - musette accordion waltz, pizzicato violin]\n\n[Verse 1]\nふるい タイプライター\nのみのいちの たな\nKの キーが うごかない\nあさの てがみ どうしよう\n\n[Pre-Chorus]\nすきも けいすけも\nいちども うてない\n\n[Chorus]\nKが うてない\nでも つたわるでしょう\nあいしてる あいしてる\nはじめて うった\n\n[Verse 2]\nけさも うつ ローマじ\nおはよう あなたへ\nすきの ない ことば\nわらって よんでよ\n\n[Pre-Chorus]\nなまえも うてない\nてがみで よべない\n\n[Chorus]\nKが うてない\nでも つたわるでしょう\nあいしてる あいしてる\nきみに とどけ\n\n[Outro - accordion, violin legato, brushed snare]"
+  },
+  "seed": "78650636",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.41s**\n- 63.41s per song\n- LM phase (1 song): 13.10s\n- DiT phase (1 song): 50.30s",
+  "task_id": "857e5a94-be6e-4170-811b-a1ca49904863",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T17:55:13.014855+08:00",
+  "audio": "b20_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.24,
+      "end": 23.24,
+      "text": "[Intro - musette accordion waltz, pizzicato violin]"
+    },
+    {
+      "t": 23.24,
+      "end": 23.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.24,
+      "end": 41.84,
+      "text": "ふるい タイプライター"
+    },
+    {
+      "t": 41.84,
+      "end": 43.12,
+      "text": "のみのいちの たな"
+    },
+    {
+      "t": 43.12,
+      "end": 46.32,
+      "text": "Kの キーが うごかない"
+    },
+    {
+      "t": 46.5,
+      "end": 48.54,
+      "text": "あさの てがみ どうしよう"
+    },
+    {
+      "t": 48.64,
+      "end": 48.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.64,
+      "end": 52.21,
+      "text": "すきも けいすけも"
+    },
+    {
+      "t": 53.03,
+      "end": 54.89,
+      "text": "いちども うてない"
+    },
+    {
+      "t": 55.31,
+      "end": 55.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.31,
+      "end": 58.07,
+      "text": "Kが うてない"
+    },
+    {
+      "t": 58.07,
+      "end": 62.75,
+      "text": "でも つたわるでしょう"
+    },
+    {
+      "t": 63.17,
+      "end": 67.51,
+      "text": "あいしてる あいしてる"
+    },
+    {
+      "t": 68.49,
+      "end": 71.35,
+      "text": "はじめて うった"
+    },
+    {
+      "t": 82.05,
+      "end": 82.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.05,
+      "end": 84.97,
+      "text": "けさも うつ ローマじ"
+    },
+    {
+      "t": 85.59,
+      "end": 87.69,
+      "text": "おはよう あなたへ"
+    },
+    {
+      "t": 89.35,
+      "end": 92.21,
+      "text": "すきの ない ことば"
+    },
+    {
+      "t": 92.77,
+      "end": 94.03,
+      "text": "わらって よんでよ"
+    },
+    {
+      "t": 94.03,
+      "end": 94.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.03,
+      "end": 94.81,
+      "text": "なまえも うてない"
+    },
+    {
+      "t": 94.81,
+      "end": 108.37,
+      "text": "てがみで よべない"
+    },
+    {
+      "t": 108.49,
+      "end": 108.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.49,
+      "end": 109.51,
+      "text": "Kが うてない"
+    },
+    {
+      "t": 111.17,
+      "end": 114.27,
+      "text": "でも つたわるでしょう"
+    },
+    {
+      "t": 114.89,
+      "end": 117.67,
+      "text": "あいしてる あいしてる"
+    },
+    {
+      "t": 118.39,
+      "end": 121.55,
+      "text": "きみに とどけ"
+    },
+    {
+      "t": 121.55,
+      "end": 121.55,
+      "text": "[Outro - accordion, violin legato, brushed snare]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.24,
+      "end": 23.24,
+      "text": "[Intro - musette accordion waltz, pizzicato violin]"
+    },
+    {
+      "t": 23.24,
+      "end": 23.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.24,
+      "end": 41.84,
+      "text": "ふるい タイプライター"
+    },
+    {
+      "t": 41.84,
+      "end": 43.12,
+      "text": "のみのいちの たな"
+    },
+    {
+      "t": 43.12,
+      "end": 46.32,
+      "text": "Kの キーが うごかない"
+    },
+    {
+      "t": 46.5,
+      "end": 48.54,
+      "text": "あさの てがみ どうしよう"
+    },
+    {
+      "t": 48.64,
+      "end": 48.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.64,
+      "end": 52.21,
+      "text": "すきも けいすけも"
+    },
+    {
+      "t": 53.03,
+      "end": 54.89,
+      "text": "いちども うてない"
+    },
+    {
+      "t": 55.31,
+      "end": 55.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.31,
+      "end": 58.07,
+      "text": "Kが うてない"
+    },
+    {
+      "t": 58.07,
+      "end": 62.75,
+      "text": "でも つたわるでしょう"
+    },
+    {
+      "t": 63.17,
+      "end": 67.51,
+      "text": "あいしてる あいしてる"
+    },
+    {
+      "t": 68.49,
+      "end": 71.35,
+      "text": "はじめて うった"
+    },
+    {
+      "t": 82.05,
+      "end": 82.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.05,
+      "end": 84.97,
+      "text": "けさも うつ ローマじ"
+    },
+    {
+      "t": 85.59,
+      "end": 87.69,
+      "text": "おはよう あなたへ"
+    },
+    {
+      "t": 89.35,
+      "end": 92.21,
+      "text": "すきの ない ことば"
+    },
+    {
+      "t": 92.77,
+      "end": 94.03,
+      "text": "わらって よんでよ"
+    },
+    {
+      "t": 94.03,
+      "end": 94.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.03,
+      "end": 94.81,
+      "text": "なまえも うてない"
+    },
+    {
+      "t": 94.81,
+      "end": 108.37,
+      "text": "てがみで よべない"
+    },
+    {
+      "t": 108.49,
+      "end": 108.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.49,
+      "end": 109.51,
+      "text": "Kが うてない"
+    },
+    {
+      "t": 111.17,
+      "end": 114.27,
+      "text": "でも つたわるでしょう"
+    },
+    {
+      "t": 114.89,
+      "end": 117.67,
+      "text": "あいしてる あいしてる"
+    },
+    {
+      "t": 118.39,
+      "end": 121.55,
+      "text": "きみに とどけ"
+    },
+    {
+      "t": 121.55,
+      "end": 121.55,
+      "text": "[Outro - accordion, violin legato, brushed snare]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 9.24,
+      "end": 9.24,
+      "text": "[Intro - musette accordion waltz, pizzicato violin]"
+    },
+    {
+      "t": 9.24,
+      "end": 9.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 9.24,
+      "end": 25.14,
+      "text": "ふるい タイプライター"
+    },
+    {
+      "t": 25.26,
+      "end": 32.38,
+      "text": "のみのいちの たな"
+    },
+    {
+      "t": 36.04,
+      "end": 39.32,
+      "text": "Kの キーが うごかない"
+    },
+    {
+      "t": 39.54,
+      "end": 43.16,
+      "text": "あさの てがみ どうしよう"
+    },
+    {
+      "t": 43.16,
+      "end": 43.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.16,
+      "end": 47.08,
+      "text": "すきも けいすけも"
+    },
+    {
+      "t": 47.98,
+      "end": 50.81,
+      "text": "いちども うてない"
+    },
+    {
+      "t": 53.35,
+      "end": 53.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.35,
+      "end": 54.87,
+      "text": "Kが うてない"
+    },
+    {
+      "t": 55.19,
+      "end": 64.53,
+      "text": "でも つたわるでしょう"
+    },
+    {
+      "t": 65.41,
+      "end": 67.49,
+      "text": "あいしてる あいしてる"
+    },
+    {
+      "t": 68.51,
+      "end": 71.33,
+      "text": "はじめて うった"
+    },
+    {
+      "t": 82.05,
+      "end": 82.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.05,
+      "end": 84.97,
+      "text": "けさも うつ ローマじ"
+    },
+    {
+      "t": 85.59,
+      "end": 87.65,
+      "text": "おはよう あなたへ"
+    },
+    {
+      "t": 89.33,
+      "end": 92.19,
+      "text": "すきの ない ことば"
+    },
+    {
+      "t": 92.77,
+      "end": 94.91,
+      "text": "わらって よんでよ"
+    },
+    {
+      "t": 94.93,
+      "end": 94.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.93,
+      "end": 101.61,
+      "text": "なまえも うてない"
+    },
+    {
+      "t": 101.65,
+      "end": 108.35,
+      "text": "てがみで よべない"
+    },
+    {
+      "t": 108.49,
+      "end": 108.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.49,
+      "end": 109.49,
+      "text": "Kが うてない"
+    },
+    {
+      "t": 111.17,
+      "end": 114.39,
+      "text": "でも つたわるでしょう"
+    },
+    {
+      "t": 114.87,
+      "end": 117.65,
+      "text": "あいしてる あいしてる"
+    },
+    {
+      "t": 118.41,
+      "end": 121.53,
+      "text": "きみに とどけ"
+    },
+    {
+      "t": 121.53,
+      "end": 121.53,
+      "text": "[Outro - accordion, violin legato, brushed snare]"
+    }
+  ]
+}

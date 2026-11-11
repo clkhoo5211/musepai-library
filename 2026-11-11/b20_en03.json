@@ -1,0 +1,327 @@
+{
+  "id": "b20_en03",
+  "title": "Run, Hank, Run",
+  "title_source": "scripted",
+  "genre": "Southern rock",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wry, smoky, defiant",
+  "persona": "",
+  "subject": "A wife on the Ocmulgee riverbank in Macon watches a gust lift her husband's auburn toupee off his head and a neighbour's coonhound trot off with it, and has to decide whether to admit she has known since the wedding day.",
+  "caption": "Southern rock, 1970s-style Georgia boogie with harmonised twin-lead riffs. Two overdriven Les Paul guitars on twin leads, one switching to bottleneck slide in open E to answer the voice, Hammond B3 organ through a rotating Leslie speaker, rolling honky-tonk piano fills, live drums on a loose straight-eighth boogie with heavy backbeat. Live-room recording, warm tape saturation. Female alto, strong gritty chest voice, each line answered by the slide. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, E major. Wry, smoky, defiant. No rap, no drum machine, no autotune, no synth pads, no trap hi-hats, no polished pop production.",
+  "lyrics": "[Intro - bottleneck slide, Hammond swell, drums]\n\n[Verse 1]\nHank's on the Ocmulgee with a rod in his hand\nAuburn hair thick as the day we wed\nThe wind comes up off the water at noon\nAnd lifts it clean off the top of his head\n\n[Pre-Chorus]\nThat coonhound's trotting, that coonhound's running\nOff down the bank with a mouthful of Hank\n\n[Chorus]\nRun, Hank, run, that hound's got your hair\nThirty years I've pretended not to know\nI saw the glue on our wedding day\nHoney, let the dog go\n\n[Verse 2]\nYou're standing there pink as a ham in the sun\nBoth hands on a head you never showed me\nI hand you my cap and you don't say a word\nHound's in the kudzu, and so is the story\n\n[Pre-Chorus]\nI say, Hank, I've known since ninety-four\nAnd I'd have married you bald as an egg\n\n[Chorus]\nStay, Hank, stay, let the hound keep your hair\nThirty years I've pretended not to know\nI loved the man under the glue\nHoney, now I let it show\n\n[Outro - slide guitar, Hammond fades]\nLet the dog go",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Southern rock, 1970s-style Georgia boogie with harmonised twin-lead riffs. Two overdriven Les Paul guitars on twin leads, one switching to bottleneck slide in open E to answer the voice, Hammond B3 organ through a rotating Leslie speaker, rolling honky-tonk piano fills, live drums on a loose straight-eighth boogie with heavy backbeat. Live-room recording, warm tape saturation. Female alto, strong gritty chest voice, each line answered by the slide. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, E major. Wry, smoky, defiant. No rap, no drum machine, no autotune, no synth pads, no trap hi-hats, no polished pop production.",
+    "lyrics": "[Intro - bottleneck slide, Hammond swell, drums]\n\n[Verse 1]\nHank's on the Ocmulgee with a rod in his hand\nAuburn hair thick as the day we wed\nThe wind comes up off the water at noon\nAnd lifts it clean off the top of his head\n\n[Pre-Chorus]\nThat coonhound's trotting, that coonhound's running\nOff down the bank with a mouthful of Hank\n\n[Chorus]\nRun, Hank, run, that hound's got your hair\nThirty years I've pretended not to know\nI saw the glue on our wedding day\nHoney, let the dog go\n\n[Verse 2]\nYou're standing there pink as a ham in the sun\nBoth hands on a head you never showed me\nI hand you my cap and you don't say a word\nHound's in the kudzu, and so is the story\n\n[Pre-Chorus]\nI say, Hank, I've known since ninety-four\nAnd I'd have married you bald as an egg\n\n[Chorus]\nStay, Hank, stay, let the hound keep your hair\nThirty years I've pretended not to know\nI loved the man under the glue\nHoney, now I let it show\n\n[Outro - slide guitar, Hammond fades]\nLet the dog go"
+  },
+  "seed": "571471888",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.30s**\n- 66.30s per song\n- LM phase (1 song): 14.07s\n- DiT phase (1 song): 52.23s",
+  "task_id": "a9c6a6af-f889-446a-aca0-f661b36d147b",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T17:40:00.929374+08:00",
+  "audio": "b20_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Intro - bottleneck slide, Hammond swell, drums]"
+    },
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.88,
+      "end": 44.78,
+      "text": "Hank's on the Ocmulgee with a rod in his hand"
+    },
+    {
+      "t": 45.68,
+      "end": 49.74,
+      "text": "Auburn hair thick as the day we wed"
+    },
+    {
+      "t": 51.21,
+      "end": 54.67,
+      "text": "The wind comes up off the water at noon"
+    },
+    {
+      "t": 56.31,
+      "end": 60.07,
+      "text": "And lifts it clean off the top of his head"
+    },
+    {
+      "t": 60.07,
+      "end": 60.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.07,
+      "end": 65.81,
+      "text": "That coonhound's trotting, that coonhound's running"
+    },
+    {
+      "t": 71.01,
+      "end": 77.13,
+      "text": "Off down the bank with a mouthful of Hank"
+    },
+    {
+      "t": 77.17,
+      "end": 77.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.17,
+      "end": 80.91,
+      "text": "Run, Hank, run, that hound's got your hair"
+    },
+    {
+      "t": 81.55,
+      "end": 85.37,
+      "text": "Thirty years I've pretended not to know"
+    },
+    {
+      "t": 87.01,
+      "end": 90.39,
+      "text": "I saw the glue on our wedding day"
+    },
+    {
+      "t": 91.89,
+      "end": 94.55,
+      "text": "Honey, let the dog go"
+    },
+    {
+      "t": 96.63,
+      "end": 96.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.63,
+      "end": 100.35,
+      "text": "You're standing there pink as a ham in the sun"
+    },
+    {
+      "t": 100.37,
+      "end": 102.17,
+      "text": "Both hands on a head you never showed me"
+    },
+    {
+      "t": 102.33,
+      "end": 106.17,
+      "text": "I hand you my cap and you don't say a word"
+    },
+    {
+      "t": 107.31,
+      "end": 111.43,
+      "text": "Hound's in the kudzu, and so is the story"
+    },
+    {
+      "t": 113.93,
+      "end": 113.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.93,
+      "end": 118.61,
+      "text": "I say, Hank, I've known since ninety-four"
+    },
+    {
+      "t": 119.05,
+      "end": 124.83,
+      "text": "And I'd have married you bald as an egg"
+    },
+    {
+      "t": 124.83,
+      "end": 124.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.83,
+      "end": 128.67,
+      "text": "Stay, Hank, stay, let the hound keep your hair"
+    },
+    {
+      "t": 129.57,
+      "end": 141.11,
+      "text": "Thirty years I've pretended not to know"
+    },
+    {
+      "t": 141.23,
+      "end": 149.65,
+      "text": "I loved the man under the glue"
+    },
+    {
+      "t": 150.16,
+      "end": 152.3,
+      "text": "Honey, now I let it show"
+    },
+    {
+      "t": 171.96,
+      "end": 171.96,
+      "text": "[Outro - slide guitar, Hammond fades]"
+    },
+    {
+      "t": 171.96,
+      "end": 173.34,
+      "text": "Let the dog go"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Intro - bottleneck slide, Hammond swell, drums]"
+    },
+    {
+      "t": 40.88,
+      "end": 40.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 40.88,
+      "end": 44.78,
+      "text": "Hank's on the Ocmulgee with a rod in his hand"
+    },
+    {
+      "t": 45.66,
+      "end": 49.66,
+      "text": "Auburn hair thick as the day we wed"
+    },
+    {
+      "t": 51.21,
+      "end": 54.69,
+      "text": "The wind comes up off the water at noon"
+    },
+    {
+      "t": 56.31,
+      "end": 59.87,
+      "text": "And lifts it clean off the top of his head"
+    },
+    {
+      "t": 59.87,
+      "end": 59.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.87,
+      "end": 70.89,
+      "text": "That coonhound's trotting, that coonhound's running"
+    },
+    {
+      "t": 71.01,
+      "end": 75.31,
+      "text": "Off down the bank with a mouthful of Hank"
+    },
+    {
+      "t": 77.13,
+      "end": 77.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.13,
+      "end": 80.91,
+      "text": "Run, Hank, run, that hound's got your hair"
+    },
+    {
+      "t": 81.55,
+      "end": 85.45,
+      "text": "Thirty years I've pretended not to know"
+    },
+    {
+      "t": 87.01,
+      "end": 90.41,
+      "text": "I saw the glue on our wedding day"
+    },
+    {
+      "t": 91.89,
+      "end": 94.57,
+      "text": "Honey, let the dog go"
+    },
+    {
+      "t": 96.63,
+      "end": 96.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.63,
+      "end": 101.09,
+      "text": "You're standing there pink as a ham in the sun"
+    },
+    {
+      "t": 101.71,
+      "end": 103.73,
+      "text": "Both hands on a head you never showed me"
+    },
+    {
+      "t": 103.83,
+      "end": 106.15,
+      "text": "I hand you my cap and you don't say a word"
+    },
+    {
+      "t": 107.31,
+      "end": 111.43,
+      "text": "Hound's in the kudzu, and so is the story"
+    },
+    {
+      "t": 114.07,
+      "end": 114.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.07,
+      "end": 118.61,
+      "text": "I say, Hank, I've known since ninety-four"
+    },
+    {
+      "t": 119.05,
+      "end": 124.81,
+      "text": "And I'd have married you bald as an egg"
+    },
+    {
+      "t": 124.81,
+      "end": 124.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 124.81,
+      "end": 128.65,
+      "text": "Stay, Hank, stay, let the hound keep your hair"
+    },
+    {
+      "t": 128.65,
+      "end": 141.11,
+      "text": "Thirty years I've pretended not to know"
+    },
+    {
+      "t": 141.31,
+      "end": 146.25,
+      "text": "I loved the man under the glue"
+    },
+    {
+      "t": 150.14,
+      "end": 152.3,
+      "text": "Honey, now I let it show"
+    },
+    {
+      "t": 171.96,
+      "end": 171.96,
+      "text": "[Outro - slide guitar, Hammond fades]"
+    },
+    {
+      "t": 171.96,
+      "end": 183.3,
+      "text": "Let the dog go"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

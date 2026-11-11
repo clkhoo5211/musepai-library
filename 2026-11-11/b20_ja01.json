@@ -1,0 +1,459 @@
+{
+  "id": "b20_ja01",
+  "title": "竜の目はまだ",
+  "title_source": "scripted",
+  "genre": "Japanese chūka-fū oriental pop-rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "dashing, sly, mock-heroic",
+  "persona": "",
+  "subject": "A shy accounting clerk who hand-embroiders a dragon on the back of a plain black jacket at his low table every night, one scale an evening, and keeps leaving the eye unstitched because a finished jacket would have to be worn outside.",
+  "caption": "Japanese chūka-fū oriental pop-rock, fast Chinese-flavoured band sound. Soaring erhu lead sliding between vocal phrases, fast plucked guzheng pentatonic runs and glissandi, trilled dizi bamboo flute fills at section ends, overdriven electric guitar with tight palm-muted eighth-note riffs, live drum kit with four-on-the-floor verses and crashing backbeat choruses. Bright, punchy live-band mix with the voice upfront. Male lead, bright tenor, energetic full voice, melody clearly sung with crisp consonants. Clear full voice, every word enunciated, steady sung melody on every line. 152 BPM, D minor. Dashing, sly, mock-heroic. No rap, no autotune, no EDM synths, no trap hi-hats, no whispering.",
+  "lyrics": "[Intro - erhu slide, guzheng run, overdriven guitar riff]\n\n[Verse 1]\nよるの ひくい つくえ\nくろい うわぎ ひろげる\nはりを ひとつ とおして\nうろこ ひとつ ぬいとる\n\n[Pre-Chorus]\nきょうの ぶんは ここまで\nめだけ あけて おく\n\n[Chorus]\nりゅうの めは まだ まだ\nいれたら あるきだす\nこの うわぎを きたら\nぼくは そとへ でる\n\n[Verse 2]\nけいりの ひとが よなべ\nせなかに りゅうを ぬう\nすうじは ぴたり あうのに\nめだけ ぬえない\n\n[Pre-Chorus]\nひゃくまいめの うろこ\nめだけ あけて おく\n\n[Chorus]\nりゅうの めは まだ まだ\nいれたら あるきだす\nこの うわぎを きたら\nぼくは まちへ でる\n\n[Outro - dizi trill, erhu slide, guitar riff]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 152,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Japanese chūka-fū oriental pop-rock, fast Chinese-flavoured band sound. Soaring erhu lead sliding between vocal phrases, fast plucked guzheng pentatonic runs and glissandi, trilled dizi bamboo flute fills at section ends, overdriven electric guitar with tight palm-muted eighth-note riffs, live drum kit with four-on-the-floor verses and crashing backbeat choruses. Bright, punchy live-band mix with the voice upfront. Male lead, bright tenor, energetic full voice, melody clearly sung with crisp consonants. Clear full voice, every word enunciated, steady sung melody on every line. 152 BPM, D minor. Dashing, sly, mock-heroic. No rap, no autotune, no EDM synths, no trap hi-hats, no whispering.",
+    "lyrics": "[Intro - erhu slide, guzheng run, overdriven guitar riff]\n\n[Verse 1]\nよるの ひくい つくえ\nくろい うわぎ ひろげる\nはりを ひとつ とおして\nうろこ ひとつ ぬいとる\n\n[Pre-Chorus]\nきょうの ぶんは ここまで\nめだけ あけて おく\n\n[Chorus]\nりゅうの めは まだ まだ\nいれたら あるきだす\nこの うわぎを きたら\nぼくは そとへ でる\n\n[Verse 2]\nけいりの ひとが よなべ\nせなかに りゅうを ぬう\nすうじは ぴたり あうのに\nめだけ ぬえない\n\n[Pre-Chorus]\nひゃくまいめの うろこ\nめだけ あけて おく\n\n[Chorus]\nりゅうの めは まだ まだ\nいれたら あるきだす\nこの うわぎを きたら\nぼくは まちへ でる\n\n[Outro - dizi trill, erhu slide, guitar riff]"
+  },
+  "seed": "3752186595",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.76s**\n- 67.76s per song\n- LM phase (1 song): 12.32s\n- DiT phase (1 song): 55.44s",
+  "task_id": "0ca619db-9708-4eee-bf24-8f0bc53907a2",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-11-11T17:52:12.794134+08:00",
+  "audio": "b20_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.72,
+      "end": 25.72,
+      "text": "[Intro - erhu slide, guzheng run, overdriven guitar riff]"
+    },
+    {
+      "t": 25.72,
+      "end": 25.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.72,
+      "end": 30.28,
+      "text": "よるの ひくい つくえ"
+    },
+    {
+      "t": 31.64,
+      "end": 36.24,
+      "text": "くろい うわぎ ひろげる"
+    },
+    {
+      "t": 38.04,
+      "end": 42.56,
+      "text": "はりを ひとつ とおして"
+    },
+    {
+      "t": 44.34,
+      "end": 50.09,
+      "text": "うろこ ひとつ ぬいとる"
+    },
+    {
+      "t": 52.57,
+      "end": 52.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.57,
+      "end": 56.03,
+      "text": "きょうの ぶんは ここまで"
+    },
+    {
+      "t": 56.45,
+      "end": 59.47,
+      "text": "めだけ あけて おく"
+    },
+    {
+      "t": 65.45,
+      "end": 65.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.45,
+      "end": 68.55,
+      "text": "りゅうの めは まだ まだ"
+    },
+    {
+      "t": 68.91,
+      "end": 71.61,
+      "text": "いれたら あるきだす"
+    },
+    {
+      "t": 71.83,
+      "end": 74.69,
+      "text": "この うわぎを きたら"
+    },
+    {
+      "t": 76.61,
+      "end": 82.35,
+      "text": "ぼくは そとへ でる"
+    },
+    {
+      "t": 90.67,
+      "end": 90.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.67,
+      "end": 92.95,
+      "text": "けいりの ひとが よなべ"
+    },
+    {
+      "t": 93.71,
+      "end": 96.45,
+      "text": "せなかに りゅうを ぬう"
+    },
+    {
+      "t": 99.89,
+      "end": 102.77,
+      "text": "すうじは ぴたり あうのに"
+    },
+    {
+      "t": 106.03,
+      "end": 109.65,
+      "text": "めだけ ぬえない"
+    },
+    {
+      "t": 112.57,
+      "end": 112.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.57,
+      "end": 117.17,
+      "text": "ひゃくまいめの うろこ"
+    },
+    {
+      "t": 118.75,
+      "end": 124.31,
+      "text": "めだけ あけて おく"
+    },
+    {
+      "t": 127.13,
+      "end": 127.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.13,
+      "end": 151.02,
+      "text": "りゅうの めは まだ まだ"
+    },
+    {
+      "t": 151.14,
+      "end": 155.06,
+      "text": "いれたら あるきだす"
+    },
+    {
+      "t": 155.38,
+      "end": 194.0,
+      "text": "この うわぎを きたら"
+    },
+    {
+      "t": 194.14,
+      "end": 197.18,
+      "text": "ぼくは まちへ でる"
+    },
+    {
+      "t": 197.18,
+      "end": 197.18,
+      "text": "[Outro - dizi trill, erhu slide, guitar riff]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.72,
+      "end": 25.72,
+      "text": "[Intro - erhu slide, guzheng run, overdriven guitar riff]"
+    },
+    {
+      "t": 25.72,
+      "end": 25.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.72,
+      "end": 30.28,
+      "text": "よるの ひくい つくえ"
+    },
+    {
+      "t": 31.64,
+      "end": 36.24,
+      "text": "くろい うわぎ ひろげる"
+    },
+    {
+      "t": 38.04,
+      "end": 42.56,
+      "text": "はりを ひとつ とおして"
+    },
+    {
+      "t": 44.34,
+      "end": 50.09,
+      "text": "うろこ ひとつ ぬいとる"
+    },
+    {
+      "t": 52.57,
+      "end": 52.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.57,
+      "end": 56.03,
+      "text": "きょうの ぶんは ここまで"
+    },
+    {
+      "t": 56.45,
+      "end": 59.47,
+      "text": "めだけ あけて おく"
+    },
+    {
+      "t": 65.45,
+      "end": 65.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.45,
+      "end": 68.55,
+      "text": "りゅうの めは まだ まだ"
+    },
+    {
+      "t": 68.91,
+      "end": 71.61,
+      "text": "いれたら あるきだす"
+    },
+    {
+      "t": 71.83,
+      "end": 74.69,
+      "text": "この うわぎを きたら"
+    },
+    {
+      "t": 76.61,
+      "end": 82.35,
+      "text": "ぼくは そとへ でる"
+    },
+    {
+      "t": 90.67,
+      "end": 90.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.67,
+      "end": 92.95,
+      "text": "けいりの ひとが よなべ"
+    },
+    {
+      "t": 93.71,
+      "end": 96.45,
+      "text": "せなかに りゅうを ぬう"
+    },
+    {
+      "t": 99.89,
+      "end": 102.77,
+      "text": "すうじは ぴたり あうのに"
+    },
+    {
+      "t": 106.03,
+      "end": 109.65,
+      "text": "めだけ ぬえない"
+    },
+    {
+      "t": 112.57,
+      "end": 112.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.57,
+      "end": 117.17,
+      "text": "ひゃくまいめの うろこ"
+    },
+    {
+      "t": 118.75,
+      "end": 124.31,
+      "text": "めだけ あけて おく"
+    },
+    {
+      "t": 127.13,
+      "end": 127.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.13,
+      "end": 151.02,
+      "text": "りゅうの めは まだ まだ"
+    },
+    {
+      "t": 151.14,
+      "end": 155.06,
+      "text": "いれたら あるきだす"
+    },
+    {
+      "t": 155.38,
+      "end": 194.0,
+      "text": "この うわぎを きたら"
+    },
+    {
+      "t": 194.14,
+      "end": 197.18,
+      "text": "ぼくは まちへ でる"
+    },
+    {
+      "t": 197.18,
+      "end": 197.18,
+      "text": "[Outro - dizi trill, erhu slide, guitar riff]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.72,
+      "end": 25.72,
+      "text": "[Intro - erhu slide, guzheng run, overdriven guitar riff]"
+    },
+    {
+      "t": 25.72,
+      "end": 25.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.72,
+      "end": 30.28,
+      "text": "よるの ひくい つくえ"
+    },
+    {
+      "t": 31.64,
+      "end": 36.24,
+      "text": "くろい うわぎ ひろげる"
+    },
+    {
+      "t": 38.02,
+      "end": 42.58,
+      "text": "はりを ひとつ とおして"
+    },
+    {
+      "t": 44.3,
+      "end": 50.09,
+      "text": "うろこ ひとつ ぬいとる"
+    },
+    {
+      "t": 52.57,
+      "end": 52.57,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.57,
+      "end": 56.03,
+      "text": "きょうの ぶんは ここまで"
+    },
+    {
+      "t": 56.45,
+      "end": 59.47,
+      "text": "めだけ あけて おく"
+    },
+    {
+      "t": 61.83,
+      "end": 61.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.83,
+      "end": 68.53,
+      "text": "りゅうの めは まだ まだ"
+    },
+    {
+      "t": 68.93,
+      "end": 71.61,
+      "text": "いれたら あるきだす"
+    },
+    {
+      "t": 71.83,
+      "end": 74.67,
+      "text": "この うわぎを きたら"
+    },
+    {
+      "t": 76.65,
+      "end": 78.59,
+      "text": "ぼくは そとへ でる"
+    },
+    {
+      "t": 90.65,
+      "end": 90.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.65,
+      "end": 92.95,
+      "text": "けいりの ひとが よなべ"
+    },
+    {
+      "t": 93.71,
+      "end": 96.45,
+      "text": "せなかに りゅうを ぬう"
+    },
+    {
+      "t": 99.87,
+      "end": 102.77,
+      "text": "すうじは ぴたり あうのに"
+    },
+    {
+      "t": 106.05,
+      "end": 109.65,
+      "text": "めだけ ぬえない"
+    },
+    {
+      "t": 112.55,
+      "end": 112.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.55,
+      "end": 117.19,
+      "text": "ひゃくまいめの うろこ"
+    },
+    {
+      "t": 118.73,
+      "end": 124.31,
+      "text": "めだけ あけて おく"
+    },
+    {
+      "t": 127.99,
+      "end": 127.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.99,
+      "end": 151.02,
+      "text": "りゅうの めは まだ まだ"
+    },
+    {
+      "t": 151.14,
+      "end": 165.28,
+      "text": "いれたら あるきだす"
+    },
+    {
+      "t": 165.28,
+      "end": 194.0,
+      "text": "この うわぎを きたら"
+    },
+    {
+      "t": 194.14,
+      "end": 197.26,
+      "text": "ぼくは まちへ でる"
+    },
+    {
+      "t": 197.26,
+      "end": 197.26,
+      "text": "[Outro - dizi trill, erhu slide, guitar riff]"
+    }
+  ]
+}

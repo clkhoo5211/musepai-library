@@ -1,0 +1,317 @@
+{
+  "id": "b20_ja04",
+  "title": "ハーフサイズのふたり",
+  "title_source": "scripted",
+  "genre": "Japanese Andean folklore (quena and charango)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "sunlit, unhurried, fond",
+  "persona": "",
+  "subject": "A couple who share one old half-frame camera on Sunday walks round the park pond, taking turns to photograph each other, and when the seventy-two-shot roll finally comes back months later, two frames to a print, they are side by side in every one.",
+  "caption": "Japanese Andean folklore, Cosquín-style folklore with quena and charango. Breathy notched quena flute answering each vocal line with pentatonic turns, bright fast rasgueado charango strum with tremolo at line ends, soft two-row zampoña panpipe fills between sections, nylon-string guitar with thumbed bass runs under steady arpeggios, bombo legüero heartbeat on skin and rim. Open, airy acoustic recording with the voice upfront. Female lead, clear light mezzo-soprano, open full voice with long held vowels. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. Sunlit, unhurried, fond. No rap, no autotune, no electronic drums, no synth pads, no electric guitar.",
+  "lyrics": "[Intro - quena melody, charango strum, soft bombo]\n\n[Verse 1]\nにちようびの こうえん\nいけの まわりを あるく\nふるい カメラを ひとつ\nふたりで かわりばんこ\n\n[Pre-Chorus]\nハーフサイズの フィルム\nにまい ならぶ\n\n[Chorus]\nぱしゃり きみを とる\nぱしゃり きみが とる\nななじゅうにまいの なかに\nふたり ならんでた\n\n[Verse 2]\nげんぞうに だして\nなんかげつ たって\nいちまいに にまい ならぶ\nどれも となりに いる\n\n[Pre-Chorus]\nとったのは どっちかな\nどれも わらってる\n\n[Chorus]\nぱしゃり きみを とる\nぱしゃり きみが とる\nななじゅうにまいの すべて\nふたり ならんでた\n\n[Outro - quena, charango tremolo, zampoña]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "2",
+    "prompt": "Japanese Andean folklore, Cosquín-style folklore with quena and charango. Breathy notched quena flute answering each vocal line with pentatonic turns, bright fast rasgueado charango strum with tremolo at line ends, soft two-row zampoña panpipe fills between sections, nylon-string guitar with thumbed bass runs under steady arpeggios, bombo legüero heartbeat on skin and rim. Open, airy acoustic recording with the voice upfront. Female lead, clear light mezzo-soprano, open full voice with long held vowels. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. Sunlit, unhurried, fond. No rap, no autotune, no electronic drums, no synth pads, no electric guitar.",
+    "lyrics": "[Intro - quena melody, charango strum, soft bombo]\n\n[Verse 1]\nにちようびの こうえん\nいけの まわりを あるく\nふるい カメラを ひとつ\nふたりで かわりばんこ\n\n[Pre-Chorus]\nハーフサイズの フィルム\nにまい ならぶ\n\n[Chorus]\nぱしゃり きみを とる\nぱしゃり きみが とる\nななじゅうにまいの なかに\nふたり ならんでた\n\n[Verse 2]\nげんぞうに だして\nなんかげつ たって\nいちまいに にまい ならぶ\nどれも となりに いる\n\n[Pre-Chorus]\nとったのは どっちかな\nどれも わらってる\n\n[Chorus]\nぱしゃり きみを とる\nぱしゃり きみが とる\nななじゅうにまいの すべて\nふたり ならんでた\n\n[Outro - quena, charango tremolo, zampoña]"
+  },
+  "seed": "3712082540",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.40s**\n- 70.40s per song\n- LM phase (1 song): 12.55s\n- DiT phase (1 song): 57.85s",
+  "task_id": "4753b6df-d34e-439c-b0aa-ff469c01aabf",
+  "elapsed_s": 91.1,
+  "generated_at": "2026-11-11T17:56:44.166663+08:00",
+  "audio": "b20_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Intro - quena melody, charango strum, soft bombo]"
+    },
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.06,
+      "end": 40.54,
+      "text": "にちようびの こうえん"
+    },
+    {
+      "t": 42.22,
+      "end": 45.66,
+      "text": "いけの まわりを あるく"
+    },
+    {
+      "t": 48.94,
+      "end": 51.31,
+      "text": "ふるい カメラを ひとつ"
+    },
+    {
+      "t": 51.47,
+      "end": 54.77,
+      "text": "ふたりで かわりばんこ"
+    },
+    {
+      "t": 58.67,
+      "end": 58.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.67,
+      "end": 62.25,
+      "text": "ハーフサイズの フィルム"
+    },
+    {
+      "t": 62.85,
+      "end": 64.87,
+      "text": "にまい ならぶ"
+    },
+    {
+      "t": 69.31,
+      "end": 69.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.31,
+      "end": 72.31,
+      "text": "ぱしゃり きみを とる"
+    },
+    {
+      "t": 74.33,
+      "end": 77.31,
+      "text": "ぱしゃり きみが とる"
+    },
+    {
+      "t": 81.77,
+      "end": 85.35,
+      "text": "ななじゅうにまいの なかに"
+    },
+    {
+      "t": 87.05,
+      "end": 89.75,
+      "text": "ふたり ならんでた"
+    },
+    {
+      "t": 93.33,
+      "end": 93.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.33,
+      "end": 96.35,
+      "text": "げんぞうに だして"
+    },
+    {
+      "t": 97.49,
+      "end": 99.87,
+      "text": "なんかげつ たって"
+    },
+    {
+      "t": 104.19,
+      "end": 106.59,
+      "text": "いちまいに にまい ならぶ"
+    },
+    {
+      "t": 107.27,
+      "end": 109.93,
+      "text": "どれも となりに いる"
+    },
+    {
+      "t": 113.91,
+      "end": 113.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.91,
+      "end": 117.49,
+      "text": "とったのは どっちかな"
+    },
+    {
+      "t": 118.31,
+      "end": 120.03,
+      "text": "どれも わらってる"
+    },
+    {
+      "t": 135.79,
+      "end": 135.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.79,
+      "end": 141.19,
+      "text": "ぱしゃり きみを とる"
+    },
+    {
+      "t": 145.75,
+      "end": 151.24,
+      "text": "ぱしゃり きみが とる"
+    },
+    {
+      "t": 170.66,
+      "end": 178.38,
+      "text": "ななじゅうにまいの すべて"
+    },
+    {
+      "t": 178.78,
+      "end": 189.6,
+      "text": "ふたり ならんでた"
+    },
+    {
+      "t": 189.6,
+      "end": 189.6,
+      "text": "[Outro - quena, charango tremolo, zampoña]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Intro - quena melody, charango strum, soft bombo]"
+    },
+    {
+      "t": 38.06,
+      "end": 38.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.06,
+      "end": 40.54,
+      "text": "にちようびの こうえん"
+    },
+    {
+      "t": 42.22,
+      "end": 45.64,
+      "text": "いけの まわりを あるく"
+    },
+    {
+      "t": 48.92,
+      "end": 51.33,
+      "text": "ふるい カメラを ひとつ"
+    },
+    {
+      "t": 51.49,
+      "end": 54.77,
+      "text": "ふたりで かわりばんこ"
+    },
+    {
+      "t": 58.65,
+      "end": 58.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.65,
+      "end": 62.27,
+      "text": "ハーフサイズの フィルム"
+    },
+    {
+      "t": 62.85,
+      "end": 64.87,
+      "text": "にまい ならぶ"
+    },
+    {
+      "t": 69.31,
+      "end": 69.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.31,
+      "end": 72.31,
+      "text": "ぱしゃり きみを とる"
+    },
+    {
+      "t": 74.31,
+      "end": 77.35,
+      "text": "ぱしゃり きみが とる"
+    },
+    {
+      "t": 81.77,
+      "end": 85.37,
+      "text": "ななじゅうにまいの なかに"
+    },
+    {
+      "t": 87.05,
+      "end": 89.75,
+      "text": "ふたり ならんでた"
+    },
+    {
+      "t": 93.35,
+      "end": 93.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.35,
+      "end": 96.35,
+      "text": "げんぞうに だして"
+    },
+    {
+      "t": 97.49,
+      "end": 99.87,
+      "text": "なんかげつ たって"
+    },
+    {
+      "t": 104.19,
+      "end": 106.59,
+      "text": "いちまいに にまい ならぶ"
+    },
+    {
+      "t": 107.27,
+      "end": 109.93,
+      "text": "どれも となりに いる"
+    },
+    {
+      "t": 113.91,
+      "end": 113.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.91,
+      "end": 117.49,
+      "text": "とったのは どっちかな"
+    },
+    {
+      "t": 118.31,
+      "end": 120.05,
+      "text": "どれも わらってる"
+    },
+    {
+      "t": 135.77,
+      "end": 135.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.77,
+      "end": 141.23,
+      "text": "ぱしゃり きみを とる"
+    },
+    {
+      "t": 145.77,
+      "end": 170.72,
+      "text": "ぱしゃり きみが とる"
+    },
+    {
+      "t": 171.08,
+      "end": 178.36,
+      "text": "ななじゅうにまいの すべて"
+    },
+    {
+      "t": 181.28,
+      "end": 189.62,
+      "text": "ふたり ならんでた"
+    },
+    {
+      "t": 189.62,
+      "end": 189.62,
+      "text": "[Outro - quena, charango tremolo, zampoña]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,367 @@
+{
+  "id": "b20_zh03",
+  "title": "我姓范姜",
+  "title_source": "scripted",
+  "genre": "Mandarin Chicago blues shuffle",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "wry, long-suffering, grinning",
+  "persona": "",
+  "subject": "A Taoyuan man with the rare double surname 范姜 has been called 'Mr. Fan' all his life by teachers, waiters and couriers, until the one courier who reads his parcel label right turns out to be a 張簡, forever 'Mr. Zhang'.",
+  "caption": "Mandarin Chicago blues shuffle, twelve-bar AAB form. Overdriven electric guitar answering each vocal line with bent-note fills, amplified harmonica wailing through a bullet mic, walking electric bass, shuffle drums with swung ride and snare backbeat, barrelhouse piano triplets. Warm live-band club mix with slight amp grit. Male baritone, gritty warm chest voice, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, E major. Wry, long-suffering, grinning mood. No rap, no talking-blues, no autotune, no synth pads, no pop drums.",
+  "lyrics": "[Intro - harmonica, guitar riff, shuffle drums]\n\n[Verse 1]\n我姓范姜 不是姓范\n我姓范姜 不是姓范\n老師叫我范同學\n我只好舉手說有\n\n[Chorus]\n唉呀我姓范姜 姓范姜\n快遞喊我范先生\n唉呀我姓范姜 姓范姜\n我的姓有 兩個字\n\n[Verse 2]\n餐廳叫號喊范先生\n我站起來 他看我一眼\n我說我是范姜\n他說好的 范先生\n\n[Chorus]\n唉呀我姓范姜 姓范姜\n單子上寫得清楚\n唉呀我姓范姜 姓范姜\n你再多看一眼\n\n[Verse 3]\n有一天 他念對了\n他說范姜先生 你的貨\n他胸前的名牌寫著\n張簡 兩個字 他笑\n\n[Chorus]\n唉呀我姓范姜 他姓張簡\n他也被叫張先生\n唉呀我們兩個 都兩個字\n這城市 只肯念一半\n\n[Outro - harmonica, guitar fill]\n范姜先生 簽收了",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Mandarin Chicago blues shuffle, twelve-bar AAB form. Overdriven electric guitar answering each vocal line with bent-note fills, amplified harmonica wailing through a bullet mic, walking electric bass, shuffle drums with swung ride and snare backbeat, barrelhouse piano triplets. Warm live-band club mix with slight amp grit. Male baritone, gritty warm chest voice, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, E major. Wry, long-suffering, grinning mood. No rap, no talking-blues, no autotune, no synth pads, no pop drums.",
+    "lyrics": "[Intro - harmonica, guitar riff, shuffle drums]\n\n[Verse 1]\n我姓范姜 不是姓范\n我姓范姜 不是姓范\n老師叫我范同學\n我只好舉手說有\n\n[Chorus]\n唉呀我姓范姜 姓范姜\n快遞喊我范先生\n唉呀我姓范姜 姓范姜\n我的姓有 兩個字\n\n[Verse 2]\n餐廳叫號喊范先生\n我站起來 他看我一眼\n我說我是范姜\n他說好的 范先生\n\n[Chorus]\n唉呀我姓范姜 姓范姜\n單子上寫得清楚\n唉呀我姓范姜 姓范姜\n你再多看一眼\n\n[Verse 3]\n有一天 他念對了\n他說范姜先生 你的貨\n他胸前的名牌寫著\n張簡 兩個字 他笑\n\n[Chorus]\n唉呀我姓范姜 他姓張簡\n他也被叫張先生\n唉呀我們兩個 都兩個字\n這城市 只肯念一半\n\n[Outro - harmonica, guitar fill]\n范姜先生 簽收了\n"
+  },
+  "seed": "2978941043",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 73.03s**\n- 73.03s per song\n- LM phase (1 song): 13.47s\n- DiT phase (1 song): 59.56s",
+  "task_id": "5b61e83c-2101-42bf-94f8-9f8c14569419",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T17:47:31.856429+08:00",
+  "audio": "b20_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.64,
+      "end": 31.64,
+      "text": "[Intro - harmonica, guitar riff, shuffle drums]"
+    },
+    {
+      "t": 31.64,
+      "end": 31.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.64,
+      "end": 34.78,
+      "text": "我姓范姜 不是姓范"
+    },
+    {
+      "t": 39.38,
+      "end": 42.52,
+      "text": "我姓范姜 不是姓范"
+    },
+    {
+      "t": 47.14,
+      "end": 49.5,
+      "text": "老師叫我范同學"
+    },
+    {
+      "t": 49.56,
+      "end": 51.98,
+      "text": "我只好舉手說有"
+    },
+    {
+      "t": 51.98,
+      "end": 51.98,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.98,
+      "end": 53.79,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 53.79,
+      "end": 65.59,
+      "text": "快遞喊我范先生"
+    },
+    {
+      "t": 65.61,
+      "end": 72.55,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 72.63,
+      "end": 74.07,
+      "text": "我的姓有 兩個字"
+    },
+    {
+      "t": 74.07,
+      "end": 74.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.07,
+      "end": 75.53,
+      "text": "餐廳叫號喊范先生"
+    },
+    {
+      "t": 75.53,
+      "end": 81.27,
+      "text": "我站起來 他看我一眼"
+    },
+    {
+      "t": 83.47,
+      "end": 85.29,
+      "text": "我說我是范姜"
+    },
+    {
+      "t": 86.35,
+      "end": 89.37,
+      "text": "他說好的 范先生"
+    },
+    {
+      "t": 90.65,
+      "end": 90.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.65,
+      "end": 101.15,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 101.15,
+      "end": 102.59,
+      "text": "單子上寫得清楚"
+    },
+    {
+      "t": 102.59,
+      "end": 103.95,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 104.01,
+      "end": 108.57,
+      "text": "你再多看一眼"
+    },
+    {
+      "t": 108.61,
+      "end": 108.61,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 108.61,
+      "end": 110.47,
+      "text": "有一天 他念對了"
+    },
+    {
+      "t": 112.75,
+      "end": 116.29,
+      "text": "他說范姜先生 你的貨"
+    },
+    {
+      "t": 123.09,
+      "end": 125.93,
+      "text": "他胸前的名牌寫著"
+    },
+    {
+      "t": 128.39,
+      "end": 131.91,
+      "text": "張簡 兩個字 他笑"
+    },
+    {
+      "t": 140.57,
+      "end": 140.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.57,
+      "end": 143.13,
+      "text": "唉呀我姓范姜 他姓張簡"
+    },
+    {
+      "t": 143.13,
+      "end": 146.15,
+      "text": "他也被叫張先生"
+    },
+    {
+      "t": 146.45,
+      "end": 189.04,
+      "text": "唉呀我們兩個 都兩個字"
+    },
+    {
+      "t": 189.42,
+      "end": 202.18,
+      "text": "這城市 只肯念一半"
+    },
+    {
+      "t": 203.9,
+      "end": 203.9,
+      "text": "[Outro - harmonica, guitar fill]"
+    },
+    {
+      "t": 203.9,
+      "end": 207.78,
+      "text": "范姜先生 簽收了"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.64,
+      "end": 31.64,
+      "text": "[Intro - harmonica, guitar riff, shuffle drums]"
+    },
+    {
+      "t": 31.64,
+      "end": 31.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.64,
+      "end": 34.76,
+      "text": "我姓范姜 不是姓范"
+    },
+    {
+      "t": 39.38,
+      "end": 47.06,
+      "text": "我姓范姜 不是姓范"
+    },
+    {
+      "t": 47.12,
+      "end": 49.5,
+      "text": "老師叫我范同學"
+    },
+    {
+      "t": 49.6,
+      "end": 52.0,
+      "text": "我只好舉手說有"
+    },
+    {
+      "t": 52.06,
+      "end": 52.06,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.06,
+      "end": 62.63,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 62.65,
+      "end": 71.67,
+      "text": "快遞喊我范先生"
+    },
+    {
+      "t": 71.73,
+      "end": 75.25,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 75.25,
+      "end": 76.07,
+      "text": "我的姓有 兩個字"
+    },
+    {
+      "t": 76.07,
+      "end": 76.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.07,
+      "end": 77.05,
+      "text": "餐廳叫號喊范先生"
+    },
+    {
+      "t": 77.05,
+      "end": 81.11,
+      "text": "我站起來 他看我一眼"
+    },
+    {
+      "t": 83.47,
+      "end": 85.27,
+      "text": "我說我是范姜"
+    },
+    {
+      "t": 86.35,
+      "end": 89.37,
+      "text": "他說好的 范先生"
+    },
+    {
+      "t": 108.39,
+      "end": 108.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.39,
+      "end": 109.53,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 109.53,
+      "end": 110.31,
+      "text": "單子上寫得清楚"
+    },
+    {
+      "t": 110.31,
+      "end": 110.99,
+      "text": "唉呀我姓范姜 姓范姜"
+    },
+    {
+      "t": 110.99,
+      "end": 111.29,
+      "text": "你再多看一眼"
+    },
+    {
+      "t": 111.37,
+      "end": 111.37,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 111.37,
+      "end": 112.85,
+      "text": "有一天 他念對了"
+    },
+    {
+      "t": 112.85,
+      "end": 116.27,
+      "text": "他說范姜先生 你的貨"
+    },
+    {
+      "t": 123.09,
+      "end": 125.93,
+      "text": "他胸前的名牌寫著"
+    },
+    {
+      "t": 128.39,
+      "end": 131.83,
+      "text": "張簡 兩個字 他笑"
+    },
+    {
+      "t": 140.57,
+      "end": 140.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.57,
+      "end": 143.11,
+      "text": "唉呀我姓范姜 他姓張簡"
+    },
+    {
+      "t": 143.13,
+      "end": 146.15,
+      "text": "他也被叫張先生"
+    },
+    {
+      "t": 146.43,
+      "end": 189.02,
+      "text": "唉呀我們兩個 都兩個字"
+    },
+    {
+      "t": 189.42,
+      "end": 203.86,
+      "text": "這城市 只肯念一半"
+    },
+    {
+      "t": 203.9,
+      "end": 203.9,
+      "text": "[Outro - harmonica, guitar fill]"
+    },
+    {
+      "t": 203.9,
+      "end": 207.78,
+      "text": "范姜先生 簽收了"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

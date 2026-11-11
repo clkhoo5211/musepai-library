@@ -1,0 +1,367 @@
+{
+  "id": "b20_ko04",
+  "title": "한 개 더",
+  "title_source": "scripted",
+  "genre": "Korean Showa-idol-style kayo pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "tender, shy and bright, like an 80s idol ballad-pop song (an ordinary Wednesday closing time)",
+  "persona": "",
+  "subject": "Sung by a 19-year-old part-timer at a Sinchon donut counter: every Wednesday ten minutes before closing a tired man buys one plain glazed and eats it standing; this week she has read his birthday off his points card and slips a second, pink-sprinkle donut into his box.",
+  "caption": "Korean Showa-idol-style kayo pop with strings and brass. String section playing sweeping run-ups into each chorus, trumpet-and-trombone stabs answering the vocal, bell-toned DX7-style electric piano chords, clean chorus-effect rhythm guitar in sixteenth-note strums, live drum kit with gated snare and rolling tom fills. 80s analog studio sheen with gated reverb. Female clear bright mid-high lead in straight idol-style tone, open full voice, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, A major. Tender, shy and bright. No rap, no trap hi-hats, no autotune, no EDM drop, no breathy vocal.",
+  "lyrics": "[Intro - electric piano, strings sweep]\n\n[Verse 1]\n수요일 저녁 여덟 시\n문 닫기 십 분 전에\n아저씨는 늘 같은 걸\n플레인 글레이즈 하나\n\n[Pre-Chorus]\n서서 먹고 가시는 뒷모습이\n어쩐지 오래 남았어요\n\n[Chorus]\n한 개 더 드릴게요\n핑크 스프링클 도넛이에요\n오늘이 생일이시죠\n포인트 카드에서 봤어요\n\n[Verse 2]\n아저씨가 눈을 깜빡이고\n지갑을 다시 열려고 해요\n저는 손을 흔들어요\n서비스예요, 서비스\n\n[Pre-Chorus]\n초 대신 막대 과자 하나\n꽂아서 상자에 담았어요\n\n[Chorus]\n한 개 더 드릴게요\n생일 축하드려요, 아저씨\n내년에도 수요일에\n꼭 또 오세요\n\n[Bridge - brass stabs, drum fill]\n계산대 서랍 닫는 소리가\n오늘은 노래 같아요\n\n[Outro - strings and electric piano]\n한 개 더, 한 개 더\n또 오세요, 수요일에",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "3",
+    "prompt": "Korean Showa-idol-style kayo pop with strings and brass. String section playing sweeping run-ups into each chorus, trumpet-and-trombone stabs answering the vocal, bell-toned DX7-style electric piano chords, clean chorus-effect rhythm guitar in sixteenth-note strums, live drum kit with gated snare and rolling tom fills. 80s analog studio sheen with gated reverb. Female clear bright mid-high lead in straight idol-style tone, open full voice, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, A major. Tender, shy and bright. No rap, no trap hi-hats, no autotune, no EDM drop, no breathy vocal.",
+    "lyrics": "[Intro - electric piano, strings sweep]\n\n[Verse 1]\n수요일 저녁 여덟 시\n문 닫기 십 분 전에\n아저씨는 늘 같은 걸\n플레인 글레이즈 하나\n\n[Pre-Chorus]\n서서 먹고 가시는 뒷모습이\n어쩐지 오래 남았어요\n\n[Chorus]\n한 개 더 드릴게요\n핑크 스프링클 도넛이에요\n오늘이 생일이시죠\n포인트 카드에서 봤어요\n\n[Verse 2]\n아저씨가 눈을 깜빡이고\n지갑을 다시 열려고 해요\n저는 손을 흔들어요\n서비스예요, 서비스\n\n[Pre-Chorus]\n초 대신 막대 과자 하나\n꽂아서 상자에 담았어요\n\n[Chorus]\n한 개 더 드릴게요\n생일 축하드려요, 아저씨\n내년에도 수요일에\n꼭 또 오세요\n\n[Bridge - brass stabs, drum fill]\n계산대 서랍 닫는 소리가\n오늘은 노래 같아요\n\n[Outro - strings and electric piano]\n한 개 더, 한 개 더\n또 오세요, 수요일에"
+  },
+  "seed": "1295746966",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.85s**\n- 70.85s per song\n- LM phase (1 song): 14.65s\n- DiT phase (1 song): 56.19s",
+  "task_id": "74ef2fe9-794c-45aa-b966-e9a5de6e25f2",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-11-11T16:58:53.316680+08:00",
+  "audio": "b20_ko04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.96,
+      "end": 17.96,
+      "text": "[Intro - electric piano, strings sweep]"
+    },
+    {
+      "t": 17.96,
+      "end": 17.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.96,
+      "end": 20.36,
+      "text": "수요일 저녁 여덟 시"
+    },
+    {
+      "t": 25.3,
+      "end": 29.56,
+      "text": "문 닫기 십 분 전에"
+    },
+    {
+      "t": 31.02,
+      "end": 34.32,
+      "text": "아저씨는 늘 같은 걸"
+    },
+    {
+      "t": 34.88,
+      "end": 37.04,
+      "text": "플레인 글레이즈 하나"
+    },
+    {
+      "t": 39.14,
+      "end": 39.14,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.14,
+      "end": 42.8,
+      "text": "서서 먹고 가시는 뒷모습이"
+    },
+    {
+      "t": 45.34,
+      "end": 49.47,
+      "text": "어쩐지 오래 남았어요"
+    },
+    {
+      "t": 52.77,
+      "end": 52.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.77,
+      "end": 56.45,
+      "text": "한 개 더 드릴게요"
+    },
+    {
+      "t": 59.23,
+      "end": 63.37,
+      "text": "핑크 스프링클 도넛이에요"
+    },
+    {
+      "t": 67.61,
+      "end": 71.41,
+      "text": "오늘이 생일이시죠"
+    },
+    {
+      "t": 73.87,
+      "end": 78.63,
+      "text": "포인트 카드에서 봤어요"
+    },
+    {
+      "t": 84.7,
+      "end": 84.7,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.7,
+      "end": 88.51,
+      "text": "아저씨가 눈을 깜빡이고"
+    },
+    {
+      "t": 88.85,
+      "end": 95.31,
+      "text": "지갑을 다시 열려고 해요"
+    },
+    {
+      "t": 95.33,
+      "end": 97.73,
+      "text": "저는 손을 흔들어요"
+    },
+    {
+      "t": 98.37,
+      "end": 105.03,
+      "text": "서비스예요, 서비스"
+    },
+    {
+      "t": 105.21,
+      "end": 105.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.21,
+      "end": 107.45,
+      "text": "초 대신 막대 과자 하나"
+    },
+    {
+      "t": 107.47,
+      "end": 123.05,
+      "text": "꽂아서 상자에 담았어요"
+    },
+    {
+      "t": 123.23,
+      "end": 123.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.23,
+      "end": 128.01,
+      "text": "한 개 더 드릴게요"
+    },
+    {
+      "t": 128.07,
+      "end": 130.41,
+      "text": "생일 축하드려요, 아저씨"
+    },
+    {
+      "t": 130.41,
+      "end": 134.03,
+      "text": "내년에도 수요일에"
+    },
+    {
+      "t": 134.43,
+      "end": 135.45,
+      "text": "꼭 또 오세요"
+    },
+    {
+      "t": 140.73,
+      "end": 140.73,
+      "text": "[Bridge - brass stabs, drum fill]"
+    },
+    {
+      "t": 140.73,
+      "end": 144.79,
+      "text": "계산대 서랍 닫는 소리가"
+    },
+    {
+      "t": 144.91,
+      "end": 149.58,
+      "text": "오늘은 노래 같아요"
+    },
+    {
+      "t": 153.16,
+      "end": 153.16,
+      "text": "[Outro - strings and electric piano]"
+    },
+    {
+      "t": 153.16,
+      "end": 168.04,
+      "text": "한 개 더, 한 개 더"
+    },
+    {
+      "t": 168.84,
+      "end": 176.3,
+      "text": "또 오세요, 수요일에"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.96,
+      "end": 17.96,
+      "text": "[Intro - electric piano, strings sweep]"
+    },
+    {
+      "t": 17.96,
+      "end": 17.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.96,
+      "end": 20.36,
+      "text": "수요일 저녁 여덟 시"
+    },
+    {
+      "t": 25.28,
+      "end": 29.58,
+      "text": "문 닫기 십 분 전에"
+    },
+    {
+      "t": 31.02,
+      "end": 34.32,
+      "text": "아저씨는 늘 같은 걸"
+    },
+    {
+      "t": 34.88,
+      "end": 37.06,
+      "text": "플레인 글레이즈 하나"
+    },
+    {
+      "t": 39.14,
+      "end": 39.14,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.14,
+      "end": 42.8,
+      "text": "서서 먹고 가시는 뒷모습이"
+    },
+    {
+      "t": 45.32,
+      "end": 49.47,
+      "text": "어쩐지 오래 남았어요"
+    },
+    {
+      "t": 52.75,
+      "end": 52.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.75,
+      "end": 56.45,
+      "text": "한 개 더 드릴게요"
+    },
+    {
+      "t": 59.23,
+      "end": 63.37,
+      "text": "핑크 스프링클 도넛이에요"
+    },
+    {
+      "t": 67.61,
+      "end": 71.41,
+      "text": "오늘이 생일이시죠"
+    },
+    {
+      "t": 73.83,
+      "end": 78.63,
+      "text": "포인트 카드에서 봤어요"
+    },
+    {
+      "t": 79.47,
+      "end": 79.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.47,
+      "end": 88.21,
+      "text": "아저씨가 눈을 깜빡이고"
+    },
+    {
+      "t": 88.37,
+      "end": 95.39,
+      "text": "지갑을 다시 열려고 해요"
+    },
+    {
+      "t": 95.77,
+      "end": 103.13,
+      "text": "저는 손을 흔들어요"
+    },
+    {
+      "t": 103.25,
+      "end": 107.23,
+      "text": "서비스예요, 서비스"
+    },
+    {
+      "t": 107.47,
+      "end": 107.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.47,
+      "end": 126.95,
+      "text": "초 대신 막대 과자 하나"
+    },
+    {
+      "t": 127.73,
+      "end": 129.79,
+      "text": "꽂아서 상자에 담았어요"
+    },
+    {
+      "t": 129.79,
+      "end": 129.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.79,
+      "end": 130.55,
+      "text": "한 개 더 드릴게요"
+    },
+    {
+      "t": 130.95,
+      "end": 133.89,
+      "text": "생일 축하드려요, 아저씨"
+    },
+    {
+      "t": 133.91,
+      "end": 135.81,
+      "text": "내년에도 수요일에"
+    },
+    {
+      "t": 135.81,
+      "end": 140.71,
+      "text": "꼭 또 오세요"
+    },
+    {
+      "t": 140.73,
+      "end": 140.73,
+      "text": "[Bridge - brass stabs, drum fill]"
+    },
+    {
+      "t": 140.73,
+      "end": 148.56,
+      "text": "계산대 서랍 닫는 소리가"
+    },
+    {
+      "t": 149.2,
+      "end": 159.06,
+      "text": "오늘은 노래 같아요"
+    },
+    {
+      "t": 164.8,
+      "end": 164.8,
+      "text": "[Outro - strings and electric piano]"
+    },
+    {
+      "t": 164.8,
+      "end": 168.02,
+      "text": "한 개 더, 한 개 더"
+    },
+    {
+      "t": 168.82,
+      "end": 188.18,
+      "text": "또 오세요, 수요일에"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,474 @@
+{
+  "id": "b20_en04",
+  "title": "I Only Asked About the Fountain",
+  "title_source": "scripted",
+  "genre": "vintage calypso",
+  "language": "en",
+  "language_name": "English",
+  "mood": "witty, sunny, mock-indignant",
+  "persona": "",
+  "subject": "A man new to town goes to his first residents' association AGM only to ask why the square's fountain has been dry since 2016, raises his hand at the wrong moment, and walks home elected treasurer, carrying a biscuit tin with £41.17 in it.",
+  "caption": "Vintage calypso, 1950s Trinidadian storytelling calypso with a gentle shuffle. Nylon-string acoustic guitar strumming a syncopated calypso rhythm, upright bass on a bouncing two-beat, clarinet answering each vocal line, muted trumpet riffs between verses, bongos and shak-shak maracas. Dry vintage studio sound, close mics, slight tape warmth. Male tenor, lilting storytelling melody with crisp diction, chorus singers answering the refrain. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, F major. Witty, sunny, mock-indignant. No electronic drums, no soca synths, no autotune, no rap, no electric guitar distortion, no modern pop production.",
+  "lyrics": "[Intro - nylon guitar, clarinet, bongos]\n\n[Verse 1]\nI moved to the street in the month of May\nWent to the meeting to have my say\nOne little question, I thought it was fair\nWhy is the fountain dry in the square?\n\n[Pre-Chorus]\nThe chairman said, any volunteer?\nI raised my hand to scratch my ear\n\n[Chorus]\nI only asked about the fountain\nNow I'm the treasurer, Lord have mercy\nForty-one pounds and seventeen pence\nIn a biscuit tin, I only asked about the fountain\n\n[Verse 2]\nThey gave me the tin and they gave me the key\nA ledger, a pencil and a cup of tea\nDry since twenty-sixteen, they say\nAnd my forty-one pounds won't fix it today\n\n[Pre-Chorus]\nThe chairman said, all in favour, aye\nI said, I only came to ask why\n\n[Chorus]\nI only asked about the fountain\nNow I'm the treasurer, who will help me\nForty-one pounds and seventeen pence\nAnd a dry fountain, I only asked about the fountain\n\n[Outro - clarinet, muted trumpet, shak-shak]\nOnly asked about the fountain",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Vintage calypso, 1950s Trinidadian storytelling calypso with a gentle shuffle. Nylon-string acoustic guitar strumming a syncopated calypso rhythm, upright bass on a bouncing two-beat, clarinet answering each vocal line, muted trumpet riffs between verses, bongos and shak-shak maracas. Dry vintage studio sound, close mics, slight tape warmth. Male tenor, lilting storytelling melody with crisp diction, chorus singers answering the refrain. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, F major. Witty, sunny, mock-indignant. No electronic drums, no soca synths, no autotune, no rap, no electric guitar distortion, no modern pop production.",
+    "lyrics": "[Intro - nylon guitar, clarinet, bongos]\n\n[Verse 1]\nI moved to the street in the month of May\nWent to the meeting to have my say\nOne little question, I thought it was fair\nWhy is the fountain dry in the square?\n\n[Pre-Chorus]\nThe chairman said, any volunteer?\nI raised my hand to scratch my ear\n\n[Chorus]\nI only asked about the fountain\nNow I'm the treasurer, Lord have mercy\nForty-one pounds and seventeen pence\nIn a biscuit tin, I only asked about the fountain\n\n[Verse 2]\nThey gave me the tin and they gave me the key\nA ledger, a pencil and a cup of tea\nDry since twenty-sixteen, they say\nAnd my forty-one pounds won't fix it today\n\n[Pre-Chorus]\nThe chairman said, all in favour, aye\nI said, I only came to ask why\n\n[Chorus]\nI only asked about the fountain\nNow I'm the treasurer, who will help me\nForty-one pounds and seventeen pence\nAnd a dry fountain, I only asked about the fountain\n\n[Outro - clarinet, muted trumpet, shak-shak]\nOnly asked about the fountain"
+  },
+  "seed": "1698979574",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.39s**\n- 66.39s per song\n- LM phase (1 song): 11.83s\n- DiT phase (1 song): 54.56s",
+  "task_id": "d7713776-5d8e-4bad-b08f-f503d13e5859",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-11T17:41:31.119972+08:00",
+  "audio": "b20_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 37.18,
+      "end": 37.18,
+      "text": "[Intro - nylon guitar, clarinet, bongos]"
+    },
+    {
+      "t": 37.18,
+      "end": 37.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.18,
+      "end": 40.38,
+      "text": "I moved to the street in the month of May"
+    },
+    {
+      "t": 41.82,
+      "end": 44.64,
+      "text": "Went to the meeting to have my say"
+    },
+    {
+      "t": 46.66,
+      "end": 48.55,
+      "text": "One little question, I thought it was fair"
+    },
+    {
+      "t": 48.59,
+      "end": 49.39,
+      "text": "Why is the fountain dry in the square?"
+    },
+    {
+      "t": 49.39,
+      "end": 49.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.39,
+      "end": 50.87,
+      "text": "The chairman said, any volunteer?"
+    },
+    {
+      "t": 51.01,
+      "end": 55.01,
+      "text": "I raised my hand to scratch my ear"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.05,
+      "end": 60.51,
+      "text": "I only asked about the fountain"
+    },
+    {
+      "t": 60.53,
+      "end": 63.39,
+      "text": "Now I'm the treasurer, Lord have mercy"
+    },
+    {
+      "t": 64.65,
+      "end": 72.77,
+      "text": "Forty-one pounds and seventeen pence"
+    },
+    {
+      "t": 73.19,
+      "end": 80.23,
+      "text": "In a biscuit tin, I only asked about the fountain"
+    },
+    {
+      "t": 86.99,
+      "end": 86.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.99,
+      "end": 90.65,
+      "text": "They gave me the tin and they gave me the key"
+    },
+    {
+      "t": 91.57,
+      "end": 95.07,
+      "text": "A ledger, a pencil and a cup of tea"
+    },
+    {
+      "t": 95.97,
+      "end": 107.69,
+      "text": "Dry since twenty-sixteen, they say"
+    },
+    {
+      "t": 108.91,
+      "end": 113.09,
+      "text": "And my forty-one pounds won't fix it today"
+    },
+    {
+      "t": 114.19,
+      "end": 114.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.19,
+      "end": 118.11,
+      "text": "The chairman said, all in favour, aye"
+    },
+    {
+      "t": 118.17,
+      "end": 122.35,
+      "text": "I said, I only came to ask why"
+    },
+    {
+      "t": 130.71,
+      "end": 130.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.71,
+      "end": 132.57,
+      "text": "I only asked about the fountain"
+    },
+    {
+      "t": 135.23,
+      "end": 138.19,
+      "text": "Now I'm the treasurer, who will help me"
+    },
+    {
+      "t": 139.35,
+      "end": 143.3,
+      "text": "Forty-one pounds and seventeen pence"
+    },
+    {
+      "t": 144.56,
+      "end": 157.26,
+      "text": "And a dry fountain, I only asked about the fountain"
+    },
+    {
+      "t": 180.98,
+      "end": 180.98,
+      "text": "[Outro - clarinet, muted trumpet, shak-shak]"
+    },
+    {
+      "t": 180.98,
+      "end": 183.68,
+      "text": "Only asked about the fountain"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 37.18,
+      "end": 37.18,
+      "text": "[Intro - nylon guitar, clarinet, bongos]"
+    },
+    {
+      "t": 37.18,
+      "end": 37.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.18,
+      "end": 40.38,
+      "text": "I moved to the street in the month of May"
+    },
+    {
+      "t": 41.82,
+      "end": 44.64,
+      "text": "Went to the meeting to have my say"
+    },
+    {
+      "t": 46.66,
+      "end": 48.55,
+      "text": "One little question, I thought it was fair"
+    },
+    {
+      "t": 48.59,
+      "end": 49.39,
+      "text": "Why is the fountain dry in the square?"
+    },
+    {
+      "t": 49.39,
+      "end": 49.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.39,
+      "end": 50.87,
+      "text": "The chairman said, any volunteer?"
+    },
+    {
+      "t": 51.01,
+      "end": 55.01,
+      "text": "I raised my hand to scratch my ear"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.05,
+      "end": 60.51,
+      "text": "I only asked about the fountain"
+    },
+    {
+      "t": 60.53,
+      "end": 63.39,
+      "text": "Now I'm the treasurer, Lord have mercy"
+    },
+    {
+      "t": 64.65,
+      "end": 72.77,
+      "text": "Forty-one pounds and seventeen pence"
+    },
+    {
+      "t": 73.19,
+      "end": 80.23,
+      "text": "In a biscuit tin, I only asked about the fountain"
+    },
+    {
+      "t": 86.99,
+      "end": 86.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.99,
+      "end": 90.65,
+      "text": "They gave me the tin and they gave me the key"
+    },
+    {
+      "t": 91.57,
+      "end": 95.07,
+      "text": "A ledger, a pencil and a cup of tea"
+    },
+    {
+      "t": 95.97,
+      "end": 107.69,
+      "text": "Dry since twenty-sixteen, they say"
+    },
+    {
+      "t": 108.91,
+      "end": 113.09,
+      "text": "And my forty-one pounds won't fix it today"
+    },
+    {
+      "t": 114.19,
+      "end": 114.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.19,
+      "end": 118.11,
+      "text": "The chairman said, all in favour, aye"
+    },
+    {
+      "t": 118.17,
+      "end": 122.35,
+      "text": "I said, I only came to ask why"
+    },
+    {
+      "t": 130.71,
+      "end": 130.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.71,
+      "end": 132.57,
+      "text": "I only asked about the fountain"
+    },
+    {
+      "t": 135.23,
+      "end": 138.19,
+      "text": "Now I'm the treasurer, who will help me"
+    },
+    {
+      "t": 139.35,
+      "end": 143.3,
+      "text": "Forty-one pounds and seventeen pence"
+    },
+    {
+      "t": 144.56,
+      "end": 157.26,
+      "text": "And a dry fountain, I only asked about the fountain"
+    },
+    {
+      "t": 180.98,
+      "end": 180.98,
+      "text": "[Outro - clarinet, muted trumpet, shak-shak]"
+    },
+    {
+      "t": 180.98,
+      "end": 183.68,
+      "text": "Only asked about the fountain"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 37.18,
+      "end": 37.18,
+      "text": "[Intro - nylon guitar, clarinet, bongos]"
+    },
+    {
+      "t": 37.18,
+      "end": 37.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 37.18,
+      "end": 40.42,
+      "text": "I moved to the street in the month of May"
+    },
+    {
+      "t": 41.82,
+      "end": 44.68,
+      "text": "Went to the meeting to have my say"
+    },
+    {
+      "t": 46.66,
+      "end": 49.21,
+      "text": "One little question, I thought it was fair"
+    },
+    {
+      "t": 49.21,
+      "end": 49.81,
+      "text": "Why is the fountain dry in the square?"
+    },
+    {
+      "t": 49.87,
+      "end": 49.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.87,
+      "end": 51.01,
+      "text": "The chairman said, any volunteer?"
+    },
+    {
+      "t": 51.01,
+      "end": 54.95,
+      "text": "I raised my hand to scratch my ear"
+    },
+    {
+      "t": 54.95,
+      "end": 54.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.95,
+      "end": 60.49,
+      "text": "I only asked about the fountain"
+    },
+    {
+      "t": 60.53,
+      "end": 63.39,
+      "text": "Now I'm the treasurer, Lord have mercy"
+    },
+    {
+      "t": 64.65,
+      "end": 72.77,
+      "text": "Forty-one pounds and seventeen pence"
+    },
+    {
+      "t": 73.17,
+      "end": 82.45,
+      "text": "In a biscuit tin, I only asked about the fountain"
+    },
+    {
+      "t": 87.01,
+      "end": 87.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.01,
+      "end": 90.65,
+      "text": "They gave me the tin and they gave me the key"
+    },
+    {
+      "t": 91.57,
+      "end": 95.09,
+      "text": "A ledger, a pencil and a cup of tea"
+    },
+    {
+      "t": 95.97,
+      "end": 107.73,
+      "text": "Dry since twenty-sixteen, they say"
+    },
+    {
+      "t": 108.91,
+      "end": 113.11,
+      "text": "And my forty-one pounds won't fix it today"
+    },
+    {
+      "t": 114.19,
+      "end": 114.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.19,
+      "end": 116.75,
+      "text": "The chairman said, all in favour, aye"
+    },
+    {
+      "t": 118.17,
+      "end": 122.29,
+      "text": "I said, I only came to ask why"
+    },
+    {
+      "t": 130.71,
+      "end": 130.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.71,
+      "end": 133.41,
+      "text": "I only asked about the fountain"
+    },
+    {
+      "t": 135.23,
+      "end": 138.19,
+      "text": "Now I'm the treasurer, who will help me"
+    },
+    {
+      "t": 139.35,
+      "end": 143.34,
+      "text": "Forty-one pounds and seventeen pence"
+    },
+    {
+      "t": 144.54,
+      "end": 157.28,
+      "text": "And a dry fountain, I only asked about the fountain"
+    },
+    {
+      "t": 181.0,
+      "end": 181.0,
+      "text": "[Outro - clarinet, muted trumpet, shak-shak]"
+    },
+    {
+      "t": 181.0,
+      "end": 183.66,
+      "text": "Only asked about the fountain"
+    }
+  ]
+}

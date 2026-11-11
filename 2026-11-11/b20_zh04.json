@@ -1,0 +1,549 @@
+{
+  "id": "b20_zh04",
+  "title": "你坐我右邊",
+  "title_source": "scripted",
+  "genre": "Mandarin retro kayokyoku pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "sweet, shy, contented",
+  "persona": "",
+  "subject": "A left-handed woman and right-handed boyfriend whose elbows knocked all through their first date at a seven-stool ramen counter; now she always sits on his left so they can eat and hold hands, and when only the wrong seats are free, both eat wrong-handed.",
+  "caption": "Mandarin retro kayokyoku pop in the 1970s Taiwanese ballad style with a light rumba lilt. Nylon-string guitar arpeggios, legato string section with answering counter-lines, tremolo mandolin fills between vocal phrases, round electric bass on root and fifth, brushed drums with rim-clicks. Warm vintage studio mix with plate reverb. Female vocal, sweet clear mid-register in full voice with gentle vibrato and small ornamental turns at line ends. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, G major. Sweet, shy, contented mood. No rap, no autotune, no electronic drums, no synth bass, no whispered or crooned delivery.",
+  "lyrics": "[Intro - nylon guitar, mandolin, strings]\n\n[Verse 1]\n拉麵店只有七張板凳\n我們第一次約會\n你的右手 我的左手\n筷子打架 手肘也碰到\n\n[Pre-Chorus]\n你說對不起 我說沒關係\n麵都涼了 臉卻很熱\n\n[Chorus]\n你坐我右邊 我坐你左邊\n這樣就能 牽著手吃麵\n你坐我右邊 慢慢吃不急\n湯是熱的 手也是\n\n[Verse 2]\n後來每次排隊進去\n我先看哪裡有空位\n老闆笑著指一指\n我們走向 靠牆那兩張\n\n[Pre-Chorus]\n有一天座位被占了\n只剩你左邊我右邊\n\n[Chorus]\n你坐我右邊 我坐你左邊\n這樣就能 牽著手吃麵\n你坐我右邊 換手也不怕\n兩個人 都用錯手\n\n[Chorus]\n你坐我右邊 我坐你左邊\n這樣就能 牽著手吃麵\n你坐我右邊 慢慢吃不急\n湯是熱的 手更熱\n\n[Outro - nylon guitar, strings fade]\n下次我還坐你左邊",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Mandarin retro kayokyoku pop in the 1970s Taiwanese ballad style with a light rumba lilt. Nylon-string guitar arpeggios, legato string section with answering counter-lines, tremolo mandolin fills between vocal phrases, round electric bass on root and fifth, brushed drums with rim-clicks. Warm vintage studio mix with plate reverb. Female vocal, sweet clear mid-register in full voice with gentle vibrato and small ornamental turns at line ends. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, G major. Sweet, shy, contented mood. No rap, no autotune, no electronic drums, no synth bass, no whispered or crooned delivery.",
+    "lyrics": "[Intro - nylon guitar, mandolin, strings]\n\n[Verse 1]\n拉麵店只有七張板凳\n我們第一次約會\n你的右手 我的左手\n筷子打架 手肘也碰到\n\n[Pre-Chorus]\n你說對不起 我說沒關係\n麵都涼了 臉卻很熱\n\n[Chorus]\n你坐我右邊 我坐你左邊\n這樣就能 牽著手吃麵\n你坐我右邊 慢慢吃不急\n湯是熱的 手也是\n\n[Verse 2]\n後來每次排隊進去\n我先看哪裡有空位\n老闆笑著指一指\n我們走向 靠牆那兩張\n\n[Pre-Chorus]\n有一天座位被占了\n只剩你左邊我右邊\n\n[Chorus]\n你坐我右邊 我坐你左邊\n這樣就能 牽著手吃麵\n你坐我右邊 換手也不怕\n兩個人 都用錯手\n\n[Chorus]\n你坐我右邊 我坐你左邊\n這樣就能 牽著手吃麵\n你坐我右邊 慢慢吃不急\n湯是熱的 手更熱\n\n[Outro - nylon guitar, strings fade]\n下次我還坐你左邊\n"
+  },
+  "seed": "1811937915",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.22s**\n- 71.22s per song\n- LM phase (1 song): 16.50s\n- DiT phase (1 song): 54.72s",
+  "task_id": "f2280207-193f-40f0-acf1-c90334ed700a",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T17:49:01.977859+08:00",
+  "audio": "b20_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Intro - nylon guitar, mandolin, strings]"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.72,
+      "end": 32.14,
+      "text": "拉麵店只有七張板凳"
+    },
+    {
+      "t": 33.88,
+      "end": 36.9,
+      "text": "我們第一次約會"
+    },
+    {
+      "t": 39.7,
+      "end": 43.06,
+      "text": "你的右手 我的左手"
+    },
+    {
+      "t": 44.82,
+      "end": 48.2,
+      "text": "筷子打架 手肘也碰到"
+    },
+    {
+      "t": 50.0,
+      "end": 50.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.0,
+      "end": 53.52,
+      "text": "你說對不起 我說沒關係"
+    },
+    {
+      "t": 55.15,
+      "end": 58.87,
+      "text": "麵都涼了 臉卻很熱"
+    },
+    {
+      "t": 60.75,
+      "end": 60.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.75,
+      "end": 64.47,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 66.21,
+      "end": 71.61,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 71.67,
+      "end": 76.95,
+      "text": "你坐我右邊 慢慢吃不急"
+    },
+    {
+      "t": 77.03,
+      "end": 83.11,
+      "text": "湯是熱的 手也是"
+    },
+    {
+      "t": 85.99,
+      "end": 85.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.99,
+      "end": 88.55,
+      "text": "後來每次排隊進去"
+    },
+    {
+      "t": 91.15,
+      "end": 94.17,
+      "text": "我先看哪裡有空位"
+    },
+    {
+      "t": 94.73,
+      "end": 99.43,
+      "text": "老闆笑著指一指"
+    },
+    {
+      "t": 99.43,
+      "end": 102.81,
+      "text": "我們走向 靠牆那兩張"
+    },
+    {
+      "t": 102.81,
+      "end": 102.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.81,
+      "end": 108.31,
+      "text": "有一天座位被占了"
+    },
+    {
+      "t": 108.33,
+      "end": 109.53,
+      "text": "只剩你左邊我右邊"
+    },
+    {
+      "t": 109.55,
+      "end": 109.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.55,
+      "end": 111.85,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 113.63,
+      "end": 114.67,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 114.77,
+      "end": 116.49,
+      "text": "你坐我右邊 換手也不怕"
+    },
+    {
+      "t": 116.53,
+      "end": 119.27,
+      "text": "兩個人 都用錯手"
+    },
+    {
+      "t": 119.27,
+      "end": 119.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.27,
+      "end": 120.01,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 120.01,
+      "end": 182.1,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 182.12,
+      "end": 183.78,
+      "text": "你坐我右邊 慢慢吃不急"
+    },
+    {
+      "t": 183.78,
+      "end": 184.94,
+      "text": "湯是熱的 手更熱"
+    },
+    {
+      "t": 184.94,
+      "end": 184.94,
+      "text": "[Outro - nylon guitar, strings fade]"
+    },
+    {
+      "t": 184.94,
+      "end": 186.36,
+      "text": "下次我還坐你左邊"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Intro - nylon guitar, mandolin, strings]"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.72,
+      "end": 32.14,
+      "text": "拉麵店只有七張板凳"
+    },
+    {
+      "t": 33.88,
+      "end": 36.9,
+      "text": "我們第一次約會"
+    },
+    {
+      "t": 39.7,
+      "end": 43.06,
+      "text": "你的右手 我的左手"
+    },
+    {
+      "t": 44.82,
+      "end": 48.2,
+      "text": "筷子打架 手肘也碰到"
+    },
+    {
+      "t": 50.0,
+      "end": 50.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.0,
+      "end": 53.52,
+      "text": "你說對不起 我說沒關係"
+    },
+    {
+      "t": 55.15,
+      "end": 58.87,
+      "text": "麵都涼了 臉卻很熱"
+    },
+    {
+      "t": 60.75,
+      "end": 60.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.75,
+      "end": 64.47,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 66.21,
+      "end": 71.61,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 71.67,
+      "end": 76.95,
+      "text": "你坐我右邊 慢慢吃不急"
+    },
+    {
+      "t": 77.03,
+      "end": 83.11,
+      "text": "湯是熱的 手也是"
+    },
+    {
+      "t": 85.99,
+      "end": 85.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.99,
+      "end": 88.55,
+      "text": "後來每次排隊進去"
+    },
+    {
+      "t": 91.15,
+      "end": 94.17,
+      "text": "我先看哪裡有空位"
+    },
+    {
+      "t": 94.73,
+      "end": 99.43,
+      "text": "老闆笑著指一指"
+    },
+    {
+      "t": 99.43,
+      "end": 102.81,
+      "text": "我們走向 靠牆那兩張"
+    },
+    {
+      "t": 102.81,
+      "end": 102.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.81,
+      "end": 108.31,
+      "text": "有一天座位被占了"
+    },
+    {
+      "t": 108.33,
+      "end": 109.53,
+      "text": "只剩你左邊我右邊"
+    },
+    {
+      "t": 109.55,
+      "end": 109.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.55,
+      "end": 111.85,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 113.63,
+      "end": 114.67,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 114.77,
+      "end": 116.49,
+      "text": "你坐我右邊 換手也不怕"
+    },
+    {
+      "t": 116.53,
+      "end": 119.27,
+      "text": "兩個人 都用錯手"
+    },
+    {
+      "t": 119.27,
+      "end": 119.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.27,
+      "end": 120.01,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 120.01,
+      "end": 182.1,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 182.12,
+      "end": 183.78,
+      "text": "你坐我右邊 慢慢吃不急"
+    },
+    {
+      "t": 183.78,
+      "end": 184.94,
+      "text": "湯是熱的 手更熱"
+    },
+    {
+      "t": 184.94,
+      "end": 184.94,
+      "text": "[Outro - nylon guitar, strings fade]"
+    },
+    {
+      "t": 184.94,
+      "end": 186.36,
+      "text": "下次我還坐你左邊"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Intro - nylon guitar, mandolin, strings]"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.72,
+      "end": 32.16,
+      "text": "拉麵店只有七張板凳"
+    },
+    {
+      "t": 33.88,
+      "end": 36.76,
+      "text": "我們第一次約會"
+    },
+    {
+      "t": 39.7,
+      "end": 43.06,
+      "text": "你的右手 我的左手"
+    },
+    {
+      "t": 44.82,
+      "end": 48.16,
+      "text": "筷子打架 手肘也碰到"
+    },
+    {
+      "t": 49.98,
+      "end": 49.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.98,
+      "end": 53.52,
+      "text": "你說對不起 我說沒關係"
+    },
+    {
+      "t": 55.15,
+      "end": 58.87,
+      "text": "麵都涼了 臉卻很熱"
+    },
+    {
+      "t": 60.75,
+      "end": 60.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.75,
+      "end": 64.45,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 66.21,
+      "end": 71.63,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 71.69,
+      "end": 76.61,
+      "text": "你坐我右邊 慢慢吃不急"
+    },
+    {
+      "t": 76.91,
+      "end": 83.11,
+      "text": "湯是熱的 手也是"
+    },
+    {
+      "t": 85.99,
+      "end": 85.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.99,
+      "end": 88.55,
+      "text": "後來每次排隊進去"
+    },
+    {
+      "t": 91.15,
+      "end": 94.17,
+      "text": "我先看哪裡有空位"
+    },
+    {
+      "t": 94.71,
+      "end": 99.43,
+      "text": "老闆笑著指一指"
+    },
+    {
+      "t": 99.43,
+      "end": 102.75,
+      "text": "我們走向 靠牆那兩張"
+    },
+    {
+      "t": 102.75,
+      "end": 102.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.75,
+      "end": 108.53,
+      "text": "有一天座位被占了"
+    },
+    {
+      "t": 108.53,
+      "end": 109.47,
+      "text": "只剩你左邊我右邊"
+    },
+    {
+      "t": 109.49,
+      "end": 109.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.49,
+      "end": 111.85,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 113.63,
+      "end": 118.93,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 118.97,
+      "end": 131.13,
+      "text": "你坐我右邊 換手也不怕"
+    },
+    {
+      "t": 131.13,
+      "end": 144.67,
+      "text": "兩個人 都用錯手"
+    },
+    {
+      "t": 146.29,
+      "end": 146.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.29,
+      "end": 152.87,
+      "text": "你坐我右邊 我坐你左邊"
+    },
+    {
+      "t": 152.87,
+      "end": 163.74,
+      "text": "這樣就能 牽著手吃麵"
+    },
+    {
+      "t": 163.8,
+      "end": 180.38,
+      "text": "你坐我右邊 慢慢吃不急"
+    },
+    {
+      "t": 181.62,
+      "end": 182.78,
+      "text": "湯是熱的 手更熱"
+    },
+    {
+      "t": 182.84,
+      "end": 182.84,
+      "text": "[Outro - nylon guitar, strings fade]"
+    },
+    {
+      "t": 182.84,
+      "end": 186.16,
+      "text": "下次我還坐你左邊"
+    }
+  ]
+}

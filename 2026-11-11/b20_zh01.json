@@ -1,0 +1,367 @@
+{
+  "id": "b20_zh01",
+  "title": "陳怡君請上車",
+  "title_source": "scripted",
+  "genre": "Mandarin square-dance folk-disco",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "boisterous, proud, coach-party comic",
+  "persona": "",
+  "subject": "Number 17 of forty-three women all named 陳怡君 on their namesake club's coach trip, where roll call is one name answered forty-three times; when a rest-area loudspeaker pages the late one, three strangers with that name come running too.",
+  "caption": "Mandarin square-dance folk-disco, Chinese minzu-style dance-floor groove. Dizi bamboo flute playing a staccato pentatonic hook, erhu doubling the chorus melody with slides, octave-bouncing synth bass, four-on-the-floor kick with off-beat open hi-hat and handclaps, bright synth-brass stabs. Bright polished dance mix with big handclaps. Female lead, bright chest-voice belt in a mid-high register with folk-style turns, women's unison group answering the name in the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 130 BPM, A minor. Boisterous, proud coach-party comic mood. No rap, no trap hi-hats, no autotune, no EDM drops, no ballad slowdown.",
+  "lyrics": "[Intro - dizi hook, handclaps, synth bass]\n\n[Verse 1]\n遊覽車上四十三個人\n全部都叫陳怡君\n導遊拿著名單點名\n點一個 全車都答應\n\n[Chorus]\n陳怡君 請上車\n陳怡君 在這裡\n陳怡君 請上車\n四十三個 一起答到\n\n[Verse 2]\n休息站的大喇叭響\n陳怡君小姐 請回車上\n我們四十三個全回頭\n遲到的那位 還在廁所\n\n[Pre-Chorus]\n這時三個陌生人\n拎著包包跑過來\n她們也叫陳怡君\n導遊的頭都大了\n\n[Chorus]\n陳怡君 請上車\n陳怡君 在這裡\n陳怡君 請上車\n路人怡君 也擠上來\n\n[Chorus]\n陳怡君 請上車\n陳怡君 在這裡\n陳怡君 請上車\n全都到齊 一起出發\n\n[Outro - dizi, synth brass fade]\n十七號怡君 坐好了",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 130,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Mandarin square-dance folk-disco, Chinese minzu-style dance-floor groove. Dizi bamboo flute playing a staccato pentatonic hook, erhu doubling the chorus melody with slides, octave-bouncing synth bass, four-on-the-floor kick with off-beat open hi-hat and handclaps, bright synth-brass stabs. Bright polished dance mix with big handclaps. Female lead, bright chest-voice belt in a mid-high register with folk-style turns, women's unison group answering the name in the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 130 BPM, A minor. Boisterous, proud coach-party comic mood. No rap, no trap hi-hats, no autotune, no EDM drops, no ballad slowdown.",
+    "lyrics": "[Intro - dizi hook, handclaps, synth bass]\n\n[Verse 1]\n遊覽車上四十三個人\n全部都叫陳怡君\n導遊拿著名單點名\n點一個 全車都答應\n\n[Chorus]\n陳怡君 請上車\n陳怡君 在這裡\n陳怡君 請上車\n四十三個 一起答到\n\n[Verse 2]\n休息站的大喇叭響\n陳怡君小姐 請回車上\n我們四十三個全回頭\n遲到的那位 還在廁所\n\n[Pre-Chorus]\n這時三個陌生人\n拎著包包跑過來\n她們也叫陳怡君\n導遊的頭都大了\n\n[Chorus]\n陳怡君 請上車\n陳怡君 在這裡\n陳怡君 請上車\n路人怡君 也擠上來\n\n[Chorus]\n陳怡君 請上車\n陳怡君 在這裡\n陳怡君 請上車\n全都到齊 一起出發\n\n[Outro - dizi, synth brass fade]\n十七號怡君 坐好了\n"
+  },
+  "seed": "2153278689",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.50s**\n- 66.50s per song\n- LM phase (1 song): 13.40s\n- DiT phase (1 song): 53.11s",
+  "task_id": "614dd7b5-1e89-493e-8463-945244bd3237",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-11T17:44:31.664516+08:00",
+  "audio": "b20_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.52,
+      "end": 23.52,
+      "text": "[Intro - dizi hook, handclaps, synth bass]"
+    },
+    {
+      "t": 23.52,
+      "end": 23.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.52,
+      "end": 26.36,
+      "text": "遊覽車上四十三個人"
+    },
+    {
+      "t": 28.78,
+      "end": 36.1,
+      "text": "全部都叫陳怡君"
+    },
+    {
+      "t": 36.2,
+      "end": 43.42,
+      "text": "導遊拿著名單點名"
+    },
+    {
+      "t": 43.5,
+      "end": 48.22,
+      "text": "點一個 全車都答應"
+    },
+    {
+      "t": 52.55,
+      "end": 52.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.55,
+      "end": 55.23,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 56.25,
+      "end": 58.95,
+      "text": "陳怡君 在這裡"
+    },
+    {
+      "t": 59.93,
+      "end": 64.45,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 64.63,
+      "end": 66.45,
+      "text": "四十三個 一起答到"
+    },
+    {
+      "t": 67.53,
+      "end": 67.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.53,
+      "end": 70.17,
+      "text": "休息站的大喇叭響"
+    },
+    {
+      "t": 70.97,
+      "end": 73.81,
+      "text": "陳怡君小姐 請回車上"
+    },
+    {
+      "t": 74.45,
+      "end": 77.31,
+      "text": "我們四十三個全回頭"
+    },
+    {
+      "t": 78.07,
+      "end": 80.71,
+      "text": "遲到的那位 還在廁所"
+    },
+    {
+      "t": 82.13,
+      "end": 82.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.13,
+      "end": 85.29,
+      "text": "這時三個陌生人"
+    },
+    {
+      "t": 85.37,
+      "end": 88.57,
+      "text": "拎著包包跑過來"
+    },
+    {
+      "t": 89.03,
+      "end": 92.65,
+      "text": "她們也叫陳怡君"
+    },
+    {
+      "t": 92.75,
+      "end": 95.17,
+      "text": "導遊的頭都大了"
+    },
+    {
+      "t": 98.43,
+      "end": 98.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.43,
+      "end": 130.41,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 131.43,
+      "end": 134.15,
+      "text": "陳怡君 在這裡"
+    },
+    {
+      "t": 135.11,
+      "end": 138.77,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 138.85,
+      "end": 141.65,
+      "text": "路人怡君 也擠上來"
+    },
+    {
+      "t": 142.51,
+      "end": 142.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.51,
+      "end": 145.19,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 146.19,
+      "end": 148.91,
+      "text": "陳怡君 在這裡"
+    },
+    {
+      "t": 149.89,
+      "end": 152.58,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 153.58,
+      "end": 156.28,
+      "text": "全都到齊 一起出發"
+    },
+    {
+      "t": 160.1,
+      "end": 160.1,
+      "text": "[Outro - dizi, synth brass fade]"
+    },
+    {
+      "t": 160.1,
+      "end": 184.6,
+      "text": "十七號怡君 坐好了"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.5,
+      "end": 23.5,
+      "text": "[Intro - dizi hook, handclaps, synth bass]"
+    },
+    {
+      "t": 23.5,
+      "end": 23.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.5,
+      "end": 26.34,
+      "text": "遊覽車上四十三個人"
+    },
+    {
+      "t": 28.78,
+      "end": 36.1,
+      "text": "全部都叫陳怡君"
+    },
+    {
+      "t": 36.2,
+      "end": 40.96,
+      "text": "導遊拿著名單點名"
+    },
+    {
+      "t": 43.5,
+      "end": 48.2,
+      "text": "點一個 全車都答應"
+    },
+    {
+      "t": 52.55,
+      "end": 52.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.55,
+      "end": 55.25,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 56.25,
+      "end": 58.95,
+      "text": "陳怡君 在這裡"
+    },
+    {
+      "t": 59.93,
+      "end": 63.75,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 63.81,
+      "end": 66.45,
+      "text": "四十三個 一起答到"
+    },
+    {
+      "t": 67.53,
+      "end": 67.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 67.53,
+      "end": 70.17,
+      "text": "休息站的大喇叭響"
+    },
+    {
+      "t": 70.97,
+      "end": 74.45,
+      "text": "陳怡君小姐 請回車上"
+    },
+    {
+      "t": 74.45,
+      "end": 77.39,
+      "text": "我們四十三個全回頭"
+    },
+    {
+      "t": 78.07,
+      "end": 80.71,
+      "text": "遲到的那位 還在廁所"
+    },
+    {
+      "t": 82.13,
+      "end": 82.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.13,
+      "end": 85.13,
+      "text": "這時三個陌生人"
+    },
+    {
+      "t": 85.35,
+      "end": 88.59,
+      "text": "拎著包包跑過來"
+    },
+    {
+      "t": 89.03,
+      "end": 92.65,
+      "text": "她們也叫陳怡君"
+    },
+    {
+      "t": 92.75,
+      "end": 95.19,
+      "text": "導遊的頭都大了"
+    },
+    {
+      "t": 127.75,
+      "end": 127.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.75,
+      "end": 130.43,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 131.43,
+      "end": 134.15,
+      "text": "陳怡君 在這裡"
+    },
+    {
+      "t": 135.11,
+      "end": 138.77,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 138.85,
+      "end": 141.67,
+      "text": "路人怡君 也擠上來"
+    },
+    {
+      "t": 142.51,
+      "end": 142.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.51,
+      "end": 145.19,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 146.21,
+      "end": 148.91,
+      "text": "陳怡君 在這裡"
+    },
+    {
+      "t": 149.89,
+      "end": 154.66,
+      "text": "陳怡君 請上車"
+    },
+    {
+      "t": 155.64,
+      "end": 162.4,
+      "text": "全都到齊 一起出發"
+    },
+    {
+      "t": 184.16,
+      "end": 184.16,
+      "text": "[Outro - dizi, synth brass fade]"
+    },
+    {
+      "t": 184.16,
+      "end": 187.62,
+      "text": "十七號怡君 坐好了"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

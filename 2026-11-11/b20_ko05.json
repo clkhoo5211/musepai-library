@@ -1,0 +1,367 @@
+{
+  "id": "b20_ko05",
+  "title": "핑크 반장",
+  "title_source": "scripted",
+  "genre": "Korean mariachi pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "mock-heroic, proud, soft-hearted under the pomp",
+  "persona": "",
+  "subject": "Rebar foreman Mr Bae's six-year-old daughter paints his nails bright pink on Sunday night and makes him promise not to wipe it off, so he runs Monday's 7 a.m. safety briefing bare-handed, and by Friday every man on his crew has one pink pinky.",
+  "caption": "Korean mariachi pop, brisk and strutting. Two mariachi trumpets in harmonised thirds on the main fanfare, vihuela strumming offbeat chords, guitarrón plucking a bouncing bass, violin section with sweeping run-ups, nylon-string guitar in the verses. Live-room mariachi recording with bright brass and warm wooden bass. Male high tenor with clear powerful chest voice and sustained high notes, clearly sung melody, sung gang vocals on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, D major. Mock-heroic and proud, soft-hearted under the pomp. No rap, no electric guitar, no drum machine, no autotune, no screaming.",
+  "lyrics": "[Intro - trumpet fanfare, vihuela strum]\n\n[Verse 1]\n일요일 밤 우리 딸이\n내 손톱에 핑크를 칠했어\n지우지 않기로 약속했지\n철근 반장이 맹세했어\n\n[Pre-Chorus]\n월요일 아침 일곱 시\n안전 조회가 시작돼\n\n[Chorus]\n핑크 반장, 핑크 반장\n맨손으로 조회를 해\n핑크 반장, 핑크 반장\n철근도 내 앞에선 얌전해\n\n[Verse 2]\n김 씨가 내 손을 쳐다보고\n박 씨도 슬쩍 쳐다봤어\n나는 눈을 부릅뜨고\n오늘 작업 순서를 말했어\n\n[Pre-Chorus]\n수요일 점심시간\n김 씨가 새끼손톱을 내밀었어\n\n[Chorus]\n핑크 반장, 핑크 반장\n우리 팀도 다 같이 가\n핑크 반장, 핑크 반장\n철근도 우리 앞에선 얌전해\n\n[Bridge - violins sweep, trumpets answer]\n금요일 아침 열두 명\n새끼손톱이 전부 핑크\n\n[Outro - final trumpet fanfare]\n우리 딸 최고야\n핑크 반장 만세",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Korean mariachi pop, brisk and strutting. Two mariachi trumpets in harmonised thirds on the main fanfare, vihuela strumming offbeat chords, guitarrón plucking a bouncing bass, violin section with sweeping run-ups, nylon-string guitar in the verses. Live-room mariachi recording with bright brass and warm wooden bass. Male high tenor with clear powerful chest voice and sustained high notes, clearly sung melody, sung gang vocals on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, D major. Mock-heroic and proud, soft-hearted under the pomp. No rap, no electric guitar, no drum machine, no autotune, no screaming.",
+    "lyrics": "[Intro - trumpet fanfare, vihuela strum]\n\n[Verse 1]\n일요일 밤 우리 딸이\n내 손톱에 핑크를 칠했어\n지우지 않기로 약속했지\n철근 반장이 맹세했어\n\n[Pre-Chorus]\n월요일 아침 일곱 시\n안전 조회가 시작돼\n\n[Chorus]\n핑크 반장, 핑크 반장\n맨손으로 조회를 해\n핑크 반장, 핑크 반장\n철근도 내 앞에선 얌전해\n\n[Verse 2]\n김 씨가 내 손을 쳐다보고\n박 씨도 슬쩍 쳐다봤어\n나는 눈을 부릅뜨고\n오늘 작업 순서를 말했어\n\n[Pre-Chorus]\n수요일 점심시간\n김 씨가 새끼손톱을 내밀었어\n\n[Chorus]\n핑크 반장, 핑크 반장\n우리 팀도 다 같이 가\n핑크 반장, 핑크 반장\n철근도 우리 앞에선 얌전해\n\n[Bridge - violins sweep, trumpets answer]\n금요일 아침 열두 명\n새끼손톱이 전부 핑크\n\n[Outro - final trumpet fanfare]\n우리 딸 최고야\n핑크 반장 만세"
+  },
+  "seed": "10586226",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.97s**\n- 72.97s per song\n- LM phase (1 song): 13.52s\n- DiT phase (1 song): 59.45s",
+  "task_id": "48b2bc20-6b9c-406e-a9c3-f223fdd77cf5",
+  "elapsed_s": 100.5,
+  "generated_at": "2026-11-11T17:00:33.836514+08:00",
+  "audio": "b20_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.3,
+      "end": 26.3,
+      "text": "[Intro - trumpet fanfare, vihuela strum]"
+    },
+    {
+      "t": 26.3,
+      "end": 26.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.3,
+      "end": 28.38,
+      "text": "일요일 밤 우리 딸이"
+    },
+    {
+      "t": 29.28,
+      "end": 32.4,
+      "text": "내 손톱에 핑크를 칠했어"
+    },
+    {
+      "t": 36.5,
+      "end": 39.94,
+      "text": "지우지 않기로 약속했지"
+    },
+    {
+      "t": 40.06,
+      "end": 43.24,
+      "text": "철근 반장이 맹세했어"
+    },
+    {
+      "t": 44.16,
+      "end": 44.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.16,
+      "end": 47.79,
+      "text": "월요일 아침 일곱 시"
+    },
+    {
+      "t": 48.25,
+      "end": 51.07,
+      "text": "안전 조회가 시작돼"
+    },
+    {
+      "t": 51.25,
+      "end": 51.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.25,
+      "end": 53.43,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 53.43,
+      "end": 54.17,
+      "text": "맨손으로 조회를 해"
+    },
+    {
+      "t": 54.17,
+      "end": 56.11,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 56.15,
+      "end": 61.33,
+      "text": "철근도 내 앞에선 얌전해"
+    },
+    {
+      "t": 64.15,
+      "end": 64.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.15,
+      "end": 67.03,
+      "text": "김 씨가 내 손을 쳐다보고"
+    },
+    {
+      "t": 68.19,
+      "end": 71.29,
+      "text": "박 씨도 슬쩍 쳐다봤어"
+    },
+    {
+      "t": 72.21,
+      "end": 74.39,
+      "text": "나는 눈을 부릅뜨고"
+    },
+    {
+      "t": 74.41,
+      "end": 75.63,
+      "text": "오늘 작업 순서를 말했어"
+    },
+    {
+      "t": 75.63,
+      "end": 75.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 75.63,
+      "end": 81.21,
+      "text": "수요일 점심시간"
+    },
+    {
+      "t": 81.37,
+      "end": 100.55,
+      "text": "김 씨가 새끼손톱을 내밀었어"
+    },
+    {
+      "t": 101.43,
+      "end": 101.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.43,
+      "end": 104.89,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 105.51,
+      "end": 109.05,
+      "text": "우리 팀도 다 같이 가"
+    },
+    {
+      "t": 109.29,
+      "end": 113.11,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 113.15,
+      "end": 134.61,
+      "text": "철근도 우리 앞에선 얌전해"
+    },
+    {
+      "t": 136.53,
+      "end": 136.53,
+      "text": "[Bridge - violins sweep, trumpets answer]"
+    },
+    {
+      "t": 136.53,
+      "end": 143.6,
+      "text": "금요일 아침 열두 명"
+    },
+    {
+      "t": 151.08,
+      "end": 162.24,
+      "text": "새끼손톱이 전부 핑크"
+    },
+    {
+      "t": 165.22,
+      "end": 165.22,
+      "text": "[Outro - final trumpet fanfare]"
+    },
+    {
+      "t": 165.22,
+      "end": 167.0,
+      "text": "우리 딸 최고야"
+    },
+    {
+      "t": 169.88,
+      "end": 172.32,
+      "text": "핑크 반장 만세"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.32,
+      "end": 26.32,
+      "text": "[Intro - trumpet fanfare, vihuela strum]"
+    },
+    {
+      "t": 26.32,
+      "end": 26.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.32,
+      "end": 28.4,
+      "text": "일요일 밤 우리 딸이"
+    },
+    {
+      "t": 29.28,
+      "end": 32.4,
+      "text": "내 손톱에 핑크를 칠했어"
+    },
+    {
+      "t": 36.5,
+      "end": 39.94,
+      "text": "지우지 않기로 약속했지"
+    },
+    {
+      "t": 40.06,
+      "end": 43.26,
+      "text": "철근 반장이 맹세했어"
+    },
+    {
+      "t": 44.16,
+      "end": 44.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.16,
+      "end": 46.22,
+      "text": "월요일 아침 일곱 시"
+    },
+    {
+      "t": 46.22,
+      "end": 47.24,
+      "text": "안전 조회가 시작돼"
+    },
+    {
+      "t": 47.24,
+      "end": 47.24,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.24,
+      "end": 49.73,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 49.77,
+      "end": 51.31,
+      "text": "맨손으로 조회를 해"
+    },
+    {
+      "t": 52.17,
+      "end": 56.09,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 56.15,
+      "end": 61.35,
+      "text": "철근도 내 앞에선 얌전해"
+    },
+    {
+      "t": 64.15,
+      "end": 64.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.15,
+      "end": 67.05,
+      "text": "김 씨가 내 손을 쳐다보고"
+    },
+    {
+      "t": 68.17,
+      "end": 71.29,
+      "text": "박 씨도 슬쩍 쳐다봤어"
+    },
+    {
+      "t": 72.19,
+      "end": 75.05,
+      "text": "나는 눈을 부릅뜨고"
+    },
+    {
+      "t": 76.13,
+      "end": 106.47,
+      "text": "오늘 작업 순서를 말했어"
+    },
+    {
+      "t": 106.47,
+      "end": 106.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.47,
+      "end": 107.85,
+      "text": "수요일 점심시간"
+    },
+    {
+      "t": 108.19,
+      "end": 111.79,
+      "text": "김 씨가 새끼손톱을 내밀었어"
+    },
+    {
+      "t": 112.15,
+      "end": 112.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.15,
+      "end": 116.89,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 117.03,
+      "end": 122.51,
+      "text": "우리 팀도 다 같이 가"
+    },
+    {
+      "t": 122.59,
+      "end": 131.13,
+      "text": "핑크 반장, 핑크 반장"
+    },
+    {
+      "t": 132.49,
+      "end": 134.59,
+      "text": "철근도 우리 앞에선 얌전해"
+    },
+    {
+      "t": 136.51,
+      "end": 136.51,
+      "text": "[Bridge - violins sweep, trumpets answer]"
+    },
+    {
+      "t": 136.51,
+      "end": 139.21,
+      "text": "금요일 아침 열두 명"
+    },
+    {
+      "t": 140.53,
+      "end": 143.7,
+      "text": "새끼손톱이 전부 핑크"
+    },
+    {
+      "t": 153.98,
+      "end": 153.98,
+      "text": "[Outro - final trumpet fanfare]"
+    },
+    {
+      "t": 153.98,
+      "end": 160.06,
+      "text": "우리 딸 최고야"
+    },
+    {
+      "t": 161.86,
+      "end": 166.52,
+      "text": "핑크 반장 만세"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

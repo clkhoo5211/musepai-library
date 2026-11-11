@@ -1,0 +1,377 @@
+{
+  "id": "b20_id01",
+  "title": "Sabun Kecil dari Tiap Kota",
+  "title_source": "scripted",
+  "genre": "Indonesian pop-country",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "hangat, sabar, rindu yang tenang (warm, patient, quietly missing him)",
+  "persona": "",
+  "subject": "In their first rented house in Sidoarjo, a wife lines the bathroom shelf with the hotel soaps her husband, a travelling generator technician, brings home from every town, reads his month from the wrappers, and never unwraps the one from their honeymoon in Batu.",
+  "caption": "Indonesian pop-country with a train-beat shuffle. Boom-chick strummed acoustic guitar, five-string banjo in soft rolling arpeggios, fiddle answering the vocal with double-stop fills, pedal steel in long swells behind the chorus, upright bass with brushed snare. warm close-miked live-room country mix with natural room reverb. Female vocal, warm mid register, conversational storytelling delivery, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. Warm, patient, quietly missing him. No rap, no autotune, no trap hi-hats, no EDM synths, no electric guitar distortion.",
+  "lyrics": "[Intro - banjo arpeggios, soft fiddle]\n[Verse 1]\nRumah kontrakan kita di Sidoarjo\nRak kamar mandi sempit, tapi penuh\nSabun kecil dari hotel tiap kota\nKamu bawa pulang dalam saku jaket\n[Pre-Chorus]\nAku baca bulanmu dari bungkusnya\nGresik, Madiun, Kediri, Tuban\n[Chorus]\nSabun kecil dari tiap kota\nKususun rapi di rak sebelah cermin\nKalau rindu datang, kuhirup baunya\nKutahu kamu masih jalan pulang\n[Verse 2]\nTeknisi genset keliling Jawa Timur\nPulang seminggu, pergi lagi besok\nTasmu berbau solar dan kopi sachet\nTapi sakumu selalu ada oleh-oleh\n[Pre-Chorus]\nAku tak pernah bilang aku menunggu\nCuma kuganti handuk setiap Jumat\n[Chorus]\nSabun kecil dari tiap kota\nKususun rapi di rak sebelah cermin\nKalau sepi datang, kuhirup baunya\nKutahu kamu masih jalan pulang\n[Chorus]\nSabun kecil dari tiap kota\nYang di Batu tak akan kubuka\nBiar wanginya tinggal di bungkus\nSampai kamu pulang, kita buka berdua\n[Outro - banjo and fiddle fade]\nSampai kamu pulang",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Indonesian pop-country with a train-beat shuffle. Boom-chick strummed acoustic guitar, five-string banjo in soft rolling arpeggios, fiddle answering the vocal with double-stop fills, pedal steel in long swells behind the chorus, upright bass with brushed snare. warm close-miked live-room country mix with natural room reverb. Female vocal, warm mid register, conversational storytelling delivery, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. Warm, patient, quietly missing him. No rap, no autotune, no trap hi-hats, no EDM synths, no electric guitar distortion.",
+    "lyrics": "[Intro - banjo arpeggios, soft fiddle]\n[Verse 1]\nRumah kontrakan kita di Sidoarjo\nRak kamar mandi sempit, tapi penuh\nSabun kecil dari hotel tiap kota\nKamu bawa pulang dalam saku jaket\n[Pre-Chorus]\nAku baca bulanmu dari bungkusnya\nGresik, Madiun, Kediri, Tuban\n[Chorus]\nSabun kecil dari tiap kota\nKususun rapi di rak sebelah cermin\nKalau rindu datang, kuhirup baunya\nKutahu kamu masih jalan pulang\n[Verse 2]\nTeknisi genset keliling Jawa Timur\nPulang seminggu, pergi lagi besok\nTasmu berbau solar dan kopi sachet\nTapi sakumu selalu ada oleh-oleh\n[Pre-Chorus]\nAku tak pernah bilang aku menunggu\nCuma kuganti handuk setiap Jumat\n[Chorus]\nSabun kecil dari tiap kota\nKususun rapi di rak sebelah cermin\nKalau sepi datang, kuhirup baunya\nKutahu kamu masih jalan pulang\n[Chorus]\nSabun kecil dari tiap kota\nYang di Batu tak akan kubuka\nBiar wanginya tinggal di bungkus\nSampai kamu pulang, kita buka berdua\n[Outro - banjo and fiddle fade]\nSampai kamu pulang"
+  },
+  "seed": "1921493462",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 86.04s**\n- 86.04s per song\n- LM phase (1 song): 11.03s\n- DiT phase (1 song): 75.01s",
+  "task_id": "c7ae9461-9be8-4e6d-8024-68d56aca446d",
+  "elapsed_s": 110.9,
+  "generated_at": "2026-11-11T17:13:27.291626+08:00",
+  "audio": "b20_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.94,
+      "end": 20.94,
+      "text": "[Intro - banjo arpeggios, soft fiddle]"
+    },
+    {
+      "t": 20.94,
+      "end": 20.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.94,
+      "end": 25.48,
+      "text": "Rumah kontrakan kita di Sidoarjo"
+    },
+    {
+      "t": 26.62,
+      "end": 30.38,
+      "text": "Rak kamar mandi sempit, tapi penuh"
+    },
+    {
+      "t": 30.96,
+      "end": 35.02,
+      "text": "Sabun kecil dari hotel tiap kota"
+    },
+    {
+      "t": 35.98,
+      "end": 40.22,
+      "text": "Kamu bawa pulang dalam saku jaket"
+    },
+    {
+      "t": 41.12,
+      "end": 41.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.12,
+      "end": 45.12,
+      "text": "Aku baca bulanmu dari bungkusnya"
+    },
+    {
+      "t": 46.2,
+      "end": 50.42,
+      "text": "Gresik, Madiun, Kediri, Tuban"
+    },
+    {
+      "t": 50.86,
+      "end": 50.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.86,
+      "end": 52.39,
+      "text": "Sabun kecil dari tiap kota"
+    },
+    {
+      "t": 53.39,
+      "end": 58.11,
+      "text": "Kususun rapi di rak sebelah cermin"
+    },
+    {
+      "t": 58.71,
+      "end": 62.93,
+      "text": "Kalau rindu datang, kuhirup baunya"
+    },
+    {
+      "t": 64.03,
+      "end": 68.41,
+      "text": "Kutahu kamu masih jalan pulang"
+    },
+    {
+      "t": 69.05,
+      "end": 69.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.05,
+      "end": 73.39,
+      "text": "Teknisi genset keliling Jawa Timur"
+    },
+    {
+      "t": 74.05,
+      "end": 80.63,
+      "text": "Pulang seminggu, pergi lagi besok"
+    },
+    {
+      "t": 81.89,
+      "end": 86.17,
+      "text": "Tasmu berbau solar dan kopi sachet"
+    },
+    {
+      "t": 86.27,
+      "end": 91.31,
+      "text": "Tapi sakumu selalu ada oleh-oleh"
+    },
+    {
+      "t": 92.97,
+      "end": 92.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.97,
+      "end": 96.29,
+      "text": "Aku tak pernah bilang aku menunggu"
+    },
+    {
+      "t": 97.87,
+      "end": 102.63,
+      "text": "Cuma kuganti handuk setiap Jumat"
+    },
+    {
+      "t": 102.89,
+      "end": 102.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.89,
+      "end": 106.51,
+      "text": "Sabun kecil dari tiap kota"
+    },
+    {
+      "t": 107.63,
+      "end": 111.43,
+      "text": "Kususun rapi di rak sebelah cermin"
+    },
+    {
+      "t": 112.81,
+      "end": 116.41,
+      "text": "Kalau sepi datang, kuhirup baunya"
+    },
+    {
+      "t": 117.51,
+      "end": 121.57,
+      "text": "Kutahu kamu masih jalan pulang"
+    },
+    {
+      "t": 127.59,
+      "end": 127.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.59,
+      "end": 130.49,
+      "text": "Sabun kecil dari tiap kota"
+    },
+    {
+      "t": 130.49,
+      "end": 133.77,
+      "text": "Yang di Batu tak akan kubuka"
+    },
+    {
+      "t": 137.11,
+      "end": 142.27,
+      "text": "Biar wanginya tinggal di bungkus"
+    },
+    {
+      "t": 145.43,
+      "end": 186.8,
+      "text": "Sampai kamu pulang, kita buka berdua"
+    },
+    {
+      "t": 200.42,
+      "end": 200.42,
+      "text": "[Outro - banjo and fiddle fade]"
+    },
+    {
+      "t": 200.42,
+      "end": 202.04,
+      "text": "Sampai kamu pulang"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.94,
+      "end": 20.94,
+      "text": "[Intro - banjo arpeggios, soft fiddle]"
+    },
+    {
+      "t": 20.94,
+      "end": 20.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.94,
+      "end": 25.48,
+      "text": "Rumah kontrakan kita di Sidoarjo"
+    },
+    {
+      "t": 26.62,
+      "end": 30.62,
+      "text": "Rak kamar mandi sempit, tapi penuh"
+    },
+    {
+      "t": 30.96,
+      "end": 35.02,
+      "text": "Sabun kecil dari hotel tiap kota"
+    },
+    {
+      "t": 35.98,
+      "end": 40.2,
+      "text": "Kamu bawa pulang dalam saku jaket"
+    },
+    {
+      "t": 41.1,
+      "end": 41.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.1,
+      "end": 45.12,
+      "text": "Aku baca bulanmu dari bungkusnya"
+    },
+    {
+      "t": 46.2,
+      "end": 50.42,
+      "text": "Gresik, Madiun, Kediri, Tuban"
+    },
+    {
+      "t": 50.86,
+      "end": 50.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.86,
+      "end": 53.39,
+      "text": "Sabun kecil dari tiap kota"
+    },
+    {
+      "t": 53.39,
+      "end": 58.13,
+      "text": "Kususun rapi di rak sebelah cermin"
+    },
+    {
+      "t": 58.71,
+      "end": 62.93,
+      "text": "Kalau rindu datang, kuhirup baunya"
+    },
+    {
+      "t": 64.03,
+      "end": 68.45,
+      "text": "Kutahu kamu masih jalan pulang"
+    },
+    {
+      "t": 69.03,
+      "end": 69.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.03,
+      "end": 73.39,
+      "text": "Teknisi genset keliling Jawa Timur"
+    },
+    {
+      "t": 74.05,
+      "end": 80.63,
+      "text": "Pulang seminggu, pergi lagi besok"
+    },
+    {
+      "t": 81.91,
+      "end": 86.17,
+      "text": "Tasmu berbau solar dan kopi sachet"
+    },
+    {
+      "t": 86.27,
+      "end": 91.35,
+      "text": "Tapi sakumu selalu ada oleh-oleh"
+    },
+    {
+      "t": 92.97,
+      "end": 92.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.97,
+      "end": 96.29,
+      "text": "Aku tak pernah bilang aku menunggu"
+    },
+    {
+      "t": 97.87,
+      "end": 101.73,
+      "text": "Cuma kuganti handuk setiap Jumat"
+    },
+    {
+      "t": 102.89,
+      "end": 102.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.89,
+      "end": 106.49,
+      "text": "Sabun kecil dari tiap kota"
+    },
+    {
+      "t": 107.63,
+      "end": 111.47,
+      "text": "Kususun rapi di rak sebelah cermin"
+    },
+    {
+      "t": 112.81,
+      "end": 116.43,
+      "text": "Kalau sepi datang, kuhirup baunya"
+    },
+    {
+      "t": 117.51,
+      "end": 121.61,
+      "text": "Kutahu kamu masih jalan pulang"
+    },
+    {
+      "t": 127.59,
+      "end": 127.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.59,
+      "end": 130.49,
+      "text": "Sabun kecil dari tiap kota"
+    },
+    {
+      "t": 130.49,
+      "end": 133.77,
+      "text": "Yang di Batu tak akan kubuka"
+    },
+    {
+      "t": 137.11,
+      "end": 145.45,
+      "text": "Biar wanginya tinggal di bungkus"
+    },
+    {
+      "t": 150.33,
+      "end": 196.84,
+      "text": "Sampai kamu pulang, kita buka berdua"
+    },
+    {
+      "t": 200.42,
+      "end": 200.42,
+      "text": "[Outro - banjo and fiddle fade]"
+    },
+    {
+      "t": 200.42,
+      "end": 202.06,
+      "text": "Sampai kamu pulang"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

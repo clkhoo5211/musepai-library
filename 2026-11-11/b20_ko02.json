@@ -1,0 +1,534 @@
+{
+  "id": "b20_ko02",
+  "title": "콩이 은퇴식",
+  "title_source": "scripted",
+  "genre": "Korean tango pop with bandoneon",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "mock-solemn, deadpan-comic, strutting; proud affection under the drama",
+  "persona": "",
+  "subject": "Told by her handler: at Gimhae Airport the retirement send-off for Kongi, an eight-year-old quarantine detector beagle, goes smoothly until she trots off the podium mid-speech and sits, her trained alert, in front of the director's briefcase, where a snack sausage is hidden.",
+  "caption": "Korean tango pop with bandoneon, marcato and strutting. Bandoneon snapping staccato chords and sighing legato runs, violin with pizzicato stabs and a soaring chorus countermelody, piano hammering staccato four-to-the-bar with low-octave walk-ups, bowed double bass on the accents, nylon-string guitar picking habanera figures in the verses. Dry intimate tango-orchestra recording with crisp percussive accents. Male baritone, full chest voice, theatrical and deadpan, clearly sung melody with crisp consonants. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, D minor. Mock-solemn and strutting, with proud affection under the drama. No rap, no drum machine, no autotune, no electric guitar, no whispered vocal.",
+  "lyrics": "[Intro - bandoneon chords, piano staccato]\n\n[Verse 1]\n김해공항 연단 위에\n은퇴하는 콩이가 섰습니다\n팔 년을 일한 검역탐지견\n비글의 귀가 반짝입니다\n\n[Pre-Chorus]\n국장님 축사가 시작되고\n박수도 두 번 쳤습니다\n\n[Chorus]\n콩이, 콩이, 어디 갑니까\n연단을 내려와 앉았습니다\n국장님 서류 가방 앞에\n훈련받은 대로 딱 앉았습니다\n\n[Verse 2]\n가방 안에는 간식 소시지가\n아침부터 숨어 있었습니다\n팔 년 동안 한 번도 안 틀린 코\n마지막 날도 안 틀립니다\n\n[Pre-Chorus]\n국장님 얼굴이 굳어 가고\n카메라는 계속 돌아갑니다\n\n[Chorus]\n콩이, 콩이, 어디 갑니까\n연설 중간에 앉았습니다\n국장님 서류 가방 앞에\n꼬리를 흔들며 앉았습니다\n\n[Bridge - violin pizzicato, bandoneon sighs]\n나는 줄을 꽉 쥐고\n속으로만 웃었습니다\n\n[Outro - bandoneon final chord]\n콩이 만세, 콩이 만세\n소시지는 콩이 몫입니다",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Korean tango pop with bandoneon, marcato and strutting. Bandoneon snapping staccato chords and sighing legato runs, violin with pizzicato stabs and a soaring chorus countermelody, piano hammering staccato four-to-the-bar with low-octave walk-ups, bowed double bass on the accents, nylon-string guitar picking habanera figures in the verses. Dry intimate tango-orchestra recording with crisp percussive accents. Male baritone, full chest voice, theatrical and deadpan, clearly sung melody with crisp consonants. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, D minor. Mock-solemn and strutting, with proud affection under the drama. No rap, no drum machine, no autotune, no electric guitar, no whispered vocal.",
+    "lyrics": "[Intro - bandoneon chords, piano staccato]\n\n[Verse 1]\n김해공항 연단 위에\n은퇴하는 콩이가 섰습니다\n팔 년을 일한 검역탐지견\n비글의 귀가 반짝입니다\n\n[Pre-Chorus]\n국장님 축사가 시작되고\n박수도 두 번 쳤습니다\n\n[Chorus]\n콩이, 콩이, 어디 갑니까\n연단을 내려와 앉았습니다\n국장님 서류 가방 앞에\n훈련받은 대로 딱 앉았습니다\n\n[Verse 2]\n가방 안에는 간식 소시지가\n아침부터 숨어 있었습니다\n팔 년 동안 한 번도 안 틀린 코\n마지막 날도 안 틀립니다\n\n[Pre-Chorus]\n국장님 얼굴이 굳어 가고\n카메라는 계속 돌아갑니다\n\n[Chorus]\n콩이, 콩이, 어디 갑니까\n연설 중간에 앉았습니다\n국장님 서류 가방 앞에\n꼬리를 흔들며 앉았습니다\n\n[Bridge - violin pizzicato, bandoneon sighs]\n나는 줄을 꽉 쥐고\n속으로만 웃었습니다\n\n[Outro - bandoneon final chord]\n콩이 만세, 콩이 만세\n소시지는 콩이 몫입니다"
+  },
+  "seed": "2462122154",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 76.84s**\n- 76.84s per song\n- LM phase (1 song): 12.71s\n- DiT phase (1 song): 64.14s",
+  "task_id": "ded87f2a-2a69-4f72-b408-c48359d9fb44",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-11-11T18:46:36.233096+08:00",
+  "audio": "b20_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 2.75,
+      "end": 2.75,
+      "text": "[Intro - bandoneon chords, piano staccato]"
+    },
+    {
+      "t": 2.75,
+      "end": 2.75,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.75,
+      "end": 4.28,
+      "text": "김해공항 연단 위에"
+    },
+    {
+      "t": 4.7,
+      "end": 7.62,
+      "text": "은퇴하는 콩이가 섰습니다"
+    },
+    {
+      "t": 7.62,
+      "end": 11.92,
+      "text": "팔 년을 일한 검역탐지견"
+    },
+    {
+      "t": 11.92,
+      "end": 12.8,
+      "text": "비글의 귀가 반짝입니다"
+    },
+    {
+      "t": 34.18,
+      "end": 34.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.18,
+      "end": 37.92,
+      "text": "국장님 축사가 시작되고"
+    },
+    {
+      "t": 41.82,
+      "end": 45.82,
+      "text": "박수도 두 번 쳤습니다"
+    },
+    {
+      "t": 46.76,
+      "end": 46.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.76,
+      "end": 49.25,
+      "text": "콩이, 콩이, 어디 갑니까"
+    },
+    {
+      "t": 49.29,
+      "end": 53.11,
+      "text": "연단을 내려와 앉았습니다"
+    },
+    {
+      "t": 57.25,
+      "end": 61.03,
+      "text": "국장님 서류 가방 앞에"
+    },
+    {
+      "t": 64.71,
+      "end": 74.05,
+      "text": "훈련받은 대로 딱 앉았습니다"
+    },
+    {
+      "t": 74.43,
+      "end": 74.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.43,
+      "end": 81.57,
+      "text": "가방 안에는 간식 소시지가"
+    },
+    {
+      "t": 81.87,
+      "end": 83.91,
+      "text": "아침부터 숨어 있었습니다"
+    },
+    {
+      "t": 85.53,
+      "end": 89.13,
+      "text": "팔 년 동안 한 번도 안 틀린 코"
+    },
+    {
+      "t": 91.61,
+      "end": 96.13,
+      "text": "마지막 날도 안 틀립니다"
+    },
+    {
+      "t": 96.31,
+      "end": 96.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.31,
+      "end": 99.55,
+      "text": "국장님 얼굴이 굳어 가고"
+    },
+    {
+      "t": 99.55,
+      "end": 103.61,
+      "text": "카메라는 계속 돌아갑니다"
+    },
+    {
+      "t": 107.29,
+      "end": 107.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.29,
+      "end": 110.35,
+      "text": "콩이, 콩이, 어디 갑니까"
+    },
+    {
+      "t": 111.17,
+      "end": 114.95,
+      "text": "연설 중간에 앉았습니다"
+    },
+    {
+      "t": 118.17,
+      "end": 125.69,
+      "text": "국장님 서류 가방 앞에"
+    },
+    {
+      "t": 125.69,
+      "end": 133.69,
+      "text": "꼬리를 흔들며 앉았습니다"
+    },
+    {
+      "t": 149.38,
+      "end": 149.38,
+      "text": "[Bridge - violin pizzicato, bandoneon sighs]"
+    },
+    {
+      "t": 149.38,
+      "end": 151.18,
+      "text": "나는 줄을 꽉 쥐고"
+    },
+    {
+      "t": 153.2,
+      "end": 156.38,
+      "text": "속으로만 웃었습니다"
+    },
+    {
+      "t": 167.06,
+      "end": 167.06,
+      "text": "[Outro - bandoneon final chord]"
+    },
+    {
+      "t": 167.06,
+      "end": 177.56,
+      "text": "콩이 만세, 콩이 만세"
+    },
+    {
+      "t": 179.46,
+      "end": 183.44,
+      "text": "소시지는 콩이 몫입니다"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - bandoneon chords, piano staccato]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 4.28,
+      "text": "김해공항 연단 위에"
+    },
+    {
+      "t": 4.7,
+      "end": 7.62,
+      "text": "은퇴하는 콩이가 섰습니다"
+    },
+    {
+      "t": 7.62,
+      "end": 11.92,
+      "text": "팔 년을 일한 검역탐지견"
+    },
+    {
+      "t": 11.92,
+      "end": 12.8,
+      "text": "비글의 귀가 반짝입니다"
+    },
+    {
+      "t": 34.18,
+      "end": 34.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.18,
+      "end": 37.92,
+      "text": "국장님 축사가 시작되고"
+    },
+    {
+      "t": 41.82,
+      "end": 45.82,
+      "text": "박수도 두 번 쳤습니다"
+    },
+    {
+      "t": 46.76,
+      "end": 46.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.76,
+      "end": 49.25,
+      "text": "콩이, 콩이, 어디 갑니까"
+    },
+    {
+      "t": 49.29,
+      "end": 53.11,
+      "text": "연단을 내려와 앉았습니다"
+    },
+    {
+      "t": 57.25,
+      "end": 61.03,
+      "text": "국장님 서류 가방 앞에"
+    },
+    {
+      "t": 64.71,
+      "end": 74.05,
+      "text": "훈련받은 대로 딱 앉았습니다"
+    },
+    {
+      "t": 74.43,
+      "end": 74.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.43,
+      "end": 81.57,
+      "text": "가방 안에는 간식 소시지가"
+    },
+    {
+      "t": 81.87,
+      "end": 83.91,
+      "text": "아침부터 숨어 있었습니다"
+    },
+    {
+      "t": 85.53,
+      "end": 89.13,
+      "text": "팔 년 동안 한 번도 안 틀린 코"
+    },
+    {
+      "t": 91.61,
+      "end": 96.13,
+      "text": "마지막 날도 안 틀립니다"
+    },
+    {
+      "t": 96.31,
+      "end": 96.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.31,
+      "end": 99.55,
+      "text": "국장님 얼굴이 굳어 가고"
+    },
+    {
+      "t": 99.55,
+      "end": 103.61,
+      "text": "카메라는 계속 돌아갑니다"
+    },
+    {
+      "t": 107.29,
+      "end": 107.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.29,
+      "end": 110.35,
+      "text": "콩이, 콩이, 어디 갑니까"
+    },
+    {
+      "t": 111.17,
+      "end": 114.95,
+      "text": "연설 중간에 앉았습니다"
+    },
+    {
+      "t": 118.17,
+      "end": 125.69,
+      "text": "국장님 서류 가방 앞에"
+    },
+    {
+      "t": 125.69,
+      "end": 133.69,
+      "text": "꼬리를 흔들며 앉았습니다"
+    },
+    {
+      "t": 149.38,
+      "end": 149.38,
+      "text": "[Bridge - violin pizzicato, bandoneon sighs]"
+    },
+    {
+      "t": 149.38,
+      "end": 151.18,
+      "text": "나는 줄을 꽉 쥐고"
+    },
+    {
+      "t": 153.2,
+      "end": 156.38,
+      "text": "속으로만 웃었습니다"
+    },
+    {
+      "t": 167.06,
+      "end": 167.06,
+      "text": "[Outro - bandoneon final chord]"
+    },
+    {
+      "t": 167.06,
+      "end": 177.56,
+      "text": "콩이 만세, 콩이 만세"
+    },
+    {
+      "t": 179.46,
+      "end": 183.44,
+      "text": "소시지는 콩이 몫입니다"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Intro - bandoneon chords, piano staccato]"
+    },
+    {
+      "t": 0.04,
+      "end": 0.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.04,
+      "end": 8.82,
+      "text": "김해공항 연단 위에"
+    },
+    {
+      "t": 8.96,
+      "end": 12.28,
+      "text": "은퇴하는 콩이가 섰습니다"
+    },
+    {
+      "t": 12.34,
+      "end": 32.6,
+      "text": "팔 년을 일한 검역탐지견"
+    },
+    {
+      "t": 32.6,
+      "end": 33.52,
+      "text": "비글의 귀가 반짝입니다"
+    },
+    {
+      "t": 34.18,
+      "end": 34.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.18,
+      "end": 37.9,
+      "text": "국장님 축사가 시작되고"
+    },
+    {
+      "t": 41.82,
+      "end": 45.82,
+      "text": "박수도 두 번 쳤습니다"
+    },
+    {
+      "t": 47.12,
+      "end": 47.12,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.12,
+      "end": 49.25,
+      "text": "콩이, 콩이, 어디 갑니까"
+    },
+    {
+      "t": 49.29,
+      "end": 53.11,
+      "text": "연단을 내려와 앉았습니다"
+    },
+    {
+      "t": 57.25,
+      "end": 61.03,
+      "text": "국장님 서류 가방 앞에"
+    },
+    {
+      "t": 64.71,
+      "end": 74.05,
+      "text": "훈련받은 대로 딱 앉았습니다"
+    },
+    {
+      "t": 77.55,
+      "end": 77.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.55,
+      "end": 81.57,
+      "text": "가방 안에는 간식 소시지가"
+    },
+    {
+      "t": 81.89,
+      "end": 84.41,
+      "text": "아침부터 숨어 있었습니다"
+    },
+    {
+      "t": 85.53,
+      "end": 89.13,
+      "text": "팔 년 동안 한 번도 안 틀린 코"
+    },
+    {
+      "t": 91.61,
+      "end": 96.13,
+      "text": "마지막 날도 안 틀립니다"
+    },
+    {
+      "t": 99.49,
+      "end": 99.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.49,
+      "end": 101.57,
+      "text": "국장님 얼굴이 굳어 가고"
+    },
+    {
+      "t": 101.57,
+      "end": 103.61,
+      "text": "카메라는 계속 돌아갑니다"
+    },
+    {
+      "t": 107.27,
+      "end": 107.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.27,
+      "end": 111.17,
+      "text": "콩이, 콩이, 어디 갑니까"
+    },
+    {
+      "t": 111.19,
+      "end": 114.95,
+      "text": "연설 중간에 앉았습니다"
+    },
+    {
+      "t": 118.19,
+      "end": 125.71,
+      "text": "국장님 서류 가방 앞에"
+    },
+    {
+      "t": 125.71,
+      "end": 133.73,
+      "text": "꼬리를 흔들며 앉았습니다"
+    },
+    {
+      "t": 149.38,
+      "end": 149.38,
+      "text": "[Bridge - violin pizzicato, bandoneon sighs]"
+    },
+    {
+      "t": 149.38,
+      "end": 151.18,
+      "text": "나는 줄을 꽉 쥐고"
+    },
+    {
+      "t": 153.2,
+      "end": 156.38,
+      "text": "속으로만 웃었습니다"
+    },
+    {
+      "t": 162.62,
+      "end": 162.62,
+      "text": "[Outro - bandoneon final chord]"
+    },
+    {
+      "t": 162.62,
+      "end": 173.78,
+      "text": "콩이 만세, 콩이 만세"
+    },
+    {
+      "t": 179.46,
+      "end": 183.42,
+      "text": "소시지는 콩이 몫입니다"
+    }
+  ]
+}

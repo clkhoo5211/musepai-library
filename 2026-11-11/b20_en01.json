@@ -1,0 +1,474 @@
+{
+  "id": "b20_en01",
+  "title": "I Only Know Your Eyes",
+  "title_source": "scripted",
+  "genre": "uplifting vocal trance",
+  "language": "en",
+  "language_name": "English",
+  "mood": "euphoric, yearning, bright",
+  "persona": "",
+  "subject": "Two day-shift packers on a biscuit factory's custard-cream line fall in love knowing only each other's eyes between hairnet and blue beard snood, and outside the gate she walks straight past him until he cups his hands over his beard.",
+  "caption": "Uplifting vocal trance, 2020s anthemic trance with a long breakdown and snare-roll build. Detuned supersaw lead in wide sidechained chord stabs, rolling offbeat sub-bass, gated pluck arpeggio in sixteenth notes, four-on-the-floor 909 kick with offbeat open hi-hats, bright piano chords in the breakdown. Wide club mix, clean polished master. Female soprano, strong bright full-voice topline with long open notes on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, A minor. Euphoric, yearning, bright. No rap, no autotune effect, no trap hi-hats, no distorted guitars, no whispered vocals.",
+  "lyrics": "[Intro - pluck arpeggio, soft kick, filtered supersaw]\n\n[Verse 1]\nSix a.m. on the custard-cream line\nHairnet, blue snood, gloves on tight\nAll I know of you is your eyes\nOver the biscuits going by\n\n[Pre-Chorus]\nEvery shift you pass me the tray\nEvery shift I forget what to say\n\n[Chorus]\nI only know your eyes, your eyes\nOver the belt in the factory light\nI only know your eyes, your eyes\nTell me it's you, tell me it's right\n\n[Verse 2]\nOut at the gate I walked on by\nA stranger's chin, a stranger's smile\nThen you cupped your hands over your beard\nAnd there were the eyes, so near\n\n[Pre-Chorus]\nEvery shift you pass me the tray\nNow I know just what to say\n\n[Chorus]\nI know your face now, I know your eyes\nOut in the open, out in the light\nI know your face now, I know your eyes\nTake off the snood, you're mine tonight\n\n[Outro - arpeggio alone, kick drops out]\nI only know your eyes",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Uplifting vocal trance, 2020s anthemic trance with a long breakdown and snare-roll build. Detuned supersaw lead in wide sidechained chord stabs, rolling offbeat sub-bass, gated pluck arpeggio in sixteenth notes, four-on-the-floor 909 kick with offbeat open hi-hats, bright piano chords in the breakdown. Wide club mix, clean polished master. Female soprano, strong bright full-voice topline with long open notes on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, A minor. Euphoric, yearning, bright. No rap, no autotune effect, no trap hi-hats, no distorted guitars, no whispered vocals.",
+    "lyrics": "[Intro - pluck arpeggio, soft kick, filtered supersaw]\n\n[Verse 1]\nSix a.m. on the custard-cream line\nHairnet, blue snood, gloves on tight\nAll I know of you is your eyes\nOver the biscuits going by\n\n[Pre-Chorus]\nEvery shift you pass me the tray\nEvery shift I forget what to say\n\n[Chorus]\nI only know your eyes, your eyes\nOver the belt in the factory light\nI only know your eyes, your eyes\nTell me it's you, tell me it's right\n\n[Verse 2]\nOut at the gate I walked on by\nA stranger's chin, a stranger's smile\nThen you cupped your hands over your beard\nAnd there were the eyes, so near\n\n[Pre-Chorus]\nEvery shift you pass me the tray\nNow I know just what to say\n\n[Chorus]\nI know your face now, I know your eyes\nOut in the open, out in the light\nI know your face now, I know your eyes\nTake off the snood, you're mine tonight\n\n[Outro - arpeggio alone, kick drops out]\nI only know your eyes"
+  },
+  "seed": "4042513400",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 79.29s**\n- 79.29s per song\n- LM phase (1 song): 15.54s\n- DiT phase (1 song): 63.75s",
+  "task_id": "e7dc1224-2e3b-4ba7-b768-c1e2448fbe2c",
+  "elapsed_s": 100.1,
+  "generated_at": "2026-11-11T17:36:40.563516+08:00",
+  "audio": "b20_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Intro - pluck arpeggio, soft kick, filtered supersaw]"
+    },
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.78,
+      "end": 33.64,
+      "text": "Six a.m. on the custard-cream line"
+    },
+    {
+      "t": 36.3,
+      "end": 43.36,
+      "text": "Hairnet, blue snood, gloves on tight"
+    },
+    {
+      "t": 43.42,
+      "end": 47.42,
+      "text": "All I know of you is your eyes"
+    },
+    {
+      "t": 50.34,
+      "end": 53.91,
+      "text": "Over the biscuits going by"
+    },
+    {
+      "t": 55.55,
+      "end": 55.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.55,
+      "end": 58.79,
+      "text": "Every shift you pass me the tray"
+    },
+    {
+      "t": 62.31,
+      "end": 64.23,
+      "text": "Every shift I forget what to say"
+    },
+    {
+      "t": 64.25,
+      "end": 64.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.25,
+      "end": 65.03,
+      "text": "I only know your eyes, your eyes"
+    },
+    {
+      "t": 65.03,
+      "end": 69.93,
+      "text": "Over the belt in the factory light"
+    },
+    {
+      "t": 69.95,
+      "end": 71.83,
+      "text": "I only know your eyes, your eyes"
+    },
+    {
+      "t": 71.83,
+      "end": 102.35,
+      "text": "Tell me it's you, tell me it's right"
+    },
+    {
+      "t": 102.35,
+      "end": 102.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 102.35,
+      "end": 108.69,
+      "text": "Out at the gate I walked on by"
+    },
+    {
+      "t": 108.71,
+      "end": 112.63,
+      "text": "A stranger's chin, a stranger's smile"
+    },
+    {
+      "t": 112.63,
+      "end": 117.57,
+      "text": "Then you cupped your hands over your beard"
+    },
+    {
+      "t": 120.25,
+      "end": 121.79,
+      "text": "And there were the eyes, so near"
+    },
+    {
+      "t": 121.79,
+      "end": 121.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.79,
+      "end": 123.93,
+      "text": "Every shift you pass me the tray"
+    },
+    {
+      "t": 123.93,
+      "end": 128.39,
+      "text": "Now I know just what to say"
+    },
+    {
+      "t": 128.45,
+      "end": 128.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.45,
+      "end": 133.87,
+      "text": "I know your face now, I know your eyes"
+    },
+    {
+      "t": 133.93,
+      "end": 153.17,
+      "text": "Out in the open, out in the light"
+    },
+    {
+      "t": 153.21,
+      "end": 160.2,
+      "text": "I know your face now, I know your eyes"
+    },
+    {
+      "t": 160.2,
+      "end": 164.92,
+      "text": "Take off the snood, you're mine tonight"
+    },
+    {
+      "t": 164.92,
+      "end": 164.92,
+      "text": "[Outro - arpeggio alone, kick drops out]"
+    },
+    {
+      "t": 164.92,
+      "end": 193.3,
+      "text": "I only know your eyes"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Intro - pluck arpeggio, soft kick, filtered supersaw]"
+    },
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.78,
+      "end": 33.64,
+      "text": "Six a.m. on the custard-cream line"
+    },
+    {
+      "t": 36.3,
+      "end": 43.36,
+      "text": "Hairnet, blue snood, gloves on tight"
+    },
+    {
+      "t": 43.42,
+      "end": 47.42,
+      "text": "All I know of you is your eyes"
+    },
+    {
+      "t": 50.34,
+      "end": 53.91,
+      "text": "Over the biscuits going by"
+    },
+    {
+      "t": 55.55,
+      "end": 55.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.55,
+      "end": 58.79,
+      "text": "Every shift you pass me the tray"
+    },
+    {
+      "t": 62.31,
+      "end": 64.23,
+      "text": "Every shift I forget what to say"
+    },
+    {
+      "t": 64.25,
+      "end": 64.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.25,
+      "end": 65.03,
+      "text": "I only know your eyes, your eyes"
+    },
+    {
+      "t": 65.03,
+      "end": 69.93,
+      "text": "Over the belt in the factory light"
+    },
+    {
+      "t": 69.95,
+      "end": 71.83,
+      "text": "I only know your eyes, your eyes"
+    },
+    {
+      "t": 71.83,
+      "end": 102.35,
+      "text": "Tell me it's you, tell me it's right"
+    },
+    {
+      "t": 102.35,
+      "end": 102.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 102.35,
+      "end": 108.69,
+      "text": "Out at the gate I walked on by"
+    },
+    {
+      "t": 108.71,
+      "end": 112.63,
+      "text": "A stranger's chin, a stranger's smile"
+    },
+    {
+      "t": 112.63,
+      "end": 117.57,
+      "text": "Then you cupped your hands over your beard"
+    },
+    {
+      "t": 120.25,
+      "end": 121.79,
+      "text": "And there were the eyes, so near"
+    },
+    {
+      "t": 121.79,
+      "end": 121.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 121.79,
+      "end": 123.93,
+      "text": "Every shift you pass me the tray"
+    },
+    {
+      "t": 123.93,
+      "end": 128.39,
+      "text": "Now I know just what to say"
+    },
+    {
+      "t": 128.45,
+      "end": 128.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.45,
+      "end": 133.87,
+      "text": "I know your face now, I know your eyes"
+    },
+    {
+      "t": 133.93,
+      "end": 153.17,
+      "text": "Out in the open, out in the light"
+    },
+    {
+      "t": 153.21,
+      "end": 160.2,
+      "text": "I know your face now, I know your eyes"
+    },
+    {
+      "t": 160.2,
+      "end": 164.92,
+      "text": "Take off the snood, you're mine tonight"
+    },
+    {
+      "t": 164.92,
+      "end": 164.92,
+      "text": "[Outro - arpeggio alone, kick drops out]"
+    },
+    {
+      "t": 164.92,
+      "end": 193.3,
+      "text": "I only know your eyes"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Intro - pluck arpeggio, soft kick, filtered supersaw]"
+    },
+    {
+      "t": 29.78,
+      "end": 29.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.78,
+      "end": 33.62,
+      "text": "Six a.m. on the custard-cream line"
+    },
+    {
+      "t": 36.3,
+      "end": 43.4,
+      "text": "Hairnet, blue snood, gloves on tight"
+    },
+    {
+      "t": 43.42,
+      "end": 47.4,
+      "text": "All I know of you is your eyes"
+    },
+    {
+      "t": 50.34,
+      "end": 53.91,
+      "text": "Over the biscuits going by"
+    },
+    {
+      "t": 55.55,
+      "end": 55.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.55,
+      "end": 58.81,
+      "text": "Every shift you pass me the tray"
+    },
+    {
+      "t": 62.27,
+      "end": 65.33,
+      "text": "Every shift I forget what to say"
+    },
+    {
+      "t": 69.57,
+      "end": 69.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.57,
+      "end": 74.63,
+      "text": "I only know your eyes, your eyes"
+    },
+    {
+      "t": 74.69,
+      "end": 79.83,
+      "text": "Over the belt in the factory light"
+    },
+    {
+      "t": 79.83,
+      "end": 85.05,
+      "text": "I only know your eyes, your eyes"
+    },
+    {
+      "t": 97.85,
+      "end": 102.45,
+      "text": "Tell me it's you, tell me it's right"
+    },
+    {
+      "t": 102.53,
+      "end": 102.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 102.53,
+      "end": 108.71,
+      "text": "Out at the gate I walked on by"
+    },
+    {
+      "t": 108.73,
+      "end": 112.05,
+      "text": "A stranger's chin, a stranger's smile"
+    },
+    {
+      "t": 112.63,
+      "end": 120.07,
+      "text": "Then you cupped your hands over your beard"
+    },
+    {
+      "t": 120.07,
+      "end": 127.49,
+      "text": "And there were the eyes, so near"
+    },
+    {
+      "t": 127.55,
+      "end": 127.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 127.55,
+      "end": 138.47,
+      "text": "Every shift you pass me the tray"
+    },
+    {
+      "t": 138.67,
+      "end": 157.74,
+      "text": "Now I know just what to say"
+    },
+    {
+      "t": 157.92,
+      "end": 157.92,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 157.92,
+      "end": 164.4,
+      "text": "I know your face now, I know your eyes"
+    },
+    {
+      "t": 164.5,
+      "end": 171.78,
+      "text": "Out in the open, out in the light"
+    },
+    {
+      "t": 171.9,
+      "end": 183.8,
+      "text": "I know your face now, I know your eyes"
+    },
+    {
+      "t": 184.22,
+      "end": 199.64,
+      "text": "Take off the snood, you're mine tonight"
+    },
+    {
+      "t": 199.72,
+      "end": 199.72,
+      "text": "[Outro - arpeggio alone, kick drops out]"
+    },
+    {
+      "t": 199.72,
+      "end": 203.56,
+      "text": "I only know your eyes"
+    }
+  ]
+}

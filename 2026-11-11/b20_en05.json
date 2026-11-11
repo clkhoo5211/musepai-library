@@ -1,0 +1,327 @@
+{
+  "id": "b20_en05",
+  "title": "Nana's Got an Anchor",
+  "title_source": "scripted",
+  "genre": "sea shanty",
+  "language": "en",
+  "language_name": "English",
+  "mood": "rowdy, fond, cheeky",
+  "persona": "",
+  "subject": "A grandmother who has never been to sea gets an anchor tattooed on her forearm for her seventieth birthday and hides it under cardigans all summer from her disapproving daughter, who finally rolls up her own sleeve to show a swallow hidden since 1996.",
+  "caption": "Sea shanty, traditional British call-and-response work shanty with a rowdy pub-session feel. Crew chorus with foot stomps and hand claps on the beat, anglo concertina pumping chords, fiddle doubling the tune with droning double-stops, bodhran hand drum on a steady thump. Live pub-room recording, stomps and claps close to the mics. Male baritone shantyman, strong open chest voice, every line answered by a mixed crew chorus in unison. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, D minor. Rowdy, fond, cheeky. No drum kit, no electric guitar, no synths, no autotune, no rap, no pop production.",
+  "lyrics": "[Intro - concertina, stomps, bodhran]\n\n[Verse 1]\nNana turned seventy in the month of May\nNever been to sea, not a single day\nWalked in a tattoo parlour on the quay\nSaid, an anchor on my forearm, lad, for me\n\n[Pre-Chorus]\nHeave away, heave away\nNever been to sea, heave away\n\n[Chorus]\nOh, Nana's got an anchor, heave away, haul away\nHid beneath her cardigan all through the day\nNana's got an anchor and she's not going to say\nHeave away, my Nana, heave away\n\n[Verse 2]\nHer daughter says, Mother, it's thirty degrees\nWhy the cardigan, why the sleeves\nThen the daughter rolls her own sleeve high\nThere's a swallow from ninety-six, oh my\n\n[Pre-Chorus]\nHeave away, heave away\nWho's the sailor now, I say\n\n[Chorus]\nOh, Nana's got an anchor, and the daughter's got a bird\nHid beneath the cardigans, and neither said a word\nTwo of them have inked their arms, and both are rather proud\nHeave away, my Nana, sing it loud\n\n[Outro - concertina, fiddle, stomps]\nHeave away, my Nana, heave away",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "2",
+    "prompt": "Sea shanty, traditional British call-and-response work shanty with a rowdy pub-session feel. Crew chorus with foot stomps and hand claps on the beat, anglo concertina pumping chords, fiddle doubling the tune with droning double-stops, bodhran hand drum on a steady thump. Live pub-room recording, stomps and claps close to the mics. Male baritone shantyman, strong open chest voice, every line answered by a mixed crew chorus in unison. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, D minor. Rowdy, fond, cheeky. No drum kit, no electric guitar, no synths, no autotune, no rap, no pop production.",
+    "lyrics": "[Intro - concertina, stomps, bodhran]\n\n[Verse 1]\nNana turned seventy in the month of May\nNever been to sea, not a single day\nWalked in a tattoo parlour on the quay\nSaid, an anchor on my forearm, lad, for me\n\n[Pre-Chorus]\nHeave away, heave away\nNever been to sea, heave away\n\n[Chorus]\nOh, Nana's got an anchor, heave away, haul away\nHid beneath her cardigan all through the day\nNana's got an anchor and she's not going to say\nHeave away, my Nana, heave away\n\n[Verse 2]\nHer daughter says, Mother, it's thirty degrees\nWhy the cardigan, why the sleeves\nThen the daughter rolls her own sleeve high\nThere's a swallow from ninety-six, oh my\n\n[Pre-Chorus]\nHeave away, heave away\nWho's the sailor now, I say\n\n[Chorus]\nOh, Nana's got an anchor, and the daughter's got a bird\nHid beneath the cardigans, and neither said a word\nTwo of them have inked their arms, and both are rather proud\nHeave away, my Nana, sing it loud\n\n[Outro - concertina, fiddle, stomps]\nHeave away, my Nana, heave away"
+  },
+  "seed": "2544372980",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.83s**\n- 68.83s per song\n- LM phase (1 song): 14.77s\n- DiT phase (1 song): 54.06s",
+  "task_id": "e0790538-9307-4c36-81d0-d061a3faaa06",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-11-11T17:43:01.416737+08:00",
+  "audio": "b20_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Intro - concertina, stomps, bodhran]"
+    },
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.02,
+      "end": 35.76,
+      "text": "Nana turned seventy in the month of May"
+    },
+    {
+      "t": 36.96,
+      "end": 40.6,
+      "text": "Never been to sea, not a single day"
+    },
+    {
+      "t": 42.38,
+      "end": 45.18,
+      "text": "Walked in a tattoo parlour on the quay"
+    },
+    {
+      "t": 46.56,
+      "end": 52.03,
+      "text": "Said, an anchor on my forearm, lad, for me"
+    },
+    {
+      "t": 53.53,
+      "end": 53.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.53,
+      "end": 56.81,
+      "text": "Heave away, heave away"
+    },
+    {
+      "t": 58.33,
+      "end": 61.81,
+      "text": "Never been to sea, heave away"
+    },
+    {
+      "t": 63.21,
+      "end": 63.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.21,
+      "end": 66.37,
+      "text": "Oh, Nana's got an anchor, heave away, haul away"
+    },
+    {
+      "t": 67.91,
+      "end": 71.05,
+      "text": "Hid beneath her cardigan all through the day"
+    },
+    {
+      "t": 73.31,
+      "end": 77.19,
+      "text": "Nana's got an anchor and she's not going to say"
+    },
+    {
+      "t": 78.09,
+      "end": 81.93,
+      "text": "Heave away, my Nana, heave away"
+    },
+    {
+      "t": 86.13,
+      "end": 86.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.13,
+      "end": 89.71,
+      "text": "Her daughter says, Mother, it's thirty degrees"
+    },
+    {
+      "t": 91.19,
+      "end": 94.89,
+      "text": "Why the cardigan, why the sleeves"
+    },
+    {
+      "t": 95.99,
+      "end": 99.09,
+      "text": "Then the daughter rolls her own sleeve high"
+    },
+    {
+      "t": 100.49,
+      "end": 103.63,
+      "text": "There's a swallow from ninety-six, oh my"
+    },
+    {
+      "t": 105.01,
+      "end": 105.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.01,
+      "end": 108.27,
+      "text": "Heave away, heave away"
+    },
+    {
+      "t": 109.87,
+      "end": 113.17,
+      "text": "Who's the sailor now, I say"
+    },
+    {
+      "t": 117.79,
+      "end": 117.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.79,
+      "end": 122.91,
+      "text": "Oh, Nana's got an anchor, and the daughter's got a bird"
+    },
+    {
+      "t": 123.69,
+      "end": 127.55,
+      "text": "Hid beneath the cardigans, and neither said a word"
+    },
+    {
+      "t": 129.61,
+      "end": 134.19,
+      "text": "Two of them have inked their arms, and both are rather proud"
+    },
+    {
+      "t": 134.97,
+      "end": 138.39,
+      "text": "Heave away, my Nana, sing it loud"
+    },
+    {
+      "t": 174.8,
+      "end": 174.8,
+      "text": "[Outro - concertina, fiddle, stomps]"
+    },
+    {
+      "t": 174.8,
+      "end": 182.32,
+      "text": "Heave away, my Nana, heave away"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Intro - concertina, stomps, bodhran]"
+    },
+    {
+      "t": 33.02,
+      "end": 33.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.02,
+      "end": 35.78,
+      "text": "Nana turned seventy in the month of May"
+    },
+    {
+      "t": 36.96,
+      "end": 40.62,
+      "text": "Never been to sea, not a single day"
+    },
+    {
+      "t": 42.36,
+      "end": 45.2,
+      "text": "Walked in a tattoo parlour on the quay"
+    },
+    {
+      "t": 46.56,
+      "end": 52.03,
+      "text": "Said, an anchor on my forearm, lad, for me"
+    },
+    {
+      "t": 53.53,
+      "end": 53.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.53,
+      "end": 56.81,
+      "text": "Heave away, heave away"
+    },
+    {
+      "t": 58.33,
+      "end": 61.83,
+      "text": "Never been to sea, heave away"
+    },
+    {
+      "t": 63.21,
+      "end": 63.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.21,
+      "end": 66.39,
+      "text": "Oh, Nana's got an anchor, heave away, haul away"
+    },
+    {
+      "t": 67.91,
+      "end": 71.05,
+      "text": "Hid beneath her cardigan all through the day"
+    },
+    {
+      "t": 73.31,
+      "end": 77.19,
+      "text": "Nana's got an anchor and she's not going to say"
+    },
+    {
+      "t": 78.09,
+      "end": 81.93,
+      "text": "Heave away, my Nana, heave away"
+    },
+    {
+      "t": 86.13,
+      "end": 86.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.13,
+      "end": 89.69,
+      "text": "Her daughter says, Mother, it's thirty degrees"
+    },
+    {
+      "t": 91.19,
+      "end": 94.89,
+      "text": "Why the cardigan, why the sleeves"
+    },
+    {
+      "t": 95.99,
+      "end": 99.07,
+      "text": "Then the daughter rolls her own sleeve high"
+    },
+    {
+      "t": 100.49,
+      "end": 103.65,
+      "text": "There's a swallow from ninety-six, oh my"
+    },
+    {
+      "t": 105.01,
+      "end": 105.01,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.01,
+      "end": 108.29,
+      "text": "Heave away, heave away"
+    },
+    {
+      "t": 109.85,
+      "end": 113.15,
+      "text": "Who's the sailor now, I say"
+    },
+    {
+      "t": 118.39,
+      "end": 118.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.39,
+      "end": 122.87,
+      "text": "Oh, Nana's got an anchor, and the daughter's got a bird"
+    },
+    {
+      "t": 123.69,
+      "end": 127.55,
+      "text": "Hid beneath the cardigans, and neither said a word"
+    },
+    {
+      "t": 129.61,
+      "end": 134.19,
+      "text": "Two of them have inked their arms, and both are rather proud"
+    },
+    {
+      "t": 134.97,
+      "end": 138.43,
+      "text": "Heave away, my Nana, sing it loud"
+    },
+    {
+      "t": 174.8,
+      "end": 174.8,
+      "text": "[Outro - concertina, fiddle, stomps]"
+    },
+    {
+      "t": 174.8,
+      "end": 182.32,
+      "text": "Heave away, my Nana, heave away"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

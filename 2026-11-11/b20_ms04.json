@@ -1,0 +1,579 @@
+{
+  "id": "b20_ms04",
+  "title": "Angsana Hujung Lorong",
+  "title_source": "scripted",
+  "genre": "Malay lullaby-pop (dodoi-style 6/8 night song)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "wry, gentle, tender",
+  "persona": "",
+  "subject": "Every night Hazwan walks Najwa home past the old angsana tree at the end of her lorong said to hold a pontianak, insisting it is to protect her; she hums so he thinks she is brave while his sweating hand grips hers, and one night she turns round and walks him home instead.",
+  "caption": "Malay lullaby-pop in the dodoi night-song tradition, slow rocking 6/8. A celesta playing a music-box melody, a fingerpicked nylon-string guitar rocking in arpeggios, a soft upright bass on the downbeats, a brushed snare tapping gently, and a warm cello pad swelling under the chorus. Warm intimate chamber mix, celesta and guitar forward, short room reverb. Female warm mid-low alto singing a steady, unhurried melody. Clear full voice, every word enunciated, steady sung melody on every line. 66 BPM, F major. Wry, gentle and tender. No rap, no autotune, no trap hi-hats, no EDM drop, no dangdut, no drum kit groove, no big pop chorus.",
+  "lyrics": "[Intro - celesta, nylon guitar rocking in 6/8]\n[Verse 1]\nTiap malam abang hantar aku balik\nLorong panjang, lampu satu-satu\nDi hujung lorong ada pokok angsana\nOrang kata pontianak tinggal situ\n[Pre-Chorus]\nAbang kata, takut aku sorang-sorang\nTapi langkah abang makin laju\n[Chorus]\nAbang, jalan perlahan\nAku tak takut, aku tahu\nTangan abang sejuk berpeluh\nAku pegang, kita lalu\n[Verse 2]\nAku sengaja bersenandung\nBiar abang sangka aku berani\nDaun gugur, abang terloncat\nAku buat-buat tak nampak\n[Pre-Chorus]\nMalam ni aku berhenti kat pagar\nJom abang, aku hantar abang pula\n[Chorus]\nAbang, jalan perlahan\nGiliran aku jaga abang\nTangan aku hangat saja\nKita lalu, pokok pun diam\n[Bridge - celesta alone, then cello]\nPontianak pun mungkin tersenyum\n[Chorus]\nAbang, jalan perlahan\nAku hantar sampai depan pintu\nTangan abang dah kering\nEsok malam abang hantar lagi\n[Outro - celesta, guitar fading]\nPokok angsana, tolong diam",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Malay lullaby-pop in the dodoi night-song tradition, slow rocking 6/8. A celesta playing a music-box melody, a fingerpicked nylon-string guitar rocking in arpeggios, a soft upright bass on the downbeats, a brushed snare tapping gently, and a warm cello pad swelling under the chorus. Warm intimate chamber mix, celesta and guitar forward, short room reverb. Female warm mid-low alto singing a steady, unhurried melody. Clear full voice, every word enunciated, steady sung melody on every line. 66 BPM, F major. Wry, gentle and tender. No rap, no autotune, no trap hi-hats, no EDM drop, no dangdut, no drum kit groove, no big pop chorus.",
+    "lyrics": "[Intro - celesta, nylon guitar rocking in 6/8]\n[Verse 1]\nTiap malam abang hantar aku balik\nLorong panjang, lampu satu-satu\nDi hujung lorong ada pokok angsana\nOrang kata pontianak tinggal situ\n[Pre-Chorus]\nAbang kata, takut aku sorang-sorang\nTapi langkah abang makin laju\n[Chorus]\nAbang, jalan perlahan\nAku tak takut, aku tahu\nTangan abang sejuk berpeluh\nAku pegang, kita lalu\n[Verse 2]\nAku sengaja bersenandung\nBiar abang sangka aku berani\nDaun gugur, abang terloncat\nAku buat-buat tak nampak\n[Pre-Chorus]\nMalam ni aku berhenti kat pagar\nJom abang, aku hantar abang pula\n[Chorus]\nAbang, jalan perlahan\nGiliran aku jaga abang\nTangan aku hangat saja\nKita lalu, pokok pun diam\n[Bridge - celesta alone, then cello]\nPontianak pun mungkin tersenyum\n[Chorus]\nAbang, jalan perlahan\nAku hantar sampai depan pintu\nTangan abang dah kering\nEsok malam abang hantar lagi\n[Outro - celesta, guitar fading]\nPokok angsana, tolong diam"
+  },
+  "seed": "219114453",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 99.28s**\n- 99.28s per song\n- LM phase (1 song): 21.44s\n- DiT phase (1 song): 77.85s",
+  "task_id": "9bf7b736-b32c-47ae-91ad-d3c43748e5cf",
+  "elapsed_s": 130.4,
+  "generated_at": "2026-11-11T17:09:46.068864+08:00",
+  "audio": "b20_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.6,
+      "end": 18.6,
+      "text": "[Intro - celesta, nylon guitar rocking in 6/8]"
+    },
+    {
+      "t": 18.6,
+      "end": 18.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.6,
+      "end": 25.72,
+      "text": "Tiap malam abang hantar aku balik"
+    },
+    {
+      "t": 25.86,
+      "end": 30.4,
+      "text": "Lorong panjang, lampu satu-satu"
+    },
+    {
+      "t": 33.0,
+      "end": 35.64,
+      "text": "Di hujung lorong ada pokok angsana"
+    },
+    {
+      "t": 35.8,
+      "end": 37.74,
+      "text": "Orang kata pontianak tinggal situ"
+    },
+    {
+      "t": 40.6,
+      "end": 40.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.6,
+      "end": 46.04,
+      "text": "Abang kata, takut aku sorang-sorang"
+    },
+    {
+      "t": 47.34,
+      "end": 50.96,
+      "text": "Tapi langkah abang makin laju"
+    },
+    {
+      "t": 50.96,
+      "end": 50.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.96,
+      "end": 52.07,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 52.13,
+      "end": 58.31,
+      "text": "Aku tak takut, aku tahu"
+    },
+    {
+      "t": 58.31,
+      "end": 61.81,
+      "text": "Tangan abang sejuk berpeluh"
+    },
+    {
+      "t": 62.43,
+      "end": 66.81,
+      "text": "Aku pegang, kita lalu"
+    },
+    {
+      "t": 72.83,
+      "end": 72.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.83,
+      "end": 75.39,
+      "text": "Aku sengaja bersenandung"
+    },
+    {
+      "t": 76.85,
+      "end": 81.73,
+      "text": "Biar abang sangka aku berani"
+    },
+    {
+      "t": 84.95,
+      "end": 90.25,
+      "text": "Daun gugur, abang terloncat"
+    },
+    {
+      "t": 90.91,
+      "end": 97.07,
+      "text": "Aku buat-buat tak nampak"
+    },
+    {
+      "t": 97.07,
+      "end": 97.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.07,
+      "end": 101.05,
+      "text": "Malam ni aku berhenti kat pagar"
+    },
+    {
+      "t": 102.09,
+      "end": 106.15,
+      "text": "Jom abang, aku hantar abang pula"
+    },
+    {
+      "t": 106.29,
+      "end": 106.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.29,
+      "end": 108.17,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 108.19,
+      "end": 111.87,
+      "text": "Giliran aku jaga abang"
+    },
+    {
+      "t": 112.55,
+      "end": 115.69,
+      "text": "Tangan aku hangat saja"
+    },
+    {
+      "t": 116.43,
+      "end": 128.27,
+      "text": "Kita lalu, pokok pun diam"
+    },
+    {
+      "t": 135.75,
+      "end": 135.75,
+      "text": "[Bridge - celesta alone, then cello]"
+    },
+    {
+      "t": 135.75,
+      "end": 140.93,
+      "text": "Pontianak pun mungkin tersenyum"
+    },
+    {
+      "t": 140.93,
+      "end": 140.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.93,
+      "end": 154.66,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 156.78,
+      "end": 161.62,
+      "text": "Aku hantar sampai depan pintu"
+    },
+    {
+      "t": 167.14,
+      "end": 169.14,
+      "text": "Tangan abang dah kering"
+    },
+    {
+      "t": 169.26,
+      "end": 186.56,
+      "text": "Esok malam abang hantar lagi"
+    },
+    {
+      "t": 193.5,
+      "end": 193.5,
+      "text": "[Outro - celesta, guitar fading]"
+    },
+    {
+      "t": 193.5,
+      "end": 198.74,
+      "text": "Pokok angsana, tolong diam"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.6,
+      "end": 18.6,
+      "text": "[Intro - celesta, nylon guitar rocking in 6/8]"
+    },
+    {
+      "t": 18.6,
+      "end": 18.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.6,
+      "end": 25.72,
+      "text": "Tiap malam abang hantar aku balik"
+    },
+    {
+      "t": 25.86,
+      "end": 30.4,
+      "text": "Lorong panjang, lampu satu-satu"
+    },
+    {
+      "t": 33.0,
+      "end": 35.64,
+      "text": "Di hujung lorong ada pokok angsana"
+    },
+    {
+      "t": 35.8,
+      "end": 37.74,
+      "text": "Orang kata pontianak tinggal situ"
+    },
+    {
+      "t": 40.6,
+      "end": 40.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.6,
+      "end": 46.04,
+      "text": "Abang kata, takut aku sorang-sorang"
+    },
+    {
+      "t": 47.34,
+      "end": 50.96,
+      "text": "Tapi langkah abang makin laju"
+    },
+    {
+      "t": 50.96,
+      "end": 50.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.96,
+      "end": 52.07,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 52.13,
+      "end": 58.31,
+      "text": "Aku tak takut, aku tahu"
+    },
+    {
+      "t": 58.31,
+      "end": 61.81,
+      "text": "Tangan abang sejuk berpeluh"
+    },
+    {
+      "t": 62.43,
+      "end": 66.81,
+      "text": "Aku pegang, kita lalu"
+    },
+    {
+      "t": 72.83,
+      "end": 72.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.83,
+      "end": 75.39,
+      "text": "Aku sengaja bersenandung"
+    },
+    {
+      "t": 76.85,
+      "end": 81.73,
+      "text": "Biar abang sangka aku berani"
+    },
+    {
+      "t": 84.95,
+      "end": 90.25,
+      "text": "Daun gugur, abang terloncat"
+    },
+    {
+      "t": 90.91,
+      "end": 97.07,
+      "text": "Aku buat-buat tak nampak"
+    },
+    {
+      "t": 97.07,
+      "end": 97.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.07,
+      "end": 101.05,
+      "text": "Malam ni aku berhenti kat pagar"
+    },
+    {
+      "t": 102.09,
+      "end": 106.15,
+      "text": "Jom abang, aku hantar abang pula"
+    },
+    {
+      "t": 106.29,
+      "end": 106.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.29,
+      "end": 108.17,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 108.19,
+      "end": 111.87,
+      "text": "Giliran aku jaga abang"
+    },
+    {
+      "t": 112.55,
+      "end": 115.69,
+      "text": "Tangan aku hangat saja"
+    },
+    {
+      "t": 116.43,
+      "end": 128.27,
+      "text": "Kita lalu, pokok pun diam"
+    },
+    {
+      "t": 135.75,
+      "end": 135.75,
+      "text": "[Bridge - celesta alone, then cello]"
+    },
+    {
+      "t": 135.75,
+      "end": 140.93,
+      "text": "Pontianak pun mungkin tersenyum"
+    },
+    {
+      "t": 140.93,
+      "end": 140.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.93,
+      "end": 154.66,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 156.78,
+      "end": 161.62,
+      "text": "Aku hantar sampai depan pintu"
+    },
+    {
+      "t": 167.14,
+      "end": 169.14,
+      "text": "Tangan abang dah kering"
+    },
+    {
+      "t": 169.26,
+      "end": 186.56,
+      "text": "Esok malam abang hantar lagi"
+    },
+    {
+      "t": 193.5,
+      "end": 193.5,
+      "text": "[Outro - celesta, guitar fading]"
+    },
+    {
+      "t": 193.5,
+      "end": 198.74,
+      "text": "Pokok angsana, tolong diam"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 18.6,
+      "end": 18.6,
+      "text": "[Intro - celesta, nylon guitar rocking in 6/8]"
+    },
+    {
+      "t": 18.6,
+      "end": 18.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.6,
+      "end": 23.34,
+      "text": "Tiap malam abang hantar aku balik"
+    },
+    {
+      "t": 25.86,
+      "end": 30.38,
+      "text": "Lorong panjang, lampu satu-satu"
+    },
+    {
+      "t": 33.0,
+      "end": 35.62,
+      "text": "Di hujung lorong ada pokok angsana"
+    },
+    {
+      "t": 35.62,
+      "end": 37.74,
+      "text": "Orang kata pontianak tinggal situ"
+    },
+    {
+      "t": 40.6,
+      "end": 40.6,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.6,
+      "end": 46.0,
+      "text": "Abang kata, takut aku sorang-sorang"
+    },
+    {
+      "t": 47.34,
+      "end": 52.29,
+      "text": "Tapi langkah abang makin laju"
+    },
+    {
+      "t": 52.59,
+      "end": 52.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.59,
+      "end": 54.31,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 54.33,
+      "end": 56.11,
+      "text": "Aku tak takut, aku tahu"
+    },
+    {
+      "t": 58.23,
+      "end": 61.81,
+      "text": "Tangan abang sejuk berpeluh"
+    },
+    {
+      "t": 62.43,
+      "end": 66.81,
+      "text": "Aku pegang, kita lalu"
+    },
+    {
+      "t": 72.83,
+      "end": 72.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.83,
+      "end": 75.35,
+      "text": "Aku sengaja bersenandung"
+    },
+    {
+      "t": 76.85,
+      "end": 81.73,
+      "text": "Biar abang sangka aku berani"
+    },
+    {
+      "t": 84.97,
+      "end": 90.25,
+      "text": "Daun gugur, abang terloncat"
+    },
+    {
+      "t": 90.93,
+      "end": 97.05,
+      "text": "Aku buat-buat tak nampak"
+    },
+    {
+      "t": 97.05,
+      "end": 97.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.05,
+      "end": 100.91,
+      "text": "Malam ni aku berhenti kat pagar"
+    },
+    {
+      "t": 102.09,
+      "end": 106.13,
+      "text": "Jom abang, aku hantar abang pula"
+    },
+    {
+      "t": 106.29,
+      "end": 106.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.29,
+      "end": 108.21,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 108.95,
+      "end": 111.89,
+      "text": "Giliran aku jaga abang"
+    },
+    {
+      "t": 112.55,
+      "end": 115.69,
+      "text": "Tangan aku hangat saja"
+    },
+    {
+      "t": 116.43,
+      "end": 122.09,
+      "text": "Kita lalu, pokok pun diam"
+    },
+    {
+      "t": 135.77,
+      "end": 135.77,
+      "text": "[Bridge - celesta alone, then cello]"
+    },
+    {
+      "t": 135.77,
+      "end": 140.83,
+      "text": "Pontianak pun mungkin tersenyum"
+    },
+    {
+      "t": 141.11,
+      "end": 141.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.11,
+      "end": 154.68,
+      "text": "Abang, jalan perlahan"
+    },
+    {
+      "t": 156.8,
+      "end": 161.62,
+      "text": "Aku hantar sampai depan pintu"
+    },
+    {
+      "t": 167.14,
+      "end": 169.14,
+      "text": "Tangan abang dah kering"
+    },
+    {
+      "t": 169.18,
+      "end": 186.56,
+      "text": "Esok malam abang hantar lagi"
+    },
+    {
+      "t": 193.52,
+      "end": 193.52,
+      "text": "[Outro - celesta, guitar fading]"
+    },
+    {
+      "t": 193.52,
+      "end": 198.74,
+      "text": "Pokok angsana, tolong diam"
+    }
+  ]
+}

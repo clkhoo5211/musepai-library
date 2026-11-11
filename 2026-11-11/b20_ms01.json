@@ -1,0 +1,579 @@
+{
+  "id": "b20_ms01",
+  "title": "Kamek Sayang Kitak",
+  "title_source": "scripted",
+  "genre": "Malay Eurodance (1990s Eurodance dance-pop)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "flirty, teasing, dance-floor bright",
+  "persona": "",
+  "subject": "At the Kuching Waterfront over two glasses of teh C peng, a Sarawakian woman tells her Kedah boyfriend 'kamek sayang kitak'; he hears 'kami sayang kita', asks who 'we' are, and once she translates answers in his own dialect: 'aku sayang hang'.",
+  "caption": "Malay Eurodance, 1990s club dance-pop with a sung hook. A punchy four-on-the-floor kick with an offbeat synth bass pumping under it, bright Italo-style piano stabs on the upbeats, a sharp saw-synth lead playing the hook, and a string-pad riser into each chorus. Glossy 90s club mix, kick and lead forward, wide pads, short plate reverb. Female bright mezzo lead with a playful edge, a small mixed group answering the hook on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, F# minor. Flirty, teasing and dance-floor bright. No rap verse, no trap hi-hats, no autotune, no disco strings, no slap bass, no rock guitar.",
+  "lyrics": "[Intro - synth pad, kick enters, piano stabs]\n[Verse 1]\nWaterfront Kuching, angin petang\nTeh C peng dua gelas atas meja\nAku renung dia, aku bisik\nKamek sayang kitak, abang\n[Pre-Chorus]\nDia berkerut, dia garu kepala\nKami? Kita? Siapa kami?\n[Chorus]\nKamek sayang kitak, kitak sayang kamek\nTak faham pun tak apa, tak apa\nKamek sayang kitak, kitak sayang kamek\nMenari dulu, terjemah kemudian\n[Verse 2]\nAku terang pelan-pelan\nKamek itu aku, kitak itu awak\nDia senyum lebar, dia angguk\nDia tarik nafas, dia buka mulut\n[Pre-Chorus]\nDia ketuk meja, dia ketawa\nDengar baik-baik, dengar sini\n[Chorus]\nKamek sayang kitak, aku sayang hang\nDua loghat, satu lagu, satu hati\nKamek sayang kitak, aku sayang hang\nMenari dulu, terjemah kemudian\n[Bridge - piano stabs only, then kick returns]\nAis dah cair, teh pun dah tawar\n[Chorus]\nKamek sayang kitak, aku sayang hang\nSarawak Kedah, jumpa di tengah\nKamek sayang kitak, aku sayang hang\nMenari dulu, terjemah kemudian\n[Outro - lead synth, kick fades]\nKamek, kitak, aku, hang",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Malay Eurodance, 1990s club dance-pop with a sung hook. A punchy four-on-the-floor kick with an offbeat synth bass pumping under it, bright Italo-style piano stabs on the upbeats, a sharp saw-synth lead playing the hook, and a string-pad riser into each chorus. Glossy 90s club mix, kick and lead forward, wide pads, short plate reverb. Female bright mezzo lead with a playful edge, a small mixed group answering the hook on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, F# minor. Flirty, teasing and dance-floor bright. No rap verse, no trap hi-hats, no autotune, no disco strings, no slap bass, no rock guitar.",
+    "lyrics": "[Intro - synth pad, kick enters, piano stabs]\n[Verse 1]\nWaterfront Kuching, angin petang\nTeh C peng dua gelas atas meja\nAku renung dia, aku bisik\nKamek sayang kitak, abang\n[Pre-Chorus]\nDia berkerut, dia garu kepala\nKami? Kita? Siapa kami?\n[Chorus]\nKamek sayang kitak, kitak sayang kamek\nTak faham pun tak apa, tak apa\nKamek sayang kitak, kitak sayang kamek\nMenari dulu, terjemah kemudian\n[Verse 2]\nAku terang pelan-pelan\nKamek itu aku, kitak itu awak\nDia senyum lebar, dia angguk\nDia tarik nafas, dia buka mulut\n[Pre-Chorus]\nDia ketuk meja, dia ketawa\nDengar baik-baik, dengar sini\n[Chorus]\nKamek sayang kitak, aku sayang hang\nDua loghat, satu lagu, satu hati\nKamek sayang kitak, aku sayang hang\nMenari dulu, terjemah kemudian\n[Bridge - piano stabs only, then kick returns]\nAis dah cair, teh pun dah tawar\n[Chorus]\nKamek sayang kitak, aku sayang hang\nSarawak Kedah, jumpa di tengah\nKamek sayang kitak, aku sayang hang\nMenari dulu, terjemah kemudian\n[Outro - lead synth, kick fades]\nKamek, kitak, aku, hang"
+  },
+  "seed": "4129502921",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 75.29s**\n- 75.29s per song\n- LM phase (1 song): 17.20s\n- DiT phase (1 song): 58.09s",
+  "task_id": "9b1bdd83-566d-456b-b4ce-291484e0b267",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-11-11T17:02:14.044263+08:00",
+  "audio": "b20_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Intro - synth pad, kick enters, piano stabs]"
+    },
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.44,
+      "end": 8.64,
+      "text": "Waterfront Kuching, angin petang"
+    },
+    {
+      "t": 8.64,
+      "end": 30.74,
+      "text": "Teh C peng dua gelas atas meja"
+    },
+    {
+      "t": 30.8,
+      "end": 32.06,
+      "text": "Aku renung dia, aku bisik"
+    },
+    {
+      "t": 32.08,
+      "end": 33.7,
+      "text": "Kamek sayang kitak, abang"
+    },
+    {
+      "t": 33.7,
+      "end": 33.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.7,
+      "end": 34.8,
+      "text": "Dia berkerut, dia garu kepala"
+    },
+    {
+      "t": 35.06,
+      "end": 38.46,
+      "text": "Kami? Kita? Siapa kami?"
+    },
+    {
+      "t": 38.62,
+      "end": 38.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 38.62,
+      "end": 41.3,
+      "text": "Kamek sayang kitak, kitak sayang kamek"
+    },
+    {
+      "t": 41.48,
+      "end": 46.02,
+      "text": "Tak faham pun tak apa, tak apa"
+    },
+    {
+      "t": 46.02,
+      "end": 50.19,
+      "text": "Kamek sayang kitak, kitak sayang kamek"
+    },
+    {
+      "t": 50.23,
+      "end": 60.59,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 60.65,
+      "end": 60.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.65,
+      "end": 63.85,
+      "text": "Aku terang pelan-pelan"
+    },
+    {
+      "t": 67.55,
+      "end": 70.85,
+      "text": "Kamek itu aku, kitak itu awak"
+    },
+    {
+      "t": 71.05,
+      "end": 74.31,
+      "text": "Dia senyum lebar, dia angguk"
+    },
+    {
+      "t": 74.53,
+      "end": 77.35,
+      "text": "Dia tarik nafas, dia buka mulut"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.79,
+      "end": 80.73,
+      "text": "Dia ketuk meja, dia ketawa"
+    },
+    {
+      "t": 81.25,
+      "end": 87.55,
+      "text": "Dengar baik-baik, dengar sini"
+    },
+    {
+      "t": 87.57,
+      "end": 87.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.57,
+      "end": 90.63,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 91.49,
+      "end": 95.73,
+      "text": "Dua loghat, satu lagu, satu hati"
+    },
+    {
+      "t": 96.25,
+      "end": 102.59,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 102.97,
+      "end": 106.27,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 107.21,
+      "end": 107.21,
+      "text": "[Bridge - piano stabs only, then kick returns]"
+    },
+    {
+      "t": 107.21,
+      "end": 145.47,
+      "text": "Ais dah cair, teh pun dah tawar"
+    },
+    {
+      "t": 145.93,
+      "end": 145.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.93,
+      "end": 152.54,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 155.56,
+      "end": 159.86,
+      "text": "Sarawak Kedah, jumpa di tengah"
+    },
+    {
+      "t": 160.18,
+      "end": 163.54,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 165.6,
+      "end": 170.0,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 170.0,
+      "end": 170.0,
+      "text": "[Outro - lead synth, kick fades]"
+    },
+    {
+      "t": 170.0,
+      "end": 170.76,
+      "text": "Kamek, kitak, aku, hang"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Intro - synth pad, kick enters, piano stabs]"
+    },
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.44,
+      "end": 8.64,
+      "text": "Waterfront Kuching, angin petang"
+    },
+    {
+      "t": 8.64,
+      "end": 30.74,
+      "text": "Teh C peng dua gelas atas meja"
+    },
+    {
+      "t": 30.8,
+      "end": 32.06,
+      "text": "Aku renung dia, aku bisik"
+    },
+    {
+      "t": 32.08,
+      "end": 33.7,
+      "text": "Kamek sayang kitak, abang"
+    },
+    {
+      "t": 33.7,
+      "end": 33.7,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.7,
+      "end": 34.8,
+      "text": "Dia berkerut, dia garu kepala"
+    },
+    {
+      "t": 35.06,
+      "end": 38.46,
+      "text": "Kami? Kita? Siapa kami?"
+    },
+    {
+      "t": 38.62,
+      "end": 38.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 38.62,
+      "end": 41.3,
+      "text": "Kamek sayang kitak, kitak sayang kamek"
+    },
+    {
+      "t": 41.48,
+      "end": 46.02,
+      "text": "Tak faham pun tak apa, tak apa"
+    },
+    {
+      "t": 46.02,
+      "end": 50.19,
+      "text": "Kamek sayang kitak, kitak sayang kamek"
+    },
+    {
+      "t": 50.23,
+      "end": 60.59,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 60.65,
+      "end": 60.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.65,
+      "end": 63.85,
+      "text": "Aku terang pelan-pelan"
+    },
+    {
+      "t": 67.55,
+      "end": 70.85,
+      "text": "Kamek itu aku, kitak itu awak"
+    },
+    {
+      "t": 71.05,
+      "end": 74.31,
+      "text": "Dia senyum lebar, dia angguk"
+    },
+    {
+      "t": 74.53,
+      "end": 77.35,
+      "text": "Dia tarik nafas, dia buka mulut"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.79,
+      "end": 80.73,
+      "text": "Dia ketuk meja, dia ketawa"
+    },
+    {
+      "t": 81.25,
+      "end": 87.55,
+      "text": "Dengar baik-baik, dengar sini"
+    },
+    {
+      "t": 87.57,
+      "end": 87.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.57,
+      "end": 90.63,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 91.49,
+      "end": 95.73,
+      "text": "Dua loghat, satu lagu, satu hati"
+    },
+    {
+      "t": 96.25,
+      "end": 102.59,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 102.97,
+      "end": 106.27,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 107.21,
+      "end": 107.21,
+      "text": "[Bridge - piano stabs only, then kick returns]"
+    },
+    {
+      "t": 107.21,
+      "end": 145.47,
+      "text": "Ais dah cair, teh pun dah tawar"
+    },
+    {
+      "t": 145.93,
+      "end": 145.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.93,
+      "end": 152.54,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 155.56,
+      "end": 159.86,
+      "text": "Sarawak Kedah, jumpa di tengah"
+    },
+    {
+      "t": 160.18,
+      "end": 163.54,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 165.6,
+      "end": 170.0,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 170.0,
+      "end": 170.0,
+      "text": "[Outro - lead synth, kick fades]"
+    },
+    {
+      "t": 170.0,
+      "end": 170.76,
+      "text": "Kamek, kitak, aku, hang"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Intro - synth pad, kick enters, piano stabs]"
+    },
+    {
+      "t": 0.44,
+      "end": 0.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.44,
+      "end": 16.86,
+      "text": "Waterfront Kuching, angin petang"
+    },
+    {
+      "t": 16.86,
+      "end": 18.7,
+      "text": "Teh C peng dua gelas atas meja"
+    },
+    {
+      "t": 18.78,
+      "end": 20.62,
+      "text": "Aku renung dia, aku bisik"
+    },
+    {
+      "t": 21.26,
+      "end": 23.6,
+      "text": "Kamek sayang kitak, abang"
+    },
+    {
+      "t": 23.68,
+      "end": 23.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 23.68,
+      "end": 26.38,
+      "text": "Dia berkerut, dia garu kepala"
+    },
+    {
+      "t": 26.54,
+      "end": 27.94,
+      "text": "Kami? Kita? Siapa kami?"
+    },
+    {
+      "t": 28.3,
+      "end": 28.3,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 28.3,
+      "end": 34.76,
+      "text": "Kamek sayang kitak, kitak sayang kamek"
+    },
+    {
+      "t": 35.0,
+      "end": 39.16,
+      "text": "Tak faham pun tak apa, tak apa"
+    },
+    {
+      "t": 39.72,
+      "end": 56.77,
+      "text": "Kamek sayang kitak, kitak sayang kamek"
+    },
+    {
+      "t": 56.97,
+      "end": 60.81,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 61.03,
+      "end": 61.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.03,
+      "end": 63.85,
+      "text": "Aku terang pelan-pelan"
+    },
+    {
+      "t": 67.55,
+      "end": 70.83,
+      "text": "Kamek itu aku, kitak itu awak"
+    },
+    {
+      "t": 71.05,
+      "end": 74.29,
+      "text": "Dia senyum lebar, dia angguk"
+    },
+    {
+      "t": 74.53,
+      "end": 77.37,
+      "text": "Dia tarik nafas, dia buka mulut"
+    },
+    {
+      "t": 77.79,
+      "end": 77.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.79,
+      "end": 80.71,
+      "text": "Dia ketuk meja, dia ketawa"
+    },
+    {
+      "t": 81.25,
+      "end": 86.39,
+      "text": "Dengar baik-baik, dengar sini"
+    },
+    {
+      "t": 86.47,
+      "end": 86.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.47,
+      "end": 90.59,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 91.49,
+      "end": 95.73,
+      "text": "Dua loghat, satu lagu, satu hati"
+    },
+    {
+      "t": 97.11,
+      "end": 102.55,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 102.99,
+      "end": 106.27,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 107.21,
+      "end": 107.21,
+      "text": "[Bridge - piano stabs only, then kick returns]"
+    },
+    {
+      "t": 107.21,
+      "end": 110.13,
+      "text": "Ais dah cair, teh pun dah tawar"
+    },
+    {
+      "t": 119.75,
+      "end": 119.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.75,
+      "end": 152.54,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 155.5,
+      "end": 159.88,
+      "text": "Sarawak Kedah, jumpa di tengah"
+    },
+    {
+      "t": 160.2,
+      "end": 163.52,
+      "text": "Kamek sayang kitak, aku sayang hang"
+    },
+    {
+      "t": 165.64,
+      "end": 172.64,
+      "text": "Menari dulu, terjemah kemudian"
+    },
+    {
+      "t": 175.3,
+      "end": 175.3,
+      "text": "[Outro - lead synth, kick fades]"
+    },
+    {
+      "t": 175.3,
+      "end": 188.28,
+      "text": "Kamek, kitak, aku, hang"
+    }
+  ]
+}
