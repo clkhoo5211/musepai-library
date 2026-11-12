@@ -1,0 +1,489 @@
+{
+  "id": "b19_ko01",
+  "title": "어깨 펴",
+  "title_source": "scripted",
+  "genre": "Korean ukulele twee indie-pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "tender, smitten, gently teasing",
+  "persona": "",
+  "subject": "a woman whose boyfriend silently taps her shoulder blade with two fingers every time she slouches over her laptop in their usual café, and she starts slouching on purpose",
+  "caption": "Korean twee indie-pop, light and bouncy with a gentle sway. Strummed ukulele playing bright upstroke chords, kalimba doubling the hook in plucked eighth notes, round electric bass walking under the root notes, brushed snare with finger snaps on two and four. Dry bedroom-studio sound with light tape warmth. Female mid-register lead, clearly sung melody, warm and direct. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, A major. Tender and gently teasing. No synthesizer pads, no drum machine, no distorted guitar, no autotune, no rap, no whispered vocal.",
+  "lyrics": "[Intro - ukulele, kalimba]\n\n[Verse 1]\n창가 자리 노트북 앞에\n나도 몰래 등이 굽으면\n너는 말없이 손가락 두 개\n내 날개뼈를 톡톡 쳐\n\n[Pre-Chorus]\n잔소리 한 마디 없이\n커피만 홀짝 마시면서\n\n[Chorus]\n어깨 펴, 어깨 펴\n그 두 손가락이 좋아서\n오늘은 일부러 구부정하게\n너 또 톡 칠 때까지\n\n[Verse 2]\n집에 와서 거울을 보면\n어제보다 키가 좀 커\n근데 혼자 있을 때마다\n자꾸 또 등이 굽어\n\n[Pre-Chorus]\n이건 너 없이 안 되는\n이상한 버릇이 됐나 봐\n\n[Chorus]\n어깨 펴, 어깨 펴\n그 두 손가락이 좋아서\n내일도 일부러 굽혀 앉을게\n너 또 웃을 때까지\n\n[Outro - kalimba and ukulele fade]\n톡톡, 나 여기 있어\n어깨 펴, 네 옆에서",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Korean twee indie-pop, light and bouncy with a gentle sway. Strummed ukulele playing bright upstroke chords, kalimba doubling the hook in plucked eighth notes, round electric bass walking under the root notes, brushed snare with finger snaps on two and four. Dry bedroom-studio sound with light tape warmth. Female mid-register lead, clearly sung melody, warm and direct. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, A major. Tender and gently teasing. No synthesizer pads, no drum machine, no distorted guitar, no autotune, no rap, no whispered vocal.",
+    "lyrics": "[Intro - ukulele, kalimba]\n\n[Verse 1]\n창가 자리 노트북 앞에\n나도 몰래 등이 굽으면\n너는 말없이 손가락 두 개\n내 날개뼈를 톡톡 쳐\n\n[Pre-Chorus]\n잔소리 한 마디 없이\n커피만 홀짝 마시면서\n\n[Chorus]\n어깨 펴, 어깨 펴\n그 두 손가락이 좋아서\n오늘은 일부러 구부정하게\n너 또 톡 칠 때까지\n\n[Verse 2]\n집에 와서 거울을 보면\n어제보다 키가 좀 커\n근데 혼자 있을 때마다\n자꾸 또 등이 굽어\n\n[Pre-Chorus]\n이건 너 없이 안 되는\n이상한 버릇이 됐나 봐\n\n[Chorus]\n어깨 펴, 어깨 펴\n그 두 손가락이 좋아서\n내일도 일부러 굽혀 앉을게\n너 또 웃을 때까지\n\n[Outro - kalimba and ukulele fade]\n톡톡, 나 여기 있어\n어깨 펴, 네 옆에서"
+  },
+  "seed": "4116348985",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 92.73s**\n- 92.73s per song\n- LM phase (1 song): 7.71s\n- DiT phase (1 song): 85.02s",
+  "task_id": "bfabe33c-4365-489e-b862-f76375c3a8cf",
+  "elapsed_s": 170.5,
+  "generated_at": "2026-11-11T22:37:09.504930+08:00",
+  "audio": "b19_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.3,
+      "end": 7.3,
+      "text": "[Intro - ukulele, kalimba]"
+    },
+    {
+      "t": 7.3,
+      "end": 7.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.3,
+      "end": 29.22,
+      "text": "창가 자리 노트북 앞에"
+    },
+    {
+      "t": 29.22,
+      "end": 37.28,
+      "text": "나도 몰래 등이 굽으면"
+    },
+    {
+      "t": 37.36,
+      "end": 44.2,
+      "text": "너는 말없이 손가락 두 개"
+    },
+    {
+      "t": 44.2,
+      "end": 48.84,
+      "text": "내 날개뼈를 톡톡 쳐"
+    },
+    {
+      "t": 57.29,
+      "end": 57.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.29,
+      "end": 59.33,
+      "text": "잔소리 한 마디 없이"
+    },
+    {
+      "t": 59.33,
+      "end": 61.45,
+      "text": "커피만 홀짝 마시면서"
+    },
+    {
+      "t": 61.69,
+      "end": 61.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.69,
+      "end": 66.43,
+      "text": "어깨 펴, 어깨 펴"
+    },
+    {
+      "t": 66.83,
+      "end": 69.85,
+      "text": "그 두 손가락이 좋아서"
+    },
+    {
+      "t": 71.37,
+      "end": 74.79,
+      "text": "오늘은 일부러 구부정하게"
+    },
+    {
+      "t": 76.07,
+      "end": 78.83,
+      "text": "너 또 톡 칠 때까지"
+    },
+    {
+      "t": 99.99,
+      "end": 99.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.99,
+      "end": 102.45,
+      "text": "집에 와서 거울을 보면"
+    },
+    {
+      "t": 102.45,
+      "end": 104.21,
+      "text": "어제보다 키가 좀 커"
+    },
+    {
+      "t": 108.33,
+      "end": 111.21,
+      "text": "근데 혼자 있을 때마다"
+    },
+    {
+      "t": 112.05,
+      "end": 113.47,
+      "text": "자꾸 또 등이 굽어"
+    },
+    {
+      "t": 114.17,
+      "end": 114.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.17,
+      "end": 116.99,
+      "text": "이건 너 없이 안 되는"
+    },
+    {
+      "t": 118.73,
+      "end": 120.83,
+      "text": "이상한 버릇이 됐나 봐"
+    },
+    {
+      "t": 120.91,
+      "end": 120.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.91,
+      "end": 124.01,
+      "text": "어깨 펴, 어깨 펴"
+    },
+    {
+      "t": 124.15,
+      "end": 144.83,
+      "text": "그 두 손가락이 좋아서"
+    },
+    {
+      "t": 144.97,
+      "end": 154.76,
+      "text": "내일도 일부러 굽혀 앉을게"
+    },
+    {
+      "t": 154.92,
+      "end": 157.68,
+      "text": "너 또 웃을 때까지"
+    },
+    {
+      "t": 163.44,
+      "end": 163.44,
+      "text": "[Outro - kalimba and ukulele fade]"
+    },
+    {
+      "t": 163.44,
+      "end": 166.78,
+      "text": "톡톡, 나 여기 있어"
+    },
+    {
+      "t": 172.68,
+      "end": 176.0,
+      "text": "어깨 펴, 네 옆에서"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.32,
+      "end": 7.32,
+      "text": "[Intro - ukulele, kalimba]"
+    },
+    {
+      "t": 7.32,
+      "end": 7.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.32,
+      "end": 29.22,
+      "text": "창가 자리 노트북 앞에"
+    },
+    {
+      "t": 29.22,
+      "end": 37.38,
+      "text": "나도 몰래 등이 굽으면"
+    },
+    {
+      "t": 37.48,
+      "end": 44.2,
+      "text": "너는 말없이 손가락 두 개"
+    },
+    {
+      "t": 44.2,
+      "end": 48.84,
+      "text": "내 날개뼈를 톡톡 쳐"
+    },
+    {
+      "t": 57.29,
+      "end": 57.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.29,
+      "end": 59.33,
+      "text": "잔소리 한 마디 없이"
+    },
+    {
+      "t": 59.33,
+      "end": 61.45,
+      "text": "커피만 홀짝 마시면서"
+    },
+    {
+      "t": 61.69,
+      "end": 61.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.69,
+      "end": 66.43,
+      "text": "어깨 펴, 어깨 펴"
+    },
+    {
+      "t": 66.83,
+      "end": 69.85,
+      "text": "그 두 손가락이 좋아서"
+    },
+    {
+      "t": 71.37,
+      "end": 74.79,
+      "text": "오늘은 일부러 구부정하게"
+    },
+    {
+      "t": 76.07,
+      "end": 78.83,
+      "text": "너 또 톡 칠 때까지"
+    },
+    {
+      "t": 99.99,
+      "end": 99.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.99,
+      "end": 102.45,
+      "text": "집에 와서 거울을 보면"
+    },
+    {
+      "t": 102.45,
+      "end": 104.21,
+      "text": "어제보다 키가 좀 커"
+    },
+    {
+      "t": 108.33,
+      "end": 111.21,
+      "text": "근데 혼자 있을 때마다"
+    },
+    {
+      "t": 112.05,
+      "end": 113.47,
+      "text": "자꾸 또 등이 굽어"
+    },
+    {
+      "t": 114.17,
+      "end": 114.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.17,
+      "end": 116.99,
+      "text": "이건 너 없이 안 되는"
+    },
+    {
+      "t": 118.73,
+      "end": 120.83,
+      "text": "이상한 버릇이 됐나 봐"
+    },
+    {
+      "t": 120.91,
+      "end": 120.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.91,
+      "end": 124.01,
+      "text": "어깨 펴, 어깨 펴"
+    },
+    {
+      "t": 124.15,
+      "end": 125.57,
+      "text": "그 두 손가락이 좋아서"
+    },
+    {
+      "t": 126.23,
+      "end": 152.48,
+      "text": "내일도 일부러 굽혀 앉을게"
+    },
+    {
+      "t": 152.48,
+      "end": 157.68,
+      "text": "너 또 웃을 때까지"
+    },
+    {
+      "t": 163.44,
+      "end": 163.44,
+      "text": "[Outro - kalimba and ukulele fade]"
+    },
+    {
+      "t": 163.44,
+      "end": 166.78,
+      "text": "톡톡, 나 여기 있어"
+    },
+    {
+      "t": 172.68,
+      "end": 176.0,
+      "text": "어깨 펴, 네 옆에서"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 5.3,
+      "end": 5.3,
+      "text": "[Intro - ukulele, kalimba]"
+    },
+    {
+      "t": 5.3,
+      "end": 5.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.3,
+      "end": 29.22,
+      "text": "창가 자리 노트북 앞에"
+    },
+    {
+      "t": 29.22,
+      "end": 37.28,
+      "text": "나도 몰래 등이 굽으면"
+    },
+    {
+      "t": 37.34,
+      "end": 44.2,
+      "text": "너는 말없이 손가락 두 개"
+    },
+    {
+      "t": 44.34,
+      "end": 48.84,
+      "text": "내 날개뼈를 톡톡 쳐"
+    },
+    {
+      "t": 51.27,
+      "end": 51.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.27,
+      "end": 58.75,
+      "text": "잔소리 한 마디 없이"
+    },
+    {
+      "t": 59.05,
+      "end": 61.17,
+      "text": "커피만 홀짝 마시면서"
+    },
+    {
+      "t": 61.19,
+      "end": 61.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.19,
+      "end": 63.65,
+      "text": "어깨 펴, 어깨 펴"
+    },
+    {
+      "t": 66.83,
+      "end": 69.85,
+      "text": "그 두 손가락이 좋아서"
+    },
+    {
+      "t": 71.37,
+      "end": 74.77,
+      "text": "오늘은 일부러 구부정하게"
+    },
+    {
+      "t": 76.07,
+      "end": 78.83,
+      "text": "너 또 톡 칠 때까지"
+    },
+    {
+      "t": 99.99,
+      "end": 99.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 99.99,
+      "end": 102.43,
+      "text": "집에 와서 거울을 보면"
+    },
+    {
+      "t": 102.43,
+      "end": 104.21,
+      "text": "어제보다 키가 좀 커"
+    },
+    {
+      "t": 108.35,
+      "end": 111.21,
+      "text": "근데 혼자 있을 때마다"
+    },
+    {
+      "t": 112.03,
+      "end": 113.79,
+      "text": "자꾸 또 등이 굽어"
+    },
+    {
+      "t": 114.17,
+      "end": 114.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 114.17,
+      "end": 116.93,
+      "text": "이건 너 없이 안 되는"
+    },
+    {
+      "t": 118.73,
+      "end": 120.53,
+      "text": "이상한 버릇이 됐나 봐"
+    },
+    {
+      "t": 120.59,
+      "end": 120.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.59,
+      "end": 123.99,
+      "text": "어깨 펴, 어깨 펴"
+    },
+    {
+      "t": 124.15,
+      "end": 145.55,
+      "text": "그 두 손가락이 좋아서"
+    },
+    {
+      "t": 151.78,
+      "end": 156.72,
+      "text": "내일도 일부러 굽혀 앉을게"
+    },
+    {
+      "t": 156.72,
+      "end": 164.04,
+      "text": "너 또 웃을 때까지"
+    },
+    {
+      "t": 164.06,
+      "end": 164.06,
+      "text": "[Outro - kalimba and ukulele fade]"
+    },
+    {
+      "t": 164.06,
+      "end": 169.04,
+      "text": "톡톡, 나 여기 있어"
+    },
+    {
+      "t": 169.32,
+      "end": 176.02,
+      "text": "어깨 펴, 네 옆에서"
+    }
+  ]
+}

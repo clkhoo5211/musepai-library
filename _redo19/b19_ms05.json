@@ -1,0 +1,277 @@
+{
+  "id": "b19_ms05",
+  "title": "Bubur Untuk Seorang",
+  "title_source": "scripted",
+  "genre": "Malay 1950s exotica lounge (vibraphone-and-flute space-age bachelor-pad pop)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "easygoing, wry, mellow",
+  "persona": "",
+  "subject": "a woman living alone who suddenly boils a full periuk of bubur kacang hijau on a Tuesday afternoon for no occasion and spends the week eating it at every meal",
+  "caption": "Malay 1950s exotica lounge, space-age bachelor-pad pop. Shimmering vibraphone chords with slow motor vibrato, alto flute lines between phrases, plucked nylon-string guitar, walking upright bass, brushed snare with a light shuffle. Warm tape sound with a little spring reverb. Female lead with a warm mid alto, clearly sung, light male harmony on chorus. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, F major. Wry, easy solo afternoon. No trap drums, no autotune, no rap, no EDM, no electric guitar distortion.",
+  "lyrics": "[Intro - vibraphone and alto flute]\n[Verse 1]\nSelasa petang, tak ada apa\nAku rendam kacang hijau secawan\nRupanya secawan jadi seperiuk\nSantan, gula melaka, daun pandan\n[Chorus]\nBubur untuk seorang\nCukup untuk satu kampung\nAku makan pagi, makan petang\nPeriuk masih separuh penuh\n[Verse 2]\nRabu aku panaskan, tambah santan\nKhamis aku makan dengan roti\nJumaat aku bekukan dalam bekas\nSabtu aku masih makan lagi\n[Chorus]\nBubur untuk seorang\nTak ada sebab, tak ada tetamu\nAku makan sambil tengok hujan\nPeriuk tinggal satu senduk\n[Outro - vibraphone and flute fade]\nMinggu depan mungkin pengat\nKali ni aku rendam separuh",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Malay 1950s exotica lounge, space-age bachelor-pad pop. Shimmering vibraphone chords with slow motor vibrato, alto flute lines between phrases, plucked nylon-string guitar, walking upright bass, brushed snare with a light shuffle. Warm tape sound with a little spring reverb. Female lead with a warm mid alto, clearly sung, light male harmony on chorus. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, F major. Wry, easy solo afternoon. No trap drums, no autotune, no rap, no EDM, no electric guitar distortion.",
+    "lyrics": "[Intro - vibraphone and alto flute]\n[Verse 1]\nSelasa petang, tak ada apa\nAku rendam kacang hijau secawan\nRupanya secawan jadi seperiuk\nSantan, gula melaka, daun pandan\n[Chorus]\nBubur untuk seorang\nCukup untuk satu kampung\nAku makan pagi, makan petang\nPeriuk masih separuh penuh\n[Verse 2]\nRabu aku panaskan, tambah santan\nKhamis aku makan dengan roti\nJumaat aku bekukan dalam bekas\nSabtu aku masih makan lagi\n[Chorus]\nBubur untuk seorang\nTak ada sebab, tak ada tetamu\nAku makan sambil tengok hujan\nPeriuk tinggal satu senduk\n[Outro - vibraphone and flute fade]\nMinggu depan mungkin pengat\nKali ni aku rendam separuh"
+  },
+  "seed": "2510881710",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.57s**\n- 66.57s per song\n- LM phase (1 song): 18.57s\n- DiT phase (1 song): 48.01s",
+  "task_id": "ce8e45af-811b-48e5-8406-c18fa61e289a",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-11T22:40:50.269378+08:00",
+  "audio": "b19_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.28,
+      "end": 36.28,
+      "text": "[Intro - vibraphone and alto flute]"
+    },
+    {
+      "t": 36.28,
+      "end": 36.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.28,
+      "end": 37.44,
+      "text": "Selasa petang, tak ada apa"
+    },
+    {
+      "t": 37.52,
+      "end": 47.0,
+      "text": "Aku rendam kacang hijau secawan"
+    },
+    {
+      "t": 47.02,
+      "end": 50.41,
+      "text": "Rupanya secawan jadi seperiuk"
+    },
+    {
+      "t": 54.53,
+      "end": 61.79,
+      "text": "Santan, gula melaka, daun pandan"
+    },
+    {
+      "t": 67.79,
+      "end": 67.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.79,
+      "end": 70.07,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 70.07,
+      "end": 77.67,
+      "text": "Cukup untuk satu kampung"
+    },
+    {
+      "t": 77.67,
+      "end": 81.45,
+      "text": "Aku makan pagi, makan petang"
+    },
+    {
+      "t": 82.85,
+      "end": 87.49,
+      "text": "Periuk masih separuh penuh"
+    },
+    {
+      "t": 91.07,
+      "end": 91.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.07,
+      "end": 92.71,
+      "text": "Rabu aku panaskan, tambah santan"
+    },
+    {
+      "t": 92.71,
+      "end": 99.95,
+      "text": "Khamis aku makan dengan roti"
+    },
+    {
+      "t": 99.95,
+      "end": 105.45,
+      "text": "Jumaat aku bekukan dalam bekas"
+    },
+    {
+      "t": 106.73,
+      "end": 110.41,
+      "text": "Sabtu aku masih makan lagi"
+    },
+    {
+      "t": 114.21,
+      "end": 114.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.21,
+      "end": 117.39,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 118.11,
+      "end": 121.77,
+      "text": "Tak ada sebab, tak ada tetamu"
+    },
+    {
+      "t": 123.19,
+      "end": 128.61,
+      "text": "Aku makan sambil tengok hujan"
+    },
+    {
+      "t": 129.83,
+      "end": 138.71,
+      "text": "Periuk tinggal satu senduk"
+    },
+    {
+      "t": 139.65,
+      "end": 139.65,
+      "text": "[Outro - vibraphone and flute fade]"
+    },
+    {
+      "t": 139.65,
+      "end": 156.0,
+      "text": "Minggu depan mungkin pengat"
+    },
+    {
+      "t": 156.36,
+      "end": 192.06,
+      "text": "Kali ni aku rendam separuh"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 9.84,
+      "end": 9.84,
+      "text": "[Intro - vibraphone and alto flute]"
+    },
+    {
+      "t": 9.84,
+      "end": 9.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 9.84,
+      "end": 17.86,
+      "text": "Selasa petang, tak ada apa"
+    },
+    {
+      "t": 18.42,
+      "end": 38.2,
+      "text": "Aku rendam kacang hijau secawan"
+    },
+    {
+      "t": 46.98,
+      "end": 50.41,
+      "text": "Rupanya secawan jadi seperiuk"
+    },
+    {
+      "t": 54.53,
+      "end": 61.87,
+      "text": "Santan, gula melaka, daun pandan"
+    },
+    {
+      "t": 67.79,
+      "end": 67.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.79,
+      "end": 70.09,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 70.09,
+      "end": 77.49,
+      "text": "Cukup untuk satu kampung"
+    },
+    {
+      "t": 77.55,
+      "end": 81.51,
+      "text": "Aku makan pagi, makan petang"
+    },
+    {
+      "t": 82.83,
+      "end": 91.01,
+      "text": "Periuk masih separuh penuh"
+    },
+    {
+      "t": 91.07,
+      "end": 91.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.07,
+      "end": 93.21,
+      "text": "Rabu aku panaskan, tambah santan"
+    },
+    {
+      "t": 93.21,
+      "end": 99.95,
+      "text": "Khamis aku makan dengan roti"
+    },
+    {
+      "t": 99.95,
+      "end": 105.43,
+      "text": "Jumaat aku bekukan dalam bekas"
+    },
+    {
+      "t": 106.73,
+      "end": 110.43,
+      "text": "Sabtu aku masih makan lagi"
+    },
+    {
+      "t": 114.21,
+      "end": 114.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.21,
+      "end": 117.41,
+      "text": "Bubur untuk seorang"
+    },
+    {
+      "t": 118.11,
+      "end": 121.77,
+      "text": "Tak ada sebab, tak ada tetamu"
+    },
+    {
+      "t": 123.19,
+      "end": 128.55,
+      "text": "Aku makan sambil tengok hujan"
+    },
+    {
+      "t": 129.83,
+      "end": 139.67,
+      "text": "Periuk tinggal satu senduk"
+    },
+    {
+      "t": 139.79,
+      "end": 139.79,
+      "text": "[Outro - vibraphone and flute fade]"
+    },
+    {
+      "t": 139.79,
+      "end": 153.58,
+      "text": "Minggu depan mungkin pengat"
+    },
+    {
+      "t": 156.36,
+      "end": 192.08,
+      "text": "Kali ni aku rendam separuh"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
