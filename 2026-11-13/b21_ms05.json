@@ -1,0 +1,397 @@
+{
+  "id": "b21_ms05",
+  "title": "Cadar Sarung",
+  "title_source": "scripted",
+  "genre": "Malay 1970s Afrobeat (Lagos-style horn-and-guitar groove)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "upbeat, funny, affectionate",
+  "persona": "",
+  "subject": "a couple trying to put a fitted sheet on a bed on Saturday morning, fighting over which corner is which and finally meeting in the middle of the mattress",
+  "caption": "Malay 1970s Afrobeat, long polyrhythmic groove with a tight horn section. Two clean interlocking electric guitars playing repeating figures, electric bass locked on a one-bar riff, tenor sax and trumpet stabbing and answering the vocal, congas and shekere layering the rhythm, drum kit on a driving open hi-hat. Dry live band sound, light tape saturation. Female alto, bright relaxed mid register, playful conversational sung delivery. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, G minor. Upbeat, funny, affectionate mood. No synth lead, no drum machine, no trap hi-hats, no autotune, no EDM drops.",
+  "lyrics": "[Intro - guitars, congas, bass riff]\n[Verse 1]\nPagi Sabtu, cadar baru dari bungkusan\nKau pegang hujung kiri, aku hujung kanan\nEmpat penjuru, empat pendapat, satu katil\nGetah tak muat, kita tarik dari dua arah\n[Pre-Chorus]\nKau kata, \"Yang ini atas\", aku kata, \"Bawah\"\nCadar sangkut pada dahi kita\n[Chorus]\nCadar sarung, cadar sarung\nSatu penjuru lagi, sabar sikit\nCadar sarung, cadar sarung\nKita jumpa di tengah tilam\n[Verse 2]\nKau lompat atas katil, aku lompat sama\nHujung merah naik, hujung biru turun\nBantal jatuh, kucing pun lari\nAku ketawa, kau ketawa, cadar melorot\n[Pre-Chorus]\nKau kata, \"Sudahlah, tidur atas lantai\"\nAku kata, \"Tak boleh, cadar tu hadiah\"\n[Chorus]\nCadar sarung, cadar sarung\nPenjuru ketiga masuk, hampir menang\nCadar sarung, cadar sarung\nKita jumpa di tengah tilam\n[Bridge - horns, congas]\nTangan kau pegang tangan aku, bukan hujung cadar\nEmpat penjuru, dua orang sahaja\n[Chorus]\nCadar sarung, cadar sarung\nPenjuru keempat, bunyi klik, kita menang\nCadar sarung, cadar sarung\nKita baring di tengah tilam\n[Outro - horns, guitars, congas]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Malay 1970s Afrobeat, long polyrhythmic groove with a tight horn section. Two clean interlocking electric guitars playing repeating figures, electric bass locked on a one-bar riff, tenor sax and trumpet stabbing and answering the vocal, congas and shekere layering the rhythm, drum kit on a driving open hi-hat. Dry live band sound, light tape saturation. Female alto, bright relaxed mid register, playful conversational sung delivery. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, G minor. Upbeat, funny, affectionate mood. No synth lead, no drum machine, no trap hi-hats, no autotune, no EDM drops.",
+    "lyrics": "[Intro - guitars, congas, bass riff]\n[Verse 1]\nPagi Sabtu, cadar baru dari bungkusan\nKau pegang hujung kiri, aku hujung kanan\nEmpat penjuru, empat pendapat, satu katil\nGetah tak muat, kita tarik dari dua arah\n[Pre-Chorus]\nKau kata, \"Yang ini atas\", aku kata, \"Bawah\"\nCadar sangkut pada dahi kita\n[Chorus]\nCadar sarung, cadar sarung\nSatu penjuru lagi, sabar sikit\nCadar sarung, cadar sarung\nKita jumpa di tengah tilam\n[Verse 2]\nKau lompat atas katil, aku lompat sama\nHujung merah naik, hujung biru turun\nBantal jatuh, kucing pun lari\nAku ketawa, kau ketawa, cadar melorot\n[Pre-Chorus]\nKau kata, \"Sudahlah, tidur atas lantai\"\nAku kata, \"Tak boleh, cadar tu hadiah\"\n[Chorus]\nCadar sarung, cadar sarung\nPenjuru ketiga masuk, hampir menang\nCadar sarung, cadar sarung\nKita jumpa di tengah tilam\n[Bridge - horns, congas]\nTangan kau pegang tangan aku, bukan hujung cadar\nEmpat penjuru, dua orang sahaja\n[Chorus]\nCadar sarung, cadar sarung\nPenjuru keempat, bunyi klik, kita menang\nCadar sarung, cadar sarung\nKita baring di tengah tilam\n[Outro - horns, guitars, congas]"
+  },
+  "seed": "214864374",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.89s**\n- 59.89s per song\n- LM phase (1 song): 14.29s\n- DiT phase (1 song): 45.60s",
+  "task_id": "f8839294-4ed2-4148-9a24-76105462b72b",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-13T14:37:13.809684+08:00",
+  "audio": "b21_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.26,
+      "end": 27.26,
+      "text": "[Intro - guitars, congas, bass riff]"
+    },
+    {
+      "t": 27.26,
+      "end": 27.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.26,
+      "end": 31.08,
+      "text": "Pagi Sabtu, cadar baru dari bungkusan"
+    },
+    {
+      "t": 31.72,
+      "end": 35.7,
+      "text": "Kau pegang hujung kiri, aku hujung kanan"
+    },
+    {
+      "t": 36.22,
+      "end": 40.48,
+      "text": "Empat penjuru, empat pendapat, satu katil"
+    },
+    {
+      "t": 40.88,
+      "end": 44.96,
+      "text": "Getah tak muat, kita tarik dari dua arah"
+    },
+    {
+      "t": 45.32,
+      "end": 45.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.32,
+      "end": 49.75,
+      "text": "Kau kata, \"Yang ini atas\", aku kata, \"Bawah\""
+    },
+    {
+      "t": 49.75,
+      "end": 52.81,
+      "text": "Cadar sangkut pada dahi kita"
+    },
+    {
+      "t": 54.19,
+      "end": 54.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.19,
+      "end": 59.13,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 59.19,
+      "end": 65.25,
+      "text": "Satu penjuru lagi, sabar sikit"
+    },
+    {
+      "t": 65.31,
+      "end": 68.63,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 68.63,
+      "end": 70.73,
+      "text": "Kita jumpa di tengah tilam"
+    },
+    {
+      "t": 72.55,
+      "end": 72.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.55,
+      "end": 75.45,
+      "text": "Kau lompat atas katil, aku lompat sama"
+    },
+    {
+      "t": 77.01,
+      "end": 79.95,
+      "text": "Hujung merah naik, hujung biru turun"
+    },
+    {
+      "t": 80.89,
+      "end": 83.97,
+      "text": "Bantal jatuh, kucing pun lari"
+    },
+    {
+      "t": 84.19,
+      "end": 85.89,
+      "text": "Aku ketawa, kau ketawa, cadar melorot"
+    },
+    {
+      "t": 85.93,
+      "end": 85.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 85.93,
+      "end": 87.21,
+      "text": "Kau kata, \"Sudahlah, tidur atas lantai\""
+    },
+    {
+      "t": 87.27,
+      "end": 90.55,
+      "text": "Aku kata, \"Tak boleh, cadar tu hadiah\""
+    },
+    {
+      "t": 98.65,
+      "end": 98.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.65,
+      "end": 101.77,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 103.11,
+      "end": 107.47,
+      "text": "Penjuru ketiga masuk, hampir menang"
+    },
+    {
+      "t": 107.55,
+      "end": 111.51,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 112.03,
+      "end": 115.91,
+      "text": "Kita jumpa di tengah tilam"
+    },
+    {
+      "t": 140.79,
+      "end": 140.79,
+      "text": "[Bridge - horns, congas]"
+    },
+    {
+      "t": 140.79,
+      "end": 144.59,
+      "text": "Tangan kau pegang tangan aku, bukan hujung cadar"
+    },
+    {
+      "t": 145.31,
+      "end": 148.72,
+      "text": "Empat penjuru, dua orang sahaja"
+    },
+    {
+      "t": 149.82,
+      "end": 149.82,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.82,
+      "end": 162.62,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 163.08,
+      "end": 169.68,
+      "text": "Penjuru keempat, bunyi klik, kita menang"
+    },
+    {
+      "t": 169.82,
+      "end": 173.26,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 174.0,
+      "end": 191.0,
+      "text": "Kita baring di tengah tilam"
+    },
+    {
+      "t": 191.0,
+      "end": 191.0,
+      "text": "[Outro - horns, guitars, congas]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.26,
+      "end": 27.26,
+      "text": "[Intro - guitars, congas, bass riff]"
+    },
+    {
+      "t": 27.26,
+      "end": 27.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.26,
+      "end": 31.1,
+      "text": "Pagi Sabtu, cadar baru dari bungkusan"
+    },
+    {
+      "t": 31.72,
+      "end": 35.64,
+      "text": "Kau pegang hujung kiri, aku hujung kanan"
+    },
+    {
+      "t": 36.2,
+      "end": 40.5,
+      "text": "Empat penjuru, empat pendapat, satu katil"
+    },
+    {
+      "t": 40.88,
+      "end": 45.0,
+      "text": "Getah tak muat, kita tarik dari dua arah"
+    },
+    {
+      "t": 45.3,
+      "end": 45.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.3,
+      "end": 48.95,
+      "text": "Kau kata, \"Yang ini atas\", aku kata, \"Bawah\""
+    },
+    {
+      "t": 49.75,
+      "end": 52.81,
+      "text": "Cadar sangkut pada dahi kita"
+    },
+    {
+      "t": 54.21,
+      "end": 54.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.21,
+      "end": 59.13,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 59.19,
+      "end": 65.31,
+      "text": "Satu penjuru lagi, sabar sikit"
+    },
+    {
+      "t": 65.31,
+      "end": 68.69,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 68.69,
+      "end": 70.69,
+      "text": "Kita jumpa di tengah tilam"
+    },
+    {
+      "t": 72.53,
+      "end": 72.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.53,
+      "end": 75.45,
+      "text": "Kau lompat atas katil, aku lompat sama"
+    },
+    {
+      "t": 77.01,
+      "end": 79.77,
+      "text": "Hujung merah naik, hujung biru turun"
+    },
+    {
+      "t": 80.89,
+      "end": 83.97,
+      "text": "Bantal jatuh, kucing pun lari"
+    },
+    {
+      "t": 85.69,
+      "end": 88.69,
+      "text": "Aku ketawa, kau ketawa, cadar melorot"
+    },
+    {
+      "t": 88.71,
+      "end": 88.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.71,
+      "end": 90.39,
+      "text": "Kau kata, \"Sudahlah, tidur atas lantai\""
+    },
+    {
+      "t": 90.39,
+      "end": 91.73,
+      "text": "Aku kata, \"Tak boleh, cadar tu hadiah\""
+    },
+    {
+      "t": 98.65,
+      "end": 98.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.65,
+      "end": 103.13,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 103.13,
+      "end": 107.47,
+      "text": "Penjuru ketiga masuk, hampir menang"
+    },
+    {
+      "t": 107.55,
+      "end": 111.55,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 112.03,
+      "end": 135.71,
+      "text": "Kita jumpa di tengah tilam"
+    },
+    {
+      "t": 140.79,
+      "end": 140.79,
+      "text": "[Bridge - horns, congas]"
+    },
+    {
+      "t": 140.79,
+      "end": 144.57,
+      "text": "Tangan kau pegang tangan aku, bukan hujung cadar"
+    },
+    {
+      "t": 145.31,
+      "end": 148.72,
+      "text": "Empat penjuru, dua orang sahaja"
+    },
+    {
+      "t": 149.82,
+      "end": 149.82,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.82,
+      "end": 162.62,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 163.08,
+      "end": 168.58,
+      "text": "Penjuru keempat, bunyi klik, kita menang"
+    },
+    {
+      "t": 169.82,
+      "end": 173.28,
+      "text": "Cadar sarung, cadar sarung"
+    },
+    {
+      "t": 174.02,
+      "end": 191.0,
+      "text": "Kita baring di tengah tilam"
+    },
+    {
+      "t": 191.0,
+      "end": 191.0,
+      "text": "[Outro - horns, guitars, congas]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

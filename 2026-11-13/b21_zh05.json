@@ -1,0 +1,367 @@
+{
+  "id": "b21_zh05",
+  "title": "多撥一顆珠",
+  "title_source": "scripted",
+  "genre": "Mandarin Hindustani ghazal-pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "tender, patient, quietly teasing",
+  "persona": "",
+  "subject": "a stationery-shop abacus teacher in her sixties whose Saturday class gets one retired vegetable seller, who gets every sum wrong by exactly one bead so that she has to lean over to fix it, and the day he finally gets one right",
+  "caption": "Mandarin Hindustani ghazal-pop, slow North Indian ghazal salon song with a Taiwanese stationery-shop setting. Harmonium playing slow phrases, tabla in a steady keharwa pulse, sarangi sighing with long slides, tanpura drone underneath, soft santoor figures between lines. Dry intimate chamber-room recording with natural reverb. Female lead, warm mid-register voice, unhurried and clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, D minor. tender, patient, quietly teasing mood. No rap, no trap hi-hats, no autotune, no drum kit, no electric guitar, no synth pads.",
+  "lyrics": "[Intro - sarangi, harmonium, tanpura drone]\n\n[Verse 1]\n文具店後面 擺一張長桌\n星期六下午 我教打算盤\n學生都是小孩 只有一個老人\n賣了四十年菜 想算清楚帳\n\n[Pre-Chorus]\n一加二加三 他總差一顆\n我伸手過去 替他撥回\n\n[Chorus]\n多撥一顆珠 多撥一顆\n他的帳 老是不對\n我不說破 我不說破\n讓算盤 多響一聲\n\n[Verse 2]\n他說老花眼 看不清珠子\n把椅子 搬近了兩吋\n袖口有薑的味道\n\n[Chorus]\n多撥一顆珠 多撥一顆\n他的帳 七週都不對\n我數過了 我數過了\n讓算盤 多響一聲\n\n[Bridge - tabla and sarangi only]\n今天他算對了\n卻皺起眉頭\n\n[Chorus]\n多撥一顆珠 這回我撥\n我的帳 也不對了\n他不說破 他不說破\n讓算盤 多響一聲\n\n[Outro - harmonium, tanpura fade]\n下個星期六 他還是會算錯",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Mandarin Hindustani ghazal-pop, slow North Indian ghazal salon song with a Taiwanese stationery-shop setting. Harmonium playing slow phrases, tabla in a steady keharwa pulse, sarangi sighing with long slides, tanpura drone underneath, soft santoor figures between lines. Dry intimate chamber-room recording with natural reverb. Female lead, warm mid-register voice, unhurried and clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, D minor. tender, patient, quietly teasing mood. No rap, no trap hi-hats, no autotune, no drum kit, no electric guitar, no synth pads.",
+    "lyrics": "[Intro - sarangi, harmonium, tanpura drone]\n\n[Verse 1]\n文具店後面 擺一張長桌\n星期六下午 我教打算盤\n學生都是小孩 只有一個老人\n賣了四十年菜 想算清楚帳\n\n[Pre-Chorus]\n一加二加三 他總差一顆\n我伸手過去 替他撥回\n\n[Chorus]\n多撥一顆珠 多撥一顆\n他的帳 老是不對\n我不說破 我不說破\n讓算盤 多響一聲\n\n[Verse 2]\n他說老花眼 看不清珠子\n把椅子 搬近了兩吋\n袖口有薑的味道\n\n[Chorus]\n多撥一顆珠 多撥一顆\n他的帳 七週都不對\n我數過了 我數過了\n讓算盤 多響一聲\n\n[Bridge - tabla and sarangi only]\n今天他算對了\n卻皺起眉頭\n\n[Chorus]\n多撥一顆珠 這回我撥\n我的帳 也不對了\n他不說破 他不說破\n讓算盤 多響一聲\n\n[Outro - harmonium, tanpura fade]\n下個星期六 他還是會算錯\n"
+  },
+  "seed": "4116895085",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.62s**\n- 60.62s per song\n- LM phase (1 song): 18.16s\n- DiT phase (1 song): 42.46s",
+  "task_id": "0b5e0d8d-77b9-4ab3-bcf8-6a9ba7c8141b",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-13T15:16:18.097206+08:00",
+  "audio": "b21_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Intro - sarangi, harmonium, tanpura drone]"
+    },
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.44,
+      "end": 28.2,
+      "text": "文具店後面 擺一張長桌"
+    },
+    {
+      "t": 29.12,
+      "end": 33.78,
+      "text": "星期六下午 我教打算盤"
+    },
+    {
+      "t": 33.84,
+      "end": 38.84,
+      "text": "學生都是小孩 只有一個老人"
+    },
+    {
+      "t": 38.84,
+      "end": 43.46,
+      "text": "賣了四十年菜 想算清楚帳"
+    },
+    {
+      "t": 45.3,
+      "end": 45.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.3,
+      "end": 47.18,
+      "text": "一加二加三 他總差一顆"
+    },
+    {
+      "t": 48.49,
+      "end": 52.49,
+      "text": "我伸手過去 替他撥回"
+    },
+    {
+      "t": 54.47,
+      "end": 54.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.47,
+      "end": 57.95,
+      "text": "多撥一顆珠 多撥一顆"
+    },
+    {
+      "t": 57.95,
+      "end": 59.79,
+      "text": "他的帳 老是不對"
+    },
+    {
+      "t": 59.79,
+      "end": 61.03,
+      "text": "我不說破 我不說破"
+    },
+    {
+      "t": 61.03,
+      "end": 63.95,
+      "text": "讓算盤 多響一聲"
+    },
+    {
+      "t": 64.01,
+      "end": 64.01,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.01,
+      "end": 79.63,
+      "text": "他說老花眼 看不清珠子"
+    },
+    {
+      "t": 79.65,
+      "end": 85.25,
+      "text": "把椅子 搬近了兩吋"
+    },
+    {
+      "t": 85.25,
+      "end": 87.63,
+      "text": "袖口有薑的味道"
+    },
+    {
+      "t": 88.77,
+      "end": 88.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.77,
+      "end": 91.39,
+      "text": "多撥一顆珠 多撥一顆"
+    },
+    {
+      "t": 91.61,
+      "end": 94.27,
+      "text": "他的帳 七週都不對"
+    },
+    {
+      "t": 94.47,
+      "end": 98.13,
+      "text": "我數過了 我數過了"
+    },
+    {
+      "t": 98.65,
+      "end": 126.67,
+      "text": "讓算盤 多響一聲"
+    },
+    {
+      "t": 129.45,
+      "end": 129.45,
+      "text": "[Bridge - tabla and sarangi only]"
+    },
+    {
+      "t": 129.45,
+      "end": 131.47,
+      "text": "今天他算對了"
+    },
+    {
+      "t": 135.19,
+      "end": 137.35,
+      "text": "卻皺起眉頭"
+    },
+    {
+      "t": 141.55,
+      "end": 141.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.55,
+      "end": 146.0,
+      "text": "多撥一顆珠 這回我撥"
+    },
+    {
+      "t": 147.66,
+      "end": 151.78,
+      "text": "我的帳 也不對了"
+    },
+    {
+      "t": 153.36,
+      "end": 157.48,
+      "text": "他不說破 他不說破"
+    },
+    {
+      "t": 159.06,
+      "end": 166.22,
+      "text": "讓算盤 多響一聲"
+    },
+    {
+      "t": 178.4,
+      "end": 178.4,
+      "text": "[Outro - harmonium, tanpura fade]"
+    },
+    {
+      "t": 178.4,
+      "end": 183.32,
+      "text": "下個星期六 他還是會算錯"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Intro - sarangi, harmonium, tanpura drone]"
+    },
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.44,
+      "end": 28.2,
+      "text": "文具店後面 擺一張長桌"
+    },
+    {
+      "t": 29.14,
+      "end": 33.8,
+      "text": "星期六下午 我教打算盤"
+    },
+    {
+      "t": 33.86,
+      "end": 38.92,
+      "text": "學生都是小孩 只有一個老人"
+    },
+    {
+      "t": 38.92,
+      "end": 43.48,
+      "text": "賣了四十年菜 想算清楚帳"
+    },
+    {
+      "t": 43.94,
+      "end": 43.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 43.94,
+      "end": 47.16,
+      "text": "一加二加三 他總差一顆"
+    },
+    {
+      "t": 48.49,
+      "end": 52.55,
+      "text": "我伸手過去 替他撥回"
+    },
+    {
+      "t": 54.47,
+      "end": 54.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.47,
+      "end": 55.85,
+      "text": "多撥一顆珠 多撥一顆"
+    },
+    {
+      "t": 55.85,
+      "end": 57.91,
+      "text": "他的帳 老是不對"
+    },
+    {
+      "t": 57.91,
+      "end": 60.21,
+      "text": "我不說破 我不說破"
+    },
+    {
+      "t": 60.21,
+      "end": 63.49,
+      "text": "讓算盤 多響一聲"
+    },
+    {
+      "t": 63.49,
+      "end": 63.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.49,
+      "end": 79.63,
+      "text": "他說老花眼 看不清珠子"
+    },
+    {
+      "t": 80.21,
+      "end": 84.57,
+      "text": "把椅子 搬近了兩吋"
+    },
+    {
+      "t": 84.57,
+      "end": 87.47,
+      "text": "袖口有薑的味道"
+    },
+    {
+      "t": 88.77,
+      "end": 88.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 88.77,
+      "end": 91.39,
+      "text": "多撥一顆珠 多撥一顆"
+    },
+    {
+      "t": 91.63,
+      "end": 94.27,
+      "text": "他的帳 七週都不對"
+    },
+    {
+      "t": 94.47,
+      "end": 96.61,
+      "text": "我數過了 我數過了"
+    },
+    {
+      "t": 96.67,
+      "end": 101.35,
+      "text": "讓算盤 多響一聲"
+    },
+    {
+      "t": 104.29,
+      "end": 104.29,
+      "text": "[Bridge - tabla and sarangi only]"
+    },
+    {
+      "t": 104.29,
+      "end": 106.99,
+      "text": "今天他算對了"
+    },
+    {
+      "t": 108.97,
+      "end": 130.71,
+      "text": "卻皺起眉頭"
+    },
+    {
+      "t": 130.97,
+      "end": 130.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.97,
+      "end": 146.0,
+      "text": "多撥一顆珠 這回我撥"
+    },
+    {
+      "t": 147.64,
+      "end": 151.78,
+      "text": "我的帳 也不對了"
+    },
+    {
+      "t": 153.36,
+      "end": 157.48,
+      "text": "他不說破 他不說破"
+    },
+    {
+      "t": 159.08,
+      "end": 166.06,
+      "text": "讓算盤 多響一聲"
+    },
+    {
+      "t": 178.4,
+      "end": 178.4,
+      "text": "[Outro - harmonium, tanpura fade]"
+    },
+    {
+      "t": 178.4,
+      "end": 183.32,
+      "text": "下個星期六 他還是會算錯"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,387 @@
+{
+  "id": "b21_id01",
+  "title": "Empat Puluh Persen",
+  "title_source": "scripted",
+  "genre": "Melayu Deli joget",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "playful, bouncing",
+  "persona": "",
+  "subject": "a Medan radio weather forecaster who every morning is phoned by listeners asking which forty percent of the city will get the rain, until he starts answering street by street",
+  "caption": "Melayu Deli joget, lively northern Sumatran Malay dance style. Accordion playing a bouncing melody with grace-note turns, two violins doubling in octaves, gendang ronggeng hand drum keeping the joget pulse, tambourine on the offbeat, plucked acoustic bass. Live room recording, warm tape, dry percussion. Male vocal, mid register, bright and cheerful, sung clearly in Indonesian. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, G major. Playful, bouncing mood. No electronic beats, no autotune, no pop synths, no rap, no distorted guitar, no dangdut koplo drum pattern.",
+  "lyrics": "[Intro - accordion and gendang ronggeng]\n\n[Verse 1]\nJam enam pagi aku siaran di radio\nTelepon berbunyi, Bang, hari ini gimana\nAku bilang hujan empat puluh persen\nIbu di ujung sana tanya, persen yang mana\n\n[Pre-Chorus]\nJemuran Ibu di Jalan Sei Kera\nJemuran Ibu di Jalan Sei Kera\n\n[Chorus]\nEmpat puluh persen, tolong jangan salah paham\nBukan separuh kota, bukan sepanjang jalan\nEmpat puluh persen, bawa payung kalau ragu\nAku cuma baca awan, bukan baca hatimu\n\n[Verse 2]\nTukang becak menelepon tanya soal Medan Johor\nDi peta radar awannya malas gerak\nKujawab satu-satu, jalan demi jalan\nSei Kera kering dulu, Johor nanti sore\n\n[Chorus]\nEmpat puluh persen, tolong jangan salah paham\nBukan separuh kota, bukan sepanjang jalan\nEmpat puluh persen, bawa payung kalau ragu\nAku cuma baca awan, bukan baca hatimu\n\n[Verse 3]\nBesok ada telepon dari gadis di Kampung Baru\nKatanya jemuran Ibu cuma alasan\nDia tanya apa aku sendiri bawa payung\nKujawab nanti sore, aku datang jemput\n\n[Chorus]\nSeratus persen, hari ini aku mau ketemu\nBukan separuh hati, bukan sepanjang jalan\nSeratus persen, nggak usah bawa payung\nAwan boleh lewat, kamu tetap kutunggu\n\n[Outro - accordion and violin]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Melayu Deli joget, lively northern Sumatran Malay dance style. Accordion playing a bouncing melody with grace-note turns, two violins doubling in octaves, gendang ronggeng hand drum keeping the joget pulse, tambourine on the offbeat, plucked acoustic bass. Live room recording, warm tape, dry percussion. Male vocal, mid register, bright and cheerful, sung clearly in Indonesian. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, G major. Playful, bouncing mood. No electronic beats, no autotune, no pop synths, no rap, no distorted guitar, no dangdut koplo drum pattern.",
+    "lyrics": "[Intro - accordion and gendang ronggeng]\n\n[Verse 1]\nJam enam pagi aku siaran di radio\nTelepon berbunyi, Bang, hari ini gimana\nAku bilang hujan empat puluh persen\nIbu di ujung sana tanya, persen yang mana\n\n[Pre-Chorus]\nJemuran Ibu di Jalan Sei Kera\nJemuran Ibu di Jalan Sei Kera\n\n[Chorus]\nEmpat puluh persen, tolong jangan salah paham\nBukan separuh kota, bukan sepanjang jalan\nEmpat puluh persen, bawa payung kalau ragu\nAku cuma baca awan, bukan baca hatimu\n\n[Verse 2]\nTukang becak menelepon tanya soal Medan Johor\nDi peta radar awannya malas gerak\nKujawab satu-satu, jalan demi jalan\nSei Kera kering dulu, Johor nanti sore\n\n[Chorus]\nEmpat puluh persen, tolong jangan salah paham\nBukan separuh kota, bukan sepanjang jalan\nEmpat puluh persen, bawa payung kalau ragu\nAku cuma baca awan, bukan baca hatimu\n\n[Verse 3]\nBesok ada telepon dari gadis di Kampung Baru\nKatanya jemuran Ibu cuma alasan\nDia tanya apa aku sendiri bawa payung\nKujawab nanti sore, aku datang jemput\n\n[Chorus]\nSeratus persen, hari ini aku mau ketemu\nBukan separuh hati, bukan sepanjang jalan\nSeratus persen, nggak usah bawa payung\nAwan boleh lewat, kamu tetap kutunggu\n\n[Outro - accordion and violin]"
+  },
+  "seed": "731981619",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.69s**\n- 65.69s per song\n- LM phase (1 song): 15.71s\n- DiT phase (1 song): 49.99s",
+  "task_id": "0de4e229-db9e-4126-8e33-17a1ad246f9d",
+  "elapsed_s": 100.3,
+  "generated_at": "2026-11-13T14:38:54.147809+08:00",
+  "audio": "b21_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.16,
+      "end": 19.16,
+      "text": "[Intro - accordion and gendang ronggeng]"
+    },
+    {
+      "t": 19.16,
+      "end": 19.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.16,
+      "end": 23.86,
+      "text": "Jam enam pagi aku siaran di radio"
+    },
+    {
+      "t": 26.46,
+      "end": 30.92,
+      "text": "Telepon berbunyi, Bang, hari ini gimana"
+    },
+    {
+      "t": 32.02,
+      "end": 34.74,
+      "text": "Aku bilang hujan empat puluh persen"
+    },
+    {
+      "t": 35.38,
+      "end": 40.64,
+      "text": "Ibu di ujung sana tanya, persen yang mana"
+    },
+    {
+      "t": 42.96,
+      "end": 42.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.96,
+      "end": 47.59,
+      "text": "Jemuran Ibu di Jalan Sei Kera"
+    },
+    {
+      "t": 47.59,
+      "end": 49.63,
+      "text": "Jemuran Ibu di Jalan Sei Kera"
+    },
+    {
+      "t": 49.63,
+      "end": 49.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.63,
+      "end": 56.21,
+      "text": "Empat puluh persen, tolong jangan salah paham"
+    },
+    {
+      "t": 57.27,
+      "end": 62.69,
+      "text": "Bukan separuh kota, bukan sepanjang jalan"
+    },
+    {
+      "t": 62.69,
+      "end": 64.39,
+      "text": "Empat puluh persen, bawa payung kalau ragu"
+    },
+    {
+      "t": 64.39,
+      "end": 70.75,
+      "text": "Aku cuma baca awan, bukan baca hatimu"
+    },
+    {
+      "t": 72.69,
+      "end": 72.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.69,
+      "end": 78.21,
+      "text": "Tukang becak menelepon tanya soal Medan Johor"
+    },
+    {
+      "t": 78.21,
+      "end": 80.15,
+      "text": "Di peta radar awannya malas gerak"
+    },
+    {
+      "t": 80.17,
+      "end": 81.97,
+      "text": "Kujawab satu-satu, jalan demi jalan"
+    },
+    {
+      "t": 83.71,
+      "end": 89.77,
+      "text": "Sei Kera kering dulu, Johor nanti sore"
+    },
+    {
+      "t": 91.67,
+      "end": 91.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.67,
+      "end": 98.39,
+      "text": "Empat puluh persen, tolong jangan salah paham"
+    },
+    {
+      "t": 99.53,
+      "end": 105.69,
+      "text": "Bukan separuh kota, bukan sepanjang jalan"
+    },
+    {
+      "t": 106.81,
+      "end": 112.75,
+      "text": "Empat puluh persen, bawa payung kalau ragu"
+    },
+    {
+      "t": 115.65,
+      "end": 120.21,
+      "text": "Aku cuma baca awan, bukan baca hatimu"
+    },
+    {
+      "t": 123.71,
+      "end": 123.71,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 123.71,
+      "end": 127.91,
+      "text": "Besok ada telepon dari gadis di Kampung Baru"
+    },
+    {
+      "t": 130.67,
+      "end": 141.85,
+      "text": "Katanya jemuran Ibu cuma alasan"
+    },
+    {
+      "t": 141.95,
+      "end": 149.88,
+      "text": "Dia tanya apa aku sendiri bawa payung"
+    },
+    {
+      "t": 150.52,
+      "end": 157.72,
+      "text": "Kujawab nanti sore, aku datang jemput"
+    },
+    {
+      "t": 159.38,
+      "end": 159.38,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 159.38,
+      "end": 164.7,
+      "text": "Seratus persen, hari ini aku mau ketemu"
+    },
+    {
+      "t": 165.74,
+      "end": 171.8,
+      "text": "Bukan separuh hati, bukan sepanjang jalan"
+    },
+    {
+      "t": 171.9,
+      "end": 175.16,
+      "text": "Seratus persen, nggak usah bawa payung"
+    },
+    {
+      "t": 176.46,
+      "end": 181.96,
+      "text": "Awan boleh lewat, kamu tetap kutunggu"
+    },
+    {
+      "t": 181.96,
+      "end": 181.96,
+      "text": "[Outro - accordion and violin]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.16,
+      "end": 19.16,
+      "text": "[Intro - accordion and gendang ronggeng]"
+    },
+    {
+      "t": 19.16,
+      "end": 19.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.16,
+      "end": 23.86,
+      "text": "Jam enam pagi aku siaran di radio"
+    },
+    {
+      "t": 26.44,
+      "end": 30.92,
+      "text": "Telepon berbunyi, Bang, hari ini gimana"
+    },
+    {
+      "t": 32.02,
+      "end": 35.36,
+      "text": "Aku bilang hujan empat puluh persen"
+    },
+    {
+      "t": 35.38,
+      "end": 40.64,
+      "text": "Ibu di ujung sana tanya, persen yang mana"
+    },
+    {
+      "t": 42.96,
+      "end": 42.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.96,
+      "end": 47.63,
+      "text": "Jemuran Ibu di Jalan Sei Kera"
+    },
+    {
+      "t": 47.63,
+      "end": 49.63,
+      "text": "Jemuran Ibu di Jalan Sei Kera"
+    },
+    {
+      "t": 49.63,
+      "end": 49.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.63,
+      "end": 56.21,
+      "text": "Empat puluh persen, tolong jangan salah paham"
+    },
+    {
+      "t": 57.27,
+      "end": 63.13,
+      "text": "Bukan separuh kota, bukan sepanjang jalan"
+    },
+    {
+      "t": 63.13,
+      "end": 64.39,
+      "text": "Empat puluh persen, bawa payung kalau ragu"
+    },
+    {
+      "t": 64.39,
+      "end": 70.75,
+      "text": "Aku cuma baca awan, bukan baca hatimu"
+    },
+    {
+      "t": 72.69,
+      "end": 72.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.69,
+      "end": 78.23,
+      "text": "Tukang becak menelepon tanya soal Medan Johor"
+    },
+    {
+      "t": 78.23,
+      "end": 80.15,
+      "text": "Di peta radar awannya malas gerak"
+    },
+    {
+      "t": 80.17,
+      "end": 81.97,
+      "text": "Kujawab satu-satu, jalan demi jalan"
+    },
+    {
+      "t": 83.71,
+      "end": 89.77,
+      "text": "Sei Kera kering dulu, Johor nanti sore"
+    },
+    {
+      "t": 91.67,
+      "end": 91.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.67,
+      "end": 98.41,
+      "text": "Empat puluh persen, tolong jangan salah paham"
+    },
+    {
+      "t": 99.53,
+      "end": 105.69,
+      "text": "Bukan separuh kota, bukan sepanjang jalan"
+    },
+    {
+      "t": 106.81,
+      "end": 112.75,
+      "text": "Empat puluh persen, bawa payung kalau ragu"
+    },
+    {
+      "t": 115.65,
+      "end": 120.21,
+      "text": "Aku cuma baca awan, bukan baca hatimu"
+    },
+    {
+      "t": 123.71,
+      "end": 123.71,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 123.71,
+      "end": 127.91,
+      "text": "Besok ada telepon dari gadis di Kampung Baru"
+    },
+    {
+      "t": 128.25,
+      "end": 141.85,
+      "text": "Katanya jemuran Ibu cuma alasan"
+    },
+    {
+      "t": 145.32,
+      "end": 149.84,
+      "text": "Dia tanya apa aku sendiri bawa payung"
+    },
+    {
+      "t": 150.52,
+      "end": 157.72,
+      "text": "Kujawab nanti sore, aku datang jemput"
+    },
+    {
+      "t": 159.38,
+      "end": 159.38,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 159.38,
+      "end": 164.7,
+      "text": "Seratus persen, hari ini aku mau ketemu"
+    },
+    {
+      "t": 165.74,
+      "end": 171.8,
+      "text": "Bukan separuh hati, bukan sepanjang jalan"
+    },
+    {
+      "t": 172.18,
+      "end": 175.2,
+      "text": "Seratus persen, nggak usah bawa payung"
+    },
+    {
+      "t": 176.46,
+      "end": 181.98,
+      "text": "Awan boleh lewat, kamu tetap kutunggu"
+    },
+    {
+      "t": 181.98,
+      "end": 181.98,
+      "text": "[Outro - accordion and violin]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

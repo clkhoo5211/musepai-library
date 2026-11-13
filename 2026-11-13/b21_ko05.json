@@ -1,0 +1,579 @@
+{
+  "id": "b21_ko05",
+  "title": "분필로 그은 눈금",
+  "title_source": "scripted",
+  "genre": "Andean folk-pop with quena and charango",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "calm and watchful",
+  "persona": "",
+  "subject": "a woman who walks a neighbourhood stream each morning and marks the water level on the concrete wall with chalk, until a small boy starts copying her marks beside hers",
+  "caption": "Andean folk-pop in Korean, huayno-influenced. Quena flute carries the pentatonic melody, charango strums fast tremolo patterns, bombo legüero marks a steady heartbeat, nylon guitar plays arpeggios, soft zampoña doubles the end of phrases. A soft female lead sings in a mid register with a steady, clearly sung melody. Open-air room, natural reverb. 96 BPM, E minor. Calm and watchful. No synthesizer, no electric guitar, no drum kit, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - quena melody over charango tremolo]\n\n[Verse 1]\n아침마다 하천 둑을 걸어요\n콘크리트 벽에 분필을 들고\n어제보다 손가락 두 마디\n물이 내려갔는지 올라갔는지\n\n[Pre-Chorus]\n아무도 시킨 적 없는 일인데\n나는 날마다 눈금을 그어요\n\n[Chorus]\n분필로 그은 눈금\n물이 지나간 자리마다\n하나 둘 셋 오늘도 적어요\n비가 오면 다시 지워져도\n\n[Verse 2]\n어느 날 작은 남자아이가\n내 눈금 옆에 줄을 그었어요\n삐뚤빼뚤 자기 키만큼이나\n높게 그려 놓고 웃더라고요\n\n[Pre-Chorus]\n그만하라고 말하려다\n아이가 먼저 고개를 끄덕였어요\n\n[Chorus]\n분필로 그은 눈금\n두 줄이 나란히 올라가요\n하나 둘 셋 같이 세어요\n물이 불어도 우린 괜찮아요\n\n[Bridge - quena alone, bombo enters softly]\n비 온 다음 날 벽이 젖으면\n\n[Chorus]\n분필로 그은 눈금\n이제는 둘이서 그어요\n하나 둘 셋 소리 내어 세어요\n물은 낮아지고 해는 높아요\n\n[Outro - quena and zampoña fade]\n하나 둘 셋 하나 둘 셋",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Andean folk-pop in Korean, huayno-influenced. Quena flute carries the pentatonic melody, charango strums fast tremolo patterns, bombo legüero marks a steady heartbeat, nylon guitar plays arpeggios, soft zampoña doubles the end of phrases. A soft female lead sings in a mid register with a steady, clearly sung melody. Open-air room, natural reverb. 96 BPM, E minor. Calm and watchful. No synthesizer, no electric guitar, no drum kit, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - quena melody over charango tremolo]\n\n[Verse 1]\n아침마다 하천 둑을 걸어요\n콘크리트 벽에 분필을 들고\n어제보다 손가락 두 마디\n물이 내려갔는지 올라갔는지\n\n[Pre-Chorus]\n아무도 시킨 적 없는 일인데\n나는 날마다 눈금을 그어요\n\n[Chorus]\n분필로 그은 눈금\n물이 지나간 자리마다\n하나 둘 셋 오늘도 적어요\n비가 오면 다시 지워져도\n\n[Verse 2]\n어느 날 작은 남자아이가\n내 눈금 옆에 줄을 그었어요\n삐뚤빼뚤 자기 키만큼이나\n높게 그려 놓고 웃더라고요\n\n[Pre-Chorus]\n그만하라고 말하려다\n아이가 먼저 고개를 끄덕였어요\n\n[Chorus]\n분필로 그은 눈금\n두 줄이 나란히 올라가요\n하나 둘 셋 같이 세어요\n물이 불어도 우린 괜찮아요\n\n[Bridge - quena alone, bombo enters softly]\n비 온 다음 날 벽이 젖으면\n\n[Chorus]\n분필로 그은 눈금\n이제는 둘이서 그어요\n하나 둘 셋 소리 내어 세어요\n물은 낮아지고 해는 높아요\n\n[Outro - quena and zampoña fade]\n하나 둘 셋 하나 둘 셋"
+  },
+  "seed": "1576139493",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 100.84s**\n- 100.84s per song\n- LM phase (1 song): 19.72s\n- DiT phase (1 song): 81.11s",
+  "task_id": "889a7c3c-ae28-4ec2-8dba-6ee33c924f52",
+  "elapsed_s": 140.5,
+  "generated_at": "2026-11-13T16:09:22.997571+08:00",
+  "audio": "b21_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.64,
+      "end": 20.64,
+      "text": "[Intro - quena melody over charango tremolo]"
+    },
+    {
+      "t": 20.64,
+      "end": 20.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.64,
+      "end": 23.7,
+      "text": "아침마다 하천 둑을 걸어요"
+    },
+    {
+      "t": 23.7,
+      "end": 35.7,
+      "text": "콘크리트 벽에 분필을 들고"
+    },
+    {
+      "t": 35.7,
+      "end": 42.24,
+      "text": "어제보다 손가락 두 마디"
+    },
+    {
+      "t": 43.1,
+      "end": 46.82,
+      "text": "물이 내려갔는지 올라갔는지"
+    },
+    {
+      "t": 50.3,
+      "end": 50.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.3,
+      "end": 53.33,
+      "text": "아무도 시킨 적 없는 일인데"
+    },
+    {
+      "t": 55.23,
+      "end": 58.81,
+      "text": "나는 날마다 눈금을 그어요"
+    },
+    {
+      "t": 59.91,
+      "end": 59.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.91,
+      "end": 61.71,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 62.41,
+      "end": 64.11,
+      "text": "물이 지나간 자리마다"
+    },
+    {
+      "t": 65.85,
+      "end": 69.13,
+      "text": "하나 둘 셋 오늘도 적어요"
+    },
+    {
+      "t": 75.21,
+      "end": 79.09,
+      "text": "비가 오면 다시 지워져도"
+    },
+    {
+      "t": 81.51,
+      "end": 81.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.51,
+      "end": 84.07,
+      "text": "어느 날 작은 남자아이가"
+    },
+    {
+      "t": 86.15,
+      "end": 89.33,
+      "text": "내 눈금 옆에 줄을 그었어요"
+    },
+    {
+      "t": 91.41,
+      "end": 94.69,
+      "text": "삐뚤빼뚤 자기 키만큼이나"
+    },
+    {
+      "t": 94.79,
+      "end": 97.19,
+      "text": "높게 그려 놓고 웃더라고요"
+    },
+    {
+      "t": 100.17,
+      "end": 100.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.17,
+      "end": 103.13,
+      "text": "그만하라고 말하려다"
+    },
+    {
+      "t": 104.93,
+      "end": 109.01,
+      "text": "아이가 먼저 고개를 끄덕였어요"
+    },
+    {
+      "t": 110.77,
+      "end": 110.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.77,
+      "end": 113.49,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 115.13,
+      "end": 118.69,
+      "text": "두 줄이 나란히 올라가요"
+    },
+    {
+      "t": 120.75,
+      "end": 131.55,
+      "text": "하나 둘 셋 같이 세어요"
+    },
+    {
+      "t": 131.79,
+      "end": 137.21,
+      "text": "물이 불어도 우린 괜찮아요"
+    },
+    {
+      "t": 137.33,
+      "end": 137.33,
+      "text": "[Bridge - quena alone, bombo enters softly]"
+    },
+    {
+      "t": 137.33,
+      "end": 149.11,
+      "text": "비 온 다음 날 벽이 젖으면"
+    },
+    {
+      "t": 161.32,
+      "end": 161.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 161.32,
+      "end": 164.04,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 165.14,
+      "end": 168.94,
+      "text": "이제는 둘이서 그어요"
+    },
+    {
+      "t": 170.68,
+      "end": 174.0,
+      "text": "하나 둘 셋 소리 내어 세어요"
+    },
+    {
+      "t": 175.7,
+      "end": 179.0,
+      "text": "물은 낮아지고 해는 높아요"
+    },
+    {
+      "t": 189.72,
+      "end": 189.72,
+      "text": "[Outro - quena and zampoña fade]"
+    },
+    {
+      "t": 189.72,
+      "end": 193.86,
+      "text": "하나 둘 셋 하나 둘 셋"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.64,
+      "end": 20.64,
+      "text": "[Intro - quena melody over charango tremolo]"
+    },
+    {
+      "t": 20.64,
+      "end": 20.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.64,
+      "end": 23.7,
+      "text": "아침마다 하천 둑을 걸어요"
+    },
+    {
+      "t": 23.7,
+      "end": 35.7,
+      "text": "콘크리트 벽에 분필을 들고"
+    },
+    {
+      "t": 35.7,
+      "end": 42.24,
+      "text": "어제보다 손가락 두 마디"
+    },
+    {
+      "t": 43.1,
+      "end": 46.82,
+      "text": "물이 내려갔는지 올라갔는지"
+    },
+    {
+      "t": 50.3,
+      "end": 50.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.3,
+      "end": 53.33,
+      "text": "아무도 시킨 적 없는 일인데"
+    },
+    {
+      "t": 55.23,
+      "end": 58.81,
+      "text": "나는 날마다 눈금을 그어요"
+    },
+    {
+      "t": 59.91,
+      "end": 59.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.91,
+      "end": 61.71,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 62.41,
+      "end": 64.11,
+      "text": "물이 지나간 자리마다"
+    },
+    {
+      "t": 65.85,
+      "end": 69.13,
+      "text": "하나 둘 셋 오늘도 적어요"
+    },
+    {
+      "t": 75.21,
+      "end": 79.09,
+      "text": "비가 오면 다시 지워져도"
+    },
+    {
+      "t": 81.51,
+      "end": 81.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.51,
+      "end": 84.07,
+      "text": "어느 날 작은 남자아이가"
+    },
+    {
+      "t": 86.15,
+      "end": 89.33,
+      "text": "내 눈금 옆에 줄을 그었어요"
+    },
+    {
+      "t": 91.41,
+      "end": 94.69,
+      "text": "삐뚤빼뚤 자기 키만큼이나"
+    },
+    {
+      "t": 94.79,
+      "end": 97.19,
+      "text": "높게 그려 놓고 웃더라고요"
+    },
+    {
+      "t": 100.17,
+      "end": 100.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.17,
+      "end": 103.13,
+      "text": "그만하라고 말하려다"
+    },
+    {
+      "t": 104.93,
+      "end": 109.01,
+      "text": "아이가 먼저 고개를 끄덕였어요"
+    },
+    {
+      "t": 110.77,
+      "end": 110.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.77,
+      "end": 113.49,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 115.13,
+      "end": 118.69,
+      "text": "두 줄이 나란히 올라가요"
+    },
+    {
+      "t": 120.75,
+      "end": 131.55,
+      "text": "하나 둘 셋 같이 세어요"
+    },
+    {
+      "t": 131.79,
+      "end": 137.21,
+      "text": "물이 불어도 우린 괜찮아요"
+    },
+    {
+      "t": 137.33,
+      "end": 137.33,
+      "text": "[Bridge - quena alone, bombo enters softly]"
+    },
+    {
+      "t": 137.33,
+      "end": 149.11,
+      "text": "비 온 다음 날 벽이 젖으면"
+    },
+    {
+      "t": 161.32,
+      "end": 161.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 161.32,
+      "end": 164.04,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 165.14,
+      "end": 168.94,
+      "text": "이제는 둘이서 그어요"
+    },
+    {
+      "t": 170.68,
+      "end": 174.0,
+      "text": "하나 둘 셋 소리 내어 세어요"
+    },
+    {
+      "t": 175.7,
+      "end": 179.0,
+      "text": "물은 낮아지고 해는 높아요"
+    },
+    {
+      "t": 189.72,
+      "end": 189.72,
+      "text": "[Outro - quena and zampoña fade]"
+    },
+    {
+      "t": 189.72,
+      "end": 193.86,
+      "text": "하나 둘 셋 하나 둘 셋"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 20.64,
+      "end": 20.64,
+      "text": "[Intro - quena melody over charango tremolo]"
+    },
+    {
+      "t": 20.64,
+      "end": 20.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.64,
+      "end": 23.7,
+      "text": "아침마다 하천 둑을 걸어요"
+    },
+    {
+      "t": 24.06,
+      "end": 35.7,
+      "text": "콘크리트 벽에 분필을 들고"
+    },
+    {
+      "t": 35.7,
+      "end": 42.24,
+      "text": "어제보다 손가락 두 마디"
+    },
+    {
+      "t": 43.1,
+      "end": 46.82,
+      "text": "물이 내려갔는지 올라갔는지"
+    },
+    {
+      "t": 50.3,
+      "end": 50.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.3,
+      "end": 53.33,
+      "text": "아무도 시킨 적 없는 일인데"
+    },
+    {
+      "t": 55.23,
+      "end": 58.81,
+      "text": "나는 날마다 눈금을 그어요"
+    },
+    {
+      "t": 59.93,
+      "end": 59.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.93,
+      "end": 61.69,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 62.41,
+      "end": 64.11,
+      "text": "물이 지나간 자리마다"
+    },
+    {
+      "t": 65.85,
+      "end": 69.11,
+      "text": "하나 둘 셋 오늘도 적어요"
+    },
+    {
+      "t": 75.21,
+      "end": 79.09,
+      "text": "비가 오면 다시 지워져도"
+    },
+    {
+      "t": 81.51,
+      "end": 81.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.51,
+      "end": 84.07,
+      "text": "어느 날 작은 남자아이가"
+    },
+    {
+      "t": 86.13,
+      "end": 89.33,
+      "text": "내 눈금 옆에 줄을 그었어요"
+    },
+    {
+      "t": 91.39,
+      "end": 94.69,
+      "text": "삐뚤빼뚤 자기 키만큼이나"
+    },
+    {
+      "t": 94.79,
+      "end": 97.19,
+      "text": "높게 그려 놓고 웃더라고요"
+    },
+    {
+      "t": 100.17,
+      "end": 100.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.17,
+      "end": 103.13,
+      "text": "그만하라고 말하려다"
+    },
+    {
+      "t": 104.93,
+      "end": 109.01,
+      "text": "아이가 먼저 고개를 끄덕였어요"
+    },
+    {
+      "t": 110.77,
+      "end": 110.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.77,
+      "end": 113.49,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 115.13,
+      "end": 118.69,
+      "text": "두 줄이 나란히 올라가요"
+    },
+    {
+      "t": 120.77,
+      "end": 132.73,
+      "text": "하나 둘 셋 같이 세어요"
+    },
+    {
+      "t": 132.83,
+      "end": 138.43,
+      "text": "물이 불어도 우린 괜찮아요"
+    },
+    {
+      "t": 145.41,
+      "end": 145.41,
+      "text": "[Bridge - quena alone, bombo enters softly]"
+    },
+    {
+      "t": 145.41,
+      "end": 149.11,
+      "text": "비 온 다음 날 벽이 젖으면"
+    },
+    {
+      "t": 161.32,
+      "end": 161.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 161.32,
+      "end": 164.06,
+      "text": "분필로 그은 눈금"
+    },
+    {
+      "t": 165.14,
+      "end": 168.94,
+      "text": "이제는 둘이서 그어요"
+    },
+    {
+      "t": 170.7,
+      "end": 174.0,
+      "text": "하나 둘 셋 소리 내어 세어요"
+    },
+    {
+      "t": 175.7,
+      "end": 179.0,
+      "text": "물은 낮아지고 해는 높아요"
+    },
+    {
+      "t": 189.72,
+      "end": 189.72,
+      "text": "[Outro - quena and zampoña fade]"
+    },
+    {
+      "t": 189.72,
+      "end": 204.6,
+      "text": "하나 둘 셋 하나 둘 셋"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+ "id": "b21_zh04",
+ "title": "水桶裡找洞",
+ "title_source": "scripted",
+ "genre": "Mandarin British music-hall singalong",
+ "language": "zh",
+ "language_name": "Mandarin Chinese (Traditional)",
+ "mood": "playful, cheeky, brisk",
+ "persona": "",
+ "subject": "a bicycle-shop mender who dunks inner tubes in a water bucket to find the leak by its bubbles, and the young man who comes back every afternoon at 4:30 with a tyre that has no puncture at all, on a bike he rents by the hour just to stand by her bucket",
+ "caption": "Mandarin British music-hall singalong, brisk 2/4 pub stomp with a Taiwanese bicycle-shop setting. Upright piano pounding oom-pah left hand with bright right-hand fills, banjo-ukulele strumming a brisk 2/4 chop, plucked double bass on the beat, stomping boots and a rattling washboard. Dry crowded pub-stage mix, lively and slightly rough. Female lead, bright mid voice with a cheeky character delivery, clearly sung, a few friends shouting the chorus back in unison. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, C major. playful, cheeky, brisk mood. No rap, no trap hi-hats, no autotune, no EDM synths, no drum kit, no heavy distortion.",
+ "lyrics": "[Intro - upright piano, banjo-ukulele, stomping boots]\n\n[Verse 1]\n每天下午四點半\n他牽著腳踏車 到我車行\n前輪軟軟的 他說沒氣了\n我說 先放進水桶\n\n[Pre-Chorus]\n內胎壓進水裡 冒一串泡\n哪裡漏氣 哪裡就唱歌\n\n[Chorus]\n咕嚕咕嚕 水裡冒泡\n哪個洞 哪個洞\n輪胎沒破 氣門蓋鬆了\n他的車胎 比他還會演\n\n[Verse 2]\n第二天 第三天 同一條胎\n我貼上膠片 壓三下\n他說好了嗎 我說早好了\n\n[Chorus]\n咕嚕咕嚕 水裡不冒泡\n沒有洞 沒有洞\n輪胎沒破 是人慌了\n我的水桶 他站最久\n\n[Bridge - piano and stomping boots only]\n他終於說 這輛車是租的\n每天租一個鐘頭\n就為了 來我桶邊站\n\n[Chorus]\n咕嚕咕嚕 水裡冒泡\n這回有洞 這回有洞\n我這顆心 沒人會補\n咕嚕咕嚕 你來試試\n\n[Outro - piano and banjo-ukulele, big stop]\n明天四點半 換我帶水桶",
+ "lyrics_leaked_tokens": [],
+ "lyrics_looks_romanized": false,
+ "metas": {
+  "bpm": 128,
+  "duration": 185.0,
+  "genres": "N/A",
+  "keyscale": "C major",
+  "timesignature": "4",
+  "prompt": "Mandarin British music-hall singalong, brisk 2/4 pub stomp with a Taiwanese bicycle-shop setting. Upright piano pounding oom-pah left hand with bright right-hand fills, banjo-ukulele strumming a brisk 2/4 chop, plucked double bass on the beat, stomping boots and a rattling washboard. Dry crowded pub-stage mix, lively and slightly rough. Female lead, bright mid voice with a cheeky character delivery, clearly sung, a few friends shouting the chorus back in unison. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, C major. playful, cheeky, brisk mood. No rap, no trap hi-hats, no autotune, no EDM synths, no drum kit, no heavy distortion.",
+  "lyrics": "[Intro - upright piano, banjo-ukulele, stomping boots]\n\n[Verse 1]\n每天下午四點半\n他牽著腳踏車 到我車行\n前輪軟軟的 他說沒氣了\n我說 先放進水桶\n\n[Pre-Chorus]\n內胎壓進水裡 冒一串泡\n哪裡漏氣 哪裡就唱歌\n\n[Chorus]\n咕嚕咕嚕 水裡冒泡\n哪個洞 哪個洞\n輪胎沒破 氣門蓋鬆了\n他的車胎 比他還會演\n\n[Verse 2]\n第二天 第三天 同一條胎\n我貼上膠片 壓三下\n他說好了嗎 我說早好了\n\n[Chorus]\n咕嚕咕嚕 水裡不冒泡\n沒有洞 沒有洞\n輪胎沒破 是人慌了\n我的水桶 他站最久\n\n[Bridge - piano and stomping boots only]\n他終於說 這輛車是租的\n每天租一個鐘頭\n就為了 來我桶邊站\n\n[Chorus]\n咕嚕咕嚕 水裡冒泡\n這回有洞 這回有洞\n我這顆心 沒人會補\n咕嚕咕嚕 你來試試\n\n[Outro - piano and banjo-ukulele, big stop]\n明天四點半 換我帶水桶\n"
+ },
+ "seed": "86127870",
+ "dit_model": "acestep-v15-turbo",
+ "generation_info": "**🎵 Total generation time (1 song): 64.31s**\n- 64.31s per song\n- LM phase (1 song): 11.60s\n- DiT phase (1 song): 52.71s",
+ "task_id": "4999b60f-87e8-4a15-ada3-a31d4dd7ea1b",
+ "elapsed_s": 90.1,
+ "generated_at": "2026-11-13T15:14:57.985161+08:00",
+ "audio": "b21_zh04.mp3",
+ "lyrics_timed": [
+  {
+   "t": 24.56,
+   "end": 24.56,
+   "text": "[Intro - upright piano, banjo-ukulele, stomping boots]"
+  },
+  {
+   "t": 24.56,
+   "end": 24.56,
+   "text": "[Verse 1]"
+  },
+  {
+   "t": 24.56,
+   "end": 30.26,
+   "text": "每天下午四點半"
+  },
+  {
+   "t": 30.26,
+   "end": 32.96,
+   "text": "他牽著腳踏車 到我車行"
+  },
+  {
+   "t": 32.96,
+   "end": 37.36,
+   "text": "前輪軟軟的 他說沒氣了"
+  },
+  {
+   "t": 37.42,
+   "end": 40.86,
+   "text": "我說 先放進水桶"
+  },
+  {
+   "t": 43.84,
+   "end": 43.84,
+   "text": "[Pre-Chorus]"
+  },
+  {
+   "t": 43.84,
+   "end": 48.29,
+   "text": "內胎壓進水裡 冒一串泡"
+  },
+  {
+   "t": 51.39,
+   "end": 55.57,
+   "text": "哪裡漏氣 哪裡就唱歌"
+  },
+  {
+   "t": 59.35,
+   "end": 59.35,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 59.35,
+   "end": 62.03,
+   "text": "咕嚕咕嚕 水裡冒泡"
+  },
+  {
+   "t": 62.19,
+   "end": 64.17,
+   "text": "哪個洞 哪個洞"
+  },
+  {
+   "t": 66.27,
+   "end": 68.85,
+   "text": "輪胎沒破 氣門蓋鬆了"
+  },
+  {
+   "t": 68.95,
+   "end": 71.35,
+   "text": "他的車胎 比他還會演"
+  },
+  {
+   "t": 83.35,
+   "end": 83.35,
+   "text": "[Verse 2]"
+  },
+  {
+   "t": 83.35,
+   "end": 91.23,
+   "text": "第二天 第三天 同一條胎"
+  },
+  {
+   "t": 91.37,
+   "end": 96.21,
+   "text": "我貼上膠片 壓三下"
+  },
+  {
+   "t": 96.61,
+   "end": 100.89,
+   "text": "他說好了嗎 我說早好了"
+  },
+  {
+   "t": 101.59,
+   "end": 101.59,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 101.59,
+   "end": 105.85,
+   "text": "咕嚕咕嚕 水裡不冒泡"
+  },
+  {
+   "t": 105.93,
+   "end": 107.61,
+   "text": "沒有洞 沒有洞"
+  },
+  {
+   "t": 107.81,
+   "end": 116.17,
+   "text": "輪胎沒破 是人慌了"
+  },
+  {
+   "t": 116.33,
+   "end": 122.09,
+   "text": "我的水桶 他站最久"
+  },
+  {
+   "t": 122.17,
+   "end": 122.17,
+   "text": "[Bridge - piano and stomping boots only]"
+  },
+  {
+   "t": 122.17,
+   "end": 134.27,
+   "text": "他終於說 這輛車是租的"
+  },
+  {
+   "t": 134.27,
+   "end": 135.43,
+   "text": "每天租一個鐘頭"
+  },
+  {
+   "t": 135.63,
+   "end": 141.5,
+   "text": "就為了 來我桶邊站"
+  },
+  {
+   "t": 141.52,
+   "end": 141.52,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 141.52,
+   "end": 143.2,
+   "text": "咕嚕咕嚕 水裡冒泡"
+  },
+  {
+   "t": 143.46,
+   "end": 146.38,
+   "text": "這回有洞 這回有洞"
+  },
+  {
+   "t": 146.38,
+   "end": 166.28,
+   "text": "我這顆心 沒人會補"
+  },
+  {
+   "t": 168.12,
+   "end": 172.82,
+   "text": "咕嚕咕嚕 你來試試"
+  },
+  {
+   "t": 172.82,
+   "end": 172.82,
+   "text": "[Outro - piano and banjo-ukulele, big stop]"
+  },
+  {
+   "t": 172.82,
+   "end": 177.0,
+   "text": "明天四點半 換我帶水桶"
+  }
+ ],
+ "lyrics_timed_by": "torchaudio MMS_FA forced alignment + first verse from vocal-stem alignment",
+ "lyrics_timed_vocals": [
+  {
+   "t": 24.56,
+   "end": 24.56,
+   "text": "[Intro - upright piano, banjo-ukulele, stomping boots]"
+  },
+  {
+   "t": 24.56,
+   "end": 24.56,
+   "text": "[Verse 1]"
+  },
+  {
+   "t": 24.56,
+   "end": 30.26,
+   "text": "每天下午四點半"
+  },
+  {
+   "t": 30.26,
+   "end": 32.96,
+   "text": "他牽著腳踏車 到我車行"
+  },
+  {
+   "t": 32.96,
+   "end": 37.36,
+   "text": "前輪軟軟的 他說沒氣了"
+  },
+  {
+   "t": 37.42,
+   "end": 40.86,
+   "text": "我說 先放進水桶"
+  },
+  {
+   "t": 43.86,
+   "end": 43.86,
+   "text": "[Pre-Chorus]"
+  },
+  {
+   "t": 43.86,
+   "end": 48.33,
+   "text": "內胎壓進水裡 冒一串泡"
+  },
+  {
+   "t": 51.39,
+   "end": 55.57,
+   "text": "哪裡漏氣 哪裡就唱歌"
+  },
+  {
+   "t": 59.35,
+   "end": 59.35,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 59.35,
+   "end": 62.05,
+   "text": "咕嚕咕嚕 水裡冒泡"
+  },
+  {
+   "t": 62.19,
+   "end": 64.17,
+   "text": "哪個洞 哪個洞"
+  },
+  {
+   "t": 66.33,
+   "end": 68.85,
+   "text": "輪胎沒破 氣門蓋鬆了"
+  },
+  {
+   "t": 68.93,
+   "end": 70.59,
+   "text": "他的車胎 比他還會演"
+  },
+  {
+   "t": 70.69,
+   "end": 70.69,
+   "text": "[Verse 2]"
+  },
+  {
+   "t": 70.69,
+   "end": 83.41,
+   "text": "第二天 第三天 同一條胎"
+  },
+  {
+   "t": 83.41,
+   "end": 84.27,
+   "text": "我貼上膠片 壓三下"
+  },
+  {
+   "t": 84.27,
+   "end": 85.19,
+   "text": "他說好了嗎 我說早好了"
+  },
+  {
+   "t": 85.19,
+   "end": 85.19,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 85.19,
+   "end": 88.71,
+   "text": "咕嚕咕嚕 水裡不冒泡"
+  },
+  {
+   "t": 89.51,
+   "end": 91.83,
+   "text": "沒有洞 沒有洞"
+  },
+  {
+   "t": 91.83,
+   "end": 92.67,
+   "text": "輪胎沒破 是人慌了"
+  },
+  {
+   "t": 92.67,
+   "end": 96.07,
+   "text": "我的水桶 他站最久"
+  },
+  {
+   "t": 96.07,
+   "end": 96.07,
+   "text": "[Bridge - piano and stomping boots only]"
+  },
+  {
+   "t": 96.07,
+   "end": 100.91,
+   "text": "他終於說 這輛車是租的"
+  },
+  {
+   "t": 102.01,
+   "end": 104.39,
+   "text": "每天租一個鐘頭"
+  },
+  {
+   "t": 105.75,
+   "end": 108.37,
+   "text": "就為了 來我桶邊站"
+  },
+  {
+   "t": 108.37,
+   "end": 108.37,
+   "text": "[Chorus]"
+  },
+  {
+   "t": 108.37,
+   "end": 119.39,
+   "text": "咕嚕咕嚕 水裡冒泡"
+  },
+  {
+   "t": 121.37,
+   "end": 134.71,
+   "text": "這回有洞 這回有洞"
+  },
+  {
+   "t": 134.79,
+   "end": 141.42,
+   "text": "我這顆心 沒人會補"
+  },
+  {
+   "t": 141.52,
+   "end": 168.8,
+   "text": "咕嚕咕嚕 你來試試"
+  },
+  {
+   "t": 172.46,
+   "end": 172.46,
+   "text": "[Outro - piano and banjo-ukulele, big stop]"
+  },
+  {
+   "t": 172.46,
+   "end": 177.04,
+   "text": "明天四點半 換我帶水桶"
+  }
+ ],
+ "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

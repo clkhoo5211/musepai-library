@@ -1,0 +1,397 @@
+{
+  "id": "b21_en02",
+  "title": "The Penny Blue",
+  "title_source": "scripted",
+  "genre": "cool-jazz waltz",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, warm, unhurried",
+  "persona": "",
+  "subject": "A woman goes to the Saturday stamp fair in a church hall to buy one gift, keeps returning to the same dealer's table asking for the penny blue, and is really watching his careful tweezers.",
+  "caption": "Cool-jazz waltz in 3/4, West Coast vocal jazz trio-plus-horn sound. Brushed snare in a slow waltz pattern, upright bass walking in three, muted flugelhorn answering the vocal phrases, nylon-string guitar comping soft seventh chords, sparse piano fills. Intimate small-room jazz-club mix, natural room ambience, warm analogue tone. Female alto, warm and steady, gentle phrasing with clear diction. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, F major. Tender, warm, unhurried. No rap, no autotune, no drum machine, no distorted guitar, no synthesizer, no swing-big-band brass section.",
+  "lyrics": "[Intro - brushes, upright bass, muted flugelhorn]\n\n[Verse 1]\nSaturday in the church hall\nTrestle tables, folding chairs\nI came to buy one stamp, that's all\nA gift for my brother, nothing more\n\n[Pre-Chorus]\nYou lift it with your tweezers\nLike it might say something back\n\n[Chorus]\nShow me the penny blue again\nSlowly, slowly, hold it in the light\nI don't need the penny blue\nI just need to watch your hands\n\n[Verse 2]\nThird week now I'm at your table\nYou know my name, I know your glass\nYou measure every little tooth\nI count the hours till next Saturday\n\n[Pre-Chorus]\nYou lift it with your tweezers\nLike it might say something back\n\n[Chorus]\nShow me the penny blue once more\nPretend there's a flaw along the edge\nI don't need the penny blue\nI just need to watch your hands\n\n[Bridge - guitar and bass only]\nSeventeen pounds, I leave a twenty\n\n[Chorus]\nKeep the penny blue, my love\nKeep it safe inside the album\nAll I wanted was the Saturday\nAnd the way you hold a small thing\n\n[Outro - flugelhorn, brushes fade]\nShow me the penny blue",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "3",
+    "prompt": "Cool-jazz waltz in 3/4, West Coast vocal jazz trio-plus-horn sound. Brushed snare in a slow waltz pattern, upright bass walking in three, muted flugelhorn answering the vocal phrases, nylon-string guitar comping soft seventh chords, sparse piano fills. Intimate small-room jazz-club mix, natural room ambience, warm analogue tone. Female alto, warm and steady, gentle phrasing with clear diction. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, F major. Tender, warm, unhurried. No rap, no autotune, no drum machine, no distorted guitar, no synthesizer, no swing-big-band brass section.",
+    "lyrics": "[Intro - brushes, upright bass, muted flugelhorn]\n\n[Verse 1]\nSaturday in the church hall\nTrestle tables, folding chairs\nI came to buy one stamp, that's all\nA gift for my brother, nothing more\n\n[Pre-Chorus]\nYou lift it with your tweezers\nLike it might say something back\n\n[Chorus]\nShow me the penny blue again\nSlowly, slowly, hold it in the light\nI don't need the penny blue\nI just need to watch your hands\n\n[Verse 2]\nThird week now I'm at your table\nYou know my name, I know your glass\nYou measure every little tooth\nI count the hours till next Saturday\n\n[Pre-Chorus]\nYou lift it with your tweezers\nLike it might say something back\n\n[Chorus]\nShow me the penny blue once more\nPretend there's a flaw along the edge\nI don't need the penny blue\nI just need to watch your hands\n\n[Bridge - guitar and bass only]\nSeventeen pounds, I leave a twenty\n\n[Chorus]\nKeep the penny blue, my love\nKeep it safe inside the album\nAll I wanted was the Saturday\nAnd the way you hold a small thing\n\n[Outro - flugelhorn, brushes fade]\nShow me the penny blue"
+  },
+  "seed": "3693952296",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.27s**\n- 58.27s per song\n- LM phase (1 song): 10.58s\n- DiT phase (1 song): 47.69s",
+  "task_id": "6511954a-10fa-4bc6-aad0-69551d38702b",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-13T15:04:06.375963+08:00",
+  "audio": "b21_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.52,
+      "end": 16.52,
+      "text": "[Intro - brushes, upright bass, muted flugelhorn]"
+    },
+    {
+      "t": 16.52,
+      "end": 16.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.52,
+      "end": 20.04,
+      "text": "Saturday in the church hall"
+    },
+    {
+      "t": 20.08,
+      "end": 33.1,
+      "text": "Trestle tables, folding chairs"
+    },
+    {
+      "t": 33.1,
+      "end": 37.04,
+      "text": "I came to buy one stamp, that's all"
+    },
+    {
+      "t": 37.04,
+      "end": 38.48,
+      "text": "A gift for my brother, nothing more"
+    },
+    {
+      "t": 38.48,
+      "end": 38.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.48,
+      "end": 39.26,
+      "text": "You lift it with your tweezers"
+    },
+    {
+      "t": 39.26,
+      "end": 40.58,
+      "text": "Like it might say something back"
+    },
+    {
+      "t": 45.84,
+      "end": 45.84,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.84,
+      "end": 51.61,
+      "text": "Show me the penny blue again"
+    },
+    {
+      "t": 53.63,
+      "end": 57.47,
+      "text": "Slowly, slowly, hold it in the light"
+    },
+    {
+      "t": 59.01,
+      "end": 61.81,
+      "text": "I don't need the penny blue"
+    },
+    {
+      "t": 63.03,
+      "end": 66.35,
+      "text": "I just need to watch your hands"
+    },
+    {
+      "t": 66.35,
+      "end": 66.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.35,
+      "end": 74.67,
+      "text": "Third week now I'm at your table"
+    },
+    {
+      "t": 74.79,
+      "end": 82.73,
+      "text": "You know my name, I know your glass"
+    },
+    {
+      "t": 82.75,
+      "end": 84.95,
+      "text": "You measure every little tooth"
+    },
+    {
+      "t": 86.03,
+      "end": 89.95,
+      "text": "I count the hours till next Saturday"
+    },
+    {
+      "t": 94.75,
+      "end": 94.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.75,
+      "end": 98.97,
+      "text": "You lift it with your tweezers"
+    },
+    {
+      "t": 99.95,
+      "end": 103.31,
+      "text": "Like it might say something back"
+    },
+    {
+      "t": 113.89,
+      "end": 113.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.89,
+      "end": 131.69,
+      "text": "Show me the penny blue once more"
+    },
+    {
+      "t": 131.69,
+      "end": 134.63,
+      "text": "Pretend there's a flaw along the edge"
+    },
+    {
+      "t": 134.63,
+      "end": 135.65,
+      "text": "I don't need the penny blue"
+    },
+    {
+      "t": 135.65,
+      "end": 137.33,
+      "text": "I just need to watch your hands"
+    },
+    {
+      "t": 137.35,
+      "end": 137.35,
+      "text": "[Bridge - guitar and bass only]"
+    },
+    {
+      "t": 137.35,
+      "end": 141.51,
+      "text": "Seventeen pounds, I leave a twenty"
+    },
+    {
+      "t": 146.09,
+      "end": 146.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.09,
+      "end": 150.82,
+      "text": "Keep the penny blue, my love"
+    },
+    {
+      "t": 157.2,
+      "end": 160.12,
+      "text": "Keep it safe inside the album"
+    },
+    {
+      "t": 162.62,
+      "end": 165.62,
+      "text": "All I wanted was the Saturday"
+    },
+    {
+      "t": 166.54,
+      "end": 169.58,
+      "text": "And the way you hold a small thing"
+    },
+    {
+      "t": 177.58,
+      "end": 177.58,
+      "text": "[Outro - flugelhorn, brushes fade]"
+    },
+    {
+      "t": 177.58,
+      "end": 189.12,
+      "text": "Show me the penny blue"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.52,
+      "end": 16.52,
+      "text": "[Intro - brushes, upright bass, muted flugelhorn]"
+    },
+    {
+      "t": 16.52,
+      "end": 16.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.52,
+      "end": 20.02,
+      "text": "Saturday in the church hall"
+    },
+    {
+      "t": 20.02,
+      "end": 33.1,
+      "text": "Trestle tables, folding chairs"
+    },
+    {
+      "t": 33.1,
+      "end": 34.08,
+      "text": "I came to buy one stamp, that's all"
+    },
+    {
+      "t": 34.08,
+      "end": 35.18,
+      "text": "A gift for my brother, nothing more"
+    },
+    {
+      "t": 35.18,
+      "end": 35.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.18,
+      "end": 37.96,
+      "text": "You lift it with your tweezers"
+    },
+    {
+      "t": 37.96,
+      "end": 40.56,
+      "text": "Like it might say something back"
+    },
+    {
+      "t": 45.84,
+      "end": 45.84,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.84,
+      "end": 51.55,
+      "text": "Show me the penny blue again"
+    },
+    {
+      "t": 53.63,
+      "end": 57.47,
+      "text": "Slowly, slowly, hold it in the light"
+    },
+    {
+      "t": 59.25,
+      "end": 61.81,
+      "text": "I don't need the penny blue"
+    },
+    {
+      "t": 63.05,
+      "end": 66.31,
+      "text": "I just need to watch your hands"
+    },
+    {
+      "t": 66.31,
+      "end": 66.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.31,
+      "end": 74.17,
+      "text": "Third week now I'm at your table"
+    },
+    {
+      "t": 74.17,
+      "end": 75.85,
+      "text": "You know my name, I know your glass"
+    },
+    {
+      "t": 82.15,
+      "end": 85.93,
+      "text": "You measure every little tooth"
+    },
+    {
+      "t": 86.03,
+      "end": 89.95,
+      "text": "I count the hours till next Saturday"
+    },
+    {
+      "t": 94.75,
+      "end": 94.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.75,
+      "end": 98.91,
+      "text": "You lift it with your tweezers"
+    },
+    {
+      "t": 99.97,
+      "end": 102.81,
+      "text": "Like it might say something back"
+    },
+    {
+      "t": 131.87,
+      "end": 131.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.87,
+      "end": 134.81,
+      "text": "Show me the penny blue once more"
+    },
+    {
+      "t": 134.81,
+      "end": 135.63,
+      "text": "Pretend there's a flaw along the edge"
+    },
+    {
+      "t": 135.63,
+      "end": 140.33,
+      "text": "I don't need the penny blue"
+    },
+    {
+      "t": 140.41,
+      "end": 141.11,
+      "text": "I just need to watch your hands"
+    },
+    {
+      "t": 141.13,
+      "end": 141.13,
+      "text": "[Bridge - guitar and bass only]"
+    },
+    {
+      "t": 141.13,
+      "end": 146.15,
+      "text": "Seventeen pounds, I leave a twenty"
+    },
+    {
+      "t": 146.19,
+      "end": 146.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.19,
+      "end": 149.89,
+      "text": "Keep the penny blue, my love"
+    },
+    {
+      "t": 157.18,
+      "end": 160.1,
+      "text": "Keep it safe inside the album"
+    },
+    {
+      "t": 162.58,
+      "end": 165.62,
+      "text": "All I wanted was the Saturday"
+    },
+    {
+      "t": 166.54,
+      "end": 178.92,
+      "text": "And the way you hold a small thing"
+    },
+    {
+      "t": 188.44,
+      "end": 188.44,
+      "text": "[Outro - flugelhorn, brushes fade]"
+    },
+    {
+      "t": 188.44,
+      "end": 190.52,
+      "text": "Show me the penny blue"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

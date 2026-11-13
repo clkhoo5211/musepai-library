@@ -1,0 +1,367 @@
+{
+  "id": "b21_id02",
+  "title": "Sepatu Sekolah Ukuran Besar",
+  "title_source": "scripted",
+  "genre": "Rote sasando folk-pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "gentle, warm",
+  "persona": "",
+  "subject": "a shoe cobbler at a Kupang market who stitches a boy's school shoes with fishing line each term and secretly keeps the next size up on the shelf for him",
+  "caption": "Rote sasando folk-pop, East Nusa Tenggara village feel. Sasando with shimmering rolling plucked arpeggios, fingerpicked nylon acoustic guitar, soft round bass, small shaker on the beat. Close dry wooden-room recording with a short natural reverb. Female vocal, warm mid register, gentle and unhurried, sung clearly in Indonesian. Clear full voice, every word enunciated, steady sung melody on every line. 78 BPM, D major. Gentle, warm mood. No drum kit, no electronic beats, no autotune, no strings pad, no rap, no pop-ballad piano.",
+  "lyrics": "[Intro - sasando arpeggios]\n\n[Verse 1]\nPak Yohan duduk di pasar Oebobo\nJarum besar, benang dari pancing\nSepatu Melki sobek lagi di ujung\nDijahit rapat, tahan satu semester\n\n[Pre-Chorus]\nTiap bulan kakinya makin panjang\nTiap bulan Pak Yohan tambah senyum\n\n[Chorus]\nSepatu sekolah ukuran besar\nDisimpan di rak paling atas\nBelum ada yang tanya, belum ada yang beli\nMenunggu kaki yang sedang tumbuh\n\n[Verse 2]\nMelki datang bawa sepatu berdebu\nUangnya cuma tiga ribu di saku\nPak Yohan bilang, cukup, taruh saja\nBesok kamu bantu aku menyapu\n\n[Chorus]\nSepatu sekolah ukuran besar\nDisimpan di rak paling atas\nHari ini Melki pakai, pas di tumitnya\nPak Yohan pura-pura sibuk menjahit\n\n[Bridge - sasando alone]\nTali pancing masih ada di meja\nSatu gulung lagi untuk tahun depan\n\n[Chorus]\nSepatu sekolah ukuran besar\nSudah turun dari rak paling atas\nMelki berjalan pulang tanpa menoleh\nPak Yohan tersenyum, pasar mulai sepi\n\n[Outro - sasando and guitar]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "2",
+    "prompt": "Rote sasando folk-pop, East Nusa Tenggara village feel. Sasando with shimmering rolling plucked arpeggios, fingerpicked nylon acoustic guitar, soft round bass, small shaker on the beat. Close dry wooden-room recording with a short natural reverb. Female vocal, warm mid register, gentle and unhurried, sung clearly in Indonesian. Clear full voice, every word enunciated, steady sung melody on every line. 78 BPM, D major. Gentle, warm mood. No drum kit, no electronic beats, no autotune, no strings pad, no rap, no pop-ballad piano.",
+    "lyrics": "[Intro - sasando arpeggios]\n\n[Verse 1]\nPak Yohan duduk di pasar Oebobo\nJarum besar, benang dari pancing\nSepatu Melki sobek lagi di ujung\nDijahit rapat, tahan satu semester\n\n[Pre-Chorus]\nTiap bulan kakinya makin panjang\nTiap bulan Pak Yohan tambah senyum\n\n[Chorus]\nSepatu sekolah ukuran besar\nDisimpan di rak paling atas\nBelum ada yang tanya, belum ada yang beli\nMenunggu kaki yang sedang tumbuh\n\n[Verse 2]\nMelki datang bawa sepatu berdebu\nUangnya cuma tiga ribu di saku\nPak Yohan bilang, cukup, taruh saja\nBesok kamu bantu aku menyapu\n\n[Chorus]\nSepatu sekolah ukuran besar\nDisimpan di rak paling atas\nHari ini Melki pakai, pas di tumitnya\nPak Yohan pura-pura sibuk menjahit\n\n[Bridge - sasando alone]\nTali pancing masih ada di meja\nSatu gulung lagi untuk tahun depan\n\n[Chorus]\nSepatu sekolah ukuran besar\nSudah turun dari rak paling atas\nMelki berjalan pulang tanpa menoleh\nPak Yohan tersenyum, pasar mulai sepi\n\n[Outro - sasando and guitar]"
+  },
+  "seed": "459271295",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.37s**\n- 72.37s per song\n- LM phase (1 song): 10.04s\n- DiT phase (1 song): 62.32s",
+  "task_id": "9f4390f8-367d-4ee4-b5a8-eb881802b9b6",
+  "elapsed_s": 100.3,
+  "generated_at": "2026-11-13T14:40:34.440495+08:00",
+  "audio": "b21_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.48,
+      "end": 25.48,
+      "text": "[Intro - sasando arpeggios]"
+    },
+    {
+      "t": 25.48,
+      "end": 25.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.48,
+      "end": 29.46,
+      "text": "Pak Yohan duduk di pasar Oebobo"
+    },
+    {
+      "t": 31.26,
+      "end": 35.82,
+      "text": "Jarum besar, benang dari pancing"
+    },
+    {
+      "t": 37.36,
+      "end": 40.48,
+      "text": "Sepatu Melki sobek lagi di ujung"
+    },
+    {
+      "t": 40.48,
+      "end": 45.4,
+      "text": "Dijahit rapat, tahan satu semester"
+    },
+    {
+      "t": 45.44,
+      "end": 45.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.44,
+      "end": 50.65,
+      "text": "Tiap bulan kakinya makin panjang"
+    },
+    {
+      "t": 52.37,
+      "end": 57.01,
+      "text": "Tiap bulan Pak Yohan tambah senyum"
+    },
+    {
+      "t": 57.35,
+      "end": 57.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.35,
+      "end": 58.85,
+      "text": "Sepatu sekolah ukuran besar"
+    },
+    {
+      "t": 58.89,
+      "end": 61.65,
+      "text": "Disimpan di rak paling atas"
+    },
+    {
+      "t": 61.65,
+      "end": 65.93,
+      "text": "Belum ada yang tanya, belum ada yang beli"
+    },
+    {
+      "t": 65.93,
+      "end": 74.27,
+      "text": "Menunggu kaki yang sedang tumbuh"
+    },
+    {
+      "t": 76.55,
+      "end": 76.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.55,
+      "end": 81.11,
+      "text": "Melki datang bawa sepatu berdebu"
+    },
+    {
+      "t": 83.19,
+      "end": 87.65,
+      "text": "Uangnya cuma tiga ribu di saku"
+    },
+    {
+      "t": 89.95,
+      "end": 95.03,
+      "text": "Pak Yohan bilang, cukup, taruh saja"
+    },
+    {
+      "t": 96.05,
+      "end": 101.11,
+      "text": "Besok kamu bantu aku menyapu"
+    },
+    {
+      "t": 101.45,
+      "end": 101.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.45,
+      "end": 105.91,
+      "text": "Sepatu sekolah ukuran besar"
+    },
+    {
+      "t": 105.95,
+      "end": 114.75,
+      "text": "Disimpan di rak paling atas"
+    },
+    {
+      "t": 117.35,
+      "end": 120.99,
+      "text": "Hari ini Melki pakai, pas di tumitnya"
+    },
+    {
+      "t": 123.43,
+      "end": 131.03,
+      "text": "Pak Yohan pura-pura sibuk menjahit"
+    },
+    {
+      "t": 132.03,
+      "end": 132.03,
+      "text": "[Bridge - sasando alone]"
+    },
+    {
+      "t": 132.03,
+      "end": 136.77,
+      "text": "Tali pancing masih ada di meja"
+    },
+    {
+      "t": 138.13,
+      "end": 151.7,
+      "text": "Satu gulung lagi untuk tahun depan"
+    },
+    {
+      "t": 153.84,
+      "end": 153.84,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 153.84,
+      "end": 156.64,
+      "text": "Sepatu sekolah ukuran besar"
+    },
+    {
+      "t": 156.86,
+      "end": 160.6,
+      "text": "Sudah turun dari rak paling atas"
+    },
+    {
+      "t": 160.68,
+      "end": 171.26,
+      "text": "Melki berjalan pulang tanpa menoleh"
+    },
+    {
+      "t": 172.76,
+      "end": 180.34,
+      "text": "Pak Yohan tersenyum, pasar mulai sepi"
+    },
+    {
+      "t": 180.34,
+      "end": 180.34,
+      "text": "[Outro - sasando and guitar]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.44,
+      "end": 25.44,
+      "text": "[Intro - sasando arpeggios]"
+    },
+    {
+      "t": 25.44,
+      "end": 25.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.44,
+      "end": 29.48,
+      "text": "Pak Yohan duduk di pasar Oebobo"
+    },
+    {
+      "t": 31.26,
+      "end": 35.82,
+      "text": "Jarum besar, benang dari pancing"
+    },
+    {
+      "t": 37.38,
+      "end": 40.48,
+      "text": "Sepatu Melki sobek lagi di ujung"
+    },
+    {
+      "t": 40.48,
+      "end": 45.38,
+      "text": "Dijahit rapat, tahan satu semester"
+    },
+    {
+      "t": 45.44,
+      "end": 45.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.44,
+      "end": 52.35,
+      "text": "Tiap bulan kakinya makin panjang"
+    },
+    {
+      "t": 52.37,
+      "end": 57.09,
+      "text": "Tiap bulan Pak Yohan tambah senyum"
+    },
+    {
+      "t": 59.25,
+      "end": 59.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.25,
+      "end": 61.61,
+      "text": "Sepatu sekolah ukuran besar"
+    },
+    {
+      "t": 61.61,
+      "end": 62.51,
+      "text": "Disimpan di rak paling atas"
+    },
+    {
+      "t": 62.51,
+      "end": 65.93,
+      "text": "Belum ada yang tanya, belum ada yang beli"
+    },
+    {
+      "t": 65.93,
+      "end": 69.79,
+      "text": "Menunggu kaki yang sedang tumbuh"
+    },
+    {
+      "t": 76.57,
+      "end": 76.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.57,
+      "end": 81.13,
+      "text": "Melki datang bawa sepatu berdebu"
+    },
+    {
+      "t": 83.19,
+      "end": 87.65,
+      "text": "Uangnya cuma tiga ribu di saku"
+    },
+    {
+      "t": 89.93,
+      "end": 95.05,
+      "text": "Pak Yohan bilang, cukup, taruh saja"
+    },
+    {
+      "t": 96.05,
+      "end": 101.11,
+      "text": "Besok kamu bantu aku menyapu"
+    },
+    {
+      "t": 101.39,
+      "end": 101.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.39,
+      "end": 105.91,
+      "text": "Sepatu sekolah ukuran besar"
+    },
+    {
+      "t": 105.93,
+      "end": 115.53,
+      "text": "Disimpan di rak paling atas"
+    },
+    {
+      "t": 117.33,
+      "end": 120.99,
+      "text": "Hari ini Melki pakai, pas di tumitnya"
+    },
+    {
+      "t": 123.43,
+      "end": 131.01,
+      "text": "Pak Yohan pura-pura sibuk menjahit"
+    },
+    {
+      "t": 132.03,
+      "end": 132.03,
+      "text": "[Bridge - sasando alone]"
+    },
+    {
+      "t": 132.03,
+      "end": 136.77,
+      "text": "Tali pancing masih ada di meja"
+    },
+    {
+      "t": 138.13,
+      "end": 151.68,
+      "text": "Satu gulung lagi untuk tahun depan"
+    },
+    {
+      "t": 153.84,
+      "end": 153.84,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 153.84,
+      "end": 156.64,
+      "text": "Sepatu sekolah ukuran besar"
+    },
+    {
+      "t": 156.76,
+      "end": 160.6,
+      "text": "Sudah turun dari rak paling atas"
+    },
+    {
+      "t": 160.68,
+      "end": 171.28,
+      "text": "Melki berjalan pulang tanpa menoleh"
+    },
+    {
+      "t": 172.78,
+      "end": 180.34,
+      "text": "Pak Yohan tersenyum, pasar mulai sepi"
+    },
+    {
+      "t": 180.34,
+      "end": 180.34,
+      "text": "[Outro - sasando and guitar]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

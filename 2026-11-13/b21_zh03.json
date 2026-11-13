@@ -1,0 +1,397 @@
+{
+  "id": "b21_zh03",
+  "title": "黃旗搖搖過馬路",
+  "title_source": "scripted",
+  "genre": "Mandarin 1970s glam rock stomp",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "bright, bustling, affectionate",
+  "persona": "",
+  "subject": "a retired volunteer crossing guard at a Tainan primary-school corner waving his big yellow flag at 7:20 each morning, and the day he is five minutes late and the children stop the traffic with his flag themselves",
+  "caption": "Mandarin 1970s glam rock stomp, singalong boogie with a Taiwanese school-corner setting. Crunchy overdriven electric guitar playing a chunky boogie riff in open A chords, stomping live drums with a heavy kick-and-snare backbeat, round driving bass guitar, tambourine and group handclaps on the chorus. 1970s glam-rock studio recording, big roomy drums, dry crunchy guitar, warm tape saturation. Male lead, bright warm tenor, cheerful and clearly sung with a strong melody, gang of friends and children chanting the chorus in unison. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, A major. bright, bustling, affectionate mood. No rap, no trap hi-hats, no autotune, no electronic drums, no synth bass, no ballad slowdown.",
+  "lyrics": "[Intro - boogie guitar riff, stomping drums, handclaps]\n\n[Verse 1]\n七點二十分 路口黃旗揮\n我是老陳 退休三年了\n小學生一隊 過馬路排排走\n我的旗子 比老師還大\n\n[Pre-Chorus]\n左邊來車 停一停\n右邊機車 慢一慢\n\n[Chorus]\n來來來 過馬路 一二三\n黃旗搖搖 跟我走\n紅燈變綠 我不趕你們\n小腳小腳 踩斑馬\n\n[Verse 2]\n有個小女孩 每天數我揮幾下\n她說昨天十二下 今天十五下\n我說老人家 手臂在跳舞\n\n[Pre-Chorus]\n今早我感冒 遲到了五分鐘\n路口那邊 怎麼這麼靜\n\n[Chorus]\n來來來 過馬路 一二三\n黃旗搖搖 自己走\n小女孩舉著我的旗\n公車停下來 乖乖等\n\n[Bridge - guitar and bass only, drums drop out]\n我站在遠遠的巷口\n手裡拿著藥 眼睛濕濕\n\n[Chorus]\n來來來 過馬路 一二三\n黃旗搖搖 一起走\n老陳也排進隊伍\n小腳小腳 帶我過\n\n[Outro - boogie riff, stomps and handclaps fade]\n明天七點二十 我準時",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Mandarin 1970s glam rock stomp, singalong boogie with a Taiwanese school-corner setting. Crunchy overdriven electric guitar playing a chunky boogie riff in open A chords, stomping live drums with a heavy kick-and-snare backbeat, round driving bass guitar, tambourine and group handclaps on the chorus. 1970s glam-rock studio recording, big roomy drums, dry crunchy guitar, warm tape saturation. Male lead, bright warm tenor, cheerful and clearly sung with a strong melody, gang of friends and children chanting the chorus in unison. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, A major. bright, bustling, affectionate mood. No rap, no trap hi-hats, no autotune, no electronic drums, no synth bass, no ballad slowdown.",
+    "lyrics": "[Intro - boogie guitar riff, stomping drums, handclaps]\n\n[Verse 1]\n七點二十分 路口黃旗揮\n我是老陳 退休三年了\n小學生一隊 過馬路排排走\n我的旗子 比老師還大\n\n[Pre-Chorus]\n左邊來車 停一停\n右邊機車 慢一慢\n\n[Chorus]\n來來來 過馬路 一二三\n黃旗搖搖 跟我走\n紅燈變綠 我不趕你們\n小腳小腳 踩斑馬\n\n[Verse 2]\n有個小女孩 每天數我揮幾下\n她說昨天十二下 今天十五下\n我說老人家 手臂在跳舞\n\n[Pre-Chorus]\n今早我感冒 遲到了五分鐘\n路口那邊 怎麼這麼靜\n\n[Chorus]\n來來來 過馬路 一二三\n黃旗搖搖 自己走\n小女孩舉著我的旗\n公車停下來 乖乖等\n\n[Bridge - guitar and bass only, drums drop out]\n我站在遠遠的巷口\n手裡拿著藥 眼睛濕濕\n\n[Chorus]\n來來來 過馬路 一二三\n黃旗搖搖 一起走\n老陳也排進隊伍\n小腳小腳 帶我過\n\n[Outro - boogie riff, stomps and handclaps fade]\n明天七點二十 我準時\n"
+  },
+  "seed": "2075695958",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.80s**\n- 56.80s per song\n- LM phase (1 song): 12.41s\n- DiT phase (1 song): 44.39s",
+  "task_id": "53b51cdb-6ebe-4247-bdf0-eedbb93c87fa",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-13T15:13:27.830029+08:00",
+  "audio": "b21_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Intro - boogie guitar riff, stomping drums, handclaps]"
+    },
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.44,
+      "end": 26.84,
+      "text": "七點二十分 路口黃旗揮"
+    },
+    {
+      "t": 27.16,
+      "end": 30.06,
+      "text": "我是老陳 退休三年了"
+    },
+    {
+      "t": 31.88,
+      "end": 35.82,
+      "text": "小學生一隊 過馬路排排走"
+    },
+    {
+      "t": 35.86,
+      "end": 38.96,
+      "text": "我的旗子 比老師還大"
+    },
+    {
+      "t": 39.62,
+      "end": 39.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.62,
+      "end": 42.44,
+      "text": "左邊來車 停一停"
+    },
+    {
+      "t": 43.28,
+      "end": 45.54,
+      "text": "右邊機車 慢一慢"
+    },
+    {
+      "t": 45.64,
+      "end": 45.64,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.64,
+      "end": 47.55,
+      "text": "來來來 過馬路 一二三"
+    },
+    {
+      "t": 47.63,
+      "end": 50.43,
+      "text": "黃旗搖搖 跟我走"
+    },
+    {
+      "t": 51.35,
+      "end": 54.59,
+      "text": "紅燈變綠 我不趕你們"
+    },
+    {
+      "t": 54.81,
+      "end": 58.25,
+      "text": "小腳小腳 踩斑馬"
+    },
+    {
+      "t": 62.83,
+      "end": 62.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.83,
+      "end": 66.71,
+      "text": "有個小女孩 每天數我揮幾下"
+    },
+    {
+      "t": 66.85,
+      "end": 70.19,
+      "text": "她說昨天十二下 今天十五下"
+    },
+    {
+      "t": 70.81,
+      "end": 74.11,
+      "text": "我說老人家 手臂在跳舞"
+    },
+    {
+      "t": 77.63,
+      "end": 77.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.63,
+      "end": 79.03,
+      "text": "今早我感冒 遲到了五分鐘"
+    },
+    {
+      "t": 79.03,
+      "end": 80.23,
+      "text": "路口那邊 怎麼這麼靜"
+    },
+    {
+      "t": 80.31,
+      "end": 80.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 80.31,
+      "end": 81.73,
+      "text": "來來來 過馬路 一二三"
+    },
+    {
+      "t": 81.73,
+      "end": 84.67,
+      "text": "黃旗搖搖 自己走"
+    },
+    {
+      "t": 85.63,
+      "end": 88.53,
+      "text": "小女孩舉著我的旗"
+    },
+    {
+      "t": 89.65,
+      "end": 93.67,
+      "text": "公車停下來 乖乖等"
+    },
+    {
+      "t": 93.71,
+      "end": 93.71,
+      "text": "[Bridge - guitar and bass only, drums drop out]"
+    },
+    {
+      "t": 93.71,
+      "end": 98.61,
+      "text": "我站在遠遠的巷口"
+    },
+    {
+      "t": 98.81,
+      "end": 102.45,
+      "text": "手裡拿著藥 眼睛濕濕"
+    },
+    {
+      "t": 103.83,
+      "end": 103.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.83,
+      "end": 106.89,
+      "text": "來來來 過馬路 一二三"
+    },
+    {
+      "t": 107.09,
+      "end": 112.81,
+      "text": "黃旗搖搖 一起走"
+    },
+    {
+      "t": 112.87,
+      "end": 136.69,
+      "text": "老陳也排進隊伍"
+    },
+    {
+      "t": 137.35,
+      "end": 148.94,
+      "text": "小腳小腳 帶我過"
+    },
+    {
+      "t": 173.96,
+      "end": 173.96,
+      "text": "[Outro - boogie riff, stomps and handclaps fade]"
+    },
+    {
+      "t": 173.96,
+      "end": 177.04,
+      "text": "明天七點二十 我準時"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Intro - boogie guitar riff, stomping drums, handclaps]"
+    },
+    {
+      "t": 24.44,
+      "end": 24.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.44,
+      "end": 26.86,
+      "text": "七點二十分 路口黃旗揮"
+    },
+    {
+      "t": 27.16,
+      "end": 30.06,
+      "text": "我是老陳 退休三年了"
+    },
+    {
+      "t": 31.88,
+      "end": 35.82,
+      "text": "小學生一隊 過馬路排排走"
+    },
+    {
+      "t": 35.88,
+      "end": 38.96,
+      "text": "我的旗子 比老師還大"
+    },
+    {
+      "t": 39.62,
+      "end": 39.62,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.62,
+      "end": 42.44,
+      "text": "左邊來車 停一停"
+    },
+    {
+      "t": 43.3,
+      "end": 45.54,
+      "text": "右邊機車 慢一慢"
+    },
+    {
+      "t": 45.62,
+      "end": 45.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.62,
+      "end": 47.55,
+      "text": "來來來 過馬路 一二三"
+    },
+    {
+      "t": 47.65,
+      "end": 50.41,
+      "text": "黃旗搖搖 跟我走"
+    },
+    {
+      "t": 51.33,
+      "end": 54.61,
+      "text": "紅燈變綠 我不趕你們"
+    },
+    {
+      "t": 54.81,
+      "end": 58.27,
+      "text": "小腳小腳 踩斑馬"
+    },
+    {
+      "t": 62.87,
+      "end": 62.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.87,
+      "end": 66.71,
+      "text": "有個小女孩 每天數我揮幾下"
+    },
+    {
+      "t": 66.85,
+      "end": 70.19,
+      "text": "她說昨天十二下 今天十五下"
+    },
+    {
+      "t": 70.79,
+      "end": 74.09,
+      "text": "我說老人家 手臂在跳舞"
+    },
+    {
+      "t": 77.63,
+      "end": 77.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.63,
+      "end": 78.89,
+      "text": "今早我感冒 遲到了五分鐘"
+    },
+    {
+      "t": 78.89,
+      "end": 80.75,
+      "text": "路口那邊 怎麼這麼靜"
+    },
+    {
+      "t": 81.63,
+      "end": 81.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.63,
+      "end": 82.01,
+      "text": "來來來 過馬路 一二三"
+    },
+    {
+      "t": 82.01,
+      "end": 84.67,
+      "text": "黃旗搖搖 自己走"
+    },
+    {
+      "t": 85.63,
+      "end": 88.55,
+      "text": "小女孩舉著我的旗"
+    },
+    {
+      "t": 89.65,
+      "end": 93.67,
+      "text": "公車停下來 乖乖等"
+    },
+    {
+      "t": 93.69,
+      "end": 93.69,
+      "text": "[Bridge - guitar and bass only, drums drop out]"
+    },
+    {
+      "t": 93.69,
+      "end": 98.61,
+      "text": "我站在遠遠的巷口"
+    },
+    {
+      "t": 98.81,
+      "end": 102.45,
+      "text": "手裡拿著藥 眼睛濕濕"
+    },
+    {
+      "t": 105.25,
+      "end": 105.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.25,
+      "end": 106.89,
+      "text": "來來來 過馬路 一二三"
+    },
+    {
+      "t": 107.07,
+      "end": 112.79,
+      "text": "黃旗搖搖 一起走"
+    },
+    {
+      "t": 112.87,
+      "end": 145.44,
+      "text": "老陳也排進隊伍"
+    },
+    {
+      "t": 145.82,
+      "end": 156.94,
+      "text": "小腳小腳 帶我過"
+    },
+    {
+      "t": 173.96,
+      "end": 173.96,
+      "text": "[Outro - boogie riff, stomps and handclaps fade]"
+    },
+    {
+      "t": 173.96,
+      "end": 177.04,
+      "text": "明天七點二十 我準時"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

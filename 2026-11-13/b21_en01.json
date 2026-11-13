@@ -1,0 +1,397 @@
+{
+  "id": "b21_en01",
+  "title": "Table Four, Table Six",
+  "title_source": "scripted",
+  "genre": "Merseybeat",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cheeky, bright, jangly",
+  "persona": "",
+  "subject": "On a blind date set up by his sister, Colin sits at table four and Jan at table six of a Liverpool tea room, each secretly brought a best friend to spy from the next table, and it is the two spies who start talking.",
+  "caption": "Merseybeat, early-1960s British beat group sound. Chiming twelve-string Rickenbacker jangle on open chords, driving melodic bass guitar, crisp snare-and-tom backbeat with ride cymbal, handclaps on the choruses, bright electric rhythm guitar. Dry 1963 tape sound with slight saturation, punchy mono-leaning mix. Male lead tenor with a second male voice in close two-part harmony, cheeky and bright delivery. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, A major. Cheeky, bright, jangly. No rap, no autotune, no synthesizers, no electronic drums, no distorted modern guitars, no vocal effects.",
+  "lyrics": "[Intro - twelve-string jangle, bass, snare count-in]\n\n[Verse 1]\nOur Sue said wear the blue cravat\nSit at table four, don't fuss\nShe's at table six, you'll see\nReading menus upside down\n\n[Pre-Chorus]\nI brought my mate, she brought hers too\nEach behind a pot of tea\n\n[Chorus]\nOh, the spies are talking, spies are talking\nWhile the two of us just stare\nOh, the spies are talking, spies are talking\nOver scones at table five\n\n[Verse 2]\nDave is passing her friend the jam\nPat is laughing at his jokes\nWe're both pretending not to look\nTwo cold cups and nothing said\n\n[Pre-Chorus]\nHe brought a mate, she brought one too\nNow the mates are leaving us\n\n[Chorus]\nOh, the spies are laughing, spies are laughing\nAnd we sit here with the bill\nOh, the spies are walking, spies are walking\nOut the door, arm in arm\n\n[Bridge - drums and clap only]\nShall we push the tables together\n\n[Chorus]\nOh, the spies are married, spies are married\nBy the summer, so they say\nOh, we're still talking, still talking\nOver scones at table five\n\n[Outro - jangle and bass, ring-out ending]\nTable four, table six",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Merseybeat, early-1960s British beat group sound. Chiming twelve-string Rickenbacker jangle on open chords, driving melodic bass guitar, crisp snare-and-tom backbeat with ride cymbal, handclaps on the choruses, bright electric rhythm guitar. Dry 1963 tape sound with slight saturation, punchy mono-leaning mix. Male lead tenor with a second male voice in close two-part harmony, cheeky and bright delivery. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, A major. Cheeky, bright, jangly. No rap, no autotune, no synthesizers, no electronic drums, no distorted modern guitars, no vocal effects.",
+    "lyrics": "[Intro - twelve-string jangle, bass, snare count-in]\n\n[Verse 1]\nOur Sue said wear the blue cravat\nSit at table four, don't fuss\nShe's at table six, you'll see\nReading menus upside down\n\n[Pre-Chorus]\nI brought my mate, she brought hers too\nEach behind a pot of tea\n\n[Chorus]\nOh, the spies are talking, spies are talking\nWhile the two of us just stare\nOh, the spies are talking, spies are talking\nOver scones at table five\n\n[Verse 2]\nDave is passing her friend the jam\nPat is laughing at his jokes\nWe're both pretending not to look\nTwo cold cups and nothing said\n\n[Pre-Chorus]\nHe brought a mate, she brought one too\nNow the mates are leaving us\n\n[Chorus]\nOh, the spies are laughing, spies are laughing\nAnd we sit here with the bill\nOh, the spies are walking, spies are walking\nOut the door, arm in arm\n\n[Bridge - drums and clap only]\nShall we push the tables together\n\n[Chorus]\nOh, the spies are married, spies are married\nBy the summer, so they say\nOh, we're still talking, still talking\nOver scones at table five\n\n[Outro - jangle and bass, ring-out ending]\nTable four, table six"
+  },
+  "seed": "1748542092",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.56s**\n- 58.56s per song\n- LM phase (1 song): 15.96s\n- DiT phase (1 song): 42.60s",
+  "task_id": "8130f4f2-5a92-4f8b-98c8-821eefa95d21",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-13T15:02:36.234220+08:00",
+  "audio": "b21_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Intro - twelve-string jangle, bass, snare count-in]"
+    },
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.92,
+      "end": 19.98,
+      "text": "Our Sue said wear the blue cravat"
+    },
+    {
+      "t": 23.14,
+      "end": 24.72,
+      "text": "Sit at table four, don't fuss"
+    },
+    {
+      "t": 24.74,
+      "end": 26.8,
+      "text": "She's at table six, you'll see"
+    },
+    {
+      "t": 26.8,
+      "end": 28.52,
+      "text": "Reading menus upside down"
+    },
+    {
+      "t": 28.76,
+      "end": 28.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 28.76,
+      "end": 37.14,
+      "text": "I brought my mate, she brought hers too"
+    },
+    {
+      "t": 36.84,
+      "end": 39.26,
+      "text": "Each behind a pot of tea"
+    },
+    {
+      "t": 40.4,
+      "end": 40.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.4,
+      "end": 47.71,
+      "text": "Oh, the spies are talking, spies are talking"
+    },
+    {
+      "t": 47.71,
+      "end": 51.19,
+      "text": "While the two of us just stare"
+    },
+    {
+      "t": 51.25,
+      "end": 54.03,
+      "text": "Oh, the spies are talking, spies are talking"
+    },
+    {
+      "t": 54.85,
+      "end": 57.43,
+      "text": "Over scones at table five"
+    },
+    {
+      "t": 62.11,
+      "end": 62.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.11,
+      "end": 64.63,
+      "text": "Dave is passing her friend the jam"
+    },
+    {
+      "t": 65.77,
+      "end": 68.37,
+      "text": "Pat is laughing at his jokes"
+    },
+    {
+      "t": 69.67,
+      "end": 71.71,
+      "text": "We're both pretending not to look"
+    },
+    {
+      "t": 74.39,
+      "end": 83.13,
+      "text": "Two cold cups and nothing said"
+    },
+    {
+      "t": 83.13,
+      "end": 83.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 83.13,
+      "end": 85.87,
+      "text": "He brought a mate, she brought one too"
+    },
+    {
+      "t": 88.77,
+      "end": 92.47,
+      "text": "Now the mates are leaving us"
+    },
+    {
+      "t": 92.47,
+      "end": 92.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.47,
+      "end": 95.55,
+      "text": "Oh, the spies are laughing, spies are laughing"
+    },
+    {
+      "t": 95.55,
+      "end": 96.41,
+      "text": "And we sit here with the bill"
+    },
+    {
+      "t": 96.41,
+      "end": 100.91,
+      "text": "Oh, the spies are walking, spies are walking"
+    },
+    {
+      "t": 103.21,
+      "end": 108.03,
+      "text": "Out the door, arm in arm"
+    },
+    {
+      "t": 113.63,
+      "end": 113.63,
+      "text": "[Bridge - drums and clap only]"
+    },
+    {
+      "t": 113.63,
+      "end": 116.73,
+      "text": "Shall we push the tables together"
+    },
+    {
+      "t": 117.33,
+      "end": 117.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.33,
+      "end": 121.23,
+      "text": "Oh, the spies are married, spies are married"
+    },
+    {
+      "t": 121.23,
+      "end": 128.05,
+      "text": "By the summer, so they say"
+    },
+    {
+      "t": 128.15,
+      "end": 134.28,
+      "text": "Oh, we're still talking, still talking"
+    },
+    {
+      "t": 134.98,
+      "end": 149.06,
+      "text": "Over scones at table five"
+    },
+    {
+      "t": 156.16,
+      "end": 156.16,
+      "text": "[Outro - jangle and bass, ring-out ending]"
+    },
+    {
+      "t": 156.16,
+      "end": 173.04,
+      "text": "Table four, table six"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Intro - twelve-string jangle, bass, snare count-in]"
+    },
+    {
+      "t": 15.92,
+      "end": 15.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.92,
+      "end": 19.98,
+      "text": "Our Sue said wear the blue cravat"
+    },
+    {
+      "t": 23.14,
+      "end": 24.72,
+      "text": "Sit at table four, don't fuss"
+    },
+    {
+      "t": 24.74,
+      "end": 26.8,
+      "text": "She's at table six, you'll see"
+    },
+    {
+      "t": 26.8,
+      "end": 28.52,
+      "text": "Reading menus upside down"
+    },
+    {
+      "t": 28.76,
+      "end": 28.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 28.76,
+      "end": 37.14,
+      "text": "I brought my mate, she brought hers too"
+    },
+    {
+      "t": 37.14,
+      "end": 39.28,
+      "text": "Each behind a pot of tea"
+    },
+    {
+      "t": 40.38,
+      "end": 40.38,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.38,
+      "end": 47.83,
+      "text": "Oh, the spies are talking, spies are talking"
+    },
+    {
+      "t": 47.83,
+      "end": 49.95,
+      "text": "While the two of us just stare"
+    },
+    {
+      "t": 51.25,
+      "end": 54.03,
+      "text": "Oh, the spies are talking, spies are talking"
+    },
+    {
+      "t": 54.83,
+      "end": 57.41,
+      "text": "Over scones at table five"
+    },
+    {
+      "t": 62.11,
+      "end": 62.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.11,
+      "end": 64.63,
+      "text": "Dave is passing her friend the jam"
+    },
+    {
+      "t": 65.77,
+      "end": 68.37,
+      "text": "Pat is laughing at his jokes"
+    },
+    {
+      "t": 69.67,
+      "end": 71.71,
+      "text": "We're both pretending not to look"
+    },
+    {
+      "t": 74.39,
+      "end": 79.07,
+      "text": "Two cold cups and nothing said"
+    },
+    {
+      "t": 83.13,
+      "end": 83.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 83.13,
+      "end": 85.85,
+      "text": "He brought a mate, she brought one too"
+    },
+    {
+      "t": 85.85,
+      "end": 92.05,
+      "text": "Now the mates are leaving us"
+    },
+    {
+      "t": 92.05,
+      "end": 92.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.05,
+      "end": 95.55,
+      "text": "Oh, the spies are laughing, spies are laughing"
+    },
+    {
+      "t": 95.55,
+      "end": 96.41,
+      "text": "And we sit here with the bill"
+    },
+    {
+      "t": 96.41,
+      "end": 100.93,
+      "text": "Oh, the spies are walking, spies are walking"
+    },
+    {
+      "t": 103.21,
+      "end": 107.89,
+      "text": "Out the door, arm in arm"
+    },
+    {
+      "t": 113.63,
+      "end": 113.63,
+      "text": "[Bridge - drums and clap only]"
+    },
+    {
+      "t": 113.63,
+      "end": 116.81,
+      "text": "Shall we push the tables together"
+    },
+    {
+      "t": 118.23,
+      "end": 118.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.23,
+      "end": 121.23,
+      "text": "Oh, the spies are married, spies are married"
+    },
+    {
+      "t": 121.23,
+      "end": 124.35,
+      "text": "By the summer, so they say"
+    },
+    {
+      "t": 128.09,
+      "end": 134.28,
+      "text": "Oh, we're still talking, still talking"
+    },
+    {
+      "t": 134.98,
+      "end": 149.04,
+      "text": "Over scones at table five"
+    },
+    {
+      "t": 156.16,
+      "end": 156.16,
+      "text": "[Outro - jangle and bass, ring-out ending]"
+    },
+    {
+      "t": 156.16,
+      "end": 173.04,
+      "text": "Table four, table six"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

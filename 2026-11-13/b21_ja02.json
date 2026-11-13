@@ -1,0 +1,549 @@
+{
+  "id": "b21_ja02",
+  "title": "手首の買い物メモ",
+  "title_source": "scripted",
+  "genre": "Japanese yé-yé revival pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "light, flirty, upbeat love song",
+  "persona": "",
+  "subject": "a husband in a tattoo studio on their tenth anniversary having his wife's fridge shopping note, ending with 'love you' in her handwriting, inked on his wrist while the tattooist says people usually pick a name",
+  "caption": "1960s yé-yé revival pop, French-girl-group shuffle feel. Jangling clean electric guitar with slapback echo, Farfisa-style combo organ riff, tambourine on every beat, round electric bass, light drum kit with crisp snare, group handclaps. Dry warm studio sound, mono-leaning mix. Female alto-soprano, bright and playful, clearly sung with doubled group answers on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, G major. Mood: light, flirty and upbeat. No rap, no autotune, no synth bass, no trap drums, no heavy distortion, no EDM build-up.",
+  "lyrics": "[Intro - jangling guitar and combo organ]\n\n[Verse 1]\n十年目の記念日 彼は店へ\n針の音がする 小さな部屋\n「名前にしますか?」 彫り師が聞く\n彼は財布から 紙きれを出す\n\n[Pre-Chorus]\n冷蔵庫に貼ってあった あのメモ\n牛乳 たまご それから\n\n[Chorus]\n牛乳 たまご あと 愛してる\n彼女の字のまま 手首にある\n牛乳 たまご あと 愛してる\n買い忘れても これは忘れない\n\n[Verse 2]\n彫り師は笑って 線をなぞる\n「はね方まで 同じにします」\nちょっと痛いよ と彼は言う\nそれでも手首を 引っこめない\n\n[Chorus]\n牛乳 たまご あと 愛してる\nわたしの字だね と彼女が笑う\n牛乳 たまご あと 愛してる\n今夜は買い物 二人で行こう\n\n[Bridge - organ and handclaps]\nネギを買い忘れた 十年前の\nあの日のメモが 始まりだった\n\n[Chorus]\n牛乳 たまご あと 愛してる\n彼女もペンを 持って来て\n牛乳 たまご あと 愛してる\n次は君の番 腕を出して\n\n[Outro - guitar and tambourine]\nあと 愛してる",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "1960s yé-yé revival pop, French-girl-group shuffle feel. Jangling clean electric guitar with slapback echo, Farfisa-style combo organ riff, tambourine on every beat, round electric bass, light drum kit with crisp snare, group handclaps. Dry warm studio sound, mono-leaning mix. Female alto-soprano, bright and playful, clearly sung with doubled group answers on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, G major. Mood: light, flirty and upbeat. No rap, no autotune, no synth bass, no trap drums, no heavy distortion, no EDM build-up.",
+    "lyrics": "[Intro - jangling guitar and combo organ]\n\n[Verse 1]\n十年目の記念日 彼は店へ\n針の音がする 小さな部屋\n「名前にしますか?」 彫り師が聞く\n彼は財布から 紙きれを出す\n\n[Pre-Chorus]\n冷蔵庫に貼ってあった あのメモ\n牛乳 たまご それから\n\n[Chorus]\n牛乳 たまご あと 愛してる\n彼女の字のまま 手首にある\n牛乳 たまご あと 愛してる\n買い忘れても これは忘れない\n\n[Verse 2]\n彫り師は笑って 線をなぞる\n「はね方まで 同じにします」\nちょっと痛いよ と彼は言う\nそれでも手首を 引っこめない\n\n[Chorus]\n牛乳 たまご あと 愛してる\nわたしの字だね と彼女が笑う\n牛乳 たまご あと 愛してる\n今夜は買い物 二人で行こう\n\n[Bridge - organ and handclaps]\nネギを買い忘れた 十年前の\nあの日のメモが 始まりだった\n\n[Chorus]\n牛乳 たまご あと 愛してる\n彼女もペンを 持って来て\n牛乳 たまご あと 愛してる\n次は君の番 腕を出して\n\n[Outro - guitar and tambourine]\nあと 愛してる"
+  },
+  "seed": "348009370",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.61s**\n- 60.61s per song\n- LM phase (1 song): 15.76s\n- DiT phase (1 song): 44.85s",
+  "task_id": "4415eaaa-893b-41d4-882d-11822c0dd92d",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-13T15:19:08.260136+08:00",
+  "audio": "b21_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 14.78,
+      "end": 14.78,
+      "text": "[Intro - jangling guitar and combo organ]"
+    },
+    {
+      "t": 14.78,
+      "end": 14.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 14.78,
+      "end": 17.52,
+      "text": "十年目の記念日 彼は店へ"
+    },
+    {
+      "t": 17.64,
+      "end": 21.92,
+      "text": "針の音がする 小さな部屋"
+    },
+    {
+      "t": 22.0,
+      "end": 25.2,
+      "text": "「名前にしますか?」 彫り師が聞く"
+    },
+    {
+      "t": 25.28,
+      "end": 28.94,
+      "text": "彼は財布から 紙きれを出す"
+    },
+    {
+      "t": 29.32,
+      "end": 29.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 29.32,
+      "end": 32.64,
+      "text": "冷蔵庫に貼ってあった あのメモ"
+    },
+    {
+      "t": 32.64,
+      "end": 39.74,
+      "text": "牛乳 たまご それから"
+    },
+    {
+      "t": 42.4,
+      "end": 42.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.4,
+      "end": 45.41,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 45.89,
+      "end": 52.39,
+      "text": "彼女の字のまま 手首にある"
+    },
+    {
+      "t": 52.39,
+      "end": 58.05,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 59.21,
+      "end": 64.73,
+      "text": "買い忘れても これは忘れない"
+    },
+    {
+      "t": 66.71,
+      "end": 66.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.71,
+      "end": 71.47,
+      "text": "彫り師は笑って 線をなぞる"
+    },
+    {
+      "t": 73.25,
+      "end": 77.53,
+      "text": "「はね方まで 同じにします」"
+    },
+    {
+      "t": 80.03,
+      "end": 84.11,
+      "text": "ちょっと痛いよ と彼は言う"
+    },
+    {
+      "t": 87.07,
+      "end": 89.29,
+      "text": "それでも手首を 引っこめない"
+    },
+    {
+      "t": 89.31,
+      "end": 89.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.31,
+      "end": 90.77,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 90.81,
+      "end": 93.71,
+      "text": "わたしの字だね と彼女が笑う"
+    },
+    {
+      "t": 93.91,
+      "end": 98.65,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 100.69,
+      "end": 106.03,
+      "text": "今夜は買い物 二人で行こう"
+    },
+    {
+      "t": 115.95,
+      "end": 115.95,
+      "text": "[Bridge - organ and handclaps]"
+    },
+    {
+      "t": 115.95,
+      "end": 120.55,
+      "text": "ネギを買い忘れた 十年前の"
+    },
+    {
+      "t": 122.65,
+      "end": 127.37,
+      "text": "あの日のメモが 始まりだった"
+    },
+    {
+      "t": 127.37,
+      "end": 127.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.37,
+      "end": 133.68,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 133.68,
+      "end": 136.82,
+      "text": "彼女もペンを 持って来て"
+    },
+    {
+      "t": 137.18,
+      "end": 143.64,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 143.74,
+      "end": 147.9,
+      "text": "次は君の番 腕を出して"
+    },
+    {
+      "t": 147.96,
+      "end": 147.96,
+      "text": "[Outro - guitar and tambourine]"
+    },
+    {
+      "t": 147.96,
+      "end": 149.92,
+      "text": "あと 愛してる"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 14.78,
+      "end": 14.78,
+      "text": "[Intro - jangling guitar and combo organ]"
+    },
+    {
+      "t": 14.78,
+      "end": 14.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 14.78,
+      "end": 17.52,
+      "text": "十年目の記念日 彼は店へ"
+    },
+    {
+      "t": 17.64,
+      "end": 21.92,
+      "text": "針の音がする 小さな部屋"
+    },
+    {
+      "t": 22.0,
+      "end": 25.2,
+      "text": "「名前にしますか?」 彫り師が聞く"
+    },
+    {
+      "t": 25.28,
+      "end": 28.94,
+      "text": "彼は財布から 紙きれを出す"
+    },
+    {
+      "t": 29.32,
+      "end": 29.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 29.32,
+      "end": 32.64,
+      "text": "冷蔵庫に貼ってあった あのメモ"
+    },
+    {
+      "t": 32.64,
+      "end": 39.74,
+      "text": "牛乳 たまご それから"
+    },
+    {
+      "t": 42.4,
+      "end": 42.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.4,
+      "end": 45.41,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 45.89,
+      "end": 52.39,
+      "text": "彼女の字のまま 手首にある"
+    },
+    {
+      "t": 52.39,
+      "end": 58.05,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 59.21,
+      "end": 64.73,
+      "text": "買い忘れても これは忘れない"
+    },
+    {
+      "t": 66.71,
+      "end": 66.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.71,
+      "end": 71.47,
+      "text": "彫り師は笑って 線をなぞる"
+    },
+    {
+      "t": 73.25,
+      "end": 77.53,
+      "text": "「はね方まで 同じにします」"
+    },
+    {
+      "t": 80.03,
+      "end": 84.11,
+      "text": "ちょっと痛いよ と彼は言う"
+    },
+    {
+      "t": 87.07,
+      "end": 89.29,
+      "text": "それでも手首を 引っこめない"
+    },
+    {
+      "t": 89.31,
+      "end": 89.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.31,
+      "end": 90.77,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 90.81,
+      "end": 93.71,
+      "text": "わたしの字だね と彼女が笑う"
+    },
+    {
+      "t": 93.91,
+      "end": 98.65,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 100.69,
+      "end": 106.03,
+      "text": "今夜は買い物 二人で行こう"
+    },
+    {
+      "t": 115.95,
+      "end": 115.95,
+      "text": "[Bridge - organ and handclaps]"
+    },
+    {
+      "t": 115.95,
+      "end": 120.55,
+      "text": "ネギを買い忘れた 十年前の"
+    },
+    {
+      "t": 122.65,
+      "end": 127.37,
+      "text": "あの日のメモが 始まりだった"
+    },
+    {
+      "t": 127.37,
+      "end": 127.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.37,
+      "end": 133.68,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 133.68,
+      "end": 136.82,
+      "text": "彼女もペンを 持って来て"
+    },
+    {
+      "t": 137.18,
+      "end": 143.64,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 143.74,
+      "end": 147.9,
+      "text": "次は君の番 腕を出して"
+    },
+    {
+      "t": 147.96,
+      "end": 147.96,
+      "text": "[Outro - guitar and tambourine]"
+    },
+    {
+      "t": 147.96,
+      "end": 149.92,
+      "text": "あと 愛してる"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 14.5,
+      "end": 14.5,
+      "text": "[Intro - jangling guitar and combo organ]"
+    },
+    {
+      "t": 14.5,
+      "end": 14.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 14.5,
+      "end": 17.28,
+      "text": "十年目の記念日 彼は店へ"
+    },
+    {
+      "t": 17.42,
+      "end": 19.32,
+      "text": "針の音がする 小さな部屋"
+    },
+    {
+      "t": 19.32,
+      "end": 24.76,
+      "text": "「名前にしますか?」 彫り師が聞く"
+    },
+    {
+      "t": 24.88,
+      "end": 28.96,
+      "text": "彼は財布から 紙きれを出す"
+    },
+    {
+      "t": 29.32,
+      "end": 29.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 29.32,
+      "end": 36.2,
+      "text": "冷蔵庫に貼ってあった あのメモ"
+    },
+    {
+      "t": 36.34,
+      "end": 39.74,
+      "text": "牛乳 たまご それから"
+    },
+    {
+      "t": 40.34,
+      "end": 40.34,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.34,
+      "end": 45.39,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 45.89,
+      "end": 52.37,
+      "text": "彼女の字のまま 手首にある"
+    },
+    {
+      "t": 53.31,
+      "end": 58.03,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 59.23,
+      "end": 64.63,
+      "text": "買い忘れても これは忘れない"
+    },
+    {
+      "t": 64.63,
+      "end": 64.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 64.63,
+      "end": 71.45,
+      "text": "彫り師は笑って 線をなぞる"
+    },
+    {
+      "t": 73.27,
+      "end": 77.53,
+      "text": "「はね方まで 同じにします」"
+    },
+    {
+      "t": 80.03,
+      "end": 84.11,
+      "text": "ちょっと痛いよ と彼は言う"
+    },
+    {
+      "t": 87.05,
+      "end": 91.49,
+      "text": "それでも手首を 引っこめない"
+    },
+    {
+      "t": 91.51,
+      "end": 91.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.51,
+      "end": 92.29,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 92.29,
+      "end": 93.71,
+      "text": "わたしの字だね と彼女が笑う"
+    },
+    {
+      "t": 93.91,
+      "end": 98.63,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 100.69,
+      "end": 113.63,
+      "text": "今夜は買い物 二人で行こう"
+    },
+    {
+      "t": 115.95,
+      "end": 115.95,
+      "text": "[Bridge - organ and handclaps]"
+    },
+    {
+      "t": 115.95,
+      "end": 120.55,
+      "text": "ネギを買い忘れた 十年前の"
+    },
+    {
+      "t": 122.65,
+      "end": 127.37,
+      "text": "あの日のメモが 始まりだった"
+    },
+    {
+      "t": 127.37,
+      "end": 127.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.37,
+      "end": 134.9,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 135.24,
+      "end": 137.02,
+      "text": "彼女もペンを 持って来て"
+    },
+    {
+      "t": 137.18,
+      "end": 143.64,
+      "text": "牛乳 たまご あと 愛してる"
+    },
+    {
+      "t": 143.74,
+      "end": 148.4,
+      "text": "次は君の番 腕を出して"
+    },
+    {
+      "t": 148.4,
+      "end": 148.4,
+      "text": "[Outro - guitar and tambourine]"
+    },
+    {
+      "t": 148.4,
+      "end": 149.48,
+      "text": "あと 愛してる"
+    }
+  ]
+}

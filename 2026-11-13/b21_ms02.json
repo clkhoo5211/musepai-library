@@ -1,0 +1,397 @@
+{
+  "id": "b21_ms02",
+  "title": "Tangan Kiri Bawah Meja",
+  "title_source": "scripted",
+  "genre": "Malay calypso (Caribbean steel-pan calypso with Malay comic storytelling)",
+  "language": "ms",
+  "language_name": "Malay (Malaysia)",
+  "mood": "playful, cheeky, warm",
+  "persona": "",
+  "subject": "a left-handed man at his girlfriend's mother's first Sunday lunch, forcing himself to eat nasi with his right hand while his left hides under the table, until the mother hands him the sambal with her own left hand and winks",
+  "caption": "Malay calypso, Trinidadian steel-pan calypso two-feel with a lilting off-beat swing. Steel pan carrying the melody and hook, nylon-string acoustic guitar strumming on the off-beat, upright bass in a walking root-fifth pattern, congas and shaker, flute answering the vocal. Dry sunny live-band sound. Male tenor, bright mid register, cheeky storytelling sung delivery. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, G major. Playful, cheeky mood. No electric guitar, no synth pads, no trap hi-hats, no autotune, no reggae dub effects.",
+  "lyrics": "[Intro - steel pan, congas]\n[Verse 1]\nHari Ahad aku datang rumah mak dia\nKemeja bergosok, buah tangan sebakul\nAku kidal dari kecil, makan guna kanan\nNasi jatuh atas riba, kuah menitik seluar\n[Pre-Chorus]\nMak dia pandang, aku telan air liur\nAyam goreng bergoyang di hujung jari\n[Chorus]\nTangan kiri bawah meja\nRahsia aku seorang\nTangan kanan kuis nasi\nMakcik, jangan tengok, jangan tengok\n[Verse 2]\nSambal belacan jauh di depan mak dia\nAku nak minta, tapi tangan mana satu\nTiba-tiba mangkuk datang, laju dari kiri\nMak dia hulur guna tangan kiri!\n[Pre-Chorus]\nDia kenyit mata, aku hampir tersedak\nDia bisik, \"Cikgu dulu ikat tangan aku\"\n[Chorus]\nDua tangan kiri bawah meja\nRahsia kami berdua\nTangan kanan kuis nasi\nMakcik, hulur sambal lagi, hulur sambal\n[Bridge - steel pan, flute]\nAdik dia ketawa, ayah dia tak faham\nKami berdua makan sambil senyum\n[Chorus]\nTangan kiri atas meja\nRahsia dah terbuka\nTangan kiri makan sendiri\nMakcik, tambah nasi, tambah nasi\n[Outro - steel pan]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Malay calypso, Trinidadian steel-pan calypso two-feel with a lilting off-beat swing. Steel pan carrying the melody and hook, nylon-string acoustic guitar strumming on the off-beat, upright bass in a walking root-fifth pattern, congas and shaker, flute answering the vocal. Dry sunny live-band sound. Male tenor, bright mid register, cheeky storytelling sung delivery. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, G major. Playful, cheeky mood. No electric guitar, no synth pads, no trap hi-hats, no autotune, no reggae dub effects.",
+    "lyrics": "[Intro - steel pan, congas]\n[Verse 1]\nHari Ahad aku datang rumah mak dia\nKemeja bergosok, buah tangan sebakul\nAku kidal dari kecil, makan guna kanan\nNasi jatuh atas riba, kuah menitik seluar\n[Pre-Chorus]\nMak dia pandang, aku telan air liur\nAyam goreng bergoyang di hujung jari\n[Chorus]\nTangan kiri bawah meja\nRahsia aku seorang\nTangan kanan kuis nasi\nMakcik, jangan tengok, jangan tengok\n[Verse 2]\nSambal belacan jauh di depan mak dia\nAku nak minta, tapi tangan mana satu\nTiba-tiba mangkuk datang, laju dari kiri\nMak dia hulur guna tangan kiri!\n[Pre-Chorus]\nDia kenyit mata, aku hampir tersedak\nDia bisik, \"Cikgu dulu ikat tangan aku\"\n[Chorus]\nDua tangan kiri bawah meja\nRahsia kami berdua\nTangan kanan kuis nasi\nMakcik, hulur sambal lagi, hulur sambal\n[Bridge - steel pan, flute]\nAdik dia ketawa, ayah dia tak faham\nKami berdua makan sambil senyum\n[Chorus]\nTangan kiri atas meja\nRahsia dah terbuka\nTangan kiri makan sendiri\nMakcik, tambah nasi, tambah nasi\n[Outro - steel pan]"
+  },
+  "seed": "853658796",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.65s**\n- 61.65s per song\n- LM phase (1 song): 11.68s\n- DiT phase (1 song): 49.97s",
+  "task_id": "ff1cb7c9-cdb2-4639-9f70-c64293ffa2d7",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-13T14:32:33.472240+08:00",
+  "audio": "b21_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.68,
+      "end": 22.68,
+      "text": "[Intro - steel pan, congas]"
+    },
+    {
+      "t": 22.68,
+      "end": 22.68,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.68,
+      "end": 26.54,
+      "text": "Hari Ahad aku datang rumah mak dia"
+    },
+    {
+      "t": 27.28,
+      "end": 31.26,
+      "text": "Kemeja bergosok, buah tangan sebakul"
+    },
+    {
+      "t": 32.18,
+      "end": 36.4,
+      "text": "Aku kidal dari kecil, makan guna kanan"
+    },
+    {
+      "t": 36.68,
+      "end": 41.46,
+      "text": "Nasi jatuh atas riba, kuah menitik seluar"
+    },
+    {
+      "t": 41.84,
+      "end": 41.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.84,
+      "end": 45.92,
+      "text": "Mak dia pandang, aku telan air liur"
+    },
+    {
+      "t": 47.08,
+      "end": 51.13,
+      "text": "Ayam goreng bergoyang di hujung jari"
+    },
+    {
+      "t": 56.37,
+      "end": 56.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.37,
+      "end": 58.79,
+      "text": "Tangan kiri bawah meja"
+    },
+    {
+      "t": 61.25,
+      "end": 63.57,
+      "text": "Rahsia aku seorang"
+    },
+    {
+      "t": 65.57,
+      "end": 67.71,
+      "text": "Tangan kanan kuis nasi"
+    },
+    {
+      "t": 68.47,
+      "end": 72.43,
+      "text": "Makcik, jangan tengok, jangan tengok"
+    },
+    {
+      "t": 76.51,
+      "end": 76.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.51,
+      "end": 80.73,
+      "text": "Sambal belacan jauh di depan mak dia"
+    },
+    {
+      "t": 81.53,
+      "end": 85.03,
+      "text": "Aku nak minta, tapi tangan mana satu"
+    },
+    {
+      "t": 85.79,
+      "end": 89.97,
+      "text": "Tiba-tiba mangkuk datang, laju dari kiri"
+    },
+    {
+      "t": 90.41,
+      "end": 94.31,
+      "text": "Mak dia hulur guna tangan kiri!"
+    },
+    {
+      "t": 97.33,
+      "end": 97.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.33,
+      "end": 101.59,
+      "text": "Dia kenyit mata, aku hampir tersedak"
+    },
+    {
+      "t": 101.97,
+      "end": 104.95,
+      "text": "Dia bisik, \"Cikgu dulu ikat tangan aku\""
+    },
+    {
+      "t": 105.97,
+      "end": 105.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.97,
+      "end": 109.27,
+      "text": "Dua tangan kiri bawah meja"
+    },
+    {
+      "t": 111.17,
+      "end": 114.19,
+      "text": "Rahsia kami berdua"
+    },
+    {
+      "t": 115.49,
+      "end": 117.93,
+      "text": "Tangan kanan kuis nasi"
+    },
+    {
+      "t": 119.83,
+      "end": 126.87,
+      "text": "Makcik, hulur sambal lagi, hulur sambal"
+    },
+    {
+      "t": 126.89,
+      "end": 126.89,
+      "text": "[Bridge - steel pan, flute]"
+    },
+    {
+      "t": 126.89,
+      "end": 130.93,
+      "text": "Adik dia ketawa, ayah dia tak faham"
+    },
+    {
+      "t": 131.65,
+      "end": 143.06,
+      "text": "Kami berdua makan sambil senyum"
+    },
+    {
+      "t": 143.78,
+      "end": 143.78,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.78,
+      "end": 147.64,
+      "text": "Tangan kiri atas meja"
+    },
+    {
+      "t": 149.24,
+      "end": 152.28,
+      "text": "Rahsia dah terbuka"
+    },
+    {
+      "t": 153.0,
+      "end": 156.9,
+      "text": "Tangan kiri makan sendiri"
+    },
+    {
+      "t": 157.62,
+      "end": 177.94,
+      "text": "Makcik, tambah nasi, tambah nasi"
+    },
+    {
+      "t": 177.94,
+      "end": 177.94,
+      "text": "[Outro - steel pan]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.7,
+      "end": 22.7,
+      "text": "[Intro - steel pan, congas]"
+    },
+    {
+      "t": 22.7,
+      "end": 22.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.7,
+      "end": 26.52,
+      "text": "Hari Ahad aku datang rumah mak dia"
+    },
+    {
+      "t": 27.28,
+      "end": 31.3,
+      "text": "Kemeja bergosok, buah tangan sebakul"
+    },
+    {
+      "t": 32.28,
+      "end": 36.4,
+      "text": "Aku kidal dari kecil, makan guna kanan"
+    },
+    {
+      "t": 36.7,
+      "end": 41.34,
+      "text": "Nasi jatuh atas riba, kuah menitik seluar"
+    },
+    {
+      "t": 41.84,
+      "end": 41.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.84,
+      "end": 45.92,
+      "text": "Mak dia pandang, aku telan air liur"
+    },
+    {
+      "t": 47.08,
+      "end": 51.13,
+      "text": "Ayam goreng bergoyang di hujung jari"
+    },
+    {
+      "t": 56.37,
+      "end": 56.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.37,
+      "end": 58.79,
+      "text": "Tangan kiri bawah meja"
+    },
+    {
+      "t": 58.99,
+      "end": 63.59,
+      "text": "Rahsia aku seorang"
+    },
+    {
+      "t": 65.57,
+      "end": 67.71,
+      "text": "Tangan kanan kuis nasi"
+    },
+    {
+      "t": 68.45,
+      "end": 76.41,
+      "text": "Makcik, jangan tengok, jangan tengok"
+    },
+    {
+      "t": 76.53,
+      "end": 76.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.53,
+      "end": 80.75,
+      "text": "Sambal belacan jauh di depan mak dia"
+    },
+    {
+      "t": 81.53,
+      "end": 85.05,
+      "text": "Aku nak minta, tapi tangan mana satu"
+    },
+    {
+      "t": 85.79,
+      "end": 89.95,
+      "text": "Tiba-tiba mangkuk datang, laju dari kiri"
+    },
+    {
+      "t": 90.41,
+      "end": 94.31,
+      "text": "Mak dia hulur guna tangan kiri!"
+    },
+    {
+      "t": 97.33,
+      "end": 97.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.33,
+      "end": 101.59,
+      "text": "Dia kenyit mata, aku hampir tersedak"
+    },
+    {
+      "t": 101.97,
+      "end": 104.95,
+      "text": "Dia bisik, \"Cikgu dulu ikat tangan aku\""
+    },
+    {
+      "t": 105.97,
+      "end": 105.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.97,
+      "end": 109.27,
+      "text": "Dua tangan kiri bawah meja"
+    },
+    {
+      "t": 111.19,
+      "end": 114.19,
+      "text": "Rahsia kami berdua"
+    },
+    {
+      "t": 115.49,
+      "end": 117.93,
+      "text": "Tangan kanan kuis nasi"
+    },
+    {
+      "t": 119.81,
+      "end": 126.85,
+      "text": "Makcik, hulur sambal lagi, hulur sambal"
+    },
+    {
+      "t": 126.89,
+      "end": 126.89,
+      "text": "[Bridge - steel pan, flute]"
+    },
+    {
+      "t": 126.89,
+      "end": 130.93,
+      "text": "Adik dia ketawa, ayah dia tak faham"
+    },
+    {
+      "t": 131.65,
+      "end": 143.24,
+      "text": "Kami berdua makan sambil senyum"
+    },
+    {
+      "t": 143.76,
+      "end": 143.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.76,
+      "end": 147.64,
+      "text": "Tangan kiri atas meja"
+    },
+    {
+      "t": 149.24,
+      "end": 152.26,
+      "text": "Rahsia dah terbuka"
+    },
+    {
+      "t": 153.0,
+      "end": 156.92,
+      "text": "Tangan kiri makan sendiri"
+    },
+    {
+      "t": 157.64,
+      "end": 163.8,
+      "text": "Makcik, tambah nasi, tambah nasi"
+    },
+    {
+      "t": 163.8,
+      "end": 163.8,
+      "text": "[Outro - steel pan]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

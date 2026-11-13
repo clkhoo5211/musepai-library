@@ -1,0 +1,387 @@
+{
+  "id": "b21_ja05",
+  "title": "サインのれんしゅう",
+  "title_source": "scripted",
+  "genre": "Japanese zydeco",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bouncy, cheeky, danceable",
+  "persona": "",
+  "subject": "a stationery-shop clerk who has to swap the test-pad every week because one customer fills it with the same signature practised over and over, until he explains he took his wife's surname when they married",
+  "caption": "Zydeco dance-hall groove with a Creole two-step backbeat. Piano accordion playing bright riffs forward in the mix, rubboard (frottoir) scratching constant sixteenth notes, round electric bass, drum kit with a driving backbeat, clean electric guitar chops. Live dance-hall recording, tight rhythm section. Male baritone-tenor, cheerful and open, with group shouts on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, G major. Mood: bouncy, cheeky and danceable. No rap, no autotune, no synths, no heavy distortion, no trap hi-hats, no EDM build-up.",
+  "lyrics": "[Intro - accordion and rubboard]\n\n[Verse 1]\n文具屋の店員 毎週火曜\n試し書きの紙を 取りかえてる\n同じ人が 同じ名前を\nぐるぐる書いては 帰っていく\n\n[Pre-Chorus]\n画数の多い 新しい名字\nペンの先が まだ迷ってる\n\n[Chorus]\nサイン サイン れんしゅう\n今日も一枚 まっ黒だ\nサイン サイン れんしゅう\n奥さんの名字で 書くんだ\n\n[Verse 2]\n聞いてみたら 彼は照れて言う\n結婚して 妻の姓にしたんだ\n銀行の窓口で 手が止まって\n前の名前を 書きかけた\n\n[Chorus]\nサイン サイン れんしゅう\n今日も二枚 まっ黒だ\nサイン サイン れんしゅう\n新しい名前が 似合ってきた\n\n[Bridge - accordion solo]\nうしろで奥さんが 笑ってる\n「とめが 甘いよ」\n彼は黙って 最初から\n\n[Chorus]\nサイン サイン れんしゅう\n今日で最後の 一枚だ\nサイン サイン れんしゅう\nペンは買うよ 一ダース\n\n[Outro - accordion and rubboard]\n新しい名前で ここにサイン",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Zydeco dance-hall groove with a Creole two-step backbeat. Piano accordion playing bright riffs forward in the mix, rubboard (frottoir) scratching constant sixteenth notes, round electric bass, drum kit with a driving backbeat, clean electric guitar chops. Live dance-hall recording, tight rhythm section. Male baritone-tenor, cheerful and open, with group shouts on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 128 BPM, G major. Mood: bouncy, cheeky and danceable. No rap, no autotune, no synths, no heavy distortion, no trap hi-hats, no EDM build-up.",
+    "lyrics": "[Intro - accordion and rubboard]\n\n[Verse 1]\n文具屋の店員 毎週火曜\n試し書きの紙を 取りかえてる\n同じ人が 同じ名前を\nぐるぐる書いては 帰っていく\n\n[Pre-Chorus]\n画数の多い 新しい名字\nペンの先が まだ迷ってる\n\n[Chorus]\nサイン サイン れんしゅう\n今日も一枚 まっ黒だ\nサイン サイン れんしゅう\n奥さんの名字で 書くんだ\n\n[Verse 2]\n聞いてみたら 彼は照れて言う\n結婚して 妻の姓にしたんだ\n銀行の窓口で 手が止まって\n前の名前を 書きかけた\n\n[Chorus]\nサイン サイン れんしゅう\n今日も二枚 まっ黒だ\nサイン サイン れんしゅう\n新しい名前が 似合ってきた\n\n[Bridge - accordion solo]\nうしろで奥さんが 笑ってる\n「とめが 甘いよ」\n彼は黙って 最初から\n\n[Chorus]\nサイン サイン れんしゅう\n今日で最後の 一枚だ\nサイン サイン れんしゅう\nペンは買うよ 一ダース\n\n[Outro - accordion and rubboard]\n新しい名前で ここにサイン"
+  },
+  "seed": "4175238364",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 118.85s**\n- 118.85s per song\n- LM phase (1 song): 26.26s\n- DiT phase (1 song): 92.58s",
+  "task_id": "65035d77-086d-45cc-864c-092c81d4b7a1",
+  "elapsed_s": 161.6,
+  "generated_at": "2026-11-13T15:25:30.601168+08:00",
+  "audio": "b21_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.64,
+      "end": 23.64,
+      "text": "[Intro - accordion and rubboard]"
+    },
+    {
+      "t": 23.64,
+      "end": 23.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.64,
+      "end": 27.12,
+      "text": "文具屋の店員 毎週火曜"
+    },
+    {
+      "t": 27.5,
+      "end": 30.16,
+      "text": "試し書きの紙を 取りかえてる"
+    },
+    {
+      "t": 30.28,
+      "end": 32.36,
+      "text": "同じ人が 同じ名前を"
+    },
+    {
+      "t": 32.46,
+      "end": 36.14,
+      "text": "ぐるぐる書いては 帰っていく"
+    },
+    {
+      "t": 38.78,
+      "end": 38.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.78,
+      "end": 43.26,
+      "text": "画数の多い 新しい名字"
+    },
+    {
+      "t": 43.38,
+      "end": 49.03,
+      "text": "ペンの先が まだ迷ってる"
+    },
+    {
+      "t": 53.81,
+      "end": 53.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.81,
+      "end": 56.29,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 56.67,
+      "end": 59.63,
+      "text": "今日も一枚 まっ黒だ"
+    },
+    {
+      "t": 60.45,
+      "end": 63.29,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 63.71,
+      "end": 67.95,
+      "text": "奥さんの名字で 書くんだ"
+    },
+    {
+      "t": 68.05,
+      "end": 68.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.05,
+      "end": 71.01,
+      "text": "聞いてみたら 彼は照れて言う"
+    },
+    {
+      "t": 74.19,
+      "end": 78.35,
+      "text": "結婚して 妻の姓にしたんだ"
+    },
+    {
+      "t": 78.45,
+      "end": 82.23,
+      "text": "銀行の窓口で 手が止まって"
+    },
+    {
+      "t": 82.61,
+      "end": 85.79,
+      "text": "前の名前を 書きかけた"
+    },
+    {
+      "t": 86.33,
+      "end": 86.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.33,
+      "end": 88.19,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 89.15,
+      "end": 91.65,
+      "text": "今日も二枚 まっ黒だ"
+    },
+    {
+      "t": 93.39,
+      "end": 96.59,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 96.71,
+      "end": 100.63,
+      "text": "新しい名前が 似合ってきた"
+    },
+    {
+      "t": 121.61,
+      "end": 121.61,
+      "text": "[Bridge - accordion solo]"
+    },
+    {
+      "t": 121.61,
+      "end": 124.63,
+      "text": "うしろで奥さんが 笑ってる"
+    },
+    {
+      "t": 125.77,
+      "end": 128.93,
+      "text": "「とめが 甘いよ」"
+    },
+    {
+      "t": 129.31,
+      "end": 133.15,
+      "text": "彼は黙って 最初から"
+    },
+    {
+      "t": 133.97,
+      "end": 133.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.97,
+      "end": 135.85,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 137.09,
+      "end": 140.54,
+      "text": "今日で最後の 一枚だ"
+    },
+    {
+      "t": 141.06,
+      "end": 143.42,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 144.42,
+      "end": 148.82,
+      "text": "ペンは買うよ 一ダース"
+    },
+    {
+      "t": 156.4,
+      "end": 156.4,
+      "text": "[Outro - accordion and rubboard]"
+    },
+    {
+      "t": 156.4,
+      "end": 162.4,
+      "text": "新しい名前で ここにサイン"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.64,
+      "end": 23.64,
+      "text": "[Intro - accordion and rubboard]"
+    },
+    {
+      "t": 23.64,
+      "end": 23.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.64,
+      "end": 27.12,
+      "text": "文具屋の店員 毎週火曜"
+    },
+    {
+      "t": 27.48,
+      "end": 29.24,
+      "text": "試し書きの紙を 取りかえてる"
+    },
+    {
+      "t": 29.4,
+      "end": 31.92,
+      "text": "同じ人が 同じ名前を"
+    },
+    {
+      "t": 31.94,
+      "end": 36.12,
+      "text": "ぐるぐる書いては 帰っていく"
+    },
+    {
+      "t": 38.78,
+      "end": 38.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.78,
+      "end": 43.26,
+      "text": "画数の多い 新しい名字"
+    },
+    {
+      "t": 43.38,
+      "end": 49.05,
+      "text": "ペンの先が まだ迷ってる"
+    },
+    {
+      "t": 53.81,
+      "end": 53.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.81,
+      "end": 57.27,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 57.65,
+      "end": 59.63,
+      "text": "今日も一枚 まっ黒だ"
+    },
+    {
+      "t": 60.47,
+      "end": 63.73,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 63.79,
+      "end": 65.81,
+      "text": "奥さんの名字で 書くんだ"
+    },
+    {
+      "t": 68.05,
+      "end": 68.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.05,
+      "end": 71.01,
+      "text": "聞いてみたら 彼は照れて言う"
+    },
+    {
+      "t": 74.17,
+      "end": 78.37,
+      "text": "結婚して 妻の姓にしたんだ"
+    },
+    {
+      "t": 78.45,
+      "end": 82.23,
+      "text": "銀行の窓口で 手が止まって"
+    },
+    {
+      "t": 82.61,
+      "end": 85.81,
+      "text": "前の名前を 書きかけた"
+    },
+    {
+      "t": 86.33,
+      "end": 86.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.33,
+      "end": 88.19,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 89.15,
+      "end": 91.67,
+      "text": "今日も二枚 まっ黒だ"
+    },
+    {
+      "t": 93.39,
+      "end": 96.59,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 96.71,
+      "end": 100.63,
+      "text": "新しい名前が 似合ってきた"
+    },
+    {
+      "t": 121.61,
+      "end": 121.61,
+      "text": "[Bridge - accordion solo]"
+    },
+    {
+      "t": 121.61,
+      "end": 124.63,
+      "text": "うしろで奥さんが 笑ってる"
+    },
+    {
+      "t": 125.75,
+      "end": 128.93,
+      "text": "「とめが 甘いよ」"
+    },
+    {
+      "t": 129.29,
+      "end": 133.15,
+      "text": "彼は黙って 最初から"
+    },
+    {
+      "t": 133.95,
+      "end": 133.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.95,
+      "end": 135.85,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 137.09,
+      "end": 140.56,
+      "text": "今日で最後の 一枚だ"
+    },
+    {
+      "t": 141.06,
+      "end": 144.4,
+      "text": "サイン サイン れんしゅう"
+    },
+    {
+      "t": 144.4,
+      "end": 147.34,
+      "text": "ペンは買うよ 一ダース"
+    },
+    {
+      "t": 147.36,
+      "end": 147.36,
+      "text": "[Outro - accordion and rubboard]"
+    },
+    {
+      "t": 147.36,
+      "end": 162.44,
+      "text": "新しい名前で ここにサイン"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

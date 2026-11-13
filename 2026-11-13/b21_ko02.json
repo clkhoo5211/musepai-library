@@ -1,0 +1,397 @@
+{
+  "id": "b21_ko02",
+  "title": "같은 이름을 부르면",
+  "title_source": "scripted",
+  "genre": "Hammond organ soul-jazz trio ballad",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm and shy",
+  "persona": "",
+  "subject": "two strangers both named Kim Jiyoung stand up when a hospital waiting room calls the name, swap their prescription envelopes by mistake, and meet again to swap them back",
+  "caption": "Hammond organ soul-jazz trio, Korean-language love song. Hammond B3 with slow Leslie swirl plays sustained chords and a warm bass-pedal line, brushed snare and ride cymbal keep a loose swing, upright bass walks quarter notes, a clean hollow-body guitar adds sparse octave fills. A warm male lead sings in a low-mid register with relaxed, clearly sung phrasing. Analog tape warmth, small-room reverb. 92 BPM, F major. Warm and shy. No synth pads, no drum machine, no autotune, no rap, no trap hi-hats. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - Hammond organ chords with brushed drums]\n\n[Verse 1]\n접수대 간호사가 불렀어요\n김지영 님 김지영 님\n둘이 같이 일어났어요\n서로 보고 조금 웃었죠\n\n[Pre-Chorus]\n약 봉투가 바뀐 줄도 모르고\n각자 버스에 올랐어요\n\n[Chorus]\n같은 이름을 부르면\n두 사람이 돌아봐요\n내 이름이 처음으로\n조금 특별해 보였어요\n\n[Verse 2]\n집에 와서 봉투를 열었더니\n처음 보는 알약이 있었죠\n병원에 전화를 걸어서\n그 사람 번호를 받았어요\n\n[Pre-Chorus]\n카페 앞에서 만나기로 했어요\n봉투 두 개를 손에 들고\n\n[Chorus]\n같은 이름을 부르면\n두 사람이 돌아봐요\n바꿔 들고 인사하다가\n차 한 잔을 같이 했어요\n\n[Bridge - organ alone, bass enters]\n흔한 이름이라 늘 싫었는데\n\n[Chorus]\n같은 이름을 부르면\n한 사람만 돌아봐요\n다음 주 목요일 오후에\n내가 먼저 불러 볼게요\n\n[Outro - organ swells and settles]\n김지영 님 김지영 님",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Hammond organ soul-jazz trio, Korean-language love song. Hammond B3 with slow Leslie swirl plays sustained chords and a warm bass-pedal line, brushed snare and ride cymbal keep a loose swing, upright bass walks quarter notes, a clean hollow-body guitar adds sparse octave fills. A warm male lead sings in a low-mid register with relaxed, clearly sung phrasing. Analog tape warmth, small-room reverb. 92 BPM, F major. Warm and shy. No synth pads, no drum machine, no autotune, no rap, no trap hi-hats. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - Hammond organ chords with brushed drums]\n\n[Verse 1]\n접수대 간호사가 불렀어요\n김지영 님 김지영 님\n둘이 같이 일어났어요\n서로 보고 조금 웃었죠\n\n[Pre-Chorus]\n약 봉투가 바뀐 줄도 모르고\n각자 버스에 올랐어요\n\n[Chorus]\n같은 이름을 부르면\n두 사람이 돌아봐요\n내 이름이 처음으로\n조금 특별해 보였어요\n\n[Verse 2]\n집에 와서 봉투를 열었더니\n처음 보는 알약이 있었죠\n병원에 전화를 걸어서\n그 사람 번호를 받았어요\n\n[Pre-Chorus]\n카페 앞에서 만나기로 했어요\n봉투 두 개를 손에 들고\n\n[Chorus]\n같은 이름을 부르면\n두 사람이 돌아봐요\n바꿔 들고 인사하다가\n차 한 잔을 같이 했어요\n\n[Bridge - organ alone, bass enters]\n흔한 이름이라 늘 싫었는데\n\n[Chorus]\n같은 이름을 부르면\n한 사람만 돌아봐요\n다음 주 목요일 오후에\n내가 먼저 불러 볼게요\n\n[Outro - organ swells and settles]\n김지영 님 김지영 님"
+  },
+  "seed": "1883710520",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 85.25s**\n- 85.25s per song\n- LM phase (1 song): 21.94s\n- DiT phase (1 song): 63.31s",
+  "task_id": "47429860-f993-48f5-965b-d6c3d126fa3a",
+  "elapsed_s": 120.5,
+  "generated_at": "2026-11-13T14:24:12.677701+08:00",
+  "audio": "b21_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.04,
+      "end": 24.04,
+      "text": "[Intro - Hammond organ chords with brushed drums]"
+    },
+    {
+      "t": 24.04,
+      "end": 24.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.04,
+      "end": 28.28,
+      "text": "접수대 간호사가 불렀어요"
+    },
+    {
+      "t": 29.44,
+      "end": 33.82,
+      "text": "김지영 님 김지영 님"
+    },
+    {
+      "t": 35.44,
+      "end": 39.2,
+      "text": "둘이 같이 일어났어요"
+    },
+    {
+      "t": 39.72,
+      "end": 43.58,
+      "text": "서로 보고 조금 웃었죠"
+    },
+    {
+      "t": 45.42,
+      "end": 45.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.42,
+      "end": 48.84,
+      "text": "약 봉투가 바뀐 줄도 모르고"
+    },
+    {
+      "t": 49.72,
+      "end": 52.71,
+      "text": "각자 버스에 올랐어요"
+    },
+    {
+      "t": 56.41,
+      "end": 56.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.41,
+      "end": 59.29,
+      "text": "같은 이름을 부르면"
+    },
+    {
+      "t": 62.07,
+      "end": 64.53,
+      "text": "두 사람이 돌아봐요"
+    },
+    {
+      "t": 67.07,
+      "end": 69.87,
+      "text": "내 이름이 처음으로"
+    },
+    {
+      "t": 70.39,
+      "end": 72.87,
+      "text": "조금 특별해 보였어요"
+    },
+    {
+      "t": 78.05,
+      "end": 78.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.05,
+      "end": 81.57,
+      "text": "집에 와서 봉투를 열었더니"
+    },
+    {
+      "t": 82.41,
+      "end": 86.95,
+      "text": "처음 보는 알약이 있었죠"
+    },
+    {
+      "t": 88.77,
+      "end": 92.21,
+      "text": "병원에 전화를 걸어서"
+    },
+    {
+      "t": 93.07,
+      "end": 97.71,
+      "text": "그 사람 번호를 받았어요"
+    },
+    {
+      "t": 99.67,
+      "end": 99.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.67,
+      "end": 102.95,
+      "text": "카페 앞에서 만나기로 했어요"
+    },
+    {
+      "t": 104.29,
+      "end": 108.07,
+      "text": "봉투 두 개를 손에 들고"
+    },
+    {
+      "t": 108.29,
+      "end": 108.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.29,
+      "end": 109.49,
+      "text": "같은 이름을 부르면"
+    },
+    {
+      "t": 109.51,
+      "end": 110.43,
+      "text": "두 사람이 돌아봐요"
+    },
+    {
+      "t": 110.43,
+      "end": 113.35,
+      "text": "바꿔 들고 인사하다가"
+    },
+    {
+      "t": 115.13,
+      "end": 118.79,
+      "text": "차 한 잔을 같이 했어요"
+    },
+    {
+      "t": 131.33,
+      "end": 131.33,
+      "text": "[Bridge - organ alone, bass enters]"
+    },
+    {
+      "t": 131.33,
+      "end": 136.17,
+      "text": "흔한 이름이라 늘 싫었는데"
+    },
+    {
+      "t": 139.19,
+      "end": 139.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.19,
+      "end": 141.31,
+      "text": "같은 이름을 부르면"
+    },
+    {
+      "t": 141.33,
+      "end": 147.83,
+      "text": "한 사람만 돌아봐요"
+    },
+    {
+      "t": 147.83,
+      "end": 151.67,
+      "text": "다음 주 목요일 오후에"
+    },
+    {
+      "t": 152.79,
+      "end": 156.88,
+      "text": "내가 먼저 불러 볼게요"
+    },
+    {
+      "t": 164.78,
+      "end": 164.78,
+      "text": "[Outro - organ swells and settles]"
+    },
+    {
+      "t": 164.78,
+      "end": 189.94,
+      "text": "김지영 님 김지영 님"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.04,
+      "end": 24.04,
+      "text": "[Intro - Hammond organ chords with brushed drums]"
+    },
+    {
+      "t": 24.04,
+      "end": 24.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.04,
+      "end": 28.28,
+      "text": "접수대 간호사가 불렀어요"
+    },
+    {
+      "t": 29.44,
+      "end": 33.8,
+      "text": "김지영 님 김지영 님"
+    },
+    {
+      "t": 35.44,
+      "end": 39.22,
+      "text": "둘이 같이 일어났어요"
+    },
+    {
+      "t": 39.72,
+      "end": 43.58,
+      "text": "서로 보고 조금 웃었죠"
+    },
+    {
+      "t": 45.42,
+      "end": 45.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.42,
+      "end": 48.84,
+      "text": "약 봉투가 바뀐 줄도 모르고"
+    },
+    {
+      "t": 49.72,
+      "end": 52.69,
+      "text": "각자 버스에 올랐어요"
+    },
+    {
+      "t": 56.43,
+      "end": 56.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.43,
+      "end": 59.63,
+      "text": "같은 이름을 부르면"
+    },
+    {
+      "t": 62.07,
+      "end": 64.51,
+      "text": "두 사람이 돌아봐요"
+    },
+    {
+      "t": 67.07,
+      "end": 69.89,
+      "text": "내 이름이 처음으로"
+    },
+    {
+      "t": 70.41,
+      "end": 72.87,
+      "text": "조금 특별해 보였어요"
+    },
+    {
+      "t": 78.05,
+      "end": 78.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.05,
+      "end": 81.57,
+      "text": "집에 와서 봉투를 열었더니"
+    },
+    {
+      "t": 82.43,
+      "end": 86.95,
+      "text": "처음 보는 알약이 있었죠"
+    },
+    {
+      "t": 88.77,
+      "end": 92.19,
+      "text": "병원에 전화를 걸어서"
+    },
+    {
+      "t": 93.07,
+      "end": 97.71,
+      "text": "그 사람 번호를 받았어요"
+    },
+    {
+      "t": 99.65,
+      "end": 99.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.65,
+      "end": 102.95,
+      "text": "카페 앞에서 만나기로 했어요"
+    },
+    {
+      "t": 104.29,
+      "end": 107.07,
+      "text": "봉투 두 개를 손에 들고"
+    },
+    {
+      "t": 107.07,
+      "end": 107.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.07,
+      "end": 108.09,
+      "text": "같은 이름을 부르면"
+    },
+    {
+      "t": 109.21,
+      "end": 110.33,
+      "text": "두 사람이 돌아봐요"
+    },
+    {
+      "t": 110.33,
+      "end": 113.37,
+      "text": "바꿔 들고 인사하다가"
+    },
+    {
+      "t": 115.13,
+      "end": 118.77,
+      "text": "차 한 잔을 같이 했어요"
+    },
+    {
+      "t": 131.43,
+      "end": 131.43,
+      "text": "[Bridge - organ alone, bass enters]"
+    },
+    {
+      "t": 131.43,
+      "end": 136.17,
+      "text": "흔한 이름이라 늘 싫었는데"
+    },
+    {
+      "t": 139.23,
+      "end": 139.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.23,
+      "end": 142.27,
+      "text": "같은 이름을 부르면"
+    },
+    {
+      "t": 142.29,
+      "end": 151.27,
+      "text": "한 사람만 돌아봐요"
+    },
+    {
+      "t": 151.49,
+      "end": 162.26,
+      "text": "다음 주 목요일 오후에"
+    },
+    {
+      "t": 164.46,
+      "end": 168.06,
+      "text": "내가 먼저 불러 볼게요"
+    },
+    {
+      "t": 172.4,
+      "end": 172.4,
+      "text": "[Outro - organ swells and settles]"
+    },
+    {
+      "t": 172.4,
+      "end": 189.94,
+      "text": "김지영 님 김지영 님"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

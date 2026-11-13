@@ -1,0 +1,579 @@
+{
+  "id": "b21_ko03",
+  "title": "빨래집게 하나",
+  "title_source": "scripted",
+  "genre": "Klezmer clarinet chamber folk",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wistful and amused",
+  "persona": "",
+  "subject": "a woman hanging washing on her rooftop line finds one clothespin missing every Sunday, discovers a crow is taking them for its nest, and starts leaving spare pins on the wall",
+  "caption": "Klezmer chamber folk in Korean. Clarinet plays the winding freylekh melody with sliding grace notes, violin doubles in thirds, accordion holds off-beat chords, upright bass plucks a steady two-feel, a frame drum taps light accents. A gentle female lead sings in a mid register, plain and clearly sung. Dry chamber room, natural wood tones. 104 BPM, A minor. Wistful and amused. No electric guitar, no synth, no drum kit, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - clarinet theme with frame drum]\n\n[Verse 1]\n옥상 빨랫줄에 널어 놓은\n수건 열 장 양말 여덟 짝\n집게가 하나씩 모자라요\n일요일마다 하나씩이요\n\n[Pre-Chorus]\n바람 탓인가 싶었는데\n바람은 집게를 안 가져가요\n\n[Chorus]\n집게 하나 어디 갔니\n까마귀가 물고 갔을까\n둥지에 내 집게가 있을까\n수건은 바람에 날리고요\n\n[Verse 2]\n담장 위에 까만 새 한 마리\n부리에 빨간 집게를 물고\n나를 한참 내려다보더니\n아무 일 없다는 듯 갔어요\n\n[Pre-Chorus]\n화를 내려다 웃고 말았죠\n새도 이사 중인가 봐요\n\n[Chorus]\n집게 하나 가져가렴\n둥지가 푹신하도록\n이번 주엔 두 개 놓을게\n수건은 내가 눌러 둘게요\n\n[Bridge - violin and clarinet in thirds]\n빨래는 마르고 해는 기울고\n\n[Chorus]\n집게 하나 어디 갔니\n이제는 내가 알고 있어요\n일요일 아침 담 위에\n작은 집게 둘 올려 놓아요\n\n[Outro - clarinet alone, then bass]\n집게 둘 집게 둘",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Klezmer chamber folk in Korean. Clarinet plays the winding freylekh melody with sliding grace notes, violin doubles in thirds, accordion holds off-beat chords, upright bass plucks a steady two-feel, a frame drum taps light accents. A gentle female lead sings in a mid register, plain and clearly sung. Dry chamber room, natural wood tones. 104 BPM, A minor. Wistful and amused. No electric guitar, no synth, no drum kit, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - clarinet theme with frame drum]\n\n[Verse 1]\n옥상 빨랫줄에 널어 놓은\n수건 열 장 양말 여덟 짝\n집게가 하나씩 모자라요\n일요일마다 하나씩이요\n\n[Pre-Chorus]\n바람 탓인가 싶었는데\n바람은 집게를 안 가져가요\n\n[Chorus]\n집게 하나 어디 갔니\n까마귀가 물고 갔을까\n둥지에 내 집게가 있을까\n수건은 바람에 날리고요\n\n[Verse 2]\n담장 위에 까만 새 한 마리\n부리에 빨간 집게를 물고\n나를 한참 내려다보더니\n아무 일 없다는 듯 갔어요\n\n[Pre-Chorus]\n화를 내려다 웃고 말았죠\n새도 이사 중인가 봐요\n\n[Chorus]\n집게 하나 가져가렴\n둥지가 푹신하도록\n이번 주엔 두 개 놓을게\n수건은 내가 눌러 둘게요\n\n[Bridge - violin and clarinet in thirds]\n빨래는 마르고 해는 기울고\n\n[Chorus]\n집게 하나 어디 갔니\n이제는 내가 알고 있어요\n일요일 아침 담 위에\n작은 집게 둘 올려 놓아요\n\n[Outro - clarinet alone, then bass]\n집게 둘 집게 둘"
+  },
+  "seed": "2563701927",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 79.47s**\n- 79.47s per song\n- LM phase (1 song): 18.84s\n- DiT phase (1 song): 60.63s",
+  "task_id": "951de1d4-3e73-49c8-af68-86ac8e5f9420",
+  "elapsed_s": 110.2,
+  "generated_at": "2026-11-13T14:26:02.908873+08:00",
+  "audio": "b21_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.18,
+      "end": 0.18,
+      "text": "[Intro - clarinet theme with frame drum]"
+    },
+    {
+      "t": 0.18,
+      "end": 0.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.18,
+      "end": 37.24,
+      "text": "옥상 빨랫줄에 널어 놓은"
+    },
+    {
+      "t": 37.24,
+      "end": 43.54,
+      "text": "수건 열 장 양말 여덟 짝"
+    },
+    {
+      "t": 43.5,
+      "end": 45.6,
+      "text": "집게가 하나씩 모자라요"
+    },
+    {
+      "t": 45.66,
+      "end": 46.3,
+      "text": "일요일마다 하나씩이요"
+    },
+    {
+      "t": 46.3,
+      "end": 46.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.3,
+      "end": 48.08,
+      "text": "바람 탓인가 싶었는데"
+    },
+    {
+      "t": 48.08,
+      "end": 50.41,
+      "text": "바람은 집게를 안 가져가요"
+    },
+    {
+      "t": 50.73,
+      "end": 50.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.73,
+      "end": 57.49,
+      "text": "집게 하나 어디 갔니"
+    },
+    {
+      "t": 57.49,
+      "end": 58.17,
+      "text": "까마귀가 물고 갔을까"
+    },
+    {
+      "t": 58.17,
+      "end": 58.97,
+      "text": "둥지에 내 집게가 있을까"
+    },
+    {
+      "t": 59.53,
+      "end": 60.83,
+      "text": "수건은 바람에 날리고요"
+    },
+    {
+      "t": 60.49,
+      "end": 60.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.49,
+      "end": 61.83,
+      "text": "담장 위에 까만 새 한 마리"
+    },
+    {
+      "t": 62.13,
+      "end": 64.89,
+      "text": "부리에 빨간 집게를 물고"
+    },
+    {
+      "t": 66.77,
+      "end": 69.51,
+      "text": "나를 한참 내려다보더니"
+    },
+    {
+      "t": 71.43,
+      "end": 74.93,
+      "text": "아무 일 없다는 듯 갔어요"
+    },
+    {
+      "t": 75.53,
+      "end": 75.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 75.53,
+      "end": 83.25,
+      "text": "화를 내려다 웃고 말았죠"
+    },
+    {
+      "t": 86.95,
+      "end": 90.59,
+      "text": "새도 이사 중인가 봐요"
+    },
+    {
+      "t": 94.17,
+      "end": 94.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.17,
+      "end": 97.65,
+      "text": "집게 하나 가져가렴"
+    },
+    {
+      "t": 99.07,
+      "end": 103.73,
+      "text": "둥지가 푹신하도록"
+    },
+    {
+      "t": 103.81,
+      "end": 107.27,
+      "text": "이번 주엔 두 개 놓을게"
+    },
+    {
+      "t": 108.87,
+      "end": 112.49,
+      "text": "수건은 내가 눌러 둘게요"
+    },
+    {
+      "t": 113.65,
+      "end": 113.65,
+      "text": "[Bridge - violin and clarinet in thirds]"
+    },
+    {
+      "t": 113.65,
+      "end": 117.41,
+      "text": "빨래는 마르고 해는 기울고"
+    },
+    {
+      "t": 133.41,
+      "end": 133.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.41,
+      "end": 138.51,
+      "text": "집게 하나 어디 갔니"
+    },
+    {
+      "t": 138.75,
+      "end": 149.13,
+      "text": "이제는 내가 알고 있어요"
+    },
+    {
+      "t": 149.29,
+      "end": 151.72,
+      "text": "일요일 아침 담 위에"
+    },
+    {
+      "t": 153.02,
+      "end": 156.66,
+      "text": "작은 집게 둘 올려 놓아요"
+    },
+    {
+      "t": 160.22,
+      "end": 160.22,
+      "text": "[Outro - clarinet alone, then bass]"
+    },
+    {
+      "t": 160.22,
+      "end": 175.24,
+      "text": "집게 둘 집게 둘"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.18,
+      "end": 0.18,
+      "text": "[Intro - clarinet theme with frame drum]"
+    },
+    {
+      "t": 0.18,
+      "end": 0.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.18,
+      "end": 37.24,
+      "text": "옥상 빨랫줄에 널어 놓은"
+    },
+    {
+      "t": 37.24,
+      "end": 43.54,
+      "text": "수건 열 장 양말 여덟 짝"
+    },
+    {
+      "t": 43.54,
+      "end": 44.66,
+      "text": "집게가 하나씩 모자라요"
+    },
+    {
+      "t": 44.68,
+      "end": 46.14,
+      "text": "일요일마다 하나씩이요"
+    },
+    {
+      "t": 46.14,
+      "end": 46.14,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.14,
+      "end": 48.04,
+      "text": "바람 탓인가 싶었는데"
+    },
+    {
+      "t": 48.08,
+      "end": 50.41,
+      "text": "바람은 집게를 안 가져가요"
+    },
+    {
+      "t": 50.69,
+      "end": 50.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.69,
+      "end": 58.01,
+      "text": "집게 하나 어디 갔니"
+    },
+    {
+      "t": 58.01,
+      "end": 58.79,
+      "text": "까마귀가 물고 갔을까"
+    },
+    {
+      "t": 58.79,
+      "end": 59.53,
+      "text": "둥지에 내 집게가 있을까"
+    },
+    {
+      "t": 59.53,
+      "end": 60.83,
+      "text": "수건은 바람에 날리고요"
+    },
+    {
+      "t": 60.83,
+      "end": 60.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.83,
+      "end": 61.79,
+      "text": "담장 위에 까만 새 한 마리"
+    },
+    {
+      "t": 62.13,
+      "end": 64.89,
+      "text": "부리에 빨간 집게를 물고"
+    },
+    {
+      "t": 66.73,
+      "end": 69.51,
+      "text": "나를 한참 내려다보더니"
+    },
+    {
+      "t": 71.43,
+      "end": 74.93,
+      "text": "아무 일 없다는 듯 갔어요"
+    },
+    {
+      "t": 76.43,
+      "end": 76.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 76.43,
+      "end": 87.15,
+      "text": "화를 내려다 웃고 말았죠"
+    },
+    {
+      "t": 87.27,
+      "end": 90.59,
+      "text": "새도 이사 중인가 봐요"
+    },
+    {
+      "t": 94.17,
+      "end": 94.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.17,
+      "end": 97.61,
+      "text": "집게 하나 가져가렴"
+    },
+    {
+      "t": 99.09,
+      "end": 103.73,
+      "text": "둥지가 푹신하도록"
+    },
+    {
+      "t": 103.81,
+      "end": 107.27,
+      "text": "이번 주엔 두 개 놓을게"
+    },
+    {
+      "t": 108.87,
+      "end": 112.51,
+      "text": "수건은 내가 눌러 둘게요"
+    },
+    {
+      "t": 113.63,
+      "end": 113.63,
+      "text": "[Bridge - violin and clarinet in thirds]"
+    },
+    {
+      "t": 113.63,
+      "end": 117.41,
+      "text": "빨래는 마르고 해는 기울고"
+    },
+    {
+      "t": 133.41,
+      "end": 133.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.41,
+      "end": 138.51,
+      "text": "집게 하나 어디 갔니"
+    },
+    {
+      "t": 138.75,
+      "end": 149.13,
+      "text": "이제는 내가 알고 있어요"
+    },
+    {
+      "t": 149.29,
+      "end": 151.72,
+      "text": "일요일 아침 담 위에"
+    },
+    {
+      "t": 153.02,
+      "end": 156.66,
+      "text": "작은 집게 둘 올려 놓아요"
+    },
+    {
+      "t": 160.22,
+      "end": 160.22,
+      "text": "[Outro - clarinet alone, then bass]"
+    },
+    {
+      "t": 160.22,
+      "end": 175.24,
+      "text": "집게 둘 집게 둘"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 1.84,
+      "end": 1.84,
+      "text": "[Intro - clarinet theme with frame drum]"
+    },
+    {
+      "t": 1.84,
+      "end": 1.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.84,
+      "end": 38.14,
+      "text": "옥상 빨랫줄에 널어 놓은"
+    },
+    {
+      "t": 39.42,
+      "end": 43.5,
+      "text": "수건 열 장 양말 여덟 짝"
+    },
+    {
+      "t": 43.5,
+      "end": 45.6,
+      "text": "집게가 하나씩 모자라요"
+    },
+    {
+      "t": 45.66,
+      "end": 46.3,
+      "text": "일요일마다 하나씩이요"
+    },
+    {
+      "t": 46.3,
+      "end": 46.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.3,
+      "end": 48.08,
+      "text": "바람 탓인가 싶었는데"
+    },
+    {
+      "t": 48.08,
+      "end": 50.41,
+      "text": "바람은 집게를 안 가져가요"
+    },
+    {
+      "t": 50.73,
+      "end": 50.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.73,
+      "end": 57.49,
+      "text": "집게 하나 어디 갔니"
+    },
+    {
+      "t": 57.49,
+      "end": 58.17,
+      "text": "까마귀가 물고 갔을까"
+    },
+    {
+      "t": 58.17,
+      "end": 58.97,
+      "text": "둥지에 내 집게가 있을까"
+    },
+    {
+      "t": 58.97,
+      "end": 60.49,
+      "text": "수건은 바람에 날리고요"
+    },
+    {
+      "t": 60.49,
+      "end": 60.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 60.49,
+      "end": 61.83,
+      "text": "담장 위에 까만 새 한 마리"
+    },
+    {
+      "t": 62.13,
+      "end": 64.89,
+      "text": "부리에 빨간 집게를 물고"
+    },
+    {
+      "t": 66.77,
+      "end": 69.51,
+      "text": "나를 한참 내려다보더니"
+    },
+    {
+      "t": 71.43,
+      "end": 74.93,
+      "text": "아무 일 없다는 듯 갔어요"
+    },
+    {
+      "t": 75.53,
+      "end": 75.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 75.53,
+      "end": 83.25,
+      "text": "화를 내려다 웃고 말았죠"
+    },
+    {
+      "t": 86.95,
+      "end": 90.59,
+      "text": "새도 이사 중인가 봐요"
+    },
+    {
+      "t": 94.17,
+      "end": 94.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.17,
+      "end": 97.65,
+      "text": "집게 하나 가져가렴"
+    },
+    {
+      "t": 99.07,
+      "end": 103.73,
+      "text": "둥지가 푹신하도록"
+    },
+    {
+      "t": 103.81,
+      "end": 107.27,
+      "text": "이번 주엔 두 개 놓을게"
+    },
+    {
+      "t": 108.87,
+      "end": 112.49,
+      "text": "수건은 내가 눌러 둘게요"
+    },
+    {
+      "t": 113.65,
+      "end": 113.65,
+      "text": "[Bridge - violin and clarinet in thirds]"
+    },
+    {
+      "t": 113.65,
+      "end": 117.41,
+      "text": "빨래는 마르고 해는 기울고"
+    },
+    {
+      "t": 121.89,
+      "end": 121.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.89,
+      "end": 138.51,
+      "text": "집게 하나 어디 갔니"
+    },
+    {
+      "t": 138.75,
+      "end": 148.77,
+      "text": "이제는 내가 알고 있어요"
+    },
+    {
+      "t": 148.83,
+      "end": 151.72,
+      "text": "일요일 아침 담 위에"
+    },
+    {
+      "t": 153.0,
+      "end": 156.66,
+      "text": "작은 집게 둘 올려 놓아요"
+    },
+    {
+      "t": 169.46,
+      "end": 169.46,
+      "text": "[Outro - clarinet alone, then bass]"
+    },
+    {
+      "t": 169.46,
+      "end": 175.22,
+      "text": "집게 둘 집게 둘"
+    }
+  ]
+}

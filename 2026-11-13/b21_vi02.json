@@ -1,0 +1,397 @@
+{
+  "id": "b21_vi02",
+  "title": "Tấm Vé Bằng Sáp Màu",
+  "title_source": "scripted",
+  "genre": "Cape Verdean funaná in Vietnamese",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "cheeky, bouncy, soft-hearted",
+  "persona": "",
+  "subject": "Chú Lực, a strict ticket inspector on Hà Nội's Cát Linh metro, finds a six-year-old boy riding every morning with a ticket drawn in crayon; he stamps it as valid day after day, until the station chief comes down to inspect and Chú Lực has to defend a drawing.",
+  "caption": "Cape Verdean funaná dance music sung in Vietnamese. Button accordion with fast reeling riffs, ferrinho iron scraper with steady scraped sixteenth-note drive, cavaquinho with bright strummed chords, electric bass with bouncing root-fifth groove, drum kit with driving kick and snare. Live dance-hall sound, accordion and scraper up front, dry and punchy. Male bright baritone, playful full voice. Clear full voice, every word enunciated, steady sung melody on every line. 144 BPM, A minor. Cheeky, bouncy, soft-hearted. No rapping, no autotune, no synthesizers, no distorted guitar, no trap hi-hats, no EDM drops.",
+  "lyrics": "[Intro - accordion, iron scraper]\n\n[Verse 1]\nChú Lực soát vé ga Cát Linh\nMắt chú tinh như mắt diều hâu\nCó thằng nhóc sáu tuổi bước lên\nGiơ tấm vé vẽ bằng sáp màu\n\n[Pre-Chorus]\nVé không có mã\nVé có con tàu\n\n[Chorus]\nVé đỏ vé xanh vé tô sáp màu\nChú Lực đóng dấu, hợp lệ nhé\nTàu điện chạy qua mái nhà\nVé của bé tí, chú đóng mỗi ngày\n\n[Verse 2]\nTuần sau nó vẽ thêm cái cổng\nCó cả chú Lực, có mũ, có còi\nSáng nay ông trưởng ga xuống kiểm tra\nHỏi: chú Lực, vé này của ai\n\n[Pre-Chorus]\nChú nói: vé tháng đặc biệt\n\n[Chorus]\nVé tím vé vàng vé tô sáp màu\nÔng trưởng ga gãi đầu, gật gù\nChú Lực đóng dấu, hợp lệ nhé\nVé của bé tí, ai dám bắt đâu\n\n[Bridge - accordion solo, cavaquinho]\nMẹ nó cười ở đầu toa kia\nChú dán tấm vé lên tủ phòng trực\n\n[Chorus]\nVé đỏ vé xanh vé tô sáp màu\nChú Lực đóng dấu, mẹ nó cười\nTàu điện chạy qua mái nhà\nVé của bé tí, chú đóng mỗi ngày\n\n[Outro - accordion, iron scraper]\nHợp lệ nhé, hợp lệ nhé",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 144,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Cape Verdean funaná dance music sung in Vietnamese. Button accordion with fast reeling riffs, ferrinho iron scraper with steady scraped sixteenth-note drive, cavaquinho with bright strummed chords, electric bass with bouncing root-fifth groove, drum kit with driving kick and snare. Live dance-hall sound, accordion and scraper up front, dry and punchy. Male bright baritone, playful full voice. Clear full voice, every word enunciated, steady sung melody on every line. 144 BPM, A minor. Cheeky, bouncy, soft-hearted. No rapping, no autotune, no synthesizers, no distorted guitar, no trap hi-hats, no EDM drops.",
+    "lyrics": "[Intro - accordion, iron scraper]\n\n[Verse 1]\nChú Lực soát vé ga Cát Linh\nMắt chú tinh như mắt diều hâu\nCó thằng nhóc sáu tuổi bước lên\nGiơ tấm vé vẽ bằng sáp màu\n\n[Pre-Chorus]\nVé không có mã\nVé có con tàu\n\n[Chorus]\nVé đỏ vé xanh vé tô sáp màu\nChú Lực đóng dấu, hợp lệ nhé\nTàu điện chạy qua mái nhà\nVé của bé tí, chú đóng mỗi ngày\n\n[Verse 2]\nTuần sau nó vẽ thêm cái cổng\nCó cả chú Lực, có mũ, có còi\nSáng nay ông trưởng ga xuống kiểm tra\nHỏi: chú Lực, vé này của ai\n\n[Pre-Chorus]\nChú nói: vé tháng đặc biệt\n\n[Chorus]\nVé tím vé vàng vé tô sáp màu\nÔng trưởng ga gãi đầu, gật gù\nChú Lực đóng dấu, hợp lệ nhé\nVé của bé tí, ai dám bắt đâu\n\n[Bridge - accordion solo, cavaquinho]\nMẹ nó cười ở đầu toa kia\nChú dán tấm vé lên tủ phòng trực\n\n[Chorus]\nVé đỏ vé xanh vé tô sáp màu\nChú Lực đóng dấu, mẹ nó cười\nTàu điện chạy qua mái nhà\nVé của bé tí, chú đóng mỗi ngày\n\n[Outro - accordion, iron scraper]\nHợp lệ nhé, hợp lệ nhé"
+  },
+  "seed": "2945976881",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.45s**\n- 59.45s per song\n- LM phase (1 song): 16.63s\n- DiT phase (1 song): 42.82s",
+  "task_id": "c9c1d340-780e-48c5-b3f2-e3c26076306f",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-11-13T14:48:35.256526+08:00",
+  "audio": "b21_vi02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.84,
+      "end": 16.84,
+      "text": "[Intro - accordion, iron scraper]"
+    },
+    {
+      "t": 16.84,
+      "end": 16.84,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.84,
+      "end": 21.02,
+      "text": "Chú Lực soát vé ga Cát Linh"
+    },
+    {
+      "t": 23.14,
+      "end": 27.68,
+      "text": "Mắt chú tinh như mắt diều hâu"
+    },
+    {
+      "t": 28.4,
+      "end": 30.96,
+      "text": "Có thằng nhóc sáu tuổi bước lên"
+    },
+    {
+      "t": 30.96,
+      "end": 33.3,
+      "text": "Giơ tấm vé vẽ bằng sáp màu"
+    },
+    {
+      "t": 34.66,
+      "end": 34.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.66,
+      "end": 36.06,
+      "text": "Vé không có mã"
+    },
+    {
+      "t": 38.42,
+      "end": 40.28,
+      "text": "Vé có con tàu"
+    },
+    {
+      "t": 42.6,
+      "end": 42.6,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.6,
+      "end": 48.63,
+      "text": "Vé đỏ vé xanh vé tô sáp màu"
+    },
+    {
+      "t": 48.85,
+      "end": 50.29,
+      "text": "Chú Lực đóng dấu, hợp lệ nhé"
+    },
+    {
+      "t": 50.51,
+      "end": 55.87,
+      "text": "Tàu điện chạy qua mái nhà"
+    },
+    {
+      "t": 56.21,
+      "end": 59.57,
+      "text": "Vé của bé tí, chú đóng mỗi ngày"
+    },
+    {
+      "t": 62.47,
+      "end": 62.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.47,
+      "end": 64.83,
+      "text": "Tuần sau nó vẽ thêm cái cổng"
+    },
+    {
+      "t": 67.05,
+      "end": 69.23,
+      "text": "Có cả chú Lực, có mũ, có còi"
+    },
+    {
+      "t": 69.23,
+      "end": 71.15,
+      "text": "Sáng nay ông trưởng ga xuống kiểm tra"
+    },
+    {
+      "t": 73.27,
+      "end": 77.43,
+      "text": "Hỏi: chú Lực, vé này của ai"
+    },
+    {
+      "t": 79.11,
+      "end": 79.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 79.11,
+      "end": 81.87,
+      "text": "Chú nói: vé tháng đặc biệt"
+    },
+    {
+      "t": 82.43,
+      "end": 82.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.43,
+      "end": 85.47,
+      "text": "Vé tím vé vàng vé tô sáp màu"
+    },
+    {
+      "t": 87.91,
+      "end": 91.89,
+      "text": "Ông trưởng ga gãi đầu, gật gù"
+    },
+    {
+      "t": 95.25,
+      "end": 98.33,
+      "text": "Chú Lực đóng dấu, hợp lệ nhé"
+    },
+    {
+      "t": 100.69,
+      "end": 105.67,
+      "text": "Vé của bé tí, ai dám bắt đâu"
+    },
+    {
+      "t": 107.79,
+      "end": 107.79,
+      "text": "[Bridge - accordion solo, cavaquinho]"
+    },
+    {
+      "t": 107.79,
+      "end": 112.17,
+      "text": "Mẹ nó cười ở đầu toa kia"
+    },
+    {
+      "t": 115.23,
+      "end": 118.85,
+      "text": "Chú dán tấm vé lên tủ phòng trực"
+    },
+    {
+      "t": 141.94,
+      "end": 141.94,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.94,
+      "end": 146.32,
+      "text": "Vé đỏ vé xanh vé tô sáp màu"
+    },
+    {
+      "t": 149.42,
+      "end": 152.08,
+      "text": "Chú Lực đóng dấu, mẹ nó cười"
+    },
+    {
+      "t": 152.14,
+      "end": 157.9,
+      "text": "Tàu điện chạy qua mái nhà"
+    },
+    {
+      "t": 160.26,
+      "end": 165.22,
+      "text": "Vé của bé tí, chú đóng mỗi ngày"
+    },
+    {
+      "t": 167.72,
+      "end": 167.72,
+      "text": "[Outro - accordion, iron scraper]"
+    },
+    {
+      "t": 167.72,
+      "end": 171.22,
+      "text": "Hợp lệ nhé, hợp lệ nhé"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.82,
+      "end": 16.82,
+      "text": "[Intro - accordion, iron scraper]"
+    },
+    {
+      "t": 16.82,
+      "end": 16.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.82,
+      "end": 21.04,
+      "text": "Chú Lực soát vé ga Cát Linh"
+    },
+    {
+      "t": 23.14,
+      "end": 27.68,
+      "text": "Mắt chú tinh như mắt diều hâu"
+    },
+    {
+      "t": 28.38,
+      "end": 30.96,
+      "text": "Có thằng nhóc sáu tuổi bước lên"
+    },
+    {
+      "t": 30.96,
+      "end": 31.82,
+      "text": "Giơ tấm vé vẽ bằng sáp màu"
+    },
+    {
+      "t": 34.66,
+      "end": 34.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.66,
+      "end": 36.08,
+      "text": "Vé không có mã"
+    },
+    {
+      "t": 38.44,
+      "end": 40.3,
+      "text": "Vé có con tàu"
+    },
+    {
+      "t": 40.3,
+      "end": 40.3,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.3,
+      "end": 43.04,
+      "text": "Vé đỏ vé xanh vé tô sáp màu"
+    },
+    {
+      "t": 43.04,
+      "end": 43.9,
+      "text": "Chú Lực đóng dấu, hợp lệ nhé"
+    },
+    {
+      "t": 43.96,
+      "end": 46.51,
+      "text": "Tàu điện chạy qua mái nhà"
+    },
+    {
+      "t": 46.51,
+      "end": 50.53,
+      "text": "Vé của bé tí, chú đóng mỗi ngày"
+    },
+    {
+      "t": 62.45,
+      "end": 62.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.45,
+      "end": 64.85,
+      "text": "Tuần sau nó vẽ thêm cái cổng"
+    },
+    {
+      "t": 67.05,
+      "end": 69.11,
+      "text": "Có cả chú Lực, có mũ, có còi"
+    },
+    {
+      "t": 69.11,
+      "end": 71.15,
+      "text": "Sáng nay ông trưởng ga xuống kiểm tra"
+    },
+    {
+      "t": 73.27,
+      "end": 77.45,
+      "text": "Hỏi: chú Lực, vé này của ai"
+    },
+    {
+      "t": 79.11,
+      "end": 79.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 79.11,
+      "end": 81.87,
+      "text": "Chú nói: vé tháng đặc biệt"
+    },
+    {
+      "t": 82.43,
+      "end": 82.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.43,
+      "end": 85.53,
+      "text": "Vé tím vé vàng vé tô sáp màu"
+    },
+    {
+      "t": 87.91,
+      "end": 91.89,
+      "text": "Ông trưởng ga gãi đầu, gật gù"
+    },
+    {
+      "t": 95.25,
+      "end": 98.33,
+      "text": "Chú Lực đóng dấu, hợp lệ nhé"
+    },
+    {
+      "t": 100.69,
+      "end": 105.81,
+      "text": "Vé của bé tí, ai dám bắt đâu"
+    },
+    {
+      "t": 107.77,
+      "end": 107.77,
+      "text": "[Bridge - accordion solo, cavaquinho]"
+    },
+    {
+      "t": 107.77,
+      "end": 112.11,
+      "text": "Mẹ nó cười ở đầu toa kia"
+    },
+    {
+      "t": 115.23,
+      "end": 140.5,
+      "text": "Chú dán tấm vé lên tủ phòng trực"
+    },
+    {
+      "t": 141.96,
+      "end": 141.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 141.96,
+      "end": 146.56,
+      "text": "Vé đỏ vé xanh vé tô sáp màu"
+    },
+    {
+      "t": 149.42,
+      "end": 152.46,
+      "text": "Chú Lực đóng dấu, mẹ nó cười"
+    },
+    {
+      "t": 152.74,
+      "end": 157.9,
+      "text": "Tàu điện chạy qua mái nhà"
+    },
+    {
+      "t": 160.26,
+      "end": 165.24,
+      "text": "Vé của bé tí, chú đóng mỗi ngày"
+    },
+    {
+      "t": 167.74,
+      "end": 167.74,
+      "text": "[Outro - accordion, iron scraper]"
+    },
+    {
+      "t": 167.74,
+      "end": 178.92,
+      "text": "Hợp lệ nhé, hợp lệ nhé"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

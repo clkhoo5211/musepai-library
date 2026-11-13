@@ -1,0 +1,534 @@
+{
+  "id": "b21_vi01",
+  "title": "Cuộn Len Thứ Mười Một",
+  "title_source": "scripted",
+  "genre": "Vietnamese yacht rock",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "warm, bashful, quietly smitten",
+  "persona": "",
+  "subject": "A shy young man in a Đà Lạt wool shop is asked to hold a skein of yarn across both hands while a girl winds it into a ball; twenty minutes of facing her undoes him, so he buys a skein every Saturday, owns eleven, cannot knit, and finally lets her teach him the first stitch.",
+  "caption": "Yacht rock, smooth Californian-style soft rock sung in Vietnamese. Rhodes electric piano with soft bell-toned chords, clean chorus-tone electric guitar with light funk strums, fretless bass with round gliding lines, alto saxophone countermelody, drum kit with brushed hi-hat in a relaxed backbeat. Polished late-70s studio sheen, warm analog compression, gentle plate reverb. Male warm light tenor, smooth mid register, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, E-flat major. Bashful, warm, quietly smitten. No rapping, no autotune, no trap hi-hats, no EDM synths, no distorted guitar, no falsetto.",
+  "lyrics": "[Intro - Rhodes piano, clean guitar]\n\n[Verse 1]\nTiệm len Đà Lạt chiều thứ Bảy\nCô bảo: anh giữ giúp em nhé\nHai tay giơ ra, cuộn len vắt ngang\nCô quấn từng vòng, anh quên thở luôn\n\n[Pre-Chorus]\nHai mươi phút ngồi đối diện\nChẳng ai nói được câu nào\n\n[Chorus]\nCuộn len thứ mười một, anh đâu biết đan\nMua thêm để có một chiều nữa\nCô cười: lần sau nhớ giữ chặt\nAnh gật đầu: được, được mà\n\n[Verse 2]\nTủ nhà anh chất đầy len đủ màu\nMẹ hỏi: con đan áo cho ai\nAnh nói: con đang học đan thử\nThật ra con chỉ học đứng yên\n\n[Pre-Chorus]\nMười một cuộn len trong tủ\nChưa có một mũi nào\n\n[Bridge - alto saxophone]\nHôm nay cô bảo: để em dạy anh\nMũi đầu tiên, tay cô chạm tay anh\n\n[Chorus]\nCuộn len thứ mười hai, hai người chung một sợi\nMũi lệch hàng xiêu, anh cười hoài\nCô bảo: lần sau nhớ giữ chặt\nAnh nói: lần nào anh cũng giữ\n\n[Outro - Rhodes piano, saxophone]\nCuộn len thứ mười hai\nAnh giữ chặt rồi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "Eb major",
+    "timesignature": "4",
+    "prompt": "Yacht rock, smooth Californian-style soft rock sung in Vietnamese. Rhodes electric piano with soft bell-toned chords, clean chorus-tone electric guitar with light funk strums, fretless bass with round gliding lines, alto saxophone countermelody, drum kit with brushed hi-hat in a relaxed backbeat. Polished late-70s studio sheen, warm analog compression, gentle plate reverb. Male warm light tenor, smooth mid register, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, E-flat major. Bashful, warm, quietly smitten. No rapping, no autotune, no trap hi-hats, no EDM synths, no distorted guitar, no falsetto.",
+    "lyrics": "[Intro - Rhodes piano, clean guitar]\n\n[Verse 1]\nTiệm len Đà Lạt chiều thứ Bảy\nCô bảo: anh giữ giúp em nhé\nHai tay giơ ra, cuộn len vắt ngang\nCô quấn từng vòng, anh quên thở luôn\n\n[Pre-Chorus]\nHai mươi phút ngồi đối diện\nChẳng ai nói được câu nào\n\n[Chorus]\nCuộn len thứ mười một, anh đâu biết đan\nMua thêm để có một chiều nữa\nCô cười: lần sau nhớ giữ chặt\nAnh gật đầu: được, được mà\n\n[Verse 2]\nTủ nhà anh chất đầy len đủ màu\nMẹ hỏi: con đan áo cho ai\nAnh nói: con đang học đan thử\nThật ra con chỉ học đứng yên\n\n[Pre-Chorus]\nMười một cuộn len trong tủ\nChưa có một mũi nào\n\n[Bridge - alto saxophone]\nHôm nay cô bảo: để em dạy anh\nMũi đầu tiên, tay cô chạm tay anh\n\n[Chorus]\nCuộn len thứ mười hai, hai người chung một sợi\nMũi lệch hàng xiêu, anh cười hoài\nCô bảo: lần sau nhớ giữ chặt\nAnh nói: lần nào anh cũng giữ\n\n[Outro - Rhodes piano, saxophone]\nCuộn len thứ mười hai\nAnh giữ chặt rồi"
+  },
+  "seed": "3369110460",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 87.21s**\n- 87.21s per song\n- LM phase (1 song): 19.12s\n- DiT phase (1 song): 68.09s",
+  "task_id": "30177ff1-ed75-4cd0-a62a-b1a15abb8ba9",
+  "elapsed_s": 130.8,
+  "generated_at": "2026-11-13T16:21:43.244836+08:00",
+  "audio": "b21_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.24,
+      "end": 22.24,
+      "text": "[Intro - Rhodes piano, clean guitar]"
+    },
+    {
+      "t": 22.24,
+      "end": 22.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.24,
+      "end": 27.7,
+      "text": "Tiệm len Đà Lạt chiều thứ Bảy"
+    },
+    {
+      "t": 30.44,
+      "end": 32.42,
+      "text": "Cô bảo: anh giữ giúp em nhé"
+    },
+    {
+      "t": 32.42,
+      "end": 37.78,
+      "text": "Hai tay giơ ra, cuộn len vắt ngang"
+    },
+    {
+      "t": 39.9,
+      "end": 42.78,
+      "text": "Cô quấn từng vòng, anh quên thở luôn"
+    },
+    {
+      "t": 45.18,
+      "end": 45.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.18,
+      "end": 48.14,
+      "text": "Hai mươi phút ngồi đối diện"
+    },
+    {
+      "t": 50.27,
+      "end": 53.27,
+      "text": "Chẳng ai nói được câu nào"
+    },
+    {
+      "t": 57.87,
+      "end": 57.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.87,
+      "end": 60.71,
+      "text": "Cuộn len thứ mười một, anh đâu biết đan"
+    },
+    {
+      "t": 62.33,
+      "end": 66.41,
+      "text": "Mua thêm để có một chiều nữa"
+    },
+    {
+      "t": 69.25,
+      "end": 71.87,
+      "text": "Cô cười: lần sau nhớ giữ chặt"
+    },
+    {
+      "t": 74.37,
+      "end": 76.99,
+      "text": "Anh gật đầu: được, được mà"
+    },
+    {
+      "t": 79.33,
+      "end": 79.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.33,
+      "end": 82.21,
+      "text": "Tủ nhà anh chất đầy len đủ màu"
+    },
+    {
+      "t": 86.53,
+      "end": 89.83,
+      "text": "Mẹ hỏi: con đan áo cho ai"
+    },
+    {
+      "t": 91.57,
+      "end": 93.99,
+      "text": "Anh nói: con đang học đan thử"
+    },
+    {
+      "t": 94.19,
+      "end": 102.07,
+      "text": "Thật ra con chỉ học đứng yên"
+    },
+    {
+      "t": 102.07,
+      "end": 102.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.07,
+      "end": 104.71,
+      "text": "Mười một cuộn len trong tủ"
+    },
+    {
+      "t": 107.97,
+      "end": 110.89,
+      "text": "Chưa có một mũi nào"
+    },
+    {
+      "t": 110.89,
+      "end": 110.89,
+      "text": "[Bridge - alto saxophone]"
+    },
+    {
+      "t": 110.89,
+      "end": 112.87,
+      "text": "Hôm nay cô bảo: để em dạy anh"
+    },
+    {
+      "t": 116.51,
+      "end": 120.73,
+      "text": "Mũi đầu tiên, tay cô chạm tay anh"
+    },
+    {
+      "t": 122.27,
+      "end": 122.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.27,
+      "end": 134.61,
+      "text": "Cuộn len thứ mười hai, hai người chung một sợi"
+    },
+    {
+      "t": 134.61,
+      "end": 150.44,
+      "text": "Mũi lệch hàng xiêu, anh cười hoài"
+    },
+    {
+      "t": 150.68,
+      "end": 153.28,
+      "text": "Cô bảo: lần sau nhớ giữ chặt"
+    },
+    {
+      "t": 153.28,
+      "end": 158.08,
+      "text": "Anh nói: lần nào anh cũng giữ"
+    },
+    {
+      "t": 167.12,
+      "end": 167.12,
+      "text": "[Outro - Rhodes piano, saxophone]"
+    },
+    {
+      "t": 167.12,
+      "end": 171.76,
+      "text": "Cuộn len thứ mười hai"
+    },
+    {
+      "t": 174.48,
+      "end": 176.02,
+      "text": "Anh giữ chặt rồi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.24,
+      "end": 22.24,
+      "text": "[Intro - Rhodes piano, clean guitar]"
+    },
+    {
+      "t": 22.24,
+      "end": 22.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.24,
+      "end": 27.7,
+      "text": "Tiệm len Đà Lạt chiều thứ Bảy"
+    },
+    {
+      "t": 30.44,
+      "end": 32.42,
+      "text": "Cô bảo: anh giữ giúp em nhé"
+    },
+    {
+      "t": 32.42,
+      "end": 37.78,
+      "text": "Hai tay giơ ra, cuộn len vắt ngang"
+    },
+    {
+      "t": 39.9,
+      "end": 42.78,
+      "text": "Cô quấn từng vòng, anh quên thở luôn"
+    },
+    {
+      "t": 45.18,
+      "end": 45.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.18,
+      "end": 48.14,
+      "text": "Hai mươi phút ngồi đối diện"
+    },
+    {
+      "t": 50.27,
+      "end": 53.27,
+      "text": "Chẳng ai nói được câu nào"
+    },
+    {
+      "t": 57.87,
+      "end": 57.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.87,
+      "end": 60.71,
+      "text": "Cuộn len thứ mười một, anh đâu biết đan"
+    },
+    {
+      "t": 62.33,
+      "end": 66.41,
+      "text": "Mua thêm để có một chiều nữa"
+    },
+    {
+      "t": 69.25,
+      "end": 71.87,
+      "text": "Cô cười: lần sau nhớ giữ chặt"
+    },
+    {
+      "t": 74.37,
+      "end": 76.99,
+      "text": "Anh gật đầu: được, được mà"
+    },
+    {
+      "t": 79.33,
+      "end": 79.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.33,
+      "end": 82.21,
+      "text": "Tủ nhà anh chất đầy len đủ màu"
+    },
+    {
+      "t": 86.53,
+      "end": 89.83,
+      "text": "Mẹ hỏi: con đan áo cho ai"
+    },
+    {
+      "t": 91.57,
+      "end": 93.99,
+      "text": "Anh nói: con đang học đan thử"
+    },
+    {
+      "t": 94.19,
+      "end": 102.07,
+      "text": "Thật ra con chỉ học đứng yên"
+    },
+    {
+      "t": 102.07,
+      "end": 102.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.07,
+      "end": 104.71,
+      "text": "Mười một cuộn len trong tủ"
+    },
+    {
+      "t": 107.97,
+      "end": 110.89,
+      "text": "Chưa có một mũi nào"
+    },
+    {
+      "t": 110.89,
+      "end": 110.89,
+      "text": "[Bridge - alto saxophone]"
+    },
+    {
+      "t": 110.89,
+      "end": 112.87,
+      "text": "Hôm nay cô bảo: để em dạy anh"
+    },
+    {
+      "t": 116.51,
+      "end": 120.73,
+      "text": "Mũi đầu tiên, tay cô chạm tay anh"
+    },
+    {
+      "t": 122.27,
+      "end": 122.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.27,
+      "end": 134.61,
+      "text": "Cuộn len thứ mười hai, hai người chung một sợi"
+    },
+    {
+      "t": 134.61,
+      "end": 150.44,
+      "text": "Mũi lệch hàng xiêu, anh cười hoài"
+    },
+    {
+      "t": 150.68,
+      "end": 153.28,
+      "text": "Cô bảo: lần sau nhớ giữ chặt"
+    },
+    {
+      "t": 153.28,
+      "end": 158.08,
+      "text": "Anh nói: lần nào anh cũng giữ"
+    },
+    {
+      "t": 167.12,
+      "end": 167.12,
+      "text": "[Outro - Rhodes piano, saxophone]"
+    },
+    {
+      "t": 167.12,
+      "end": 171.76,
+      "text": "Cuộn len thứ mười hai"
+    },
+    {
+      "t": 174.48,
+      "end": 176.02,
+      "text": "Anh giữ chặt rồi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 22.26,
+      "end": 22.26,
+      "text": "[Intro - Rhodes piano, clean guitar]"
+    },
+    {
+      "t": 22.26,
+      "end": 22.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.26,
+      "end": 25.1,
+      "text": "Tiệm len Đà Lạt chiều thứ Bảy"
+    },
+    {
+      "t": 30.44,
+      "end": 32.42,
+      "text": "Cô bảo: anh giữ giúp em nhé"
+    },
+    {
+      "t": 32.42,
+      "end": 37.74,
+      "text": "Hai tay giơ ra, cuộn len vắt ngang"
+    },
+    {
+      "t": 39.9,
+      "end": 42.76,
+      "text": "Cô quấn từng vòng, anh quên thở luôn"
+    },
+    {
+      "t": 45.2,
+      "end": 45.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.2,
+      "end": 48.12,
+      "text": "Hai mươi phút ngồi đối diện"
+    },
+    {
+      "t": 50.27,
+      "end": 53.23,
+      "text": "Chẳng ai nói được câu nào"
+    },
+    {
+      "t": 57.87,
+      "end": 57.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.87,
+      "end": 60.71,
+      "text": "Cuộn len thứ mười một, anh đâu biết đan"
+    },
+    {
+      "t": 62.33,
+      "end": 66.53,
+      "text": "Mua thêm để có một chiều nữa"
+    },
+    {
+      "t": 69.25,
+      "end": 71.89,
+      "text": "Cô cười: lần sau nhớ giữ chặt"
+    },
+    {
+      "t": 74.37,
+      "end": 76.99,
+      "text": "Anh gật đầu: được, được mà"
+    },
+    {
+      "t": 79.33,
+      "end": 79.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.33,
+      "end": 82.15,
+      "text": "Tủ nhà anh chất đầy len đủ màu"
+    },
+    {
+      "t": 86.53,
+      "end": 89.79,
+      "text": "Mẹ hỏi: con đan áo cho ai"
+    },
+    {
+      "t": 91.57,
+      "end": 94.75,
+      "text": "Anh nói: con đang học đan thử"
+    },
+    {
+      "t": 96.15,
+      "end": 102.07,
+      "text": "Thật ra con chỉ học đứng yên"
+    },
+    {
+      "t": 102.07,
+      "end": 102.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.07,
+      "end": 104.71,
+      "text": "Mười một cuộn len trong tủ"
+    },
+    {
+      "t": 107.97,
+      "end": 110.87,
+      "text": "Chưa có một mũi nào"
+    },
+    {
+      "t": 110.91,
+      "end": 110.91,
+      "text": "[Bridge - alto saxophone]"
+    },
+    {
+      "t": 110.91,
+      "end": 113.77,
+      "text": "Hôm nay cô bảo: để em dạy anh"
+    },
+    {
+      "t": 116.51,
+      "end": 120.73,
+      "text": "Mũi đầu tiên, tay cô chạm tay anh"
+    },
+    {
+      "t": 122.43,
+      "end": 122.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.43,
+      "end": 146.69,
+      "text": "Cuộn len thứ mười hai, hai người chung một sợi"
+    },
+    {
+      "t": 146.69,
+      "end": 148.41,
+      "text": "Mũi lệch hàng xiêu, anh cười hoài"
+    },
+    {
+      "t": 150.68,
+      "end": 153.28,
+      "text": "Cô bảo: lần sau nhớ giữ chặt"
+    },
+    {
+      "t": 153.28,
+      "end": 158.08,
+      "text": "Anh nói: lần nào anh cũng giữ"
+    },
+    {
+      "t": 167.12,
+      "end": 167.12,
+      "text": "[Outro - Rhodes piano, saxophone]"
+    },
+    {
+      "t": 167.12,
+      "end": 171.8,
+      "text": "Cuộn len thứ mười hai"
+    },
+    {
+      "t": 174.48,
+      "end": 176.02,
+      "text": "Anh giữ chặt rồi"
+    }
+  ]
+}

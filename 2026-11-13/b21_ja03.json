@@ -1,0 +1,387 @@
+{
+  "id": "b21_ja03",
+  "title": "半音ずれたラ",
+  "title_source": "scripted",
+  "genre": "Japanese neoclassical piano-and-cello ballad",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "tender, still, warm love song",
+  "persona": "",
+  "subject": "a piano tuner at an old couple's house whose upright has one A key slightly flat; the husband has played the same wrong note for forty years and the wife asks him to leave it exactly as it is",
+  "caption": "Modern neoclassical chamber ballad led by felt-damped upright piano playing slow broken chords and single-note melodies, a solo cello holding long warm lines under the verses, a few sustained string quartet chords in the final chorus, very light brushed percussion only in the last chorus. Intimate chamber-room recording with natural hall reverb and close piano mics. Warm male baritone, full mid register, even and unhurried. Clear full voice, every word enunciated, steady sung melody on every line. 68 BPM, C major. Mood: tender, still and warm. No rap, no autotune, no drum kit, no electric guitar, no synth pads, no pop drop.",
+  "lyrics": "[Intro - solo piano, then cello]\n\n[Verse 1]\n古いアップライトの 蓋をあける\nラの音だけ ほんの少し低い\n「直しますね」と言ったとき\n奥さんが 首を横にふった\n\n[Pre-Chorus]\n四十年 主人が弾いてきた\nいつもそこで 少し笑うの\n\n[Chorus]\n半音ずれたラ そのままで\nあの人の指が 毎晩さがす音\n半音ずれたラ そのままで\nほかの音は ぼくが直した\n\n[Verse 2]\nほかの八十七の鍵を\nひとつずつ ぼくは合わせた\n台所から 湯気の音がして\nご主人が 帰ってきた\n\n[Chorus]\n半音ずれたラ そのままで\n二人の足音に よく合う音\n半音ずれたラ そのままで\n聞こえるたびに 家に帰れる\n\n[Bridge - cello alone]\n道具をしまう ぼくの背中で\nご主人が 弾きはじめる\nラのところで 奥さんが歌った\n\n[Chorus]\n半音ずれたラ そのままで\n今日からぼくも 好きになった\n半音ずれたラ そのままで\n蓋をそっと 閉じた\n\n[Outro - piano, last note held]\nラの音がひとつ 低く響く",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 68,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "2",
+    "prompt": "Modern neoclassical chamber ballad led by felt-damped upright piano playing slow broken chords and single-note melodies, a solo cello holding long warm lines under the verses, a few sustained string quartet chords in the final chorus, very light brushed percussion only in the last chorus. Intimate chamber-room recording with natural hall reverb and close piano mics. Warm male baritone, full mid register, even and unhurried. Clear full voice, every word enunciated, steady sung melody on every line. 68 BPM, C major. Mood: tender, still and warm. No rap, no autotune, no drum kit, no electric guitar, no synth pads, no pop drop.",
+    "lyrics": "[Intro - solo piano, then cello]\n\n[Verse 1]\n古いアップライトの 蓋をあける\nラの音だけ ほんの少し低い\n「直しますね」と言ったとき\n奥さんが 首を横にふった\n\n[Pre-Chorus]\n四十年 主人が弾いてきた\nいつもそこで 少し笑うの\n\n[Chorus]\n半音ずれたラ そのままで\nあの人の指が 毎晩さがす音\n半音ずれたラ そのままで\nほかの音は ぼくが直した\n\n[Verse 2]\nほかの八十七の鍵を\nひとつずつ ぼくは合わせた\n台所から 湯気の音がして\nご主人が 帰ってきた\n\n[Chorus]\n半音ずれたラ そのままで\n二人の足音に よく合う音\n半音ずれたラ そのままで\n聞こえるたびに 家に帰れる\n\n[Bridge - cello alone]\n道具をしまう ぼくの背中で\nご主人が 弾きはじめる\nラのところで 奥さんが歌った\n\n[Chorus]\n半音ずれたラ そのままで\n今日からぼくも 好きになった\n半音ずれたラ そのままで\n蓋をそっと 閉じた\n\n[Outro - piano, last note held]\nラの音がひとつ 低く響く"
+  },
+  "seed": "346671064",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 77.21s**\n- 77.21s per song\n- LM phase (1 song): 14.68s\n- DiT phase (1 song): 62.53s",
+  "task_id": "99c67ee7-0730-447d-a6ae-622d531955d9",
+  "elapsed_s": 110.6,
+  "generated_at": "2026-11-13T15:20:58.902038+08:00",
+  "audio": "b21_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.86,
+      "end": 28.86,
+      "text": "[Intro - solo piano, then cello]"
+    },
+    {
+      "t": 28.86,
+      "end": 28.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.86,
+      "end": 33.0,
+      "text": "古いアップライトの 蓋をあける"
+    },
+    {
+      "t": 35.1,
+      "end": 40.8,
+      "text": "ラの音だけ ほんの少し低い"
+    },
+    {
+      "t": 45.24,
+      "end": 48.92,
+      "text": "「直しますね」と言ったとき"
+    },
+    {
+      "t": 51.06,
+      "end": 54.35,
+      "text": "奥さんが 首を横にふった"
+    },
+    {
+      "t": 54.35,
+      "end": 54.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.35,
+      "end": 55.95,
+      "text": "四十年 主人が弾いてきた"
+    },
+    {
+      "t": 56.11,
+      "end": 59.33,
+      "text": "いつもそこで 少し笑うの"
+    },
+    {
+      "t": 59.37,
+      "end": 59.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.37,
+      "end": 62.55,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 62.55,
+      "end": 64.37,
+      "text": "あの人の指が 毎晩さがす音"
+    },
+    {
+      "t": 65.01,
+      "end": 67.03,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 68.05,
+      "end": 69.89,
+      "text": "ほかの音は ぼくが直した"
+    },
+    {
+      "t": 70.05,
+      "end": 70.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.05,
+      "end": 72.87,
+      "text": "ほかの八十七の鍵を"
+    },
+    {
+      "t": 73.01,
+      "end": 74.73,
+      "text": "ひとつずつ ぼくは合わせた"
+    },
+    {
+      "t": 74.81,
+      "end": 79.93,
+      "text": "台所から 湯気の音がして"
+    },
+    {
+      "t": 79.97,
+      "end": 81.17,
+      "text": "ご主人が 帰ってきた"
+    },
+    {
+      "t": 81.17,
+      "end": 81.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.17,
+      "end": 82.75,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 82.77,
+      "end": 84.17,
+      "text": "二人の足音に よく合う音"
+    },
+    {
+      "t": 86.65,
+      "end": 92.99,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 94.35,
+      "end": 99.83,
+      "text": "聞こえるたびに 家に帰れる"
+    },
+    {
+      "t": 111.79,
+      "end": 111.79,
+      "text": "[Bridge - cello alone]"
+    },
+    {
+      "t": 111.79,
+      "end": 117.09,
+      "text": "道具をしまう ぼくの背中で"
+    },
+    {
+      "t": 119.09,
+      "end": 122.11,
+      "text": "ご主人が 弾きはじめる"
+    },
+    {
+      "t": 122.41,
+      "end": 125.61,
+      "text": "ラのところで 奥さんが歌った"
+    },
+    {
+      "t": 145.73,
+      "end": 145.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.73,
+      "end": 149.87,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 152.55,
+      "end": 155.4,
+      "text": "今日からぼくも 好きになった"
+    },
+    {
+      "t": 155.4,
+      "end": 164.62,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 164.9,
+      "end": 169.42,
+      "text": "蓋をそっと 閉じた"
+    },
+    {
+      "t": 187.88,
+      "end": 187.88,
+      "text": "[Outro - piano, last note held]"
+    },
+    {
+      "t": 187.88,
+      "end": 194.26,
+      "text": "ラの音がひとつ 低く響く"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.88,
+      "end": 28.88,
+      "text": "[Intro - solo piano, then cello]"
+    },
+    {
+      "t": 28.88,
+      "end": 28.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.88,
+      "end": 33.0,
+      "text": "古いアップライトの 蓋をあける"
+    },
+    {
+      "t": 35.1,
+      "end": 39.54,
+      "text": "ラの音だけ ほんの少し低い"
+    },
+    {
+      "t": 39.54,
+      "end": 44.56,
+      "text": "「直しますね」と言ったとき"
+    },
+    {
+      "t": 44.76,
+      "end": 46.28,
+      "text": "奥さんが 首を横にふった"
+    },
+    {
+      "t": 46.28,
+      "end": 46.28,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.28,
+      "end": 48.2,
+      "text": "四十年 主人が弾いてきた"
+    },
+    {
+      "t": 48.3,
+      "end": 51.93,
+      "text": "いつもそこで 少し笑うの"
+    },
+    {
+      "t": 52.33,
+      "end": 52.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.33,
+      "end": 54.19,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 54.23,
+      "end": 58.65,
+      "text": "あの人の指が 毎晩さがす音"
+    },
+    {
+      "t": 58.73,
+      "end": 60.25,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 60.25,
+      "end": 62.89,
+      "text": "ほかの音は ぼくが直した"
+    },
+    {
+      "t": 62.89,
+      "end": 62.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.89,
+      "end": 63.49,
+      "text": "ほかの八十七の鍵を"
+    },
+    {
+      "t": 63.49,
+      "end": 66.31,
+      "text": "ひとつずつ ぼくは合わせた"
+    },
+    {
+      "t": 66.31,
+      "end": 69.19,
+      "text": "台所から 湯気の音がして"
+    },
+    {
+      "t": 69.29,
+      "end": 72.69,
+      "text": "ご主人が 帰ってきた"
+    },
+    {
+      "t": 72.83,
+      "end": 72.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 72.83,
+      "end": 76.71,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 80.31,
+      "end": 84.03,
+      "text": "二人の足音に よく合う音"
+    },
+    {
+      "t": 86.65,
+      "end": 92.99,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 94.35,
+      "end": 99.85,
+      "text": "聞こえるたびに 家に帰れる"
+    },
+    {
+      "t": 111.79,
+      "end": 111.79,
+      "text": "[Bridge - cello alone]"
+    },
+    {
+      "t": 111.79,
+      "end": 117.09,
+      "text": "道具をしまう ぼくの背中で"
+    },
+    {
+      "t": 119.09,
+      "end": 122.11,
+      "text": "ご主人が 弾きはじめる"
+    },
+    {
+      "t": 122.41,
+      "end": 133.81,
+      "text": "ラのところで 奥さんが歌った"
+    },
+    {
+      "t": 145.73,
+      "end": 145.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.73,
+      "end": 149.87,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 152.59,
+      "end": 162.46,
+      "text": "今日からぼくも 好きになった"
+    },
+    {
+      "t": 164.46,
+      "end": 174.64,
+      "text": "半音ずれたラ そのままで"
+    },
+    {
+      "t": 174.96,
+      "end": 184.82,
+      "text": "蓋をそっと 閉じた"
+    },
+    {
+      "t": 187.88,
+      "end": 187.88,
+      "text": "[Outro - piano, last note held]"
+    },
+    {
+      "t": 187.88,
+      "end": 194.42,
+      "text": "ラの音がひとつ 低く響く"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

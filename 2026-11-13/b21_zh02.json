@@ -1,0 +1,579 @@
+{
+  "id": "b21_zh02",
+  "title": "磨到剩一片柳葉",
+  "title_source": "scripted",
+  "genre": "Mandarin Nordic folk with nyckelharpa",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "patient, tender, quietly proud",
+  "persona": "",
+  "subject": "a hotel kitchen apprentice who inherits the retired chef's thirty-year-old cleaver, worn narrow as a willow leaf, resists changing its shape on the whetstone, and finds the handle already dented to fit his thumb",
+  "caption": "Mandarin Nordic folk with nyckelharpa, slow 6/8 Swedish-Finnish forest-village folk ballad. Nyckelharpa playing a slow droning melody, fiddle in close harmony, kantele plucked in steady 6/8 arpeggios, soft frame drum pulse, double bass holding long root notes. Dry close-miked wooden-room acoustic recording with natural air. Male lead, warm baritone, steady and plain, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, D minor. patient, tender, quietly proud mood. No rap, no drum kit, no electric guitar, no synth, no autotune, no pop ballad strings.",
+  "lyrics": "[Intro - nyckelharpa, kantele arpeggio]\n\n[Verse 1]\n師傅留下一把菜刀\n刀背黑黑 刀身窄窄\n三十年磨成 一片柳葉\n我接過來 不敢用力\n\n[Pre-Chorus]\n石頭先泡水 泡到不冒泡\n一百下 我數出聲\n\n[Chorus]\n來回 來回 一百下\n刀要薄 手要穩\n我磨掉的 是他的鋼\n留下來的 是他的手勢\n\n[Verse 2]\n今天頭一回 切番茄給他看\n刀一落下 紅片薄得透光\n師傅不說話 只把圍裙拉直\n\n[Pre-Chorus]\n水槽邊 一滴水掉在石頭上\n我停了手 他也沒催\n\n[Chorus]\n來回 來回 一百下\n刀要薄 手要穩\n我磨掉的 是他的鋼\n留下來的 是我的力氣\n\n[Bridge - kantele alone, frame drum soft]\n刀柄上凹了一小塊\n剛好放得下 我的拇指\n\n[Chorus]\n來回 來回 一百下\n刀要薄 手要穩\n我磨掉的 是他的鋼\n留下來的 是我們的刀\n\n[Outro - nyckelharpa, fade]\n磨好了 放回原來的位置",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Mandarin Nordic folk with nyckelharpa, slow 6/8 Swedish-Finnish forest-village folk ballad. Nyckelharpa playing a slow droning melody, fiddle in close harmony, kantele plucked in steady 6/8 arpeggios, soft frame drum pulse, double bass holding long root notes. Dry close-miked wooden-room acoustic recording with natural air. Male lead, warm baritone, steady and plain, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, D minor. patient, tender, quietly proud mood. No rap, no drum kit, no electric guitar, no synth, no autotune, no pop ballad strings.",
+    "lyrics": "[Intro - nyckelharpa, kantele arpeggio]\n\n[Verse 1]\n師傅留下一把菜刀\n刀背黑黑 刀身窄窄\n三十年磨成 一片柳葉\n我接過來 不敢用力\n\n[Pre-Chorus]\n石頭先泡水 泡到不冒泡\n一百下 我數出聲\n\n[Chorus]\n來回 來回 一百下\n刀要薄 手要穩\n我磨掉的 是他的鋼\n留下來的 是他的手勢\n\n[Verse 2]\n今天頭一回 切番茄給他看\n刀一落下 紅片薄得透光\n師傅不說話 只把圍裙拉直\n\n[Pre-Chorus]\n水槽邊 一滴水掉在石頭上\n我停了手 他也沒催\n\n[Chorus]\n來回 來回 一百下\n刀要薄 手要穩\n我磨掉的 是他的鋼\n留下來的 是我的力氣\n\n[Bridge - kantele alone, frame drum soft]\n刀柄上凹了一小塊\n剛好放得下 我的拇指\n\n[Chorus]\n來回 來回 一百下\n刀要薄 手要穩\n我磨掉的 是他的鋼\n留下來的 是我們的刀\n\n[Outro - nyckelharpa, fade]\n磨好了 放回原來的位置\n"
+  },
+  "seed": "1586660888",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.60s**\n- 62.60s per song\n- LM phase (1 song): 11.93s\n- DiT phase (1 song): 50.68s",
+  "task_id": "f230a507-2a3e-4d34-b30e-e47b3d483d14",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-13T15:11:57.735705+08:00",
+  "audio": "b21_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Intro - nyckelharpa, kantele arpeggio]"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.72,
+      "end": 32.24,
+      "text": "師傅留下一把菜刀"
+    },
+    {
+      "t": 34.28,
+      "end": 37.6,
+      "text": "刀背黑黑 刀身窄窄"
+    },
+    {
+      "t": 37.78,
+      "end": 40.46,
+      "text": "三十年磨成 一片柳葉"
+    },
+    {
+      "t": 40.46,
+      "end": 42.92,
+      "text": "我接過來 不敢用力"
+    },
+    {
+      "t": 42.92,
+      "end": 42.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.92,
+      "end": 46.8,
+      "text": "石頭先泡水 泡到不冒泡"
+    },
+    {
+      "t": 46.8,
+      "end": 49.14,
+      "text": "一百下 我數出聲"
+    },
+    {
+      "t": 49.92,
+      "end": 49.92,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.92,
+      "end": 53.53,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 54.05,
+      "end": 59.61,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 60.53,
+      "end": 65.23,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 65.37,
+      "end": 70.31,
+      "text": "留下來的 是他的手勢"
+    },
+    {
+      "t": 70.89,
+      "end": 70.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.89,
+      "end": 85.61,
+      "text": "今天頭一回 切番茄給他看"
+    },
+    {
+      "t": 85.99,
+      "end": 88.27,
+      "text": "刀一落下 紅片薄得透光"
+    },
+    {
+      "t": 88.37,
+      "end": 89.55,
+      "text": "師傅不說話 只把圍裙拉直"
+    },
+    {
+      "t": 90.05,
+      "end": 90.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.05,
+      "end": 92.17,
+      "text": "水槽邊 一滴水掉在石頭上"
+    },
+    {
+      "t": 92.19,
+      "end": 95.73,
+      "text": "我停了手 他也沒催"
+    },
+    {
+      "t": 95.73,
+      "end": 95.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.73,
+      "end": 104.07,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 104.17,
+      "end": 107.05,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 107.05,
+      "end": 117.63,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 117.63,
+      "end": 137.39,
+      "text": "留下來的 是我的力氣"
+    },
+    {
+      "t": 137.39,
+      "end": 137.39,
+      "text": "[Bridge - kantele alone, frame drum soft]"
+    },
+    {
+      "t": 137.39,
+      "end": 140.07,
+      "text": "刀柄上凹了一小塊"
+    },
+    {
+      "t": 149.31,
+      "end": 156.36,
+      "text": "剛好放得下 我的拇指"
+    },
+    {
+      "t": 158.0,
+      "end": 158.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.0,
+      "end": 161.24,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 161.76,
+      "end": 177.54,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 177.58,
+      "end": 185.26,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 185.34,
+      "end": 186.58,
+      "text": "留下來的 是我們的刀"
+    },
+    {
+      "t": 186.58,
+      "end": 186.58,
+      "text": "[Outro - nyckelharpa, fade]"
+    },
+    {
+      "t": 186.58,
+      "end": 190.62,
+      "text": "磨好了 放回原來的位置"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Intro - nyckelharpa, kantele arpeggio]"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.72,
+      "end": 32.24,
+      "text": "師傅留下一把菜刀"
+    },
+    {
+      "t": 34.28,
+      "end": 37.6,
+      "text": "刀背黑黑 刀身窄窄"
+    },
+    {
+      "t": 37.78,
+      "end": 40.46,
+      "text": "三十年磨成 一片柳葉"
+    },
+    {
+      "t": 40.46,
+      "end": 42.92,
+      "text": "我接過來 不敢用力"
+    },
+    {
+      "t": 42.92,
+      "end": 42.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.92,
+      "end": 46.8,
+      "text": "石頭先泡水 泡到不冒泡"
+    },
+    {
+      "t": 46.8,
+      "end": 49.14,
+      "text": "一百下 我數出聲"
+    },
+    {
+      "t": 49.92,
+      "end": 49.92,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.92,
+      "end": 53.53,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 54.05,
+      "end": 59.61,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 60.53,
+      "end": 65.23,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 65.37,
+      "end": 70.31,
+      "text": "留下來的 是他的手勢"
+    },
+    {
+      "t": 70.89,
+      "end": 70.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.89,
+      "end": 85.61,
+      "text": "今天頭一回 切番茄給他看"
+    },
+    {
+      "t": 85.99,
+      "end": 88.27,
+      "text": "刀一落下 紅片薄得透光"
+    },
+    {
+      "t": 88.37,
+      "end": 89.55,
+      "text": "師傅不說話 只把圍裙拉直"
+    },
+    {
+      "t": 90.05,
+      "end": 90.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.05,
+      "end": 92.17,
+      "text": "水槽邊 一滴水掉在石頭上"
+    },
+    {
+      "t": 92.19,
+      "end": 95.73,
+      "text": "我停了手 他也沒催"
+    },
+    {
+      "t": 95.73,
+      "end": 95.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.73,
+      "end": 104.07,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 104.17,
+      "end": 107.05,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 107.05,
+      "end": 117.63,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 117.63,
+      "end": 137.39,
+      "text": "留下來的 是我的力氣"
+    },
+    {
+      "t": 137.39,
+      "end": 137.39,
+      "text": "[Bridge - kantele alone, frame drum soft]"
+    },
+    {
+      "t": 137.39,
+      "end": 140.07,
+      "text": "刀柄上凹了一小塊"
+    },
+    {
+      "t": 149.31,
+      "end": 156.36,
+      "text": "剛好放得下 我的拇指"
+    },
+    {
+      "t": 158.0,
+      "end": 158.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.0,
+      "end": 161.24,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 161.76,
+      "end": 177.54,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 177.58,
+      "end": 185.26,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 185.34,
+      "end": 186.58,
+      "text": "留下來的 是我們的刀"
+    },
+    {
+      "t": 186.58,
+      "end": 186.58,
+      "text": "[Outro - nyckelharpa, fade]"
+    },
+    {
+      "t": 186.58,
+      "end": 190.62,
+      "text": "磨好了 放回原來的位置"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Intro - nyckelharpa, kantele arpeggio]"
+    },
+    {
+      "t": 28.72,
+      "end": 28.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.72,
+      "end": 32.3,
+      "text": "師傅留下一把菜刀"
+    },
+    {
+      "t": 34.28,
+      "end": 37.82,
+      "text": "刀背黑黑 刀身窄窄"
+    },
+    {
+      "t": 37.82,
+      "end": 40.46,
+      "text": "三十年磨成 一片柳葉"
+    },
+    {
+      "t": 40.46,
+      "end": 42.94,
+      "text": "我接過來 不敢用力"
+    },
+    {
+      "t": 42.94,
+      "end": 42.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.94,
+      "end": 47.04,
+      "text": "石頭先泡水 泡到不冒泡"
+    },
+    {
+      "t": 47.16,
+      "end": 48.96,
+      "text": "一百下 我數出聲"
+    },
+    {
+      "t": 49.94,
+      "end": 49.94,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.94,
+      "end": 53.05,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 53.05,
+      "end": 56.57,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 56.57,
+      "end": 59.17,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 59.19,
+      "end": 63.55,
+      "text": "留下來的 是他的手勢"
+    },
+    {
+      "t": 63.55,
+      "end": 63.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 63.55,
+      "end": 65.35,
+      "text": "今天頭一回 切番茄給他看"
+    },
+    {
+      "t": 65.35,
+      "end": 67.03,
+      "text": "刀一落下 紅片薄得透光"
+    },
+    {
+      "t": 67.03,
+      "end": 72.63,
+      "text": "師傅不說話 只把圍裙拉直"
+    },
+    {
+      "t": 78.69,
+      "end": 78.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.69,
+      "end": 84.11,
+      "text": "水槽邊 一滴水掉在石頭上"
+    },
+    {
+      "t": 84.11,
+      "end": 84.85,
+      "text": "我停了手 他也沒催"
+    },
+    {
+      "t": 84.97,
+      "end": 84.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 84.97,
+      "end": 86.01,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 86.01,
+      "end": 88.25,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 88.39,
+      "end": 91.25,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 91.79,
+      "end": 96.33,
+      "text": "留下來的 是我的力氣"
+    },
+    {
+      "t": 137.39,
+      "end": 137.39,
+      "text": "[Bridge - kantele alone, frame drum soft]"
+    },
+    {
+      "t": 137.39,
+      "end": 140.05,
+      "text": "刀柄上凹了一小塊"
+    },
+    {
+      "t": 144.57,
+      "end": 156.36,
+      "text": "剛好放得下 我的拇指"
+    },
+    {
+      "t": 158.0,
+      "end": 158.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 158.0,
+      "end": 160.44,
+      "text": "來回 來回 一百下"
+    },
+    {
+      "t": 160.44,
+      "end": 161.48,
+      "text": "刀要薄 手要穩"
+    },
+    {
+      "t": 161.48,
+      "end": 163.74,
+      "text": "我磨掉的 是他的鋼"
+    },
+    {
+      "t": 163.82,
+      "end": 167.58,
+      "text": "留下來的 是我們的刀"
+    },
+    {
+      "t": 180.9,
+      "end": 180.9,
+      "text": "[Outro - nyckelharpa, fade]"
+    },
+    {
+      "t": 180.9,
+      "end": 186.84,
+      "text": "磨好了 放回原來的位置"
+    }
+  ]
+}

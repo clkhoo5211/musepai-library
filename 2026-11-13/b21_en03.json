@@ -1,0 +1,397 @@
+{
+  "id": "b21_en03",
+  "title": "Floor Thirty-One",
+  "title_source": "scripted",
+  "genre": "Ghanaian-style highlife",
+  "language": "en",
+  "language_name": "English",
+  "mood": "playful, warm, rolling",
+  "persona": "",
+  "subject": "A Lagos high-rise window cleaner on a rope seat watches a man on floor thirty-one rehearse his resignation speech to the glass every Tuesday, nods him on, and the man finally quits and waves the cleaner in for coffee.",
+  "caption": "Ghanaian-style highlife with a Lagos flavour. Two interlocking clean electric guitars in bright highlife picking, bubbling melodic bass, trumpet and alto sax playing short riffs between lines, congas with clave and shaker, relaxed rolling groove. Live-band room sound, bright horns, warm vintage mix. Male baritone lead with a small call-and-response group answering, cheerful and warm. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, G major. Playful, warm, rolling. No rap, no autotune, no electronic drums, no synth bass, no distorted guitar, no trap hi-hats.",
+  "lyrics": "[Intro - interlocking guitars, congas, horn riff]\n\n[Verse 1]\nI hang outside on a yellow rope\nThirty floors above Victoria Island\nSqueegee in my hand, bucket on my knee\nNobody looks at the man on the glass\n\n[Pre-Chorus]\nBut floor thirty-one, on Tuesday morning\nA man in a tie is talking to me\n\n[Chorus]\nSay it, oga, say it to the window\nI will clean it clear, I will not tell\nFloor thirty-one, say it to the window\nTell your boss goodbye, I'm right here\n\n[Verse 2]\nThree Tuesdays he practised with a shaking hand\nDear sir, I resign, thank you for the years\nI wipe the corner slowly, I nod my head\nHe bows to the glass like a man on stage\n\n[Pre-Chorus]\nThen a Tuesday came and he did not stop\nHe walked to the office with his box\n\n[Chorus]\nHe said it, oga, he said it to the boss\nI watched him leave through the glass\nFloor thirty-one, he's standing on the street\nWaving up at me with two cups of coffee\n\n[Bridge - guitars and congas only]\nCome down, the rope can wait an hour\n\n[Chorus]\nSay it, oga, say it to the window\nNow the window says it back to you\nFloor thirty-one, I'm swinging down to coffee\nSqueegee in my belt and the city below\n\n[Outro - horns and guitars, groove fades]\nFloor thirty-one",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Ghanaian-style highlife with a Lagos flavour. Two interlocking clean electric guitars in bright highlife picking, bubbling melodic bass, trumpet and alto sax playing short riffs between lines, congas with clave and shaker, relaxed rolling groove. Live-band room sound, bright horns, warm vintage mix. Male baritone lead with a small call-and-response group answering, cheerful and warm. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, G major. Playful, warm, rolling. No rap, no autotune, no electronic drums, no synth bass, no distorted guitar, no trap hi-hats.",
+    "lyrics": "[Intro - interlocking guitars, congas, horn riff]\n\n[Verse 1]\nI hang outside on a yellow rope\nThirty floors above Victoria Island\nSqueegee in my hand, bucket on my knee\nNobody looks at the man on the glass\n\n[Pre-Chorus]\nBut floor thirty-one, on Tuesday morning\nA man in a tie is talking to me\n\n[Chorus]\nSay it, oga, say it to the window\nI will clean it clear, I will not tell\nFloor thirty-one, say it to the window\nTell your boss goodbye, I'm right here\n\n[Verse 2]\nThree Tuesdays he practised with a shaking hand\nDear sir, I resign, thank you for the years\nI wipe the corner slowly, I nod my head\nHe bows to the glass like a man on stage\n\n[Pre-Chorus]\nThen a Tuesday came and he did not stop\nHe walked to the office with his box\n\n[Chorus]\nHe said it, oga, he said it to the boss\nI watched him leave through the glass\nFloor thirty-one, he's standing on the street\nWaving up at me with two cups of coffee\n\n[Bridge - guitars and congas only]\nCome down, the rope can wait an hour\n\n[Chorus]\nSay it, oga, say it to the window\nNow the window says it back to you\nFloor thirty-one, I'm swinging down to coffee\nSqueegee in my belt and the city below\n\n[Outro - horns and guitars, groove fades]\nFloor thirty-one"
+  },
+  "seed": "2186855317",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 85.90s**\n- 85.90s per song\n- LM phase (1 song): 16.65s\n- DiT phase (1 song): 69.25s",
+  "task_id": "64a000a1-a67d-4384-a162-781dda3e652c",
+  "elapsed_s": 111.0,
+  "generated_at": "2026-11-13T15:05:57.390801+08:00",
+  "audio": "b21_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.22,
+      "end": 26.22,
+      "text": "[Intro - interlocking guitars, congas, horn riff]"
+    },
+    {
+      "t": 26.22,
+      "end": 26.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.22,
+      "end": 28.68,
+      "text": "I hang outside on a yellow rope"
+    },
+    {
+      "t": 30.82,
+      "end": 34.1,
+      "text": "Thirty floors above Victoria Island"
+    },
+    {
+      "t": 35.28,
+      "end": 39.14,
+      "text": "Squeegee in my hand, bucket on my knee"
+    },
+    {
+      "t": 39.92,
+      "end": 43.68,
+      "text": "Nobody looks at the man on the glass"
+    },
+    {
+      "t": 44.74,
+      "end": 44.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.74,
+      "end": 48.28,
+      "text": "But floor thirty-one, on Tuesday morning"
+    },
+    {
+      "t": 49.58,
+      "end": 56.81,
+      "text": "A man in a tie is talking to me"
+    },
+    {
+      "t": 58.27,
+      "end": 58.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.27,
+      "end": 60.99,
+      "text": "Say it, oga, say it to the window"
+    },
+    {
+      "t": 62.15,
+      "end": 65.15,
+      "text": "I will clean it clear, I will not tell"
+    },
+    {
+      "t": 66.81,
+      "end": 69.55,
+      "text": "Floor thirty-one, say it to the window"
+    },
+    {
+      "t": 71.13,
+      "end": 73.67,
+      "text": "Tell your boss goodbye, I'm right here"
+    },
+    {
+      "t": 79.17,
+      "end": 79.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.17,
+      "end": 82.97,
+      "text": "Three Tuesdays he practised with a shaking hand"
+    },
+    {
+      "t": 83.49,
+      "end": 87.89,
+      "text": "Dear sir, I resign, thank you for the years"
+    },
+    {
+      "t": 87.89,
+      "end": 91.53,
+      "text": "I wipe the corner slowly, I nod my head"
+    },
+    {
+      "t": 91.95,
+      "end": 96.19,
+      "text": "He bows to the glass like a man on stage"
+    },
+    {
+      "t": 96.75,
+      "end": 96.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.75,
+      "end": 100.17,
+      "text": "Then a Tuesday came and he did not stop"
+    },
+    {
+      "t": 100.49,
+      "end": 103.39,
+      "text": "He walked to the office with his box"
+    },
+    {
+      "t": 107.89,
+      "end": 107.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.89,
+      "end": 111.19,
+      "text": "He said it, oga, he said it to the boss"
+    },
+    {
+      "t": 111.19,
+      "end": 114.09,
+      "text": "I watched him leave through the glass"
+    },
+    {
+      "t": 116.83,
+      "end": 122.17,
+      "text": "Floor thirty-one, he's standing on the street"
+    },
+    {
+      "t": 125.31,
+      "end": 132.81,
+      "text": "Waving up at me with two cups of coffee"
+    },
+    {
+      "t": 132.93,
+      "end": 132.93,
+      "text": "[Bridge - guitars and congas only]"
+    },
+    {
+      "t": 132.93,
+      "end": 137.39,
+      "text": "Come down, the rope can wait an hour"
+    },
+    {
+      "t": 147.95,
+      "end": 147.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.95,
+      "end": 151.61,
+      "text": "Say it, oga, say it to the window"
+    },
+    {
+      "t": 156.5,
+      "end": 162.72,
+      "text": "Now the window says it back to you"
+    },
+    {
+      "t": 165.56,
+      "end": 169.1,
+      "text": "Floor thirty-one, I'm swinging down to coffee"
+    },
+    {
+      "t": 170.1,
+      "end": 175.4,
+      "text": "Squeegee in my belt and the city below"
+    },
+    {
+      "t": 200.02,
+      "end": 200.02,
+      "text": "[Outro - horns and guitars, groove fades]"
+    },
+    {
+      "t": 200.02,
+      "end": 201.16,
+      "text": "Floor thirty-one"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.34,
+      "end": 26.34,
+      "text": "[Intro - interlocking guitars, congas, horn riff]"
+    },
+    {
+      "t": 26.34,
+      "end": 26.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.34,
+      "end": 28.68,
+      "text": "I hang outside on a yellow rope"
+    },
+    {
+      "t": 30.82,
+      "end": 34.1,
+      "text": "Thirty floors above Victoria Island"
+    },
+    {
+      "t": 35.3,
+      "end": 39.08,
+      "text": "Squeegee in my hand, bucket on my knee"
+    },
+    {
+      "t": 39.92,
+      "end": 43.66,
+      "text": "Nobody looks at the man on the glass"
+    },
+    {
+      "t": 44.74,
+      "end": 44.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.74,
+      "end": 48.28,
+      "text": "But floor thirty-one, on Tuesday morning"
+    },
+    {
+      "t": 49.58,
+      "end": 56.81,
+      "text": "A man in a tie is talking to me"
+    },
+    {
+      "t": 58.27,
+      "end": 58.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.27,
+      "end": 60.99,
+      "text": "Say it, oga, say it to the window"
+    },
+    {
+      "t": 62.15,
+      "end": 65.17,
+      "text": "I will clean it clear, I will not tell"
+    },
+    {
+      "t": 66.81,
+      "end": 69.57,
+      "text": "Floor thirty-one, say it to the window"
+    },
+    {
+      "t": 71.13,
+      "end": 73.69,
+      "text": "Tell your boss goodbye, I'm right here"
+    },
+    {
+      "t": 79.17,
+      "end": 79.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.17,
+      "end": 82.95,
+      "text": "Three Tuesdays he practised with a shaking hand"
+    },
+    {
+      "t": 83.49,
+      "end": 87.89,
+      "text": "Dear sir, I resign, thank you for the years"
+    },
+    {
+      "t": 87.89,
+      "end": 91.51,
+      "text": "I wipe the corner slowly, I nod my head"
+    },
+    {
+      "t": 91.97,
+      "end": 96.19,
+      "text": "He bows to the glass like a man on stage"
+    },
+    {
+      "t": 96.75,
+      "end": 96.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 96.75,
+      "end": 100.17,
+      "text": "Then a Tuesday came and he did not stop"
+    },
+    {
+      "t": 100.49,
+      "end": 103.39,
+      "text": "He walked to the office with his box"
+    },
+    {
+      "t": 103.41,
+      "end": 103.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.41,
+      "end": 111.07,
+      "text": "He said it, oga, he said it to the boss"
+    },
+    {
+      "t": 111.07,
+      "end": 114.05,
+      "text": "I watched him leave through the glass"
+    },
+    {
+      "t": 116.83,
+      "end": 122.19,
+      "text": "Floor thirty-one, he's standing on the street"
+    },
+    {
+      "t": 125.31,
+      "end": 131.05,
+      "text": "Waving up at me with two cups of coffee"
+    },
+    {
+      "t": 132.93,
+      "end": 132.93,
+      "text": "[Bridge - guitars and congas only]"
+    },
+    {
+      "t": 132.93,
+      "end": 137.23,
+      "text": "Come down, the rope can wait an hour"
+    },
+    {
+      "t": 147.95,
+      "end": 147.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.95,
+      "end": 151.79,
+      "text": "Say it, oga, say it to the window"
+    },
+    {
+      "t": 156.52,
+      "end": 162.52,
+      "text": "Now the window says it back to you"
+    },
+    {
+      "t": 165.56,
+      "end": 169.1,
+      "text": "Floor thirty-one, I'm swinging down to coffee"
+    },
+    {
+      "t": 170.1,
+      "end": 175.4,
+      "text": "Squeegee in my belt and the city below"
+    },
+    {
+      "t": 200.02,
+      "end": 200.02,
+      "text": "[Outro - horns and guitars, groove fades]"
+    },
+    {
+      "t": 200.02,
+      "end": 201.16,
+      "text": "Floor thirty-one"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

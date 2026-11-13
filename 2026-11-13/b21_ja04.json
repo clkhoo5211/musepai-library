@@ -1,0 +1,387 @@
+{
+  "id": "b21_ja04",
+  "title": "壁を三回",
+  "title_source": "scripted",
+  "genre": "Japanese nuevo tango",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "dark, restrained, slowly warming",
+  "persona": "",
+  "subject": "the woman who stokes the wood-fired boiler behind a small public bathhouse, who for twenty years has been answering a regular customer's knocks on the wall (two taps too hot, one tap just right) until tonight he knocks three times",
+  "caption": "Nuevo tango in the style of Piazzolla chamber quintets. Bandoneon playing sharp staccato rhythm figures and slow melodic lines, solo violin with a rasping bow on the answers, upright piano with low block chords, double bass with a marcato walking bass, light dry percussion with wood-block accents. Dry close tango-orquesta chamber recording, slight room reverb on the strings. Female alto, dark and firm, dramatic but clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, D minor. Mood: dark, restrained and slowly warming. No rap, no autotune, no electronic beats, no electric guitar, no synths, no pop drop.",
+  "lyrics": "[Intro - bandoneon and violin]\n\n[Verse 1]\n銭湯の裏で 薪をくべる\n壁の向こうは 男湯の端\nコンコンと二回 熱いのサイン\nわたしは火を細めて 返事をする\n\n[Pre-Chorus]\n一回なら ちょうどいい湯加減\n二十年 顔も知らないまま\n\n[Chorus]\n壁を三回 たたく音\n熱くもない ぬるくもない\n壁を三回 たたく音\n知らない合図に 手がとまる\n\n[Verse 2]\n火かき棒を 持ったまま\n壁に耳を あててみる\n石けんの匂い 水の音\nそれから小さく 咳ばらい\n\n[Chorus]\n壁を三回 たたく音\n熱くもない ぬるくもない\n壁を三回 たたく音\n返事に一回 たたいて返す\n\n[Bridge - violin solo]\n「ありがとう」の合図だよ\n壁の向こうで 声がした\n初めて聞いた 低い声\n\n[Chorus]\n壁を三回 たたく音\n熱くもない ぬるくもない\n壁を三回 たたく音\n明日は薪を ひと束多く\n\n[Outro - bandoneon, slowing]\nコン コン コン",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Nuevo tango in the style of Piazzolla chamber quintets. Bandoneon playing sharp staccato rhythm figures and slow melodic lines, solo violin with a rasping bow on the answers, upright piano with low block chords, double bass with a marcato walking bass, light dry percussion with wood-block accents. Dry close tango-orquesta chamber recording, slight room reverb on the strings. Female alto, dark and firm, dramatic but clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, D minor. Mood: dark, restrained and slowly warming. No rap, no autotune, no electronic beats, no electric guitar, no synths, no pop drop.",
+    "lyrics": "[Intro - bandoneon and violin]\n\n[Verse 1]\n銭湯の裏で 薪をくべる\n壁の向こうは 男湯の端\nコンコンと二回 熱いのサイン\nわたしは火を細めて 返事をする\n\n[Pre-Chorus]\n一回なら ちょうどいい湯加減\n二十年 顔も知らないまま\n\n[Chorus]\n壁を三回 たたく音\n熱くもない ぬるくもない\n壁を三回 たたく音\n知らない合図に 手がとまる\n\n[Verse 2]\n火かき棒を 持ったまま\n壁に耳を あててみる\n石けんの匂い 水の音\nそれから小さく 咳ばらい\n\n[Chorus]\n壁を三回 たたく音\n熱くもない ぬるくもない\n壁を三回 たたく音\n返事に一回 たたいて返す\n\n[Bridge - violin solo]\n「ありがとう」の合図だよ\n壁の向こうで 声がした\n初めて聞いた 低い声\n\n[Chorus]\n壁を三回 たたく音\n熱くもない ぬるくもない\n壁を三回 たたく音\n明日は薪を ひと束多く\n\n[Outro - bandoneon, slowing]\nコン コン コン"
+  },
+  "seed": "1979866195",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.05s**\n- 67.05s per song\n- LM phase (1 song): 17.47s\n- DiT phase (1 song): 49.57s",
+  "task_id": "592e790f-9b2b-4139-8d38-7ede71b20bfe",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-11-13T16:15:13.659239+08:00",
+  "audio": "b21_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 33.4,
+      "end": 33.4,
+      "text": "[Intro - bandoneon and violin]"
+    },
+    {
+      "t": 33.4,
+      "end": 33.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 33.4,
+      "end": 44.34,
+      "text": "銭湯の裏で 薪をくべる"
+    },
+    {
+      "t": 44.52,
+      "end": 61.31,
+      "text": "壁の向こうは 男湯の端"
+    },
+    {
+      "t": 61.35,
+      "end": 63.55,
+      "text": "コンコンと二回 熱いのサイン"
+    },
+    {
+      "t": 63.61,
+      "end": 68.09,
+      "text": "わたしは火を細めて 返事をする"
+    },
+    {
+      "t": 68.09,
+      "end": 68.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.09,
+      "end": 72.31,
+      "text": "一回なら ちょうどいい湯加減"
+    },
+    {
+      "t": 72.33,
+      "end": 77.73,
+      "text": "二十年 顔も知らないまま"
+    },
+    {
+      "t": 79.23,
+      "end": 79.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.23,
+      "end": 84.09,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 84.17,
+      "end": 87.71,
+      "text": "熱くもない ぬるくもない"
+    },
+    {
+      "t": 88.61,
+      "end": 92.81,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 93.01,
+      "end": 95.43,
+      "text": "知らない合図に 手がとまる"
+    },
+    {
+      "t": 95.59,
+      "end": 95.59,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.59,
+      "end": 121.19,
+      "text": "火かき棒を 持ったまま"
+    },
+    {
+      "t": 121.49,
+      "end": 124.75,
+      "text": "壁に耳を あててみる"
+    },
+    {
+      "t": 124.91,
+      "end": 126.49,
+      "text": "石けんの匂い 水の音"
+    },
+    {
+      "t": 126.63,
+      "end": 131.13,
+      "text": "それから小さく 咳ばらい"
+    },
+    {
+      "t": 131.13,
+      "end": 131.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.13,
+      "end": 133.63,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 133.67,
+      "end": 140.25,
+      "text": "熱くもない ぬるくもない"
+    },
+    {
+      "t": 140.29,
+      "end": 144.03,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 146.93,
+      "end": 150.4,
+      "text": "返事に一回 たたいて返す"
+    },
+    {
+      "t": 150.5,
+      "end": 150.5,
+      "text": "[Bridge - violin solo]"
+    },
+    {
+      "t": 150.5,
+      "end": 157.64,
+      "text": "「ありがとう」の合図だよ"
+    },
+    {
+      "t": 157.82,
+      "end": 161.04,
+      "text": "壁の向こうで 声がした"
+    },
+    {
+      "t": 164.66,
+      "end": 168.96,
+      "text": "初めて聞いた 低い声"
+    },
+    {
+      "t": 168.96,
+      "end": 168.96,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.96,
+      "end": 170.78,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 170.86,
+      "end": 174.7,
+      "text": "熱くもない ぬるくもない"
+    },
+    {
+      "t": 175.0,
+      "end": 176.44,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 176.74,
+      "end": 183.6,
+      "text": "明日は薪を ひと束多く"
+    },
+    {
+      "t": 183.96,
+      "end": 183.96,
+      "text": "[Outro - bandoneon, slowing]"
+    },
+    {
+      "t": 183.96,
+      "end": 190.88,
+      "text": "コン コン コン"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.54,
+      "end": 32.54,
+      "text": "[Intro - bandoneon and violin]"
+    },
+    {
+      "t": 32.54,
+      "end": 32.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.54,
+      "end": 42.1,
+      "text": "銭湯の裏で 薪をくべる"
+    },
+    {
+      "t": 42.14,
+      "end": 44.1,
+      "text": "壁の向こうは 男湯の端"
+    },
+    {
+      "t": 44.24,
+      "end": 47.1,
+      "text": "コンコンと二回 熱いのサイン"
+    },
+    {
+      "t": 47.14,
+      "end": 49.48,
+      "text": "わたしは火を細めて 返事をする"
+    },
+    {
+      "t": 61.21,
+      "end": 61.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 61.21,
+      "end": 62.45,
+      "text": "一回なら ちょうどいい湯加減"
+    },
+    {
+      "t": 62.47,
+      "end": 63.97,
+      "text": "二十年 顔も知らないまま"
+    },
+    {
+      "t": 63.97,
+      "end": 63.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.97,
+      "end": 66.09,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 66.23,
+      "end": 67.61,
+      "text": "熱くもない ぬるくもない"
+    },
+    {
+      "t": 67.61,
+      "end": 68.01,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 68.05,
+      "end": 69.73,
+      "text": "知らない合図に 手がとまる"
+    },
+    {
+      "t": 69.75,
+      "end": 69.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.75,
+      "end": 71.47,
+      "text": "火かき棒を 持ったまま"
+    },
+    {
+      "t": 71.49,
+      "end": 72.39,
+      "text": "壁に耳を あててみる"
+    },
+    {
+      "t": 72.47,
+      "end": 73.35,
+      "text": "石けんの匂い 水の音"
+    },
+    {
+      "t": 74.71,
+      "end": 78.41,
+      "text": "それから小さく 咳ばらい"
+    },
+    {
+      "t": 79.23,
+      "end": 79.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.23,
+      "end": 84.01,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 84.17,
+      "end": 87.73,
+      "text": "熱くもない ぬるくもない"
+    },
+    {
+      "t": 88.61,
+      "end": 90.89,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 92.43,
+      "end": 95.71,
+      "text": "返事に一回 たたいて返す"
+    },
+    {
+      "t": 119.87,
+      "end": 119.87,
+      "text": "[Bridge - violin solo]"
+    },
+    {
+      "t": 119.87,
+      "end": 122.39,
+      "text": "「ありがとう」の合図だよ"
+    },
+    {
+      "t": 124.51,
+      "end": 129.27,
+      "text": "壁の向こうで 声がした"
+    },
+    {
+      "t": 129.37,
+      "end": 133.51,
+      "text": "初めて聞いた 低い声"
+    },
+    {
+      "t": 133.67,
+      "end": 133.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.67,
+      "end": 136.03,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 136.17,
+      "end": 147.07,
+      "text": "熱くもない ぬるくもない"
+    },
+    {
+      "t": 147.13,
+      "end": 150.54,
+      "text": "壁を三回 たたく音"
+    },
+    {
+      "t": 150.98,
+      "end": 157.96,
+      "text": "明日は薪を ひと束多く"
+    },
+    {
+      "t": 158.2,
+      "end": 158.2,
+      "text": "[Outro - bandoneon, slowing]"
+    },
+    {
+      "t": 158.2,
+      "end": 172.48,
+      "text": "コン コン コン"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
