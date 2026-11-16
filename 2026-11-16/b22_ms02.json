@@ -1,0 +1,327 @@
+{
+  "id": "b22_ms02",
+  "title": "Burung Pesan Teh Tarik",
+  "title_source": "scripted",
+  "genre": "DC go-go (Chuck Brown-style percussion groove)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "playful, bouncy, comic",
+  "persona": "",
+  "subject": "a murai bird hung at a kopitiam hook each morning copies the kettle whistle and the aunty's 'teh tarik satu', and now customers order from the bird",
+  "caption": "DC go-go live groove, nonstop conga and cowbell pocket with a swung sixteenth-note shuffle. Congas and timbales up front, cowbell on every beat, funk guitar chops with wah, round electric bass, short brass stabs. Live club room, dry and punchy, crowd-style group answers. Male lead with group shouts answering each line, bright mid register. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, G minor. Playful, bouncy, comic mood. No trap hi-hats, no EDM drop, no autotune, no rap, no synth pads.",
+  "lyrics": "[Intro - congas and cowbell lock in, guitar chop]\n\n[Verse 1]\nPagi-pagi Abang Din gantung sangkar\nKat kopitiam Ipoh, tepi tiang kipas\nBurung murai tengok cerek mendidih\nDia dengar bunyi, dia pun tiru\n\n[Pre-Chorus]\nPiii, cerek berbunyi\nTeh tarik satu, teh tarik satu\n\n[Chorus]\nTeh tarik satu, kata burung\nTeh tarik satu, jawab budak\nKopi O kosong, kata burung\nKopi O kosong, jawab dapur\n\n[Verse 2]\nPelanggan baru duduk, tak sempat buka mulut\nBurung dah jerit, Roti bakar dua!\nMak Cik kaunter ketawa, pegang perut\nAbang Din garu kepala, duit masuk laci\n\n[Bridge - congas alone, handclaps]\nSiapa nak kopi, tanya burung\nSiapa bayar, tanya burung\n\n[Chorus]\nTeh tarik satu, kata burung\nTeh tarik satu, semua jawab\nKopi O kosong, kata burung\nKopi O kosong, satu kedai nyanyi\n\n[Outro - cowbell and congas fade, last brass stab]\nTeh tarik satu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "DC go-go live groove, nonstop conga and cowbell pocket with a swung sixteenth-note shuffle. Congas and timbales up front, cowbell on every beat, funk guitar chops with wah, round electric bass, short brass stabs. Live club room, dry and punchy, crowd-style group answers. Male lead with group shouts answering each line, bright mid register. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, G minor. Playful, bouncy, comic mood. No trap hi-hats, no EDM drop, no autotune, no rap, no synth pads.",
+    "lyrics": "[Intro - congas and cowbell lock in, guitar chop]\n\n[Verse 1]\nPagi-pagi Abang Din gantung sangkar\nKat kopitiam Ipoh, tepi tiang kipas\nBurung murai tengok cerek mendidih\nDia dengar bunyi, dia pun tiru\n\n[Pre-Chorus]\nPiii, cerek berbunyi\nTeh tarik satu, teh tarik satu\n\n[Chorus]\nTeh tarik satu, kata burung\nTeh tarik satu, jawab budak\nKopi O kosong, kata burung\nKopi O kosong, jawab dapur\n\n[Verse 2]\nPelanggan baru duduk, tak sempat buka mulut\nBurung dah jerit, Roti bakar dua!\nMak Cik kaunter ketawa, pegang perut\nAbang Din garu kepala, duit masuk laci\n\n[Bridge - congas alone, handclaps]\nSiapa nak kopi, tanya burung\nSiapa bayar, tanya burung\n\n[Chorus]\nTeh tarik satu, kata burung\nTeh tarik satu, semua jawab\nKopi O kosong, kata burung\nKopi O kosong, satu kedai nyanyi\n\n[Outro - cowbell and congas fade, last brass stab]\nTeh tarik satu"
+  },
+  "seed": "1998712026",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.97s**\n- 63.97s per song\n- LM phase (1 song): 15.94s\n- DiT phase (1 song): 48.03s",
+  "task_id": "9f5ab702-81c6-49f8-a4f6-77c6517ccfc5",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-16T17:00:58.809693+08:00",
+  "audio": "b22_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Intro - congas and cowbell lock in, guitar chop]"
+    },
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.66,
+      "end": 35.74,
+      "text": "Pagi-pagi Abang Din gantung sangkar"
+    },
+    {
+      "t": 36.24,
+      "end": 40.78,
+      "text": "Kat kopitiam Ipoh, tepi tiang kipas"
+    },
+    {
+      "t": 41.1,
+      "end": 45.7,
+      "text": "Burung murai tengok cerek mendidih"
+    },
+    {
+      "t": 45.96,
+      "end": 49.55,
+      "text": "Dia dengar bunyi, dia pun tiru"
+    },
+    {
+      "t": 51.67,
+      "end": 51.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.67,
+      "end": 54.09,
+      "text": "Piii, cerek berbunyi"
+    },
+    {
+      "t": 57.39,
+      "end": 60.93,
+      "text": "Teh tarik satu, teh tarik satu"
+    },
+    {
+      "t": 65.35,
+      "end": 65.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.35,
+      "end": 68.03,
+      "text": "Teh tarik satu, kata burung"
+    },
+    {
+      "t": 70.15,
+      "end": 78.17,
+      "text": "Teh tarik satu, jawab budak"
+    },
+    {
+      "t": 78.97,
+      "end": 83.01,
+      "text": "Kopi O kosong, kata burung"
+    },
+    {
+      "t": 83.57,
+      "end": 89.69,
+      "text": "Kopi O kosong, jawab dapur"
+    },
+    {
+      "t": 90.53,
+      "end": 90.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.53,
+      "end": 94.47,
+      "text": "Pelanggan baru duduk, tak sempat buka mulut"
+    },
+    {
+      "t": 95.11,
+      "end": 97.83,
+      "text": "Burung dah jerit, Roti bakar dua!"
+    },
+    {
+      "t": 99.07,
+      "end": 102.55,
+      "text": "Mak Cik kaunter ketawa, pegang perut"
+    },
+    {
+      "t": 103.69,
+      "end": 106.89,
+      "text": "Abang Din garu kepala, duit masuk laci"
+    },
+    {
+      "t": 108.13,
+      "end": 108.13,
+      "text": "[Bridge - congas alone, handclaps]"
+    },
+    {
+      "t": 108.13,
+      "end": 111.57,
+      "text": "Siapa nak kopi, tanya burung"
+    },
+    {
+      "t": 112.67,
+      "end": 121.35,
+      "text": "Siapa bayar, tanya burung"
+    },
+    {
+      "t": 121.61,
+      "end": 121.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.61,
+      "end": 131.13,
+      "text": "Teh tarik satu, kata burung"
+    },
+    {
+      "t": 131.19,
+      "end": 144.9,
+      "text": "Teh tarik satu, semua jawab"
+    },
+    {
+      "t": 153.36,
+      "end": 157.34,
+      "text": "Kopi O kosong, kata burung"
+    },
+    {
+      "t": 157.94,
+      "end": 161.8,
+      "text": "Kopi O kosong, satu kedai nyanyi"
+    },
+    {
+      "t": 169.78,
+      "end": 169.78,
+      "text": "[Outro - cowbell and congas fade, last brass stab]"
+    },
+    {
+      "t": 169.78,
+      "end": 171.0,
+      "text": "Teh tarik satu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.64,
+      "end": 31.64,
+      "text": "[Intro - congas and cowbell lock in, guitar chop]"
+    },
+    {
+      "t": 31.64,
+      "end": 31.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.64,
+      "end": 35.74,
+      "text": "Pagi-pagi Abang Din gantung sangkar"
+    },
+    {
+      "t": 36.22,
+      "end": 40.78,
+      "text": "Kat kopitiam Ipoh, tepi tiang kipas"
+    },
+    {
+      "t": 41.12,
+      "end": 45.7,
+      "text": "Burung murai tengok cerek mendidih"
+    },
+    {
+      "t": 45.96,
+      "end": 49.55,
+      "text": "Dia dengar bunyi, dia pun tiru"
+    },
+    {
+      "t": 51.67,
+      "end": 51.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.67,
+      "end": 54.11,
+      "text": "Piii, cerek berbunyi"
+    },
+    {
+      "t": 57.37,
+      "end": 60.93,
+      "text": "Teh tarik satu, teh tarik satu"
+    },
+    {
+      "t": 65.37,
+      "end": 65.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.37,
+      "end": 67.99,
+      "text": "Teh tarik satu, kata burung"
+    },
+    {
+      "t": 70.15,
+      "end": 78.21,
+      "text": "Teh tarik satu, jawab budak"
+    },
+    {
+      "t": 78.97,
+      "end": 83.57,
+      "text": "Kopi O kosong, kata burung"
+    },
+    {
+      "t": 83.57,
+      "end": 89.71,
+      "text": "Kopi O kosong, jawab dapur"
+    },
+    {
+      "t": 90.53,
+      "end": 90.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.53,
+      "end": 94.47,
+      "text": "Pelanggan baru duduk, tak sempat buka mulut"
+    },
+    {
+      "t": 95.11,
+      "end": 97.83,
+      "text": "Burung dah jerit, Roti bakar dua!"
+    },
+    {
+      "t": 99.07,
+      "end": 102.55,
+      "text": "Mak Cik kaunter ketawa, pegang perut"
+    },
+    {
+      "t": 103.71,
+      "end": 106.89,
+      "text": "Abang Din garu kepala, duit masuk laci"
+    },
+    {
+      "t": 108.13,
+      "end": 108.13,
+      "text": "[Bridge - congas alone, handclaps]"
+    },
+    {
+      "t": 108.13,
+      "end": 111.57,
+      "text": "Siapa nak kopi, tanya burung"
+    },
+    {
+      "t": 112.67,
+      "end": 121.33,
+      "text": "Siapa bayar, tanya burung"
+    },
+    {
+      "t": 121.33,
+      "end": 121.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.33,
+      "end": 131.13,
+      "text": "Teh tarik satu, kata burung"
+    },
+    {
+      "t": 131.13,
+      "end": 144.9,
+      "text": "Teh tarik satu, semua jawab"
+    },
+    {
+      "t": 153.36,
+      "end": 157.34,
+      "text": "Kopi O kosong, kata burung"
+    },
+    {
+      "t": 157.94,
+      "end": 161.82,
+      "text": "Kopi O kosong, satu kedai nyanyi"
+    },
+    {
+      "t": 169.78,
+      "end": 169.78,
+      "text": "[Outro - cowbell and congas fade, last brass stab]"
+    },
+    {
+      "t": 169.78,
+      "end": 171.0,
+      "text": "Teh tarik satu"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,377 @@
+{
+  "id": "b22_ja04",
+  "title": "最後のロープウェイ",
+  "title_source": "scripted",
+  "genre": "Japanese Turkish arabesque pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "longing, slow-burning, heavy-hearted",
+  "persona": "",
+  "subject": "a cable-car operator on a mountain line who announces each station and notices that one woman rides up and down all day without ever getting off, as if she were avoiding going home",
+  "caption": "Turkish arabesque pop sung in Japanese, slow 4/4 arabesk pulse with a rolling darbuka groove. Saz playing a mournful ornamented melody with quick trills, darbuka with deep dum and sharp tek patterns, string section with sweeping unison phrases and long slides, electric bass with a simple root pulse, oud doubling the chord pattern, finger cymbals on the offbeats. 1980s Istanbul arabesk studio sound, warm tape, lush string reverb, dry close darbuka. Mature male lead, rich baritone, clearly sung with ornamented vibrato on held notes. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Mood: longing, slow-burning and heavy-hearted. No rap, no autotune, no electronic drums, no synth lead, no trap hi-hats, no EDM drops.",
+  "lyrics": "[Intro - saz melody, strings swell, darbuka enters]\n\n[Verse 1]\n山の上まで 十二分\nおれはマイクで 駅を告げる\n「次は 展望台前です」\n彼女は降りない 今日も降りない\n\n[Pre-Chorus]\n朝からずっと 同じ席\n窓の外だけ 見ている\n\n[Chorus]\n降りないのか どこへも\n下の町に 待つ人は いないの\nゴンドラは 上がって 下がって\n彼女の影を 運ぶだけ\n\n[Verse 2]\n昼に缶のお茶 差し入れた\n「ありがとう」と 小さな声\n指輪はないが 跡がある\n聞かないことが おれの仕事\n\n[Chorus]\n降りないのか どこへも\n下の町に 灯りは あるのに\nゴンドラは 上がって 下がって\n彼女の影を 運ぶだけ\n\n[Bridge - saz and strings alone]\n今夜は少し 遅らせるよ\nおれも一緒に 山を見る\n\n[Chorus]\n降りてもいいんだ いつでも\n下の町は 朝になれば 変わる\nゴンドラは 上がって 下がって\n最後のロープウェイ\n\n[Outro - saz melody fading over finger cymbals]\n次は 山麓です",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Turkish arabesque pop sung in Japanese, slow 4/4 arabesk pulse with a rolling darbuka groove. Saz playing a mournful ornamented melody with quick trills, darbuka with deep dum and sharp tek patterns, string section with sweeping unison phrases and long slides, electric bass with a simple root pulse, oud doubling the chord pattern, finger cymbals on the offbeats. 1980s Istanbul arabesk studio sound, warm tape, lush string reverb, dry close darbuka. Mature male lead, rich baritone, clearly sung with ornamented vibrato on held notes. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Mood: longing, slow-burning and heavy-hearted. No rap, no autotune, no electronic drums, no synth lead, no trap hi-hats, no EDM drops.",
+    "lyrics": "[Intro - saz melody, strings swell, darbuka enters]\n\n[Verse 1]\n山の上まで 十二分\nおれはマイクで 駅を告げる\n「次は 展望台前です」\n彼女は降りない 今日も降りない\n\n[Pre-Chorus]\n朝からずっと 同じ席\n窓の外だけ 見ている\n\n[Chorus]\n降りないのか どこへも\n下の町に 待つ人は いないの\nゴンドラは 上がって 下がって\n彼女の影を 運ぶだけ\n\n[Verse 2]\n昼に缶のお茶 差し入れた\n「ありがとう」と 小さな声\n指輪はないが 跡がある\n聞かないことが おれの仕事\n\n[Chorus]\n降りないのか どこへも\n下の町に 灯りは あるのに\nゴンドラは 上がって 下がって\n彼女の影を 運ぶだけ\n\n[Bridge - saz and strings alone]\n今夜は少し 遅らせるよ\nおれも一緒に 山を見る\n\n[Chorus]\n降りてもいいんだ いつでも\n下の町は 朝になれば 変わる\nゴンドラは 上がって 下がって\n最後のロープウェイ\n\n[Outro - saz melody fading over finger cymbals]\n次は 山麓です"
+  },
+  "seed": "3069912769",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.91s**\n- 66.91s per song\n- LM phase (1 song): 10.93s\n- DiT phase (1 song): 55.98s",
+  "task_id": "a88300e7-4e11-4953-8a98-46916f68ea3a",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-16T17:50:47.530778+08:00",
+  "audio": "b22_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.04,
+      "end": 23.04,
+      "text": "[Intro - saz melody, strings swell, darbuka enters]"
+    },
+    {
+      "t": 23.04,
+      "end": 23.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.04,
+      "end": 26.12,
+      "text": "山の上まで 十二分"
+    },
+    {
+      "t": 26.52,
+      "end": 32.84,
+      "text": "おれはマイクで 駅を告げる"
+    },
+    {
+      "t": 39.2,
+      "end": 44.04,
+      "text": "「次は 展望台前です」"
+    },
+    {
+      "t": 47.12,
+      "end": 50.92,
+      "text": "彼女は降りない 今日も降りない"
+    },
+    {
+      "t": 51.04,
+      "end": 51.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.04,
+      "end": 58.03,
+      "text": "朝からずっと 同じ席"
+    },
+    {
+      "t": 58.07,
+      "end": 63.11,
+      "text": "窓の外だけ 見ている"
+    },
+    {
+      "t": 63.31,
+      "end": 63.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.31,
+      "end": 67.41,
+      "text": "降りないのか どこへも"
+    },
+    {
+      "t": 67.61,
+      "end": 72.97,
+      "text": "下の町に 待つ人は いないの"
+    },
+    {
+      "t": 73.19,
+      "end": 80.25,
+      "text": "ゴンドラは 上がって 下がって"
+    },
+    {
+      "t": 80.41,
+      "end": 84.21,
+      "text": "彼女の影を 運ぶだけ"
+    },
+    {
+      "t": 84.73,
+      "end": 84.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.73,
+      "end": 88.43,
+      "text": "昼に缶のお茶 差し入れた"
+    },
+    {
+      "t": 88.85,
+      "end": 97.63,
+      "text": "「ありがとう」と 小さな声"
+    },
+    {
+      "t": 97.65,
+      "end": 101.09,
+      "text": "指輪はないが 跡がある"
+    },
+    {
+      "t": 103.17,
+      "end": 106.97,
+      "text": "聞かないことが おれの仕事"
+    },
+    {
+      "t": 106.97,
+      "end": 106.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.97,
+      "end": 123.93,
+      "text": "降りないのか どこへも"
+    },
+    {
+      "t": 123.53,
+      "end": 124.29,
+      "text": "下の町に 灯りは あるのに"
+    },
+    {
+      "t": 125.21,
+      "end": 133.79,
+      "text": "ゴンドラは 上がって 下がって"
+    },
+    {
+      "t": 134.07,
+      "end": 135.19,
+      "text": "彼女の影を 運ぶだけ"
+    },
+    {
+      "t": 135.33,
+      "end": 135.33,
+      "text": "[Bridge - saz and strings alone]"
+    },
+    {
+      "t": 135.33,
+      "end": 137.83,
+      "text": "今夜は少し 遅らせるよ"
+    },
+    {
+      "t": 138.61,
+      "end": 141.43,
+      "text": "おれも一緒に 山を見る"
+    },
+    {
+      "t": 143.93,
+      "end": 143.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.93,
+      "end": 149.97,
+      "text": "降りてもいいんだ いつでも"
+    },
+    {
+      "t": 151.77,
+      "end": 155.93,
+      "text": "下の町は 朝になれば 変わる"
+    },
+    {
+      "t": 158.44,
+      "end": 162.28,
+      "text": "ゴンドラは 上がって 下がって"
+    },
+    {
+      "t": 163.7,
+      "end": 167.92,
+      "text": "最後のロープウェイ"
+    },
+    {
+      "t": 183.88,
+      "end": 183.88,
+      "text": "[Outro - saz melody fading over finger cymbals]"
+    },
+    {
+      "t": 183.88,
+      "end": 201.46,
+      "text": "次は 山麓です"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.06,
+      "end": 23.06,
+      "text": "[Intro - saz melody, strings swell, darbuka enters]"
+    },
+    {
+      "t": 23.06,
+      "end": 23.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.06,
+      "end": 26.12,
+      "text": "山の上まで 十二分"
+    },
+    {
+      "t": 28.5,
+      "end": 32.86,
+      "text": "おれはマイクで 駅を告げる"
+    },
+    {
+      "t": 39.2,
+      "end": 44.04,
+      "text": "「次は 展望台前です」"
+    },
+    {
+      "t": 47.12,
+      "end": 53.43,
+      "text": "彼女は降りない 今日も降りない"
+    },
+    {
+      "t": 53.43,
+      "end": 53.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 53.43,
+      "end": 66.19,
+      "text": "朝からずっと 同じ席"
+    },
+    {
+      "t": 66.23,
+      "end": 68.47,
+      "text": "窓の外だけ 見ている"
+    },
+    {
+      "t": 68.63,
+      "end": 68.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.63,
+      "end": 75.93,
+      "text": "降りないのか どこへも"
+    },
+    {
+      "t": 77.43,
+      "end": 81.53,
+      "text": "下の町に 待つ人は いないの"
+    },
+    {
+      "t": 82.73,
+      "end": 86.61,
+      "text": "ゴンドラは 上がって 下がって"
+    },
+    {
+      "t": 86.67,
+      "end": 88.87,
+      "text": "彼女の影を 運ぶだけ"
+    },
+    {
+      "t": 92.63,
+      "end": 92.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.63,
+      "end": 96.49,
+      "text": "昼に缶のお茶 差し入れた"
+    },
+    {
+      "t": 97.09,
+      "end": 98.53,
+      "text": "「ありがとう」と 小さな声"
+    },
+    {
+      "t": 98.53,
+      "end": 101.09,
+      "text": "指輪はないが 跡がある"
+    },
+    {
+      "t": 103.17,
+      "end": 106.97,
+      "text": "聞かないことが おれの仕事"
+    },
+    {
+      "t": 106.97,
+      "end": 106.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.97,
+      "end": 123.41,
+      "text": "降りないのか どこへも"
+    },
+    {
+      "t": 123.53,
+      "end": 124.29,
+      "text": "下の町に 灯りは あるのに"
+    },
+    {
+      "t": 124.29,
+      "end": 130.19,
+      "text": "ゴンドラは 上がって 下がって"
+    },
+    {
+      "t": 130.53,
+      "end": 135.25,
+      "text": "彼女の影を 運ぶだけ"
+    },
+    {
+      "t": 135.33,
+      "end": 135.33,
+      "text": "[Bridge - saz and strings alone]"
+    },
+    {
+      "t": 135.33,
+      "end": 137.81,
+      "text": "今夜は少し 遅らせるよ"
+    },
+    {
+      "t": 138.61,
+      "end": 141.43,
+      "text": "おれも一緒に 山を見る"
+    },
+    {
+      "t": 143.91,
+      "end": 143.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.91,
+      "end": 149.99,
+      "text": "降りてもいいんだ いつでも"
+    },
+    {
+      "t": 151.79,
+      "end": 155.95,
+      "text": "下の町は 朝になれば 変わる"
+    },
+    {
+      "t": 158.44,
+      "end": 162.26,
+      "text": "ゴンドラは 上がって 下がって"
+    },
+    {
+      "t": 163.72,
+      "end": 168.2,
+      "text": "最後のロープウェイ"
+    },
+    {
+      "t": 183.9,
+      "end": 183.9,
+      "text": "[Outro - saz melody fading over finger cymbals]"
+    },
+    {
+      "t": 183.9,
+      "end": 197.24,
+      "text": "次は 山麓です"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

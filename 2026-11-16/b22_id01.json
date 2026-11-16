@@ -1,0 +1,459 @@
+{
+  "id": "b22_id01",
+  "title": "Cincin Longgar",
+  "title_source": "scripted",
+  "genre": "Balkan turbo-folk",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "playful, stomping",
+  "persona": "",
+  "subject": "a young goldsmith in a Pasar Atom Surabaya stall who resizes the same engagement ring three times because the customer's girlfriend's finger swells in the heat, until the man asks him to make it one size loose so it can stay on through every season",
+  "caption": "Balkan turbo-folk, driving 9/8 dance groove with a 2+2+2+3 stomp. Clarinet playing fast ornamented melody lines with quarter-tone slides, piano accordion answering in short staccato phrases, synth strings holding sustained chords, darbuka and live kick on the stomp, rounded bass guitar. Glossy club-folk mix, tight drums, bright accordion. Male vocal, mid-high register, bold and cheeky, sung clearly in Indonesian. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, A minor. Playful, stomping mood. No trap hi-hats, no autotune, no EDM drops, no rap, no electric guitar solo, no reggaeton rhythm.",
+  "lyrics": "[Intro - clarinet and accordion]\n\n[Verse 1]\nTiga kali kamu datang ke tokoku\nCincin yang sama, ukuran yang lain\nKatamu jarinya kembung kena panas\nWaktu hujan cincinnya lepas sendiri\n\n[Pre-Chorus]\nKukikir, kuukur, kusepuh lagi\nKamu tawar sambil senyum sendiri\n\n[Chorus]\nCincin longgar, cincin sempit, mana yang pas\nEmas dua puluh empat, hatimu belum jelas\nCincin longgar, cincin sempit, ayo tentukan\nAku tukang emas, bukan tukang ramalan\n\n[Verse 2]\nBulan Agustus jarinya gemuk sedikit\nBulan Desember katanya kurus lagi\nKamu bawa kotak merah buat kali keempat\nAku sudah hafal angka di buku catatan\n\n[Pre-Chorus]\nKukikir, kuukur, kusepuh lagi\nKamu diam, lalu bilang pelan\n\n[Chorus]\nCincin longgar, cincin longgar, kasih satu ukuran lebih\nBiar tetap di jarinya waktu panas dan hujan\nCincin longgar, cincin longgar, jangan terlalu pas\nCinta bukan kotak sempit, katamu, aku setuju\n\n[Outro - accordion and clarinet]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Balkan turbo-folk, driving 9/8 dance groove with a 2+2+2+3 stomp. Clarinet playing fast ornamented melody lines with quarter-tone slides, piano accordion answering in short staccato phrases, synth strings holding sustained chords, darbuka and live kick on the stomp, rounded bass guitar. Glossy club-folk mix, tight drums, bright accordion. Male vocal, mid-high register, bold and cheeky, sung clearly in Indonesian. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, A minor. Playful, stomping mood. No trap hi-hats, no autotune, no EDM drops, no rap, no electric guitar solo, no reggaeton rhythm.",
+    "lyrics": "[Intro - clarinet and accordion]\n\n[Verse 1]\nTiga kali kamu datang ke tokoku\nCincin yang sama, ukuran yang lain\nKatamu jarinya kembung kena panas\nWaktu hujan cincinnya lepas sendiri\n\n[Pre-Chorus]\nKukikir, kuukur, kusepuh lagi\nKamu tawar sambil senyum sendiri\n\n[Chorus]\nCincin longgar, cincin sempit, mana yang pas\nEmas dua puluh empat, hatimu belum jelas\nCincin longgar, cincin sempit, ayo tentukan\nAku tukang emas, bukan tukang ramalan\n\n[Verse 2]\nBulan Agustus jarinya gemuk sedikit\nBulan Desember katanya kurus lagi\nKamu bawa kotak merah buat kali keempat\nAku sudah hafal angka di buku catatan\n\n[Pre-Chorus]\nKukikir, kuukur, kusepuh lagi\nKamu diam, lalu bilang pelan\n\n[Chorus]\nCincin longgar, cincin longgar, kasih satu ukuran lebih\nBiar tetap di jarinya waktu panas dan hujan\nCincin longgar, cincin longgar, jangan terlalu pas\nCinta bukan kotak sempit, katamu, aku setuju\n\n[Outro - accordion and clarinet]"
+  },
+  "seed": "2121816337",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 95.56s**\n- 95.56s per song\n- LM phase (1 song): 15.29s\n- DiT phase (1 song): 80.27s",
+  "task_id": "6d881cf5-9126-4977-8f1b-4979b73c8a77",
+  "elapsed_s": 120.6,
+  "generated_at": "2026-11-16T17:08:40.927557+08:00",
+  "audio": "b22_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.62,
+      "end": 19.62,
+      "text": "[Intro - clarinet and accordion]"
+    },
+    {
+      "t": 19.62,
+      "end": 19.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.62,
+      "end": 22.28,
+      "text": "Tiga kali kamu datang ke tokoku"
+    },
+    {
+      "t": 24.82,
+      "end": 30.0,
+      "text": "Cincin yang sama, ukuran yang lain"
+    },
+    {
+      "t": 32.58,
+      "end": 39.38,
+      "text": "Katamu jarinya kembung kena panas"
+    },
+    {
+      "t": 41.04,
+      "end": 46.78,
+      "text": "Waktu hujan cincinnya lepas sendiri"
+    },
+    {
+      "t": 49.35,
+      "end": 49.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.35,
+      "end": 54.81,
+      "text": "Kukikir, kuukur, kusepuh lagi"
+    },
+    {
+      "t": 54.81,
+      "end": 57.35,
+      "text": "Kamu tawar sambil senyum sendiri"
+    },
+    {
+      "t": 57.35,
+      "end": 57.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.35,
+      "end": 59.35,
+      "text": "Cincin longgar, cincin sempit, mana yang pas"
+    },
+    {
+      "t": 59.43,
+      "end": 63.11,
+      "text": "Emas dua puluh empat, hatimu belum jelas"
+    },
+    {
+      "t": 66.33,
+      "end": 70.79,
+      "text": "Cincin longgar, cincin sempit, ayo tentukan"
+    },
+    {
+      "t": 70.79,
+      "end": 76.51,
+      "text": "Aku tukang emas, bukan tukang ramalan"
+    },
+    {
+      "t": 81.15,
+      "end": 81.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.15,
+      "end": 86.07,
+      "text": "Bulan Agustus jarinya gemuk sedikit"
+    },
+    {
+      "t": 88.85,
+      "end": 94.31,
+      "text": "Bulan Desember katanya kurus lagi"
+    },
+    {
+      "t": 96.61,
+      "end": 103.21,
+      "text": "Kamu bawa kotak merah buat kali keempat"
+    },
+    {
+      "t": 105.41,
+      "end": 110.97,
+      "text": "Aku sudah hafal angka di buku catatan"
+    },
+    {
+      "t": 113.35,
+      "end": 113.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.35,
+      "end": 119.01,
+      "text": "Kukikir, kuukur, kusepuh lagi"
+    },
+    {
+      "t": 121.33,
+      "end": 127.69,
+      "text": "Kamu diam, lalu bilang pelan"
+    },
+    {
+      "t": 129.35,
+      "end": 129.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.35,
+      "end": 136.15,
+      "text": "Cincin longgar, cincin longgar, kasih satu ukuran lebih"
+    },
+    {
+      "t": 137.11,
+      "end": 144.0,
+      "text": "Biar tetap di jarinya waktu panas dan hujan"
+    },
+    {
+      "t": 152.6,
+      "end": 166.38,
+      "text": "Cincin longgar, cincin longgar, jangan terlalu pas"
+    },
+    {
+      "t": 168.6,
+      "end": 177.98,
+      "text": "Cinta bukan kotak sempit, katamu, aku setuju"
+    },
+    {
+      "t": 177.98,
+      "end": 177.98,
+      "text": "[Outro - accordion and clarinet]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.62,
+      "end": 19.62,
+      "text": "[Intro - clarinet and accordion]"
+    },
+    {
+      "t": 19.62,
+      "end": 19.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.62,
+      "end": 22.28,
+      "text": "Tiga kali kamu datang ke tokoku"
+    },
+    {
+      "t": 24.82,
+      "end": 30.0,
+      "text": "Cincin yang sama, ukuran yang lain"
+    },
+    {
+      "t": 32.58,
+      "end": 39.38,
+      "text": "Katamu jarinya kembung kena panas"
+    },
+    {
+      "t": 41.04,
+      "end": 46.78,
+      "text": "Waktu hujan cincinnya lepas sendiri"
+    },
+    {
+      "t": 49.35,
+      "end": 49.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.35,
+      "end": 54.81,
+      "text": "Kukikir, kuukur, kusepuh lagi"
+    },
+    {
+      "t": 54.81,
+      "end": 57.35,
+      "text": "Kamu tawar sambil senyum sendiri"
+    },
+    {
+      "t": 57.35,
+      "end": 57.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.35,
+      "end": 59.35,
+      "text": "Cincin longgar, cincin sempit, mana yang pas"
+    },
+    {
+      "t": 59.43,
+      "end": 63.11,
+      "text": "Emas dua puluh empat, hatimu belum jelas"
+    },
+    {
+      "t": 66.33,
+      "end": 70.79,
+      "text": "Cincin longgar, cincin sempit, ayo tentukan"
+    },
+    {
+      "t": 70.79,
+      "end": 76.51,
+      "text": "Aku tukang emas, bukan tukang ramalan"
+    },
+    {
+      "t": 81.15,
+      "end": 81.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.15,
+      "end": 86.07,
+      "text": "Bulan Agustus jarinya gemuk sedikit"
+    },
+    {
+      "t": 88.85,
+      "end": 94.31,
+      "text": "Bulan Desember katanya kurus lagi"
+    },
+    {
+      "t": 96.61,
+      "end": 103.21,
+      "text": "Kamu bawa kotak merah buat kali keempat"
+    },
+    {
+      "t": 105.41,
+      "end": 110.97,
+      "text": "Aku sudah hafal angka di buku catatan"
+    },
+    {
+      "t": 113.35,
+      "end": 113.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.35,
+      "end": 119.01,
+      "text": "Kukikir, kuukur, kusepuh lagi"
+    },
+    {
+      "t": 121.33,
+      "end": 127.69,
+      "text": "Kamu diam, lalu bilang pelan"
+    },
+    {
+      "t": 129.35,
+      "end": 129.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.35,
+      "end": 136.15,
+      "text": "Cincin longgar, cincin longgar, kasih satu ukuran lebih"
+    },
+    {
+      "t": 137.11,
+      "end": 144.0,
+      "text": "Biar tetap di jarinya waktu panas dan hujan"
+    },
+    {
+      "t": 152.6,
+      "end": 166.38,
+      "text": "Cincin longgar, cincin longgar, jangan terlalu pas"
+    },
+    {
+      "t": 168.6,
+      "end": 177.98,
+      "text": "Cinta bukan kotak sempit, katamu, aku setuju"
+    },
+    {
+      "t": 177.98,
+      "end": 177.98,
+      "text": "[Outro - accordion and clarinet]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 17.12,
+      "end": 17.12,
+      "text": "[Intro - clarinet and accordion]"
+    },
+    {
+      "t": 17.12,
+      "end": 17.12,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.12,
+      "end": 22.28,
+      "text": "Tiga kali kamu datang ke tokoku"
+    },
+    {
+      "t": 24.82,
+      "end": 30.0,
+      "text": "Cincin yang sama, ukuran yang lain"
+    },
+    {
+      "t": 32.6,
+      "end": 39.36,
+      "text": "Katamu jarinya kembung kena panas"
+    },
+    {
+      "t": 41.06,
+      "end": 46.78,
+      "text": "Waktu hujan cincinnya lepas sendiri"
+    },
+    {
+      "t": 49.35,
+      "end": 49.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.35,
+      "end": 54.83,
+      "text": "Kukikir, kuukur, kusepuh lagi"
+    },
+    {
+      "t": 55.07,
+      "end": 56.51,
+      "text": "Kamu tawar sambil senyum sendiri"
+    },
+    {
+      "t": 56.61,
+      "end": 56.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.61,
+      "end": 59.33,
+      "text": "Cincin longgar, cincin sempit, mana yang pas"
+    },
+    {
+      "t": 59.43,
+      "end": 63.09,
+      "text": "Emas dua puluh empat, hatimu belum jelas"
+    },
+    {
+      "t": 66.35,
+      "end": 70.69,
+      "text": "Cincin longgar, cincin sempit, ayo tentukan"
+    },
+    {
+      "t": 70.69,
+      "end": 76.51,
+      "text": "Aku tukang emas, bukan tukang ramalan"
+    },
+    {
+      "t": 81.15,
+      "end": 81.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.15,
+      "end": 86.09,
+      "text": "Bulan Agustus jarinya gemuk sedikit"
+    },
+    {
+      "t": 88.85,
+      "end": 94.29,
+      "text": "Bulan Desember katanya kurus lagi"
+    },
+    {
+      "t": 96.61,
+      "end": 103.19,
+      "text": "Kamu bawa kotak merah buat kali keempat"
+    },
+    {
+      "t": 105.43,
+      "end": 110.95,
+      "text": "Aku sudah hafal angka di buku catatan"
+    },
+    {
+      "t": 113.35,
+      "end": 113.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 113.35,
+      "end": 119.01,
+      "text": "Kukikir, kuukur, kusepuh lagi"
+    },
+    {
+      "t": 121.33,
+      "end": 127.69,
+      "text": "Kamu diam, lalu bilang pelan"
+    },
+    {
+      "t": 129.35,
+      "end": 129.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.35,
+      "end": 136.11,
+      "text": "Cincin longgar, cincin longgar, kasih satu ukuran lebih"
+    },
+    {
+      "t": 137.13,
+      "end": 144.02,
+      "text": "Biar tetap di jarinya waktu panas dan hujan"
+    },
+    {
+      "t": 152.6,
+      "end": 166.44,
+      "text": "Cincin longgar, cincin longgar, jangan terlalu pas"
+    },
+    {
+      "t": 168.6,
+      "end": 178.0,
+      "text": "Cinta bukan kotak sempit, katamu, aku setuju"
+    },
+    {
+      "t": 178.0,
+      "end": 178.0,
+      "text": "[Outro - accordion and clarinet]"
+    }
+  ]
+}

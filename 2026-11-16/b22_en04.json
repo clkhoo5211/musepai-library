@@ -1,0 +1,377 @@
+{
+  "id": "b22_en04",
+  "title": "Gold Leaf Mistake",
+  "title_source": "scripted",
+  "genre": "acid jazz",
+  "language": "en",
+  "language_name": "English",
+  "mood": "cheeky, groovy, bright",
+  "persona": "",
+  "subject": "A shop-front sign-writer gilds the name of a new bakery in gold leaf, spells it wrong, and the owner keeps it because queues form to point at it",
+  "caption": "Acid jazz, 1990s London club session sound. Rhodes electric piano playing syncopated minor-seventh chords, wah-wah rhythm guitar chopping on the offbeats, trumpet and tenor sax horn stabs on the chorus, round slap-leaning electric bass, tight live drums with ghost-note snare, congas. Dry punchy drums, wide Rhodes, tight horn section. Male lead voice, smooth and clear, female backing pair answering. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, D minor. Cheeky and groovy. No Hammond organ, no synth leads, no autotune, no rapping, no four-on-the-floor EDM kick.",
+  "lyrics": "[Intro - Rhodes, wah guitar, conga]\n\n[Verse 1]\nBrush in my hand at seven in the morning\nGold leaf lifting off the book\nBaker wants his name across the window\nBread and Butter, but I wrote Breed\n\n[Pre-Chorus]\nSteady hand, steady hand\nOne long breath, then it's dry\n\n[Chorus]\nBreed and butter, breed and butter\nLook what I've gone and done\nNow the queue goes round the corner\nEverybody's pointing up\n\n[Verse 2]\nI came back with my turpentine\nThe baker said leave it, it's perfect\nHe sold out before the noon\n\n[Chorus]\nBreed and butter, breed and butter\nLook what I've gone and done\nHe's paid me twice the fee\nGold is gold and wrong is right\n\n[Bridge - horns, drums break]\nOne letter, one letter\nNow it's on a postcard\n\n[Chorus]\nBreed and butter, breed and butter\nLook what I've gone and done\nBetter than the proper one\nEverybody's pointing up\n\n[Outro - wah guitar, Rhodes vamp]\nBreed and butter\nBreed and butter",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Acid jazz, 1990s London club session sound. Rhodes electric piano playing syncopated minor-seventh chords, wah-wah rhythm guitar chopping on the offbeats, trumpet and tenor sax horn stabs on the chorus, round slap-leaning electric bass, tight live drums with ghost-note snare, congas. Dry punchy drums, wide Rhodes, tight horn section. Male lead voice, smooth and clear, female backing pair answering. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, D minor. Cheeky and groovy. No Hammond organ, no synth leads, no autotune, no rapping, no four-on-the-floor EDM kick.",
+    "lyrics": "[Intro - Rhodes, wah guitar, conga]\n\n[Verse 1]\nBrush in my hand at seven in the morning\nGold leaf lifting off the book\nBaker wants his name across the window\nBread and Butter, but I wrote Breed\n\n[Pre-Chorus]\nSteady hand, steady hand\nOne long breath, then it's dry\n\n[Chorus]\nBreed and butter, breed and butter\nLook what I've gone and done\nNow the queue goes round the corner\nEverybody's pointing up\n\n[Verse 2]\nI came back with my turpentine\nThe baker said leave it, it's perfect\nHe sold out before the noon\n\n[Chorus]\nBreed and butter, breed and butter\nLook what I've gone and done\nHe's paid me twice the fee\nGold is gold and wrong is right\n\n[Bridge - horns, drums break]\nOne letter, one letter\nNow it's on a postcard\n\n[Chorus]\nBreed and butter, breed and butter\nLook what I've gone and done\nBetter than the proper one\nEverybody's pointing up\n\n[Outro - wah guitar, Rhodes vamp]\nBreed and butter\nBreed and butter"
+  },
+  "seed": "2712074530",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.69s**\n- 61.69s per song\n- LM phase (1 song): 9.61s\n- DiT phase (1 song): 52.08s",
+  "task_id": "260c3df4-b510-4f54-aa19-4c28e7f9efa3",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-16T17:36:15.710336+08:00",
+  "audio": "b22_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.34,
+      "end": 0.34,
+      "text": "[Intro - Rhodes, wah guitar, conga]"
+    },
+    {
+      "t": 0.34,
+      "end": 0.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.34,
+      "end": 13.14,
+      "text": "Brush in my hand at seven in the morning"
+    },
+    {
+      "t": 13.36,
+      "end": 27.04,
+      "text": "Gold leaf lifting off the book"
+    },
+    {
+      "t": 27.06,
+      "end": 36.08,
+      "text": "Baker wants his name across the window"
+    },
+    {
+      "t": 36.12,
+      "end": 45.24,
+      "text": "Bread and Butter, but I wrote Breed"
+    },
+    {
+      "t": 48.78,
+      "end": 48.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.78,
+      "end": 52.34,
+      "text": "Steady hand, steady hand"
+    },
+    {
+      "t": 53.79,
+      "end": 55.45,
+      "text": "One long breath, then it's dry"
+    },
+    {
+      "t": 55.47,
+      "end": 55.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.47,
+      "end": 59.79,
+      "text": "Breed and butter, breed and butter"
+    },
+    {
+      "t": 59.79,
+      "end": 61.61,
+      "text": "Look what I've gone and done"
+    },
+    {
+      "t": 63.31,
+      "end": 66.01,
+      "text": "Now the queue goes round the corner"
+    },
+    {
+      "t": 67.97,
+      "end": 81.47,
+      "text": "Everybody's pointing up"
+    },
+    {
+      "t": 81.63,
+      "end": 81.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.63,
+      "end": 84.31,
+      "text": "I came back with my turpentine"
+    },
+    {
+      "t": 86.23,
+      "end": 89.17,
+      "text": "The baker said leave it, it's perfect"
+    },
+    {
+      "t": 90.21,
+      "end": 92.49,
+      "text": "He sold out before the noon"
+    },
+    {
+      "t": 94.37,
+      "end": 94.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.37,
+      "end": 99.79,
+      "text": "Breed and butter, breed and butter"
+    },
+    {
+      "t": 99.93,
+      "end": 101.69,
+      "text": "Look what I've gone and done"
+    },
+    {
+      "t": 103.33,
+      "end": 106.05,
+      "text": "He's paid me twice the fee"
+    },
+    {
+      "t": 108.09,
+      "end": 112.67,
+      "text": "Gold is gold and wrong is right"
+    },
+    {
+      "t": 112.69,
+      "end": 112.69,
+      "text": "[Bridge - horns, drums break]"
+    },
+    {
+      "t": 112.69,
+      "end": 117.61,
+      "text": "One letter, one letter"
+    },
+    {
+      "t": 121.59,
+      "end": 124.39,
+      "text": "Now it's on a postcard"
+    },
+    {
+      "t": 143.17,
+      "end": 143.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.17,
+      "end": 152.55,
+      "text": "Breed and butter, breed and butter"
+    },
+    {
+      "t": 152.55,
+      "end": 158.98,
+      "text": "Look what I've gone and done"
+    },
+    {
+      "t": 161.12,
+      "end": 163.58,
+      "text": "Better than the proper one"
+    },
+    {
+      "t": 164.86,
+      "end": 169.56,
+      "text": "Everybody's pointing up"
+    },
+    {
+      "t": 170.08,
+      "end": 170.08,
+      "text": "[Outro - wah guitar, Rhodes vamp]"
+    },
+    {
+      "t": 170.08,
+      "end": 171.66,
+      "text": "Breed and butter"
+    },
+    {
+      "t": 179.1,
+      "end": 196.18,
+      "text": "Breed and butter"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 9.7,
+      "end": 9.7,
+      "text": "[Intro - Rhodes, wah guitar, conga]"
+    },
+    {
+      "t": 9.7,
+      "end": 9.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 9.7,
+      "end": 13.08,
+      "text": "Brush in my hand at seven in the morning"
+    },
+    {
+      "t": 13.1,
+      "end": 14.46,
+      "text": "Gold leaf lifting off the book"
+    },
+    {
+      "t": 14.52,
+      "end": 49.78,
+      "text": "Baker wants his name across the window"
+    },
+    {
+      "t": 49.8,
+      "end": 51.36,
+      "text": "Bread and Butter, but I wrote Breed"
+    },
+    {
+      "t": 51.36,
+      "end": 51.36,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.36,
+      "end": 53.81,
+      "text": "Steady hand, steady hand"
+    },
+    {
+      "t": 53.81,
+      "end": 54.91,
+      "text": "One long breath, then it's dry"
+    },
+    {
+      "t": 54.91,
+      "end": 54.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.91,
+      "end": 59.79,
+      "text": "Breed and butter, breed and butter"
+    },
+    {
+      "t": 59.79,
+      "end": 63.51,
+      "text": "Look what I've gone and done"
+    },
+    {
+      "t": 63.51,
+      "end": 65.99,
+      "text": "Now the queue goes round the corner"
+    },
+    {
+      "t": 67.97,
+      "end": 70.71,
+      "text": "Everybody's pointing up"
+    },
+    {
+      "t": 81.63,
+      "end": 81.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.63,
+      "end": 84.27,
+      "text": "I came back with my turpentine"
+    },
+    {
+      "t": 86.23,
+      "end": 89.17,
+      "text": "The baker said leave it, it's perfect"
+    },
+    {
+      "t": 90.21,
+      "end": 92.47,
+      "text": "He sold out before the noon"
+    },
+    {
+      "t": 94.35,
+      "end": 94.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.35,
+      "end": 99.79,
+      "text": "Breed and butter, breed and butter"
+    },
+    {
+      "t": 99.85,
+      "end": 101.63,
+      "text": "Look what I've gone and done"
+    },
+    {
+      "t": 103.35,
+      "end": 106.07,
+      "text": "He's paid me twice the fee"
+    },
+    {
+      "t": 108.09,
+      "end": 110.61,
+      "text": "Gold is gold and wrong is right"
+    },
+    {
+      "t": 112.69,
+      "end": 112.69,
+      "text": "[Bridge - horns, drums break]"
+    },
+    {
+      "t": 112.69,
+      "end": 114.89,
+      "text": "One letter, one letter"
+    },
+    {
+      "t": 121.59,
+      "end": 124.39,
+      "text": "Now it's on a postcard"
+    },
+    {
+      "t": 143.15,
+      "end": 143.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.15,
+      "end": 152.57,
+      "text": "Breed and butter, breed and butter"
+    },
+    {
+      "t": 152.57,
+      "end": 158.96,
+      "text": "Look what I've gone and done"
+    },
+    {
+      "t": 161.12,
+      "end": 163.6,
+      "text": "Better than the proper one"
+    },
+    {
+      "t": 164.86,
+      "end": 167.86,
+      "text": "Everybody's pointing up"
+    },
+    {
+      "t": 170.14,
+      "end": 170.14,
+      "text": "[Outro - wah guitar, Rhodes vamp]"
+    },
+    {
+      "t": 170.14,
+      "end": 179.18,
+      "text": "Breed and butter"
+    },
+    {
+      "t": 180.2,
+      "end": 188.72,
+      "text": "Breed and butter"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

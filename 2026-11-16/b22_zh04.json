@@ -1,0 +1,564 @@
+{
+  "id": "b22_zh04",
+  "title": "三年前的那只鐘",
+  "title_source": "scripted",
+  "genre": "Quebec chanson with accordion and upright bass (Mandarin storytelling)",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "wry, warm, storytelling",
+  "persona": "",
+  "subject": "a clock repairer whose window is lined with fixed clocks nobody collected, and the woman who comes to pick hers up three years late and is told she is only three years behind",
+  "caption": "Quebec chanson with accordion and upright bass, lilting 3/4 waltz-time storytelling song with a Chinese clock-shop setting. Diatonic accordion playing a lilting waltz melody and sustained chords, upright bass plucking root and fifth in three, nylon-string guitar strumming soft chords, brushed snare with a soft kick, light clarinet doubling the tune in the second verse. Intimate Montreal cafe-cabaret live mix with warm room sound and gentle plate reverb. Male lead, gentle baritone, speaking-close storyteller delivery but clearly sung on pitch. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, G major. wry, warm, storytelling mood. No rap, no trap hi-hats, no autotune, no drum machine, no synth pads, no electric guitar solos.",
+  "lyrics": "[Intro - accordion and upright bass]\n\n[Verse 1]\n我的店裡 掛滿了鐘\n每一只都修好 沒人來拿\n牆上的指針 各走各的\n窗口那一排 最準的在左邊\n\n[Pre-Chorus]\n單子上寫著 她的名字\n三年了 紙都黃了\n我每天 還是替她上發條\n\n[Chorus]\n滴答 滴答 它還在走\n你的鐘 我天天擦\n你問我現在幾點\n我說 小姐 你只晚了三年\n\n[Verse 2]\n下午三點 她推開了門\n說師傅 我是來拿鐘的\n我說 我知道 它等你很久\n\n[Chorus]\n滴答 滴答 它還在走\n你的鐘 我天天擦\n你問我現在幾點\n我說 小姐 你只晚了三年\n\n[Bridge - accordion and bass alone]\n她付了錢 又問我\n這條街 你怎麼守得住\n我說 鐘一停 我就睡不著\n\n[Chorus]\n滴答 滴答 它還在走\n你的鐘 我天天擦\n你問我現在幾點\n我說 小姐 你剛好趕上\n\n[Outro - accordion and nylon guitar fade]\n下次別再 讓它等了",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Quebec chanson with accordion and upright bass, lilting 3/4 waltz-time storytelling song with a Chinese clock-shop setting. Diatonic accordion playing a lilting waltz melody and sustained chords, upright bass plucking root and fifth in three, nylon-string guitar strumming soft chords, brushed snare with a soft kick, light clarinet doubling the tune in the second verse. Intimate Montreal cafe-cabaret live mix with warm room sound and gentle plate reverb. Male lead, gentle baritone, speaking-close storyteller delivery but clearly sung on pitch. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, G major. wry, warm, storytelling mood. No rap, no trap hi-hats, no autotune, no drum machine, no synth pads, no electric guitar solos.",
+    "lyrics": "[Intro - accordion and upright bass]\n\n[Verse 1]\n我的店裡 掛滿了鐘\n每一只都修好 沒人來拿\n牆上的指針 各走各的\n窗口那一排 最準的在左邊\n\n[Pre-Chorus]\n單子上寫著 她的名字\n三年了 紙都黃了\n我每天 還是替她上發條\n\n[Chorus]\n滴答 滴答 它還在走\n你的鐘 我天天擦\n你問我現在幾點\n我說 小姐 你只晚了三年\n\n[Verse 2]\n下午三點 她推開了門\n說師傅 我是來拿鐘的\n我說 我知道 它等你很久\n\n[Chorus]\n滴答 滴答 它還在走\n你的鐘 我天天擦\n你問我現在幾點\n我說 小姐 你只晚了三年\n\n[Bridge - accordion and bass alone]\n她付了錢 又問我\n這條街 你怎麼守得住\n我說 鐘一停 我就睡不著\n\n[Chorus]\n滴答 滴答 它還在走\n你的鐘 我天天擦\n你問我現在幾點\n我說 小姐 你剛好趕上\n\n[Outro - accordion and nylon guitar fade]\n下次別再 讓它等了"
+  },
+  "seed": "2004066728",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.40s**\n- 64.40s per song\n- LM phase (1 song): 11.34s\n- DiT phase (1 song): 53.06s",
+  "task_id": "4f6c2926-159f-43fd-9d47-4d607e250786",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-16T17:43:36.764121+08:00",
+  "audio": "b22_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.36,
+      "end": 22.36,
+      "text": "[Intro - accordion and upright bass]"
+    },
+    {
+      "t": 22.36,
+      "end": 22.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.36,
+      "end": 26.06,
+      "text": "我的店裡 掛滿了鐘"
+    },
+    {
+      "t": 31.72,
+      "end": 36.08,
+      "text": "每一只都修好 沒人來拿"
+    },
+    {
+      "t": 36.08,
+      "end": 41.62,
+      "text": "牆上的指針 各走各的"
+    },
+    {
+      "t": 41.62,
+      "end": 44.34,
+      "text": "窗口那一排 最準的在左邊"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.92,
+      "end": 50.89,
+      "text": "單子上寫著 她的名字"
+    },
+    {
+      "t": 50.91,
+      "end": 54.03,
+      "text": "三年了 紙都黃了"
+    },
+    {
+      "t": 54.05,
+      "end": 58.13,
+      "text": "我每天 還是替她上發條"
+    },
+    {
+      "t": 59.49,
+      "end": 59.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.49,
+      "end": 63.07,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 65.59,
+      "end": 73.53,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 75.43,
+      "end": 77.63,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 77.75,
+      "end": 81.61,
+      "text": "我說 小姐 你只晚了三年"
+    },
+    {
+      "t": 81.65,
+      "end": 81.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.65,
+      "end": 116.29,
+      "text": "下午三點 她推開了門"
+    },
+    {
+      "t": 116.33,
+      "end": 118.51,
+      "text": "說師傅 我是來拿鐘的"
+    },
+    {
+      "t": 118.51,
+      "end": 122.21,
+      "text": "我說 我知道 它等你很久"
+    },
+    {
+      "t": 122.25,
+      "end": 122.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.25,
+      "end": 123.21,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 123.21,
+      "end": 124.69,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 124.69,
+      "end": 126.31,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 126.31,
+      "end": 128.85,
+      "text": "我說 小姐 你只晚了三年"
+    },
+    {
+      "t": 128.95,
+      "end": 128.95,
+      "text": "[Bridge - accordion and bass alone]"
+    },
+    {
+      "t": 128.95,
+      "end": 132.89,
+      "text": "她付了錢 又問我"
+    },
+    {
+      "t": 132.97,
+      "end": 135.89,
+      "text": "這條街 你怎麼守得住"
+    },
+    {
+      "t": 137.73,
+      "end": 141.47,
+      "text": "我說 鐘一停 我就睡不著"
+    },
+    {
+      "t": 144.17,
+      "end": 144.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.17,
+      "end": 146.71,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 146.71,
+      "end": 152.2,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 154.06,
+      "end": 156.6,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 158.7,
+      "end": 163.44,
+      "text": "我說 小姐 你剛好趕上"
+    },
+    {
+      "t": 181.2,
+      "end": 181.2,
+      "text": "[Outro - accordion and nylon guitar fade]"
+    },
+    {
+      "t": 181.2,
+      "end": 184.36,
+      "text": "下次別再 讓它等了"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.36,
+      "end": 22.36,
+      "text": "[Intro - accordion and upright bass]"
+    },
+    {
+      "t": 22.36,
+      "end": 22.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.36,
+      "end": 26.06,
+      "text": "我的店裡 掛滿了鐘"
+    },
+    {
+      "t": 31.72,
+      "end": 36.08,
+      "text": "每一只都修好 沒人來拿"
+    },
+    {
+      "t": 36.08,
+      "end": 41.62,
+      "text": "牆上的指針 各走各的"
+    },
+    {
+      "t": 41.62,
+      "end": 44.34,
+      "text": "窗口那一排 最準的在左邊"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.92,
+      "end": 50.89,
+      "text": "單子上寫著 她的名字"
+    },
+    {
+      "t": 50.91,
+      "end": 54.03,
+      "text": "三年了 紙都黃了"
+    },
+    {
+      "t": 54.05,
+      "end": 58.13,
+      "text": "我每天 還是替她上發條"
+    },
+    {
+      "t": 59.49,
+      "end": 59.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.49,
+      "end": 63.07,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 65.59,
+      "end": 73.53,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 75.43,
+      "end": 77.63,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 77.75,
+      "end": 81.61,
+      "text": "我說 小姐 你只晚了三年"
+    },
+    {
+      "t": 81.65,
+      "end": 81.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.65,
+      "end": 116.29,
+      "text": "下午三點 她推開了門"
+    },
+    {
+      "t": 116.33,
+      "end": 118.51,
+      "text": "說師傅 我是來拿鐘的"
+    },
+    {
+      "t": 118.51,
+      "end": 122.21,
+      "text": "我說 我知道 它等你很久"
+    },
+    {
+      "t": 122.25,
+      "end": 122.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.25,
+      "end": 123.21,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 123.21,
+      "end": 124.69,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 124.69,
+      "end": 126.31,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 126.31,
+      "end": 128.85,
+      "text": "我說 小姐 你只晚了三年"
+    },
+    {
+      "t": 128.95,
+      "end": 128.95,
+      "text": "[Bridge - accordion and bass alone]"
+    },
+    {
+      "t": 128.95,
+      "end": 132.89,
+      "text": "她付了錢 又問我"
+    },
+    {
+      "t": 132.97,
+      "end": 135.89,
+      "text": "這條街 你怎麼守得住"
+    },
+    {
+      "t": 137.73,
+      "end": 141.47,
+      "text": "我說 鐘一停 我就睡不著"
+    },
+    {
+      "t": 144.17,
+      "end": 144.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.17,
+      "end": 146.71,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 146.71,
+      "end": 152.2,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 154.06,
+      "end": 156.6,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 158.7,
+      "end": 163.44,
+      "text": "我說 小姐 你剛好趕上"
+    },
+    {
+      "t": 181.2,
+      "end": 181.2,
+      "text": "[Outro - accordion and nylon guitar fade]"
+    },
+    {
+      "t": 181.2,
+      "end": 184.36,
+      "text": "下次別再 讓它等了"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 22.42,
+      "end": 22.42,
+      "text": "[Intro - accordion and upright bass]"
+    },
+    {
+      "t": 22.42,
+      "end": 22.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.42,
+      "end": 26.04,
+      "text": "我的店裡 掛滿了鐘"
+    },
+    {
+      "t": 31.74,
+      "end": 36.3,
+      "text": "每一只都修好 沒人來拿"
+    },
+    {
+      "t": 36.3,
+      "end": 37.8,
+      "text": "牆上的指針 各走各的"
+    },
+    {
+      "t": 40.94,
+      "end": 44.32,
+      "text": "窗口那一排 最準的在左邊"
+    },
+    {
+      "t": 48.92,
+      "end": 48.92,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.92,
+      "end": 50.91,
+      "text": "單子上寫著 她的名字"
+    },
+    {
+      "t": 50.91,
+      "end": 51.87,
+      "text": "三年了 紙都黃了"
+    },
+    {
+      "t": 54.07,
+      "end": 58.15,
+      "text": "我每天 還是替她上發條"
+    },
+    {
+      "t": 59.49,
+      "end": 59.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.49,
+      "end": 63.07,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 65.59,
+      "end": 73.51,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 75.41,
+      "end": 77.63,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 77.73,
+      "end": 81.25,
+      "text": "我說 小姐 你只晚了三年"
+    },
+    {
+      "t": 81.37,
+      "end": 81.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.37,
+      "end": 100.01,
+      "text": "下午三點 她推開了門"
+    },
+    {
+      "t": 100.01,
+      "end": 100.81,
+      "text": "說師傅 我是來拿鐘的"
+    },
+    {
+      "t": 100.81,
+      "end": 105.67,
+      "text": "我說 我知道 它等你很久"
+    },
+    {
+      "t": 105.67,
+      "end": 105.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.67,
+      "end": 106.43,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 106.45,
+      "end": 108.65,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 108.65,
+      "end": 116.19,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 116.19,
+      "end": 120.19,
+      "text": "我說 小姐 你只晚了三年"
+    },
+    {
+      "t": 122.75,
+      "end": 122.75,
+      "text": "[Bridge - accordion and bass alone]"
+    },
+    {
+      "t": 122.75,
+      "end": 125.19,
+      "text": "她付了錢 又問我"
+    },
+    {
+      "t": 126.35,
+      "end": 129.67,
+      "text": "這條街 你怎麼守得住"
+    },
+    {
+      "t": 132.81,
+      "end": 141.49,
+      "text": "我說 鐘一停 我就睡不著"
+    },
+    {
+      "t": 144.17,
+      "end": 144.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.17,
+      "end": 146.73,
+      "text": "滴答 滴答 它還在走"
+    },
+    {
+      "t": 148.43,
+      "end": 152.2,
+      "text": "你的鐘 我天天擦"
+    },
+    {
+      "t": 154.06,
+      "end": 156.6,
+      "text": "你問我現在幾點"
+    },
+    {
+      "t": 158.68,
+      "end": 163.4,
+      "text": "我說 小姐 你剛好趕上"
+    },
+    {
+      "t": 181.2,
+      "end": 181.2,
+      "text": "[Outro - accordion and nylon guitar fade]"
+    },
+    {
+      "t": 181.2,
+      "end": 184.36,
+      "text": "下次別再 讓它等了"
+    }
+  ]
+}

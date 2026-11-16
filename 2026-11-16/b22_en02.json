@@ -1,0 +1,474 @@
+{
+  "id": "b22_en02",
+  "title": "Ticket Number Forty-One",
+  "title_source": "scripted",
+  "genre": "Russian-bard-style acoustic guitar poetry",
+  "language": "en",
+  "language_name": "English",
+  "mood": "dry, wry, tender",
+  "persona": "",
+  "subject": "A man pawns his guitar to buy his wife a ring, and the pawnbroker lets him play it every Sunday before the shop opens",
+  "caption": "Russian-bard-style acoustic guitar poetry in English, kitchen-table storytelling. Single nylon-string guitar with steady arpeggio verses and strummed Am-E7 choruses, occasional bass-string thumb runs, sparse low male harmony on the last line of each chorus. Dry close-miked room, no reverb tail, soft finger noise. Male baritone, plain warm voice, unhurried storytelling phrasing. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, A minor. Wry and tender. No drums, no synths, no strings, no autotune, no rapping, no pop polish.",
+  "lyrics": "[Intro - nylon guitar arpeggio]\n\n[Verse 1]\nI carried it in wrapped in a coat\nPast the bakery, past the bank\nThe man behind the glass said\nForty pounds, and here's your stub\n\n[Chorus]\nForty-one, forty-one\nHang it on the hook\nI will come on Sunday\nBefore the shutters rise\n\n[Verse 2]\nThe pawnbroker is a quiet man\nHe wiped the strings with his sleeve\nSaid it still holds the pitch\nBetter than my ledgers do\n\n[Verse 3]\nNow the ring is on her finger\nPlain and thin, it fits her well\nShe asks me where I go on Sundays\nI say to see an old friend\n\n[Chorus]\nForty-one, forty-one\nHe lets me hold the neck\nShe came along last Sunday\nAnd she asked me for a waltz\n\n[Outro - nylon guitar, slow strum]\nForty-one, forty-one\nSunday, at nine",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Russian-bard-style acoustic guitar poetry in English, kitchen-table storytelling. Single nylon-string guitar with steady arpeggio verses and strummed Am-E7 choruses, occasional bass-string thumb runs, sparse low male harmony on the last line of each chorus. Dry close-miked room, no reverb tail, soft finger noise. Male baritone, plain warm voice, unhurried storytelling phrasing. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, A minor. Wry and tender. No drums, no synths, no strings, no autotune, no rapping, no pop polish.",
+    "lyrics": "[Intro - nylon guitar arpeggio]\n\n[Verse 1]\nI carried it in wrapped in a coat\nPast the bakery, past the bank\nThe man behind the glass said\nForty pounds, and here's your stub\n\n[Chorus]\nForty-one, forty-one\nHang it on the hook\nI will come on Sunday\nBefore the shutters rise\n\n[Verse 2]\nThe pawnbroker is a quiet man\nHe wiped the strings with his sleeve\nSaid it still holds the pitch\nBetter than my ledgers do\n\n[Verse 3]\nNow the ring is on her finger\nPlain and thin, it fits her well\nShe asks me where I go on Sundays\nI say to see an old friend\n\n[Chorus]\nForty-one, forty-one\nHe lets me hold the neck\nShe came along last Sunday\nAnd she asked me for a waltz\n\n[Outro - nylon guitar, slow strum]\nForty-one, forty-one\nSunday, at nine"
+  },
+  "seed": "3590879675",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.96s**\n- 59.96s per song\n- LM phase (1 song): 6.88s\n- DiT phase (1 song): 53.08s",
+  "task_id": "738cc958-6812-4001-b1fe-ca14a836a12a",
+  "elapsed_s": 90.6,
+  "generated_at": "2026-11-16T17:33:25.370358+08:00",
+  "audio": "b22_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.14,
+      "end": 10.14,
+      "text": "[Intro - nylon guitar arpeggio]"
+    },
+    {
+      "t": 10.14,
+      "end": 10.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.14,
+      "end": 52.31,
+      "text": "I carried it in wrapped in a coat"
+    },
+    {
+      "t": 52.31,
+      "end": 54.59,
+      "text": "Past the bakery, past the bank"
+    },
+    {
+      "t": 54.59,
+      "end": 55.21,
+      "text": "The man behind the glass said"
+    },
+    {
+      "t": 55.21,
+      "end": 55.81,
+      "text": "Forty pounds, and here's your stub"
+    },
+    {
+      "t": 55.81,
+      "end": 55.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.81,
+      "end": 56.25,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 56.31,
+      "end": 56.91,
+      "text": "Hang it on the hook"
+    },
+    {
+      "t": 60.79,
+      "end": 63.27,
+      "text": "I will come on Sunday"
+    },
+    {
+      "t": 65.81,
+      "end": 68.53,
+      "text": "Before the shutters rise"
+    },
+    {
+      "t": 70.17,
+      "end": 70.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.17,
+      "end": 73.91,
+      "text": "The pawnbroker is a quiet man"
+    },
+    {
+      "t": 75.65,
+      "end": 79.07,
+      "text": "He wiped the strings with his sleeve"
+    },
+    {
+      "t": 81.57,
+      "end": 84.09,
+      "text": "Said it still holds the pitch"
+    },
+    {
+      "t": 86.27,
+      "end": 89.05,
+      "text": "Better than my ledgers do"
+    },
+    {
+      "t": 93.49,
+      "end": 93.49,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 93.49,
+      "end": 97.35,
+      "text": "Now the ring is on her finger"
+    },
+    {
+      "t": 97.41,
+      "end": 99.59,
+      "text": "Plain and thin, it fits her well"
+    },
+    {
+      "t": 101.47,
+      "end": 106.41,
+      "text": "She asks me where I go on Sundays"
+    },
+    {
+      "t": 107.49,
+      "end": 110.85,
+      "text": "I say to see an old friend"
+    },
+    {
+      "t": 112.47,
+      "end": 112.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.47,
+      "end": 116.27,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 117.35,
+      "end": 120.07,
+      "text": "He lets me hold the neck"
+    },
+    {
+      "t": 123.11,
+      "end": 127.07,
+      "text": "She came along last Sunday"
+    },
+    {
+      "t": 128.17,
+      "end": 132.15,
+      "text": "And she asked me for a waltz"
+    },
+    {
+      "t": 133.93,
+      "end": 133.93,
+      "text": "[Outro - nylon guitar, slow strum]"
+    },
+    {
+      "t": 133.93,
+      "end": 169.54,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 188.4,
+      "end": 190.52,
+      "text": "Sunday, at nine"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 10.14,
+      "end": 10.14,
+      "text": "[Intro - nylon guitar arpeggio]"
+    },
+    {
+      "t": 10.14,
+      "end": 10.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.14,
+      "end": 52.31,
+      "text": "I carried it in wrapped in a coat"
+    },
+    {
+      "t": 52.31,
+      "end": 54.59,
+      "text": "Past the bakery, past the bank"
+    },
+    {
+      "t": 54.59,
+      "end": 55.21,
+      "text": "The man behind the glass said"
+    },
+    {
+      "t": 55.21,
+      "end": 55.81,
+      "text": "Forty pounds, and here's your stub"
+    },
+    {
+      "t": 55.81,
+      "end": 55.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.81,
+      "end": 56.25,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 56.31,
+      "end": 56.91,
+      "text": "Hang it on the hook"
+    },
+    {
+      "t": 60.79,
+      "end": 63.27,
+      "text": "I will come on Sunday"
+    },
+    {
+      "t": 65.81,
+      "end": 68.53,
+      "text": "Before the shutters rise"
+    },
+    {
+      "t": 70.17,
+      "end": 70.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.17,
+      "end": 73.91,
+      "text": "The pawnbroker is a quiet man"
+    },
+    {
+      "t": 75.65,
+      "end": 79.07,
+      "text": "He wiped the strings with his sleeve"
+    },
+    {
+      "t": 81.57,
+      "end": 84.09,
+      "text": "Said it still holds the pitch"
+    },
+    {
+      "t": 86.27,
+      "end": 89.05,
+      "text": "Better than my ledgers do"
+    },
+    {
+      "t": 93.49,
+      "end": 93.49,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 93.49,
+      "end": 97.35,
+      "text": "Now the ring is on her finger"
+    },
+    {
+      "t": 97.41,
+      "end": 99.59,
+      "text": "Plain and thin, it fits her well"
+    },
+    {
+      "t": 101.47,
+      "end": 106.41,
+      "text": "She asks me where I go on Sundays"
+    },
+    {
+      "t": 107.49,
+      "end": 110.85,
+      "text": "I say to see an old friend"
+    },
+    {
+      "t": 112.47,
+      "end": 112.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.47,
+      "end": 116.27,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 117.35,
+      "end": 120.07,
+      "text": "He lets me hold the neck"
+    },
+    {
+      "t": 123.11,
+      "end": 127.07,
+      "text": "She came along last Sunday"
+    },
+    {
+      "t": 128.17,
+      "end": 132.15,
+      "text": "And she asked me for a waltz"
+    },
+    {
+      "t": 133.93,
+      "end": 133.93,
+      "text": "[Outro - nylon guitar, slow strum]"
+    },
+    {
+      "t": 133.93,
+      "end": 169.54,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 188.4,
+      "end": 190.52,
+      "text": "Sunday, at nine"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 4.1,
+      "end": 4.1,
+      "text": "[Intro - nylon guitar arpeggio]"
+    },
+    {
+      "t": 4.1,
+      "end": 4.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.1,
+      "end": 10.16,
+      "text": "I carried it in wrapped in a coat"
+    },
+    {
+      "t": 10.16,
+      "end": 42.58,
+      "text": "Past the bakery, past the bank"
+    },
+    {
+      "t": 42.58,
+      "end": 43.48,
+      "text": "The man behind the glass said"
+    },
+    {
+      "t": 43.48,
+      "end": 49.66,
+      "text": "Forty pounds, and here's your stub"
+    },
+    {
+      "t": 49.66,
+      "end": 49.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.66,
+      "end": 53.01,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 54.59,
+      "end": 56.93,
+      "text": "Hang it on the hook"
+    },
+    {
+      "t": 60.79,
+      "end": 63.27,
+      "text": "I will come on Sunday"
+    },
+    {
+      "t": 65.83,
+      "end": 68.53,
+      "text": "Before the shutters rise"
+    },
+    {
+      "t": 70.17,
+      "end": 70.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.17,
+      "end": 73.95,
+      "text": "The pawnbroker is a quiet man"
+    },
+    {
+      "t": 75.65,
+      "end": 79.11,
+      "text": "He wiped the strings with his sleeve"
+    },
+    {
+      "t": 81.57,
+      "end": 84.09,
+      "text": "Said it still holds the pitch"
+    },
+    {
+      "t": 86.27,
+      "end": 89.05,
+      "text": "Better than my ledgers do"
+    },
+    {
+      "t": 93.47,
+      "end": 93.47,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 93.47,
+      "end": 97.35,
+      "text": "Now the ring is on her finger"
+    },
+    {
+      "t": 97.41,
+      "end": 99.57,
+      "text": "Plain and thin, it fits her well"
+    },
+    {
+      "t": 101.47,
+      "end": 106.41,
+      "text": "She asks me where I go on Sundays"
+    },
+    {
+      "t": 107.49,
+      "end": 110.89,
+      "text": "I say to see an old friend"
+    },
+    {
+      "t": 112.47,
+      "end": 112.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.47,
+      "end": 116.27,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 117.35,
+      "end": 120.11,
+      "text": "He lets me hold the neck"
+    },
+    {
+      "t": 123.11,
+      "end": 127.07,
+      "text": "She came along last Sunday"
+    },
+    {
+      "t": 128.17,
+      "end": 132.15,
+      "text": "And she asked me for a waltz"
+    },
+    {
+      "t": 133.93,
+      "end": 133.93,
+      "text": "[Outro - nylon guitar, slow strum]"
+    },
+    {
+      "t": 133.93,
+      "end": 169.52,
+      "text": "Forty-one, forty-one"
+    },
+    {
+      "t": 188.4,
+      "end": 190.56,
+      "text": "Sunday, at nine"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b22_ko03",
+  "title": "깎다 만 연필",
+  "title_source": "scripted",
+  "genre": "1970s Persian pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wistful, hesitant, tender",
+  "persona": "",
+  "subject": "a shy man in a tea house who keeps sharpening one pencil with a pocketknife to avoid writing the first line of a letter to the woman who pours his tea",
+  "caption": "1970s Persian pop. Clean electric guitar with light chorus plays a sliding minor-mode melody, tombak keeps a rolling 6/8-feel groove with finger rolls, a lush string section sweeps in long lines on the chorus, round bass guitar underneath. Vintage studio warmth, gentle plate reverb on the strings. Warm male baritone lead, tender and slightly trembling, plain intimate delivery. 98 BPM, D minor. Wistful, hesitant, tender. Clear full voice, every word enunciated, steady sung melody on every line. No trap hi-hats, no autotune, no EDM synths, no rapping, no santur or ney solos.",
+  "lyrics": "[Intro - guitar melody over tombak, strings enter]\n\n[Verse 1]\n찻집 구석 낡은 탁자 위에\n하얀 편지지 한 장 놓고\n주머니칼로 연필을 깎아요\n첫 줄이 도무지 안 나와요\n\n[Pre-Chorus]\n깎고 또 깎아 반 토막이 됐어요\n접시엔 나무 부스러기뿐\n\n[Chorus]\n당신 이름만 쓰면 되는데\n연필심이 자꾸 부러져요\n손이 떨려서 그런가 봐요\n한 번 더 깎아 볼게요\n\n[Verse 2]\n카운터에서 당신이 다가와\n접시 위 부스러기를 보고\n웃으며 차를 다시 따라줘요\n식은 줄도 몰랐네요\n\n[Pre-Chorus]\n편지지 맨 위에 당신 이름\n겨우 한 줄 적었어요\n\n[Chorus]\n이름만 쓰면 되는 거였는데\n연필심은 이제 안 부러져요\n손이 아직 떨리긴 해요\n그래도 오늘은 건네줄게요\n\n[Outro - strings and guitar fade]\n깎다 만 연필 한 자루\n당신 앞에 놓고 가요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "1970s Persian pop. Clean electric guitar with light chorus plays a sliding minor-mode melody, tombak keeps a rolling 6/8-feel groove with finger rolls, a lush string section sweeps in long lines on the chorus, round bass guitar underneath. Vintage studio warmth, gentle plate reverb on the strings. Warm male baritone lead, tender and slightly trembling, plain intimate delivery. 98 BPM, D minor. Wistful, hesitant, tender. Clear full voice, every word enunciated, steady sung melody on every line. No trap hi-hats, no autotune, no EDM synths, no rapping, no santur or ney solos.",
+    "lyrics": "[Intro - guitar melody over tombak, strings enter]\n\n[Verse 1]\n찻집 구석 낡은 탁자 위에\n하얀 편지지 한 장 놓고\n주머니칼로 연필을 깎아요\n첫 줄이 도무지 안 나와요\n\n[Pre-Chorus]\n깎고 또 깎아 반 토막이 됐어요\n접시엔 나무 부스러기뿐\n\n[Chorus]\n당신 이름만 쓰면 되는데\n연필심이 자꾸 부러져요\n손이 떨려서 그런가 봐요\n한 번 더 깎아 볼게요\n\n[Verse 2]\n카운터에서 당신이 다가와\n접시 위 부스러기를 보고\n웃으며 차를 다시 따라줘요\n식은 줄도 몰랐네요\n\n[Pre-Chorus]\n편지지 맨 위에 당신 이름\n겨우 한 줄 적었어요\n\n[Chorus]\n이름만 쓰면 되는 거였는데\n연필심은 이제 안 부러져요\n손이 아직 떨리긴 해요\n그래도 오늘은 건네줄게요\n\n[Outro - strings and guitar fade]\n깎다 만 연필 한 자루\n당신 앞에 놓고 가요"
+  },
+  "seed": "1291125153",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.90s**\n- 63.90s per song\n- LM phase (1 song): 16.62s\n- DiT phase (1 song): 47.27s",
+  "task_id": "449ae660-9241-4aad-8812-ee90d301cc09",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-16T16:54:37.894985+08:00",
+  "audio": "b22_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.3,
+      "end": 27.3,
+      "text": "[Intro - guitar melody over tombak, strings enter]"
+    },
+    {
+      "t": 27.3,
+      "end": 27.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.3,
+      "end": 31.68,
+      "text": "찻집 구석 낡은 탁자 위에"
+    },
+    {
+      "t": 32.96,
+      "end": 36.24,
+      "text": "하얀 편지지 한 장 놓고"
+    },
+    {
+      "t": 36.98,
+      "end": 41.12,
+      "text": "주머니칼로 연필을 깎아요"
+    },
+    {
+      "t": 42.32,
+      "end": 46.22,
+      "text": "첫 줄이 도무지 안 나와요"
+    },
+    {
+      "t": 46.68,
+      "end": 46.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.68,
+      "end": 51.21,
+      "text": "깎고 또 깎아 반 토막이 됐어요"
+    },
+    {
+      "t": 52.29,
+      "end": 56.37,
+      "text": "접시엔 나무 부스러기뿐"
+    },
+    {
+      "t": 57.53,
+      "end": 57.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.53,
+      "end": 60.51,
+      "text": "당신 이름만 쓰면 되는데"
+    },
+    {
+      "t": 62.19,
+      "end": 66.05,
+      "text": "연필심이 자꾸 부러져요"
+    },
+    {
+      "t": 69.29,
+      "end": 73.59,
+      "text": "손이 떨려서 그런가 봐요"
+    },
+    {
+      "t": 74.87,
+      "end": 77.85,
+      "text": "한 번 더 깎아 볼게요"
+    },
+    {
+      "t": 81.67,
+      "end": 81.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.67,
+      "end": 85.23,
+      "text": "카운터에서 당신이 다가와"
+    },
+    {
+      "t": 94.31,
+      "end": 97.59,
+      "text": "접시 위 부스러기를 보고"
+    },
+    {
+      "t": 104.33,
+      "end": 108.73,
+      "text": "웃으며 차를 다시 따라줘요"
+    },
+    {
+      "t": 109.79,
+      "end": 112.47,
+      "text": "식은 줄도 몰랐네요"
+    },
+    {
+      "t": 116.59,
+      "end": 116.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 116.59,
+      "end": 120.31,
+      "text": "편지지 맨 위에 당신 이름"
+    },
+    {
+      "t": 120.33,
+      "end": 130.11,
+      "text": "겨우 한 줄 적었어요"
+    },
+    {
+      "t": 132.47,
+      "end": 132.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.47,
+      "end": 139.57,
+      "text": "이름만 쓰면 되는 거였는데"
+    },
+    {
+      "t": 139.57,
+      "end": 150.96,
+      "text": "연필심은 이제 안 부러져요"
+    },
+    {
+      "t": 151.02,
+      "end": 152.92,
+      "text": "손이 아직 떨리긴 해요"
+    },
+    {
+      "t": 154.94,
+      "end": 158.82,
+      "text": "그래도 오늘은 건네줄게요"
+    },
+    {
+      "t": 171.94,
+      "end": 171.94,
+      "text": "[Outro - strings and guitar fade]"
+    },
+    {
+      "t": 171.94,
+      "end": 185.88,
+      "text": "깎다 만 연필 한 자루"
+    },
+    {
+      "t": 188.34,
+      "end": 191.92,
+      "text": "당신 앞에 놓고 가요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.3,
+      "end": 27.3,
+      "text": "[Intro - guitar melody over tombak, strings enter]"
+    },
+    {
+      "t": 27.3,
+      "end": 27.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.3,
+      "end": 31.68,
+      "text": "찻집 구석 낡은 탁자 위에"
+    },
+    {
+      "t": 32.96,
+      "end": 36.24,
+      "text": "하얀 편지지 한 장 놓고"
+    },
+    {
+      "t": 36.98,
+      "end": 41.12,
+      "text": "주머니칼로 연필을 깎아요"
+    },
+    {
+      "t": 42.32,
+      "end": 46.22,
+      "text": "첫 줄이 도무지 안 나와요"
+    },
+    {
+      "t": 46.68,
+      "end": 46.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.68,
+      "end": 51.21,
+      "text": "깎고 또 깎아 반 토막이 됐어요"
+    },
+    {
+      "t": 52.29,
+      "end": 56.37,
+      "text": "접시엔 나무 부스러기뿐"
+    },
+    {
+      "t": 57.53,
+      "end": 57.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.53,
+      "end": 60.51,
+      "text": "당신 이름만 쓰면 되는데"
+    },
+    {
+      "t": 62.19,
+      "end": 66.05,
+      "text": "연필심이 자꾸 부러져요"
+    },
+    {
+      "t": 69.29,
+      "end": 73.59,
+      "text": "손이 떨려서 그런가 봐요"
+    },
+    {
+      "t": 74.87,
+      "end": 77.85,
+      "text": "한 번 더 깎아 볼게요"
+    },
+    {
+      "t": 81.67,
+      "end": 81.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.67,
+      "end": 85.23,
+      "text": "카운터에서 당신이 다가와"
+    },
+    {
+      "t": 94.31,
+      "end": 97.59,
+      "text": "접시 위 부스러기를 보고"
+    },
+    {
+      "t": 104.33,
+      "end": 108.73,
+      "text": "웃으며 차를 다시 따라줘요"
+    },
+    {
+      "t": 109.79,
+      "end": 112.47,
+      "text": "식은 줄도 몰랐네요"
+    },
+    {
+      "t": 116.59,
+      "end": 116.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 116.59,
+      "end": 120.31,
+      "text": "편지지 맨 위에 당신 이름"
+    },
+    {
+      "t": 120.33,
+      "end": 130.11,
+      "text": "겨우 한 줄 적었어요"
+    },
+    {
+      "t": 132.47,
+      "end": 132.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.47,
+      "end": 139.57,
+      "text": "이름만 쓰면 되는 거였는데"
+    },
+    {
+      "t": 139.57,
+      "end": 150.96,
+      "text": "연필심은 이제 안 부러져요"
+    },
+    {
+      "t": 151.02,
+      "end": 152.92,
+      "text": "손이 아직 떨리긴 해요"
+    },
+    {
+      "t": 154.94,
+      "end": 158.82,
+      "text": "그래도 오늘은 건네줄게요"
+    },
+    {
+      "t": 171.94,
+      "end": 171.94,
+      "text": "[Outro - strings and guitar fade]"
+    },
+    {
+      "t": 171.94,
+      "end": 185.88,
+      "text": "깎다 만 연필 한 자루"
+    },
+    {
+      "t": 188.34,
+      "end": 191.92,
+      "text": "당신 앞에 놓고 가요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.3,
+      "end": 27.3,
+      "text": "[Intro - guitar melody over tombak, strings enter]"
+    },
+    {
+      "t": 27.3,
+      "end": 27.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.3,
+      "end": 31.68,
+      "text": "찻집 구석 낡은 탁자 위에"
+    },
+    {
+      "t": 32.96,
+      "end": 36.24,
+      "text": "하얀 편지지 한 장 놓고"
+    },
+    {
+      "t": 37.0,
+      "end": 41.12,
+      "text": "주머니칼로 연필을 깎아요"
+    },
+    {
+      "t": 42.34,
+      "end": 46.22,
+      "text": "첫 줄이 도무지 안 나와요"
+    },
+    {
+      "t": 46.68,
+      "end": 46.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.68,
+      "end": 51.19,
+      "text": "깎고 또 깎아 반 토막이 됐어요"
+    },
+    {
+      "t": 52.31,
+      "end": 56.37,
+      "text": "접시엔 나무 부스러기뿐"
+    },
+    {
+      "t": 57.55,
+      "end": 57.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.55,
+      "end": 60.49,
+      "text": "당신 이름만 쓰면 되는데"
+    },
+    {
+      "t": 62.21,
+      "end": 66.05,
+      "text": "연필심이 자꾸 부러져요"
+    },
+    {
+      "t": 69.29,
+      "end": 73.59,
+      "text": "손이 떨려서 그런가 봐요"
+    },
+    {
+      "t": 74.87,
+      "end": 77.85,
+      "text": "한 번 더 깎아 볼게요"
+    },
+    {
+      "t": 81.67,
+      "end": 81.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.67,
+      "end": 85.23,
+      "text": "카운터에서 당신이 다가와"
+    },
+    {
+      "t": 87.23,
+      "end": 97.59,
+      "text": "접시 위 부스러기를 보고"
+    },
+    {
+      "t": 104.31,
+      "end": 108.71,
+      "text": "웃으며 차를 다시 따라줘요"
+    },
+    {
+      "t": 109.79,
+      "end": 112.45,
+      "text": "식은 줄도 몰랐네요"
+    },
+    {
+      "t": 116.59,
+      "end": 116.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 116.59,
+      "end": 120.27,
+      "text": "편지지 맨 위에 당신 이름"
+    },
+    {
+      "t": 120.27,
+      "end": 125.07,
+      "text": "겨우 한 줄 적었어요"
+    },
+    {
+      "t": 126.29,
+      "end": 126.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.29,
+      "end": 129.89,
+      "text": "이름만 쓰면 되는 거였는데"
+    },
+    {
+      "t": 129.99,
+      "end": 150.64,
+      "text": "연필심은 이제 안 부러져요"
+    },
+    {
+      "t": 150.64,
+      "end": 152.9,
+      "text": "손이 아직 떨리긴 해요"
+    },
+    {
+      "t": 154.94,
+      "end": 158.82,
+      "text": "그래도 오늘은 건네줄게요"
+    },
+    {
+      "t": 172.9,
+      "end": 172.9,
+      "text": "[Outro - strings and guitar fade]"
+    },
+    {
+      "t": 172.9,
+      "end": 185.88,
+      "text": "깎다 만 연필 한 자루"
+    },
+    {
+      "t": 188.34,
+      "end": 191.92,
+      "text": "당신 앞에 놓고 가요"
+    }
+  ]
+}

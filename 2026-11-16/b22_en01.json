@@ -1,0 +1,317 @@
+{
+  "id": "b22_en01",
+  "title": "Carrot Nose",
+  "title_source": "scripted",
+  "genre": "1968-70 bubblegum pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "bouncy, sugary, cheeky, sing-along",
+  "persona": "",
+  "subject": "A girl builds a snowman in the park at lunchtime and ties her crush's lost red scarf on it, hoping he walks past and recognises it",
+  "caption": "1968-70 bubblegum pop. Fuzzy combo organ playing bouncy staccato eighth-note riffs, handclaps and tambourine on every backbeat, a round bouncy bass guitar walking in simple root-fifth patterns, straight-eighth drums with a crisp snare. Dry punchy AM-radio studio sound, light spring reverb, slightly compressed mix. Bright unison lead female vocal with a double-tracked octave, simple chanted sing-along hooks. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, G major. Bouncy, sugary and a little cheeky. No strings, no sax, no synths, no autotune, no modern pop gloss, no rapping, no EDM drums.",
+  "lyrics": "[Intro - fuzzy organ riff, handclaps, tambourine]\n\n[Verse 1]\nBuilt him a snowman by the park gate\nRolled the middle ball till it weighed a ton\nFound a red scarf on the bench last week\nHis name sewn inside it, in green\n\n[Pre-Chorus]\nI tied it round the snowman's neck\nNow I'm waiting at the lamppost\nWait, wait, wait\n\n[Chorus]\nCarrot nose, carrot nose\nTell him it was me\nOoh, I built you in the snow\nSo he'd stop and say hello\n\n[Verse 2]\nHere he comes with his lunch in a bag\nStops and stares at the lump of white\nPulls the scarf and laughs out loud\nSays whoever did this got it right\n\n[Chorus]\nCarrot nose, carrot nose\nNow he's turned around\nOoh, he's got the scarf in hand\nLooking round to see who's there\n\n[Outro - organ riff, handclaps, sing-along tag]\nThank you, carrot nose\nThank you, carrot nose",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 168.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "1968-70 bubblegum pop. Fuzzy combo organ playing bouncy staccato eighth-note riffs, handclaps and tambourine on every backbeat, a round bouncy bass guitar walking in simple root-fifth patterns, straight-eighth drums with a crisp snare. Dry punchy AM-radio studio sound, light spring reverb, slightly compressed mix. Bright unison lead female vocal with a double-tracked octave, simple chanted sing-along hooks. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, G major. Bouncy, sugary and a little cheeky. No strings, no sax, no synths, no autotune, no modern pop gloss, no rapping, no EDM drums.",
+    "lyrics": "[Intro - fuzzy organ riff, handclaps, tambourine]\n\n[Verse 1]\nBuilt him a snowman by the park gate\nRolled the middle ball till it weighed a ton\nFound a red scarf on the bench last week\nHis name sewn inside it, in green\n\n[Pre-Chorus]\nI tied it round the snowman's neck\nNow I'm waiting at the lamppost\nWait, wait, wait\n\n[Chorus]\nCarrot nose, carrot nose\nTell him it was me\nOoh, I built you in the snow\nSo he'd stop and say hello\n\n[Verse 2]\nHere he comes with his lunch in a bag\nStops and stares at the lump of white\nPulls the scarf and laughs out loud\nSays whoever did this got it right\n\n[Chorus]\nCarrot nose, carrot nose\nNow he's turned around\nOoh, he's got the scarf in hand\nLooking round to see who's there\n\n[Outro - organ riff, handclaps, sing-along tag]\nThank you, carrot nose\nThank you, carrot nose"
+  },
+  "seed": "1876355223",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 54.26s**\n- 54.26s per song\n- LM phase (1 song): 10.41s\n- DiT phase (1 song): 43.85s",
+  "task_id": "8f75b53a-43ab-4d50-ace4-e50e14fd9465",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-16T17:31:54.791343+08:00",
+  "audio": "b22_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.78,
+      "end": 16.78,
+      "text": "[Intro - fuzzy organ riff, handclaps, tambourine]"
+    },
+    {
+      "t": 16.78,
+      "end": 16.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.78,
+      "end": 24.46,
+      "text": "Built him a snowman by the park gate"
+    },
+    {
+      "t": 24.46,
+      "end": 29.1,
+      "text": "Rolled the middle ball till it weighed a ton"
+    },
+    {
+      "t": 32.52,
+      "end": 37.12,
+      "text": "Found a red scarf on the bench last week"
+    },
+    {
+      "t": 40.66,
+      "end": 45.63,
+      "text": "His name sewn inside it, in green"
+    },
+    {
+      "t": 46.59,
+      "end": 46.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.59,
+      "end": 50.17,
+      "text": "I tied it round the snowman's neck"
+    },
+    {
+      "t": 53.61,
+      "end": 58.21,
+      "text": "Now I'm waiting at the lamppost"
+    },
+    {
+      "t": 60.17,
+      "end": 61.43,
+      "text": "Wait, wait, wait"
+    },
+    {
+      "t": 61.67,
+      "end": 61.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.67,
+      "end": 64.13,
+      "text": "Carrot nose, carrot nose"
+    },
+    {
+      "t": 64.19,
+      "end": 66.07,
+      "text": "Tell him it was me"
+    },
+    {
+      "t": 69.09,
+      "end": 71.57,
+      "text": "Ooh, I built you in the snow"
+    },
+    {
+      "t": 71.75,
+      "end": 74.19,
+      "text": "So he'd stop and say hello"
+    },
+    {
+      "t": 74.37,
+      "end": 74.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.37,
+      "end": 105.17,
+      "text": "Here he comes with his lunch in a bag"
+    },
+    {
+      "t": 105.17,
+      "end": 106.87,
+      "text": "Stops and stares at the lump of white"
+    },
+    {
+      "t": 106.87,
+      "end": 114.31,
+      "text": "Pulls the scarf and laughs out loud"
+    },
+    {
+      "t": 114.31,
+      "end": 121.63,
+      "text": "Says whoever did this got it right"
+    },
+    {
+      "t": 121.83,
+      "end": 121.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.83,
+      "end": 127.46,
+      "text": "Carrot nose, carrot nose"
+    },
+    {
+      "t": 127.46,
+      "end": 131.66,
+      "text": "Now he's turned around"
+    },
+    {
+      "t": 131.74,
+      "end": 146.44,
+      "text": "Ooh, he's got the scarf in hand"
+    },
+    {
+      "t": 146.44,
+      "end": 151.84,
+      "text": "Looking round to see who's there"
+    },
+    {
+      "t": 151.84,
+      "end": 151.84,
+      "text": "[Outro - organ riff, handclaps, sing-along tag]"
+    },
+    {
+      "t": 151.84,
+      "end": 154.56,
+      "text": "Thank you, carrot nose"
+    },
+    {
+      "t": 159.84,
+      "end": 163.04,
+      "text": "Thank you, carrot nose"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.78,
+      "end": 16.78,
+      "text": "[Intro - fuzzy organ riff, handclaps, tambourine]"
+    },
+    {
+      "t": 16.78,
+      "end": 16.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.78,
+      "end": 24.46,
+      "text": "Built him a snowman by the park gate"
+    },
+    {
+      "t": 24.46,
+      "end": 29.1,
+      "text": "Rolled the middle ball till it weighed a ton"
+    },
+    {
+      "t": 32.52,
+      "end": 37.2,
+      "text": "Found a red scarf on the bench last week"
+    },
+    {
+      "t": 40.66,
+      "end": 45.61,
+      "text": "His name sewn inside it, in green"
+    },
+    {
+      "t": 46.59,
+      "end": 46.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.59,
+      "end": 50.31,
+      "text": "I tied it round the snowman's neck"
+    },
+    {
+      "t": 53.61,
+      "end": 58.21,
+      "text": "Now I'm waiting at the lamppost"
+    },
+    {
+      "t": 60.17,
+      "end": 61.45,
+      "text": "Wait, wait, wait"
+    },
+    {
+      "t": 61.67,
+      "end": 61.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.67,
+      "end": 64.15,
+      "text": "Carrot nose, carrot nose"
+    },
+    {
+      "t": 64.19,
+      "end": 66.07,
+      "text": "Tell him it was me"
+    },
+    {
+      "t": 69.07,
+      "end": 71.57,
+      "text": "Ooh, I built you in the snow"
+    },
+    {
+      "t": 71.75,
+      "end": 74.19,
+      "text": "So he'd stop and say hello"
+    },
+    {
+      "t": 74.41,
+      "end": 74.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 74.41,
+      "end": 105.17,
+      "text": "Here he comes with his lunch in a bag"
+    },
+    {
+      "t": 105.17,
+      "end": 106.73,
+      "text": "Stops and stares at the lump of white"
+    },
+    {
+      "t": 106.85,
+      "end": 113.37,
+      "text": "Pulls the scarf and laughs out loud"
+    },
+    {
+      "t": 113.57,
+      "end": 121.77,
+      "text": "Says whoever did this got it right"
+    },
+    {
+      "t": 121.83,
+      "end": 121.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.83,
+      "end": 123.71,
+      "text": "Carrot nose, carrot nose"
+    },
+    {
+      "t": 126.82,
+      "end": 131.66,
+      "text": "Now he's turned around"
+    },
+    {
+      "t": 131.72,
+      "end": 145.68,
+      "text": "Ooh, he's got the scarf in hand"
+    },
+    {
+      "t": 145.68,
+      "end": 151.48,
+      "text": "Looking round to see who's there"
+    },
+    {
+      "t": 151.84,
+      "end": 151.84,
+      "text": "[Outro - organ riff, handclaps, sing-along tag]"
+    },
+    {
+      "t": 151.84,
+      "end": 154.54,
+      "text": "Thank you, carrot nose"
+    },
+    {
+      "t": 159.84,
+      "end": 168.0,
+      "text": "Thank you, carrot nose"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

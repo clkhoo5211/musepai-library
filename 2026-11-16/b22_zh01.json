@@ -1,0 +1,387 @@
+{
+  "id": "b22_zh01",
+  "title": "兩個名字刻一顆",
+  "title_source": "scripted",
+  "genre": "Inner Mongolian long-song (urtiin duu) style ballad with tovshuur and limbe",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "tender, spacious, dry-humoured",
+  "persona": "",
+  "subject": "a stone name-seal carver in a lane workshop whose young couple customers cannot agree on a name for their baby, so he carves one name on each end of the same stone and tells them to press both",
+  "caption": "Inner Mongolian long-song (urtiin duu) style ballad, slow free-breathing 4/4 with a Chinese lane-workshop setting. Tovshuur plucked with long ringing open-string drones, limbe flute carrying the broad slow melody with long held notes, soft frame drum on beats one and three, low string pad of cello for the floor. Wide open-air steppe-style acoustic mix with natural reverb and no drums beyond the frame drum. Male lead, warm baritone, long broad phrases, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D major. tender, spacious, dry-humoured mood. No rap, no trap hi-hats, no autotune, no synth bass, no electric guitar, no dance beat, no throat-singing growls.",
+  "lyrics": "[Intro - limbe flute and tovshuur drone]\n\n[Verse 1]\n巷口小店 我刻了三十年章\n一塊壽山石 一把刻刀\n今天進來一對 年輕夫妻\n她肚子大大 他手抓著頭\n\n[Pre-Chorus]\n一個說要叫 子豪\n一個說要叫 子晴\n兩個都不讓 都望著我\n\n[Chorus]\n刻刀慢慢走 一筆一畫\n兩個名字 刻在一顆\n這頭是子豪 那頭是子晴\n蓋下去 紅紅的 兩個都在\n\n[Verse 2]\n我說不急 孩子還沒開口\n等他哭第一聲 你們再聽\n石頭放在桌上 不會吵架\n\n[Chorus]\n刻刀慢慢走 一筆一畫\n兩個名字 刻在一顆\n這頭是子豪 那頭是子晴\n蓋下去 紅紅的 兩個都在\n\n[Bridge - tovshuur and frame drum alone]\n我自己的名字 刻過一次\n那天沒人跟我吵\n現在他們吵架 比我刻字還細\n\n[Chorus]\n刻刀慢慢走 一筆一畫\n兩個名字 刻在一顆\n這頭是子豪 那頭是子晴\n等孩子出生 他自己翻面\n\n[Outro - limbe flute alone]\n章刻好了 收你一半的錢",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Inner Mongolian long-song (urtiin duu) style ballad, slow free-breathing 4/4 with a Chinese lane-workshop setting. Tovshuur plucked with long ringing open-string drones, limbe flute carrying the broad slow melody with long held notes, soft frame drum on beats one and three, low string pad of cello for the floor. Wide open-air steppe-style acoustic mix with natural reverb and no drums beyond the frame drum. Male lead, warm baritone, long broad phrases, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D major. tender, spacious, dry-humoured mood. No rap, no trap hi-hats, no autotune, no synth bass, no electric guitar, no dance beat, no throat-singing growls.",
+    "lyrics": "[Intro - limbe flute and tovshuur drone]\n\n[Verse 1]\n巷口小店 我刻了三十年章\n一塊壽山石 一把刻刀\n今天進來一對 年輕夫妻\n她肚子大大 他手抓著頭\n\n[Pre-Chorus]\n一個說要叫 子豪\n一個說要叫 子晴\n兩個都不讓 都望著我\n\n[Chorus]\n刻刀慢慢走 一筆一畫\n兩個名字 刻在一顆\n這頭是子豪 那頭是子晴\n蓋下去 紅紅的 兩個都在\n\n[Verse 2]\n我說不急 孩子還沒開口\n等他哭第一聲 你們再聽\n石頭放在桌上 不會吵架\n\n[Chorus]\n刻刀慢慢走 一筆一畫\n兩個名字 刻在一顆\n這頭是子豪 那頭是子晴\n蓋下去 紅紅的 兩個都在\n\n[Bridge - tovshuur and frame drum alone]\n我自己的名字 刻過一次\n那天沒人跟我吵\n現在他們吵架 比我刻字還細\n\n[Chorus]\n刻刀慢慢走 一筆一畫\n兩個名字 刻在一顆\n這頭是子豪 那頭是子晴\n等孩子出生 他自己翻面\n\n[Outro - limbe flute alone]\n章刻好了 收你一半的錢"
+  },
+  "seed": "3959137237",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.13s**\n- 65.13s per song\n- LM phase (1 song): 15.99s\n- DiT phase (1 song): 49.14s",
+  "task_id": "99f327a3-8699-4213-91d5-0809d0d3e555",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-16T17:39:16.065545+08:00",
+  "audio": "b22_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.56,
+      "end": 34.56,
+      "text": "[Intro - limbe flute and tovshuur drone]"
+    },
+    {
+      "t": 34.56,
+      "end": 34.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.56,
+      "end": 39.22,
+      "text": "巷口小店 我刻了三十年章"
+    },
+    {
+      "t": 41.44,
+      "end": 45.4,
+      "text": "一塊壽山石 一把刻刀"
+    },
+    {
+      "t": 47.8,
+      "end": 52.51,
+      "text": "今天進來一對 年輕夫妻"
+    },
+    {
+      "t": 53.75,
+      "end": 59.15,
+      "text": "她肚子大大 他手抓著頭"
+    },
+    {
+      "t": 60.59,
+      "end": 60.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.59,
+      "end": 63.15,
+      "text": "一個說要叫 子豪"
+    },
+    {
+      "t": 63.73,
+      "end": 66.11,
+      "text": "一個說要叫 子晴"
+    },
+    {
+      "t": 66.61,
+      "end": 71.61,
+      "text": "兩個都不讓 都望著我"
+    },
+    {
+      "t": 73.11,
+      "end": 73.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.11,
+      "end": 74.45,
+      "text": "刻刀慢慢走 一筆一畫"
+    },
+    {
+      "t": 74.47,
+      "end": 76.41,
+      "text": "兩個名字 刻在一顆"
+    },
+    {
+      "t": 80.17,
+      "end": 84.25,
+      "text": "這頭是子豪 那頭是子晴"
+    },
+    {
+      "t": 86.83,
+      "end": 90.23,
+      "text": "蓋下去 紅紅的 兩個都在"
+    },
+    {
+      "t": 90.23,
+      "end": 90.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.23,
+      "end": 92.59,
+      "text": "我說不急 孩子還沒開口"
+    },
+    {
+      "t": 92.59,
+      "end": 93.63,
+      "text": "等他哭第一聲 你們再聽"
+    },
+    {
+      "t": 93.63,
+      "end": 95.45,
+      "text": "石頭放在桌上 不會吵架"
+    },
+    {
+      "t": 95.45,
+      "end": 95.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.45,
+      "end": 96.57,
+      "text": "刻刀慢慢走 一筆一畫"
+    },
+    {
+      "t": 97.45,
+      "end": 99.85,
+      "text": "兩個名字 刻在一顆"
+    },
+    {
+      "t": 100.35,
+      "end": 103.39,
+      "text": "這頭是子豪 那頭是子晴"
+    },
+    {
+      "t": 103.73,
+      "end": 111.59,
+      "text": "蓋下去 紅紅的 兩個都在"
+    },
+    {
+      "t": 120.21,
+      "end": 120.21,
+      "text": "[Bridge - tovshuur and frame drum alone]"
+    },
+    {
+      "t": 120.21,
+      "end": 121.45,
+      "text": "我自己的名字 刻過一次"
+    },
+    {
+      "t": 121.45,
+      "end": 127.77,
+      "text": "那天沒人跟我吵"
+    },
+    {
+      "t": 127.77,
+      "end": 132.21,
+      "text": "現在他們吵架 比我刻字還細"
+    },
+    {
+      "t": 139.71,
+      "end": 139.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.71,
+      "end": 142.77,
+      "text": "刻刀慢慢走 一筆一畫"
+    },
+    {
+      "t": 142.87,
+      "end": 144.67,
+      "text": "兩個名字 刻在一顆"
+    },
+    {
+      "t": 146.59,
+      "end": 151.57,
+      "text": "這頭是子豪 那頭是子晴"
+    },
+    {
+      "t": 174.82,
+      "end": 187.36,
+      "text": "等孩子出生 他自己翻面"
+    },
+    {
+      "t": 187.4,
+      "end": 187.4,
+      "text": "[Outro - limbe flute alone]"
+    },
+    {
+      "t": 187.4,
+      "end": 192.32,
+      "text": "章刻好了 收你一半的錢"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.56,
+      "end": 34.56,
+      "text": "[Intro - limbe flute and tovshuur drone]"
+    },
+    {
+      "t": 34.56,
+      "end": 34.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.56,
+      "end": 39.22,
+      "text": "巷口小店 我刻了三十年章"
+    },
+    {
+      "t": 41.44,
+      "end": 45.62,
+      "text": "一塊壽山石 一把刻刀"
+    },
+    {
+      "t": 47.8,
+      "end": 52.57,
+      "text": "今天進來一對 年輕夫妻"
+    },
+    {
+      "t": 53.75,
+      "end": 59.15,
+      "text": "她肚子大大 他手抓著頭"
+    },
+    {
+      "t": 60.59,
+      "end": 60.59,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.59,
+      "end": 63.17,
+      "text": "一個說要叫 子豪"
+    },
+    {
+      "t": 63.73,
+      "end": 66.11,
+      "text": "一個說要叫 子晴"
+    },
+    {
+      "t": 66.61,
+      "end": 71.61,
+      "text": "兩個都不讓 都望著我"
+    },
+    {
+      "t": 73.11,
+      "end": 73.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.11,
+      "end": 76.41,
+      "text": "刻刀慢慢走 一筆一畫"
+    },
+    {
+      "t": 76.61,
+      "end": 79.87,
+      "text": "兩個名字 刻在一顆"
+    },
+    {
+      "t": 80.17,
+      "end": 85.27,
+      "text": "這頭是子豪 那頭是子晴"
+    },
+    {
+      "t": 86.83,
+      "end": 90.25,
+      "text": "蓋下去 紅紅的 兩個都在"
+    },
+    {
+      "t": 90.25,
+      "end": 90.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 90.25,
+      "end": 92.45,
+      "text": "我說不急 孩子還沒開口"
+    },
+    {
+      "t": 92.47,
+      "end": 93.61,
+      "text": "等他哭第一聲 你們再聽"
+    },
+    {
+      "t": 93.61,
+      "end": 95.49,
+      "text": "石頭放在桌上 不會吵架"
+    },
+    {
+      "t": 95.49,
+      "end": 95.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.49,
+      "end": 96.57,
+      "text": "刻刀慢慢走 一筆一畫"
+    },
+    {
+      "t": 97.45,
+      "end": 99.85,
+      "text": "兩個名字 刻在一顆"
+    },
+    {
+      "t": 100.35,
+      "end": 105.25,
+      "text": "這頭是子豪 那頭是子晴"
+    },
+    {
+      "t": 107.03,
+      "end": 111.67,
+      "text": "蓋下去 紅紅的 兩個都在"
+    },
+    {
+      "t": 120.21,
+      "end": 120.21,
+      "text": "[Bridge - tovshuur and frame drum alone]"
+    },
+    {
+      "t": 120.21,
+      "end": 121.45,
+      "text": "我自己的名字 刻過一次"
+    },
+    {
+      "t": 121.45,
+      "end": 127.77,
+      "text": "那天沒人跟我吵"
+    },
+    {
+      "t": 127.77,
+      "end": 132.21,
+      "text": "現在他們吵架 比我刻字還細"
+    },
+    {
+      "t": 139.71,
+      "end": 139.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 139.71,
+      "end": 142.77,
+      "text": "刻刀慢慢走 一筆一畫"
+    },
+    {
+      "t": 142.87,
+      "end": 144.65,
+      "text": "兩個名字 刻在一顆"
+    },
+    {
+      "t": 146.57,
+      "end": 175.18,
+      "text": "這頭是子豪 那頭是子晴"
+    },
+    {
+      "t": 178.6,
+      "end": 187.38,
+      "text": "等孩子出生 他自己翻面"
+    },
+    {
+      "t": 187.38,
+      "end": 187.38,
+      "text": "[Outro - limbe flute alone]"
+    },
+    {
+      "t": 187.38,
+      "end": 192.34,
+      "text": "章刻好了 收你一半的錢"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

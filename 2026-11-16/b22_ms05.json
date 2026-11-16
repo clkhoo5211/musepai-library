@@ -1,0 +1,327 @@
+{
+  "id": "b22_ms05",
+  "title": "Empat Ulas Satu Durian",
+  "title_source": "scripted",
+  "genre": "barbershop quartet (four-part a cappella harmony, tags and swipes)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "comic, warm, mock-solemn",
+  "persona": "",
+  "subject": "four office mates split a single durian from a roadside stall and argue over who gets the biggest pod",
+  "caption": "Barbershop quartet a cappella, four unaccompanied male voices in close four-part harmony with ringing chords, lead voice carrying the melody, tenor above, baritone below, bass anchoring on the roots. Swipes, tags and a held final chord. Dry intimate hall, no reverb wash, voices only. Warm mock-solemn delivery. Clear full voice, every word enunciated, steady sung melody on every line. 98 BPM, F major. Comic, warm mood. No instruments, no drums, no autotune, no rap, no synth pads.",
+  "lyrics": "[Intro - bass hums the root, three voices enter in harmony]\n\n[Verse 1]\nEmpat orang kawan duduk bulat\nSatu durian tengah meja plastik\nPenjual hulur pisau, kami tenung\nKami buka, bau penuh gerai\n\n[Pre-Chorus]\nSatu, dua, tiga, empat ulas\nSiapa dapat yang paling gemuk\n\n[Chorus]\nEmpat ulas satu durian\nAmbil adil, ambil adil\nYang besar itu, siapa punya\nEmpat ulas satu durian\n\n[Verse 2]\nSi Jamal kata, dia yang belanja\nSi Wong kata, dia yang cari gerai\nSi Raju kata, dia yang kupas\nAku kata, aku yang lapar\n\n[Bridge - tenor and bass swap lines, tag]\nBiji pun nak dibahagi\nSiapa kalah, dia basuh tangan\n\n[Chorus]\nEmpat ulas satu durian\nAmbil adil, ambil adil\nYang besar itu, kami belah empat\nEmpat ulas satu durian\n\n[Outro - tag, swipe up to a held chord]\nEmpat ulas, satu durian",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 98,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Barbershop quartet a cappella, four unaccompanied male voices in close four-part harmony with ringing chords, lead voice carrying the melody, tenor above, baritone below, bass anchoring on the roots. Swipes, tags and a held final chord. Dry intimate hall, no reverb wash, voices only. Warm mock-solemn delivery. Clear full voice, every word enunciated, steady sung melody on every line. 98 BPM, F major. Comic, warm mood. No instruments, no drums, no autotune, no rap, no synth pads.",
+    "lyrics": "[Intro - bass hums the root, three voices enter in harmony]\n\n[Verse 1]\nEmpat orang kawan duduk bulat\nSatu durian tengah meja plastik\nPenjual hulur pisau, kami tenung\nKami buka, bau penuh gerai\n\n[Pre-Chorus]\nSatu, dua, tiga, empat ulas\nSiapa dapat yang paling gemuk\n\n[Chorus]\nEmpat ulas satu durian\nAmbil adil, ambil adil\nYang besar itu, siapa punya\nEmpat ulas satu durian\n\n[Verse 2]\nSi Jamal kata, dia yang belanja\nSi Wong kata, dia yang cari gerai\nSi Raju kata, dia yang kupas\nAku kata, aku yang lapar\n\n[Bridge - tenor and bass swap lines, tag]\nBiji pun nak dibahagi\nSiapa kalah, dia basuh tangan\n\n[Chorus]\nEmpat ulas satu durian\nAmbil adil, ambil adil\nYang besar itu, kami belah empat\nEmpat ulas satu durian\n\n[Outro - tag, swipe up to a held chord]\nEmpat ulas, satu durian"
+  },
+  "seed": "865905342",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 102.01s**\n- 102.01s per song\n- LM phase (1 song): 19.14s\n- DiT phase (1 song): 82.87s",
+  "task_id": "424464cf-76da-4b60-8860-cf233c280a5f",
+  "elapsed_s": 130.7,
+  "generated_at": "2026-11-16T17:06:40.343157+08:00",
+  "audio": "b22_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.28,
+      "end": 22.28,
+      "text": "[Intro - bass hums the root, three voices enter in harmony]"
+    },
+    {
+      "t": 22.28,
+      "end": 22.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.28,
+      "end": 26.94,
+      "text": "Empat orang kawan duduk bulat"
+    },
+    {
+      "t": 27.08,
+      "end": 31.92,
+      "text": "Satu durian tengah meja plastik"
+    },
+    {
+      "t": 32.04,
+      "end": 37.42,
+      "text": "Penjual hulur pisau, kami tenung"
+    },
+    {
+      "t": 43.42,
+      "end": 45.37,
+      "text": "Kami buka, bau penuh gerai"
+    },
+    {
+      "t": 45.49,
+      "end": 45.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.49,
+      "end": 49.73,
+      "text": "Satu, dua, tiga, empat ulas"
+    },
+    {
+      "t": 50.43,
+      "end": 58.31,
+      "text": "Siapa dapat yang paling gemuk"
+    },
+    {
+      "t": 58.35,
+      "end": 58.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.35,
+      "end": 61.97,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 63.31,
+      "end": 67.03,
+      "text": "Ambil adil, ambil adil"
+    },
+    {
+      "t": 67.87,
+      "end": 73.23,
+      "text": "Yang besar itu, siapa punya"
+    },
+    {
+      "t": 73.23,
+      "end": 79.69,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 81.33,
+      "end": 81.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.33,
+      "end": 84.35,
+      "text": "Si Jamal kata, dia yang belanja"
+    },
+    {
+      "t": 86.33,
+      "end": 89.53,
+      "text": "Si Wong kata, dia yang cari gerai"
+    },
+    {
+      "t": 91.03,
+      "end": 95.71,
+      "text": "Si Raju kata, dia yang kupas"
+    },
+    {
+      "t": 96.11,
+      "end": 101.31,
+      "text": "Aku kata, aku yang lapar"
+    },
+    {
+      "t": 102.69,
+      "end": 102.69,
+      "text": "[Bridge - tenor and bass swap lines, tag]"
+    },
+    {
+      "t": 102.69,
+      "end": 105.75,
+      "text": "Biji pun nak dibahagi"
+    },
+    {
+      "t": 107.73,
+      "end": 113.89,
+      "text": "Siapa kalah, dia basuh tangan"
+    },
+    {
+      "t": 115.15,
+      "end": 115.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.15,
+      "end": 118.75,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 119.81,
+      "end": 123.51,
+      "text": "Ambil adil, ambil adil"
+    },
+    {
+      "t": 124.39,
+      "end": 131.6,
+      "text": "Yang besar itu, kami belah empat"
+    },
+    {
+      "t": 132.84,
+      "end": 136.34,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 147.36,
+      "end": 147.36,
+      "text": "[Outro - tag, swipe up to a held chord]"
+    },
+    {
+      "t": 147.36,
+      "end": 170.7,
+      "text": "Empat ulas, satu durian"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.28,
+      "end": 22.28,
+      "text": "[Intro - bass hums the root, three voices enter in harmony]"
+    },
+    {
+      "t": 22.28,
+      "end": 22.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.28,
+      "end": 26.94,
+      "text": "Empat orang kawan duduk bulat"
+    },
+    {
+      "t": 27.08,
+      "end": 31.94,
+      "text": "Satu durian tengah meja plastik"
+    },
+    {
+      "t": 32.02,
+      "end": 37.58,
+      "text": "Penjual hulur pisau, kami tenung"
+    },
+    {
+      "t": 43.42,
+      "end": 46.01,
+      "text": "Kami buka, bau penuh gerai"
+    },
+    {
+      "t": 46.11,
+      "end": 46.11,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.11,
+      "end": 49.75,
+      "text": "Satu, dua, tiga, empat ulas"
+    },
+    {
+      "t": 50.45,
+      "end": 58.29,
+      "text": "Siapa dapat yang paling gemuk"
+    },
+    {
+      "t": 58.35,
+      "end": 58.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.35,
+      "end": 61.97,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 63.31,
+      "end": 67.05,
+      "text": "Ambil adil, ambil adil"
+    },
+    {
+      "t": 67.89,
+      "end": 73.25,
+      "text": "Yang besar itu, siapa punya"
+    },
+    {
+      "t": 73.25,
+      "end": 79.69,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 81.33,
+      "end": 81.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.33,
+      "end": 84.35,
+      "text": "Si Jamal kata, dia yang belanja"
+    },
+    {
+      "t": 86.33,
+      "end": 89.51,
+      "text": "Si Wong kata, dia yang cari gerai"
+    },
+    {
+      "t": 91.05,
+      "end": 95.73,
+      "text": "Si Raju kata, dia yang kupas"
+    },
+    {
+      "t": 96.11,
+      "end": 101.33,
+      "text": "Aku kata, aku yang lapar"
+    },
+    {
+      "t": 102.69,
+      "end": 102.69,
+      "text": "[Bridge - tenor and bass swap lines, tag]"
+    },
+    {
+      "t": 102.69,
+      "end": 105.77,
+      "text": "Biji pun nak dibahagi"
+    },
+    {
+      "t": 107.73,
+      "end": 113.69,
+      "text": "Siapa kalah, dia basuh tangan"
+    },
+    {
+      "t": 115.15,
+      "end": 115.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.15,
+      "end": 118.77,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 119.81,
+      "end": 123.51,
+      "text": "Ambil adil, ambil adil"
+    },
+    {
+      "t": 124.37,
+      "end": 131.72,
+      "text": "Yang besar itu, kami belah empat"
+    },
+    {
+      "t": 132.84,
+      "end": 140.82,
+      "text": "Empat ulas satu durian"
+    },
+    {
+      "t": 147.36,
+      "end": 147.36,
+      "text": "[Outro - tag, swipe up to a held chord]"
+    },
+    {
+      "t": 147.36,
+      "end": 157.4,
+      "text": "Empat ulas, satu durian"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b22_ko05",
+  "title": "깜박이는 가로등 목요일",
+  "title_source": "scripted",
+  "genre": "Georgian polyphonic choir-pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm, wry, unhurried",
+  "persona": "",
+  "subject": "a street-lamp repair worker on a lift truck who leaves one lamp flickering on purpose so a girl at a third-floor window keeps lowering a basket of barley tea to him each Thursday",
+  "caption": "Georgian polyphonic choir-pop. Panduri plays plucked folk chords and a rolling bass figure, three-part male harmony group sings in close intervals with a low drone bass voice beneath, light frame drum on the beat, upright acoustic bass. Natural hall ambience, warm woody mix. Three male voices, a clear tenor melody over a baritone second voice and drone bass, steady open-throated delivery. 92 BPM, G major. Warm, wry, unhurried. Clear full voice, every word enunciated, steady sung melody on every line. No trap hi-hats, no autotune, no EDM synths, no rapping, no electric guitar distortion.",
+  "lyrics": "[Intro - panduri figure, drone bass voice enters]\n\n[Verse 1]\n목요일 아침 노란 작업차\n가로등 아래 바구니 하나\n삼 층 창문에서 줄이 내려와요\n따뜻한 보리차 한 잔\n\n[Pre-Chorus]\n전구는 십 분이면 갈지만\n차는 천천히 마셔야죠\n\n[Chorus]\n깜박깜박 이 가로등만은\n고치지 않고 두고 갈래요\n다음 주 목요일 또 올 테니\n바구니도 또 내려와요\n\n[Verse 2]\n점검표엔 이상 없음 적고\n본부엔 부품이 없다고 해요\n소녀는 창가에서 손 흔들고\n나는 헬멧을 들어 답해요\n\n[Pre-Chorus]\n반장님은 알면서도 모른 척\n자기 몫 차도 부탁해요\n\n[Chorus]\n깜박깜박 이 가로등만은\n아직도 안 고치고 있어요\n다음 주 목요일 또 올 테니\n바구니에 과자도 담아줘요\n\n[Outro - panduri and three voices]\n깜박 깜박 깜박\n목요일의 가로등",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Georgian polyphonic choir-pop. Panduri plays plucked folk chords and a rolling bass figure, three-part male harmony group sings in close intervals with a low drone bass voice beneath, light frame drum on the beat, upright acoustic bass. Natural hall ambience, warm woody mix. Three male voices, a clear tenor melody over a baritone second voice and drone bass, steady open-throated delivery. 92 BPM, G major. Warm, wry, unhurried. Clear full voice, every word enunciated, steady sung melody on every line. No trap hi-hats, no autotune, no EDM synths, no rapping, no electric guitar distortion.",
+    "lyrics": "[Intro - panduri figure, drone bass voice enters]\n\n[Verse 1]\n목요일 아침 노란 작업차\n가로등 아래 바구니 하나\n삼 층 창문에서 줄이 내려와요\n따뜻한 보리차 한 잔\n\n[Pre-Chorus]\n전구는 십 분이면 갈지만\n차는 천천히 마셔야죠\n\n[Chorus]\n깜박깜박 이 가로등만은\n고치지 않고 두고 갈래요\n다음 주 목요일 또 올 테니\n바구니도 또 내려와요\n\n[Verse 2]\n점검표엔 이상 없음 적고\n본부엔 부품이 없다고 해요\n소녀는 창가에서 손 흔들고\n나는 헬멧을 들어 답해요\n\n[Pre-Chorus]\n반장님은 알면서도 모른 척\n자기 몫 차도 부탁해요\n\n[Chorus]\n깜박깜박 이 가로등만은\n아직도 안 고치고 있어요\n다음 주 목요일 또 올 테니\n바구니에 과자도 담아줘요\n\n[Outro - panduri and three voices]\n깜박 깜박 깜박\n목요일의 가로등"
+  },
+  "seed": "2490909389",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 71.34s**\n- 71.34s per song\n- LM phase (1 song): 17.09s\n- DiT phase (1 song): 54.25s",
+  "task_id": "00b16d90-4f6b-4336-abf9-b50d8980dfb5",
+  "elapsed_s": 100.4,
+  "generated_at": "2026-11-16T16:57:48.439594+08:00",
+  "audio": "b22_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Intro - panduri figure, drone bass voice enters]"
+    },
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.24,
+      "end": 27.74,
+      "text": "목요일 아침 노란 작업차"
+    },
+    {
+      "t": 29.58,
+      "end": 33.1,
+      "text": "가로등 아래 바구니 하나"
+    },
+    {
+      "t": 34.92,
+      "end": 37.48,
+      "text": "삼 층 창문에서 줄이 내려와요"
+    },
+    {
+      "t": 37.88,
+      "end": 41.36,
+      "text": "따뜻한 보리차 한 잔"
+    },
+    {
+      "t": 48.56,
+      "end": 48.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.56,
+      "end": 51.75,
+      "text": "전구는 십 분이면 갈지만"
+    },
+    {
+      "t": 53.55,
+      "end": 56.97,
+      "text": "차는 천천히 마셔야죠"
+    },
+    {
+      "t": 59.55,
+      "end": 59.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.55,
+      "end": 62.73,
+      "text": "깜박깜박 이 가로등만은"
+    },
+    {
+      "t": 63.95,
+      "end": 67.59,
+      "text": "고치지 않고 두고 갈래요"
+    },
+    {
+      "t": 69.61,
+      "end": 72.27,
+      "text": "다음 주 목요일 또 올 테니"
+    },
+    {
+      "t": 72.27,
+      "end": 75.61,
+      "text": "바구니도 또 내려와요"
+    },
+    {
+      "t": 79.63,
+      "end": 79.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.63,
+      "end": 83.41,
+      "text": "점검표엔 이상 없음 적고"
+    },
+    {
+      "t": 84.63,
+      "end": 88.61,
+      "text": "본부엔 부품이 없다고 해요"
+    },
+    {
+      "t": 91.59,
+      "end": 94.75,
+      "text": "소녀는 창가에서 손 흔들고"
+    },
+    {
+      "t": 99.63,
+      "end": 102.95,
+      "text": "나는 헬멧을 들어 답해요"
+    },
+    {
+      "t": 105.31,
+      "end": 105.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.31,
+      "end": 108.37,
+      "text": "반장님은 알면서도 모른 척"
+    },
+    {
+      "t": 110.59,
+      "end": 113.47,
+      "text": "자기 몫 차도 부탁해요"
+    },
+    {
+      "t": 115.85,
+      "end": 115.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.85,
+      "end": 118.83,
+      "text": "깜박깜박 이 가로등만은"
+    },
+    {
+      "t": 120.37,
+      "end": 123.91,
+      "text": "아직도 안 고치고 있어요"
+    },
+    {
+      "t": 125.93,
+      "end": 170.28,
+      "text": "다음 주 목요일 또 올 테니"
+    },
+    {
+      "t": 170.28,
+      "end": 177.2,
+      "text": "바구니에 과자도 담아줘요"
+    },
+    {
+      "t": 179.84,
+      "end": 179.84,
+      "text": "[Outro - panduri and three voices]"
+    },
+    {
+      "t": 179.84,
+      "end": 188.94,
+      "text": "깜박 깜박 깜박"
+    },
+    {
+      "t": 192.36,
+      "end": 194.44,
+      "text": "목요일의 가로등"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Intro - panduri figure, drone bass voice enters]"
+    },
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.24,
+      "end": 27.74,
+      "text": "목요일 아침 노란 작업차"
+    },
+    {
+      "t": 29.58,
+      "end": 33.1,
+      "text": "가로등 아래 바구니 하나"
+    },
+    {
+      "t": 34.92,
+      "end": 37.48,
+      "text": "삼 층 창문에서 줄이 내려와요"
+    },
+    {
+      "t": 37.88,
+      "end": 41.36,
+      "text": "따뜻한 보리차 한 잔"
+    },
+    {
+      "t": 48.56,
+      "end": 48.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.56,
+      "end": 51.75,
+      "text": "전구는 십 분이면 갈지만"
+    },
+    {
+      "t": 53.55,
+      "end": 56.97,
+      "text": "차는 천천히 마셔야죠"
+    },
+    {
+      "t": 59.55,
+      "end": 59.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.55,
+      "end": 62.73,
+      "text": "깜박깜박 이 가로등만은"
+    },
+    {
+      "t": 63.95,
+      "end": 67.59,
+      "text": "고치지 않고 두고 갈래요"
+    },
+    {
+      "t": 69.61,
+      "end": 72.27,
+      "text": "다음 주 목요일 또 올 테니"
+    },
+    {
+      "t": 72.27,
+      "end": 75.61,
+      "text": "바구니도 또 내려와요"
+    },
+    {
+      "t": 79.63,
+      "end": 79.63,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.63,
+      "end": 83.41,
+      "text": "점검표엔 이상 없음 적고"
+    },
+    {
+      "t": 84.63,
+      "end": 88.61,
+      "text": "본부엔 부품이 없다고 해요"
+    },
+    {
+      "t": 91.59,
+      "end": 94.75,
+      "text": "소녀는 창가에서 손 흔들고"
+    },
+    {
+      "t": 99.63,
+      "end": 102.95,
+      "text": "나는 헬멧을 들어 답해요"
+    },
+    {
+      "t": 105.31,
+      "end": 105.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.31,
+      "end": 108.37,
+      "text": "반장님은 알면서도 모른 척"
+    },
+    {
+      "t": 110.59,
+      "end": 113.47,
+      "text": "자기 몫 차도 부탁해요"
+    },
+    {
+      "t": 115.85,
+      "end": 115.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.85,
+      "end": 118.83,
+      "text": "깜박깜박 이 가로등만은"
+    },
+    {
+      "t": 120.37,
+      "end": 123.91,
+      "text": "아직도 안 고치고 있어요"
+    },
+    {
+      "t": 125.93,
+      "end": 170.28,
+      "text": "다음 주 목요일 또 올 테니"
+    },
+    {
+      "t": 170.28,
+      "end": 177.2,
+      "text": "바구니에 과자도 담아줘요"
+    },
+    {
+      "t": 179.84,
+      "end": 179.84,
+      "text": "[Outro - panduri and three voices]"
+    },
+    {
+      "t": 179.84,
+      "end": 188.94,
+      "text": "깜박 깜박 깜박"
+    },
+    {
+      "t": 192.36,
+      "end": 194.44,
+      "text": "목요일의 가로등"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Intro - panduri figure, drone bass voice enters]"
+    },
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.24,
+      "end": 27.74,
+      "text": "목요일 아침 노란 작업차"
+    },
+    {
+      "t": 29.58,
+      "end": 33.08,
+      "text": "가로등 아래 바구니 하나"
+    },
+    {
+      "t": 34.92,
+      "end": 37.7,
+      "text": "삼 층 창문에서 줄이 내려와요"
+    },
+    {
+      "t": 37.88,
+      "end": 41.38,
+      "text": "따뜻한 보리차 한 잔"
+    },
+    {
+      "t": 48.56,
+      "end": 48.56,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.56,
+      "end": 51.75,
+      "text": "전구는 십 분이면 갈지만"
+    },
+    {
+      "t": 53.55,
+      "end": 56.97,
+      "text": "차는 천천히 마셔야죠"
+    },
+    {
+      "t": 59.57,
+      "end": 59.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.57,
+      "end": 62.73,
+      "text": "깜박깜박 이 가로등만은"
+    },
+    {
+      "t": 63.97,
+      "end": 67.61,
+      "text": "고치지 않고 두고 갈래요"
+    },
+    {
+      "t": 69.61,
+      "end": 72.23,
+      "text": "다음 주 목요일 또 올 테니"
+    },
+    {
+      "t": 72.23,
+      "end": 75.61,
+      "text": "바구니도 또 내려와요"
+    },
+    {
+      "t": 79.61,
+      "end": 79.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.61,
+      "end": 83.41,
+      "text": "점검표엔 이상 없음 적고"
+    },
+    {
+      "t": 84.65,
+      "end": 88.61,
+      "text": "본부엔 부품이 없다고 해요"
+    },
+    {
+      "t": 91.59,
+      "end": 94.75,
+      "text": "소녀는 창가에서 손 흔들고"
+    },
+    {
+      "t": 99.63,
+      "end": 102.95,
+      "text": "나는 헬멧을 들어 답해요"
+    },
+    {
+      "t": 105.31,
+      "end": 105.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.31,
+      "end": 108.41,
+      "text": "반장님은 알면서도 모른 척"
+    },
+    {
+      "t": 110.57,
+      "end": 113.47,
+      "text": "자기 몫 차도 부탁해요"
+    },
+    {
+      "t": 115.87,
+      "end": 115.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.87,
+      "end": 118.81,
+      "text": "깜박깜박 이 가로등만은"
+    },
+    {
+      "t": 120.37,
+      "end": 123.91,
+      "text": "아직도 안 고치고 있어요"
+    },
+    {
+      "t": 125.93,
+      "end": 128.65,
+      "text": "다음 주 목요일 또 올 테니"
+    },
+    {
+      "t": 128.65,
+      "end": 131.93,
+      "text": "바구니에 과자도 담아줘요"
+    },
+    {
+      "t": 147.21,
+      "end": 147.21,
+      "text": "[Outro - panduri and three voices]"
+    },
+    {
+      "t": 147.21,
+      "end": 181.64,
+      "text": "깜박 깜박 깜박"
+    },
+    {
+      "t": 185.26,
+      "end": 194.42,
+      "text": "목요일의 가로등"
+    }
+  ]
+}

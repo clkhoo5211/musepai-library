@@ -1,0 +1,387 @@
+{
+  "id": "b22_vi05",
+  "title": "Số Điện Đứng Yên",
+  "title_source": "scripted",
+  "genre": "French chanson réaliste sung in Vietnamese",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "dramatic, tender, bittersweet",
+  "persona": "",
+  "subject": "A meter reader on a Hải Phòng back street reads the same widow's electricity meter every month and notices that the figure has stood still for three months; she has been living by candlelight since her husband's old lamp broke, and he starts leaving new bulbs on the step with the monthly reading slip, until she turns the lamp on again.",
+  "caption": "French chanson realiste, dramatic café chanson sung in Vietnamese. Piano accordion with wheezing waltz melody and bellows swells, plucked woody upright bass, soft nylon guitar arpeggios, brushed snare in a light waltz pulse, violin with long sighing countermelody. Dry intimate 1950s café-stage recording, warm tube microphone, short plate reverb. Female rich dramatic mezzo, theatrical café-singer delivery with controlled vibrato, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Dramatic, tender, bittersweet. No rapping, no autotune, no trap hi-hats, no EDM synths, no distorted guitar, no drum machine.",
+  "lyrics": "[Intro - accordion, upright bass]\n\n[Verse 1]\nAnh đi qua con hẻm Hải Phòng\nMỗi tháng một lần, cuốn sổ trong tay\nNhà bà góa cuối ngõ tối om\nĐồng hồ điện đứng yên ba tháng liền\n\n[Pre-Chorus]\nAnh gõ cửa, bà ra mở\nTrên bàn chỉ còn ngọn nến\n\n[Chorus]\nSố điện đứng yên, bà ơi\nCon số cũ nằm đó như người xưa\nBóng đèn tắt đã lâu rồi\nSố điện đứng yên, ai đếm giùm bà\n\n[Verse 2]\nCây đèn của chồng bà vỡ hôm nào\nBà không mua cái nào khác thay\nAnh để bóng đèn trước hiên nhà\nKèm tờ giấy ghi con số tháng này\n\n[Chorus]\nSố điện đứng yên, bà ơi\nAnh lại để thêm một cái nữa\nAnh đếm ngày, anh đếm từng ngày\nSố điện đứng yên, ai đếm giùm bà\n\n[Bridge - violin]\nTháng thứ tư anh đứng ngoài ngõ\nMột ô cửa bỗng vàng lên\n\n[Chorus]\nSố điện nhúc nhích, bà ơi\nCon số mới viết lên bằng bút mực\nBà mở cửa, bà gật đầu\nSố điện chạy rồi, anh ghi nhẹ nhàng\n\n[Outro - accordion, violin]\nMột ô cửa vàng\nCuối ngõ Hải Phòng",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "3",
+    "prompt": "French chanson realiste, dramatic café chanson sung in Vietnamese. Piano accordion with wheezing waltz melody and bellows swells, plucked woody upright bass, soft nylon guitar arpeggios, brushed snare in a light waltz pulse, violin with long sighing countermelody. Dry intimate 1950s café-stage recording, warm tube microphone, short plate reverb. Female rich dramatic mezzo, theatrical café-singer delivery with controlled vibrato, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Dramatic, tender, bittersweet. No rapping, no autotune, no trap hi-hats, no EDM synths, no distorted guitar, no drum machine.",
+    "lyrics": "[Intro - accordion, upright bass]\n\n[Verse 1]\nAnh đi qua con hẻm Hải Phòng\nMỗi tháng một lần, cuốn sổ trong tay\nNhà bà góa cuối ngõ tối om\nĐồng hồ điện đứng yên ba tháng liền\n\n[Pre-Chorus]\nAnh gõ cửa, bà ra mở\nTrên bàn chỉ còn ngọn nến\n\n[Chorus]\nSố điện đứng yên, bà ơi\nCon số cũ nằm đó như người xưa\nBóng đèn tắt đã lâu rồi\nSố điện đứng yên, ai đếm giùm bà\n\n[Verse 2]\nCây đèn của chồng bà vỡ hôm nào\nBà không mua cái nào khác thay\nAnh để bóng đèn trước hiên nhà\nKèm tờ giấy ghi con số tháng này\n\n[Chorus]\nSố điện đứng yên, bà ơi\nAnh lại để thêm một cái nữa\nAnh đếm ngày, anh đếm từng ngày\nSố điện đứng yên, ai đếm giùm bà\n\n[Bridge - violin]\nTháng thứ tư anh đứng ngoài ngõ\nMột ô cửa bỗng vàng lên\n\n[Chorus]\nSố điện nhúc nhích, bà ơi\nCon số mới viết lên bằng bút mực\nBà mở cửa, bà gật đầu\nSố điện chạy rồi, anh ghi nhẹ nhàng\n\n[Outro - accordion, violin]\nMột ô cửa vàng\nCuối ngõ Hải Phòng"
+  },
+  "seed": "2242737496",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 64.35s**\n- 64.35s per song\n- LM phase (1 song): 10.80s\n- DiT phase (1 song): 53.55s",
+  "task_id": "b6c23fa7-aeec-40aa-aee6-028f171c97dd",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-16T17:23:22.708470+08:00",
+  "audio": "b22_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.98,
+      "end": 0.98,
+      "text": "[Intro - accordion, upright bass]"
+    },
+    {
+      "t": 0.98,
+      "end": 0.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.98,
+      "end": 8.68,
+      "text": "Anh đi qua con hẻm Hải Phòng"
+    },
+    {
+      "t": 8.68,
+      "end": 20.58,
+      "text": "Mỗi tháng một lần, cuốn sổ trong tay"
+    },
+    {
+      "t": 20.82,
+      "end": 36.8,
+      "text": "Nhà bà góa cuối ngõ tối om"
+    },
+    {
+      "t": 36.8,
+      "end": 44.96,
+      "text": "Đồng hồ điện đứng yên ba tháng liền"
+    },
+    {
+      "t": 45.06,
+      "end": 45.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.06,
+      "end": 46.28,
+      "text": "Anh gõ cửa, bà ra mở"
+    },
+    {
+      "t": 46.28,
+      "end": 48.6,
+      "text": "Trên bàn chỉ còn ngọn nến"
+    },
+    {
+      "t": 48.7,
+      "end": 48.7,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.7,
+      "end": 57.05,
+      "text": "Số điện đứng yên, bà ơi"
+    },
+    {
+      "t": 57.15,
+      "end": 61.79,
+      "text": "Con số cũ nằm đó như người xưa"
+    },
+    {
+      "t": 61.79,
+      "end": 62.31,
+      "text": "Bóng đèn tắt đã lâu rồi"
+    },
+    {
+      "t": 62.31,
+      "end": 65.65,
+      "text": "Số điện đứng yên, ai đếm giùm bà"
+    },
+    {
+      "t": 71.71,
+      "end": 71.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.71,
+      "end": 75.03,
+      "text": "Cây đèn của chồng bà vỡ hôm nào"
+    },
+    {
+      "t": 76.29,
+      "end": 78.89,
+      "text": "Bà không mua cái nào khác thay"
+    },
+    {
+      "t": 81.19,
+      "end": 83.93,
+      "text": "Anh để bóng đèn trước hiên nhà"
+    },
+    {
+      "t": 85.07,
+      "end": 89.05,
+      "text": "Kèm tờ giấy ghi con số tháng này"
+    },
+    {
+      "t": 92.83,
+      "end": 92.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.83,
+      "end": 95.25,
+      "text": "Số điện đứng yên, bà ơi"
+    },
+    {
+      "t": 96.85,
+      "end": 99.55,
+      "text": "Anh lại để thêm một cái nữa"
+    },
+    {
+      "t": 101.45,
+      "end": 107.87,
+      "text": "Anh đếm ngày, anh đếm từng ngày"
+    },
+    {
+      "t": 108.85,
+      "end": 116.87,
+      "text": "Số điện đứng yên, ai đếm giùm bà"
+    },
+    {
+      "t": 120.65,
+      "end": 120.65,
+      "text": "[Bridge - violin]"
+    },
+    {
+      "t": 120.65,
+      "end": 123.89,
+      "text": "Tháng thứ tư anh đứng ngoài ngõ"
+    },
+    {
+      "t": 125.21,
+      "end": 131.07,
+      "text": "Một ô cửa bỗng vàng lên"
+    },
+    {
+      "t": 148.69,
+      "end": 148.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 148.69,
+      "end": 151.33,
+      "text": "Số điện nhúc nhích, bà ơi"
+    },
+    {
+      "t": 152.09,
+      "end": 155.51,
+      "text": "Con số mới viết lên bằng bút mực"
+    },
+    {
+      "t": 158.4,
+      "end": 161.7,
+      "text": "Bà mở cửa, bà gật đầu"
+    },
+    {
+      "t": 162.68,
+      "end": 173.02,
+      "text": "Số điện chạy rồi, anh ghi nhẹ nhàng"
+    },
+    {
+      "t": 175.38,
+      "end": 175.38,
+      "text": "[Outro - accordion, violin]"
+    },
+    {
+      "t": 175.38,
+      "end": 179.84,
+      "text": "Một ô cửa vàng"
+    },
+    {
+      "t": 193.1,
+      "end": 195.26,
+      "text": "Cuối ngõ Hải Phòng"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 10.94,
+      "end": 10.94,
+      "text": "[Intro - accordion, upright bass]"
+    },
+    {
+      "t": 10.94,
+      "end": 10.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.94,
+      "end": 45.52,
+      "text": "Anh đi qua con hẻm Hải Phòng"
+    },
+    {
+      "t": 45.52,
+      "end": 47.7,
+      "text": "Mỗi tháng một lần, cuốn sổ trong tay"
+    },
+    {
+      "t": 47.78,
+      "end": 48.34,
+      "text": "Nhà bà góa cuối ngõ tối om"
+    },
+    {
+      "t": 48.54,
+      "end": 57.95,
+      "text": "Đồng hồ điện đứng yên ba tháng liền"
+    },
+    {
+      "t": 57.95,
+      "end": 57.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 57.95,
+      "end": 61.79,
+      "text": "Anh gõ cửa, bà ra mở"
+    },
+    {
+      "t": 61.79,
+      "end": 63.05,
+      "text": "Trên bàn chỉ còn ngọn nến"
+    },
+    {
+      "t": 63.05,
+      "end": 63.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.05,
+      "end": 64.35,
+      "text": "Số điện đứng yên, bà ơi"
+    },
+    {
+      "t": 64.37,
+      "end": 65.53,
+      "text": "Con số cũ nằm đó như người xưa"
+    },
+    {
+      "t": 65.53,
+      "end": 68.57,
+      "text": "Bóng đèn tắt đã lâu rồi"
+    },
+    {
+      "t": 68.57,
+      "end": 71.71,
+      "text": "Số điện đứng yên, ai đếm giùm bà"
+    },
+    {
+      "t": 71.71,
+      "end": 71.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.71,
+      "end": 75.03,
+      "text": "Cây đèn của chồng bà vỡ hôm nào"
+    },
+    {
+      "t": 76.29,
+      "end": 78.89,
+      "text": "Bà không mua cái nào khác thay"
+    },
+    {
+      "t": 81.19,
+      "end": 83.95,
+      "text": "Anh để bóng đèn trước hiên nhà"
+    },
+    {
+      "t": 85.07,
+      "end": 89.15,
+      "text": "Kèm tờ giấy ghi con số tháng này"
+    },
+    {
+      "t": 92.85,
+      "end": 92.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.85,
+      "end": 95.25,
+      "text": "Số điện đứng yên, bà ơi"
+    },
+    {
+      "t": 96.85,
+      "end": 99.55,
+      "text": "Anh lại để thêm một cái nữa"
+    },
+    {
+      "t": 101.45,
+      "end": 107.91,
+      "text": "Anh đếm ngày, anh đếm từng ngày"
+    },
+    {
+      "t": 108.85,
+      "end": 116.89,
+      "text": "Số điện đứng yên, ai đếm giùm bà"
+    },
+    {
+      "t": 120.65,
+      "end": 120.65,
+      "text": "[Bridge - violin]"
+    },
+    {
+      "t": 120.65,
+      "end": 123.89,
+      "text": "Tháng thứ tư anh đứng ngoài ngõ"
+    },
+    {
+      "t": 125.21,
+      "end": 128.09,
+      "text": "Một ô cửa bỗng vàng lên"
+    },
+    {
+      "t": 148.69,
+      "end": 148.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 148.69,
+      "end": 151.35,
+      "text": "Số điện nhúc nhích, bà ơi"
+    },
+    {
+      "t": 152.09,
+      "end": 155.55,
+      "text": "Con số mới viết lên bằng bút mực"
+    },
+    {
+      "t": 158.4,
+      "end": 161.68,
+      "text": "Bà mở cửa, bà gật đầu"
+    },
+    {
+      "t": 162.7,
+      "end": 166.86,
+      "text": "Số điện chạy rồi, anh ghi nhẹ nhàng"
+    },
+    {
+      "t": 175.38,
+      "end": 175.38,
+      "text": "[Outro - accordion, violin]"
+    },
+    {
+      "t": 175.38,
+      "end": 177.26,
+      "text": "Một ô cửa vàng"
+    },
+    {
+      "t": 179.18,
+      "end": 195.26,
+      "text": "Cuối ngõ Hải Phòng"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

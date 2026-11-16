@@ -1,0 +1,387 @@
+{
+  "id": "b22_zh03",
+  "title": "車掌今天不重複",
+  "title_source": "scripted",
+  "genre": "Greek laiko with bouzouki (hasapiko rhythm)",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "lively, cheeky, dance-floor",
+  "persona": "",
+  "subject": "a city bus conductor with a punch pliers who calls every stop in a brand-new rhyme and never repeats one, while the regulars secretly keep a tally to bet he cannot last a whole day",
+  "caption": "Greek laiko with bouzouki, hasapiko-style dance rhythm in lively 4/4 with a Chinese city-bus setting. Bouzouki playing bright tremolo and quick pentatonic runs, baglama doubling the melody an octave up, acoustic guitar strumming steady chords, upright bass walking in four, snare and darbuka-style hand drum on the hasapiko pattern. Live taverna band mix with bright room ambience and tight rhythm section. Male lead, bright strong tenor, forward and cheerful, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, A minor. lively, cheeky, dance-floor mood. No rap, no trap hi-hats, no autotune, no synth bass, no electric drums, no sitar, no slow rubato.",
+  "lyrics": "[Intro - bouzouki and baglama run]\n\n[Verse 1]\n我是這條線的 老車掌\n手上一把剪票鉗\n每到一站 我喊一句\n今天喊的 昨天沒喊過\n\n[Pre-Chorus]\n前座的阿婆 在紙上畫線\n後座的學生 偷偷在數\n他們賭我 撐不到終點\n\n[Chorus]\n中山路到了 帶好你的傘\n剪票鉗 喀喀響\n車子搖啊搖 我的嘴不停\n今天一句 都不重複\n\n[Verse 2]\n菜市場到了 籃子別忘\n下一站醫院 先握緊把手\n有人笑出聲 有人拍大腿\n\n[Chorus]\n公園到了 鴿子在等\n剪票鉗 喀喀響\n車子搖啊搖 我的嘴不停\n今天一句 還是沒重複\n\n[Bridge - bouzouki and hand drum alone]\n終點站 只剩最後一句\n全車安靜 連司機都回頭\n我吸一口氣 清清喉嚨\n\n[Chorus]\n終點到了 大家下車\n剪票鉗 喀喀響\n明天請早 我的嘴休息\n你們輸的錢 請我喝茶\n\n[Outro - bouzouki tremolo and claps]\n下車啦 明天見",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Greek laiko with bouzouki, hasapiko-style dance rhythm in lively 4/4 with a Chinese city-bus setting. Bouzouki playing bright tremolo and quick pentatonic runs, baglama doubling the melody an octave up, acoustic guitar strumming steady chords, upright bass walking in four, snare and darbuka-style hand drum on the hasapiko pattern. Live taverna band mix with bright room ambience and tight rhythm section. Male lead, bright strong tenor, forward and cheerful, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, A minor. lively, cheeky, dance-floor mood. No rap, no trap hi-hats, no autotune, no synth bass, no electric drums, no sitar, no slow rubato.",
+    "lyrics": "[Intro - bouzouki and baglama run]\n\n[Verse 1]\n我是這條線的 老車掌\n手上一把剪票鉗\n每到一站 我喊一句\n今天喊的 昨天沒喊過\n\n[Pre-Chorus]\n前座的阿婆 在紙上畫線\n後座的學生 偷偷在數\n他們賭我 撐不到終點\n\n[Chorus]\n中山路到了 帶好你的傘\n剪票鉗 喀喀響\n車子搖啊搖 我的嘴不停\n今天一句 都不重複\n\n[Verse 2]\n菜市場到了 籃子別忘\n下一站醫院 先握緊把手\n有人笑出聲 有人拍大腿\n\n[Chorus]\n公園到了 鴿子在等\n剪票鉗 喀喀響\n車子搖啊搖 我的嘴不停\n今天一句 還是沒重複\n\n[Bridge - bouzouki and hand drum alone]\n終點站 只剩最後一句\n全車安靜 連司機都回頭\n我吸一口氣 清清喉嚨\n\n[Chorus]\n終點到了 大家下車\n剪票鉗 喀喀響\n明天請早 我的嘴休息\n你們輸的錢 請我喝茶\n\n[Outro - bouzouki tremolo and claps]\n下車啦 明天見"
+  },
+  "seed": "2516998224",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.86s**\n- 59.86s per song\n- LM phase (1 song): 14.69s\n- DiT phase (1 song): 45.16s",
+  "task_id": "36e21bdb-d4aa-4fb2-898c-2a77f53786b5",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-16T17:42:06.603858+08:00",
+  "audio": "b22_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.42,
+      "end": 26.42,
+      "text": "[Intro - bouzouki and baglama run]"
+    },
+    {
+      "t": 26.42,
+      "end": 26.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.42,
+      "end": 29.0,
+      "text": "我是這條線的 老車掌"
+    },
+    {
+      "t": 30.46,
+      "end": 33.02,
+      "text": "手上一把剪票鉗"
+    },
+    {
+      "t": 34.76,
+      "end": 36.92,
+      "text": "每到一站 我喊一句"
+    },
+    {
+      "t": 38.28,
+      "end": 42.7,
+      "text": "今天喊的 昨天沒喊過"
+    },
+    {
+      "t": 44.3,
+      "end": 44.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.3,
+      "end": 46.66,
+      "text": "前座的阿婆 在紙上畫線"
+    },
+    {
+      "t": 46.66,
+      "end": 48.61,
+      "text": "後座的學生 偷偷在數"
+    },
+    {
+      "t": 48.61,
+      "end": 51.83,
+      "text": "他們賭我 撐不到終點"
+    },
+    {
+      "t": 51.91,
+      "end": 51.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.91,
+      "end": 57.05,
+      "text": "中山路到了 帶好你的傘"
+    },
+    {
+      "t": 57.05,
+      "end": 57.93,
+      "text": "剪票鉗 喀喀響"
+    },
+    {
+      "t": 57.93,
+      "end": 60.35,
+      "text": "車子搖啊搖 我的嘴不停"
+    },
+    {
+      "t": 61.07,
+      "end": 63.77,
+      "text": "今天一句 都不重複"
+    },
+    {
+      "t": 66.45,
+      "end": 66.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.45,
+      "end": 69.57,
+      "text": "菜市場到了 籃子別忘"
+    },
+    {
+      "t": 70.25,
+      "end": 73.35,
+      "text": "下一站醫院 先握緊把手"
+    },
+    {
+      "t": 74.33,
+      "end": 77.57,
+      "text": "有人笑出聲 有人拍大腿"
+    },
+    {
+      "t": 77.71,
+      "end": 77.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.71,
+      "end": 87.39,
+      "text": "公園到了 鴿子在等"
+    },
+    {
+      "t": 87.43,
+      "end": 89.65,
+      "text": "剪票鉗 喀喀響"
+    },
+    {
+      "t": 89.65,
+      "end": 100.03,
+      "text": "車子搖啊搖 我的嘴不停"
+    },
+    {
+      "t": 100.03,
+      "end": 101.97,
+      "text": "今天一句 還是沒重複"
+    },
+    {
+      "t": 105.41,
+      "end": 105.41,
+      "text": "[Bridge - bouzouki and hand drum alone]"
+    },
+    {
+      "t": 105.41,
+      "end": 108.35,
+      "text": "終點站 只剩最後一句"
+    },
+    {
+      "t": 109.49,
+      "end": 112.59,
+      "text": "全車安靜 連司機都回頭"
+    },
+    {
+      "t": 113.81,
+      "end": 118.59,
+      "text": "我吸一口氣 清清喉嚨"
+    },
+    {
+      "t": 123.85,
+      "end": 123.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.85,
+      "end": 126.37,
+      "text": "終點到了 大家下車"
+    },
+    {
+      "t": 126.37,
+      "end": 131.71,
+      "text": "剪票鉗 喀喀響"
+    },
+    {
+      "t": 131.71,
+      "end": 135.63,
+      "text": "明天請早 我的嘴休息"
+    },
+    {
+      "t": 140.07,
+      "end": 143.32,
+      "text": "你們輸的錢 請我喝茶"
+    },
+    {
+      "t": 155.44,
+      "end": 155.44,
+      "text": "[Outro - bouzouki tremolo and claps]"
+    },
+    {
+      "t": 155.44,
+      "end": 179.9,
+      "text": "下車啦 明天見"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.42,
+      "end": 26.42,
+      "text": "[Intro - bouzouki and baglama run]"
+    },
+    {
+      "t": 26.42,
+      "end": 26.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.42,
+      "end": 28.98,
+      "text": "我是這條線的 老車掌"
+    },
+    {
+      "t": 30.46,
+      "end": 33.02,
+      "text": "手上一把剪票鉗"
+    },
+    {
+      "t": 34.76,
+      "end": 36.92,
+      "text": "每到一站 我喊一句"
+    },
+    {
+      "t": 38.28,
+      "end": 42.72,
+      "text": "今天喊的 昨天沒喊過"
+    },
+    {
+      "t": 44.3,
+      "end": 44.3,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.3,
+      "end": 46.74,
+      "text": "前座的阿婆 在紙上畫線"
+    },
+    {
+      "t": 46.74,
+      "end": 48.59,
+      "text": "後座的學生 偷偷在數"
+    },
+    {
+      "t": 48.59,
+      "end": 51.77,
+      "text": "他們賭我 撐不到終點"
+    },
+    {
+      "t": 52.63,
+      "end": 52.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.63,
+      "end": 57.05,
+      "text": "中山路到了 帶好你的傘"
+    },
+    {
+      "t": 57.05,
+      "end": 57.95,
+      "text": "剪票鉗 喀喀響"
+    },
+    {
+      "t": 57.95,
+      "end": 61.05,
+      "text": "車子搖啊搖 我的嘴不停"
+    },
+    {
+      "t": 61.07,
+      "end": 63.77,
+      "text": "今天一句 都不重複"
+    },
+    {
+      "t": 66.45,
+      "end": 66.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.45,
+      "end": 69.57,
+      "text": "菜市場到了 籃子別忘"
+    },
+    {
+      "t": 70.25,
+      "end": 73.31,
+      "text": "下一站醫院 先握緊把手"
+    },
+    {
+      "t": 74.33,
+      "end": 77.57,
+      "text": "有人笑出聲 有人拍大腿"
+    },
+    {
+      "t": 77.61,
+      "end": 77.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.61,
+      "end": 84.59,
+      "text": "公園到了 鴿子在等"
+    },
+    {
+      "t": 84.63,
+      "end": 89.19,
+      "text": "剪票鉗 喀喀響"
+    },
+    {
+      "t": 89.23,
+      "end": 99.81,
+      "text": "車子搖啊搖 我的嘴不停"
+    },
+    {
+      "t": 99.81,
+      "end": 101.99,
+      "text": "今天一句 還是沒重複"
+    },
+    {
+      "t": 105.41,
+      "end": 105.41,
+      "text": "[Bridge - bouzouki and hand drum alone]"
+    },
+    {
+      "t": 105.41,
+      "end": 108.37,
+      "text": "終點站 只剩最後一句"
+    },
+    {
+      "t": 109.49,
+      "end": 112.59,
+      "text": "全車安靜 連司機都回頭"
+    },
+    {
+      "t": 113.83,
+      "end": 119.19,
+      "text": "我吸一口氣 清清喉嚨"
+    },
+    {
+      "t": 123.85,
+      "end": 123.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.85,
+      "end": 127.53,
+      "text": "終點到了 大家下車"
+    },
+    {
+      "t": 131.71,
+      "end": 140.11,
+      "text": "剪票鉗 喀喀響"
+    },
+    {
+      "t": 140.31,
+      "end": 162.66,
+      "text": "明天請早 我的嘴休息"
+    },
+    {
+      "t": 162.98,
+      "end": 167.44,
+      "text": "你們輸的錢 請我喝茶"
+    },
+    {
+      "t": 174.42,
+      "end": 174.42,
+      "text": "[Outro - bouzouki tremolo and claps]"
+    },
+    {
+      "t": 174.42,
+      "end": 183.12,
+      "text": "下車啦 明天見"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

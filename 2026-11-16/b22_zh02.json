@@ -1,0 +1,564 @@
+{
+  "id": "b22_zh02",
+  "title": "三分鐘的側臉",
+  "title_source": "scripted",
+  "genre": "1980s quiet storm smooth soul",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "warm, close, quietly teasing",
+  "persona": "",
+  "subject": "a street paper-cutting artist who cuts silhouette portraits in three minutes, and the man who cannot stop smiling while he sits still, so the paper face comes out grinning and she keeps it",
+  "caption": "1980s quiet storm smooth soul, slow-burning 4/4 groove in a late-night radio style. Rhodes electric piano with soft chorus tremolo, fretless bass sliding between long notes, brushed drum kit with a light snare, muted clean guitar with gentle single-note fills, soft sustained string-synth pad. Polished late-night 1980s radio studio mix with warm analog compression and soft plate reverb. Male lead, smooth warm tenor, relaxed phrasing, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 78 BPM, E-flat major. warm, close, quietly teasing mood. No rap, no trap hi-hats, no autotune, no heavy synth bass, no distorted guitar, no club beat.",
+  "lyrics": "[Intro - Rhodes piano and fretless bass]\n\n[Verse 1]\n天橋底下 我擺一張小桌\n一把小剪刀 一疊黑紙\n三分鐘剪好 你的側臉\n坐著別動 這是規矩\n\n[Pre-Chorus]\n你坐下來 就開始笑\n我說 臉要放正\n你說 好 還是在笑\n\n[Chorus]\n剪刀轉過下巴 轉過嘴角\n紙上的你 咧著嘴\n這一張 我不賣\n剪壞了 我想留下來\n\n[Verse 2]\n你連眉毛 也在說話\n我剪到鼻尖 手慢了半拍\n一不小心 剪進了酒窩\n\n[Chorus]\n剪刀轉過下巴 轉過嘴角\n紙上的你 咧著嘴\n這一張 我不賣\n明天那張 我也想留\n\n[Bridge - Rhodes piano and soft brushes]\n黑紙貼在白紙上\n你的影子 剛好貼滿一頁\n一筆都沒有 多出來\n\n[Chorus]\n剪刀轉過下巴 轉過嘴角\n紙上的你 咧著嘴\n這一張 我不賣\n每天一張 我慢慢排滿牆\n\n[Outro - muted guitar and Rhodes fade]\n坐著別動 再坐三分鐘",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E-flat major",
+    "timesignature": "4",
+    "prompt": "1980s quiet storm smooth soul, slow-burning 4/4 groove in a late-night radio style. Rhodes electric piano with soft chorus tremolo, fretless bass sliding between long notes, brushed drum kit with a light snare, muted clean guitar with gentle single-note fills, soft sustained string-synth pad. Polished late-night 1980s radio studio mix with warm analog compression and soft plate reverb. Male lead, smooth warm tenor, relaxed phrasing, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 78 BPM, E-flat major. warm, close, quietly teasing mood. No rap, no trap hi-hats, no autotune, no heavy synth bass, no distorted guitar, no club beat.",
+    "lyrics": "[Intro - Rhodes piano and fretless bass]\n\n[Verse 1]\n天橋底下 我擺一張小桌\n一把小剪刀 一疊黑紙\n三分鐘剪好 你的側臉\n坐著別動 這是規矩\n\n[Pre-Chorus]\n你坐下來 就開始笑\n我說 臉要放正\n你說 好 還是在笑\n\n[Chorus]\n剪刀轉過下巴 轉過嘴角\n紙上的你 咧著嘴\n這一張 我不賣\n剪壞了 我想留下來\n\n[Verse 2]\n你連眉毛 也在說話\n我剪到鼻尖 手慢了半拍\n一不小心 剪進了酒窩\n\n[Chorus]\n剪刀轉過下巴 轉過嘴角\n紙上的你 咧著嘴\n這一張 我不賣\n明天那張 我也想留\n\n[Bridge - Rhodes piano and soft brushes]\n黑紙貼在白紙上\n你的影子 剛好貼滿一頁\n一筆都沒有 多出來\n\n[Chorus]\n剪刀轉過下巴 轉過嘴角\n紙上的你 咧著嘴\n這一張 我不賣\n每天一張 我慢慢排滿牆\n\n[Outro - muted guitar and Rhodes fade]\n坐著別動 再坐三分鐘"
+  },
+  "seed": "2347521420",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.91s**\n- 56.91s per song\n- LM phase (1 song): 13.14s\n- DiT phase (1 song): 43.77s",
+  "task_id": "0abb80d6-ff47-419c-887c-d5f7b96aed88",
+  "elapsed_s": 90.4,
+  "generated_at": "2026-11-16T17:40:46.495098+08:00",
+  "audio": "b22_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.42,
+      "end": 34.42,
+      "text": "[Intro - Rhodes piano and fretless bass]"
+    },
+    {
+      "t": 34.42,
+      "end": 34.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.42,
+      "end": 40.26,
+      "text": "天橋底下 我擺一張小桌"
+    },
+    {
+      "t": 40.52,
+      "end": 47.06,
+      "text": "一把小剪刀 一疊黑紙"
+    },
+    {
+      "t": 47.18,
+      "end": 52.38,
+      "text": "三分鐘剪好 你的側臉"
+    },
+    {
+      "t": 54.55,
+      "end": 57.75,
+      "text": "坐著別動 這是規矩"
+    },
+    {
+      "t": 60.67,
+      "end": 60.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.67,
+      "end": 64.01,
+      "text": "你坐下來 就開始笑"
+    },
+    {
+      "t": 65.59,
+      "end": 68.55,
+      "text": "我說 臉要放正"
+    },
+    {
+      "t": 70.87,
+      "end": 73.19,
+      "text": "你說 好 還是在笑"
+    },
+    {
+      "t": 73.53,
+      "end": 73.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.53,
+      "end": 76.93,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 76.93,
+      "end": 78.89,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 78.95,
+      "end": 80.77,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 80.77,
+      "end": 83.31,
+      "text": "剪壞了 我想留下來"
+    },
+    {
+      "t": 83.31,
+      "end": 83.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.31,
+      "end": 84.83,
+      "text": "你連眉毛 也在說話"
+    },
+    {
+      "t": 84.83,
+      "end": 86.43,
+      "text": "我剪到鼻尖 手慢了半拍"
+    },
+    {
+      "t": 86.43,
+      "end": 91.39,
+      "text": "一不小心 剪進了酒窩"
+    },
+    {
+      "t": 91.41,
+      "end": 91.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.41,
+      "end": 96.25,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 96.27,
+      "end": 97.57,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 97.57,
+      "end": 98.35,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 98.35,
+      "end": 102.37,
+      "text": "明天那張 我也想留"
+    },
+    {
+      "t": 102.37,
+      "end": 102.37,
+      "text": "[Bridge - Rhodes piano and soft brushes]"
+    },
+    {
+      "t": 102.37,
+      "end": 104.33,
+      "text": "黑紙貼在白紙上"
+    },
+    {
+      "t": 125.51,
+      "end": 126.67,
+      "text": "你的影子 剛好貼滿一頁"
+    },
+    {
+      "t": 126.73,
+      "end": 128.35,
+      "text": "一筆都沒有 多出來"
+    },
+    {
+      "t": 128.41,
+      "end": 128.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.41,
+      "end": 151.21,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 151.33,
+      "end": 164.44,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 165.44,
+      "end": 175.26,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 175.32,
+      "end": 184.94,
+      "text": "每天一張 我慢慢排滿牆"
+    },
+    {
+      "t": 184.96,
+      "end": 184.96,
+      "text": "[Outro - muted guitar and Rhodes fade]"
+    },
+    {
+      "t": 184.96,
+      "end": 189.3,
+      "text": "坐著別動 再坐三分鐘"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.42,
+      "end": 34.42,
+      "text": "[Intro - Rhodes piano and fretless bass]"
+    },
+    {
+      "t": 34.42,
+      "end": 34.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.42,
+      "end": 40.26,
+      "text": "天橋底下 我擺一張小桌"
+    },
+    {
+      "t": 40.52,
+      "end": 47.06,
+      "text": "一把小剪刀 一疊黑紙"
+    },
+    {
+      "t": 47.18,
+      "end": 52.38,
+      "text": "三分鐘剪好 你的側臉"
+    },
+    {
+      "t": 54.55,
+      "end": 57.75,
+      "text": "坐著別動 這是規矩"
+    },
+    {
+      "t": 60.67,
+      "end": 60.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.67,
+      "end": 64.01,
+      "text": "你坐下來 就開始笑"
+    },
+    {
+      "t": 65.59,
+      "end": 68.55,
+      "text": "我說 臉要放正"
+    },
+    {
+      "t": 70.87,
+      "end": 73.19,
+      "text": "你說 好 還是在笑"
+    },
+    {
+      "t": 73.53,
+      "end": 73.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.53,
+      "end": 76.93,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 76.93,
+      "end": 78.89,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 78.95,
+      "end": 80.77,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 80.77,
+      "end": 83.31,
+      "text": "剪壞了 我想留下來"
+    },
+    {
+      "t": 83.31,
+      "end": 83.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.31,
+      "end": 84.83,
+      "text": "你連眉毛 也在說話"
+    },
+    {
+      "t": 84.83,
+      "end": 86.43,
+      "text": "我剪到鼻尖 手慢了半拍"
+    },
+    {
+      "t": 86.43,
+      "end": 91.39,
+      "text": "一不小心 剪進了酒窩"
+    },
+    {
+      "t": 91.41,
+      "end": 91.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.41,
+      "end": 96.25,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 96.27,
+      "end": 97.57,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 97.57,
+      "end": 98.35,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 98.35,
+      "end": 102.37,
+      "text": "明天那張 我也想留"
+    },
+    {
+      "t": 102.37,
+      "end": 102.37,
+      "text": "[Bridge - Rhodes piano and soft brushes]"
+    },
+    {
+      "t": 102.37,
+      "end": 104.33,
+      "text": "黑紙貼在白紙上"
+    },
+    {
+      "t": 125.51,
+      "end": 126.67,
+      "text": "你的影子 剛好貼滿一頁"
+    },
+    {
+      "t": 126.73,
+      "end": 128.35,
+      "text": "一筆都沒有 多出來"
+    },
+    {
+      "t": 128.41,
+      "end": 128.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 128.41,
+      "end": 151.21,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 151.33,
+      "end": 164.44,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 165.44,
+      "end": 175.26,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 175.32,
+      "end": 184.94,
+      "text": "每天一張 我慢慢排滿牆"
+    },
+    {
+      "t": 184.96,
+      "end": 184.96,
+      "text": "[Outro - muted guitar and Rhodes fade]"
+    },
+    {
+      "t": 184.96,
+      "end": 189.3,
+      "text": "坐著別動 再坐三分鐘"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 34.42,
+      "end": 34.42,
+      "text": "[Intro - Rhodes piano and fretless bass]"
+    },
+    {
+      "t": 34.42,
+      "end": 34.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.42,
+      "end": 40.26,
+      "text": "天橋底下 我擺一張小桌"
+    },
+    {
+      "t": 40.52,
+      "end": 44.04,
+      "text": "一把小剪刀 一疊黑紙"
+    },
+    {
+      "t": 47.18,
+      "end": 52.1,
+      "text": "三分鐘剪好 你的側臉"
+    },
+    {
+      "t": 54.55,
+      "end": 57.73,
+      "text": "坐著別動 這是規矩"
+    },
+    {
+      "t": 60.69,
+      "end": 60.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.69,
+      "end": 64.01,
+      "text": "你坐下來 就開始笑"
+    },
+    {
+      "t": 65.59,
+      "end": 68.53,
+      "text": "我說 臉要放正"
+    },
+    {
+      "t": 70.87,
+      "end": 73.93,
+      "text": "你說 好 還是在笑"
+    },
+    {
+      "t": 73.93,
+      "end": 73.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.93,
+      "end": 77.07,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 77.07,
+      "end": 78.09,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 78.09,
+      "end": 80.77,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 81.25,
+      "end": 83.31,
+      "text": "剪壞了 我想留下來"
+    },
+    {
+      "t": 83.31,
+      "end": 83.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.31,
+      "end": 84.47,
+      "text": "你連眉毛 也在說話"
+    },
+    {
+      "t": 84.47,
+      "end": 86.49,
+      "text": "我剪到鼻尖 手慢了半拍"
+    },
+    {
+      "t": 86.49,
+      "end": 87.23,
+      "text": "一不小心 剪進了酒窩"
+    },
+    {
+      "t": 87.25,
+      "end": 87.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 87.25,
+      "end": 90.25,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 90.29,
+      "end": 91.71,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 91.71,
+      "end": 95.31,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 95.41,
+      "end": 98.49,
+      "text": "明天那張 我也想留"
+    },
+    {
+      "t": 101.23,
+      "end": 101.23,
+      "text": "[Bridge - Rhodes piano and soft brushes]"
+    },
+    {
+      "t": 101.23,
+      "end": 104.31,
+      "text": "黑紙貼在白紙上"
+    },
+    {
+      "t": 110.21,
+      "end": 125.67,
+      "text": "你的影子 剛好貼滿一頁"
+    },
+    {
+      "t": 125.79,
+      "end": 128.53,
+      "text": "一筆都沒有 多出來"
+    },
+    {
+      "t": 149.47,
+      "end": 149.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.47,
+      "end": 161.2,
+      "text": "剪刀轉過下巴 轉過嘴角"
+    },
+    {
+      "t": 161.2,
+      "end": 169.6,
+      "text": "紙上的你 咧著嘴"
+    },
+    {
+      "t": 169.62,
+      "end": 175.3,
+      "text": "這一張 我不賣"
+    },
+    {
+      "t": 175.3,
+      "end": 184.94,
+      "text": "每天一張 我慢慢排滿牆"
+    },
+    {
+      "t": 184.96,
+      "end": 184.96,
+      "text": "[Outro - muted guitar and Rhodes fade]"
+    },
+    {
+      "t": 184.96,
+      "end": 189.22,
+      "text": "坐著別動 再坐三分鐘"
+    }
+  ]
+}

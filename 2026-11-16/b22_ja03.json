@@ -1,0 +1,377 @@
+{
+  "id": "b22_ja03",
+  "title": "目をつぶる観覧車",
+  "title_source": "scripted",
+  "genre": "Japanese Swedish dansband schlager",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "fond, bouncy, sing-along",
+  "persona": "",
+  "subject": "a small-town Ferris wheel operator who has promised the hot-dog seller a free ride, and describes the whole town out loud to her all the way up because she keeps her eyes shut the entire time, afraid of heights",
+  "caption": "Swedish dansband schlager sung in Japanese, steady foxtrot dance-hall pulse with a big sing-along chorus. Accordion playing the lead hook and warm chord pads, soft clean electric guitar with gentle arpeggios and a bright chorus-pedal tone, electric bass walking on the root and fifth, brushed drums with a steady snare backbeat, Hammond-style organ underneath. Polished warm 1980s dansband studio sound, dry drums, wide group backing voices. Mature male lead, warm baritone-tenor, clearly sung, with a full group of backing voices on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, G major. Mood: fond, bouncy and sing-along. No rap, no autotune, no synth lead, no trap hi-hats, no EDM drops, no heavy distortion.",
+  "lyrics": "[Intro - accordion hook over soft guitar arpeggio]\n\n[Verse 1]\n町の広場の 小さな観覧車\nおれが回して 十年になる\nホットドッグ屋の 君に約束\n「いつか ただで乗せるよ」\n\n[Pre-Chorus]\n今日 君は乗った\nけれど目を ぎゅっと閉じてる\n\n[Chorus]\n目をつぶっても いいよ\nおれが全部 話すから\nほら 見えるだろう 君の屋台\nゆっくり ゆっくり 上がっていく\n\n[Verse 2]\n右に見えるのは 駅の時計\n少し遅れて 動いてる\n左は川で 釣りの人たち\n犬が一匹 ほえている\n\n[Chorus]\n目をつぶっても いいよ\nおれが全部 話すから\nほら 見えるだろう 君の屋台\nゆっくり ゆっくり 回っていく\n\n[Bridge - accordion alone, then band returns]\n君が小さく 目を開けた\n一瞬だけ 笑った\n\n[Chorus]\n目をつぶっても いいよ\nでも今 ちょっと見て\nほら 見えるだろう 君の屋台\nゆっくり ゆっくり 下りていく\n\n[Outro - accordion and guitar, gentle final chord]\nもう一周 乗るかい",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Swedish dansband schlager sung in Japanese, steady foxtrot dance-hall pulse with a big sing-along chorus. Accordion playing the lead hook and warm chord pads, soft clean electric guitar with gentle arpeggios and a bright chorus-pedal tone, electric bass walking on the root and fifth, brushed drums with a steady snare backbeat, Hammond-style organ underneath. Polished warm 1980s dansband studio sound, dry drums, wide group backing voices. Mature male lead, warm baritone-tenor, clearly sung, with a full group of backing voices on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, G major. Mood: fond, bouncy and sing-along. No rap, no autotune, no synth lead, no trap hi-hats, no EDM drops, no heavy distortion.",
+    "lyrics": "[Intro - accordion hook over soft guitar arpeggio]\n\n[Verse 1]\n町の広場の 小さな観覧車\nおれが回して 十年になる\nホットドッグ屋の 君に約束\n「いつか ただで乗せるよ」\n\n[Pre-Chorus]\n今日 君は乗った\nけれど目を ぎゅっと閉じてる\n\n[Chorus]\n目をつぶっても いいよ\nおれが全部 話すから\nほら 見えるだろう 君の屋台\nゆっくり ゆっくり 上がっていく\n\n[Verse 2]\n右に見えるのは 駅の時計\n少し遅れて 動いてる\n左は川で 釣りの人たち\n犬が一匹 ほえている\n\n[Chorus]\n目をつぶっても いいよ\nおれが全部 話すから\nほら 見えるだろう 君の屋台\nゆっくり ゆっくり 回っていく\n\n[Bridge - accordion alone, then band returns]\n君が小さく 目を開けた\n一瞬だけ 笑った\n\n[Chorus]\n目をつぶっても いいよ\nでも今 ちょっと見て\nほら 見えるだろう 君の屋台\nゆっくり ゆっくり 下りていく\n\n[Outro - accordion and guitar, gentle final chord]\nもう一周 乗るかい"
+  },
+  "seed": "615190423",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.33s**\n- 59.33s per song\n- LM phase (1 song): 13.36s\n- DiT phase (1 song): 45.96s",
+  "task_id": "8475159d-d2a7-49a8-baf0-11adb44a49d9",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-16T17:49:17.361834+08:00",
+  "audio": "b22_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 10.48,
+      "end": 10.48,
+      "text": "[Intro - accordion hook over soft guitar arpeggio]"
+    },
+    {
+      "t": 10.48,
+      "end": 10.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.48,
+      "end": 22.02,
+      "text": "町の広場の 小さな観覧車"
+    },
+    {
+      "t": 23.62,
+      "end": 28.38,
+      "text": "おれが回して 十年になる"
+    },
+    {
+      "t": 28.68,
+      "end": 29.9,
+      "text": "ホットドッグ屋の 君に約束"
+    },
+    {
+      "t": 32.52,
+      "end": 37.26,
+      "text": "「いつか ただで乗せるよ」"
+    },
+    {
+      "t": 37.94,
+      "end": 37.94,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.94,
+      "end": 44.48,
+      "text": "今日 君は乗った"
+    },
+    {
+      "t": 45.72,
+      "end": 53.67,
+      "text": "けれど目を ぎゅっと閉じてる"
+    },
+    {
+      "t": 54.61,
+      "end": 54.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.61,
+      "end": 57.81,
+      "text": "目をつぶっても いいよ"
+    },
+    {
+      "t": 58.89,
+      "end": 62.53,
+      "text": "おれが全部 話すから"
+    },
+    {
+      "t": 63.51,
+      "end": 67.43,
+      "text": "ほら 見えるだろう 君の屋台"
+    },
+    {
+      "t": 67.43,
+      "end": 71.17,
+      "text": "ゆっくり ゆっくり 上がっていく"
+    },
+    {
+      "t": 72.13,
+      "end": 72.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.13,
+      "end": 77.05,
+      "text": "右に見えるのは 駅の時計"
+    },
+    {
+      "t": 77.51,
+      "end": 78.83,
+      "text": "少し遅れて 動いてる"
+    },
+    {
+      "t": 80.75,
+      "end": 85.95,
+      "text": "左は川で 釣りの人たち"
+    },
+    {
+      "t": 86.59,
+      "end": 92.67,
+      "text": "犬が一匹 ほえている"
+    },
+    {
+      "t": 94.11,
+      "end": 94.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.11,
+      "end": 97.03,
+      "text": "目をつぶっても いいよ"
+    },
+    {
+      "t": 98.39,
+      "end": 102.57,
+      "text": "おれが全部 話すから"
+    },
+    {
+      "t": 103.03,
+      "end": 107.47,
+      "text": "ほら 見えるだろう 君の屋台"
+    },
+    {
+      "t": 107.47,
+      "end": 112.59,
+      "text": "ゆっくり ゆっくり 回っていく"
+    },
+    {
+      "t": 112.73,
+      "end": 112.73,
+      "text": "[Bridge - accordion alone, then band returns]"
+    },
+    {
+      "t": 112.73,
+      "end": 121.77,
+      "text": "君が小さく 目を開けた"
+    },
+    {
+      "t": 125.21,
+      "end": 130.93,
+      "text": "一瞬だけ 笑った"
+    },
+    {
+      "t": 142.43,
+      "end": 142.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.43,
+      "end": 146.48,
+      "text": "目をつぶっても いいよ"
+    },
+    {
+      "t": 147.76,
+      "end": 150.9,
+      "text": "でも今 ちょっと見て"
+    },
+    {
+      "t": 151.36,
+      "end": 155.82,
+      "text": "ほら 見えるだろう 君の屋台"
+    },
+    {
+      "t": 155.82,
+      "end": 160.9,
+      "text": "ゆっくり ゆっくり 下りていく"
+    },
+    {
+      "t": 161.1,
+      "end": 161.1,
+      "text": "[Outro - accordion and guitar, gentle final chord]"
+    },
+    {
+      "t": 161.1,
+      "end": 168.14,
+      "text": "もう一周 乗るかい"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 5.72,
+      "end": 5.72,
+      "text": "[Intro - accordion hook over soft guitar arpeggio]"
+    },
+    {
+      "t": 5.72,
+      "end": 5.72,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.72,
+      "end": 22.02,
+      "text": "町の広場の 小さな観覧車"
+    },
+    {
+      "t": 23.64,
+      "end": 27.74,
+      "text": "おれが回して 十年になる"
+    },
+    {
+      "t": 27.74,
+      "end": 32.54,
+      "text": "ホットドッグ屋の 君に約束"
+    },
+    {
+      "t": 32.54,
+      "end": 41.42,
+      "text": "「いつか ただで乗せるよ」"
+    },
+    {
+      "t": 42.42,
+      "end": 42.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.42,
+      "end": 46.7,
+      "text": "今日 君は乗った"
+    },
+    {
+      "t": 50.17,
+      "end": 53.67,
+      "text": "けれど目を ぎゅっと閉じてる"
+    },
+    {
+      "t": 54.61,
+      "end": 54.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.61,
+      "end": 57.81,
+      "text": "目をつぶっても いいよ"
+    },
+    {
+      "t": 58.87,
+      "end": 62.55,
+      "text": "おれが全部 話すから"
+    },
+    {
+      "t": 62.99,
+      "end": 67.47,
+      "text": "ほら 見えるだろう 君の屋台"
+    },
+    {
+      "t": 67.47,
+      "end": 71.15,
+      "text": "ゆっくり ゆっくり 上がっていく"
+    },
+    {
+      "t": 71.37,
+      "end": 71.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.37,
+      "end": 74.67,
+      "text": "右に見えるのは 駅の時計"
+    },
+    {
+      "t": 74.67,
+      "end": 77.05,
+      "text": "少し遅れて 動いてる"
+    },
+    {
+      "t": 80.75,
+      "end": 85.95,
+      "text": "左は川で 釣りの人たち"
+    },
+    {
+      "t": 89.67,
+      "end": 93.75,
+      "text": "犬が一匹 ほえている"
+    },
+    {
+      "t": 94.11,
+      "end": 94.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.11,
+      "end": 97.03,
+      "text": "目をつぶっても いいよ"
+    },
+    {
+      "t": 98.39,
+      "end": 102.57,
+      "text": "おれが全部 話すから"
+    },
+    {
+      "t": 103.07,
+      "end": 107.51,
+      "text": "ほら 見えるだろう 君の屋台"
+    },
+    {
+      "t": 107.51,
+      "end": 112.59,
+      "text": "ゆっくり ゆっくり 回っていく"
+    },
+    {
+      "t": 113.03,
+      "end": 113.03,
+      "text": "[Bridge - accordion alone, then band returns]"
+    },
+    {
+      "t": 113.03,
+      "end": 121.79,
+      "text": "君が小さく 目を開けた"
+    },
+    {
+      "t": 125.21,
+      "end": 130.97,
+      "text": "一瞬だけ 笑った"
+    },
+    {
+      "t": 142.45,
+      "end": 142.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.45,
+      "end": 146.48,
+      "text": "目をつぶっても いいよ"
+    },
+    {
+      "t": 147.74,
+      "end": 150.92,
+      "text": "でも今 ちょっと見て"
+    },
+    {
+      "t": 151.38,
+      "end": 155.84,
+      "text": "ほら 見えるだろう 君の屋台"
+    },
+    {
+      "t": 155.84,
+      "end": 160.92,
+      "text": "ゆっくり ゆっくり 下りていく"
+    },
+    {
+      "t": 166.08,
+      "end": 166.08,
+      "text": "[Outro - accordion and guitar, gentle final chord]"
+    },
+    {
+      "t": 166.08,
+      "end": 168.18,
+      "text": "もう一周 乗るかい"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

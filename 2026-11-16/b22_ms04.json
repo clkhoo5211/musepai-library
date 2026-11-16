@@ -1,0 +1,327 @@
+{
+  "id": "b22_ms04",
+  "title": "Empat Minit Lambat",
+  "title_source": "scripted",
+  "genre": "Ethio-jazz (Addis Ababa 1970s vibraphone and brass)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "wistful, dignified, slow-burning",
+  "persona": "",
+  "subject": "a municipal clock winder in Taiping climbs the tower every Sunday and keeps the clock four minutes slow, the time his wife takes to wave from the window",
+  "caption": "Ethio-jazz in the Addis Ababa 1970s style, hypnotic minor pentatonic groove with a lilting swung pulse. Vibraphone ostinato, tenor saxophone and muted trumpet playing winding unison lines, Fender Rhodes chords, round walking electric bass, brushed drum kit. Warm analog studio room, dry brass, soft vibraphone ring. Male baritone, smoky mid register, restrained delivery. Clear full voice, every word enunciated, steady sung melody on every line. 86 BPM, E minor. Wistful, dignified, slow-burning mood. No synth pad, no autotune, no rap, no EDM drums, no fast tempo.",
+  "lyrics": "[Intro - vibraphone ostinato, bass enters, saxophone line]\n\n[Verse 1]\nSetiap Ahad Pak Karim panjat menara\nSeratus tiga puluh anak tangga\nDia buka pintu besi jam besar\nDia putar kunci, dia dengar roda\n\n[Pre-Chorus]\nOrang kata jam ini lambat\nDia senyum, dia diam saja\n\n[Chorus]\nEmpat minit lambat, biarlah lambat\nTingkap rumah sana belum tertutup\nDia melambai, aku tengok sampai habis\nEmpat minit lambat, itu masa kami\n\n[Verse 2]\nBudak sekolah marah, lewat ke kelas\nKerani bank marah, lewat ke kaunter\nDia tak jawab, dia sapu minyak\nDia pandang jalan, pandang rumah kecil\n\n[Bridge - trumpet and vibraphone alone]\nMinggu depan dia lambai lagi\nJam berdetik, dia pun mengira\n\n[Chorus]\nEmpat minit lambat, biarlah lambat\nTingkap rumah sana belum tertutup\nDia melambai, aku tengok sampai habis\nEmpat minit lambat, jangan betulkan\n\n[Outro - vibraphone and saxophone, bass holds the pulse]\nJangan betulkan",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 86,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "2",
+    "prompt": "Ethio-jazz in the Addis Ababa 1970s style, hypnotic minor pentatonic groove with a lilting swung pulse. Vibraphone ostinato, tenor saxophone and muted trumpet playing winding unison lines, Fender Rhodes chords, round walking electric bass, brushed drum kit. Warm analog studio room, dry brass, soft vibraphone ring. Male baritone, smoky mid register, restrained delivery. Clear full voice, every word enunciated, steady sung melody on every line. 86 BPM, E minor. Wistful, dignified, slow-burning mood. No synth pad, no autotune, no rap, no EDM drums, no fast tempo.",
+    "lyrics": "[Intro - vibraphone ostinato, bass enters, saxophone line]\n\n[Verse 1]\nSetiap Ahad Pak Karim panjat menara\nSeratus tiga puluh anak tangga\nDia buka pintu besi jam besar\nDia putar kunci, dia dengar roda\n\n[Pre-Chorus]\nOrang kata jam ini lambat\nDia senyum, dia diam saja\n\n[Chorus]\nEmpat minit lambat, biarlah lambat\nTingkap rumah sana belum tertutup\nDia melambai, aku tengok sampai habis\nEmpat minit lambat, itu masa kami\n\n[Verse 2]\nBudak sekolah marah, lewat ke kelas\nKerani bank marah, lewat ke kaunter\nDia tak jawab, dia sapu minyak\nDia pandang jalan, pandang rumah kecil\n\n[Bridge - trumpet and vibraphone alone]\nMinggu depan dia lambai lagi\nJam berdetik, dia pun mengira\n\n[Chorus]\nEmpat minit lambat, biarlah lambat\nTingkap rumah sana belum tertutup\nDia melambai, aku tengok sampai habis\nEmpat minit lambat, jangan betulkan\n\n[Outro - vibraphone and saxophone, bass holds the pulse]\nJangan betulkan"
+  },
+  "seed": "1065951409",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 96.18s**\n- 96.18s per song\n- LM phase (1 song): 15.31s\n- DiT phase (1 song): 80.87s",
+  "task_id": "07c50e32-1425-496b-87ce-277f734db9b0",
+  "elapsed_s": 120.5,
+  "generated_at": "2026-11-16T17:04:29.596963+08:00",
+  "audio": "b22_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.54,
+      "end": 32.54,
+      "text": "[Intro - vibraphone ostinato, bass enters, saxophone line]"
+    },
+    {
+      "t": 32.54,
+      "end": 32.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.54,
+      "end": 38.66,
+      "text": "Setiap Ahad Pak Karim panjat menara"
+    },
+    {
+      "t": 38.8,
+      "end": 40.94,
+      "text": "Seratus tiga puluh anak tangga"
+    },
+    {
+      "t": 43.74,
+      "end": 47.2,
+      "text": "Dia buka pintu besi jam besar"
+    },
+    {
+      "t": 49.0,
+      "end": 53.49,
+      "text": "Dia putar kunci, dia dengar roda"
+    },
+    {
+      "t": 55.39,
+      "end": 55.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.39,
+      "end": 62.21,
+      "text": "Orang kata jam ini lambat"
+    },
+    {
+      "t": 63.69,
+      "end": 69.07,
+      "text": "Dia senyum, dia diam saja"
+    },
+    {
+      "t": 69.23,
+      "end": 69.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.23,
+      "end": 74.75,
+      "text": "Empat minit lambat, biarlah lambat"
+    },
+    {
+      "t": 74.77,
+      "end": 76.91,
+      "text": "Tingkap rumah sana belum tertutup"
+    },
+    {
+      "t": 78.33,
+      "end": 82.35,
+      "text": "Dia melambai, aku tengok sampai habis"
+    },
+    {
+      "t": 82.95,
+      "end": 88.61,
+      "text": "Empat minit lambat, itu masa kami"
+    },
+    {
+      "t": 91.95,
+      "end": 91.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.95,
+      "end": 96.23,
+      "text": "Budak sekolah marah, lewat ke kelas"
+    },
+    {
+      "t": 100.03,
+      "end": 103.03,
+      "text": "Kerani bank marah, lewat ke kaunter"
+    },
+    {
+      "t": 108.13,
+      "end": 109.93,
+      "text": "Dia tak jawab, dia sapu minyak"
+    },
+    {
+      "t": 109.93,
+      "end": 114.09,
+      "text": "Dia pandang jalan, pandang rumah kecil"
+    },
+    {
+      "t": 117.93,
+      "end": 117.93,
+      "text": "[Bridge - trumpet and vibraphone alone]"
+    },
+    {
+      "t": 117.93,
+      "end": 122.25,
+      "text": "Minggu depan dia lambai lagi"
+    },
+    {
+      "t": 128.37,
+      "end": 133.09,
+      "text": "Jam berdetik, dia pun mengira"
+    },
+    {
+      "t": 133.27,
+      "end": 133.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.27,
+      "end": 148.63,
+      "text": "Empat minit lambat, biarlah lambat"
+    },
+    {
+      "t": 148.69,
+      "end": 161.98,
+      "text": "Tingkap rumah sana belum tertutup"
+    },
+    {
+      "t": 161.98,
+      "end": 175.52,
+      "text": "Dia melambai, aku tengok sampai habis"
+    },
+    {
+      "t": 175.56,
+      "end": 184.28,
+      "text": "Empat minit lambat, jangan betulkan"
+    },
+    {
+      "t": 204.82,
+      "end": 204.82,
+      "text": "[Outro - vibraphone and saxophone, bass holds the pulse]"
+    },
+    {
+      "t": 204.82,
+      "end": 206.22,
+      "text": "Jangan betulkan"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.3,
+      "end": 0.3,
+      "text": "[Intro - vibraphone ostinato, bass enters, saxophone line]"
+    },
+    {
+      "t": 0.3,
+      "end": 0.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.3,
+      "end": 21.86,
+      "text": "Setiap Ahad Pak Karim panjat menara"
+    },
+    {
+      "t": 32.56,
+      "end": 38.96,
+      "text": "Seratus tiga puluh anak tangga"
+    },
+    {
+      "t": 39.34,
+      "end": 47.2,
+      "text": "Dia buka pintu besi jam besar"
+    },
+    {
+      "t": 49.0,
+      "end": 53.49,
+      "text": "Dia putar kunci, dia dengar roda"
+    },
+    {
+      "t": 55.37,
+      "end": 55.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.37,
+      "end": 62.23,
+      "text": "Orang kata jam ini lambat"
+    },
+    {
+      "t": 63.69,
+      "end": 69.05,
+      "text": "Dia senyum, dia diam saja"
+    },
+    {
+      "t": 69.23,
+      "end": 69.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.23,
+      "end": 74.51,
+      "text": "Empat minit lambat, biarlah lambat"
+    },
+    {
+      "t": 74.53,
+      "end": 76.01,
+      "text": "Tingkap rumah sana belum tertutup"
+    },
+    {
+      "t": 78.33,
+      "end": 82.87,
+      "text": "Dia melambai, aku tengok sampai habis"
+    },
+    {
+      "t": 82.95,
+      "end": 88.63,
+      "text": "Empat minit lambat, itu masa kami"
+    },
+    {
+      "t": 91.95,
+      "end": 91.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 91.95,
+      "end": 96.25,
+      "text": "Budak sekolah marah, lewat ke kelas"
+    },
+    {
+      "t": 96.49,
+      "end": 101.21,
+      "text": "Kerani bank marah, lewat ke kaunter"
+    },
+    {
+      "t": 101.21,
+      "end": 105.43,
+      "text": "Dia tak jawab, dia sapu minyak"
+    },
+    {
+      "t": 108.13,
+      "end": 114.17,
+      "text": "Dia pandang jalan, pandang rumah kecil"
+    },
+    {
+      "t": 117.93,
+      "end": 117.93,
+      "text": "[Bridge - trumpet and vibraphone alone]"
+    },
+    {
+      "t": 117.93,
+      "end": 127.03,
+      "text": "Minggu depan dia lambai lagi"
+    },
+    {
+      "t": 128.35,
+      "end": 133.09,
+      "text": "Jam berdetik, dia pun mengira"
+    },
+    {
+      "t": 133.27,
+      "end": 133.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.27,
+      "end": 148.63,
+      "text": "Empat minit lambat, biarlah lambat"
+    },
+    {
+      "t": 148.69,
+      "end": 165.46,
+      "text": "Tingkap rumah sana belum tertutup"
+    },
+    {
+      "t": 165.46,
+      "end": 176.8,
+      "text": "Dia melambai, aku tengok sampai habis"
+    },
+    {
+      "t": 176.8,
+      "end": 184.28,
+      "text": "Empat minit lambat, jangan betulkan"
+    },
+    {
+      "t": 204.82,
+      "end": 204.82,
+      "text": "[Outro - vibraphone and saxophone, bass holds the pulse]"
+    },
+    {
+      "t": 204.82,
+      "end": 206.2,
+      "text": "Jangan betulkan"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

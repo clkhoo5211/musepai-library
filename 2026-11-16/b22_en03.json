@@ -1,0 +1,459 @@
+{
+  "id": "b22_en03",
+  "title": "Shoe the Horse",
+  "title_source": "scripted",
+  "genre": "South African kwaito-pop",
+  "language": "en",
+  "language_name": "English",
+  "mood": "playful, loose, danceable",
+  "persona": "",
+  "subject": "A Midrand farrier can only fit a cart-horse's new shoes while a slow house track plays, because the old horse stamps in time and stands still",
+  "caption": "South African kwaito-pop, slowed 1990s township house groove. Heavy kick and clap pattern, deep rounded sub bass, shaker running straight eighths, warm Rhodes-style piano stabs, a bright whistle melody on the hook. Warm wide mix with light hiss. Male lead voice, relaxed and bright, female group answering each line in call and response. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, F minor. Playful, loose, easy to dance to. No rapping, no autotune, no trap hi-hats, no guitars, no EDM drops, no orchestra.",
+  "lyrics": "[Intro - kick, shaker, Rhodes stabs]\n\n[Verse 1]\nSunday at the stable, Midrand side\nOld grey horse, he will not stand\nI bring the hammer, I bring the nails\nHe wants the beat or he wants no part\n\n[Pre-Chorus]\nPress play, press play\nHold his foot, hold his foot\n\n[Chorus]\nShoe the horse, shoe the horse\nHammer on the one\nOoh, he nods and he stays\nFour new shoes by the end of the day\n\n[Verse 2]\nLeft front foot on my leather apron\nHe stamps along with the bass\nI file the hoof, I fit the iron\n\n[Pre-Chorus]\nTurn it up, turn it up\n\n[Chorus]\nShoe the horse, shoe the horse\nHammer on the one\nOoh, the old horse stamps in time\nCart is waiting by the gate\n\n[Outro - whistle, shaker, Rhodes]\nShoe the horse\nOne more foot",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F minor",
+    "timesignature": "4",
+    "prompt": "South African kwaito-pop, slowed 1990s township house groove. Heavy kick and clap pattern, deep rounded sub bass, shaker running straight eighths, warm Rhodes-style piano stabs, a bright whistle melody on the hook. Warm wide mix with light hiss. Male lead voice, relaxed and bright, female group answering each line in call and response. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, F minor. Playful, loose, easy to dance to. No rapping, no autotune, no trap hi-hats, no guitars, no EDM drops, no orchestra.",
+    "lyrics": "[Intro - kick, shaker, Rhodes stabs]\n\n[Verse 1]\nSunday at the stable, Midrand side\nOld grey horse, he will not stand\nI bring the hammer, I bring the nails\nHe wants the beat or he wants no part\n\n[Pre-Chorus]\nPress play, press play\nHold his foot, hold his foot\n\n[Chorus]\nShoe the horse, shoe the horse\nHammer on the one\nOoh, he nods and he stays\nFour new shoes by the end of the day\n\n[Verse 2]\nLeft front foot on my leather apron\nHe stamps along with the bass\nI file the hoof, I fit the iron\n\n[Pre-Chorus]\nTurn it up, turn it up\n\n[Chorus]\nShoe the horse, shoe the horse\nHammer on the one\nOoh, the old horse stamps in time\nCart is waiting by the gate\n\n[Outro - whistle, shaker, Rhodes]\nShoe the horse\nOne more foot"
+  },
+  "seed": "2421386138",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.65s**\n- 61.65s per song\n- LM phase (1 song): 12.01s\n- DiT phase (1 song): 49.65s",
+  "task_id": "a00f08f1-54dc-4f60-a0cb-f132f1e2891c",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-16T17:34:45.486468+08:00",
+  "audio": "b22_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Intro - kick, shaker, Rhodes stabs]"
+    },
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.24,
+      "end": 22.52,
+      "text": "Sunday at the stable, Midrand side"
+    },
+    {
+      "t": 23.74,
+      "end": 28.36,
+      "text": "Old grey horse, he will not stand"
+    },
+    {
+      "t": 28.42,
+      "end": 32.02,
+      "text": "I bring the hammer, I bring the nails"
+    },
+    {
+      "t": 32.34,
+      "end": 36.18,
+      "text": "He wants the beat or he wants no part"
+    },
+    {
+      "t": 37.04,
+      "end": 37.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.04,
+      "end": 40.46,
+      "text": "Press play, press play"
+    },
+    {
+      "t": 41.82,
+      "end": 45.12,
+      "text": "Hold his foot, hold his foot"
+    },
+    {
+      "t": 45.94,
+      "end": 45.94,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.94,
+      "end": 69.57,
+      "text": "Shoe the horse, shoe the horse"
+    },
+    {
+      "t": 69.75,
+      "end": 75.37,
+      "text": "Hammer on the one"
+    },
+    {
+      "t": 75.37,
+      "end": 77.19,
+      "text": "Ooh, he nods and he stays"
+    },
+    {
+      "t": 78.07,
+      "end": 83.21,
+      "text": "Four new shoes by the end of the day"
+    },
+    {
+      "t": 83.21,
+      "end": 83.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.21,
+      "end": 86.41,
+      "text": "Left front foot on my leather apron"
+    },
+    {
+      "t": 92.01,
+      "end": 100.77,
+      "text": "He stamps along with the bass"
+    },
+    {
+      "t": 100.85,
+      "end": 103.67,
+      "text": "I file the hoof, I fit the iron"
+    },
+    {
+      "t": 103.67,
+      "end": 103.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.67,
+      "end": 104.47,
+      "text": "Turn it up, turn it up"
+    },
+    {
+      "t": 104.47,
+      "end": 104.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.47,
+      "end": 105.71,
+      "text": "Shoe the horse, shoe the horse"
+    },
+    {
+      "t": 105.71,
+      "end": 106.83,
+      "text": "Hammer on the one"
+    },
+    {
+      "t": 106.83,
+      "end": 155.8,
+      "text": "Ooh, the old horse stamps in time"
+    },
+    {
+      "t": 155.8,
+      "end": 160.78,
+      "text": "Cart is waiting by the gate"
+    },
+    {
+      "t": 166.38,
+      "end": 166.38,
+      "text": "[Outro - whistle, shaker, Rhodes]"
+    },
+    {
+      "t": 166.38,
+      "end": 177.8,
+      "text": "Shoe the horse"
+    },
+    {
+      "t": 179.86,
+      "end": 181.18,
+      "text": "One more foot"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Intro - kick, shaker, Rhodes stabs]"
+    },
+    {
+      "t": 19.24,
+      "end": 19.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.24,
+      "end": 22.52,
+      "text": "Sunday at the stable, Midrand side"
+    },
+    {
+      "t": 23.74,
+      "end": 28.36,
+      "text": "Old grey horse, he will not stand"
+    },
+    {
+      "t": 28.42,
+      "end": 32.02,
+      "text": "I bring the hammer, I bring the nails"
+    },
+    {
+      "t": 32.34,
+      "end": 36.18,
+      "text": "He wants the beat or he wants no part"
+    },
+    {
+      "t": 37.04,
+      "end": 37.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.04,
+      "end": 40.46,
+      "text": "Press play, press play"
+    },
+    {
+      "t": 41.82,
+      "end": 45.12,
+      "text": "Hold his foot, hold his foot"
+    },
+    {
+      "t": 45.94,
+      "end": 45.94,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 45.94,
+      "end": 69.57,
+      "text": "Shoe the horse, shoe the horse"
+    },
+    {
+      "t": 69.75,
+      "end": 75.37,
+      "text": "Hammer on the one"
+    },
+    {
+      "t": 75.37,
+      "end": 77.19,
+      "text": "Ooh, he nods and he stays"
+    },
+    {
+      "t": 78.07,
+      "end": 83.21,
+      "text": "Four new shoes by the end of the day"
+    },
+    {
+      "t": 83.21,
+      "end": 83.21,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.21,
+      "end": 86.41,
+      "text": "Left front foot on my leather apron"
+    },
+    {
+      "t": 92.01,
+      "end": 100.77,
+      "text": "He stamps along with the bass"
+    },
+    {
+      "t": 100.85,
+      "end": 103.67,
+      "text": "I file the hoof, I fit the iron"
+    },
+    {
+      "t": 103.67,
+      "end": 103.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 103.67,
+      "end": 104.47,
+      "text": "Turn it up, turn it up"
+    },
+    {
+      "t": 104.47,
+      "end": 104.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.47,
+      "end": 105.71,
+      "text": "Shoe the horse, shoe the horse"
+    },
+    {
+      "t": 105.71,
+      "end": 106.83,
+      "text": "Hammer on the one"
+    },
+    {
+      "t": 106.83,
+      "end": 155.8,
+      "text": "Ooh, the old horse stamps in time"
+    },
+    {
+      "t": 155.8,
+      "end": 160.78,
+      "text": "Cart is waiting by the gate"
+    },
+    {
+      "t": 166.38,
+      "end": 166.38,
+      "text": "[Outro - whistle, shaker, Rhodes]"
+    },
+    {
+      "t": 166.38,
+      "end": 177.8,
+      "text": "Shoe the horse"
+    },
+    {
+      "t": 179.86,
+      "end": 181.18,
+      "text": "One more foot"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 19.22,
+      "end": 19.22,
+      "text": "[Intro - kick, shaker, Rhodes stabs]"
+    },
+    {
+      "t": 19.22,
+      "end": 19.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.22,
+      "end": 23.54,
+      "text": "Sunday at the stable, Midrand side"
+    },
+    {
+      "t": 23.74,
+      "end": 26.96,
+      "text": "Old grey horse, he will not stand"
+    },
+    {
+      "t": 28.3,
+      "end": 32.02,
+      "text": "I bring the hammer, I bring the nails"
+    },
+    {
+      "t": 32.34,
+      "end": 35.96,
+      "text": "He wants the beat or he wants no part"
+    },
+    {
+      "t": 37.04,
+      "end": 37.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.04,
+      "end": 40.44,
+      "text": "Press play, press play"
+    },
+    {
+      "t": 41.8,
+      "end": 58.29,
+      "text": "Hold his foot, hold his foot"
+    },
+    {
+      "t": 58.53,
+      "end": 58.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.53,
+      "end": 70.25,
+      "text": "Shoe the horse, shoe the horse"
+    },
+    {
+      "t": 70.85,
+      "end": 72.33,
+      "text": "Hammer on the one"
+    },
+    {
+      "t": 74.27,
+      "end": 77.21,
+      "text": "Ooh, he nods and he stays"
+    },
+    {
+      "t": 78.07,
+      "end": 81.15,
+      "text": "Four new shoes by the end of the day"
+    },
+    {
+      "t": 83.09,
+      "end": 83.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.09,
+      "end": 86.39,
+      "text": "Left front foot on my leather apron"
+    },
+    {
+      "t": 92.85,
+      "end": 123.35,
+      "text": "He stamps along with the bass"
+    },
+    {
+      "t": 124.15,
+      "end": 131.59,
+      "text": "I file the hoof, I fit the iron"
+    },
+    {
+      "t": 131.85,
+      "end": 131.85,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 131.85,
+      "end": 138.27,
+      "text": "Turn it up, turn it up"
+    },
+    {
+      "t": 138.53,
+      "end": 138.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.53,
+      "end": 142.54,
+      "text": "Shoe the horse, shoe the horse"
+    },
+    {
+      "t": 143.04,
+      "end": 147.82,
+      "text": "Hammer on the one"
+    },
+    {
+      "t": 148.68,
+      "end": 155.38,
+      "text": "Ooh, the old horse stamps in time"
+    },
+    {
+      "t": 155.8,
+      "end": 159.56,
+      "text": "Cart is waiting by the gate"
+    },
+    {
+      "t": 160.16,
+      "end": 160.16,
+      "text": "[Outro - whistle, shaker, Rhodes]"
+    },
+    {
+      "t": 160.16,
+      "end": 177.34,
+      "text": "Shoe the horse"
+    },
+    {
+      "t": 179.86,
+      "end": 181.14,
+      "text": "One more foot"
+    }
+  ]
+}

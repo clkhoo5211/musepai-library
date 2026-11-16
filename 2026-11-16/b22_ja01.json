@@ -1,0 +1,549 @@
+{
+  "id": "b22_ja01",
+  "title": "赤い糸でとじる",
+  "title_source": "scripted",
+  "genre": "Japanese Hungarian táncház folk-pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "giddy, warm, bouncy",
+  "persona": "",
+  "subject": "a young bookbinder who hides one stitch of red thread in every notebook he sews for the girl at the neighbouring paper stall, and waits to see which page she finds it on",
+  "caption": "Hungarian táncház folk-pop sung in Japanese, driving csárdás-style dance pulse. Fiddle playing a fast bowed melody with rhythmic double stops, hammered dulcimer with bright rolling mallet figures, viola kontra chopping off-beat chords, double bass on a hard two-feel, hand claps on the backbeat. Dry live village-hall room sound, gut-string and wood warmth. Young male lead, bright clear mid register, clearly sung with a small group answering on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, A minor. Mood: giddy, warm and bouncy. No rap, no autotune, no synths, no drum machine, no electric guitar distortion, no EDM drops.",
+  "lyrics": "[Intro - fiddle and dulcimer, double bass entering]\n\n[Verse 1]\n紙屋の隣の 製本屋\n針と糸で 朝がはじまる\n君のノートを 今日も綴じる\n背表紙の角を そっと撫でて\n\n[Pre-Chorus]\n一冊に ひとつだけ\n赤い糸を こっそり縫う\n\n[Chorus]\n何ページ目に 気づくかな\n赤い糸 赤い糸\n君が笑えば 手が止まる\n何ページ目に 気づくかな\n\n[Verse 2]\n昨日は三十ページ目で\n君は首を かしげてた\n「この糸だけ 色がちがう」\nおれは知らん顔で 紙を切る\n\n[Chorus]\n何ページ目に 気づくかな\n赤い糸 赤い糸\n君が気づけば 手が止まる\n何ページ目で 笑うかな\n\n[Bridge - dulcimer solo, claps]\n今日の一冊は 最後のページに\n糸を結んで 余らせた\n\n[Chorus]\n何ページ目に 気づくかな\n赤い糸 赤い糸\nほどいてみてよ 最後まで\nここで待ってる 隣の店\n\n[Outro - fiddle and dulcimer, ending on a stamped final chord]\n赤い糸 赤い糸",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Hungarian táncház folk-pop sung in Japanese, driving csárdás-style dance pulse. Fiddle playing a fast bowed melody with rhythmic double stops, hammered dulcimer with bright rolling mallet figures, viola kontra chopping off-beat chords, double bass on a hard two-feel, hand claps on the backbeat. Dry live village-hall room sound, gut-string and wood warmth. Young male lead, bright clear mid register, clearly sung with a small group answering on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, A minor. Mood: giddy, warm and bouncy. No rap, no autotune, no synths, no drum machine, no electric guitar distortion, no EDM drops.",
+    "lyrics": "[Intro - fiddle and dulcimer, double bass entering]\n\n[Verse 1]\n紙屋の隣の 製本屋\n針と糸で 朝がはじまる\n君のノートを 今日も綴じる\n背表紙の角を そっと撫でて\n\n[Pre-Chorus]\n一冊に ひとつだけ\n赤い糸を こっそり縫う\n\n[Chorus]\n何ページ目に 気づくかな\n赤い糸 赤い糸\n君が笑えば 手が止まる\n何ページ目に 気づくかな\n\n[Verse 2]\n昨日は三十ページ目で\n君は首を かしげてた\n「この糸だけ 色がちがう」\nおれは知らん顔で 紙を切る\n\n[Chorus]\n何ページ目に 気づくかな\n赤い糸 赤い糸\n君が気づけば 手が止まる\n何ページ目で 笑うかな\n\n[Bridge - dulcimer solo, claps]\n今日の一冊は 最後のページに\n糸を結んで 余らせた\n\n[Chorus]\n何ページ目に 気づくかな\n赤い糸 赤い糸\nほどいてみてよ 最後まで\nここで待ってる 隣の店\n\n[Outro - fiddle and dulcimer, ending on a stamped final chord]\n赤い糸 赤い糸"
+  },
+  "seed": "2081748043",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.29s**\n- 61.29s per song\n- LM phase (1 song): 12.93s\n- DiT phase (1 song): 48.36s",
+  "task_id": "15308c06-08ad-443f-8dde-0d01ec54a167",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-16T17:46:26.995190+08:00",
+  "audio": "b22_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.64,
+      "end": 25.64,
+      "text": "[Intro - fiddle and dulcimer, double bass entering]"
+    },
+    {
+      "t": 25.64,
+      "end": 25.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.64,
+      "end": 26.46,
+      "text": "紙屋の隣の 製本屋"
+    },
+    {
+      "t": 27.02,
+      "end": 29.5,
+      "text": "針と糸で 朝がはじまる"
+    },
+    {
+      "t": 29.62,
+      "end": 31.16,
+      "text": "君のノートを 今日も綴じる"
+    },
+    {
+      "t": 31.2,
+      "end": 32.74,
+      "text": "背表紙の角を そっと撫でて"
+    },
+    {
+      "t": 32.74,
+      "end": 32.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.74,
+      "end": 34.26,
+      "text": "一冊に ひとつだけ"
+    },
+    {
+      "t": 34.3,
+      "end": 35.76,
+      "text": "赤い糸を こっそり縫う"
+    },
+    {
+      "t": 35.76,
+      "end": 35.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 35.76,
+      "end": 36.68,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 36.68,
+      "end": 38.08,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 38.08,
+      "end": 40.38,
+      "text": "君が笑えば 手が止まる"
+    },
+    {
+      "t": 40.38,
+      "end": 43.92,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 43.94,
+      "end": 43.94,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 43.94,
+      "end": 46.45,
+      "text": "昨日は三十ページ目で"
+    },
+    {
+      "t": 46.45,
+      "end": 51.65,
+      "text": "君は首を かしげてた"
+    },
+    {
+      "t": 53.33,
+      "end": 65.47,
+      "text": "「この糸だけ 色がちがう」"
+    },
+    {
+      "t": 65.61,
+      "end": 68.49,
+      "text": "おれは知らん顔で 紙を切る"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.71,
+      "end": 73.59,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 73.69,
+      "end": 75.15,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 75.25,
+      "end": 78.41,
+      "text": "君が気づけば 手が止まる"
+    },
+    {
+      "t": 79.47,
+      "end": 82.35,
+      "text": "何ページ目で 笑うかな"
+    },
+    {
+      "t": 83.37,
+      "end": 83.37,
+      "text": "[Bridge - dulcimer solo, claps]"
+    },
+    {
+      "t": 83.37,
+      "end": 104.11,
+      "text": "今日の一冊は 最後のページに"
+    },
+    {
+      "t": 105.33,
+      "end": 116.89,
+      "text": "糸を結んで 余らせた"
+    },
+    {
+      "t": 119.25,
+      "end": 119.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.25,
+      "end": 122.91,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 123.07,
+      "end": 125.67,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 128.29,
+      "end": 131.19,
+      "text": "ほどいてみてよ 最後まで"
+    },
+    {
+      "t": 132.15,
+      "end": 137.51,
+      "text": "ここで待ってる 隣の店"
+    },
+    {
+      "t": 137.61,
+      "end": 137.61,
+      "text": "[Outro - fiddle and dulcimer, ending on a stamped final chord]"
+    },
+    {
+      "t": 137.61,
+      "end": 161.76,
+      "text": "赤い糸 赤い糸"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.64,
+      "end": 25.64,
+      "text": "[Intro - fiddle and dulcimer, double bass entering]"
+    },
+    {
+      "t": 25.64,
+      "end": 25.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.64,
+      "end": 26.46,
+      "text": "紙屋の隣の 製本屋"
+    },
+    {
+      "t": 27.02,
+      "end": 29.5,
+      "text": "針と糸で 朝がはじまる"
+    },
+    {
+      "t": 29.62,
+      "end": 31.16,
+      "text": "君のノートを 今日も綴じる"
+    },
+    {
+      "t": 31.2,
+      "end": 32.74,
+      "text": "背表紙の角を そっと撫でて"
+    },
+    {
+      "t": 32.74,
+      "end": 32.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.74,
+      "end": 34.26,
+      "text": "一冊に ひとつだけ"
+    },
+    {
+      "t": 34.3,
+      "end": 35.76,
+      "text": "赤い糸を こっそり縫う"
+    },
+    {
+      "t": 35.76,
+      "end": 35.76,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 35.76,
+      "end": 36.68,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 36.68,
+      "end": 38.08,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 38.08,
+      "end": 40.38,
+      "text": "君が笑えば 手が止まる"
+    },
+    {
+      "t": 40.38,
+      "end": 43.92,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 43.94,
+      "end": 43.94,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 43.94,
+      "end": 46.45,
+      "text": "昨日は三十ページ目で"
+    },
+    {
+      "t": 46.45,
+      "end": 51.65,
+      "text": "君は首を かしげてた"
+    },
+    {
+      "t": 53.33,
+      "end": 65.47,
+      "text": "「この糸だけ 色がちがう」"
+    },
+    {
+      "t": 65.61,
+      "end": 68.49,
+      "text": "おれは知らん顔で 紙を切る"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.71,
+      "end": 73.59,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 73.69,
+      "end": 75.15,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 75.25,
+      "end": 78.41,
+      "text": "君が気づけば 手が止まる"
+    },
+    {
+      "t": 79.47,
+      "end": 82.35,
+      "text": "何ページ目で 笑うかな"
+    },
+    {
+      "t": 83.37,
+      "end": 83.37,
+      "text": "[Bridge - dulcimer solo, claps]"
+    },
+    {
+      "t": 83.37,
+      "end": 104.11,
+      "text": "今日の一冊は 最後のページに"
+    },
+    {
+      "t": 105.33,
+      "end": 116.89,
+      "text": "糸を結んで 余らせた"
+    },
+    {
+      "t": 119.25,
+      "end": 119.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.25,
+      "end": 122.91,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 123.07,
+      "end": 125.67,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 128.29,
+      "end": 131.19,
+      "text": "ほどいてみてよ 最後まで"
+    },
+    {
+      "t": 132.15,
+      "end": 137.51,
+      "text": "ここで待ってる 隣の店"
+    },
+    {
+      "t": 137.61,
+      "end": 137.61,
+      "text": "[Outro - fiddle and dulcimer, ending on a stamped final chord]"
+    },
+    {
+      "t": 137.61,
+      "end": 161.76,
+      "text": "赤い糸 赤い糸"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 10.32,
+      "end": 10.32,
+      "text": "[Intro - fiddle and dulcimer, double bass entering]"
+    },
+    {
+      "t": 10.32,
+      "end": 10.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.32,
+      "end": 24.72,
+      "text": "紙屋の隣の 製本屋"
+    },
+    {
+      "t": 24.72,
+      "end": 26.16,
+      "text": "針と糸で 朝がはじまる"
+    },
+    {
+      "t": 26.2,
+      "end": 29.48,
+      "text": "君のノートを 今日も綴じる"
+    },
+    {
+      "t": 29.6,
+      "end": 31.4,
+      "text": "背表紙の角を そっと撫でて"
+    },
+    {
+      "t": 31.52,
+      "end": 31.52,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 31.52,
+      "end": 32.68,
+      "text": "一冊に ひとつだけ"
+    },
+    {
+      "t": 32.8,
+      "end": 34.92,
+      "text": "赤い糸を こっそり縫う"
+    },
+    {
+      "t": 35.0,
+      "end": 35.0,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 35.0,
+      "end": 36.44,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 36.46,
+      "end": 37.06,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 37.82,
+      "end": 40.38,
+      "text": "君が笑えば 手が止まる"
+    },
+    {
+      "t": 40.38,
+      "end": 43.92,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 43.96,
+      "end": 43.96,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 43.96,
+      "end": 46.45,
+      "text": "昨日は三十ページ目で"
+    },
+    {
+      "t": 46.45,
+      "end": 50.93,
+      "text": "君は首を かしげてた"
+    },
+    {
+      "t": 53.33,
+      "end": 65.93,
+      "text": "「この糸だけ 色がちがう」"
+    },
+    {
+      "t": 66.39,
+      "end": 68.47,
+      "text": "おれは知らん顔で 紙を切る"
+    },
+    {
+      "t": 68.61,
+      "end": 68.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.61,
+      "end": 73.61,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 73.85,
+      "end": 75.15,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 75.31,
+      "end": 78.41,
+      "text": "君が気づけば 手が止まる"
+    },
+    {
+      "t": 79.47,
+      "end": 82.33,
+      "text": "何ページ目で 笑うかな"
+    },
+    {
+      "t": 84.65,
+      "end": 84.65,
+      "text": "[Bridge - dulcimer solo, claps]"
+    },
+    {
+      "t": 84.65,
+      "end": 104.11,
+      "text": "今日の一冊は 最後のページに"
+    },
+    {
+      "t": 105.33,
+      "end": 116.87,
+      "text": "糸を結んで 余らせた"
+    },
+    {
+      "t": 119.25,
+      "end": 119.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.25,
+      "end": 122.91,
+      "text": "何ページ目に 気づくかな"
+    },
+    {
+      "t": 123.07,
+      "end": 125.93,
+      "text": "赤い糸 赤い糸"
+    },
+    {
+      "t": 128.29,
+      "end": 131.17,
+      "text": "ほどいてみてよ 最後まで"
+    },
+    {
+      "t": 132.15,
+      "end": 152.04,
+      "text": "ここで待ってる 隣の店"
+    },
+    {
+      "t": 152.16,
+      "end": 152.16,
+      "text": "[Outro - fiddle and dulcimer, ending on a stamped final chord]"
+    },
+    {
+      "t": 152.16,
+      "end": 177.44,
+      "text": "赤い糸 赤い糸"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "id": "b22_vi01",
+  "title": "Chữ A Nhảy Dòng",
+  "title_source": "scripted",
+  "genre": "tân cổ giao duyên dance-pop (cải lương-pop)",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "playful, teasing, warm",
+  "persona": "",
+  "subject": "A young woman brings her late grandfather's Olympia typewriter to a Sài Gòn repair stall on Lê Công Kiều; the old repairman fixes everything except the letter A that jumps a line, and she keeps coming back on Saturdays, until she realises he leaves it unfixed on purpose so she keeps visiting.",
+  "caption": "Tan co giao duyen dance-pop, Vietnamese cai luong-pop sung in Vietnamese. Dan nguyet with twangy plucked phrases, dan tranh with rippling glissandi, bouncy electric bass, drum kit with light rim-click modern rhythm, bamboo sao truc flute countermelody. Clean modern pop mix, dry close room, crisp percussion. Female bright mid-range voice with clear cai luong phrasing and gentle ornament, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, G major. Playful, teasing, warm. No rapping, no autotune, no trap hi-hats, no EDM drop, no distorted guitar, no vocal effects.",
+  "lyrics": "[Intro - dan nguyet, dan tranh]\n\n[Verse 1]\nMáy chữ ông nội để lại\nEm mang ra tiệm sửa chiều thứ Bảy\nBác thợ già nhìn qua kính lão\nGõ thử một câu, chữ A nhảy dòng\n\n[Pre-Chorus]\nBác bảo: để bác xem lại\nTuần sau em ghé nhé\n\n[Chorus]\nChữ A nhảy dòng, sao bác chưa sửa\nEm tới hoài mà máy vẫn y như cũ\nBác cười hiền, tay lau bụi con phím\nChữ A nhảy dòng, em nhảy theo luôn\n\n[Verse 2]\nBác sửa chiếc đồng hồ, sửa cái quạt\nChiếc máy chữ của em, bác để dành\nBác pha trà, kể chuyện thời bao cấp\nEm ngồi nghe, quên cả giờ về\n\n[Chorus]\nChữ A nhảy dòng, em hiểu ra rồi\nBác không sửa vì bác muốn em tới\nEm cười lớn, gõ tên bác lên giấy\nChữ A nhảy dòng, em để vậy luôn\n\n[Bridge - dan tranh]\nChắc ông nội cũng thích vậy\nCó người ghé thăm mỗi tuần\n\n[Chorus]\nChữ A nhảy dòng, nhảy dòng thật vui\nThứ Bảy nào em cũng mang bánh tới\nBác gõ thử một câu, em cười tủm\nChữ A nhảy dòng, mình đừng sửa nhé\n\n[Outro - dan nguyet, sao truc]\nChữ A nhảy dòng\nThứ Bảy em tới",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Tan co giao duyen dance-pop, Vietnamese cai luong-pop sung in Vietnamese. Dan nguyet with twangy plucked phrases, dan tranh with rippling glissandi, bouncy electric bass, drum kit with light rim-click modern rhythm, bamboo sao truc flute countermelody. Clean modern pop mix, dry close room, crisp percussion. Female bright mid-range voice with clear cai luong phrasing and gentle ornament, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, G major. Playful, teasing, warm. No rapping, no autotune, no trap hi-hats, no EDM drop, no distorted guitar, no vocal effects.",
+    "lyrics": "[Intro - dan nguyet, dan tranh]\n\n[Verse 1]\nMáy chữ ông nội để lại\nEm mang ra tiệm sửa chiều thứ Bảy\nBác thợ già nhìn qua kính lão\nGõ thử một câu, chữ A nhảy dòng\n\n[Pre-Chorus]\nBác bảo: để bác xem lại\nTuần sau em ghé nhé\n\n[Chorus]\nChữ A nhảy dòng, sao bác chưa sửa\nEm tới hoài mà máy vẫn y như cũ\nBác cười hiền, tay lau bụi con phím\nChữ A nhảy dòng, em nhảy theo luôn\n\n[Verse 2]\nBác sửa chiếc đồng hồ, sửa cái quạt\nChiếc máy chữ của em, bác để dành\nBác pha trà, kể chuyện thời bao cấp\nEm ngồi nghe, quên cả giờ về\n\n[Chorus]\nChữ A nhảy dòng, em hiểu ra rồi\nBác không sửa vì bác muốn em tới\nEm cười lớn, gõ tên bác lên giấy\nChữ A nhảy dòng, em để vậy luôn\n\n[Bridge - dan tranh]\nChắc ông nội cũng thích vậy\nCó người ghé thăm mỗi tuần\n\n[Chorus]\nChữ A nhảy dòng, nhảy dòng thật vui\nThứ Bảy nào em cũng mang bánh tới\nBác gõ thử một câu, em cười tủm\nChữ A nhảy dòng, mình đừng sửa nhé\n\n[Outro - dan nguyet, sao truc]\nChữ A nhảy dòng\nThứ Bảy em tới"
+  },
+  "seed": "1398274428",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.12s**\n- 65.12s per song\n- LM phase (1 song): 15.37s\n- DiT phase (1 song): 49.75s",
+  "task_id": "ac45b9ed-2aad-497e-93ce-ea32fcd8df26",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-16T17:17:32.188012+08:00",
+  "audio": "b22_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.88,
+      "end": 23.88,
+      "text": "[Intro - dan nguyet, dan tranh]"
+    },
+    {
+      "t": 23.88,
+      "end": 23.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.88,
+      "end": 26.12,
+      "text": "Máy chữ ông nội để lại"
+    },
+    {
+      "t": 26.96,
+      "end": 29.4,
+      "text": "Em mang ra tiệm sửa chiều thứ Bảy"
+    },
+    {
+      "t": 32.74,
+      "end": 35.74,
+      "text": "Bác thợ già nhìn qua kính lão"
+    },
+    {
+      "t": 36.02,
+      "end": 39.7,
+      "text": "Gõ thử một câu, chữ A nhảy dòng"
+    },
+    {
+      "t": 41.8,
+      "end": 41.8,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.8,
+      "end": 44.1,
+      "text": "Bác bảo: để bác xem lại"
+    },
+    {
+      "t": 44.82,
+      "end": 54.49,
+      "text": "Tuần sau em ghé nhé"
+    },
+    {
+      "t": 59.59,
+      "end": 59.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.59,
+      "end": 63.01,
+      "text": "Chữ A nhảy dòng, sao bác chưa sửa"
+    },
+    {
+      "t": 64.67,
+      "end": 67.25,
+      "text": "Em tới hoài mà máy vẫn y như cũ"
+    },
+    {
+      "t": 69.07,
+      "end": 73.05,
+      "text": "Bác cười hiền, tay lau bụi con phím"
+    },
+    {
+      "t": 73.21,
+      "end": 76.49,
+      "text": "Chữ A nhảy dòng, em nhảy theo luôn"
+    },
+    {
+      "t": 81.87,
+      "end": 81.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.87,
+      "end": 85.21,
+      "text": "Bác sửa chiếc đồng hồ, sửa cái quạt"
+    },
+    {
+      "t": 85.21,
+      "end": 89.91,
+      "text": "Chiếc máy chữ của em, bác để dành"
+    },
+    {
+      "t": 91.05,
+      "end": 94.09,
+      "text": "Bác pha trà, kể chuyện thời bao cấp"
+    },
+    {
+      "t": 95.79,
+      "end": 98.71,
+      "text": "Em ngồi nghe, quên cả giờ về"
+    },
+    {
+      "t": 99.87,
+      "end": 99.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.87,
+      "end": 103.09,
+      "text": "Chữ A nhảy dòng, em hiểu ra rồi"
+    },
+    {
+      "t": 104.65,
+      "end": 107.51,
+      "text": "Bác không sửa vì bác muốn em tới"
+    },
+    {
+      "t": 109.13,
+      "end": 111.21,
+      "text": "Em cười lớn, gõ tên bác lên giấy"
+    },
+    {
+      "t": 111.29,
+      "end": 115.45,
+      "text": "Chữ A nhảy dòng, em để vậy luôn"
+    },
+    {
+      "t": 115.45,
+      "end": 115.45,
+      "text": "[Bridge - dan tranh]"
+    },
+    {
+      "t": 115.45,
+      "end": 116.31,
+      "text": "Chắc ông nội cũng thích vậy"
+    },
+    {
+      "t": 118.53,
+      "end": 120.83,
+      "text": "Có người ghé thăm mỗi tuần"
+    },
+    {
+      "t": 135.03,
+      "end": 135.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.03,
+      "end": 138.67,
+      "text": "Chữ A nhảy dòng, nhảy dòng thật vui"
+    },
+    {
+      "t": 138.67,
+      "end": 140.97,
+      "text": "Thứ Bảy nào em cũng mang bánh tới"
+    },
+    {
+      "t": 144.19,
+      "end": 146.67,
+      "text": "Bác gõ thử một câu, em cười tủm"
+    },
+    {
+      "t": 148.55,
+      "end": 158.8,
+      "text": "Chữ A nhảy dòng, mình đừng sửa nhé"
+    },
+    {
+      "t": 161.96,
+      "end": 161.96,
+      "text": "[Outro - dan nguyet, sao truc]"
+    },
+    {
+      "t": 161.96,
+      "end": 171.68,
+      "text": "Chữ A nhảy dòng"
+    },
+    {
+      "t": 175.84,
+      "end": 182.06,
+      "text": "Thứ Bảy em tới"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.88,
+      "end": 23.88,
+      "text": "[Intro - dan nguyet, dan tranh]"
+    },
+    {
+      "t": 23.88,
+      "end": 23.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.88,
+      "end": 26.12,
+      "text": "Máy chữ ông nội để lại"
+    },
+    {
+      "t": 26.96,
+      "end": 29.4,
+      "text": "Em mang ra tiệm sửa chiều thứ Bảy"
+    },
+    {
+      "t": 32.74,
+      "end": 35.78,
+      "text": "Bác thợ già nhìn qua kính lão"
+    },
+    {
+      "t": 36.02,
+      "end": 39.72,
+      "text": "Gõ thử một câu, chữ A nhảy dòng"
+    },
+    {
+      "t": 41.82,
+      "end": 41.82,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.82,
+      "end": 44.1,
+      "text": "Bác bảo: để bác xem lại"
+    },
+    {
+      "t": 44.82,
+      "end": 55.37,
+      "text": "Tuần sau em ghé nhé"
+    },
+    {
+      "t": 59.59,
+      "end": 59.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.59,
+      "end": 62.99,
+      "text": "Chữ A nhảy dòng, sao bác chưa sửa"
+    },
+    {
+      "t": 64.67,
+      "end": 67.25,
+      "text": "Em tới hoài mà máy vẫn y như cũ"
+    },
+    {
+      "t": 69.07,
+      "end": 73.07,
+      "text": "Bác cười hiền, tay lau bụi con phím"
+    },
+    {
+      "t": 73.21,
+      "end": 76.45,
+      "text": "Chữ A nhảy dòng, em nhảy theo luôn"
+    },
+    {
+      "t": 81.87,
+      "end": 81.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.87,
+      "end": 84.57,
+      "text": "Bác sửa chiếc đồng hồ, sửa cái quạt"
+    },
+    {
+      "t": 84.57,
+      "end": 89.71,
+      "text": "Chiếc máy chữ của em, bác để dành"
+    },
+    {
+      "t": 91.05,
+      "end": 94.09,
+      "text": "Bác pha trà, kể chuyện thời bao cấp"
+    },
+    {
+      "t": 95.79,
+      "end": 98.73,
+      "text": "Em ngồi nghe, quên cả giờ về"
+    },
+    {
+      "t": 99.85,
+      "end": 99.85,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.85,
+      "end": 103.11,
+      "text": "Chữ A nhảy dòng, em hiểu ra rồi"
+    },
+    {
+      "t": 104.65,
+      "end": 107.55,
+      "text": "Bác không sửa vì bác muốn em tới"
+    },
+    {
+      "t": 109.13,
+      "end": 111.21,
+      "text": "Em cười lớn, gõ tên bác lên giấy"
+    },
+    {
+      "t": 111.29,
+      "end": 112.05,
+      "text": "Chữ A nhảy dòng, em để vậy luôn"
+    },
+    {
+      "t": 115.45,
+      "end": 115.45,
+      "text": "[Bridge - dan tranh]"
+    },
+    {
+      "t": 115.45,
+      "end": 116.33,
+      "text": "Chắc ông nội cũng thích vậy"
+    },
+    {
+      "t": 118.51,
+      "end": 120.81,
+      "text": "Có người ghé thăm mỗi tuần"
+    },
+    {
+      "t": 135.03,
+      "end": 135.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.03,
+      "end": 138.33,
+      "text": "Chữ A nhảy dòng, nhảy dòng thật vui"
+    },
+    {
+      "t": 138.33,
+      "end": 141.03,
+      "text": "Thứ Bảy nào em cũng mang bánh tới"
+    },
+    {
+      "t": 144.19,
+      "end": 146.67,
+      "text": "Bác gõ thử một câu, em cười tủm"
+    },
+    {
+      "t": 153.58,
+      "end": 158.8,
+      "text": "Chữ A nhảy dòng, mình đừng sửa nhé"
+    },
+    {
+      "t": 166.66,
+      "end": 166.66,
+      "text": "[Outro - dan nguyet, sao truc]"
+    },
+    {
+      "t": 166.66,
+      "end": 171.58,
+      "text": "Chữ A nhảy dòng"
+    },
+    {
+      "t": 175.82,
+      "end": 177.72,
+      "text": "Thứ Bảy em tới"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

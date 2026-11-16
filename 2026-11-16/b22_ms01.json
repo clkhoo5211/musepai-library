@@ -1,0 +1,327 @@
+{
+  "id": "b22_ms01",
+  "title": "Surat Di Belakang Dail",
+  "title_source": "scripted",
+  "genre": "Romanian lautari taraf folk dance (hora lenta to sirba)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "wistful then warming",
+  "persona": "",
+  "subject": "a radio repairman in Taiping opens an old Philips valve radio and finds a 1974 love letter behind the dial, then spends the evening tracing its owner by the shop stamp on the back",
+  "caption": "Romanian lautari taraf village dance, slow hora into a quickening sirba. Lead violin with ornamented slides and double-stop drones, accordion chords and trills, cimbalom tremolo rolls, plucked double bass on the beat. Live acoustic room, dry close-miked, no reverb wash. Male baritone, warm mid register, sung storytelling. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Wistful then warming mood. No pop beat, no electronic drums, no autotune, no synths, no rap.",
+  "lyrics": "[Intro - solo violin slides over cimbalom tremolo]\n\n[Verse 1]\nPak Rahim buka belakang radio\nHabuk lama jatuh atas meja\nValve dah mati, wayar pun layu\nAda sampul kuning terselit di dalam\n\n[Pre-Chorus]\nDakwat pudar, tulisan tangan\nTahun tujuh puluh empat\n\n[Chorus]\nSurat di belakang dail, siapa punya\nCap kedai Taiping di belakang radio\nDia baca perlahan, sambil pasang lampu\nMalam ini juga dia nak cari tuannya\n\n[Verse 2]\nDia tanya kedai kopi, tanya tukang jam\nMak Cik Zainab geleng, tapi senyum\nAda nama Halimah di lorong sebelah\nRumah papan, tingkap masih terbuka\n\n[Bridge - accordion and cimbalom alone]\nTangan dia menggigil pegang sampul\nDia ketuk pintu, jantung berdegup\n\n[Chorus]\nSurat di belakang dail, ini dia punya\nCap kedai Taiping di belakang radio\nHalimah baca perlahan, sambil pegang dada\nMalam ini radio itu berbunyi semula\n\n[Outro - violin and accordion slow to a held chord]\nRadio berbunyi semula",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "2",
+    "prompt": "Romanian lautari taraf village dance, slow hora into a quickening sirba. Lead violin with ornamented slides and double-stop drones, accordion chords and trills, cimbalom tremolo rolls, plucked double bass on the beat. Live acoustic room, dry close-miked, no reverb wash. Male baritone, warm mid register, sung storytelling. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Wistful then warming mood. No pop beat, no electronic drums, no autotune, no synths, no rap.",
+    "lyrics": "[Intro - solo violin slides over cimbalom tremolo]\n\n[Verse 1]\nPak Rahim buka belakang radio\nHabuk lama jatuh atas meja\nValve dah mati, wayar pun layu\nAda sampul kuning terselit di dalam\n\n[Pre-Chorus]\nDakwat pudar, tulisan tangan\nTahun tujuh puluh empat\n\n[Chorus]\nSurat di belakang dail, siapa punya\nCap kedai Taiping di belakang radio\nDia baca perlahan, sambil pasang lampu\nMalam ini juga dia nak cari tuannya\n\n[Verse 2]\nDia tanya kedai kopi, tanya tukang jam\nMak Cik Zainab geleng, tapi senyum\nAda nama Halimah di lorong sebelah\nRumah papan, tingkap masih terbuka\n\n[Bridge - accordion and cimbalom alone]\nTangan dia menggigil pegang sampul\nDia ketuk pintu, jantung berdegup\n\n[Chorus]\nSurat di belakang dail, ini dia punya\nCap kedai Taiping di belakang radio\nHalimah baca perlahan, sambil pegang dada\nMalam ini radio itu berbunyi semula\n\n[Outro - violin and accordion slow to a held chord]\nRadio berbunyi semula"
+  },
+  "seed": "2048193727",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.82s**\n- 72.82s per song\n- LM phase (1 song): 17.31s\n- DiT phase (1 song): 55.51s",
+  "task_id": "b250090c-9b33-495e-ad1b-aee4053fb5a6",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-11-16T16:59:28.656319+08:00",
+  "audio": "b22_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Intro - solo violin slides over cimbalom tremolo]"
+    },
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.96,
+      "end": 26.44,
+      "text": "Pak Rahim buka belakang radio"
+    },
+    {
+      "t": 26.56,
+      "end": 29.76,
+      "text": "Habuk lama jatuh atas meja"
+    },
+    {
+      "t": 30.98,
+      "end": 34.46,
+      "text": "Valve dah mati, wayar pun layu"
+    },
+    {
+      "t": 36.76,
+      "end": 42.22,
+      "text": "Ada sampul kuning terselit di dalam"
+    },
+    {
+      "t": 42.26,
+      "end": 42.26,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.26,
+      "end": 46.58,
+      "text": "Dakwat pudar, tulisan tangan"
+    },
+    {
+      "t": 47.66,
+      "end": 51.83,
+      "text": "Tahun tujuh puluh empat"
+    },
+    {
+      "t": 52.99,
+      "end": 52.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.99,
+      "end": 57.81,
+      "text": "Surat di belakang dail, siapa punya"
+    },
+    {
+      "t": 59.65,
+      "end": 64.63,
+      "text": "Cap kedai Taiping di belakang radio"
+    },
+    {
+      "t": 64.63,
+      "end": 67.37,
+      "text": "Dia baca perlahan, sambil pasang lampu"
+    },
+    {
+      "t": 67.39,
+      "end": 74.11,
+      "text": "Malam ini juga dia nak cari tuannya"
+    },
+    {
+      "t": 76.05,
+      "end": 76.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.05,
+      "end": 80.63,
+      "text": "Dia tanya kedai kopi, tanya tukang jam"
+    },
+    {
+      "t": 81.37,
+      "end": 85.79,
+      "text": "Mak Cik Zainab geleng, tapi senyum"
+    },
+    {
+      "t": 87.13,
+      "end": 91.19,
+      "text": "Ada nama Halimah di lorong sebelah"
+    },
+    {
+      "t": 93.01,
+      "end": 98.33,
+      "text": "Rumah papan, tingkap masih terbuka"
+    },
+    {
+      "t": 112.99,
+      "end": 112.99,
+      "text": "[Bridge - accordion and cimbalom alone]"
+    },
+    {
+      "t": 112.99,
+      "end": 118.11,
+      "text": "Tangan dia menggigil pegang sampul"
+    },
+    {
+      "t": 122.87,
+      "end": 128.29,
+      "text": "Dia ketuk pintu, jantung berdegup"
+    },
+    {
+      "t": 131.71,
+      "end": 131.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.71,
+      "end": 137.19,
+      "text": "Surat di belakang dail, ini dia punya"
+    },
+    {
+      "t": 137.99,
+      "end": 142.43,
+      "text": "Cap kedai Taiping di belakang radio"
+    },
+    {
+      "t": 143.29,
+      "end": 156.06,
+      "text": "Halimah baca perlahan, sambil pegang dada"
+    },
+    {
+      "t": 157.56,
+      "end": 173.08,
+      "text": "Malam ini radio itu berbunyi semula"
+    },
+    {
+      "t": 179.56,
+      "end": 179.56,
+      "text": "[Outro - violin and accordion slow to a held chord]"
+    },
+    {
+      "t": 179.56,
+      "end": 185.56,
+      "text": "Radio berbunyi semula"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Intro - solo violin slides over cimbalom tremolo]"
+    },
+    {
+      "t": 21.96,
+      "end": 21.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.96,
+      "end": 26.26,
+      "text": "Pak Rahim buka belakang radio"
+    },
+    {
+      "t": 26.34,
+      "end": 30.6,
+      "text": "Habuk lama jatuh atas meja"
+    },
+    {
+      "t": 31.0,
+      "end": 34.46,
+      "text": "Valve dah mati, wayar pun layu"
+    },
+    {
+      "t": 36.76,
+      "end": 42.22,
+      "text": "Ada sampul kuning terselit di dalam"
+    },
+    {
+      "t": 42.96,
+      "end": 42.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.96,
+      "end": 46.54,
+      "text": "Dakwat pudar, tulisan tangan"
+    },
+    {
+      "t": 47.66,
+      "end": 51.87,
+      "text": "Tahun tujuh puluh empat"
+    },
+    {
+      "t": 52.99,
+      "end": 52.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.99,
+      "end": 57.81,
+      "text": "Surat di belakang dail, siapa punya"
+    },
+    {
+      "t": 59.65,
+      "end": 64.61,
+      "text": "Cap kedai Taiping di belakang radio"
+    },
+    {
+      "t": 64.61,
+      "end": 67.35,
+      "text": "Dia baca perlahan, sambil pasang lampu"
+    },
+    {
+      "t": 67.35,
+      "end": 73.19,
+      "text": "Malam ini juga dia nak cari tuannya"
+    },
+    {
+      "t": 76.07,
+      "end": 76.07,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.07,
+      "end": 80.63,
+      "text": "Dia tanya kedai kopi, tanya tukang jam"
+    },
+    {
+      "t": 81.37,
+      "end": 85.79,
+      "text": "Mak Cik Zainab geleng, tapi senyum"
+    },
+    {
+      "t": 87.13,
+      "end": 91.21,
+      "text": "Ada nama Halimah di lorong sebelah"
+    },
+    {
+      "t": 91.21,
+      "end": 98.33,
+      "text": "Rumah papan, tingkap masih terbuka"
+    },
+    {
+      "t": 112.99,
+      "end": 112.99,
+      "text": "[Bridge - accordion and cimbalom alone]"
+    },
+    {
+      "t": 112.99,
+      "end": 118.05,
+      "text": "Tangan dia menggigil pegang sampul"
+    },
+    {
+      "t": 122.87,
+      "end": 128.31,
+      "text": "Dia ketuk pintu, jantung berdegup"
+    },
+    {
+      "t": 131.71,
+      "end": 131.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.71,
+      "end": 137.19,
+      "text": "Surat di belakang dail, ini dia punya"
+    },
+    {
+      "t": 137.99,
+      "end": 148.45,
+      "text": "Cap kedai Taiping di belakang radio"
+    },
+    {
+      "t": 151.94,
+      "end": 156.08,
+      "text": "Halimah baca perlahan, sambil pegang dada"
+    },
+    {
+      "t": 157.56,
+      "end": 161.96,
+      "text": "Malam ini radio itu berbunyi semula"
+    },
+    {
+      "t": 179.58,
+      "end": 179.58,
+      "text": "[Outro - violin and accordion slow to a held chord]"
+    },
+    {
+      "t": 179.58,
+      "end": 185.56,
+      "text": "Radio berbunyi semula"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

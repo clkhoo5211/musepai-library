@@ -1,0 +1,549 @@
+{
+  "id": "b22_ja05",
+  "title": "パンの手紙",
+  "title_source": "scripted",
+  "genre": "Japanese Algerian raï pop",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "playful, flirty, fast-moving",
+  "persona": "",
+  "subject": "a young bread delivery boy on a moped who finds a folded love note tucked into one baguette bag that the baker's daughter hid there, with no name and forty balconies to guess from",
+  "caption": "Algerian raï pop sung in Japanese, lively 4/4 pulse with a rolling darbuka groove and call-and-response vocals. Synth keyboard playing a bright reedy lead line with quick grace notes, oud strumming a driving rhythm figure, darbuka with bouncing dum and tek patterns, electric bass locking to the kick, hand claps on every backbeat, soft synth pad underneath. 1990s Oran raï studio sound, bright and slightly compressed, dry hand drums, warm bass. Young male lead with a young female voice answering each line, clearly sung call-and-response. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, F# minor. Mood: playful, flirty and fast-moving. No rap, no autotune, no electronic dance drops, no trap hi-hats, no electric guitar distortion, no sampled voices.",
+  "lyrics": "[Intro - synth lead and oud, darbuka groove]\n\n[Verse 1]\n朝五時のパン屋で 袋を積む\n原付のうしろに 四十軒ぶん\n一つの袋に 白い紙\n開いてみたら 手紙だった\n\n[Pre-Chorus]\n名前は 書いてない\n字は 丸くて 小さい\n\n[Chorus]\n誰が書いたの 教えてよ\nパンの手紙 パンの手紙\nあの窓かな この窓かな\nパンの手紙 パンの手紙\n\n[Verse 2]\n一階のおばさんは 首を振る\n二階の兄さんは 赤くなる\n三階の窓から 声が降る\n「遅いよ うちは最後でいい」\n\n[Chorus]\n誰が書いたの 教えてよ\nパンの手紙 パンの手紙\nあの窓じゃない この窓でもない\nパンの手紙 パンの手紙\n\n[Bridge - oud and darbuka only, claps join]\n粉のついた 指の跡\n袋の端に 残ってた\n\n[Chorus]\nわかったよ 君だったんだ\nパンの手紙 パンの手紙\n明日の袋に 入れておく\nパンの手紙 パンの手紙\n\n[Outro - synth lead and claps, last hit]\n明日の朝も 五時だよ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Algerian raï pop sung in Japanese, lively 4/4 pulse with a rolling darbuka groove and call-and-response vocals. Synth keyboard playing a bright reedy lead line with quick grace notes, oud strumming a driving rhythm figure, darbuka with bouncing dum and tek patterns, electric bass locking to the kick, hand claps on every backbeat, soft synth pad underneath. 1990s Oran raï studio sound, bright and slightly compressed, dry hand drums, warm bass. Young male lead with a young female voice answering each line, clearly sung call-and-response. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, F# minor. Mood: playful, flirty and fast-moving. No rap, no autotune, no electronic dance drops, no trap hi-hats, no electric guitar distortion, no sampled voices.",
+    "lyrics": "[Intro - synth lead and oud, darbuka groove]\n\n[Verse 1]\n朝五時のパン屋で 袋を積む\n原付のうしろに 四十軒ぶん\n一つの袋に 白い紙\n開いてみたら 手紙だった\n\n[Pre-Chorus]\n名前は 書いてない\n字は 丸くて 小さい\n\n[Chorus]\n誰が書いたの 教えてよ\nパンの手紙 パンの手紙\nあの窓かな この窓かな\nパンの手紙 パンの手紙\n\n[Verse 2]\n一階のおばさんは 首を振る\n二階の兄さんは 赤くなる\n三階の窓から 声が降る\n「遅いよ うちは最後でいい」\n\n[Chorus]\n誰が書いたの 教えてよ\nパンの手紙 パンの手紙\nあの窓じゃない この窓でもない\nパンの手紙 パンの手紙\n\n[Bridge - oud and darbuka only, claps join]\n粉のついた 指の跡\n袋の端に 残ってた\n\n[Chorus]\nわかったよ 君だったんだ\nパンの手紙 パンの手紙\n明日の袋に 入れておく\nパンの手紙 パンの手紙\n\n[Outro - synth lead and claps, last hit]\n明日の朝も 五時だよ"
+  },
+  "seed": "965971150",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.01s**\n- 62.01s per song\n- LM phase (1 song): 12.70s\n- DiT phase (1 song): 49.31s",
+  "task_id": "44841559-6f20-44a7-9395-5c3848e0cb41",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-16T17:52:07.660942+08:00",
+  "audio": "b22_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 47.77,
+      "end": 47.77,
+      "text": "[Intro - synth lead and oud, darbuka groove]"
+    },
+    {
+      "t": 47.77,
+      "end": 47.77,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 47.77,
+      "end": 50.03,
+      "text": "朝五時のパン屋で 袋を積む"
+    },
+    {
+      "t": 51.31,
+      "end": 61.11,
+      "text": "原付のうしろに 四十軒ぶん"
+    },
+    {
+      "t": 61.11,
+      "end": 66.47,
+      "text": "一つの袋に 白い紙"
+    },
+    {
+      "t": 66.63,
+      "end": 71.07,
+      "text": "開いてみたら 手紙だった"
+    },
+    {
+      "t": 71.09,
+      "end": 71.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.09,
+      "end": 72.29,
+      "text": "名前は 書いてない"
+    },
+    {
+      "t": 72.31,
+      "end": 73.21,
+      "text": "字は 丸くて 小さい"
+    },
+    {
+      "t": 73.39,
+      "end": 73.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.39,
+      "end": 75.57,
+      "text": "誰が書いたの 教えてよ"
+    },
+    {
+      "t": 75.61,
+      "end": 77.15,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 77.15,
+      "end": 80.53,
+      "text": "あの窓かな この窓かな"
+    },
+    {
+      "t": 80.67,
+      "end": 86.49,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 86.49,
+      "end": 86.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.49,
+      "end": 88.09,
+      "text": "一階のおばさんは 首を振る"
+    },
+    {
+      "t": 88.09,
+      "end": 90.55,
+      "text": "二階の兄さんは 赤くなる"
+    },
+    {
+      "t": 91.23,
+      "end": 104.43,
+      "text": "三階の窓から 声が降る"
+    },
+    {
+      "t": 104.49,
+      "end": 109.99,
+      "text": "「遅いよ うちは最後でいい」"
+    },
+    {
+      "t": 109.99,
+      "end": 109.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.99,
+      "end": 111.87,
+      "text": "誰が書いたの 教えてよ"
+    },
+    {
+      "t": 111.87,
+      "end": 114.33,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 114.35,
+      "end": 116.13,
+      "text": "あの窓じゃない この窓でもない"
+    },
+    {
+      "t": 116.15,
+      "end": 118.71,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 118.85,
+      "end": 118.85,
+      "text": "[Bridge - oud and darbuka only, claps join]"
+    },
+    {
+      "t": 118.85,
+      "end": 120.01,
+      "text": "粉のついた 指の跡"
+    },
+    {
+      "t": 120.17,
+      "end": 124.87,
+      "text": "袋の端に 残ってた"
+    },
+    {
+      "t": 131.41,
+      "end": 131.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.41,
+      "end": 136.59,
+      "text": "わかったよ 君だったんだ"
+    },
+    {
+      "t": 136.99,
+      "end": 149.4,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 149.44,
+      "end": 152.08,
+      "text": "明日の袋に 入れておく"
+    },
+    {
+      "t": 154.08,
+      "end": 179.64,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 179.68,
+      "end": 179.68,
+      "text": "[Outro - synth lead and claps, last hit]"
+    },
+    {
+      "t": 179.68,
+      "end": 185.0,
+      "text": "明日の朝も 五時だよ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 47.77,
+      "end": 47.77,
+      "text": "[Intro - synth lead and oud, darbuka groove]"
+    },
+    {
+      "t": 47.77,
+      "end": 47.77,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 47.77,
+      "end": 50.03,
+      "text": "朝五時のパン屋で 袋を積む"
+    },
+    {
+      "t": 51.31,
+      "end": 61.11,
+      "text": "原付のうしろに 四十軒ぶん"
+    },
+    {
+      "t": 61.11,
+      "end": 66.47,
+      "text": "一つの袋に 白い紙"
+    },
+    {
+      "t": 66.63,
+      "end": 71.07,
+      "text": "開いてみたら 手紙だった"
+    },
+    {
+      "t": 71.09,
+      "end": 71.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.09,
+      "end": 72.29,
+      "text": "名前は 書いてない"
+    },
+    {
+      "t": 72.31,
+      "end": 73.21,
+      "text": "字は 丸くて 小さい"
+    },
+    {
+      "t": 73.39,
+      "end": 73.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.39,
+      "end": 75.57,
+      "text": "誰が書いたの 教えてよ"
+    },
+    {
+      "t": 75.61,
+      "end": 77.15,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 77.15,
+      "end": 80.53,
+      "text": "あの窓かな この窓かな"
+    },
+    {
+      "t": 80.67,
+      "end": 86.49,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 86.49,
+      "end": 86.49,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.49,
+      "end": 88.09,
+      "text": "一階のおばさんは 首を振る"
+    },
+    {
+      "t": 88.09,
+      "end": 90.55,
+      "text": "二階の兄さんは 赤くなる"
+    },
+    {
+      "t": 91.23,
+      "end": 104.43,
+      "text": "三階の窓から 声が降る"
+    },
+    {
+      "t": 104.49,
+      "end": 109.99,
+      "text": "「遅いよ うちは最後でいい」"
+    },
+    {
+      "t": 109.99,
+      "end": 109.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 109.99,
+      "end": 111.87,
+      "text": "誰が書いたの 教えてよ"
+    },
+    {
+      "t": 111.87,
+      "end": 114.33,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 114.35,
+      "end": 116.13,
+      "text": "あの窓じゃない この窓でもない"
+    },
+    {
+      "t": 116.15,
+      "end": 118.71,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 118.85,
+      "end": 118.85,
+      "text": "[Bridge - oud and darbuka only, claps join]"
+    },
+    {
+      "t": 118.85,
+      "end": 120.01,
+      "text": "粉のついた 指の跡"
+    },
+    {
+      "t": 120.17,
+      "end": 124.87,
+      "text": "袋の端に 残ってた"
+    },
+    {
+      "t": 131.41,
+      "end": 131.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.41,
+      "end": 136.59,
+      "text": "わかったよ 君だったんだ"
+    },
+    {
+      "t": 136.99,
+      "end": 149.4,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 149.44,
+      "end": 152.08,
+      "text": "明日の袋に 入れておく"
+    },
+    {
+      "t": 154.08,
+      "end": 179.64,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 179.68,
+      "end": 179.68,
+      "text": "[Outro - synth lead and claps, last hit]"
+    },
+    {
+      "t": 179.68,
+      "end": 185.0,
+      "text": "明日の朝も 五時だよ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 47.77,
+      "end": 47.77,
+      "text": "[Intro - synth lead and oud, darbuka groove]"
+    },
+    {
+      "t": 47.77,
+      "end": 47.77,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 47.77,
+      "end": 53.59,
+      "text": "朝五時のパン屋で 袋を積む"
+    },
+    {
+      "t": 55.73,
+      "end": 61.33,
+      "text": "原付のうしろに 四十軒ぶん"
+    },
+    {
+      "t": 61.33,
+      "end": 66.47,
+      "text": "一つの袋に 白い紙"
+    },
+    {
+      "t": 66.63,
+      "end": 68.63,
+      "text": "開いてみたら 手紙だった"
+    },
+    {
+      "t": 68.75,
+      "end": 68.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 68.75,
+      "end": 70.67,
+      "text": "名前は 書いてない"
+    },
+    {
+      "t": 70.69,
+      "end": 71.99,
+      "text": "字は 丸くて 小さい"
+    },
+    {
+      "t": 71.99,
+      "end": 71.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.99,
+      "end": 72.95,
+      "text": "誰が書いたの 教えてよ"
+    },
+    {
+      "t": 73.09,
+      "end": 76.31,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 76.37,
+      "end": 80.53,
+      "text": "あの窓かな この窓かな"
+    },
+    {
+      "t": 80.65,
+      "end": 82.25,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 82.27,
+      "end": 82.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.27,
+      "end": 85.59,
+      "text": "一階のおばさんは 首を振る"
+    },
+    {
+      "t": 85.59,
+      "end": 87.95,
+      "text": "二階の兄さんは 赤くなる"
+    },
+    {
+      "t": 88.09,
+      "end": 97.65,
+      "text": "三階の窓から 声が降る"
+    },
+    {
+      "t": 97.89,
+      "end": 101.55,
+      "text": "「遅いよ うちは最後でいい」"
+    },
+    {
+      "t": 104.49,
+      "end": 104.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.49,
+      "end": 107.77,
+      "text": "誰が書いたの 教えてよ"
+    },
+    {
+      "t": 107.83,
+      "end": 109.29,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 109.55,
+      "end": 113.33,
+      "text": "あの窓じゃない この窓でもない"
+    },
+    {
+      "t": 113.47,
+      "end": 115.81,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 115.89,
+      "end": 115.89,
+      "text": "[Bridge - oud and darbuka only, claps join]"
+    },
+    {
+      "t": 115.89,
+      "end": 121.87,
+      "text": "粉のついた 指の跡"
+    },
+    {
+      "t": 122.03,
+      "end": 124.85,
+      "text": "袋の端に 残ってた"
+    },
+    {
+      "t": 131.41,
+      "end": 131.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.41,
+      "end": 139.77,
+      "text": "わかったよ 君だったんだ"
+    },
+    {
+      "t": 139.97,
+      "end": 145.0,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 145.3,
+      "end": 152.06,
+      "text": "明日の袋に 入れておく"
+    },
+    {
+      "t": 152.76,
+      "end": 155.08,
+      "text": "パンの手紙 パンの手紙"
+    },
+    {
+      "t": 155.14,
+      "end": 155.14,
+      "text": "[Outro - synth lead and claps, last hit]"
+    },
+    {
+      "t": 155.14,
+      "end": 184.34,
+      "text": "明日の朝も 五時だよ"
+    }
+  ]
+}

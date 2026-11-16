@@ -1,0 +1,504 @@
+{
+  "id": "b22_en05",
+  "title": "The Friday Key",
+  "title_source": "scripted",
+  "genre": "Finnish tango iskelma",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wistful, dignified, a little proud",
+  "persona": "",
+  "subject": "A woman who has wound the town-hall clock every Friday for thirty years is handed a quartz replacement and asks to wind it one last time with the new mayor",
+  "caption": "Finnish tango iskelma, minor-key schmaltz in the Suomi-tango tradition. Accordion carrying the melody with long legato phrases and sharp staccato dotted rhythm, nylon-string guitar strumming, upright bass walking on the beat, soft brushed snare, small string pad on the chorus. Soft hall reverb, close accordion. Male baritone, rounded warm voice, slightly formal delivery. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, A minor. Wistful, dignified, a little proud. No loud drum kit, no synths, no autotune, no rapping, no electric guitar, no pop beat.",
+  "lyrics": "[Intro - accordion, nylon guitar]\n\n[Verse 1]\nEvery Friday at a quarter past four\nI climb the stairs of the old town hall\nNinety steps and a rusted door\nThe iron key is warm in my hand\n\n[Verse 2]\nThirty years I've turned the crank\nNow they bring a box with a battery\nThey say it never loses a minute\n\n[Chorus]\nLet me wind it once more\nBefore you take the key\nOh, the town will keep its time\nBut who will keep it kind\n\n[Verse 3]\nThe new mayor stands beside me\nCoat too thin for the cold of the tower\nI show him how to lift the lever\nHe breathes out when it starts\n\n[Bridge - accordion alone, then guitar]\nFour chimes, then five\nHold the weight, let it fall\n\n[Chorus]\nLet me wind it once more\nYou may keep the key\nOh, the town will keep its time\nAnd the battery can wait\n\n[Outro - accordion, slow strings]\nNinety steps down\nThe clock goes on",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Finnish tango iskelma, minor-key schmaltz in the Suomi-tango tradition. Accordion carrying the melody with long legato phrases and sharp staccato dotted rhythm, nylon-string guitar strumming, upright bass walking on the beat, soft brushed snare, small string pad on the chorus. Soft hall reverb, close accordion. Male baritone, rounded warm voice, slightly formal delivery. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, A minor. Wistful, dignified, a little proud. No loud drum kit, no synths, no autotune, no rapping, no electric guitar, no pop beat.",
+    "lyrics": "[Intro - accordion, nylon guitar]\n\n[Verse 1]\nEvery Friday at a quarter past four\nI climb the stairs of the old town hall\nNinety steps and a rusted door\nThe iron key is warm in my hand\n\n[Verse 2]\nThirty years I've turned the crank\nNow they bring a box with a battery\nThey say it never loses a minute\n\n[Chorus]\nLet me wind it once more\nBefore you take the key\nOh, the town will keep its time\nBut who will keep it kind\n\n[Verse 3]\nThe new mayor stands beside me\nCoat too thin for the cold of the tower\nI show him how to lift the lever\nHe breathes out when it starts\n\n[Bridge - accordion alone, then guitar]\nFour chimes, then five\nHold the weight, let it fall\n\n[Chorus]\nLet me wind it once more\nYou may keep the key\nOh, the town will keep its time\nAnd the battery can wait\n\n[Outro - accordion, slow strings]\nNinety steps down\nThe clock goes on"
+  },
+  "seed": "2683998749",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 67.79s**\n- 67.79s per song\n- LM phase (1 song): 14.29s\n- DiT phase (1 song): 53.51s",
+  "task_id": "b6b745f5-6a15-4d1c-b584-4422e068e7a0",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-16T17:37:45.874112+08:00",
+  "audio": "b22_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.0,
+      "end": 36.0,
+      "text": "[Intro - accordion, nylon guitar]"
+    },
+    {
+      "t": 36.0,
+      "end": 36.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.0,
+      "end": 39.32,
+      "text": "Every Friday at a quarter past four"
+    },
+    {
+      "t": 40.94,
+      "end": 44.8,
+      "text": "I climb the stairs of the old town hall"
+    },
+    {
+      "t": 46.78,
+      "end": 50.4,
+      "text": "Ninety steps and a rusted door"
+    },
+    {
+      "t": 52.0,
+      "end": 56.11,
+      "text": "The iron key is warm in my hand"
+    },
+    {
+      "t": 58.29,
+      "end": 58.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.29,
+      "end": 64.07,
+      "text": "Thirty years I've turned the crank"
+    },
+    {
+      "t": 64.07,
+      "end": 65.33,
+      "text": "Now they bring a box with a battery"
+    },
+    {
+      "t": 65.91,
+      "end": 67.73,
+      "text": "They say it never loses a minute"
+    },
+    {
+      "t": 69.81,
+      "end": 69.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.81,
+      "end": 75.85,
+      "text": "Let me wind it once more"
+    },
+    {
+      "t": 75.85,
+      "end": 79.05,
+      "text": "Before you take the key"
+    },
+    {
+      "t": 81.55,
+      "end": 88.15,
+      "text": "Oh, the town will keep its time"
+    },
+    {
+      "t": 90.43,
+      "end": 98.21,
+      "text": "But who will keep it kind"
+    },
+    {
+      "t": 101.33,
+      "end": 101.33,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 101.33,
+      "end": 103.77,
+      "text": "The new mayor stands beside me"
+    },
+    {
+      "t": 106.49,
+      "end": 109.81,
+      "text": "Coat too thin for the cold of the tower"
+    },
+    {
+      "t": 120.71,
+      "end": 124.15,
+      "text": "I show him how to lift the lever"
+    },
+    {
+      "t": 129.25,
+      "end": 132.81,
+      "text": "He breathes out when it starts"
+    },
+    {
+      "t": 139.27,
+      "end": 139.27,
+      "text": "[Bridge - accordion alone, then guitar]"
+    },
+    {
+      "t": 139.27,
+      "end": 142.45,
+      "text": "Four chimes, then five"
+    },
+    {
+      "t": 145.37,
+      "end": 149.75,
+      "text": "Hold the weight, let it fall"
+    },
+    {
+      "t": 157.57,
+      "end": 157.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 157.57,
+      "end": 161.9,
+      "text": "Let me wind it once more"
+    },
+    {
+      "t": 161.9,
+      "end": 163.88,
+      "text": "You may keep the key"
+    },
+    {
+      "t": 166.38,
+      "end": 170.0,
+      "text": "Oh, the town will keep its time"
+    },
+    {
+      "t": 172.38,
+      "end": 175.68,
+      "text": "And the battery can wait"
+    },
+    {
+      "t": 190.18,
+      "end": 190.18,
+      "text": "[Outro - accordion, slow strings]"
+    },
+    {
+      "t": 190.18,
+      "end": 190.56,
+      "text": "Ninety steps down"
+    },
+    {
+      "t": 190.56,
+      "end": 192.44,
+      "text": "The clock goes on"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.0,
+      "end": 36.0,
+      "text": "[Intro - accordion, nylon guitar]"
+    },
+    {
+      "t": 36.0,
+      "end": 36.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.0,
+      "end": 39.32,
+      "text": "Every Friday at a quarter past four"
+    },
+    {
+      "t": 40.94,
+      "end": 44.8,
+      "text": "I climb the stairs of the old town hall"
+    },
+    {
+      "t": 46.78,
+      "end": 50.4,
+      "text": "Ninety steps and a rusted door"
+    },
+    {
+      "t": 52.0,
+      "end": 56.11,
+      "text": "The iron key is warm in my hand"
+    },
+    {
+      "t": 58.29,
+      "end": 58.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.29,
+      "end": 64.07,
+      "text": "Thirty years I've turned the crank"
+    },
+    {
+      "t": 64.07,
+      "end": 65.33,
+      "text": "Now they bring a box with a battery"
+    },
+    {
+      "t": 65.91,
+      "end": 67.73,
+      "text": "They say it never loses a minute"
+    },
+    {
+      "t": 69.81,
+      "end": 69.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.81,
+      "end": 75.85,
+      "text": "Let me wind it once more"
+    },
+    {
+      "t": 75.85,
+      "end": 79.05,
+      "text": "Before you take the key"
+    },
+    {
+      "t": 81.55,
+      "end": 88.15,
+      "text": "Oh, the town will keep its time"
+    },
+    {
+      "t": 90.43,
+      "end": 98.21,
+      "text": "But who will keep it kind"
+    },
+    {
+      "t": 101.33,
+      "end": 101.33,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 101.33,
+      "end": 103.77,
+      "text": "The new mayor stands beside me"
+    },
+    {
+      "t": 106.49,
+      "end": 109.81,
+      "text": "Coat too thin for the cold of the tower"
+    },
+    {
+      "t": 120.71,
+      "end": 124.15,
+      "text": "I show him how to lift the lever"
+    },
+    {
+      "t": 129.25,
+      "end": 132.81,
+      "text": "He breathes out when it starts"
+    },
+    {
+      "t": 139.27,
+      "end": 139.27,
+      "text": "[Bridge - accordion alone, then guitar]"
+    },
+    {
+      "t": 139.27,
+      "end": 142.45,
+      "text": "Four chimes, then five"
+    },
+    {
+      "t": 145.37,
+      "end": 149.75,
+      "text": "Hold the weight, let it fall"
+    },
+    {
+      "t": 157.57,
+      "end": 157.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 157.57,
+      "end": 161.9,
+      "text": "Let me wind it once more"
+    },
+    {
+      "t": 161.9,
+      "end": 163.88,
+      "text": "You may keep the key"
+    },
+    {
+      "t": 166.38,
+      "end": 170.0,
+      "text": "Oh, the town will keep its time"
+    },
+    {
+      "t": 172.38,
+      "end": 175.68,
+      "text": "And the battery can wait"
+    },
+    {
+      "t": 190.18,
+      "end": 190.18,
+      "text": "[Outro - accordion, slow strings]"
+    },
+    {
+      "t": 190.18,
+      "end": 190.56,
+      "text": "Ninety steps down"
+    },
+    {
+      "t": 190.56,
+      "end": 192.44,
+      "text": "The clock goes on"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 36.02,
+      "end": 36.02,
+      "text": "[Intro - accordion, nylon guitar]"
+    },
+    {
+      "t": 36.02,
+      "end": 36.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.02,
+      "end": 39.4,
+      "text": "Every Friday at a quarter past four"
+    },
+    {
+      "t": 40.94,
+      "end": 44.82,
+      "text": "I climb the stairs of the old town hall"
+    },
+    {
+      "t": 46.78,
+      "end": 50.44,
+      "text": "Ninety steps and a rusted door"
+    },
+    {
+      "t": 52.0,
+      "end": 56.21,
+      "text": "The iron key is warm in my hand"
+    },
+    {
+      "t": 58.29,
+      "end": 58.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.29,
+      "end": 61.91,
+      "text": "Thirty years I've turned the crank"
+    },
+    {
+      "t": 61.91,
+      "end": 64.57,
+      "text": "Now they bring a box with a battery"
+    },
+    {
+      "t": 64.61,
+      "end": 69.71,
+      "text": "They say it never loses a minute"
+    },
+    {
+      "t": 69.83,
+      "end": 69.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.83,
+      "end": 73.21,
+      "text": "Let me wind it once more"
+    },
+    {
+      "t": 75.87,
+      "end": 78.91,
+      "text": "Before you take the key"
+    },
+    {
+      "t": 81.57,
+      "end": 88.09,
+      "text": "Oh, the town will keep its time"
+    },
+    {
+      "t": 90.43,
+      "end": 98.21,
+      "text": "But who will keep it kind"
+    },
+    {
+      "t": 101.33,
+      "end": 101.33,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 101.33,
+      "end": 103.77,
+      "text": "The new mayor stands beside me"
+    },
+    {
+      "t": 107.99,
+      "end": 118.09,
+      "text": "Coat too thin for the cold of the tower"
+    },
+    {
+      "t": 120.71,
+      "end": 124.13,
+      "text": "I show him how to lift the lever"
+    },
+    {
+      "t": 129.25,
+      "end": 132.79,
+      "text": "He breathes out when it starts"
+    },
+    {
+      "t": 139.27,
+      "end": 139.27,
+      "text": "[Bridge - accordion alone, then guitar]"
+    },
+    {
+      "t": 139.27,
+      "end": 142.39,
+      "text": "Four chimes, then five"
+    },
+    {
+      "t": 145.37,
+      "end": 149.81,
+      "text": "Hold the weight, let it fall"
+    },
+    {
+      "t": 157.57,
+      "end": 157.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 157.57,
+      "end": 160.15,
+      "text": "Let me wind it once more"
+    },
+    {
+      "t": 161.92,
+      "end": 163.8,
+      "text": "You may keep the key"
+    },
+    {
+      "t": 166.38,
+      "end": 170.0,
+      "text": "Oh, the town will keep its time"
+    },
+    {
+      "t": 172.36,
+      "end": 184.78,
+      "text": "And the battery can wait"
+    },
+    {
+      "t": 184.86,
+      "end": 184.86,
+      "text": "[Outro - accordion, slow strings]"
+    },
+    {
+      "t": 184.86,
+      "end": 190.3,
+      "text": "Ninety steps down"
+    },
+    {
+      "t": 190.3,
+      "end": 192.52,
+      "text": "The clock goes on"
+    }
+  ]
+}

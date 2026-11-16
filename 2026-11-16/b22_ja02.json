@@ -1,0 +1,549 @@
+{
+  "id": "b22_ja02",
+  "title": "左足の十二時",
+  "title_source": "scripted",
+  "genre": "Madchester baggy dance-rock",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "cheeky, loose, danceable",
+  "persona": "",
+  "subject": "a station shoe-shine stand owner who notices that every customer's tapping foot on his footrest settles at the same tempo, and starts a Friday dance on his one chair",
+  "caption": "Madchester baggy dance-rock sung in Japanese, loose shuffling breakbeat groove with a hypnotic pulse. Drums playing a live baggy beat with sixteenth hi-hats and a ghost-note snare, wah rhythm guitar scratching in short chops, rolling melodic bass guitar carrying the hook, Hammond-style organ sustaining warm chords, tambourine and maracas on every beat. Hazy 1990 indie-dance studio sound with round low end and light room echo. Young male lead, relaxed nasal mid register, clearly sung with a loose group shout on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, E minor. Mood: cheeky, loose and danceable. No punk, no rap, no autotune, no trap hi-hats, no EDM drops, no heavy distortion.",
+  "lyrics": "[Intro - drum loop, wah guitar and bass groove]\n\n[Verse 1]\n駅の隅っこ 靴みがき\n椅子はひとつ 台はふたつ\n客の足が 台に乗ると\nこつこつ こつこつ 鳴りはじめる\n\n[Pre-Chorus]\nスーツも 作業靴も\nなぜか同じ 速さになる\n\n[Chorus]\n左足の十二時\nブラシも一緒に 揺れてるよ\nこつこつ ゆらゆら\n金曜日は 踊る日\n\n[Verse 2]\n課長の革靴 ぴかぴかにして\n合図をひとつ 手をたたく\n「おい 足が勝手に」\n課長が笑う 駅が揺れる\n\n[Chorus]\n右足も遅れずに\nクリームの缶まで 鳴ってるよ\nこつこつ ゆらゆら\n金曜日は 踊る日\n\n[Bridge - organ and bass only, then drums return]\n椅子はひとつ それでいい\n踊る場所は ここにある\n\n[Chorus]\nみんなの足が そろったら\n改札までが ステージだ\nこつこつ ゆらゆら\n金曜日は 踊る日\n\n[Outro - groove loops and fades, wah guitar]\nこつこつ ゆらゆら",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Madchester baggy dance-rock sung in Japanese, loose shuffling breakbeat groove with a hypnotic pulse. Drums playing a live baggy beat with sixteenth hi-hats and a ghost-note snare, wah rhythm guitar scratching in short chops, rolling melodic bass guitar carrying the hook, Hammond-style organ sustaining warm chords, tambourine and maracas on every beat. Hazy 1990 indie-dance studio sound with round low end and light room echo. Young male lead, relaxed nasal mid register, clearly sung with a loose group shout on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, E minor. Mood: cheeky, loose and danceable. No punk, no rap, no autotune, no trap hi-hats, no EDM drops, no heavy distortion.",
+    "lyrics": "[Intro - drum loop, wah guitar and bass groove]\n\n[Verse 1]\n駅の隅っこ 靴みがき\n椅子はひとつ 台はふたつ\n客の足が 台に乗ると\nこつこつ こつこつ 鳴りはじめる\n\n[Pre-Chorus]\nスーツも 作業靴も\nなぜか同じ 速さになる\n\n[Chorus]\n左足の十二時\nブラシも一緒に 揺れてるよ\nこつこつ ゆらゆら\n金曜日は 踊る日\n\n[Verse 2]\n課長の革靴 ぴかぴかにして\n合図をひとつ 手をたたく\n「おい 足が勝手に」\n課長が笑う 駅が揺れる\n\n[Chorus]\n右足も遅れずに\nクリームの缶まで 鳴ってるよ\nこつこつ ゆらゆら\n金曜日は 踊る日\n\n[Bridge - organ and bass only, then drums return]\n椅子はひとつ それでいい\n踊る場所は ここにある\n\n[Chorus]\nみんなの足が そろったら\n改札までが ステージだ\nこつこつ ゆらゆら\n金曜日は 踊る日\n\n[Outro - groove loops and fades, wah guitar]\nこつこつ ゆらゆら"
+  },
+  "seed": "306517752",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.51s**\n- 62.51s per song\n- LM phase (1 song): 6.88s\n- DiT phase (1 song): 55.63s",
+  "task_id": "027ff6d6-9f3e-457f-8b01-d7d18d050ef1",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-16T17:47:57.209092+08:00",
+  "audio": "b22_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.08,
+      "end": 34.08,
+      "text": "[Intro - drum loop, wah guitar and bass groove]"
+    },
+    {
+      "t": 34.08,
+      "end": 34.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.08,
+      "end": 36.72,
+      "text": "駅の隅っこ 靴みがき"
+    },
+    {
+      "t": 42.0,
+      "end": 43.68,
+      "text": "椅子はひとつ 台はふたつ"
+    },
+    {
+      "t": 43.8,
+      "end": 46.42,
+      "text": "客の足が 台に乗ると"
+    },
+    {
+      "t": 47.14,
+      "end": 51.09,
+      "text": "こつこつ こつこつ 鳴りはじめる"
+    },
+    {
+      "t": 51.29,
+      "end": 51.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.29,
+      "end": 52.25,
+      "text": "スーツも 作業靴も"
+    },
+    {
+      "t": 52.41,
+      "end": 54.17,
+      "text": "なぜか同じ 速さになる"
+    },
+    {
+      "t": 54.31,
+      "end": 54.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.31,
+      "end": 58.19,
+      "text": "左足の十二時"
+    },
+    {
+      "t": 61.15,
+      "end": 64.57,
+      "text": "ブラシも一緒に 揺れてるよ"
+    },
+    {
+      "t": 65.45,
+      "end": 67.59,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 68.75,
+      "end": 72.43,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 72.55,
+      "end": 72.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.55,
+      "end": 89.33,
+      "text": "課長の革靴 ぴかぴかにして"
+    },
+    {
+      "t": 89.35,
+      "end": 91.73,
+      "text": "合図をひとつ 手をたたく"
+    },
+    {
+      "t": 92.97,
+      "end": 95.81,
+      "text": "「おい 足が勝手に」"
+    },
+    {
+      "t": 96.19,
+      "end": 103.03,
+      "text": "課長が笑う 駅が揺れる"
+    },
+    {
+      "t": 103.15,
+      "end": 103.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.15,
+      "end": 105.27,
+      "text": "右足も遅れずに"
+    },
+    {
+      "t": 106.39,
+      "end": 109.59,
+      "text": "クリームの缶まで 鳴ってるよ"
+    },
+    {
+      "t": 111.23,
+      "end": 113.45,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 114.55,
+      "end": 115.95,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 116.05,
+      "end": 116.05,
+      "text": "[Bridge - organ and bass only, then drums return]"
+    },
+    {
+      "t": 116.05,
+      "end": 117.29,
+      "text": "椅子はひとつ それでいい"
+    },
+    {
+      "t": 117.31,
+      "end": 122.47,
+      "text": "踊る場所は ここにある"
+    },
+    {
+      "t": 122.49,
+      "end": 122.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.49,
+      "end": 125.07,
+      "text": "みんなの足が そろったら"
+    },
+    {
+      "t": 125.21,
+      "end": 130.61,
+      "text": "改札までが ステージだ"
+    },
+    {
+      "t": 130.61,
+      "end": 132.77,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 132.79,
+      "end": 135.93,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 160.92,
+      "end": 160.92,
+      "text": "[Outro - groove loops and fades, wah guitar]"
+    },
+    {
+      "t": 160.92,
+      "end": 196.8,
+      "text": "こつこつ ゆらゆら"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.08,
+      "end": 34.08,
+      "text": "[Intro - drum loop, wah guitar and bass groove]"
+    },
+    {
+      "t": 34.08,
+      "end": 34.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.08,
+      "end": 36.72,
+      "text": "駅の隅っこ 靴みがき"
+    },
+    {
+      "t": 42.0,
+      "end": 43.68,
+      "text": "椅子はひとつ 台はふたつ"
+    },
+    {
+      "t": 43.8,
+      "end": 46.42,
+      "text": "客の足が 台に乗ると"
+    },
+    {
+      "t": 47.14,
+      "end": 51.09,
+      "text": "こつこつ こつこつ 鳴りはじめる"
+    },
+    {
+      "t": 51.29,
+      "end": 51.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.29,
+      "end": 52.25,
+      "text": "スーツも 作業靴も"
+    },
+    {
+      "t": 52.41,
+      "end": 54.17,
+      "text": "なぜか同じ 速さになる"
+    },
+    {
+      "t": 54.31,
+      "end": 54.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.31,
+      "end": 58.19,
+      "text": "左足の十二時"
+    },
+    {
+      "t": 61.15,
+      "end": 64.57,
+      "text": "ブラシも一緒に 揺れてるよ"
+    },
+    {
+      "t": 65.45,
+      "end": 67.59,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 68.75,
+      "end": 72.43,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 72.55,
+      "end": 72.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.55,
+      "end": 89.33,
+      "text": "課長の革靴 ぴかぴかにして"
+    },
+    {
+      "t": 89.35,
+      "end": 91.73,
+      "text": "合図をひとつ 手をたたく"
+    },
+    {
+      "t": 92.97,
+      "end": 95.81,
+      "text": "「おい 足が勝手に」"
+    },
+    {
+      "t": 96.19,
+      "end": 103.03,
+      "text": "課長が笑う 駅が揺れる"
+    },
+    {
+      "t": 103.15,
+      "end": 103.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.15,
+      "end": 105.27,
+      "text": "右足も遅れずに"
+    },
+    {
+      "t": 106.39,
+      "end": 109.59,
+      "text": "クリームの缶まで 鳴ってるよ"
+    },
+    {
+      "t": 111.23,
+      "end": 113.45,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 114.55,
+      "end": 115.95,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 116.05,
+      "end": 116.05,
+      "text": "[Bridge - organ and bass only, then drums return]"
+    },
+    {
+      "t": 116.05,
+      "end": 117.29,
+      "text": "椅子はひとつ それでいい"
+    },
+    {
+      "t": 117.31,
+      "end": 122.47,
+      "text": "踊る場所は ここにある"
+    },
+    {
+      "t": 122.49,
+      "end": 122.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.49,
+      "end": 125.07,
+      "text": "みんなの足が そろったら"
+    },
+    {
+      "t": 125.21,
+      "end": 130.61,
+      "text": "改札までが ステージだ"
+    },
+    {
+      "t": 130.61,
+      "end": 132.77,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 132.79,
+      "end": 135.93,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 160.92,
+      "end": 160.92,
+      "text": "[Outro - groove loops and fades, wah guitar]"
+    },
+    {
+      "t": 160.92,
+      "end": 196.8,
+      "text": "こつこつ ゆらゆら"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 21.2,
+      "end": 21.2,
+      "text": "[Intro - drum loop, wah guitar and bass groove]"
+    },
+    {
+      "t": 21.2,
+      "end": 21.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.2,
+      "end": 31.54,
+      "text": "駅の隅っこ 靴みがき"
+    },
+    {
+      "t": 31.7,
+      "end": 37.72,
+      "text": "椅子はひとつ 台はふたつ"
+    },
+    {
+      "t": 38.14,
+      "end": 42.3,
+      "text": "客の足が 台に乗ると"
+    },
+    {
+      "t": 42.3,
+      "end": 45.98,
+      "text": "こつこつ こつこつ 鳴りはじめる"
+    },
+    {
+      "t": 46.64,
+      "end": 46.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.64,
+      "end": 51.11,
+      "text": "スーツも 作業靴も"
+    },
+    {
+      "t": 51.73,
+      "end": 54.15,
+      "text": "なぜか同じ 速さになる"
+    },
+    {
+      "t": 54.47,
+      "end": 54.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.47,
+      "end": 60.23,
+      "text": "左足の十二時"
+    },
+    {
+      "t": 61.15,
+      "end": 64.57,
+      "text": "ブラシも一緒に 揺れてるよ"
+    },
+    {
+      "t": 65.45,
+      "end": 67.59,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 68.75,
+      "end": 84.33,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 84.51,
+      "end": 84.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.51,
+      "end": 87.67,
+      "text": "課長の革靴 ぴかぴかにして"
+    },
+    {
+      "t": 88.77,
+      "end": 91.71,
+      "text": "合図をひとつ 手をたたく"
+    },
+    {
+      "t": 92.99,
+      "end": 95.81,
+      "text": "「おい 足が勝手に」"
+    },
+    {
+      "t": 96.19,
+      "end": 99.91,
+      "text": "課長が笑う 駅が揺れる"
+    },
+    {
+      "t": 103.15,
+      "end": 103.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.15,
+      "end": 105.25,
+      "text": "右足も遅れずに"
+    },
+    {
+      "t": 106.39,
+      "end": 109.57,
+      "text": "クリームの缶まで 鳴ってるよ"
+    },
+    {
+      "t": 111.23,
+      "end": 113.43,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 114.55,
+      "end": 117.45,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 121.39,
+      "end": 121.39,
+      "text": "[Bridge - organ and bass only, then drums return]"
+    },
+    {
+      "t": 121.39,
+      "end": 125.33,
+      "text": "椅子はひとつ それでいい"
+    },
+    {
+      "t": 129.49,
+      "end": 133.97,
+      "text": "踊る場所は ここにある"
+    },
+    {
+      "t": 154.86,
+      "end": 154.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 154.86,
+      "end": 161.34,
+      "text": "みんなの足が そろったら"
+    },
+    {
+      "t": 161.34,
+      "end": 168.94,
+      "text": "改札までが ステージだ"
+    },
+    {
+      "t": 169.1,
+      "end": 173.64,
+      "text": "こつこつ ゆらゆら"
+    },
+    {
+      "t": 173.92,
+      "end": 177.04,
+      "text": "金曜日は 踊る日"
+    },
+    {
+      "t": 182.76,
+      "end": 182.76,
+      "text": "[Outro - groove loops and fades, wah guitar]"
+    },
+    {
+      "t": 182.76,
+      "end": 193.54,
+      "text": "こつこつ ゆらゆら"
+    }
+  ]
+}
