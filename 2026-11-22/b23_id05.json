@@ -1,0 +1,307 @@
+{
+  "id": "b23_id05",
+  "title": "Botol Melati",
+  "title_source": "scripted",
+  "genre": "Indonesian 1970s pop cengeng string ballad",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "tender and wistful",
+  "persona": "",
+  "subject": "A rig worker's wife in Balikpapan soaks jasmine from the back fence in oil before every 28-day rotation and refills the small bottle in his jacket pocket so his collar smells of home",
+  "caption": "Indonesian 1970s pop cengeng ballad. A lush string section plays long legato lines, a mellow electric piano carries the chords, a nylon-string guitar plays slow arpeggios, a soft bass guitar and brushed drums keep a gentle slow 4/4 pulse. Warm tape sound, gentle room reverb, unhurried and spacious. A female lead sings in a sincere mid-range with soft vibrato on long notes. Clear full voice, every word enunciated, steady sung melody on every line. 70 BPM, F major. Tender, wistful mood. No electronic beats, no autotune, no rap, no distorted guitar, no modern synth pads.",
+  "lyrics": "[Intro - electric piano, strings]\n\n[Verse 1]\nTiap tanggal berangkat kupetik melati\nDari pagar belakang rumah kita\nKurendam dalam minyak semalam\nKuisi botol kecil di saku jaketmu\n\n[Pre-Chorus]\nDua puluh delapan hari di tengah laut\nHidungmu ingat jalan pulang\n\n[Chorus]\nTeteskan satu di kerah bajumu\nSaat angin laut terlalu asin\nItu aku, itu rumah, itu halaman\nYang menunggumu pulang\n\n[Verse 2]\nKau kirim pesan lewat radio kapal\nBotol sudah kosong, tinggal baunya\nKupetik lagi, melati tak pernah habis\nSeperti aku yang tak pandai pergi\n\n[Chorus]\nTeteskan satu di kerah bajumu\nKalau botolnya kosong, ciumlah tutupnya\nItu aku, itu rumah, itu halaman\nYang menunggumu pulang\n\n[Outro - strings, nylon guitar]\nHitung hari, melati mekar lagi\nHitung hari, kau pulang lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 70,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Indonesian 1970s pop cengeng ballad. A lush string section plays long legato lines, a mellow electric piano carries the chords, a nylon-string guitar plays slow arpeggios, a soft bass guitar and brushed drums keep a gentle slow 4/4 pulse. Warm tape sound, gentle room reverb, unhurried and spacious. A female lead sings in a sincere mid-range with soft vibrato on long notes. Clear full voice, every word enunciated, steady sung melody on every line. 70 BPM, F major. Tender, wistful mood. No electronic beats, no autotune, no rap, no distorted guitar, no modern synth pads.",
+    "lyrics": "[Intro - electric piano, strings]\n\n[Verse 1]\nTiap tanggal berangkat kupetik melati\nDari pagar belakang rumah kita\nKurendam dalam minyak semalam\nKuisi botol kecil di saku jaketmu\n\n[Pre-Chorus]\nDua puluh delapan hari di tengah laut\nHidungmu ingat jalan pulang\n\n[Chorus]\nTeteskan satu di kerah bajumu\nSaat angin laut terlalu asin\nItu aku, itu rumah, itu halaman\nYang menunggumu pulang\n\n[Verse 2]\nKau kirim pesan lewat radio kapal\nBotol sudah kosong, tinggal baunya\nKupetik lagi, melati tak pernah habis\nSeperti aku yang tak pandai pergi\n\n[Chorus]\nTeteskan satu di kerah bajumu\nKalau botolnya kosong, ciumlah tutupnya\nItu aku, itu rumah, itu halaman\nYang menunggumu pulang\n\n[Outro - strings, nylon guitar]\nHitung hari, melati mekar lagi\nHitung hari, kau pulang lagi"
+  },
+  "seed": "2978852588",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.34s**\n- 56.34s per song\n- LM phase (1 song): 11.32s\n- DiT phase (1 song): 45.02s",
+  "task_id": "4280f2c0-3013-4d8c-a81f-c760140d25df",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-11-23T00:02:05.388915+08:00",
+  "audio": "b23_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Intro - electric piano, strings]"
+    },
+    {
+      "t": 23.56,
+      "end": 23.56,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.56,
+      "end": 27.76,
+      "text": "Tiap tanggal berangkat kupetik melati"
+    },
+    {
+      "t": 30.62,
+      "end": 35.04,
+      "text": "Dari pagar belakang rumah kita"
+    },
+    {
+      "t": 37.46,
+      "end": 40.18,
+      "text": "Kurendam dalam minyak semalam"
+    },
+    {
+      "t": 40.46,
+      "end": 47.0,
+      "text": "Kuisi botol kecil di saku jaketmu"
+    },
+    {
+      "t": 50.34,
+      "end": 50.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.34,
+      "end": 55.81,
+      "text": "Dua puluh delapan hari di tengah laut"
+    },
+    {
+      "t": 57.57,
+      "end": 62.49,
+      "text": "Hidungmu ingat jalan pulang"
+    },
+    {
+      "t": 64.43,
+      "end": 64.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.43,
+      "end": 68.63,
+      "text": "Teteskan satu di kerah bajumu"
+    },
+    {
+      "t": 70.85,
+      "end": 75.69,
+      "text": "Saat angin laut terlalu asin"
+    },
+    {
+      "t": 75.69,
+      "end": 83.75,
+      "text": "Itu aku, itu rumah, itu halaman"
+    },
+    {
+      "t": 84.19,
+      "end": 92.41,
+      "text": "Yang menunggumu pulang"
+    },
+    {
+      "t": 93.99,
+      "end": 93.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.99,
+      "end": 99.03,
+      "text": "Kau kirim pesan lewat radio kapal"
+    },
+    {
+      "t": 101.31,
+      "end": 105.53,
+      "text": "Botol sudah kosong, tinggal baunya"
+    },
+    {
+      "t": 107.73,
+      "end": 112.85,
+      "text": "Kupetik lagi, melati tak pernah habis"
+    },
+    {
+      "t": 114.13,
+      "end": 119.23,
+      "text": "Seperti aku yang tak pandai pergi"
+    },
+    {
+      "t": 121.01,
+      "end": 121.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.01,
+      "end": 126.89,
+      "text": "Teteskan satu di kerah bajumu"
+    },
+    {
+      "t": 127.85,
+      "end": 141.37,
+      "text": "Kalau botolnya kosong, ciumlah tutupnya"
+    },
+    {
+      "t": 141.37,
+      "end": 153.35,
+      "text": "Itu aku, itu rumah, itu halaman"
+    },
+    {
+      "t": 153.37,
+      "end": 156.18,
+      "text": "Yang menunggumu pulang"
+    },
+    {
+      "t": 165.4,
+      "end": 165.4,
+      "text": "[Outro - strings, nylon guitar]"
+    },
+    {
+      "t": 165.4,
+      "end": 179.92,
+      "text": "Hitung hari, melati mekar lagi"
+    },
+    {
+      "t": 185.96,
+      "end": 190.18,
+      "text": "Hitung hari, kau pulang lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Intro - electric piano, strings]"
+    },
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.58,
+      "end": 27.76,
+      "text": "Tiap tanggal berangkat kupetik melati"
+    },
+    {
+      "t": 30.62,
+      "end": 35.04,
+      "text": "Dari pagar belakang rumah kita"
+    },
+    {
+      "t": 37.46,
+      "end": 40.2,
+      "text": "Kurendam dalam minyak semalam"
+    },
+    {
+      "t": 40.46,
+      "end": 47.0,
+      "text": "Kuisi botol kecil di saku jaketmu"
+    },
+    {
+      "t": 50.34,
+      "end": 50.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.34,
+      "end": 57.57,
+      "text": "Dua puluh delapan hari di tengah laut"
+    },
+    {
+      "t": 57.57,
+      "end": 62.45,
+      "text": "Hidungmu ingat jalan pulang"
+    },
+    {
+      "t": 64.43,
+      "end": 64.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.43,
+      "end": 68.61,
+      "text": "Teteskan satu di kerah bajumu"
+    },
+    {
+      "t": 70.85,
+      "end": 75.69,
+      "text": "Saat angin laut terlalu asin"
+    },
+    {
+      "t": 76.45,
+      "end": 84.25,
+      "text": "Itu aku, itu rumah, itu halaman"
+    },
+    {
+      "t": 84.25,
+      "end": 92.43,
+      "text": "Yang menunggumu pulang"
+    },
+    {
+      "t": 93.99,
+      "end": 93.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.99,
+      "end": 99.09,
+      "text": "Kau kirim pesan lewat radio kapal"
+    },
+    {
+      "t": 101.31,
+      "end": 105.53,
+      "text": "Botol sudah kosong, tinggal baunya"
+    },
+    {
+      "t": 107.71,
+      "end": 112.83,
+      "text": "Kupetik lagi, melati tak pernah habis"
+    },
+    {
+      "t": 114.13,
+      "end": 119.23,
+      "text": "Seperti aku yang tak pandai pergi"
+    },
+    {
+      "t": 121.01,
+      "end": 121.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.01,
+      "end": 129.49,
+      "text": "Teteskan satu di kerah bajumu"
+    },
+    {
+      "t": 134.69,
+      "end": 141.37,
+      "text": "Kalau botolnya kosong, ciumlah tutupnya"
+    },
+    {
+      "t": 141.37,
+      "end": 153.35,
+      "text": "Itu aku, itu rumah, itu halaman"
+    },
+    {
+      "t": 153.35,
+      "end": 156.18,
+      "text": "Yang menunggumu pulang"
+    },
+    {
+      "t": 165.4,
+      "end": 165.4,
+      "text": "[Outro - strings, nylon guitar]"
+    },
+    {
+      "t": 165.4,
+      "end": 179.92,
+      "text": "Hitung hari, melati mekar lagi"
+    },
+    {
+      "t": 180.08,
+      "end": 190.18,
+      "text": "Hitung hari, kau pulang lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,367 @@
+{
+  "id": "b23_ko03",
+  "title": "아이스께끼 트위스트",
+  "title_source": "scripted",
+  "genre": "1960s Korean US-army-club twist and go-go rock and roll",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "playful, sweaty, comic",
+  "persona": "",
+  "subject": "A teenage ice-lolly (aiseukkeki) seller outside a 1965 US-army-club gate in Dongducheon whose cooler box leaks, so he twists in place to sell out before the ice melts",
+  "caption": "1960s Korean US-army-club twist and go-go rock and roll, driving straight eighth-note backbeat. Twangy electric guitar with spring reverb playing riffs, Farfisa-style combo organ stabbing on the offbeat, electric bass with a fat round tone, live drums with a hard snare backbeat, baritone sax doubling the guitar riff. Mono-style room sound, light tape saturation, vintage warmth. Male vocal, bright mid-high register, cheerfully sung with clear Korean diction, call-and-response group shouts in short phrases. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, E major. Playful and sweaty. No modern synths, no drum machine, no autotune, no trap, no rap, no heavy distortion.",
+  "lyrics": "[Intro - guitar riff, organ stabs]\n[Verse 1]\n동두천 미군 부대 정문 앞\n아이스께끼 통이 줄줄 새고 있어요\n십 분만 지나면 다 녹아 버려요\n그러니까 나는 몸을 흔들어요\n[Pre-Chorus]\n하나 둘 셋 넷 허리를 돌려\n얼음이 녹기 전에 팔아요\n[Chorus]\n트위스트 트위스트 아이스께끼 사세요\n트위스트 트위스트 오 원이에요\n병사들도 같이 돌아요 통 하나 가득\n트위스트 트위스트 다 팔렸어요\n[Verse 2]\n키 큰 병장이 내 흉내를 내다\n엉덩이로 통 뚜껑을 열어 버렸어요\n그가 껌 한 통을 내밀길래\n나는 께끼 두 개를 얹어 줬죠\n[Chorus]\n트위스트 트위스트 아이스께끼 사세요\n트위스트 트위스트 오 원이에요\n병사들도 같이 돌아요 통 하나 가득\n트위스트 트위스트 다 팔렸어요\n[Bridge - organ and drums only]\n마지막 하나는 내가 먹어요\n땀 흘린 값으로 한입만\n[Chorus]\n트위스트 트위스트 아이스께끼 사세요\n트위스트 트위스트 내일도 와요\n병사들도 같이 돌아요 통 하나 가득\n트위스트 트위스트 다 팔렸어요\n[Outro - guitar riff, ending hit]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "1960s Korean US-army-club twist and go-go rock and roll, driving straight eighth-note backbeat. Twangy electric guitar with spring reverb playing riffs, Farfisa-style combo organ stabbing on the offbeat, electric bass with a fat round tone, live drums with a hard snare backbeat, baritone sax doubling the guitar riff. Mono-style room sound, light tape saturation, vintage warmth. Male vocal, bright mid-high register, cheerfully sung with clear Korean diction, call-and-response group shouts in short phrases. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, E major. Playful and sweaty. No modern synths, no drum machine, no autotune, no trap, no rap, no heavy distortion.",
+    "lyrics": "[Intro - guitar riff, organ stabs]\n[Verse 1]\n동두천 미군 부대 정문 앞\n아이스께끼 통이 줄줄 새고 있어요\n십 분만 지나면 다 녹아 버려요\n그러니까 나는 몸을 흔들어요\n[Pre-Chorus]\n하나 둘 셋 넷 허리를 돌려\n얼음이 녹기 전에 팔아요\n[Chorus]\n트위스트 트위스트 아이스께끼 사세요\n트위스트 트위스트 오 원이에요\n병사들도 같이 돌아요 통 하나 가득\n트위스트 트위스트 다 팔렸어요\n[Verse 2]\n키 큰 병장이 내 흉내를 내다\n엉덩이로 통 뚜껑을 열어 버렸어요\n그가 껌 한 통을 내밀길래\n나는 께끼 두 개를 얹어 줬죠\n[Chorus]\n트위스트 트위스트 아이스께끼 사세요\n트위스트 트위스트 오 원이에요\n병사들도 같이 돌아요 통 하나 가득\n트위스트 트위스트 다 팔렸어요\n[Bridge - organ and drums only]\n마지막 하나는 내가 먹어요\n땀 흘린 값으로 한입만\n[Chorus]\n트위스트 트위스트 아이스께끼 사세요\n트위스트 트위스트 내일도 와요\n병사들도 같이 돌아요 통 하나 가득\n트위스트 트위스트 다 팔렸어요\n[Outro - guitar riff, ending hit]"
+  },
+  "seed": "52130020",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.29s**\n- 50.29s per song\n- LM phase (1 song): 9.77s\n- DiT phase (1 song): 40.52s",
+  "task_id": "bd378b79-1b9b-4002-80e2-4952155cd012",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-22T23:49:34.069741+08:00",
+  "audio": "b23_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 28.26,
+      "end": 28.26,
+      "text": "[Intro - guitar riff, organ stabs]"
+    },
+    {
+      "t": 28.26,
+      "end": 28.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.26,
+      "end": 33.7,
+      "text": "동두천 미군 부대 정문 앞"
+    },
+    {
+      "t": 35.44,
+      "end": 41.0,
+      "text": "아이스께끼 통이 줄줄 새고 있어요"
+    },
+    {
+      "t": 41.42,
+      "end": 45.08,
+      "text": "십 분만 지나면 다 녹아 버려요"
+    },
+    {
+      "t": 45.08,
+      "end": 48.31,
+      "text": "그러니까 나는 몸을 흔들어요"
+    },
+    {
+      "t": 50.37,
+      "end": 50.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.37,
+      "end": 54.49,
+      "text": "하나 둘 셋 넷 허리를 돌려"
+    },
+    {
+      "t": 56.49,
+      "end": 64.17,
+      "text": "얼음이 녹기 전에 팔아요"
+    },
+    {
+      "t": 64.31,
+      "end": 64.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.31,
+      "end": 67.53,
+      "text": "트위스트 트위스트 아이스께끼 사세요"
+    },
+    {
+      "t": 67.79,
+      "end": 71.03,
+      "text": "트위스트 트위스트 오 원이에요"
+    },
+    {
+      "t": 71.33,
+      "end": 74.45,
+      "text": "병사들도 같이 돌아요 통 하나 가득"
+    },
+    {
+      "t": 74.67,
+      "end": 78.31,
+      "text": "트위스트 트위스트 다 팔렸어요"
+    },
+    {
+      "t": 85.41,
+      "end": 85.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.41,
+      "end": 90.67,
+      "text": "키 큰 병장이 내 흉내를 내다"
+    },
+    {
+      "t": 91.67,
+      "end": 96.01,
+      "text": "엉덩이로 통 뚜껑을 열어 버렸어요"
+    },
+    {
+      "t": 96.07,
+      "end": 99.67,
+      "text": "그가 껌 한 통을 내밀길래"
+    },
+    {
+      "t": 99.67,
+      "end": 102.97,
+      "text": "나는 께끼 두 개를 얹어 줬죠"
+    },
+    {
+      "t": 103.07,
+      "end": 103.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.07,
+      "end": 106.35,
+      "text": "트위스트 트위스트 아이스께끼 사세요"
+    },
+    {
+      "t": 106.61,
+      "end": 109.85,
+      "text": "트위스트 트위스트 오 원이에요"
+    },
+    {
+      "t": 110.15,
+      "end": 113.63,
+      "text": "병사들도 같이 돌아요 통 하나 가득"
+    },
+    {
+      "t": 113.65,
+      "end": 124.19,
+      "text": "트위스트 트위스트 다 팔렸어요"
+    },
+    {
+      "t": 126.91,
+      "end": 126.91,
+      "text": "[Bridge - organ and drums only]"
+    },
+    {
+      "t": 126.91,
+      "end": 130.37,
+      "text": "마지막 하나는 내가 먹어요"
+    },
+    {
+      "t": 133.53,
+      "end": 137.95,
+      "text": "땀 흘린 값으로 한입만"
+    },
+    {
+      "t": 137.99,
+      "end": 137.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 137.99,
+      "end": 155.06,
+      "text": "트위스트 트위스트 아이스께끼 사세요"
+    },
+    {
+      "t": 155.36,
+      "end": 158.6,
+      "text": "트위스트 트위스트 내일도 와요"
+    },
+    {
+      "t": 158.9,
+      "end": 162.14,
+      "text": "병사들도 같이 돌아요 통 하나 가득"
+    },
+    {
+      "t": 162.18,
+      "end": 165.68,
+      "text": "트위스트 트위스트 다 팔렸어요"
+    },
+    {
+      "t": 165.68,
+      "end": 165.68,
+      "text": "[Outro - guitar riff, ending hit]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.26,
+      "end": 28.26,
+      "text": "[Intro - guitar riff, organ stabs]"
+    },
+    {
+      "t": 28.26,
+      "end": 28.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.26,
+      "end": 33.4,
+      "text": "동두천 미군 부대 정문 앞"
+    },
+    {
+      "t": 33.48,
+      "end": 41.0,
+      "text": "아이스께끼 통이 줄줄 새고 있어요"
+    },
+    {
+      "t": 41.52,
+      "end": 45.18,
+      "text": "십 분만 지나면 다 녹아 버려요"
+    },
+    {
+      "t": 45.72,
+      "end": 48.31,
+      "text": "그러니까 나는 몸을 흔들어요"
+    },
+    {
+      "t": 50.35,
+      "end": 50.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.35,
+      "end": 55.49,
+      "text": "하나 둘 셋 넷 허리를 돌려"
+    },
+    {
+      "t": 55.51,
+      "end": 57.03,
+      "text": "얼음이 녹기 전에 팔아요"
+    },
+    {
+      "t": 57.17,
+      "end": 57.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.17,
+      "end": 61.99,
+      "text": "트위스트 트위스트 아이스께끼 사세요"
+    },
+    {
+      "t": 62.13,
+      "end": 71.03,
+      "text": "트위스트 트위스트 오 원이에요"
+    },
+    {
+      "t": 71.33,
+      "end": 85.37,
+      "text": "병사들도 같이 돌아요 통 하나 가득"
+    },
+    {
+      "t": 85.41,
+      "end": 86.69,
+      "text": "트위스트 트위스트 다 팔렸어요"
+    },
+    {
+      "t": 86.77,
+      "end": 86.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.77,
+      "end": 90.67,
+      "text": "키 큰 병장이 내 흉내를 내다"
+    },
+    {
+      "t": 91.95,
+      "end": 94.81,
+      "text": "엉덩이로 통 뚜껑을 열어 버렸어요"
+    },
+    {
+      "t": 94.87,
+      "end": 97.27,
+      "text": "그가 껌 한 통을 내밀길래"
+    },
+    {
+      "t": 98.67,
+      "end": 102.97,
+      "text": "나는 께끼 두 개를 얹어 줬죠"
+    },
+    {
+      "t": 103.07,
+      "end": 103.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.07,
+      "end": 106.33,
+      "text": "트위스트 트위스트 아이스께끼 사세요"
+    },
+    {
+      "t": 107.05,
+      "end": 109.85,
+      "text": "트위스트 트위스트 오 원이에요"
+    },
+    {
+      "t": 110.15,
+      "end": 111.85,
+      "text": "병사들도 같이 돌아요 통 하나 가득"
+    },
+    {
+      "t": 111.89,
+      "end": 117.13,
+      "text": "트위스트 트위스트 다 팔렸어요"
+    },
+    {
+      "t": 120.55,
+      "end": 120.55,
+      "text": "[Bridge - organ and drums only]"
+    },
+    {
+      "t": 120.55,
+      "end": 124.17,
+      "text": "마지막 하나는 내가 먹어요"
+    },
+    {
+      "t": 124.89,
+      "end": 128.51,
+      "text": "땀 흘린 값으로 한입만"
+    },
+    {
+      "t": 129.13,
+      "end": 129.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.13,
+      "end": 135.59,
+      "text": "트위스트 트위스트 아이스께끼 사세요"
+    },
+    {
+      "t": 135.59,
+      "end": 150.72,
+      "text": "트위스트 트위스트 내일도 와요"
+    },
+    {
+      "t": 150.72,
+      "end": 162.02,
+      "text": "병사들도 같이 돌아요 통 하나 가득"
+    },
+    {
+      "t": 162.02,
+      "end": 165.68,
+      "text": "트위스트 트위스트 다 팔렸어요"
+    },
+    {
+      "t": 165.68,
+      "end": 165.68,
+      "text": "[Outro - guitar riff, ending hit]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

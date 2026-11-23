@@ -1,0 +1,444 @@
+{
+  "id": "b23_ko01",
+  "title": "보고 싶다를 먼저 배운 날",
+  "title_source": "scripted",
+  "genre": "Korean jeongak-style court-music chamber pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "tender, quietly comic",
+  "persona": "",
+  "subject": "A Seoul office worker and her Colombian language-exchange partner meet every Tuesday in a cafe corner; the first Korean phrase he learned was 'I miss you', and he now says it at all the wrong moments",
+  "caption": "Korean jeongak-style court-music chamber pop, slow cheongsori-like melodic phrasing over a gentle six-beat feel. Haegeum bowing the lead countermelody with a nasal reedy tone, gayageum plucking sparse arpeggios, daegeum bamboo flute answering between lines, janggu hourglass drum with soft rim strokes, upright bass holding long roots. Dry close-miked chamber room, natural wood resonance, no heavy reverb. Female vocal, warm mid register, gently sung with clear Korean diction. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D minor. Tender and quietly comic. No drum machine, no trap hi-hats, no autotune, no EDM synths, no belting, no rap.",
+  "lyrics": "[Intro - haegeum and daegeum, slow]\n[Verse 1]\n화요일 저녁 카페 구석 자리\n나는 스페인어, 너는 한국어\n네가 맨 처음 배운 한국말은\n어려운 문법도 아닌 보고 싶다\n[Pre-Chorus]\n주문한 커피가 나올 때도\n계산대 앞에서도 보고 싶다\n[Chorus]\n엉뚱할 때 하는 그 말이\n자꾸 딱 맞는 말이 돼요\n보고 싶다 바로 앞에 앉아서\n나도 따라 보고 싶다 해요\n[Verse 2]\n나는 너의 \"te quiero\"를 받아 적고\n세 번을 고쳐도 발음이 웃겨요\n공책 끝에 작은 글씨로 쓴\n\"보고 싶다\"의 뜻을 내가 알려 줬죠\n[Chorus]\n엉뚱할 때 하는 그 말이\n이제 내 말이 돼요\n보고 싶다 바로 앞에 앉아서\n다음 화요일이 기다려져요\n[Outro - haegeum alone]\n보고 싶다 한 번만 더\n화요일에 또 만나요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Korean jeongak-style court-music chamber pop, slow cheongsori-like melodic phrasing over a gentle six-beat feel. Haegeum bowing the lead countermelody with a nasal reedy tone, gayageum plucking sparse arpeggios, daegeum bamboo flute answering between lines, janggu hourglass drum with soft rim strokes, upright bass holding long roots. Dry close-miked chamber room, natural wood resonance, no heavy reverb. Female vocal, warm mid register, gently sung with clear Korean diction. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D minor. Tender and quietly comic. No drum machine, no trap hi-hats, no autotune, no EDM synths, no belting, no rap.",
+    "lyrics": "[Intro - haegeum and daegeum, slow]\n[Verse 1]\n화요일 저녁 카페 구석 자리\n나는 스페인어, 너는 한국어\n네가 맨 처음 배운 한국말은\n어려운 문법도 아닌 보고 싶다\n[Pre-Chorus]\n주문한 커피가 나올 때도\n계산대 앞에서도 보고 싶다\n[Chorus]\n엉뚱할 때 하는 그 말이\n자꾸 딱 맞는 말이 돼요\n보고 싶다 바로 앞에 앉아서\n나도 따라 보고 싶다 해요\n[Verse 2]\n나는 너의 \"te quiero\"를 받아 적고\n세 번을 고쳐도 발음이 웃겨요\n공책 끝에 작은 글씨로 쓴\n\"보고 싶다\"의 뜻을 내가 알려 줬죠\n[Chorus]\n엉뚱할 때 하는 그 말이\n이제 내 말이 돼요\n보고 싶다 바로 앞에 앉아서\n다음 화요일이 기다려져요\n[Outro - haegeum alone]\n보고 싶다 한 번만 더\n화요일에 또 만나요"
+  },
+  "seed": "2322421757",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 43.51s**\n- 43.51s per song\n- LM phase (1 song): 5.40s\n- DiT phase (1 song): 38.11s",
+  "task_id": "ddc5cce5-8322-4ecd-a95c-6a7e57d3ab88",
+  "elapsed_s": 80.3,
+  "generated_at": "2026-11-22T23:47:13.848704+08:00",
+  "audio": "b23_ko01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Intro - haegeum and daegeum, slow]"
+    },
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.02,
+      "end": 31.94,
+      "text": "화요일 저녁 카페 구석 자리"
+    },
+    {
+      "t": 31.94,
+      "end": 41.4,
+      "text": "나는 스페인어, 너는 한국어"
+    },
+    {
+      "t": 41.52,
+      "end": 45.72,
+      "text": "네가 맨 처음 배운 한국말은"
+    },
+    {
+      "t": 46.14,
+      "end": 50.15,
+      "text": "어려운 문법도 아닌 보고 싶다"
+    },
+    {
+      "t": 50.15,
+      "end": 50.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.15,
+      "end": 51.27,
+      "text": "주문한 커피가 나올 때도"
+    },
+    {
+      "t": 51.27,
+      "end": 54.75,
+      "text": "계산대 앞에서도 보고 싶다"
+    },
+    {
+      "t": 54.91,
+      "end": 54.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.91,
+      "end": 61.59,
+      "text": "엉뚱할 때 하는 그 말이"
+    },
+    {
+      "t": 63.63,
+      "end": 67.73,
+      "text": "자꾸 딱 맞는 말이 돼요"
+    },
+    {
+      "t": 70.13,
+      "end": 75.11,
+      "text": "보고 싶다 바로 앞에 앉아서"
+    },
+    {
+      "t": 76.79,
+      "end": 80.71,
+      "text": "나도 따라 보고 싶다 해요"
+    },
+    {
+      "t": 83.65,
+      "end": 83.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.65,
+      "end": 87.79,
+      "text": "나는 너의 \"te quiero\"를 받아 적고"
+    },
+    {
+      "t": 90.47,
+      "end": 94.25,
+      "text": "세 번을 고쳐도 발음이 웃겨요"
+    },
+    {
+      "t": 97.37,
+      "end": 101.71,
+      "text": "공책 끝에 작은 글씨로 쓴"
+    },
+    {
+      "t": 103.61,
+      "end": 108.63,
+      "text": "\"보고 싶다\"의 뜻을 내가 알려 줬죠"
+    },
+    {
+      "t": 108.77,
+      "end": 108.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.77,
+      "end": 114.43,
+      "text": "엉뚱할 때 하는 그 말이"
+    },
+    {
+      "t": 117.63,
+      "end": 122.47,
+      "text": "이제 내 말이 돼요"
+    },
+    {
+      "t": 123.97,
+      "end": 131.59,
+      "text": "보고 싶다 바로 앞에 앉아서"
+    },
+    {
+      "t": 133.39,
+      "end": 148.07,
+      "text": "다음 화요일이 기다려져요"
+    },
+    {
+      "t": 152.08,
+      "end": 152.08,
+      "text": "[Outro - haegeum alone]"
+    },
+    {
+      "t": 152.08,
+      "end": 173.12,
+      "text": "보고 싶다 한 번만 더"
+    },
+    {
+      "t": 181.72,
+      "end": 184.84,
+      "text": "화요일에 또 만나요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Intro - haegeum and daegeum, slow]"
+    },
+    {
+      "t": 26.02,
+      "end": 26.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.02,
+      "end": 31.94,
+      "text": "화요일 저녁 카페 구석 자리"
+    },
+    {
+      "t": 31.94,
+      "end": 41.4,
+      "text": "나는 스페인어, 너는 한국어"
+    },
+    {
+      "t": 41.52,
+      "end": 45.72,
+      "text": "네가 맨 처음 배운 한국말은"
+    },
+    {
+      "t": 46.14,
+      "end": 50.15,
+      "text": "어려운 문법도 아닌 보고 싶다"
+    },
+    {
+      "t": 50.15,
+      "end": 50.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.15,
+      "end": 51.27,
+      "text": "주문한 커피가 나올 때도"
+    },
+    {
+      "t": 51.27,
+      "end": 54.75,
+      "text": "계산대 앞에서도 보고 싶다"
+    },
+    {
+      "t": 54.91,
+      "end": 54.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.91,
+      "end": 61.59,
+      "text": "엉뚱할 때 하는 그 말이"
+    },
+    {
+      "t": 63.63,
+      "end": 67.73,
+      "text": "자꾸 딱 맞는 말이 돼요"
+    },
+    {
+      "t": 70.13,
+      "end": 75.11,
+      "text": "보고 싶다 바로 앞에 앉아서"
+    },
+    {
+      "t": 76.79,
+      "end": 80.71,
+      "text": "나도 따라 보고 싶다 해요"
+    },
+    {
+      "t": 83.65,
+      "end": 83.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.65,
+      "end": 87.79,
+      "text": "나는 너의 \"te quiero\"를 받아 적고"
+    },
+    {
+      "t": 90.47,
+      "end": 94.25,
+      "text": "세 번을 고쳐도 발음이 웃겨요"
+    },
+    {
+      "t": 97.37,
+      "end": 101.71,
+      "text": "공책 끝에 작은 글씨로 쓴"
+    },
+    {
+      "t": 103.61,
+      "end": 108.63,
+      "text": "\"보고 싶다\"의 뜻을 내가 알려 줬죠"
+    },
+    {
+      "t": 108.77,
+      "end": 108.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.77,
+      "end": 114.43,
+      "text": "엉뚱할 때 하는 그 말이"
+    },
+    {
+      "t": 117.63,
+      "end": 122.47,
+      "text": "이제 내 말이 돼요"
+    },
+    {
+      "t": 123.97,
+      "end": 131.59,
+      "text": "보고 싶다 바로 앞에 앉아서"
+    },
+    {
+      "t": 133.39,
+      "end": 148.07,
+      "text": "다음 화요일이 기다려져요"
+    },
+    {
+      "t": 152.08,
+      "end": 152.08,
+      "text": "[Outro - haegeum alone]"
+    },
+    {
+      "t": 152.08,
+      "end": 173.12,
+      "text": "보고 싶다 한 번만 더"
+    },
+    {
+      "t": 181.72,
+      "end": 184.84,
+      "text": "화요일에 또 만나요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 26.04,
+      "end": 26.04,
+      "text": "[Intro - haegeum and daegeum, slow]"
+    },
+    {
+      "t": 26.04,
+      "end": 26.04,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.04,
+      "end": 31.94,
+      "text": "화요일 저녁 카페 구석 자리"
+    },
+    {
+      "t": 32.94,
+      "end": 41.4,
+      "text": "나는 스페인어, 너는 한국어"
+    },
+    {
+      "t": 41.52,
+      "end": 45.44,
+      "text": "네가 맨 처음 배운 한국말은"
+    },
+    {
+      "t": 45.46,
+      "end": 46.54,
+      "text": "어려운 문법도 아닌 보고 싶다"
+    },
+    {
+      "t": 46.64,
+      "end": 46.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.64,
+      "end": 48.22,
+      "text": "주문한 커피가 나올 때도"
+    },
+    {
+      "t": 50.53,
+      "end": 54.75,
+      "text": "계산대 앞에서도 보고 싶다"
+    },
+    {
+      "t": 54.95,
+      "end": 54.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.95,
+      "end": 61.59,
+      "text": "엉뚱할 때 하는 그 말이"
+    },
+    {
+      "t": 63.63,
+      "end": 67.73,
+      "text": "자꾸 딱 맞는 말이 돼요"
+    },
+    {
+      "t": 70.13,
+      "end": 75.11,
+      "text": "보고 싶다 바로 앞에 앉아서"
+    },
+    {
+      "t": 76.79,
+      "end": 80.73,
+      "text": "나도 따라 보고 싶다 해요"
+    },
+    {
+      "t": 83.65,
+      "end": 83.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.65,
+      "end": 87.81,
+      "text": "나는 너의 \"te quiero\"를 받아 적고"
+    },
+    {
+      "t": 90.47,
+      "end": 94.25,
+      "text": "세 번을 고쳐도 발음이 웃겨요"
+    },
+    {
+      "t": 97.37,
+      "end": 101.67,
+      "text": "공책 끝에 작은 글씨로 쓴"
+    },
+    {
+      "t": 103.61,
+      "end": 108.63,
+      "text": "\"보고 싶다\"의 뜻을 내가 알려 줬죠"
+    },
+    {
+      "t": 110.35,
+      "end": 110.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.35,
+      "end": 114.43,
+      "text": "엉뚱할 때 하는 그 말이"
+    },
+    {
+      "t": 117.65,
+      "end": 122.47,
+      "text": "이제 내 말이 돼요"
+    },
+    {
+      "t": 123.95,
+      "end": 128.95,
+      "text": "보고 싶다 바로 앞에 앉아서"
+    },
+    {
+      "t": 130.61,
+      "end": 134.59,
+      "text": "다음 화요일이 기다려져요"
+    },
+    {
+      "t": 137.53,
+      "end": 137.53,
+      "text": "[Outro - haegeum alone]"
+    },
+    {
+      "t": 137.53,
+      "end": 155.42,
+      "text": "보고 싶다 한 번만 더"
+    },
+    {
+      "t": 159.36,
+      "end": 184.84,
+      "text": "화요일에 또 만나요"
+    }
+  ]
+}

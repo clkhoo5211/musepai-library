@@ -1,0 +1,377 @@
+{
+  "id": "b23_zh01",
+  "title": "最後一球灰藍線",
+  "title_source": "scripted",
+  "genre": "Hakka mountain-song (shange) pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "warm, teasing, sweet",
+  "persona": "",
+  "subject": "two strangers reach on a Saturday for the very last ball of grey-blue wool of the same dye lot in a Beipu wool shop; the shop auntie winds it into two balls so they each knit half, and the two scarves match",
+  "caption": "Hakka mountain-song (shange) pop, mid-tempo 4/4 with call-and-response phrasing and a Taiwan hill-town wool-shop setting. bamboo dizi carrying a bright rising-and-falling shange melody, Hakka suona answering in short phrases, steel-string acoustic guitar strumming steady eighth notes, small gong and wooden clapper keeping a light two-beat, upright bass on the roots. dry close-miked acoustic mix with a little room reverb, hillside-village feel, no big drums. female lead with a male voice answering each phrase in call-and-response, bright open mid-register, folk-singing delivery, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. warm, teasing, sweet mood. No rap, no autotune, no electronic drums, no synth pads, no electric guitar solos, no EDM drop.",
+  "lyrics": "[Intro - dizi and suona answering over light guitar]\n\n[Verse 1]\n星期六 北埔 毛線店\n我伸手去拿 最後一球\n灰藍色 同一缸染的\n有隻手 比我早一點點\n\n[Pre-Chorus]\n兩個人 都不放手\n阿姨笑 拿出了剪刀\n\n[Chorus]\n一球線 分成兩球\n你一半 我一半\n你織你的 我織我的\n織出來 看看一樣不一樣\n\n[Verse 2]\n阿姨坐下來 慢慢繞線\n繞一圈 問一句 你住哪裡\n他說竹東 我說新埔\n線繞完了 話也繞完了\n\n[Chorus]\n一球線 分成兩球\n你一半 我一半\n你織你的 我織我的\n織出來 領口一樣不一樣\n\n[Bridge - dizi alone, then guitar]\n我織得緊 他織得鬆\n灰藍的線 不管這些\n\n[Chorus]\n一球線 分成兩球\n你一半 我一半\n下個禮拜六 再來店裡\n兩條圍巾 擺在一起看\n\n[Outro - suona and dizi, slowing]\n阿姨說 還有一球 剛到貨",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Hakka mountain-song (shange) pop, mid-tempo 4/4 with call-and-response phrasing and a Taiwan hill-town wool-shop setting. bamboo dizi carrying a bright rising-and-falling shange melody, Hakka suona answering in short phrases, steel-string acoustic guitar strumming steady eighth notes, small gong and wooden clapper keeping a light two-beat, upright bass on the roots. dry close-miked acoustic mix with a little room reverb, hillside-village feel, no big drums. female lead with a male voice answering each phrase in call-and-response, bright open mid-register, folk-singing delivery, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. warm, teasing, sweet mood. No rap, no autotune, no electronic drums, no synth pads, no electric guitar solos, no EDM drop.",
+    "lyrics": "[Intro - dizi and suona answering over light guitar]\n\n[Verse 1]\n星期六 北埔 毛線店\n我伸手去拿 最後一球\n灰藍色 同一缸染的\n有隻手 比我早一點點\n\n[Pre-Chorus]\n兩個人 都不放手\n阿姨笑 拿出了剪刀\n\n[Chorus]\n一球線 分成兩球\n你一半 我一半\n你織你的 我織我的\n織出來 看看一樣不一樣\n\n[Verse 2]\n阿姨坐下來 慢慢繞線\n繞一圈 問一句 你住哪裡\n他說竹東 我說新埔\n線繞完了 話也繞完了\n\n[Chorus]\n一球線 分成兩球\n你一半 我一半\n你織你的 我織我的\n織出來 領口一樣不一樣\n\n[Bridge - dizi alone, then guitar]\n我織得緊 他織得鬆\n灰藍的線 不管這些\n\n[Chorus]\n一球線 分成兩球\n你一半 我一半\n下個禮拜六 再來店裡\n兩條圍巾 擺在一起看\n\n[Outro - suona and dizi, slowing]\n阿姨說 還有一球 剛到貨"
+  },
+  "seed": "862889417",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 51.32s**\n- 51.32s per song\n- LM phase (1 song): 8.90s\n- DiT phase (1 song): 42.41s",
+  "task_id": "b2cea1bc-9f55-4d8a-8d47-f676561558e0",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-23T00:20:07.422957+08:00",
+  "audio": "b23_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.18,
+      "end": 21.18,
+      "text": "[Intro - dizi and suona answering over light guitar]"
+    },
+    {
+      "t": 21.18,
+      "end": 21.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.18,
+      "end": 23.9,
+      "text": "星期六 北埔 毛線店"
+    },
+    {
+      "t": 25.3,
+      "end": 28.88,
+      "text": "我伸手去拿 最後一球"
+    },
+    {
+      "t": 41.36,
+      "end": 43.88,
+      "text": "灰藍色 同一缸染的"
+    },
+    {
+      "t": 45.4,
+      "end": 49.11,
+      "text": "有隻手 比我早一點點"
+    },
+    {
+      "t": 50.77,
+      "end": 50.77,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.77,
+      "end": 54.21,
+      "text": "兩個人 都不放手"
+    },
+    {
+      "t": 55.57,
+      "end": 58.99,
+      "text": "阿姨笑 拿出了剪刀"
+    },
+    {
+      "t": 60.51,
+      "end": 60.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.51,
+      "end": 71.41,
+      "text": "一球線 分成兩球"
+    },
+    {
+      "t": 72.99,
+      "end": 76.51,
+      "text": "你一半 我一半"
+    },
+    {
+      "t": 77.99,
+      "end": 81.25,
+      "text": "你織你的 我織我的"
+    },
+    {
+      "t": 82.97,
+      "end": 86.43,
+      "text": "織出來 看看一樣不一樣"
+    },
+    {
+      "t": 93.09,
+      "end": 93.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 93.09,
+      "end": 99.21,
+      "text": "阿姨坐下來 慢慢繞線"
+    },
+    {
+      "t": 99.87,
+      "end": 108.53,
+      "text": "繞一圈 問一句 你住哪裡"
+    },
+    {
+      "t": 108.53,
+      "end": 111.23,
+      "text": "他說竹東 我說新埔"
+    },
+    {
+      "t": 111.43,
+      "end": 118.75,
+      "text": "線繞完了 話也繞完了"
+    },
+    {
+      "t": 118.93,
+      "end": 118.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.93,
+      "end": 122.01,
+      "text": "一球線 分成兩球"
+    },
+    {
+      "t": 123.65,
+      "end": 127.19,
+      "text": "你一半 我一半"
+    },
+    {
+      "t": 127.31,
+      "end": 130.29,
+      "text": "你織你的 我織我的"
+    },
+    {
+      "t": 130.29,
+      "end": 134.05,
+      "text": "織出來 領口一樣不一樣"
+    },
+    {
+      "t": 134.09,
+      "end": 134.09,
+      "text": "[Bridge - dizi alone, then guitar]"
+    },
+    {
+      "t": 134.09,
+      "end": 136.27,
+      "text": "我織得緊 他織得鬆"
+    },
+    {
+      "t": 136.29,
+      "end": 142.21,
+      "text": "灰藍的線 不管這些"
+    },
+    {
+      "t": 142.23,
+      "end": 142.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.23,
+      "end": 144.82,
+      "text": "一球線 分成兩球"
+    },
+    {
+      "t": 144.82,
+      "end": 151.66,
+      "text": "你一半 我一半"
+    },
+    {
+      "t": 151.8,
+      "end": 163.4,
+      "text": "下個禮拜六 再來店裡"
+    },
+    {
+      "t": 164.16,
+      "end": 175.38,
+      "text": "兩條圍巾 擺在一起看"
+    },
+    {
+      "t": 177.74,
+      "end": 177.74,
+      "text": "[Outro - suona and dizi, slowing]"
+    },
+    {
+      "t": 177.74,
+      "end": 180.34,
+      "text": "阿姨說 還有一球 剛到貨"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.18,
+      "end": 21.18,
+      "text": "[Intro - dizi and suona answering over light guitar]"
+    },
+    {
+      "t": 21.18,
+      "end": 21.18,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.18,
+      "end": 23.92,
+      "text": "星期六 北埔 毛線店"
+    },
+    {
+      "t": 25.32,
+      "end": 28.98,
+      "text": "我伸手去拿 最後一球"
+    },
+    {
+      "t": 41.34,
+      "end": 43.86,
+      "text": "灰藍色 同一缸染的"
+    },
+    {
+      "t": 45.42,
+      "end": 50.73,
+      "text": "有隻手 比我早一點點"
+    },
+    {
+      "t": 50.75,
+      "end": 50.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.75,
+      "end": 54.27,
+      "text": "兩個人 都不放手"
+    },
+    {
+      "t": 55.57,
+      "end": 58.95,
+      "text": "阿姨笑 拿出了剪刀"
+    },
+    {
+      "t": 58.95,
+      "end": 58.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.95,
+      "end": 65.93,
+      "text": "一球線 分成兩球"
+    },
+    {
+      "t": 66.05,
+      "end": 68.45,
+      "text": "你一半 我一半"
+    },
+    {
+      "t": 68.47,
+      "end": 70.69,
+      "text": "你織你的 我織我的"
+    },
+    {
+      "t": 70.91,
+      "end": 78.03,
+      "text": "織出來 看看一樣不一樣"
+    },
+    {
+      "t": 78.03,
+      "end": 78.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.03,
+      "end": 80.73,
+      "text": "阿姨坐下來 慢慢繞線"
+    },
+    {
+      "t": 80.85,
+      "end": 83.93,
+      "text": "繞一圈 問一句 你住哪裡"
+    },
+    {
+      "t": 84.23,
+      "end": 86.11,
+      "text": "他說竹東 我說新埔"
+    },
+    {
+      "t": 86.11,
+      "end": 93.77,
+      "text": "線繞完了 話也繞完了"
+    },
+    {
+      "t": 93.91,
+      "end": 93.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 93.91,
+      "end": 96.59,
+      "text": "一球線 分成兩球"
+    },
+    {
+      "t": 97.67,
+      "end": 98.17,
+      "text": "你一半 我一半"
+    },
+    {
+      "t": 98.19,
+      "end": 100.01,
+      "text": "你織你的 我織我的"
+    },
+    {
+      "t": 100.01,
+      "end": 103.65,
+      "text": "織出來 領口一樣不一樣"
+    },
+    {
+      "t": 103.67,
+      "end": 103.67,
+      "text": "[Bridge - dizi alone, then guitar]"
+    },
+    {
+      "t": 103.67,
+      "end": 109.53,
+      "text": "我織得緊 他織得鬆"
+    },
+    {
+      "t": 110.79,
+      "end": 114.81,
+      "text": "灰藍的線 不管這些"
+    },
+    {
+      "t": 115.33,
+      "end": 115.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.33,
+      "end": 122.05,
+      "text": "一球線 分成兩球"
+    },
+    {
+      "t": 123.63,
+      "end": 127.21,
+      "text": "你一半 我一半"
+    },
+    {
+      "t": 128.67,
+      "end": 131.41,
+      "text": "下個禮拜六 再來店裡"
+    },
+    {
+      "t": 133.43,
+      "end": 137.03,
+      "text": "兩條圍巾 擺在一起看"
+    },
+    {
+      "t": 140.43,
+      "end": 140.43,
+      "text": "[Outro - suona and dizi, slowing]"
+    },
+    {
+      "t": 140.43,
+      "end": 180.34,
+      "text": "阿姨說 還有一球 剛到貨"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

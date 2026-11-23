@@ -1,0 +1,377 @@
+{
+  "id": "b23_zh05",
+  "title": "四十七號掛在我手裡",
+  "title_source": "scripted",
+  "genre": "1930s Shanghai shidaiqu big-band dance-hall song",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "flirtatious, swinging, wry",
+  "persona": "",
+  "subject": "a cloakroom girl at a Shanghai-style hotel ballroom keeps hanging the same man's coat on hook number 47, because he keeps losing his ticket on purpose to stay and chat",
+  "caption": "1930s Shanghai shidaiqu big-band dance-hall song, bright swinging 4/4 foxtrot feel with a hotel-ballroom cloakroom setting. a brass-and-reed dance band with muted trumpet and alto sax trading phrases, a clarinet curling around the vocal, a piano playing stride-style chords, a brushed snare with walking upright bass, a short vibraphone figure in the intro. warm mono-style vintage studio sound with a little tape-style softness and crisp horns, no modern low end. female lead in the nasal bright 1930s nightclub-singer style, light swinging phrasing, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, F major. flirtatious, swinging, wry mood. No rap, no autotune, no synth, no electronic drums, no electric guitar, no modern trap hi-hats.",
+  "lyrics": "[Intro - saxes and muted trumpet over the rhythm section]\n\n[Verse 1]\n飯店大廳 舞廳的門口\n我管衣帽間 管一百個鉤\n他每個禮拜 穿同一件大衣\n票根一丟 又說找不到\n\n[Pre-Chorus]\n小姐 我的票呢\n我說 先生 你剛放進口袋\n\n[Chorus]\n四十七號 掛在我手裡\n你的大衣 比你還安靜\n你丟了票根 又丟了藉口\n我給你一張新的 今晚\n\n[Verse 2]\n舞曲響起來 他不進去跳\n倚著櫃檯 數我的鈕釦\n我說 先生 舞廳在那邊\n他說 我的舞伴 在這邊\n\n[Chorus]\n四十七號 掛在我手裡\n你的大衣 比你還安靜\n你丟了票根 又丟了藉口\n我給你一張新的 這次\n\n[Bridge - clarinet and piano alone]\n一百個鉤 九十九個空\n今晚的樂隊 最後一首\n\n[Chorus]\n四十七號 掛在我手裡\n你的大衣 比你還安靜\n下班以後 一起走出去\n我自己拿票 換你的手\n\n[Outro - full band, big finish]\n先生 你的票 請收好",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "1930s Shanghai shidaiqu big-band dance-hall song, bright swinging 4/4 foxtrot feel with a hotel-ballroom cloakroom setting. a brass-and-reed dance band with muted trumpet and alto sax trading phrases, a clarinet curling around the vocal, a piano playing stride-style chords, a brushed snare with walking upright bass, a short vibraphone figure in the intro. warm mono-style vintage studio sound with a little tape-style softness and crisp horns, no modern low end. female lead in the nasal bright 1930s nightclub-singer style, light swinging phrasing, clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, F major. flirtatious, swinging, wry mood. No rap, no autotune, no synth, no electronic drums, no electric guitar, no modern trap hi-hats.",
+    "lyrics": "[Intro - saxes and muted trumpet over the rhythm section]\n\n[Verse 1]\n飯店大廳 舞廳的門口\n我管衣帽間 管一百個鉤\n他每個禮拜 穿同一件大衣\n票根一丟 又說找不到\n\n[Pre-Chorus]\n小姐 我的票呢\n我說 先生 你剛放進口袋\n\n[Chorus]\n四十七號 掛在我手裡\n你的大衣 比你還安靜\n你丟了票根 又丟了藉口\n我給你一張新的 今晚\n\n[Verse 2]\n舞曲響起來 他不進去跳\n倚著櫃檯 數我的鈕釦\n我說 先生 舞廳在那邊\n他說 我的舞伴 在這邊\n\n[Chorus]\n四十七號 掛在我手裡\n你的大衣 比你還安靜\n你丟了票根 又丟了藉口\n我給你一張新的 這次\n\n[Bridge - clarinet and piano alone]\n一百個鉤 九十九個空\n今晚的樂隊 最後一首\n\n[Chorus]\n四十七號 掛在我手裡\n你的大衣 比你還安靜\n下班以後 一起走出去\n我自己拿票 換你的手\n\n[Outro - full band, big finish]\n先生 你的票 請收好"
+  },
+  "seed": "3879352066",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 46.48s**\n- 46.48s per song\n- LM phase (1 song): 8.48s\n- DiT phase (1 song): 38.00s",
+  "task_id": "653def1e-d23a-4332-8e7d-ee674126e55a",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-23T00:24:27.814984+08:00",
+  "audio": "b23_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Intro - saxes and muted trumpet over the rhythm section]"
+    },
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.62,
+      "end": 33.88,
+      "text": "飯店大廳 舞廳的門口"
+    },
+    {
+      "t": 37.88,
+      "end": 41.3,
+      "text": "我管衣帽間 管一百個鉤"
+    },
+    {
+      "t": 45.38,
+      "end": 48.69,
+      "text": "他每個禮拜 穿同一件大衣"
+    },
+    {
+      "t": 51.73,
+      "end": 55.99,
+      "text": "票根一丟 又說找不到"
+    },
+    {
+      "t": 59.43,
+      "end": 59.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.43,
+      "end": 62.65,
+      "text": "小姐 我的票呢"
+    },
+    {
+      "t": 65.89,
+      "end": 70.41,
+      "text": "我說 先生 你剛放進口袋"
+    },
+    {
+      "t": 73.93,
+      "end": 73.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.93,
+      "end": 77.17,
+      "text": "四十七號 掛在我手裡"
+    },
+    {
+      "t": 77.27,
+      "end": 80.15,
+      "text": "你的大衣 比你還安靜"
+    },
+    {
+      "t": 80.71,
+      "end": 84.07,
+      "text": "你丟了票根 又丟了藉口"
+    },
+    {
+      "t": 84.09,
+      "end": 86.97,
+      "text": "我給你一張新的 今晚"
+    },
+    {
+      "t": 87.09,
+      "end": 87.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.09,
+      "end": 107.35,
+      "text": "舞曲響起來 他不進去跳"
+    },
+    {
+      "t": 108.23,
+      "end": 112.23,
+      "text": "倚著櫃檯 數我的鈕釦"
+    },
+    {
+      "t": 112.29,
+      "end": 125.25,
+      "text": "我說 先生 舞廳在那邊"
+    },
+    {
+      "t": 125.27,
+      "end": 126.69,
+      "text": "他說 我的舞伴 在這邊"
+    },
+    {
+      "t": 126.87,
+      "end": 126.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.87,
+      "end": 132.63,
+      "text": "四十七號 掛在我手裡"
+    },
+    {
+      "t": 132.63,
+      "end": 142.78,
+      "text": "你的大衣 比你還安靜"
+    },
+    {
+      "t": 140.1,
+      "end": 142.3,
+      "text": "你丟了票根 又丟了藉口"
+    },
+    {
+      "t": 142.3,
+      "end": 143.64,
+      "text": "我給你一張新的 這次"
+    },
+    {
+      "t": 145.2,
+      "end": 145.2,
+      "text": "[Bridge - clarinet and piano alone]"
+    },
+    {
+      "t": 145.2,
+      "end": 146.34,
+      "text": "一百個鉤 九十九個空"
+    },
+    {
+      "t": 146.36,
+      "end": 150.52,
+      "text": "今晚的樂隊 最後一首"
+    },
+    {
+      "t": 150.82,
+      "end": 150.82,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.82,
+      "end": 152.66,
+      "text": "四十七號 掛在我手裡"
+    },
+    {
+      "t": 153.58,
+      "end": 156.54,
+      "text": "你的大衣 比你還安靜"
+    },
+    {
+      "t": 157.18,
+      "end": 159.06,
+      "text": "下班以後 一起走出去"
+    },
+    {
+      "t": 159.06,
+      "end": 161.98,
+      "text": "我自己拿票 換你的手"
+    },
+    {
+      "t": 163.4,
+      "end": 163.4,
+      "text": "[Outro - full band, big finish]"
+    },
+    {
+      "t": 163.4,
+      "end": 168.26,
+      "text": "先生 你的票 請收好"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Intro - saxes and muted trumpet over the rhythm section]"
+    },
+    {
+      "t": 30.62,
+      "end": 30.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 30.62,
+      "end": 33.86,
+      "text": "飯店大廳 舞廳的門口"
+    },
+    {
+      "t": 37.88,
+      "end": 41.3,
+      "text": "我管衣帽間 管一百個鉤"
+    },
+    {
+      "t": 45.36,
+      "end": 48.69,
+      "text": "他每個禮拜 穿同一件大衣"
+    },
+    {
+      "t": 51.73,
+      "end": 55.91,
+      "text": "票根一丟 又說找不到"
+    },
+    {
+      "t": 59.45,
+      "end": 59.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.45,
+      "end": 62.67,
+      "text": "小姐 我的票呢"
+    },
+    {
+      "t": 65.89,
+      "end": 70.57,
+      "text": "我說 先生 你剛放進口袋"
+    },
+    {
+      "t": 73.93,
+      "end": 73.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.93,
+      "end": 77.17,
+      "text": "四十七號 掛在我手裡"
+    },
+    {
+      "t": 77.29,
+      "end": 80.15,
+      "text": "你的大衣 比你還安靜"
+    },
+    {
+      "t": 80.71,
+      "end": 84.09,
+      "text": "你丟了票根 又丟了藉口"
+    },
+    {
+      "t": 84.13,
+      "end": 101.33,
+      "text": "我給你一張新的 今晚"
+    },
+    {
+      "t": 101.55,
+      "end": 101.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 101.55,
+      "end": 110.35,
+      "text": "舞曲響起來 他不進去跳"
+    },
+    {
+      "t": 110.35,
+      "end": 112.23,
+      "text": "倚著櫃檯 數我的鈕釦"
+    },
+    {
+      "t": 112.29,
+      "end": 125.27,
+      "text": "我說 先生 舞廳在那邊"
+    },
+    {
+      "t": 125.27,
+      "end": 126.69,
+      "text": "他說 我的舞伴 在這邊"
+    },
+    {
+      "t": 126.89,
+      "end": 126.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 126.89,
+      "end": 132.41,
+      "text": "四十七號 掛在我手裡"
+    },
+    {
+      "t": 132.41,
+      "end": 140.1,
+      "text": "你的大衣 比你還安靜"
+    },
+    {
+      "t": 140.1,
+      "end": 142.3,
+      "text": "你丟了票根 又丟了藉口"
+    },
+    {
+      "t": 142.3,
+      "end": 143.64,
+      "text": "我給你一張新的 這次"
+    },
+    {
+      "t": 143.64,
+      "end": 143.64,
+      "text": "[Bridge - clarinet and piano alone]"
+    },
+    {
+      "t": 143.64,
+      "end": 144.3,
+      "text": "一百個鉤 九十九個空"
+    },
+    {
+      "t": 144.3,
+      "end": 150.52,
+      "text": "今晚的樂隊 最後一首"
+    },
+    {
+      "t": 150.84,
+      "end": 150.84,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.84,
+      "end": 152.66,
+      "text": "四十七號 掛在我手裡"
+    },
+    {
+      "t": 153.58,
+      "end": 156.54,
+      "text": "你的大衣 比你還安靜"
+    },
+    {
+      "t": 157.18,
+      "end": 160.34,
+      "text": "下班以後 一起走出去"
+    },
+    {
+      "t": 160.54,
+      "end": 162.0,
+      "text": "我自己拿票 換你的手"
+    },
+    {
+      "t": 163.4,
+      "end": 163.4,
+      "text": "[Outro - full band, big finish]"
+    },
+    {
+      "t": 163.4,
+      "end": 168.28,
+      "text": "先生 你的票 請收好"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

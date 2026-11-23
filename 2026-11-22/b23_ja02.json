@@ -1,0 +1,367 @@
+{
+  "id": "b23_ja02",
+  "title": "最後の日に言えた一言",
+  "title_source": "scripted",
+  "genre": "Japanese 70s New Music folk-rock (Fukuoka four-piece band feel)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "tender, warm, hopeful",
+  "persona": "",
+  "subject": "A Japanese interpreter who has translated a visiting Thai engineer's every sentence for a week at a Hakata factory falls in love; on his last day he says one clumsy Japanese sentence that she does not have to translate",
+  "caption": "Japanese 1970s New Music folk-rock, relaxed mid-tempo backbeat. Fingerpicked acoustic guitar and shimmering 12-string guitar, Rhodes-style electric piano, warm round electric bass, brushed-then-open drums, harmonica solo in the bridge. Warm analog tape room sound with light tape saturation, live band feel, natural plate reverb. Female alto, warm natural chest voice, plain storytelling delivery. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. Tender, warm, hopeful mood. No synthesizers, no autotune, no electronic drums, no rap, no heavy distortion, no orchestral strings.",
+  "lyrics": "[Intro - 12-string guitar and electric piano]\n\n[Verse 1]\n博多の工場の 会議室の端っこ\n私の仕事は 言葉を渡すこと\nあなたが笑うと 私も訳して笑う\n一週間で 声が二人分になった\n\n[Pre-Chorus]\nほめ言葉は 少し丸くして\n伝えるのが 私の役目\n\n[Chorus]\n最後の朝に あなたが言った\n訳さなくていい 日本語で\n下手な言い方 でもまっすぐ\n言葉より先に 耳が分かった\n\n[Verse 2]\n空港行きのバスを 待つ停留所\n課長は遠くで 荷物を数えてる\nあなたは辞書を ポケットから出して\n指でなぞって 小さく息を吸う\n\n[Chorus]\n最後の朝に あなたが言った\n訳さなくていい 日本語で\n下手な言い方 でもまっすぐ\n言葉より先に 耳が分かった\n\n[Bridge - harmonica solo]\n通訳なんて 黙ってなきゃね\n今だけ私が 私になる\n\n[Chorus]\n最後の朝に あなたが言った\n訳さなくていい 日本語で\n私も返す タイ語で一言\n習った言葉 あなたの国の\n\n[Outro - acoustic guitar and harmonica]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese 1970s New Music folk-rock, relaxed mid-tempo backbeat. Fingerpicked acoustic guitar and shimmering 12-string guitar, Rhodes-style electric piano, warm round electric bass, brushed-then-open drums, harmonica solo in the bridge. Warm analog tape room sound with light tape saturation, live band feel, natural plate reverb. Female alto, warm natural chest voice, plain storytelling delivery. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, G major. Tender, warm, hopeful mood. No synthesizers, no autotune, no electronic drums, no rap, no heavy distortion, no orchestral strings.",
+    "lyrics": "[Intro - 12-string guitar and electric piano]\n\n[Verse 1]\n博多の工場の 会議室の端っこ\n私の仕事は 言葉を渡すこと\nあなたが笑うと 私も訳して笑う\n一週間で 声が二人分になった\n\n[Pre-Chorus]\nほめ言葉は 少し丸くして\n伝えるのが 私の役目\n\n[Chorus]\n最後の朝に あなたが言った\n訳さなくていい 日本語で\n下手な言い方 でもまっすぐ\n言葉より先に 耳が分かった\n\n[Verse 2]\n空港行きのバスを 待つ停留所\n課長は遠くで 荷物を数えてる\nあなたは辞書を ポケットから出して\n指でなぞって 小さく息を吸う\n\n[Chorus]\n最後の朝に あなたが言った\n訳さなくていい 日本語で\n下手な言い方 でもまっすぐ\n言葉より先に 耳が分かった\n\n[Bridge - harmonica solo]\n通訳なんて 黙ってなきゃね\n今だけ私が 私になる\n\n[Chorus]\n最後の朝に あなたが言った\n訳さなくていい 日本語で\n私も返す タイ語で一言\n習った言葉 あなたの国の\n\n[Outro - acoustic guitar and harmonica]"
+  },
+  "seed": "3330195133",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 46.26s**\n- 46.26s per song\n- LM phase (1 song): 5.42s\n- DiT phase (1 song): 40.83s",
+  "task_id": "2c765de4-bf31-4837-829a-52d63b683f56",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-23T00:26:28.012900+08:00",
+  "audio": "b23_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.96,
+      "end": 24.96,
+      "text": "[Intro - 12-string guitar and electric piano]"
+    },
+    {
+      "t": 24.96,
+      "end": 24.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.96,
+      "end": 30.78,
+      "text": "博多の工場の 会議室の端っこ"
+    },
+    {
+      "t": 30.78,
+      "end": 35.52,
+      "text": "私の仕事は 言葉を渡すこと"
+    },
+    {
+      "t": 37.5,
+      "end": 42.9,
+      "text": "あなたが笑うと 私も訳して笑う"
+    },
+    {
+      "t": 43.08,
+      "end": 47.98,
+      "text": "一週間で 声が二人分になった"
+    },
+    {
+      "t": 50.69,
+      "end": 50.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.69,
+      "end": 55.07,
+      "text": "ほめ言葉は 少し丸くして"
+    },
+    {
+      "t": 55.59,
+      "end": 59.83,
+      "text": "伝えるのが 私の役目"
+    },
+    {
+      "t": 60.77,
+      "end": 60.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.77,
+      "end": 65.47,
+      "text": "最後の朝に あなたが言った"
+    },
+    {
+      "t": 65.53,
+      "end": 68.85,
+      "text": "訳さなくていい 日本語で"
+    },
+    {
+      "t": 69.25,
+      "end": 73.89,
+      "text": "下手な言い方 でもまっすぐ"
+    },
+    {
+      "t": 75.65,
+      "end": 78.79,
+      "text": "言葉より先に 耳が分かった"
+    },
+    {
+      "t": 80.71,
+      "end": 80.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.71,
+      "end": 85.11,
+      "text": "空港行きのバスを 待つ停留所"
+    },
+    {
+      "t": 85.61,
+      "end": 90.17,
+      "text": "課長は遠くで 荷物を数えてる"
+    },
+    {
+      "t": 90.71,
+      "end": 94.69,
+      "text": "あなたは辞書を ポケットから出して"
+    },
+    {
+      "t": 95.67,
+      "end": 99.11,
+      "text": "指でなぞって 小さく息を吸う"
+    },
+    {
+      "t": 99.11,
+      "end": 99.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.11,
+      "end": 102.21,
+      "text": "最後の朝に あなたが言った"
+    },
+    {
+      "t": 102.55,
+      "end": 110.25,
+      "text": "訳さなくていい 日本語で"
+    },
+    {
+      "t": 110.75,
+      "end": 114.49,
+      "text": "下手な言い方 でもまっすぐ"
+    },
+    {
+      "t": 115.15,
+      "end": 120.35,
+      "text": "言葉より先に 耳が分かった"
+    },
+    {
+      "t": 124.11,
+      "end": 124.11,
+      "text": "[Bridge - harmonica solo]"
+    },
+    {
+      "t": 124.11,
+      "end": 130.41,
+      "text": "通訳なんて 黙ってなきゃね"
+    },
+    {
+      "t": 133.81,
+      "end": 136.67,
+      "text": "今だけ私が 私になる"
+    },
+    {
+      "t": 136.71,
+      "end": 136.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.71,
+      "end": 149.41,
+      "text": "最後の朝に あなたが言った"
+    },
+    {
+      "t": 149.43,
+      "end": 152.26,
+      "text": "訳さなくていい 日本語で"
+    },
+    {
+      "t": 152.32,
+      "end": 168.82,
+      "text": "私も返す タイ語で一言"
+    },
+    {
+      "t": 174.28,
+      "end": 200.0,
+      "text": "習った言葉 あなたの国の"
+    },
+    {
+      "t": 200.0,
+      "end": 200.0,
+      "text": "[Outro - acoustic guitar and harmonica]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.96,
+      "end": 24.96,
+      "text": "[Intro - 12-string guitar and electric piano]"
+    },
+    {
+      "t": 24.96,
+      "end": 24.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.96,
+      "end": 30.78,
+      "text": "博多の工場の 会議室の端っこ"
+    },
+    {
+      "t": 30.78,
+      "end": 35.52,
+      "text": "私の仕事は 言葉を渡すこと"
+    },
+    {
+      "t": 37.5,
+      "end": 42.9,
+      "text": "あなたが笑うと 私も訳して笑う"
+    },
+    {
+      "t": 43.08,
+      "end": 47.98,
+      "text": "一週間で 声が二人分になった"
+    },
+    {
+      "t": 50.69,
+      "end": 50.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.69,
+      "end": 55.07,
+      "text": "ほめ言葉は 少し丸くして"
+    },
+    {
+      "t": 55.61,
+      "end": 59.83,
+      "text": "伝えるのが 私の役目"
+    },
+    {
+      "t": 60.77,
+      "end": 60.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.77,
+      "end": 63.93,
+      "text": "最後の朝に あなたが言った"
+    },
+    {
+      "t": 65.39,
+      "end": 68.85,
+      "text": "訳さなくていい 日本語で"
+    },
+    {
+      "t": 69.55,
+      "end": 73.89,
+      "text": "下手な言い方 でもまっすぐ"
+    },
+    {
+      "t": 75.65,
+      "end": 78.79,
+      "text": "言葉より先に 耳が分かった"
+    },
+    {
+      "t": 80.71,
+      "end": 80.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.71,
+      "end": 85.11,
+      "text": "空港行きのバスを 待つ停留所"
+    },
+    {
+      "t": 85.61,
+      "end": 90.17,
+      "text": "課長は遠くで 荷物を数えてる"
+    },
+    {
+      "t": 90.71,
+      "end": 94.67,
+      "text": "あなたは辞書を ポケットから出して"
+    },
+    {
+      "t": 95.67,
+      "end": 99.43,
+      "text": "指でなぞって 小さく息を吸う"
+    },
+    {
+      "t": 99.59,
+      "end": 99.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.59,
+      "end": 102.21,
+      "text": "最後の朝に あなたが言った"
+    },
+    {
+      "t": 102.55,
+      "end": 110.25,
+      "text": "訳さなくていい 日本語で"
+    },
+    {
+      "t": 110.75,
+      "end": 114.49,
+      "text": "下手な言い方 でもまっすぐ"
+    },
+    {
+      "t": 115.15,
+      "end": 120.37,
+      "text": "言葉より先に 耳が分かった"
+    },
+    {
+      "t": 124.11,
+      "end": 124.11,
+      "text": "[Bridge - harmonica solo]"
+    },
+    {
+      "t": 124.11,
+      "end": 130.41,
+      "text": "通訳なんて 黙ってなきゃね"
+    },
+    {
+      "t": 133.81,
+      "end": 135.85,
+      "text": "今だけ私が 私になる"
+    },
+    {
+      "t": 135.89,
+      "end": 135.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.89,
+      "end": 137.13,
+      "text": "最後の朝に あなたが言った"
+    },
+    {
+      "t": 137.15,
+      "end": 139.63,
+      "text": "訳さなくていい 日本語で"
+    },
+    {
+      "t": 141.61,
+      "end": 149.43,
+      "text": "私も返す タイ語で一言"
+    },
+    {
+      "t": 149.91,
+      "end": 153.52,
+      "text": "習った言葉 あなたの国の"
+    },
+    {
+      "t": 153.52,
+      "end": 153.52,
+      "text": "[Outro - acoustic guitar and harmonica]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

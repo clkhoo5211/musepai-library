@@ -1,0 +1,307 @@
+{
+  "id": "b23_id01",
+  "title": "Hidung Bang Mamat",
+  "title_source": "scripted",
+  "genre": "Betawi samrah pop (harmonium, gambus and marwas)",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "playful and cheeky",
+  "persona": "",
+  "subject": "A Betawi man whose nose has been blocked since August buys perfume for his girlfriend by making the Blok M shop assistant describe every bottle, then finds the words he borrowed are exactly what she smells",
+  "caption": "Betawi samrah pop, Malay-Betawi party style. A harmonium plays the lilting main melody, a gambus doubles it with plucked ornaments, marwas hand drums and a tambourine drive a bouncy two-beat dance rhythm, a violin answers each line, no drum kit. Warm room sound, light spring reverb, close and lively. A male lead sings with a bright Betawi lilt, clearly sung melody with a small playful lift at line ends. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, G minor. Cheeky, teasing mood. No electronic beats, no autotune, no rap, no trap hi-hats, no distorted guitar.",
+  "lyrics": "[Intro - harmonium, marwas]\n\n[Verse 1]\nBang Mamat masuk toko wangi di Blok M\nHidungnya mampet dari bulan Agustus\nMbak penjual nyodorin botol satu-satu\nBang Mamat nyengir, kagak ada yang kecium\n\n[Pre-Chorus]\nMbak, bilangin aja deh\nWanginya kayak apa\n\n[Chorus]\nKata Mbak ini kayak mangga abis ujan\nYang itu kayak sabun nenek pagi hari\nAne kagak ngerti, ane percaya aja\nBungkusin dua, biar Neng seneng hati\n\n[Verse 2]\nDi rumah Neng Lastri ia sodorin botol\nNeng cium, Neng senyum, Neng bilang mangga abis ujan\nPersis kata Mbak toko, Bang Mamat kaget\nPadahal itu kata Mbak toko semua\n\n[Chorus]\nKata Neng ini wangi mangga abis ujan\nBang Mamat ketawa, hidungnya masih mampet\nAne kagak ngerti, ane percaya aja\nYang wangi tuh Neng, bukan cuma botolnya\n\n[Outro - violin, harmonium]\nBungkusin dua, bungkusin dua\nBiar Neng seneng hati",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G minor",
+    "timesignature": "4",
+    "prompt": "Betawi samrah pop, Malay-Betawi party style. A harmonium plays the lilting main melody, a gambus doubles it with plucked ornaments, marwas hand drums and a tambourine drive a bouncy two-beat dance rhythm, a violin answers each line, no drum kit. Warm room sound, light spring reverb, close and lively. A male lead sings with a bright Betawi lilt, clearly sung melody with a small playful lift at line ends. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, G minor. Cheeky, teasing mood. No electronic beats, no autotune, no rap, no trap hi-hats, no distorted guitar.",
+    "lyrics": "[Intro - harmonium, marwas]\n\n[Verse 1]\nBang Mamat masuk toko wangi di Blok M\nHidungnya mampet dari bulan Agustus\nMbak penjual nyodorin botol satu-satu\nBang Mamat nyengir, kagak ada yang kecium\n\n[Pre-Chorus]\nMbak, bilangin aja deh\nWanginya kayak apa\n\n[Chorus]\nKata Mbak ini kayak mangga abis ujan\nYang itu kayak sabun nenek pagi hari\nAne kagak ngerti, ane percaya aja\nBungkusin dua, biar Neng seneng hati\n\n[Verse 2]\nDi rumah Neng Lastri ia sodorin botol\nNeng cium, Neng senyum, Neng bilang mangga abis ujan\nPersis kata Mbak toko, Bang Mamat kaget\nPadahal itu kata Mbak toko semua\n\n[Chorus]\nKata Neng ini wangi mangga abis ujan\nBang Mamat ketawa, hidungnya masih mampet\nAne kagak ngerti, ane percaya aja\nYang wangi tuh Neng, bukan cuma botolnya\n\n[Outro - violin, harmonium]\nBungkusin dua, bungkusin dua\nBiar Neng seneng hati"
+  },
+  "seed": "232280595",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 46.72s**\n- 46.72s per song\n- LM phase (1 song): 8.66s\n- DiT phase (1 song): 38.06s",
+  "task_id": "1fcf753f-6b3c-480d-a94b-87815e51566f",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-22T23:57:54.901289+08:00",
+  "audio": "b23_id01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Intro - harmonium, marwas]"
+    },
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.24,
+      "end": 29.14,
+      "text": "Bang Mamat masuk toko wangi di Blok M"
+    },
+    {
+      "t": 32.1,
+      "end": 37.5,
+      "text": "Hidungnya mampet dari bulan Agustus"
+    },
+    {
+      "t": 39.72,
+      "end": 45.32,
+      "text": "Mbak penjual nyodorin botol satu-satu"
+    },
+    {
+      "t": 47.87,
+      "end": 53.75,
+      "text": "Bang Mamat nyengir, kagak ada yang kecium"
+    },
+    {
+      "t": 55.79,
+      "end": 55.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.79,
+      "end": 57.31,
+      "text": "Mbak, bilangin aja deh"
+    },
+    {
+      "t": 57.31,
+      "end": 58.05,
+      "text": "Wanginya kayak apa"
+    },
+    {
+      "t": 58.05,
+      "end": 58.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.05,
+      "end": 61.73,
+      "text": "Kata Mbak ini kayak mangga abis ujan"
+    },
+    {
+      "t": 63.35,
+      "end": 69.31,
+      "text": "Yang itu kayak sabun nenek pagi hari"
+    },
+    {
+      "t": 71.47,
+      "end": 77.03,
+      "text": "Ane kagak ngerti, ane percaya aja"
+    },
+    {
+      "t": 79.89,
+      "end": 85.51,
+      "text": "Bungkusin dua, biar Neng seneng hati"
+    },
+    {
+      "t": 87.87,
+      "end": 87.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.87,
+      "end": 93.43,
+      "text": "Di rumah Neng Lastri ia sodorin botol"
+    },
+    {
+      "t": 95.87,
+      "end": 101.17,
+      "text": "Neng cium, Neng senyum, Neng bilang mangga abis ujan"
+    },
+    {
+      "t": 101.21,
+      "end": 104.91,
+      "text": "Persis kata Mbak toko, Bang Mamat kaget"
+    },
+    {
+      "t": 104.93,
+      "end": 120.51,
+      "text": "Padahal itu kata Mbak toko semua"
+    },
+    {
+      "t": 120.51,
+      "end": 120.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.51,
+      "end": 125.65,
+      "text": "Kata Neng ini wangi mangga abis ujan"
+    },
+    {
+      "t": 128.05,
+      "end": 131.69,
+      "text": "Bang Mamat ketawa, hidungnya masih mampet"
+    },
+    {
+      "t": 131.71,
+      "end": 137.55,
+      "text": "Ane kagak ngerti, ane percaya aja"
+    },
+    {
+      "t": 139.69,
+      "end": 145.6,
+      "text": "Yang wangi tuh Neng, bukan cuma botolnya"
+    },
+    {
+      "t": 153.68,
+      "end": 153.68,
+      "text": "[Outro - violin, harmonium]"
+    },
+    {
+      "t": 153.68,
+      "end": 165.6,
+      "text": "Bungkusin dua, bungkusin dua"
+    },
+    {
+      "t": 168.22,
+      "end": 178.66,
+      "text": "Biar Neng seneng hati"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Intro - harmonium, marwas]"
+    },
+    {
+      "t": 24.24,
+      "end": 24.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.24,
+      "end": 29.12,
+      "text": "Bang Mamat masuk toko wangi di Blok M"
+    },
+    {
+      "t": 32.1,
+      "end": 37.52,
+      "text": "Hidungnya mampet dari bulan Agustus"
+    },
+    {
+      "t": 39.74,
+      "end": 45.32,
+      "text": "Mbak penjual nyodorin botol satu-satu"
+    },
+    {
+      "t": 47.87,
+      "end": 53.83,
+      "text": "Bang Mamat nyengir, kagak ada yang kecium"
+    },
+    {
+      "t": 55.79,
+      "end": 55.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.79,
+      "end": 57.23,
+      "text": "Mbak, bilangin aja deh"
+    },
+    {
+      "t": 57.25,
+      "end": 58.15,
+      "text": "Wanginya kayak apa"
+    },
+    {
+      "t": 58.15,
+      "end": 58.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.15,
+      "end": 61.75,
+      "text": "Kata Mbak ini kayak mangga abis ujan"
+    },
+    {
+      "t": 63.35,
+      "end": 69.31,
+      "text": "Yang itu kayak sabun nenek pagi hari"
+    },
+    {
+      "t": 71.47,
+      "end": 77.05,
+      "text": "Ane kagak ngerti, ane percaya aja"
+    },
+    {
+      "t": 79.89,
+      "end": 85.53,
+      "text": "Bungkusin dua, biar Neng seneng hati"
+    },
+    {
+      "t": 87.87,
+      "end": 87.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.87,
+      "end": 93.43,
+      "text": "Di rumah Neng Lastri ia sodorin botol"
+    },
+    {
+      "t": 95.87,
+      "end": 100.41,
+      "text": "Neng cium, Neng senyum, Neng bilang mangga abis ujan"
+    },
+    {
+      "t": 100.41,
+      "end": 101.91,
+      "text": "Persis kata Mbak toko, Bang Mamat kaget"
+    },
+    {
+      "t": 101.91,
+      "end": 120.67,
+      "text": "Padahal itu kata Mbak toko semua"
+    },
+    {
+      "t": 120.67,
+      "end": 120.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.67,
+      "end": 125.67,
+      "text": "Kata Neng ini wangi mangga abis ujan"
+    },
+    {
+      "t": 128.05,
+      "end": 130.99,
+      "text": "Bang Mamat ketawa, hidungnya masih mampet"
+    },
+    {
+      "t": 131.73,
+      "end": 137.55,
+      "text": "Ane kagak ngerti, ane percaya aja"
+    },
+    {
+      "t": 139.69,
+      "end": 145.6,
+      "text": "Yang wangi tuh Neng, bukan cuma botolnya"
+    },
+    {
+      "t": 161.68,
+      "end": 161.68,
+      "text": "[Outro - violin, harmonium]"
+    },
+    {
+      "t": 161.68,
+      "end": 165.62,
+      "text": "Bungkusin dua, bungkusin dua"
+    },
+    {
+      "t": 168.22,
+      "end": 178.66,
+      "text": "Biar Neng seneng hati"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

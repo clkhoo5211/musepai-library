@@ -1,0 +1,564 @@
+{
+  "id": "b23_vi05",
+  "title": "Nhầm Vali Đêm Nội Bài",
+  "title_source": "scripted",
+  "genre": "2000s Vietnamese slow-jam R&B ballad",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "intimate, curious, slow-burning love song",
+  "persona": "",
+  "subject": "At the Nội Bài baggage carousel after midnight a man takes home the wrong black suitcase; inside are an orange sweater and a notebook with a phone number, and the woman who took his bag has found his harmonica, so they arrange to swap at the counter.",
+  "caption": "2000s Vietnamese slow-jam R&B ballad sung in Vietnamese. Warm grand piano chords with light runs, programmed soft drums with finger snaps in a 2000s slow-jam groove, round fingerstyle electric bass with slides, sustained low synth strings, sparse nylon-string guitar licks. Polished early-2000s studio sheen, close warm vocal, soft reverb tail. Male smooth tenor voice, relaxed R&B phrasing with light controlled melisma, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 68 BPM, A-flat major. Intimate, curious, slow-burning mood. No rapping, no autotune, no trap hi-hats, no EDM drop, no distorted guitar, no vocal effects.",
+  "lyrics": "[Intro - piano, nylon guitar]\n\n[Verse 1]\nBăng chuyền chậm quay lúc nửa đêm\nHai chiếc vali đen y hệt nhau\nAnh kéo nhầm một chiếc về nhà\nMở ra thấy chiếc áo len màu cam\n\n[Pre-Chorus]\nCó cuốn sổ nhỏ, chữ nghiêng nghiêng\nTrang cuối ghi số, quên ghi tên\n\n[Chorus]\nVali em nằm trong phòng anh\nVali anh chắc đang ở nhà em\nHai người lạ, một đêm nhầm lẫn\nAnh muốn nhầm thêm một lần nữa\n\n[Verse 2]\nAnh gọi số đó lúc trời vừa sáng\nGiọng em ngái ngủ, nghe rất dịu\nEm nói: em giữ cây kèn của anh\nSáng nay em thổi thử, nghe sai hết\n\n[Chorus]\nVali em nằm cạnh giường anh\nVali anh chắc nằm cạnh giường em\nHai người lạ, một đêm nhầm lẫn\nAnh muốn nhầm thêm một lần nữa\n\n[Bridge - piano]\nHẹn nhau chín giờ, quầy hành lý\nMỗi người ôm vali của người kia\n\n[Chorus]\nEm đứng đó, tay cầm cây kèn\nAnh đứng đây, tay cầm áo len\nHai người lạ, giờ không lạ nữa\nMình nhầm thêm lần nữa nhé em\n\n[Outro - piano, strings]\nCây kèn sai nốt\nMà anh vẫn nghe",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 68,
+    "duration": 225.0,
+    "genres": "N/A",
+    "keyscale": "Ab major",
+    "timesignature": "4",
+    "prompt": "2000s Vietnamese slow-jam R&B ballad sung in Vietnamese. Warm grand piano chords with light runs, programmed soft drums with finger snaps in a 2000s slow-jam groove, round fingerstyle electric bass with slides, sustained low synth strings, sparse nylon-string guitar licks. Polished early-2000s studio sheen, close warm vocal, soft reverb tail. Male smooth tenor voice, relaxed R&B phrasing with light controlled melisma, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 68 BPM, A-flat major. Intimate, curious, slow-burning mood. No rapping, no autotune, no trap hi-hats, no EDM drop, no distorted guitar, no vocal effects.",
+    "lyrics": "[Intro - piano, nylon guitar]\n\n[Verse 1]\nBăng chuyền chậm quay lúc nửa đêm\nHai chiếc vali đen y hệt nhau\nAnh kéo nhầm một chiếc về nhà\nMở ra thấy chiếc áo len màu cam\n\n[Pre-Chorus]\nCó cuốn sổ nhỏ, chữ nghiêng nghiêng\nTrang cuối ghi số, quên ghi tên\n\n[Chorus]\nVali em nằm trong phòng anh\nVali anh chắc đang ở nhà em\nHai người lạ, một đêm nhầm lẫn\nAnh muốn nhầm thêm một lần nữa\n\n[Verse 2]\nAnh gọi số đó lúc trời vừa sáng\nGiọng em ngái ngủ, nghe rất dịu\nEm nói: em giữ cây kèn của anh\nSáng nay em thổi thử, nghe sai hết\n\n[Chorus]\nVali em nằm cạnh giường anh\nVali anh chắc nằm cạnh giường em\nHai người lạ, một đêm nhầm lẫn\nAnh muốn nhầm thêm một lần nữa\n\n[Bridge - piano]\nHẹn nhau chín giờ, quầy hành lý\nMỗi người ôm vali của người kia\n\n[Chorus]\nEm đứng đó, tay cầm cây kèn\nAnh đứng đây, tay cầm áo len\nHai người lạ, giờ không lạ nữa\nMình nhầm thêm lần nữa nhé em\n\n[Outro - piano, strings]\nCây kèn sai nốt\nMà anh vẫn nghe"
+  },
+  "seed": "15188805",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 49.70s**\n- 49.70s per song\n- LM phase (1 song): 5.63s\n- DiT phase (1 song): 44.07s",
+  "task_id": "728fbd14-d13e-4ca3-a0b6-ab6579402b82",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-11-23T01:16:14.279559+08:00",
+  "audio": "b23_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.96,
+      "end": 29.96,
+      "text": "[Intro - piano, nylon guitar]"
+    },
+    {
+      "t": 29.96,
+      "end": 29.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.96,
+      "end": 33.62,
+      "text": "Băng chuyền chậm quay lúc nửa đêm"
+    },
+    {
+      "t": 36.56,
+      "end": 40.4,
+      "text": "Hai chiếc vali đen y hệt nhau"
+    },
+    {
+      "t": 44.52,
+      "end": 47.52,
+      "text": "Anh kéo nhầm một chiếc về nhà"
+    },
+    {
+      "t": 48.92,
+      "end": 53.88,
+      "text": "Mở ra thấy chiếc áo len màu cam"
+    },
+    {
+      "t": 55.96,
+      "end": 55.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.96,
+      "end": 61.09,
+      "text": "Có cuốn sổ nhỏ, chữ nghiêng nghiêng"
+    },
+    {
+      "t": 61.65,
+      "end": 65.37,
+      "text": "Trang cuối ghi số, quên ghi tên"
+    },
+    {
+      "t": 66.57,
+      "end": 66.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.57,
+      "end": 71.61,
+      "text": "Vali em nằm trong phòng anh"
+    },
+    {
+      "t": 73.19,
+      "end": 77.17,
+      "text": "Vali anh chắc đang ở nhà em"
+    },
+    {
+      "t": 77.19,
+      "end": 81.65,
+      "text": "Hai người lạ, một đêm nhầm lẫn"
+    },
+    {
+      "t": 81.65,
+      "end": 85.25,
+      "text": "Anh muốn nhầm thêm một lần nữa"
+    },
+    {
+      "t": 89.15,
+      "end": 89.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.15,
+      "end": 92.75,
+      "text": "Anh gọi số đó lúc trời vừa sáng"
+    },
+    {
+      "t": 92.77,
+      "end": 99.55,
+      "text": "Giọng em ngái ngủ, nghe rất dịu"
+    },
+    {
+      "t": 99.59,
+      "end": 125.53,
+      "text": "Em nói: em giữ cây kèn của anh"
+    },
+    {
+      "t": 125.53,
+      "end": 129.03,
+      "text": "Sáng nay em thổi thử, nghe sai hết"
+    },
+    {
+      "t": 129.23,
+      "end": 129.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.23,
+      "end": 148.13,
+      "text": "Vali em nằm cạnh giường anh"
+    },
+    {
+      "t": 148.13,
+      "end": 152.17,
+      "text": "Vali anh chắc nằm cạnh giường em"
+    },
+    {
+      "t": 152.19,
+      "end": 159.45,
+      "text": "Hai người lạ, một đêm nhầm lẫn"
+    },
+    {
+      "t": 159.45,
+      "end": 163.51,
+      "text": "Anh muốn nhầm thêm một lần nữa"
+    },
+    {
+      "t": 163.95,
+      "end": 163.95,
+      "text": "[Bridge - piano]"
+    },
+    {
+      "t": 163.95,
+      "end": 166.43,
+      "text": "Hẹn nhau chín giờ, quầy hành lý"
+    },
+    {
+      "t": 167.13,
+      "end": 169.5,
+      "text": "Mỗi người ôm vali của người kia"
+    },
+    {
+      "t": 169.56,
+      "end": 169.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 169.56,
+      "end": 173.16,
+      "text": "Em đứng đó, tay cầm cây kèn"
+    },
+    {
+      "t": 173.34,
+      "end": 177.18,
+      "text": "Anh đứng đây, tay cầm áo len"
+    },
+    {
+      "t": 187.04,
+      "end": 191.1,
+      "text": "Hai người lạ, giờ không lạ nữa"
+    },
+    {
+      "t": 191.1,
+      "end": 202.08,
+      "text": "Mình nhầm thêm lần nữa nhé em"
+    },
+    {
+      "t": 206.24,
+      "end": 206.24,
+      "text": "[Outro - piano, strings]"
+    },
+    {
+      "t": 206.24,
+      "end": 208.08,
+      "text": "Cây kèn sai nốt"
+    },
+    {
+      "t": 213.08,
+      "end": 214.98,
+      "text": "Mà anh vẫn nghe"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.96,
+      "end": 29.96,
+      "text": "[Intro - piano, nylon guitar]"
+    },
+    {
+      "t": 29.96,
+      "end": 29.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.96,
+      "end": 33.62,
+      "text": "Băng chuyền chậm quay lúc nửa đêm"
+    },
+    {
+      "t": 36.56,
+      "end": 40.4,
+      "text": "Hai chiếc vali đen y hệt nhau"
+    },
+    {
+      "t": 44.52,
+      "end": 47.52,
+      "text": "Anh kéo nhầm một chiếc về nhà"
+    },
+    {
+      "t": 48.92,
+      "end": 53.88,
+      "text": "Mở ra thấy chiếc áo len màu cam"
+    },
+    {
+      "t": 55.96,
+      "end": 55.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.96,
+      "end": 61.09,
+      "text": "Có cuốn sổ nhỏ, chữ nghiêng nghiêng"
+    },
+    {
+      "t": 61.65,
+      "end": 65.37,
+      "text": "Trang cuối ghi số, quên ghi tên"
+    },
+    {
+      "t": 66.57,
+      "end": 66.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.57,
+      "end": 71.61,
+      "text": "Vali em nằm trong phòng anh"
+    },
+    {
+      "t": 73.19,
+      "end": 77.17,
+      "text": "Vali anh chắc đang ở nhà em"
+    },
+    {
+      "t": 77.19,
+      "end": 81.65,
+      "text": "Hai người lạ, một đêm nhầm lẫn"
+    },
+    {
+      "t": 81.65,
+      "end": 85.25,
+      "text": "Anh muốn nhầm thêm một lần nữa"
+    },
+    {
+      "t": 89.15,
+      "end": 89.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.15,
+      "end": 92.75,
+      "text": "Anh gọi số đó lúc trời vừa sáng"
+    },
+    {
+      "t": 92.77,
+      "end": 99.55,
+      "text": "Giọng em ngái ngủ, nghe rất dịu"
+    },
+    {
+      "t": 99.59,
+      "end": 125.53,
+      "text": "Em nói: em giữ cây kèn của anh"
+    },
+    {
+      "t": 125.53,
+      "end": 129.03,
+      "text": "Sáng nay em thổi thử, nghe sai hết"
+    },
+    {
+      "t": 129.23,
+      "end": 129.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.23,
+      "end": 148.13,
+      "text": "Vali em nằm cạnh giường anh"
+    },
+    {
+      "t": 148.13,
+      "end": 152.17,
+      "text": "Vali anh chắc nằm cạnh giường em"
+    },
+    {
+      "t": 152.19,
+      "end": 159.45,
+      "text": "Hai người lạ, một đêm nhầm lẫn"
+    },
+    {
+      "t": 159.45,
+      "end": 163.51,
+      "text": "Anh muốn nhầm thêm một lần nữa"
+    },
+    {
+      "t": 163.95,
+      "end": 163.95,
+      "text": "[Bridge - piano]"
+    },
+    {
+      "t": 163.95,
+      "end": 166.43,
+      "text": "Hẹn nhau chín giờ, quầy hành lý"
+    },
+    {
+      "t": 167.13,
+      "end": 169.5,
+      "text": "Mỗi người ôm vali của người kia"
+    },
+    {
+      "t": 169.56,
+      "end": 169.56,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 169.56,
+      "end": 173.16,
+      "text": "Em đứng đó, tay cầm cây kèn"
+    },
+    {
+      "t": 173.34,
+      "end": 177.18,
+      "text": "Anh đứng đây, tay cầm áo len"
+    },
+    {
+      "t": 187.04,
+      "end": 191.1,
+      "text": "Hai người lạ, giờ không lạ nữa"
+    },
+    {
+      "t": 191.1,
+      "end": 202.08,
+      "text": "Mình nhầm thêm lần nữa nhé em"
+    },
+    {
+      "t": 206.24,
+      "end": 206.24,
+      "text": "[Outro - piano, strings]"
+    },
+    {
+      "t": 206.24,
+      "end": 208.08,
+      "text": "Cây kèn sai nốt"
+    },
+    {
+      "t": 213.08,
+      "end": 214.98,
+      "text": "Mà anh vẫn nghe"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 29.96,
+      "end": 29.96,
+      "text": "[Intro - piano, nylon guitar]"
+    },
+    {
+      "t": 29.96,
+      "end": 29.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.96,
+      "end": 33.74,
+      "text": "Băng chuyền chậm quay lúc nửa đêm"
+    },
+    {
+      "t": 36.56,
+      "end": 40.4,
+      "text": "Hai chiếc vali đen y hệt nhau"
+    },
+    {
+      "t": 44.52,
+      "end": 47.52,
+      "text": "Anh kéo nhầm một chiếc về nhà"
+    },
+    {
+      "t": 48.92,
+      "end": 53.88,
+      "text": "Mở ra thấy chiếc áo len màu cam"
+    },
+    {
+      "t": 55.96,
+      "end": 55.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 55.96,
+      "end": 61.09,
+      "text": "Có cuốn sổ nhỏ, chữ nghiêng nghiêng"
+    },
+    {
+      "t": 61.67,
+      "end": 65.37,
+      "text": "Trang cuối ghi số, quên ghi tên"
+    },
+    {
+      "t": 66.57,
+      "end": 66.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.57,
+      "end": 71.63,
+      "text": "Vali em nằm trong phòng anh"
+    },
+    {
+      "t": 73.19,
+      "end": 77.19,
+      "text": "Vali anh chắc đang ở nhà em"
+    },
+    {
+      "t": 77.21,
+      "end": 79.31,
+      "text": "Hai người lạ, một đêm nhầm lẫn"
+    },
+    {
+      "t": 81.63,
+      "end": 85.25,
+      "text": "Anh muốn nhầm thêm một lần nữa"
+    },
+    {
+      "t": 89.15,
+      "end": 89.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.15,
+      "end": 92.75,
+      "text": "Anh gọi số đó lúc trời vừa sáng"
+    },
+    {
+      "t": 92.77,
+      "end": 93.37,
+      "text": "Giọng em ngái ngủ, nghe rất dịu"
+    },
+    {
+      "t": 93.37,
+      "end": 93.85,
+      "text": "Em nói: em giữ cây kèn của anh"
+    },
+    {
+      "t": 96.11,
+      "end": 97.69,
+      "text": "Sáng nay em thổi thử, nghe sai hết"
+    },
+    {
+      "t": 97.69,
+      "end": 97.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.69,
+      "end": 98.25,
+      "text": "Vali em nằm cạnh giường anh"
+    },
+    {
+      "t": 98.25,
+      "end": 99.37,
+      "text": "Vali anh chắc nằm cạnh giường em"
+    },
+    {
+      "t": 99.39,
+      "end": 112.29,
+      "text": "Hai người lạ, một đêm nhầm lẫn"
+    },
+    {
+      "t": 112.29,
+      "end": 121.25,
+      "text": "Anh muốn nhầm thêm một lần nữa"
+    },
+    {
+      "t": 121.25,
+      "end": 121.25,
+      "text": "[Bridge - piano]"
+    },
+    {
+      "t": 121.25,
+      "end": 126.03,
+      "text": "Hẹn nhau chín giờ, quầy hành lý"
+    },
+    {
+      "t": 127.89,
+      "end": 132.13,
+      "text": "Mỗi người ôm vali của người kia"
+    },
+    {
+      "t": 148.27,
+      "end": 148.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 148.27,
+      "end": 152.77,
+      "text": "Em đứng đó, tay cầm cây kèn"
+    },
+    {
+      "t": 152.77,
+      "end": 160.01,
+      "text": "Anh đứng đây, tay cầm áo len"
+    },
+    {
+      "t": 161.87,
+      "end": 168.92,
+      "text": "Hai người lạ, giờ không lạ nữa"
+    },
+    {
+      "t": 168.92,
+      "end": 177.18,
+      "text": "Mình nhầm thêm lần nữa nhé em"
+    },
+    {
+      "t": 187.0,
+      "end": 187.0,
+      "text": "[Outro - piano, strings]"
+    },
+    {
+      "t": 187.0,
+      "end": 188.6,
+      "text": "Cây kèn sai nốt"
+    },
+    {
+      "t": 190.54,
+      "end": 206.82,
+      "text": "Mà anh vẫn nghe"
+    }
+  ]
+}

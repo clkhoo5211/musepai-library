@@ -1,0 +1,489 @@
+{
+  "id": "b23_ms02",
+  "title": "Lelaki Tinggi Segak",
+  "title_source": "scripted",
+  "genre": "Malay bangsawan theatre song (1920s Malay stage operetta with violin and clarinet)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "playful, theatrical, teasing",
+  "persona": "",
+  "subject": "A palm reader under a rain tree beside an old theatre who tells every customer the same line about a tall handsome stranger, until a tall man in a white suit sits down and she has no line left.",
+  "caption": "Malay bangsawan theatre song, 1920s stage operetta style with a bouncy two-beat march. Violin carrying a light singing melody, clarinet answering in short phrases, upright piano playing offbeat chords, brushed snare drum, double bass walking in two. Live theatre-pit feel, dry room, bright vintage tone. Female vocal, bright mid register, comic stage delivery, clearly sung. 108 BPM, F major. Playful, theatrical, teasing. Clear full voice, every word enunciated, steady sung melody on every line. No synth, no electric guitar, no trap drums, no autotune, no rap, no modern pop gloss.",
+  "lyrics": "[Intro - violin and clarinet, two-beat march]\n\n[Verse 1]\nDuduk di bawah pokok hujan\nAku tilik tapak tangan orang\nSemua kuberi satu ramalan\nAkan datang lelaki tinggi segak\n\n[Pre-Chorus]\nAda yang ketawa, ada yang malu\nSemua bayar, semua pulang\n\n[Chorus]\nLelaki tinggi segak, mari mari\nRamalan Mak Tilah tak pernah silap\nLelaki tinggi segak, mari mari\nTapi hari ini kau betul-betul tiba\n\n[Verse 2]\nPetang tadi datang seorang tuan\nBerbaju putih, kepala hampir cecah dahan\nDia hulur tangan, aku terdiam\nHabis stok kata-kata semua\n\n[Pre-Chorus]\nDia kata dia sesat jalan\nMencari panggung lama di sini\n\n[Chorus]\nLelaki tinggi segak, mari mari\nRamalan Mak Tilah, kali ini benar\nLelaki tinggi segak, duduklah dulu\nTak payah bayar, teh pun aku belanja\n\n[Outro - clarinet and violin, curtain-call flourish]\nLelaki tinggi segak, mari mari\nTirai pun turun, tepuk tanganlah",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Malay bangsawan theatre song, 1920s stage operetta style with a bouncy two-beat march. Violin carrying a light singing melody, clarinet answering in short phrases, upright piano playing offbeat chords, brushed snare drum, double bass walking in two. Live theatre-pit feel, dry room, bright vintage tone. Female vocal, bright mid register, comic stage delivery, clearly sung. 108 BPM, F major. Playful, theatrical, teasing. Clear full voice, every word enunciated, steady sung melody on every line. No synth, no electric guitar, no trap drums, no autotune, no rap, no modern pop gloss.",
+    "lyrics": "[Intro - violin and clarinet, two-beat march]\n\n[Verse 1]\nDuduk di bawah pokok hujan\nAku tilik tapak tangan orang\nSemua kuberi satu ramalan\nAkan datang lelaki tinggi segak\n\n[Pre-Chorus]\nAda yang ketawa, ada yang malu\nSemua bayar, semua pulang\n\n[Chorus]\nLelaki tinggi segak, mari mari\nRamalan Mak Tilah tak pernah silap\nLelaki tinggi segak, mari mari\nTapi hari ini kau betul-betul tiba\n\n[Verse 2]\nPetang tadi datang seorang tuan\nBerbaju putih, kepala hampir cecah dahan\nDia hulur tangan, aku terdiam\nHabis stok kata-kata semua\n\n[Pre-Chorus]\nDia kata dia sesat jalan\nMencari panggung lama di sini\n\n[Chorus]\nLelaki tinggi segak, mari mari\nRamalan Mak Tilah, kali ini benar\nLelaki tinggi segak, duduklah dulu\nTak payah bayar, teh pun aku belanja\n\n[Outro - clarinet and violin, curtain-call flourish]\nLelaki tinggi segak, mari mari\nTirai pun turun, tepuk tanganlah"
+  },
+  "seed": "2543552334",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 39.29s**\n- 39.29s per song\n- LM phase (1 song): 2.85s\n- DiT phase (1 song): 36.44s",
+  "task_id": "d9bcf03f-24e9-4caf-9c99-c5c4e92b4b4b",
+  "elapsed_s": 60.2,
+  "generated_at": "2026-11-22T23:53:44.515144+08:00",
+  "audio": "b23_ms02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - violin and clarinet, two-beat march]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 3.78,
+      "text": "Duduk di bawah pokok hujan"
+    },
+    {
+      "t": 3.78,
+      "end": 5.28,
+      "text": "Aku tilik tapak tangan orang"
+    },
+    {
+      "t": 5.28,
+      "end": 34.66,
+      "text": "Semua kuberi satu ramalan"
+    },
+    {
+      "t": 34.66,
+      "end": 37.3,
+      "text": "Akan datang lelaki tinggi segak"
+    },
+    {
+      "t": 37.4,
+      "end": 37.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.4,
+      "end": 41.14,
+      "text": "Ada yang ketawa, ada yang malu"
+    },
+    {
+      "t": 42.72,
+      "end": 45.79,
+      "text": "Semua bayar, semua pulang"
+    },
+    {
+      "t": 46.13,
+      "end": 46.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.13,
+      "end": 49.89,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 51.13,
+      "end": 59.03,
+      "text": "Ramalan Mak Tilah tak pernah silap"
+    },
+    {
+      "t": 61.27,
+      "end": 65.29,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 70.11,
+      "end": 74.09,
+      "text": "Tapi hari ini kau betul-betul tiba"
+    },
+    {
+      "t": 79.79,
+      "end": 79.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.79,
+      "end": 83.09,
+      "text": "Petang tadi datang seorang tuan"
+    },
+    {
+      "t": 84.23,
+      "end": 87.89,
+      "text": "Berbaju putih, kepala hampir cecah dahan"
+    },
+    {
+      "t": 89.69,
+      "end": 92.31,
+      "text": "Dia hulur tangan, aku terdiam"
+    },
+    {
+      "t": 93.01,
+      "end": 96.29,
+      "text": "Habis stok kata-kata semua"
+    },
+    {
+      "t": 97.81,
+      "end": 97.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.81,
+      "end": 98.91,
+      "text": "Dia kata dia sesat jalan"
+    },
+    {
+      "t": 104.39,
+      "end": 109.91,
+      "text": "Mencari panggung lama di sini"
+    },
+    {
+      "t": 117.79,
+      "end": 117.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.79,
+      "end": 122.51,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 122.51,
+      "end": 125.81,
+      "text": "Ramalan Mak Tilah, kali ini benar"
+    },
+    {
+      "t": 126.81,
+      "end": 132.31,
+      "text": "Lelaki tinggi segak, duduklah dulu"
+    },
+    {
+      "t": 135.52,
+      "end": 153.16,
+      "text": "Tak payah bayar, teh pun aku belanja"
+    },
+    {
+      "t": 154.18,
+      "end": 154.18,
+      "text": "[Outro - clarinet and violin, curtain-call flourish]"
+    },
+    {
+      "t": 154.18,
+      "end": 163.16,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 164.14,
+      "end": 171.0,
+      "text": "Tirai pun turun, tepuk tanganlah"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - violin and clarinet, two-beat march]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 3.78,
+      "text": "Duduk di bawah pokok hujan"
+    },
+    {
+      "t": 3.78,
+      "end": 5.28,
+      "text": "Aku tilik tapak tangan orang"
+    },
+    {
+      "t": 5.28,
+      "end": 34.66,
+      "text": "Semua kuberi satu ramalan"
+    },
+    {
+      "t": 34.66,
+      "end": 37.3,
+      "text": "Akan datang lelaki tinggi segak"
+    },
+    {
+      "t": 37.4,
+      "end": 37.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.4,
+      "end": 41.14,
+      "text": "Ada yang ketawa, ada yang malu"
+    },
+    {
+      "t": 42.72,
+      "end": 45.79,
+      "text": "Semua bayar, semua pulang"
+    },
+    {
+      "t": 46.13,
+      "end": 46.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.13,
+      "end": 49.89,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 51.13,
+      "end": 59.03,
+      "text": "Ramalan Mak Tilah tak pernah silap"
+    },
+    {
+      "t": 61.27,
+      "end": 65.29,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 70.11,
+      "end": 74.09,
+      "text": "Tapi hari ini kau betul-betul tiba"
+    },
+    {
+      "t": 79.79,
+      "end": 79.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.79,
+      "end": 83.09,
+      "text": "Petang tadi datang seorang tuan"
+    },
+    {
+      "t": 84.23,
+      "end": 87.89,
+      "text": "Berbaju putih, kepala hampir cecah dahan"
+    },
+    {
+      "t": 89.69,
+      "end": 92.31,
+      "text": "Dia hulur tangan, aku terdiam"
+    },
+    {
+      "t": 93.01,
+      "end": 96.29,
+      "text": "Habis stok kata-kata semua"
+    },
+    {
+      "t": 97.81,
+      "end": 97.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.81,
+      "end": 98.91,
+      "text": "Dia kata dia sesat jalan"
+    },
+    {
+      "t": 104.39,
+      "end": 109.91,
+      "text": "Mencari panggung lama di sini"
+    },
+    {
+      "t": 117.79,
+      "end": 117.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.79,
+      "end": 122.51,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 122.51,
+      "end": 125.81,
+      "text": "Ramalan Mak Tilah, kali ini benar"
+    },
+    {
+      "t": 126.81,
+      "end": 132.31,
+      "text": "Lelaki tinggi segak, duduklah dulu"
+    },
+    {
+      "t": 135.52,
+      "end": 153.16,
+      "text": "Tak payah bayar, teh pun aku belanja"
+    },
+    {
+      "t": 154.18,
+      "end": 154.18,
+      "text": "[Outro - clarinet and violin, curtain-call flourish]"
+    },
+    {
+      "t": 154.18,
+      "end": 163.16,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 164.14,
+      "end": 171.0,
+      "text": "Tirai pun turun, tepuk tanganlah"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Intro - violin and clarinet, two-beat march]"
+    },
+    {
+      "t": 0.54,
+      "end": 0.54,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.54,
+      "end": 5.02,
+      "text": "Duduk di bawah pokok hujan"
+    },
+    {
+      "t": 5.08,
+      "end": 27.28,
+      "text": "Aku tilik tapak tangan orang"
+    },
+    {
+      "t": 27.3,
+      "end": 34.16,
+      "text": "Semua kuberi satu ramalan"
+    },
+    {
+      "t": 34.24,
+      "end": 37.3,
+      "text": "Akan datang lelaki tinggi segak"
+    },
+    {
+      "t": 37.4,
+      "end": 37.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.4,
+      "end": 41.14,
+      "text": "Ada yang ketawa, ada yang malu"
+    },
+    {
+      "t": 42.72,
+      "end": 45.79,
+      "text": "Semua bayar, semua pulang"
+    },
+    {
+      "t": 46.13,
+      "end": 46.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.13,
+      "end": 49.89,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 51.13,
+      "end": 59.01,
+      "text": "Ramalan Mak Tilah tak pernah silap"
+    },
+    {
+      "t": 61.27,
+      "end": 65.27,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 70.11,
+      "end": 74.11,
+      "text": "Tapi hari ini kau betul-betul tiba"
+    },
+    {
+      "t": 79.79,
+      "end": 79.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.79,
+      "end": 83.09,
+      "text": "Petang tadi datang seorang tuan"
+    },
+    {
+      "t": 84.23,
+      "end": 87.91,
+      "text": "Berbaju putih, kepala hampir cecah dahan"
+    },
+    {
+      "t": 89.69,
+      "end": 92.29,
+      "text": "Dia hulur tangan, aku terdiam"
+    },
+    {
+      "t": 92.99,
+      "end": 96.29,
+      "text": "Habis stok kata-kata semua"
+    },
+    {
+      "t": 97.81,
+      "end": 97.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 97.81,
+      "end": 99.19,
+      "text": "Dia kata dia sesat jalan"
+    },
+    {
+      "t": 104.39,
+      "end": 109.93,
+      "text": "Mencari panggung lama di sini"
+    },
+    {
+      "t": 117.79,
+      "end": 117.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.79,
+      "end": 120.89,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 122.49,
+      "end": 125.77,
+      "text": "Ramalan Mak Tilah, kali ini benar"
+    },
+    {
+      "t": 126.83,
+      "end": 132.29,
+      "text": "Lelaki tinggi segak, duduklah dulu"
+    },
+    {
+      "t": 135.52,
+      "end": 153.98,
+      "text": "Tak payah bayar, teh pun aku belanja"
+    },
+    {
+      "t": 159.14,
+      "end": 159.14,
+      "text": "[Outro - clarinet and violin, curtain-call flourish]"
+    },
+    {
+      "t": 159.14,
+      "end": 163.16,
+      "text": "Lelaki tinggi segak, mari mari"
+    },
+    {
+      "t": 164.16,
+      "end": 170.96,
+      "text": "Tirai pun turun, tepuk tanganlah"
+    }
+  ]
+}

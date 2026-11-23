@@ -1,0 +1,519 @@
+{
+  "id": "b23_en05",
+  "title": "Quarter Past Twelve in Almeria",
+  "title_source": "scripted",
+  "genre": "cinematic spaghetti-western ballad (Morricone-style)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "dusty, solemn, quietly proud",
+  "persona": "",
+  "subject": "A stunt gunfighter at a tourist western town in the Almería desert has been shot dead at the same balcony every day at 12:15 for twenty-two years; today a small child in the crowd claps for him alone.",
+  "caption": "Cinematic spaghetti-western ballad, slow 4/4 pulse with a heartbeat kick. Nylon-string and twangy tremolo electric guitar playing a slow arpeggio, a solo whistle carrying the melody, a harmonica answering, a sweeping string section with low cello, and rolling timpani with a distant church bell. Wide 1968 Rome studio texture, spacious desert reverb, spring reverb on guitar, dry intimate vocal. Male lead, deep warm baritone, low-mid register, slow and weathered, with a small male choir humming softly on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 70 BPM, D minor. Dusty, solemn, quietly proud. No drum machine, no synth pads, no autotune, no rock drum kit, no modern pop beat.",
+  "lyrics": "[Intro - whistle over tremolo guitar, timpani heartbeat]\n\n[Verse 1]\nNoon in Almería, the tourists come\nSit on the rail with ice cream and drum\nI put on the hat and the dusty black coat\nCheck the cap gun, check the rope\n\n[Chorus]\nQuarter past twelve, the shot goes off\nI spin, I stagger, I give a cough\nThey clap for the hero, they clap for the pay\nNobody claps for the man who stays\n\n[Verse 2]\nA crack in the plank where my shoulder lands\nSand in my collar, sand in my hands\nMy knees say no, my pride says yes\nTwenty-two years in the same black vest\n\n[Pre-Chorus]\nToday a small boy in a paper hat\nStands on a bench, says \"Look at that\"\nHe doesn't clap for the man with the gun\nHe claps for me, the fallen one\n\n[Chorus]\nQuarter past twelve, the shot goes off\nI spin, I stagger, I give a cough\nOne little pair of hands, one little sound\nTells a dead man he's still around\n\n[Bridge - strings swell, whistle alone]\nI lie in the dust with my hat on my chest\nAnd for once I do not want to rest\n\n[Outro - whistle and harmonica, strings fade, bell]\nQuarter past twelve\nQuarter past twelve",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 70,
+    "duration": 220.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Cinematic spaghetti-western ballad, slow 4/4 pulse with a heartbeat kick. Nylon-string and twangy tremolo electric guitar playing a slow arpeggio, a solo whistle carrying the melody, a harmonica answering, a sweeping string section with low cello, and rolling timpani with a distant church bell. Wide 1968 Rome studio texture, spacious desert reverb, spring reverb on guitar, dry intimate vocal. Male lead, deep warm baritone, low-mid register, slow and weathered, with a small male choir humming softly on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 70 BPM, D minor. Dusty, solemn, quietly proud. No drum machine, no synth pads, no autotune, no rock drum kit, no modern pop beat.",
+    "lyrics": "[Intro - whistle over tremolo guitar, timpani heartbeat]\n\n[Verse 1]\nNoon in Almería, the tourists come\nSit on the rail with ice cream and drum\nI put on the hat and the dusty black coat\nCheck the cap gun, check the rope\n\n[Chorus]\nQuarter past twelve, the shot goes off\nI spin, I stagger, I give a cough\nThey clap for the hero, they clap for the pay\nNobody claps for the man who stays\n\n[Verse 2]\nA crack in the plank where my shoulder lands\nSand in my collar, sand in my hands\nMy knees say no, my pride says yes\nTwenty-two years in the same black vest\n\n[Pre-Chorus]\nToday a small boy in a paper hat\nStands on a bench, says \"Look at that\"\nHe doesn't clap for the man with the gun\nHe claps for me, the fallen one\n\n[Chorus]\nQuarter past twelve, the shot goes off\nI spin, I stagger, I give a cough\nOne little pair of hands, one little sound\nTells a dead man he's still around\n\n[Bridge - strings swell, whistle alone]\nI lie in the dust with my hat on my chest\nAnd for once I do not want to rest\n\n[Outro - whistle and harmonica, strings fade, bell]\nQuarter past twelve\nQuarter past twelve"
+  },
+  "seed": "3631269392",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.91s**\n- 50.91s per song\n- LM phase (1 song): 7.74s\n- DiT phase (1 song): 43.17s",
+  "task_id": "a8aaea01-9873-456d-a122-0b325c2f5bf2",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-23T00:18:57.301626+08:00",
+  "audio": "b23_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 6.9,
+      "end": 6.9,
+      "text": "[Intro - whistle over tremolo guitar, timpani heartbeat]"
+    },
+    {
+      "t": 6.9,
+      "end": 6.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.9,
+      "end": 29.58,
+      "text": "Noon in Almería, the tourists come"
+    },
+    {
+      "t": 29.58,
+      "end": 33.78,
+      "text": "Sit on the rail with ice cream and drum"
+    },
+    {
+      "t": 37.44,
+      "end": 40.8,
+      "text": "I put on the hat and the dusty black coat"
+    },
+    {
+      "t": 40.8,
+      "end": 43.74,
+      "text": "Check the cap gun, check the rope"
+    },
+    {
+      "t": 43.74,
+      "end": 43.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 43.74,
+      "end": 44.7,
+      "text": "Quarter past twelve, the shot goes off"
+    },
+    {
+      "t": 44.76,
+      "end": 45.86,
+      "text": "I spin, I stagger, I give a cough"
+    },
+    {
+      "t": 45.86,
+      "end": 51.86,
+      "text": "They clap for the hero, they clap for the pay"
+    },
+    {
+      "t": 51.88,
+      "end": 72.79,
+      "text": "Nobody claps for the man who stays"
+    },
+    {
+      "t": 72.83,
+      "end": 72.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.83,
+      "end": 78.17,
+      "text": "A crack in the plank where my shoulder lands"
+    },
+    {
+      "t": 79.75,
+      "end": 84.47,
+      "text": "Sand in my collar, sand in my hands"
+    },
+    {
+      "t": 85.37,
+      "end": 91.93,
+      "text": "My knees say no, my pride says yes"
+    },
+    {
+      "t": 93.39,
+      "end": 99.01,
+      "text": "Twenty-two years in the same black vest"
+    },
+    {
+      "t": 102.93,
+      "end": 102.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.93,
+      "end": 106.17,
+      "text": "Today a small boy in a paper hat"
+    },
+    {
+      "t": 106.33,
+      "end": 109.63,
+      "text": "Stands on a bench, says \"Look at that\""
+    },
+    {
+      "t": 109.63,
+      "end": 113.09,
+      "text": "He doesn't clap for the man with the gun"
+    },
+    {
+      "t": 115.81,
+      "end": 120.03,
+      "text": "He claps for me, the fallen one"
+    },
+    {
+      "t": 123.91,
+      "end": 123.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.91,
+      "end": 128.11,
+      "text": "Quarter past twelve, the shot goes off"
+    },
+    {
+      "t": 128.17,
+      "end": 130.67,
+      "text": "I spin, I stagger, I give a cough"
+    },
+    {
+      "t": 130.93,
+      "end": 136.33,
+      "text": "One little pair of hands, one little sound"
+    },
+    {
+      "t": 136.79,
+      "end": 139.47,
+      "text": "Tells a dead man he's still around"
+    },
+    {
+      "t": 139.47,
+      "end": 139.47,
+      "text": "[Bridge - strings swell, whistle alone]"
+    },
+    {
+      "t": 139.47,
+      "end": 146.75,
+      "text": "I lie in the dust with my hat on my chest"
+    },
+    {
+      "t": 156.57,
+      "end": 173.68,
+      "text": "And for once I do not want to rest"
+    },
+    {
+      "t": 179.42,
+      "end": 179.42,
+      "text": "[Outro - whistle and harmonica, strings fade, bell]"
+    },
+    {
+      "t": 179.42,
+      "end": 182.14,
+      "text": "Quarter past twelve"
+    },
+    {
+      "t": 190.12,
+      "end": 203.8,
+      "text": "Quarter past twelve"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 6.9,
+      "end": 6.9,
+      "text": "[Intro - whistle over tremolo guitar, timpani heartbeat]"
+    },
+    {
+      "t": 6.9,
+      "end": 6.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.9,
+      "end": 29.58,
+      "text": "Noon in Almería, the tourists come"
+    },
+    {
+      "t": 29.58,
+      "end": 33.78,
+      "text": "Sit on the rail with ice cream and drum"
+    },
+    {
+      "t": 37.44,
+      "end": 40.8,
+      "text": "I put on the hat and the dusty black coat"
+    },
+    {
+      "t": 40.8,
+      "end": 43.74,
+      "text": "Check the cap gun, check the rope"
+    },
+    {
+      "t": 43.74,
+      "end": 43.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 43.74,
+      "end": 44.7,
+      "text": "Quarter past twelve, the shot goes off"
+    },
+    {
+      "t": 44.76,
+      "end": 45.86,
+      "text": "I spin, I stagger, I give a cough"
+    },
+    {
+      "t": 45.86,
+      "end": 51.86,
+      "text": "They clap for the hero, they clap for the pay"
+    },
+    {
+      "t": 51.88,
+      "end": 72.79,
+      "text": "Nobody claps for the man who stays"
+    },
+    {
+      "t": 72.83,
+      "end": 72.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.83,
+      "end": 78.17,
+      "text": "A crack in the plank where my shoulder lands"
+    },
+    {
+      "t": 79.75,
+      "end": 84.47,
+      "text": "Sand in my collar, sand in my hands"
+    },
+    {
+      "t": 85.37,
+      "end": 91.93,
+      "text": "My knees say no, my pride says yes"
+    },
+    {
+      "t": 93.39,
+      "end": 99.01,
+      "text": "Twenty-two years in the same black vest"
+    },
+    {
+      "t": 102.93,
+      "end": 102.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.93,
+      "end": 106.17,
+      "text": "Today a small boy in a paper hat"
+    },
+    {
+      "t": 106.33,
+      "end": 109.63,
+      "text": "Stands on a bench, says \"Look at that\""
+    },
+    {
+      "t": 109.63,
+      "end": 113.09,
+      "text": "He doesn't clap for the man with the gun"
+    },
+    {
+      "t": 115.81,
+      "end": 120.03,
+      "text": "He claps for me, the fallen one"
+    },
+    {
+      "t": 123.91,
+      "end": 123.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.91,
+      "end": 128.11,
+      "text": "Quarter past twelve, the shot goes off"
+    },
+    {
+      "t": 128.17,
+      "end": 130.67,
+      "text": "I spin, I stagger, I give a cough"
+    },
+    {
+      "t": 130.93,
+      "end": 136.33,
+      "text": "One little pair of hands, one little sound"
+    },
+    {
+      "t": 136.79,
+      "end": 139.47,
+      "text": "Tells a dead man he's still around"
+    },
+    {
+      "t": 139.47,
+      "end": 139.47,
+      "text": "[Bridge - strings swell, whistle alone]"
+    },
+    {
+      "t": 139.47,
+      "end": 146.75,
+      "text": "I lie in the dust with my hat on my chest"
+    },
+    {
+      "t": 156.57,
+      "end": 173.68,
+      "text": "And for once I do not want to rest"
+    },
+    {
+      "t": 179.42,
+      "end": 179.42,
+      "text": "[Outro - whistle and harmonica, strings fade, bell]"
+    },
+    {
+      "t": 179.42,
+      "end": 182.14,
+      "text": "Quarter past twelve"
+    },
+    {
+      "t": 190.12,
+      "end": 203.8,
+      "text": "Quarter past twelve"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 15.28,
+      "end": 15.28,
+      "text": "[Intro - whistle over tremolo guitar, timpani heartbeat]"
+    },
+    {
+      "t": 15.28,
+      "end": 15.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.28,
+      "end": 29.58,
+      "text": "Noon in Almería, the tourists come"
+    },
+    {
+      "t": 29.58,
+      "end": 33.76,
+      "text": "Sit on the rail with ice cream and drum"
+    },
+    {
+      "t": 37.44,
+      "end": 40.76,
+      "text": "I put on the hat and the dusty black coat"
+    },
+    {
+      "t": 40.76,
+      "end": 41.42,
+      "text": "Check the cap gun, check the rope"
+    },
+    {
+      "t": 41.42,
+      "end": 41.42,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 41.42,
+      "end": 42.2,
+      "text": "Quarter past twelve, the shot goes off"
+    },
+    {
+      "t": 42.2,
+      "end": 43.58,
+      "text": "I spin, I stagger, I give a cough"
+    },
+    {
+      "t": 43.58,
+      "end": 46.22,
+      "text": "They clap for the hero, they clap for the pay"
+    },
+    {
+      "t": 46.22,
+      "end": 72.83,
+      "text": "Nobody claps for the man who stays"
+    },
+    {
+      "t": 72.83,
+      "end": 72.83,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.83,
+      "end": 78.15,
+      "text": "A crack in the plank where my shoulder lands"
+    },
+    {
+      "t": 79.75,
+      "end": 84.49,
+      "text": "Sand in my collar, sand in my hands"
+    },
+    {
+      "t": 85.37,
+      "end": 92.05,
+      "text": "My knees say no, my pride says yes"
+    },
+    {
+      "t": 93.39,
+      "end": 99.23,
+      "text": "Twenty-two years in the same black vest"
+    },
+    {
+      "t": 102.93,
+      "end": 102.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.93,
+      "end": 104.13,
+      "text": "Today a small boy in a paper hat"
+    },
+    {
+      "t": 104.13,
+      "end": 105.53,
+      "text": "Stands on a bench, says \"Look at that\""
+    },
+    {
+      "t": 105.53,
+      "end": 113.09,
+      "text": "He doesn't clap for the man with the gun"
+    },
+    {
+      "t": 115.81,
+      "end": 119.99,
+      "text": "He claps for me, the fallen one"
+    },
+    {
+      "t": 123.93,
+      "end": 123.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 123.93,
+      "end": 128.11,
+      "text": "Quarter past twelve, the shot goes off"
+    },
+    {
+      "t": 128.17,
+      "end": 130.43,
+      "text": "I spin, I stagger, I give a cough"
+    },
+    {
+      "t": 130.93,
+      "end": 136.33,
+      "text": "One little pair of hands, one little sound"
+    },
+    {
+      "t": 136.79,
+      "end": 139.85,
+      "text": "Tells a dead man he's still around"
+    },
+    {
+      "t": 144.37,
+      "end": 144.37,
+      "text": "[Bridge - strings swell, whistle alone]"
+    },
+    {
+      "t": 144.37,
+      "end": 156.95,
+      "text": "I lie in the dust with my hat on my chest"
+    },
+    {
+      "t": 157.01,
+      "end": 177.96,
+      "text": "And for once I do not want to rest"
+    },
+    {
+      "t": 179.42,
+      "end": 179.42,
+      "text": "[Outro - whistle and harmonica, strings fade, bell]"
+    },
+    {
+      "t": 179.42,
+      "end": 181.72,
+      "text": "Quarter past twelve"
+    },
+    {
+      "t": 190.12,
+      "end": 208.72,
+      "text": "Quarter past twelve"
+    }
+  ]
+}

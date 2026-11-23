@@ -1,0 +1,534 @@
+{
+  "id": "b23_ja04",
+  "title": "鉛筆の返事",
+  "title_source": "scripted",
+  "genre": "Japanese slowcore (sparse guitar and brushed drums, low-tempo band)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "hushed, wistful, quietly warm",
+  "persona": "",
+  "subject": "A clerk at a small used-record shop in Koenji finds faint pencil notes from one previous owner on every sleeve in a box she is pricing, and starts answering in pencil before selling each one",
+  "caption": "Japanese slowcore at a slow tempo. Clean electric guitar with slow tremolo and sparse single notes, upright piano with long sustained chords, brushed drums keeping a half-time pulse, soft round bass, low organ pad under the chorus. Close room recording, long reverb tail, wide silence between phrases, gradual build to a fuller final chorus. Female low-mid voice, plain steady sung delivery. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, A minor. Hushed, wistful, quietly warm mood. No synthesizers, no autotune, no electronic drums, no rap, no big distorted guitars, no fast tempo.",
+  "lyrics": "[Intro - tremolo guitar and upright piano]\n\n[Verse 1]\n高円寺のレコード屋 箱いっぱいの中古盤\nジャケットの内側に 鉛筆の小さな字\nこの曲は雨の日に 聴くといい\n二曲目は 少し長い\n\n[Pre-Chorus]\n知らない誰かの癖字\n消しゴムの跡が 残ってる\n\n[Chorus]\n私の鉛筆で 返事を書いた\n値札のうらに 小さな字で\nわかります 私も好きです\n売る前の夜に 針を置く\n\n[Verse 2]\n三枚目には 日付がひとつ\n買った日だろうか 迷った日だろうか\n私は黙って 古い文字に重ねる\nやさしい筆圧に 少し近づく\n\n[Chorus]\n私の鉛筆で 返事を書いた\n値札のうらに 小さな字で\nわかります 私も好きです\n誰かが次に 読むだろう\n\n[Bridge - sparse piano]\n知らないままで いい\n会わないままで いい\n\n[Chorus]\n私の鉛筆で 返事を書いた\n最後の一枚は 手元に残す\nわかります 私も好きです\n針が落ちて 夜がまわる\n\n[Outro - tremolo guitar, fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Japanese slowcore at a slow tempo. Clean electric guitar with slow tremolo and sparse single notes, upright piano with long sustained chords, brushed drums keeping a half-time pulse, soft round bass, low organ pad under the chorus. Close room recording, long reverb tail, wide silence between phrases, gradual build to a fuller final chorus. Female low-mid voice, plain steady sung delivery. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, A minor. Hushed, wistful, quietly warm mood. No synthesizers, no autotune, no electronic drums, no rap, no big distorted guitars, no fast tempo.",
+    "lyrics": "[Intro - tremolo guitar and upright piano]\n\n[Verse 1]\n高円寺のレコード屋 箱いっぱいの中古盤\nジャケットの内側に 鉛筆の小さな字\nこの曲は雨の日に 聴くといい\n二曲目は 少し長い\n\n[Pre-Chorus]\n知らない誰かの癖字\n消しゴムの跡が 残ってる\n\n[Chorus]\n私の鉛筆で 返事を書いた\n値札のうらに 小さな字で\nわかります 私も好きです\n売る前の夜に 針を置く\n\n[Verse 2]\n三枚目には 日付がひとつ\n買った日だろうか 迷った日だろうか\n私は黙って 古い文字に重ねる\nやさしい筆圧に 少し近づく\n\n[Chorus]\n私の鉛筆で 返事を書いた\n値札のうらに 小さな字で\nわかります 私も好きです\n誰かが次に 読むだろう\n\n[Bridge - sparse piano]\n知らないままで いい\n会わないままで いい\n\n[Chorus]\n私の鉛筆で 返事を書いた\n最後の一枚は 手元に残す\nわかります 私も好きです\n針が落ちて 夜がまわる\n\n[Outro - tremolo guitar, fade]"
+  },
+  "seed": "1525373748",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.45s**\n- 72.45s per song\n- LM phase (1 song): 7.54s\n- DiT phase (1 song): 64.91s",
+  "task_id": "6e19d04d-540c-416d-be38-5a99c4947c05",
+  "elapsed_s": 130.4,
+  "generated_at": "2026-11-23T12:39:33.003327+08:00",
+  "audio": "b23_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Intro - tremolo guitar and upright piano]"
+    },
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.86,
+      "end": 34.92,
+      "text": "高円寺のレコード屋 箱いっぱいの中古盤"
+    },
+    {
+      "t": 35.0,
+      "end": 39.18,
+      "text": "ジャケットの内側に 鉛筆の小さな字"
+    },
+    {
+      "t": 41.72,
+      "end": 45.34,
+      "text": "この曲は雨の日に 聴くといい"
+    },
+    {
+      "t": 45.34,
+      "end": 48.42,
+      "text": "二曲目は 少し長い"
+    },
+    {
+      "t": 48.5,
+      "end": 48.5,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.5,
+      "end": 50.28,
+      "text": "知らない誰かの癖字"
+    },
+    {
+      "t": 50.28,
+      "end": 52.81,
+      "text": "消しゴムの跡が 残ってる"
+    },
+    {
+      "t": 55.01,
+      "end": 55.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.01,
+      "end": 55.75,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 55.79,
+      "end": 58.65,
+      "text": "値札のうらに 小さな字で"
+    },
+    {
+      "t": 58.73,
+      "end": 62.09,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 62.21,
+      "end": 65.45,
+      "text": "売る前の夜に 針を置く"
+    },
+    {
+      "t": 65.61,
+      "end": 65.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.61,
+      "end": 70.03,
+      "text": "三枚目には 日付がひとつ"
+    },
+    {
+      "t": 70.27,
+      "end": 73.31,
+      "text": "買った日だろうか 迷った日だろうか"
+    },
+    {
+      "t": 74.65,
+      "end": 77.27,
+      "text": "私は黙って 古い文字に重ねる"
+    },
+    {
+      "t": 77.31,
+      "end": 90.05,
+      "text": "やさしい筆圧に 少し近づく"
+    },
+    {
+      "t": 90.13,
+      "end": 90.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.13,
+      "end": 92.29,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 92.35,
+      "end": 102.95,
+      "text": "値札のうらに 小さな字で"
+    },
+    {
+      "t": 103.03,
+      "end": 118.37,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 118.43,
+      "end": 122.79,
+      "text": "誰かが次に 読むだろう"
+    },
+    {
+      "t": 123.39,
+      "end": 123.39,
+      "text": "[Bridge - sparse piano]"
+    },
+    {
+      "t": 123.39,
+      "end": 128.01,
+      "text": "知らないままで いい"
+    },
+    {
+      "t": 134.23,
+      "end": 134.85,
+      "text": "会わないままで いい"
+    },
+    {
+      "t": 134.97,
+      "end": 134.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.97,
+      "end": 139.41,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 141.11,
+      "end": 146.45,
+      "text": "最後の一枚は 手元に残す"
+    },
+    {
+      "t": 147.97,
+      "end": 152.65,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 154.63,
+      "end": 159.12,
+      "text": "針が落ちて 夜がまわる"
+    },
+    {
+      "t": 159.12,
+      "end": 159.12,
+      "text": "[Outro - tremolo guitar, fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Intro - tremolo guitar and upright piano]"
+    },
+    {
+      "t": 27.86,
+      "end": 27.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.86,
+      "end": 34.92,
+      "text": "高円寺のレコード屋 箱いっぱいの中古盤"
+    },
+    {
+      "t": 35.0,
+      "end": 39.18,
+      "text": "ジャケットの内側に 鉛筆の小さな字"
+    },
+    {
+      "t": 41.72,
+      "end": 45.34,
+      "text": "この曲は雨の日に 聴くといい"
+    },
+    {
+      "t": 45.34,
+      "end": 48.42,
+      "text": "二曲目は 少し長い"
+    },
+    {
+      "t": 48.5,
+      "end": 48.5,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.5,
+      "end": 50.28,
+      "text": "知らない誰かの癖字"
+    },
+    {
+      "t": 50.28,
+      "end": 52.81,
+      "text": "消しゴムの跡が 残ってる"
+    },
+    {
+      "t": 55.01,
+      "end": 55.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.01,
+      "end": 55.75,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 55.79,
+      "end": 58.65,
+      "text": "値札のうらに 小さな字で"
+    },
+    {
+      "t": 58.73,
+      "end": 62.09,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 62.21,
+      "end": 65.45,
+      "text": "売る前の夜に 針を置く"
+    },
+    {
+      "t": 65.61,
+      "end": 65.61,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.61,
+      "end": 70.03,
+      "text": "三枚目には 日付がひとつ"
+    },
+    {
+      "t": 70.27,
+      "end": 73.31,
+      "text": "買った日だろうか 迷った日だろうか"
+    },
+    {
+      "t": 73.65,
+      "end": 77.27,
+      "text": "私は黙って 古い文字に重ねる"
+    },
+    {
+      "t": 77.31,
+      "end": 90.05,
+      "text": "やさしい筆圧に 少し近づく"
+    },
+    {
+      "t": 90.13,
+      "end": 90.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.13,
+      "end": 92.29,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 92.35,
+      "end": 102.95,
+      "text": "値札のうらに 小さな字で"
+    },
+    {
+      "t": 103.03,
+      "end": 118.37,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 118.43,
+      "end": 122.79,
+      "text": "誰かが次に 読むだろう"
+    },
+    {
+      "t": 123.39,
+      "end": 123.39,
+      "text": "[Bridge - sparse piano]"
+    },
+    {
+      "t": 123.39,
+      "end": 128.01,
+      "text": "知らないままで いい"
+    },
+    {
+      "t": 134.23,
+      "end": 134.85,
+      "text": "会わないままで いい"
+    },
+    {
+      "t": 134.97,
+      "end": 134.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.97,
+      "end": 139.41,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 141.11,
+      "end": 146.45,
+      "text": "最後の一枚は 手元に残す"
+    },
+    {
+      "t": 147.97,
+      "end": 152.65,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 154.63,
+      "end": 159.12,
+      "text": "針が落ちて 夜がまわる"
+    },
+    {
+      "t": 159.12,
+      "end": 159.12,
+      "text": "[Outro - tremolo guitar, fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 25.98,
+      "end": 25.98,
+      "text": "[Intro - tremolo guitar and upright piano]"
+    },
+    {
+      "t": 25.98,
+      "end": 25.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.98,
+      "end": 30.36,
+      "text": "高円寺のレコード屋 箱いっぱいの中古盤"
+    },
+    {
+      "t": 30.38,
+      "end": 32.28,
+      "text": "ジャケットの内側に 鉛筆の小さな字"
+    },
+    {
+      "t": 32.3,
+      "end": 42.82,
+      "text": "この曲は雨の日に 聴くといい"
+    },
+    {
+      "t": 42.86,
+      "end": 45.84,
+      "text": "二曲目は 少し長い"
+    },
+    {
+      "t": 52.69,
+      "end": 52.69,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.69,
+      "end": 56.53,
+      "text": "知らない誰かの癖字"
+    },
+    {
+      "t": 56.71,
+      "end": 62.63,
+      "text": "消しゴムの跡が 残ってる"
+    },
+    {
+      "t": 67.27,
+      "end": 67.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.27,
+      "end": 71.75,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 73.03,
+      "end": 76.61,
+      "text": "値札のうらに 小さな字で"
+    },
+    {
+      "t": 78.03,
+      "end": 82.77,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 83.73,
+      "end": 85.31,
+      "text": "売る前の夜に 針を置く"
+    },
+    {
+      "t": 85.31,
+      "end": 85.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.31,
+      "end": 89.61,
+      "text": "三枚目には 日付がひとつ"
+    },
+    {
+      "t": 89.73,
+      "end": 92.77,
+      "text": "買った日だろうか 迷った日だろうか"
+    },
+    {
+      "t": 92.95,
+      "end": 96.09,
+      "text": "私は黙って 古い文字に重ねる"
+    },
+    {
+      "t": 96.17,
+      "end": 99.01,
+      "text": "やさしい筆圧に 少し近づく"
+    },
+    {
+      "t": 99.25,
+      "end": 99.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.25,
+      "end": 110.55,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 110.89,
+      "end": 114.93,
+      "text": "値札のうらに 小さな字で"
+    },
+    {
+      "t": 115.07,
+      "end": 121.65,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 121.77,
+      "end": 135.39,
+      "text": "誰かが次に 読むだろう"
+    },
+    {
+      "t": 135.47,
+      "end": 135.47,
+      "text": "[Bridge - sparse piano]"
+    },
+    {
+      "t": 135.47,
+      "end": 139.07,
+      "text": "知らないままで いい"
+    },
+    {
+      "t": 141.15,
+      "end": 144.85,
+      "text": "会わないままで いい"
+    },
+    {
+      "t": 153.93,
+      "end": 153.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 153.93,
+      "end": 155.79,
+      "text": "私の鉛筆で 返事を書いた"
+    },
+    {
+      "t": 155.89,
+      "end": 159.2,
+      "text": "最後の一枚は 手元に残す"
+    },
+    {
+      "t": 164.58,
+      "end": 168.84,
+      "text": "わかります 私も好きです"
+    },
+    {
+      "t": 172.02,
+      "end": 193.06,
+      "text": "針が落ちて 夜がまわる"
+    },
+    {
+      "t": 193.06,
+      "end": 193.06,
+      "text": "[Outro - tremolo guitar, fade]"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "b23_ja03",
+  "title": "フィルムが替わる八秒前",
+  "title_source": "scripted",
+  "genre": "Japanese 1980s technopop (YMO-style synth pop with drum machine)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bright, giddy, danceable",
+  "persona": "",
+  "subject": "A projectionist in a thirty-seat Koenji cinema counts down to the reel changeover by watching the cue dots; tonight his girlfriend in row F catches his eye and he misses the switch, leaving the screen white for eight seconds",
+  "caption": "Japanese 1980s technopop with an upbeat dance feel. Punchy analog synth bass playing eighth notes, bright polysynth chords, fast sequenced arpeggio, LinnDrum-style drum machine with gated snare and handclaps, clean chorused electric guitar chops. Dry 1980s digital-synth sheen, tight mix, light plate reverb on the snare. Female bright lead voice, flat clear 1980s idol-style delivery with a small doubled hook. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, F# minor. Bright, giddy, danceable mood. No dubstep, no trap hi-hats, no autotune, no guitar solos, no acoustic folk instruments, no rap.",
+  "lyrics": "[Intro - sequenced synth arpeggio and drum machine]\n\n[Verse 1]\n小さな映写室 窓から客席\n画面の隅に 丸い点が出たら\n八秒後に 機械を替える\n三十席の 街の映画館\n\n[Pre-Chorus]\n八 七 六\n手が汗でぬれてる\n\n[Chorus]\nフィルムが替わる 八秒前\nFの列で 君が笑った\n見とれてたら 画面が白い\nごめんね全員 あと少し\n\n[Verse 2]\n毎晩ひとりで 同じ席に来る人\nポップコーン抱えて 上を見上げてる\n私の仕事は 誰も気づかないこと\n気づかれたいのは 君だけだった\n\n[Chorus]\nフィルムが替わる 八秒前\nFの列で 君が笑った\n見とれてたら 画面が白い\n拍手が起きた なぜだろう\n\n[Bridge - synth break]\n三つの点を 数えなおして\n今夜は絶対 間に合わせる\n\n[Chorus]\nフィルムが替わる 八秒前\nFの列で 君が手を振る\n今度は完璧 切り替えたよ\n終わったら 先に出てるね\n\n[Outro - synth arpeggio and drum machine, fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "F# minor",
+    "timesignature": "4",
+    "prompt": "Japanese 1980s technopop with an upbeat dance feel. Punchy analog synth bass playing eighth notes, bright polysynth chords, fast sequenced arpeggio, LinnDrum-style drum machine with gated snare and handclaps, clean chorused electric guitar chops. Dry 1980s digital-synth sheen, tight mix, light plate reverb on the snare. Female bright lead voice, flat clear 1980s idol-style delivery with a small doubled hook. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, F# minor. Bright, giddy, danceable mood. No dubstep, no trap hi-hats, no autotune, no guitar solos, no acoustic folk instruments, no rap.",
+    "lyrics": "[Intro - sequenced synth arpeggio and drum machine]\n\n[Verse 1]\n小さな映写室 窓から客席\n画面の隅に 丸い点が出たら\n八秒後に 機械を替える\n三十席の 街の映画館\n\n[Pre-Chorus]\n八 七 六\n手が汗でぬれてる\n\n[Chorus]\nフィルムが替わる 八秒前\nFの列で 君が笑った\n見とれてたら 画面が白い\nごめんね全員 あと少し\n\n[Verse 2]\n毎晩ひとりで 同じ席に来る人\nポップコーン抱えて 上を見上げてる\n私の仕事は 誰も気づかないこと\n気づかれたいのは 君だけだった\n\n[Chorus]\nフィルムが替わる 八秒前\nFの列で 君が笑った\n見とれてたら 画面が白い\n拍手が起きた なぜだろう\n\n[Bridge - synth break]\n三つの点を 数えなおして\n今夜は絶対 間に合わせる\n\n[Chorus]\nフィルムが替わる 八秒前\nFの列で 君が手を振る\n今度は完璧 切り替えたよ\n終わったら 先に出てるね\n\n[Outro - synth arpeggio and drum machine, fade]"
+  },
+  "seed": "4187774328",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 47.77s**\n- 47.77s per song\n- LM phase (1 song): 11.84s\n- DiT phase (1 song): 35.94s",
+  "task_id": "c2527bbf-3b10-451a-bf21-a984bb5d2d92",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-11-23T00:27:38.194212+08:00",
+  "audio": "b23_ja03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.94,
+      "end": 22.94,
+      "text": "[Intro - sequenced synth arpeggio and drum machine]"
+    },
+    {
+      "t": 22.94,
+      "end": 22.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.94,
+      "end": 28.7,
+      "text": "小さな映写室 窓から客席"
+    },
+    {
+      "t": 28.84,
+      "end": 35.96,
+      "text": "画面の隅に 丸い点が出たら"
+    },
+    {
+      "t": 36.2,
+      "end": 41.32,
+      "text": "八秒後に 機械を替える"
+    },
+    {
+      "t": 41.46,
+      "end": 45.08,
+      "text": "三十席の 街の映画館"
+    },
+    {
+      "t": 45.1,
+      "end": 45.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.1,
+      "end": 45.1,
+      "text": "八 七 六"
+    },
+    {
+      "t": 45.1,
+      "end": 49.05,
+      "text": "手が汗でぬれてる"
+    },
+    {
+      "t": 52.07,
+      "end": 52.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.07,
+      "end": 57.13,
+      "text": "フィルムが替わる 八秒前"
+    },
+    {
+      "t": 57.21,
+      "end": 58.69,
+      "text": "Fの列で 君が笑った"
+    },
+    {
+      "t": 59.25,
+      "end": 65.89,
+      "text": "見とれてたら 画面が白い"
+    },
+    {
+      "t": 66.67,
+      "end": 69.67,
+      "text": "ごめんね全員 あと少し"
+    },
+    {
+      "t": 71.33,
+      "end": 71.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.33,
+      "end": 76.63,
+      "text": "毎晩ひとりで 同じ席に来る人"
+    },
+    {
+      "t": 78.05,
+      "end": 82.13,
+      "text": "ポップコーン抱えて 上を見上げてる"
+    },
+    {
+      "t": 82.13,
+      "end": 84.01,
+      "text": "私の仕事は 誰も気づかないこと"
+    },
+    {
+      "t": 85.19,
+      "end": 90.95,
+      "text": "気づかれたいのは 君だけだった"
+    },
+    {
+      "t": 92.43,
+      "end": 92.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.43,
+      "end": 96.27,
+      "text": "フィルムが替わる 八秒前"
+    },
+    {
+      "t": 96.71,
+      "end": 98.85,
+      "text": "Fの列で 君が笑った"
+    },
+    {
+      "t": 99.39,
+      "end": 102.53,
+      "text": "見とれてたら 画面が白い"
+    },
+    {
+      "t": 102.55,
+      "end": 106.97,
+      "text": "拍手が起きた なぜだろう"
+    },
+    {
+      "t": 107.59,
+      "end": 107.59,
+      "text": "[Bridge - synth break]"
+    },
+    {
+      "t": 107.59,
+      "end": 112.45,
+      "text": "三つの点を 数えなおして"
+    },
+    {
+      "t": 114.33,
+      "end": 126.65,
+      "text": "今夜は絶対 間に合わせる"
+    },
+    {
+      "t": 132.09,
+      "end": 132.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.09,
+      "end": 138.63,
+      "text": "フィルムが替わる 八秒前"
+    },
+    {
+      "t": 138.69,
+      "end": 141.98,
+      "text": "Fの列で 君が手を振る"
+    },
+    {
+      "t": 142.08,
+      "end": 159.04,
+      "text": "今度は完璧 切り替えたよ"
+    },
+    {
+      "t": 159.56,
+      "end": 182.38,
+      "text": "終わったら 先に出てるね"
+    },
+    {
+      "t": 182.38,
+      "end": 182.38,
+      "text": "[Outro - synth arpeggio and drum machine, fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.96,
+      "end": 22.96,
+      "text": "[Intro - sequenced synth arpeggio and drum machine]"
+    },
+    {
+      "t": 22.96,
+      "end": 22.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.96,
+      "end": 28.7,
+      "text": "小さな映写室 窓から客席"
+    },
+    {
+      "t": 28.86,
+      "end": 35.96,
+      "text": "画面の隅に 丸い点が出たら"
+    },
+    {
+      "t": 36.32,
+      "end": 42.28,
+      "text": "八秒後に 機械を替える"
+    },
+    {
+      "t": 42.5,
+      "end": 46.53,
+      "text": "三十席の 街の映画館"
+    },
+    {
+      "t": 46.63,
+      "end": 46.63,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.63,
+      "end": 46.63,
+      "text": "八 七 六"
+    },
+    {
+      "t": 46.63,
+      "end": 49.07,
+      "text": "手が汗でぬれてる"
+    },
+    {
+      "t": 52.07,
+      "end": 52.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.07,
+      "end": 57.49,
+      "text": "フィルムが替わる 八秒前"
+    },
+    {
+      "t": 57.49,
+      "end": 58.71,
+      "text": "Fの列で 君が笑った"
+    },
+    {
+      "t": 58.85,
+      "end": 62.75,
+      "text": "見とれてたら 画面が白い"
+    },
+    {
+      "t": 63.09,
+      "end": 69.69,
+      "text": "ごめんね全員 あと少し"
+    },
+    {
+      "t": 71.33,
+      "end": 71.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.33,
+      "end": 76.73,
+      "text": "毎晩ひとりで 同じ席に来る人"
+    },
+    {
+      "t": 78.05,
+      "end": 80.87,
+      "text": "ポップコーン抱えて 上を見上げてる"
+    },
+    {
+      "t": 80.89,
+      "end": 84.01,
+      "text": "私の仕事は 誰も気づかないこと"
+    },
+    {
+      "t": 85.19,
+      "end": 90.97,
+      "text": "気づかれたいのは 君だけだった"
+    },
+    {
+      "t": 92.43,
+      "end": 92.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.43,
+      "end": 96.27,
+      "text": "フィルムが替わる 八秒前"
+    },
+    {
+      "t": 96.95,
+      "end": 98.85,
+      "text": "Fの列で 君が笑った"
+    },
+    {
+      "t": 99.43,
+      "end": 102.53,
+      "text": "見とれてたら 画面が白い"
+    },
+    {
+      "t": 102.55,
+      "end": 107.19,
+      "text": "拍手が起きた なぜだろう"
+    },
+    {
+      "t": 107.59,
+      "end": 107.59,
+      "text": "[Bridge - synth break]"
+    },
+    {
+      "t": 107.59,
+      "end": 112.45,
+      "text": "三つの点を 数えなおして"
+    },
+    {
+      "t": 114.33,
+      "end": 126.67,
+      "text": "今夜は絶対 間に合わせる"
+    },
+    {
+      "t": 132.09,
+      "end": 132.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.09,
+      "end": 141.24,
+      "text": "フィルムが替わる 八秒前"
+    },
+    {
+      "t": 141.86,
+      "end": 146.22,
+      "text": "Fの列で 君が手を振る"
+    },
+    {
+      "t": 146.22,
+      "end": 157.0,
+      "text": "今度は完璧 切り替えたよ"
+    },
+    {
+      "t": 159.56,
+      "end": 168.86,
+      "text": "終わったら 先に出てるね"
+    },
+    {
+      "t": 168.86,
+      "end": 168.86,
+      "text": "[Outro - synth arpeggio and drum machine, fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,317 @@
+{
+  "id": "b23_th01",
+  "title": "สามสิบสอง",
+  "title_source": "scripted",
+  "genre": "Lanna sueng-and-salo acoustic pop (Chiang Mai string-ensemble style)",
+  "language": "th",
+  "language_name": "Thai",
+  "mood": "warm, teasing, tender humour",
+  "persona": "",
+  "subject": "In a Lampang cloth shop, tailor Pa Noi measures old Lung Chan, who sucks in his belly every year, and quietly writes 32 in her notebook while leaving extra seam allowance for his real waist.",
+  "caption": "Lanna sueng-and-salo acoustic pop (Chiang Mai string-ensemble style). sueng plucked lute with bright ringing sustain, salo bowed coconut fiddle singing the melody lines, nylon guitar strumming in a lilting pattern, small hand drum on the off-beats. dry intimate studio room, close natural acoustic sound, light plate reverb. male lead, warm mid-register voice, gently sung with Northern-Thai lilt, one soft female harmony in the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, G major. Warm, teasing, tender humour. No rap, no autotune, no electronic drums, no synth pads, no distorted guitar, no EDM drops.",
+  "lyrics": "[Intro - sueng lute, salo fiddle, soft hand drum]\n[Verse 1]\nร้านตัดผ้าหน้าตลาดเก่า\nป้าน้อยพาดสายวัดบนบ่า\nลุงจันทร์ยืนกลั้นหายใจ\nท้องแอบหดจนหน้าแดง\n[Pre-Chorus]\nป้ารู้ ป้ารู้ แต่ไม่ว่า\nจดตัวเลขลงสมุดเล่มเดิม\n[Chorus]\nสามสิบสอง สามสิบสอง\nลุงบอกเอวเท่าปีก่อน\nป้าเผื่อตะเข็บไว้ให้\nเผื่อลุงหายใจออก\n[Verse 2]\nกางเกงผ้าฝ้ายตัวใหม่\nลุงลองหน้ากระจกยาว\nกระดุมติดได้สบาย\nลุงยิ้มว่าผอมลงจริง\n[Bridge - salo fiddle alone, hand drum soft]\nเศษผ้าห่อไว้ในลิ้นชัก\nป้าเก็บทุกปีไม่เคยทิ้ง\n[Chorus]\nสามสิบสอง สามสิบสอง\nปีหน้าลุงมาวัดใหม่\nป้าเผื่อตะเข็บไว้ให้\nเผื่อลุงหายใจออก\n[Outro - sueng lute and salo fiddle, last strum]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 88,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Lanna sueng-and-salo acoustic pop (Chiang Mai string-ensemble style). sueng plucked lute with bright ringing sustain, salo bowed coconut fiddle singing the melody lines, nylon guitar strumming in a lilting pattern, small hand drum on the off-beats. dry intimate studio room, close natural acoustic sound, light plate reverb. male lead, warm mid-register voice, gently sung with Northern-Thai lilt, one soft female harmony in the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 88 BPM, G major. Warm, teasing, tender humour. No rap, no autotune, no electronic drums, no synth pads, no distorted guitar, no EDM drops.",
+    "lyrics": "[Intro - sueng lute, salo fiddle, soft hand drum]\n[Verse 1]\nร้านตัดผ้าหน้าตลาดเก่า\nป้าน้อยพาดสายวัดบนบ่า\nลุงจันทร์ยืนกลั้นหายใจ\nท้องแอบหดจนหน้าแดง\n[Pre-Chorus]\nป้ารู้ ป้ารู้ แต่ไม่ว่า\nจดตัวเลขลงสมุดเล่มเดิม\n[Chorus]\nสามสิบสอง สามสิบสอง\nลุงบอกเอวเท่าปีก่อน\nป้าเผื่อตะเข็บไว้ให้\nเผื่อลุงหายใจออก\n[Verse 2]\nกางเกงผ้าฝ้ายตัวใหม่\nลุงลองหน้ากระจกยาว\nกระดุมติดได้สบาย\nลุงยิ้มว่าผอมลงจริง\n[Bridge - salo fiddle alone, hand drum soft]\nเศษผ้าห่อไว้ในลิ้นชัก\nป้าเก็บทุกปีไม่เคยทิ้ง\n[Chorus]\nสามสิบสอง สามสิบสอง\nปีหน้าลุงมาวัดใหม่\nป้าเผื่อตะเข็บไว้ให้\nเผื่อลุงหายใจออก\n[Outro - sueng lute and salo fiddle, last strum]"
+  },
+  "seed": "3964803510",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 49.63s**\n- 49.63s per song\n- LM phase (1 song): 9.70s\n- DiT phase (1 song): 39.93s",
+  "task_id": "a4cd2aa5-5e92-4e62-ab84-bf7f6c2a290c",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-23T00:09:06.160522+08:00",
+  "audio": "b23_th01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.36,
+      "end": 27.36,
+      "text": "[Intro - sueng lute, salo fiddle, soft hand drum]"
+    },
+    {
+      "t": 27.36,
+      "end": 27.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.36,
+      "end": 29.68,
+      "text": "ร้านตัดผ้าหน้าตลาดเก่า"
+    },
+    {
+      "t": 31.32,
+      "end": 35.2,
+      "text": "ป้าน้อยพาดสายวัดบนบ่า"
+    },
+    {
+      "t": 38.2,
+      "end": 40.6,
+      "text": "ลุงจันทร์ยืนกลั้นหายใจ"
+    },
+    {
+      "t": 42.28,
+      "end": 46.98,
+      "text": "ท้องแอบหดจนหน้าแดง"
+    },
+    {
+      "t": 48.2,
+      "end": 48.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.2,
+      "end": 51.61,
+      "text": "ป้ารู้ ป้ารู้ แต่ไม่ว่า"
+    },
+    {
+      "t": 52.65,
+      "end": 56.03,
+      "text": "จดตัวเลขลงสมุดเล่มเดิม"
+    },
+    {
+      "t": 56.03,
+      "end": 56.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.03,
+      "end": 60.17,
+      "text": "สามสิบสอง สามสิบสอง"
+    },
+    {
+      "t": 63.09,
+      "end": 65.59,
+      "text": "ลุงบอกเอวเท่าปีก่อน"
+    },
+    {
+      "t": 69.65,
+      "end": 72.37,
+      "text": "ป้าเผื่อตะเข็บไว้ให้"
+    },
+    {
+      "t": 74.43,
+      "end": 77.51,
+      "text": "เผื่อลุงหายใจออก"
+    },
+    {
+      "t": 80.15,
+      "end": 80.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.15,
+      "end": 82.25,
+      "text": "กางเกงผ้าฝ้ายตัวใหม่"
+    },
+    {
+      "t": 82.25,
+      "end": 96.11,
+      "text": "ลุงลองหน้ากระจกยาว"
+    },
+    {
+      "t": 96.13,
+      "end": 97.79,
+      "text": "กระดุมติดได้สบาย"
+    },
+    {
+      "t": 98.07,
+      "end": 100.11,
+      "text": "ลุงยิ้มว่าผอมลงจริง"
+    },
+    {
+      "t": 100.11,
+      "end": 100.11,
+      "text": "[Bridge - salo fiddle alone, hand drum soft]"
+    },
+    {
+      "t": 100.11,
+      "end": 100.55,
+      "text": "เศษผ้าห่อไว้ในลิ้นชัก"
+    },
+    {
+      "t": 100.55,
+      "end": 130.51,
+      "text": "ป้าเก็บทุกปีไม่เคยทิ้ง"
+    },
+    {
+      "t": 130.53,
+      "end": 130.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.53,
+      "end": 133.79,
+      "text": "สามสิบสอง สามสิบสอง"
+    },
+    {
+      "t": 134.67,
+      "end": 138.75,
+      "text": "ปีหน้าลุงมาวัดใหม่"
+    },
+    {
+      "t": 141.49,
+      "end": 144.59,
+      "text": "ป้าเผื่อตะเข็บไว้ให้"
+    },
+    {
+      "t": 146.23,
+      "end": 182.38,
+      "text": "เผื่อลุงหายใจออก"
+    },
+    {
+      "t": 182.38,
+      "end": 182.38,
+      "text": "[Outro - sueng lute and salo fiddle, last strum]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.36,
+      "end": 27.36,
+      "text": "[Intro - sueng lute, salo fiddle, soft hand drum]"
+    },
+    {
+      "t": 27.36,
+      "end": 27.36,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.36,
+      "end": 29.68,
+      "text": "ร้านตัดผ้าหน้าตลาดเก่า"
+    },
+    {
+      "t": 31.32,
+      "end": 35.1,
+      "text": "ป้าน้อยพาดสายวัดบนบ่า"
+    },
+    {
+      "t": 38.2,
+      "end": 40.6,
+      "text": "ลุงจันทร์ยืนกลั้นหายใจ"
+    },
+    {
+      "t": 42.28,
+      "end": 47.12,
+      "text": "ท้องแอบหดจนหน้าแดง"
+    },
+    {
+      "t": 48.2,
+      "end": 48.2,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.2,
+      "end": 51.59,
+      "text": "ป้ารู้ ป้ารู้ แต่ไม่ว่า"
+    },
+    {
+      "t": 52.65,
+      "end": 56.11,
+      "text": "จดตัวเลขลงสมุดเล่มเดิม"
+    },
+    {
+      "t": 56.23,
+      "end": 56.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.23,
+      "end": 60.15,
+      "text": "สามสิบสอง สามสิบสอง"
+    },
+    {
+      "t": 63.07,
+      "end": 65.59,
+      "text": "ลุงบอกเอวเท่าปีก่อน"
+    },
+    {
+      "t": 69.63,
+      "end": 72.31,
+      "text": "ป้าเผื่อตะเข็บไว้ให้"
+    },
+    {
+      "t": 74.43,
+      "end": 77.49,
+      "text": "เผื่อลุงหายใจออก"
+    },
+    {
+      "t": 80.15,
+      "end": 80.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.15,
+      "end": 81.47,
+      "text": "กางเกงผ้าฝ้ายตัวใหม่"
+    },
+    {
+      "t": 81.47,
+      "end": 82.25,
+      "text": "ลุงลองหน้ากระจกยาว"
+    },
+    {
+      "t": 95.47,
+      "end": 97.77,
+      "text": "กระดุมติดได้สบาย"
+    },
+    {
+      "t": 98.07,
+      "end": 100.13,
+      "text": "ลุงยิ้มว่าผอมลงจริง"
+    },
+    {
+      "t": 100.13,
+      "end": 100.13,
+      "text": "[Bridge - salo fiddle alone, hand drum soft]"
+    },
+    {
+      "t": 100.13,
+      "end": 130.69,
+      "text": "เศษผ้าห่อไว้ในลิ้นชัก"
+    },
+    {
+      "t": 130.69,
+      "end": 131.73,
+      "text": "ป้าเก็บทุกปีไม่เคยทิ้ง"
+    },
+    {
+      "t": 132.59,
+      "end": 132.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.59,
+      "end": 134.71,
+      "text": "สามสิบสอง สามสิบสอง"
+    },
+    {
+      "t": 134.71,
+      "end": 138.75,
+      "text": "ปีหน้าลุงมาวัดใหม่"
+    },
+    {
+      "t": 141.49,
+      "end": 144.59,
+      "text": "ป้าเผื่อตะเข็บไว้ให้"
+    },
+    {
+      "t": 146.21,
+      "end": 149.8,
+      "text": "เผื่อลุงหายใจออก"
+    },
+    {
+      "t": 149.8,
+      "end": 149.8,
+      "text": "[Outro - sueng lute and salo fiddle, last strum]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

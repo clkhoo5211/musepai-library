@@ -1,0 +1,307 @@
+{
+  "id": "b23_id02",
+  "title": "Kartu di Kantong Belakang",
+  "title_source": "scripted",
+  "genre": "Toba Batak hasapi folk-pop (hasapi, sulim and garantung)",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "tender and curious",
+  "persona": "",
+  "subject": "In Balige a woman buys a secondhand library book at a clearance sale and finds the same borrower's name on the due-date card of every book she picks, so she starts borrowing everything he borrowed and slips a note into the last card",
+  "caption": "Toba Batak folk-pop love song. A hasapi two-string lute plays a steady plucked ostinato, a sulim bamboo flute answers between lines, a garantung wooden xylophone doubles the melody softly, a nylon-string acoustic guitar strums light chords, no drum kit. Dry wooden room sound, soft plate reverb, unhurried. A female lead sings in a warm clear mid-range with a gentle Batak ornament on held notes. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, A minor. Tender, curious mood. No electronic beats, no autotune, no rap, no synth pads, no big drum fills.",
+  "lyrics": "[Intro - hasapi, sulim]\n\n[Verse 1]\nDi bazar buku bekas perpustakaan Balige\nKubeli novel tua seribu rupiah\nDi kantong belakangnya ada kartu tanggal\nSatu nama berulang, Tigor Sihombing\n\n[Pre-Chorus]\nBuku kedua, namanya sama\nBuku ketiga, tulisannya sama\n\n[Chorus]\nSiapa kau, Tigor, yang baca duluan\nKau tandai halaman yang kutandai juga\nKupinjam semua yang pernah kau pinjam\nMungkin di rak mana kita berpapasan\n\n[Verse 2]\nIbu pustakawan tersenyum, ia tahu orangnya\nKatanya Tigor mengajar di Laguboti\nKutulis satu surat, kuselip di kartu\nTanggal kembali kuisi minggu depan\n\n[Chorus]\nSiapa kau, Tigor, yang baca duluan\nHari ini kubalik halaman yang sama\nKupinjam satu lagi, kuselip suratku\nSemoga kau yang membukanya berikutnya\n\n[Outro - sulim, hasapi]\nTanggal kembali, minggu depan\nMungkin kita bertemu di situ",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Toba Batak folk-pop love song. A hasapi two-string lute plays a steady plucked ostinato, a sulim bamboo flute answers between lines, a garantung wooden xylophone doubles the melody softly, a nylon-string acoustic guitar strums light chords, no drum kit. Dry wooden room sound, soft plate reverb, unhurried. A female lead sings in a warm clear mid-range with a gentle Batak ornament on held notes. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, A minor. Tender, curious mood. No electronic beats, no autotune, no rap, no synth pads, no big drum fills.",
+    "lyrics": "[Intro - hasapi, sulim]\n\n[Verse 1]\nDi bazar buku bekas perpustakaan Balige\nKubeli novel tua seribu rupiah\nDi kantong belakangnya ada kartu tanggal\nSatu nama berulang, Tigor Sihombing\n\n[Pre-Chorus]\nBuku kedua, namanya sama\nBuku ketiga, tulisannya sama\n\n[Chorus]\nSiapa kau, Tigor, yang baca duluan\nKau tandai halaman yang kutandai juga\nKupinjam semua yang pernah kau pinjam\nMungkin di rak mana kita berpapasan\n\n[Verse 2]\nIbu pustakawan tersenyum, ia tahu orangnya\nKatanya Tigor mengajar di Laguboti\nKutulis satu surat, kuselip di kartu\nTanggal kembali kuisi minggu depan\n\n[Chorus]\nSiapa kau, Tigor, yang baca duluan\nHari ini kubalik halaman yang sama\nKupinjam satu lagi, kuselip suratku\nSemoga kau yang membukanya berikutnya\n\n[Outro - sulim, hasapi]\nTanggal kembali, minggu depan\nMungkin kita bertemu di situ"
+  },
+  "seed": "1223166",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 47.33s**\n- 47.33s per song\n- LM phase (1 song): 6.48s\n- DiT phase (1 song): 40.85s",
+  "task_id": "4be9290f-9f9f-4c16-bd61-138bd260921e",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-22T23:58:54.993519+08:00",
+  "audio": "b23_id02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 25.96,
+      "end": 25.96,
+      "text": "[Intro - hasapi, sulim]"
+    },
+    {
+      "t": 25.96,
+      "end": 25.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.96,
+      "end": 32.1,
+      "text": "Di bazar buku bekas perpustakaan Balige"
+    },
+    {
+      "t": 34.4,
+      "end": 37.84,
+      "text": "Kubeli novel tua seribu rupiah"
+    },
+    {
+      "t": 40.8,
+      "end": 45.02,
+      "text": "Di kantong belakangnya ada kartu tanggal"
+    },
+    {
+      "t": 46.42,
+      "end": 50.65,
+      "text": "Satu nama berulang, Tigor Sihombing"
+    },
+    {
+      "t": 50.65,
+      "end": 50.65,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 50.65,
+      "end": 54.51,
+      "text": "Buku kedua, namanya sama"
+    },
+    {
+      "t": 54.53,
+      "end": 59.07,
+      "text": "Buku ketiga, tulisannya sama"
+    },
+    {
+      "t": 59.15,
+      "end": 59.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.15,
+      "end": 63.17,
+      "text": "Siapa kau, Tigor, yang baca duluan"
+    },
+    {
+      "t": 64.05,
+      "end": 71.51,
+      "text": "Kau tandai halaman yang kutandai juga"
+    },
+    {
+      "t": 72.55,
+      "end": 77.43,
+      "text": "Kupinjam semua yang pernah kau pinjam"
+    },
+    {
+      "t": 78.21,
+      "end": 83.11,
+      "text": "Mungkin di rak mana kita berpapasan"
+    },
+    {
+      "t": 85.71,
+      "end": 85.71,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.71,
+      "end": 93.91,
+      "text": "Ibu pustakawan tersenyum, ia tahu orangnya"
+    },
+    {
+      "t": 96.91,
+      "end": 99.97,
+      "text": "Katanya Tigor mengajar di Laguboti"
+    },
+    {
+      "t": 102.25,
+      "end": 108.41,
+      "text": "Kutulis satu surat, kuselip di kartu"
+    },
+    {
+      "t": 110.71,
+      "end": 114.31,
+      "text": "Tanggal kembali kuisi minggu depan"
+    },
+    {
+      "t": 116.09,
+      "end": 116.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.09,
+      "end": 125.97,
+      "text": "Siapa kau, Tigor, yang baca duluan"
+    },
+    {
+      "t": 129.65,
+      "end": 133.73,
+      "text": "Hari ini kubalik halaman yang sama"
+    },
+    {
+      "t": 136.45,
+      "end": 144.75,
+      "text": "Kupinjam satu lagi, kuselip suratku"
+    },
+    {
+      "t": 148.91,
+      "end": 156.62,
+      "text": "Semoga kau yang membukanya berikutnya"
+    },
+    {
+      "t": 162.16,
+      "end": 162.16,
+      "text": "[Outro - sulim, hasapi]"
+    },
+    {
+      "t": 162.16,
+      "end": 172.14,
+      "text": "Tanggal kembali, minggu depan"
+    },
+    {
+      "t": 173.62,
+      "end": 180.2,
+      "text": "Mungkin kita bertemu di situ"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 25.96,
+      "end": 25.96,
+      "text": "[Intro - hasapi, sulim]"
+    },
+    {
+      "t": 25.96,
+      "end": 25.96,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 25.96,
+      "end": 32.1,
+      "text": "Di bazar buku bekas perpustakaan Balige"
+    },
+    {
+      "t": 34.4,
+      "end": 37.88,
+      "text": "Kubeli novel tua seribu rupiah"
+    },
+    {
+      "t": 40.8,
+      "end": 44.6,
+      "text": "Di kantong belakangnya ada kartu tanggal"
+    },
+    {
+      "t": 46.42,
+      "end": 49.54,
+      "text": "Satu nama berulang, Tigor Sihombing"
+    },
+    {
+      "t": 49.54,
+      "end": 49.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.54,
+      "end": 50.31,
+      "text": "Buku kedua, namanya sama"
+    },
+    {
+      "t": 50.31,
+      "end": 54.69,
+      "text": "Buku ketiga, tulisannya sama"
+    },
+    {
+      "t": 58.67,
+      "end": 58.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.67,
+      "end": 63.19,
+      "text": "Siapa kau, Tigor, yang baca duluan"
+    },
+    {
+      "t": 64.05,
+      "end": 71.51,
+      "text": "Kau tandai halaman yang kutandai juga"
+    },
+    {
+      "t": 72.55,
+      "end": 77.43,
+      "text": "Kupinjam semua yang pernah kau pinjam"
+    },
+    {
+      "t": 78.21,
+      "end": 83.13,
+      "text": "Mungkin di rak mana kita berpapasan"
+    },
+    {
+      "t": 85.69,
+      "end": 85.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.69,
+      "end": 93.91,
+      "text": "Ibu pustakawan tersenyum, ia tahu orangnya"
+    },
+    {
+      "t": 96.91,
+      "end": 99.97,
+      "text": "Katanya Tigor mengajar di Laguboti"
+    },
+    {
+      "t": 102.25,
+      "end": 108.41,
+      "text": "Kutulis satu surat, kuselip di kartu"
+    },
+    {
+      "t": 110.71,
+      "end": 114.29,
+      "text": "Tanggal kembali kuisi minggu depan"
+    },
+    {
+      "t": 114.29,
+      "end": 114.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.29,
+      "end": 126.03,
+      "text": "Siapa kau, Tigor, yang baca duluan"
+    },
+    {
+      "t": 129.63,
+      "end": 133.09,
+      "text": "Hari ini kubalik halaman yang sama"
+    },
+    {
+      "t": 133.09,
+      "end": 149.71,
+      "text": "Kupinjam satu lagi, kuselip suratku"
+    },
+    {
+      "t": 149.75,
+      "end": 156.62,
+      "text": "Semoga kau yang membukanya berikutnya"
+    },
+    {
+      "t": 162.14,
+      "end": 162.14,
+      "text": "[Outro - sulim, hasapi]"
+    },
+    {
+      "t": 162.14,
+      "end": 172.2,
+      "text": "Tanggal kembali, minggu depan"
+    },
+    {
+      "t": 173.62,
+      "end": 180.2,
+      "text": "Mungkin kita bertemu di situ"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

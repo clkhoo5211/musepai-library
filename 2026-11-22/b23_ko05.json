@@ -1,0 +1,387 @@
+{
+  "id": "b23_ko05",
+  "title": "노아 인형이 없어졌어요",
+  "title_source": "scripted",
+  "genre": "Korean Sunday-school brass-hymn choir pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "joyful, flustered, warm",
+  "persona": "",
+  "subject": "A Sunday-school teacher who lost the felt Noah cutout before the lesson improvises with one of her own socks, and the children vote it the best Noah yet",
+  "caption": "Korean Sunday-school brass-hymn choir pop, bouncy walking two-beat march feel. Brass quartet with trumpet melody lines, trombone and tuba bass bounce, upright piano playing bright block chords, tambourine and hand claps on the backbeat, mixed choir of adults and children answering the lead in short call-and-response lines. Live church-hall room sound, natural reverb, bright and open. Female lead vocal, warm strong mid register, joyfully sung with clear Korean diction. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, Bb major. Joyful, flustered and warm. No drum machine, no electric guitar distortion, no autotune, no trap, no rap, no synth pads.",
+  "lyrics": "[Intro - piano and brass fanfare]\n[Verse 1]\n일요일 아침 교회 학교 교실\n펠트로 만든 노아가 없어졌어요\n방주도 있고 기린도 있는데\n주인공만 어디로 갔을까요\n[Pre-Chorus]\n시간은 다 됐고 아이들은 앉았고\n내 가방엔 양말 한 짝뿐이에요\n[Chorus]\n양말 노아 양말 노아 박수 쳐 주세요\n단추 눈이 달렸어요 방주 위에 서 있어요\n양말 노아 양말 노아 다 같이 불러요\n비가 내려도 걱정 없어요\n[Verse 2]\n손을 쏙 넣고 노아 목소리로\n사십 일 동안 비가 왔대요\n앞줄 아이가 손을 번쩍 들고\n발가락이 나왔다고 알려 줬어요\n[Chorus]\n양말 노아 양말 노아 박수 쳐 주세요\n단추 눈이 달렸어요 방주 위에 서 있어요\n양말 노아 양말 노아 다 같이 불러요\n비가 그쳐도 걱정 없어요\n[Bridge - choir only, hand claps]\n펠트 노아는 의자 밑에서\n다음 주에야 나왔는데\n아이들이 투표를 했어요\n양말 노아가 일등이래요\n[Chorus]\n양말 노아 양말 노아 박수 쳐 주세요\n이번 주도 와요 다음 주도 와요\n양말 노아 양말 노아 다 같이 불러요\n비가 그쳐도 걱정 없어요\n[Outro - brass fanfare]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Korean Sunday-school brass-hymn choir pop, bouncy walking two-beat march feel. Brass quartet with trumpet melody lines, trombone and tuba bass bounce, upright piano playing bright block chords, tambourine and hand claps on the backbeat, mixed choir of adults and children answering the lead in short call-and-response lines. Live church-hall room sound, natural reverb, bright and open. Female lead vocal, warm strong mid register, joyfully sung with clear Korean diction. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, Bb major. Joyful, flustered and warm. No drum machine, no electric guitar distortion, no autotune, no trap, no rap, no synth pads.",
+    "lyrics": "[Intro - piano and brass fanfare]\n[Verse 1]\n일요일 아침 교회 학교 교실\n펠트로 만든 노아가 없어졌어요\n방주도 있고 기린도 있는데\n주인공만 어디로 갔을까요\n[Pre-Chorus]\n시간은 다 됐고 아이들은 앉았고\n내 가방엔 양말 한 짝뿐이에요\n[Chorus]\n양말 노아 양말 노아 박수 쳐 주세요\n단추 눈이 달렸어요 방주 위에 서 있어요\n양말 노아 양말 노아 다 같이 불러요\n비가 내려도 걱정 없어요\n[Verse 2]\n손을 쏙 넣고 노아 목소리로\n사십 일 동안 비가 왔대요\n앞줄 아이가 손을 번쩍 들고\n발가락이 나왔다고 알려 줬어요\n[Chorus]\n양말 노아 양말 노아 박수 쳐 주세요\n단추 눈이 달렸어요 방주 위에 서 있어요\n양말 노아 양말 노아 다 같이 불러요\n비가 그쳐도 걱정 없어요\n[Bridge - choir only, hand claps]\n펠트 노아는 의자 밑에서\n다음 주에야 나왔는데\n아이들이 투표를 했어요\n양말 노아가 일등이래요\n[Chorus]\n양말 노아 양말 노아 박수 쳐 주세요\n이번 주도 와요 다음 주도 와요\n양말 노아 양말 노아 다 같이 불러요\n비가 그쳐도 걱정 없어요\n[Outro - brass fanfare]"
+  },
+  "seed": "70424808",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 48.08s**\n- 48.08s per song\n- LM phase (1 song): 10.03s\n- DiT phase (1 song): 38.05s",
+  "task_id": "a9ac03b5-9e3a-4b9b-a6d0-831f50237b78",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-22T23:51:44.267060+08:00",
+  "audio": "b23_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.2,
+      "end": 18.2,
+      "text": "[Intro - piano and brass fanfare]"
+    },
+    {
+      "t": 18.2,
+      "end": 18.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.2,
+      "end": 22.64,
+      "text": "일요일 아침 교회 학교 교실"
+    },
+    {
+      "t": 22.64,
+      "end": 26.6,
+      "text": "펠트로 만든 노아가 없어졌어요"
+    },
+    {
+      "t": 26.6,
+      "end": 30.46,
+      "text": "방주도 있고 기린도 있는데"
+    },
+    {
+      "t": 30.68,
+      "end": 32.0,
+      "text": "주인공만 어디로 갔을까요"
+    },
+    {
+      "t": 32.0,
+      "end": 32.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 32.0,
+      "end": 34.16,
+      "text": "시간은 다 됐고 아이들은 앉았고"
+    },
+    {
+      "t": 34.3,
+      "end": 36.16,
+      "text": "내 가방엔 양말 한 짝뿐이에요"
+    },
+    {
+      "t": 36.16,
+      "end": 36.16,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 36.16,
+      "end": 41.06,
+      "text": "양말 노아 양말 노아 박수 쳐 주세요"
+    },
+    {
+      "t": 44.64,
+      "end": 49.55,
+      "text": "단추 눈이 달렸어요 방주 위에 서 있어요"
+    },
+    {
+      "t": 53.69,
+      "end": 57.77,
+      "text": "양말 노아 양말 노아 다 같이 불러요"
+    },
+    {
+      "t": 57.93,
+      "end": 62.29,
+      "text": "비가 내려도 걱정 없어요"
+    },
+    {
+      "t": 62.69,
+      "end": 62.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.69,
+      "end": 66.53,
+      "text": "손을 쏙 넣고 노아 목소리로"
+    },
+    {
+      "t": 66.95,
+      "end": 69.73,
+      "text": "사십 일 동안 비가 왔대요"
+    },
+    {
+      "t": 71.25,
+      "end": 74.25,
+      "text": "앞줄 아이가 손을 번쩍 들고"
+    },
+    {
+      "t": 74.93,
+      "end": 79.27,
+      "text": "발가락이 나왔다고 알려 줬어요"
+    },
+    {
+      "t": 79.43,
+      "end": 79.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.43,
+      "end": 88.19,
+      "text": "양말 노아 양말 노아 박수 쳐 주세요"
+    },
+    {
+      "t": 88.49,
+      "end": 92.49,
+      "text": "단추 눈이 달렸어요 방주 위에 서 있어요"
+    },
+    {
+      "t": 92.79,
+      "end": 97.43,
+      "text": "양말 노아 양말 노아 다 같이 불러요"
+    },
+    {
+      "t": 100.21,
+      "end": 112.17,
+      "text": "비가 그쳐도 걱정 없어요"
+    },
+    {
+      "t": 114.43,
+      "end": 114.43,
+      "text": "[Bridge - choir only, hand claps]"
+    },
+    {
+      "t": 114.43,
+      "end": 117.97,
+      "text": "펠트 노아는 의자 밑에서"
+    },
+    {
+      "t": 118.59,
+      "end": 120.87,
+      "text": "다음 주에야 나왔는데"
+    },
+    {
+      "t": 122.95,
+      "end": 126.69,
+      "text": "아이들이 투표를 했어요"
+    },
+    {
+      "t": 127.07,
+      "end": 130.39,
+      "text": "양말 노아가 일등이래요"
+    },
+    {
+      "t": 131.33,
+      "end": 131.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.33,
+      "end": 137.79,
+      "text": "양말 노아 양말 노아 박수 쳐 주세요"
+    },
+    {
+      "t": 139.63,
+      "end": 154.86,
+      "text": "이번 주도 와요 다음 주도 와요"
+    },
+    {
+      "t": 158.96,
+      "end": 163.02,
+      "text": "양말 노아 양말 노아 다 같이 불러요"
+    },
+    {
+      "t": 163.68,
+      "end": 180.34,
+      "text": "비가 그쳐도 걱정 없어요"
+    },
+    {
+      "t": 180.34,
+      "end": 180.34,
+      "text": "[Outro - brass fanfare]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.2,
+      "end": 18.2,
+      "text": "[Intro - piano and brass fanfare]"
+    },
+    {
+      "t": 18.2,
+      "end": 18.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.2,
+      "end": 22.24,
+      "text": "일요일 아침 교회 학교 교실"
+    },
+    {
+      "t": 22.24,
+      "end": 26.6,
+      "text": "펠트로 만든 노아가 없어졌어요"
+    },
+    {
+      "t": 26.6,
+      "end": 30.46,
+      "text": "방주도 있고 기린도 있는데"
+    },
+    {
+      "t": 31.62,
+      "end": 34.96,
+      "text": "주인공만 어디로 갔을까요"
+    },
+    {
+      "t": 35.1,
+      "end": 35.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.1,
+      "end": 35.94,
+      "text": "시간은 다 됐고 아이들은 앉았고"
+    },
+    {
+      "t": 35.94,
+      "end": 37.24,
+      "text": "내 가방엔 양말 한 짝뿐이에요"
+    },
+    {
+      "t": 37.32,
+      "end": 37.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 37.32,
+      "end": 41.06,
+      "text": "양말 노아 양말 노아 박수 쳐 주세요"
+    },
+    {
+      "t": 44.64,
+      "end": 49.55,
+      "text": "단추 눈이 달렸어요 방주 위에 서 있어요"
+    },
+    {
+      "t": 53.69,
+      "end": 57.77,
+      "text": "양말 노아 양말 노아 다 같이 불러요"
+    },
+    {
+      "t": 57.93,
+      "end": 62.83,
+      "text": "비가 내려도 걱정 없어요"
+    },
+    {
+      "t": 62.85,
+      "end": 62.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.85,
+      "end": 66.55,
+      "text": "손을 쏙 넣고 노아 목소리로"
+    },
+    {
+      "t": 66.93,
+      "end": 69.75,
+      "text": "사십 일 동안 비가 왔대요"
+    },
+    {
+      "t": 71.25,
+      "end": 74.25,
+      "text": "앞줄 아이가 손을 번쩍 들고"
+    },
+    {
+      "t": 74.91,
+      "end": 79.27,
+      "text": "발가락이 나왔다고 알려 줬어요"
+    },
+    {
+      "t": 79.45,
+      "end": 79.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.45,
+      "end": 83.55,
+      "text": "양말 노아 양말 노아 박수 쳐 주세요"
+    },
+    {
+      "t": 84.51,
+      "end": 92.49,
+      "text": "단추 눈이 달렸어요 방주 위에 서 있어요"
+    },
+    {
+      "t": 92.79,
+      "end": 97.43,
+      "text": "양말 노아 양말 노아 다 같이 불러요"
+    },
+    {
+      "t": 100.19,
+      "end": 114.43,
+      "text": "비가 그쳐도 걱정 없어요"
+    },
+    {
+      "t": 114.43,
+      "end": 114.43,
+      "text": "[Bridge - choir only, hand claps]"
+    },
+    {
+      "t": 114.43,
+      "end": 117.97,
+      "text": "펠트 노아는 의자 밑에서"
+    },
+    {
+      "t": 118.59,
+      "end": 120.87,
+      "text": "다음 주에야 나왔는데"
+    },
+    {
+      "t": 122.95,
+      "end": 126.71,
+      "text": "아이들이 투표를 했어요"
+    },
+    {
+      "t": 127.05,
+      "end": 130.41,
+      "text": "양말 노아가 일등이래요"
+    },
+    {
+      "t": 133.47,
+      "end": 133.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.47,
+      "end": 152.24,
+      "text": "양말 노아 양말 노아 박수 쳐 주세요"
+    },
+    {
+      "t": 152.5,
+      "end": 154.92,
+      "text": "이번 주도 와요 다음 주도 와요"
+    },
+    {
+      "t": 158.96,
+      "end": 163.02,
+      "text": "양말 노아 양말 노아 다 같이 불러요"
+    },
+    {
+      "t": 163.68,
+      "end": 167.24,
+      "text": "비가 그쳐도 걱정 없어요"
+    },
+    {
+      "t": 167.24,
+      "end": 167.24,
+      "text": "[Outro - brass fanfare]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

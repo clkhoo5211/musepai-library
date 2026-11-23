@@ -1,0 +1,377 @@
+{
+  "id": "b23_zh02",
+  "title": "卡帶轉啊轉",
+  "title_source": "scripted",
+  "genre": "Tibetan-inflected dranyen folk-pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "wry, breezy, danceable",
+  "persona": "",
+  "subject": "a long-haul truck driver on the Sichuan-Tibet highway whose only cassette was chewed by the deck, winds it back with a pencil at every rest stop, and now the song wobbles and he sings along with the wobble",
+  "caption": "Tibetan-inflected dranyen folk-pop, bouncing 4/4 dance-folk groove with a high-plateau highway setting. dranyen lute strummed in bouncing triplet-flavoured eighths with ringing open strings, a goblet drum and a Tibetan hand frame drum keeping a rolling pulse, a cello holding a low sustained drone, a high bamboo flute doubling the hook. warm live-room acoustic mix with wide natural reverb, no electronic bass, handclaps on the off-beats. male lead, bright baritone with relaxed open-throat folk delivery, clearly sung, short call-style hook. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, A minor. wry, breezy, danceable mood. No rap, no autotune, no electronic drums, no synth bass, no throat-singing growls, no EDM drop.",
+  "lyrics": "[Intro - dranyen and hand drum]\n\n[Verse 1]\n高原公路 一條線\n卡帶吃進去 吐出一團黑\n鉛筆插進孔 轉一轉\n歌又回來了 慢了半拍\n\n[Pre-Chorus]\n我在休息站 轉啊轉\n太陽曬著 方向盤\n\n[Chorus]\n卡帶轉啊轉 歌也搖啊搖\n唱到一半 它自己晃\n我也晃 方向盤跟著晃\n卡帶轉啊轉 一路唱回家\n\n[Verse 2]\n老闆說 買新的吧\n我說 這捲 我聽了十年\n壞了一個地方 剛好是副歌\n我就跟著 壞的那邊唱\n\n[Chorus]\n卡帶轉啊轉 歌也搖啊搖\n唱到一半 它自己晃\n我也晃 方向盤跟著晃\n卡帶轉啊轉 一路唱到山口\n\n[Bridge - dranyen and flute alone]\n鉛筆短了 再削一削\n削下來的木屑 吹給風\n\n[Chorus]\n卡帶轉啊轉 歌也搖啊搖\n唱到一半 它自己晃\n我也晃 全車的人都晃\n卡帶轉啊轉 一路唱回家\n\n[Outro - flute and dranyen, fading]\n下個休息站 再轉一圈",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Tibetan-inflected dranyen folk-pop, bouncing 4/4 dance-folk groove with a high-plateau highway setting. dranyen lute strummed in bouncing triplet-flavoured eighths with ringing open strings, a goblet drum and a Tibetan hand frame drum keeping a rolling pulse, a cello holding a low sustained drone, a high bamboo flute doubling the hook. warm live-room acoustic mix with wide natural reverb, no electronic bass, handclaps on the off-beats. male lead, bright baritone with relaxed open-throat folk delivery, clearly sung, short call-style hook. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, A minor. wry, breezy, danceable mood. No rap, no autotune, no electronic drums, no synth bass, no throat-singing growls, no EDM drop.",
+    "lyrics": "[Intro - dranyen and hand drum]\n\n[Verse 1]\n高原公路 一條線\n卡帶吃進去 吐出一團黑\n鉛筆插進孔 轉一轉\n歌又回來了 慢了半拍\n\n[Pre-Chorus]\n我在休息站 轉啊轉\n太陽曬著 方向盤\n\n[Chorus]\n卡帶轉啊轉 歌也搖啊搖\n唱到一半 它自己晃\n我也晃 方向盤跟著晃\n卡帶轉啊轉 一路唱回家\n\n[Verse 2]\n老闆說 買新的吧\n我說 這捲 我聽了十年\n壞了一個地方 剛好是副歌\n我就跟著 壞的那邊唱\n\n[Chorus]\n卡帶轉啊轉 歌也搖啊搖\n唱到一半 它自己晃\n我也晃 方向盤跟著晃\n卡帶轉啊轉 一路唱到山口\n\n[Bridge - dranyen and flute alone]\n鉛筆短了 再削一削\n削下來的木屑 吹給風\n\n[Chorus]\n卡帶轉啊轉 歌也搖啊搖\n唱到一半 它自己晃\n我也晃 全車的人都晃\n卡帶轉啊轉 一路唱回家\n\n[Outro - flute and dranyen, fading]\n下個休息站 再轉一圈"
+  },
+  "seed": "2812874169",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 44.12s**\n- 44.12s per song\n- LM phase (1 song): 6.06s\n- DiT phase (1 song): 38.06s",
+  "task_id": "58bb39df-4e53-42dc-8b8b-2d3c17e5ca01",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-23T00:21:17.538712+08:00",
+  "audio": "b23_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.62,
+      "end": 27.62,
+      "text": "[Intro - dranyen and hand drum]"
+    },
+    {
+      "t": 27.62,
+      "end": 27.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.62,
+      "end": 30.56,
+      "text": "高原公路 一條線"
+    },
+    {
+      "t": 31.88,
+      "end": 35.02,
+      "text": "卡帶吃進去 吐出一團黑"
+    },
+    {
+      "t": 36.38,
+      "end": 39.34,
+      "text": "鉛筆插進孔 轉一轉"
+    },
+    {
+      "t": 40.44,
+      "end": 43.68,
+      "text": "歌又回來了 慢了半拍"
+    },
+    {
+      "t": 45.38,
+      "end": 45.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.38,
+      "end": 48.52,
+      "text": "我在休息站 轉啊轉"
+    },
+    {
+      "t": 49.27,
+      "end": 52.21,
+      "text": "太陽曬著 方向盤"
+    },
+    {
+      "t": 53.45,
+      "end": 53.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.45,
+      "end": 56.67,
+      "text": "卡帶轉啊轉 歌也搖啊搖"
+    },
+    {
+      "t": 57.61,
+      "end": 60.83,
+      "text": "唱到一半 它自己晃"
+    },
+    {
+      "t": 61.51,
+      "end": 64.15,
+      "text": "我也晃 方向盤跟著晃"
+    },
+    {
+      "t": 64.21,
+      "end": 66.05,
+      "text": "卡帶轉啊轉 一路唱回家"
+    },
+    {
+      "t": 66.05,
+      "end": 66.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.05,
+      "end": 78.53,
+      "text": "老闆說 買新的吧"
+    },
+    {
+      "t": 78.53,
+      "end": 79.17,
+      "text": "我說 這捲 我聽了十年"
+    },
+    {
+      "t": 79.17,
+      "end": 80.39,
+      "text": "壞了一個地方 剛好是副歌"
+    },
+    {
+      "t": 80.39,
+      "end": 82.25,
+      "text": "我就跟著 壞的那邊唱"
+    },
+    {
+      "t": 82.25,
+      "end": 82.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.25,
+      "end": 85.09,
+      "text": "卡帶轉啊轉 歌也搖啊搖"
+    },
+    {
+      "t": 86.03,
+      "end": 89.25,
+      "text": "唱到一半 它自己晃"
+    },
+    {
+      "t": 90.29,
+      "end": 93.63,
+      "text": "我也晃 方向盤跟著晃"
+    },
+    {
+      "t": 94.37,
+      "end": 101.69,
+      "text": "卡帶轉啊轉 一路唱到山口"
+    },
+    {
+      "t": 107.67,
+      "end": 107.67,
+      "text": "[Bridge - dranyen and flute alone]"
+    },
+    {
+      "t": 107.67,
+      "end": 110.87,
+      "text": "鉛筆短了 再削一削"
+    },
+    {
+      "t": 110.89,
+      "end": 117.13,
+      "text": "削下來的木屑 吹給風"
+    },
+    {
+      "t": 142.99,
+      "end": 142.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.99,
+      "end": 146.42,
+      "text": "卡帶轉啊轉 歌也搖啊搖"
+    },
+    {
+      "t": 148.32,
+      "end": 151.86,
+      "text": "唱到一半 它自己晃"
+    },
+    {
+      "t": 152.1,
+      "end": 156.12,
+      "text": "我也晃 全車的人都晃"
+    },
+    {
+      "t": 156.38,
+      "end": 160.38,
+      "text": "卡帶轉啊轉 一路唱回家"
+    },
+    {
+      "t": 161.68,
+      "end": 161.68,
+      "text": "[Outro - flute and dranyen, fading]"
+    },
+    {
+      "t": 161.68,
+      "end": 165.48,
+      "text": "下個休息站 再轉一圈"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.62,
+      "end": 27.62,
+      "text": "[Intro - dranyen and hand drum]"
+    },
+    {
+      "t": 27.62,
+      "end": 27.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.62,
+      "end": 30.56,
+      "text": "高原公路 一條線"
+    },
+    {
+      "t": 31.88,
+      "end": 35.0,
+      "text": "卡帶吃進去 吐出一團黑"
+    },
+    {
+      "t": 36.36,
+      "end": 39.36,
+      "text": "鉛筆插進孔 轉一轉"
+    },
+    {
+      "t": 40.44,
+      "end": 43.66,
+      "text": "歌又回來了 慢了半拍"
+    },
+    {
+      "t": 45.4,
+      "end": 45.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.4,
+      "end": 48.54,
+      "text": "我在休息站 轉啊轉"
+    },
+    {
+      "t": 49.27,
+      "end": 52.19,
+      "text": "太陽曬著 方向盤"
+    },
+    {
+      "t": 53.45,
+      "end": 53.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.45,
+      "end": 56.67,
+      "text": "卡帶轉啊轉 歌也搖啊搖"
+    },
+    {
+      "t": 57.61,
+      "end": 60.81,
+      "text": "唱到一半 它自己晃"
+    },
+    {
+      "t": 61.47,
+      "end": 63.89,
+      "text": "我也晃 方向盤跟著晃"
+    },
+    {
+      "t": 63.93,
+      "end": 65.05,
+      "text": "卡帶轉啊轉 一路唱回家"
+    },
+    {
+      "t": 65.05,
+      "end": 65.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.05,
+      "end": 78.47,
+      "text": "老闆說 買新的吧"
+    },
+    {
+      "t": 78.47,
+      "end": 79.17,
+      "text": "我說 這捲 我聽了十年"
+    },
+    {
+      "t": 79.17,
+      "end": 80.39,
+      "text": "壞了一個地方 剛好是副歌"
+    },
+    {
+      "t": 80.39,
+      "end": 82.51,
+      "text": "我就跟著 壞的那邊唱"
+    },
+    {
+      "t": 82.51,
+      "end": 82.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 82.51,
+      "end": 85.07,
+      "text": "卡帶轉啊轉 歌也搖啊搖"
+    },
+    {
+      "t": 86.03,
+      "end": 89.25,
+      "text": "唱到一半 它自己晃"
+    },
+    {
+      "t": 90.29,
+      "end": 93.63,
+      "text": "我也晃 方向盤跟著晃"
+    },
+    {
+      "t": 94.37,
+      "end": 101.69,
+      "text": "卡帶轉啊轉 一路唱到山口"
+    },
+    {
+      "t": 107.69,
+      "end": 107.69,
+      "text": "[Bridge - dranyen and flute alone]"
+    },
+    {
+      "t": 107.69,
+      "end": 110.89,
+      "text": "鉛筆短了 再削一削"
+    },
+    {
+      "t": 110.89,
+      "end": 135.39,
+      "text": "削下來的木屑 吹給風"
+    },
+    {
+      "t": 142.99,
+      "end": 142.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.99,
+      "end": 146.62,
+      "text": "卡帶轉啊轉 歌也搖啊搖"
+    },
+    {
+      "t": 148.3,
+      "end": 151.84,
+      "text": "唱到一半 它自己晃"
+    },
+    {
+      "t": 152.12,
+      "end": 156.12,
+      "text": "我也晃 全車的人都晃"
+    },
+    {
+      "t": 156.38,
+      "end": 162.22,
+      "text": "卡帶轉啊轉 一路唱回家"
+    },
+    {
+      "t": 162.22,
+      "end": 162.22,
+      "text": "[Outro - flute and dranyen, fading]"
+    },
+    {
+      "t": 162.22,
+      "end": 171.8,
+      "text": "下個休息站 再轉一圈"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

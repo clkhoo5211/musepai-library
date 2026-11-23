@@ -1,0 +1,357 @@
+{
+  "id": "b23_en02",
+  "title": "Odd Days, Even Days",
+  "title_source": "scripted",
+  "genre": "baroque pop (harpsichord and strings, 1967 lineage)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wistful, tender, gently comic",
+  "persona": "",
+  "subject": "Sixty-year-old identical twin brothers own one old bicycle between them and ride it on alternate dates, odd days for one and even days for the other, until the 31st of the month starts an argument.",
+  "caption": "Baroque pop, gentle 4/4 lilt with a walking bassline. Bright harpsichord playing broken-chord figures, a string quartet with sweeping legato cello and violin countermelodies, felt piano doubling the vocal, a solo flute answering the chorus, soft brushed snare and round electric bass. 1967 London studio texture, plate reverb, warm tape saturation, strings forward. Male lead, light clear tenor, intimate mid register, tender delivery with close double-tracked harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D major. Wistful, tender, gently comic. No drum machine, no electric guitar distortion, no synth pads, no autotune, no modern pop production.",
+  "lyrics": "[Intro - harpsichord figure, then cello and flute enter]\n\n[Verse 1]\nOne old bicycle, two grey men\nSame chin, same cough, same walk back then\nOdd days Edwin, even days me\nThat's the deal we signed at seventy-three\n\n[Chorus]\nOdd days, even days, we take our turns\nTwin of mine, I'll wait at the gate\nHe leaves a note in the basket each night\n\"Mind the left brake, it pulls to the right\"\n\n[Verse 2]\nThirty-one comes round like a bill\nWhose turn is it? Neither of us will\nSay it's his, so we both stand still\nTwo old brothers at the foot of the hill\n\n[Chorus]\nOdd days, even days, we take our turns\nTwin of mine, I'll wait at the gate\nI hear his bell come up the lane\nMy turn to wait, my turn again\n\n[Bridge - strings alone, harpsichord rolling]\nTwo shadows on one wheel\nGoing round the way they feel\n\n[Chorus]\nOdd days, even days, we take our turns\nBut the thirty-first, we ride it together\nHim on the saddle and me on the bar\nTwin of mine, it isn't far\n\n[Outro - flute and harpsichord, strings fade]\nOdd days, even days\nOne bicycle, two ways",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Baroque pop, gentle 4/4 lilt with a walking bassline. Bright harpsichord playing broken-chord figures, a string quartet with sweeping legato cello and violin countermelodies, felt piano doubling the vocal, a solo flute answering the chorus, soft brushed snare and round electric bass. 1967 London studio texture, plate reverb, warm tape saturation, strings forward. Male lead, light clear tenor, intimate mid register, tender delivery with close double-tracked harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D major. Wistful, tender, gently comic. No drum machine, no electric guitar distortion, no synth pads, no autotune, no modern pop production.",
+    "lyrics": "[Intro - harpsichord figure, then cello and flute enter]\n\n[Verse 1]\nOne old bicycle, two grey men\nSame chin, same cough, same walk back then\nOdd days Edwin, even days me\nThat's the deal we signed at seventy-three\n\n[Chorus]\nOdd days, even days, we take our turns\nTwin of mine, I'll wait at the gate\nHe leaves a note in the basket each night\n\"Mind the left brake, it pulls to the right\"\n\n[Verse 2]\nThirty-one comes round like a bill\nWhose turn is it? Neither of us will\nSay it's his, so we both stand still\nTwo old brothers at the foot of the hill\n\n[Chorus]\nOdd days, even days, we take our turns\nTwin of mine, I'll wait at the gate\nI hear his bell come up the lane\nMy turn to wait, my turn again\n\n[Bridge - strings alone, harpsichord rolling]\nTwo shadows on one wheel\nGoing round the way they feel\n\n[Chorus]\nOdd days, even days, we take our turns\nBut the thirty-first, we ride it together\nHim on the saddle and me on the bar\nTwin of mine, it isn't far\n\n[Outro - flute and harpsichord, strings fade]\nOdd days, even days\nOne bicycle, two ways"
+  },
+  "seed": "1984026891",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 51.28s**\n- 51.28s per song\n- LM phase (1 song): 10.32s\n- DiT phase (1 song): 40.96s",
+  "task_id": "0432e24f-9464-4953-bbdb-919bef3a33a1",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-23T00:15:36.968364+08:00",
+  "audio": "b23_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.44,
+      "end": 23.44,
+      "text": "[Intro - harpsichord figure, then cello and flute enter]"
+    },
+    {
+      "t": 23.44,
+      "end": 23.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.44,
+      "end": 26.22,
+      "text": "One old bicycle, two grey men"
+    },
+    {
+      "t": 26.34,
+      "end": 30.62,
+      "text": "Same chin, same cough, same walk back then"
+    },
+    {
+      "t": 32.36,
+      "end": 35.46,
+      "text": "Odd days Edwin, even days me"
+    },
+    {
+      "t": 37.64,
+      "end": 39.2,
+      "text": "That's the deal we signed at seventy-three"
+    },
+    {
+      "t": 39.2,
+      "end": 39.2,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.2,
+      "end": 40.36,
+      "text": "Odd days, even days, we take our turns"
+    },
+    {
+      "t": 41.06,
+      "end": 51.59,
+      "text": "Twin of mine, I'll wait at the gate"
+    },
+    {
+      "t": 51.51,
+      "end": 55.03,
+      "text": "He leaves a note in the basket each night"
+    },
+    {
+      "t": 56.03,
+      "end": 59.95,
+      "text": "\"Mind the left brake, it pulls to the right\""
+    },
+    {
+      "t": 62.31,
+      "end": 62.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.31,
+      "end": 65.29,
+      "text": "Thirty-one comes round like a bill"
+    },
+    {
+      "t": 66.99,
+      "end": 70.63,
+      "text": "Whose turn is it? Neither of us will"
+    },
+    {
+      "t": 72.95,
+      "end": 75.57,
+      "text": "Say it's his, so we both stand still"
+    },
+    {
+      "t": 75.67,
+      "end": 79.01,
+      "text": "Two old brothers at the foot of the hill"
+    },
+    {
+      "t": 79.03,
+      "end": 79.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.03,
+      "end": 84.93,
+      "text": "Odd days, even days, we take our turns"
+    },
+    {
+      "t": 85.95,
+      "end": 89.53,
+      "text": "Twin of mine, I'll wait at the gate"
+    },
+    {
+      "t": 91.45,
+      "end": 94.55,
+      "text": "I hear his bell come up the lane"
+    },
+    {
+      "t": 95.89,
+      "end": 99.63,
+      "text": "My turn to wait, my turn again"
+    },
+    {
+      "t": 102.97,
+      "end": 102.97,
+      "text": "[Bridge - strings alone, harpsichord rolling]"
+    },
+    {
+      "t": 102.97,
+      "end": 107.63,
+      "text": "Two shadows on one wheel"
+    },
+    {
+      "t": 112.03,
+      "end": 117.17,
+      "text": "Going round the way they feel"
+    },
+    {
+      "t": 119.09,
+      "end": 119.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 119.09,
+      "end": 123.09,
+      "text": "Odd days, even days, we take our turns"
+    },
+    {
+      "t": 123.99,
+      "end": 139.05,
+      "text": "But the thirty-first, we ride it together"
+    },
+    {
+      "t": 141.33,
+      "end": 144.43,
+      "text": "Him on the saddle and me on the bar"
+    },
+    {
+      "t": 147.25,
+      "end": 151.02,
+      "text": "Twin of mine, it isn't far"
+    },
+    {
+      "t": 161.4,
+      "end": 161.4,
+      "text": "[Outro - flute and harpsichord, strings fade]"
+    },
+    {
+      "t": 161.4,
+      "end": 169.72,
+      "text": "Odd days, even days"
+    },
+    {
+      "t": 171.58,
+      "end": 179.78,
+      "text": "One bicycle, two ways"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.44,
+      "end": 23.44,
+      "text": "[Intro - harpsichord figure, then cello and flute enter]"
+    },
+    {
+      "t": 23.44,
+      "end": 23.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.44,
+      "end": 26.22,
+      "text": "One old bicycle, two grey men"
+    },
+    {
+      "t": 26.34,
+      "end": 30.62,
+      "text": "Same chin, same cough, same walk back then"
+    },
+    {
+      "t": 32.36,
+      "end": 35.46,
+      "text": "Odd days Edwin, even days me"
+    },
+    {
+      "t": 37.62,
+      "end": 40.3,
+      "text": "That's the deal we signed at seventy-three"
+    },
+    {
+      "t": 40.3,
+      "end": 40.3,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 40.3,
+      "end": 41.06,
+      "text": "Odd days, even days, we take our turns"
+    },
+    {
+      "t": 41.06,
+      "end": 51.59,
+      "text": "Twin of mine, I'll wait at the gate"
+    },
+    {
+      "t": 51.59,
+      "end": 55.03,
+      "text": "He leaves a note in the basket each night"
+    },
+    {
+      "t": 56.03,
+      "end": 59.95,
+      "text": "\"Mind the left brake, it pulls to the right\""
+    },
+    {
+      "t": 62.29,
+      "end": 62.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.29,
+      "end": 65.31,
+      "text": "Thirty-one comes round like a bill"
+    },
+    {
+      "t": 66.99,
+      "end": 70.63,
+      "text": "Whose turn is it? Neither of us will"
+    },
+    {
+      "t": 72.95,
+      "end": 75.57,
+      "text": "Say it's his, so we both stand still"
+    },
+    {
+      "t": 75.67,
+      "end": 79.03,
+      "text": "Two old brothers at the foot of the hill"
+    },
+    {
+      "t": 81.11,
+      "end": 81.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.11,
+      "end": 84.91,
+      "text": "Odd days, even days, we take our turns"
+    },
+    {
+      "t": 85.95,
+      "end": 89.51,
+      "text": "Twin of mine, I'll wait at the gate"
+    },
+    {
+      "t": 91.45,
+      "end": 94.59,
+      "text": "I hear his bell come up the lane"
+    },
+    {
+      "t": 95.87,
+      "end": 99.65,
+      "text": "My turn to wait, my turn again"
+    },
+    {
+      "t": 102.97,
+      "end": 102.97,
+      "text": "[Bridge - strings alone, harpsichord rolling]"
+    },
+    {
+      "t": 102.97,
+      "end": 108.07,
+      "text": "Two shadows on one wheel"
+    },
+    {
+      "t": 112.01,
+      "end": 122.07,
+      "text": "Going round the way they feel"
+    },
+    {
+      "t": 122.07,
+      "end": 122.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.07,
+      "end": 134.33,
+      "text": "Odd days, even days, we take our turns"
+    },
+    {
+      "t": 134.65,
+      "end": 139.07,
+      "text": "But the thirty-first, we ride it together"
+    },
+    {
+      "t": 141.31,
+      "end": 144.47,
+      "text": "Him on the saddle and me on the bar"
+    },
+    {
+      "t": 147.25,
+      "end": 151.04,
+      "text": "Twin of mine, it isn't far"
+    },
+    {
+      "t": 161.38,
+      "end": 161.38,
+      "text": "[Outro - flute and harpsichord, strings fade]"
+    },
+    {
+      "t": 161.38,
+      "end": 169.72,
+      "text": "Odd days, even days"
+    },
+    {
+      "t": 171.58,
+      "end": 179.78,
+      "text": "One bicycle, two ways"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

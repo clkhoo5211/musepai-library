@@ -1,0 +1,387 @@
+{
+  "id": "b23_zh04",
+  "title": "京胡的音準",
+  "title_source": "scripted",
+  "genre": "Peking-opera-tinged jingju pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "brisk, comic, warm",
+  "persona": "",
+  "subject": "a piano tuner called to an opera troupe's practice room finds the upright piano tuned to A 440 while the jinghu player insists on a lower pitch, so the two argue and finally meet in the middle",
+  "caption": "Peking-opera-tinged jingju pop, brisk 4/4 with jingju percussion accents and a theatre practice-room setting. jinghu fiddle sawing a bright nasal melody, yueqin moon-lute plucked in quick rhythmic patterns, bangu small drum and clappers marking sharp accents, upright piano with a bright hammered tone playing the chords, a bass guitar on the roots. dry close tight acoustic mix with theatre-stage room ambience, bright and forward, no wash of reverb. male lead with a clear forward jingju-flavoured tone, crisp consonants and short ornamented phrases, clearly sung not shouted. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, E major. brisk, comic, warm mood. No rap, no autotune, no synth bass, no electronic drums, no electric guitar, no sustained opera falsetto screeching.",
+  "lyrics": "[Intro - jinghu, bangu and piano]\n\n[Verse 1]\n劇團練功房 一台老鋼琴\n我帶著音叉 來調音\n我說 標準音 四四零\n胡琴師傅 皺了眉頭\n\n[Pre-Chorus]\n他說 我們的調 低半個音\n我說 琴鍵 不能說改就改\n\n[Chorus]\n你低一點 我高一點\n音叉敲一敲 大家聽一聽\n你的弦鬆 我的鍵緊\n我們中間見\n\n[Verse 2]\n他拉一段 我按一個鍵\n他搖頭 我也搖頭\n旁邊的花旦 笑到彎腰\n她說 你們兩個 才是一齣戲\n\n[Chorus]\n你低一點 我高一點\n音叉敲一敲 大家聽一聽\n你的弦鬆 我的鍵緊\n這一次 對上了\n\n[Bridge - bangu and piano alone]\n鋼琴不會唱戲\n胡琴不會彈和弦\n可是一起響 就是一個調\n\n[Chorus]\n你低一點 我高一點\n音叉敲一敲 大家聽一聽\n你的弦鬆 我的鍵緊\n我們中間見\n\n[Outro - jinghu and bangu, with a final piano chord]\n師傅說 明天 再來調一次",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "Peking-opera-tinged jingju pop, brisk 4/4 with jingju percussion accents and a theatre practice-room setting. jinghu fiddle sawing a bright nasal melody, yueqin moon-lute plucked in quick rhythmic patterns, bangu small drum and clappers marking sharp accents, upright piano with a bright hammered tone playing the chords, a bass guitar on the roots. dry close tight acoustic mix with theatre-stage room ambience, bright and forward, no wash of reverb. male lead with a clear forward jingju-flavoured tone, crisp consonants and short ornamented phrases, clearly sung not shouted. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, E major. brisk, comic, warm mood. No rap, no autotune, no synth bass, no electronic drums, no electric guitar, no sustained opera falsetto screeching.",
+    "lyrics": "[Intro - jinghu, bangu and piano]\n\n[Verse 1]\n劇團練功房 一台老鋼琴\n我帶著音叉 來調音\n我說 標準音 四四零\n胡琴師傅 皺了眉頭\n\n[Pre-Chorus]\n他說 我們的調 低半個音\n我說 琴鍵 不能說改就改\n\n[Chorus]\n你低一點 我高一點\n音叉敲一敲 大家聽一聽\n你的弦鬆 我的鍵緊\n我們中間見\n\n[Verse 2]\n他拉一段 我按一個鍵\n他搖頭 我也搖頭\n旁邊的花旦 笑到彎腰\n她說 你們兩個 才是一齣戲\n\n[Chorus]\n你低一點 我高一點\n音叉敲一敲 大家聽一聽\n你的弦鬆 我的鍵緊\n這一次 對上了\n\n[Bridge - bangu and piano alone]\n鋼琴不會唱戲\n胡琴不會彈和弦\n可是一起響 就是一個調\n\n[Chorus]\n你低一點 我高一點\n音叉敲一敲 大家聽一聽\n你的弦鬆 我的鍵緊\n我們中間見\n\n[Outro - jinghu and bangu, with a final piano chord]\n師傅說 明天 再來調一次"
+  },
+  "seed": "1448305440",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.01s**\n- 52.01s per song\n- LM phase (1 song): 10.32s\n- DiT phase (1 song): 41.69s",
+  "task_id": "5c6d2ef1-77d9-443d-92b8-8bb4f668f4b6",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-23T00:23:27.731745+08:00",
+  "audio": "b23_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.78,
+      "end": 34.78,
+      "text": "[Intro - jinghu, bangu and piano]"
+    },
+    {
+      "t": 34.78,
+      "end": 34.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.78,
+      "end": 39.18,
+      "text": "劇團練功房 一台老鋼琴"
+    },
+    {
+      "t": 42.82,
+      "end": 47.12,
+      "text": "我帶著音叉 來調音"
+    },
+    {
+      "t": 47.18,
+      "end": 50.73,
+      "text": "我說 標準音 四四零"
+    },
+    {
+      "t": 50.73,
+      "end": 55.39,
+      "text": "胡琴師傅 皺了眉頭"
+    },
+    {
+      "t": 58.51,
+      "end": 58.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.51,
+      "end": 61.93,
+      "text": "他說 我們的調 低半個音"
+    },
+    {
+      "t": 67.01,
+      "end": 72.45,
+      "text": "我說 琴鍵 不能說改就改"
+    },
+    {
+      "t": 74.81,
+      "end": 74.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 74.81,
+      "end": 78.05,
+      "text": "你低一點 我高一點"
+    },
+    {
+      "t": 78.59,
+      "end": 83.05,
+      "text": "音叉敲一敲 大家聽一聽"
+    },
+    {
+      "t": 83.05,
+      "end": 86.03,
+      "text": "你的弦鬆 我的鍵緊"
+    },
+    {
+      "t": 86.07,
+      "end": 89.07,
+      "text": "我們中間見"
+    },
+    {
+      "t": 89.11,
+      "end": 89.11,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.11,
+      "end": 95.37,
+      "text": "他拉一段 我按一個鍵"
+    },
+    {
+      "t": 95.41,
+      "end": 96.09,
+      "text": "他搖頭 我也搖頭"
+    },
+    {
+      "t": 96.13,
+      "end": 100.05,
+      "text": "旁邊的花旦 笑到彎腰"
+    },
+    {
+      "t": 100.05,
+      "end": 103.97,
+      "text": "她說 你們兩個 才是一齣戲"
+    },
+    {
+      "t": 104.03,
+      "end": 104.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.03,
+      "end": 106.97,
+      "text": "你低一點 我高一點"
+    },
+    {
+      "t": 107.11,
+      "end": 112.01,
+      "text": "音叉敲一敲 大家聽一聽"
+    },
+    {
+      "t": 112.07,
+      "end": 115.33,
+      "text": "你的弦鬆 我的鍵緊"
+    },
+    {
+      "t": 115.35,
+      "end": 116.95,
+      "text": "這一次 對上了"
+    },
+    {
+      "t": 117.05,
+      "end": 117.05,
+      "text": "[Bridge - bangu and piano alone]"
+    },
+    {
+      "t": 117.05,
+      "end": 120.09,
+      "text": "鋼琴不會唱戲"
+    },
+    {
+      "t": 120.09,
+      "end": 123.05,
+      "text": "胡琴不會彈和弦"
+    },
+    {
+      "t": 132.53,
+      "end": 137.37,
+      "text": "可是一起響 就是一個調"
+    },
+    {
+      "t": 138.79,
+      "end": 138.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 138.79,
+      "end": 142.05,
+      "text": "你低一點 我高一點"
+    },
+    {
+      "t": 142.58,
+      "end": 147.06,
+      "text": "音叉敲一敲 大家聽一聽"
+    },
+    {
+      "t": 147.06,
+      "end": 150.06,
+      "text": "你的弦鬆 我的鍵緊"
+    },
+    {
+      "t": 151.08,
+      "end": 153.72,
+      "text": "我們中間見"
+    },
+    {
+      "t": 159.04,
+      "end": 159.04,
+      "text": "[Outro - jinghu and bangu, with a final piano chord]"
+    },
+    {
+      "t": 159.04,
+      "end": 183.54,
+      "text": "師傅說 明天 再來調一次"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.76,
+      "end": 34.76,
+      "text": "[Intro - jinghu, bangu and piano]"
+    },
+    {
+      "t": 34.76,
+      "end": 34.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.76,
+      "end": 39.18,
+      "text": "劇團練功房 一台老鋼琴"
+    },
+    {
+      "t": 42.8,
+      "end": 47.08,
+      "text": "我帶著音叉 來調音"
+    },
+    {
+      "t": 47.14,
+      "end": 51.13,
+      "text": "我說 標準音 四四零"
+    },
+    {
+      "t": 51.15,
+      "end": 55.37,
+      "text": "胡琴師傅 皺了眉頭"
+    },
+    {
+      "t": 58.51,
+      "end": 58.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.51,
+      "end": 62.03,
+      "text": "他說 我們的調 低半個音"
+    },
+    {
+      "t": 67.01,
+      "end": 72.99,
+      "text": "我說 琴鍵 不能說改就改"
+    },
+    {
+      "t": 74.81,
+      "end": 74.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 74.81,
+      "end": 78.05,
+      "text": "你低一點 我高一點"
+    },
+    {
+      "t": 78.59,
+      "end": 82.07,
+      "text": "音叉敲一敲 大家聽一聽"
+    },
+    {
+      "t": 83.03,
+      "end": 86.03,
+      "text": "你的弦鬆 我的鍵緊"
+    },
+    {
+      "t": 86.09,
+      "end": 87.65,
+      "text": "我們中間見"
+    },
+    {
+      "t": 88.03,
+      "end": 88.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.03,
+      "end": 95.37,
+      "text": "他拉一段 我按一個鍵"
+    },
+    {
+      "t": 95.39,
+      "end": 96.09,
+      "text": "他搖頭 我也搖頭"
+    },
+    {
+      "t": 96.13,
+      "end": 100.03,
+      "text": "旁邊的花旦 笑到彎腰"
+    },
+    {
+      "t": 100.05,
+      "end": 103.97,
+      "text": "她說 你們兩個 才是一齣戲"
+    },
+    {
+      "t": 104.05,
+      "end": 104.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.05,
+      "end": 106.97,
+      "text": "你低一點 我高一點"
+    },
+    {
+      "t": 107.11,
+      "end": 112.03,
+      "text": "音叉敲一敲 大家聽一聽"
+    },
+    {
+      "t": 112.07,
+      "end": 115.25,
+      "text": "你的弦鬆 我的鍵緊"
+    },
+    {
+      "t": 115.35,
+      "end": 116.95,
+      "text": "這一次 對上了"
+    },
+    {
+      "t": 117.29,
+      "end": 117.29,
+      "text": "[Bridge - bangu and piano alone]"
+    },
+    {
+      "t": 117.29,
+      "end": 120.59,
+      "text": "鋼琴不會唱戲"
+    },
+    {
+      "t": 120.59,
+      "end": 123.63,
+      "text": "胡琴不會彈和弦"
+    },
+    {
+      "t": 132.53,
+      "end": 137.39,
+      "text": "可是一起響 就是一個調"
+    },
+    {
+      "t": 137.39,
+      "end": 137.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 137.39,
+      "end": 142.05,
+      "text": "你低一點 我高一點"
+    },
+    {
+      "t": 142.58,
+      "end": 146.08,
+      "text": "音叉敲一敲 大家聽一聽"
+    },
+    {
+      "t": 147.04,
+      "end": 150.06,
+      "text": "你的弦鬆 我的鍵緊"
+    },
+    {
+      "t": 151.06,
+      "end": 153.68,
+      "text": "我們中間見"
+    },
+    {
+      "t": 159.02,
+      "end": 159.02,
+      "text": "[Outro - jinghu and bangu, with a final piano chord]"
+    },
+    {
+      "t": 159.02,
+      "end": 183.54,
+      "text": "師傅說 明天 再來調一次"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,337 @@
+{
+  "id": "b23_ms04",
+  "title": "Kuda Tak Mahu Jalan",
+  "title_source": "scripted",
+  "genre": "Bajau dalling-dalling (Sabah west-coast gambus and tambourine dance song)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "upbeat, cheeky, cheerful",
+  "persona": "",
+  "subject": "A Bajau boy in Kota Belud grooming his pony Si Merah for the horsemen's parade, who finds the pony only trots when someone sings the dalling-dalling, so he must sing the whole parade route.",
+  "caption": "Bajau dalling-dalling Sabah west-coast dance song, brisk bouncing two-step. Gambus playing a quick ornamented lead line, tambourine shaking steady sixteenth patterns, small gong marking each bar, gendang drum with a hopping pattern, violin doubling the melody. Live dance-floor feel, tambourine up front, dry room. Male vocal, bright mid register, call-and-response phrasing with a group answer, clearly sung. 124 BPM, G major. Upbeat, cheeky, cheerful. Clear full voice, every word enunciated, steady sung melody on every line. No trap drums, no autotune, no synth bass, no rap, no EDM drop, no electric guitar.",
+  "lyrics": "[Intro - gambus and tambourine, bright two-step]\n\n[Verse 1]\nPagi-pagi kusikat Si Merah\nPelana baru, jambul pun rapi\nOrang kampung sudah berkumpul\nSi Merah berdiri, tak mahu jalan\n\n[Pre-Chorus]\nKutarik tali, dia menguap\nKuberi gula, dia pandang langit\n\n[Chorus]\nDalling-dalling, nyanyi dulu\nSi Merah baru mahu melangkah\nDalling-dalling, nyanyi lagi\nKalau berhenti, dia pun berhenti\n\n[Verse 2]\nSepanjang jalan sampai ke padang\nAku menyanyi sampai serak suara\nKanak-kanak ketawa di tepi pagar\nSi Merah menari macam bintang\n\n[Pre-Chorus]\nPak Imam tepuk tangan juga\nGadis di kedai senyum malu\n\n[Chorus]\nDalling-dalling, nyanyi dulu\nSi Merah trot, aku pula letih\nDalling-dalling, nyanyi lagi\nEsok kita jalan senyap, boleh?\n\n[Outro - tambourine and gambus, last bright flourish]\nDalling-dalling, Si Merah\nJalan lagi, jalan lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Bajau dalling-dalling Sabah west-coast dance song, brisk bouncing two-step. Gambus playing a quick ornamented lead line, tambourine shaking steady sixteenth patterns, small gong marking each bar, gendang drum with a hopping pattern, violin doubling the melody. Live dance-floor feel, tambourine up front, dry room. Male vocal, bright mid register, call-and-response phrasing with a group answer, clearly sung. 124 BPM, G major. Upbeat, cheeky, cheerful. Clear full voice, every word enunciated, steady sung melody on every line. No trap drums, no autotune, no synth bass, no rap, no EDM drop, no electric guitar.",
+    "lyrics": "[Intro - gambus and tambourine, bright two-step]\n\n[Verse 1]\nPagi-pagi kusikat Si Merah\nPelana baru, jambul pun rapi\nOrang kampung sudah berkumpul\nSi Merah berdiri, tak mahu jalan\n\n[Pre-Chorus]\nKutarik tali, dia menguap\nKuberi gula, dia pandang langit\n\n[Chorus]\nDalling-dalling, nyanyi dulu\nSi Merah baru mahu melangkah\nDalling-dalling, nyanyi lagi\nKalau berhenti, dia pun berhenti\n\n[Verse 2]\nSepanjang jalan sampai ke padang\nAku menyanyi sampai serak suara\nKanak-kanak ketawa di tepi pagar\nSi Merah menari macam bintang\n\n[Pre-Chorus]\nPak Imam tepuk tangan juga\nGadis di kedai senyum malu\n\n[Chorus]\nDalling-dalling, nyanyi dulu\nSi Merah trot, aku pula letih\nDalling-dalling, nyanyi lagi\nEsok kita jalan senyap, boleh?\n\n[Outro - tambourine and gambus, last bright flourish]\nDalling-dalling, Si Merah\nJalan lagi, jalan lagi"
+  },
+  "seed": "590102746",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 43.16s**\n- 43.16s per song\n- LM phase (1 song): 4.24s\n- DiT phase (1 song): 38.91s",
+  "task_id": "1e0d2b96-daec-4f85-a79f-b8ee6290c21b",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-22T23:55:54.719116+08:00",
+  "audio": "b23_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 29.0,
+      "end": 29.0,
+      "text": "[Intro - gambus and tambourine, bright two-step]"
+    },
+    {
+      "t": 29.0,
+      "end": 29.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.0,
+      "end": 33.52,
+      "text": "Pagi-pagi kusikat Si Merah"
+    },
+    {
+      "t": 36.46,
+      "end": 40.52,
+      "text": "Pelana baru, jambul pun rapi"
+    },
+    {
+      "t": 40.62,
+      "end": 43.46,
+      "text": "Orang kampung sudah berkumpul"
+    },
+    {
+      "t": 44.44,
+      "end": 50.69,
+      "text": "Si Merah berdiri, tak mahu jalan"
+    },
+    {
+      "t": 52.45,
+      "end": 52.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.45,
+      "end": 55.55,
+      "text": "Kutarik tali, dia menguap"
+    },
+    {
+      "t": 55.55,
+      "end": 59.29,
+      "text": "Kuberi gula, dia pandang langit"
+    },
+    {
+      "t": 60.17,
+      "end": 60.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.17,
+      "end": 63.19,
+      "text": "Dalling-dalling, nyanyi dulu"
+    },
+    {
+      "t": 63.79,
+      "end": 66.73,
+      "text": "Si Merah baru mahu melangkah"
+    },
+    {
+      "t": 67.93,
+      "end": 70.73,
+      "text": "Dalling-dalling, nyanyi lagi"
+    },
+    {
+      "t": 71.79,
+      "end": 77.25,
+      "text": "Kalau berhenti, dia pun berhenti"
+    },
+    {
+      "t": 79.75,
+      "end": 79.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.75,
+      "end": 84.41,
+      "text": "Sepanjang jalan sampai ke padang"
+    },
+    {
+      "t": 87.13,
+      "end": 91.19,
+      "text": "Aku menyanyi sampai serak suara"
+    },
+    {
+      "t": 91.19,
+      "end": 92.13,
+      "text": "Kanak-kanak ketawa di tepi pagar"
+    },
+    {
+      "t": 92.53,
+      "end": 95.69,
+      "text": "Si Merah menari macam bintang"
+    },
+    {
+      "t": 95.73,
+      "end": 95.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.73,
+      "end": 99.75,
+      "text": "Pak Imam tepuk tangan juga"
+    },
+    {
+      "t": 103.47,
+      "end": 110.33,
+      "text": "Gadis di kedai senyum malu"
+    },
+    {
+      "t": 112.29,
+      "end": 112.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.29,
+      "end": 115.33,
+      "text": "Dalling-dalling, nyanyi dulu"
+    },
+    {
+      "t": 116.15,
+      "end": 119.85,
+      "text": "Si Merah trot, aku pula letih"
+    },
+    {
+      "t": 120.05,
+      "end": 123.53,
+      "text": "Dalling-dalling, nyanyi lagi"
+    },
+    {
+      "t": 123.99,
+      "end": 127.21,
+      "text": "Esok kita jalan senyap, boleh?"
+    },
+    {
+      "t": 127.75,
+      "end": 127.75,
+      "text": "[Outro - tambourine and gambus, last bright flourish]"
+    },
+    {
+      "t": 127.75,
+      "end": 160.78,
+      "text": "Dalling-dalling, Si Merah"
+    },
+    {
+      "t": 162.18,
+      "end": 174.58,
+      "text": "Jalan lagi, jalan lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 29.0,
+      "end": 29.0,
+      "text": "[Intro - gambus and tambourine, bright two-step]"
+    },
+    {
+      "t": 29.0,
+      "end": 29.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 29.0,
+      "end": 33.52,
+      "text": "Pagi-pagi kusikat Si Merah"
+    },
+    {
+      "t": 36.46,
+      "end": 40.52,
+      "text": "Pelana baru, jambul pun rapi"
+    },
+    {
+      "t": 40.62,
+      "end": 43.46,
+      "text": "Orang kampung sudah berkumpul"
+    },
+    {
+      "t": 44.44,
+      "end": 50.69,
+      "text": "Si Merah berdiri, tak mahu jalan"
+    },
+    {
+      "t": 52.45,
+      "end": 52.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.45,
+      "end": 55.55,
+      "text": "Kutarik tali, dia menguap"
+    },
+    {
+      "t": 55.55,
+      "end": 59.29,
+      "text": "Kuberi gula, dia pandang langit"
+    },
+    {
+      "t": 60.17,
+      "end": 60.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 60.17,
+      "end": 63.19,
+      "text": "Dalling-dalling, nyanyi dulu"
+    },
+    {
+      "t": 63.79,
+      "end": 66.73,
+      "text": "Si Merah baru mahu melangkah"
+    },
+    {
+      "t": 67.93,
+      "end": 70.73,
+      "text": "Dalling-dalling, nyanyi lagi"
+    },
+    {
+      "t": 71.79,
+      "end": 77.25,
+      "text": "Kalau berhenti, dia pun berhenti"
+    },
+    {
+      "t": 79.75,
+      "end": 79.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.75,
+      "end": 84.41,
+      "text": "Sepanjang jalan sampai ke padang"
+    },
+    {
+      "t": 87.13,
+      "end": 91.19,
+      "text": "Aku menyanyi sampai serak suara"
+    },
+    {
+      "t": 91.19,
+      "end": 92.13,
+      "text": "Kanak-kanak ketawa di tepi pagar"
+    },
+    {
+      "t": 92.15,
+      "end": 95.73,
+      "text": "Si Merah menari macam bintang"
+    },
+    {
+      "t": 95.73,
+      "end": 95.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.73,
+      "end": 99.77,
+      "text": "Pak Imam tepuk tangan juga"
+    },
+    {
+      "t": 103.47,
+      "end": 110.35,
+      "text": "Gadis di kedai senyum malu"
+    },
+    {
+      "t": 112.29,
+      "end": 112.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.29,
+      "end": 115.33,
+      "text": "Dalling-dalling, nyanyi dulu"
+    },
+    {
+      "t": 116.15,
+      "end": 119.87,
+      "text": "Si Merah trot, aku pula letih"
+    },
+    {
+      "t": 120.05,
+      "end": 123.51,
+      "text": "Dalling-dalling, nyanyi lagi"
+    },
+    {
+      "t": 123.97,
+      "end": 132.43,
+      "text": "Esok kita jalan senyap, boleh?"
+    },
+    {
+      "t": 146.44,
+      "end": 146.44,
+      "text": "[Outro - tambourine and gambus, last bright flourish]"
+    },
+    {
+      "t": 146.44,
+      "end": 160.78,
+      "text": "Dalling-dalling, Si Merah"
+    },
+    {
+      "t": 162.18,
+      "end": 166.96,
+      "text": "Jalan lagi, jalan lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

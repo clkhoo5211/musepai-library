@@ -1,0 +1,444 @@
+{
+  "id": "b23_id03",
+  "title": "Kartu Hak Milik",
+  "title_source": "scripted",
+  "genre": "Indonesian 1970s hard rock (God Bless-style)",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "loud and mischievous",
+  "persona": "",
+  "subject": "A Medan man who has lost every game of Monopoli to his younger sister for twenty years hides a stolen property card in his sock for the rematch, then sees three cards fall out of her sock too",
+  "caption": "Indonesian 1970s hard rock in the style of early Indonesian stadium rock. An overdriven electric guitar plays a heavy blues-based riff, a Hammond organ with Leslie swirl doubles it and fills the gaps, a fat bass guitar locks with a loud acoustic drum kit playing a driving straight beat, a short guitar solo in the middle. Vintage tape saturation, roomy live drum sound. A male lead sings with a raw gritty rock voice, clearly sung with strong open vowels. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, E minor. Loud, mischievous mood. No electronic beats, no autotune, no rap, no synth pop, no screamed vocals, no heavy metal double-kick.",
+  "lyrics": "[Intro - fuzz guitar riff, Hammond organ]\n\n[Verse 1]\nMinggu sore, papan terbentang di lantai\nRina pegang semua hotel di Jalan Malioboro\nUangku tinggal tiga lembar mainan\nDan satu kartu terselip di kaus kaki\n\n[Pre-Chorus]\nDua puluh tahun aku kalah\nHari ini giliranku, hari ini\n\n[Chorus]\nBayar sewa, Rina, bayar sewa\nAku punya Malioboro, hotel di atasnya\nJangan lirik kaus kakiku\nHari ini aku yang menang\n\n[Verse 2]\nRina diam, lalu mengangkat kakinya\nDari kaus kakinya jatuh tiga kartu\nDua puluh tahun, Bang, katanya tertawa\nDua puluh tahun aku juga curang\n\n[Chorus]\nBayar sewa, Bang, kita sama\nDua kaus kaki, dua tukang bohong\nAyo kocok dadu sekali lagi\nSiapa yang jujur, dia yang kalah\n\n[Outro - guitar riff, organ]\nKocok dadunya, kocok dadunya\nSiapa yang jujur, dia yang kalah",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Indonesian 1970s hard rock in the style of early Indonesian stadium rock. An overdriven electric guitar plays a heavy blues-based riff, a Hammond organ with Leslie swirl doubles it and fills the gaps, a fat bass guitar locks with a loud acoustic drum kit playing a driving straight beat, a short guitar solo in the middle. Vintage tape saturation, roomy live drum sound. A male lead sings with a raw gritty rock voice, clearly sung with strong open vowels. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, E minor. Loud, mischievous mood. No electronic beats, no autotune, no rap, no synth pop, no screamed vocals, no heavy metal double-kick.",
+    "lyrics": "[Intro - fuzz guitar riff, Hammond organ]\n\n[Verse 1]\nMinggu sore, papan terbentang di lantai\nRina pegang semua hotel di Jalan Malioboro\nUangku tinggal tiga lembar mainan\nDan satu kartu terselip di kaus kaki\n\n[Pre-Chorus]\nDua puluh tahun aku kalah\nHari ini giliranku, hari ini\n\n[Chorus]\nBayar sewa, Rina, bayar sewa\nAku punya Malioboro, hotel di atasnya\nJangan lirik kaus kakiku\nHari ini aku yang menang\n\n[Verse 2]\nRina diam, lalu mengangkat kakinya\nDari kaus kakinya jatuh tiga kartu\nDua puluh tahun, Bang, katanya tertawa\nDua puluh tahun aku juga curang\n\n[Chorus]\nBayar sewa, Bang, kita sama\nDua kaus kaki, dua tukang bohong\nAyo kocok dadu sekali lagi\nSiapa yang jujur, dia yang kalah\n\n[Outro - guitar riff, organ]\nKocok dadunya, kocok dadunya\nSiapa yang jujur, dia yang kalah"
+  },
+  "seed": "1687586812",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 47.89s**\n- 47.89s per song\n- LM phase (1 song): 7.40s\n- DiT phase (1 song): 40.49s",
+  "task_id": "0c10f5c9-e0a7-4a96-9dcf-ecd8e5ccea69",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-22T23:59:55.088547+08:00",
+  "audio": "b23_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Intro - fuzz guitar riff, Hammond organ]"
+    },
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.78,
+      "end": 49.75,
+      "text": "Minggu sore, papan terbentang di lantai"
+    },
+    {
+      "t": 51.15,
+      "end": 56.09,
+      "text": "Rina pegang semua hotel di Jalan Malioboro"
+    },
+    {
+      "t": 56.09,
+      "end": 57.91,
+      "text": "Uangku tinggal tiga lembar mainan"
+    },
+    {
+      "t": 57.91,
+      "end": 59.95,
+      "text": "Dan satu kartu terselip di kaus kaki"
+    },
+    {
+      "t": 59.95,
+      "end": 59.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.95,
+      "end": 61.07,
+      "text": "Dua puluh tahun aku kalah"
+    },
+    {
+      "t": 61.09,
+      "end": 62.63,
+      "text": "Hari ini giliranku, hari ini"
+    },
+    {
+      "t": 62.63,
+      "end": 62.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.63,
+      "end": 63.79,
+      "text": "Bayar sewa, Rina, bayar sewa"
+    },
+    {
+      "t": 64.19,
+      "end": 67.47,
+      "text": "Aku punya Malioboro, hotel di atasnya"
+    },
+    {
+      "t": 67.55,
+      "end": 70.69,
+      "text": "Jangan lirik kaus kakiku"
+    },
+    {
+      "t": 73.79,
+      "end": 78.21,
+      "text": "Hari ini aku yang menang"
+    },
+    {
+      "t": 80.23,
+      "end": 80.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.23,
+      "end": 84.79,
+      "text": "Rina diam, lalu mengangkat kakinya"
+    },
+    {
+      "t": 87.01,
+      "end": 91.15,
+      "text": "Dari kaus kakinya jatuh tiga kartu"
+    },
+    {
+      "t": 91.15,
+      "end": 94.03,
+      "text": "Dua puluh tahun, Bang, katanya tertawa"
+    },
+    {
+      "t": 94.03,
+      "end": 101.05,
+      "text": "Dua puluh tahun aku juga curang"
+    },
+    {
+      "t": 101.45,
+      "end": 101.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.45,
+      "end": 105.99,
+      "text": "Bayar sewa, Bang, kita sama"
+    },
+    {
+      "t": 109.11,
+      "end": 152.06,
+      "text": "Dua kaus kaki, dua tukang bohong"
+    },
+    {
+      "t": 152.16,
+      "end": 158.28,
+      "text": "Ayo kocok dadu sekali lagi"
+    },
+    {
+      "t": 158.3,
+      "end": 163.44,
+      "text": "Siapa yang jujur, dia yang kalah"
+    },
+    {
+      "t": 163.44,
+      "end": 163.44,
+      "text": "[Outro - guitar riff, organ]"
+    },
+    {
+      "t": 163.44,
+      "end": 165.56,
+      "text": "Kocok dadunya, kocok dadunya"
+    },
+    {
+      "t": 168.5,
+      "end": 179.64,
+      "text": "Siapa yang jujur, dia yang kalah"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Intro - fuzz guitar riff, Hammond organ]"
+    },
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.78,
+      "end": 49.75,
+      "text": "Minggu sore, papan terbentang di lantai"
+    },
+    {
+      "t": 51.15,
+      "end": 56.09,
+      "text": "Rina pegang semua hotel di Jalan Malioboro"
+    },
+    {
+      "t": 56.09,
+      "end": 57.91,
+      "text": "Uangku tinggal tiga lembar mainan"
+    },
+    {
+      "t": 57.91,
+      "end": 59.95,
+      "text": "Dan satu kartu terselip di kaus kaki"
+    },
+    {
+      "t": 59.95,
+      "end": 59.95,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 59.95,
+      "end": 61.07,
+      "text": "Dua puluh tahun aku kalah"
+    },
+    {
+      "t": 61.09,
+      "end": 62.63,
+      "text": "Hari ini giliranku, hari ini"
+    },
+    {
+      "t": 62.63,
+      "end": 62.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.63,
+      "end": 63.79,
+      "text": "Bayar sewa, Rina, bayar sewa"
+    },
+    {
+      "t": 64.19,
+      "end": 67.47,
+      "text": "Aku punya Malioboro, hotel di atasnya"
+    },
+    {
+      "t": 67.55,
+      "end": 70.69,
+      "text": "Jangan lirik kaus kakiku"
+    },
+    {
+      "t": 73.79,
+      "end": 78.21,
+      "text": "Hari ini aku yang menang"
+    },
+    {
+      "t": 80.23,
+      "end": 80.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.23,
+      "end": 84.79,
+      "text": "Rina diam, lalu mengangkat kakinya"
+    },
+    {
+      "t": 87.01,
+      "end": 91.15,
+      "text": "Dari kaus kakinya jatuh tiga kartu"
+    },
+    {
+      "t": 91.15,
+      "end": 94.03,
+      "text": "Dua puluh tahun, Bang, katanya tertawa"
+    },
+    {
+      "t": 94.03,
+      "end": 101.05,
+      "text": "Dua puluh tahun aku juga curang"
+    },
+    {
+      "t": 101.45,
+      "end": 101.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.45,
+      "end": 105.99,
+      "text": "Bayar sewa, Bang, kita sama"
+    },
+    {
+      "t": 109.11,
+      "end": 152.06,
+      "text": "Dua kaus kaki, dua tukang bohong"
+    },
+    {
+      "t": 152.16,
+      "end": 158.28,
+      "text": "Ayo kocok dadu sekali lagi"
+    },
+    {
+      "t": 158.3,
+      "end": 163.44,
+      "text": "Siapa yang jujur, dia yang kalah"
+    },
+    {
+      "t": 163.44,
+      "end": 163.44,
+      "text": "[Outro - guitar riff, organ]"
+    },
+    {
+      "t": 163.44,
+      "end": 165.56,
+      "text": "Kocok dadunya, kocok dadunya"
+    },
+    {
+      "t": 168.5,
+      "end": 179.64,
+      "text": "Siapa yang jujur, dia yang kalah"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Intro - fuzz guitar riff, Hammond organ]"
+    },
+    {
+      "t": 44.78,
+      "end": 44.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 44.78,
+      "end": 49.75,
+      "text": "Minggu sore, papan terbentang di lantai"
+    },
+    {
+      "t": 51.15,
+      "end": 56.37,
+      "text": "Rina pegang semua hotel di Jalan Malioboro"
+    },
+    {
+      "t": 56.37,
+      "end": 59.39,
+      "text": "Uangku tinggal tiga lembar mainan"
+    },
+    {
+      "t": 59.39,
+      "end": 60.61,
+      "text": "Dan satu kartu terselip di kaus kaki"
+    },
+    {
+      "t": 60.61,
+      "end": 60.61,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 60.61,
+      "end": 61.05,
+      "text": "Dua puluh tahun aku kalah"
+    },
+    {
+      "t": 61.07,
+      "end": 62.63,
+      "text": "Hari ini giliranku, hari ini"
+    },
+    {
+      "t": 62.63,
+      "end": 62.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.63,
+      "end": 63.81,
+      "text": "Bayar sewa, Rina, bayar sewa"
+    },
+    {
+      "t": 64.05,
+      "end": 67.47,
+      "text": "Aku punya Malioboro, hotel di atasnya"
+    },
+    {
+      "t": 67.47,
+      "end": 70.69,
+      "text": "Jangan lirik kaus kakiku"
+    },
+    {
+      "t": 73.77,
+      "end": 78.19,
+      "text": "Hari ini aku yang menang"
+    },
+    {
+      "t": 80.25,
+      "end": 80.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 80.25,
+      "end": 84.81,
+      "text": "Rina diam, lalu mengangkat kakinya"
+    },
+    {
+      "t": 87.01,
+      "end": 91.75,
+      "text": "Dari kaus kakinya jatuh tiga kartu"
+    },
+    {
+      "t": 91.91,
+      "end": 94.03,
+      "text": "Dua puluh tahun, Bang, katanya tertawa"
+    },
+    {
+      "t": 94.03,
+      "end": 101.05,
+      "text": "Dua puluh tahun aku juga curang"
+    },
+    {
+      "t": 101.45,
+      "end": 101.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.45,
+      "end": 105.95,
+      "text": "Bayar sewa, Bang, kita sama"
+    },
+    {
+      "t": 109.11,
+      "end": 133.95,
+      "text": "Dua kaus kaki, dua tukang bohong"
+    },
+    {
+      "t": 133.97,
+      "end": 144.12,
+      "text": "Ayo kocok dadu sekali lagi"
+    },
+    {
+      "t": 144.44,
+      "end": 148.6,
+      "text": "Siapa yang jujur, dia yang kalah"
+    },
+    {
+      "t": 149.0,
+      "end": 149.0,
+      "text": "[Outro - guitar riff, organ]"
+    },
+    {
+      "t": 149.0,
+      "end": 156.76,
+      "text": "Kocok dadunya, kocok dadunya"
+    },
+    {
+      "t": 158.28,
+      "end": 179.64,
+      "text": "Siapa yang jujur, dia yang kalah"
+    }
+  ]
+}

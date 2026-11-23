@@ -1,0 +1,549 @@
+{
+  "id": "b23_zh03",
+  "title": "我的底片有你的手指",
+  "title_source": "scripted",
+  "genre": "Taiwan Amis-style polyphonic harmony pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "tender, playful, open",
+  "persona": "",
+  "subject": "a young man develops the roll from the old film camera his girlfriend borrowed on a Hualien coast trip and finds that all twenty-four frames have the tip of her thumb in the corner, and he asks the lab to print them all",
+  "caption": "Taiwan Amis-style polyphonic harmony pop, gently swaying 4/4 with long sustained drone-like vocal harmonies and an east-coast setting. a stack of close-voiced sung vocal harmony layers from the lead's own overdubbed voices in parallel intervals, nylon-string guitar picking a rolling pattern, a small hand-held log drum and soft bamboo-clapper pulse, a warm upright bass on the roots, a light acoustic piano on the pre-chorus. airy open-air acoustic mix, voices wide and natural with light room ambience, no drum kit. female lead with male and female overdubbed harmony voices holding long drone-like intervals beneath her, warm natural tone, clearly sung words. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, D major. tender, playful, open mood. No rap, no autotune, no electronic drums, no synth pads, no electric guitar.",
+  "lyrics": "[Intro - harmony voices and nylon guitar]\n\n[Verse 1]\n花蓮的小店 沖底片\n老闆把相紙 攤在桌上\n二十四張 海 還有山\n每一張 都有一個手指\n\n[Pre-Chorus]\n左下角 粉紅色的\n是你的拇指 蓋住了鏡頭\n\n[Chorus]\n我的底片 有你的手指\n海在後面 你在前面\n你說 我拍壞了\n我說 全部都洗出來\n\n[Verse 2]\n第一張 它蓋住半個太陽\n第二張 它蓋住一隻船\n第十張 你笑著回頭\n拇指還在 我也還在\n\n[Chorus]\n我的底片 有你的手指\n海在後面 你在前面\n你說 我拍壞了\n我說 這樣才最像你\n\n[Bridge - voices alone, held intervals]\n下次換我拿相機\n我的手指 也要進去\n\n[Chorus]\n我的底片 有你的手指\n海在後面 你在前面\n二十四張 掛滿了牆\n你的拇指 比海還大\n\n[Outro - nylon guitar and voices, soft]\n老闆說 這捲 免費加洗",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Taiwan Amis-style polyphonic harmony pop, gently swaying 4/4 with long sustained drone-like vocal harmonies and an east-coast setting. a stack of close-voiced sung vocal harmony layers from the lead's own overdubbed voices in parallel intervals, nylon-string guitar picking a rolling pattern, a small hand-held log drum and soft bamboo-clapper pulse, a warm upright bass on the roots, a light acoustic piano on the pre-chorus. airy open-air acoustic mix, voices wide and natural with light room ambience, no drum kit. female lead with male and female overdubbed harmony voices holding long drone-like intervals beneath her, warm natural tone, clearly sung words. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, D major. tender, playful, open mood. No rap, no autotune, no electronic drums, no synth pads, no electric guitar.",
+    "lyrics": "[Intro - harmony voices and nylon guitar]\n\n[Verse 1]\n花蓮的小店 沖底片\n老闆把相紙 攤在桌上\n二十四張 海 還有山\n每一張 都有一個手指\n\n[Pre-Chorus]\n左下角 粉紅色的\n是你的拇指 蓋住了鏡頭\n\n[Chorus]\n我的底片 有你的手指\n海在後面 你在前面\n你說 我拍壞了\n我說 全部都洗出來\n\n[Verse 2]\n第一張 它蓋住半個太陽\n第二張 它蓋住一隻船\n第十張 你笑著回頭\n拇指還在 我也還在\n\n[Chorus]\n我的底片 有你的手指\n海在後面 你在前面\n你說 我拍壞了\n我說 這樣才最像你\n\n[Bridge - voices alone, held intervals]\n下次換我拿相機\n我的手指 也要進去\n\n[Chorus]\n我的底片 有你的手指\n海在後面 你在前面\n二十四張 掛滿了牆\n你的拇指 比海還大\n\n[Outro - nylon guitar and voices, soft]\n老闆說 這捲 免費加洗"
+  },
+  "seed": "3205011271",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 45.63s**\n- 45.63s per song\n- LM phase (1 song): 6.46s\n- DiT phase (1 song): 39.18s",
+  "task_id": "7a18c1d0-9fbf-454e-9575-3adc75bce184",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-23T00:22:17.640365+08:00",
+  "audio": "b23_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Intro - harmony voices and nylon guitar]"
+    },
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.66,
+      "end": 35.24,
+      "text": "花蓮的小店 沖底片"
+    },
+    {
+      "t": 36.44,
+      "end": 40.3,
+      "text": "老闆把相紙 攤在桌上"
+    },
+    {
+      "t": 41.82,
+      "end": 44.82,
+      "text": "二十四張 海 還有山"
+    },
+    {
+      "t": 51.11,
+      "end": 54.25,
+      "text": "每一張 都有一個手指"
+    },
+    {
+      "t": 56.81,
+      "end": 56.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.81,
+      "end": 59.15,
+      "text": "左下角 粉紅色的"
+    },
+    {
+      "t": 61.39,
+      "end": 67.07,
+      "text": "是你的拇指 蓋住了鏡頭"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.71,
+      "end": 73.23,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 75.13,
+      "end": 78.17,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 79.41,
+      "end": 82.35,
+      "text": "你說 我拍壞了"
+    },
+    {
+      "t": 84.89,
+      "end": 86.69,
+      "text": "我說 全部都洗出來"
+    },
+    {
+      "t": 86.69,
+      "end": 86.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.69,
+      "end": 89.97,
+      "text": "第一張 它蓋住半個太陽"
+    },
+    {
+      "t": 89.97,
+      "end": 91.13,
+      "text": "第二張 它蓋住一隻船"
+    },
+    {
+      "t": 91.15,
+      "end": 105.73,
+      "text": "第十張 你笑著回頭"
+    },
+    {
+      "t": 105.93,
+      "end": 107.81,
+      "text": "拇指還在 我也還在"
+    },
+    {
+      "t": 110.21,
+      "end": 110.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.21,
+      "end": 112.31,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 113.37,
+      "end": 116.65,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 116.83,
+      "end": 123.47,
+      "text": "你說 我拍壞了"
+    },
+    {
+      "t": 123.49,
+      "end": 124.91,
+      "text": "我說 這樣才最像你"
+    },
+    {
+      "t": 124.91,
+      "end": 124.91,
+      "text": "[Bridge - voices alone, held intervals]"
+    },
+    {
+      "t": 124.91,
+      "end": 126.55,
+      "text": "下次換我拿相機"
+    },
+    {
+      "t": 127.93,
+      "end": 131.71,
+      "text": "我的手指 也要進去"
+    },
+    {
+      "t": 132.81,
+      "end": 132.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.81,
+      "end": 136.25,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 137.61,
+      "end": 141.77,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 143.67,
+      "end": 146.23,
+      "text": "二十四張 掛滿了牆"
+    },
+    {
+      "t": 147.31,
+      "end": 151.74,
+      "text": "你的拇指 比海還大"
+    },
+    {
+      "t": 164.62,
+      "end": 164.62,
+      "text": "[Outro - nylon guitar and voices, soft]"
+    },
+    {
+      "t": 164.62,
+      "end": 188.88,
+      "text": "老闆說 這捲 免費加洗"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Intro - harmony voices and nylon guitar]"
+    },
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.66,
+      "end": 35.24,
+      "text": "花蓮的小店 沖底片"
+    },
+    {
+      "t": 36.44,
+      "end": 40.3,
+      "text": "老闆把相紙 攤在桌上"
+    },
+    {
+      "t": 41.82,
+      "end": 44.82,
+      "text": "二十四張 海 還有山"
+    },
+    {
+      "t": 51.11,
+      "end": 54.25,
+      "text": "每一張 都有一個手指"
+    },
+    {
+      "t": 56.81,
+      "end": 56.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.81,
+      "end": 59.15,
+      "text": "左下角 粉紅色的"
+    },
+    {
+      "t": 61.39,
+      "end": 67.07,
+      "text": "是你的拇指 蓋住了鏡頭"
+    },
+    {
+      "t": 69.71,
+      "end": 69.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.71,
+      "end": 73.23,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 75.13,
+      "end": 78.17,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 79.41,
+      "end": 82.35,
+      "text": "你說 我拍壞了"
+    },
+    {
+      "t": 84.89,
+      "end": 86.69,
+      "text": "我說 全部都洗出來"
+    },
+    {
+      "t": 86.69,
+      "end": 86.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.69,
+      "end": 89.97,
+      "text": "第一張 它蓋住半個太陽"
+    },
+    {
+      "t": 89.97,
+      "end": 91.13,
+      "text": "第二張 它蓋住一隻船"
+    },
+    {
+      "t": 91.15,
+      "end": 105.73,
+      "text": "第十張 你笑著回頭"
+    },
+    {
+      "t": 105.93,
+      "end": 107.81,
+      "text": "拇指還在 我也還在"
+    },
+    {
+      "t": 110.21,
+      "end": 110.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.21,
+      "end": 112.31,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 113.37,
+      "end": 116.65,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 116.83,
+      "end": 123.47,
+      "text": "你說 我拍壞了"
+    },
+    {
+      "t": 123.49,
+      "end": 124.91,
+      "text": "我說 這樣才最像你"
+    },
+    {
+      "t": 124.91,
+      "end": 124.91,
+      "text": "[Bridge - voices alone, held intervals]"
+    },
+    {
+      "t": 124.91,
+      "end": 126.55,
+      "text": "下次換我拿相機"
+    },
+    {
+      "t": 127.93,
+      "end": 131.71,
+      "text": "我的手指 也要進去"
+    },
+    {
+      "t": 132.81,
+      "end": 132.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.81,
+      "end": 136.25,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 137.61,
+      "end": 141.77,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 143.67,
+      "end": 146.23,
+      "text": "二十四張 掛滿了牆"
+    },
+    {
+      "t": 147.31,
+      "end": 151.74,
+      "text": "你的拇指 比海還大"
+    },
+    {
+      "t": 164.62,
+      "end": 164.62,
+      "text": "[Outro - nylon guitar and voices, soft]"
+    },
+    {
+      "t": 164.62,
+      "end": 188.88,
+      "text": "老闆說 這捲 免費加洗"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Intro - harmony voices and nylon guitar]"
+    },
+    {
+      "t": 31.66,
+      "end": 31.66,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 31.66,
+      "end": 35.24,
+      "text": "花蓮的小店 沖底片"
+    },
+    {
+      "t": 36.44,
+      "end": 40.3,
+      "text": "老闆把相紙 攤在桌上"
+    },
+    {
+      "t": 42.12,
+      "end": 49.84,
+      "text": "二十四張 海 還有山"
+    },
+    {
+      "t": 51.11,
+      "end": 54.25,
+      "text": "每一張 都有一個手指"
+    },
+    {
+      "t": 56.81,
+      "end": 56.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.81,
+      "end": 59.15,
+      "text": "左下角 粉紅色的"
+    },
+    {
+      "t": 61.37,
+      "end": 67.01,
+      "text": "是你的拇指 蓋住了鏡頭"
+    },
+    {
+      "t": 69.69,
+      "end": 69.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 69.69,
+      "end": 73.23,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 75.13,
+      "end": 78.21,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 79.39,
+      "end": 82.35,
+      "text": "你說 我拍壞了"
+    },
+    {
+      "t": 84.89,
+      "end": 86.69,
+      "text": "我說 全部都洗出來"
+    },
+    {
+      "t": 86.69,
+      "end": 86.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.69,
+      "end": 90.27,
+      "text": "第一張 它蓋住半個太陽"
+    },
+    {
+      "t": 90.27,
+      "end": 90.83,
+      "text": "第二張 它蓋住一隻船"
+    },
+    {
+      "t": 90.89,
+      "end": 105.67,
+      "text": "第十張 你笑著回頭"
+    },
+    {
+      "t": 105.93,
+      "end": 107.51,
+      "text": "拇指還在 我也還在"
+    },
+    {
+      "t": 107.53,
+      "end": 107.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 107.53,
+      "end": 112.23,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 112.23,
+      "end": 116.65,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 116.67,
+      "end": 123.53,
+      "text": "你說 我拍壞了"
+    },
+    {
+      "t": 123.55,
+      "end": 124.91,
+      "text": "我說 這樣才最像你"
+    },
+    {
+      "t": 124.91,
+      "end": 124.91,
+      "text": "[Bridge - voices alone, held intervals]"
+    },
+    {
+      "t": 124.91,
+      "end": 126.57,
+      "text": "下次換我拿相機"
+    },
+    {
+      "t": 127.93,
+      "end": 131.71,
+      "text": "我的手指 也要進去"
+    },
+    {
+      "t": 132.81,
+      "end": 132.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.81,
+      "end": 136.25,
+      "text": "我的底片 有你的手指"
+    },
+    {
+      "t": 137.63,
+      "end": 141.65,
+      "text": "海在後面 你在前面"
+    },
+    {
+      "t": 143.67,
+      "end": 146.21,
+      "text": "二十四張 掛滿了牆"
+    },
+    {
+      "t": 147.33,
+      "end": 151.74,
+      "text": "你的拇指 比海還大"
+    },
+    {
+      "t": 164.62,
+      "end": 164.62,
+      "text": "[Outro - nylon guitar and voices, soft]"
+    },
+    {
+      "t": 164.62,
+      "end": 188.88,
+      "text": "老闆說 這捲 免費加洗"
+    }
+  ]
+}

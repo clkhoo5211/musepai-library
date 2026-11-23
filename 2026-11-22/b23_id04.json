@@ -1,0 +1,307 @@
+{
+  "id": "b23_id04",
+  "title": "Kuda Berhenti di Rumah Itu",
+  "title_source": "scripted",
+  "genre": "Lombok Sasak cilokaq pop (gambus, suling and rebana)",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "bouncy and teasing",
+  "persona": "",
+  "subject": "A cidomo horse-cart driver in Mataram whose horse Si Hitam stops dead at one gate every morning because the girl inside feeds him sugarcane, until the driver tells his passenger to get out because they have arrived",
+  "caption": "Lombok Sasak cilokaq pop, a fast festive dance song. A gambus lute plays the bouncing main melody with quick plucked ornaments, a suling bamboo flute answers in the gaps, rebana frame drums and a tambourine drive a lively rolling rhythm, a simple bass guitar holds the root notes, no drum kit. Bright room sound, short plate reverb. A male lead sings in a light cheerful tenor with a teasing lift at line ends. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, D minor. Bouncy, teasing mood. No electronic beats, no autotune, no rap, no distorted guitar, no synth pads.",
+  "lyrics": "[Intro - gambus, suling, rebana]\n\n[Verse 1]\nPagi di Mataram, lonceng cidomo berbunyi\nKudaku si Hitam jalannya gagah\nTapi lewat gang ketiga kakinya berhenti\nTak mau maju, ia menoleh ke pagar\n\n[Pre-Chorus]\nPenumpang menggerutu, aku pura-pura marah\nPadahal aku tahu, kau juga tahu\n\n[Chorus]\nDi rumah itu ada tebu dan senyum\nSi Hitam tak mau pergi, aku pun tidak\nTarik tali kekang, ia tarik hatiku\nBerhenti dulu, berhenti dulu, Dinda\n\n[Verse 2]\nDinda keluar membawa tebu sebatang\nKuda makan, aku yang malu\nBesok pagi lewat sini lagi ya\nKudaku mengangguk, aku ikut mengangguk\n\n[Chorus]\nDi rumah itu ada tebu dan senyum\nHari ini aku lewat dengan sengaja\nTarik tali kekang, ia tarik hatiku\nTuan penumpang, turun saja, kita sudah sampai\n\n[Outro - gambus, rebana]\nBerhenti dulu, berhenti dulu\nSi Hitam dan aku sudah sampai",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Lombok Sasak cilokaq pop, a fast festive dance song. A gambus lute plays the bouncing main melody with quick plucked ornaments, a suling bamboo flute answers in the gaps, rebana frame drums and a tambourine drive a lively rolling rhythm, a simple bass guitar holds the root notes, no drum kit. Bright room sound, short plate reverb. A male lead sings in a light cheerful tenor with a teasing lift at line ends. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, D minor. Bouncy, teasing mood. No electronic beats, no autotune, no rap, no distorted guitar, no synth pads.",
+    "lyrics": "[Intro - gambus, suling, rebana]\n\n[Verse 1]\nPagi di Mataram, lonceng cidomo berbunyi\nKudaku si Hitam jalannya gagah\nTapi lewat gang ketiga kakinya berhenti\nTak mau maju, ia menoleh ke pagar\n\n[Pre-Chorus]\nPenumpang menggerutu, aku pura-pura marah\nPadahal aku tahu, kau juga tahu\n\n[Chorus]\nDi rumah itu ada tebu dan senyum\nSi Hitam tak mau pergi, aku pun tidak\nTarik tali kekang, ia tarik hatiku\nBerhenti dulu, berhenti dulu, Dinda\n\n[Verse 2]\nDinda keluar membawa tebu sebatang\nKuda makan, aku yang malu\nBesok pagi lewat sini lagi ya\nKudaku mengangguk, aku ikut mengangguk\n\n[Chorus]\nDi rumah itu ada tebu dan senyum\nHari ini aku lewat dengan sengaja\nTarik tali kekang, ia tarik hatiku\nTuan penumpang, turun saja, kita sudah sampai\n\n[Outro - gambus, rebana]\nBerhenti dulu, berhenti dulu\nSi Hitam dan aku sudah sampai"
+  },
+  "seed": "1498509436",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 44.73s**\n- 44.73s per song\n- LM phase (1 song): 5.72s\n- DiT phase (1 song): 39.01s",
+  "task_id": "a8c7f0ad-b391-43ea-b8ea-c54ceb4f6249",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-23T00:00:55.197167+08:00",
+  "audio": "b23_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Intro - gambus, suling, rebana]"
+    },
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.42,
+      "end": 29.36,
+      "text": "Pagi di Mataram, lonceng cidomo berbunyi"
+    },
+    {
+      "t": 31.62,
+      "end": 37.22,
+      "text": "Kudaku si Hitam jalannya gagah"
+    },
+    {
+      "t": 39.32,
+      "end": 44.48,
+      "text": "Tapi lewat gang ketiga kakinya berhenti"
+    },
+    {
+      "t": 46.26,
+      "end": 48.31,
+      "text": "Tak mau maju, ia menoleh ke pagar"
+    },
+    {
+      "t": 48.31,
+      "end": 48.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.31,
+      "end": 51.51,
+      "text": "Penumpang menggerutu, aku pura-pura marah"
+    },
+    {
+      "t": 51.51,
+      "end": 53.59,
+      "text": "Padahal aku tahu, kau juga tahu"
+    },
+    {
+      "t": 54.23,
+      "end": 54.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.23,
+      "end": 59.69,
+      "text": "Di rumah itu ada tebu dan senyum"
+    },
+    {
+      "t": 61.91,
+      "end": 64.49,
+      "text": "Si Hitam tak mau pergi, aku pun tidak"
+    },
+    {
+      "t": 64.49,
+      "end": 67.13,
+      "text": "Tarik tali kekang, ia tarik hatiku"
+    },
+    {
+      "t": 70.13,
+      "end": 77.97,
+      "text": "Berhenti dulu, berhenti dulu, Dinda"
+    },
+    {
+      "t": 85.09,
+      "end": 85.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.09,
+      "end": 89.61,
+      "text": "Dinda keluar membawa tebu sebatang"
+    },
+    {
+      "t": 92.05,
+      "end": 97.31,
+      "text": "Kuda makan, aku yang malu"
+    },
+    {
+      "t": 102.47,
+      "end": 108.19,
+      "text": "Besok pagi lewat sini lagi ya"
+    },
+    {
+      "t": 110.69,
+      "end": 116.51,
+      "text": "Kudaku mengangguk, aku ikut mengangguk"
+    },
+    {
+      "t": 116.51,
+      "end": 116.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.51,
+      "end": 120.55,
+      "text": "Di rumah itu ada tebu dan senyum"
+    },
+    {
+      "t": 123.69,
+      "end": 127.95,
+      "text": "Hari ini aku lewat dengan sengaja"
+    },
+    {
+      "t": 131.87,
+      "end": 135.87,
+      "text": "Tarik tali kekang, ia tarik hatiku"
+    },
+    {
+      "t": 139.37,
+      "end": 144.44,
+      "text": "Tuan penumpang, turun saja, kita sudah sampai"
+    },
+    {
+      "t": 156.12,
+      "end": 156.12,
+      "text": "[Outro - gambus, rebana]"
+    },
+    {
+      "t": 156.12,
+      "end": 161.72,
+      "text": "Berhenti dulu, berhenti dulu"
+    },
+    {
+      "t": 163.76,
+      "end": 171.26,
+      "text": "Si Hitam dan aku sudah sampai"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Intro - gambus, suling, rebana]"
+    },
+    {
+      "t": 24.42,
+      "end": 24.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.42,
+      "end": 29.36,
+      "text": "Pagi di Mataram, lonceng cidomo berbunyi"
+    },
+    {
+      "t": 31.6,
+      "end": 37.22,
+      "text": "Kudaku si Hitam jalannya gagah"
+    },
+    {
+      "t": 39.3,
+      "end": 44.48,
+      "text": "Tapi lewat gang ketiga kakinya berhenti"
+    },
+    {
+      "t": 46.26,
+      "end": 49.39,
+      "text": "Tak mau maju, ia menoleh ke pagar"
+    },
+    {
+      "t": 49.39,
+      "end": 49.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 49.39,
+      "end": 51.35,
+      "text": "Penumpang menggerutu, aku pura-pura marah"
+    },
+    {
+      "t": 51.37,
+      "end": 53.15,
+      "text": "Padahal aku tahu, kau juga tahu"
+    },
+    {
+      "t": 54.21,
+      "end": 54.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.21,
+      "end": 59.87,
+      "text": "Di rumah itu ada tebu dan senyum"
+    },
+    {
+      "t": 61.91,
+      "end": 64.51,
+      "text": "Si Hitam tak mau pergi, aku pun tidak"
+    },
+    {
+      "t": 64.51,
+      "end": 67.11,
+      "text": "Tarik tali kekang, ia tarik hatiku"
+    },
+    {
+      "t": 70.13,
+      "end": 77.99,
+      "text": "Berhenti dulu, berhenti dulu, Dinda"
+    },
+    {
+      "t": 85.09,
+      "end": 85.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 85.09,
+      "end": 89.59,
+      "text": "Dinda keluar membawa tebu sebatang"
+    },
+    {
+      "t": 92.07,
+      "end": 97.19,
+      "text": "Kuda makan, aku yang malu"
+    },
+    {
+      "t": 102.47,
+      "end": 108.19,
+      "text": "Besok pagi lewat sini lagi ya"
+    },
+    {
+      "t": 110.69,
+      "end": 116.07,
+      "text": "Kudaku mengangguk, aku ikut mengangguk"
+    },
+    {
+      "t": 116.49,
+      "end": 116.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.49,
+      "end": 120.55,
+      "text": "Di rumah itu ada tebu dan senyum"
+    },
+    {
+      "t": 123.71,
+      "end": 127.95,
+      "text": "Hari ini aku lewat dengan sengaja"
+    },
+    {
+      "t": 131.87,
+      "end": 135.87,
+      "text": "Tarik tali kekang, ia tarik hatiku"
+    },
+    {
+      "t": 139.37,
+      "end": 144.48,
+      "text": "Tuan penumpang, turun saja, kita sudah sampai"
+    },
+    {
+      "t": 156.12,
+      "end": 156.12,
+      "text": "[Outro - gambus, rebana]"
+    },
+    {
+      "t": 156.12,
+      "end": 161.58,
+      "text": "Berhenti dulu, berhenti dulu"
+    },
+    {
+      "t": 163.78,
+      "end": 171.28,
+      "text": "Si Hitam dan aku sudah sampai"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

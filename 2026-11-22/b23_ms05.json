@@ -1,0 +1,489 @@
+{
+  "id": "b23_ms05",
+  "title": "Harmonium Tak Rosak",
+  "title_source": "scripted",
+  "genre": "Malay qawwali-style devotional-romantic song (harmonium, tabla and handclap call-and-response)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "warm, rising, openly in love",
+  "persona": "",
+  "subject": "A harmonium repairer in Brickfields who finds nothing wrong with the old family harmonium the same girl brings in every month, and finally stops pretending to search for the fault.",
+  "caption": "Malay qawwali-style song with a rolling eight-beat tabla groove. Harmonium playing a rising chordal melody with reed vibrato, tabla and dholak driving a steady cycle, rhythmic handclaps on the backbeat, sarangi doubling the vocal line. Live room recording, handclaps close, warm reed tone. Male lead vocal with a small group answering each line, strong mid register, clearly sung. 100 BPM, D major. Warm, rising, openly in love. Clear full voice, every word enunciated, steady sung melody on every line. No synth, no drum machine, no autotune, no rap, no electric guitar, no EDM.",
+  "lyrics": "[Intro - harmonium and tabla, handclaps enter]\n\n[Verse 1]\nSetiap bulan dia bawa harmonium\nKatanya kekunci ketiga tersangkut\nKubuka, kubersih, kutekan semua\nTiada apa-apa yang rosak di situ\n\n[Pre-Chorus]\nDia senyum, dia pura-pura hairan\nAku pun pura-pura mencari\n\n[Chorus]\nTekan sekali lagi, katanya\nBunyinya tak betul, katanya\nHarmonium tak rosak, sayang\nYang rosak hatiku di kedai ini\n\n[Verse 2]\nAyahnya beli di Jalan Tun Sambanthan\nDua puluh tahun bunyinya masih bulat\nBulan depan dia datang lagi\nAku sudah sediakan teh dua cawan\n\n[Pre-Chorus]\nHari ini kuletak alat di tepi\nKuberanikan diri, kupandang dia\n\n[Chorus]\nTekan sekali lagi, kataku\nBunyinya betul, kataku\nHarmonium tak rosak, sayang\nMarilah main lagu dengan aku\n\n[Outro - harmonium and tabla, handclaps slow to a stop]\nTekan sekali lagi, sayang\nHarmonium tak rosak",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Malay qawwali-style song with a rolling eight-beat tabla groove. Harmonium playing a rising chordal melody with reed vibrato, tabla and dholak driving a steady cycle, rhythmic handclaps on the backbeat, sarangi doubling the vocal line. Live room recording, handclaps close, warm reed tone. Male lead vocal with a small group answering each line, strong mid register, clearly sung. 100 BPM, D major. Warm, rising, openly in love. Clear full voice, every word enunciated, steady sung melody on every line. No synth, no drum machine, no autotune, no rap, no electric guitar, no EDM.",
+    "lyrics": "[Intro - harmonium and tabla, handclaps enter]\n\n[Verse 1]\nSetiap bulan dia bawa harmonium\nKatanya kekunci ketiga tersangkut\nKubuka, kubersih, kutekan semua\nTiada apa-apa yang rosak di situ\n\n[Pre-Chorus]\nDia senyum, dia pura-pura hairan\nAku pun pura-pura mencari\n\n[Chorus]\nTekan sekali lagi, katanya\nBunyinya tak betul, katanya\nHarmonium tak rosak, sayang\nYang rosak hatiku di kedai ini\n\n[Verse 2]\nAyahnya beli di Jalan Tun Sambanthan\nDua puluh tahun bunyinya masih bulat\nBulan depan dia datang lagi\nAku sudah sediakan teh dua cawan\n\n[Pre-Chorus]\nHari ini kuletak alat di tepi\nKuberanikan diri, kupandang dia\n\n[Chorus]\nTekan sekali lagi, kataku\nBunyinya betul, kataku\nHarmonium tak rosak, sayang\nMarilah main lagu dengan aku\n\n[Outro - harmonium and tabla, handclaps slow to a stop]\nTekan sekali lagi, sayang\nHarmonium tak rosak"
+  },
+  "seed": "1630584103",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 47.70s**\n- 47.70s per song\n- LM phase (1 song): 8.50s\n- DiT phase (1 song): 39.20s",
+  "task_id": "d0cd64ad-ebb2-43d4-b583-a1296b9c7f6c",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-22T23:56:54.809548+08:00",
+  "audio": "b23_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Intro - harmonium and tabla, handclaps enter]"
+    },
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.98,
+      "end": 34.06,
+      "text": "Setiap bulan dia bawa harmonium"
+    },
+    {
+      "t": 34.06,
+      "end": 38.46,
+      "text": "Katanya kekunci ketiga tersangkut"
+    },
+    {
+      "t": 38.6,
+      "end": 44.98,
+      "text": "Kubuka, kubersih, kutekan semua"
+    },
+    {
+      "t": 45.0,
+      "end": 50.23,
+      "text": "Tiada apa-apa yang rosak di situ"
+    },
+    {
+      "t": 54.33,
+      "end": 54.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.33,
+      "end": 61.19,
+      "text": "Dia senyum, dia pura-pura hairan"
+    },
+    {
+      "t": 64.05,
+      "end": 69.51,
+      "text": "Aku pun pura-pura mencari"
+    },
+    {
+      "t": 73.21,
+      "end": 73.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.21,
+      "end": 75.79,
+      "text": "Tekan sekali lagi, katanya"
+    },
+    {
+      "t": 75.79,
+      "end": 76.59,
+      "text": "Bunyinya tak betul, katanya"
+    },
+    {
+      "t": 76.77,
+      "end": 78.91,
+      "text": "Harmonium tak rosak, sayang"
+    },
+    {
+      "t": 78.91,
+      "end": 82.95,
+      "text": "Yang rosak hatiku di kedai ini"
+    },
+    {
+      "t": 86.23,
+      "end": 86.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.23,
+      "end": 90.13,
+      "text": "Ayahnya beli di Jalan Tun Sambanthan"
+    },
+    {
+      "t": 90.95,
+      "end": 95.07,
+      "text": "Dua puluh tahun bunyinya masih bulat"
+    },
+    {
+      "t": 95.73,
+      "end": 99.19,
+      "text": "Bulan depan dia datang lagi"
+    },
+    {
+      "t": 100.65,
+      "end": 104.27,
+      "text": "Aku sudah sediakan teh dua cawan"
+    },
+    {
+      "t": 106.81,
+      "end": 106.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.81,
+      "end": 121.55,
+      "text": "Hari ini kuletak alat di tepi"
+    },
+    {
+      "t": 124.53,
+      "end": 129.83,
+      "text": "Kuberanikan diri, kupandang dia"
+    },
+    {
+      "t": 133.51,
+      "end": 133.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.51,
+      "end": 136.61,
+      "text": "Tekan sekali lagi, kataku"
+    },
+    {
+      "t": 138.27,
+      "end": 148.49,
+      "text": "Bunyinya betul, kataku"
+    },
+    {
+      "t": 152.9,
+      "end": 159.74,
+      "text": "Harmonium tak rosak, sayang"
+    },
+    {
+      "t": 159.86,
+      "end": 163.02,
+      "text": "Marilah main lagu dengan aku"
+    },
+    {
+      "t": 169.84,
+      "end": 169.84,
+      "text": "[Outro - harmonium and tabla, handclaps slow to a stop]"
+    },
+    {
+      "t": 169.84,
+      "end": 173.08,
+      "text": "Tekan sekali lagi, sayang"
+    },
+    {
+      "t": 174.68,
+      "end": 177.24,
+      "text": "Harmonium tak rosak"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Intro - harmonium and tabla, handclaps enter]"
+    },
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.98,
+      "end": 34.06,
+      "text": "Setiap bulan dia bawa harmonium"
+    },
+    {
+      "t": 34.06,
+      "end": 38.46,
+      "text": "Katanya kekunci ketiga tersangkut"
+    },
+    {
+      "t": 38.6,
+      "end": 44.98,
+      "text": "Kubuka, kubersih, kutekan semua"
+    },
+    {
+      "t": 45.0,
+      "end": 50.23,
+      "text": "Tiada apa-apa yang rosak di situ"
+    },
+    {
+      "t": 54.33,
+      "end": 54.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.33,
+      "end": 61.19,
+      "text": "Dia senyum, dia pura-pura hairan"
+    },
+    {
+      "t": 64.05,
+      "end": 69.51,
+      "text": "Aku pun pura-pura mencari"
+    },
+    {
+      "t": 73.21,
+      "end": 73.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.21,
+      "end": 75.79,
+      "text": "Tekan sekali lagi, katanya"
+    },
+    {
+      "t": 75.79,
+      "end": 76.59,
+      "text": "Bunyinya tak betul, katanya"
+    },
+    {
+      "t": 76.59,
+      "end": 79.13,
+      "text": "Harmonium tak rosak, sayang"
+    },
+    {
+      "t": 79.13,
+      "end": 82.91,
+      "text": "Yang rosak hatiku di kedai ini"
+    },
+    {
+      "t": 86.23,
+      "end": 86.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.23,
+      "end": 90.09,
+      "text": "Ayahnya beli di Jalan Tun Sambanthan"
+    },
+    {
+      "t": 90.95,
+      "end": 95.07,
+      "text": "Dua puluh tahun bunyinya masih bulat"
+    },
+    {
+      "t": 95.73,
+      "end": 99.19,
+      "text": "Bulan depan dia datang lagi"
+    },
+    {
+      "t": 100.65,
+      "end": 104.23,
+      "text": "Aku sudah sediakan teh dua cawan"
+    },
+    {
+      "t": 105.91,
+      "end": 105.91,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.91,
+      "end": 121.57,
+      "text": "Hari ini kuletak alat di tepi"
+    },
+    {
+      "t": 124.53,
+      "end": 129.83,
+      "text": "Kuberanikan diri, kupandang dia"
+    },
+    {
+      "t": 133.51,
+      "end": 133.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.51,
+      "end": 136.61,
+      "text": "Tekan sekali lagi, kataku"
+    },
+    {
+      "t": 138.27,
+      "end": 148.49,
+      "text": "Bunyinya betul, kataku"
+    },
+    {
+      "t": 152.9,
+      "end": 159.74,
+      "text": "Harmonium tak rosak, sayang"
+    },
+    {
+      "t": 159.86,
+      "end": 163.02,
+      "text": "Marilah main lagu dengan aku"
+    },
+    {
+      "t": 169.82,
+      "end": 169.82,
+      "text": "[Outro - harmonium and tabla, handclaps slow to a stop]"
+    },
+    {
+      "t": 169.82,
+      "end": 173.1,
+      "text": "Tekan sekali lagi, sayang"
+    },
+    {
+      "t": 174.68,
+      "end": 177.24,
+      "text": "Harmonium tak rosak"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Intro - harmonium and tabla, handclaps enter]"
+    },
+    {
+      "t": 27.98,
+      "end": 27.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.98,
+      "end": 34.36,
+      "text": "Setiap bulan dia bawa harmonium"
+    },
+    {
+      "t": 37.64,
+      "end": 41.42,
+      "text": "Katanya kekunci ketiga tersangkut"
+    },
+    {
+      "t": 41.42,
+      "end": 44.22,
+      "text": "Kubuka, kubersih, kutekan semua"
+    },
+    {
+      "t": 45.0,
+      "end": 50.23,
+      "text": "Tiada apa-apa yang rosak di situ"
+    },
+    {
+      "t": 54.33,
+      "end": 54.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.33,
+      "end": 61.19,
+      "text": "Dia senyum, dia pura-pura hairan"
+    },
+    {
+      "t": 63.99,
+      "end": 69.49,
+      "text": "Aku pun pura-pura mencari"
+    },
+    {
+      "t": 73.23,
+      "end": 73.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 73.23,
+      "end": 76.01,
+      "text": "Tekan sekali lagi, katanya"
+    },
+    {
+      "t": 76.01,
+      "end": 76.77,
+      "text": "Bunyinya tak betul, katanya"
+    },
+    {
+      "t": 76.77,
+      "end": 78.91,
+      "text": "Harmonium tak rosak, sayang"
+    },
+    {
+      "t": 78.91,
+      "end": 82.95,
+      "text": "Yang rosak hatiku di kedai ini"
+    },
+    {
+      "t": 86.23,
+      "end": 86.23,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 86.23,
+      "end": 90.13,
+      "text": "Ayahnya beli di Jalan Tun Sambanthan"
+    },
+    {
+      "t": 90.95,
+      "end": 95.07,
+      "text": "Dua puluh tahun bunyinya masih bulat"
+    },
+    {
+      "t": 95.73,
+      "end": 99.19,
+      "text": "Bulan depan dia datang lagi"
+    },
+    {
+      "t": 100.65,
+      "end": 104.27,
+      "text": "Aku sudah sediakan teh dua cawan"
+    },
+    {
+      "t": 106.81,
+      "end": 106.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 106.81,
+      "end": 121.55,
+      "text": "Hari ini kuletak alat di tepi"
+    },
+    {
+      "t": 124.53,
+      "end": 129.83,
+      "text": "Kuberanikan diri, kupandang dia"
+    },
+    {
+      "t": 133.51,
+      "end": 133.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.51,
+      "end": 136.61,
+      "text": "Tekan sekali lagi, kataku"
+    },
+    {
+      "t": 138.27,
+      "end": 148.49,
+      "text": "Bunyinya betul, kataku"
+    },
+    {
+      "t": 152.9,
+      "end": 159.74,
+      "text": "Harmonium tak rosak, sayang"
+    },
+    {
+      "t": 159.86,
+      "end": 163.02,
+      "text": "Marilah main lagu dengan aku"
+    },
+    {
+      "t": 169.84,
+      "end": 169.84,
+      "text": "[Outro - harmonium and tabla, handclaps slow to a stop]"
+    },
+    {
+      "t": 169.84,
+      "end": 173.08,
+      "text": "Tekan sekali lagi, sayang"
+    },
+    {
+      "t": 174.68,
+      "end": 177.24,
+      "text": "Harmonium tak rosak"
+    }
+  ]
+}

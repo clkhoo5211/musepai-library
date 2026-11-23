@@ -1,0 +1,564 @@
+{
+  "id": "b23_vi01",
+  "title": "Diều Sáo Đồi Chè",
+  "title_source": "scripted",
+  "genre": "Phu Tho hat gheo folk-pop (flirtatious call-and-response, bamboo flute and dan nhi)",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "teasing, sunny, shy-flirty",
+  "persona": "",
+  "subject": "A Phú Thọ tea-picker's son flies a paper kite fitted with a bamboo flute so it hums over the tea hills; the girl picking on the next hill ties a red scarf to her own kite tail and tugs back, until the two strings tangle.",
+  "caption": "Phu Tho hat gheo folk-pop sung in Vietnamese, flirtatious call-and-response. Breathy bamboo sao truc flute lead, dan nhi two-string fiddle answering each phrase, lightly strummed acoustic guitar, small trong com hand drum, upright bass walking gently. Airy open room, natural acoustic mix. Male and female duet trading lines, bright mid-range, clearly sung with a light folk lilt. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, D major. Teasing, sunny, shy-flirty mood. No rapping, no autotune, no trap hi-hats, no EDM drop, no distorted guitar, no vocal effects.",
+  "lyrics": "[Intro - sao truc, dan nhi]\n\n[Verse 1]\nDiều anh gắn sáo thổi trên đồi chè\nGió chiều lùa qua, tiếng vang xuống xóm\nEm hái chè xanh, nón nghiêng che mặt\nNghe tiếng sáo diều, tay em chậm lại\n\n[Pre-Chorus]\nAi thả diều đấy, ghẹo em đấy à\nDây diều anh giật, lòng em cũng giật\n\n[Chorus]\nỚi a diều sáo, kêu thêm tiếng nữa\nEm đứng đồi bên, em nghe rõ cả\nAnh thả dây dài qua ba luống chè\nEm giật dây lại, xem anh có buông\n\n[Verse 2]\nChị em trong đội trêu em đỏ mặt\nBảo diều ai thổi mà em ngẩn ngơ\nEm buộc khăn đỏ lên đuôi diều giấy\nGửi sang đồi bên, coi anh nhận không\n\n[Chorus]\nỚi a diều sáo, kêu to hơn nữa\nAnh nhìn khăn đỏ, anh chạy qua đồi\nHai sợi dây diều quấn vào nhau mãi\nEm giật dây lại, anh chẳng chịu buông\n\n[Bridge - dan nhi, trong com]\nGỡ sao cho ra, ai cũng không gỡ\nThôi để vậy luôn, chiều nay chưa về\n\n[Chorus]\nỚi a diều sáo, hát tiếp đi nào\nHai con diều chung một đồi chè\nMai anh sang nhà, mang sáo hay mang trầu\nEm giật dây lại, em chẳng buông đâu\n\n[Outro - sao truc, dan nhi]\nỚi a diều sáo\nHai dây quấn nhau",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Phu Tho hat gheo folk-pop sung in Vietnamese, flirtatious call-and-response. Breathy bamboo sao truc flute lead, dan nhi two-string fiddle answering each phrase, lightly strummed acoustic guitar, small trong com hand drum, upright bass walking gently. Airy open room, natural acoustic mix. Male and female duet trading lines, bright mid-range, clearly sung with a light folk lilt. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, D major. Teasing, sunny, shy-flirty mood. No rapping, no autotune, no trap hi-hats, no EDM drop, no distorted guitar, no vocal effects.",
+    "lyrics": "[Intro - sao truc, dan nhi]\n\n[Verse 1]\nDiều anh gắn sáo thổi trên đồi chè\nGió chiều lùa qua, tiếng vang xuống xóm\nEm hái chè xanh, nón nghiêng che mặt\nNghe tiếng sáo diều, tay em chậm lại\n\n[Pre-Chorus]\nAi thả diều đấy, ghẹo em đấy à\nDây diều anh giật, lòng em cũng giật\n\n[Chorus]\nỚi a diều sáo, kêu thêm tiếng nữa\nEm đứng đồi bên, em nghe rõ cả\nAnh thả dây dài qua ba luống chè\nEm giật dây lại, xem anh có buông\n\n[Verse 2]\nChị em trong đội trêu em đỏ mặt\nBảo diều ai thổi mà em ngẩn ngơ\nEm buộc khăn đỏ lên đuôi diều giấy\nGửi sang đồi bên, coi anh nhận không\n\n[Chorus]\nỚi a diều sáo, kêu to hơn nữa\nAnh nhìn khăn đỏ, anh chạy qua đồi\nHai sợi dây diều quấn vào nhau mãi\nEm giật dây lại, anh chẳng chịu buông\n\n[Bridge - dan nhi, trong com]\nGỡ sao cho ra, ai cũng không gỡ\nThôi để vậy luôn, chiều nay chưa về\n\n[Chorus]\nỚi a diều sáo, hát tiếp đi nào\nHai con diều chung một đồi chè\nMai anh sang nhà, mang sáo hay mang trầu\nEm giật dây lại, em chẳng buông đâu\n\n[Outro - sao truc, dan nhi]\nỚi a diều sáo\nHai dây quấn nhau"
+  },
+  "seed": "2929807840",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.38s**\n- 52.38s per song\n- LM phase (1 song): 6.67s\n- DiT phase (1 song): 45.71s",
+  "task_id": "c8db2290-d328-494f-977b-dd48aa6e1725",
+  "elapsed_s": 70.2,
+  "generated_at": "2026-11-23T00:03:15.603208+08:00",
+  "audio": "b23_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.7,
+      "end": 20.7,
+      "text": "[Intro - sao truc, dan nhi]"
+    },
+    {
+      "t": 20.7,
+      "end": 20.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.7,
+      "end": 24.06,
+      "text": "Diều anh gắn sáo thổi trên đồi chè"
+    },
+    {
+      "t": 24.24,
+      "end": 26.7,
+      "text": "Gió chiều lùa qua, tiếng vang xuống xóm"
+    },
+    {
+      "t": 26.78,
+      "end": 28.8,
+      "text": "Em hái chè xanh, nón nghiêng che mặt"
+    },
+    {
+      "t": 29.94,
+      "end": 33.26,
+      "text": "Nghe tiếng sáo diều, tay em chậm lại"
+    },
+    {
+      "t": 33.46,
+      "end": 33.46,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.46,
+      "end": 38.16,
+      "text": "Ai thả diều đấy, ghẹo em đấy à"
+    },
+    {
+      "t": 39.18,
+      "end": 42.62,
+      "text": "Dây diều anh giật, lòng em cũng giật"
+    },
+    {
+      "t": 42.74,
+      "end": 42.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.74,
+      "end": 48.56,
+      "text": "Ới a diều sáo, kêu thêm tiếng nữa"
+    },
+    {
+      "t": 48.56,
+      "end": 51.55,
+      "text": "Em đứng đồi bên, em nghe rõ cả"
+    },
+    {
+      "t": 52.79,
+      "end": 56.09,
+      "text": "Anh thả dây dài qua ba luống chè"
+    },
+    {
+      "t": 57.41,
+      "end": 61.57,
+      "text": "Em giật dây lại, xem anh có buông"
+    },
+    {
+      "t": 62.81,
+      "end": 62.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.81,
+      "end": 65.39,
+      "text": "Chị em trong đội trêu em đỏ mặt"
+    },
+    {
+      "t": 67.47,
+      "end": 69.95,
+      "text": "Bảo diều ai thổi mà em ngẩn ngơ"
+    },
+    {
+      "t": 72.17,
+      "end": 76.65,
+      "text": "Em buộc khăn đỏ lên đuôi diều giấy"
+    },
+    {
+      "t": 77.85,
+      "end": 81.65,
+      "text": "Gửi sang đồi bên, coi anh nhận không"
+    },
+    {
+      "t": 81.65,
+      "end": 81.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.65,
+      "end": 83.91,
+      "text": "Ới a diều sáo, kêu to hơn nữa"
+    },
+    {
+      "t": 84.83,
+      "end": 88.17,
+      "text": "Anh nhìn khăn đỏ, anh chạy qua đồi"
+    },
+    {
+      "t": 89.39,
+      "end": 93.43,
+      "text": "Hai sợi dây diều quấn vào nhau mãi"
+    },
+    {
+      "t": 93.81,
+      "end": 98.09,
+      "text": "Em giật dây lại, anh chẳng chịu buông"
+    },
+    {
+      "t": 100.37,
+      "end": 100.37,
+      "text": "[Bridge - dan nhi, trong com]"
+    },
+    {
+      "t": 100.37,
+      "end": 103.11,
+      "text": "Gỡ sao cho ra, ai cũng không gỡ"
+    },
+    {
+      "t": 117.07,
+      "end": 121.87,
+      "text": "Thôi để vậy luôn, chiều nay chưa về"
+    },
+    {
+      "t": 122.35,
+      "end": 122.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.35,
+      "end": 132.51,
+      "text": "Ới a diều sáo, hát tiếp đi nào"
+    },
+    {
+      "t": 133.55,
+      "end": 150.06,
+      "text": "Hai con diều chung một đồi chè"
+    },
+    {
+      "t": 150.06,
+      "end": 154.96,
+      "text": "Mai anh sang nhà, mang sáo hay mang trầu"
+    },
+    {
+      "t": 154.96,
+      "end": 171.12,
+      "text": "Em giật dây lại, em chẳng buông đâu"
+    },
+    {
+      "t": 174.58,
+      "end": 174.58,
+      "text": "[Outro - sao truc, dan nhi]"
+    },
+    {
+      "t": 174.58,
+      "end": 177.76,
+      "text": "Ới a diều sáo"
+    },
+    {
+      "t": 179.32,
+      "end": 181.28,
+      "text": "Hai dây quấn nhau"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.7,
+      "end": 20.7,
+      "text": "[Intro - sao truc, dan nhi]"
+    },
+    {
+      "t": 20.7,
+      "end": 20.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.7,
+      "end": 24.06,
+      "text": "Diều anh gắn sáo thổi trên đồi chè"
+    },
+    {
+      "t": 24.24,
+      "end": 26.7,
+      "text": "Gió chiều lùa qua, tiếng vang xuống xóm"
+    },
+    {
+      "t": 26.78,
+      "end": 28.8,
+      "text": "Em hái chè xanh, nón nghiêng che mặt"
+    },
+    {
+      "t": 29.94,
+      "end": 33.26,
+      "text": "Nghe tiếng sáo diều, tay em chậm lại"
+    },
+    {
+      "t": 33.46,
+      "end": 33.46,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.46,
+      "end": 38.16,
+      "text": "Ai thả diều đấy, ghẹo em đấy à"
+    },
+    {
+      "t": 39.18,
+      "end": 42.62,
+      "text": "Dây diều anh giật, lòng em cũng giật"
+    },
+    {
+      "t": 42.74,
+      "end": 42.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.74,
+      "end": 48.56,
+      "text": "Ới a diều sáo, kêu thêm tiếng nữa"
+    },
+    {
+      "t": 48.56,
+      "end": 51.55,
+      "text": "Em đứng đồi bên, em nghe rõ cả"
+    },
+    {
+      "t": 52.79,
+      "end": 56.09,
+      "text": "Anh thả dây dài qua ba luống chè"
+    },
+    {
+      "t": 57.41,
+      "end": 61.57,
+      "text": "Em giật dây lại, xem anh có buông"
+    },
+    {
+      "t": 62.81,
+      "end": 62.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.81,
+      "end": 65.39,
+      "text": "Chị em trong đội trêu em đỏ mặt"
+    },
+    {
+      "t": 67.47,
+      "end": 69.95,
+      "text": "Bảo diều ai thổi mà em ngẩn ngơ"
+    },
+    {
+      "t": 72.17,
+      "end": 76.65,
+      "text": "Em buộc khăn đỏ lên đuôi diều giấy"
+    },
+    {
+      "t": 77.85,
+      "end": 81.65,
+      "text": "Gửi sang đồi bên, coi anh nhận không"
+    },
+    {
+      "t": 81.65,
+      "end": 81.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.65,
+      "end": 83.91,
+      "text": "Ới a diều sáo, kêu to hơn nữa"
+    },
+    {
+      "t": 84.83,
+      "end": 88.17,
+      "text": "Anh nhìn khăn đỏ, anh chạy qua đồi"
+    },
+    {
+      "t": 89.39,
+      "end": 93.43,
+      "text": "Hai sợi dây diều quấn vào nhau mãi"
+    },
+    {
+      "t": 93.81,
+      "end": 98.09,
+      "text": "Em giật dây lại, anh chẳng chịu buông"
+    },
+    {
+      "t": 100.37,
+      "end": 100.37,
+      "text": "[Bridge - dan nhi, trong com]"
+    },
+    {
+      "t": 100.37,
+      "end": 103.11,
+      "text": "Gỡ sao cho ra, ai cũng không gỡ"
+    },
+    {
+      "t": 117.07,
+      "end": 121.87,
+      "text": "Thôi để vậy luôn, chiều nay chưa về"
+    },
+    {
+      "t": 122.35,
+      "end": 122.35,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 122.35,
+      "end": 132.51,
+      "text": "Ới a diều sáo, hát tiếp đi nào"
+    },
+    {
+      "t": 133.55,
+      "end": 150.06,
+      "text": "Hai con diều chung một đồi chè"
+    },
+    {
+      "t": 150.06,
+      "end": 154.96,
+      "text": "Mai anh sang nhà, mang sáo hay mang trầu"
+    },
+    {
+      "t": 154.96,
+      "end": 171.12,
+      "text": "Em giật dây lại, em chẳng buông đâu"
+    },
+    {
+      "t": 174.58,
+      "end": 174.58,
+      "text": "[Outro - sao truc, dan nhi]"
+    },
+    {
+      "t": 174.58,
+      "end": 177.76,
+      "text": "Ới a diều sáo"
+    },
+    {
+      "t": 179.32,
+      "end": 181.28,
+      "text": "Hai dây quấn nhau"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 20.7,
+      "end": 20.7,
+      "text": "[Intro - sao truc, dan nhi]"
+    },
+    {
+      "t": 20.7,
+      "end": 20.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.7,
+      "end": 23.88,
+      "text": "Diều anh gắn sáo thổi trên đồi chè"
+    },
+    {
+      "t": 23.88,
+      "end": 25.42,
+      "text": "Gió chiều lùa qua, tiếng vang xuống xóm"
+    },
+    {
+      "t": 25.42,
+      "end": 28.8,
+      "text": "Em hái chè xanh, nón nghiêng che mặt"
+    },
+    {
+      "t": 29.96,
+      "end": 33.26,
+      "text": "Nghe tiếng sáo diều, tay em chậm lại"
+    },
+    {
+      "t": 33.42,
+      "end": 33.42,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.42,
+      "end": 38.16,
+      "text": "Ai thả diều đấy, ghẹo em đấy à"
+    },
+    {
+      "t": 39.18,
+      "end": 42.62,
+      "text": "Dây diều anh giật, lòng em cũng giật"
+    },
+    {
+      "t": 42.74,
+      "end": 42.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.74,
+      "end": 46.8,
+      "text": "Ới a diều sáo, kêu thêm tiếng nữa"
+    },
+    {
+      "t": 46.88,
+      "end": 51.55,
+      "text": "Em đứng đồi bên, em nghe rõ cả"
+    },
+    {
+      "t": 52.79,
+      "end": 56.11,
+      "text": "Anh thả dây dài qua ba luống chè"
+    },
+    {
+      "t": 57.41,
+      "end": 61.57,
+      "text": "Em giật dây lại, xem anh có buông"
+    },
+    {
+      "t": 62.81,
+      "end": 62.81,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.81,
+      "end": 65.39,
+      "text": "Chị em trong đội trêu em đỏ mặt"
+    },
+    {
+      "t": 67.47,
+      "end": 69.95,
+      "text": "Bảo diều ai thổi mà em ngẩn ngơ"
+    },
+    {
+      "t": 72.17,
+      "end": 74.63,
+      "text": "Em buộc khăn đỏ lên đuôi diều giấy"
+    },
+    {
+      "t": 75.83,
+      "end": 80.21,
+      "text": "Gửi sang đồi bên, coi anh nhận không"
+    },
+    {
+      "t": 80.25,
+      "end": 80.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 80.25,
+      "end": 83.75,
+      "text": "Ới a diều sáo, kêu to hơn nữa"
+    },
+    {
+      "t": 84.83,
+      "end": 88.17,
+      "text": "Anh nhìn khăn đỏ, anh chạy qua đồi"
+    },
+    {
+      "t": 89.39,
+      "end": 93.39,
+      "text": "Hai sợi dây diều quấn vào nhau mãi"
+    },
+    {
+      "t": 93.79,
+      "end": 98.05,
+      "text": "Em giật dây lại, anh chẳng chịu buông"
+    },
+    {
+      "t": 100.39,
+      "end": 100.39,
+      "text": "[Bridge - dan nhi, trong com]"
+    },
+    {
+      "t": 100.39,
+      "end": 103.09,
+      "text": "Gỡ sao cho ra, ai cũng không gỡ"
+    },
+    {
+      "t": 104.37,
+      "end": 107.71,
+      "text": "Thôi để vậy luôn, chiều nay chưa về"
+    },
+    {
+      "t": 117.23,
+      "end": 117.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 117.23,
+      "end": 129.29,
+      "text": "Ới a diều sáo, hát tiếp đi nào"
+    },
+    {
+      "t": 129.51,
+      "end": 133.95,
+      "text": "Hai con diều chung một đồi chè"
+    },
+    {
+      "t": 134.11,
+      "end": 150.08,
+      "text": "Mai anh sang nhà, mang sáo hay mang trầu"
+    },
+    {
+      "t": 150.08,
+      "end": 170.52,
+      "text": "Em giật dây lại, em chẳng buông đâu"
+    },
+    {
+      "t": 174.58,
+      "end": 174.58,
+      "text": "[Outro - sao truc, dan nhi]"
+    },
+    {
+      "t": 174.58,
+      "end": 176.02,
+      "text": "Ới a diều sáo"
+    },
+    {
+      "t": 179.32,
+      "end": 181.56,
+      "text": "Hai dây quấn nhau"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "id": "b23_ms03",
+  "title": "Pin Perak Lima Puluh",
+  "title_source": "scripted",
+  "genre": "Malay symphonic progressive rock (1970s Mellotron-and-organ prog)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "reflective, steady, quietly proud",
+  "persona": "",
+  "subject": "A retired railway signalman in Kuala Lipis who has given blood every four months for thirteen years is about to receive the silver pin for his fiftieth donation and wonders who carries it.",
+  "caption": "Malay symphonic progressive rock, 1970s style with a stately mid-tempo pulse. Mellotron strings holding long chords, Hammond organ playing rising runs, electric guitar with a clean singing lead tone, fretless bass moving under the melody, drum kit with open toms and ride cymbal. Analog tape warmth, wide stereo organ, dry drums. Male vocal, warm baritone, clearly sung. 92 BPM, A minor. Reflective, steady, quietly proud. Clear full voice, every word enunciated, steady sung melody on every line. No synth pop, no trap drums, no autotune, no rap, no EDM, no distorted metal guitar.",
+  "lyrics": "[Intro - Mellotron strings and organ, clean guitar]\n\n[Verse 1]\nEmpat bulan sekali aku datang\nKe kaunter putih dekat stesen lama\nJari ditusuk, lengan disingsing\nJururawat sudah hafal namaku\n\n[Pre-Chorus]\nBeg merah itu berat sedikit\nLima puluh kali, kuhitung semua\n\n[Chorus]\nKe mana perginya darahku\nKe tangan siapa, ke wad mana\nTak pernah kukenal nama itu\nNamun dia berjalan bawa sebahagianku\n\n[Verse 2]\nDulu aku tukar lampu isyarat\nHijau untuk kereta api lalu\nKini kutukar pula satu degup\nDari lenganku ke dada yang lain\n\n[Pre-Chorus]\nPin perak kecil di atas meja\nJururawat senyum, aku tunduk\n\n[Chorus]\nKe mana perginya darahku\nMungkin ke budak yang baru bangun\nTak pernah kukenal nama itu\nNamun lampu hijau menyala untukku\n\n[Outro - organ and Mellotron, slow guitar line]\nEmpat bulan lagi aku datang\nSimpan satu kerusi untukku",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Malay symphonic progressive rock, 1970s style with a stately mid-tempo pulse. Mellotron strings holding long chords, Hammond organ playing rising runs, electric guitar with a clean singing lead tone, fretless bass moving under the melody, drum kit with open toms and ride cymbal. Analog tape warmth, wide stereo organ, dry drums. Male vocal, warm baritone, clearly sung. 92 BPM, A minor. Reflective, steady, quietly proud. Clear full voice, every word enunciated, steady sung melody on every line. No synth pop, no trap drums, no autotune, no rap, no EDM, no distorted metal guitar.",
+    "lyrics": "[Intro - Mellotron strings and organ, clean guitar]\n\n[Verse 1]\nEmpat bulan sekali aku datang\nKe kaunter putih dekat stesen lama\nJari ditusuk, lengan disingsing\nJururawat sudah hafal namaku\n\n[Pre-Chorus]\nBeg merah itu berat sedikit\nLima puluh kali, kuhitung semua\n\n[Chorus]\nKe mana perginya darahku\nKe tangan siapa, ke wad mana\nTak pernah kukenal nama itu\nNamun dia berjalan bawa sebahagianku\n\n[Verse 2]\nDulu aku tukar lampu isyarat\nHijau untuk kereta api lalu\nKini kutukar pula satu degup\nDari lenganku ke dada yang lain\n\n[Pre-Chorus]\nPin perak kecil di atas meja\nJururawat senyum, aku tunduk\n\n[Chorus]\nKe mana perginya darahku\nMungkin ke budak yang baru bangun\nTak pernah kukenal nama itu\nNamun lampu hijau menyala untukku\n\n[Outro - organ and Mellotron, slow guitar line]\nEmpat bulan lagi aku datang\nSimpan satu kerusi untukku"
+  },
+  "seed": "1795664037",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.65s**\n- 50.65s per song\n- LM phase (1 song): 9.81s\n- DiT phase (1 song): 40.83s",
+  "task_id": "ced9b9e1-31ed-410c-b17e-5c9fa05ed1e7",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-22T23:54:54.624258+08:00",
+  "audio": "b23_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.38,
+      "end": 27.38,
+      "text": "[Intro - Mellotron strings and organ, clean guitar]"
+    },
+    {
+      "t": 27.38,
+      "end": 27.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.38,
+      "end": 31.66,
+      "text": "Empat bulan sekali aku datang"
+    },
+    {
+      "t": 32.28,
+      "end": 38.8,
+      "text": "Ke kaunter putih dekat stesen lama"
+    },
+    {
+      "t": 42.62,
+      "end": 47.5,
+      "text": "Jari ditusuk, lengan disingsing"
+    },
+    {
+      "t": 47.98,
+      "end": 54.47,
+      "text": "Jururawat sudah hafal namaku"
+    },
+    {
+      "t": 56.35,
+      "end": 56.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.35,
+      "end": 61.89,
+      "text": "Beg merah itu berat sedikit"
+    },
+    {
+      "t": 62.03,
+      "end": 70.11,
+      "text": "Lima puluh kali, kuhitung semua"
+    },
+    {
+      "t": 70.11,
+      "end": 70.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.11,
+      "end": 84.67,
+      "text": "Ke mana perginya darahku"
+    },
+    {
+      "t": 84.67,
+      "end": 85.93,
+      "text": "Ke tangan siapa, ke wad mana"
+    },
+    {
+      "t": 85.93,
+      "end": 87.53,
+      "text": "Tak pernah kukenal nama itu"
+    },
+    {
+      "t": 88.71,
+      "end": 92.51,
+      "text": "Namun dia berjalan bawa sebahagianku"
+    },
+    {
+      "t": 92.51,
+      "end": 92.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.51,
+      "end": 97.07,
+      "text": "Dulu aku tukar lampu isyarat"
+    },
+    {
+      "t": 97.07,
+      "end": 98.15,
+      "text": "Hijau untuk kereta api lalu"
+    },
+    {
+      "t": 98.15,
+      "end": 99.95,
+      "text": "Kini kutukar pula satu degup"
+    },
+    {
+      "t": 101.01,
+      "end": 105.49,
+      "text": "Dari lenganku ke dada yang lain"
+    },
+    {
+      "t": 107.53,
+      "end": 107.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.53,
+      "end": 110.51,
+      "text": "Pin perak kecil di atas meja"
+    },
+    {
+      "t": 111.67,
+      "end": 116.97,
+      "text": "Jururawat senyum, aku tunduk"
+    },
+    {
+      "t": 121.39,
+      "end": 121.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.39,
+      "end": 124.87,
+      "text": "Ke mana perginya darahku"
+    },
+    {
+      "t": 126.31,
+      "end": 131.01,
+      "text": "Mungkin ke budak yang baru bangun"
+    },
+    {
+      "t": 131.95,
+      "end": 136.35,
+      "text": "Tak pernah kukenal nama itu"
+    },
+    {
+      "t": 136.89,
+      "end": 142.23,
+      "text": "Namun lampu hijau menyala untukku"
+    },
+    {
+      "t": 144.79,
+      "end": 144.79,
+      "text": "[Outro - organ and Mellotron, slow guitar line]"
+    },
+    {
+      "t": 144.79,
+      "end": 160.0,
+      "text": "Empat bulan lagi aku datang"
+    },
+    {
+      "t": 170.74,
+      "end": 179.88,
+      "text": "Simpan satu kerusi untukku"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.38,
+      "end": 27.38,
+      "text": "[Intro - Mellotron strings and organ, clean guitar]"
+    },
+    {
+      "t": 27.38,
+      "end": 27.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.38,
+      "end": 31.66,
+      "text": "Empat bulan sekali aku datang"
+    },
+    {
+      "t": 32.28,
+      "end": 38.8,
+      "text": "Ke kaunter putih dekat stesen lama"
+    },
+    {
+      "t": 42.62,
+      "end": 47.5,
+      "text": "Jari ditusuk, lengan disingsing"
+    },
+    {
+      "t": 47.98,
+      "end": 54.47,
+      "text": "Jururawat sudah hafal namaku"
+    },
+    {
+      "t": 56.35,
+      "end": 56.35,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.35,
+      "end": 61.89,
+      "text": "Beg merah itu berat sedikit"
+    },
+    {
+      "t": 62.03,
+      "end": 70.11,
+      "text": "Lima puluh kali, kuhitung semua"
+    },
+    {
+      "t": 70.11,
+      "end": 70.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.11,
+      "end": 84.67,
+      "text": "Ke mana perginya darahku"
+    },
+    {
+      "t": 84.67,
+      "end": 85.93,
+      "text": "Ke tangan siapa, ke wad mana"
+    },
+    {
+      "t": 85.93,
+      "end": 87.53,
+      "text": "Tak pernah kukenal nama itu"
+    },
+    {
+      "t": 88.71,
+      "end": 92.51,
+      "text": "Namun dia berjalan bawa sebahagianku"
+    },
+    {
+      "t": 92.51,
+      "end": 92.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.51,
+      "end": 97.07,
+      "text": "Dulu aku tukar lampu isyarat"
+    },
+    {
+      "t": 97.07,
+      "end": 98.15,
+      "text": "Hijau untuk kereta api lalu"
+    },
+    {
+      "t": 98.15,
+      "end": 99.95,
+      "text": "Kini kutukar pula satu degup"
+    },
+    {
+      "t": 101.01,
+      "end": 105.49,
+      "text": "Dari lenganku ke dada yang lain"
+    },
+    {
+      "t": 107.53,
+      "end": 107.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.53,
+      "end": 110.51,
+      "text": "Pin perak kecil di atas meja"
+    },
+    {
+      "t": 111.67,
+      "end": 116.97,
+      "text": "Jururawat senyum, aku tunduk"
+    },
+    {
+      "t": 121.39,
+      "end": 121.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.39,
+      "end": 124.87,
+      "text": "Ke mana perginya darahku"
+    },
+    {
+      "t": 126.31,
+      "end": 131.01,
+      "text": "Mungkin ke budak yang baru bangun"
+    },
+    {
+      "t": 131.95,
+      "end": 136.35,
+      "text": "Tak pernah kukenal nama itu"
+    },
+    {
+      "t": 136.89,
+      "end": 142.23,
+      "text": "Namun lampu hijau menyala untukku"
+    },
+    {
+      "t": 144.79,
+      "end": 144.79,
+      "text": "[Outro - organ and Mellotron, slow guitar line]"
+    },
+    {
+      "t": 144.79,
+      "end": 160.0,
+      "text": "Empat bulan lagi aku datang"
+    },
+    {
+      "t": 170.74,
+      "end": 179.88,
+      "text": "Simpan satu kerusi untukku"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 27.38,
+      "end": 27.38,
+      "text": "[Intro - Mellotron strings and organ, clean guitar]"
+    },
+    {
+      "t": 27.38,
+      "end": 27.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.38,
+      "end": 31.66,
+      "text": "Empat bulan sekali aku datang"
+    },
+    {
+      "t": 32.3,
+      "end": 38.8,
+      "text": "Ke kaunter putih dekat stesen lama"
+    },
+    {
+      "t": 42.62,
+      "end": 47.52,
+      "text": "Jari ditusuk, lengan disingsing"
+    },
+    {
+      "t": 47.98,
+      "end": 54.43,
+      "text": "Jururawat sudah hafal namaku"
+    },
+    {
+      "t": 56.37,
+      "end": 56.37,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.37,
+      "end": 61.07,
+      "text": "Beg merah itu berat sedikit"
+    },
+    {
+      "t": 61.99,
+      "end": 69.83,
+      "text": "Lima puluh kali, kuhitung semua"
+    },
+    {
+      "t": 70.03,
+      "end": 70.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 70.03,
+      "end": 74.81,
+      "text": "Ke mana perginya darahku"
+    },
+    {
+      "t": 75.01,
+      "end": 84.99,
+      "text": "Ke tangan siapa, ke wad mana"
+    },
+    {
+      "t": 84.99,
+      "end": 87.79,
+      "text": "Tak pernah kukenal nama itu"
+    },
+    {
+      "t": 88.69,
+      "end": 92.51,
+      "text": "Namun dia berjalan bawa sebahagianku"
+    },
+    {
+      "t": 92.53,
+      "end": 92.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.53,
+      "end": 96.69,
+      "text": "Dulu aku tukar lampu isyarat"
+    },
+    {
+      "t": 96.69,
+      "end": 97.23,
+      "text": "Hijau untuk kereta api lalu"
+    },
+    {
+      "t": 97.23,
+      "end": 99.93,
+      "text": "Kini kutukar pula satu degup"
+    },
+    {
+      "t": 101.03,
+      "end": 105.45,
+      "text": "Dari lenganku ke dada yang lain"
+    },
+    {
+      "t": 107.53,
+      "end": 107.53,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.53,
+      "end": 110.51,
+      "text": "Pin perak kecil di atas meja"
+    },
+    {
+      "t": 111.67,
+      "end": 119.43,
+      "text": "Jururawat senyum, aku tunduk"
+    },
+    {
+      "t": 121.39,
+      "end": 121.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.39,
+      "end": 124.85,
+      "text": "Ke mana perginya darahku"
+    },
+    {
+      "t": 126.31,
+      "end": 131.01,
+      "text": "Mungkin ke budak yang baru bangun"
+    },
+    {
+      "t": 131.95,
+      "end": 136.35,
+      "text": "Tak pernah kukenal nama itu"
+    },
+    {
+      "t": 136.89,
+      "end": 142.23,
+      "text": "Namun lampu hijau menyala untukku"
+    },
+    {
+      "t": 145.19,
+      "end": 145.19,
+      "text": "[Outro - organ and Mellotron, slow guitar line]"
+    },
+    {
+      "t": 145.19,
+      "end": 170.46,
+      "text": "Empat bulan lagi aku datang"
+    },
+    {
+      "t": 170.74,
+      "end": 194.94,
+      "text": "Simpan satu kerusi untukku"
+    }
+  ]
+}

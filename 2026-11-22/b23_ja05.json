@@ -1,0 +1,367 @@
+{
+  "id": "b23_ja05",
+  "title": "B面に替わる前に",
+  "title_source": "scripted",
+  "genre": "Showa jazz-kissa hard bop quartet song (Japanese vocal over a live quartet)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "warm, wry, slightly bashful",
+  "persona": "",
+  "subject": "A salaryman's lunch hour at a jazz kissa is exactly one LP side; today the old master leaves the record on side A so he stays ten minutes longer, and the boss walks in to find him sitting there",
+  "caption": "Showa-era jazz-kissa hard bop quartet song with a Japanese vocal, medium-up swing. Tenor saxophone with a husky tone playing the head and fills, acoustic piano comping with blues-tinged chords, upright bass walking in four, brushed drums with a crisp ride cymbal. Dark wood-room recording, warm vinyl-era tape tone, upright bass forward, short natural room reverb. Male smooth baritone, relaxed swing phrasing, wry storytelling. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, Bb major. Warm, wry, slightly bashful mood. No synthesizers, no electric guitar, no autotune, no drum machine, no rap, no pop backbeat.",
+  "lyrics": "[Intro - tenor saxophone, piano, walking bass]\n\n[Verse 1]\n十二時半の ジャズ喫茶 窓際の席\n片面二十分 それが俺の昼休み\nマスターは黙って 針を静かに落とす\n珈琲の湯気が サックスと混ざる\n\n[Pre-Chorus]\n今日だけマスターが\nA面をもう一度かける\n\n[Chorus]\nB面に替わる前に 席を立つのが決まり\nでも今日はA面が もう一周\nあと十分 マスターが笑う\n時計は見ない ことにする\n\n[Verse 2]\n入口のベルが鳴って 課長が顔を出す\n俺は固まって カップを握りしめる\nマスターが言う 常連さんですよ\n課長は隣に座って 黙って聴いてる\n\n[Chorus]\nB面に替わる前に 席を立つのが決まり\nでも今日はA面が もう一周\nあと十分 課長が頷く\n会議はあとで いいだろう\n\n[Bridge - tenor saxophone solo]\nピアノが跳ねて ベースが歩く\n遅刻の理由は ここにある\n\n[Chorus]\nB面に替わる前に 席を立つのが決まり\n明日も十二時半 ここに来る\nあと十分 マスターが言う\n次は課長の 席も取っとく\n\n[Outro - saxophone and piano, ending on a held note]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Showa-era jazz-kissa hard bop quartet song with a Japanese vocal, medium-up swing. Tenor saxophone with a husky tone playing the head and fills, acoustic piano comping with blues-tinged chords, upright bass walking in four, brushed drums with a crisp ride cymbal. Dark wood-room recording, warm vinyl-era tape tone, upright bass forward, short natural room reverb. Male smooth baritone, relaxed swing phrasing, wry storytelling. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, Bb major. Warm, wry, slightly bashful mood. No synthesizers, no electric guitar, no autotune, no drum machine, no rap, no pop backbeat.",
+    "lyrics": "[Intro - tenor saxophone, piano, walking bass]\n\n[Verse 1]\n十二時半の ジャズ喫茶 窓際の席\n片面二十分 それが俺の昼休み\nマスターは黙って 針を静かに落とす\n珈琲の湯気が サックスと混ざる\n\n[Pre-Chorus]\n今日だけマスターが\nA面をもう一度かける\n\n[Chorus]\nB面に替わる前に 席を立つのが決まり\nでも今日はA面が もう一周\nあと十分 マスターが笑う\n時計は見ない ことにする\n\n[Verse 2]\n入口のベルが鳴って 課長が顔を出す\n俺は固まって カップを握りしめる\nマスターが言う 常連さんですよ\n課長は隣に座って 黙って聴いてる\n\n[Chorus]\nB面に替わる前に 席を立つのが決まり\nでも今日はA面が もう一周\nあと十分 課長が頷く\n会議はあとで いいだろう\n\n[Bridge - tenor saxophone solo]\nピアノが跳ねて ベースが歩く\n遅刻の理由は ここにある\n\n[Chorus]\nB面に替わる前に 席を立つのが決まり\n明日も十二時半 ここに来る\nあと十分 マスターが言う\n次は課長の 席も取っとく\n\n[Outro - saxophone and piano, ending on a held note]"
+  },
+  "seed": "181242421",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 50.69s**\n- 50.69s per song\n- LM phase (1 song): 9.79s\n- DiT phase (1 song): 40.90s",
+  "task_id": "69cbbb38-9d61-45eb-9269-668e326a3a63",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-23T00:29:58.408931+08:00",
+  "audio": "b23_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 19.86,
+      "end": 19.86,
+      "text": "[Intro - tenor saxophone, piano, walking bass]"
+    },
+    {
+      "t": 19.86,
+      "end": 19.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.86,
+      "end": 25.46,
+      "text": "十二時半の ジャズ喫茶 窓際の席"
+    },
+    {
+      "t": 26.78,
+      "end": 32.02,
+      "text": "片面二十分 それが俺の昼休み"
+    },
+    {
+      "t": 32.32,
+      "end": 39.44,
+      "text": "マスターは黙って 針を静かに落とす"
+    },
+    {
+      "t": 41.08,
+      "end": 44.66,
+      "text": "珈琲の湯気が サックスと混ざる"
+    },
+    {
+      "t": 45.06,
+      "end": 45.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.06,
+      "end": 48.74,
+      "text": "今日だけマスターが"
+    },
+    {
+      "t": 49.43,
+      "end": 49.45,
+      "text": "A面をもう一度かける"
+    },
+    {
+      "t": 49.75,
+      "end": 49.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.75,
+      "end": 53.33,
+      "text": "B面に替わる前に 席を立つのが決まり"
+    },
+    {
+      "t": 55.49,
+      "end": 58.09,
+      "text": "でも今日はA面が もう一周"
+    },
+    {
+      "t": 58.33,
+      "end": 61.55,
+      "text": "あと十分 マスターが笑う"
+    },
+    {
+      "t": 61.87,
+      "end": 65.77,
+      "text": "時計は見ない ことにする"
+    },
+    {
+      "t": 68.75,
+      "end": 68.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.75,
+      "end": 75.97,
+      "text": "入口のベルが鳴って 課長が顔を出す"
+    },
+    {
+      "t": 76.17,
+      "end": 79.51,
+      "text": "俺は固まって カップを握りしめる"
+    },
+    {
+      "t": 79.55,
+      "end": 85.23,
+      "text": "マスターが言う 常連さんですよ"
+    },
+    {
+      "t": 85.49,
+      "end": 91.35,
+      "text": "課長は隣に座って 黙って聴いてる"
+    },
+    {
+      "t": 91.55,
+      "end": 91.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.55,
+      "end": 95.21,
+      "text": "B面に替わる前に 席を立つのが決まり"
+    },
+    {
+      "t": 96.65,
+      "end": 97.11,
+      "text": "でも今日はA面が もう一周"
+    },
+    {
+      "t": 97.27,
+      "end": 99.63,
+      "text": "あと十分 課長が頷く"
+    },
+    {
+      "t": 99.79,
+      "end": 102.99,
+      "text": "会議はあとで いいだろう"
+    },
+    {
+      "t": 112.65,
+      "end": 112.65,
+      "text": "[Bridge - tenor saxophone solo]"
+    },
+    {
+      "t": 112.65,
+      "end": 117.57,
+      "text": "ピアノが跳ねて ベースが歩く"
+    },
+    {
+      "t": 119.67,
+      "end": 124.71,
+      "text": "遅刻の理由は ここにある"
+    },
+    {
+      "t": 130.07,
+      "end": 130.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 130.07,
+      "end": 135.77,
+      "text": "B面に替わる前に 席を立つのが決まり"
+    },
+    {
+      "t": 136.99,
+      "end": 139.41,
+      "text": "明日も十二時半 ここに来る"
+    },
+    {
+      "t": 140.59,
+      "end": 145.81,
+      "text": "あと十分 マスターが言う"
+    },
+    {
+      "t": 145.89,
+      "end": 153.38,
+      "text": "次は課長の 席も取っとく"
+    },
+    {
+      "t": 153.38,
+      "end": 153.38,
+      "text": "[Outro - saxophone and piano, ending on a held note]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 19.86,
+      "end": 19.86,
+      "text": "[Intro - tenor saxophone, piano, walking bass]"
+    },
+    {
+      "t": 19.86,
+      "end": 19.86,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 19.86,
+      "end": 25.46,
+      "text": "十二時半の ジャズ喫茶 窓際の席"
+    },
+    {
+      "t": 26.78,
+      "end": 31.9,
+      "text": "片面二十分 それが俺の昼休み"
+    },
+    {
+      "t": 31.98,
+      "end": 37.92,
+      "text": "マスターは黙って 針を静かに落とす"
+    },
+    {
+      "t": 38.92,
+      "end": 44.66,
+      "text": "珈琲の湯気が サックスと混ざる"
+    },
+    {
+      "t": 44.76,
+      "end": 44.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.76,
+      "end": 49.45,
+      "text": "今日だけマスターが"
+    },
+    {
+      "t": 49.67,
+      "end": 49.69,
+      "text": "A面をもう一度かける"
+    },
+    {
+      "t": 49.77,
+      "end": 49.77,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.77,
+      "end": 53.33,
+      "text": "B面に替わる前に 席を立つのが決まり"
+    },
+    {
+      "t": 56.91,
+      "end": 58.07,
+      "text": "でも今日はA面が もう一周"
+    },
+    {
+      "t": 58.07,
+      "end": 61.53,
+      "text": "あと十分 マスターが笑う"
+    },
+    {
+      "t": 61.87,
+      "end": 65.75,
+      "text": "時計は見ない ことにする"
+    },
+    {
+      "t": 65.75,
+      "end": 65.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 65.75,
+      "end": 76.13,
+      "text": "入口のベルが鳴って 課長が顔を出す"
+    },
+    {
+      "t": 76.17,
+      "end": 79.49,
+      "text": "俺は固まって カップを握りしめる"
+    },
+    {
+      "t": 79.57,
+      "end": 85.23,
+      "text": "マスターが言う 常連さんですよ"
+    },
+    {
+      "t": 85.51,
+      "end": 91.37,
+      "text": "課長は隣に座って 黙って聴いてる"
+    },
+    {
+      "t": 91.55,
+      "end": 91.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 91.55,
+      "end": 95.21,
+      "text": "B面に替わる前に 席を立つのが決まり"
+    },
+    {
+      "t": 96.65,
+      "end": 97.11,
+      "text": "でも今日はA面が もう一周"
+    },
+    {
+      "t": 97.11,
+      "end": 99.63,
+      "text": "あと十分 課長が頷く"
+    },
+    {
+      "t": 99.79,
+      "end": 103.13,
+      "text": "会議はあとで いいだろう"
+    },
+    {
+      "t": 112.65,
+      "end": 112.65,
+      "text": "[Bridge - tenor saxophone solo]"
+    },
+    {
+      "t": 112.65,
+      "end": 117.57,
+      "text": "ピアノが跳ねて ベースが歩く"
+    },
+    {
+      "t": 119.67,
+      "end": 124.71,
+      "text": "遅刻の理由は ここにある"
+    },
+    {
+      "t": 129.91,
+      "end": 129.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.91,
+      "end": 136.63,
+      "text": "B面に替わる前に 席を立つのが決まり"
+    },
+    {
+      "t": 136.99,
+      "end": 139.41,
+      "text": "明日も十二時半 ここに来る"
+    },
+    {
+      "t": 140.59,
+      "end": 145.81,
+      "text": "あと十分 マスターが言う"
+    },
+    {
+      "t": 145.89,
+      "end": 153.4,
+      "text": "次は課長の 席も取っとく"
+    },
+    {
+      "t": 153.4,
+      "end": 153.4,
+      "text": "[Outro - saxophone and piano, ending on a held note]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

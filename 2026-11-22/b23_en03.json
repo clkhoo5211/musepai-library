@@ -1,0 +1,519 @@
+{
+  "id": "b23_en03",
+  "title": "False Bottom",
+  "title_source": "scripted",
+  "genre": "Canterbury-scene jazz-rock pop (Soft Machine and Caravan lineage)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "dry, wry, quietly triumphant",
+  "persona": "",
+  "subject": "A stage magician's assistant who spends every show folded into the false bottom of a trunk, counting the audience's applause from inside, decides tonight that she will take the bow before him, because the trick only works on her cue.",
+  "caption": "Canterbury-scene jazz-rock pop, fluid 7/8 verses opening into straight 4/4 choruses. Warm Fender Rhodes electric piano with chromatic chord movement, a fuzz-toned electric bass playing winding melodic lines, a soprano saxophone doubling the vocal melody and trading phrases, a busy jazz drum kit with ride cymbal and snare ghost notes. Dry English 1971 studio texture, slightly woolly warm tape, Rhodes and bass forward. Female lead, plain warm alto, mid register, conversational and deadpan delivery with clean unison harmony on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, E minor. Dry, wry, quietly triumphant. No synth pads, no trap drums, no autotune, no big pop drops, no stadium guitar solos.",
+  "lyrics": "[Intro - Rhodes and fuzz bass in 7/8, soprano sax enters]\n\n[Verse 1]\nI fold myself in at a quarter past nine\nKnees to my chin in the lining\nThe velvet smells of dust and pine\nI count the hands outside it\n\n[Chorus]\nFalse bottom, false bottom\nWho's the one who makes it work\nFour hundred hands above my head\nAnd he gets to take the bow\n\n[Verse 2]\nTwo taps for the card, three for the dove\nOne slow knock for the cue\nHe's waited on my hand six years\nAnd never thanked the trunk\n\n[Pre-Chorus]\nThe rabbit has his own dressing room\nI get a hook and a hood\nTonight I'll let the lid go slow\nAnd let him count the wood\n\n[Chorus]\nFalse bottom, false bottom\nTonight I know the way\nThe lid goes up when I say so\nAnd he can wait for my cue\n\n[Bridge - sax solo over Rhodes, groove tightens to 4/4]\nThe lid goes up and I stand\nWith the whole room in my hands\n\n[Outro - soprano sax and Rhodes in 7/8]\nTwo taps for the card\nOne slow bow for me",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Canterbury-scene jazz-rock pop, fluid 7/8 verses opening into straight 4/4 choruses. Warm Fender Rhodes electric piano with chromatic chord movement, a fuzz-toned electric bass playing winding melodic lines, a soprano saxophone doubling the vocal melody and trading phrases, a busy jazz drum kit with ride cymbal and snare ghost notes. Dry English 1971 studio texture, slightly woolly warm tape, Rhodes and bass forward. Female lead, plain warm alto, mid register, conversational and deadpan delivery with clean unison harmony on the hook. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, E minor. Dry, wry, quietly triumphant. No synth pads, no trap drums, no autotune, no big pop drops, no stadium guitar solos.",
+    "lyrics": "[Intro - Rhodes and fuzz bass in 7/8, soprano sax enters]\n\n[Verse 1]\nI fold myself in at a quarter past nine\nKnees to my chin in the lining\nThe velvet smells of dust and pine\nI count the hands outside it\n\n[Chorus]\nFalse bottom, false bottom\nWho's the one who makes it work\nFour hundred hands above my head\nAnd he gets to take the bow\n\n[Verse 2]\nTwo taps for the card, three for the dove\nOne slow knock for the cue\nHe's waited on my hand six years\nAnd never thanked the trunk\n\n[Pre-Chorus]\nThe rabbit has his own dressing room\nI get a hook and a hood\nTonight I'll let the lid go slow\nAnd let him count the wood\n\n[Chorus]\nFalse bottom, false bottom\nTonight I know the way\nThe lid goes up when I say so\nAnd he can wait for my cue\n\n[Bridge - sax solo over Rhodes, groove tightens to 4/4]\nThe lid goes up and I stand\nWith the whole room in my hands\n\n[Outro - soprano sax and Rhodes in 7/8]\nTwo taps for the card\nOne slow bow for me"
+  },
+  "seed": "2806345009",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 49.20s**\n- 49.20s per song\n- LM phase (1 song): 10.23s\n- DiT phase (1 song): 38.97s",
+  "task_id": "464552e9-a160-45bc-b7cf-01ac6efa79cc",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-23T00:16:37.082289+08:00",
+  "audio": "b23_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.1,
+      "end": 18.1,
+      "text": "[Intro - Rhodes and fuzz bass in 7/8, soprano sax enters]"
+    },
+    {
+      "t": 18.1,
+      "end": 18.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.1,
+      "end": 24.74,
+      "text": "I fold myself in at a quarter past nine"
+    },
+    {
+      "t": 24.74,
+      "end": 26.62,
+      "text": "Knees to my chin in the lining"
+    },
+    {
+      "t": 31.56,
+      "end": 34.86,
+      "text": "The velvet smells of dust and pine"
+    },
+    {
+      "t": 40.3,
+      "end": 43.76,
+      "text": "I count the hands outside it"
+    },
+    {
+      "t": 46.08,
+      "end": 46.08,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.08,
+      "end": 49.29,
+      "text": "False bottom, false bottom"
+    },
+    {
+      "t": 50.25,
+      "end": 52.93,
+      "text": "Who's the one who makes it work"
+    },
+    {
+      "t": 53.79,
+      "end": 56.97,
+      "text": "Four hundred hands above my head"
+    },
+    {
+      "t": 57.97,
+      "end": 60.59,
+      "text": "And he gets to take the bow"
+    },
+    {
+      "t": 62.65,
+      "end": 62.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.65,
+      "end": 69.41,
+      "text": "Two taps for the card, three for the dove"
+    },
+    {
+      "t": 72.03,
+      "end": 73.93,
+      "text": "One slow knock for the cue"
+    },
+    {
+      "t": 76.47,
+      "end": 80.73,
+      "text": "He's waited on my hand six years"
+    },
+    {
+      "t": 80.83,
+      "end": 83.41,
+      "text": "And never thanked the trunk"
+    },
+    {
+      "t": 88.17,
+      "end": 88.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.17,
+      "end": 91.03,
+      "text": "The rabbit has his own dressing room"
+    },
+    {
+      "t": 91.03,
+      "end": 94.37,
+      "text": "I get a hook and a hood"
+    },
+    {
+      "t": 94.37,
+      "end": 96.97,
+      "text": "Tonight I'll let the lid go slow"
+    },
+    {
+      "t": 97.21,
+      "end": 98.87,
+      "text": "And let him count the wood"
+    },
+    {
+      "t": 101.63,
+      "end": 101.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.63,
+      "end": 105.31,
+      "text": "False bottom, false bottom"
+    },
+    {
+      "t": 105.33,
+      "end": 106.73,
+      "text": "Tonight I know the way"
+    },
+    {
+      "t": 107.77,
+      "end": 110.49,
+      "text": "The lid goes up when I say so"
+    },
+    {
+      "t": 110.49,
+      "end": 111.77,
+      "text": "And he can wait for my cue"
+    },
+    {
+      "t": 114.53,
+      "end": 114.53,
+      "text": "[Bridge - sax solo over Rhodes, groove tightens to 4/4]"
+    },
+    {
+      "t": 114.53,
+      "end": 121.23,
+      "text": "The lid goes up and I stand"
+    },
+    {
+      "t": 121.27,
+      "end": 123.27,
+      "text": "With the whole room in my hands"
+    },
+    {
+      "t": 123.35,
+      "end": 123.35,
+      "text": "[Outro - soprano sax and Rhodes in 7/8]"
+    },
+    {
+      "t": 123.35,
+      "end": 171.64,
+      "text": "Two taps for the card"
+    },
+    {
+      "t": 171.72,
+      "end": 174.46,
+      "text": "One slow bow for me"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.1,
+      "end": 18.1,
+      "text": "[Intro - Rhodes and fuzz bass in 7/8, soprano sax enters]"
+    },
+    {
+      "t": 18.1,
+      "end": 18.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.1,
+      "end": 24.74,
+      "text": "I fold myself in at a quarter past nine"
+    },
+    {
+      "t": 24.74,
+      "end": 26.62,
+      "text": "Knees to my chin in the lining"
+    },
+    {
+      "t": 31.56,
+      "end": 34.86,
+      "text": "The velvet smells of dust and pine"
+    },
+    {
+      "t": 40.3,
+      "end": 43.76,
+      "text": "I count the hands outside it"
+    },
+    {
+      "t": 46.08,
+      "end": 46.08,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.08,
+      "end": 49.29,
+      "text": "False bottom, false bottom"
+    },
+    {
+      "t": 50.25,
+      "end": 52.93,
+      "text": "Who's the one who makes it work"
+    },
+    {
+      "t": 53.79,
+      "end": 56.97,
+      "text": "Four hundred hands above my head"
+    },
+    {
+      "t": 57.97,
+      "end": 60.59,
+      "text": "And he gets to take the bow"
+    },
+    {
+      "t": 62.65,
+      "end": 62.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.65,
+      "end": 69.41,
+      "text": "Two taps for the card, three for the dove"
+    },
+    {
+      "t": 72.03,
+      "end": 73.93,
+      "text": "One slow knock for the cue"
+    },
+    {
+      "t": 76.47,
+      "end": 80.73,
+      "text": "He's waited on my hand six years"
+    },
+    {
+      "t": 80.83,
+      "end": 83.41,
+      "text": "And never thanked the trunk"
+    },
+    {
+      "t": 88.17,
+      "end": 88.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.17,
+      "end": 91.03,
+      "text": "The rabbit has his own dressing room"
+    },
+    {
+      "t": 91.03,
+      "end": 94.37,
+      "text": "I get a hook and a hood"
+    },
+    {
+      "t": 94.37,
+      "end": 96.97,
+      "text": "Tonight I'll let the lid go slow"
+    },
+    {
+      "t": 97.21,
+      "end": 98.87,
+      "text": "And let him count the wood"
+    },
+    {
+      "t": 101.63,
+      "end": 101.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.63,
+      "end": 105.31,
+      "text": "False bottom, false bottom"
+    },
+    {
+      "t": 105.33,
+      "end": 106.73,
+      "text": "Tonight I know the way"
+    },
+    {
+      "t": 107.77,
+      "end": 110.49,
+      "text": "The lid goes up when I say so"
+    },
+    {
+      "t": 110.49,
+      "end": 111.77,
+      "text": "And he can wait for my cue"
+    },
+    {
+      "t": 114.53,
+      "end": 114.53,
+      "text": "[Bridge - sax solo over Rhodes, groove tightens to 4/4]"
+    },
+    {
+      "t": 114.53,
+      "end": 121.23,
+      "text": "The lid goes up and I stand"
+    },
+    {
+      "t": 121.27,
+      "end": 123.27,
+      "text": "With the whole room in my hands"
+    },
+    {
+      "t": 123.35,
+      "end": 123.35,
+      "text": "[Outro - soprano sax and Rhodes in 7/8]"
+    },
+    {
+      "t": 123.35,
+      "end": 171.64,
+      "text": "Two taps for the card"
+    },
+    {
+      "t": 171.72,
+      "end": 174.46,
+      "text": "One slow bow for me"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 18.1,
+      "end": 18.1,
+      "text": "[Intro - Rhodes and fuzz bass in 7/8, soprano sax enters]"
+    },
+    {
+      "t": 18.1,
+      "end": 18.1,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.1,
+      "end": 24.42,
+      "text": "I fold myself in at a quarter past nine"
+    },
+    {
+      "t": 24.42,
+      "end": 26.62,
+      "text": "Knees to my chin in the lining"
+    },
+    {
+      "t": 31.56,
+      "end": 34.9,
+      "text": "The velvet smells of dust and pine"
+    },
+    {
+      "t": 40.3,
+      "end": 43.82,
+      "text": "I count the hands outside it"
+    },
+    {
+      "t": 46.08,
+      "end": 46.08,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 46.08,
+      "end": 49.29,
+      "text": "False bottom, false bottom"
+    },
+    {
+      "t": 50.25,
+      "end": 52.93,
+      "text": "Who's the one who makes it work"
+    },
+    {
+      "t": 53.77,
+      "end": 56.97,
+      "text": "Four hundred hands above my head"
+    },
+    {
+      "t": 57.97,
+      "end": 60.61,
+      "text": "And he gets to take the bow"
+    },
+    {
+      "t": 62.65,
+      "end": 62.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.65,
+      "end": 69.41,
+      "text": "Two taps for the card, three for the dove"
+    },
+    {
+      "t": 72.03,
+      "end": 73.93,
+      "text": "One slow knock for the cue"
+    },
+    {
+      "t": 76.45,
+      "end": 80.73,
+      "text": "He's waited on my hand six years"
+    },
+    {
+      "t": 80.83,
+      "end": 83.45,
+      "text": "And never thanked the trunk"
+    },
+    {
+      "t": 88.17,
+      "end": 88.17,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 88.17,
+      "end": 91.01,
+      "text": "The rabbit has his own dressing room"
+    },
+    {
+      "t": 91.01,
+      "end": 94.73,
+      "text": "I get a hook and a hood"
+    },
+    {
+      "t": 94.75,
+      "end": 97.01,
+      "text": "Tonight I'll let the lid go slow"
+    },
+    {
+      "t": 97.19,
+      "end": 98.83,
+      "text": "And let him count the wood"
+    },
+    {
+      "t": 101.63,
+      "end": 101.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 101.63,
+      "end": 106.29,
+      "text": "False bottom, false bottom"
+    },
+    {
+      "t": 109.83,
+      "end": 112.13,
+      "text": "Tonight I know the way"
+    },
+    {
+      "t": 114.53,
+      "end": 117.79,
+      "text": "The lid goes up when I say so"
+    },
+    {
+      "t": 121.01,
+      "end": 123.53,
+      "text": "And he can wait for my cue"
+    },
+    {
+      "t": 123.55,
+      "end": 123.55,
+      "text": "[Bridge - sax solo over Rhodes, groove tightens to 4/4]"
+    },
+    {
+      "t": 123.55,
+      "end": 127.95,
+      "text": "The lid goes up and I stand"
+    },
+    {
+      "t": 127.97,
+      "end": 140.63,
+      "text": "With the whole room in my hands"
+    },
+    {
+      "t": 140.77,
+      "end": 140.77,
+      "text": "[Outro - soprano sax and Rhodes in 7/8]"
+    },
+    {
+      "t": 140.77,
+      "end": 171.64,
+      "text": "Two taps for the card"
+    },
+    {
+      "t": 171.72,
+      "end": 174.46,
+      "text": "One slow bow for me"
+    }
+  ]
+}

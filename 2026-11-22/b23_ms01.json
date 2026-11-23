@@ -1,0 +1,489 @@
+{
+  "id": "b23_ms01",
+  "title": "Hitam Dalam Asap",
+  "title_source": "scripted",
+  "genre": "Malay mak yong court ensemble song (Kelantan rebab, serunai and gong)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "tender, patient, quietly in love",
+  "persona": "",
+  "subject": "A young Labu Sayong potter in Kuala Kangsar stays up all night feeding rice husk to the smoke-firing pit that turns the pots black, and hides a note in the base of the smallest pot for the city girl who bought it.",
+  "caption": "Malay mak yong court ensemble song, Kelantan classical folk style, slow processional pulse. Rebab bowing long sustained phrases, serunai playing ornamented reed melody, gendang pair keeping a steady low beat, tetawak gong marking each phrase end, canang tapping a light pattern. Dry intimate room recording with warm wooden resonance. Female vocal, mid register, ornamented but clearly sung. 78 BPM, D minor. Tender, patient, quietly in love. Clear full voice, every word enunciated, steady sung melody on every line. No pop drums, no synth, no autotune, no electric guitar, no rap, no EDM.",
+  "lyrics": "[Intro - rebab and serunai, slow gong]\n\n[Verse 1]\nSekam padi membara semalaman\nAku jaga api di tepi lubang\nLabu Sayong perlahan jadi hitam\nMata tak lelap, tangan pun penat\n\n[Pre-Chorus]\nDi dasar yang paling kecil\nKuselit sehelai nota\n\n[Chorus]\nHitam, hitam dalam asap\nNamamu kutulis di perut labu\nBila kau tuang air sejuk\nBacalah aku sedikit-sedikit\n\n[Verse 2]\nSemalam datang gadis dari bandar\nDia pilih labu yang paling kecil\nDia tanya kenapa dasarnya berat\nAku senyum, tak berani jawab\n\n[Pre-Chorus]\nSubuh pun tiba, api reda\nAku masih menunggu balasan\n\n[Chorus]\nHitam, hitam dalam asap\nSeminggu kemudian dia datang semula\nKatanya air labu itu manis\nDan ada tulisan di dalamnya\n\n[Outro - rebab alone, gong fades]\nHitam, hitam dalam asap\nLabu kecil, jawablah dia",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 78,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Malay mak yong court ensemble song, Kelantan classical folk style, slow processional pulse. Rebab bowing long sustained phrases, serunai playing ornamented reed melody, gendang pair keeping a steady low beat, tetawak gong marking each phrase end, canang tapping a light pattern. Dry intimate room recording with warm wooden resonance. Female vocal, mid register, ornamented but clearly sung. 78 BPM, D minor. Tender, patient, quietly in love. Clear full voice, every word enunciated, steady sung melody on every line. No pop drums, no synth, no autotune, no electric guitar, no rap, no EDM.",
+    "lyrics": "[Intro - rebab and serunai, slow gong]\n\n[Verse 1]\nSekam padi membara semalaman\nAku jaga api di tepi lubang\nLabu Sayong perlahan jadi hitam\nMata tak lelap, tangan pun penat\n\n[Pre-Chorus]\nDi dasar yang paling kecil\nKuselit sehelai nota\n\n[Chorus]\nHitam, hitam dalam asap\nNamamu kutulis di perut labu\nBila kau tuang air sejuk\nBacalah aku sedikit-sedikit\n\n[Verse 2]\nSemalam datang gadis dari bandar\nDia pilih labu yang paling kecil\nDia tanya kenapa dasarnya berat\nAku senyum, tak berani jawab\n\n[Pre-Chorus]\nSubuh pun tiba, api reda\nAku masih menunggu balasan\n\n[Chorus]\nHitam, hitam dalam asap\nSeminggu kemudian dia datang semula\nKatanya air labu itu manis\nDan ada tulisan di dalamnya\n\n[Outro - rebab alone, gong fades]\nHitam, hitam dalam asap\nLabu kecil, jawablah dia"
+  },
+  "seed": "1673725371",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 45.88s**\n- 45.88s per song\n- LM phase (1 song): 7.58s\n- DiT phase (1 song): 38.30s",
+  "task_id": "1b74ee8d-6e95-43da-8d02-8960b8e546f8",
+  "elapsed_s": 60.1,
+  "generated_at": "2026-11-22T23:52:44.345536+08:00",
+  "audio": "b23_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.8,
+      "end": 0.8,
+      "text": "[Intro - rebab and serunai, slow gong]"
+    },
+    {
+      "t": 0.8,
+      "end": 0.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.8,
+      "end": 22.42,
+      "text": "Sekam padi membara semalaman"
+    },
+    {
+      "t": 25.78,
+      "end": 38.24,
+      "text": "Aku jaga api di tepi lubang"
+    },
+    {
+      "t": 38.24,
+      "end": 42.4,
+      "text": "Labu Sayong perlahan jadi hitam"
+    },
+    {
+      "t": 43.28,
+      "end": 48.19,
+      "text": "Mata tak lelap, tangan pun penat"
+    },
+    {
+      "t": 52.03,
+      "end": 52.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.03,
+      "end": 55.87,
+      "text": "Di dasar yang paling kecil"
+    },
+    {
+      "t": 56.57,
+      "end": 58.75,
+      "text": "Kuselit sehelai nota"
+    },
+    {
+      "t": 58.75,
+      "end": 58.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.75,
+      "end": 71.23,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 71.23,
+      "end": 73.69,
+      "text": "Namamu kutulis di perut labu"
+    },
+    {
+      "t": 73.69,
+      "end": 75.25,
+      "text": "Bila kau tuang air sejuk"
+    },
+    {
+      "t": 75.97,
+      "end": 83.75,
+      "text": "Bacalah aku sedikit-sedikit"
+    },
+    {
+      "t": 84.67,
+      "end": 84.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.67,
+      "end": 89.71,
+      "text": "Semalam datang gadis dari bandar"
+    },
+    {
+      "t": 89.75,
+      "end": 90.63,
+      "text": "Dia pilih labu yang paling kecil"
+    },
+    {
+      "t": 91.15,
+      "end": 95.79,
+      "text": "Dia tanya kenapa dasarnya berat"
+    },
+    {
+      "t": 97.33,
+      "end": 101.87,
+      "text": "Aku senyum, tak berani jawab"
+    },
+    {
+      "t": 104.03,
+      "end": 104.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.03,
+      "end": 109.09,
+      "text": "Subuh pun tiba, api reda"
+    },
+    {
+      "t": 110.17,
+      "end": 119.31,
+      "text": "Aku masih menunggu balasan"
+    },
+    {
+      "t": 120.73,
+      "end": 120.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.73,
+      "end": 125.63,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 126.03,
+      "end": 130.77,
+      "text": "Seminggu kemudian dia datang semula"
+    },
+    {
+      "t": 132.13,
+      "end": 137.67,
+      "text": "Katanya air labu itu manis"
+    },
+    {
+      "t": 138.19,
+      "end": 143.7,
+      "text": "Dan ada tulisan di dalamnya"
+    },
+    {
+      "t": 165.92,
+      "end": 165.92,
+      "text": "[Outro - rebab alone, gong fades]"
+    },
+    {
+      "t": 165.92,
+      "end": 171.9,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 172.0,
+      "end": 181.04,
+      "text": "Labu kecil, jawablah dia"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - rebab and serunai, slow gong]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 22.42,
+      "text": "Sekam padi membara semalaman"
+    },
+    {
+      "t": 25.78,
+      "end": 38.24,
+      "text": "Aku jaga api di tepi lubang"
+    },
+    {
+      "t": 38.24,
+      "end": 42.4,
+      "text": "Labu Sayong perlahan jadi hitam"
+    },
+    {
+      "t": 43.28,
+      "end": 48.19,
+      "text": "Mata tak lelap, tangan pun penat"
+    },
+    {
+      "t": 52.03,
+      "end": 52.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.03,
+      "end": 55.87,
+      "text": "Di dasar yang paling kecil"
+    },
+    {
+      "t": 56.57,
+      "end": 58.75,
+      "text": "Kuselit sehelai nota"
+    },
+    {
+      "t": 58.75,
+      "end": 58.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.75,
+      "end": 71.23,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 71.23,
+      "end": 73.69,
+      "text": "Namamu kutulis di perut labu"
+    },
+    {
+      "t": 73.69,
+      "end": 75.25,
+      "text": "Bila kau tuang air sejuk"
+    },
+    {
+      "t": 75.97,
+      "end": 83.75,
+      "text": "Bacalah aku sedikit-sedikit"
+    },
+    {
+      "t": 84.67,
+      "end": 84.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.67,
+      "end": 89.71,
+      "text": "Semalam datang gadis dari bandar"
+    },
+    {
+      "t": 89.75,
+      "end": 90.63,
+      "text": "Dia pilih labu yang paling kecil"
+    },
+    {
+      "t": 91.15,
+      "end": 95.79,
+      "text": "Dia tanya kenapa dasarnya berat"
+    },
+    {
+      "t": 97.33,
+      "end": 101.87,
+      "text": "Aku senyum, tak berani jawab"
+    },
+    {
+      "t": 104.03,
+      "end": 104.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.03,
+      "end": 109.09,
+      "text": "Subuh pun tiba, api reda"
+    },
+    {
+      "t": 110.17,
+      "end": 119.31,
+      "text": "Aku masih menunggu balasan"
+    },
+    {
+      "t": 120.73,
+      "end": 120.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.73,
+      "end": 125.63,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 126.03,
+      "end": 130.77,
+      "text": "Seminggu kemudian dia datang semula"
+    },
+    {
+      "t": 132.13,
+      "end": 137.67,
+      "text": "Katanya air labu itu manis"
+    },
+    {
+      "t": 138.19,
+      "end": 143.7,
+      "text": "Dan ada tulisan di dalamnya"
+    },
+    {
+      "t": 165.92,
+      "end": 165.92,
+      "text": "[Outro - rebab alone, gong fades]"
+    },
+    {
+      "t": 165.92,
+      "end": 171.9,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 172.0,
+      "end": 181.04,
+      "text": "Labu kecil, jawablah dia"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - rebab and serunai, slow gong]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 5.86,
+      "text": "Sekam padi membara semalaman"
+    },
+    {
+      "t": 11.0,
+      "end": 37.98,
+      "text": "Aku jaga api di tepi lubang"
+    },
+    {
+      "t": 37.98,
+      "end": 42.38,
+      "text": "Labu Sayong perlahan jadi hitam"
+    },
+    {
+      "t": 43.28,
+      "end": 48.17,
+      "text": "Mata tak lelap, tangan pun penat"
+    },
+    {
+      "t": 52.03,
+      "end": 52.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.03,
+      "end": 55.77,
+      "text": "Di dasar yang paling kecil"
+    },
+    {
+      "t": 56.57,
+      "end": 58.73,
+      "text": "Kuselit sehelai nota"
+    },
+    {
+      "t": 58.73,
+      "end": 58.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.73,
+      "end": 61.89,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 62.03,
+      "end": 70.89,
+      "text": "Namamu kutulis di perut labu"
+    },
+    {
+      "t": 70.89,
+      "end": 75.15,
+      "text": "Bila kau tuang air sejuk"
+    },
+    {
+      "t": 75.95,
+      "end": 83.53,
+      "text": "Bacalah aku sedikit-sedikit"
+    },
+    {
+      "t": 84.65,
+      "end": 84.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.65,
+      "end": 89.77,
+      "text": "Semalam datang gadis dari bandar"
+    },
+    {
+      "t": 89.77,
+      "end": 90.51,
+      "text": "Dia pilih labu yang paling kecil"
+    },
+    {
+      "t": 91.15,
+      "end": 95.69,
+      "text": "Dia tanya kenapa dasarnya berat"
+    },
+    {
+      "t": 97.33,
+      "end": 101.73,
+      "text": "Aku senyum, tak berani jawab"
+    },
+    {
+      "t": 104.03,
+      "end": 104.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 104.03,
+      "end": 109.09,
+      "text": "Subuh pun tiba, api reda"
+    },
+    {
+      "t": 110.17,
+      "end": 119.29,
+      "text": "Aku masih menunggu balasan"
+    },
+    {
+      "t": 120.73,
+      "end": 120.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 120.73,
+      "end": 125.65,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 126.01,
+      "end": 130.75,
+      "text": "Seminggu kemudian dia datang semula"
+    },
+    {
+      "t": 132.13,
+      "end": 137.69,
+      "text": "Katanya air labu itu manis"
+    },
+    {
+      "t": 138.21,
+      "end": 143.7,
+      "text": "Dan ada tulisan di dalamnya"
+    },
+    {
+      "t": 165.94,
+      "end": 165.94,
+      "text": "[Outro - rebab alone, gong fades]"
+    },
+    {
+      "t": 165.94,
+      "end": 171.88,
+      "text": "Hitam, hitam dalam asap"
+    },
+    {
+      "t": 172.0,
+      "end": 179.7,
+      "text": "Labu kecil, jawablah dia"
+    }
+  ]
+}
