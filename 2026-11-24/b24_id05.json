@@ -1,0 +1,397 @@
+{
+  "id": "b24_id05",
+  "title": "Sebelum Pukul Sepuluh",
+  "title_source": "scripted",
+  "genre": "Indonesian 1990s two-guitar band pop",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "urgent, funny, sweet",
+  "persona": "",
+  "subject": "a wartel operator counts down to ten o'clock, when the night tariff starts, while a student in the booth waits with his girlfriend's number and coins, and she lets him wait until the very last minute",
+  "caption": "Indonesian 1990s two-guitar band pop, driving mid-tempo upbeat pulse. Clean chorus-effect guitar arpeggios against a crunchy rhythm guitar, melodic fretted electric bass, tight acoustic drum kit with open snare backbeat, bright piano doubling the chorus. 1990s studio warmth, analog compression, glassy chorus guitar. Male vocal, clear mid tenor, earnest conversational delivery. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, C major. Urgent, funny and sweet mood. No synth pads, no autotune, no rap, no EDM drop, no trap hats, no modern bright pop gloss.",
+  "lyrics": "[Intro - clean chorus guitar, piano]\n\n[Verse 1]\nAku jaga wartel di ujung gang\nJam dinding bilang sembilan lewat lima puluh\nAnak kuliah masuk bilik nomor dua\nPegang kertas kusut, nomor pacarnya\n\n[Pre-Chorus]\nTarif malam mulai pukul sepuluh\nDia tahan jarinya, tak mau menekan\n\n[Chorus]\nSebelum pukul sepuluh, jangan dulu\nKoin tinggal tiga, napas sudah tertahan\nSebelum pukul sepuluh, tunggu aku\nSatu menit lagi murah, katanya\n\n[Verse 2]\nDia tanya, Bang, lima menit lagi, ya\nKujawab, Dik, jam tak bisa dibujuk\nJam sembilan lima lima, dia nekat\nSalah pencet, ibunya yang menjawab\n\n[Pre-Chorus]\nDia menyapa sopan, matanya melotot\nJam menunjuk sepuluh, dia tertawa\n\n[Chorus]\nPukul sepuluh, tekan sekarang\nNada sambung, jantungnya ikut berdering\nPukul sepuluh, dia tersenyum\nSuaranya turun, jadi lembut sekali\n\n[Bridge - guitar alone]\nDia lupa koin, lupa bilik\nAku diam saja, kuhitung meteran\n\n[Chorus]\nSetelah pukul sepuluh, bicaralah\nTiga jam pun tak apa, murah saja\nSetelah pukul sepuluh, aku tutup\nHanya bilik dua yang masih menyala\n\n[Outro - piano, chorus guitar fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 118,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Indonesian 1990s two-guitar band pop, driving mid-tempo upbeat pulse. Clean chorus-effect guitar arpeggios against a crunchy rhythm guitar, melodic fretted electric bass, tight acoustic drum kit with open snare backbeat, bright piano doubling the chorus. 1990s studio warmth, analog compression, glassy chorus guitar. Male vocal, clear mid tenor, earnest conversational delivery. Clear full voice, every word enunciated, steady sung melody on every line. 118 BPM, C major. Urgent, funny and sweet mood. No synth pads, no autotune, no rap, no EDM drop, no trap hats, no modern bright pop gloss.",
+    "lyrics": "[Intro - clean chorus guitar, piano]\n\n[Verse 1]\nAku jaga wartel di ujung gang\nJam dinding bilang sembilan lewat lima puluh\nAnak kuliah masuk bilik nomor dua\nPegang kertas kusut, nomor pacarnya\n\n[Pre-Chorus]\nTarif malam mulai pukul sepuluh\nDia tahan jarinya, tak mau menekan\n\n[Chorus]\nSebelum pukul sepuluh, jangan dulu\nKoin tinggal tiga, napas sudah tertahan\nSebelum pukul sepuluh, tunggu aku\nSatu menit lagi murah, katanya\n\n[Verse 2]\nDia tanya, Bang, lima menit lagi, ya\nKujawab, Dik, jam tak bisa dibujuk\nJam sembilan lima lima, dia nekat\nSalah pencet, ibunya yang menjawab\n\n[Pre-Chorus]\nDia menyapa sopan, matanya melotot\nJam menunjuk sepuluh, dia tertawa\n\n[Chorus]\nPukul sepuluh, tekan sekarang\nNada sambung, jantungnya ikut berdering\nPukul sepuluh, dia tersenyum\nSuaranya turun, jadi lembut sekali\n\n[Bridge - guitar alone]\nDia lupa koin, lupa bilik\nAku diam saja, kuhitung meteran\n\n[Chorus]\nSetelah pukul sepuluh, bicaralah\nTiga jam pun tak apa, murah saja\nSetelah pukul sepuluh, aku tutup\nHanya bilik dua yang masih menyala\n\n[Outro - piano, chorus guitar fade]"
+  },
+  "seed": "305937075",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.41s**\n- 59.41s per song\n- LM phase (1 song): 9.53s\n- DiT phase (1 song): 49.88s",
+  "task_id": "d1dbaa90-b8d9-4674-92eb-da4a3458bc40",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-24T08:47:57.527157+08:00",
+  "audio": "b24_id05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 20.2,
+      "end": 20.2,
+      "text": "[Intro - clean chorus guitar, piano]"
+    },
+    {
+      "t": 20.2,
+      "end": 20.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.2,
+      "end": 23.58,
+      "text": "Aku jaga wartel di ujung gang"
+    },
+    {
+      "t": 25.38,
+      "end": 31.48,
+      "text": "Jam dinding bilang sembilan lewat lima puluh"
+    },
+    {
+      "t": 33.62,
+      "end": 38.5,
+      "text": "Anak kuliah masuk bilik nomor dua"
+    },
+    {
+      "t": 41.42,
+      "end": 46.68,
+      "text": "Pegang kertas kusut, nomor pacarnya"
+    },
+    {
+      "t": 46.8,
+      "end": 46.8,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.8,
+      "end": 50.89,
+      "text": "Tarif malam mulai pukul sepuluh"
+    },
+    {
+      "t": 50.89,
+      "end": 54.61,
+      "text": "Dia tahan jarinya, tak mau menekan"
+    },
+    {
+      "t": 54.65,
+      "end": 54.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.65,
+      "end": 57.83,
+      "text": "Sebelum pukul sepuluh, jangan dulu"
+    },
+    {
+      "t": 57.83,
+      "end": 63.47,
+      "text": "Koin tinggal tiga, napas sudah tertahan"
+    },
+    {
+      "t": 63.53,
+      "end": 66.39,
+      "text": "Sebelum pukul sepuluh, tunggu aku"
+    },
+    {
+      "t": 66.51,
+      "end": 71.09,
+      "text": "Satu menit lagi murah, katanya"
+    },
+    {
+      "t": 75.33,
+      "end": 75.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.33,
+      "end": 79.01,
+      "text": "Dia tanya, Bang, lima menit lagi, ya"
+    },
+    {
+      "t": 79.39,
+      "end": 82.95,
+      "text": "Kujawab, Dik, jam tak bisa dibujuk"
+    },
+    {
+      "t": 83.45,
+      "end": 87.11,
+      "text": "Jam sembilan lima lima, dia nekat"
+    },
+    {
+      "t": 87.53,
+      "end": 89.89,
+      "text": "Salah pencet, ibunya yang menjawab"
+    },
+    {
+      "t": 89.89,
+      "end": 89.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 89.89,
+      "end": 92.17,
+      "text": "Dia menyapa sopan, matanya melotot"
+    },
+    {
+      "t": 92.21,
+      "end": 94.13,
+      "text": "Jam menunjuk sepuluh, dia tertawa"
+    },
+    {
+      "t": 94.13,
+      "end": 94.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.13,
+      "end": 95.63,
+      "text": "Pukul sepuluh, tekan sekarang"
+    },
+    {
+      "t": 95.75,
+      "end": 99.37,
+      "text": "Nada sambung, jantungnya ikut berdering"
+    },
+    {
+      "t": 100.33,
+      "end": 103.71,
+      "text": "Pukul sepuluh, dia tersenyum"
+    },
+    {
+      "t": 103.87,
+      "end": 112.97,
+      "text": "Suaranya turun, jadi lembut sekali"
+    },
+    {
+      "t": 116.63,
+      "end": 116.63,
+      "text": "[Bridge - guitar alone]"
+    },
+    {
+      "t": 116.63,
+      "end": 121.19,
+      "text": "Dia lupa koin, lupa bilik"
+    },
+    {
+      "t": 125.07,
+      "end": 130.47,
+      "text": "Aku diam saja, kuhitung meteran"
+    },
+    {
+      "t": 132.41,
+      "end": 132.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.41,
+      "end": 137.15,
+      "text": "Setelah pukul sepuluh, bicaralah"
+    },
+    {
+      "t": 137.15,
+      "end": 152.42,
+      "text": "Tiga jam pun tak apa, murah saja"
+    },
+    {
+      "t": 152.42,
+      "end": 164.46,
+      "text": "Setelah pukul sepuluh, aku tutup"
+    },
+    {
+      "t": 164.46,
+      "end": 182.82,
+      "text": "Hanya bilik dua yang masih menyala"
+    },
+    {
+      "t": 182.82,
+      "end": 182.82,
+      "text": "[Outro - piano, chorus guitar fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 20.2,
+      "end": 20.2,
+      "text": "[Intro - clean chorus guitar, piano]"
+    },
+    {
+      "t": 20.2,
+      "end": 20.2,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 20.2,
+      "end": 23.6,
+      "text": "Aku jaga wartel di ujung gang"
+    },
+    {
+      "t": 25.36,
+      "end": 31.48,
+      "text": "Jam dinding bilang sembilan lewat lima puluh"
+    },
+    {
+      "t": 33.62,
+      "end": 38.5,
+      "text": "Anak kuliah masuk bilik nomor dua"
+    },
+    {
+      "t": 41.42,
+      "end": 46.68,
+      "text": "Pegang kertas kusut, nomor pacarnya"
+    },
+    {
+      "t": 46.82,
+      "end": 46.82,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.82,
+      "end": 50.87,
+      "text": "Tarif malam mulai pukul sepuluh"
+    },
+    {
+      "t": 50.91,
+      "end": 52.21,
+      "text": "Dia tahan jarinya, tak mau menekan"
+    },
+    {
+      "t": 52.21,
+      "end": 52.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.21,
+      "end": 55.29,
+      "text": "Sebelum pukul sepuluh, jangan dulu"
+    },
+    {
+      "t": 57.71,
+      "end": 63.47,
+      "text": "Koin tinggal tiga, napas sudah tertahan"
+    },
+    {
+      "t": 63.61,
+      "end": 66.99,
+      "text": "Sebelum pukul sepuluh, tunggu aku"
+    },
+    {
+      "t": 67.19,
+      "end": 71.09,
+      "text": "Satu menit lagi murah, katanya"
+    },
+    {
+      "t": 75.33,
+      "end": 75.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 75.33,
+      "end": 79.01,
+      "text": "Dia tanya, Bang, lima menit lagi, ya"
+    },
+    {
+      "t": 79.39,
+      "end": 82.97,
+      "text": "Kujawab, Dik, jam tak bisa dibujuk"
+    },
+    {
+      "t": 83.45,
+      "end": 87.09,
+      "text": "Jam sembilan lima lima, dia nekat"
+    },
+    {
+      "t": 87.53,
+      "end": 89.55,
+      "text": "Salah pencet, ibunya yang menjawab"
+    },
+    {
+      "t": 89.87,
+      "end": 89.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 89.87,
+      "end": 91.55,
+      "text": "Dia menyapa sopan, matanya melotot"
+    },
+    {
+      "t": 91.59,
+      "end": 94.13,
+      "text": "Jam menunjuk sepuluh, dia tertawa"
+    },
+    {
+      "t": 94.13,
+      "end": 94.13,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 94.13,
+      "end": 95.65,
+      "text": "Pukul sepuluh, tekan sekarang"
+    },
+    {
+      "t": 95.69,
+      "end": 99.39,
+      "text": "Nada sambung, jantungnya ikut berdering"
+    },
+    {
+      "t": 100.33,
+      "end": 103.71,
+      "text": "Pukul sepuluh, dia tersenyum"
+    },
+    {
+      "t": 103.87,
+      "end": 112.99,
+      "text": "Suaranya turun, jadi lembut sekali"
+    },
+    {
+      "t": 116.63,
+      "end": 116.63,
+      "text": "[Bridge - guitar alone]"
+    },
+    {
+      "t": 116.63,
+      "end": 121.21,
+      "text": "Dia lupa koin, lupa bilik"
+    },
+    {
+      "t": 125.07,
+      "end": 130.47,
+      "text": "Aku diam saja, kuhitung meteran"
+    },
+    {
+      "t": 132.41,
+      "end": 132.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 132.41,
+      "end": 137.21,
+      "text": "Setelah pukul sepuluh, bicaralah"
+    },
+    {
+      "t": 137.35,
+      "end": 146.81,
+      "text": "Tiga jam pun tak apa, murah saja"
+    },
+    {
+      "t": 150.26,
+      "end": 161.56,
+      "text": "Setelah pukul sepuluh, aku tutup"
+    },
+    {
+      "t": 161.76,
+      "end": 188.08,
+      "text": "Hanya bilik dua yang masih menyala"
+    },
+    {
+      "t": 188.08,
+      "end": 188.08,
+      "text": "[Outro - piano, chorus guitar fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

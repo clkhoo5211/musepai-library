@@ -1,0 +1,347 @@
+{
+  "id": "b24_en02",
+  "title": "Six Weeks Behind",
+  "title_source": "scripted",
+  "genre": "psychedelic folk (Incredible String Band lineage, acoustic, droney)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "dreamy, playful, wistful",
+  "persona": "",
+  "subject": "two pen pals since age eleven, one on Orkney and one in Tasmania, whose letters take six weeks each way so each answers a question the other asked in another season",
+  "caption": "Psychedelic folk in the 1967 Incredible String Band tradition. Fingerpicked steel-string acoustic guitar in open tuning, hammered dulcimer ringing over a tanpura drone, wooden flute with a breathy tone, hand drums and finger cymbals keeping a loose lilting pulse. Warm room recording, light tape echo on the dulcimer, organic and slightly ragged. Male and female voices trading lines and joining in unison, clearly sung with a folk lilt. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, D dorian. Dreamy, playful, wistful mood. No electric guitar, no synthesizer, no drum kit, no autotune, no rap.",
+  "lyrics": "[Intro - dulcimer, drone and flute]\n\n[Verse 1]\nYou sent me a question in the middle of June\nI opened it when the first snow came down\nYou asked if the lambs had come early this year\nI said yes, and they're sheep now\n\n[Pre-Chorus]\nYour winter is my summer\nMy morning is your night\n\n[Chorus]\nSix weeks behind, six weeks behind\nOver the water, we talk\nI answer you now what you asked me before\nAnd you'll answer me back in the autumn\n\n[Verse 2]\nYour letter smelled faintly of eucalyptus\nMine smelled of peat smoke and rain\nYou said you'd been sick and you're better again\nI wrote, get well soon, by the way\n\n[Pre-Chorus]\nWe've been at it since eleven\nTwo grey heads on two thin pages\n\n[Bridge - flute and drone alone]\nIf I ever stand on your shore\nWill you know me by my handwriting\n\n[Chorus]\nSix weeks behind, six weeks behind\nThe ink is still wet on my thumb\nI answer you now what you asked me before\nAnd you'll answer me back in the autumn\n\n[Outro - dulcimer and flute fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 96,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D dorian",
+    "timesignature": "4",
+    "prompt": "Psychedelic folk in the 1967 Incredible String Band tradition. Fingerpicked steel-string acoustic guitar in open tuning, hammered dulcimer ringing over a tanpura drone, wooden flute with a breathy tone, hand drums and finger cymbals keeping a loose lilting pulse. Warm room recording, light tape echo on the dulcimer, organic and slightly ragged. Male and female voices trading lines and joining in unison, clearly sung with a folk lilt. Clear full voice, every word enunciated, steady sung melody on every line. 96 BPM, D dorian. Dreamy, playful, wistful mood. No electric guitar, no synthesizer, no drum kit, no autotune, no rap.",
+    "lyrics": "[Intro - dulcimer, drone and flute]\n\n[Verse 1]\nYou sent me a question in the middle of June\nI opened it when the first snow came down\nYou asked if the lambs had come early this year\nI said yes, and they're sheep now\n\n[Pre-Chorus]\nYour winter is my summer\nMy morning is your night\n\n[Chorus]\nSix weeks behind, six weeks behind\nOver the water, we talk\nI answer you now what you asked me before\nAnd you'll answer me back in the autumn\n\n[Verse 2]\nYour letter smelled faintly of eucalyptus\nMine smelled of peat smoke and rain\nYou said you'd been sick and you're better again\nI wrote, get well soon, by the way\n\n[Pre-Chorus]\nWe've been at it since eleven\nTwo grey heads on two thin pages\n\n[Bridge - flute and drone alone]\nIf I ever stand on your shore\nWill you know me by my handwriting\n\n[Chorus]\nSix weeks behind, six weeks behind\nThe ink is still wet on my thumb\nI answer you now what you asked me before\nAnd you'll answer me back in the autumn\n\n[Outro - dulcimer and flute fade]"
+  },
+  "seed": "2640434310",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.74s**\n- 56.74s per song\n- LM phase (1 song): 13.37s\n- DiT phase (1 song): 43.37s",
+  "task_id": "b408689f-6783-4766-83d5-30fe96ae2acb",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-24T09:02:49.285012+08:00",
+  "audio": "b24_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.58,
+      "end": 26.58,
+      "text": "[Intro - dulcimer, drone and flute]"
+    },
+    {
+      "t": 26.58,
+      "end": 26.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.58,
+      "end": 32.34,
+      "text": "You sent me a question in the middle of June"
+    },
+    {
+      "t": 32.34,
+      "end": 35.68,
+      "text": "I opened it when the first snow came down"
+    },
+    {
+      "t": 35.68,
+      "end": 40.74,
+      "text": "You asked if the lambs had come early this year"
+    },
+    {
+      "t": 40.74,
+      "end": 46.96,
+      "text": "I said yes, and they're sheep now"
+    },
+    {
+      "t": 47.16,
+      "end": 47.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.16,
+      "end": 50.6,
+      "text": "Your winter is my summer"
+    },
+    {
+      "t": 52.25,
+      "end": 57.93,
+      "text": "My morning is your night"
+    },
+    {
+      "t": 61.41,
+      "end": 61.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.41,
+      "end": 75.87,
+      "text": "Six weeks behind, six weeks behind"
+    },
+    {
+      "t": 76.25,
+      "end": 80.23,
+      "text": "Over the water, we talk"
+    },
+    {
+      "t": 82.31,
+      "end": 86.21,
+      "text": "I answer you now what you asked me before"
+    },
+    {
+      "t": 86.89,
+      "end": 90.49,
+      "text": "And you'll answer me back in the autumn"
+    },
+    {
+      "t": 92.53,
+      "end": 92.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.53,
+      "end": 95.99,
+      "text": "Your letter smelled faintly of eucalyptus"
+    },
+    {
+      "t": 95.99,
+      "end": 100.97,
+      "text": "Mine smelled of peat smoke and rain"
+    },
+    {
+      "t": 101.29,
+      "end": 107.77,
+      "text": "You said you'd been sick and you're better again"
+    },
+    {
+      "t": 107.85,
+      "end": 111.27,
+      "text": "I wrote, get well soon, by the way"
+    },
+    {
+      "t": 111.29,
+      "end": 111.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.29,
+      "end": 115.67,
+      "text": "We've been at it since eleven"
+    },
+    {
+      "t": 115.67,
+      "end": 121.13,
+      "text": "Two grey heads on two thin pages"
+    },
+    {
+      "t": 123.91,
+      "end": 123.91,
+      "text": "[Bridge - flute and drone alone]"
+    },
+    {
+      "t": 123.91,
+      "end": 132.01,
+      "text": "If I ever stand on your shore"
+    },
+    {
+      "t": 135.21,
+      "end": 143.17,
+      "text": "Will you know me by my handwriting"
+    },
+    {
+      "t": 149.37,
+      "end": 149.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 149.37,
+      "end": 163.52,
+      "text": "Six weeks behind, six weeks behind"
+    },
+    {
+      "t": 170.4,
+      "end": 173.94,
+      "text": "The ink is still wet on my thumb"
+    },
+    {
+      "t": 175.92,
+      "end": 179.86,
+      "text": "I answer you now what you asked me before"
+    },
+    {
+      "t": 180.44,
+      "end": 187.46,
+      "text": "And you'll answer me back in the autumn"
+    },
+    {
+      "t": 187.46,
+      "end": 187.46,
+      "text": "[Outro - dulcimer and flute fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.62,
+      "end": 26.62,
+      "text": "[Intro - dulcimer, drone and flute]"
+    },
+    {
+      "t": 26.62,
+      "end": 26.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.62,
+      "end": 32.36,
+      "text": "You sent me a question in the middle of June"
+    },
+    {
+      "t": 32.36,
+      "end": 35.68,
+      "text": "I opened it when the first snow came down"
+    },
+    {
+      "t": 35.68,
+      "end": 40.78,
+      "text": "You asked if the lambs had come early this year"
+    },
+    {
+      "t": 41.34,
+      "end": 47.18,
+      "text": "I said yes, and they're sheep now"
+    },
+    {
+      "t": 47.18,
+      "end": 47.18,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.18,
+      "end": 50.64,
+      "text": "Your winter is my summer"
+    },
+    {
+      "t": 52.25,
+      "end": 62.41,
+      "text": "My morning is your night"
+    },
+    {
+      "t": 63.95,
+      "end": 63.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 63.95,
+      "end": 77.43,
+      "text": "Six weeks behind, six weeks behind"
+    },
+    {
+      "t": 77.49,
+      "end": 80.25,
+      "text": "Over the water, we talk"
+    },
+    {
+      "t": 82.31,
+      "end": 86.21,
+      "text": "I answer you now what you asked me before"
+    },
+    {
+      "t": 86.89,
+      "end": 90.41,
+      "text": "And you'll answer me back in the autumn"
+    },
+    {
+      "t": 92.51,
+      "end": 92.51,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 92.51,
+      "end": 96.03,
+      "text": "Your letter smelled faintly of eucalyptus"
+    },
+    {
+      "t": 96.03,
+      "end": 101.29,
+      "text": "Mine smelled of peat smoke and rain"
+    },
+    {
+      "t": 101.29,
+      "end": 107.77,
+      "text": "You said you'd been sick and you're better again"
+    },
+    {
+      "t": 107.85,
+      "end": 111.29,
+      "text": "I wrote, get well soon, by the way"
+    },
+    {
+      "t": 111.31,
+      "end": 111.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.31,
+      "end": 115.67,
+      "text": "We've been at it since eleven"
+    },
+    {
+      "t": 115.67,
+      "end": 121.11,
+      "text": "Two grey heads on two thin pages"
+    },
+    {
+      "t": 123.89,
+      "end": 123.89,
+      "text": "[Bridge - flute and drone alone]"
+    },
+    {
+      "t": 123.89,
+      "end": 127.15,
+      "text": "If I ever stand on your shore"
+    },
+    {
+      "t": 128.57,
+      "end": 131.15,
+      "text": "Will you know me by my handwriting"
+    },
+    {
+      "t": 131.49,
+      "end": 131.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.49,
+      "end": 163.52,
+      "text": "Six weeks behind, six weeks behind"
+    },
+    {
+      "t": 170.4,
+      "end": 173.96,
+      "text": "The ink is still wet on my thumb"
+    },
+    {
+      "t": 175.9,
+      "end": 179.84,
+      "text": "I answer you now what you asked me before"
+    },
+    {
+      "t": 180.44,
+      "end": 187.36,
+      "text": "And you'll answer me back in the autumn"
+    },
+    {
+      "t": 187.36,
+      "end": 187.36,
+      "text": "[Outro - dulcimer and flute fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

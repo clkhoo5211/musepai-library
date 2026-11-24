@@ -1,0 +1,579 @@
+{
+  "id": "b24_en05",
+  "title": "Bees in the Sousaphone",
+  "title_source": "scripted",
+  "genre": "traditional New Orleans Dixieland jazz (collective improvisation, cornet, clarinet, trombone, banjo, tuba)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "rowdy, funny, danceable",
+  "persona": "",
+  "subject": "a swarm of bees settles in the bell of the sousaphone the morning before the parade, and the beekeeper must be coaxed away from his honey stand to talk them out while the band keeps time",
+  "caption": "Traditional New Orleans Dixieland jazz, 1920s parade-band style. Cornet leading the melody with a bright brassy tone, clarinet weaving fast runs above it, trombone sliding underneath with tailgate smears, strummed four-string banjo on every beat, sousaphone playing a bouncing two-beat bass, snare and bass drum in a marching shuffle. Dry live acoustic room, tight and lively. Male lead, gritty and warm, clearly sung, with band shouts answering. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, B-flat major. Rowdy, funny, danceable mood. No synthesizer, no electric guitar, no autotune, no drum machine, no rap.",
+  "lyrics": "[Intro - cornet, clarinet and banjo]\n\n[Verse 1]\nTuba man calls me at half past seven\nSays there's something in his horn\nPut my ear to the bell and I heard a buzzing\nNow the whole street's been warned\n\n[Pre-Chorus]\nParade starts at noon\nBees got there at dawn\n\n[Chorus]\nBees in the sousaphone, bees in the horn\nDon't blow it, don't blow it, don't blow\nI've got a smoker, a veil and a jar\nHold the beat and let me go slow\n\n[Verse 2]\nDrummer keeps the second line rolling\nSoft on the snare, soft on the beat\nBees like a low note, they hum back to him\nI tap the bell with my feet\n\n[Pre-Chorus]\nOne by one they walk out\nDown the brass like a queue\n\n[Chorus]\nBees in the sousaphone, bees in the horn\nDon't blow it, don't blow it, don't blow\nI've got a smoker, a veil and a jar\nHold the beat and let me go slow\n\n[Bridge - cornet and clarinet]\nHoney for the band, honey for the band\nFree jars at the corner by noon\n\n[Chorus]\nBees in the jar now, tuba blows clean\nGo on, go on, go on\nParade is rolling, the street's all swinging\nAnd the honey is sweet in the sun\n\n[Outro - full band]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 120,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "B-flat major",
+    "timesignature": "4",
+    "prompt": "Traditional New Orleans Dixieland jazz, 1920s parade-band style. Cornet leading the melody with a bright brassy tone, clarinet weaving fast runs above it, trombone sliding underneath with tailgate smears, strummed four-string banjo on every beat, sousaphone playing a bouncing two-beat bass, snare and bass drum in a marching shuffle. Dry live acoustic room, tight and lively. Male lead, gritty and warm, clearly sung, with band shouts answering. Clear full voice, every word enunciated, steady sung melody on every line. 120 BPM, B-flat major. Rowdy, funny, danceable mood. No synthesizer, no electric guitar, no autotune, no drum machine, no rap.",
+    "lyrics": "[Intro - cornet, clarinet and banjo]\n\n[Verse 1]\nTuba man calls me at half past seven\nSays there's something in his horn\nPut my ear to the bell and I heard a buzzing\nNow the whole street's been warned\n\n[Pre-Chorus]\nParade starts at noon\nBees got there at dawn\n\n[Chorus]\nBees in the sousaphone, bees in the horn\nDon't blow it, don't blow it, don't blow\nI've got a smoker, a veil and a jar\nHold the beat and let me go slow\n\n[Verse 2]\nDrummer keeps the second line rolling\nSoft on the snare, soft on the beat\nBees like a low note, they hum back to him\nI tap the bell with my feet\n\n[Pre-Chorus]\nOne by one they walk out\nDown the brass like a queue\n\n[Chorus]\nBees in the sousaphone, bees in the horn\nDon't blow it, don't blow it, don't blow\nI've got a smoker, a veil and a jar\nHold the beat and let me go slow\n\n[Bridge - cornet and clarinet]\nHoney for the band, honey for the band\nFree jars at the corner by noon\n\n[Chorus]\nBees in the jar now, tuba blows clean\nGo on, go on, go on\nParade is rolling, the street's all swinging\nAnd the honey is sweet in the sun\n\n[Outro - full band]"
+  },
+  "seed": "4004545464",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.46s**\n- 52.46s per song\n- LM phase (1 song): 9.02s\n- DiT phase (1 song): 43.44s",
+  "task_id": "d0a2f36e-c794-431a-ab38-be91ec3c5f1b",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-24T09:06:19.576185+08:00",
+  "audio": "b24_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.42,
+      "end": 17.42,
+      "text": "[Intro - cornet, clarinet and banjo]"
+    },
+    {
+      "t": 17.42,
+      "end": 17.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.42,
+      "end": 20.38,
+      "text": "Tuba man calls me at half past seven"
+    },
+    {
+      "t": 20.94,
+      "end": 23.72,
+      "text": "Says there's something in his horn"
+    },
+    {
+      "t": 24.98,
+      "end": 28.64,
+      "text": "Put my ear to the bell and I heard a buzzing"
+    },
+    {
+      "t": 28.96,
+      "end": 31.7,
+      "text": "Now the whole street's been warned"
+    },
+    {
+      "t": 33.76,
+      "end": 33.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.76,
+      "end": 35.54,
+      "text": "Parade starts at noon"
+    },
+    {
+      "t": 36.76,
+      "end": 39.74,
+      "text": "Bees got there at dawn"
+    },
+    {
+      "t": 44.28,
+      "end": 44.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.28,
+      "end": 47.18,
+      "text": "Bees in the sousaphone, bees in the horn"
+    },
+    {
+      "t": 47.22,
+      "end": 49.73,
+      "text": "Don't blow it, don't blow it, don't blow"
+    },
+    {
+      "t": 52.91,
+      "end": 55.81,
+      "text": "I've got a smoker, a veil and a jar"
+    },
+    {
+      "t": 55.81,
+      "end": 57.77,
+      "text": "Hold the beat and let me go slow"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.29,
+      "end": 64.09,
+      "text": "Drummer keeps the second line rolling"
+    },
+    {
+      "t": 64.97,
+      "end": 68.29,
+      "text": "Soft on the snare, soft on the beat"
+    },
+    {
+      "t": 68.85,
+      "end": 75.55,
+      "text": "Bees like a low note, they hum back to him"
+    },
+    {
+      "t": 75.55,
+      "end": 77.13,
+      "text": "I tap the bell with my feet"
+    },
+    {
+      "t": 83.13,
+      "end": 83.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 83.13,
+      "end": 85.43,
+      "text": "One by one they walk out"
+    },
+    {
+      "t": 85.43,
+      "end": 86.31,
+      "text": "Down the brass like a queue"
+    },
+    {
+      "t": 86.33,
+      "end": 86.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.33,
+      "end": 87.71,
+      "text": "Bees in the sousaphone, bees in the horn"
+    },
+    {
+      "t": 87.73,
+      "end": 89.27,
+      "text": "Don't blow it, don't blow it, don't blow"
+    },
+    {
+      "t": 91.41,
+      "end": 94.87,
+      "text": "I've got a smoker, a veil and a jar"
+    },
+    {
+      "t": 95.01,
+      "end": 97.63,
+      "text": "Hold the beat and let me go slow"
+    },
+    {
+      "t": 110.81,
+      "end": 110.81,
+      "text": "[Bridge - cornet and clarinet]"
+    },
+    {
+      "t": 110.81,
+      "end": 123.39,
+      "text": "Honey for the band, honey for the band"
+    },
+    {
+      "t": 128.67,
+      "end": 131.03,
+      "text": "Free jars at the corner by noon"
+    },
+    {
+      "t": 135.31,
+      "end": 135.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.31,
+      "end": 138.95,
+      "text": "Bees in the jar now, tuba blows clean"
+    },
+    {
+      "t": 140.03,
+      "end": 142.73,
+      "text": "Go on, go on, go on"
+    },
+    {
+      "t": 143.71,
+      "end": 158.16,
+      "text": "Parade is rolling, the street's all swinging"
+    },
+    {
+      "t": 164.06,
+      "end": 167.16,
+      "text": "And the honey is sweet in the sun"
+    },
+    {
+      "t": 167.16,
+      "end": 167.16,
+      "text": "[Outro - full band]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 17.42,
+      "end": 17.42,
+      "text": "[Intro - cornet, clarinet and banjo]"
+    },
+    {
+      "t": 17.42,
+      "end": 17.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.42,
+      "end": 20.38,
+      "text": "Tuba man calls me at half past seven"
+    },
+    {
+      "t": 20.94,
+      "end": 23.72,
+      "text": "Says there's something in his horn"
+    },
+    {
+      "t": 24.98,
+      "end": 28.64,
+      "text": "Put my ear to the bell and I heard a buzzing"
+    },
+    {
+      "t": 28.96,
+      "end": 31.7,
+      "text": "Now the whole street's been warned"
+    },
+    {
+      "t": 33.76,
+      "end": 33.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.76,
+      "end": 35.54,
+      "text": "Parade starts at noon"
+    },
+    {
+      "t": 36.76,
+      "end": 39.74,
+      "text": "Bees got there at dawn"
+    },
+    {
+      "t": 44.28,
+      "end": 44.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.28,
+      "end": 47.18,
+      "text": "Bees in the sousaphone, bees in the horn"
+    },
+    {
+      "t": 47.22,
+      "end": 49.73,
+      "text": "Don't blow it, don't blow it, don't blow"
+    },
+    {
+      "t": 52.91,
+      "end": 55.81,
+      "text": "I've got a smoker, a veil and a jar"
+    },
+    {
+      "t": 55.81,
+      "end": 57.77,
+      "text": "Hold the beat and let me go slow"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.29,
+      "end": 64.09,
+      "text": "Drummer keeps the second line rolling"
+    },
+    {
+      "t": 64.97,
+      "end": 68.29,
+      "text": "Soft on the snare, soft on the beat"
+    },
+    {
+      "t": 68.85,
+      "end": 75.55,
+      "text": "Bees like a low note, they hum back to him"
+    },
+    {
+      "t": 75.55,
+      "end": 77.13,
+      "text": "I tap the bell with my feet"
+    },
+    {
+      "t": 83.13,
+      "end": 83.13,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 83.13,
+      "end": 85.43,
+      "text": "One by one they walk out"
+    },
+    {
+      "t": 85.43,
+      "end": 86.31,
+      "text": "Down the brass like a queue"
+    },
+    {
+      "t": 86.33,
+      "end": 86.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 86.33,
+      "end": 87.71,
+      "text": "Bees in the sousaphone, bees in the horn"
+    },
+    {
+      "t": 87.73,
+      "end": 89.27,
+      "text": "Don't blow it, don't blow it, don't blow"
+    },
+    {
+      "t": 91.41,
+      "end": 94.87,
+      "text": "I've got a smoker, a veil and a jar"
+    },
+    {
+      "t": 95.01,
+      "end": 97.63,
+      "text": "Hold the beat and let me go slow"
+    },
+    {
+      "t": 110.81,
+      "end": 110.81,
+      "text": "[Bridge - cornet and clarinet]"
+    },
+    {
+      "t": 110.81,
+      "end": 123.39,
+      "text": "Honey for the band, honey for the band"
+    },
+    {
+      "t": 128.67,
+      "end": 131.03,
+      "text": "Free jars at the corner by noon"
+    },
+    {
+      "t": 135.31,
+      "end": 135.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.31,
+      "end": 138.95,
+      "text": "Bees in the jar now, tuba blows clean"
+    },
+    {
+      "t": 140.03,
+      "end": 142.73,
+      "text": "Go on, go on, go on"
+    },
+    {
+      "t": 143.71,
+      "end": 158.16,
+      "text": "Parade is rolling, the street's all swinging"
+    },
+    {
+      "t": 164.06,
+      "end": 167.16,
+      "text": "And the honey is sweet in the sun"
+    },
+    {
+      "t": 167.16,
+      "end": 167.16,
+      "text": "[Outro - full band]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 17.42,
+      "end": 17.42,
+      "text": "[Intro - cornet, clarinet and banjo]"
+    },
+    {
+      "t": 17.42,
+      "end": 17.42,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.42,
+      "end": 20.38,
+      "text": "Tuba man calls me at half past seven"
+    },
+    {
+      "t": 20.92,
+      "end": 23.72,
+      "text": "Says there's something in his horn"
+    },
+    {
+      "t": 24.98,
+      "end": 28.66,
+      "text": "Put my ear to the bell and I heard a buzzing"
+    },
+    {
+      "t": 28.96,
+      "end": 31.74,
+      "text": "Now the whole street's been warned"
+    },
+    {
+      "t": 33.76,
+      "end": 33.76,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 33.76,
+      "end": 35.54,
+      "text": "Parade starts at noon"
+    },
+    {
+      "t": 36.76,
+      "end": 39.74,
+      "text": "Bees got there at dawn"
+    },
+    {
+      "t": 44.28,
+      "end": 44.28,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.28,
+      "end": 47.42,
+      "text": "Bees in the sousaphone, bees in the horn"
+    },
+    {
+      "t": 47.46,
+      "end": 49.71,
+      "text": "Don't blow it, don't blow it, don't blow"
+    },
+    {
+      "t": 52.91,
+      "end": 55.83,
+      "text": "I've got a smoker, a veil and a jar"
+    },
+    {
+      "t": 55.99,
+      "end": 57.73,
+      "text": "Hold the beat and let me go slow"
+    },
+    {
+      "t": 61.29,
+      "end": 61.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 61.29,
+      "end": 64.19,
+      "text": "Drummer keeps the second line rolling"
+    },
+    {
+      "t": 64.97,
+      "end": 68.29,
+      "text": "Soft on the snare, soft on the beat"
+    },
+    {
+      "t": 68.85,
+      "end": 75.17,
+      "text": "Bees like a low note, they hum back to him"
+    },
+    {
+      "t": 75.17,
+      "end": 77.13,
+      "text": "I tap the bell with my feet"
+    },
+    {
+      "t": 77.15,
+      "end": 77.15,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 77.15,
+      "end": 79.41,
+      "text": "One by one they walk out"
+    },
+    {
+      "t": 79.41,
+      "end": 80.05,
+      "text": "Down the brass like a queue"
+    },
+    {
+      "t": 80.07,
+      "end": 80.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 80.07,
+      "end": 85.65,
+      "text": "Bees in the sousaphone, bees in the horn"
+    },
+    {
+      "t": 86.51,
+      "end": 89.27,
+      "text": "Don't blow it, don't blow it, don't blow"
+    },
+    {
+      "t": 91.41,
+      "end": 94.85,
+      "text": "I've got a smoker, a veil and a jar"
+    },
+    {
+      "t": 94.99,
+      "end": 97.55,
+      "text": "Hold the beat and let me go slow"
+    },
+    {
+      "t": 97.55,
+      "end": 97.55,
+      "text": "[Bridge - cornet and clarinet]"
+    },
+    {
+      "t": 97.55,
+      "end": 123.41,
+      "text": "Honey for the band, honey for the band"
+    },
+    {
+      "t": 128.67,
+      "end": 131.03,
+      "text": "Free jars at the corner by noon"
+    },
+    {
+      "t": 135.31,
+      "end": 135.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.31,
+      "end": 138.95,
+      "text": "Bees in the jar now, tuba blows clean"
+    },
+    {
+      "t": 140.05,
+      "end": 142.81,
+      "text": "Go on, go on, go on"
+    },
+    {
+      "t": 143.73,
+      "end": 158.16,
+      "text": "Parade is rolling, the street's all swinging"
+    },
+    {
+      "t": 164.06,
+      "end": 192.66,
+      "text": "And the honey is sweet in the sun"
+    },
+    {
+      "t": 192.66,
+      "end": 192.66,
+      "text": "[Outro - full band]"
+    }
+  ]
+}

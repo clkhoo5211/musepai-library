@@ -1,0 +1,367 @@
+{
+  "id": "b24_ms01",
+  "title": "Manik Skor Ke Tujuh",
+  "title_source": "scripted",
+  "genre": "1960s Malay folk-rock (12-string jangle, Byrds-lineage)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "light, bashful, warm",
+  "persona": "",
+  "subject": "a girl who keeps score on the bead rack at a Seremban snooker hall and slides one bead too many for the quiet boy at table four",
+  "caption": "1960s Malay folk-rock, jangling sub-style with Byrds-like stacked harmonies. Bright 12-string electric guitar strumming open chords, warm round-tone bass guitar, light snare-and-tambourine drum kit, upright piano tapping offbeats. Analog tape warmth, slight room reverb, band recorded live. Male tenor lead with a female harmony line above, mid register, plain melodic delivery. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, G major. Bashful, warm, light-footed mood. No electronic drums, no autotune, no rap, no synth pads, no heavy distortion, no trap hi-hats.",
+  "lyrics": "[Intro - 12-string guitar jangle, tambourine]\n\n[Verse 1]\nDewan biliard di Seremban, kipas berpusing\nDia datang pukul tujuh, duduk meja empat\nAkulah budak skor, jari atas manik\nSetiap kali dia menang, aku senyum sorok\n\n[Pre-Chorus]\nManik kayu bunyi tak tak tak\nHati aku pun ikut berdetak\n\n[Chorus]\nSkor ke tujuh, tolak satu lagi\nDia tak perasan, aku tolak sendiri\nKapur biru di jari, mata di belakang\nYa Tuhan, janganlah dia pandang\n\n[Verse 2]\nDia main perlahan, tak pernah marah\nBila kalah dia gelak, belanja aku teh ais\nAku kira mata dia, bukan mata bola\nSalah tolak lagi, tauke jeling dari kaunter\n\n[Pre-Chorus]\nManik kayu bunyi tak tak tak\nDia tanya, kenapa skor aku banyak\n\n[Chorus]\nSkor ke tujuh, tambah satu lagi\nDia dah perasan, dia senyum sendiri\nKapur biru di jari, mata bertentang\nMalam ini dia pandang, aku pandang\n\n[Bridge - guitar and harmony only]\nMeja empat kosong, esok dia datang\nAku susun manik, aku tunggu dia\n\n[Outro - 12-string jangle fades]\nTak tak tak, tak tak tak\nSkor ke tujuh, kita mula balik",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "1960s Malay folk-rock, jangling sub-style with Byrds-like stacked harmonies. Bright 12-string electric guitar strumming open chords, warm round-tone bass guitar, light snare-and-tambourine drum kit, upright piano tapping offbeats. Analog tape warmth, slight room reverb, band recorded live. Male tenor lead with a female harmony line above, mid register, plain melodic delivery. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, G major. Bashful, warm, light-footed mood. No electronic drums, no autotune, no rap, no synth pads, no heavy distortion, no trap hi-hats.",
+    "lyrics": "[Intro - 12-string guitar jangle, tambourine]\n\n[Verse 1]\nDewan biliard di Seremban, kipas berpusing\nDia datang pukul tujuh, duduk meja empat\nAkulah budak skor, jari atas manik\nSetiap kali dia menang, aku senyum sorok\n\n[Pre-Chorus]\nManik kayu bunyi tak tak tak\nHati aku pun ikut berdetak\n\n[Chorus]\nSkor ke tujuh, tolak satu lagi\nDia tak perasan, aku tolak sendiri\nKapur biru di jari, mata di belakang\nYa Tuhan, janganlah dia pandang\n\n[Verse 2]\nDia main perlahan, tak pernah marah\nBila kalah dia gelak, belanja aku teh ais\nAku kira mata dia, bukan mata bola\nSalah tolak lagi, tauke jeling dari kaunter\n\n[Pre-Chorus]\nManik kayu bunyi tak tak tak\nDia tanya, kenapa skor aku banyak\n\n[Chorus]\nSkor ke tujuh, tambah satu lagi\nDia dah perasan, dia senyum sendiri\nKapur biru di jari, mata bertentang\nMalam ini dia pandang, aku pandang\n\n[Bridge - guitar and harmony only]\nMeja empat kosong, esok dia datang\nAku susun manik, aku tunggu dia\n\n[Outro - 12-string jangle fades]\nTak tak tak, tak tak tak\nSkor ke tujuh, kita mula balik"
+  },
+  "seed": "4177018169",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.04s**\n- 57.04s per song\n- LM phase (1 song): 8.55s\n- DiT phase (1 song): 48.49s",
+  "task_id": "0548a8eb-bdc8-40a4-9bb1-0ed8bf590003",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-24T08:36:25.375409+08:00",
+  "audio": "b24_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.48,
+      "end": 18.48,
+      "text": "[Intro - 12-string guitar jangle, tambourine]"
+    },
+    {
+      "t": 18.48,
+      "end": 18.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.48,
+      "end": 25.96,
+      "text": "Dewan biliard di Seremban, kipas berpusing"
+    },
+    {
+      "t": 27.56,
+      "end": 34.64,
+      "text": "Dia datang pukul tujuh, duduk meja empat"
+    },
+    {
+      "t": 35.7,
+      "end": 39.08,
+      "text": "Akulah budak skor, jari atas manik"
+    },
+    {
+      "t": 39.88,
+      "end": 46.04,
+      "text": "Setiap kali dia menang, aku senyum sorok"
+    },
+    {
+      "t": 46.52,
+      "end": 46.52,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.52,
+      "end": 48.69,
+      "text": "Manik kayu bunyi tak tak tak"
+    },
+    {
+      "t": 48.69,
+      "end": 51.71,
+      "text": "Hati aku pun ikut berdetak"
+    },
+    {
+      "t": 52.67,
+      "end": 52.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.67,
+      "end": 55.81,
+      "text": "Skor ke tujuh, tolak satu lagi"
+    },
+    {
+      "t": 57.01,
+      "end": 60.05,
+      "text": "Dia tak perasan, aku tolak sendiri"
+    },
+    {
+      "t": 61.23,
+      "end": 64.75,
+      "text": "Kapur biru di jari, mata di belakang"
+    },
+    {
+      "t": 65.53,
+      "end": 68.35,
+      "text": "Ya Tuhan, janganlah dia pandang"
+    },
+    {
+      "t": 68.43,
+      "end": 68.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.43,
+      "end": 70.77,
+      "text": "Dia main perlahan, tak pernah marah"
+    },
+    {
+      "t": 70.83,
+      "end": 75.83,
+      "text": "Bila kalah dia gelak, belanja aku teh ais"
+    },
+    {
+      "t": 75.95,
+      "end": 79.67,
+      "text": "Aku kira mata dia, bukan mata bola"
+    },
+    {
+      "t": 82.21,
+      "end": 87.59,
+      "text": "Salah tolak lagi, tauke jeling dari kaunter"
+    },
+    {
+      "t": 89.93,
+      "end": 89.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 89.93,
+      "end": 93.27,
+      "text": "Manik kayu bunyi tak tak tak"
+    },
+    {
+      "t": 93.43,
+      "end": 96.11,
+      "text": "Dia tanya, kenapa skor aku banyak"
+    },
+    {
+      "t": 96.75,
+      "end": 96.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.75,
+      "end": 100.17,
+      "text": "Skor ke tujuh, tambah satu lagi"
+    },
+    {
+      "t": 100.81,
+      "end": 104.37,
+      "text": "Dia dah perasan, dia senyum sendiri"
+    },
+    {
+      "t": 105.31,
+      "end": 108.91,
+      "text": "Kapur biru di jari, mata bertentang"
+    },
+    {
+      "t": 109.05,
+      "end": 115.05,
+      "text": "Malam ini dia pandang, aku pandang"
+    },
+    {
+      "t": 140.05,
+      "end": 140.05,
+      "text": "[Bridge - guitar and harmony only]"
+    },
+    {
+      "t": 140.05,
+      "end": 146.46,
+      "text": "Meja empat kosong, esok dia datang"
+    },
+    {
+      "t": 148.66,
+      "end": 154.56,
+      "text": "Aku susun manik, aku tunggu dia"
+    },
+    {
+      "t": 157.86,
+      "end": 157.86,
+      "text": "[Outro - 12-string jangle fades]"
+    },
+    {
+      "t": 157.86,
+      "end": 161.02,
+      "text": "Tak tak tak, tak tak tak"
+    },
+    {
+      "t": 162.02,
+      "end": 176.7,
+      "text": "Skor ke tujuh, kita mula balik"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.48,
+      "end": 18.48,
+      "text": "[Intro - 12-string guitar jangle, tambourine]"
+    },
+    {
+      "t": 18.48,
+      "end": 18.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.48,
+      "end": 25.96,
+      "text": "Dewan biliard di Seremban, kipas berpusing"
+    },
+    {
+      "t": 27.56,
+      "end": 34.6,
+      "text": "Dia datang pukul tujuh, duduk meja empat"
+    },
+    {
+      "t": 35.7,
+      "end": 39.14,
+      "text": "Akulah budak skor, jari atas manik"
+    },
+    {
+      "t": 39.88,
+      "end": 44.96,
+      "text": "Setiap kali dia menang, aku senyum sorok"
+    },
+    {
+      "t": 45.02,
+      "end": 45.02,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.02,
+      "end": 48.65,
+      "text": "Manik kayu bunyi tak tak tak"
+    },
+    {
+      "t": 48.69,
+      "end": 51.71,
+      "text": "Hati aku pun ikut berdetak"
+    },
+    {
+      "t": 52.67,
+      "end": 52.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.67,
+      "end": 55.81,
+      "text": "Skor ke tujuh, tolak satu lagi"
+    },
+    {
+      "t": 57.01,
+      "end": 60.05,
+      "text": "Dia tak perasan, aku tolak sendiri"
+    },
+    {
+      "t": 61.23,
+      "end": 64.79,
+      "text": "Kapur biru di jari, mata di belakang"
+    },
+    {
+      "t": 65.51,
+      "end": 68.35,
+      "text": "Ya Tuhan, janganlah dia pandang"
+    },
+    {
+      "t": 68.45,
+      "end": 68.45,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.45,
+      "end": 71.79,
+      "text": "Dia main perlahan, tak pernah marah"
+    },
+    {
+      "t": 71.79,
+      "end": 75.83,
+      "text": "Bila kalah dia gelak, belanja aku teh ais"
+    },
+    {
+      "t": 75.93,
+      "end": 77.93,
+      "text": "Aku kira mata dia, bukan mata bola"
+    },
+    {
+      "t": 82.21,
+      "end": 87.35,
+      "text": "Salah tolak lagi, tauke jeling dari kaunter"
+    },
+    {
+      "t": 89.93,
+      "end": 89.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 89.93,
+      "end": 93.45,
+      "text": "Manik kayu bunyi tak tak tak"
+    },
+    {
+      "t": 93.49,
+      "end": 96.11,
+      "text": "Dia tanya, kenapa skor aku banyak"
+    },
+    {
+      "t": 96.75,
+      "end": 96.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.75,
+      "end": 100.17,
+      "text": "Skor ke tujuh, tambah satu lagi"
+    },
+    {
+      "t": 100.83,
+      "end": 104.35,
+      "text": "Dia dah perasan, dia senyum sendiri"
+    },
+    {
+      "t": 105.31,
+      "end": 108.91,
+      "text": "Kapur biru di jari, mata bertentang"
+    },
+    {
+      "t": 109.05,
+      "end": 115.05,
+      "text": "Malam ini dia pandang, aku pandang"
+    },
+    {
+      "t": 140.05,
+      "end": 140.05,
+      "text": "[Bridge - guitar and harmony only]"
+    },
+    {
+      "t": 140.05,
+      "end": 146.46,
+      "text": "Meja empat kosong, esok dia datang"
+    },
+    {
+      "t": 148.66,
+      "end": 154.56,
+      "text": "Aku susun manik, aku tunggu dia"
+    },
+    {
+      "t": 157.86,
+      "end": 157.86,
+      "text": "[Outro - 12-string jangle fades]"
+    },
+    {
+      "t": 157.86,
+      "end": 161.04,
+      "text": "Tak tak tak, tak tak tak"
+    },
+    {
+      "t": 162.02,
+      "end": 176.7,
+      "text": "Skor ke tujuh, kita mula balik"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

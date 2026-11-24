@@ -1,0 +1,579 @@
+{
+  "id": "b24_en01",
+  "title": "Saturday Jar",
+  "title_source": "scripted",
+  "genre": "Hawaiian slack-key and steel-guitar ballad (island pop, 1970s Gabby Pahinui lineage)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "tender, warm, hopeful",
+  "persona": "",
+  "subject": "a honey seller at a Saturday farmers' table who writes a new line on the label of one jar for the same woman every week, and she buys only one jar, so he has shelves of unsent lines at home",
+  "caption": "Hawaiian slack-key ballad, 1970s island sound. Slack-key guitar in open G tuning playing a thumb-bass pattern with soft hammer-ons, ukulele strumming gently on the offbeats, steel guitar sliding in long sustained notes, upright bass walking quietly, soft brushed percussion. Warm close room recording, light spring reverb on the steel guitar. Male tenor, smooth and open, clearly sung with gentle falsetto lifts. Clear full voice, every word enunciated, steady sung melody on every line. 80 BPM, G major. Tender, hopeful, slow-sway mood. No trap hi-hats, no autotune, no synth pads, no drum machine, no strings, no rap.",
+  "lyrics": "[Intro - slack-key guitar and steel guitar]\n\n[Verse 1]\nSaturday morning I set out the jars\nClover, wildflower, dark amber\nYou come by before the church bell rings nine\nYou hold one jar to the light\n\n[Pre-Chorus]\nI write on the label in pencil\nA new line every week\n\n[Chorus]\nSaturday jar, Saturday jar\nOne little sentence for you\nYou count out your coins and you walk to your car\nAnd you never read what I wrote\n\n[Verse 2]\nBack in my kitchen there's a shelf full of lines\nThe ones you never have read\nSweet as the clover and slow off the spoon\nI sealed them with wax and I wait\n\n[Pre-Chorus]\nThis week on the label in pencil\nYour name is the very last word\n\n[Chorus]\nSaturday jar, Saturday jar\nOne little sentence for you\nYou count out your coins and you stop by your car\nAnd this time you turn it around\n\n[Bridge - steel guitar alone]\nYou asked me my name\nNow there's two cups of tea on the table\n\n[Chorus]\nSaturday jar, Saturday jar\nEvery line was for you\nTake them all home to your kitchen, my dear\nAnd I'll bring you a fresh one on Sunday\n\n[Outro - slack-key guitar fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 80,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Hawaiian slack-key ballad, 1970s island sound. Slack-key guitar in open G tuning playing a thumb-bass pattern with soft hammer-ons, ukulele strumming gently on the offbeats, steel guitar sliding in long sustained notes, upright bass walking quietly, soft brushed percussion. Warm close room recording, light spring reverb on the steel guitar. Male tenor, smooth and open, clearly sung with gentle falsetto lifts. Clear full voice, every word enunciated, steady sung melody on every line. 80 BPM, G major. Tender, hopeful, slow-sway mood. No trap hi-hats, no autotune, no synth pads, no drum machine, no strings, no rap.",
+    "lyrics": "[Intro - slack-key guitar and steel guitar]\n\n[Verse 1]\nSaturday morning I set out the jars\nClover, wildflower, dark amber\nYou come by before the church bell rings nine\nYou hold one jar to the light\n\n[Pre-Chorus]\nI write on the label in pencil\nA new line every week\n\n[Chorus]\nSaturday jar, Saturday jar\nOne little sentence for you\nYou count out your coins and you walk to your car\nAnd you never read what I wrote\n\n[Verse 2]\nBack in my kitchen there's a shelf full of lines\nThe ones you never have read\nSweet as the clover and slow off the spoon\nI sealed them with wax and I wait\n\n[Pre-Chorus]\nThis week on the label in pencil\nYour name is the very last word\n\n[Chorus]\nSaturday jar, Saturday jar\nOne little sentence for you\nYou count out your coins and you stop by your car\nAnd this time you turn it around\n\n[Bridge - steel guitar alone]\nYou asked me my name\nNow there's two cups of tea on the table\n\n[Chorus]\nSaturday jar, Saturday jar\nEvery line was for you\nTake them all home to your kitchen, my dear\nAnd I'll bring you a fresh one on Sunday\n\n[Outro - slack-key guitar fades]"
+  },
+  "seed": "2638013401",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.87s**\n- 52.87s per song\n- LM phase (1 song): 10.55s\n- DiT phase (1 song): 42.33s",
+  "task_id": "d955f199-f9c3-4e62-9342-df4c7ebd9aeb",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-24T09:01:39.203385+08:00",
+  "audio": "b24_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 23.3,
+      "end": 23.3,
+      "text": "[Intro - slack-key guitar and steel guitar]"
+    },
+    {
+      "t": 23.3,
+      "end": 23.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.3,
+      "end": 27.86,
+      "text": "Saturday morning I set out the jars"
+    },
+    {
+      "t": 29.12,
+      "end": 32.5,
+      "text": "Clover, wildflower, dark amber"
+    },
+    {
+      "t": 34.42,
+      "end": 38.82,
+      "text": "You come by before the church bell rings nine"
+    },
+    {
+      "t": 40.62,
+      "end": 46.44,
+      "text": "You hold one jar to the light"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 50.33,
+      "text": "I write on the label in pencil"
+    },
+    {
+      "t": 51.91,
+      "end": 54.55,
+      "text": "A new line every week"
+    },
+    {
+      "t": 57.49,
+      "end": 57.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.49,
+      "end": 58.93,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 58.93,
+      "end": 60.37,
+      "text": "One little sentence for you"
+    },
+    {
+      "t": 60.37,
+      "end": 65.01,
+      "text": "You count out your coins and you walk to your car"
+    },
+    {
+      "t": 66.05,
+      "end": 69.41,
+      "text": "And you never read what I wrote"
+    },
+    {
+      "t": 72.55,
+      "end": 72.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.55,
+      "end": 75.97,
+      "text": "Back in my kitchen there's a shelf full of lines"
+    },
+    {
+      "t": 78.05,
+      "end": 81.31,
+      "text": "The ones you never have read"
+    },
+    {
+      "t": 84.15,
+      "end": 87.39,
+      "text": "Sweet as the clover and slow off the spoon"
+    },
+    {
+      "t": 89.91,
+      "end": 93.45,
+      "text": "I sealed them with wax and I wait"
+    },
+    {
+      "t": 95.79,
+      "end": 95.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.79,
+      "end": 99.91,
+      "text": "This week on the label in pencil"
+    },
+    {
+      "t": 101.79,
+      "end": 105.59,
+      "text": "Your name is the very last word"
+    },
+    {
+      "t": 108.07,
+      "end": 108.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.07,
+      "end": 109.51,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 109.51,
+      "end": 111.41,
+      "text": "One little sentence for you"
+    },
+    {
+      "t": 111.41,
+      "end": 115.93,
+      "text": "You count out your coins and you stop by your car"
+    },
+    {
+      "t": 116.93,
+      "end": 120.79,
+      "text": "And this time you turn it around"
+    },
+    {
+      "t": 124.03,
+      "end": 124.03,
+      "text": "[Bridge - steel guitar alone]"
+    },
+    {
+      "t": 124.03,
+      "end": 131.85,
+      "text": "You asked me my name"
+    },
+    {
+      "t": 135.01,
+      "end": 139.03,
+      "text": "Now there's two cups of tea on the table"
+    },
+    {
+      "t": 144.11,
+      "end": 144.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.11,
+      "end": 147.43,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 149.49,
+      "end": 152.02,
+      "text": "Every line was for you"
+    },
+    {
+      "t": 154.46,
+      "end": 169.86,
+      "text": "Take them all home to your kitchen, my dear"
+    },
+    {
+      "t": 170.32,
+      "end": 177.9,
+      "text": "And I'll bring you a fresh one on Sunday"
+    },
+    {
+      "t": 177.9,
+      "end": 177.9,
+      "text": "[Outro - slack-key guitar fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.3,
+      "end": 23.3,
+      "text": "[Intro - slack-key guitar and steel guitar]"
+    },
+    {
+      "t": 23.3,
+      "end": 23.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.3,
+      "end": 27.86,
+      "text": "Saturday morning I set out the jars"
+    },
+    {
+      "t": 29.12,
+      "end": 32.5,
+      "text": "Clover, wildflower, dark amber"
+    },
+    {
+      "t": 34.42,
+      "end": 38.82,
+      "text": "You come by before the church bell rings nine"
+    },
+    {
+      "t": 40.62,
+      "end": 46.44,
+      "text": "You hold one jar to the light"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 50.33,
+      "text": "I write on the label in pencil"
+    },
+    {
+      "t": 51.91,
+      "end": 54.55,
+      "text": "A new line every week"
+    },
+    {
+      "t": 57.49,
+      "end": 57.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.49,
+      "end": 58.93,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 58.93,
+      "end": 60.37,
+      "text": "One little sentence for you"
+    },
+    {
+      "t": 60.37,
+      "end": 65.01,
+      "text": "You count out your coins and you walk to your car"
+    },
+    {
+      "t": 66.05,
+      "end": 69.41,
+      "text": "And you never read what I wrote"
+    },
+    {
+      "t": 72.55,
+      "end": 72.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.55,
+      "end": 75.97,
+      "text": "Back in my kitchen there's a shelf full of lines"
+    },
+    {
+      "t": 78.05,
+      "end": 81.31,
+      "text": "The ones you never have read"
+    },
+    {
+      "t": 84.15,
+      "end": 87.39,
+      "text": "Sweet as the clover and slow off the spoon"
+    },
+    {
+      "t": 89.91,
+      "end": 93.45,
+      "text": "I sealed them with wax and I wait"
+    },
+    {
+      "t": 95.79,
+      "end": 95.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.79,
+      "end": 99.91,
+      "text": "This week on the label in pencil"
+    },
+    {
+      "t": 101.79,
+      "end": 105.59,
+      "text": "Your name is the very last word"
+    },
+    {
+      "t": 108.07,
+      "end": 108.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.07,
+      "end": 109.51,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 109.51,
+      "end": 111.41,
+      "text": "One little sentence for you"
+    },
+    {
+      "t": 111.41,
+      "end": 115.93,
+      "text": "You count out your coins and you stop by your car"
+    },
+    {
+      "t": 116.93,
+      "end": 120.79,
+      "text": "And this time you turn it around"
+    },
+    {
+      "t": 124.03,
+      "end": 124.03,
+      "text": "[Bridge - steel guitar alone]"
+    },
+    {
+      "t": 124.03,
+      "end": 131.85,
+      "text": "You asked me my name"
+    },
+    {
+      "t": 135.01,
+      "end": 139.03,
+      "text": "Now there's two cups of tea on the table"
+    },
+    {
+      "t": 144.11,
+      "end": 144.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.11,
+      "end": 147.43,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 149.49,
+      "end": 152.02,
+      "text": "Every line was for you"
+    },
+    {
+      "t": 154.46,
+      "end": 169.86,
+      "text": "Take them all home to your kitchen, my dear"
+    },
+    {
+      "t": 170.32,
+      "end": 177.9,
+      "text": "And I'll bring you a fresh one on Sunday"
+    },
+    {
+      "t": 177.9,
+      "end": 177.9,
+      "text": "[Outro - slack-key guitar fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 23.3,
+      "end": 23.3,
+      "text": "[Intro - slack-key guitar and steel guitar]"
+    },
+    {
+      "t": 23.3,
+      "end": 23.3,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.3,
+      "end": 27.86,
+      "text": "Saturday morning I set out the jars"
+    },
+    {
+      "t": 29.14,
+      "end": 32.52,
+      "text": "Clover, wildflower, dark amber"
+    },
+    {
+      "t": 34.44,
+      "end": 38.82,
+      "text": "You come by before the church bell rings nine"
+    },
+    {
+      "t": 40.62,
+      "end": 46.44,
+      "text": "You hold one jar to the light"
+    },
+    {
+      "t": 46.48,
+      "end": 46.48,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.48,
+      "end": 50.27,
+      "text": "I write on the label in pencil"
+    },
+    {
+      "t": 51.91,
+      "end": 54.55,
+      "text": "A new line every week"
+    },
+    {
+      "t": 57.49,
+      "end": 57.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 57.49,
+      "end": 58.97,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 58.97,
+      "end": 60.25,
+      "text": "One little sentence for you"
+    },
+    {
+      "t": 60.37,
+      "end": 65.01,
+      "text": "You count out your coins and you walk to your car"
+    },
+    {
+      "t": 66.05,
+      "end": 69.43,
+      "text": "And you never read what I wrote"
+    },
+    {
+      "t": 72.55,
+      "end": 72.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 72.55,
+      "end": 75.95,
+      "text": "Back in my kitchen there's a shelf full of lines"
+    },
+    {
+      "t": 78.05,
+      "end": 81.33,
+      "text": "The ones you never have read"
+    },
+    {
+      "t": 84.15,
+      "end": 87.37,
+      "text": "Sweet as the clover and slow off the spoon"
+    },
+    {
+      "t": 90.03,
+      "end": 93.61,
+      "text": "I sealed them with wax and I wait"
+    },
+    {
+      "t": 95.81,
+      "end": 95.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.81,
+      "end": 99.85,
+      "text": "This week on the label in pencil"
+    },
+    {
+      "t": 101.79,
+      "end": 105.59,
+      "text": "Your name is the very last word"
+    },
+    {
+      "t": 108.07,
+      "end": 108.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.07,
+      "end": 109.47,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 109.83,
+      "end": 111.39,
+      "text": "One little sentence for you"
+    },
+    {
+      "t": 111.39,
+      "end": 115.93,
+      "text": "You count out your coins and you stop by your car"
+    },
+    {
+      "t": 116.93,
+      "end": 121.97,
+      "text": "And this time you turn it around"
+    },
+    {
+      "t": 124.03,
+      "end": 124.03,
+      "text": "[Bridge - steel guitar alone]"
+    },
+    {
+      "t": 124.03,
+      "end": 125.93,
+      "text": "You asked me my name"
+    },
+    {
+      "t": 131.47,
+      "end": 139.01,
+      "text": "Now there's two cups of tea on the table"
+    },
+    {
+      "t": 144.11,
+      "end": 144.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.11,
+      "end": 147.43,
+      "text": "Saturday jar, Saturday jar"
+    },
+    {
+      "t": 149.49,
+      "end": 152.02,
+      "text": "Every line was for you"
+    },
+    {
+      "t": 154.46,
+      "end": 161.1,
+      "text": "Take them all home to your kitchen, my dear"
+    },
+    {
+      "t": 162.16,
+      "end": 177.86,
+      "text": "And I'll bring you a fresh one on Sunday"
+    },
+    {
+      "t": 177.86,
+      "end": 177.86,
+      "text": "[Outro - slack-key guitar fades]"
+    }
+  ]
+}

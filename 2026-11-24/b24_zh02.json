@@ -1,0 +1,337 @@
+{
+  "id": "b24_zh02",
+  "title": "舊書店的鉛筆字",
+  "title_source": "scripted",
+  "genre": "Mandarin Latin bolero-rumba nightclub pop",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "wry, tender, late-evening",
+  "persona": "",
+  "subject": "the owner of a tiny second-hand bookshop writes each price in pencil on the inside cover, and one Saturday buys back a novel from a woman who sold it to him last spring, finding a pressed ticket stub in it that is now his to keep or return",
+  "caption": "Mandarin Latin bolero-rumba nightclub pop, slow swaying rumba-bolero groove. Nylon-string guitar strums a steady bolero pattern with soft arpeggio fills, upright bass walks root-fifth on the downbeats, bongos and claves keep a gentle syncopated clave pulse, muted trumpet adds one short phrase between verses, soft brushed snare sits underneath. 1960s Taipei nightclub warmth, light tape saturation, close natural room. Male voice, warm mid-low register, unhurried storytelling delivery, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, D minor. Wry, tender late-evening mood. No piano, no synth pads, no electronic drums, no autotune, no rap.",
+  "lyrics": "[Intro - nylon-string guitar and a single muted trumpet phrase]\n\n[Verse 1]\n舊書店裡我用鉛筆寫價錢\n一塊兩塊寫在書的內頁\n擦掉再寫是這行的規矩\n可是有些字我不太想擦\n\n[Verse 2]\n去年春天有個女生賣書\n一整袋放在櫃台上就走\n今天她又走進我的店\n把同一本小說抱在手裡\n\n[Pre-Chorus]\n她問多少錢\n我說我看看\n\n[Chorus]\n翻到最後一頁\n夾著一張電影票根\n我說這是妳的\n她說放著吧\n\n[Bridge - nylon-string guitar alone, then bass joins]\n有人把故事賣給我\n有人把故事買回去\n我在櫃台後面\n數著今天的零錢\n\n[Chorus]\n翻到最後一頁\n夾著一張電影票根\n我說這是妳的\n她說下週一起看\n\n[Outro - nylon-string guitar and muted trumpet, slow fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Mandarin Latin bolero-rumba nightclub pop, slow swaying rumba-bolero groove. Nylon-string guitar strums a steady bolero pattern with soft arpeggio fills, upright bass walks root-fifth on the downbeats, bongos and claves keep a gentle syncopated clave pulse, muted trumpet adds one short phrase between verses, soft brushed snare sits underneath. 1960s Taipei nightclub warmth, light tape saturation, close natural room. Male voice, warm mid-low register, unhurried storytelling delivery, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, D minor. Wry, tender late-evening mood. No piano, no synth pads, no electronic drums, no autotune, no rap.",
+    "lyrics": "[Intro - nylon-string guitar and a single muted trumpet phrase]\n\n[Verse 1]\n舊書店裡我用鉛筆寫價錢\n一塊兩塊寫在書的內頁\n擦掉再寫是這行的規矩\n可是有些字我不太想擦\n\n[Verse 2]\n去年春天有個女生賣書\n一整袋放在櫃台上就走\n今天她又走進我的店\n把同一本小說抱在手裡\n\n[Pre-Chorus]\n她問多少錢\n我說我看看\n\n[Chorus]\n翻到最後一頁\n夾著一張電影票根\n我說這是妳的\n她說放著吧\n\n[Bridge - nylon-string guitar alone, then bass joins]\n有人把故事賣給我\n有人把故事買回去\n我在櫃台後面\n數著今天的零錢\n\n[Chorus]\n翻到最後一頁\n夾著一張電影票根\n我說這是妳的\n她說下週一起看\n\n[Outro - nylon-string guitar and muted trumpet, slow fade]"
+  },
+  "seed": "1478684712",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.83s**\n- 57.83s per song\n- LM phase (1 song): 9.45s\n- DiT phase (1 song): 48.38s",
+  "task_id": "f9ce6a51-05f1-40d2-ac83-2ce66eec560d",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-24T09:08:49.790203+08:00",
+  "audio": "b24_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 13.52,
+      "end": 13.52,
+      "text": "[Intro - nylon-string guitar and a single muted trumpet phrase]"
+    },
+    {
+      "t": 13.52,
+      "end": 13.52,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 13.52,
+      "end": 18.76,
+      "text": "舊書店裡我用鉛筆寫價錢"
+    },
+    {
+      "t": 18.78,
+      "end": 22.1,
+      "text": "一塊兩塊寫在書的內頁"
+    },
+    {
+      "t": 22.18,
+      "end": 50.0,
+      "text": "擦掉再寫是這行的規矩"
+    },
+    {
+      "t": 50.0,
+      "end": 50.9,
+      "text": "可是有些字我不太想擦"
+    },
+    {
+      "t": 50.9,
+      "end": 50.9,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 50.9,
+      "end": 54.69,
+      "text": "去年春天有個女生賣書"
+    },
+    {
+      "t": 55.93,
+      "end": 59.93,
+      "text": "一整袋放在櫃台上就走"
+    },
+    {
+      "t": 61.77,
+      "end": 64.07,
+      "text": "今天她又走進我的店"
+    },
+    {
+      "t": 64.53,
+      "end": 67.71,
+      "text": "把同一本小說抱在手裡"
+    },
+    {
+      "t": 72.39,
+      "end": 72.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.39,
+      "end": 73.83,
+      "text": "她問多少錢"
+    },
+    {
+      "t": 75.63,
+      "end": 76.49,
+      "text": "我說我看看"
+    },
+    {
+      "t": 76.53,
+      "end": 76.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 76.53,
+      "end": 78.63,
+      "text": "翻到最後一頁"
+    },
+    {
+      "t": 78.63,
+      "end": 81.85,
+      "text": "夾著一張電影票根"
+    },
+    {
+      "t": 81.87,
+      "end": 91.93,
+      "text": "我說這是妳的"
+    },
+    {
+      "t": 91.93,
+      "end": 93.29,
+      "text": "她說放著吧"
+    },
+    {
+      "t": 118.57,
+      "end": 118.57,
+      "text": "[Bridge - nylon-string guitar alone, then bass joins]"
+    },
+    {
+      "t": 118.57,
+      "end": 120.41,
+      "text": "有人把故事賣給我"
+    },
+    {
+      "t": 122.25,
+      "end": 125.91,
+      "text": "有人把故事買回去"
+    },
+    {
+      "t": 128.59,
+      "end": 130.69,
+      "text": "我在櫃台後面"
+    },
+    {
+      "t": 131.05,
+      "end": 133.09,
+      "text": "數著今天的零錢"
+    },
+    {
+      "t": 133.11,
+      "end": 133.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.11,
+      "end": 138.35,
+      "text": "翻到最後一頁"
+    },
+    {
+      "t": 138.35,
+      "end": 147.57,
+      "text": "夾著一張電影票根"
+    },
+    {
+      "t": 147.57,
+      "end": 161.9,
+      "text": "我說這是妳的"
+    },
+    {
+      "t": 181.26,
+      "end": 183.4,
+      "text": "她說下週一起看"
+    },
+    {
+      "t": 183.4,
+      "end": 183.4,
+      "text": "[Outro - nylon-string guitar and muted trumpet, slow fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.58,
+      "end": 22.58,
+      "text": "[Intro - nylon-string guitar and a single muted trumpet phrase]"
+    },
+    {
+      "t": 22.58,
+      "end": 22.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.58,
+      "end": 51.12,
+      "text": "舊書店裡我用鉛筆寫價錢"
+    },
+    {
+      "t": 51.16,
+      "end": 52.76,
+      "text": "一塊兩塊寫在書的內頁"
+    },
+    {
+      "t": 52.76,
+      "end": 53.5,
+      "text": "擦掉再寫是這行的規矩"
+    },
+    {
+      "t": 53.5,
+      "end": 54.33,
+      "text": "可是有些字我不太想擦"
+    },
+    {
+      "t": 54.33,
+      "end": 54.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 54.33,
+      "end": 55.93,
+      "text": "去年春天有個女生賣書"
+    },
+    {
+      "t": 55.93,
+      "end": 59.87,
+      "text": "一整袋放在櫃台上就走"
+    },
+    {
+      "t": 61.79,
+      "end": 64.11,
+      "text": "今天她又走進我的店"
+    },
+    {
+      "t": 64.53,
+      "end": 67.71,
+      "text": "把同一本小說抱在手裡"
+    },
+    {
+      "t": 72.39,
+      "end": 72.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 72.39,
+      "end": 73.87,
+      "text": "她問多少錢"
+    },
+    {
+      "t": 75.63,
+      "end": 76.61,
+      "text": "我說我看看"
+    },
+    {
+      "t": 78.07,
+      "end": 78.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 78.07,
+      "end": 78.69,
+      "text": "翻到最後一頁"
+    },
+    {
+      "t": 78.69,
+      "end": 87.37,
+      "text": "夾著一張電影票根"
+    },
+    {
+      "t": 87.51,
+      "end": 92.19,
+      "text": "我說這是妳的"
+    },
+    {
+      "t": 92.19,
+      "end": 93.27,
+      "text": "她說放著吧"
+    },
+    {
+      "t": 118.57,
+      "end": 118.57,
+      "text": "[Bridge - nylon-string guitar alone, then bass joins]"
+    },
+    {
+      "t": 118.57,
+      "end": 120.41,
+      "text": "有人把故事賣給我"
+    },
+    {
+      "t": 122.25,
+      "end": 125.91,
+      "text": "有人把故事買回去"
+    },
+    {
+      "t": 128.61,
+      "end": 130.75,
+      "text": "我在櫃台後面"
+    },
+    {
+      "t": 131.05,
+      "end": 133.09,
+      "text": "數著今天的零錢"
+    },
+    {
+      "t": 133.19,
+      "end": 133.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.19,
+      "end": 140.99,
+      "text": "翻到最後一頁"
+    },
+    {
+      "t": 141.09,
+      "end": 142.73,
+      "text": "夾著一張電影票根"
+    },
+    {
+      "t": 142.87,
+      "end": 177.78,
+      "text": "我說這是妳的"
+    },
+    {
+      "t": 181.28,
+      "end": 183.34,
+      "text": "她說下週一起看"
+    },
+    {
+      "t": 183.34,
+      "end": 183.34,
+      "text": "[Outro - nylon-string guitar and muted trumpet, slow fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,397 @@
+{
+  "id": "b24_ja04",
+  "title": "七番席のお客さん",
+  "title_source": "scripted",
+  "genre": "Japanese Taisho-roman dark cabaret ballad (accordion, felt piano and clarinet, silent-film hall atmosphere)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "wistful, hushed, dark-romantic",
+  "persona": "",
+  "subject": "a young woman benshi narrating a silent film in an Asakusa-style hall to the one customer in seat seven, an old man who never watches the screen, only her mouth, so she slows every line to his reading speed",
+  "caption": "Japanese Taisho-roman dark cabaret ballad, silent-film hall atmosphere. Accordion holding slow swaying chords, felt-muted upright piano, clarinet answering the vocal line in the low register, bowed double bass, brushed snare. Dim warm room reverb like an old picture hall. Female lead, low alto, slow deliberate phrasing, every word shaped clearly. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D minor. Wistful, hushed, dark-romantic. No electronic drums, no synth pads, no autotune, no rap, no electric guitar, no big pop chorus lift.",
+  "lyrics": "[Intro - accordion and felt piano]\n\n[Verse 1]\n銀幕に 雨のような傷が走る\n弁士の私は 七番席を見る\nお客はいつも ひとりだけ\n画面でなく 私の口を見てる\n\n[Pre-Chorus]\n音のない世界の目が\n言葉のかたちを 拾っていく\n\n[Chorus]\nゆっくり話そう 七番席の人\nあなたに読める 速さで\n唇のかたちを ひとつずつ\n愛の台詞を 手渡すように\n\n[Verse 2]\n筋書きは 毎週変わるけれど\nあなたの席は 変わらない\n聞こえないことを 一度も\nあなたは 私に言わなかった\n\n[Pre-Chorus]\n活動写真の 最後の幕\n灯りがつくと 目が合った\n\n[Chorus]\nゆっくり話そう 七番席の人\n閉館の貼り紙 剥がすまで\nふりがなのように 唇を結ぶ\n愛の台詞を 私の言葉で\n\n[Bridge - clarinet alone, accordion enters]\n銀幕の恋が 終わるころ\nあなたの指が 小さく拍手した\n\n[Chorus]\nゆっくり話そう 七番席の人\n画面が消えても ここにいる\nあなたにだけ 読める速さで\n愛していますと 言ってみる\n\n[Outro - felt piano, clarinet fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 220.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "2",
+    "prompt": "Japanese Taisho-roman dark cabaret ballad, silent-film hall atmosphere. Accordion holding slow swaying chords, felt-muted upright piano, clarinet answering the vocal line in the low register, bowed double bass, brushed snare. Dim warm room reverb like an old picture hall. Female lead, low alto, slow deliberate phrasing, every word shaped clearly. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D minor. Wistful, hushed, dark-romantic. No electronic drums, no synth pads, no autotune, no rap, no electric guitar, no big pop chorus lift.",
+    "lyrics": "[Intro - accordion and felt piano]\n\n[Verse 1]\n銀幕に 雨のような傷が走る\n弁士の私は 七番席を見る\nお客はいつも ひとりだけ\n画面でなく 私の口を見てる\n\n[Pre-Chorus]\n音のない世界の目が\n言葉のかたちを 拾っていく\n\n[Chorus]\nゆっくり話そう 七番席の人\nあなたに読める 速さで\n唇のかたちを ひとつずつ\n愛の台詞を 手渡すように\n\n[Verse 2]\n筋書きは 毎週変わるけれど\nあなたの席は 変わらない\n聞こえないことを 一度も\nあなたは 私に言わなかった\n\n[Pre-Chorus]\n活動写真の 最後の幕\n灯りがつくと 目が合った\n\n[Chorus]\nゆっくり話そう 七番席の人\n閉館の貼り紙 剥がすまで\nふりがなのように 唇を結ぶ\n愛の台詞を 私の言葉で\n\n[Bridge - clarinet alone, accordion enters]\n銀幕の恋が 終わるころ\nあなたの指が 小さく拍手した\n\n[Chorus]\nゆっくり話そう 七番席の人\n画面が消えても ここにいる\nあなたにだけ 読める速さで\n愛していますと 言ってみる\n\n[Outro - felt piano, clarinet fades]"
+  },
+  "seed": "642218393",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.87s**\n- 59.87s per song\n- LM phase (1 song): 11.56s\n- DiT phase (1 song): 48.31s",
+  "task_id": "0868d820-969a-47fa-8301-1ff31371a0bb",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-11-24T10:07:41.772449+08:00",
+  "audio": "b24_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.26,
+      "end": 27.26,
+      "text": "[Intro - accordion and felt piano]"
+    },
+    {
+      "t": 27.26,
+      "end": 27.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.26,
+      "end": 31.32,
+      "text": "銀幕に 雨のような傷が走る"
+    },
+    {
+      "t": 33.84,
+      "end": 43.18,
+      "text": "弁士の私は 七番席を見る"
+    },
+    {
+      "t": 45.9,
+      "end": 49.76,
+      "text": "お客はいつも ひとりだけ"
+    },
+    {
+      "t": 51.98,
+      "end": 56.47,
+      "text": "画面でなく 私の口を見てる"
+    },
+    {
+      "t": 58.83,
+      "end": 58.83,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.83,
+      "end": 61.35,
+      "text": "音のない世界の目が"
+    },
+    {
+      "t": 61.35,
+      "end": 62.51,
+      "text": "言葉のかたちを 拾っていく"
+    },
+    {
+      "t": 62.61,
+      "end": 62.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.61,
+      "end": 64.99,
+      "text": "ゆっくり話そう 七番席の人"
+    },
+    {
+      "t": 65.07,
+      "end": 67.75,
+      "text": "あなたに読める 速さで"
+    },
+    {
+      "t": 67.75,
+      "end": 71.49,
+      "text": "唇のかたちを ひとつずつ"
+    },
+    {
+      "t": 71.59,
+      "end": 77.43,
+      "text": "愛の台詞を 手渡すように"
+    },
+    {
+      "t": 77.43,
+      "end": 77.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.43,
+      "end": 80.85,
+      "text": "筋書きは 毎週変わるけれど"
+    },
+    {
+      "t": 83.15,
+      "end": 87.81,
+      "text": "あなたの席は 変わらない"
+    },
+    {
+      "t": 87.85,
+      "end": 90.79,
+      "text": "聞こえないことを 一度も"
+    },
+    {
+      "t": 90.81,
+      "end": 94.61,
+      "text": "あなたは 私に言わなかった"
+    },
+    {
+      "t": 94.73,
+      "end": 94.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.73,
+      "end": 100.31,
+      "text": "活動写真の 最後の幕"
+    },
+    {
+      "t": 100.33,
+      "end": 103.41,
+      "text": "灯りがつくと 目が合った"
+    },
+    {
+      "t": 103.47,
+      "end": 103.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.47,
+      "end": 106.97,
+      "text": "ゆっくり話そう 七番席の人"
+    },
+    {
+      "t": 107.05,
+      "end": 111.67,
+      "text": "閉館の貼り紙 剥がすまで"
+    },
+    {
+      "t": 113.19,
+      "end": 115.73,
+      "text": "ふりがなのように 唇を結ぶ"
+    },
+    {
+      "t": 115.77,
+      "end": 117.93,
+      "text": "愛の台詞を 私の言葉で"
+    },
+    {
+      "t": 144.67,
+      "end": 144.67,
+      "text": "[Bridge - clarinet alone, accordion enters]"
+    },
+    {
+      "t": 144.67,
+      "end": 150.15,
+      "text": "銀幕の恋が 終わるころ"
+    },
+    {
+      "t": 151.37,
+      "end": 157.71,
+      "text": "あなたの指が 小さく拍手した"
+    },
+    {
+      "t": 163.53,
+      "end": 163.53,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 163.53,
+      "end": 166.88,
+      "text": "ゆっくり話そう 七番席の人"
+    },
+    {
+      "t": 166.92,
+      "end": 171.1,
+      "text": "画面が消えても ここにいる"
+    },
+    {
+      "t": 173.7,
+      "end": 177.66,
+      "text": "あなたにだけ 読める速さで"
+    },
+    {
+      "t": 180.1,
+      "end": 191.5,
+      "text": "愛していますと 言ってみる"
+    },
+    {
+      "t": 191.5,
+      "end": 191.5,
+      "text": "[Outro - felt piano, clarinet fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.24,
+      "end": 27.24,
+      "text": "[Intro - accordion and felt piano]"
+    },
+    {
+      "t": 27.24,
+      "end": 27.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.24,
+      "end": 38.3,
+      "text": "銀幕に 雨のような傷が走る"
+    },
+    {
+      "t": 38.3,
+      "end": 43.2,
+      "text": "弁士の私は 七番席を見る"
+    },
+    {
+      "t": 45.9,
+      "end": 49.76,
+      "text": "お客はいつも ひとりだけ"
+    },
+    {
+      "t": 51.98,
+      "end": 56.47,
+      "text": "画面でなく 私の口を見てる"
+    },
+    {
+      "t": 58.81,
+      "end": 58.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.81,
+      "end": 61.35,
+      "text": "音のない世界の目が"
+    },
+    {
+      "t": 61.35,
+      "end": 62.21,
+      "text": "言葉のかたちを 拾っていく"
+    },
+    {
+      "t": 62.21,
+      "end": 62.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.21,
+      "end": 64.99,
+      "text": "ゆっくり話そう 七番席の人"
+    },
+    {
+      "t": 65.07,
+      "end": 68.17,
+      "text": "あなたに読める 速さで"
+    },
+    {
+      "t": 68.17,
+      "end": 71.49,
+      "text": "唇のかたちを ひとつずつ"
+    },
+    {
+      "t": 71.57,
+      "end": 77.43,
+      "text": "愛の台詞を 手渡すように"
+    },
+    {
+      "t": 77.43,
+      "end": 77.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.43,
+      "end": 80.87,
+      "text": "筋書きは 毎週変わるけれど"
+    },
+    {
+      "t": 83.17,
+      "end": 87.81,
+      "text": "あなたの席は 変わらない"
+    },
+    {
+      "t": 87.83,
+      "end": 90.81,
+      "text": "聞こえないことを 一度も"
+    },
+    {
+      "t": 90.81,
+      "end": 94.61,
+      "text": "あなたは 私に言わなかった"
+    },
+    {
+      "t": 99.97,
+      "end": 99.97,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.97,
+      "end": 103.37,
+      "text": "活動写真の 最後の幕"
+    },
+    {
+      "t": 103.37,
+      "end": 104.51,
+      "text": "灯りがつくと 目が合った"
+    },
+    {
+      "t": 104.59,
+      "end": 104.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.59,
+      "end": 107.89,
+      "text": "ゆっくり話そう 七番席の人"
+    },
+    {
+      "t": 107.89,
+      "end": 113.19,
+      "text": "閉館の貼り紙 剥がすまで"
+    },
+    {
+      "t": 113.19,
+      "end": 115.73,
+      "text": "ふりがなのように 唇を結ぶ"
+    },
+    {
+      "t": 115.77,
+      "end": 118.53,
+      "text": "愛の台詞を 私の言葉で"
+    },
+    {
+      "t": 144.67,
+      "end": 144.67,
+      "text": "[Bridge - clarinet alone, accordion enters]"
+    },
+    {
+      "t": 144.67,
+      "end": 150.15,
+      "text": "銀幕の恋が 終わるころ"
+    },
+    {
+      "t": 151.35,
+      "end": 157.71,
+      "text": "あなたの指が 小さく拍手した"
+    },
+    {
+      "t": 163.55,
+      "end": 163.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 163.55,
+      "end": 166.9,
+      "text": "ゆっくり話そう 七番席の人"
+    },
+    {
+      "t": 166.92,
+      "end": 171.1,
+      "text": "画面が消えても ここにいる"
+    },
+    {
+      "t": 173.7,
+      "end": 177.68,
+      "text": "あなたにだけ 読める速さで"
+    },
+    {
+      "t": 180.1,
+      "end": 191.5,
+      "text": "愛していますと 言ってみる"
+    },
+    {
+      "t": 191.5,
+      "end": 191.5,
+      "text": "[Outro - felt piano, clarinet fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,534 @@
+{
+  "id": "b24_ms03",
+  "title": "Loceng Basikal Mak Bidan",
+  "title_source": "scripted",
+  "genre": "Kristang branyo (Portuguese Settlement Melaka folk dance song)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "jolly, boastful, communal",
+  "persona": "",
+  "subject": "an old bidan in the Melaka Portuguese Settlement who cycles to every birth and is paid only in kuih, so her pantry now holds forty-one tins",
+  "caption": "Melaka Portuguese-Eurasian branyo folk dance, lively 6/8-feeling two-step. Fiddle playing a bouncing dance melody, acoustic nylon guitar strumming, banjo-like cavaquinho picking offbeats, rebana frame drum with a light shaker, upright bass pulse. Courtyard room sound, live acoustic ensemble. Female alto lead, bright and storytelling, with a mixed group repeating the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, D major. Jolly, boastful, communal mood. No electronic drums, no synthesizers, no autotune, no rap, no electric guitar solos, no reggae or ska backbeat.",
+  "lyrics": "[Intro - fiddle, cavaquinho, rebana]\n\n[Verse 1]\nTing ting ting, loceng basikal Mak Bidan\nTengah malam gelap, dia kayuh laju\nBeg hitam di bakul, tuala di bahu\nAnak mana lagi nak keluar malam ni\n\n[Pre-Chorus]\nIbu tarik nafas, ayah gigit kuku\nMak Bidan kata, sabar, saya ada\n\n[Chorus]\nTing ting ting, anak dah sampai\nTangis pertama, kita semua senyum\nBayaran Mak Bidan bukan duit sen\nSebiji kuih, sebiji kuih, penuh tin\n\n[Verse 2]\nEmpat puluh satu tin dalam almari\nKuih bahulu, kuih tart, kuih kapit\nAda yang keras, ada yang dah lembap\nTapi Mak Bidan makan, dia tak pernah tolak\n\n[Pre-Chorus]\nBudak yang dulu dia sambut, dah besar\nSekarang dia menari depan pentas\n\n[Chorus]\nTing ting ting, anak dah sampai\nTangis pertama, kita semua senyum\nBayaran Mak Bidan bukan duit sen\nSebiji kuih, sebiji kuih, buka tin\n\n[Bridge - fiddle and rebana only]\nKayuh lagi, Mak Bidan, jalan masih jauh\nAda rumah lain, lampu dah menyala\n\n[Outro - fiddle, cavaquinho, group clap]\nTing ting ting, loceng basikal Mak Bidan\nTing ting ting, tin baru dah menunggu",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Melaka Portuguese-Eurasian branyo folk dance, lively 6/8-feeling two-step. Fiddle playing a bouncing dance melody, acoustic nylon guitar strumming, banjo-like cavaquinho picking offbeats, rebana frame drum with a light shaker, upright bass pulse. Courtyard room sound, live acoustic ensemble. Female alto lead, bright and storytelling, with a mixed group repeating the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, D major. Jolly, boastful, communal mood. No electronic drums, no synthesizers, no autotune, no rap, no electric guitar solos, no reggae or ska backbeat.",
+    "lyrics": "[Intro - fiddle, cavaquinho, rebana]\n\n[Verse 1]\nTing ting ting, loceng basikal Mak Bidan\nTengah malam gelap, dia kayuh laju\nBeg hitam di bakul, tuala di bahu\nAnak mana lagi nak keluar malam ni\n\n[Pre-Chorus]\nIbu tarik nafas, ayah gigit kuku\nMak Bidan kata, sabar, saya ada\n\n[Chorus]\nTing ting ting, anak dah sampai\nTangis pertama, kita semua senyum\nBayaran Mak Bidan bukan duit sen\nSebiji kuih, sebiji kuih, penuh tin\n\n[Verse 2]\nEmpat puluh satu tin dalam almari\nKuih bahulu, kuih tart, kuih kapit\nAda yang keras, ada yang dah lembap\nTapi Mak Bidan makan, dia tak pernah tolak\n\n[Pre-Chorus]\nBudak yang dulu dia sambut, dah besar\nSekarang dia menari depan pentas\n\n[Chorus]\nTing ting ting, anak dah sampai\nTangis pertama, kita semua senyum\nBayaran Mak Bidan bukan duit sen\nSebiji kuih, sebiji kuih, buka tin\n\n[Bridge - fiddle and rebana only]\nKayuh lagi, Mak Bidan, jalan masih jauh\nAda rumah lain, lampu dah menyala\n\n[Outro - fiddle, cavaquinho, group clap]\nTing ting ting, loceng basikal Mak Bidan\nTing ting ting, tin baru dah menunggu"
+  },
+  "seed": "2468082215",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.08s**\n- 65.08s per song\n- LM phase (1 song): 13.31s\n- DiT phase (1 song): 51.77s",
+  "task_id": "048ae336-8d3a-4a80-99f3-f00344e60142",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-24T08:38:55.610335+08:00",
+  "audio": "b24_ms03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 1.78,
+      "end": 1.78,
+      "text": "[Intro - fiddle, cavaquinho, rebana]"
+    },
+    {
+      "t": 1.78,
+      "end": 1.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.78,
+      "end": 31.6,
+      "text": "Ting ting ting, loceng basikal Mak Bidan"
+    },
+    {
+      "t": 31.76,
+      "end": 35.1,
+      "text": "Tengah malam gelap, dia kayuh laju"
+    },
+    {
+      "t": 38.06,
+      "end": 40.66,
+      "text": "Beg hitam di bakul, tuala di bahu"
+    },
+    {
+      "t": 40.72,
+      "end": 42.12,
+      "text": "Anak mana lagi nak keluar malam ni"
+    },
+    {
+      "t": 42.28,
+      "end": 42.28,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.28,
+      "end": 45.3,
+      "text": "Ibu tarik nafas, ayah gigit kuku"
+    },
+    {
+      "t": 45.3,
+      "end": 50.63,
+      "text": "Mak Bidan kata, sabar, saya ada"
+    },
+    {
+      "t": 53.65,
+      "end": 53.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.65,
+      "end": 56.89,
+      "text": "Ting ting ting, anak dah sampai"
+    },
+    {
+      "t": 57.31,
+      "end": 60.77,
+      "text": "Tangis pertama, kita semua senyum"
+    },
+    {
+      "t": 61.39,
+      "end": 65.45,
+      "text": "Bayaran Mak Bidan bukan duit sen"
+    },
+    {
+      "t": 65.67,
+      "end": 75.13,
+      "text": "Sebiji kuih, sebiji kuih, penuh tin"
+    },
+    {
+      "t": 76.13,
+      "end": 76.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.13,
+      "end": 79.35,
+      "text": "Empat puluh satu tin dalam almari"
+    },
+    {
+      "t": 79.71,
+      "end": 83.13,
+      "text": "Kuih bahulu, kuih tart, kuih kapit"
+    },
+    {
+      "t": 83.65,
+      "end": 87.15,
+      "text": "Ada yang keras, ada yang dah lembap"
+    },
+    {
+      "t": 87.23,
+      "end": 90.47,
+      "text": "Tapi Mak Bidan makan, dia tak pernah tolak"
+    },
+    {
+      "t": 90.47,
+      "end": 90.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.47,
+      "end": 93.23,
+      "text": "Budak yang dulu dia sambut, dah besar"
+    },
+    {
+      "t": 93.31,
+      "end": 95.17,
+      "text": "Sekarang dia menari depan pentas"
+    },
+    {
+      "t": 95.17,
+      "end": 95.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.17,
+      "end": 97.99,
+      "text": "Ting ting ting, anak dah sampai"
+    },
+    {
+      "t": 98.33,
+      "end": 101.79,
+      "text": "Tangis pertama, kita semua senyum"
+    },
+    {
+      "t": 102.43,
+      "end": 106.21,
+      "text": "Bayaran Mak Bidan bukan duit sen"
+    },
+    {
+      "t": 106.29,
+      "end": 117.91,
+      "text": "Sebiji kuih, sebiji kuih, buka tin"
+    },
+    {
+      "t": 124.69,
+      "end": 124.69,
+      "text": "[Bridge - fiddle and rebana only]"
+    },
+    {
+      "t": 124.69,
+      "end": 129.79,
+      "text": "Kayuh lagi, Mak Bidan, jalan masih jauh"
+    },
+    {
+      "t": 130.15,
+      "end": 136.93,
+      "text": "Ada rumah lain, lampu dah menyala"
+    },
+    {
+      "t": 144.1,
+      "end": 144.1,
+      "text": "[Outro - fiddle, cavaquinho, group clap]"
+    },
+    {
+      "t": 144.1,
+      "end": 151.86,
+      "text": "Ting ting ting, loceng basikal Mak Bidan"
+    },
+    {
+      "t": 151.86,
+      "end": 171.1,
+      "text": "Ting ting ting, tin baru dah menunggu"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 1.78,
+      "end": 1.78,
+      "text": "[Intro - fiddle, cavaquinho, rebana]"
+    },
+    {
+      "t": 1.78,
+      "end": 1.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.78,
+      "end": 31.6,
+      "text": "Ting ting ting, loceng basikal Mak Bidan"
+    },
+    {
+      "t": 31.76,
+      "end": 35.1,
+      "text": "Tengah malam gelap, dia kayuh laju"
+    },
+    {
+      "t": 38.06,
+      "end": 40.66,
+      "text": "Beg hitam di bakul, tuala di bahu"
+    },
+    {
+      "t": 40.72,
+      "end": 42.12,
+      "text": "Anak mana lagi nak keluar malam ni"
+    },
+    {
+      "t": 42.28,
+      "end": 42.28,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.28,
+      "end": 45.3,
+      "text": "Ibu tarik nafas, ayah gigit kuku"
+    },
+    {
+      "t": 45.3,
+      "end": 50.63,
+      "text": "Mak Bidan kata, sabar, saya ada"
+    },
+    {
+      "t": 53.65,
+      "end": 53.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.65,
+      "end": 56.89,
+      "text": "Ting ting ting, anak dah sampai"
+    },
+    {
+      "t": 57.31,
+      "end": 60.77,
+      "text": "Tangis pertama, kita semua senyum"
+    },
+    {
+      "t": 61.39,
+      "end": 65.45,
+      "text": "Bayaran Mak Bidan bukan duit sen"
+    },
+    {
+      "t": 65.67,
+      "end": 75.13,
+      "text": "Sebiji kuih, sebiji kuih, penuh tin"
+    },
+    {
+      "t": 76.13,
+      "end": 76.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.13,
+      "end": 79.35,
+      "text": "Empat puluh satu tin dalam almari"
+    },
+    {
+      "t": 79.71,
+      "end": 83.13,
+      "text": "Kuih bahulu, kuih tart, kuih kapit"
+    },
+    {
+      "t": 83.65,
+      "end": 87.15,
+      "text": "Ada yang keras, ada yang dah lembap"
+    },
+    {
+      "t": 87.23,
+      "end": 90.47,
+      "text": "Tapi Mak Bidan makan, dia tak pernah tolak"
+    },
+    {
+      "t": 90.47,
+      "end": 90.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.47,
+      "end": 93.23,
+      "text": "Budak yang dulu dia sambut, dah besar"
+    },
+    {
+      "t": 93.31,
+      "end": 95.17,
+      "text": "Sekarang dia menari depan pentas"
+    },
+    {
+      "t": 95.17,
+      "end": 95.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.17,
+      "end": 97.99,
+      "text": "Ting ting ting, anak dah sampai"
+    },
+    {
+      "t": 98.33,
+      "end": 101.79,
+      "text": "Tangis pertama, kita semua senyum"
+    },
+    {
+      "t": 102.43,
+      "end": 106.21,
+      "text": "Bayaran Mak Bidan bukan duit sen"
+    },
+    {
+      "t": 106.29,
+      "end": 117.91,
+      "text": "Sebiji kuih, sebiji kuih, buka tin"
+    },
+    {
+      "t": 124.69,
+      "end": 124.69,
+      "text": "[Bridge - fiddle and rebana only]"
+    },
+    {
+      "t": 124.69,
+      "end": 129.79,
+      "text": "Kayuh lagi, Mak Bidan, jalan masih jauh"
+    },
+    {
+      "t": 130.15,
+      "end": 136.93,
+      "text": "Ada rumah lain, lampu dah menyala"
+    },
+    {
+      "t": 144.1,
+      "end": 144.1,
+      "text": "[Outro - fiddle, cavaquinho, group clap]"
+    },
+    {
+      "t": 144.1,
+      "end": 151.86,
+      "text": "Ting ting ting, loceng basikal Mak Bidan"
+    },
+    {
+      "t": 151.86,
+      "end": 171.1,
+      "text": "Ting ting ting, tin baru dah menunggu"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 1.8,
+      "end": 1.8,
+      "text": "[Intro - fiddle, cavaquinho, rebana]"
+    },
+    {
+      "t": 1.8,
+      "end": 1.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.8,
+      "end": 31.58,
+      "text": "Ting ting ting, loceng basikal Mak Bidan"
+    },
+    {
+      "t": 31.76,
+      "end": 35.1,
+      "text": "Tengah malam gelap, dia kayuh laju"
+    },
+    {
+      "t": 38.06,
+      "end": 42.9,
+      "text": "Beg hitam di bakul, tuala di bahu"
+    },
+    {
+      "t": 45.76,
+      "end": 48.73,
+      "text": "Anak mana lagi nak keluar malam ni"
+    },
+    {
+      "t": 48.75,
+      "end": 48.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.75,
+      "end": 49.85,
+      "text": "Ibu tarik nafas, ayah gigit kuku"
+    },
+    {
+      "t": 49.87,
+      "end": 53.63,
+      "text": "Mak Bidan kata, sabar, saya ada"
+    },
+    {
+      "t": 53.63,
+      "end": 53.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 53.63,
+      "end": 56.87,
+      "text": "Ting ting ting, anak dah sampai"
+    },
+    {
+      "t": 57.29,
+      "end": 60.75,
+      "text": "Tangis pertama, kita semua senyum"
+    },
+    {
+      "t": 61.39,
+      "end": 65.45,
+      "text": "Bayaran Mak Bidan bukan duit sen"
+    },
+    {
+      "t": 65.67,
+      "end": 75.11,
+      "text": "Sebiji kuih, sebiji kuih, penuh tin"
+    },
+    {
+      "t": 76.13,
+      "end": 76.13,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 76.13,
+      "end": 79.35,
+      "text": "Empat puluh satu tin dalam almari"
+    },
+    {
+      "t": 79.71,
+      "end": 83.13,
+      "text": "Kuih bahulu, kuih tart, kuih kapit"
+    },
+    {
+      "t": 83.65,
+      "end": 87.15,
+      "text": "Ada yang keras, ada yang dah lembap"
+    },
+    {
+      "t": 87.23,
+      "end": 90.47,
+      "text": "Tapi Mak Bidan makan, dia tak pernah tolak"
+    },
+    {
+      "t": 90.47,
+      "end": 90.47,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.47,
+      "end": 93.91,
+      "text": "Budak yang dulu dia sambut, dah besar"
+    },
+    {
+      "t": 93.91,
+      "end": 95.17,
+      "text": "Sekarang dia menari depan pentas"
+    },
+    {
+      "t": 95.17,
+      "end": 95.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.17,
+      "end": 97.97,
+      "text": "Ting ting ting, anak dah sampai"
+    },
+    {
+      "t": 98.33,
+      "end": 101.75,
+      "text": "Tangis pertama, kita semua senyum"
+    },
+    {
+      "t": 102.43,
+      "end": 106.19,
+      "text": "Bayaran Mak Bidan bukan duit sen"
+    },
+    {
+      "t": 106.29,
+      "end": 125.47,
+      "text": "Sebiji kuih, sebiji kuih, buka tin"
+    },
+    {
+      "t": 126.13,
+      "end": 126.13,
+      "text": "[Bridge - fiddle and rebana only]"
+    },
+    {
+      "t": 126.13,
+      "end": 129.77,
+      "text": "Kayuh lagi, Mak Bidan, jalan masih jauh"
+    },
+    {
+      "t": 130.15,
+      "end": 136.93,
+      "text": "Ada rumah lain, lampu dah menyala"
+    },
+    {
+      "t": 137.79,
+      "end": 137.79,
+      "text": "[Outro - fiddle, cavaquinho, group clap]"
+    },
+    {
+      "t": 137.79,
+      "end": 159.34,
+      "text": "Ting ting ting, loceng basikal Mak Bidan"
+    },
+    {
+      "t": 167.08,
+      "end": 171.08,
+      "text": "Ting ting ting, tin baru dah menunggu"
+    }
+  ]
+}

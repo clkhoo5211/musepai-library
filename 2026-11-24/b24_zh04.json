@@ -1,0 +1,459 @@
+{
+  "id": "b24_zh04",
+  "title": "送報的檸檬",
+  "title_source": "scripted",
+  "genre": "guofeng synthwave with guzheng",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "nostalgic, steady, quietly cheerful",
+  "persona": "",
+  "subject": "a woman who delivers newspapers by bicycle before dawn down one Tainan lane folds each paper differently for a retired teacher, who hangs one lemon on the gatepost every Friday, and she has been counting the lemons",
+  "caption": "Guofeng synthwave with guzheng, driving 4/4 outrun pulse. Guzheng plays bright pentatonic arpeggios in sixteenth notes, analog synth bass pulses steady eighth notes, a soft arpeggiated synth shimmers behind the chorus, electronic drum kit with gated snare and four-on-the-floor kick, dizi doubles the hook once. Neon-bright analog gloss, wide stereo. Female voice, clear mid register, smooth and even, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, E minor. Nostalgic, steady, quietly cheerful mood. No trap hi-hats, no autotune, no rap, no orchestral strings, no heavy bass drops.",
+  "lyrics": "[Intro - guzheng arpeggio over analog synth bass]\n\n[Verse 1]\n天還沒亮我踩著腳踏車\n報紙捆在後座壓著風\n巷子第七戶的老先生\n每天要摺成不同的樣子\n\n[Pre-Chorus]\n星期一船\n星期二帽子\n\n[Chorus]\n門柱上掛著一顆檸檬\n星期五早上黃黃的\n我把它放進車籃\n我數到今天十九顆\n\n[Verse 2]\n他是退休的國文老師\n從不開口只在窗後點頭\n我不知道他叫什麼名字\n只知道他喜歡酸的\n\n[Pre-Chorus]\n今天我摺了一朵花\n掛在檸檬旁邊\n\n[Chorus]\n門柱上掛著一顆檸檬\n旁邊多了一張紙條\n寫著明天可以進來喝茶\n我數到今天二十顆\n\n[Outro - guzheng and dizi, synth pulse fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Guofeng synthwave with guzheng, driving 4/4 outrun pulse. Guzheng plays bright pentatonic arpeggios in sixteenth notes, analog synth bass pulses steady eighth notes, a soft arpeggiated synth shimmers behind the chorus, electronic drum kit with gated snare and four-on-the-floor kick, dizi doubles the hook once. Neon-bright analog gloss, wide stereo. Female voice, clear mid register, smooth and even, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, E minor. Nostalgic, steady, quietly cheerful mood. No trap hi-hats, no autotune, no rap, no orchestral strings, no heavy bass drops.",
+    "lyrics": "[Intro - guzheng arpeggio over analog synth bass]\n\n[Verse 1]\n天還沒亮我踩著腳踏車\n報紙捆在後座壓著風\n巷子第七戶的老先生\n每天要摺成不同的樣子\n\n[Pre-Chorus]\n星期一船\n星期二帽子\n\n[Chorus]\n門柱上掛著一顆檸檬\n星期五早上黃黃的\n我把它放進車籃\n我數到今天十九顆\n\n[Verse 2]\n他是退休的國文老師\n從不開口只在窗後點頭\n我不知道他叫什麼名字\n只知道他喜歡酸的\n\n[Pre-Chorus]\n今天我摺了一朵花\n掛在檸檬旁邊\n\n[Chorus]\n門柱上掛著一顆檸檬\n旁邊多了一張紙條\n寫著明天可以進來喝茶\n我數到今天二十顆\n\n[Outro - guzheng and dizi, synth pulse fades]"
+  },
+  "seed": "1260278731",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.33s**\n- 52.33s per song\n- LM phase (1 song): 11.18s\n- DiT phase (1 song): 41.14s",
+  "task_id": "92764634-bea8-4f93-a843-23a81c98853f",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-24T10:03:51.376049+08:00",
+  "audio": "b24_zh04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 38.92,
+      "end": 38.92,
+      "text": "[Intro - guzheng arpeggio over analog synth bass]"
+    },
+    {
+      "t": 38.92,
+      "end": 38.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.92,
+      "end": 41.92,
+      "text": "天還沒亮我踩著腳踏車"
+    },
+    {
+      "t": 42.86,
+      "end": 46.26,
+      "text": "報紙捆在後座壓著風"
+    },
+    {
+      "t": 47.84,
+      "end": 50.93,
+      "text": "巷子第七戶的老先生"
+    },
+    {
+      "t": 51.51,
+      "end": 55.23,
+      "text": "每天要摺成不同的樣子"
+    },
+    {
+      "t": 56.71,
+      "end": 56.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.71,
+      "end": 59.03,
+      "text": "星期一船"
+    },
+    {
+      "t": 59.47,
+      "end": 64.45,
+      "text": "星期二帽子"
+    },
+    {
+      "t": 65.43,
+      "end": 65.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.43,
+      "end": 68.77,
+      "text": "門柱上掛著一顆檸檬"
+    },
+    {
+      "t": 69.81,
+      "end": 73.03,
+      "text": "星期五早上黃黃的"
+    },
+    {
+      "t": 74.29,
+      "end": 76.75,
+      "text": "我把它放進車籃"
+    },
+    {
+      "t": 77.33,
+      "end": 78.95,
+      "text": "我數到今天十九顆"
+    },
+    {
+      "t": 78.95,
+      "end": 78.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.95,
+      "end": 92.95,
+      "text": "他是退休的國文老師"
+    },
+    {
+      "t": 92.97,
+      "end": 94.69,
+      "text": "從不開口只在窗後點頭"
+    },
+    {
+      "t": 94.87,
+      "end": 96.25,
+      "text": "我不知道他叫什麼名字"
+    },
+    {
+      "t": 96.25,
+      "end": 110.29,
+      "text": "只知道他喜歡酸的"
+    },
+    {
+      "t": 112.03,
+      "end": 112.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.03,
+      "end": 114.17,
+      "text": "今天我摺了一朵花"
+    },
+    {
+      "t": 116.71,
+      "end": 119.59,
+      "text": "掛在檸檬旁邊"
+    },
+    {
+      "t": 134.55,
+      "end": 134.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.55,
+      "end": 159.32,
+      "text": "門柱上掛著一顆檸檬"
+    },
+    {
+      "t": 159.36,
+      "end": 164.88,
+      "text": "旁邊多了一張紙條"
+    },
+    {
+      "t": 164.88,
+      "end": 166.46,
+      "text": "寫著明天可以進來喝茶"
+    },
+    {
+      "t": 166.46,
+      "end": 167.38,
+      "text": "我數到今天二十顆"
+    },
+    {
+      "t": 167.38,
+      "end": 167.38,
+      "text": "[Outro - guzheng and dizi, synth pulse fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.92,
+      "end": 38.92,
+      "text": "[Intro - guzheng arpeggio over analog synth bass]"
+    },
+    {
+      "t": 38.92,
+      "end": 38.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.92,
+      "end": 41.92,
+      "text": "天還沒亮我踩著腳踏車"
+    },
+    {
+      "t": 42.86,
+      "end": 46.26,
+      "text": "報紙捆在後座壓著風"
+    },
+    {
+      "t": 47.84,
+      "end": 50.93,
+      "text": "巷子第七戶的老先生"
+    },
+    {
+      "t": 51.51,
+      "end": 55.23,
+      "text": "每天要摺成不同的樣子"
+    },
+    {
+      "t": 56.71,
+      "end": 56.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.71,
+      "end": 59.03,
+      "text": "星期一船"
+    },
+    {
+      "t": 59.47,
+      "end": 64.45,
+      "text": "星期二帽子"
+    },
+    {
+      "t": 65.43,
+      "end": 65.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.43,
+      "end": 68.77,
+      "text": "門柱上掛著一顆檸檬"
+    },
+    {
+      "t": 69.81,
+      "end": 73.03,
+      "text": "星期五早上黃黃的"
+    },
+    {
+      "t": 74.29,
+      "end": 76.75,
+      "text": "我把它放進車籃"
+    },
+    {
+      "t": 77.33,
+      "end": 78.95,
+      "text": "我數到今天十九顆"
+    },
+    {
+      "t": 78.95,
+      "end": 78.95,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.95,
+      "end": 92.95,
+      "text": "他是退休的國文老師"
+    },
+    {
+      "t": 92.97,
+      "end": 94.69,
+      "text": "從不開口只在窗後點頭"
+    },
+    {
+      "t": 94.87,
+      "end": 96.25,
+      "text": "我不知道他叫什麼名字"
+    },
+    {
+      "t": 96.25,
+      "end": 110.29,
+      "text": "只知道他喜歡酸的"
+    },
+    {
+      "t": 112.03,
+      "end": 112.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.03,
+      "end": 114.17,
+      "text": "今天我摺了一朵花"
+    },
+    {
+      "t": 116.71,
+      "end": 119.59,
+      "text": "掛在檸檬旁邊"
+    },
+    {
+      "t": 134.55,
+      "end": 134.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.55,
+      "end": 159.32,
+      "text": "門柱上掛著一顆檸檬"
+    },
+    {
+      "t": 159.36,
+      "end": 164.88,
+      "text": "旁邊多了一張紙條"
+    },
+    {
+      "t": 164.88,
+      "end": 166.46,
+      "text": "寫著明天可以進來喝茶"
+    },
+    {
+      "t": 166.46,
+      "end": 167.38,
+      "text": "我數到今天二十顆"
+    },
+    {
+      "t": 167.38,
+      "end": 167.38,
+      "text": "[Outro - guzheng and dizi, synth pulse fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 38.92,
+      "end": 38.92,
+      "text": "[Intro - guzheng arpeggio over analog synth bass]"
+    },
+    {
+      "t": 38.92,
+      "end": 38.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.92,
+      "end": 41.92,
+      "text": "天還沒亮我踩著腳踏車"
+    },
+    {
+      "t": 42.86,
+      "end": 46.24,
+      "text": "報紙捆在後座壓著風"
+    },
+    {
+      "t": 47.84,
+      "end": 50.93,
+      "text": "巷子第七戶的老先生"
+    },
+    {
+      "t": 51.51,
+      "end": 55.23,
+      "text": "每天要摺成不同的樣子"
+    },
+    {
+      "t": 56.71,
+      "end": 56.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.71,
+      "end": 59.03,
+      "text": "星期一船"
+    },
+    {
+      "t": 59.47,
+      "end": 64.43,
+      "text": "星期二帽子"
+    },
+    {
+      "t": 65.43,
+      "end": 65.43,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 65.43,
+      "end": 68.77,
+      "text": "門柱上掛著一顆檸檬"
+    },
+    {
+      "t": 69.81,
+      "end": 73.03,
+      "text": "星期五早上黃黃的"
+    },
+    {
+      "t": 74.29,
+      "end": 76.75,
+      "text": "我把它放進車籃"
+    },
+    {
+      "t": 77.33,
+      "end": 78.93,
+      "text": "我數到今天十九顆"
+    },
+    {
+      "t": 78.93,
+      "end": 78.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.93,
+      "end": 92.11,
+      "text": "他是退休的國文老師"
+    },
+    {
+      "t": 92.11,
+      "end": 94.87,
+      "text": "從不開口只在窗後點頭"
+    },
+    {
+      "t": 94.87,
+      "end": 96.25,
+      "text": "我不知道他叫什麼名字"
+    },
+    {
+      "t": 96.25,
+      "end": 97.25,
+      "text": "只知道他喜歡酸的"
+    },
+    {
+      "t": 112.03,
+      "end": 112.03,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 112.03,
+      "end": 114.17,
+      "text": "今天我摺了一朵花"
+    },
+    {
+      "t": 116.71,
+      "end": 118.85,
+      "text": "掛在檸檬旁邊"
+    },
+    {
+      "t": 129.93,
+      "end": 129.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 129.93,
+      "end": 140.63,
+      "text": "門柱上掛著一顆檸檬"
+    },
+    {
+      "t": 140.63,
+      "end": 159.1,
+      "text": "旁邊多了一張紙條"
+    },
+    {
+      "t": 159.16,
+      "end": 166.2,
+      "text": "寫著明天可以進來喝茶"
+    },
+    {
+      "t": 166.44,
+      "end": 169.24,
+      "text": "我數到今天二十顆"
+    },
+    {
+      "t": 169.24,
+      "end": 169.24,
+      "text": "[Outro - guzheng and dizi, synth pulse fades]"
+    }
+  ]
+}

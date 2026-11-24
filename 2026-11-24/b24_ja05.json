@@ -1,0 +1,579 @@
+{
+  "id": "b24_ja05",
+  "title": "チラシの端っこ",
+  "title_source": "scripted",
+  "genre": "Japanese busking-duo folk-pop (harmonica, twelve-string guitar and cajon, 2000s street-duo feel)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bright, cheeky, sweetly romantic",
+  "persona": "",
+  "subject": "a woman who finds a hand-written note in the margin of the same pizza-shop flyer in her mailbox every Thursday, never orders, and one week finally writes back in the margin with her order",
+  "caption": "Japanese busking-duo folk-pop, 2000s street-duo feel. Twelve-string acoustic guitar strummed in bright open chords, harmonica fills between phrases, cajon on the backbeat, nylon-string guitar picking a countermelody, tambourine. Live-in-one-room acoustic sound, open and bright. Male and female duo, unison verses and two-part harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, G major. Bright, cheeky, sweetly romantic. No electronic drums, no synth, no autotune, no rap, no distorted guitar, no string orchestra.",
+  "lyrics": "[Intro - twelve-string strum, harmonica]\n\n[Verse 1]\nポストを開けたら チラシが三枚\nピザ屋のだけ 端に字がある\n今日は寒いね 風邪ひかないで\nボールペンの 丸い文字\n\n[Pre-Chorus]\n注文したことなんて 一度もないのに\n毎週木曜 わたしを待ってる\n\n[Chorus]\nチラシの端っこ 返事を書いた\nマルゲリータ 一枚お願い\n届いた箱に 小さなメモ\nやっと呼んでくれたね\n\n[Verse 2]\n次の木曜 また端っこに\n今日は何が 好きですか\nわたしは 迷って 鉛筆で\nハートの隣に チーズと書く\n\n[Pre-Chorus]\n配達の顔も 知らないのに\n階段の音で 分かる気がする\n\n[Chorus]\nチラシの端っこ 返事を書いた\n今度は二枚 お願い\n玄関のベルが 鳴ったとき\nわたしの手が 少し震えた\n\n[Bridge - harmonica solo, cajon only]\nドアを開けたら 丸い字の人が\n照れて笑って 箱を差し出した\n\n[Chorus]\nチラシの端っこ 始まりだった\n来週も ここに書くよ\n箱の下には 小さなメモ\n次は一緒に 食べませんか\n\n[Outro - strum and harmonica, quick stop]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Japanese busking-duo folk-pop, 2000s street-duo feel. Twelve-string acoustic guitar strummed in bright open chords, harmonica fills between phrases, cajon on the backbeat, nylon-string guitar picking a countermelody, tambourine. Live-in-one-room acoustic sound, open and bright. Male and female duo, unison verses and two-part harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, G major. Bright, cheeky, sweetly romantic. No electronic drums, no synth, no autotune, no rap, no distorted guitar, no string orchestra.",
+    "lyrics": "[Intro - twelve-string strum, harmonica]\n\n[Verse 1]\nポストを開けたら チラシが三枚\nピザ屋のだけ 端に字がある\n今日は寒いね 風邪ひかないで\nボールペンの 丸い文字\n\n[Pre-Chorus]\n注文したことなんて 一度もないのに\n毎週木曜 わたしを待ってる\n\n[Chorus]\nチラシの端っこ 返事を書いた\nマルゲリータ 一枚お願い\n届いた箱に 小さなメモ\nやっと呼んでくれたね\n\n[Verse 2]\n次の木曜 また端っこに\n今日は何が 好きですか\nわたしは 迷って 鉛筆で\nハートの隣に チーズと書く\n\n[Pre-Chorus]\n配達の顔も 知らないのに\n階段の音で 分かる気がする\n\n[Chorus]\nチラシの端っこ 返事を書いた\n今度は二枚 お願い\n玄関のベルが 鳴ったとき\nわたしの手が 少し震えた\n\n[Bridge - harmonica solo, cajon only]\nドアを開けたら 丸い字の人が\n照れて笑って 箱を差し出した\n\n[Chorus]\nチラシの端っこ 始まりだった\n来週も ここに書くよ\n箱の下には 小さなメモ\n次は一緒に 食べませんか\n\n[Outro - strum and harmonica, quick stop]"
+  },
+  "seed": "2096429976",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 51.08s**\n- 51.08s per song\n- LM phase (1 song): 8.90s\n- DiT phase (1 song): 42.17s",
+  "task_id": "4a2b78ea-40c5-4e0b-a426-911019b8e6df",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-24T09:18:50.632230+08:00",
+  "audio": "b24_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 36.82,
+      "end": 36.82,
+      "text": "[Intro - twelve-string strum, harmonica]"
+    },
+    {
+      "t": 36.82,
+      "end": 36.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.82,
+      "end": 39.92,
+      "text": "ポストを開けたら チラシが三枚"
+    },
+    {
+      "t": 39.92,
+      "end": 41.88,
+      "text": "ピザ屋のだけ 端に字がある"
+    },
+    {
+      "t": 41.94,
+      "end": 44.88,
+      "text": "今日は寒いね 風邪ひかないで"
+    },
+    {
+      "t": 44.9,
+      "end": 46.68,
+      "text": "ボールペンの 丸い文字"
+    },
+    {
+      "t": 46.68,
+      "end": 46.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.68,
+      "end": 50.49,
+      "text": "注文したことなんて 一度もないのに"
+    },
+    {
+      "t": 50.53,
+      "end": 52.03,
+      "text": "毎週木曜 わたしを待ってる"
+    },
+    {
+      "t": 52.05,
+      "end": 52.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.05,
+      "end": 54.73,
+      "text": "チラシの端っこ 返事を書いた"
+    },
+    {
+      "t": 54.83,
+      "end": 58.11,
+      "text": "マルゲリータ 一枚お願い"
+    },
+    {
+      "t": 58.45,
+      "end": 61.95,
+      "text": "届いた箱に 小さなメモ"
+    },
+    {
+      "t": 62.37,
+      "end": 65.61,
+      "text": "やっと呼んでくれたね"
+    },
+    {
+      "t": 69.33,
+      "end": 69.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.33,
+      "end": 72.41,
+      "text": "次の木曜 また端っこに"
+    },
+    {
+      "t": 72.69,
+      "end": 75.79,
+      "text": "今日は何が 好きですか"
+    },
+    {
+      "t": 76.33,
+      "end": 78.01,
+      "text": "わたしは 迷って 鉛筆で"
+    },
+    {
+      "t": 78.01,
+      "end": 79.49,
+      "text": "ハートの隣に チーズと書く"
+    },
+    {
+      "t": 79.51,
+      "end": 79.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 79.51,
+      "end": 81.85,
+      "text": "配達の顔も 知らないのに"
+    },
+    {
+      "t": 83.85,
+      "end": 87.13,
+      "text": "階段の音で 分かる気がする"
+    },
+    {
+      "t": 90.59,
+      "end": 90.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.59,
+      "end": 94.09,
+      "text": "チラシの端っこ 返事を書いた"
+    },
+    {
+      "t": 94.21,
+      "end": 97.35,
+      "text": "今度は二枚 お願い"
+    },
+    {
+      "t": 97.87,
+      "end": 101.13,
+      "text": "玄関のベルが 鳴ったとき"
+    },
+    {
+      "t": 101.49,
+      "end": 105.19,
+      "text": "わたしの手が 少し震えた"
+    },
+    {
+      "t": 107.37,
+      "end": 107.37,
+      "text": "[Bridge - harmonica solo, cajon only]"
+    },
+    {
+      "t": 107.37,
+      "end": 129.15,
+      "text": "ドアを開けたら 丸い字の人が"
+    },
+    {
+      "t": 129.79,
+      "end": 143.1,
+      "text": "照れて笑って 箱を差し出した"
+    },
+    {
+      "t": 146.54,
+      "end": 146.54,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.54,
+      "end": 150.26,
+      "text": "チラシの端っこ 始まりだった"
+    },
+    {
+      "t": 150.36,
+      "end": 152.98,
+      "text": "来週も ここに書くよ"
+    },
+    {
+      "t": 153.34,
+      "end": 157.06,
+      "text": "箱の下には 小さなメモ"
+    },
+    {
+      "t": 157.62,
+      "end": 160.7,
+      "text": "次は一緒に 食べませんか"
+    },
+    {
+      "t": 160.7,
+      "end": 160.7,
+      "text": "[Outro - strum and harmonica, quick stop]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 36.82,
+      "end": 36.82,
+      "text": "[Intro - twelve-string strum, harmonica]"
+    },
+    {
+      "t": 36.82,
+      "end": 36.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.82,
+      "end": 39.92,
+      "text": "ポストを開けたら チラシが三枚"
+    },
+    {
+      "t": 39.92,
+      "end": 41.88,
+      "text": "ピザ屋のだけ 端に字がある"
+    },
+    {
+      "t": 41.94,
+      "end": 44.88,
+      "text": "今日は寒いね 風邪ひかないで"
+    },
+    {
+      "t": 44.9,
+      "end": 46.68,
+      "text": "ボールペンの 丸い文字"
+    },
+    {
+      "t": 46.68,
+      "end": 46.68,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.68,
+      "end": 50.49,
+      "text": "注文したことなんて 一度もないのに"
+    },
+    {
+      "t": 50.53,
+      "end": 52.03,
+      "text": "毎週木曜 わたしを待ってる"
+    },
+    {
+      "t": 52.05,
+      "end": 52.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.05,
+      "end": 54.73,
+      "text": "チラシの端っこ 返事を書いた"
+    },
+    {
+      "t": 54.83,
+      "end": 58.11,
+      "text": "マルゲリータ 一枚お願い"
+    },
+    {
+      "t": 58.45,
+      "end": 61.95,
+      "text": "届いた箱に 小さなメモ"
+    },
+    {
+      "t": 62.37,
+      "end": 65.61,
+      "text": "やっと呼んでくれたね"
+    },
+    {
+      "t": 69.33,
+      "end": 69.33,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.33,
+      "end": 72.41,
+      "text": "次の木曜 また端っこに"
+    },
+    {
+      "t": 72.69,
+      "end": 75.79,
+      "text": "今日は何が 好きですか"
+    },
+    {
+      "t": 76.33,
+      "end": 78.01,
+      "text": "わたしは 迷って 鉛筆で"
+    },
+    {
+      "t": 78.01,
+      "end": 79.49,
+      "text": "ハートの隣に チーズと書く"
+    },
+    {
+      "t": 79.51,
+      "end": 79.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 79.51,
+      "end": 81.85,
+      "text": "配達の顔も 知らないのに"
+    },
+    {
+      "t": 83.85,
+      "end": 87.13,
+      "text": "階段の音で 分かる気がする"
+    },
+    {
+      "t": 90.59,
+      "end": 90.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.59,
+      "end": 94.09,
+      "text": "チラシの端っこ 返事を書いた"
+    },
+    {
+      "t": 94.21,
+      "end": 97.35,
+      "text": "今度は二枚 お願い"
+    },
+    {
+      "t": 97.87,
+      "end": 101.13,
+      "text": "玄関のベルが 鳴ったとき"
+    },
+    {
+      "t": 101.49,
+      "end": 105.19,
+      "text": "わたしの手が 少し震えた"
+    },
+    {
+      "t": 107.37,
+      "end": 107.37,
+      "text": "[Bridge - harmonica solo, cajon only]"
+    },
+    {
+      "t": 107.37,
+      "end": 129.15,
+      "text": "ドアを開けたら 丸い字の人が"
+    },
+    {
+      "t": 129.79,
+      "end": 143.1,
+      "text": "照れて笑って 箱を差し出した"
+    },
+    {
+      "t": 146.54,
+      "end": 146.54,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.54,
+      "end": 150.26,
+      "text": "チラシの端っこ 始まりだった"
+    },
+    {
+      "t": 150.36,
+      "end": 152.98,
+      "text": "来週も ここに書くよ"
+    },
+    {
+      "t": 153.34,
+      "end": 157.06,
+      "text": "箱の下には 小さなメモ"
+    },
+    {
+      "t": 157.62,
+      "end": 160.7,
+      "text": "次は一緒に 食べませんか"
+    },
+    {
+      "t": 160.7,
+      "end": 160.7,
+      "text": "[Outro - strum and harmonica, quick stop]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 36.82,
+      "end": 36.82,
+      "text": "[Intro - twelve-string strum, harmonica]"
+    },
+    {
+      "t": 36.82,
+      "end": 36.82,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 36.82,
+      "end": 39.92,
+      "text": "ポストを開けたら チラシが三枚"
+    },
+    {
+      "t": 39.92,
+      "end": 41.18,
+      "text": "ピザ屋のだけ 端に字がある"
+    },
+    {
+      "t": 41.18,
+      "end": 44.9,
+      "text": "今日は寒いね 風邪ひかないで"
+    },
+    {
+      "t": 44.9,
+      "end": 46.5,
+      "text": "ボールペンの 丸い文字"
+    },
+    {
+      "t": 46.5,
+      "end": 46.5,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.5,
+      "end": 48.27,
+      "text": "注文したことなんて 一度もないのに"
+    },
+    {
+      "t": 48.27,
+      "end": 50.37,
+      "text": "毎週木曜 わたしを待ってる"
+    },
+    {
+      "t": 50.99,
+      "end": 50.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.99,
+      "end": 54.73,
+      "text": "チラシの端っこ 返事を書いた"
+    },
+    {
+      "t": 54.83,
+      "end": 58.09,
+      "text": "マルゲリータ 一枚お願い"
+    },
+    {
+      "t": 58.47,
+      "end": 61.95,
+      "text": "届いた箱に 小さなメモ"
+    },
+    {
+      "t": 62.37,
+      "end": 65.61,
+      "text": "やっと呼んでくれたね"
+    },
+    {
+      "t": 69.55,
+      "end": 69.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.55,
+      "end": 72.41,
+      "text": "次の木曜 また端っこに"
+    },
+    {
+      "t": 72.69,
+      "end": 75.79,
+      "text": "今日は何が 好きですか"
+    },
+    {
+      "t": 76.33,
+      "end": 79.63,
+      "text": "わたしは 迷って 鉛筆で"
+    },
+    {
+      "t": 80.21,
+      "end": 82.29,
+      "text": "ハートの隣に チーズと書く"
+    },
+    {
+      "t": 82.29,
+      "end": 82.29,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.29,
+      "end": 83.69,
+      "text": "配達の顔も 知らないのに"
+    },
+    {
+      "t": 83.85,
+      "end": 87.11,
+      "text": "階段の音で 分かる気がする"
+    },
+    {
+      "t": 90.59,
+      "end": 90.59,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 90.59,
+      "end": 94.21,
+      "text": "チラシの端っこ 返事を書いた"
+    },
+    {
+      "t": 94.21,
+      "end": 97.35,
+      "text": "今度は二枚 お願い"
+    },
+    {
+      "t": 97.87,
+      "end": 101.13,
+      "text": "玄関のベルが 鳴ったとき"
+    },
+    {
+      "t": 101.49,
+      "end": 105.19,
+      "text": "わたしの手が 少し震えた"
+    },
+    {
+      "t": 112.53,
+      "end": 112.53,
+      "text": "[Bridge - harmonica solo, cajon only]"
+    },
+    {
+      "t": 112.53,
+      "end": 115.73,
+      "text": "ドアを開けたら 丸い字の人が"
+    },
+    {
+      "t": 126.99,
+      "end": 143.1,
+      "text": "照れて笑って 箱を差し出した"
+    },
+    {
+      "t": 146.54,
+      "end": 146.54,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.54,
+      "end": 150.26,
+      "text": "チラシの端っこ 始まりだった"
+    },
+    {
+      "t": 150.36,
+      "end": 152.96,
+      "text": "来週も ここに書くよ"
+    },
+    {
+      "t": 153.32,
+      "end": 157.06,
+      "text": "箱の下には 小さなメモ"
+    },
+    {
+      "t": 157.62,
+      "end": 160.7,
+      "text": "次は一緒に 食べませんか"
+    },
+    {
+      "t": 160.7,
+      "end": 160.7,
+      "text": "[Outro - strum and harmonica, quick stop]"
+    }
+  ]
+}

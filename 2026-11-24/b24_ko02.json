@@ -1,0 +1,564 @@
+{
+  "id": "b24_ko02",
+  "title": "활터의 빈 과녁",
+  "title_source": "scripted",
+  "genre": "1970s Korean Sanullim-style folk-rock with harmonium and flute",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "wistful, gentle, pastoral",
+  "persona": "",
+  "subject": "a woman in her first year at a traditional Korean archery range (gungdo) whose arrows keep landing in the sand in front of the target, until the old range master tells her to stop aiming and breathe out like a sigh",
+  "caption": "1970s Korean folk-rock in the Sanullim vein, pastoral and unhurried. 12-string acoustic guitar strum, fuzzy electric guitar answering in short lines, wheezy harmonium pad, wooden flute melody, brushed drums with a soft kick. Warm analog tape saturation, light spring reverb. Male tenor, warm slightly nasal vintage tone, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D major. Wistful, gentle, pastoral. No rap, no autotune, no synth pads, no electronic drums, no modern polish.",
+  "lyrics": "[Intro - 12-string guitar and wooden flute]\n\n[Verse 1]\n새벽 활터에 안개가 깔려요\n저는 올해 처음 활을 잡았어요\n쏘는 화살마다 모래에 꽂혀요\n과녁은 멀리서 말이 없어요\n\n[Chorus]\n숨을 내쉬어요 한숨처럼요\n겨눌수록 화살이 가라앉아요\n손을 놓아요 바람에 맡겨요\n빈 과녁이 나를 기다려요\n\n[Verse 2]\n사범님은 찻잔만 들고 계세요\n힘 빼라 힘 빼라 그 말만 하세요\n어깨에 얹힌 어제의 일들을\n활시위에 걸어 놓지 말래요\n\n[Chorus]\n숨을 내쉬어요 한숨처럼요\n겨눌수록 화살이 가라앉아요\n손을 놓아요 바람에 맡겨요\n빈 과녁이 나를 기다려요\n\n[Bridge - harmonium alone, flute answers]\n사범님이 웃으며 말해요\n못 맞혀도 괜찮다고요\n\n[Verse 3]\n마지막 한 대를 천천히 들어요\n숨이 나가고 손이 열렸어요\n딱 하는 소리가 안개를 갈라요\n과녁 가장자리에 박혔어요\n\n[Chorus]\n숨을 내쉬어요 한숨처럼요\n놓았더니 화살이 가닿았어요\n손을 놓아요 바람에 맡겨요\n빈 과녁이 웃어 줘요\n\n[Outro - 12-string guitar, flute fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "1970s Korean folk-rock in the Sanullim vein, pastoral and unhurried. 12-string acoustic guitar strum, fuzzy electric guitar answering in short lines, wheezy harmonium pad, wooden flute melody, brushed drums with a soft kick. Warm analog tape saturation, light spring reverb. Male tenor, warm slightly nasal vintage tone, melody clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D major. Wistful, gentle, pastoral. No rap, no autotune, no synth pads, no electronic drums, no modern polish.",
+    "lyrics": "[Intro - 12-string guitar and wooden flute]\n\n[Verse 1]\n새벽 활터에 안개가 깔려요\n저는 올해 처음 활을 잡았어요\n쏘는 화살마다 모래에 꽂혀요\n과녁은 멀리서 말이 없어요\n\n[Chorus]\n숨을 내쉬어요 한숨처럼요\n겨눌수록 화살이 가라앉아요\n손을 놓아요 바람에 맡겨요\n빈 과녁이 나를 기다려요\n\n[Verse 2]\n사범님은 찻잔만 들고 계세요\n힘 빼라 힘 빼라 그 말만 하세요\n어깨에 얹힌 어제의 일들을\n활시위에 걸어 놓지 말래요\n\n[Chorus]\n숨을 내쉬어요 한숨처럼요\n겨눌수록 화살이 가라앉아요\n손을 놓아요 바람에 맡겨요\n빈 과녁이 나를 기다려요\n\n[Bridge - harmonium alone, flute answers]\n사범님이 웃으며 말해요\n못 맞혀도 괜찮다고요\n\n[Verse 3]\n마지막 한 대를 천천히 들어요\n숨이 나가고 손이 열렸어요\n딱 하는 소리가 안개를 갈라요\n과녁 가장자리에 박혔어요\n\n[Chorus]\n숨을 내쉬어요 한숨처럼요\n놓았더니 화살이 가닿았어요\n손을 놓아요 바람에 맡겨요\n빈 과녁이 웃어 줘요\n\n[Outro - 12-string guitar, flute fades]\n"
+  },
+  "seed": "224597942",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 59.72s**\n- 59.72s per song\n- LM phase (1 song): 14.63s\n- DiT phase (1 song): 45.09s",
+  "task_id": "e37315b3-b34f-430f-8d32-953b5a96178a",
+  "elapsed_s": 80.5,
+  "generated_at": "2026-11-24T08:30:34.835832+08:00",
+  "audio": "b24_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Intro - 12-string guitar and wooden flute]"
+    },
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.4,
+      "end": 30.72,
+      "text": "새벽 활터에 안개가 깔려요"
+    },
+    {
+      "t": 30.82,
+      "end": 32.98,
+      "text": "저는 올해 처음 활을 잡았어요"
+    },
+    {
+      "t": 33.44,
+      "end": 34.28,
+      "text": "쏘는 화살마다 모래에 꽂혀요"
+    },
+    {
+      "t": 39.38,
+      "end": 40.9,
+      "text": "과녁은 멀리서 말이 없어요"
+    },
+    {
+      "t": 41.04,
+      "end": 41.04,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 41.04,
+      "end": 41.8,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 41.8,
+      "end": 45.52,
+      "text": "겨눌수록 화살이 가라앉아요"
+    },
+    {
+      "t": 46.64,
+      "end": 51.06,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 52.26,
+      "end": 56.39,
+      "text": "빈 과녁이 나를 기다려요"
+    },
+    {
+      "t": 58.17,
+      "end": 58.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.17,
+      "end": 61.89,
+      "text": "사범님은 찻잔만 들고 계세요"
+    },
+    {
+      "t": 63.45,
+      "end": 67.45,
+      "text": "힘 빼라 힘 빼라 그 말만 하세요"
+    },
+    {
+      "t": 69.41,
+      "end": 73.67,
+      "text": "어깨에 얹힌 어제의 일들을"
+    },
+    {
+      "t": 74.33,
+      "end": 78.01,
+      "text": "활시위에 걸어 놓지 말래요"
+    },
+    {
+      "t": 81.23,
+      "end": 81.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.23,
+      "end": 85.73,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 86.85,
+      "end": 91.01,
+      "text": "겨눌수록 화살이 가라앉아요"
+    },
+    {
+      "t": 92.13,
+      "end": 96.51,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 97.75,
+      "end": 101.89,
+      "text": "빈 과녁이 나를 기다려요"
+    },
+    {
+      "t": 108.95,
+      "end": 108.95,
+      "text": "[Bridge - harmonium alone, flute answers]"
+    },
+    {
+      "t": 108.95,
+      "end": 112.37,
+      "text": "사범님이 웃으며 말해요"
+    },
+    {
+      "t": 115.19,
+      "end": 123.07,
+      "text": "못 맞혀도 괜찮다고요"
+    },
+    {
+      "t": 123.91,
+      "end": 123.91,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 123.91,
+      "end": 143.69,
+      "text": "마지막 한 대를 천천히 들어요"
+    },
+    {
+      "t": 145.55,
+      "end": 149.73,
+      "text": "숨이 나가고 손이 열렸어요"
+    },
+    {
+      "t": 150.47,
+      "end": 154.87,
+      "text": "딱 하는 소리가 안개를 갈라요"
+    },
+    {
+      "t": 156.11,
+      "end": 160.94,
+      "text": "과녁 가장자리에 박혔어요"
+    },
+    {
+      "t": 165.66,
+      "end": 165.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 165.66,
+      "end": 170.44,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 171.0,
+      "end": 174.78,
+      "text": "놓았더니 화살이 가닿았어요"
+    },
+    {
+      "t": 174.94,
+      "end": 186.46,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 186.66,
+      "end": 188.04,
+      "text": "빈 과녁이 웃어 줘요"
+    },
+    {
+      "t": 188.04,
+      "end": 188.04,
+      "text": "[Outro - 12-string guitar, flute fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Intro - 12-string guitar and wooden flute]"
+    },
+    {
+      "t": 5.4,
+      "end": 5.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 5.4,
+      "end": 30.72,
+      "text": "새벽 활터에 안개가 깔려요"
+    },
+    {
+      "t": 30.82,
+      "end": 32.98,
+      "text": "저는 올해 처음 활을 잡았어요"
+    },
+    {
+      "t": 33.44,
+      "end": 34.28,
+      "text": "쏘는 화살마다 모래에 꽂혀요"
+    },
+    {
+      "t": 39.38,
+      "end": 40.9,
+      "text": "과녁은 멀리서 말이 없어요"
+    },
+    {
+      "t": 41.04,
+      "end": 41.04,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 41.04,
+      "end": 41.8,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 41.8,
+      "end": 45.52,
+      "text": "겨눌수록 화살이 가라앉아요"
+    },
+    {
+      "t": 46.64,
+      "end": 51.06,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 52.26,
+      "end": 56.39,
+      "text": "빈 과녁이 나를 기다려요"
+    },
+    {
+      "t": 58.17,
+      "end": 58.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.17,
+      "end": 61.89,
+      "text": "사범님은 찻잔만 들고 계세요"
+    },
+    {
+      "t": 63.45,
+      "end": 67.45,
+      "text": "힘 빼라 힘 빼라 그 말만 하세요"
+    },
+    {
+      "t": 69.41,
+      "end": 73.67,
+      "text": "어깨에 얹힌 어제의 일들을"
+    },
+    {
+      "t": 74.33,
+      "end": 78.01,
+      "text": "활시위에 걸어 놓지 말래요"
+    },
+    {
+      "t": 81.23,
+      "end": 81.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.23,
+      "end": 85.73,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 86.85,
+      "end": 91.01,
+      "text": "겨눌수록 화살이 가라앉아요"
+    },
+    {
+      "t": 92.13,
+      "end": 96.51,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 97.75,
+      "end": 101.89,
+      "text": "빈 과녁이 나를 기다려요"
+    },
+    {
+      "t": 108.95,
+      "end": 108.95,
+      "text": "[Bridge - harmonium alone, flute answers]"
+    },
+    {
+      "t": 108.95,
+      "end": 112.37,
+      "text": "사범님이 웃으며 말해요"
+    },
+    {
+      "t": 115.19,
+      "end": 123.07,
+      "text": "못 맞혀도 괜찮다고요"
+    },
+    {
+      "t": 123.91,
+      "end": 123.91,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 123.91,
+      "end": 143.69,
+      "text": "마지막 한 대를 천천히 들어요"
+    },
+    {
+      "t": 145.55,
+      "end": 149.73,
+      "text": "숨이 나가고 손이 열렸어요"
+    },
+    {
+      "t": 150.47,
+      "end": 154.87,
+      "text": "딱 하는 소리가 안개를 갈라요"
+    },
+    {
+      "t": 156.11,
+      "end": 160.94,
+      "text": "과녁 가장자리에 박혔어요"
+    },
+    {
+      "t": 165.66,
+      "end": 165.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 165.66,
+      "end": 170.44,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 171.0,
+      "end": 174.78,
+      "text": "놓았더니 화살이 가닿았어요"
+    },
+    {
+      "t": 174.94,
+      "end": 186.46,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 186.66,
+      "end": 188.04,
+      "text": "빈 과녁이 웃어 줘요"
+    },
+    {
+      "t": 188.04,
+      "end": 188.04,
+      "text": "[Outro - 12-string guitar, flute fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.74,
+      "end": 0.74,
+      "text": "[Intro - 12-string guitar and wooden flute]"
+    },
+    {
+      "t": 0.74,
+      "end": 0.74,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.74,
+      "end": 8.18,
+      "text": "새벽 활터에 안개가 깔려요"
+    },
+    {
+      "t": 8.74,
+      "end": 19.94,
+      "text": "저는 올해 처음 활을 잡았어요"
+    },
+    {
+      "t": 19.94,
+      "end": 23.42,
+      "text": "쏘는 화살마다 모래에 꽂혀요"
+    },
+    {
+      "t": 23.42,
+      "end": 27.34,
+      "text": "과녁은 멀리서 말이 없어요"
+    },
+    {
+      "t": 30.8,
+      "end": 30.8,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 30.8,
+      "end": 39.36,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 39.38,
+      "end": 45.52,
+      "text": "겨눌수록 화살이 가라앉아요"
+    },
+    {
+      "t": 46.64,
+      "end": 51.04,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 52.26,
+      "end": 56.39,
+      "text": "빈 과녁이 나를 기다려요"
+    },
+    {
+      "t": 58.17,
+      "end": 58.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.17,
+      "end": 61.89,
+      "text": "사범님은 찻잔만 들고 계세요"
+    },
+    {
+      "t": 63.47,
+      "end": 67.45,
+      "text": "힘 빼라 힘 빼라 그 말만 하세요"
+    },
+    {
+      "t": 69.41,
+      "end": 73.65,
+      "text": "어깨에 얹힌 어제의 일들을"
+    },
+    {
+      "t": 74.31,
+      "end": 78.01,
+      "text": "활시위에 걸어 놓지 말래요"
+    },
+    {
+      "t": 81.23,
+      "end": 81.23,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 81.23,
+      "end": 85.71,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 86.85,
+      "end": 90.99,
+      "text": "겨눌수록 화살이 가라앉아요"
+    },
+    {
+      "t": 92.13,
+      "end": 96.49,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 97.75,
+      "end": 101.89,
+      "text": "빈 과녁이 나를 기다려요"
+    },
+    {
+      "t": 108.95,
+      "end": 108.95,
+      "text": "[Bridge - harmonium alone, flute answers]"
+    },
+    {
+      "t": 108.95,
+      "end": 112.37,
+      "text": "사범님이 웃으며 말해요"
+    },
+    {
+      "t": 115.19,
+      "end": 123.07,
+      "text": "못 맞혀도 괜찮다고요"
+    },
+    {
+      "t": 124.45,
+      "end": 124.45,
+      "text": "[Verse 3]"
+    },
+    {
+      "t": 124.45,
+      "end": 143.69,
+      "text": "마지막 한 대를 천천히 들어요"
+    },
+    {
+      "t": 145.55,
+      "end": 149.73,
+      "text": "숨이 나가고 손이 열렸어요"
+    },
+    {
+      "t": 150.49,
+      "end": 154.89,
+      "text": "딱 하는 소리가 안개를 갈라요"
+    },
+    {
+      "t": 156.11,
+      "end": 160.92,
+      "text": "과녁 가장자리에 박혔어요"
+    },
+    {
+      "t": 165.66,
+      "end": 165.66,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 165.66,
+      "end": 170.44,
+      "text": "숨을 내쉬어요 한숨처럼요"
+    },
+    {
+      "t": 171.0,
+      "end": 174.38,
+      "text": "놓았더니 화살이 가닿았어요"
+    },
+    {
+      "t": 174.4,
+      "end": 175.68,
+      "text": "손을 놓아요 바람에 맡겨요"
+    },
+    {
+      "t": 175.72,
+      "end": 191.74,
+      "text": "빈 과녁이 웃어 줘요"
+    },
+    {
+      "t": 191.74,
+      "end": 191.74,
+      "text": "[Outro - 12-string guitar, flute fades]"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "b24_ms04",
+  "title": "Pantun dalam Songkok",
+  "title_source": "scripted",
+  "genre": "Perak dendang with rebab (slow Malay folk song with rebab, gong and gendang)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "tender, slow, wistful",
+  "persona": "",
+  "subject": "a wife in Kuala Kangsar ironing her husband's songkok before Friday prayers finds a pantun he wrote for her thirty years ago folded in the lining",
+  "caption": "Perak Malay dendang, slow traditional folk song with ornamented vocal turns. Rebab bowed lute playing the main melody and long answering phrases, a hand-struck gendang drum with soft rolls, a deep gong marking each phrase end, a seruling bamboo flute for gentle fills. Warm spacious hall acoustic, live recording, natural reverb. Female mezzo lead, unhurried and tender, small traditional ornaments but every word clear. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D minor. Tender, slow, wistful mood. No synthesizers, no drum machine, no autotune, no rap, no electric guitar, no pop beat.",
+  "lyrics": "[Intro - rebab alone, then gong]\n\n[Verse 1]\nSetrika panas atas songkok hitam\nHari Jumaat, azan belum berbunyi\nJari aku rasa kertas dalam kain\nLipat kecil-kecil, dah kuning warnanya\n\n[Pre-Chorus]\nAku buka perlahan, dakwat dah pudar\nTulisan abang juga, kemas dan miring\n\n[Chorus]\nPantun dalam songkok, tiga puluh tahun\nDisimpan diam, tak pernah dibaca\nPantun dalam songkok, abang tulis dulu\nUntuk aku seorang, baru hari ini sampai\n\n[Verse 2]\nTanam padi di Kuala Kangsar\nKasih abang tak pernah pudar\nWalau rambut dah putih berdua\nHati abang masih yang sama\n\n[Pre-Chorus]\nDia keluar bilik, bersiap nak ke masjid\nAku hulur songkok, dia tak tahu apa\n\n[Chorus]\nPantun dalam songkok, aku simpan balik\nTapi pagi ini aku balas dulu\nPantun dalam songkok, aku tulis sebaris\nSelit di lipat, esok dia jumpa\n\n[Bridge - rebab and seruling only]\nBiar dia cari, biar dia senyum\nSongkok yang sama, pantun yang baru\n\n[Outro - rebab, gong, gendang fade]\nSongkok hitam, setrika suam\nTiga puluh tahun, masih sama",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Perak Malay dendang, slow traditional folk song with ornamented vocal turns. Rebab bowed lute playing the main melody and long answering phrases, a hand-struck gendang drum with soft rolls, a deep gong marking each phrase end, a seruling bamboo flute for gentle fills. Warm spacious hall acoustic, live recording, natural reverb. Female mezzo lead, unhurried and tender, small traditional ornaments but every word clear. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, D minor. Tender, slow, wistful mood. No synthesizers, no drum machine, no autotune, no rap, no electric guitar, no pop beat.",
+    "lyrics": "[Intro - rebab alone, then gong]\n\n[Verse 1]\nSetrika panas atas songkok hitam\nHari Jumaat, azan belum berbunyi\nJari aku rasa kertas dalam kain\nLipat kecil-kecil, dah kuning warnanya\n\n[Pre-Chorus]\nAku buka perlahan, dakwat dah pudar\nTulisan abang juga, kemas dan miring\n\n[Chorus]\nPantun dalam songkok, tiga puluh tahun\nDisimpan diam, tak pernah dibaca\nPantun dalam songkok, abang tulis dulu\nUntuk aku seorang, baru hari ini sampai\n\n[Verse 2]\nTanam padi di Kuala Kangsar\nKasih abang tak pernah pudar\nWalau rambut dah putih berdua\nHati abang masih yang sama\n\n[Pre-Chorus]\nDia keluar bilik, bersiap nak ke masjid\nAku hulur songkok, dia tak tahu apa\n\n[Chorus]\nPantun dalam songkok, aku simpan balik\nTapi pagi ini aku balas dulu\nPantun dalam songkok, aku tulis sebaris\nSelit di lipat, esok dia jumpa\n\n[Bridge - rebab and seruling only]\nBiar dia cari, biar dia senyum\nSongkok yang sama, pantun yang baru\n\n[Outro - rebab, gong, gendang fade]\nSongkok hitam, setrika suam\nTiga puluh tahun, masih sama"
+  },
+  "seed": "4075848441",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.98s**\n- 57.98s per song\n- LM phase (1 song): 8.02s\n- DiT phase (1 song): 49.96s",
+  "task_id": "a076fa5a-1374-4796-9c1d-beb8b64f3ad7",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-24T08:40:15.712919+08:00",
+  "audio": "b24_ms04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.5,
+      "end": 22.5,
+      "text": "[Intro - rebab alone, then gong]"
+    },
+    {
+      "t": 22.5,
+      "end": 22.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.5,
+      "end": 27.36,
+      "text": "Setrika panas atas songkok hitam"
+    },
+    {
+      "t": 29.14,
+      "end": 34.72,
+      "text": "Hari Jumaat, azan belum berbunyi"
+    },
+    {
+      "t": 40.24,
+      "end": 45.52,
+      "text": "Jari aku rasa kertas dalam kain"
+    },
+    {
+      "t": 47.74,
+      "end": 53.29,
+      "text": "Lipat kecil-kecil, dah kuning warnanya"
+    },
+    {
+      "t": 54.45,
+      "end": 54.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.45,
+      "end": 60.07,
+      "text": "Aku buka perlahan, dakwat dah pudar"
+    },
+    {
+      "t": 61.25,
+      "end": 66.99,
+      "text": "Tulisan abang juga, kemas dan miring"
+    },
+    {
+      "t": 66.99,
+      "end": 66.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.99,
+      "end": 72.63,
+      "text": "Pantun dalam songkok, tiga puluh tahun"
+    },
+    {
+      "t": 72.77,
+      "end": 81.59,
+      "text": "Disimpan diam, tak pernah dibaca"
+    },
+    {
+      "t": 85.61,
+      "end": 88.65,
+      "text": "Pantun dalam songkok, abang tulis dulu"
+    },
+    {
+      "t": 89.43,
+      "end": 94.17,
+      "text": "Untuk aku seorang, baru hari ini sampai"
+    },
+    {
+      "t": 94.17,
+      "end": 94.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.17,
+      "end": 95.87,
+      "text": "Tanam padi di Kuala Kangsar"
+    },
+    {
+      "t": 96.01,
+      "end": 100.85,
+      "text": "Kasih abang tak pernah pudar"
+    },
+    {
+      "t": 101.45,
+      "end": 105.55,
+      "text": "Walau rambut dah putih berdua"
+    },
+    {
+      "t": 105.65,
+      "end": 109.47,
+      "text": "Hati abang masih yang sama"
+    },
+    {
+      "t": 111.87,
+      "end": 111.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.87,
+      "end": 114.85,
+      "text": "Dia keluar bilik, bersiap nak ke masjid"
+    },
+    {
+      "t": 114.87,
+      "end": 120.09,
+      "text": "Aku hulur songkok, dia tak tahu apa"
+    },
+    {
+      "t": 121.03,
+      "end": 121.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.03,
+      "end": 125.61,
+      "text": "Pantun dalam songkok, aku simpan balik"
+    },
+    {
+      "t": 125.77,
+      "end": 128.35,
+      "text": "Tapi pagi ini aku balas dulu"
+    },
+    {
+      "t": 128.35,
+      "end": 129.95,
+      "text": "Pantun dalam songkok, aku tulis sebaris"
+    },
+    {
+      "t": 130.53,
+      "end": 134.43,
+      "text": "Selit di lipat, esok dia jumpa"
+    },
+    {
+      "t": 144.33,
+      "end": 144.33,
+      "text": "[Bridge - rebab and seruling only]"
+    },
+    {
+      "t": 144.33,
+      "end": 153.13,
+      "text": "Biar dia cari, biar dia senyum"
+    },
+    {
+      "t": 154.38,
+      "end": 161.12,
+      "text": "Songkok yang sama, pantun yang baru"
+    },
+    {
+      "t": 175.12,
+      "end": 175.12,
+      "text": "[Outro - rebab, gong, gendang fade]"
+    },
+    {
+      "t": 175.12,
+      "end": 178.94,
+      "text": "Songkok hitam, setrika suam"
+    },
+    {
+      "t": 179.68,
+      "end": 199.4,
+      "text": "Tiga puluh tahun, masih sama"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.5,
+      "end": 22.5,
+      "text": "[Intro - rebab alone, then gong]"
+    },
+    {
+      "t": 22.5,
+      "end": 22.5,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.5,
+      "end": 27.4,
+      "text": "Setrika panas atas songkok hitam"
+    },
+    {
+      "t": 29.14,
+      "end": 34.7,
+      "text": "Hari Jumaat, azan belum berbunyi"
+    },
+    {
+      "t": 40.24,
+      "end": 45.54,
+      "text": "Jari aku rasa kertas dalam kain"
+    },
+    {
+      "t": 47.74,
+      "end": 53.27,
+      "text": "Lipat kecil-kecil, dah kuning warnanya"
+    },
+    {
+      "t": 54.45,
+      "end": 54.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 54.45,
+      "end": 59.83,
+      "text": "Aku buka perlahan, dakwat dah pudar"
+    },
+    {
+      "t": 61.25,
+      "end": 67.03,
+      "text": "Tulisan abang juga, kemas dan miring"
+    },
+    {
+      "t": 67.03,
+      "end": 67.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 67.03,
+      "end": 72.63,
+      "text": "Pantun dalam songkok, tiga puluh tahun"
+    },
+    {
+      "t": 72.77,
+      "end": 81.59,
+      "text": "Disimpan diam, tak pernah dibaca"
+    },
+    {
+      "t": 85.61,
+      "end": 88.65,
+      "text": "Pantun dalam songkok, abang tulis dulu"
+    },
+    {
+      "t": 89.43,
+      "end": 94.89,
+      "text": "Untuk aku seorang, baru hari ini sampai"
+    },
+    {
+      "t": 94.89,
+      "end": 94.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 94.89,
+      "end": 100.03,
+      "text": "Tanam padi di Kuala Kangsar"
+    },
+    {
+      "t": 100.09,
+      "end": 102.01,
+      "text": "Kasih abang tak pernah pudar"
+    },
+    {
+      "t": 102.27,
+      "end": 106.21,
+      "text": "Walau rambut dah putih berdua"
+    },
+    {
+      "t": 106.37,
+      "end": 109.47,
+      "text": "Hati abang masih yang sama"
+    },
+    {
+      "t": 111.87,
+      "end": 111.87,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 111.87,
+      "end": 114.79,
+      "text": "Dia keluar bilik, bersiap nak ke masjid"
+    },
+    {
+      "t": 114.87,
+      "end": 120.11,
+      "text": "Aku hulur songkok, dia tak tahu apa"
+    },
+    {
+      "t": 121.03,
+      "end": 121.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 121.03,
+      "end": 125.63,
+      "text": "Pantun dalam songkok, aku simpan balik"
+    },
+    {
+      "t": 125.77,
+      "end": 128.35,
+      "text": "Tapi pagi ini aku balas dulu"
+    },
+    {
+      "t": 128.35,
+      "end": 130.17,
+      "text": "Pantun dalam songkok, aku tulis sebaris"
+    },
+    {
+      "t": 130.53,
+      "end": 134.43,
+      "text": "Selit di lipat, esok dia jumpa"
+    },
+    {
+      "t": 144.33,
+      "end": 144.33,
+      "text": "[Bridge - rebab and seruling only]"
+    },
+    {
+      "t": 144.33,
+      "end": 153.11,
+      "text": "Biar dia cari, biar dia senyum"
+    },
+    {
+      "t": 154.38,
+      "end": 171.32,
+      "text": "Songkok yang sama, pantun yang baru"
+    },
+    {
+      "t": 175.12,
+      "end": 175.12,
+      "text": "[Outro - rebab, gong, gendang fade]"
+    },
+    {
+      "t": 175.12,
+      "end": 178.94,
+      "text": "Songkok hitam, setrika suam"
+    },
+    {
+      "t": 179.68,
+      "end": 199.4,
+      "text": "Tiga puluh tahun, masih sama"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

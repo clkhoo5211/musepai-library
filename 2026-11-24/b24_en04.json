@@ -1,0 +1,397 @@
+{
+  "id": "b24_en04",
+  "title": "Mouthing It at the Back",
+  "title_source": "scripted",
+  "genre": "Scottish ceilidh folk-rock (accordion and fiddle with a full rock backline, Waterboys and Runrig lineage)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wry, brisk, affectionate",
+  "persona": "",
+  "subject": "a minister's speechwriter stands at the back of the hall mouthing every line, then the minister drops her best pun, and she mouths the rest into the silence",
+  "caption": "Scottish ceilidh folk-rock, driving and brisk. Accordion playing bouncing chords on the offbeat, fiddle carrying a fast reel-like riff, strummed steel-string acoustic guitar, melodic bass, live drums with a steady backbeat, tin whistle doubling the hook on the choruses. Bright live-in-the-room mix, light plate reverb. Male lead, bright and slightly nasal, clearly sung, with group backing voices on the choruses. Clear full voice, every word enunciated, steady sung melody on every line. 142 BPM, A major. Wry, brisk, affectionate mood. No synthesizer, no distorted guitars, no autotune, no drum machine, no rap.",
+  "lyrics": "[Intro - fiddle, accordion and drums]\n\n[Verse 1]\nI wrote it on Tuesday, I fixed it on Wednesday\nThe minister's reading it now on the stage\nI'm standing at the back by the fire-exit sign\nMouthing along to each page\n\n[Pre-Chorus]\nHere comes the pun, here comes the pun\nThree lines, two lines, one\n\n[Chorus]\nAnd she skips it, she skips it\nI mouth it at the back of the hall\nNobody's laughing, nobody knows\nIt was the best thing I wrote at all\n\n[Verse 2]\nThe pigeon joke lands but the budget is long\nShe reads out the numbers too slowly\nI'd cut that paragraph twice, I swear\nShe's lost her place, she's lost her place\n\n[Pre-Chorus]\nHere comes the end, here comes the end\nShe's looking up, she's looking up\n\n[Chorus]\nAnd she nails it, she nails it\nThe one that I thought would be cut\nThey're laughing, they're laughing\nI'm grinning at the back, shut up\n\n[Bridge - fiddle and accordion]\nNobody turns around to see me\nThat's the job, that's the job\n\n[Chorus]\nAnd she says it, she says it\nIn her voice, with my words on top\nNobody knows it, nobody knows\nI mouth it at the back and I don't stop\n\n[Outro - fiddle and accordion ring out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 142,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "4",
+    "prompt": "Scottish ceilidh folk-rock, driving and brisk. Accordion playing bouncing chords on the offbeat, fiddle carrying a fast reel-like riff, strummed steel-string acoustic guitar, melodic bass, live drums with a steady backbeat, tin whistle doubling the hook on the choruses. Bright live-in-the-room mix, light plate reverb. Male lead, bright and slightly nasal, clearly sung, with group backing voices on the choruses. Clear full voice, every word enunciated, steady sung melody on every line. 142 BPM, A major. Wry, brisk, affectionate mood. No synthesizer, no distorted guitars, no autotune, no drum machine, no rap.",
+    "lyrics": "[Intro - fiddle, accordion and drums]\n\n[Verse 1]\nI wrote it on Tuesday, I fixed it on Wednesday\nThe minister's reading it now on the stage\nI'm standing at the back by the fire-exit sign\nMouthing along to each page\n\n[Pre-Chorus]\nHere comes the pun, here comes the pun\nThree lines, two lines, one\n\n[Chorus]\nAnd she skips it, she skips it\nI mouth it at the back of the hall\nNobody's laughing, nobody knows\nIt was the best thing I wrote at all\n\n[Verse 2]\nThe pigeon joke lands but the budget is long\nShe reads out the numbers too slowly\nI'd cut that paragraph twice, I swear\nShe's lost her place, she's lost her place\n\n[Pre-Chorus]\nHere comes the end, here comes the end\nShe's looking up, she's looking up\n\n[Chorus]\nAnd she nails it, she nails it\nThe one that I thought would be cut\nThey're laughing, they're laughing\nI'm grinning at the back, shut up\n\n[Bridge - fiddle and accordion]\nNobody turns around to see me\nThat's the job, that's the job\n\n[Chorus]\nAnd she says it, she says it\nIn her voice, with my words on top\nNobody knows it, nobody knows\nI mouth it at the back and I don't stop\n\n[Outro - fiddle and accordion ring out]"
+  },
+  "seed": "1884508925",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.39s**\n- 56.39s per song\n- LM phase (1 song): 10.70s\n- DiT phase (1 song): 45.69s",
+  "task_id": "3036a75b-c175-47cb-a50e-527d80ce09d2",
+  "elapsed_s": 70.1,
+  "generated_at": "2026-11-24T09:05:09.475642+08:00",
+  "audio": "b24_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.64,
+      "end": 27.64,
+      "text": "[Intro - fiddle, accordion and drums]"
+    },
+    {
+      "t": 27.64,
+      "end": 27.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.64,
+      "end": 31.96,
+      "text": "I wrote it on Tuesday, I fixed it on Wednesday"
+    },
+    {
+      "t": 34.46,
+      "end": 38.6,
+      "text": "The minister's reading it now on the stage"
+    },
+    {
+      "t": 41.14,
+      "end": 45.52,
+      "text": "I'm standing at the back by the fire-exit sign"
+    },
+    {
+      "t": 48.21,
+      "end": 52.31,
+      "text": "Mouthing along to each page"
+    },
+    {
+      "t": 52.31,
+      "end": 52.31,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.31,
+      "end": 55.49,
+      "text": "Here comes the pun, here comes the pun"
+    },
+    {
+      "t": 55.49,
+      "end": 56.21,
+      "text": "Three lines, two lines, one"
+    },
+    {
+      "t": 56.21,
+      "end": 56.21,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.21,
+      "end": 57.79,
+      "text": "And she skips it, she skips it"
+    },
+    {
+      "t": 57.83,
+      "end": 60.67,
+      "text": "I mouth it at the back of the hall"
+    },
+    {
+      "t": 61.29,
+      "end": 64.07,
+      "text": "Nobody's laughing, nobody knows"
+    },
+    {
+      "t": 64.09,
+      "end": 65.73,
+      "text": "It was the best thing I wrote at all"
+    },
+    {
+      "t": 68.79,
+      "end": 68.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.79,
+      "end": 71.83,
+      "text": "The pigeon joke lands but the budget is long"
+    },
+    {
+      "t": 71.97,
+      "end": 74.47,
+      "text": "She reads out the numbers too slowly"
+    },
+    {
+      "t": 77.01,
+      "end": 79.43,
+      "text": "I'd cut that paragraph twice, I swear"
+    },
+    {
+      "t": 79.85,
+      "end": 94.39,
+      "text": "She's lost her place, she's lost her place"
+    },
+    {
+      "t": 95.71,
+      "end": 95.71,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 95.71,
+      "end": 98.37,
+      "text": "Here comes the end, here comes the end"
+    },
+    {
+      "t": 98.87,
+      "end": 101.73,
+      "text": "She's looking up, she's looking up"
+    },
+    {
+      "t": 102.41,
+      "end": 102.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.41,
+      "end": 105.29,
+      "text": "And she nails it, she nails it"
+    },
+    {
+      "t": 105.55,
+      "end": 108.39,
+      "text": "The one that I thought would be cut"
+    },
+    {
+      "t": 109.39,
+      "end": 112.61,
+      "text": "They're laughing, they're laughing"
+    },
+    {
+      "t": 112.91,
+      "end": 120.37,
+      "text": "I'm grinning at the back, shut up"
+    },
+    {
+      "t": 126.75,
+      "end": 126.75,
+      "text": "[Bridge - fiddle and accordion]"
+    },
+    {
+      "t": 126.75,
+      "end": 131.01,
+      "text": "Nobody turns around to see me"
+    },
+    {
+      "t": 133.17,
+      "end": 136.29,
+      "text": "That's the job, that's the job"
+    },
+    {
+      "t": 136.75,
+      "end": 136.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.75,
+      "end": 139.67,
+      "text": "And she says it, she says it"
+    },
+    {
+      "t": 140.19,
+      "end": 142.96,
+      "text": "In her voice, with my words on top"
+    },
+    {
+      "t": 143.56,
+      "end": 159.3,
+      "text": "Nobody knows it, nobody knows"
+    },
+    {
+      "t": 159.3,
+      "end": 162.54,
+      "text": "I mouth it at the back and I don't stop"
+    },
+    {
+      "t": 162.54,
+      "end": 162.54,
+      "text": "[Outro - fiddle and accordion ring out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 1.64,
+      "end": 1.64,
+      "text": "[Intro - fiddle, accordion and drums]"
+    },
+    {
+      "t": 1.64,
+      "end": 1.64,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 1.64,
+      "end": 31.96,
+      "text": "I wrote it on Tuesday, I fixed it on Wednesday"
+    },
+    {
+      "t": 34.44,
+      "end": 38.56,
+      "text": "The minister's reading it now on the stage"
+    },
+    {
+      "t": 41.12,
+      "end": 44.48,
+      "text": "I'm standing at the back by the fire-exit sign"
+    },
+    {
+      "t": 44.48,
+      "end": 45.32,
+      "text": "Mouthing along to each page"
+    },
+    {
+      "t": 45.36,
+      "end": 45.36,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 45.36,
+      "end": 48.47,
+      "text": "Here comes the pun, here comes the pun"
+    },
+    {
+      "t": 48.59,
+      "end": 52.31,
+      "text": "Three lines, two lines, one"
+    },
+    {
+      "t": 54.49,
+      "end": 54.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.49,
+      "end": 57.43,
+      "text": "And she skips it, she skips it"
+    },
+    {
+      "t": 57.71,
+      "end": 60.61,
+      "text": "I mouth it at the back of the hall"
+    },
+    {
+      "t": 61.29,
+      "end": 64.07,
+      "text": "Nobody's laughing, nobody knows"
+    },
+    {
+      "t": 64.09,
+      "end": 65.77,
+      "text": "It was the best thing I wrote at all"
+    },
+    {
+      "t": 68.77,
+      "end": 68.77,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.77,
+      "end": 71.83,
+      "text": "The pigeon joke lands but the budget is long"
+    },
+    {
+      "t": 71.97,
+      "end": 74.49,
+      "text": "She reads out the numbers too slowly"
+    },
+    {
+      "t": 77.01,
+      "end": 79.37,
+      "text": "I'd cut that paragraph twice, I swear"
+    },
+    {
+      "t": 79.83,
+      "end": 94.39,
+      "text": "She's lost her place, she's lost her place"
+    },
+    {
+      "t": 94.49,
+      "end": 94.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 94.49,
+      "end": 98.41,
+      "text": "Here comes the end, here comes the end"
+    },
+    {
+      "t": 98.87,
+      "end": 101.73,
+      "text": "She's looking up, she's looking up"
+    },
+    {
+      "t": 102.41,
+      "end": 102.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.41,
+      "end": 105.33,
+      "text": "And she nails it, she nails it"
+    },
+    {
+      "t": 105.55,
+      "end": 108.41,
+      "text": "The one that I thought would be cut"
+    },
+    {
+      "t": 109.41,
+      "end": 112.61,
+      "text": "They're laughing, they're laughing"
+    },
+    {
+      "t": 112.71,
+      "end": 120.37,
+      "text": "I'm grinning at the back, shut up"
+    },
+    {
+      "t": 126.73,
+      "end": 126.73,
+      "text": "[Bridge - fiddle and accordion]"
+    },
+    {
+      "t": 126.73,
+      "end": 130.99,
+      "text": "Nobody turns around to see me"
+    },
+    {
+      "t": 133.17,
+      "end": 136.29,
+      "text": "That's the job, that's the job"
+    },
+    {
+      "t": 136.75,
+      "end": 136.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 136.75,
+      "end": 139.69,
+      "text": "And she says it, she says it"
+    },
+    {
+      "t": 140.19,
+      "end": 142.96,
+      "text": "In her voice, with my words on top"
+    },
+    {
+      "t": 143.52,
+      "end": 159.36,
+      "text": "Nobody knows it, nobody knows"
+    },
+    {
+      "t": 159.36,
+      "end": 165.94,
+      "text": "I mouth it at the back and I don't stop"
+    },
+    {
+      "t": 165.94,
+      "end": 165.94,
+      "text": "[Outro - fiddle and accordion ring out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

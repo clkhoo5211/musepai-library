@@ -1,0 +1,579 @@
+{
+  "id": "b24_ja02",
+  "title": "ひまわり食堂の黄色",
+  "title_source": "scripted",
+  "genre": "Showa-era orchestral kayokyoku (1960s grand-orchestra TV-show ballad, strings and harp)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "tender, patient, quietly romantic",
+  "persona": "",
+  "subject": "a hand-lettering signboard painter who repaints the faded yellow sunflower on a widow's diner sign every April for twelve years, still coming this year when the paint has not faded, and she says come again next year",
+  "caption": "Showa-era orchestral kayokyoku, 1960s grand-orchestra TV-show ballad. Lush string section playing long legato lines, harp arpeggios, French horn countermelody, upright piano on the chords, brushed snare, vibraphone in the bridge. Warm analogue 1960s studio hall reverb. Female lead, warm alto, light vibrato. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, F major. Tender, patient, quietly romantic. No electronic drums, no synth, no autotune, no rap, no electric guitar distortion.",
+  "lyrics": "[Intro - harp arpeggio, strings enter]\n\n[Verse 1]\n春になると 刷毛を持って\nひまわりの黄色を 塗り直す\n日に焼けた 食堂の看板\nあなたは湯気の向こうで見てる\n\n[Pre-Chorus]\n十二年 同じ文字を\nなぞるたびに 少し近づく\n\n[Chorus]\nひまわり食堂 色褪せないで\nあなたの笑顔も 看板も\nまだ乾かない 黄色の上に\n言えない言葉を 重ねてる\n\n[Verse 2]\n今年の黄色は まだ褪せてない\nそれでもぼくは 刷毛を持つ\nあなたはお茶を ふたつ置いて\n「どうぞ」とだけ 言ってくれた\n\n[Pre-Chorus]\n看板屋さん 筆の先が\nいつもより ゆっくりね\n\n[Chorus]\nひまわり食堂 色褪せないで\nあなたの声も 湯気の中\nまだ乾かない 黄色の上に\n言えない言葉を 重ねてる\n\n[Bridge - vibraphone, strings swell]\n来年も 来てくださいね\nその一言で 手が止まった\n\n[Chorus]\nひまわり食堂 ずっと同じ\n黄色の下で 待っている\n乾いた看板 見上げたら\n小さな花が 描き足してあった\n\n[Outro - harp and strings, slow close]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Showa-era orchestral kayokyoku, 1960s grand-orchestra TV-show ballad. Lush string section playing long legato lines, harp arpeggios, French horn countermelody, upright piano on the chords, brushed snare, vibraphone in the bridge. Warm analogue 1960s studio hall reverb. Female lead, warm alto, light vibrato. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, F major. Tender, patient, quietly romantic. No electronic drums, no synth, no autotune, no rap, no electric guitar distortion.",
+    "lyrics": "[Intro - harp arpeggio, strings enter]\n\n[Verse 1]\n春になると 刷毛を持って\nひまわりの黄色を 塗り直す\n日に焼けた 食堂の看板\nあなたは湯気の向こうで見てる\n\n[Pre-Chorus]\n十二年 同じ文字を\nなぞるたびに 少し近づく\n\n[Chorus]\nひまわり食堂 色褪せないで\nあなたの笑顔も 看板も\nまだ乾かない 黄色の上に\n言えない言葉を 重ねてる\n\n[Verse 2]\n今年の黄色は まだ褪せてない\nそれでもぼくは 刷毛を持つ\nあなたはお茶を ふたつ置いて\n「どうぞ」とだけ 言ってくれた\n\n[Pre-Chorus]\n看板屋さん 筆の先が\nいつもより ゆっくりね\n\n[Chorus]\nひまわり食堂 色褪せないで\nあなたの声も 湯気の中\nまだ乾かない 黄色の上に\n言えない言葉を 重ねてる\n\n[Bridge - vibraphone, strings swell]\n来年も 来てくださいね\nその一言で 手が止まった\n\n[Chorus]\nひまわり食堂 ずっと同じ\n黄色の下で 待っている\n乾いた看板 見上げたら\n小さな花が 描き足してあった\n\n[Outro - harp and strings, slow close]"
+  },
+  "seed": "771384032",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 83.50s**\n- 83.50s per song\n- LM phase (1 song): 7.81s\n- DiT phase (1 song): 75.70s",
+  "task_id": "6ac398fa-89de-4f69-b205-243524d204ab",
+  "elapsed_s": 140.3,
+  "generated_at": "2026-11-24T15:47:49.256093+08:00",
+  "audio": "b24_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.7,
+      "end": 26.7,
+      "text": "[Intro - harp arpeggio, strings enter]"
+    },
+    {
+      "t": 26.7,
+      "end": 26.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.7,
+      "end": 31.62,
+      "text": "春になると 刷毛を持って"
+    },
+    {
+      "t": 33.6,
+      "end": 38.1,
+      "text": "ひまわりの黄色を 塗り直す"
+    },
+    {
+      "t": 39.04,
+      "end": 45.2,
+      "text": "日に焼けた 食堂の看板"
+    },
+    {
+      "t": 45.28,
+      "end": 49.12,
+      "text": "あなたは湯気の向こうで見てる"
+    },
+    {
+      "t": 48.0,
+      "end": 48.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.0,
+      "end": 48.44,
+      "text": "十二年 同じ文字を"
+    },
+    {
+      "t": 48.44,
+      "end": 51.34,
+      "text": "なぞるたびに 少し近づく"
+    },
+    {
+      "t": 52.34,
+      "end": 52.34,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.34,
+      "end": 56.91,
+      "text": "ひまわり食堂 色褪せないで"
+    },
+    {
+      "t": 58.79,
+      "end": 60.97,
+      "text": "あなたの笑顔も 看板も"
+    },
+    {
+      "t": 60.97,
+      "end": 64.07,
+      "text": "まだ乾かない 黄色の上に"
+    },
+    {
+      "t": 64.73,
+      "end": 66.65,
+      "text": "言えない言葉を 重ねてる"
+    },
+    {
+      "t": 66.65,
+      "end": 66.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.65,
+      "end": 69.23,
+      "text": "今年の黄色は まだ褪せてない"
+    },
+    {
+      "t": 69.31,
+      "end": 73.01,
+      "text": "それでもぼくは 刷毛を持つ"
+    },
+    {
+      "t": 78.33,
+      "end": 89.31,
+      "text": "あなたはお茶を ふたつ置いて"
+    },
+    {
+      "t": 89.31,
+      "end": 92.81,
+      "text": "「どうぞ」とだけ 言ってくれた"
+    },
+    {
+      "t": 92.81,
+      "end": 92.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.81,
+      "end": 96.01,
+      "text": "看板屋さん 筆の先が"
+    },
+    {
+      "t": 96.09,
+      "end": 100.97,
+      "text": "いつもより ゆっくりね"
+    },
+    {
+      "t": 102.83,
+      "end": 102.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.83,
+      "end": 107.65,
+      "text": "ひまわり食堂 色褪せないで"
+    },
+    {
+      "t": 108.79,
+      "end": 113.41,
+      "text": "あなたの声も 湯気の中"
+    },
+    {
+      "t": 113.45,
+      "end": 118.41,
+      "text": "まだ乾かない 黄色の上に"
+    },
+    {
+      "t": 118.41,
+      "end": 121.47,
+      "text": "言えない言葉を 重ねてる"
+    },
+    {
+      "t": 127.51,
+      "end": 127.51,
+      "text": "[Bridge - vibraphone, strings swell]"
+    },
+    {
+      "t": 127.51,
+      "end": 132.31,
+      "text": "来年も 来てくださいね"
+    },
+    {
+      "t": 133.27,
+      "end": 140.13,
+      "text": "その一言で 手が止まった"
+    },
+    {
+      "t": 153.25,
+      "end": 153.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 153.25,
+      "end": 158.73,
+      "text": "ひまわり食堂 ずっと同じ"
+    },
+    {
+      "t": 158.89,
+      "end": 165.2,
+      "text": "黄色の下で 待っている"
+    },
+    {
+      "t": 167.78,
+      "end": 172.86,
+      "text": "乾いた看板 見上げたら"
+    },
+    {
+      "t": 174.38,
+      "end": 190.22,
+      "text": "小さな花が 描き足してあった"
+    },
+    {
+      "t": 190.22,
+      "end": 190.22,
+      "text": "[Outro - harp and strings, slow close]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.7,
+      "end": 26.7,
+      "text": "[Intro - harp arpeggio, strings enter]"
+    },
+    {
+      "t": 26.7,
+      "end": 26.7,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.7,
+      "end": 31.62,
+      "text": "春になると 刷毛を持って"
+    },
+    {
+      "t": 32.62,
+      "end": 37.88,
+      "text": "ひまわりの黄色を 塗り直す"
+    },
+    {
+      "t": 38.18,
+      "end": 45.92,
+      "text": "日に焼けた 食堂の看板"
+    },
+    {
+      "t": 46.54,
+      "end": 47.98,
+      "text": "あなたは湯気の向こうで見てる"
+    },
+    {
+      "t": 48.0,
+      "end": 48.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.0,
+      "end": 48.44,
+      "text": "十二年 同じ文字を"
+    },
+    {
+      "t": 48.44,
+      "end": 51.34,
+      "text": "なぞるたびに 少し近づく"
+    },
+    {
+      "t": 52.34,
+      "end": 52.34,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 52.34,
+      "end": 56.91,
+      "text": "ひまわり食堂 色褪せないで"
+    },
+    {
+      "t": 58.79,
+      "end": 60.97,
+      "text": "あなたの笑顔も 看板も"
+    },
+    {
+      "t": 60.97,
+      "end": 64.07,
+      "text": "まだ乾かない 黄色の上に"
+    },
+    {
+      "t": 64.73,
+      "end": 66.65,
+      "text": "言えない言葉を 重ねてる"
+    },
+    {
+      "t": 66.65,
+      "end": 66.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 66.65,
+      "end": 69.23,
+      "text": "今年の黄色は まだ褪せてない"
+    },
+    {
+      "t": 69.31,
+      "end": 73.01,
+      "text": "それでもぼくは 刷毛を持つ"
+    },
+    {
+      "t": 78.33,
+      "end": 89.31,
+      "text": "あなたはお茶を ふたつ置いて"
+    },
+    {
+      "t": 89.31,
+      "end": 92.81,
+      "text": "「どうぞ」とだけ 言ってくれた"
+    },
+    {
+      "t": 92.81,
+      "end": 92.81,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.81,
+      "end": 96.01,
+      "text": "看板屋さん 筆の先が"
+    },
+    {
+      "t": 96.09,
+      "end": 100.97,
+      "text": "いつもより ゆっくりね"
+    },
+    {
+      "t": 102.83,
+      "end": 102.83,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 102.83,
+      "end": 107.65,
+      "text": "ひまわり食堂 色褪せないで"
+    },
+    {
+      "t": 108.79,
+      "end": 113.41,
+      "text": "あなたの声も 湯気の中"
+    },
+    {
+      "t": 113.45,
+      "end": 118.41,
+      "text": "まだ乾かない 黄色の上に"
+    },
+    {
+      "t": 118.41,
+      "end": 121.47,
+      "text": "言えない言葉を 重ねてる"
+    },
+    {
+      "t": 127.51,
+      "end": 127.51,
+      "text": "[Bridge - vibraphone, strings swell]"
+    },
+    {
+      "t": 127.51,
+      "end": 132.31,
+      "text": "来年も 来てくださいね"
+    },
+    {
+      "t": 133.27,
+      "end": 140.13,
+      "text": "その一言で 手が止まった"
+    },
+    {
+      "t": 153.25,
+      "end": 153.25,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 153.25,
+      "end": 158.73,
+      "text": "ひまわり食堂 ずっと同じ"
+    },
+    {
+      "t": 158.89,
+      "end": 165.2,
+      "text": "黄色の下で 待っている"
+    },
+    {
+      "t": 167.78,
+      "end": 172.86,
+      "text": "乾いた看板 見上げたら"
+    },
+    {
+      "t": 174.38,
+      "end": 190.22,
+      "text": "小さな花が 描き足してあった"
+    },
+    {
+      "t": 190.22,
+      "end": 190.22,
+      "text": "[Outro - harp and strings, slow close]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 13.98,
+      "end": 13.98,
+      "text": "[Intro - harp arpeggio, strings enter]"
+    },
+    {
+      "t": 13.98,
+      "end": 13.98,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 13.98,
+      "end": 32.08,
+      "text": "春になると 刷毛を持って"
+    },
+    {
+      "t": 33.6,
+      "end": 38.1,
+      "text": "ひまわりの黄色を 塗り直す"
+    },
+    {
+      "t": 39.04,
+      "end": 45.2,
+      "text": "日に焼けた 食堂の看板"
+    },
+    {
+      "t": 45.28,
+      "end": 49.12,
+      "text": "あなたは湯気の向こうで見てる"
+    },
+    {
+      "t": 51.98,
+      "end": 51.98,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 51.98,
+      "end": 54.11,
+      "text": "十二年 同じ文字を"
+    },
+    {
+      "t": 55.61,
+      "end": 58.27,
+      "text": "なぞるたびに 少し近づく"
+    },
+    {
+      "t": 58.27,
+      "end": 58.27,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 58.27,
+      "end": 61.95,
+      "text": "ひまわり食堂 色褪せないで"
+    },
+    {
+      "t": 62.21,
+      "end": 65.27,
+      "text": "あなたの笑顔も 看板も"
+    },
+    {
+      "t": 67.11,
+      "end": 70.55,
+      "text": "まだ乾かない 黄色の上に"
+    },
+    {
+      "t": 72.71,
+      "end": 76.33,
+      "text": "言えない言葉を 重ねてる"
+    },
+    {
+      "t": 81.67,
+      "end": 81.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 81.67,
+      "end": 84.79,
+      "text": "今年の黄色は まだ褪せてない"
+    },
+    {
+      "t": 86.89,
+      "end": 90.07,
+      "text": "それでもぼくは 刷毛を持つ"
+    },
+    {
+      "t": 90.07,
+      "end": 92.51,
+      "text": "あなたはお茶を ふたつ置いて"
+    },
+    {
+      "t": 97.67,
+      "end": 100.37,
+      "text": "「どうぞ」とだけ 言ってくれた"
+    },
+    {
+      "t": 100.45,
+      "end": 100.45,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 100.45,
+      "end": 102.79,
+      "text": "看板屋さん 筆の先が"
+    },
+    {
+      "t": 102.79,
+      "end": 105.77,
+      "text": "いつもより ゆっくりね"
+    },
+    {
+      "t": 108.29,
+      "end": 108.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.29,
+      "end": 111.45,
+      "text": "ひまわり食堂 色褪せないで"
+    },
+    {
+      "t": 112.71,
+      "end": 116.99,
+      "text": "あなたの声も 湯気の中"
+    },
+    {
+      "t": 118.65,
+      "end": 124.09,
+      "text": "まだ乾かない 黄色の上に"
+    },
+    {
+      "t": 125.95,
+      "end": 130.23,
+      "text": "言えない言葉を 重ねてる"
+    },
+    {
+      "t": 141.59,
+      "end": 141.59,
+      "text": "[Bridge - vibraphone, strings swell]"
+    },
+    {
+      "t": 141.59,
+      "end": 144.93,
+      "text": "来年も 来てくださいね"
+    },
+    {
+      "t": 146.07,
+      "end": 150.37,
+      "text": "その一言で 手が止まった"
+    },
+    {
+      "t": 163.24,
+      "end": 163.24,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 163.24,
+      "end": 168.8,
+      "text": "ひまわり食堂 ずっと同じ"
+    },
+    {
+      "t": 169.64,
+      "end": 175.48,
+      "text": "黄色の下で 待っている"
+    },
+    {
+      "t": 175.98,
+      "end": 183.44,
+      "text": "乾いた看板 見上げたら"
+    },
+    {
+      "t": 184.6,
+      "end": 198.76,
+      "text": "小さな花が 描き足してあった"
+    },
+    {
+      "t": 198.76,
+      "end": 198.76,
+      "text": "[Outro - harp and strings, slow close]"
+    }
+  ]
+}
