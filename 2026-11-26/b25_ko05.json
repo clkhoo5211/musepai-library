@@ -1,0 +1,519 @@
+{
+  "id": "b25_ko05",
+  "title": "은행 줍는 아침",
+  "title_source": "scripted",
+  "genre": "Korean freak-folk with autoharp and music box",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "hushed, wistful but light",
+  "persona": "",
+  "subject": "a commuter who every October watches an older woman picking ginkgo nuts off the pavement at dawn with long tongs, until one morning she hands him a paper cup of roasted nuts",
+  "caption": "Korean freak-folk, slow and unhurried. Autoharp strummed in open chords, music box carrying the melody in the intro, nylon-string guitar fingerpicking a loose pattern, glockenspiel doubling the chorus tune, soft brushed floor tom. Lo-fi tape warmth in a small room with light tape hiss. Female lead voice, soft clear mid register, unforced, clearly sung. 84 BPM, C major. Hushed, wistful but light mood. No electronic beats, no synth pads, no autotune, no big drums, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - music box melody, autoharp joins]\n\n[Verse 1]\n시월이면 아침 여섯 시\n은행나무 길에 한 사람\n긴 집게에 비닐봉지 들고\n허리를 굽혔다 폈다 해\n\n[Pre-Chorus]\n나는 지하철역 가는 길\n고약한 냄새에 코를 막아\n\n[Chorus]\n노란 잎이 밟히는 길 위에서\n아주머니는 하나씩 줍네\n냄새는 신발에 남고\n이야기는 내 마음에 남네\n\n[Verse 2]\n어제는 못 본 척 지나갔는데\n오늘은 눈이 마주쳐 버렸어\n아주머니가 종이컵을 내미네\n따뜻한 은행 알이 가득\n\n[Pre-Chorus]\n껍질 벗겨서 입에 넣으니\n쌉쌀하고 고소한 맛이 나\n\n[Bridge - autoharp and glockenspiel only]\n출근하는 사람들 다 바빠 보여도\n이 컵 하나만큼은 천천히 먹었어\n\n[Chorus]\n노란 잎이 밟히는 길 위에서\n아주머니는 하나씩 줍네\n내일은 내가 먼저 올게\n집게 하나 더 들고 올게\n\n[Outro - music box alone]\n시월의 아침",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Korean freak-folk, slow and unhurried. Autoharp strummed in open chords, music box carrying the melody in the intro, nylon-string guitar fingerpicking a loose pattern, glockenspiel doubling the chorus tune, soft brushed floor tom. Lo-fi tape warmth in a small room with light tape hiss. Female lead voice, soft clear mid register, unforced, clearly sung. 84 BPM, C major. Hushed, wistful but light mood. No electronic beats, no synth pads, no autotune, no big drums, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - music box melody, autoharp joins]\n\n[Verse 1]\n시월이면 아침 여섯 시\n은행나무 길에 한 사람\n긴 집게에 비닐봉지 들고\n허리를 굽혔다 폈다 해\n\n[Pre-Chorus]\n나는 지하철역 가는 길\n고약한 냄새에 코를 막아\n\n[Chorus]\n노란 잎이 밟히는 길 위에서\n아주머니는 하나씩 줍네\n냄새는 신발에 남고\n이야기는 내 마음에 남네\n\n[Verse 2]\n어제는 못 본 척 지나갔는데\n오늘은 눈이 마주쳐 버렸어\n아주머니가 종이컵을 내미네\n따뜻한 은행 알이 가득\n\n[Pre-Chorus]\n껍질 벗겨서 입에 넣으니\n쌉쌀하고 고소한 맛이 나\n\n[Bridge - autoharp and glockenspiel only]\n출근하는 사람들 다 바빠 보여도\n이 컵 하나만큼은 천천히 먹었어\n\n[Chorus]\n노란 잎이 밟히는 길 위에서\n아주머니는 하나씩 줍네\n내일은 내가 먼저 올게\n집게 하나 더 들고 올게\n\n[Outro - music box alone]\n시월의 아침"
+  },
+  "seed": "762093566",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 79.39s**\n- 79.39s per song\n- LM phase (1 song): 13.11s\n- DiT phase (1 song): 66.28s",
+  "task_id": "ff2bcc4c-31e3-43c7-9121-8220fef48449",
+  "elapsed_s": 110.3,
+  "generated_at": "2026-11-26T10:31:55.798610+08:00",
+  "audio": "b25_ko05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 22.9,
+      "end": 22.9,
+      "text": "[Intro - music box melody, autoharp joins]"
+    },
+    {
+      "t": 22.9,
+      "end": 22.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.9,
+      "end": 26.24,
+      "text": "시월이면 아침 여섯 시"
+    },
+    {
+      "t": 28.66,
+      "end": 32.06,
+      "text": "은행나무 길에 한 사람"
+    },
+    {
+      "t": 32.08,
+      "end": 34.28,
+      "text": "긴 집게에 비닐봉지 들고"
+    },
+    {
+      "t": 34.28,
+      "end": 37.44,
+      "text": "허리를 굽혔다 폈다 해"
+    },
+    {
+      "t": 38.22,
+      "end": 38.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.22,
+      "end": 42.14,
+      "text": "나는 지하철역 가는 길"
+    },
+    {
+      "t": 42.84,
+      "end": 46.72,
+      "text": "고약한 냄새에 코를 막아"
+    },
+    {
+      "t": 48.93,
+      "end": 48.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.93,
+      "end": 52.95,
+      "text": "노란 잎이 밟히는 길 위에서"
+    },
+    {
+      "t": 55.35,
+      "end": 59.03,
+      "text": "아주머니는 하나씩 줍네"
+    },
+    {
+      "t": 60.63,
+      "end": 64.25,
+      "text": "냄새는 신발에 남고"
+    },
+    {
+      "t": 66.67,
+      "end": 71.67,
+      "text": "이야기는 내 마음에 남네"
+    },
+    {
+      "t": 71.99,
+      "end": 71.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.99,
+      "end": 77.23,
+      "text": "어제는 못 본 척 지나갔는데"
+    },
+    {
+      "t": 79.47,
+      "end": 83.17,
+      "text": "오늘은 눈이 마주쳐 버렸어"
+    },
+    {
+      "t": 83.17,
+      "end": 84.61,
+      "text": "아주머니가 종이컵을 내미네"
+    },
+    {
+      "t": 87.95,
+      "end": 90.41,
+      "text": "따뜻한 은행 알이 가득"
+    },
+    {
+      "t": 90.43,
+      "end": 90.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.43,
+      "end": 92.79,
+      "text": "껍질 벗겨서 입에 넣으니"
+    },
+    {
+      "t": 93.27,
+      "end": 97.21,
+      "text": "쌉쌀하고 고소한 맛이 나"
+    },
+    {
+      "t": 100.21,
+      "end": 100.21,
+      "text": "[Bridge - autoharp and glockenspiel only]"
+    },
+    {
+      "t": 100.21,
+      "end": 104.67,
+      "text": "출근하는 사람들 다 바빠 보여도"
+    },
+    {
+      "t": 105.67,
+      "end": 110.35,
+      "text": "이 컵 하나만큼은 천천히 먹었어"
+    },
+    {
+      "t": 110.97,
+      "end": 110.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.97,
+      "end": 131.95,
+      "text": "노란 잎이 밟히는 길 위에서"
+    },
+    {
+      "t": 132.05,
+      "end": 138.73,
+      "text": "아주머니는 하나씩 줍네"
+    },
+    {
+      "t": 155.88,
+      "end": 158.84,
+      "text": "내일은 내가 먼저 올게"
+    },
+    {
+      "t": 159.06,
+      "end": 162.06,
+      "text": "집게 하나 더 들고 올게"
+    },
+    {
+      "t": 162.36,
+      "end": 162.36,
+      "text": "[Outro - music box alone]"
+    },
+    {
+      "t": 162.36,
+      "end": 175.24,
+      "text": "시월의 아침"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 22.9,
+      "end": 22.9,
+      "text": "[Intro - music box melody, autoharp joins]"
+    },
+    {
+      "t": 22.9,
+      "end": 22.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.9,
+      "end": 26.24,
+      "text": "시월이면 아침 여섯 시"
+    },
+    {
+      "t": 28.66,
+      "end": 32.06,
+      "text": "은행나무 길에 한 사람"
+    },
+    {
+      "t": 32.08,
+      "end": 34.28,
+      "text": "긴 집게에 비닐봉지 들고"
+    },
+    {
+      "t": 34.28,
+      "end": 37.44,
+      "text": "허리를 굽혔다 폈다 해"
+    },
+    {
+      "t": 38.22,
+      "end": 38.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.22,
+      "end": 42.14,
+      "text": "나는 지하철역 가는 길"
+    },
+    {
+      "t": 42.84,
+      "end": 46.72,
+      "text": "고약한 냄새에 코를 막아"
+    },
+    {
+      "t": 48.93,
+      "end": 48.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.93,
+      "end": 52.95,
+      "text": "노란 잎이 밟히는 길 위에서"
+    },
+    {
+      "t": 55.35,
+      "end": 59.03,
+      "text": "아주머니는 하나씩 줍네"
+    },
+    {
+      "t": 60.63,
+      "end": 64.25,
+      "text": "냄새는 신발에 남고"
+    },
+    {
+      "t": 66.67,
+      "end": 71.67,
+      "text": "이야기는 내 마음에 남네"
+    },
+    {
+      "t": 71.99,
+      "end": 71.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.99,
+      "end": 77.23,
+      "text": "어제는 못 본 척 지나갔는데"
+    },
+    {
+      "t": 79.47,
+      "end": 83.17,
+      "text": "오늘은 눈이 마주쳐 버렸어"
+    },
+    {
+      "t": 83.17,
+      "end": 84.61,
+      "text": "아주머니가 종이컵을 내미네"
+    },
+    {
+      "t": 87.95,
+      "end": 90.41,
+      "text": "따뜻한 은행 알이 가득"
+    },
+    {
+      "t": 90.43,
+      "end": 90.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.43,
+      "end": 92.79,
+      "text": "껍질 벗겨서 입에 넣으니"
+    },
+    {
+      "t": 93.27,
+      "end": 97.21,
+      "text": "쌉쌀하고 고소한 맛이 나"
+    },
+    {
+      "t": 100.21,
+      "end": 100.21,
+      "text": "[Bridge - autoharp and glockenspiel only]"
+    },
+    {
+      "t": 100.21,
+      "end": 104.67,
+      "text": "출근하는 사람들 다 바빠 보여도"
+    },
+    {
+      "t": 105.67,
+      "end": 110.35,
+      "text": "이 컵 하나만큼은 천천히 먹었어"
+    },
+    {
+      "t": 110.97,
+      "end": 110.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.97,
+      "end": 131.95,
+      "text": "노란 잎이 밟히는 길 위에서"
+    },
+    {
+      "t": 132.05,
+      "end": 138.73,
+      "text": "아주머니는 하나씩 줍네"
+    },
+    {
+      "t": 155.88,
+      "end": 158.84,
+      "text": "내일은 내가 먼저 올게"
+    },
+    {
+      "t": 159.06,
+      "end": 162.06,
+      "text": "집게 하나 더 들고 올게"
+    },
+    {
+      "t": 162.36,
+      "end": 162.36,
+      "text": "[Outro - music box alone]"
+    },
+    {
+      "t": 162.36,
+      "end": 175.24,
+      "text": "시월의 아침"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 22.9,
+      "end": 22.9,
+      "text": "[Intro - music box melody, autoharp joins]"
+    },
+    {
+      "t": 22.9,
+      "end": 22.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 22.9,
+      "end": 26.24,
+      "text": "시월이면 아침 여섯 시"
+    },
+    {
+      "t": 26.4,
+      "end": 32.08,
+      "text": "은행나무 길에 한 사람"
+    },
+    {
+      "t": 32.08,
+      "end": 34.28,
+      "text": "긴 집게에 비닐봉지 들고"
+    },
+    {
+      "t": 34.28,
+      "end": 37.46,
+      "text": "허리를 굽혔다 폈다 해"
+    },
+    {
+      "t": 38.22,
+      "end": 38.22,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.22,
+      "end": 42.14,
+      "text": "나는 지하철역 가는 길"
+    },
+    {
+      "t": 42.84,
+      "end": 46.72,
+      "text": "고약한 냄새에 코를 막아"
+    },
+    {
+      "t": 48.91,
+      "end": 48.91,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.91,
+      "end": 52.95,
+      "text": "노란 잎이 밟히는 길 위에서"
+    },
+    {
+      "t": 55.35,
+      "end": 58.99,
+      "text": "아주머니는 하나씩 줍네"
+    },
+    {
+      "t": 60.63,
+      "end": 64.27,
+      "text": "냄새는 신발에 남고"
+    },
+    {
+      "t": 66.67,
+      "end": 71.65,
+      "text": "이야기는 내 마음에 남네"
+    },
+    {
+      "t": 71.99,
+      "end": 71.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.99,
+      "end": 77.21,
+      "text": "어제는 못 본 척 지나갔는데"
+    },
+    {
+      "t": 79.47,
+      "end": 83.17,
+      "text": "오늘은 눈이 마주쳐 버렸어"
+    },
+    {
+      "t": 83.67,
+      "end": 85.81,
+      "text": "아주머니가 종이컵을 내미네"
+    },
+    {
+      "t": 85.81,
+      "end": 87.97,
+      "text": "따뜻한 은행 알이 가득"
+    },
+    {
+      "t": 87.99,
+      "end": 87.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 87.99,
+      "end": 92.77,
+      "text": "껍질 벗겨서 입에 넣으니"
+    },
+    {
+      "t": 92.77,
+      "end": 97.19,
+      "text": "쌉쌀하고 고소한 맛이 나"
+    },
+    {
+      "t": 100.21,
+      "end": 100.21,
+      "text": "[Bridge - autoharp and glockenspiel only]"
+    },
+    {
+      "t": 100.21,
+      "end": 104.65,
+      "text": "출근하는 사람들 다 바빠 보여도"
+    },
+    {
+      "t": 105.67,
+      "end": 110.35,
+      "text": "이 컵 하나만큼은 천천히 먹었어"
+    },
+    {
+      "t": 114.63,
+      "end": 114.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 114.63,
+      "end": 131.95,
+      "text": "노란 잎이 밟히는 길 위에서"
+    },
+    {
+      "t": 132.05,
+      "end": 138.71,
+      "text": "아주머니는 하나씩 줍네"
+    },
+    {
+      "t": 155.88,
+      "end": 158.84,
+      "text": "내일은 내가 먼저 올게"
+    },
+    {
+      "t": 159.04,
+      "end": 162.06,
+      "text": "집게 하나 더 들고 올게"
+    },
+    {
+      "t": 169.38,
+      "end": 169.38,
+      "text": "[Outro - music box alone]"
+    },
+    {
+      "t": 169.38,
+      "end": 175.28,
+      "text": "시월의 아침"
+    }
+  ]
+}

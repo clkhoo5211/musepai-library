@@ -1,0 +1,564 @@
+{
+  "id": "b25_zh01",
+  "title": "第七張稿紙",
+  "title_source": "scripted",
+  "genre": "1990s Taipei string-section slow-dance ballad (harp, cello and string quartet)",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "tender, hesitant love",
+  "persona": "",
+  "subject": "a young man who has copied the same love letter onto seven sheets of grid manuscript paper because every draft gets one ink blot at the word for 'like', and finally slides the seventh under the third-floor neighbour's door, where she has been doing the same",
+  "caption": "1990s Taipei string-section slow-dance ballad, Mandarin. Harp arpeggios, solo cello answering the vocal, a full string quartet swelling in the chorus, upright piano chords and brushed snare. Warm tape-era studio reverb, wide string section, soft analog hiss. Female vocal, warm mid-register, long held notes, clearly sung melody. 68 BPM, A major. Tender, hesitant love. No electric guitar solo, no synth pads, no drum machine, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - harp arpeggio, solo cello]\n[Verse 1]\n稿紙買了一整本\n格子排得像小小的窗\n每次寫到那兩個字\n墨水就滴成一朵烏雲\n[Pre-Chorus]\n你住三樓最右邊\n我在樓下數了十次門牌\n[Chorus]\n第七張稿紙 我不再重抄\n就算有墨漬 就算字很歪\n從你門縫塞進去\n讓你看見我最笨的樣子\n[Verse 2]\n清晨有人輕輕敲門\n你站在樓梯口沒有說話\n手裡也是一張稿紙\n背面也有一滴墨水花\n[Pre-Chorus]\n你說你寫了六張\n都收在抽屜最裡面\n[Chorus]\n第七張稿紙 我們不再重抄\n就算有墨漬 就算字很歪\n一人一張交換吧\n讓這兩滴墨水靠在一起\n[Bridge - strings alone, then harp]\n原來你也怕寫錯\n原來你也留過六張\n[Chorus]\n第七張稿紙 我不再重抄\n有你的墨漬 在我的背面\n[Outro - cello and harp, slow fade]\n一滴墨水 兩個人",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 68,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "A major",
+    "timesignature": "2",
+    "prompt": "1990s Taipei string-section slow-dance ballad, Mandarin. Harp arpeggios, solo cello answering the vocal, a full string quartet swelling in the chorus, upright piano chords and brushed snare. Warm tape-era studio reverb, wide string section, soft analog hiss. Female vocal, warm mid-register, long held notes, clearly sung melody. 68 BPM, A major. Tender, hesitant love. No electric guitar solo, no synth pads, no drum machine, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - harp arpeggio, solo cello]\n[Verse 1]\n稿紙買了一整本\n格子排得像小小的窗\n每次寫到那兩個字\n墨水就滴成一朵烏雲\n[Pre-Chorus]\n你住三樓最右邊\n我在樓下數了十次門牌\n[Chorus]\n第七張稿紙 我不再重抄\n就算有墨漬 就算字很歪\n從你門縫塞進去\n讓你看見我最笨的樣子\n[Verse 2]\n清晨有人輕輕敲門\n你站在樓梯口沒有說話\n手裡也是一張稿紙\n背面也有一滴墨水花\n[Pre-Chorus]\n你說你寫了六張\n都收在抽屜最裡面\n[Chorus]\n第七張稿紙 我們不再重抄\n就算有墨漬 就算字很歪\n一人一張交換吧\n讓這兩滴墨水靠在一起\n[Bridge - strings alone, then harp]\n原來你也怕寫錯\n原來你也留過六張\n[Chorus]\n第七張稿紙 我不再重抄\n有你的墨漬 在我的背面\n[Outro - cello and harp, slow fade]\n一滴墨水 兩個人"
+  },
+  "seed": "1961582897",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 66.93s**\n- 66.93s per song\n- LM phase (1 song): 10.92s\n- DiT phase (1 song): 56.01s",
+  "task_id": "09a7774b-eeea-4f42-ada6-128b77bcb60b",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-26T12:44:48.995691+08:00",
+  "audio": "b25_zh01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.32,
+      "end": 18.32,
+      "text": "[Intro - harp arpeggio, solo cello]"
+    },
+    {
+      "t": 18.32,
+      "end": 18.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.32,
+      "end": 21.32,
+      "text": "稿紙買了一整本"
+    },
+    {
+      "t": 23.56,
+      "end": 28.34,
+      "text": "格子排得像小小的窗"
+    },
+    {
+      "t": 30.62,
+      "end": 35.24,
+      "text": "每次寫到那兩個字"
+    },
+    {
+      "t": 37.82,
+      "end": 41.14,
+      "text": "墨水就滴成一朵烏雲"
+    },
+    {
+      "t": 41.16,
+      "end": 41.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.16,
+      "end": 42.58,
+      "text": "你住三樓最右邊"
+    },
+    {
+      "t": 42.62,
+      "end": 48.86,
+      "text": "我在樓下數了十次門牌"
+    },
+    {
+      "t": 48.86,
+      "end": 48.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.86,
+      "end": 52.17,
+      "text": "第七張稿紙 我不再重抄"
+    },
+    {
+      "t": 55.01,
+      "end": 59.81,
+      "text": "就算有墨漬 就算字很歪"
+    },
+    {
+      "t": 63.09,
+      "end": 64.57,
+      "text": "從你門縫塞進去"
+    },
+    {
+      "t": 64.57,
+      "end": 73.03,
+      "text": "讓你看見我最笨的樣子"
+    },
+    {
+      "t": 73.03,
+      "end": 73.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.03,
+      "end": 73.91,
+      "text": "清晨有人輕輕敲門"
+    },
+    {
+      "t": 73.95,
+      "end": 77.19,
+      "text": "你站在樓梯口沒有說話"
+    },
+    {
+      "t": 79.93,
+      "end": 82.75,
+      "text": "手裡也是一張稿紙"
+    },
+    {
+      "t": 82.77,
+      "end": 84.15,
+      "text": "背面也有一滴墨水花"
+    },
+    {
+      "t": 92.25,
+      "end": 92.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.25,
+      "end": 93.07,
+      "text": "你說你寫了六張"
+    },
+    {
+      "t": 93.07,
+      "end": 95.63,
+      "text": "都收在抽屜最裡面"
+    },
+    {
+      "t": 95.63,
+      "end": 95.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.63,
+      "end": 99.07,
+      "text": "第七張稿紙 我們不再重抄"
+    },
+    {
+      "t": 101.97,
+      "end": 109.65,
+      "text": "就算有墨漬 就算字很歪"
+    },
+    {
+      "t": 109.95,
+      "end": 112.29,
+      "text": "一人一張交換吧"
+    },
+    {
+      "t": 112.59,
+      "end": 116.75,
+      "text": "讓這兩滴墨水靠在一起"
+    },
+    {
+      "t": 132.77,
+      "end": 132.77,
+      "text": "[Bridge - strings alone, then harp]"
+    },
+    {
+      "t": 132.77,
+      "end": 136.43,
+      "text": "原來你也怕寫錯"
+    },
+    {
+      "t": 139.41,
+      "end": 143.73,
+      "text": "原來你也留過六張"
+    },
+    {
+      "t": 146.87,
+      "end": 146.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.87,
+      "end": 150.79,
+      "text": "第七張稿紙 我不再重抄"
+    },
+    {
+      "t": 153.45,
+      "end": 170.0,
+      "text": "有你的墨漬 在我的背面"
+    },
+    {
+      "t": 181.54,
+      "end": 181.54,
+      "text": "[Outro - cello and harp, slow fade]"
+    },
+    {
+      "t": 181.54,
+      "end": 185.04,
+      "text": "一滴墨水 兩個人"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.32,
+      "end": 18.32,
+      "text": "[Intro - harp arpeggio, solo cello]"
+    },
+    {
+      "t": 18.32,
+      "end": 18.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.32,
+      "end": 21.32,
+      "text": "稿紙買了一整本"
+    },
+    {
+      "t": 23.56,
+      "end": 28.34,
+      "text": "格子排得像小小的窗"
+    },
+    {
+      "t": 30.62,
+      "end": 35.24,
+      "text": "每次寫到那兩個字"
+    },
+    {
+      "t": 37.82,
+      "end": 41.14,
+      "text": "墨水就滴成一朵烏雲"
+    },
+    {
+      "t": 41.16,
+      "end": 41.16,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.16,
+      "end": 42.58,
+      "text": "你住三樓最右邊"
+    },
+    {
+      "t": 42.62,
+      "end": 48.86,
+      "text": "我在樓下數了十次門牌"
+    },
+    {
+      "t": 48.86,
+      "end": 48.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.86,
+      "end": 52.17,
+      "text": "第七張稿紙 我不再重抄"
+    },
+    {
+      "t": 54.99,
+      "end": 59.81,
+      "text": "就算有墨漬 就算字很歪"
+    },
+    {
+      "t": 63.09,
+      "end": 64.57,
+      "text": "從你門縫塞進去"
+    },
+    {
+      "t": 64.57,
+      "end": 73.03,
+      "text": "讓你看見我最笨的樣子"
+    },
+    {
+      "t": 73.03,
+      "end": 73.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.03,
+      "end": 73.91,
+      "text": "清晨有人輕輕敲門"
+    },
+    {
+      "t": 73.93,
+      "end": 77.21,
+      "text": "你站在樓梯口沒有說話"
+    },
+    {
+      "t": 79.93,
+      "end": 82.75,
+      "text": "手裡也是一張稿紙"
+    },
+    {
+      "t": 83.83,
+      "end": 92.25,
+      "text": "背面也有一滴墨水花"
+    },
+    {
+      "t": 92.25,
+      "end": 92.25,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.25,
+      "end": 93.07,
+      "text": "你說你寫了六張"
+    },
+    {
+      "t": 93.07,
+      "end": 95.63,
+      "text": "都收在抽屜最裡面"
+    },
+    {
+      "t": 95.63,
+      "end": 95.63,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.63,
+      "end": 99.07,
+      "text": "第七張稿紙 我們不再重抄"
+    },
+    {
+      "t": 101.97,
+      "end": 109.65,
+      "text": "就算有墨漬 就算字很歪"
+    },
+    {
+      "t": 109.95,
+      "end": 112.29,
+      "text": "一人一張交換吧"
+    },
+    {
+      "t": 112.59,
+      "end": 116.75,
+      "text": "讓這兩滴墨水靠在一起"
+    },
+    {
+      "t": 132.77,
+      "end": 132.77,
+      "text": "[Bridge - strings alone, then harp]"
+    },
+    {
+      "t": 132.77,
+      "end": 136.43,
+      "text": "原來你也怕寫錯"
+    },
+    {
+      "t": 139.41,
+      "end": 143.73,
+      "text": "原來你也留過六張"
+    },
+    {
+      "t": 146.87,
+      "end": 146.87,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.87,
+      "end": 150.79,
+      "text": "第七張稿紙 我不再重抄"
+    },
+    {
+      "t": 153.45,
+      "end": 170.0,
+      "text": "有你的墨漬 在我的背面"
+    },
+    {
+      "t": 181.54,
+      "end": 181.54,
+      "text": "[Outro - cello and harp, slow fade]"
+    },
+    {
+      "t": 181.54,
+      "end": 185.04,
+      "text": "一滴墨水 兩個人"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 18.32,
+      "end": 18.32,
+      "text": "[Intro - harp arpeggio, solo cello]"
+    },
+    {
+      "t": 18.32,
+      "end": 18.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.32,
+      "end": 21.32,
+      "text": "稿紙買了一整本"
+    },
+    {
+      "t": 23.56,
+      "end": 28.34,
+      "text": "格子排得像小小的窗"
+    },
+    {
+      "t": 30.62,
+      "end": 35.24,
+      "text": "每次寫到那兩個字"
+    },
+    {
+      "t": 37.82,
+      "end": 41.72,
+      "text": "墨水就滴成一朵烏雲"
+    },
+    {
+      "t": 41.74,
+      "end": 41.74,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.74,
+      "end": 42.6,
+      "text": "你住三樓最右邊"
+    },
+    {
+      "t": 44.3,
+      "end": 48.84,
+      "text": "我在樓下數了十次門牌"
+    },
+    {
+      "t": 48.86,
+      "end": 48.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 48.86,
+      "end": 52.17,
+      "text": "第七張稿紙 我不再重抄"
+    },
+    {
+      "t": 55.01,
+      "end": 59.81,
+      "text": "就算有墨漬 就算字很歪"
+    },
+    {
+      "t": 63.09,
+      "end": 64.57,
+      "text": "從你門縫塞進去"
+    },
+    {
+      "t": 64.57,
+      "end": 73.03,
+      "text": "讓你看見我最笨的樣子"
+    },
+    {
+      "t": 73.03,
+      "end": 73.03,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 73.03,
+      "end": 73.91,
+      "text": "清晨有人輕輕敲門"
+    },
+    {
+      "t": 73.95,
+      "end": 77.19,
+      "text": "你站在樓梯口沒有說話"
+    },
+    {
+      "t": 79.93,
+      "end": 82.75,
+      "text": "手裡也是一張稿紙"
+    },
+    {
+      "t": 82.77,
+      "end": 84.15,
+      "text": "背面也有一滴墨水花"
+    },
+    {
+      "t": 84.41,
+      "end": 84.41,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 84.41,
+      "end": 87.33,
+      "text": "你說你寫了六張"
+    },
+    {
+      "t": 91.89,
+      "end": 92.65,
+      "text": "都收在抽屜最裡面"
+    },
+    {
+      "t": 92.71,
+      "end": 92.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.71,
+      "end": 99.47,
+      "text": "第七張稿紙 我們不再重抄"
+    },
+    {
+      "t": 101.97,
+      "end": 109.65,
+      "text": "就算有墨漬 就算字很歪"
+    },
+    {
+      "t": 109.93,
+      "end": 112.27,
+      "text": "一人一張交換吧"
+    },
+    {
+      "t": 112.59,
+      "end": 116.75,
+      "text": "讓這兩滴墨水靠在一起"
+    },
+    {
+      "t": 123.59,
+      "end": 123.59,
+      "text": "[Bridge - strings alone, then harp]"
+    },
+    {
+      "t": 123.59,
+      "end": 127.51,
+      "text": "原來你也怕寫錯"
+    },
+    {
+      "t": 132.77,
+      "end": 143.73,
+      "text": "原來你也留過六張"
+    },
+    {
+      "t": 146.89,
+      "end": 146.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.89,
+      "end": 150.77,
+      "text": "第七張稿紙 我不再重抄"
+    },
+    {
+      "t": 153.45,
+      "end": 166.7,
+      "text": "有你的墨漬 在我的背面"
+    },
+    {
+      "t": 181.52,
+      "end": 181.52,
+      "text": "[Outro - cello and harp, slow fade]"
+    },
+    {
+      "t": 181.52,
+      "end": 186.06,
+      "text": "一滴墨水 兩個人"
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "id": "b25_ja05",
+  "title": "ミョウガを買ってきて",
+  "title_source": "scripted",
+  "genre": "Japanese ukulele cafe folk-pop (bright glockenspiel and brushed snare)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "bright, sweet, playful",
+  "persona": "",
+  "subject": "a newlywed husband sent on his first Sunday errand to buy myoga at the shotengai greengrocer, who has no idea what it looks like",
+  "caption": "Japanese ukulele cafe folk-pop, bright and bouncy. Strummed ukulele on the offbeat, glockenspiel doubling the hook, acoustic upright bass, brushed snare with tambourine on the backbeat. Dry acoustic room sound, light plate reverb, close warm mix. Male tenor, soft and clear, friendly open delivery, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, C major. Bright, sweet, playful mood. No autotune, no trap drums, no electric guitar distortion, no EDM synths, no rapped delivery.",
+  "lyrics": "[Intro - ukulele strum and glockenspiel]\n[Verse 1]\n新婚三日目の 日曜の朝\nミョウガ買ってきて と頼まれた\n商店街の 八百屋の前\nミョウガはどれだ 立ちつくす\n[Pre-Chorus]\nネギじゃない 生姜じゃない\n紫の小さな 何かだ\n[Chorus]\n八百屋のおじさん 教えてよ\nミョウガの季節は 夏の終わり\nかごに入れたら ほら笑顔\n奥さんの待つ 家まで走る\n[Verse 2]\nおじさんは 袋に三つ詰めて\n奥さん 目が高いねと言って\n茄子も一本 おまけして\n秋はじめの 香りがした\n[Pre-Chorus]\n玄関で 袋を差し出したら\n正解よ と 笑われた\n[Chorus]\n八百屋のおじさん ありがとう\nミョウガの季節は 夏の終わり\nそうめんの上に ほら笑顔\n二人で食べる 日曜の昼\n[Bridge - ukulele and glockenspiel]\n来年も 買いに行くよ\n今度は 迷わずに\n[Chorus]\n八百屋のおじさん また来るよ\nミョウガの季節は 夏の終わり\nかごに入れたら ほら笑顔\n奥さんの待つ 家まで歩く\n[Outro - ukulele and glockenspiel end]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Japanese ukulele cafe folk-pop, bright and bouncy. Strummed ukulele on the offbeat, glockenspiel doubling the hook, acoustic upright bass, brushed snare with tambourine on the backbeat. Dry acoustic room sound, light plate reverb, close warm mix. Male tenor, soft and clear, friendly open delivery, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, C major. Bright, sweet, playful mood. No autotune, no trap drums, no electric guitar distortion, no EDM synths, no rapped delivery.",
+    "lyrics": "[Intro - ukulele strum and glockenspiel]\n[Verse 1]\n新婚三日目の 日曜の朝\nミョウガ買ってきて と頼まれた\n商店街の 八百屋の前\nミョウガはどれだ 立ちつくす\n[Pre-Chorus]\nネギじゃない 生姜じゃない\n紫の小さな 何かだ\n[Chorus]\n八百屋のおじさん 教えてよ\nミョウガの季節は 夏の終わり\nかごに入れたら ほら笑顔\n奥さんの待つ 家まで走る\n[Verse 2]\nおじさんは 袋に三つ詰めて\n奥さん 目が高いねと言って\n茄子も一本 おまけして\n秋はじめの 香りがした\n[Pre-Chorus]\n玄関で 袋を差し出したら\n正解よ と 笑われた\n[Chorus]\n八百屋のおじさん ありがとう\nミョウガの季節は 夏の終わり\nそうめんの上に ほら笑顔\n二人で食べる 日曜の昼\n[Bridge - ukulele and glockenspiel]\n来年も 買いに行くよ\n今度は 迷わずに\n[Chorus]\n八百屋のおじさん また来るよ\nミョウガの季節は 夏の終わり\nかごに入れたら ほら笑顔\n奥さんの待つ 家まで歩く\n[Outro - ukulele and glockenspiel end]"
+  },
+  "seed": "3678321786",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.83s**\n- 56.83s per song\n- LM phase (1 song): 16.85s\n- DiT phase (1 song): 39.98s",
+  "task_id": "2d97051b-c73d-43f3-8b67-75151e0c1786",
+  "elapsed_s": 80.7,
+  "generated_at": "2026-11-26T11:23:34.566067+08:00",
+  "audio": "b25_ja05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 2.6,
+      "end": 2.6,
+      "text": "[Intro - ukulele strum and glockenspiel]"
+    },
+    {
+      "t": 2.6,
+      "end": 2.6,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 2.6,
+      "end": 25.56,
+      "text": "新婚三日目の 日曜の朝"
+    },
+    {
+      "t": 25.66,
+      "end": 32.72,
+      "text": "ミョウガ買ってきて と頼まれた"
+    },
+    {
+      "t": 32.72,
+      "end": 35.6,
+      "text": "商店街の 八百屋の前"
+    },
+    {
+      "t": 35.6,
+      "end": 37.0,
+      "text": "ミョウガはどれだ 立ちつくす"
+    },
+    {
+      "t": 37.1,
+      "end": 37.1,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.1,
+      "end": 39.02,
+      "text": "ネギじゃない 生姜じゃない"
+    },
+    {
+      "t": 39.06,
+      "end": 42.88,
+      "text": "紫の小さな 何かだ"
+    },
+    {
+      "t": 42.9,
+      "end": 42.9,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.9,
+      "end": 45.32,
+      "text": "八百屋のおじさん 教えてよ"
+    },
+    {
+      "t": 45.48,
+      "end": 48.45,
+      "text": "ミョウガの季節は 夏の終わり"
+    },
+    {
+      "t": 49.05,
+      "end": 54.65,
+      "text": "かごに入れたら ほら笑顔"
+    },
+    {
+      "t": 54.69,
+      "end": 58.71,
+      "text": "奥さんの待つ 家まで走る"
+    },
+    {
+      "t": 62.43,
+      "end": 62.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.43,
+      "end": 67.49,
+      "text": "おじさんは 袋に三つ詰めて"
+    },
+    {
+      "t": 68.01,
+      "end": 74.13,
+      "text": "奥さん 目が高いねと言って"
+    },
+    {
+      "t": 74.19,
+      "end": 78.89,
+      "text": "茄子も一本 おまけして"
+    },
+    {
+      "t": 79.73,
+      "end": 83.19,
+      "text": "秋はじめの 香りがした"
+    },
+    {
+      "t": 85.19,
+      "end": 85.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 85.19,
+      "end": 89.15,
+      "text": "玄関で 袋を差し出したら"
+    },
+    {
+      "t": 91.81,
+      "end": 96.75,
+      "text": "正解よ と 笑われた"
+    },
+    {
+      "t": 98.03,
+      "end": 98.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 98.03,
+      "end": 100.93,
+      "text": "八百屋のおじさん ありがとう"
+    },
+    {
+      "t": 100.93,
+      "end": 104.13,
+      "text": "ミョウガの季節は 夏の終わり"
+    },
+    {
+      "t": 107.55,
+      "end": 111.53,
+      "text": "そうめんの上に ほら笑顔"
+    },
+    {
+      "t": 111.69,
+      "end": 116.05,
+      "text": "二人で食べる 日曜の昼"
+    },
+    {
+      "t": 123.75,
+      "end": 123.75,
+      "text": "[Bridge - ukulele and glockenspiel]"
+    },
+    {
+      "t": 123.75,
+      "end": 129.35,
+      "text": "来年も 買いに行くよ"
+    },
+    {
+      "t": 131.33,
+      "end": 136.95,
+      "text": "今度は 迷わずに"
+    },
+    {
+      "t": 140.29,
+      "end": 140.29,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.29,
+      "end": 144.58,
+      "text": "八百屋のおじさん また来るよ"
+    },
+    {
+      "t": 150.36,
+      "end": 159.3,
+      "text": "ミョウガの季節は 夏の終わり"
+    },
+    {
+      "t": 161.76,
+      "end": 166.3,
+      "text": "かごに入れたら ほら笑顔"
+    },
+    {
+      "t": 166.32,
+      "end": 169.5,
+      "text": "奥さんの待つ 家まで歩く"
+    },
+    {
+      "t": 169.5,
+      "end": 169.5,
+      "text": "[Outro - ukulele and glockenspiel end]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Intro - ukulele strum and glockenspiel]"
+    },
+    {
+      "t": 23.58,
+      "end": 23.58,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 23.58,
+      "end": 32.16,
+      "text": "新婚三日目の 日曜の朝"
+    },
+    {
+      "t": 32.2,
+      "end": 35.48,
+      "text": "ミョウガ買ってきて と頼まれた"
+    },
+    {
+      "t": 35.48,
+      "end": 36.2,
+      "text": "商店街の 八百屋の前"
+    },
+    {
+      "t": 36.2,
+      "end": 37.0,
+      "text": "ミョウガはどれだ 立ちつくす"
+    },
+    {
+      "t": 37.12,
+      "end": 37.12,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.12,
+      "end": 39.02,
+      "text": "ネギじゃない 生姜じゃない"
+    },
+    {
+      "t": 39.06,
+      "end": 42.88,
+      "text": "紫の小さな 何かだ"
+    },
+    {
+      "t": 42.92,
+      "end": 42.92,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.92,
+      "end": 45.32,
+      "text": "八百屋のおじさん 教えてよ"
+    },
+    {
+      "t": 45.32,
+      "end": 48.45,
+      "text": "ミョウガの季節は 夏の終わり"
+    },
+    {
+      "t": 49.05,
+      "end": 54.63,
+      "text": "かごに入れたら ほら笑顔"
+    },
+    {
+      "t": 54.69,
+      "end": 58.73,
+      "text": "奥さんの待つ 家まで走る"
+    },
+    {
+      "t": 62.41,
+      "end": 62.41,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.41,
+      "end": 67.51,
+      "text": "おじさんは 袋に三つ詰めて"
+    },
+    {
+      "t": 69.75,
+      "end": 74.15,
+      "text": "奥さん 目が高いねと言って"
+    },
+    {
+      "t": 74.47,
+      "end": 78.89,
+      "text": "茄子も一本 おまけして"
+    },
+    {
+      "t": 79.73,
+      "end": 83.17,
+      "text": "秋はじめの 香りがした"
+    },
+    {
+      "t": 85.19,
+      "end": 85.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 85.19,
+      "end": 89.15,
+      "text": "玄関で 袋を差し出したら"
+    },
+    {
+      "t": 91.83,
+      "end": 96.75,
+      "text": "正解よ と 笑われた"
+    },
+    {
+      "t": 100.41,
+      "end": 100.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.41,
+      "end": 101.91,
+      "text": "八百屋のおじさん ありがとう"
+    },
+    {
+      "t": 101.91,
+      "end": 104.13,
+      "text": "ミョウガの季節は 夏の終わり"
+    },
+    {
+      "t": 107.53,
+      "end": 111.83,
+      "text": "そうめんの上に ほら笑顔"
+    },
+    {
+      "t": 111.91,
+      "end": 116.05,
+      "text": "二人で食べる 日曜の昼"
+    },
+    {
+      "t": 123.75,
+      "end": 123.75,
+      "text": "[Bridge - ukulele and glockenspiel]"
+    },
+    {
+      "t": 123.75,
+      "end": 129.35,
+      "text": "来年も 買いに行くよ"
+    },
+    {
+      "t": 131.33,
+      "end": 136.95,
+      "text": "今度は 迷わずに"
+    },
+    {
+      "t": 137.11,
+      "end": 137.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 137.11,
+      "end": 144.58,
+      "text": "八百屋のおじさん また来るよ"
+    },
+    {
+      "t": 148.0,
+      "end": 159.56,
+      "text": "ミョウガの季節は 夏の終わり"
+    },
+    {
+      "t": 161.76,
+      "end": 166.16,
+      "text": "かごに入れたら ほら笑顔"
+    },
+    {
+      "t": 166.32,
+      "end": 169.5,
+      "text": "奥さんの待つ 家まで歩く"
+    },
+    {
+      "t": 169.5,
+      "end": 169.5,
+      "text": "[Outro - ukulele and glockenspiel end]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

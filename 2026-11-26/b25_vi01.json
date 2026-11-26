@@ -1,0 +1,337 @@
+{
+  "id": "b25_vi01",
+  "title": "Đinh Trong Lốp",
+  "title_source": "scripted",
+  "genre": "Vietnamese nhạc sến slow rock with Hammond organ",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "tender, wry, slow-dancing",
+  "persona": "",
+  "subject": "a young sidewalk motorbike repairman under a tamarind tree and a woman who keeps wheeling in flat tyres, until the day her tyre is fine and she comes anyway",
+  "caption": "Vietnamese nhạc sến slow rock, 1970s Saigon slow-dance sound. Hammond organ with slow Leslie swell, clean electric guitar with spring-reverb tremolo playing sixths, fretless bass, brushed drums on a lazy 12/8 feel, a small string section on the chorus. Warm tape-saturated studio texture. Male warm mid baritone, sung with plain sincerity. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, A minor. Tender, wry slow-dance mood. No electronic drums, no autotune, no trap hi-hats, no rap, no modern pop gloss.",
+  "lyrics": "[Intro - Hammond organ and tremolo guitar]\n\n[Verse 1]\nGốc me đầu hẻm, anh ngồi vá xe\nEm dắt xe tới, lần thứ ba tuần này\nAnh nhúng ruột xe vào chậu nước đen\nBọt khí nổi lên, anh biết đinh ở đâu\n\n[Pre-Chorus]\nSao cái đinh nào cũng biết đường\nTìm đúng bánh xe của em vậy\n\n[Chorus]\nĐinh ơi đinh ơi, cảm ơn đinh nhé\nNhờ có mày mà em ghé đây hoài\nAnh vá, em ngồi trên ghế nhựa đỏ\nHai mươi phút ngắn hơn một bản nhạc\n\n[Verse 2]\nHôm nay bánh em căng tròn như trống\nEm đứng trước anh, chưa biết nói sao\nAnh lau tay vào chiếc khăn rằn cũ\nHỏi nhỏ em rằng, có đinh nào cần nhổ\n\n[Chorus]\nĐinh ơi đinh ơi, hôm nay không có\nEm tới đây vì muốn ngồi ghế đỏ\nAnh vá, em ngồi, không ai phải vội\nHai mươi phút nữa, mình thêm hai mươi\n\n[Bridge - guitar alone, organ sustains]\nAnh cất cây đinh trong hộp thiếc\nEm giữ cái ghế nhựa cho riêng mình\n\n[Outro - organ fades with tremolo guitar]\nGốc me đầu hẻm, ghế đỏ còn đây\nAnh vá xe hoài, em ghé hoài thôi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese nhạc sến slow rock, 1970s Saigon slow-dance sound. Hammond organ with slow Leslie swell, clean electric guitar with spring-reverb tremolo playing sixths, fretless bass, brushed drums on a lazy 12/8 feel, a small string section on the chorus. Warm tape-saturated studio texture. Male warm mid baritone, sung with plain sincerity. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, A minor. Tender, wry slow-dance mood. No electronic drums, no autotune, no trap hi-hats, no rap, no modern pop gloss.",
+    "lyrics": "[Intro - Hammond organ and tremolo guitar]\n\n[Verse 1]\nGốc me đầu hẻm, anh ngồi vá xe\nEm dắt xe tới, lần thứ ba tuần này\nAnh nhúng ruột xe vào chậu nước đen\nBọt khí nổi lên, anh biết đinh ở đâu\n\n[Pre-Chorus]\nSao cái đinh nào cũng biết đường\nTìm đúng bánh xe của em vậy\n\n[Chorus]\nĐinh ơi đinh ơi, cảm ơn đinh nhé\nNhờ có mày mà em ghé đây hoài\nAnh vá, em ngồi trên ghế nhựa đỏ\nHai mươi phút ngắn hơn một bản nhạc\n\n[Verse 2]\nHôm nay bánh em căng tròn như trống\nEm đứng trước anh, chưa biết nói sao\nAnh lau tay vào chiếc khăn rằn cũ\nHỏi nhỏ em rằng, có đinh nào cần nhổ\n\n[Chorus]\nĐinh ơi đinh ơi, hôm nay không có\nEm tới đây vì muốn ngồi ghế đỏ\nAnh vá, em ngồi, không ai phải vội\nHai mươi phút nữa, mình thêm hai mươi\n\n[Bridge - guitar alone, organ sustains]\nAnh cất cây đinh trong hộp thiếc\nEm giữ cái ghế nhựa cho riêng mình\n\n[Outro - organ fades with tremolo guitar]\nGốc me đầu hẻm, ghế đỏ còn đây\nAnh vá xe hoài, em ghé hoài thôi\n"
+  },
+  "seed": "133320958",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.85s**\n- 62.85s per song\n- LM phase (1 song): 11.75s\n- DiT phase (1 song): 51.10s",
+  "task_id": "cc1468fb-7fcf-4527-919d-35ff3c8915eb",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-26T10:49:28.897095+08:00",
+  "audio": "b25_vi01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 39.9,
+      "end": 39.9,
+      "text": "[Intro - Hammond organ and tremolo guitar]"
+    },
+    {
+      "t": 39.9,
+      "end": 39.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.9,
+      "end": 44.18,
+      "text": "Gốc me đầu hẻm, anh ngồi vá xe"
+    },
+    {
+      "t": 46.56,
+      "end": 50.88,
+      "text": "Em dắt xe tới, lần thứ ba tuần này"
+    },
+    {
+      "t": 54.63,
+      "end": 57.83,
+      "text": "Anh nhúng ruột xe vào chậu nước đen"
+    },
+    {
+      "t": 57.99,
+      "end": 65.75,
+      "text": "Bọt khí nổi lên, anh biết đinh ở đâu"
+    },
+    {
+      "t": 65.75,
+      "end": 65.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 65.75,
+      "end": 69.57,
+      "text": "Sao cái đinh nào cũng biết đường"
+    },
+    {
+      "t": 72.49,
+      "end": 77.05,
+      "text": "Tìm đúng bánh xe của em vậy"
+    },
+    {
+      "t": 77.05,
+      "end": 77.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 77.05,
+      "end": 77.93,
+      "text": "Đinh ơi đinh ơi, cảm ơn đinh nhé"
+    },
+    {
+      "t": 77.93,
+      "end": 82.65,
+      "text": "Nhờ có mày mà em ghé đây hoài"
+    },
+    {
+      "t": 82.65,
+      "end": 85.53,
+      "text": "Anh vá, em ngồi trên ghế nhựa đỏ"
+    },
+    {
+      "t": 86.59,
+      "end": 93.15,
+      "text": "Hai mươi phút ngắn hơn một bản nhạc"
+    },
+    {
+      "t": 96.17,
+      "end": 96.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.17,
+      "end": 99.91,
+      "text": "Hôm nay bánh em căng tròn như trống"
+    },
+    {
+      "t": 99.91,
+      "end": 102.59,
+      "text": "Em đứng trước anh, chưa biết nói sao"
+    },
+    {
+      "t": 102.59,
+      "end": 106.13,
+      "text": "Anh lau tay vào chiếc khăn rằn cũ"
+    },
+    {
+      "t": 108.71,
+      "end": 113.03,
+      "text": "Hỏi nhỏ em rằng, có đinh nào cần nhổ"
+    },
+    {
+      "t": 115.49,
+      "end": 115.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.49,
+      "end": 119.75,
+      "text": "Đinh ơi đinh ơi, hôm nay không có"
+    },
+    {
+      "t": 122.13,
+      "end": 125.85,
+      "text": "Em tới đây vì muốn ngồi ghế đỏ"
+    },
+    {
+      "t": 125.89,
+      "end": 134.05,
+      "text": "Anh vá, em ngồi, không ai phải vội"
+    },
+    {
+      "t": 139.33,
+      "end": 150.21,
+      "text": "Hai mươi phút nữa, mình thêm hai mươi"
+    },
+    {
+      "t": 158.84,
+      "end": 158.84,
+      "text": "[Bridge - guitar alone, organ sustains]"
+    },
+    {
+      "t": 158.84,
+      "end": 161.14,
+      "text": "Anh cất cây đinh trong hộp thiếc"
+    },
+    {
+      "t": 164.64,
+      "end": 169.04,
+      "text": "Em giữ cái ghế nhựa cho riêng mình"
+    },
+    {
+      "t": 180.48,
+      "end": 180.48,
+      "text": "[Outro - organ fades with tremolo guitar]"
+    },
+    {
+      "t": 180.48,
+      "end": 187.04,
+      "text": "Gốc me đầu hẻm, ghế đỏ còn đây"
+    },
+    {
+      "t": 187.1,
+      "end": 196.68,
+      "text": "Anh vá xe hoài, em ghé hoài thôi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 39.9,
+      "end": 39.9,
+      "text": "[Intro - Hammond organ and tremolo guitar]"
+    },
+    {
+      "t": 39.9,
+      "end": 39.9,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 39.9,
+      "end": 44.18,
+      "text": "Gốc me đầu hẻm, anh ngồi vá xe"
+    },
+    {
+      "t": 46.56,
+      "end": 50.86,
+      "text": "Em dắt xe tới, lần thứ ba tuần này"
+    },
+    {
+      "t": 54.63,
+      "end": 55.75,
+      "text": "Anh nhúng ruột xe vào chậu nước đen"
+    },
+    {
+      "t": 55.77,
+      "end": 58.73,
+      "text": "Bọt khí nổi lên, anh biết đinh ở đâu"
+    },
+    {
+      "t": 58.73,
+      "end": 58.73,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 58.73,
+      "end": 63.47,
+      "text": "Sao cái đinh nào cũng biết đường"
+    },
+    {
+      "t": 63.47,
+      "end": 66.27,
+      "text": "Tìm đúng bánh xe của em vậy"
+    },
+    {
+      "t": 66.33,
+      "end": 66.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 66.33,
+      "end": 69.73,
+      "text": "Đinh ơi đinh ơi, cảm ơn đinh nhé"
+    },
+    {
+      "t": 70.87,
+      "end": 77.23,
+      "text": "Nhờ có mày mà em ghé đây hoài"
+    },
+    {
+      "t": 82.53,
+      "end": 85.53,
+      "text": "Anh vá, em ngồi trên ghế nhựa đỏ"
+    },
+    {
+      "t": 86.61,
+      "end": 93.15,
+      "text": "Hai mươi phút ngắn hơn một bản nhạc"
+    },
+    {
+      "t": 96.17,
+      "end": 96.17,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.17,
+      "end": 99.89,
+      "text": "Hôm nay bánh em căng tròn như trống"
+    },
+    {
+      "t": 99.89,
+      "end": 102.59,
+      "text": "Em đứng trước anh, chưa biết nói sao"
+    },
+    {
+      "t": 102.59,
+      "end": 106.13,
+      "text": "Anh lau tay vào chiếc khăn rằn cũ"
+    },
+    {
+      "t": 108.71,
+      "end": 113.05,
+      "text": "Hỏi nhỏ em rằng, có đinh nào cần nhổ"
+    },
+    {
+      "t": 115.47,
+      "end": 115.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 115.47,
+      "end": 119.75,
+      "text": "Đinh ơi đinh ơi, hôm nay không có"
+    },
+    {
+      "t": 122.13,
+      "end": 124.65,
+      "text": "Em tới đây vì muốn ngồi ghế đỏ"
+    },
+    {
+      "t": 124.73,
+      "end": 126.89,
+      "text": "Anh vá, em ngồi, không ai phải vội"
+    },
+    {
+      "t": 128.65,
+      "end": 134.05,
+      "text": "Hai mươi phút nữa, mình thêm hai mươi"
+    },
+    {
+      "t": 139.15,
+      "end": 139.15,
+      "text": "[Bridge - guitar alone, organ sustains]"
+    },
+    {
+      "t": 139.15,
+      "end": 141.97,
+      "text": "Anh cất cây đinh trong hộp thiếc"
+    },
+    {
+      "t": 145.49,
+      "end": 158.98,
+      "text": "Em giữ cái ghế nhựa cho riêng mình"
+    },
+    {
+      "t": 159.1,
+      "end": 159.1,
+      "text": "[Outro - organ fades with tremolo guitar]"
+    },
+    {
+      "t": 159.1,
+      "end": 169.0,
+      "text": "Gốc me đầu hẻm, ghế đỏ còn đây"
+    },
+    {
+      "t": 187.1,
+      "end": 196.3,
+      "text": "Anh vá xe hoài, em ghé hoài thôi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

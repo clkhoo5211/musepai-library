@@ -1,0 +1,387 @@
+{
+  "id": "b25_en03",
+  "title": "Monday After Closing",
+  "title_source": "scripted",
+  "genre": "Dunedin-sound jangle-pop (New Zealand lo-fi 1980s lineage)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "bright, wistful, hand-clapped",
+  "persona": "",
+  "subject": "a woman who winds the eleven antique clocks in a small city museum every Monday after closing, and the one clock she leaves stopped at ten past four on purpose",
+  "caption": "Dunedin-sound jangle-pop, New Zealand 1980s lo-fi lineage. Two jangling twelve-string-style electric guitars in bright open chords, trebly melodic bass, shuffling snare-and-tom drums, tambourine and a short organ drone in the chorus. Four-track room sound with light tape hiss, unpolished and close. Female lead, plain light alto, slightly ragged but clearly sung, a friend doubling the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, D major. Bright, wistful mood. No synth, no autotune, no big reverb wash, no distorted fuzz, no drum machine.",
+  "lyrics": "[Intro - jangling guitars, tambourine]\n\n[Verse 1]\nMonday after the doors are locked\nI take the keys and I take the stairs\nEleven clocks in the Long Gallery\nTen brass keys on a loop of string\n\n[Pre-Chorus]\nOne by one I turn them round\nListen for the tick to settle down\n\n[Chorus]\nTen past four, ten past four\nThat one I never wind\nAll the others keep on going\nThat one stays behind\n\n[Verse 2]\nThe guard goes home at half past six\nThe radiator knocks and ticks\nThe oak one always strikes too late\nThe tall one swears it's half past eight\n\n[Chorus]\nTen past four, ten past four\nThat one I never wind\nAll the others keep on going\nThat one stays behind\n\n[Bridge - guitars drop to a single strum]\nThe curator asked me to fix it\nThat was three years of Mondays ago\n\n[Chorus]\nTen past four, ten past four\nThat one I never wind\nEverybody's racing round the room\nIt's the one that stays behind\n\n[Outro - jangle fade, tambourine]\nTen past four, ten past four\nLock the door, I'll be back next Monday",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 138,
+    "duration": 175.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Dunedin-sound jangle-pop, New Zealand 1980s lo-fi lineage. Two jangling twelve-string-style electric guitars in bright open chords, trebly melodic bass, shuffling snare-and-tom drums, tambourine and a short organ drone in the chorus. Four-track room sound with light tape hiss, unpolished and close. Female lead, plain light alto, slightly ragged but clearly sung, a friend doubling the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 138 BPM, D major. Bright, wistful mood. No synth, no autotune, no big reverb wash, no distorted fuzz, no drum machine.",
+    "lyrics": "[Intro - jangling guitars, tambourine]\n\n[Verse 1]\nMonday after the doors are locked\nI take the keys and I take the stairs\nEleven clocks in the Long Gallery\nTen brass keys on a loop of string\n\n[Pre-Chorus]\nOne by one I turn them round\nListen for the tick to settle down\n\n[Chorus]\nTen past four, ten past four\nThat one I never wind\nAll the others keep on going\nThat one stays behind\n\n[Verse 2]\nThe guard goes home at half past six\nThe radiator knocks and ticks\nThe oak one always strikes too late\nThe tall one swears it's half past eight\n\n[Chorus]\nTen past four, ten past four\nThat one I never wind\nAll the others keep on going\nThat one stays behind\n\n[Bridge - guitars drop to a single strum]\nThe curator asked me to fix it\nThat was three years of Mondays ago\n\n[Chorus]\nTen past four, ten past four\nThat one I never wind\nEverybody's racing round the room\nIt's the one that stays behind\n\n[Outro - jangle fade, tambourine]\nTen past four, ten past four\nLock the door, I'll be back next Monday"
+  },
+  "seed": "684197088",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.06s**\n- 52.06s per song\n- LM phase (1 song): 10.13s\n- DiT phase (1 song): 41.93s",
+  "task_id": "5ed4e3d0-e064-4fe1-8143-87dfd75d7175",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-26T11:06:30.940628+08:00",
+  "audio": "b25_en03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 18.26,
+      "end": 18.26,
+      "text": "[Intro - jangling guitars, tambourine]"
+    },
+    {
+      "t": 18.26,
+      "end": 18.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.26,
+      "end": 21.22,
+      "text": "Monday after the doors are locked"
+    },
+    {
+      "t": 21.52,
+      "end": 30.16,
+      "text": "I take the keys and I take the stairs"
+    },
+    {
+      "t": 32.02,
+      "end": 34.9,
+      "text": "Eleven clocks in the Long Gallery"
+    },
+    {
+      "t": 35.6,
+      "end": 39.96,
+      "text": "Ten brass keys on a loop of string"
+    },
+    {
+      "t": 39.96,
+      "end": 39.96,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 39.96,
+      "end": 43.38,
+      "text": "One by one I turn them round"
+    },
+    {
+      "t": 43.38,
+      "end": 50.35,
+      "text": "Listen for the tick to settle down"
+    },
+    {
+      "t": 50.37,
+      "end": 50.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.37,
+      "end": 51.41,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 51.41,
+      "end": 52.45,
+      "text": "That one I never wind"
+    },
+    {
+      "t": 55.49,
+      "end": 58.73,
+      "text": "All the others keep on going"
+    },
+    {
+      "t": 59.55,
+      "end": 62.09,
+      "text": "That one stays behind"
+    },
+    {
+      "t": 62.15,
+      "end": 62.15,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 62.15,
+      "end": 66.03,
+      "text": "The guard goes home at half past six"
+    },
+    {
+      "t": 66.03,
+      "end": 72.61,
+      "text": "The radiator knocks and ticks"
+    },
+    {
+      "t": 72.61,
+      "end": 75.65,
+      "text": "The oak one always strikes too late"
+    },
+    {
+      "t": 75.65,
+      "end": 79.17,
+      "text": "The tall one swears it's half past eight"
+    },
+    {
+      "t": 79.19,
+      "end": 79.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 79.19,
+      "end": 79.73,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 79.73,
+      "end": 81.21,
+      "text": "That one I never wind"
+    },
+    {
+      "t": 82.79,
+      "end": 85.85,
+      "text": "All the others keep on going"
+    },
+    {
+      "t": 86.63,
+      "end": 88.95,
+      "text": "That one stays behind"
+    },
+    {
+      "t": 103.41,
+      "end": 103.41,
+      "text": "[Bridge - guitars drop to a single strum]"
+    },
+    {
+      "t": 103.41,
+      "end": 107.03,
+      "text": "The curator asked me to fix it"
+    },
+    {
+      "t": 110.97,
+      "end": 113.69,
+      "text": "That was three years of Mondays ago"
+    },
+    {
+      "t": 118.03,
+      "end": 118.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.03,
+      "end": 120.79,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 120.79,
+      "end": 125.39,
+      "text": "That one I never wind"
+    },
+    {
+      "t": 125.41,
+      "end": 128.61,
+      "text": "Everybody's racing round the room"
+    },
+    {
+      "t": 128.67,
+      "end": 131.19,
+      "text": "It's the one that stays behind"
+    },
+    {
+      "t": 139.6,
+      "end": 139.6,
+      "text": "[Outro - jangle fade, tambourine]"
+    },
+    {
+      "t": 139.6,
+      "end": 151.66,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 151.66,
+      "end": 155.98,
+      "text": "Lock the door, I'll be back next Monday"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 18.28,
+      "end": 18.28,
+      "text": "[Intro - jangling guitars, tambourine]"
+    },
+    {
+      "t": 18.28,
+      "end": 18.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 18.28,
+      "end": 21.22,
+      "text": "Monday after the doors are locked"
+    },
+    {
+      "t": 21.5,
+      "end": 26.46,
+      "text": "I take the keys and I take the stairs"
+    },
+    {
+      "t": 32.02,
+      "end": 34.9,
+      "text": "Eleven clocks in the Long Gallery"
+    },
+    {
+      "t": 35.6,
+      "end": 38.54,
+      "text": "Ten brass keys on a loop of string"
+    },
+    {
+      "t": 38.58,
+      "end": 38.58,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 38.58,
+      "end": 39.52,
+      "text": "One by one I turn them round"
+    },
+    {
+      "t": 39.52,
+      "end": 42.74,
+      "text": "Listen for the tick to settle down"
+    },
+    {
+      "t": 42.74,
+      "end": 42.74,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.74,
+      "end": 45.47,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 45.47,
+      "end": 49.29,
+      "text": "That one I never wind"
+    },
+    {
+      "t": 49.33,
+      "end": 50.81,
+      "text": "All the others keep on going"
+    },
+    {
+      "t": 50.81,
+      "end": 51.37,
+      "text": "That one stays behind"
+    },
+    {
+      "t": 51.37,
+      "end": 51.37,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 51.37,
+      "end": 56.07,
+      "text": "The guard goes home at half past six"
+    },
+    {
+      "t": 56.51,
+      "end": 57.35,
+      "text": "The radiator knocks and ticks"
+    },
+    {
+      "t": 57.35,
+      "end": 59.53,
+      "text": "The oak one always strikes too late"
+    },
+    {
+      "t": 59.53,
+      "end": 64.13,
+      "text": "The tall one swears it's half past eight"
+    },
+    {
+      "t": 64.61,
+      "end": 64.61,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 64.61,
+      "end": 76.75,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 78.83,
+      "end": 79.75,
+      "text": "That one I never wind"
+    },
+    {
+      "t": 82.79,
+      "end": 85.89,
+      "text": "All the others keep on going"
+    },
+    {
+      "t": 86.63,
+      "end": 88.99,
+      "text": "That one stays behind"
+    },
+    {
+      "t": 88.99,
+      "end": 88.99,
+      "text": "[Bridge - guitars drop to a single strum]"
+    },
+    {
+      "t": 88.99,
+      "end": 107.13,
+      "text": "The curator asked me to fix it"
+    },
+    {
+      "t": 110.97,
+      "end": 113.69,
+      "text": "That was three years of Mondays ago"
+    },
+    {
+      "t": 118.03,
+      "end": 118.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 118.03,
+      "end": 120.99,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 120.99,
+      "end": 125.01,
+      "text": "That one I never wind"
+    },
+    {
+      "t": 125.09,
+      "end": 129.51,
+      "text": "Everybody's racing round the room"
+    },
+    {
+      "t": 129.57,
+      "end": 144.44,
+      "text": "It's the one that stays behind"
+    },
+    {
+      "t": 145.66,
+      "end": 145.66,
+      "text": "[Outro - jangle fade, tambourine]"
+    },
+    {
+      "t": 145.66,
+      "end": 151.72,
+      "text": "Ten past four, ten past four"
+    },
+    {
+      "t": 151.72,
+      "end": 155.96,
+      "text": "Lock the door, I'll be back next Monday"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,387 @@
+{
+  "id": "b25_ja02",
+  "title": "五時のたこ焼き",
+  "title_source": "scripted",
+  "genre": "Japanese 70s-flavored progressive rock in odd meters (7/8 band song with mellotron)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "tense, tender, hopeful",
+  "persona": "",
+  "subject": "after the school festival closes at five, the boy who ran the takoyaki grill hides the last pack under the lid and tries to hand it to the girl who tore 380 tickets alone at the entrance",
+  "caption": "Japanese progressive rock, 70s-flavored band song in 7/8 with long instrumental passages. Mellotron strings and flute tones, clean electric guitar playing a repeating 7/8 riff with delay, fretless bass melodic counter-lines, live drum kit with tom fills. Live band room sound, analog tape warmth, wide stereo image. Male tenor, light and clear, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, E minor. Tense and tender mood. No autotune, no trap drums, no synth-pop leads, no EDM drops, no rapped delivery.",
+  "lyrics": "[Intro - mellotron and 7/8 guitar riff]\n[Verse 1]\n文化祭は 五時で終わった\nたこ焼きの屋台は 全部売り切れ\n鉄板のふたの 下にだけ\n最後の一パックが 隠れてる\n[Pre-Chorus]\n受付で 券をちぎってた子は\nまだ机を 片づけてる\n[Chorus]\n冷めないうちに 渡したいのに\n手のひらだけが 汗をかく\n七つ数える 足音のたび\nふたを開けては 閉じてる\n[Verse 2]\n三百八十枚の 入場券を\nきみは 一人でちぎってた\nぼくはソースを 焦がしながら\nその手ばかり 見てたんだ\n[Pre-Chorus]\n廊下の端で 椅子を引く音\nきみが こっちを向いた\n[Chorus]\n冷めないうちに 渡せたらいい\n今度は足が 先に出る\n七つ数えて 声を出す\n最後の一個 きみの分\n[Bridge - guitar and mellotron interplay]\n青のりが 歯につくよと\n笑われても いいから\n[Chorus]\n冷めたたこ焼き ふたりで分けた\nソースの匂いの 帰り道\n七つ数えず 歩きだす\n[Outro - 7/8 riff slowly unwinds]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 132,
+    "duration": 225.0,
+    "genres": "N/A",
+    "keyscale": "E minor",
+    "timesignature": "4",
+    "prompt": "Japanese progressive rock, 70s-flavored band song in 7/8 with long instrumental passages. Mellotron strings and flute tones, clean electric guitar playing a repeating 7/8 riff with delay, fretless bass melodic counter-lines, live drum kit with tom fills. Live band room sound, analog tape warmth, wide stereo image. Male tenor, light and clear, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 132 BPM, E minor. Tense and tender mood. No autotune, no trap drums, no synth-pop leads, no EDM drops, no rapped delivery.",
+    "lyrics": "[Intro - mellotron and 7/8 guitar riff]\n[Verse 1]\n文化祭は 五時で終わった\nたこ焼きの屋台は 全部売り切れ\n鉄板のふたの 下にだけ\n最後の一パックが 隠れてる\n[Pre-Chorus]\n受付で 券をちぎってた子は\nまだ机を 片づけてる\n[Chorus]\n冷めないうちに 渡したいのに\n手のひらだけが 汗をかく\n七つ数える 足音のたび\nふたを開けては 閉じてる\n[Verse 2]\n三百八十枚の 入場券を\nきみは 一人でちぎってた\nぼくはソースを 焦がしながら\nその手ばかり 見てたんだ\n[Pre-Chorus]\n廊下の端で 椅子を引く音\nきみが こっちを向いた\n[Chorus]\n冷めないうちに 渡せたらいい\n今度は足が 先に出る\n七つ数えて 声を出す\n最後の一個 きみの分\n[Bridge - guitar and mellotron interplay]\n青のりが 歯につくよと\n笑われても いいから\n[Chorus]\n冷めたたこ焼き ふたりで分けた\nソースの匂いの 帰り道\n七つ数えず 歩きだす\n[Outro - 7/8 riff slowly unwinds]"
+  },
+  "seed": "747131381",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.63s**\n- 65.63s per song\n- LM phase (1 song): 15.66s\n- DiT phase (1 song): 49.97s",
+  "task_id": "44c4c50c-261b-44d8-a609-d2bac4cb94c1",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-26T11:19:23.401253+08:00",
+  "audio": "b25_ja02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 48.28,
+      "end": 48.28,
+      "text": "[Intro - mellotron and 7/8 guitar riff]"
+    },
+    {
+      "t": 48.28,
+      "end": 48.28,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 48.28,
+      "end": 51.78,
+      "text": "文化祭は 五時で終わった"
+    },
+    {
+      "t": 51.82,
+      "end": 63.47,
+      "text": "たこ焼きの屋台は 全部売り切れ"
+    },
+    {
+      "t": 64.39,
+      "end": 71.93,
+      "text": "鉄板のふたの 下にだけ"
+    },
+    {
+      "t": 73.65,
+      "end": 78.83,
+      "text": "最後の一パックが 隠れてる"
+    },
+    {
+      "t": 78.89,
+      "end": 78.89,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 78.89,
+      "end": 90.83,
+      "text": "受付で 券をちぎってた子は"
+    },
+    {
+      "t": 90.99,
+      "end": 92.03,
+      "text": "まだ机を 片づけてる"
+    },
+    {
+      "t": 92.11,
+      "end": 92.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.11,
+      "end": 93.27,
+      "text": "冷めないうちに 渡したいのに"
+    },
+    {
+      "t": 92.89,
+      "end": 93.55,
+      "text": "手のひらだけが 汗をかく"
+    },
+    {
+      "t": 94.41,
+      "end": 95.45,
+      "text": "七つ数える 足音のたび"
+    },
+    {
+      "t": 95.45,
+      "end": 96.09,
+      "text": "ふたを開けては 閉じてる"
+    },
+    {
+      "t": 96.09,
+      "end": 96.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 96.09,
+      "end": 96.55,
+      "text": "三百八十枚の 入場券を"
+    },
+    {
+      "t": 96.55,
+      "end": 97.31,
+      "text": "きみは 一人でちぎってた"
+    },
+    {
+      "t": 98.13,
+      "end": 101.33,
+      "text": "ぼくはソースを 焦がしながら"
+    },
+    {
+      "t": 101.59,
+      "end": 104.95,
+      "text": "その手ばかり 見てたんだ"
+    },
+    {
+      "t": 105.51,
+      "end": 105.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.51,
+      "end": 111.01,
+      "text": "廊下の端で 椅子を引く音"
+    },
+    {
+      "t": 112.65,
+      "end": 116.43,
+      "text": "きみが こっちを向いた"
+    },
+    {
+      "t": 116.57,
+      "end": 116.57,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.57,
+      "end": 121.89,
+      "text": "冷めないうちに 渡せたらいい"
+    },
+    {
+      "t": 121.91,
+      "end": 124.11,
+      "text": "今度は足が 先に出る"
+    },
+    {
+      "t": 127.91,
+      "end": 130.99,
+      "text": "七つ数えて 声を出す"
+    },
+    {
+      "t": 131.09,
+      "end": 135.35,
+      "text": "最後の一個 きみの分"
+    },
+    {
+      "t": 140.61,
+      "end": 140.61,
+      "text": "[Bridge - guitar and mellotron interplay]"
+    },
+    {
+      "t": 140.61,
+      "end": 150.41,
+      "text": "青のりが 歯につくよと"
+    },
+    {
+      "t": 153.05,
+      "end": 159.63,
+      "text": "笑われても いいから"
+    },
+    {
+      "t": 168.73,
+      "end": 168.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.73,
+      "end": 181.58,
+      "text": "冷めたたこ焼き ふたりで分けた"
+    },
+    {
+      "t": 182.8,
+      "end": 186.54,
+      "text": "ソースの匂いの 帰り道"
+    },
+    {
+      "t": 186.54,
+      "end": 189.44,
+      "text": "七つ数えず 歩きだす"
+    },
+    {
+      "t": 189.44,
+      "end": 189.44,
+      "text": "[Outro - 7/8 riff slowly unwinds]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 45.76,
+      "end": 45.76,
+      "text": "[Intro - mellotron and 7/8 guitar riff]"
+    },
+    {
+      "t": 45.76,
+      "end": 45.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 45.76,
+      "end": 50.16,
+      "text": "文化祭は 五時で終わった"
+    },
+    {
+      "t": 50.18,
+      "end": 62.21,
+      "text": "たこ焼きの屋台は 全部売り切れ"
+    },
+    {
+      "t": 62.55,
+      "end": 65.49,
+      "text": "鉄板のふたの 下にだけ"
+    },
+    {
+      "t": 65.51,
+      "end": 70.33,
+      "text": "最後の一パックが 隠れてる"
+    },
+    {
+      "t": 71.09,
+      "end": 71.09,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 71.09,
+      "end": 90.83,
+      "text": "受付で 券をちぎってた子は"
+    },
+    {
+      "t": 90.99,
+      "end": 92.03,
+      "text": "まだ机を 片づけてる"
+    },
+    {
+      "t": 92.03,
+      "end": 92.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 92.03,
+      "end": 92.87,
+      "text": "冷めないうちに 渡したいのに"
+    },
+    {
+      "t": 92.89,
+      "end": 93.55,
+      "text": "手のひらだけが 汗をかく"
+    },
+    {
+      "t": 93.55,
+      "end": 94.11,
+      "text": "七つ数える 足音のたび"
+    },
+    {
+      "t": 94.11,
+      "end": 95.87,
+      "text": "ふたを開けては 閉じてる"
+    },
+    {
+      "t": 95.89,
+      "end": 95.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 95.89,
+      "end": 96.75,
+      "text": "三百八十枚の 入場券を"
+    },
+    {
+      "t": 96.81,
+      "end": 97.95,
+      "text": "きみは 一人でちぎってた"
+    },
+    {
+      "t": 98.13,
+      "end": 101.33,
+      "text": "ぼくはソースを 焦がしながら"
+    },
+    {
+      "t": 101.59,
+      "end": 104.95,
+      "text": "その手ばかり 見てたんだ"
+    },
+    {
+      "t": 105.51,
+      "end": 105.51,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 105.51,
+      "end": 112.91,
+      "text": "廊下の端で 椅子を引く音"
+    },
+    {
+      "t": 112.97,
+      "end": 116.43,
+      "text": "きみが こっちを向いた"
+    },
+    {
+      "t": 116.55,
+      "end": 116.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 116.55,
+      "end": 121.91,
+      "text": "冷めないうちに 渡せたらいい"
+    },
+    {
+      "t": 121.91,
+      "end": 124.11,
+      "text": "今度は足が 先に出る"
+    },
+    {
+      "t": 128.11,
+      "end": 131.17,
+      "text": "七つ数えて 声を出す"
+    },
+    {
+      "t": 131.39,
+      "end": 135.33,
+      "text": "最後の一個 きみの分"
+    },
+    {
+      "t": 139.21,
+      "end": 139.21,
+      "text": "[Bridge - guitar and mellotron interplay]"
+    },
+    {
+      "t": 139.21,
+      "end": 150.41,
+      "text": "青のりが 歯につくよと"
+    },
+    {
+      "t": 153.39,
+      "end": 168.61,
+      "text": "笑われても いいから"
+    },
+    {
+      "t": 168.73,
+      "end": 168.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 168.73,
+      "end": 181.58,
+      "text": "冷めたたこ焼き ふたりで分けた"
+    },
+    {
+      "t": 182.8,
+      "end": 186.52,
+      "text": "ソースの匂いの 帰り道"
+    },
+    {
+      "t": 186.56,
+      "end": 189.44,
+      "text": "七つ数えず 歩きだす"
+    },
+    {
+      "t": 189.44,
+      "end": 189.44,
+      "text": "[Outro - 7/8 riff slowly unwinds]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

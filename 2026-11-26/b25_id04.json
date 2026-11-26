@@ -1,0 +1,397 @@
+{
+  "id": "b25_id04",
+  "title": "Perca di Atas Meja",
+  "title_source": "scripted",
+  "genre": "1960s Melayu film-song orkes with tabla and mandolin",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "coy, comic, swaying",
+  "persona": "",
+  "subject": "Bu Nia, a village tailor, sews the leftover scraps of every customer's order into one patchwork cover on her counter, and Pak Hadi keeps asking her to move his red square next to the white lace square of the widow Bu Lastri",
+  "caption": "1960s Melayu film-song orkes, Hindi-film-tinged swaying dance rhythm. Tabla playing a light rolling groove, fast tremolo mandolin melody, drone-and-chord harmonium, unison violin section with sliding phrases, plucked acoustic bass. Warm mono-style studio recording, tape saturation, short spring reverb. Female vocal, mid-high register, coy playful delivery with gentle ornaments, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, A minor. Coy, comic, swaying mood. No drum kit, no electric guitar, no synths, no autotune, no rap, no modern dangdut gloss.",
+  "lyrics": "[Intro - tabla, mandolin, violins]\n\n[Verse 1]\nSisa kain kusimpan di dalam laci\nMerah punya Pak Hadi, biru Bu Ina\nKujahit semua jadi selimut di meja\nOrang datang mencari kotaknya sendiri\n\n[Pre-Chorus]\nPak Hadi bawa baju minta dijahit\nMatanya tak lepas dari renda\n\n[Chorus]\nPindahkan, Bu Nia, pindahkan sedikit\nKotak merahku dekat renda putih\nAduh, Pak, benang sudah terlanjur\nTapi untuk Bapak, kubuka jahitan\n\n[Verse 2]\nBu Lastri datang mengambil kebaya\nRendanya dulu dari baju lamanya\nDia tengok selimut, lalu tersenyum\nPura-pura tak lihat siapa di sebelah\n\n[Pre-Chorus]\nSebulan kemudian mereka datang berdua\nMinta dijahitkan satu kotak lagi\n\n[Chorus]\nPindahkan, Bu Nia, ke sini saja\nKotak merah dan renda putih\nTak usah dibongkar, sudah berdampingan\nKali ini jarumku yang berhenti\n\n[Bridge - violins and tabla]\nJarum naik turun, benang menurut\nSiapa menyangka perca bisa menjodohkan\n\n[Chorus]\nPindahkan, Bu Nia, tidak usah lagi\nKotak merah dan renda putih\nSudah rapat sampai ke pinggiran\nKini kuberi kotak untuk kalian berdua\n\n[Outro - mandolin, violins fade]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 108,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "1960s Melayu film-song orkes, Hindi-film-tinged swaying dance rhythm. Tabla playing a light rolling groove, fast tremolo mandolin melody, drone-and-chord harmonium, unison violin section with sliding phrases, plucked acoustic bass. Warm mono-style studio recording, tape saturation, short spring reverb. Female vocal, mid-high register, coy playful delivery with gentle ornaments, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 108 BPM, A minor. Coy, comic, swaying mood. No drum kit, no electric guitar, no synths, no autotune, no rap, no modern dangdut gloss.",
+    "lyrics": "[Intro - tabla, mandolin, violins]\n\n[Verse 1]\nSisa kain kusimpan di dalam laci\nMerah punya Pak Hadi, biru Bu Ina\nKujahit semua jadi selimut di meja\nOrang datang mencari kotaknya sendiri\n\n[Pre-Chorus]\nPak Hadi bawa baju minta dijahit\nMatanya tak lepas dari renda\n\n[Chorus]\nPindahkan, Bu Nia, pindahkan sedikit\nKotak merahku dekat renda putih\nAduh, Pak, benang sudah terlanjur\nTapi untuk Bapak, kubuka jahitan\n\n[Verse 2]\nBu Lastri datang mengambil kebaya\nRendanya dulu dari baju lamanya\nDia tengok selimut, lalu tersenyum\nPura-pura tak lihat siapa di sebelah\n\n[Pre-Chorus]\nSebulan kemudian mereka datang berdua\nMinta dijahitkan satu kotak lagi\n\n[Chorus]\nPindahkan, Bu Nia, ke sini saja\nKotak merah dan renda putih\nTak usah dibongkar, sudah berdampingan\nKali ini jarumku yang berhenti\n\n[Bridge - violins and tabla]\nJarum naik turun, benang menurut\nSiapa menyangka perca bisa menjodohkan\n\n[Chorus]\nPindahkan, Bu Nia, tidak usah lagi\nKotak merah dan renda putih\nSudah rapat sampai ke pinggiran\nKini kuberi kotak untuk kalian berdua\n\n[Outro - mandolin, violins fade]"
+  },
+  "seed": "3232047678",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 52.01s**\n- 52.01s per song\n- LM phase (1 song): 7.39s\n- DiT phase (1 song): 44.62s",
+  "task_id": "399f0cac-345d-49a3-9ebf-d40c228406c6",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-11-26T10:46:28.669314+08:00",
+  "audio": "b25_id04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 24.92,
+      "end": 24.92,
+      "text": "[Intro - tabla, mandolin, violins]"
+    },
+    {
+      "t": 24.92,
+      "end": 24.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.92,
+      "end": 30.14,
+      "text": "Sisa kain kusimpan di dalam laci"
+    },
+    {
+      "t": 33.66,
+      "end": 37.98,
+      "text": "Merah punya Pak Hadi, biru Bu Ina"
+    },
+    {
+      "t": 37.98,
+      "end": 45.06,
+      "text": "Kujahit semua jadi selimut di meja"
+    },
+    {
+      "t": 45.14,
+      "end": 46.66,
+      "text": "Orang datang mencari kotaknya sendiri"
+    },
+    {
+      "t": 46.66,
+      "end": 46.66,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 46.66,
+      "end": 48.06,
+      "text": "Pak Hadi bawa baju minta dijahit"
+    },
+    {
+      "t": 48.08,
+      "end": 49.04,
+      "text": "Matanya tak lepas dari renda"
+    },
+    {
+      "t": 49.4,
+      "end": 49.4,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 49.4,
+      "end": 55.89,
+      "text": "Pindahkan, Bu Nia, pindahkan sedikit"
+    },
+    {
+      "t": 55.89,
+      "end": 59.55,
+      "text": "Kotak merahku dekat renda putih"
+    },
+    {
+      "t": 59.57,
+      "end": 64.53,
+      "text": "Aduh, Pak, benang sudah terlanjur"
+    },
+    {
+      "t": 64.59,
+      "end": 68.89,
+      "text": "Tapi untuk Bapak, kubuka jahitan"
+    },
+    {
+      "t": 68.89,
+      "end": 68.89,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.89,
+      "end": 75.23,
+      "text": "Bu Lastri datang mengambil kebaya"
+    },
+    {
+      "t": 75.27,
+      "end": 80.15,
+      "text": "Rendanya dulu dari baju lamanya"
+    },
+    {
+      "t": 80.73,
+      "end": 84.43,
+      "text": "Dia tengok selimut, lalu tersenyum"
+    },
+    {
+      "t": 84.43,
+      "end": 90.41,
+      "text": "Pura-pura tak lihat siapa di sebelah"
+    },
+    {
+      "t": 92.79,
+      "end": 92.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.79,
+      "end": 98.51,
+      "text": "Sebulan kemudian mereka datang berdua"
+    },
+    {
+      "t": 100.89,
+      "end": 105.73,
+      "text": "Minta dijahitkan satu kotak lagi"
+    },
+    {
+      "t": 110.33,
+      "end": 110.33,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.33,
+      "end": 113.85,
+      "text": "Pindahkan, Bu Nia, ke sini saja"
+    },
+    {
+      "t": 114.25,
+      "end": 117.27,
+      "text": "Kotak merah dan renda putih"
+    },
+    {
+      "t": 119.03,
+      "end": 122.83,
+      "text": "Tak usah dibongkar, sudah berdampingan"
+    },
+    {
+      "t": 122.93,
+      "end": 126.37,
+      "text": "Kali ini jarumku yang berhenti"
+    },
+    {
+      "t": 139.41,
+      "end": 139.41,
+      "text": "[Bridge - violins and tabla]"
+    },
+    {
+      "t": 139.41,
+      "end": 143.69,
+      "text": "Jarum naik turun, benang menurut"
+    },
+    {
+      "t": 147.25,
+      "end": 152.88,
+      "text": "Siapa menyangka perca bisa menjodohkan"
+    },
+    {
+      "t": 155.62,
+      "end": 155.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 155.62,
+      "end": 161.32,
+      "text": "Pindahkan, Bu Nia, tidak usah lagi"
+    },
+    {
+      "t": 165.06,
+      "end": 168.68,
+      "text": "Kotak merah dan renda putih"
+    },
+    {
+      "t": 173.72,
+      "end": 177.92,
+      "text": "Sudah rapat sampai ke pinggiran"
+    },
+    {
+      "t": 178.08,
+      "end": 182.4,
+      "text": "Kini kuberi kotak untuk kalian berdua"
+    },
+    {
+      "t": 182.4,
+      "end": 182.4,
+      "text": "[Outro - mandolin, violins fade]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 24.92,
+      "end": 24.92,
+      "text": "[Intro - tabla, mandolin, violins]"
+    },
+    {
+      "t": 24.92,
+      "end": 24.92,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 24.92,
+      "end": 30.14,
+      "text": "Sisa kain kusimpan di dalam laci"
+    },
+    {
+      "t": 33.66,
+      "end": 37.92,
+      "text": "Merah punya Pak Hadi, biru Bu Ina"
+    },
+    {
+      "t": 37.92,
+      "end": 45.94,
+      "text": "Kujahit semua jadi selimut di meja"
+    },
+    {
+      "t": 45.94,
+      "end": 47.86,
+      "text": "Orang datang mencari kotaknya sendiri"
+    },
+    {
+      "t": 47.86,
+      "end": 47.86,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.86,
+      "end": 49.96,
+      "text": "Pak Hadi bawa baju minta dijahit"
+    },
+    {
+      "t": 53.33,
+      "end": 54.93,
+      "text": "Matanya tak lepas dari renda"
+    },
+    {
+      "t": 54.93,
+      "end": 54.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.93,
+      "end": 56.05,
+      "text": "Pindahkan, Bu Nia, pindahkan sedikit"
+    },
+    {
+      "t": 56.13,
+      "end": 59.47,
+      "text": "Kotak merahku dekat renda putih"
+    },
+    {
+      "t": 59.55,
+      "end": 64.51,
+      "text": "Aduh, Pak, benang sudah terlanjur"
+    },
+    {
+      "t": 64.59,
+      "end": 68.91,
+      "text": "Tapi untuk Bapak, kubuka jahitan"
+    },
+    {
+      "t": 69.85,
+      "end": 69.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.85,
+      "end": 75.51,
+      "text": "Bu Lastri datang mengambil kebaya"
+    },
+    {
+      "t": 75.51,
+      "end": 80.17,
+      "text": "Rendanya dulu dari baju lamanya"
+    },
+    {
+      "t": 80.69,
+      "end": 83.99,
+      "text": "Dia tengok selimut, lalu tersenyum"
+    },
+    {
+      "t": 84.01,
+      "end": 90.37,
+      "text": "Pura-pura tak lihat siapa di sebelah"
+    },
+    {
+      "t": 92.79,
+      "end": 92.79,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.79,
+      "end": 98.51,
+      "text": "Sebulan kemudian mereka datang berdua"
+    },
+    {
+      "t": 100.89,
+      "end": 105.75,
+      "text": "Minta dijahitkan satu kotak lagi"
+    },
+    {
+      "t": 110.31,
+      "end": 110.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 110.31,
+      "end": 113.85,
+      "text": "Pindahkan, Bu Nia, ke sini saja"
+    },
+    {
+      "t": 114.25,
+      "end": 118.99,
+      "text": "Kotak merah dan renda putih"
+    },
+    {
+      "t": 119.03,
+      "end": 122.83,
+      "text": "Tak usah dibongkar, sudah berdampingan"
+    },
+    {
+      "t": 122.93,
+      "end": 126.37,
+      "text": "Kali ini jarumku yang berhenti"
+    },
+    {
+      "t": 139.41,
+      "end": 139.41,
+      "text": "[Bridge - violins and tabla]"
+    },
+    {
+      "t": 139.41,
+      "end": 143.69,
+      "text": "Jarum naik turun, benang menurut"
+    },
+    {
+      "t": 147.25,
+      "end": 152.92,
+      "text": "Siapa menyangka perca bisa menjodohkan"
+    },
+    {
+      "t": 155.62,
+      "end": 155.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 155.62,
+      "end": 161.32,
+      "text": "Pindahkan, Bu Nia, tidak usah lagi"
+    },
+    {
+      "t": 165.06,
+      "end": 169.06,
+      "text": "Kotak merah dan renda putih"
+    },
+    {
+      "t": 173.72,
+      "end": 177.92,
+      "text": "Sudah rapat sampai ke pinggiran"
+    },
+    {
+      "t": 178.08,
+      "end": 182.46,
+      "text": "Kini kuberi kotak untuk kalian berdua"
+    },
+    {
+      "t": 182.46,
+      "end": 182.46,
+      "text": "[Outro - mandolin, violins fade]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

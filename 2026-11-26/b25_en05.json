@@ -1,0 +1,387 @@
+{
+  "id": "b25_en05",
+  "title": "Back Pew at Half Past Five",
+  "title_source": "scripted",
+  "genre": "synth-folk (Nordic-style)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "hushed, patient, gently warm",
+  "persona": "",
+  "subject": "a Finnish church verger who unlocks the church at half past five every winter morning, and the one stranger who always sits in the back pew for ten minutes and never speaks",
+  "caption": "Nordic-style synth-folk. Warm analog synth pads, fingerpicked nylon acoustic guitar, plucked kantele on the melody, soft electronic pulse and low harmonium drone. Spacious cold-room reverb, analog warmth and slight tape wobble on the pads. Female lead, clear light mezzo-soprano, steady and clearly sung with close harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Hushed, patient, gently warm mood. No trap beats, no autotune, no dance drops, no distorted guitar, no big orchestral strings.",
+  "lyrics": "[Intro - fingerpicked guitar, synth pad, kantele]\n\n[Verse 1]\nHalf past five and the snow's still blue\nI find the right key on the ring\nTurn on one lamp and the radiator\nWake the old boards with my boots\n\n[Pre-Chorus]\nEleven degrees inside the porch\nI breathe on my hands and I wait\n\n[Chorus]\nYou come in with the cold on your coat\nYou take the back pew by the door\nTen minutes, never a word\nI leave the lamp on for you\n\n[Verse 2]\nI don't know your name or your trade\nYour boots are the colour of salt\nSome mornings you stay for the whole bell\nSome mornings you don't take your hat off\n\n[Chorus]\nYou come in with the cold on your coat\nYou take the back pew by the door\nTen minutes, never a word\nI leave the lamp on for you\n\n[Bridge - guitar and kantele only]\nToday the pew was empty\nI kept the lamp on anyway\n\n[Chorus]\nYou come in with the cold on your coat\nI hear the door, I don't turn round\nTen minutes, never a word\nI leave the lamp on for you\n\n[Outro - synth pad, kantele, fade]\nHalf past five and the snow's still blue\nThe lamp is on",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Nordic-style synth-folk. Warm analog synth pads, fingerpicked nylon acoustic guitar, plucked kantele on the melody, soft electronic pulse and low harmonium drone. Spacious cold-room reverb, analog warmth and slight tape wobble on the pads. Female lead, clear light mezzo-soprano, steady and clearly sung with close harmony on the chorus. Clear full voice, every word enunciated, steady sung melody on every line. 92 BPM, D minor. Hushed, patient, gently warm mood. No trap beats, no autotune, no dance drops, no distorted guitar, no big orchestral strings.",
+    "lyrics": "[Intro - fingerpicked guitar, synth pad, kantele]\n\n[Verse 1]\nHalf past five and the snow's still blue\nI find the right key on the ring\nTurn on one lamp and the radiator\nWake the old boards with my boots\n\n[Pre-Chorus]\nEleven degrees inside the porch\nI breathe on my hands and I wait\n\n[Chorus]\nYou come in with the cold on your coat\nYou take the back pew by the door\nTen minutes, never a word\nI leave the lamp on for you\n\n[Verse 2]\nI don't know your name or your trade\nYour boots are the colour of salt\nSome mornings you stay for the whole bell\nSome mornings you don't take your hat off\n\n[Chorus]\nYou come in with the cold on your coat\nYou take the back pew by the door\nTen minutes, never a word\nI leave the lamp on for you\n\n[Bridge - guitar and kantele only]\nToday the pew was empty\nI kept the lamp on anyway\n\n[Chorus]\nYou come in with the cold on your coat\nI hear the door, I don't turn round\nTen minutes, never a word\nI leave the lamp on for you\n\n[Outro - synth pad, kantele, fade]\nHalf past five and the snow's still blue\nThe lamp is on"
+  },
+  "seed": "531679031",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 54.75s**\n- 54.75s per song\n- LM phase (1 song): 10.58s\n- DiT phase (1 song): 44.17s",
+  "task_id": "62abe6d1-24d1-48f5-b828-dfbb51d74da4",
+  "elapsed_s": 90.5,
+  "generated_at": "2026-11-26T11:09:31.601074+08:00",
+  "audio": "b25_en05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Intro - fingerpicked guitar, synth pad, kantele]"
+    },
+    {
+      "t": 0.02,
+      "end": 0.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.02,
+      "end": 6.16,
+      "text": "Half past five and the snow's still blue"
+    },
+    {
+      "t": 6.16,
+      "end": 21.04,
+      "text": "I find the right key on the ring"
+    },
+    {
+      "t": 21.04,
+      "end": 23.92,
+      "text": "Turn on one lamp and the radiator"
+    },
+    {
+      "t": 26.1,
+      "end": 34.34,
+      "text": "Wake the old boards with my boots"
+    },
+    {
+      "t": 34.38,
+      "end": 34.38,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.38,
+      "end": 38.36,
+      "text": "Eleven degrees inside the porch"
+    },
+    {
+      "t": 38.42,
+      "end": 42.12,
+      "text": "I breathe on my hands and I wait"
+    },
+    {
+      "t": 42.3,
+      "end": 42.3,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.3,
+      "end": 46.94,
+      "text": "You come in with the cold on your coat"
+    },
+    {
+      "t": 46.94,
+      "end": 48.42,
+      "text": "You take the back pew by the door"
+    },
+    {
+      "t": 48.6,
+      "end": 50.09,
+      "text": "Ten minutes, never a word"
+    },
+    {
+      "t": 50.09,
+      "end": 53.77,
+      "text": "I leave the lamp on for you"
+    },
+    {
+      "t": 53.93,
+      "end": 53.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 53.93,
+      "end": 55.47,
+      "text": "I don't know your name or your trade"
+    },
+    {
+      "t": 55.55,
+      "end": 73.93,
+      "text": "Your boots are the colour of salt"
+    },
+    {
+      "t": 73.93,
+      "end": 77.99,
+      "text": "Some mornings you stay for the whole bell"
+    },
+    {
+      "t": 79.51,
+      "end": 85.31,
+      "text": "Some mornings you don't take your hat off"
+    },
+    {
+      "t": 85.31,
+      "end": 85.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.31,
+      "end": 90.65,
+      "text": "You come in with the cold on your coat"
+    },
+    {
+      "t": 90.65,
+      "end": 93.53,
+      "text": "You take the back pew by the door"
+    },
+    {
+      "t": 95.77,
+      "end": 98.87,
+      "text": "Ten minutes, never a word"
+    },
+    {
+      "t": 101.23,
+      "end": 115.43,
+      "text": "I leave the lamp on for you"
+    },
+    {
+      "t": 121.93,
+      "end": 121.93,
+      "text": "[Bridge - guitar and kantele only]"
+    },
+    {
+      "t": 121.93,
+      "end": 125.47,
+      "text": "Today the pew was empty"
+    },
+    {
+      "t": 125.47,
+      "end": 130.19,
+      "text": "I kept the lamp on anyway"
+    },
+    {
+      "t": 133.51,
+      "end": 133.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.51,
+      "end": 138.75,
+      "text": "You come in with the cold on your coat"
+    },
+    {
+      "t": 138.77,
+      "end": 142.59,
+      "text": "I hear the door, I don't turn round"
+    },
+    {
+      "t": 148.75,
+      "end": 151.86,
+      "text": "Ten minutes, never a word"
+    },
+    {
+      "t": 152.72,
+      "end": 155.66,
+      "text": "I leave the lamp on for you"
+    },
+    {
+      "t": 170.64,
+      "end": 170.64,
+      "text": "[Outro - synth pad, kantele, fade]"
+    },
+    {
+      "t": 170.64,
+      "end": 188.14,
+      "text": "Half past five and the snow's still blue"
+    },
+    {
+      "t": 188.16,
+      "end": 189.6,
+      "text": "The lamp is on"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.14,
+      "end": 0.14,
+      "text": "[Intro - fingerpicked guitar, synth pad, kantele]"
+    },
+    {
+      "t": 0.14,
+      "end": 0.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.14,
+      "end": 21.94,
+      "text": "Half past five and the snow's still blue"
+    },
+    {
+      "t": 21.94,
+      "end": 23.38,
+      "text": "I find the right key on the ring"
+    },
+    {
+      "t": 23.38,
+      "end": 26.74,
+      "text": "Turn on one lamp and the radiator"
+    },
+    {
+      "t": 26.74,
+      "end": 34.34,
+      "text": "Wake the old boards with my boots"
+    },
+    {
+      "t": 34.36,
+      "end": 34.36,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 34.36,
+      "end": 38.36,
+      "text": "Eleven degrees inside the porch"
+    },
+    {
+      "t": 38.42,
+      "end": 42.32,
+      "text": "I breathe on my hands and I wait"
+    },
+    {
+      "t": 42.32,
+      "end": 42.32,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 42.32,
+      "end": 45.7,
+      "text": "You come in with the cold on your coat"
+    },
+    {
+      "t": 45.84,
+      "end": 48.44,
+      "text": "You take the back pew by the door"
+    },
+    {
+      "t": 48.6,
+      "end": 50.09,
+      "text": "Ten minutes, never a word"
+    },
+    {
+      "t": 50.09,
+      "end": 56.25,
+      "text": "I leave the lamp on for you"
+    },
+    {
+      "t": 56.25,
+      "end": 56.25,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 56.25,
+      "end": 75.77,
+      "text": "I don't know your name or your trade"
+    },
+    {
+      "t": 75.91,
+      "end": 78.47,
+      "text": "Your boots are the colour of salt"
+    },
+    {
+      "t": 78.55,
+      "end": 79.51,
+      "text": "Some mornings you stay for the whole bell"
+    },
+    {
+      "t": 79.51,
+      "end": 85.31,
+      "text": "Some mornings you don't take your hat off"
+    },
+    {
+      "t": 85.31,
+      "end": 85.31,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 85.31,
+      "end": 90.63,
+      "text": "You come in with the cold on your coat"
+    },
+    {
+      "t": 90.63,
+      "end": 93.59,
+      "text": "You take the back pew by the door"
+    },
+    {
+      "t": 95.79,
+      "end": 98.91,
+      "text": "Ten minutes, never a word"
+    },
+    {
+      "t": 99.37,
+      "end": 122.07,
+      "text": "I leave the lamp on for you"
+    },
+    {
+      "t": 122.15,
+      "end": 122.15,
+      "text": "[Bridge - guitar and kantele only]"
+    },
+    {
+      "t": 122.15,
+      "end": 125.47,
+      "text": "Today the pew was empty"
+    },
+    {
+      "t": 125.47,
+      "end": 130.21,
+      "text": "I kept the lamp on anyway"
+    },
+    {
+      "t": 133.51,
+      "end": 133.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.51,
+      "end": 138.73,
+      "text": "You come in with the cold on your coat"
+    },
+    {
+      "t": 138.79,
+      "end": 148.77,
+      "text": "I hear the door, I don't turn round"
+    },
+    {
+      "t": 148.77,
+      "end": 152.52,
+      "text": "Ten minutes, never a word"
+    },
+    {
+      "t": 152.62,
+      "end": 155.68,
+      "text": "I leave the lamp on for you"
+    },
+    {
+      "t": 182.72,
+      "end": 182.72,
+      "text": "[Outro - synth pad, kantele, fade]"
+    },
+    {
+      "t": 182.72,
+      "end": 188.16,
+      "text": "Half past five and the snow's still blue"
+    },
+    {
+      "t": 188.16,
+      "end": 189.58,
+      "text": "The lamp is on"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

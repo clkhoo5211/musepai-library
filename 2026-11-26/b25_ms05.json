@@ -1,0 +1,534 @@
+{
+  "id": "b25_ms05",
+  "title": "Butang Kedua",
+  "title_source": "scripted",
+  "genre": "Malay zapin acoustic ballad (gambus/oud, marwas, accordion, steady 4/4 zapin rhythm)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "wistful, tender, warm",
+  "persona": "",
+  "subject": "A Johor wife sews back the second button on her husband's shirt every Sunday before he crosses the Causeway for work in Singapore, and it always comes loose by Wednesday",
+  "caption": "Malay zapin acoustic, ballad-leaning sub-style with a steady 4/4 zapin rhythm. Gambus oud playing ringing plucked melodic phrases and answer lines, marwas hand drums keeping a steady zapin pattern, accordion holding warm long chords under the chorus, upright bass plucked softly. Close warm acoustic room, natural reverb, unprocessed. Female alto lead, mid-low register, restrained vibrato, plain tender delivery. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, D minor. Wistful, tender, warm mood. No drum kit, no electric guitar, no synth, no autotune, no rap, no trap hi-hats.",
+  "lyrics": "[Intro - gambus, marwas]\n\n[Verse 1]\nSetiap Ahad petang dia ke Woodlands\nBeg kecil, kemeja biru dilipat\nButang kedua selalu tertanggal\nAku jahit semula, benang hitam\n\n[Pre-Chorus]\nJarum masuk, jarum keluar\nHari Ahad jadi panjang\n\n[Chorus]\nButang kedua, jangan lagi tanggal\nBiar dia ingat jalan pulang\nSeminggu di seberang, aku tunggu\nDengan jarum dan lampu dapur\n\n[Verse 2]\nDia gelak, kata butang pun rindu rumah\nAku kata, jangan pandai-pandai\nHari Rabu telefon, butang dah jatuh\nAku diam, dengar bunyi bas\n\n[Pre-Chorus]\nJarum masuk, jarum keluar\nTiga simpulan, supaya kuat\n\n[Chorus]\nButang kedua, kau pegang erat\nBiar dia ingat jalan pulang\nJumaat malam dia ketuk pintu\nKemeja yang sama, butang yang sama\n\n[Bridge - gambus and accordion]\nSatu butang kecil, satu rumah besar\nDia pegang butang, aku pegang dia\n\n[Outro - gambus fades]\nButang kedua, butang kedua\nAhad depan aku jahit lagi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 84,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Malay zapin acoustic, ballad-leaning sub-style with a steady 4/4 zapin rhythm. Gambus oud playing ringing plucked melodic phrases and answer lines, marwas hand drums keeping a steady zapin pattern, accordion holding warm long chords under the chorus, upright bass plucked softly. Close warm acoustic room, natural reverb, unprocessed. Female alto lead, mid-low register, restrained vibrato, plain tender delivery. Clear full voice, every word enunciated, steady sung melody on every line. 84 BPM, D minor. Wistful, tender, warm mood. No drum kit, no electric guitar, no synth, no autotune, no rap, no trap hi-hats.",
+    "lyrics": "[Intro - gambus, marwas]\n\n[Verse 1]\nSetiap Ahad petang dia ke Woodlands\nBeg kecil, kemeja biru dilipat\nButang kedua selalu tertanggal\nAku jahit semula, benang hitam\n\n[Pre-Chorus]\nJarum masuk, jarum keluar\nHari Ahad jadi panjang\n\n[Chorus]\nButang kedua, jangan lagi tanggal\nBiar dia ingat jalan pulang\nSeminggu di seberang, aku tunggu\nDengan jarum dan lampu dapur\n\n[Verse 2]\nDia gelak, kata butang pun rindu rumah\nAku kata, jangan pandai-pandai\nHari Rabu telefon, butang dah jatuh\nAku diam, dengar bunyi bas\n\n[Pre-Chorus]\nJarum masuk, jarum keluar\nTiga simpulan, supaya kuat\n\n[Chorus]\nButang kedua, kau pegang erat\nBiar dia ingat jalan pulang\nJumaat malam dia ketuk pintu\nKemeja yang sama, butang yang sama\n\n[Bridge - gambus and accordion]\nSatu butang kecil, satu rumah besar\nDia pegang butang, aku pegang dia\n\n[Outro - gambus fades]\nButang kedua, butang kedua\nAhad depan aku jahit lagi"
+  },
+  "seed": "147243787",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 70.57s**\n- 70.57s per song\n- LM phase (1 song): 17.62s\n- DiT phase (1 song): 52.95s",
+  "task_id": "ce65af89-fd71-44b5-be2e-c23b13e70cd2",
+  "elapsed_s": 100.2,
+  "generated_at": "2026-11-26T10:40:28.077816+08:00",
+  "audio": "b25_ms05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 4.02,
+      "end": 4.02,
+      "text": "[Intro - gambus, marwas]"
+    },
+    {
+      "t": 4.02,
+      "end": 4.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.02,
+      "end": 20.26,
+      "text": "Setiap Ahad petang dia ke Woodlands"
+    },
+    {
+      "t": 20.26,
+      "end": 35.58,
+      "text": "Beg kecil, kemeja biru dilipat"
+    },
+    {
+      "t": 35.68,
+      "end": 38.42,
+      "text": "Butang kedua selalu tertanggal"
+    },
+    {
+      "t": 38.42,
+      "end": 41.52,
+      "text": "Aku jahit semula, benang hitam"
+    },
+    {
+      "t": 41.52,
+      "end": 41.52,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.52,
+      "end": 44.04,
+      "text": "Jarum masuk, jarum keluar"
+    },
+    {
+      "t": 44.24,
+      "end": 47.84,
+      "text": "Hari Ahad jadi panjang"
+    },
+    {
+      "t": 55.73,
+      "end": 55.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.73,
+      "end": 60.45,
+      "text": "Butang kedua, jangan lagi tanggal"
+    },
+    {
+      "t": 61.41,
+      "end": 66.07,
+      "text": "Biar dia ingat jalan pulang"
+    },
+    {
+      "t": 67.47,
+      "end": 71.57,
+      "text": "Seminggu di seberang, aku tunggu"
+    },
+    {
+      "t": 73.91,
+      "end": 78.27,
+      "text": "Dengan jarum dan lampu dapur"
+    },
+    {
+      "t": 82.85,
+      "end": 82.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.85,
+      "end": 86.73,
+      "text": "Dia gelak, kata butang pun rindu rumah"
+    },
+    {
+      "t": 88.31,
+      "end": 92.39,
+      "text": "Aku kata, jangan pandai-pandai"
+    },
+    {
+      "t": 92.41,
+      "end": 95.41,
+      "text": "Hari Rabu telefon, butang dah jatuh"
+    },
+    {
+      "t": 97.27,
+      "end": 101.31,
+      "text": "Aku diam, dengar bunyi bas"
+    },
+    {
+      "t": 102.55,
+      "end": 102.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.55,
+      "end": 106.87,
+      "text": "Jarum masuk, jarum keluar"
+    },
+    {
+      "t": 108.31,
+      "end": 113.59,
+      "text": "Tiga simpulan, supaya kuat"
+    },
+    {
+      "t": 113.71,
+      "end": 113.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.71,
+      "end": 118.31,
+      "text": "Butang kedua, kau pegang erat"
+    },
+    {
+      "t": 119.45,
+      "end": 123.63,
+      "text": "Biar dia ingat jalan pulang"
+    },
+    {
+      "t": 123.71,
+      "end": 127.07,
+      "text": "Jumaat malam dia ketuk pintu"
+    },
+    {
+      "t": 127.27,
+      "end": 137.15,
+      "text": "Kemeja yang sama, butang yang sama"
+    },
+    {
+      "t": 153.29,
+      "end": 153.29,
+      "text": "[Bridge - gambus and accordion]"
+    },
+    {
+      "t": 153.29,
+      "end": 158.01,
+      "text": "Satu butang kecil, satu rumah besar"
+    },
+    {
+      "t": 158.03,
+      "end": 174.84,
+      "text": "Dia pegang butang, aku pegang dia"
+    },
+    {
+      "t": 176.2,
+      "end": 176.2,
+      "text": "[Outro - gambus fades]"
+    },
+    {
+      "t": 176.2,
+      "end": 180.62,
+      "text": "Butang kedua, butang kedua"
+    },
+    {
+      "t": 185.22,
+      "end": 198.3,
+      "text": "Ahad depan aku jahit lagi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 4.02,
+      "end": 4.02,
+      "text": "[Intro - gambus, marwas]"
+    },
+    {
+      "t": 4.02,
+      "end": 4.02,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 4.02,
+      "end": 20.26,
+      "text": "Setiap Ahad petang dia ke Woodlands"
+    },
+    {
+      "t": 20.26,
+      "end": 35.58,
+      "text": "Beg kecil, kemeja biru dilipat"
+    },
+    {
+      "t": 35.68,
+      "end": 38.42,
+      "text": "Butang kedua selalu tertanggal"
+    },
+    {
+      "t": 38.42,
+      "end": 41.52,
+      "text": "Aku jahit semula, benang hitam"
+    },
+    {
+      "t": 41.52,
+      "end": 41.52,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.52,
+      "end": 44.04,
+      "text": "Jarum masuk, jarum keluar"
+    },
+    {
+      "t": 44.24,
+      "end": 47.84,
+      "text": "Hari Ahad jadi panjang"
+    },
+    {
+      "t": 55.73,
+      "end": 55.73,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.73,
+      "end": 60.45,
+      "text": "Butang kedua, jangan lagi tanggal"
+    },
+    {
+      "t": 61.41,
+      "end": 66.07,
+      "text": "Biar dia ingat jalan pulang"
+    },
+    {
+      "t": 67.47,
+      "end": 71.57,
+      "text": "Seminggu di seberang, aku tunggu"
+    },
+    {
+      "t": 73.91,
+      "end": 78.27,
+      "text": "Dengan jarum dan lampu dapur"
+    },
+    {
+      "t": 82.85,
+      "end": 82.85,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.85,
+      "end": 86.73,
+      "text": "Dia gelak, kata butang pun rindu rumah"
+    },
+    {
+      "t": 88.31,
+      "end": 92.39,
+      "text": "Aku kata, jangan pandai-pandai"
+    },
+    {
+      "t": 92.41,
+      "end": 95.41,
+      "text": "Hari Rabu telefon, butang dah jatuh"
+    },
+    {
+      "t": 97.27,
+      "end": 101.31,
+      "text": "Aku diam, dengar bunyi bas"
+    },
+    {
+      "t": 102.55,
+      "end": 102.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.55,
+      "end": 106.87,
+      "text": "Jarum masuk, jarum keluar"
+    },
+    {
+      "t": 108.31,
+      "end": 113.59,
+      "text": "Tiga simpulan, supaya kuat"
+    },
+    {
+      "t": 113.71,
+      "end": 113.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.71,
+      "end": 118.31,
+      "text": "Butang kedua, kau pegang erat"
+    },
+    {
+      "t": 119.45,
+      "end": 123.63,
+      "text": "Biar dia ingat jalan pulang"
+    },
+    {
+      "t": 123.71,
+      "end": 127.07,
+      "text": "Jumaat malam dia ketuk pintu"
+    },
+    {
+      "t": 127.27,
+      "end": 137.15,
+      "text": "Kemeja yang sama, butang yang sama"
+    },
+    {
+      "t": 153.29,
+      "end": 153.29,
+      "text": "[Bridge - gambus and accordion]"
+    },
+    {
+      "t": 153.29,
+      "end": 158.01,
+      "text": "Satu butang kecil, satu rumah besar"
+    },
+    {
+      "t": 158.03,
+      "end": 174.84,
+      "text": "Dia pegang butang, aku pegang dia"
+    },
+    {
+      "t": 176.2,
+      "end": 176.2,
+      "text": "[Outro - gambus fades]"
+    },
+    {
+      "t": 176.2,
+      "end": 180.62,
+      "text": "Butang kedua, butang kedua"
+    },
+    {
+      "t": 185.22,
+      "end": 198.3,
+      "text": "Ahad depan aku jahit lagi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.06,
+      "end": 0.06,
+      "text": "[Intro - gambus, marwas]"
+    },
+    {
+      "t": 0.06,
+      "end": 0.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.06,
+      "end": 19.62,
+      "text": "Setiap Ahad petang dia ke Woodlands"
+    },
+    {
+      "t": 20.2,
+      "end": 28.6,
+      "text": "Beg kecil, kemeja biru dilipat"
+    },
+    {
+      "t": 28.6,
+      "end": 35.3,
+      "text": "Butang kedua selalu tertanggal"
+    },
+    {
+      "t": 35.3,
+      "end": 37.44,
+      "text": "Aku jahit semula, benang hitam"
+    },
+    {
+      "t": 37.44,
+      "end": 37.44,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.44,
+      "end": 41.66,
+      "text": "Jarum masuk, jarum keluar"
+    },
+    {
+      "t": 41.66,
+      "end": 47.68,
+      "text": "Hari Ahad jadi panjang"
+    },
+    {
+      "t": 55.71,
+      "end": 55.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.71,
+      "end": 60.37,
+      "text": "Butang kedua, jangan lagi tanggal"
+    },
+    {
+      "t": 61.41,
+      "end": 66.05,
+      "text": "Biar dia ingat jalan pulang"
+    },
+    {
+      "t": 67.47,
+      "end": 71.55,
+      "text": "Seminggu di seberang, aku tunggu"
+    },
+    {
+      "t": 73.91,
+      "end": 78.23,
+      "text": "Dengan jarum dan lampu dapur"
+    },
+    {
+      "t": 82.87,
+      "end": 82.87,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 82.87,
+      "end": 86.71,
+      "text": "Dia gelak, kata butang pun rindu rumah"
+    },
+    {
+      "t": 88.31,
+      "end": 92.45,
+      "text": "Aku kata, jangan pandai-pandai"
+    },
+    {
+      "t": 92.45,
+      "end": 95.39,
+      "text": "Hari Rabu telefon, butang dah jatuh"
+    },
+    {
+      "t": 97.27,
+      "end": 101.25,
+      "text": "Aku diam, dengar bunyi bas"
+    },
+    {
+      "t": 102.55,
+      "end": 102.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.55,
+      "end": 106.81,
+      "text": "Jarum masuk, jarum keluar"
+    },
+    {
+      "t": 108.31,
+      "end": 113.59,
+      "text": "Tiga simpulan, supaya kuat"
+    },
+    {
+      "t": 113.71,
+      "end": 113.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 113.71,
+      "end": 118.27,
+      "text": "Butang kedua, kau pegang erat"
+    },
+    {
+      "t": 119.45,
+      "end": 123.63,
+      "text": "Biar dia ingat jalan pulang"
+    },
+    {
+      "t": 123.73,
+      "end": 128.15,
+      "text": "Jumaat malam dia ketuk pintu"
+    },
+    {
+      "t": 128.37,
+      "end": 137.15,
+      "text": "Kemeja yang sama, butang yang sama"
+    },
+    {
+      "t": 153.29,
+      "end": 153.29,
+      "text": "[Bridge - gambus and accordion]"
+    },
+    {
+      "t": 153.29,
+      "end": 157.81,
+      "text": "Satu butang kecil, satu rumah besar"
+    },
+    {
+      "t": 158.05,
+      "end": 174.84,
+      "text": "Dia pegang butang, aku pegang dia"
+    },
+    {
+      "t": 176.2,
+      "end": 176.2,
+      "text": "[Outro - gambus fades]"
+    },
+    {
+      "t": 176.2,
+      "end": 180.62,
+      "text": "Butang kedua, butang kedua"
+    },
+    {
+      "t": 185.22,
+      "end": 197.02,
+      "text": "Ahad depan aku jahit lagi"
+    }
+  ]
+}

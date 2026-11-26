@@ -1,0 +1,357 @@
+{
+  "id": "b25_ko02",
+  "title": "704호 식권",
+  "title_source": "scripted",
+  "genre": "Korean neoclassical piano and cello duo song in 3/4",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "tender, steady",
+  "persona": "",
+  "subject": "a husband who buys two meal tickets in a hospital cafeteria at visiting hours and eats his lunch while telling his wife in room 704 what the dish tastes like, so she knows what to order when she recovers",
+  "caption": "Korean neoclassical piano and cello duo song in three-four time, slow waltz. Grand piano playing broken-chord arpeggios, solo cello with long legato bow lines and a low drone on the chorus, a faint felt-muted string pad in the bridge. Close warm piano room with natural bow noise and a gentle hall reverb. Male lead voice, low-mid baritone, plain and warm, clearly sung. 66 BPM, D minor. Tender, steady mood. No drums, no electric guitar, no synth, no autotune, no pop-ballad key change, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - solo piano arpeggios, cello enters]\n\n[Verse 1]\n면회 시간은 오후 두 시\n식당 앞 줄이 벌써 길어요\n식권 두 장을 끊어 들고\n쟁반 하나만 챙겨요\n\n[Pre-Chorus]\n당신은 아직 미음만 먹으니\n나 혼자 먹는 점심이에요\n\n[Chorus]\n오늘은 된장찌개예요\n짜지도 싱겁지도 않아요\n나으면 같이 먹어요\n이 줄에 나란히 서서\n\n[Verse 2]\n두부가 큼직하게 들었어요\n깍두기는 조금 덜 익었고요\n창가 자리에 앉아 보니\n칠층 창문이 올려다보여요\n\n[Pre-Chorus]\n여섯 시 반이 되면 방송이 나와요\n가시는 분은 나가 달라고\n\n[Bridge - piano and cello alone]\n내일은 생선구이래요\n가시는 많지만 내가 발라 줄게요\n\n[Chorus]\n오늘은 된장찌개였어요\n짜지도 싱겁지도 않았어요\n나으면 같이 먹어요\n이 줄에 나란히 서서\n\n[Outro - cello holds a low note, piano fades]\n내일 또 올게요",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 215.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "3",
+    "prompt": "Korean neoclassical piano and cello duo song in three-four time, slow waltz. Grand piano playing broken-chord arpeggios, solo cello with long legato bow lines and a low drone on the chorus, a faint felt-muted string pad in the bridge. Close warm piano room with natural bow noise and a gentle hall reverb. Male lead voice, low-mid baritone, plain and warm, clearly sung. 66 BPM, D minor. Tender, steady mood. No drums, no electric guitar, no synth, no autotune, no pop-ballad key change, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - solo piano arpeggios, cello enters]\n\n[Verse 1]\n면회 시간은 오후 두 시\n식당 앞 줄이 벌써 길어요\n식권 두 장을 끊어 들고\n쟁반 하나만 챙겨요\n\n[Pre-Chorus]\n당신은 아직 미음만 먹으니\n나 혼자 먹는 점심이에요\n\n[Chorus]\n오늘은 된장찌개예요\n짜지도 싱겁지도 않아요\n나으면 같이 먹어요\n이 줄에 나란히 서서\n\n[Verse 2]\n두부가 큼직하게 들었어요\n깍두기는 조금 덜 익었고요\n창가 자리에 앉아 보니\n칠층 창문이 올려다보여요\n\n[Pre-Chorus]\n여섯 시 반이 되면 방송이 나와요\n가시는 분은 나가 달라고\n\n[Bridge - piano and cello alone]\n내일은 생선구이래요\n가시는 많지만 내가 발라 줄게요\n\n[Chorus]\n오늘은 된장찌개였어요\n짜지도 싱겁지도 않았어요\n나으면 같이 먹어요\n이 줄에 나란히 서서\n\n[Outro - cello holds a low note, piano fades]\n내일 또 올게요"
+  },
+  "seed": "2344965560",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 65.16s**\n- 65.16s per song\n- LM phase (1 song): 13.42s\n- DiT phase (1 song): 51.75s",
+  "task_id": "739300d6-4b32-4814-8f5e-c866a7267a3c",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-26T12:36:17.972659+08:00",
+  "audio": "b25_ko02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 17.44,
+      "end": 17.44,
+      "text": "[Intro - solo piano arpeggios, cello enters]"
+    },
+    {
+      "t": 17.44,
+      "end": 17.44,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 17.44,
+      "end": 29.28,
+      "text": "면회 시간은 오후 두 시"
+    },
+    {
+      "t": 29.28,
+      "end": 35.24,
+      "text": "식당 앞 줄이 벌써 길어요"
+    },
+    {
+      "t": 37.36,
+      "end": 42.56,
+      "text": "식권 두 장을 끊어 들고"
+    },
+    {
+      "t": 45.64,
+      "end": 48.56,
+      "text": "쟁반 하나만 챙겨요"
+    },
+    {
+      "t": 52.4,
+      "end": 52.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.4,
+      "end": 57.61,
+      "text": "당신은 아직 미음만 먹으니"
+    },
+    {
+      "t": 57.67,
+      "end": 59.45,
+      "text": "나 혼자 먹는 점심이에요"
+    },
+    {
+      "t": 59.51,
+      "end": 59.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.51,
+      "end": 61.65,
+      "text": "오늘은 된장찌개예요"
+    },
+    {
+      "t": 61.67,
+      "end": 63.13,
+      "text": "짜지도 싱겁지도 않아요"
+    },
+    {
+      "t": 63.13,
+      "end": 64.11,
+      "text": "나으면 같이 먹어요"
+    },
+    {
+      "t": 65.43,
+      "end": 79.65,
+      "text": "이 줄에 나란히 서서"
+    },
+    {
+      "t": 79.65,
+      "end": 79.65,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.65,
+      "end": 83.07,
+      "text": "두부가 큼직하게 들었어요"
+    },
+    {
+      "t": 87.35,
+      "end": 91.67,
+      "text": "깍두기는 조금 덜 익었고요"
+    },
+    {
+      "t": 96.43,
+      "end": 99.89,
+      "text": "창가 자리에 앉아 보니"
+    },
+    {
+      "t": 101.93,
+      "end": 107.75,
+      "text": "칠층 창문이 올려다보여요"
+    },
+    {
+      "t": 107.75,
+      "end": 107.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.75,
+      "end": 116.25,
+      "text": "여섯 시 반이 되면 방송이 나와요"
+    },
+    {
+      "t": 118.29,
+      "end": 122.89,
+      "text": "가시는 분은 나가 달라고"
+    },
+    {
+      "t": 125.45,
+      "end": 125.45,
+      "text": "[Bridge - piano and cello alone]"
+    },
+    {
+      "t": 125.45,
+      "end": 128.97,
+      "text": "내일은 생선구이래요"
+    },
+    {
+      "t": 130.19,
+      "end": 134.75,
+      "text": "가시는 많지만 내가 발라 줄게요"
+    },
+    {
+      "t": 142.69,
+      "end": 142.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.69,
+      "end": 148.97,
+      "text": "오늘은 된장찌개였어요"
+    },
+    {
+      "t": 150.09,
+      "end": 157.31,
+      "text": "짜지도 싱겁지도 않았어요"
+    },
+    {
+      "t": 159.73,
+      "end": 171.46,
+      "text": "나으면 같이 먹어요"
+    },
+    {
+      "t": 172.8,
+      "end": 176.68,
+      "text": "이 줄에 나란히 서서"
+    },
+    {
+      "t": 180.56,
+      "end": 180.56,
+      "text": "[Outro - cello holds a low note, piano fades]"
+    },
+    {
+      "t": 180.56,
+      "end": 185.74,
+      "text": "내일 또 올게요"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 28.78,
+      "end": 28.78,
+      "text": "[Intro - solo piano arpeggios, cello enters]"
+    },
+    {
+      "t": 28.78,
+      "end": 28.78,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 28.78,
+      "end": 31.02,
+      "text": "면회 시간은 오후 두 시"
+    },
+    {
+      "t": 31.04,
+      "end": 37.32,
+      "text": "식당 앞 줄이 벌써 길어요"
+    },
+    {
+      "t": 37.36,
+      "end": 42.54,
+      "text": "식권 두 장을 끊어 들고"
+    },
+    {
+      "t": 45.64,
+      "end": 48.56,
+      "text": "쟁반 하나만 챙겨요"
+    },
+    {
+      "t": 52.4,
+      "end": 52.4,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 52.4,
+      "end": 57.61,
+      "text": "당신은 아직 미음만 먹으니"
+    },
+    {
+      "t": 58.35,
+      "end": 62.37,
+      "text": "나 혼자 먹는 점심이에요"
+    },
+    {
+      "t": 62.39,
+      "end": 62.39,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.39,
+      "end": 64.13,
+      "text": "오늘은 된장찌개예요"
+    },
+    {
+      "t": 65.41,
+      "end": 76.41,
+      "text": "짜지도 싱겁지도 않아요"
+    },
+    {
+      "t": 76.41,
+      "end": 78.75,
+      "text": "나으면 같이 먹어요"
+    },
+    {
+      "t": 78.75,
+      "end": 79.65,
+      "text": "이 줄에 나란히 서서"
+    },
+    {
+      "t": 79.73,
+      "end": 79.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.73,
+      "end": 83.07,
+      "text": "두부가 큼직하게 들었어요"
+    },
+    {
+      "t": 87.35,
+      "end": 91.67,
+      "text": "깍두기는 조금 덜 익었고요"
+    },
+    {
+      "t": 96.45,
+      "end": 99.89,
+      "text": "창가 자리에 앉아 보니"
+    },
+    {
+      "t": 101.93,
+      "end": 107.75,
+      "text": "칠층 창문이 올려다보여요"
+    },
+    {
+      "t": 107.75,
+      "end": 107.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 107.75,
+      "end": 116.27,
+      "text": "여섯 시 반이 되면 방송이 나와요"
+    },
+    {
+      "t": 118.29,
+      "end": 122.89,
+      "text": "가시는 분은 나가 달라고"
+    },
+    {
+      "t": 126.13,
+      "end": 126.13,
+      "text": "[Bridge - piano and cello alone]"
+    },
+    {
+      "t": 126.13,
+      "end": 128.97,
+      "text": "내일은 생선구이래요"
+    },
+    {
+      "t": 130.19,
+      "end": 134.75,
+      "text": "가시는 많지만 내가 발라 줄게요"
+    },
+    {
+      "t": 142.69,
+      "end": 142.69,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 142.69,
+      "end": 148.97,
+      "text": "오늘은 된장찌개였어요"
+    },
+    {
+      "t": 150.47,
+      "end": 157.31,
+      "text": "짜지도 싱겁지도 않았어요"
+    },
+    {
+      "t": 161.46,
+      "end": 171.46,
+      "text": "나으면 같이 먹어요"
+    },
+    {
+      "t": 172.8,
+      "end": 185.74,
+      "text": "이 줄에 나란히 서서"
+    },
+    {
+      "t": 203.28,
+      "end": 203.28,
+      "text": "[Outro - cello holds a low note, piano fades]"
+    },
+    {
+      "t": 203.28,
+      "end": 206.86,
+      "text": "내일 또 올게요"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,387 @@
+{
+  "id": "b25_en01",
+  "title": "Flask on the Step",
+  "title_source": "scripted",
+  "genre": "Motown-style sunshine soul (Detroit 1965 Hitsville lineage)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "warm, bouncing, in love",
+  "persona": "",
+  "subject": "a breakfast-radio host who gets up at half past three, and the sleeping wife who leaves a warm flask of tea on the front step for him every morning",
+  "caption": "Motown-style sunshine soul, Detroit 1965 rhythm-section groove. Driving tambourine on the backbeat, walking Fender bass with chromatic fills, bright upright-style piano chords, baritone sax riffs and a small string section. Dry live-room recording with tape warmth, handclaps on the chorus. Male lead in a warm tenor, delivery clear and sung, girl-group trio answering the hook. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, B-flat major. Bouncing, affectionate mood. No hip-hop beats, no autotune, no synth pads, no electric guitar distortion, no modern EDM drops.",
+  "lyrics": "[Intro - tambourine, walking bass, bright piano]\n\n[Verse 1]\nAlarm goes off at half past three\nOnly the streetlamps keep an eye on me\nDown the stairs with my shoes in my hand\nOpen the door and there's a warm surprise\n\n[Pre-Chorus]\nNobody's up but the milk float and me\nAnd a little note, your handwriting\n\n[Chorus]\nFlask on the step, flask on the step\nYou're asleep, but you're looking out for me\nSugar and steam and a drive safe, love\nFlask on the step, that's all I need\n\n[Verse 2]\nSeven o'clock I say good morning to town\nFour hundred thousand are listening now\nBut the only one I'm talking to\nIs the girl who's still in bed with the cat\n\n[Chorus]\nFlask on the step, flask on the step\nYou're asleep, but you're looking out for me\nLemon and honey and a smiley face\nFlask on the step, I'll be home by three\n\n[Bridge - drums drop to handclaps and bass]\nSay it on the air, say it on the air\nGood morning, darling, the tea was perfect\n\n[Chorus]\nFlask on the step, flask on the step\nWake up slow, I'm coming home to you\nSugar and steam and a drive safe, love\nFlask on the step, that's all I need\n\n[Outro - sax riff, tambourine fade]\nFlask on the step, flask on the step\nThank you, darling, thank you for the tea",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 180.0,
+    "genres": "N/A",
+    "keyscale": "Bb major",
+    "timesignature": "4",
+    "prompt": "Motown-style sunshine soul, Detroit 1965 rhythm-section groove. Driving tambourine on the backbeat, walking Fender bass with chromatic fills, bright upright-style piano chords, baritone sax riffs and a small string section. Dry live-room recording with tape warmth, handclaps on the chorus. Male lead in a warm tenor, delivery clear and sung, girl-group trio answering the hook. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, B-flat major. Bouncing, affectionate mood. No hip-hop beats, no autotune, no synth pads, no electric guitar distortion, no modern EDM drops.",
+    "lyrics": "[Intro - tambourine, walking bass, bright piano]\n\n[Verse 1]\nAlarm goes off at half past three\nOnly the streetlamps keep an eye on me\nDown the stairs with my shoes in my hand\nOpen the door and there's a warm surprise\n\n[Pre-Chorus]\nNobody's up but the milk float and me\nAnd a little note, your handwriting\n\n[Chorus]\nFlask on the step, flask on the step\nYou're asleep, but you're looking out for me\nSugar and steam and a drive safe, love\nFlask on the step, that's all I need\n\n[Verse 2]\nSeven o'clock I say good morning to town\nFour hundred thousand are listening now\nBut the only one I'm talking to\nIs the girl who's still in bed with the cat\n\n[Chorus]\nFlask on the step, flask on the step\nYou're asleep, but you're looking out for me\nLemon and honey and a smiley face\nFlask on the step, I'll be home by three\n\n[Bridge - drums drop to handclaps and bass]\nSay it on the air, say it on the air\nGood morning, darling, the tea was perfect\n\n[Chorus]\nFlask on the step, flask on the step\nWake up slow, I'm coming home to you\nSugar and steam and a drive safe, love\nFlask on the step, that's all I need\n\n[Outro - sax riff, tambourine fade]\nFlask on the step, flask on the step\nThank you, darling, thank you for the tea"
+  },
+  "seed": "3895129954",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.60s**\n- 61.60s per song\n- LM phase (1 song): 13.46s\n- DiT phase (1 song): 48.14s",
+  "task_id": "d1f64a5a-722f-4dd8-a625-499a1f8d042e",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-26T11:03:40.691820+08:00",
+  "audio": "b25_en01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 8.24,
+      "end": 8.24,
+      "text": "[Intro - tambourine, walking bass, bright piano]"
+    },
+    {
+      "t": 8.24,
+      "end": 8.24,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 8.24,
+      "end": 25.78,
+      "text": "Alarm goes off at half past three"
+    },
+    {
+      "t": 25.92,
+      "end": 29.98,
+      "text": "Only the streetlamps keep an eye on me"
+    },
+    {
+      "t": 33.42,
+      "end": 37.96,
+      "text": "Down the stairs with my shoes in my hand"
+    },
+    {
+      "t": 37.96,
+      "end": 43.4,
+      "text": "Open the door and there's a warm surprise"
+    },
+    {
+      "t": 44.54,
+      "end": 44.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.54,
+      "end": 48.35,
+      "text": "Nobody's up but the milk float and me"
+    },
+    {
+      "t": 51.89,
+      "end": 55.23,
+      "text": "And a little note, your handwriting"
+    },
+    {
+      "t": 56.19,
+      "end": 56.19,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.19,
+      "end": 59.07,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 59.61,
+      "end": 63.09,
+      "text": "You're asleep, but you're looking out for me"
+    },
+    {
+      "t": 63.91,
+      "end": 67.19,
+      "text": "Sugar and steam and a drive safe, love"
+    },
+    {
+      "t": 67.79,
+      "end": 70.53,
+      "text": "Flask on the step, that's all I need"
+    },
+    {
+      "t": 71.67,
+      "end": 71.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.67,
+      "end": 74.85,
+      "text": "Seven o'clock I say good morning to town"
+    },
+    {
+      "t": 79.41,
+      "end": 82.41,
+      "text": "Four hundred thousand are listening now"
+    },
+    {
+      "t": 82.83,
+      "end": 85.59,
+      "text": "But the only one I'm talking to"
+    },
+    {
+      "t": 87.53,
+      "end": 91.53,
+      "text": "Is the girl who's still in bed with the cat"
+    },
+    {
+      "t": 95.11,
+      "end": 95.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.11,
+      "end": 98.01,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 98.53,
+      "end": 102.01,
+      "text": "You're asleep, but you're looking out for me"
+    },
+    {
+      "t": 102.85,
+      "end": 105.95,
+      "text": "Lemon and honey and a smiley face"
+    },
+    {
+      "t": 105.95,
+      "end": 108.31,
+      "text": "Flask on the step, I'll be home by three"
+    },
+    {
+      "t": 114.17,
+      "end": 114.17,
+      "text": "[Bridge - drums drop to handclaps and bass]"
+    },
+    {
+      "t": 114.17,
+      "end": 118.01,
+      "text": "Say it on the air, say it on the air"
+    },
+    {
+      "t": 118.05,
+      "end": 122.43,
+      "text": "Good morning, darling, the tea was perfect"
+    },
+    {
+      "t": 125.51,
+      "end": 125.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 125.51,
+      "end": 128.79,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 128.81,
+      "end": 136.44,
+      "text": "Wake up slow, I'm coming home to you"
+    },
+    {
+      "t": 136.58,
+      "end": 148.76,
+      "text": "Sugar and steam and a drive safe, love"
+    },
+    {
+      "t": 148.86,
+      "end": 155.98,
+      "text": "Flask on the step, that's all I need"
+    },
+    {
+      "t": 157.54,
+      "end": 157.54,
+      "text": "[Outro - sax riff, tambourine fade]"
+    },
+    {
+      "t": 157.54,
+      "end": 162.3,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 164.32,
+      "end": 168.36,
+      "text": "Thank you, darling, thank you for the tea"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 0.62,
+      "end": 0.62,
+      "text": "[Intro - tambourine, walking bass, bright piano]"
+    },
+    {
+      "t": 0.62,
+      "end": 0.62,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.62,
+      "end": 25.74,
+      "text": "Alarm goes off at half past three"
+    },
+    {
+      "t": 25.74,
+      "end": 29.98,
+      "text": "Only the streetlamps keep an eye on me"
+    },
+    {
+      "t": 33.42,
+      "end": 37.84,
+      "text": "Down the stairs with my shoes in my hand"
+    },
+    {
+      "t": 37.84,
+      "end": 44.52,
+      "text": "Open the door and there's a warm surprise"
+    },
+    {
+      "t": 44.54,
+      "end": 44.54,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.54,
+      "end": 48.35,
+      "text": "Nobody's up but the milk float and me"
+    },
+    {
+      "t": 51.91,
+      "end": 54.93,
+      "text": "And a little note, your handwriting"
+    },
+    {
+      "t": 54.93,
+      "end": 54.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 54.93,
+      "end": 59.61,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 59.63,
+      "end": 63.05,
+      "text": "You're asleep, but you're looking out for me"
+    },
+    {
+      "t": 63.93,
+      "end": 67.85,
+      "text": "Sugar and steam and a drive safe, love"
+    },
+    {
+      "t": 67.85,
+      "end": 70.53,
+      "text": "Flask on the step, that's all I need"
+    },
+    {
+      "t": 71.67,
+      "end": 71.67,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.67,
+      "end": 74.83,
+      "text": "Seven o'clock I say good morning to town"
+    },
+    {
+      "t": 79.41,
+      "end": 82.41,
+      "text": "Four hundred thousand are listening now"
+    },
+    {
+      "t": 82.85,
+      "end": 85.59,
+      "text": "But the only one I'm talking to"
+    },
+    {
+      "t": 87.51,
+      "end": 92.03,
+      "text": "Is the girl who's still in bed with the cat"
+    },
+    {
+      "t": 95.11,
+      "end": 95.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 95.11,
+      "end": 98.03,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 98.55,
+      "end": 106.59,
+      "text": "You're asleep, but you're looking out for me"
+    },
+    {
+      "t": 106.73,
+      "end": 116.43,
+      "text": "Lemon and honey and a smiley face"
+    },
+    {
+      "t": 116.61,
+      "end": 118.75,
+      "text": "Flask on the step, I'll be home by three"
+    },
+    {
+      "t": 118.75,
+      "end": 118.75,
+      "text": "[Bridge - drums drop to handclaps and bass]"
+    },
+    {
+      "t": 118.75,
+      "end": 122.07,
+      "text": "Say it on the air, say it on the air"
+    },
+    {
+      "t": 125.51,
+      "end": 130.15,
+      "text": "Good morning, darling, the tea was perfect"
+    },
+    {
+      "t": 133.47,
+      "end": 133.47,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 133.47,
+      "end": 137.3,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 137.66,
+      "end": 150.8,
+      "text": "Wake up slow, I'm coming home to you"
+    },
+    {
+      "t": 150.8,
+      "end": 158.08,
+      "text": "Sugar and steam and a drive safe, love"
+    },
+    {
+      "t": 158.08,
+      "end": 159.8,
+      "text": "Flask on the step, that's all I need"
+    },
+    {
+      "t": 159.8,
+      "end": 159.8,
+      "text": "[Outro - sax riff, tambourine fade]"
+    },
+    {
+      "t": 159.8,
+      "end": 162.44,
+      "text": "Flask on the step, flask on the step"
+    },
+    {
+      "t": 164.34,
+      "end": 168.38,
+      "text": "Thank you, darling, thank you for the tea"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

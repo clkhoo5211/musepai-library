@@ -1,0 +1,387 @@
+{
+  "id": "b25_en04",
+  "title": "Side B, Eleven Years",
+  "title_source": "scripted",
+  "genre": "upright-piano saloon torch ballad (1950s late-night lounge)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "hushed, rueful, tender",
+  "persona": "",
+  "subject": "a woman who still has the jazz record a man lent her eleven years ago and has never returned it, because as long as she has it he has a reason to call",
+  "caption": "1950s late-night lounge torch ballad in slow 6/8. Upright piano with slightly honky tone and sustained chords, brushed snare, upright bass walking gently, muted trumpet answering the vocal and a distant cello in the last chorus. Close-miked small-club room with soft tape saturation. Female lead, low alto, slow and fully sung with sustained notes. Clear full voice, every word enunciated, steady sung melody on every line. 66 BPM, F major. Hushed, rueful, tender mood. No drum machine, no electric guitar, no synth, no autotune, no dance beat.",
+  "lyrics": "[Intro - upright piano, brushed snare]\n\n[Verse 1]\nYou lent me a record on a Friday night\nSaid bring it back Friday, I'll leave on the light\nThe sleeve has gone soft where my thumb goes\nThe needle still finds it with its eyes closed\n\n[Pre-Chorus]\nI've moved four times and it came with me\nIn a box marked kitchen, so nobody sees\n\n[Chorus]\nSide B, eleven years\nStill waiting on your call\nI could post it in a minute\nThen you'd have no cause to call\n\n[Verse 2]\nA woman at the shop said just sell it, dear\nIt's worth some money, it's scratched, it's rare\nI said I know what it's worth to me\nIt's the only Friday I keep\n\n[Chorus]\nSide B, eleven years\nStill waiting on your call\nI could post it in a minute\nThen you'd have no cause to call\n\n[Bridge - piano alone, trumpet enters]\nIf you ask me for it back\nI'll say I lost it, come and look\n\n[Chorus]\nSide B, eleven years\nStill waiting on your call\nCome and get it, come and get it\nCome and take the record back\n\n[Outro - piano and muted trumpet, slow fade]\nBring it back Friday\nI'll leave on the light",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 66,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "1950s late-night lounge torch ballad in slow 6/8. Upright piano with slightly honky tone and sustained chords, brushed snare, upright bass walking gently, muted trumpet answering the vocal and a distant cello in the last chorus. Close-miked small-club room with soft tape saturation. Female lead, low alto, slow and fully sung with sustained notes. Clear full voice, every word enunciated, steady sung melody on every line. 66 BPM, F major. Hushed, rueful, tender mood. No drum machine, no electric guitar, no synth, no autotune, no dance beat.",
+    "lyrics": "[Intro - upright piano, brushed snare]\n\n[Verse 1]\nYou lent me a record on a Friday night\nSaid bring it back Friday, I'll leave on the light\nThe sleeve has gone soft where my thumb goes\nThe needle still finds it with its eyes closed\n\n[Pre-Chorus]\nI've moved four times and it came with me\nIn a box marked kitchen, so nobody sees\n\n[Chorus]\nSide B, eleven years\nStill waiting on your call\nI could post it in a minute\nThen you'd have no cause to call\n\n[Verse 2]\nA woman at the shop said just sell it, dear\nIt's worth some money, it's scratched, it's rare\nI said I know what it's worth to me\nIt's the only Friday I keep\n\n[Chorus]\nSide B, eleven years\nStill waiting on your call\nI could post it in a minute\nThen you'd have no cause to call\n\n[Bridge - piano alone, trumpet enters]\nIf you ask me for it back\nI'll say I lost it, come and look\n\n[Chorus]\nSide B, eleven years\nStill waiting on your call\nCome and get it, come and get it\nCome and take the record back\n\n[Outro - piano and muted trumpet, slow fade]\nBring it back Friday\nI'll leave on the light"
+  },
+  "seed": "4254439181",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 60.36s**\n- 60.36s per song\n- LM phase (1 song): 12.85s\n- DiT phase (1 song): 47.51s",
+  "task_id": "90fd6d81-e364-47d5-9ced-453ee17937e2",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-26T11:08:01.091013+08:00",
+  "audio": "b25_en04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.34,
+      "end": 27.34,
+      "text": "[Intro - upright piano, brushed snare]"
+    },
+    {
+      "t": 27.34,
+      "end": 27.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.34,
+      "end": 31.34,
+      "text": "You lent me a record on a Friday night"
+    },
+    {
+      "t": 34.28,
+      "end": 41.38,
+      "text": "Said bring it back Friday, I'll leave on the light"
+    },
+    {
+      "t": 41.88,
+      "end": 45.58,
+      "text": "The sleeve has gone soft where my thumb goes"
+    },
+    {
+      "t": 45.62,
+      "end": 51.18,
+      "text": "The needle still finds it with its eyes closed"
+    },
+    {
+      "t": 56.49,
+      "end": 56.49,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.49,
+      "end": 60.17,
+      "text": "I've moved four times and it came with me"
+    },
+    {
+      "t": 63.27,
+      "end": 69.29,
+      "text": "In a box marked kitchen, so nobody sees"
+    },
+    {
+      "t": 71.45,
+      "end": 71.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.45,
+      "end": 74.55,
+      "text": "Side B, eleven years"
+    },
+    {
+      "t": 74.63,
+      "end": 77.29,
+      "text": "Still waiting on your call"
+    },
+    {
+      "t": 77.77,
+      "end": 87.23,
+      "text": "I could post it in a minute"
+    },
+    {
+      "t": 87.23,
+      "end": 87.99,
+      "text": "Then you'd have no cause to call"
+    },
+    {
+      "t": 87.99,
+      "end": 87.99,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 87.99,
+      "end": 90.51,
+      "text": "A woman at the shop said just sell it, dear"
+    },
+    {
+      "t": 93.37,
+      "end": 98.15,
+      "text": "It's worth some money, it's scratched, it's rare"
+    },
+    {
+      "t": 101.13,
+      "end": 104.45,
+      "text": "I said I know what it's worth to me"
+    },
+    {
+      "t": 107.85,
+      "end": 111.65,
+      "text": "It's the only Friday I keep"
+    },
+    {
+      "t": 111.71,
+      "end": 111.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 111.71,
+      "end": 112.39,
+      "text": "Side B, eleven years"
+    },
+    {
+      "t": 112.41,
+      "end": 119.29,
+      "text": "Still waiting on your call"
+    },
+    {
+      "t": 119.93,
+      "end": 131.77,
+      "text": "I could post it in a minute"
+    },
+    {
+      "t": 131.87,
+      "end": 133.27,
+      "text": "Then you'd have no cause to call"
+    },
+    {
+      "t": 133.27,
+      "end": 133.27,
+      "text": "[Bridge - piano alone, trumpet enters]"
+    },
+    {
+      "t": 133.27,
+      "end": 134.01,
+      "text": "If you ask me for it back"
+    },
+    {
+      "t": 134.23,
+      "end": 141.11,
+      "text": "I'll say I lost it, come and look"
+    },
+    {
+      "t": 144.51,
+      "end": 144.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 144.51,
+      "end": 147.35,
+      "text": "Side B, eleven years"
+    },
+    {
+      "t": 148.19,
+      "end": 150.71,
+      "text": "Still waiting on your call"
+    },
+    {
+      "t": 151.87,
+      "end": 155.19,
+      "text": "Come and get it, come and get it"
+    },
+    {
+      "t": 155.39,
+      "end": 167.08,
+      "text": "Come and take the record back"
+    },
+    {
+      "t": 175.86,
+      "end": 175.86,
+      "text": "[Outro - piano and muted trumpet, slow fade]"
+    },
+    {
+      "t": 175.86,
+      "end": 177.76,
+      "text": "Bring it back Friday"
+    },
+    {
+      "t": 180.66,
+      "end": 206.36,
+      "text": "I'll leave on the light"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.34,
+      "end": 27.34,
+      "text": "[Intro - upright piano, brushed snare]"
+    },
+    {
+      "t": 27.34,
+      "end": 27.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.34,
+      "end": 31.94,
+      "text": "You lent me a record on a Friday night"
+    },
+    {
+      "t": 34.28,
+      "end": 38.86,
+      "text": "Said bring it back Friday, I'll leave on the light"
+    },
+    {
+      "t": 41.88,
+      "end": 45.58,
+      "text": "The sleeve has gone soft where my thumb goes"
+    },
+    {
+      "t": 45.62,
+      "end": 56.35,
+      "text": "The needle still finds it with its eyes closed"
+    },
+    {
+      "t": 56.43,
+      "end": 56.43,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.43,
+      "end": 60.17,
+      "text": "I've moved four times and it came with me"
+    },
+    {
+      "t": 63.27,
+      "end": 69.31,
+      "text": "In a box marked kitchen, so nobody sees"
+    },
+    {
+      "t": 71.45,
+      "end": 71.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 71.45,
+      "end": 74.63,
+      "text": "Side B, eleven years"
+    },
+    {
+      "t": 74.65,
+      "end": 77.39,
+      "text": "Still waiting on your call"
+    },
+    {
+      "t": 78.23,
+      "end": 87.41,
+      "text": "I could post it in a minute"
+    },
+    {
+      "t": 87.41,
+      "end": 88.23,
+      "text": "Then you'd have no cause to call"
+    },
+    {
+      "t": 88.31,
+      "end": 88.31,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.31,
+      "end": 90.43,
+      "text": "A woman at the shop said just sell it, dear"
+    },
+    {
+      "t": 93.37,
+      "end": 98.73,
+      "text": "It's worth some money, it's scratched, it's rare"
+    },
+    {
+      "t": 101.13,
+      "end": 104.45,
+      "text": "I said I know what it's worth to me"
+    },
+    {
+      "t": 107.85,
+      "end": 112.09,
+      "text": "It's the only Friday I keep"
+    },
+    {
+      "t": 112.09,
+      "end": 112.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 112.09,
+      "end": 120.27,
+      "text": "Side B, eleven years"
+    },
+    {
+      "t": 120.29,
+      "end": 126.25,
+      "text": "Still waiting on your call"
+    },
+    {
+      "t": 127.21,
+      "end": 131.87,
+      "text": "I could post it in a minute"
+    },
+    {
+      "t": 131.87,
+      "end": 132.67,
+      "text": "Then you'd have no cause to call"
+    },
+    {
+      "t": 132.69,
+      "end": 132.69,
+      "text": "[Bridge - piano alone, trumpet enters]"
+    },
+    {
+      "t": 132.69,
+      "end": 134.03,
+      "text": "If you ask me for it back"
+    },
+    {
+      "t": 134.21,
+      "end": 147.95,
+      "text": "I'll say I lost it, come and look"
+    },
+    {
+      "t": 147.95,
+      "end": 147.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 147.95,
+      "end": 148.47,
+      "text": "Side B, eleven years"
+    },
+    {
+      "t": 148.49,
+      "end": 150.75,
+      "text": "Still waiting on your call"
+    },
+    {
+      "t": 151.87,
+      "end": 177.58,
+      "text": "Come and get it, come and get it"
+    },
+    {
+      "t": 180.14,
+      "end": 188.86,
+      "text": "Come and take the record back"
+    },
+    {
+      "t": 188.86,
+      "end": 188.86,
+      "text": "[Outro - piano and muted trumpet, slow fade]"
+    },
+    {
+      "t": 188.86,
+      "end": 189.64,
+      "text": "Bring it back Friday"
+    },
+    {
+      "t": 189.64,
+      "end": 206.92,
+      "text": "I'll leave on the light"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

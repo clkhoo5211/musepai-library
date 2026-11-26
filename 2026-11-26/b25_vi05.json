@@ -1,0 +1,489 @@
+{
+  "id": "b25_vi05",
+  "title": "Gấu Quần Anh",
+  "title_source": "scripted",
+  "genre": "Vietnamese flamenco-pop (rumba flamenca) with nylon guitar, palmas and cajon",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "warm, tender, quietly romantic",
+  "persona": "",
+  "subject": "a sidewalk tailor's daughter hurriedly hemming a young man's trousers at her sewing-machine stall before his job interview, biting the thread, having already measured him by eye for months",
+  "caption": "Vietnamese flamenco-pop in rumba flamenca style. Nylon-string flamenca guitar playing quick rasgueado strums and light picado runs, palmas hand claps on the offbeats, cajon with a firm bass tone and a snappy slap, round acoustic bass, solo violin answering the vocal on the chorus. Dry intimate studio sound with natural room reverb and close-miked strings. Female warm low-mid voice, sung close and smiling. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, A minor. Warm, tender, quietly romantic mood. No electronic drums, no synth bass, no autotune, no rap, no heavy distortion.",
+  "lyrics": "[Intro - nylon guitar and palmas]\n\n[Verse 1]\nAnh chạy tới sạp may, mồ hôi trên trán\nChín giờ phỏng vấn, quần dài lòng thòng\nEm kéo anh ngồi, em lấy cây kim\nĐừng cựa quậy nhé, em may cho nhanh\n\n[Pre-Chorus]\nEm cắn sợi chỉ, cười không nhìn anh\nEm đo anh rồi, từ lâu lắm rồi\n\n[Chorus]\nGấu quần anh, em lên một phân\nĐường kim ngay thẳng, như em chờ anh\nGấu quần anh, em lên một phân\nAnh đi gặp sếp, đừng quên về đây\n\n[Verse 2]\nMáy khâu cũ kỹ, bàn đạp kêu leng keng\nBa em ngồi cạnh, giả vờ ngó báo\nAnh hỏi em ơi, bao nhiêu tiền vậy\nEm bảo lần sau, trả bằng ly chè\n\n[Chorus]\nGấu quần anh, em lên một phân\nĐường kim ngay thẳng, như em chờ anh\nGấu quần anh, em lên một phân\nAnh thắng hay thua, cứ về đây nhé\n\n[Bridge - guitar and violin]\nChín giờ mười lăm, anh đang đối diện\nEm ngồi may tiếp, lòng em bận lắm\n\n[Outro - guitar fades]\nChiều nay anh về, quần vừa vặn lắm\nEm chưa kịp hỏi, anh đã nói rồi",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 100,
+    "duration": 200.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Vietnamese flamenco-pop in rumba flamenca style. Nylon-string flamenca guitar playing quick rasgueado strums and light picado runs, palmas hand claps on the offbeats, cajon with a firm bass tone and a snappy slap, round acoustic bass, solo violin answering the vocal on the chorus. Dry intimate studio sound with natural room reverb and close-miked strings. Female warm low-mid voice, sung close and smiling. Clear full voice, every word enunciated, steady sung melody on every line. 100 BPM, A minor. Warm, tender, quietly romantic mood. No electronic drums, no synth bass, no autotune, no rap, no heavy distortion.",
+    "lyrics": "[Intro - nylon guitar and palmas]\n\n[Verse 1]\nAnh chạy tới sạp may, mồ hôi trên trán\nChín giờ phỏng vấn, quần dài lòng thòng\nEm kéo anh ngồi, em lấy cây kim\nĐừng cựa quậy nhé, em may cho nhanh\n\n[Pre-Chorus]\nEm cắn sợi chỉ, cười không nhìn anh\nEm đo anh rồi, từ lâu lắm rồi\n\n[Chorus]\nGấu quần anh, em lên một phân\nĐường kim ngay thẳng, như em chờ anh\nGấu quần anh, em lên một phân\nAnh đi gặp sếp, đừng quên về đây\n\n[Verse 2]\nMáy khâu cũ kỹ, bàn đạp kêu leng keng\nBa em ngồi cạnh, giả vờ ngó báo\nAnh hỏi em ơi, bao nhiêu tiền vậy\nEm bảo lần sau, trả bằng ly chè\n\n[Chorus]\nGấu quần anh, em lên một phân\nĐường kim ngay thẳng, như em chờ anh\nGấu quần anh, em lên một phân\nAnh thắng hay thua, cứ về đây nhé\n\n[Bridge - guitar and violin]\nChín giờ mười lăm, anh đang đối diện\nEm ngồi may tiếp, lòng em bận lắm\n\n[Outro - guitar fades]\nChiều nay anh về, quần vừa vặn lắm\nEm chưa kịp hỏi, anh đã nói rồi\n"
+  },
+  "seed": "2183048306",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 72.51s**\n- 72.51s per song\n- LM phase (1 song): 10.83s\n- DiT phase (1 song): 61.68s",
+  "task_id": "d2003bbe-124c-481b-bbac-87635c593afa",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-26T12:40:28.545258+08:00",
+  "audio": "b25_vi05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 21.32,
+      "end": 21.32,
+      "text": "[Intro - nylon guitar and palmas]"
+    },
+    {
+      "t": 21.32,
+      "end": 21.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.32,
+      "end": 26.22,
+      "text": "Anh chạy tới sạp may, mồ hôi trên trán"
+    },
+    {
+      "t": 29.88,
+      "end": 35.72,
+      "text": "Chín giờ phỏng vấn, quần dài lòng thòng"
+    },
+    {
+      "t": 40.2,
+      "end": 42.9,
+      "text": "Em kéo anh ngồi, em lấy cây kim"
+    },
+    {
+      "t": 42.94,
+      "end": 46.44,
+      "text": "Đừng cựa quậy nhé, em may cho nhanh"
+    },
+    {
+      "t": 48.06,
+      "end": 48.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.06,
+      "end": 51.45,
+      "text": "Em cắn sợi chỉ, cười không nhìn anh"
+    },
+    {
+      "t": 52.57,
+      "end": 55.95,
+      "text": "Em đo anh rồi, từ lâu lắm rồi"
+    },
+    {
+      "t": 59.41,
+      "end": 59.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.41,
+      "end": 62.35,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 62.35,
+      "end": 72.77,
+      "text": "Đường kim ngay thẳng, như em chờ anh"
+    },
+    {
+      "t": 76.17,
+      "end": 79.79,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 81.07,
+      "end": 84.67,
+      "text": "Anh đi gặp sếp, đừng quên về đây"
+    },
+    {
+      "t": 89.09,
+      "end": 89.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.09,
+      "end": 91.85,
+      "text": "Máy khâu cũ kỹ, bàn đạp kêu leng keng"
+    },
+    {
+      "t": 93.93,
+      "end": 97.59,
+      "text": "Ba em ngồi cạnh, giả vờ ngó báo"
+    },
+    {
+      "t": 99.05,
+      "end": 101.39,
+      "text": "Anh hỏi em ơi, bao nhiêu tiền vậy"
+    },
+    {
+      "t": 101.43,
+      "end": 104.71,
+      "text": "Em bảo lần sau, trả bằng ly chè"
+    },
+    {
+      "t": 104.71,
+      "end": 104.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.71,
+      "end": 107.49,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 107.49,
+      "end": 108.33,
+      "text": "Đường kim ngay thẳng, như em chờ anh"
+    },
+    {
+      "t": 108.33,
+      "end": 108.93,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 108.95,
+      "end": 149.71,
+      "text": "Anh thắng hay thua, cứ về đây nhé"
+    },
+    {
+      "t": 149.71,
+      "end": 149.71,
+      "text": "[Bridge - guitar and violin]"
+    },
+    {
+      "t": 149.71,
+      "end": 154.62,
+      "text": "Chín giờ mười lăm, anh đang đối diện"
+    },
+    {
+      "t": 159.08,
+      "end": 164.16,
+      "text": "Em ngồi may tiếp, lòng em bận lắm"
+    },
+    {
+      "t": 168.6,
+      "end": 168.6,
+      "text": "[Outro - guitar fades]"
+    },
+    {
+      "t": 168.6,
+      "end": 173.92,
+      "text": "Chiều nay anh về, quần vừa vặn lắm"
+    },
+    {
+      "t": 178.26,
+      "end": 184.42,
+      "text": "Em chưa kịp hỏi, anh đã nói rồi"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 21.32,
+      "end": 21.32,
+      "text": "[Intro - nylon guitar and palmas]"
+    },
+    {
+      "t": 21.32,
+      "end": 21.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.32,
+      "end": 26.22,
+      "text": "Anh chạy tới sạp may, mồ hôi trên trán"
+    },
+    {
+      "t": 29.88,
+      "end": 35.72,
+      "text": "Chín giờ phỏng vấn, quần dài lòng thòng"
+    },
+    {
+      "t": 40.2,
+      "end": 42.9,
+      "text": "Em kéo anh ngồi, em lấy cây kim"
+    },
+    {
+      "t": 42.94,
+      "end": 46.44,
+      "text": "Đừng cựa quậy nhé, em may cho nhanh"
+    },
+    {
+      "t": 48.06,
+      "end": 48.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.06,
+      "end": 51.45,
+      "text": "Em cắn sợi chỉ, cười không nhìn anh"
+    },
+    {
+      "t": 52.57,
+      "end": 55.95,
+      "text": "Em đo anh rồi, từ lâu lắm rồi"
+    },
+    {
+      "t": 59.41,
+      "end": 59.41,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.41,
+      "end": 62.35,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 62.35,
+      "end": 72.77,
+      "text": "Đường kim ngay thẳng, như em chờ anh"
+    },
+    {
+      "t": 76.17,
+      "end": 79.79,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 81.07,
+      "end": 84.67,
+      "text": "Anh đi gặp sếp, đừng quên về đây"
+    },
+    {
+      "t": 89.09,
+      "end": 89.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.09,
+      "end": 91.85,
+      "text": "Máy khâu cũ kỹ, bàn đạp kêu leng keng"
+    },
+    {
+      "t": 93.93,
+      "end": 97.59,
+      "text": "Ba em ngồi cạnh, giả vờ ngó báo"
+    },
+    {
+      "t": 99.05,
+      "end": 101.39,
+      "text": "Anh hỏi em ơi, bao nhiêu tiền vậy"
+    },
+    {
+      "t": 101.43,
+      "end": 104.71,
+      "text": "Em bảo lần sau, trả bằng ly chè"
+    },
+    {
+      "t": 104.71,
+      "end": 104.71,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.71,
+      "end": 107.49,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 107.49,
+      "end": 108.33,
+      "text": "Đường kim ngay thẳng, như em chờ anh"
+    },
+    {
+      "t": 108.33,
+      "end": 108.93,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 108.95,
+      "end": 149.71,
+      "text": "Anh thắng hay thua, cứ về đây nhé"
+    },
+    {
+      "t": 149.71,
+      "end": 149.71,
+      "text": "[Bridge - guitar and violin]"
+    },
+    {
+      "t": 149.71,
+      "end": 154.62,
+      "text": "Chín giờ mười lăm, anh đang đối diện"
+    },
+    {
+      "t": 159.08,
+      "end": 164.16,
+      "text": "Em ngồi may tiếp, lòng em bận lắm"
+    },
+    {
+      "t": 168.6,
+      "end": 168.6,
+      "text": "[Outro - guitar fades]"
+    },
+    {
+      "t": 168.6,
+      "end": 173.92,
+      "text": "Chiều nay anh về, quần vừa vặn lắm"
+    },
+    {
+      "t": 178.26,
+      "end": 184.42,
+      "text": "Em chưa kịp hỏi, anh đã nói rồi"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 21.32,
+      "end": 21.32,
+      "text": "[Intro - nylon guitar and palmas]"
+    },
+    {
+      "t": 21.32,
+      "end": 21.32,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 21.32,
+      "end": 26.22,
+      "text": "Anh chạy tới sạp may, mồ hôi trên trán"
+    },
+    {
+      "t": 29.86,
+      "end": 35.7,
+      "text": "Chín giờ phỏng vấn, quần dài lòng thòng"
+    },
+    {
+      "t": 40.22,
+      "end": 42.9,
+      "text": "Em kéo anh ngồi, em lấy cây kim"
+    },
+    {
+      "t": 42.94,
+      "end": 48.04,
+      "text": "Đừng cựa quậy nhé, em may cho nhanh"
+    },
+    {
+      "t": 48.06,
+      "end": 48.06,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.06,
+      "end": 52.55,
+      "text": "Em cắn sợi chỉ, cười không nhìn anh"
+    },
+    {
+      "t": 52.57,
+      "end": 55.93,
+      "text": "Em đo anh rồi, từ lâu lắm rồi"
+    },
+    {
+      "t": 56.97,
+      "end": 56.97,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 56.97,
+      "end": 62.99,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 65.27,
+      "end": 72.77,
+      "text": "Đường kim ngay thẳng, như em chờ anh"
+    },
+    {
+      "t": 76.17,
+      "end": 79.77,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 81.07,
+      "end": 84.61,
+      "text": "Anh đi gặp sếp, đừng quên về đây"
+    },
+    {
+      "t": 89.09,
+      "end": 89.09,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 89.09,
+      "end": 91.81,
+      "text": "Máy khâu cũ kỹ, bàn đạp kêu leng keng"
+    },
+    {
+      "t": 93.93,
+      "end": 97.55,
+      "text": "Ba em ngồi cạnh, giả vờ ngó báo"
+    },
+    {
+      "t": 99.05,
+      "end": 101.39,
+      "text": "Anh hỏi em ơi, bao nhiêu tiền vậy"
+    },
+    {
+      "t": 101.39,
+      "end": 104.89,
+      "text": "Em bảo lần sau, trả bằng ly chè"
+    },
+    {
+      "t": 104.89,
+      "end": 104.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 104.89,
+      "end": 108.15,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 108.15,
+      "end": 123.53,
+      "text": "Đường kim ngay thẳng, như em chờ anh"
+    },
+    {
+      "t": 123.53,
+      "end": 125.29,
+      "text": "Gấu quần anh, em lên một phân"
+    },
+    {
+      "t": 125.29,
+      "end": 139.31,
+      "text": "Anh thắng hay thua, cứ về đây nhé"
+    },
+    {
+      "t": 149.35,
+      "end": 149.35,
+      "text": "[Bridge - guitar and violin]"
+    },
+    {
+      "t": 149.35,
+      "end": 154.62,
+      "text": "Chín giờ mười lăm, anh đang đối diện"
+    },
+    {
+      "t": 159.08,
+      "end": 164.14,
+      "text": "Em ngồi may tiếp, lòng em bận lắm"
+    },
+    {
+      "t": 168.58,
+      "end": 168.58,
+      "text": "[Outro - guitar fades]"
+    },
+    {
+      "t": 168.58,
+      "end": 173.92,
+      "text": "Chiều nay anh về, quần vừa vặn lắm"
+    },
+    {
+      "t": 178.26,
+      "end": 184.4,
+      "text": "Em chưa kịp hỏi, anh đã nói rồi"
+    }
+  ]
+}

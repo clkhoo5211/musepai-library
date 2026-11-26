@@ -1,0 +1,397 @@
+{
+  "id": "b25_zh05",
+  "title": "最後一支原子筆",
+  "title_source": "scripted",
+  "genre": "Taiwanese jangle-pop indie rock (12-string guitar, organ and tambourine)",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "bright, warm, quietly devoted",
+  "persona": "",
+  "subject": "a woman keeps a tin of ballpoint pens taken from every place she and her boyfriend visited, and when the Hualien motel pen dries up and goes in the drawer, he secretly picks it apart at night and refits a new refill",
+  "caption": "Taiwanese jangle-pop indie rock, Mandarin. Jangly 12-string electric guitar strumming open chords, a second clean guitar picking counter-lines, combo organ pad, clean bass with the drummer on a driving tambourine and snare backbeat. Live-room indie recording, bright chimey guitars, light plate reverb. Female vocal, light mid-register, earnest and clearly sung. 128 BPM, D major. Bright, warm, quietly devoted. No distorted guitars, no synth lead, no autotune, no rap, no big stadium drums. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - 12-string guitar, tambourine]\n[Verse 1]\n鐵罐裡躺著四十七支筆\n每一支印著一個地名\n花蓮的民宿 台南的銀行\n還有墾丁帶回來的那一支\n[Pre-Chorus]\n你說順手拿一支沒關係\n我說這是我們的證據\n[Chorus]\n這支筆 還能寫\n你換了新芯 在我睡著的夜晚\n這支筆 還能寫\n把我們的名字寫在背面\n[Verse 2]\n上個月它寫不出字了\n我把它丟進最底的抽屜\n你半夜拿出小刀 拆開筆管\n換了一支新的筆芯\n[Pre-Chorus]\n天亮你手指沾著藍墨水\n假裝什麼事都沒發生\n[Chorus]\n這支筆 還能寫\n你換了新芯 在我睡著的夜晚\n這支筆 還能寫\n我在第一頁寫上你的名\n[Bridge - organ and guitar, drums drop out]\n四十七支筆 四十七個地方\n下一個地方 我來決定\n[Chorus]\n這支筆 還能寫\n寫到墨水用完 再換新的\n這支筆 還能寫\n把我們的名字寫在背面\n[Outro - 12-string guitar and tambourine, ring out]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 128,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Taiwanese jangle-pop indie rock, Mandarin. Jangly 12-string electric guitar strumming open chords, a second clean guitar picking counter-lines, combo organ pad, clean bass with the drummer on a driving tambourine and snare backbeat. Live-room indie recording, bright chimey guitars, light plate reverb. Female vocal, light mid-register, earnest and clearly sung. 128 BPM, D major. Bright, warm, quietly devoted. No distorted guitars, no synth lead, no autotune, no rap, no big stadium drums. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - 12-string guitar, tambourine]\n[Verse 1]\n鐵罐裡躺著四十七支筆\n每一支印著一個地名\n花蓮的民宿 台南的銀行\n還有墾丁帶回來的那一支\n[Pre-Chorus]\n你說順手拿一支沒關係\n我說這是我們的證據\n[Chorus]\n這支筆 還能寫\n你換了新芯 在我睡著的夜晚\n這支筆 還能寫\n把我們的名字寫在背面\n[Verse 2]\n上個月它寫不出字了\n我把它丟進最底的抽屜\n你半夜拿出小刀 拆開筆管\n換了一支新的筆芯\n[Pre-Chorus]\n天亮你手指沾著藍墨水\n假裝什麼事都沒發生\n[Chorus]\n這支筆 還能寫\n你換了新芯 在我睡著的夜晚\n這支筆 還能寫\n我在第一頁寫上你的名\n[Bridge - organ and guitar, drums drop out]\n四十七支筆 四十七個地方\n下一個地方 我來決定\n[Chorus]\n這支筆 還能寫\n寫到墨水用完 再換新的\n這支筆 還能寫\n把我們的名字寫在背面\n[Outro - 12-string guitar and tambourine, ring out]"
+  },
+  "seed": "298825798",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.57s**\n- 56.57s per song\n- LM phase (1 song): 10.67s\n- DiT phase (1 song): 45.90s",
+  "task_id": "dac3739b-2b23-4338-a15e-f9f0afdca715",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-26T12:46:09.081735+08:00",
+  "audio": "b25_zh05.mp3",
+  "lyrics_timed": [
+    {
+      "t": 0.06,
+      "end": 0.06,
+      "text": "[Intro - 12-string guitar, tambourine]"
+    },
+    {
+      "t": 0.06,
+      "end": 0.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.06,
+      "end": 4.92,
+      "text": "鐵罐裡躺著四十七支筆"
+    },
+    {
+      "t": 4.92,
+      "end": 8.28,
+      "text": "每一支印著一個地名"
+    },
+    {
+      "t": 8.3,
+      "end": 38.5,
+      "text": "花蓮的民宿 台南的銀行"
+    },
+    {
+      "t": 38.5,
+      "end": 40.28,
+      "text": "還有墾丁帶回來的那一支"
+    },
+    {
+      "t": 40.32,
+      "end": 40.32,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.32,
+      "end": 43.0,
+      "text": "你說順手拿一支沒關係"
+    },
+    {
+      "t": 43.0,
+      "end": 44.7,
+      "text": "我說這是我們的證據"
+    },
+    {
+      "t": 44.86,
+      "end": 44.86,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 44.86,
+      "end": 46.26,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 46.28,
+      "end": 50.81,
+      "text": "你換了新芯 在我睡著的夜晚"
+    },
+    {
+      "t": 50.81,
+      "end": 51.45,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 51.45,
+      "end": 57.19,
+      "text": "把我們的名字寫在背面"
+    },
+    {
+      "t": 57.27,
+      "end": 57.27,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 57.27,
+      "end": 58.77,
+      "text": "上個月它寫不出字了"
+    },
+    {
+      "t": 58.77,
+      "end": 60.17,
+      "text": "我把它丟進最底的抽屜"
+    },
+    {
+      "t": 60.17,
+      "end": 65.13,
+      "text": "你半夜拿出小刀 拆開筆管"
+    },
+    {
+      "t": 65.21,
+      "end": 67.23,
+      "text": "換了一支新的筆芯"
+    },
+    {
+      "t": 69.67,
+      "end": 69.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 69.67,
+      "end": 73.77,
+      "text": "天亮你手指沾著藍墨水"
+    },
+    {
+      "t": 77.19,
+      "end": 81.93,
+      "text": "假裝什麼事都沒發生"
+    },
+    {
+      "t": 84.65,
+      "end": 84.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 84.65,
+      "end": 86.71,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 86.73,
+      "end": 100.01,
+      "text": "你換了新芯 在我睡著的夜晚"
+    },
+    {
+      "t": 100.13,
+      "end": 104.45,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 107.37,
+      "end": 112.25,
+      "text": "我在第一頁寫上你的名"
+    },
+    {
+      "t": 120.71,
+      "end": 120.71,
+      "text": "[Bridge - organ and guitar, drums drop out]"
+    },
+    {
+      "t": 120.71,
+      "end": 124.03,
+      "text": "四十七支筆 四十七個地方"
+    },
+    {
+      "t": 124.23,
+      "end": 134.97,
+      "text": "下一個地方 我來決定"
+    },
+    {
+      "t": 134.99,
+      "end": 134.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 134.99,
+      "end": 137.75,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 138.27,
+      "end": 146.26,
+      "text": "寫到墨水用完 再換新的"
+    },
+    {
+      "t": 148.12,
+      "end": 159.54,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 160.32,
+      "end": 164.28,
+      "text": "把我們的名字寫在背面"
+    },
+    {
+      "t": 164.28,
+      "end": 164.28,
+      "text": "[Outro - 12-string guitar and tambourine, ring out]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 38.48,
+      "end": 38.48,
+      "text": "[Intro - 12-string guitar, tambourine]"
+    },
+    {
+      "t": 38.48,
+      "end": 38.48,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 38.48,
+      "end": 40.76,
+      "text": "鐵罐裡躺著四十七支筆"
+    },
+    {
+      "t": 40.76,
+      "end": 43.34,
+      "text": "每一支印著一個地名"
+    },
+    {
+      "t": 43.48,
+      "end": 45.34,
+      "text": "花蓮的民宿 台南的銀行"
+    },
+    {
+      "t": 45.34,
+      "end": 48.91,
+      "text": "還有墾丁帶回來的那一支"
+    },
+    {
+      "t": 48.99,
+      "end": 48.99,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.99,
+      "end": 49.83,
+      "text": "你說順手拿一支沒關係"
+    },
+    {
+      "t": 49.83,
+      "end": 50.93,
+      "text": "我說這是我們的證據"
+    },
+    {
+      "t": 50.93,
+      "end": 50.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.93,
+      "end": 51.73,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 51.77,
+      "end": 57.19,
+      "text": "你換了新芯 在我睡著的夜晚"
+    },
+    {
+      "t": 57.19,
+      "end": 57.85,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 57.85,
+      "end": 58.85,
+      "text": "把我們的名字寫在背面"
+    },
+    {
+      "t": 58.93,
+      "end": 58.93,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 58.93,
+      "end": 62.57,
+      "text": "上個月它寫不出字了"
+    },
+    {
+      "t": 62.57,
+      "end": 63.73,
+      "text": "我把它丟進最底的抽屜"
+    },
+    {
+      "t": 63.83,
+      "end": 65.49,
+      "text": "你半夜拿出小刀 拆開筆管"
+    },
+    {
+      "t": 65.53,
+      "end": 69.65,
+      "text": "換了一支新的筆芯"
+    },
+    {
+      "t": 69.67,
+      "end": 69.67,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 69.67,
+      "end": 73.79,
+      "text": "天亮你手指沾著藍墨水"
+    },
+    {
+      "t": 77.17,
+      "end": 81.97,
+      "text": "假裝什麼事都沒發生"
+    },
+    {
+      "t": 84.65,
+      "end": 84.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 84.65,
+      "end": 86.69,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 86.69,
+      "end": 97.19,
+      "text": "你換了新芯 在我睡著的夜晚"
+    },
+    {
+      "t": 99.85,
+      "end": 107.35,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 107.35,
+      "end": 112.27,
+      "text": "我在第一頁寫上你的名"
+    },
+    {
+      "t": 121.19,
+      "end": 121.19,
+      "text": "[Bridge - organ and guitar, drums drop out]"
+    },
+    {
+      "t": 121.19,
+      "end": 124.03,
+      "text": "四十七支筆 四十七個地方"
+    },
+    {
+      "t": 124.21,
+      "end": 127.75,
+      "text": "下一個地方 我來決定"
+    },
+    {
+      "t": 127.81,
+      "end": 127.81,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 127.81,
+      "end": 142.35,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 142.35,
+      "end": 148.46,
+      "text": "寫到墨水用完 再換新的"
+    },
+    {
+      "t": 148.62,
+      "end": 149.74,
+      "text": "這支筆 還能寫"
+    },
+    {
+      "t": 160.32,
+      "end": 164.26,
+      "text": "把我們的名字寫在背面"
+    },
+    {
+      "t": 164.26,
+      "end": 164.26,
+      "text": "[Outro - 12-string guitar and tambourine, ring out]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

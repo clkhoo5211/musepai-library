@@ -1,0 +1,397 @@
+{
+  "id": "b25_ja01",
+  "title": "ドアチャイムのリクエスト",
+  "title_source": "scripted",
+  "genre": "Showa nagashi-style kayokyoku (Shinjuku wandering-guitarist ballad)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "wistful, warm, late-night",
+  "persona": "",
+  "subject": "a convenience-store night clerk and the last wandering nagashi guitarist, who buys one canned coffee at 2 a.m. and pays for it by playing the two-note door chime as a song",
+  "caption": "Showa nagashi-style kayokyoku, Shinjuku wandering-guitarist ballad. Nylon-string guitar fingerpicked with a slow arpeggio, accordion holding long sustained chords, upright bass walking gently, brushed snare on the backbeat. Dry 1970s studio sound, tape warmth, light plate reverb. Male baritone, mid-low register, clearly sung ballad melody with a slight kobushi at phrase ends. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, A minor. Wistful, warm, late-night mood. No electronic drums, no autotune, no trap hi-hats, no distorted guitar, no pop synth pads.",
+  "lyrics": "[Intro - nylon guitar and accordion]\n[Verse 1]\n午前二時の コンビニの前\nギターを背負った 爺さんが\n缶コーヒーを ひとつだけ\n毎晩おなじ 時間に買う\n[Pre-Chorus]\nレジに立つ僕に 笑って言った\n流しの仕事は もうないんだと\n[Chorus]\nリクエストは 何かあるかい\nドアが開くたび 鳴るあの音を\nピンポンと鳴る 二つの音を\n爺さんの指が 歌にする\n[Verse 2]\n朝まで続く 長い夜勤\n僕の仕事は 弁当を並べる\n爺さんの膝で 弦が鳴ると\n冷たい棚が 少しあったかい\n[Pre-Chorus]\n客が来ない 三時過ぎ\n店の中に 昭和が流れる\n[Chorus]\nリクエストは 何かあるかい\nドアが開くたび 鳴るあの音を\nピンポンと鳴る 二つの音を\n今夜は僕が 口ずさむ\n[Bridge - accordion alone]\n缶コーヒーの 代わりに\n一曲 おごらせてくれ\n[Chorus]\nありがとうと 言う代わりに\nドアが開くたび 鳴るあの音を\nピンポンと鳴る 二つの音を\n始発が来るまで 弾いている\n[Outro - nylon guitar fades]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 72,
+    "duration": 210.0,
+    "genres": "N/A",
+    "keyscale": "A minor",
+    "timesignature": "4",
+    "prompt": "Showa nagashi-style kayokyoku, Shinjuku wandering-guitarist ballad. Nylon-string guitar fingerpicked with a slow arpeggio, accordion holding long sustained chords, upright bass walking gently, brushed snare on the backbeat. Dry 1970s studio sound, tape warmth, light plate reverb. Male baritone, mid-low register, clearly sung ballad melody with a slight kobushi at phrase ends. Clear full voice, every word enunciated, steady sung melody on every line. 72 BPM, A minor. Wistful, warm, late-night mood. No electronic drums, no autotune, no trap hi-hats, no distorted guitar, no pop synth pads.",
+    "lyrics": "[Intro - nylon guitar and accordion]\n[Verse 1]\n午前二時の コンビニの前\nギターを背負った 爺さんが\n缶コーヒーを ひとつだけ\n毎晩おなじ 時間に買う\n[Pre-Chorus]\nレジに立つ僕に 笑って言った\n流しの仕事は もうないんだと\n[Chorus]\nリクエストは 何かあるかい\nドアが開くたび 鳴るあの音を\nピンポンと鳴る 二つの音を\n爺さんの指が 歌にする\n[Verse 2]\n朝まで続く 長い夜勤\n僕の仕事は 弁当を並べる\n爺さんの膝で 弦が鳴ると\n冷たい棚が 少しあったかい\n[Pre-Chorus]\n客が来ない 三時過ぎ\n店の中に 昭和が流れる\n[Chorus]\nリクエストは 何かあるかい\nドアが開くたび 鳴るあの音を\nピンポンと鳴る 二つの音を\n今夜は僕が 口ずさむ\n[Bridge - accordion alone]\n缶コーヒーの 代わりに\n一曲 おごらせてくれ\n[Chorus]\nありがとうと 言う代わりに\nドアが開くたび 鳴るあの音を\nピンポンと鳴る 二つの音を\n始発が来るまで 弾いている\n[Outro - nylon guitar fades]"
+  },
+  "seed": "1714720584",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.49s**\n- 57.49s per song\n- LM phase (1 song): 14.44s\n- DiT phase (1 song): 43.04s",
+  "task_id": "3ade243d-5e7a-449a-a571-1d8257d99bac",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-26T11:17:53.296215+08:00",
+  "audio": "b25_ja01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Intro - nylon guitar and accordion]"
+    },
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.76,
+      "end": 30.04,
+      "text": "午前二時の コンビニの前"
+    },
+    {
+      "t": 30.06,
+      "end": 37.84,
+      "text": "ギターを背負った 爺さんが"
+    },
+    {
+      "t": 37.84,
+      "end": 39.1,
+      "text": "缶コーヒーを ひとつだけ"
+    },
+    {
+      "t": 39.1,
+      "end": 40.0,
+      "text": "毎晩おなじ 時間に買う"
+    },
+    {
+      "t": 40.0,
+      "end": 40.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.0,
+      "end": 46.14,
+      "text": "レジに立つ僕に 笑って言った"
+    },
+    {
+      "t": 46.14,
+      "end": 47.94,
+      "text": "流しの仕事は もうないんだと"
+    },
+    {
+      "t": 50.6,
+      "end": 50.6,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.6,
+      "end": 54.27,
+      "text": "リクエストは 何かあるかい"
+    },
+    {
+      "t": 57.17,
+      "end": 60.61,
+      "text": "ドアが開くたび 鳴るあの音を"
+    },
+    {
+      "t": 64.15,
+      "end": 67.79,
+      "text": "ピンポンと鳴る 二つの音を"
+    },
+    {
+      "t": 69.73,
+      "end": 71.71,
+      "text": "爺さんの指が 歌にする"
+    },
+    {
+      "t": 71.79,
+      "end": 71.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 71.79,
+      "end": 73.35,
+      "text": "朝まで続く 長い夜勤"
+    },
+    {
+      "t": 73.35,
+      "end": 80.59,
+      "text": "僕の仕事は 弁当を並べる"
+    },
+    {
+      "t": 80.59,
+      "end": 83.63,
+      "text": "爺さんの膝で 弦が鳴ると"
+    },
+    {
+      "t": 86.51,
+      "end": 90.83,
+      "text": "冷たい棚が 少しあったかい"
+    },
+    {
+      "t": 93.93,
+      "end": 93.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.93,
+      "end": 97.83,
+      "text": "客が来ない 三時過ぎ"
+    },
+    {
+      "t": 100.51,
+      "end": 104.11,
+      "text": "店の中に 昭和が流れる"
+    },
+    {
+      "t": 106.37,
+      "end": 106.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.37,
+      "end": 110.33,
+      "text": "リクエストは 何かあるかい"
+    },
+    {
+      "t": 113.07,
+      "end": 116.65,
+      "text": "ドアが開くたび 鳴るあの音を"
+    },
+    {
+      "t": 120.57,
+      "end": 125.27,
+      "text": "ピンポンと鳴る 二つの音を"
+    },
+    {
+      "t": 126.73,
+      "end": 131.21,
+      "text": "今夜は僕が 口ずさむ"
+    },
+    {
+      "t": 133.73,
+      "end": 133.73,
+      "text": "[Bridge - accordion alone]"
+    },
+    {
+      "t": 133.73,
+      "end": 137.63,
+      "text": "缶コーヒーの 代わりに"
+    },
+    {
+      "t": 140.89,
+      "end": 143.97,
+      "text": "一曲 おごらせてくれ"
+    },
+    {
+      "t": 155.07,
+      "end": 155.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 155.07,
+      "end": 170.24,
+      "text": "ありがとうと 言う代わりに"
+    },
+    {
+      "t": 173.52,
+      "end": 176.86,
+      "text": "ドアが開くたび 鳴るあの音を"
+    },
+    {
+      "t": 183.98,
+      "end": 188.44,
+      "text": "ピンポンと鳴る 二つの音を"
+    },
+    {
+      "t": 190.78,
+      "end": 195.94,
+      "text": "始発が来るまで 弾いている"
+    },
+    {
+      "t": 195.94,
+      "end": 195.94,
+      "text": "[Outro - nylon guitar fades]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Intro - nylon guitar and accordion]"
+    },
+    {
+      "t": 26.76,
+      "end": 26.76,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 26.76,
+      "end": 30.04,
+      "text": "午前二時の コンビニの前"
+    },
+    {
+      "t": 30.08,
+      "end": 37.84,
+      "text": "ギターを背負った 爺さんが"
+    },
+    {
+      "t": 37.84,
+      "end": 39.08,
+      "text": "缶コーヒーを ひとつだけ"
+    },
+    {
+      "t": 39.08,
+      "end": 40.0,
+      "text": "毎晩おなじ 時間に買う"
+    },
+    {
+      "t": 40.0,
+      "end": 40.0,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 40.0,
+      "end": 46.02,
+      "text": "レジに立つ僕に 笑って言った"
+    },
+    {
+      "t": 46.02,
+      "end": 47.94,
+      "text": "流しの仕事は もうないんだと"
+    },
+    {
+      "t": 50.6,
+      "end": 50.6,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 50.6,
+      "end": 54.27,
+      "text": "リクエストは 何かあるかい"
+    },
+    {
+      "t": 57.17,
+      "end": 60.61,
+      "text": "ドアが開くたび 鳴るあの音を"
+    },
+    {
+      "t": 64.15,
+      "end": 66.57,
+      "text": "ピンポンと鳴る 二つの音を"
+    },
+    {
+      "t": 66.59,
+      "end": 69.73,
+      "text": "爺さんの指が 歌にする"
+    },
+    {
+      "t": 69.73,
+      "end": 69.73,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 69.73,
+      "end": 71.57,
+      "text": "朝まで続く 長い夜勤"
+    },
+    {
+      "t": 71.57,
+      "end": 73.95,
+      "text": "僕の仕事は 弁当を並べる"
+    },
+    {
+      "t": 79.77,
+      "end": 83.63,
+      "text": "爺さんの膝で 弦が鳴ると"
+    },
+    {
+      "t": 86.77,
+      "end": 90.85,
+      "text": "冷たい棚が 少しあったかい"
+    },
+    {
+      "t": 93.93,
+      "end": 93.93,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 93.93,
+      "end": 97.83,
+      "text": "客が来ない 三時過ぎ"
+    },
+    {
+      "t": 100.51,
+      "end": 104.13,
+      "text": "店の中に 昭和が流れる"
+    },
+    {
+      "t": 106.37,
+      "end": 106.37,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 106.37,
+      "end": 110.35,
+      "text": "リクエストは 何かあるかい"
+    },
+    {
+      "t": 113.07,
+      "end": 116.65,
+      "text": "ドアが開くたび 鳴るあの音を"
+    },
+    {
+      "t": 120.57,
+      "end": 125.29,
+      "text": "ピンポンと鳴る 二つの音を"
+    },
+    {
+      "t": 126.73,
+      "end": 131.23,
+      "text": "今夜は僕が 口ずさむ"
+    },
+    {
+      "t": 133.73,
+      "end": 133.73,
+      "text": "[Bridge - accordion alone]"
+    },
+    {
+      "t": 133.73,
+      "end": 137.63,
+      "text": "缶コーヒーの 代わりに"
+    },
+    {
+      "t": 140.89,
+      "end": 143.93,
+      "text": "一曲 おごらせてくれ"
+    },
+    {
+      "t": 143.93,
+      "end": 143.93,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 143.93,
+      "end": 170.24,
+      "text": "ありがとうと 言う代わりに"
+    },
+    {
+      "t": 173.48,
+      "end": 176.88,
+      "text": "ドアが開くたび 鳴るあの音を"
+    },
+    {
+      "t": 183.96,
+      "end": 188.66,
+      "text": "ピンポンと鳴る 二つの音を"
+    },
+    {
+      "t": 190.78,
+      "end": 195.92,
+      "text": "始発が来るまで 弾いている"
+    },
+    {
+      "t": 195.92,
+      "end": 195.92,
+      "text": "[Outro - nylon guitar fades]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

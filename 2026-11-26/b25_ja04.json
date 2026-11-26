@@ -1,0 +1,579 @@
+{
+  "id": "b25_ja04",
+  "title": "廃棄のうた",
+  "title_source": "scripted",
+  "genre": "Japanese forró pop (accordion, zabumba and triangle, upbeat danceable)",
+  "language": "ja",
+  "language_name": "Japanese",
+  "mood": "comic, brisk, tender",
+  "persona": "",
+  "subject": "a night clerk who must scan and throw out the expired onigiri at 2 a.m., and says sorry to each one on the senior clerk's enka-style advice to sing the discard with kobushi",
+  "caption": "Japanese forró pop, upbeat and danceable. Accordion playing a bright lilting riff, zabumba bass drum and triangle driving a steady baião dance groove, ganzá shaker, round electric bass, bright acoustic guitar strum, handclaps on the offbeat. Warm live-room sound with dry zabumba. Male tenor, strong warm delivery with bright open phrasing, every note clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 122 BPM, C major. Comic, brisk, tender mood. No autotune, no trap drums, no rapped delivery, no modern EDM drops, no synth brass.",
+  "lyrics": "[Intro - accordion and zabumba]\n[Verse 1]\n午前二時の 廃棄の時間\nおにぎり十個 かごに入れ\nバーコードを ピッと読むたびに\nごめんねと 小さくつぶやく\n[Pre-Chorus]\n並べたのは 僕のほうだ\n売れ残りは 僕の罪\n[Chorus]\nさよなら 鮭のおにぎり\nピッ ピッ ピッと 涙の音\nさよなら ツナマヨ 君たち\n朝の五時には 袋の中\n[Verse 2]\n先輩の山田さんは 演歌が好きで\nレジの横で 小節を回す\n廃棄のときは こぶしを入れろ\nそう教わった 初めての夜\n[Pre-Chorus]\n最後の一個は 梅おにぎり\n手のひらが 冷たかった\n[Chorus]\nさよなら 梅のおにぎり\nピッ ピッ ピッと 涙の音\nさよなら 全員 ありがとう\n明日は売り切れ 頼むよ\n[Bridge - accordion and triangle]\n朝日が 自動ドアに映る\n交代の人が来る\n[Chorus]\nおはよう 新しいおにぎり\nピッ ピッ ピッと 笑い声\nさよならばかりの 夜勤でも\n朝の五時には 棚が埋まる\n[Outro - accordion and zabumba end]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 122,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "C major",
+    "timesignature": "4",
+    "prompt": "Japanese forró pop, upbeat and danceable. Accordion playing a bright lilting riff, zabumba bass drum and triangle driving a steady baião dance groove, ganzá shaker, round electric bass, bright acoustic guitar strum, handclaps on the offbeat. Warm live-room sound with dry zabumba. Male tenor, strong warm delivery with bright open phrasing, every note clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 122 BPM, C major. Comic, brisk, tender mood. No autotune, no trap drums, no rapped delivery, no modern EDM drops, no synth brass.",
+    "lyrics": "[Intro - accordion and zabumba]\n[Verse 1]\n午前二時の 廃棄の時間\nおにぎり十個 かごに入れ\nバーコードを ピッと読むたびに\nごめんねと 小さくつぶやく\n[Pre-Chorus]\n並べたのは 僕のほうだ\n売れ残りは 僕の罪\n[Chorus]\nさよなら 鮭のおにぎり\nピッ ピッ ピッと 涙の音\nさよなら ツナマヨ 君たち\n朝の五時には 袋の中\n[Verse 2]\n先輩の山田さんは 演歌が好きで\nレジの横で 小節を回す\n廃棄のときは こぶしを入れろ\nそう教わった 初めての夜\n[Pre-Chorus]\n最後の一個は 梅おにぎり\n手のひらが 冷たかった\n[Chorus]\nさよなら 梅のおにぎり\nピッ ピッ ピッと 涙の音\nさよなら 全員 ありがとう\n明日は売り切れ 頼むよ\n[Bridge - accordion and triangle]\n朝日が 自動ドアに映る\n交代の人が来る\n[Chorus]\nおはよう 新しいおにぎり\nピッ ピッ ピッと 笑い声\nさよならばかりの 夜勤でも\n朝の五時には 棚が埋まる\n[Outro - accordion and zabumba end]"
+  },
+  "seed": "860802103",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 57.90s**\n- 57.90s per song\n- LM phase (1 song): 9.24s\n- DiT phase (1 song): 48.66s",
+  "task_id": "5a4be0d7-e7bc-4f28-9c3c-1a54f87e6bd4",
+  "elapsed_s": 90.3,
+  "generated_at": "2026-11-26T11:22:13.893313+08:00",
+  "audio": "b25_ja04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 16.88,
+      "end": 16.88,
+      "text": "[Intro - accordion and zabumba]"
+    },
+    {
+      "t": 16.88,
+      "end": 16.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.88,
+      "end": 20.64,
+      "text": "午前二時の 廃棄の時間"
+    },
+    {
+      "t": 20.7,
+      "end": 26.66,
+      "text": "おにぎり十個 かごに入れ"
+    },
+    {
+      "t": 26.76,
+      "end": 30.56,
+      "text": "バーコードを ピッと読むたびに"
+    },
+    {
+      "t": 31.94,
+      "end": 36.88,
+      "text": "ごめんねと 小さくつぶやく"
+    },
+    {
+      "t": 37.04,
+      "end": 37.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.04,
+      "end": 42.3,
+      "text": "並べたのは 僕のほうだ"
+    },
+    {
+      "t": 42.42,
+      "end": 46.44,
+      "text": "売れ残りは 僕の罪"
+    },
+    {
+      "t": 47.26,
+      "end": 47.26,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.26,
+      "end": 50.58,
+      "text": "さよなら 鮭のおにぎり"
+    },
+    {
+      "t": 51.14,
+      "end": 54.57,
+      "text": "ピッ ピッ ピッと 涙の音"
+    },
+    {
+      "t": 55.05,
+      "end": 58.63,
+      "text": "さよなら ツナマヨ 君たち"
+    },
+    {
+      "t": 60.15,
+      "end": 68.69,
+      "text": "朝の五時には 袋の中"
+    },
+    {
+      "t": 68.75,
+      "end": 68.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.75,
+      "end": 72.29,
+      "text": "先輩の山田さんは 演歌が好きで"
+    },
+    {
+      "t": 72.39,
+      "end": 76.33,
+      "text": "レジの横で 小節を回す"
+    },
+    {
+      "t": 76.33,
+      "end": 78.93,
+      "text": "廃棄のときは こぶしを入れろ"
+    },
+    {
+      "t": 78.99,
+      "end": 84.39,
+      "text": "そう教わった 初めての夜"
+    },
+    {
+      "t": 84.55,
+      "end": 84.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 84.55,
+      "end": 88.37,
+      "text": "最後の一個は 梅おにぎり"
+    },
+    {
+      "t": 91.69,
+      "end": 96.21,
+      "text": "手のひらが 冷たかった"
+    },
+    {
+      "t": 103.79,
+      "end": 103.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.79,
+      "end": 107.13,
+      "text": "さよなら 梅のおにぎり"
+    },
+    {
+      "t": 107.71,
+      "end": 111.03,
+      "text": "ピッ ピッ ピッと 涙の音"
+    },
+    {
+      "t": 111.59,
+      "end": 115.27,
+      "text": "さよなら 全員 ありがとう"
+    },
+    {
+      "t": 115.49,
+      "end": 119.29,
+      "text": "明日は売り切れ 頼むよ"
+    },
+    {
+      "t": 137.93,
+      "end": 137.93,
+      "text": "[Bridge - accordion and triangle]"
+    },
+    {
+      "t": 137.93,
+      "end": 142.55,
+      "text": "朝日が 自動ドアに映る"
+    },
+    {
+      "t": 144.43,
+      "end": 147.01,
+      "text": "交代の人が来る"
+    },
+    {
+      "t": 150.15,
+      "end": 150.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.15,
+      "end": 154.12,
+      "text": "おはよう 新しいおにぎり"
+    },
+    {
+      "t": 154.7,
+      "end": 158.3,
+      "text": "ピッ ピッ ピッと 笑い声"
+    },
+    {
+      "t": 159.32,
+      "end": 162.38,
+      "text": "さよならばかりの 夜勤でも"
+    },
+    {
+      "t": 163.4,
+      "end": 185.54,
+      "text": "朝の五時には 棚が埋まる"
+    },
+    {
+      "t": 185.54,
+      "end": 185.54,
+      "text": "[Outro - accordion and zabumba end]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 16.88,
+      "end": 16.88,
+      "text": "[Intro - accordion and zabumba]"
+    },
+    {
+      "t": 16.88,
+      "end": 16.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.88,
+      "end": 20.64,
+      "text": "午前二時の 廃棄の時間"
+    },
+    {
+      "t": 20.7,
+      "end": 26.66,
+      "text": "おにぎり十個 かごに入れ"
+    },
+    {
+      "t": 26.76,
+      "end": 30.56,
+      "text": "バーコードを ピッと読むたびに"
+    },
+    {
+      "t": 31.94,
+      "end": 36.88,
+      "text": "ごめんねと 小さくつぶやく"
+    },
+    {
+      "t": 37.04,
+      "end": 37.04,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.04,
+      "end": 42.3,
+      "text": "並べたのは 僕のほうだ"
+    },
+    {
+      "t": 42.42,
+      "end": 46.44,
+      "text": "売れ残りは 僕の罪"
+    },
+    {
+      "t": 47.26,
+      "end": 47.26,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.26,
+      "end": 50.58,
+      "text": "さよなら 鮭のおにぎり"
+    },
+    {
+      "t": 51.14,
+      "end": 54.57,
+      "text": "ピッ ピッ ピッと 涙の音"
+    },
+    {
+      "t": 55.05,
+      "end": 58.63,
+      "text": "さよなら ツナマヨ 君たち"
+    },
+    {
+      "t": 60.15,
+      "end": 68.69,
+      "text": "朝の五時には 袋の中"
+    },
+    {
+      "t": 68.75,
+      "end": 68.75,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.75,
+      "end": 72.29,
+      "text": "先輩の山田さんは 演歌が好きで"
+    },
+    {
+      "t": 72.39,
+      "end": 76.33,
+      "text": "レジの横で 小節を回す"
+    },
+    {
+      "t": 76.33,
+      "end": 78.93,
+      "text": "廃棄のときは こぶしを入れろ"
+    },
+    {
+      "t": 78.99,
+      "end": 84.39,
+      "text": "そう教わった 初めての夜"
+    },
+    {
+      "t": 84.55,
+      "end": 84.55,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 84.55,
+      "end": 88.37,
+      "text": "最後の一個は 梅おにぎり"
+    },
+    {
+      "t": 91.69,
+      "end": 96.21,
+      "text": "手のひらが 冷たかった"
+    },
+    {
+      "t": 103.79,
+      "end": 103.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.79,
+      "end": 107.13,
+      "text": "さよなら 梅のおにぎり"
+    },
+    {
+      "t": 107.71,
+      "end": 111.03,
+      "text": "ピッ ピッ ピッと 涙の音"
+    },
+    {
+      "t": 111.59,
+      "end": 115.27,
+      "text": "さよなら 全員 ありがとう"
+    },
+    {
+      "t": 115.49,
+      "end": 119.29,
+      "text": "明日は売り切れ 頼むよ"
+    },
+    {
+      "t": 137.93,
+      "end": 137.93,
+      "text": "[Bridge - accordion and triangle]"
+    },
+    {
+      "t": 137.93,
+      "end": 142.55,
+      "text": "朝日が 自動ドアに映る"
+    },
+    {
+      "t": 144.43,
+      "end": 147.01,
+      "text": "交代の人が来る"
+    },
+    {
+      "t": 150.15,
+      "end": 150.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.15,
+      "end": 154.12,
+      "text": "おはよう 新しいおにぎり"
+    },
+    {
+      "t": 154.7,
+      "end": 158.3,
+      "text": "ピッ ピッ ピッと 笑い声"
+    },
+    {
+      "t": 159.32,
+      "end": 162.38,
+      "text": "さよならばかりの 夜勤でも"
+    },
+    {
+      "t": 163.4,
+      "end": 185.54,
+      "text": "朝の五時には 棚が埋まる"
+    },
+    {
+      "t": 185.54,
+      "end": 185.54,
+      "text": "[Outro - accordion and zabumba end]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 16.88,
+      "end": 16.88,
+      "text": "[Intro - accordion and zabumba]"
+    },
+    {
+      "t": 16.88,
+      "end": 16.88,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 16.88,
+      "end": 21.64,
+      "text": "午前二時の 廃棄の時間"
+    },
+    {
+      "t": 25.88,
+      "end": 29.64,
+      "text": "おにぎり十個 かごに入れ"
+    },
+    {
+      "t": 29.8,
+      "end": 30.6,
+      "text": "バーコードを ピッと読むたびに"
+    },
+    {
+      "t": 31.94,
+      "end": 37.16,
+      "text": "ごめんねと 小さくつぶやく"
+    },
+    {
+      "t": 37.34,
+      "end": 37.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 37.34,
+      "end": 42.3,
+      "text": "並べたのは 僕のほうだ"
+    },
+    {
+      "t": 42.42,
+      "end": 46.42,
+      "text": "売れ残りは 僕の罪"
+    },
+    {
+      "t": 47.24,
+      "end": 47.24,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 47.24,
+      "end": 50.6,
+      "text": "さよなら 鮭のおにぎり"
+    },
+    {
+      "t": 51.14,
+      "end": 54.57,
+      "text": "ピッ ピッ ピッと 涙の音"
+    },
+    {
+      "t": 55.03,
+      "end": 58.63,
+      "text": "さよなら ツナマヨ 君たち"
+    },
+    {
+      "t": 58.99,
+      "end": 67.57,
+      "text": "朝の五時には 袋の中"
+    },
+    {
+      "t": 68.47,
+      "end": 68.47,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 68.47,
+      "end": 73.29,
+      "text": "先輩の山田さんは 演歌が好きで"
+    },
+    {
+      "t": 76.29,
+      "end": 80.31,
+      "text": "レジの横で 小節を回す"
+    },
+    {
+      "t": 84.07,
+      "end": 88.37,
+      "text": "廃棄のときは こぶしを入れろ"
+    },
+    {
+      "t": 88.45,
+      "end": 89.27,
+      "text": "そう教わった 初めての夜"
+    },
+    {
+      "t": 89.27,
+      "end": 89.27,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 89.27,
+      "end": 91.21,
+      "text": "最後の一個は 梅おにぎり"
+    },
+    {
+      "t": 91.69,
+      "end": 96.21,
+      "text": "手のひらが 冷たかった"
+    },
+    {
+      "t": 103.79,
+      "end": 103.79,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 103.79,
+      "end": 107.13,
+      "text": "さよなら 梅のおにぎり"
+    },
+    {
+      "t": 107.71,
+      "end": 110.93,
+      "text": "ピッ ピッ ピッと 涙の音"
+    },
+    {
+      "t": 111.59,
+      "end": 115.23,
+      "text": "さよなら 全員 ありがとう"
+    },
+    {
+      "t": 115.51,
+      "end": 119.29,
+      "text": "明日は売り切れ 頼むよ"
+    },
+    {
+      "t": 137.93,
+      "end": 137.93,
+      "text": "[Bridge - accordion and triangle]"
+    },
+    {
+      "t": 137.93,
+      "end": 142.55,
+      "text": "朝日が 自動ドアに映る"
+    },
+    {
+      "t": 144.43,
+      "end": 146.97,
+      "text": "交代の人が来る"
+    },
+    {
+      "t": 150.15,
+      "end": 150.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 150.15,
+      "end": 154.14,
+      "text": "おはよう 新しいおにぎり"
+    },
+    {
+      "t": 154.7,
+      "end": 158.34,
+      "text": "ピッ ピッ ピッと 笑い声"
+    },
+    {
+      "t": 159.32,
+      "end": 162.36,
+      "text": "さよならばかりの 夜勤でも"
+    },
+    {
+      "t": 162.74,
+      "end": 185.54,
+      "text": "朝の五時には 棚が埋まる"
+    },
+    {
+      "t": 185.54,
+      "end": 185.54,
+      "text": "[Outro - accordion and zabumba end]"
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "id": "b25_ko03",
+  "title": "연필로 쓴 길",
+  "title_source": "scripted",
+  "genre": "Korean 1980s campus-band (대학가요제) guitar pop",
+  "language": "ko",
+  "language_name": "Korean",
+  "mood": "warm, tender, earnest",
+  "persona": "",
+  "subject": "a woman hiking Jirisan alone with the guidebook her boyfriend lent her, whose margins are full of his pencil notes, from water warnings to a joke about ramyeon",
+  "caption": "Korean 1980s campus-band guitar pop in the 대학가요제 style, steady mid-tempo groove. Clean electric guitar with chiming open chords and a simple singing lead line, round electric bass playing root-and-fifth patterns, light drums with a plain backbeat and soft hi-hat, acoustic piano doubling the chords. Warm 1980s studio room with light plate reverb and gentle tape warmth. Female lead voice, warm mid register, clearly sung with a gentle smile in the delivery. 104 BPM, G major. Warm, tender love-song mood. No trap hi-hats, no autotune, no dubstep bass, no EDM build-ups, no rap, no distorted guitars. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - clean electric guitar and bass]\n\n[Verse 1]\n네가 빌려준 지리산 안내서\n모서리마다 연필 자국이야\n첫 장을 열자마자 네 글씨\n여기서 물 꼭 채울 것\n\n[Pre-Chorus]\n혼자 오른다고 했더니\n너는 책 한 권만 내밀었지\n\n[Chorus]\n한 장 넘기면 네가 있어\n연필로 쓴 길 위에\n여기선 배고프면 화낸대\n나도 지금 화나는 중이야\n\n[Verse 2]\n장터목 대피소 페이지에는\n라면은 꼭 두 개 끓일 것\n하나는 먹고 하나는 또 먹고\n너 정말 못 말려 정말\n\n[Pre-Chorus]\n돌길이 시작되는 곳에선\n조심 조심 두 번 썼네\n\n[Bridge - bass and light drums only]\n마지막 장 맨 아래 작은 글씨\n정상에서 전화해 회의 중에도 받을게\n\n[Chorus]\n한 장 넘기면 네가 있어\n연필로 쓴 길 위에\n여기선 보고 싶어 멈춘대\n나도 지금 멈춰 서 있어\n\n[Outro - clean guitar and light drums fade]\n정상에서 전화할게",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 205.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Korean 1980s campus-band guitar pop in the 대학가요제 style, steady mid-tempo groove. Clean electric guitar with chiming open chords and a simple singing lead line, round electric bass playing root-and-fifth patterns, light drums with a plain backbeat and soft hi-hat, acoustic piano doubling the chords. Warm 1980s studio room with light plate reverb and gentle tape warmth. Female lead voice, warm mid register, clearly sung with a gentle smile in the delivery. 104 BPM, G major. Warm, tender love-song mood. No trap hi-hats, no autotune, no dubstep bass, no EDM build-ups, no rap, no distorted guitars. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - clean electric guitar and bass]\n\n[Verse 1]\n네가 빌려준 지리산 안내서\n모서리마다 연필 자국이야\n첫 장을 열자마자 네 글씨\n여기서 물 꼭 채울 것\n\n[Pre-Chorus]\n혼자 오른다고 했더니\n너는 책 한 권만 내밀었지\n\n[Chorus]\n한 장 넘기면 네가 있어\n연필로 쓴 길 위에\n여기선 배고프면 화낸대\n나도 지금 화나는 중이야\n\n[Verse 2]\n장터목 대피소 페이지에는\n라면은 꼭 두 개 끓일 것\n하나는 먹고 하나는 또 먹고\n너 정말 못 말려 정말\n\n[Pre-Chorus]\n돌길이 시작되는 곳에선\n조심 조심 두 번 썼네\n\n[Bridge - bass and light drums only]\n마지막 장 맨 아래 작은 글씨\n정상에서 전화해 회의 중에도 받을게\n\n[Chorus]\n한 장 넘기면 네가 있어\n연필로 쓴 길 위에\n여기선 보고 싶어 멈춘대\n나도 지금 멈춰 서 있어\n\n[Outro - clean guitar and light drums fade]\n정상에서 전화할게"
+  },
+  "seed": "2088019946",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 81.13s**\n- 81.13s per song\n- LM phase (1 song): 16.14s\n- DiT phase (1 song): 64.99s",
+  "task_id": "974886a4-d251-45de-af67-dbb0178bfb25",
+  "elapsed_s": 110.1,
+  "generated_at": "2026-11-26T10:28:34.512005+08:00",
+  "audio": "b25_ko03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 27.16,
+      "end": 27.16,
+      "text": "[Intro - clean electric guitar and bass]"
+    },
+    {
+      "t": 27.16,
+      "end": 27.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.16,
+      "end": 28.52,
+      "text": "네가 빌려준 지리산 안내서"
+    },
+    {
+      "t": 28.54,
+      "end": 30.4,
+      "text": "모서리마다 연필 자국이야"
+    },
+    {
+      "t": 32.66,
+      "end": 36.02,
+      "text": "첫 장을 열자마자 네 글씨"
+    },
+    {
+      "t": 36.42,
+      "end": 38.26,
+      "text": "여기서 물 꼭 채울 것"
+    },
+    {
+      "t": 41.9,
+      "end": 41.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.9,
+      "end": 46.4,
+      "text": "혼자 오른다고 했더니"
+    },
+    {
+      "t": 50.52,
+      "end": 55.61,
+      "text": "너는 책 한 권만 내밀었지"
+    },
+    {
+      "t": 59.17,
+      "end": 59.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.17,
+      "end": 62.47,
+      "text": "한 장 넘기면 네가 있어"
+    },
+    {
+      "t": 63.77,
+      "end": 67.07,
+      "text": "연필로 쓴 길 위에"
+    },
+    {
+      "t": 68.67,
+      "end": 71.95,
+      "text": "여기선 배고프면 화낸대"
+    },
+    {
+      "t": 72.99,
+      "end": 76.33,
+      "text": "나도 지금 화나는 중이야"
+    },
+    {
+      "t": 79.53,
+      "end": 79.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.53,
+      "end": 82.87,
+      "text": "장터목 대피소 페이지에는"
+    },
+    {
+      "t": 82.87,
+      "end": 88.73,
+      "text": "라면은 꼭 두 개 끓일 것"
+    },
+    {
+      "t": 88.73,
+      "end": 92.31,
+      "text": "하나는 먹고 하나는 또 먹고"
+    },
+    {
+      "t": 93.61,
+      "end": 96.81,
+      "text": "너 정말 못 말려 정말"
+    },
+    {
+      "t": 99.07,
+      "end": 99.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.07,
+      "end": 103.65,
+      "text": "돌길이 시작되는 곳에선"
+    },
+    {
+      "t": 103.69,
+      "end": 112.97,
+      "text": "조심 조심 두 번 썼네"
+    },
+    {
+      "t": 117.67,
+      "end": 117.67,
+      "text": "[Bridge - bass and light drums only]"
+    },
+    {
+      "t": 117.67,
+      "end": 122.07,
+      "text": "마지막 장 맨 아래 작은 글씨"
+    },
+    {
+      "t": 125.93,
+      "end": 131.53,
+      "text": "정상에서 전화해 회의 중에도 받을게"
+    },
+    {
+      "t": 135.11,
+      "end": 135.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.11,
+      "end": 138.37,
+      "text": "한 장 넘기면 네가 있어"
+    },
+    {
+      "t": 138.95,
+      "end": 145.45,
+      "text": "연필로 쓴 길 위에"
+    },
+    {
+      "t": 145.45,
+      "end": 147.51,
+      "text": "여기선 보고 싶어 멈춘대"
+    },
+    {
+      "t": 148.81,
+      "end": 152.07,
+      "text": "나도 지금 멈춰 서 있어"
+    },
+    {
+      "t": 167.38,
+      "end": 167.38,
+      "text": "[Outro - clean guitar and light drums fade]"
+    },
+    {
+      "t": 167.38,
+      "end": 172.72,
+      "text": "정상에서 전화할게"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 27.16,
+      "end": 27.16,
+      "text": "[Intro - clean electric guitar and bass]"
+    },
+    {
+      "t": 27.16,
+      "end": 27.16,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 27.16,
+      "end": 28.52,
+      "text": "네가 빌려준 지리산 안내서"
+    },
+    {
+      "t": 28.54,
+      "end": 30.4,
+      "text": "모서리마다 연필 자국이야"
+    },
+    {
+      "t": 32.66,
+      "end": 36.02,
+      "text": "첫 장을 열자마자 네 글씨"
+    },
+    {
+      "t": 36.42,
+      "end": 38.26,
+      "text": "여기서 물 꼭 채울 것"
+    },
+    {
+      "t": 41.9,
+      "end": 41.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.9,
+      "end": 46.4,
+      "text": "혼자 오른다고 했더니"
+    },
+    {
+      "t": 50.52,
+      "end": 55.61,
+      "text": "너는 책 한 권만 내밀었지"
+    },
+    {
+      "t": 59.17,
+      "end": 59.17,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.17,
+      "end": 62.47,
+      "text": "한 장 넘기면 네가 있어"
+    },
+    {
+      "t": 63.77,
+      "end": 67.07,
+      "text": "연필로 쓴 길 위에"
+    },
+    {
+      "t": 68.67,
+      "end": 71.95,
+      "text": "여기선 배고프면 화낸대"
+    },
+    {
+      "t": 72.99,
+      "end": 76.33,
+      "text": "나도 지금 화나는 중이야"
+    },
+    {
+      "t": 79.53,
+      "end": 79.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.53,
+      "end": 82.87,
+      "text": "장터목 대피소 페이지에는"
+    },
+    {
+      "t": 82.87,
+      "end": 88.73,
+      "text": "라면은 꼭 두 개 끓일 것"
+    },
+    {
+      "t": 88.73,
+      "end": 92.31,
+      "text": "하나는 먹고 하나는 또 먹고"
+    },
+    {
+      "t": 93.61,
+      "end": 96.81,
+      "text": "너 정말 못 말려 정말"
+    },
+    {
+      "t": 99.07,
+      "end": 99.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.07,
+      "end": 103.65,
+      "text": "돌길이 시작되는 곳에선"
+    },
+    {
+      "t": 103.69,
+      "end": 112.97,
+      "text": "조심 조심 두 번 썼네"
+    },
+    {
+      "t": 117.67,
+      "end": 117.67,
+      "text": "[Bridge - bass and light drums only]"
+    },
+    {
+      "t": 117.67,
+      "end": 122.07,
+      "text": "마지막 장 맨 아래 작은 글씨"
+    },
+    {
+      "t": 125.93,
+      "end": 131.53,
+      "text": "정상에서 전화해 회의 중에도 받을게"
+    },
+    {
+      "t": 135.11,
+      "end": 135.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.11,
+      "end": 138.37,
+      "text": "한 장 넘기면 네가 있어"
+    },
+    {
+      "t": 138.95,
+      "end": 145.45,
+      "text": "연필로 쓴 길 위에"
+    },
+    {
+      "t": 145.45,
+      "end": 147.51,
+      "text": "여기선 보고 싶어 멈춘대"
+    },
+    {
+      "t": 148.81,
+      "end": 152.07,
+      "text": "나도 지금 멈춰 서 있어"
+    },
+    {
+      "t": 167.38,
+      "end": 167.38,
+      "text": "[Outro - clean guitar and light drums fade]"
+    },
+    {
+      "t": 167.38,
+      "end": 172.72,
+      "text": "정상에서 전화할게"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Intro - clean electric guitar and bass]"
+    },
+    {
+      "t": 0.0,
+      "end": 0.0,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 0.0,
+      "end": 27.22,
+      "text": "네가 빌려준 지리산 안내서"
+    },
+    {
+      "t": 27.22,
+      "end": 30.4,
+      "text": "모서리마다 연필 자국이야"
+    },
+    {
+      "t": 32.68,
+      "end": 36.02,
+      "text": "첫 장을 열자마자 네 글씨"
+    },
+    {
+      "t": 36.4,
+      "end": 38.18,
+      "text": "여기서 물 꼭 채울 것"
+    },
+    {
+      "t": 41.9,
+      "end": 41.9,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 41.9,
+      "end": 46.38,
+      "text": "혼자 오른다고 했더니"
+    },
+    {
+      "t": 50.52,
+      "end": 55.61,
+      "text": "너는 책 한 권만 내밀었지"
+    },
+    {
+      "t": 59.15,
+      "end": 59.15,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 59.15,
+      "end": 62.47,
+      "text": "한 장 넘기면 네가 있어"
+    },
+    {
+      "t": 63.77,
+      "end": 67.09,
+      "text": "연필로 쓴 길 위에"
+    },
+    {
+      "t": 68.67,
+      "end": 72.17,
+      "text": "여기선 배고프면 화낸대"
+    },
+    {
+      "t": 72.97,
+      "end": 76.33,
+      "text": "나도 지금 화나는 중이야"
+    },
+    {
+      "t": 79.53,
+      "end": 79.53,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 79.53,
+      "end": 82.87,
+      "text": "장터목 대피소 페이지에는"
+    },
+    {
+      "t": 82.87,
+      "end": 84.75,
+      "text": "라면은 꼭 두 개 끓일 것"
+    },
+    {
+      "t": 88.73,
+      "end": 92.31,
+      "text": "하나는 먹고 하나는 또 먹고"
+    },
+    {
+      "t": 93.61,
+      "end": 96.79,
+      "text": "너 정말 못 말려 정말"
+    },
+    {
+      "t": 99.07,
+      "end": 99.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 99.07,
+      "end": 103.65,
+      "text": "돌길이 시작되는 곳에선"
+    },
+    {
+      "t": 107.99,
+      "end": 112.97,
+      "text": "조심 조심 두 번 썼네"
+    },
+    {
+      "t": 117.67,
+      "end": 117.67,
+      "text": "[Bridge - bass and light drums only]"
+    },
+    {
+      "t": 117.67,
+      "end": 122.07,
+      "text": "마지막 장 맨 아래 작은 글씨"
+    },
+    {
+      "t": 123.69,
+      "end": 133.53,
+      "text": "정상에서 전화해 회의 중에도 받을게"
+    },
+    {
+      "t": 135.11,
+      "end": 135.11,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 135.11,
+      "end": 138.39,
+      "text": "한 장 넘기면 네가 있어"
+    },
+    {
+      "t": 138.83,
+      "end": 142.59,
+      "text": "연필로 쓴 길 위에"
+    },
+    {
+      "t": 142.81,
+      "end": 147.51,
+      "text": "여기선 보고 싶어 멈춘대"
+    },
+    {
+      "t": 148.81,
+      "end": 152.07,
+      "text": "나도 지금 멈춰 서 있어"
+    },
+    {
+      "t": 167.38,
+      "end": 167.38,
+      "text": "[Outro - clean guitar and light drums fade]"
+    },
+    {
+      "t": 167.38,
+      "end": 172.72,
+      "text": "정상에서 전화할게"
+    }
+  ]
+}

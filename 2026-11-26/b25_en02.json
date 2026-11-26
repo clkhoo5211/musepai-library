@@ -1,0 +1,387 @@
+{
+  "id": "b25_en02",
+  "title": "The Tent Has Been to Wales",
+  "title_source": "scripted",
+  "genre": "70s UK soft-rock with sax hook (10cc and Gerry Rafferty lineage)",
+  "language": "en",
+  "language_name": "English",
+  "mood": "wry, breezy, good-humoured",
+  "persona": "",
+  "subject": "a man who lent his two-man tent to a friend, who lent it to a cousin, and it has now slept nine strangers across three countries while he has never used it",
+  "caption": "70s UK soft-rock with a sax hook, glossy AM-radio studio production. Chorus-pedal clean electric guitar arpeggios, Fender Rhodes electric piano, melodic fretless bass, alto saxophone hook in the choruses, light congas and a tight snare. Warm analog compression, layered harmony vocals on the chorus. Male lead, smooth light baritone, wry deadpan delivery that stays clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, E major. Breezy, good-humoured mood. No rap, no autotune, no heavy distortion, no synth bass, no drum machine.",
+  "lyrics": "[Intro - chorus-pedal guitar, Rhodes, light congas]\n\n[Verse 1]\nI lent my tent to Dave in June\nHe said he'd have it back by noon\nDave gave it to his cousin Jo\nJo took it where the sheep all go\n\n[Pre-Chorus]\nA postcard came from Aberystwyth\nWish you were here, it said, and sorry\n\n[Chorus]\nThe tent has been to Wales\nIt's been to Wales without me\nNine people slept inside it\nAnd not one of them was me\n\n[Verse 2]\nA man named Piet in Rotterdam\nHas patched it up with duct tape and jam\nA girl in Cork I've never met\nSent me a photo of it wet\n\n[Chorus]\nThe tent has been to Wales\nIt's been to Rotterdam and Cork\nNine people slept inside it\nI just wanted one night in it\n\n[Bridge - guitar alone, then congas]\nI only asked to borrow it back\nDave says Friday, it's on the motorway\n\n[Chorus]\nThe tent has been to Wales\nAnd now it's coming home to me\nTen people will have slept inside it\nAnd it's me, I'm the tenth, finally\n\n[Outro - sax and guitar trade lines, fade]\nThe tent has been to Wales\nPitch it in the garden, I'll be fine",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 112,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "E major",
+    "timesignature": "4",
+    "prompt": "70s UK soft-rock with a sax hook, glossy AM-radio studio production. Chorus-pedal clean electric guitar arpeggios, Fender Rhodes electric piano, melodic fretless bass, alto saxophone hook in the choruses, light congas and a tight snare. Warm analog compression, layered harmony vocals on the chorus. Male lead, smooth light baritone, wry deadpan delivery that stays clearly sung. Clear full voice, every word enunciated, steady sung melody on every line. 112 BPM, E major. Breezy, good-humoured mood. No rap, no autotune, no heavy distortion, no synth bass, no drum machine.",
+    "lyrics": "[Intro - chorus-pedal guitar, Rhodes, light congas]\n\n[Verse 1]\nI lent my tent to Dave in June\nHe said he'd have it back by noon\nDave gave it to his cousin Jo\nJo took it where the sheep all go\n\n[Pre-Chorus]\nA postcard came from Aberystwyth\nWish you were here, it said, and sorry\n\n[Chorus]\nThe tent has been to Wales\nIt's been to Wales without me\nNine people slept inside it\nAnd not one of them was me\n\n[Verse 2]\nA man named Piet in Rotterdam\nHas patched it up with duct tape and jam\nA girl in Cork I've never met\nSent me a photo of it wet\n\n[Chorus]\nThe tent has been to Wales\nIt's been to Rotterdam and Cork\nNine people slept inside it\nI just wanted one night in it\n\n[Bridge - guitar alone, then congas]\nI only asked to borrow it back\nDave says Friday, it's on the motorway\n\n[Chorus]\nThe tent has been to Wales\nAnd now it's coming home to me\nTen people will have slept inside it\nAnd it's me, I'm the tenth, finally\n\n[Outro - sax and guitar trade lines, fade]\nThe tent has been to Wales\nPitch it in the garden, I'll be fine"
+  },
+  "seed": "3001064359",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 56.90s**\n- 56.90s per song\n- LM phase (1 song): 11.58s\n- DiT phase (1 song): 45.31s",
+  "task_id": "72624d43-50b2-46d4-9f2c-84e2c9f31677",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-26T11:05:10.824033+08:00",
+  "audio": "b25_en02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 6.8,
+      "end": 6.8,
+      "text": "[Intro - chorus-pedal guitar, Rhodes, light congas]"
+    },
+    {
+      "t": 6.8,
+      "end": 6.8,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 6.8,
+      "end": 25.94,
+      "text": "I lent my tent to Dave in June"
+    },
+    {
+      "t": 31.56,
+      "end": 34.76,
+      "text": "He said he'd have it back by noon"
+    },
+    {
+      "t": 38.34,
+      "end": 40.3,
+      "text": "Dave gave it to his cousin Jo"
+    },
+    {
+      "t": 42.48,
+      "end": 44.32,
+      "text": "Jo took it where the sheep all go"
+    },
+    {
+      "t": 44.34,
+      "end": 44.34,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.34,
+      "end": 50.39,
+      "text": "A postcard came from Aberystwyth"
+    },
+    {
+      "t": 50.39,
+      "end": 53.65,
+      "text": "Wish you were here, it said, and sorry"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.05,
+      "end": 57.17,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 59.01,
+      "end": 62.21,
+      "text": "It's been to Wales without me"
+    },
+    {
+      "t": 63.41,
+      "end": 66.21,
+      "text": "Nine people slept inside it"
+    },
+    {
+      "t": 67.67,
+      "end": 70.67,
+      "text": "And not one of them was me"
+    },
+    {
+      "t": 77.43,
+      "end": 77.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.43,
+      "end": 88.87,
+      "text": "A man named Piet in Rotterdam"
+    },
+    {
+      "t": 90.33,
+      "end": 93.37,
+      "text": "Has patched it up with duct tape and jam"
+    },
+    {
+      "t": 94.71,
+      "end": 97.57,
+      "text": "A girl in Cork I've never met"
+    },
+    {
+      "t": 98.85,
+      "end": 99.97,
+      "text": "Sent me a photo of it wet"
+    },
+    {
+      "t": 99.99,
+      "end": 99.99,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.99,
+      "end": 102.17,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 102.17,
+      "end": 104.31,
+      "text": "It's been to Rotterdam and Cork"
+    },
+    {
+      "t": 104.31,
+      "end": 107.81,
+      "text": "Nine people slept inside it"
+    },
+    {
+      "t": 107.81,
+      "end": 117.19,
+      "text": "I just wanted one night in it"
+    },
+    {
+      "t": 120.03,
+      "end": 120.03,
+      "text": "[Bridge - guitar alone, then congas]"
+    },
+    {
+      "t": 120.03,
+      "end": 122.61,
+      "text": "I only asked to borrow it back"
+    },
+    {
+      "t": 126.43,
+      "end": 129.85,
+      "text": "Dave says Friday, it's on the motorway"
+    },
+    {
+      "t": 146.36,
+      "end": 146.36,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.36,
+      "end": 148.42,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 153.3,
+      "end": 156.04,
+      "text": "And now it's coming home to me"
+    },
+    {
+      "t": 158.02,
+      "end": 160.92,
+      "text": "Ten people will have slept inside it"
+    },
+    {
+      "t": 162.1,
+      "end": 164.7,
+      "text": "And it's me, I'm the tenth, finally"
+    },
+    {
+      "t": 167.06,
+      "end": 167.06,
+      "text": "[Outro - sax and guitar trade lines, fade]"
+    },
+    {
+      "t": 167.06,
+      "end": 169.0,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 171.0,
+      "end": 173.68,
+      "text": "Pitch it in the garden, I'll be fine"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.08,
+      "end": 7.08,
+      "text": "[Intro - chorus-pedal guitar, Rhodes, light congas]"
+    },
+    {
+      "t": 7.08,
+      "end": 7.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.08,
+      "end": 25.16,
+      "text": "I lent my tent to Dave in June"
+    },
+    {
+      "t": 31.56,
+      "end": 34.5,
+      "text": "He said he'd have it back by noon"
+    },
+    {
+      "t": 38.34,
+      "end": 40.3,
+      "text": "Dave gave it to his cousin Jo"
+    },
+    {
+      "t": 42.48,
+      "end": 44.2,
+      "text": "Jo took it where the sheep all go"
+    },
+    {
+      "t": 44.24,
+      "end": 44.24,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 44.24,
+      "end": 50.43,
+      "text": "A postcard came from Aberystwyth"
+    },
+    {
+      "t": 50.43,
+      "end": 53.71,
+      "text": "Wish you were here, it said, and sorry"
+    },
+    {
+      "t": 55.05,
+      "end": 55.05,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 55.05,
+      "end": 57.15,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 59.03,
+      "end": 62.23,
+      "text": "It's been to Wales without me"
+    },
+    {
+      "t": 63.41,
+      "end": 67.63,
+      "text": "Nine people slept inside it"
+    },
+    {
+      "t": 67.67,
+      "end": 70.65,
+      "text": "And not one of them was me"
+    },
+    {
+      "t": 77.43,
+      "end": 77.43,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 77.43,
+      "end": 80.01,
+      "text": "A man named Piet in Rotterdam"
+    },
+    {
+      "t": 85.87,
+      "end": 93.35,
+      "text": "Has patched it up with duct tape and jam"
+    },
+    {
+      "t": 94.71,
+      "end": 97.53,
+      "text": "A girl in Cork I've never met"
+    },
+    {
+      "t": 98.87,
+      "end": 99.89,
+      "text": "Sent me a photo of it wet"
+    },
+    {
+      "t": 99.95,
+      "end": 99.95,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 99.95,
+      "end": 102.07,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 102.17,
+      "end": 104.33,
+      "text": "It's been to Rotterdam and Cork"
+    },
+    {
+      "t": 104.33,
+      "end": 106.47,
+      "text": "Nine people slept inside it"
+    },
+    {
+      "t": 107.81,
+      "end": 117.19,
+      "text": "I just wanted one night in it"
+    },
+    {
+      "t": 120.03,
+      "end": 120.03,
+      "text": "[Bridge - guitar alone, then congas]"
+    },
+    {
+      "t": 120.03,
+      "end": 122.59,
+      "text": "I only asked to borrow it back"
+    },
+    {
+      "t": 126.43,
+      "end": 129.85,
+      "text": "Dave says Friday, it's on the motorway"
+    },
+    {
+      "t": 146.36,
+      "end": 146.36,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 146.36,
+      "end": 152.44,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 153.3,
+      "end": 156.04,
+      "text": "And now it's coming home to me"
+    },
+    {
+      "t": 158.02,
+      "end": 160.9,
+      "text": "Ten people will have slept inside it"
+    },
+    {
+      "t": 162.12,
+      "end": 164.36,
+      "text": "And it's me, I'm the tenth, finally"
+    },
+    {
+      "t": 164.44,
+      "end": 164.44,
+      "text": "[Outro - sax and guitar trade lines, fade]"
+    },
+    {
+      "t": 164.44,
+      "end": 169.02,
+      "text": "The tent has been to Wales"
+    },
+    {
+      "t": 171.0,
+      "end": 173.72,
+      "text": "Pitch it in the garden, I'll be fine"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

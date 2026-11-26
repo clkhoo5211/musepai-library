@@ -1,0 +1,579 @@
+{
+  "id": "b25_id03",
+  "title": "Soto Jangan Tumpah",
+  "title_source": "scripted",
+  "genre": "Indonesian stomp-clap indie-folk",
+  "language": "id",
+  "language_name": "Indonesian",
+  "mood": "cheerful, teasing, sweet",
+  "persona": "",
+  "subject": "Darto, an ojek driver, takes Rani and her plastic bag of boiling soto home from the corner warung every Thursday at fifteen kilometres an hour, announcing every pothole, and she shares the bowl with him on the kerb",
+  "caption": "Indonesian stomp-clap indie-folk, driving four-on-the-floor stomp. Quick strummed mandolin, bright picked banjo, open-chord acoustic guitar, plucked upright bass, stomp box on the beat with group hand claps. Live-in-the-room recording, close and dry, slight tape warmth. Male vocal, warm mid register, easy conversational delivery, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, G major. Cheerful, teasing, sweet mood. No drum kit, no synths, no autotune, no rap, no electric guitar, no dangdut flourish.",
+  "lyrics": "[Intro - mandolin, stomp and claps]\n\n[Verse 1]\nKamis pagi Rani naik ke jok\nDi pangkuannya sekantong soto panas\nDia bilang, Mas, pelan saja ya\nDarto jawab, siap, kuah dijaga\n\n[Pre-Chorus]\nLima belas kilometer per jam\nIbu penjual sayur menyalip kami\n\n[Chorus]\nSoto jangan tumpah, jangan tumpah\nLubang di depan, kuumumkan dulu\nTikungan kuambil seperti naik perahu\nSoto jangan tumpah, kita sampai\n\n[Verse 2]\nAnak sekolah menyalip sambil tertawa\nTukang becak melambai dari seberang\nLubang pertama, kedua, ketiga\nSemua kuhitung keras-keras\n\n[Pre-Chorus]\nDepan kontrakan jam tujuh lewat\nDia turun, kuahnya masih penuh\n\n[Chorus]\nSoto tidak tumpah, soto utuh\nDia ambil dua mangkuk dari dalam\nDuduk di tepi jalan, setengah untukku\nKamis depan pesan lagi ya\n\n[Bridge - banjo and claps]\nWarung soto itu sebenarnya dekat\nKubilang jalan memutar lebih nyaman\n\n[Chorus]\nSoto jangan tumpah, jangan tumpah\nKali ini aku yang minta pelan\nJalan memutar kutambah satu lagi\nSoto jangan dingin, kita masih jalan\n\n[Outro - mandolin, stomp, claps]",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 124,
+    "duration": 185.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Indonesian stomp-clap indie-folk, driving four-on-the-floor stomp. Quick strummed mandolin, bright picked banjo, open-chord acoustic guitar, plucked upright bass, stomp box on the beat with group hand claps. Live-in-the-room recording, close and dry, slight tape warmth. Male vocal, warm mid register, easy conversational delivery, clearly sung melody. Clear full voice, every word enunciated, steady sung melody on every line. 124 BPM, G major. Cheerful, teasing, sweet mood. No drum kit, no synths, no autotune, no rap, no electric guitar, no dangdut flourish.",
+    "lyrics": "[Intro - mandolin, stomp and claps]\n\n[Verse 1]\nKamis pagi Rani naik ke jok\nDi pangkuannya sekantong soto panas\nDia bilang, Mas, pelan saja ya\nDarto jawab, siap, kuah dijaga\n\n[Pre-Chorus]\nLima belas kilometer per jam\nIbu penjual sayur menyalip kami\n\n[Chorus]\nSoto jangan tumpah, jangan tumpah\nLubang di depan, kuumumkan dulu\nTikungan kuambil seperti naik perahu\nSoto jangan tumpah, kita sampai\n\n[Verse 2]\nAnak sekolah menyalip sambil tertawa\nTukang becak melambai dari seberang\nLubang pertama, kedua, ketiga\nSemua kuhitung keras-keras\n\n[Pre-Chorus]\nDepan kontrakan jam tujuh lewat\nDia turun, kuahnya masih penuh\n\n[Chorus]\nSoto tidak tumpah, soto utuh\nDia ambil dua mangkuk dari dalam\nDuduk di tepi jalan, setengah untukku\nKamis depan pesan lagi ya\n\n[Bridge - banjo and claps]\nWarung soto itu sebenarnya dekat\nKubilang jalan memutar lebih nyaman\n\n[Chorus]\nSoto jangan tumpah, jangan tumpah\nKali ini aku yang minta pelan\nJalan memutar kutambah satu lagi\nSoto jangan dingin, kita masih jalan\n\n[Outro - mandolin, stomp, claps]"
+  },
+  "seed": "3312299522",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 62.91s**\n- 62.91s per song\n- LM phase (1 song): 16.79s\n- DiT phase (1 song): 46.12s",
+  "task_id": "de8ffa63-3e96-44f1-b868-6c7b98639051",
+  "elapsed_s": 90.1,
+  "generated_at": "2026-11-26T10:45:08.496569+08:00",
+  "audio": "b25_id03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 7.94,
+      "end": 7.94,
+      "text": "[Intro - mandolin, stomp and claps]"
+    },
+    {
+      "t": 7.94,
+      "end": 7.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.94,
+      "end": 25.54,
+      "text": "Kamis pagi Rani naik ke jok"
+    },
+    {
+      "t": 25.54,
+      "end": 29.0,
+      "text": "Di pangkuannya sekantong soto panas"
+    },
+    {
+      "t": 31.2,
+      "end": 34.96,
+      "text": "Dia bilang, Mas, pelan saja ya"
+    },
+    {
+      "t": 35.52,
+      "end": 39.84,
+      "text": "Darto jawab, siap, kuah dijaga"
+    },
+    {
+      "t": 42.84,
+      "end": 42.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.84,
+      "end": 46.2,
+      "text": "Lima belas kilometer per jam"
+    },
+    {
+      "t": 46.79,
+      "end": 50.91,
+      "text": "Ibu penjual sayur menyalip kami"
+    },
+    {
+      "t": 51.01,
+      "end": 51.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.01,
+      "end": 53.87,
+      "text": "Soto jangan tumpah, jangan tumpah"
+    },
+    {
+      "t": 53.91,
+      "end": 57.79,
+      "text": "Lubang di depan, kuumumkan dulu"
+    },
+    {
+      "t": 57.79,
+      "end": 62.97,
+      "text": "Tikungan kuambil seperti naik perahu"
+    },
+    {
+      "t": 64.77,
+      "end": 68.77,
+      "text": "Soto jangan tumpah, kita sampai"
+    },
+    {
+      "t": 70.69,
+      "end": 70.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.69,
+      "end": 73.51,
+      "text": "Anak sekolah menyalip sambil tertawa"
+    },
+    {
+      "t": 73.51,
+      "end": 76.75,
+      "text": "Tukang becak melambai dari seberang"
+    },
+    {
+      "t": 78.35,
+      "end": 81.87,
+      "text": "Lubang pertama, kedua, ketiga"
+    },
+    {
+      "t": 82.43,
+      "end": 89.87,
+      "text": "Semua kuhitung keras-keras"
+    },
+    {
+      "t": 90.19,
+      "end": 90.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.19,
+      "end": 93.63,
+      "text": "Depan kontrakan jam tujuh lewat"
+    },
+    {
+      "t": 94.11,
+      "end": 99.03,
+      "text": "Dia turun, kuahnya masih penuh"
+    },
+    {
+      "t": 100.89,
+      "end": 100.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.89,
+      "end": 103.59,
+      "text": "Soto tidak tumpah, soto utuh"
+    },
+    {
+      "t": 104.35,
+      "end": 107.29,
+      "text": "Dia ambil dua mangkuk dari dalam"
+    },
+    {
+      "t": 108.21,
+      "end": 112.93,
+      "text": "Duduk di tepi jalan, setengah untukku"
+    },
+    {
+      "t": 115.75,
+      "end": 117.65,
+      "text": "Kamis depan pesan lagi ya"
+    },
+    {
+      "t": 124.79,
+      "end": 124.79,
+      "text": "[Bridge - banjo and claps]"
+    },
+    {
+      "t": 124.79,
+      "end": 128.25,
+      "text": "Warung soto itu sebenarnya dekat"
+    },
+    {
+      "t": 131.09,
+      "end": 137.21,
+      "text": "Kubilang jalan memutar lebih nyaman"
+    },
+    {
+      "t": 140.5,
+      "end": 140.5,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.5,
+      "end": 144.18,
+      "text": "Soto jangan tumpah, jangan tumpah"
+    },
+    {
+      "t": 144.4,
+      "end": 148.0,
+      "text": "Kali ini aku yang minta pelan"
+    },
+    {
+      "t": 148.46,
+      "end": 152.24,
+      "text": "Jalan memutar kutambah satu lagi"
+    },
+    {
+      "t": 155.94,
+      "end": 160.12,
+      "text": "Soto jangan dingin, kita masih jalan"
+    },
+    {
+      "t": 160.12,
+      "end": 160.12,
+      "text": "[Outro - mandolin, stomp, claps]"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 7.94,
+      "end": 7.94,
+      "text": "[Intro - mandolin, stomp and claps]"
+    },
+    {
+      "t": 7.94,
+      "end": 7.94,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 7.94,
+      "end": 25.54,
+      "text": "Kamis pagi Rani naik ke jok"
+    },
+    {
+      "t": 25.54,
+      "end": 29.0,
+      "text": "Di pangkuannya sekantong soto panas"
+    },
+    {
+      "t": 31.2,
+      "end": 34.96,
+      "text": "Dia bilang, Mas, pelan saja ya"
+    },
+    {
+      "t": 35.52,
+      "end": 39.84,
+      "text": "Darto jawab, siap, kuah dijaga"
+    },
+    {
+      "t": 42.84,
+      "end": 42.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.84,
+      "end": 46.2,
+      "text": "Lima belas kilometer per jam"
+    },
+    {
+      "t": 46.79,
+      "end": 50.91,
+      "text": "Ibu penjual sayur menyalip kami"
+    },
+    {
+      "t": 51.01,
+      "end": 51.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.01,
+      "end": 53.87,
+      "text": "Soto jangan tumpah, jangan tumpah"
+    },
+    {
+      "t": 53.91,
+      "end": 57.79,
+      "text": "Lubang di depan, kuumumkan dulu"
+    },
+    {
+      "t": 57.79,
+      "end": 62.97,
+      "text": "Tikungan kuambil seperti naik perahu"
+    },
+    {
+      "t": 64.77,
+      "end": 68.77,
+      "text": "Soto jangan tumpah, kita sampai"
+    },
+    {
+      "t": 70.69,
+      "end": 70.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.69,
+      "end": 73.51,
+      "text": "Anak sekolah menyalip sambil tertawa"
+    },
+    {
+      "t": 73.51,
+      "end": 76.75,
+      "text": "Tukang becak melambai dari seberang"
+    },
+    {
+      "t": 78.35,
+      "end": 81.87,
+      "text": "Lubang pertama, kedua, ketiga"
+    },
+    {
+      "t": 82.43,
+      "end": 89.87,
+      "text": "Semua kuhitung keras-keras"
+    },
+    {
+      "t": 90.19,
+      "end": 90.19,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.19,
+      "end": 93.63,
+      "text": "Depan kontrakan jam tujuh lewat"
+    },
+    {
+      "t": 94.11,
+      "end": 99.03,
+      "text": "Dia turun, kuahnya masih penuh"
+    },
+    {
+      "t": 100.89,
+      "end": 100.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.89,
+      "end": 103.59,
+      "text": "Soto tidak tumpah, soto utuh"
+    },
+    {
+      "t": 104.35,
+      "end": 107.29,
+      "text": "Dia ambil dua mangkuk dari dalam"
+    },
+    {
+      "t": 108.21,
+      "end": 112.93,
+      "text": "Duduk di tepi jalan, setengah untukku"
+    },
+    {
+      "t": 115.75,
+      "end": 117.65,
+      "text": "Kamis depan pesan lagi ya"
+    },
+    {
+      "t": 124.79,
+      "end": 124.79,
+      "text": "[Bridge - banjo and claps]"
+    },
+    {
+      "t": 124.79,
+      "end": 128.25,
+      "text": "Warung soto itu sebenarnya dekat"
+    },
+    {
+      "t": 131.09,
+      "end": 137.21,
+      "text": "Kubilang jalan memutar lebih nyaman"
+    },
+    {
+      "t": 140.5,
+      "end": 140.5,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.5,
+      "end": 144.18,
+      "text": "Soto jangan tumpah, jangan tumpah"
+    },
+    {
+      "t": 144.4,
+      "end": 148.0,
+      "text": "Kali ini aku yang minta pelan"
+    },
+    {
+      "t": 148.46,
+      "end": 152.24,
+      "text": "Jalan memutar kutambah satu lagi"
+    },
+    {
+      "t": 155.94,
+      "end": 160.12,
+      "text": "Soto jangan dingin, kita masih jalan"
+    },
+    {
+      "t": 160.12,
+      "end": 160.12,
+      "text": "[Outro - mandolin, stomp, claps]"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 3.14,
+      "end": 3.14,
+      "text": "[Intro - mandolin, stomp and claps]"
+    },
+    {
+      "t": 3.14,
+      "end": 3.14,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 3.14,
+      "end": 24.66,
+      "text": "Kamis pagi Rani naik ke jok"
+    },
+    {
+      "t": 24.68,
+      "end": 29.0,
+      "text": "Di pangkuannya sekantong soto panas"
+    },
+    {
+      "t": 31.2,
+      "end": 34.94,
+      "text": "Dia bilang, Mas, pelan saja ya"
+    },
+    {
+      "t": 35.52,
+      "end": 39.84,
+      "text": "Darto jawab, siap, kuah dijaga"
+    },
+    {
+      "t": 42.84,
+      "end": 42.84,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 42.84,
+      "end": 46.18,
+      "text": "Lima belas kilometer per jam"
+    },
+    {
+      "t": 46.79,
+      "end": 50.91,
+      "text": "Ibu penjual sayur menyalip kami"
+    },
+    {
+      "t": 51.01,
+      "end": 51.01,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 51.01,
+      "end": 53.87,
+      "text": "Soto jangan tumpah, jangan tumpah"
+    },
+    {
+      "t": 53.93,
+      "end": 56.11,
+      "text": "Lubang di depan, kuumumkan dulu"
+    },
+    {
+      "t": 57.79,
+      "end": 62.97,
+      "text": "Tikungan kuambil seperti naik perahu"
+    },
+    {
+      "t": 64.75,
+      "end": 68.75,
+      "text": "Soto jangan tumpah, kita sampai"
+    },
+    {
+      "t": 70.69,
+      "end": 70.69,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 70.69,
+      "end": 73.51,
+      "text": "Anak sekolah menyalip sambil tertawa"
+    },
+    {
+      "t": 73.51,
+      "end": 76.71,
+      "text": "Tukang becak melambai dari seberang"
+    },
+    {
+      "t": 78.35,
+      "end": 85.27,
+      "text": "Lubang pertama, kedua, ketiga"
+    },
+    {
+      "t": 86.33,
+      "end": 89.85,
+      "text": "Semua kuhitung keras-keras"
+    },
+    {
+      "t": 90.21,
+      "end": 90.21,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 90.21,
+      "end": 93.61,
+      "text": "Depan kontrakan jam tujuh lewat"
+    },
+    {
+      "t": 94.11,
+      "end": 99.05,
+      "text": "Dia turun, kuahnya masih penuh"
+    },
+    {
+      "t": 100.89,
+      "end": 100.89,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.89,
+      "end": 103.57,
+      "text": "Soto tidak tumpah, soto utuh"
+    },
+    {
+      "t": 104.35,
+      "end": 107.27,
+      "text": "Dia ambil dua mangkuk dari dalam"
+    },
+    {
+      "t": 108.21,
+      "end": 112.93,
+      "text": "Duduk di tepi jalan, setengah untukku"
+    },
+    {
+      "t": 115.75,
+      "end": 117.57,
+      "text": "Kamis depan pesan lagi ya"
+    },
+    {
+      "t": 124.79,
+      "end": 124.79,
+      "text": "[Bridge - banjo and claps]"
+    },
+    {
+      "t": 124.79,
+      "end": 128.25,
+      "text": "Warung soto itu sebenarnya dekat"
+    },
+    {
+      "t": 131.09,
+      "end": 137.17,
+      "text": "Kubilang jalan memutar lebih nyaman"
+    },
+    {
+      "t": 140.5,
+      "end": 140.5,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 140.5,
+      "end": 144.16,
+      "text": "Soto jangan tumpah, jangan tumpah"
+    },
+    {
+      "t": 144.4,
+      "end": 148.02,
+      "text": "Kali ini aku yang minta pelan"
+    },
+    {
+      "t": 148.46,
+      "end": 152.26,
+      "text": "Jalan memutar kutambah satu lagi"
+    },
+    {
+      "t": 155.94,
+      "end": 160.1,
+      "text": "Soto jangan dingin, kita masih jalan"
+    },
+    {
+      "t": 160.1,
+      "end": 160.1,
+      "text": "[Outro - mandolin, stomp, claps]"
+    }
+  ]
+}

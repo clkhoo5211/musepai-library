@@ -1,0 +1,387 @@
+{
+  "id": "b25_zh02",
+  "title": "還差一個宋江",
+  "title_source": "scripted",
+  "genre": "Mandarin melodica-and-fingerpicking small-town minjian folk (民謠)",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "wry, nostalgic, warm",
+  "persona": "",
+  "subject": "a man in his late thirties who still keeps a biscuit tin of 107 instant-noodle collector cards from his school years, missing only the 'Song Jiang' card he swapped away at the playground in 1998, and at the class reunion the classmate pulls the worn card from his wallet",
+  "caption": "Mandarin small-town minjian folk, storyteller style. Fingerpicked steel-string guitar in a steady pattern, melodica playing the answer phrases, soft cajon on beats two and four, upright bass walking underneath. Dry close-miked room, no reverb wash, a little finger noise left in. Male vocal, plain baritone, conversational and clearly sung. 92 BPM, G major. Wry, warm nostalgia. No electric guitar, no synth, no drum kit, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - fingerpicked guitar, melodica]\n[Verse 1]\n餅乾鐵盒放在書櫃上\n一百零七張小卡片\n每張都帶著麵的味道\n就差一個宋江\n[Pre-Chorus]\n那年在操場邊上\n他說下禮拜就還我\n[Chorus]\n宋江啊宋江 你躲在誰的口袋\n我的鐵盒空了一格\n等了二十五年\n老同學你到底在哪\n[Verse 2]\n同學會在一間小餐館\n有人胖了有人禿了頭\n有個人拉開皮夾\n抽出一張卡 邊角磨得發白\n[Pre-Chorus]\n他說我一直想還\n只是不知道你住哪\n[Chorus]\n宋江啊宋江 原來你在他口袋\n放了二十五年\n被他的錢包 磨得很舊\n[Bridge - melodica alone over guitar]\n一百零八個好漢\n總算在今晚湊齊\n[Chorus]\n宋江啊宋江 你終於回家\n我的鐵盒滿了\n老同學今晚你買單\n[Outro - guitar and melodica, slow]\n下禮拜 換我請你",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 92,
+    "duration": 195.0,
+    "genres": "N/A",
+    "keyscale": "G major",
+    "timesignature": "4",
+    "prompt": "Mandarin small-town minjian folk, storyteller style. Fingerpicked steel-string guitar in a steady pattern, melodica playing the answer phrases, soft cajon on beats two and four, upright bass walking underneath. Dry close-miked room, no reverb wash, a little finger noise left in. Male vocal, plain baritone, conversational and clearly sung. 92 BPM, G major. Wry, warm nostalgia. No electric guitar, no synth, no drum kit, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - fingerpicked guitar, melodica]\n[Verse 1]\n餅乾鐵盒放在書櫃上\n一百零七張小卡片\n每張都帶著麵的味道\n就差一個宋江\n[Pre-Chorus]\n那年在操場邊上\n他說下禮拜就還我\n[Chorus]\n宋江啊宋江 你躲在誰的口袋\n我的鐵盒空了一格\n等了二十五年\n老同學你到底在哪\n[Verse 2]\n同學會在一間小餐館\n有人胖了有人禿了頭\n有個人拉開皮夾\n抽出一張卡 邊角磨得發白\n[Pre-Chorus]\n他說我一直想還\n只是不知道你住哪\n[Chorus]\n宋江啊宋江 原來你在他口袋\n放了二十五年\n被他的錢包 磨得很舊\n[Bridge - melodica alone over guitar]\n一百零八個好漢\n總算在今晚湊齊\n[Chorus]\n宋江啊宋江 你終於回家\n我的鐵盒滿了\n老同學今晚你買單\n[Outro - guitar and melodica, slow]\n下禮拜 換我請你"
+  },
+  "seed": "4178417765",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 61.36s**\n- 61.36s per song\n- LM phase (1 song): 17.26s\n- DiT phase (1 song): 44.10s",
+  "task_id": "9aced68c-eba9-44c0-aaa9-2bfacbb5a142",
+  "elapsed_s": 90.2,
+  "generated_at": "2026-11-26T11:12:22.296142+08:00",
+  "audio": "b25_zh02.mp3",
+  "lyrics_timed": [
+    {
+      "t": 34.22,
+      "end": 34.22,
+      "text": "[Intro - fingerpicked guitar, melodica]"
+    },
+    {
+      "t": 34.22,
+      "end": 34.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.22,
+      "end": 43.0,
+      "text": "餅乾鐵盒放在書櫃上"
+    },
+    {
+      "t": 43.18,
+      "end": 43.82,
+      "text": "一百零七張小卡片"
+    },
+    {
+      "t": 43.88,
+      "end": 47.7,
+      "text": "每張都帶著麵的味道"
+    },
+    {
+      "t": 47.78,
+      "end": 48.5,
+      "text": "就差一個宋江"
+    },
+    {
+      "t": 48.5,
+      "end": 48.5,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 48.5,
+      "end": 53.75,
+      "text": "那年在操場邊上"
+    },
+    {
+      "t": 53.75,
+      "end": 56.43,
+      "text": "他說下禮拜就還我"
+    },
+    {
+      "t": 61.07,
+      "end": 61.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.07,
+      "end": 66.17,
+      "text": "宋江啊宋江 你躲在誰的口袋"
+    },
+    {
+      "t": 68.61,
+      "end": 71.03,
+      "text": "我的鐵盒空了一格"
+    },
+    {
+      "t": 71.53,
+      "end": 73.47,
+      "text": "等了二十五年"
+    },
+    {
+      "t": 73.83,
+      "end": 77.23,
+      "text": "老同學你到底在哪"
+    },
+    {
+      "t": 84.57,
+      "end": 84.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.57,
+      "end": 87.01,
+      "text": "同學會在一間小餐館"
+    },
+    {
+      "t": 87.03,
+      "end": 88.83,
+      "text": "有人胖了有人禿了頭"
+    },
+    {
+      "t": 88.83,
+      "end": 90.61,
+      "text": "有個人拉開皮夾"
+    },
+    {
+      "t": 90.61,
+      "end": 92.23,
+      "text": "抽出一張卡 邊角磨得發白"
+    },
+    {
+      "t": 92.23,
+      "end": 92.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.23,
+      "end": 94.99,
+      "text": "他說我一直想還"
+    },
+    {
+      "t": 95.01,
+      "end": 97.49,
+      "text": "只是不知道你住哪"
+    },
+    {
+      "t": 97.49,
+      "end": 97.49,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.49,
+      "end": 108.73,
+      "text": "宋江啊宋江 原來你在他口袋"
+    },
+    {
+      "t": 108.73,
+      "end": 111.99,
+      "text": "放了二十五年"
+    },
+    {
+      "t": 111.99,
+      "end": 116.07,
+      "text": "被他的錢包 磨得很舊"
+    },
+    {
+      "t": 121.21,
+      "end": 121.21,
+      "text": "[Bridge - melodica alone over guitar]"
+    },
+    {
+      "t": 121.21,
+      "end": 122.19,
+      "text": "一百零八個好漢"
+    },
+    {
+      "t": 123.77,
+      "end": 129.21,
+      "text": "總算在今晚湊齊"
+    },
+    {
+      "t": 131.67,
+      "end": 131.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.67,
+      "end": 134.79,
+      "text": "宋江啊宋江 你終於回家"
+    },
+    {
+      "t": 136.65,
+      "end": 144.39,
+      "text": "我的鐵盒滿了"
+    },
+    {
+      "t": 147.22,
+      "end": 149.72,
+      "text": "老同學今晚你買單"
+    },
+    {
+      "t": 172.58,
+      "end": 172.58,
+      "text": "[Outro - guitar and melodica, slow]"
+    },
+    {
+      "t": 172.58,
+      "end": 175.18,
+      "text": "下禮拜 換我請你"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 34.26,
+      "end": 34.26,
+      "text": "[Intro - fingerpicked guitar, melodica]"
+    },
+    {
+      "t": 34.26,
+      "end": 34.26,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 34.26,
+      "end": 43.0,
+      "text": "餅乾鐵盒放在書櫃上"
+    },
+    {
+      "t": 43.0,
+      "end": 43.82,
+      "text": "一百零七張小卡片"
+    },
+    {
+      "t": 43.92,
+      "end": 45.2,
+      "text": "每張都帶著麵的味道"
+    },
+    {
+      "t": 45.2,
+      "end": 47.78,
+      "text": "就差一個宋江"
+    },
+    {
+      "t": 47.78,
+      "end": 47.78,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.78,
+      "end": 49.75,
+      "text": "那年在操場邊上"
+    },
+    {
+      "t": 53.61,
+      "end": 56.43,
+      "text": "他說下禮拜就還我"
+    },
+    {
+      "t": 61.07,
+      "end": 61.07,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 61.07,
+      "end": 66.15,
+      "text": "宋江啊宋江 你躲在誰的口袋"
+    },
+    {
+      "t": 68.63,
+      "end": 71.03,
+      "text": "我的鐵盒空了一格"
+    },
+    {
+      "t": 71.53,
+      "end": 73.47,
+      "text": "等了二十五年"
+    },
+    {
+      "t": 73.85,
+      "end": 77.23,
+      "text": "老同學你到底在哪"
+    },
+    {
+      "t": 84.55,
+      "end": 84.55,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 84.55,
+      "end": 86.99,
+      "text": "同學會在一間小餐館"
+    },
+    {
+      "t": 87.03,
+      "end": 88.15,
+      "text": "有人胖了有人禿了頭"
+    },
+    {
+      "t": 88.15,
+      "end": 89.95,
+      "text": "有個人拉開皮夾"
+    },
+    {
+      "t": 89.95,
+      "end": 92.23,
+      "text": "抽出一張卡 邊角磨得發白"
+    },
+    {
+      "t": 92.23,
+      "end": 92.23,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.23,
+      "end": 94.73,
+      "text": "他說我一直想還"
+    },
+    {
+      "t": 95.01,
+      "end": 97.51,
+      "text": "只是不知道你住哪"
+    },
+    {
+      "t": 97.51,
+      "end": 97.51,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 97.51,
+      "end": 108.73,
+      "text": "宋江啊宋江 原來你在他口袋"
+    },
+    {
+      "t": 109.05,
+      "end": 111.99,
+      "text": "放了二十五年"
+    },
+    {
+      "t": 111.99,
+      "end": 116.07,
+      "text": "被他的錢包 磨得很舊"
+    },
+    {
+      "t": 121.21,
+      "end": 121.21,
+      "text": "[Bridge - melodica alone over guitar]"
+    },
+    {
+      "t": 121.21,
+      "end": 122.21,
+      "text": "一百零八個好漢"
+    },
+    {
+      "t": 123.79,
+      "end": 129.21,
+      "text": "總算在今晚湊齊"
+    },
+    {
+      "t": 131.67,
+      "end": 131.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 131.67,
+      "end": 134.79,
+      "text": "宋江啊宋江 你終於回家"
+    },
+    {
+      "t": 136.65,
+      "end": 144.41,
+      "text": "我的鐵盒滿了"
+    },
+    {
+      "t": 147.22,
+      "end": 149.72,
+      "text": "老同學今晚你買單"
+    },
+    {
+      "t": 154.84,
+      "end": 154.84,
+      "text": "[Outro - guitar and melodica, slow]"
+    },
+    {
+      "t": 154.84,
+      "end": 183.22,
+      "text": "下禮拜 換我請你"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

@@ -1,0 +1,534 @@
+{
+  "id": "b25_ms01",
+  "title": "Kerusi Lebih Satu",
+  "title_source": "scripted",
+  "genre": "Malay ronggeng band (1930s-style violin-and-accordion dance song)",
+  "language": "ms",
+  "language_name": "Malay",
+  "mood": "playful, flirty, brisk",
+  "persona": "",
+  "subject": "Hanim counts the borrowed plastic chairs after a doa selamat kenduri, finds one extra marked in white paint with Zul's name, and keeps miscounting so he has to come and fetch it himself",
+  "caption": "Malay ronggeng, brisk dance-hall sub-style with pantun-answer phrasing. Singing violin playing quick ornamented runs, button accordion pumping offbeat chords, rebana frame drum with loose jingles, small hanging gong on every fourth bar, upright bass walking. Dry vintage room sound, no reverb tail, live-band feel. Female alto lead, mid register, bright forward delivery with a light male response on the chorus tag. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, D major. Playful, flirty, brisk mood. No electric guitar, no drum machine, no autotune, no rap, no synth, no trap hi-hats.",
+  "lyrics": "[Intro - violin, accordion, rebana]\n\n[Verse 1]\nKenduri doa selamat dah habis\nHanim kira kerusi bawah khemah\nTiga kampung bagi pinjam kerusi biru\nNama tuan tulis cat putih kat kaki\n\n[Pre-Chorus]\nSatu, dua, tiga, sampai empat puluh\nEh, kenapa jadi empat puluh satu?\n\n[Chorus]\nKerusi lebih satu, siapa punya?\nCat putih tulis Zul, Kampung Parit\nHanim kira lagi, sengaja salah\nBiar dia datang ambil sendiri\n\n[Verse 2]\nPak Ngah dah angkat periuk kawah\nBudak-budak dah susun pinggan\nZul sampai naik motor pukul empat\nKopiah senget, peluh kat dahi\n\n[Pre-Chorus]\nSatu, dua, tiga, sampai empat puluh\nDia kata, eh, memang lebih satu\n\n[Chorus]\nKerusi lebih satu, ambillah Zul\nTapi duduk dulu, minum air sirap\nHanim kira lagi, tak habis-habis\nBiar kerusi tu tunggu kita\n\n[Bridge - rebana and gong]\nOrang dah balik, khemah dah longgar\nDua kerusi tinggal, dua orang duduk\n\n[Outro - violin and accordion]\nSatu, dua, tiga, kira lagi\nKerusi lebih satu, kita lebih dua",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 126,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D major",
+    "timesignature": "4",
+    "prompt": "Malay ronggeng, brisk dance-hall sub-style with pantun-answer phrasing. Singing violin playing quick ornamented runs, button accordion pumping offbeat chords, rebana frame drum with loose jingles, small hanging gong on every fourth bar, upright bass walking. Dry vintage room sound, no reverb tail, live-band feel. Female alto lead, mid register, bright forward delivery with a light male response on the chorus tag. Clear full voice, every word enunciated, steady sung melody on every line. 126 BPM, D major. Playful, flirty, brisk mood. No electric guitar, no drum machine, no autotune, no rap, no synth, no trap hi-hats.",
+    "lyrics": "[Intro - violin, accordion, rebana]\n\n[Verse 1]\nKenduri doa selamat dah habis\nHanim kira kerusi bawah khemah\nTiga kampung bagi pinjam kerusi biru\nNama tuan tulis cat putih kat kaki\n\n[Pre-Chorus]\nSatu, dua, tiga, sampai empat puluh\nEh, kenapa jadi empat puluh satu?\n\n[Chorus]\nKerusi lebih satu, siapa punya?\nCat putih tulis Zul, Kampung Parit\nHanim kira lagi, sengaja salah\nBiar dia datang ambil sendiri\n\n[Verse 2]\nPak Ngah dah angkat periuk kawah\nBudak-budak dah susun pinggan\nZul sampai naik motor pukul empat\nKopiah senget, peluh kat dahi\n\n[Pre-Chorus]\nSatu, dua, tiga, sampai empat puluh\nDia kata, eh, memang lebih satu\n\n[Chorus]\nKerusi lebih satu, ambillah Zul\nTapi duduk dulu, minum air sirap\nHanim kira lagi, tak habis-habis\nBiar kerusi tu tunggu kita\n\n[Bridge - rebana and gong]\nOrang dah balik, khemah dah longgar\nDua kerusi tinggal, dua orang duduk\n\n[Outro - violin and accordion]\nSatu, dua, tiga, kira lagi\nKerusi lebih satu, kita lebih dua"
+  },
+  "seed": "4156304935",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 68.61s**\n- 68.61s per song\n- LM phase (1 song): 11.87s\n- DiT phase (1 song): 56.75s",
+  "task_id": "56e623a5-5130-4f6f-9209-3cbdffb6e146",
+  "elapsed_s": 101.1,
+  "generated_at": "2026-11-26T10:33:36.939199+08:00",
+  "audio": "b25_ms01.mp3",
+  "lyrics_timed": [
+    {
+      "t": 32.38,
+      "end": 32.38,
+      "text": "[Intro - violin, accordion, rebana]"
+    },
+    {
+      "t": 32.38,
+      "end": 32.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.38,
+      "end": 35.84,
+      "text": "Kenduri doa selamat dah habis"
+    },
+    {
+      "t": 36.28,
+      "end": 40.24,
+      "text": "Hanim kira kerusi bawah khemah"
+    },
+    {
+      "t": 40.24,
+      "end": 43.08,
+      "text": "Tiga kampung bagi pinjam kerusi biru"
+    },
+    {
+      "t": 43.2,
+      "end": 46.92,
+      "text": "Nama tuan tulis cat putih kat kaki"
+    },
+    {
+      "t": 47.75,
+      "end": 47.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.75,
+      "end": 51.93,
+      "text": "Satu, dua, tiga, sampai empat puluh"
+    },
+    {
+      "t": 51.97,
+      "end": 59.43,
+      "text": "Eh, kenapa jadi empat puluh satu?"
+    },
+    {
+      "t": 62.67,
+      "end": 62.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.67,
+      "end": 64.23,
+      "text": "Kerusi lebih satu, siapa punya?"
+    },
+    {
+      "t": 64.31,
+      "end": 70.31,
+      "text": "Cat putih tulis Zul, Kampung Parit"
+    },
+    {
+      "t": 70.31,
+      "end": 76.73,
+      "text": "Hanim kira lagi, sengaja salah"
+    },
+    {
+      "t": 76.73,
+      "end": 78.29,
+      "text": "Biar dia datang ambil sendiri"
+    },
+    {
+      "t": 78.35,
+      "end": 78.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.35,
+      "end": 79.97,
+      "text": "Pak Ngah dah angkat periuk kawah"
+    },
+    {
+      "t": 79.97,
+      "end": 81.09,
+      "text": "Budak-budak dah susun pinggan"
+    },
+    {
+      "t": 81.27,
+      "end": 101.29,
+      "text": "Zul sampai naik motor pukul empat"
+    },
+    {
+      "t": 101.29,
+      "end": 102.33,
+      "text": "Kopiah senget, peluh kat dahi"
+    },
+    {
+      "t": 102.39,
+      "end": 102.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.39,
+      "end": 104.95,
+      "text": "Satu, dua, tiga, sampai empat puluh"
+    },
+    {
+      "t": 104.95,
+      "end": 105.45,
+      "text": "Dia kata, eh, memang lebih satu"
+    },
+    {
+      "t": 105.45,
+      "end": 105.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.45,
+      "end": 107.43,
+      "text": "Kerusi lebih satu, ambillah Zul"
+    },
+    {
+      "t": 107.95,
+      "end": 113.65,
+      "text": "Tapi duduk dulu, minum air sirap"
+    },
+    {
+      "t": 115.39,
+      "end": 119.79,
+      "text": "Hanim kira lagi, tak habis-habis"
+    },
+    {
+      "t": 119.99,
+      "end": 123.97,
+      "text": "Biar kerusi tu tunggu kita"
+    },
+    {
+      "t": 130.73,
+      "end": 130.73,
+      "text": "[Bridge - rebana and gong]"
+    },
+    {
+      "t": 130.73,
+      "end": 136.93,
+      "text": "Orang dah balik, khemah dah longgar"
+    },
+    {
+      "t": 138.07,
+      "end": 144.06,
+      "text": "Dua kerusi tinggal, dua orang duduk"
+    },
+    {
+      "t": 146.8,
+      "end": 146.8,
+      "text": "[Outro - violin and accordion]"
+    },
+    {
+      "t": 146.8,
+      "end": 150.8,
+      "text": "Satu, dua, tiga, kira lagi"
+    },
+    {
+      "t": 154.48,
+      "end": 183.16,
+      "text": "Kerusi lebih satu, kita lebih dua"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_vocals": [
+    {
+      "t": 32.38,
+      "end": 32.38,
+      "text": "[Intro - violin, accordion, rebana]"
+    },
+    {
+      "t": 32.38,
+      "end": 32.38,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.38,
+      "end": 35.84,
+      "text": "Kenduri doa selamat dah habis"
+    },
+    {
+      "t": 36.28,
+      "end": 40.24,
+      "text": "Hanim kira kerusi bawah khemah"
+    },
+    {
+      "t": 40.24,
+      "end": 43.08,
+      "text": "Tiga kampung bagi pinjam kerusi biru"
+    },
+    {
+      "t": 43.2,
+      "end": 46.92,
+      "text": "Nama tuan tulis cat putih kat kaki"
+    },
+    {
+      "t": 47.75,
+      "end": 47.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.75,
+      "end": 51.93,
+      "text": "Satu, dua, tiga, sampai empat puluh"
+    },
+    {
+      "t": 51.97,
+      "end": 59.43,
+      "text": "Eh, kenapa jadi empat puluh satu?"
+    },
+    {
+      "t": 62.67,
+      "end": 62.67,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.67,
+      "end": 64.23,
+      "text": "Kerusi lebih satu, siapa punya?"
+    },
+    {
+      "t": 64.31,
+      "end": 70.31,
+      "text": "Cat putih tulis Zul, Kampung Parit"
+    },
+    {
+      "t": 70.31,
+      "end": 76.73,
+      "text": "Hanim kira lagi, sengaja salah"
+    },
+    {
+      "t": 76.73,
+      "end": 78.29,
+      "text": "Biar dia datang ambil sendiri"
+    },
+    {
+      "t": 78.35,
+      "end": 78.35,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 78.35,
+      "end": 79.97,
+      "text": "Pak Ngah dah angkat periuk kawah"
+    },
+    {
+      "t": 79.97,
+      "end": 81.09,
+      "text": "Budak-budak dah susun pinggan"
+    },
+    {
+      "t": 81.27,
+      "end": 101.29,
+      "text": "Zul sampai naik motor pukul empat"
+    },
+    {
+      "t": 101.29,
+      "end": 102.33,
+      "text": "Kopiah senget, peluh kat dahi"
+    },
+    {
+      "t": 102.39,
+      "end": 102.39,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 102.39,
+      "end": 104.95,
+      "text": "Satu, dua, tiga, sampai empat puluh"
+    },
+    {
+      "t": 104.95,
+      "end": 105.45,
+      "text": "Dia kata, eh, memang lebih satu"
+    },
+    {
+      "t": 105.45,
+      "end": 105.45,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 105.45,
+      "end": 107.43,
+      "text": "Kerusi lebih satu, ambillah Zul"
+    },
+    {
+      "t": 107.95,
+      "end": 113.65,
+      "text": "Tapi duduk dulu, minum air sirap"
+    },
+    {
+      "t": 115.39,
+      "end": 119.79,
+      "text": "Hanim kira lagi, tak habis-habis"
+    },
+    {
+      "t": 119.99,
+      "end": 123.97,
+      "text": "Biar kerusi tu tunggu kita"
+    },
+    {
+      "t": 130.73,
+      "end": 130.73,
+      "text": "[Bridge - rebana and gong]"
+    },
+    {
+      "t": 130.73,
+      "end": 136.93,
+      "text": "Orang dah balik, khemah dah longgar"
+    },
+    {
+      "t": 138.07,
+      "end": 144.06,
+      "text": "Dua kerusi tinggal, dua orang duduk"
+    },
+    {
+      "t": 146.8,
+      "end": 146.8,
+      "text": "[Outro - violin and accordion]"
+    },
+    {
+      "t": 146.8,
+      "end": 150.8,
+      "text": "Satu, dua, tiga, kira lagi"
+    },
+    {
+      "t": 154.48,
+      "end": 183.16,
+      "text": "Kerusi lebih satu, kita lebih dua"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals",
+  "lyrics_timed_mix": [
+    {
+      "t": 32.4,
+      "end": 32.4,
+      "text": "[Intro - violin, accordion, rebana]"
+    },
+    {
+      "t": 32.4,
+      "end": 32.4,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 32.4,
+      "end": 35.84,
+      "text": "Kenduri doa selamat dah habis"
+    },
+    {
+      "t": 36.28,
+      "end": 40.24,
+      "text": "Hanim kira kerusi bawah khemah"
+    },
+    {
+      "t": 40.24,
+      "end": 43.08,
+      "text": "Tiga kampung bagi pinjam kerusi biru"
+    },
+    {
+      "t": 43.2,
+      "end": 46.92,
+      "text": "Nama tuan tulis cat putih kat kaki"
+    },
+    {
+      "t": 47.75,
+      "end": 47.75,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 47.75,
+      "end": 51.85,
+      "text": "Satu, dua, tiga, sampai empat puluh"
+    },
+    {
+      "t": 51.85,
+      "end": 59.41,
+      "text": "Eh, kenapa jadi empat puluh satu?"
+    },
+    {
+      "t": 62.65,
+      "end": 62.65,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 62.65,
+      "end": 64.43,
+      "text": "Kerusi lebih satu, siapa punya?"
+    },
+    {
+      "t": 64.43,
+      "end": 70.31,
+      "text": "Cat putih tulis Zul, Kampung Parit"
+    },
+    {
+      "t": 70.31,
+      "end": 76.73,
+      "text": "Hanim kira lagi, sengaja salah"
+    },
+    {
+      "t": 77.29,
+      "end": 81.37,
+      "text": "Biar dia datang ambil sendiri"
+    },
+    {
+      "t": 83.79,
+      "end": 83.79,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 83.79,
+      "end": 87.31,
+      "text": "Pak Ngah dah angkat periuk kawah"
+    },
+    {
+      "t": 87.31,
+      "end": 88.11,
+      "text": "Budak-budak dah susun pinggan"
+    },
+    {
+      "t": 88.13,
+      "end": 91.47,
+      "text": "Zul sampai naik motor pukul empat"
+    },
+    {
+      "t": 91.47,
+      "end": 92.03,
+      "text": "Kopiah senget, peluh kat dahi"
+    },
+    {
+      "t": 92.07,
+      "end": 92.07,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 92.07,
+      "end": 93.87,
+      "text": "Satu, dua, tiga, sampai empat puluh"
+    },
+    {
+      "t": 94.81,
+      "end": 100.55,
+      "text": "Dia kata, eh, memang lebih satu"
+    },
+    {
+      "t": 100.55,
+      "end": 100.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 100.55,
+      "end": 105.77,
+      "text": "Kerusi lebih satu, ambillah Zul"
+    },
+    {
+      "t": 107.95,
+      "end": 113.61,
+      "text": "Tapi duduk dulu, minum air sirap"
+    },
+    {
+      "t": 115.41,
+      "end": 119.81,
+      "text": "Hanim kira lagi, tak habis-habis"
+    },
+    {
+      "t": 119.99,
+      "end": 123.95,
+      "text": "Biar kerusi tu tunggu kita"
+    },
+    {
+      "t": 130.73,
+      "end": 130.73,
+      "text": "[Bridge - rebana and gong]"
+    },
+    {
+      "t": 130.73,
+      "end": 136.87,
+      "text": "Orang dah balik, khemah dah longgar"
+    },
+    {
+      "t": 138.07,
+      "end": 144.08,
+      "text": "Dua kerusi tinggal, dua orang duduk"
+    },
+    {
+      "t": 146.8,
+      "end": 146.8,
+      "text": "[Outro - violin and accordion]"
+    },
+    {
+      "t": 146.8,
+      "end": 150.78,
+      "text": "Satu, dua, tiga, kira lagi"
+    },
+    {
+      "t": 154.48,
+      "end": 185.02,
+      "text": "Kerusi lebih satu, kita lebih dua"
+    }
+  ]
+}

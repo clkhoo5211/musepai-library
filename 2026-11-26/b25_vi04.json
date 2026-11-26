@@ -1,0 +1,337 @@
+{
+  "id": "b25_vi04",
+  "title": "Bảng Giá Chú Sáu",
+  "title_source": "scripted",
+  "genre": "Hanoi xẩm street-busker folk",
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "mood": "cheeky, brisk, street-corner good humour",
+  "persona": "",
+  "subject": "a sidewalk shoe-mender whose cardboard price list has not changed since 2009, and who sings it out to every customer who asks him to raise it",
+  "caption": "Hanoi xẩm street-busker folk in a brisk playful tempo. Đàn nhị bowed fiddle carrying the tune, phách and sênh wooden clappers marking a steady pulse, trống mảnh small drum, đàn bầu answering with bending notes between phrases. Close dry acoustic texture, clappers up front. Male mid-pitched voice with light folk ornament, sung clearly like a storyteller. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, D minor. Cheeky, street-corner good humour mood. No electronic beats, no synth pads, no autotune, no rap, no rock drums.",
+  "lyrics": "[Intro - đàn nhị and clappers]\n\n[Verse 1]\nChú Sáu ngồi vá dép dưới gốc bàng\nTấm bìa các-tông treo đã mười mấy năm\nĐế dép dán keo, năm chục một đôi\nChỉ khâu quai dép, hai chục cho xong\n\n[Pre-Chorus]\nKhách bảo chú ơi, tăng giá chút đi\nChú lắc đầu cười, giá này quen rồi\n\n[Chorus]\nNăm chục năm chục, đôi dép vẫn năm chục\nGió thổi bảng bay, giá vẫn không đổi\nNăm chục năm chục, chú ngồi chú vá\nAi nghèo ai giàu, cũng một giá này\n\n[Verse 2]\nCô bán hoa đưa dép gãy quai\nAnh xe ôm đưa dép mòn gót\nChú nhìn giá cũ, chú nhìn nắng mới\nChú thêm cái keo, không thêm đồng nào\n\n[Chorus]\nNăm chục năm chục, đôi dép vẫn năm chục\nCái bảng đã phai, giá vẫn còn đó\nNăm chục năm chục, chú ngồi chú hát\nAi qua cũng dừng, hỏi giá cho vui\n\n[Bridge - phách and sênh alone]\nCon chú bảo ba ơi, ba tăng đi\nChú gật gật đầu, ngày mai vẫn thế\n\n[Outro - đàn bầu and đàn nhị]\nGốc bàng đầu phố, chú Sáu còn ngồi\nNăm chục một đôi, hát cho cả đường",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "D minor",
+    "timesignature": "4",
+    "prompt": "Hanoi xẩm street-busker folk in a brisk playful tempo. Đàn nhị bowed fiddle carrying the tune, phách and sênh wooden clappers marking a steady pulse, trống mảnh small drum, đàn bầu answering with bending notes between phrases. Close dry acoustic texture, clappers up front. Male mid-pitched voice with light folk ornament, sung clearly like a storyteller. Clear full voice, every word enunciated, steady sung melody on every line. 104 BPM, D minor. Cheeky, street-corner good humour mood. No electronic beats, no synth pads, no autotune, no rap, no rock drums.",
+    "lyrics": "[Intro - đàn nhị and clappers]\n\n[Verse 1]\nChú Sáu ngồi vá dép dưới gốc bàng\nTấm bìa các-tông treo đã mười mấy năm\nĐế dép dán keo, năm chục một đôi\nChỉ khâu quai dép, hai chục cho xong\n\n[Pre-Chorus]\nKhách bảo chú ơi, tăng giá chút đi\nChú lắc đầu cười, giá này quen rồi\n\n[Chorus]\nNăm chục năm chục, đôi dép vẫn năm chục\nGió thổi bảng bay, giá vẫn không đổi\nNăm chục năm chục, chú ngồi chú vá\nAi nghèo ai giàu, cũng một giá này\n\n[Verse 2]\nCô bán hoa đưa dép gãy quai\nAnh xe ôm đưa dép mòn gót\nChú nhìn giá cũ, chú nhìn nắng mới\nChú thêm cái keo, không thêm đồng nào\n\n[Chorus]\nNăm chục năm chục, đôi dép vẫn năm chục\nCái bảng đã phai, giá vẫn còn đó\nNăm chục năm chục, chú ngồi chú hát\nAi qua cũng dừng, hỏi giá cho vui\n\n[Bridge - phách and sênh alone]\nCon chú bảo ba ơi, ba tăng đi\nChú gật gật đầu, ngày mai vẫn thế\n\n[Outro - đàn bầu and đàn nhị]\nGốc bàng đầu phố, chú Sáu còn ngồi\nNăm chục một đôi, hát cho cả đường\n"
+  },
+  "seed": "3335568176",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 63.13s**\n- 63.13s per song\n- LM phase (1 song): 12.48s\n- DiT phase (1 song): 50.66s",
+  "task_id": "a4adcece-a977-4235-becb-1b74e31a864f",
+  "elapsed_s": 80.2,
+  "generated_at": "2026-11-26T12:38:58.333688+08:00",
+  "audio": "b25_vi04.mp3",
+  "lyrics_timed": [
+    {
+      "t": 15.06,
+      "end": 15.06,
+      "text": "[Intro - đàn nhị and clappers]"
+    },
+    {
+      "t": 15.06,
+      "end": 15.06,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.06,
+      "end": 32.48,
+      "text": "Chú Sáu ngồi vá dép dưới gốc bàng"
+    },
+    {
+      "t": 32.48,
+      "end": 42.1,
+      "text": "Tấm bìa các-tông treo đã mười mấy năm"
+    },
+    {
+      "t": 42.18,
+      "end": 44.52,
+      "text": "Đế dép dán keo, năm chục một đôi"
+    },
+    {
+      "t": 46.04,
+      "end": 53.83,
+      "text": "Chỉ khâu quai dép, hai chục cho xong"
+    },
+    {
+      "t": 56.05,
+      "end": 56.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.05,
+      "end": 62.05,
+      "text": "Khách bảo chú ơi, tăng giá chút đi"
+    },
+    {
+      "t": 62.05,
+      "end": 64.03,
+      "text": "Chú lắc đầu cười, giá này quen rồi"
+    },
+    {
+      "t": 68.09,
+      "end": 68.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.09,
+      "end": 71.79,
+      "text": "Năm chục năm chục, đôi dép vẫn năm chục"
+    },
+    {
+      "t": 71.79,
+      "end": 74.33,
+      "text": "Gió thổi bảng bay, giá vẫn không đổi"
+    },
+    {
+      "t": 77.01,
+      "end": 81.03,
+      "text": "Năm chục năm chục, chú ngồi chú vá"
+    },
+    {
+      "t": 82.35,
+      "end": 86.53,
+      "text": "Ai nghèo ai giàu, cũng một giá này"
+    },
+    {
+      "t": 88.05,
+      "end": 88.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.05,
+      "end": 90.81,
+      "text": "Cô bán hoa đưa dép gãy quai"
+    },
+    {
+      "t": 91.49,
+      "end": 94.37,
+      "text": "Anh xe ôm đưa dép mòn gót"
+    },
+    {
+      "t": 95.47,
+      "end": 99.85,
+      "text": "Chú nhìn giá cũ, chú nhìn nắng mới"
+    },
+    {
+      "t": 100.05,
+      "end": 103.83,
+      "text": "Chú thêm cái keo, không thêm đồng nào"
+    },
+    {
+      "t": 108.03,
+      "end": 108.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.03,
+      "end": 111.71,
+      "text": "Năm chục năm chục, đôi dép vẫn năm chục"
+    },
+    {
+      "t": 112.63,
+      "end": 116.21,
+      "text": "Cái bảng đã phai, giá vẫn còn đó"
+    },
+    {
+      "t": 117.23,
+      "end": 120.93,
+      "text": "Năm chục năm chục, chú ngồi chú hát"
+    },
+    {
+      "t": 121.87,
+      "end": 141.07,
+      "text": "Ai qua cũng dừng, hỏi giá cho vui"
+    },
+    {
+      "t": 142.21,
+      "end": 142.21,
+      "text": "[Bridge - phách and sênh alone]"
+    },
+    {
+      "t": 142.21,
+      "end": 153.2,
+      "text": "Con chú bảo ba ơi, ba tăng đi"
+    },
+    {
+      "t": 153.2,
+      "end": 155.96,
+      "text": "Chú gật gật đầu, ngày mai vẫn thế"
+    },
+    {
+      "t": 159.5,
+      "end": 159.5,
+      "text": "[Outro - đàn bầu and đàn nhị]"
+    },
+    {
+      "t": 159.5,
+      "end": 165.66,
+      "text": "Gốc bàng đầu phố, chú Sáu còn ngồi"
+    },
+    {
+      "t": 169.32,
+      "end": 177.08,
+      "text": "Năm chục một đôi, hát cho cả đường"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment",
+  "lyrics_timed_vocals": [
+    {
+      "t": 15.08,
+      "end": 15.08,
+      "text": "[Intro - đàn nhị and clappers]"
+    },
+    {
+      "t": 15.08,
+      "end": 15.08,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 15.08,
+      "end": 32.48,
+      "text": "Chú Sáu ngồi vá dép dưới gốc bàng"
+    },
+    {
+      "t": 32.7,
+      "end": 43.04,
+      "text": "Tấm bìa các-tông treo đã mười mấy năm"
+    },
+    {
+      "t": 43.2,
+      "end": 46.56,
+      "text": "Đế dép dán keo, năm chục một đôi"
+    },
+    {
+      "t": 46.56,
+      "end": 53.83,
+      "text": "Chỉ khâu quai dép, hai chục cho xong"
+    },
+    {
+      "t": 56.05,
+      "end": 56.05,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 56.05,
+      "end": 62.05,
+      "text": "Khách bảo chú ơi, tăng giá chút đi"
+    },
+    {
+      "t": 62.05,
+      "end": 64.51,
+      "text": "Chú lắc đầu cười, giá này quen rồi"
+    },
+    {
+      "t": 68.09,
+      "end": 68.09,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 68.09,
+      "end": 71.79,
+      "text": "Năm chục năm chục, đôi dép vẫn năm chục"
+    },
+    {
+      "t": 71.79,
+      "end": 74.33,
+      "text": "Gió thổi bảng bay, giá vẫn không đổi"
+    },
+    {
+      "t": 77.01,
+      "end": 81.03,
+      "text": "Năm chục năm chục, chú ngồi chú vá"
+    },
+    {
+      "t": 82.37,
+      "end": 86.57,
+      "text": "Ai nghèo ai giàu, cũng một giá này"
+    },
+    {
+      "t": 88.05,
+      "end": 88.05,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 88.05,
+      "end": 90.81,
+      "text": "Cô bán hoa đưa dép gãy quai"
+    },
+    {
+      "t": 91.49,
+      "end": 94.37,
+      "text": "Anh xe ôm đưa dép mòn gót"
+    },
+    {
+      "t": 95.47,
+      "end": 99.87,
+      "text": "Chú nhìn giá cũ, chú nhìn nắng mới"
+    },
+    {
+      "t": 100.05,
+      "end": 103.89,
+      "text": "Chú thêm cái keo, không thêm đồng nào"
+    },
+    {
+      "t": 108.03,
+      "end": 108.03,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 108.03,
+      "end": 111.71,
+      "text": "Năm chục năm chục, đôi dép vẫn năm chục"
+    },
+    {
+      "t": 112.61,
+      "end": 116.21,
+      "text": "Cái bảng đã phai, giá vẫn còn đó"
+    },
+    {
+      "t": 117.23,
+      "end": 120.93,
+      "text": "Năm chục năm chục, chú ngồi chú hát"
+    },
+    {
+      "t": 121.87,
+      "end": 129.71,
+      "text": "Ai qua cũng dừng, hỏi giá cho vui"
+    },
+    {
+      "t": 132.01,
+      "end": 132.01,
+      "text": "[Bridge - phách and sênh alone]"
+    },
+    {
+      "t": 132.01,
+      "end": 153.2,
+      "text": "Con chú bảo ba ơi, ba tăng đi"
+    },
+    {
+      "t": 153.2,
+      "end": 155.96,
+      "text": "Chú gật gật đầu, ngày mai vẫn thế"
+    },
+    {
+      "t": 159.5,
+      "end": 159.5,
+      "text": "[Outro - đàn bầu and đàn nhị]"
+    },
+    {
+      "t": 159.5,
+      "end": 165.68,
+      "text": "Gốc bàng đầu phố, chú Sáu còn ngồi"
+    },
+    {
+      "t": 169.3,
+      "end": 177.08,
+      "text": "Năm chục một đôi, hát cho cả đường"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}

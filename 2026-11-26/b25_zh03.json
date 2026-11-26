@@ -1,0 +1,387 @@
+{
+  "id": "b25_zh03",
+  "title": "七號請進",
+  "title_source": "scripted",
+  "genre": "Mandarin 1960s exotica lounge (vibraphone, bongos and flute)",
+  "language": "zh",
+  "language_name": "Mandarin Chinese (Traditional)",
+  "mood": "playful, sly, relaxed",
+  "persona": "",
+  "subject": "six patients in a Chinese-medicine clinic waiting room who all stand up because the number machine jammed and printed ticket number seven six times, while the teapot steams and the nurse calls 'number seven' again",
+  "caption": "Mandarin 1960s exotica lounge in the Martin Denny manner. Vibraphone carrying the melody, bongos and light congas on a gentle rhythm, upright bass in a walking line, brushed drums, alto flute on the answer phrases. Dry vintage room, light spring reverb on the vibraphone. Female vocal, light mid-register, smooth and clearly sung with a smile. 104 BPM, F major. Playful, sly, relaxed. No electric guitar, no synth, no drum machine, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+  "lyrics": "[Intro - vibraphone, bongos, alto flute]\n[Verse 1]\n中醫診所的候診室\n牆上掛著人體經絡圖\n取號機卡了一下\n吐出六張七號\n[Pre-Chorus]\n護士小姐探出頭來\n大聲喊了一聲七號\n[Chorus]\n七號請進 七號請進\n六個人同時站起來\n誰是真的七號\n只有茶壺 慢慢冒著煙\n[Verse 2]\n阿伯說我坐得最久\n阿姨說她的腰最痛\n學生拿出他的收據\n上面印著七號 也印著日期\n[Pre-Chorus]\n大家你看我我看你\n護士把名單翻了三遍\n[Chorus]\n七號請進 七號請進\n今天算一個團體套餐\n醫生走出來把脈\n說這屋子 都該喝杯茶\n[Bridge - vibraphone solo, bongos]\n左邊的先進 右邊的跟著\n一個一個 都沒有毛病\n[Chorus]\n七號請進 六位請進\n茶壺也想排個號\n[Outro - vibraphone and flute, light bongo taps]\n下一位 八號",
+  "lyrics_leaked_tokens": [],
+  "lyrics_looks_romanized": false,
+  "metas": {
+    "bpm": 104,
+    "duration": 190.0,
+    "genres": "N/A",
+    "keyscale": "F major",
+    "timesignature": "4",
+    "prompt": "Mandarin 1960s exotica lounge in the Martin Denny manner. Vibraphone carrying the melody, bongos and light congas on a gentle rhythm, upright bass in a walking line, brushed drums, alto flute on the answer phrases. Dry vintage room, light spring reverb on the vibraphone. Female vocal, light mid-register, smooth and clearly sung with a smile. 104 BPM, F major. Playful, sly, relaxed. No electric guitar, no synth, no drum machine, no autotune, no rap. Clear full voice, every word enunciated, steady sung melody on every line.",
+    "lyrics": "[Intro - vibraphone, bongos, alto flute]\n[Verse 1]\n中醫診所的候診室\n牆上掛著人體經絡圖\n取號機卡了一下\n吐出六張七號\n[Pre-Chorus]\n護士小姐探出頭來\n大聲喊了一聲七號\n[Chorus]\n七號請進 七號請進\n六個人同時站起來\n誰是真的七號\n只有茶壺 慢慢冒著煙\n[Verse 2]\n阿伯說我坐得最久\n阿姨說她的腰最痛\n學生拿出他的收據\n上面印著七號 也印著日期\n[Pre-Chorus]\n大家你看我我看你\n護士把名單翻了三遍\n[Chorus]\n七號請進 七號請進\n今天算一個團體套餐\n醫生走出來把脈\n說這屋子 都該喝杯茶\n[Bridge - vibraphone solo, bongos]\n左邊的先進 右邊的跟著\n一個一個 都沒有毛病\n[Chorus]\n七號請進 六位請進\n茶壺也想排個號\n[Outro - vibraphone and flute, light bongo taps]\n下一位 八號"
+  },
+  "seed": "4284917280",
+  "dit_model": "acestep-v15-turbo",
+  "generation_info": "**🎵 Total generation time (1 song): 58.27s**\n- 58.27s per song\n- LM phase (1 song): 13.66s\n- DiT phase (1 song): 44.61s",
+  "task_id": "efff3e2a-58a0-4a4a-a1d7-15a48b891cfb",
+  "elapsed_s": 80.1,
+  "generated_at": "2026-11-26T11:13:42.402168+08:00",
+  "audio": "b25_zh03.mp3",
+  "lyrics_timed": [
+    {
+      "t": 11.34,
+      "end": 11.34,
+      "text": "[Intro - vibraphone, bongos, alto flute]"
+    },
+    {
+      "t": 11.34,
+      "end": 11.34,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 11.34,
+      "end": 17.54,
+      "text": "中醫診所的候診室"
+    },
+    {
+      "t": 28.06,
+      "end": 31.44,
+      "text": "牆上掛著人體經絡圖"
+    },
+    {
+      "t": 31.86,
+      "end": 32.66,
+      "text": "取號機卡了一下"
+    },
+    {
+      "t": 34.45,
+      "end": 35.48,
+      "text": "吐出六張七號"
+    },
+    {
+      "t": 35.64,
+      "end": 35.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.64,
+      "end": 37.44,
+      "text": "護士小姐探出頭來"
+    },
+    {
+      "t": 37.46,
+      "end": 38.9,
+      "text": "大聲喊了一聲七號"
+    },
+    {
+      "t": 39.14,
+      "end": 39.14,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 39.14,
+      "end": 40.86,
+      "text": "七號請進 七號請進"
+    },
+    {
+      "t": 40.88,
+      "end": 45.78,
+      "text": "六個人同時站起來"
+    },
+    {
+      "t": 45.78,
+      "end": 46.84,
+      "text": "誰是真的七號"
+    },
+    {
+      "t": 46.84,
+      "end": 53.89,
+      "text": "只有茶壺 慢慢冒著煙"
+    },
+    {
+      "t": 54.29,
+      "end": 54.29,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 54.29,
+      "end": 65.25,
+      "text": "阿伯說我坐得最久"
+    },
+    {
+      "t": 65.35,
+      "end": 70.97,
+      "text": "阿姨說她的腰最痛"
+    },
+    {
+      "t": 73.03,
+      "end": 75.23,
+      "text": "學生拿出他的收據"
+    },
+    {
+      "t": 76.21,
+      "end": 80.15,
+      "text": "上面印著七號 也印著日期"
+    },
+    {
+      "t": 82.33,
+      "end": 82.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.33,
+      "end": 85.13,
+      "text": "大家你看我我看你"
+    },
+    {
+      "t": 86.93,
+      "end": 90.05,
+      "text": "護士把名單翻了三遍"
+    },
+    {
+      "t": 96.55,
+      "end": 96.55,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 96.55,
+      "end": 102.57,
+      "text": "七號請進 七號請進"
+    },
+    {
+      "t": 102.71,
+      "end": 105.79,
+      "text": "今天算一個團體套餐"
+    },
+    {
+      "t": 105.81,
+      "end": 107.31,
+      "text": "醫生走出來把脈"
+    },
+    {
+      "t": 107.39,
+      "end": 110.11,
+      "text": "說這屋子 都該喝杯茶"
+    },
+    {
+      "t": 116.27,
+      "end": 116.27,
+      "text": "[Bridge - vibraphone solo, bongos]"
+    },
+    {
+      "t": 116.27,
+      "end": 119.69,
+      "text": "左邊的先進 右邊的跟著"
+    },
+    {
+      "t": 119.79,
+      "end": 140.79,
+      "text": "一個一個 都沒有毛病"
+    },
+    {
+      "t": 145.6,
+      "end": 145.6,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.6,
+      "end": 148.74,
+      "text": "七號請進 六位請進"
+    },
+    {
+      "t": 149.62,
+      "end": 152.24,
+      "text": "茶壺也想排個號"
+    },
+    {
+      "t": 158.2,
+      "end": 158.2,
+      "text": "[Outro - vibraphone and flute, light bongo taps]"
+    },
+    {
+      "t": 158.2,
+      "end": 183.5,
+      "text": "下一位 八號"
+    }
+  ],
+  "lyrics_timed_by": "torchaudio MMS_FA forced alignment, per line from the mix or the HDemucs vocal stem, starts in silence moved to the vocal onset",
+  "lyrics_timed_vocals": [
+    {
+      "t": 10.22,
+      "end": 10.22,
+      "text": "[Intro - vibraphone, bongos, alto flute]"
+    },
+    {
+      "t": 10.22,
+      "end": 10.22,
+      "text": "[Verse 1]"
+    },
+    {
+      "t": 10.22,
+      "end": 28.12,
+      "text": "中醫診所的候診室"
+    },
+    {
+      "t": 28.12,
+      "end": 30.98,
+      "text": "牆上掛著人體經絡圖"
+    },
+    {
+      "t": 30.98,
+      "end": 32.5,
+      "text": "取號機卡了一下"
+    },
+    {
+      "t": 32.58,
+      "end": 35.48,
+      "text": "吐出六張七號"
+    },
+    {
+      "t": 35.64,
+      "end": 35.64,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 35.64,
+      "end": 37.44,
+      "text": "護士小姐探出頭來"
+    },
+    {
+      "t": 37.46,
+      "end": 38.58,
+      "text": "大聲喊了一聲七號"
+    },
+    {
+      "t": 38.58,
+      "end": 38.58,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 38.58,
+      "end": 40.9,
+      "text": "七號請進 七號請進"
+    },
+    {
+      "t": 40.92,
+      "end": 45.78,
+      "text": "六個人同時站起來"
+    },
+    {
+      "t": 45.78,
+      "end": 46.7,
+      "text": "誰是真的七號"
+    },
+    {
+      "t": 46.7,
+      "end": 47.95,
+      "text": "只有茶壺 慢慢冒著煙"
+    },
+    {
+      "t": 48.57,
+      "end": 48.57,
+      "text": "[Verse 2]"
+    },
+    {
+      "t": 48.57,
+      "end": 65.25,
+      "text": "阿伯說我坐得最久"
+    },
+    {
+      "t": 65.37,
+      "end": 71.01,
+      "text": "阿姨說她的腰最痛"
+    },
+    {
+      "t": 73.01,
+      "end": 75.25,
+      "text": "學生拿出他的收據"
+    },
+    {
+      "t": 76.23,
+      "end": 80.15,
+      "text": "上面印著七號 也印著日期"
+    },
+    {
+      "t": 82.33,
+      "end": 82.33,
+      "text": "[Pre-Chorus]"
+    },
+    {
+      "t": 82.33,
+      "end": 85.13,
+      "text": "大家你看我我看你"
+    },
+    {
+      "t": 86.93,
+      "end": 89.55,
+      "text": "護士把名單翻了三遍"
+    },
+    {
+      "t": 89.75,
+      "end": 89.75,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 89.75,
+      "end": 103.07,
+      "text": "七號請進 七號請進"
+    },
+    {
+      "t": 103.13,
+      "end": 105.79,
+      "text": "今天算一個團體套餐"
+    },
+    {
+      "t": 105.79,
+      "end": 107.31,
+      "text": "醫生走出來把脈"
+    },
+    {
+      "t": 107.39,
+      "end": 110.13,
+      "text": "說這屋子 都該喝杯茶"
+    },
+    {
+      "t": 116.27,
+      "end": 116.27,
+      "text": "[Bridge - vibraphone solo, bongos]"
+    },
+    {
+      "t": 116.27,
+      "end": 119.67,
+      "text": "左邊的先進 右邊的跟著"
+    },
+    {
+      "t": 120.91,
+      "end": 140.79,
+      "text": "一個一個 都沒有毛病"
+    },
+    {
+      "t": 145.62,
+      "end": 145.62,
+      "text": "[Chorus]"
+    },
+    {
+      "t": 145.62,
+      "end": 148.74,
+      "text": "七號請進 六位請進"
+    },
+    {
+      "t": 149.62,
+      "end": 152.26,
+      "text": "茶壺也想排個號"
+    },
+    {
+      "t": 158.22,
+      "end": 158.22,
+      "text": "[Outro - vibraphone and flute, light bongo taps]"
+    },
+    {
+      "t": 158.22,
+      "end": 183.48,
+      "text": "下一位 八號"
+    }
+  ],
+  "lyrics_timed_vocals_by": "torchaudio MMS_FA forced alignment on HDemucs-separated vocals"
+}
